@@ -1,7 +1,17 @@
 """Bot Telegram : gestion des commandes et des interactions utilisateur.
-
-Ce module contiendra la configuration du bot et les handlers de commandes.
 """
 
-# TODO: implémenter l'initialisation du bot Telegram
-# TODO: implémenter les handlers de commandes (/start, /analyse, etc.)
+from telegram import Update
+from telegram.ext import Application, ApplicationBuilder, CommandHandler, ContextTypes
+
+from config import TELEGRAM_BOT_TOKEN
+
+
+async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
+    await update.message.reply_text("🤖 MyFootAiscore Bot actif")
+
+
+def build_application() -> Application:
+    application = ApplicationBuilder().token(TELEGRAM_BOT_TOKEN).build()
+    application.add_handler(CommandHandler("start", start))
+    return application

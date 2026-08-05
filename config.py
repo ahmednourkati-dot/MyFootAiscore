@@ -3,8 +3,15 @@
 Charge les paramètres depuis les variables d'environnement (.env).
 """
 
-# TODO: charger les variables d'environnement (ex. via python-dotenv)
+import os
 
-TELEGRAM_BOT_TOKEN = None
-FOOTBALL_API_KEY = None
-FOOTBALL_API_BASE_URL = None
+from dotenv import load_dotenv
+
+load_dotenv()
+
+TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
+FOOTBALL_API_KEY = os.getenv("FOOTBALL_API_KEY")
+FOOTBALL_API_BASE_URL = os.getenv("FOOTBALL_API_BASE_URL")
+
+if not TELEGRAM_BOT_TOKEN:
+    raise RuntimeError("TELEGRAM_BOT_TOKEN manquant dans les variables d'environnement (.env)")
