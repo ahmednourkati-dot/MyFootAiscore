@@ -1,0 +1,37 @@
+name: Tester le bot Telegram
+
+on:
+  workflow_dispatch:
+    inputs:
+      duration_minutes:
+        description: "Durée du test (en minutes)"
+        required: false
+        default: "5"
+
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Récupérer le code
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Installer les dépendances
+        run: pip install -r requirements.txt
+
+      - name: Créer le fichier .env à partir des secrets du repo
+        run: |
+          cat <<EOF > .env
+          TELEGRAM_BOT_TOKEN=${{ secrets.TELEGRAM_BOT_TOKEN }}
+          FOOTBALL_API_KEY=${{ secrets.FOOTBALL_API_KEY }}
+          FOOTBALL_API_BASE_URL=https://api.football-data.org/v4
+          ODDS_API_KEY=${{ secrets.ODDS_API_KEY }}
+          EOF
+
+      - name: Lancer le bot pendant la durée choisie
+        run: timeout "${{ github.event.inputs.duration_minutes }}m" python main.py || true
