@@ -22,6 +22,12 @@ ODDS_DROP_THRESHOLD = 0.15          # chute relative de cote >= 15 % -> signal
 BOOKMAKER_SPREAD_THRESHOLD = 0.20   # écart max/min entre bookmakers >= 20 % -> signal
 MIN_BOOKMAKERS_FOR_SPREAD_CHECK = 3
 
+# Pinnacle est réputée pour être le bookmaker le plus "sharp" (le plus
+# efficient) du marché : ses mouvements de cotes précèdent souvent ceux
+# des autres bookmakers, même quand ils ne s'écartent pas (encore) du
+# marché. Un mouvement chez Pinnacle est donc signalé distinctement.
+PINNACLE_NAME = "Pinnacle"
+
 # Paliers de mise suggérée en fonction du score de confiance (% du capital)
 STAKE_TIERS = (
     (85, 5.0),
@@ -194,6 +200,44 @@ def _detect_unusual_bookmaker_moves(
     return signals
 
 
+def _detect_pinnacle_move(
+    previous: dict[str, dict[str, float]], current: dict[str, dict[str, float]]
+) -> list[Signal]:
+    """Mouvement de cote chez Pinnacle, la référence "sharp" du marché.
+
+    Contrairement à `_detect_unusual_bookmaker_moves`, ce signal ne
+    dépend pas d'un écart par rapport au marché : Pinnacle bougeant en
+    premier (avant que les autres bookmakers ne suivent) est en soi un
+    indicateur pertinent, pas seulement une divergence.
+    """
+    previous_pinnacle = previous.get(PINNACLE_NAME)
+    current_pinnacle = current.get(PINNACLE_NAME)
+    if not previous_pinnacle or not current_pinnacle:
+        return []
+
+    signals = []
+    for outcome, current_price in current_pinnacle.items():
+        previous_price = previous_pinnacle.get(outcome)
+        if not previous_price:
+            continue
+        move = (current_price - previous_price) / previous_price
+        if abs(move) < ODDS_DROP_THRESHOLD:
+            continue
+        direction = "cote raccourcie" if move < 0 else "cote allongée"
+        signals.append(
+            Signal(
+                category="pinnacle_move",
+                text=(
+                    f"🎯 Pinnacle (référence sharp) bouge sur « {outcome} » "
+                    f"(cote {previous_price:.2f} → {current_price:.2f}, "
+                    f"{direction}, {abs(move):.0%})"
+                ),
+                magnitude=abs(move),
+            )
+        )
+    return signals
+
+
 def _confidence_from_signals(signals: list[Signal]) -> int:
     """Score de confiance (0-100) dans la force du signal statistique.
 
@@ -209,6 +253,9 @@ def _confidence_from_signals(signals: list[Signal]) -> int:
     max_magnitude = max(signal.magnitude for signal in signals)
 
     score = 30 + 20 * (len(categories) - 1) + min(30, max_magnitude * 50)
+    if "pinnacle_move" in categories:
+        score += 15  # Pinnacle est la référence sharp : bonus de confiance dédié
+
     return min(100, round(score))
 
 
@@ -243,6 +290,7 @@ def analyze_match(
     current_best = _best_price_per_outcome(current_prices)
     signals.extend(_detect_massive_bet_signal(previous_best, current_best))
     signals.extend(_detect_unusual_bookmaker_moves(previous_prices, current_prices))
+    signals.extend(_detect_pinnacle_move(previous_prices, current_prices))
 
     confidence = _confidence_from_signals(signals)
     stake_pct = _stake_from_confidence(confidence) if signals else 0.0
