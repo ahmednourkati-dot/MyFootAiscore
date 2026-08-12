@@ -59,7 +59,7 @@
       "Betfair": {
         "Bragantino-SP": 2.12,
         "Clube Atlético Mineiro": 4.0,
-        "Draw": 3.25
+        "Draw": 3.3
       }
     },
     "398d07703c866bb0315c56cd1ce6e035:h2h": {
@@ -96,7 +96,7 @@
       "Nordic Bet": {
         "CA Tigre BA": 1.82,
         "Montevideo City Torque": 4.45,
-        "Draw": 3.2
+        "Draw": 3.15
       },
       "Unibet (NL)": {
         "CA Tigre BA": 1.83,
@@ -109,8 +109,8 @@
         "Draw": 3.1
       },
       "Betfair": {
-        "CA Tigre BA": 1.85,
-        "Montevideo City Torque": 5.4,
+        "CA Tigre BA": 1.86,
+        "Montevideo City Torque": 5.5,
         "Draw": 3.4
       }
     },
@@ -121,9 +121,9 @@
         "Draw": 4.75
       },
       "1xBet": {
-        "Cerro Porteño": 10.2,
-        "Palmeiras-SP": 1.35,
-        "Draw": 4.89
+        "Cerro Porteño": 10.3,
+        "Palmeiras-SP": 1.34,
+        "Draw": 5.01
       },
       "Winamax (DE)": {
         "Cerro Porteño": 8.5,
@@ -151,29 +151,29 @@
         "Draw": 4.55
       },
       "Tipico": {
-        "Cerro Porteño": 10.5,
-        "Palmeiras-SP": 1.28,
+        "Cerro Porteño": 11.0,
+        "Palmeiras-SP": 1.27,
         "Draw": 5.2
       },
       "Marathon Bet": {
-        "Cerro Porteño": 9.8,
-        "Palmeiras-SP": 1.32,
-        "Draw": 4.7
+        "Cerro Porteño": 9.9,
+        "Palmeiras-SP": 1.31,
+        "Draw": 4.8
       },
       "Betsson": {
-        "Cerro Porteño": 11.0,
+        "Cerro Porteño": 9.8,
         "Palmeiras-SP": 1.32,
-        "Draw": 4.35
+        "Draw": 4.6
       },
       "Nordic Bet": {
-        "Cerro Porteño": 11.0,
+        "Cerro Porteño": 9.8,
         "Palmeiras-SP": 1.32,
-        "Draw": 4.35
+        "Draw": 4.6
       },
       "Suprabets": {
         "Cerro Porteño": 10.0,
-        "Palmeiras-SP": 1.31,
-        "Draw": 4.6
+        "Palmeiras-SP": 1.3,
+        "Draw": 4.75
       },
       "Codere (IT)": {
         "Cerro Porteño": 9.6,
@@ -191,19 +191,19 @@
         "Draw": 4.6
       },
       "Pinnacle": {
-        "Cerro Porteño": 11.06,
-        "Palmeiras-SP": 1.32,
-        "Draw": 4.92
+        "Cerro Porteño": 11.25,
+        "Palmeiras-SP": 1.31,
+        "Draw": 5.01
       },
       "888sport": {
         "Cerro Porteño": 10.0,
         "Palmeiras-SP": 1.3,
-        "Draw": 4.6
+        "Draw": 4.5
       },
       "William Hill": {
         "Cerro Porteño": 10.0,
         "Palmeiras-SP": 1.3,
-        "Draw": 4.6
+        "Draw": 4.5
       },
       "GTbets": {
         "Cerro Porteño": 9.42,
@@ -216,9 +216,9 @@
         "Draw": 5.03
       },
       "Betfair": {
-        "Cerro Porteño": 11.5,
-        "Palmeiras-SP": 1.35,
-        "Draw": 5.3
+        "Cerro Porteño": 13.0,
+        "Palmeiras-SP": 1.33,
+        "Draw": 5.5
       }
     },
     "2931578ca874ba48e46a61c94fb56fcd:h2h": {
@@ -229,8 +229,8 @@
       },
       "1xBet": {
         "Coquimbo Unido": 4.68,
-        "Platense": 1.98,
-        "Draw": 3.1
+        "Platense": 1.97,
+        "Draw": 3.13
       },
       "Winamax (DE)": {
         "Coquimbo Unido": 4.1,
@@ -288,9 +288,9 @@
         "Draw": 2.9
       },
       "Pinnacle": {
-        "Coquimbo Unido": 4.63,
-        "Platense": 1.96,
-        "Draw": 3.11
+        "Coquimbo Unido": 4.69,
+        "Platense": 1.94,
+        "Draw": 3.14
       },
       "888sport": {
         "Coquimbo Unido": 4.4,
@@ -313,46 +313,16 @@
         "Draw": 3.11
       },
       "Betfair": {
-        "Coquimbo Unido": 4.9,
-        "Platense": 1.99,
+        "Coquimbo Unido": 5.0,
+        "Platense": 2.0,
         "Draw": 3.2
-      }
-    },
-    "2931578ca874ba48e46a61c94fb56fcd:totals_1.5": {
-      "1xBet": {
-        "Over": 1.59,
-        "Under": 2.43
-      },
-      "Unibet (NL)": {
-        "Over": 1.51,
-        "Under": 2.48
-      },
-      "LeoVegas (SE)": {
-        "Over": 1.49,
-        "Under": 2.4
-      },
-      "Tipico": {
-        "Over": 1.5,
-        "Under": 2.45
-      },
-      "Codere (IT)": {
-        "Over": 1.54,
-        "Under": 2.33
-      },
-      "PMU (FR)": {
-        "Over": 1.42,
-        "Under": 2.3
-      },
-      "GTbets": {
-        "Over": 1.52,
-        "Under": 2.41
       }
     },
     "5ec151359d05d4202b928f40e1a53343:h2h": {
       "1xBet": {
-        "Atlético San Luis": 4.84,
-        "Orlando City SC": 1.55,
-        "Draw": 4.5
+        "Atlético San Luis": 4.83,
+        "Orlando City SC": 1.56,
+        "Draw": 4.45
       },
       "Betsson": {
         "Atlético San Luis": 4.85,
@@ -365,7 +335,7 @@
         "Draw": 4.5
       },
       "William Hill": {
-        "Atlético San Luis": 4.5,
+        "Atlético San Luis": 4.4,
         "Orlando City SC": 1.53,
         "Draw": 4.0
       },
@@ -380,7 +350,7 @@
         "Draw": 4.5
       },
       "888sport": {
-        "Atlético San Luis": 4.5,
+        "Atlético San Luis": 4.4,
         "Orlando City SC": 1.53,
         "Draw": 4.0
       },
@@ -391,7 +361,7 @@
       },
       "Betfair": {
         "Atlético San Luis": 5.3,
-        "Orlando City SC": 1.6,
+        "Orlando City SC": 1.59,
         "Draw": 4.7
       },
       "LeoVegas (SE)": {
@@ -415,14 +385,14 @@
         "Draw": 4.4
       },
       "Pinnacle": {
-        "Atlético San Luis": 4.79,
-        "Orlando City SC": 1.56,
+        "Atlético San Luis": 4.74,
+        "Orlando City SC": 1.57,
         "Draw": 4.66
       },
       "BetOnline.ag": {
         "Atlético San Luis": 4.6,
         "Orlando City SC": 1.59,
-        "Draw": 4.5
+        "Draw": 4.6
       }
     },
     "644598d40b1e12ae0d4e3cedb70846f6:h2h": {
@@ -432,8 +402,8 @@
         "Draw": 3.95
       },
       "1xBet": {
-        "Inter Miami CF": 1.92,
-        "León": 3.34,
+        "Inter Miami CF": 1.9,
+        "León": 3.4,
         "Draw": 3.94
       },
       "Betsson": {
@@ -468,7 +438,7 @@
       },
       "Betfair": {
         "Inter Miami CF": 2.0,
-        "León": 3.55,
+        "León": 3.65,
         "Draw": 4.3
       },
       "Unibet (NL)": {
@@ -492,350 +462,14 @@
         "Draw": 4.4
       },
       "Pinnacle": {
-        "Inter Miami CF": 1.93,
-        "León": 3.43,
-        "Draw": 4.18
+        "Inter Miami CF": 1.91,
+        "León": 3.49,
+        "Draw": 4.23
       },
       "BetOnline.ag": {
         "Inter Miami CF": 1.95,
         "León": 3.37,
         "Draw": 4.15
-      }
-    },
-    "d4a851573fc10eac9ad57a7333331540:h2h": {
-      "Pinnacle": {
-        "Brandon Nakashima": 2.93,
-        "Rafael Jodar": 1.45
-      },
-      "Marathon Bet": {
-        "Brandon Nakashima": 2.94,
-        "Rafael Jodar": 1.4
-      },
-      "Betfair": {
-        "Brandon Nakashima": 3.05,
-        "Rafael Jodar": 1.47
-      },
-      "1xBet": {
-        "Brandon Nakashima": 2.98,
-        "Rafael Jodar": 1.42
-      },
-      "Coolbet": {
-        "Brandon Nakashima": 2.95,
-        "Rafael Jodar": 1.45
-      },
-      "Unibet (FR)": {
-        "Brandon Nakashima": 2.8,
-        "Rafael Jodar": 1.38
-      },
-      "Nordic Bet": {
-        "Brandon Nakashima": 2.85,
-        "Rafael Jodar": 1.43
-      },
-      "Betclic (FR)": {
-        "Brandon Nakashima": 2.65,
-        "Rafael Jodar": 1.39
-      },
-      "Betsson": {
-        "Brandon Nakashima": 2.85,
-        "Rafael Jodar": 1.43
-      },
-      "Winamax (FR)": {
-        "Brandon Nakashima": 2.85,
-        "Rafael Jodar": 1.44
-      },
-      "Winamax (DE)": {
-        "Brandon Nakashima": 2.9,
-        "Rafael Jodar": 1.45
-      },
-      "Matchbook": {
-        "Brandon Nakashima": 3.05,
-        "Rafael Jodar": 1.47
-      },
-      "GTbets": {
-        "Brandon Nakashima": 2.91,
-        "Rafael Jodar": 1.42
-      },
-      "Tipico": {
-        "Brandon Nakashima": 2.9,
-        "Rafael Jodar": 1.4
-      },
-      "William Hill": {
-        "Brandon Nakashima": 2.75,
-        "Rafael Jodar": 1.44
-      },
-      "888sport": {
-        "Brandon Nakashima": 2.75,
-        "Rafael Jodar": 1.44
-      },
-      "BetOnline.ag": {
-        "Brandon Nakashima": 2.85,
-        "Rafael Jodar": 1.45
-      },
-      "BetAnything": {
-        "Brandon Nakashima": 2.85,
-        "Rafael Jodar": 1.44
-      },
-      "LeoVegas (SE)": {
-        "Brandon Nakashima": 2.9,
-        "Rafael Jodar": 1.41
-      },
-      "Unibet (NL)": {
-        "Brandon Nakashima": 2.9,
-        "Rafael Jodar": 1.41
-      },
-      "PMU (FR)": {
-        "Brandon Nakashima": 2.85,
-        "Rafael Jodar": 1.38
-      },
-      "Unibet (SE)": {
-        "Brandon Nakashima": 2.9,
-        "Rafael Jodar": 1.41
-      }
-    },
-    "96d04e74c6877e5d4e6da85d8350c728:h2h": {
-      "Pinnacle": {
-        "Aleksandar Vukic": 1.64,
-        "Darwin Blanch": 2.33
-      },
-      "GTbets": {
-        "Aleksandar Vukic": 1.6,
-        "Darwin Blanch": 2.29
-      },
-      "BetOnline.ag": {
-        "Aleksandar Vukic": 1.67,
-        "Darwin Blanch": 2.3
-      },
-      "Nordic Bet": {
-        "Aleksandar Vukic": 1.61,
-        "Darwin Blanch": 2.18
-      }
-    },
-    "1deabebdcfbbdf50f921bfd02608ba4d:h2h": {
-      "Pinnacle": {
-        "Dalibor Svrcina": 1.91,
-        "Mark Lajal": 1.94
-      },
-      "GTbets": {
-        "Dalibor Svrcina": 1.79,
-        "Mark Lajal": 1.95
-      },
-      "BetOnline.ag": {
-        "Dalibor Svrcina": 1.83,
-        "Mark Lajal": 2.0
-      },
-      "Nordic Bet": {
-        "Dalibor Svrcina": 1.8,
-        "Mark Lajal": 1.91
-      }
-    },
-    "e84fd7b49e7d37b8c96c030856eafffe:h2h": {
-      "Pinnacle": {
-        "Henrique Rocha": 2.77,
-        "Marcos Giron": 1.48
-      },
-      "Marathon Bet": {
-        "Henrique Rocha": 2.64,
-        "Marcos Giron": 1.41
-      },
-      "BetOnline.ag": {
-        "Henrique Rocha": 2.82,
-        "Marcos Giron": 1.47
-      },
-      "Nordic Bet": {
-        "Henrique Rocha": 2.65,
-        "Marcos Giron": 1.42
-      }
-    },
-    "f24b0f912e143f49c0b9880cc3d226d5:h2h": {
-      "Pinnacle": {
-        "Jacob Fearnley": 1.32,
-        "Nicolas Mejia": 3.55
-      },
-      "Marathon Bet": {
-        "Jacob Fearnley": 1.26,
-        "Nicolas Mejia": 3.4
-      },
-      "GTbets": {
-        "Jacob Fearnley": 1.32,
-        "Nicolas Mejia": 3.64
-      },
-      "BetOnline.ag": {
-        "Jacob Fearnley": 1.29,
-        "Nicolas Mejia": 3.76
-      },
-      "Nordic Bet": {
-        "Jacob Fearnley": 1.26,
-        "Nicolas Mejia": 3.45
-      }
-    },
-    "c05f8c573d6a164f288c21a2d3d2ff9f:h2h": {
-      "Betfair": {
-        "Elina Svitolina": 3.1,
-        "Iga Swiatek": 1.45
-      },
-      "Unibet (FR)": {
-        "Elina Svitolina": 3.1,
-        "Iga Swiatek": 1.39
-      },
-      "Betclic (FR)": {
-        "Elina Svitolina": 3.1,
-        "Iga Swiatek": 1.39
-      },
-      "Nordic Bet": {
-        "Elina Svitolina": 2.94,
-        "Iga Swiatek": 1.38
-      },
-      "GTbets": {
-        "Elina Svitolina": 3.06,
-        "Iga Swiatek": 1.39
-      },
-      "Betsson": {
-        "Elina Svitolina": 2.94,
-        "Iga Swiatek": 1.38
-      },
-      "Winamax (FR)": {
-        "Elina Svitolina": 3.0,
-        "Iga Swiatek": 1.4
-      },
-      "Winamax (DE)": {
-        "Elina Svitolina": 3.05,
-        "Iga Swiatek": 1.41
-      },
-      "Marathon Bet": {
-        "Elina Svitolina": 2.94,
-        "Iga Swiatek": 1.4
-      },
-      "888sport": {
-        "Elina Svitolina": 2.9,
-        "Iga Swiatek": 1.4
-      },
-      "Coolbet": {
-        "Elina Svitolina": 3.05,
-        "Iga Swiatek": 1.42
-      },
-      "William Hill": {
-        "Elina Svitolina": 2.9,
-        "Iga Swiatek": 1.4
-      },
-      "1xBet": {
-        "Elina Svitolina": 2.98,
-        "Iga Swiatek": 1.42
-      },
-      "Pinnacle": {
-        "Elina Svitolina": 3.06,
-        "Iga Swiatek": 1.43
-      },
-      "Tipico": {
-        "Elina Svitolina": 2.9,
-        "Iga Swiatek": 1.4
-      },
-      "BetOnline.ag": {
-        "Elina Svitolina": 3.0,
-        "Iga Swiatek": 1.42
-      },
-      "Matchbook": {
-        "Elina Svitolina": 3.1,
-        "Iga Swiatek": 1.45
-      },
-      "Unibet (NL)": {
-        "Elina Svitolina": 2.85,
-        "Iga Swiatek": 1.42
-      },
-      "LeoVegas (SE)": {
-        "Elina Svitolina": 2.85,
-        "Iga Swiatek": 1.42
-      },
-      "Unibet (SE)": {
-        "Elina Svitolina": 2.85,
-        "Iga Swiatek": 1.42
-      },
-      "PMU (FR)": {
-        "Elina Svitolina": 2.75,
-        "Iga Swiatek": 1.4
-      },
-      "BetAnything": {
-        "Elina Svitolina": 3.0,
-        "Iga Swiatek": 1.4
-      }
-    },
-    "a2cb595a277c5dbeb792b139aa745f84:h2h": {
-      "Pinnacle": {
-        "Aliaksandra Sasnovich": 1.55,
-        "Emiliana Arango": 2.55
-      },
-      "GTbets": {
-        "Aliaksandra Sasnovich": 1.56,
-        "Emiliana Arango": 2.52
-      },
-      "Marathon Bet": {
-        "Aliaksandra Sasnovich": 1.46,
-        "Emiliana Arango": 2.49
-      },
-      "Nordic Bet": {
-        "Aliaksandra Sasnovich": 1.48,
-        "Emiliana Arango": 2.47
-      },
-      "BetOnline.ag": {
-        "Aliaksandra Sasnovich": 1.53,
-        "Emiliana Arango": 2.63
-      }
-    },
-    "8c09fed902ca7058112d348aeef01a73:h2h": {
-      "Pinnacle": {
-        "Bianca Andreescu": 2.13,
-        "Xiyu Wang": 1.76
-      },
-      "GTbets": {
-        "Bianca Andreescu": 2.16,
-        "Xiyu Wang": 1.7
-      },
-      "Marathon Bet": {
-        "Bianca Andreescu": 2.1,
-        "Xiyu Wang": 1.64
-      },
-      "BetOnline.ag": {
-        "Bianca Andreescu": 2.15,
-        "Xiyu Wang": 1.74
-      },
-      "Nordic Bet": {
-        "Bianca Andreescu": 2.06,
-        "Xiyu Wang": 1.68
-      }
-    },
-    "1918dd4ab9f2a355e706710cd88ce054:h2h": {
-      "Pinnacle": {
-        "Carol Young Suh Lee": 1.71,
-        "Polina Kudermetova": 2.19
-      },
-      "GTbets": {
-        "Carol Young Suh Lee": 1.65,
-        "Polina Kudermetova": 2.25
-      },
-      "Nordic Bet": {
-        "Carol Young Suh Lee": 1.67,
-        "Polina Kudermetova": 2.09
-      }
-    },
-    "fa72cccd780596b23977509ba20f1d0c:h2h": {
-      "Pinnacle": {
-        "Ella Seidel": 1.5,
-        "Nadia Podoroska": 2.69
-      },
-      "GTbets": {
-        "Ella Seidel": 1.5,
-        "Nadia Podoroska": 2.6
-      },
-      "Marathon Bet": {
-        "Ella Seidel": 1.46,
-        "Nadia Podoroska": 2.49
-      },
-      "BetOnline.ag": {
-        "Ella Seidel": 1.49,
-        "Nadia Podoroska": 2.76
-      },
-      "Nordic Bet": {
-        "Ella Seidel": 1.44,
-        "Nadia Podoroska": 2.6
       }
     },
     "9e937140b7e25d07694942c6d7bc22f8:h2h": {
@@ -845,8 +479,8 @@
         "Draw": 3.64
       },
       "Betsson": {
-        "Monterrey": 3.15,
-        "Nashville SC": 2.1,
+        "Monterrey": 3.05,
+        "Nashville SC": 2.15,
         "Draw": 3.5
       },
       "Coolbet": {
@@ -855,13 +489,13 @@
         "Draw": 3.75
       },
       "Winamax (DE)": {
-        "Monterrey": 3.0,
-        "Nashville SC": 2.05,
-        "Draw": 3.6
+        "Monterrey": 2.95,
+        "Nashville SC": 2.1,
+        "Draw": 3.55
       },
       "Winamax (FR)": {
-        "Monterrey": 2.95,
-        "Nashville SC": 2.0,
+        "Monterrey": 2.9,
+        "Nashville SC": 2.05,
         "Draw": 3.5
       },
       "888sport": {
@@ -870,8 +504,8 @@
         "Draw": 3.4
       },
       "Nordic Bet": {
-        "Monterrey": 3.15,
-        "Nashville SC": 2.1,
+        "Monterrey": 3.05,
+        "Nashville SC": 2.15,
         "Draw": 3.5
       },
       "William Hill": {
@@ -880,9 +514,9 @@
         "Draw": 3.4
       },
       "Betfair": {
-        "Monterrey": 3.15,
+        "Monterrey": 3.2,
         "Nashville SC": 2.24,
-        "Draw": 4.0
+        "Draw": 3.95
       },
       "Unibet (NL)": {
         "Monterrey": 3.15,
@@ -922,8 +556,8 @@
         "Draw": 2.95
       },
       "1xBet": {
-        "Cruzeiro": 3.07,
-        "Flamengo-RJ": 2.69,
+        "Cruzeiro": 3.06,
+        "Flamengo-RJ": 2.71,
         "Draw": 2.99
       },
       "Winamax (DE)": {
@@ -957,8 +591,8 @@
         "Draw": 2.95
       },
       "Marathon Bet": {
-        "Cruzeiro": 2.95,
-        "Flamengo-RJ": 2.59,
+        "Cruzeiro": 2.94,
+        "Flamengo-RJ": 2.6,
         "Draw": 2.88
       },
       "Betsson": {
@@ -997,9 +631,9 @@
         "Draw": 2.8
       },
       "Pinnacle": {
-        "Cruzeiro": 3.06,
-        "Flamengo-RJ": 2.66,
-        "Draw": 2.93
+        "Cruzeiro": 3.05,
+        "Flamengo-RJ": 2.68,
+        "Draw": 2.92
       },
       "BetOnline.ag": {
         "Cruzeiro": 3.1,
@@ -1013,198 +647,8 @@
       },
       "Betfair": {
         "Cruzeiro": 3.1,
-        "Flamengo-RJ": 2.7,
+        "Flamengo-RJ": 2.68,
         "Draw": 3.15
-      }
-    },
-    "5b5955a95ae38a491ba8014427c32fcd:h2h": {
-      "Pinnacle": {
-        "Ben Shelton": 1.54,
-        "Learner Tien": 2.63
-      },
-      "1xBet": {
-        "Ben Shelton": 1.52,
-        "Learner Tien": 2.61
-      },
-      "Betsson": {
-        "Ben Shelton": 1.51,
-        "Learner Tien": 2.55
-      },
-      "Betfair": {
-        "Ben Shelton": 1.56,
-        "Learner Tien": 2.74
-      },
-      "Matchbook": {
-        "Ben Shelton": 1.56,
-        "Learner Tien": 2.74
-      },
-      "Winamax (FR)": {
-        "Ben Shelton": 1.52,
-        "Learner Tien": 2.6
-      },
-      "888sport": {
-        "Ben Shelton": 1.53,
-        "Learner Tien": 2.5
-      },
-      "Nordic Bet": {
-        "Ben Shelton": 1.51,
-        "Learner Tien": 2.55
-      },
-      "Marathon Bet": {
-        "Ben Shelton": 1.51,
-        "Learner Tien": 2.55
-      },
-      "Unibet (FR)": {
-        "Ben Shelton": 1.49,
-        "Learner Tien": 2.5
-      },
-      "Winamax (DE)": {
-        "Ben Shelton": 1.52,
-        "Learner Tien": 2.6
-      },
-      "Coolbet": {
-        "Ben Shelton": 1.55,
-        "Learner Tien": 2.6
-      },
-      "William Hill": {
-        "Ben Shelton": 1.53,
-        "Learner Tien": 2.5
-      },
-      "GTbets": {
-        "Ben Shelton": 1.5,
-        "Learner Tien": 2.58
-      },
-      "Tipico": {
-        "Ben Shelton": 1.47,
-        "Learner Tien": 2.6
-      },
-      "Betclic (FR)": {
-        "Ben Shelton": 1.45,
-        "Learner Tien": 2.4
-      },
-      "BetAnything": {
-        "Ben Shelton": 1.51,
-        "Learner Tien": 2.65
-      },
-      "PMU (FR)": {
-        "Ben Shelton": 1.5,
-        "Learner Tien": 2.45
-      },
-      "Unibet (NL)": {
-        "Ben Shelton": 1.51,
-        "Learner Tien": 2.5
-      },
-      "Unibet (SE)": {
-        "Ben Shelton": 1.51,
-        "Learner Tien": 2.5
-      },
-      "LeoVegas (SE)": {
-        "Ben Shelton": 1.51,
-        "Learner Tien": 2.5
-      },
-      "BetOnline.ag": {
-        "Ben Shelton": 1.56,
-        "Learner Tien": 2.52
-      }
-    },
-    "9874210287fceb7ce4fae9a32876e276:h2h": {
-      "Pinnacle": {
-        "Bu Yunchaokete": 2.28,
-        "Quentin Halys": 1.66
-      },
-      "Nordic Bet": {
-        "Bu Yunchaokete": 2.15,
-        "Quentin Halys": 1.63
-      },
-      "Marathon Bet": {
-        "Bu Yunchaokete": 2.16,
-        "Quentin Halys": 1.6
-      }
-    },
-    "fa944f55252de47b567b3cef4958b86e:h2h": {
-      "Pinnacle": {
-        "Coco Gauff": 1.79,
-        "Elena Rybakina": 2.12
-      },
-      "Matchbook": {
-        "Coco Gauff": 1.83,
-        "Elena Rybakina": 2.12
-      },
-      "Unibet (FR)": {
-        "Coco Gauff": 1.72,
-        "Elena Rybakina": 2.05
-      },
-      "Betfair": {
-        "Coco Gauff": 1.83,
-        "Elena Rybakina": 2.12
-      },
-      "Betsson": {
-        "Coco Gauff": 1.73,
-        "Elena Rybakina": 2.06
-      },
-      "888sport": {
-        "Coco Gauff": 1.73,
-        "Elena Rybakina": 2.1
-      },
-      "Marathon Bet": {
-        "Coco Gauff": 1.76,
-        "Elena Rybakina": 2.06
-      },
-      "GTbets": {
-        "Coco Gauff": 1.8,
-        "Elena Rybakina": 2.0
-      },
-      "Winamax (FR)": {
-        "Coco Gauff": 1.76,
-        "Elena Rybakina": 2.1
-      },
-      "Winamax (DE)": {
-        "Coco Gauff": 1.78,
-        "Elena Rybakina": 2.1
-      },
-      "Coolbet": {
-        "Coco Gauff": 1.8,
-        "Elena Rybakina": 2.1
-      },
-      "1xBet": {
-        "Coco Gauff": 1.78,
-        "Elena Rybakina": 2.08
-      },
-      "Tipico": {
-        "Coco Gauff": 1.77,
-        "Elena Rybakina": 2.0
-      },
-      "Nordic Bet": {
-        "Coco Gauff": 1.73,
-        "Elena Rybakina": 2.06
-      },
-      "William Hill": {
-        "Coco Gauff": 1.73,
-        "Elena Rybakina": 2.1
-      },
-      "BetOnline.ag": {
-        "Coco Gauff": 1.77,
-        "Elena Rybakina": 2.1
-      },
-      "Betclic (FR)": {
-        "Coco Gauff": 1.68,
-        "Elena Rybakina": 1.98
-      },
-      "Unibet (SE)": {
-        "Coco Gauff": 1.74,
-        "Elena Rybakina": 2.08
-      },
-      "LeoVegas (SE)": {
-        "Coco Gauff": 1.74,
-        "Elena Rybakina": 2.08
-      },
-      "Unibet (NL)": {
-        "Coco Gauff": 1.74,
-        "Elena Rybakina": 2.08
-      },
-      "PMU (FR)": {
-        "Coco Gauff": 1.71,
-        "Elena Rybakina": 2.04
       }
     }
   },
@@ -1214,5 +658,7 @@
     "5ec151359d05d4202b928f40e1a53343:h2h",
     "644598d40b1e12ae0d4e3cedb70846f6:h2h",
     "d795b12013a333298079df3a5abd260d:h2h"
-  ]
+  ],
+  "pending_results": [],
+  "results_history": []
 }
