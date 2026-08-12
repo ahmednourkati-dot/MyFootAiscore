@@ -122,3 +122,8 @@ def format_kickoff_djibouti(commence_time: str) -> str:
     dt_utc = datetime.fromisoformat(commence_time.replace("Z", "+00:00"))
     dt_djibouti = dt_utc.astimezone(_DJIBOUTI_TZ)
     return dt_djibouti.strftime("%d/%m %H:%M")
+
+
+def format_now_djibouti() -> str:
+    """Formate l'heure actuelle en heure de Djibouti."""
+    return datetime.now(_DJIBOUTI_TZ).strftime("%d/%m %H:%M")
