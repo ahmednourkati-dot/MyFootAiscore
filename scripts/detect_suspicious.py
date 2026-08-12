@@ -29,7 +29,7 @@ from odds import (
     get_active_tennis_sport_keys,
     get_odds,
 )
-from suspect import detect_suspicious_match
+from suspect import MatchAnalysis, analyze_match
 
 STATE_PATH = Path(__file__).resolve().parent.parent / "state" / "suspect_state.json"
 
@@ -60,10 +60,11 @@ def _match_label(event: dict) -> str:
 MAX_REASONS_PER_ALERT = 6
 
 
-def _format_alert(event: dict, market_label: str, reasons: list[str]) -> str:
+def _format_alert(event: dict, market_label: str, analysis: MatchAnalysis) -> str:
     competition = event.get("sport_title") or "?"
     commence_time = event.get("commence_time")
     kickoff = format_kickoff_djibouti(commence_time) if commence_time else "?"
+    reasons = analysis.reasons
 
     lines = [
         "🚨 Match suspect",
@@ -71,6 +72,9 @@ def _format_alert(event: dict, market_label: str, reasons: list[str]) -> str:
         f"🕒 {kickoff} (heure de Djibouti)",
         f"⚽ {_match_label(event)}",
         f"📊 Marché : {market_label}",
+        f"🏷️ Nature : Anomalie de marché (pas une value bet calculée — aucune probabilité réelle estimée)",
+        f"🎯 Confiance du signal : {analysis.confidence}%",
+        f"💰 Mise suggérée : {analysis.stake_pct:.0f}% du capital",
         "",
     ]
     shown = reasons[:MAX_REASONS_PER_ALERT]
@@ -78,6 +82,11 @@ def _format_alert(event: dict, market_label: str, reasons: list[str]) -> str:
     remaining = len(reasons) - len(shown)
     if remaining > 0:
         lines.append(f"… et {remaining} autre(s) signal(aux)")
+    lines.append("")
+    lines.append(
+        "⚠️ Confiance = force du signal statistique, pas une probabilité de gain validée. "
+        "Ne mise jamais plus que tu ne peux perdre."
+    )
     return "\n".join(lines)
 
 
@@ -109,13 +118,16 @@ def _process_market(
 
     current_state_keys.add(state_key)
     previous_prices = snapshots.get(state_key)
-    reasons = detect_suspicious_match(previous_prices, current_prices)
+    analysis = analyze_match(previous_prices, current_prices)
     snapshots[state_key] = current_prices
 
-    if reasons and state_key not in alerted:
+    if analysis.signals and state_key not in alerted:
         alerted.add(state_key)
-        _send_alert(_format_alert(event, market_label, reasons))
-        print(f"Alerte envoyée pour {_match_label(event)} ({market_label})")
+        _send_alert(_format_alert(event, market_label, analysis))
+        print(
+            f"Alerte envoyée pour {_match_label(event)} ({market_label}) "
+            f"- confiance {analysis.confidence}%, mise {analysis.stake_pct:.0f}%"
+        )
 
 
 def _check_football(snapshots: dict, alerted: set, current_state_keys: set) -> None:
