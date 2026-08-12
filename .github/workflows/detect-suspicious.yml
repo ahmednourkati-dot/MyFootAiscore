@@ -1,12 +1,10 @@
 name: Détection automatique de matchs suspects
 
 on:
-  schedule:
-    # GitHub Actions exige un cron en UTC. Toutes les 2h à :07 (hors heure
-    # ronde pour éviter les retards) -> en heure de Djibouti (UTC+3) :
-    # 03h07, 05h07, 07h07, 09h07, 11h07, 13h07, 15h07, 17h07, 19h07, 21h07,
-    # 23h07, 01h07.
-    - cron: "7 */2 * * *"
+  # Le cron natif de GitHub Actions ne s'est jamais déclenché de façon
+  # fiable sur ce repo (plusieurs créneaux manqués malgré une config
+  # valide). Le déclenchement est donc piloté depuis l'extérieur
+  # (toutes les 2h) via workflow_dispatch, plus fiable en pratique.
   workflow_dispatch:
 
 permissions:
