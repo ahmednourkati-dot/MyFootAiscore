@@ -15,6 +15,7 @@ from __future__ import annotations
 
 import json
 import sys
+from datetime import datetime, timezone
 from pathlib import Path
 
 import requests
@@ -34,7 +35,7 @@ FOOTBALL_MARKETS = "h2h"
 def _load_state() -> dict:
     if STATE_PATH.exists():
         return json.loads(STATE_PATH.read_text())
-    return {"snapshots": {}, "alerted": []}
+    return {"snapshots": {}, "alerted": [], "pending_results": [], "results_history": []}
 
 
 def _save_state(state: dict) -> None:
@@ -87,6 +88,32 @@ def _send_alert(text: str) -> None:
     response.raise_for_status()
 
 
+def _record_pending(
+    pending_results: list, event: dict, market_label: str, state_key: str, analysis: MatchAnalysis
+) -> None:
+    """Enregistre une alerte envoyée pour vérifier plus tard si son issue s'est réalisée."""
+    if not analysis.selection or analysis.odds_at_alert is None:
+        return
+
+    pending_results.append(
+        {
+            "state_key": state_key,
+            "event_id": event.get("id"),
+            "sport_key": FOOTBALL_SPORT_KEY,
+            "competition": event.get("sport_title") or "?",
+            "home_team": event.get("home_team"),
+            "away_team": event.get("away_team"),
+            "commence_time": event.get("commence_time"),
+            "market_label": market_label,
+            "selection": analysis.selection,
+            "odds_at_alert": analysis.odds_at_alert,
+            "stake_pct": analysis.stake_pct,
+            "confidence": analysis.confidence,
+            "alerted_at": datetime.now(timezone.utc).isoformat(),
+        }
+    )
+
+
 def _process_market(
     event: dict,
     market_key: str,
@@ -95,6 +122,7 @@ def _process_market(
     snapshots: dict,
     alerted: set,
     current_state_keys: set,
+    pending_results: list,
     point: float | None = None,
 ) -> None:
     event_id = event.get("id")
@@ -115,13 +143,16 @@ def _process_market(
     if analysis.signals and state_key not in alerted:
         alerted.add(state_key)
         _send_alert(_format_alert(event, market_label, analysis))
+        _record_pending(pending_results, event, market_label, state_key, analysis)
         print(
             f"Alerte envoyée pour {_match_label(event)} ({market_label}) "
             f"- confiance {analysis.confidence}%, mise {analysis.stake_pct:.0f}%"
         )
 
 
-def _check_football(snapshots: dict, alerted: set, current_state_keys: set) -> None:
+def _check_football(
+    snapshots: dict, alerted: set, current_state_keys: set, pending_results: list
+) -> None:
     try:
         events = get_odds(FOOTBALL_SPORT_KEY, markets=FOOTBALL_MARKETS)
     except OddsAPIError as exc:
@@ -131,7 +162,9 @@ def _check_football(snapshots: dict, alerted: set, current_state_keys: set) -> N
     print(f"Football : {len(events)} matchs récupérés")
 
     for event in events:
-        _process_market(event, "h2h", "Cotes 1X2", "h2h", snapshots, alerted, current_state_keys)
+        _process_market(
+            event, "h2h", "Cotes 1X2", "h2h", snapshots, alerted, current_state_keys, pending_results
+        )
 
 
 def main() -> None:
@@ -141,9 +174,11 @@ def main() -> None:
     state = _load_state()
     snapshots = state.setdefault("snapshots", {})
     alerted = set(state.setdefault("alerted", []))
+    pending_results = state.setdefault("pending_results", [])
+    state.setdefault("results_history", [])
     current_state_keys: set = set()
 
-    _check_football(snapshots, alerted, current_state_keys)
+    _check_football(snapshots, alerted, current_state_keys, pending_results)
 
     # Purge l'état des matchs qui ne sont plus dans le calendrier de l'API.
     snapshots = {key: prices for key, prices in snapshots.items() if key in current_state_keys}

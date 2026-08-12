@@ -1,0 +1,35 @@
+name: Récapitulatif hebdomadaire
+
+on:
+  schedule:
+    # Dimanche 19h00, heure de Djibouti (UTC+3) = 16h00 UTC
+    - cron: "0 16 * * 0"
+  workflow_dispatch:
+
+jobs:
+  summary:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupérer le code
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Installer les dépendances
+        run: pip install -r requirements.txt
+
+      - name: Créer le fichier .env à partir des secrets du repo
+        run: |
+          cat <<EOF > .env
+          TELEGRAM_BOT_TOKEN=${{ secrets.TELEGRAM_BOT_TOKEN }}
+          FOOTBALL_API_KEY=${{ secrets.FOOTBALL_API_KEY }}
+          FOOTBALL_API_BASE_URL=https://api.football-data.org/v4
+          ODDS_API_KEY=${{ secrets.ODDS_API_KEY }}
+          ALERT_CHAT_ID=${{ secrets.ALERT_CHAT_ID }}
+          EOF
+
+      - name: Envoyer le récapitulatif hebdomadaire
+        run: python scripts/weekly_summary.py
