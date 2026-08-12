@@ -6,7 +6,7 @@ from telegram.ext import Application, ApplicationBuilder, CommandHandler, Contex
 
 from config import SUSPECT_CHECK_INTERVAL_MINUTES, TELEGRAM_BOT_TOKEN
 from football import FootballAPIError, format_match, get_today_matches
-from odds import OddsAPIError, extract_outcome_prices, get_odds
+from odds import OddsAPIError, extract_outcome_prices, format_kickoff_djibouti, get_odds
 from suspect import detect_suspicious_match
 
 
@@ -36,6 +36,22 @@ def _match_label(event: dict) -> str:
     return f"{home} vs {away}"
 
 
+def _format_suspicious_alert(event: dict, reasons: list[str]) -> str:
+    competition = event.get("sport_title") or "?"
+    commence_time = event.get("commence_time")
+    kickoff = format_kickoff_djibouti(commence_time) if commence_time else "?"
+
+    lines = [
+        "🚨 Match suspect",
+        f"🏆 {competition}",
+        f"🕒 {kickoff} (heure de Djibouti)",
+        f"⚽ {_match_label(event)}",
+        "",
+    ]
+    lines.extend(f"• {reason}" for reason in reasons)
+    return "\n".join(lines)
+
+
 async def check_suspicious_matches(context: ContextTypes.DEFAULT_TYPE) -> None:
     """Tâche périodique : compare les cotes actuelles aux précédentes et
     alerte les abonnés (utilisateurs ayant fait /start) en cas de match suspect."""
@@ -63,9 +79,7 @@ async def check_suspicious_matches(context: ContextTypes.DEFAULT_TYPE) -> None:
 
         if reasons and event_id not in already_alerted:
             already_alerted.add(event_id)
-            text = f"🚨 Match suspect : {_match_label(event)}\n" + "\n".join(
-                f"• {reason}" for reason in reasons
-            )
+            text = _format_suspicious_alert(event, reasons)
             for chat_id in subscribers:
                 await context.bot.send_message(chat_id=chat_id, text=text)
 

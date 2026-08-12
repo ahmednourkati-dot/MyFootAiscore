@@ -5,12 +5,16 @@ Documentation : https://the-odds-api.com/liveapi/guides/v4/
 
 from __future__ import annotations
 
+from datetime import datetime
+from zoneinfo import ZoneInfo
+
 import requests
 
 from config import ODDS_API_BASE_URL, ODDS_API_KEY
 
 _TIMEOUT = 10
 _SPORT_KEY = "soccer"
+_DJIBOUTI_TZ = ZoneInfo("Africa/Djibouti")
 
 
 class OddsAPIError(Exception):
@@ -53,3 +57,10 @@ def extract_outcome_prices(event: dict) -> dict[str, dict[str, float]]:
             if outcomes:
                 prices[title] = outcomes
     return prices
+
+
+def format_kickoff_djibouti(commence_time: str) -> str:
+    """Formate une heure de coup d'envoi (ISO 8601 UTC) en heure de Djibouti."""
+    dt_utc = datetime.fromisoformat(commence_time.replace("Z", "+00:00"))
+    dt_djibouti = dt_utc.astimezone(_DJIBOUTI_TZ)
+    return dt_djibouti.strftime("%d/%m %H:%M")
