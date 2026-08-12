@@ -1,10 +1,8 @@
 name: Récapitulatif hebdomadaire
 
 on:
-  schedule:
-    # GitHub Actions exige un cron en UTC.
-    # Dimanche 16h13 UTC -> Dimanche 19h13, heure de Djibouti (UTC+3)
-    - cron: "13 16 * * 0"
+  # Cron natif GitHub Actions non fiable sur ce repo -> déclenchement
+  # piloté depuis l'extérieur (hebdomadaire) via workflow_dispatch.
   workflow_dispatch:
 
 jobs:
