@@ -3,7 +3,7 @@ name: Récapitulatif hebdomadaire
 on:
   schedule:
     # Dimanche 19h00, heure de Djibouti (UTC+3) = 16h00 UTC
-    - cron: "0 16 * * 0"
+    - cron: "13 16 * * 0"
   workflow_dispatch:
 
 jobs:
