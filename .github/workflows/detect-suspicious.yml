@@ -2,7 +2,7 @@ name: Détection automatique de matchs suspects
 
 on:
   schedule:
-    - cron: "*/15 * * * *"
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 permissions:

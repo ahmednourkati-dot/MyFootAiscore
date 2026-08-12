@@ -21,16 +21,16 @@ class OddsAPIError(Exception):
     """Erreur lors d'un appel à l'API de cotes."""
 
 
-def get_odds(sport_key: str = _SPORT_KEY) -> list[dict]:
-    """Récupère les cotes 1X2 (h2h) actuelles des matchs à venir, par bookmaker."""
+def get_odds(sport_key: str = _SPORT_KEY, markets: str = "h2h", region: str = "eu") -> list[dict]:
+    """Récupère les cotes actuelles des matchs à venir pour un sport, par bookmaker."""
     if not ODDS_API_KEY:
         raise OddsAPIError("ODDS_API_KEY manquant dans les variables d'environnement (.env)")
 
     url = f"{ODDS_API_BASE_URL}/sports/{sport_key}/odds"
     params = {
         "apiKey": ODDS_API_KEY,
-        "regions": "eu",
-        "markets": "h2h",
+        "regions": region,
+        "markets": markets,
         "oddsFormat": "decimal",
     }
     try:
@@ -41,22 +41,60 @@ def get_odds(sport_key: str = _SPORT_KEY) -> list[dict]:
     return response.json()
 
 
-def extract_outcome_prices(event: dict) -> dict[str, dict[str, float]]:
-    """Transforme un événement de l'API en {bookmaker: {issue: cote}}."""
+def get_active_tennis_sport_keys() -> list[str]:
+    """Liste les tournois de tennis (ATP/WTA) actuellement actifs sur l'API.
+
+    Exclut les marchés "outrights" (vainqueur du tournoi), qui ne
+    correspondent pas à des matchs individuels.
+    """
+    if not ODDS_API_KEY:
+        raise OddsAPIError("ODDS_API_KEY manquant dans les variables d'environnement (.env)")
+
+    url = f"{ODDS_API_BASE_URL}/sports"
+    params = {"apiKey": ODDS_API_KEY}
+    try:
+        response = requests.get(url, params=params, timeout=_TIMEOUT)
+        response.raise_for_status()
+    except requests.RequestException as exc:
+        raise OddsAPIError(f"Échec de l'appel à l'API de cotes : {exc}") from exc
+
+    sports = response.json()
+    return [
+        sport["key"]
+        for sport in sports
+        if sport.get("group") == "Tennis" and not sport.get("has_outrights", False)
+    ]
+
+
+def extract_market_prices(
+    event: dict, market_key: str, point: float | None = None
+) -> dict[str, dict[str, float]]:
+    """Transforme un événement en {bookmaker: {issue: cote}} pour un marché donné.
+
+    Si `point` est précisé (ex. 1.5 pour un total de buts), ne garde que les
+    lignes correspondant à ce point.
+    """
     prices: dict[str, dict[str, float]] = {}
     for bookmaker in event.get("bookmakers", []):
         title = bookmaker.get("title") or bookmaker.get("key") or "?"
         for market in bookmaker.get("markets", []):
-            if market.get("key") != "h2h":
+            if market.get("key") != market_key:
                 continue
-            outcomes = {
-                outcome["name"]: outcome["price"]
-                for outcome in market.get("outcomes", [])
-                if "name" in outcome and "price" in outcome
-            }
+            outcomes = {}
+            for outcome in market.get("outcomes", []):
+                if "name" not in outcome or "price" not in outcome:
+                    continue
+                if point is not None and outcome.get("point") != point:
+                    continue
+                outcomes[outcome["name"]] = outcome["price"]
             if outcomes:
                 prices[title] = outcomes
     return prices
+
+
+def extract_outcome_prices(event: dict) -> dict[str, dict[str, float]]:
+    """Transforme un événement de l'API en {bookmaker: {issue: cote}} (marché 1X2)."""
+    return extract_market_prices(event, "h2h")
 
 
 def format_kickoff_djibouti(commence_time: str) -> str:
