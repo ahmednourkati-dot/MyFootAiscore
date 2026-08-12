@@ -94,22 +94,50 @@ def _detect_new_incoherent_spread(
 def _detect_unusual_bookmaker_moves(
     previous: dict[str, dict[str, float]], current: dict[str, dict[str, float]]
 ) -> list[str]:
-    """Un bookmaker qui bouge fortement, à contre-courant du marché."""
-    reasons = []
+    """Bookmaker(s) qui s'écartent nettement du mouvement médian du marché.
+
+    Comparer chaque bookmaker au mouvement médian (plutôt qu'à un seuil
+    absolu) évite de signaler tous les bookmakers lors d'une repricing
+    générale du marché (ex. réouverture des cotes), où beaucoup bougent
+    dans des sens différents sans que rien ne soit réellement anormal.
+    Seul un bookmaker qui s'écarte du comportement du marché est signalé.
+    """
     common_bookmakers = set(previous) & set(current)
+    if len(common_bookmakers) < MIN_BOOKMAKERS_FOR_SPREAD_CHECK:
+        return []
+
+    outcomes: set[str] = set()
     for bookmaker in common_bookmakers:
-        prev_outcomes = previous[bookmaker]
-        curr_outcomes = current[bookmaker]
-        for outcome, current_price in curr_outcomes.items():
-            previous_price = prev_outcomes.get(outcome)
-            if not previous_price:
+        outcomes.update(current[bookmaker])
+
+    reasons = []
+    for outcome in outcomes:
+        changes: dict[str, float] = {}
+        for bookmaker in common_bookmakers:
+            previous_price = previous[bookmaker].get(outcome)
+            current_price = current[bookmaker].get(outcome)
+            if not previous_price or not current_price:
                 continue
-            move = abs(current_price - previous_price) / previous_price
-            if move >= ODDS_DROP_THRESHOLD:
-                reasons.append(
-                    f"Mouvement inhabituel chez {bookmaker} sur « {outcome} » "
-                    f"(cote {previous_price:.2f} → {current_price:.2f})"
-                )
+            changes[bookmaker] = (current_price - previous_price) / previous_price
+
+        if len(changes) < MIN_BOOKMAKERS_FOR_SPREAD_CHECK:
+            continue
+
+        sorted_changes = sorted(changes.values())
+        median_change = sorted_changes[len(sorted_changes) // 2]
+
+        for bookmaker, change in changes.items():
+            deviation = abs(change - median_change)
+            if deviation < ODDS_DROP_THRESHOLD:
+                continue
+            previous_price = previous[bookmaker][outcome]
+            current_price = current[bookmaker][outcome]
+            reasons.append(
+                f"Mouvement inhabituel chez {bookmaker} sur « {outcome} » "
+                f"(cote {previous_price:.2f} → {current_price:.2f}, "
+                f"écart au marché {deviation:.0%})"
+            )
+
     return reasons
 
 

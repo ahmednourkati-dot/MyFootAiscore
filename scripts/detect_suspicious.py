@@ -57,6 +57,9 @@ def _match_label(event: dict) -> str:
     return f"{home} vs {away}"
 
 
+MAX_REASONS_PER_ALERT = 6
+
+
 def _format_alert(event: dict, market_label: str, reasons: list[str]) -> str:
     competition = event.get("sport_title") or "?"
     commence_time = event.get("commence_time")
@@ -70,7 +73,11 @@ def _format_alert(event: dict, market_label: str, reasons: list[str]) -> str:
         f"📊 Marché : {market_label}",
         "",
     ]
-    lines.extend(f"• {reason}" for reason in reasons)
+    shown = reasons[:MAX_REASONS_PER_ALERT]
+    lines.extend(f"• {reason}" for reason in shown)
+    remaining = len(reasons) - len(shown)
+    if remaining > 0:
+        lines.append(f"… et {remaining} autre(s) signal(aux)")
     return "\n".join(lines)
 
 
