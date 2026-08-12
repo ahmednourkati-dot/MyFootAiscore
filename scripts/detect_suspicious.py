@@ -168,6 +168,8 @@ def _check_football(
         return 0
 
     print(f"Football : {len(events)} matchs récupérés")
+    for event in events:
+        print(f"  - {_match_label(event)} ({event.get('sport_title')})")
 
     for event in events:
         _process_market(
