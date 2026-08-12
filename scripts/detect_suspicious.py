@@ -1,14 +1,14 @@
-"""Vérifie les cotes (1X2, Over/Under 1.5 buts, corners, tennis) et alerte
-en cas de variation suspecte.
+"""Vérifie les cotes 1X2 du football et alerte en cas de variation suspecte.
 
 Conçu pour être exécuté périodiquement par un workflow planifié (cron),
 sans processus Telegram persistant. L'état est conservé dans STATE_PATH
-entre deux exécutions, une entrée par (match, marché).
+entre deux exécutions, une entrée par match.
 
-Note : les marchés "Over/Under 1.5 buts" (ligne alternative) et "corners"
-dépendent de ce que l'abonnement The Odds API en cours donne accès — sur un
-plan gratuit, ils peuvent renvoyer peu ou pas de données. Le script se
-dégrade alors silencieusement (aucune alerte sur ces marchés, sans erreur).
+Portée volontairement réduite à un seul scénario (football, marché h2h,
+un seul appel API par passage) pour tenir dans le quota gratuit de
+l'API de cotes (500 requêtes/mois) à un intervalle de 2h. Le tennis et
+les marchés Over/Under 1.5 / corners ont été retirés : ils multiplient
+le nombre d'appels et ne rentraient plus dans ce budget à 2h.
 """
 
 from __future__ import annotations
@@ -22,22 +22,13 @@ import requests
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 from config import ALERT_CHAT_ID, TELEGRAM_BOT_TOKEN
-from odds import (
-    OddsAPIError,
-    extract_market_prices,
-    format_kickoff_djibouti,
-    get_active_tennis_sport_keys,
-    get_odds,
-)
+from odds import OddsAPIError, extract_market_prices, format_kickoff_djibouti, get_odds
 from suspect import MatchAnalysis, analyze_match
 
 STATE_PATH = Path(__file__).resolve().parent.parent / "state" / "suspect_state.json"
 
 FOOTBALL_SPORT_KEY = "soccer"
-FOOTBALL_MARKETS = "h2h,alternate_totals,alternate_totals_corners"
-FOOTBALL_MARKETS_FALLBACK = "h2h,totals"
-TENNIS_MARKETS = "h2h"
-MAX_TENNIS_TOURNAMENTS = 10
+FOOTBALL_MARKETS = "h2h"
 
 
 def _load_state() -> dict:
@@ -134,53 +125,13 @@ def _check_football(snapshots: dict, alerted: set, current_state_keys: set) -> N
     try:
         events = get_odds(FOOTBALL_SPORT_KEY, markets=FOOTBALL_MARKETS)
     except OddsAPIError as exc:
-        print(f"Marchés étendus indisponibles ({exc}), repli sur h2h+totals")
-        try:
-            events = get_odds(FOOTBALL_SPORT_KEY, markets=FOOTBALL_MARKETS_FALLBACK)
-        except OddsAPIError as exc2:
-            print(f"Erreur API cotes (football) : {exc2}")
-            return
+        print(f"Erreur API cotes (football) : {exc}")
+        return
 
     print(f"Football : {len(events)} matchs récupérés")
 
     for event in events:
         _process_market(event, "h2h", "Cotes 1X2", "h2h", snapshots, alerted, current_state_keys)
-        _process_market(
-            event, "totals", "Over/Under 1.5 buts", "totals_1.5",
-            snapshots, alerted, current_state_keys, point=1.5,
-        )
-        _process_market(
-            event, "alternate_totals", "Over/Under 1.5 buts", "totals_1.5",
-            snapshots, alerted, current_state_keys, point=1.5,
-        )
-        _process_market(
-            event, "alternate_totals_corners", "Corners", "corners",
-            snapshots, alerted, current_state_keys,
-        )
-
-
-def _check_tennis(snapshots: dict, alerted: set, current_state_keys: set) -> None:
-    try:
-        tournaments = get_active_tennis_sport_keys()
-    except OddsAPIError as exc:
-        print(f"Erreur API cotes (liste tennis) : {exc}")
-        return
-
-    print(f"Tennis : {len(tournaments)} tournois actifs trouvés : {tournaments}")
-
-    for sport_key in tournaments[:MAX_TENNIS_TOURNAMENTS]:
-        try:
-            events = get_odds(sport_key, markets=TENNIS_MARKETS)
-        except OddsAPIError as exc:
-            print(f"Erreur API cotes (tennis {sport_key}) : {exc}")
-            continue
-
-        print(f"  {sport_key} : {len(events)} matchs récupérés")
-
-        for event in events:
-            _process_market(
-                event, "h2h", "Cotes tennis", "h2h", snapshots, alerted, current_state_keys
-            )
 
 
 def main() -> None:
@@ -193,7 +144,6 @@ def main() -> None:
     current_state_keys: set = set()
 
     _check_football(snapshots, alerted, current_state_keys)
-    _check_tennis(snapshots, alerted, current_state_keys)
 
     # Purge l'état des matchs qui ne sont plus dans le calendrier de l'API.
     snapshots = {key: prices for key, prices in snapshots.items() if key in current_state_keys}
