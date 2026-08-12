@@ -2,6 +2,8 @@ name: Règlement des résultats
 
 on:
   schedule:
+    # GitHub Actions exige un cron en UTC.
+    # 05h30 UTC -> 08h30, heure de Djibouti (UTC+3)
     - cron: "30 5 * * *"
   workflow_dispatch:
 

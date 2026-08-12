@@ -2,7 +2,8 @@ name: Récapitulatif hebdomadaire
 
 on:
   schedule:
-    # Dimanche 19h00, heure de Djibouti (UTC+3) = 16h00 UTC
+    # GitHub Actions exige un cron en UTC.
+    # Dimanche 16h13 UTC -> Dimanche 19h13, heure de Djibouti (UTC+3)
     - cron: "13 16 * * 0"
   workflow_dispatch:
 
