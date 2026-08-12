@@ -1,0 +1,47 @@
+name: Règlement des résultats
+
+on:
+  schedule:
+    - cron: "30 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  settle:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupérer le code
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Installer les dépendances
+        run: pip install -r requirements.txt
+
+      - name: Créer le fichier .env à partir des secrets du repo
+        run: |
+          cat <<EOF > .env
+          TELEGRAM_BOT_TOKEN=${{ secrets.TELEGRAM_BOT_TOKEN }}
+          FOOTBALL_API_KEY=${{ secrets.FOOTBALL_API_KEY }}
+          FOOTBALL_API_BASE_URL=https://api.football-data.org/v4
+          ODDS_API_KEY=${{ secrets.ODDS_API_KEY }}
+          ALERT_CHAT_ID=${{ secrets.ALERT_CHAT_ID }}
+          EOF
+
+      - name: Vérifier les résultats des matchs terminés
+        run: python scripts/settle_results.py
+
+      - name: Sauvegarder l'état
+        run: |
+          if [ -n "$(git status --porcelain state/)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add state/
+            git commit -m "Règlement des résultats"
+            git push
+          fi

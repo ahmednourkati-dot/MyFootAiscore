@@ -41,6 +41,26 @@ def get_odds(sport_key: str = _SPORT_KEY, markets: str = "h2h", region: str = "e
     return response.json()
 
 
+def get_scores(sport_key: str = _SPORT_KEY, days_from: int = 3) -> list[dict]:
+    """Récupère les scores des matchs récents (dont les matchs terminés).
+
+    Réutilise les mêmes identifiants de match ("id") que `get_odds()`,
+    ce qui permet de faire correspondre un match dont on a suivi les
+    cotes avec son résultat final, sans ambiguïté.
+    """
+    if not ODDS_API_KEY:
+        raise OddsAPIError("ODDS_API_KEY manquant dans les variables d'environnement (.env)")
+
+    url = f"{ODDS_API_BASE_URL}/sports/{sport_key}/scores"
+    params = {"apiKey": ODDS_API_KEY, "daysFrom": days_from}
+    try:
+        response = requests.get(url, params=params, timeout=_TIMEOUT)
+        response.raise_for_status()
+    except requests.RequestException as exc:
+        raise OddsAPIError(f"Échec de l'appel à l'API de cotes : {exc}") from exc
+    return response.json()
+
+
 def get_active_tennis_sport_keys() -> list[str]:
     """Liste les tournois de tennis (ATP/WTA) actuellement actifs sur l'API.
 

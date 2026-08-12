@@ -41,9 +41,10 @@ STAKE_TIERS = (
 class Signal:
     """Un signal statistique élémentaire détecté sur un marché."""
 
-    category: str  # "massive_bet" | "incoherent_spread" | "unusual_bookmaker"
+    category: str  # "massive_bet" | "incoherent_spread" | "unusual_bookmaker" | "pinnacle_move"
     text: str
     magnitude: float  # amplitude relative du signal (0.15 = 15 %)
+    outcome: str  # issue visée par le signal (ex: nom d'équipe, "Draw", nom de joueur)
 
 
 @dataclass
@@ -53,6 +54,8 @@ class MatchAnalysis:
     signals: list[Signal]
     confidence: int  # score de confiance dans le signal, 0-100 (PAS une probabilité de gain)
     stake_pct: float  # mise suggérée, en % du capital
+    selection: str | None = None  # issue visée par le signal le plus fort
+    odds_at_alert: float | None = None  # meilleure cote dispo sur `selection` au moment de l'alerte
 
     @property
     def reasons(self) -> list[str]:
@@ -86,6 +89,7 @@ def _detect_massive_bet_signal(previous: dict[str, float], current: dict[str, fl
                         f"(cote {previous_price:.2f} → {current_price:.2f}, -{drop:.0%})"
                     ),
                     magnitude=drop,
+                    outcome=outcome,
                 )
             )
     return signals
@@ -139,6 +143,7 @@ def _detect_new_incoherent_spread(
                     f"(écart {spread:.0%})"
                 ),
                 magnitude=spread,
+                outcome=outcome,
             )
         )
     return signals
@@ -194,6 +199,7 @@ def _detect_unusual_bookmaker_moves(
                         f"écart au marché {deviation:.0%})"
                     ),
                     magnitude=deviation,
+                    outcome=outcome,
                 )
             )
 
@@ -233,6 +239,7 @@ def _detect_pinnacle_move(
                     f"{direction}, {abs(move):.0%})"
                 ),
                 magnitude=abs(move),
+                outcome=outcome,
             )
         )
     return signals
@@ -295,7 +302,23 @@ def analyze_match(
     confidence = _confidence_from_signals(signals)
     stake_pct = _stake_from_confidence(confidence) if signals else 0.0
 
-    return MatchAnalysis(signals=signals, confidence=confidence, stake_pct=stake_pct)
+    selection = None
+    odds_at_alert = None
+    if signals:
+        # L'issue visée par le signal le plus fort (le plus fiable) est
+        # considérée comme la "sélection" implicite, pour pouvoir vérifier
+        # plus tard si le résultat du match lui a donné raison.
+        primary_signal = max(signals, key=lambda signal: signal.magnitude)
+        selection = primary_signal.outcome
+        odds_at_alert = current_best.get(selection)
+
+    return MatchAnalysis(
+        signals=signals,
+        confidence=confidence,
+        stake_pct=stake_pct,
+        selection=selection,
+        odds_at_alert=odds_at_alert,
+    )
 
 
 def detect_suspicious_match(
