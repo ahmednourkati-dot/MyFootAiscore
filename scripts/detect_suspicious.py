@@ -64,6 +64,19 @@ def _match_label(event: dict) -> str:
 MAX_REASONS_PER_ALERT = 6
 
 
+def _describe_selection(outcome: str, event: dict) -> str:
+    """Traduit une issue brute (nom d'équipe / "Draw") en description claire."""
+    home = event.get("home_team")
+    away = event.get("away_team")
+    if outcome == "Draw":
+        return "Match nul"
+    if outcome == home:
+        return f"Victoire de {home}"
+    if outcome == away:
+        return f"Victoire de {away}"
+    return outcome
+
+
 def _format_alert(event: dict, market_label: str, analysis: MatchAnalysis) -> str:
     competition = event.get("sport_title") or "?"
     commence_time = event.get("commence_time")
@@ -78,8 +91,9 @@ def _format_alert(event: dict, market_label: str, analysis: MatchAnalysis) -> st
         "",
     ]
     if analysis.selection and analysis.odds_at_alert is not None:
+        description = _describe_selection(analysis.selection, event)
         lines.append(
-            f"👉 À MISER : {analysis.selection} @ {analysis.odds_at_alert:.2f} "
+            f"👉 À MISER : {description} @ {analysis.odds_at_alert:.2f} "
             f"— {analysis.stake_pct:.0f}% du capital"
         )
         lines.append("")
@@ -121,7 +135,8 @@ def _format_value_alert(event: dict, market_label: str, vb: ValueBet) -> str:
         f"🕒 {kickoff} (heure de Djibouti)",
         f"⚽ {_match_label(event)}",
         "",
-        f"👉 À MISER : {vb.outcome} @ {vb.odds:.2f} — {vb.stake_pct:.0f}% du capital",
+        f"👉 À MISER : {_describe_selection(vb.outcome, event)} @ {vb.odds:.2f} "
+        f"— {vb.stake_pct:.0f}% du capital",
         f"🏦 Chez {vb.bookmaker}",
         "",
         f"📊 Marché : {market_label}",
