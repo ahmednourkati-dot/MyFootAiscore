@@ -1,0 +1,12 @@
+name: Récupérer mon chat_id Telegram
+
+on:
+  workflow_dispatch:
+
+jobs:
+  get-chat-id:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Interroger Telegram (getUpdates)
+        run: |
+          curl -s "https://api.telegram.org/bot${{ secrets.TELEGRAM_BOT_TOKEN }}/getUpdates" | python3 -m json.tool
