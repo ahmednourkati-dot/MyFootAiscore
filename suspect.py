@@ -5,17 +5,52 @@ normal : signaux anormaux, chute de cote traduisant des mises massives sur
 une issue, écarts incohérents entre bookmakers, ou mouvements inhabituels
 chez un bookmaker en particulier.
 
-Faute de données publiques sur les volumes de mise réels, ces règles
-utilisent les mouvements de cotes entre deux relevés comme indicateur
-indirect ("proxy") des mises massives.
+Faute de données publiques sur les volumes de mise réels (et sans IA
+connectée pour estimer une vraie probabilité), ces règles ne calculent
+PAS de "value bet" au sens mathématique (probabilité estimée x cote - 1).
+Elles produisent uniquement un score de confiance dans la force du signal
+statistique détecté, présenté comme une "anomalie de marché" — jamais
+comme une value bet validée.
 """
 
 from __future__ import annotations
+
+from dataclasses import dataclass
 
 # Seuils de détection (ajustables)
 ODDS_DROP_THRESHOLD = 0.15          # chute relative de cote >= 15 % -> signal
 BOOKMAKER_SPREAD_THRESHOLD = 0.20   # écart max/min entre bookmakers >= 20 % -> signal
 MIN_BOOKMAKERS_FOR_SPREAD_CHECK = 3
+
+# Paliers de mise suggérée en fonction du score de confiance (% du capital)
+STAKE_TIERS = (
+    (85, 5.0),
+    (70, 3.0),
+    (50, 2.0),
+    (0, 1.0),
+)
+
+
+@dataclass
+class Signal:
+    """Un signal statistique élémentaire détecté sur un marché."""
+
+    category: str  # "massive_bet" | "incoherent_spread" | "unusual_bookmaker"
+    text: str
+    magnitude: float  # amplitude relative du signal (0.15 = 15 %)
+
+
+@dataclass
+class MatchAnalysis:
+    """Résultat de l'analyse d'un match : signaux, confiance, mise suggérée."""
+
+    signals: list[Signal]
+    confidence: int  # score de confiance dans le signal, 0-100 (PAS une probabilité de gain)
+    stake_pct: float  # mise suggérée, en % du capital
+
+    @property
+    def reasons(self) -> list[str]:
+        return [signal.text for signal in self.signals]
 
 
 def _best_price_per_outcome(prices_by_bookmaker: dict[str, dict[str, float]]) -> dict[str, float]:
@@ -28,20 +63,26 @@ def _best_price_per_outcome(prices_by_bookmaker: dict[str, dict[str, float]]) ->
     return best
 
 
-def _detect_massive_bet_signal(previous: dict[str, float], current: dict[str, float]) -> list[str]:
+def _detect_massive_bet_signal(previous: dict[str, float], current: dict[str, float]) -> list[Signal]:
     """Chute brutale de cote sur une issue = indice de mises massives dessus."""
-    reasons = []
+    signals = []
     for outcome, current_price in current.items():
         previous_price = previous.get(outcome)
         if not previous_price:
             continue
         drop = (previous_price - current_price) / previous_price
         if drop >= ODDS_DROP_THRESHOLD:
-            reasons.append(
-                f"Mises massives suspectées sur « {outcome} » "
-                f"(cote {previous_price:.2f} → {current_price:.2f}, -{drop:.0%})"
+            signals.append(
+                Signal(
+                    category="massive_bet",
+                    text=(
+                        f"Mises massives suspectées sur « {outcome} » "
+                        f"(cote {previous_price:.2f} → {current_price:.2f}, -{drop:.0%})"
+                    ),
+                    magnitude=drop,
+                )
             )
-    return reasons
+    return signals
 
 
 def _spread_by_outcome(prices_by_bookmaker: dict[str, dict[str, float]]) -> dict[str, float]:
@@ -68,7 +109,7 @@ def _spread_by_outcome(prices_by_bookmaker: dict[str, dict[str, float]]) -> dict
 
 def _detect_new_incoherent_spread(
     previous_prices: dict[str, dict[str, float]], current_prices: dict[str, dict[str, float]]
-) -> list[str]:
+) -> list[Signal]:
     """Écart entre bookmakers qui vient d'apparaître (pas déjà présent au relevé précédent).
 
     Comparer au relevé précédent évite de re-signaler indéfiniment un
@@ -78,22 +119,28 @@ def _detect_new_incoherent_spread(
     previous_spreads = _spread_by_outcome(previous_prices)
     current_spreads = _spread_by_outcome(current_prices)
 
-    reasons = []
+    signals = []
     for outcome, spread in current_spreads.items():
         if spread < BOOKMAKER_SPREAD_THRESHOLD:
             continue
         if previous_spreads.get(outcome, 0.0) >= BOOKMAKER_SPREAD_THRESHOLD:
             continue
-        reasons.append(
-            f"Variation de cotes incohérente entre bookmakers sur « {outcome} » "
-            f"(écart {spread:.0%})"
+        signals.append(
+            Signal(
+                category="incoherent_spread",
+                text=(
+                    f"Variation de cotes incohérente entre bookmakers sur « {outcome} » "
+                    f"(écart {spread:.0%})"
+                ),
+                magnitude=spread,
+            )
         )
-    return reasons
+    return signals
 
 
 def _detect_unusual_bookmaker_moves(
     previous: dict[str, dict[str, float]], current: dict[str, dict[str, float]]
-) -> list[str]:
+) -> list[Signal]:
     """Bookmaker(s) qui s'écartent nettement du mouvement médian du marché.
 
     Comparer chaque bookmaker au mouvement médian (plutôt qu'à un seuil
@@ -110,7 +157,7 @@ def _detect_unusual_bookmaker_moves(
     for bookmaker in common_bookmakers:
         outcomes.update(current[bookmaker])
 
-    reasons = []
+    signals = []
     for outcome in outcomes:
         changes: dict[str, float] = {}
         for bookmaker in common_bookmakers:
@@ -132,38 +179,80 @@ def _detect_unusual_bookmaker_moves(
                 continue
             previous_price = previous[bookmaker][outcome]
             current_price = current[bookmaker][outcome]
-            reasons.append(
-                f"Mouvement inhabituel chez {bookmaker} sur « {outcome} » "
-                f"(cote {previous_price:.2f} → {current_price:.2f}, "
-                f"écart au marché {deviation:.0%})"
+            signals.append(
+                Signal(
+                    category="unusual_bookmaker",
+                    text=(
+                        f"Mouvement inhabituel chez {bookmaker} sur « {outcome} » "
+                        f"(cote {previous_price:.2f} → {current_price:.2f}, "
+                        f"écart au marché {deviation:.0%})"
+                    ),
+                    magnitude=deviation,
+                )
             )
 
-    return reasons
+    return signals
 
 
-def detect_suspicious_match(
+def _confidence_from_signals(signals: list[Signal]) -> int:
+    """Score de confiance (0-100) dans la force du signal statistique.
+
+    Ce n'est PAS une probabilité de gain : plus de catégories de signaux
+    confirmant la même anomalie, et une amplitude plus forte, augmentent
+    la confiance dans le fait que le mouvement observé est réel et notable
+    (pas juste du bruit de marché).
+    """
+    if not signals:
+        return 0
+
+    categories = {signal.category for signal in signals}
+    max_magnitude = max(signal.magnitude for signal in signals)
+
+    score = 30 + 20 * (len(categories) - 1) + min(30, max_magnitude * 50)
+    return min(100, round(score))
+
+
+def _stake_from_confidence(confidence: int) -> float:
+    """Mise suggérée (% du capital) selon le score de confiance, par paliers."""
+    for threshold, stake_pct in STAKE_TIERS:
+        if confidence >= threshold:
+            return stake_pct
+    return STAKE_TIERS[-1][1]
+
+
+def analyze_match(
     previous_prices: dict[str, dict[str, float]] | None,
     current_prices: dict[str, dict[str, float]],
-) -> list[str]:
-    """Retourne les raisons pour lesquelles un match est jugé suspect.
+) -> MatchAnalysis:
+    """Analyse un match : signaux détectés, score de confiance, mise suggérée.
 
     `previous_prices` et `current_prices` sont au format
     {bookmaker: {issue: cote}}, tel que renvoyé par `odds.extract_outcome_prices`.
-    Liste vide si rien d'anormal n'est détecté.
 
     Sans relevé précédent (premier passage sur ce match), seul l'écart
     entre bookmakers ne suffit pas à juger un match suspect : il faut un
     historique pour observer une vraie variation dans le temps.
     """
     if not previous_prices:
-        return []
+        return MatchAnalysis(signals=[], confidence=0, stake_pct=0.0)
 
-    reasons: list[str] = []
-    reasons.extend(_detect_new_incoherent_spread(previous_prices, current_prices))
+    signals: list[Signal] = []
+    signals.extend(_detect_new_incoherent_spread(previous_prices, current_prices))
 
     previous_best = _best_price_per_outcome(previous_prices)
     current_best = _best_price_per_outcome(current_prices)
-    reasons.extend(_detect_massive_bet_signal(previous_best, current_best))
-    reasons.extend(_detect_unusual_bookmaker_moves(previous_prices, current_prices))
+    signals.extend(_detect_massive_bet_signal(previous_best, current_best))
+    signals.extend(_detect_unusual_bookmaker_moves(previous_prices, current_prices))
 
-    return reasons
+    confidence = _confidence_from_signals(signals)
+    stake_pct = _stake_from_confidence(confidence) if signals else 0.0
+
+    return MatchAnalysis(signals=signals, confidence=confidence, stake_pct=stake_pct)
+
+
+def detect_suspicious_match(
+    previous_prices: dict[str, dict[str, float]] | None,
+    current_prices: dict[str, dict[str, float]],
+) -> list[str]:
+    """Retourne les raisons pour lesquelles un match est jugé suspect (compat)."""
+    return analyze_match(previous_prices, current_prices).reasons
