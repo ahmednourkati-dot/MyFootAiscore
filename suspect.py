@@ -102,15 +102,20 @@ def detect_suspicious_match(
     `previous_prices` et `current_prices` sont au format
     {bookmaker: {issue: cote}}, tel que renvoyé par `odds.extract_outcome_prices`.
     Liste vide si rien d'anormal n'est détecté.
-    """
-    reasons: list[str] = []
 
+    Sans relevé précédent (premier passage sur ce match), seul l'écart
+    entre bookmakers ne suffit pas à juger un match suspect : il faut un
+    historique pour observer une vraie variation dans le temps.
+    """
+    if not previous_prices:
+        return []
+
+    reasons: list[str] = []
     reasons.extend(_detect_incoherent_spread(current_prices))
 
-    if previous_prices:
-        previous_best = _best_price_per_outcome(previous_prices)
-        current_best = _best_price_per_outcome(current_prices)
-        reasons.extend(_detect_massive_bet_signal(previous_best, current_best))
-        reasons.extend(_detect_unusual_bookmaker_moves(previous_prices, current_prices))
+    previous_best = _best_price_per_outcome(previous_prices)
+    current_best = _best_price_per_outcome(current_prices)
+    reasons.extend(_detect_massive_bet_signal(previous_best, current_best))
+    reasons.extend(_detect_unusual_bookmaker_moves(previous_prices, current_prices))
 
     return reasons
