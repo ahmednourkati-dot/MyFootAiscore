@@ -122,6 +122,8 @@ def _check_football(snapshots: dict, alerted: set, current_state_keys: set) -> N
             print(f"Erreur API cotes (football) : {exc2}")
             return
 
+    print(f"Football : {len(events)} matchs récupérés")
+
     for event in events:
         _process_market(event, "h2h", "Cotes 1X2", "h2h", snapshots, alerted, current_state_keys)
         _process_market(
@@ -145,12 +147,16 @@ def _check_tennis(snapshots: dict, alerted: set, current_state_keys: set) -> Non
         print(f"Erreur API cotes (liste tennis) : {exc}")
         return
 
+    print(f"Tennis : {len(tournaments)} tournois actifs trouvés : {tournaments}")
+
     for sport_key in tournaments[:MAX_TENNIS_TOURNAMENTS]:
         try:
             events = get_odds(sport_key, markets=TENNIS_MARKETS)
         except OddsAPIError as exc:
             print(f"Erreur API cotes (tennis {sport_key}) : {exc}")
             continue
+
+        print(f"  {sport_key} : {len(events)} matchs récupérés")
 
         for event in events:
             _process_market(
