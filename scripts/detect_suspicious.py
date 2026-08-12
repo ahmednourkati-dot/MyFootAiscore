@@ -23,7 +23,13 @@ import requests
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 from config import ALERT_CHAT_ID, TELEGRAM_BOT_TOKEN
-from odds import OddsAPIError, extract_market_prices, format_kickoff_djibouti, get_odds
+from odds import (
+    OddsAPIError,
+    extract_market_prices,
+    format_kickoff_djibouti,
+    format_now_djibouti,
+    get_odds,
+)
 from suspect import MatchAnalysis, analyze_match
 
 STATE_PATH = Path(__file__).resolve().parent.parent / "state" / "suspect_state.json"
@@ -123,6 +129,7 @@ def _process_market(
     alerted: set,
     current_state_keys: set,
     pending_results: list,
+    session_alerts: list,
     point: float | None = None,
 ) -> None:
     event_id = event.get("id")
@@ -144,6 +151,7 @@ def _process_market(
         alerted.add(state_key)
         _send_alert(_format_alert(event, market_label, analysis))
         _record_pending(pending_results, event, market_label, state_key, analysis)
+        session_alerts.append(_match_label(event))
         print(
             f"Alerte envoyée pour {_match_label(event)} ({market_label}) "
             f"- confiance {analysis.confidence}%, mise {analysis.stake_pct:.0f}%"
@@ -151,20 +159,41 @@ def _process_market(
 
 
 def _check_football(
-    snapshots: dict, alerted: set, current_state_keys: set, pending_results: list
-) -> None:
+    snapshots: dict, alerted: set, current_state_keys: set, pending_results: list, session_alerts: list
+) -> int:
     try:
         events = get_odds(FOOTBALL_SPORT_KEY, markets=FOOTBALL_MARKETS)
     except OddsAPIError as exc:
         print(f"Erreur API cotes (football) : {exc}")
-        return
+        return 0
 
     print(f"Football : {len(events)} matchs récupérés")
 
     for event in events:
         _process_market(
-            event, "h2h", "Cotes 1X2", "h2h", snapshots, alerted, current_state_keys, pending_results
+            event, "h2h", "Cotes 1X2", "h2h", snapshots, alerted, current_state_keys,
+            pending_results, session_alerts,
         )
+
+    return len(events)
+
+
+def _send_summary(n_events: int, session_alerts: list) -> None:
+    now = format_now_djibouti()
+    if session_alerts:
+        text = (
+            f"✅ Vérification {now} (heure de Djibouti)\n"
+            f"⚽ {n_events} matchs analysés\n"
+            f"🚨 {len(session_alerts)} match(s) suspect(s) détecté(s) (détails ci-dessus) :\n"
+            + "\n".join(f"• {label}" for label in session_alerts)
+        )
+    else:
+        text = (
+            f"✅ Vérification {now} (heure de Djibouti)\n"
+            f"⚽ {n_events} matchs analysés\n"
+            f"Rien de suspect détecté."
+        )
+    _send_alert(text)
 
 
 def main() -> None:
@@ -177,8 +206,10 @@ def main() -> None:
     pending_results = state.setdefault("pending_results", [])
     state.setdefault("results_history", [])
     current_state_keys: set = set()
+    session_alerts: list = []
 
-    _check_football(snapshots, alerted, current_state_keys, pending_results)
+    n_events = _check_football(snapshots, alerted, current_state_keys, pending_results, session_alerts)
+    _send_summary(n_events, session_alerts)
 
     # Purge l'état des matchs qui ne sont plus dans le calendrier de l'API.
     snapshots = {key: prices for key, prices in snapshots.items() if key in current_state_keys}
