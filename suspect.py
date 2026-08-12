@@ -44,16 +44,16 @@ def _detect_massive_bet_signal(previous: dict[str, float], current: dict[str, fl
     return reasons
 
 
-def _detect_incoherent_spread(prices_by_bookmaker: dict[str, dict[str, float]]) -> list[str]:
-    """Écart anormal entre bookmakers sur une même issue."""
-    reasons = []
+def _spread_by_outcome(prices_by_bookmaker: dict[str, dict[str, float]]) -> dict[str, float]:
+    """Calcule l'écart relatif max/min entre bookmakers, pour chaque issue."""
     if len(prices_by_bookmaker) < MIN_BOOKMAKERS_FOR_SPREAD_CHECK:
-        return reasons
+        return {}
 
     outcomes: set[str] = set()
     for outcomes_map in prices_by_bookmaker.values():
         outcomes.update(outcomes_map)
 
+    spreads: dict[str, float] = {}
     for outcome in outcomes:
         values = [
             outcomes_map[outcome]
@@ -62,12 +62,32 @@ def _detect_incoherent_spread(prices_by_bookmaker: dict[str, dict[str, float]]) 
         ]
         if len(values) < MIN_BOOKMAKERS_FOR_SPREAD_CHECK:
             continue
-        spread = (max(values) - min(values)) / min(values)
-        if spread >= BOOKMAKER_SPREAD_THRESHOLD:
-            reasons.append(
-                f"Variation de cotes incohérente entre bookmakers sur « {outcome} » "
-                f"({min(values):.2f} à {max(values):.2f}, écart {spread:.0%})"
-            )
+        spreads[outcome] = (max(values) - min(values)) / min(values)
+    return spreads
+
+
+def _detect_new_incoherent_spread(
+    previous_prices: dict[str, dict[str, float]], current_prices: dict[str, dict[str, float]]
+) -> list[str]:
+    """Écart entre bookmakers qui vient d'apparaître (pas déjà présent au relevé précédent).
+
+    Comparer au relevé précédent évite de re-signaler indéfiniment un
+    marché structurellement peu liquide (écart large mais stable) : seule
+    une vraie variation (l'écart franchit le seuil) déclenche une alerte.
+    """
+    previous_spreads = _spread_by_outcome(previous_prices)
+    current_spreads = _spread_by_outcome(current_prices)
+
+    reasons = []
+    for outcome, spread in current_spreads.items():
+        if spread < BOOKMAKER_SPREAD_THRESHOLD:
+            continue
+        if previous_spreads.get(outcome, 0.0) >= BOOKMAKER_SPREAD_THRESHOLD:
+            continue
+        reasons.append(
+            f"Variation de cotes incohérente entre bookmakers sur « {outcome} » "
+            f"(écart {spread:.0%})"
+        )
     return reasons
 
 
@@ -111,7 +131,7 @@ def detect_suspicious_match(
         return []
 
     reasons: list[str] = []
-    reasons.extend(_detect_incoherent_spread(current_prices))
+    reasons.extend(_detect_new_incoherent_spread(previous_prices, current_prices))
 
     previous_best = _best_price_per_outcome(previous_prices)
     current_best = _best_price_per_outcome(current_prices)
