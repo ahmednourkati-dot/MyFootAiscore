@@ -2,14 +2,14 @@
   "snapshots": {
     "52652d1422d7721bcd7d223028015917:h2h": {
       "Unibet (FR)": {
-        "Bragantino-SP": 1.96,
-        "Clube Atlético Mineiro": 3.65,
-        "Draw": 3.05
+        "Bragantino-SP": 2.0,
+        "Clube Atlético Mineiro": 3.6,
+        "Draw": 3.0
       },
       "Codere (IT)": {
-        "Bragantino-SP": 2.09,
-        "Clube Atlético Mineiro": 3.75,
-        "Draw": 3.1
+        "Bragantino-SP": 2.14,
+        "Clube Atlético Mineiro": 3.65,
+        "Draw": 3.05
       },
       "1xBet": {
         "Bragantino-SP": 2.2,
@@ -28,8 +28,8 @@
       },
       "Pinnacle": {
         "Bragantino-SP": 2.14,
-        "Clube Atlético Mineiro": 3.91,
-        "Draw": 3.06
+        "Clube Atlético Mineiro": 3.9,
+        "Draw": 3.05
       },
       "Coolbet": {
         "Bragantino-SP": 2.12,
@@ -57,9 +57,9 @@
         "Draw": 3.1
       },
       "Betfair": {
-        "Bragantino-SP": 2.22,
+        "Bragantino-SP": 2.2,
         "Clube Atlético Mineiro": 3.95,
-        "Draw": 3.25
+        "Draw": 3.2
       }
     },
     "398d07703c866bb0315c56cd1ce6e035:h2h": {
@@ -191,9 +191,9 @@
         "Draw": 4.25
       },
       "Pinnacle": {
-        "Cerro Porteño": 11.2,
+        "Cerro Porteño": 11.25,
         "Palmeiras-SP": 1.35,
-        "Draw": 4.69
+        "Draw": 4.7
       },
       "888sport": {
         "Cerro Porteño": 9.5,
@@ -218,7 +218,7 @@
       "Betfair": {
         "Cerro Porteño": 12.5,
         "Palmeiras-SP": 1.38,
-        "Draw": 5.0
+        "Draw": 4.9
       }
     },
     "2931578ca874ba48e46a61c94fb56fcd:h2h": {
@@ -228,9 +228,9 @@
         "Draw": 2.85
       },
       "1xBet": {
-        "Coquimbo Unido": 4.47,
+        "Coquimbo Unido": 4.53,
         "Platense": 2.09,
-        "Draw": 2.94
+        "Draw": 2.92
       },
       "Winamax (DE)": {
         "Coquimbo Unido": 3.75,
@@ -259,8 +259,8 @@
       },
       "Tipico": {
         "Coquimbo Unido": 4.3,
-        "Platense": 2.0,
-        "Draw": 2.95
+        "Platense": 2.05,
+        "Draw": 2.85
       },
       "Betsson": {
         "Coquimbo Unido": 3.95,
@@ -288,9 +288,9 @@
         "Draw": 2.75
       },
       "Pinnacle": {
-        "Coquimbo Unido": 4.42,
-        "Platense": 2.12,
-        "Draw": 2.92
+        "Coquimbo Unido": 4.49,
+        "Platense": 2.09,
+        "Draw": 2.96
       },
       "888sport": {
         "Coquimbo Unido": 4.0,
@@ -314,7 +314,7 @@
       },
       "Betfair": {
         "Coquimbo Unido": 4.6,
-        "Platense": 2.16,
+        "Platense": 2.18,
         "Draw": 3.0
       }
     },
@@ -361,7 +361,7 @@
       },
       "Betfair": {
         "Atlético San Luis": 5.4,
-        "Orlando City SC": 1.63,
+        "Orlando City SC": 1.61,
         "Draw": 4.7
       },
       "LeoVegas (SE)": {
@@ -556,8 +556,8 @@
         "Draw": 3.0
       },
       "1xBet": {
-        "Cruzeiro": 3.04,
-        "Flamengo-RJ": 2.69,
+        "Cruzeiro": 3.06,
+        "Flamengo-RJ": 2.68,
         "Draw": 3.02
       },
       "Winamax (DE)": {
@@ -591,8 +591,8 @@
         "Draw": 2.95
       },
       "Marathon Bet": {
-        "Cruzeiro": 2.93,
-        "Flamengo-RJ": 2.59,
+        "Cruzeiro": 2.94,
+        "Flamengo-RJ": 2.58,
         "Draw": 2.9
       },
       "Betsson": {
@@ -632,7 +632,7 @@
       },
       "Pinnacle": {
         "Cruzeiro": 3.03,
-        "Flamengo-RJ": 2.66,
+        "Flamengo-RJ": 2.65,
         "Draw": 3.01
       },
       "BetOnline.ag": {
@@ -646,8 +646,8 @@
         "Draw": 2.99
       },
       "Betfair": {
-        "Cruzeiro": 3.15,
-        "Flamengo-RJ": 2.7,
+        "Cruzeiro": 3.1,
+        "Flamengo-RJ": 2.68,
         "Draw": 3.15
       }
     }
