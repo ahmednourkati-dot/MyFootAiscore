@@ -75,12 +75,22 @@ def _format_alert(event: dict, market_label: str, analysis: MatchAnalysis) -> st
         f"🏆 {competition}",
         f"🕒 {kickoff} (heure de Djibouti)",
         f"⚽ {_match_label(event)}",
-        f"📊 Marché : {market_label}",
-        f"🏷️ Nature : Anomalie de marché (pas une value bet calculée — aucune probabilité réelle estimée)",
-        f"🎯 Confiance du signal : {analysis.confidence}%",
-        f"💰 Mise suggérée : {analysis.stake_pct:.0f}% du capital",
         "",
     ]
+    if analysis.selection and analysis.odds_at_alert is not None:
+        lines.append(
+            f"👉 À MISER : {analysis.selection} @ {analysis.odds_at_alert:.2f} "
+            f"— {analysis.stake_pct:.0f}% du capital"
+        )
+        lines.append("")
+    lines.extend(
+        [
+            f"📊 Marché : {market_label}",
+            f"🏷️ Nature : Anomalie de marché (pas une value bet calculée — aucune probabilité réelle estimée)",
+            f"🎯 Confiance du signal : {analysis.confidence}%",
+            "",
+        ]
+    )
     shown = reasons[:MAX_REASONS_PER_ALERT]
     lines.extend(f"• {reason}" for reason in shown)
     remaining = len(reasons) - len(shown)
@@ -110,12 +120,13 @@ def _format_value_alert(event: dict, market_label: str, vb: ValueBet) -> str:
         f"🏆 {competition}",
         f"🕒 {kickoff} (heure de Djibouti)",
         f"⚽ {_match_label(event)}",
+        "",
+        f"👉 À MISER : {vb.outcome} @ {vb.odds:.2f} — {vb.stake_pct:.0f}% du capital",
+        f"🏦 Chez {vb.bookmaker}",
+        "",
         f"📊 Marché : {market_label}",
-        f"🏦 Bookmaker : {vb.bookmaker}",
-        f"🎯 Sélection : {vb.outcome} @ {vb.odds:.2f}",
         f"📐 Probabilité juste (Pinnacle dévigorée) : {vb.fair_probability:.0%}",
         f"📈 Espérance de gain estimée : +{vb.ev_pct:.0%}",
-        f"💰 Mise suggérée : {vb.stake_pct:.0f}% du capital",
         "",
         "⚠️ Value calculée par rapport à la cote « juste » de Pinnacle (référence "
         "marché sharp), pas une garantie de gain sur ce match précis. "
