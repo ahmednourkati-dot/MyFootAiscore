@@ -59,8 +59,9 @@ def _format_summary(entries: list[dict]) -> str:
     ]
     for entry in entries:
         icon = "✅" if entry["result"] == "won" else "❌"
+        kind = "💎" if entry.get("alert_type") == "value" else "🚨"
         lines.append(
-            f"{icon} {entry['home_team']} vs {entry['away_team']} — "
+            f"{icon} {kind} {entry['home_team']} vs {entry['away_team']} — "
             f"{entry['selection']} @ {entry['odds_at_alert']:.2f} "
             f"({entry['profit_pct']:+.2f}%)"
         )

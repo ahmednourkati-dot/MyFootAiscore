@@ -30,7 +30,7 @@ from odds import (
     format_now_djibouti,
     get_odds,
 )
-from suspect import MatchAnalysis, analyze_match
+from suspect import MatchAnalysis, ValueBet, analyze_match, detect_value_bets
 
 STATE_PATH = Path(__file__).resolve().parent.parent / "state" / "suspect_state.json"
 
@@ -41,7 +41,13 @@ FOOTBALL_MARKETS = "h2h"
 def _load_state() -> dict:
     if STATE_PATH.exists():
         return json.loads(STATE_PATH.read_text())
-    return {"snapshots": {}, "alerted": [], "pending_results": [], "results_history": []}
+    return {
+        "snapshots": {},
+        "alerted": [],
+        "value_alerted": [],
+        "pending_results": [],
+        "results_history": [],
+    }
 
 
 def _save_state(state: dict) -> None:
@@ -69,12 +75,22 @@ def _format_alert(event: dict, market_label: str, analysis: MatchAnalysis) -> st
         f"🏆 {competition}",
         f"🕒 {kickoff} (heure de Djibouti)",
         f"⚽ {_match_label(event)}",
-        f"📊 Marché : {market_label}",
-        f"🏷️ Nature : Anomalie de marché (pas une value bet calculée — aucune probabilité réelle estimée)",
-        f"🎯 Confiance du signal : {analysis.confidence}%",
-        f"💰 Mise suggérée : {analysis.stake_pct:.0f}% du capital",
         "",
     ]
+    if analysis.selection and analysis.odds_at_alert is not None:
+        lines.append(
+            f"👉 À MISER : {analysis.selection} @ {analysis.odds_at_alert:.2f} "
+            f"— {analysis.stake_pct:.0f}% du capital"
+        )
+        lines.append("")
+    lines.extend(
+        [
+            f"📊 Marché : {market_label}",
+            f"🏷️ Nature : Anomalie de marché (pas une value bet calculée — aucune probabilité réelle estimée)",
+            f"🎯 Confiance du signal : {analysis.confidence}%",
+            "",
+        ]
+    )
     shown = reasons[:MAX_REASONS_PER_ALERT]
     lines.extend(f"• {reason}" for reason in shown)
     remaining = len(reasons) - len(shown)
@@ -94,13 +110,44 @@ def _send_alert(text: str) -> None:
     response.raise_for_status()
 
 
+def _format_value_alert(event: dict, market_label: str, vb: ValueBet) -> str:
+    competition = event.get("sport_title") or "?"
+    commence_time = event.get("commence_time")
+    kickoff = format_kickoff_djibouti(commence_time) if commence_time else "?"
+
+    lines = [
+        "💎 Value bet détectée",
+        f"🏆 {competition}",
+        f"🕒 {kickoff} (heure de Djibouti)",
+        f"⚽ {_match_label(event)}",
+        "",
+        f"👉 À MISER : {vb.outcome} @ {vb.odds:.2f} — {vb.stake_pct:.0f}% du capital",
+        f"🏦 Chez {vb.bookmaker}",
+        "",
+        f"📊 Marché : {market_label}",
+        f"📐 Probabilité juste (Pinnacle dévigorée) : {vb.fair_probability:.0%}",
+        f"📈 Espérance de gain estimée : +{vb.ev_pct:.0%}",
+        "",
+        "⚠️ Value calculée par rapport à la cote « juste » de Pinnacle (référence "
+        "marché sharp), pas une garantie de gain sur ce match précis. "
+        "Ne mise jamais plus que tu ne peux perdre.",
+    ]
+    return "\n".join(lines)
+
+
 def _record_pending(
-    pending_results: list, event: dict, market_label: str, state_key: str, analysis: MatchAnalysis
+    pending_results: list,
+    event: dict,
+    market_label: str,
+    state_key: str,
+    *,
+    selection: str,
+    odds_at_alert: float,
+    stake_pct: float,
+    confidence: int,
+    alert_type: str,
 ) -> None:
     """Enregistre une alerte envoyée pour vérifier plus tard si son issue s'est réalisée."""
-    if not analysis.selection or analysis.odds_at_alert is None:
-        return
-
     pending_results.append(
         {
             "state_key": state_key,
@@ -111,10 +158,11 @@ def _record_pending(
             "away_team": event.get("away_team"),
             "commence_time": event.get("commence_time"),
             "market_label": market_label,
-            "selection": analysis.selection,
-            "odds_at_alert": analysis.odds_at_alert,
-            "stake_pct": analysis.stake_pct,
-            "confidence": analysis.confidence,
+            "selection": selection,
+            "odds_at_alert": odds_at_alert,
+            "stake_pct": stake_pct,
+            "confidence": confidence,
+            "alert_type": alert_type,
             "alerted_at": datetime.now(timezone.utc).isoformat(),
         }
     )
@@ -127,6 +175,7 @@ def _process_market(
     state_key_suffix: str,
     snapshots: dict,
     alerted: set,
+    value_alerted: set,
     current_state_keys: set,
     pending_results: list,
     session_alerts: list,
@@ -150,16 +199,54 @@ def _process_market(
     if analysis.signals and state_key not in alerted:
         alerted.add(state_key)
         _send_alert(_format_alert(event, market_label, analysis))
-        _record_pending(pending_results, event, market_label, state_key, analysis)
-        session_alerts.append(_match_label(event))
+        _record_pending(
+            pending_results,
+            event,
+            market_label,
+            state_key,
+            selection=analysis.selection,
+            odds_at_alert=analysis.odds_at_alert,
+            stake_pct=analysis.stake_pct,
+            confidence=analysis.confidence,
+            alert_type="suspicious",
+        )
+        session_alerts.append(f"🚨 {_match_label(event)}")
         print(
             f"Alerte envoyée pour {_match_label(event)} ({market_label}) "
             f"- confiance {analysis.confidence}%, mise {analysis.stake_pct:.0f}%"
         )
 
+    for vb in detect_value_bets(current_prices):
+        value_key = f"{state_key}|{vb.bookmaker}|{vb.outcome}"
+        if value_key in value_alerted:
+            continue
+        value_alerted.add(value_key)
+        _send_alert(_format_value_alert(event, market_label, vb))
+        _record_pending(
+            pending_results,
+            event,
+            market_label,
+            state_key,
+            selection=vb.outcome,
+            odds_at_alert=vb.odds,
+            stake_pct=vb.stake_pct,
+            confidence=round(vb.ev_pct * 100),
+            alert_type="value",
+        )
+        session_alerts.append(f"💎 {_match_label(event)} ({vb.bookmaker})")
+        print(
+            f"Value bet envoyée pour {_match_label(event)} ({market_label}) "
+            f"- {vb.bookmaker} {vb.outcome} @ {vb.odds:.2f}, EV +{vb.ev_pct:.0%}"
+        )
+
 
 def _check_football(
-    snapshots: dict, alerted: set, current_state_keys: set, pending_results: list, session_alerts: list
+    snapshots: dict,
+    alerted: set,
+    value_alerted: set,
+    current_state_keys: set,
+    pending_results: list,
+    session_alerts: list,
 ) -> int:
     try:
         events = get_odds(FOOTBALL_SPORT_KEY, markets=FOOTBALL_MARKETS)
@@ -168,11 +255,13 @@ def _check_football(
         return 0
 
     print(f"Football : {len(events)} matchs récupérés")
+    for event in events:
+        print(f"  - {_match_label(event)} ({event.get('sport_title')})")
 
     for event in events:
         _process_market(
-            event, "h2h", "Cotes 1X2", "h2h", snapshots, alerted, current_state_keys,
-            pending_results, session_alerts,
+            event, "h2h", "Cotes 1X2", "h2h", snapshots, alerted, value_alerted,
+            current_state_keys, pending_results, session_alerts,
         )
 
     return len(events)
@@ -184,14 +273,14 @@ def _send_summary(n_events: int, session_alerts: list) -> None:
         text = (
             f"✅ Vérification {now} (heure de Djibouti)\n"
             f"⚽ {n_events} matchs analysés\n"
-            f"🚨 {len(session_alerts)} match(s) suspect(s) détecté(s) (détails ci-dessus) :\n"
+            f"🔔 {len(session_alerts)} alerte(s) détectée(s) (détails ci-dessus) :\n"
             + "\n".join(f"• {label}" for label in session_alerts)
         )
     else:
         text = (
             f"✅ Vérification {now} (heure de Djibouti)\n"
             f"⚽ {n_events} matchs analysés\n"
-            f"Rien de suspect détecté."
+            f"Rien de suspect ni de value bet détecté."
         )
     _send_alert(text)
 
@@ -203,20 +292,25 @@ def main() -> None:
     state = _load_state()
     snapshots = state.setdefault("snapshots", {})
     alerted = set(state.setdefault("alerted", []))
+    value_alerted = set(state.setdefault("value_alerted", []))
     pending_results = state.setdefault("pending_results", [])
     state.setdefault("results_history", [])
     current_state_keys: set = set()
     session_alerts: list = []
 
-    n_events = _check_football(snapshots, alerted, current_state_keys, pending_results, session_alerts)
+    n_events = _check_football(
+        snapshots, alerted, value_alerted, current_state_keys, pending_results, session_alerts
+    )
     _send_summary(n_events, session_alerts)
 
     # Purge l'état des matchs qui ne sont plus dans le calendrier de l'API.
     snapshots = {key: prices for key, prices in snapshots.items() if key in current_state_keys}
     alerted &= current_state_keys
+    value_alerted = {key for key in value_alerted if key.split("|", 1)[0] in current_state_keys}
 
     state["snapshots"] = snapshots
     state["alerted"] = sorted(alerted)
+    state["value_alerted"] = sorted(value_alerted)
     _save_state(state)
 
 

@@ -1,16 +1,22 @@
-"""Détection de matchs suspects à partir des mouvements de cotes.
+"""Détection de matchs suspects et de value bets à partir des cotes.
 
 Un match suspect est un match dont le comportement de cotes n'est pas
 normal : signaux anormaux, chute de cote traduisant des mises massives sur
 une issue, écarts incohérents entre bookmakers, ou mouvements inhabituels
-chez un bookmaker en particulier.
+chez un bookmaker en particulier. Cette partie ne calcule PAS de "value
+bet" : elle produit un score de confiance dans la force du signal
+statistique détecté, présenté comme une "anomalie de marché".
 
-Faute de données publiques sur les volumes de mise réels (et sans IA
-connectée pour estimer une vraie probabilité), ces règles ne calculent
-PAS de "value bet" au sens mathématique (probabilité estimée x cote - 1).
-Elles produisent uniquement un score de confiance dans la force du signal
-statistique détecté, présenté comme une "anomalie de marché" — jamais
-comme une value bet validée.
+En complément, `detect_value_bets` calcule de vraies value bets au sens
+mathématique (probabilité estimée x cote - 1 > 0), en utilisant Pinnacle
+comme référence de probabilité "juste" : Pinnacle est le bookmaker le
+plus efficient du marché (marge la plus faible, cotes qui intègrent le
+plus d'information), donc sa cote une fois la marge retirée ("dévigorée")
+sert d'estimation de la probabilité réelle. Si un autre bookmaker propose
+une cote plus généreuse que ce que cette probabilité justifie, c'est une
+value bet par rapport au marché sharp — pas une garantie de gain, mais
+une méthode reconnue (comparaison à la "closing line" de Pinnacle), sans
+avoir besoin d'IA ni de données de forme des équipes.
 """
 
 from __future__ import annotations
@@ -34,6 +40,18 @@ STAKE_TIERS = (
     (70, 3.0),
     (50, 2.0),
     (0, 1.0),
+)
+
+# Value bet : écart minimum entre la cote proposée et la cote "juste"
+# (dévigorée) de Pinnacle pour considérer que c'est une vraie value bet et
+# pas juste du bruit de marge entre bookmakers.
+VALUE_EV_THRESHOLD = 0.05  # 5 % d'espérance de gain minimum
+
+# Paliers de mise suggérée en fonction de l'ampleur de la value (% du capital)
+VALUE_STAKE_TIERS = (
+    (0.15, 5.0),
+    (0.10, 3.0),
+    (0.05, 2.0),
 )
 
 
@@ -319,6 +337,78 @@ def analyze_match(
         selection=selection,
         odds_at_alert=odds_at_alert,
     )
+
+
+@dataclass
+class ValueBet:
+    """Une cote jugée "value" par rapport à la probabilité juste de Pinnacle."""
+
+    bookmaker: str
+    outcome: str
+    odds: float
+    fair_probability: float  # probabilité "juste" de Pinnacle (dévigorée), 0-1
+    ev_pct: float  # espérance de gain relative (0.08 = +8 %)
+    stake_pct: float
+
+
+def _devig_probabilities(prices: dict[str, float]) -> dict[str, float]:
+    """Retire la marge du bookmaker pour obtenir des probabilités "justes".
+
+    Méthode proportionnelle (la plus simple et la plus standard) : les
+    probabilités implicites (1/cote) sont normalisées pour sommer à 1.
+    """
+    implied = {outcome: 1 / odds for outcome, odds in prices.items() if odds > 0}
+    overround = sum(implied.values())
+    if overround <= 0:
+        return {}
+    return {outcome: prob / overround for outcome, prob in implied.items()}
+
+
+def _stake_from_ev(ev_pct: float) -> float:
+    """Mise suggérée (% du capital) selon l'ampleur de la value, par paliers."""
+    for threshold, stake_pct in VALUE_STAKE_TIERS:
+        if ev_pct >= threshold:
+            return stake_pct
+    return 0.0
+
+
+def detect_value_bets(current_prices: dict[str, dict[str, float]]) -> list[ValueBet]:
+    """Détecte les cotes en value par rapport à la probabilité juste de Pinnacle.
+
+    Ne renvoie rien si Pinnacle n'est pas présent sur ce match (pas de
+    référence sharp disponible pour estimer une probabilité juste).
+    """
+    pinnacle_prices = current_prices.get(PINNACLE_NAME)
+    if not pinnacle_prices:
+        return []
+
+    fair_probabilities = _devig_probabilities(pinnacle_prices)
+    if not fair_probabilities:
+        return []
+
+    value_bets = []
+    for bookmaker, outcomes in current_prices.items():
+        if bookmaker == PINNACLE_NAME:
+            continue
+        for outcome, odds in outcomes.items():
+            fair_prob = fair_probabilities.get(outcome)
+            if not fair_prob:
+                continue
+            ev_pct = fair_prob * odds - 1
+            if ev_pct < VALUE_EV_THRESHOLD:
+                continue
+            value_bets.append(
+                ValueBet(
+                    bookmaker=bookmaker,
+                    outcome=outcome,
+                    odds=odds,
+                    fair_probability=fair_prob,
+                    ev_pct=ev_pct,
+                    stake_pct=_stake_from_ev(ev_pct),
+                )
+            )
+
+    return value_bets
 
 
 def detect_suspicious_match(
