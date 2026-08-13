@@ -2,59 +2,59 @@
   "snapshots": {
     "d5331bc209a7e409ff54f6b38527ebc4:h2h": {
       "Unibet (SE)": {
-        "Al-Qadsiah": 2.4,
-        "Al-Shabab": 2.7,
-        "Draw": 3.35
-      },
-      "Tipico": {
-        "Al-Qadsiah": 2.5,
-        "Al-Shabab": 2.3,
-        "Draw": 3.8
-      },
-      "PMU (FR)": {
-        "Al-Qadsiah": 2.16,
-        "Al-Shabab": 2.43,
-        "Draw": 3.0
-      },
-      "LeoVegas (SE)": {
-        "Al-Qadsiah": 2.25,
+        "Al-Qadsiah": 2.63,
         "Al-Shabab": 2.55,
-        "Draw": 3.15
-      },
-      "Winamax (DE)": {
-        "Al-Qadsiah": 2.35,
-        "Al-Shabab": 2.45,
-        "Draw": 3.55
-      },
-      "Unibet (NL)": {
-        "Al-Qadsiah": 2.32,
-        "Al-Shabab": 2.6,
         "Draw": 3.2
       },
-      "Winamax (FR)": {
-        "Al-Qadsiah": 2.25,
-        "Al-Shabab": 2.35,
-        "Draw": 3.4
+      "Tipico": {
+        "Al-Qadsiah": 2.9,
+        "Al-Shabab": 2.1,
+        "Draw": 3.6
       },
-      "Betclic (FR)": {
-        "Al-Qadsiah": 2.32,
-        "Al-Shabab": 2.45,
-        "Draw": 3.58
+      "PMU (FR)": {
+        "Al-Qadsiah": 2.35,
+        "Al-Shabab": 2.3,
+        "Draw": 2.85
       },
-      "Betfair": {
-        "Al-Qadsiah": 2.62,
-        "Al-Shabab": 2.66,
-        "Draw": 3.9
-      },
-      "888sport": {
-        "Al-Qadsiah": 2.3,
+      "LeoVegas (SE)": {
+        "Al-Qadsiah": 2.48,
         "Al-Shabab": 2.4,
+        "Draw": 3.0
+      },
+      "Winamax (DE)": {
+        "Al-Qadsiah": 2.8,
+        "Al-Shabab": 2.25,
         "Draw": 3.25
       },
+      "Unibet (NL)": {
+        "Al-Qadsiah": 2.55,
+        "Al-Shabab": 2.45,
+        "Draw": 3.05
+      },
+      "Winamax (FR)": {
+        "Al-Qadsiah": 2.65,
+        "Al-Shabab": 2.15,
+        "Draw": 3.1
+      },
+      "Betclic (FR)": {
+        "Al-Qadsiah": 2.75,
+        "Al-Shabab": 2.3,
+        "Draw": 3.15
+      },
+      "Betfair": {
+        "Al-Qadsiah": 2.9,
+        "Al-Shabab": 2.5,
+        "Draw": 3.65
+      },
+      "888sport": {
+        "Al-Qadsiah": 2.7,
+        "Al-Shabab": 2.2,
+        "Draw": 3.0
+      },
       "Pinnacle": {
-        "Al-Qadsiah": 2.45,
-        "Al-Shabab": 2.66,
-        "Draw": 3.36
+        "Al-Qadsiah": 2.87,
+        "Al-Shabab": 2.38,
+        "Draw": 3.27
       }
     },
     "dd06fab13c4861592da993d2d742c27b:h2h": {
@@ -79,9 +79,9 @@
         "Draw": 3.35
       },
       "1xBet": {
-        "LDU Quito": 6.02,
-        "Mirassol": 1.7,
-        "Draw": 3.48
+        "LDU Quito": 6.12,
+        "Mirassol": 1.69,
+        "Draw": 3.5
       },
       "Marathon Bet": {
         "LDU Quito": 5.95,
@@ -104,9 +104,9 @@
         "Draw": 3.3
       },
       "Suprabets": {
-        "LDU Quito": 5.8,
-        "Mirassol": 1.66,
-        "Draw": 3.37
+        "LDU Quito": 6.2,
+        "Mirassol": 1.62,
+        "Draw": 3.41
       },
       "Codere (IT)": {
         "LDU Quito": 5.6,
@@ -124,9 +124,9 @@
         "Draw": 3.3
       },
       "Pinnacle": {
-        "LDU Quito": 6.12,
-        "Mirassol": 1.69,
-        "Draw": 3.47
+        "LDU Quito": 6.38,
+        "Mirassol": 1.65,
+        "Draw": 3.54
       },
       "888sport": {
         "LDU Quito": 5.5,
@@ -150,7 +150,7 @@
       },
       "Betfair": {
         "LDU Quito": 6.6,
-        "Mirassol": 1.74,
+        "Mirassol": 1.73,
         "Draw": 3.6
       }
     },
@@ -171,7 +171,7 @@
         "Draw": 4.7
       },
       "Betfair": {
-        "Macará": 9.8,
+        "Macará": 9.6,
         "Santos": 1.42,
         "Draw": 4.9
       },
@@ -196,7 +196,7 @@
         "Draw": 4.28
       },
       "Nordic Bet": {
-        "Macará": 8.8,
+        "Macará": 8.3,
         "Santos": 1.35,
         "Draw": 4.35
       },
