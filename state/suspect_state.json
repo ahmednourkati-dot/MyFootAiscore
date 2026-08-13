@@ -2,66 +2,66 @@
   "snapshots": {
     "d5331bc209a7e409ff54f6b38527ebc4:h2h": {
       "Unibet (SE)": {
-        "Al-Qadsiah": 1.85,
-        "Al-Shabab": 6.0,
-        "Draw": 2.7
+        "Al-Qadsiah": 2.28,
+        "Al-Shabab": 6.5,
+        "Draw": 2.04
       },
       "Tipico": {
-        "Al-Qadsiah": 1.9,
-        "Al-Shabab": 5.2,
-        "Draw": 2.6
+        "Al-Qadsiah": 2.4,
+        "Al-Shabab": 6.0,
+        "Draw": 1.95
       },
       "PMU (FR)": {
-        "Al-Qadsiah": 1.67,
-        "Al-Shabab": 5.6,
-        "Draw": 2.33
+        "Al-Qadsiah": 2.05,
+        "Al-Shabab": 5.8,
+        "Draw": 1.83
       },
       "LeoVegas (SE)": {
-        "Al-Qadsiah": 1.76,
-        "Al-Shabab": 5.8,
-        "Draw": 2.45
+        "Al-Qadsiah": 2.15,
+        "Al-Shabab": 6.1,
+        "Draw": 1.92
       },
       "Winamax (DE)": {
-        "Al-Qadsiah": 1.98,
-        "Al-Shabab": 5.0,
-        "Draw": 2.5
+        "Al-Qadsiah": 2.4,
+        "Al-Shabab": 5.6,
+        "Draw": 1.94
       },
       "Unibet (NL)": {
-        "Al-Qadsiah": 1.79,
-        "Al-Shabab": 6.0,
-        "Draw": 2.5
+        "Al-Qadsiah": 2.2,
+        "Al-Shabab": 6.25,
+        "Draw": 1.95
       },
       "Winamax (FR)": {
-        "Al-Qadsiah": 1.9,
-        "Al-Shabab": 4.6,
-        "Draw": 2.35
+        "Al-Qadsiah": 2.3,
+        "Al-Shabab": 5.2,
+        "Draw": 1.86
       },
       "Betclic (FR)": {
-        "Al-Qadsiah": 1.92,
-        "Al-Shabab": 5.0,
-        "Draw": 2.5
+        "Al-Qadsiah": 2.27,
+        "Al-Shabab": 6.0,
+        "Draw": 1.95
       },
       "Betfair": {
-        "Al-Qadsiah": 2.06,
-        "Al-Shabab": 5.6,
-        "Draw": 2.82
+        "Al-Qadsiah": 2.5,
+        "Al-Shabab": 6.8,
+        "Draw": 2.14
       },
       "888sport": {
-        "Al-Qadsiah": 1.95,
-        "Al-Shabab": 4.5,
-        "Draw": 2.45
+        "Al-Qadsiah": 2.3,
+        "Al-Shabab": 5.5,
+        "Draw": 1.85
       },
       "Pinnacle": {
-        "Al-Qadsiah": 2.09,
-        "Al-Shabab": 4.95,
-        "Draw": 2.54
+        "Al-Qadsiah": 2.43,
+        "Al-Shabab": 6.19,
+        "Draw": 2.0
       }
     },
     "dd06fab13c4861592da993d2d742c27b:h2h": {
       "Unibet (NL)": {
         "LDU Quito": 5.6,
-        "Mirassol": 1.64,
-        "Draw": 3.5
+        "Mirassol": 1.65,
+        "Draw": 3.45
       },
       "Tipico": {
         "LDU Quito": 6.0,
@@ -70,8 +70,8 @@
       },
       "LeoVegas (SE)": {
         "LDU Quito": 5.4,
-        "Mirassol": 1.62,
-        "Draw": 3.4
+        "Mirassol": 1.63,
+        "Draw": 3.35
       },
       "Unibet (FR)": {
         "LDU Quito": 5.5,
@@ -79,14 +79,14 @@
         "Draw": 3.35
       },
       "1xBet": {
-        "LDU Quito": 6.17,
-        "Mirassol": 1.7,
-        "Draw": 3.44
+        "LDU Quito": 6.12,
+        "Mirassol": 1.71,
+        "Draw": 3.42
       },
       "Marathon Bet": {
-        "LDU Quito": 6.0,
-        "Mirassol": 1.65,
-        "Draw": 3.34
+        "LDU Quito": 5.95,
+        "Mirassol": 1.66,
+        "Draw": 3.32
       },
       "Betclic (FR)": {
         "LDU Quito": 5.75,
@@ -121,12 +121,12 @@
       "PMU (FR)": {
         "LDU Quito": 5.25,
         "Mirassol": 1.57,
-        "Draw": 3.3
+        "Draw": 3.25
       },
       "Pinnacle": {
-        "LDU Quito": 6.46,
-        "Mirassol": 1.67,
-        "Draw": 3.47
+        "LDU Quito": 6.43,
+        "Mirassol": 1.68,
+        "Draw": 3.44
       },
       "888sport": {
         "LDU Quito": 5.75,
@@ -149,9 +149,9 @@
         "Draw": 3.4
       },
       "Betfair": {
-        "LDU Quito": 6.6,
+        "LDU Quito": 6.8,
         "Mirassol": 1.74,
-        "Draw": 3.5
+        "Draw": 3.55
       }
     },
     "e72550103b740fd8b9b9b900fa9c1d87:h2h": {
@@ -191,9 +191,9 @@
         "Draw": 4.4
       },
       "Pinnacle": {
-        "Macará": 9.47,
+        "Macará": 9.58,
         "Santos": 1.39,
-        "Draw": 4.29
+        "Draw": 4.33
       },
       "Nordic Bet": {
         "Macará": 8.8,
@@ -228,9 +228,9 @@
         "Draw": 3.4
       },
       "1xBet": {
-        "Olimpia Asunción": 5.36,
+        "Olimpia Asunción": 5.48,
         "Vasco da Gama": 1.84,
-        "Draw": 3.44
+        "Draw": 3.4
       },
       "888sport": {
         "Olimpia Asunción": 4.8,
@@ -243,9 +243,9 @@
         "Draw": 3.1
       },
       "Pinnacle": {
-        "Olimpia Asunción": 5.26,
-        "Vasco da Gama": 1.79,
-        "Draw": 3.29
+        "Olimpia Asunción": 5.35,
+        "Vasco da Gama": 1.76,
+        "Draw": 3.33
       },
       "Coolbet": {
         "Olimpia Asunción": 5.15,
