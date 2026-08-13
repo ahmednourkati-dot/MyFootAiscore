@@ -1,127 +1,60 @@
 {
   "snapshots": {
-    "746c7c44fc3985de663e697217db3f68:h2h": {
-      "Betfair": {
-        "Abha Club": 38.0,
-        "Al-Hazem": 1.11,
-        "Draw": 10.5
-      },
-      "Unibet (SE)": {
-        "Abha Club": 34.0,
-        "Al-Hazem": 1.07,
-        "Draw": 10.0
-      },
-      "Tipico": {
-        "Abha Club": 35.0,
-        "Al-Hazem": 1.07,
-        "Draw": 7.5
-      },
-      "LeoVegas (SE)": {
-        "Abha Club": 31.0,
-        "Al-Hazem": 1.02,
-        "Draw": 9.5
-      },
-      "Winamax (DE)": {
-        "Abha Club": 32.0,
-        "Al-Hazem": 1.06,
-        "Draw": 9.0
-      },
-      "Winamax (FR)": {
-        "Abha Club": 32.0,
-        "Al-Hazem": 1.07,
-        "Draw": 8.0
-      },
-      "Betclic (FR)": {
-        "Abha Club": 21.0,
-        "Al-Hazem": 1.06,
-        "Draw": 7.75
-      },
-      "Unibet (NL)": {
-        "Abha Club": 31.0,
-        "Al-Hazem": 1.02,
-        "Draw": 9.5
-      },
-      "888sport": {
-        "Abha Club": 23.0,
-        "Al-Hazem": 1.08,
-        "Draw": 7.5
-      },
-      "Pinnacle": {
-        "Abha Club": 29.14,
-        "Al-Hazem": 1.1,
-        "Draw": 8.74
-      }
-    },
     "d5331bc209a7e409ff54f6b38527ebc4:h2h": {
       "Unibet (SE)": {
-        "Al-Qadsiah": 1.51,
-        "Al-Shabab": 5.1,
-        "Draw": 4.0
+        "Al-Qadsiah": 2.4,
+        "Al-Shabab": 2.7,
+        "Draw": 3.35
       },
       "Tipico": {
-        "Al-Qadsiah": 1.55,
-        "Al-Shabab": 4.6,
-        "Draw": 4.4
-      },
-      "PMU (FR)": {
-        "Al-Qadsiah": 1.43,
-        "Al-Shabab": 4.8,
+        "Al-Qadsiah": 2.5,
+        "Al-Shabab": 2.3,
         "Draw": 3.8
       },
+      "PMU (FR)": {
+        "Al-Qadsiah": 2.16,
+        "Al-Shabab": 2.43,
+        "Draw": 3.0
+      },
       "LeoVegas (SE)": {
-        "Al-Qadsiah": 1.49,
-        "Al-Shabab": 5.0,
-        "Draw": 3.95
+        "Al-Qadsiah": 2.25,
+        "Al-Shabab": 2.55,
+        "Draw": 3.15
       },
       "Winamax (DE)": {
-        "Al-Qadsiah": 1.54,
-        "Al-Shabab": 4.5,
-        "Draw": 4.4
-      },
-      "1xBet": {
-        "Al-Qadsiah": 1.55,
-        "Al-Shabab": 4.98,
-        "Draw": 4.5
+        "Al-Qadsiah": 2.35,
+        "Al-Shabab": 2.45,
+        "Draw": 3.55
       },
       "Unibet (NL)": {
-        "Al-Qadsiah": 1.51,
-        "Al-Shabab": 5.1,
-        "Draw": 4.0
-      },
-      "Unibet (FR)": {
-        "Al-Qadsiah": 1.52,
-        "Al-Shabab": 4.8,
-        "Draw": 4.3
+        "Al-Qadsiah": 2.32,
+        "Al-Shabab": 2.6,
+        "Draw": 3.2
       },
       "Winamax (FR)": {
-        "Al-Qadsiah": 1.52,
-        "Al-Shabab": 4.4,
-        "Draw": 4.2
+        "Al-Qadsiah": 2.25,
+        "Al-Shabab": 2.35,
+        "Draw": 3.4
       },
       "Betclic (FR)": {
-        "Al-Qadsiah": 1.51,
-        "Al-Shabab": 4.7,
-        "Draw": 4.45
+        "Al-Qadsiah": 2.32,
+        "Al-Shabab": 2.45,
+        "Draw": 3.58
       },
       "Betfair": {
-        "Al-Qadsiah": 1.61,
-        "Al-Shabab": 5.4,
-        "Draw": 4.8
+        "Al-Qadsiah": 2.62,
+        "Al-Shabab": 2.66,
+        "Draw": 3.9
       },
       "888sport": {
-        "Al-Qadsiah": 1.53,
-        "Al-Shabab": 4.4,
-        "Draw": 4.0
-      },
-      "William Hill": {
-        "Al-Qadsiah": 1.53,
-        "Al-Shabab": 4.4,
-        "Draw": 4.0
+        "Al-Qadsiah": 2.3,
+        "Al-Shabab": 2.4,
+        "Draw": 3.25
       },
       "Pinnacle": {
-        "Al-Qadsiah": 1.55,
-        "Al-Shabab": 4.99,
-        "Draw": 4.79
+        "Al-Qadsiah": 2.45,
+        "Al-Shabab": 2.66,
+        "Draw": 3.36
       }
     },
     "dd06fab13c4861592da993d2d742c27b:h2h": {
@@ -146,27 +79,27 @@
         "Draw": 3.35
       },
       "1xBet": {
-        "LDU Quito": 5.92,
-        "Mirassol": 1.72,
-        "Draw": 3.45
+        "LDU Quito": 6.02,
+        "Mirassol": 1.7,
+        "Draw": 3.48
       },
       "Marathon Bet": {
-        "LDU Quito": 5.75,
-        "Mirassol": 1.67,
-        "Draw": 3.34
+        "LDU Quito": 5.95,
+        "Mirassol": 1.64,
+        "Draw": 3.4
       },
       "Betclic (FR)": {
-        "LDU Quito": 5.5,
-        "Mirassol": 1.67,
-        "Draw": 3.32
+        "LDU Quito": 5.75,
+        "Mirassol": 1.64,
+        "Draw": 3.38
       },
       "Betsson": {
-        "LDU Quito": 5.4,
+        "LDU Quito": 5.9,
         "Mirassol": 1.68,
         "Draw": 3.3
       },
       "Nordic Bet": {
-        "LDU Quito": 5.4,
+        "LDU Quito": 5.9,
         "Mirassol": 1.68,
         "Draw": 3.3
       },
@@ -187,7 +120,7 @@
       },
       "PMU (FR)": {
         "LDU Quito": 5.25,
-        "Mirassol": 1.56,
+        "Mirassol": 1.57,
         "Draw": 3.3
       },
       "Pinnacle": {
@@ -198,12 +131,12 @@
       "888sport": {
         "LDU Quito": 5.5,
         "Mirassol": 1.67,
-        "Draw": 3.2
+        "Draw": 3.25
       },
       "William Hill": {
         "LDU Quito": 5.5,
         "Mirassol": 1.67,
-        "Draw": 3.2
+        "Draw": 3.25
       },
       "GTbets": {
         "LDU Quito": 5.74,
@@ -216,9 +149,9 @@
         "Draw": 3.4
       },
       "Betfair": {
-        "LDU Quito": 6.4,
-        "Mirassol": 1.77,
-        "Draw": 3.5
+        "LDU Quito": 6.6,
+        "Mirassol": 1.74,
+        "Draw": 3.6
       }
     },
     "e72550103b740fd8b9b9b900fa9c1d87:h2h": {
@@ -233,14 +166,14 @@
         "Draw": 4.7
       },
       "1xBet": {
-        "Macará": 10.2,
-        "Santos": 1.43,
-        "Draw": 4.48
+        "Macará": 10.7,
+        "Santos": 1.4,
+        "Draw": 4.7
       },
       "Betfair": {
-        "Macará": 9.6,
-        "Santos": 1.43,
-        "Draw": 4.8
+        "Macará": 9.8,
+        "Santos": 1.42,
+        "Draw": 4.9
       },
       "888sport": {
         "Macará": 9.0,
@@ -263,7 +196,7 @@
         "Draw": 4.28
       },
       "Nordic Bet": {
-        "Macará": 8.3,
+        "Macará": 8.8,
         "Santos": 1.35,
         "Draw": 4.35
       },
@@ -282,10 +215,71 @@
         "Santos": 1.35,
         "Draw": 4.8
       }
+    },
+    "154087d9648994908d9fd4dcf6d28d37:h2h": {
+      "Unibet (FR)": {
+        "Olimpia Asunción": 4.75,
+        "Vasco da Gama": 1.66,
+        "Draw": 3.35
+      },
+      "Codere (IT)": {
+        "Olimpia Asunción": 4.8,
+        "Vasco da Gama": 1.76,
+        "Draw": 3.4
+      },
+      "1xBet": {
+        "Olimpia Asunción": 5.3,
+        "Vasco da Gama": 1.85,
+        "Draw": 3.44
+      },
+      "888sport": {
+        "Olimpia Asunción": 4.8,
+        "Vasco da Gama": 1.75,
+        "Draw": 3.25
+      },
+      "William Hill": {
+        "Olimpia Asunción": 4.8,
+        "Vasco da Gama": 1.75,
+        "Draw": 3.25
+      },
+      "Pinnacle": {
+        "Olimpia Asunción": 5.29,
+        "Vasco da Gama": 1.78,
+        "Draw": 3.32
+      },
+      "Coolbet": {
+        "Olimpia Asunción": 5.15,
+        "Vasco da Gama": 1.8,
+        "Draw": 3.4
+      },
+      "Nordic Bet": {
+        "Olimpia Asunción": 4.95,
+        "Vasco da Gama": 1.75,
+        "Draw": 3.15
+      },
+      "PMU (FR)": {
+        "Olimpia Asunción": 4.5,
+        "Vasco da Gama": 1.7,
+        "Draw": 3.15
+      },
+      "LeoVegas (SE)": {
+        "Olimpia Asunción": 4.5,
+        "Vasco da Gama": 1.7,
+        "Draw": 3.15
+      },
+      "Unibet (NL)": {
+        "Olimpia Asunción": 4.8,
+        "Vasco da Gama": 1.76,
+        "Draw": 3.35
+      },
+      "Betfair": {
+        "Olimpia Asunción": 5.5,
+        "Vasco da Gama": 1.81,
+        "Draw": 3.55
+      }
     }
   },
   "alerted": [
-    "746c7c44fc3985de663e697217db3f68:h2h",
     "d5331bc209a7e409ff54f6b38527ebc4:h2h",
     "e72550103b740fd8b9b9b900fa9c1d87:h2h"
   ],
@@ -1057,21 +1051,44 @@
       "confidence": 11,
       "alert_type": "value",
       "alerted_at": "2026-08-13T17:29:31.786395+00:00"
+    },
+    {
+      "state_key": "d5331bc209a7e409ff54f6b38527ebc4:h2h",
+      "event_id": "d5331bc209a7e409ff54f6b38527ebc4",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Shabab",
+      "away_team": "Al-Qadsiah",
+      "commence_time": "2026-08-13T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.9,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-08-13T18:21:41.502930+00:00"
+    },
+    {
+      "state_key": "e72550103b740fd8b9b9b900fa9c1d87:h2h",
+      "event_id": "e72550103b740fd8b9b9b900fa9c1d87",
+      "sport_key": "soccer",
+      "competition": "Copa Sudamericana",
+      "home_team": "Santos",
+      "away_team": "Macará",
+      "commence_time": "2026-08-13T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Macará",
+      "odds_at_alert": 10.7,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-08-13T18:21:41.875861+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "746c7c44fc3985de663e697217db3f68:h2h|Betfair|Abha Club",
-    "746c7c44fc3985de663e697217db3f68:h2h|Betfair|Draw",
-    "746c7c44fc3985de663e697217db3f68:h2h|LeoVegas (SE)|Abha Club",
-    "746c7c44fc3985de663e697217db3f68:h2h|LeoVegas (SE)|Draw",
-    "746c7c44fc3985de663e697217db3f68:h2h|Tipico|Abha Club",
-    "746c7c44fc3985de663e697217db3f68:h2h|Unibet (NL)|Abha Club",
-    "746c7c44fc3985de663e697217db3f68:h2h|Unibet (NL)|Draw",
-    "746c7c44fc3985de663e697217db3f68:h2h|Unibet (SE)|Abha Club",
-    "746c7c44fc3985de663e697217db3f68:h2h|Unibet (SE)|Draw",
-    "746c7c44fc3985de663e697217db3f68:h2h|Winamax (DE)|Abha Club",
-    "746c7c44fc3985de663e697217db3f68:h2h|Winamax (FR)|Abha Club",
+    "d5331bc209a7e409ff54f6b38527ebc4:h2h|Betfair|Draw",
+    "e72550103b740fd8b9b9b900fa9c1d87:h2h|1xBet|Macará",
     "e72550103b740fd8b9b9b900fa9c1d87:h2h|Betfair|Draw",
     "e72550103b740fd8b9b9b900fa9c1d87:h2h|Codere (IT)|Draw",
     "e72550103b740fd8b9b9b900fa9c1d87:h2h|Unibet (NL)|Draw"
