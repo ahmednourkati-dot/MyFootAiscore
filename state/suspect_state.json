@@ -1,62 +1,5 @@
 {
   "snapshots": {
-    "d5331bc209a7e409ff54f6b38527ebc4:h2h": {
-      "Unibet (SE)": {
-        "Al-Qadsiah": 2.28,
-        "Al-Shabab": 6.5,
-        "Draw": 2.04
-      },
-      "Tipico": {
-        "Al-Qadsiah": 2.4,
-        "Al-Shabab": 6.0,
-        "Draw": 1.95
-      },
-      "PMU (FR)": {
-        "Al-Qadsiah": 2.05,
-        "Al-Shabab": 5.8,
-        "Draw": 1.83
-      },
-      "LeoVegas (SE)": {
-        "Al-Qadsiah": 2.15,
-        "Al-Shabab": 6.1,
-        "Draw": 1.92
-      },
-      "Winamax (DE)": {
-        "Al-Qadsiah": 2.4,
-        "Al-Shabab": 5.6,
-        "Draw": 1.94
-      },
-      "Unibet (NL)": {
-        "Al-Qadsiah": 2.2,
-        "Al-Shabab": 6.25,
-        "Draw": 1.95
-      },
-      "Winamax (FR)": {
-        "Al-Qadsiah": 2.3,
-        "Al-Shabab": 5.2,
-        "Draw": 1.86
-      },
-      "Betclic (FR)": {
-        "Al-Qadsiah": 2.27,
-        "Al-Shabab": 6.0,
-        "Draw": 1.95
-      },
-      "Betfair": {
-        "Al-Qadsiah": 2.5,
-        "Al-Shabab": 6.8,
-        "Draw": 2.14
-      },
-      "888sport": {
-        "Al-Qadsiah": 2.3,
-        "Al-Shabab": 5.5,
-        "Draw": 1.85
-      },
-      "Pinnacle": {
-        "Al-Qadsiah": 2.43,
-        "Al-Shabab": 6.19,
-        "Draw": 2.0
-      }
-    },
     "dd06fab13c4861592da993d2d742c27b:h2h": {
       "Unibet (NL)": {
         "LDU Quito": 5.6,
@@ -79,13 +22,13 @@
         "Draw": 3.35
       },
       "1xBet": {
-        "LDU Quito": 6.12,
-        "Mirassol": 1.71,
+        "LDU Quito": 6.22,
+        "Mirassol": 1.7,
         "Draw": 3.42
       },
       "Marathon Bet": {
-        "LDU Quito": 5.95,
-        "Mirassol": 1.66,
+        "LDU Quito": 6.05,
+        "Mirassol": 1.65,
         "Draw": 3.32
       },
       "Betclic (FR)": {
@@ -124,9 +67,9 @@
         "Draw": 3.25
       },
       "Pinnacle": {
-        "LDU Quito": 6.43,
-        "Mirassol": 1.68,
-        "Draw": 3.44
+        "LDU Quito": 6.44,
+        "Mirassol": 1.67,
+        "Draw": 3.45
       },
       "888sport": {
         "LDU Quito": 5.75,
@@ -144,26 +87,26 @@
         "Draw": 3.38
       },
       "BetOnline.ag": {
-        "LDU Quito": 5.9,
-        "Mirassol": 1.7,
-        "Draw": 3.4
+        "LDU Quito": 6.19,
+        "Mirassol": 1.68,
+        "Draw": 3.44
       },
       "Betfair": {
-        "LDU Quito": 6.8,
-        "Mirassol": 1.74,
+        "LDU Quito": 6.6,
+        "Mirassol": 1.73,
         "Draw": 3.55
       }
     },
     "e72550103b740fd8b9b9b900fa9c1d87:h2h": {
       "Unibet (FR)": {
-        "Macará": 8.4,
-        "Santos": 1.29,
-        "Draw": 4.7
+        "Macará": 8.0,
+        "Santos": 1.36,
+        "Draw": 4.0
       },
       "Codere (IT)": {
-        "Macará": 8.6,
-        "Santos": 1.34,
-        "Draw": 4.8
+        "Macará": 8.4,
+        "Santos": 1.35,
+        "Draw": 4.7
       },
       "1xBet": {
         "Macará": 10.8,
@@ -171,8 +114,8 @@
         "Draw": 4.71
       },
       "Betfair": {
-        "Macará": 10.5,
-        "Santos": 1.4,
+        "Macará": 10.0,
+        "Santos": 1.41,
         "Draw": 5.0
       },
       "888sport": {
@@ -186,12 +129,12 @@
         "Draw": 4.33
       },
       "Coolbet": {
-        "Macará": 9.55,
+        "Macará": 9.25,
         "Santos": 1.39,
-        "Draw": 4.4
+        "Draw": 4.6
       },
       "Pinnacle": {
-        "Macará": 9.58,
+        "Macará": 9.5,
         "Santos": 1.39,
         "Draw": 4.33
       },
@@ -218,19 +161,19 @@
     },
     "154087d9648994908d9fd4dcf6d28d37:h2h": {
       "Unibet (FR)": {
-        "Olimpia Asunción": 4.75,
-        "Vasco da Gama": 1.66,
-        "Draw": 3.35
+        "Olimpia Asunción": 4.8,
+        "Vasco da Gama": 1.68,
+        "Draw": 3.25
       },
       "Codere (IT)": {
-        "Olimpia Asunción": 4.8,
-        "Vasco da Gama": 1.76,
-        "Draw": 3.4
+        "Olimpia Asunción": 4.9,
+        "Vasco da Gama": 1.78,
+        "Draw": 3.3
       },
       "1xBet": {
-        "Olimpia Asunción": 5.48,
-        "Vasco da Gama": 1.84,
-        "Draw": 3.4
+        "Olimpia Asunción": 5.35,
+        "Vasco da Gama": 1.85,
+        "Draw": 3.41
       },
       "888sport": {
         "Olimpia Asunción": 4.8,
@@ -243,9 +186,9 @@
         "Draw": 3.1
       },
       "Pinnacle": {
-        "Olimpia Asunción": 5.35,
-        "Vasco da Gama": 1.76,
-        "Draw": 3.33
+        "Olimpia Asunción": 5.34,
+        "Vasco da Gama": 1.77,
+        "Draw": 3.31
       },
       "Coolbet": {
         "Olimpia Asunción": 5.15,
@@ -269,18 +212,94 @@
       },
       "Unibet (NL)": {
         "Olimpia Asunción": 4.8,
-        "Vasco da Gama": 1.76,
-        "Draw": 3.35
+        "Vasco da Gama": 1.77,
+        "Draw": 3.3
       },
       "Betfair": {
-        "Olimpia Asunción": 5.5,
-        "Vasco da Gama": 1.82,
-        "Draw": 3.55
+        "Olimpia Asunción": 5.7,
+        "Vasco da Gama": 1.85,
+        "Draw": 3.5
+      }
+    },
+    "c079af5ec4257d3b5961b22f78e6be4e:h2h": {
+      "Coolbet": {
+        "Philadelphia Union": 1.44,
+        "Santos Laguna": 6.5,
+        "Draw": 5.0
+      },
+      "Winamax (DE)": {
+        "Philadelphia Union": 1.41,
+        "Santos Laguna": 5.6,
+        "Draw": 4.8
+      },
+      "Nordic Bet": {
+        "Philadelphia Union": 1.43,
+        "Santos Laguna": 6.1,
+        "Draw": 4.7
+      },
+      "Betsson": {
+        "Philadelphia Union": 1.43,
+        "Santos Laguna": 6.1,
+        "Draw": 4.7
+      },
+      "Winamax (FR)": {
+        "Philadelphia Union": 1.39,
+        "Santos Laguna": 5.4,
+        "Draw": 4.7
+      },
+      "1xBet": {
+        "Philadelphia Union": 1.43,
+        "Santos Laguna": 6.13,
+        "Draw": 4.75
+      },
+      "888sport": {
+        "Philadelphia Union": 1.4,
+        "Santos Laguna": 5.0,
+        "Draw": 4.33
+      },
+      "William Hill": {
+        "Philadelphia Union": 1.4,
+        "Santos Laguna": 5.0,
+        "Draw": 4.33
+      },
+      "Unibet (SE)": {
+        "Philadelphia Union": 1.44,
+        "Santos Laguna": 5.8,
+        "Draw": 4.9
+      },
+      "Unibet (NL)": {
+        "Philadelphia Union": 1.44,
+        "Santos Laguna": 5.8,
+        "Draw": 4.9
+      },
+      "PMU (FR)": {
+        "Philadelphia Union": 1.44,
+        "Santos Laguna": 5.8,
+        "Draw": 4.9
+      },
+      "LeoVegas (SE)": {
+        "Philadelphia Union": 1.44,
+        "Santos Laguna": 5.8,
+        "Draw": 4.9
+      },
+      "Betfair": {
+        "Philadelphia Union": 1.49,
+        "Santos Laguna": 6.4,
+        "Draw": 5.2
+      },
+      "Pinnacle": {
+        "Philadelphia Union": 1.45,
+        "Santos Laguna": 6.12,
+        "Draw": 4.93
+      },
+      "BetOnline.ag": {
+        "Philadelphia Union": 1.45,
+        "Santos Laguna": 6.27,
+        "Draw": 4.92
       }
     }
   },
   "alerted": [
-    "d5331bc209a7e409ff54f6b38527ebc4:h2h",
     "e72550103b740fd8b9b9b900fa9c1d87:h2h"
   ],
   "pending_results": [
@@ -1167,12 +1186,6 @@
   ],
   "results_history": [],
   "value_alerted": [
-    "d5331bc209a7e409ff54f6b38527ebc4:h2h|Betfair|Al-Shabab",
-    "d5331bc209a7e409ff54f6b38527ebc4:h2h|Betfair|Draw",
-    "d5331bc209a7e409ff54f6b38527ebc4:h2h|LeoVegas (SE)|Al-Shabab",
-    "d5331bc209a7e409ff54f6b38527ebc4:h2h|PMU (FR)|Al-Shabab",
-    "d5331bc209a7e409ff54f6b38527ebc4:h2h|Unibet (NL)|Al-Shabab",
-    "d5331bc209a7e409ff54f6b38527ebc4:h2h|Unibet (SE)|Al-Shabab",
     "e72550103b740fd8b9b9b900fa9c1d87:h2h|1xBet|Macará",
     "e72550103b740fd8b9b9b900fa9c1d87:h2h|Betfair|Draw",
     "e72550103b740fd8b9b9b900fa9c1d87:h2h|Codere (IT)|Draw",
