@@ -1,218 +1,199 @@
 {
   "snapshots": {
-    "e34b46681715aec8120a4c2931ffbfd2:h2h": {
-      "Betsson": {
-        "Eintracht Braunschweig": 126.0,
-        "VfL Bochum": 1.0,
-        "Draw": 15.0
-      },
-      "Coolbet": {
-        "Eintracht Braunschweig": 125.0,
-        "VfL Bochum": 1.0,
-        "Draw": 15.0
+    "360ee44bae23de47e6ec048faa9094bd:h2h": {
+      "Unibet (SE)": {
+        "IK Oddevold": 29.0,
+        "Landskrona BoIS": 25.0,
+        "Draw": 1.02
       },
       "Nordic Bet": {
-        "Eintracht Braunschweig": 130.0,
-        "VfL Bochum": 1.01,
-        "Draw": 13.0
+        "IK Oddevold": 1.0,
+        "Landskrona BoIS": 1.0,
+        "Draw": 1.0
       },
-      "Suprabets": {
-        "Eintracht Braunschweig": 70.0,
-        "VfL Bochum": 1.1,
-        "Draw": 6.2
-      },
-      "Betclic (FR)": {
-        "Eintracht Braunschweig": 90.0,
-        "VfL Bochum": 1.03,
-        "Draw": 10.5
-      },
-      "Winamax (FR)": {
-        "Eintracht Braunschweig": 190.0,
-        "VfL Bochum": 1.04,
-        "Draw": 13.0
-      },
-      "Winamax (DE)": {
-        "Eintracht Braunschweig": 110.0,
-        "VfL Bochum": 1.04,
-        "Draw": 12.0
-      },
-      "Betfair": {
-        "Eintracht Braunschweig": 1000.0,
-        "VfL Bochum": 1.01,
-        "Draw": 36.0
-      },
-      "888sport": {
-        "Eintracht Braunschweig": 151.0,
-        "VfL Bochum": 1.03,
-        "Draw": 15.0
-      },
-      "Tipico": {
-        "Eintracht Braunschweig": 400.0,
-        "VfL Bochum": 1.01,
-        "Draw": 25.0
-      }
-    },
-    "db767d84cbf8edaf51db1bda3eecdee7:h2h": {
-      "Tipico": {
-        "FC St. Pauli": 20.0,
-        "Holstein Kiel": 25.0,
-        "Draw": 1.03
-      },
-      "Winamax (DE)": {
-        "FC St. Pauli": 14.0,
-        "Holstein Kiel": 15.0,
-        "Draw": 1.07
-      },
-      "Betsson": {
-        "FC St. Pauli": 11.5,
-        "Holstein Kiel": 12.5,
-        "Draw": 1.07
-      },
-      "Nordic Bet": {
-        "FC St. Pauli": 17.0,
-        "Holstein Kiel": 19.0,
-        "Draw": 1.04
-      },
-      "Coolbet": {
-        "FC St. Pauli": 20.0,
-        "Holstein Kiel": 20.0,
-        "Draw": 1.03
-      },
-      "Winamax (FR)": {
-        "FC St. Pauli": 17.0,
-        "Holstein Kiel": 19.0,
+      "Unibet (NL)": {
+        "IK Oddevold": 12.5,
+        "Landskrona BoIS": 10.0,
         "Draw": 1.06
       },
-      "Betclic (FR)": {
-        "FC St. Pauli": 12.75,
-        "Holstein Kiel": 14.0,
-        "Draw": 1.05
-      },
-      "Betfair": {
-        "FC St. Pauli": 65.0,
-        "Holstein Kiel": 200.0
-      },
-      "888sport": {
-        "FC St. Pauli": 11.0,
-        "Holstein Kiel": 12.0,
-        "Draw": 1.11
-      },
-      "Suprabets": {
-        "FC St. Pauli": 19.0,
-        "Holstein Kiel": 19.0
-      },
-      "Pinnacle": {
-        "FC St. Pauli": 1.22,
-        "Holstein Kiel": 28.6,
-        "Draw": 5.18
-      },
-      "PMU (FR)": {
-        "FC St. Pauli": 15.0,
-        "Holstein Kiel": 7.5,
-        "Draw": 1.01
-      },
       "LeoVegas (SE)": {
-        "FC St. Pauli": 9.0,
-        "Holstein Kiel": 26.0,
+        "IK Oddevold": 19.0,
+        "Landskrona BoIS": 16.0,
         "Draw": 1.01
       },
-      "Unibet (NL)": {
-        "FC St. Pauli": 10.0,
-        "Holstein Kiel": 41.0,
-        "Draw": 1.02
-      },
-      "Unibet (SE)": {
-        "FC St. Pauli": 16.0,
-        "Holstein Kiel": 61.0,
-        "Draw": 1.02
-      }
-    },
-    "30d809a9ee40898d4731b71cd72b34f6:h2h": {
-      "Betfair": {
-        "Arezzo": 11.5,
-        "Cagliari": 1.03,
-        "Draw": 17.5
-      },
-      "Winamax (DE)": {
-        "Arezzo": 1000.0,
-        "Cagliari": 1.01,
-        "Draw": 24.0
-      },
-      "Tipico": {
-        "Arezzo": 400.0,
-        "Cagliari": 1.01,
-        "Draw": 20.0
-      },
-      "888sport": {
-        "Arezzo": 151.0,
-        "Cagliari": 1.03,
-        "Draw": 15.0
-      }
-    },
-    "4de20270fb7575800dc6948043e9349d:h2h": {
-      "Betclic (FR)": {
-        "Al-Fayha": 27.0,
-        "Neom": 1.17,
-        "Draw": 4.35
+      "Betsson": {
+        "IK Oddevold": 21.0,
+        "Landskrona BoIS": 17.0,
+        "Draw": 1.03
       },
       "Pinnacle": {
-        "Al-Fayha": 19.18,
-        "Neom": 1.29,
-        "Draw": 4.06
+        "IK Oddevold": 5.99,
+        "Landskrona BoIS": 5.12,
+        "Draw": 1.4
+      },
+      "Betfair": {
+        "IK Oddevold": 1.01,
+        "Landskrona BoIS": 1.01
       },
       "888sport": {
-        "Al-Fayha": 23.0,
-        "Neom": 1.18,
-        "Draw": 4.5
-      },
-      "Unibet (NL)": {
-        "Al-Fayha": 34.0,
-        "Neom": 1.12,
-        "Draw": 5.2
-      },
-      "Winamax (DE)": {
-        "Al-Fayha": 34.0,
-        "Neom": 1.18,
-        "Draw": 4.7
-      },
-      "Unibet (SE)": {
-        "Al-Fayha": 35.0,
-        "Neom": 1.16,
-        "Draw": 5.5
+        "IK Oddevold": 8.5,
+        "Landskrona BoIS": 7.0,
+        "Draw": 1.18
       },
       "Tipico": {
-        "Al-Fayha": 30.0,
-        "Neom": 1.2,
-        "Draw": 4.3
+        "IK Oddevold": 30.0,
+        "Landskrona BoIS": 20.0,
+        "Draw": 1.01
+      },
+      "Coolbet": {
+        "IK Oddevold": 20.0,
+        "Landskrona BoIS": 16.0,
+        "Draw": 1.04
+      }
+    },
+    "758b0daefc6f97c8db3facf89737c183:h2h": {
+      "Betclic (FR)": {
+        "LASK": 1.0,
+        "Ried": 100.0,
+        "Draw": 40.0
+      },
+      "Betsson": {
+        "LASK": 1.0,
+        "Ried": 29.0,
+        "Draw": 17.0
+      },
+      "Nordic Bet": {
+        "LASK": 1.0,
+        "Ried": 29.0,
+        "Draw": 17.0
+      }
+    },
+    "d6684686e67db7f454cf250ed12f71cf:h2h": {
+      "Betclic (FR)": {
+        "Al-Ettifaq": 1.6,
+        "Al-Riyadh": 7.25,
+        "Draw": 2.8
+      },
+      "888sport": {
+        "Al-Ettifaq": 1.95,
+        "Al-Riyadh": 4.2,
+        "Draw": 2.5
+      },
+      "Unibet (NL)": {
+        "Al-Ettifaq": 2.12,
+        "Al-Riyadh": 3.5,
+        "Draw": 2.7
+      },
+      "Winamax (DE)": {
+        "Al-Ettifaq": 1.66,
+        "Al-Riyadh": 7.0,
+        "Draw": 2.75
+      },
+      "Unibet (SE)": {
+        "Al-Ettifaq": 2.2,
+        "Al-Riyadh": 3.65,
+        "Draw": 2.8
+      },
+      "Tipico": {
+        "Al-Ettifaq": 1.65,
+        "Al-Riyadh": 7.5,
+        "Draw": 2.8
       },
       "Winamax (FR)": {
-        "Al-Fayha": 34.0,
-        "Neom": 1.18,
-        "Draw": 4.4
+        "Al-Ettifaq": 1.6,
+        "Al-Riyadh": 6.5,
+        "Draw": 2.65
       },
       "LeoVegas (SE)": {
-        "Al-Fayha": 34.0,
-        "Neom": 1.11,
-        "Draw": 5.25
+        "Al-Ettifaq": 2.07,
+        "Al-Riyadh": 3.45,
+        "Draw": 2.63
       },
       "PMU (FR)": {
-        "Al-Fayha": 31.0,
-        "Neom": 1.04,
-        "Draw": 4.9
+        "Al-Ettifaq": 1.97,
+        "Al-Riyadh": 3.3,
+        "Draw": 2.5
       },
       "Betfair": {
-        "Al-Fayha": 27.0,
-        "Neom": 1.29,
-        "Draw": 4.7
+        "Al-Ettifaq": 1.65,
+        "Al-Riyadh": 8.4,
+        "Draw": 3.3
+      }
+    },
+    "37aab8d06d1d78e667f1dd74a2ca5ef2:h2h": {
+      "Coolbet": {
+        "SC Telstar": 8.0,
+        "Sparta Rotterdam": 1.5,
+        "Draw": 4.0
+      },
+      "Betclic (FR)": {
+        "SC Telstar": 25.0,
+        "Sparta Rotterdam": 1.08,
+        "Draw": 8.5
+      },
+      "Betfair": {
+        "SC Telstar": 19.0,
+        "Sparta Rotterdam": 1.15,
+        "Draw": 7.6
+      },
+      "Winamax (FR)": {
+        "SC Telstar": 30.0,
+        "Sparta Rotterdam": 1.1,
+        "Draw": 8.0
+      },
+      "Winamax (DE)": {
+        "SC Telstar": 30.0,
+        "Sparta Rotterdam": 1.07,
+        "Draw": 8.5
+      },
+      "Pinnacle": {
+        "SC Telstar": 6.8,
+        "Sparta Rotterdam": 1.54,
+        "Draw": 3.78
+      },
+      "888sport": {
+        "SC Telstar": 6.5,
+        "Sparta Rotterdam": 1.44,
+        "Draw": 3.6
+      },
+      "Nordic Bet": {
+        "SC Telstar": 7.2,
+        "Sparta Rotterdam": 1.44,
+        "Draw": 3.65
+      },
+      "Betsson": {
+        "SC Telstar": 7.2,
+        "Sparta Rotterdam": 1.44,
+        "Draw": 3.65
+      },
+      "Tipico": {
+        "SC Telstar": 20.0,
+        "Sparta Rotterdam": 1.1,
+        "Draw": 8.5
+      },
+      "LeoVegas (SE)": {
+        "SC Telstar": 21.0,
+        "Sparta Rotterdam": 1.06,
+        "Draw": 8.0
+      },
+      "PMU (FR)": {
+        "SC Telstar": 20.0,
+        "Sparta Rotterdam": 1.02,
+        "Draw": 7.5
+      },
+      "Unibet (SE)": {
+        "SC Telstar": 21.0,
+        "Sparta Rotterdam": 1.1,
+        "Draw": 8.5
+      },
+      "Unibet (NL)": {
+        "SC Telstar": 21.0,
+        "Sparta Rotterdam": 1.1,
+        "Draw": 8.5
       }
     }
   },
-  "alerted": [
-    "30d809a9ee40898d4731b71cd72b34f6:h2h",
-    "4de20270fb7575800dc6948043e9349d:h2h",
-    "db767d84cbf8edaf51db1bda3eecdee7:h2h",
-    "e34b46681715aec8120a4c2931ffbfd2:h2h"
-  ],
+  "alerted": [],
   "pending_results": [
     {
       "state_key": "398d07703c866bb0315c56cd1ce6e035:h2h",
@@ -3061,92 +3042,570 @@
       "confidence": 8,
       "alert_type": "value",
       "alerted_at": "2026-08-14T18:33:25.386638+00:00"
+    },
+    {
+      "state_key": "360ee44bae23de47e6ec048faa9094bd:h2h",
+      "event_id": "360ee44bae23de47e6ec048faa9094bd",
+      "sport_key": "soccer",
+      "competition": "Superettan - Sweden",
+      "home_team": "Landskrona BoIS",
+      "away_team": "IK Oddevold",
+      "commence_time": "2026-08-14T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "IK Oddevold",
+      "odds_at_alert": 29.0,
+      "stake_pct": 5.0,
+      "confidence": 350,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T19:13:21.931452+00:00"
+    },
+    {
+      "state_key": "360ee44bae23de47e6ec048faa9094bd:h2h",
+      "event_id": "360ee44bae23de47e6ec048faa9094bd",
+      "sport_key": "soccer",
+      "competition": "Superettan - Sweden",
+      "home_team": "Landskrona BoIS",
+      "away_team": "IK Oddevold",
+      "commence_time": "2026-08-14T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Landskrona BoIS",
+      "odds_at_alert": 25.0,
+      "stake_pct": 5.0,
+      "confidence": 354,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T19:13:22.448656+00:00"
+    },
+    {
+      "state_key": "360ee44bae23de47e6ec048faa9094bd:h2h",
+      "event_id": "360ee44bae23de47e6ec048faa9094bd",
+      "sport_key": "soccer",
+      "competition": "Superettan - Sweden",
+      "home_team": "Landskrona BoIS",
+      "away_team": "IK Oddevold",
+      "commence_time": "2026-08-14T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "IK Oddevold",
+      "odds_at_alert": 12.5,
+      "stake_pct": 5.0,
+      "confidence": 94,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T19:13:22.983125+00:00"
+    },
+    {
+      "state_key": "360ee44bae23de47e6ec048faa9094bd:h2h",
+      "event_id": "360ee44bae23de47e6ec048faa9094bd",
+      "sport_key": "soccer",
+      "competition": "Superettan - Sweden",
+      "home_team": "Landskrona BoIS",
+      "away_team": "IK Oddevold",
+      "commence_time": "2026-08-14T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Landskrona BoIS",
+      "odds_at_alert": 10.0,
+      "stake_pct": 5.0,
+      "confidence": 81,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T19:13:23.494396+00:00"
+    },
+    {
+      "state_key": "360ee44bae23de47e6ec048faa9094bd:h2h",
+      "event_id": "360ee44bae23de47e6ec048faa9094bd",
+      "sport_key": "soccer",
+      "competition": "Superettan - Sweden",
+      "home_team": "Landskrona BoIS",
+      "away_team": "IK Oddevold",
+      "commence_time": "2026-08-14T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "IK Oddevold",
+      "odds_at_alert": 19.0,
+      "stake_pct": 5.0,
+      "confidence": 195,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T19:13:23.986838+00:00"
+    },
+    {
+      "state_key": "360ee44bae23de47e6ec048faa9094bd:h2h",
+      "event_id": "360ee44bae23de47e6ec048faa9094bd",
+      "sport_key": "soccer",
+      "competition": "Superettan - Sweden",
+      "home_team": "Landskrona BoIS",
+      "away_team": "IK Oddevold",
+      "commence_time": "2026-08-14T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Landskrona BoIS",
+      "odds_at_alert": 16.0,
+      "stake_pct": 5.0,
+      "confidence": 190,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T19:13:24.496032+00:00"
+    },
+    {
+      "state_key": "360ee44bae23de47e6ec048faa9094bd:h2h",
+      "event_id": "360ee44bae23de47e6ec048faa9094bd",
+      "sport_key": "soccer",
+      "competition": "Superettan - Sweden",
+      "home_team": "Landskrona BoIS",
+      "away_team": "IK Oddevold",
+      "commence_time": "2026-08-14T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "IK Oddevold",
+      "odds_at_alert": 21.0,
+      "stake_pct": 5.0,
+      "confidence": 226,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T19:13:25.001549+00:00"
+    },
+    {
+      "state_key": "360ee44bae23de47e6ec048faa9094bd:h2h",
+      "event_id": "360ee44bae23de47e6ec048faa9094bd",
+      "sport_key": "soccer",
+      "competition": "Superettan - Sweden",
+      "home_team": "Landskrona BoIS",
+      "away_team": "IK Oddevold",
+      "commence_time": "2026-08-14T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Landskrona BoIS",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 208,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T19:13:25.537798+00:00"
+    },
+    {
+      "state_key": "360ee44bae23de47e6ec048faa9094bd:h2h",
+      "event_id": "360ee44bae23de47e6ec048faa9094bd",
+      "sport_key": "soccer",
+      "competition": "Superettan - Sweden",
+      "home_team": "Landskrona BoIS",
+      "away_team": "IK Oddevold",
+      "commence_time": "2026-08-14T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "IK Oddevold",
+      "odds_at_alert": 8.5,
+      "stake_pct": 5.0,
+      "confidence": 32,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T19:13:26.063930+00:00"
+    },
+    {
+      "state_key": "360ee44bae23de47e6ec048faa9094bd:h2h",
+      "event_id": "360ee44bae23de47e6ec048faa9094bd",
+      "sport_key": "soccer",
+      "competition": "Superettan - Sweden",
+      "home_team": "Landskrona BoIS",
+      "away_team": "IK Oddevold",
+      "commence_time": "2026-08-14T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Landskrona BoIS",
+      "odds_at_alert": 7.0,
+      "stake_pct": 5.0,
+      "confidence": 27,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T19:13:26.559221+00:00"
+    },
+    {
+      "state_key": "360ee44bae23de47e6ec048faa9094bd:h2h",
+      "event_id": "360ee44bae23de47e6ec048faa9094bd",
+      "sport_key": "soccer",
+      "competition": "Superettan - Sweden",
+      "home_team": "Landskrona BoIS",
+      "away_team": "IK Oddevold",
+      "commence_time": "2026-08-14T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "IK Oddevold",
+      "odds_at_alert": 30.0,
+      "stake_pct": 5.0,
+      "confidence": 365,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T19:13:27.103307+00:00"
+    },
+    {
+      "state_key": "360ee44bae23de47e6ec048faa9094bd:h2h",
+      "event_id": "360ee44bae23de47e6ec048faa9094bd",
+      "sport_key": "soccer",
+      "competition": "Superettan - Sweden",
+      "home_team": "Landskrona BoIS",
+      "away_team": "IK Oddevold",
+      "commence_time": "2026-08-14T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Landskrona BoIS",
+      "odds_at_alert": 20.0,
+      "stake_pct": 5.0,
+      "confidence": 263,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T19:13:27.619413+00:00"
+    },
+    {
+      "state_key": "360ee44bae23de47e6ec048faa9094bd:h2h",
+      "event_id": "360ee44bae23de47e6ec048faa9094bd",
+      "sport_key": "soccer",
+      "competition": "Superettan - Sweden",
+      "home_team": "Landskrona BoIS",
+      "away_team": "IK Oddevold",
+      "commence_time": "2026-08-14T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "IK Oddevold",
+      "odds_at_alert": 20.0,
+      "stake_pct": 5.0,
+      "confidence": 210,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T19:13:28.122886+00:00"
+    },
+    {
+      "state_key": "360ee44bae23de47e6ec048faa9094bd:h2h",
+      "event_id": "360ee44bae23de47e6ec048faa9094bd",
+      "sport_key": "soccer",
+      "competition": "Superettan - Sweden",
+      "home_team": "Landskrona BoIS",
+      "away_team": "IK Oddevold",
+      "commence_time": "2026-08-14T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Landskrona BoIS",
+      "odds_at_alert": 16.0,
+      "stake_pct": 5.0,
+      "confidence": 190,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T19:13:28.651647+00:00"
+    },
+    {
+      "state_key": "37aab8d06d1d78e667f1dd74a2ca5ef2:h2h",
+      "event_id": "37aab8d06d1d78e667f1dd74a2ca5ef2",
+      "sport_key": "soccer",
+      "competition": "Dutch Eredivisie",
+      "home_team": "SC Telstar",
+      "away_team": "Sparta Rotterdam",
+      "commence_time": "2026-08-14T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "SC Telstar",
+      "odds_at_alert": 8.0,
+      "stake_pct": 3.0,
+      "confidence": 11,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T19:13:29.174002+00:00"
+    },
+    {
+      "state_key": "37aab8d06d1d78e667f1dd74a2ca5ef2:h2h",
+      "event_id": "37aab8d06d1d78e667f1dd74a2ca5ef2",
+      "sport_key": "soccer",
+      "competition": "Dutch Eredivisie",
+      "home_team": "SC Telstar",
+      "away_team": "Sparta Rotterdam",
+      "commence_time": "2026-08-14T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "SC Telstar",
+      "odds_at_alert": 25.0,
+      "stake_pct": 5.0,
+      "confidence": 247,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T19:13:29.698162+00:00"
+    },
+    {
+      "state_key": "37aab8d06d1d78e667f1dd74a2ca5ef2:h2h",
+      "event_id": "37aab8d06d1d78e667f1dd74a2ca5ef2",
+      "sport_key": "soccer",
+      "competition": "Dutch Eredivisie",
+      "home_team": "SC Telstar",
+      "away_team": "Sparta Rotterdam",
+      "commence_time": "2026-08-14T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 8.5,
+      "stake_pct": 5.0,
+      "confidence": 112,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T19:13:30.267623+00:00"
+    },
+    {
+      "state_key": "37aab8d06d1d78e667f1dd74a2ca5ef2:h2h",
+      "event_id": "37aab8d06d1d78e667f1dd74a2ca5ef2",
+      "sport_key": "soccer",
+      "competition": "Dutch Eredivisie",
+      "home_team": "SC Telstar",
+      "away_team": "Sparta Rotterdam",
+      "commence_time": "2026-08-14T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "SC Telstar",
+      "odds_at_alert": 19.0,
+      "stake_pct": 5.0,
+      "confidence": 163,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T19:13:30.777951+00:00"
+    },
+    {
+      "state_key": "37aab8d06d1d78e667f1dd74a2ca5ef2:h2h",
+      "event_id": "37aab8d06d1d78e667f1dd74a2ca5ef2",
+      "sport_key": "soccer",
+      "competition": "Dutch Eredivisie",
+      "home_team": "SC Telstar",
+      "away_team": "Sparta Rotterdam",
+      "commence_time": "2026-08-14T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 7.6,
+      "stake_pct": 5.0,
+      "confidence": 90,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T19:13:31.272571+00:00"
+    },
+    {
+      "state_key": "37aab8d06d1d78e667f1dd74a2ca5ef2:h2h",
+      "event_id": "37aab8d06d1d78e667f1dd74a2ca5ef2",
+      "sport_key": "soccer",
+      "competition": "Dutch Eredivisie",
+      "home_team": "SC Telstar",
+      "away_team": "Sparta Rotterdam",
+      "commence_time": "2026-08-14T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "SC Telstar",
+      "odds_at_alert": 30.0,
+      "stake_pct": 5.0,
+      "confidence": 316,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T19:13:31.775630+00:00"
+    },
+    {
+      "state_key": "37aab8d06d1d78e667f1dd74a2ca5ef2:h2h",
+      "event_id": "37aab8d06d1d78e667f1dd74a2ca5ef2",
+      "sport_key": "soccer",
+      "competition": "Dutch Eredivisie",
+      "home_team": "SC Telstar",
+      "away_team": "Sparta Rotterdam",
+      "commence_time": "2026-08-14T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 8.0,
+      "stake_pct": 5.0,
+      "confidence": 99,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T19:13:32.269649+00:00"
+    },
+    {
+      "state_key": "37aab8d06d1d78e667f1dd74a2ca5ef2:h2h",
+      "event_id": "37aab8d06d1d78e667f1dd74a2ca5ef2",
+      "sport_key": "soccer",
+      "competition": "Dutch Eredivisie",
+      "home_team": "SC Telstar",
+      "away_team": "Sparta Rotterdam",
+      "commence_time": "2026-08-14T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "SC Telstar",
+      "odds_at_alert": 30.0,
+      "stake_pct": 5.0,
+      "confidence": 316,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T19:13:32.789309+00:00"
+    },
+    {
+      "state_key": "37aab8d06d1d78e667f1dd74a2ca5ef2:h2h",
+      "event_id": "37aab8d06d1d78e667f1dd74a2ca5ef2",
+      "sport_key": "soccer",
+      "competition": "Dutch Eredivisie",
+      "home_team": "SC Telstar",
+      "away_team": "Sparta Rotterdam",
+      "commence_time": "2026-08-14T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 8.5,
+      "stake_pct": 5.0,
+      "confidence": 112,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T19:13:33.295961+00:00"
+    },
+    {
+      "state_key": "37aab8d06d1d78e667f1dd74a2ca5ef2:h2h",
+      "event_id": "37aab8d06d1d78e667f1dd74a2ca5ef2",
+      "sport_key": "soccer",
+      "competition": "Dutch Eredivisie",
+      "home_team": "SC Telstar",
+      "away_team": "Sparta Rotterdam",
+      "commence_time": "2026-08-14T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "SC Telstar",
+      "odds_at_alert": 20.0,
+      "stake_pct": 5.0,
+      "confidence": 177,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T19:13:33.832794+00:00"
+    },
+    {
+      "state_key": "37aab8d06d1d78e667f1dd74a2ca5ef2:h2h",
+      "event_id": "37aab8d06d1d78e667f1dd74a2ca5ef2",
+      "sport_key": "soccer",
+      "competition": "Dutch Eredivisie",
+      "home_team": "SC Telstar",
+      "away_team": "Sparta Rotterdam",
+      "commence_time": "2026-08-14T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 8.5,
+      "stake_pct": 5.0,
+      "confidence": 112,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T19:13:34.349922+00:00"
+    },
+    {
+      "state_key": "37aab8d06d1d78e667f1dd74a2ca5ef2:h2h",
+      "event_id": "37aab8d06d1d78e667f1dd74a2ca5ef2",
+      "sport_key": "soccer",
+      "competition": "Dutch Eredivisie",
+      "home_team": "SC Telstar",
+      "away_team": "Sparta Rotterdam",
+      "commence_time": "2026-08-14T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "SC Telstar",
+      "odds_at_alert": 21.0,
+      "stake_pct": 5.0,
+      "confidence": 191,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T19:13:34.907310+00:00"
+    },
+    {
+      "state_key": "37aab8d06d1d78e667f1dd74a2ca5ef2:h2h",
+      "event_id": "37aab8d06d1d78e667f1dd74a2ca5ef2",
+      "sport_key": "soccer",
+      "competition": "Dutch Eredivisie",
+      "home_team": "SC Telstar",
+      "away_team": "Sparta Rotterdam",
+      "commence_time": "2026-08-14T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 8.0,
+      "stake_pct": 5.0,
+      "confidence": 99,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T19:13:35.430186+00:00"
+    },
+    {
+      "state_key": "37aab8d06d1d78e667f1dd74a2ca5ef2:h2h",
+      "event_id": "37aab8d06d1d78e667f1dd74a2ca5ef2",
+      "sport_key": "soccer",
+      "competition": "Dutch Eredivisie",
+      "home_team": "SC Telstar",
+      "away_team": "Sparta Rotterdam",
+      "commence_time": "2026-08-14T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "SC Telstar",
+      "odds_at_alert": 20.0,
+      "stake_pct": 5.0,
+      "confidence": 177,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T19:13:35.979651+00:00"
+    },
+    {
+      "state_key": "37aab8d06d1d78e667f1dd74a2ca5ef2:h2h",
+      "event_id": "37aab8d06d1d78e667f1dd74a2ca5ef2",
+      "sport_key": "soccer",
+      "competition": "Dutch Eredivisie",
+      "home_team": "SC Telstar",
+      "away_team": "Sparta Rotterdam",
+      "commence_time": "2026-08-14T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 7.5,
+      "stake_pct": 5.0,
+      "confidence": 87,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T19:13:36.503082+00:00"
+    },
+    {
+      "state_key": "37aab8d06d1d78e667f1dd74a2ca5ef2:h2h",
+      "event_id": "37aab8d06d1d78e667f1dd74a2ca5ef2",
+      "sport_key": "soccer",
+      "competition": "Dutch Eredivisie",
+      "home_team": "SC Telstar",
+      "away_team": "Sparta Rotterdam",
+      "commence_time": "2026-08-14T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "SC Telstar",
+      "odds_at_alert": 21.0,
+      "stake_pct": 5.0,
+      "confidence": 191,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T19:13:37.034825+00:00"
+    },
+    {
+      "state_key": "37aab8d06d1d78e667f1dd74a2ca5ef2:h2h",
+      "event_id": "37aab8d06d1d78e667f1dd74a2ca5ef2",
+      "sport_key": "soccer",
+      "competition": "Dutch Eredivisie",
+      "home_team": "SC Telstar",
+      "away_team": "Sparta Rotterdam",
+      "commence_time": "2026-08-14T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 8.5,
+      "stake_pct": 5.0,
+      "confidence": 112,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T19:13:37.559071+00:00"
+    },
+    {
+      "state_key": "37aab8d06d1d78e667f1dd74a2ca5ef2:h2h",
+      "event_id": "37aab8d06d1d78e667f1dd74a2ca5ef2",
+      "sport_key": "soccer",
+      "competition": "Dutch Eredivisie",
+      "home_team": "SC Telstar",
+      "away_team": "Sparta Rotterdam",
+      "commence_time": "2026-08-14T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "SC Telstar",
+      "odds_at_alert": 21.0,
+      "stake_pct": 5.0,
+      "confidence": 191,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T19:13:38.090852+00:00"
+    },
+    {
+      "state_key": "37aab8d06d1d78e667f1dd74a2ca5ef2:h2h",
+      "event_id": "37aab8d06d1d78e667f1dd74a2ca5ef2",
+      "sport_key": "soccer",
+      "competition": "Dutch Eredivisie",
+      "home_team": "SC Telstar",
+      "away_team": "Sparta Rotterdam",
+      "commence_time": "2026-08-14T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 8.5,
+      "stake_pct": 5.0,
+      "confidence": 112,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T19:13:38.572330+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "30d809a9ee40898d4731b71cd72b34f6:h2h|Betfair|Arezzo",
-    "4de20270fb7575800dc6948043e9349d:h2h|888sport|Al-Fayha",
-    "4de20270fb7575800dc6948043e9349d:h2h|Betclic (FR)|Al-Fayha",
-    "4de20270fb7575800dc6948043e9349d:h2h|Betfair|Al-Fayha",
-    "4de20270fb7575800dc6948043e9349d:h2h|Betfair|Draw",
-    "4de20270fb7575800dc6948043e9349d:h2h|LeoVegas (SE)|Al-Fayha",
-    "4de20270fb7575800dc6948043e9349d:h2h|LeoVegas (SE)|Draw",
-    "4de20270fb7575800dc6948043e9349d:h2h|PMU (FR)|Al-Fayha",
-    "4de20270fb7575800dc6948043e9349d:h2h|PMU (FR)|Draw",
-    "4de20270fb7575800dc6948043e9349d:h2h|Tipico|Al-Fayha",
-    "4de20270fb7575800dc6948043e9349d:h2h|Unibet (NL)|Al-Fayha",
-    "4de20270fb7575800dc6948043e9349d:h2h|Unibet (NL)|Draw",
-    "4de20270fb7575800dc6948043e9349d:h2h|Unibet (SE)|Al-Fayha",
-    "4de20270fb7575800dc6948043e9349d:h2h|Unibet (SE)|Draw",
-    "4de20270fb7575800dc6948043e9349d:h2h|Winamax (DE)|Al-Fayha",
-    "4de20270fb7575800dc6948043e9349d:h2h|Winamax (DE)|Draw",
-    "4de20270fb7575800dc6948043e9349d:h2h|Winamax (FR)|Al-Fayha",
-    "db767d84cbf8edaf51db1bda3eecdee7:h2h|888sport|Draw",
-    "db767d84cbf8edaf51db1bda3eecdee7:h2h|888sport|FC St. Pauli",
-    "db767d84cbf8edaf51db1bda3eecdee7:h2h|888sport|Holstein Kiel",
-    "db767d84cbf8edaf51db1bda3eecdee7:h2h|Betclic (FR)|FC St. Pauli",
-    "db767d84cbf8edaf51db1bda3eecdee7:h2h|Betclic (FR)|Holstein Kiel",
-    "db767d84cbf8edaf51db1bda3eecdee7:h2h|Betfair|Draw",
-    "db767d84cbf8edaf51db1bda3eecdee7:h2h|Betfair|FC St. Pauli",
-    "db767d84cbf8edaf51db1bda3eecdee7:h2h|Betfair|Holstein Kiel",
-    "db767d84cbf8edaf51db1bda3eecdee7:h2h|Betsson|Draw",
-    "db767d84cbf8edaf51db1bda3eecdee7:h2h|Betsson|FC St. Pauli",
-    "db767d84cbf8edaf51db1bda3eecdee7:h2h|Betsson|Holstein Kiel",
-    "db767d84cbf8edaf51db1bda3eecdee7:h2h|Coolbet|Draw",
-    "db767d84cbf8edaf51db1bda3eecdee7:h2h|Coolbet|FC St. Pauli",
-    "db767d84cbf8edaf51db1bda3eecdee7:h2h|Coolbet|Holstein Kiel",
-    "db767d84cbf8edaf51db1bda3eecdee7:h2h|LeoVegas (SE)|FC St. Pauli",
-    "db767d84cbf8edaf51db1bda3eecdee7:h2h|LeoVegas (SE)|Holstein Kiel",
-    "db767d84cbf8edaf51db1bda3eecdee7:h2h|Matchbook|Draw",
-    "db767d84cbf8edaf51db1bda3eecdee7:h2h|Matchbook|FC St. Pauli",
-    "db767d84cbf8edaf51db1bda3eecdee7:h2h|Matchbook|Holstein Kiel",
-    "db767d84cbf8edaf51db1bda3eecdee7:h2h|Nordic Bet|FC St. Pauli",
-    "db767d84cbf8edaf51db1bda3eecdee7:h2h|Nordic Bet|Holstein Kiel",
-    "db767d84cbf8edaf51db1bda3eecdee7:h2h|PMU (FR)|FC St. Pauli",
-    "db767d84cbf8edaf51db1bda3eecdee7:h2h|PMU (FR)|Holstein Kiel",
-    "db767d84cbf8edaf51db1bda3eecdee7:h2h|Suprabets|FC St. Pauli",
-    "db767d84cbf8edaf51db1bda3eecdee7:h2h|Suprabets|Holstein Kiel",
-    "db767d84cbf8edaf51db1bda3eecdee7:h2h|Tipico|Draw",
-    "db767d84cbf8edaf51db1bda3eecdee7:h2h|Tipico|FC St. Pauli",
-    "db767d84cbf8edaf51db1bda3eecdee7:h2h|Tipico|Holstein Kiel",
-    "db767d84cbf8edaf51db1bda3eecdee7:h2h|Unibet (NL)|FC St. Pauli",
-    "db767d84cbf8edaf51db1bda3eecdee7:h2h|Unibet (NL)|Holstein Kiel",
-    "db767d84cbf8edaf51db1bda3eecdee7:h2h|Unibet (SE)|FC St. Pauli",
-    "db767d84cbf8edaf51db1bda3eecdee7:h2h|Unibet (SE)|Holstein Kiel",
-    "db767d84cbf8edaf51db1bda3eecdee7:h2h|Winamax (DE)|Draw",
-    "db767d84cbf8edaf51db1bda3eecdee7:h2h|Winamax (DE)|FC St. Pauli",
-    "db767d84cbf8edaf51db1bda3eecdee7:h2h|Winamax (DE)|Holstein Kiel",
-    "db767d84cbf8edaf51db1bda3eecdee7:h2h|Winamax (FR)|FC St. Pauli",
-    "db767d84cbf8edaf51db1bda3eecdee7:h2h|Winamax (FR)|Holstein Kiel",
-    "e34b46681715aec8120a4c2931ffbfd2:h2h|888sport|Draw",
-    "e34b46681715aec8120a4c2931ffbfd2:h2h|888sport|Eintracht Braunschweig",
-    "e34b46681715aec8120a4c2931ffbfd2:h2h|Betclic (FR)|Eintracht Braunschweig",
-    "e34b46681715aec8120a4c2931ffbfd2:h2h|Betfair|Draw",
-    "e34b46681715aec8120a4c2931ffbfd2:h2h|Betfair|Eintracht Braunschweig",
-    "e34b46681715aec8120a4c2931ffbfd2:h2h|Betfair|VfL Bochum",
-    "e34b46681715aec8120a4c2931ffbfd2:h2h|Betsson|Draw",
-    "e34b46681715aec8120a4c2931ffbfd2:h2h|Betsson|Eintracht Braunschweig",
-    "e34b46681715aec8120a4c2931ffbfd2:h2h|Coolbet|Draw",
-    "e34b46681715aec8120a4c2931ffbfd2:h2h|Coolbet|Eintracht Braunschweig",
-    "e34b46681715aec8120a4c2931ffbfd2:h2h|LeoVegas (SE)|Draw",
-    "e34b46681715aec8120a4c2931ffbfd2:h2h|LeoVegas (SE)|Eintracht Braunschweig",
-    "e34b46681715aec8120a4c2931ffbfd2:h2h|Matchbook|Draw",
-    "e34b46681715aec8120a4c2931ffbfd2:h2h|Matchbook|Eintracht Braunschweig",
-    "e34b46681715aec8120a4c2931ffbfd2:h2h|Matchbook|VfL Bochum",
-    "e34b46681715aec8120a4c2931ffbfd2:h2h|Nordic Bet|Eintracht Braunschweig",
-    "e34b46681715aec8120a4c2931ffbfd2:h2h|PMU (FR)|Draw",
-    "e34b46681715aec8120a4c2931ffbfd2:h2h|PMU (FR)|Eintracht Braunschweig",
-    "e34b46681715aec8120a4c2931ffbfd2:h2h|Suprabets|Eintracht Braunschweig",
-    "e34b46681715aec8120a4c2931ffbfd2:h2h|Tipico|Eintracht Braunschweig",
-    "e34b46681715aec8120a4c2931ffbfd2:h2h|Unibet (NL)|Draw",
-    "e34b46681715aec8120a4c2931ffbfd2:h2h|Unibet (NL)|Eintracht Braunschweig",
-    "e34b46681715aec8120a4c2931ffbfd2:h2h|Unibet (NL)|VfL Bochum",
-    "e34b46681715aec8120a4c2931ffbfd2:h2h|Unibet (SE)|Draw",
-    "e34b46681715aec8120a4c2931ffbfd2:h2h|Unibet (SE)|Eintracht Braunschweig",
-    "e34b46681715aec8120a4c2931ffbfd2:h2h|Unibet (SE)|VfL Bochum",
-    "e34b46681715aec8120a4c2931ffbfd2:h2h|Winamax (DE)|Draw",
-    "e34b46681715aec8120a4c2931ffbfd2:h2h|Winamax (DE)|Eintracht Braunschweig",
-    "e34b46681715aec8120a4c2931ffbfd2:h2h|Winamax (FR)|Eintracht Braunschweig"
+    "360ee44bae23de47e6ec048faa9094bd:h2h|888sport|IK Oddevold",
+    "360ee44bae23de47e6ec048faa9094bd:h2h|888sport|Landskrona BoIS",
+    "360ee44bae23de47e6ec048faa9094bd:h2h|Betsson|IK Oddevold",
+    "360ee44bae23de47e6ec048faa9094bd:h2h|Betsson|Landskrona BoIS",
+    "360ee44bae23de47e6ec048faa9094bd:h2h|Coolbet|IK Oddevold",
+    "360ee44bae23de47e6ec048faa9094bd:h2h|Coolbet|Landskrona BoIS",
+    "360ee44bae23de47e6ec048faa9094bd:h2h|LeoVegas (SE)|IK Oddevold",
+    "360ee44bae23de47e6ec048faa9094bd:h2h|LeoVegas (SE)|Landskrona BoIS",
+    "360ee44bae23de47e6ec048faa9094bd:h2h|Tipico|IK Oddevold",
+    "360ee44bae23de47e6ec048faa9094bd:h2h|Tipico|Landskrona BoIS",
+    "360ee44bae23de47e6ec048faa9094bd:h2h|Unibet (NL)|IK Oddevold",
+    "360ee44bae23de47e6ec048faa9094bd:h2h|Unibet (NL)|Landskrona BoIS",
+    "360ee44bae23de47e6ec048faa9094bd:h2h|Unibet (SE)|IK Oddevold",
+    "360ee44bae23de47e6ec048faa9094bd:h2h|Unibet (SE)|Landskrona BoIS",
+    "37aab8d06d1d78e667f1dd74a2ca5ef2:h2h|Betclic (FR)|Draw",
+    "37aab8d06d1d78e667f1dd74a2ca5ef2:h2h|Betclic (FR)|SC Telstar",
+    "37aab8d06d1d78e667f1dd74a2ca5ef2:h2h|Betfair|Draw",
+    "37aab8d06d1d78e667f1dd74a2ca5ef2:h2h|Betfair|SC Telstar",
+    "37aab8d06d1d78e667f1dd74a2ca5ef2:h2h|Coolbet|SC Telstar",
+    "37aab8d06d1d78e667f1dd74a2ca5ef2:h2h|LeoVegas (SE)|Draw",
+    "37aab8d06d1d78e667f1dd74a2ca5ef2:h2h|LeoVegas (SE)|SC Telstar",
+    "37aab8d06d1d78e667f1dd74a2ca5ef2:h2h|PMU (FR)|Draw",
+    "37aab8d06d1d78e667f1dd74a2ca5ef2:h2h|PMU (FR)|SC Telstar",
+    "37aab8d06d1d78e667f1dd74a2ca5ef2:h2h|Tipico|Draw",
+    "37aab8d06d1d78e667f1dd74a2ca5ef2:h2h|Tipico|SC Telstar",
+    "37aab8d06d1d78e667f1dd74a2ca5ef2:h2h|Unibet (NL)|Draw",
+    "37aab8d06d1d78e667f1dd74a2ca5ef2:h2h|Unibet (NL)|SC Telstar",
+    "37aab8d06d1d78e667f1dd74a2ca5ef2:h2h|Unibet (SE)|Draw",
+    "37aab8d06d1d78e667f1dd74a2ca5ef2:h2h|Unibet (SE)|SC Telstar",
+    "37aab8d06d1d78e667f1dd74a2ca5ef2:h2h|Winamax (DE)|Draw",
+    "37aab8d06d1d78e667f1dd74a2ca5ef2:h2h|Winamax (DE)|SC Telstar",
+    "37aab8d06d1d78e667f1dd74a2ca5ef2:h2h|Winamax (FR)|Draw",
+    "37aab8d06d1d78e667f1dd74a2ca5ef2:h2h|Winamax (FR)|SC Telstar"
   ]
 }
