@@ -1,145 +1,189 @@
 {
   "snapshots": {
-    "9b2eb6f40c4bf684651dd6bc6234389a:h2h": {
-      "Winamax (FR)": {
-        "CD Castellón": 1.02,
-        "Real Sociedad B": 900.0,
-        "Draw": 24.0
-      },
-      "Winamax (DE)": {
-        "CD Castellón": 1.01,
-        "Real Sociedad B": 900.0,
-        "Draw": 24.0
+    "3b2084eb6f80e2cd731d5b1fd0491cf4:h2h": {
+      "Coolbet": {
+        "Sporting Lisbon": 1.01,
+        "Vitória SC": 150.0,
+        "Draw": 13.0
       },
       "Betclic (FR)": {
-        "CD Castellón": 1.0,
-        "Real Sociedad B": 100.0,
-        "Draw": 22.0
+        "Sporting Lisbon": 1.01,
+        "Vitória SC": 100.0,
+        "Draw": 14.25
       },
       "Betfair": {
-        "CD Castellón": 1.01,
-        "Real Sociedad B": 6.0,
-        "Draw": 34.0
+        "Sporting Lisbon": 1.06,
+        "Vitória SC": 210.0,
+        "Draw": 15.5
       },
-      "Coolbet": {
-        "CD Castellón": 1.0,
-        "Real Sociedad B": 100.0,
+      "Winamax (FR)": {
+        "Sporting Lisbon": 1.03,
+        "Vitória SC": 450.0,
         "Draw": 16.0
       },
-      "Betsson": {
-        "CD Castellón": 1.03,
-        "Real Sociedad B": 80.0,
-        "Draw": 15.0
-      }
-    },
-    "5df50503e8cb89c43d21bf9d7ced1aab:h2h": {
-      "Pinnacle": {
-        "Galatasaray": 7.29,
-        "Çorum FK": 1.74,
-        "Draw": 2.74
-      },
-      "Betclic (FR)": {
-        "Galatasaray": 8.75,
-        "Çorum FK": 25.0,
-        "Draw": 1.04
+      "Winamax (DE)": {
+        "Sporting Lisbon": 1.02,
+        "Vitória SC": 450.0,
+        "Draw": 17.0
       },
       "Tipico": {
-        "Galatasaray": 8.5,
-        "Çorum FK": 35.0,
-        "Draw": 1.06
-      },
-      "Betsson": {
-        "Galatasaray": 5.35,
-        "Çorum FK": 43.0,
-        "Draw": 1.16
-      },
-      "Betfair": {
-        "Galatasaray": 1.07,
-        "Çorum FK": 1.11
+        "Sporting Lisbon": 1.01,
+        "Vitória SC": 120.0,
+        "Draw": 11.0
       },
       "Nordic Bet": {
-        "Galatasaray": 4.1,
-        "Çorum FK": 32.0,
-        "Draw": 1.26
+        "Sporting Lisbon": 1.02,
+        "Vitória SC": 130.0,
+        "Draw": 12.0
       },
+      "Betsson": {
+        "Sporting Lisbon": 1.01,
+        "Vitória SC": 130.0,
+        "Draw": 13.0
+      }
+    },
+    "bf40262b0a1e1769338290cdc441b2ab:h2h": {
       "Unibet (SE)": {
-        "Galatasaray": 7.5,
-        "Çorum FK": 41.0,
-        "Draw": 1.09
-      },
-      "LeoVegas (SE)": {
-        "Galatasaray": 7.0,
-        "Çorum FK": 36.0,
-        "Draw": 1.04
+        "Botafogo-SP": 3.1,
+        "São Bernardo": 2.43,
+        "Draw": 2.95
       },
       "Unibet (NL)": {
-        "Galatasaray": 7.5,
-        "Çorum FK": 41.0,
-        "Draw": 1.09
+        "Botafogo-SP": 3.1,
+        "São Bernardo": 2.43,
+        "Draw": 2.95
+      },
+      "LeoVegas (SE)": {
+        "Botafogo-SP": 2.95,
+        "São Bernardo": 2.33,
+        "Draw": 2.8
       },
       "Coolbet": {
-        "Galatasaray": 30.0,
-        "Çorum FK": 66.0,
-        "Draw": 1.01
+        "Botafogo-SP": 3.15,
+        "São Bernardo": 2.4,
+        "Draw": 3.0
       },
-      "Matchbook": {
-        "Galatasaray": 12.5,
-        "Çorum FK": 85.0,
-        "Draw": 1.05
-      }
-    },
-    "c2cf5fc907343f7be13751c7c14c3df2:h2h": {
-      "Betclic (FR)": {
-        "Legia Warszawa": 1.0,
-        "Radomiak Radom": 100.0,
-        "Draw": 40.0
+      "BetOnline.ag": {
+        "Botafogo-SP": 3.2,
+        "São Bernardo": 2.5,
+        "Draw": 2.86
       },
       "Betsson": {
-        "Legia Warszawa": 1.0,
-        "Radomiak Radom": 1.0,
-        "Draw": 81.0
+        "Botafogo-SP": 3.0,
+        "São Bernardo": 2.45,
+        "Draw": 2.85
+      },
+      "Pinnacle": {
+        "Botafogo-SP": 3.3,
+        "São Bernardo": 2.54,
+        "Draw": 2.92
       },
       "Nordic Bet": {
-        "Legia Warszawa": 1.0,
-        "Radomiak Radom": 1.0,
-        "Draw": 1.0
-      }
-    },
-    "a6a383e01bd5cb148af941329d79199e:h2h": {
-      "Nordic Bet": {
-        "Annecy FC": 1.0,
-        "Rodez AF": 46.0,
-        "Draw": 19.0
+        "Botafogo-SP": 3.0,
+        "São Bernardo": 2.45,
+        "Draw": 2.85
       },
-      "Betsson": {
-        "Annecy FC": 1.0,
-        "Rodez AF": 51.0,
-        "Draw": 19.0
+      "1xBet": {
+        "Botafogo-SP": 3.17,
+        "São Bernardo": 2.48,
+        "Draw": 2.82
       },
-      "Betclic (FR)": {
-        "Annecy FC": 1.0,
-        "Rodez AF": 100.0,
-        "Draw": 40.0
-      },
-      "Winamax (DE)": {
-        "Annecy FC": 1.01,
-        "Rodez AF": 160.0,
-        "Draw": 32.0
-      },
-      "Winamax (FR)": {
-        "Annecy FC": 1.01,
-        "Rodez AF": 160.0,
-        "Draw": 32.0
+      "Marathon Bet": {
+        "Botafogo-SP": 3.14,
+        "São Bernardo": 2.46,
+        "Draw": 2.82
       },
       "888sport": {
-        "Annecy FC": 1.0,
-        "Rodez AF": 151.0,
-        "Draw": 56.0
+        "Botafogo-SP": 3.0,
+        "São Bernardo": 2.45,
+        "Draw": 2.8
+      },
+      "Codere (IT)": {
+        "Botafogo-SP": 2.95,
+        "São Bernardo": 2.44,
+        "Draw": 2.9
+      },
+      "William Hill": {
+        "Botafogo-SP": 3.0,
+        "São Bernardo": 2.45,
+        "Draw": 2.8
+      },
+      "Tipico": {
+        "Botafogo-SP": 3.2,
+        "São Bernardo": 2.25,
+        "Draw": 2.85
+      },
+      "Matchbook": {
+        "Botafogo-SP": 3.35,
+        "São Bernardo": 2.6,
+        "Draw": 3.05
       },
       "Betfair": {
-        "Annecy FC": 1.01,
-        "Rodez AF": 11.5,
-        "Draw": 46.0
+        "Botafogo-SP": 3.35,
+        "São Bernardo": 2.6,
+        "Draw": 3.05
+      }
+    },
+    "cceddac8c4da40861d7a224e38548ac5:h2h": {
+      "Unibet (SE)": {
+        "Nautico PE": 1.93,
+        "Ponte Preta": 3.95,
+        "Draw": 3.3
+      },
+      "LeoVegas (SE)": {
+        "Nautico PE": 1.85,
+        "Ponte Preta": 3.75,
+        "Draw": 3.15
+      },
+      "Unibet (NL)": {
+        "Nautico PE": 1.93,
+        "Ponte Preta": 3.95,
+        "Draw": 3.3
+      },
+      "Betsson": {
+        "Nautico PE": 1.98,
+        "Ponte Preta": 3.65,
+        "Draw": 3.2
+      },
+      "Nordic Bet": {
+        "Nautico PE": 1.98,
+        "Ponte Preta": 3.65,
+        "Draw": 3.2
+      },
+      "Coolbet": {
+        "Nautico PE": 1.98,
+        "Ponte Preta": 3.75,
+        "Draw": 3.4
+      },
+      "BetOnline.ag": {
+        "Nautico PE": 1.99,
+        "Ponte Preta": 3.85,
+        "Draw": 3.3
+      },
+      "Pinnacle": {
+        "Nautico PE": 1.99,
+        "Ponte Preta": 4.02,
+        "Draw": 3.45
+      },
+      "Marathon Bet": {
+        "Nautico PE": 1.92,
+        "Ponte Preta": 3.86,
+        "Draw": 3.34
+      },
+      "Codere (IT)": {
+        "Nautico PE": 1.98,
+        "Ponte Preta": 3.65,
+        "Draw": 3.2
+      },
+      "Matchbook": {
+        "Nautico PE": 2.08,
+        "Ponte Preta": 4.2,
+        "Draw": 3.5
+      },
+      "Betfair": {
+        "Nautico PE": 2.08,
+        "Ponte Preta": 4.1,
+        "Draw": 3.5
       }
     }
   },
@@ -3779,19 +3823,5 @@
     }
   ],
   "results_history": [],
-  "value_alerted": [
-    "5df50503e8cb89c43d21bf9d7ced1aab:h2h|Betclic (FR)|Galatasaray",
-    "5df50503e8cb89c43d21bf9d7ced1aab:h2h|Betclic (FR)|Çorum FK",
-    "5df50503e8cb89c43d21bf9d7ced1aab:h2h|Betsson|Çorum FK",
-    "5df50503e8cb89c43d21bf9d7ced1aab:h2h|Coolbet|Galatasaray",
-    "5df50503e8cb89c43d21bf9d7ced1aab:h2h|Coolbet|Çorum FK",
-    "5df50503e8cb89c43d21bf9d7ced1aab:h2h|LeoVegas (SE)|Çorum FK",
-    "5df50503e8cb89c43d21bf9d7ced1aab:h2h|Matchbook|Galatasaray",
-    "5df50503e8cb89c43d21bf9d7ced1aab:h2h|Matchbook|Çorum FK",
-    "5df50503e8cb89c43d21bf9d7ced1aab:h2h|Nordic Bet|Çorum FK",
-    "5df50503e8cb89c43d21bf9d7ced1aab:h2h|Tipico|Galatasaray",
-    "5df50503e8cb89c43d21bf9d7ced1aab:h2h|Tipico|Çorum FK",
-    "5df50503e8cb89c43d21bf9d7ced1aab:h2h|Unibet (NL)|Çorum FK",
-    "5df50503e8cb89c43d21bf9d7ced1aab:h2h|Unibet (SE)|Çorum FK"
-  ]
+  "value_alerted": []
 }
