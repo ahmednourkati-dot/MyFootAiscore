@@ -1,272 +1,380 @@
 {
   "snapshots": {
-    "c079af5ec4257d3b5961b22f78e6be4e:h2h": {
-      "Coolbet": {
-        "Philadelphia Union": 18.0,
-        "Santos Laguna": 1.14,
-        "Draw": 6.5
+    "6f8b6e9c0e195d581d74710e9d0c0ecb:h2h": {
+      "Betsson": {
+        "Portland Timbers": 2.88,
+        "Tijuana": 2.25,
+        "Draw": 3.2
       },
       "Winamax (DE)": {
-        "Philadelphia Union": 21.0,
-        "Santos Laguna": 1.12,
-        "Draw": 6.5
+        "Portland Timbers": 2.95,
+        "Tijuana": 2.3,
+        "Draw": 3.0
       },
       "Nordic Bet": {
-        "Philadelphia Union": 17.5,
-        "Santos Laguna": 1.12,
-        "Draw": 6.8
-      },
-      "Betsson": {
-        "Philadelphia Union": 17.5,
-        "Santos Laguna": 1.12,
-        "Draw": 6.8
-      },
-      "Winamax (FR)": {
-        "Philadelphia Union": 21.0,
-        "Santos Laguna": 1.14,
-        "Draw": 6.5
-      },
-      "888sport": {
-        "Philadelphia Union": 17.0,
-        "Santos Laguna": 1.12,
-        "Draw": 6.5
-      },
-      "Unibet (SE)": {
-        "Philadelphia Union": 18.0,
-        "Santos Laguna": 1.15,
-        "Draw": 6.75
-      },
-      "Unibet (NL)": {
-        "Philadelphia Union": 18.0,
-        "Santos Laguna": 1.15,
-        "Draw": 6.75
-      },
-      "PMU (FR)": {
-        "Philadelphia Union": 17.0,
-        "Santos Laguna": 1.1,
-        "Draw": 6.1
-      },
-      "LeoVegas (SE)": {
-        "Philadelphia Union": 17.0,
-        "Santos Laguna": 1.12,
-        "Draw": 6.1
-      },
-      "Betfair": {
-        "Philadelphia Union": 27.0,
-        "Santos Laguna": 1.17,
-        "Draw": 8.2
-      },
-      "Pinnacle": {
-        "Philadelphia Union": 15.71,
-        "Santos Laguna": 1.18,
-        "Draw": 6.3
-      }
-    },
-    "0b7f87771667252b35f38595907eec83:h2h": {
-      "Betsson": {
-        "Necaxa": 12.5,
-        "New York City FC": 1.23,
-        "Draw": 4.85
-      },
-      "Nordic Bet": {
-        "Necaxa": 12.5,
-        "New York City FC": 1.23,
-        "Draw": 4.85
-      },
-      "Coolbet": {
-        "Necaxa": 12.5,
-        "New York City FC": 1.22,
-        "Draw": 5.0
-      },
-      "Winamax (DE)": {
-        "Necaxa": 11.0,
-        "New York City FC": 1.26,
-        "Draw": 4.7
-      },
-      "Winamax (FR)": {
-        "Necaxa": 10.0,
-        "New York City FC": 1.28,
-        "Draw": 4.4
-      },
-      "888sport": {
-        "Necaxa": 10.0,
-        "New York City FC": 1.25,
-        "Draw": 4.4
-      },
-      "LeoVegas (SE)": {
-        "Necaxa": 11.5,
-        "New York City FC": 1.22,
-        "Draw": 4.8
-      },
-      "Unibet (SE)": {
-        "Necaxa": 12.0,
-        "New York City FC": 1.26,
-        "Draw": 5.0
-      },
-      "PMU (FR)": {
-        "Necaxa": 11.0,
-        "New York City FC": 1.2,
-        "Draw": 4.7
-      },
-      "Unibet (NL)": {
-        "Necaxa": 12.0,
-        "New York City FC": 1.26,
-        "Draw": 5.0
-      },
-      "Pinnacle": {
-        "Necaxa": 12.47,
-        "New York City FC": 1.27,
-        "Draw": 4.92
-      },
-      "Betfair": {
-        "Necaxa": 13.5,
-        "New York City FC": 1.34,
-        "Draw": 5.3
-      }
-    },
-    "be758cd5b2259976befc03f08bec1cd1:h2h": {
-      "Coolbet": {
-        "América": 2.03,
-        "Austin FC": 3.6,
-        "Draw": 3.6
-      },
-      "Winamax (DE)": {
-        "América": 1.92,
-        "Austin FC": 3.55,
-        "Draw": 3.4
-      },
-      "Nordic Bet": {
-        "América": 1.95,
-        "Austin FC": 3.75,
-        "Draw": 3.35
-      },
-      "Betsson": {
-        "América": 1.95,
-        "Austin FC": 3.75,
-        "Draw": 3.35
-      },
-      "Winamax (FR)": {
-        "América": 1.84,
-        "Austin FC": 3.6,
+        "Portland Timbers": 3.05,
+        "Tijuana": 2.2,
         "Draw": 3.15
       },
-      "1xBet": {
-        "América": 1.92,
-        "Austin FC": 4.15,
-        "Draw": 3.44
+      "Coolbet": {
+        "Portland Timbers": 3.0,
+        "Tijuana": 2.25,
+        "Draw": 3.25
+      },
+      "Winamax (FR)": {
+        "Portland Timbers": 2.85,
+        "Tijuana": 2.2,
+        "Draw": 2.9
       },
       "888sport": {
-        "América": 1.85,
-        "Austin FC": 3.6,
-        "Draw": 3.1
-      },
-      "William Hill": {
-        "América": 1.85,
-        "Austin FC": 3.6,
-        "Draw": 3.1
+        "Portland Timbers": 2.75,
+        "Tijuana": 2.25,
+        "Draw": 2.9
       },
       "LeoVegas (SE)": {
-        "América": 1.89,
-        "Austin FC": 3.95,
-        "Draw": 3.4
-      },
-      "Unibet (NL)": {
-        "América": 1.94,
-        "Austin FC": 4.1,
-        "Draw": 3.5
-      },
-      "Unibet (SE)": {
-        "América": 1.96,
-        "Austin FC": 4.1,
-        "Draw": 3.5
+        "Portland Timbers": 2.75,
+        "Tijuana": 2.32,
+        "Draw": 3.1
       },
       "PMU (FR)": {
-        "América": 1.85,
-        "Austin FC": 3.9,
+        "Portland Timbers": 2.7,
+        "Tijuana": 2.28,
+        "Draw": 3.0
+      },
+      "Unibet (SE)": {
+        "Portland Timbers": 2.85,
+        "Tijuana": 2.4,
+        "Draw": 3.2
+      },
+      "Unibet (NL)": {
+        "Portland Timbers": 2.88,
+        "Tijuana": 2.32,
         "Draw": 3.3
       },
       "Betfair": {
-        "América": 2.02,
-        "Austin FC": 4.1,
-        "Draw": 3.75
+        "Portland Timbers": 3.0,
+        "Tijuana": 2.56,
+        "Draw": 3.4
       },
       "Pinnacle": {
-        "América": 1.98,
-        "Austin FC": 4.0,
-        "Draw": 3.51
-      },
-      "BetOnline.ag": {
-        "América": 1.97,
-        "Austin FC": 3.97,
-        "Draw": 3.44
+        "Portland Timbers": 2.89,
+        "Tijuana": 2.44,
+        "Draw": 3.15
       }
     },
-    "cf6163b5889712ab39c06aea708a5696:h2h": {
+    "b5533f61730b76f4a8f39ed5918218ae:h2h": {
+      "Betsson": {
+        "Kashiwa Reysol": 1.95,
+        "Tokyo Verdy": 3.9,
+        "Draw": 3.15
+      },
       "Coolbet": {
-        "Botafogo": 2.7,
-        "Club Cienciano": 2.65,
+        "Kashiwa Reysol": 1.95,
+        "Tokyo Verdy": 4.2,
+        "Draw": 3.3
+      },
+      "Nordic Bet": {
+        "Kashiwa Reysol": 1.95,
+        "Tokyo Verdy": 3.9,
+        "Draw": 3.15
+      },
+      "BetOnline.ag": {
+        "Kashiwa Reysol": 1.98,
+        "Tokyo Verdy": 4.1,
         "Draw": 3.3
       },
       "Unibet (FR)": {
-        "Botafogo": 2.4,
-        "Club Cienciano": 2.6,
-        "Draw": 3.15
-      },
-      "Codere (IT)": {
-        "Botafogo": 2.6,
-        "Club Cienciano": 2.65,
-        "Draw": 3.25
-      },
-      "1xBet": {
-        "Botafogo": 2.71,
-        "Club Cienciano": 2.58,
+        "Kashiwa Reysol": 1.89,
+        "Tokyo Verdy": 3.85,
         "Draw": 3.2
       },
-      "888sport": {
-        "Botafogo": 2.62,
-        "Club Cienciano": 2.62,
-        "Draw": 3.0
+      "Betclic (FR)": {
+        "Kashiwa Reysol": 1.91,
+        "Tokyo Verdy": 3.88,
+        "Draw": 3.22
       },
-      "William Hill": {
-        "Botafogo": 2.62,
-        "Club Cienciano": 2.62,
-        "Draw": 3.0
+      "Winamax (DE)": {
+        "Kashiwa Reysol": 1.92,
+        "Tokyo Verdy": 3.75,
+        "Draw": 3.25
+      },
+      "Winamax (FR)": {
+        "Kashiwa Reysol": 1.88,
+        "Tokyo Verdy": 3.65,
+        "Draw": 3.2
       },
       "Pinnacle": {
-        "Botafogo": 2.62,
-        "Club Cienciano": 2.77,
-        "Draw": 3.27
+        "Kashiwa Reysol": 2.01,
+        "Tokyo Verdy": 4.2,
+        "Draw": 3.34
       },
-      "Nordic Bet": {
-        "Botafogo": 2.62,
-        "Club Cienciano": 2.58,
-        "Draw": 3.15
+      "1xBet": {
+        "Kashiwa Reysol": 2.0,
+        "Tokyo Verdy": 4.08,
+        "Draw": 3.31
       },
-      "PMU (FR)": {
-        "Botafogo": 2.6,
-        "Club Cienciano": 2.48,
-        "Draw": 2.95
+      "Marathon Bet": {
+        "Kashiwa Reysol": 1.95,
+        "Tokyo Verdy": 3.98,
+        "Draw": 3.24
       },
-      "LeoVegas (SE)": {
-        "Botafogo": 2.6,
-        "Club Cienciano": 2.48,
-        "Draw": 2.95
+      "888sport": {
+        "Kashiwa Reysol": 1.95,
+        "Tokyo Verdy": 3.9,
+        "Draw": 3.1
       },
-      "Unibet (NL)": {
-        "Botafogo": 2.75,
-        "Club Cienciano": 2.6,
-        "Draw": 3.15
+      "William Hill": {
+        "Kashiwa Reysol": 1.95,
+        "Tokyo Verdy": 3.9,
+        "Draw": 3.1
+      },
+      "Tipico": {
+        "Kashiwa Reysol": 1.9,
+        "Tokyo Verdy": 4.0,
+        "Draw": 3.2
+      },
+      "BetAnything": {
+        "Kashiwa Reysol": 1.98,
+        "Tokyo Verdy": 4.1,
+        "Draw": 3.3
       },
       "Betfair": {
-        "Botafogo": 2.72,
-        "Club Cienciano": 2.9,
-        "Draw": 3.3
+        "Kashiwa Reysol": 2.04,
+        "Tokyo Verdy": 4.3,
+        "Draw": 3.5
+      },
+      "PMU (FR)": {
+        "Kashiwa Reysol": 1.81,
+        "Tokyo Verdy": 4.35,
+        "Draw": 3.1
+      },
+      "Matchbook": {
+        "Kashiwa Reysol": 2.04,
+        "Tokyo Verdy": 4.3,
+        "Draw": 3.5
+      },
+      "Unibet (SE)": {
+        "Kashiwa Reysol": 1.83,
+        "Tokyo Verdy": 4.35,
+        "Draw": 3.1
+      },
+      "LeoVegas (SE)": {
+        "Kashiwa Reysol": 1.83,
+        "Tokyo Verdy": 4.4,
+        "Draw": 3.15
+      },
+      "Unibet (NL)": {
+        "Kashiwa Reysol": 1.83,
+        "Tokyo Verdy": 4.35,
+        "Draw": 3.1
+      }
+    },
+    "bd2eb77d563022b1b9f3a1cc4e0669f6:h2h": {
+      "Unibet (NL)": {
+        "Qingdao Hainiu FC": 5.75,
+        "Shandong Luneng Taishan FC": 1.43,
+        "Draw": 4.8
+      },
+      "Unibet (SE)": {
+        "Qingdao Hainiu FC": 5.75,
+        "Shandong Luneng Taishan FC": 1.43,
+        "Draw": 4.8
+      },
+      "LeoVegas (SE)": {
+        "Qingdao Hainiu FC": 5.4,
+        "Shandong Luneng Taishan FC": 1.4,
+        "Draw": 4.6
+      },
+      "Unibet (FR)": {
+        "Qingdao Hainiu FC": 5.7,
+        "Shandong Luneng Taishan FC": 1.36,
+        "Draw": 4.8
+      },
+      "Nordic Bet": {
+        "Qingdao Hainiu FC": 5.9,
+        "Shandong Luneng Taishan FC": 1.4,
+        "Draw": 5.0
+      },
+      "Betsson": {
+        "Qingdao Hainiu FC": 5.9,
+        "Shandong Luneng Taishan FC": 1.4,
+        "Draw": 5.0
+      },
+      "BetOnline.ag": {
+        "Qingdao Hainiu FC": 6.0,
+        "Shandong Luneng Taishan FC": 1.41,
+        "Draw": 5.3
+      },
+      "Coolbet": {
+        "Qingdao Hainiu FC": 6.75,
+        "Shandong Luneng Taishan FC": 1.4,
+        "Draw": 5.0
+      },
+      "Codere (IT)": {
+        "Qingdao Hainiu FC": 5.8,
+        "Shandong Luneng Taishan FC": 1.39,
+        "Draw": 5.0
+      },
+      "Winamax (DE)": {
+        "Qingdao Hainiu FC": 5.6,
+        "Shandong Luneng Taishan FC": 1.38,
+        "Draw": 5.2
+      },
+      "Winamax (FR)": {
+        "Qingdao Hainiu FC": 5.4,
+        "Shandong Luneng Taishan FC": 1.37,
+        "Draw": 5.0
+      },
+      "1xBet": {
+        "Qingdao Hainiu FC": 6.5,
+        "Shandong Luneng Taishan FC": 1.42,
+        "Draw": 5.26
+      },
+      "Pinnacle": {
+        "Qingdao Hainiu FC": 6.28,
+        "Shandong Luneng Taishan FC": 1.42,
+        "Draw": 5.51
+      },
+      "GTbets": {
+        "Qingdao Hainiu FC": 6.11,
+        "Shandong Luneng Taishan FC": 1.43,
+        "Draw": 5.16
+      },
+      "Marathon Bet": {
+        "Qingdao Hainiu FC": 6.3,
+        "Shandong Luneng Taishan FC": 1.38,
+        "Draw": 5.1
+      },
+      "Tipico": {
+        "Qingdao Hainiu FC": 6.0,
+        "Shandong Luneng Taishan FC": 1.37,
+        "Draw": 5.2
+      },
+      "888sport": {
+        "Qingdao Hainiu FC": 6.0,
+        "Shandong Luneng Taishan FC": 1.4,
+        "Draw": 4.8
+      },
+      "William Hill": {
+        "Qingdao Hainiu FC": 6.0,
+        "Shandong Luneng Taishan FC": 1.4,
+        "Draw": 4.8
+      },
+      "Betfair": {
+        "Qingdao Hainiu FC": 6.8,
+        "Shandong Luneng Taishan FC": 1.44,
+        "Draw": 5.7
+      },
+      "Matchbook": {
+        "Qingdao Hainiu FC": 7.0,
+        "Shandong Luneng Taishan FC": 1.44,
+        "Draw": 5.7
+      }
+    },
+    "5ff929be5af784b70efe4d5cd0b9cd84:h2h": {
+      "BetOnline.ag": {
+        "Shanghai SIPG FC": 2.06,
+        "Wuhan Three Towns": 3.35,
+        "Draw": 3.7
+      },
+      "Coolbet": {
+        "Shanghai SIPG FC": 2.03,
+        "Wuhan Three Towns": 3.25,
+        "Draw": 3.85
+      },
+      "Betsson": {
+        "Shanghai SIPG FC": 2.02,
+        "Wuhan Three Towns": 3.2,
+        "Draw": 3.55
+      },
+      "Unibet (FR)": {
+        "Shanghai SIPG FC": 1.95,
+        "Wuhan Three Towns": 3.1,
+        "Draw": 3.5
+      },
+      "Nordic Bet": {
+        "Shanghai SIPG FC": 2.02,
+        "Wuhan Three Towns": 3.2,
+        "Draw": 3.55
+      },
+      "Winamax (FR)": {
+        "Shanghai SIPG FC": 1.96,
+        "Wuhan Three Towns": 3.05,
+        "Draw": 3.6
+      },
+      "Winamax (DE)": {
+        "Shanghai SIPG FC": 1.98,
+        "Wuhan Three Towns": 3.15,
+        "Draw": 3.65
+      },
+      "Unibet (SE)": {
+        "Shanghai SIPG FC": 1.91,
+        "Wuhan Three Towns": 3.5,
+        "Draw": 3.65
+      },
+      "Unibet (NL)": {
+        "Shanghai SIPG FC": 1.91,
+        "Wuhan Three Towns": 3.5,
+        "Draw": 3.65
+      },
+      "Codere (IT)": {
+        "Shanghai SIPG FC": 2.01,
+        "Wuhan Three Towns": 3.2,
+        "Draw": 3.55
+      },
+      "LeoVegas (SE)": {
+        "Shanghai SIPG FC": 1.83,
+        "Wuhan Three Towns": 3.4,
+        "Draw": 3.55
+      },
+      "1xBet": {
+        "Shanghai SIPG FC": 2.03,
+        "Wuhan Three Towns": 3.48,
+        "Draw": 3.73
+      },
+      "GTbets": {
+        "Shanghai SIPG FC": 2.05,
+        "Wuhan Three Towns": 3.28,
+        "Draw": 3.61
+      },
+      "Pinnacle": {
+        "Shanghai SIPG FC": 2.06,
+        "Wuhan Three Towns": 3.45,
+        "Draw": 3.79
+      },
+      "Marathon Bet": {
+        "Shanghai SIPG FC": 1.97,
+        "Wuhan Three Towns": 3.38,
+        "Draw": 3.62
+      },
+      "Tipico": {
+        "Shanghai SIPG FC": 1.97,
+        "Wuhan Three Towns": 3.3,
+        "Draw": 3.6
+      },
+      "888sport": {
+        "Shanghai SIPG FC": 2.0,
+        "Wuhan Three Towns": 3.3,
+        "Draw": 3.4
+      },
+      "William Hill": {
+        "Shanghai SIPG FC": 2.0,
+        "Wuhan Three Towns": 3.3,
+        "Draw": 3.4
+      },
+      "Betfair": {
+        "Shanghai SIPG FC": 2.1,
+        "Wuhan Three Towns": 3.55,
+        "Draw": 3.95
+      },
+      "Matchbook": {
+        "Shanghai SIPG FC": 2.1,
+        "Wuhan Three Towns": 3.55,
+        "Draw": 3.9
       }
     }
   },
-  "alerted": [
-    "c079af5ec4257d3b5961b22f78e6be4e:h2h"
-  ],
+  "alerted": [],
   "pending_results": [
     {
       "state_key": "398d07703c866bb0315c56cd1ce6e035:h2h",
@@ -1275,16 +1383,26 @@
       "confidence": 22,
       "alert_type": "value",
       "alerted_at": "2026-08-14T00:30:35.194698+00:00"
+    },
+    {
+      "state_key": "bd2eb77d563022b1b9f3a1cc4e0669f6:h2h",
+      "event_id": "bd2eb77d563022b1b9f3a1cc4e0669f6",
+      "sport_key": "soccer",
+      "competition": "Super League - China",
+      "home_team": "Shandong Luneng Taishan FC",
+      "away_team": "Qingdao Hainiu FC",
+      "commence_time": "2026-08-14T11:35:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Qingdao Hainiu FC",
+      "odds_at_alert": 7.0,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T03:16:36.480502+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "c079af5ec4257d3b5961b22f78e6be4e:h2h|Betfair|Draw",
-    "c079af5ec4257d3b5961b22f78e6be4e:h2h|Betfair|Philadelphia Union",
-    "c079af5ec4257d3b5961b22f78e6be4e:h2h|Coolbet|Philadelphia Union",
-    "c079af5ec4257d3b5961b22f78e6be4e:h2h|Unibet (NL)|Philadelphia Union",
-    "c079af5ec4257d3b5961b22f78e6be4e:h2h|Unibet (SE)|Philadelphia Union",
-    "c079af5ec4257d3b5961b22f78e6be4e:h2h|Winamax (DE)|Philadelphia Union",
-    "c079af5ec4257d3b5961b22f78e6be4e:h2h|Winamax (FR)|Philadelphia Union"
+    "bd2eb77d563022b1b9f3a1cc4e0669f6:h2h|Matchbook|Qingdao Hainiu FC"
   ]
 }
