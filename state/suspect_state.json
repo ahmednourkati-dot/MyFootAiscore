@@ -1,298 +1,233 @@
 {
   "snapshots": {
-    "02b111014da2ac0a7f4a6ae59f732e80:h2h": {
-      "Unibet (SE)": {
-        "TPS Turku": 1.01,
-        "VPS Vaasa": 101.0,
-        "Draw": 19.0
-      },
-      "Unibet (NL)": {
-        "TPS Turku": 1.01,
-        "VPS Vaasa": 111.0,
-        "Draw": 19.0
-      },
+    "1199b468b4c6a6077c72568ea51832c8:h2h": {
       "Betfair": {
-        "TPS Turku": 1.42,
-        "VPS Vaasa": 19.5,
-        "Draw": 4.0
+        "Catania FC": 120.0,
+        "Parma": 1.04,
+        "Draw": 27.0
       },
-      "Nordic Bet": {
-        "TPS Turku": 1.01,
-        "VPS Vaasa": 46.0,
-        "Draw": 15.0
-      },
-      "Betsson": {
-        "TPS Turku": 1.04,
-        "VPS Vaasa": 46.0,
-        "Draw": 11.0
-      },
-      "Tipico": {
-        "TPS Turku": 1.01,
-        "VPS Vaasa": 60.0,
-        "Draw": 11.0
-      },
-      "Coolbet": {
-        "TPS Turku": 1.02,
-        "VPS Vaasa": 80.0,
+      "Winamax (DE)": {
+        "Catania FC": 70.0,
+        "Parma": 1.02,
         "Draw": 20.0
       },
       "888sport": {
-        "TPS Turku": 1.03,
-        "VPS Vaasa": 71.0,
-        "Draw": 15.0
-      }
-    },
-    "1199b468b4c6a6077c72568ea51832c8:h2h": {
-      "Betfair": {
-        "Catania FC": 95.0,
-        "Parma": 1.06,
-        "Draw": 19.5
-      },
-      "Winamax (DE)": {
-        "Catania FC": 50.0,
+        "Catania FC": 71.0,
         "Parma": 1.02,
-        "Draw": 17.0
-      },
-      "888sport": {
-        "Catania FC": 56.0,
-        "Parma": 1.03,
-        "Draw": 15.0
+        "Draw": 19.0
       },
       "Unibet (SE)": {
-        "Catania FC": 51.0,
-        "Parma": 1.03,
-        "Draw": 14.0
+        "Catania FC": 56.0,
+        "Parma": 1.02,
+        "Draw": 15.0
       }
     },
     "e34b46681715aec8120a4c2931ffbfd2:h2h": {
       "Betsson": {
-        "Eintracht Braunschweig": 2.35,
-        "VfL Bochum": 2.75,
-        "Draw": 3.2
-      },
-      "Codere (IT)": {
-        "Eintracht Braunschweig": 2.5,
-        "VfL Bochum": 2.65,
-        "Draw": 3.5
+        "Eintracht Braunschweig": 5.8,
+        "VfL Bochum": 1.55,
+        "Draw": 3.65
       },
       "Coolbet": {
-        "Eintracht Braunschweig": 2.38,
-        "VfL Bochum": 2.88,
-        "Draw": 3.25
+        "Eintracht Braunschweig": 6.0,
+        "VfL Bochum": 1.57,
+        "Draw": 3.75
       },
       "Nordic Bet": {
-        "Eintracht Braunschweig": 2.35,
-        "VfL Bochum": 2.75,
-        "Draw": 3.2
-      },
-      "Unibet (FR)": {
-        "Eintracht Braunschweig": 2.35,
-        "VfL Bochum": 2.55,
-        "Draw": 3.4
+        "Eintracht Braunschweig": 5.8,
+        "VfL Bochum": 1.55,
+        "Draw": 3.65
       },
       "Suprabets": {
-        "Eintracht Braunschweig": 2.37,
-        "VfL Bochum": 2.8,
-        "Draw": 3.4
+        "Eintracht Braunschweig": 5.4,
+        "VfL Bochum": 1.6,
+        "Draw": 3.7
       },
       "Betclic (FR)": {
-        "Eintracht Braunschweig": 2.27,
-        "VfL Bochum": 2.77,
-        "Draw": 3.17
+        "Eintracht Braunschweig": 5.25,
+        "VfL Bochum": 1.56,
+        "Draw": 3.53
       },
       "Pinnacle": {
-        "Eintracht Braunschweig": 2.61,
-        "VfL Bochum": 2.64,
-        "Draw": 3.4
+        "Eintracht Braunschweig": 5.25,
+        "VfL Bochum": 1.68,
+        "Draw": 3.71
       },
       "Winamax (FR)": {
-        "Eintracht Braunschweig": 2.2,
-        "VfL Bochum": 2.7,
-        "Draw": 3.1
-      },
-      "1xBet": {
-        "Eintracht Braunschweig": 2.54,
-        "VfL Bochum": 2.59,
-        "Draw": 3.66
+        "Eintracht Braunschweig": 5.4,
+        "VfL Bochum": 1.52,
+        "Draw": 3.5
       },
       "Winamax (DE)": {
-        "Eintracht Braunschweig": 2.25,
-        "VfL Bochum": 2.75,
-        "Draw": 3.1
+        "Eintracht Braunschweig": 5.7,
+        "VfL Bochum": 1.56,
+        "Draw": 3.5
       },
       "Betfair": {
-        "Eintracht Braunschweig": 2.44,
-        "VfL Bochum": 3.1,
-        "Draw": 3.6
-      },
-      "Marathon Bet": {
-        "Eintracht Braunschweig": 2.55,
-        "VfL Bochum": 2.6,
-        "Draw": 3.38
+        "Eintracht Braunschweig": 6.8,
+        "VfL Bochum": 1.6,
+        "Draw": 4.2
       },
       "888sport": {
-        "Eintracht Braunschweig": 2.25,
-        "VfL Bochum": 2.8,
-        "Draw": 3.2
-      },
-      "William Hill": {
-        "Eintracht Braunschweig": 2.5,
-        "VfL Bochum": 2.5,
-        "Draw": 3.3
+        "Eintracht Braunschweig": 5.0,
+        "VfL Bochum": 1.6,
+        "Draw": 3.6
       },
       "Tipico": {
-        "Eintracht Braunschweig": 2.3,
-        "VfL Bochum": 2.8,
-        "Draw": 3.4
-      },
-      "BetOnline.ag": {
-        "Eintracht Braunschweig": 2.55,
-        "VfL Bochum": 2.75,
-        "Draw": 3.58
+        "Eintracht Braunschweig": 4.7,
+        "VfL Bochum": 1.6,
+        "Draw": 4.0
       },
       "Matchbook": {
-        "Eintracht Braunschweig": 2.5,
-        "VfL Bochum": 3.0,
-        "Draw": 3.55
+        "Eintracht Braunschweig": 7.2,
+        "VfL Bochum": 1.54,
+        "Draw": 4.4
       },
       "PMU (FR)": {
-        "Eintracht Braunschweig": 2.0,
-        "VfL Bochum": 2.7,
-        "Draw": 2.95
+        "Eintracht Braunschweig": 5.0,
+        "VfL Bochum": 1.44,
+        "Draw": 3.15
       },
       "LeoVegas (SE)": {
-        "Eintracht Braunschweig": 2.05,
-        "VfL Bochum": 2.8,
-        "Draw": 3.05
+        "Eintracht Braunschweig": 5.1,
+        "VfL Bochum": 1.5,
+        "Draw": 3.25
       },
       "Unibet (NL)": {
-        "Eintracht Braunschweig": 2.18,
-        "VfL Bochum": 2.95,
-        "Draw": 3.25
+        "Eintracht Braunschweig": 6.0,
+        "VfL Bochum": 1.55,
+        "Draw": 3.45
       },
       "Unibet (SE)": {
-        "Eintracht Braunschweig": 2.18,
-        "VfL Bochum": 2.95,
-        "Draw": 3.25
+        "Eintracht Braunschweig": 5.25,
+        "VfL Bochum": 1.6,
+        "Draw": 3.45
       }
     },
     "db767d84cbf8edaf51db1bda3eecdee7:h2h": {
       "Tipico": {
-        "FC St. Pauli": 2.55,
-        "Holstein Kiel": 2.6,
-        "Draw": 3.2
+        "FC St. Pauli": 1.65,
+        "Holstein Kiel": 5.0,
+        "Draw": 3.6
       },
       "Winamax (DE)": {
-        "FC St. Pauli": 2.5,
-        "Holstein Kiel": 2.5,
-        "Draw": 3.0
-      },
-      "Betsson": {
-        "FC St. Pauli": 2.55,
-        "Holstein Kiel": 2.6,
-        "Draw": 3.15
-      },
-      "Nordic Bet": {
-        "FC St. Pauli": 2.55,
-        "Holstein Kiel": 2.6,
-        "Draw": 3.15
-      },
-      "Unibet (FR)": {
-        "FC St. Pauli": 2.35,
-        "Holstein Kiel": 2.6,
-        "Draw": 3.35
-      },
-      "Coolbet": {
-        "FC St. Pauli": 2.63,
-        "Holstein Kiel": 2.6,
+        "FC St. Pauli": 1.72,
+        "Holstein Kiel": 4.7,
         "Draw": 3.25
       },
-      "1xBet": {
-        "FC St. Pauli": 2.45,
-        "Holstein Kiel": 2.78,
-        "Draw": 3.52
+      "Betsson": {
+        "FC St. Pauli": 1.68,
+        "Holstein Kiel": 4.85,
+        "Draw": 3.3
       },
-      "Codere (IT)": {
-        "FC St. Pauli": 2.5,
-        "Holstein Kiel": 2.65,
-        "Draw": 3.5
+      "Nordic Bet": {
+        "FC St. Pauli": 1.68,
+        "Holstein Kiel": 4.85,
+        "Draw": 3.3
+      },
+      "Coolbet": {
+        "FC St. Pauli": 1.73,
+        "Holstein Kiel": 5.0,
+        "Draw": 3.4
       },
       "Winamax (FR)": {
-        "FC St. Pauli": 2.5,
-        "Holstein Kiel": 2.4,
-        "Draw": 3.0
+        "FC St. Pauli": 1.64,
+        "Holstein Kiel": 4.5,
+        "Draw": 3.3
       },
       "Betclic (FR)": {
-        "FC St. Pauli": 2.45,
-        "Holstein Kiel": 2.5,
-        "Draw": 3.15
+        "FC St. Pauli": 1.62,
+        "Holstein Kiel": 4.75,
+        "Draw": 3.3
       },
       "Betfair": {
-        "FC St. Pauli": 2.76,
-        "Holstein Kiel": 2.66,
+        "FC St. Pauli": 1.79,
+        "Holstein Kiel": 5.5,
         "Draw": 3.75
       },
       "888sport": {
-        "FC St. Pauli": 2.4,
-        "Holstein Kiel": 2.6,
-        "Draw": 3.3
-      },
-      "William Hill": {
-        "FC St. Pauli": 2.45,
-        "Holstein Kiel": 2.62,
-        "Draw": 3.3
+        "FC St. Pauli": 1.7,
+        "Holstein Kiel": 4.5,
+        "Draw": 3.4
       },
       "Suprabets": {
-        "FC St. Pauli": 2.6,
-        "Holstein Kiel": 2.6,
-        "Draw": 3.25
-      },
-      "Marathon Bet": {
-        "FC St. Pauli": 2.49,
-        "Holstein Kiel": 2.6,
-        "Draw": 3.5
+        "FC St. Pauli": 1.67,
+        "Holstein Kiel": 4.9,
+        "Draw": 3.6
       },
       "Pinnacle": {
-        "FC St. Pauli": 2.57,
-        "Holstein Kiel": 2.68,
-        "Draw": 3.42
+        "FC St. Pauli": 3.02,
+        "Holstein Kiel": 2.37,
+        "Draw": 3.29
       },
       "Matchbook": {
-        "FC St. Pauli": 2.86,
-        "Holstein Kiel": 2.6,
+        "FC St. Pauli": 1.85,
+        "Holstein Kiel": 5.2,
         "Draw": 3.65
       },
-      "BetOnline.ag": {
-        "FC St. Pauli": 2.65,
-        "Holstein Kiel": 2.65,
-        "Draw": 3.55
-      },
       "PMU (FR)": {
-        "FC St. Pauli": 2.43,
-        "Holstein Kiel": 2.16,
+        "FC St. Pauli": 1.56,
+        "Holstein Kiel": 4.3,
         "Draw": 3.0
       },
       "LeoVegas (SE)": {
-        "FC St. Pauli": 2.5,
-        "Holstein Kiel": 2.23,
+        "FC St. Pauli": 1.61,
+        "Holstein Kiel": 4.5,
         "Draw": 3.05
       },
       "Unibet (NL)": {
-        "FC St. Pauli": 2.65,
-        "Holstein Kiel": 2.38,
+        "FC St. Pauli": 1.72,
+        "Holstein Kiel": 4.7,
         "Draw": 3.25
       },
       "Unibet (SE)": {
-        "FC St. Pauli": 2.65,
-        "Holstein Kiel": 2.38,
-        "Draw": 3.25
+        "FC St. Pauli": 1.66,
+        "Holstein Kiel": 4.9,
+        "Draw": 3.4
+      }
+    },
+    "30d809a9ee40898d4731b71cd72b34f6:h2h": {
+      "Betfair": {
+        "Arezzo": 18.5,
+        "Cagliari": 1.31,
+        "Draw": 5.2
+      },
+      "Winamax (DE)": {
+        "Arezzo": 12.5,
+        "Cagliari": 1.25,
+        "Draw": 4.7
+      },
+      "Tipico": {
+        "Arezzo": 15.0,
+        "Cagliari": 1.2,
+        "Draw": 5.2
+      },
+      "888sport": {
+        "Arezzo": 12.0,
+        "Cagliari": 1.25,
+        "Draw": 4.8
+      },
+      "LeoVegas (SE)": {
+        "Arezzo": 11.0,
+        "Cagliari": 1.17,
+        "Draw": 4.6
+      },
+      "Unibet (SE)": {
+        "Arezzo": 11.0,
+        "Cagliari": 1.25,
+        "Draw": 4.8
+      },
+      "Unibet (NL)": {
+        "Arezzo": 11.0,
+        "Cagliari": 1.25,
+        "Draw": 4.8
       }
     }
   },
   "alerted": [
-    "02b111014da2ac0a7f4a6ae59f732e80:h2h",
     "1199b468b4c6a6077c72568ea51832c8:h2h",
-    "db767d84cbf8edaf51db1bda3eecdee7:h2h"
+    "db767d84cbf8edaf51db1bda3eecdee7:h2h",
+    "e34b46681715aec8120a4c2931ffbfd2:h2h"
   ],
   "pending_results": [
     {
@@ -1846,14 +1781,404 @@
       "confidence": 6,
       "alert_type": "value",
       "alerted_at": "2026-08-14T16:43:18.558752+00:00"
+    },
+    {
+      "state_key": "e34b46681715aec8120a4c2931ffbfd2:h2h",
+      "event_id": "e34b46681715aec8120a4c2931ffbfd2",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "Eintracht Braunschweig",
+      "away_team": "VfL Bochum",
+      "commence_time": "2026-08-14T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Eintracht Braunschweig",
+      "odds_at_alert": 7.2,
+      "stake_pct": 5.0,
+      "confidence": 100,
+      "alert_type": "suspicious",
+      "alerted_at": "2026-08-14T17:12:52.982518+00:00"
+    },
+    {
+      "state_key": "e34b46681715aec8120a4c2931ffbfd2:h2h",
+      "event_id": "e34b46681715aec8120a4c2931ffbfd2",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "Eintracht Braunschweig",
+      "away_team": "VfL Bochum",
+      "commence_time": "2026-08-14T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Eintracht Braunschweig",
+      "odds_at_alert": 6.0,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T17:12:53.308619+00:00"
+    },
+    {
+      "state_key": "e34b46681715aec8120a4c2931ffbfd2:h2h",
+      "event_id": "e34b46681715aec8120a4c2931ffbfd2",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "Eintracht Braunschweig",
+      "away_team": "VfL Bochum",
+      "commence_time": "2026-08-14T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Eintracht Braunschweig",
+      "odds_at_alert": 6.8,
+      "stake_pct": 5.0,
+      "confidence": 23,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T17:12:53.629117+00:00"
+    },
+    {
+      "state_key": "e34b46681715aec8120a4c2931ffbfd2:h2h",
+      "event_id": "e34b46681715aec8120a4c2931ffbfd2",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "Eintracht Braunschweig",
+      "away_team": "VfL Bochum",
+      "commence_time": "2026-08-14T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.2,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T17:12:53.969058+00:00"
+    },
+    {
+      "state_key": "e34b46681715aec8120a4c2931ffbfd2:h2h",
+      "event_id": "e34b46681715aec8120a4c2931ffbfd2",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "Eintracht Braunschweig",
+      "away_team": "VfL Bochum",
+      "commence_time": "2026-08-14T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Eintracht Braunschweig",
+      "odds_at_alert": 7.2,
+      "stake_pct": 5.0,
+      "confidence": 30,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T17:12:54.354475+00:00"
+    },
+    {
+      "state_key": "e34b46681715aec8120a4c2931ffbfd2:h2h",
+      "event_id": "e34b46681715aec8120a4c2931ffbfd2",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "Eintracht Braunschweig",
+      "away_team": "VfL Bochum",
+      "commence_time": "2026-08-14T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.4,
+      "stake_pct": 3.0,
+      "confidence": 12,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T17:12:54.686103+00:00"
+    },
+    {
+      "state_key": "e34b46681715aec8120a4c2931ffbfd2:h2h",
+      "event_id": "e34b46681715aec8120a4c2931ffbfd2",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "Eintracht Braunschweig",
+      "away_team": "VfL Bochum",
+      "commence_time": "2026-08-14T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Eintracht Braunschweig",
+      "odds_at_alert": 6.0,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T17:12:55.056762+00:00"
+    },
+    {
+      "state_key": "db767d84cbf8edaf51db1bda3eecdee7:h2h",
+      "event_id": "db767d84cbf8edaf51db1bda3eecdee7",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "Holstein Kiel",
+      "away_team": "FC St. Pauli",
+      "commence_time": "2026-08-14T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Holstein Kiel",
+      "odds_at_alert": 5.0,
+      "stake_pct": 5.0,
+      "confidence": 100,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T17:12:55.390246+00:00"
+    },
+    {
+      "state_key": "db767d84cbf8edaf51db1bda3eecdee7:h2h",
+      "event_id": "db767d84cbf8edaf51db1bda3eecdee7",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "Holstein Kiel",
+      "away_team": "FC St. Pauli",
+      "commence_time": "2026-08-14T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Holstein Kiel",
+      "odds_at_alert": 4.7,
+      "stake_pct": 5.0,
+      "confidence": 88,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T17:12:55.743387+00:00"
+    },
+    {
+      "state_key": "db767d84cbf8edaf51db1bda3eecdee7:h2h",
+      "event_id": "db767d84cbf8edaf51db1bda3eecdee7",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "Holstein Kiel",
+      "away_team": "FC St. Pauli",
+      "commence_time": "2026-08-14T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Holstein Kiel",
+      "odds_at_alert": 4.85,
+      "stake_pct": 5.0,
+      "confidence": 94,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T17:12:56.126293+00:00"
+    },
+    {
+      "state_key": "db767d84cbf8edaf51db1bda3eecdee7:h2h",
+      "event_id": "db767d84cbf8edaf51db1bda3eecdee7",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "Holstein Kiel",
+      "away_team": "FC St. Pauli",
+      "commence_time": "2026-08-14T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Holstein Kiel",
+      "odds_at_alert": 4.85,
+      "stake_pct": 5.0,
+      "confidence": 94,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T17:12:56.553983+00:00"
+    },
+    {
+      "state_key": "db767d84cbf8edaf51db1bda3eecdee7:h2h",
+      "event_id": "db767d84cbf8edaf51db1bda3eecdee7",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "Holstein Kiel",
+      "away_team": "FC St. Pauli",
+      "commence_time": "2026-08-14T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Holstein Kiel",
+      "odds_at_alert": 5.0,
+      "stake_pct": 5.0,
+      "confidence": 100,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T17:12:56.924279+00:00"
+    },
+    {
+      "state_key": "db767d84cbf8edaf51db1bda3eecdee7:h2h",
+      "event_id": "db767d84cbf8edaf51db1bda3eecdee7",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "Holstein Kiel",
+      "away_team": "FC St. Pauli",
+      "commence_time": "2026-08-14T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Holstein Kiel",
+      "odds_at_alert": 4.5,
+      "stake_pct": 5.0,
+      "confidence": 80,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T17:12:57.286740+00:00"
+    },
+    {
+      "state_key": "db767d84cbf8edaf51db1bda3eecdee7:h2h",
+      "event_id": "db767d84cbf8edaf51db1bda3eecdee7",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "Holstein Kiel",
+      "away_team": "FC St. Pauli",
+      "commence_time": "2026-08-14T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Holstein Kiel",
+      "odds_at_alert": 4.75,
+      "stake_pct": 5.0,
+      "confidence": 90,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T17:12:57.702232+00:00"
+    },
+    {
+      "state_key": "db767d84cbf8edaf51db1bda3eecdee7:h2h",
+      "event_id": "db767d84cbf8edaf51db1bda3eecdee7",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "Holstein Kiel",
+      "away_team": "FC St. Pauli",
+      "commence_time": "2026-08-14T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Holstein Kiel",
+      "odds_at_alert": 5.5,
+      "stake_pct": 5.0,
+      "confidence": 120,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T17:12:58.193905+00:00"
+    },
+    {
+      "state_key": "db767d84cbf8edaf51db1bda3eecdee7:h2h",
+      "event_id": "db767d84cbf8edaf51db1bda3eecdee7",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "Holstein Kiel",
+      "away_team": "FC St. Pauli",
+      "commence_time": "2026-08-14T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.75,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T17:12:58.609475+00:00"
+    },
+    {
+      "state_key": "db767d84cbf8edaf51db1bda3eecdee7:h2h",
+      "event_id": "db767d84cbf8edaf51db1bda3eecdee7",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "Holstein Kiel",
+      "away_team": "FC St. Pauli",
+      "commence_time": "2026-08-14T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Holstein Kiel",
+      "odds_at_alert": 4.5,
+      "stake_pct": 5.0,
+      "confidence": 80,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T17:12:58.946096+00:00"
+    },
+    {
+      "state_key": "db767d84cbf8edaf51db1bda3eecdee7:h2h",
+      "event_id": "db767d84cbf8edaf51db1bda3eecdee7",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "Holstein Kiel",
+      "away_team": "FC St. Pauli",
+      "commence_time": "2026-08-14T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Holstein Kiel",
+      "odds_at_alert": 4.9,
+      "stake_pct": 5.0,
+      "confidence": 96,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T17:12:59.259324+00:00"
+    },
+    {
+      "state_key": "db767d84cbf8edaf51db1bda3eecdee7:h2h",
+      "event_id": "db767d84cbf8edaf51db1bda3eecdee7",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "Holstein Kiel",
+      "away_team": "FC St. Pauli",
+      "commence_time": "2026-08-14T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Holstein Kiel",
+      "odds_at_alert": 5.2,
+      "stake_pct": 5.0,
+      "confidence": 108,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T17:12:59.577176+00:00"
+    },
+    {
+      "state_key": "db767d84cbf8edaf51db1bda3eecdee7:h2h",
+      "event_id": "db767d84cbf8edaf51db1bda3eecdee7",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "Holstein Kiel",
+      "away_team": "FC St. Pauli",
+      "commence_time": "2026-08-14T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Holstein Kiel",
+      "odds_at_alert": 4.3,
+      "stake_pct": 5.0,
+      "confidence": 72,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T17:12:59.917160+00:00"
+    },
+    {
+      "state_key": "db767d84cbf8edaf51db1bda3eecdee7:h2h",
+      "event_id": "db767d84cbf8edaf51db1bda3eecdee7",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "Holstein Kiel",
+      "away_team": "FC St. Pauli",
+      "commence_time": "2026-08-14T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Holstein Kiel",
+      "odds_at_alert": 4.5,
+      "stake_pct": 5.0,
+      "confidence": 80,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T17:13:00.244056+00:00"
+    },
+    {
+      "state_key": "db767d84cbf8edaf51db1bda3eecdee7:h2h",
+      "event_id": "db767d84cbf8edaf51db1bda3eecdee7",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "Holstein Kiel",
+      "away_team": "FC St. Pauli",
+      "commence_time": "2026-08-14T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Holstein Kiel",
+      "odds_at_alert": 4.7,
+      "stake_pct": 5.0,
+      "confidence": 88,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T17:13:00.624374+00:00"
+    },
+    {
+      "state_key": "db767d84cbf8edaf51db1bda3eecdee7:h2h",
+      "event_id": "db767d84cbf8edaf51db1bda3eecdee7",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "Holstein Kiel",
+      "away_team": "FC St. Pauli",
+      "commence_time": "2026-08-14T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Holstein Kiel",
+      "odds_at_alert": 4.9,
+      "stake_pct": 5.0,
+      "confidence": 96,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T17:13:00.953276+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
     "1199b468b4c6a6077c72568ea51832c8:h2h|Betfair|Catania FC",
+    "db767d84cbf8edaf51db1bda3eecdee7:h2h|888sport|Holstein Kiel",
+    "db767d84cbf8edaf51db1bda3eecdee7:h2h|Betclic (FR)|Holstein Kiel",
+    "db767d84cbf8edaf51db1bda3eecdee7:h2h|Betfair|Draw",
+    "db767d84cbf8edaf51db1bda3eecdee7:h2h|Betfair|Holstein Kiel",
+    "db767d84cbf8edaf51db1bda3eecdee7:h2h|Betsson|Holstein Kiel",
+    "db767d84cbf8edaf51db1bda3eecdee7:h2h|Coolbet|Holstein Kiel",
+    "db767d84cbf8edaf51db1bda3eecdee7:h2h|LeoVegas (SE)|Holstein Kiel",
     "db767d84cbf8edaf51db1bda3eecdee7:h2h|Matchbook|FC St. Pauli",
+    "db767d84cbf8edaf51db1bda3eecdee7:h2h|Matchbook|Holstein Kiel",
+    "db767d84cbf8edaf51db1bda3eecdee7:h2h|Nordic Bet|Holstein Kiel",
+    "db767d84cbf8edaf51db1bda3eecdee7:h2h|PMU (FR)|Holstein Kiel",
+    "db767d84cbf8edaf51db1bda3eecdee7:h2h|Suprabets|Holstein Kiel",
+    "db767d84cbf8edaf51db1bda3eecdee7:h2h|Tipico|Holstein Kiel",
+    "db767d84cbf8edaf51db1bda3eecdee7:h2h|Unibet (NL)|Holstein Kiel",
+    "db767d84cbf8edaf51db1bda3eecdee7:h2h|Unibet (SE)|Holstein Kiel",
+    "db767d84cbf8edaf51db1bda3eecdee7:h2h|Winamax (DE)|Holstein Kiel",
+    "db767d84cbf8edaf51db1bda3eecdee7:h2h|Winamax (FR)|Holstein Kiel",
+    "e34b46681715aec8120a4c2931ffbfd2:h2h|Betfair|Draw",
+    "e34b46681715aec8120a4c2931ffbfd2:h2h|Betfair|Eintracht Braunschweig",
     "e34b46681715aec8120a4c2931ffbfd2:h2h|Betfair|VfL Bochum",
+    "e34b46681715aec8120a4c2931ffbfd2:h2h|Coolbet|Eintracht Braunschweig",
+    "e34b46681715aec8120a4c2931ffbfd2:h2h|Matchbook|Draw",
+    "e34b46681715aec8120a4c2931ffbfd2:h2h|Matchbook|Eintracht Braunschweig",
     "e34b46681715aec8120a4c2931ffbfd2:h2h|Matchbook|VfL Bochum",
+    "e34b46681715aec8120a4c2931ffbfd2:h2h|Unibet (NL)|Eintracht Braunschweig",
     "e34b46681715aec8120a4c2931ffbfd2:h2h|Unibet (NL)|VfL Bochum",
     "e34b46681715aec8120a4c2931ffbfd2:h2h|Unibet (SE)|VfL Bochum"
   ]
