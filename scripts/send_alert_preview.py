@@ -12,8 +12,8 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
-from scripts.detect_suspicious import _format_alert, _format_value_alert, _send_alert
-from suspect import MatchAnalysis, Signal, ValueBet
+from scripts.detect_suspicious import _format_value_alert, _send_alert
+from suspect import ValueBet
 
 FAKE_FOOTBALL_EVENT = {
     "sport_title": "Ligue 1",
@@ -41,22 +41,6 @@ def main() -> None:
     )
     _send_alert("🔎 Exemple d'alerte (aperçu du nouveau format) :\n\n" + _format_value_alert(FAKE_FOOTBALL_EVENT, "Cotes 1X2", value_bet))
 
-    analysis = MatchAnalysis(
-        signals=[
-            Signal(
-                category="massive_bet",
-                text="Mises massives suspectées sur « Équipe A » (cote 2.80 → 2.40, -14%)",
-                magnitude=0.14,
-                outcome="Équipe A",
-            )
-        ],
-        confidence=65,
-        stake_pct=3.0,
-        selection="Équipe A",
-        odds_at_alert=2.40,
-    )
-    _send_alert("🔎 Exemple d'alerte (aperçu du nouveau format) :\n\n" + _format_alert(FAKE_FOOTBALL_EVENT, "Cotes 1X2", analysis))
-
     tennis_value_bet = ValueBet(
         bookmaker="Betfair",
         outcome="Novak Djokovic",
@@ -70,7 +54,7 @@ def main() -> None:
         + _format_value_alert(FAKE_TENNIS_EVENT, "Vainqueur du match", tennis_value_bet)
     )
 
-    print("3 exemples envoyés.")
+    print("2 exemples envoyés.")
 
 
 if __name__ == "__main__":
