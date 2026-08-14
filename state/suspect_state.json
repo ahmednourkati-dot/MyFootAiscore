@@ -1,307 +1,271 @@
 {
   "snapshots": {
-    "dd06fab13c4861592da993d2d742c27b:h2h": {
-      "Unibet (NL)": {
-        "LDU Quito": 5.6,
-        "Mirassol": 1.67,
-        "Draw": 3.35
-      },
-      "Tipico": {
-        "LDU Quito": 6.2,
-        "Mirassol": 1.6,
-        "Draw": 3.5
-      },
-      "LeoVegas (SE)": {
-        "LDU Quito": 5.4,
-        "Mirassol": 1.65,
-        "Draw": 3.3
-      },
-      "Unibet (FR)": {
-        "LDU Quito": 5.7,
-        "Mirassol": 1.57,
-        "Draw": 3.35
-      },
-      "1xBet": {
-        "LDU Quito": 6.12,
-        "Mirassol": 1.7,
-        "Draw": 3.45
-      },
-      "Marathon Bet": {
-        "LDU Quito": 5.95,
-        "Mirassol": 1.65,
-        "Draw": 3.35
-      },
-      "Betclic (FR)": {
-        "LDU Quito": 5.9,
-        "Mirassol": 1.63,
-        "Draw": 3.37
-      },
-      "Betsson": {
-        "LDU Quito": 5.4,
-        "Mirassol": 1.7,
-        "Draw": 3.3
-      },
-      "Nordic Bet": {
-        "LDU Quito": 5.4,
-        "Mirassol": 1.7,
-        "Draw": 3.3
-      },
-      "Suprabets": {
-        "LDU Quito": 6.2,
-        "Mirassol": 1.64,
-        "Draw": 3.35
-      },
-      "Codere (IT)": {
-        "LDU Quito": 5.8,
-        "Mirassol": 1.66,
-        "Draw": 3.4
-      },
-      "Coolbet": {
-        "LDU Quito": 6.2,
-        "Mirassol": 1.7,
-        "Draw": 3.4
-      },
-      "PMU (FR)": {
-        "LDU Quito": 5.25,
-        "Mirassol": 1.6,
-        "Draw": 3.2
-      },
-      "Pinnacle": {
-        "LDU Quito": 6.37,
-        "Mirassol": 1.67,
-        "Draw": 3.48
-      },
-      "888sport": {
-        "LDU Quito": 5.75,
-        "Mirassol": 1.67,
-        "Draw": 3.2
-      },
-      "William Hill": {
-        "LDU Quito": 5.8,
-        "Mirassol": 1.67,
-        "Draw": 3.2
-      },
-      "GTbets": {
-        "LDU Quito": 5.74,
-        "Mirassol": 1.68,
-        "Draw": 3.38
-      },
-      "BetOnline.ag": {
-        "LDU Quito": 6.19,
-        "Mirassol": 1.68,
-        "Draw": 3.44
-      },
-      "Betfair": {
-        "LDU Quito": 6.8,
-        "Mirassol": 1.72,
-        "Draw": 3.65
-      }
-    },
-    "e72550103b740fd8b9b9b900fa9c1d87:h2h": {
-      "Unibet (FR)": {
-        "Macará": 7.8,
-        "Santos": 1.37,
-        "Draw": 4.0
-      },
-      "Codere (IT)": {
-        "Macará": 8.2,
-        "Santos": 1.37,
-        "Draw": 4.6
-      },
-      "1xBet": {
-        "Macará": 10.8,
-        "Santos": 1.4,
-        "Draw": 4.71
-      },
-      "Betfair": {
-        "Macará": 9.8,
-        "Santos": 1.42,
-        "Draw": 5.0
-      },
-      "888sport": {
-        "Macará": 8.5,
-        "Santos": 1.36,
-        "Draw": 4.33
-      },
-      "William Hill": {
-        "Macará": 8.5,
-        "Santos": 1.36,
-        "Draw": 4.33
-      },
-      "Coolbet": {
-        "Macará": 9.25,
-        "Santos": 1.39,
-        "Draw": 4.6
-      },
-      "Pinnacle": {
-        "Macará": 9.45,
-        "Santos": 1.39,
-        "Draw": 4.29
-      },
-      "Nordic Bet": {
-        "Macará": 8.3,
-        "Santos": 1.35,
-        "Draw": 4.35
-      },
-      "PMU (FR)": {
-        "Macará": 7.5,
-        "Santos": 1.3,
-        "Draw": 4.4
-      },
-      "LeoVegas (SE)": {
-        "Macará": 7.5,
-        "Santos": 1.3,
-        "Draw": 4.4
-      },
-      "Unibet (NL)": {
-        "Macará": 8.0,
-        "Santos": 1.36,
-        "Draw": 4.7
-      }
-    },
-    "154087d9648994908d9fd4dcf6d28d37:h2h": {
-      "Unibet (FR)": {
-        "Olimpia Asunción": 4.8,
-        "Vasco da Gama": 1.68,
-        "Draw": 3.25
-      },
-      "Codere (IT)": {
-        "Olimpia Asunción": 4.9,
-        "Vasco da Gama": 1.78,
-        "Draw": 3.3
-      },
-      "1xBet": {
-        "Olimpia Asunción": 5.48,
-        "Vasco da Gama": 1.84,
-        "Draw": 3.4
-      },
-      "888sport": {
-        "Olimpia Asunción": 4.8,
-        "Vasco da Gama": 1.75,
-        "Draw": 3.1
-      },
-      "William Hill": {
-        "Olimpia Asunción": 4.8,
-        "Vasco da Gama": 1.75,
-        "Draw": 3.1
-      },
-      "Pinnacle": {
-        "Olimpia Asunción": 5.34,
-        "Vasco da Gama": 1.77,
-        "Draw": 3.33
-      },
-      "Coolbet": {
-        "Olimpia Asunción": 5.15,
-        "Vasco da Gama": 1.8,
-        "Draw": 3.4
-      },
-      "Nordic Bet": {
-        "Olimpia Asunción": 4.95,
-        "Vasco da Gama": 1.75,
-        "Draw": 3.15
-      },
-      "PMU (FR)": {
-        "Olimpia Asunción": 4.5,
-        "Vasco da Gama": 1.71,
-        "Draw": 3.1
-      },
-      "LeoVegas (SE)": {
-        "Olimpia Asunción": 4.5,
-        "Vasco da Gama": 1.71,
-        "Draw": 3.1
-      },
-      "Unibet (NL)": {
-        "Olimpia Asunción": 4.8,
-        "Vasco da Gama": 1.78,
-        "Draw": 3.3
-      },
-      "Betfair": {
-        "Olimpia Asunción": 5.8,
-        "Vasco da Gama": 1.8,
-        "Draw": 3.6
-      }
-    },
     "c079af5ec4257d3b5961b22f78e6be4e:h2h": {
       "Coolbet": {
-        "Philadelphia Union": 1.44,
-        "Santos Laguna": 6.5,
+        "Philadelphia Union": 18.0,
+        "Santos Laguna": 1.14,
+        "Draw": 6.5
+      },
+      "Winamax (DE)": {
+        "Philadelphia Union": 21.0,
+        "Santos Laguna": 1.12,
+        "Draw": 6.5
+      },
+      "Nordic Bet": {
+        "Philadelphia Union": 17.5,
+        "Santos Laguna": 1.12,
+        "Draw": 6.8
+      },
+      "Betsson": {
+        "Philadelphia Union": 17.5,
+        "Santos Laguna": 1.12,
+        "Draw": 6.8
+      },
+      "Winamax (FR)": {
+        "Philadelphia Union": 21.0,
+        "Santos Laguna": 1.14,
+        "Draw": 6.5
+      },
+      "888sport": {
+        "Philadelphia Union": 17.0,
+        "Santos Laguna": 1.12,
+        "Draw": 6.5
+      },
+      "Unibet (SE)": {
+        "Philadelphia Union": 18.0,
+        "Santos Laguna": 1.15,
+        "Draw": 6.75
+      },
+      "Unibet (NL)": {
+        "Philadelphia Union": 18.0,
+        "Santos Laguna": 1.15,
+        "Draw": 6.75
+      },
+      "PMU (FR)": {
+        "Philadelphia Union": 17.0,
+        "Santos Laguna": 1.1,
+        "Draw": 6.1
+      },
+      "LeoVegas (SE)": {
+        "Philadelphia Union": 17.0,
+        "Santos Laguna": 1.12,
+        "Draw": 6.1
+      },
+      "Betfair": {
+        "Philadelphia Union": 27.0,
+        "Santos Laguna": 1.17,
+        "Draw": 8.2
+      },
+      "Pinnacle": {
+        "Philadelphia Union": 15.71,
+        "Santos Laguna": 1.18,
+        "Draw": 6.3
+      }
+    },
+    "0b7f87771667252b35f38595907eec83:h2h": {
+      "Betsson": {
+        "Necaxa": 12.5,
+        "New York City FC": 1.23,
+        "Draw": 4.85
+      },
+      "Nordic Bet": {
+        "Necaxa": 12.5,
+        "New York City FC": 1.23,
+        "Draw": 4.85
+      },
+      "Coolbet": {
+        "Necaxa": 12.5,
+        "New York City FC": 1.22,
         "Draw": 5.0
       },
       "Winamax (DE)": {
-        "Philadelphia Union": 1.42,
-        "Santos Laguna": 5.4,
-        "Draw": 4.8
-      },
-      "Nordic Bet": {
-        "Philadelphia Union": 1.45,
-        "Santos Laguna": 5.9,
-        "Draw": 4.65
-      },
-      "Betsson": {
-        "Philadelphia Union": 1.45,
-        "Santos Laguna": 5.9,
-        "Draw": 4.65
+        "Necaxa": 11.0,
+        "New York City FC": 1.26,
+        "Draw": 4.7
       },
       "Winamax (FR)": {
-        "Philadelphia Union": 1.41,
-        "Santos Laguna": 5.3,
-        "Draw": 4.6
-      },
-      "1xBet": {
-        "Philadelphia Union": 1.42,
-        "Santos Laguna": 6.23,
-        "Draw": 4.8
+        "Necaxa": 10.0,
+        "New York City FC": 1.28,
+        "Draw": 4.4
       },
       "888sport": {
-        "Philadelphia Union": 1.4,
-        "Santos Laguna": 5.0,
-        "Draw": 4.33
-      },
-      "William Hill": {
-        "Philadelphia Union": 1.4,
-        "Santos Laguna": 5.0,
-        "Draw": 4.33
-      },
-      "Unibet (SE)": {
-        "Philadelphia Union": 1.44,
-        "Santos Laguna": 5.8,
-        "Draw": 4.9
-      },
-      "Unibet (NL)": {
-        "Philadelphia Union": 1.44,
-        "Santos Laguna": 5.8,
-        "Draw": 4.9
-      },
-      "PMU (FR)": {
-        "Philadelphia Union": 1.44,
-        "Santos Laguna": 5.8,
-        "Draw": 4.9
+        "Necaxa": 10.0,
+        "New York City FC": 1.25,
+        "Draw": 4.4
       },
       "LeoVegas (SE)": {
-        "Philadelphia Union": 1.44,
-        "Santos Laguna": 5.8,
-        "Draw": 4.9
+        "Necaxa": 11.5,
+        "New York City FC": 1.22,
+        "Draw": 4.8
       },
-      "Betfair": {
-        "Philadelphia Union": 1.48,
-        "Santos Laguna": 6.8,
-        "Draw": 5.2
+      "Unibet (SE)": {
+        "Necaxa": 12.0,
+        "New York City FC": 1.26,
+        "Draw": 5.0
+      },
+      "PMU (FR)": {
+        "Necaxa": 11.0,
+        "New York City FC": 1.2,
+        "Draw": 4.7
+      },
+      "Unibet (NL)": {
+        "Necaxa": 12.0,
+        "New York City FC": 1.26,
+        "Draw": 5.0
       },
       "Pinnacle": {
-        "Philadelphia Union": 1.44,
-        "Santos Laguna": 6.17,
-        "Draw": 4.97
+        "Necaxa": 12.47,
+        "New York City FC": 1.27,
+        "Draw": 4.92
+      },
+      "Betfair": {
+        "Necaxa": 13.5,
+        "New York City FC": 1.34,
+        "Draw": 5.3
+      }
+    },
+    "be758cd5b2259976befc03f08bec1cd1:h2h": {
+      "Coolbet": {
+        "América": 2.03,
+        "Austin FC": 3.6,
+        "Draw": 3.6
+      },
+      "Winamax (DE)": {
+        "América": 1.92,
+        "Austin FC": 3.55,
+        "Draw": 3.4
+      },
+      "Nordic Bet": {
+        "América": 1.95,
+        "Austin FC": 3.75,
+        "Draw": 3.35
+      },
+      "Betsson": {
+        "América": 1.95,
+        "Austin FC": 3.75,
+        "Draw": 3.35
+      },
+      "Winamax (FR)": {
+        "América": 1.84,
+        "Austin FC": 3.6,
+        "Draw": 3.15
+      },
+      "1xBet": {
+        "América": 1.92,
+        "Austin FC": 4.15,
+        "Draw": 3.44
+      },
+      "888sport": {
+        "América": 1.85,
+        "Austin FC": 3.6,
+        "Draw": 3.1
+      },
+      "William Hill": {
+        "América": 1.85,
+        "Austin FC": 3.6,
+        "Draw": 3.1
+      },
+      "LeoVegas (SE)": {
+        "América": 1.89,
+        "Austin FC": 3.95,
+        "Draw": 3.4
+      },
+      "Unibet (NL)": {
+        "América": 1.94,
+        "Austin FC": 4.1,
+        "Draw": 3.5
+      },
+      "Unibet (SE)": {
+        "América": 1.96,
+        "Austin FC": 4.1,
+        "Draw": 3.5
+      },
+      "PMU (FR)": {
+        "América": 1.85,
+        "Austin FC": 3.9,
+        "Draw": 3.3
+      },
+      "Betfair": {
+        "América": 2.02,
+        "Austin FC": 4.1,
+        "Draw": 3.75
+      },
+      "Pinnacle": {
+        "América": 1.98,
+        "Austin FC": 4.0,
+        "Draw": 3.51
       },
       "BetOnline.ag": {
-        "Philadelphia Union": 1.45,
-        "Santos Laguna": 6.27,
-        "Draw": 4.92
+        "América": 1.97,
+        "Austin FC": 3.97,
+        "Draw": 3.44
+      }
+    },
+    "cf6163b5889712ab39c06aea708a5696:h2h": {
+      "Coolbet": {
+        "Botafogo": 2.7,
+        "Club Cienciano": 2.65,
+        "Draw": 3.3
+      },
+      "Unibet (FR)": {
+        "Botafogo": 2.4,
+        "Club Cienciano": 2.6,
+        "Draw": 3.15
+      },
+      "Codere (IT)": {
+        "Botafogo": 2.6,
+        "Club Cienciano": 2.65,
+        "Draw": 3.25
+      },
+      "1xBet": {
+        "Botafogo": 2.71,
+        "Club Cienciano": 2.58,
+        "Draw": 3.2
+      },
+      "888sport": {
+        "Botafogo": 2.62,
+        "Club Cienciano": 2.62,
+        "Draw": 3.0
+      },
+      "William Hill": {
+        "Botafogo": 2.62,
+        "Club Cienciano": 2.62,
+        "Draw": 3.0
+      },
+      "Pinnacle": {
+        "Botafogo": 2.62,
+        "Club Cienciano": 2.77,
+        "Draw": 3.27
+      },
+      "Nordic Bet": {
+        "Botafogo": 2.62,
+        "Club Cienciano": 2.58,
+        "Draw": 3.15
+      },
+      "PMU (FR)": {
+        "Botafogo": 2.6,
+        "Club Cienciano": 2.48,
+        "Draw": 2.95
+      },
+      "LeoVegas (SE)": {
+        "Botafogo": 2.6,
+        "Club Cienciano": 2.48,
+        "Draw": 2.95
+      },
+      "Unibet (NL)": {
+        "Botafogo": 2.75,
+        "Club Cienciano": 2.6,
+        "Draw": 3.15
+      },
+      "Betfair": {
+        "Botafogo": 2.72,
+        "Club Cienciano": 2.9,
+        "Draw": 3.3
       }
     }
   },
   "alerted": [
-    "c079af5ec4257d3b5961b22f78e6be4e:h2h",
-    "e72550103b740fd8b9b9b900fa9c1d87:h2h"
+    "c079af5ec4257d3b5961b22f78e6be4e:h2h"
   ],
   "pending_results": [
     {
@@ -1199,13 +1163,128 @@
       "confidence": 40,
       "alert_type": "suspicious",
       "alerted_at": "2026-08-13T21:19:18.346658+00:00"
+    },
+    {
+      "state_key": "c079af5ec4257d3b5961b22f78e6be4e:h2h",
+      "event_id": "c079af5ec4257d3b5961b22f78e6be4e",
+      "sport_key": "soccer",
+      "competition": "Leagues Cup",
+      "home_team": "Philadelphia Union",
+      "away_team": "Santos Laguna",
+      "commence_time": "2026-08-13T23:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Philadelphia Union",
+      "odds_at_alert": 18.0,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T00:30:33.261913+00:00"
+    },
+    {
+      "state_key": "c079af5ec4257d3b5961b22f78e6be4e:h2h",
+      "event_id": "c079af5ec4257d3b5961b22f78e6be4e",
+      "sport_key": "soccer",
+      "competition": "Leagues Cup",
+      "home_team": "Philadelphia Union",
+      "away_team": "Santos Laguna",
+      "commence_time": "2026-08-13T23:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Philadelphia Union",
+      "odds_at_alert": 21.0,
+      "stake_pct": 5.0,
+      "confidence": 25,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T00:30:33.572408+00:00"
+    },
+    {
+      "state_key": "c079af5ec4257d3b5961b22f78e6be4e:h2h",
+      "event_id": "c079af5ec4257d3b5961b22f78e6be4e",
+      "sport_key": "soccer",
+      "competition": "Leagues Cup",
+      "home_team": "Philadelphia Union",
+      "away_team": "Santos Laguna",
+      "commence_time": "2026-08-13T23:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Philadelphia Union",
+      "odds_at_alert": 21.0,
+      "stake_pct": 5.0,
+      "confidence": 25,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T00:30:33.886066+00:00"
+    },
+    {
+      "state_key": "c079af5ec4257d3b5961b22f78e6be4e:h2h",
+      "event_id": "c079af5ec4257d3b5961b22f78e6be4e",
+      "sport_key": "soccer",
+      "competition": "Leagues Cup",
+      "home_team": "Philadelphia Union",
+      "away_team": "Santos Laguna",
+      "commence_time": "2026-08-13T23:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Philadelphia Union",
+      "odds_at_alert": 18.0,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T00:30:34.202975+00:00"
+    },
+    {
+      "state_key": "c079af5ec4257d3b5961b22f78e6be4e:h2h",
+      "event_id": "c079af5ec4257d3b5961b22f78e6be4e",
+      "sport_key": "soccer",
+      "competition": "Leagues Cup",
+      "home_team": "Philadelphia Union",
+      "away_team": "Santos Laguna",
+      "commence_time": "2026-08-13T23:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Philadelphia Union",
+      "odds_at_alert": 18.0,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T00:30:34.533638+00:00"
+    },
+    {
+      "state_key": "c079af5ec4257d3b5961b22f78e6be4e:h2h",
+      "event_id": "c079af5ec4257d3b5961b22f78e6be4e",
+      "sport_key": "soccer",
+      "competition": "Leagues Cup",
+      "home_team": "Philadelphia Union",
+      "away_team": "Santos Laguna",
+      "commence_time": "2026-08-13T23:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Philadelphia Union",
+      "odds_at_alert": 27.0,
+      "stake_pct": 5.0,
+      "confidence": 61,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T00:30:34.864304+00:00"
+    },
+    {
+      "state_key": "c079af5ec4257d3b5961b22f78e6be4e:h2h",
+      "event_id": "c079af5ec4257d3b5961b22f78e6be4e",
+      "sport_key": "soccer",
+      "competition": "Leagues Cup",
+      "home_team": "Philadelphia Union",
+      "away_team": "Santos Laguna",
+      "commence_time": "2026-08-13T23:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 8.2,
+      "stake_pct": 5.0,
+      "confidence": 22,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T00:30:35.194698+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "e72550103b740fd8b9b9b900fa9c1d87:h2h|1xBet|Macará",
-    "e72550103b740fd8b9b9b900fa9c1d87:h2h|Betfair|Draw",
-    "e72550103b740fd8b9b9b900fa9c1d87:h2h|Codere (IT)|Draw",
-    "e72550103b740fd8b9b9b900fa9c1d87:h2h|Unibet (NL)|Draw"
+    "c079af5ec4257d3b5961b22f78e6be4e:h2h|Betfair|Draw",
+    "c079af5ec4257d3b5961b22f78e6be4e:h2h|Betfair|Philadelphia Union",
+    "c079af5ec4257d3b5961b22f78e6be4e:h2h|Coolbet|Philadelphia Union",
+    "c079af5ec4257d3b5961b22f78e6be4e:h2h|Unibet (NL)|Philadelphia Union",
+    "c079af5ec4257d3b5961b22f78e6be4e:h2h|Unibet (SE)|Philadelphia Union",
+    "c079af5ec4257d3b5961b22f78e6be4e:h2h|Winamax (DE)|Philadelphia Union",
+    "c079af5ec4257d3b5961b22f78e6be4e:h2h|Winamax (FR)|Philadelphia Union"
   ]
 }
