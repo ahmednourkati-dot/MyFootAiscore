@@ -1,179 +1,149 @@
 {
   "snapshots": {
-    "758b0daefc6f97c8db3facf89737c183:h2h": {
+    "9b2eb6f40c4bf684651dd6bc6234389a:h2h": {
+      "Winamax (FR)": {
+        "CD Castellón": 1.02,
+        "Real Sociedad B": 900.0,
+        "Draw": 24.0
+      },
+      "Winamax (DE)": {
+        "CD Castellón": 1.01,
+        "Real Sociedad B": 900.0,
+        "Draw": 24.0
+      },
       "Betclic (FR)": {
-        "LASK": 1.0,
-        "Ried": 100.0,
+        "CD Castellón": 1.0,
+        "Real Sociedad B": 100.0,
+        "Draw": 22.0
+      },
+      "Betfair": {
+        "CD Castellón": 1.01,
+        "Real Sociedad B": 6.0,
+        "Draw": 34.0
+      },
+      "Coolbet": {
+        "CD Castellón": 1.0,
+        "Real Sociedad B": 100.0,
+        "Draw": 16.0
+      },
+      "Betsson": {
+        "CD Castellón": 1.03,
+        "Real Sociedad B": 80.0,
+        "Draw": 15.0
+      }
+    },
+    "5df50503e8cb89c43d21bf9d7ced1aab:h2h": {
+      "Pinnacle": {
+        "Galatasaray": 7.29,
+        "Çorum FK": 1.74,
+        "Draw": 2.74
+      },
+      "Betclic (FR)": {
+        "Galatasaray": 8.75,
+        "Çorum FK": 25.0,
+        "Draw": 1.04
+      },
+      "Tipico": {
+        "Galatasaray": 8.5,
+        "Çorum FK": 35.0,
+        "Draw": 1.06
+      },
+      "Betsson": {
+        "Galatasaray": 5.35,
+        "Çorum FK": 43.0,
+        "Draw": 1.16
+      },
+      "Betfair": {
+        "Galatasaray": 1.07,
+        "Çorum FK": 1.11
+      },
+      "Nordic Bet": {
+        "Galatasaray": 4.1,
+        "Çorum FK": 32.0,
+        "Draw": 1.26
+      },
+      "Unibet (SE)": {
+        "Galatasaray": 7.5,
+        "Çorum FK": 41.0,
+        "Draw": 1.09
+      },
+      "LeoVegas (SE)": {
+        "Galatasaray": 7.0,
+        "Çorum FK": 36.0,
+        "Draw": 1.04
+      },
+      "Unibet (NL)": {
+        "Galatasaray": 7.5,
+        "Çorum FK": 41.0,
+        "Draw": 1.09
+      },
+      "Coolbet": {
+        "Galatasaray": 30.0,
+        "Çorum FK": 66.0,
+        "Draw": 1.01
+      },
+      "Matchbook": {
+        "Galatasaray": 12.5,
+        "Çorum FK": 85.0,
+        "Draw": 1.05
+      }
+    },
+    "c2cf5fc907343f7be13751c7c14c3df2:h2h": {
+      "Betclic (FR)": {
+        "Legia Warszawa": 1.0,
+        "Radomiak Radom": 100.0,
         "Draw": 40.0
       },
       "Betsson": {
-        "LASK": 1.0,
-        "Ried": 21.0,
-        "Draw": 21.0
+        "Legia Warszawa": 1.0,
+        "Radomiak Radom": 1.0,
+        "Draw": 81.0
       },
       "Nordic Bet": {
-        "LASK": 1.0,
-        "Ried": 1.0,
+        "Legia Warszawa": 1.0,
+        "Radomiak Radom": 1.0,
         "Draw": 1.0
       }
     },
-    "d6684686e67db7f454cf250ed12f71cf:h2h": {
-      "Betclic (FR)": {
-        "Al-Ettifaq": 1.73,
-        "Al-Riyadh": 9.5,
-        "Draw": 2.27
-      },
-      "888sport": {
-        "Al-Ettifaq": 1.8,
-        "Al-Riyadh": 9.0,
-        "Draw": 2.15
-      },
-      "Unibet (NL)": {
-        "Al-Ettifaq": 2.08,
-        "Al-Riyadh": 7.0,
-        "Draw": 1.97
-      },
-      "Winamax (DE)": {
-        "Al-Ettifaq": 1.84,
-        "Al-Riyadh": 10.0,
-        "Draw": 2.15
-      },
-      "Unibet (SE)": {
-        "Al-Ettifaq": 2.18,
-        "Al-Riyadh": 7.5,
-        "Draw": 2.07
-      },
-      "Tipico": {
-        "Al-Ettifaq": 1.75,
-        "Al-Riyadh": 14.0,
-        "Draw": 2.2
-      },
-      "Winamax (FR)": {
-        "Al-Ettifaq": 1.76,
-        "Al-Riyadh": 9.0,
-        "Draw": 2.05
-      },
-      "LeoVegas (SE)": {
-        "Al-Ettifaq": 2.07,
-        "Al-Riyadh": 6.75,
-        "Draw": 1.95
-      },
-      "PMU (FR)": {
-        "Al-Ettifaq": 1.97,
-        "Al-Riyadh": 6.4,
-        "Draw": 1.83
-      },
-      "Betfair": {
-        "Al-Ettifaq": 2.02,
-        "Al-Riyadh": 10.5,
-        "Draw": 2.38
-      }
-    },
-    "37aab8d06d1d78e667f1dd74a2ca5ef2:h2h": {
-      "Coolbet": {
-        "SC Telstar": 80.0,
-        "Sparta Rotterdam": 1.04,
-        "Draw": 15.0
-      },
-      "Betclic (FR)": {
-        "SC Telstar": 50.0,
-        "Sparta Rotterdam": 1.01,
-        "Draw": 14.25
-      },
-      "Betfair": {
-        "SC Telstar": 85.0,
-        "Sparta Rotterdam": 1.06,
-        "Draw": 17.5
-      },
-      "Winamax (FR)": {
-        "SC Telstar": 75.0,
-        "Sparta Rotterdam": 1.04,
-        "Draw": 15.0
-      },
-      "Winamax (DE)": {
-        "SC Telstar": 75.0,
-        "Sparta Rotterdam": 1.02,
-        "Draw": 16.0
-      },
-      "888sport": {
-        "SC Telstar": 51.0,
-        "Sparta Rotterdam": 1.04,
-        "Draw": 13.0
-      },
+    "a6a383e01bd5cb148af941329d79199e:h2h": {
       "Nordic Bet": {
-        "SC Telstar": 46.0,
-        "Sparta Rotterdam": 1.03,
-        "Draw": 12.0
+        "Annecy FC": 1.0,
+        "Rodez AF": 46.0,
+        "Draw": 19.0
       },
       "Betsson": {
-        "SC Telstar": 46.0,
-        "Sparta Rotterdam": 1.03,
-        "Draw": 12.0
-      },
-      "Tipico": {
-        "SC Telstar": 80.0,
-        "Sparta Rotterdam": 1.02,
-        "Draw": 13.0
-      },
-      "Unibet (SE)": {
-        "SC Telstar": 56.0,
-        "Sparta Rotterdam": 1.03,
-        "Draw": 14.0
-      },
-      "Unibet (NL)": {
-        "SC Telstar": 56.0,
-        "Sparta Rotterdam": 1.03,
-        "Draw": 14.0
-      },
-      "Matchbook": {
-        "SC Telstar": 85.0,
-        "Sparta Rotterdam": 1.06,
-        "Draw": 17.0
-      }
-    },
-    "1aae59eaaab7fca0c6df78d7689d4e58:h2h": {
-      "Betfair": {
-        "Al-Faisaly KSA FC": 75.0,
-        "Al-Hilal": 1.1,
-        "Draw": 10.5
-      },
-      "Winamax (FR)": {
-        "Al-Faisaly KSA FC": 55.0,
-        "Al-Hilal": 1.05,
-        "Draw": 9.0
-      },
-      "Unibet (SE)": {
-        "Al-Faisaly KSA FC": 41.0,
-        "Al-Hilal": 1.06,
-        "Draw": 10.0
-      },
-      "Unibet (NL)": {
-        "Al-Faisaly KSA FC": 41.0,
-        "Al-Hilal": 1.02,
-        "Draw": 9.5
-      },
-      "LeoVegas (SE)": {
-        "Al-Faisaly KSA FC": 36.0,
-        "Al-Hilal": 1.02,
-        "Draw": 9.5
-      },
-      "Winamax (DE)": {
-        "Al-Faisaly KSA FC": 55.0,
-        "Al-Hilal": 1.04,
-        "Draw": 10.0
+        "Annecy FC": 1.0,
+        "Rodez AF": 51.0,
+        "Draw": 19.0
       },
       "Betclic (FR)": {
-        "Al-Faisaly KSA FC": 40.0,
-        "Al-Hilal": 1.02,
-        "Draw": 9.25
+        "Annecy FC": 1.0,
+        "Rodez AF": 100.0,
+        "Draw": 40.0
+      },
+      "Winamax (DE)": {
+        "Annecy FC": 1.01,
+        "Rodez AF": 160.0,
+        "Draw": 32.0
+      },
+      "Winamax (FR)": {
+        "Annecy FC": 1.01,
+        "Rodez AF": 160.0,
+        "Draw": 32.0
+      },
+      "888sport": {
+        "Annecy FC": 1.0,
+        "Rodez AF": 151.0,
+        "Draw": 56.0
+      },
+      "Betfair": {
+        "Annecy FC": 1.01,
+        "Rodez AF": 11.5,
+        "Draw": 46.0
       }
     }
   },
-  "alerted": [
-    "37aab8d06d1d78e667f1dd74a2ca5ef2:h2h",
-    "758b0daefc6f97c8db3facf89737c183:h2h",
-    "d6684686e67db7f454cf250ed12f71cf:h2h"
-  ],
+  "alerted": [],
   "pending_results": [
     {
       "state_key": "398d07703c866bb0315c56cd1ce6e035:h2h",
@@ -3598,28 +3568,230 @@
       "confidence": 80,
       "alert_type": "suspicious",
       "alerted_at": "2026-08-14T19:33:36.757068+00:00"
+    },
+    {
+      "state_key": "5df50503e8cb89c43d21bf9d7ced1aab:h2h",
+      "event_id": "5df50503e8cb89c43d21bf9d7ced1aab",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Galatasaray",
+      "away_team": "Çorum FK",
+      "commence_time": "2026-08-14T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Galatasaray",
+      "odds_at_alert": 8.75,
+      "stake_pct": 3.0,
+      "confidence": 11,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T20:34:04.165128+00:00"
+    },
+    {
+      "state_key": "5df50503e8cb89c43d21bf9d7ced1aab:h2h",
+      "event_id": "5df50503e8cb89c43d21bf9d7ced1aab",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Galatasaray",
+      "away_team": "Çorum FK",
+      "commence_time": "2026-08-14T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Çorum FK",
+      "odds_at_alert": 25.0,
+      "stake_pct": 5.0,
+      "confidence": 1234,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T20:34:04.534712+00:00"
+    },
+    {
+      "state_key": "5df50503e8cb89c43d21bf9d7ced1aab:h2h",
+      "event_id": "5df50503e8cb89c43d21bf9d7ced1aab",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Galatasaray",
+      "away_team": "Çorum FK",
+      "commence_time": "2026-08-14T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Galatasaray",
+      "odds_at_alert": 8.5,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T20:34:04.910948+00:00"
+    },
+    {
+      "state_key": "5df50503e8cb89c43d21bf9d7ced1aab:h2h",
+      "event_id": "5df50503e8cb89c43d21bf9d7ced1aab",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Galatasaray",
+      "away_team": "Çorum FK",
+      "commence_time": "2026-08-14T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Çorum FK",
+      "odds_at_alert": 35.0,
+      "stake_pct": 5.0,
+      "confidence": 1768,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T20:34:05.278166+00:00"
+    },
+    {
+      "state_key": "5df50503e8cb89c43d21bf9d7ced1aab:h2h",
+      "event_id": "5df50503e8cb89c43d21bf9d7ced1aab",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Galatasaray",
+      "away_team": "Çorum FK",
+      "commence_time": "2026-08-14T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Çorum FK",
+      "odds_at_alert": 43.0,
+      "stake_pct": 5.0,
+      "confidence": 2195,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T20:34:05.652306+00:00"
+    },
+    {
+      "state_key": "5df50503e8cb89c43d21bf9d7ced1aab:h2h",
+      "event_id": "5df50503e8cb89c43d21bf9d7ced1aab",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Galatasaray",
+      "away_team": "Çorum FK",
+      "commence_time": "2026-08-14T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Çorum FK",
+      "odds_at_alert": 32.0,
+      "stake_pct": 5.0,
+      "confidence": 1608,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T20:34:06.013648+00:00"
+    },
+    {
+      "state_key": "5df50503e8cb89c43d21bf9d7ced1aab:h2h",
+      "event_id": "5df50503e8cb89c43d21bf9d7ced1aab",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Galatasaray",
+      "away_team": "Çorum FK",
+      "commence_time": "2026-08-14T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Çorum FK",
+      "odds_at_alert": 41.0,
+      "stake_pct": 5.0,
+      "confidence": 2088,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T20:34:06.374723+00:00"
+    },
+    {
+      "state_key": "5df50503e8cb89c43d21bf9d7ced1aab:h2h",
+      "event_id": "5df50503e8cb89c43d21bf9d7ced1aab",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Galatasaray",
+      "away_team": "Çorum FK",
+      "commence_time": "2026-08-14T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Çorum FK",
+      "odds_at_alert": 36.0,
+      "stake_pct": 5.0,
+      "confidence": 1821,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T20:34:06.754307+00:00"
+    },
+    {
+      "state_key": "5df50503e8cb89c43d21bf9d7ced1aab:h2h",
+      "event_id": "5df50503e8cb89c43d21bf9d7ced1aab",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Galatasaray",
+      "away_team": "Çorum FK",
+      "commence_time": "2026-08-14T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Çorum FK",
+      "odds_at_alert": 41.0,
+      "stake_pct": 5.0,
+      "confidence": 2088,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T20:34:07.113082+00:00"
+    },
+    {
+      "state_key": "5df50503e8cb89c43d21bf9d7ced1aab:h2h",
+      "event_id": "5df50503e8cb89c43d21bf9d7ced1aab",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Galatasaray",
+      "away_team": "Çorum FK",
+      "commence_time": "2026-08-14T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Galatasaray",
+      "odds_at_alert": 30.0,
+      "stake_pct": 5.0,
+      "confidence": 282,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T20:34:07.508235+00:00"
+    },
+    {
+      "state_key": "5df50503e8cb89c43d21bf9d7ced1aab:h2h",
+      "event_id": "5df50503e8cb89c43d21bf9d7ced1aab",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Galatasaray",
+      "away_team": "Çorum FK",
+      "commence_time": "2026-08-14T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Çorum FK",
+      "odds_at_alert": 66.0,
+      "stake_pct": 5.0,
+      "confidence": 3422,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T20:34:07.867302+00:00"
+    },
+    {
+      "state_key": "5df50503e8cb89c43d21bf9d7ced1aab:h2h",
+      "event_id": "5df50503e8cb89c43d21bf9d7ced1aab",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Galatasaray",
+      "away_team": "Çorum FK",
+      "commence_time": "2026-08-14T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Galatasaray",
+      "odds_at_alert": 12.5,
+      "stake_pct": 5.0,
+      "confidence": 59,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T20:34:08.263010+00:00"
+    },
+    {
+      "state_key": "5df50503e8cb89c43d21bf9d7ced1aab:h2h",
+      "event_id": "5df50503e8cb89c43d21bf9d7ced1aab",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Galatasaray",
+      "away_team": "Çorum FK",
+      "commence_time": "2026-08-14T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Çorum FK",
+      "odds_at_alert": 85.0,
+      "stake_pct": 5.0,
+      "confidence": 4436,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T20:34:08.625123+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "37aab8d06d1d78e667f1dd74a2ca5ef2:h2h|Betclic (FR)|Draw",
-    "37aab8d06d1d78e667f1dd74a2ca5ef2:h2h|Betclic (FR)|SC Telstar",
-    "37aab8d06d1d78e667f1dd74a2ca5ef2:h2h|Betfair|Draw",
-    "37aab8d06d1d78e667f1dd74a2ca5ef2:h2h|Betfair|SC Telstar",
-    "37aab8d06d1d78e667f1dd74a2ca5ef2:h2h|Coolbet|SC Telstar",
-    "37aab8d06d1d78e667f1dd74a2ca5ef2:h2h|LeoVegas (SE)|Draw",
-    "37aab8d06d1d78e667f1dd74a2ca5ef2:h2h|LeoVegas (SE)|SC Telstar",
-    "37aab8d06d1d78e667f1dd74a2ca5ef2:h2h|PMU (FR)|Draw",
-    "37aab8d06d1d78e667f1dd74a2ca5ef2:h2h|PMU (FR)|SC Telstar",
-    "37aab8d06d1d78e667f1dd74a2ca5ef2:h2h|Tipico|Draw",
-    "37aab8d06d1d78e667f1dd74a2ca5ef2:h2h|Tipico|SC Telstar",
-    "37aab8d06d1d78e667f1dd74a2ca5ef2:h2h|Unibet (NL)|Draw",
-    "37aab8d06d1d78e667f1dd74a2ca5ef2:h2h|Unibet (NL)|SC Telstar",
-    "37aab8d06d1d78e667f1dd74a2ca5ef2:h2h|Unibet (SE)|Draw",
-    "37aab8d06d1d78e667f1dd74a2ca5ef2:h2h|Unibet (SE)|SC Telstar",
-    "37aab8d06d1d78e667f1dd74a2ca5ef2:h2h|Winamax (DE)|Draw",
-    "37aab8d06d1d78e667f1dd74a2ca5ef2:h2h|Winamax (DE)|SC Telstar",
-    "37aab8d06d1d78e667f1dd74a2ca5ef2:h2h|Winamax (FR)|Draw",
-    "37aab8d06d1d78e667f1dd74a2ca5ef2:h2h|Winamax (FR)|SC Telstar"
+    "5df50503e8cb89c43d21bf9d7ced1aab:h2h|Betclic (FR)|Galatasaray",
+    "5df50503e8cb89c43d21bf9d7ced1aab:h2h|Betclic (FR)|Çorum FK",
+    "5df50503e8cb89c43d21bf9d7ced1aab:h2h|Betsson|Çorum FK",
+    "5df50503e8cb89c43d21bf9d7ced1aab:h2h|Coolbet|Galatasaray",
+    "5df50503e8cb89c43d21bf9d7ced1aab:h2h|Coolbet|Çorum FK",
+    "5df50503e8cb89c43d21bf9d7ced1aab:h2h|LeoVegas (SE)|Çorum FK",
+    "5df50503e8cb89c43d21bf9d7ced1aab:h2h|Matchbook|Galatasaray",
+    "5df50503e8cb89c43d21bf9d7ced1aab:h2h|Matchbook|Çorum FK",
+    "5df50503e8cb89c43d21bf9d7ced1aab:h2h|Nordic Bet|Çorum FK",
+    "5df50503e8cb89c43d21bf9d7ced1aab:h2h|Tipico|Galatasaray",
+    "5df50503e8cb89c43d21bf9d7ced1aab:h2h|Tipico|Çorum FK",
+    "5df50503e8cb89c43d21bf9d7ced1aab:h2h|Unibet (NL)|Çorum FK",
+    "5df50503e8cb89c43d21bf9d7ced1aab:h2h|Unibet (SE)|Çorum FK"
   ]
 }
