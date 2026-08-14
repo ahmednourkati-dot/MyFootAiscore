@@ -1,189 +1,241 @@
 {
   "snapshots": {
-    "3b2084eb6f80e2cd731d5b1fd0491cf4:h2h": {
-      "Coolbet": {
-        "Sporting Lisbon": 1.01,
-        "Vitória SC": 150.0,
-        "Draw": 13.0
-      },
-      "Betclic (FR)": {
-        "Sporting Lisbon": 1.01,
-        "Vitória SC": 100.0,
-        "Draw": 14.25
-      },
-      "Betfair": {
-        "Sporting Lisbon": 1.06,
-        "Vitória SC": 210.0,
-        "Draw": 15.5
-      },
-      "Winamax (FR)": {
-        "Sporting Lisbon": 1.03,
-        "Vitória SC": 450.0,
-        "Draw": 16.0
-      },
-      "Winamax (DE)": {
-        "Sporting Lisbon": 1.02,
-        "Vitória SC": 450.0,
-        "Draw": 17.0
-      },
-      "Tipico": {
-        "Sporting Lisbon": 1.01,
-        "Vitória SC": 120.0,
-        "Draw": 11.0
-      },
-      "Nordic Bet": {
-        "Sporting Lisbon": 1.02,
-        "Vitória SC": 130.0,
-        "Draw": 12.0
-      },
-      "Betsson": {
-        "Sporting Lisbon": 1.01,
-        "Vitória SC": 130.0,
-        "Draw": 13.0
-      }
-    },
     "bf40262b0a1e1769338290cdc441b2ab:h2h": {
       "Unibet (SE)": {
-        "Botafogo-SP": 3.1,
-        "São Bernardo": 2.43,
-        "Draw": 2.95
+        "Botafogo-SP": 3.2,
+        "São Bernardo": 3.0,
+        "Draw": 2.3
       },
       "Unibet (NL)": {
-        "Botafogo-SP": 3.1,
-        "São Bernardo": 2.43,
-        "Draw": 2.95
+        "Botafogo-SP": 3.05,
+        "São Bernardo": 2.85,
+        "Draw": 2.2
       },
       "LeoVegas (SE)": {
-        "Botafogo-SP": 2.95,
-        "São Bernardo": 2.33,
-        "Draw": 2.8
+        "Botafogo-SP": 3.0,
+        "São Bernardo": 2.8,
+        "Draw": 2.17
       },
       "Coolbet": {
-        "Botafogo-SP": 3.15,
-        "São Bernardo": 2.4,
-        "Draw": 3.0
-      },
-      "BetOnline.ag": {
-        "Botafogo-SP": 3.2,
-        "São Bernardo": 2.5,
-        "Draw": 2.86
+        "Botafogo-SP": 3.0,
+        "São Bernardo": 3.25,
+        "Draw": 2.25
       },
       "Betsson": {
-        "Botafogo-SP": 3.0,
-        "São Bernardo": 2.45,
-        "Draw": 2.85
+        "Botafogo-SP": 2.92,
+        "São Bernardo": 3.2,
+        "Draw": 2.25
       },
       "Pinnacle": {
-        "Botafogo-SP": 3.3,
-        "São Bernardo": 2.54,
-        "Draw": 2.92
+        "Botafogo-SP": 3.13,
+        "São Bernardo": 3.52,
+        "Draw": 2.16
       },
       "Nordic Bet": {
-        "Botafogo-SP": 3.0,
-        "São Bernardo": 2.45,
-        "Draw": 2.85
-      },
-      "1xBet": {
-        "Botafogo-SP": 3.17,
-        "São Bernardo": 2.48,
-        "Draw": 2.82
-      },
-      "Marathon Bet": {
-        "Botafogo-SP": 3.14,
-        "São Bernardo": 2.46,
-        "Draw": 2.82
+        "Botafogo-SP": 2.92,
+        "São Bernardo": 3.2,
+        "Draw": 2.25
       },
       "888sport": {
-        "Botafogo-SP": 3.0,
-        "São Bernardo": 2.45,
-        "Draw": 2.8
-      },
-      "Codere (IT)": {
-        "Botafogo-SP": 2.95,
-        "São Bernardo": 2.44,
-        "Draw": 2.9
-      },
-      "William Hill": {
-        "Botafogo-SP": 3.0,
-        "São Bernardo": 2.45,
-        "Draw": 2.8
+        "Botafogo-SP": 2.9,
+        "São Bernardo": 3.2,
+        "Draw": 2.2
       },
       "Tipico": {
-        "Botafogo-SP": 3.2,
-        "São Bernardo": 2.25,
-        "Draw": 2.85
+        "Botafogo-SP": 2.7,
+        "São Bernardo": 3.4,
+        "Draw": 2.3
       },
       "Matchbook": {
-        "Botafogo-SP": 3.35,
-        "São Bernardo": 2.6,
-        "Draw": 3.05
+        "Botafogo-SP": 3.15,
+        "São Bernardo": 3.75,
+        "Draw": 2.32
       },
       "Betfair": {
-        "Botafogo-SP": 3.35,
-        "São Bernardo": 2.6,
-        "Draw": 3.05
+        "Botafogo-SP": 3.1,
+        "São Bernardo": 3.7,
+        "Draw": 2.36
       }
     },
     "cceddac8c4da40861d7a224e38548ac5:h2h": {
       "Unibet (SE)": {
-        "Nautico PE": 1.93,
-        "Ponte Preta": 3.95,
+        "Nautico PE": 6.4,
+        "Ponte Preta": 1.62,
         "Draw": 3.3
       },
       "LeoVegas (SE)": {
-        "Nautico PE": 1.85,
-        "Ponte Preta": 3.75,
-        "Draw": 3.15
+        "Nautico PE": 6.0,
+        "Ponte Preta": 1.54,
+        "Draw": 3.0
       },
       "Unibet (NL)": {
-        "Nautico PE": 1.93,
-        "Ponte Preta": 3.95,
-        "Draw": 3.3
+        "Nautico PE": 6.0,
+        "Ponte Preta": 1.56,
+        "Draw": 3.05
       },
       "Betsson": {
-        "Nautico PE": 1.98,
-        "Ponte Preta": 3.65,
+        "Nautico PE": 5.8,
+        "Ponte Preta": 1.62,
         "Draw": 3.2
       },
       "Nordic Bet": {
-        "Nautico PE": 1.98,
-        "Ponte Preta": 3.65,
+        "Nautico PE": 5.8,
+        "Ponte Preta": 1.62,
         "Draw": 3.2
       },
       "Coolbet": {
-        "Nautico PE": 1.98,
-        "Ponte Preta": 3.75,
-        "Draw": 3.4
-      },
-      "BetOnline.ag": {
-        "Nautico PE": 1.99,
-        "Ponte Preta": 3.85,
-        "Draw": 3.3
+        "Nautico PE": 5.5,
+        "Ponte Preta": 1.67,
+        "Draw": 3.25
       },
       "Pinnacle": {
-        "Nautico PE": 1.99,
-        "Ponte Preta": 4.02,
-        "Draw": 3.45
-      },
-      "Marathon Bet": {
-        "Nautico PE": 1.92,
-        "Ponte Preta": 3.86,
-        "Draw": 3.34
-      },
-      "Codere (IT)": {
-        "Nautico PE": 1.98,
-        "Ponte Preta": 3.65,
-        "Draw": 3.2
+        "Nautico PE": 6.35,
+        "Ponte Preta": 1.66,
+        "Draw": 3.27
       },
       "Matchbook": {
-        "Nautico PE": 2.08,
-        "Ponte Preta": 4.2,
-        "Draw": 3.5
+        "Nautico PE": 6.8,
+        "Ponte Preta": 1.72,
+        "Draw": 3.55
       },
       "Betfair": {
-        "Nautico PE": 2.08,
-        "Ponte Preta": 4.1,
-        "Draw": 3.5
+        "Nautico PE": 6.8,
+        "Ponte Preta": 1.72,
+        "Draw": 3.6
+      }
+    },
+    "6a46a3359c4793930a49671d8ef80334:h2h": {
+      "Pinnacle": {
+        "La Serena": 3.38,
+        "Universidad de Concepción": 2.17,
+        "Draw": 3.22
+      },
+      "Winamax (DE)": {
+        "La Serena": 3.3,
+        "Universidad de Concepción": 2.15,
+        "Draw": 2.95
+      },
+      "Winamax (FR)": {
+        "La Serena": 3.2,
+        "Universidad de Concepción": 2.1,
+        "Draw": 2.85
+      },
+      "Betsson": {
+        "La Serena": 3.3,
+        "Universidad de Concepción": 2.2,
+        "Draw": 2.92
+      },
+      "Nordic Bet": {
+        "La Serena": 3.3,
+        "Universidad de Concepción": 2.2,
+        "Draw": 2.92
+      },
+      "Coolbet": {
+        "La Serena": 3.5,
+        "Universidad de Concepción": 2.3,
+        "Draw": 3.14
+      },
+      "888sport": {
+        "La Serena": 3.25,
+        "Universidad de Concepción": 2.1,
+        "Draw": 2.88
+      },
+      "Tipico": {
+        "La Serena": 3.6,
+        "Universidad de Concepción": 2.0,
+        "Draw": 3.1
+      },
+      "Betfair": {
+        "La Serena": 3.9,
+        "Universidad de Concepción": 2.26,
+        "Draw": 3.25
+      },
+      "Unibet (SE)": {
+        "La Serena": 3.2,
+        "Universidad de Concepción": 2.25,
+        "Draw": 2.85
+      },
+      "LeoVegas (SE)": {
+        "La Serena": 3.0,
+        "Universidad de Concepción": 2.12,
+        "Draw": 2.7
+      },
+      "Matchbook": {
+        "La Serena": 4.0,
+        "Universidad de Concepción": 2.26,
+        "Draw": 3.2
+      }
+    },
+    "4aab9401d098c250b1760be919791eea:h2h": {
+      "1xBet": {
+        "Banfield": 6.89,
+        "Racing Club": 1.59,
+        "Draw": 3.73
+      },
+      "Betfair": {
+        "Banfield": 6.6,
+        "Racing Club": 1.67,
+        "Draw": 3.9
+      },
+      "Nordic Bet": {
+        "Banfield": 6.3,
+        "Racing Club": 1.6,
+        "Draw": 3.6
+      },
+      "Betsson": {
+        "Banfield": 6.3,
+        "Racing Club": 1.6,
+        "Draw": 3.6
+      },
+      "Unibet (SE)": {
+        "Banfield": 5.8,
+        "Racing Club": 1.62,
+        "Draw": 3.65
+      },
+      "LeoVegas (SE)": {
+        "Banfield": 5.25,
+        "Racing Club": 1.53,
+        "Draw": 3.4
+      },
+      "Winamax (FR)": {
+        "Banfield": 5.3,
+        "Racing Club": 1.54,
+        "Draw": 3.65
+      },
+      "Unibet (FR)": {
+        "Banfield": 5.7,
+        "Racing Club": 1.5,
+        "Draw": 3.6
+      },
+      "Betclic (FR)": {
+        "Banfield": 5.1,
+        "Racing Club": 1.59,
+        "Draw": 3.38
+      },
+      "Winamax (DE)": {
+        "Banfield": 5.4,
+        "Racing Club": 1.56,
+        "Draw": 3.7
+      },
+      "Marathon Bet": {
+        "Banfield": 5.9,
+        "Racing Club": 1.6,
+        "Draw": 3.6
+      },
+      "Pinnacle": {
+        "Banfield": 6.24,
+        "Racing Club": 1.64,
+        "Draw": 3.76
+      },
+      "BetAnything": {
+        "Banfield": 6.28,
+        "Racing Club": 1.63,
+        "Draw": 3.77
+      },
+      "BetOnline.ag": {
+        "Banfield": 6.25,
+        "Racing Club": 1.65,
+        "Draw": 3.75
       }
     }
   },
@@ -3820,8 +3872,60 @@
       "confidence": 4436,
       "alert_type": "value",
       "alerted_at": "2026-08-14T20:34:08.625123+00:00"
+    },
+    {
+      "state_key": "6a46a3359c4793930a49671d8ef80334:h2h",
+      "event_id": "6a46a3359c4793930a49671d8ef80334",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Universidad de Concepción",
+      "away_team": "La Serena",
+      "commence_time": "2026-08-14T22:59:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "La Serena",
+      "odds_at_alert": 3.9,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T23:23:50.609195+00:00"
+    },
+    {
+      "state_key": "6a46a3359c4793930a49671d8ef80334:h2h",
+      "event_id": "6a46a3359c4793930a49671d8ef80334",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Universidad de Concepción",
+      "away_team": "La Serena",
+      "commence_time": "2026-08-14T22:59:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "La Serena",
+      "odds_at_alert": 4.0,
+      "stake_pct": 3.0,
+      "confidence": 11,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T23:23:50.990518+00:00"
+    },
+    {
+      "state_key": "4aab9401d098c250b1760be919791eea:h2h",
+      "event_id": "4aab9401d098c250b1760be919791eea",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Racing Club",
+      "away_team": "Banfield",
+      "commence_time": "2026-08-14T23:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Banfield",
+      "odds_at_alert": 6.89,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-08-14T23:23:51.391124+00:00"
     }
   ],
   "results_history": [],
-  "value_alerted": []
+  "value_alerted": [
+    "4aab9401d098c250b1760be919791eea:h2h|1xBet|Banfield",
+    "6a46a3359c4793930a49671d8ef80334:h2h|Betfair|La Serena",
+    "6a46a3359c4793930a49671d8ef80334:h2h|Matchbook|La Serena"
+  ]
 }
