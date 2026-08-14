@@ -1,56 +1,5 @@
 {
   "snapshots": {
-    "360ee44bae23de47e6ec048faa9094bd:h2h": {
-      "Unibet (SE)": {
-        "IK Oddevold": 29.0,
-        "Landskrona BoIS": 25.0,
-        "Draw": 1.02
-      },
-      "Nordic Bet": {
-        "IK Oddevold": 1.0,
-        "Landskrona BoIS": 1.0,
-        "Draw": 1.0
-      },
-      "Unibet (NL)": {
-        "IK Oddevold": 12.5,
-        "Landskrona BoIS": 10.0,
-        "Draw": 1.06
-      },
-      "LeoVegas (SE)": {
-        "IK Oddevold": 19.0,
-        "Landskrona BoIS": 16.0,
-        "Draw": 1.01
-      },
-      "Betsson": {
-        "IK Oddevold": 21.0,
-        "Landskrona BoIS": 17.0,
-        "Draw": 1.03
-      },
-      "Pinnacle": {
-        "IK Oddevold": 5.99,
-        "Landskrona BoIS": 5.12,
-        "Draw": 1.4
-      },
-      "Betfair": {
-        "IK Oddevold": 1.01,
-        "Landskrona BoIS": 1.01
-      },
-      "888sport": {
-        "IK Oddevold": 8.5,
-        "Landskrona BoIS": 7.0,
-        "Draw": 1.18
-      },
-      "Tipico": {
-        "IK Oddevold": 30.0,
-        "Landskrona BoIS": 20.0,
-        "Draw": 1.01
-      },
-      "Coolbet": {
-        "IK Oddevold": 20.0,
-        "Landskrona BoIS": 16.0,
-        "Draw": 1.04
-      }
-    },
     "758b0daefc6f97c8db3facf89737c183:h2h": {
       "Betclic (FR)": {
         "LASK": 1.0,
@@ -59,141 +8,172 @@
       },
       "Betsson": {
         "LASK": 1.0,
-        "Ried": 29.0,
-        "Draw": 17.0
+        "Ried": 21.0,
+        "Draw": 21.0
       },
       "Nordic Bet": {
         "LASK": 1.0,
-        "Ried": 29.0,
-        "Draw": 17.0
+        "Ried": 1.0,
+        "Draw": 1.0
       }
     },
     "d6684686e67db7f454cf250ed12f71cf:h2h": {
       "Betclic (FR)": {
-        "Al-Ettifaq": 1.6,
-        "Al-Riyadh": 7.25,
-        "Draw": 2.8
+        "Al-Ettifaq": 1.73,
+        "Al-Riyadh": 9.5,
+        "Draw": 2.27
       },
       "888sport": {
-        "Al-Ettifaq": 1.95,
-        "Al-Riyadh": 4.2,
-        "Draw": 2.5
+        "Al-Ettifaq": 1.8,
+        "Al-Riyadh": 9.0,
+        "Draw": 2.15
       },
       "Unibet (NL)": {
-        "Al-Ettifaq": 2.12,
-        "Al-Riyadh": 3.5,
-        "Draw": 2.7
+        "Al-Ettifaq": 2.08,
+        "Al-Riyadh": 7.0,
+        "Draw": 1.97
       },
       "Winamax (DE)": {
-        "Al-Ettifaq": 1.66,
-        "Al-Riyadh": 7.0,
-        "Draw": 2.75
+        "Al-Ettifaq": 1.84,
+        "Al-Riyadh": 10.0,
+        "Draw": 2.15
       },
       "Unibet (SE)": {
-        "Al-Ettifaq": 2.2,
-        "Al-Riyadh": 3.65,
-        "Draw": 2.8
+        "Al-Ettifaq": 2.18,
+        "Al-Riyadh": 7.5,
+        "Draw": 2.07
       },
       "Tipico": {
-        "Al-Ettifaq": 1.65,
-        "Al-Riyadh": 7.5,
-        "Draw": 2.8
+        "Al-Ettifaq": 1.75,
+        "Al-Riyadh": 14.0,
+        "Draw": 2.2
       },
       "Winamax (FR)": {
-        "Al-Ettifaq": 1.6,
-        "Al-Riyadh": 6.5,
-        "Draw": 2.65
+        "Al-Ettifaq": 1.76,
+        "Al-Riyadh": 9.0,
+        "Draw": 2.05
       },
       "LeoVegas (SE)": {
         "Al-Ettifaq": 2.07,
-        "Al-Riyadh": 3.45,
-        "Draw": 2.63
+        "Al-Riyadh": 6.75,
+        "Draw": 1.95
       },
       "PMU (FR)": {
         "Al-Ettifaq": 1.97,
-        "Al-Riyadh": 3.3,
-        "Draw": 2.5
+        "Al-Riyadh": 6.4,
+        "Draw": 1.83
       },
       "Betfair": {
-        "Al-Ettifaq": 1.65,
-        "Al-Riyadh": 8.4,
-        "Draw": 3.3
+        "Al-Ettifaq": 2.02,
+        "Al-Riyadh": 10.5,
+        "Draw": 2.38
       }
     },
     "37aab8d06d1d78e667f1dd74a2ca5ef2:h2h": {
       "Coolbet": {
-        "SC Telstar": 8.0,
-        "Sparta Rotterdam": 1.5,
-        "Draw": 4.0
+        "SC Telstar": 80.0,
+        "Sparta Rotterdam": 1.04,
+        "Draw": 15.0
       },
       "Betclic (FR)": {
-        "SC Telstar": 25.0,
-        "Sparta Rotterdam": 1.08,
-        "Draw": 8.5
+        "SC Telstar": 50.0,
+        "Sparta Rotterdam": 1.01,
+        "Draw": 14.25
       },
       "Betfair": {
-        "SC Telstar": 19.0,
-        "Sparta Rotterdam": 1.15,
-        "Draw": 7.6
+        "SC Telstar": 85.0,
+        "Sparta Rotterdam": 1.06,
+        "Draw": 17.5
       },
       "Winamax (FR)": {
-        "SC Telstar": 30.0,
-        "Sparta Rotterdam": 1.1,
-        "Draw": 8.0
+        "SC Telstar": 75.0,
+        "Sparta Rotterdam": 1.04,
+        "Draw": 15.0
       },
       "Winamax (DE)": {
-        "SC Telstar": 30.0,
-        "Sparta Rotterdam": 1.07,
-        "Draw": 8.5
-      },
-      "Pinnacle": {
-        "SC Telstar": 6.8,
-        "Sparta Rotterdam": 1.54,
-        "Draw": 3.78
+        "SC Telstar": 75.0,
+        "Sparta Rotterdam": 1.02,
+        "Draw": 16.0
       },
       "888sport": {
-        "SC Telstar": 6.5,
-        "Sparta Rotterdam": 1.44,
-        "Draw": 3.6
+        "SC Telstar": 51.0,
+        "Sparta Rotterdam": 1.04,
+        "Draw": 13.0
       },
       "Nordic Bet": {
-        "SC Telstar": 7.2,
-        "Sparta Rotterdam": 1.44,
-        "Draw": 3.65
+        "SC Telstar": 46.0,
+        "Sparta Rotterdam": 1.03,
+        "Draw": 12.0
       },
       "Betsson": {
-        "SC Telstar": 7.2,
-        "Sparta Rotterdam": 1.44,
-        "Draw": 3.65
+        "SC Telstar": 46.0,
+        "Sparta Rotterdam": 1.03,
+        "Draw": 12.0
       },
       "Tipico": {
-        "SC Telstar": 20.0,
-        "Sparta Rotterdam": 1.1,
-        "Draw": 8.5
-      },
-      "LeoVegas (SE)": {
-        "SC Telstar": 21.0,
-        "Sparta Rotterdam": 1.06,
-        "Draw": 8.0
-      },
-      "PMU (FR)": {
-        "SC Telstar": 20.0,
+        "SC Telstar": 80.0,
         "Sparta Rotterdam": 1.02,
-        "Draw": 7.5
+        "Draw": 13.0
       },
       "Unibet (SE)": {
-        "SC Telstar": 21.0,
-        "Sparta Rotterdam": 1.1,
-        "Draw": 8.5
+        "SC Telstar": 56.0,
+        "Sparta Rotterdam": 1.03,
+        "Draw": 14.0
       },
       "Unibet (NL)": {
-        "SC Telstar": 21.0,
-        "Sparta Rotterdam": 1.1,
-        "Draw": 8.5
+        "SC Telstar": 56.0,
+        "Sparta Rotterdam": 1.03,
+        "Draw": 14.0
+      },
+      "Matchbook": {
+        "SC Telstar": 85.0,
+        "Sparta Rotterdam": 1.06,
+        "Draw": 17.0
+      }
+    },
+    "1aae59eaaab7fca0c6df78d7689d4e58:h2h": {
+      "Betfair": {
+        "Al-Faisaly KSA FC": 75.0,
+        "Al-Hilal": 1.1,
+        "Draw": 10.5
+      },
+      "Winamax (FR)": {
+        "Al-Faisaly KSA FC": 55.0,
+        "Al-Hilal": 1.05,
+        "Draw": 9.0
+      },
+      "Unibet (SE)": {
+        "Al-Faisaly KSA FC": 41.0,
+        "Al-Hilal": 1.06,
+        "Draw": 10.0
+      },
+      "Unibet (NL)": {
+        "Al-Faisaly KSA FC": 41.0,
+        "Al-Hilal": 1.02,
+        "Draw": 9.5
+      },
+      "LeoVegas (SE)": {
+        "Al-Faisaly KSA FC": 36.0,
+        "Al-Hilal": 1.02,
+        "Draw": 9.5
+      },
+      "Winamax (DE)": {
+        "Al-Faisaly KSA FC": 55.0,
+        "Al-Hilal": 1.04,
+        "Draw": 10.0
+      },
+      "Betclic (FR)": {
+        "Al-Faisaly KSA FC": 40.0,
+        "Al-Hilal": 1.02,
+        "Draw": 9.25
       }
     }
   },
-  "alerted": [],
+  "alerted": [
+    "37aab8d06d1d78e667f1dd74a2ca5ef2:h2h",
+    "758b0daefc6f97c8db3facf89737c183:h2h",
+    "d6684686e67db7f454cf250ed12f71cf:h2h"
+  ],
   "pending_results": [
     {
       "state_key": "398d07703c866bb0315c56cd1ce6e035:h2h",
@@ -3570,24 +3550,58 @@
       "confidence": 112,
       "alert_type": "value",
       "alerted_at": "2026-08-14T19:13:38.572330+00:00"
+    },
+    {
+      "state_key": "758b0daefc6f97c8db3facf89737c183:h2h",
+      "event_id": "758b0daefc6f97c8db3facf89737c183",
+      "sport_key": "soccer",
+      "competition": "Austrian Football Bundesliga",
+      "home_team": "LASK",
+      "away_team": "Ried",
+      "commence_time": "2026-08-14T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 40.0,
+      "stake_pct": 2.0,
+      "confidence": 60,
+      "alert_type": "suspicious",
+      "alerted_at": "2026-08-14T19:33:35.688896+00:00"
+    },
+    {
+      "state_key": "d6684686e67db7f454cf250ed12f71cf:h2h",
+      "event_id": "d6684686e67db7f454cf250ed12f71cf",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Ettifaq",
+      "away_team": "Al-Riyadh",
+      "commence_time": "2026-08-14T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Riyadh",
+      "odds_at_alert": 14.0,
+      "stake_pct": 3.0,
+      "confidence": 80,
+      "alert_type": "suspicious",
+      "alerted_at": "2026-08-14T19:33:36.214404+00:00"
+    },
+    {
+      "state_key": "37aab8d06d1d78e667f1dd74a2ca5ef2:h2h",
+      "event_id": "37aab8d06d1d78e667f1dd74a2ca5ef2",
+      "sport_key": "soccer",
+      "competition": "Dutch Eredivisie",
+      "home_team": "SC Telstar",
+      "away_team": "Sparta Rotterdam",
+      "commence_time": "2026-08-14T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "SC Telstar",
+      "odds_at_alert": 85.0,
+      "stake_pct": 3.0,
+      "confidence": 80,
+      "alert_type": "suspicious",
+      "alerted_at": "2026-08-14T19:33:36.757068+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "360ee44bae23de47e6ec048faa9094bd:h2h|888sport|IK Oddevold",
-    "360ee44bae23de47e6ec048faa9094bd:h2h|888sport|Landskrona BoIS",
-    "360ee44bae23de47e6ec048faa9094bd:h2h|Betsson|IK Oddevold",
-    "360ee44bae23de47e6ec048faa9094bd:h2h|Betsson|Landskrona BoIS",
-    "360ee44bae23de47e6ec048faa9094bd:h2h|Coolbet|IK Oddevold",
-    "360ee44bae23de47e6ec048faa9094bd:h2h|Coolbet|Landskrona BoIS",
-    "360ee44bae23de47e6ec048faa9094bd:h2h|LeoVegas (SE)|IK Oddevold",
-    "360ee44bae23de47e6ec048faa9094bd:h2h|LeoVegas (SE)|Landskrona BoIS",
-    "360ee44bae23de47e6ec048faa9094bd:h2h|Tipico|IK Oddevold",
-    "360ee44bae23de47e6ec048faa9094bd:h2h|Tipico|Landskrona BoIS",
-    "360ee44bae23de47e6ec048faa9094bd:h2h|Unibet (NL)|IK Oddevold",
-    "360ee44bae23de47e6ec048faa9094bd:h2h|Unibet (NL)|Landskrona BoIS",
-    "360ee44bae23de47e6ec048faa9094bd:h2h|Unibet (SE)|IK Oddevold",
-    "360ee44bae23de47e6ec048faa9094bd:h2h|Unibet (SE)|Landskrona BoIS",
     "37aab8d06d1d78e667f1dd74a2ca5ef2:h2h|Betclic (FR)|Draw",
     "37aab8d06d1d78e667f1dd74a2ca5ef2:h2h|Betclic (FR)|SC Telstar",
     "37aab8d06d1d78e667f1dd74a2ca5ef2:h2h|Betfair|Draw",
