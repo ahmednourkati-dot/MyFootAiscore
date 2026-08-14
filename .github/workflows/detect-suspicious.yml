@@ -1,11 +1,14 @@
 name: Détection automatique de matchs suspects
 
 on:
-  # Le cron natif de GitHub Actions ne s'est jamais déclenché de façon
-  # fiable sur ce repo (plusieurs créneaux manqués malgré une config
-  # valide). Le déclenchement est donc piloté depuis l'extérieur
-  # (toutes les 2h) via workflow_dispatch, plus fiable en pratique.
+  # Déclenchement principal piloté depuis l'extérieur (Routines Claude ou
+  # cron-job.org) via workflow_dispatch. Le cron natif ci-dessous est un
+  # filet de sécurité gratuit et indépendant : lors de précédents tests il
+  # ne s'était pas déclenché de façon fiable seul, mais le garder en backup
+  # ne coûte rien et peut suffire si les déclencheurs externes s'arrêtent.
   workflow_dispatch:
+  schedule:
+    - cron: "7 */2 * * *"
 
 permissions:
   contents: write

@@ -79,13 +79,15 @@ def main() -> None:
         print("Aucun pari en attente de règlement.")
         return
 
-    try:
-        scores = get_scores()
-    except OddsAPIError as exc:
-        print(f"Erreur API cotes (scores) : {exc}")
-        return
+    scores_by_id: dict = {}
+    for sport_key in {entry.get("sport_key", "soccer") for entry in pending}:
+        try:
+            scores = get_scores(sport_key)
+        except OddsAPIError as exc:
+            print(f"Erreur API cotes (scores, {sport_key}) : {exc}")
+            continue
+        scores_by_id.update({s["id"]: s for s in scores if s.get("id")})
 
-    scores_by_id = {s["id"]: s for s in scores if s.get("id")}
     now = datetime.now(timezone.utc)
 
     still_pending = []

@@ -1,9 +1,12 @@
 name: Règlement des résultats
 
 on:
-  # Cron natif GitHub Actions non fiable sur ce repo -> déclenchement
-  # piloté depuis l'extérieur (quotidien) via workflow_dispatch.
+  # Déclenchement principal piloté depuis l'extérieur (Routines Claude ou
+  # cron-job.org). Le cron natif ci-dessous est un filet de sécurité
+  # gratuit et indépendant, en complément.
   workflow_dispatch:
+  schedule:
+    - cron: "13 21 * * *"
 
 permissions:
   contents: write
