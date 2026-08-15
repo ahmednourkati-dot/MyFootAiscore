@@ -1,114 +1,156 @@
 {
   "snapshots": {
-    "d1d57dea05f7717f803d0db88e2fbbc8:h2h": {
-      "Winamax (FR)": {
-        "Alverca": 42.0,
-        "CF Estrela": 19.0,
-        "Draw": 1.04
-      },
+    "1fe48ff20e733913397bc30a8f4be1f7:h2h": {
       "Winamax (DE)": {
-        "Alverca": 42.0,
-        "CF Estrela": 20.0,
-        "Draw": 1.02
+        "Austria Lustenau": 1.03,
+        "Wolfsberger AC": 450.0,
+        "Draw": 12.0
       },
       "Coolbet": {
-        "Alverca": 30.0,
-        "CF Estrela": 14.0,
-        "Draw": 1.03
-      },
-      "Betclic (FR)": {
-        "Alverca": 16.0,
-        "CF Estrela": 8.25,
-        "Draw": 1.11
-      },
-      "Pinnacle": {
-        "Alverca": 7.49,
-        "CF Estrela": 3.77,
-        "Draw": 1.5
-      },
-      "Betfair": {
-        "Alverca": 1.08,
-        "CF Estrela": 1.1,
-        "Draw": 1.01
-      },
-      "Tipico": {
-        "Alverca": 40.0,
-        "CF Estrela": 11.0,
-        "Draw": 1.03
+        "Austria Lustenau": 1.01,
+        "Wolfsberger AC": 150.0,
+        "Draw": 13.0
       },
       "888sport": {
-        "Alverca": 21.0,
-        "CF Estrela": 9.5,
-        "Draw": 1.1
+        "Austria Lustenau": 1.08,
+        "Wolfsberger AC": 71.0,
+        "Draw": 7.5
       },
-      "Unibet (NL)": {
-        "Alverca": 21.0,
-        "CF Estrela": 17.0,
-        "Draw": 1.03
-      },
-      "Unibet (SE)": {
-        "Alverca": 41.0,
-        "CF Estrela": 29.0,
-        "Draw": 1.01
-      },
-      "PMU (FR)": {
-        "Alverca": 14.0,
-        "CF Estrela": 8.0,
-        "Draw": 1.04
-      },
-      "LeoVegas (SE)": {
-        "Alverca": 16.0,
-        "CF Estrela": 10.0,
-        "Draw": 1.01
-      },
-      "Nordic Bet": {
-        "Alverca": 26.0,
-        "CF Estrela": 13.0,
-        "Draw": 1.04
-      }
-    },
-    "5481f59b5fdb433276833eb766aa07d5:h2h": {
-      "Betclic (FR)": {
-        "NEC Nijmegen": 1.0,
-        "Willem II": 100.0,
-        "Draw": 100.0
-      },
-      "Nordic Bet": {
-        "NEC Nijmegen": 1.0,
-        "Willem II": 26.0,
-        "Draw": 26.0
-      }
-    },
-    "68b4b6cda1390551270bbbef33d6a6f2:h2h": {
       "Winamax (FR)": {
-        "AD Ceuta FC": 130.0,
-        "Andorra CF": 1.02,
-        "Draw": 30.0
-      },
-      "Winamax (DE)": {
-        "AD Ceuta FC": 130.0,
-        "Andorra CF": 1.01,
-        "Draw": 29.0
+        "Austria Lustenau": 1.04,
+        "Wolfsberger AC": 450.0,
+        "Draw": 13.5
       },
       "Betclic (FR)": {
-        "AD Ceuta FC": 100.0,
-        "Andorra CF": 1.0,
-        "Draw": 40.0
+        "Austria Lustenau": 1.03,
+        "Wolfsberger AC": 100.0,
+        "Draw": 9.75
       },
-      "Betfair": {
-        "AD Ceuta FC": 150.0,
-        "Andorra CF": 1.02,
-        "Draw": 40.0
+      "Suprabets": {
+        "Austria Lustenau": 1.08,
+        "Wolfsberger AC": 61.0,
+        "Draw": 5.5
       },
       "Betsson": {
-        "AD Ceuta FC": 81.0,
-        "Andorra CF": 1.0,
+        "Austria Lustenau": 1.05,
+        "Wolfsberger AC": 50.0,
+        "Draw": 6.8
+      },
+      "Tipico": {
+        "Austria Lustenau": 1.01,
+        "Wolfsberger AC": 400.0,
+        "Draw": 25.0
+      },
+      "Betfair": {
+        "Austria Lustenau": 1.01,
+        "Wolfsberger AC": 410.0,
+        "Draw": 34.0
+      }
+    },
+    "abd7ebb0a5119bb45354bd728ddfbfa1:h2h": {
+      "Pinnacle": {
+        "FK Rostov": 3.19,
+        "Rubin Kazan": 6.5,
+        "Draw": 1.69
+      }
+    },
+    "9dddd92d5b2905530810a7fbcbc3315e:h2h": {
+      "Betsson": {
+        "Piast Gliwice": 81.0,
+        "Wieczysta Kraków": 1.0,
         "Draw": 81.0
       },
       "Nordic Bet": {
-        "AD Ceuta FC": 5.3,
-        "Andorra CF": 1.55,
-        "Draw": 3.85
+        "Piast Gliwice": 81.0,
+        "Wieczysta Kraków": 1.0,
+        "Draw": 81.0
+      },
+      "Betclic (FR)": {
+        "Piast Gliwice": 100.0,
+        "Wieczysta Kraków": 1.02,
+        "Draw": 65.0
+      },
+      "Winamax (DE)": {
+        "Piast Gliwice": 100.0,
+        "Wieczysta Kraków": 1.01,
+        "Draw": 38.0
+      },
+      "Betfair": {
+        "Piast Gliwice": 11.5,
+        "Wieczysta Kraków": 1.01,
+        "Draw": 12.0
+      },
+      "888sport": {
+        "Piast Gliwice": 151.0,
+        "Wieczysta Kraków": 1.0,
+        "Draw": 61.0
+      },
+      "Pinnacle": {
+        "Piast Gliwice": 7.75,
+        "Wieczysta Kraków": 1.58,
+        "Draw": 3.3
+      }
+    },
+    "60ff159fbea24564cc08c5e1e7f0772b:h2h": {
+      "Unibet (NL)": {
+        "IFK Mariehamn": 1.96,
+        "SJK Seinäjoki": 3.6,
+        "Draw": 3.15
+      },
+      "LeoVegas (SE)": {
+        "IFK Mariehamn": 1.85,
+        "SJK Seinäjoki": 3.4,
+        "Draw": 2.95
+      },
+      "PMU (FR)": {
+        "IFK Mariehamn": 1.79,
+        "SJK Seinäjoki": 3.3,
+        "Draw": 2.88
+      },
+      "Unibet (SE)": {
+        "IFK Mariehamn": 1.96,
+        "SJK Seinäjoki": 3.6,
+        "Draw": 3.15
+      },
+      "Pinnacle": {
+        "IFK Mariehamn": 1.95,
+        "SJK Seinäjoki": 4.15,
+        "Draw": 3.29
+      },
+      "Betsson": {
+        "IFK Mariehamn": 1.85,
+        "SJK Seinäjoki": 3.9,
+        "Draw": 3.2
+      },
+      "Nordic Bet": {
+        "IFK Mariehamn": 1.85,
+        "SJK Seinäjoki": 3.9,
+        "Draw": 3.2
+      },
+      "Tipico": {
+        "IFK Mariehamn": 1.9,
+        "SJK Seinäjoki": 3.6,
+        "Draw": 3.3
+      },
+      "Coolbet": {
+        "IFK Mariehamn": 1.91,
+        "SJK Seinäjoki": 4.33,
+        "Draw": 3.5
+      },
+      "888sport": {
+        "IFK Mariehamn": 1.85,
+        "SJK Seinäjoki": 4.0,
+        "Draw": 3.1
+      },
+      "Betfair": {
+        "IFK Mariehamn": 2.0,
+        "SJK Seinäjoki": 4.3,
+        "Draw": 3.6
+      },
+      "Matchbook": {
+        "IFK Mariehamn": 1.94,
+        "SJK Seinäjoki": 4.4,
+        "Draw": 3.65
       }
     }
   },
@@ -4657,31 +4699,213 @@
       "confidence": 224,
       "alert_type": "value",
       "alerted_at": "2026-08-15T16:34:17.243454+00:00"
+    },
+    {
+      "state_key": "9dddd92d5b2905530810a7fbcbc3315e:h2h",
+      "event_id": "9dddd92d5b2905530810a7fbcbc3315e",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Piast Gliwice",
+      "away_team": "Wieczysta Kraków",
+      "commence_time": "2026-08-15T15:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Piast Gliwice",
+      "odds_at_alert": 81.0,
+      "stake_pct": 5.0,
+      "confidence": 881,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T17:08:52.448013+00:00"
+    },
+    {
+      "state_key": "9dddd92d5b2905530810a7fbcbc3315e:h2h",
+      "event_id": "9dddd92d5b2905530810a7fbcbc3315e",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Piast Gliwice",
+      "away_team": "Wieczysta Kraków",
+      "commence_time": "2026-08-15T15:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 81.0,
+      "stake_pct": 5.0,
+      "confidence": 2205,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T17:08:52.772696+00:00"
+    },
+    {
+      "state_key": "9dddd92d5b2905530810a7fbcbc3315e:h2h",
+      "event_id": "9dddd92d5b2905530810a7fbcbc3315e",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Piast Gliwice",
+      "away_team": "Wieczysta Kraków",
+      "commence_time": "2026-08-15T15:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Piast Gliwice",
+      "odds_at_alert": 81.0,
+      "stake_pct": 5.0,
+      "confidence": 881,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T17:08:53.109871+00:00"
+    },
+    {
+      "state_key": "9dddd92d5b2905530810a7fbcbc3315e:h2h",
+      "event_id": "9dddd92d5b2905530810a7fbcbc3315e",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Piast Gliwice",
+      "away_team": "Wieczysta Kraków",
+      "commence_time": "2026-08-15T15:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 81.0,
+      "stake_pct": 5.0,
+      "confidence": 2205,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T17:08:53.432860+00:00"
+    },
+    {
+      "state_key": "9dddd92d5b2905530810a7fbcbc3315e:h2h",
+      "event_id": "9dddd92d5b2905530810a7fbcbc3315e",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Piast Gliwice",
+      "away_team": "Wieczysta Kraków",
+      "commence_time": "2026-08-15T15:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Piast Gliwice",
+      "odds_at_alert": 100.0,
+      "stake_pct": 5.0,
+      "confidence": 1112,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T17:08:53.755238+00:00"
+    },
+    {
+      "state_key": "9dddd92d5b2905530810a7fbcbc3315e:h2h",
+      "event_id": "9dddd92d5b2905530810a7fbcbc3315e",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Piast Gliwice",
+      "away_team": "Wieczysta Kraków",
+      "commence_time": "2026-08-15T15:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 65.0,
+      "stake_pct": 5.0,
+      "confidence": 1750,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T17:08:54.091310+00:00"
+    },
+    {
+      "state_key": "9dddd92d5b2905530810a7fbcbc3315e:h2h",
+      "event_id": "9dddd92d5b2905530810a7fbcbc3315e",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Piast Gliwice",
+      "away_team": "Wieczysta Kraków",
+      "commence_time": "2026-08-15T15:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Piast Gliwice",
+      "odds_at_alert": 100.0,
+      "stake_pct": 5.0,
+      "confidence": 1112,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T17:08:54.426557+00:00"
+    },
+    {
+      "state_key": "9dddd92d5b2905530810a7fbcbc3315e:h2h",
+      "event_id": "9dddd92d5b2905530810a7fbcbc3315e",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Piast Gliwice",
+      "away_team": "Wieczysta Kraków",
+      "commence_time": "2026-08-15T15:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 38.0,
+      "stake_pct": 5.0,
+      "confidence": 981,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T17:08:54.776547+00:00"
+    },
+    {
+      "state_key": "9dddd92d5b2905530810a7fbcbc3315e:h2h",
+      "event_id": "9dddd92d5b2905530810a7fbcbc3315e",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Piast Gliwice",
+      "away_team": "Wieczysta Kraków",
+      "commence_time": "2026-08-15T15:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Piast Gliwice",
+      "odds_at_alert": 11.5,
+      "stake_pct": 5.0,
+      "confidence": 39,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T17:08:55.107352+00:00"
+    },
+    {
+      "state_key": "9dddd92d5b2905530810a7fbcbc3315e:h2h",
+      "event_id": "9dddd92d5b2905530810a7fbcbc3315e",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Piast Gliwice",
+      "away_team": "Wieczysta Kraków",
+      "commence_time": "2026-08-15T15:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 241,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T17:08:55.445579+00:00"
+    },
+    {
+      "state_key": "9dddd92d5b2905530810a7fbcbc3315e:h2h",
+      "event_id": "9dddd92d5b2905530810a7fbcbc3315e",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Piast Gliwice",
+      "away_team": "Wieczysta Kraków",
+      "commence_time": "2026-08-15T15:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Piast Gliwice",
+      "odds_at_alert": 151.0,
+      "stake_pct": 5.0,
+      "confidence": 1730,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T17:08:55.779527+00:00"
+    },
+    {
+      "state_key": "9dddd92d5b2905530810a7fbcbc3315e:h2h",
+      "event_id": "9dddd92d5b2905530810a7fbcbc3315e",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Piast Gliwice",
+      "away_team": "Wieczysta Kraków",
+      "commence_time": "2026-08-15T15:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 61.0,
+      "stake_pct": 5.0,
+      "confidence": 1636,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T17:08:56.094036+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "d1d57dea05f7717f803d0db88e2fbbc8:h2h|888sport|Alverca",
-    "d1d57dea05f7717f803d0db88e2fbbc8:h2h|888sport|CF Estrela",
-    "d1d57dea05f7717f803d0db88e2fbbc8:h2h|Betclic (FR)|Alverca",
-    "d1d57dea05f7717f803d0db88e2fbbc8:h2h|Betclic (FR)|CF Estrela",
-    "d1d57dea05f7717f803d0db88e2fbbc8:h2h|Coolbet|Alverca",
-    "d1d57dea05f7717f803d0db88e2fbbc8:h2h|Coolbet|CF Estrela",
-    "d1d57dea05f7717f803d0db88e2fbbc8:h2h|LeoVegas (SE)|Alverca",
-    "d1d57dea05f7717f803d0db88e2fbbc8:h2h|LeoVegas (SE)|CF Estrela",
-    "d1d57dea05f7717f803d0db88e2fbbc8:h2h|Nordic Bet|Alverca",
-    "d1d57dea05f7717f803d0db88e2fbbc8:h2h|Nordic Bet|CF Estrela",
-    "d1d57dea05f7717f803d0db88e2fbbc8:h2h|PMU (FR)|Alverca",
-    "d1d57dea05f7717f803d0db88e2fbbc8:h2h|PMU (FR)|CF Estrela",
-    "d1d57dea05f7717f803d0db88e2fbbc8:h2h|Tipico|Alverca",
-    "d1d57dea05f7717f803d0db88e2fbbc8:h2h|Tipico|CF Estrela",
-    "d1d57dea05f7717f803d0db88e2fbbc8:h2h|Unibet (NL)|Alverca",
-    "d1d57dea05f7717f803d0db88e2fbbc8:h2h|Unibet (NL)|CF Estrela",
-    "d1d57dea05f7717f803d0db88e2fbbc8:h2h|Unibet (SE)|Alverca",
-    "d1d57dea05f7717f803d0db88e2fbbc8:h2h|Unibet (SE)|CF Estrela",
-    "d1d57dea05f7717f803d0db88e2fbbc8:h2h|Winamax (DE)|Alverca",
-    "d1d57dea05f7717f803d0db88e2fbbc8:h2h|Winamax (DE)|CF Estrela",
-    "d1d57dea05f7717f803d0db88e2fbbc8:h2h|Winamax (FR)|Alverca",
-    "d1d57dea05f7717f803d0db88e2fbbc8:h2h|Winamax (FR)|CF Estrela"
+    "9dddd92d5b2905530810a7fbcbc3315e:h2h|888sport|Draw",
+    "9dddd92d5b2905530810a7fbcbc3315e:h2h|888sport|Piast Gliwice",
+    "9dddd92d5b2905530810a7fbcbc3315e:h2h|Betclic (FR)|Draw",
+    "9dddd92d5b2905530810a7fbcbc3315e:h2h|Betclic (FR)|Piast Gliwice",
+    "9dddd92d5b2905530810a7fbcbc3315e:h2h|Betfair|Draw",
+    "9dddd92d5b2905530810a7fbcbc3315e:h2h|Betfair|Piast Gliwice",
+    "9dddd92d5b2905530810a7fbcbc3315e:h2h|Betsson|Draw",
+    "9dddd92d5b2905530810a7fbcbc3315e:h2h|Betsson|Piast Gliwice",
+    "9dddd92d5b2905530810a7fbcbc3315e:h2h|Nordic Bet|Draw",
+    "9dddd92d5b2905530810a7fbcbc3315e:h2h|Nordic Bet|Piast Gliwice",
+    "9dddd92d5b2905530810a7fbcbc3315e:h2h|Winamax (DE)|Draw",
+    "9dddd92d5b2905530810a7fbcbc3315e:h2h|Winamax (DE)|Piast Gliwice"
   ]
 }
