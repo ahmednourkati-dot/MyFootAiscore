@@ -1,241 +1,201 @@
 {
   "snapshots": {
     "bf40262b0a1e1769338290cdc441b2ab:h2h": {
-      "Unibet (SE)": {
-        "Botafogo-SP": 3.2,
-        "São Bernardo": 3.0,
-        "Draw": 2.3
-      },
-      "Unibet (NL)": {
-        "Botafogo-SP": 3.05,
-        "São Bernardo": 2.85,
-        "Draw": 2.2
-      },
-      "LeoVegas (SE)": {
-        "Botafogo-SP": 3.0,
-        "São Bernardo": 2.8,
-        "Draw": 2.17
-      },
       "Coolbet": {
-        "Botafogo-SP": 3.0,
-        "São Bernardo": 3.25,
-        "Draw": 2.25
+        "Botafogo-SP": 1.13,
+        "São Bernardo": 40.0,
+        "Draw": 5.5
       },
       "Betsson": {
-        "Botafogo-SP": 2.92,
-        "São Bernardo": 3.2,
-        "Draw": 2.25
+        "Botafogo-SP": 1.1,
+        "São Bernardo": 40.0,
+        "Draw": 5.8
       },
       "Pinnacle": {
-        "Botafogo-SP": 3.13,
-        "São Bernardo": 3.52,
-        "Draw": 2.16
+        "Botafogo-SP": 1.22,
+        "São Bernardo": 25.9,
+        "Draw": 4.95
       },
       "Nordic Bet": {
-        "Botafogo-SP": 2.92,
-        "São Bernardo": 3.2,
-        "Draw": 2.25
+        "Botafogo-SP": 1.1,
+        "São Bernardo": 40.0,
+        "Draw": 5.8
       },
       "888sport": {
-        "Botafogo-SP": 2.9,
-        "São Bernardo": 3.2,
-        "Draw": 2.2
+        "Botafogo-SP": 1.12,
+        "São Bernardo": 46.0,
+        "Draw": 6.0
       },
       "Tipico": {
-        "Botafogo-SP": 2.7,
-        "São Bernardo": 3.4,
-        "Draw": 2.3
+        "Botafogo-SP": 1.15,
+        "São Bernardo": 60.0,
+        "Draw": 4.7
       },
       "Matchbook": {
-        "Botafogo-SP": 3.15,
-        "São Bernardo": 3.75,
-        "Draw": 2.32
+        "Botafogo-SP": 1.15,
+        "São Bernardo": 90.0,
+        "Draw": 7.0
       },
       "Betfair": {
-        "Botafogo-SP": 3.1,
-        "São Bernardo": 3.7,
-        "Draw": 2.36
+        "Botafogo-SP": 1.16,
+        "São Bernardo": 110.0,
+        "Draw": 7.0
       }
     },
     "cceddac8c4da40861d7a224e38548ac5:h2h": {
       "Unibet (SE)": {
-        "Nautico PE": 6.4,
-        "Ponte Preta": 1.62,
-        "Draw": 3.3
+        "Nautico PE": 7.5,
+        "Ponte Preta": 6.1,
+        "Draw": 1.29
       },
       "LeoVegas (SE)": {
-        "Nautico PE": 6.0,
-        "Ponte Preta": 1.54,
-        "Draw": 3.0
+        "Nautico PE": 4.3,
+        "Ponte Preta": 6.5,
+        "Draw": 1.3
       },
       "Unibet (NL)": {
-        "Nautico PE": 6.0,
-        "Ponte Preta": 1.56,
-        "Draw": 3.05
+        "Nautico PE": 7.0,
+        "Ponte Preta": 5.75,
+        "Draw": 1.23
       },
       "Betsson": {
-        "Nautico PE": 5.8,
-        "Ponte Preta": 1.62,
-        "Draw": 3.2
+        "Nautico PE": 6.3,
+        "Ponte Preta": 4.6,
+        "Draw": 1.38
       },
       "Nordic Bet": {
-        "Nautico PE": 5.8,
-        "Ponte Preta": 1.62,
-        "Draw": 3.2
+        "Nautico PE": 6.3,
+        "Ponte Preta": 4.6,
+        "Draw": 1.38
       },
       "Coolbet": {
-        "Nautico PE": 5.5,
-        "Ponte Preta": 1.67,
-        "Draw": 3.25
+        "Nautico PE": 3.8,
+        "Ponte Preta": 6.5,
+        "Draw": 1.5
       },
       "Pinnacle": {
-        "Nautico PE": 6.35,
-        "Ponte Preta": 1.66,
-        "Draw": 3.27
+        "Nautico PE": 3.42,
+        "Ponte Preta": 5.61,
+        "Draw": 1.68
       },
       "Matchbook": {
         "Nautico PE": 6.8,
-        "Ponte Preta": 1.72,
-        "Draw": 3.55
+        "Ponte Preta": 5.4,
+        "Draw": 1.41
       },
       "Betfair": {
-        "Nautico PE": 6.8,
-        "Ponte Preta": 1.72,
-        "Draw": 3.6
+        "Nautico PE": 8.2,
+        "Ponte Preta": 3.8,
+        "Draw": 1.35
       }
     },
     "6a46a3359c4793930a49671d8ef80334:h2h": {
       "Pinnacle": {
-        "La Serena": 3.38,
-        "Universidad de Concepción": 2.17,
-        "Draw": 3.22
+        "La Serena": 1.64,
+        "Universidad de Concepción": 6.5,
+        "Draw": 3.31
       },
       "Winamax (DE)": {
-        "La Serena": 3.3,
-        "Universidad de Concepción": 2.15,
-        "Draw": 2.95
+        "La Serena": 1.62,
+        "Universidad de Concepción": 5.6,
+        "Draw": 3.2
       },
       "Winamax (FR)": {
-        "La Serena": 3.2,
-        "Universidad de Concepción": 2.1,
-        "Draw": 2.85
-      },
-      "Betsson": {
-        "La Serena": 3.3,
-        "Universidad de Concepción": 2.2,
-        "Draw": 2.92
-      },
-      "Nordic Bet": {
-        "La Serena": 3.3,
-        "Universidad de Concepción": 2.2,
-        "Draw": 2.92
-      },
-      "Coolbet": {
-        "La Serena": 3.5,
-        "Universidad de Concepción": 2.3,
-        "Draw": 3.14
-      },
-      "888sport": {
-        "La Serena": 3.25,
-        "Universidad de Concepción": 2.1,
-        "Draw": 2.88
-      },
-      "Tipico": {
-        "La Serena": 3.6,
-        "Universidad de Concepción": 2.0,
+        "La Serena": 1.6,
+        "Universidad de Concepción": 5.3,
         "Draw": 3.1
       },
+      "Betsson": {
+        "La Serena": 1.62,
+        "Universidad de Concepción": 5.8,
+        "Draw": 3.2
+      },
+      "Nordic Bet": {
+        "La Serena": 1.62,
+        "Universidad de Concepción": 5.8,
+        "Draw": 3.2
+      },
+      "Coolbet": {
+        "La Serena": 1.67,
+        "Universidad de Concepción": 6.5,
+        "Draw": 3.4
+      },
+      "888sport": {
+        "La Serena": 1.61,
+        "Universidad de Concepción": 5.5,
+        "Draw": 3.1
+      },
+      "Tipico": {
+        "La Serena": 1.6,
+        "Universidad de Concepción": 5.2,
+        "Draw": 3.4
+      },
       "Betfair": {
-        "La Serena": 3.9,
-        "Universidad de Concepción": 2.26,
-        "Draw": 3.25
+        "La Serena": 1.73,
+        "Universidad de Concepción": 6.8,
+        "Draw": 3.55
       },
       "Unibet (SE)": {
-        "La Serena": 3.2,
-        "Universidad de Concepción": 2.25,
-        "Draw": 2.85
+        "La Serena": 1.61,
+        "Universidad de Concepción": 6.4,
+        "Draw": 3.05
       },
       "LeoVegas (SE)": {
-        "La Serena": 3.0,
-        "Universidad de Concepción": 2.12,
-        "Draw": 2.7
+        "La Serena": 1.5,
+        "Universidad de Concepción": 6.25,
+        "Draw": 2.95
       },
       "Matchbook": {
-        "La Serena": 4.0,
-        "Universidad de Concepción": 2.26,
-        "Draw": 3.2
+        "La Serena": 1.72,
+        "Universidad de Concepción": 6.8,
+        "Draw": 3.55
       }
     },
     "4aab9401d098c250b1760be919791eea:h2h": {
-      "1xBet": {
-        "Banfield": 6.89,
-        "Racing Club": 1.59,
-        "Draw": 3.73
-      },
       "Betfair": {
-        "Banfield": 6.6,
-        "Racing Club": 1.67,
-        "Draw": 3.9
+        "Banfield": 2.02,
+        "Racing Club": 4.9,
+        "Draw": 3.2
       },
       "Nordic Bet": {
-        "Banfield": 6.3,
-        "Racing Club": 1.6,
-        "Draw": 3.6
+        "Banfield": 1.82,
+        "Racing Club": 4.4,
+        "Draw": 3.15
       },
       "Betsson": {
-        "Banfield": 6.3,
-        "Racing Club": 1.6,
-        "Draw": 3.6
+        "Banfield": 1.82,
+        "Racing Club": 4.4,
+        "Draw": 3.15
       },
       "Unibet (SE)": {
-        "Banfield": 5.8,
-        "Racing Club": 1.62,
-        "Draw": 3.65
+        "Banfield": 2.02,
+        "Racing Club": 4.2,
+        "Draw": 2.88
       },
       "LeoVegas (SE)": {
-        "Banfield": 5.25,
-        "Racing Club": 1.53,
-        "Draw": 3.4
+        "Banfield": 1.89,
+        "Racing Club": 3.95,
+        "Draw": 2.7
       },
       "Winamax (FR)": {
-        "Banfield": 5.3,
-        "Racing Club": 1.54,
-        "Draw": 3.65
-      },
-      "Unibet (FR)": {
-        "Banfield": 5.7,
-        "Racing Club": 1.5,
-        "Draw": 3.6
+        "Banfield": 1.78,
+        "Racing Club": 4.2,
+        "Draw": 2.95
       },
       "Betclic (FR)": {
-        "Banfield": 5.1,
-        "Racing Club": 1.59,
-        "Draw": 3.38
+        "Banfield": 1.87,
+        "Racing Club": 4.05,
+        "Draw": 3.02
       },
       "Winamax (DE)": {
-        "Banfield": 5.4,
-        "Racing Club": 1.56,
-        "Draw": 3.7
-      },
-      "Marathon Bet": {
-        "Banfield": 5.9,
-        "Racing Club": 1.6,
-        "Draw": 3.6
+        "Banfield": 1.82,
+        "Racing Club": 4.4,
+        "Draw": 3.05
       },
       "Pinnacle": {
-        "Banfield": 6.24,
-        "Racing Club": 1.64,
-        "Draw": 3.76
-      },
-      "BetAnything": {
-        "Banfield": 6.28,
-        "Racing Club": 1.63,
-        "Draw": 3.77
-      },
-      "BetOnline.ag": {
-        "Banfield": 6.25,
-        "Racing Club": 1.65,
-        "Draw": 3.75
+        "Banfield": 2.1,
+        "Racing Club": 4.05,
+        "Draw": 2.97
       }
     }
   },
@@ -3920,12 +3880,386 @@
       "confidence": 7,
       "alert_type": "value",
       "alerted_at": "2026-08-14T23:23:51.391124+00:00"
+    },
+    {
+      "state_key": "bf40262b0a1e1769338290cdc441b2ab:h2h",
+      "event_id": "bf40262b0a1e1769338290cdc441b2ab",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "São Bernardo",
+      "away_team": "Botafogo-SP",
+      "commence_time": "2026-08-14T22:29:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "São Bernardo",
+      "odds_at_alert": 40.0,
+      "stake_pct": 5.0,
+      "confidence": 46,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T00:13:56.905714+00:00"
+    },
+    {
+      "state_key": "bf40262b0a1e1769338290cdc441b2ab:h2h",
+      "event_id": "bf40262b0a1e1769338290cdc441b2ab",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "São Bernardo",
+      "away_team": "Botafogo-SP",
+      "commence_time": "2026-08-14T22:29:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "São Bernardo",
+      "odds_at_alert": 40.0,
+      "stake_pct": 5.0,
+      "confidence": 46,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T00:13:57.242113+00:00"
+    },
+    {
+      "state_key": "bf40262b0a1e1769338290cdc441b2ab:h2h",
+      "event_id": "bf40262b0a1e1769338290cdc441b2ab",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "São Bernardo",
+      "away_team": "Botafogo-SP",
+      "commence_time": "2026-08-14T22:29:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.8,
+      "stake_pct": 3.0,
+      "confidence": 11,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T00:13:57.647243+00:00"
+    },
+    {
+      "state_key": "bf40262b0a1e1769338290cdc441b2ab:h2h",
+      "event_id": "bf40262b0a1e1769338290cdc441b2ab",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "São Bernardo",
+      "away_team": "Botafogo-SP",
+      "commence_time": "2026-08-14T22:29:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "São Bernardo",
+      "odds_at_alert": 40.0,
+      "stake_pct": 5.0,
+      "confidence": 46,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T00:13:57.956719+00:00"
+    },
+    {
+      "state_key": "bf40262b0a1e1769338290cdc441b2ab:h2h",
+      "event_id": "bf40262b0a1e1769338290cdc441b2ab",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "São Bernardo",
+      "away_team": "Botafogo-SP",
+      "commence_time": "2026-08-14T22:29:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.8,
+      "stake_pct": 3.0,
+      "confidence": 11,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T00:13:58.269282+00:00"
+    },
+    {
+      "state_key": "bf40262b0a1e1769338290cdc441b2ab:h2h",
+      "event_id": "bf40262b0a1e1769338290cdc441b2ab",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "São Bernardo",
+      "away_team": "Botafogo-SP",
+      "commence_time": "2026-08-14T22:29:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "São Bernardo",
+      "odds_at_alert": 46.0,
+      "stake_pct": 5.0,
+      "confidence": 68,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T00:13:58.572584+00:00"
+    },
+    {
+      "state_key": "bf40262b0a1e1769338290cdc441b2ab:h2h",
+      "event_id": "bf40262b0a1e1769338290cdc441b2ab",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "São Bernardo",
+      "away_team": "Botafogo-SP",
+      "commence_time": "2026-08-14T22:29:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.0,
+      "stake_pct": 3.0,
+      "confidence": 14,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T00:13:58.892785+00:00"
+    },
+    {
+      "state_key": "bf40262b0a1e1769338290cdc441b2ab:h2h",
+      "event_id": "bf40262b0a1e1769338290cdc441b2ab",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "São Bernardo",
+      "away_team": "Botafogo-SP",
+      "commence_time": "2026-08-14T22:29:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "São Bernardo",
+      "odds_at_alert": 60.0,
+      "stake_pct": 5.0,
+      "confidence": 118,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T00:13:59.222313+00:00"
+    },
+    {
+      "state_key": "bf40262b0a1e1769338290cdc441b2ab:h2h",
+      "event_id": "bf40262b0a1e1769338290cdc441b2ab",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "São Bernardo",
+      "away_team": "Botafogo-SP",
+      "commence_time": "2026-08-14T22:29:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "São Bernardo",
+      "odds_at_alert": 90.0,
+      "stake_pct": 5.0,
+      "confidence": 228,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T00:13:59.548053+00:00"
+    },
+    {
+      "state_key": "bf40262b0a1e1769338290cdc441b2ab:h2h",
+      "event_id": "bf40262b0a1e1769338290cdc441b2ab",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "São Bernardo",
+      "away_team": "Botafogo-SP",
+      "commence_time": "2026-08-14T22:29:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 7.0,
+      "stake_pct": 5.0,
+      "confidence": 33,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T00:13:59.860423+00:00"
+    },
+    {
+      "state_key": "bf40262b0a1e1769338290cdc441b2ab:h2h",
+      "event_id": "bf40262b0a1e1769338290cdc441b2ab",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "São Bernardo",
+      "away_team": "Botafogo-SP",
+      "commence_time": "2026-08-14T22:29:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "São Bernardo",
+      "odds_at_alert": 110.0,
+      "stake_pct": 5.0,
+      "confidence": 301,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T00:14:00.174049+00:00"
+    },
+    {
+      "state_key": "bf40262b0a1e1769338290cdc441b2ab:h2h",
+      "event_id": "bf40262b0a1e1769338290cdc441b2ab",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "São Bernardo",
+      "away_team": "Botafogo-SP",
+      "commence_time": "2026-08-14T22:29:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 7.0,
+      "stake_pct": 5.0,
+      "confidence": 33,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T00:14:00.535303+00:00"
+    },
+    {
+      "state_key": "cceddac8c4da40861d7a224e38548ac5:h2h",
+      "event_id": "cceddac8c4da40861d7a224e38548ac5",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ponte Preta",
+      "away_team": "Nautico PE",
+      "commence_time": "2026-08-14T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Nautico PE",
+      "odds_at_alert": 7.5,
+      "stake_pct": 5.0,
+      "confidence": 106,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T00:14:00.877258+00:00"
+    },
+    {
+      "state_key": "cceddac8c4da40861d7a224e38548ac5:h2h",
+      "event_id": "cceddac8c4da40861d7a224e38548ac5",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ponte Preta",
+      "away_team": "Nautico PE",
+      "commence_time": "2026-08-14T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Nautico PE",
+      "odds_at_alert": 4.3,
+      "stake_pct": 5.0,
+      "confidence": 18,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T00:14:01.261086+00:00"
+    },
+    {
+      "state_key": "cceddac8c4da40861d7a224e38548ac5:h2h",
+      "event_id": "cceddac8c4da40861d7a224e38548ac5",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ponte Preta",
+      "away_team": "Nautico PE",
+      "commence_time": "2026-08-14T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Ponte Preta",
+      "odds_at_alert": 6.5,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T00:14:01.667228+00:00"
+    },
+    {
+      "state_key": "cceddac8c4da40861d7a224e38548ac5:h2h",
+      "event_id": "cceddac8c4da40861d7a224e38548ac5",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ponte Preta",
+      "away_team": "Nautico PE",
+      "commence_time": "2026-08-14T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Nautico PE",
+      "odds_at_alert": 7.0,
+      "stake_pct": 5.0,
+      "confidence": 92,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T00:14:02.033530+00:00"
+    },
+    {
+      "state_key": "cceddac8c4da40861d7a224e38548ac5:h2h",
+      "event_id": "cceddac8c4da40861d7a224e38548ac5",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ponte Preta",
+      "away_team": "Nautico PE",
+      "commence_time": "2026-08-14T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Nautico PE",
+      "odds_at_alert": 6.3,
+      "stake_pct": 5.0,
+      "confidence": 73,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T00:14:02.374295+00:00"
+    },
+    {
+      "state_key": "cceddac8c4da40861d7a224e38548ac5:h2h",
+      "event_id": "cceddac8c4da40861d7a224e38548ac5",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ponte Preta",
+      "away_team": "Nautico PE",
+      "commence_time": "2026-08-14T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Nautico PE",
+      "odds_at_alert": 6.3,
+      "stake_pct": 5.0,
+      "confidence": 73,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T00:14:02.704735+00:00"
+    },
+    {
+      "state_key": "cceddac8c4da40861d7a224e38548ac5:h2h",
+      "event_id": "cceddac8c4da40861d7a224e38548ac5",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ponte Preta",
+      "away_team": "Nautico PE",
+      "commence_time": "2026-08-14T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Ponte Preta",
+      "odds_at_alert": 6.5,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T00:14:03.026574+00:00"
+    },
+    {
+      "state_key": "cceddac8c4da40861d7a224e38548ac5:h2h",
+      "event_id": "cceddac8c4da40861d7a224e38548ac5",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ponte Preta",
+      "away_team": "Nautico PE",
+      "commence_time": "2026-08-14T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Nautico PE",
+      "odds_at_alert": 6.8,
+      "stake_pct": 5.0,
+      "confidence": 87,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T00:14:03.379220+00:00"
+    },
+    {
+      "state_key": "cceddac8c4da40861d7a224e38548ac5:h2h",
+      "event_id": "cceddac8c4da40861d7a224e38548ac5",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ponte Preta",
+      "away_team": "Nautico PE",
+      "commence_time": "2026-08-14T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Nautico PE",
+      "odds_at_alert": 8.2,
+      "stake_pct": 5.0,
+      "confidence": 125,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T00:14:03.744783+00:00"
+    },
+    {
+      "state_key": "4aab9401d098c250b1760be919791eea:h2h",
+      "event_id": "4aab9401d098c250b1760be919791eea",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Racing Club",
+      "away_team": "Banfield",
+      "commence_time": "2026-08-14T23:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Racing Club",
+      "odds_at_alert": 4.9,
+      "stake_pct": 3.0,
+      "confidence": 14,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T00:14:04.082556+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
     "4aab9401d098c250b1760be919791eea:h2h|1xBet|Banfield",
+    "4aab9401d098c250b1760be919791eea:h2h|Betfair|Racing Club",
     "6a46a3359c4793930a49671d8ef80334:h2h|Betfair|La Serena",
-    "6a46a3359c4793930a49671d8ef80334:h2h|Matchbook|La Serena"
+    "6a46a3359c4793930a49671d8ef80334:h2h|Matchbook|La Serena",
+    "bf40262b0a1e1769338290cdc441b2ab:h2h|888sport|Draw",
+    "bf40262b0a1e1769338290cdc441b2ab:h2h|888sport|São Bernardo",
+    "bf40262b0a1e1769338290cdc441b2ab:h2h|Betfair|Draw",
+    "bf40262b0a1e1769338290cdc441b2ab:h2h|Betfair|São Bernardo",
+    "bf40262b0a1e1769338290cdc441b2ab:h2h|Betsson|Draw",
+    "bf40262b0a1e1769338290cdc441b2ab:h2h|Betsson|São Bernardo",
+    "bf40262b0a1e1769338290cdc441b2ab:h2h|Coolbet|São Bernardo",
+    "bf40262b0a1e1769338290cdc441b2ab:h2h|Matchbook|Draw",
+    "bf40262b0a1e1769338290cdc441b2ab:h2h|Matchbook|São Bernardo",
+    "bf40262b0a1e1769338290cdc441b2ab:h2h|Nordic Bet|Draw",
+    "bf40262b0a1e1769338290cdc441b2ab:h2h|Nordic Bet|São Bernardo",
+    "bf40262b0a1e1769338290cdc441b2ab:h2h|Tipico|São Bernardo",
+    "cceddac8c4da40861d7a224e38548ac5:h2h|Betfair|Nautico PE",
+    "cceddac8c4da40861d7a224e38548ac5:h2h|Betsson|Nautico PE",
+    "cceddac8c4da40861d7a224e38548ac5:h2h|Coolbet|Ponte Preta",
+    "cceddac8c4da40861d7a224e38548ac5:h2h|LeoVegas (SE)|Nautico PE",
+    "cceddac8c4da40861d7a224e38548ac5:h2h|LeoVegas (SE)|Ponte Preta",
+    "cceddac8c4da40861d7a224e38548ac5:h2h|Matchbook|Nautico PE",
+    "cceddac8c4da40861d7a224e38548ac5:h2h|Nordic Bet|Nautico PE",
+    "cceddac8c4da40861d7a224e38548ac5:h2h|Unibet (NL)|Nautico PE",
+    "cceddac8c4da40861d7a224e38548ac5:h2h|Unibet (SE)|Nautico PE"
   ]
 }
