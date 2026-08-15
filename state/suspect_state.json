@@ -1,113 +1,186 @@
 {
   "snapshots": {
-    "0cb1b113469e83f07b4593116cfa9339:h2h": {
-      "Winamax (FR)": {
-        "Birmingham City": 40.0,
-        "Sheffield United": 34.0,
-        "Draw": 1.02
-      },
-      "Winamax (DE)": {
-        "Birmingham City": 30.0,
-        "Sheffield United": 27.0,
-        "Draw": 1.02
-      },
-      "Pinnacle": {
-        "Birmingham City": 9.28,
-        "Sheffield United": 8.18,
-        "Draw": 1.2
-      },
-      "Betfair": {
-        "Birmingham City": 2.14,
-        "Sheffield United": 1.2
-      },
-      "Tipico": {
-        "Birmingham City": 14.0,
-        "Sheffield United": 22.0,
-        "Draw": 1.02
-      },
-      "Unibet (NL)": {
-        "Birmingham City": 41.0,
-        "Sheffield United": 46.0,
-        "Draw": 1.01
-      },
-      "Unibet (SE)": {
-        "Birmingham City": 41.0,
-        "Sheffield United": 46.0,
-        "Draw": 1.01
-      },
-      "Nordic Bet": {
-        "Birmingham City": 17.0,
-        "Sheffield United": 15.0,
-        "Draw": 1.05
-      },
-      "Betsson": {
-        "Birmingham City": 19.0,
-        "Sheffield United": 17.0,
-        "Draw": 1.04
-      },
+    "28c33e941922e40bec344f7c7bfa9c44:h2h": {
       "Coolbet": {
-        "Birmingham City": 25.0,
-        "Sheffield United": 20.0,
-        "Draw": 1.02
-      }
-    },
-    "1a31e514bafac6bfe6a45194e80bb21b:h2h": {
-      "888sport": {
-        "Padova": 151.0,
-        "Udinese": 1.02,
-        "Draw": 19.0
-      },
-      "Winamax (DE)": {
-        "Padova": 1000.0,
-        "Udinese": 1.01,
-        "Draw": 25.0
-      },
-      "Betfair": {
-        "Padova": 220.0,
-        "Udinese": 1.02,
-        "Draw": 34.0
-      },
-      "Tipico": {
-        "Padova": 400.0,
-        "Udinese": 1.01,
-        "Draw": 20.0
-      }
-    },
-    "2e55b844634f3ab5b6cd0269a71856b6:h2h": {
-      "Winamax (FR)": {
-        "AZ Alkmaar": 1.01,
-        "FC Utrecht": 450.0,
-        "Draw": 34.0
-      },
-      "Winamax (DE)": {
-        "AZ Alkmaar": 1.01,
-        "FC Utrecht": 450.0,
-        "Draw": 34.0
+        "Académico de Viseu": 80.0,
+        "Santa Clara": 1.0,
+        "Draw": 16.0
       },
       "Betclic (FR)": {
-        "AZ Alkmaar": 1.0,
-        "FC Utrecht": 100.0,
-        "Draw": 100.0
+        "Académico de Viseu": 100.0,
+        "Santa Clara": 1.0,
+        "Draw": 25.0
+      },
+      "Winamax (FR)": {
+        "Académico de Viseu": 600.0,
+        "Santa Clara": 1.03,
+        "Draw": 17.0
+      },
+      "Winamax (DE)": {
+        "Académico de Viseu": 1000.0,
+        "Santa Clara": 1.01,
+        "Draw": 20.0
       },
       "Nordic Bet": {
-        "AZ Alkmaar": 1.0,
-        "FC Utrecht": 29.0,
-        "Draw": 26.0
+        "Académico de Viseu": 101.0,
+        "Santa Clara": 1.0,
+        "Draw": 15.0
       },
       "Betsson": {
-        "AZ Alkmaar": 1.0,
-        "FC Utrecht": 29.0,
-        "Draw": 26.0
+        "Académico de Viseu": 101.0,
+        "Santa Clara": 1.0,
+        "Draw": 15.0
       },
       "Betfair": {
-        "AZ Alkmaar": 1.01,
-        "FC Utrecht": 160.0,
-        "Draw": 50.0
+        "Académico de Viseu": 320.0,
+        "Santa Clara": 1.02,
+        "Draw": 34.0
+      }
+    },
+    "2f2df794ccddf7c4da26a76ca872e7e8:h2h": {
+      "Pinnacle": {
+        "Celta Vigo": 14.82,
+        "Cádiz CF": 7.69,
+        "Draw": 1.15
       },
-      "888sport": {
-        "AZ Alkmaar": 1.0,
-        "FC Utrecht": 151.0,
-        "Draw": 46.0
+      "Tipico": {
+        "Celta Vigo": 50.0,
+        "Cádiz CF": 30.0,
+        "Draw": 1.01
+      },
+      "Betfair": {
+        "Celta Vigo": 1.01,
+        "Cádiz CF": 1.01,
+        "Draw": 1.01
+      },
+      "Coolbet": {
+        "Celta Vigo": 22.0,
+        "Cádiz CF": 12.5,
+        "Draw": 1.06
+      },
+      "Matchbook": {
+        "Celta Vigo": 22.0,
+        "Cádiz CF": 2.6,
+        "Draw": 1.03
+      },
+      "Unibet (SE)": {
+        "Celta Vigo": 31.0,
+        "Cádiz CF": 23.0,
+        "Draw": 1.02
+      }
+    },
+    "4b1211e0f448d01cf2b7fabd07aee49e:h2h": {
+      "Winamax (DE)": {
+        "Alavés": 1.07,
+        "Getafe": 75.0,
+        "Draw": 9.0
+      },
+      "Nordic Bet": {
+        "Alavés": 1.05,
+        "Getafe": 100.0,
+        "Draw": 10.5
+      },
+      "Winamax (FR)": {
+        "Alavés": 1.08,
+        "Getafe": 75.0,
+        "Draw": 8.5
+      },
+      "Betfair": {
+        "Alavés": 1.09,
+        "Getafe": 200.0,
+        "Draw": 12.0
+      },
+      "Betsson": {
+        "Alavés": 1.04,
+        "Getafe": 100.0,
+        "Draw": 11.5
+      },
+      "Betclic (FR)": {
+        "Alavés": 1.05,
+        "Getafe": 60.0,
+        "Draw": 8.5
+      },
+      "Tipico": {
+        "Alavés": 1.05,
+        "Getafe": 80.0,
+        "Draw": 8.0
+      },
+      "Pinnacle": {
+        "Alavés": 2.33,
+        "Getafe": 14.4,
+        "Draw": 1.8
+      },
+      "Coolbet": {
+        "Alavés": 1.06,
+        "Getafe": 100.0,
+        "Draw": 11.0
+      },
+      "Unibet (NL)": {
+        "Alavés": 1.03,
+        "Getafe": 141.0,
+        "Draw": 14.0
+      },
+      "LeoVegas (SE)": {
+        "Alavés": 1.01,
+        "Getafe": 81.0,
+        "Draw": 14.0
+      },
+      "Unibet (SE)": {
+        "Alavés": 1.03,
+        "Getafe": 161.0,
+        "Draw": 14.0
+      },
+      "Matchbook": {
+        "Alavés": 1.09,
+        "Getafe": 180.0,
+        "Draw": 12.0
+      }
+    },
+    "e657f60b5481b8c6b8210dc03062fff1:h2h": {
+      "Betfair": {
+        "Aldosivi Mar del Plata": 6.4,
+        "CA Tigre BA": 6.2,
+        "Draw": 1.46
+      },
+      "Nordic Bet": {
+        "Aldosivi Mar del Plata": 5.8,
+        "CA Tigre BA": 5.35,
+        "Draw": 1.36
+      },
+      "Betsson": {
+        "Aldosivi Mar del Plata": 5.8,
+        "CA Tigre BA": 5.35,
+        "Draw": 1.36
+      },
+      "Winamax (DE)": {
+        "Aldosivi Mar del Plata": 4.2,
+        "CA Tigre BA": 8.5,
+        "Draw": 1.34
+      },
+      "Winamax (FR)": {
+        "Aldosivi Mar del Plata": 4.0,
+        "CA Tigre BA": 7.75,
+        "Draw": 1.36
+      },
+      "Betclic (FR)": {
+        "Aldosivi Mar del Plata": 5.5,
+        "CA Tigre BA": 5.0,
+        "Draw": 1.35
+      },
+      "Unibet (SE)": {
+        "Aldosivi Mar del Plata": 4.9,
+        "CA Tigre BA": 5.25,
+        "Draw": 1.45
+      },
+      "LeoVegas (SE)": {
+        "Aldosivi Mar del Plata": 4.6,
+        "CA Tigre BA": 4.9,
+        "Draw": 1.38
+      },
+      "Pinnacle": {
+        "Aldosivi Mar del Plata": 5.06,
+        "CA Tigre BA": 4.46,
+        "Draw": 1.57
       }
     }
   },
@@ -5968,37 +6041,706 @@
       "confidence": 31,
       "alert_type": "value",
       "alerted_at": "2026-08-15T18:09:20.247079+00:00"
+    },
+    {
+      "state_key": "2f2df794ccddf7c4da26a76ca872e7e8:h2h",
+      "event_id": "2f2df794ccddf7c4da26a76ca872e7e8",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Cádiz CF",
+      "away_team": "Celta Vigo",
+      "commence_time": "2026-08-15T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Celta Vigo",
+      "odds_at_alert": 50.0,
+      "stake_pct": 5.0,
+      "confidence": 216,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:09:31.872879+00:00"
+    },
+    {
+      "state_key": "2f2df794ccddf7c4da26a76ca872e7e8:h2h",
+      "event_id": "2f2df794ccddf7c4da26a76ca872e7e8",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Cádiz CF",
+      "away_team": "Celta Vigo",
+      "commence_time": "2026-08-15T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cádiz CF",
+      "odds_at_alert": 30.0,
+      "stake_pct": 5.0,
+      "confidence": 266,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:09:32.245608+00:00"
+    },
+    {
+      "state_key": "2f2df794ccddf7c4da26a76ca872e7e8:h2h",
+      "event_id": "2f2df794ccddf7c4da26a76ca872e7e8",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Cádiz CF",
+      "away_team": "Celta Vigo",
+      "commence_time": "2026-08-15T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Celta Vigo",
+      "odds_at_alert": 22.0,
+      "stake_pct": 5.0,
+      "confidence": 39,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:09:32.590934+00:00"
+    },
+    {
+      "state_key": "2f2df794ccddf7c4da26a76ca872e7e8:h2h",
+      "event_id": "2f2df794ccddf7c4da26a76ca872e7e8",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Cádiz CF",
+      "away_team": "Celta Vigo",
+      "commence_time": "2026-08-15T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cádiz CF",
+      "odds_at_alert": 12.5,
+      "stake_pct": 5.0,
+      "confidence": 52,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:09:32.965842+00:00"
+    },
+    {
+      "state_key": "2f2df794ccddf7c4da26a76ca872e7e8:h2h",
+      "event_id": "2f2df794ccddf7c4da26a76ca872e7e8",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Cádiz CF",
+      "away_team": "Celta Vigo",
+      "commence_time": "2026-08-15T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Celta Vigo",
+      "odds_at_alert": 22.0,
+      "stake_pct": 5.0,
+      "confidence": 39,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:09:33.329461+00:00"
+    },
+    {
+      "state_key": "2f2df794ccddf7c4da26a76ca872e7e8:h2h",
+      "event_id": "2f2df794ccddf7c4da26a76ca872e7e8",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Cádiz CF",
+      "away_team": "Celta Vigo",
+      "commence_time": "2026-08-15T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Celta Vigo",
+      "odds_at_alert": 31.0,
+      "stake_pct": 5.0,
+      "confidence": 96,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:09:33.721139+00:00"
+    },
+    {
+      "state_key": "2f2df794ccddf7c4da26a76ca872e7e8:h2h",
+      "event_id": "2f2df794ccddf7c4da26a76ca872e7e8",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Cádiz CF",
+      "away_team": "Celta Vigo",
+      "commence_time": "2026-08-15T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cádiz CF",
+      "odds_at_alert": 23.0,
+      "stake_pct": 5.0,
+      "confidence": 180,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:09:34.133400+00:00"
+    },
+    {
+      "state_key": "4b1211e0f448d01cf2b7fabd07aee49e:h2h",
+      "event_id": "4b1211e0f448d01cf2b7fabd07aee49e",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Alavés",
+      "away_team": "Getafe",
+      "commence_time": "2026-08-15T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Getafe",
+      "odds_at_alert": 75.0,
+      "stake_pct": 5.0,
+      "confidence": 394,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:09:34.476278+00:00"
+    },
+    {
+      "state_key": "4b1211e0f448d01cf2b7fabd07aee49e:h2h",
+      "event_id": "4b1211e0f448d01cf2b7fabd07aee49e",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Alavés",
+      "away_team": "Getafe",
+      "commence_time": "2026-08-15T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 9.0,
+      "stake_pct": 5.0,
+      "confidence": 374,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:09:34.849240+00:00"
+    },
+    {
+      "state_key": "4b1211e0f448d01cf2b7fabd07aee49e:h2h",
+      "event_id": "4b1211e0f448d01cf2b7fabd07aee49e",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Alavés",
+      "away_team": "Getafe",
+      "commence_time": "2026-08-15T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Getafe",
+      "odds_at_alert": 100.0,
+      "stake_pct": 5.0,
+      "confidence": 559,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:09:35.273250+00:00"
+    },
+    {
+      "state_key": "4b1211e0f448d01cf2b7fabd07aee49e:h2h",
+      "event_id": "4b1211e0f448d01cf2b7fabd07aee49e",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Alavés",
+      "away_team": "Getafe",
+      "commence_time": "2026-08-15T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 10.5,
+      "stake_pct": 5.0,
+      "confidence": 453,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:09:35.637057+00:00"
+    },
+    {
+      "state_key": "4b1211e0f448d01cf2b7fabd07aee49e:h2h",
+      "event_id": "4b1211e0f448d01cf2b7fabd07aee49e",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Alavés",
+      "away_team": "Getafe",
+      "commence_time": "2026-08-15T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Getafe",
+      "odds_at_alert": 75.0,
+      "stake_pct": 5.0,
+      "confidence": 394,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:09:35.984054+00:00"
+    },
+    {
+      "state_key": "4b1211e0f448d01cf2b7fabd07aee49e:h2h",
+      "event_id": "4b1211e0f448d01cf2b7fabd07aee49e",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Alavés",
+      "away_team": "Getafe",
+      "commence_time": "2026-08-15T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 8.5,
+      "stake_pct": 5.0,
+      "confidence": 348,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:09:36.348821+00:00"
+    },
+    {
+      "state_key": "4b1211e0f448d01cf2b7fabd07aee49e:h2h",
+      "event_id": "4b1211e0f448d01cf2b7fabd07aee49e",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Alavés",
+      "away_team": "Getafe",
+      "commence_time": "2026-08-15T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Getafe",
+      "odds_at_alert": 200.0,
+      "stake_pct": 5.0,
+      "confidence": 1218,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:09:36.729548+00:00"
+    },
+    {
+      "state_key": "4b1211e0f448d01cf2b7fabd07aee49e:h2h",
+      "event_id": "4b1211e0f448d01cf2b7fabd07aee49e",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Alavés",
+      "away_team": "Getafe",
+      "commence_time": "2026-08-15T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 532,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:09:37.085039+00:00"
+    },
+    {
+      "state_key": "4b1211e0f448d01cf2b7fabd07aee49e:h2h",
+      "event_id": "4b1211e0f448d01cf2b7fabd07aee49e",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Alavés",
+      "away_team": "Getafe",
+      "commence_time": "2026-08-15T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Getafe",
+      "odds_at_alert": 100.0,
+      "stake_pct": 5.0,
+      "confidence": 559,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:09:37.452158+00:00"
+    },
+    {
+      "state_key": "4b1211e0f448d01cf2b7fabd07aee49e:h2h",
+      "event_id": "4b1211e0f448d01cf2b7fabd07aee49e",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Alavés",
+      "away_team": "Getafe",
+      "commence_time": "2026-08-15T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 11.5,
+      "stake_pct": 5.0,
+      "confidence": 506,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:09:37.806074+00:00"
+    },
+    {
+      "state_key": "4b1211e0f448d01cf2b7fabd07aee49e:h2h",
+      "event_id": "4b1211e0f448d01cf2b7fabd07aee49e",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Alavés",
+      "away_team": "Getafe",
+      "commence_time": "2026-08-15T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Getafe",
+      "odds_at_alert": 60.0,
+      "stake_pct": 5.0,
+      "confidence": 295,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:09:38.163278+00:00"
+    },
+    {
+      "state_key": "4b1211e0f448d01cf2b7fabd07aee49e:h2h",
+      "event_id": "4b1211e0f448d01cf2b7fabd07aee49e",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Alavés",
+      "away_team": "Getafe",
+      "commence_time": "2026-08-15T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 8.5,
+      "stake_pct": 5.0,
+      "confidence": 348,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:09:38.519715+00:00"
+    },
+    {
+      "state_key": "4b1211e0f448d01cf2b7fabd07aee49e:h2h",
+      "event_id": "4b1211e0f448d01cf2b7fabd07aee49e",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Alavés",
+      "away_team": "Getafe",
+      "commence_time": "2026-08-15T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Getafe",
+      "odds_at_alert": 80.0,
+      "stake_pct": 5.0,
+      "confidence": 427,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:09:38.876195+00:00"
+    },
+    {
+      "state_key": "4b1211e0f448d01cf2b7fabd07aee49e:h2h",
+      "event_id": "4b1211e0f448d01cf2b7fabd07aee49e",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Alavés",
+      "away_team": "Getafe",
+      "commence_time": "2026-08-15T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 8.0,
+      "stake_pct": 5.0,
+      "confidence": 322,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:09:39.262185+00:00"
+    },
+    {
+      "state_key": "4b1211e0f448d01cf2b7fabd07aee49e:h2h",
+      "event_id": "4b1211e0f448d01cf2b7fabd07aee49e",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Alavés",
+      "away_team": "Getafe",
+      "commence_time": "2026-08-15T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Getafe",
+      "odds_at_alert": 100.0,
+      "stake_pct": 5.0,
+      "confidence": 559,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:09:39.612951+00:00"
+    },
+    {
+      "state_key": "4b1211e0f448d01cf2b7fabd07aee49e:h2h",
+      "event_id": "4b1211e0f448d01cf2b7fabd07aee49e",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Alavés",
+      "away_team": "Getafe",
+      "commence_time": "2026-08-15T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 480,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:09:39.967430+00:00"
+    },
+    {
+      "state_key": "4b1211e0f448d01cf2b7fabd07aee49e:h2h",
+      "event_id": "4b1211e0f448d01cf2b7fabd07aee49e",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Alavés",
+      "away_team": "Getafe",
+      "commence_time": "2026-08-15T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Getafe",
+      "odds_at_alert": 141.0,
+      "stake_pct": 5.0,
+      "confidence": 829,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:09:40.315212+00:00"
+    },
+    {
+      "state_key": "4b1211e0f448d01cf2b7fabd07aee49e:h2h",
+      "event_id": "4b1211e0f448d01cf2b7fabd07aee49e",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Alavés",
+      "away_team": "Getafe",
+      "commence_time": "2026-08-15T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 14.0,
+      "stake_pct": 5.0,
+      "confidence": 638,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:09:41.298914+00:00"
+    },
+    {
+      "state_key": "4b1211e0f448d01cf2b7fabd07aee49e:h2h",
+      "event_id": "4b1211e0f448d01cf2b7fabd07aee49e",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Alavés",
+      "away_team": "Getafe",
+      "commence_time": "2026-08-15T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Getafe",
+      "odds_at_alert": 81.0,
+      "stake_pct": 5.0,
+      "confidence": 434,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:09:41.722074+00:00"
+    },
+    {
+      "state_key": "4b1211e0f448d01cf2b7fabd07aee49e:h2h",
+      "event_id": "4b1211e0f448d01cf2b7fabd07aee49e",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Alavés",
+      "away_team": "Getafe",
+      "commence_time": "2026-08-15T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 14.0,
+      "stake_pct": 5.0,
+      "confidence": 638,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:09:42.125604+00:00"
+    },
+    {
+      "state_key": "4b1211e0f448d01cf2b7fabd07aee49e:h2h",
+      "event_id": "4b1211e0f448d01cf2b7fabd07aee49e",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Alavés",
+      "away_team": "Getafe",
+      "commence_time": "2026-08-15T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Getafe",
+      "odds_at_alert": 161.0,
+      "stake_pct": 5.0,
+      "confidence": 961,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:09:42.502601+00:00"
+    },
+    {
+      "state_key": "4b1211e0f448d01cf2b7fabd07aee49e:h2h",
+      "event_id": "4b1211e0f448d01cf2b7fabd07aee49e",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Alavés",
+      "away_team": "Getafe",
+      "commence_time": "2026-08-15T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 14.0,
+      "stake_pct": 5.0,
+      "confidence": 638,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:09:42.896247+00:00"
+    },
+    {
+      "state_key": "4b1211e0f448d01cf2b7fabd07aee49e:h2h",
+      "event_id": "4b1211e0f448d01cf2b7fabd07aee49e",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Alavés",
+      "away_team": "Getafe",
+      "commence_time": "2026-08-15T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Getafe",
+      "odds_at_alert": 180.0,
+      "stake_pct": 5.0,
+      "confidence": 1086,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:09:43.275227+00:00"
+    },
+    {
+      "state_key": "4b1211e0f448d01cf2b7fabd07aee49e:h2h",
+      "event_id": "4b1211e0f448d01cf2b7fabd07aee49e",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Alavés",
+      "away_team": "Getafe",
+      "commence_time": "2026-08-15T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 532,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:09:43.667336+00:00"
+    },
+    {
+      "state_key": "e657f60b5481b8c6b8210dc03062fff1:h2h",
+      "event_id": "e657f60b5481b8c6b8210dc03062fff1",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Aldosivi Mar del Plata",
+      "away_team": "CA Tigre BA",
+      "commence_time": "2026-08-15T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Aldosivi Mar del Plata",
+      "odds_at_alert": 6.4,
+      "stake_pct": 5.0,
+      "confidence": 19,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:09:44.025545+00:00"
+    },
+    {
+      "state_key": "e657f60b5481b8c6b8210dc03062fff1:h2h",
+      "event_id": "e657f60b5481b8c6b8210dc03062fff1",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Aldosivi Mar del Plata",
+      "away_team": "CA Tigre BA",
+      "commence_time": "2026-08-15T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "CA Tigre BA",
+      "odds_at_alert": 6.2,
+      "stake_pct": 5.0,
+      "confidence": 31,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:09:44.400704+00:00"
+    },
+    {
+      "state_key": "e657f60b5481b8c6b8210dc03062fff1:h2h",
+      "event_id": "e657f60b5481b8c6b8210dc03062fff1",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Aldosivi Mar del Plata",
+      "away_team": "CA Tigre BA",
+      "commence_time": "2026-08-15T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Aldosivi Mar del Plata",
+      "odds_at_alert": 5.8,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:09:44.759333+00:00"
+    },
+    {
+      "state_key": "e657f60b5481b8c6b8210dc03062fff1:h2h",
+      "event_id": "e657f60b5481b8c6b8210dc03062fff1",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Aldosivi Mar del Plata",
+      "away_team": "CA Tigre BA",
+      "commence_time": "2026-08-15T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "CA Tigre BA",
+      "odds_at_alert": 5.35,
+      "stake_pct": 3.0,
+      "confidence": 13,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:09:45.141222+00:00"
+    },
+    {
+      "state_key": "e657f60b5481b8c6b8210dc03062fff1:h2h",
+      "event_id": "e657f60b5481b8c6b8210dc03062fff1",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Aldosivi Mar del Plata",
+      "away_team": "CA Tigre BA",
+      "commence_time": "2026-08-15T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Aldosivi Mar del Plata",
+      "odds_at_alert": 5.8,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:09:45.487882+00:00"
+    },
+    {
+      "state_key": "e657f60b5481b8c6b8210dc03062fff1:h2h",
+      "event_id": "e657f60b5481b8c6b8210dc03062fff1",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Aldosivi Mar del Plata",
+      "away_team": "CA Tigre BA",
+      "commence_time": "2026-08-15T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "CA Tigre BA",
+      "odds_at_alert": 5.35,
+      "stake_pct": 3.0,
+      "confidence": 13,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:09:45.842270+00:00"
+    },
+    {
+      "state_key": "e657f60b5481b8c6b8210dc03062fff1:h2h",
+      "event_id": "e657f60b5481b8c6b8210dc03062fff1",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Aldosivi Mar del Plata",
+      "away_team": "CA Tigre BA",
+      "commence_time": "2026-08-15T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "CA Tigre BA",
+      "odds_at_alert": 8.5,
+      "stake_pct": 5.0,
+      "confidence": 80,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:09:46.190694+00:00"
+    },
+    {
+      "state_key": "e657f60b5481b8c6b8210dc03062fff1:h2h",
+      "event_id": "e657f60b5481b8c6b8210dc03062fff1",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Aldosivi Mar del Plata",
+      "away_team": "CA Tigre BA",
+      "commence_time": "2026-08-15T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "CA Tigre BA",
+      "odds_at_alert": 7.75,
+      "stake_pct": 5.0,
+      "confidence": 64,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:09:46.541504+00:00"
+    },
+    {
+      "state_key": "e657f60b5481b8c6b8210dc03062fff1:h2h",
+      "event_id": "e657f60b5481b8c6b8210dc03062fff1",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Aldosivi Mar del Plata",
+      "away_team": "CA Tigre BA",
+      "commence_time": "2026-08-15T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "CA Tigre BA",
+      "odds_at_alert": 5.0,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:09:46.910934+00:00"
+    },
+    {
+      "state_key": "e657f60b5481b8c6b8210dc03062fff1:h2h",
+      "event_id": "e657f60b5481b8c6b8210dc03062fff1",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Aldosivi Mar del Plata",
+      "away_team": "CA Tigre BA",
+      "commence_time": "2026-08-15T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "CA Tigre BA",
+      "odds_at_alert": 5.25,
+      "stake_pct": 3.0,
+      "confidence": 11,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:09:47.268586+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "0cb1b113469e83f07b4593116cfa9339:h2h|888sport|Birmingham City",
-    "0cb1b113469e83f07b4593116cfa9339:h2h|888sport|Sheffield United",
-    "0cb1b113469e83f07b4593116cfa9339:h2h|Betclic (FR)|Birmingham City",
-    "0cb1b113469e83f07b4593116cfa9339:h2h|Betclic (FR)|Sheffield United",
-    "0cb1b113469e83f07b4593116cfa9339:h2h|Betfair|Birmingham City",
-    "0cb1b113469e83f07b4593116cfa9339:h2h|Betfair|Sheffield United",
-    "0cb1b113469e83f07b4593116cfa9339:h2h|Betsson|Birmingham City",
-    "0cb1b113469e83f07b4593116cfa9339:h2h|Betsson|Sheffield United",
-    "0cb1b113469e83f07b4593116cfa9339:h2h|Coolbet|Birmingham City",
-    "0cb1b113469e83f07b4593116cfa9339:h2h|Coolbet|Sheffield United",
-    "0cb1b113469e83f07b4593116cfa9339:h2h|LeoVegas (SE)|Birmingham City",
-    "0cb1b113469e83f07b4593116cfa9339:h2h|LeoVegas (SE)|Sheffield United",
-    "0cb1b113469e83f07b4593116cfa9339:h2h|Matchbook|Birmingham City",
-    "0cb1b113469e83f07b4593116cfa9339:h2h|Matchbook|Sheffield United",
-    "0cb1b113469e83f07b4593116cfa9339:h2h|Nordic Bet|Birmingham City",
-    "0cb1b113469e83f07b4593116cfa9339:h2h|Nordic Bet|Sheffield United",
-    "0cb1b113469e83f07b4593116cfa9339:h2h|PMU (FR)|Birmingham City",
-    "0cb1b113469e83f07b4593116cfa9339:h2h|PMU (FR)|Sheffield United",
-    "0cb1b113469e83f07b4593116cfa9339:h2h|Tipico|Birmingham City",
-    "0cb1b113469e83f07b4593116cfa9339:h2h|Tipico|Sheffield United",
-    "0cb1b113469e83f07b4593116cfa9339:h2h|Unibet (NL)|Birmingham City",
-    "0cb1b113469e83f07b4593116cfa9339:h2h|Unibet (NL)|Sheffield United",
-    "0cb1b113469e83f07b4593116cfa9339:h2h|Unibet (SE)|Birmingham City",
-    "0cb1b113469e83f07b4593116cfa9339:h2h|Unibet (SE)|Sheffield United",
-    "0cb1b113469e83f07b4593116cfa9339:h2h|Winamax (DE)|Birmingham City",
-    "0cb1b113469e83f07b4593116cfa9339:h2h|Winamax (DE)|Sheffield United",
-    "0cb1b113469e83f07b4593116cfa9339:h2h|Winamax (FR)|Birmingham City",
-    "0cb1b113469e83f07b4593116cfa9339:h2h|Winamax (FR)|Sheffield United"
+    "2f2df794ccddf7c4da26a76ca872e7e8:h2h|Coolbet|Celta Vigo",
+    "2f2df794ccddf7c4da26a76ca872e7e8:h2h|Coolbet|Cádiz CF",
+    "2f2df794ccddf7c4da26a76ca872e7e8:h2h|Matchbook|Celta Vigo",
+    "2f2df794ccddf7c4da26a76ca872e7e8:h2h|Tipico|Celta Vigo",
+    "2f2df794ccddf7c4da26a76ca872e7e8:h2h|Tipico|Cádiz CF",
+    "2f2df794ccddf7c4da26a76ca872e7e8:h2h|Unibet (SE)|Celta Vigo",
+    "2f2df794ccddf7c4da26a76ca872e7e8:h2h|Unibet (SE)|Cádiz CF",
+    "4b1211e0f448d01cf2b7fabd07aee49e:h2h|Betclic (FR)|Draw",
+    "4b1211e0f448d01cf2b7fabd07aee49e:h2h|Betclic (FR)|Getafe",
+    "4b1211e0f448d01cf2b7fabd07aee49e:h2h|Betfair|Draw",
+    "4b1211e0f448d01cf2b7fabd07aee49e:h2h|Betfair|Getafe",
+    "4b1211e0f448d01cf2b7fabd07aee49e:h2h|Betsson|Draw",
+    "4b1211e0f448d01cf2b7fabd07aee49e:h2h|Betsson|Getafe",
+    "4b1211e0f448d01cf2b7fabd07aee49e:h2h|Coolbet|Draw",
+    "4b1211e0f448d01cf2b7fabd07aee49e:h2h|Coolbet|Getafe",
+    "4b1211e0f448d01cf2b7fabd07aee49e:h2h|LeoVegas (SE)|Draw",
+    "4b1211e0f448d01cf2b7fabd07aee49e:h2h|LeoVegas (SE)|Getafe",
+    "4b1211e0f448d01cf2b7fabd07aee49e:h2h|Matchbook|Draw",
+    "4b1211e0f448d01cf2b7fabd07aee49e:h2h|Matchbook|Getafe",
+    "4b1211e0f448d01cf2b7fabd07aee49e:h2h|Nordic Bet|Draw",
+    "4b1211e0f448d01cf2b7fabd07aee49e:h2h|Nordic Bet|Getafe",
+    "4b1211e0f448d01cf2b7fabd07aee49e:h2h|Tipico|Draw",
+    "4b1211e0f448d01cf2b7fabd07aee49e:h2h|Tipico|Getafe",
+    "4b1211e0f448d01cf2b7fabd07aee49e:h2h|Unibet (NL)|Draw",
+    "4b1211e0f448d01cf2b7fabd07aee49e:h2h|Unibet (NL)|Getafe",
+    "4b1211e0f448d01cf2b7fabd07aee49e:h2h|Unibet (SE)|Draw",
+    "4b1211e0f448d01cf2b7fabd07aee49e:h2h|Unibet (SE)|Getafe",
+    "4b1211e0f448d01cf2b7fabd07aee49e:h2h|Winamax (DE)|Draw",
+    "4b1211e0f448d01cf2b7fabd07aee49e:h2h|Winamax (DE)|Getafe",
+    "4b1211e0f448d01cf2b7fabd07aee49e:h2h|Winamax (FR)|Draw",
+    "4b1211e0f448d01cf2b7fabd07aee49e:h2h|Winamax (FR)|Getafe",
+    "e657f60b5481b8c6b8210dc03062fff1:h2h|Betclic (FR)|CA Tigre BA",
+    "e657f60b5481b8c6b8210dc03062fff1:h2h|Betfair|Aldosivi Mar del Plata",
+    "e657f60b5481b8c6b8210dc03062fff1:h2h|Betfair|CA Tigre BA",
+    "e657f60b5481b8c6b8210dc03062fff1:h2h|Betsson|Aldosivi Mar del Plata",
+    "e657f60b5481b8c6b8210dc03062fff1:h2h|Betsson|CA Tigre BA",
+    "e657f60b5481b8c6b8210dc03062fff1:h2h|Nordic Bet|Aldosivi Mar del Plata",
+    "e657f60b5481b8c6b8210dc03062fff1:h2h|Nordic Bet|CA Tigre BA",
+    "e657f60b5481b8c6b8210dc03062fff1:h2h|Unibet (SE)|CA Tigre BA",
+    "e657f60b5481b8c6b8210dc03062fff1:h2h|Winamax (DE)|CA Tigre BA",
+    "e657f60b5481b8c6b8210dc03062fff1:h2h|Winamax (FR)|CA Tigre BA"
   ]
 }
