@@ -1,306 +1,191 @@
 {
   "snapshots": {
-    "b7546a95478a68d111adacd5b0af3f12:h2h": {
+    "c93cd8c3c8cd1c43cae4f97eccb2fab0:h2h": {
       "Coolbet": {
-        "Gamba Osaka": 14.0,
-        "Mito HollyHock": 18.0,
-        "Draw": 1.06
+        "Chengdu Rongcheng FC": 1.01,
+        "Zhejiang": 150.0,
+        "Draw": 13.0
       },
       "Betsson": {
-        "Gamba Osaka": 11.5,
-        "Mito HollyHock": 14.0,
-        "Draw": 1.07
-      },
-      "Betclic (FR)": {
-        "Gamba Osaka": 9.75,
-        "Mito HollyHock": 12.0,
-        "Draw": 1.11
+        "Chengdu Rongcheng FC": 1.02,
+        "Zhejiang": 150.0,
+        "Draw": 12.0
       },
       "Nordic Bet": {
-        "Gamba Osaka": 7.2,
-        "Mito HollyHock": 8.2,
-        "Draw": 1.18
+        "Chengdu Rongcheng FC": 1.02,
+        "Zhejiang": 150.0,
+        "Draw": 12.0
       },
       "Pinnacle": {
-        "Gamba Osaka": 4.52,
-        "Mito HollyHock": 5.14,
-        "Draw": 1.55
+        "Chengdu Rongcheng FC": 3.99,
+        "Zhejiang": 5.34,
+        "Draw": 1.57
       },
       "Winamax (DE)": {
-        "Gamba Osaka": 20.0,
-        "Mito HollyHock": 26.0,
-        "Draw": 1.03
+        "Chengdu Rongcheng FC": 1.01,
+        "Zhejiang": 1000.0,
+        "Draw": 24.0
       },
       "Winamax (FR)": {
-        "Gamba Osaka": 15.0,
-        "Mito HollyHock": 20.0,
-        "Draw": 1.07
+        "Chengdu Rongcheng FC": 1.02,
+        "Zhejiang": 1000.0,
+        "Draw": 24.0
       },
       "888sport": {
-        "Gamba Osaka": 11.0,
-        "Mito HollyHock": 15.0,
-        "Draw": 1.08
-      },
-      "Tipico": {
-        "Gamba Osaka": 12.0,
-        "Mito HollyHock": 22.0,
-        "Draw": 1.03
+        "Chengdu Rongcheng FC": 1.04,
+        "Zhejiang": 126.0,
+        "Draw": 13.0
       },
       "Betfair": {
-        "Gamba Osaka": 10.5,
-        "Mito HollyHock": 15.5,
-        "Draw": 1.12
+        "Chengdu Rongcheng FC": 1.03,
+        "Zhejiang": 360.0,
+        "Draw": 26.0
       },
-      "PMU (FR)": {
-        "Gamba Osaka": 10.5,
-        "Mito HollyHock": 9.5,
-        "Draw": 1.02
-      },
-      "Unibet (SE)": {
-        "Gamba Osaka": 41.0,
-        "Mito HollyHock": 31.0,
-        "Draw": 1.01
-      },
-      "LeoVegas (SE)": {
-        "Gamba Osaka": 11.5,
-        "Mito HollyHock": 10.5,
-        "Draw": 1.06
-      },
-      "Unibet (NL)": {
-        "Gamba Osaka": 14.0,
-        "Mito HollyHock": 15.0,
-        "Draw": 1.02
+      "Tipico": {
+        "Chengdu Rongcheng FC": 1.01,
+        "Zhejiang": 400.0,
+        "Draw": 20.0
       }
     },
-    "f886399face03f1f525a60930e2e60c3:h2h": {
+    "5192ca6e7604fc0f0ec34d7afed13fa3:h2h": {
+      "Coolbet": {
+        "Dalian Yingbo": 66.0,
+        "Yunnan Yukun": 1.07,
+        "Draw": 8.0
+      },
       "Betsson": {
-        "Kashima Antlers": 7.7,
-        "Nagoya Grampus": 12.5,
-        "Draw": 1.12
+        "Dalian Yingbo": 43.0,
+        "Yunnan Yukun": 1.06,
+        "Draw": 7.2
       },
       "Nordic Bet": {
-        "Kashima Antlers": 7.2,
-        "Nagoya Grampus": 12.5,
-        "Draw": 1.13
-      },
-      "Coolbet": {
-        "Kashima Antlers": 8.0,
-        "Nagoya Grampus": 12.0,
-        "Draw": 1.16
-      },
-      "Betclic (FR)": {
-        "Kashima Antlers": 6.9,
-        "Nagoya Grampus": 10.5,
-        "Draw": 1.19
-      },
-      "Pinnacle": {
-        "Kashima Antlers": 3.8,
-        "Nagoya Grampus": 6.1,
-        "Draw": 1.58
+        "Dalian Yingbo": 47.0,
+        "Yunnan Yukun": 1.05,
+        "Draw": 7.7
       },
       "Winamax (DE)": {
-        "Kashima Antlers": 7.5,
-        "Nagoya Grampus": 12.0,
-        "Draw": 1.14
+        "Dalian Yingbo": 55.0,
+        "Yunnan Yukun": 1.06,
+        "Draw": 8.0
       },
       "Winamax (FR)": {
-        "Kashima Antlers": 7.0,
-        "Nagoya Grampus": 11.0,
-        "Draw": 1.17
+        "Dalian Yingbo": 55.0,
+        "Yunnan Yukun": 1.1,
+        "Draw": 7.5
       },
       "888sport": {
-        "Kashima Antlers": 7.5,
-        "Nagoya Grampus": 12.0,
-        "Draw": 1.15
-      },
-      "Tipico": {
-        "Kashima Antlers": 7.0,
-        "Nagoya Grampus": 12.0,
-        "Draw": 1.15
+        "Dalian Yingbo": 51.0,
+        "Yunnan Yukun": 1.08,
+        "Draw": 7.5
       },
       "Betfair": {
-        "Kashima Antlers": 7.6,
-        "Nagoya Grampus": 12.0,
-        "Draw": 1.24
+        "Dalian Yingbo": 55.0,
+        "Yunnan Yukun": 1.1,
+        "Draw": 10.5
       },
-      "PMU (FR)": {
-        "Kashima Antlers": 7.5,
-        "Nagoya Grampus": 11.5,
-        "Draw": 1.05
-      },
-      "Unibet (SE)": {
-        "Kashima Antlers": 9.0,
-        "Nagoya Grampus": 13.0,
-        "Draw": 1.1
+      "Tipico": {
+        "Dalian Yingbo": 80.0,
+        "Yunnan Yukun": 1.04,
+        "Draw": 8.0
       },
       "LeoVegas (SE)": {
-        "Kashima Antlers": 8.5,
-        "Nagoya Grampus": 13.0,
-        "Draw": 1.07
+        "Dalian Yingbo": 41.0,
+        "Yunnan Yukun": 1.03,
+        "Draw": 7.5
+      },
+      "Unibet (SE)": {
+        "Dalian Yingbo": 46.0,
+        "Yunnan Yukun": 1.08,
+        "Draw": 7.5
       },
       "Unibet (NL)": {
-        "Kashima Antlers": 7.5,
-        "Nagoya Grampus": 11.5,
-        "Draw": 1.12
+        "Dalian Yingbo": 41.0,
+        "Yunnan Yukun": 1.05,
+        "Draw": 7.5
       },
       "Matchbook": {
-        "Kashima Antlers": 8.8,
-        "Nagoya Grampus": 13.0,
-        "Draw": 1.18
+        "Dalian Yingbo": 100.0,
+        "Yunnan Yukun": 1.1,
+        "Draw": 10.5
       }
     },
-    "f3a5cc89a017147217a935fb15957188:h2h": {
+    "fa9816054c966474eb75a32a679c6cb1:h2h": {
       "Coolbet": {
-        "Shimizu S Pulse": 3.6,
-        "Yokohama F Marinos": 3.8,
-        "Draw": 1.85
-      },
-      "Nordic Bet": {
-        "Shimizu S Pulse": 3.4,
-        "Yokohama F Marinos": 3.65,
-        "Draw": 1.82
-      },
-      "Betclic (FR)": {
-        "Shimizu S Pulse": 3.5,
-        "Yokohama F Marinos": 3.63,
-        "Draw": 1.91
-      },
-      "Betsson": {
-        "Shimizu S Pulse": 3.4,
-        "Yokohama F Marinos": 3.65,
-        "Draw": 1.82
-      },
-      "Pinnacle": {
-        "Shimizu S Pulse": 3.21,
-        "Yokohama F Marinos": 3.49,
-        "Draw": 2.17
-      },
-      "Winamax (DE)": {
-        "Shimizu S Pulse": 3.5,
-        "Yokohama F Marinos": 3.7,
-        "Draw": 1.82
+        "Henan FC": 50.0,
+        "Shanghai Shenhua FC": 1.0,
+        "Draw": 18.0
       },
       "Winamax (FR)": {
-        "Shimizu S Pulse": 3.4,
-        "Yokohama F Marinos": 3.55,
-        "Draw": 1.78
+        "Henan FC": 140.0,
+        "Shanghai Shenhua FC": 1.01,
+        "Draw": 30.0
       },
-      "Tipico": {
-        "Shimizu S Pulse": 3.8,
-        "Yokohama F Marinos": 3.4,
-        "Draw": 1.85
+      "Winamax (DE)": {
+        "Henan FC": 140.0,
+        "Shanghai Shenhua FC": 1.01,
+        "Draw": 30.0
       },
-      "Betfair": {
-        "Shimizu S Pulse": 3.8,
-        "Yokohama F Marinos": 4.0,
-        "Draw": 2.0
+      "Nordic Bet": {
+        "Henan FC": 36.0,
+        "Shanghai Shenhua FC": 1.0,
+        "Draw": 21.0
       },
-      "PMU (FR)": {
-        "Shimizu S Pulse": 2.9,
-        "Yokohama F Marinos": 3.3,
-        "Draw": 1.88
-      },
-      "Unibet (SE)": {
-        "Shimizu S Pulse": 3.05,
-        "Yokohama F Marinos": 3.65,
-        "Draw": 1.97
-      },
-      "LeoVegas (SE)": {
-        "Shimizu S Pulse": 2.9,
-        "Yokohama F Marinos": 3.55,
-        "Draw": 1.93
-      },
-      "Unibet (NL)": {
-        "Shimizu S Pulse": 2.95,
-        "Yokohama F Marinos": 3.7,
-        "Draw": 2.0
+      "Betsson": {
+        "Henan FC": 51.0,
+        "Shanghai Shenhua FC": 1.0,
+        "Draw": 19.0
       },
       "888sport": {
-        "Shimizu S Pulse": 3.6,
-        "Yokohama F Marinos": 3.6,
-        "Draw": 1.8
+        "Henan FC": 126.0,
+        "Shanghai Shenhua FC": 1.01,
+        "Draw": 29.0
       },
-      "Matchbook": {
-        "Shimizu S Pulse": 3.9,
-        "Yokohama F Marinos": 4.3,
-        "Draw": 1.93
+      "Betfair": {
+        "Henan FC": 85.0,
+        "Shanghai Shenhua FC": 1.01,
+        "Draw": 40.0
       }
     },
-    "64f2b1f4cf21b8c2b7bc9e1043706d14:h2h": {
+    "6605a57f5453d195b403b00cdd532405:h2h": {
       "Betsson": {
-        "Fagiano Okayama": 1.92,
-        "V-Varen Nagasaki": 5.35,
-        "Draw": 2.5
+        "Rot-Weiss Essen": 1.04,
+        "TSV Havelse": 50.0,
+        "Draw": 9.0
       },
       "Nordic Bet": {
-        "Fagiano Okayama": 1.92,
-        "V-Varen Nagasaki": 5.35,
-        "Draw": 2.5
+        "Rot-Weiss Essen": 1.04,
+        "TSV Havelse": 50.0,
+        "Draw": 9.0
       },
-      "Coolbet": {
-        "Fagiano Okayama": 1.91,
-        "V-Varen Nagasaki": 6.0,
-        "Draw": 2.6
-      },
-      "Winamax (FR)": {
-        "Fagiano Okayama": 1.84,
-        "V-Varen Nagasaki": 5.4,
-        "Draw": 2.4
-      },
-      "Betclic (FR)": {
-        "Fagiano Okayama": 1.86,
-        "V-Varen Nagasaki": 5.75,
-        "Draw": 2.57
+      "Suprabets": {
+        "Rot-Weiss Essen": 1.05,
+        "TSV Havelse": 86.0,
+        "Draw": 6.6
       },
       "Winamax (DE)": {
-        "Fagiano Okayama": 1.88,
-        "V-Varen Nagasaki": 5.7,
-        "Draw": 2.5
-      },
-      "Pinnacle": {
-        "Fagiano Okayama": 1.85,
-        "V-Varen Nagasaki": 6.07,
-        "Draw": 2.82
-      },
-      "888sport": {
-        "Fagiano Okayama": 1.91,
-        "V-Varen Nagasaki": 4.8,
-        "Draw": 2.62
+        "Rot-Weiss Essen": 1.05,
+        "TSV Havelse": 65.0,
+        "Draw": 10.0
       },
       "Tipico": {
-        "Fagiano Okayama": 1.95,
-        "V-Varen Nagasaki": 5.2,
-        "Draw": 2.55
+        "Rot-Weiss Essen": 1.03,
+        "TSV Havelse": 120.0,
+        "Draw": 9.0
+      },
+      "888sport": {
+        "Rot-Weiss Essen": 1.04,
+        "TSV Havelse": 91.0,
+        "Draw": 11.0
+      },
+      "Coolbet": {
+        "Rot-Weiss Essen": 1.04,
+        "TSV Havelse": 50.0,
+        "Draw": 9.0
       },
       "Betfair": {
-        "Fagiano Okayama": 2.08,
-        "V-Varen Nagasaki": 6.4,
-        "Draw": 2.66
-      },
-      "PMU (FR)": {
-        "Fagiano Okayama": 1.72,
-        "V-Varen Nagasaki": 5.4,
-        "Draw": 2.45
-      },
-      "Unibet (SE)": {
-        "Fagiano Okayama": 1.82,
-        "V-Varen Nagasaki": 5.6,
-        "Draw": 2.7
-      },
-      "LeoVegas (SE)": {
-        "Fagiano Okayama": 1.76,
-        "V-Varen Nagasaki": 5.5,
-        "Draw": 2.6
-      },
-      "Unibet (NL)": {
-        "Fagiano Okayama": 1.8,
-        "V-Varen Nagasaki": 5.6,
-        "Draw": 2.65
-      },
-      "Matchbook": {
-        "Fagiano Okayama": 2.1,
-        "V-Varen Nagasaki": 6.4,
-        "Draw": 2.64
+        "Rot-Weiss Essen": 1.09,
+        "TSV Havelse": 65.0,
+        "Draw": 10.5
       }
     }
   },
@@ -5025,74 +4910,281 @@
       "confidence": 7,
       "alert_type": "value",
       "alerted_at": "2026-08-15T10:55:30.207817+00:00"
+    },
+    {
+      "state_key": "c93cd8c3c8cd1c43cae4f97eccb2fab0:h2h",
+      "event_id": "c93cd8c3c8cd1c43cae4f97eccb2fab0",
+      "sport_key": "soccer",
+      "competition": "Super League - China",
+      "home_team": "Zhejiang",
+      "away_team": "Chengdu Rongcheng FC",
+      "commence_time": "2026-08-15T11:35:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Zhejiang",
+      "odds_at_alert": 150.0,
+      "stake_pct": 5.0,
+      "confidence": 2513,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T13:44:16.475725+00:00"
+    },
+    {
+      "state_key": "c93cd8c3c8cd1c43cae4f97eccb2fab0:h2h",
+      "event_id": "c93cd8c3c8cd1c43cae4f97eccb2fab0",
+      "sport_key": "soccer",
+      "competition": "Super League - China",
+      "home_team": "Zhejiang",
+      "away_team": "Chengdu Rongcheng FC",
+      "commence_time": "2026-08-15T11:35:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 670,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T13:44:16.966995+00:00"
+    },
+    {
+      "state_key": "c93cd8c3c8cd1c43cae4f97eccb2fab0:h2h",
+      "event_id": "c93cd8c3c8cd1c43cae4f97eccb2fab0",
+      "sport_key": "soccer",
+      "competition": "Super League - China",
+      "home_team": "Zhejiang",
+      "away_team": "Chengdu Rongcheng FC",
+      "commence_time": "2026-08-15T11:35:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Zhejiang",
+      "odds_at_alert": 150.0,
+      "stake_pct": 5.0,
+      "confidence": 2513,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T13:44:17.430337+00:00"
+    },
+    {
+      "state_key": "c93cd8c3c8cd1c43cae4f97eccb2fab0:h2h",
+      "event_id": "c93cd8c3c8cd1c43cae4f97eccb2fab0",
+      "sport_key": "soccer",
+      "competition": "Super League - China",
+      "home_team": "Zhejiang",
+      "away_team": "Chengdu Rongcheng FC",
+      "commence_time": "2026-08-15T11:35:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 611,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T13:44:17.893689+00:00"
+    },
+    {
+      "state_key": "c93cd8c3c8cd1c43cae4f97eccb2fab0:h2h",
+      "event_id": "c93cd8c3c8cd1c43cae4f97eccb2fab0",
+      "sport_key": "soccer",
+      "competition": "Super League - China",
+      "home_team": "Zhejiang",
+      "away_team": "Chengdu Rongcheng FC",
+      "commence_time": "2026-08-15T11:35:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Zhejiang",
+      "odds_at_alert": 150.0,
+      "stake_pct": 5.0,
+      "confidence": 2513,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T13:44:18.331537+00:00"
+    },
+    {
+      "state_key": "c93cd8c3c8cd1c43cae4f97eccb2fab0:h2h",
+      "event_id": "c93cd8c3c8cd1c43cae4f97eccb2fab0",
+      "sport_key": "soccer",
+      "competition": "Super League - China",
+      "home_team": "Zhejiang",
+      "away_team": "Chengdu Rongcheng FC",
+      "commence_time": "2026-08-15T11:35:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 611,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T13:44:18.793017+00:00"
+    },
+    {
+      "state_key": "c93cd8c3c8cd1c43cae4f97eccb2fab0:h2h",
+      "event_id": "c93cd8c3c8cd1c43cae4f97eccb2fab0",
+      "sport_key": "soccer",
+      "competition": "Super League - China",
+      "home_team": "Zhejiang",
+      "away_team": "Chengdu Rongcheng FC",
+      "commence_time": "2026-08-15T11:35:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Zhejiang",
+      "odds_at_alert": 1000.0,
+      "stake_pct": 5.0,
+      "confidence": 17323,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T13:44:19.250645+00:00"
+    },
+    {
+      "state_key": "c93cd8c3c8cd1c43cae4f97eccb2fab0:h2h",
+      "event_id": "c93cd8c3c8cd1c43cae4f97eccb2fab0",
+      "sport_key": "soccer",
+      "competition": "Super League - China",
+      "home_team": "Zhejiang",
+      "away_team": "Chengdu Rongcheng FC",
+      "commence_time": "2026-08-15T11:35:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 24.0,
+      "stake_pct": 5.0,
+      "confidence": 1322,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T13:44:19.701945+00:00"
+    },
+    {
+      "state_key": "c93cd8c3c8cd1c43cae4f97eccb2fab0:h2h",
+      "event_id": "c93cd8c3c8cd1c43cae4f97eccb2fab0",
+      "sport_key": "soccer",
+      "competition": "Super League - China",
+      "home_team": "Zhejiang",
+      "away_team": "Chengdu Rongcheng FC",
+      "commence_time": "2026-08-15T11:35:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Zhejiang",
+      "odds_at_alert": 1000.0,
+      "stake_pct": 5.0,
+      "confidence": 17323,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T13:44:20.165941+00:00"
+    },
+    {
+      "state_key": "c93cd8c3c8cd1c43cae4f97eccb2fab0:h2h",
+      "event_id": "c93cd8c3c8cd1c43cae4f97eccb2fab0",
+      "sport_key": "soccer",
+      "competition": "Super League - China",
+      "home_team": "Zhejiang",
+      "away_team": "Chengdu Rongcheng FC",
+      "commence_time": "2026-08-15T11:35:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 24.0,
+      "stake_pct": 5.0,
+      "confidence": 1322,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T13:44:20.636781+00:00"
+    },
+    {
+      "state_key": "c93cd8c3c8cd1c43cae4f97eccb2fab0:h2h",
+      "event_id": "c93cd8c3c8cd1c43cae4f97eccb2fab0",
+      "sport_key": "soccer",
+      "competition": "Super League - China",
+      "home_team": "Zhejiang",
+      "away_team": "Chengdu Rongcheng FC",
+      "commence_time": "2026-08-15T11:35:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Zhejiang",
+      "odds_at_alert": 126.0,
+      "stake_pct": 5.0,
+      "confidence": 2095,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T13:44:21.187326+00:00"
+    },
+    {
+      "state_key": "c93cd8c3c8cd1c43cae4f97eccb2fab0:h2h",
+      "event_id": "c93cd8c3c8cd1c43cae4f97eccb2fab0",
+      "sport_key": "soccer",
+      "competition": "Super League - China",
+      "home_team": "Zhejiang",
+      "away_team": "Chengdu Rongcheng FC",
+      "commence_time": "2026-08-15T11:35:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 670,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T13:44:21.676468+00:00"
+    },
+    {
+      "state_key": "c93cd8c3c8cd1c43cae4f97eccb2fab0:h2h",
+      "event_id": "c93cd8c3c8cd1c43cae4f97eccb2fab0",
+      "sport_key": "soccer",
+      "competition": "Super League - China",
+      "home_team": "Zhejiang",
+      "away_team": "Chengdu Rongcheng FC",
+      "commence_time": "2026-08-15T11:35:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Zhejiang",
+      "odds_at_alert": 360.0,
+      "stake_pct": 5.0,
+      "confidence": 6172,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T13:44:22.137149+00:00"
+    },
+    {
+      "state_key": "c93cd8c3c8cd1c43cae4f97eccb2fab0:h2h",
+      "event_id": "c93cd8c3c8cd1c43cae4f97eccb2fab0",
+      "sport_key": "soccer",
+      "competition": "Super League - China",
+      "home_team": "Zhejiang",
+      "away_team": "Chengdu Rongcheng FC",
+      "commence_time": "2026-08-15T11:35:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 1441,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T13:44:22.576775+00:00"
+    },
+    {
+      "state_key": "c93cd8c3c8cd1c43cae4f97eccb2fab0:h2h",
+      "event_id": "c93cd8c3c8cd1c43cae4f97eccb2fab0",
+      "sport_key": "soccer",
+      "competition": "Super League - China",
+      "home_team": "Zhejiang",
+      "away_team": "Chengdu Rongcheng FC",
+      "commence_time": "2026-08-15T11:35:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Zhejiang",
+      "odds_at_alert": 400.0,
+      "stake_pct": 5.0,
+      "confidence": 6869,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T13:44:23.019419+00:00"
+    },
+    {
+      "state_key": "c93cd8c3c8cd1c43cae4f97eccb2fab0:h2h",
+      "event_id": "c93cd8c3c8cd1c43cae4f97eccb2fab0",
+      "sport_key": "soccer",
+      "competition": "Super League - China",
+      "home_team": "Zhejiang",
+      "away_team": "Chengdu Rongcheng FC",
+      "commence_time": "2026-08-15T11:35:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 20.0,
+      "stake_pct": 5.0,
+      "confidence": 1085,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T13:44:23.530518+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "64f2b1f4cf21b8c2b7bc9e1043706d14:h2h|Betfair|Fagiano Okayama",
-    "64f2b1f4cf21b8c2b7bc9e1043706d14:h2h|Matchbook|Fagiano Okayama",
-    "64f2b1f4cf21b8c2b7bc9e1043706d14:h2h|Matchbook|V-Varen Nagasaki",
-    "b7546a95478a68d111adacd5b0af3f12:h2h|888sport|Gamba Osaka",
-    "b7546a95478a68d111adacd5b0af3f12:h2h|888sport|Mito HollyHock",
-    "b7546a95478a68d111adacd5b0af3f12:h2h|Betclic (FR)|Gamba Osaka",
-    "b7546a95478a68d111adacd5b0af3f12:h2h|Betclic (FR)|Mito HollyHock",
-    "b7546a95478a68d111adacd5b0af3f12:h2h|Betfair|Gamba Osaka",
-    "b7546a95478a68d111adacd5b0af3f12:h2h|Betfair|Mito HollyHock",
-    "b7546a95478a68d111adacd5b0af3f12:h2h|Betsson|Gamba Osaka",
-    "b7546a95478a68d111adacd5b0af3f12:h2h|Betsson|Mito HollyHock",
-    "b7546a95478a68d111adacd5b0af3f12:h2h|Coolbet|Gamba Osaka",
-    "b7546a95478a68d111adacd5b0af3f12:h2h|Coolbet|Mito HollyHock",
-    "b7546a95478a68d111adacd5b0af3f12:h2h|LeoVegas (SE)|Gamba Osaka",
-    "b7546a95478a68d111adacd5b0af3f12:h2h|LeoVegas (SE)|Mito HollyHock",
-    "b7546a95478a68d111adacd5b0af3f12:h2h|Nordic Bet|Gamba Osaka",
-    "b7546a95478a68d111adacd5b0af3f12:h2h|Nordic Bet|Mito HollyHock",
-    "b7546a95478a68d111adacd5b0af3f12:h2h|PMU (FR)|Gamba Osaka",
-    "b7546a95478a68d111adacd5b0af3f12:h2h|PMU (FR)|Mito HollyHock",
-    "b7546a95478a68d111adacd5b0af3f12:h2h|Tipico|Gamba Osaka",
-    "b7546a95478a68d111adacd5b0af3f12:h2h|Tipico|Mito HollyHock",
-    "b7546a95478a68d111adacd5b0af3f12:h2h|Unibet (NL)|Gamba Osaka",
-    "b7546a95478a68d111adacd5b0af3f12:h2h|Unibet (NL)|Mito HollyHock",
-    "b7546a95478a68d111adacd5b0af3f12:h2h|Unibet (SE)|Gamba Osaka",
-    "b7546a95478a68d111adacd5b0af3f12:h2h|Unibet (SE)|Mito HollyHock",
-    "b7546a95478a68d111adacd5b0af3f12:h2h|Winamax (DE)|Gamba Osaka",
-    "b7546a95478a68d111adacd5b0af3f12:h2h|Winamax (DE)|Mito HollyHock",
-    "b7546a95478a68d111adacd5b0af3f12:h2h|Winamax (FR)|Gamba Osaka",
-    "b7546a95478a68d111adacd5b0af3f12:h2h|Winamax (FR)|Mito HollyHock",
-    "f3a5cc89a017147217a935fb15957188:h2h|888sport|Shimizu S Pulse",
-    "f3a5cc89a017147217a935fb15957188:h2h|Betfair|Shimizu S Pulse",
-    "f3a5cc89a017147217a935fb15957188:h2h|Betfair|Yokohama F Marinos",
-    "f3a5cc89a017147217a935fb15957188:h2h|Coolbet|Shimizu S Pulse",
-    "f3a5cc89a017147217a935fb15957188:h2h|Matchbook|Shimizu S Pulse",
-    "f3a5cc89a017147217a935fb15957188:h2h|Matchbook|Yokohama F Marinos",
-    "f3a5cc89a017147217a935fb15957188:h2h|Tipico|Shimizu S Pulse",
-    "f886399face03f1f525a60930e2e60c3:h2h|888sport|Kashima Antlers",
-    "f886399face03f1f525a60930e2e60c3:h2h|888sport|Nagoya Grampus",
-    "f886399face03f1f525a60930e2e60c3:h2h|Betclic (FR)|Kashima Antlers",
-    "f886399face03f1f525a60930e2e60c3:h2h|Betclic (FR)|Nagoya Grampus",
-    "f886399face03f1f525a60930e2e60c3:h2h|Betfair|Kashima Antlers",
-    "f886399face03f1f525a60930e2e60c3:h2h|Betfair|Nagoya Grampus",
-    "f886399face03f1f525a60930e2e60c3:h2h|Betsson|Kashima Antlers",
-    "f886399face03f1f525a60930e2e60c3:h2h|Betsson|Nagoya Grampus",
-    "f886399face03f1f525a60930e2e60c3:h2h|Coolbet|Kashima Antlers",
-    "f886399face03f1f525a60930e2e60c3:h2h|Coolbet|Nagoya Grampus",
-    "f886399face03f1f525a60930e2e60c3:h2h|LeoVegas (SE)|Kashima Antlers",
-    "f886399face03f1f525a60930e2e60c3:h2h|LeoVegas (SE)|Nagoya Grampus",
-    "f886399face03f1f525a60930e2e60c3:h2h|Matchbook|Kashima Antlers",
-    "f886399face03f1f525a60930e2e60c3:h2h|Matchbook|Nagoya Grampus",
-    "f886399face03f1f525a60930e2e60c3:h2h|Nordic Bet|Kashima Antlers",
-    "f886399face03f1f525a60930e2e60c3:h2h|Nordic Bet|Nagoya Grampus",
-    "f886399face03f1f525a60930e2e60c3:h2h|PMU (FR)|Kashima Antlers",
-    "f886399face03f1f525a60930e2e60c3:h2h|PMU (FR)|Nagoya Grampus",
-    "f886399face03f1f525a60930e2e60c3:h2h|Tipico|Kashima Antlers",
-    "f886399face03f1f525a60930e2e60c3:h2h|Tipico|Nagoya Grampus",
-    "f886399face03f1f525a60930e2e60c3:h2h|Unibet (NL)|Kashima Antlers",
-    "f886399face03f1f525a60930e2e60c3:h2h|Unibet (NL)|Nagoya Grampus",
-    "f886399face03f1f525a60930e2e60c3:h2h|Unibet (SE)|Kashima Antlers",
-    "f886399face03f1f525a60930e2e60c3:h2h|Unibet (SE)|Nagoya Grampus",
-    "f886399face03f1f525a60930e2e60c3:h2h|William Hill|Nagoya Grampus",
-    "f886399face03f1f525a60930e2e60c3:h2h|Winamax (DE)|Kashima Antlers",
-    "f886399face03f1f525a60930e2e60c3:h2h|Winamax (DE)|Nagoya Grampus",
-    "f886399face03f1f525a60930e2e60c3:h2h|Winamax (FR)|Kashima Antlers",
-    "f886399face03f1f525a60930e2e60c3:h2h|Winamax (FR)|Nagoya Grampus"
+    "c93cd8c3c8cd1c43cae4f97eccb2fab0:h2h|888sport|Draw",
+    "c93cd8c3c8cd1c43cae4f97eccb2fab0:h2h|888sport|Zhejiang",
+    "c93cd8c3c8cd1c43cae4f97eccb2fab0:h2h|Betfair|Draw",
+    "c93cd8c3c8cd1c43cae4f97eccb2fab0:h2h|Betfair|Zhejiang",
+    "c93cd8c3c8cd1c43cae4f97eccb2fab0:h2h|Betsson|Draw",
+    "c93cd8c3c8cd1c43cae4f97eccb2fab0:h2h|Betsson|Zhejiang",
+    "c93cd8c3c8cd1c43cae4f97eccb2fab0:h2h|Coolbet|Draw",
+    "c93cd8c3c8cd1c43cae4f97eccb2fab0:h2h|Coolbet|Zhejiang",
+    "c93cd8c3c8cd1c43cae4f97eccb2fab0:h2h|Nordic Bet|Draw",
+    "c93cd8c3c8cd1c43cae4f97eccb2fab0:h2h|Nordic Bet|Zhejiang",
+    "c93cd8c3c8cd1c43cae4f97eccb2fab0:h2h|Tipico|Draw",
+    "c93cd8c3c8cd1c43cae4f97eccb2fab0:h2h|Tipico|Zhejiang",
+    "c93cd8c3c8cd1c43cae4f97eccb2fab0:h2h|Winamax (DE)|Draw",
+    "c93cd8c3c8cd1c43cae4f97eccb2fab0:h2h|Winamax (DE)|Zhejiang",
+    "c93cd8c3c8cd1c43cae4f97eccb2fab0:h2h|Winamax (FR)|Draw",
+    "c93cd8c3c8cd1c43cae4f97eccb2fab0:h2h|Winamax (FR)|Zhejiang"
   ]
 }
