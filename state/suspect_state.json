@@ -1,111 +1,211 @@
 {
   "snapshots": {
-    "68b4b6cda1390551270bbbef33d6a6f2:h2h": {
-      "Betclic (FR)": {
-        "AD Ceuta FC": 100.0,
-        "Andorra CF": 1.0,
-        "Draw": 40.0
-      },
-      "Betsson": {
-        "AD Ceuta FC": 81.0,
-        "Andorra CF": 1.0,
-        "Draw": 81.0
-      },
-      "Nordic Bet": {
-        "AD Ceuta FC": 81.0,
-        "Andorra CF": 1.0,
-        "Draw": 81.0
-      }
-    },
-    "1fe48ff20e733913397bc30a8f4be1f7:h2h": {
-      "Winamax (DE)": {
-        "Austria Lustenau": 1.03,
-        "Wolfsberger AC": 450.0,
-        "Draw": 12.0
-      },
+    "28c33e941922e40bec344f7c7bfa9c44:h2h": {
       "Coolbet": {
-        "Austria Lustenau": 1.03,
-        "Wolfsberger AC": 150.0,
-        "Draw": 10.1
+        "Académico de Viseu": 80.0,
+        "Santa Clara": 1.0,
+        "Draw": 16.0
       },
-      "888sport": {
-        "Austria Lustenau": 1.08,
-        "Wolfsberger AC": 71.0,
-        "Draw": 7.5
+      "Betclic (FR)": {
+        "Académico de Viseu": 100.0,
+        "Santa Clara": 1.0,
+        "Draw": 25.0
       },
       "Winamax (FR)": {
-        "Austria Lustenau": 1.04,
-        "Wolfsberger AC": 450.0,
-        "Draw": 13.5
+        "Académico de Viseu": 600.0,
+        "Santa Clara": 1.03,
+        "Draw": 17.0
       },
-      "Betclic (FR)": {
-        "Austria Lustenau": 1.03,
-        "Wolfsberger AC": 100.0,
-        "Draw": 9.75
-      },
-      "Suprabets": {
-        "Austria Lustenau": 1.08,
-        "Wolfsberger AC": 61.0,
-        "Draw": 5.5
-      },
-      "Betsson": {
-        "Austria Lustenau": 1.05,
-        "Wolfsberger AC": 50.0,
-        "Draw": 6.8
+      "Winamax (DE)": {
+        "Académico de Viseu": 1000.0,
+        "Santa Clara": 1.01,
+        "Draw": 20.0
       },
       "Nordic Bet": {
-        "Austria Lustenau": 1.06,
-        "Wolfsberger AC": 47.0,
-        "Draw": 6.3
+        "Académico de Viseu": 101.0,
+        "Santa Clara": 1.0,
+        "Draw": 15.0
+      },
+      "Betsson": {
+        "Académico de Viseu": 101.0,
+        "Santa Clara": 1.0,
+        "Draw": 15.0
+      },
+      "Betfair": {
+        "Académico de Viseu": 320.0,
+        "Santa Clara": 1.02,
+        "Draw": 34.0
+      }
+    },
+    "2f2df794ccddf7c4da26a76ca872e7e8:h2h": {
+      "Pinnacle": {
+        "Celta Vigo": 14.82,
+        "Cádiz CF": 7.69,
+        "Draw": 1.15
       },
       "Tipico": {
-        "Austria Lustenau": 1.03,
-        "Wolfsberger AC": 250.0,
-        "Draw": 9.0
+        "Celta Vigo": 50.0,
+        "Cádiz CF": 30.0,
+        "Draw": 1.01
       },
       "Betfair": {
-        "Austria Lustenau": 1.06,
-        "Wolfsberger AC": 110.0,
-        "Draw": 11.5
-      }
-    },
-    "d8702f3ee9a52f0232d3c264ff283e97:h2h": {
-      "Nordic Bet": {
-        "Falkenbergs FF": 1.0,
-        "Norrby IF": 29.0,
-        "Draw": 26.0
+        "Celta Vigo": 1.01,
+        "Cádiz CF": 1.01,
+        "Draw": 1.01
+      },
+      "Coolbet": {
+        "Celta Vigo": 22.0,
+        "Cádiz CF": 12.5,
+        "Draw": 1.06
+      },
+      "Matchbook": {
+        "Celta Vigo": 22.0,
+        "Cádiz CF": 2.6,
+        "Draw": 1.03
       },
       "Betsson": {
-        "Falkenbergs FF": 1.0,
-        "Norrby IF": 26.0,
-        "Draw": 26.0
+        "Celta Vigo": 14.0,
+        "Cádiz CF": 6.3,
+        "Draw": 1.15
       },
-      "Betfair": {
-        "Falkenbergs FF": 1.1,
-        "Norrby IF": 120.0,
-        "Draw": 9.4
+      "Nordic Bet": {
+        "Celta Vigo": 24.0,
+        "Cádiz CF": 10.5,
+        "Draw": 1.05
       },
-      "888sport": {
-        "Falkenbergs FF": 1.06,
-        "Norrby IF": 71.0,
-        "Draw": 8.0
+      "LeoVegas (SE)": {
+        "Celta Vigo": 16.0,
+        "Cádiz CF": 8.0,
+        "Draw": 1.03
+      },
+      "PMU (FR)": {
+        "Celta Vigo": 12.5,
+        "Cádiz CF": 6.5,
+        "Draw": 1.04
+      },
+      "Unibet (SE)": {
+        "Celta Vigo": 31.0,
+        "Cádiz CF": 23.0,
+        "Draw": 1.02
+      }
+    },
+    "7f843257dd049cc191118f65668ea601:h2h": {
+      "Winamax (FR)": {
+        "Granada CF": 55.0,
+        "Oviedo": 36.0,
+        "Draw": 1.02
+      },
+      "Winamax (DE)": {
+        "Granada CF": 50.0,
+        "Oviedo": 30.0,
+        "Draw": 1.01
+      },
+      "Tipico": {
+        "Granada CF": 50.0,
+        "Oviedo": 30.0,
+        "Draw": 1.01
+      },
+      "Betclic (FR)": {
+        "Granada CF": 24.0,
+        "Oviedo": 16.0,
+        "Draw": 1.01
       },
       "Pinnacle": {
-        "Falkenbergs FF": 1.16,
-        "Norrby IF": 30.44,
-        "Draw": 5.85
-      }
-    },
-    "496097c6e745c2b3fe9bfcb67dc731d9:h2h": {
-      "Betsson": {
-        "IFK Norrkoping": 1.0,
-        "Sandvikens IF": 26.0,
-        "Draw": 26.0
+        "Granada CF": 9.19,
+        "Oviedo": 4.47,
+        "Draw": 1.36
+      },
+      "Betfair": {
+        "Granada CF": 1.01,
+        "Oviedo": 1.01,
+        "Draw": 1.01
+      },
+      "Unibet (SE)": {
+        "Granada CF": 41.0,
+        "Oviedo": 34.0,
+        "Draw": 1.01
+      },
+      "Coolbet": {
+        "Granada CF": 28.0,
+        "Oviedo": 20.0,
+        "Draw": 1.01
       },
       "Nordic Bet": {
-        "IFK Norrkoping": 1.0,
-        "Sandvikens IF": 26.0,
-        "Draw": 26.0
+        "Granada CF": 81.0,
+        "Oviedo": 67.0,
+        "Draw": 1.0
+      }
+    },
+    "4b1211e0f448d01cf2b7fabd07aee49e:h2h": {
+      "Winamax (DE)": {
+        "Alavés": 2.3,
+        "Getafe": 14.0,
+        "Draw": 1.74
+      },
+      "Nordic Bet": {
+        "Alavés": 2.15,
+        "Getafe": 14.0,
+        "Draw": 1.8
+      },
+      "Winamax (FR)": {
+        "Alavés": 2.15,
+        "Getafe": 13.5,
+        "Draw": 1.7
+      },
+      "Betfair": {
+        "Alavés": 2.5,
+        "Getafe": 13.0,
+        "Draw": 1.88
+      },
+      "Betsson": {
+        "Alavés": 2.15,
+        "Getafe": 14.0,
+        "Draw": 1.8
+      },
+      "Betclic (FR)": {
+        "Alavés": 2.18,
+        "Getafe": 15.0,
+        "Draw": 1.79
+      },
+      "Tipico": {
+        "Alavés": 2.2,
+        "Getafe": 18.0,
+        "Draw": 1.75
+      },
+      "Pinnacle": {
+        "Alavés": 2.33,
+        "Getafe": 14.4,
+        "Draw": 1.8
+      },
+      "Coolbet": {
+        "Alavés": 2.3,
+        "Getafe": 18.0,
+        "Draw": 1.8
+      },
+      "Unibet (NL)": {
+        "Alavés": 2.28,
+        "Getafe": 16.0,
+        "Draw": 1.75
+      },
+      "PMU (FR)": {
+        "Alavés": 2.18,
+        "Getafe": 15.0,
+        "Draw": 1.67
+      },
+      "LeoVegas (SE)": {
+        "Alavés": 2.28,
+        "Getafe": 16.0,
+        "Draw": 1.75
+      },
+      "Unibet (SE)": {
+        "Alavés": 2.28,
+        "Getafe": 16.0,
+        "Draw": 1.75
+      },
+      "Matchbook": {
+        "Alavés": 2.6,
+        "Getafe": 16.0,
+        "Draw": 1.8
       }
     }
   },
@@ -5726,15 +5826,519 @@
       "confidence": 28,
       "alert_type": "value",
       "alerted_at": "2026-08-15T16:56:50.530272+00:00"
+    },
+    {
+      "state_key": "2f2df794ccddf7c4da26a76ca872e7e8:h2h",
+      "event_id": "2f2df794ccddf7c4da26a76ca872e7e8",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Cádiz CF",
+      "away_team": "Celta Vigo",
+      "commence_time": "2026-08-15T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Celta Vigo",
+      "odds_at_alert": 50.0,
+      "stake_pct": 5.0,
+      "confidence": 216,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:03:10.434290+00:00"
+    },
+    {
+      "state_key": "2f2df794ccddf7c4da26a76ca872e7e8:h2h",
+      "event_id": "2f2df794ccddf7c4da26a76ca872e7e8",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Cádiz CF",
+      "away_team": "Celta Vigo",
+      "commence_time": "2026-08-15T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cádiz CF",
+      "odds_at_alert": 30.0,
+      "stake_pct": 5.0,
+      "confidence": 266,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:03:10.929162+00:00"
+    },
+    {
+      "state_key": "2f2df794ccddf7c4da26a76ca872e7e8:h2h",
+      "event_id": "2f2df794ccddf7c4da26a76ca872e7e8",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Cádiz CF",
+      "away_team": "Celta Vigo",
+      "commence_time": "2026-08-15T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Celta Vigo",
+      "odds_at_alert": 22.0,
+      "stake_pct": 5.0,
+      "confidence": 39,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:03:11.496372+00:00"
+    },
+    {
+      "state_key": "2f2df794ccddf7c4da26a76ca872e7e8:h2h",
+      "event_id": "2f2df794ccddf7c4da26a76ca872e7e8",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Cádiz CF",
+      "away_team": "Celta Vigo",
+      "commence_time": "2026-08-15T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cádiz CF",
+      "odds_at_alert": 12.5,
+      "stake_pct": 5.0,
+      "confidence": 52,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:03:12.072431+00:00"
+    },
+    {
+      "state_key": "2f2df794ccddf7c4da26a76ca872e7e8:h2h",
+      "event_id": "2f2df794ccddf7c4da26a76ca872e7e8",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Cádiz CF",
+      "away_team": "Celta Vigo",
+      "commence_time": "2026-08-15T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Celta Vigo",
+      "odds_at_alert": 22.0,
+      "stake_pct": 5.0,
+      "confidence": 39,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:03:12.588765+00:00"
+    },
+    {
+      "state_key": "2f2df794ccddf7c4da26a76ca872e7e8:h2h",
+      "event_id": "2f2df794ccddf7c4da26a76ca872e7e8",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Cádiz CF",
+      "away_team": "Celta Vigo",
+      "commence_time": "2026-08-15T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Celta Vigo",
+      "odds_at_alert": 24.0,
+      "stake_pct": 5.0,
+      "confidence": 52,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:03:13.129422+00:00"
+    },
+    {
+      "state_key": "2f2df794ccddf7c4da26a76ca872e7e8:h2h",
+      "event_id": "2f2df794ccddf7c4da26a76ca872e7e8",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Cádiz CF",
+      "away_team": "Celta Vigo",
+      "commence_time": "2026-08-15T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cádiz CF",
+      "odds_at_alert": 10.5,
+      "stake_pct": 5.0,
+      "confidence": 28,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:03:13.629763+00:00"
+    },
+    {
+      "state_key": "2f2df794ccddf7c4da26a76ca872e7e8:h2h",
+      "event_id": "2f2df794ccddf7c4da26a76ca872e7e8",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Cádiz CF",
+      "away_team": "Celta Vigo",
+      "commence_time": "2026-08-15T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Celta Vigo",
+      "odds_at_alert": 31.0,
+      "stake_pct": 5.0,
+      "confidence": 96,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:03:14.176486+00:00"
+    },
+    {
+      "state_key": "2f2df794ccddf7c4da26a76ca872e7e8:h2h",
+      "event_id": "2f2df794ccddf7c4da26a76ca872e7e8",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Cádiz CF",
+      "away_team": "Celta Vigo",
+      "commence_time": "2026-08-15T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cádiz CF",
+      "odds_at_alert": 23.0,
+      "stake_pct": 5.0,
+      "confidence": 180,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:03:14.705136+00:00"
+    },
+    {
+      "state_key": "7f843257dd049cc191118f65668ea601:h2h",
+      "event_id": "7f843257dd049cc191118f65668ea601",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Oviedo",
+      "away_team": "Granada CF",
+      "commence_time": "2026-08-15T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Granada CF",
+      "odds_at_alert": 55.0,
+      "stake_pct": 5.0,
+      "confidence": 460,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:03:15.243448+00:00"
+    },
+    {
+      "state_key": "7f843257dd049cc191118f65668ea601:h2h",
+      "event_id": "7f843257dd049cc191118f65668ea601",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Oviedo",
+      "away_team": "Granada CF",
+      "commence_time": "2026-08-15T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Oviedo",
+      "odds_at_alert": 36.0,
+      "stake_pct": 5.0,
+      "confidence": 654,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:03:15.751068+00:00"
+    },
+    {
+      "state_key": "7f843257dd049cc191118f65668ea601:h2h",
+      "event_id": "7f843257dd049cc191118f65668ea601",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Oviedo",
+      "away_team": "Granada CF",
+      "commence_time": "2026-08-15T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Granada CF",
+      "odds_at_alert": 50.0,
+      "stake_pct": 5.0,
+      "confidence": 410,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:03:16.264281+00:00"
+    },
+    {
+      "state_key": "7f843257dd049cc191118f65668ea601:h2h",
+      "event_id": "7f843257dd049cc191118f65668ea601",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Oviedo",
+      "away_team": "Granada CF",
+      "commence_time": "2026-08-15T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Oviedo",
+      "odds_at_alert": 30.0,
+      "stake_pct": 5.0,
+      "confidence": 529,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:03:16.789586+00:00"
+    },
+    {
+      "state_key": "7f843257dd049cc191118f65668ea601:h2h",
+      "event_id": "7f843257dd049cc191118f65668ea601",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Oviedo",
+      "away_team": "Granada CF",
+      "commence_time": "2026-08-15T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Granada CF",
+      "odds_at_alert": 50.0,
+      "stake_pct": 5.0,
+      "confidence": 410,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:03:17.309689+00:00"
+    },
+    {
+      "state_key": "7f843257dd049cc191118f65668ea601:h2h",
+      "event_id": "7f843257dd049cc191118f65668ea601",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Oviedo",
+      "away_team": "Granada CF",
+      "commence_time": "2026-08-15T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Oviedo",
+      "odds_at_alert": 30.0,
+      "stake_pct": 5.0,
+      "confidence": 529,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:03:17.875636+00:00"
+    },
+    {
+      "state_key": "7f843257dd049cc191118f65668ea601:h2h",
+      "event_id": "7f843257dd049cc191118f65668ea601",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Oviedo",
+      "away_team": "Granada CF",
+      "commence_time": "2026-08-15T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Granada CF",
+      "odds_at_alert": 24.0,
+      "stake_pct": 5.0,
+      "confidence": 145,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:03:18.407498+00:00"
+    },
+    {
+      "state_key": "7f843257dd049cc191118f65668ea601:h2h",
+      "event_id": "7f843257dd049cc191118f65668ea601",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Oviedo",
+      "away_team": "Granada CF",
+      "commence_time": "2026-08-15T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Oviedo",
+      "odds_at_alert": 16.0,
+      "stake_pct": 5.0,
+      "confidence": 235,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:03:18.938920+00:00"
+    },
+    {
+      "state_key": "7f843257dd049cc191118f65668ea601:h2h",
+      "event_id": "7f843257dd049cc191118f65668ea601",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Oviedo",
+      "away_team": "Granada CF",
+      "commence_time": "2026-08-15T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Granada CF",
+      "odds_at_alert": 41.0,
+      "stake_pct": 5.0,
+      "confidence": 318,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:03:19.528308+00:00"
+    },
+    {
+      "state_key": "7f843257dd049cc191118f65668ea601:h2h",
+      "event_id": "7f843257dd049cc191118f65668ea601",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Oviedo",
+      "away_team": "Granada CF",
+      "commence_time": "2026-08-15T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Oviedo",
+      "odds_at_alert": 34.0,
+      "stake_pct": 5.0,
+      "confidence": 612,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:03:20.112253+00:00"
+    },
+    {
+      "state_key": "7f843257dd049cc191118f65668ea601:h2h",
+      "event_id": "7f843257dd049cc191118f65668ea601",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Oviedo",
+      "away_team": "Granada CF",
+      "commence_time": "2026-08-15T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Granada CF",
+      "odds_at_alert": 28.0,
+      "stake_pct": 5.0,
+      "confidence": 185,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:03:20.706740+00:00"
+    },
+    {
+      "state_key": "7f843257dd049cc191118f65668ea601:h2h",
+      "event_id": "7f843257dd049cc191118f65668ea601",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Oviedo",
+      "away_team": "Granada CF",
+      "commence_time": "2026-08-15T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Oviedo",
+      "odds_at_alert": 20.0,
+      "stake_pct": 5.0,
+      "confidence": 319,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:03:21.229510+00:00"
+    },
+    {
+      "state_key": "7f843257dd049cc191118f65668ea601:h2h",
+      "event_id": "7f843257dd049cc191118f65668ea601",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Oviedo",
+      "away_team": "Granada CF",
+      "commence_time": "2026-08-15T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Granada CF",
+      "odds_at_alert": 81.0,
+      "stake_pct": 5.0,
+      "confidence": 725,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:03:21.857318+00:00"
+    },
+    {
+      "state_key": "7f843257dd049cc191118f65668ea601:h2h",
+      "event_id": "7f843257dd049cc191118f65668ea601",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Oviedo",
+      "away_team": "Granada CF",
+      "commence_time": "2026-08-15T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Oviedo",
+      "odds_at_alert": 67.0,
+      "stake_pct": 5.0,
+      "confidence": 1304,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:03:22.340869+00:00"
+    },
+    {
+      "state_key": "4b1211e0f448d01cf2b7fabd07aee49e:h2h",
+      "event_id": "4b1211e0f448d01cf2b7fabd07aee49e",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Alavés",
+      "away_team": "Getafe",
+      "commence_time": "2026-08-15T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Getafe",
+      "odds_at_alert": 18.0,
+      "stake_pct": 5.0,
+      "confidence": 19,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:03:22.830353+00:00"
+    },
+    {
+      "state_key": "4b1211e0f448d01cf2b7fabd07aee49e:h2h",
+      "event_id": "4b1211e0f448d01cf2b7fabd07aee49e",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Alavés",
+      "away_team": "Getafe",
+      "commence_time": "2026-08-15T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Getafe",
+      "odds_at_alert": 18.0,
+      "stake_pct": 5.0,
+      "confidence": 19,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:03:23.341649+00:00"
+    },
+    {
+      "state_key": "4b1211e0f448d01cf2b7fabd07aee49e:h2h",
+      "event_id": "4b1211e0f448d01cf2b7fabd07aee49e",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Alavés",
+      "away_team": "Getafe",
+      "commence_time": "2026-08-15T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Getafe",
+      "odds_at_alert": 16.0,
+      "stake_pct": 2.0,
+      "confidence": 5,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:03:23.842873+00:00"
+    },
+    {
+      "state_key": "4b1211e0f448d01cf2b7fabd07aee49e:h2h",
+      "event_id": "4b1211e0f448d01cf2b7fabd07aee49e",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Alavés",
+      "away_team": "Getafe",
+      "commence_time": "2026-08-15T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Getafe",
+      "odds_at_alert": 16.0,
+      "stake_pct": 2.0,
+      "confidence": 5,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:03:24.359362+00:00"
+    },
+    {
+      "state_key": "4b1211e0f448d01cf2b7fabd07aee49e:h2h",
+      "event_id": "4b1211e0f448d01cf2b7fabd07aee49e",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Alavés",
+      "away_team": "Getafe",
+      "commence_time": "2026-08-15T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Getafe",
+      "odds_at_alert": 16.0,
+      "stake_pct": 2.0,
+      "confidence": 5,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:03:24.904483+00:00"
+    },
+    {
+      "state_key": "4b1211e0f448d01cf2b7fabd07aee49e:h2h",
+      "event_id": "4b1211e0f448d01cf2b7fabd07aee49e",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Alavés",
+      "away_team": "Getafe",
+      "commence_time": "2026-08-15T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Alavés",
+      "odds_at_alert": 2.6,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:03:25.412066+00:00"
+    },
+    {
+      "state_key": "4b1211e0f448d01cf2b7fabd07aee49e:h2h",
+      "event_id": "4b1211e0f448d01cf2b7fabd07aee49e",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Alavés",
+      "away_team": "Getafe",
+      "commence_time": "2026-08-15T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Getafe",
+      "odds_at_alert": 16.0,
+      "stake_pct": 2.0,
+      "confidence": 5,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:03:25.934354+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "d8702f3ee9a52f0232d3c264ff283e97:h2h|888sport|Draw",
-    "d8702f3ee9a52f0232d3c264ff283e97:h2h|888sport|Norrby IF",
-    "d8702f3ee9a52f0232d3c264ff283e97:h2h|Betfair|Draw",
-    "d8702f3ee9a52f0232d3c264ff283e97:h2h|Betfair|Norrby IF",
-    "d8702f3ee9a52f0232d3c264ff283e97:h2h|Betsson|Draw",
-    "d8702f3ee9a52f0232d3c264ff283e97:h2h|Nordic Bet|Draw"
+    "2f2df794ccddf7c4da26a76ca872e7e8:h2h|Coolbet|Celta Vigo",
+    "2f2df794ccddf7c4da26a76ca872e7e8:h2h|Coolbet|Cádiz CF",
+    "2f2df794ccddf7c4da26a76ca872e7e8:h2h|Matchbook|Celta Vigo",
+    "2f2df794ccddf7c4da26a76ca872e7e8:h2h|Nordic Bet|Celta Vigo",
+    "2f2df794ccddf7c4da26a76ca872e7e8:h2h|Nordic Bet|Cádiz CF",
+    "2f2df794ccddf7c4da26a76ca872e7e8:h2h|Tipico|Celta Vigo",
+    "2f2df794ccddf7c4da26a76ca872e7e8:h2h|Tipico|Cádiz CF",
+    "2f2df794ccddf7c4da26a76ca872e7e8:h2h|Unibet (SE)|Celta Vigo",
+    "2f2df794ccddf7c4da26a76ca872e7e8:h2h|Unibet (SE)|Cádiz CF",
+    "4b1211e0f448d01cf2b7fabd07aee49e:h2h|Coolbet|Getafe",
+    "4b1211e0f448d01cf2b7fabd07aee49e:h2h|LeoVegas (SE)|Getafe",
+    "4b1211e0f448d01cf2b7fabd07aee49e:h2h|Matchbook|Alavés",
+    "4b1211e0f448d01cf2b7fabd07aee49e:h2h|Matchbook|Getafe",
+    "4b1211e0f448d01cf2b7fabd07aee49e:h2h|Tipico|Getafe",
+    "4b1211e0f448d01cf2b7fabd07aee49e:h2h|Unibet (NL)|Getafe",
+    "4b1211e0f448d01cf2b7fabd07aee49e:h2h|Unibet (SE)|Getafe",
+    "7f843257dd049cc191118f65668ea601:h2h|Betclic (FR)|Granada CF",
+    "7f843257dd049cc191118f65668ea601:h2h|Betclic (FR)|Oviedo",
+    "7f843257dd049cc191118f65668ea601:h2h|Coolbet|Granada CF",
+    "7f843257dd049cc191118f65668ea601:h2h|Coolbet|Oviedo",
+    "7f843257dd049cc191118f65668ea601:h2h|Nordic Bet|Granada CF",
+    "7f843257dd049cc191118f65668ea601:h2h|Nordic Bet|Oviedo",
+    "7f843257dd049cc191118f65668ea601:h2h|Tipico|Granada CF",
+    "7f843257dd049cc191118f65668ea601:h2h|Tipico|Oviedo",
+    "7f843257dd049cc191118f65668ea601:h2h|Unibet (SE)|Granada CF",
+    "7f843257dd049cc191118f65668ea601:h2h|Unibet (SE)|Oviedo",
+    "7f843257dd049cc191118f65668ea601:h2h|Winamax (DE)|Granada CF",
+    "7f843257dd049cc191118f65668ea601:h2h|Winamax (DE)|Oviedo",
+    "7f843257dd049cc191118f65668ea601:h2h|Winamax (FR)|Granada CF",
+    "7f843257dd049cc191118f65668ea601:h2h|Winamax (FR)|Oviedo"
   ]
 }
