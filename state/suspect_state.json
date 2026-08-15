@@ -1,186 +1,141 @@
 {
   "snapshots": {
-    "28c33e941922e40bec344f7c7bfa9c44:h2h": {
-      "Coolbet": {
-        "Académico de Viseu": 80.0,
-        "Santa Clara": 1.0,
-        "Draw": 16.0
-      },
-      "Betclic (FR)": {
-        "Académico de Viseu": 100.0,
-        "Santa Clara": 1.0,
-        "Draw": 25.0
-      },
-      "Winamax (FR)": {
-        "Académico de Viseu": 600.0,
-        "Santa Clara": 1.03,
-        "Draw": 17.0
-      },
-      "Winamax (DE)": {
-        "Académico de Viseu": 1000.0,
-        "Santa Clara": 1.01,
-        "Draw": 20.0
-      },
-      "Nordic Bet": {
-        "Académico de Viseu": 101.0,
-        "Santa Clara": 1.0,
-        "Draw": 15.0
-      },
-      "Betsson": {
-        "Académico de Viseu": 101.0,
-        "Santa Clara": 1.0,
-        "Draw": 15.0
-      },
-      "Betfair": {
-        "Académico de Viseu": 320.0,
-        "Santa Clara": 1.02,
-        "Draw": 34.0
-      }
-    },
-    "2f2df794ccddf7c4da26a76ca872e7e8:h2h": {
-      "Pinnacle": {
-        "Celta Vigo": 14.82,
-        "Cádiz CF": 7.69,
-        "Draw": 1.15
-      },
-      "Tipico": {
-        "Celta Vigo": 50.0,
-        "Cádiz CF": 30.0,
-        "Draw": 1.01
-      },
-      "Betfair": {
-        "Celta Vigo": 1.01,
-        "Cádiz CF": 1.01,
-        "Draw": 1.01
-      },
-      "Coolbet": {
-        "Celta Vigo": 22.0,
-        "Cádiz CF": 12.5,
-        "Draw": 1.06
-      },
-      "Matchbook": {
-        "Celta Vigo": 22.0,
-        "Cádiz CF": 2.6,
-        "Draw": 1.03
-      },
-      "Unibet (SE)": {
-        "Celta Vigo": 31.0,
-        "Cádiz CF": 23.0,
-        "Draw": 1.02
-      }
-    },
     "4b1211e0f448d01cf2b7fabd07aee49e:h2h": {
       "Winamax (DE)": {
-        "Alavés": 1.07,
-        "Getafe": 75.0,
-        "Draw": 9.0
-      },
-      "Nordic Bet": {
         "Alavés": 1.05,
-        "Getafe": 100.0,
-        "Draw": 10.5
-      },
-      "Winamax (FR)": {
-        "Alavés": 1.08,
-        "Getafe": 75.0,
-        "Draw": 8.5
-      },
-      "Betfair": {
-        "Alavés": 1.09,
-        "Getafe": 200.0,
-        "Draw": 12.0
-      },
-      "Betsson": {
-        "Alavés": 1.04,
-        "Getafe": 100.0,
-        "Draw": 11.5
-      },
-      "Betclic (FR)": {
-        "Alavés": 1.05,
-        "Getafe": 60.0,
-        "Draw": 8.5
-      },
-      "Tipico": {
-        "Alavés": 1.05,
-        "Getafe": 80.0,
-        "Draw": 8.0
-      },
-      "Pinnacle": {
-        "Alavés": 2.33,
-        "Getafe": 14.4,
-        "Draw": 1.8
-      },
-      "Coolbet": {
-        "Alavés": 1.06,
-        "Getafe": 100.0,
+        "Getafe": 140.0,
         "Draw": 11.0
       },
-      "Unibet (NL)": {
-        "Alavés": 1.03,
-        "Getafe": 141.0,
-        "Draw": 14.0
+      "Winamax (FR)": {
+        "Alavés": 1.06,
+        "Getafe": 140.0,
+        "Draw": 10.0
       },
-      "LeoVegas (SE)": {
-        "Alavés": 1.01,
-        "Getafe": 81.0,
-        "Draw": 14.0
+      "Betfair": {
+        "Alavés": 1.06,
+        "Getafe": 310.0,
+        "Draw": 15.0
       },
-      "Unibet (SE)": {
-        "Alavés": 1.03,
-        "Getafe": 161.0,
-        "Draw": 14.0
-      },
-      "Matchbook": {
-        "Alavés": 1.09,
-        "Getafe": 180.0,
-        "Draw": 12.0
+      "Betclic (FR)": {
+        "Alavés": 1.0,
+        "Getafe": 100.0,
+        "Draw": 100.0
       }
     },
     "e657f60b5481b8c6b8210dc03062fff1:h2h": {
       "Betfair": {
-        "Aldosivi Mar del Plata": 6.4,
-        "CA Tigre BA": 6.2,
-        "Draw": 1.46
+        "Aldosivi Mar del Plata": 1.01,
+        "CA Tigre BA": 1.01,
+        "Draw": 1.01
       },
       "Nordic Bet": {
-        "Aldosivi Mar del Plata": 5.8,
-        "CA Tigre BA": 5.35,
-        "Draw": 1.36
+        "Aldosivi Mar del Plata": 15.0,
+        "CA Tigre BA": 29.0,
+        "Draw": 1.03
       },
       "Betsson": {
-        "Aldosivi Mar del Plata": 5.8,
-        "CA Tigre BA": 5.35,
-        "Draw": 1.36
+        "Aldosivi Mar del Plata": 15.0,
+        "CA Tigre BA": 29.0,
+        "Draw": 1.03
       },
       "Winamax (DE)": {
-        "Aldosivi Mar del Plata": 4.2,
-        "CA Tigre BA": 8.5,
-        "Draw": 1.34
+        "Aldosivi Mar del Plata": 19.0,
+        "CA Tigre BA": 42.0,
+        "Draw": 1.02
       },
       "Winamax (FR)": {
-        "Aldosivi Mar del Plata": 4.0,
-        "CA Tigre BA": 7.75,
-        "Draw": 1.36
+        "Aldosivi Mar del Plata": 18.0,
+        "CA Tigre BA": 42.0,
+        "Draw": 1.04
       },
       "Betclic (FR)": {
-        "Aldosivi Mar del Plata": 5.5,
-        "CA Tigre BA": 5.0,
-        "Draw": 1.35
+        "Aldosivi Mar del Plata": 9.25,
+        "CA Tigre BA": 19.0,
+        "Draw": 1.04
       },
       "Unibet (SE)": {
-        "Aldosivi Mar del Plata": 4.9,
-        "CA Tigre BA": 5.25,
-        "Draw": 1.45
+        "Aldosivi Mar del Plata": 21.0,
+        "CA Tigre BA": 35.0,
+        "Draw": 1.02
       },
       "LeoVegas (SE)": {
-        "Aldosivi Mar del Plata": 4.6,
-        "CA Tigre BA": 4.9,
-        "Draw": 1.38
+        "Aldosivi Mar del Plata": 15.0,
+        "CA Tigre BA": 13.0,
+        "Draw": 1.01
       },
       "Pinnacle": {
-        "Aldosivi Mar del Plata": 5.06,
-        "CA Tigre BA": 4.46,
-        "Draw": 1.57
+        "Aldosivi Mar del Plata": 5.1,
+        "CA Tigre BA": 12.13,
+        "Draw": 1.27
+      }
+    },
+    "0506a2e6befe77b370719cdf4242c481:h2h": {
+      "Winamax (FR)": {
+        "Rheindorf Altach": 450.0,
+        "Sturm Graz": 1.02,
+        "Draw": 27.0
+      },
+      "Coolbet": {
+        "Rheindorf Altach": 100.0,
+        "Sturm Graz": 1.0,
+        "Draw": 16.0
+      },
+      "Winamax (DE)": {
+        "Rheindorf Altach": 300.0,
+        "Sturm Graz": 1.02,
+        "Draw": 18.0
+      },
+      "Betclic (FR)": {
+        "Rheindorf Altach": 100.0,
+        "Sturm Graz": 1.0,
+        "Draw": 20.0
+      },
+      "Nordic Bet": {
+        "Rheindorf Altach": 1.0,
+        "Sturm Graz": 1.0,
+        "Draw": 1.0
+      },
+      "Betfair": {
+        "Rheindorf Altach": 150.0,
+        "Sturm Graz": 1.02,
+        "Draw": 26.0
+      }
+    },
+    "f3953e3078fdbff4b335c4427664bda8:h2h": {
+      "Betfair": {
+        "San Lorenzo": 1.01,
+        "Union Santa Fe": 1.25,
+        "Draw": 1.01
+      },
+      "Nordic Bet": {
+        "San Lorenzo": 1.04,
+        "Union Santa Fe": 80.0,
+        "Draw": 9.5
+      },
+      "Betsson": {
+        "San Lorenzo": 1.04,
+        "Union Santa Fe": 80.0,
+        "Draw": 10.0
+      },
+      "Winamax (DE)": {
+        "San Lorenzo": 1.02,
+        "Union Santa Fe": 450.0,
+        "Draw": 16.0
+      },
+      "Winamax (FR)": {
+        "San Lorenzo": 1.02,
+        "Union Santa Fe": 1000.0,
+        "Draw": 25.0
+      },
+      "Betclic (FR)": {
+        "San Lorenzo": 1.0,
+        "Union Santa Fe": 100.0,
+        "Draw": 15.0
+      },
+      "LeoVegas (SE)": {
+        "San Lorenzo": 1.03,
+        "Union Santa Fe": 81.0,
+        "Draw": 9.5
       }
     }
   },
@@ -6697,17 +6652,90 @@
       "confidence": 11,
       "alert_type": "value",
       "alerted_at": "2026-08-15T19:09:47.268586+00:00"
+    },
+    {
+      "state_key": "e657f60b5481b8c6b8210dc03062fff1:h2h",
+      "event_id": "e657f60b5481b8c6b8210dc03062fff1",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Aldosivi Mar del Plata",
+      "away_team": "CA Tigre BA",
+      "commence_time": "2026-08-15T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Aldosivi Mar del Plata",
+      "odds_at_alert": 19.0,
+      "stake_pct": 5.0,
+      "confidence": 250,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:34:01.736978+00:00"
+    },
+    {
+      "state_key": "e657f60b5481b8c6b8210dc03062fff1:h2h",
+      "event_id": "e657f60b5481b8c6b8210dc03062fff1",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Aldosivi Mar del Plata",
+      "away_team": "CA Tigre BA",
+      "commence_time": "2026-08-15T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Aldosivi Mar del Plata",
+      "odds_at_alert": 18.0,
+      "stake_pct": 5.0,
+      "confidence": 231,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:34:02.110337+00:00"
+    },
+    {
+      "state_key": "e657f60b5481b8c6b8210dc03062fff1:h2h",
+      "event_id": "e657f60b5481b8c6b8210dc03062fff1",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Aldosivi Mar del Plata",
+      "away_team": "CA Tigre BA",
+      "commence_time": "2026-08-15T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Aldosivi Mar del Plata",
+      "odds_at_alert": 9.25,
+      "stake_pct": 5.0,
+      "confidence": 70,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:34:02.467142+00:00"
+    },
+    {
+      "state_key": "e657f60b5481b8c6b8210dc03062fff1:h2h",
+      "event_id": "e657f60b5481b8c6b8210dc03062fff1",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Aldosivi Mar del Plata",
+      "away_team": "CA Tigre BA",
+      "commence_time": "2026-08-15T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Aldosivi Mar del Plata",
+      "odds_at_alert": 21.0,
+      "stake_pct": 5.0,
+      "confidence": 286,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:34:02.835399+00:00"
+    },
+    {
+      "state_key": "e657f60b5481b8c6b8210dc03062fff1:h2h",
+      "event_id": "e657f60b5481b8c6b8210dc03062fff1",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Aldosivi Mar del Plata",
+      "away_team": "CA Tigre BA",
+      "commence_time": "2026-08-15T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Aldosivi Mar del Plata",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 176,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T19:34:03.227409+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "2f2df794ccddf7c4da26a76ca872e7e8:h2h|Coolbet|Celta Vigo",
-    "2f2df794ccddf7c4da26a76ca872e7e8:h2h|Coolbet|Cádiz CF",
-    "2f2df794ccddf7c4da26a76ca872e7e8:h2h|Matchbook|Celta Vigo",
-    "2f2df794ccddf7c4da26a76ca872e7e8:h2h|Tipico|Celta Vigo",
-    "2f2df794ccddf7c4da26a76ca872e7e8:h2h|Tipico|Cádiz CF",
-    "2f2df794ccddf7c4da26a76ca872e7e8:h2h|Unibet (SE)|Celta Vigo",
-    "2f2df794ccddf7c4da26a76ca872e7e8:h2h|Unibet (SE)|Cádiz CF",
     "4b1211e0f448d01cf2b7fabd07aee49e:h2h|Betclic (FR)|Draw",
     "4b1211e0f448d01cf2b7fabd07aee49e:h2h|Betclic (FR)|Getafe",
     "4b1211e0f448d01cf2b7fabd07aee49e:h2h|Betfair|Draw",
@@ -6732,15 +6760,20 @@
     "4b1211e0f448d01cf2b7fabd07aee49e:h2h|Winamax (DE)|Getafe",
     "4b1211e0f448d01cf2b7fabd07aee49e:h2h|Winamax (FR)|Draw",
     "4b1211e0f448d01cf2b7fabd07aee49e:h2h|Winamax (FR)|Getafe",
+    "e657f60b5481b8c6b8210dc03062fff1:h2h|Betclic (FR)|Aldosivi Mar del Plata",
     "e657f60b5481b8c6b8210dc03062fff1:h2h|Betclic (FR)|CA Tigre BA",
     "e657f60b5481b8c6b8210dc03062fff1:h2h|Betfair|Aldosivi Mar del Plata",
     "e657f60b5481b8c6b8210dc03062fff1:h2h|Betfair|CA Tigre BA",
     "e657f60b5481b8c6b8210dc03062fff1:h2h|Betsson|Aldosivi Mar del Plata",
     "e657f60b5481b8c6b8210dc03062fff1:h2h|Betsson|CA Tigre BA",
+    "e657f60b5481b8c6b8210dc03062fff1:h2h|LeoVegas (SE)|Aldosivi Mar del Plata",
     "e657f60b5481b8c6b8210dc03062fff1:h2h|Nordic Bet|Aldosivi Mar del Plata",
     "e657f60b5481b8c6b8210dc03062fff1:h2h|Nordic Bet|CA Tigre BA",
+    "e657f60b5481b8c6b8210dc03062fff1:h2h|Unibet (SE)|Aldosivi Mar del Plata",
     "e657f60b5481b8c6b8210dc03062fff1:h2h|Unibet (SE)|CA Tigre BA",
+    "e657f60b5481b8c6b8210dc03062fff1:h2h|Winamax (DE)|Aldosivi Mar del Plata",
     "e657f60b5481b8c6b8210dc03062fff1:h2h|Winamax (DE)|CA Tigre BA",
+    "e657f60b5481b8c6b8210dc03062fff1:h2h|Winamax (FR)|Aldosivi Mar del Plata",
     "e657f60b5481b8c6b8210dc03062fff1:h2h|Winamax (FR)|CA Tigre BA"
   ]
 }
