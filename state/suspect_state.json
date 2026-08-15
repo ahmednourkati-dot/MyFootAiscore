@@ -1,161 +1,214 @@
 {
   "snapshots": {
-    "abd7ebb0a5119bb45354bd728ddfbfa1:h2h": {
+    "61338bf4e8430811fdff1efdc9a9a6e2:h2h": {
       "Pinnacle": {
-        "FK Rostov": 4.57,
-        "Rubin Kazan": 9.92,
-        "Draw": 1.36
-      }
-    },
-    "9dddd92d5b2905530810a7fbcbc3315e:h2h": {
-      "Coolbet": {
-        "Piast Gliwice": 125.0,
-        "Wieczysta Kraków": 1.0,
-        "Draw": 15.0
-      },
-      "Betclic (FR)": {
-        "Piast Gliwice": 100.0,
-        "Wieczysta Kraków": 1.02,
-        "Draw": 40.0
-      },
-      "Winamax (DE)": {
-        "Piast Gliwice": 450.0,
-        "Wieczysta Kraków": 1.01,
-        "Draw": 21.0
+        "Südtirol": 9.39,
+        "US Catanzaro 1929": 7.03,
+        "Draw": 1.22
       },
       "Betfair": {
-        "Piast Gliwice": 18.5,
-        "Wieczysta Kraków": 1.04,
+        "Südtirol": 1.01,
+        "US Catanzaro 1929": 1.01
+      },
+      "LeoVegas (SE)": {
+        "Südtirol": 12.0,
+        "US Catanzaro 1929": 12.5,
+        "Draw": 1.01
+      },
+      "Unibet (NL)": {
+        "Südtirol": 18.0,
+        "US Catanzaro 1929": 17.0,
+        "Draw": 1.03
+      },
+      "Tipico": {
+        "Südtirol": 1.9,
+        "US Catanzaro 1929": 1.8
+      },
+      "888sport": {
+        "Südtirol": 17.0,
+        "US Catanzaro 1929": 13.0,
+        "Draw": 1.06
+      },
+      "Unibet (SE)": {
+        "Südtirol": 41.0,
+        "US Catanzaro 1929": 35.0,
+        "Draw": 1.01
+      },
+      "Winamax (DE)": {
+        "Südtirol": 21.0,
+        "US Catanzaro 1929": 17.0,
+        "Draw": 1.04
+      }
+    },
+    "fbecc48515be0a8a0260d073d0f7e40c:h2h": {
+      "Winamax (DE)": {
+        "KV Kortrijk": 170.0,
+        "Royal Antwerp": 1.01,
+        "Draw": 24.0
+      },
+      "Betclic (FR)": {
+        "KV Kortrijk": 100.0,
+        "Royal Antwerp": 1.0,
+        "Draw": 40.0
+      },
+      "Winamax (FR)": {
+        "KV Kortrijk": 170.0,
+        "Royal Antwerp": 1.02,
+        "Draw": 23.0
+      },
+      "Betfair": {
+        "KV Kortrijk": 300.0,
+        "Royal Antwerp": 1.02,
+        "Draw": 36.0
+      },
+      "Betsson": {
+        "KV Kortrijk": 26.0,
+        "Royal Antwerp": 1.0,
+        "Draw": 26.0
+      },
+      "Nordic Bet": {
+        "KV Kortrijk": 26.0,
+        "Royal Antwerp": 1.0,
+        "Draw": 26.0
+      },
+      "888sport": {
+        "KV Kortrijk": 101.0,
+        "Royal Antwerp": 1.02,
+        "Draw": 23.0
+      }
+    },
+    "18c7c88f94d82ff92f48fec4cb460548:h2h": {
+      "Betclic (FR)": {
+        "Al-Khaleej": 12.0,
+        "Al-Taawoun": 11.0,
+        "Draw": 1.07
+      },
+      "Pinnacle": {
+        "Al-Khaleej": 4.96,
+        "Al-Taawoun": 4.22,
+        "Draw": 1.57
+      },
+      "Unibet (NL)": {
+        "Al-Khaleej": 18.0,
+        "Al-Taawoun": 15.0,
+        "Draw": 1.01
+      },
+      "Winamax (DE)": {
+        "Al-Khaleej": 34.0,
+        "Al-Taawoun": 34.0,
+        "Draw": 1.01
+      },
+      "Unibet (SE)": {
+        "Al-Khaleej": 67.0,
+        "Al-Taawoun": 26.0,
         "Draw": 1.01
       },
       "Tipico": {
-        "Piast Gliwice": 500.0,
-        "Wieczysta Kraków": 1.01,
-        "Draw": 10.0
-      }
-    },
-    "60ff159fbea24564cc08c5e1e7f0772b:h2h": {
-      "Unibet (NL)": {
-        "IFK Mariehamn": 1.08,
-        "SJK Seinäjoki": 23.0,
-        "Draw": 8.5
+        "Al-Khaleej": 30.0,
+        "Al-Taawoun": 30.0,
+        "Draw": 1.01
+      },
+      "Winamax (FR)": {
+        "Al-Khaleej": 36.0,
+        "Al-Taawoun": 34.0,
+        "Draw": 1.02
       },
       "LeoVegas (SE)": {
-        "IFK Mariehamn": 1.02,
-        "SJK Seinäjoki": 23.0,
-        "Draw": 8.5
-      },
-      "Unibet (SE)": {
-        "IFK Mariehamn": 1.08,
-        "SJK Seinäjoki": 23.0,
-        "Draw": 8.5
-      },
-      "Betsson": {
-        "IFK Mariehamn": 1.05,
-        "SJK Seinäjoki": 34.0,
-        "Draw": 11.0
-      },
-      "Nordic Bet": {
-        "IFK Mariehamn": 1.05,
-        "SJK Seinäjoki": 36.0,
-        "Draw": 11.0
-      },
-      "Coolbet": {
-        "IFK Mariehamn": 1.06,
-        "SJK Seinäjoki": 50.0,
-        "Draw": 12.0
-      },
-      "888sport": {
-        "IFK Mariehamn": 1.06,
-        "SJK Seinäjoki": 36.0,
-        "Draw": 10.0
-      },
-      "Betfair": {
-        "IFK Mariehamn": 1.11,
-        "SJK Seinäjoki": 50.0,
-        "Draw": 11.0
-      },
-      "Matchbook": {
-        "IFK Mariehamn": 1.08,
-        "SJK Seinäjoki": 60.0,
-        "Draw": 13.0
-      }
-    },
-    "ee24e0a4e57e00f6243aa50b0fe379f7:h2h": {
-      "Winamax (FR)": {
-        "Kasimpasa SK": 6.0,
-        "Trabzonspor": 3.15,
-        "Draw": 1.54
-      },
-      "Tipico": {
-        "Kasimpasa SK": 7.5,
-        "Trabzonspor": 3.1,
-        "Draw": 1.6
-      },
-      "Betclic (FR)": {
-        "Kasimpasa SK": 6.4,
-        "Trabzonspor": 3.08,
-        "Draw": 1.55
-      },
-      "Nordic Bet": {
-        "Kasimpasa SK": 6.3,
-        "Trabzonspor": 3.5,
-        "Draw": 1.58
-      },
-      "Winamax (DE)": {
-        "Kasimpasa SK": 6.25,
-        "Trabzonspor": 3.2,
-        "Draw": 1.58
-      },
-      "Betsson": {
-        "Kasimpasa SK": 5.8,
-        "Trabzonspor": 3.4,
-        "Draw": 1.6
-      },
-      "Coolbet": {
-        "Kasimpasa SK": 7.5,
-        "Trabzonspor": 3.5,
-        "Draw": 1.62
-      },
-      "Betfair": {
-        "Kasimpasa SK": 6.8,
-        "Trabzonspor": 3.6,
-        "Draw": 1.72
-      },
-      "888sport": {
-        "Kasimpasa SK": 6.0,
-        "Trabzonspor": 3.4,
-        "Draw": 1.53
-      },
-      "Pinnacle": {
-        "Kasimpasa SK": 5.7,
-        "Trabzonspor": 3.0,
-        "Draw": 1.79
+        "Al-Khaleej": 14.0,
+        "Al-Taawoun": 12.5,
+        "Draw": 1.02
       },
       "PMU (FR)": {
-        "Kasimpasa SK": 6.0,
-        "Trabzonspor": 3.4,
-        "Draw": 1.42
+        "Al-Khaleej": 9.0,
+        "Al-Taawoun": 6.5,
+        "Draw": 1.07
+      },
+      "888sport": {
+        "Al-Khaleej": 15.0,
+        "Al-Taawoun": 13.0,
+        "Draw": 1.05
+      },
+      "Betfair": {
+        "Al-Khaleej": 1.04,
+        "Al-Taawoun": 1.04,
+        "Draw": 1.53
+      }
+    },
+    "0cb1b113469e83f07b4593116cfa9339:h2h": {
+      "Winamax (FR)": {
+        "Birmingham City": 5.7,
+        "Sheffield United": 5.4,
+        "Draw": 1.32
+      },
+      "Winamax (DE)": {
+        "Birmingham City": 6.0,
+        "Sheffield United": 5.7,
+        "Draw": 1.31
+      },
+      "Betclic (FR)": {
+        "Birmingham City": 5.75,
+        "Sheffield United": 5.4,
+        "Draw": 1.31
+      },
+      "Pinnacle": {
+        "Birmingham City": 4.81,
+        "Sheffield United": 4.47,
+        "Draw": 1.59
+      },
+      "Betfair": {
+        "Birmingham City": 7.8,
+        "Sheffield United": 5.9,
+        "Draw": 1.4
+      },
+      "Tipico": {
+        "Birmingham City": 6.0,
+        "Sheffield United": 6.5,
+        "Draw": 1.3
+      },
+      "888sport": {
+        "Birmingham City": 6.0,
+        "Sheffield United": 5.5,
+        "Draw": 1.33
       },
       "LeoVegas (SE)": {
-        "Kasimpasa SK": 5.6,
-        "Trabzonspor": 3.2,
-        "Draw": 1.47
-      },
-      "Unibet (SE)": {
-        "Kasimpasa SK": 5.8,
-        "Trabzonspor": 3.4,
-        "Draw": 1.56
+        "Birmingham City": 5.75,
+        "Sheffield United": 5.25,
+        "Draw": 1.29
       },
       "Unibet (NL)": {
-        "Kasimpasa SK": 6.25,
-        "Trabzonspor": 3.6,
-        "Draw": 1.5
+        "Birmingham City": 6.1,
+        "Sheffield United": 5.6,
+        "Draw": 1.36
+      },
+      "Unibet (SE)": {
+        "Birmingham City": 6.1,
+        "Sheffield United": 5.6,
+        "Draw": 1.36
+      },
+      "Nordic Bet": {
+        "Birmingham City": 5.8,
+        "Sheffield United": 5.35,
+        "Draw": 1.34
+      },
+      "Betsson": {
+        "Birmingham City": 6.3,
+        "Sheffield United": 5.8,
+        "Draw": 1.31
+      },
+      "Coolbet": {
+        "Birmingham City": 6.0,
+        "Sheffield United": 6.0,
+        "Draw": 1.36
+      },
+      "PMU (FR)": {
+        "Birmingham City": 5.6,
+        "Sheffield United": 5.1,
+        "Draw": 1.26
       },
       "Matchbook": {
-        "Kasimpasa SK": 8.0,
-        "Trabzonspor": 3.7,
-        "Draw": 1.62
+        "Birmingham City": 7.8,
+        "Sheffield United": 6.2,
+        "Draw": 1.39
       }
     }
   },
@@ -5120,35 +5173,961 @@
       "confidence": 16,
       "alert_type": "value",
       "alerted_at": "2026-08-15T17:33:59.381593+00:00"
+    },
+    {
+      "state_key": "61338bf4e8430811fdff1efdc9a9a6e2:h2h",
+      "event_id": "61338bf4e8430811fdff1efdc9a9a6e2",
+      "sport_key": "soccer",
+      "competition": "Coppa Italia",
+      "home_team": "US Catanzaro 1929",
+      "away_team": "Südtirol",
+      "commence_time": "2026-08-15T16:02:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Südtirol",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 20,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T18:09:00.336284+00:00"
+    },
+    {
+      "state_key": "61338bf4e8430811fdff1efdc9a9a6e2:h2h",
+      "event_id": "61338bf4e8430811fdff1efdc9a9a6e2",
+      "sport_key": "soccer",
+      "competition": "Coppa Italia",
+      "home_team": "US Catanzaro 1929",
+      "away_team": "Südtirol",
+      "commence_time": "2026-08-15T16:02:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "US Catanzaro 1929",
+      "odds_at_alert": 12.5,
+      "stake_pct": 5.0,
+      "confidence": 66,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T18:09:00.712951+00:00"
+    },
+    {
+      "state_key": "61338bf4e8430811fdff1efdc9a9a6e2:h2h",
+      "event_id": "61338bf4e8430811fdff1efdc9a9a6e2",
+      "sport_key": "soccer",
+      "competition": "Coppa Italia",
+      "home_team": "US Catanzaro 1929",
+      "away_team": "Südtirol",
+      "commence_time": "2026-08-15T16:02:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Südtirol",
+      "odds_at_alert": 18.0,
+      "stake_pct": 5.0,
+      "confidence": 79,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T18:09:01.097872+00:00"
+    },
+    {
+      "state_key": "61338bf4e8430811fdff1efdc9a9a6e2:h2h",
+      "event_id": "61338bf4e8430811fdff1efdc9a9a6e2",
+      "sport_key": "soccer",
+      "competition": "Coppa Italia",
+      "home_team": "US Catanzaro 1929",
+      "away_team": "Südtirol",
+      "commence_time": "2026-08-15T16:02:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "US Catanzaro 1929",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 126,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T18:09:01.469895+00:00"
+    },
+    {
+      "state_key": "61338bf4e8430811fdff1efdc9a9a6e2:h2h",
+      "event_id": "61338bf4e8430811fdff1efdc9a9a6e2",
+      "sport_key": "soccer",
+      "competition": "Coppa Italia",
+      "home_team": "US Catanzaro 1929",
+      "away_team": "Südtirol",
+      "commence_time": "2026-08-15T16:02:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Südtirol",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 69,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T18:09:01.858320+00:00"
+    },
+    {
+      "state_key": "61338bf4e8430811fdff1efdc9a9a6e2:h2h",
+      "event_id": "61338bf4e8430811fdff1efdc9a9a6e2",
+      "sport_key": "soccer",
+      "competition": "Coppa Italia",
+      "home_team": "US Catanzaro 1929",
+      "away_team": "Südtirol",
+      "commence_time": "2026-08-15T16:02:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "US Catanzaro 1929",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 73,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T18:09:02.278576+00:00"
+    },
+    {
+      "state_key": "61338bf4e8430811fdff1efdc9a9a6e2:h2h",
+      "event_id": "61338bf4e8430811fdff1efdc9a9a6e2",
+      "sport_key": "soccer",
+      "competition": "Coppa Italia",
+      "home_team": "US Catanzaro 1929",
+      "away_team": "Südtirol",
+      "commence_time": "2026-08-15T16:02:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Südtirol",
+      "odds_at_alert": 41.0,
+      "stake_pct": 5.0,
+      "confidence": 309,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T18:09:02.692225+00:00"
+    },
+    {
+      "state_key": "61338bf4e8430811fdff1efdc9a9a6e2:h2h",
+      "event_id": "61338bf4e8430811fdff1efdc9a9a6e2",
+      "sport_key": "soccer",
+      "competition": "Coppa Italia",
+      "home_team": "US Catanzaro 1929",
+      "away_team": "Südtirol",
+      "commence_time": "2026-08-15T16:02:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "US Catanzaro 1929",
+      "odds_at_alert": 35.0,
+      "stake_pct": 5.0,
+      "confidence": 366,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T18:09:03.044672+00:00"
+    },
+    {
+      "state_key": "61338bf4e8430811fdff1efdc9a9a6e2:h2h",
+      "event_id": "61338bf4e8430811fdff1efdc9a9a6e2",
+      "sport_key": "soccer",
+      "competition": "Coppa Italia",
+      "home_team": "US Catanzaro 1929",
+      "away_team": "Südtirol",
+      "commence_time": "2026-08-15T16:02:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Südtirol",
+      "odds_at_alert": 21.0,
+      "stake_pct": 5.0,
+      "confidence": 109,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T18:09:03.422749+00:00"
+    },
+    {
+      "state_key": "61338bf4e8430811fdff1efdc9a9a6e2:h2h",
+      "event_id": "61338bf4e8430811fdff1efdc9a9a6e2",
+      "sport_key": "soccer",
+      "competition": "Coppa Italia",
+      "home_team": "US Catanzaro 1929",
+      "away_team": "Südtirol",
+      "commence_time": "2026-08-15T16:02:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "US Catanzaro 1929",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 126,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T18:09:03.749813+00:00"
+    },
+    {
+      "state_key": "18c7c88f94d82ff92f48fec4cb460548:h2h",
+      "event_id": "18c7c88f94d82ff92f48fec4cb460548",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Taawoun",
+      "away_team": "Al-Khaleej",
+      "commence_time": "2026-08-15T16:16:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Khaleej",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 125,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T18:09:04.095751+00:00"
+    },
+    {
+      "state_key": "18c7c88f94d82ff92f48fec4cb460548:h2h",
+      "event_id": "18c7c88f94d82ff92f48fec4cb460548",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Taawoun",
+      "away_team": "Al-Khaleej",
+      "commence_time": "2026-08-15T16:16:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Taawoun",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 142,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T18:09:04.445108+00:00"
+    },
+    {
+      "state_key": "18c7c88f94d82ff92f48fec4cb460548:h2h",
+      "event_id": "18c7c88f94d82ff92f48fec4cb460548",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Taawoun",
+      "away_team": "Al-Khaleej",
+      "commence_time": "2026-08-15T16:16:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Khaleej",
+      "odds_at_alert": 18.0,
+      "stake_pct": 5.0,
+      "confidence": 237,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T18:09:04.784288+00:00"
+    },
+    {
+      "state_key": "18c7c88f94d82ff92f48fec4cb460548:h2h",
+      "event_id": "18c7c88f94d82ff92f48fec4cb460548",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Taawoun",
+      "away_team": "Al-Khaleej",
+      "commence_time": "2026-08-15T16:16:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Taawoun",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 230,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T18:09:05.117711+00:00"
+    },
+    {
+      "state_key": "18c7c88f94d82ff92f48fec4cb460548:h2h",
+      "event_id": "18c7c88f94d82ff92f48fec4cb460548",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Taawoun",
+      "away_team": "Al-Khaleej",
+      "commence_time": "2026-08-15T16:16:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Khaleej",
+      "odds_at_alert": 34.0,
+      "stake_pct": 5.0,
+      "confidence": 537,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T18:09:05.461275+00:00"
+    },
+    {
+      "state_key": "18c7c88f94d82ff92f48fec4cb460548:h2h",
+      "event_id": "18c7c88f94d82ff92f48fec4cb460548",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Taawoun",
+      "away_team": "Al-Khaleej",
+      "commence_time": "2026-08-15T16:16:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Taawoun",
+      "odds_at_alert": 34.0,
+      "stake_pct": 5.0,
+      "confidence": 649,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T18:09:05.807047+00:00"
+    },
+    {
+      "state_key": "18c7c88f94d82ff92f48fec4cb460548:h2h",
+      "event_id": "18c7c88f94d82ff92f48fec4cb460548",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Taawoun",
+      "away_team": "Al-Khaleej",
+      "commence_time": "2026-08-15T16:16:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Khaleej",
+      "odds_at_alert": 67.0,
+      "stake_pct": 5.0,
+      "confidence": 1156,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T18:09:06.146710+00:00"
+    },
+    {
+      "state_key": "18c7c88f94d82ff92f48fec4cb460548:h2h",
+      "event_id": "18c7c88f94d82ff92f48fec4cb460548",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Taawoun",
+      "away_team": "Al-Khaleej",
+      "commence_time": "2026-08-15T16:16:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Taawoun",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 473,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T18:09:06.472116+00:00"
+    },
+    {
+      "state_key": "18c7c88f94d82ff92f48fec4cb460548:h2h",
+      "event_id": "18c7c88f94d82ff92f48fec4cb460548",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Taawoun",
+      "away_team": "Al-Khaleej",
+      "commence_time": "2026-08-15T16:16:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Khaleej",
+      "odds_at_alert": 30.0,
+      "stake_pct": 5.0,
+      "confidence": 462,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T18:09:06.800849+00:00"
+    },
+    {
+      "state_key": "18c7c88f94d82ff92f48fec4cb460548:h2h",
+      "event_id": "18c7c88f94d82ff92f48fec4cb460548",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Taawoun",
+      "away_team": "Al-Khaleej",
+      "commence_time": "2026-08-15T16:16:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Taawoun",
+      "odds_at_alert": 30.0,
+      "stake_pct": 5.0,
+      "confidence": 561,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T18:09:07.125863+00:00"
+    },
+    {
+      "state_key": "18c7c88f94d82ff92f48fec4cb460548:h2h",
+      "event_id": "18c7c88f94d82ff92f48fec4cb460548",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Taawoun",
+      "away_team": "Al-Khaleej",
+      "commence_time": "2026-08-15T16:16:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Khaleej",
+      "odds_at_alert": 36.0,
+      "stake_pct": 5.0,
+      "confidence": 575,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T18:09:07.499282+00:00"
+    },
+    {
+      "state_key": "18c7c88f94d82ff92f48fec4cb460548:h2h",
+      "event_id": "18c7c88f94d82ff92f48fec4cb460548",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Taawoun",
+      "away_team": "Al-Khaleej",
+      "commence_time": "2026-08-15T16:16:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Taawoun",
+      "odds_at_alert": 34.0,
+      "stake_pct": 5.0,
+      "confidence": 649,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T18:09:07.856578+00:00"
+    },
+    {
+      "state_key": "18c7c88f94d82ff92f48fec4cb460548:h2h",
+      "event_id": "18c7c88f94d82ff92f48fec4cb460548",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Taawoun",
+      "away_team": "Al-Khaleej",
+      "commence_time": "2026-08-15T16:16:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Khaleej",
+      "odds_at_alert": 14.0,
+      "stake_pct": 5.0,
+      "confidence": 162,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T18:09:08.206121+00:00"
+    },
+    {
+      "state_key": "18c7c88f94d82ff92f48fec4cb460548:h2h",
+      "event_id": "18c7c88f94d82ff92f48fec4cb460548",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Taawoun",
+      "away_team": "Al-Khaleej",
+      "commence_time": "2026-08-15T16:16:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Taawoun",
+      "odds_at_alert": 12.5,
+      "stake_pct": 5.0,
+      "confidence": 175,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T18:09:08.541604+00:00"
+    },
+    {
+      "state_key": "18c7c88f94d82ff92f48fec4cb460548:h2h",
+      "event_id": "18c7c88f94d82ff92f48fec4cb460548",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Taawoun",
+      "away_team": "Al-Khaleej",
+      "commence_time": "2026-08-15T16:16:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Khaleej",
+      "odds_at_alert": 9.0,
+      "stake_pct": 5.0,
+      "confidence": 69,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T18:09:08.893421+00:00"
+    },
+    {
+      "state_key": "18c7c88f94d82ff92f48fec4cb460548:h2h",
+      "event_id": "18c7c88f94d82ff92f48fec4cb460548",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Taawoun",
+      "away_team": "Al-Khaleej",
+      "commence_time": "2026-08-15T16:16:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Taawoun",
+      "odds_at_alert": 6.5,
+      "stake_pct": 5.0,
+      "confidence": 43,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T18:09:09.228688+00:00"
+    },
+    {
+      "state_key": "18c7c88f94d82ff92f48fec4cb460548:h2h",
+      "event_id": "18c7c88f94d82ff92f48fec4cb460548",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Taawoun",
+      "away_team": "Al-Khaleej",
+      "commence_time": "2026-08-15T16:16:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Khaleej",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 181,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T18:09:09.599004+00:00"
+    },
+    {
+      "state_key": "18c7c88f94d82ff92f48fec4cb460548:h2h",
+      "event_id": "18c7c88f94d82ff92f48fec4cb460548",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Taawoun",
+      "away_team": "Al-Khaleej",
+      "commence_time": "2026-08-15T16:16:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Taawoun",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 186,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T18:09:09.942462+00:00"
+    },
+    {
+      "state_key": "0cb1b113469e83f07b4593116cfa9339:h2h",
+      "event_id": "0cb1b113469e83f07b4593116cfa9339",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Sheffield United",
+      "away_team": "Birmingham City",
+      "commence_time": "2026-08-15T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Birmingham City",
+      "odds_at_alert": 5.7,
+      "stake_pct": 3.0,
+      "confidence": 12,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T18:09:10.303779+00:00"
+    },
+    {
+      "state_key": "0cb1b113469e83f07b4593116cfa9339:h2h",
+      "event_id": "0cb1b113469e83f07b4593116cfa9339",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Sheffield United",
+      "away_team": "Birmingham City",
+      "commence_time": "2026-08-15T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sheffield United",
+      "odds_at_alert": 5.4,
+      "stake_pct": 3.0,
+      "confidence": 14,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T18:09:10.675276+00:00"
+    },
+    {
+      "state_key": "0cb1b113469e83f07b4593116cfa9339:h2h",
+      "event_id": "0cb1b113469e83f07b4593116cfa9339",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Sheffield United",
+      "away_team": "Birmingham City",
+      "commence_time": "2026-08-15T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Birmingham City",
+      "odds_at_alert": 6.0,
+      "stake_pct": 5.0,
+      "confidence": 18,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T18:09:11.040436+00:00"
+    },
+    {
+      "state_key": "0cb1b113469e83f07b4593116cfa9339:h2h",
+      "event_id": "0cb1b113469e83f07b4593116cfa9339",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Sheffield United",
+      "away_team": "Birmingham City",
+      "commence_time": "2026-08-15T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sheffield United",
+      "odds_at_alert": 5.7,
+      "stake_pct": 5.0,
+      "confidence": 20,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T18:09:11.419137+00:00"
+    },
+    {
+      "state_key": "0cb1b113469e83f07b4593116cfa9339:h2h",
+      "event_id": "0cb1b113469e83f07b4593116cfa9339",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Sheffield United",
+      "away_team": "Birmingham City",
+      "commence_time": "2026-08-15T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Birmingham City",
+      "odds_at_alert": 5.75,
+      "stake_pct": 3.0,
+      "confidence": 13,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T18:09:11.803423+00:00"
+    },
+    {
+      "state_key": "0cb1b113469e83f07b4593116cfa9339:h2h",
+      "event_id": "0cb1b113469e83f07b4593116cfa9339",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Sheffield United",
+      "away_team": "Birmingham City",
+      "commence_time": "2026-08-15T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sheffield United",
+      "odds_at_alert": 5.4,
+      "stake_pct": 3.0,
+      "confidence": 14,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T18:09:12.213062+00:00"
+    },
+    {
+      "state_key": "0cb1b113469e83f07b4593116cfa9339:h2h",
+      "event_id": "0cb1b113469e83f07b4593116cfa9339",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Sheffield United",
+      "away_team": "Birmingham City",
+      "commence_time": "2026-08-15T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Birmingham City",
+      "odds_at_alert": 7.8,
+      "stake_pct": 5.0,
+      "confidence": 53,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T18:09:12.550870+00:00"
+    },
+    {
+      "state_key": "0cb1b113469e83f07b4593116cfa9339:h2h",
+      "event_id": "0cb1b113469e83f07b4593116cfa9339",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Sheffield United",
+      "away_team": "Birmingham City",
+      "commence_time": "2026-08-15T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sheffield United",
+      "odds_at_alert": 5.9,
+      "stake_pct": 5.0,
+      "confidence": 24,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T18:09:12.943686+00:00"
+    },
+    {
+      "state_key": "0cb1b113469e83f07b4593116cfa9339:h2h",
+      "event_id": "0cb1b113469e83f07b4593116cfa9339",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Sheffield United",
+      "away_team": "Birmingham City",
+      "commence_time": "2026-08-15T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Birmingham City",
+      "odds_at_alert": 6.0,
+      "stake_pct": 5.0,
+      "confidence": 18,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T18:09:13.387589+00:00"
+    },
+    {
+      "state_key": "0cb1b113469e83f07b4593116cfa9339:h2h",
+      "event_id": "0cb1b113469e83f07b4593116cfa9339",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Sheffield United",
+      "away_team": "Birmingham City",
+      "commence_time": "2026-08-15T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sheffield United",
+      "odds_at_alert": 6.5,
+      "stake_pct": 5.0,
+      "confidence": 37,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T18:09:13.822032+00:00"
+    },
+    {
+      "state_key": "0cb1b113469e83f07b4593116cfa9339:h2h",
+      "event_id": "0cb1b113469e83f07b4593116cfa9339",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Sheffield United",
+      "away_team": "Birmingham City",
+      "commence_time": "2026-08-15T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Birmingham City",
+      "odds_at_alert": 6.0,
+      "stake_pct": 5.0,
+      "confidence": 18,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T18:09:14.211639+00:00"
+    },
+    {
+      "state_key": "0cb1b113469e83f07b4593116cfa9339:h2h",
+      "event_id": "0cb1b113469e83f07b4593116cfa9339",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Sheffield United",
+      "away_team": "Birmingham City",
+      "commence_time": "2026-08-15T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sheffield United",
+      "odds_at_alert": 5.5,
+      "stake_pct": 5.0,
+      "confidence": 16,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T18:09:14.546933+00:00"
+    },
+    {
+      "state_key": "0cb1b113469e83f07b4593116cfa9339:h2h",
+      "event_id": "0cb1b113469e83f07b4593116cfa9339",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Sheffield United",
+      "away_team": "Birmingham City",
+      "commence_time": "2026-08-15T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Birmingham City",
+      "odds_at_alert": 5.75,
+      "stake_pct": 3.0,
+      "confidence": 13,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T18:09:14.865382+00:00"
+    },
+    {
+      "state_key": "0cb1b113469e83f07b4593116cfa9339:h2h",
+      "event_id": "0cb1b113469e83f07b4593116cfa9339",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Sheffield United",
+      "away_team": "Birmingham City",
+      "commence_time": "2026-08-15T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sheffield United",
+      "odds_at_alert": 5.25,
+      "stake_pct": 3.0,
+      "confidence": 11,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T18:09:15.192366+00:00"
+    },
+    {
+      "state_key": "0cb1b113469e83f07b4593116cfa9339:h2h",
+      "event_id": "0cb1b113469e83f07b4593116cfa9339",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Sheffield United",
+      "away_team": "Birmingham City",
+      "commence_time": "2026-08-15T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Birmingham City",
+      "odds_at_alert": 6.1,
+      "stake_pct": 5.0,
+      "confidence": 20,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T18:09:15.563892+00:00"
+    },
+    {
+      "state_key": "0cb1b113469e83f07b4593116cfa9339:h2h",
+      "event_id": "0cb1b113469e83f07b4593116cfa9339",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Sheffield United",
+      "away_team": "Birmingham City",
+      "commence_time": "2026-08-15T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sheffield United",
+      "odds_at_alert": 5.6,
+      "stake_pct": 5.0,
+      "confidence": 18,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T18:09:15.890603+00:00"
+    },
+    {
+      "state_key": "0cb1b113469e83f07b4593116cfa9339:h2h",
+      "event_id": "0cb1b113469e83f07b4593116cfa9339",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Sheffield United",
+      "away_team": "Birmingham City",
+      "commence_time": "2026-08-15T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Birmingham City",
+      "odds_at_alert": 6.1,
+      "stake_pct": 5.0,
+      "confidence": 20,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T18:09:16.246186+00:00"
+    },
+    {
+      "state_key": "0cb1b113469e83f07b4593116cfa9339:h2h",
+      "event_id": "0cb1b113469e83f07b4593116cfa9339",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Sheffield United",
+      "away_team": "Birmingham City",
+      "commence_time": "2026-08-15T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sheffield United",
+      "odds_at_alert": 5.6,
+      "stake_pct": 5.0,
+      "confidence": 18,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T18:09:16.577296+00:00"
+    },
+    {
+      "state_key": "0cb1b113469e83f07b4593116cfa9339:h2h",
+      "event_id": "0cb1b113469e83f07b4593116cfa9339",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Sheffield United",
+      "away_team": "Birmingham City",
+      "commence_time": "2026-08-15T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Birmingham City",
+      "odds_at_alert": 5.8,
+      "stake_pct": 3.0,
+      "confidence": 14,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T18:09:16.912633+00:00"
+    },
+    {
+      "state_key": "0cb1b113469e83f07b4593116cfa9339:h2h",
+      "event_id": "0cb1b113469e83f07b4593116cfa9339",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Sheffield United",
+      "away_team": "Birmingham City",
+      "commence_time": "2026-08-15T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sheffield United",
+      "odds_at_alert": 5.35,
+      "stake_pct": 3.0,
+      "confidence": 13,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T18:09:17.250404+00:00"
+    },
+    {
+      "state_key": "0cb1b113469e83f07b4593116cfa9339:h2h",
+      "event_id": "0cb1b113469e83f07b4593116cfa9339",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Sheffield United",
+      "away_team": "Birmingham City",
+      "commence_time": "2026-08-15T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Birmingham City",
+      "odds_at_alert": 6.3,
+      "stake_pct": 5.0,
+      "confidence": 23,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T18:09:17.687164+00:00"
+    },
+    {
+      "state_key": "0cb1b113469e83f07b4593116cfa9339:h2h",
+      "event_id": "0cb1b113469e83f07b4593116cfa9339",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Sheffield United",
+      "away_team": "Birmingham City",
+      "commence_time": "2026-08-15T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sheffield United",
+      "odds_at_alert": 5.8,
+      "stake_pct": 5.0,
+      "confidence": 22,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T18:09:18.067528+00:00"
+    },
+    {
+      "state_key": "0cb1b113469e83f07b4593116cfa9339:h2h",
+      "event_id": "0cb1b113469e83f07b4593116cfa9339",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Sheffield United",
+      "away_team": "Birmingham City",
+      "commence_time": "2026-08-15T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Birmingham City",
+      "odds_at_alert": 6.0,
+      "stake_pct": 5.0,
+      "confidence": 18,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T18:09:18.447394+00:00"
+    },
+    {
+      "state_key": "0cb1b113469e83f07b4593116cfa9339:h2h",
+      "event_id": "0cb1b113469e83f07b4593116cfa9339",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Sheffield United",
+      "away_team": "Birmingham City",
+      "commence_time": "2026-08-15T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sheffield United",
+      "odds_at_alert": 6.0,
+      "stake_pct": 5.0,
+      "confidence": 27,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T18:09:18.774233+00:00"
+    },
+    {
+      "state_key": "0cb1b113469e83f07b4593116cfa9339:h2h",
+      "event_id": "0cb1b113469e83f07b4593116cfa9339",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Sheffield United",
+      "away_team": "Birmingham City",
+      "commence_time": "2026-08-15T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Birmingham City",
+      "odds_at_alert": 5.6,
+      "stake_pct": 2.0,
+      "confidence": 10,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T18:09:19.117761+00:00"
+    },
+    {
+      "state_key": "0cb1b113469e83f07b4593116cfa9339:h2h",
+      "event_id": "0cb1b113469e83f07b4593116cfa9339",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Sheffield United",
+      "away_team": "Birmingham City",
+      "commence_time": "2026-08-15T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sheffield United",
+      "odds_at_alert": 5.1,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T18:09:19.484167+00:00"
+    },
+    {
+      "state_key": "0cb1b113469e83f07b4593116cfa9339:h2h",
+      "event_id": "0cb1b113469e83f07b4593116cfa9339",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Sheffield United",
+      "away_team": "Birmingham City",
+      "commence_time": "2026-08-15T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Birmingham City",
+      "odds_at_alert": 7.8,
+      "stake_pct": 5.0,
+      "confidence": 53,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T18:09:19.901185+00:00"
+    },
+    {
+      "state_key": "0cb1b113469e83f07b4593116cfa9339:h2h",
+      "event_id": "0cb1b113469e83f07b4593116cfa9339",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Sheffield United",
+      "away_team": "Birmingham City",
+      "commence_time": "2026-08-15T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sheffield United",
+      "odds_at_alert": 6.2,
+      "stake_pct": 5.0,
+      "confidence": 31,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T18:09:20.247079+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "9dddd92d5b2905530810a7fbcbc3315e:h2h|888sport|Draw",
-    "9dddd92d5b2905530810a7fbcbc3315e:h2h|888sport|Piast Gliwice",
-    "9dddd92d5b2905530810a7fbcbc3315e:h2h|Betclic (FR)|Draw",
-    "9dddd92d5b2905530810a7fbcbc3315e:h2h|Betclic (FR)|Piast Gliwice",
-    "9dddd92d5b2905530810a7fbcbc3315e:h2h|Betfair|Draw",
-    "9dddd92d5b2905530810a7fbcbc3315e:h2h|Betfair|Piast Gliwice",
-    "9dddd92d5b2905530810a7fbcbc3315e:h2h|Betsson|Draw",
-    "9dddd92d5b2905530810a7fbcbc3315e:h2h|Betsson|Piast Gliwice",
-    "9dddd92d5b2905530810a7fbcbc3315e:h2h|Nordic Bet|Draw",
-    "9dddd92d5b2905530810a7fbcbc3315e:h2h|Nordic Bet|Piast Gliwice",
-    "9dddd92d5b2905530810a7fbcbc3315e:h2h|Winamax (DE)|Draw",
-    "9dddd92d5b2905530810a7fbcbc3315e:h2h|Winamax (DE)|Piast Gliwice",
-    "ee24e0a4e57e00f6243aa50b0fe379f7:h2h|888sport|Trabzonspor",
-    "ee24e0a4e57e00f6243aa50b0fe379f7:h2h|Betclic (FR)|Kasimpasa SK",
-    "ee24e0a4e57e00f6243aa50b0fe379f7:h2h|Betfair|Kasimpasa SK",
-    "ee24e0a4e57e00f6243aa50b0fe379f7:h2h|Betfair|Trabzonspor",
-    "ee24e0a4e57e00f6243aa50b0fe379f7:h2h|Betsson|Trabzonspor",
-    "ee24e0a4e57e00f6243aa50b0fe379f7:h2h|Coolbet|Kasimpasa SK",
-    "ee24e0a4e57e00f6243aa50b0fe379f7:h2h|Coolbet|Trabzonspor",
-    "ee24e0a4e57e00f6243aa50b0fe379f7:h2h|Matchbook|Kasimpasa SK",
-    "ee24e0a4e57e00f6243aa50b0fe379f7:h2h|Matchbook|Trabzonspor",
-    "ee24e0a4e57e00f6243aa50b0fe379f7:h2h|Nordic Bet|Trabzonspor",
-    "ee24e0a4e57e00f6243aa50b0fe379f7:h2h|PMU (FR)|Trabzonspor",
-    "ee24e0a4e57e00f6243aa50b0fe379f7:h2h|Tipico|Kasimpasa SK",
-    "ee24e0a4e57e00f6243aa50b0fe379f7:h2h|Unibet (NL)|Trabzonspor",
-    "ee24e0a4e57e00f6243aa50b0fe379f7:h2h|Unibet (SE)|Trabzonspor"
+    "0cb1b113469e83f07b4593116cfa9339:h2h|888sport|Birmingham City",
+    "0cb1b113469e83f07b4593116cfa9339:h2h|888sport|Sheffield United",
+    "0cb1b113469e83f07b4593116cfa9339:h2h|Betclic (FR)|Birmingham City",
+    "0cb1b113469e83f07b4593116cfa9339:h2h|Betclic (FR)|Sheffield United",
+    "0cb1b113469e83f07b4593116cfa9339:h2h|Betfair|Birmingham City",
+    "0cb1b113469e83f07b4593116cfa9339:h2h|Betfair|Sheffield United",
+    "0cb1b113469e83f07b4593116cfa9339:h2h|Betsson|Birmingham City",
+    "0cb1b113469e83f07b4593116cfa9339:h2h|Betsson|Sheffield United",
+    "0cb1b113469e83f07b4593116cfa9339:h2h|Coolbet|Birmingham City",
+    "0cb1b113469e83f07b4593116cfa9339:h2h|Coolbet|Sheffield United",
+    "0cb1b113469e83f07b4593116cfa9339:h2h|LeoVegas (SE)|Birmingham City",
+    "0cb1b113469e83f07b4593116cfa9339:h2h|LeoVegas (SE)|Sheffield United",
+    "0cb1b113469e83f07b4593116cfa9339:h2h|Matchbook|Birmingham City",
+    "0cb1b113469e83f07b4593116cfa9339:h2h|Matchbook|Sheffield United",
+    "0cb1b113469e83f07b4593116cfa9339:h2h|Nordic Bet|Birmingham City",
+    "0cb1b113469e83f07b4593116cfa9339:h2h|Nordic Bet|Sheffield United",
+    "0cb1b113469e83f07b4593116cfa9339:h2h|PMU (FR)|Birmingham City",
+    "0cb1b113469e83f07b4593116cfa9339:h2h|PMU (FR)|Sheffield United",
+    "0cb1b113469e83f07b4593116cfa9339:h2h|Tipico|Birmingham City",
+    "0cb1b113469e83f07b4593116cfa9339:h2h|Tipico|Sheffield United",
+    "0cb1b113469e83f07b4593116cfa9339:h2h|Unibet (NL)|Birmingham City",
+    "0cb1b113469e83f07b4593116cfa9339:h2h|Unibet (NL)|Sheffield United",
+    "0cb1b113469e83f07b4593116cfa9339:h2h|Unibet (SE)|Birmingham City",
+    "0cb1b113469e83f07b4593116cfa9339:h2h|Unibet (SE)|Sheffield United",
+    "0cb1b113469e83f07b4593116cfa9339:h2h|Winamax (DE)|Birmingham City",
+    "0cb1b113469e83f07b4593116cfa9339:h2h|Winamax (DE)|Sheffield United",
+    "0cb1b113469e83f07b4593116cfa9339:h2h|Winamax (FR)|Birmingham City",
+    "0cb1b113469e83f07b4593116cfa9339:h2h|Winamax (FR)|Sheffield United",
+    "18c7c88f94d82ff92f48fec4cb460548:h2h|888sport|Al-Khaleej",
+    "18c7c88f94d82ff92f48fec4cb460548:h2h|888sport|Al-Taawoun",
+    "18c7c88f94d82ff92f48fec4cb460548:h2h|Betclic (FR)|Al-Khaleej",
+    "18c7c88f94d82ff92f48fec4cb460548:h2h|Betclic (FR)|Al-Taawoun",
+    "18c7c88f94d82ff92f48fec4cb460548:h2h|LeoVegas (SE)|Al-Khaleej",
+    "18c7c88f94d82ff92f48fec4cb460548:h2h|LeoVegas (SE)|Al-Taawoun",
+    "18c7c88f94d82ff92f48fec4cb460548:h2h|PMU (FR)|Al-Khaleej",
+    "18c7c88f94d82ff92f48fec4cb460548:h2h|PMU (FR)|Al-Taawoun",
+    "18c7c88f94d82ff92f48fec4cb460548:h2h|Tipico|Al-Khaleej",
+    "18c7c88f94d82ff92f48fec4cb460548:h2h|Tipico|Al-Taawoun",
+    "18c7c88f94d82ff92f48fec4cb460548:h2h|Unibet (NL)|Al-Khaleej",
+    "18c7c88f94d82ff92f48fec4cb460548:h2h|Unibet (NL)|Al-Taawoun",
+    "18c7c88f94d82ff92f48fec4cb460548:h2h|Unibet (SE)|Al-Khaleej",
+    "18c7c88f94d82ff92f48fec4cb460548:h2h|Unibet (SE)|Al-Taawoun",
+    "18c7c88f94d82ff92f48fec4cb460548:h2h|Winamax (DE)|Al-Khaleej",
+    "18c7c88f94d82ff92f48fec4cb460548:h2h|Winamax (DE)|Al-Taawoun",
+    "18c7c88f94d82ff92f48fec4cb460548:h2h|Winamax (FR)|Al-Khaleej",
+    "18c7c88f94d82ff92f48fec4cb460548:h2h|Winamax (FR)|Al-Taawoun",
+    "61338bf4e8430811fdff1efdc9a9a6e2:h2h|888sport|Südtirol",
+    "61338bf4e8430811fdff1efdc9a9a6e2:h2h|888sport|US Catanzaro 1929",
+    "61338bf4e8430811fdff1efdc9a9a6e2:h2h|LeoVegas (SE)|Südtirol",
+    "61338bf4e8430811fdff1efdc9a9a6e2:h2h|LeoVegas (SE)|US Catanzaro 1929",
+    "61338bf4e8430811fdff1efdc9a9a6e2:h2h|Unibet (NL)|Südtirol",
+    "61338bf4e8430811fdff1efdc9a9a6e2:h2h|Unibet (NL)|US Catanzaro 1929",
+    "61338bf4e8430811fdff1efdc9a9a6e2:h2h|Unibet (SE)|Südtirol",
+    "61338bf4e8430811fdff1efdc9a9a6e2:h2h|Unibet (SE)|US Catanzaro 1929",
+    "61338bf4e8430811fdff1efdc9a9a6e2:h2h|Winamax (DE)|Südtirol",
+    "61338bf4e8430811fdff1efdc9a9a6e2:h2h|Winamax (DE)|US Catanzaro 1929"
   ]
 }
