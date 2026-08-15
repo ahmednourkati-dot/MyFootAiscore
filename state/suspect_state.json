@@ -1,241 +1,431 @@
 {
   "snapshots": {
-    "bf40262b0a1e1769338290cdc441b2ab:h2h": {
-      "Unibet (SE)": {
-        "Botafogo-SP": 3.2,
-        "São Bernardo": 3.0,
-        "Draw": 2.3
-      },
-      "Unibet (NL)": {
-        "Botafogo-SP": 3.05,
-        "São Bernardo": 2.85,
-        "Draw": 2.2
-      },
-      "LeoVegas (SE)": {
-        "Botafogo-SP": 3.0,
-        "São Bernardo": 2.8,
-        "Draw": 2.17
+    "b7546a95478a68d111adacd5b0af3f12:h2h": {
+      "Unibet (FR)": {
+        "Gamba Osaka": 2.45,
+        "Mito HollyHock": 2.65,
+        "Draw": 3.15
       },
       "Coolbet": {
-        "Botafogo-SP": 3.0,
-        "São Bernardo": 3.25,
-        "Draw": 2.25
-      },
-      "Betsson": {
-        "Botafogo-SP": 2.92,
-        "São Bernardo": 3.2,
-        "Draw": 2.25
-      },
-      "Pinnacle": {
-        "Botafogo-SP": 3.13,
-        "São Bernardo": 3.52,
-        "Draw": 2.16
-      },
-      "Nordic Bet": {
-        "Botafogo-SP": 2.92,
-        "São Bernardo": 3.2,
-        "Draw": 2.25
-      },
-      "888sport": {
-        "Botafogo-SP": 2.9,
-        "São Bernardo": 3.2,
-        "Draw": 2.2
-      },
-      "Tipico": {
-        "Botafogo-SP": 2.7,
-        "São Bernardo": 3.4,
-        "Draw": 2.3
-      },
-      "Matchbook": {
-        "Botafogo-SP": 3.15,
-        "São Bernardo": 3.75,
-        "Draw": 2.32
-      },
-      "Betfair": {
-        "Botafogo-SP": 3.1,
-        "São Bernardo": 3.7,
-        "Draw": 2.36
-      }
-    },
-    "cceddac8c4da40861d7a224e38548ac5:h2h": {
-      "Unibet (SE)": {
-        "Nautico PE": 6.4,
-        "Ponte Preta": 1.62,
-        "Draw": 3.3
-      },
-      "LeoVegas (SE)": {
-        "Nautico PE": 6.0,
-        "Ponte Preta": 1.54,
-        "Draw": 3.0
-      },
-      "Unibet (NL)": {
-        "Nautico PE": 6.0,
-        "Ponte Preta": 1.56,
-        "Draw": 3.05
-      },
-      "Betsson": {
-        "Nautico PE": 5.8,
-        "Ponte Preta": 1.62,
-        "Draw": 3.2
-      },
-      "Nordic Bet": {
-        "Nautico PE": 5.8,
-        "Ponte Preta": 1.62,
-        "Draw": 3.2
-      },
-      "Coolbet": {
-        "Nautico PE": 5.5,
-        "Ponte Preta": 1.67,
-        "Draw": 3.25
-      },
-      "Pinnacle": {
-        "Nautico PE": 6.35,
-        "Ponte Preta": 1.66,
-        "Draw": 3.27
-      },
-      "Matchbook": {
-        "Nautico PE": 6.8,
-        "Ponte Preta": 1.72,
-        "Draw": 3.55
-      },
-      "Betfair": {
-        "Nautico PE": 6.8,
-        "Ponte Preta": 1.72,
-        "Draw": 3.6
-      }
-    },
-    "6a46a3359c4793930a49671d8ef80334:h2h": {
-      "Pinnacle": {
-        "La Serena": 3.38,
-        "Universidad de Concepción": 2.17,
-        "Draw": 3.22
-      },
-      "Winamax (DE)": {
-        "La Serena": 3.3,
-        "Universidad de Concepción": 2.15,
-        "Draw": 2.95
-      },
-      "Winamax (FR)": {
-        "La Serena": 3.2,
-        "Universidad de Concepción": 2.1,
-        "Draw": 2.85
-      },
-      "Betsson": {
-        "La Serena": 3.3,
-        "Universidad de Concepción": 2.2,
-        "Draw": 2.92
-      },
-      "Nordic Bet": {
-        "La Serena": 3.3,
-        "Universidad de Concepción": 2.2,
-        "Draw": 2.92
-      },
-      "Coolbet": {
-        "La Serena": 3.5,
-        "Universidad de Concepción": 2.3,
-        "Draw": 3.14
-      },
-      "888sport": {
-        "La Serena": 3.25,
-        "Universidad de Concepción": 2.1,
-        "Draw": 2.88
-      },
-      "Tipico": {
-        "La Serena": 3.6,
-        "Universidad de Concepción": 2.0,
-        "Draw": 3.1
-      },
-      "Betfair": {
-        "La Serena": 3.9,
-        "Universidad de Concepción": 2.26,
-        "Draw": 3.25
-      },
-      "Unibet (SE)": {
-        "La Serena": 3.2,
-        "Universidad de Concepción": 2.25,
-        "Draw": 2.85
-      },
-      "LeoVegas (SE)": {
-        "La Serena": 3.0,
-        "Universidad de Concepción": 2.12,
-        "Draw": 2.7
-      },
-      "Matchbook": {
-        "La Serena": 4.0,
-        "Universidad de Concepción": 2.26,
-        "Draw": 3.2
-      }
-    },
-    "4aab9401d098c250b1760be919791eea:h2h": {
-      "1xBet": {
-        "Banfield": 6.89,
-        "Racing Club": 1.59,
-        "Draw": 3.73
-      },
-      "Betfair": {
-        "Banfield": 6.6,
-        "Racing Club": 1.67,
-        "Draw": 3.9
-      },
-      "Nordic Bet": {
-        "Banfield": 6.3,
-        "Racing Club": 1.6,
-        "Draw": 3.6
-      },
-      "Betsson": {
-        "Banfield": 6.3,
-        "Racing Club": 1.6,
-        "Draw": 3.6
-      },
-      "Unibet (SE)": {
-        "Banfield": 5.8,
-        "Racing Club": 1.62,
-        "Draw": 3.65
-      },
-      "LeoVegas (SE)": {
-        "Banfield": 5.25,
-        "Racing Club": 1.53,
+        "Gamba Osaka": 2.6,
+        "Mito HollyHock": 2.7,
         "Draw": 3.4
       },
+      "Betsson": {
+        "Gamba Osaka": 2.58,
+        "Mito HollyHock": 2.68,
+        "Draw": 3.1
+      },
+      "Betclic (FR)": {
+        "Gamba Osaka": 2.5,
+        "Mito HollyHock": 2.65,
+        "Draw": 3.18
+      },
+      "Nordic Bet": {
+        "Gamba Osaka": 2.55,
+        "Mito HollyHock": 2.65,
+        "Draw": 3.1
+      },
+      "Pinnacle": {
+        "Gamba Osaka": 2.66,
+        "Mito HollyHock": 2.79,
+        "Draw": 3.35
+      },
+      "Winamax (DE)": {
+        "Gamba Osaka": 2.5,
+        "Mito HollyHock": 2.6,
+        "Draw": 3.2
+      },
       "Winamax (FR)": {
-        "Banfield": 5.3,
-        "Racing Club": 1.54,
-        "Draw": 3.65
+        "Gamba Osaka": 2.45,
+        "Mito HollyHock": 2.55,
+        "Draw": 3.15
+      },
+      "BetOnline.ag": {
+        "Gamba Osaka": 2.66,
+        "Mito HollyHock": 2.76,
+        "Draw": 3.25
+      },
+      "Marathon Bet": {
+        "Gamba Osaka": 2.63,
+        "Mito HollyHock": 2.67,
+        "Draw": 3.15
+      },
+      "1xBet": {
+        "Gamba Osaka": 2.69,
+        "Mito HollyHock": 2.73,
+        "Draw": 3.23
+      },
+      "888sport": {
+        "Gamba Osaka": 2.5,
+        "Mito HollyHock": 2.62,
+        "Draw": 3.0
+      },
+      "William Hill": {
+        "Gamba Osaka": 2.5,
+        "Mito HollyHock": 2.62,
+        "Draw": 3.0
+      },
+      "Tipico": {
+        "Gamba Osaka": 2.5,
+        "Mito HollyHock": 2.65,
+        "Draw": 3.2
+      },
+      "Betfair": {
+        "Gamba Osaka": 2.74,
+        "Mito HollyHock": 2.82,
+        "Draw": 3.4
+      },
+      "BetAnything": {
+        "Gamba Osaka": 2.66,
+        "Mito HollyHock": 2.76,
+        "Draw": 3.25
+      },
+      "PMU (FR)": {
+        "Gamba Osaka": 2.55,
+        "Mito HollyHock": 2.6,
+        "Draw": 3.15
+      },
+      "Unibet (SE)": {
+        "Gamba Osaka": 2.55,
+        "Mito HollyHock": 2.6,
+        "Draw": 3.15
+      },
+      "LeoVegas (SE)": {
+        "Gamba Osaka": 2.6,
+        "Mito HollyHock": 2.63,
+        "Draw": 3.2
+      },
+      "Unibet (NL)": {
+        "Gamba Osaka": 2.55,
+        "Mito HollyHock": 2.6,
+        "Draw": 3.15
+      },
+      "Matchbook": {
+        "Gamba Osaka": 2.74,
+        "Mito HollyHock": 2.82,
+        "Draw": 3.4
+      }
+    },
+    "f886399face03f1f525a60930e2e60c3:h2h": {
+      "Betsson": {
+        "Kashima Antlers": 1.8,
+        "Nagoya Grampus": 4.25,
+        "Draw": 3.4
+      },
+      "Nordic Bet": {
+        "Kashima Antlers": 1.8,
+        "Nagoya Grampus": 4.2,
+        "Draw": 3.4
       },
       "Unibet (FR)": {
-        "Banfield": 5.7,
-        "Racing Club": 1.5,
+        "Kashima Antlers": 1.75,
+        "Nagoya Grampus": 4.2,
+        "Draw": 3.45
+      },
+      "Coolbet": {
+        "Kashima Antlers": 1.83,
+        "Nagoya Grampus": 4.4,
         "Draw": 3.6
       },
       "Betclic (FR)": {
-        "Banfield": 5.1,
-        "Racing Club": 1.59,
-        "Draw": 3.38
-      },
-      "Winamax (DE)": {
-        "Banfield": 5.4,
-        "Racing Club": 1.56,
-        "Draw": 3.7
-      },
-      "Marathon Bet": {
-        "Banfield": 5.9,
-        "Racing Club": 1.6,
-        "Draw": 3.6
+        "Kashima Antlers": 1.77,
+        "Nagoya Grampus": 4.25,
+        "Draw": 3.45
       },
       "Pinnacle": {
-        "Banfield": 6.24,
-        "Racing Club": 1.64,
-        "Draw": 3.76
+        "Kashima Antlers": 1.84,
+        "Nagoya Grampus": 4.54,
+        "Draw": 3.67
       },
-      "BetAnything": {
-        "Banfield": 6.28,
-        "Racing Club": 1.63,
-        "Draw": 3.77
+      "Winamax (DE)": {
+        "Kashima Antlers": 1.78,
+        "Nagoya Grampus": 4.0,
+        "Draw": 3.5
+      },
+      "Winamax (FR)": {
+        "Kashima Antlers": 1.74,
+        "Nagoya Grampus": 3.95,
+        "Draw": 3.4
+      },
+      "Marathon Bet": {
+        "Kashima Antlers": 1.78,
+        "Nagoya Grampus": 4.45,
+        "Draw": 3.52
       },
       "BetOnline.ag": {
-        "Banfield": 6.25,
-        "Racing Club": 1.65,
-        "Draw": 3.75
+        "Kashima Antlers": 1.85,
+        "Nagoya Grampus": 4.4,
+        "Draw": 3.6
+      },
+      "1xBet": {
+        "Kashima Antlers": 1.82,
+        "Nagoya Grampus": 4.55,
+        "Draw": 3.6
+      },
+      "888sport": {
+        "Kashima Antlers": 1.75,
+        "Nagoya Grampus": 4.33,
+        "Draw": 3.4
+      },
+      "William Hill": {
+        "Kashima Antlers": 1.75,
+        "Nagoya Grampus": 4.33,
+        "Draw": 3.4
+      },
+      "Tipico": {
+        "Kashima Antlers": 1.75,
+        "Nagoya Grampus": 4.3,
+        "Draw": 3.5
+      },
+      "Betfair": {
+        "Kashima Antlers": 1.86,
+        "Nagoya Grampus": 4.8,
+        "Draw": 3.7
+      },
+      "BetAnything": {
+        "Kashima Antlers": 1.85,
+        "Nagoya Grampus": 4.4,
+        "Draw": 3.6
+      },
+      "PMU (FR)": {
+        "Kashima Antlers": 1.78,
+        "Nagoya Grampus": 4.1,
+        "Draw": 3.45
+      },
+      "Unibet (SE)": {
+        "Kashima Antlers": 1.79,
+        "Nagoya Grampus": 4.1,
+        "Draw": 3.5
+      },
+      "LeoVegas (SE)": {
+        "Kashima Antlers": 1.81,
+        "Nagoya Grampus": 4.1,
+        "Draw": 3.5
+      },
+      "Unibet (NL)": {
+        "Kashima Antlers": 1.79,
+        "Nagoya Grampus": 4.1,
+        "Draw": 3.5
+      },
+      "Matchbook": {
+        "Kashima Antlers": 1.86,
+        "Nagoya Grampus": 4.9,
+        "Draw": 3.7
+      }
+    },
+    "f3a5cc89a017147217a935fb15957188:h2h": {
+      "Coolbet": {
+        "Shimizu S Pulse": 2.35,
+        "Yokohama F Marinos": 3.0,
+        "Draw": 3.4
+      },
+      "Nordic Bet": {
+        "Shimizu S Pulse": 2.32,
+        "Yokohama F Marinos": 2.9,
+        "Draw": 3.15
+      },
+      "Betclic (FR)": {
+        "Shimizu S Pulse": 2.3,
+        "Yokohama F Marinos": 2.9,
+        "Draw": 3.22
+      },
+      "Betsson": {
+        "Shimizu S Pulse": 2.35,
+        "Yokohama F Marinos": 2.92,
+        "Draw": 3.15
+      },
+      "Unibet (FR)": {
+        "Shimizu S Pulse": 2.25,
+        "Yokohama F Marinos": 2.9,
+        "Draw": 3.2
+      },
+      "Pinnacle": {
+        "Shimizu S Pulse": 2.45,
+        "Yokohama F Marinos": 3.05,
+        "Draw": 3.37
+      },
+      "Winamax (DE)": {
+        "Shimizu S Pulse": 2.3,
+        "Yokohama F Marinos": 2.8,
+        "Draw": 3.25
+      },
+      "Winamax (FR)": {
+        "Shimizu S Pulse": 2.25,
+        "Yokohama F Marinos": 2.75,
+        "Draw": 3.2
+      },
+      "Marathon Bet": {
+        "Shimizu S Pulse": 2.38,
+        "Yokohama F Marinos": 2.93,
+        "Draw": 3.22
+      },
+      "BetOnline.ag": {
+        "Shimizu S Pulse": 2.4,
+        "Yokohama F Marinos": 3.05,
+        "Draw": 3.3
+      },
+      "1xBet": {
+        "Shimizu S Pulse": 2.43,
+        "Yokohama F Marinos": 3.0,
+        "Draw": 3.29
+      },
+      "Tipico": {
+        "Shimizu S Pulse": 2.3,
+        "Yokohama F Marinos": 2.95,
+        "Draw": 3.2
+      },
+      "Betfair": {
+        "Shimizu S Pulse": 2.44,
+        "Yokohama F Marinos": 3.15,
+        "Draw": 3.4
+      },
+      "BetAnything": {
+        "Shimizu S Pulse": 2.4,
+        "Yokohama F Marinos": 3.05,
+        "Draw": 3.3
+      },
+      "PMU (FR)": {
+        "Shimizu S Pulse": 2.38,
+        "Yokohama F Marinos": 2.75,
+        "Draw": 3.15
+      },
+      "Unibet (SE)": {
+        "Shimizu S Pulse": 2.4,
+        "Yokohama F Marinos": 2.8,
+        "Draw": 3.2
+      },
+      "LeoVegas (SE)": {
+        "Shimizu S Pulse": 2.43,
+        "Yokohama F Marinos": 2.8,
+        "Draw": 3.2
+      },
+      "Unibet (NL)": {
+        "Shimizu S Pulse": 2.4,
+        "Yokohama F Marinos": 2.8,
+        "Draw": 3.2
+      },
+      "888sport": {
+        "Shimizu S Pulse": 2.4,
+        "Yokohama F Marinos": 2.75,
+        "Draw": 3.1
+      },
+      "William Hill": {
+        "Shimizu S Pulse": 2.4,
+        "Yokohama F Marinos": 2.75,
+        "Draw": 3.1
+      },
+      "Matchbook": {
+        "Shimizu S Pulse": 2.46,
+        "Yokohama F Marinos": 3.15,
+        "Draw": 3.4
+      }
+    },
+    "64f2b1f4cf21b8c2b7bc9e1043706d14:h2h": {
+      "Betsson": {
+        "Fagiano Okayama": 2.1,
+        "V-Varen Nagasaki": 3.4,
+        "Draw": 3.15
+      },
+      "BetOnline.ag": {
+        "Fagiano Okayama": 2.14,
+        "V-Varen Nagasaki": 3.65,
+        "Draw": 3.3
+      },
+      "Unibet (FR)": {
+        "Fagiano Okayama": 2.05,
+        "V-Varen Nagasaki": 3.4,
+        "Draw": 3.2
+      },
+      "Nordic Bet": {
+        "Fagiano Okayama": 2.1,
+        "V-Varen Nagasaki": 3.4,
+        "Draw": 3.15
+      },
+      "Coolbet": {
+        "Fagiano Okayama": 2.15,
+        "V-Varen Nagasaki": 3.5,
+        "Draw": 3.3
+      },
+      "Winamax (FR)": {
+        "Fagiano Okayama": 2.0,
+        "V-Varen Nagasaki": 3.2,
+        "Draw": 3.15
+      },
+      "Betclic (FR)": {
+        "Fagiano Okayama": 2.07,
+        "V-Varen Nagasaki": 3.4,
+        "Draw": 3.2
+      },
+      "Winamax (DE)": {
+        "Fagiano Okayama": 2.05,
+        "V-Varen Nagasaki": 3.3,
+        "Draw": 3.25
+      },
+      "Pinnacle": {
+        "Fagiano Okayama": 2.19,
+        "V-Varen Nagasaki": 3.6,
+        "Draw": 3.35
+      },
+      "Marathon Bet": {
+        "Fagiano Okayama": 2.12,
+        "V-Varen Nagasaki": 3.42,
+        "Draw": 3.25
+      },
+      "1xBet": {
+        "Fagiano Okayama": 2.17,
+        "V-Varen Nagasaki": 3.5,
+        "Draw": 3.33
+      },
+      "888sport": {
+        "Fagiano Okayama": 2.1,
+        "V-Varen Nagasaki": 3.4,
+        "Draw": 3.1
+      },
+      "William Hill": {
+        "Fagiano Okayama": 2.1,
+        "V-Varen Nagasaki": 3.4,
+        "Draw": 3.1
+      },
+      "Tipico": {
+        "Fagiano Okayama": 2.05,
+        "V-Varen Nagasaki": 3.5,
+        "Draw": 3.2
+      },
+      "Betfair": {
+        "Fagiano Okayama": 2.22,
+        "V-Varen Nagasaki": 3.65,
+        "Draw": 3.45
+      },
+      "BetAnything": {
+        "Fagiano Okayama": 2.15,
+        "V-Varen Nagasaki": 3.4,
+        "Draw": 3.25
+      },
+      "PMU (FR)": {
+        "Fagiano Okayama": 2.14,
+        "V-Varen Nagasaki": 3.2,
+        "Draw": 3.15
+      },
+      "Unibet (SE)": {
+        "Fagiano Okayama": 2.16,
+        "V-Varen Nagasaki": 3.25,
+        "Draw": 3.15
+      },
+      "LeoVegas (SE)": {
+        "Fagiano Okayama": 2.18,
+        "V-Varen Nagasaki": 3.25,
+        "Draw": 3.2
+      },
+      "Unibet (NL)": {
+        "Fagiano Okayama": 2.16,
+        "V-Varen Nagasaki": 3.25,
+        "Draw": 3.15
+      },
+      "Matchbook": {
+        "Fagiano Okayama": 2.24,
+        "V-Varen Nagasaki": 3.65,
+        "Draw": 3.45
       }
     }
   },
@@ -3923,9 +4113,5 @@
     }
   ],
   "results_history": [],
-  "value_alerted": [
-    "4aab9401d098c250b1760be919791eea:h2h|1xBet|Banfield",
-    "6a46a3359c4793930a49671d8ef80334:h2h|Betfair|La Serena",
-    "6a46a3359c4793930a49671d8ef80334:h2h|Matchbook|La Serena"
-  ]
+  "value_alerted": []
 }
