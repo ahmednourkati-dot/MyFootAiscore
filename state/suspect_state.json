@@ -1,141 +1,66 @@
 {
   "snapshots": {
-    "8032e794a96dea97adcc8606567fb923:h2h": {
-      "Betclic (FR)": {
-        "Avispa Fukuoka": 1.0,
-        "Cerezo Osaka": 100.0,
-        "Draw": 75.0
-      }
-    },
-    "62b147f16ad22afe412fdf239ccc711c:h2h": {
-      "Winamax (DE)": {
-        "Kawasaki Frontale": 21.0,
-        "Kyoto Purple Sanga": 36.0,
-        "Draw": 1.02
+    "79f656b6298e5f6003ab9a8bc6c28428:h2h": {
+      "Betfair": {
+        "Barnsley": 1.25,
+        "Bromley FC": 1.01,
+        "Draw": 1.01
       },
-      "Winamax (FR)": {
-        "Kawasaki Frontale": 21.0,
-        "Kyoto Purple Sanga": 36.0,
-        "Draw": 1.04
+      "888sport": {
+        "Barnsley": 101.0,
+        "Bromley FC": 1.04,
+        "Draw": 12.0
       },
       "Tipico": {
-        "Kawasaki Frontale": 12.0,
-        "Kyoto Purple Sanga": 22.0,
-        "Draw": 1.03
-      },
-      "Betfair": {
-        "Kawasaki Frontale": 38.0,
-        "Kyoto Purple Sanga": 75.0,
-        "Draw": 1.02
-      }
-    },
-    "6563904c96a7642dab4c58bd6d117182:h2h": {
-      "Unibet (NL)": {
-        "Daejeon Citizen": 5.1,
-        "FC Seoul": 5.1,
-        "Draw": 1.4
-      },
-      "PMU (FR)": {
-        "Daejeon Citizen": 4.75,
-        "FC Seoul": 4.75,
-        "Draw": 1.27
-      },
-      "Unibet (SE)": {
-        "Daejeon Citizen": 5.1,
-        "FC Seoul": 5.1,
-        "Draw": 1.4
-      },
-      "LeoVegas (SE)": {
-        "Daejeon Citizen": 5.5,
-        "FC Seoul": 4.5,
-        "Draw": 1.29
-      },
-      "Betsson": {
-        "Daejeon Citizen": 5.35,
-        "FC Seoul": 3.9,
-        "Draw": 1.52
-      },
-      "Nordic Bet": {
-        "Daejeon Citizen": 5.35,
-        "FC Seoul": 3.5,
-        "Draw": 1.6
-      },
-      "Betclic (FR)": {
-        "Daejeon Citizen": 5.9,
-        "FC Seoul": 3.68,
-        "Draw": 1.52
-      },
-      "Pinnacle": {
-        "Daejeon Citizen": 5.65,
-        "FC Seoul": 4.46,
-        "Draw": 1.5
-      },
-      "Winamax (DE)": {
-        "Daejeon Citizen": 5.7,
-        "FC Seoul": 3.8,
-        "Draw": 1.5
-      },
-      "Winamax (FR)": {
-        "Daejeon Citizen": 5.3,
-        "FC Seoul": 3.65,
-        "Draw": 1.5
-      },
-      "Betfair": {
-        "Daejeon Citizen": 6.0,
-        "FC Seoul": 4.6,
-        "Draw": 1.53
-      },
-      "Tipico": {
-        "Daejeon Citizen": 50.0,
-        "FC Seoul": 1.15,
-        "Draw": 5.0
+        "Barnsley": 400.0,
+        "Bromley FC": 1.01,
+        "Draw": 20.0
       },
       "Coolbet": {
-        "Daejeon Citizen": 1.33,
-        "FC Seoul": 16.0,
-        "Draw": 3.75
-      },
-      "Matchbook": {
-        "Daejeon Citizen": 5.2,
-        "FC Seoul": 4.9,
-        "Draw": 1.52
+        "Barnsley": 200.0,
+        "Bromley FC": 1.01,
+        "Draw": 13.0
       }
     },
-    "95b2f2eb86b415eb88735128f8ee5c98:h2h": {
-      "Betsson": {
-        "FC Anyang": 67.0,
-        "Jeju United FC": 1.0,
-        "Draw": 17.0
-      },
-      "Nordic Bet": {
-        "FC Anyang": 67.0,
-        "Jeju United FC": 1.0,
-        "Draw": 17.0
-      },
-      "Betclic (FR)": {
-        "FC Anyang": 120.0,
-        "Jeju United FC": 1.0,
-        "Draw": 10.5
-      },
-      "Winamax (DE)": {
-        "FC Anyang": 150.0,
-        "Jeju United FC": 1.01,
-        "Draw": 32.0
-      },
-      "Winamax (FR)": {
-        "FC Anyang": 150.0,
-        "Jeju United FC": 1.01,
+    "d2e7e245e43705d3059b84dec8d007fe:h2h": {
+      "Betfair": {
+        "Charlton Athletic": 1.01,
+        "Derby County": 90.0,
         "Draw": 34.0
       },
+      "Betclic (FR)": {
+        "Charlton Athletic": 1.0,
+        "Derby County": 100.0,
+        "Draw": 17.0
+      }
+    },
+    "947fdbb31e2ccd26096f26f6db8b4878:h2h": {
       "Betfair": {
-        "FC Anyang": 300.0,
-        "Jeju United FC": 1.01,
-        "Draw": 36.0
+        "Crawley Town": 1.25,
+        "Crewe Alexandra": 1.01,
+        "Draw": 1.01
       },
       "Coolbet": {
-        "FC Anyang": 80.0,
-        "Jeju United FC": 1.0,
+        "Crawley Town": 50.0,
+        "Crewe Alexandra": 1.0,
         "Draw": 16.0
+      }
+    },
+    "0ef000045cc38c88ef64c0d5f3d21196:h2h": {
+      "Betfair": {
+        "Leyton Orient": 1.01,
+        "Sheffield Wednesday": 1.01,
+        "Draw": 1.01
+      },
+      "Tipico": {
+        "Leyton Orient": 400.0,
+        "Sheffield Wednesday": 1.01,
+        "Draw": 20.0
+      },
+      "Coolbet": {
+        "Leyton Orient": 150.0,
+        "Sheffield Wednesday": 1.01,
+        "Draw": 13.0
       }
     }
   },
@@ -4335,12 +4260,5 @@
     }
   ],
   "results_history": [],
-  "value_alerted": [
-    "6563904c96a7642dab4c58bd6d117182:h2h|Coolbet|Draw",
-    "6563904c96a7642dab4c58bd6d117182:h2h|Coolbet|FC Seoul",
-    "6563904c96a7642dab4c58bd6d117182:h2h|Tipico|Daejeon Citizen",
-    "6563904c96a7642dab4c58bd6d117182:h2h|Tipico|Draw",
-    "6563904c96a7642dab4c58bd6d117182:h2h|Unibet (NL)|FC Seoul",
-    "6563904c96a7642dab4c58bd6d117182:h2h|Unibet (SE)|FC Seoul"
-  ]
+  "value_alerted": []
 }
