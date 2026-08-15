@@ -1,191 +1,181 @@
 {
   "snapshots": {
-    "c93cd8c3c8cd1c43cae4f97eccb2fab0:h2h": {
-      "Coolbet": {
-        "Chengdu Rongcheng FC": 1.01,
-        "Zhejiang": 150.0,
-        "Draw": 13.0
+    "a8e9a685875cb280889d4a17f2c88550:h2h": {
+      "Betclic (FR)": {
+        "Zagłębie Lubin": 1.0,
+        "Śląsk Wrocław": 100.0,
+        "Draw": 40.0
       },
       "Betsson": {
-        "Chengdu Rongcheng FC": 1.02,
-        "Zhejiang": 150.0,
-        "Draw": 12.0
-      },
-      "Nordic Bet": {
-        "Chengdu Rongcheng FC": 1.02,
-        "Zhejiang": 150.0,
-        "Draw": 12.0
-      },
-      "Pinnacle": {
-        "Chengdu Rongcheng FC": 3.99,
-        "Zhejiang": 5.34,
-        "Draw": 1.57
-      },
-      "Winamax (DE)": {
-        "Chengdu Rongcheng FC": 1.01,
-        "Zhejiang": 1000.0,
-        "Draw": 24.0
+        "Zagłębie Lubin": 1.05,
+        "Śląsk Wrocław": 80.0,
+        "Draw": 10.0
       },
       "Winamax (FR)": {
-        "Chengdu Rongcheng FC": 1.02,
-        "Zhejiang": 1000.0,
-        "Draw": 24.0
+        "Zagłębie Lubin": 1.04,
+        "Śląsk Wrocław": 300.0,
+        "Draw": 14.5
       },
-      "888sport": {
-        "Chengdu Rongcheng FC": 1.04,
-        "Zhejiang": 126.0,
+      "Winamax (DE)": {
+        "Zagłębie Lubin": 1.02,
+        "Śląsk Wrocław": 300.0,
+        "Draw": 15.0
+      },
+      "Coolbet": {
+        "Zagłębie Lubin": 1.03,
+        "Śląsk Wrocław": 80.0,
+        "Draw": 11.0
+      },
+      "Nordic Bet": {
+        "Zagłębie Lubin": 1.04,
+        "Śląsk Wrocław": 80.0,
         "Draw": 13.0
       },
       "Betfair": {
-        "Chengdu Rongcheng FC": 1.03,
-        "Zhejiang": 360.0,
-        "Draw": 26.0
+        "Zagłębie Lubin": 1.02,
+        "Śląsk Wrocław": 1000.0,
+        "Draw": 34.0
+      },
+      "888sport": {
+        "Zagłębie Lubin": 1.03,
+        "Śląsk Wrocław": 126.0,
+        "Draw": 13.0
+      }
+    },
+    "ebfc9b77fbb7dd8ab9834f30ace9584e:h2h": {
+      "Betsson": {
+        "GIF Sundsvall": 130.0,
+        "Helsingborgs IF": 1.02,
+        "Draw": 12.0
+      },
+      "Nordic Bet": {
+        "GIF Sundsvall": 130.0,
+        "Helsingborgs IF": 1.02,
+        "Draw": 11.0
+      },
+      "Betfair": {
+        "GIF Sundsvall": 15.5,
+        "Helsingborgs IF": 1.05,
+        "Draw": 4.8
+      },
+      "888sport": {
+        "GIF Sundsvall": 67.0,
+        "Helsingborgs IF": 1.08,
+        "Draw": 7.5
       },
       "Tipico": {
-        "Chengdu Rongcheng FC": 1.01,
-        "Zhejiang": 400.0,
+        "GIF Sundsvall": 20.0,
+        "Helsingborgs IF": 14.0,
+        "Draw": 1.02
+      },
+      "Coolbet": {
+        "GIF Sundsvall": 150.0,
+        "Helsingborgs IF": 1.01,
+        "Draw": 13.0
+      }
+    },
+    "f66d5c0307a1d2490c036414a7c8cbd3:h2h": {
+      "Betclic (FR)": {
+        "IK Sirius": 100.0,
+        "Mjällby AIF": 1.02,
+        "Draw": 17.75
+      },
+      "Winamax (DE)": {
+        "IK Sirius": 450.0,
+        "Mjällby AIF": 1.03,
+        "Draw": 13.5
+      },
+      "Winamax (FR)": {
+        "IK Sirius": 1000.0,
+        "Mjällby AIF": 1.03,
+        "Draw": 17.0
+      },
+      "Betsson": {
+        "IK Sirius": 101.0,
+        "Mjällby AIF": 1.0,
+        "Draw": 15.0
+      },
+      "Nordic Bet": {
+        "IK Sirius": 126.0,
+        "Mjällby AIF": 1.0,
+        "Draw": 15.0
+      },
+      "Betfair": {
+        "IK Sirius": 1000.0,
+        "Mjällby AIF": 1.01,
+        "Draw": 50.0
+      },
+      "888sport": {
+        "IK Sirius": 61.0,
+        "Mjällby AIF": 1.1,
+        "Draw": 7.0
+      },
+      "Pinnacle": {
+        "IK Sirius": 5.26,
+        "Mjällby AIF": 6.84,
+        "Draw": 1.37
+      },
+      "Tipico": {
+        "IK Sirius": 400.0,
+        "Mjällby AIF": 1.01,
+        "Draw": 20.0
+      },
+      "Coolbet": {
+        "IK Sirius": 500.0,
+        "Mjällby AIF": 1.01,
         "Draw": 20.0
       }
     },
-    "5192ca6e7604fc0f0ec34d7afed13fa3:h2h": {
-      "Coolbet": {
-        "Dalian Yingbo": 66.0,
-        "Yunnan Yukun": 1.07,
-        "Draw": 8.0
-      },
-      "Betsson": {
-        "Dalian Yingbo": 43.0,
-        "Yunnan Yukun": 1.06,
-        "Draw": 7.2
-      },
-      "Nordic Bet": {
-        "Dalian Yingbo": 47.0,
-        "Yunnan Yukun": 1.05,
-        "Draw": 7.7
-      },
-      "Winamax (DE)": {
-        "Dalian Yingbo": 55.0,
-        "Yunnan Yukun": 1.06,
-        "Draw": 8.0
-      },
-      "Winamax (FR)": {
-        "Dalian Yingbo": 55.0,
-        "Yunnan Yukun": 1.1,
-        "Draw": 7.5
-      },
-      "888sport": {
-        "Dalian Yingbo": 51.0,
-        "Yunnan Yukun": 1.08,
-        "Draw": 7.5
-      },
-      "Betfair": {
-        "Dalian Yingbo": 55.0,
-        "Yunnan Yukun": 1.1,
-        "Draw": 10.5
-      },
-      "Tipico": {
-        "Dalian Yingbo": 80.0,
-        "Yunnan Yukun": 1.04,
-        "Draw": 8.0
+    "717764f0f41f66be0c913b7e3f131cb6:h2h": {
+      "Unibet (NL)": {
+        "Nordic United FC": 12.0,
+        "Varbergs BoIS": 15.0,
+        "Draw": 1.03
       },
       "LeoVegas (SE)": {
-        "Dalian Yingbo": 41.0,
-        "Yunnan Yukun": 1.03,
-        "Draw": 7.5
+        "Nordic United FC": 10.5,
+        "Varbergs BoIS": 12.5,
+        "Draw": 1.03
       },
       "Unibet (SE)": {
-        "Dalian Yingbo": 46.0,
-        "Yunnan Yukun": 1.08,
-        "Draw": 7.5
-      },
-      "Unibet (NL)": {
-        "Dalian Yingbo": 41.0,
-        "Yunnan Yukun": 1.05,
-        "Draw": 7.5
-      },
-      "Matchbook": {
-        "Dalian Yingbo": 100.0,
-        "Yunnan Yukun": 1.1,
-        "Draw": 10.5
-      }
-    },
-    "fa9816054c966474eb75a32a679c6cb1:h2h": {
-      "Coolbet": {
-        "Henan FC": 50.0,
-        "Shanghai Shenhua FC": 1.0,
-        "Draw": 18.0
-      },
-      "Winamax (FR)": {
-        "Henan FC": 140.0,
-        "Shanghai Shenhua FC": 1.01,
-        "Draw": 30.0
-      },
-      "Winamax (DE)": {
-        "Henan FC": 140.0,
-        "Shanghai Shenhua FC": 1.01,
-        "Draw": 30.0
+        "Nordic United FC": 23.0,
+        "Varbergs BoIS": 67.0,
+        "Draw": 1.01
       },
       "Nordic Bet": {
-        "Henan FC": 36.0,
-        "Shanghai Shenhua FC": 1.0,
-        "Draw": 21.0
+        "Nordic United FC": 26.0,
+        "Varbergs BoIS": 26.0,
+        "Draw": 1.0
       },
       "Betsson": {
-        "Henan FC": 51.0,
-        "Shanghai Shenhua FC": 1.0,
-        "Draw": 19.0
+        "Nordic United FC": 15.0,
+        "Varbergs BoIS": 17.0,
+        "Draw": 1.05
       },
-      "888sport": {
-        "Henan FC": 126.0,
-        "Shanghai Shenhua FC": 1.01,
-        "Draw": 29.0
-      },
-      "Betfair": {
-        "Henan FC": 85.0,
-        "Shanghai Shenhua FC": 1.01,
-        "Draw": 40.0
-      }
-    },
-    "6605a57f5453d195b403b00cdd532405:h2h": {
-      "Betsson": {
-        "Rot-Weiss Essen": 1.04,
-        "TSV Havelse": 50.0,
-        "Draw": 9.0
-      },
-      "Nordic Bet": {
-        "Rot-Weiss Essen": 1.04,
-        "TSV Havelse": 50.0,
-        "Draw": 9.0
-      },
-      "Suprabets": {
-        "Rot-Weiss Essen": 1.05,
-        "TSV Havelse": 86.0,
-        "Draw": 6.6
-      },
-      "Winamax (DE)": {
-        "Rot-Weiss Essen": 1.05,
-        "TSV Havelse": 65.0,
-        "Draw": 10.0
+      "Pinnacle": {
+        "Nordic United FC": 4.12,
+        "Varbergs BoIS": 4.21,
+        "Draw": 1.68
       },
       "Tipico": {
-        "Rot-Weiss Essen": 1.03,
-        "TSV Havelse": 120.0,
-        "Draw": 9.0
+        "Nordic United FC": 12.0,
+        "Varbergs BoIS": 18.0,
+        "Draw": 1.03
       },
       "888sport": {
-        "Rot-Weiss Essen": 1.04,
-        "TSV Havelse": 91.0,
-        "Draw": 11.0
+        "Nordic United FC": 6.5,
+        "Varbergs BoIS": 7.0,
+        "Draw": 1.22
       },
       "Coolbet": {
-        "Rot-Weiss Essen": 1.04,
-        "TSV Havelse": 50.0,
-        "Draw": 9.0
+        "Nordic United FC": 16.0,
+        "Varbergs BoIS": 16.0,
+        "Draw": 1.05
       },
       "Betfair": {
-        "Rot-Weiss Essen": 1.09,
-        "TSV Havelse": 65.0,
-        "Draw": 10.5
+        "Nordic United FC": 1.01,
+        "Varbergs BoIS": 1.01,
+        "Draw": 1.01
       }
     }
   },
@@ -5166,25 +5156,587 @@
       "confidence": 1085,
       "alert_type": "value",
       "alerted_at": "2026-08-15T13:44:23.530518+00:00"
+    },
+    {
+      "state_key": "f66d5c0307a1d2490c036414a7c8cbd3:h2h",
+      "event_id": "f66d5c0307a1d2490c036414a7c8cbd3",
+      "sport_key": "soccer",
+      "competition": "Allsvenskan - Sweden",
+      "home_team": "Mjällby AIF",
+      "away_team": "IK Sirius",
+      "commence_time": "2026-08-15T13:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "IK Sirius",
+      "odds_at_alert": 100.0,
+      "stake_pct": 5.0,
+      "confidence": 1683,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T14:55:27.030910+00:00"
+    },
+    {
+      "state_key": "f66d5c0307a1d2490c036414a7c8cbd3:h2h",
+      "event_id": "f66d5c0307a1d2490c036414a7c8cbd3",
+      "sport_key": "soccer",
+      "competition": "Allsvenskan - Sweden",
+      "home_team": "Mjällby AIF",
+      "away_team": "IK Sirius",
+      "commence_time": "2026-08-15T13:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 17.75,
+      "stake_pct": 5.0,
+      "confidence": 1115,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T14:55:27.539181+00:00"
+    },
+    {
+      "state_key": "f66d5c0307a1d2490c036414a7c8cbd3:h2h",
+      "event_id": "f66d5c0307a1d2490c036414a7c8cbd3",
+      "sport_key": "soccer",
+      "competition": "Allsvenskan - Sweden",
+      "home_team": "Mjällby AIF",
+      "away_team": "IK Sirius",
+      "commence_time": "2026-08-15T13:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "IK Sirius",
+      "odds_at_alert": 450.0,
+      "stake_pct": 5.0,
+      "confidence": 7924,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T14:55:28.126395+00:00"
+    },
+    {
+      "state_key": "f66d5c0307a1d2490c036414a7c8cbd3:h2h",
+      "event_id": "f66d5c0307a1d2490c036414a7c8cbd3",
+      "sport_key": "soccer",
+      "competition": "Allsvenskan - Sweden",
+      "home_team": "Mjällby AIF",
+      "away_team": "IK Sirius",
+      "commence_time": "2026-08-15T13:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 13.5,
+      "stake_pct": 5.0,
+      "confidence": 824,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T14:55:28.617657+00:00"
+    },
+    {
+      "state_key": "f66d5c0307a1d2490c036414a7c8cbd3:h2h",
+      "event_id": "f66d5c0307a1d2490c036414a7c8cbd3",
+      "sport_key": "soccer",
+      "competition": "Allsvenskan - Sweden",
+      "home_team": "Mjällby AIF",
+      "away_team": "IK Sirius",
+      "commence_time": "2026-08-15T13:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "IK Sirius",
+      "odds_at_alert": 1000.0,
+      "stake_pct": 5.0,
+      "confidence": 17730,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T14:55:29.137662+00:00"
+    },
+    {
+      "state_key": "f66d5c0307a1d2490c036414a7c8cbd3:h2h",
+      "event_id": "f66d5c0307a1d2490c036414a7c8cbd3",
+      "sport_key": "soccer",
+      "competition": "Allsvenskan - Sweden",
+      "home_team": "Mjällby AIF",
+      "away_team": "IK Sirius",
+      "commence_time": "2026-08-15T13:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 1064,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T14:55:29.627293+00:00"
+    },
+    {
+      "state_key": "f66d5c0307a1d2490c036414a7c8cbd3:h2h",
+      "event_id": "f66d5c0307a1d2490c036414a7c8cbd3",
+      "sport_key": "soccer",
+      "competition": "Allsvenskan - Sweden",
+      "home_team": "Mjällby AIF",
+      "away_team": "IK Sirius",
+      "commence_time": "2026-08-15T13:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "IK Sirius",
+      "odds_at_alert": 101.0,
+      "stake_pct": 5.0,
+      "confidence": 1701,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T14:55:30.145164+00:00"
+    },
+    {
+      "state_key": "f66d5c0307a1d2490c036414a7c8cbd3:h2h",
+      "event_id": "f66d5c0307a1d2490c036414a7c8cbd3",
+      "sport_key": "soccer",
+      "competition": "Allsvenskan - Sweden",
+      "home_team": "Mjällby AIF",
+      "away_team": "IK Sirius",
+      "commence_time": "2026-08-15T13:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 927,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T14:55:30.668483+00:00"
+    },
+    {
+      "state_key": "f66d5c0307a1d2490c036414a7c8cbd3:h2h",
+      "event_id": "f66d5c0307a1d2490c036414a7c8cbd3",
+      "sport_key": "soccer",
+      "competition": "Allsvenskan - Sweden",
+      "home_team": "Mjällby AIF",
+      "away_team": "IK Sirius",
+      "commence_time": "2026-08-15T13:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "IK Sirius",
+      "odds_at_alert": 126.0,
+      "stake_pct": 5.0,
+      "confidence": 2147,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T14:55:31.198754+00:00"
+    },
+    {
+      "state_key": "f66d5c0307a1d2490c036414a7c8cbd3:h2h",
+      "event_id": "f66d5c0307a1d2490c036414a7c8cbd3",
+      "sport_key": "soccer",
+      "competition": "Allsvenskan - Sweden",
+      "home_team": "Mjällby AIF",
+      "away_team": "IK Sirius",
+      "commence_time": "2026-08-15T13:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 927,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T14:55:31.719921+00:00"
+    },
+    {
+      "state_key": "f66d5c0307a1d2490c036414a7c8cbd3:h2h",
+      "event_id": "f66d5c0307a1d2490c036414a7c8cbd3",
+      "sport_key": "soccer",
+      "competition": "Allsvenskan - Sweden",
+      "home_team": "Mjällby AIF",
+      "away_team": "IK Sirius",
+      "commence_time": "2026-08-15T13:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "IK Sirius",
+      "odds_at_alert": 1000.0,
+      "stake_pct": 5.0,
+      "confidence": 17730,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T14:55:32.204452+00:00"
+    },
+    {
+      "state_key": "f66d5c0307a1d2490c036414a7c8cbd3:h2h",
+      "event_id": "f66d5c0307a1d2490c036414a7c8cbd3",
+      "sport_key": "soccer",
+      "competition": "Allsvenskan - Sweden",
+      "home_team": "Mjällby AIF",
+      "away_team": "IK Sirius",
+      "commence_time": "2026-08-15T13:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 50.0,
+      "stake_pct": 5.0,
+      "confidence": 3323,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T14:55:32.693359+00:00"
+    },
+    {
+      "state_key": "f66d5c0307a1d2490c036414a7c8cbd3:h2h",
+      "event_id": "f66d5c0307a1d2490c036414a7c8cbd3",
+      "sport_key": "soccer",
+      "competition": "Allsvenskan - Sweden",
+      "home_team": "Mjällby AIF",
+      "away_team": "IK Sirius",
+      "commence_time": "2026-08-15T13:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "IK Sirius",
+      "odds_at_alert": 61.0,
+      "stake_pct": 5.0,
+      "confidence": 988,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T14:55:33.178394+00:00"
+    },
+    {
+      "state_key": "f66d5c0307a1d2490c036414a7c8cbd3:h2h",
+      "event_id": "f66d5c0307a1d2490c036414a7c8cbd3",
+      "sport_key": "soccer",
+      "competition": "Allsvenskan - Sweden",
+      "home_team": "Mjällby AIF",
+      "away_team": "IK Sirius",
+      "commence_time": "2026-08-15T13:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 7.0,
+      "stake_pct": 5.0,
+      "confidence": 379,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T14:55:33.679174+00:00"
+    },
+    {
+      "state_key": "f66d5c0307a1d2490c036414a7c8cbd3:h2h",
+      "event_id": "f66d5c0307a1d2490c036414a7c8cbd3",
+      "sport_key": "soccer",
+      "competition": "Allsvenskan - Sweden",
+      "home_team": "Mjällby AIF",
+      "away_team": "IK Sirius",
+      "commence_time": "2026-08-15T13:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "IK Sirius",
+      "odds_at_alert": 400.0,
+      "stake_pct": 5.0,
+      "confidence": 7032,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T14:55:34.171892+00:00"
+    },
+    {
+      "state_key": "f66d5c0307a1d2490c036414a7c8cbd3:h2h",
+      "event_id": "f66d5c0307a1d2490c036414a7c8cbd3",
+      "sport_key": "soccer",
+      "competition": "Allsvenskan - Sweden",
+      "home_team": "Mjällby AIF",
+      "away_team": "IK Sirius",
+      "commence_time": "2026-08-15T13:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 20.0,
+      "stake_pct": 5.0,
+      "confidence": 1269,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T14:55:34.663523+00:00"
+    },
+    {
+      "state_key": "f66d5c0307a1d2490c036414a7c8cbd3:h2h",
+      "event_id": "f66d5c0307a1d2490c036414a7c8cbd3",
+      "sport_key": "soccer",
+      "competition": "Allsvenskan - Sweden",
+      "home_team": "Mjällby AIF",
+      "away_team": "IK Sirius",
+      "commence_time": "2026-08-15T13:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "IK Sirius",
+      "odds_at_alert": 500.0,
+      "stake_pct": 5.0,
+      "confidence": 8815,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T14:55:35.152431+00:00"
+    },
+    {
+      "state_key": "f66d5c0307a1d2490c036414a7c8cbd3:h2h",
+      "event_id": "f66d5c0307a1d2490c036414a7c8cbd3",
+      "sport_key": "soccer",
+      "competition": "Allsvenskan - Sweden",
+      "home_team": "Mjällby AIF",
+      "away_team": "IK Sirius",
+      "commence_time": "2026-08-15T13:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 20.0,
+      "stake_pct": 5.0,
+      "confidence": 1269,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T14:55:35.677071+00:00"
+    },
+    {
+      "state_key": "717764f0f41f66be0c913b7e3f131cb6:h2h",
+      "event_id": "717764f0f41f66be0c913b7e3f131cb6",
+      "sport_key": "soccer",
+      "competition": "Superettan - Sweden",
+      "home_team": "Nordic United FC",
+      "away_team": "Varbergs BoIS",
+      "commence_time": "2026-08-15T13:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Nordic United FC",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 171,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T14:55:36.183327+00:00"
+    },
+    {
+      "state_key": "717764f0f41f66be0c913b7e3f131cb6:h2h",
+      "event_id": "717764f0f41f66be0c913b7e3f131cb6",
+      "sport_key": "soccer",
+      "competition": "Superettan - Sweden",
+      "home_team": "Nordic United FC",
+      "away_team": "Varbergs BoIS",
+      "commence_time": "2026-08-15T13:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Varbergs BoIS",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 231,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T14:55:36.672194+00:00"
+    },
+    {
+      "state_key": "717764f0f41f66be0c913b7e3f131cb6:h2h",
+      "event_id": "717764f0f41f66be0c913b7e3f131cb6",
+      "sport_key": "soccer",
+      "competition": "Superettan - Sweden",
+      "home_team": "Nordic United FC",
+      "away_team": "Varbergs BoIS",
+      "commence_time": "2026-08-15T13:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Nordic United FC",
+      "odds_at_alert": 10.5,
+      "stake_pct": 5.0,
+      "confidence": 137,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T14:55:37.153703+00:00"
+    },
+    {
+      "state_key": "717764f0f41f66be0c913b7e3f131cb6:h2h",
+      "event_id": "717764f0f41f66be0c913b7e3f131cb6",
+      "sport_key": "soccer",
+      "competition": "Superettan - Sweden",
+      "home_team": "Nordic United FC",
+      "away_team": "Varbergs BoIS",
+      "commence_time": "2026-08-15T13:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Varbergs BoIS",
+      "odds_at_alert": 12.5,
+      "stake_pct": 5.0,
+      "confidence": 176,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T14:55:37.675551+00:00"
+    },
+    {
+      "state_key": "717764f0f41f66be0c913b7e3f131cb6:h2h",
+      "event_id": "717764f0f41f66be0c913b7e3f131cb6",
+      "sport_key": "soccer",
+      "competition": "Superettan - Sweden",
+      "home_team": "Nordic United FC",
+      "away_team": "Varbergs BoIS",
+      "commence_time": "2026-08-15T13:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Nordic United FC",
+      "odds_at_alert": 23.0,
+      "stake_pct": 5.0,
+      "confidence": 419,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T14:55:38.209223+00:00"
+    },
+    {
+      "state_key": "717764f0f41f66be0c913b7e3f131cb6:h2h",
+      "event_id": "717764f0f41f66be0c913b7e3f131cb6",
+      "sport_key": "soccer",
+      "competition": "Superettan - Sweden",
+      "home_team": "Nordic United FC",
+      "away_team": "Varbergs BoIS",
+      "commence_time": "2026-08-15T13:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Varbergs BoIS",
+      "odds_at_alert": 67.0,
+      "stake_pct": 5.0,
+      "confidence": 1380,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T14:55:38.725708+00:00"
+    },
+    {
+      "state_key": "717764f0f41f66be0c913b7e3f131cb6:h2h",
+      "event_id": "717764f0f41f66be0c913b7e3f131cb6",
+      "sport_key": "soccer",
+      "competition": "Superettan - Sweden",
+      "home_team": "Nordic United FC",
+      "away_team": "Varbergs BoIS",
+      "commence_time": "2026-08-15T13:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Nordic United FC",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 487,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T14:55:39.213230+00:00"
+    },
+    {
+      "state_key": "717764f0f41f66be0c913b7e3f131cb6:h2h",
+      "event_id": "717764f0f41f66be0c913b7e3f131cb6",
+      "sport_key": "soccer",
+      "competition": "Superettan - Sweden",
+      "home_team": "Nordic United FC",
+      "away_team": "Varbergs BoIS",
+      "commence_time": "2026-08-15T13:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Varbergs BoIS",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 474,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T14:55:39.720440+00:00"
+    },
+    {
+      "state_key": "717764f0f41f66be0c913b7e3f131cb6:h2h",
+      "event_id": "717764f0f41f66be0c913b7e3f131cb6",
+      "sport_key": "soccer",
+      "competition": "Superettan - Sweden",
+      "home_team": "Nordic United FC",
+      "away_team": "Varbergs BoIS",
+      "commence_time": "2026-08-15T13:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Nordic United FC",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 239,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T14:55:40.213473+00:00"
+    },
+    {
+      "state_key": "717764f0f41f66be0c913b7e3f131cb6:h2h",
+      "event_id": "717764f0f41f66be0c913b7e3f131cb6",
+      "sport_key": "soccer",
+      "competition": "Superettan - Sweden",
+      "home_team": "Nordic United FC",
+      "away_team": "Varbergs BoIS",
+      "commence_time": "2026-08-15T13:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Varbergs BoIS",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 275,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T14:55:40.699609+00:00"
+    },
+    {
+      "state_key": "717764f0f41f66be0c913b7e3f131cb6:h2h",
+      "event_id": "717764f0f41f66be0c913b7e3f131cb6",
+      "sport_key": "soccer",
+      "competition": "Superettan - Sweden",
+      "home_team": "Nordic United FC",
+      "away_team": "Varbergs BoIS",
+      "commence_time": "2026-08-15T13:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Nordic United FC",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 171,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T14:55:41.230019+00:00"
+    },
+    {
+      "state_key": "717764f0f41f66be0c913b7e3f131cb6:h2h",
+      "event_id": "717764f0f41f66be0c913b7e3f131cb6",
+      "sport_key": "soccer",
+      "competition": "Superettan - Sweden",
+      "home_team": "Nordic United FC",
+      "away_team": "Varbergs BoIS",
+      "commence_time": "2026-08-15T13:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Varbergs BoIS",
+      "odds_at_alert": 18.0,
+      "stake_pct": 5.0,
+      "confidence": 298,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T14:55:41.758934+00:00"
+    },
+    {
+      "state_key": "717764f0f41f66be0c913b7e3f131cb6:h2h",
+      "event_id": "717764f0f41f66be0c913b7e3f131cb6",
+      "sport_key": "soccer",
+      "competition": "Superettan - Sweden",
+      "home_team": "Nordic United FC",
+      "away_team": "Varbergs BoIS",
+      "commence_time": "2026-08-15T13:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Nordic United FC",
+      "odds_at_alert": 6.5,
+      "stake_pct": 5.0,
+      "confidence": 47,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T14:55:42.289177+00:00"
+    },
+    {
+      "state_key": "717764f0f41f66be0c913b7e3f131cb6:h2h",
+      "event_id": "717764f0f41f66be0c913b7e3f131cb6",
+      "sport_key": "soccer",
+      "competition": "Superettan - Sweden",
+      "home_team": "Nordic United FC",
+      "away_team": "Varbergs BoIS",
+      "commence_time": "2026-08-15T13:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Varbergs BoIS",
+      "odds_at_alert": 7.0,
+      "stake_pct": 5.0,
+      "confidence": 55,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T14:55:42.784427+00:00"
+    },
+    {
+      "state_key": "717764f0f41f66be0c913b7e3f131cb6:h2h",
+      "event_id": "717764f0f41f66be0c913b7e3f131cb6",
+      "sport_key": "soccer",
+      "competition": "Superettan - Sweden",
+      "home_team": "Nordic United FC",
+      "away_team": "Varbergs BoIS",
+      "commence_time": "2026-08-15T13:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Nordic United FC",
+      "odds_at_alert": 16.0,
+      "stake_pct": 5.0,
+      "confidence": 261,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T14:55:43.296072+00:00"
+    },
+    {
+      "state_key": "717764f0f41f66be0c913b7e3f131cb6:h2h",
+      "event_id": "717764f0f41f66be0c913b7e3f131cb6",
+      "sport_key": "soccer",
+      "competition": "Superettan - Sweden",
+      "home_team": "Nordic United FC",
+      "away_team": "Varbergs BoIS",
+      "commence_time": "2026-08-15T13:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Varbergs BoIS",
+      "odds_at_alert": 16.0,
+      "stake_pct": 5.0,
+      "confidence": 253,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T14:55:43.795580+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "c93cd8c3c8cd1c43cae4f97eccb2fab0:h2h|888sport|Draw",
-    "c93cd8c3c8cd1c43cae4f97eccb2fab0:h2h|888sport|Zhejiang",
-    "c93cd8c3c8cd1c43cae4f97eccb2fab0:h2h|Betfair|Draw",
-    "c93cd8c3c8cd1c43cae4f97eccb2fab0:h2h|Betfair|Zhejiang",
-    "c93cd8c3c8cd1c43cae4f97eccb2fab0:h2h|Betsson|Draw",
-    "c93cd8c3c8cd1c43cae4f97eccb2fab0:h2h|Betsson|Zhejiang",
-    "c93cd8c3c8cd1c43cae4f97eccb2fab0:h2h|Coolbet|Draw",
-    "c93cd8c3c8cd1c43cae4f97eccb2fab0:h2h|Coolbet|Zhejiang",
-    "c93cd8c3c8cd1c43cae4f97eccb2fab0:h2h|Nordic Bet|Draw",
-    "c93cd8c3c8cd1c43cae4f97eccb2fab0:h2h|Nordic Bet|Zhejiang",
-    "c93cd8c3c8cd1c43cae4f97eccb2fab0:h2h|Tipico|Draw",
-    "c93cd8c3c8cd1c43cae4f97eccb2fab0:h2h|Tipico|Zhejiang",
-    "c93cd8c3c8cd1c43cae4f97eccb2fab0:h2h|Winamax (DE)|Draw",
-    "c93cd8c3c8cd1c43cae4f97eccb2fab0:h2h|Winamax (DE)|Zhejiang",
-    "c93cd8c3c8cd1c43cae4f97eccb2fab0:h2h|Winamax (FR)|Draw",
-    "c93cd8c3c8cd1c43cae4f97eccb2fab0:h2h|Winamax (FR)|Zhejiang"
+    "717764f0f41f66be0c913b7e3f131cb6:h2h|888sport|Nordic United FC",
+    "717764f0f41f66be0c913b7e3f131cb6:h2h|888sport|Varbergs BoIS",
+    "717764f0f41f66be0c913b7e3f131cb6:h2h|Betsson|Nordic United FC",
+    "717764f0f41f66be0c913b7e3f131cb6:h2h|Betsson|Varbergs BoIS",
+    "717764f0f41f66be0c913b7e3f131cb6:h2h|Coolbet|Nordic United FC",
+    "717764f0f41f66be0c913b7e3f131cb6:h2h|Coolbet|Varbergs BoIS",
+    "717764f0f41f66be0c913b7e3f131cb6:h2h|LeoVegas (SE)|Nordic United FC",
+    "717764f0f41f66be0c913b7e3f131cb6:h2h|LeoVegas (SE)|Varbergs BoIS",
+    "717764f0f41f66be0c913b7e3f131cb6:h2h|Nordic Bet|Nordic United FC",
+    "717764f0f41f66be0c913b7e3f131cb6:h2h|Nordic Bet|Varbergs BoIS",
+    "717764f0f41f66be0c913b7e3f131cb6:h2h|Tipico|Nordic United FC",
+    "717764f0f41f66be0c913b7e3f131cb6:h2h|Tipico|Varbergs BoIS",
+    "717764f0f41f66be0c913b7e3f131cb6:h2h|Unibet (NL)|Nordic United FC",
+    "717764f0f41f66be0c913b7e3f131cb6:h2h|Unibet (NL)|Varbergs BoIS",
+    "717764f0f41f66be0c913b7e3f131cb6:h2h|Unibet (SE)|Nordic United FC",
+    "717764f0f41f66be0c913b7e3f131cb6:h2h|Unibet (SE)|Varbergs BoIS",
+    "f66d5c0307a1d2490c036414a7c8cbd3:h2h|888sport|Draw",
+    "f66d5c0307a1d2490c036414a7c8cbd3:h2h|888sport|IK Sirius",
+    "f66d5c0307a1d2490c036414a7c8cbd3:h2h|Betclic (FR)|Draw",
+    "f66d5c0307a1d2490c036414a7c8cbd3:h2h|Betclic (FR)|IK Sirius",
+    "f66d5c0307a1d2490c036414a7c8cbd3:h2h|Betfair|Draw",
+    "f66d5c0307a1d2490c036414a7c8cbd3:h2h|Betfair|IK Sirius",
+    "f66d5c0307a1d2490c036414a7c8cbd3:h2h|Betsson|Draw",
+    "f66d5c0307a1d2490c036414a7c8cbd3:h2h|Betsson|IK Sirius",
+    "f66d5c0307a1d2490c036414a7c8cbd3:h2h|Coolbet|Draw",
+    "f66d5c0307a1d2490c036414a7c8cbd3:h2h|Coolbet|IK Sirius",
+    "f66d5c0307a1d2490c036414a7c8cbd3:h2h|Nordic Bet|Draw",
+    "f66d5c0307a1d2490c036414a7c8cbd3:h2h|Nordic Bet|IK Sirius",
+    "f66d5c0307a1d2490c036414a7c8cbd3:h2h|Tipico|Draw",
+    "f66d5c0307a1d2490c036414a7c8cbd3:h2h|Tipico|IK Sirius",
+    "f66d5c0307a1d2490c036414a7c8cbd3:h2h|Winamax (DE)|Draw",
+    "f66d5c0307a1d2490c036414a7c8cbd3:h2h|Winamax (DE)|IK Sirius",
+    "f66d5c0307a1d2490c036414a7c8cbd3:h2h|Winamax (FR)|Draw",
+    "f66d5c0307a1d2490c036414a7c8cbd3:h2h|Winamax (FR)|IK Sirius"
   ]
 }
