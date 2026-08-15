@@ -1,156 +1,161 @@
 {
   "snapshots": {
-    "1fe48ff20e733913397bc30a8f4be1f7:h2h": {
-      "Winamax (DE)": {
-        "Austria Lustenau": 1.03,
-        "Wolfsberger AC": 450.0,
-        "Draw": 12.0
-      },
-      "Coolbet": {
-        "Austria Lustenau": 1.01,
-        "Wolfsberger AC": 150.0,
-        "Draw": 13.0
-      },
-      "888sport": {
-        "Austria Lustenau": 1.08,
-        "Wolfsberger AC": 71.0,
-        "Draw": 7.5
-      },
-      "Winamax (FR)": {
-        "Austria Lustenau": 1.04,
-        "Wolfsberger AC": 450.0,
-        "Draw": 13.5
-      },
-      "Betclic (FR)": {
-        "Austria Lustenau": 1.03,
-        "Wolfsberger AC": 100.0,
-        "Draw": 9.75
-      },
-      "Suprabets": {
-        "Austria Lustenau": 1.08,
-        "Wolfsberger AC": 61.0,
-        "Draw": 5.5
-      },
-      "Betsson": {
-        "Austria Lustenau": 1.05,
-        "Wolfsberger AC": 50.0,
-        "Draw": 6.8
-      },
-      "Tipico": {
-        "Austria Lustenau": 1.01,
-        "Wolfsberger AC": 400.0,
-        "Draw": 25.0
-      },
-      "Betfair": {
-        "Austria Lustenau": 1.01,
-        "Wolfsberger AC": 410.0,
-        "Draw": 34.0
-      }
-    },
     "abd7ebb0a5119bb45354bd728ddfbfa1:h2h": {
       "Pinnacle": {
-        "FK Rostov": 3.19,
-        "Rubin Kazan": 6.5,
-        "Draw": 1.69
+        "FK Rostov": 4.57,
+        "Rubin Kazan": 9.92,
+        "Draw": 1.36
       }
     },
     "9dddd92d5b2905530810a7fbcbc3315e:h2h": {
-      "Betsson": {
-        "Piast Gliwice": 81.0,
+      "Coolbet": {
+        "Piast Gliwice": 125.0,
         "Wieczysta Kraków": 1.0,
-        "Draw": 81.0
-      },
-      "Nordic Bet": {
-        "Piast Gliwice": 81.0,
-        "Wieczysta Kraków": 1.0,
-        "Draw": 81.0
+        "Draw": 15.0
       },
       "Betclic (FR)": {
         "Piast Gliwice": 100.0,
         "Wieczysta Kraków": 1.02,
-        "Draw": 65.0
+        "Draw": 40.0
       },
       "Winamax (DE)": {
-        "Piast Gliwice": 100.0,
+        "Piast Gliwice": 450.0,
         "Wieczysta Kraków": 1.01,
-        "Draw": 38.0
+        "Draw": 21.0
       },
       "Betfair": {
-        "Piast Gliwice": 11.5,
+        "Piast Gliwice": 18.5,
+        "Wieczysta Kraków": 1.04,
+        "Draw": 1.01
+      },
+      "Tipico": {
+        "Piast Gliwice": 500.0,
         "Wieczysta Kraków": 1.01,
-        "Draw": 12.0
-      },
-      "888sport": {
-        "Piast Gliwice": 151.0,
-        "Wieczysta Kraków": 1.0,
-        "Draw": 61.0
-      },
-      "Pinnacle": {
-        "Piast Gliwice": 7.75,
-        "Wieczysta Kraków": 1.58,
-        "Draw": 3.3
+        "Draw": 10.0
       }
     },
     "60ff159fbea24564cc08c5e1e7f0772b:h2h": {
       "Unibet (NL)": {
-        "IFK Mariehamn": 1.96,
-        "SJK Seinäjoki": 3.6,
-        "Draw": 3.15
+        "IFK Mariehamn": 1.08,
+        "SJK Seinäjoki": 23.0,
+        "Draw": 8.5
       },
       "LeoVegas (SE)": {
-        "IFK Mariehamn": 1.85,
-        "SJK Seinäjoki": 3.4,
-        "Draw": 2.95
-      },
-      "PMU (FR)": {
-        "IFK Mariehamn": 1.79,
-        "SJK Seinäjoki": 3.3,
-        "Draw": 2.88
+        "IFK Mariehamn": 1.02,
+        "SJK Seinäjoki": 23.0,
+        "Draw": 8.5
       },
       "Unibet (SE)": {
-        "IFK Mariehamn": 1.96,
-        "SJK Seinäjoki": 3.6,
-        "Draw": 3.15
-      },
-      "Pinnacle": {
-        "IFK Mariehamn": 1.95,
-        "SJK Seinäjoki": 4.15,
-        "Draw": 3.29
+        "IFK Mariehamn": 1.08,
+        "SJK Seinäjoki": 23.0,
+        "Draw": 8.5
       },
       "Betsson": {
-        "IFK Mariehamn": 1.85,
-        "SJK Seinäjoki": 3.9,
-        "Draw": 3.2
+        "IFK Mariehamn": 1.05,
+        "SJK Seinäjoki": 34.0,
+        "Draw": 11.0
       },
       "Nordic Bet": {
-        "IFK Mariehamn": 1.85,
-        "SJK Seinäjoki": 3.9,
-        "Draw": 3.2
-      },
-      "Tipico": {
-        "IFK Mariehamn": 1.9,
-        "SJK Seinäjoki": 3.6,
-        "Draw": 3.3
+        "IFK Mariehamn": 1.05,
+        "SJK Seinäjoki": 36.0,
+        "Draw": 11.0
       },
       "Coolbet": {
-        "IFK Mariehamn": 1.91,
-        "SJK Seinäjoki": 4.33,
-        "Draw": 3.5
+        "IFK Mariehamn": 1.06,
+        "SJK Seinäjoki": 50.0,
+        "Draw": 12.0
       },
       "888sport": {
-        "IFK Mariehamn": 1.85,
-        "SJK Seinäjoki": 4.0,
-        "Draw": 3.1
+        "IFK Mariehamn": 1.06,
+        "SJK Seinäjoki": 36.0,
+        "Draw": 10.0
       },
       "Betfair": {
-        "IFK Mariehamn": 2.0,
-        "SJK Seinäjoki": 4.3,
-        "Draw": 3.6
+        "IFK Mariehamn": 1.11,
+        "SJK Seinäjoki": 50.0,
+        "Draw": 11.0
       },
       "Matchbook": {
-        "IFK Mariehamn": 1.94,
-        "SJK Seinäjoki": 4.4,
-        "Draw": 3.65
+        "IFK Mariehamn": 1.08,
+        "SJK Seinäjoki": 60.0,
+        "Draw": 13.0
+      }
+    },
+    "ee24e0a4e57e00f6243aa50b0fe379f7:h2h": {
+      "Winamax (FR)": {
+        "Kasimpasa SK": 6.0,
+        "Trabzonspor": 3.15,
+        "Draw": 1.54
+      },
+      "Tipico": {
+        "Kasimpasa SK": 7.5,
+        "Trabzonspor": 3.1,
+        "Draw": 1.6
+      },
+      "Betclic (FR)": {
+        "Kasimpasa SK": 6.4,
+        "Trabzonspor": 3.08,
+        "Draw": 1.55
+      },
+      "Nordic Bet": {
+        "Kasimpasa SK": 6.3,
+        "Trabzonspor": 3.5,
+        "Draw": 1.58
+      },
+      "Winamax (DE)": {
+        "Kasimpasa SK": 6.25,
+        "Trabzonspor": 3.2,
+        "Draw": 1.58
+      },
+      "Betsson": {
+        "Kasimpasa SK": 5.8,
+        "Trabzonspor": 3.4,
+        "Draw": 1.6
+      },
+      "Coolbet": {
+        "Kasimpasa SK": 7.5,
+        "Trabzonspor": 3.5,
+        "Draw": 1.62
+      },
+      "Betfair": {
+        "Kasimpasa SK": 6.8,
+        "Trabzonspor": 3.6,
+        "Draw": 1.72
+      },
+      "888sport": {
+        "Kasimpasa SK": 6.0,
+        "Trabzonspor": 3.4,
+        "Draw": 1.53
+      },
+      "Pinnacle": {
+        "Kasimpasa SK": 5.7,
+        "Trabzonspor": 3.0,
+        "Draw": 1.79
+      },
+      "PMU (FR)": {
+        "Kasimpasa SK": 6.0,
+        "Trabzonspor": 3.4,
+        "Draw": 1.42
+      },
+      "LeoVegas (SE)": {
+        "Kasimpasa SK": 5.6,
+        "Trabzonspor": 3.2,
+        "Draw": 1.47
+      },
+      "Unibet (SE)": {
+        "Kasimpasa SK": 5.8,
+        "Trabzonspor": 3.4,
+        "Draw": 1.56
+      },
+      "Unibet (NL)": {
+        "Kasimpasa SK": 6.25,
+        "Trabzonspor": 3.6,
+        "Draw": 1.5
+      },
+      "Matchbook": {
+        "Kasimpasa SK": 8.0,
+        "Trabzonspor": 3.7,
+        "Draw": 1.62
       }
     }
   },
@@ -4891,6 +4896,230 @@
       "confidence": 1636,
       "alert_type": "value",
       "alerted_at": "2026-08-15T17:08:56.094036+00:00"
+    },
+    {
+      "state_key": "ee24e0a4e57e00f6243aa50b0fe379f7:h2h",
+      "event_id": "ee24e0a4e57e00f6243aa50b0fe379f7",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Kasimpasa SK",
+      "away_team": "Trabzonspor",
+      "commence_time": "2026-08-15T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Kasimpasa SK",
+      "odds_at_alert": 7.5,
+      "stake_pct": 5.0,
+      "confidence": 23,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T17:33:53.723957+00:00"
+    },
+    {
+      "state_key": "ee24e0a4e57e00f6243aa50b0fe379f7:h2h",
+      "event_id": "ee24e0a4e57e00f6243aa50b0fe379f7",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Kasimpasa SK",
+      "away_team": "Trabzonspor",
+      "commence_time": "2026-08-15T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Kasimpasa SK",
+      "odds_at_alert": 6.4,
+      "stake_pct": 2.0,
+      "confidence": 5,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T17:33:54.266415+00:00"
+    },
+    {
+      "state_key": "ee24e0a4e57e00f6243aa50b0fe379f7:h2h",
+      "event_id": "ee24e0a4e57e00f6243aa50b0fe379f7",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Kasimpasa SK",
+      "away_team": "Trabzonspor",
+      "commence_time": "2026-08-15T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Trabzonspor",
+      "odds_at_alert": 3.5,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T17:33:54.674246+00:00"
+    },
+    {
+      "state_key": "ee24e0a4e57e00f6243aa50b0fe379f7:h2h",
+      "event_id": "ee24e0a4e57e00f6243aa50b0fe379f7",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Kasimpasa SK",
+      "away_team": "Trabzonspor",
+      "commence_time": "2026-08-15T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Trabzonspor",
+      "odds_at_alert": 3.4,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T17:33:55.099086+00:00"
+    },
+    {
+      "state_key": "ee24e0a4e57e00f6243aa50b0fe379f7:h2h",
+      "event_id": "ee24e0a4e57e00f6243aa50b0fe379f7",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Kasimpasa SK",
+      "away_team": "Trabzonspor",
+      "commence_time": "2026-08-15T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Kasimpasa SK",
+      "odds_at_alert": 7.5,
+      "stake_pct": 5.0,
+      "confidence": 23,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T17:33:55.511252+00:00"
+    },
+    {
+      "state_key": "ee24e0a4e57e00f6243aa50b0fe379f7:h2h",
+      "event_id": "ee24e0a4e57e00f6243aa50b0fe379f7",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Kasimpasa SK",
+      "away_team": "Trabzonspor",
+      "commence_time": "2026-08-15T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Trabzonspor",
+      "odds_at_alert": 3.5,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T17:33:55.955946+00:00"
+    },
+    {
+      "state_key": "ee24e0a4e57e00f6243aa50b0fe379f7:h2h",
+      "event_id": "ee24e0a4e57e00f6243aa50b0fe379f7",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Kasimpasa SK",
+      "away_team": "Trabzonspor",
+      "commence_time": "2026-08-15T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Kasimpasa SK",
+      "odds_at_alert": 6.8,
+      "stake_pct": 3.0,
+      "confidence": 12,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T17:33:56.376535+00:00"
+    },
+    {
+      "state_key": "ee24e0a4e57e00f6243aa50b0fe379f7:h2h",
+      "event_id": "ee24e0a4e57e00f6243aa50b0fe379f7",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Kasimpasa SK",
+      "away_team": "Trabzonspor",
+      "commence_time": "2026-08-15T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Trabzonspor",
+      "odds_at_alert": 3.6,
+      "stake_pct": 3.0,
+      "confidence": 12,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T17:33:56.835703+00:00"
+    },
+    {
+      "state_key": "ee24e0a4e57e00f6243aa50b0fe379f7:h2h",
+      "event_id": "ee24e0a4e57e00f6243aa50b0fe379f7",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Kasimpasa SK",
+      "away_team": "Trabzonspor",
+      "commence_time": "2026-08-15T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Trabzonspor",
+      "odds_at_alert": 3.4,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T17:33:57.240047+00:00"
+    },
+    {
+      "state_key": "ee24e0a4e57e00f6243aa50b0fe379f7:h2h",
+      "event_id": "ee24e0a4e57e00f6243aa50b0fe379f7",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Kasimpasa SK",
+      "away_team": "Trabzonspor",
+      "commence_time": "2026-08-15T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Trabzonspor",
+      "odds_at_alert": 3.4,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T17:33:57.686943+00:00"
+    },
+    {
+      "state_key": "ee24e0a4e57e00f6243aa50b0fe379f7:h2h",
+      "event_id": "ee24e0a4e57e00f6243aa50b0fe379f7",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Kasimpasa SK",
+      "away_team": "Trabzonspor",
+      "commence_time": "2026-08-15T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Trabzonspor",
+      "odds_at_alert": 3.4,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T17:33:58.129650+00:00"
+    },
+    {
+      "state_key": "ee24e0a4e57e00f6243aa50b0fe379f7:h2h",
+      "event_id": "ee24e0a4e57e00f6243aa50b0fe379f7",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Kasimpasa SK",
+      "away_team": "Trabzonspor",
+      "commence_time": "2026-08-15T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Trabzonspor",
+      "odds_at_alert": 3.6,
+      "stake_pct": 3.0,
+      "confidence": 12,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T17:33:58.553977+00:00"
+    },
+    {
+      "state_key": "ee24e0a4e57e00f6243aa50b0fe379f7:h2h",
+      "event_id": "ee24e0a4e57e00f6243aa50b0fe379f7",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Kasimpasa SK",
+      "away_team": "Trabzonspor",
+      "commence_time": "2026-08-15T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Kasimpasa SK",
+      "odds_at_alert": 8.0,
+      "stake_pct": 5.0,
+      "confidence": 31,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T17:33:58.965107+00:00"
+    },
+    {
+      "state_key": "ee24e0a4e57e00f6243aa50b0fe379f7:h2h",
+      "event_id": "ee24e0a4e57e00f6243aa50b0fe379f7",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Kasimpasa SK",
+      "away_team": "Trabzonspor",
+      "commence_time": "2026-08-15T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Trabzonspor",
+      "odds_at_alert": 3.7,
+      "stake_pct": 5.0,
+      "confidence": 16,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T17:33:59.381593+00:00"
     }
   ],
   "results_history": [],
@@ -4906,6 +5135,20 @@
     "9dddd92d5b2905530810a7fbcbc3315e:h2h|Nordic Bet|Draw",
     "9dddd92d5b2905530810a7fbcbc3315e:h2h|Nordic Bet|Piast Gliwice",
     "9dddd92d5b2905530810a7fbcbc3315e:h2h|Winamax (DE)|Draw",
-    "9dddd92d5b2905530810a7fbcbc3315e:h2h|Winamax (DE)|Piast Gliwice"
+    "9dddd92d5b2905530810a7fbcbc3315e:h2h|Winamax (DE)|Piast Gliwice",
+    "ee24e0a4e57e00f6243aa50b0fe379f7:h2h|888sport|Trabzonspor",
+    "ee24e0a4e57e00f6243aa50b0fe379f7:h2h|Betclic (FR)|Kasimpasa SK",
+    "ee24e0a4e57e00f6243aa50b0fe379f7:h2h|Betfair|Kasimpasa SK",
+    "ee24e0a4e57e00f6243aa50b0fe379f7:h2h|Betfair|Trabzonspor",
+    "ee24e0a4e57e00f6243aa50b0fe379f7:h2h|Betsson|Trabzonspor",
+    "ee24e0a4e57e00f6243aa50b0fe379f7:h2h|Coolbet|Kasimpasa SK",
+    "ee24e0a4e57e00f6243aa50b0fe379f7:h2h|Coolbet|Trabzonspor",
+    "ee24e0a4e57e00f6243aa50b0fe379f7:h2h|Matchbook|Kasimpasa SK",
+    "ee24e0a4e57e00f6243aa50b0fe379f7:h2h|Matchbook|Trabzonspor",
+    "ee24e0a4e57e00f6243aa50b0fe379f7:h2h|Nordic Bet|Trabzonspor",
+    "ee24e0a4e57e00f6243aa50b0fe379f7:h2h|PMU (FR)|Trabzonspor",
+    "ee24e0a4e57e00f6243aa50b0fe379f7:h2h|Tipico|Kasimpasa SK",
+    "ee24e0a4e57e00f6243aa50b0fe379f7:h2h|Unibet (NL)|Trabzonspor",
+    "ee24e0a4e57e00f6243aa50b0fe379f7:h2h|Unibet (SE)|Trabzonspor"
   ]
 }
