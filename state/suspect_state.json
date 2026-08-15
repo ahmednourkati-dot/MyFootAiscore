@@ -1,181 +1,111 @@
 {
   "snapshots": {
-    "a8e9a685875cb280889d4a17f2c88550:h2h": {
+    "68b4b6cda1390551270bbbef33d6a6f2:h2h": {
       "Betclic (FR)": {
-        "Zagłębie Lubin": 1.0,
-        "Śląsk Wrocław": 100.0,
+        "AD Ceuta FC": 100.0,
+        "Andorra CF": 1.0,
         "Draw": 40.0
       },
       "Betsson": {
-        "Zagłębie Lubin": 1.05,
-        "Śląsk Wrocław": 80.0,
-        "Draw": 10.0
-      },
-      "Winamax (FR)": {
-        "Zagłębie Lubin": 1.04,
-        "Śląsk Wrocław": 300.0,
-        "Draw": 14.5
-      },
-      "Winamax (DE)": {
-        "Zagłębie Lubin": 1.02,
-        "Śląsk Wrocław": 300.0,
-        "Draw": 15.0
-      },
-      "Coolbet": {
-        "Zagłębie Lubin": 1.03,
-        "Śląsk Wrocław": 80.0,
-        "Draw": 11.0
+        "AD Ceuta FC": 81.0,
+        "Andorra CF": 1.0,
+        "Draw": 81.0
       },
       "Nordic Bet": {
-        "Zagłębie Lubin": 1.04,
-        "Śląsk Wrocław": 80.0,
-        "Draw": 13.0
-      },
-      "Betfair": {
-        "Zagłębie Lubin": 1.02,
-        "Śląsk Wrocław": 1000.0,
-        "Draw": 34.0
-      },
-      "888sport": {
-        "Zagłębie Lubin": 1.03,
-        "Śląsk Wrocław": 126.0,
-        "Draw": 13.0
+        "AD Ceuta FC": 81.0,
+        "Andorra CF": 1.0,
+        "Draw": 81.0
       }
     },
-    "ebfc9b77fbb7dd8ab9834f30ace9584e:h2h": {
-      "Betsson": {
-        "GIF Sundsvall": 130.0,
-        "Helsingborgs IF": 1.02,
+    "1fe48ff20e733913397bc30a8f4be1f7:h2h": {
+      "Winamax (DE)": {
+        "Austria Lustenau": 1.03,
+        "Wolfsberger AC": 450.0,
         "Draw": 12.0
       },
-      "Nordic Bet": {
-        "GIF Sundsvall": 130.0,
-        "Helsingborgs IF": 1.02,
-        "Draw": 11.0
-      },
-      "Betfair": {
-        "GIF Sundsvall": 15.5,
-        "Helsingborgs IF": 1.05,
-        "Draw": 4.8
+      "Coolbet": {
+        "Austria Lustenau": 1.03,
+        "Wolfsberger AC": 150.0,
+        "Draw": 10.1
       },
       "888sport": {
-        "GIF Sundsvall": 67.0,
-        "Helsingborgs IF": 1.08,
+        "Austria Lustenau": 1.08,
+        "Wolfsberger AC": 71.0,
         "Draw": 7.5
       },
-      "Tipico": {
-        "GIF Sundsvall": 20.0,
-        "Helsingborgs IF": 14.0,
-        "Draw": 1.02
-      },
-      "Coolbet": {
-        "GIF Sundsvall": 150.0,
-        "Helsingborgs IF": 1.01,
-        "Draw": 13.0
-      }
-    },
-    "f66d5c0307a1d2490c036414a7c8cbd3:h2h": {
-      "Betclic (FR)": {
-        "IK Sirius": 100.0,
-        "Mjällby AIF": 1.02,
-        "Draw": 17.75
-      },
-      "Winamax (DE)": {
-        "IK Sirius": 450.0,
-        "Mjällby AIF": 1.03,
+      "Winamax (FR)": {
+        "Austria Lustenau": 1.04,
+        "Wolfsberger AC": 450.0,
         "Draw": 13.5
       },
-      "Winamax (FR)": {
-        "IK Sirius": 1000.0,
-        "Mjällby AIF": 1.03,
-        "Draw": 17.0
+      "Betclic (FR)": {
+        "Austria Lustenau": 1.03,
+        "Wolfsberger AC": 100.0,
+        "Draw": 9.75
+      },
+      "Suprabets": {
+        "Austria Lustenau": 1.08,
+        "Wolfsberger AC": 61.0,
+        "Draw": 5.5
       },
       "Betsson": {
-        "IK Sirius": 101.0,
-        "Mjällby AIF": 1.0,
-        "Draw": 15.0
+        "Austria Lustenau": 1.05,
+        "Wolfsberger AC": 50.0,
+        "Draw": 6.8
       },
       "Nordic Bet": {
-        "IK Sirius": 126.0,
-        "Mjällby AIF": 1.0,
-        "Draw": 15.0
-      },
-      "Betfair": {
-        "IK Sirius": 1000.0,
-        "Mjällby AIF": 1.01,
-        "Draw": 50.0
-      },
-      "888sport": {
-        "IK Sirius": 61.0,
-        "Mjällby AIF": 1.1,
-        "Draw": 7.0
-      },
-      "Pinnacle": {
-        "IK Sirius": 5.26,
-        "Mjällby AIF": 6.84,
-        "Draw": 1.37
+        "Austria Lustenau": 1.06,
+        "Wolfsberger AC": 47.0,
+        "Draw": 6.3
       },
       "Tipico": {
-        "IK Sirius": 400.0,
-        "Mjällby AIF": 1.01,
-        "Draw": 20.0
+        "Austria Lustenau": 1.03,
+        "Wolfsberger AC": 250.0,
+        "Draw": 9.0
       },
-      "Coolbet": {
-        "IK Sirius": 500.0,
-        "Mjällby AIF": 1.01,
-        "Draw": 20.0
+      "Betfair": {
+        "Austria Lustenau": 1.06,
+        "Wolfsberger AC": 110.0,
+        "Draw": 11.5
       }
     },
-    "717764f0f41f66be0c913b7e3f131cb6:h2h": {
-      "Unibet (NL)": {
-        "Nordic United FC": 12.0,
-        "Varbergs BoIS": 15.0,
-        "Draw": 1.03
-      },
-      "LeoVegas (SE)": {
-        "Nordic United FC": 10.5,
-        "Varbergs BoIS": 12.5,
-        "Draw": 1.03
-      },
-      "Unibet (SE)": {
-        "Nordic United FC": 23.0,
-        "Varbergs BoIS": 67.0,
-        "Draw": 1.01
-      },
+    "d8702f3ee9a52f0232d3c264ff283e97:h2h": {
       "Nordic Bet": {
-        "Nordic United FC": 26.0,
-        "Varbergs BoIS": 26.0,
-        "Draw": 1.0
+        "Falkenbergs FF": 1.0,
+        "Norrby IF": 29.0,
+        "Draw": 26.0
       },
       "Betsson": {
-        "Nordic United FC": 15.0,
-        "Varbergs BoIS": 17.0,
-        "Draw": 1.05
-      },
-      "Pinnacle": {
-        "Nordic United FC": 4.12,
-        "Varbergs BoIS": 4.21,
-        "Draw": 1.68
-      },
-      "Tipico": {
-        "Nordic United FC": 12.0,
-        "Varbergs BoIS": 18.0,
-        "Draw": 1.03
-      },
-      "888sport": {
-        "Nordic United FC": 6.5,
-        "Varbergs BoIS": 7.0,
-        "Draw": 1.22
-      },
-      "Coolbet": {
-        "Nordic United FC": 16.0,
-        "Varbergs BoIS": 16.0,
-        "Draw": 1.05
+        "Falkenbergs FF": 1.0,
+        "Norrby IF": 26.0,
+        "Draw": 26.0
       },
       "Betfair": {
-        "Nordic United FC": 1.01,
-        "Varbergs BoIS": 1.01,
-        "Draw": 1.01
+        "Falkenbergs FF": 1.1,
+        "Norrby IF": 120.0,
+        "Draw": 9.4
+      },
+      "888sport": {
+        "Falkenbergs FF": 1.06,
+        "Norrby IF": 71.0,
+        "Draw": 8.0
+      },
+      "Pinnacle": {
+        "Falkenbergs FF": 1.16,
+        "Norrby IF": 30.44,
+        "Draw": 5.85
+      }
+    },
+    "496097c6e745c2b3fe9bfcb67dc731d9:h2h": {
+      "Betsson": {
+        "IFK Norrkoping": 1.0,
+        "Sandvikens IF": 26.0,
+        "Draw": 26.0
+      },
+      "Nordic Bet": {
+        "IFK Norrkoping": 1.0,
+        "Sandvikens IF": 26.0,
+        "Draw": 26.0
       }
     }
   },
@@ -5700,43 +5630,111 @@
       "confidence": 253,
       "alert_type": "value",
       "alerted_at": "2026-08-15T14:55:43.795580+00:00"
+    },
+    {
+      "state_key": "d8702f3ee9a52f0232d3c264ff283e97:h2h",
+      "event_id": "d8702f3ee9a52f0232d3c264ff283e97",
+      "sport_key": "soccer",
+      "competition": "Superettan - Sweden",
+      "home_team": "Falkenbergs FF",
+      "away_team": "Norrby IF",
+      "commence_time": "2026-08-15T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 317,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T16:56:48.420801+00:00"
+    },
+    {
+      "state_key": "d8702f3ee9a52f0232d3c264ff283e97:h2h",
+      "event_id": "d8702f3ee9a52f0232d3c264ff283e97",
+      "sport_key": "soccer",
+      "competition": "Superettan - Sweden",
+      "home_team": "Falkenbergs FF",
+      "away_team": "Norrby IF",
+      "commence_time": "2026-08-15T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 317,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T16:56:48.892351+00:00"
+    },
+    {
+      "state_key": "d8702f3ee9a52f0232d3c264ff283e97:h2h",
+      "event_id": "d8702f3ee9a52f0232d3c264ff283e97",
+      "sport_key": "soccer",
+      "competition": "Superettan - Sweden",
+      "home_team": "Falkenbergs FF",
+      "away_team": "Norrby IF",
+      "commence_time": "2026-08-15T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Norrby IF",
+      "odds_at_alert": 120.0,
+      "stake_pct": 5.0,
+      "confidence": 270,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T16:56:49.350112+00:00"
+    },
+    {
+      "state_key": "d8702f3ee9a52f0232d3c264ff283e97:h2h",
+      "event_id": "d8702f3ee9a52f0232d3c264ff283e97",
+      "sport_key": "soccer",
+      "competition": "Superettan - Sweden",
+      "home_team": "Falkenbergs FF",
+      "away_team": "Norrby IF",
+      "commence_time": "2026-08-15T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 9.4,
+      "stake_pct": 5.0,
+      "confidence": 51,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T16:56:49.756535+00:00"
+    },
+    {
+      "state_key": "d8702f3ee9a52f0232d3c264ff283e97:h2h",
+      "event_id": "d8702f3ee9a52f0232d3c264ff283e97",
+      "sport_key": "soccer",
+      "competition": "Superettan - Sweden",
+      "home_team": "Falkenbergs FF",
+      "away_team": "Norrby IF",
+      "commence_time": "2026-08-15T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Norrby IF",
+      "odds_at_alert": 71.0,
+      "stake_pct": 5.0,
+      "confidence": 119,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T16:56:50.155417+00:00"
+    },
+    {
+      "state_key": "d8702f3ee9a52f0232d3c264ff283e97:h2h",
+      "event_id": "d8702f3ee9a52f0232d3c264ff283e97",
+      "sport_key": "soccer",
+      "competition": "Superettan - Sweden",
+      "home_team": "Falkenbergs FF",
+      "away_team": "Norrby IF",
+      "commence_time": "2026-08-15T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 8.0,
+      "stake_pct": 5.0,
+      "confidence": 28,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T16:56:50.530272+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "717764f0f41f66be0c913b7e3f131cb6:h2h|888sport|Nordic United FC",
-    "717764f0f41f66be0c913b7e3f131cb6:h2h|888sport|Varbergs BoIS",
-    "717764f0f41f66be0c913b7e3f131cb6:h2h|Betsson|Nordic United FC",
-    "717764f0f41f66be0c913b7e3f131cb6:h2h|Betsson|Varbergs BoIS",
-    "717764f0f41f66be0c913b7e3f131cb6:h2h|Coolbet|Nordic United FC",
-    "717764f0f41f66be0c913b7e3f131cb6:h2h|Coolbet|Varbergs BoIS",
-    "717764f0f41f66be0c913b7e3f131cb6:h2h|LeoVegas (SE)|Nordic United FC",
-    "717764f0f41f66be0c913b7e3f131cb6:h2h|LeoVegas (SE)|Varbergs BoIS",
-    "717764f0f41f66be0c913b7e3f131cb6:h2h|Nordic Bet|Nordic United FC",
-    "717764f0f41f66be0c913b7e3f131cb6:h2h|Nordic Bet|Varbergs BoIS",
-    "717764f0f41f66be0c913b7e3f131cb6:h2h|Tipico|Nordic United FC",
-    "717764f0f41f66be0c913b7e3f131cb6:h2h|Tipico|Varbergs BoIS",
-    "717764f0f41f66be0c913b7e3f131cb6:h2h|Unibet (NL)|Nordic United FC",
-    "717764f0f41f66be0c913b7e3f131cb6:h2h|Unibet (NL)|Varbergs BoIS",
-    "717764f0f41f66be0c913b7e3f131cb6:h2h|Unibet (SE)|Nordic United FC",
-    "717764f0f41f66be0c913b7e3f131cb6:h2h|Unibet (SE)|Varbergs BoIS",
-    "f66d5c0307a1d2490c036414a7c8cbd3:h2h|888sport|Draw",
-    "f66d5c0307a1d2490c036414a7c8cbd3:h2h|888sport|IK Sirius",
-    "f66d5c0307a1d2490c036414a7c8cbd3:h2h|Betclic (FR)|Draw",
-    "f66d5c0307a1d2490c036414a7c8cbd3:h2h|Betclic (FR)|IK Sirius",
-    "f66d5c0307a1d2490c036414a7c8cbd3:h2h|Betfair|Draw",
-    "f66d5c0307a1d2490c036414a7c8cbd3:h2h|Betfair|IK Sirius",
-    "f66d5c0307a1d2490c036414a7c8cbd3:h2h|Betsson|Draw",
-    "f66d5c0307a1d2490c036414a7c8cbd3:h2h|Betsson|IK Sirius",
-    "f66d5c0307a1d2490c036414a7c8cbd3:h2h|Coolbet|Draw",
-    "f66d5c0307a1d2490c036414a7c8cbd3:h2h|Coolbet|IK Sirius",
-    "f66d5c0307a1d2490c036414a7c8cbd3:h2h|Nordic Bet|Draw",
-    "f66d5c0307a1d2490c036414a7c8cbd3:h2h|Nordic Bet|IK Sirius",
-    "f66d5c0307a1d2490c036414a7c8cbd3:h2h|Tipico|Draw",
-    "f66d5c0307a1d2490c036414a7c8cbd3:h2h|Tipico|IK Sirius",
-    "f66d5c0307a1d2490c036414a7c8cbd3:h2h|Winamax (DE)|Draw",
-    "f66d5c0307a1d2490c036414a7c8cbd3:h2h|Winamax (DE)|IK Sirius",
-    "f66d5c0307a1d2490c036414a7c8cbd3:h2h|Winamax (FR)|Draw",
-    "f66d5c0307a1d2490c036414a7c8cbd3:h2h|Winamax (FR)|IK Sirius"
+    "d8702f3ee9a52f0232d3c264ff283e97:h2h|888sport|Draw",
+    "d8702f3ee9a52f0232d3c264ff283e97:h2h|888sport|Norrby IF",
+    "d8702f3ee9a52f0232d3c264ff283e97:h2h|Betfair|Draw",
+    "d8702f3ee9a52f0232d3c264ff283e97:h2h|Betfair|Norrby IF",
+    "d8702f3ee9a52f0232d3c264ff283e97:h2h|Betsson|Draw",
+    "d8702f3ee9a52f0232d3c264ff283e97:h2h|Nordic Bet|Draw"
   ]
 }
