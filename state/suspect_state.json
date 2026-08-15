@@ -1,194 +1,241 @@
 {
   "snapshots": {
-    "d9fd91211d0dc2b9bcea23337b4df06c:h2h": {
-      "Betfair": {
-        "Al-Ittihad": 1.42,
-        "Al-Kholood": 5.9,
-        "Draw": 1.02
+    "76802bbcfb4b3e7fdaee3b037a6f7ace:h2h": {
+      "Winamax (FR)": {
+        "1. FC Kaiserslautern": 9.5,
+        "Karlsruher SC": 15.0,
+        "Draw": 1.11
       },
-      "Betclic (FR)": {
-        "Al-Ittihad": 15.75,
-        "Al-Kholood": 13.25,
+      "Betsson": {
+        "1. FC Kaiserslautern": 15.0,
+        "Karlsruher SC": 21.0,
         "Draw": 1.04
       },
       "Pinnacle": {
-        "Al-Ittihad": 4.79,
-        "Al-Kholood": 3.93,
-        "Draw": 1.62
-      },
-      "Unibet (NL)": {
-        "Al-Ittihad": 15.0,
-        "Al-Kholood": 18.0,
-        "Draw": 1.01
+        "1. FC Kaiserslautern": 5.02,
+        "Karlsruher SC": 5.55,
+        "Draw": 1.48
       },
       "Winamax (DE)": {
-        "Al-Ittihad": 34.0,
-        "Al-Kholood": 27.0,
-        "Draw": 1.02
+        "1. FC Kaiserslautern": 10.5,
+        "Karlsruher SC": 16.0,
+        "Draw": 1.09
       },
-      "Unibet (SE)": {
-        "Al-Ittihad": 29.0,
-        "Al-Kholood": 30.0,
-        "Draw": 1.02
-      },
-      "Tipico": {
-        "Al-Ittihad": 22.0,
-        "Al-Kholood": 12.0,
+      "Nordic Bet": {
+        "1. FC Kaiserslautern": 17.0,
+        "Karlsruher SC": 21.0,
         "Draw": 1.03
       },
-      "Winamax (FR)": {
-        "Al-Ittihad": 38.0,
-        "Al-Kholood": 30.0,
+      "Coolbet": {
+        "1. FC Kaiserslautern": 16.0,
+        "Karlsruher SC": 20.0,
+        "Draw": 1.04
+      },
+      "Betclic (FR)": {
+        "1. FC Kaiserslautern": 9.75,
+        "Karlsruher SC": 12.25,
+        "Draw": 1.07
+      },
+      "Suprabets": {
+        "1. FC Kaiserslautern": 4.8,
+        "Karlsruher SC": 5.7,
+        "Draw": 1.42
+      },
+      "Betfair": {
+        "1. FC Kaiserslautern": 48.0,
+        "Karlsruher SC": 27.0,
+        "Draw": 1.04
+      },
+      "Tipico": {
+        "1. FC Kaiserslautern": 20.0,
+        "Karlsruher SC": 30.0,
         "Draw": 1.02
       },
-      "LeoVegas (SE)": {
-        "Al-Ittihad": 13.0,
-        "Al-Kholood": 15.0,
-        "Draw": 1.02
+      "888sport": {
+        "1. FC Kaiserslautern": 11.0,
+        "Karlsruher SC": 17.0,
+        "Draw": 1.08
+      },
+      "Matchbook": {
+        "1. FC Kaiserslautern": 50.0,
+        "Karlsruher SC": 27.0,
+        "Draw": 1.03
+      },
+      "Unibet (NL)": {
+        "1. FC Kaiserslautern": 9.5,
+        "Karlsruher SC": 25.0,
+        "Draw": 1.03
       },
       "PMU (FR)": {
-        "Al-Ittihad": 9.5,
-        "Al-Kholood": 10.5,
+        "1. FC Kaiserslautern": 9.5,
+        "Karlsruher SC": 9.5,
+        "Draw": 1.01
+      },
+      "LeoVegas (SE)": {
+        "1. FC Kaiserslautern": 9.0,
+        "Karlsruher SC": 25.0,
+        "Draw": 1.01
+      },
+      "Unibet (SE)": {
+        "1. FC Kaiserslautern": 34.0,
+        "Karlsruher SC": 36.0,
+        "Draw": 1.01
+      }
+    },
+    "6ad55a85cb05238b359ebd58534a8f85:h2h": {
+      "Winamax (FR)": {
+        "Alanyaspor": 36.0,
+        "Gazişehir Gaziantep": 30.0,
+        "Draw": 1.03
+      },
+      "Tipico": {
+        "Alanyaspor": 25.0,
+        "Gazişehir Gaziantep": 15.0,
+        "Draw": 1.02
+      },
+      "Betclic (FR)": {
+        "Alanyaspor": 13.0,
+        "Gazişehir Gaziantep": 11.0,
+        "Draw": 1.05
+      },
+      "Nordic Bet": {
+        "Alanyaspor": 10.5,
+        "Gazişehir Gaziantep": 9.1,
+        "Draw": 1.15
+      },
+      "Winamax (DE)": {
+        "Alanyaspor": 32.0,
+        "Gazişehir Gaziantep": 27.0,
+        "Draw": 1.02
+      },
+      "Betsson": {
+        "Alanyaspor": 12.5,
+        "Gazişehir Gaziantep": 11.5,
+        "Draw": 1.1
+      },
+      "Coolbet": {
+        "Alanyaspor": 25.0,
+        "Gazişehir Gaziantep": 22.0,
+        "Draw": 1.05
+      },
+      "Betfair": {
+        "Alanyaspor": 50.0,
+        "Gazişehir Gaziantep": 26.0,
         "Draw": 1.01
       },
       "888sport": {
-        "Al-Ittihad": 13.0,
-        "Al-Kholood": 11.0,
+        "Alanyaspor": 17.0,
+        "Gazişehir Gaziantep": 13.0,
         "Draw": 1.06
+      },
+      "Pinnacle": {
+        "Alanyaspor": 7.47,
+        "Gazişehir Gaziantep": 6.42,
+        "Draw": 1.29
+      },
+      "Unibet (SE)": {
+        "Alanyaspor": 36.0,
+        "Gazişehir Gaziantep": 31.0,
+        "Draw": 1.01
+      },
+      "Unibet (NL)": {
+        "Alanyaspor": 17.0,
+        "Gazişehir Gaziantep": 29.0,
+        "Draw": 1.02
       }
     },
-    "6ba35bfd1258e3e284f60968ef6d8cf3:h2h": {
-      "Pinnacle": {
-        "Korona Kielce": 1.32,
-        "Widzew Łódź": 16.22,
-        "Draw": 4.17
-      },
-      "Betsson": {
-        "Korona Kielce": 1.05,
-        "Widzew Łódź": 65.0,
-        "Draw": 8.2
-      },
-      "Nordic Bet": {
-        "Korona Kielce": 1.05,
-        "Widzew Łódź": 65.0,
-        "Draw": 7.7
-      },
-      "Betclic (FR)": {
-        "Korona Kielce": 1.01,
-        "Widzew Łódź": 100.0,
-        "Draw": 15.0
-      },
+    "a2696a2dea66eab68abe0a05755f8cb7:h2h": {
       "Winamax (FR)": {
-        "Korona Kielce": 1.06,
-        "Widzew Łódź": 110.0,
-        "Draw": 9.5
-      },
-      "Winamax (DE)": {
-        "Korona Kielce": 1.04,
-        "Widzew Łódź": 110.0,
-        "Draw": 10.5
+        "Fenerbahce": 400.0,
+        "Genclerbirligi SK": 1.08,
+        "Draw": 8.0
       },
       "Tipico": {
-        "Korona Kielce": 1.01,
-        "Widzew Łódź": 400.0,
-        "Draw": 25.0
+        "Fenerbahce": 400.0,
+        "Genclerbirligi SK": 1.03,
+        "Draw": 13.0
+      },
+      "Betclic (FR)": {
+        "Fenerbahce": 100.0,
+        "Genclerbirligi SK": 1.04,
+        "Draw": 9.5
+      },
+      "Nordic Bet": {
+        "Fenerbahce": 140.0,
+        "Genclerbirligi SK": 1.04,
+        "Draw": 11.5
+      },
+      "Winamax (DE)": {
+        "Fenerbahce": 250.0,
+        "Genclerbirligi SK": 1.06,
+        "Draw": 8.0
+      },
+      "Betsson": {
+        "Fenerbahce": 280.0,
+        "Genclerbirligi SK": 1.04,
+        "Draw": 15.0
       },
       "Coolbet": {
-        "Korona Kielce": 1.04,
-        "Widzew Łódź": 150.0,
-        "Draw": 10.0
+        "Fenerbahce": 66.0,
+        "Genclerbirligi SK": 1.2,
+        "Draw": 5.0
       },
       "Betfair": {
-        "Korona Kielce": 1.01,
-        "Widzew Łódź": 130.0,
+        "Fenerbahce": 1000.0,
+        "Genclerbirligi SK": 1.02,
         "Draw": 34.0
       },
       "888sport": {
-        "Korona Kielce": 1.06,
-        "Widzew Łódź": 81.0,
+        "Fenerbahce": 51.0,
+        "Genclerbirligi SK": 1.11,
+        "Draw": 6.5
+      },
+      "Pinnacle": {
+        "Fenerbahce": 8.57,
+        "Genclerbirligi SK": 1.57,
+        "Draw": 3.2
+      },
+      "LeoVegas (SE)": {
+        "Fenerbahce": 81.0,
+        "Genclerbirligi SK": 1.02,
         "Draw": 8.5
       }
     },
-    "76802bbcfb4b3e7fdaee3b037a6f7ace:h2h": {
-      "Winamax (FR)": {
-        "1. FC Kaiserslautern": 3.7,
-        "Karlsruher SC": 3.95,
-        "Draw": 1.64
-      },
-      "Betsson": {
-        "1. FC Kaiserslautern": 3.9,
-        "Karlsruher SC": 4.1,
-        "Draw": 1.68
-      },
-      "Pinnacle": {
-        "1. FC Kaiserslautern": 3.33,
-        "Karlsruher SC": 3.95,
-        "Draw": 1.99
-      },
+    "150ba88bff0cd47db54e0d58f8468171:h2h": {
       "Winamax (DE)": {
-        "1. FC Kaiserslautern": 3.9,
-        "Karlsruher SC": 4.0,
-        "Draw": 1.66
+        "Club Brugge": 1.01,
+        "Leuven": 200.0,
+        "Draw": 32.0
       },
-      "Nordic Bet": {
-        "1. FC Kaiserslautern": 3.9,
-        "Karlsruher SC": 4.2,
-        "Draw": 1.65
-      },
-      "Coolbet": {
-        "1. FC Kaiserslautern": 4.0,
-        "Karlsruher SC": 4.33,
-        "Draw": 1.67
+      "Winamax (FR)": {
+        "Club Brugge": 1.01,
+        "Leuven": 200.0,
+        "Draw": 32.0
       },
       "Betclic (FR)": {
-        "1. FC Kaiserslautern": 3.6,
-        "Karlsruher SC": 3.8,
-        "Draw": 1.72
+        "Club Brugge": 1.0,
+        "Leuven": 100.0,
+        "Draw": 40.0
       },
-      "Suprabets": {
-        "1. FC Kaiserslautern": 3.5,
-        "Karlsruher SC": 3.95,
-        "Draw": 1.8
+      "Betsson": {
+        "Club Brugge": 1.0,
+        "Leuven": 26.0,
+        "Draw": 26.0
+      },
+      "Nordic Bet": {
+        "Club Brugge": 1.0,
+        "Leuven": 26.0,
+        "Draw": 26.0
       },
       "Betfair": {
-        "1. FC Kaiserslautern": 4.3,
-        "Karlsruher SC": 4.8,
-        "Draw": 1.75
-      },
-      "Tipico": {
-        "1. FC Kaiserslautern": 4.3,
-        "Karlsruher SC": 4.0,
-        "Draw": 1.65
+        "Club Brugge": 1.01,
+        "Leuven": 1000.0,
+        "Draw": 50.0
       },
       "888sport": {
-        "1. FC Kaiserslautern": 3.8,
-        "Karlsruher SC": 4.2,
-        "Draw": 1.65
-      },
-      "Matchbook": {
-        "1. FC Kaiserslautern": 4.6,
-        "Karlsruher SC": 4.7,
-        "Draw": 1.69
-      },
-      "Unibet (NL)": {
-        "1. FC Kaiserslautern": 3.8,
-        "Karlsruher SC": 4.4,
-        "Draw": 1.63
-      },
-      "PMU (FR)": {
-        "1. FC Kaiserslautern": 3.75,
-        "Karlsruher SC": 3.8,
-        "Draw": 1.48
-      },
-      "LeoVegas (SE)": {
-        "1. FC Kaiserslautern": 3.6,
-        "Karlsruher SC": 4.2,
-        "Draw": 1.53
-      },
-      "Unibet (SE)": {
-        "1. FC Kaiserslautern": 3.8,
-        "Karlsruher SC": 4.4,
-        "Draw": 1.63
+        "Club Brugge": 1.0,
+        "Leuven": 151.0,
+        "Draw": 61.0
       }
     }
   },
@@ -7633,62 +7680,943 @@
       "confidence": 5,
       "alert_type": "value",
       "alerted_at": "2026-08-15T20:08:53.780256+00:00"
+    },
+    {
+      "state_key": "76802bbcfb4b3e7fdaee3b037a6f7ace:h2h",
+      "event_id": "76802bbcfb4b3e7fdaee3b037a6f7ace",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "1. FC Kaiserslautern",
+      "away_team": "Karlsruher SC",
+      "commence_time": "2026-08-15T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Karlsruher SC",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 156,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T20:33:29.666460+00:00"
+    },
+    {
+      "state_key": "76802bbcfb4b3e7fdaee3b037a6f7ace:h2h",
+      "event_id": "76802bbcfb4b3e7fdaee3b037a6f7ace",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "1. FC Kaiserslautern",
+      "away_team": "Karlsruher SC",
+      "commence_time": "2026-08-15T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Karlsruher SC",
+      "odds_at_alert": 21.0,
+      "stake_pct": 5.0,
+      "confidence": 259,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T20:33:30.087377+00:00"
+    },
+    {
+      "state_key": "76802bbcfb4b3e7fdaee3b037a6f7ace:h2h",
+      "event_id": "76802bbcfb4b3e7fdaee3b037a6f7ace",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "1. FC Kaiserslautern",
+      "away_team": "Karlsruher SC",
+      "commence_time": "2026-08-15T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Karlsruher SC",
+      "odds_at_alert": 16.0,
+      "stake_pct": 5.0,
+      "confidence": 173,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T20:33:30.511446+00:00"
+    },
+    {
+      "state_key": "76802bbcfb4b3e7fdaee3b037a6f7ace:h2h",
+      "event_id": "76802bbcfb4b3e7fdaee3b037a6f7ace",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "1. FC Kaiserslautern",
+      "away_team": "Karlsruher SC",
+      "commence_time": "2026-08-15T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Karlsruher SC",
+      "odds_at_alert": 21.0,
+      "stake_pct": 5.0,
+      "confidence": 259,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T20:33:30.962536+00:00"
+    },
+    {
+      "state_key": "76802bbcfb4b3e7fdaee3b037a6f7ace:h2h",
+      "event_id": "76802bbcfb4b3e7fdaee3b037a6f7ace",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "1. FC Kaiserslautern",
+      "away_team": "Karlsruher SC",
+      "commence_time": "2026-08-15T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Karlsruher SC",
+      "odds_at_alert": 20.0,
+      "stake_pct": 5.0,
+      "confidence": 242,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T20:33:31.393665+00:00"
+    },
+    {
+      "state_key": "76802bbcfb4b3e7fdaee3b037a6f7ace:h2h",
+      "event_id": "76802bbcfb4b3e7fdaee3b037a6f7ace",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "1. FC Kaiserslautern",
+      "away_team": "Karlsruher SC",
+      "commence_time": "2026-08-15T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "1. FC Kaiserslautern",
+      "odds_at_alert": 9.75,
+      "stake_pct": 5.0,
+      "confidence": 84,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T20:33:31.810122+00:00"
+    },
+    {
+      "state_key": "76802bbcfb4b3e7fdaee3b037a6f7ace:h2h",
+      "event_id": "76802bbcfb4b3e7fdaee3b037a6f7ace",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "1. FC Kaiserslautern",
+      "away_team": "Karlsruher SC",
+      "commence_time": "2026-08-15T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Karlsruher SC",
+      "odds_at_alert": 12.25,
+      "stake_pct": 5.0,
+      "confidence": 109,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T20:33:32.223447+00:00"
+    },
+    {
+      "state_key": "76802bbcfb4b3e7fdaee3b037a6f7ace:h2h",
+      "event_id": "76802bbcfb4b3e7fdaee3b037a6f7ace",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "1. FC Kaiserslautern",
+      "away_team": "Karlsruher SC",
+      "commence_time": "2026-08-15T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Karlsruher SC",
+      "odds_at_alert": 30.0,
+      "stake_pct": 5.0,
+      "confidence": 412,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T20:33:32.669310+00:00"
+    },
+    {
+      "state_key": "76802bbcfb4b3e7fdaee3b037a6f7ace:h2h",
+      "event_id": "76802bbcfb4b3e7fdaee3b037a6f7ace",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "1. FC Kaiserslautern",
+      "away_team": "Karlsruher SC",
+      "commence_time": "2026-08-15T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Karlsruher SC",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 190,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T20:33:33.090848+00:00"
+    },
+    {
+      "state_key": "76802bbcfb4b3e7fdaee3b037a6f7ace:h2h",
+      "event_id": "76802bbcfb4b3e7fdaee3b037a6f7ace",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "1. FC Kaiserslautern",
+      "away_team": "Karlsruher SC",
+      "commence_time": "2026-08-15T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Karlsruher SC",
+      "odds_at_alert": 9.5,
+      "stake_pct": 5.0,
+      "confidence": 62,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T20:33:33.526010+00:00"
+    },
+    {
+      "state_key": "76802bbcfb4b3e7fdaee3b037a6f7ace:h2h",
+      "event_id": "76802bbcfb4b3e7fdaee3b037a6f7ace",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "1. FC Kaiserslautern",
+      "away_team": "Karlsruher SC",
+      "commence_time": "2026-08-15T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "1. FC Kaiserslautern",
+      "odds_at_alert": 9.0,
+      "stake_pct": 5.0,
+      "confidence": 70,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T20:33:33.971309+00:00"
+    },
+    {
+      "state_key": "76802bbcfb4b3e7fdaee3b037a6f7ace:h2h",
+      "event_id": "76802bbcfb4b3e7fdaee3b037a6f7ace",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "1. FC Kaiserslautern",
+      "away_team": "Karlsruher SC",
+      "commence_time": "2026-08-15T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Karlsruher SC",
+      "odds_at_alert": 25.0,
+      "stake_pct": 5.0,
+      "confidence": 327,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T20:33:34.388201+00:00"
+    },
+    {
+      "state_key": "6ad55a85cb05238b359ebd58534a8f85:h2h",
+      "event_id": "6ad55a85cb05238b359ebd58534a8f85",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Gazişehir Gaziantep",
+      "away_team": "Alanyaspor",
+      "commence_time": "2026-08-15T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Alanyaspor",
+      "odds_at_alert": 36.0,
+      "stake_pct": 5.0,
+      "confidence": 353,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T20:33:34.831040+00:00"
+    },
+    {
+      "state_key": "6ad55a85cb05238b359ebd58534a8f85:h2h",
+      "event_id": "6ad55a85cb05238b359ebd58534a8f85",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Gazişehir Gaziantep",
+      "away_team": "Alanyaspor",
+      "commence_time": "2026-08-15T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gazişehir Gaziantep",
+      "odds_at_alert": 30.0,
+      "stake_pct": 5.0,
+      "confidence": 339,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T20:33:35.253618+00:00"
+    },
+    {
+      "state_key": "6ad55a85cb05238b359ebd58534a8f85:h2h",
+      "event_id": "6ad55a85cb05238b359ebd58534a8f85",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Gazişehir Gaziantep",
+      "away_team": "Alanyaspor",
+      "commence_time": "2026-08-15T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Alanyaspor",
+      "odds_at_alert": 25.0,
+      "stake_pct": 5.0,
+      "confidence": 214,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T20:33:35.688712+00:00"
+    },
+    {
+      "state_key": "6ad55a85cb05238b359ebd58534a8f85:h2h",
+      "event_id": "6ad55a85cb05238b359ebd58534a8f85",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Gazişehir Gaziantep",
+      "away_team": "Alanyaspor",
+      "commence_time": "2026-08-15T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gazişehir Gaziantep",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 119,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T20:33:36.130372+00:00"
+    },
+    {
+      "state_key": "6ad55a85cb05238b359ebd58534a8f85:h2h",
+      "event_id": "6ad55a85cb05238b359ebd58534a8f85",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Gazişehir Gaziantep",
+      "away_team": "Alanyaspor",
+      "commence_time": "2026-08-15T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Alanyaspor",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 63,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T20:33:36.572033+00:00"
+    },
+    {
+      "state_key": "6ad55a85cb05238b359ebd58534a8f85:h2h",
+      "event_id": "6ad55a85cb05238b359ebd58534a8f85",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Gazişehir Gaziantep",
+      "away_team": "Alanyaspor",
+      "commence_time": "2026-08-15T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gazişehir Gaziantep",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 61,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T20:33:36.980157+00:00"
+    },
+    {
+      "state_key": "6ad55a85cb05238b359ebd58534a8f85:h2h",
+      "event_id": "6ad55a85cb05238b359ebd58534a8f85",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Gazişehir Gaziantep",
+      "away_team": "Alanyaspor",
+      "commence_time": "2026-08-15T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Alanyaspor",
+      "odds_at_alert": 10.5,
+      "stake_pct": 5.0,
+      "confidence": 32,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T20:33:37.426420+00:00"
+    },
+    {
+      "state_key": "6ad55a85cb05238b359ebd58534a8f85:h2h",
+      "event_id": "6ad55a85cb05238b359ebd58534a8f85",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Gazişehir Gaziantep",
+      "away_team": "Alanyaspor",
+      "commence_time": "2026-08-15T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gazişehir Gaziantep",
+      "odds_at_alert": 9.1,
+      "stake_pct": 5.0,
+      "confidence": 33,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T20:33:37.862855+00:00"
+    },
+    {
+      "state_key": "6ad55a85cb05238b359ebd58534a8f85:h2h",
+      "event_id": "6ad55a85cb05238b359ebd58534a8f85",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Gazişehir Gaziantep",
+      "away_team": "Alanyaspor",
+      "commence_time": "2026-08-15T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Alanyaspor",
+      "odds_at_alert": 32.0,
+      "stake_pct": 5.0,
+      "confidence": 302,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T20:33:38.285095+00:00"
+    },
+    {
+      "state_key": "6ad55a85cb05238b359ebd58534a8f85:h2h",
+      "event_id": "6ad55a85cb05238b359ebd58534a8f85",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Gazişehir Gaziantep",
+      "away_team": "Alanyaspor",
+      "commence_time": "2026-08-15T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gazişehir Gaziantep",
+      "odds_at_alert": 27.0,
+      "stake_pct": 5.0,
+      "confidence": 295,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T20:33:38.729201+00:00"
+    },
+    {
+      "state_key": "6ad55a85cb05238b359ebd58534a8f85:h2h",
+      "event_id": "6ad55a85cb05238b359ebd58534a8f85",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Gazişehir Gaziantep",
+      "away_team": "Alanyaspor",
+      "commence_time": "2026-08-15T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Alanyaspor",
+      "odds_at_alert": 12.5,
+      "stake_pct": 5.0,
+      "confidence": 57,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T20:33:39.160842+00:00"
+    },
+    {
+      "state_key": "6ad55a85cb05238b359ebd58534a8f85:h2h",
+      "event_id": "6ad55a85cb05238b359ebd58534a8f85",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Gazişehir Gaziantep",
+      "away_team": "Alanyaspor",
+      "commence_time": "2026-08-15T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gazişehir Gaziantep",
+      "odds_at_alert": 11.5,
+      "stake_pct": 5.0,
+      "confidence": 68,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T20:33:39.578084+00:00"
+    },
+    {
+      "state_key": "6ad55a85cb05238b359ebd58534a8f85:h2h",
+      "event_id": "6ad55a85cb05238b359ebd58534a8f85",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Gazişehir Gaziantep",
+      "away_team": "Alanyaspor",
+      "commence_time": "2026-08-15T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Alanyaspor",
+      "odds_at_alert": 25.0,
+      "stake_pct": 5.0,
+      "confidence": 214,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T20:33:39.992696+00:00"
+    },
+    {
+      "state_key": "6ad55a85cb05238b359ebd58534a8f85:h2h",
+      "event_id": "6ad55a85cb05238b359ebd58534a8f85",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Gazişehir Gaziantep",
+      "away_team": "Alanyaspor",
+      "commence_time": "2026-08-15T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gazişehir Gaziantep",
+      "odds_at_alert": 22.0,
+      "stake_pct": 5.0,
+      "confidence": 222,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T20:33:40.443390+00:00"
+    },
+    {
+      "state_key": "6ad55a85cb05238b359ebd58534a8f85:h2h",
+      "event_id": "6ad55a85cb05238b359ebd58534a8f85",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Gazişehir Gaziantep",
+      "away_team": "Alanyaspor",
+      "commence_time": "2026-08-15T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Alanyaspor",
+      "odds_at_alert": 50.0,
+      "stake_pct": 5.0,
+      "confidence": 529,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T20:33:40.856052+00:00"
+    },
+    {
+      "state_key": "6ad55a85cb05238b359ebd58534a8f85:h2h",
+      "event_id": "6ad55a85cb05238b359ebd58534a8f85",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Gazişehir Gaziantep",
+      "away_team": "Alanyaspor",
+      "commence_time": "2026-08-15T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gazişehir Gaziantep",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 280,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T20:33:41.286938+00:00"
+    },
+    {
+      "state_key": "6ad55a85cb05238b359ebd58534a8f85:h2h",
+      "event_id": "6ad55a85cb05238b359ebd58534a8f85",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Gazişehir Gaziantep",
+      "away_team": "Alanyaspor",
+      "commence_time": "2026-08-15T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Alanyaspor",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 114,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T20:33:41.706194+00:00"
+    },
+    {
+      "state_key": "6ad55a85cb05238b359ebd58534a8f85:h2h",
+      "event_id": "6ad55a85cb05238b359ebd58534a8f85",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Gazişehir Gaziantep",
+      "away_team": "Alanyaspor",
+      "commence_time": "2026-08-15T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gazişehir Gaziantep",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 90,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T20:33:42.141801+00:00"
+    },
+    {
+      "state_key": "6ad55a85cb05238b359ebd58534a8f85:h2h",
+      "event_id": "6ad55a85cb05238b359ebd58534a8f85",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Gazişehir Gaziantep",
+      "away_team": "Alanyaspor",
+      "commence_time": "2026-08-15T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Alanyaspor",
+      "odds_at_alert": 36.0,
+      "stake_pct": 5.0,
+      "confidence": 353,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T20:33:42.564296+00:00"
+    },
+    {
+      "state_key": "6ad55a85cb05238b359ebd58534a8f85:h2h",
+      "event_id": "6ad55a85cb05238b359ebd58534a8f85",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Gazişehir Gaziantep",
+      "away_team": "Alanyaspor",
+      "commence_time": "2026-08-15T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gazişehir Gaziantep",
+      "odds_at_alert": 31.0,
+      "stake_pct": 5.0,
+      "confidence": 353,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T20:33:42.998586+00:00"
+    },
+    {
+      "state_key": "6ad55a85cb05238b359ebd58534a8f85:h2h",
+      "event_id": "6ad55a85cb05238b359ebd58534a8f85",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Gazişehir Gaziantep",
+      "away_team": "Alanyaspor",
+      "commence_time": "2026-08-15T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Alanyaspor",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 114,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T20:33:43.421520+00:00"
+    },
+    {
+      "state_key": "6ad55a85cb05238b359ebd58534a8f85:h2h",
+      "event_id": "6ad55a85cb05238b359ebd58534a8f85",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Gazişehir Gaziantep",
+      "away_team": "Alanyaspor",
+      "commence_time": "2026-08-15T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gazişehir Gaziantep",
+      "odds_at_alert": 29.0,
+      "stake_pct": 5.0,
+      "confidence": 324,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T20:33:43.859812+00:00"
+    },
+    {
+      "state_key": "a2696a2dea66eab68abe0a05755f8cb7:h2h",
+      "event_id": "a2696a2dea66eab68abe0a05755f8cb7",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Genclerbirligi SK",
+      "away_team": "Fenerbahce",
+      "commence_time": "2026-08-15T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Fenerbahce",
+      "odds_at_alert": 400.0,
+      "stake_pct": 5.0,
+      "confidence": 4278,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T20:33:44.302093+00:00"
+    },
+    {
+      "state_key": "a2696a2dea66eab68abe0a05755f8cb7:h2h",
+      "event_id": "a2696a2dea66eab68abe0a05755f8cb7",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Genclerbirligi SK",
+      "away_team": "Fenerbahce",
+      "commence_time": "2026-08-15T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 8.0,
+      "stake_pct": 5.0,
+      "confidence": 134,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T20:33:44.733724+00:00"
+    },
+    {
+      "state_key": "a2696a2dea66eab68abe0a05755f8cb7:h2h",
+      "event_id": "a2696a2dea66eab68abe0a05755f8cb7",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Genclerbirligi SK",
+      "away_team": "Fenerbahce",
+      "commence_time": "2026-08-15T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Fenerbahce",
+      "odds_at_alert": 400.0,
+      "stake_pct": 5.0,
+      "confidence": 4278,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T20:33:45.146360+00:00"
+    },
+    {
+      "state_key": "a2696a2dea66eab68abe0a05755f8cb7:h2h",
+      "event_id": "a2696a2dea66eab68abe0a05755f8cb7",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Genclerbirligi SK",
+      "away_team": "Fenerbahce",
+      "commence_time": "2026-08-15T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 281,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T20:33:45.609085+00:00"
+    },
+    {
+      "state_key": "a2696a2dea66eab68abe0a05755f8cb7:h2h",
+      "event_id": "a2696a2dea66eab68abe0a05755f8cb7",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Genclerbirligi SK",
+      "away_team": "Fenerbahce",
+      "commence_time": "2026-08-15T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Fenerbahce",
+      "odds_at_alert": 100.0,
+      "stake_pct": 5.0,
+      "confidence": 994,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T20:33:46.031065+00:00"
+    },
+    {
+      "state_key": "a2696a2dea66eab68abe0a05755f8cb7:h2h",
+      "event_id": "a2696a2dea66eab68abe0a05755f8cb7",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Genclerbirligi SK",
+      "away_team": "Fenerbahce",
+      "commence_time": "2026-08-15T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 9.5,
+      "stake_pct": 5.0,
+      "confidence": 178,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T20:33:46.464725+00:00"
+    },
+    {
+      "state_key": "a2696a2dea66eab68abe0a05755f8cb7:h2h",
+      "event_id": "a2696a2dea66eab68abe0a05755f8cb7",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Genclerbirligi SK",
+      "away_team": "Fenerbahce",
+      "commence_time": "2026-08-15T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Fenerbahce",
+      "odds_at_alert": 140.0,
+      "stake_pct": 5.0,
+      "confidence": 1432,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T20:33:46.913010+00:00"
+    },
+    {
+      "state_key": "a2696a2dea66eab68abe0a05755f8cb7:h2h",
+      "event_id": "a2696a2dea66eab68abe0a05755f8cb7",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Genclerbirligi SK",
+      "away_team": "Fenerbahce",
+      "commence_time": "2026-08-15T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 11.5,
+      "stake_pct": 5.0,
+      "confidence": 237,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T20:33:47.348931+00:00"
+    },
+    {
+      "state_key": "a2696a2dea66eab68abe0a05755f8cb7:h2h",
+      "event_id": "a2696a2dea66eab68abe0a05755f8cb7",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Genclerbirligi SK",
+      "away_team": "Fenerbahce",
+      "commence_time": "2026-08-15T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Fenerbahce",
+      "odds_at_alert": 250.0,
+      "stake_pct": 5.0,
+      "confidence": 2636,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T20:33:47.760549+00:00"
+    },
+    {
+      "state_key": "a2696a2dea66eab68abe0a05755f8cb7:h2h",
+      "event_id": "a2696a2dea66eab68abe0a05755f8cb7",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Genclerbirligi SK",
+      "away_team": "Fenerbahce",
+      "commence_time": "2026-08-15T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 8.0,
+      "stake_pct": 5.0,
+      "confidence": 134,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T20:33:48.180649+00:00"
+    },
+    {
+      "state_key": "a2696a2dea66eab68abe0a05755f8cb7:h2h",
+      "event_id": "a2696a2dea66eab68abe0a05755f8cb7",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Genclerbirligi SK",
+      "away_team": "Fenerbahce",
+      "commence_time": "2026-08-15T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Fenerbahce",
+      "odds_at_alert": 280.0,
+      "stake_pct": 5.0,
+      "confidence": 2965,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T20:33:48.603538+00:00"
+    },
+    {
+      "state_key": "a2696a2dea66eab68abe0a05755f8cb7:h2h",
+      "event_id": "a2696a2dea66eab68abe0a05755f8cb7",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Genclerbirligi SK",
+      "away_team": "Fenerbahce",
+      "commence_time": "2026-08-15T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 340,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T20:33:49.029744+00:00"
+    },
+    {
+      "state_key": "a2696a2dea66eab68abe0a05755f8cb7:h2h",
+      "event_id": "a2696a2dea66eab68abe0a05755f8cb7",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Genclerbirligi SK",
+      "away_team": "Fenerbahce",
+      "commence_time": "2026-08-15T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Fenerbahce",
+      "odds_at_alert": 66.0,
+      "stake_pct": 5.0,
+      "confidence": 622,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T20:33:49.453203+00:00"
+    },
+    {
+      "state_key": "a2696a2dea66eab68abe0a05755f8cb7:h2h",
+      "event_id": "a2696a2dea66eab68abe0a05755f8cb7",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Genclerbirligi SK",
+      "away_team": "Fenerbahce",
+      "commence_time": "2026-08-15T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.0,
+      "stake_pct": 5.0,
+      "confidence": 47,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T20:33:49.877272+00:00"
+    },
+    {
+      "state_key": "a2696a2dea66eab68abe0a05755f8cb7:h2h",
+      "event_id": "a2696a2dea66eab68abe0a05755f8cb7",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Genclerbirligi SK",
+      "away_team": "Fenerbahce",
+      "commence_time": "2026-08-15T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Fenerbahce",
+      "odds_at_alert": 1000.0,
+      "stake_pct": 5.0,
+      "confidence": 10845,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T20:33:50.305770+00:00"
+    },
+    {
+      "state_key": "a2696a2dea66eab68abe0a05755f8cb7:h2h",
+      "event_id": "a2696a2dea66eab68abe0a05755f8cb7",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Genclerbirligi SK",
+      "away_team": "Fenerbahce",
+      "commence_time": "2026-08-15T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 34.0,
+      "stake_pct": 5.0,
+      "confidence": 897,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T20:33:50.727151+00:00"
+    },
+    {
+      "state_key": "a2696a2dea66eab68abe0a05755f8cb7:h2h",
+      "event_id": "a2696a2dea66eab68abe0a05755f8cb7",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Genclerbirligi SK",
+      "away_team": "Fenerbahce",
+      "commence_time": "2026-08-15T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Fenerbahce",
+      "odds_at_alert": 51.0,
+      "stake_pct": 5.0,
+      "confidence": 458,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T20:33:51.154374+00:00"
+    },
+    {
+      "state_key": "a2696a2dea66eab68abe0a05755f8cb7:h2h",
+      "event_id": "a2696a2dea66eab68abe0a05755f8cb7",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Genclerbirligi SK",
+      "away_team": "Fenerbahce",
+      "commence_time": "2026-08-15T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.5,
+      "stake_pct": 5.0,
+      "confidence": 91,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T20:33:51.561731+00:00"
+    },
+    {
+      "state_key": "a2696a2dea66eab68abe0a05755f8cb7:h2h",
+      "event_id": "a2696a2dea66eab68abe0a05755f8cb7",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Genclerbirligi SK",
+      "away_team": "Fenerbahce",
+      "commence_time": "2026-08-15T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Fenerbahce",
+      "odds_at_alert": 81.0,
+      "stake_pct": 5.0,
+      "confidence": 787,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T20:33:51.982125+00:00"
+    },
+    {
+      "state_key": "a2696a2dea66eab68abe0a05755f8cb7:h2h",
+      "event_id": "a2696a2dea66eab68abe0a05755f8cb7",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Genclerbirligi SK",
+      "away_team": "Fenerbahce",
+      "commence_time": "2026-08-15T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 8.5,
+      "stake_pct": 5.0,
+      "confidence": 149,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T20:33:52.432760+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "6ba35bfd1258e3e284f60968ef6d8cf3:h2h|888sport|Draw",
-    "6ba35bfd1258e3e284f60968ef6d8cf3:h2h|888sport|Widzew Łódź",
-    "6ba35bfd1258e3e284f60968ef6d8cf3:h2h|Betclic (FR)|Draw",
-    "6ba35bfd1258e3e284f60968ef6d8cf3:h2h|Betclic (FR)|Widzew Łódź",
-    "6ba35bfd1258e3e284f60968ef6d8cf3:h2h|Betfair|Draw",
-    "6ba35bfd1258e3e284f60968ef6d8cf3:h2h|Betfair|Widzew Łódź",
-    "6ba35bfd1258e3e284f60968ef6d8cf3:h2h|Betsson|Draw",
-    "6ba35bfd1258e3e284f60968ef6d8cf3:h2h|Betsson|Widzew Łódź",
-    "6ba35bfd1258e3e284f60968ef6d8cf3:h2h|Coolbet|Draw",
-    "6ba35bfd1258e3e284f60968ef6d8cf3:h2h|Coolbet|Widzew Łódź",
-    "6ba35bfd1258e3e284f60968ef6d8cf3:h2h|Nordic Bet|Draw",
-    "6ba35bfd1258e3e284f60968ef6d8cf3:h2h|Nordic Bet|Widzew Łódź",
-    "6ba35bfd1258e3e284f60968ef6d8cf3:h2h|Tipico|Draw",
-    "6ba35bfd1258e3e284f60968ef6d8cf3:h2h|Tipico|Widzew Łódź",
-    "6ba35bfd1258e3e284f60968ef6d8cf3:h2h|Winamax (DE)|Draw",
-    "6ba35bfd1258e3e284f60968ef6d8cf3:h2h|Winamax (DE)|Widzew Łódź",
-    "6ba35bfd1258e3e284f60968ef6d8cf3:h2h|Winamax (FR)|Draw",
-    "6ba35bfd1258e3e284f60968ef6d8cf3:h2h|Winamax (FR)|Widzew Łódź",
+    "6ad55a85cb05238b359ebd58534a8f85:h2h|888sport|Alanyaspor",
+    "6ad55a85cb05238b359ebd58534a8f85:h2h|888sport|Gazişehir Gaziantep",
+    "6ad55a85cb05238b359ebd58534a8f85:h2h|Betclic (FR)|Alanyaspor",
+    "6ad55a85cb05238b359ebd58534a8f85:h2h|Betclic (FR)|Gazişehir Gaziantep",
+    "6ad55a85cb05238b359ebd58534a8f85:h2h|Betfair|Alanyaspor",
+    "6ad55a85cb05238b359ebd58534a8f85:h2h|Betfair|Gazişehir Gaziantep",
+    "6ad55a85cb05238b359ebd58534a8f85:h2h|Betsson|Alanyaspor",
+    "6ad55a85cb05238b359ebd58534a8f85:h2h|Betsson|Gazişehir Gaziantep",
+    "6ad55a85cb05238b359ebd58534a8f85:h2h|Coolbet|Alanyaspor",
+    "6ad55a85cb05238b359ebd58534a8f85:h2h|Coolbet|Gazişehir Gaziantep",
+    "6ad55a85cb05238b359ebd58534a8f85:h2h|Nordic Bet|Alanyaspor",
+    "6ad55a85cb05238b359ebd58534a8f85:h2h|Nordic Bet|Gazişehir Gaziantep",
+    "6ad55a85cb05238b359ebd58534a8f85:h2h|Tipico|Alanyaspor",
+    "6ad55a85cb05238b359ebd58534a8f85:h2h|Tipico|Gazişehir Gaziantep",
+    "6ad55a85cb05238b359ebd58534a8f85:h2h|Unibet (NL)|Alanyaspor",
+    "6ad55a85cb05238b359ebd58534a8f85:h2h|Unibet (NL)|Gazişehir Gaziantep",
+    "6ad55a85cb05238b359ebd58534a8f85:h2h|Unibet (SE)|Alanyaspor",
+    "6ad55a85cb05238b359ebd58534a8f85:h2h|Unibet (SE)|Gazişehir Gaziantep",
+    "6ad55a85cb05238b359ebd58534a8f85:h2h|Winamax (DE)|Alanyaspor",
+    "6ad55a85cb05238b359ebd58534a8f85:h2h|Winamax (DE)|Gazişehir Gaziantep",
+    "6ad55a85cb05238b359ebd58534a8f85:h2h|Winamax (FR)|Alanyaspor",
+    "6ad55a85cb05238b359ebd58534a8f85:h2h|Winamax (FR)|Gazişehir Gaziantep",
     "76802bbcfb4b3e7fdaee3b037a6f7ace:h2h|888sport|1. FC Kaiserslautern",
+    "76802bbcfb4b3e7fdaee3b037a6f7ace:h2h|888sport|Karlsruher SC",
+    "76802bbcfb4b3e7fdaee3b037a6f7ace:h2h|Betclic (FR)|1. FC Kaiserslautern",
+    "76802bbcfb4b3e7fdaee3b037a6f7ace:h2h|Betclic (FR)|Karlsruher SC",
     "76802bbcfb4b3e7fdaee3b037a6f7ace:h2h|Betfair|1. FC Kaiserslautern",
     "76802bbcfb4b3e7fdaee3b037a6f7ace:h2h|Betfair|Karlsruher SC",
     "76802bbcfb4b3e7fdaee3b037a6f7ace:h2h|Betsson|1. FC Kaiserslautern",
+    "76802bbcfb4b3e7fdaee3b037a6f7ace:h2h|Betsson|Karlsruher SC",
     "76802bbcfb4b3e7fdaee3b037a6f7ace:h2h|Coolbet|1. FC Kaiserslautern",
+    "76802bbcfb4b3e7fdaee3b037a6f7ace:h2h|Coolbet|Karlsruher SC",
+    "76802bbcfb4b3e7fdaee3b037a6f7ace:h2h|LeoVegas (SE)|1. FC Kaiserslautern",
+    "76802bbcfb4b3e7fdaee3b037a6f7ace:h2h|LeoVegas (SE)|Karlsruher SC",
     "76802bbcfb4b3e7fdaee3b037a6f7ace:h2h|Matchbook|1. FC Kaiserslautern",
     "76802bbcfb4b3e7fdaee3b037a6f7ace:h2h|Matchbook|Karlsruher SC",
     "76802bbcfb4b3e7fdaee3b037a6f7ace:h2h|Nordic Bet|1. FC Kaiserslautern",
+    "76802bbcfb4b3e7fdaee3b037a6f7ace:h2h|Nordic Bet|Karlsruher SC",
     "76802bbcfb4b3e7fdaee3b037a6f7ace:h2h|PMU (FR)|1. FC Kaiserslautern",
+    "76802bbcfb4b3e7fdaee3b037a6f7ace:h2h|PMU (FR)|Karlsruher SC",
     "76802bbcfb4b3e7fdaee3b037a6f7ace:h2h|Tipico|1. FC Kaiserslautern",
+    "76802bbcfb4b3e7fdaee3b037a6f7ace:h2h|Tipico|Karlsruher SC",
     "76802bbcfb4b3e7fdaee3b037a6f7ace:h2h|Unibet (NL)|1. FC Kaiserslautern",
     "76802bbcfb4b3e7fdaee3b037a6f7ace:h2h|Unibet (NL)|Karlsruher SC",
     "76802bbcfb4b3e7fdaee3b037a6f7ace:h2h|Unibet (SE)|1. FC Kaiserslautern",
     "76802bbcfb4b3e7fdaee3b037a6f7ace:h2h|Unibet (SE)|Karlsruher SC",
     "76802bbcfb4b3e7fdaee3b037a6f7ace:h2h|Winamax (DE)|1. FC Kaiserslautern",
+    "76802bbcfb4b3e7fdaee3b037a6f7ace:h2h|Winamax (DE)|Karlsruher SC",
     "76802bbcfb4b3e7fdaee3b037a6f7ace:h2h|Winamax (FR)|1. FC Kaiserslautern",
-    "d9fd91211d0dc2b9bcea23337b4df06c:h2h|888sport|Al-Ittihad",
-    "d9fd91211d0dc2b9bcea23337b4df06c:h2h|888sport|Al-Kholood",
-    "d9fd91211d0dc2b9bcea23337b4df06c:h2h|Betclic (FR)|Al-Ittihad",
-    "d9fd91211d0dc2b9bcea23337b4df06c:h2h|Betclic (FR)|Al-Kholood",
-    "d9fd91211d0dc2b9bcea23337b4df06c:h2h|Betfair|Al-Kholood",
-    "d9fd91211d0dc2b9bcea23337b4df06c:h2h|LeoVegas (SE)|Al-Ittihad",
-    "d9fd91211d0dc2b9bcea23337b4df06c:h2h|LeoVegas (SE)|Al-Kholood",
-    "d9fd91211d0dc2b9bcea23337b4df06c:h2h|PMU (FR)|Al-Ittihad",
-    "d9fd91211d0dc2b9bcea23337b4df06c:h2h|PMU (FR)|Al-Kholood",
-    "d9fd91211d0dc2b9bcea23337b4df06c:h2h|Tipico|Al-Ittihad",
-    "d9fd91211d0dc2b9bcea23337b4df06c:h2h|Tipico|Al-Kholood",
-    "d9fd91211d0dc2b9bcea23337b4df06c:h2h|Unibet (NL)|Al-Ittihad",
-    "d9fd91211d0dc2b9bcea23337b4df06c:h2h|Unibet (NL)|Al-Kholood",
-    "d9fd91211d0dc2b9bcea23337b4df06c:h2h|Unibet (SE)|Al-Ittihad",
-    "d9fd91211d0dc2b9bcea23337b4df06c:h2h|Unibet (SE)|Al-Kholood",
-    "d9fd91211d0dc2b9bcea23337b4df06c:h2h|Winamax (DE)|Al-Ittihad",
-    "d9fd91211d0dc2b9bcea23337b4df06c:h2h|Winamax (DE)|Al-Kholood",
-    "d9fd91211d0dc2b9bcea23337b4df06c:h2h|Winamax (FR)|Al-Ittihad",
-    "d9fd91211d0dc2b9bcea23337b4df06c:h2h|Winamax (FR)|Al-Kholood"
+    "76802bbcfb4b3e7fdaee3b037a6f7ace:h2h|Winamax (FR)|Karlsruher SC",
+    "a2696a2dea66eab68abe0a05755f8cb7:h2h|888sport|Draw",
+    "a2696a2dea66eab68abe0a05755f8cb7:h2h|888sport|Fenerbahce",
+    "a2696a2dea66eab68abe0a05755f8cb7:h2h|Betclic (FR)|Draw",
+    "a2696a2dea66eab68abe0a05755f8cb7:h2h|Betclic (FR)|Fenerbahce",
+    "a2696a2dea66eab68abe0a05755f8cb7:h2h|Betfair|Draw",
+    "a2696a2dea66eab68abe0a05755f8cb7:h2h|Betfair|Fenerbahce",
+    "a2696a2dea66eab68abe0a05755f8cb7:h2h|Betsson|Draw",
+    "a2696a2dea66eab68abe0a05755f8cb7:h2h|Betsson|Fenerbahce",
+    "a2696a2dea66eab68abe0a05755f8cb7:h2h|Coolbet|Draw",
+    "a2696a2dea66eab68abe0a05755f8cb7:h2h|Coolbet|Fenerbahce",
+    "a2696a2dea66eab68abe0a05755f8cb7:h2h|LeoVegas (SE)|Draw",
+    "a2696a2dea66eab68abe0a05755f8cb7:h2h|LeoVegas (SE)|Fenerbahce",
+    "a2696a2dea66eab68abe0a05755f8cb7:h2h|Nordic Bet|Draw",
+    "a2696a2dea66eab68abe0a05755f8cb7:h2h|Nordic Bet|Fenerbahce",
+    "a2696a2dea66eab68abe0a05755f8cb7:h2h|Tipico|Draw",
+    "a2696a2dea66eab68abe0a05755f8cb7:h2h|Tipico|Fenerbahce",
+    "a2696a2dea66eab68abe0a05755f8cb7:h2h|Winamax (DE)|Draw",
+    "a2696a2dea66eab68abe0a05755f8cb7:h2h|Winamax (DE)|Fenerbahce",
+    "a2696a2dea66eab68abe0a05755f8cb7:h2h|Winamax (FR)|Draw",
+    "a2696a2dea66eab68abe0a05755f8cb7:h2h|Winamax (FR)|Fenerbahce"
   ]
 }
