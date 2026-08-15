@@ -1,431 +1,306 @@
 {
   "snapshots": {
     "b7546a95478a68d111adacd5b0af3f12:h2h": {
-      "Unibet (FR)": {
-        "Gamba Osaka": 2.7,
-        "Mito HollyHock": 2.4,
-        "Draw": 3.1
-      },
       "Coolbet": {
-        "Gamba Osaka": 2.8,
-        "Mito HollyHock": 2.6,
-        "Draw": 3.25
+        "Gamba Osaka": 14.0,
+        "Mito HollyHock": 18.0,
+        "Draw": 1.06
       },
       "Betsson": {
-        "Gamba Osaka": 2.72,
-        "Mito HollyHock": 2.52,
-        "Draw": 3.05
+        "Gamba Osaka": 11.5,
+        "Mito HollyHock": 14.0,
+        "Draw": 1.07
       },
       "Betclic (FR)": {
-        "Gamba Osaka": 2.55,
-        "Mito HollyHock": 2.55,
-        "Draw": 3.2
+        "Gamba Osaka": 9.75,
+        "Mito HollyHock": 12.0,
+        "Draw": 1.11
       },
       "Nordic Bet": {
-        "Gamba Osaka": 2.72,
-        "Mito HollyHock": 2.52,
-        "Draw": 3.05
+        "Gamba Osaka": 7.2,
+        "Mito HollyHock": 8.2,
+        "Draw": 1.18
       },
       "Pinnacle": {
-        "Gamba Osaka": 2.9,
-        "Mito HollyHock": 2.57,
-        "Draw": 3.33
+        "Gamba Osaka": 4.52,
+        "Mito HollyHock": 5.14,
+        "Draw": 1.55
       },
       "Winamax (DE)": {
-        "Gamba Osaka": 2.6,
-        "Mito HollyHock": 2.6,
-        "Draw": 2.95
+        "Gamba Osaka": 20.0,
+        "Mito HollyHock": 26.0,
+        "Draw": 1.03
       },
       "Winamax (FR)": {
-        "Gamba Osaka": 2.45,
-        "Mito HollyHock": 2.45,
-        "Draw": 3.05
-      },
-      "BetOnline.ag": {
-        "Gamba Osaka": 2.75,
-        "Mito HollyHock": 2.64,
-        "Draw": 3.25
-      },
-      "Marathon Bet": {
-        "Gamba Osaka": 2.77,
-        "Mito HollyHock": 2.54,
-        "Draw": 3.15
-      },
-      "1xBet": {
-        "Gamba Osaka": 3.06,
-        "Mito HollyHock": 2.54,
-        "Draw": 3.02
+        "Gamba Osaka": 15.0,
+        "Mito HollyHock": 20.0,
+        "Draw": 1.07
       },
       "888sport": {
-        "Gamba Osaka": 2.75,
-        "Mito HollyHock": 2.5,
-        "Draw": 3.0
-      },
-      "William Hill": {
-        "Gamba Osaka": 2.62,
-        "Mito HollyHock": 2.62,
-        "Draw": 2.9
+        "Gamba Osaka": 11.0,
+        "Mito HollyHock": 15.0,
+        "Draw": 1.08
       },
       "Tipico": {
-        "Gamba Osaka": 2.7,
-        "Mito HollyHock": 2.5,
-        "Draw": 3.2
+        "Gamba Osaka": 12.0,
+        "Mito HollyHock": 22.0,
+        "Draw": 1.03
       },
       "Betfair": {
-        "Gamba Osaka": 2.86,
-        "Mito HollyHock": 2.72,
-        "Draw": 3.3
-      },
-      "BetAnything": {
-        "Gamba Osaka": 2.75,
-        "Mito HollyHock": 2.64,
-        "Draw": 3.25
+        "Gamba Osaka": 10.5,
+        "Mito HollyHock": 15.5,
+        "Draw": 1.12
       },
       "PMU (FR)": {
-        "Gamba Osaka": 2.55,
-        "Mito HollyHock": 2.6,
-        "Draw": 3.1
+        "Gamba Osaka": 10.5,
+        "Mito HollyHock": 9.5,
+        "Draw": 1.02
       },
       "Unibet (SE)": {
-        "Gamba Osaka": 2.55,
-        "Mito HollyHock": 2.65,
-        "Draw": 3.15
+        "Gamba Osaka": 41.0,
+        "Mito HollyHock": 31.0,
+        "Draw": 1.01
       },
       "LeoVegas (SE)": {
-        "Gamba Osaka": 2.55,
-        "Mito HollyHock": 2.65,
-        "Draw": 3.15
+        "Gamba Osaka": 11.5,
+        "Mito HollyHock": 10.5,
+        "Draw": 1.06
       },
       "Unibet (NL)": {
-        "Gamba Osaka": 2.55,
-        "Mito HollyHock": 2.65,
-        "Draw": 3.15
-      },
-      "Matchbook": {
-        "Gamba Osaka": 2.86,
-        "Mito HollyHock": 2.72,
-        "Draw": 3.3
+        "Gamba Osaka": 14.0,
+        "Mito HollyHock": 15.0,
+        "Draw": 1.02
       }
     },
     "f886399face03f1f525a60930e2e60c3:h2h": {
       "Betsson": {
-        "Kashima Antlers": 1.88,
-        "Nagoya Grampus": 3.85,
-        "Draw": 3.4
+        "Kashima Antlers": 7.7,
+        "Nagoya Grampus": 12.5,
+        "Draw": 1.12
       },
       "Nordic Bet": {
-        "Kashima Antlers": 1.85,
-        "Nagoya Grampus": 3.85,
-        "Draw": 3.4
-      },
-      "Unibet (FR)": {
-        "Kashima Antlers": 1.81,
-        "Nagoya Grampus": 3.85,
-        "Draw": 3.35
+        "Kashima Antlers": 7.2,
+        "Nagoya Grampus": 12.5,
+        "Draw": 1.13
       },
       "Coolbet": {
-        "Kashima Antlers": 1.9,
-        "Nagoya Grampus": 4.0,
-        "Draw": 3.6
+        "Kashima Antlers": 8.0,
+        "Nagoya Grampus": 12.0,
+        "Draw": 1.16
       },
       "Betclic (FR)": {
-        "Kashima Antlers": 1.82,
-        "Nagoya Grampus": 3.8,
-        "Draw": 3.5
+        "Kashima Antlers": 6.9,
+        "Nagoya Grampus": 10.5,
+        "Draw": 1.19
       },
       "Pinnacle": {
-        "Kashima Antlers": 1.93,
-        "Nagoya Grampus": 4.08,
-        "Draw": 3.67
+        "Kashima Antlers": 3.8,
+        "Nagoya Grampus": 6.1,
+        "Draw": 1.58
       },
       "Winamax (DE)": {
-        "Kashima Antlers": 1.8,
-        "Nagoya Grampus": 3.8,
-        "Draw": 3.5
+        "Kashima Antlers": 7.5,
+        "Nagoya Grampus": 12.0,
+        "Draw": 1.14
       },
       "Winamax (FR)": {
-        "Kashima Antlers": 1.76,
-        "Nagoya Grampus": 3.65,
-        "Draw": 3.4
-      },
-      "Marathon Bet": {
-        "Kashima Antlers": 1.87,
-        "Nagoya Grampus": 3.9,
-        "Draw": 3.55
-      },
-      "BetOnline.ag": {
-        "Kashima Antlers": 1.99,
-        "Nagoya Grampus": 3.95,
-        "Draw": 3.45
-      },
-      "1xBet": {
-        "Kashima Antlers": 1.89,
-        "Nagoya Grampus": 4.16,
-        "Draw": 3.54
+        "Kashima Antlers": 7.0,
+        "Nagoya Grampus": 11.0,
+        "Draw": 1.17
       },
       "888sport": {
-        "Kashima Antlers": 1.91,
-        "Nagoya Grampus": 3.8,
-        "Draw": 3.3
-      },
-      "William Hill": {
-        "Kashima Antlers": 1.95,
-        "Nagoya Grampus": 14.0,
-        "Draw": 3.4
+        "Kashima Antlers": 7.5,
+        "Nagoya Grampus": 12.0,
+        "Draw": 1.15
       },
       "Tipico": {
-        "Kashima Antlers": 1.83,
-        "Nagoya Grampus": 3.9,
-        "Draw": 3.5
+        "Kashima Antlers": 7.0,
+        "Nagoya Grampus": 12.0,
+        "Draw": 1.15
       },
       "Betfair": {
-        "Kashima Antlers": 1.99,
-        "Nagoya Grampus": 4.2,
-        "Draw": 3.75
-      },
-      "BetAnything": {
-        "Kashima Antlers": 1.99,
-        "Nagoya Grampus": 3.95,
-        "Draw": 3.45
+        "Kashima Antlers": 7.6,
+        "Nagoya Grampus": 12.0,
+        "Draw": 1.24
       },
       "PMU (FR)": {
-        "Kashima Antlers": 1.78,
-        "Nagoya Grampus": 4.0,
-        "Draw": 3.5
+        "Kashima Antlers": 7.5,
+        "Nagoya Grampus": 11.5,
+        "Draw": 1.05
       },
       "Unibet (SE)": {
-        "Kashima Antlers": 1.8,
-        "Nagoya Grampus": 4.0,
-        "Draw": 3.55
+        "Kashima Antlers": 9.0,
+        "Nagoya Grampus": 13.0,
+        "Draw": 1.1
       },
       "LeoVegas (SE)": {
-        "Kashima Antlers": 1.82,
-        "Nagoya Grampus": 4.0,
-        "Draw": 3.55
+        "Kashima Antlers": 8.5,
+        "Nagoya Grampus": 13.0,
+        "Draw": 1.07
       },
       "Unibet (NL)": {
-        "Kashima Antlers": 1.8,
-        "Nagoya Grampus": 4.0,
-        "Draw": 3.55
+        "Kashima Antlers": 7.5,
+        "Nagoya Grampus": 11.5,
+        "Draw": 1.12
       },
       "Matchbook": {
-        "Kashima Antlers": 1.99,
-        "Nagoya Grampus": 4.2,
-        "Draw": 3.7
+        "Kashima Antlers": 8.8,
+        "Nagoya Grampus": 13.0,
+        "Draw": 1.18
       }
     },
     "f3a5cc89a017147217a935fb15957188:h2h": {
       "Coolbet": {
-        "Shimizu S Pulse": 2.3,
-        "Yokohama F Marinos": 3.1,
-        "Draw": 3.4
+        "Shimizu S Pulse": 3.6,
+        "Yokohama F Marinos": 3.8,
+        "Draw": 1.85
       },
       "Nordic Bet": {
-        "Shimizu S Pulse": 2.25,
-        "Yokohama F Marinos": 3.05,
-        "Draw": 3.15
+        "Shimizu S Pulse": 3.4,
+        "Yokohama F Marinos": 3.65,
+        "Draw": 1.82
       },
       "Betclic (FR)": {
-        "Shimizu S Pulse": 2.2,
-        "Yokohama F Marinos": 3.02,
-        "Draw": 3.18
+        "Shimizu S Pulse": 3.5,
+        "Yokohama F Marinos": 3.63,
+        "Draw": 1.91
       },
       "Betsson": {
-        "Shimizu S Pulse": 2.25,
-        "Yokohama F Marinos": 3.05,
-        "Draw": 3.15
-      },
-      "Unibet (FR)": {
-        "Shimizu S Pulse": 2.15,
-        "Yokohama F Marinos": 3.0,
-        "Draw": 3.2
+        "Shimizu S Pulse": 3.4,
+        "Yokohama F Marinos": 3.65,
+        "Draw": 1.82
       },
       "Pinnacle": {
-        "Shimizu S Pulse": 2.33,
-        "Yokohama F Marinos": 3.23,
-        "Draw": 3.39
+        "Shimizu S Pulse": 3.21,
+        "Yokohama F Marinos": 3.49,
+        "Draw": 2.17
       },
       "Winamax (DE)": {
-        "Shimizu S Pulse": 2.2,
-        "Yokohama F Marinos": 2.95,
-        "Draw": 3.25
+        "Shimizu S Pulse": 3.5,
+        "Yokohama F Marinos": 3.7,
+        "Draw": 1.82
       },
       "Winamax (FR)": {
-        "Shimizu S Pulse": 2.15,
-        "Yokohama F Marinos": 2.9,
-        "Draw": 3.2
-      },
-      "Marathon Bet": {
-        "Shimizu S Pulse": 2.22,
-        "Yokohama F Marinos": 3.2,
-        "Draw": 3.24
-      },
-      "BetOnline.ag": {
-        "Shimizu S Pulse": 2.32,
-        "Yokohama F Marinos": 3.2,
-        "Draw": 3.3
-      },
-      "1xBet": {
-        "Shimizu S Pulse": 2.33,
-        "Yokohama F Marinos": 3.17,
-        "Draw": 3.29
+        "Shimizu S Pulse": 3.4,
+        "Yokohama F Marinos": 3.55,
+        "Draw": 1.78
       },
       "Tipico": {
-        "Shimizu S Pulse": 2.2,
-        "Yokohama F Marinos": 3.1,
-        "Draw": 3.2
+        "Shimizu S Pulse": 3.8,
+        "Yokohama F Marinos": 3.4,
+        "Draw": 1.85
       },
       "Betfair": {
-        "Shimizu S Pulse": 2.34,
-        "Yokohama F Marinos": 3.4,
-        "Draw": 3.45
-      },
-      "BetAnything": {
-        "Shimizu S Pulse": 2.32,
-        "Yokohama F Marinos": 3.2,
-        "Draw": 3.3
+        "Shimizu S Pulse": 3.8,
+        "Yokohama F Marinos": 4.0,
+        "Draw": 2.0
       },
       "PMU (FR)": {
-        "Shimizu S Pulse": 2.3,
-        "Yokohama F Marinos": 2.85,
-        "Draw": 3.15
+        "Shimizu S Pulse": 2.9,
+        "Yokohama F Marinos": 3.3,
+        "Draw": 1.88
       },
       "Unibet (SE)": {
-        "Shimizu S Pulse": 2.33,
-        "Yokohama F Marinos": 2.9,
-        "Draw": 3.2
+        "Shimizu S Pulse": 3.05,
+        "Yokohama F Marinos": 3.65,
+        "Draw": 1.97
       },
       "LeoVegas (SE)": {
-        "Shimizu S Pulse": 2.35,
-        "Yokohama F Marinos": 2.9,
-        "Draw": 3.2
+        "Shimizu S Pulse": 2.9,
+        "Yokohama F Marinos": 3.55,
+        "Draw": 1.93
       },
       "Unibet (NL)": {
-        "Shimizu S Pulse": 2.33,
-        "Yokohama F Marinos": 2.9,
-        "Draw": 3.2
+        "Shimizu S Pulse": 2.95,
+        "Yokohama F Marinos": 3.7,
+        "Draw": 2.0
       },
       "888sport": {
-        "Shimizu S Pulse": 2.25,
-        "Yokohama F Marinos": 3.0,
-        "Draw": 3.1
-      },
-      "William Hill": {
-        "Shimizu S Pulse": 2.25,
-        "Yokohama F Marinos": 3.0,
-        "Draw": 3.1
+        "Shimizu S Pulse": 3.6,
+        "Yokohama F Marinos": 3.6,
+        "Draw": 1.8
       },
       "Matchbook": {
-        "Shimizu S Pulse": 2.34,
-        "Yokohama F Marinos": 3.4,
-        "Draw": 3.45
+        "Shimizu S Pulse": 3.9,
+        "Yokohama F Marinos": 4.3,
+        "Draw": 1.93
       }
     },
     "64f2b1f4cf21b8c2b7bc9e1043706d14:h2h": {
       "Betsson": {
-        "Fagiano Okayama": 1.65,
-        "V-Varen Nagasaki": 4.95,
-        "Draw": 3.55
-      },
-      "BetOnline.ag": {
-        "Fagiano Okayama": 1.66,
-        "V-Varen Nagasaki": 5.5,
-        "Draw": 3.75
-      },
-      "Unibet (FR)": {
-        "Fagiano Okayama": 1.65,
-        "V-Varen Nagasaki": 4.75,
-        "Draw": 3.5
+        "Fagiano Okayama": 1.92,
+        "V-Varen Nagasaki": 5.35,
+        "Draw": 2.5
       },
       "Nordic Bet": {
-        "Fagiano Okayama": 1.7,
-        "V-Varen Nagasaki": 4.7,
-        "Draw": 3.4
+        "Fagiano Okayama": 1.92,
+        "V-Varen Nagasaki": 5.35,
+        "Draw": 2.5
       },
       "Coolbet": {
-        "Fagiano Okayama": 1.72,
-        "V-Varen Nagasaki": 5.0,
-        "Draw": 3.75
+        "Fagiano Okayama": 1.91,
+        "V-Varen Nagasaki": 6.0,
+        "Draw": 2.6
       },
       "Winamax (FR)": {
-        "Fagiano Okayama": 1.66,
-        "V-Varen Nagasaki": 4.4,
-        "Draw": 3.5
+        "Fagiano Okayama": 1.84,
+        "V-Varen Nagasaki": 5.4,
+        "Draw": 2.4
       },
       "Betclic (FR)": {
-        "Fagiano Okayama": 1.66,
-        "V-Varen Nagasaki": 4.95,
-        "Draw": 3.48
+        "Fagiano Okayama": 1.86,
+        "V-Varen Nagasaki": 5.75,
+        "Draw": 2.57
       },
       "Winamax (DE)": {
-        "Fagiano Okayama": 1.68,
-        "V-Varen Nagasaki": 4.5,
-        "Draw": 3.6
+        "Fagiano Okayama": 1.88,
+        "V-Varen Nagasaki": 5.7,
+        "Draw": 2.5
       },
       "Pinnacle": {
-        "Fagiano Okayama": 1.71,
-        "V-Varen Nagasaki": 5.41,
-        "Draw": 3.73
-      },
-      "Marathon Bet": {
-        "Fagiano Okayama": 1.67,
-        "V-Varen Nagasaki": 5.1,
-        "Draw": 3.62
-      },
-      "1xBet": {
-        "Fagiano Okayama": 1.71,
-        "V-Varen Nagasaki": 5.21,
-        "Draw": 3.7
+        "Fagiano Okayama": 1.85,
+        "V-Varen Nagasaki": 6.07,
+        "Draw": 2.82
       },
       "888sport": {
-        "Fagiano Okayama": 1.7,
+        "Fagiano Okayama": 1.91,
         "V-Varen Nagasaki": 4.8,
-        "Draw": 3.4
-      },
-      "William Hill": {
-        "Fagiano Okayama": 1.7,
-        "V-Varen Nagasaki": 4.8,
-        "Draw": 3.4
+        "Draw": 2.62
       },
       "Tipico": {
-        "Fagiano Okayama": 1.65,
-        "V-Varen Nagasaki": 4.9,
-        "Draw": 3.6
+        "Fagiano Okayama": 1.95,
+        "V-Varen Nagasaki": 5.2,
+        "Draw": 2.55
       },
       "Betfair": {
-        "Fagiano Okayama": 1.76,
-        "V-Varen Nagasaki": 5.5,
-        "Draw": 3.85
-      },
-      "BetAnything": {
-        "Fagiano Okayama": 1.7,
-        "V-Varen Nagasaki": 4.9,
-        "Draw": 3.6
+        "Fagiano Okayama": 2.08,
+        "V-Varen Nagasaki": 6.4,
+        "Draw": 2.66
       },
       "PMU (FR)": {
-        "Fagiano Okayama": 1.75,
-        "V-Varen Nagasaki": 4.35,
-        "Draw": 3.35
+        "Fagiano Okayama": 1.72,
+        "V-Varen Nagasaki": 5.4,
+        "Draw": 2.45
       },
       "Unibet (SE)": {
-        "Fagiano Okayama": 1.77,
-        "V-Varen Nagasaki": 4.4,
-        "Draw": 3.4
+        "Fagiano Okayama": 1.82,
+        "V-Varen Nagasaki": 5.6,
+        "Draw": 2.7
       },
       "LeoVegas (SE)": {
-        "Fagiano Okayama": 1.78,
-        "V-Varen Nagasaki": 4.4,
-        "Draw": 3.4
+        "Fagiano Okayama": 1.76,
+        "V-Varen Nagasaki": 5.5,
+        "Draw": 2.6
       },
       "Unibet (NL)": {
-        "Fagiano Okayama": 1.77,
-        "V-Varen Nagasaki": 4.4,
-        "Draw": 3.4
+        "Fagiano Okayama": 1.8,
+        "V-Varen Nagasaki": 5.6,
+        "Draw": 2.65
       },
       "Matchbook": {
-        "Fagiano Okayama": 1.75,
-        "V-Varen Nagasaki": 5.5,
-        "Draw": 3.85
+        "Fagiano Okayama": 2.1,
+        "V-Varen Nagasaki": 6.4,
+        "Draw": 2.64
       }
     }
   },
@@ -4142,11 +4017,1082 @@
       "confidence": 231,
       "alert_type": "value",
       "alerted_at": "2026-08-15T09:02:15.011102+00:00"
+    },
+    {
+      "state_key": "b7546a95478a68d111adacd5b0af3f12:h2h",
+      "event_id": "b7546a95478a68d111adacd5b0af3f12",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Mito HollyHock",
+      "away_team": "Gamba Osaka",
+      "commence_time": "2026-08-15T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gamba Osaka",
+      "odds_at_alert": 14.0,
+      "stake_pct": 5.0,
+      "confidence": 192,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T10:54:56.041882+00:00"
+    },
+    {
+      "state_key": "b7546a95478a68d111adacd5b0af3f12:h2h",
+      "event_id": "b7546a95478a68d111adacd5b0af3f12",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Mito HollyHock",
+      "away_team": "Gamba Osaka",
+      "commence_time": "2026-08-15T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Mito HollyHock",
+      "odds_at_alert": 18.0,
+      "stake_pct": 5.0,
+      "confidence": 230,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T10:54:56.694670+00:00"
+    },
+    {
+      "state_key": "b7546a95478a68d111adacd5b0af3f12:h2h",
+      "event_id": "b7546a95478a68d111adacd5b0af3f12",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Mito HollyHock",
+      "away_team": "Gamba Osaka",
+      "commence_time": "2026-08-15T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gamba Osaka",
+      "odds_at_alert": 11.5,
+      "stake_pct": 5.0,
+      "confidence": 140,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T10:54:57.174219+00:00"
+    },
+    {
+      "state_key": "b7546a95478a68d111adacd5b0af3f12:h2h",
+      "event_id": "b7546a95478a68d111adacd5b0af3f12",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Mito HollyHock",
+      "away_team": "Gamba Osaka",
+      "commence_time": "2026-08-15T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Mito HollyHock",
+      "odds_at_alert": 14.0,
+      "stake_pct": 5.0,
+      "confidence": 157,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T10:54:57.670949+00:00"
+    },
+    {
+      "state_key": "b7546a95478a68d111adacd5b0af3f12:h2h",
+      "event_id": "b7546a95478a68d111adacd5b0af3f12",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Mito HollyHock",
+      "away_team": "Gamba Osaka",
+      "commence_time": "2026-08-15T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gamba Osaka",
+      "odds_at_alert": 9.75,
+      "stake_pct": 5.0,
+      "confidence": 103,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T10:54:58.170211+00:00"
+    },
+    {
+      "state_key": "b7546a95478a68d111adacd5b0af3f12:h2h",
+      "event_id": "b7546a95478a68d111adacd5b0af3f12",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Mito HollyHock",
+      "away_team": "Gamba Osaka",
+      "commence_time": "2026-08-15T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Mito HollyHock",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 120,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T10:54:58.725339+00:00"
+    },
+    {
+      "state_key": "b7546a95478a68d111adacd5b0af3f12:h2h",
+      "event_id": "b7546a95478a68d111adacd5b0af3f12",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Mito HollyHock",
+      "away_team": "Gamba Osaka",
+      "commence_time": "2026-08-15T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gamba Osaka",
+      "odds_at_alert": 7.2,
+      "stake_pct": 5.0,
+      "confidence": 50,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T10:54:59.282006+00:00"
+    },
+    {
+      "state_key": "b7546a95478a68d111adacd5b0af3f12:h2h",
+      "event_id": "b7546a95478a68d111adacd5b0af3f12",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Mito HollyHock",
+      "away_team": "Gamba Osaka",
+      "commence_time": "2026-08-15T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Mito HollyHock",
+      "odds_at_alert": 8.2,
+      "stake_pct": 5.0,
+      "confidence": 50,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T10:54:59.821739+00:00"
+    },
+    {
+      "state_key": "b7546a95478a68d111adacd5b0af3f12:h2h",
+      "event_id": "b7546a95478a68d111adacd5b0af3f12",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Mito HollyHock",
+      "away_team": "Gamba Osaka",
+      "commence_time": "2026-08-15T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gamba Osaka",
+      "odds_at_alert": 20.0,
+      "stake_pct": 5.0,
+      "confidence": 317,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T10:55:00.352165+00:00"
+    },
+    {
+      "state_key": "b7546a95478a68d111adacd5b0af3f12:h2h",
+      "event_id": "b7546a95478a68d111adacd5b0af3f12",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Mito HollyHock",
+      "away_team": "Gamba Osaka",
+      "commence_time": "2026-08-15T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Mito HollyHock",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 377,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T10:55:00.841263+00:00"
+    },
+    {
+      "state_key": "b7546a95478a68d111adacd5b0af3f12:h2h",
+      "event_id": "b7546a95478a68d111adacd5b0af3f12",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Mito HollyHock",
+      "away_team": "Gamba Osaka",
+      "commence_time": "2026-08-15T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gamba Osaka",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 213,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T10:55:01.403512+00:00"
+    },
+    {
+      "state_key": "b7546a95478a68d111adacd5b0af3f12:h2h",
+      "event_id": "b7546a95478a68d111adacd5b0af3f12",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Mito HollyHock",
+      "away_team": "Gamba Osaka",
+      "commence_time": "2026-08-15T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Mito HollyHock",
+      "odds_at_alert": 20.0,
+      "stake_pct": 5.0,
+      "confidence": 267,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T10:55:01.972842+00:00"
+    },
+    {
+      "state_key": "b7546a95478a68d111adacd5b0af3f12:h2h",
+      "event_id": "b7546a95478a68d111adacd5b0af3f12",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Mito HollyHock",
+      "away_team": "Gamba Osaka",
+      "commence_time": "2026-08-15T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gamba Osaka",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 129,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T10:55:02.459983+00:00"
+    },
+    {
+      "state_key": "b7546a95478a68d111adacd5b0af3f12:h2h",
+      "event_id": "b7546a95478a68d111adacd5b0af3f12",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Mito HollyHock",
+      "away_team": "Gamba Osaka",
+      "commence_time": "2026-08-15T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Mito HollyHock",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 175,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T10:55:02.988894+00:00"
+    },
+    {
+      "state_key": "b7546a95478a68d111adacd5b0af3f12:h2h",
+      "event_id": "b7546a95478a68d111adacd5b0af3f12",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Mito HollyHock",
+      "away_team": "Gamba Osaka",
+      "commence_time": "2026-08-15T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gamba Osaka",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 150,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T10:55:03.538304+00:00"
+    },
+    {
+      "state_key": "b7546a95478a68d111adacd5b0af3f12:h2h",
+      "event_id": "b7546a95478a68d111adacd5b0af3f12",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Mito HollyHock",
+      "away_team": "Gamba Osaka",
+      "commence_time": "2026-08-15T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Mito HollyHock",
+      "odds_at_alert": 22.0,
+      "stake_pct": 5.0,
+      "confidence": 303,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T10:55:04.067381+00:00"
+    },
+    {
+      "state_key": "b7546a95478a68d111adacd5b0af3f12:h2h",
+      "event_id": "b7546a95478a68d111adacd5b0af3f12",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Mito HollyHock",
+      "away_team": "Gamba Osaka",
+      "commence_time": "2026-08-15T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gamba Osaka",
+      "odds_at_alert": 10.5,
+      "stake_pct": 5.0,
+      "confidence": 119,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T10:55:04.552109+00:00"
+    },
+    {
+      "state_key": "b7546a95478a68d111adacd5b0af3f12:h2h",
+      "event_id": "b7546a95478a68d111adacd5b0af3f12",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Mito HollyHock",
+      "away_team": "Gamba Osaka",
+      "commence_time": "2026-08-15T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Mito HollyHock",
+      "odds_at_alert": 15.5,
+      "stake_pct": 5.0,
+      "confidence": 184,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T10:55:05.101446+00:00"
+    },
+    {
+      "state_key": "b7546a95478a68d111adacd5b0af3f12:h2h",
+      "event_id": "b7546a95478a68d111adacd5b0af3f12",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Mito HollyHock",
+      "away_team": "Gamba Osaka",
+      "commence_time": "2026-08-15T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gamba Osaka",
+      "odds_at_alert": 10.5,
+      "stake_pct": 5.0,
+      "confidence": 119,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T10:55:05.648029+00:00"
+    },
+    {
+      "state_key": "b7546a95478a68d111adacd5b0af3f12:h2h",
+      "event_id": "b7546a95478a68d111adacd5b0af3f12",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Mito HollyHock",
+      "away_team": "Gamba Osaka",
+      "commence_time": "2026-08-15T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Mito HollyHock",
+      "odds_at_alert": 9.5,
+      "stake_pct": 5.0,
+      "confidence": 74,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T10:55:06.218576+00:00"
+    },
+    {
+      "state_key": "b7546a95478a68d111adacd5b0af3f12:h2h",
+      "event_id": "b7546a95478a68d111adacd5b0af3f12",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Mito HollyHock",
+      "away_team": "Gamba Osaka",
+      "commence_time": "2026-08-15T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gamba Osaka",
+      "odds_at_alert": 41.0,
+      "stake_pct": 5.0,
+      "confidence": 755,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T10:55:06.753169+00:00"
+    },
+    {
+      "state_key": "b7546a95478a68d111adacd5b0af3f12:h2h",
+      "event_id": "b7546a95478a68d111adacd5b0af3f12",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Mito HollyHock",
+      "away_team": "Gamba Osaka",
+      "commence_time": "2026-08-15T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Mito HollyHock",
+      "odds_at_alert": 31.0,
+      "stake_pct": 5.0,
+      "confidence": 468,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T10:55:07.256897+00:00"
+    },
+    {
+      "state_key": "b7546a95478a68d111adacd5b0af3f12:h2h",
+      "event_id": "b7546a95478a68d111adacd5b0af3f12",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Mito HollyHock",
+      "away_team": "Gamba Osaka",
+      "commence_time": "2026-08-15T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gamba Osaka",
+      "odds_at_alert": 11.5,
+      "stake_pct": 5.0,
+      "confidence": 140,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T10:55:07.838593+00:00"
+    },
+    {
+      "state_key": "b7546a95478a68d111adacd5b0af3f12:h2h",
+      "event_id": "b7546a95478a68d111adacd5b0af3f12",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Mito HollyHock",
+      "away_team": "Gamba Osaka",
+      "commence_time": "2026-08-15T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Mito HollyHock",
+      "odds_at_alert": 10.5,
+      "stake_pct": 5.0,
+      "confidence": 93,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T10:55:08.411104+00:00"
+    },
+    {
+      "state_key": "b7546a95478a68d111adacd5b0af3f12:h2h",
+      "event_id": "b7546a95478a68d111adacd5b0af3f12",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Mito HollyHock",
+      "away_team": "Gamba Osaka",
+      "commence_time": "2026-08-15T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gamba Osaka",
+      "odds_at_alert": 14.0,
+      "stake_pct": 5.0,
+      "confidence": 192,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T10:55:08.948480+00:00"
+    },
+    {
+      "state_key": "b7546a95478a68d111adacd5b0af3f12:h2h",
+      "event_id": "b7546a95478a68d111adacd5b0af3f12",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Mito HollyHock",
+      "away_team": "Gamba Osaka",
+      "commence_time": "2026-08-15T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Mito HollyHock",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 175,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T10:55:09.497015+00:00"
+    },
+    {
+      "state_key": "f886399face03f1f525a60930e2e60c3:h2h",
+      "event_id": "f886399face03f1f525a60930e2e60c3",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Kashima Antlers",
+      "away_team": "Nagoya Grampus",
+      "commence_time": "2026-08-15T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Kashima Antlers",
+      "odds_at_alert": 7.7,
+      "stake_pct": 5.0,
+      "confidence": 91,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T10:55:10.136642+00:00"
+    },
+    {
+      "state_key": "f886399face03f1f525a60930e2e60c3:h2h",
+      "event_id": "f886399face03f1f525a60930e2e60c3",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Kashima Antlers",
+      "away_team": "Nagoya Grampus",
+      "commence_time": "2026-08-15T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Nagoya Grampus",
+      "odds_at_alert": 12.5,
+      "stake_pct": 5.0,
+      "confidence": 93,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T10:55:10.644792+00:00"
+    },
+    {
+      "state_key": "f886399face03f1f525a60930e2e60c3:h2h",
+      "event_id": "f886399face03f1f525a60930e2e60c3",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Kashima Antlers",
+      "away_team": "Nagoya Grampus",
+      "commence_time": "2026-08-15T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Kashima Antlers",
+      "odds_at_alert": 7.2,
+      "stake_pct": 5.0,
+      "confidence": 79,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T10:55:11.141188+00:00"
+    },
+    {
+      "state_key": "f886399face03f1f525a60930e2e60c3:h2h",
+      "event_id": "f886399face03f1f525a60930e2e60c3",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Kashima Antlers",
+      "away_team": "Nagoya Grampus",
+      "commence_time": "2026-08-15T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Nagoya Grampus",
+      "odds_at_alert": 12.5,
+      "stake_pct": 5.0,
+      "confidence": 93,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T10:55:11.686318+00:00"
+    },
+    {
+      "state_key": "f886399face03f1f525a60930e2e60c3:h2h",
+      "event_id": "f886399face03f1f525a60930e2e60c3",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Kashima Antlers",
+      "away_team": "Nagoya Grampus",
+      "commence_time": "2026-08-15T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Kashima Antlers",
+      "odds_at_alert": 8.0,
+      "stake_pct": 5.0,
+      "confidence": 99,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T10:55:12.298058+00:00"
+    },
+    {
+      "state_key": "f886399face03f1f525a60930e2e60c3:h2h",
+      "event_id": "f886399face03f1f525a60930e2e60c3",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Kashima Antlers",
+      "away_team": "Nagoya Grampus",
+      "commence_time": "2026-08-15T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Nagoya Grampus",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 86,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T10:55:12.927070+00:00"
+    },
+    {
+      "state_key": "f886399face03f1f525a60930e2e60c3:h2h",
+      "event_id": "f886399face03f1f525a60930e2e60c3",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Kashima Antlers",
+      "away_team": "Nagoya Grampus",
+      "commence_time": "2026-08-15T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Kashima Antlers",
+      "odds_at_alert": 6.9,
+      "stake_pct": 5.0,
+      "confidence": 71,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T10:55:13.463070+00:00"
+    },
+    {
+      "state_key": "f886399face03f1f525a60930e2e60c3:h2h",
+      "event_id": "f886399face03f1f525a60930e2e60c3",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Kashima Antlers",
+      "away_team": "Nagoya Grampus",
+      "commence_time": "2026-08-15T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Nagoya Grampus",
+      "odds_at_alert": 10.5,
+      "stake_pct": 5.0,
+      "confidence": 62,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T10:55:13.941510+00:00"
+    },
+    {
+      "state_key": "f886399face03f1f525a60930e2e60c3:h2h",
+      "event_id": "f886399face03f1f525a60930e2e60c3",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Kashima Antlers",
+      "away_team": "Nagoya Grampus",
+      "commence_time": "2026-08-15T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Kashima Antlers",
+      "odds_at_alert": 7.5,
+      "stake_pct": 5.0,
+      "confidence": 86,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T10:55:14.482169+00:00"
+    },
+    {
+      "state_key": "f886399face03f1f525a60930e2e60c3:h2h",
+      "event_id": "f886399face03f1f525a60930e2e60c3",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Kashima Antlers",
+      "away_team": "Nagoya Grampus",
+      "commence_time": "2026-08-15T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Nagoya Grampus",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 86,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T10:55:15.014675+00:00"
+    },
+    {
+      "state_key": "f886399face03f1f525a60930e2e60c3:h2h",
+      "event_id": "f886399face03f1f525a60930e2e60c3",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Kashima Antlers",
+      "away_team": "Nagoya Grampus",
+      "commence_time": "2026-08-15T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Kashima Antlers",
+      "odds_at_alert": 7.0,
+      "stake_pct": 5.0,
+      "confidence": 74,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T10:55:15.512847+00:00"
+    },
+    {
+      "state_key": "f886399face03f1f525a60930e2e60c3:h2h",
+      "event_id": "f886399face03f1f525a60930e2e60c3",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Kashima Antlers",
+      "away_team": "Nagoya Grampus",
+      "commence_time": "2026-08-15T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Nagoya Grampus",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 70,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T10:55:16.054947+00:00"
+    },
+    {
+      "state_key": "f886399face03f1f525a60930e2e60c3:h2h",
+      "event_id": "f886399face03f1f525a60930e2e60c3",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Kashima Antlers",
+      "away_team": "Nagoya Grampus",
+      "commence_time": "2026-08-15T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Kashima Antlers",
+      "odds_at_alert": 7.5,
+      "stake_pct": 5.0,
+      "confidence": 86,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T10:55:16.614715+00:00"
+    },
+    {
+      "state_key": "f886399face03f1f525a60930e2e60c3:h2h",
+      "event_id": "f886399face03f1f525a60930e2e60c3",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Kashima Antlers",
+      "away_team": "Nagoya Grampus",
+      "commence_time": "2026-08-15T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Nagoya Grampus",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 86,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T10:55:17.106067+00:00"
+    },
+    {
+      "state_key": "f886399face03f1f525a60930e2e60c3:h2h",
+      "event_id": "f886399face03f1f525a60930e2e60c3",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Kashima Antlers",
+      "away_team": "Nagoya Grampus",
+      "commence_time": "2026-08-15T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Kashima Antlers",
+      "odds_at_alert": 7.0,
+      "stake_pct": 5.0,
+      "confidence": 74,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T10:55:17.587040+00:00"
+    },
+    {
+      "state_key": "f886399face03f1f525a60930e2e60c3:h2h",
+      "event_id": "f886399face03f1f525a60930e2e60c3",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Kashima Antlers",
+      "away_team": "Nagoya Grampus",
+      "commence_time": "2026-08-15T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Nagoya Grampus",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 86,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T10:55:18.164681+00:00"
+    },
+    {
+      "state_key": "f886399face03f1f525a60930e2e60c3:h2h",
+      "event_id": "f886399face03f1f525a60930e2e60c3",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Kashima Antlers",
+      "away_team": "Nagoya Grampus",
+      "commence_time": "2026-08-15T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Kashima Antlers",
+      "odds_at_alert": 7.6,
+      "stake_pct": 5.0,
+      "confidence": 89,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T10:55:18.702431+00:00"
+    },
+    {
+      "state_key": "f886399face03f1f525a60930e2e60c3:h2h",
+      "event_id": "f886399face03f1f525a60930e2e60c3",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Kashima Antlers",
+      "away_team": "Nagoya Grampus",
+      "commence_time": "2026-08-15T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Nagoya Grampus",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 86,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T10:55:19.248250+00:00"
+    },
+    {
+      "state_key": "f886399face03f1f525a60930e2e60c3:h2h",
+      "event_id": "f886399face03f1f525a60930e2e60c3",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Kashima Antlers",
+      "away_team": "Nagoya Grampus",
+      "commence_time": "2026-08-15T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Kashima Antlers",
+      "odds_at_alert": 7.5,
+      "stake_pct": 5.0,
+      "confidence": 86,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T10:55:19.787805+00:00"
+    },
+    {
+      "state_key": "f886399face03f1f525a60930e2e60c3:h2h",
+      "event_id": "f886399face03f1f525a60930e2e60c3",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Kashima Antlers",
+      "away_team": "Nagoya Grampus",
+      "commence_time": "2026-08-15T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Nagoya Grampus",
+      "odds_at_alert": 11.5,
+      "stake_pct": 5.0,
+      "confidence": 78,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T10:55:20.315224+00:00"
+    },
+    {
+      "state_key": "f886399face03f1f525a60930e2e60c3:h2h",
+      "event_id": "f886399face03f1f525a60930e2e60c3",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Kashima Antlers",
+      "away_team": "Nagoya Grampus",
+      "commence_time": "2026-08-15T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Kashima Antlers",
+      "odds_at_alert": 9.0,
+      "stake_pct": 5.0,
+      "confidence": 123,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T10:55:20.866396+00:00"
+    },
+    {
+      "state_key": "f886399face03f1f525a60930e2e60c3:h2h",
+      "event_id": "f886399face03f1f525a60930e2e60c3",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Kashima Antlers",
+      "away_team": "Nagoya Grampus",
+      "commence_time": "2026-08-15T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Nagoya Grampus",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 101,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T10:55:21.401236+00:00"
+    },
+    {
+      "state_key": "f886399face03f1f525a60930e2e60c3:h2h",
+      "event_id": "f886399face03f1f525a60930e2e60c3",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Kashima Antlers",
+      "away_team": "Nagoya Grampus",
+      "commence_time": "2026-08-15T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Kashima Antlers",
+      "odds_at_alert": 8.5,
+      "stake_pct": 5.0,
+      "confidence": 111,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T10:55:22.309634+00:00"
+    },
+    {
+      "state_key": "f886399face03f1f525a60930e2e60c3:h2h",
+      "event_id": "f886399face03f1f525a60930e2e60c3",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Kashima Antlers",
+      "away_team": "Nagoya Grampus",
+      "commence_time": "2026-08-15T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Nagoya Grampus",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 101,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T10:55:22.887408+00:00"
+    },
+    {
+      "state_key": "f886399face03f1f525a60930e2e60c3:h2h",
+      "event_id": "f886399face03f1f525a60930e2e60c3",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Kashima Antlers",
+      "away_team": "Nagoya Grampus",
+      "commence_time": "2026-08-15T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Kashima Antlers",
+      "odds_at_alert": 7.5,
+      "stake_pct": 5.0,
+      "confidence": 86,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T10:55:23.640929+00:00"
+    },
+    {
+      "state_key": "f886399face03f1f525a60930e2e60c3:h2h",
+      "event_id": "f886399face03f1f525a60930e2e60c3",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Kashima Antlers",
+      "away_team": "Nagoya Grampus",
+      "commence_time": "2026-08-15T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Nagoya Grampus",
+      "odds_at_alert": 11.5,
+      "stake_pct": 5.0,
+      "confidence": 78,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T10:55:24.126069+00:00"
+    },
+    {
+      "state_key": "f886399face03f1f525a60930e2e60c3:h2h",
+      "event_id": "f886399face03f1f525a60930e2e60c3",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Kashima Antlers",
+      "away_team": "Nagoya Grampus",
+      "commence_time": "2026-08-15T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Kashima Antlers",
+      "odds_at_alert": 8.8,
+      "stake_pct": 5.0,
+      "confidence": 118,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T10:55:24.606812+00:00"
+    },
+    {
+      "state_key": "f886399face03f1f525a60930e2e60c3:h2h",
+      "event_id": "f886399face03f1f525a60930e2e60c3",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Kashima Antlers",
+      "away_team": "Nagoya Grampus",
+      "commence_time": "2026-08-15T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Nagoya Grampus",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 101,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T10:55:25.151011+00:00"
+    },
+    {
+      "state_key": "f3a5cc89a017147217a935fb15957188:h2h",
+      "event_id": "f3a5cc89a017147217a935fb15957188",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Shimizu S Pulse",
+      "away_team": "Yokohama F Marinos",
+      "commence_time": "2026-08-15T09:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Shimizu S Pulse",
+      "odds_at_alert": 3.6,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T10:55:25.692531+00:00"
+    },
+    {
+      "state_key": "f3a5cc89a017147217a935fb15957188:h2h",
+      "event_id": "f3a5cc89a017147217a935fb15957188",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Shimizu S Pulse",
+      "away_team": "Yokohama F Marinos",
+      "commence_time": "2026-08-15T09:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Shimizu S Pulse",
+      "odds_at_alert": 3.8,
+      "stake_pct": 3.0,
+      "confidence": 12,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T10:55:26.228830+00:00"
+    },
+    {
+      "state_key": "f3a5cc89a017147217a935fb15957188:h2h",
+      "event_id": "f3a5cc89a017147217a935fb15957188",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Shimizu S Pulse",
+      "away_team": "Yokohama F Marinos",
+      "commence_time": "2026-08-15T09:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Shimizu S Pulse",
+      "odds_at_alert": 3.8,
+      "stake_pct": 3.0,
+      "confidence": 12,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T10:55:26.726723+00:00"
+    },
+    {
+      "state_key": "f3a5cc89a017147217a935fb15957188:h2h",
+      "event_id": "f3a5cc89a017147217a935fb15957188",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Shimizu S Pulse",
+      "away_team": "Yokohama F Marinos",
+      "commence_time": "2026-08-15T09:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Yokohama F Marinos",
+      "odds_at_alert": 4.0,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T10:55:27.272124+00:00"
+    },
+    {
+      "state_key": "f3a5cc89a017147217a935fb15957188:h2h",
+      "event_id": "f3a5cc89a017147217a935fb15957188",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Shimizu S Pulse",
+      "away_team": "Yokohama F Marinos",
+      "commence_time": "2026-08-15T09:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Shimizu S Pulse",
+      "odds_at_alert": 3.6,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T10:55:27.810233+00:00"
+    },
+    {
+      "state_key": "f3a5cc89a017147217a935fb15957188:h2h",
+      "event_id": "f3a5cc89a017147217a935fb15957188",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Shimizu S Pulse",
+      "away_team": "Yokohama F Marinos",
+      "commence_time": "2026-08-15T09:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Shimizu S Pulse",
+      "odds_at_alert": 3.9,
+      "stake_pct": 3.0,
+      "confidence": 15,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T10:55:28.398640+00:00"
+    },
+    {
+      "state_key": "f3a5cc89a017147217a935fb15957188:h2h",
+      "event_id": "f3a5cc89a017147217a935fb15957188",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Shimizu S Pulse",
+      "away_team": "Yokohama F Marinos",
+      "commence_time": "2026-08-15T09:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Yokohama F Marinos",
+      "odds_at_alert": 4.3,
+      "stake_pct": 5.0,
+      "confidence": 16,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T10:55:28.890319+00:00"
+    },
+    {
+      "state_key": "64f2b1f4cf21b8c2b7bc9e1043706d14:h2h",
+      "event_id": "64f2b1f4cf21b8c2b7bc9e1043706d14",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Fagiano Okayama",
+      "away_team": "V-Varen Nagasaki",
+      "commence_time": "2026-08-15T09:55:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Fagiano Okayama",
+      "odds_at_alert": 2.08,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T10:55:29.551489+00:00"
+    },
+    {
+      "state_key": "64f2b1f4cf21b8c2b7bc9e1043706d14:h2h",
+      "event_id": "64f2b1f4cf21b8c2b7bc9e1043706d14",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Fagiano Okayama",
+      "away_team": "V-Varen Nagasaki",
+      "commence_time": "2026-08-15T09:55:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Fagiano Okayama",
+      "odds_at_alert": 2.1,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-08-15T10:55:30.207817+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
+    "64f2b1f4cf21b8c2b7bc9e1043706d14:h2h|Betfair|Fagiano Okayama",
+    "64f2b1f4cf21b8c2b7bc9e1043706d14:h2h|Matchbook|Fagiano Okayama",
     "64f2b1f4cf21b8c2b7bc9e1043706d14:h2h|Matchbook|V-Varen Nagasaki",
-    "f886399face03f1f525a60930e2e60c3:h2h|William Hill|Nagoya Grampus"
+    "b7546a95478a68d111adacd5b0af3f12:h2h|888sport|Gamba Osaka",
+    "b7546a95478a68d111adacd5b0af3f12:h2h|888sport|Mito HollyHock",
+    "b7546a95478a68d111adacd5b0af3f12:h2h|Betclic (FR)|Gamba Osaka",
+    "b7546a95478a68d111adacd5b0af3f12:h2h|Betclic (FR)|Mito HollyHock",
+    "b7546a95478a68d111adacd5b0af3f12:h2h|Betfair|Gamba Osaka",
+    "b7546a95478a68d111adacd5b0af3f12:h2h|Betfair|Mito HollyHock",
+    "b7546a95478a68d111adacd5b0af3f12:h2h|Betsson|Gamba Osaka",
+    "b7546a95478a68d111adacd5b0af3f12:h2h|Betsson|Mito HollyHock",
+    "b7546a95478a68d111adacd5b0af3f12:h2h|Coolbet|Gamba Osaka",
+    "b7546a95478a68d111adacd5b0af3f12:h2h|Coolbet|Mito HollyHock",
+    "b7546a95478a68d111adacd5b0af3f12:h2h|LeoVegas (SE)|Gamba Osaka",
+    "b7546a95478a68d111adacd5b0af3f12:h2h|LeoVegas (SE)|Mito HollyHock",
+    "b7546a95478a68d111adacd5b0af3f12:h2h|Nordic Bet|Gamba Osaka",
+    "b7546a95478a68d111adacd5b0af3f12:h2h|Nordic Bet|Mito HollyHock",
+    "b7546a95478a68d111adacd5b0af3f12:h2h|PMU (FR)|Gamba Osaka",
+    "b7546a95478a68d111adacd5b0af3f12:h2h|PMU (FR)|Mito HollyHock",
+    "b7546a95478a68d111adacd5b0af3f12:h2h|Tipico|Gamba Osaka",
+    "b7546a95478a68d111adacd5b0af3f12:h2h|Tipico|Mito HollyHock",
+    "b7546a95478a68d111adacd5b0af3f12:h2h|Unibet (NL)|Gamba Osaka",
+    "b7546a95478a68d111adacd5b0af3f12:h2h|Unibet (NL)|Mito HollyHock",
+    "b7546a95478a68d111adacd5b0af3f12:h2h|Unibet (SE)|Gamba Osaka",
+    "b7546a95478a68d111adacd5b0af3f12:h2h|Unibet (SE)|Mito HollyHock",
+    "b7546a95478a68d111adacd5b0af3f12:h2h|Winamax (DE)|Gamba Osaka",
+    "b7546a95478a68d111adacd5b0af3f12:h2h|Winamax (DE)|Mito HollyHock",
+    "b7546a95478a68d111adacd5b0af3f12:h2h|Winamax (FR)|Gamba Osaka",
+    "b7546a95478a68d111adacd5b0af3f12:h2h|Winamax (FR)|Mito HollyHock",
+    "f3a5cc89a017147217a935fb15957188:h2h|888sport|Shimizu S Pulse",
+    "f3a5cc89a017147217a935fb15957188:h2h|Betfair|Shimizu S Pulse",
+    "f3a5cc89a017147217a935fb15957188:h2h|Betfair|Yokohama F Marinos",
+    "f3a5cc89a017147217a935fb15957188:h2h|Coolbet|Shimizu S Pulse",
+    "f3a5cc89a017147217a935fb15957188:h2h|Matchbook|Shimizu S Pulse",
+    "f3a5cc89a017147217a935fb15957188:h2h|Matchbook|Yokohama F Marinos",
+    "f3a5cc89a017147217a935fb15957188:h2h|Tipico|Shimizu S Pulse",
+    "f886399face03f1f525a60930e2e60c3:h2h|888sport|Kashima Antlers",
+    "f886399face03f1f525a60930e2e60c3:h2h|888sport|Nagoya Grampus",
+    "f886399face03f1f525a60930e2e60c3:h2h|Betclic (FR)|Kashima Antlers",
+    "f886399face03f1f525a60930e2e60c3:h2h|Betclic (FR)|Nagoya Grampus",
+    "f886399face03f1f525a60930e2e60c3:h2h|Betfair|Kashima Antlers",
+    "f886399face03f1f525a60930e2e60c3:h2h|Betfair|Nagoya Grampus",
+    "f886399face03f1f525a60930e2e60c3:h2h|Betsson|Kashima Antlers",
+    "f886399face03f1f525a60930e2e60c3:h2h|Betsson|Nagoya Grampus",
+    "f886399face03f1f525a60930e2e60c3:h2h|Coolbet|Kashima Antlers",
+    "f886399face03f1f525a60930e2e60c3:h2h|Coolbet|Nagoya Grampus",
+    "f886399face03f1f525a60930e2e60c3:h2h|LeoVegas (SE)|Kashima Antlers",
+    "f886399face03f1f525a60930e2e60c3:h2h|LeoVegas (SE)|Nagoya Grampus",
+    "f886399face03f1f525a60930e2e60c3:h2h|Matchbook|Kashima Antlers",
+    "f886399face03f1f525a60930e2e60c3:h2h|Matchbook|Nagoya Grampus",
+    "f886399face03f1f525a60930e2e60c3:h2h|Nordic Bet|Kashima Antlers",
+    "f886399face03f1f525a60930e2e60c3:h2h|Nordic Bet|Nagoya Grampus",
+    "f886399face03f1f525a60930e2e60c3:h2h|PMU (FR)|Kashima Antlers",
+    "f886399face03f1f525a60930e2e60c3:h2h|PMU (FR)|Nagoya Grampus",
+    "f886399face03f1f525a60930e2e60c3:h2h|Tipico|Kashima Antlers",
+    "f886399face03f1f525a60930e2e60c3:h2h|Tipico|Nagoya Grampus",
+    "f886399face03f1f525a60930e2e60c3:h2h|Unibet (NL)|Kashima Antlers",
+    "f886399face03f1f525a60930e2e60c3:h2h|Unibet (NL)|Nagoya Grampus",
+    "f886399face03f1f525a60930e2e60c3:h2h|Unibet (SE)|Kashima Antlers",
+    "f886399face03f1f525a60930e2e60c3:h2h|Unibet (SE)|Nagoya Grampus",
+    "f886399face03f1f525a60930e2e60c3:h2h|William Hill|Nagoya Grampus",
+    "f886399face03f1f525a60930e2e60c3:h2h|Winamax (DE)|Kashima Antlers",
+    "f886399face03f1f525a60930e2e60c3:h2h|Winamax (DE)|Nagoya Grampus",
+    "f886399face03f1f525a60930e2e60c3:h2h|Winamax (FR)|Kashima Antlers",
+    "f886399face03f1f525a60930e2e60c3:h2h|Winamax (FR)|Nagoya Grampus"
   ]
 }
