@@ -1,214 +1,113 @@
 {
   "snapshots": {
-    "61338bf4e8430811fdff1efdc9a9a6e2:h2h": {
-      "Pinnacle": {
-        "Südtirol": 9.39,
-        "US Catanzaro 1929": 7.03,
-        "Draw": 1.22
-      },
-      "Betfair": {
-        "Südtirol": 1.01,
-        "US Catanzaro 1929": 1.01
-      },
-      "LeoVegas (SE)": {
-        "Südtirol": 12.0,
-        "US Catanzaro 1929": 12.5,
-        "Draw": 1.01
-      },
-      "Unibet (NL)": {
-        "Südtirol": 18.0,
-        "US Catanzaro 1929": 17.0,
-        "Draw": 1.03
-      },
-      "Tipico": {
-        "Südtirol": 1.9,
-        "US Catanzaro 1929": 1.8
-      },
-      "888sport": {
-        "Südtirol": 17.0,
-        "US Catanzaro 1929": 13.0,
-        "Draw": 1.06
-      },
-      "Unibet (SE)": {
-        "Südtirol": 41.0,
-        "US Catanzaro 1929": 35.0,
-        "Draw": 1.01
-      },
-      "Winamax (DE)": {
-        "Südtirol": 21.0,
-        "US Catanzaro 1929": 17.0,
-        "Draw": 1.04
-      }
-    },
-    "fbecc48515be0a8a0260d073d0f7e40c:h2h": {
-      "Winamax (DE)": {
-        "KV Kortrijk": 170.0,
-        "Royal Antwerp": 1.01,
-        "Draw": 24.0
-      },
-      "Betclic (FR)": {
-        "KV Kortrijk": 100.0,
-        "Royal Antwerp": 1.0,
-        "Draw": 40.0
-      },
-      "Winamax (FR)": {
-        "KV Kortrijk": 170.0,
-        "Royal Antwerp": 1.02,
-        "Draw": 23.0
-      },
-      "Betfair": {
-        "KV Kortrijk": 300.0,
-        "Royal Antwerp": 1.02,
-        "Draw": 36.0
-      },
-      "Betsson": {
-        "KV Kortrijk": 26.0,
-        "Royal Antwerp": 1.0,
-        "Draw": 26.0
-      },
-      "Nordic Bet": {
-        "KV Kortrijk": 26.0,
-        "Royal Antwerp": 1.0,
-        "Draw": 26.0
-      },
-      "888sport": {
-        "KV Kortrijk": 101.0,
-        "Royal Antwerp": 1.02,
-        "Draw": 23.0
-      }
-    },
-    "18c7c88f94d82ff92f48fec4cb460548:h2h": {
-      "Betclic (FR)": {
-        "Al-Khaleej": 12.0,
-        "Al-Taawoun": 11.0,
-        "Draw": 1.07
-      },
-      "Pinnacle": {
-        "Al-Khaleej": 4.96,
-        "Al-Taawoun": 4.22,
-        "Draw": 1.57
-      },
-      "Unibet (NL)": {
-        "Al-Khaleej": 18.0,
-        "Al-Taawoun": 15.0,
-        "Draw": 1.01
-      },
-      "Winamax (DE)": {
-        "Al-Khaleej": 34.0,
-        "Al-Taawoun": 34.0,
-        "Draw": 1.01
-      },
-      "Unibet (SE)": {
-        "Al-Khaleej": 67.0,
-        "Al-Taawoun": 26.0,
-        "Draw": 1.01
-      },
-      "Tipico": {
-        "Al-Khaleej": 30.0,
-        "Al-Taawoun": 30.0,
-        "Draw": 1.01
-      },
-      "Winamax (FR)": {
-        "Al-Khaleej": 36.0,
-        "Al-Taawoun": 34.0,
-        "Draw": 1.02
-      },
-      "LeoVegas (SE)": {
-        "Al-Khaleej": 14.0,
-        "Al-Taawoun": 12.5,
-        "Draw": 1.02
-      },
-      "PMU (FR)": {
-        "Al-Khaleej": 9.0,
-        "Al-Taawoun": 6.5,
-        "Draw": 1.07
-      },
-      "888sport": {
-        "Al-Khaleej": 15.0,
-        "Al-Taawoun": 13.0,
-        "Draw": 1.05
-      },
-      "Betfair": {
-        "Al-Khaleej": 1.04,
-        "Al-Taawoun": 1.04,
-        "Draw": 1.53
-      }
-    },
     "0cb1b113469e83f07b4593116cfa9339:h2h": {
       "Winamax (FR)": {
-        "Birmingham City": 5.7,
-        "Sheffield United": 5.4,
-        "Draw": 1.32
+        "Birmingham City": 40.0,
+        "Sheffield United": 34.0,
+        "Draw": 1.02
       },
       "Winamax (DE)": {
-        "Birmingham City": 6.0,
-        "Sheffield United": 5.7,
-        "Draw": 1.31
-      },
-      "Betclic (FR)": {
-        "Birmingham City": 5.75,
-        "Sheffield United": 5.4,
-        "Draw": 1.31
+        "Birmingham City": 30.0,
+        "Sheffield United": 27.0,
+        "Draw": 1.02
       },
       "Pinnacle": {
-        "Birmingham City": 4.81,
-        "Sheffield United": 4.47,
-        "Draw": 1.59
+        "Birmingham City": 9.28,
+        "Sheffield United": 8.18,
+        "Draw": 1.2
       },
       "Betfair": {
-        "Birmingham City": 7.8,
-        "Sheffield United": 5.9,
-        "Draw": 1.4
+        "Birmingham City": 2.14,
+        "Sheffield United": 1.2
       },
       "Tipico": {
-        "Birmingham City": 6.0,
-        "Sheffield United": 6.5,
-        "Draw": 1.3
-      },
-      "888sport": {
-        "Birmingham City": 6.0,
-        "Sheffield United": 5.5,
-        "Draw": 1.33
-      },
-      "LeoVegas (SE)": {
-        "Birmingham City": 5.75,
-        "Sheffield United": 5.25,
-        "Draw": 1.29
+        "Birmingham City": 14.0,
+        "Sheffield United": 22.0,
+        "Draw": 1.02
       },
       "Unibet (NL)": {
-        "Birmingham City": 6.1,
-        "Sheffield United": 5.6,
-        "Draw": 1.36
+        "Birmingham City": 41.0,
+        "Sheffield United": 46.0,
+        "Draw": 1.01
       },
       "Unibet (SE)": {
-        "Birmingham City": 6.1,
-        "Sheffield United": 5.6,
-        "Draw": 1.36
+        "Birmingham City": 41.0,
+        "Sheffield United": 46.0,
+        "Draw": 1.01
       },
       "Nordic Bet": {
-        "Birmingham City": 5.8,
-        "Sheffield United": 5.35,
-        "Draw": 1.34
+        "Birmingham City": 17.0,
+        "Sheffield United": 15.0,
+        "Draw": 1.05
       },
       "Betsson": {
-        "Birmingham City": 6.3,
-        "Sheffield United": 5.8,
-        "Draw": 1.31
+        "Birmingham City": 19.0,
+        "Sheffield United": 17.0,
+        "Draw": 1.04
       },
       "Coolbet": {
-        "Birmingham City": 6.0,
-        "Sheffield United": 6.0,
-        "Draw": 1.36
+        "Birmingham City": 25.0,
+        "Sheffield United": 20.0,
+        "Draw": 1.02
+      }
+    },
+    "1a31e514bafac6bfe6a45194e80bb21b:h2h": {
+      "888sport": {
+        "Padova": 151.0,
+        "Udinese": 1.02,
+        "Draw": 19.0
       },
-      "PMU (FR)": {
-        "Birmingham City": 5.6,
-        "Sheffield United": 5.1,
-        "Draw": 1.26
+      "Winamax (DE)": {
+        "Padova": 1000.0,
+        "Udinese": 1.01,
+        "Draw": 25.0
       },
-      "Matchbook": {
-        "Birmingham City": 7.8,
-        "Sheffield United": 6.2,
-        "Draw": 1.39
+      "Betfair": {
+        "Padova": 220.0,
+        "Udinese": 1.02,
+        "Draw": 34.0
+      },
+      "Tipico": {
+        "Padova": 400.0,
+        "Udinese": 1.01,
+        "Draw": 20.0
+      }
+    },
+    "2e55b844634f3ab5b6cd0269a71856b6:h2h": {
+      "Winamax (FR)": {
+        "AZ Alkmaar": 1.01,
+        "FC Utrecht": 450.0,
+        "Draw": 34.0
+      },
+      "Winamax (DE)": {
+        "AZ Alkmaar": 1.01,
+        "FC Utrecht": 450.0,
+        "Draw": 34.0
+      },
+      "Betclic (FR)": {
+        "AZ Alkmaar": 1.0,
+        "FC Utrecht": 100.0,
+        "Draw": 100.0
+      },
+      "Nordic Bet": {
+        "AZ Alkmaar": 1.0,
+        "FC Utrecht": 29.0,
+        "Draw": 26.0
+      },
+      "Betsson": {
+        "AZ Alkmaar": 1.0,
+        "FC Utrecht": 29.0,
+        "Draw": 26.0
+      },
+      "Betfair": {
+        "AZ Alkmaar": 1.01,
+        "FC Utrecht": 160.0,
+        "Draw": 50.0
+      },
+      "888sport": {
+        "AZ Alkmaar": 1.0,
+        "FC Utrecht": 151.0,
+        "Draw": 46.0
       }
     }
   },
@@ -6100,34 +5999,6 @@
     "0cb1b113469e83f07b4593116cfa9339:h2h|Winamax (DE)|Birmingham City",
     "0cb1b113469e83f07b4593116cfa9339:h2h|Winamax (DE)|Sheffield United",
     "0cb1b113469e83f07b4593116cfa9339:h2h|Winamax (FR)|Birmingham City",
-    "0cb1b113469e83f07b4593116cfa9339:h2h|Winamax (FR)|Sheffield United",
-    "18c7c88f94d82ff92f48fec4cb460548:h2h|888sport|Al-Khaleej",
-    "18c7c88f94d82ff92f48fec4cb460548:h2h|888sport|Al-Taawoun",
-    "18c7c88f94d82ff92f48fec4cb460548:h2h|Betclic (FR)|Al-Khaleej",
-    "18c7c88f94d82ff92f48fec4cb460548:h2h|Betclic (FR)|Al-Taawoun",
-    "18c7c88f94d82ff92f48fec4cb460548:h2h|LeoVegas (SE)|Al-Khaleej",
-    "18c7c88f94d82ff92f48fec4cb460548:h2h|LeoVegas (SE)|Al-Taawoun",
-    "18c7c88f94d82ff92f48fec4cb460548:h2h|PMU (FR)|Al-Khaleej",
-    "18c7c88f94d82ff92f48fec4cb460548:h2h|PMU (FR)|Al-Taawoun",
-    "18c7c88f94d82ff92f48fec4cb460548:h2h|Tipico|Al-Khaleej",
-    "18c7c88f94d82ff92f48fec4cb460548:h2h|Tipico|Al-Taawoun",
-    "18c7c88f94d82ff92f48fec4cb460548:h2h|Unibet (NL)|Al-Khaleej",
-    "18c7c88f94d82ff92f48fec4cb460548:h2h|Unibet (NL)|Al-Taawoun",
-    "18c7c88f94d82ff92f48fec4cb460548:h2h|Unibet (SE)|Al-Khaleej",
-    "18c7c88f94d82ff92f48fec4cb460548:h2h|Unibet (SE)|Al-Taawoun",
-    "18c7c88f94d82ff92f48fec4cb460548:h2h|Winamax (DE)|Al-Khaleej",
-    "18c7c88f94d82ff92f48fec4cb460548:h2h|Winamax (DE)|Al-Taawoun",
-    "18c7c88f94d82ff92f48fec4cb460548:h2h|Winamax (FR)|Al-Khaleej",
-    "18c7c88f94d82ff92f48fec4cb460548:h2h|Winamax (FR)|Al-Taawoun",
-    "61338bf4e8430811fdff1efdc9a9a6e2:h2h|888sport|Südtirol",
-    "61338bf4e8430811fdff1efdc9a9a6e2:h2h|888sport|US Catanzaro 1929",
-    "61338bf4e8430811fdff1efdc9a9a6e2:h2h|LeoVegas (SE)|Südtirol",
-    "61338bf4e8430811fdff1efdc9a9a6e2:h2h|LeoVegas (SE)|US Catanzaro 1929",
-    "61338bf4e8430811fdff1efdc9a9a6e2:h2h|Unibet (NL)|Südtirol",
-    "61338bf4e8430811fdff1efdc9a9a6e2:h2h|Unibet (NL)|US Catanzaro 1929",
-    "61338bf4e8430811fdff1efdc9a9a6e2:h2h|Unibet (SE)|Südtirol",
-    "61338bf4e8430811fdff1efdc9a9a6e2:h2h|Unibet (SE)|US Catanzaro 1929",
-    "61338bf4e8430811fdff1efdc9a9a6e2:h2h|Winamax (DE)|Südtirol",
-    "61338bf4e8430811fdff1efdc9a9a6e2:h2h|Winamax (DE)|US Catanzaro 1929"
+    "0cb1b113469e83f07b4593116cfa9339:h2h|Winamax (FR)|Sheffield United"
   ]
 }
