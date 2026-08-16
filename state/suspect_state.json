@@ -1,180 +1,161 @@
 {
   "snapshots": {
-    "71cde5854df64d0c125026c01fdf5801:h2h": {
-      "PMU (FR)": {
-        "Aalesund": 9.0,
-        "Vålerenga": 8.5,
-        "Draw": 1.03
-      },
-      "Unibet (NL)": {
-        "Aalesund": 13.0,
-        "Vålerenga": 20.0,
-        "Draw": 1.04
-      },
-      "LeoVegas (SE)": {
-        "Aalesund": 11.0,
-        "Vålerenga": 10.5,
-        "Draw": 1.04
-      },
-      "Unibet (SE)": {
-        "Aalesund": 16.0,
-        "Vålerenga": 21.0,
-        "Draw": 1.03
-      },
-      "Betclic (FR)": {
-        "Aalesund": 13.0,
-        "Vålerenga": 14.0,
-        "Draw": 1.03
-      },
-      "Winamax (DE)": {
-        "Aalesund": 18.0,
-        "Vålerenga": 18.0,
-        "Draw": 1.04
-      },
-      "Winamax (FR)": {
-        "Aalesund": 17.0,
-        "Vålerenga": 18.0,
-        "Draw": 1.06
-      },
-      "Nordic Bet": {
-        "Aalesund": 14.0,
-        "Vålerenga": 14.0,
-        "Draw": 1.04
-      },
-      "Betsson": {
-        "Aalesund": 12.5,
-        "Vålerenga": 14.0,
-        "Draw": 1.05
-      },
-      "Pinnacle": {
-        "Aalesund": 1.27,
-        "Vålerenga": 24.0,
-        "Draw": 4.55
-      },
+    "61734fd058d8f6cc5914e2ab642dbe2d:h2h": {
       "Tipico": {
-        "Aalesund": 30.0,
-        "Vålerenga": 30.0,
-        "Draw": 1.02
+        "1. FC Saarbrücken": 30.0,
+        "Jahn Regensburg": 30.0,
+        "Draw": 1.01
       },
       "Betfair": {
-        "Aalesund": 1.01,
-        "Vålerenga": 1.01
+        "1. FC Saarbrücken": 26.0,
+        "Jahn Regensburg": 26.0,
+        "Draw": 1.02
       },
-      "Coolbet": {
-        "Aalesund": 18.0,
-        "Vålerenga": 20.0,
-        "Draw": 1.06
+      "Unibet (SE)": {
+        "1. FC Saarbrücken": 41.0,
+        "Jahn Regensburg": 36.0,
+        "Draw": 1.01
       }
     },
-    "6a1f5f932469fde24238a49813c3ccc4:h2h": {
+    "f1a64c2e8e1fd333286e57b43b1f8025:h2h": {
+      "Betclic (FR)": {
+        "Estoril": 100.0,
+        "Nacional": 1.0,
+        "Draw": 100.0
+      },
       "Nordic Bet": {
-        "FC Twente Enschede": 1.29,
-        "FC Zwolle": 11.0,
-        "Draw": 5.3
+        "Estoril": 26.0,
+        "Nacional": 1.0,
+        "Draw": 26.0
       },
       "Betsson": {
-        "FC Twente Enschede": 1.0,
-        "FC Zwolle": 34.0,
-        "Draw": 23.0
+        "Estoril": 34.0,
+        "Nacional": 1.0,
+        "Draw": 21.0
       }
     },
-    "b2962f5347e9afbc16cf79303c4acc03:h2h": {
+    "09a9e817d0717bcfbae9e7fca709a15d:h2h": {
       "Coolbet": {
-        "Feyenoord": 9.0,
-        "Go Ahead Eagles": 30.0,
-        "Draw": 1.11
-      },
-      "Winamax (DE)": {
-        "Feyenoord": 8.5,
-        "Go Ahead Eagles": 23.0,
+        "Ajax": 12.0,
+        "Heerenveen": 25.0,
         "Draw": 1.08
       },
+      "Winamax (DE)": {
+        "Ajax": 10.5,
+        "Heerenveen": 26.0,
+        "Draw": 1.05
+      },
       "Winamax (FR)": {
-        "Feyenoord": 8.0,
-        "Go Ahead Eagles": 22.0,
+        "Ajax": 10.0,
+        "Heerenveen": 26.0,
+        "Draw": 1.08
+      },
+      "888sport": {
+        "Ajax": 8.5,
+        "Heerenveen": 19.0,
         "Draw": 1.11
       },
       "Betfair": {
-        "Feyenoord": 40.0,
-        "Go Ahead Eagles": 120.0,
-        "Draw": 1.02
+        "Ajax": 23.0,
+        "Heerenveen": 150.0,
+        "Draw": 1.04
       },
       "Nordic Bet": {
-        "Feyenoord": 1.27,
-        "Go Ahead Eagles": 10.5,
-        "Draw": 5.7
-      },
-      "Tipico": {
-        "Feyenoord": 15.0,
-        "Go Ahead Eagles": 50.0,
+        "Ajax": 17.0,
+        "Heerenveen": 29.0,
         "Draw": 1.02
-      },
-      "PMU (FR)": {
-        "Feyenoord": 8.0,
-        "Go Ahead Eagles": 19.0,
-        "Draw": 1.02
-      },
-      "Unibet (NL)": {
-        "Feyenoord": 11.0,
-        "Go Ahead Eagles": 36.0,
-        "Draw": 1.06
-      },
-      "LeoVegas (SE)": {
-        "Feyenoord": 10.5,
-        "Go Ahead Eagles": 34.0,
-        "Draw": 1.02
-      },
-      "Unibet (SE)": {
-        "Feyenoord": 11.0,
-        "Go Ahead Eagles": 36.0,
-        "Draw": 1.06
-      }
-    },
-    "0e01068c7b15cd9fdddf8ad5237d2170:h2h": {
-      "Betclic (FR)": {
-        "Southampton": 95.0,
-        "Watford": 1.04,
-        "Draw": 15.0
-      },
-      "Winamax (FR)": {
-        "Southampton": 100.0,
-        "Watford": 1.07,
-        "Draw": 8.5
-      },
-      "Betfair": {
-        "Southampton": 2.0,
-        "Watford": 1.01,
-        "Draw": 1.5
-      },
-      "Tipico": {
-        "Southampton": 400.0,
-        "Watford": 1.01,
-        "Draw": 20.0
-      },
-      "888sport": {
-        "Southampton": 91.0,
-        "Watford": 1.06,
-        "Draw": 9.0
-      },
-      "Nordic Bet": {
-        "Southampton": 1.0,
-        "Watford": 1.0,
-        "Draw": 1.0
       },
       "Betsson": {
-        "Southampton": 150.0,
-        "Watford": 1.04,
-        "Draw": 9.5
+        "Ajax": 9.6,
+        "Heerenveen": 19.5,
+        "Draw": 1.06
       },
-      "Coolbet": {
-        "Southampton": 250.0,
-        "Watford": 1.04,
-        "Draw": 9.2
+      "Tipico": {
+        "Ajax": 12.0,
+        "Heerenveen": 30.0,
+        "Draw": 1.03
+      },
+      "Unibet (SE)": {
+        "Ajax": 23.0,
+        "Heerenveen": 61.0,
+        "Draw": 1.01
+      },
+      "LeoVegas (SE)": {
+        "Ajax": 9.5,
+        "Heerenveen": 36.0,
+        "Draw": 1.02
       },
       "PMU (FR)": {
-        "Southampton": 67.0,
-        "Watford": 1.01,
-        "Draw": 7.0
+        "Ajax": 9.0,
+        "Heerenveen": 19.0,
+        "Draw": 1.01
+      },
+      "Unibet (NL)": {
+        "Ajax": 19.0,
+        "Heerenveen": 51.0,
+        "Draw": 1.02
+      }
+    },
+    "4071204c42c96090322a93ab1cd1c0cb:h2h": {
+      "Coolbet": {
+        "Austria Wien": 1.01,
+        "Hartberg": 66.0,
+        "Draw": 16.0
+      },
+      "Winamax (FR)": {
+        "Austria Wien": 1.02,
+        "Hartberg": 100.0,
+        "Draw": 25.0
+      },
+      "Betclic (FR)": {
+        "Austria Wien": 1.0,
+        "Hartberg": 60.0,
+        "Draw": 16.25
+      },
+      "Winamax (DE)": {
+        "Austria Wien": 1.01,
+        "Hartberg": 100.0,
+        "Draw": 24.0
+      },
+      "Suprabets": {
+        "Austria Wien": 1.01,
+        "Hartberg": 70.0,
+        "Draw": 9.0
+      },
+      "Betsson": {
+        "Austria Wien": 1.01,
+        "Hartberg": 41.0,
+        "Draw": 13.0
+      },
+      "Nordic Bet": {
+        "Austria Wien": 1.0,
+        "Hartberg": 41.0,
+        "Draw": 15.0
+      },
+      "888sport": {
+        "Austria Wien": 1.02,
+        "Hartberg": 101.0,
+        "Draw": 23.0
+      },
+      "Pinnacle": {
+        "Austria Wien": 1.29,
+        "Hartberg": 18.28,
+        "Draw": 4.48
+      },
+      "Betfair": {
+        "Austria Wien": 1.03,
+        "Hartberg": 80.0,
+        "Draw": 17.5
+      },
+      "Unibet (SE)": {
+        "Austria Wien": 1.01,
+        "Hartberg": 126.0,
+        "Draw": 21.0
+      },
+      "Unibet (NL)": {
+        "Austria Wien": 1.01,
+        "Hartberg": 126.0,
+        "Draw": 21.0
       }
     }
   },
@@ -8499,21 +8480,383 @@
       "confidence": 1251,
       "alert_type": "value",
       "alerted_at": "2026-08-16T14:34:55.330800+00:00"
+    },
+    {
+      "state_key": "4071204c42c96090322a93ab1cd1c0cb:h2h",
+      "event_id": "4071204c42c96090322a93ab1cd1c0cb",
+      "sport_key": "soccer",
+      "competition": "Austrian Football Bundesliga",
+      "home_team": "Hartberg",
+      "away_team": "Austria Wien",
+      "commence_time": "2026-08-16T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Hartberg",
+      "odds_at_alert": 66.0,
+      "stake_pct": 5.0,
+      "confidence": 243,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T16:37:40.372391+00:00"
+    },
+    {
+      "state_key": "4071204c42c96090322a93ab1cd1c0cb:h2h",
+      "event_id": "4071204c42c96090322a93ab1cd1c0cb",
+      "sport_key": "soccer",
+      "competition": "Austrian Football Bundesliga",
+      "home_team": "Hartberg",
+      "away_team": "Austria Wien",
+      "commence_time": "2026-08-16T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 16.0,
+      "stake_pct": 5.0,
+      "confidence": 239,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T16:37:40.839289+00:00"
+    },
+    {
+      "state_key": "4071204c42c96090322a93ab1cd1c0cb:h2h",
+      "event_id": "4071204c42c96090322a93ab1cd1c0cb",
+      "sport_key": "soccer",
+      "competition": "Austrian Football Bundesliga",
+      "home_team": "Hartberg",
+      "away_team": "Austria Wien",
+      "commence_time": "2026-08-16T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Hartberg",
+      "odds_at_alert": 100.0,
+      "stake_pct": 5.0,
+      "confidence": 419,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T16:37:41.293046+00:00"
+    },
+    {
+      "state_key": "4071204c42c96090322a93ab1cd1c0cb:h2h",
+      "event_id": "4071204c42c96090322a93ab1cd1c0cb",
+      "sport_key": "soccer",
+      "competition": "Austrian Football Bundesliga",
+      "home_team": "Hartberg",
+      "away_team": "Austria Wien",
+      "commence_time": "2026-08-16T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 25.0,
+      "stake_pct": 5.0,
+      "confidence": 430,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T16:37:41.757900+00:00"
+    },
+    {
+      "state_key": "4071204c42c96090322a93ab1cd1c0cb:h2h",
+      "event_id": "4071204c42c96090322a93ab1cd1c0cb",
+      "sport_key": "soccer",
+      "competition": "Austrian Football Bundesliga",
+      "home_team": "Hartberg",
+      "away_team": "Austria Wien",
+      "commence_time": "2026-08-16T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Hartberg",
+      "odds_at_alert": 60.0,
+      "stake_pct": 5.0,
+      "confidence": 212,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T16:37:42.207380+00:00"
+    },
+    {
+      "state_key": "4071204c42c96090322a93ab1cd1c0cb:h2h",
+      "event_id": "4071204c42c96090322a93ab1cd1c0cb",
+      "sport_key": "soccer",
+      "competition": "Austrian Football Bundesliga",
+      "home_team": "Hartberg",
+      "away_team": "Austria Wien",
+      "commence_time": "2026-08-16T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 16.25,
+      "stake_pct": 5.0,
+      "confidence": 244,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T16:37:42.703093+00:00"
+    },
+    {
+      "state_key": "4071204c42c96090322a93ab1cd1c0cb:h2h",
+      "event_id": "4071204c42c96090322a93ab1cd1c0cb",
+      "sport_key": "soccer",
+      "competition": "Austrian Football Bundesliga",
+      "home_team": "Hartberg",
+      "away_team": "Austria Wien",
+      "commence_time": "2026-08-16T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Hartberg",
+      "odds_at_alert": 100.0,
+      "stake_pct": 5.0,
+      "confidence": 419,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T16:37:43.173740+00:00"
+    },
+    {
+      "state_key": "4071204c42c96090322a93ab1cd1c0cb:h2h",
+      "event_id": "4071204c42c96090322a93ab1cd1c0cb",
+      "sport_key": "soccer",
+      "competition": "Austrian Football Bundesliga",
+      "home_team": "Hartberg",
+      "away_team": "Austria Wien",
+      "commence_time": "2026-08-16T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 24.0,
+      "stake_pct": 5.0,
+      "confidence": 409,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T16:37:43.628935+00:00"
+    },
+    {
+      "state_key": "4071204c42c96090322a93ab1cd1c0cb:h2h",
+      "event_id": "4071204c42c96090322a93ab1cd1c0cb",
+      "sport_key": "soccer",
+      "competition": "Austrian Football Bundesliga",
+      "home_team": "Hartberg",
+      "away_team": "Austria Wien",
+      "commence_time": "2026-08-16T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Hartberg",
+      "odds_at_alert": 70.0,
+      "stake_pct": 5.0,
+      "confidence": 264,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T16:37:44.084682+00:00"
+    },
+    {
+      "state_key": "4071204c42c96090322a93ab1cd1c0cb:h2h",
+      "event_id": "4071204c42c96090322a93ab1cd1c0cb",
+      "sport_key": "soccer",
+      "competition": "Austrian Football Bundesliga",
+      "home_team": "Hartberg",
+      "away_team": "Austria Wien",
+      "commence_time": "2026-08-16T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 9.0,
+      "stake_pct": 5.0,
+      "confidence": 91,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T16:37:44.577661+00:00"
+    },
+    {
+      "state_key": "4071204c42c96090322a93ab1cd1c0cb:h2h",
+      "event_id": "4071204c42c96090322a93ab1cd1c0cb",
+      "sport_key": "soccer",
+      "competition": "Austrian Football Bundesliga",
+      "home_team": "Hartberg",
+      "away_team": "Austria Wien",
+      "commence_time": "2026-08-16T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Hartberg",
+      "odds_at_alert": 41.0,
+      "stake_pct": 5.0,
+      "confidence": 113,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T16:37:45.043448+00:00"
+    },
+    {
+      "state_key": "4071204c42c96090322a93ab1cd1c0cb:h2h",
+      "event_id": "4071204c42c96090322a93ab1cd1c0cb",
+      "sport_key": "soccer",
+      "competition": "Austrian Football Bundesliga",
+      "home_team": "Hartberg",
+      "away_team": "Austria Wien",
+      "commence_time": "2026-08-16T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 176,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T16:37:45.512314+00:00"
+    },
+    {
+      "state_key": "4071204c42c96090322a93ab1cd1c0cb:h2h",
+      "event_id": "4071204c42c96090322a93ab1cd1c0cb",
+      "sport_key": "soccer",
+      "competition": "Austrian Football Bundesliga",
+      "home_team": "Hartberg",
+      "away_team": "Austria Wien",
+      "commence_time": "2026-08-16T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Hartberg",
+      "odds_at_alert": 41.0,
+      "stake_pct": 5.0,
+      "confidence": 113,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T16:37:46.007513+00:00"
+    },
+    {
+      "state_key": "4071204c42c96090322a93ab1cd1c0cb:h2h",
+      "event_id": "4071204c42c96090322a93ab1cd1c0cb",
+      "sport_key": "soccer",
+      "competition": "Austrian Football Bundesliga",
+      "home_team": "Hartberg",
+      "away_team": "Austria Wien",
+      "commence_time": "2026-08-16T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 218,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T16:37:46.485812+00:00"
+    },
+    {
+      "state_key": "4071204c42c96090322a93ab1cd1c0cb:h2h",
+      "event_id": "4071204c42c96090322a93ab1cd1c0cb",
+      "sport_key": "soccer",
+      "competition": "Austrian Football Bundesliga",
+      "home_team": "Hartberg",
+      "away_team": "Austria Wien",
+      "commence_time": "2026-08-16T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Hartberg",
+      "odds_at_alert": 101.0,
+      "stake_pct": 5.0,
+      "confidence": 425,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T16:37:46.975847+00:00"
+    },
+    {
+      "state_key": "4071204c42c96090322a93ab1cd1c0cb:h2h",
+      "event_id": "4071204c42c96090322a93ab1cd1c0cb",
+      "sport_key": "soccer",
+      "competition": "Austrian Football Bundesliga",
+      "home_team": "Hartberg",
+      "away_team": "Austria Wien",
+      "commence_time": "2026-08-16T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 23.0,
+      "stake_pct": 5.0,
+      "confidence": 388,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T16:37:47.473654+00:00"
+    },
+    {
+      "state_key": "4071204c42c96090322a93ab1cd1c0cb:h2h",
+      "event_id": "4071204c42c96090322a93ab1cd1c0cb",
+      "sport_key": "soccer",
+      "competition": "Austrian Football Bundesliga",
+      "home_team": "Hartberg",
+      "away_team": "Austria Wien",
+      "commence_time": "2026-08-16T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Hartberg",
+      "odds_at_alert": 80.0,
+      "stake_pct": 5.0,
+      "confidence": 316,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T16:37:47.950947+00:00"
+    },
+    {
+      "state_key": "4071204c42c96090322a93ab1cd1c0cb:h2h",
+      "event_id": "4071204c42c96090322a93ab1cd1c0cb",
+      "sport_key": "soccer",
+      "competition": "Austrian Football Bundesliga",
+      "home_team": "Hartberg",
+      "away_team": "Austria Wien",
+      "commence_time": "2026-08-16T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 17.5,
+      "stake_pct": 5.0,
+      "confidence": 271,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T16:37:48.495183+00:00"
+    },
+    {
+      "state_key": "4071204c42c96090322a93ab1cd1c0cb:h2h",
+      "event_id": "4071204c42c96090322a93ab1cd1c0cb",
+      "sport_key": "soccer",
+      "competition": "Austrian Football Bundesliga",
+      "home_team": "Hartberg",
+      "away_team": "Austria Wien",
+      "commence_time": "2026-08-16T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Hartberg",
+      "odds_at_alert": 126.0,
+      "stake_pct": 5.0,
+      "confidence": 555,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T16:37:48.994535+00:00"
+    },
+    {
+      "state_key": "4071204c42c96090322a93ab1cd1c0cb:h2h",
+      "event_id": "4071204c42c96090322a93ab1cd1c0cb",
+      "sport_key": "soccer",
+      "competition": "Austrian Football Bundesliga",
+      "home_team": "Hartberg",
+      "away_team": "Austria Wien",
+      "commence_time": "2026-08-16T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 21.0,
+      "stake_pct": 5.0,
+      "confidence": 345,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T16:37:49.542534+00:00"
+    },
+    {
+      "state_key": "4071204c42c96090322a93ab1cd1c0cb:h2h",
+      "event_id": "4071204c42c96090322a93ab1cd1c0cb",
+      "sport_key": "soccer",
+      "competition": "Austrian Football Bundesliga",
+      "home_team": "Hartberg",
+      "away_team": "Austria Wien",
+      "commence_time": "2026-08-16T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Hartberg",
+      "odds_at_alert": 126.0,
+      "stake_pct": 5.0,
+      "confidence": 555,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T16:37:50.057335+00:00"
+    },
+    {
+      "state_key": "4071204c42c96090322a93ab1cd1c0cb:h2h",
+      "event_id": "4071204c42c96090322a93ab1cd1c0cb",
+      "sport_key": "soccer",
+      "competition": "Austrian Football Bundesliga",
+      "home_team": "Hartberg",
+      "away_team": "Austria Wien",
+      "commence_time": "2026-08-16T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 21.0,
+      "stake_pct": 5.0,
+      "confidence": 345,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T16:37:50.604040+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "71cde5854df64d0c125026c01fdf5801:h2h|Betclic (FR)|Aalesund",
-    "71cde5854df64d0c125026c01fdf5801:h2h|Betsson|Aalesund",
-    "71cde5854df64d0c125026c01fdf5801:h2h|Coolbet|Aalesund",
-    "71cde5854df64d0c125026c01fdf5801:h2h|LeoVegas (SE)|Aalesund",
-    "71cde5854df64d0c125026c01fdf5801:h2h|Nordic Bet|Aalesund",
-    "71cde5854df64d0c125026c01fdf5801:h2h|PMU (FR)|Aalesund",
-    "71cde5854df64d0c125026c01fdf5801:h2h|Tipico|Aalesund",
-    "71cde5854df64d0c125026c01fdf5801:h2h|Tipico|Vålerenga",
-    "71cde5854df64d0c125026c01fdf5801:h2h|Unibet (NL)|Aalesund",
-    "71cde5854df64d0c125026c01fdf5801:h2h|Unibet (SE)|Aalesund",
-    "71cde5854df64d0c125026c01fdf5801:h2h|Winamax (DE)|Aalesund",
-    "71cde5854df64d0c125026c01fdf5801:h2h|Winamax (FR)|Aalesund"
+    "4071204c42c96090322a93ab1cd1c0cb:h2h|888sport|Draw",
+    "4071204c42c96090322a93ab1cd1c0cb:h2h|888sport|Hartberg",
+    "4071204c42c96090322a93ab1cd1c0cb:h2h|Betclic (FR)|Draw",
+    "4071204c42c96090322a93ab1cd1c0cb:h2h|Betclic (FR)|Hartberg",
+    "4071204c42c96090322a93ab1cd1c0cb:h2h|Betfair|Draw",
+    "4071204c42c96090322a93ab1cd1c0cb:h2h|Betfair|Hartberg",
+    "4071204c42c96090322a93ab1cd1c0cb:h2h|Betsson|Draw",
+    "4071204c42c96090322a93ab1cd1c0cb:h2h|Betsson|Hartberg",
+    "4071204c42c96090322a93ab1cd1c0cb:h2h|Coolbet|Draw",
+    "4071204c42c96090322a93ab1cd1c0cb:h2h|Coolbet|Hartberg",
+    "4071204c42c96090322a93ab1cd1c0cb:h2h|Nordic Bet|Draw",
+    "4071204c42c96090322a93ab1cd1c0cb:h2h|Nordic Bet|Hartberg",
+    "4071204c42c96090322a93ab1cd1c0cb:h2h|Suprabets|Draw",
+    "4071204c42c96090322a93ab1cd1c0cb:h2h|Suprabets|Hartberg",
+    "4071204c42c96090322a93ab1cd1c0cb:h2h|Unibet (NL)|Draw",
+    "4071204c42c96090322a93ab1cd1c0cb:h2h|Unibet (NL)|Hartberg",
+    "4071204c42c96090322a93ab1cd1c0cb:h2h|Unibet (SE)|Draw",
+    "4071204c42c96090322a93ab1cd1c0cb:h2h|Unibet (SE)|Hartberg",
+    "4071204c42c96090322a93ab1cd1c0cb:h2h|Winamax (DE)|Draw",
+    "4071204c42c96090322a93ab1cd1c0cb:h2h|Winamax (DE)|Hartberg",
+    "4071204c42c96090322a93ab1cd1c0cb:h2h|Winamax (FR)|Draw",
+    "4071204c42c96090322a93ab1cd1c0cb:h2h|Winamax (FR)|Hartberg"
   ]
 }
