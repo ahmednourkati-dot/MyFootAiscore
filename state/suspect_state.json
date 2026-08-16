@@ -1,73 +1,6 @@
 {
   "snapshots": {
-    "d2258ed5ad85e20cf2b7cee444bf35e3:h2h": {
-      "Betsson": {
-        "Górnik Zabrze": 1.04,
-        "Wisła Kraków": 65.0,
-        "Draw": 8.2
-      },
-      "Coolbet": {
-        "Górnik Zabrze": 1.08,
-        "Wisła Kraków": 100.0,
-        "Draw": 7.5
-      },
-      "Nordic Bet": {
-        "Górnik Zabrze": 1.08,
-        "Wisła Kraków": 65.0,
-        "Draw": 6.3
-      },
-      "888sport": {
-        "Górnik Zabrze": 1.1,
-        "Wisła Kraków": 61.0,
-        "Draw": 7.0
-      },
-      "Pinnacle": {
-        "Górnik Zabrze": 1.2,
-        "Wisła Kraków": 30.91,
-        "Draw": 5.0
-      },
-      "Betfair": {
-        "Górnik Zabrze": 1.11,
-        "Wisła Kraków": 44.0,
-        "Draw": 8.2
-      },
-      "LeoVegas (SE)": {
-        "Górnik Zabrze": 1.01,
-        "Wisła Kraków": 91.0,
-        "Draw": 9.0
-      },
-      "Unibet (NL)": {
-        "Górnik Zabrze": 1.05,
-        "Wisła Kraków": 131.0,
-        "Draw": 9.5
-      },
-      "Unibet (SE)": {
-        "Górnik Zabrze": 1.07,
-        "Wisła Kraków": 101.0,
-        "Draw": 8.0
-      }
-    },
     "668f6bfdf1a0fb65f8e1b55691fc63f0:h2h": {
-      "Winamax (DE)": {
-        "Amed SK": 1.01,
-        "Erzurum BB": 120.0,
-        "Draw": 24.0
-      },
-      "Betfair": {
-        "Amed SK": 1.04,
-        "Erzurum BB": 65.0,
-        "Draw": 21.0
-      },
-      "Winamax (FR)": {
-        "Amed SK": 1.03,
-        "Erzurum BB": 100.0,
-        "Draw": 21.0
-      },
-      "888sport": {
-        "Amed SK": 1.02,
-        "Erzurum BB": 101.0,
-        "Draw": 23.0
-      },
       "Betclic (FR)": {
         "Amed SK": 1.0,
         "Erzurum BB": 100.0,
@@ -76,101 +9,108 @@
     },
     "60970679a8d8f873516441a929eba3ac:h2h": {
       "Winamax (FR)": {
-        "Besiktas JK": 1.03,
-        "Eyüpspor": 275.0,
-        "Draw": 20.0
-      },
-      "Tipico": {
         "Besiktas JK": 1.01,
-        "Eyüpspor": 120.0,
-        "Draw": 11.0
+        "Eyüpspor": 900.0,
+        "Draw": 32.0
       },
       "Betclic (FR)": {
         "Besiktas JK": 1.0,
         "Eyüpspor": 100.0,
-        "Draw": 17.0
+        "Draw": 30.0
       },
       "Nordic Bet": {
-        "Besiktas JK": 1.03,
-        "Eyüpspor": 280.0,
-        "Draw": 23.0
+        "Besiktas JK": 1.0,
+        "Eyüpspor": 301.0,
+        "Draw": 101.0
       },
       "Winamax (DE)": {
         "Besiktas JK": 1.01,
-        "Eyüpspor": 350.0,
-        "Draw": 23.0
+        "Eyüpspor": 900.0,
+        "Draw": 30.0
       },
       "Betsson": {
-        "Besiktas JK": 1.03,
-        "Eyüpspor": 280.0,
-        "Draw": 23.0
-      },
-      "Coolbet": {
-        "Besiktas JK": 1.02,
-        "Eyüpspor": 200.0,
-        "Draw": 18.0
+        "Besiktas JK": 1.0,
+        "Eyüpspor": 301.0,
+        "Draw": 101.0
       },
       "Betfair": {
         "Besiktas JK": 1.04,
-        "Eyüpspor": 100.0,
-        "Draw": 23.0
-      },
-      "888sport": {
-        "Besiktas JK": 1.02,
-        "Eyüpspor": 151.0,
-        "Draw": 19.0
-      },
-      "Unibet (SE)": {
-        "Besiktas JK": 1.03,
-        "Eyüpspor": 111.0,
-        "Draw": 13.0
-      },
-      "Matchbook": {
-        "Besiktas JK": 1.04,
-        "Eyüpspor": 200.0,
-        "Draw": 23.0
+        "Eyüpspor": 400.0,
+        "Draw": 21.0
       }
     },
     "b419b588159d965a5da9e2d0acc16c53:h2h": {
       "Winamax (DE)": {
-        "Hellas Verona": 1.21,
-        "Virtus Entella": 18.0,
-        "Draw": 4.7
+        "Hellas Verona": 1.14,
+        "Virtus Entella": 38.0,
+        "Draw": 5.4
       },
       "Betfair": {
-        "Hellas Verona": 1.31,
-        "Virtus Entella": 23.0,
-        "Draw": 4.9
+        "Hellas Verona": 1.18,
+        "Virtus Entella": 55.0,
+        "Draw": 6.6
       },
       "Tipico": {
-        "Hellas Verona": 1.2,
-        "Virtus Entella": 18.0,
-        "Draw": 5.0
+        "Hellas Verona": 1.12,
+        "Virtus Entella": 45.0,
+        "Draw": 6.0
       },
       "Unibet (NL)": {
-        "Hellas Verona": 1.22,
-        "Virtus Entella": 15.0,
-        "Draw": 4.7
+        "Hellas Verona": 1.15,
+        "Virtus Entella": 31.0,
+        "Draw": 5.3
       },
       "888sport": {
-        "Hellas Verona": 1.25,
-        "Virtus Entella": 15.0,
-        "Draw": 4.5
+        "Hellas Verona": 1.14,
+        "Virtus Entella": 36.0,
+        "Draw": 5.75
       },
       "LeoVegas (SE)": {
-        "Hellas Verona": 1.16,
-        "Virtus Entella": 15.0,
-        "Draw": 4.25
+        "Hellas Verona": 1.09,
+        "Virtus Entella": 31.0,
+        "Draw": 5.2
       },
       "Unibet (SE)": {
-        "Hellas Verona": 1.22,
-        "Virtus Entella": 15.0,
-        "Draw": 4.7
+        "Hellas Verona": 1.15,
+        "Virtus Entella": 31.0,
+        "Draw": 5.4
+      }
+    },
+    "eda193f19bde1b5e6bca79107fdfcc4f:h2h": {
+      "Winamax (FR)": {
+        "Atletico Mineiro": 1.02,
+        "Grêmio": 110.0,
+        "Draw": 24.0
       },
-      "Pinnacle": {
-        "Hellas Verona": 1.28,
-        "Virtus Entella": 16.77,
-        "Draw": 4.57
+      "Betclic (FR)": {
+        "Atletico Mineiro": 1.0,
+        "Grêmio": 100.0,
+        "Draw": 40.0
+      },
+      "888sport": {
+        "Atletico Mineiro": 1.02,
+        "Grêmio": 91.0,
+        "Draw": 23.0
+      },
+      "Nordic Bet": {
+        "Atletico Mineiro": 1.0,
+        "Grêmio": 36.0,
+        "Draw": 21.0
+      },
+      "Winamax (DE)": {
+        "Atletico Mineiro": 1.01,
+        "Grêmio": 110.0,
+        "Draw": 24.0
+      },
+      "Betsson": {
+        "Atletico Mineiro": 1.0,
+        "Grêmio": 36.0,
+        "Draw": 21.0
+      },
+      "Betfair": {
+        "Atletico Mineiro": 1.01,
+        "Grêmio": 4.5,
+        "Draw": 1.01
       }
     }
   },
@@ -11203,22 +11143,6 @@
   ],
   "results_history": [],
   "value_alerted": [
-    "b419b588159d965a5da9e2d0acc16c53:h2h|Betfair|Virtus Entella",
-    "d2258ed5ad85e20cf2b7cee444bf35e3:h2h|888sport|Draw",
-    "d2258ed5ad85e20cf2b7cee444bf35e3:h2h|888sport|Wisła Kraków",
-    "d2258ed5ad85e20cf2b7cee444bf35e3:h2h|Betfair|Draw",
-    "d2258ed5ad85e20cf2b7cee444bf35e3:h2h|Betfair|Wisła Kraków",
-    "d2258ed5ad85e20cf2b7cee444bf35e3:h2h|Betsson|Draw",
-    "d2258ed5ad85e20cf2b7cee444bf35e3:h2h|Betsson|Wisła Kraków",
-    "d2258ed5ad85e20cf2b7cee444bf35e3:h2h|Coolbet|Draw",
-    "d2258ed5ad85e20cf2b7cee444bf35e3:h2h|Coolbet|Wisła Kraków",
-    "d2258ed5ad85e20cf2b7cee444bf35e3:h2h|LeoVegas (SE)|Draw",
-    "d2258ed5ad85e20cf2b7cee444bf35e3:h2h|LeoVegas (SE)|Wisła Kraków",
-    "d2258ed5ad85e20cf2b7cee444bf35e3:h2h|Nordic Bet|Draw",
-    "d2258ed5ad85e20cf2b7cee444bf35e3:h2h|Nordic Bet|Wisła Kraków",
-    "d2258ed5ad85e20cf2b7cee444bf35e3:h2h|Unibet (NL)|Draw",
-    "d2258ed5ad85e20cf2b7cee444bf35e3:h2h|Unibet (NL)|Wisła Kraków",
-    "d2258ed5ad85e20cf2b7cee444bf35e3:h2h|Unibet (SE)|Draw",
-    "d2258ed5ad85e20cf2b7cee444bf35e3:h2h|Unibet (SE)|Wisła Kraków"
+    "b419b588159d965a5da9e2d0acc16c53:h2h|Betfair|Virtus Entella"
   ]
 }
