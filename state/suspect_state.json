@@ -1,201 +1,261 @@
 {
   "snapshots": {
-    "5c2f5b559ef265b51ae01949ff1d66b1:h2h": {
-      "Betsson": {
-        "Charlotte FC": 1.0,
-        "Columbus Crew SC": 26.0,
-        "Draw": 26.0
+    "0f2dee69aa6fd0576b8a1cc49c985d88:h2h": {
+      "Betclic (FR)": {
+        "FC Juárez": 100.0,
+        "Monterrey": 1.0,
+        "Draw": 40.0
       },
       "Nordic Bet": {
-        "Charlotte FC": 1.0,
-        "Columbus Crew SC": 26.0,
+        "FC Juárez": 26.0,
+        "Monterrey": 1.0,
+        "Draw": 26.0
+      },
+      "Betsson": {
+        "FC Juárez": 26.0,
+        "Monterrey": 1.0,
         "Draw": 26.0
       }
     },
-    "50cc3e5963565001879937ad020c1ae3:h2h": {
-      "Unibet (SE)": {
-        "Audax Italiano": 12.0,
-        "Everton de Viña del Mar": 15.0,
-        "Draw": 1.06
-      },
-      "LeoVegas (SE)": {
-        "Audax Italiano": 11.5,
-        "Everton de Viña del Mar": 13.0,
-        "Draw": 1.01
-      },
-      "Betsson": {
-        "Audax Italiano": 8.6,
-        "Everton de Viña del Mar": 16.0,
-        "Draw": 1.08
-      },
-      "Nordic Bet": {
-        "Audax Italiano": 9.6,
-        "Everton de Viña del Mar": 16.0,
-        "Draw": 1.07
-      },
+    "6b340f239dd579a9bd28b470673e1e11:h2h": {
       "Winamax (DE)": {
-        "Audax Italiano": 9.5,
-        "Everton de Viña del Mar": 19.0,
-        "Draw": 1.07
+        "Colorado Rapids": 1.03,
+        "Sporting Kansas City": 65.0,
+        "Draw": 12.0
       },
       "Winamax (FR)": {
-        "Audax Italiano": 8.5,
-        "Everton de Viña del Mar": 17.0,
-        "Draw": 1.12
-      },
-      "888sport": {
-        "Audax Italiano": 5.0,
-        "Everton de Viña del Mar": 10.0,
-        "Draw": 1.22
+        "Colorado Rapids": 1.06,
+        "Sporting Kansas City": 65.0,
+        "Draw": 11.0
       },
       "Coolbet": {
-        "Audax Italiano": 12.0,
-        "Everton de Viña del Mar": 22.0,
-        "Draw": 1.1
-      },
-      "Pinnacle": {
-        "Audax Italiano": 7.67,
-        "Everton de Viña del Mar": 13.65,
-        "Draw": 1.14
-      },
-      "Tipico": {
-        "Audax Italiano": 6.5,
-        "Everton de Viña del Mar": 22.0,
-        "Draw": 1.1
-      },
-      "Betfair": {
-        "Audax Italiano": 6.0,
-        "Everton de Viña del Mar": 13.5,
-        "Draw": 1.19
-      },
-      "Matchbook": {
-        "Audax Italiano": 5.6,
-        "Everton de Viña del Mar": 10.5,
-        "Draw": 1.15
-      }
-    },
-    "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h": {
-      "Coolbet": {
-        "Coritiba": 25.0,
-        "Sao Paulo": 12.5,
-        "Draw": 1.05
-      },
-      "888sport": {
-        "Coritiba": 21.0,
-        "Sao Paulo": 9.0,
-        "Draw": 1.1
-      },
-      "Winamax (FR)": {
-        "Coritiba": 50.0,
-        "Sao Paulo": 40.0,
-        "Draw": 1.01
-      },
-      "Winamax (DE)": {
-        "Coritiba": 38.0,
-        "Sao Paulo": 17.0,
-        "Draw": 1.03
+        "Colorado Rapids": 1.03,
+        "Sporting Kansas City": 66.0,
+        "Draw": 12.0
       },
       "Betclic (FR)": {
-        "Coritiba": 29.0,
-        "Sao Paulo": 15.75,
-        "Draw": 1.04
+        "Colorado Rapids": 1.01,
+        "Sporting Kansas City": 80.0,
+        "Draw": 7.5
       },
-      "Betsson": {
-        "Coritiba": 29.0,
-        "Sao Paulo": 17.0,
-        "Draw": 1.02
+      "888sport": {
+        "Colorado Rapids": 1.05,
+        "Sporting Kansas City": 71.0,
+        "Draw": 11.0
       },
       "Nordic Bet": {
-        "Coritiba": 29.0,
-        "Sao Paulo": 17.0,
-        "Draw": 1.02
+        "Colorado Rapids": 1.03,
+        "Sporting Kansas City": 60.0,
+        "Draw": 12.0
+      },
+      "Betsson": {
+        "Colorado Rapids": 1.03,
+        "Sporting Kansas City": 60.0,
+        "Draw": 11.0
+      },
+      "Tipico": {
+        "Colorado Rapids": 1.02,
+        "Sporting Kansas City": 35.0,
+        "Draw": 11.0
       },
       "Unibet (NL)": {
-        "Coritiba": 16.0,
-        "Sao Paulo": 9.0,
-        "Draw": 1.06
+        "Colorado Rapids": 1.02,
+        "Sporting Kansas City": 56.0,
+        "Draw": 12.0
       },
       "LeoVegas (SE)": {
-        "Coritiba": 15.0,
-        "Sao Paulo": 9.0,
-        "Draw": 1.05
-      },
-      "PMU (FR)": {
-        "Coritiba": 14.0,
-        "Sao Paulo": 8.5,
-        "Draw": 1.03
+        "Colorado Rapids": 1.01,
+        "Sporting Kansas City": 51.0,
+        "Draw": 12.0
       },
       "Unibet (SE)": {
-        "Coritiba": 26.0,
-        "Sao Paulo": 17.0,
-        "Draw": 1.03
-      },
-      "Pinnacle": {
-        "Coritiba": 17.18,
-        "Sao Paulo": 6.98,
-        "Draw": 1.17
-      },
-      "Tipico": {
-        "Coritiba": 50.0,
-        "Sao Paulo": 30.0,
-        "Draw": 1.01
-      },
-      "Betfair": {
-        "Coritiba": 42.0,
-        "Sao Paulo": 16.5,
-        "Draw": 1.06
+        "Colorado Rapids": 1.04,
+        "Sporting Kansas City": 71.0,
+        "Draw": 13.0
       },
       "MyBookie.ag": {
-        "Coritiba": 9.25,
-        "Sao Paulo": 3.55,
-        "Draw": 1.25
-      }
-    },
-    "3954c7cfc1a9f084e51b2a1d250caba7:h2h": {
-      "Winamax (DE)": {
-        "Boca Juniors": 3.6,
-        "Platense": 8.0,
-        "Draw": 1.42
-      },
-      "Winamax (FR)": {
-        "Boca Juniors": 3.4,
-        "Platense": 7.75,
-        "Draw": 1.44
-      },
-      "Betclic (FR)": {
-        "Boca Juniors": 3.28,
-        "Platense": 7.75,
-        "Draw": 1.5
-      },
-      "Betfair": {
-        "Boca Juniors": 4.0,
-        "Platense": 9.2,
-        "Draw": 1.52
-      },
-      "Nordic Bet": {
-        "Boca Juniors": 3.5,
-        "Platense": 8.6,
-        "Draw": 1.42
-      },
-      "Betsson": {
-        "Boca Juniors": 3.5,
-        "Platense": 8.6,
-        "Draw": 1.42
-      },
-      "Unibet (SE)": {
-        "Boca Juniors": 3.5,
-        "Platense": 11.0,
-        "Draw": 1.42
-      },
-      "LeoVegas (SE)": {
-        "Boca Juniors": 3.35,
-        "Platense": 10.5,
-        "Draw": 1.34
+        "Colorado Rapids": 1.04,
+        "Sporting Kansas City": 88.0,
+        "Draw": 9.0
       },
       "Pinnacle": {
-        "Boca Juniors": 6.93,
-        "Platense": 1.74,
-        "Draw": 2.94
+        "Colorado Rapids": 1.33,
+        "Sporting Kansas City": 17.91,
+        "Draw": 3.96
+      },
+      "Betfair": {
+        "Colorado Rapids": 1.07,
+        "Sporting Kansas City": 95.0,
+        "Draw": 14.5
+      },
+      "Matchbook": {
+        "Colorado Rapids": 1.08,
+        "Sporting Kansas City": 120.0,
+        "Draw": 12.5
+      }
+    },
+    "ffbec045e6bd26649f263200a7d3bbe0:h2h": {
+      "Coolbet": {
+        "Minnesota United FC": 4.0,
+        "Real Salt Lake": 3.5,
+        "Draw": 1.85
+      },
+      "888sport": {
+        "Minnesota United FC": 4.2,
+        "Real Salt Lake": 3.3,
+        "Draw": 1.75
+      },
+      "Winamax (DE)": {
+        "Minnesota United FC": 4.0,
+        "Real Salt Lake": 3.3,
+        "Draw": 1.8
+      },
+      "Winamax (FR)": {
+        "Minnesota United FC": 3.85,
+        "Real Salt Lake": 3.25,
+        "Draw": 1.76
+      },
+      "Betclic (FR)": {
+        "Minnesota United FC": 4.0,
+        "Real Salt Lake": 2.87,
+        "Draw": 1.9
+      },
+      "Nordic Bet": {
+        "Minnesota United FC": 4.1,
+        "Real Salt Lake": 3.15,
+        "Draw": 1.85
+      },
+      "Betsson": {
+        "Minnesota United FC": 3.9,
+        "Real Salt Lake": 3.3,
+        "Draw": 1.85
+      },
+      "Tipico": {
+        "Minnesota United FC": 4.5,
+        "Real Salt Lake": 3.0,
+        "Draw": 1.85
+      },
+      "LeoVegas (SE)": {
+        "Minnesota United FC": 4.1,
+        "Real Salt Lake": 3.1,
+        "Draw": 1.83
+      },
+      "Unibet (NL)": {
+        "Minnesota United FC": 4.2,
+        "Real Salt Lake": 3.2,
+        "Draw": 1.88
+      },
+      "PMU (FR)": {
+        "Minnesota United FC": 3.8,
+        "Real Salt Lake": 3.0,
+        "Draw": 1.76
+      },
+      "Unibet (SE)": {
+        "Minnesota United FC": 4.1,
+        "Real Salt Lake": 3.25,
+        "Draw": 1.88
+      },
+      "MyBookie.ag": {
+        "Minnesota United FC": 3.9,
+        "Real Salt Lake": 3.15,
+        "Draw": 1.9
+      },
+      "Pinnacle": {
+        "Minnesota United FC": 4.37,
+        "Real Salt Lake": 3.23,
+        "Draw": 1.93
+      },
+      "Betfair": {
+        "Minnesota United FC": 4.2,
+        "Real Salt Lake": 3.55,
+        "Draw": 2.04
+      },
+      "Matchbook": {
+        "Minnesota United FC": 4.6,
+        "Real Salt Lake": 3.4,
+        "Draw": 1.87
+      }
+    },
+    "6847e874e75652b36108e9958e8247d2:h2h": {
+      "Betclic (FR)": {
+        "Los Angeles FC": 1.64,
+        "San Diego FC": 4.35,
+        "Draw": 3.53
+      },
+      "888sport": {
+        "Los Angeles FC": 1.73,
+        "San Diego FC": 4.4,
+        "Draw": 3.4
+      },
+      "Winamax (DE)": {
+        "Los Angeles FC": 1.7,
+        "San Diego FC": 4.5,
+        "Draw": 3.4
+      },
+      "Winamax (FR)": {
+        "Los Angeles FC": 1.66,
+        "San Diego FC": 4.2,
+        "Draw": 3.3
+      },
+      "Coolbet": {
+        "Los Angeles FC": 1.73,
+        "San Diego FC": 4.5,
+        "Draw": 3.6
+      },
+      "Nordic Bet": {
+        "Los Angeles FC": 1.68,
+        "San Diego FC": 4.6,
+        "Draw": 3.4
+      },
+      "Betsson": {
+        "Los Angeles FC": 1.68,
+        "San Diego FC": 4.6,
+        "Draw": 3.4
+      },
+      "Tipico": {
+        "Los Angeles FC": 1.65,
+        "San Diego FC": 4.7,
+        "Draw": 3.6
+      },
+      "LeoVegas (SE)": {
+        "Los Angeles FC": 1.77,
+        "San Diego FC": 4.1,
+        "Draw": 3.3
+      },
+      "Unibet (NL)": {
+        "Los Angeles FC": 1.83,
+        "San Diego FC": 4.2,
+        "Draw": 3.4
+      },
+      "Unibet (SE)": {
+        "Los Angeles FC": 1.83,
+        "San Diego FC": 4.1,
+        "Draw": 3.4
+      },
+      "PMU (FR)": {
+        "Los Angeles FC": 1.71,
+        "San Diego FC": 3.8,
+        "Draw": 3.15
+      },
+      "MyBookie.ag": {
+        "Los Angeles FC": 1.7,
+        "San Diego FC": 4.5,
+        "Draw": 3.55
+      },
+      "Pinnacle": {
+        "Los Angeles FC": 1.64,
+        "San Diego FC": 5.08,
+        "Draw": 3.97
+      },
+      "Betfair": {
+        "Los Angeles FC": 1.84,
+        "San Diego FC": 4.6,
+        "Draw": 3.95
+      },
+      "Matchbook": {
+        "Los Angeles FC": 1.82,
+        "San Diego FC": 4.8,
+        "Draw": 3.75
       }
     }
   },
@@ -6984,51 +7044,536 @@
       "confidence": 470,
       "alert_type": "value",
       "alerted_at": "2026-08-16T01:55:18.860115+00:00"
+    },
+    {
+      "state_key": "6b340f239dd579a9bd28b470673e1e11:h2h",
+      "event_id": "6b340f239dd579a9bd28b470673e1e11",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Colorado Rapids",
+      "away_team": "Sporting Kansas City",
+      "commence_time": "2026-08-16T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sporting Kansas City",
+      "odds_at_alert": 65.0,
+      "stake_pct": 5.0,
+      "confidence": 242,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T03:09:27.432278+00:00"
+    },
+    {
+      "state_key": "6b340f239dd579a9bd28b470673e1e11:h2h",
+      "event_id": "6b340f239dd579a9bd28b470673e1e11",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Colorado Rapids",
+      "away_team": "Sporting Kansas City",
+      "commence_time": "2026-08-16T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 186,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T03:09:27.797690+00:00"
+    },
+    {
+      "state_key": "6b340f239dd579a9bd28b470673e1e11:h2h",
+      "event_id": "6b340f239dd579a9bd28b470673e1e11",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Colorado Rapids",
+      "away_team": "Sporting Kansas City",
+      "commence_time": "2026-08-16T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sporting Kansas City",
+      "odds_at_alert": 65.0,
+      "stake_pct": 5.0,
+      "confidence": 242,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T03:09:28.142165+00:00"
+    },
+    {
+      "state_key": "6b340f239dd579a9bd28b470673e1e11:h2h",
+      "event_id": "6b340f239dd579a9bd28b470673e1e11",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Colorado Rapids",
+      "away_team": "Sporting Kansas City",
+      "commence_time": "2026-08-16T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 162,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T03:09:28.524672+00:00"
+    },
+    {
+      "state_key": "6b340f239dd579a9bd28b470673e1e11:h2h",
+      "event_id": "6b340f239dd579a9bd28b470673e1e11",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Colorado Rapids",
+      "away_team": "Sporting Kansas City",
+      "commence_time": "2026-08-16T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sporting Kansas City",
+      "odds_at_alert": 66.0,
+      "stake_pct": 5.0,
+      "confidence": 248,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T03:09:28.861872+00:00"
+    },
+    {
+      "state_key": "6b340f239dd579a9bd28b470673e1e11:h2h",
+      "event_id": "6b340f239dd579a9bd28b470673e1e11",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Colorado Rapids",
+      "away_team": "Sporting Kansas City",
+      "commence_time": "2026-08-16T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 186,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T03:09:29.207649+00:00"
+    },
+    {
+      "state_key": "6b340f239dd579a9bd28b470673e1e11:h2h",
+      "event_id": "6b340f239dd579a9bd28b470673e1e11",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Colorado Rapids",
+      "away_team": "Sporting Kansas City",
+      "commence_time": "2026-08-16T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sporting Kansas City",
+      "odds_at_alert": 80.0,
+      "stake_pct": 5.0,
+      "confidence": 321,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T03:09:29.560272+00:00"
+    },
+    {
+      "state_key": "6b340f239dd579a9bd28b470673e1e11:h2h",
+      "event_id": "6b340f239dd579a9bd28b470673e1e11",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Colorado Rapids",
+      "away_team": "Sporting Kansas City",
+      "commence_time": "2026-08-16T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 7.5,
+      "stake_pct": 5.0,
+      "confidence": 79,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T03:09:29.898413+00:00"
+    },
+    {
+      "state_key": "6b340f239dd579a9bd28b470673e1e11:h2h",
+      "event_id": "6b340f239dd579a9bd28b470673e1e11",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Colorado Rapids",
+      "away_team": "Sporting Kansas City",
+      "commence_time": "2026-08-16T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sporting Kansas City",
+      "odds_at_alert": 71.0,
+      "stake_pct": 5.0,
+      "confidence": 274,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T03:09:30.251705+00:00"
+    },
+    {
+      "state_key": "6b340f239dd579a9bd28b470673e1e11:h2h",
+      "event_id": "6b340f239dd579a9bd28b470673e1e11",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Colorado Rapids",
+      "away_team": "Sporting Kansas City",
+      "commence_time": "2026-08-16T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 162,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T03:09:30.593247+00:00"
+    },
+    {
+      "state_key": "6b340f239dd579a9bd28b470673e1e11:h2h",
+      "event_id": "6b340f239dd579a9bd28b470673e1e11",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Colorado Rapids",
+      "away_team": "Sporting Kansas City",
+      "commence_time": "2026-08-16T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sporting Kansas City",
+      "odds_at_alert": 60.0,
+      "stake_pct": 5.0,
+      "confidence": 216,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T03:09:30.946205+00:00"
+    },
+    {
+      "state_key": "6b340f239dd579a9bd28b470673e1e11:h2h",
+      "event_id": "6b340f239dd579a9bd28b470673e1e11",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Colorado Rapids",
+      "away_team": "Sporting Kansas City",
+      "commence_time": "2026-08-16T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 186,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T03:09:31.310973+00:00"
+    },
+    {
+      "state_key": "6b340f239dd579a9bd28b470673e1e11:h2h",
+      "event_id": "6b340f239dd579a9bd28b470673e1e11",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Colorado Rapids",
+      "away_team": "Sporting Kansas City",
+      "commence_time": "2026-08-16T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sporting Kansas City",
+      "odds_at_alert": 60.0,
+      "stake_pct": 5.0,
+      "confidence": 216,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T03:09:31.699133+00:00"
+    },
+    {
+      "state_key": "6b340f239dd579a9bd28b470673e1e11:h2h",
+      "event_id": "6b340f239dd579a9bd28b470673e1e11",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Colorado Rapids",
+      "away_team": "Sporting Kansas City",
+      "commence_time": "2026-08-16T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 162,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T03:09:32.042394+00:00"
+    },
+    {
+      "state_key": "6b340f239dd579a9bd28b470673e1e11:h2h",
+      "event_id": "6b340f239dd579a9bd28b470673e1e11",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Colorado Rapids",
+      "away_team": "Sporting Kansas City",
+      "commence_time": "2026-08-16T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sporting Kansas City",
+      "odds_at_alert": 35.0,
+      "stake_pct": 5.0,
+      "confidence": 84,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T03:09:32.396405+00:00"
+    },
+    {
+      "state_key": "6b340f239dd579a9bd28b470673e1e11:h2h",
+      "event_id": "6b340f239dd579a9bd28b470673e1e11",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Colorado Rapids",
+      "away_team": "Sporting Kansas City",
+      "commence_time": "2026-08-16T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 162,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T03:09:32.745192+00:00"
+    },
+    {
+      "state_key": "6b340f239dd579a9bd28b470673e1e11:h2h",
+      "event_id": "6b340f239dd579a9bd28b470673e1e11",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Colorado Rapids",
+      "away_team": "Sporting Kansas City",
+      "commence_time": "2026-08-16T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sporting Kansas City",
+      "odds_at_alert": 56.0,
+      "stake_pct": 5.0,
+      "confidence": 195,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T03:09:33.094735+00:00"
+    },
+    {
+      "state_key": "6b340f239dd579a9bd28b470673e1e11:h2h",
+      "event_id": "6b340f239dd579a9bd28b470673e1e11",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Colorado Rapids",
+      "away_team": "Sporting Kansas City",
+      "commence_time": "2026-08-16T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 186,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T03:09:33.444369+00:00"
+    },
+    {
+      "state_key": "6b340f239dd579a9bd28b470673e1e11:h2h",
+      "event_id": "6b340f239dd579a9bd28b470673e1e11",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Colorado Rapids",
+      "away_team": "Sporting Kansas City",
+      "commence_time": "2026-08-16T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sporting Kansas City",
+      "odds_at_alert": 51.0,
+      "stake_pct": 5.0,
+      "confidence": 169,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T03:09:33.785202+00:00"
+    },
+    {
+      "state_key": "6b340f239dd579a9bd28b470673e1e11:h2h",
+      "event_id": "6b340f239dd579a9bd28b470673e1e11",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Colorado Rapids",
+      "away_team": "Sporting Kansas City",
+      "commence_time": "2026-08-16T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 186,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T03:09:34.132882+00:00"
+    },
+    {
+      "state_key": "6b340f239dd579a9bd28b470673e1e11:h2h",
+      "event_id": "6b340f239dd579a9bd28b470673e1e11",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Colorado Rapids",
+      "away_team": "Sporting Kansas City",
+      "commence_time": "2026-08-16T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sporting Kansas City",
+      "odds_at_alert": 71.0,
+      "stake_pct": 5.0,
+      "confidence": 274,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T03:09:34.512397+00:00"
+    },
+    {
+      "state_key": "6b340f239dd579a9bd28b470673e1e11:h2h",
+      "event_id": "6b340f239dd579a9bd28b470673e1e11",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Colorado Rapids",
+      "away_team": "Sporting Kansas City",
+      "commence_time": "2026-08-16T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 210,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T03:09:34.846440+00:00"
+    },
+    {
+      "state_key": "6b340f239dd579a9bd28b470673e1e11:h2h",
+      "event_id": "6b340f239dd579a9bd28b470673e1e11",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Colorado Rapids",
+      "away_team": "Sporting Kansas City",
+      "commence_time": "2026-08-16T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sporting Kansas City",
+      "odds_at_alert": 88.0,
+      "stake_pct": 5.0,
+      "confidence": 363,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T03:09:35.191666+00:00"
+    },
+    {
+      "state_key": "6b340f239dd579a9bd28b470673e1e11:h2h",
+      "event_id": "6b340f239dd579a9bd28b470673e1e11",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Colorado Rapids",
+      "away_team": "Sporting Kansas City",
+      "commence_time": "2026-08-16T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 9.0,
+      "stake_pct": 5.0,
+      "confidence": 114,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T03:09:35.537159+00:00"
+    },
+    {
+      "state_key": "6b340f239dd579a9bd28b470673e1e11:h2h",
+      "event_id": "6b340f239dd579a9bd28b470673e1e11",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Colorado Rapids",
+      "away_team": "Sporting Kansas City",
+      "commence_time": "2026-08-16T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sporting Kansas City",
+      "odds_at_alert": 95.0,
+      "stake_pct": 5.0,
+      "confidence": 400,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T03:09:35.886184+00:00"
+    },
+    {
+      "state_key": "6b340f239dd579a9bd28b470673e1e11:h2h",
+      "event_id": "6b340f239dd579a9bd28b470673e1e11",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Colorado Rapids",
+      "away_team": "Sporting Kansas City",
+      "commence_time": "2026-08-16T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 14.5,
+      "stake_pct": 5.0,
+      "confidence": 245,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T03:09:36.255120+00:00"
+    },
+    {
+      "state_key": "6b340f239dd579a9bd28b470673e1e11:h2h",
+      "event_id": "6b340f239dd579a9bd28b470673e1e11",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Colorado Rapids",
+      "away_team": "Sporting Kansas City",
+      "commence_time": "2026-08-16T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sporting Kansas City",
+      "odds_at_alert": 120.0,
+      "stake_pct": 5.0,
+      "confidence": 532,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T03:09:36.640267+00:00"
+    },
+    {
+      "state_key": "6b340f239dd579a9bd28b470673e1e11:h2h",
+      "event_id": "6b340f239dd579a9bd28b470673e1e11",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Colorado Rapids",
+      "away_team": "Sporting Kansas City",
+      "commence_time": "2026-08-16T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 12.5,
+      "stake_pct": 5.0,
+      "confidence": 198,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T03:09:36.989206+00:00"
+    },
+    {
+      "state_key": "6847e874e75652b36108e9958e8247d2:h2h",
+      "event_id": "6847e874e75652b36108e9958e8247d2",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Los Angeles FC",
+      "away_team": "San Diego FC",
+      "commence_time": "2026-08-16T02:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Los Angeles FC",
+      "odds_at_alert": 1.83,
+      "stake_pct": 2.0,
+      "confidence": 5,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T03:09:37.324473+00:00"
+    },
+    {
+      "state_key": "6847e874e75652b36108e9958e8247d2:h2h",
+      "event_id": "6847e874e75652b36108e9958e8247d2",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Los Angeles FC",
+      "away_team": "San Diego FC",
+      "commence_time": "2026-08-16T02:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Los Angeles FC",
+      "odds_at_alert": 1.83,
+      "stake_pct": 2.0,
+      "confidence": 5,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T03:09:37.663373+00:00"
+    },
+    {
+      "state_key": "6847e874e75652b36108e9958e8247d2:h2h",
+      "event_id": "6847e874e75652b36108e9958e8247d2",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Los Angeles FC",
+      "away_team": "San Diego FC",
+      "commence_time": "2026-08-16T02:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Los Angeles FC",
+      "odds_at_alert": 1.84,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T03:09:38.022940+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h|888sport|Coritiba",
-    "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h|888sport|Sao Paulo",
-    "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h|Betclic (FR)|Coritiba",
-    "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h|Betclic (FR)|Sao Paulo",
-    "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h|Betfair|Coritiba",
-    "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h|Betfair|Sao Paulo",
-    "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h|Betsson|Coritiba",
-    "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h|Betsson|Sao Paulo",
-    "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h|Coolbet|Coritiba",
-    "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h|Coolbet|Sao Paulo",
-    "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h|LeoVegas (SE)|Sao Paulo",
-    "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h|Nordic Bet|Coritiba",
-    "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h|Nordic Bet|Sao Paulo",
-    "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h|PMU (FR)|Sao Paulo",
-    "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h|Tipico|Coritiba",
-    "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h|Tipico|Sao Paulo",
-    "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h|Unibet (NL)|Sao Paulo",
-    "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h|Unibet (SE)|Coritiba",
-    "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h|Unibet (SE)|Sao Paulo",
-    "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h|Winamax (DE)|Coritiba",
-    "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h|Winamax (DE)|Sao Paulo",
-    "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h|Winamax (FR)|Coritiba",
-    "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h|Winamax (FR)|Sao Paulo",
-    "3954c7cfc1a9f084e51b2a1d250caba7:h2h|Betclic (FR)|Platense",
-    "3954c7cfc1a9f084e51b2a1d250caba7:h2h|Betfair|Platense",
-    "3954c7cfc1a9f084e51b2a1d250caba7:h2h|Betsson|Platense",
-    "3954c7cfc1a9f084e51b2a1d250caba7:h2h|LeoVegas (SE)|Platense",
-    "3954c7cfc1a9f084e51b2a1d250caba7:h2h|Nordic Bet|Platense",
-    "3954c7cfc1a9f084e51b2a1d250caba7:h2h|Unibet (SE)|Platense",
-    "3954c7cfc1a9f084e51b2a1d250caba7:h2h|Winamax (DE)|Platense",
-    "3954c7cfc1a9f084e51b2a1d250caba7:h2h|Winamax (FR)|Platense",
-    "50cc3e5963565001879937ad020c1ae3:h2h|Betsson|Everton de Viña del Mar",
-    "50cc3e5963565001879937ad020c1ae3:h2h|Coolbet|Audax Italiano",
-    "50cc3e5963565001879937ad020c1ae3:h2h|Coolbet|Everton de Viña del Mar",
-    "50cc3e5963565001879937ad020c1ae3:h2h|LeoVegas (SE)|Audax Italiano",
-    "50cc3e5963565001879937ad020c1ae3:h2h|Nordic Bet|Audax Italiano",
-    "50cc3e5963565001879937ad020c1ae3:h2h|Nordic Bet|Everton de Viña del Mar",
-    "50cc3e5963565001879937ad020c1ae3:h2h|Tipico|Everton de Viña del Mar",
-    "50cc3e5963565001879937ad020c1ae3:h2h|Unibet (SE)|Audax Italiano",
-    "50cc3e5963565001879937ad020c1ae3:h2h|Winamax (DE)|Audax Italiano",
-    "50cc3e5963565001879937ad020c1ae3:h2h|Winamax (DE)|Everton de Viña del Mar",
-    "50cc3e5963565001879937ad020c1ae3:h2h|Winamax (FR)|Everton de Viña del Mar"
+    "6847e874e75652b36108e9958e8247d2:h2h|Betfair|Los Angeles FC",
+    "6847e874e75652b36108e9958e8247d2:h2h|Unibet (NL)|Los Angeles FC",
+    "6847e874e75652b36108e9958e8247d2:h2h|Unibet (SE)|Los Angeles FC",
+    "6b340f239dd579a9bd28b470673e1e11:h2h|888sport|Draw",
+    "6b340f239dd579a9bd28b470673e1e11:h2h|888sport|Sporting Kansas City",
+    "6b340f239dd579a9bd28b470673e1e11:h2h|Betclic (FR)|Draw",
+    "6b340f239dd579a9bd28b470673e1e11:h2h|Betclic (FR)|Sporting Kansas City",
+    "6b340f239dd579a9bd28b470673e1e11:h2h|Betfair|Draw",
+    "6b340f239dd579a9bd28b470673e1e11:h2h|Betfair|Sporting Kansas City",
+    "6b340f239dd579a9bd28b470673e1e11:h2h|Betsson|Draw",
+    "6b340f239dd579a9bd28b470673e1e11:h2h|Betsson|Sporting Kansas City",
+    "6b340f239dd579a9bd28b470673e1e11:h2h|Coolbet|Draw",
+    "6b340f239dd579a9bd28b470673e1e11:h2h|Coolbet|Sporting Kansas City",
+    "6b340f239dd579a9bd28b470673e1e11:h2h|LeoVegas (SE)|Draw",
+    "6b340f239dd579a9bd28b470673e1e11:h2h|LeoVegas (SE)|Sporting Kansas City",
+    "6b340f239dd579a9bd28b470673e1e11:h2h|Matchbook|Draw",
+    "6b340f239dd579a9bd28b470673e1e11:h2h|Matchbook|Sporting Kansas City",
+    "6b340f239dd579a9bd28b470673e1e11:h2h|MyBookie.ag|Draw",
+    "6b340f239dd579a9bd28b470673e1e11:h2h|MyBookie.ag|Sporting Kansas City",
+    "6b340f239dd579a9bd28b470673e1e11:h2h|Nordic Bet|Draw",
+    "6b340f239dd579a9bd28b470673e1e11:h2h|Nordic Bet|Sporting Kansas City",
+    "6b340f239dd579a9bd28b470673e1e11:h2h|Tipico|Draw",
+    "6b340f239dd579a9bd28b470673e1e11:h2h|Tipico|Sporting Kansas City",
+    "6b340f239dd579a9bd28b470673e1e11:h2h|Unibet (NL)|Draw",
+    "6b340f239dd579a9bd28b470673e1e11:h2h|Unibet (NL)|Sporting Kansas City",
+    "6b340f239dd579a9bd28b470673e1e11:h2h|Unibet (SE)|Draw",
+    "6b340f239dd579a9bd28b470673e1e11:h2h|Unibet (SE)|Sporting Kansas City",
+    "6b340f239dd579a9bd28b470673e1e11:h2h|Winamax (DE)|Draw",
+    "6b340f239dd579a9bd28b470673e1e11:h2h|Winamax (DE)|Sporting Kansas City",
+    "6b340f239dd579a9bd28b470673e1e11:h2h|Winamax (FR)|Draw",
+    "6b340f239dd579a9bd28b470673e1e11:h2h|Winamax (FR)|Sporting Kansas City"
   ]
 }
