@@ -1,261 +1,396 @@
 {
   "snapshots": {
-    "0f2dee69aa6fd0576b8a1cc49c985d88:h2h": {
-      "Betclic (FR)": {
-        "FC Juárez": 100.0,
-        "Monterrey": 1.0,
-        "Draw": 40.0
-      },
-      "Nordic Bet": {
-        "FC Juárez": 26.0,
-        "Monterrey": 1.0,
-        "Draw": 26.0
-      },
-      "Betsson": {
-        "FC Juárez": 26.0,
-        "Monterrey": 1.0,
-        "Draw": 26.0
-      }
-    },
-    "6b340f239dd579a9bd28b470673e1e11:h2h": {
-      "Winamax (DE)": {
-        "Colorado Rapids": 1.03,
-        "Sporting Kansas City": 65.0,
-        "Draw": 12.0
-      },
-      "Winamax (FR)": {
-        "Colorado Rapids": 1.06,
-        "Sporting Kansas City": 65.0,
-        "Draw": 11.0
-      },
-      "Coolbet": {
-        "Colorado Rapids": 1.03,
-        "Sporting Kansas City": 66.0,
-        "Draw": 12.0
-      },
-      "Betclic (FR)": {
-        "Colorado Rapids": 1.01,
-        "Sporting Kansas City": 80.0,
-        "Draw": 7.5
-      },
-      "888sport": {
-        "Colorado Rapids": 1.05,
-        "Sporting Kansas City": 71.0,
-        "Draw": 11.0
-      },
-      "Nordic Bet": {
-        "Colorado Rapids": 1.03,
-        "Sporting Kansas City": 60.0,
-        "Draw": 12.0
-      },
-      "Betsson": {
-        "Colorado Rapids": 1.03,
-        "Sporting Kansas City": 60.0,
-        "Draw": 11.0
-      },
-      "Tipico": {
-        "Colorado Rapids": 1.05,
-        "Sporting Kansas City": 35.0,
-        "Draw": 8.5
-      },
-      "Unibet (NL)": {
-        "Colorado Rapids": 1.02,
-        "Sporting Kansas City": 56.0,
-        "Draw": 12.5
-      },
-      "LeoVegas (SE)": {
-        "Colorado Rapids": 1.01,
-        "Sporting Kansas City": 51.0,
-        "Draw": 12.0
-      },
-      "Unibet (SE)": {
-        "Colorado Rapids": 1.04,
-        "Sporting Kansas City": 71.0,
-        "Draw": 13.0
-      },
-      "MyBookie.ag": {
-        "Colorado Rapids": 1.04,
-        "Sporting Kansas City": 88.0,
-        "Draw": 9.0
-      },
-      "Pinnacle": {
-        "Colorado Rapids": 1.33,
-        "Sporting Kansas City": 17.91,
-        "Draw": 3.96
-      },
-      "Betfair": {
-        "Colorado Rapids": 1.07,
-        "Sporting Kansas City": 75.0,
-        "Draw": 15.5
-      },
-      "Matchbook": {
-        "Colorado Rapids": 1.07,
-        "Sporting Kansas City": 90.0,
-        "Draw": 12.0
-      }
-    },
-    "ffbec045e6bd26649f263200a7d3bbe0:h2h": {
-      "Coolbet": {
-        "Minnesota United FC": 4.33,
-        "Real Salt Lake": 3.14,
-        "Draw": 1.91
-      },
-      "888sport": {
-        "Minnesota United FC": 4.2,
-        "Real Salt Lake": 3.3,
-        "Draw": 1.75
-      },
-      "Winamax (DE)": {
-        "Minnesota United FC": 4.0,
-        "Real Salt Lake": 3.3,
-        "Draw": 1.8
-      },
-      "Winamax (FR)": {
-        "Minnesota United FC": 3.85,
-        "Real Salt Lake": 3.25,
-        "Draw": 1.76
-      },
-      "Betclic (FR)": {
-        "Minnesota United FC": 4.0,
-        "Real Salt Lake": 2.87,
-        "Draw": 1.9
-      },
-      "Nordic Bet": {
-        "Minnesota United FC": 4.1,
-        "Real Salt Lake": 3.15,
-        "Draw": 1.85
-      },
-      "Betsson": {
-        "Minnesota United FC": 3.9,
-        "Real Salt Lake": 3.3,
-        "Draw": 1.85
-      },
-      "Tipico": {
-        "Minnesota United FC": 4.3,
-        "Real Salt Lake": 3.0,
-        "Draw": 1.9
-      },
-      "LeoVegas (SE)": {
-        "Minnesota United FC": 3.9,
-        "Real Salt Lake": 3.2,
-        "Draw": 1.83
-      },
-      "Unibet (NL)": {
-        "Minnesota United FC": 4.0,
-        "Real Salt Lake": 3.3,
-        "Draw": 1.88
-      },
-      "PMU (FR)": {
-        "Minnesota United FC": 3.8,
-        "Real Salt Lake": 3.0,
-        "Draw": 1.76
-      },
-      "Unibet (SE)": {
-        "Minnesota United FC": 4.1,
-        "Real Salt Lake": 3.25,
-        "Draw": 1.88
-      },
-      "MyBookie.ag": {
-        "Minnesota United FC": 3.9,
-        "Real Salt Lake": 3.15,
-        "Draw": 1.9
-      },
-      "Pinnacle": {
-        "Minnesota United FC": 4.37,
-        "Real Salt Lake": 3.23,
-        "Draw": 1.93
-      },
-      "Betfair": {
-        "Minnesota United FC": 4.3,
-        "Real Salt Lake": 3.55,
-        "Draw": 2.02
-      },
-      "Matchbook": {
-        "Minnesota United FC": 4.5,
-        "Real Salt Lake": 3.5,
-        "Draw": 1.92
-      }
-    },
-    "6847e874e75652b36108e9958e8247d2:h2h": {
-      "Betclic (FR)": {
-        "Los Angeles FC": 1.64,
-        "San Diego FC": 4.35,
-        "Draw": 3.53
-      },
-      "888sport": {
-        "Los Angeles FC": 1.65,
-        "San Diego FC": 4.5,
+    "e7058353789b7cf1130a7709f703f2b5:h2h": {
+      "Codere (IT)": {
+        "ADO Den Haag": 2.8,
+        "Groningen": 2.36,
         "Draw": 3.6
       },
-      "Winamax (DE)": {
-        "Los Angeles FC": 1.7,
-        "San Diego FC": 4.5,
-        "Draw": 3.4
-      },
-      "Winamax (FR)": {
-        "Los Angeles FC": 1.66,
-        "San Diego FC": 4.2,
-        "Draw": 3.3
+      "1xBet": {
+        "ADO Den Haag": 2.79,
+        "Groningen": 2.47,
+        "Draw": 3.6
       },
       "Coolbet": {
-        "Los Angeles FC": 1.73,
-        "San Diego FC": 5.0,
+        "ADO Den Haag": 2.75,
+        "Groningen": 2.4,
+        "Draw": 3.75
+      },
+      "Unibet (FR)": {
+        "ADO Den Haag": 2.75,
+        "Groningen": 2.25,
+        "Draw": 3.5
+      },
+      "Winamax (DE)": {
+        "ADO Den Haag": 2.65,
+        "Groningen": 2.25,
+        "Draw": 3.55
+      },
+      "Betfair": {
+        "ADO Den Haag": 2.9,
+        "Groningen": 2.54,
+        "Draw": 3.7
+      },
+      "Marathon Bet": {
+        "ADO Den Haag": 2.71,
+        "Groningen": 2.4,
+        "Draw": 3.5
+      },
+      "888sport": {
+        "ADO Den Haag": 2.62,
+        "Groningen": 2.38,
+        "Draw": 3.4
+      },
+      "William Hill": {
+        "ADO Den Haag": 2.62,
+        "Groningen": 2.38,
+        "Draw": 3.4
+      },
+      "Pinnacle": {
+        "ADO Den Haag": 2.78,
+        "Groningen": 2.49,
+        "Draw": 3.68
+      },
+      "BetOnline.ag": {
+        "ADO Den Haag": 2.9,
+        "Groningen": 2.32,
+        "Draw": 3.65
+      },
+      "Betsson": {
+        "ADO Den Haag": 2.72,
+        "Groningen": 2.48,
         "Draw": 3.5
       },
       "Nordic Bet": {
-        "Los Angeles FC": 1.68,
-        "San Diego FC": 4.6,
-        "Draw": 3.4
-      },
-      "Betsson": {
-        "Los Angeles FC": 1.68,
-        "San Diego FC": 4.6,
-        "Draw": 3.4
+        "ADO Den Haag": 2.72,
+        "Groningen": 2.48,
+        "Draw": 3.5
       },
       "Tipico": {
-        "Los Angeles FC": 1.6,
-        "San Diego FC": 5.0,
-        "Draw": 3.8
+        "ADO Den Haag": 2.8,
+        "Groningen": 2.35,
+        "Draw": 3.5
       },
       "LeoVegas (SE)": {
-        "Los Angeles FC": 1.77,
-        "San Diego FC": 4.0,
-        "Draw": 3.3
+        "ADO Den Haag": 2.65,
+        "Groningen": 2.25,
+        "Draw": 3.4
       },
       "Unibet (NL)": {
-        "Los Angeles FC": 1.82,
-        "San Diego FC": 4.2,
+        "ADO Den Haag": 2.88,
+        "Groningen": 2.43,
+        "Draw": 3.7
+      },
+      "PMU (FR)": {
+        "ADO Den Haag": 2.7,
+        "Groningen": 2.28,
         "Draw": 3.4
       },
       "Unibet (SE)": {
-        "Los Angeles FC": 1.83,
-        "San Diego FC": 4.1,
-        "Draw": 3.4
-      },
-      "PMU (FR)": {
-        "Los Angeles FC": 1.71,
-        "San Diego FC": 3.8,
-        "Draw": 3.15
-      },
-      "MyBookie.ag": {
-        "Los Angeles FC": 1.7,
-        "San Diego FC": 4.5,
+        "ADO Den Haag": 2.75,
+        "Groningen": 2.35,
         "Draw": 3.55
       },
-      "Pinnacle": {
-        "Los Angeles FC": 1.64,
-        "San Diego FC": 5.08,
-        "Draw": 3.97
-      },
-      "Betfair": {
-        "Los Angeles FC": 1.78,
-        "San Diego FC": 5.1,
-        "Draw": 4.0
+      "BetAnything": {
+        "ADO Den Haag": 2.9,
+        "Groningen": 2.32,
+        "Draw": 3.65
       },
       "Matchbook": {
-        "Los Angeles FC": 1.82,
-        "San Diego FC": 4.4,
-        "Draw": 3.85
+        "ADO Den Haag": 2.94,
+        "Groningen": 2.52,
+        "Draw": 3.7
+      }
+    },
+    "71f3d835fcbd6f23b0f6ff88b240699b:h2h": {
+      "Unibet (NL)": {
+        "Bucheon FC 1995": 3.95,
+        "Jeonbuk Hyundai Motors": 1.78,
+        "Draw": 3.25
+      },
+      "Unibet (SE)": {
+        "Bucheon FC 1995": 3.95,
+        "Jeonbuk Hyundai Motors": 1.78,
+        "Draw": 3.25
+      },
+      "LeoVegas (SE)": {
+        "Bucheon FC 1995": 3.95,
+        "Jeonbuk Hyundai Motors": 1.77,
+        "Draw": 3.25
+      },
+      "PMU (FR)": {
+        "Bucheon FC 1995": 3.8,
+        "Jeonbuk Hyundai Motors": 1.71,
+        "Draw": 3.15
+      },
+      "Betsson": {
+        "Bucheon FC 1995": 4.3,
+        "Jeonbuk Hyundai Motors": 1.72,
+        "Draw": 3.4
+      },
+      "Nordic Bet": {
+        "Bucheon FC 1995": 4.3,
+        "Jeonbuk Hyundai Motors": 1.72,
+        "Draw": 3.4
+      },
+      "Betclic (FR)": {
+        "Bucheon FC 1995": 4.35,
+        "Jeonbuk Hyundai Motors": 1.71,
+        "Draw": 3.5
+      },
+      "Winamax (FR)": {
+        "Bucheon FC 1995": 4.1,
+        "Jeonbuk Hyundai Motors": 1.7,
+        "Draw": 3.5
+      },
+      "Winamax (DE)": {
+        "Bucheon FC 1995": 4.2,
+        "Jeonbuk Hyundai Motors": 1.72,
+        "Draw": 3.6
+      },
+      "Pinnacle": {
+        "Bucheon FC 1995": 4.83,
+        "Jeonbuk Hyundai Motors": 1.77,
+        "Draw": 3.79
+      },
+      "1xBet": {
+        "Bucheon FC 1995": 4.66,
+        "Jeonbuk Hyundai Motors": 1.75,
+        "Draw": 3.58
+      },
+      "Marathon Bet": {
+        "Bucheon FC 1995": 4.7,
+        "Jeonbuk Hyundai Motors": 1.73,
+        "Draw": 3.58
+      },
+      "Tipico": {
+        "Bucheon FC 1995": 4.7,
+        "Jeonbuk Hyundai Motors": 1.7,
+        "Draw": 3.5
+      },
+      "Unibet (FR)": {
+        "Bucheon FC 1995": 4.4,
+        "Jeonbuk Hyundai Motors": 1.68,
+        "Draw": 3.5
+      },
+      "William Hill": {
+        "Bucheon FC 1995": 4.4,
+        "Jeonbuk Hyundai Motors": 1.75,
+        "Draw": 3.4
+      },
+      "BetOnline.ag": {
+        "Bucheon FC 1995": 4.7,
+        "Jeonbuk Hyundai Motors": 1.75,
+        "Draw": 3.65
+      },
+      "Coolbet": {
+        "Bucheon FC 1995": 4.5,
+        "Jeonbuk Hyundai Motors": 1.78,
+        "Draw": 3.6
+      },
+      "Betfair": {
+        "Bucheon FC 1995": 5.0,
+        "Jeonbuk Hyundai Motors": 1.81,
+        "Draw": 3.8
+      },
+      "Matchbook": {
+        "Bucheon FC 1995": 5.1,
+        "Jeonbuk Hyundai Motors": 1.81,
+        "Draw": 3.8
+      }
+    },
+    "2238dcca465c6c0ffe8f74648b5c76db:h2h": {
+      "Unibet (NL)": {
+        "Gangwon FC": 2.43,
+        "Ulsan Hyundai FC": 2.6,
+        "Draw": 3.05
+      },
+      "LeoVegas (SE)": {
+        "Gangwon FC": 2.4,
+        "Ulsan Hyundai FC": 2.6,
+        "Draw": 3.05
+      },
+      "Unibet (SE)": {
+        "Gangwon FC": 2.43,
+        "Ulsan Hyundai FC": 2.6,
+        "Draw": 3.05
+      },
+      "PMU (FR)": {
+        "Gangwon FC": 2.33,
+        "Ulsan Hyundai FC": 2.5,
+        "Draw": 2.95
+      },
+      "Betsson": {
+        "Gangwon FC": 2.72,
+        "Ulsan Hyundai FC": 2.42,
+        "Draw": 3.15
+      },
+      "Nordic Bet": {
+        "Gangwon FC": 2.72,
+        "Ulsan Hyundai FC": 2.42,
+        "Draw": 3.15
+      },
+      "Betclic (FR)": {
+        "Gangwon FC": 2.78,
+        "Ulsan Hyundai FC": 2.35,
+        "Draw": 3.13
+      },
+      "Winamax (FR)": {
+        "Gangwon FC": 2.6,
+        "Ulsan Hyundai FC": 2.35,
+        "Draw": 3.2
+      },
+      "Winamax (DE)": {
+        "Gangwon FC": 2.65,
+        "Ulsan Hyundai FC": 2.4,
+        "Draw": 3.25
+      },
+      "Pinnacle": {
+        "Gangwon FC": 2.99,
+        "Ulsan Hyundai FC": 2.49,
+        "Draw": 3.38
+      },
+      "1xBet": {
+        "Gangwon FC": 2.89,
+        "Ulsan Hyundai FC": 2.45,
+        "Draw": 3.2
+      },
+      "Marathon Bet": {
+        "Gangwon FC": 2.88,
+        "Ulsan Hyundai FC": 2.43,
+        "Draw": 3.2
+      },
+      "BetOnline.ag": {
+        "Gangwon FC": 2.9,
+        "Ulsan Hyundai FC": 2.48,
+        "Draw": 3.3
+      },
+      "Tipico": {
+        "Gangwon FC": 2.85,
+        "Ulsan Hyundai FC": 2.35,
+        "Draw": 3.2
+      },
+      "Unibet (FR)": {
+        "Gangwon FC": 2.75,
+        "Ulsan Hyundai FC": 2.3,
+        "Draw": 3.2
+      },
+      "William Hill": {
+        "Gangwon FC": 2.8,
+        "Ulsan Hyundai FC": 2.4,
+        "Draw": 3.1
+      },
+      "Coolbet": {
+        "Gangwon FC": 2.8,
+        "Ulsan Hyundai FC": 2.45,
+        "Draw": 3.4
+      },
+      "Betfair": {
+        "Gangwon FC": 3.0,
+        "Ulsan Hyundai FC": 2.54,
+        "Draw": 3.45
+      },
+      "Matchbook": {
+        "Gangwon FC": 3.0,
+        "Ulsan Hyundai FC": 2.54,
+        "Draw": 3.45
+      }
+    },
+    "4135b007000cfcd365dfc48d6370bd73:h2h": {
+      "Unibet (NL)": {
+        "Incheon United": 2.05,
+        "Sangju Sangmu FC": 3.2,
+        "Draw": 3.05
+      },
+      "Unibet (SE)": {
+        "Incheon United": 2.05,
+        "Sangju Sangmu FC": 3.2,
+        "Draw": 3.05
+      },
+      "LeoVegas (SE)": {
+        "Incheon United": 2.04,
+        "Sangju Sangmu FC": 3.15,
+        "Draw": 3.05
+      },
+      "PMU (FR)": {
+        "Incheon United": 1.96,
+        "Sangju Sangmu FC": 3.05,
+        "Draw": 2.95
+      },
+      "Betsson": {
+        "Incheon United": 2.05,
+        "Sangju Sangmu FC": 3.4,
+        "Draw": 3.1
+      },
+      "Winamax (FR)": {
+        "Incheon United": 2.0,
+        "Sangju Sangmu FC": 3.2,
+        "Draw": 3.15
+      },
+      "Nordic Bet": {
+        "Incheon United": 2.05,
+        "Sangju Sangmu FC": 3.4,
+        "Draw": 3.1
+      },
+      "Betclic (FR)": {
+        "Incheon United": 2.1,
+        "Sangju Sangmu FC": 3.4,
+        "Draw": 3.03
+      },
+      "Winamax (DE)": {
+        "Incheon United": 2.05,
+        "Sangju Sangmu FC": 3.25,
+        "Draw": 3.2
+      },
+      "Pinnacle": {
+        "Incheon United": 2.21,
+        "Sangju Sangmu FC": 3.68,
+        "Draw": 3.24
+      },
+      "1xBet": {
+        "Incheon United": 2.15,
+        "Sangju Sangmu FC": 3.52,
+        "Draw": 3.14
+      },
+      "Marathon Bet": {
+        "Incheon United": 2.13,
+        "Sangju Sangmu FC": 3.52,
+        "Draw": 3.14
+      },
+      "BetOnline.ag": {
+        "Incheon United": 2.16,
+        "Sangju Sangmu FC": 3.65,
+        "Draw": 3.15
+      },
+      "Tipico": {
+        "Incheon United": 2.05,
+        "Sangju Sangmu FC": 3.6,
+        "Draw": 3.1
+      },
+      "Unibet (FR)": {
+        "Incheon United": 2.0,
+        "Sangju Sangmu FC": 3.4,
+        "Draw": 3.2
+      },
+      "William Hill": {
+        "Incheon United": 2.1,
+        "Sangju Sangmu FC": 3.5,
+        "Draw": 3.0
+      },
+      "Coolbet": {
+        "Incheon United": 2.17,
+        "Sangju Sangmu FC": 3.4,
+        "Draw": 3.25
+      },
+      "Betfair": {
+        "Incheon United": 2.26,
+        "Sangju Sangmu FC": 3.75,
+        "Draw": 3.35
+      },
+      "Matchbook": {
+        "Incheon United": 2.24,
+        "Sangju Sangmu FC": 3.75,
+        "Draw": 3.35
       }
     }
   },
@@ -9223,35 +9358,5 @@
     }
   ],
   "results_history": [],
-  "value_alerted": [
-    "6847e874e75652b36108e9958e8247d2:h2h|Unibet (SE)|Los Angeles FC",
-    "6b340f239dd579a9bd28b470673e1e11:h2h|888sport|Draw",
-    "6b340f239dd579a9bd28b470673e1e11:h2h|888sport|Sporting Kansas City",
-    "6b340f239dd579a9bd28b470673e1e11:h2h|Betclic (FR)|Draw",
-    "6b340f239dd579a9bd28b470673e1e11:h2h|Betclic (FR)|Sporting Kansas City",
-    "6b340f239dd579a9bd28b470673e1e11:h2h|Betfair|Draw",
-    "6b340f239dd579a9bd28b470673e1e11:h2h|Betfair|Sporting Kansas City",
-    "6b340f239dd579a9bd28b470673e1e11:h2h|Betsson|Draw",
-    "6b340f239dd579a9bd28b470673e1e11:h2h|Betsson|Sporting Kansas City",
-    "6b340f239dd579a9bd28b470673e1e11:h2h|Coolbet|Draw",
-    "6b340f239dd579a9bd28b470673e1e11:h2h|Coolbet|Sporting Kansas City",
-    "6b340f239dd579a9bd28b470673e1e11:h2h|LeoVegas (SE)|Draw",
-    "6b340f239dd579a9bd28b470673e1e11:h2h|LeoVegas (SE)|Sporting Kansas City",
-    "6b340f239dd579a9bd28b470673e1e11:h2h|Matchbook|Draw",
-    "6b340f239dd579a9bd28b470673e1e11:h2h|Matchbook|Sporting Kansas City",
-    "6b340f239dd579a9bd28b470673e1e11:h2h|MyBookie.ag|Draw",
-    "6b340f239dd579a9bd28b470673e1e11:h2h|MyBookie.ag|Sporting Kansas City",
-    "6b340f239dd579a9bd28b470673e1e11:h2h|Nordic Bet|Draw",
-    "6b340f239dd579a9bd28b470673e1e11:h2h|Nordic Bet|Sporting Kansas City",
-    "6b340f239dd579a9bd28b470673e1e11:h2h|Tipico|Draw",
-    "6b340f239dd579a9bd28b470673e1e11:h2h|Tipico|Sporting Kansas City",
-    "6b340f239dd579a9bd28b470673e1e11:h2h|Unibet (NL)|Draw",
-    "6b340f239dd579a9bd28b470673e1e11:h2h|Unibet (NL)|Sporting Kansas City",
-    "6b340f239dd579a9bd28b470673e1e11:h2h|Unibet (SE)|Draw",
-    "6b340f239dd579a9bd28b470673e1e11:h2h|Unibet (SE)|Sporting Kansas City",
-    "6b340f239dd579a9bd28b470673e1e11:h2h|Winamax (DE)|Draw",
-    "6b340f239dd579a9bd28b470673e1e11:h2h|Winamax (DE)|Sporting Kansas City",
-    "6b340f239dd579a9bd28b470673e1e11:h2h|Winamax (FR)|Draw",
-    "6b340f239dd579a9bd28b470673e1e11:h2h|Winamax (FR)|Sporting Kansas City"
-  ]
+  "value_alerted": []
 }
