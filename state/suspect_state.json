@@ -1,246 +1,201 @@
 {
   "snapshots": {
-    "f53ddf340b31319bc0862cf2413791cc:h2h": {
-      "Coolbet": {
-        "Atletico Paranaense": 2.1,
-        "Bragantino-SP": 5.0,
-        "Draw": 2.5
-      },
-      "Winamax (FR)": {
-        "Atletico Paranaense": 1.98,
-        "Bragantino-SP": 4.5,
-        "Draw": 2.4
-      },
-      "Betclic (FR)": {
-        "Atletico Paranaense": 1.98,
-        "Bragantino-SP": 4.75,
-        "Draw": 2.48
-      },
-      "888sport": {
-        "Atletico Paranaense": 2.05,
-        "Bragantino-SP": 4.4,
-        "Draw": 2.5
-      },
-      "Winamax (DE)": {
-        "Atletico Paranaense": 2.0,
-        "Bragantino-SP": 4.8,
-        "Draw": 2.45
-      },
+    "5c2f5b559ef265b51ae01949ff1d66b1:h2h": {
       "Betsson": {
-        "Atletico Paranaense": 2.02,
-        "Bragantino-SP": 4.85,
-        "Draw": 2.5
+        "Charlotte FC": 1.0,
+        "Columbus Crew SC": 26.0,
+        "Draw": 26.0
       },
       "Nordic Bet": {
-        "Atletico Paranaense": 2.02,
-        "Bragantino-SP": 4.85,
-        "Draw": 2.5
-      },
-      "Unibet (NL)": {
-        "Atletico Paranaense": 2.17,
-        "Bragantino-SP": 4.0,
-        "Draw": 2.4
-      },
+        "Charlotte FC": 1.0,
+        "Columbus Crew SC": 26.0,
+        "Draw": 26.0
+      }
+    },
+    "50cc3e5963565001879937ad020c1ae3:h2h": {
       "Unibet (SE)": {
-        "Atletico Paranaense": 2.28,
-        "Bragantino-SP": 4.2,
-        "Draw": 2.5
+        "Audax Italiano": 12.0,
+        "Everton de Viña del Mar": 15.0,
+        "Draw": 1.06
       },
       "LeoVegas (SE)": {
-        "Atletico Paranaense": 2.14,
-        "Bragantino-SP": 3.95,
-        "Draw": 2.38
+        "Audax Italiano": 11.5,
+        "Everton de Viña del Mar": 13.0,
+        "Draw": 1.01
+      },
+      "Betsson": {
+        "Audax Italiano": 8.6,
+        "Everton de Viña del Mar": 16.0,
+        "Draw": 1.08
+      },
+      "Nordic Bet": {
+        "Audax Italiano": 9.6,
+        "Everton de Viña del Mar": 16.0,
+        "Draw": 1.07
+      },
+      "Winamax (DE)": {
+        "Audax Italiano": 9.5,
+        "Everton de Viña del Mar": 19.0,
+        "Draw": 1.07
+      },
+      "Winamax (FR)": {
+        "Audax Italiano": 8.5,
+        "Everton de Viña del Mar": 17.0,
+        "Draw": 1.12
+      },
+      "888sport": {
+        "Audax Italiano": 5.0,
+        "Everton de Viña del Mar": 10.0,
+        "Draw": 1.22
+      },
+      "Coolbet": {
+        "Audax Italiano": 12.0,
+        "Everton de Viña del Mar": 22.0,
+        "Draw": 1.1
+      },
+      "Pinnacle": {
+        "Audax Italiano": 7.67,
+        "Everton de Viña del Mar": 13.65,
+        "Draw": 1.14
+      },
+      "Tipico": {
+        "Audax Italiano": 6.5,
+        "Everton de Viña del Mar": 22.0,
+        "Draw": 1.1
+      },
+      "Betfair": {
+        "Audax Italiano": 6.0,
+        "Everton de Viña del Mar": 13.5,
+        "Draw": 1.19
+      },
+      "Matchbook": {
+        "Audax Italiano": 5.6,
+        "Everton de Viña del Mar": 10.5,
+        "Draw": 1.15
+      }
+    },
+    "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h": {
+      "Coolbet": {
+        "Coritiba": 25.0,
+        "Sao Paulo": 12.5,
+        "Draw": 1.05
+      },
+      "888sport": {
+        "Coritiba": 21.0,
+        "Sao Paulo": 9.0,
+        "Draw": 1.1
+      },
+      "Winamax (FR)": {
+        "Coritiba": 50.0,
+        "Sao Paulo": 40.0,
+        "Draw": 1.01
+      },
+      "Winamax (DE)": {
+        "Coritiba": 38.0,
+        "Sao Paulo": 17.0,
+        "Draw": 1.03
+      },
+      "Betclic (FR)": {
+        "Coritiba": 29.0,
+        "Sao Paulo": 15.75,
+        "Draw": 1.04
+      },
+      "Betsson": {
+        "Coritiba": 29.0,
+        "Sao Paulo": 17.0,
+        "Draw": 1.02
+      },
+      "Nordic Bet": {
+        "Coritiba": 29.0,
+        "Sao Paulo": 17.0,
+        "Draw": 1.02
+      },
+      "Unibet (NL)": {
+        "Coritiba": 16.0,
+        "Sao Paulo": 9.0,
+        "Draw": 1.06
+      },
+      "LeoVegas (SE)": {
+        "Coritiba": 15.0,
+        "Sao Paulo": 9.0,
+        "Draw": 1.05
       },
       "PMU (FR)": {
-        "Atletico Paranaense": 2.1,
-        "Bragantino-SP": 3.85,
-        "Draw": 2.32
-      },
-      "Matchbook": {
-        "Atletico Paranaense": 2.26,
-        "Bragantino-SP": 5.4,
-        "Draw": 2.66
-      },
-      "Pinnacle": {
-        "Atletico Paranaense": 2.17,
-        "Bragantino-SP": 5.33,
-        "Draw": 2.46
-      },
-      "Tipico": {
-        "Atletico Paranaense": 1.9,
-        "Bragantino-SP": 5.2,
-        "Draw": 2.6
-      },
-      "Betfair": {
-        "Atletico Paranaense": 2.26,
-        "Bragantino-SP": 5.5,
-        "Draw": 2.62
-      }
-    },
-    "ba638a1e6f476b883244025cf2933d5c:h2h": {
-      "Winamax (FR)": {
-        "Deportes Limache": 3.65,
-        "Universidad de Chile": 1.96,
-        "Draw": 2.85
-      },
-      "Winamax (DE)": {
-        "Deportes Limache": 3.75,
-        "Universidad de Chile": 2.0,
-        "Draw": 2.95
-      },
-      "Nordic Bet": {
-        "Deportes Limache": 3.9,
-        "Universidad de Chile": 2.02,
-        "Draw": 2.92
-      },
-      "Betsson": {
-        "Deportes Limache": 3.9,
-        "Universidad de Chile": 2.02,
-        "Draw": 2.92
-      },
-      "888sport": {
-        "Deportes Limache": 3.8,
-        "Universidad de Chile": 2.0,
-        "Draw": 2.7
-      },
-      "Pinnacle": {
-        "Deportes Limache": 4.24,
-        "Universidad de Chile": 2.09,
-        "Draw": 2.78
-      },
-      "Coolbet": {
-        "Deportes Limache": 4.0,
-        "Universidad de Chile": 2.1,
-        "Draw": 3.14
-      },
-      "Tipico": {
-        "Deportes Limache": 4.0,
-        "Universidad de Chile": 1.9,
-        "Draw": 3.0
-      },
-      "Betfair": {
-        "Deportes Limache": 4.7,
-        "Universidad de Chile": 2.12,
-        "Draw": 3.1
-      },
-      "LeoVegas (SE)": {
-        "Deportes Limache": 3.45,
-        "Universidad de Chile": 1.93,
-        "Draw": 2.7
+        "Coritiba": 14.0,
+        "Sao Paulo": 8.5,
+        "Draw": 1.03
       },
       "Unibet (SE)": {
-        "Deportes Limache": 3.65,
-        "Universidad de Chile": 2.06,
-        "Draw": 2.88
-      },
-      "Matchbook": {
-        "Deportes Limache": 4.7,
-        "Universidad de Chile": 2.1,
-        "Draw": 3.1
-      }
-    },
-    "fd1598a72a06289f9ff9e3a20fb755f0:h2h": {
-      "Unibet (NL)": {
-        "Fortaleza": 3.95,
-        "Juventude": 2.55,
-        "Draw": 2.06
-      },
-      "LeoVegas (SE)": {
-        "Fortaleza": 3.9,
-        "Juventude": 2.5,
-        "Draw": 2.02
-      },
-      "Unibet (SE)": {
-        "Fortaleza": 4.1,
-        "Juventude": 2.65,
-        "Draw": 2.16
-      },
-      "Betsson": {
-        "Fortaleza": 4.1,
-        "Juventude": 2.75,
-        "Draw": 2.05
-      },
-      "Nordic Bet": {
-        "Fortaleza": 4.1,
-        "Juventude": 2.75,
-        "Draw": 2.05
-      },
-      "Coolbet": {
-        "Fortaleza": 4.33,
-        "Juventude": 2.75,
-        "Draw": 2.0
+        "Coritiba": 26.0,
+        "Sao Paulo": 17.0,
+        "Draw": 1.03
       },
       "Pinnacle": {
-        "Fortaleza": 4.18,
-        "Juventude": 3.0,
-        "Draw": 2.03
-      },
-      "888sport": {
-        "Fortaleza": 4.0,
-        "Juventude": 2.8,
-        "Draw": 2.0
+        "Coritiba": 17.18,
+        "Sao Paulo": 6.98,
+        "Draw": 1.17
       },
       "Tipico": {
-        "Fortaleza": 4.3,
-        "Juventude": 2.6,
-        "Draw": 2.1
-      },
-      "Matchbook": {
-        "Fortaleza": 4.5,
-        "Juventude": 3.1,
-        "Draw": 2.16
+        "Coritiba": 50.0,
+        "Sao Paulo": 30.0,
+        "Draw": 1.01
       },
       "Betfair": {
-        "Fortaleza": 4.5,
-        "Juventude": 3.1,
-        "Draw": 2.16
+        "Coritiba": 42.0,
+        "Sao Paulo": 16.5,
+        "Draw": 1.06
+      },
+      "MyBookie.ag": {
+        "Coritiba": 9.25,
+        "Sao Paulo": 3.55,
+        "Draw": 1.25
       }
     },
-    "002bd0412d3980d55752833c9075fdf5:h2h": {
+    "3954c7cfc1a9f084e51b2a1d250caba7:h2h": {
       "Winamax (DE)": {
-        "Belgrano de Cordoba": 2.0,
-        "Independiente Rivadavia": 5.0,
-        "Draw": 2.4
+        "Boca Juniors": 3.6,
+        "Platense": 8.0,
+        "Draw": 1.42
       },
       "Winamax (FR)": {
-        "Belgrano de Cordoba": 1.98,
-        "Independiente Rivadavia": 4.8,
-        "Draw": 2.3
+        "Boca Juniors": 3.4,
+        "Platense": 7.75,
+        "Draw": 1.44
       },
       "Betclic (FR)": {
-        "Belgrano de Cordoba": 1.98,
-        "Independiente Rivadavia": 4.9,
-        "Draw": 2.48
+        "Boca Juniors": 3.28,
+        "Platense": 7.75,
+        "Draw": 1.5
       },
       "Betfair": {
-        "Belgrano de Cordoba": 2.12,
-        "Independiente Rivadavia": 6.0,
-        "Draw": 2.66
+        "Boca Juniors": 4.0,
+        "Platense": 9.2,
+        "Draw": 1.52
       },
       "Nordic Bet": {
-        "Belgrano de Cordoba": 2.02,
-        "Independiente Rivadavia": 5.35,
-        "Draw": 2.45
+        "Boca Juniors": 3.5,
+        "Platense": 8.6,
+        "Draw": 1.42
       },
       "Betsson": {
-        "Belgrano de Cordoba": 2.02,
-        "Independiente Rivadavia": 5.35,
-        "Draw": 2.45
-      },
-      "LeoVegas (SE)": {
-        "Belgrano de Cordoba": 1.88,
-        "Independiente Rivadavia": 4.6,
-        "Draw": 2.5
+        "Boca Juniors": 3.5,
+        "Platense": 8.6,
+        "Draw": 1.42
       },
       "Unibet (SE)": {
-        "Belgrano de Cordoba": 2.0,
-        "Independiente Rivadavia": 4.9,
-        "Draw": 2.65
+        "Boca Juniors": 3.5,
+        "Platense": 11.0,
+        "Draw": 1.42
+      },
+      "LeoVegas (SE)": {
+        "Boca Juniors": 3.35,
+        "Platense": 10.5,
+        "Draw": 1.34
       },
       "Pinnacle": {
-        "Belgrano de Cordoba": 2.08,
-        "Independiente Rivadavia": 5.53,
-        "Draw": 2.52
+        "Boca Juniors": 6.93,
+        "Platense": 1.74,
+        "Draw": 2.94
       }
     }
   },
@@ -6357,10 +6312,723 @@
       "confidence": 5,
       "alert_type": "value",
       "alerted_at": "2026-08-15T22:33:55.585873+00:00"
+    },
+    {
+      "state_key": "50cc3e5963565001879937ad020c1ae3:h2h",
+      "event_id": "50cc3e5963565001879937ad020c1ae3",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Everton de Viña del Mar",
+      "away_team": "Audax Italiano",
+      "commence_time": "2026-08-16T00:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Audax Italiano",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 45,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T01:54:58.423344+00:00"
+    },
+    {
+      "state_key": "50cc3e5963565001879937ad020c1ae3:h2h",
+      "event_id": "50cc3e5963565001879937ad020c1ae3",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Everton de Viña del Mar",
+      "away_team": "Audax Italiano",
+      "commence_time": "2026-08-16T00:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Audax Italiano",
+      "odds_at_alert": 11.5,
+      "stake_pct": 5.0,
+      "confidence": 39,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T01:54:58.900268+00:00"
+    },
+    {
+      "state_key": "50cc3e5963565001879937ad020c1ae3:h2h",
+      "event_id": "50cc3e5963565001879937ad020c1ae3",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Everton de Viña del Mar",
+      "away_team": "Audax Italiano",
+      "commence_time": "2026-08-16T00:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Everton de Viña del Mar",
+      "odds_at_alert": 16.0,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T01:54:59.397840+00:00"
+    },
+    {
+      "state_key": "50cc3e5963565001879937ad020c1ae3:h2h",
+      "event_id": "50cc3e5963565001879937ad020c1ae3",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Everton de Viña del Mar",
+      "away_team": "Audax Italiano",
+      "commence_time": "2026-08-16T00:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Audax Italiano",
+      "odds_at_alert": 9.6,
+      "stake_pct": 5.0,
+      "confidence": 16,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T01:54:59.885762+00:00"
+    },
+    {
+      "state_key": "50cc3e5963565001879937ad020c1ae3:h2h",
+      "event_id": "50cc3e5963565001879937ad020c1ae3",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Everton de Viña del Mar",
+      "away_team": "Audax Italiano",
+      "commence_time": "2026-08-16T00:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Everton de Viña del Mar",
+      "odds_at_alert": 16.0,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T01:55:00.384257+00:00"
+    },
+    {
+      "state_key": "50cc3e5963565001879937ad020c1ae3:h2h",
+      "event_id": "50cc3e5963565001879937ad020c1ae3",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Everton de Viña del Mar",
+      "away_team": "Audax Italiano",
+      "commence_time": "2026-08-16T00:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Audax Italiano",
+      "odds_at_alert": 9.5,
+      "stake_pct": 3.0,
+      "confidence": 15,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T01:55:00.883859+00:00"
+    },
+    {
+      "state_key": "50cc3e5963565001879937ad020c1ae3:h2h",
+      "event_id": "50cc3e5963565001879937ad020c1ae3",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Everton de Viña del Mar",
+      "away_team": "Audax Italiano",
+      "commence_time": "2026-08-16T00:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Everton de Viña del Mar",
+      "odds_at_alert": 19.0,
+      "stake_pct": 5.0,
+      "confidence": 29,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T01:55:01.386284+00:00"
+    },
+    {
+      "state_key": "50cc3e5963565001879937ad020c1ae3:h2h",
+      "event_id": "50cc3e5963565001879937ad020c1ae3",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Everton de Viña del Mar",
+      "away_team": "Audax Italiano",
+      "commence_time": "2026-08-16T00:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Everton de Viña del Mar",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 15,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T01:55:01.869966+00:00"
+    },
+    {
+      "state_key": "50cc3e5963565001879937ad020c1ae3:h2h",
+      "event_id": "50cc3e5963565001879937ad020c1ae3",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Everton de Viña del Mar",
+      "away_team": "Audax Italiano",
+      "commence_time": "2026-08-16T00:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Audax Italiano",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 45,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T01:55:02.382999+00:00"
+    },
+    {
+      "state_key": "50cc3e5963565001879937ad020c1ae3:h2h",
+      "event_id": "50cc3e5963565001879937ad020c1ae3",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Everton de Viña del Mar",
+      "away_team": "Audax Italiano",
+      "commence_time": "2026-08-16T00:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Everton de Viña del Mar",
+      "odds_at_alert": 22.0,
+      "stake_pct": 5.0,
+      "confidence": 49,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T01:55:02.886413+00:00"
+    },
+    {
+      "state_key": "50cc3e5963565001879937ad020c1ae3:h2h",
+      "event_id": "50cc3e5963565001879937ad020c1ae3",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Everton de Viña del Mar",
+      "away_team": "Audax Italiano",
+      "commence_time": "2026-08-16T00:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Everton de Viña del Mar",
+      "odds_at_alert": 22.0,
+      "stake_pct": 5.0,
+      "confidence": 49,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T01:55:03.359547+00:00"
+    },
+    {
+      "state_key": "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h",
+      "event_id": "2a2b9a6d8220a6928aa3c3ee2580f93f",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Sao Paulo",
+      "away_team": "Coritiba",
+      "commence_time": "2026-08-16T00:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Coritiba",
+      "odds_at_alert": 25.0,
+      "stake_pct": 5.0,
+      "confidence": 38,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T01:55:03.831325+00:00"
+    },
+    {
+      "state_key": "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h",
+      "event_id": "2a2b9a6d8220a6928aa3c3ee2580f93f",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Sao Paulo",
+      "away_team": "Coritiba",
+      "commence_time": "2026-08-16T00:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sao Paulo",
+      "odds_at_alert": 12.5,
+      "stake_pct": 5.0,
+      "confidence": 70,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T01:55:04.315419+00:00"
+    },
+    {
+      "state_key": "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h",
+      "event_id": "2a2b9a6d8220a6928aa3c3ee2580f93f",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Sao Paulo",
+      "away_team": "Coritiba",
+      "commence_time": "2026-08-16T00:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Coritiba",
+      "odds_at_alert": 21.0,
+      "stake_pct": 5.0,
+      "confidence": 16,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T01:55:04.822106+00:00"
+    },
+    {
+      "state_key": "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h",
+      "event_id": "2a2b9a6d8220a6928aa3c3ee2580f93f",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Sao Paulo",
+      "away_team": "Coritiba",
+      "commence_time": "2026-08-16T00:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sao Paulo",
+      "odds_at_alert": 9.0,
+      "stake_pct": 5.0,
+      "confidence": 22,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T01:55:05.297906+00:00"
+    },
+    {
+      "state_key": "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h",
+      "event_id": "2a2b9a6d8220a6928aa3c3ee2580f93f",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Sao Paulo",
+      "away_team": "Coritiba",
+      "commence_time": "2026-08-16T00:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Coritiba",
+      "odds_at_alert": 50.0,
+      "stake_pct": 5.0,
+      "confidence": 176,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T01:55:05.816254+00:00"
+    },
+    {
+      "state_key": "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h",
+      "event_id": "2a2b9a6d8220a6928aa3c3ee2580f93f",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Sao Paulo",
+      "away_team": "Coritiba",
+      "commence_time": "2026-08-16T00:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sao Paulo",
+      "odds_at_alert": 40.0,
+      "stake_pct": 5.0,
+      "confidence": 443,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T01:55:06.316812+00:00"
+    },
+    {
+      "state_key": "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h",
+      "event_id": "2a2b9a6d8220a6928aa3c3ee2580f93f",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Sao Paulo",
+      "away_team": "Coritiba",
+      "commence_time": "2026-08-16T00:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Coritiba",
+      "odds_at_alert": 38.0,
+      "stake_pct": 5.0,
+      "confidence": 109,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T01:55:06.816557+00:00"
+    },
+    {
+      "state_key": "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h",
+      "event_id": "2a2b9a6d8220a6928aa3c3ee2580f93f",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Sao Paulo",
+      "away_team": "Coritiba",
+      "commence_time": "2026-08-16T00:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sao Paulo",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 131,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T01:55:07.336093+00:00"
+    },
+    {
+      "state_key": "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h",
+      "event_id": "2a2b9a6d8220a6928aa3c3ee2580f93f",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Sao Paulo",
+      "away_team": "Coritiba",
+      "commence_time": "2026-08-16T00:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Coritiba",
+      "odds_at_alert": 29.0,
+      "stake_pct": 5.0,
+      "confidence": 60,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T01:55:07.843963+00:00"
+    },
+    {
+      "state_key": "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h",
+      "event_id": "2a2b9a6d8220a6928aa3c3ee2580f93f",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Sao Paulo",
+      "away_team": "Coritiba",
+      "commence_time": "2026-08-16T00:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sao Paulo",
+      "odds_at_alert": 15.75,
+      "stake_pct": 5.0,
+      "confidence": 114,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T01:55:08.325608+00:00"
+    },
+    {
+      "state_key": "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h",
+      "event_id": "2a2b9a6d8220a6928aa3c3ee2580f93f",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Sao Paulo",
+      "away_team": "Coritiba",
+      "commence_time": "2026-08-16T00:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Coritiba",
+      "odds_at_alert": 29.0,
+      "stake_pct": 5.0,
+      "confidence": 60,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T01:55:08.832885+00:00"
+    },
+    {
+      "state_key": "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h",
+      "event_id": "2a2b9a6d8220a6928aa3c3ee2580f93f",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Sao Paulo",
+      "away_team": "Coritiba",
+      "commence_time": "2026-08-16T00:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sao Paulo",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 131,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T01:55:09.345645+00:00"
+    },
+    {
+      "state_key": "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h",
+      "event_id": "2a2b9a6d8220a6928aa3c3ee2580f93f",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Sao Paulo",
+      "away_team": "Coritiba",
+      "commence_time": "2026-08-16T00:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Coritiba",
+      "odds_at_alert": 29.0,
+      "stake_pct": 5.0,
+      "confidence": 60,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T01:55:09.817000+00:00"
+    },
+    {
+      "state_key": "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h",
+      "event_id": "2a2b9a6d8220a6928aa3c3ee2580f93f",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Sao Paulo",
+      "away_team": "Coritiba",
+      "commence_time": "2026-08-16T00:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sao Paulo",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 131,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T01:55:10.295010+00:00"
+    },
+    {
+      "state_key": "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h",
+      "event_id": "2a2b9a6d8220a6928aa3c3ee2580f93f",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Sao Paulo",
+      "away_team": "Coritiba",
+      "commence_time": "2026-08-16T00:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sao Paulo",
+      "odds_at_alert": 9.0,
+      "stake_pct": 5.0,
+      "confidence": 22,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T01:55:10.773841+00:00"
+    },
+    {
+      "state_key": "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h",
+      "event_id": "2a2b9a6d8220a6928aa3c3ee2580f93f",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Sao Paulo",
+      "away_team": "Coritiba",
+      "commence_time": "2026-08-16T00:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sao Paulo",
+      "odds_at_alert": 9.0,
+      "stake_pct": 5.0,
+      "confidence": 22,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T01:55:11.278919+00:00"
+    },
+    {
+      "state_key": "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h",
+      "event_id": "2a2b9a6d8220a6928aa3c3ee2580f93f",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Sao Paulo",
+      "away_team": "Coritiba",
+      "commence_time": "2026-08-16T00:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sao Paulo",
+      "odds_at_alert": 8.5,
+      "stake_pct": 5.0,
+      "confidence": 15,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T01:55:11.767334+00:00"
+    },
+    {
+      "state_key": "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h",
+      "event_id": "2a2b9a6d8220a6928aa3c3ee2580f93f",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Sao Paulo",
+      "away_team": "Coritiba",
+      "commence_time": "2026-08-16T00:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Coritiba",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 43,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T01:55:12.356927+00:00"
+    },
+    {
+      "state_key": "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h",
+      "event_id": "2a2b9a6d8220a6928aa3c3ee2580f93f",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Sao Paulo",
+      "away_team": "Coritiba",
+      "commence_time": "2026-08-16T00:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sao Paulo",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 131,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T01:55:12.835460+00:00"
+    },
+    {
+      "state_key": "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h",
+      "event_id": "2a2b9a6d8220a6928aa3c3ee2580f93f",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Sao Paulo",
+      "away_team": "Coritiba",
+      "commence_time": "2026-08-16T00:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Coritiba",
+      "odds_at_alert": 50.0,
+      "stake_pct": 5.0,
+      "confidence": 176,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T01:55:13.335801+00:00"
+    },
+    {
+      "state_key": "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h",
+      "event_id": "2a2b9a6d8220a6928aa3c3ee2580f93f",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Sao Paulo",
+      "away_team": "Coritiba",
+      "commence_time": "2026-08-16T00:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sao Paulo",
+      "odds_at_alert": 30.0,
+      "stake_pct": 5.0,
+      "confidence": 307,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T01:55:13.838361+00:00"
+    },
+    {
+      "state_key": "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h",
+      "event_id": "2a2b9a6d8220a6928aa3c3ee2580f93f",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Sao Paulo",
+      "away_team": "Coritiba",
+      "commence_time": "2026-08-16T00:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Coritiba",
+      "odds_at_alert": 42.0,
+      "stake_pct": 5.0,
+      "confidence": 131,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T01:55:14.377867+00:00"
+    },
+    {
+      "state_key": "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h",
+      "event_id": "2a2b9a6d8220a6928aa3c3ee2580f93f",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Sao Paulo",
+      "away_team": "Coritiba",
+      "commence_time": "2026-08-16T00:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sao Paulo",
+      "odds_at_alert": 16.5,
+      "stake_pct": 5.0,
+      "confidence": 124,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T01:55:14.856590+00:00"
+    },
+    {
+      "state_key": "3954c7cfc1a9f084e51b2a1d250caba7:h2h",
+      "event_id": "3954c7cfc1a9f084e51b2a1d250caba7",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Platense",
+      "away_team": "Boca Juniors",
+      "commence_time": "2026-08-16T00:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Platense",
+      "odds_at_alert": 8.0,
+      "stake_pct": 5.0,
+      "confidence": 334,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T01:55:15.366879+00:00"
+    },
+    {
+      "state_key": "3954c7cfc1a9f084e51b2a1d250caba7:h2h",
+      "event_id": "3954c7cfc1a9f084e51b2a1d250caba7",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Platense",
+      "away_team": "Boca Juniors",
+      "commence_time": "2026-08-16T00:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Platense",
+      "odds_at_alert": 7.75,
+      "stake_pct": 5.0,
+      "confidence": 321,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T01:55:15.882137+00:00"
+    },
+    {
+      "state_key": "3954c7cfc1a9f084e51b2a1d250caba7:h2h",
+      "event_id": "3954c7cfc1a9f084e51b2a1d250caba7",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Platense",
+      "away_team": "Boca Juniors",
+      "commence_time": "2026-08-16T00:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Platense",
+      "odds_at_alert": 7.75,
+      "stake_pct": 5.0,
+      "confidence": 321,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T01:55:16.355914+00:00"
+    },
+    {
+      "state_key": "3954c7cfc1a9f084e51b2a1d250caba7:h2h",
+      "event_id": "3954c7cfc1a9f084e51b2a1d250caba7",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Platense",
+      "away_team": "Boca Juniors",
+      "commence_time": "2026-08-16T00:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Platense",
+      "odds_at_alert": 9.2,
+      "stake_pct": 5.0,
+      "confidence": 399,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T01:55:16.855056+00:00"
+    },
+    {
+      "state_key": "3954c7cfc1a9f084e51b2a1d250caba7:h2h",
+      "event_id": "3954c7cfc1a9f084e51b2a1d250caba7",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Platense",
+      "away_team": "Boca Juniors",
+      "commence_time": "2026-08-16T00:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Platense",
+      "odds_at_alert": 8.6,
+      "stake_pct": 5.0,
+      "confidence": 367,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T01:55:17.340086+00:00"
+    },
+    {
+      "state_key": "3954c7cfc1a9f084e51b2a1d250caba7:h2h",
+      "event_id": "3954c7cfc1a9f084e51b2a1d250caba7",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Platense",
+      "away_team": "Boca Juniors",
+      "commence_time": "2026-08-16T00:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Platense",
+      "odds_at_alert": 8.6,
+      "stake_pct": 5.0,
+      "confidence": 367,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T01:55:17.846687+00:00"
+    },
+    {
+      "state_key": "3954c7cfc1a9f084e51b2a1d250caba7:h2h",
+      "event_id": "3954c7cfc1a9f084e51b2a1d250caba7",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Platense",
+      "away_team": "Boca Juniors",
+      "commence_time": "2026-08-16T00:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Platense",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 497,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T01:55:18.324940+00:00"
+    },
+    {
+      "state_key": "3954c7cfc1a9f084e51b2a1d250caba7:h2h",
+      "event_id": "3954c7cfc1a9f084e51b2a1d250caba7",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Platense",
+      "away_team": "Boca Juniors",
+      "commence_time": "2026-08-16T00:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Platense",
+      "odds_at_alert": 10.5,
+      "stake_pct": 5.0,
+      "confidence": 470,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T01:55:18.860115+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "ba638a1e6f476b883244025cf2933d5c:h2h|Coolbet|Draw"
+    "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h|888sport|Coritiba",
+    "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h|888sport|Sao Paulo",
+    "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h|Betclic (FR)|Coritiba",
+    "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h|Betclic (FR)|Sao Paulo",
+    "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h|Betfair|Coritiba",
+    "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h|Betfair|Sao Paulo",
+    "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h|Betsson|Coritiba",
+    "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h|Betsson|Sao Paulo",
+    "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h|Coolbet|Coritiba",
+    "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h|Coolbet|Sao Paulo",
+    "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h|LeoVegas (SE)|Sao Paulo",
+    "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h|Nordic Bet|Coritiba",
+    "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h|Nordic Bet|Sao Paulo",
+    "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h|PMU (FR)|Sao Paulo",
+    "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h|Tipico|Coritiba",
+    "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h|Tipico|Sao Paulo",
+    "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h|Unibet (NL)|Sao Paulo",
+    "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h|Unibet (SE)|Coritiba",
+    "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h|Unibet (SE)|Sao Paulo",
+    "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h|Winamax (DE)|Coritiba",
+    "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h|Winamax (DE)|Sao Paulo",
+    "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h|Winamax (FR)|Coritiba",
+    "2a2b9a6d8220a6928aa3c3ee2580f93f:h2h|Winamax (FR)|Sao Paulo",
+    "3954c7cfc1a9f084e51b2a1d250caba7:h2h|Betclic (FR)|Platense",
+    "3954c7cfc1a9f084e51b2a1d250caba7:h2h|Betfair|Platense",
+    "3954c7cfc1a9f084e51b2a1d250caba7:h2h|Betsson|Platense",
+    "3954c7cfc1a9f084e51b2a1d250caba7:h2h|LeoVegas (SE)|Platense",
+    "3954c7cfc1a9f084e51b2a1d250caba7:h2h|Nordic Bet|Platense",
+    "3954c7cfc1a9f084e51b2a1d250caba7:h2h|Unibet (SE)|Platense",
+    "3954c7cfc1a9f084e51b2a1d250caba7:h2h|Winamax (DE)|Platense",
+    "3954c7cfc1a9f084e51b2a1d250caba7:h2h|Winamax (FR)|Platense",
+    "50cc3e5963565001879937ad020c1ae3:h2h|Betsson|Everton de Viña del Mar",
+    "50cc3e5963565001879937ad020c1ae3:h2h|Coolbet|Audax Italiano",
+    "50cc3e5963565001879937ad020c1ae3:h2h|Coolbet|Everton de Viña del Mar",
+    "50cc3e5963565001879937ad020c1ae3:h2h|LeoVegas (SE)|Audax Italiano",
+    "50cc3e5963565001879937ad020c1ae3:h2h|Nordic Bet|Audax Italiano",
+    "50cc3e5963565001879937ad020c1ae3:h2h|Nordic Bet|Everton de Viña del Mar",
+    "50cc3e5963565001879937ad020c1ae3:h2h|Tipico|Everton de Viña del Mar",
+    "50cc3e5963565001879937ad020c1ae3:h2h|Unibet (SE)|Audax Italiano",
+    "50cc3e5963565001879937ad020c1ae3:h2h|Winamax (DE)|Audax Italiano",
+    "50cc3e5963565001879937ad020c1ae3:h2h|Winamax (DE)|Everton de Viña del Mar",
+    "50cc3e5963565001879937ad020c1ae3:h2h|Winamax (FR)|Everton de Viña del Mar"
   ]
 }
