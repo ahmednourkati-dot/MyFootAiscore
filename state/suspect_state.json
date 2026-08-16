@@ -2,111 +2,81 @@
   "snapshots": {
     "475b8466285fa88e61b3140efd9e3e70:h2h": {
       "Winamax (FR)": {
-        "KV Mechelen": 120.0,
-        "Standard Liege": 1.02,
-        "Draw": 28.0
+        "KV Mechelen": 275.0,
+        "Standard Liege": 1.03,
+        "Draw": 16.0
       },
       "Winamax (DE)": {
-        "KV Mechelen": 120.0,
+        "KV Mechelen": 400.0,
         "Standard Liege": 1.01,
-        "Draw": 28.0
+        "Draw": 20.0
       },
       "Suprabets": {
-        "KV Mechelen": 90.0,
-        "Standard Liege": 1.01,
-        "Draw": 11.0
+        "KV Mechelen": 201.0,
+        "Standard Liege": 1.03,
+        "Draw": 8.7
       },
       "Coolbet": {
-        "KV Mechelen": 100.0,
+        "KV Mechelen": 400.0,
         "Standard Liege": 1.01,
-        "Draw": 28.0
+        "Draw": 20.0
       },
       "Betclic (FR)": {
-        "KV Mechelen": 75.0,
-        "Standard Liege": 1.0,
-        "Draw": 22.0
+        "KV Mechelen": 110.0,
+        "Standard Liege": 3.42,
+        "Draw": 1.25
       },
       "Nordic Bet": {
-        "KV Mechelen": 51.0,
-        "Standard Liege": 1.0,
-        "Draw": 19.0
+        "KV Mechelen": 150.0,
+        "Standard Liege": 1.01,
+        "Draw": 13.0
       },
       "Betsson": {
-        "KV Mechelen": 51.0,
+        "KV Mechelen": 101.0,
         "Standard Liege": 1.0,
-        "Draw": 19.0
+        "Draw": 15.0
       },
       "Betfair": {
-        "KV Mechelen": 90.0,
+        "KV Mechelen": 140.0,
         "Standard Liege": 1.03,
-        "Draw": 30.0
+        "Draw": 1.01
       },
-      "888sport": {
-        "KV Mechelen": 126.0,
-        "Standard Liege": 1.01,
-        "Draw": 29.0
-      },
-      "Unibet (SE)": {
-        "KV Mechelen": 141.0,
-        "Standard Liege": 1.01,
-        "Draw": 25.0
+      "Tipico": {
+        "KV Mechelen": 500.0,
+        "Standard Liege": 3.6,
+        "Draw": 1.25
       }
     },
     "1d014a93ab41ebaf8e49229a76a702c5:h2h": {
       "Winamax (FR)": {
-        "Union La Calera": 50.0,
-        "Ñublense": 1.13,
-        "Draw": 5.9
+        "Union La Calera": 1000.0,
+        "Ñublense": 1.02,
+        "Draw": 21.0
       },
       "Winamax (DE)": {
-        "Union La Calera": 50.0,
-        "Ñublense": 1.1,
-        "Draw": 6.25
+        "Union La Calera": 1000.0,
+        "Ñublense": 1.01,
+        "Draw": 24.0
       },
       "Nordic Bet": {
-        "Union La Calera": 4.1,
-        "Ñublense": 1.88,
-        "Draw": 3.3
+        "Union La Calera": 81.0,
+        "Ñublense": 1.0,
+        "Draw": 17.0
       },
       "Betsson": {
-        "Union La Calera": 39.0,
-        "Ñublense": 1.09,
-        "Draw": 6.3
-      },
-      "888sport": {
-        "Union La Calera": 101.0,
-        "Ñublense": 1.01,
-        "Draw": 23.0
+        "Union La Calera": 126.0,
+        "Ñublense": 1.0,
+        "Draw": 15.0
       },
       "Coolbet": {
-        "Union La Calera": 66.0,
-        "Ñublense": 1.14,
-        "Draw": 6.5
-      },
-      "Tipico": {
-        "Union La Calera": 60.0,
-        "Ñublense": 1.12,
-        "Draw": 5.0
+        "Union La Calera": 750.0,
+        "Ñublense": 1.01,
+        "Draw": 20.0
       },
       "Betfair": {
-        "Union La Calera": 60.0,
-        "Ñublense": 1.16,
-        "Draw": 7.2
-      },
-      "Unibet (SE)": {
-        "Union La Calera": 56.0,
-        "Ñublense": 1.08,
-        "Draw": 7.5
-      },
-      "LeoVegas (SE)": {
-        "Union La Calera": 46.0,
-        "Ñublense": 1.03,
-        "Draw": 7.5
-      },
-      "Matchbook": {
-        "Union La Calera": 70.0,
-        "Ñublense": 1.15,
-        "Draw": 7.2
+        "Union La Calera": 50.0,
+        "Ñublense": 1.01,
+        "Draw": 50.0
       }
     }
   },
