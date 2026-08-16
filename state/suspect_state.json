@@ -1,199 +1,180 @@
 {
   "snapshots": {
-    "ff31ace77709136d71a38479914672a4:h2h": {
-      "Unibet (NL)": {
-        "IFK Värnamo": 34.0,
-        "Östersunds FK": 11.0,
-        "Draw": 1.01
+    "71cde5854df64d0c125026c01fdf5801:h2h": {
+      "PMU (FR)": {
+        "Aalesund": 9.0,
+        "Vålerenga": 8.5,
+        "Draw": 1.03
       },
-      "Unibet (SE)": {
-        "IFK Värnamo": 46.0,
-        "Östersunds FK": 23.0,
-        "Draw": 1.01
+      "Unibet (NL)": {
+        "Aalesund": 13.0,
+        "Vålerenga": 20.0,
+        "Draw": 1.04
       },
       "LeoVegas (SE)": {
-        "IFK Värnamo": 31.0,
-        "Östersunds FK": 9.5,
-        "Draw": 1.01
-      },
-      "Nordic Bet": {
-        "IFK Värnamo": 23.0,
-        "Östersunds FK": 19.0,
-        "Draw": 1.02
-      },
-      "Betsson": {
-        "IFK Värnamo": 26.0,
-        "Östersunds FK": 19.0,
-        "Draw": 1.02
-      },
-      "Betfair": {
-        "IFK Värnamo": 26.0,
-        "Östersunds FK": 26.0,
-        "Draw": 1.02
-      },
-      "888sport": {
-        "IFK Värnamo": 12.0,
-        "Östersunds FK": 9.0,
-        "Draw": 1.12
-      },
-      "Pinnacle": {
-        "IFK Värnamo": 11.47,
-        "Östersunds FK": 8.02,
-        "Draw": 1.16
-      },
-      "Tipico": {
-        "IFK Värnamo": 30.0,
-        "Östersunds FK": 20.0,
-        "Draw": 1.01
-      },
-      "Coolbet": {
-        "IFK Värnamo": 22.0,
-        "Östersunds FK": 16.0,
+        "Aalesund": 11.0,
+        "Vålerenga": 10.5,
         "Draw": 1.04
-      }
-    },
-    "94cc0a423e1e88d91ec810d3c65f8dd8:h2h": {
-      "Winamax (DE)": {
-        "Anderlecht": 6.25,
-        "SK Beveren": 1.62,
-        "Draw": 3.0
-      },
-      "Winamax (FR)": {
-        "Anderlecht": 6.0,
-        "SK Beveren": 1.6,
-        "Draw": 2.9
-      },
-      "Coolbet": {
-        "Anderlecht": 7.0,
-        "SK Beveren": 1.73,
-        "Draw": 3.25
-      },
-      "Betclic (FR)": {
-        "Anderlecht": 5.75,
-        "SK Beveren": 1.68,
-        "Draw": 2.95
-      },
-      "Suprabets": {
-        "Anderlecht": 5.9,
-        "SK Beveren": 1.7,
-        "Draw": 3.05
-      },
-      "Betsson": {
-        "Anderlecht": 6.8,
-        "SK Beveren": 1.62,
-        "Draw": 3.05
-      },
-      "Nordic Bet": {
-        "Anderlecht": 6.8,
-        "SK Beveren": 1.62,
-        "Draw": 3.05
-      },
-      "Betfair": {
-        "Anderlecht": 6.4,
-        "SK Beveren": 1.8,
-        "Draw": 3.15
-      },
-      "888sport": {
-        "Anderlecht": 5.75,
-        "SK Beveren": 1.67,
-        "Draw": 3.0
-      },
-      "Tipico": {
-        "Anderlecht": 6.0,
-        "SK Beveren": 1.7,
-        "Draw": 3.0
       },
       "Unibet (SE)": {
-        "Anderlecht": 6.75,
-        "SK Beveren": 1.68,
-        "Draw": 2.95
+        "Aalesund": 16.0,
+        "Vålerenga": 21.0,
+        "Draw": 1.03
+      },
+      "Betclic (FR)": {
+        "Aalesund": 13.0,
+        "Vålerenga": 14.0,
+        "Draw": 1.03
+      },
+      "Winamax (DE)": {
+        "Aalesund": 18.0,
+        "Vålerenga": 18.0,
+        "Draw": 1.04
+      },
+      "Winamax (FR)": {
+        "Aalesund": 17.0,
+        "Vålerenga": 18.0,
+        "Draw": 1.06
+      },
+      "Nordic Bet": {
+        "Aalesund": 14.0,
+        "Vålerenga": 14.0,
+        "Draw": 1.04
+      },
+      "Betsson": {
+        "Aalesund": 12.5,
+        "Vålerenga": 14.0,
+        "Draw": 1.05
+      },
+      "Pinnacle": {
+        "Aalesund": 1.27,
+        "Vålerenga": 24.0,
+        "Draw": 4.55
+      },
+      "Tipico": {
+        "Aalesund": 30.0,
+        "Vålerenga": 30.0,
+        "Draw": 1.02
+      },
+      "Betfair": {
+        "Aalesund": 1.01,
+        "Vålerenga": 1.01
+      },
+      "Coolbet": {
+        "Aalesund": 18.0,
+        "Vålerenga": 20.0,
+        "Draw": 1.06
+      }
+    },
+    "6a1f5f932469fde24238a49813c3ccc4:h2h": {
+      "Nordic Bet": {
+        "FC Twente Enschede": 1.29,
+        "FC Zwolle": 11.0,
+        "Draw": 5.3
+      },
+      "Betsson": {
+        "FC Twente Enschede": 1.0,
+        "FC Zwolle": 34.0,
+        "Draw": 23.0
+      }
+    },
+    "b2962f5347e9afbc16cf79303c4acc03:h2h": {
+      "Coolbet": {
+        "Feyenoord": 9.0,
+        "Go Ahead Eagles": 30.0,
+        "Draw": 1.11
+      },
+      "Winamax (DE)": {
+        "Feyenoord": 8.5,
+        "Go Ahead Eagles": 23.0,
+        "Draw": 1.08
+      },
+      "Winamax (FR)": {
+        "Feyenoord": 8.0,
+        "Go Ahead Eagles": 22.0,
+        "Draw": 1.11
+      },
+      "Betfair": {
+        "Feyenoord": 40.0,
+        "Go Ahead Eagles": 120.0,
+        "Draw": 1.02
+      },
+      "Nordic Bet": {
+        "Feyenoord": 1.27,
+        "Go Ahead Eagles": 10.5,
+        "Draw": 5.7
+      },
+      "Tipico": {
+        "Feyenoord": 15.0,
+        "Go Ahead Eagles": 50.0,
+        "Draw": 1.02
       },
       "PMU (FR)": {
-        "Anderlecht": 6.0,
-        "SK Beveren": 1.57,
-        "Draw": 2.7
-      },
-      "LeoVegas (SE)": {
-        "Anderlecht": 6.1,
-        "SK Beveren": 1.61,
-        "Draw": 2.75
+        "Feyenoord": 8.0,
+        "Go Ahead Eagles": 19.0,
+        "Draw": 1.02
       },
       "Unibet (NL)": {
-        "Anderlecht": 6.5,
-        "SK Beveren": 1.71,
-        "Draw": 2.9
+        "Feyenoord": 11.0,
+        "Go Ahead Eagles": 36.0,
+        "Draw": 1.06
       },
-      "Pinnacle": {
-        "Anderlecht": 5.1,
-        "SK Beveren": 1.88,
-        "Draw": 3.02
-      },
-      "Matchbook": {
-        "Anderlecht": 7.0,
-        "SK Beveren": 1.76,
-        "Draw": 3.25
-      }
-    },
-    "6419e63c70188ac43a3009f7921f4add:h2h": {
-      "Betclic (FR)": {
-        "Arminia Bielefeld": 1.0,
-        "FC Energie Cottbus": 55.0,
-        "Draw": 17.25
-      },
-      "Betsson": {
-        "Arminia Bielefeld": 1.0,
-        "FC Energie Cottbus": 51.0,
-        "Draw": 17.0
-      },
-      "Tipico": {
-        "Arminia Bielefeld": 1.01,
-        "FC Energie Cottbus": 70.0,
-        "Draw": 12.0
-      },
-      "Nordic Bet": {
-        "Arminia Bielefeld": 1.0,
-        "FC Energie Cottbus": 51.0,
-        "Draw": 17.0
-      },
-      "Coolbet": {
-        "Arminia Bielefeld": 1.0,
-        "FC Energie Cottbus": 50.0,
-        "Draw": 18.0
-      },
-      "Winamax (FR)": {
-        "Arminia Bielefeld": 1.01,
-        "FC Energie Cottbus": 110.0,
-        "Draw": 30.0
-      },
-      "Winamax (DE)": {
-        "Arminia Bielefeld": 1.01,
-        "FC Energie Cottbus": 80.0,
-        "Draw": 29.0
-      },
-      "Betfair": {
-        "Arminia Bielefeld": 1.03,
-        "FC Energie Cottbus": 190.0,
-        "Draw": 36.0
-      },
-      "888sport": {
-        "Arminia Bielefeld": 1.01,
-        "FC Energie Cottbus": 101.0,
-        "Draw": 29.0
-      },
-      "Suprabets": {
-        "Arminia Bielefeld": 1.0,
-        "FC Energie Cottbus": 86.0,
-        "Draw": 12.0
+      "LeoVegas (SE)": {
+        "Feyenoord": 10.5,
+        "Go Ahead Eagles": 34.0,
+        "Draw": 1.02
       },
       "Unibet (SE)": {
-        "Arminia Bielefeld": 1.01,
-        "FC Energie Cottbus": 81.0,
-        "Draw": 18.0
+        "Feyenoord": 11.0,
+        "Go Ahead Eagles": 36.0,
+        "Draw": 1.06
+      }
+    },
+    "0e01068c7b15cd9fdddf8ad5237d2170:h2h": {
+      "Betclic (FR)": {
+        "Southampton": 95.0,
+        "Watford": 1.04,
+        "Draw": 15.0
       },
-      "Matchbook": {
-        "Arminia Bielefeld": 1.02,
-        "FC Energie Cottbus": 240.0,
-        "Draw": 42.0
+      "Winamax (FR)": {
+        "Southampton": 100.0,
+        "Watford": 1.07,
+        "Draw": 8.5
+      },
+      "Betfair": {
+        "Southampton": 2.0,
+        "Watford": 1.01,
+        "Draw": 1.5
+      },
+      "Tipico": {
+        "Southampton": 400.0,
+        "Watford": 1.01,
+        "Draw": 20.0
+      },
+      "888sport": {
+        "Southampton": 91.0,
+        "Watford": 1.06,
+        "Draw": 9.0
+      },
+      "Nordic Bet": {
+        "Southampton": 1.0,
+        "Watford": 1.0,
+        "Draw": 1.0
+      },
+      "Betsson": {
+        "Southampton": 150.0,
+        "Watford": 1.04,
+        "Draw": 9.5
+      },
+      "Coolbet": {
+        "Southampton": 250.0,
+        "Watford": 1.04,
+        "Draw": 9.2
+      },
+      "PMU (FR)": {
+        "Southampton": 67.0,
+        "Watford": 1.01,
+        "Draw": 7.0
       }
     }
   },
@@ -8326,40 +8307,213 @@
       "confidence": 30,
       "alert_type": "value",
       "alerted_at": "2026-08-16T12:57:25.774655+00:00"
+    },
+    {
+      "state_key": "71cde5854df64d0c125026c01fdf5801:h2h",
+      "event_id": "71cde5854df64d0c125026c01fdf5801",
+      "sport_key": "soccer",
+      "competition": "Eliteserien - Norway",
+      "home_team": "Aalesund",
+      "away_team": "Vålerenga",
+      "commence_time": "2026-08-16T12:29:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Aalesund",
+      "odds_at_alert": 9.0,
+      "stake_pct": 5.0,
+      "confidence": 576,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T14:34:51.560641+00:00"
+    },
+    {
+      "state_key": "71cde5854df64d0c125026c01fdf5801:h2h",
+      "event_id": "71cde5854df64d0c125026c01fdf5801",
+      "sport_key": "soccer",
+      "competition": "Eliteserien - Norway",
+      "home_team": "Aalesund",
+      "away_team": "Vålerenga",
+      "commence_time": "2026-08-16T12:29:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Aalesund",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 876,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T14:34:51.904021+00:00"
+    },
+    {
+      "state_key": "71cde5854df64d0c125026c01fdf5801:h2h",
+      "event_id": "71cde5854df64d0c125026c01fdf5801",
+      "sport_key": "soccer",
+      "competition": "Eliteserien - Norway",
+      "home_team": "Aalesund",
+      "away_team": "Vålerenga",
+      "commence_time": "2026-08-16T12:29:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Aalesund",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 726,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T14:34:52.240671+00:00"
+    },
+    {
+      "state_key": "71cde5854df64d0c125026c01fdf5801:h2h",
+      "event_id": "71cde5854df64d0c125026c01fdf5801",
+      "sport_key": "soccer",
+      "competition": "Eliteserien - Norway",
+      "home_team": "Aalesund",
+      "away_team": "Vålerenga",
+      "commence_time": "2026-08-16T12:29:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Aalesund",
+      "odds_at_alert": 16.0,
+      "stake_pct": 5.0,
+      "confidence": 1101,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T14:34:52.572461+00:00"
+    },
+    {
+      "state_key": "71cde5854df64d0c125026c01fdf5801:h2h",
+      "event_id": "71cde5854df64d0c125026c01fdf5801",
+      "sport_key": "soccer",
+      "competition": "Eliteserien - Norway",
+      "home_team": "Aalesund",
+      "away_team": "Vålerenga",
+      "commence_time": "2026-08-16T12:29:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Aalesund",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 876,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T14:34:52.910088+00:00"
+    },
+    {
+      "state_key": "71cde5854df64d0c125026c01fdf5801:h2h",
+      "event_id": "71cde5854df64d0c125026c01fdf5801",
+      "sport_key": "soccer",
+      "competition": "Eliteserien - Norway",
+      "home_team": "Aalesund",
+      "away_team": "Vålerenga",
+      "commence_time": "2026-08-16T12:29:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Aalesund",
+      "odds_at_alert": 18.0,
+      "stake_pct": 5.0,
+      "confidence": 1251,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T14:34:53.284950+00:00"
+    },
+    {
+      "state_key": "71cde5854df64d0c125026c01fdf5801:h2h",
+      "event_id": "71cde5854df64d0c125026c01fdf5801",
+      "sport_key": "soccer",
+      "competition": "Eliteserien - Norway",
+      "home_team": "Aalesund",
+      "away_team": "Vålerenga",
+      "commence_time": "2026-08-16T12:29:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Aalesund",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 1176,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T14:34:53.616539+00:00"
+    },
+    {
+      "state_key": "71cde5854df64d0c125026c01fdf5801:h2h",
+      "event_id": "71cde5854df64d0c125026c01fdf5801",
+      "sport_key": "soccer",
+      "competition": "Eliteserien - Norway",
+      "home_team": "Aalesund",
+      "away_team": "Vålerenga",
+      "commence_time": "2026-08-16T12:29:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Aalesund",
+      "odds_at_alert": 14.0,
+      "stake_pct": 5.0,
+      "confidence": 951,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T14:34:53.952090+00:00"
+    },
+    {
+      "state_key": "71cde5854df64d0c125026c01fdf5801:h2h",
+      "event_id": "71cde5854df64d0c125026c01fdf5801",
+      "sport_key": "soccer",
+      "competition": "Eliteserien - Norway",
+      "home_team": "Aalesund",
+      "away_team": "Vålerenga",
+      "commence_time": "2026-08-16T12:29:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Aalesund",
+      "odds_at_alert": 12.5,
+      "stake_pct": 5.0,
+      "confidence": 838,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T14:34:54.304413+00:00"
+    },
+    {
+      "state_key": "71cde5854df64d0c125026c01fdf5801:h2h",
+      "event_id": "71cde5854df64d0c125026c01fdf5801",
+      "sport_key": "soccer",
+      "competition": "Eliteserien - Norway",
+      "home_team": "Aalesund",
+      "away_team": "Vålerenga",
+      "commence_time": "2026-08-16T12:29:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Aalesund",
+      "odds_at_alert": 30.0,
+      "stake_pct": 5.0,
+      "confidence": 2152,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T14:34:54.669401+00:00"
+    },
+    {
+      "state_key": "71cde5854df64d0c125026c01fdf5801:h2h",
+      "event_id": "71cde5854df64d0c125026c01fdf5801",
+      "sport_key": "soccer",
+      "competition": "Eliteserien - Norway",
+      "home_team": "Aalesund",
+      "away_team": "Vålerenga",
+      "commence_time": "2026-08-16T12:29:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Vålerenga",
+      "odds_at_alert": 30.0,
+      "stake_pct": 5.0,
+      "confidence": 19,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T14:34:55.003418+00:00"
+    },
+    {
+      "state_key": "71cde5854df64d0c125026c01fdf5801:h2h",
+      "event_id": "71cde5854df64d0c125026c01fdf5801",
+      "sport_key": "soccer",
+      "competition": "Eliteserien - Norway",
+      "home_team": "Aalesund",
+      "away_team": "Vålerenga",
+      "commence_time": "2026-08-16T12:29:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Aalesund",
+      "odds_at_alert": 18.0,
+      "stake_pct": 5.0,
+      "confidence": 1251,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T14:34:55.330800+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "94cc0a423e1e88d91ec810d3c65f8dd8:h2h|888sport|Anderlecht",
-    "94cc0a423e1e88d91ec810d3c65f8dd8:h2h|Betclic (FR)|Anderlecht",
-    "94cc0a423e1e88d91ec810d3c65f8dd8:h2h|Betfair|Anderlecht",
-    "94cc0a423e1e88d91ec810d3c65f8dd8:h2h|Betsson|Anderlecht",
-    "94cc0a423e1e88d91ec810d3c65f8dd8:h2h|Coolbet|Anderlecht",
-    "94cc0a423e1e88d91ec810d3c65f8dd8:h2h|LeoVegas (SE)|Anderlecht",
-    "94cc0a423e1e88d91ec810d3c65f8dd8:h2h|Matchbook|Anderlecht",
-    "94cc0a423e1e88d91ec810d3c65f8dd8:h2h|Nordic Bet|Anderlecht",
-    "94cc0a423e1e88d91ec810d3c65f8dd8:h2h|PMU (FR)|Anderlecht",
-    "94cc0a423e1e88d91ec810d3c65f8dd8:h2h|Suprabets|Anderlecht",
-    "94cc0a423e1e88d91ec810d3c65f8dd8:h2h|Tipico|Anderlecht",
-    "94cc0a423e1e88d91ec810d3c65f8dd8:h2h|Unibet (NL)|Anderlecht",
-    "94cc0a423e1e88d91ec810d3c65f8dd8:h2h|Unibet (SE)|Anderlecht",
-    "94cc0a423e1e88d91ec810d3c65f8dd8:h2h|Winamax (DE)|Anderlecht",
-    "94cc0a423e1e88d91ec810d3c65f8dd8:h2h|Winamax (FR)|Anderlecht",
-    "ff31ace77709136d71a38479914672a4:h2h|Betfair|IFK Värnamo",
-    "ff31ace77709136d71a38479914672a4:h2h|Betfair|Östersunds FK",
-    "ff31ace77709136d71a38479914672a4:h2h|Betsson|IFK Värnamo",
-    "ff31ace77709136d71a38479914672a4:h2h|Betsson|Östersunds FK",
-    "ff31ace77709136d71a38479914672a4:h2h|Coolbet|IFK Värnamo",
-    "ff31ace77709136d71a38479914672a4:h2h|Coolbet|Östersunds FK",
-    "ff31ace77709136d71a38479914672a4:h2h|LeoVegas (SE)|IFK Värnamo",
-    "ff31ace77709136d71a38479914672a4:h2h|LeoVegas (SE)|Östersunds FK",
-    "ff31ace77709136d71a38479914672a4:h2h|Nordic Bet|IFK Värnamo",
-    "ff31ace77709136d71a38479914672a4:h2h|Nordic Bet|Östersunds FK",
-    "ff31ace77709136d71a38479914672a4:h2h|Tipico|IFK Värnamo",
-    "ff31ace77709136d71a38479914672a4:h2h|Tipico|Östersunds FK",
-    "ff31ace77709136d71a38479914672a4:h2h|Unibet (NL)|IFK Värnamo",
-    "ff31ace77709136d71a38479914672a4:h2h|Unibet (NL)|Östersunds FK",
-    "ff31ace77709136d71a38479914672a4:h2h|Unibet (SE)|IFK Värnamo",
-    "ff31ace77709136d71a38479914672a4:h2h|Unibet (SE)|Östersunds FK"
+    "71cde5854df64d0c125026c01fdf5801:h2h|Betclic (FR)|Aalesund",
+    "71cde5854df64d0c125026c01fdf5801:h2h|Betsson|Aalesund",
+    "71cde5854df64d0c125026c01fdf5801:h2h|Coolbet|Aalesund",
+    "71cde5854df64d0c125026c01fdf5801:h2h|LeoVegas (SE)|Aalesund",
+    "71cde5854df64d0c125026c01fdf5801:h2h|Nordic Bet|Aalesund",
+    "71cde5854df64d0c125026c01fdf5801:h2h|PMU (FR)|Aalesund",
+    "71cde5854df64d0c125026c01fdf5801:h2h|Tipico|Aalesund",
+    "71cde5854df64d0c125026c01fdf5801:h2h|Tipico|Vålerenga",
+    "71cde5854df64d0c125026c01fdf5801:h2h|Unibet (NL)|Aalesund",
+    "71cde5854df64d0c125026c01fdf5801:h2h|Unibet (SE)|Aalesund",
+    "71cde5854df64d0c125026c01fdf5801:h2h|Winamax (DE)|Aalesund",
+    "71cde5854df64d0c125026c01fdf5801:h2h|Winamax (FR)|Aalesund"
   ]
 }
