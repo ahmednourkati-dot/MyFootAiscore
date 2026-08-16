@@ -1,116 +1,246 @@
 {
   "snapshots": {
-    "668f6bfdf1a0fb65f8e1b55691fc63f0:h2h": {
-      "Betclic (FR)": {
-        "Amed SK": 1.0,
-        "Erzurum BB": 100.0,
-        "Draw": 43.0
-      }
-    },
-    "60970679a8d8f873516441a929eba3ac:h2h": {
+    "4b9ad53d71ab5d992c2bbb20119f22e7:h2h": {
+      "Winamax (DE)": {
+        "Argentinos Juniors": 23.0,
+        "River Plate": 1.2,
+        "Draw": 4.8
+      },
       "Winamax (FR)": {
-        "Besiktas JK": 1.01,
-        "Eyüpspor": 900.0,
-        "Draw": 32.0
+        "Argentinos Juniors": 22.0,
+        "River Plate": 1.22,
+        "Draw": 4.5
       },
       "Betclic (FR)": {
-        "Besiktas JK": 1.0,
-        "Eyüpspor": 100.0,
-        "Draw": 30.0
-      },
-      "Nordic Bet": {
-        "Besiktas JK": 1.0,
-        "Eyüpspor": 301.0,
-        "Draw": 101.0
-      },
-      "Winamax (DE)": {
-        "Besiktas JK": 1.01,
-        "Eyüpspor": 900.0,
-        "Draw": 30.0
-      },
-      "Betsson": {
-        "Besiktas JK": 1.0,
-        "Eyüpspor": 301.0,
-        "Draw": 101.0
+        "Argentinos Juniors": 19.0,
+        "River Plate": 1.16,
+        "Draw": 4.8
       },
       "Betfair": {
-        "Besiktas JK": 1.04,
-        "Eyüpspor": 400.0,
-        "Draw": 21.0
-      }
-    },
-    "b419b588159d965a5da9e2d0acc16c53:h2h": {
-      "Winamax (DE)": {
-        "Hellas Verona": 1.14,
-        "Virtus Entella": 38.0,
-        "Draw": 5.4
-      },
-      "Betfair": {
-        "Hellas Verona": 1.19,
-        "Virtus Entella": 60.0,
-        "Draw": 6.4
-      },
-      "Tipico": {
-        "Hellas Verona": 1.12,
-        "Virtus Entella": 45.0,
-        "Draw": 6.0
-      },
-      "Unibet (NL)": {
-        "Hellas Verona": 1.15,
-        "Virtus Entella": 31.0,
-        "Draw": 5.3
-      },
-      "888sport": {
-        "Hellas Verona": 1.14,
-        "Virtus Entella": 36.0,
-        "Draw": 5.75
+        "Argentinos Juniors": 30.0,
+        "River Plate": 1.26,
+        "Draw": 5.6
       },
       "LeoVegas (SE)": {
-        "Hellas Verona": 1.09,
-        "Virtus Entella": 31.0,
-        "Draw": 5.1
+        "Argentinos Juniors": 23.0,
+        "River Plate": 1.12,
+        "Draw": 5.0
       },
       "Unibet (SE)": {
-        "Hellas Verona": 1.15,
-        "Virtus Entella": 31.0,
-        "Draw": 5.3
-      }
-    },
-    "eda193f19bde1b5e6bca79107fdfcc4f:h2h": {
-      "Winamax (FR)": {
-        "Atletico Mineiro": 1.02,
-        "Grêmio": 110.0,
-        "Draw": 24.0
-      },
-      "Betclic (FR)": {
-        "Atletico Mineiro": 1.0,
-        "Grêmio": 100.0,
-        "Draw": 40.0
-      },
-      "888sport": {
-        "Atletico Mineiro": 1.02,
-        "Grêmio": 91.0,
-        "Draw": 23.0
-      },
-      "Nordic Bet": {
-        "Atletico Mineiro": 1.0,
-        "Grêmio": 36.0,
-        "Draw": 21.0
-      },
-      "Winamax (DE)": {
-        "Atletico Mineiro": 1.01,
-        "Grêmio": 110.0,
-        "Draw": 24.0
+        "Argentinos Juniors": 23.0,
+        "River Plate": 1.2,
+        "Draw": 5.0
       },
       "Betsson": {
-        "Atletico Mineiro": 1.0,
-        "Grêmio": 36.0,
-        "Draw": 21.0
+        "Argentinos Juniors": 21.0,
+        "River Plate": 1.2,
+        "Draw": 4.6
+      },
+      "Nordic Bet": {
+        "Argentinos Juniors": 21.0,
+        "River Plate": 1.18,
+        "Draw": 4.85
+      },
+      "Pinnacle": {
+        "Argentinos Juniors": 23.05,
+        "River Plate": 1.24,
+        "Draw": 4.9
+      }
+    },
+    "83ee089db3127339d9a020c5971dfe73:h2h": {
+      "Unibet (SE)": {
+        "América Mineiro": 7.0,
+        "Athletic Club (MG)": 1.57,
+        "Draw": 3.2
+      },
+      "Unibet (NL)": {
+        "América Mineiro": 6.75,
+        "Athletic Club (MG)": 1.51,
+        "Draw": 3.05
+      },
+      "LeoVegas (SE)": {
+        "América Mineiro": 6.5,
+        "Athletic Club (MG)": 1.5,
+        "Draw": 3.0
+      },
+      "Betsson": {
+        "América Mineiro": 7.7,
+        "Athletic Club (MG)": 1.52,
+        "Draw": 3.2
+      },
+      "Nordic Bet": {
+        "América Mineiro": 7.7,
+        "Athletic Club (MG)": 1.52,
+        "Draw": 3.2
+      },
+      "Pinnacle": {
+        "América Mineiro": 7.84,
+        "Athletic Club (MG)": 1.57,
+        "Draw": 3.3
+      },
+      "Coolbet": {
+        "América Mineiro": 7.5,
+        "Athletic Club (MG)": 1.53,
+        "Draw": 3.25
+      },
+      "888sport": {
+        "América Mineiro": 6.5,
+        "Athletic Club (MG)": 1.57,
+        "Draw": 3.2
+      },
+      "Tipico": {
+        "América Mineiro": 6.0,
+        "Athletic Club (MG)": 1.6,
+        "Draw": 3.3
+      },
+      "Matchbook": {
+        "América Mineiro": 8.8,
+        "Athletic Club (MG)": 1.62,
+        "Draw": 3.5
       },
       "Betfair": {
-        "Atletico Mineiro": 1.01,
-        "Grêmio": 4.5,
-        "Draw": 1.01
+        "América Mineiro": 8.8,
+        "Athletic Club (MG)": 1.62,
+        "Draw": 3.5
+      }
+    },
+    "f9d582a2aad2946d6941a6efc7e519f7:h2h": {
+      "Betclic (FR)": {
+        "Botafogo": 6.9,
+        "Vitoria": 1.41,
+        "Draw": 3.78
+      },
+      "Coolbet": {
+        "Botafogo": 7.5,
+        "Vitoria": 1.44,
+        "Draw": 4.0
+      },
+      "888sport": {
+        "Botafogo": 7.0,
+        "Vitoria": 1.44,
+        "Draw": 3.6
+      },
+      "Betsson": {
+        "Botafogo": 7.2,
+        "Vitoria": 1.43,
+        "Draw": 3.9
+      },
+      "Winamax (FR)": {
+        "Botafogo": 6.5,
+        "Vitoria": 1.43,
+        "Draw": 3.7
+      },
+      "Winamax (DE)": {
+        "Botafogo": 7.0,
+        "Vitoria": 1.44,
+        "Draw": 3.8
+      },
+      "Nordic Bet": {
+        "Botafogo": 7.2,
+        "Vitoria": 1.43,
+        "Draw": 3.9
+      },
+      "PMU (FR)": {
+        "Botafogo": 8.0,
+        "Vitoria": 1.32,
+        "Draw": 3.6
+      },
+      "Unibet (NL)": {
+        "Botafogo": 8.0,
+        "Vitoria": 1.36,
+        "Draw": 3.75
+      },
+      "LeoVegas (SE)": {
+        "Botafogo": 8.0,
+        "Vitoria": 1.34,
+        "Draw": 3.65
+      },
+      "Unibet (SE)": {
+        "Botafogo": 8.5,
+        "Vitoria": 1.41,
+        "Draw": 3.9
+      },
+      "Pinnacle": {
+        "Botafogo": 8.57,
+        "Vitoria": 1.48,
+        "Draw": 3.82
+      },
+      "Matchbook": {
+        "Botafogo": 9.2,
+        "Vitoria": 1.52,
+        "Draw": 4.2
+      },
+      "Tipico": {
+        "Botafogo": 7.5,
+        "Vitoria": 1.4,
+        "Draw": 4.0
+      },
+      "Betfair": {
+        "Botafogo": 9.2,
+        "Vitoria": 1.52,
+        "Draw": 4.2
+      },
+      "MyBookie.ag": {
+        "Botafogo": 6.75,
+        "Vitoria": 1.45,
+        "Draw": 3.7
+      }
+    },
+    "5b250e4ccee474fc79c0ebbd5defaa31:h2h": {
+      "Unibet (NL)": {
+        "Clube de Regatas Brasil": 2.48,
+        "Grêmio Novorizontino": 3.25,
+        "Draw": 2.35
+      },
+      "Unibet (SE)": {
+        "Clube de Regatas Brasil": 2.6,
+        "Grêmio Novorizontino": 3.4,
+        "Draw": 2.48
+      },
+      "LeoVegas (SE)": {
+        "Clube de Regatas Brasil": 2.45,
+        "Grêmio Novorizontino": 3.2,
+        "Draw": 2.33
+      },
+      "Betsson": {
+        "Clube de Regatas Brasil": 2.65,
+        "Grêmio Novorizontino": 3.4,
+        "Draw": 2.35
+      },
+      "Nordic Bet": {
+        "Clube de Regatas Brasil": 2.65,
+        "Grêmio Novorizontino": 3.4,
+        "Draw": 2.35
+      },
+      "Coolbet": {
+        "Clube de Regatas Brasil": 2.63,
+        "Grêmio Novorizontino": 3.4,
+        "Draw": 2.38
+      },
+      "Pinnacle": {
+        "Clube de Regatas Brasil": 2.8,
+        "Grêmio Novorizontino": 3.52,
+        "Draw": 2.35
+      },
+      "888sport": {
+        "Clube de Regatas Brasil": 2.62,
+        "Grêmio Novorizontino": 3.3,
+        "Draw": 2.3
+      },
+      "Tipico": {
+        "Clube de Regatas Brasil": 2.5,
+        "Grêmio Novorizontino": 3.6,
+        "Draw": 2.4
+      },
+      "Matchbook": {
+        "Clube de Regatas Brasil": 2.82,
+        "Grêmio Novorizontino": 3.65,
+        "Draw": 2.58
+      },
+      "Betfair": {
+        "Clube de Regatas Brasil": 2.82,
+        "Grêmio Novorizontino": 3.65,
+        "Draw": 2.58
       }
     }
   },
@@ -9315,8 +9445,77 @@
       "confidence": 20,
       "alert_type": "value",
       "alerted_at": "2026-08-16T18:43:08.182289+00:00"
+    },
+    {
+      "state_key": "4b9ad53d71ab5d992c2bbb20119f22e7:h2h",
+      "event_id": "4b9ad53d71ab5d992c2bbb20119f22e7",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "River Plate",
+      "away_team": "Argentinos Juniors",
+      "commence_time": "2026-08-16T21:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Argentinos Juniors",
+      "odds_at_alert": 30.0,
+      "stake_pct": 5.0,
+      "confidence": 23,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T22:32:59.373281+00:00"
+    },
+    {
+      "state_key": "4b9ad53d71ab5d992c2bbb20119f22e7:h2h",
+      "event_id": "4b9ad53d71ab5d992c2bbb20119f22e7",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "River Plate",
+      "away_team": "Argentinos Juniors",
+      "commence_time": "2026-08-16T21:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.6,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T22:32:59.759322+00:00"
+    },
+    {
+      "state_key": "83ee089db3127339d9a020c5971dfe73:h2h",
+      "event_id": "83ee089db3127339d9a020c5971dfe73",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "América Mineiro",
+      "away_team": "Athletic Club (MG)",
+      "commence_time": "2026-08-16T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "América Mineiro",
+      "odds_at_alert": 8.8,
+      "stake_pct": 2.0,
+      "confidence": 5,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T22:33:00.128991+00:00"
+    },
+    {
+      "state_key": "83ee089db3127339d9a020c5971dfe73:h2h",
+      "event_id": "83ee089db3127339d9a020c5971dfe73",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "América Mineiro",
+      "away_team": "Athletic Club (MG)",
+      "commence_time": "2026-08-16T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "América Mineiro",
+      "odds_at_alert": 8.8,
+      "stake_pct": 2.0,
+      "confidence": 5,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T22:33:00.516055+00:00"
     }
   ],
   "results_history": [],
-  "value_alerted": []
+  "value_alerted": [
+    "4b9ad53d71ab5d992c2bbb20119f22e7:h2h|Betfair|Argentinos Juniors",
+    "4b9ad53d71ab5d992c2bbb20119f22e7:h2h|Betfair|Draw",
+    "83ee089db3127339d9a020c5971dfe73:h2h|Betfair|América Mineiro",
+    "83ee089db3127339d9a020c5971dfe73:h2h|Matchbook|América Mineiro"
+  ]
 }
