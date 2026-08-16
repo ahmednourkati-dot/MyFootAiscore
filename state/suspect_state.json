@@ -1,196 +1,116 @@
 {
   "snapshots": {
-    "7929df954375baae70c9182d5069ecc7:h2h": {
+    "668f6bfdf1a0fb65f8e1b55691fc63f0:h2h": {
       "Betclic (FR)": {
-        "Arouca": 1.0,
-        "Moreirense FC": 100.0,
-        "Draw": 95.0
+        "Amed SK": 1.0,
+        "Erzurum BB": 100.0,
+        "Draw": 43.0
+      }
+    },
+    "60970679a8d8f873516441a929eba3ac:h2h": {
+      "Winamax (FR)": {
+        "Besiktas JK": 1.01,
+        "Eyüpspor": 900.0,
+        "Draw": 32.0
       },
-      "Betsson": {
-        "Arouca": 1.0,
-        "Moreirense FC": 36.0,
-        "Draw": 21.0
+      "Betclic (FR)": {
+        "Besiktas JK": 1.0,
+        "Eyüpspor": 100.0,
+        "Draw": 30.0
       },
       "Nordic Bet": {
-        "Arouca": 1.0,
-        "Moreirense FC": 36.0,
+        "Besiktas JK": 1.0,
+        "Eyüpspor": 301.0,
+        "Draw": 101.0
+      },
+      "Winamax (DE)": {
+        "Besiktas JK": 1.01,
+        "Eyüpspor": 900.0,
+        "Draw": 30.0
+      },
+      "Betsson": {
+        "Besiktas JK": 1.0,
+        "Eyüpspor": 301.0,
+        "Draw": 101.0
+      },
+      "Betfair": {
+        "Besiktas JK": 1.04,
+        "Eyüpspor": 400.0,
         "Draw": 21.0
       }
     },
-    "8a266ab79e1dd7e5bb6ff30f115f6a1e:h2h": {
-      "Winamax (FR)": {
-        "Burgos CF": 4.8,
-        "Córdoba": 3.9,
-        "Draw": 1.5
-      },
+    "b419b588159d965a5da9e2d0acc16c53:h2h": {
       "Winamax (DE)": {
-        "Burgos CF": 5.1,
-        "Córdoba": 4.0,
-        "Draw": 1.5
+        "Hellas Verona": 1.14,
+        "Virtus Entella": 38.0,
+        "Draw": 5.4
+      },
+      "Betfair": {
+        "Hellas Verona": 1.19,
+        "Virtus Entella": 60.0,
+        "Draw": 6.4
       },
       "Tipico": {
-        "Burgos CF": 5.2,
-        "Córdoba": 3.8,
-        "Draw": 1.55
-      },
-      "Betclic (FR)": {
-        "Burgos CF": 4.75,
-        "Córdoba": 3.7,
-        "Draw": 1.55
-      },
-      "Pinnacle": {
-        "Burgos CF": 4.62,
-        "Córdoba": 3.67,
-        "Draw": 1.73
-      },
-      "Betfair": {
-        "Burgos CF": 6.0,
-        "Córdoba": 4.6,
-        "Draw": 1.6
-      },
-      "PMU (FR)": {
-        "Burgos CF": 5.2,
-        "Córdoba": 4.4,
-        "Draw": 1.27
-      },
-      "Unibet (SE)": {
-        "Burgos CF": 5.6,
-        "Córdoba": 4.8,
-        "Draw": 1.4
+        "Hellas Verona": 1.12,
+        "Virtus Entella": 45.0,
+        "Draw": 6.0
       },
       "Unibet (NL)": {
-        "Burgos CF": 5.6,
-        "Córdoba": 4.8,
-        "Draw": 1.4
+        "Hellas Verona": 1.15,
+        "Virtus Entella": 31.0,
+        "Draw": 5.3
+      },
+      "888sport": {
+        "Hellas Verona": 1.14,
+        "Virtus Entella": 36.0,
+        "Draw": 5.75
       },
       "LeoVegas (SE)": {
-        "Burgos CF": 5.3,
-        "Córdoba": 4.6,
-        "Draw": 1.32
+        "Hellas Verona": 1.09,
+        "Virtus Entella": 31.0,
+        "Draw": 5.1
       },
-      "Coolbet": {
-        "Burgos CF": 5.5,
-        "Córdoba": 4.33,
-        "Draw": 1.53
-      },
-      "Matchbook": {
-        "Burgos CF": 6.2,
-        "Córdoba": 4.7,
-        "Draw": 1.53
-      },
-      "Betsson": {
-        "Burgos CF": 4.85,
-        "Córdoba": 4.1,
-        "Draw": 1.5
-      },
-      "Nordic Bet": {
-        "Burgos CF": 2.18,
-        "Córdoba": 3.2,
-        "Draw": 3.1
+      "Unibet (SE)": {
+        "Hellas Verona": 1.15,
+        "Virtus Entella": 31.0,
+        "Draw": 5.3
       }
     },
-    "4e24891d0ee382bfda6305eabbc54754:h2h": {
-      "Betfair": {
-        "Espanyol": 1.01,
-        "Levante": 160.0,
-        "Draw": 70.0
-      },
-      "Betclic (FR)": {
-        "Espanyol": 1.0,
-        "Levante": 95.0,
-        "Draw": 28.0
-      },
+    "eda193f19bde1b5e6bca79107fdfcc4f:h2h": {
       "Winamax (FR)": {
-        "Espanyol": 1.01,
-        "Levante": 200.0,
-        "Draw": 38.0
+        "Atletico Mineiro": 1.02,
+        "Grêmio": 110.0,
+        "Draw": 24.0
       },
-      "Winamax (DE)": {
-        "Espanyol": 1.01,
-        "Levante": 200.0,
-        "Draw": 36.0
+      "Betclic (FR)": {
+        "Atletico Mineiro": 1.0,
+        "Grêmio": 100.0,
+        "Draw": 40.0
       },
-      "Unibet (SE)": {
-        "Espanyol": 1.01,
-        "Levante": 181.0,
-        "Draw": 30.0
-      },
-      "Unibet (NL)": {
-        "Espanyol": 1.01,
-        "Levante": 181.0,
-        "Draw": 30.0
-      },
-      "Betsson": {
-        "Espanyol": 1.01,
-        "Levante": 280.0,
-        "Draw": 50.0
+      "888sport": {
+        "Atletico Mineiro": 1.02,
+        "Grêmio": 91.0,
+        "Draw": 23.0
       },
       "Nordic Bet": {
-        "Espanyol": 1.01,
-        "Levante": 280.0,
-        "Draw": 50.0
+        "Atletico Mineiro": 1.0,
+        "Grêmio": 36.0,
+        "Draw": 21.0
       },
-      "Coolbet": {
-        "Espanyol": 1.0,
-        "Levante": 100.0,
-        "Draw": 30.0
-      }
-    },
-    "5bebf67f8778481d7e7e3a0d5f4843d0:h2h": {
       "Winamax (DE)": {
-        "Girona FC": 15.0,
-        "Leganés": 1.37,
-        "Draw": 3.4
+        "Atletico Mineiro": 1.01,
+        "Grêmio": 110.0,
+        "Draw": 24.0
       },
-      "Tipico": {
-        "Girona FC": 16.0,
-        "Leganés": 1.4,
-        "Draw": 3.1
-      },
-      "Pinnacle": {
-        "Girona FC": 7.68,
-        "Leganés": 1.67,
-        "Draw": 2.98
+      "Betsson": {
+        "Atletico Mineiro": 1.0,
+        "Grêmio": 36.0,
+        "Draw": 21.0
       },
       "Betfair": {
-        "Girona FC": 19.0,
-        "Leganés": 1.45,
-        "Draw": 3.8
-      },
-      "Unibet (SE)": {
-        "Girona FC": 15.0,
-        "Leganés": 1.35,
-        "Draw": 3.4
-      },
-      "Unibet (NL)": {
-        "Girona FC": 15.0,
-        "Leganés": 1.35,
-        "Draw": 3.4
-      },
-      "LeoVegas (SE)": {
-        "Girona FC": 15.0,
-        "Leganés": 1.27,
-        "Draw": 3.2
-      },
-      "Coolbet": {
-        "Girona FC": 16.0,
-        "Leganés": 1.36,
-        "Draw": 3.5
-      },
-      "Matchbook": {
-        "Girona FC": 19.5,
-        "Leganés": 1.47,
-        "Draw": 3.65
-      },
-      "Betsson": {
-        "Girona FC": 11.5,
-        "Leganés": 1.41,
-        "Draw": 3.2
-      },
-      "Nordic Bet": {
-        "Girona FC": 1.52,
-        "Leganés": 5.7,
-        "Draw": 3.8
+        "Atletico Mineiro": 1.01,
+        "Grêmio": 4.5,
+        "Draw": 1.01
       }
     }
   },
@@ -9398,39 +9318,5 @@
     }
   ],
   "results_history": [],
-  "value_alerted": [
-    "5bebf67f8778481d7e7e3a0d5f4843d0:h2h|Betfair|Draw",
-    "5bebf67f8778481d7e7e3a0d5f4843d0:h2h|Betfair|Girona FC",
-    "5bebf67f8778481d7e7e3a0d5f4843d0:h2h|Betsson|Girona FC",
-    "5bebf67f8778481d7e7e3a0d5f4843d0:h2h|Coolbet|Draw",
-    "5bebf67f8778481d7e7e3a0d5f4843d0:h2h|Coolbet|Girona FC",
-    "5bebf67f8778481d7e7e3a0d5f4843d0:h2h|LeoVegas (SE)|Girona FC",
-    "5bebf67f8778481d7e7e3a0d5f4843d0:h2h|Matchbook|Draw",
-    "5bebf67f8778481d7e7e3a0d5f4843d0:h2h|Matchbook|Girona FC",
-    "5bebf67f8778481d7e7e3a0d5f4843d0:h2h|Nordic Bet|Draw",
-    "5bebf67f8778481d7e7e3a0d5f4843d0:h2h|Nordic Bet|Leganés",
-    "5bebf67f8778481d7e7e3a0d5f4843d0:h2h|Tipico|Girona FC",
-    "5bebf67f8778481d7e7e3a0d5f4843d0:h2h|Unibet (NL)|Draw",
-    "5bebf67f8778481d7e7e3a0d5f4843d0:h2h|Unibet (NL)|Girona FC",
-    "5bebf67f8778481d7e7e3a0d5f4843d0:h2h|Unibet (SE)|Draw",
-    "5bebf67f8778481d7e7e3a0d5f4843d0:h2h|Unibet (SE)|Girona FC",
-    "5bebf67f8778481d7e7e3a0d5f4843d0:h2h|Winamax (DE)|Draw",
-    "5bebf67f8778481d7e7e3a0d5f4843d0:h2h|Winamax (DE)|Girona FC",
-    "8a266ab79e1dd7e5bb6ff30f115f6a1e:h2h|Betfair|Burgos CF",
-    "8a266ab79e1dd7e5bb6ff30f115f6a1e:h2h|Betfair|Córdoba",
-    "8a266ab79e1dd7e5bb6ff30f115f6a1e:h2h|Coolbet|Burgos CF",
-    "8a266ab79e1dd7e5bb6ff30f115f6a1e:h2h|Coolbet|Córdoba",
-    "8a266ab79e1dd7e5bb6ff30f115f6a1e:h2h|LeoVegas (SE)|Burgos CF",
-    "8a266ab79e1dd7e5bb6ff30f115f6a1e:h2h|LeoVegas (SE)|Córdoba",
-    "8a266ab79e1dd7e5bb6ff30f115f6a1e:h2h|Matchbook|Burgos CF",
-    "8a266ab79e1dd7e5bb6ff30f115f6a1e:h2h|Matchbook|Córdoba",
-    "8a266ab79e1dd7e5bb6ff30f115f6a1e:h2h|Nordic Bet|Draw",
-    "8a266ab79e1dd7e5bb6ff30f115f6a1e:h2h|PMU (FR)|Burgos CF",
-    "8a266ab79e1dd7e5bb6ff30f115f6a1e:h2h|PMU (FR)|Córdoba",
-    "8a266ab79e1dd7e5bb6ff30f115f6a1e:h2h|Tipico|Burgos CF",
-    "8a266ab79e1dd7e5bb6ff30f115f6a1e:h2h|Unibet (NL)|Burgos CF",
-    "8a266ab79e1dd7e5bb6ff30f115f6a1e:h2h|Unibet (NL)|Córdoba",
-    "8a266ab79e1dd7e5bb6ff30f115f6a1e:h2h|Unibet (SE)|Burgos CF",
-    "8a266ab79e1dd7e5bb6ff30f115f6a1e:h2h|Unibet (SE)|Córdoba"
-  ]
+  "value_alerted": []
 }
