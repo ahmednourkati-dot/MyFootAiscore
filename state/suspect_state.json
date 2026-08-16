@@ -1,166 +1,79 @@
 {
   "snapshots": {
-    "61734fd058d8f6cc5914e2ab642dbe2d:h2h": {
-      "Betsson": {
-        "1. FC Saarbrücken": 8.6,
-        "Jahn Regensburg": 8.6,
-        "Draw": 1.12
+    "fd2380fb0d0736468c7a58dfe8c1d6e2:h2h": {
+      "Betclic (FR)": {
+        "Burnley": 21.0,
+        "West Ham United": 27.0,
+        "Draw": 1.02
+      },
+      "Betfair": {
+        "Burnley": 1.01,
+        "West Ham United": 1.05,
+        "Draw": 1.02
       },
       "Nordic Bet": {
-        "1. FC Saarbrücken": 2.45,
-        "Jahn Regensburg": 2.52,
-        "Draw": 3.45
-      },
-      "Suprabets": {
-        "1. FC Saarbrücken": 9.5,
-        "Jahn Regensburg": 9.5,
-        "Draw": 1.1
-      },
-      "Pinnacle": {
-        "1. FC Saarbrücken": 10.01,
-        "Jahn Regensburg": 9.96,
-        "Draw": 1.15
-      },
-      "Winamax (DE)": {
-        "1. FC Saarbrücken": 13.5,
-        "Jahn Regensburg": 13.5,
-        "Draw": 1.08
-      },
-      "Tipico": {
-        "1. FC Saarbrücken": 30.0,
-        "Jahn Regensburg": 30.0,
-        "Draw": 1.01
+        "Burnley": 23.0,
+        "West Ham United": 29.0,
+        "Draw": 1.0
       },
       "Coolbet": {
-        "1. FC Saarbrücken": 16.0,
-        "Jahn Regensburg": 16.0,
-        "Draw": 1.04
+        "Burnley": 28.0,
+        "West Ham United": 28.0,
+        "Draw": 1.0
       },
-      "Betfair": {
-        "1. FC Saarbrücken": 26.0,
-        "Jahn Regensburg": 26.0,
-        "Draw": 1.02
-      },
-      "Unibet (SE)": {
-        "1. FC Saarbrücken": 41.0,
-        "Jahn Regensburg": 36.0,
-        "Draw": 1.01
-      },
-      "Unibet (NL)": {
-        "1. FC Saarbrücken": 18.0,
-        "Jahn Regensburg": 19.0,
-        "Draw": 1.03
-      },
-      "LeoVegas (SE)": {
-        "1. FC Saarbrücken": 11.0,
-        "Jahn Regensburg": 12.5,
+      "Matchbook": {
+        "Burnley": 34.0,
+        "West Ham United": 55.0,
         "Draw": 1.02
       }
     },
-    "f1a64c2e8e1fd333286e57b43b1f8025:h2h": {
+    "029f6bfe29cfa3b2d7253fe87b9c3dc7:h2h": {
       "Betclic (FR)": {
-        "Estoril": 100.0,
-        "Nacional": 1.0,
-        "Draw": 100.0
-      },
-      "Nordic Bet": {
-        "Estoril": 26.0,
-        "Nacional": 1.0,
-        "Draw": 26.0
-      },
-      "Betsson": {
-        "Estoril": 34.0,
-        "Nacional": 1.0,
-        "Draw": 21.0
-      },
-      "Betfair": {
-        "Estoril": 75.0,
-        "Nacional": 1.01,
-        "Draw": 50.0
-      }
-    },
-    "ad13fd726816f83cbb2fd5f7b27021b5:h2h": {
-      "Betclic (FR)": {
-        "Hammarby IF": 1.0,
-        "Kalmar FF": 100.0,
+        "HamKam": 100.0,
+        "SK Brann": 1.0,
         "Draw": 40.0
       },
       "Betsson": {
-        "Hammarby IF": 1.0,
-        "Kalmar FF": 26.0,
+        "HamKam": 26.0,
+        "SK Brann": 1.0,
         "Draw": 26.0
       },
       "Nordic Bet": {
-        "Hammarby IF": 1.0,
-        "Kalmar FF": 1.0,
-        "Draw": 1.0
+        "HamKam": 26.0,
+        "SK Brann": 1.0,
+        "Draw": 26.0
       }
     },
-    "09a9e817d0717bcfbae9e7fca709a15d:h2h": {
-      "Coolbet": {
-        "Ajax": 7.0,
-        "Heerenveen": 16.0,
-        "Draw": 1.2
-      },
-      "Winamax (DE)": {
-        "Ajax": 6.75,
-        "Heerenveen": 17.0,
-        "Draw": 1.13
-      },
-      "Winamax (FR)": {
-        "Ajax": 6.5,
-        "Heerenveen": 16.0,
-        "Draw": 1.15
-      },
-      "888sport": {
-        "Ajax": 5.5,
-        "Heerenveen": 13.0,
-        "Draw": 1.2
-      },
-      "Betfair": {
-        "Ajax": 9.2,
-        "Heerenveen": 21.0,
-        "Draw": 1.17
+    "d946c99484025d2fb1182a2860943359:h2h": {
+      "Betclic (FR)": {
+        "Molde": 1.0,
+        "Tromso": 100.0,
+        "Draw": 16.25
       },
       "Nordic Bet": {
-        "Ajax": 5.35,
-        "Heerenveen": 12.5,
-        "Draw": 1.2
+        "Molde": 1.02,
+        "Tromso": 200.0,
+        "Draw": 11.0
       },
       "Betsson": {
-        "Ajax": 5.35,
-        "Heerenveen": 12.5,
-        "Draw": 1.2
+        "Molde": 1.0,
+        "Tromso": 101.0,
+        "Draw": 15.0
       },
       "Tipico": {
-        "Ajax": 6.0,
-        "Heerenveen": 15.0,
-        "Draw": 1.18
+        "Molde": 1.01,
+        "Tromso": 400.0,
+        "Draw": 20.0
       },
-      "Unibet (SE)": {
-        "Ajax": 6.0,
-        "Heerenveen": 14.0,
-        "Draw": 1.19
+      "Coolbet": {
+        "Molde": 1.01,
+        "Tromso": 400.0,
+        "Draw": 20.0
       },
-      "LeoVegas (SE)": {
-        "Ajax": 5.6,
-        "Heerenveen": 13.0,
-        "Draw": 1.15
-      },
-      "PMU (FR)": {
-        "Ajax": 8.5,
-        "Heerenveen": 19.0,
-        "Draw": 1.01
-      },
-      "Unibet (NL)": {
-        "Ajax": 5.4,
-        "Heerenveen": 13.0,
-        "Draw": 1.22
-      },
-      "Matchbook": {
-        "Ajax": 8.0,
-        "Heerenveen": 21.0,
-        "Draw": 1.17
+      "Betfair": {
+        "Molde": 1.01,
+        "Tromso": 38.0,
+        "Draw": 60.0
       }
     }
   },
@@ -10280,43 +10193,5 @@
     }
   ],
   "results_history": [],
-  "value_alerted": [
-    "61734fd058d8f6cc5914e2ab642dbe2d:h2h|888sport|1. FC Saarbrücken",
-    "61734fd058d8f6cc5914e2ab642dbe2d:h2h|888sport|Jahn Regensburg",
-    "61734fd058d8f6cc5914e2ab642dbe2d:h2h|Betfair|1. FC Saarbrücken",
-    "61734fd058d8f6cc5914e2ab642dbe2d:h2h|Betfair|Jahn Regensburg",
-    "61734fd058d8f6cc5914e2ab642dbe2d:h2h|Betsson|1. FC Saarbrücken",
-    "61734fd058d8f6cc5914e2ab642dbe2d:h2h|Betsson|Jahn Regensburg",
-    "61734fd058d8f6cc5914e2ab642dbe2d:h2h|Coolbet|1. FC Saarbrücken",
-    "61734fd058d8f6cc5914e2ab642dbe2d:h2h|Coolbet|Jahn Regensburg",
-    "61734fd058d8f6cc5914e2ab642dbe2d:h2h|LeoVegas (SE)|1. FC Saarbrücken",
-    "61734fd058d8f6cc5914e2ab642dbe2d:h2h|LeoVegas (SE)|Jahn Regensburg",
-    "61734fd058d8f6cc5914e2ab642dbe2d:h2h|Nordic Bet|1. FC Saarbrücken",
-    "61734fd058d8f6cc5914e2ab642dbe2d:h2h|Nordic Bet|Draw",
-    "61734fd058d8f6cc5914e2ab642dbe2d:h2h|Nordic Bet|Jahn Regensburg",
-    "61734fd058d8f6cc5914e2ab642dbe2d:h2h|Suprabets|1. FC Saarbrücken",
-    "61734fd058d8f6cc5914e2ab642dbe2d:h2h|Suprabets|Jahn Regensburg",
-    "61734fd058d8f6cc5914e2ab642dbe2d:h2h|Tipico|1. FC Saarbrücken",
-    "61734fd058d8f6cc5914e2ab642dbe2d:h2h|Tipico|Jahn Regensburg",
-    "61734fd058d8f6cc5914e2ab642dbe2d:h2h|Unibet (NL)|1. FC Saarbrücken",
-    "61734fd058d8f6cc5914e2ab642dbe2d:h2h|Unibet (NL)|Jahn Regensburg",
-    "61734fd058d8f6cc5914e2ab642dbe2d:h2h|Unibet (SE)|1. FC Saarbrücken",
-    "61734fd058d8f6cc5914e2ab642dbe2d:h2h|Unibet (SE)|Jahn Regensburg",
-    "61734fd058d8f6cc5914e2ab642dbe2d:h2h|Winamax (DE)|1. FC Saarbrücken",
-    "61734fd058d8f6cc5914e2ab642dbe2d:h2h|Winamax (DE)|Jahn Regensburg",
-    "f1a64c2e8e1fd333286e57b43b1f8025:h2h|888sport|Draw",
-    "f1a64c2e8e1fd333286e57b43b1f8025:h2h|888sport|Estoril",
-    "f1a64c2e8e1fd333286e57b43b1f8025:h2h|Betclic (FR)|Draw",
-    "f1a64c2e8e1fd333286e57b43b1f8025:h2h|Betclic (FR)|Estoril",
-    "f1a64c2e8e1fd333286e57b43b1f8025:h2h|Betfair|Draw",
-    "f1a64c2e8e1fd333286e57b43b1f8025:h2h|Betfair|Estoril",
-    "f1a64c2e8e1fd333286e57b43b1f8025:h2h|Betsson|Draw",
-    "f1a64c2e8e1fd333286e57b43b1f8025:h2h|Betsson|Estoril",
-    "f1a64c2e8e1fd333286e57b43b1f8025:h2h|Nordic Bet|Draw",
-    "f1a64c2e8e1fd333286e57b43b1f8025:h2h|Nordic Bet|Estoril",
-    "f1a64c2e8e1fd333286e57b43b1f8025:h2h|Winamax (DE)|Draw",
-    "f1a64c2e8e1fd333286e57b43b1f8025:h2h|Winamax (DE)|Estoril",
-    "f1a64c2e8e1fd333286e57b43b1f8025:h2h|Winamax (FR)|Draw",
-    "f1a64c2e8e1fd333286e57b43b1f8025:h2h|Winamax (FR)|Estoril"
-  ]
+  "value_alerted": []
 }
