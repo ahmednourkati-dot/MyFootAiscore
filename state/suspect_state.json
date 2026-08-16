@@ -1,116 +1,179 @@
 {
   "snapshots": {
-    "668f6bfdf1a0fb65f8e1b55691fc63f0:h2h": {
-      "Betclic (FR)": {
-        "Amed SK": 1.0,
-        "Erzurum BB": 100.0,
-        "Draw": 43.0
-      }
-    },
-    "60970679a8d8f873516441a929eba3ac:h2h": {
-      "Winamax (FR)": {
-        "Besiktas JK": 1.01,
-        "Eyüpspor": 900.0,
-        "Draw": 32.0
-      },
-      "Betclic (FR)": {
-        "Besiktas JK": 1.0,
-        "Eyüpspor": 100.0,
-        "Draw": 30.0
-      },
-      "Nordic Bet": {
-        "Besiktas JK": 1.0,
-        "Eyüpspor": 301.0,
-        "Draw": 101.0
-      },
-      "Winamax (DE)": {
-        "Besiktas JK": 1.01,
-        "Eyüpspor": 900.0,
-        "Draw": 30.0
-      },
-      "Betsson": {
-        "Besiktas JK": 1.0,
-        "Eyüpspor": 301.0,
-        "Draw": 101.0
-      },
-      "Betfair": {
-        "Besiktas JK": 1.04,
-        "Eyüpspor": 400.0,
-        "Draw": 21.0
-      }
-    },
-    "b419b588159d965a5da9e2d0acc16c53:h2h": {
-      "Winamax (DE)": {
-        "Hellas Verona": 1.14,
-        "Virtus Entella": 38.0,
-        "Draw": 5.4
-      },
-      "Betfair": {
-        "Hellas Verona": 1.18,
-        "Virtus Entella": 55.0,
-        "Draw": 6.6
-      },
-      "Tipico": {
-        "Hellas Verona": 1.12,
-        "Virtus Entella": 45.0,
-        "Draw": 6.0
-      },
-      "Unibet (NL)": {
-        "Hellas Verona": 1.15,
-        "Virtus Entella": 31.0,
-        "Draw": 5.3
+    "22bce0aa8d2929906a610f58c3362d67:h2h": {
+      "Pinnacle": {
+        "Lazio": 14.45,
+        "Mantova": 1.38,
+        "Draw": 3.64
       },
       "888sport": {
-        "Hellas Verona": 1.14,
-        "Virtus Entella": 36.0,
-        "Draw": 5.75
+        "Lazio": 71.0,
+        "Mantova": 1.08,
+        "Draw": 7.5
+      },
+      "Betfair": {
+        "Lazio": 1000.0,
+        "Mantova": 1.06,
+        "Draw": 15.0
       },
       "LeoVegas (SE)": {
-        "Hellas Verona": 1.09,
-        "Virtus Entella": 31.0,
-        "Draw": 5.2
+        "Lazio": 67.0,
+        "Mantova": 1.04,
+        "Draw": 7.0
       },
-      "Unibet (SE)": {
-        "Hellas Verona": 1.15,
-        "Virtus Entella": 31.0,
-        "Draw": 5.4
-      }
-    },
-    "eda193f19bde1b5e6bca79107fdfcc4f:h2h": {
-      "Winamax (FR)": {
-        "Atletico Mineiro": 1.02,
-        "Grêmio": 110.0,
-        "Draw": 24.0
-      },
-      "Betclic (FR)": {
-        "Atletico Mineiro": 1.0,
-        "Grêmio": 100.0,
-        "Draw": 40.0
-      },
-      "888sport": {
-        "Atletico Mineiro": 1.02,
-        "Grêmio": 91.0,
-        "Draw": 23.0
-      },
-      "Nordic Bet": {
-        "Atletico Mineiro": 1.0,
-        "Grêmio": 36.0,
-        "Draw": 21.0
+      "Tipico": {
+        "Lazio": 400.0,
+        "Mantova": 1.02,
+        "Draw": 13.0
       },
       "Winamax (DE)": {
-        "Atletico Mineiro": 1.01,
-        "Grêmio": 110.0,
-        "Draw": 24.0
+        "Lazio": 500.0,
+        "Mantova": 1.04,
+        "Draw": 10.0
+      }
+    },
+    "c6e162680bf6dceeef6f6fd4507a8764:h2h": {
+      "Winamax (FR)": {
+        "Albacete": 34.0,
+        "Las Palmas": 1.19,
+        "Draw": 4.7
       },
-      "Betsson": {
-        "Atletico Mineiro": 1.0,
-        "Grêmio": 36.0,
-        "Draw": 21.0
+      "Winamax (DE)": {
+        "Albacete": 34.0,
+        "Las Palmas": 1.16,
+        "Draw": 5.0
+      },
+      "Tipico": {
+        "Albacete": 35.0,
+        "Las Palmas": 1.15,
+        "Draw": 5.0
+      },
+      "Betclic (FR)": {
+        "Albacete": 26.0,
+        "Las Palmas": 1.16,
+        "Draw": 4.6
+      },
+      "Pinnacle": {
+        "Albacete": 19.36,
+        "Las Palmas": 1.26,
+        "Draw": 4.67
       },
       "Betfair": {
-        "Atletico Mineiro": 1.01,
-        "Grêmio": 4.5,
-        "Draw": 1.01
+        "Albacete": 44.0,
+        "Las Palmas": 1.24,
+        "Draw": 5.6
+      },
+      "Unibet (SE)": {
+        "Albacete": 36.0,
+        "Las Palmas": 1.13,
+        "Draw": 5.8
+      },
+      "PMU (FR)": {
+        "Albacete": 34.0,
+        "Las Palmas": 1.02,
+        "Draw": 5.4
+      },
+      "Unibet (NL)": {
+        "Albacete": 35.0,
+        "Las Palmas": 1.09,
+        "Draw": 5.8
+      },
+      "LeoVegas (SE)": {
+        "Albacete": 31.0,
+        "Las Palmas": 1.08,
+        "Draw": 5.4
+      },
+      "Coolbet": {
+        "Albacete": 35.0,
+        "Las Palmas": 1.18,
+        "Draw": 5.0
+      },
+      "Matchbook": {
+        "Albacete": 60.0,
+        "Las Palmas": 1.2,
+        "Draw": 6.2
+      },
+      "Betsson": {
+        "Albacete": 32.0,
+        "Las Palmas": 1.16,
+        "Draw": 5.35
+      },
+      "Nordic Bet": {
+        "Albacete": 32.0,
+        "Las Palmas": 1.16,
+        "Draw": 5.35
+      }
+    },
+    "ab9aabe0a69a522f22dab493732d5a65:h2h": {
+      "Betsson": {
+        "CS Maritimo": 8.6,
+        "Famalicão": 4.1,
+        "Draw": 1.36
+      },
+      "Nordic Bet": {
+        "CS Maritimo": 8.6,
+        "Famalicão": 4.1,
+        "Draw": 1.36
+      },
+      "Betclic (FR)": {
+        "CS Maritimo": 9.25,
+        "Famalicão": 3.93,
+        "Draw": 1.4
+      },
+      "Tipico": {
+        "CS Maritimo": 9.0,
+        "Famalicão": 4.3,
+        "Draw": 1.35
+      },
+      "Winamax (FR)": {
+        "CS Maritimo": 7.75,
+        "Famalicão": 3.85,
+        "Draw": 1.37
+      },
+      "Winamax (DE)": {
+        "CS Maritimo": 8.0,
+        "Famalicão": 3.75,
+        "Draw": 1.41
+      },
+      "Betfair": {
+        "CS Maritimo": 11.5,
+        "Famalicão": 4.4,
+        "Draw": 1.45
+      },
+      "Unibet (NL)": {
+        "CS Maritimo": 9.5,
+        "Famalicão": 4.4,
+        "Draw": 1.3
+      },
+      "PMU (FR)": {
+        "CS Maritimo": 9.0,
+        "Famalicão": 4.2,
+        "Draw": 1.23
+      },
+      "LeoVegas (SE)": {
+        "CS Maritimo": 9.0,
+        "Famalicão": 4.2,
+        "Draw": 1.22
+      },
+      "Unibet (SE)": {
+        "CS Maritimo": 9.5,
+        "Famalicão": 4.4,
+        "Draw": 1.3
+      },
+      "888sport": {
+        "CS Maritimo": 9.0,
+        "Famalicão": 4.0,
+        "Draw": 1.36
+      },
+      "Pinnacle": {
+        "CS Maritimo": 8.84,
+        "Famalicão": 4.22,
+        "Draw": 1.41
+      },
+      "Matchbook": {
+        "CS Maritimo": 11.0,
+        "Famalicão": 4.6,
+        "Draw": 1.38
       }
     }
   },
@@ -11139,10 +11202,570 @@
       "confidence": 29,
       "alert_type": "value",
       "alerted_at": "2026-08-16T20:10:27.648483+00:00"
+    },
+    {
+      "state_key": "22bce0aa8d2929906a610f58c3362d67:h2h",
+      "event_id": "22bce0aa8d2929906a610f58c3362d67",
+      "sport_key": "soccer",
+      "competition": "Coppa Italia",
+      "home_team": "Lazio",
+      "away_team": "Mantova",
+      "commence_time": "2026-08-16T19:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Lazio",
+      "odds_at_alert": 71.0,
+      "stake_pct": 5.0,
+      "confidence": 360,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T21:12:38.308111+00:00"
+    },
+    {
+      "state_key": "22bce0aa8d2929906a610f58c3362d67:h2h",
+      "event_id": "22bce0aa8d2929906a610f58c3362d67",
+      "sport_key": "soccer",
+      "competition": "Coppa Italia",
+      "home_team": "Lazio",
+      "away_team": "Mantova",
+      "commence_time": "2026-08-16T19:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 7.5,
+      "stake_pct": 5.0,
+      "confidence": 93,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T21:12:38.656315+00:00"
+    },
+    {
+      "state_key": "22bce0aa8d2929906a610f58c3362d67:h2h",
+      "event_id": "22bce0aa8d2929906a610f58c3362d67",
+      "sport_key": "soccer",
+      "competition": "Coppa Italia",
+      "home_team": "Lazio",
+      "away_team": "Mantova",
+      "commence_time": "2026-08-16T19:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Lazio",
+      "odds_at_alert": 1000.0,
+      "stake_pct": 5.0,
+      "confidence": 6376,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T21:12:39.016196+00:00"
+    },
+    {
+      "state_key": "22bce0aa8d2929906a610f58c3362d67:h2h",
+      "event_id": "22bce0aa8d2929906a610f58c3362d67",
+      "sport_key": "soccer",
+      "competition": "Coppa Italia",
+      "home_team": "Lazio",
+      "away_team": "Mantova",
+      "commence_time": "2026-08-16T19:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 286,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T21:12:39.380814+00:00"
+    },
+    {
+      "state_key": "22bce0aa8d2929906a610f58c3362d67:h2h",
+      "event_id": "22bce0aa8d2929906a610f58c3362d67",
+      "sport_key": "soccer",
+      "competition": "Coppa Italia",
+      "home_team": "Lazio",
+      "away_team": "Mantova",
+      "commence_time": "2026-08-16T19:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Lazio",
+      "odds_at_alert": 67.0,
+      "stake_pct": 5.0,
+      "confidence": 334,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T21:12:39.720289+00:00"
+    },
+    {
+      "state_key": "22bce0aa8d2929906a610f58c3362d67:h2h",
+      "event_id": "22bce0aa8d2929906a610f58c3362d67",
+      "sport_key": "soccer",
+      "competition": "Coppa Italia",
+      "home_team": "Lazio",
+      "away_team": "Mantova",
+      "commence_time": "2026-08-16T19:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 7.0,
+      "stake_pct": 5.0,
+      "confidence": 80,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T21:12:40.080421+00:00"
+    },
+    {
+      "state_key": "22bce0aa8d2929906a610f58c3362d67:h2h",
+      "event_id": "22bce0aa8d2929906a610f58c3362d67",
+      "sport_key": "soccer",
+      "competition": "Coppa Italia",
+      "home_team": "Lazio",
+      "away_team": "Mantova",
+      "commence_time": "2026-08-16T19:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Lazio",
+      "odds_at_alert": 400.0,
+      "stake_pct": 5.0,
+      "confidence": 2491,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T21:12:40.424265+00:00"
+    },
+    {
+      "state_key": "22bce0aa8d2929906a610f58c3362d67:h2h",
+      "event_id": "22bce0aa8d2929906a610f58c3362d67",
+      "sport_key": "soccer",
+      "competition": "Coppa Italia",
+      "home_team": "Lazio",
+      "away_team": "Mantova",
+      "commence_time": "2026-08-16T19:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 234,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T21:12:40.819292+00:00"
+    },
+    {
+      "state_key": "22bce0aa8d2929906a610f58c3362d67:h2h",
+      "event_id": "22bce0aa8d2929906a610f58c3362d67",
+      "sport_key": "soccer",
+      "competition": "Coppa Italia",
+      "home_team": "Lazio",
+      "away_team": "Mantova",
+      "commence_time": "2026-08-16T19:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Lazio",
+      "odds_at_alert": 500.0,
+      "stake_pct": 5.0,
+      "confidence": 3138,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T21:12:41.168161+00:00"
+    },
+    {
+      "state_key": "22bce0aa8d2929906a610f58c3362d67:h2h",
+      "event_id": "22bce0aa8d2929906a610f58c3362d67",
+      "sport_key": "soccer",
+      "competition": "Coppa Italia",
+      "home_team": "Lazio",
+      "away_team": "Mantova",
+      "commence_time": "2026-08-16T19:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 10.0,
+      "stake_pct": 5.0,
+      "confidence": 157,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T21:12:41.515841+00:00"
+    },
+    {
+      "state_key": "c6e162680bf6dceeef6f6fd4507a8764:h2h",
+      "event_id": "c6e162680bf6dceeef6f6fd4507a8764",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Las Palmas",
+      "away_team": "Albacete",
+      "commence_time": "2026-08-16T19:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Albacete",
+      "odds_at_alert": 34.0,
+      "stake_pct": 5.0,
+      "confidence": 66,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T21:12:41.868533+00:00"
+    },
+    {
+      "state_key": "c6e162680bf6dceeef6f6fd4507a8764:h2h",
+      "event_id": "c6e162680bf6dceeef6f6fd4507a8764",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Las Palmas",
+      "away_team": "Albacete",
+      "commence_time": "2026-08-16T19:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Albacete",
+      "odds_at_alert": 34.0,
+      "stake_pct": 5.0,
+      "confidence": 66,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T21:12:42.232911+00:00"
+    },
+    {
+      "state_key": "c6e162680bf6dceeef6f6fd4507a8764:h2h",
+      "event_id": "c6e162680bf6dceeef6f6fd4507a8764",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Las Palmas",
+      "away_team": "Albacete",
+      "commence_time": "2026-08-16T19:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Albacete",
+      "odds_at_alert": 35.0,
+      "stake_pct": 5.0,
+      "confidence": 71,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T21:12:42.580946+00:00"
+    },
+    {
+      "state_key": "c6e162680bf6dceeef6f6fd4507a8764:h2h",
+      "event_id": "c6e162680bf6dceeef6f6fd4507a8764",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Las Palmas",
+      "away_team": "Albacete",
+      "commence_time": "2026-08-16T19:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Albacete",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 27,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T21:12:42.925864+00:00"
+    },
+    {
+      "state_key": "c6e162680bf6dceeef6f6fd4507a8764:h2h",
+      "event_id": "c6e162680bf6dceeef6f6fd4507a8764",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Las Palmas",
+      "away_team": "Albacete",
+      "commence_time": "2026-08-16T19:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Albacete",
+      "odds_at_alert": 44.0,
+      "stake_pct": 5.0,
+      "confidence": 115,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T21:12:43.293996+00:00"
+    },
+    {
+      "state_key": "c6e162680bf6dceeef6f6fd4507a8764:h2h",
+      "event_id": "c6e162680bf6dceeef6f6fd4507a8764",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Las Palmas",
+      "away_team": "Albacete",
+      "commence_time": "2026-08-16T19:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.6,
+      "stake_pct": 3.0,
+      "confidence": 13,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T21:12:43.664662+00:00"
+    },
+    {
+      "state_key": "c6e162680bf6dceeef6f6fd4507a8764:h2h",
+      "event_id": "c6e162680bf6dceeef6f6fd4507a8764",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Las Palmas",
+      "away_team": "Albacete",
+      "commence_time": "2026-08-16T19:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Albacete",
+      "odds_at_alert": 36.0,
+      "stake_pct": 5.0,
+      "confidence": 76,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T21:12:44.009014+00:00"
+    },
+    {
+      "state_key": "c6e162680bf6dceeef6f6fd4507a8764:h2h",
+      "event_id": "c6e162680bf6dceeef6f6fd4507a8764",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Las Palmas",
+      "away_team": "Albacete",
+      "commence_time": "2026-08-16T19:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.8,
+      "stake_pct": 5.0,
+      "confidence": 17,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T21:12:44.389750+00:00"
+    },
+    {
+      "state_key": "c6e162680bf6dceeef6f6fd4507a8764:h2h",
+      "event_id": "c6e162680bf6dceeef6f6fd4507a8764",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Las Palmas",
+      "away_team": "Albacete",
+      "commence_time": "2026-08-16T19:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Albacete",
+      "odds_at_alert": 34.0,
+      "stake_pct": 5.0,
+      "confidence": 66,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T21:12:44.742420+00:00"
+    },
+    {
+      "state_key": "c6e162680bf6dceeef6f6fd4507a8764:h2h",
+      "event_id": "c6e162680bf6dceeef6f6fd4507a8764",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Las Palmas",
+      "away_team": "Albacete",
+      "commence_time": "2026-08-16T19:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.4,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T21:12:45.103595+00:00"
+    },
+    {
+      "state_key": "c6e162680bf6dceeef6f6fd4507a8764:h2h",
+      "event_id": "c6e162680bf6dceeef6f6fd4507a8764",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Las Palmas",
+      "away_team": "Albacete",
+      "commence_time": "2026-08-16T19:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Albacete",
+      "odds_at_alert": 35.0,
+      "stake_pct": 5.0,
+      "confidence": 71,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T21:12:45.523264+00:00"
+    },
+    {
+      "state_key": "c6e162680bf6dceeef6f6fd4507a8764:h2h",
+      "event_id": "c6e162680bf6dceeef6f6fd4507a8764",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Las Palmas",
+      "away_team": "Albacete",
+      "commence_time": "2026-08-16T19:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.8,
+      "stake_pct": 5.0,
+      "confidence": 17,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T21:12:45.879430+00:00"
+    },
+    {
+      "state_key": "c6e162680bf6dceeef6f6fd4507a8764:h2h",
+      "event_id": "c6e162680bf6dceeef6f6fd4507a8764",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Las Palmas",
+      "away_team": "Albacete",
+      "commence_time": "2026-08-16T19:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Albacete",
+      "odds_at_alert": 31.0,
+      "stake_pct": 5.0,
+      "confidence": 51,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T21:12:46.239764+00:00"
+    },
+    {
+      "state_key": "c6e162680bf6dceeef6f6fd4507a8764:h2h",
+      "event_id": "c6e162680bf6dceeef6f6fd4507a8764",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Las Palmas",
+      "away_team": "Albacete",
+      "commence_time": "2026-08-16T19:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.4,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T21:12:46.588508+00:00"
+    },
+    {
+      "state_key": "c6e162680bf6dceeef6f6fd4507a8764:h2h",
+      "event_id": "c6e162680bf6dceeef6f6fd4507a8764",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Las Palmas",
+      "away_team": "Albacete",
+      "commence_time": "2026-08-16T19:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Albacete",
+      "odds_at_alert": 35.0,
+      "stake_pct": 5.0,
+      "confidence": 71,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T21:12:46.972936+00:00"
+    },
+    {
+      "state_key": "c6e162680bf6dceeef6f6fd4507a8764:h2h",
+      "event_id": "c6e162680bf6dceeef6f6fd4507a8764",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Las Palmas",
+      "away_team": "Albacete",
+      "commence_time": "2026-08-16T19:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Albacete",
+      "odds_at_alert": 60.0,
+      "stake_pct": 5.0,
+      "confidence": 193,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T21:12:47.328508+00:00"
+    },
+    {
+      "state_key": "c6e162680bf6dceeef6f6fd4507a8764:h2h",
+      "event_id": "c6e162680bf6dceeef6f6fd4507a8764",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Las Palmas",
+      "away_team": "Albacete",
+      "commence_time": "2026-08-16T19:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.2,
+      "stake_pct": 5.0,
+      "confidence": 25,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T21:12:47.677903+00:00"
+    },
+    {
+      "state_key": "c6e162680bf6dceeef6f6fd4507a8764:h2h",
+      "event_id": "c6e162680bf6dceeef6f6fd4507a8764",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Las Palmas",
+      "away_team": "Albacete",
+      "commence_time": "2026-08-16T19:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Albacete",
+      "odds_at_alert": 32.0,
+      "stake_pct": 5.0,
+      "confidence": 56,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T21:12:48.054532+00:00"
+    },
+    {
+      "state_key": "c6e162680bf6dceeef6f6fd4507a8764:h2h",
+      "event_id": "c6e162680bf6dceeef6f6fd4507a8764",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Las Palmas",
+      "away_team": "Albacete",
+      "commence_time": "2026-08-16T19:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.35,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T21:12:48.433333+00:00"
+    },
+    {
+      "state_key": "c6e162680bf6dceeef6f6fd4507a8764:h2h",
+      "event_id": "c6e162680bf6dceeef6f6fd4507a8764",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Las Palmas",
+      "away_team": "Albacete",
+      "commence_time": "2026-08-16T19:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Albacete",
+      "odds_at_alert": 32.0,
+      "stake_pct": 5.0,
+      "confidence": 56,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T21:12:48.777622+00:00"
+    },
+    {
+      "state_key": "c6e162680bf6dceeef6f6fd4507a8764:h2h",
+      "event_id": "c6e162680bf6dceeef6f6fd4507a8764",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Las Palmas",
+      "away_team": "Albacete",
+      "commence_time": "2026-08-16T19:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.35,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T21:12:49.114184+00:00"
+    },
+    {
+      "state_key": "ab9aabe0a69a522f22dab493732d5a65:h2h",
+      "event_id": "ab9aabe0a69a522f22dab493732d5a65",
+      "sport_key": "soccer",
+      "competition": "Primeira Liga - Portugal",
+      "home_team": "Famalicão",
+      "away_team": "CS Maritimo",
+      "commence_time": "2026-08-16T19:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "CS Maritimo",
+      "odds_at_alert": 11.5,
+      "stake_pct": 5.0,
+      "confidence": 23,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T21:12:49.480523+00:00"
+    },
+    {
+      "state_key": "ab9aabe0a69a522f22dab493732d5a65:h2h",
+      "event_id": "ab9aabe0a69a522f22dab493732d5a65",
+      "sport_key": "soccer",
+      "competition": "Primeira Liga - Portugal",
+      "home_team": "Famalicão",
+      "away_team": "CS Maritimo",
+      "commence_time": "2026-08-16T19:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "CS Maritimo",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 17,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T21:12:49.829320+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "b419b588159d965a5da9e2d0acc16c53:h2h|Betfair|Virtus Entella"
+    "22bce0aa8d2929906a610f58c3362d67:h2h|888sport|Draw",
+    "22bce0aa8d2929906a610f58c3362d67:h2h|888sport|Lazio",
+    "22bce0aa8d2929906a610f58c3362d67:h2h|Betfair|Draw",
+    "22bce0aa8d2929906a610f58c3362d67:h2h|Betfair|Lazio",
+    "22bce0aa8d2929906a610f58c3362d67:h2h|LeoVegas (SE)|Draw",
+    "22bce0aa8d2929906a610f58c3362d67:h2h|LeoVegas (SE)|Lazio",
+    "22bce0aa8d2929906a610f58c3362d67:h2h|Tipico|Draw",
+    "22bce0aa8d2929906a610f58c3362d67:h2h|Tipico|Lazio",
+    "22bce0aa8d2929906a610f58c3362d67:h2h|Winamax (DE)|Draw",
+    "22bce0aa8d2929906a610f58c3362d67:h2h|Winamax (DE)|Lazio",
+    "ab9aabe0a69a522f22dab493732d5a65:h2h|Betfair|CS Maritimo",
+    "ab9aabe0a69a522f22dab493732d5a65:h2h|Matchbook|CS Maritimo",
+    "c6e162680bf6dceeef6f6fd4507a8764:h2h|Betclic (FR)|Albacete",
+    "c6e162680bf6dceeef6f6fd4507a8764:h2h|Betfair|Albacete",
+    "c6e162680bf6dceeef6f6fd4507a8764:h2h|Betfair|Draw",
+    "c6e162680bf6dceeef6f6fd4507a8764:h2h|Betsson|Albacete",
+    "c6e162680bf6dceeef6f6fd4507a8764:h2h|Betsson|Draw",
+    "c6e162680bf6dceeef6f6fd4507a8764:h2h|Coolbet|Albacete",
+    "c6e162680bf6dceeef6f6fd4507a8764:h2h|LeoVegas (SE)|Albacete",
+    "c6e162680bf6dceeef6f6fd4507a8764:h2h|LeoVegas (SE)|Draw",
+    "c6e162680bf6dceeef6f6fd4507a8764:h2h|Matchbook|Albacete",
+    "c6e162680bf6dceeef6f6fd4507a8764:h2h|Matchbook|Draw",
+    "c6e162680bf6dceeef6f6fd4507a8764:h2h|Nordic Bet|Albacete",
+    "c6e162680bf6dceeef6f6fd4507a8764:h2h|Nordic Bet|Draw",
+    "c6e162680bf6dceeef6f6fd4507a8764:h2h|PMU (FR)|Albacete",
+    "c6e162680bf6dceeef6f6fd4507a8764:h2h|PMU (FR)|Draw",
+    "c6e162680bf6dceeef6f6fd4507a8764:h2h|Tipico|Albacete",
+    "c6e162680bf6dceeef6f6fd4507a8764:h2h|Unibet (NL)|Albacete",
+    "c6e162680bf6dceeef6f6fd4507a8764:h2h|Unibet (NL)|Draw",
+    "c6e162680bf6dceeef6f6fd4507a8764:h2h|Unibet (SE)|Albacete",
+    "c6e162680bf6dceeef6f6fd4507a8764:h2h|Unibet (SE)|Draw",
+    "c6e162680bf6dceeef6f6fd4507a8764:h2h|Winamax (DE)|Albacete",
+    "c6e162680bf6dceeef6f6fd4507a8764:h2h|Winamax (FR)|Albacete"
   ]
 }
