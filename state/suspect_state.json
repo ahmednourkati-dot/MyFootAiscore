@@ -2,106 +2,81 @@
   "snapshots": {
     "61734fd058d8f6cc5914e2ab642dbe2d:h2h": {
       "Betsson": {
-        "1. FC Saarbrücken": 6.3,
-        "Jahn Regensburg": 5.8,
-        "Draw": 1.28
+        "1. FC Saarbrücken": 8.6,
+        "Jahn Regensburg": 8.6,
+        "Draw": 1.12
       },
       "Nordic Bet": {
-        "1. FC Saarbrücken": 6.3,
-        "Jahn Regensburg": 5.8,
-        "Draw": 1.28
+        "1. FC Saarbrücken": 2.45,
+        "Jahn Regensburg": 2.52,
+        "Draw": 3.45
       },
       "Suprabets": {
-        "1. FC Saarbrücken": 4.8,
-        "Jahn Regensburg": 4.8,
-        "Draw": 1.42
+        "1. FC Saarbrücken": 9.5,
+        "Jahn Regensburg": 9.5,
+        "Draw": 1.1
       },
       "Pinnacle": {
-        "1. FC Saarbrücken": 4.06,
-        "Jahn Regensburg": 4.12,
-        "Draw": 1.73
+        "1. FC Saarbrücken": 10.01,
+        "Jahn Regensburg": 9.96,
+        "Draw": 1.15
       },
       "Winamax (DE)": {
-        "1. FC Saarbrücken": 6.0,
-        "Jahn Regensburg": 5.9,
-        "Draw": 1.33
+        "1. FC Saarbrücken": 13.5,
+        "Jahn Regensburg": 13.5,
+        "Draw": 1.08
       },
       "Tipico": {
-        "1. FC Saarbrücken": 6.5,
-        "Jahn Regensburg": 6.0,
-        "Draw": 1.3
-      },
-      "888sport": {
-        "1. FC Saarbrücken": 6.5,
-        "Jahn Regensburg": 6.0,
-        "Draw": 1.25
+        "1. FC Saarbrücken": 30.0,
+        "Jahn Regensburg": 30.0,
+        "Draw": 1.01
       },
       "Coolbet": {
-        "1. FC Saarbrücken": 6.5,
-        "Jahn Regensburg": 6.0,
-        "Draw": 1.29
+        "1. FC Saarbrücken": 16.0,
+        "Jahn Regensburg": 16.0,
+        "Draw": 1.04
       },
       "Betfair": {
-        "1. FC Saarbrücken": 6.8,
-        "Jahn Regensburg": 8.8,
-        "Draw": 1.25
+        "1. FC Saarbrücken": 26.0,
+        "Jahn Regensburg": 26.0,
+        "Draw": 1.02
       },
       "Unibet (SE)": {
-        "1. FC Saarbrücken": 5.0,
-        "Jahn Regensburg": 7.5,
-        "Draw": 1.3
+        "1. FC Saarbrücken": 41.0,
+        "Jahn Regensburg": 36.0,
+        "Draw": 1.01
       },
       "Unibet (NL)": {
-        "1. FC Saarbrücken": 5.0,
-        "Jahn Regensburg": 7.5,
-        "Draw": 1.3
+        "1. FC Saarbrücken": 18.0,
+        "Jahn Regensburg": 19.0,
+        "Draw": 1.03
       },
       "LeoVegas (SE)": {
-        "1. FC Saarbrücken": 4.75,
-        "Jahn Regensburg": 7.0,
-        "Draw": 1.23
+        "1. FC Saarbrücken": 11.0,
+        "Jahn Regensburg": 12.5,
+        "Draw": 1.02
       }
     },
     "f1a64c2e8e1fd333286e57b43b1f8025:h2h": {
       "Betclic (FR)": {
         "Estoril": 100.0,
         "Nacional": 1.0,
-        "Draw": 50.0
-      },
-      "Winamax (DE)": {
-        "Estoril": 48.0,
-        "Nacional": 1.09,
-        "Draw": 7.0
-      },
-      "Winamax (FR)": {
-        "Estoril": 48.0,
-        "Nacional": 1.11,
-        "Draw": 6.75
-      },
-      "Pinnacle": {
-        "Estoril": 7.57,
-        "Nacional": 2.2,
-        "Draw": 2.09
+        "Draw": 100.0
       },
       "Nordic Bet": {
-        "Estoril": 51.0,
+        "Estoril": 26.0,
         "Nacional": 1.0,
-        "Draw": 19.0
+        "Draw": 26.0
       },
       "Betsson": {
-        "Estoril": 51.0,
+        "Estoril": 34.0,
         "Nacional": 1.0,
-        "Draw": 19.0
+        "Draw": 21.0
       },
       "Betfair": {
-        "Estoril": 80.0,
+        "Estoril": 75.0,
         "Nacional": 1.01,
         "Draw": 50.0
-      },
-      "888sport": {
-        "Estoril": 151.0,
-        "Nacional": 1.0,
-        "Draw": 61.0
       }
     },
     "ad13fd726816f83cbb2fd5f7b27021b5:h2h": {
@@ -117,75 +92,75 @@
       },
       "Nordic Bet": {
         "Hammarby IF": 1.0,
-        "Kalmar FF": 26.0,
-        "Draw": 26.0
+        "Kalmar FF": 1.0,
+        "Draw": 1.0
       }
     },
-    "8d80fef290ee2938beb4b70878c52392:h2h": {
-      "Unibet (SE)": {
-        "GAIS": 36.0,
-        "Malmo FF": 1.13,
-        "Draw": 5.75
-      },
-      "PMU (FR)": {
-        "GAIS": 34.0,
-        "Malmo FF": 1.03,
-        "Draw": 5.3
-      },
-      "LeoVegas (SE)": {
-        "GAIS": 36.0,
-        "Malmo FF": 1.13,
-        "Draw": 5.75
-      },
-      "Unibet (NL)": {
-        "GAIS": 36.0,
-        "Malmo FF": 1.13,
-        "Draw": 5.75
-      },
-      "Betclic (FR)": {
-        "GAIS": 29.0,
-        "Malmo FF": 1.15,
-        "Draw": 5.0
-      },
-      "Winamax (FR)": {
-        "GAIS": 50.0,
-        "Malmo FF": 1.14,
-        "Draw": 5.8
+    "09a9e817d0717bcfbae9e7fca709a15d:h2h": {
+      "Coolbet": {
+        "Ajax": 7.0,
+        "Heerenveen": 16.0,
+        "Draw": 1.2
       },
       "Winamax (DE)": {
-        "GAIS": 50.0,
-        "Malmo FF": 1.11,
-        "Draw": 6.0
+        "Ajax": 6.75,
+        "Heerenveen": 17.0,
+        "Draw": 1.13
       },
-      "Betsson": {
-        "GAIS": 43.0,
-        "Malmo FF": 1.1,
-        "Draw": 5.8
-      },
-      "Nordic Bet": {
-        "GAIS": 40.0,
-        "Malmo FF": 1.12,
-        "Draw": 5.35
-      },
-      "Betfair": {
-        "GAIS": 55.0,
-        "Malmo FF": 1.18,
-        "Draw": 5.7
+      "Winamax (FR)": {
+        "Ajax": 6.5,
+        "Heerenveen": 16.0,
+        "Draw": 1.15
       },
       "888sport": {
-        "GAIS": 56.0,
-        "Malmo FF": 1.11,
-        "Draw": 6.5
+        "Ajax": 5.5,
+        "Heerenveen": 13.0,
+        "Draw": 1.2
       },
-      "Coolbet": {
-        "GAIS": 66.0,
-        "Malmo FF": 1.14,
-        "Draw": 6.5
+      "Betfair": {
+        "Ajax": 9.2,
+        "Heerenveen": 21.0,
+        "Draw": 1.17
+      },
+      "Nordic Bet": {
+        "Ajax": 5.35,
+        "Heerenveen": 12.5,
+        "Draw": 1.2
+      },
+      "Betsson": {
+        "Ajax": 5.35,
+        "Heerenveen": 12.5,
+        "Draw": 1.2
+      },
+      "Tipico": {
+        "Ajax": 6.0,
+        "Heerenveen": 15.0,
+        "Draw": 1.18
+      },
+      "Unibet (SE)": {
+        "Ajax": 6.0,
+        "Heerenveen": 14.0,
+        "Draw": 1.19
+      },
+      "LeoVegas (SE)": {
+        "Ajax": 5.6,
+        "Heerenveen": 13.0,
+        "Draw": 1.15
+      },
+      "PMU (FR)": {
+        "Ajax": 8.5,
+        "Heerenveen": 19.0,
+        "Draw": 1.01
+      },
+      "Unibet (NL)": {
+        "Ajax": 5.4,
+        "Heerenveen": 13.0,
+        "Draw": 1.22
       },
       "Matchbook": {
-        "GAIS": 60.0,
-        "Malmo FF": 1.13,
-        "Draw": 7.4
+        "Ajax": 8.0,
+        "Heerenveen": 21.0,
+        "Draw": 1.17
       }
     }
   },
@@ -10286,6 +10261,22 @@
       "confidence": 2640,
       "alert_type": "value",
       "alerted_at": "2026-08-16T16:15:04.983337+00:00"
+    },
+    {
+      "state_key": "61734fd058d8f6cc5914e2ab642dbe2d:h2h",
+      "event_id": "61734fd058d8f6cc5914e2ab642dbe2d",
+      "sport_key": "soccer",
+      "competition": "3. Liga - Germany",
+      "home_team": "Jahn Regensburg",
+      "away_team": "1. FC Saarbrücken",
+      "commence_time": "2026-08-16T14:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.45,
+      "stake_pct": 5.0,
+      "confidence": 180,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T16:33:12.925405+00:00"
     }
   ],
   "results_history": [],
@@ -10301,6 +10292,7 @@
     "61734fd058d8f6cc5914e2ab642dbe2d:h2h|LeoVegas (SE)|1. FC Saarbrücken",
     "61734fd058d8f6cc5914e2ab642dbe2d:h2h|LeoVegas (SE)|Jahn Regensburg",
     "61734fd058d8f6cc5914e2ab642dbe2d:h2h|Nordic Bet|1. FC Saarbrücken",
+    "61734fd058d8f6cc5914e2ab642dbe2d:h2h|Nordic Bet|Draw",
     "61734fd058d8f6cc5914e2ab642dbe2d:h2h|Nordic Bet|Jahn Regensburg",
     "61734fd058d8f6cc5914e2ab642dbe2d:h2h|Suprabets|1. FC Saarbrücken",
     "61734fd058d8f6cc5914e2ab642dbe2d:h2h|Suprabets|Jahn Regensburg",
