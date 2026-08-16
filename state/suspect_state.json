@@ -1,361 +1,199 @@
 {
   "snapshots": {
-    "e7058353789b7cf1130a7709f703f2b5:h2h": {
-      "Coolbet": {
-        "ADO Den Haag": 5.5,
-        "Groningen": 1.62,
-        "Draw": 4.33
+    "ff31ace77709136d71a38479914672a4:h2h": {
+      "Unibet (NL)": {
+        "IFK Värnamo": 34.0,
+        "Östersunds FK": 11.0,
+        "Draw": 1.01
       },
-      "Winamax (DE)": {
-        "ADO Den Haag": 4.8,
-        "Groningen": 1.58,
-        "Draw": 3.75
+      "Unibet (SE)": {
+        "IFK Värnamo": 46.0,
+        "Östersunds FK": 23.0,
+        "Draw": 1.01
+      },
+      "LeoVegas (SE)": {
+        "IFK Värnamo": 31.0,
+        "Östersunds FK": 9.5,
+        "Draw": 1.01
+      },
+      "Nordic Bet": {
+        "IFK Värnamo": 23.0,
+        "Östersunds FK": 19.0,
+        "Draw": 1.02
+      },
+      "Betsson": {
+        "IFK Värnamo": 26.0,
+        "Östersunds FK": 19.0,
+        "Draw": 1.02
       },
       "Betfair": {
-        "ADO Den Haag": 5.7,
-        "Groningen": 1.68,
-        "Draw": 4.2
+        "IFK Värnamo": 26.0,
+        "Östersunds FK": 26.0,
+        "Draw": 1.02
       },
       "888sport": {
-        "ADO Den Haag": 4.6,
-        "Groningen": 1.61,
-        "Draw": 3.75
+        "IFK Värnamo": 12.0,
+        "Östersunds FK": 9.0,
+        "Draw": 1.12
       },
       "Pinnacle": {
-        "ADO Den Haag": 5.51,
-        "Groningen": 1.58,
-        "Draw": 3.93
-      },
-      "Betsson": {
-        "ADO Den Haag": 4.6,
-        "Groningen": 1.62,
-        "Draw": 3.65
-      },
-      "Nordic Bet": {
-        "ADO Den Haag": 4.6,
-        "Groningen": 1.62,
-        "Draw": 3.65
+        "IFK Värnamo": 11.47,
+        "Östersunds FK": 8.02,
+        "Draw": 1.16
       },
       "Tipico": {
-        "ADO Den Haag": 5.2,
-        "Groningen": 1.5,
-        "Draw": 4.3
-      },
-      "LeoVegas (SE)": {
-        "ADO Den Haag": 4.6,
-        "Groningen": 1.56,
-        "Draw": 3.65
-      },
-      "Unibet (NL)": {
-        "ADO Den Haag": 4.9,
-        "Groningen": 1.64,
-        "Draw": 3.8
-      },
-      "PMU (FR)": {
-        "ADO Den Haag": 4.5,
-        "Groningen": 1.51,
-        "Draw": 3.5
-      },
-      "Unibet (SE)": {
-        "ADO Den Haag": 4.6,
-        "Groningen": 1.68,
-        "Draw": 3.7
-      },
-      "Matchbook": {
-        "ADO Den Haag": 5.6,
-        "Groningen": 1.67,
-        "Draw": 4.3
-      }
-    },
-    "71f3d835fcbd6f23b0f6ff88b240699b:h2h": {
-      "Unibet (NL)": {
-        "Bucheon FC 1995": 4.0,
-        "Jeonbuk Hyundai Motors": 1.77,
-        "Draw": 3.4
-      },
-      "Unibet (SE)": {
-        "Bucheon FC 1995": 4.0,
-        "Jeonbuk Hyundai Motors": 1.77,
-        "Draw": 3.4
-      },
-      "LeoVegas (SE)": {
-        "Bucheon FC 1995": 3.95,
-        "Jeonbuk Hyundai Motors": 1.65,
-        "Draw": 3.2
-      },
-      "PMU (FR)": {
-        "Bucheon FC 1995": 3.8,
-        "Jeonbuk Hyundai Motors": 1.62,
-        "Draw": 3.05
-      },
-      "Betsson": {
-        "Bucheon FC 1995": 4.2,
-        "Jeonbuk Hyundai Motors": 1.8,
-        "Draw": 3.3
-      },
-      "Nordic Bet": {
-        "Bucheon FC 1995": 4.2,
-        "Jeonbuk Hyundai Motors": 1.8,
-        "Draw": 3.3
-      },
-      "Betclic (FR)": {
-        "Bucheon FC 1995": 4.2,
-        "Jeonbuk Hyundai Motors": 1.75,
-        "Draw": 3.4
-      },
-      "Winamax (FR)": {
-        "Bucheon FC 1995": 3.9,
-        "Jeonbuk Hyundai Motors": 1.74,
-        "Draw": 3.3
-      },
-      "Winamax (DE)": {
-        "Bucheon FC 1995": 4.0,
-        "Jeonbuk Hyundai Motors": 1.78,
-        "Draw": 3.4
-      },
-      "Pinnacle": {
-        "Bucheon FC 1995": 4.65,
-        "Jeonbuk Hyundai Motors": 1.81,
-        "Draw": 3.72
-      },
-      "1xBet": {
-        "Bucheon FC 1995": 4.6,
-        "Jeonbuk Hyundai Motors": 1.76,
-        "Draw": 3.74
-      },
-      "Marathon Bet": {
-        "Bucheon FC 1995": 4.45,
-        "Jeonbuk Hyundai Motors": 1.76,
-        "Draw": 3.6
-      },
-      "Tipico": {
-        "Bucheon FC 1995": 4.7,
-        "Jeonbuk Hyundai Motors": 1.7,
-        "Draw": 3.4
-      },
-      "Unibet (FR)": {
-        "Bucheon FC 1995": 4.3,
-        "Jeonbuk Hyundai Motors": 1.67,
-        "Draw": 3.5
-      },
-      "William Hill": {
-        "Bucheon FC 1995": 4.2,
-        "Jeonbuk Hyundai Motors": 1.8,
-        "Draw": 3.4
-      },
-      "BetOnline.ag": {
-        "Bucheon FC 1995": 4.3,
-        "Jeonbuk Hyundai Motors": 1.83,
-        "Draw": 3.65
+        "IFK Värnamo": 30.0,
+        "Östersunds FK": 20.0,
+        "Draw": 1.01
       },
       "Coolbet": {
-        "Bucheon FC 1995": 4.33,
-        "Jeonbuk Hyundai Motors": 1.8,
-        "Draw": 3.4
-      },
-      "Betfair": {
-        "Bucheon FC 1995": 4.6,
-        "Jeonbuk Hyundai Motors": 1.86,
-        "Draw": 3.85
-      },
-      "Matchbook": {
-        "Bucheon FC 1995": 4.6,
-        "Jeonbuk Hyundai Motors": 1.88,
-        "Draw": 3.8
+        "IFK Värnamo": 22.0,
+        "Östersunds FK": 16.0,
+        "Draw": 1.04
       }
     },
-    "2238dcca465c6c0ffe8f74648b5c76db:h2h": {
-      "Unibet (NL)": {
-        "Gangwon FC": 2.9,
-        "Ulsan Hyundai FC": 2.28,
-        "Draw": 3.1
-      },
-      "LeoVegas (SE)": {
-        "Gangwon FC": 2.75,
-        "Ulsan Hyundai FC": 2.12,
-        "Draw": 2.95
-      },
-      "Unibet (SE)": {
-        "Gangwon FC": 2.9,
-        "Ulsan Hyundai FC": 2.28,
-        "Draw": 3.1
-      },
-      "PMU (FR)": {
-        "Gangwon FC": 2.65,
-        "Ulsan Hyundai FC": 2.07,
-        "Draw": 2.85
-      },
-      "Betsson": {
-        "Gangwon FC": 2.88,
-        "Ulsan Hyundai FC": 2.45,
-        "Draw": 2.92
-      },
-      "Nordic Bet": {
-        "Gangwon FC": 2.88,
-        "Ulsan Hyundai FC": 2.45,
-        "Draw": 2.92
-      },
-      "Betclic (FR)": {
-        "Gangwon FC": 2.85,
-        "Ulsan Hyundai FC": 2.45,
+    "94cc0a423e1e88d91ec810d3c65f8dd8:h2h": {
+      "Winamax (DE)": {
+        "Anderlecht": 6.25,
+        "SK Beveren": 1.62,
         "Draw": 3.0
       },
       "Winamax (FR)": {
-        "Gangwon FC": 2.7,
-        "Ulsan Hyundai FC": 2.35,
-        "Draw": 2.85
-      },
-      "Winamax (DE)": {
-        "Gangwon FC": 2.8,
-        "Ulsan Hyundai FC": 2.4,
-        "Draw": 2.95
-      },
-      "Pinnacle": {
-        "Gangwon FC": 3.07,
-        "Ulsan Hyundai FC": 2.6,
-        "Draw": 3.11
-      },
-      "1xBet": {
-        "Gangwon FC": 3.11,
-        "Ulsan Hyundai FC": 2.48,
-        "Draw": 3.06
-      },
-      "Marathon Bet": {
-        "Gangwon FC": 2.95,
-        "Ulsan Hyundai FC": 2.49,
-        "Draw": 3.02
-      },
-      "BetOnline.ag": {
-        "Gangwon FC": 2.96,
-        "Ulsan Hyundai FC": 2.6,
-        "Draw": 3.0
-      },
-      "Tipico": {
-        "Gangwon FC": 3.1,
-        "Ulsan Hyundai FC": 2.3,
-        "Draw": 3.0
-      },
-      "Unibet (FR)": {
-        "Gangwon FC": 2.85,
-        "Ulsan Hyundai FC": 2.3,
-        "Draw": 3.0
-      },
-      "William Hill": {
-        "Gangwon FC": 2.9,
-        "Ulsan Hyundai FC": 2.45,
+        "Anderlecht": 6.0,
+        "SK Beveren": 1.6,
         "Draw": 2.9
       },
       "Coolbet": {
-        "Gangwon FC": 3.0,
-        "Ulsan Hyundai FC": 2.5,
-        "Draw": 3.0
+        "Anderlecht": 7.0,
+        "SK Beveren": 1.73,
+        "Draw": 3.25
+      },
+      "Betclic (FR)": {
+        "Anderlecht": 5.75,
+        "SK Beveren": 1.68,
+        "Draw": 2.95
+      },
+      "Suprabets": {
+        "Anderlecht": 5.9,
+        "SK Beveren": 1.7,
+        "Draw": 3.05
+      },
+      "Betsson": {
+        "Anderlecht": 6.8,
+        "SK Beveren": 1.62,
+        "Draw": 3.05
+      },
+      "Nordic Bet": {
+        "Anderlecht": 6.8,
+        "SK Beveren": 1.62,
+        "Draw": 3.05
       },
       "Betfair": {
-        "Gangwon FC": 2.84,
-        "Ulsan Hyundai FC": 2.66,
+        "Anderlecht": 6.4,
+        "SK Beveren": 1.8,
         "Draw": 3.15
       },
-      "Matchbook": {
-        "Gangwon FC": 3.1,
-        "Ulsan Hyundai FC": 2.72,
-        "Draw": 3.1
-      }
-    },
-    "4135b007000cfcd365dfc48d6370bd73:h2h": {
-      "Unibet (NL)": {
-        "Incheon United": 2.1,
-        "Sangju Sangmu FC": 3.25,
-        "Draw": 3.1
-      },
-      "Unibet (SE)": {
-        "Incheon United": 2.1,
-        "Sangju Sangmu FC": 3.25,
-        "Draw": 3.1
-      },
-      "LeoVegas (SE)": {
-        "Incheon United": 1.96,
-        "Sangju Sangmu FC": 3.1,
-        "Draw": 2.9
-      },
-      "PMU (FR)": {
-        "Incheon United": 1.92,
-        "Sangju Sangmu FC": 3.0,
-        "Draw": 2.85
-      },
-      "Betsson": {
-        "Incheon United": 2.15,
-        "Sangju Sangmu FC": 3.3,
-        "Draw": 3.05
-      },
-      "Winamax (FR)": {
-        "Incheon United": 2.0,
-        "Sangju Sangmu FC": 3.3,
-        "Draw": 2.9
-      },
-      "Nordic Bet": {
-        "Incheon United": 2.1,
-        "Sangju Sangmu FC": 3.4,
-        "Draw": 3.05
-      },
-      "Betclic (FR)": {
-        "Incheon United": 2.1,
-        "Sangju Sangmu FC": 3.35,
+      "888sport": {
+        "Anderlecht": 5.75,
+        "SK Beveren": 1.67,
         "Draw": 3.0
-      },
-      "Winamax (DE)": {
-        "Incheon United": 2.1,
-        "Sangju Sangmu FC": 3.4,
-        "Draw": 3.0
-      },
-      "Pinnacle": {
-        "Incheon United": 2.34,
-        "Sangju Sangmu FC": 3.42,
-        "Draw": 3.2
-      },
-      "1xBet": {
-        "Incheon United": 2.18,
-        "Sangju Sangmu FC": 3.63,
-        "Draw": 3.14
-      },
-      "Marathon Bet": {
-        "Incheon United": 2.21,
-        "Sangju Sangmu FC": 3.4,
-        "Draw": 3.08
-      },
-      "BetOnline.ag": {
-        "Incheon United": 2.26,
-        "Sangju Sangmu FC": 3.45,
-        "Draw": 3.05
       },
       "Tipico": {
-        "Incheon United": 1.95,
-        "Sangju Sangmu FC": 3.8,
-        "Draw": 3.1
-      },
-      "Unibet (FR)": {
-        "Incheon United": 2.05,
-        "Sangju Sangmu FC": 3.3,
+        "Anderlecht": 6.0,
+        "SK Beveren": 1.7,
         "Draw": 3.0
       },
-      "William Hill": {
-        "Incheon United": 2.2,
-        "Sangju Sangmu FC": 3.4,
+      "Unibet (SE)": {
+        "Anderlecht": 6.75,
+        "SK Beveren": 1.68,
+        "Draw": 2.95
+      },
+      "PMU (FR)": {
+        "Anderlecht": 6.0,
+        "SK Beveren": 1.57,
+        "Draw": 2.7
+      },
+      "LeoVegas (SE)": {
+        "Anderlecht": 6.1,
+        "SK Beveren": 1.61,
+        "Draw": 2.75
+      },
+      "Unibet (NL)": {
+        "Anderlecht": 6.5,
+        "SK Beveren": 1.71,
         "Draw": 2.9
       },
-      "Coolbet": {
-        "Incheon United": 2.2,
-        "Sangju Sangmu FC": 3.6,
-        "Draw": 3.0
-      },
-      "Betfair": {
-        "Incheon United": 2.2,
-        "Sangju Sangmu FC": 3.85,
-        "Draw": 3.35
+      "Pinnacle": {
+        "Anderlecht": 5.1,
+        "SK Beveren": 1.88,
+        "Draw": 3.02
       },
       "Matchbook": {
-        "Incheon United": 2.2,
-        "Sangju Sangmu FC": 3.9,
+        "Anderlecht": 7.0,
+        "SK Beveren": 1.76,
         "Draw": 3.25
+      }
+    },
+    "6419e63c70188ac43a3009f7921f4add:h2h": {
+      "Betclic (FR)": {
+        "Arminia Bielefeld": 1.0,
+        "FC Energie Cottbus": 55.0,
+        "Draw": 17.25
+      },
+      "Betsson": {
+        "Arminia Bielefeld": 1.0,
+        "FC Energie Cottbus": 51.0,
+        "Draw": 17.0
+      },
+      "Tipico": {
+        "Arminia Bielefeld": 1.01,
+        "FC Energie Cottbus": 70.0,
+        "Draw": 12.0
+      },
+      "Nordic Bet": {
+        "Arminia Bielefeld": 1.0,
+        "FC Energie Cottbus": 51.0,
+        "Draw": 17.0
+      },
+      "Coolbet": {
+        "Arminia Bielefeld": 1.0,
+        "FC Energie Cottbus": 50.0,
+        "Draw": 18.0
+      },
+      "Winamax (FR)": {
+        "Arminia Bielefeld": 1.01,
+        "FC Energie Cottbus": 110.0,
+        "Draw": 30.0
+      },
+      "Winamax (DE)": {
+        "Arminia Bielefeld": 1.01,
+        "FC Energie Cottbus": 80.0,
+        "Draw": 29.0
+      },
+      "Betfair": {
+        "Arminia Bielefeld": 1.03,
+        "FC Energie Cottbus": 190.0,
+        "Draw": 36.0
+      },
+      "888sport": {
+        "Arminia Bielefeld": 1.01,
+        "FC Energie Cottbus": 101.0,
+        "Draw": 29.0
+      },
+      "Suprabets": {
+        "Arminia Bielefeld": 1.0,
+        "FC Energie Cottbus": 86.0,
+        "Draw": 12.0
+      },
+      "Unibet (SE)": {
+        "Arminia Bielefeld": 1.01,
+        "FC Energie Cottbus": 81.0,
+        "Draw": 18.0
+      },
+      "Matchbook": {
+        "Arminia Bielefeld": 1.02,
+        "FC Energie Cottbus": 240.0,
+        "Draw": 42.0
       }
     }
   },
@@ -7992,13 +7830,536 @@
       "confidence": 10,
       "alert_type": "value",
       "alerted_at": "2026-08-16T10:34:40.916640+00:00"
+    },
+    {
+      "state_key": "ff31ace77709136d71a38479914672a4:h2h",
+      "event_id": "ff31ace77709136d71a38479914672a4",
+      "sport_key": "soccer",
+      "competition": "Superettan - Sweden",
+      "home_team": "IFK Värnamo",
+      "away_team": "Östersunds FK",
+      "commence_time": "2026-08-16T11:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "IFK Värnamo",
+      "odds_at_alert": 34.0,
+      "stake_pct": 5.0,
+      "confidence": 176,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T12:57:11.322327+00:00"
+    },
+    {
+      "state_key": "ff31ace77709136d71a38479914672a4:h2h",
+      "event_id": "ff31ace77709136d71a38479914672a4",
+      "sport_key": "soccer",
+      "competition": "Superettan - Sweden",
+      "home_team": "IFK Värnamo",
+      "away_team": "Östersunds FK",
+      "commence_time": "2026-08-16T11:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Östersunds FK",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 28,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T12:57:11.789801+00:00"
+    },
+    {
+      "state_key": "ff31ace77709136d71a38479914672a4:h2h",
+      "event_id": "ff31ace77709136d71a38479914672a4",
+      "sport_key": "soccer",
+      "competition": "Superettan - Sweden",
+      "home_team": "IFK Värnamo",
+      "away_team": "Östersunds FK",
+      "commence_time": "2026-08-16T11:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "IFK Värnamo",
+      "odds_at_alert": 46.0,
+      "stake_pct": 5.0,
+      "confidence": 273,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T12:57:12.273642+00:00"
+    },
+    {
+      "state_key": "ff31ace77709136d71a38479914672a4:h2h",
+      "event_id": "ff31ace77709136d71a38479914672a4",
+      "sport_key": "soccer",
+      "competition": "Superettan - Sweden",
+      "home_team": "IFK Värnamo",
+      "away_team": "Östersunds FK",
+      "commence_time": "2026-08-16T11:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Östersunds FK",
+      "odds_at_alert": 23.0,
+      "stake_pct": 5.0,
+      "confidence": 167,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T12:57:12.728608+00:00"
+    },
+    {
+      "state_key": "ff31ace77709136d71a38479914672a4:h2h",
+      "event_id": "ff31ace77709136d71a38479914672a4",
+      "sport_key": "soccer",
+      "competition": "Superettan - Sweden",
+      "home_team": "IFK Värnamo",
+      "away_team": "Östersunds FK",
+      "commence_time": "2026-08-16T11:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "IFK Värnamo",
+      "odds_at_alert": 31.0,
+      "stake_pct": 5.0,
+      "confidence": 152,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T12:57:13.184119+00:00"
+    },
+    {
+      "state_key": "ff31ace77709136d71a38479914672a4:h2h",
+      "event_id": "ff31ace77709136d71a38479914672a4",
+      "sport_key": "soccer",
+      "competition": "Superettan - Sweden",
+      "home_team": "IFK Värnamo",
+      "away_team": "Östersunds FK",
+      "commence_time": "2026-08-16T11:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Östersunds FK",
+      "odds_at_alert": 9.5,
+      "stake_pct": 3.0,
+      "confidence": 10,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T12:57:13.674016+00:00"
+    },
+    {
+      "state_key": "ff31ace77709136d71a38479914672a4:h2h",
+      "event_id": "ff31ace77709136d71a38479914672a4",
+      "sport_key": "soccer",
+      "competition": "Superettan - Sweden",
+      "home_team": "IFK Värnamo",
+      "away_team": "Östersunds FK",
+      "commence_time": "2026-08-16T11:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "IFK Värnamo",
+      "odds_at_alert": 23.0,
+      "stake_pct": 5.0,
+      "confidence": 87,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T12:57:14.216070+00:00"
+    },
+    {
+      "state_key": "ff31ace77709136d71a38479914672a4:h2h",
+      "event_id": "ff31ace77709136d71a38479914672a4",
+      "sport_key": "soccer",
+      "competition": "Superettan - Sweden",
+      "home_team": "IFK Värnamo",
+      "away_team": "Östersunds FK",
+      "commence_time": "2026-08-16T11:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Östersunds FK",
+      "odds_at_alert": 19.0,
+      "stake_pct": 5.0,
+      "confidence": 121,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T12:57:14.684974+00:00"
+    },
+    {
+      "state_key": "ff31ace77709136d71a38479914672a4:h2h",
+      "event_id": "ff31ace77709136d71a38479914672a4",
+      "sport_key": "soccer",
+      "competition": "Superettan - Sweden",
+      "home_team": "IFK Värnamo",
+      "away_team": "Östersunds FK",
+      "commence_time": "2026-08-16T11:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "IFK Värnamo",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 111,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T12:57:15.189418+00:00"
+    },
+    {
+      "state_key": "ff31ace77709136d71a38479914672a4:h2h",
+      "event_id": "ff31ace77709136d71a38479914672a4",
+      "sport_key": "soccer",
+      "competition": "Superettan - Sweden",
+      "home_team": "IFK Värnamo",
+      "away_team": "Östersunds FK",
+      "commence_time": "2026-08-16T11:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Östersunds FK",
+      "odds_at_alert": 19.0,
+      "stake_pct": 5.0,
+      "confidence": 121,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T12:57:15.637187+00:00"
+    },
+    {
+      "state_key": "ff31ace77709136d71a38479914672a4:h2h",
+      "event_id": "ff31ace77709136d71a38479914672a4",
+      "sport_key": "soccer",
+      "competition": "Superettan - Sweden",
+      "home_team": "IFK Värnamo",
+      "away_team": "Östersunds FK",
+      "commence_time": "2026-08-16T11:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "IFK Värnamo",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 111,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T12:57:16.097170+00:00"
+    },
+    {
+      "state_key": "ff31ace77709136d71a38479914672a4:h2h",
+      "event_id": "ff31ace77709136d71a38479914672a4",
+      "sport_key": "soccer",
+      "competition": "Superettan - Sweden",
+      "home_team": "IFK Värnamo",
+      "away_team": "Östersunds FK",
+      "commence_time": "2026-08-16T11:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Östersunds FK",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 202,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T12:57:16.566049+00:00"
+    },
+    {
+      "state_key": "ff31ace77709136d71a38479914672a4:h2h",
+      "event_id": "ff31ace77709136d71a38479914672a4",
+      "sport_key": "soccer",
+      "competition": "Superettan - Sweden",
+      "home_team": "IFK Värnamo",
+      "away_team": "Östersunds FK",
+      "commence_time": "2026-08-16T11:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "IFK Värnamo",
+      "odds_at_alert": 30.0,
+      "stake_pct": 5.0,
+      "confidence": 144,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T12:57:17.076065+00:00"
+    },
+    {
+      "state_key": "ff31ace77709136d71a38479914672a4:h2h",
+      "event_id": "ff31ace77709136d71a38479914672a4",
+      "sport_key": "soccer",
+      "competition": "Superettan - Sweden",
+      "home_team": "IFK Värnamo",
+      "away_team": "Östersunds FK",
+      "commence_time": "2026-08-16T11:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Östersunds FK",
+      "odds_at_alert": 20.0,
+      "stake_pct": 5.0,
+      "confidence": 132,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T12:57:17.582759+00:00"
+    },
+    {
+      "state_key": "ff31ace77709136d71a38479914672a4:h2h",
+      "event_id": "ff31ace77709136d71a38479914672a4",
+      "sport_key": "soccer",
+      "competition": "Superettan - Sweden",
+      "home_team": "IFK Värnamo",
+      "away_team": "Östersunds FK",
+      "commence_time": "2026-08-16T11:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "IFK Värnamo",
+      "odds_at_alert": 22.0,
+      "stake_pct": 5.0,
+      "confidence": 79,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T12:57:18.044804+00:00"
+    },
+    {
+      "state_key": "ff31ace77709136d71a38479914672a4:h2h",
+      "event_id": "ff31ace77709136d71a38479914672a4",
+      "sport_key": "soccer",
+      "competition": "Superettan - Sweden",
+      "home_team": "IFK Värnamo",
+      "away_team": "Östersunds FK",
+      "commence_time": "2026-08-16T11:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Östersunds FK",
+      "odds_at_alert": 16.0,
+      "stake_pct": 5.0,
+      "confidence": 86,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T12:57:18.521478+00:00"
+    },
+    {
+      "state_key": "94cc0a423e1e88d91ec810d3c65f8dd8:h2h",
+      "event_id": "94cc0a423e1e88d91ec810d3c65f8dd8",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "SK Beveren",
+      "away_team": "Anderlecht",
+      "commence_time": "2026-08-16T11:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Anderlecht",
+      "odds_at_alert": 6.25,
+      "stake_pct": 5.0,
+      "confidence": 16,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T12:57:19.003152+00:00"
+    },
+    {
+      "state_key": "94cc0a423e1e88d91ec810d3c65f8dd8:h2h",
+      "event_id": "94cc0a423e1e88d91ec810d3c65f8dd8",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "SK Beveren",
+      "away_team": "Anderlecht",
+      "commence_time": "2026-08-16T11:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Anderlecht",
+      "odds_at_alert": 6.0,
+      "stake_pct": 3.0,
+      "confidence": 11,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T12:57:19.457019+00:00"
+    },
+    {
+      "state_key": "94cc0a423e1e88d91ec810d3c65f8dd8:h2h",
+      "event_id": "94cc0a423e1e88d91ec810d3c65f8dd8",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "SK Beveren",
+      "away_team": "Anderlecht",
+      "commence_time": "2026-08-16T11:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Anderlecht",
+      "odds_at_alert": 7.0,
+      "stake_pct": 5.0,
+      "confidence": 30,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T12:57:19.923790+00:00"
+    },
+    {
+      "state_key": "94cc0a423e1e88d91ec810d3c65f8dd8:h2h",
+      "event_id": "94cc0a423e1e88d91ec810d3c65f8dd8",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "SK Beveren",
+      "away_team": "Anderlecht",
+      "commence_time": "2026-08-16T11:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Anderlecht",
+      "odds_at_alert": 5.75,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T12:57:20.381881+00:00"
+    },
+    {
+      "state_key": "94cc0a423e1e88d91ec810d3c65f8dd8:h2h",
+      "event_id": "94cc0a423e1e88d91ec810d3c65f8dd8",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "SK Beveren",
+      "away_team": "Anderlecht",
+      "commence_time": "2026-08-16T11:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Anderlecht",
+      "odds_at_alert": 5.9,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T12:57:20.840223+00:00"
+    },
+    {
+      "state_key": "94cc0a423e1e88d91ec810d3c65f8dd8:h2h",
+      "event_id": "94cc0a423e1e88d91ec810d3c65f8dd8",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "SK Beveren",
+      "away_team": "Anderlecht",
+      "commence_time": "2026-08-16T11:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Anderlecht",
+      "odds_at_alert": 6.8,
+      "stake_pct": 5.0,
+      "confidence": 26,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T12:57:21.317499+00:00"
+    },
+    {
+      "state_key": "94cc0a423e1e88d91ec810d3c65f8dd8:h2h",
+      "event_id": "94cc0a423e1e88d91ec810d3c65f8dd8",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "SK Beveren",
+      "away_team": "Anderlecht",
+      "commence_time": "2026-08-16T11:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Anderlecht",
+      "odds_at_alert": 6.8,
+      "stake_pct": 5.0,
+      "confidence": 26,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T12:57:21.786116+00:00"
+    },
+    {
+      "state_key": "94cc0a423e1e88d91ec810d3c65f8dd8:h2h",
+      "event_id": "94cc0a423e1e88d91ec810d3c65f8dd8",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "SK Beveren",
+      "away_team": "Anderlecht",
+      "commence_time": "2026-08-16T11:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Anderlecht",
+      "odds_at_alert": 6.4,
+      "stake_pct": 5.0,
+      "confidence": 18,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T12:57:22.245977+00:00"
+    },
+    {
+      "state_key": "94cc0a423e1e88d91ec810d3c65f8dd8:h2h",
+      "event_id": "94cc0a423e1e88d91ec810d3c65f8dd8",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "SK Beveren",
+      "away_team": "Anderlecht",
+      "commence_time": "2026-08-16T11:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Anderlecht",
+      "odds_at_alert": 5.75,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T12:57:22.727966+00:00"
+    },
+    {
+      "state_key": "94cc0a423e1e88d91ec810d3c65f8dd8:h2h",
+      "event_id": "94cc0a423e1e88d91ec810d3c65f8dd8",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "SK Beveren",
+      "away_team": "Anderlecht",
+      "commence_time": "2026-08-16T11:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Anderlecht",
+      "odds_at_alert": 6.0,
+      "stake_pct": 3.0,
+      "confidence": 11,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T12:57:23.238719+00:00"
+    },
+    {
+      "state_key": "94cc0a423e1e88d91ec810d3c65f8dd8:h2h",
+      "event_id": "94cc0a423e1e88d91ec810d3c65f8dd8",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "SK Beveren",
+      "away_team": "Anderlecht",
+      "commence_time": "2026-08-16T11:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Anderlecht",
+      "odds_at_alert": 6.75,
+      "stake_pct": 5.0,
+      "confidence": 25,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T12:57:23.762739+00:00"
+    },
+    {
+      "state_key": "94cc0a423e1e88d91ec810d3c65f8dd8:h2h",
+      "event_id": "94cc0a423e1e88d91ec810d3c65f8dd8",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "SK Beveren",
+      "away_team": "Anderlecht",
+      "commence_time": "2026-08-16T11:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Anderlecht",
+      "odds_at_alert": 6.0,
+      "stake_pct": 3.0,
+      "confidence": 11,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T12:57:24.336663+00:00"
+    },
+    {
+      "state_key": "94cc0a423e1e88d91ec810d3c65f8dd8:h2h",
+      "event_id": "94cc0a423e1e88d91ec810d3c65f8dd8",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "SK Beveren",
+      "away_team": "Anderlecht",
+      "commence_time": "2026-08-16T11:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Anderlecht",
+      "odds_at_alert": 6.1,
+      "stake_pct": 3.0,
+      "confidence": 13,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T12:57:24.814758+00:00"
+    },
+    {
+      "state_key": "94cc0a423e1e88d91ec810d3c65f8dd8:h2h",
+      "event_id": "94cc0a423e1e88d91ec810d3c65f8dd8",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "SK Beveren",
+      "away_team": "Anderlecht",
+      "commence_time": "2026-08-16T11:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Anderlecht",
+      "odds_at_alert": 6.5,
+      "stake_pct": 5.0,
+      "confidence": 20,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T12:57:25.283169+00:00"
+    },
+    {
+      "state_key": "94cc0a423e1e88d91ec810d3c65f8dd8:h2h",
+      "event_id": "94cc0a423e1e88d91ec810d3c65f8dd8",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "SK Beveren",
+      "away_team": "Anderlecht",
+      "commence_time": "2026-08-16T11:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Anderlecht",
+      "odds_at_alert": 7.0,
+      "stake_pct": 5.0,
+      "confidence": 30,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T12:57:25.774655+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "4135b007000cfcd365dfc48d6370bd73:h2h|Betfair|Sangju Sangmu FC",
-    "4135b007000cfcd365dfc48d6370bd73:h2h|Matchbook|Sangju Sangmu FC",
-    "4135b007000cfcd365dfc48d6370bd73:h2h|Tipico|Sangju Sangmu FC",
-    "71f3d835fcbd6f23b0f6ff88b240699b:h2h|Matchbook|Bucheon FC 1995"
+    "94cc0a423e1e88d91ec810d3c65f8dd8:h2h|888sport|Anderlecht",
+    "94cc0a423e1e88d91ec810d3c65f8dd8:h2h|Betclic (FR)|Anderlecht",
+    "94cc0a423e1e88d91ec810d3c65f8dd8:h2h|Betfair|Anderlecht",
+    "94cc0a423e1e88d91ec810d3c65f8dd8:h2h|Betsson|Anderlecht",
+    "94cc0a423e1e88d91ec810d3c65f8dd8:h2h|Coolbet|Anderlecht",
+    "94cc0a423e1e88d91ec810d3c65f8dd8:h2h|LeoVegas (SE)|Anderlecht",
+    "94cc0a423e1e88d91ec810d3c65f8dd8:h2h|Matchbook|Anderlecht",
+    "94cc0a423e1e88d91ec810d3c65f8dd8:h2h|Nordic Bet|Anderlecht",
+    "94cc0a423e1e88d91ec810d3c65f8dd8:h2h|PMU (FR)|Anderlecht",
+    "94cc0a423e1e88d91ec810d3c65f8dd8:h2h|Suprabets|Anderlecht",
+    "94cc0a423e1e88d91ec810d3c65f8dd8:h2h|Tipico|Anderlecht",
+    "94cc0a423e1e88d91ec810d3c65f8dd8:h2h|Unibet (NL)|Anderlecht",
+    "94cc0a423e1e88d91ec810d3c65f8dd8:h2h|Unibet (SE)|Anderlecht",
+    "94cc0a423e1e88d91ec810d3c65f8dd8:h2h|Winamax (DE)|Anderlecht",
+    "94cc0a423e1e88d91ec810d3c65f8dd8:h2h|Winamax (FR)|Anderlecht",
+    "ff31ace77709136d71a38479914672a4:h2h|Betfair|IFK Värnamo",
+    "ff31ace77709136d71a38479914672a4:h2h|Betfair|Östersunds FK",
+    "ff31ace77709136d71a38479914672a4:h2h|Betsson|IFK Värnamo",
+    "ff31ace77709136d71a38479914672a4:h2h|Betsson|Östersunds FK",
+    "ff31ace77709136d71a38479914672a4:h2h|Coolbet|IFK Värnamo",
+    "ff31ace77709136d71a38479914672a4:h2h|Coolbet|Östersunds FK",
+    "ff31ace77709136d71a38479914672a4:h2h|LeoVegas (SE)|IFK Värnamo",
+    "ff31ace77709136d71a38479914672a4:h2h|LeoVegas (SE)|Östersunds FK",
+    "ff31ace77709136d71a38479914672a4:h2h|Nordic Bet|IFK Värnamo",
+    "ff31ace77709136d71a38479914672a4:h2h|Nordic Bet|Östersunds FK",
+    "ff31ace77709136d71a38479914672a4:h2h|Tipico|IFK Värnamo",
+    "ff31ace77709136d71a38479914672a4:h2h|Tipico|Östersunds FK",
+    "ff31ace77709136d71a38479914672a4:h2h|Unibet (NL)|IFK Värnamo",
+    "ff31ace77709136d71a38479914672a4:h2h|Unibet (NL)|Östersunds FK",
+    "ff31ace77709136d71a38479914672a4:h2h|Unibet (SE)|IFK Värnamo",
+    "ff31ace77709136d71a38479914672a4:h2h|Unibet (SE)|Östersunds FK"
   ]
 }
