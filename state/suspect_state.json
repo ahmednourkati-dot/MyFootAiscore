@@ -1,156 +1,112 @@
 {
   "snapshots": {
-    "42a5599614c78c079a89e620b3e06739:h2h": {
-      "Nordic Bet": {
-        "Cracovia Kraków": 1.04,
-        "Raków Częstochowa": 80.0,
-        "Draw": 13.0
-      },
-      "Betclic (FR)": {
-        "Cracovia Kraków": 1.0,
-        "Raków Częstochowa": 100.0,
-        "Draw": 19.0
-      },
-      "Winamax (DE)": {
-        "Cracovia Kraków": 1.02,
-        "Raków Częstochowa": 200.0,
-        "Draw": 15.0
-      },
+    "475b8466285fa88e61b3140efd9e3e70:h2h": {
       "Winamax (FR)": {
-        "Cracovia Kraków": 1.04,
-        "Raków Częstochowa": 200.0,
-        "Draw": 14.5
-      },
-      "Coolbet": {
-        "Cracovia Kraków": 1.06,
-        "Raków Częstochowa": 80.0,
-        "Draw": 8.5
-      },
-      "Betsson": {
-        "Cracovia Kraków": 1.05,
-        "Raków Częstochowa": 80.0,
-        "Draw": 12.0
-      },
-      "Tipico": {
-        "Cracovia Kraków": 1.01,
-        "Raków Częstochowa": 400.0,
-        "Draw": 15.0
-      },
-      "888sport": {
-        "Cracovia Kraków": 1.04,
-        "Raków Częstochowa": 126.0,
-        "Draw": 12.0
-      },
-      "Betfair": {
-        "Cracovia Kraków": 1.05,
-        "Raków Częstochowa": 120.0,
-        "Draw": 14.0
-      },
-      "LeoVegas (SE)": {
-        "Cracovia Kraków": 1.02,
-        "Raków Częstochowa": 81.0,
-        "Draw": 8.5
-      }
-    },
-    "daae0078ca1b2407dc487b77fa421070:h2h": {
-      "Winamax (FR)": {
-        "Basaksehir": 1.01,
-        "Kocaelispor": 160.0,
-        "Draw": 36.0
-      },
-      "Tipico": {
-        "Basaksehir": 1.01,
-        "Kocaelispor": 120.0,
-        "Draw": 11.0
-      },
-      "Betclic (FR)": {
-        "Basaksehir": 1.0,
-        "Kocaelispor": 70.0,
-        "Draw": 23.0
-      },
-      "Nordic Bet": {
-        "Basaksehir": 1.01,
-        "Kocaelispor": 280.0,
-        "Draw": 41.0
-      },
-      "Winamax (DE)": {
-        "Basaksehir": 1.01,
-        "Kocaelispor": 140.0,
-        "Draw": 32.0
-      },
-      "Betsson": {
-        "Basaksehir": 1.01,
-        "Kocaelispor": 280.0,
-        "Draw": 41.0
-      },
-      "Coolbet": {
-        "Basaksehir": 1.01,
-        "Kocaelispor": 100.0,
+        "KV Mechelen": 120.0,
+        "Standard Liege": 1.02,
         "Draw": 28.0
       },
-      "Betfair": {
-        "Basaksehir": 1.06,
-        "Kocaelispor": 4.0,
-        "Draw": 6.4
+      "Winamax (DE)": {
+        "KV Mechelen": 120.0,
+        "Standard Liege": 1.01,
+        "Draw": 28.0
       },
-      "888sport": {
-        "Basaksehir": 1.01,
-        "Kocaelispor": 126.0,
-        "Draw": 29.0
+      "Suprabets": {
+        "KV Mechelen": 90.0,
+        "Standard Liege": 1.01,
+        "Draw": 11.0
       },
-      "Pinnacle": {
-        "Basaksehir": 1.21,
-        "Kocaelispor": 23.6,
-        "Draw": 5.36
-      }
-    },
-    "0bf08c81c6fbb1d5ec53e483e9d2a208:h2h": {
+      "Coolbet": {
+        "KV Mechelen": 100.0,
+        "Standard Liege": 1.01,
+        "Draw": 28.0
+      },
       "Betclic (FR)": {
-        "FC Copenhagen": 1.0,
-        "Randers FC": 100.0,
-        "Draw": 40.0
+        "KV Mechelen": 75.0,
+        "Standard Liege": 1.0,
+        "Draw": 22.0
       },
       "Nordic Bet": {
-        "FC Copenhagen": 1.0,
-        "Randers FC": 36.0,
-        "Draw": 21.0
+        "KV Mechelen": 51.0,
+        "Standard Liege": 1.0,
+        "Draw": 19.0
       },
       "Betsson": {
-        "FC Copenhagen": 1.0,
-        "Randers FC": 36.0,
-        "Draw": 21.0
-      },
-      "888sport": {
-        "FC Copenhagen": 1.0,
-        "Randers FC": 151.0,
-        "Draw": 67.0
+        "KV Mechelen": 51.0,
+        "Standard Liege": 1.0,
+        "Draw": 19.0
       },
       "Betfair": {
-        "FC Copenhagen": 1.01,
-        "Randers FC": 110.0,
-        "Draw": 90.0
-      }
-    },
-    "093c02e859209adee09b62a30ac14d4d:h2h": {
-      "Betfair": {
-        "Frosinone": 1.02,
-        "Juve Stabia": 100.0,
-        "Draw": 38.0
+        "KV Mechelen": 90.0,
+        "Standard Liege": 1.03,
+        "Draw": 30.0
       },
       "888sport": {
-        "Frosinone": 1.01,
-        "Juve Stabia": 101.0,
+        "KV Mechelen": 126.0,
+        "Standard Liege": 1.01,
         "Draw": 29.0
       },
       "Unibet (SE)": {
-        "Frosinone": 1.01,
-        "Juve Stabia": 101.0,
-        "Draw": 20.0
+        "KV Mechelen": 141.0,
+        "Standard Liege": 1.01,
+        "Draw": 25.0
+      }
+    },
+    "1d014a93ab41ebaf8e49229a76a702c5:h2h": {
+      "Winamax (FR)": {
+        "Union La Calera": 50.0,
+        "Ñublense": 1.13,
+        "Draw": 5.9
       },
       "Winamax (DE)": {
-        "Frosinone": 1.01,
-        "Juve Stabia": 120.0,
-        "Draw": 28.0
+        "Union La Calera": 50.0,
+        "Ñublense": 1.1,
+        "Draw": 6.25
+      },
+      "Nordic Bet": {
+        "Union La Calera": 4.1,
+        "Ñublense": 1.88,
+        "Draw": 3.3
+      },
+      "Betsson": {
+        "Union La Calera": 39.0,
+        "Ñublense": 1.09,
+        "Draw": 6.3
+      },
+      "888sport": {
+        "Union La Calera": 101.0,
+        "Ñublense": 1.01,
+        "Draw": 23.0
+      },
+      "Coolbet": {
+        "Union La Calera": 66.0,
+        "Ñublense": 1.14,
+        "Draw": 6.5
+      },
+      "Tipico": {
+        "Union La Calera": 60.0,
+        "Ñublense": 1.12,
+        "Draw": 5.0
+      },
+      "Betfair": {
+        "Union La Calera": 60.0,
+        "Ñublense": 1.16,
+        "Draw": 7.2
+      },
+      "Unibet (SE)": {
+        "Union La Calera": 56.0,
+        "Ñublense": 1.08,
+        "Draw": 7.5
+      },
+      "LeoVegas (SE)": {
+        "Union La Calera": 46.0,
+        "Ñublense": 1.03,
+        "Draw": 7.5
+      },
+      "Matchbook": {
+        "Union La Calera": 70.0,
+        "Ñublense": 1.15,
+        "Draw": 7.2
       }
     }
   },
@@ -10542,23 +10498,5 @@
     }
   ],
   "results_history": [],
-  "value_alerted": [
-    "daae0078ca1b2407dc487b77fa421070:h2h|888sport|Draw",
-    "daae0078ca1b2407dc487b77fa421070:h2h|888sport|Kocaelispor",
-    "daae0078ca1b2407dc487b77fa421070:h2h|Betclic (FR)|Draw",
-    "daae0078ca1b2407dc487b77fa421070:h2h|Betclic (FR)|Kocaelispor",
-    "daae0078ca1b2407dc487b77fa421070:h2h|Betfair|Draw",
-    "daae0078ca1b2407dc487b77fa421070:h2h|Betsson|Draw",
-    "daae0078ca1b2407dc487b77fa421070:h2h|Betsson|Kocaelispor",
-    "daae0078ca1b2407dc487b77fa421070:h2h|Coolbet|Draw",
-    "daae0078ca1b2407dc487b77fa421070:h2h|Coolbet|Kocaelispor",
-    "daae0078ca1b2407dc487b77fa421070:h2h|Nordic Bet|Draw",
-    "daae0078ca1b2407dc487b77fa421070:h2h|Nordic Bet|Kocaelispor",
-    "daae0078ca1b2407dc487b77fa421070:h2h|Tipico|Draw",
-    "daae0078ca1b2407dc487b77fa421070:h2h|Tipico|Kocaelispor",
-    "daae0078ca1b2407dc487b77fa421070:h2h|Winamax (DE)|Draw",
-    "daae0078ca1b2407dc487b77fa421070:h2h|Winamax (DE)|Kocaelispor",
-    "daae0078ca1b2407dc487b77fa421070:h2h|Winamax (FR)|Draw",
-    "daae0078ca1b2407dc487b77fa421070:h2h|Winamax (FR)|Kocaelispor"
-  ]
+  "value_alerted": []
 }
