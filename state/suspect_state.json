@@ -1,261 +1,311 @@
 {
   "snapshots": {
-    "0f2dee69aa6fd0576b8a1cc49c985d88:h2h": {
-      "Betclic (FR)": {
-        "FC Juárez": 100.0,
-        "Monterrey": 1.0,
-        "Draw": 40.0
-      },
-      "Nordic Bet": {
-        "FC Juárez": 26.0,
-        "Monterrey": 1.0,
-        "Draw": 26.0
-      },
-      "Betsson": {
-        "FC Juárez": 26.0,
-        "Monterrey": 1.0,
-        "Draw": 26.0
-      }
-    },
-    "6b340f239dd579a9bd28b470673e1e11:h2h": {
+    "6847e874e75652b36108e9958e8247d2:h2h": {
       "Winamax (DE)": {
-        "Colorado Rapids": 1.03,
-        "Sporting Kansas City": 65.0,
-        "Draw": 12.0
+        "Los Angeles FC": 130.0,
+        "San Diego FC": 1.03,
+        "Draw": 11.0
       },
       "Winamax (FR)": {
-        "Colorado Rapids": 1.06,
-        "Sporting Kansas City": 65.0,
-        "Draw": 11.0
+        "Los Angeles FC": 95.0,
+        "San Diego FC": 1.08,
+        "Draw": 8.5
       },
       "Coolbet": {
-        "Colorado Rapids": 1.03,
-        "Sporting Kansas City": 66.0,
-        "Draw": 12.0
-      },
-      "Betclic (FR)": {
-        "Colorado Rapids": 1.01,
-        "Sporting Kansas City": 80.0,
-        "Draw": 7.5
-      },
-      "888sport": {
-        "Colorado Rapids": 1.05,
-        "Sporting Kansas City": 71.0,
-        "Draw": 11.0
+        "Los Angeles FC": 100.0,
+        "San Diego FC": 1.06,
+        "Draw": 8.5
       },
       "Nordic Bet": {
-        "Colorado Rapids": 1.03,
-        "Sporting Kansas City": 60.0,
-        "Draw": 12.0
+        "Los Angeles FC": 1.0,
+        "San Diego FC": 1.0,
+        "Draw": 1.0
       },
       "Betsson": {
-        "Colorado Rapids": 1.03,
-        "Sporting Kansas City": 60.0,
-        "Draw": 11.0
+        "Los Angeles FC": 65.0,
+        "San Diego FC": 1.06,
+        "Draw": 7.2
       },
       "Tipico": {
-        "Colorado Rapids": 1.02,
-        "Sporting Kansas City": 35.0,
-        "Draw": 11.0
-      },
-      "Unibet (NL)": {
-        "Colorado Rapids": 1.02,
-        "Sporting Kansas City": 56.0,
-        "Draw": 12.0
-      },
-      "LeoVegas (SE)": {
-        "Colorado Rapids": 1.01,
-        "Sporting Kansas City": 51.0,
-        "Draw": 12.0
-      },
-      "Unibet (SE)": {
-        "Colorado Rapids": 1.04,
-        "Sporting Kansas City": 71.0,
-        "Draw": 13.0
-      },
-      "MyBookie.ag": {
-        "Colorado Rapids": 1.04,
-        "Sporting Kansas City": 88.0,
+        "Los Angeles FC": 100.0,
+        "San Diego FC": 1.04,
         "Draw": 9.0
       },
+      "MyBookie.ag": {
+        "Los Angeles FC": 12.5,
+        "San Diego FC": 1.1,
+        "Draw": 6.0
+      },
       "Pinnacle": {
-        "Colorado Rapids": 1.33,
-        "Sporting Kansas City": 17.91,
-        "Draw": 3.96
+        "Los Angeles FC": 4.04,
+        "San Diego FC": 8.19,
+        "Draw": 1.45
       },
       "Betfair": {
-        "Colorado Rapids": 1.07,
-        "Sporting Kansas City": 95.0,
-        "Draw": 14.5
-      },
-      "Matchbook": {
-        "Colorado Rapids": 1.08,
-        "Sporting Kansas City": 120.0,
-        "Draw": 12.5
+        "Los Angeles FC": 1000.0,
+        "San Diego FC": 1.05,
+        "Draw": 17.5
       }
     },
-    "ffbec045e6bd26649f263200a7d3bbe0:h2h": {
-      "Coolbet": {
-        "Minnesota United FC": 4.0,
-        "Real Salt Lake": 3.5,
-        "Draw": 1.85
-      },
+    "a7be0ab225101d04e57623db1c008722:h2h": {
       "888sport": {
-        "Minnesota United FC": 4.2,
-        "Real Salt Lake": 3.3,
-        "Draw": 1.75
-      },
-      "Winamax (DE)": {
-        "Minnesota United FC": 4.0,
-        "Real Salt Lake": 3.3,
+        "Atlas": 4.6,
+        "Tigres": 2.7,
         "Draw": 1.8
       },
-      "Winamax (FR)": {
-        "Minnesota United FC": 3.85,
-        "Real Salt Lake": 3.25,
-        "Draw": 1.76
+      "Coolbet": {
+        "Atlas": 5.5,
+        "Tigres": 3.0,
+        "Draw": 1.91
       },
       "Betclic (FR)": {
-        "Minnesota United FC": 4.0,
-        "Real Salt Lake": 2.87,
-        "Draw": 1.9
+        "Atlas": 4.7,
+        "Tigres": 2.87,
+        "Draw": 1.81
       },
       "Nordic Bet": {
-        "Minnesota United FC": 4.1,
-        "Real Salt Lake": 3.15,
-        "Draw": 1.85
+        "Atlas": 4.85,
+        "Tigres": 2.92,
+        "Draw": 1.82
       },
       "Betsson": {
-        "Minnesota United FC": 3.9,
-        "Real Salt Lake": 3.3,
-        "Draw": 1.85
+        "Atlas": 4.85,
+        "Tigres": 2.88,
+        "Draw": 1.82
       },
       "Tipico": {
-        "Minnesota United FC": 4.5,
-        "Real Salt Lake": 3.0,
-        "Draw": 1.85
-      },
-      "LeoVegas (SE)": {
-        "Minnesota United FC": 4.1,
-        "Real Salt Lake": 3.1,
-        "Draw": 1.83
-      },
-      "Unibet (NL)": {
-        "Minnesota United FC": 4.2,
-        "Real Salt Lake": 3.2,
-        "Draw": 1.88
-      },
-      "PMU (FR)": {
-        "Minnesota United FC": 3.8,
-        "Real Salt Lake": 3.0,
-        "Draw": 1.76
-      },
-      "Unibet (SE)": {
-        "Minnesota United FC": 4.1,
-        "Real Salt Lake": 3.25,
-        "Draw": 1.88
-      },
-      "MyBookie.ag": {
-        "Minnesota United FC": 3.9,
-        "Real Salt Lake": 3.15,
+        "Atlas": 8.5,
+        "Tigres": 2.2,
         "Draw": 1.9
       },
+      "Unibet (SE)": {
+        "Atlas": 4.75,
+        "Tigres": 3.15,
+        "Draw": 1.81
+      },
+      "PMU (FR)": {
+        "Atlas": 4.25,
+        "Tigres": 2.8,
+        "Draw": 1.62
+      },
+      "Unibet (NL)": {
+        "Atlas": 4.75,
+        "Tigres": 3.15,
+        "Draw": 1.81
+      },
+      "LeoVegas (SE)": {
+        "Atlas": 7.5,
+        "Tigres": 2.32,
+        "Draw": 1.72
+      },
       "Pinnacle": {
-        "Minnesota United FC": 4.37,
-        "Real Salt Lake": 3.23,
-        "Draw": 1.93
+        "Atlas": 4.88,
+        "Tigres": 2.79,
+        "Draw": 2.02
       },
       "Betfair": {
-        "Minnesota United FC": 4.2,
-        "Real Salt Lake": 3.55,
-        "Draw": 2.04
-      },
-      "Matchbook": {
-        "Minnesota United FC": 4.6,
-        "Real Salt Lake": 3.4,
-        "Draw": 1.87
+        "Atlas": 5.4,
+        "Tigres": 3.05,
+        "Draw": 2.02
       }
     },
-    "6847e874e75652b36108e9958e8247d2:h2h": {
-      "Betclic (FR)": {
-        "Los Angeles FC": 1.64,
-        "San Diego FC": 4.35,
-        "Draw": 3.53
+    "e7058353789b7cf1130a7709f703f2b5:h2h": {
+      "Codere (IT)": {
+        "ADO Den Haag": 2.75,
+        "Groningen": 2.37,
+        "Draw": 3.7
+      },
+      "1xBet": {
+        "ADO Den Haag": 2.93,
+        "Groningen": 2.36,
+        "Draw": 3.62
+      },
+      "Coolbet": {
+        "ADO Den Haag": 2.75,
+        "Groningen": 2.4,
+        "Draw": 3.75
+      },
+      "Unibet (FR)": {
+        "ADO Den Haag": 2.75,
+        "Groningen": 2.25,
+        "Draw": 3.5
+      },
+      "Winamax (DE)": {
+        "ADO Den Haag": 2.65,
+        "Groningen": 2.25,
+        "Draw": 3.55
+      },
+      "Betfair": {
+        "ADO Den Haag": 2.98,
+        "Groningen": 2.46,
+        "Draw": 3.75
+      },
+      "Marathon Bet": {
+        "ADO Den Haag": 2.86,
+        "Groningen": 2.29,
+        "Draw": 3.5
       },
       "888sport": {
-        "Los Angeles FC": 1.73,
-        "San Diego FC": 4.4,
+        "ADO Den Haag": 2.75,
+        "Groningen": 2.3,
+        "Draw": 3.4
+      },
+      "William Hill": {
+        "ADO Den Haag": 2.75,
+        "Groningen": 2.3,
+        "Draw": 3.4
+      },
+      "Pinnacle": {
+        "ADO Den Haag": 2.84,
+        "Groningen": 2.46,
+        "Draw": 3.64
+      },
+      "BetOnline.ag": {
+        "ADO Den Haag": 2.76,
+        "Groningen": 2.42,
+        "Draw": 3.65
+      },
+      "Betsson": {
+        "ADO Den Haag": 2.85,
+        "Groningen": 2.38,
+        "Draw": 3.5
+      },
+      "Nordic Bet": {
+        "ADO Den Haag": 2.85,
+        "Groningen": 2.38,
+        "Draw": 3.5
+      },
+      "Tipico": {
+        "ADO Den Haag": 2.95,
+        "Groningen": 2.25,
+        "Draw": 3.5
+      },
+      "LeoVegas (SE)": {
+        "ADO Den Haag": 2.65,
+        "Groningen": 2.25,
+        "Draw": 3.4
+      },
+      "Unibet (NL)": {
+        "ADO Den Haag": 2.88,
+        "Groningen": 2.43,
+        "Draw": 3.7
+      },
+      "PMU (FR)": {
+        "ADO Den Haag": 2.7,
+        "Groningen": 2.28,
+        "Draw": 3.4
+      },
+      "Unibet (SE)": {
+        "ADO Den Haag": 2.75,
+        "Groningen": 2.35,
+        "Draw": 3.55
+      },
+      "BetAnything": {
+        "ADO Den Haag": 2.76,
+        "Groningen": 2.42,
+        "Draw": 3.65
+      },
+      "Matchbook": {
+        "ADO Den Haag": 3.0,
+        "Groningen": 2.44,
+        "Draw": 3.7
+      }
+    },
+    "71f3d835fcbd6f23b0f6ff88b240699b:h2h": {
+      "Unibet (NL)": {
+        "Bucheon FC 1995": 3.95,
+        "Jeonbuk Hyundai Motors": 1.78,
+        "Draw": 3.25
+      },
+      "Unibet (SE)": {
+        "Bucheon FC 1995": 3.95,
+        "Jeonbuk Hyundai Motors": 1.78,
+        "Draw": 3.25
+      },
+      "LeoVegas (SE)": {
+        "Bucheon FC 1995": 3.95,
+        "Jeonbuk Hyundai Motors": 1.77,
+        "Draw": 3.25
+      },
+      "PMU (FR)": {
+        "Bucheon FC 1995": 3.8,
+        "Jeonbuk Hyundai Motors": 1.71,
+        "Draw": 3.15
+      },
+      "Betsson": {
+        "Bucheon FC 1995": 3.95,
+        "Jeonbuk Hyundai Motors": 1.82,
+        "Draw": 3.3
+      },
+      "Nordic Bet": {
+        "Bucheon FC 1995": 3.95,
+        "Jeonbuk Hyundai Motors": 1.82,
+        "Draw": 3.3
+      },
+      "Betclic (FR)": {
+        "Bucheon FC 1995": 4.0,
+        "Jeonbuk Hyundai Motors": 1.8,
+        "Draw": 3.38
+      },
+      "Winamax (FR)": {
+        "Bucheon FC 1995": 3.8,
+        "Jeonbuk Hyundai Motors": 1.8,
         "Draw": 3.4
       },
       "Winamax (DE)": {
-        "Los Angeles FC": 1.7,
-        "San Diego FC": 4.5,
-        "Draw": 3.4
-      },
-      "Winamax (FR)": {
-        "Los Angeles FC": 1.66,
-        "San Diego FC": 4.2,
-        "Draw": 3.3
-      },
-      "Coolbet": {
-        "Los Angeles FC": 1.73,
-        "San Diego FC": 4.5,
-        "Draw": 3.6
-      },
-      "Nordic Bet": {
-        "Los Angeles FC": 1.68,
-        "San Diego FC": 4.6,
-        "Draw": 3.4
-      },
-      "Betsson": {
-        "Los Angeles FC": 1.68,
-        "San Diego FC": 4.6,
-        "Draw": 3.4
-      },
-      "Tipico": {
-        "Los Angeles FC": 1.65,
-        "San Diego FC": 4.7,
-        "Draw": 3.6
-      },
-      "LeoVegas (SE)": {
-        "Los Angeles FC": 1.77,
-        "San Diego FC": 4.1,
-        "Draw": 3.3
-      },
-      "Unibet (NL)": {
-        "Los Angeles FC": 1.83,
-        "San Diego FC": 4.2,
-        "Draw": 3.4
-      },
-      "Unibet (SE)": {
-        "Los Angeles FC": 1.83,
-        "San Diego FC": 4.1,
-        "Draw": 3.4
-      },
-      "PMU (FR)": {
-        "Los Angeles FC": 1.71,
-        "San Diego FC": 3.8,
-        "Draw": 3.15
-      },
-      "MyBookie.ag": {
-        "Los Angeles FC": 1.7,
-        "San Diego FC": 4.5,
-        "Draw": 3.55
+        "Bucheon FC 1995": 3.85,
+        "Jeonbuk Hyundai Motors": 1.82,
+        "Draw": 3.45
       },
       "Pinnacle": {
-        "Los Angeles FC": 1.64,
-        "San Diego FC": 5.08,
-        "Draw": 3.97
+        "Bucheon FC 1995": 4.25,
+        "Jeonbuk Hyundai Motors": 1.92,
+        "Draw": 3.59
+      },
+      "1xBet": {
+        "Bucheon FC 1995": 4.37,
+        "Jeonbuk Hyundai Motors": 1.81,
+        "Draw": 3.5
+      },
+      "Marathon Bet": {
+        "Bucheon FC 1995": 4.3,
+        "Jeonbuk Hyundai Motors": 1.81,
+        "Draw": 3.5
+      },
+      "Tipico": {
+        "Bucheon FC 1995": 4.4,
+        "Jeonbuk Hyundai Motors": 1.77,
+        "Draw": 3.4
+      },
+      "Unibet (FR)": {
+        "Bucheon FC 1995": 4.0,
+        "Jeonbuk Hyundai Motors": 1.77,
+        "Draw": 3.4
+      },
+      "William Hill": {
+        "Bucheon FC 1995": 4.2,
+        "Jeonbuk Hyundai Motors": 1.8,
+        "Draw": 3.3
+      },
+      "BetOnline.ag": {
+        "Bucheon FC 1995": 4.2,
+        "Jeonbuk Hyundai Motors": 1.84,
+        "Draw": 3.6
+      },
+      "Coolbet": {
+        "Bucheon FC 1995": 4.2,
+        "Jeonbuk Hyundai Motors": 1.88,
+        "Draw": 3.5
       },
       "Betfair": {
-        "Los Angeles FC": 1.84,
-        "San Diego FC": 4.6,
-        "Draw": 3.95
+        "Bucheon FC 1995": 4.6,
+        "Jeonbuk Hyundai Motors": 1.91,
+        "Draw": 3.65
       },
       "Matchbook": {
-        "Los Angeles FC": 1.82,
-        "San Diego FC": 4.8,
-        "Draw": 3.75
+        "Bucheon FC 1995": 4.8,
+        "Jeonbuk Hyundai Motors": 1.87,
+        "Draw": 3.7
       }
     }
   },
@@ -7540,40 +7590,335 @@
       "confidence": 6,
       "alert_type": "value",
       "alerted_at": "2026-08-16T03:09:38.022940+00:00"
+    },
+    {
+      "state_key": "6847e874e75652b36108e9958e8247d2:h2h",
+      "event_id": "6847e874e75652b36108e9958e8247d2",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Los Angeles FC",
+      "away_team": "San Diego FC",
+      "commence_time": "2026-08-16T02:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Los Angeles FC",
+      "odds_at_alert": 130.0,
+      "stake_pct": 5.0,
+      "confidence": 2938,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T04:46:22.933358+00:00"
+    },
+    {
+      "state_key": "6847e874e75652b36108e9958e8247d2:h2h",
+      "event_id": "6847e874e75652b36108e9958e8247d2",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Los Angeles FC",
+      "away_team": "San Diego FC",
+      "commence_time": "2026-08-16T02:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 616,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T04:46:23.467615+00:00"
+    },
+    {
+      "state_key": "6847e874e75652b36108e9958e8247d2:h2h",
+      "event_id": "6847e874e75652b36108e9958e8247d2",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Los Angeles FC",
+      "away_team": "San Diego FC",
+      "commence_time": "2026-08-16T02:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Los Angeles FC",
+      "odds_at_alert": 95.0,
+      "stake_pct": 5.0,
+      "confidence": 2120,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T04:46:23.952923+00:00"
+    },
+    {
+      "state_key": "6847e874e75652b36108e9958e8247d2:h2h",
+      "event_id": "6847e874e75652b36108e9958e8247d2",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Los Angeles FC",
+      "away_team": "San Diego FC",
+      "commence_time": "2026-08-16T02:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 8.5,
+      "stake_pct": 5.0,
+      "confidence": 453,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T04:46:24.485742+00:00"
+    },
+    {
+      "state_key": "6847e874e75652b36108e9958e8247d2:h2h",
+      "event_id": "6847e874e75652b36108e9958e8247d2",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Los Angeles FC",
+      "away_team": "San Diego FC",
+      "commence_time": "2026-08-16T02:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Los Angeles FC",
+      "odds_at_alert": 100.0,
+      "stake_pct": 5.0,
+      "confidence": 2237,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T04:46:25.033654+00:00"
+    },
+    {
+      "state_key": "6847e874e75652b36108e9958e8247d2:h2h",
+      "event_id": "6847e874e75652b36108e9958e8247d2",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Los Angeles FC",
+      "away_team": "San Diego FC",
+      "commence_time": "2026-08-16T02:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 8.5,
+      "stake_pct": 5.0,
+      "confidence": 453,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T04:46:25.592107+00:00"
+    },
+    {
+      "state_key": "6847e874e75652b36108e9958e8247d2:h2h",
+      "event_id": "6847e874e75652b36108e9958e8247d2",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Los Angeles FC",
+      "away_team": "San Diego FC",
+      "commence_time": "2026-08-16T02:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Los Angeles FC",
+      "odds_at_alert": 65.0,
+      "stake_pct": 5.0,
+      "confidence": 1419,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T04:46:26.089887+00:00"
+    },
+    {
+      "state_key": "6847e874e75652b36108e9958e8247d2:h2h",
+      "event_id": "6847e874e75652b36108e9958e8247d2",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Los Angeles FC",
+      "away_team": "San Diego FC",
+      "commence_time": "2026-08-16T02:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 7.2,
+      "stake_pct": 5.0,
+      "confidence": 369,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T04:46:26.663496+00:00"
+    },
+    {
+      "state_key": "6847e874e75652b36108e9958e8247d2:h2h",
+      "event_id": "6847e874e75652b36108e9958e8247d2",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Los Angeles FC",
+      "away_team": "San Diego FC",
+      "commence_time": "2026-08-16T02:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Los Angeles FC",
+      "odds_at_alert": 100.0,
+      "stake_pct": 5.0,
+      "confidence": 2237,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T04:46:27.157697+00:00"
+    },
+    {
+      "state_key": "6847e874e75652b36108e9958e8247d2:h2h",
+      "event_id": "6847e874e75652b36108e9958e8247d2",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Los Angeles FC",
+      "away_team": "San Diego FC",
+      "commence_time": "2026-08-16T02:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 9.0,
+      "stake_pct": 5.0,
+      "confidence": 486,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T04:46:27.829263+00:00"
+    },
+    {
+      "state_key": "6847e874e75652b36108e9958e8247d2:h2h",
+      "event_id": "6847e874e75652b36108e9958e8247d2",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Los Angeles FC",
+      "away_team": "San Diego FC",
+      "commence_time": "2026-08-16T02:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Los Angeles FC",
+      "odds_at_alert": 12.5,
+      "stake_pct": 5.0,
+      "confidence": 192,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T04:46:28.321814+00:00"
+    },
+    {
+      "state_key": "6847e874e75652b36108e9958e8247d2:h2h",
+      "event_id": "6847e874e75652b36108e9958e8247d2",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Los Angeles FC",
+      "away_team": "San Diego FC",
+      "commence_time": "2026-08-16T02:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.0,
+      "stake_pct": 5.0,
+      "confidence": 291,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T04:46:28.871911+00:00"
+    },
+    {
+      "state_key": "6847e874e75652b36108e9958e8247d2:h2h",
+      "event_id": "6847e874e75652b36108e9958e8247d2",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Los Angeles FC",
+      "away_team": "San Diego FC",
+      "commence_time": "2026-08-16T02:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 17.5,
+      "stake_pct": 5.0,
+      "confidence": 1039,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T04:46:29.369642+00:00"
+    },
+    {
+      "state_key": "a7be0ab225101d04e57623db1c008722:h2h",
+      "event_id": "a7be0ab225101d04e57623db1c008722",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Atlas",
+      "away_team": "Tigres",
+      "commence_time": "2026-08-16T03:10:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Atlas",
+      "odds_at_alert": 5.5,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T04:46:29.970123+00:00"
+    },
+    {
+      "state_key": "a7be0ab225101d04e57623db1c008722:h2h",
+      "event_id": "a7be0ab225101d04e57623db1c008722",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Atlas",
+      "away_team": "Tigres",
+      "commence_time": "2026-08-16T03:10:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Atlas",
+      "odds_at_alert": 8.5,
+      "stake_pct": 5.0,
+      "confidence": 65,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T04:46:30.505351+00:00"
+    },
+    {
+      "state_key": "a7be0ab225101d04e57623db1c008722:h2h",
+      "event_id": "a7be0ab225101d04e57623db1c008722",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Atlas",
+      "away_team": "Tigres",
+      "commence_time": "2026-08-16T03:10:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Tigres",
+      "odds_at_alert": 3.15,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T04:46:31.029644+00:00"
+    },
+    {
+      "state_key": "a7be0ab225101d04e57623db1c008722:h2h",
+      "event_id": "a7be0ab225101d04e57623db1c008722",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Atlas",
+      "away_team": "Tigres",
+      "commence_time": "2026-08-16T03:10:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Tigres",
+      "odds_at_alert": 3.15,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T04:46:31.582377+00:00"
+    },
+    {
+      "state_key": "a7be0ab225101d04e57623db1c008722:h2h",
+      "event_id": "a7be0ab225101d04e57623db1c008722",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Atlas",
+      "away_team": "Tigres",
+      "commence_time": "2026-08-16T03:10:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Atlas",
+      "odds_at_alert": 7.5,
+      "stake_pct": 5.0,
+      "confidence": 45,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T04:46:32.135268+00:00"
+    },
+    {
+      "state_key": "71f3d835fcbd6f23b0f6ff88b240699b:h2h",
+      "event_id": "71f3d835fcbd6f23b0f6ff88b240699b",
+      "sport_key": "soccer",
+      "competition": "K League 1",
+      "home_team": "Bucheon FC 1995",
+      "away_team": "Jeonbuk Hyundai Motors",
+      "commence_time": "2026-08-16T10:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Bucheon FC 1995",
+      "odds_at_alert": 4.8,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T04:46:32.611171+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
+    "6847e874e75652b36108e9958e8247d2:h2h|Betfair|Draw",
     "6847e874e75652b36108e9958e8247d2:h2h|Betfair|Los Angeles FC",
+    "6847e874e75652b36108e9958e8247d2:h2h|Betsson|Draw",
+    "6847e874e75652b36108e9958e8247d2:h2h|Betsson|Los Angeles FC",
+    "6847e874e75652b36108e9958e8247d2:h2h|Coolbet|Draw",
+    "6847e874e75652b36108e9958e8247d2:h2h|Coolbet|Los Angeles FC",
+    "6847e874e75652b36108e9958e8247d2:h2h|MyBookie.ag|Draw",
+    "6847e874e75652b36108e9958e8247d2:h2h|MyBookie.ag|Los Angeles FC",
+    "6847e874e75652b36108e9958e8247d2:h2h|Tipico|Draw",
+    "6847e874e75652b36108e9958e8247d2:h2h|Tipico|Los Angeles FC",
     "6847e874e75652b36108e9958e8247d2:h2h|Unibet (NL)|Los Angeles FC",
     "6847e874e75652b36108e9958e8247d2:h2h|Unibet (SE)|Los Angeles FC",
-    "6b340f239dd579a9bd28b470673e1e11:h2h|888sport|Draw",
-    "6b340f239dd579a9bd28b470673e1e11:h2h|888sport|Sporting Kansas City",
-    "6b340f239dd579a9bd28b470673e1e11:h2h|Betclic (FR)|Draw",
-    "6b340f239dd579a9bd28b470673e1e11:h2h|Betclic (FR)|Sporting Kansas City",
-    "6b340f239dd579a9bd28b470673e1e11:h2h|Betfair|Draw",
-    "6b340f239dd579a9bd28b470673e1e11:h2h|Betfair|Sporting Kansas City",
-    "6b340f239dd579a9bd28b470673e1e11:h2h|Betsson|Draw",
-    "6b340f239dd579a9bd28b470673e1e11:h2h|Betsson|Sporting Kansas City",
-    "6b340f239dd579a9bd28b470673e1e11:h2h|Coolbet|Draw",
-    "6b340f239dd579a9bd28b470673e1e11:h2h|Coolbet|Sporting Kansas City",
-    "6b340f239dd579a9bd28b470673e1e11:h2h|LeoVegas (SE)|Draw",
-    "6b340f239dd579a9bd28b470673e1e11:h2h|LeoVegas (SE)|Sporting Kansas City",
-    "6b340f239dd579a9bd28b470673e1e11:h2h|Matchbook|Draw",
-    "6b340f239dd579a9bd28b470673e1e11:h2h|Matchbook|Sporting Kansas City",
-    "6b340f239dd579a9bd28b470673e1e11:h2h|MyBookie.ag|Draw",
-    "6b340f239dd579a9bd28b470673e1e11:h2h|MyBookie.ag|Sporting Kansas City",
-    "6b340f239dd579a9bd28b470673e1e11:h2h|Nordic Bet|Draw",
-    "6b340f239dd579a9bd28b470673e1e11:h2h|Nordic Bet|Sporting Kansas City",
-    "6b340f239dd579a9bd28b470673e1e11:h2h|Tipico|Draw",
-    "6b340f239dd579a9bd28b470673e1e11:h2h|Tipico|Sporting Kansas City",
-    "6b340f239dd579a9bd28b470673e1e11:h2h|Unibet (NL)|Draw",
-    "6b340f239dd579a9bd28b470673e1e11:h2h|Unibet (NL)|Sporting Kansas City",
-    "6b340f239dd579a9bd28b470673e1e11:h2h|Unibet (SE)|Draw",
-    "6b340f239dd579a9bd28b470673e1e11:h2h|Unibet (SE)|Sporting Kansas City",
-    "6b340f239dd579a9bd28b470673e1e11:h2h|Winamax (DE)|Draw",
-    "6b340f239dd579a9bd28b470673e1e11:h2h|Winamax (DE)|Sporting Kansas City",
-    "6b340f239dd579a9bd28b470673e1e11:h2h|Winamax (FR)|Draw",
-    "6b340f239dd579a9bd28b470673e1e11:h2h|Winamax (FR)|Sporting Kansas City"
+    "6847e874e75652b36108e9958e8247d2:h2h|Winamax (DE)|Draw",
+    "6847e874e75652b36108e9958e8247d2:h2h|Winamax (DE)|Los Angeles FC",
+    "6847e874e75652b36108e9958e8247d2:h2h|Winamax (FR)|Draw",
+    "6847e874e75652b36108e9958e8247d2:h2h|Winamax (FR)|Los Angeles FC",
+    "71f3d835fcbd6f23b0f6ff88b240699b:h2h|Matchbook|Bucheon FC 1995",
+    "a7be0ab225101d04e57623db1c008722:h2h|Coolbet|Atlas",
+    "a7be0ab225101d04e57623db1c008722:h2h|LeoVegas (SE)|Atlas",
+    "a7be0ab225101d04e57623db1c008722:h2h|Tipico|Atlas",
+    "a7be0ab225101d04e57623db1c008722:h2h|Unibet (NL)|Tigres",
+    "a7be0ab225101d04e57623db1c008722:h2h|Unibet (SE)|Tigres"
   ]
 }
