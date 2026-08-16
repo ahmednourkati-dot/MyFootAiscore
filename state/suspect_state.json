@@ -1,79 +1,156 @@
 {
   "snapshots": {
-    "fd2380fb0d0736468c7a58dfe8c1d6e2:h2h": {
-      "Betclic (FR)": {
-        "Burnley": 21.0,
-        "West Ham United": 27.0,
-        "Draw": 1.02
-      },
-      "Betfair": {
-        "Burnley": 1.01,
-        "West Ham United": 1.05,
-        "Draw": 1.02
-      },
+    "42a5599614c78c079a89e620b3e06739:h2h": {
       "Nordic Bet": {
-        "Burnley": 23.0,
-        "West Ham United": 29.0,
-        "Draw": 1.0
+        "Cracovia Kraków": 1.04,
+        "Raków Częstochowa": 80.0,
+        "Draw": 13.0
       },
-      "Coolbet": {
-        "Burnley": 28.0,
-        "West Ham United": 28.0,
-        "Draw": 1.0
-      },
-      "Matchbook": {
-        "Burnley": 34.0,
-        "West Ham United": 55.0,
-        "Draw": 1.02
-      }
-    },
-    "029f6bfe29cfa3b2d7253fe87b9c3dc7:h2h": {
       "Betclic (FR)": {
-        "HamKam": 100.0,
-        "SK Brann": 1.0,
-        "Draw": 40.0
+        "Cracovia Kraków": 1.0,
+        "Raków Częstochowa": 100.0,
+        "Draw": 19.0
       },
-      "Betsson": {
-        "HamKam": 26.0,
-        "SK Brann": 1.0,
-        "Draw": 26.0
-      },
-      "Nordic Bet": {
-        "HamKam": 26.0,
-        "SK Brann": 1.0,
-        "Draw": 26.0
-      }
-    },
-    "d946c99484025d2fb1182a2860943359:h2h": {
-      "Betclic (FR)": {
-        "Molde": 1.0,
-        "Tromso": 100.0,
-        "Draw": 16.25
-      },
-      "Nordic Bet": {
-        "Molde": 1.02,
-        "Tromso": 200.0,
-        "Draw": 11.0
-      },
-      "Betsson": {
-        "Molde": 1.0,
-        "Tromso": 101.0,
+      "Winamax (DE)": {
+        "Cracovia Kraków": 1.02,
+        "Raków Częstochowa": 200.0,
         "Draw": 15.0
       },
-      "Tipico": {
-        "Molde": 1.01,
-        "Tromso": 400.0,
-        "Draw": 20.0
+      "Winamax (FR)": {
+        "Cracovia Kraków": 1.04,
+        "Raków Częstochowa": 200.0,
+        "Draw": 14.5
       },
       "Coolbet": {
-        "Molde": 1.01,
-        "Tromso": 400.0,
-        "Draw": 20.0
+        "Cracovia Kraków": 1.06,
+        "Raków Częstochowa": 80.0,
+        "Draw": 8.5
+      },
+      "Betsson": {
+        "Cracovia Kraków": 1.05,
+        "Raków Częstochowa": 80.0,
+        "Draw": 12.0
+      },
+      "Tipico": {
+        "Cracovia Kraków": 1.01,
+        "Raków Częstochowa": 400.0,
+        "Draw": 15.0
+      },
+      "888sport": {
+        "Cracovia Kraków": 1.04,
+        "Raków Częstochowa": 126.0,
+        "Draw": 12.0
       },
       "Betfair": {
-        "Molde": 1.01,
-        "Tromso": 38.0,
-        "Draw": 60.0
+        "Cracovia Kraków": 1.05,
+        "Raków Częstochowa": 120.0,
+        "Draw": 14.0
+      },
+      "LeoVegas (SE)": {
+        "Cracovia Kraków": 1.02,
+        "Raków Częstochowa": 81.0,
+        "Draw": 8.5
+      }
+    },
+    "daae0078ca1b2407dc487b77fa421070:h2h": {
+      "Winamax (FR)": {
+        "Basaksehir": 1.01,
+        "Kocaelispor": 160.0,
+        "Draw": 36.0
+      },
+      "Tipico": {
+        "Basaksehir": 1.01,
+        "Kocaelispor": 120.0,
+        "Draw": 11.0
+      },
+      "Betclic (FR)": {
+        "Basaksehir": 1.0,
+        "Kocaelispor": 70.0,
+        "Draw": 23.0
+      },
+      "Nordic Bet": {
+        "Basaksehir": 1.01,
+        "Kocaelispor": 280.0,
+        "Draw": 41.0
+      },
+      "Winamax (DE)": {
+        "Basaksehir": 1.01,
+        "Kocaelispor": 140.0,
+        "Draw": 32.0
+      },
+      "Betsson": {
+        "Basaksehir": 1.01,
+        "Kocaelispor": 280.0,
+        "Draw": 41.0
+      },
+      "Coolbet": {
+        "Basaksehir": 1.01,
+        "Kocaelispor": 100.0,
+        "Draw": 28.0
+      },
+      "Betfair": {
+        "Basaksehir": 1.06,
+        "Kocaelispor": 4.0,
+        "Draw": 6.4
+      },
+      "888sport": {
+        "Basaksehir": 1.01,
+        "Kocaelispor": 126.0,
+        "Draw": 29.0
+      },
+      "Pinnacle": {
+        "Basaksehir": 1.21,
+        "Kocaelispor": 23.6,
+        "Draw": 5.36
+      }
+    },
+    "0bf08c81c6fbb1d5ec53e483e9d2a208:h2h": {
+      "Betclic (FR)": {
+        "FC Copenhagen": 1.0,
+        "Randers FC": 100.0,
+        "Draw": 40.0
+      },
+      "Nordic Bet": {
+        "FC Copenhagen": 1.0,
+        "Randers FC": 36.0,
+        "Draw": 21.0
+      },
+      "Betsson": {
+        "FC Copenhagen": 1.0,
+        "Randers FC": 36.0,
+        "Draw": 21.0
+      },
+      "888sport": {
+        "FC Copenhagen": 1.0,
+        "Randers FC": 151.0,
+        "Draw": 67.0
+      },
+      "Betfair": {
+        "FC Copenhagen": 1.01,
+        "Randers FC": 110.0,
+        "Draw": 90.0
+      }
+    },
+    "093c02e859209adee09b62a30ac14d4d:h2h": {
+      "Betfair": {
+        "Frosinone": 1.02,
+        "Juve Stabia": 100.0,
+        "Draw": 38.0
+      },
+      "888sport": {
+        "Frosinone": 1.01,
+        "Juve Stabia": 101.0,
+        "Draw": 29.0
+      },
+      "Unibet (SE)": {
+        "Frosinone": 1.01,
+        "Juve Stabia": 101.0,
+        "Draw": 20.0
+      },
+      "Winamax (DE)": {
+        "Frosinone": 1.01,
+        "Juve Stabia": 120.0,
+        "Draw": 28.0
       }
     }
   },
@@ -10190,8 +10267,298 @@
       "confidence": 180,
       "alert_type": "value",
       "alerted_at": "2026-08-16T16:33:12.925405+00:00"
+    },
+    {
+      "state_key": "daae0078ca1b2407dc487b77fa421070:h2h",
+      "event_id": "daae0078ca1b2407dc487b77fa421070",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Basaksehir",
+      "away_team": "Kocaelispor",
+      "commence_time": "2026-08-16T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Kocaelispor",
+      "odds_at_alert": 160.0,
+      "stake_pct": 5.0,
+      "confidence": 542,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T17:33:53.484738+00:00"
+    },
+    {
+      "state_key": "daae0078ca1b2407dc487b77fa421070:h2h",
+      "event_id": "daae0078ca1b2407dc487b77fa421070",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Basaksehir",
+      "away_team": "Kocaelispor",
+      "commence_time": "2026-08-16T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 36.0,
+      "stake_pct": 5.0,
+      "confidence": 536,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T17:33:54.003698+00:00"
+    },
+    {
+      "state_key": "daae0078ca1b2407dc487b77fa421070:h2h",
+      "event_id": "daae0078ca1b2407dc487b77fa421070",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Basaksehir",
+      "away_team": "Kocaelispor",
+      "commence_time": "2026-08-16T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Kocaelispor",
+      "odds_at_alert": 120.0,
+      "stake_pct": 5.0,
+      "confidence": 382,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T17:33:54.484752+00:00"
+    },
+    {
+      "state_key": "daae0078ca1b2407dc487b77fa421070:h2h",
+      "event_id": "daae0078ca1b2407dc487b77fa421070",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Basaksehir",
+      "away_team": "Kocaelispor",
+      "commence_time": "2026-08-16T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 94,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T17:33:54.994154+00:00"
+    },
+    {
+      "state_key": "daae0078ca1b2407dc487b77fa421070:h2h",
+      "event_id": "daae0078ca1b2407dc487b77fa421070",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Basaksehir",
+      "away_team": "Kocaelispor",
+      "commence_time": "2026-08-16T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Kocaelispor",
+      "odds_at_alert": 70.0,
+      "stake_pct": 5.0,
+      "confidence": 181,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T17:33:55.472050+00:00"
+    },
+    {
+      "state_key": "daae0078ca1b2407dc487b77fa421070:h2h",
+      "event_id": "daae0078ca1b2407dc487b77fa421070",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Basaksehir",
+      "away_team": "Kocaelispor",
+      "commence_time": "2026-08-16T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 23.0,
+      "stake_pct": 5.0,
+      "confidence": 307,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T17:33:55.973434+00:00"
+    },
+    {
+      "state_key": "daae0078ca1b2407dc487b77fa421070:h2h",
+      "event_id": "daae0078ca1b2407dc487b77fa421070",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Basaksehir",
+      "away_team": "Kocaelispor",
+      "commence_time": "2026-08-16T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Kocaelispor",
+      "odds_at_alert": 280.0,
+      "stake_pct": 5.0,
+      "confidence": 1024,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T17:33:56.492062+00:00"
+    },
+    {
+      "state_key": "daae0078ca1b2407dc487b77fa421070:h2h",
+      "event_id": "daae0078ca1b2407dc487b77fa421070",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Basaksehir",
+      "away_team": "Kocaelispor",
+      "commence_time": "2026-08-16T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 41.0,
+      "stake_pct": 5.0,
+      "confidence": 625,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T17:33:56.978038+00:00"
+    },
+    {
+      "state_key": "daae0078ca1b2407dc487b77fa421070:h2h",
+      "event_id": "daae0078ca1b2407dc487b77fa421070",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Basaksehir",
+      "away_team": "Kocaelispor",
+      "commence_time": "2026-08-16T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Kocaelispor",
+      "odds_at_alert": 140.0,
+      "stake_pct": 5.0,
+      "confidence": 462,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T17:33:57.510348+00:00"
+    },
+    {
+      "state_key": "daae0078ca1b2407dc487b77fa421070:h2h",
+      "event_id": "daae0078ca1b2407dc487b77fa421070",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Basaksehir",
+      "away_team": "Kocaelispor",
+      "commence_time": "2026-08-16T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 32.0,
+      "stake_pct": 5.0,
+      "confidence": 466,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T17:33:58.084420+00:00"
+    },
+    {
+      "state_key": "daae0078ca1b2407dc487b77fa421070:h2h",
+      "event_id": "daae0078ca1b2407dc487b77fa421070",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Basaksehir",
+      "away_team": "Kocaelispor",
+      "commence_time": "2026-08-16T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Kocaelispor",
+      "odds_at_alert": 280.0,
+      "stake_pct": 5.0,
+      "confidence": 1024,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T17:33:58.632530+00:00"
+    },
+    {
+      "state_key": "daae0078ca1b2407dc487b77fa421070:h2h",
+      "event_id": "daae0078ca1b2407dc487b77fa421070",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Basaksehir",
+      "away_team": "Kocaelispor",
+      "commence_time": "2026-08-16T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 41.0,
+      "stake_pct": 5.0,
+      "confidence": 625,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T17:33:59.156643+00:00"
+    },
+    {
+      "state_key": "daae0078ca1b2407dc487b77fa421070:h2h",
+      "event_id": "daae0078ca1b2407dc487b77fa421070",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Basaksehir",
+      "away_team": "Kocaelispor",
+      "commence_time": "2026-08-16T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Kocaelispor",
+      "odds_at_alert": 100.0,
+      "stake_pct": 5.0,
+      "confidence": 301,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T17:33:59.661860+00:00"
+    },
+    {
+      "state_key": "daae0078ca1b2407dc487b77fa421070:h2h",
+      "event_id": "daae0078ca1b2407dc487b77fa421070",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Basaksehir",
+      "away_team": "Kocaelispor",
+      "commence_time": "2026-08-16T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 28.0,
+      "stake_pct": 5.0,
+      "confidence": 395,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T17:34:00.188658+00:00"
+    },
+    {
+      "state_key": "daae0078ca1b2407dc487b77fa421070:h2h",
+      "event_id": "daae0078ca1b2407dc487b77fa421070",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Basaksehir",
+      "away_team": "Kocaelispor",
+      "commence_time": "2026-08-16T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.4,
+      "stake_pct": 3.0,
+      "confidence": 13,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T17:34:00.673726+00:00"
+    },
+    {
+      "state_key": "daae0078ca1b2407dc487b77fa421070:h2h",
+      "event_id": "daae0078ca1b2407dc487b77fa421070",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Basaksehir",
+      "away_team": "Kocaelispor",
+      "commence_time": "2026-08-16T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Kocaelispor",
+      "odds_at_alert": 126.0,
+      "stake_pct": 5.0,
+      "confidence": 406,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T17:34:01.191677+00:00"
+    },
+    {
+      "state_key": "daae0078ca1b2407dc487b77fa421070:h2h",
+      "event_id": "daae0078ca1b2407dc487b77fa421070",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Basaksehir",
+      "away_team": "Kocaelispor",
+      "commence_time": "2026-08-16T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 29.0,
+      "stake_pct": 5.0,
+      "confidence": 413,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T17:34:01.688865+00:00"
     }
   ],
   "results_history": [],
-  "value_alerted": []
+  "value_alerted": [
+    "daae0078ca1b2407dc487b77fa421070:h2h|888sport|Draw",
+    "daae0078ca1b2407dc487b77fa421070:h2h|888sport|Kocaelispor",
+    "daae0078ca1b2407dc487b77fa421070:h2h|Betclic (FR)|Draw",
+    "daae0078ca1b2407dc487b77fa421070:h2h|Betclic (FR)|Kocaelispor",
+    "daae0078ca1b2407dc487b77fa421070:h2h|Betfair|Draw",
+    "daae0078ca1b2407dc487b77fa421070:h2h|Betsson|Draw",
+    "daae0078ca1b2407dc487b77fa421070:h2h|Betsson|Kocaelispor",
+    "daae0078ca1b2407dc487b77fa421070:h2h|Coolbet|Draw",
+    "daae0078ca1b2407dc487b77fa421070:h2h|Coolbet|Kocaelispor",
+    "daae0078ca1b2407dc487b77fa421070:h2h|Nordic Bet|Draw",
+    "daae0078ca1b2407dc487b77fa421070:h2h|Nordic Bet|Kocaelispor",
+    "daae0078ca1b2407dc487b77fa421070:h2h|Tipico|Draw",
+    "daae0078ca1b2407dc487b77fa421070:h2h|Tipico|Kocaelispor",
+    "daae0078ca1b2407dc487b77fa421070:h2h|Winamax (DE)|Draw",
+    "daae0078ca1b2407dc487b77fa421070:h2h|Winamax (DE)|Kocaelispor",
+    "daae0078ca1b2407dc487b77fa421070:h2h|Winamax (FR)|Draw",
+    "daae0078ca1b2407dc487b77fa421070:h2h|Winamax (FR)|Kocaelispor"
+  ]
 }
