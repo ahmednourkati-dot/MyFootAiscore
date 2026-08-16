@@ -1,82 +1,126 @@
 {
   "snapshots": {
-    "475b8466285fa88e61b3140efd9e3e70:h2h": {
-      "Winamax (FR)": {
-        "KV Mechelen": 275.0,
-        "Standard Liege": 1.03,
-        "Draw": 16.0
-      },
-      "Winamax (DE)": {
-        "KV Mechelen": 400.0,
-        "Standard Liege": 1.01,
-        "Draw": 20.0
-      },
-      "Suprabets": {
-        "KV Mechelen": 201.0,
-        "Standard Liege": 1.03,
-        "Draw": 8.7
-      },
-      "Coolbet": {
-        "KV Mechelen": 400.0,
-        "Standard Liege": 1.01,
-        "Draw": 20.0
-      },
+    "4e24891d0ee382bfda6305eabbc54754:h2h": {
       "Betclic (FR)": {
-        "KV Mechelen": 110.0,
-        "Standard Liege": 3.42,
-        "Draw": 1.25
-      },
-      "Nordic Bet": {
-        "KV Mechelen": 150.0,
-        "Standard Liege": 1.01,
-        "Draw": 13.0
+        "Espanyol": 1.0,
+        "Levante": 100.0,
+        "Draw": 100.0
       },
       "Betsson": {
-        "KV Mechelen": 101.0,
-        "Standard Liege": 1.0,
-        "Draw": 15.0
+        "Espanyol": 1.0,
+        "Levante": 301.0,
+        "Draw": 301.0
       },
-      "Betfair": {
-        "KV Mechelen": 140.0,
-        "Standard Liege": 1.03,
+      "Nordic Bet": {
+        "Espanyol": 1.0,
+        "Levante": 301.0,
+        "Draw": 301.0
+      }
+    },
+    "5bebf67f8778481d7e7e3a0d5f4843d0:h2h": {
+      "Winamax (DE)": {
+        "Girona FC": 25.0,
+        "Leganés": 55.0,
         "Draw": 1.01
       },
       "Tipico": {
-        "KV Mechelen": 500.0,
-        "Standard Liege": 3.6,
-        "Draw": 1.25
-      }
-    },
-    "1d014a93ab41ebaf8e49229a76a702c5:h2h": {
-      "Winamax (FR)": {
-        "Union La Calera": 1000.0,
-        "Ñublense": 1.02,
-        "Draw": 21.0
+        "Girona FC": 20.0,
+        "Leganés": 50.0,
+        "Draw": 1.01
       },
-      "Winamax (DE)": {
-        "Union La Calera": 1000.0,
-        "Ñublense": 1.01,
-        "Draw": 24.0
-      },
-      "Nordic Bet": {
-        "Union La Calera": 81.0,
-        "Ñublense": 1.0,
-        "Draw": 17.0
-      },
-      "Betsson": {
-        "Union La Calera": 126.0,
-        "Ñublense": 1.0,
-        "Draw": 15.0
-      },
-      "Coolbet": {
-        "Union La Calera": 750.0,
-        "Ñublense": 1.01,
-        "Draw": 20.0
+      "Pinnacle": {
+        "Girona FC": 25.61,
+        "Leganés": 1.24,
+        "Draw": 4.54
       },
       "Betfair": {
-        "Union La Calera": 50.0,
-        "Ñublense": 1.01,
-        "Draw": 50.0
+        "Girona FC": 1.01,
+        "Leganés": 1.01,
+        "Draw": 1.01
+      },
+      "Nordic Bet": {
+        "Girona FC": 67.0,
+        "Leganés": 81.0,
+        "Draw": 1.0
+      }
+    },
+    "f65624c36cefaf719ea4fd75deffb790:h2h": {
+      "Winamax (DE)": {
+        "Charleroi": 1.01,
+        "Lommel SK": 450.0,
+        "Draw": 27.0
+      },
+      "Winamax (FR)": {
+        "Charleroi": 1.02,
+        "Lommel SK": 450.0,
+        "Draw": 27.0
+      },
+      "Betfair": {
+        "Charleroi": 1.05,
+        "Lommel SK": 490.0,
+        "Draw": 17.5
+      },
+      "888sport": {
+        "Charleroi": 1.03,
+        "Lommel SK": 151.0,
+        "Draw": 15.0
+      },
+      "Betsson": {
+        "Charleroi": 1.0,
+        "Lommel SK": 126.0,
+        "Draw": 15.0
+      },
+      "Nordic Bet": {
+        "Charleroi": 1.01,
+        "Lommel SK": 130.0,
+        "Draw": 13.0
+      },
+      "Tipico": {
+        "Charleroi": 1.01,
+        "Lommel SK": 400.0,
+        "Draw": 25.0
+      }
+    },
+    "de5e7844ab0a9a374e350704d975df62:h2h": {
+      "Betclic (FR)": {
+        "Fredrikstad FK": 1.01,
+        "Kristiansund BK": 100.0,
+        "Draw": 12.0
+      },
+      "Winamax (FR)": {
+        "Fredrikstad FK": 1.04,
+        "Kristiansund BK": 225.0,
+        "Draw": 15.0
+      },
+      "Winamax (DE)": {
+        "Fredrikstad FK": 1.02,
+        "Kristiansund BK": 200.0,
+        "Draw": 15.0
+      },
+      "Nordic Bet": {
+        "Fredrikstad FK": 1.0,
+        "Kristiansund BK": 101.0,
+        "Draw": 15.0
+      },
+      "Betsson": {
+        "Fredrikstad FK": 1.01,
+        "Kristiansund BK": 200.0,
+        "Draw": 12.0
+      },
+      "Tipico": {
+        "Fredrikstad FK": 1.01,
+        "Kristiansund BK": 400.0,
+        "Draw": 20.0
+      },
+      "Coolbet": {
+        "Fredrikstad FK": 1.06,
+        "Kristiansund BK": 150.0,
+        "Draw": 11.0
+      },
+      "Betfair": {
+        "Fredrikstad FK": 1.01,
+        "Kristiansund BK": 5.0,
+        "Draw": 1.01
       }
     }
   },
@@ -10465,8 +10509,77 @@
       "confidence": 413,
       "alert_type": "value",
       "alerted_at": "2026-08-16T17:34:01.688865+00:00"
+    },
+    {
+      "state_key": "5bebf67f8778481d7e7e3a0d5f4843d0:h2h",
+      "event_id": "5bebf67f8778481d7e7e3a0d5f4843d0",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Girona FC",
+      "away_team": "Leganés",
+      "commence_time": "2026-08-16T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Leganés",
+      "odds_at_alert": 55.0,
+      "stake_pct": 5.0,
+      "confidence": 4062,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T19:09:09.093891+00:00"
+    },
+    {
+      "state_key": "5bebf67f8778481d7e7e3a0d5f4843d0:h2h",
+      "event_id": "5bebf67f8778481d7e7e3a0d5f4843d0",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Girona FC",
+      "away_team": "Leganés",
+      "commence_time": "2026-08-16T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Leganés",
+      "odds_at_alert": 50.0,
+      "stake_pct": 5.0,
+      "confidence": 3683,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T19:09:09.759823+00:00"
+    },
+    {
+      "state_key": "5bebf67f8778481d7e7e3a0d5f4843d0:h2h",
+      "event_id": "5bebf67f8778481d7e7e3a0d5f4843d0",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Girona FC",
+      "away_team": "Leganés",
+      "commence_time": "2026-08-16T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Girona FC",
+      "odds_at_alert": 67.0,
+      "stake_pct": 5.0,
+      "confidence": 145,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T19:09:10.397261+00:00"
+    },
+    {
+      "state_key": "5bebf67f8778481d7e7e3a0d5f4843d0:h2h",
+      "event_id": "5bebf67f8778481d7e7e3a0d5f4843d0",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Girona FC",
+      "away_team": "Leganés",
+      "commence_time": "2026-08-16T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Leganés",
+      "odds_at_alert": 81.0,
+      "stake_pct": 5.0,
+      "confidence": 6029,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T19:09:11.060095+00:00"
     }
   ],
   "results_history": [],
-  "value_alerted": []
+  "value_alerted": [
+    "5bebf67f8778481d7e7e3a0d5f4843d0:h2h|Nordic Bet|Girona FC",
+    "5bebf67f8778481d7e7e3a0d5f4843d0:h2h|Nordic Bet|Leganés",
+    "5bebf67f8778481d7e7e3a0d5f4843d0:h2h|Tipico|Leganés",
+    "5bebf67f8778481d7e7e3a0d5f4843d0:h2h|Winamax (DE)|Leganés"
+  ]
 }
