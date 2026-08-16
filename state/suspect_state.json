@@ -1,161 +1,196 @@
 {
   "snapshots": {
-    "61734fd058d8f6cc5914e2ab642dbe2d:h2h": {
-      "Tipico": {
-        "1. FC Saarbrücken": 30.0,
-        "Jahn Regensburg": 30.0,
-        "Draw": 1.01
-      },
-      "Betfair": {
-        "1. FC Saarbrücken": 26.0,
-        "Jahn Regensburg": 26.0,
-        "Draw": 1.02
-      },
-      "Unibet (SE)": {
-        "1. FC Saarbrücken": 41.0,
-        "Jahn Regensburg": 36.0,
-        "Draw": 1.01
-      }
-    },
-    "f1a64c2e8e1fd333286e57b43b1f8025:h2h": {
+    "7929df954375baae70c9182d5069ecc7:h2h": {
       "Betclic (FR)": {
-        "Estoril": 100.0,
-        "Nacional": 1.0,
-        "Draw": 100.0
-      },
-      "Nordic Bet": {
-        "Estoril": 26.0,
-        "Nacional": 1.0,
-        "Draw": 26.0
+        "Arouca": 1.0,
+        "Moreirense FC": 100.0,
+        "Draw": 95.0
       },
       "Betsson": {
-        "Estoril": 34.0,
-        "Nacional": 1.0,
+        "Arouca": 1.0,
+        "Moreirense FC": 36.0,
+        "Draw": 21.0
+      },
+      "Nordic Bet": {
+        "Arouca": 1.0,
+        "Moreirense FC": 36.0,
         "Draw": 21.0
       }
     },
-    "09a9e817d0717bcfbae9e7fca709a15d:h2h": {
-      "Coolbet": {
-        "Ajax": 12.0,
-        "Heerenveen": 25.0,
-        "Draw": 1.08
+    "8a266ab79e1dd7e5bb6ff30f115f6a1e:h2h": {
+      "Winamax (FR)": {
+        "Burgos CF": 4.8,
+        "Córdoba": 3.9,
+        "Draw": 1.5
       },
       "Winamax (DE)": {
-        "Ajax": 10.5,
-        "Heerenveen": 26.0,
-        "Draw": 1.05
-      },
-      "Winamax (FR)": {
-        "Ajax": 10.0,
-        "Heerenveen": 26.0,
-        "Draw": 1.08
-      },
-      "888sport": {
-        "Ajax": 8.5,
-        "Heerenveen": 19.0,
-        "Draw": 1.11
-      },
-      "Betfair": {
-        "Ajax": 23.0,
-        "Heerenveen": 150.0,
-        "Draw": 1.04
-      },
-      "Nordic Bet": {
-        "Ajax": 17.0,
-        "Heerenveen": 29.0,
-        "Draw": 1.02
-      },
-      "Betsson": {
-        "Ajax": 9.6,
-        "Heerenveen": 19.5,
-        "Draw": 1.06
+        "Burgos CF": 5.1,
+        "Córdoba": 4.0,
+        "Draw": 1.5
       },
       "Tipico": {
-        "Ajax": 12.0,
-        "Heerenveen": 30.0,
-        "Draw": 1.03
-      },
-      "Unibet (SE)": {
-        "Ajax": 23.0,
-        "Heerenveen": 61.0,
-        "Draw": 1.01
-      },
-      "LeoVegas (SE)": {
-        "Ajax": 9.5,
-        "Heerenveen": 36.0,
-        "Draw": 1.02
-      },
-      "PMU (FR)": {
-        "Ajax": 9.0,
-        "Heerenveen": 19.0,
-        "Draw": 1.01
-      },
-      "Unibet (NL)": {
-        "Ajax": 19.0,
-        "Heerenveen": 51.0,
-        "Draw": 1.02
-      }
-    },
-    "4071204c42c96090322a93ab1cd1c0cb:h2h": {
-      "Coolbet": {
-        "Austria Wien": 1.01,
-        "Hartberg": 66.0,
-        "Draw": 16.0
-      },
-      "Winamax (FR)": {
-        "Austria Wien": 1.02,
-        "Hartberg": 100.0,
-        "Draw": 25.0
+        "Burgos CF": 5.2,
+        "Córdoba": 3.8,
+        "Draw": 1.55
       },
       "Betclic (FR)": {
-        "Austria Wien": 1.0,
-        "Hartberg": 60.0,
-        "Draw": 16.25
-      },
-      "Winamax (DE)": {
-        "Austria Wien": 1.01,
-        "Hartberg": 100.0,
-        "Draw": 24.0
-      },
-      "Suprabets": {
-        "Austria Wien": 1.01,
-        "Hartberg": 70.0,
-        "Draw": 9.0
-      },
-      "Betsson": {
-        "Austria Wien": 1.01,
-        "Hartberg": 41.0,
-        "Draw": 13.0
-      },
-      "Nordic Bet": {
-        "Austria Wien": 1.0,
-        "Hartberg": 41.0,
-        "Draw": 15.0
-      },
-      "888sport": {
-        "Austria Wien": 1.02,
-        "Hartberg": 101.0,
-        "Draw": 23.0
+        "Burgos CF": 4.75,
+        "Córdoba": 3.7,
+        "Draw": 1.55
       },
       "Pinnacle": {
-        "Austria Wien": 1.29,
-        "Hartberg": 18.28,
-        "Draw": 4.48
+        "Burgos CF": 4.62,
+        "Córdoba": 3.67,
+        "Draw": 1.73
       },
       "Betfair": {
-        "Austria Wien": 1.03,
-        "Hartberg": 80.0,
-        "Draw": 17.5
+        "Burgos CF": 6.0,
+        "Córdoba": 4.6,
+        "Draw": 1.6
+      },
+      "PMU (FR)": {
+        "Burgos CF": 5.2,
+        "Córdoba": 4.4,
+        "Draw": 1.27
       },
       "Unibet (SE)": {
-        "Austria Wien": 1.01,
-        "Hartberg": 126.0,
-        "Draw": 21.0
+        "Burgos CF": 5.6,
+        "Córdoba": 4.8,
+        "Draw": 1.4
       },
       "Unibet (NL)": {
-        "Austria Wien": 1.01,
-        "Hartberg": 126.0,
-        "Draw": 21.0
+        "Burgos CF": 5.6,
+        "Córdoba": 4.8,
+        "Draw": 1.4
+      },
+      "LeoVegas (SE)": {
+        "Burgos CF": 5.3,
+        "Córdoba": 4.6,
+        "Draw": 1.32
+      },
+      "Coolbet": {
+        "Burgos CF": 5.5,
+        "Córdoba": 4.33,
+        "Draw": 1.53
+      },
+      "Matchbook": {
+        "Burgos CF": 6.2,
+        "Córdoba": 4.7,
+        "Draw": 1.53
+      },
+      "Betsson": {
+        "Burgos CF": 4.85,
+        "Córdoba": 4.1,
+        "Draw": 1.5
+      },
+      "Nordic Bet": {
+        "Burgos CF": 2.18,
+        "Córdoba": 3.2,
+        "Draw": 3.1
+      }
+    },
+    "4e24891d0ee382bfda6305eabbc54754:h2h": {
+      "Betfair": {
+        "Espanyol": 1.01,
+        "Levante": 160.0,
+        "Draw": 70.0
+      },
+      "Betclic (FR)": {
+        "Espanyol": 1.0,
+        "Levante": 95.0,
+        "Draw": 28.0
+      },
+      "Winamax (FR)": {
+        "Espanyol": 1.01,
+        "Levante": 200.0,
+        "Draw": 38.0
+      },
+      "Winamax (DE)": {
+        "Espanyol": 1.01,
+        "Levante": 200.0,
+        "Draw": 36.0
+      },
+      "Unibet (SE)": {
+        "Espanyol": 1.01,
+        "Levante": 181.0,
+        "Draw": 30.0
+      },
+      "Unibet (NL)": {
+        "Espanyol": 1.01,
+        "Levante": 181.0,
+        "Draw": 30.0
+      },
+      "Betsson": {
+        "Espanyol": 1.01,
+        "Levante": 280.0,
+        "Draw": 50.0
+      },
+      "Nordic Bet": {
+        "Espanyol": 1.01,
+        "Levante": 280.0,
+        "Draw": 50.0
+      },
+      "Coolbet": {
+        "Espanyol": 1.0,
+        "Levante": 100.0,
+        "Draw": 30.0
+      }
+    },
+    "5bebf67f8778481d7e7e3a0d5f4843d0:h2h": {
+      "Winamax (DE)": {
+        "Girona FC": 15.0,
+        "Leganés": 1.37,
+        "Draw": 3.4
+      },
+      "Tipico": {
+        "Girona FC": 16.0,
+        "Leganés": 1.4,
+        "Draw": 3.1
+      },
+      "Pinnacle": {
+        "Girona FC": 7.68,
+        "Leganés": 1.67,
+        "Draw": 2.98
+      },
+      "Betfair": {
+        "Girona FC": 19.0,
+        "Leganés": 1.45,
+        "Draw": 3.8
+      },
+      "Unibet (SE)": {
+        "Girona FC": 15.0,
+        "Leganés": 1.35,
+        "Draw": 3.4
+      },
+      "Unibet (NL)": {
+        "Girona FC": 15.0,
+        "Leganés": 1.35,
+        "Draw": 3.4
+      },
+      "LeoVegas (SE)": {
+        "Girona FC": 15.0,
+        "Leganés": 1.27,
+        "Draw": 3.2
+      },
+      "Coolbet": {
+        "Girona FC": 16.0,
+        "Leganés": 1.36,
+        "Draw": 3.5
+      },
+      "Matchbook": {
+        "Girona FC": 19.5,
+        "Leganés": 1.47,
+        "Draw": 3.65
+      },
+      "Betsson": {
+        "Girona FC": 11.5,
+        "Leganés": 1.41,
+        "Draw": 3.2
+      },
+      "Nordic Bet": {
+        "Girona FC": 1.52,
+        "Leganés": 5.7,
+        "Draw": 3.8
       }
     }
   },
@@ -8832,31 +8867,570 @@
       "confidence": 345,
       "alert_type": "value",
       "alerted_at": "2026-08-16T16:37:50.604040+00:00"
+    },
+    {
+      "state_key": "8a266ab79e1dd7e5bb6ff30f115f6a1e:h2h",
+      "event_id": "8a266ab79e1dd7e5bb6ff30f115f6a1e",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Burgos CF",
+      "away_team": "Córdoba",
+      "commence_time": "2026-08-16T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Burgos CF",
+      "odds_at_alert": 5.2,
+      "stake_pct": 2.0,
+      "confidence": 5,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T18:42:56.795411+00:00"
+    },
+    {
+      "state_key": "8a266ab79e1dd7e5bb6ff30f115f6a1e:h2h",
+      "event_id": "8a266ab79e1dd7e5bb6ff30f115f6a1e",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Burgos CF",
+      "away_team": "Córdoba",
+      "commence_time": "2026-08-16T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Burgos CF",
+      "odds_at_alert": 6.0,
+      "stake_pct": 5.0,
+      "confidence": 22,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T18:42:57.153889+00:00"
+    },
+    {
+      "state_key": "8a266ab79e1dd7e5bb6ff30f115f6a1e:h2h",
+      "event_id": "8a266ab79e1dd7e5bb6ff30f115f6a1e",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Burgos CF",
+      "away_team": "Córdoba",
+      "commence_time": "2026-08-16T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Córdoba",
+      "odds_at_alert": 4.6,
+      "stake_pct": 5.0,
+      "confidence": 17,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T18:42:57.487176+00:00"
+    },
+    {
+      "state_key": "8a266ab79e1dd7e5bb6ff30f115f6a1e:h2h",
+      "event_id": "8a266ab79e1dd7e5bb6ff30f115f6a1e",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Burgos CF",
+      "away_team": "Córdoba",
+      "commence_time": "2026-08-16T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Burgos CF",
+      "odds_at_alert": 5.2,
+      "stake_pct": 2.0,
+      "confidence": 5,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T18:42:57.842671+00:00"
+    },
+    {
+      "state_key": "8a266ab79e1dd7e5bb6ff30f115f6a1e:h2h",
+      "event_id": "8a266ab79e1dd7e5bb6ff30f115f6a1e",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Burgos CF",
+      "away_team": "Córdoba",
+      "commence_time": "2026-08-16T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Córdoba",
+      "odds_at_alert": 4.4,
+      "stake_pct": 3.0,
+      "confidence": 12,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T18:42:58.187068+00:00"
+    },
+    {
+      "state_key": "8a266ab79e1dd7e5bb6ff30f115f6a1e:h2h",
+      "event_id": "8a266ab79e1dd7e5bb6ff30f115f6a1e",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Burgos CF",
+      "away_team": "Córdoba",
+      "commence_time": "2026-08-16T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Burgos CF",
+      "odds_at_alert": 5.6,
+      "stake_pct": 3.0,
+      "confidence": 14,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T18:42:58.541651+00:00"
+    },
+    {
+      "state_key": "8a266ab79e1dd7e5bb6ff30f115f6a1e:h2h",
+      "event_id": "8a266ab79e1dd7e5bb6ff30f115f6a1e",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Burgos CF",
+      "away_team": "Córdoba",
+      "commence_time": "2026-08-16T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Córdoba",
+      "odds_at_alert": 4.8,
+      "stake_pct": 5.0,
+      "confidence": 23,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T18:42:58.894764+00:00"
+    },
+    {
+      "state_key": "8a266ab79e1dd7e5bb6ff30f115f6a1e:h2h",
+      "event_id": "8a266ab79e1dd7e5bb6ff30f115f6a1e",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Burgos CF",
+      "away_team": "Córdoba",
+      "commence_time": "2026-08-16T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Burgos CF",
+      "odds_at_alert": 5.6,
+      "stake_pct": 3.0,
+      "confidence": 14,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T18:42:59.340634+00:00"
+    },
+    {
+      "state_key": "8a266ab79e1dd7e5bb6ff30f115f6a1e:h2h",
+      "event_id": "8a266ab79e1dd7e5bb6ff30f115f6a1e",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Burgos CF",
+      "away_team": "Córdoba",
+      "commence_time": "2026-08-16T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Córdoba",
+      "odds_at_alert": 4.8,
+      "stake_pct": 5.0,
+      "confidence": 23,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T18:42:59.692989+00:00"
+    },
+    {
+      "state_key": "8a266ab79e1dd7e5bb6ff30f115f6a1e:h2h",
+      "event_id": "8a266ab79e1dd7e5bb6ff30f115f6a1e",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Burgos CF",
+      "away_team": "Córdoba",
+      "commence_time": "2026-08-16T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Burgos CF",
+      "odds_at_alert": 5.3,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T18:43:00.017833+00:00"
+    },
+    {
+      "state_key": "8a266ab79e1dd7e5bb6ff30f115f6a1e:h2h",
+      "event_id": "8a266ab79e1dd7e5bb6ff30f115f6a1e",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Burgos CF",
+      "away_team": "Córdoba",
+      "commence_time": "2026-08-16T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Córdoba",
+      "odds_at_alert": 4.6,
+      "stake_pct": 5.0,
+      "confidence": 17,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T18:43:00.409284+00:00"
+    },
+    {
+      "state_key": "8a266ab79e1dd7e5bb6ff30f115f6a1e:h2h",
+      "event_id": "8a266ab79e1dd7e5bb6ff30f115f6a1e",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Burgos CF",
+      "away_team": "Córdoba",
+      "commence_time": "2026-08-16T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Burgos CF",
+      "odds_at_alert": 5.5,
+      "stake_pct": 3.0,
+      "confidence": 12,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T18:43:00.900242+00:00"
+    },
+    {
+      "state_key": "8a266ab79e1dd7e5bb6ff30f115f6a1e:h2h",
+      "event_id": "8a266ab79e1dd7e5bb6ff30f115f6a1e",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Burgos CF",
+      "away_team": "Córdoba",
+      "commence_time": "2026-08-16T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Córdoba",
+      "odds_at_alert": 4.33,
+      "stake_pct": 3.0,
+      "confidence": 11,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T18:43:01.294743+00:00"
+    },
+    {
+      "state_key": "8a266ab79e1dd7e5bb6ff30f115f6a1e:h2h",
+      "event_id": "8a266ab79e1dd7e5bb6ff30f115f6a1e",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Burgos CF",
+      "away_team": "Córdoba",
+      "commence_time": "2026-08-16T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Burgos CF",
+      "odds_at_alert": 6.2,
+      "stake_pct": 5.0,
+      "confidence": 26,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T18:43:01.689787+00:00"
+    },
+    {
+      "state_key": "8a266ab79e1dd7e5bb6ff30f115f6a1e:h2h",
+      "event_id": "8a266ab79e1dd7e5bb6ff30f115f6a1e",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Burgos CF",
+      "away_team": "Córdoba",
+      "commence_time": "2026-08-16T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Córdoba",
+      "odds_at_alert": 4.7,
+      "stake_pct": 5.0,
+      "confidence": 20,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T18:43:02.036881+00:00"
+    },
+    {
+      "state_key": "8a266ab79e1dd7e5bb6ff30f115f6a1e:h2h",
+      "event_id": "8a266ab79e1dd7e5bb6ff30f115f6a1e",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Burgos CF",
+      "away_team": "Córdoba",
+      "commence_time": "2026-08-16T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.1,
+      "stake_pct": 5.0,
+      "confidence": 68,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T18:43:02.374970+00:00"
+    },
+    {
+      "state_key": "5bebf67f8778481d7e7e3a0d5f4843d0:h2h",
+      "event_id": "5bebf67f8778481d7e7e3a0d5f4843d0",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Girona FC",
+      "away_team": "Leganés",
+      "commence_time": "2026-08-16T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Girona FC",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 83,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T18:43:02.698888+00:00"
+    },
+    {
+      "state_key": "5bebf67f8778481d7e7e3a0d5f4843d0:h2h",
+      "event_id": "5bebf67f8778481d7e7e3a0d5f4843d0",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Girona FC",
+      "away_team": "Leganés",
+      "commence_time": "2026-08-16T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.4,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T18:43:03.026660+00:00"
+    },
+    {
+      "state_key": "5bebf67f8778481d7e7e3a0d5f4843d0:h2h",
+      "event_id": "5bebf67f8778481d7e7e3a0d5f4843d0",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Girona FC",
+      "away_team": "Leganés",
+      "commence_time": "2026-08-16T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Girona FC",
+      "odds_at_alert": 16.0,
+      "stake_pct": 5.0,
+      "confidence": 96,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T18:43:03.360709+00:00"
+    },
+    {
+      "state_key": "5bebf67f8778481d7e7e3a0d5f4843d0:h2h",
+      "event_id": "5bebf67f8778481d7e7e3a0d5f4843d0",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Girona FC",
+      "away_team": "Leganés",
+      "commence_time": "2026-08-16T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Girona FC",
+      "odds_at_alert": 19.0,
+      "stake_pct": 5.0,
+      "confidence": 132,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T18:43:03.688250+00:00"
+    },
+    {
+      "state_key": "5bebf67f8778481d7e7e3a0d5f4843d0:h2h",
+      "event_id": "5bebf67f8778481d7e7e3a0d5f4843d0",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Girona FC",
+      "away_team": "Leganés",
+      "commence_time": "2026-08-16T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.8,
+      "stake_pct": 5.0,
+      "confidence": 20,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T18:43:04.008382+00:00"
+    },
+    {
+      "state_key": "5bebf67f8778481d7e7e3a0d5f4843d0:h2h",
+      "event_id": "5bebf67f8778481d7e7e3a0d5f4843d0",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Girona FC",
+      "away_team": "Leganés",
+      "commence_time": "2026-08-16T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Girona FC",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 83,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T18:43:04.355514+00:00"
+    },
+    {
+      "state_key": "5bebf67f8778481d7e7e3a0d5f4843d0:h2h",
+      "event_id": "5bebf67f8778481d7e7e3a0d5f4843d0",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Girona FC",
+      "away_team": "Leganés",
+      "commence_time": "2026-08-16T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.4,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T18:43:04.719544+00:00"
+    },
+    {
+      "state_key": "5bebf67f8778481d7e7e3a0d5f4843d0:h2h",
+      "event_id": "5bebf67f8778481d7e7e3a0d5f4843d0",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Girona FC",
+      "away_team": "Leganés",
+      "commence_time": "2026-08-16T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Girona FC",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 83,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T18:43:05.058783+00:00"
+    },
+    {
+      "state_key": "5bebf67f8778481d7e7e3a0d5f4843d0:h2h",
+      "event_id": "5bebf67f8778481d7e7e3a0d5f4843d0",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Girona FC",
+      "away_team": "Leganés",
+      "commence_time": "2026-08-16T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.4,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T18:43:05.399352+00:00"
+    },
+    {
+      "state_key": "5bebf67f8778481d7e7e3a0d5f4843d0:h2h",
+      "event_id": "5bebf67f8778481d7e7e3a0d5f4843d0",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Girona FC",
+      "away_team": "Leganés",
+      "commence_time": "2026-08-16T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Girona FC",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 83,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T18:43:05.764378+00:00"
+    },
+    {
+      "state_key": "5bebf67f8778481d7e7e3a0d5f4843d0:h2h",
+      "event_id": "5bebf67f8778481d7e7e3a0d5f4843d0",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Girona FC",
+      "away_team": "Leganés",
+      "commence_time": "2026-08-16T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Girona FC",
+      "odds_at_alert": 16.0,
+      "stake_pct": 5.0,
+      "confidence": 96,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T18:43:06.108555+00:00"
+    },
+    {
+      "state_key": "5bebf67f8778481d7e7e3a0d5f4843d0:h2h",
+      "event_id": "5bebf67f8778481d7e7e3a0d5f4843d0",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Girona FC",
+      "away_team": "Leganés",
+      "commence_time": "2026-08-16T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.5,
+      "stake_pct": 3.0,
+      "confidence": 10,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T18:43:06.454612+00:00"
+    },
+    {
+      "state_key": "5bebf67f8778481d7e7e3a0d5f4843d0:h2h",
+      "event_id": "5bebf67f8778481d7e7e3a0d5f4843d0",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Girona FC",
+      "away_team": "Leganés",
+      "commence_time": "2026-08-16T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Girona FC",
+      "odds_at_alert": 19.5,
+      "stake_pct": 5.0,
+      "confidence": 139,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T18:43:06.807624+00:00"
+    },
+    {
+      "state_key": "5bebf67f8778481d7e7e3a0d5f4843d0:h2h",
+      "event_id": "5bebf67f8778481d7e7e3a0d5f4843d0",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Girona FC",
+      "away_team": "Leganés",
+      "commence_time": "2026-08-16T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.65,
+      "stake_pct": 5.0,
+      "confidence": 15,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T18:43:07.161687+00:00"
+    },
+    {
+      "state_key": "5bebf67f8778481d7e7e3a0d5f4843d0:h2h",
+      "event_id": "5bebf67f8778481d7e7e3a0d5f4843d0",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Girona FC",
+      "away_team": "Leganés",
+      "commence_time": "2026-08-16T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Girona FC",
+      "odds_at_alert": 11.5,
+      "stake_pct": 5.0,
+      "confidence": 41,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T18:43:07.509761+00:00"
+    },
+    {
+      "state_key": "5bebf67f8778481d7e7e3a0d5f4843d0:h2h",
+      "event_id": "5bebf67f8778481d7e7e3a0d5f4843d0",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Girona FC",
+      "away_team": "Leganés",
+      "commence_time": "2026-08-16T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Leganés",
+      "odds_at_alert": 5.7,
+      "stake_pct": 5.0,
+      "confidence": 221,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T18:43:07.838098+00:00"
+    },
+    {
+      "state_key": "5bebf67f8778481d7e7e3a0d5f4843d0:h2h",
+      "event_id": "5bebf67f8778481d7e7e3a0d5f4843d0",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Girona FC",
+      "away_team": "Leganés",
+      "commence_time": "2026-08-16T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.8,
+      "stake_pct": 5.0,
+      "confidence": 20,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T18:43:08.182289+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "4071204c42c96090322a93ab1cd1c0cb:h2h|888sport|Draw",
-    "4071204c42c96090322a93ab1cd1c0cb:h2h|888sport|Hartberg",
-    "4071204c42c96090322a93ab1cd1c0cb:h2h|Betclic (FR)|Draw",
-    "4071204c42c96090322a93ab1cd1c0cb:h2h|Betclic (FR)|Hartberg",
-    "4071204c42c96090322a93ab1cd1c0cb:h2h|Betfair|Draw",
-    "4071204c42c96090322a93ab1cd1c0cb:h2h|Betfair|Hartberg",
-    "4071204c42c96090322a93ab1cd1c0cb:h2h|Betsson|Draw",
-    "4071204c42c96090322a93ab1cd1c0cb:h2h|Betsson|Hartberg",
-    "4071204c42c96090322a93ab1cd1c0cb:h2h|Coolbet|Draw",
-    "4071204c42c96090322a93ab1cd1c0cb:h2h|Coolbet|Hartberg",
-    "4071204c42c96090322a93ab1cd1c0cb:h2h|Nordic Bet|Draw",
-    "4071204c42c96090322a93ab1cd1c0cb:h2h|Nordic Bet|Hartberg",
-    "4071204c42c96090322a93ab1cd1c0cb:h2h|Suprabets|Draw",
-    "4071204c42c96090322a93ab1cd1c0cb:h2h|Suprabets|Hartberg",
-    "4071204c42c96090322a93ab1cd1c0cb:h2h|Unibet (NL)|Draw",
-    "4071204c42c96090322a93ab1cd1c0cb:h2h|Unibet (NL)|Hartberg",
-    "4071204c42c96090322a93ab1cd1c0cb:h2h|Unibet (SE)|Draw",
-    "4071204c42c96090322a93ab1cd1c0cb:h2h|Unibet (SE)|Hartberg",
-    "4071204c42c96090322a93ab1cd1c0cb:h2h|Winamax (DE)|Draw",
-    "4071204c42c96090322a93ab1cd1c0cb:h2h|Winamax (DE)|Hartberg",
-    "4071204c42c96090322a93ab1cd1c0cb:h2h|Winamax (FR)|Draw",
-    "4071204c42c96090322a93ab1cd1c0cb:h2h|Winamax (FR)|Hartberg"
+    "5bebf67f8778481d7e7e3a0d5f4843d0:h2h|Betfair|Draw",
+    "5bebf67f8778481d7e7e3a0d5f4843d0:h2h|Betfair|Girona FC",
+    "5bebf67f8778481d7e7e3a0d5f4843d0:h2h|Betsson|Girona FC",
+    "5bebf67f8778481d7e7e3a0d5f4843d0:h2h|Coolbet|Draw",
+    "5bebf67f8778481d7e7e3a0d5f4843d0:h2h|Coolbet|Girona FC",
+    "5bebf67f8778481d7e7e3a0d5f4843d0:h2h|LeoVegas (SE)|Girona FC",
+    "5bebf67f8778481d7e7e3a0d5f4843d0:h2h|Matchbook|Draw",
+    "5bebf67f8778481d7e7e3a0d5f4843d0:h2h|Matchbook|Girona FC",
+    "5bebf67f8778481d7e7e3a0d5f4843d0:h2h|Nordic Bet|Draw",
+    "5bebf67f8778481d7e7e3a0d5f4843d0:h2h|Nordic Bet|Leganés",
+    "5bebf67f8778481d7e7e3a0d5f4843d0:h2h|Tipico|Girona FC",
+    "5bebf67f8778481d7e7e3a0d5f4843d0:h2h|Unibet (NL)|Draw",
+    "5bebf67f8778481d7e7e3a0d5f4843d0:h2h|Unibet (NL)|Girona FC",
+    "5bebf67f8778481d7e7e3a0d5f4843d0:h2h|Unibet (SE)|Draw",
+    "5bebf67f8778481d7e7e3a0d5f4843d0:h2h|Unibet (SE)|Girona FC",
+    "5bebf67f8778481d7e7e3a0d5f4843d0:h2h|Winamax (DE)|Draw",
+    "5bebf67f8778481d7e7e3a0d5f4843d0:h2h|Winamax (DE)|Girona FC",
+    "8a266ab79e1dd7e5bb6ff30f115f6a1e:h2h|Betfair|Burgos CF",
+    "8a266ab79e1dd7e5bb6ff30f115f6a1e:h2h|Betfair|Córdoba",
+    "8a266ab79e1dd7e5bb6ff30f115f6a1e:h2h|Coolbet|Burgos CF",
+    "8a266ab79e1dd7e5bb6ff30f115f6a1e:h2h|Coolbet|Córdoba",
+    "8a266ab79e1dd7e5bb6ff30f115f6a1e:h2h|LeoVegas (SE)|Burgos CF",
+    "8a266ab79e1dd7e5bb6ff30f115f6a1e:h2h|LeoVegas (SE)|Córdoba",
+    "8a266ab79e1dd7e5bb6ff30f115f6a1e:h2h|Matchbook|Burgos CF",
+    "8a266ab79e1dd7e5bb6ff30f115f6a1e:h2h|Matchbook|Córdoba",
+    "8a266ab79e1dd7e5bb6ff30f115f6a1e:h2h|Nordic Bet|Draw",
+    "8a266ab79e1dd7e5bb6ff30f115f6a1e:h2h|PMU (FR)|Burgos CF",
+    "8a266ab79e1dd7e5bb6ff30f115f6a1e:h2h|PMU (FR)|Córdoba",
+    "8a266ab79e1dd7e5bb6ff30f115f6a1e:h2h|Tipico|Burgos CF",
+    "8a266ab79e1dd7e5bb6ff30f115f6a1e:h2h|Unibet (NL)|Burgos CF",
+    "8a266ab79e1dd7e5bb6ff30f115f6a1e:h2h|Unibet (NL)|Córdoba",
+    "8a266ab79e1dd7e5bb6ff30f115f6a1e:h2h|Unibet (SE)|Burgos CF",
+    "8a266ab79e1dd7e5bb6ff30f115f6a1e:h2h|Unibet (SE)|Córdoba"
   ]
 }
