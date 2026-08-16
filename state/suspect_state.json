@@ -1,86 +1,311 @@
 {
   "snapshots": {
-    "48624600b4d0516b051501165e10b761:h2h": {
-      "Betsson": {
-        "Atletico Goianiense": 26.0,
-        "Vila Nova": 1.0,
-        "Draw": 26.0
-      },
-      "Nordic Bet": {
-        "Atletico Goianiense": 1.0,
-        "Vila Nova": 1.0,
-        "Draw": 1.0
-      }
-    },
-    "ae3a6617edb2ebd4a2926c34c9f6e866:h2h": {
-      "Coolbet": {
-        "Ceará": 50.0,
-        "Cuiabá": 1.06,
-        "Draw": 7.75
-      },
-      "Betsson": {
-        "Ceará": 29.0,
-        "Cuiabá": 1.0,
-        "Draw": 26.0
-      },
-      "Nordic Bet": {
-        "Ceará": 1.0,
-        "Cuiabá": 1.0,
-        "Draw": 1.0
-      },
-      "Pinnacle": {
-        "Ceará": 23.21,
-        "Cuiabá": 1.28,
-        "Draw": 4.3
-      },
-      "Betfair": {
-        "Ceará": 1.25,
-        "Cuiabá": 1.01,
-        "Draw": 21.0
-      }
-    },
-    "974d2a6446ee21062f03e97020598d7a:h2h": {
-      "Betsson": {
-        "Criciuma": 1.01,
-        "Goiás": 150.0,
-        "Draw": 13.0
+    "6019cf7d7736d90f1f034b0450d030da:h2h": {
+      "888sport": {
+        "Atlante FC": 3.7,
+        "Toluca": 2.4,
+        "Draw": 2.15
       },
       "Coolbet": {
-        "Criciuma": 1.0,
-        "Goiás": 50.0,
-        "Draw": 16.0
+        "Atlante FC": 4.33,
+        "Toluca": 2.6,
+        "Draw": 2.38
+      },
+      "Betclic (FR)": {
+        "Atlante FC": 3.85,
+        "Toluca": 2.38,
+        "Draw": 2.32
       },
       "Nordic Bet": {
-        "Criciuma": 1.0,
-        "Goiás": 1.0,
-        "Draw": 1.0
+        "Atlante FC": 3.9,
+        "Toluca": 2.5,
+        "Draw": 2.25
+      },
+      "Betsson": {
+        "Atlante FC": 4.1,
+        "Toluca": 2.5,
+        "Draw": 2.2
       },
       "Tipico": {
-        "Criciuma": 1.01,
-        "Goiás": 400.0,
-        "Draw": 25.0
+        "Atlante FC": 4.3,
+        "Toluca": 2.6,
+        "Draw": 2.1
+      },
+      "Unibet (SE)": {
+        "Atlante FC": 4.0,
+        "Toluca": 2.6,
+        "Draw": 2.23
+      },
+      "PMU (FR)": {
+        "Atlante FC": 3.6,
+        "Toluca": 2.32,
+        "Draw": 2.0
+      },
+      "Unibet (NL)": {
+        "Atlante FC": 4.0,
+        "Toluca": 2.6,
+        "Draw": 2.23
+      },
+      "LeoVegas (SE)": {
+        "Atlante FC": 3.7,
+        "Toluca": 2.45,
+        "Draw": 2.14
+      },
+      "Pinnacle": {
+        "Atlante FC": 3.95,
+        "Toluca": 2.45,
+        "Draw": 2.51
+      },
+      "Matchbook": {
+        "Atlante FC": 4.4,
+        "Toluca": 2.64,
+        "Draw": 2.42
       },
       "Betfair": {
-        "Criciuma": 1.02,
-        "Goiás": 5.5,
-        "Draw": 34.0
+        "Atlante FC": 3.75,
+        "Toluca": 2.76,
+        "Draw": 2.5
       }
     },
-    "e66fc4a3dd78ccfaadab3659ad970aad:h2h": {
-      "Betfair": {
-        "Carrarese": 50.0,
-        "Torino": 1.02,
-        "Draw": 26.0
-      },
-      "Winamax (DE)": {
-        "Carrarese": 1000.0,
-        "Torino": 1.01,
-        "Draw": 29.0
+    "cf2d7beb03aa818fba73e06b15081005:h2h": {
+      "Coolbet": {
+        "Atlanta United FC": 4.0,
+        "New York Red Bulls": 1.73,
+        "Draw": 4.0
       },
       "888sport": {
-        "Carrarese": 151.0,
-        "Torino": 1.01,
-        "Draw": 23.0
+        "Atlanta United FC": 3.9,
+        "New York Red Bulls": 1.73,
+        "Draw": 3.8
+      },
+      "Winamax (DE)": {
+        "Atlanta United FC": 4.1,
+        "New York Red Bulls": 1.68,
+        "Draw": 3.7
+      },
+      "Winamax (FR)": {
+        "Atlanta United FC": 4.0,
+        "New York Red Bulls": 1.66,
+        "Draw": 3.55
+      },
+      "Betclic (FR)": {
+        "Atlanta United FC": 4.15,
+        "New York Red Bulls": 1.63,
+        "Draw": 3.7
+      },
+      "Betsson": {
+        "Atlanta United FC": 4.1,
+        "New York Red Bulls": 1.68,
+        "Draw": 3.9
+      },
+      "Nordic Bet": {
+        "Atlanta United FC": 3.9,
+        "New York Red Bulls": 1.72,
+        "Draw": 3.9
+      },
+      "Tipico": {
+        "Atlanta United FC": 4.3,
+        "New York Red Bulls": 1.65,
+        "Draw": 4.0
+      },
+      "PMU (FR)": {
+        "Atlanta United FC": 3.45,
+        "New York Red Bulls": 1.74,
+        "Draw": 3.25
+      },
+      "Unibet (SE)": {
+        "Atlanta United FC": 3.75,
+        "New York Red Bulls": 1.88,
+        "Draw": 3.55
+      },
+      "LeoVegas (SE)": {
+        "Atlanta United FC": 3.65,
+        "New York Red Bulls": 1.82,
+        "Draw": 3.4
+      },
+      "Unibet (NL)": {
+        "Atlanta United FC": 3.75,
+        "New York Red Bulls": 1.88,
+        "Draw": 3.55
+      },
+      "MyBookie.ag": {
+        "Atlanta United FC": 3.95,
+        "New York Red Bulls": 1.7,
+        "Draw": 3.85
+      },
+      "Pinnacle": {
+        "Atlanta United FC": 4.49,
+        "New York Red Bulls": 1.72,
+        "Draw": 3.92
+      },
+      "Betfair": {
+        "Atlanta United FC": 4.5,
+        "New York Red Bulls": 1.84,
+        "Draw": 4.1
+      },
+      "Matchbook": {
+        "Atlanta United FC": 4.2,
+        "New York Red Bulls": 1.83,
+        "Draw": 4.0
+      }
+    },
+    "04b9b6a8ed4f72c2072b326d55310108:h2h": {
+      "Coolbet": {
+        "CF Montreal": 2.4,
+        "D.C. United": 3.14,
+        "Draw": 3.0
+      },
+      "888sport": {
+        "CF Montreal": 2.2,
+        "D.C. United": 3.25,
+        "Draw": 2.9
+      },
+      "Winamax (DE)": {
+        "CF Montreal": 2.15,
+        "D.C. United": 3.2,
+        "Draw": 2.95
+      },
+      "Betclic (FR)": {
+        "CF Montreal": 2.08,
+        "D.C. United": 3.13,
+        "Draw": 3.03
+      },
+      "Betsson": {
+        "CF Montreal": 2.35,
+        "D.C. United": 3.05,
+        "Draw": 2.92
+      },
+      "Nordic Bet": {
+        "CF Montreal": 2.35,
+        "D.C. United": 3.05,
+        "Draw": 2.88
+      },
+      "Tipico": {
+        "CF Montreal": 2.2,
+        "D.C. United": 3.1,
+        "Draw": 3.1
+      },
+      "Unibet (NL)": {
+        "CF Montreal": 2.18,
+        "D.C. United": 3.45,
+        "Draw": 3.0
+      },
+      "LeoVegas (SE)": {
+        "CF Montreal": 2.12,
+        "D.C. United": 3.3,
+        "Draw": 2.9
+      },
+      "Unibet (SE)": {
+        "CF Montreal": 2.18,
+        "D.C. United": 3.45,
+        "Draw": 3.0
+      },
+      "PMU (FR)": {
+        "CF Montreal": 2.02,
+        "D.C. United": 3.2,
+        "Draw": 2.8
+      },
+      "MyBookie.ag": {
+        "CF Montreal": 2.2,
+        "D.C. United": 3.2,
+        "Draw": 3.1
+      },
+      "Pinnacle": {
+        "CF Montreal": 2.27,
+        "D.C. United": 3.33,
+        "Draw": 3.14
+      },
+      "Betfair": {
+        "CF Montreal": 2.38,
+        "D.C. United": 3.55,
+        "Draw": 3.3
+      },
+      "Matchbook": {
+        "CF Montreal": 2.34,
+        "D.C. United": 3.55,
+        "Draw": 3.15
+      }
+    },
+    "5c2f5b559ef265b51ae01949ff1d66b1:h2h": {
+      "Coolbet": {
+        "Charlotte FC": 1.13,
+        "Columbus Crew SC": 16.0,
+        "Draw": 8.0
+      },
+      "888sport": {
+        "Charlotte FC": 1.12,
+        "Columbus Crew SC": 15.0,
+        "Draw": 7.5
+      },
+      "Winamax (DE)": {
+        "Charlotte FC": 1.11,
+        "Columbus Crew SC": 17.0,
+        "Draw": 7.75
+      },
+      "Winamax (FR)": {
+        "Charlotte FC": 1.13,
+        "Columbus Crew SC": 17.0,
+        "Draw": 7.5
+      },
+      "Betclic (FR)": {
+        "Charlotte FC": 1.09,
+        "Columbus Crew SC": 14.75,
+        "Draw": 6.75
+      },
+      "Betsson": {
+        "Charlotte FC": 1.1,
+        "Columbus Crew SC": 16.0,
+        "Draw": 7.7
+      },
+      "Nordic Bet": {
+        "Charlotte FC": 1.1,
+        "Columbus Crew SC": 16.0,
+        "Draw": 7.7
+      },
+      "Tipico": {
+        "Charlotte FC": 1.06,
+        "Columbus Crew SC": 22.0,
+        "Draw": 9.0
+      },
+      "Unibet (SE)": {
+        "Charlotte FC": 1.12,
+        "Columbus Crew SC": 17.0,
+        "Draw": 8.5
+      },
+      "PMU (FR)": {
+        "Charlotte FC": 1.04,
+        "Columbus Crew SC": 15.0,
+        "Draw": 7.5
+      },
+      "LeoVegas (SE)": {
+        "Charlotte FC": 1.09,
+        "Columbus Crew SC": 16.0,
+        "Draw": 8.0
+      },
+      "Unibet (NL)": {
+        "Charlotte FC": 1.1,
+        "Columbus Crew SC": 16.0,
+        "Draw": 8.0
+      },
+      "MyBookie.ag": {
+        "Charlotte FC": 1.12,
+        "Columbus Crew SC": 16.75,
+        "Draw": 7.0
+      },
+      "Pinnacle": {
+        "Charlotte FC": 1.13,
+        "Columbus Crew SC": 19.85,
+        "Draw": 8.41
+      },
+      "Betfair": {
+        "Charlotte FC": 1.16,
+        "Columbus Crew SC": 25.0,
+        "Draw": 9.8
+      },
+      "Matchbook": {
+        "Charlotte FC": 1.15,
+        "Columbus Crew SC": 24.0,
+        "Draw": 9.4
       }
     }
   },
@@ -8469,14 +8694,128 @@
       "confidence": 362,
       "alert_type": "value",
       "alerted_at": "2026-08-15T21:10:51.010779+00:00"
+    },
+    {
+      "state_key": "6019cf7d7736d90f1f034b0450d030da:h2h",
+      "event_id": "6019cf7d7736d90f1f034b0450d030da",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Atlante FC",
+      "away_team": "Toluca",
+      "commence_time": "2026-08-15T23:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Atlante FC",
+      "odds_at_alert": 4.4,
+      "stake_pct": 2.0,
+      "confidence": 5,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T00:12:47.474445+00:00"
+    },
+    {
+      "state_key": "6019cf7d7736d90f1f034b0450d030da:h2h",
+      "event_id": "6019cf7d7736d90f1f034b0450d030da",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Atlante FC",
+      "away_team": "Toluca",
+      "commence_time": "2026-08-15T23:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Toluca",
+      "odds_at_alert": 2.76,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T00:12:47.817962+00:00"
+    },
+    {
+      "state_key": "5c2f5b559ef265b51ae01949ff1d66b1:h2h",
+      "event_id": "5c2f5b559ef265b51ae01949ff1d66b1",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Charlotte FC",
+      "away_team": "Columbus Crew SC",
+      "commence_time": "2026-08-15T23:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Columbus Crew SC",
+      "odds_at_alert": 22.0,
+      "stake_pct": 2.0,
+      "confidence": 5,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T00:12:48.163502+00:00"
+    },
+    {
+      "state_key": "5c2f5b559ef265b51ae01949ff1d66b1:h2h",
+      "event_id": "5c2f5b559ef265b51ae01949ff1d66b1",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Charlotte FC",
+      "away_team": "Columbus Crew SC",
+      "commence_time": "2026-08-15T23:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Columbus Crew SC",
+      "odds_at_alert": 25.0,
+      "stake_pct": 5.0,
+      "confidence": 19,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T00:12:48.496861+00:00"
+    },
+    {
+      "state_key": "5c2f5b559ef265b51ae01949ff1d66b1:h2h",
+      "event_id": "5c2f5b559ef265b51ae01949ff1d66b1",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Charlotte FC",
+      "away_team": "Columbus Crew SC",
+      "commence_time": "2026-08-15T23:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 9.8,
+      "stake_pct": 3.0,
+      "confidence": 11,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T00:12:48.838901+00:00"
+    },
+    {
+      "state_key": "5c2f5b559ef265b51ae01949ff1d66b1:h2h",
+      "event_id": "5c2f5b559ef265b51ae01949ff1d66b1",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Charlotte FC",
+      "away_team": "Columbus Crew SC",
+      "commence_time": "2026-08-15T23:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Columbus Crew SC",
+      "odds_at_alert": 24.0,
+      "stake_pct": 3.0,
+      "confidence": 15,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T00:12:49.185393+00:00"
+    },
+    {
+      "state_key": "5c2f5b559ef265b51ae01949ff1d66b1:h2h",
+      "event_id": "5c2f5b559ef265b51ae01949ff1d66b1",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Charlotte FC",
+      "away_team": "Columbus Crew SC",
+      "commence_time": "2026-08-15T23:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 9.4,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T00:12:49.520299+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "ae3a6617edb2ebd4a2926c34c9f6e866:h2h|Betfair|Draw",
-    "ae3a6617edb2ebd4a2926c34c9f6e866:h2h|Betsson|Ceará",
-    "ae3a6617edb2ebd4a2926c34c9f6e866:h2h|Betsson|Draw",
-    "ae3a6617edb2ebd4a2926c34c9f6e866:h2h|Coolbet|Ceará",
-    "ae3a6617edb2ebd4a2926c34c9f6e866:h2h|Coolbet|Draw"
+    "5c2f5b559ef265b51ae01949ff1d66b1:h2h|Betfair|Columbus Crew SC",
+    "5c2f5b559ef265b51ae01949ff1d66b1:h2h|Betfair|Draw",
+    "5c2f5b559ef265b51ae01949ff1d66b1:h2h|Matchbook|Columbus Crew SC",
+    "5c2f5b559ef265b51ae01949ff1d66b1:h2h|Matchbook|Draw",
+    "5c2f5b559ef265b51ae01949ff1d66b1:h2h|Tipico|Columbus Crew SC",
+    "6019cf7d7736d90f1f034b0450d030da:h2h|Betfair|Toluca",
+    "6019cf7d7736d90f1f034b0450d030da:h2h|Matchbook|Atlante FC"
   ]
 }
