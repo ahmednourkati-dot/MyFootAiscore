@@ -1,395 +1,360 @@
 {
   "snapshots": {
     "e7058353789b7cf1130a7709f703f2b5:h2h": {
-      "Codere (IT)": {
-        "ADO Den Haag": 2.75,
-        "Groningen": 2.41,
-        "Draw": 3.6
-      },
-      "1xBet": {
-        "ADO Den Haag": 2.79,
-        "Groningen": 2.49,
-        "Draw": 3.54
-      },
       "Coolbet": {
-        "ADO Den Haag": 2.65,
-        "Groningen": 2.45,
-        "Draw": 3.75
-      },
-      "Unibet (FR)": {
-        "ADO Den Haag": 2.65,
-        "Groningen": 2.3,
-        "Draw": 3.5
+        "ADO Den Haag": 5.5,
+        "Groningen": 1.62,
+        "Draw": 4.33
       },
       "Winamax (DE)": {
-        "ADO Den Haag": 2.6,
-        "Groningen": 2.3,
-        "Draw": 3.55
+        "ADO Den Haag": 4.8,
+        "Groningen": 1.58,
+        "Draw": 3.75
       },
       "Betfair": {
-        "ADO Den Haag": 2.88,
-        "Groningen": 2.54,
-        "Draw": 3.7
-      },
-      "Marathon Bet": {
-        "ADO Den Haag": 2.71,
-        "Groningen": 2.42,
-        "Draw": 3.44
+        "ADO Den Haag": 5.7,
+        "Groningen": 1.68,
+        "Draw": 4.2
       },
       "888sport": {
-        "ADO Den Haag": 2.62,
-        "Groningen": 2.38,
-        "Draw": 3.4
-      },
-      "William Hill": {
-        "ADO Den Haag": 2.62,
-        "Groningen": 2.38,
-        "Draw": 3.4
+        "ADO Den Haag": 4.6,
+        "Groningen": 1.61,
+        "Draw": 3.75
       },
       "Pinnacle": {
-        "ADO Den Haag": 2.8,
-        "Groningen": 2.49,
-        "Draw": 3.63
-      },
-      "BetOnline.ag": {
-        "ADO Den Haag": 2.73,
-        "Groningen": 2.47,
-        "Draw": 3.6
+        "ADO Den Haag": 5.51,
+        "Groningen": 1.58,
+        "Draw": 3.93
       },
       "Betsson": {
-        "ADO Den Haag": 2.72,
-        "Groningen": 2.48,
-        "Draw": 3.5
-      },
-      "Nordic Bet": {
-        "ADO Den Haag": 2.72,
-        "Groningen": 2.48,
-        "Draw": 3.5
-      },
-      "Tipico": {
-        "ADO Den Haag": 2.8,
-        "Groningen": 2.35,
-        "Draw": 3.5
-      },
-      "LeoVegas (SE)": {
-        "ADO Den Haag": 2.55,
-        "Groningen": 2.35,
-        "Draw": 3.3
-      },
-      "Unibet (NL)": {
-        "ADO Den Haag": 2.8,
-        "Groningen": 2.55,
+        "ADO Den Haag": 4.6,
+        "Groningen": 1.62,
         "Draw": 3.65
       },
+      "Nordic Bet": {
+        "ADO Den Haag": 4.6,
+        "Groningen": 1.62,
+        "Draw": 3.65
+      },
+      "Tipico": {
+        "ADO Den Haag": 5.2,
+        "Groningen": 1.5,
+        "Draw": 4.3
+      },
+      "LeoVegas (SE)": {
+        "ADO Den Haag": 4.6,
+        "Groningen": 1.56,
+        "Draw": 3.65
+      },
+      "Unibet (NL)": {
+        "ADO Den Haag": 4.9,
+        "Groningen": 1.64,
+        "Draw": 3.8
+      },
       "PMU (FR)": {
-        "ADO Den Haag": 2.6,
-        "Groningen": 2.38,
-        "Draw": 3.35
+        "ADO Den Haag": 4.5,
+        "Groningen": 1.51,
+        "Draw": 3.5
       },
       "Unibet (SE)": {
-        "ADO Den Haag": 2.65,
-        "Groningen": 2.43,
-        "Draw": 3.45
-      },
-      "BetAnything": {
-        "ADO Den Haag": 2.73,
-        "Groningen": 2.47,
-        "Draw": 3.6
+        "ADO Den Haag": 4.6,
+        "Groningen": 1.68,
+        "Draw": 3.7
       },
       "Matchbook": {
-        "ADO Den Haag": 2.86,
-        "Groningen": 2.54,
-        "Draw": 3.7
+        "ADO Den Haag": 5.6,
+        "Groningen": 1.67,
+        "Draw": 4.3
       }
     },
     "71f3d835fcbd6f23b0f6ff88b240699b:h2h": {
       "Unibet (NL)": {
-        "Bucheon FC 1995": 4.35,
-        "Jeonbuk Hyundai Motors": 1.67,
+        "Bucheon FC 1995": 4.0,
+        "Jeonbuk Hyundai Motors": 1.77,
         "Draw": 3.4
       },
       "Unibet (SE)": {
-        "Bucheon FC 1995": 4.35,
-        "Jeonbuk Hyundai Motors": 1.67,
+        "Bucheon FC 1995": 4.0,
+        "Jeonbuk Hyundai Motors": 1.77,
         "Draw": 3.4
       },
       "LeoVegas (SE)": {
-        "Bucheon FC 1995": 4.35,
-        "Jeonbuk Hyundai Motors": 1.66,
-        "Draw": 3.4
+        "Bucheon FC 1995": 3.95,
+        "Jeonbuk Hyundai Motors": 1.65,
+        "Draw": 3.2
       },
       "PMU (FR)": {
-        "Bucheon FC 1995": 4.2,
-        "Jeonbuk Hyundai Motors": 1.6,
-        "Draw": 3.25
+        "Bucheon FC 1995": 3.8,
+        "Jeonbuk Hyundai Motors": 1.62,
+        "Draw": 3.05
       },
       "Betsson": {
-        "Bucheon FC 1995": 4.8,
-        "Jeonbuk Hyundai Motors": 1.62,
-        "Draw": 3.55
+        "Bucheon FC 1995": 4.2,
+        "Jeonbuk Hyundai Motors": 1.8,
+        "Draw": 3.3
       },
       "Nordic Bet": {
-        "Bucheon FC 1995": 4.8,
-        "Jeonbuk Hyundai Motors": 1.62,
-        "Draw": 3.55
+        "Bucheon FC 1995": 4.2,
+        "Jeonbuk Hyundai Motors": 1.8,
+        "Draw": 3.3
       },
       "Betclic (FR)": {
-        "Bucheon FC 1995": 4.8,
-        "Jeonbuk Hyundai Motors": 1.62,
-        "Draw": 3.68
+        "Bucheon FC 1995": 4.2,
+        "Jeonbuk Hyundai Motors": 1.75,
+        "Draw": 3.4
       },
       "Winamax (FR)": {
-        "Bucheon FC 1995": 4.5,
-        "Jeonbuk Hyundai Motors": 1.6,
-        "Draw": 3.65
+        "Bucheon FC 1995": 3.9,
+        "Jeonbuk Hyundai Motors": 1.74,
+        "Draw": 3.3
       },
       "Winamax (DE)": {
-        "Bucheon FC 1995": 4.6,
-        "Jeonbuk Hyundai Motors": 1.62,
-        "Draw": 3.75
+        "Bucheon FC 1995": 4.0,
+        "Jeonbuk Hyundai Motors": 1.78,
+        "Draw": 3.4
       },
       "Pinnacle": {
-        "Bucheon FC 1995": 5.34,
-        "Jeonbuk Hyundai Motors": 1.67,
-        "Draw": 4.0
+        "Bucheon FC 1995": 4.65,
+        "Jeonbuk Hyundai Motors": 1.81,
+        "Draw": 3.72
       },
       "1xBet": {
-        "Bucheon FC 1995": 5.08,
-        "Jeonbuk Hyundai Motors": 1.65,
-        "Draw": 3.78
+        "Bucheon FC 1995": 4.6,
+        "Jeonbuk Hyundai Motors": 1.76,
+        "Draw": 3.74
       },
       "Marathon Bet": {
-        "Bucheon FC 1995": 5.15,
-        "Jeonbuk Hyundai Motors": 1.63,
-        "Draw": 3.78
-      },
-      "Tipico": {
-        "Bucheon FC 1995": 5.0,
-        "Jeonbuk Hyundai Motors": 1.62,
-        "Draw": 3.7
-      },
-      "Unibet (FR)": {
-        "Bucheon FC 1995": 4.8,
-        "Jeonbuk Hyundai Motors": 1.59,
-        "Draw": 3.7
-      },
-      "William Hill": {
-        "Bucheon FC 1995": 4.8,
-        "Jeonbuk Hyundai Motors": 1.65,
+        "Bucheon FC 1995": 4.45,
+        "Jeonbuk Hyundai Motors": 1.76,
         "Draw": 3.6
       },
-      "BetOnline.ag": {
-        "Bucheon FC 1995": 5.0,
+      "Tipico": {
+        "Bucheon FC 1995": 4.7,
+        "Jeonbuk Hyundai Motors": 1.7,
+        "Draw": 3.4
+      },
+      "Unibet (FR)": {
+        "Bucheon FC 1995": 4.3,
         "Jeonbuk Hyundai Motors": 1.67,
-        "Draw": 3.9
+        "Draw": 3.5
+      },
+      "William Hill": {
+        "Bucheon FC 1995": 4.2,
+        "Jeonbuk Hyundai Motors": 1.8,
+        "Draw": 3.4
+      },
+      "BetOnline.ag": {
+        "Bucheon FC 1995": 4.3,
+        "Jeonbuk Hyundai Motors": 1.83,
+        "Draw": 3.65
       },
       "Coolbet": {
-        "Bucheon FC 1995": 5.0,
-        "Jeonbuk Hyundai Motors": 1.68,
-        "Draw": 3.75
+        "Bucheon FC 1995": 4.33,
+        "Jeonbuk Hyundai Motors": 1.8,
+        "Draw": 3.4
       },
       "Betfair": {
-        "Bucheon FC 1995": 5.7,
-        "Jeonbuk Hyundai Motors": 1.7,
-        "Draw": 3.95
+        "Bucheon FC 1995": 4.6,
+        "Jeonbuk Hyundai Motors": 1.86,
+        "Draw": 3.85
       },
       "Matchbook": {
-        "Bucheon FC 1995": 5.7,
-        "Jeonbuk Hyundai Motors": 1.71,
-        "Draw": 4.0
+        "Bucheon FC 1995": 4.6,
+        "Jeonbuk Hyundai Motors": 1.88,
+        "Draw": 3.8
       }
     },
     "2238dcca465c6c0ffe8f74648b5c76db:h2h": {
       "Unibet (NL)": {
-        "Gangwon FC": 2.65,
-        "Ulsan Hyundai FC": 2.35,
-        "Draw": 3.05
+        "Gangwon FC": 2.9,
+        "Ulsan Hyundai FC": 2.28,
+        "Draw": 3.1
       },
       "LeoVegas (SE)": {
-        "Gangwon FC": 2.65,
-        "Ulsan Hyundai FC": 2.35,
-        "Draw": 3.05
-      },
-      "Unibet (SE)": {
-        "Gangwon FC": 2.65,
-        "Ulsan Hyundai FC": 2.35,
-        "Draw": 3.05
-      },
-      "PMU (FR)": {
-        "Gangwon FC": 2.55,
-        "Ulsan Hyundai FC": 2.28,
+        "Gangwon FC": 2.75,
+        "Ulsan Hyundai FC": 2.12,
         "Draw": 2.95
       },
+      "Unibet (SE)": {
+        "Gangwon FC": 2.9,
+        "Ulsan Hyundai FC": 2.28,
+        "Draw": 3.1
+      },
+      "PMU (FR)": {
+        "Gangwon FC": 2.65,
+        "Ulsan Hyundai FC": 2.07,
+        "Draw": 2.85
+      },
       "Betsson": {
-        "Gangwon FC": 3.0,
-        "Ulsan Hyundai FC": 2.2,
-        "Draw": 3.15
+        "Gangwon FC": 2.88,
+        "Ulsan Hyundai FC": 2.45,
+        "Draw": 2.92
       },
       "Nordic Bet": {
-        "Gangwon FC": 3.0,
-        "Ulsan Hyundai FC": 2.2,
-        "Draw": 3.15
+        "Gangwon FC": 2.88,
+        "Ulsan Hyundai FC": 2.45,
+        "Draw": 2.92
       },
       "Betclic (FR)": {
-        "Gangwon FC": 3.07,
-        "Ulsan Hyundai FC": 2.15,
-        "Draw": 3.22
+        "Gangwon FC": 2.85,
+        "Ulsan Hyundai FC": 2.45,
+        "Draw": 3.0
       },
       "Winamax (FR)": {
-        "Gangwon FC": 2.9,
-        "Ulsan Hyundai FC": 2.15,
-        "Draw": 3.25
+        "Gangwon FC": 2.7,
+        "Ulsan Hyundai FC": 2.35,
+        "Draw": 2.85
       },
       "Winamax (DE)": {
-        "Gangwon FC": 2.95,
-        "Ulsan Hyundai FC": 2.15,
-        "Draw": 3.3
+        "Gangwon FC": 2.8,
+        "Ulsan Hyundai FC": 2.4,
+        "Draw": 2.95
       },
       "Pinnacle": {
-        "Gangwon FC": 3.33,
-        "Ulsan Hyundai FC": 2.24,
-        "Draw": 3.49
+        "Gangwon FC": 3.07,
+        "Ulsan Hyundai FC": 2.6,
+        "Draw": 3.11
       },
       "1xBet": {
-        "Gangwon FC": 3.19,
-        "Ulsan Hyundai FC": 2.23,
-        "Draw": 3.28
+        "Gangwon FC": 3.11,
+        "Ulsan Hyundai FC": 2.48,
+        "Draw": 3.06
       },
       "Marathon Bet": {
-        "Gangwon FC": 3.18,
-        "Ulsan Hyundai FC": 2.21,
-        "Draw": 3.28
+        "Gangwon FC": 2.95,
+        "Ulsan Hyundai FC": 2.49,
+        "Draw": 3.02
       },
       "BetOnline.ag": {
-        "Gangwon FC": 3.25,
-        "Ulsan Hyundai FC": 2.19,
-        "Draw": 3.4
+        "Gangwon FC": 2.96,
+        "Ulsan Hyundai FC": 2.6,
+        "Draw": 3.0
       },
       "Tipico": {
-        "Gangwon FC": 3.2,
-        "Ulsan Hyundai FC": 2.15,
-        "Draw": 3.3
+        "Gangwon FC": 3.1,
+        "Ulsan Hyundai FC": 2.3,
+        "Draw": 3.0
       },
       "Unibet (FR)": {
-        "Gangwon FC": 3.0,
-        "Ulsan Hyundai FC": 2.1,
-        "Draw": 3.2
+        "Gangwon FC": 2.85,
+        "Ulsan Hyundai FC": 2.3,
+        "Draw": 3.0
       },
       "William Hill": {
-        "Gangwon FC": 3.0,
-        "Ulsan Hyundai FC": 2.2,
-        "Draw": 3.25
+        "Gangwon FC": 2.9,
+        "Ulsan Hyundai FC": 2.45,
+        "Draw": 2.9
       },
       "Coolbet": {
         "Gangwon FC": 3.0,
-        "Ulsan Hyundai FC": 2.3,
-        "Draw": 3.4
+        "Ulsan Hyundai FC": 2.5,
+        "Draw": 3.0
       },
       "Betfair": {
-        "Gangwon FC": 3.45,
-        "Ulsan Hyundai FC": 2.28,
-        "Draw": 3.5
+        "Gangwon FC": 2.84,
+        "Ulsan Hyundai FC": 2.66,
+        "Draw": 3.15
       },
       "Matchbook": {
-        "Gangwon FC": 3.45,
-        "Ulsan Hyundai FC": 2.28,
-        "Draw": 3.5
+        "Gangwon FC": 3.1,
+        "Ulsan Hyundai FC": 2.72,
+        "Draw": 3.1
       }
     },
     "4135b007000cfcd365dfc48d6370bd73:h2h": {
       "Unibet (NL)": {
-        "Incheon United": 2.05,
-        "Sangju Sangmu FC": 3.2,
-        "Draw": 3.05
+        "Incheon United": 2.1,
+        "Sangju Sangmu FC": 3.25,
+        "Draw": 3.1
       },
       "Unibet (SE)": {
-        "Incheon United": 2.05,
-        "Sangju Sangmu FC": 3.2,
-        "Draw": 3.05
+        "Incheon United": 2.1,
+        "Sangju Sangmu FC": 3.25,
+        "Draw": 3.1
       },
       "LeoVegas (SE)": {
-        "Incheon United": 2.04,
-        "Sangju Sangmu FC": 3.15,
-        "Draw": 3.05
+        "Incheon United": 1.96,
+        "Sangju Sangmu FC": 3.1,
+        "Draw": 2.9
       },
       "PMU (FR)": {
-        "Incheon United": 1.96,
-        "Sangju Sangmu FC": 3.05,
-        "Draw": 2.95
+        "Incheon United": 1.92,
+        "Sangju Sangmu FC": 3.0,
+        "Draw": 2.85
       },
       "Betsson": {
         "Incheon United": 2.15,
-        "Sangju Sangmu FC": 3.25,
-        "Draw": 3.0
+        "Sangju Sangmu FC": 3.3,
+        "Draw": 3.05
       },
       "Winamax (FR)": {
-        "Incheon United": 2.1,
-        "Sangju Sangmu FC": 3.15,
-        "Draw": 3.1
-      },
-      "Nordic Bet": {
-        "Incheon United": 2.15,
-        "Sangju Sangmu FC": 3.25,
-        "Draw": 3.0
-      },
-      "Betclic (FR)": {
-        "Incheon United": 2.13,
-        "Sangju Sangmu FC": 3.27,
-        "Draw": 3.08
-      },
-      "Winamax (DE)": {
-        "Incheon United": 2.15,
-        "Sangju Sangmu FC": 3.2,
-        "Draw": 3.15
-      },
-      "Pinnacle": {
-        "Incheon United": 2.27,
-        "Sangju Sangmu FC": 3.55,
-        "Draw": 3.21
-      },
-      "1xBet": {
-        "Incheon United": 2.2,
-        "Sangju Sangmu FC": 3.4,
-        "Draw": 3.12
-      },
-      "Marathon Bet": {
-        "Incheon United": 2.19,
-        "Sangju Sangmu FC": 3.38,
-        "Draw": 3.12
-      },
-      "BetOnline.ag": {
-        "Incheon United": 2.22,
-        "Sangju Sangmu FC": 3.5,
-        "Draw": 3.1
-      },
-      "Tipico": {
-        "Incheon United": 2.15,
-        "Sangju Sangmu FC": 3.4,
-        "Draw": 3.1
-      },
-      "Unibet (FR)": {
-        "Incheon United": 2.1,
-        "Sangju Sangmu FC": 3.3,
-        "Draw": 3.1
-      },
-      "William Hill": {
-        "Incheon United": 2.2,
+        "Incheon United": 2.0,
         "Sangju Sangmu FC": 3.3,
         "Draw": 2.9
       },
+      "Nordic Bet": {
+        "Incheon United": 2.1,
+        "Sangju Sangmu FC": 3.4,
+        "Draw": 3.05
+      },
+      "Betclic (FR)": {
+        "Incheon United": 2.1,
+        "Sangju Sangmu FC": 3.35,
+        "Draw": 3.0
+      },
+      "Winamax (DE)": {
+        "Incheon United": 2.1,
+        "Sangju Sangmu FC": 3.4,
+        "Draw": 3.0
+      },
+      "Pinnacle": {
+        "Incheon United": 2.34,
+        "Sangju Sangmu FC": 3.42,
+        "Draw": 3.2
+      },
+      "1xBet": {
+        "Incheon United": 2.18,
+        "Sangju Sangmu FC": 3.63,
+        "Draw": 3.14
+      },
+      "Marathon Bet": {
+        "Incheon United": 2.21,
+        "Sangju Sangmu FC": 3.4,
+        "Draw": 3.08
+      },
+      "BetOnline.ag": {
+        "Incheon United": 2.26,
+        "Sangju Sangmu FC": 3.45,
+        "Draw": 3.05
+      },
+      "Tipico": {
+        "Incheon United": 1.95,
+        "Sangju Sangmu FC": 3.8,
+        "Draw": 3.1
+      },
+      "Unibet (FR)": {
+        "Incheon United": 2.05,
+        "Sangju Sangmu FC": 3.3,
+        "Draw": 3.0
+      },
+      "William Hill": {
+        "Incheon United": 2.2,
+        "Sangju Sangmu FC": 3.4,
+        "Draw": 2.9
+      },
       "Coolbet": {
-        "Incheon United": 2.25,
-        "Sangju Sangmu FC": 3.25,
-        "Draw": 3.3
+        "Incheon United": 2.2,
+        "Sangju Sangmu FC": 3.6,
+        "Draw": 3.0
       },
       "Betfair": {
-        "Incheon United": 2.32,
-        "Sangju Sangmu FC": 3.65,
-        "Draw": 3.25
+        "Incheon United": 2.2,
+        "Sangju Sangmu FC": 3.85,
+        "Draw": 3.35
       },
       "Matchbook": {
-        "Incheon United": 2.32,
-        "Sangju Sangmu FC": 3.6,
+        "Incheon United": 2.2,
+        "Sangju Sangmu FC": 3.9,
         "Draw": 3.25
       }
     }
@@ -7979,10 +7944,61 @@
       "confidence": 9,
       "alert_type": "value",
       "alerted_at": "2026-08-16T04:46:32.611171+00:00"
+    },
+    {
+      "state_key": "4135b007000cfcd365dfc48d6370bd73:h2h",
+      "event_id": "4135b007000cfcd365dfc48d6370bd73",
+      "sport_key": "soccer",
+      "competition": "K League 1",
+      "home_team": "Incheon United",
+      "away_team": "Sangju Sangmu FC",
+      "commence_time": "2026-08-16T10:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sangju Sangmu FC",
+      "odds_at_alert": 3.8,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T10:34:39.958608+00:00"
+    },
+    {
+      "state_key": "4135b007000cfcd365dfc48d6370bd73:h2h",
+      "event_id": "4135b007000cfcd365dfc48d6370bd73",
+      "sport_key": "soccer",
+      "competition": "K League 1",
+      "home_team": "Incheon United",
+      "away_team": "Sangju Sangmu FC",
+      "commence_time": "2026-08-16T10:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sangju Sangmu FC",
+      "odds_at_alert": 3.85,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T10:34:40.436489+00:00"
+    },
+    {
+      "state_key": "4135b007000cfcd365dfc48d6370bd73:h2h",
+      "event_id": "4135b007000cfcd365dfc48d6370bd73",
+      "sport_key": "soccer",
+      "competition": "K League 1",
+      "home_team": "Incheon United",
+      "away_team": "Sangju Sangmu FC",
+      "commence_time": "2026-08-16T10:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sangju Sangmu FC",
+      "odds_at_alert": 3.9,
+      "stake_pct": 3.0,
+      "confidence": 10,
+      "alert_type": "value",
+      "alerted_at": "2026-08-16T10:34:40.916640+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
+    "4135b007000cfcd365dfc48d6370bd73:h2h|Betfair|Sangju Sangmu FC",
+    "4135b007000cfcd365dfc48d6370bd73:h2h|Matchbook|Sangju Sangmu FC",
+    "4135b007000cfcd365dfc48d6370bd73:h2h|Tipico|Sangju Sangmu FC",
     "71f3d835fcbd6f23b0f6ff88b240699b:h2h|Matchbook|Bucheon FC 1995"
   ]
 }
