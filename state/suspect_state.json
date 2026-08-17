@@ -2,9 +2,9 @@
   "snapshots": {
     "3207f5ea4e92594162cdf716b7953261:h2h": {
       "Pinnacle": {
-        "IF Gnistan": 2.54,
+        "IF Gnistan": 2.53,
         "Ilves Tampere": 2.72,
-        "Draw": 3.67
+        "Draw": 3.69
       },
       "1xBet": {
         "IF Gnistan": 2.42,
@@ -77,18 +77,18 @@
         "Draw": 3.75
       },
       "Betfair": {
-        "IF Gnistan": 2.62,
-        "Ilves Tampere": 2.72,
+        "IF Gnistan": 2.56,
+        "Ilves Tampere": 2.78,
         "Draw": 3.85
       },
       "BetAnything": {
-        "IF Gnistan": 2.48,
-        "Ilves Tampere": 2.68,
-        "Draw": 3.55
+        "IF Gnistan": 2.52,
+        "Ilves Tampere": 2.62,
+        "Draw": 3.6
       },
       "Matchbook": {
-        "IF Gnistan": 2.62,
-        "Ilves Tampere": 2.72,
+        "IF Gnistan": 2.58,
+        "Ilves Tampere": 2.78,
         "Draw": 3.85
       }
     },
@@ -104,9 +104,9 @@
         "Draw": 3.4
       },
       "Pinnacle": {
-        "Empoli": 4.42,
-        "Pisa": 1.89,
-        "Draw": 3.5
+        "Empoli": 4.39,
+        "Pisa": 1.9,
+        "Draw": 3.49
       },
       "888sport": {
         "Empoli": 4.0,
@@ -129,8 +129,8 @@
         "Draw": 3.5
       },
       "Betfair": {
-        "Empoli": 4.6,
-        "Pisa": 1.93,
+        "Empoli": 4.8,
+        "Pisa": 1.92,
         "Draw": 3.65
       },
       "Codere (IT)": {
@@ -151,7 +151,7 @@
     },
     "f1c8f6739a37b8a672b30ddc81d6bf27:h2h": {
       "Pinnacle": {
-        "Cesena FC": 5.83,
+        "Cesena FC": 5.84,
         "Sassuolo": 1.52,
         "Draw": 4.71
       },
@@ -161,13 +161,13 @@
         "Draw": 4.4
       },
       "Tipico": {
-        "Cesena FC": 5.5,
-        "Sassuolo": 1.47,
+        "Cesena FC": 5.8,
+        "Sassuolo": 1.45,
         "Draw": 4.4
       },
       "Betfair": {
-        "Cesena FC": 6.8,
-        "Sassuolo": 1.53,
+        "Cesena FC": 6.6,
+        "Sassuolo": 1.55,
         "Draw": 4.7
       },
       "1xBet": {
@@ -209,8 +209,8 @@
     "5a522fe54ae01be40f5c1969281e05b0:h2h": {
       "1xBet": {
         "BK Hacken": 1.31,
-        "Halmstads BK": 8.2,
-        "Draw": 5.5
+        "Halmstads BK": 7.9,
+        "Draw": 5.6
       },
       "Unibet (FR)": {
         "BK Hacken": 1.28,
@@ -224,7 +224,7 @@
       },
       "Betfair": {
         "BK Hacken": 1.35,
-        "Halmstads BK": 9.2,
+        "Halmstads BK": 9.4,
         "Draw": 6.0
       },
       "Winamax (FR)": {
@@ -298,18 +298,18 @@
         "Draw": 5.5
       },
       "BetOnline.ag": {
-        "BK Hacken": 1.31,
-        "Halmstads BK": 7.8,
-        "Draw": 5.8
+        "BK Hacken": 1.32,
+        "Halmstads BK": 8.4,
+        "Draw": 5.4
       },
       "BetAnything": {
-        "BK Hacken": 1.31,
-        "Halmstads BK": 7.8,
-        "Draw": 5.8
+        "BK Hacken": 1.32,
+        "Halmstads BK": 8.4,
+        "Draw": 5.4
       },
       "Matchbook": {
         "BK Hacken": 1.35,
-        "Halmstads BK": 9.2,
+        "Halmstads BK": 9.4,
         "Draw": 6.0
       }
     }
@@ -9867,12 +9867,29 @@
       "confidence": 5,
       "alert_type": "value",
       "alerted_at": "2026-08-17T07:12:38.746132+00:00"
+    },
+    {
+      "state_key": "d959c34229a55dc1fee9812185d7ed5d:h2h",
+      "event_id": "d959c34229a55dc1fee9812185d7ed5d",
+      "sport_key": "soccer",
+      "competition": "Coppa Italia",
+      "home_team": "Pisa",
+      "away_team": "Empoli",
+      "commence_time": "2026-08-17T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Empoli",
+      "odds_at_alert": 4.8,
+      "stake_pct": 2.0,
+      "confidence": 5,
+      "alert_type": "value",
+      "alerted_at": "2026-08-17T08:56:39.467891+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
     "5a522fe54ae01be40f5c1969281e05b0:h2h|Betfair|Halmstads BK",
     "5a522fe54ae01be40f5c1969281e05b0:h2h|Matchbook|Halmstads BK",
+    "d959c34229a55dc1fee9812185d7ed5d:h2h|Betfair|Empoli",
     "f1c8f6739a37b8a672b30ddc81d6bf27:h2h|Betfair|Cesena FC"
   ]
 }
