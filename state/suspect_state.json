@@ -1,221 +1,336 @@
 {
   "snapshots": {
-    "4b7e118e8b4da87694adfd9b8a75a1f9:h2h": {
-      "Winamax (FR)": {
-        "Goztepe": 38.0,
-        "Samsunspor": 32.0,
-        "Draw": 1.02
-      },
-      "Tipico": {
-        "Goztepe": 30.0,
-        "Samsunspor": 20.0,
-        "Draw": 1.02
-      },
-      "Betclic (FR)": {
-        "Goztepe": 16.0,
-        "Samsunspor": 14.0,
-        "Draw": 1.03
-      },
-      "Nordic Bet": {
-        "Goztepe": 26.0,
-        "Samsunspor": 14.0,
-        "Draw": 1.05
+    "9c7d6ce4e925c3ef8e007b18fe763b09:h2h": {
+      "Betfair": {
+        "Defensa y Justicia": 14.5,
+        "Velez Sarsfield BA": 1.31,
+        "Draw": 5.8
       },
       "Winamax (DE)": {
-        "Goztepe": 27.0,
-        "Samsunspor": 22.0,
-        "Draw": 1.03
+        "Defensa y Justicia": 10.0,
+        "Velez Sarsfield BA": 1.25,
+        "Draw": 5.0
       },
-      "Betsson": {
-        "Goztepe": 26.0,
-        "Samsunspor": 14.0,
-        "Draw": 1.05
+      "Winamax (FR)": {
+        "Defensa y Justicia": 9.5,
+        "Velez Sarsfield BA": 1.26,
+        "Draw": 4.7
       },
-      "Coolbet": {
-        "Goztepe": 40.0,
-        "Samsunspor": 30.0,
-        "Draw": 1.02
-      },
-      "Betfair": {
-        "Goztepe": 80.0,
-        "Samsunspor": 29.0,
-        "Draw": 1.03
-      },
-      "888sport": {
-        "Goztepe": 13.0,
-        "Samsunspor": 10.0,
-        "Draw": 1.11
+      "Betclic (FR)": {
+        "Defensa y Justicia": 9.75,
+        "Velez Sarsfield BA": 1.23,
+        "Draw": 4.8
       },
       "Unibet (SE)": {
-        "Goztepe": 31.0,
-        "Samsunspor": 17.0,
-        "Draw": 1.02
+        "Defensa y Justicia": 11.0,
+        "Velez Sarsfield BA": 1.27,
+        "Draw": 5.0
       },
       "LeoVegas (SE)": {
-        "Goztepe": 15.0,
-        "Samsunspor": 10.0,
-        "Draw": 1.02
+        "Defensa y Justicia": 10.0,
+        "Velez Sarsfield BA": 1.21,
+        "Draw": 4.7
       },
-      "PMU (FR)": {
-        "Goztepe": 15.0,
-        "Samsunspor": 10.0,
-        "Draw": 1.01
+      "Betsson": {
+        "Defensa y Justicia": 10.5,
+        "Velez Sarsfield BA": 1.26,
+        "Draw": 4.85
       },
-      "Unibet (NL)": {
-        "Goztepe": 17.0,
-        "Samsunspor": 12.5,
-        "Draw": 1.05
-      }
-    },
-    "bc43337a87e5dc90329f6e27aa65dc5b:h2h": {
-      "Betfair": {
-        "Cremonese": 1.05,
-        "Sampdoria": 1000.0,
-        "Draw": 17.5
-      },
-      "Winamax (DE)": {
-        "Cremonese": 1.02,
-        "Sampdoria": 600.0,
-        "Draw": 17.0
-      },
-      "888sport": {
-        "Cremonese": 1.04,
-        "Sampdoria": 126.0,
-        "Draw": 13.0
-      }
-    },
-    "bb0f8db2a6c8fd7984342d6ad2dcf569:h2h": {
-      "Winamax (FR)": {
-        "Cardiff City": 20.0,
-        "Wrexham AFC": 1.25,
-        "Draw": 4.1
-      },
-      "Winamax (DE)": {
-        "Cardiff City": 21.0,
-        "Wrexham AFC": 1.23,
-        "Draw": 4.3
-      },
-      "Betclic (FR)": {
-        "Cardiff City": 16.0,
-        "Wrexham AFC": 1.23,
-        "Draw": 4.05
+      "Nordic Bet": {
+        "Defensa y Justicia": 10.5,
+        "Velez Sarsfield BA": 1.26,
+        "Draw": 4.85
       },
       "Pinnacle": {
-        "Cardiff City": 18.77,
-        "Wrexham AFC": 1.3,
-        "Draw": 4.36
+        "Defensa y Justicia": 12.24,
+        "Velez Sarsfield BA": 1.3,
+        "Draw": 4.8
+      }
+    },
+    "caa23e620c159aa3324822722689bd9a:h2h": {
+      "Betclic (FR)": {
+        "Internacional": 1.44,
+        "Remo": 6.25,
+        "Draw": 3.93
       },
-      "Betfair": {
-        "Cardiff City": 26.0,
-        "Wrexham AFC": 1.31,
-        "Draw": 4.9
-      },
-      "Tipico": {
-        "Cardiff City": 16.0,
-        "Wrexham AFC": 1.27,
+      "William Hill": {
+        "Internacional": 1.44,
+        "Remo": 6.5,
         "Draw": 4.0
       },
       "888sport": {
-        "Cardiff City": 17.0,
-        "Wrexham AFC": 1.25,
+        "Internacional": 1.44,
+        "Remo": 6.5,
+        "Draw": 4.0
+      },
+      "Coolbet": {
+        "Internacional": 1.5,
+        "Remo": 6.8,
+        "Draw": 4.2
+      },
+      "Codere (IT)": {
+        "Internacional": 1.47,
+        "Remo": 6.6,
+        "Draw": 4.4
+      },
+      "Winamax (FR)": {
+        "Internacional": 1.42,
+        "Remo": 5.8,
+        "Draw": 4.2
+      },
+      "Winamax (DE)": {
+        "Internacional": 1.43,
+        "Remo": 6.0,
+        "Draw": 4.3
+      },
+      "Unibet (FR)": {
+        "Internacional": 1.39,
+        "Remo": 6.3,
+        "Draw": 4.2
+      },
+      "1xBet": {
+        "Internacional": 1.5,
+        "Remo": 7.04,
+        "Draw": 4.27
+      },
+      "Nordic Bet": {
+        "Internacional": 1.48,
+        "Remo": 6.8,
+        "Draw": 3.85
+      },
+      "Betsson": {
+        "Internacional": 1.48,
+        "Remo": 6.8,
+        "Draw": 3.85
+      },
+      "Marathon Bet": {
+        "Internacional": 1.45,
+        "Remo": 6.9,
         "Draw": 4.2
       },
       "LeoVegas (SE)": {
-        "Cardiff City": 20.0,
-        "Wrexham AFC": 1.18,
-        "Draw": 4.2
-      },
-      "Unibet (NL)": {
-        "Cardiff City": 23.0,
-        "Wrexham AFC": 1.23,
-        "Draw": 4.5
-      },
-      "Unibet (SE)": {
-        "Cardiff City": 23.0,
-        "Wrexham AFC": 1.23,
-        "Draw": 4.5
-      },
-      "Nordic Bet": {
-        "Cardiff City": 19.5,
-        "Wrexham AFC": 1.23,
-        "Draw": 4.2
-      },
-      "Betsson": {
-        "Cardiff City": 21.0,
-        "Wrexham AFC": 1.23,
-        "Draw": 4.2
-      },
-      "Coolbet": {
-        "Cardiff City": 22.0,
-        "Wrexham AFC": 1.25,
-        "Draw": 4.33
-      },
-      "PMU (FR)": {
-        "Cardiff City": 20.0,
-        "Wrexham AFC": 1.16,
+        "Internacional": 1.4,
+        "Remo": 6.4,
         "Draw": 4.1
       },
-      "Matchbook": {
-        "Cardiff City": 26.0,
-        "Wrexham AFC": 1.32,
-        "Draw": 4.9
-      }
-    },
-    "7b9f4d89d66c48e0c496aab1679e4ae4:h2h": {
-      "Betfair": {
-        "Deportivo La Coruña": 4.8,
-        "Elche CF": 6.6,
-        "Draw": 1.56
-      },
-      "Winamax (DE)": {
-        "Deportivo La Coruña": 4.4,
-        "Elche CF": 5.5,
-        "Draw": 1.48
-      },
-      "Winamax (FR)": {
-        "Deportivo La Coruña": 4.1,
-        "Elche CF": 5.1,
-        "Draw": 1.44
-      },
-      "Betclic (FR)": {
-        "Deportivo La Coruña": 4.45,
-        "Elche CF": 6.25,
-        "Draw": 1.47
-      },
       "Unibet (NL)": {
-        "Deportivo La Coruña": 5.0,
-        "Elche CF": 6.25,
-        "Draw": 1.4
-      },
-      "Pinnacle": {
-        "Deportivo La Coruña": 4.73,
-        "Elche CF": 5.59,
-        "Draw": 1.5
-      },
-      "Betsson": {
-        "Deportivo La Coruña": 4.6,
-        "Elche CF": 5.35,
-        "Draw": 1.47
-      },
-      "Nordic Bet": {
-        "Deportivo La Coruña": 4.6,
-        "Elche CF": 5.35,
-        "Draw": 1.47
-      },
-      "Coolbet": {
-        "Deportivo La Coruña": 5.0,
-        "Elche CF": 6.0,
-        "Draw": 1.5
+        "Internacional": 1.42,
+        "Remo": 6.75,
+        "Draw": 4.35
       },
       "PMU (FR)": {
-        "Deportivo La Coruña": 5.1,
-        "Elche CF": 6.1,
-        "Draw": 1.3
+        "Internacional": 1.4,
+        "Remo": 6.4,
+        "Draw": 4.1
+      },
+      "Unibet (SE)": {
+        "Internacional": 1.42,
+        "Remo": 6.75,
+        "Draw": 4.35
+      },
+      "Pinnacle": {
+        "Internacional": 1.5,
+        "Remo": 7.43,
+        "Draw": 4.29
+      },
+      "Tipico": {
+        "Internacional": 1.42,
+        "Remo": 6.8,
+        "Draw": 4.2
       },
       "Matchbook": {
-        "Deportivo La Coruña": 5.3,
-        "Elche CF": 6.8,
-        "Draw": 1.47
+        "Internacional": 1.52,
+        "Remo": 8.4,
+        "Draw": 4.5
+      },
+      "GTbets": {
+        "Internacional": 1.52,
+        "Remo": 6.66,
+        "Draw": 4.16
+      },
+      "BetOnline.ag": {
+        "Internacional": 1.47,
+        "Remo": 8.0,
+        "Draw": 4.4
+      },
+      "Betfair": {
+        "Internacional": 1.5,
+        "Remo": 8.4,
+        "Draw": 4.5
+      },
+      "BetAnything": {
+        "Internacional": 1.47,
+        "Remo": 6.5,
+        "Draw": 4.3
+      },
+      "MyBookie.ag": {
+        "Internacional": 1.47,
+        "Remo": 6.6,
+        "Draw": 4.4
+      }
+    },
+    "680612ac19d479d97c90b786987a4925:h2h": {
+      "Betfair": {
+        "Gimnasia Mendoza": 3.3,
+        "Talleres": 2.74,
+        "Draw": 2.98
+      },
+      "Winamax (DE)": {
+        "Gimnasia Mendoza": 2.95,
+        "Talleres": 2.4,
+        "Draw": 2.85
+      },
+      "Winamax (FR)": {
+        "Gimnasia Mendoza": 2.9,
+        "Talleres": 2.35,
+        "Draw": 2.8
+      },
+      "Betclic (FR)": {
+        "Gimnasia Mendoza": 3.0,
+        "Talleres": 2.52,
+        "Draw": 2.7
+      },
+      "Codere (IT)": {
+        "Gimnasia Mendoza": 3.15,
+        "Talleres": 2.55,
+        "Draw": 2.9
+      },
+      "Marathon Bet": {
+        "Gimnasia Mendoza": 3.05,
+        "Talleres": 2.6,
+        "Draw": 2.78
+      },
+      "LeoVegas (SE)": {
+        "Gimnasia Mendoza": 2.8,
+        "Talleres": 2.45,
+        "Draw": 2.65
+      },
+      "Unibet (SE)": {
+        "Gimnasia Mendoza": 3.0,
+        "Talleres": 2.63,
+        "Draw": 2.85
+      },
+      "Nordic Bet": {
+        "Gimnasia Mendoza": 3.15,
+        "Talleres": 2.55,
+        "Draw": 2.85
+      },
+      "Betsson": {
+        "Gimnasia Mendoza": 3.15,
+        "Talleres": 2.55,
+        "Draw": 2.85
+      },
+      "Pinnacle": {
+        "Gimnasia Mendoza": 3.17,
+        "Talleres": 2.7,
+        "Draw": 2.88
+      },
+      "BetOnline.ag": {
+        "Gimnasia Mendoza": 3.25,
+        "Talleres": 2.65,
+        "Draw": 2.86
+      },
+      "BetAnything": {
+        "Gimnasia Mendoza": 3.25,
+        "Talleres": 2.65,
+        "Draw": 2.86
+      }
+    },
+    "1d64dc7725a17580fc7bbc21fa9f847c:h2h": {
+      "888sport": {
+        "Huachipato": 4.33,
+        "Palestino": 1.67,
+        "Draw": 3.6
+      },
+      "Winamax (FR)": {
+        "Huachipato": 4.2,
+        "Palestino": 1.62,
+        "Draw": 3.8
+      },
+      "Winamax (DE)": {
+        "Huachipato": 4.3,
+        "Palestino": 1.64,
+        "Draw": 3.9
+      },
+      "Nordic Bet": {
+        "Huachipato": 4.65,
+        "Palestino": 1.7,
+        "Draw": 3.6
+      },
+      "Betsson": {
+        "Huachipato": 4.65,
+        "Palestino": 1.7,
+        "Draw": 3.6
+      },
+      "1xBet": {
+        "Huachipato": 4.57,
+        "Palestino": 1.62,
+        "Draw": 3.8
+      },
+      "Marathon Bet": {
+        "Huachipato": 4.6,
+        "Palestino": 1.66,
+        "Draw": 3.85
+      },
+      "Pinnacle": {
+        "Huachipato": 4.82,
+        "Palestino": 1.69,
+        "Draw": 4.08
+      },
+      "Coolbet": {
+        "Huachipato": 4.87,
+        "Palestino": 1.75,
+        "Draw": 3.8
+      },
+      "Tipico": {
+        "Huachipato": 4.7,
+        "Palestino": 1.57,
+        "Draw": 3.9
+      },
+      "LeoVegas (SE)": {
+        "Huachipato": 4.25,
+        "Palestino": 1.73,
+        "Draw": 3.7
+      },
+      "Unibet (SE)": {
+        "Huachipato": 4.25,
+        "Palestino": 1.73,
+        "Draw": 3.7
+      },
+      "GTbets": {
+        "Huachipato": 4.68,
+        "Palestino": 1.7,
+        "Draw": 3.82
+      },
+      "Unibet (FR)": {
+        "Huachipato": 4.5,
+        "Palestino": 1.61,
+        "Draw": 3.8
+      },
+      "BetOnline.ag": {
+        "Huachipato": 4.7,
+        "Palestino": 1.67,
+        "Draw": 3.95
+      },
+      "Codere (IT)": {
+        "Huachipato": 4.5,
+        "Palestino": 1.67,
+        "Draw": 3.75
+      },
+      "Betfair": {
+        "Huachipato": 5.1,
+        "Palestino": 1.75,
+        "Draw": 4.1
+      },
+      "BetAnything": {
+        "Huachipato": 4.7,
+        "Palestino": 1.67,
+        "Draw": 3.95
+      },
+      "Matchbook": {
+        "Huachipato": 5.1,
+        "Palestino": 1.75,
+        "Draw": 4.2
       }
     }
   },
@@ -10588,23 +10703,77 @@
       "confidence": 15,
       "alert_type": "value",
       "alerted_at": "2026-08-17T20:38:42.656446+00:00"
+    },
+    {
+      "state_key": "9c7d6ce4e925c3ef8e007b18fe763b09:h2h",
+      "event_id": "9c7d6ce4e925c3ef8e007b18fe763b09",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Velez Sarsfield BA",
+      "away_team": "Defensa y Justicia",
+      "commence_time": "2026-08-17T22:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Defensa y Justicia",
+      "odds_at_alert": 14.5,
+      "stake_pct": 3.0,
+      "confidence": 12,
+      "alert_type": "value",
+      "alerted_at": "2026-08-17T22:36:36.707680+00:00"
+    },
+    {
+      "state_key": "9c7d6ce4e925c3ef8e007b18fe763b09:h2h",
+      "event_id": "9c7d6ce4e925c3ef8e007b18fe763b09",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Velez Sarsfield BA",
+      "away_team": "Defensa y Justicia",
+      "commence_time": "2026-08-17T22:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.8,
+      "stake_pct": 3.0,
+      "confidence": 14,
+      "alert_type": "value",
+      "alerted_at": "2026-08-17T22:36:37.210348+00:00"
+    },
+    {
+      "state_key": "caa23e620c159aa3324822722689bd9a:h2h",
+      "event_id": "caa23e620c159aa3324822722689bd9a",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Internacional",
+      "away_team": "Remo",
+      "commence_time": "2026-08-17T23:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Remo",
+      "odds_at_alert": 8.4,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-08-17T22:36:37.722471+00:00"
+    },
+    {
+      "state_key": "caa23e620c159aa3324822722689bd9a:h2h",
+      "event_id": "caa23e620c159aa3324822722689bd9a",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Internacional",
+      "away_team": "Remo",
+      "commence_time": "2026-08-17T23:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Remo",
+      "odds_at_alert": 8.4,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-08-17T22:36:38.271579+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "7b9f4d89d66c48e0c496aab1679e4ae4:h2h|Betclic (FR)|Elche CF",
-    "7b9f4d89d66c48e0c496aab1679e4ae4:h2h|Betfair|Elche CF",
-    "7b9f4d89d66c48e0c496aab1679e4ae4:h2h|Matchbook|Deportivo La Coruña",
-    "7b9f4d89d66c48e0c496aab1679e4ae4:h2h|Matchbook|Elche CF",
-    "7b9f4d89d66c48e0c496aab1679e4ae4:h2h|Unibet (NL)|Elche CF",
-    "bb0f8db2a6c8fd7984342d6ad2dcf569:h2h|Betfair|Cardiff City",
-    "bb0f8db2a6c8fd7984342d6ad2dcf569:h2h|Betfair|Draw",
-    "bb0f8db2a6c8fd7984342d6ad2dcf569:h2h|Betsson|Cardiff City",
-    "bb0f8db2a6c8fd7984342d6ad2dcf569:h2h|Coolbet|Cardiff City",
-    "bb0f8db2a6c8fd7984342d6ad2dcf569:h2h|Matchbook|Cardiff City",
-    "bb0f8db2a6c8fd7984342d6ad2dcf569:h2h|Matchbook|Draw",
-    "bb0f8db2a6c8fd7984342d6ad2dcf569:h2h|Unibet (NL)|Cardiff City",
-    "bb0f8db2a6c8fd7984342d6ad2dcf569:h2h|Unibet (SE)|Cardiff City",
-    "bb0f8db2a6c8fd7984342d6ad2dcf569:h2h|Winamax (DE)|Cardiff City"
+    "9c7d6ce4e925c3ef8e007b18fe763b09:h2h|Betfair|Defensa y Justicia",
+    "9c7d6ce4e925c3ef8e007b18fe763b09:h2h|Betfair|Draw",
+    "caa23e620c159aa3324822722689bd9a:h2h|Betfair|Remo",
+    "caa23e620c159aa3324822722689bd9a:h2h|Matchbook|Remo"
   ]
 }
