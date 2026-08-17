@@ -1,211 +1,221 @@
 {
   "snapshots": {
-    "5a522fe54ae01be40f5c1969281e05b0:h2h": {
-      "Betclic (FR)": {
-        "BK Hacken": 1.0,
-        "Halmstads BK": 100.0,
-        "Draw": 43.0
-      },
-      "Betfair": {
-        "BK Hacken": 1.03,
-        "Halmstads BK": 5.5,
-        "Draw": 26.0
-      },
+    "4b7e118e8b4da87694adfd9b8a75a1f9:h2h": {
       "Winamax (FR)": {
-        "BK Hacken": 1.01,
-        "Halmstads BK": 1000.0,
-        "Draw": 30.0
+        "Goztepe": 38.0,
+        "Samsunspor": 32.0,
+        "Draw": 1.02
       },
-      "Winamax (DE)": {
-        "BK Hacken": 1.01,
-        "Halmstads BK": 1000.0,
-        "Draw": 29.0
+      "Tipico": {
+        "Goztepe": 30.0,
+        "Samsunspor": 20.0,
+        "Draw": 1.02
+      },
+      "Betclic (FR)": {
+        "Goztepe": 16.0,
+        "Samsunspor": 14.0,
+        "Draw": 1.03
       },
       "Nordic Bet": {
-        "BK Hacken": 1.0,
-        "Halmstads BK": 41.0,
-        "Draw": 19.0
+        "Goztepe": 26.0,
+        "Samsunspor": 14.0,
+        "Draw": 1.05
+      },
+      "Winamax (DE)": {
+        "Goztepe": 27.0,
+        "Samsunspor": 22.0,
+        "Draw": 1.03
       },
       "Betsson": {
-        "BK Hacken": 1.0,
-        "Halmstads BK": 41.0,
-        "Draw": 19.0
+        "Goztepe": 26.0,
+        "Samsunspor": 14.0,
+        "Draw": 1.05
+      },
+      "Coolbet": {
+        "Goztepe": 40.0,
+        "Samsunspor": 30.0,
+        "Draw": 1.02
+      },
+      "Betfair": {
+        "Goztepe": 80.0,
+        "Samsunspor": 29.0,
+        "Draw": 1.03
       },
       "888sport": {
-        "BK Hacken": 1.03,
-        "Halmstads BK": 126.0,
-        "Draw": 15.0
-      },
-      "Coolbet": {
-        "BK Hacken": 1.01,
-        "Halmstads BK": 300.0,
-        "Draw": 20.0
-      }
-    },
-    "25110d6f8bd9ec3d16c3311227abd031:h2h": {
-      "Winamax (FR)": {
-        "Brondby IF": 1.02,
-        "SonderjyskE": 1000.0,
-        "Draw": 21.0
-      },
-      "Winamax (DE)": {
-        "Brondby IF": 1.02,
-        "SonderjyskE": 600.0,
-        "Draw": 17.0
-      },
-      "Betclic (FR)": {
-        "Brondby IF": 1.02,
-        "SonderjyskE": 100.0,
-        "Draw": 11.5
-      },
-      "Betsson": {
-        "Brondby IF": 1.0,
-        "SonderjyskE": 101.0,
-        "Draw": 15.0
-      },
-      "Nordic Bet": {
-        "Brondby IF": 1.0,
-        "SonderjyskE": 126.0,
-        "Draw": 15.0
-      },
-      "Suprabets": {
-        "Brondby IF": 1.03,
-        "SonderjyskE": 163.0,
-        "Draw": 8.2
-      },
-      "Betfair": {
-        "Brondby IF": 1.02,
-        "SonderjyskE": 1000.0,
-        "Draw": 34.0
-      },
-      "Tipico": {
-        "Brondby IF": 1.01,
-        "SonderjyskE": 400.0,
-        "Draw": 25.0
-      },
-      "Coolbet": {
-        "Brondby IF": 1.01,
-        "SonderjyskE": 125.0,
-        "Draw": 13.0
-      }
-    },
-    "156362501c4105c23c213f47dbfebcf0:h2h": {
-      "Winamax (FR)": {
-        "Sabadell FC": 42.0,
-        "Sporting Gijón": 36.0,
-        "Draw": 1.02
-      },
-      "Winamax (DE)": {
-        "Sabadell FC": 42.0,
-        "Sporting Gijón": 36.0,
-        "Draw": 1.01
-      },
-      "Tipico": {
-        "Sabadell FC": 22.0,
-        "Sporting Gijón": 16.0,
-        "Draw": 1.01
-      },
-      "Betfair": {
-        "Sabadell FC": 40.0,
-        "Sporting Gijón": 40.0,
-        "Draw": 1.02
-      },
-      "Betclic (FR)": {
-        "Sabadell FC": 19.75,
-        "Sporting Gijón": 16.0,
-        "Draw": 1.0
-      },
-      "Pinnacle": {
-        "Sabadell FC": 9.7,
-        "Sporting Gijón": 7.32,
-        "Draw": 1.2
-      },
-      "Coolbet": {
-        "Sabadell FC": 28.0,
-        "Sporting Gijón": 25.0,
-        "Draw": 1.0
-      },
-      "Betsson": {
-        "Sabadell FC": 10.5,
-        "Sporting Gijón": 8.6,
-        "Draw": 1.12
-      },
-      "Nordic Bet": {
-        "Sabadell FC": 11.5,
-        "Sporting Gijón": 9.1,
-        "Draw": 1.1
-      },
-      "LeoVegas (SE)": {
-        "Sabadell FC": 11.0,
-        "Sporting Gijón": 12.0,
-        "Draw": 1.02
-      },
-      "Unibet (NL)": {
-        "Sabadell FC": 17.0,
-        "Sporting Gijón": 14.0,
-        "Draw": 1.01
+        "Goztepe": 13.0,
+        "Samsunspor": 10.0,
+        "Draw": 1.11
       },
       "Unibet (SE)": {
-        "Sabadell FC": 36.0,
-        "Sporting Gijón": 16.0,
+        "Goztepe": 31.0,
+        "Samsunspor": 17.0,
+        "Draw": 1.02
+      },
+      "LeoVegas (SE)": {
+        "Goztepe": 15.0,
+        "Samsunspor": 10.0,
         "Draw": 1.02
       },
       "PMU (FR)": {
-        "Sabadell FC": 9.0,
-        "Sporting Gijón": 9.0,
-        "Draw": 1.02
+        "Goztepe": 15.0,
+        "Samsunspor": 10.0,
+        "Draw": 1.01
       },
-      "Matchbook": {
-        "Sabadell FC": 40.0,
-        "Sporting Gijón": 13.0,
-        "Draw": 1.02
+      "Unibet (NL)": {
+        "Goztepe": 17.0,
+        "Samsunspor": 12.5,
+        "Draw": 1.05
       }
     },
-    "0910862bb2fa73b5d65f4c92b46050bf:h2h": {
-      "Winamax (DE)": {
-        "Atlético Tucuman": 2.95,
-        "Estudiantes de Río Cuarto": 4.5,
-        "Draw": 1.82
+    "bc43337a87e5dc90329f6e27aa65dc5b:h2h": {
+      "Betfair": {
+        "Cremonese": 1.05,
+        "Sampdoria": 1000.0,
+        "Draw": 17.5
       },
+      "Winamax (DE)": {
+        "Cremonese": 1.02,
+        "Sampdoria": 600.0,
+        "Draw": 17.0
+      },
+      "888sport": {
+        "Cremonese": 1.04,
+        "Sampdoria": 126.0,
+        "Draw": 13.0
+      }
+    },
+    "bb0f8db2a6c8fd7984342d6ad2dcf569:h2h": {
       "Winamax (FR)": {
-        "Atlético Tucuman": 2.85,
-        "Estudiantes de Río Cuarto": 4.3,
-        "Draw": 1.78
+        "Cardiff City": 20.0,
+        "Wrexham AFC": 1.25,
+        "Draw": 4.1
+      },
+      "Winamax (DE)": {
+        "Cardiff City": 21.0,
+        "Wrexham AFC": 1.23,
+        "Draw": 4.3
       },
       "Betclic (FR)": {
-        "Atlético Tucuman": 2.97,
-        "Estudiantes de Río Cuarto": 4.4,
-        "Draw": 1.78
-      },
-      "Betfair": {
-        "Atlético Tucuman": 3.4,
-        "Estudiantes de Río Cuarto": 5.3,
-        "Draw": 1.91
-      },
-      "Unibet (SE)": {
-        "Atlético Tucuman": 3.15,
-        "Estudiantes de Río Cuarto": 4.0,
-        "Draw": 1.93
-      },
-      "LeoVegas (SE)": {
-        "Atlético Tucuman": 2.95,
-        "Estudiantes de Río Cuarto": 3.8,
-        "Draw": 1.81
-      },
-      "Nordic Bet": {
-        "Atlético Tucuman": 3.15,
-        "Estudiantes de Río Cuarto": 4.6,
-        "Draw": 1.78
-      },
-      "Betsson": {
-        "Atlético Tucuman": 3.05,
-        "Estudiantes de Río Cuarto": 4.6,
-        "Draw": 1.82
+        "Cardiff City": 16.0,
+        "Wrexham AFC": 1.23,
+        "Draw": 4.05
       },
       "Pinnacle": {
-        "Atlético Tucuman": 3.17,
-        "Estudiantes de Río Cuarto": 4.67,
-        "Draw": 1.89
+        "Cardiff City": 18.77,
+        "Wrexham AFC": 1.3,
+        "Draw": 4.36
+      },
+      "Betfair": {
+        "Cardiff City": 26.0,
+        "Wrexham AFC": 1.31,
+        "Draw": 4.9
+      },
+      "Tipico": {
+        "Cardiff City": 16.0,
+        "Wrexham AFC": 1.27,
+        "Draw": 4.0
+      },
+      "888sport": {
+        "Cardiff City": 17.0,
+        "Wrexham AFC": 1.25,
+        "Draw": 4.2
+      },
+      "LeoVegas (SE)": {
+        "Cardiff City": 20.0,
+        "Wrexham AFC": 1.18,
+        "Draw": 4.2
+      },
+      "Unibet (NL)": {
+        "Cardiff City": 23.0,
+        "Wrexham AFC": 1.23,
+        "Draw": 4.5
+      },
+      "Unibet (SE)": {
+        "Cardiff City": 23.0,
+        "Wrexham AFC": 1.23,
+        "Draw": 4.5
+      },
+      "Nordic Bet": {
+        "Cardiff City": 19.5,
+        "Wrexham AFC": 1.23,
+        "Draw": 4.2
+      },
+      "Betsson": {
+        "Cardiff City": 21.0,
+        "Wrexham AFC": 1.23,
+        "Draw": 4.2
+      },
+      "Coolbet": {
+        "Cardiff City": 22.0,
+        "Wrexham AFC": 1.25,
+        "Draw": 4.33
+      },
+      "PMU (FR)": {
+        "Cardiff City": 20.0,
+        "Wrexham AFC": 1.16,
+        "Draw": 4.1
+      },
+      "Matchbook": {
+        "Cardiff City": 26.0,
+        "Wrexham AFC": 1.32,
+        "Draw": 4.9
+      }
+    },
+    "7b9f4d89d66c48e0c496aab1679e4ae4:h2h": {
+      "Betfair": {
+        "Deportivo La Coruña": 4.8,
+        "Elche CF": 6.6,
+        "Draw": 1.56
+      },
+      "Winamax (DE)": {
+        "Deportivo La Coruña": 4.4,
+        "Elche CF": 5.5,
+        "Draw": 1.48
+      },
+      "Winamax (FR)": {
+        "Deportivo La Coruña": 4.1,
+        "Elche CF": 5.1,
+        "Draw": 1.44
+      },
+      "Betclic (FR)": {
+        "Deportivo La Coruña": 4.45,
+        "Elche CF": 6.25,
+        "Draw": 1.47
+      },
+      "Unibet (NL)": {
+        "Deportivo La Coruña": 5.0,
+        "Elche CF": 6.25,
+        "Draw": 1.4
+      },
+      "Pinnacle": {
+        "Deportivo La Coruña": 4.73,
+        "Elche CF": 5.59,
+        "Draw": 1.5
+      },
+      "Betsson": {
+        "Deportivo La Coruña": 4.6,
+        "Elche CF": 5.35,
+        "Draw": 1.47
+      },
+      "Nordic Bet": {
+        "Deportivo La Coruña": 4.6,
+        "Elche CF": 5.35,
+        "Draw": 1.47
+      },
+      "Coolbet": {
+        "Deportivo La Coruña": 5.0,
+        "Elche CF": 6.0,
+        "Draw": 1.5
+      },
+      "PMU (FR)": {
+        "Deportivo La Coruña": 5.1,
+        "Elche CF": 6.1,
+        "Draw": 1.3
+      },
+      "Matchbook": {
+        "Deportivo La Coruña": 5.3,
+        "Elche CF": 6.8,
+        "Draw": 1.47
       }
     }
   },
@@ -10354,40 +10364,247 @@
       "confidence": 7,
       "alert_type": "value",
       "alerted_at": "2026-08-17T18:54:27.708914+00:00"
+    },
+    {
+      "state_key": "bb0f8db2a6c8fd7984342d6ad2dcf569:h2h",
+      "event_id": "bb0f8db2a6c8fd7984342d6ad2dcf569",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Cardiff City",
+      "away_team": "Wrexham AFC",
+      "commence_time": "2026-08-17T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cardiff City",
+      "odds_at_alert": 21.0,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-08-17T20:38:36.399931+00:00"
+    },
+    {
+      "state_key": "bb0f8db2a6c8fd7984342d6ad2dcf569:h2h",
+      "event_id": "bb0f8db2a6c8fd7984342d6ad2dcf569",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Cardiff City",
+      "away_team": "Wrexham AFC",
+      "commence_time": "2026-08-17T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cardiff City",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 32,
+      "alert_type": "value",
+      "alerted_at": "2026-08-17T20:38:36.906358+00:00"
+    },
+    {
+      "state_key": "bb0f8db2a6c8fd7984342d6ad2dcf569:h2h",
+      "event_id": "bb0f8db2a6c8fd7984342d6ad2dcf569",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Cardiff City",
+      "away_team": "Wrexham AFC",
+      "commence_time": "2026-08-17T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.9,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-08-17T20:38:37.365898+00:00"
+    },
+    {
+      "state_key": "bb0f8db2a6c8fd7984342d6ad2dcf569:h2h",
+      "event_id": "bb0f8db2a6c8fd7984342d6ad2dcf569",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Cardiff City",
+      "away_team": "Wrexham AFC",
+      "commence_time": "2026-08-17T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cardiff City",
+      "odds_at_alert": 23.0,
+      "stake_pct": 5.0,
+      "confidence": 16,
+      "alert_type": "value",
+      "alerted_at": "2026-08-17T20:38:37.854621+00:00"
+    },
+    {
+      "state_key": "bb0f8db2a6c8fd7984342d6ad2dcf569:h2h",
+      "event_id": "bb0f8db2a6c8fd7984342d6ad2dcf569",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Cardiff City",
+      "away_team": "Wrexham AFC",
+      "commence_time": "2026-08-17T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cardiff City",
+      "odds_at_alert": 23.0,
+      "stake_pct": 5.0,
+      "confidence": 16,
+      "alert_type": "value",
+      "alerted_at": "2026-08-17T20:38:38.313692+00:00"
+    },
+    {
+      "state_key": "bb0f8db2a6c8fd7984342d6ad2dcf569:h2h",
+      "event_id": "bb0f8db2a6c8fd7984342d6ad2dcf569",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Cardiff City",
+      "away_team": "Wrexham AFC",
+      "commence_time": "2026-08-17T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cardiff City",
+      "odds_at_alert": 21.0,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-08-17T20:38:38.803334+00:00"
+    },
+    {
+      "state_key": "bb0f8db2a6c8fd7984342d6ad2dcf569:h2h",
+      "event_id": "bb0f8db2a6c8fd7984342d6ad2dcf569",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Cardiff City",
+      "away_team": "Wrexham AFC",
+      "commence_time": "2026-08-17T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cardiff City",
+      "odds_at_alert": 22.0,
+      "stake_pct": 3.0,
+      "confidence": 11,
+      "alert_type": "value",
+      "alerted_at": "2026-08-17T20:38:39.273869+00:00"
+    },
+    {
+      "state_key": "bb0f8db2a6c8fd7984342d6ad2dcf569:h2h",
+      "event_id": "bb0f8db2a6c8fd7984342d6ad2dcf569",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Cardiff City",
+      "away_team": "Wrexham AFC",
+      "commence_time": "2026-08-17T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cardiff City",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 32,
+      "alert_type": "value",
+      "alerted_at": "2026-08-17T20:38:39.740392+00:00"
+    },
+    {
+      "state_key": "bb0f8db2a6c8fd7984342d6ad2dcf569:h2h",
+      "event_id": "bb0f8db2a6c8fd7984342d6ad2dcf569",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Cardiff City",
+      "away_team": "Wrexham AFC",
+      "commence_time": "2026-08-17T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.9,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-08-17T20:38:40.281564+00:00"
+    },
+    {
+      "state_key": "7b9f4d89d66c48e0c496aab1679e4ae4:h2h",
+      "event_id": "7b9f4d89d66c48e0c496aab1679e4ae4",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Deportivo La Coruña",
+      "away_team": "Elche CF",
+      "commence_time": "2026-08-17T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Elche CF",
+      "odds_at_alert": 6.6,
+      "stake_pct": 3.0,
+      "confidence": 12,
+      "alert_type": "value",
+      "alerted_at": "2026-08-17T20:38:40.762719+00:00"
+    },
+    {
+      "state_key": "7b9f4d89d66c48e0c496aab1679e4ae4:h2h",
+      "event_id": "7b9f4d89d66c48e0c496aab1679e4ae4",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Deportivo La Coruña",
+      "away_team": "Elche CF",
+      "commence_time": "2026-08-17T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Elche CF",
+      "odds_at_alert": 6.25,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-08-17T20:38:41.273933+00:00"
+    },
+    {
+      "state_key": "7b9f4d89d66c48e0c496aab1679e4ae4:h2h",
+      "event_id": "7b9f4d89d66c48e0c496aab1679e4ae4",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Deportivo La Coruña",
+      "away_team": "Elche CF",
+      "commence_time": "2026-08-17T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Elche CF",
+      "odds_at_alert": 6.25,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-08-17T20:38:41.722818+00:00"
+    },
+    {
+      "state_key": "7b9f4d89d66c48e0c496aab1679e4ae4:h2h",
+      "event_id": "7b9f4d89d66c48e0c496aab1679e4ae4",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Deportivo La Coruña",
+      "away_team": "Elche CF",
+      "commence_time": "2026-08-17T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Deportivo La Coruña",
+      "odds_at_alert": 5.3,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-08-17T20:38:42.203012+00:00"
+    },
+    {
+      "state_key": "7b9f4d89d66c48e0c496aab1679e4ae4:h2h",
+      "event_id": "7b9f4d89d66c48e0c496aab1679e4ae4",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Deportivo La Coruña",
+      "away_team": "Elche CF",
+      "commence_time": "2026-08-17T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Elche CF",
+      "odds_at_alert": 6.8,
+      "stake_pct": 5.0,
+      "confidence": 15,
+      "alert_type": "value",
+      "alerted_at": "2026-08-17T20:38:42.656446+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "0910862bb2fa73b5d65f4c92b46050bf:h2h|Betfair|Estudiantes de Río Cuarto",
-    "156362501c4105c23c213f47dbfebcf0:h2h|Betclic (FR)|Sabadell FC",
-    "156362501c4105c23c213f47dbfebcf0:h2h|Betclic (FR)|Sporting Gijón",
-    "156362501c4105c23c213f47dbfebcf0:h2h|Betfair|Sabadell FC",
-    "156362501c4105c23c213f47dbfebcf0:h2h|Betfair|Sporting Gijón",
-    "156362501c4105c23c213f47dbfebcf0:h2h|Betsson|Sporting Gijón",
-    "156362501c4105c23c213f47dbfebcf0:h2h|Coolbet|Sabadell FC",
-    "156362501c4105c23c213f47dbfebcf0:h2h|Coolbet|Sporting Gijón",
-    "156362501c4105c23c213f47dbfebcf0:h2h|LeoVegas (SE)|Sabadell FC",
-    "156362501c4105c23c213f47dbfebcf0:h2h|LeoVegas (SE)|Sporting Gijón",
-    "156362501c4105c23c213f47dbfebcf0:h2h|Matchbook|Sabadell FC",
-    "156362501c4105c23c213f47dbfebcf0:h2h|Matchbook|Sporting Gijón",
-    "156362501c4105c23c213f47dbfebcf0:h2h|Nordic Bet|Sabadell FC",
-    "156362501c4105c23c213f47dbfebcf0:h2h|Nordic Bet|Sporting Gijón",
-    "156362501c4105c23c213f47dbfebcf0:h2h|PMU (FR)|Sporting Gijón",
-    "156362501c4105c23c213f47dbfebcf0:h2h|Tipico|Sabadell FC",
-    "156362501c4105c23c213f47dbfebcf0:h2h|Tipico|Sporting Gijón",
-    "156362501c4105c23c213f47dbfebcf0:h2h|Unibet (NL)|Sabadell FC",
-    "156362501c4105c23c213f47dbfebcf0:h2h|Unibet (NL)|Sporting Gijón",
-    "156362501c4105c23c213f47dbfebcf0:h2h|Unibet (SE)|Sabadell FC",
-    "156362501c4105c23c213f47dbfebcf0:h2h|Unibet (SE)|Sporting Gijón",
-    "156362501c4105c23c213f47dbfebcf0:h2h|Winamax (DE)|Sabadell FC",
-    "156362501c4105c23c213f47dbfebcf0:h2h|Winamax (DE)|Sporting Gijón",
-    "156362501c4105c23c213f47dbfebcf0:h2h|Winamax (FR)|Sabadell FC",
-    "156362501c4105c23c213f47dbfebcf0:h2h|Winamax (FR)|Sporting Gijón",
-    "5a522fe54ae01be40f5c1969281e05b0:h2h|Betfair|Halmstads BK",
-    "5a522fe54ae01be40f5c1969281e05b0:h2h|Betsson|Halmstads BK",
-    "5a522fe54ae01be40f5c1969281e05b0:h2h|Coolbet|Halmstads BK",
-    "5a522fe54ae01be40f5c1969281e05b0:h2h|Matchbook|Halmstads BK",
-    "5a522fe54ae01be40f5c1969281e05b0:h2h|Nordic Bet|Halmstads BK",
-    "5a522fe54ae01be40f5c1969281e05b0:h2h|Unibet (SE)|Halmstads BK"
+    "7b9f4d89d66c48e0c496aab1679e4ae4:h2h|Betclic (FR)|Elche CF",
+    "7b9f4d89d66c48e0c496aab1679e4ae4:h2h|Betfair|Elche CF",
+    "7b9f4d89d66c48e0c496aab1679e4ae4:h2h|Matchbook|Deportivo La Coruña",
+    "7b9f4d89d66c48e0c496aab1679e4ae4:h2h|Matchbook|Elche CF",
+    "7b9f4d89d66c48e0c496aab1679e4ae4:h2h|Unibet (NL)|Elche CF",
+    "bb0f8db2a6c8fd7984342d6ad2dcf569:h2h|Betfair|Cardiff City",
+    "bb0f8db2a6c8fd7984342d6ad2dcf569:h2h|Betfair|Draw",
+    "bb0f8db2a6c8fd7984342d6ad2dcf569:h2h|Betsson|Cardiff City",
+    "bb0f8db2a6c8fd7984342d6ad2dcf569:h2h|Coolbet|Cardiff City",
+    "bb0f8db2a6c8fd7984342d6ad2dcf569:h2h|Matchbook|Cardiff City",
+    "bb0f8db2a6c8fd7984342d6ad2dcf569:h2h|Matchbook|Draw",
+    "bb0f8db2a6c8fd7984342d6ad2dcf569:h2h|Unibet (NL)|Cardiff City",
+    "bb0f8db2a6c8fd7984342d6ad2dcf569:h2h|Unibet (SE)|Cardiff City",
+    "bb0f8db2a6c8fd7984342d6ad2dcf569:h2h|Winamax (DE)|Cardiff City"
   ]
 }
