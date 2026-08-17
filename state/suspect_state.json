@@ -1,246 +1,306 @@
 {
   "snapshots": {
-    "4b9ad53d71ab5d992c2bbb20119f22e7:h2h": {
+    "adf9ce634a25d0600abd06da037144fd:h2h": {
       "Winamax (DE)": {
-        "Argentinos Juniors": 23.0,
-        "River Plate": 1.2,
-        "Draw": 4.8
+        "Barracas Central": 1000.0,
+        "Rosario Central": 1.02,
+        "Draw": 18.0
       },
       "Winamax (FR)": {
-        "Argentinos Juniors": 22.0,
-        "River Plate": 1.22,
-        "Draw": 4.5
+        "Barracas Central": 1000.0,
+        "Rosario Central": 1.03,
+        "Draw": 17.0
       },
       "Betclic (FR)": {
-        "Argentinos Juniors": 19.0,
-        "River Plate": 1.16,
-        "Draw": 4.8
+        "Barracas Central": 100.0,
+        "Rosario Central": 1.0,
+        "Draw": 13.25
       },
       "Betfair": {
-        "Argentinos Juniors": 30.0,
-        "River Plate": 1.26,
-        "Draw": 5.6
+        "Barracas Central": 1000.0,
+        "Rosario Central": 1.02,
+        "Draw": 34.0
       },
       "LeoVegas (SE)": {
-        "Argentinos Juniors": 23.0,
-        "River Plate": 1.12,
-        "Draw": 5.0
-      },
-      "Unibet (SE)": {
-        "Argentinos Juniors": 23.0,
-        "River Plate": 1.2,
-        "Draw": 5.0
-      },
-      "Betsson": {
-        "Argentinos Juniors": 21.0,
-        "River Plate": 1.2,
-        "Draw": 4.6
+        "Barracas Central": 101.0,
+        "Rosario Central": 1.01,
+        "Draw": 12.0
       },
       "Nordic Bet": {
-        "Argentinos Juniors": 21.0,
-        "River Plate": 1.18,
-        "Draw": 4.85
-      },
-      "Pinnacle": {
-        "Argentinos Juniors": 23.05,
-        "River Plate": 1.24,
-        "Draw": 4.9
-      }
-    },
-    "83ee089db3127339d9a020c5971dfe73:h2h": {
-      "Unibet (SE)": {
-        "América Mineiro": 7.0,
-        "Athletic Club (MG)": 1.57,
-        "Draw": 3.2
-      },
-      "Unibet (NL)": {
-        "América Mineiro": 6.75,
-        "Athletic Club (MG)": 1.51,
-        "Draw": 3.05
-      },
-      "LeoVegas (SE)": {
-        "América Mineiro": 6.5,
-        "Athletic Club (MG)": 1.5,
-        "Draw": 3.0
+        "Barracas Central": 2.55,
+        "Rosario Central": 3.05,
+        "Draw": 2.75
       },
       "Betsson": {
-        "América Mineiro": 7.7,
-        "Athletic Club (MG)": 1.52,
-        "Draw": 3.2
-      },
-      "Nordic Bet": {
-        "América Mineiro": 7.7,
-        "Athletic Club (MG)": 1.52,
-        "Draw": 3.2
-      },
-      "Pinnacle": {
-        "América Mineiro": 7.84,
-        "Athletic Club (MG)": 1.57,
-        "Draw": 3.3
-      },
-      "Coolbet": {
-        "América Mineiro": 7.5,
-        "Athletic Club (MG)": 1.53,
-        "Draw": 3.25
-      },
-      "888sport": {
-        "América Mineiro": 6.5,
-        "Athletic Club (MG)": 1.57,
-        "Draw": 3.2
-      },
-      "Tipico": {
-        "América Mineiro": 6.0,
-        "Athletic Club (MG)": 1.6,
-        "Draw": 3.3
-      },
-      "Matchbook": {
-        "América Mineiro": 8.8,
-        "Athletic Club (MG)": 1.62,
-        "Draw": 3.5
-      },
-      "Betfair": {
-        "América Mineiro": 8.8,
-        "Athletic Club (MG)": 1.62,
-        "Draw": 3.5
+        "Barracas Central": 150.0,
+        "Rosario Central": 1.01,
+        "Draw": 13.0
       }
     },
-    "f9d582a2aad2946d6941a6efc7e519f7:h2h": {
+    "0198abf59a592bb8855ebf7430656607:h2h": {
       "Betclic (FR)": {
-        "Botafogo": 6.9,
-        "Vitoria": 1.41,
-        "Draw": 3.78
-      },
-      "Coolbet": {
-        "Botafogo": 7.5,
-        "Vitoria": 1.44,
-        "Draw": 4.0
-      },
-      "888sport": {
-        "Botafogo": 7.0,
-        "Vitoria": 1.44,
-        "Draw": 3.6
-      },
-      "Betsson": {
-        "Botafogo": 7.2,
-        "Vitoria": 1.43,
+        "Austin FC": 8.5,
+        "FC Dallas": 1.32,
         "Draw": 3.9
       },
-      "Winamax (FR)": {
-        "Botafogo": 6.5,
-        "Vitoria": 1.43,
-        "Draw": 3.7
+      "888sport": {
+        "Austin FC": 8.5,
+        "FC Dallas": 1.36,
+        "Draw": 4.0
       },
       "Winamax (DE)": {
-        "Botafogo": 7.0,
-        "Vitoria": 1.44,
+        "Austin FC": 8.5,
+        "FC Dallas": 1.36,
+        "Draw": 4.1
+      },
+      "Winamax (FR)": {
+        "Austin FC": 8.0,
+        "FC Dallas": 1.36,
+        "Draw": 3.9
+      },
+      "Coolbet": {
+        "Austin FC": 9.0,
+        "FC Dallas": 1.4,
+        "Draw": 4.0
+      },
+      "Nordic Bet": {
+        "Austin FC": 9.1,
+        "FC Dallas": 1.36,
+        "Draw": 3.9
+      },
+      "Betsson": {
+        "Austin FC": 9.1,
+        "FC Dallas": 1.34,
+        "Draw": 4.1
+      },
+      "Tipico": {
+        "Austin FC": 10.0,
+        "FC Dallas": 1.3,
+        "Draw": 4.5
+      },
+      "Unibet (SE)": {
+        "Austin FC": 9.0,
+        "FC Dallas": 1.38,
+        "Draw": 4.1
+      },
+      "PMU (FR)": {
+        "Austin FC": 8.5,
+        "FC Dallas": 1.28,
+        "Draw": 3.8
+      },
+      "Unibet (NL)": {
+        "Austin FC": 9.0,
+        "FC Dallas": 1.38,
+        "Draw": 4.1
+      },
+      "LeoVegas (SE)": {
+        "Austin FC": 8.5,
+        "FC Dallas": 1.34,
+        "Draw": 3.95
+      },
+      "MyBookie.ag": {
+        "Austin FC": 7.5,
+        "FC Dallas": 1.35,
+        "Draw": 4.15
+      },
+      "Pinnacle": {
+        "Austin FC": 9.73,
+        "FC Dallas": 1.41,
+        "Draw": 4.1
+      },
+      "Betfair": {
+        "Austin FC": 10.0,
+        "FC Dallas": 1.45,
+        "Draw": 4.5
+      },
+      "Matchbook": {
+        "Austin FC": 9.8,
+        "FC Dallas": 1.46,
+        "Draw": 4.5
+      }
+    },
+    "291aa40dff62365f4529502d6d2d2e5f:h2h": {
+      "Coolbet": {
+        "Guadalajara": 1.73,
+        "Santos Laguna": 6.0,
+        "Draw": 3.4
+      },
+      "Betclic (FR)": {
+        "Guadalajara": 1.69,
+        "Santos Laguna": 4.9,
+        "Draw": 3.1
+      },
+      "Nordic Bet": {
+        "Guadalajara": 1.55,
+        "Santos Laguna": 4.9,
+        "Draw": 4.15
+      },
+      "Betsson": {
+        "Guadalajara": 1.68,
+        "Santos Laguna": 5.35,
+        "Draw": 3.15
+      },
+      "Tipico": {
+        "Guadalajara": 1.7,
+        "Santos Laguna": 5.2,
+        "Draw": 3.1
+      },
+      "Unibet (SE)": {
+        "Guadalajara": 1.81,
+        "Santos Laguna": 4.8,
+        "Draw": 3.1
+      },
+      "Unibet (NL)": {
+        "Guadalajara": 1.81,
+        "Santos Laguna": 4.8,
+        "Draw": 3.1
+      },
+      "PMU (FR)": {
+        "Guadalajara": 1.63,
+        "Santos Laguna": 4.25,
+        "Draw": 2.8
+      },
+      "LeoVegas (SE)": {
+        "Guadalajara": 1.71,
+        "Santos Laguna": 4.5,
+        "Draw": 2.95
+      },
+      "Pinnacle": {
+        "Guadalajara": 1.71,
+        "Santos Laguna": 5.39,
+        "Draw": 3.47
+      },
+      "888sport": {
+        "Guadalajara": 1.61,
+        "Santos Laguna": 4.75,
+        "Draw": 3.2
+      },
+      "Betfair": {
+        "Guadalajara": 1.8,
+        "Santos Laguna": 5.8,
+        "Draw": 3.6
+      },
+      "Matchbook": {
+        "Guadalajara": 1.88,
+        "Santos Laguna": 5.5,
+        "Draw": 3.45
+      }
+    },
+    "235d6733ba040815d12859e40de81c1e:h2h": {
+      "Coolbet": {
+        "Seattle Sounders FC": 3.7,
+        "Vancouver Whitecaps FC": 1.93,
+        "Draw": 3.8
+      },
+      "888sport": {
+        "Seattle Sounders FC": 3.5,
+        "Vancouver Whitecaps FC": 1.85,
+        "Draw": 3.8
+      },
+      "Betclic (FR)": {
+        "Seattle Sounders FC": 3.5,
+        "Vancouver Whitecaps FC": 1.85,
+        "Draw": 3.65
+      },
+      "Winamax (DE)": {
+        "Seattle Sounders FC": 3.5,
+        "Vancouver Whitecaps FC": 1.82,
+        "Draw": 3.8
+      },
+      "William Hill": {
+        "Seattle Sounders FC": 3.5,
+        "Vancouver Whitecaps FC": 1.85,
+        "Draw": 3.8
+      },
+      "Winamax (FR)": {
+        "Seattle Sounders FC": 3.35,
+        "Vancouver Whitecaps FC": 1.82,
+        "Draw": 3.7
+      },
+      "1xBet": {
+        "Seattle Sounders FC": 3.42,
+        "Vancouver Whitecaps FC": 1.99,
+        "Draw": 4.23
+      },
+      "Marathon Bet": {
+        "Seattle Sounders FC": 3.72,
+        "Vancouver Whitecaps FC": 1.85,
         "Draw": 3.8
       },
       "Nordic Bet": {
-        "Botafogo": 7.2,
-        "Vitoria": 1.43,
-        "Draw": 3.9
-      },
-      "PMU (FR)": {
-        "Botafogo": 8.0,
-        "Vitoria": 1.32,
+        "Seattle Sounders FC": 3.7,
+        "Vancouver Whitecaps FC": 1.92,
         "Draw": 3.6
       },
+      "Betsson": {
+        "Seattle Sounders FC": 3.7,
+        "Vancouver Whitecaps FC": 1.9,
+        "Draw": 3.85
+      },
+      "Tipico": {
+        "Seattle Sounders FC": 3.5,
+        "Vancouver Whitecaps FC": 1.85,
+        "Draw": 3.8
+      },
       "Unibet (NL)": {
-        "Botafogo": 8.0,
-        "Vitoria": 1.36,
-        "Draw": 3.75
+        "Seattle Sounders FC": 3.8,
+        "Vancouver Whitecaps FC": 1.83,
+        "Draw": 3.8
       },
       "LeoVegas (SE)": {
-        "Botafogo": 8.0,
-        "Vitoria": 1.34,
+        "Seattle Sounders FC": 3.95,
+        "Vancouver Whitecaps FC": 1.88,
+        "Draw": 3.95
+      },
+      "Unibet (SE)": {
+        "Seattle Sounders FC": 3.8,
+        "Vancouver Whitecaps FC": 1.83,
+        "Draw": 3.8
+      },
+      "PMU (FR)": {
+        "Seattle Sounders FC": 3.65,
+        "Vancouver Whitecaps FC": 1.8,
         "Draw": 3.65
       },
-      "Unibet (SE)": {
-        "Botafogo": 8.5,
-        "Vitoria": 1.41,
-        "Draw": 3.9
-      },
-      "Pinnacle": {
-        "Botafogo": 8.57,
-        "Vitoria": 1.48,
-        "Draw": 3.82
-      },
-      "Matchbook": {
-        "Botafogo": 9.2,
-        "Vitoria": 1.52,
-        "Draw": 4.2
-      },
-      "Tipico": {
-        "Botafogo": 7.5,
-        "Vitoria": 1.4,
-        "Draw": 4.0
-      },
-      "Betfair": {
-        "Botafogo": 9.2,
-        "Vitoria": 1.52,
-        "Draw": 4.2
-      },
       "MyBookie.ag": {
-        "Botafogo": 6.75,
-        "Vitoria": 1.45,
-        "Draw": 3.7
-      }
-    },
-    "5b250e4ccee474fc79c0ebbd5defaa31:h2h": {
-      "Unibet (NL)": {
-        "Clube de Regatas Brasil": 2.48,
-        "Grêmio Novorizontino": 3.25,
-        "Draw": 2.35
-      },
-      "Unibet (SE)": {
-        "Clube de Regatas Brasil": 2.6,
-        "Grêmio Novorizontino": 3.4,
-        "Draw": 2.48
-      },
-      "LeoVegas (SE)": {
-        "Clube de Regatas Brasil": 2.45,
-        "Grêmio Novorizontino": 3.2,
-        "Draw": 2.33
-      },
-      "Betsson": {
-        "Clube de Regatas Brasil": 2.65,
-        "Grêmio Novorizontino": 3.4,
-        "Draw": 2.35
-      },
-      "Nordic Bet": {
-        "Clube de Regatas Brasil": 2.65,
-        "Grêmio Novorizontino": 3.4,
-        "Draw": 2.35
-      },
-      "Coolbet": {
-        "Clube de Regatas Brasil": 2.63,
-        "Grêmio Novorizontino": 3.4,
-        "Draw": 2.38
+        "Seattle Sounders FC": 3.6,
+        "Vancouver Whitecaps FC": 1.93,
+        "Draw": 3.8
       },
       "Pinnacle": {
-        "Clube de Regatas Brasil": 2.8,
-        "Grêmio Novorizontino": 3.52,
-        "Draw": 2.35
+        "Seattle Sounders FC": 3.68,
+        "Vancouver Whitecaps FC": 1.95,
+        "Draw": 3.99
       },
-      "888sport": {
-        "Clube de Regatas Brasil": 2.62,
-        "Grêmio Novorizontino": 3.3,
-        "Draw": 2.3
+      "GTbets": {
+        "Seattle Sounders FC": 3.74,
+        "Vancouver Whitecaps FC": 1.9,
+        "Draw": 3.91
       },
-      "Tipico": {
-        "Clube de Regatas Brasil": 2.5,
-        "Grêmio Novorizontino": 3.6,
-        "Draw": 2.4
+      "BetOnline.ag": {
+        "Seattle Sounders FC": 3.9,
+        "Vancouver Whitecaps FC": 1.88,
+        "Draw": 4.03
       },
-      "Matchbook": {
-        "Clube de Regatas Brasil": 2.82,
-        "Grêmio Novorizontino": 3.65,
-        "Draw": 2.58
+      "Unibet (FR)": {
+        "Seattle Sounders FC": 3.6,
+        "Vancouver Whitecaps FC": 1.82,
+        "Draw": 3.7
       },
       "Betfair": {
-        "Clube de Regatas Brasil": 2.82,
-        "Grêmio Novorizontino": 3.65,
-        "Draw": 2.58
+        "Seattle Sounders FC": 3.9,
+        "Vancouver Whitecaps FC": 1.91,
+        "Draw": 4.3
+      },
+      "BetAnything": {
+        "Seattle Sounders FC": 3.9,
+        "Vancouver Whitecaps FC": 1.88,
+        "Draw": 4.03
+      },
+      "Matchbook": {
+        "Seattle Sounders FC": 3.95,
+        "Vancouver Whitecaps FC": 1.93,
+        "Draw": 4.2
       }
     }
   },
@@ -9509,13 +9569,43 @@
       "confidence": 5,
       "alert_type": "value",
       "alerted_at": "2026-08-16T22:33:00.516055+00:00"
+    },
+    {
+      "state_key": "291aa40dff62365f4529502d6d2d2e5f:h2h",
+      "event_id": "291aa40dff62365f4529502d6d2d2e5f",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Santos Laguna",
+      "away_team": "Guadalajara",
+      "commence_time": "2026-08-17T01:10:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Santos Laguna",
+      "odds_at_alert": 6.0,
+      "stake_pct": 2.0,
+      "confidence": 5,
+      "alert_type": "value",
+      "alerted_at": "2026-08-17T01:52:19.949044+00:00"
+    },
+    {
+      "state_key": "291aa40dff62365f4529502d6d2d2e5f:h2h",
+      "event_id": "291aa40dff62365f4529502d6d2d2e5f",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Santos Laguna",
+      "away_team": "Guadalajara",
+      "commence_time": "2026-08-17T01:10:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.15,
+      "stake_pct": 3.0,
+      "confidence": 13,
+      "alert_type": "value",
+      "alerted_at": "2026-08-17T01:52:20.272521+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "4b9ad53d71ab5d992c2bbb20119f22e7:h2h|Betfair|Argentinos Juniors",
-    "4b9ad53d71ab5d992c2bbb20119f22e7:h2h|Betfair|Draw",
-    "83ee089db3127339d9a020c5971dfe73:h2h|Betfair|América Mineiro",
-    "83ee089db3127339d9a020c5971dfe73:h2h|Matchbook|América Mineiro"
+    "291aa40dff62365f4529502d6d2d2e5f:h2h|Coolbet|Santos Laguna",
+    "291aa40dff62365f4529502d6d2d2e5f:h2h|Nordic Bet|Draw"
   ]
 }
