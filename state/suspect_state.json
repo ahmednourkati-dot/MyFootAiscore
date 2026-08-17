@@ -1,77 +1,10 @@
 {
   "snapshots": {
-    "5bf51beae4612a05a17b66c31ca1f409:h2h": {
-      "Coolbet": {
-        "Cruz Azul": 22.0,
-        "Tijuana": 1.29,
-        "Draw": 4.5
-      },
-      "Betclic (FR)": {
-        "Cruz Azul": 15.75,
-        "Tijuana": 1.25,
-        "Draw": 3.83
-      },
-      "Nordic Bet": {
-        "Cruz Azul": 19.5,
-        "Tijuana": 1.26,
-        "Draw": 4.1
-      },
-      "Betsson": {
-        "Cruz Azul": 17.5,
-        "Tijuana": 1.26,
-        "Draw": 4.1
-      },
-      "Tipico": {
-        "Cruz Azul": 11.0,
-        "Tijuana": 1.3,
-        "Draw": 4.3
-      },
-      "PMU (FR)": {
-        "Cruz Azul": 17.0,
-        "Tijuana": 1.13,
-        "Draw": 3.85
-      },
-      "Unibet (NL)": {
-        "Cruz Azul": 17.0,
-        "Tijuana": 1.28,
-        "Draw": 4.1
-      },
-      "Unibet (SE)": {
-        "Cruz Azul": 17.0,
-        "Tijuana": 1.28,
-        "Draw": 4.1
-      },
-      "LeoVegas (SE)": {
-        "Cruz Azul": 16.0,
-        "Tijuana": 1.21,
-        "Draw": 3.9
-      },
-      "Pinnacle": {
-        "Cruz Azul": 14.4,
-        "Tijuana": 1.36,
-        "Draw": 3.96
-      },
-      "888sport": {
-        "Cruz Azul": 13.0,
-        "Tijuana": 1.25,
-        "Draw": 3.8
-      },
-      "Betfair": {
-        "Cruz Azul": 22.0,
-        "Tijuana": 1.36,
-        "Draw": 4.4
-      },
-      "Matchbook": {
-        "Cruz Azul": 23.0,
-        "Tijuana": 1.32,
-        "Draw": 4.6
-      }
-    },
     "3207f5ea4e92594162cdf716b7953261:h2h": {
       "Pinnacle": {
         "IF Gnistan": 2.54,
-        "Ilves Tampere": 2.7,
-        "Draw": 3.73
+        "Ilves Tampere": 2.72,
+        "Draw": 3.67
       },
       "1xBet": {
         "IF Gnistan": 2.42,
@@ -134,28 +67,28 @@
         "Draw": 3.61
       },
       "Tipico": {
-        "IF Gnistan": 2.35,
+        "IF Gnistan": 2.4,
         "Ilves Tampere": 2.6,
-        "Draw": 3.6
+        "Draw": 3.5
       },
       "Coolbet": {
-        "IF Gnistan": 2.4,
-        "Ilves Tampere": 2.8,
+        "IF Gnistan": 2.45,
+        "Ilves Tampere": 2.74,
         "Draw": 3.75
       },
       "Betfair": {
-        "IF Gnistan": 2.58,
-        "Ilves Tampere": 2.74,
-        "Draw": 3.8
+        "IF Gnistan": 2.62,
+        "Ilves Tampere": 2.72,
+        "Draw": 3.85
       },
       "BetAnything": {
         "IF Gnistan": 2.48,
         "Ilves Tampere": 2.68,
-        "Draw": 3.6
+        "Draw": 3.55
       },
       "Matchbook": {
-        "IF Gnistan": 2.58,
-        "Ilves Tampere": 2.74,
+        "IF Gnistan": 2.62,
+        "Ilves Tampere": 2.72,
         "Draw": 3.85
       }
     },
@@ -171,9 +104,9 @@
         "Draw": 3.4
       },
       "Pinnacle": {
-        "Empoli": 4.49,
-        "Pisa": 1.87,
-        "Draw": 3.52
+        "Empoli": 4.42,
+        "Pisa": 1.89,
+        "Draw": 3.5
       },
       "888sport": {
         "Empoli": 4.0,
@@ -181,9 +114,9 @@
         "Draw": 3.25
       },
       "1xBet": {
-        "Empoli": 4.25,
-        "Pisa": 1.84,
-        "Draw": 3.4
+        "Empoli": 4.2,
+        "Pisa": 1.86,
+        "Draw": 3.38
       },
       "LeoVegas (SE)": {
         "Empoli": 3.8,
@@ -196,9 +129,9 @@
         "Draw": 3.5
       },
       "Betfair": {
-        "Empoli": 4.7,
-        "Pisa": 1.92,
-        "Draw": 3.6
+        "Empoli": 4.6,
+        "Pisa": 1.93,
+        "Draw": 3.65
       },
       "Codere (IT)": {
         "Empoli": 4.3,
@@ -218,9 +151,9 @@
     },
     "f1c8f6739a37b8a672b30ddc81d6bf27:h2h": {
       "Pinnacle": {
-        "Cesena FC": 5.79,
-        "Sassuolo": 1.53,
-        "Draw": 4.63
+        "Cesena FC": 5.83,
+        "Sassuolo": 1.52,
+        "Draw": 4.71
       },
       "Unibet (NL)": {
         "Cesena FC": 5.5,
@@ -233,8 +166,8 @@
         "Draw": 4.4
       },
       "Betfair": {
-        "Cesena FC": 6.2,
-        "Sassuolo": 1.54,
+        "Cesena FC": 6.8,
+        "Sassuolo": 1.53,
         "Draw": 4.7
       },
       "1xBet": {
@@ -271,6 +204,113 @@
         "Cesena FC": 5.2,
         "Sassuolo": 1.47,
         "Draw": 4.5
+      }
+    },
+    "5a522fe54ae01be40f5c1969281e05b0:h2h": {
+      "1xBet": {
+        "BK Hacken": 1.31,
+        "Halmstads BK": 8.2,
+        "Draw": 5.5
+      },
+      "Unibet (FR)": {
+        "BK Hacken": 1.28,
+        "Halmstads BK": 7.5,
+        "Draw": 5.4
+      },
+      "Betclic (FR)": {
+        "BK Hacken": 1.3,
+        "Halmstads BK": 7.75,
+        "Draw": 5.5
+      },
+      "Betfair": {
+        "BK Hacken": 1.35,
+        "Halmstads BK": 9.2,
+        "Draw": 6.0
+      },
+      "Winamax (FR)": {
+        "BK Hacken": 1.28,
+        "Halmstads BK": 6.75,
+        "Draw": 5.4
+      },
+      "Winamax (DE)": {
+        "BK Hacken": 1.29,
+        "Halmstads BK": 7.0,
+        "Draw": 5.6
+      },
+      "Nordic Bet": {
+        "BK Hacken": 1.33,
+        "Halmstads BK": 9.0,
+        "Draw": 4.7
+      },
+      "Betsson": {
+        "BK Hacken": 1.33,
+        "Halmstads BK": 9.0,
+        "Draw": 4.7
+      },
+      "888sport": {
+        "BK Hacken": 1.3,
+        "Halmstads BK": 7.5,
+        "Draw": 5.0
+      },
+      "William Hill": {
+        "BK Hacken": 1.3,
+        "Halmstads BK": 7.5,
+        "Draw": 5.0
+      },
+      "Pinnacle": {
+        "BK Hacken": 1.32,
+        "Halmstads BK": 8.37,
+        "Draw": 5.96
+      },
+      "PMU (FR)": {
+        "BK Hacken": 1.28,
+        "Halmstads BK": 7.0,
+        "Draw": 4.9
+      },
+      "Unibet (NL)": {
+        "BK Hacken": 1.33,
+        "Halmstads BK": 8.0,
+        "Draw": 5.25
+      },
+      "Unibet (SE)": {
+        "BK Hacken": 1.36,
+        "Halmstads BK": 8.5,
+        "Draw": 5.6
+      },
+      "LeoVegas (SE)": {
+        "BK Hacken": 1.33,
+        "Halmstads BK": 8.0,
+        "Draw": 5.25
+      },
+      "GTbets": {
+        "BK Hacken": 1.3,
+        "Halmstads BK": 7.67,
+        "Draw": 5.4
+      },
+      "Tipico": {
+        "BK Hacken": 1.28,
+        "Halmstads BK": 8.0,
+        "Draw": 5.5
+      },
+      "Coolbet": {
+        "BK Hacken": 1.33,
+        "Halmstads BK": 9.1,
+        "Draw": 5.5
+      },
+      "BetOnline.ag": {
+        "BK Hacken": 1.31,
+        "Halmstads BK": 7.8,
+        "Draw": 5.8
+      },
+      "BetAnything": {
+        "BK Hacken": 1.31,
+        "Halmstads BK": 7.8,
+        "Draw": 5.8
+      },
+      "Matchbook": {
+        "BK Hacken": 1.35,
+        "Halmstads BK": 9.2,
+        "Draw": 6.0
       }
     }
   },
@@ -9779,21 +9819,60 @@
       "confidence": 10,
       "alert_type": "value",
       "alerted_at": "2026-08-17T04:54:32.320325+00:00"
+    },
+    {
+      "state_key": "f1c8f6739a37b8a672b30ddc81d6bf27:h2h",
+      "event_id": "f1c8f6739a37b8a672b30ddc81d6bf27",
+      "sport_key": "soccer",
+      "competition": "Coppa Italia",
+      "home_team": "Sassuolo",
+      "away_team": "Cesena FC",
+      "commence_time": "2026-08-17T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cesena FC",
+      "odds_at_alert": 6.8,
+      "stake_pct": 3.0,
+      "confidence": 12,
+      "alert_type": "value",
+      "alerted_at": "2026-08-17T07:12:37.910079+00:00"
+    },
+    {
+      "state_key": "5a522fe54ae01be40f5c1969281e05b0:h2h",
+      "event_id": "5a522fe54ae01be40f5c1969281e05b0",
+      "sport_key": "soccer",
+      "competition": "Allsvenskan - Sweden",
+      "home_team": "BK Hacken",
+      "away_team": "Halmstads BK",
+      "commence_time": "2026-08-17T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Halmstads BK",
+      "odds_at_alert": 9.2,
+      "stake_pct": 2.0,
+      "confidence": 5,
+      "alert_type": "value",
+      "alerted_at": "2026-08-17T07:12:38.328972+00:00"
+    },
+    {
+      "state_key": "5a522fe54ae01be40f5c1969281e05b0:h2h",
+      "event_id": "5a522fe54ae01be40f5c1969281e05b0",
+      "sport_key": "soccer",
+      "competition": "Allsvenskan - Sweden",
+      "home_team": "BK Hacken",
+      "away_team": "Halmstads BK",
+      "commence_time": "2026-08-17T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Halmstads BK",
+      "odds_at_alert": 9.2,
+      "stake_pct": 2.0,
+      "confidence": 5,
+      "alert_type": "value",
+      "alerted_at": "2026-08-17T07:12:38.746132+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "5bf51beae4612a05a17b66c31ca1f409:h2h|Betfair|Cruz Azul",
-    "5bf51beae4612a05a17b66c31ca1f409:h2h|Betfair|Draw",
-    "5bf51beae4612a05a17b66c31ca1f409:h2h|Betsson|Cruz Azul",
-    "5bf51beae4612a05a17b66c31ca1f409:h2h|Coolbet|Cruz Azul",
-    "5bf51beae4612a05a17b66c31ca1f409:h2h|Coolbet|Draw",
-    "5bf51beae4612a05a17b66c31ca1f409:h2h|LeoVegas (SE)|Cruz Azul",
-    "5bf51beae4612a05a17b66c31ca1f409:h2h|Matchbook|Cruz Azul",
-    "5bf51beae4612a05a17b66c31ca1f409:h2h|Matchbook|Draw",
-    "5bf51beae4612a05a17b66c31ca1f409:h2h|Nordic Bet|Cruz Azul",
-    "5bf51beae4612a05a17b66c31ca1f409:h2h|PMU (FR)|Cruz Azul",
-    "5bf51beae4612a05a17b66c31ca1f409:h2h|Unibet (NL)|Cruz Azul",
-    "5bf51beae4612a05a17b66c31ca1f409:h2h|Unibet (SE)|Cruz Azul"
+    "5a522fe54ae01be40f5c1969281e05b0:h2h|Betfair|Halmstads BK",
+    "5a522fe54ae01be40f5c1969281e05b0:h2h|Matchbook|Halmstads BK",
+    "f1c8f6739a37b8a672b30ddc81d6bf27:h2h|Betfair|Cesena FC"
   ]
 }
