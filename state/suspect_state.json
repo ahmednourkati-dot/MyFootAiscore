@@ -1,271 +1,211 @@
 {
   "snapshots": {
-    "3207f5ea4e92594162cdf716b7953261:h2h": {
-      "Pinnacle": {
-        "IF Gnistan": 2.63,
-        "Ilves Tampere": 10.37,
-        "Draw": 1.7
-      },
-      "LeoVegas (SE)": {
-        "IF Gnistan": 2.25,
-        "Ilves Tampere": 9.5,
-        "Draw": 1.62
-      },
-      "PMU (FR)": {
-        "IF Gnistan": 2.18,
-        "Ilves Tampere": 9.0,
-        "Draw": 1.57
-      },
-      "Unibet (SE)": {
-        "IF Gnistan": 2.38,
-        "Ilves Tampere": 9.5,
-        "Draw": 1.73
-      },
-      "Unibet (NL)": {
-        "IF Gnistan": 2.38,
-        "Ilves Tampere": 9.5,
-        "Draw": 1.73
-      },
-      "888sport": {
-        "IF Gnistan": 1.05,
-        "Ilves Tampere": 91.0,
-        "Draw": 11.0
-      },
-      "Betsson": {
-        "IF Gnistan": 2.6,
-        "Ilves Tampere": 10.5,
-        "Draw": 1.62
-      },
-      "Nordic Bet": {
-        "IF Gnistan": 2.6,
-        "Ilves Tampere": 10.5,
-        "Draw": 1.62
-      },
-      "Tipico": {
-        "IF Gnistan": 1.07,
-        "Ilves Tampere": 120.0,
-        "Draw": 6.0
-      },
-      "Coolbet": {
-        "IF Gnistan": 2.88,
-        "Ilves Tampere": 11.0,
-        "Draw": 1.67
-      },
-      "Betfair": {
-        "IF Gnistan": 2.78,
-        "Ilves Tampere": 14.5,
-        "Draw": 1.74
-      },
-      "Matchbook": {
-        "IF Gnistan": 2.86,
-        "Ilves Tampere": 12.5,
-        "Draw": 1.72
-      }
-    },
-    "d959c34229a55dc1fee9812185d7ed5d:h2h": {
-      "Unibet (NL)": {
-        "Empoli": 5.1,
-        "Pisa": 1.78,
-        "Draw": 2.88
-      },
-      "Tipico": {
-        "Empoli": 4.3,
-        "Pisa": 1.85,
-        "Draw": 3.2
-      },
-      "Pinnacle": {
-        "Empoli": 5.15,
-        "Pisa": 1.86,
-        "Draw": 3.0
-      },
-      "888sport": {
-        "Empoli": 4.8,
-        "Pisa": 1.75,
-        "Draw": 2.9
-      },
-      "LeoVegas (SE)": {
-        "Empoli": 4.7,
-        "Pisa": 1.7,
-        "Draw": 2.75
-      },
-      "Unibet (SE)": {
-        "Empoli": 5.1,
-        "Pisa": 1.78,
-        "Draw": 2.88
-      },
-      "Betfair": {
-        "Empoli": 6.0,
-        "Pisa": 1.81,
-        "Draw": 3.5
-      },
-      "Winamax (DE)": {
-        "Empoli": 4.6,
-        "Pisa": 1.8,
-        "Draw": 3.0
-      }
-    },
-    "f1c8f6739a37b8a672b30ddc81d6bf27:h2h": {
-      "Pinnacle": {
-        "Cesena FC": 6.24,
-        "Sassuolo": 1.53,
-        "Draw": 4.35
-      },
-      "Unibet (NL)": {
-        "Cesena FC": 6.1,
-        "Sassuolo": 1.4,
-        "Draw": 4.5
-      },
-      "Tipico": {
-        "Cesena FC": 6.0,
-        "Sassuolo": 1.45,
-        "Draw": 4.3
-      },
-      "Betfair": {
-        "Cesena FC": 7.4,
-        "Sassuolo": 1.53,
-        "Draw": 4.6
-      },
-      "1xBet": {
-        "Cesena FC": 5.76,
-        "Sassuolo": 1.5,
-        "Draw": 4.34
-      },
-      "888sport": {
-        "Cesena FC": 5.5,
-        "Sassuolo": 1.44,
-        "Draw": 4.0
-      },
-      "Codere (IT)": {
-        "Cesena FC": 5.8,
-        "Sassuolo": 1.49,
-        "Draw": 4.6
-      },
-      "Unibet (SE)": {
-        "Cesena FC": 6.1,
-        "Sassuolo": 1.4,
-        "Draw": 4.5
-      },
-      "LeoVegas (SE)": {
-        "Cesena FC": 5.8,
-        "Sassuolo": 1.32,
-        "Draw": 4.3
-      },
-      "William Hill": {
-        "Cesena FC": 5.5,
-        "Sassuolo": 1.5,
-        "Draw": 4.2
-      },
-      "Winamax (DE)": {
-        "Cesena FC": 5.5,
-        "Sassuolo": 1.46,
-        "Draw": 4.2
-      }
-    },
     "5a522fe54ae01be40f5c1969281e05b0:h2h": {
-      "1xBet": {
-        "BK Hacken": 1.33,
-        "Halmstads BK": 7.45,
-        "Draw": 5.5
-      },
-      "Unibet (FR)": {
-        "BK Hacken": 1.3,
-        "Halmstads BK": 6.7,
-        "Draw": 5.2
-      },
       "Betclic (FR)": {
-        "BK Hacken": 1.31,
-        "Halmstads BK": 6.75,
-        "Draw": 5.1
+        "BK Hacken": 1.0,
+        "Halmstads BK": 100.0,
+        "Draw": 43.0
       },
       "Betfair": {
-        "BK Hacken": 1.36,
-        "Halmstads BK": 9.2,
-        "Draw": 5.9
+        "BK Hacken": 1.03,
+        "Halmstads BK": 5.5,
+        "Draw": 26.0
       },
       "Winamax (FR)": {
-        "BK Hacken": 1.29,
-        "Halmstads BK": 6.5,
-        "Draw": 5.6
+        "BK Hacken": 1.01,
+        "Halmstads BK": 1000.0,
+        "Draw": 30.0
       },
       "Winamax (DE)": {
-        "BK Hacken": 1.3,
-        "Halmstads BK": 6.5,
-        "Draw": 5.7
+        "BK Hacken": 1.01,
+        "Halmstads BK": 1000.0,
+        "Draw": 29.0
       },
       "Nordic Bet": {
-        "BK Hacken": 1.35,
-        "Halmstads BK": 8.5,
-        "Draw": 4.7
+        "BK Hacken": 1.0,
+        "Halmstads BK": 41.0,
+        "Draw": 19.0
       },
       "Betsson": {
-        "BK Hacken": 1.35,
-        "Halmstads BK": 8.5,
-        "Draw": 4.7
+        "BK Hacken": 1.0,
+        "Halmstads BK": 41.0,
+        "Draw": 19.0
       },
       "888sport": {
-        "BK Hacken": 1.33,
-        "Halmstads BK": 7.0,
-        "Draw": 5.0
-      },
-      "William Hill": {
-        "BK Hacken": 1.35,
-        "Halmstads BK": 7.0,
-        "Draw": 5.0
-      },
-      "Pinnacle": {
-        "BK Hacken": 1.36,
-        "Halmstads BK": 7.47,
-        "Draw": 5.68
-      },
-      "PMU (FR)": {
-        "BK Hacken": 1.26,
-        "Halmstads BK": 7.5,
-        "Draw": 5.1
-      },
-      "Unibet (NL)": {
-        "BK Hacken": 1.3,
-        "Halmstads BK": 8.0,
-        "Draw": 5.5
-      },
-      "Unibet (SE)": {
-        "BK Hacken": 1.35,
-        "Halmstads BK": 9.0,
-        "Draw": 5.8
-      },
-      "LeoVegas (SE)": {
-        "BK Hacken": 1.3,
-        "Halmstads BK": 8.0,
-        "Draw": 5.5
-      },
-      "GTbets": {
-        "BK Hacken": 1.37,
-        "Halmstads BK": 7.27,
-        "Draw": 5.4
-      },
-      "Tipico": {
-        "BK Hacken": 1.3,
-        "Halmstads BK": 7.8,
-        "Draw": 5.2
+        "BK Hacken": 1.03,
+        "Halmstads BK": 126.0,
+        "Draw": 15.0
       },
       "Coolbet": {
-        "BK Hacken": 1.35,
-        "Halmstads BK": 8.0,
-        "Draw": 5.7
+        "BK Hacken": 1.01,
+        "Halmstads BK": 300.0,
+        "Draw": 20.0
+      }
+    },
+    "25110d6f8bd9ec3d16c3311227abd031:h2h": {
+      "Winamax (FR)": {
+        "Brondby IF": 1.02,
+        "SonderjyskE": 1000.0,
+        "Draw": 21.0
       },
-      "BetOnline.ag": {
-        "BK Hacken": 1.33,
-        "Halmstads BK": 7.2,
-        "Draw": 5.7
+      "Winamax (DE)": {
+        "Brondby IF": 1.02,
+        "SonderjyskE": 600.0,
+        "Draw": 17.0
       },
-      "BetAnything": {
-        "BK Hacken": 1.33,
-        "Halmstads BK": 7.2,
-        "Draw": 5.7
+      "Betclic (FR)": {
+        "Brondby IF": 1.02,
+        "SonderjyskE": 100.0,
+        "Draw": 11.5
+      },
+      "Betsson": {
+        "Brondby IF": 1.0,
+        "SonderjyskE": 101.0,
+        "Draw": 15.0
+      },
+      "Nordic Bet": {
+        "Brondby IF": 1.0,
+        "SonderjyskE": 126.0,
+        "Draw": 15.0
+      },
+      "Suprabets": {
+        "Brondby IF": 1.03,
+        "SonderjyskE": 163.0,
+        "Draw": 8.2
+      },
+      "Betfair": {
+        "Brondby IF": 1.02,
+        "SonderjyskE": 1000.0,
+        "Draw": 34.0
+      },
+      "Tipico": {
+        "Brondby IF": 1.01,
+        "SonderjyskE": 400.0,
+        "Draw": 25.0
+      },
+      "Coolbet": {
+        "Brondby IF": 1.01,
+        "SonderjyskE": 125.0,
+        "Draw": 13.0
+      }
+    },
+    "156362501c4105c23c213f47dbfebcf0:h2h": {
+      "Winamax (FR)": {
+        "Sabadell FC": 42.0,
+        "Sporting Gijón": 36.0,
+        "Draw": 1.02
+      },
+      "Winamax (DE)": {
+        "Sabadell FC": 42.0,
+        "Sporting Gijón": 36.0,
+        "Draw": 1.01
+      },
+      "Tipico": {
+        "Sabadell FC": 22.0,
+        "Sporting Gijón": 16.0,
+        "Draw": 1.01
+      },
+      "Betfair": {
+        "Sabadell FC": 40.0,
+        "Sporting Gijón": 40.0,
+        "Draw": 1.02
+      },
+      "Betclic (FR)": {
+        "Sabadell FC": 19.75,
+        "Sporting Gijón": 16.0,
+        "Draw": 1.0
+      },
+      "Pinnacle": {
+        "Sabadell FC": 9.7,
+        "Sporting Gijón": 7.32,
+        "Draw": 1.2
+      },
+      "Coolbet": {
+        "Sabadell FC": 28.0,
+        "Sporting Gijón": 25.0,
+        "Draw": 1.0
+      },
+      "Betsson": {
+        "Sabadell FC": 10.5,
+        "Sporting Gijón": 8.6,
+        "Draw": 1.12
+      },
+      "Nordic Bet": {
+        "Sabadell FC": 11.5,
+        "Sporting Gijón": 9.1,
+        "Draw": 1.1
+      },
+      "LeoVegas (SE)": {
+        "Sabadell FC": 11.0,
+        "Sporting Gijón": 12.0,
+        "Draw": 1.02
+      },
+      "Unibet (NL)": {
+        "Sabadell FC": 17.0,
+        "Sporting Gijón": 14.0,
+        "Draw": 1.01
+      },
+      "Unibet (SE)": {
+        "Sabadell FC": 36.0,
+        "Sporting Gijón": 16.0,
+        "Draw": 1.02
+      },
+      "PMU (FR)": {
+        "Sabadell FC": 9.0,
+        "Sporting Gijón": 9.0,
+        "Draw": 1.02
       },
       "Matchbook": {
-        "BK Hacken": 1.36,
-        "Halmstads BK": 9.4,
-        "Draw": 5.9
+        "Sabadell FC": 40.0,
+        "Sporting Gijón": 13.0,
+        "Draw": 1.02
+      }
+    },
+    "0910862bb2fa73b5d65f4c92b46050bf:h2h": {
+      "Winamax (DE)": {
+        "Atlético Tucuman": 2.95,
+        "Estudiantes de Río Cuarto": 4.5,
+        "Draw": 1.82
+      },
+      "Winamax (FR)": {
+        "Atlético Tucuman": 2.85,
+        "Estudiantes de Río Cuarto": 4.3,
+        "Draw": 1.78
+      },
+      "Betclic (FR)": {
+        "Atlético Tucuman": 2.97,
+        "Estudiantes de Río Cuarto": 4.4,
+        "Draw": 1.78
+      },
+      "Betfair": {
+        "Atlético Tucuman": 3.4,
+        "Estudiantes de Río Cuarto": 5.3,
+        "Draw": 1.91
+      },
+      "Unibet (SE)": {
+        "Atlético Tucuman": 3.15,
+        "Estudiantes de Río Cuarto": 4.0,
+        "Draw": 1.93
+      },
+      "LeoVegas (SE)": {
+        "Atlético Tucuman": 2.95,
+        "Estudiantes de Río Cuarto": 3.8,
+        "Draw": 1.81
+      },
+      "Nordic Bet": {
+        "Atlético Tucuman": 3.15,
+        "Estudiantes de Río Cuarto": 4.6,
+        "Draw": 1.78
+      },
+      "Betsson": {
+        "Atlético Tucuman": 3.05,
+        "Estudiantes de Río Cuarto": 4.6,
+        "Draw": 1.82
+      },
+      "Pinnacle": {
+        "Atlético Tucuman": 3.17,
+        "Estudiantes de Río Cuarto": 4.67,
+        "Draw": 1.89
       }
     }
   },
@@ -10014,24 +9954,440 @@
       "confidence": 9,
       "alert_type": "value",
       "alerted_at": "2026-08-17T16:40:14.308711+00:00"
+    },
+    {
+      "state_key": "156362501c4105c23c213f47dbfebcf0:h2h",
+      "event_id": "156362501c4105c23c213f47dbfebcf0",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Sporting Gijón",
+      "away_team": "Sabadell FC",
+      "commence_time": "2026-08-17T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sabadell FC",
+      "odds_at_alert": 42.0,
+      "stake_pct": 5.0,
+      "confidence": 304,
+      "alert_type": "value",
+      "alerted_at": "2026-08-17T18:54:14.891327+00:00"
+    },
+    {
+      "state_key": "156362501c4105c23c213f47dbfebcf0:h2h",
+      "event_id": "156362501c4105c23c213f47dbfebcf0",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Sporting Gijón",
+      "away_team": "Sabadell FC",
+      "commence_time": "2026-08-17T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sporting Gijón",
+      "odds_at_alert": 36.0,
+      "stake_pct": 5.0,
+      "confidence": 358,
+      "alert_type": "value",
+      "alerted_at": "2026-08-17T18:54:15.401643+00:00"
+    },
+    {
+      "state_key": "156362501c4105c23c213f47dbfebcf0:h2h",
+      "event_id": "156362501c4105c23c213f47dbfebcf0",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Sporting Gijón",
+      "away_team": "Sabadell FC",
+      "commence_time": "2026-08-17T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sabadell FC",
+      "odds_at_alert": 42.0,
+      "stake_pct": 5.0,
+      "confidence": 304,
+      "alert_type": "value",
+      "alerted_at": "2026-08-17T18:54:15.914289+00:00"
+    },
+    {
+      "state_key": "156362501c4105c23c213f47dbfebcf0:h2h",
+      "event_id": "156362501c4105c23c213f47dbfebcf0",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Sporting Gijón",
+      "away_team": "Sabadell FC",
+      "commence_time": "2026-08-17T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sporting Gijón",
+      "odds_at_alert": 36.0,
+      "stake_pct": 5.0,
+      "confidence": 358,
+      "alert_type": "value",
+      "alerted_at": "2026-08-17T18:54:16.450749+00:00"
+    },
+    {
+      "state_key": "156362501c4105c23c213f47dbfebcf0:h2h",
+      "event_id": "156362501c4105c23c213f47dbfebcf0",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Sporting Gijón",
+      "away_team": "Sabadell FC",
+      "commence_time": "2026-08-17T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sabadell FC",
+      "odds_at_alert": 22.0,
+      "stake_pct": 5.0,
+      "confidence": 111,
+      "alert_type": "value",
+      "alerted_at": "2026-08-17T18:54:17.007025+00:00"
+    },
+    {
+      "state_key": "156362501c4105c23c213f47dbfebcf0:h2h",
+      "event_id": "156362501c4105c23c213f47dbfebcf0",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Sporting Gijón",
+      "away_team": "Sabadell FC",
+      "commence_time": "2026-08-17T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sporting Gijón",
+      "odds_at_alert": 16.0,
+      "stake_pct": 5.0,
+      "confidence": 104,
+      "alert_type": "value",
+      "alerted_at": "2026-08-17T18:54:17.561037+00:00"
+    },
+    {
+      "state_key": "156362501c4105c23c213f47dbfebcf0:h2h",
+      "event_id": "156362501c4105c23c213f47dbfebcf0",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Sporting Gijón",
+      "away_team": "Sabadell FC",
+      "commence_time": "2026-08-17T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sabadell FC",
+      "odds_at_alert": 40.0,
+      "stake_pct": 5.0,
+      "confidence": 284,
+      "alert_type": "value",
+      "alerted_at": "2026-08-17T18:54:18.167764+00:00"
+    },
+    {
+      "state_key": "156362501c4105c23c213f47dbfebcf0:h2h",
+      "event_id": "156362501c4105c23c213f47dbfebcf0",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Sporting Gijón",
+      "away_team": "Sabadell FC",
+      "commence_time": "2026-08-17T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sporting Gijón",
+      "odds_at_alert": 40.0,
+      "stake_pct": 5.0,
+      "confidence": 409,
+      "alert_type": "value",
+      "alerted_at": "2026-08-17T18:54:18.700997+00:00"
+    },
+    {
+      "state_key": "156362501c4105c23c213f47dbfebcf0:h2h",
+      "event_id": "156362501c4105c23c213f47dbfebcf0",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Sporting Gijón",
+      "away_team": "Sabadell FC",
+      "commence_time": "2026-08-17T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sabadell FC",
+      "odds_at_alert": 19.75,
+      "stake_pct": 5.0,
+      "confidence": 90,
+      "alert_type": "value",
+      "alerted_at": "2026-08-17T18:54:19.229239+00:00"
+    },
+    {
+      "state_key": "156362501c4105c23c213f47dbfebcf0:h2h",
+      "event_id": "156362501c4105c23c213f47dbfebcf0",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Sporting Gijón",
+      "away_team": "Sabadell FC",
+      "commence_time": "2026-08-17T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sporting Gijón",
+      "odds_at_alert": 16.0,
+      "stake_pct": 5.0,
+      "confidence": 104,
+      "alert_type": "value",
+      "alerted_at": "2026-08-17T18:54:19.776959+00:00"
+    },
+    {
+      "state_key": "156362501c4105c23c213f47dbfebcf0:h2h",
+      "event_id": "156362501c4105c23c213f47dbfebcf0",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Sporting Gijón",
+      "away_team": "Sabadell FC",
+      "commence_time": "2026-08-17T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sabadell FC",
+      "odds_at_alert": 28.0,
+      "stake_pct": 5.0,
+      "confidence": 169,
+      "alert_type": "value",
+      "alerted_at": "2026-08-17T18:54:20.270924+00:00"
+    },
+    {
+      "state_key": "156362501c4105c23c213f47dbfebcf0:h2h",
+      "event_id": "156362501c4105c23c213f47dbfebcf0",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Sporting Gijón",
+      "away_team": "Sabadell FC",
+      "commence_time": "2026-08-17T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sporting Gijón",
+      "odds_at_alert": 25.0,
+      "stake_pct": 5.0,
+      "confidence": 218,
+      "alert_type": "value",
+      "alerted_at": "2026-08-17T18:54:20.825286+00:00"
+    },
+    {
+      "state_key": "156362501c4105c23c213f47dbfebcf0:h2h",
+      "event_id": "156362501c4105c23c213f47dbfebcf0",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Sporting Gijón",
+      "away_team": "Sabadell FC",
+      "commence_time": "2026-08-17T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sporting Gijón",
+      "odds_at_alert": 8.6,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-08-17T18:54:21.323479+00:00"
+    },
+    {
+      "state_key": "156362501c4105c23c213f47dbfebcf0:h2h",
+      "event_id": "156362501c4105c23c213f47dbfebcf0",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Sporting Gijón",
+      "away_team": "Sabadell FC",
+      "commence_time": "2026-08-17T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sabadell FC",
+      "odds_at_alert": 11.5,
+      "stake_pct": 3.0,
+      "confidence": 10,
+      "alert_type": "value",
+      "alerted_at": "2026-08-17T18:54:21.871164+00:00"
+    },
+    {
+      "state_key": "156362501c4105c23c213f47dbfebcf0:h2h",
+      "event_id": "156362501c4105c23c213f47dbfebcf0",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Sporting Gijón",
+      "away_team": "Sabadell FC",
+      "commence_time": "2026-08-17T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sporting Gijón",
+      "odds_at_alert": 9.1,
+      "stake_pct": 5.0,
+      "confidence": 16,
+      "alert_type": "value",
+      "alerted_at": "2026-08-17T18:54:22.351339+00:00"
+    },
+    {
+      "state_key": "156362501c4105c23c213f47dbfebcf0:h2h",
+      "event_id": "156362501c4105c23c213f47dbfebcf0",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Sporting Gijón",
+      "away_team": "Sabadell FC",
+      "commence_time": "2026-08-17T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sabadell FC",
+      "odds_at_alert": 11.0,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-08-17T18:54:22.890824+00:00"
+    },
+    {
+      "state_key": "156362501c4105c23c213f47dbfebcf0:h2h",
+      "event_id": "156362501c4105c23c213f47dbfebcf0",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Sporting Gijón",
+      "away_team": "Sabadell FC",
+      "commence_time": "2026-08-17T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sporting Gijón",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 53,
+      "alert_type": "value",
+      "alerted_at": "2026-08-17T18:54:23.426981+00:00"
+    },
+    {
+      "state_key": "156362501c4105c23c213f47dbfebcf0:h2h",
+      "event_id": "156362501c4105c23c213f47dbfebcf0",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Sporting Gijón",
+      "away_team": "Sabadell FC",
+      "commence_time": "2026-08-17T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sabadell FC",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 63,
+      "alert_type": "value",
+      "alerted_at": "2026-08-17T18:54:23.973185+00:00"
+    },
+    {
+      "state_key": "156362501c4105c23c213f47dbfebcf0:h2h",
+      "event_id": "156362501c4105c23c213f47dbfebcf0",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Sporting Gijón",
+      "away_team": "Sabadell FC",
+      "commence_time": "2026-08-17T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sporting Gijón",
+      "odds_at_alert": 14.0,
+      "stake_pct": 5.0,
+      "confidence": 78,
+      "alert_type": "value",
+      "alerted_at": "2026-08-17T18:54:24.536920+00:00"
+    },
+    {
+      "state_key": "156362501c4105c23c213f47dbfebcf0:h2h",
+      "event_id": "156362501c4105c23c213f47dbfebcf0",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Sporting Gijón",
+      "away_team": "Sabadell FC",
+      "commence_time": "2026-08-17T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sabadell FC",
+      "odds_at_alert": 36.0,
+      "stake_pct": 5.0,
+      "confidence": 246,
+      "alert_type": "value",
+      "alerted_at": "2026-08-17T18:54:25.088520+00:00"
+    },
+    {
+      "state_key": "156362501c4105c23c213f47dbfebcf0:h2h",
+      "event_id": "156362501c4105c23c213f47dbfebcf0",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Sporting Gijón",
+      "away_team": "Sabadell FC",
+      "commence_time": "2026-08-17T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sporting Gijón",
+      "odds_at_alert": 16.0,
+      "stake_pct": 5.0,
+      "confidence": 104,
+      "alert_type": "value",
+      "alerted_at": "2026-08-17T18:54:25.600404+00:00"
+    },
+    {
+      "state_key": "156362501c4105c23c213f47dbfebcf0:h2h",
+      "event_id": "156362501c4105c23c213f47dbfebcf0",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Sporting Gijón",
+      "away_team": "Sabadell FC",
+      "commence_time": "2026-08-17T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sporting Gijón",
+      "odds_at_alert": 9.0,
+      "stake_pct": 3.0,
+      "confidence": 15,
+      "alert_type": "value",
+      "alerted_at": "2026-08-17T18:54:26.127887+00:00"
+    },
+    {
+      "state_key": "156362501c4105c23c213f47dbfebcf0:h2h",
+      "event_id": "156362501c4105c23c213f47dbfebcf0",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Sporting Gijón",
+      "away_team": "Sabadell FC",
+      "commence_time": "2026-08-17T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sabadell FC",
+      "odds_at_alert": 40.0,
+      "stake_pct": 5.0,
+      "confidence": 284,
+      "alert_type": "value",
+      "alerted_at": "2026-08-17T18:54:26.645817+00:00"
+    },
+    {
+      "state_key": "156362501c4105c23c213f47dbfebcf0:h2h",
+      "event_id": "156362501c4105c23c213f47dbfebcf0",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Sporting Gijón",
+      "away_team": "Sabadell FC",
+      "commence_time": "2026-08-17T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sporting Gijón",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 66,
+      "alert_type": "value",
+      "alerted_at": "2026-08-17T18:54:27.176175+00:00"
+    },
+    {
+      "state_key": "0910862bb2fa73b5d65f4c92b46050bf:h2h",
+      "event_id": "0910862bb2fa73b5d65f4c92b46050bf",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Estudiantes de Río Cuarto",
+      "away_team": "Atlético Tucuman",
+      "commence_time": "2026-08-17T17:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Estudiantes de Río Cuarto",
+      "odds_at_alert": 5.3,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-08-17T18:54:27.708914+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "3207f5ea4e92594162cdf716b7953261:h2h|888sport|Draw",
-    "3207f5ea4e92594162cdf716b7953261:h2h|888sport|Ilves Tampere",
-    "3207f5ea4e92594162cdf716b7953261:h2h|Betfair|Ilves Tampere",
-    "3207f5ea4e92594162cdf716b7953261:h2h|Matchbook|Ilves Tampere",
-    "3207f5ea4e92594162cdf716b7953261:h2h|Tipico|Draw",
-    "3207f5ea4e92594162cdf716b7953261:h2h|Tipico|Ilves Tampere",
+    "0910862bb2fa73b5d65f4c92b46050bf:h2h|Betfair|Estudiantes de Río Cuarto",
+    "156362501c4105c23c213f47dbfebcf0:h2h|Betclic (FR)|Sabadell FC",
+    "156362501c4105c23c213f47dbfebcf0:h2h|Betclic (FR)|Sporting Gijón",
+    "156362501c4105c23c213f47dbfebcf0:h2h|Betfair|Sabadell FC",
+    "156362501c4105c23c213f47dbfebcf0:h2h|Betfair|Sporting Gijón",
+    "156362501c4105c23c213f47dbfebcf0:h2h|Betsson|Sporting Gijón",
+    "156362501c4105c23c213f47dbfebcf0:h2h|Coolbet|Sabadell FC",
+    "156362501c4105c23c213f47dbfebcf0:h2h|Coolbet|Sporting Gijón",
+    "156362501c4105c23c213f47dbfebcf0:h2h|LeoVegas (SE)|Sabadell FC",
+    "156362501c4105c23c213f47dbfebcf0:h2h|LeoVegas (SE)|Sporting Gijón",
+    "156362501c4105c23c213f47dbfebcf0:h2h|Matchbook|Sabadell FC",
+    "156362501c4105c23c213f47dbfebcf0:h2h|Matchbook|Sporting Gijón",
+    "156362501c4105c23c213f47dbfebcf0:h2h|Nordic Bet|Sabadell FC",
+    "156362501c4105c23c213f47dbfebcf0:h2h|Nordic Bet|Sporting Gijón",
+    "156362501c4105c23c213f47dbfebcf0:h2h|PMU (FR)|Sporting Gijón",
+    "156362501c4105c23c213f47dbfebcf0:h2h|Tipico|Sabadell FC",
+    "156362501c4105c23c213f47dbfebcf0:h2h|Tipico|Sporting Gijón",
+    "156362501c4105c23c213f47dbfebcf0:h2h|Unibet (NL)|Sabadell FC",
+    "156362501c4105c23c213f47dbfebcf0:h2h|Unibet (NL)|Sporting Gijón",
+    "156362501c4105c23c213f47dbfebcf0:h2h|Unibet (SE)|Sabadell FC",
+    "156362501c4105c23c213f47dbfebcf0:h2h|Unibet (SE)|Sporting Gijón",
+    "156362501c4105c23c213f47dbfebcf0:h2h|Winamax (DE)|Sabadell FC",
+    "156362501c4105c23c213f47dbfebcf0:h2h|Winamax (DE)|Sporting Gijón",
+    "156362501c4105c23c213f47dbfebcf0:h2h|Winamax (FR)|Sabadell FC",
+    "156362501c4105c23c213f47dbfebcf0:h2h|Winamax (FR)|Sporting Gijón",
     "5a522fe54ae01be40f5c1969281e05b0:h2h|Betfair|Halmstads BK",
     "5a522fe54ae01be40f5c1969281e05b0:h2h|Betsson|Halmstads BK",
     "5a522fe54ae01be40f5c1969281e05b0:h2h|Coolbet|Halmstads BK",
     "5a522fe54ae01be40f5c1969281e05b0:h2h|Matchbook|Halmstads BK",
     "5a522fe54ae01be40f5c1969281e05b0:h2h|Nordic Bet|Halmstads BK",
-    "5a522fe54ae01be40f5c1969281e05b0:h2h|Unibet (SE)|Halmstads BK",
-    "d959c34229a55dc1fee9812185d7ed5d:h2h|Betfair|Draw",
-    "d959c34229a55dc1fee9812185d7ed5d:h2h|Betfair|Empoli",
-    "f1c8f6739a37b8a672b30ddc81d6bf27:h2h|Betfair|Cesena FC"
+    "5a522fe54ae01be40f5c1969281e05b0:h2h|Unibet (SE)|Halmstads BK"
   ]
 }
