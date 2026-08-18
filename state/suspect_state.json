@@ -1,112 +1,45 @@
 {
   "snapshots": {
-    "1fa4faa9a275055bafa251f91affc6ff:h2h": {
-      "888sport": {
-        "Pachuca": 2.62,
-        "Puebla": 5.75,
-        "Draw": 1.7
-      },
-      "Coolbet": {
-        "Pachuca": 3.14,
-        "Puebla": 8.0,
-        "Draw": 1.67
-      },
-      "Betclic (FR)": {
-        "Pachuca": 2.73,
-        "Puebla": 7.25,
-        "Draw": 1.66
-      },
-      "Nordic Bet": {
-        "Pachuca": 2.88,
-        "Puebla": 7.2,
-        "Draw": 1.62
-      },
-      "Betsson": {
-        "Pachuca": 2.78,
-        "Puebla": 7.2,
-        "Draw": 1.68
-      },
-      "Tipico": {
-        "Pachuca": 2.6,
-        "Puebla": 8.0,
-        "Draw": 1.7
-      },
-      "Pinnacle": {
-        "Pachuca": 2.72,
-        "Puebla": 6.26,
-        "Draw": 1.88
-      },
-      "Unibet (NL)": {
-        "Pachuca": 3.0,
-        "Puebla": 7.0,
-        "Draw": 1.66
-      },
-      "LeoVegas (SE)": {
-        "Pachuca": 2.8,
-        "Puebla": 6.5,
-        "Draw": 1.56
-      },
-      "Unibet (SE)": {
-        "Pachuca": 2.88,
-        "Puebla": 8.0,
-        "Draw": 1.66
-      },
-      "PMU (FR)": {
-        "Pachuca": 2.65,
-        "Puebla": 6.1,
-        "Draw": 1.49
-      },
-      "Betfair": {
-        "Pachuca": 3.0,
-        "Puebla": 7.4,
-        "Draw": 1.85
-      },
-      "Matchbook": {
-        "Pachuca": 2.92,
-        "Puebla": 7.6,
-        "Draw": 1.82
-      }
-    },
     "248595ac1ee1f61ade0e68a492f79cf9:h2h": {
       "Pinnacle": {
-        "Beijing FC": 2.91,
-        "Shanghai Shenhua FC": 2.22,
-        "Draw": 4.07
+        "Beijing FC": 3.12,
+        "Shanghai Shenhua FC": 2.09,
+        "Draw": 4.13
       },
       "BetOnline.ag": {
-        "Beijing FC": 2.92,
-        "Shanghai Shenhua FC": 2.19,
-        "Draw": 3.9
+        "Beijing FC": 3.15,
+        "Shanghai Shenhua FC": 2.06,
+        "Draw": 3.95
       },
       "Coolbet": {
         "Beijing FC": 2.9,
-        "Shanghai Shenhua FC": 2.15,
-        "Draw": 4.0
-      },
-      "Betfair": {
-        "Beijing FC": 3.0,
-        "Shanghai Shenhua FC": 2.24,
+        "Shanghai Shenhua FC": 2.12,
         "Draw": 4.2
       },
+      "Betfair": {
+        "Beijing FC": 3.2,
+        "Shanghai Shenhua FC": 2.14,
+        "Draw": 4.3
+      },
       "Marathon Bet": {
-        "Beijing FC": 2.91,
-        "Shanghai Shenhua FC": 2.1,
-        "Draw": 3.85
+        "Beijing FC": 3.02,
+        "Shanghai Shenhua FC": 2.04,
+        "Draw": 3.88
       },
       "888sport": {
-        "Beijing FC": 2.8,
-        "Shanghai Shenhua FC": 2.15,
-        "Draw": 3.75
+        "Beijing FC": 2.9,
+        "Shanghai Shenhua FC": 2.05,
+        "Draw": 3.8
       },
       "William Hill": {
-        "Beijing FC": 2.8,
-        "Shanghai Shenhua FC": 2.15,
-        "Draw": 3.75
+        "Beijing FC": 2.9,
+        "Shanghai Shenhua FC": 2.05,
+        "Draw": 3.8
       },
       "1xBet": {
-        "Beijing FC": 3.0,
-        "Shanghai Shenhua FC": 2.17,
-        "Draw": 3.96
+        "Beijing FC": 3.11,
+        "Shanghai Shenhua FC": 2.1,
+        "Draw": 4.0
       },
       "GTbets": {
         "Beijing FC": 2.91,
@@ -114,153 +47,153 @@
         "Draw": 3.85
       },
       "Matchbook": {
-        "Beijing FC": 3.0,
-        "Shanghai Shenhua FC": 2.24,
-        "Draw": 4.2
+        "Beijing FC": 3.2,
+        "Shanghai Shenhua FC": 2.14,
+        "Draw": 4.3
       },
       "Betsson": {
-        "Beijing FC": 2.85,
-        "Shanghai Shenhua FC": 2.08,
+        "Beijing FC": 2.95,
+        "Shanghai Shenhua FC": 2.05,
         "Draw": 3.8
       },
       "Nordic Bet": {
-        "Beijing FC": 2.85,
-        "Shanghai Shenhua FC": 2.08,
+        "Beijing FC": 2.95,
+        "Shanghai Shenhua FC": 2.05,
         "Draw": 3.8
       },
       "Unibet (FR)": {
-        "Beijing FC": 2.8,
-        "Shanghai Shenhua FC": 2.0,
+        "Beijing FC": 2.85,
+        "Shanghai Shenhua FC": 1.98,
         "Draw": 3.8
       },
       "Tipico": {
-        "Beijing FC": 2.8,
-        "Shanghai Shenhua FC": 2.1,
-        "Draw": 3.9
+        "Beijing FC": 2.95,
+        "Shanghai Shenhua FC": 2.0,
+        "Draw": 4.0
       },
       "Codere (IT)": {
-        "Beijing FC": 2.85,
-        "Shanghai Shenhua FC": 2.09,
-        "Draw": 3.9
+        "Beijing FC": 2.9,
+        "Shanghai Shenhua FC": 2.05,
+        "Draw": 3.85
       },
       "Winamax (FR)": {
-        "Beijing FC": 2.7,
+        "Beijing FC": 2.8,
         "Shanghai Shenhua FC": 2.0,
         "Draw": 3.9
       },
       "Winamax (DE)": {
-        "Beijing FC": 2.75,
-        "Shanghai Shenhua FC": 2.05,
-        "Draw": 4.0
+        "Beijing FC": 2.85,
+        "Shanghai Shenhua FC": 2.0,
+        "Draw": 3.95
       },
       "Unibet (NL)": {
-        "Beijing FC": 3.1,
-        "Shanghai Shenhua FC": 2.02,
-        "Draw": 4.0
+        "Beijing FC": 2.88,
+        "Shanghai Shenhua FC": 2.07,
+        "Draw": 3.9
       },
       "Unibet (SE)": {
-        "Beijing FC": 3.1,
-        "Shanghai Shenhua FC": 2.02,
-        "Draw": 4.0
+        "Beijing FC": 2.88,
+        "Shanghai Shenhua FC": 2.07,
+        "Draw": 3.9
       },
       "LeoVegas (SE)": {
-        "Beijing FC": 2.95,
-        "Shanghai Shenhua FC": 1.93,
-        "Draw": 3.8
+        "Beijing FC": 2.8,
+        "Shanghai Shenhua FC": 2.02,
+        "Draw": 3.75
       }
     },
     "9ccf2ce01c868371156182f1cdb55b10:h2h": {
       "Unibet (FR)": {
         "AEK Athens": 2.4,
-        "PFC Levski Sofia": 2.9,
-        "Draw": 3.1
+        "PFC Levski Sofia": 3.1,
+        "Draw": 3.2
       },
       "Coolbet": {
-        "AEK Athens": 2.5,
-        "PFC Levski Sofia": 2.95,
+        "AEK Athens": 2.4,
+        "PFC Levski Sofia": 3.1,
         "Draw": 3.2
       },
       "Tipico": {
-        "AEK Athens": 2.4,
+        "AEK Athens": 2.25,
+        "PFC Levski Sofia": 3.3,
+        "Draw": 3.1
+      },
+      "1xBet": {
+        "AEK Athens": 2.44,
+        "PFC Levski Sofia": 3.35,
+        "Draw": 3.15
+      },
+      "Marathon Bet": {
+        "AEK Athens": 2.33,
+        "PFC Levski Sofia": 3.2,
+        "Draw": 3.02
+      },
+      "Betsson": {
+        "AEK Athens": 2.32,
         "PFC Levski Sofia": 3.1,
         "Draw": 3.0
       },
-      "1xBet": {
-        "AEK Athens": 2.54,
-        "PFC Levski Sofia": 3.15,
-        "Draw": 3.17
-      },
-      "Marathon Bet": {
-        "AEK Athens": 2.44,
-        "PFC Levski Sofia": 3.0,
-        "Draw": 3.04
-      },
-      "Betsson": {
-        "AEK Athens": 2.42,
-        "PFC Levski Sofia": 2.9,
-        "Draw": 3.05
-      },
       "Nordic Bet": {
-        "AEK Athens": 2.42,
-        "PFC Levski Sofia": 2.9,
-        "Draw": 3.05
+        "AEK Athens": 2.32,
+        "PFC Levski Sofia": 3.1,
+        "Draw": 3.0
       },
       "888sport": {
-        "AEK Athens": 2.45,
-        "PFC Levski Sofia": 2.9,
+        "AEK Athens": 2.3,
+        "PFC Levski Sofia": 3.1,
         "Draw": 2.9
       },
       "LeoVegas (SE)": {
-        "AEK Athens": 2.48,
-        "PFC Levski Sofia": 2.7,
-        "Draw": 3.05
+        "AEK Athens": 2.25,
+        "PFC Levski Sofia": 3.05,
+        "Draw": 2.95
       },
       "PMU (FR)": {
-        "AEK Athens": 2.6,
-        "PFC Levski Sofia": 2.8,
-        "Draw": 3.15
+        "AEK Athens": 2.33,
+        "PFC Levski Sofia": 3.2,
+        "Draw": 3.1
       },
       "Unibet (SE)": {
-        "AEK Athens": 2.6,
-        "PFC Levski Sofia": 2.8,
-        "Draw": 3.15
+        "AEK Athens": 2.33,
+        "PFC Levski Sofia": 3.2,
+        "Draw": 3.1
       },
       "Unibet (NL)": {
-        "AEK Athens": 2.6,
-        "PFC Levski Sofia": 2.8,
-        "Draw": 3.15
+        "AEK Athens": 2.33,
+        "PFC Levski Sofia": 3.2,
+        "Draw": 3.1
       },
       "Pinnacle": {
-        "AEK Athens": 2.48,
-        "PFC Levski Sofia": 3.11,
-        "Draw": 3.13
+        "AEK Athens": 2.4,
+        "PFC Levski Sofia": 3.38,
+        "Draw": 3.01
       },
       "Betfair": {
-        "AEK Athens": 2.62,
-        "PFC Levski Sofia": 3.15,
+        "AEK Athens": 2.48,
+        "PFC Levski Sofia": 3.4,
         "Draw": 3.25
       },
       "BetOnline.ag": {
-        "AEK Athens": 2.44,
-        "PFC Levski Sofia": 3.08,
-        "Draw": 3.17
+        "AEK Athens": 2.35,
+        "PFC Levski Sofia": 3.16,
+        "Draw": 3.25
       }
     },
     "420c8c22b8a1050b76ae8e4b9496a128:h2h": {
       "1xBet": {
-        "Dinamo Zagreb": 1.78,
-        "Viking FK": 4.53,
-        "Draw": 4.12
+        "Dinamo Zagreb": 1.79,
+        "Viking FK": 4.43,
+        "Draw": 4.11
       },
       "Marathon Bet": {
-        "Dinamo Zagreb": 1.7,
-        "Viking FK": 4.33,
-        "Draw": 3.95
+        "Dinamo Zagreb": 1.72,
+        "Viking FK": 4.25,
+        "Draw": 3.94
       },
       "Coolbet": {
-        "Dinamo Zagreb": 1.75,
-        "Viking FK": 4.5,
-        "Draw": 4.05
+        "Dinamo Zagreb": 1.74,
+        "Viking FK": 4.6,
+        "Draw": 4.1
       },
       "Tipico": {
         "Dinamo Zagreb": 1.67,
@@ -268,18 +201,18 @@
         "Draw": 4.1
       },
       "Unibet (FR)": {
-        "Dinamo Zagreb": 1.73,
-        "Viking FK": 4.5,
-        "Draw": 4.05
+        "Dinamo Zagreb": 1.7,
+        "Viking FK": 4.55,
+        "Draw": 4.2
       },
       "Betsson": {
-        "Dinamo Zagreb": 1.7,
-        "Viking FK": 4.3,
+        "Dinamo Zagreb": 1.65,
+        "Viking FK": 4.55,
         "Draw": 3.75
       },
       "Nordic Bet": {
-        "Dinamo Zagreb": 1.7,
-        "Viking FK": 4.3,
+        "Dinamo Zagreb": 1.65,
+        "Viking FK": 4.55,
         "Draw": 3.75
       },
       "888sport": {
@@ -288,39 +221,116 @@
         "Draw": 3.75
       },
       "Pinnacle": {
-        "Dinamo Zagreb": 1.73,
-        "Viking FK": 4.5,
-        "Draw": 4.03
+        "Dinamo Zagreb": 1.74,
+        "Viking FK": 4.39,
+        "Draw": 4.08
       },
       "PMU (FR)": {
-        "Dinamo Zagreb": 1.7,
-        "Viking FK": 4.5,
-        "Draw": 4.0
+        "Dinamo Zagreb": 1.65,
+        "Viking FK": 4.75,
+        "Draw": 4.1
       },
       "Unibet (NL)": {
-        "Dinamo Zagreb": 1.7,
-        "Viking FK": 4.5,
-        "Draw": 4.0
+        "Dinamo Zagreb": 1.65,
+        "Viking FK": 4.75,
+        "Draw": 4.1
       },
       "Unibet (SE)": {
-        "Dinamo Zagreb": 1.7,
-        "Viking FK": 4.5,
-        "Draw": 4.0
+        "Dinamo Zagreb": 1.65,
+        "Viking FK": 4.75,
+        "Draw": 4.1
       },
       "LeoVegas (SE)": {
-        "Dinamo Zagreb": 1.64,
-        "Viking FK": 4.25,
-        "Draw": 3.85
+        "Dinamo Zagreb": 1.6,
+        "Viking FK": 4.5,
+        "Draw": 3.9
       },
       "Betfair": {
-        "Dinamo Zagreb": 1.77,
-        "Viking FK": 5.0,
-        "Draw": 4.2
+        "Dinamo Zagreb": 1.81,
+        "Viking FK": 4.7,
+        "Draw": 4.1
       },
       "BetOnline.ag": {
-        "Dinamo Zagreb": 1.68,
-        "Viking FK": 4.68,
-        "Draw": 4.11
+        "Dinamo Zagreb": 1.67,
+        "Viking FK": 4.8,
+        "Draw": 4.15
+      }
+    },
+    "e1e6ee803b77fcab7d8f4541d404e6a5:h2h": {
+      "Coolbet": {
+        "Fenerbahce": 2.05,
+        "Lyon": 3.4,
+        "Draw": 3.75
+      },
+      "1xBet": {
+        "Fenerbahce": 2.06,
+        "Lyon": 3.66,
+        "Draw": 3.74
+      },
+      "Tipico": {
+        "Fenerbahce": 1.95,
+        "Lyon": 3.7,
+        "Draw": 3.5
+      },
+      "Unibet (FR)": {
+        "Fenerbahce": 2.0,
+        "Lyon": 3.6,
+        "Draw": 3.65
+      },
+      "Nordic Bet": {
+        "Fenerbahce": 1.98,
+        "Lyon": 3.45,
+        "Draw": 3.4
+      },
+      "Betsson": {
+        "Fenerbahce": 1.98,
+        "Lyon": 3.45,
+        "Draw": 3.4
+      },
+      "888sport": {
+        "Fenerbahce": 2.0,
+        "Lyon": 3.4,
+        "Draw": 3.4
+      },
+      "Marathon Bet": {
+        "Fenerbahce": 2.05,
+        "Lyon": 3.64,
+        "Draw": 3.72
+      },
+      "LeoVegas (SE)": {
+        "Fenerbahce": 1.97,
+        "Lyon": 3.3,
+        "Draw": 3.4
+      },
+      "PMU (FR)": {
+        "Fenerbahce": 2.02,
+        "Lyon": 3.45,
+        "Draw": 3.5
+      },
+      "Unibet (SE)": {
+        "Fenerbahce": 2.02,
+        "Lyon": 3.4,
+        "Draw": 3.45
+      },
+      "Unibet (NL)": {
+        "Fenerbahce": 2.02,
+        "Lyon": 3.4,
+        "Draw": 3.45
+      },
+      "Pinnacle": {
+        "Fenerbahce": 2.01,
+        "Lyon": 3.61,
+        "Draw": 3.69
+      },
+      "Betfair": {
+        "Fenerbahce": 2.1,
+        "Lyon": 3.8,
+        "Draw": 3.75
+      },
+      "BetOnline.ag": {
+        "Fenerbahce": 2.03,
+        "Lyon": 3.63,
+        "Draw": 3.55
       }
     }
   },
@@ -11225,16 +11235,6 @@
   ],
   "results_history": [],
   "value_alerted": [
-    "1fa4faa9a275055bafa251f91affc6ff:h2h|Betclic (FR)|Puebla",
-    "1fa4faa9a275055bafa251f91affc6ff:h2h|Betfair|Puebla",
-    "1fa4faa9a275055bafa251f91affc6ff:h2h|Betsson|Puebla",
-    "1fa4faa9a275055bafa251f91affc6ff:h2h|Coolbet|Pachuca",
-    "1fa4faa9a275055bafa251f91affc6ff:h2h|Coolbet|Puebla",
-    "1fa4faa9a275055bafa251f91affc6ff:h2h|Matchbook|Puebla",
-    "1fa4faa9a275055bafa251f91affc6ff:h2h|Nordic Bet|Puebla",
-    "1fa4faa9a275055bafa251f91affc6ff:h2h|Tipico|Puebla",
-    "1fa4faa9a275055bafa251f91affc6ff:h2h|Unibet (NL)|Puebla",
-    "1fa4faa9a275055bafa251f91affc6ff:h2h|Unibet (SE)|Puebla",
     "420c8c22b8a1050b76ae8e4b9496a128:h2h|Betfair|Viking FK"
   ]
 }
