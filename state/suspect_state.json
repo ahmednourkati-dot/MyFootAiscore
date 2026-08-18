@@ -1,336 +1,236 @@
 {
   "snapshots": {
-    "9c7d6ce4e925c3ef8e007b18fe763b09:h2h": {
-      "Betfair": {
-        "Defensa y Justicia": 14.5,
-        "Velez Sarsfield BA": 1.31,
-        "Draw": 5.8
-      },
-      "Winamax (DE)": {
-        "Defensa y Justicia": 10.0,
-        "Velez Sarsfield BA": 1.25,
-        "Draw": 5.0
-      },
-      "Winamax (FR)": {
-        "Defensa y Justicia": 9.5,
-        "Velez Sarsfield BA": 1.26,
-        "Draw": 4.7
-      },
-      "Betclic (FR)": {
-        "Defensa y Justicia": 9.75,
-        "Velez Sarsfield BA": 1.23,
-        "Draw": 4.8
-      },
-      "Unibet (SE)": {
-        "Defensa y Justicia": 11.0,
-        "Velez Sarsfield BA": 1.27,
-        "Draw": 5.0
-      },
-      "LeoVegas (SE)": {
-        "Defensa y Justicia": 10.0,
-        "Velez Sarsfield BA": 1.21,
-        "Draw": 4.7
-      },
-      "Betsson": {
-        "Defensa y Justicia": 10.5,
-        "Velez Sarsfield BA": 1.26,
-        "Draw": 4.85
-      },
-      "Nordic Bet": {
-        "Defensa y Justicia": 10.5,
-        "Velez Sarsfield BA": 1.26,
-        "Draw": 4.85
-      },
-      "Pinnacle": {
-        "Defensa y Justicia": 12.24,
-        "Velez Sarsfield BA": 1.3,
-        "Draw": 4.8
-      }
-    },
-    "caa23e620c159aa3324822722689bd9a:h2h": {
-      "Betclic (FR)": {
-        "Internacional": 1.44,
-        "Remo": 6.25,
-        "Draw": 3.93
-      },
-      "William Hill": {
-        "Internacional": 1.44,
-        "Remo": 6.5,
-        "Draw": 4.0
-      },
-      "888sport": {
-        "Internacional": 1.44,
-        "Remo": 6.5,
-        "Draw": 4.0
-      },
-      "Coolbet": {
-        "Internacional": 1.5,
-        "Remo": 6.8,
-        "Draw": 4.2
-      },
-      "Codere (IT)": {
-        "Internacional": 1.47,
-        "Remo": 6.6,
-        "Draw": 4.4
-      },
-      "Winamax (FR)": {
-        "Internacional": 1.42,
-        "Remo": 5.8,
-        "Draw": 4.2
-      },
-      "Winamax (DE)": {
-        "Internacional": 1.43,
-        "Remo": 6.0,
-        "Draw": 4.3
-      },
-      "Unibet (FR)": {
-        "Internacional": 1.39,
-        "Remo": 6.3,
-        "Draw": 4.2
-      },
-      "1xBet": {
-        "Internacional": 1.5,
-        "Remo": 7.04,
-        "Draw": 4.27
-      },
-      "Nordic Bet": {
-        "Internacional": 1.48,
-        "Remo": 6.8,
-        "Draw": 3.85
-      },
-      "Betsson": {
-        "Internacional": 1.48,
-        "Remo": 6.8,
-        "Draw": 3.85
-      },
-      "Marathon Bet": {
-        "Internacional": 1.45,
-        "Remo": 6.9,
-        "Draw": 4.2
-      },
-      "LeoVegas (SE)": {
-        "Internacional": 1.4,
-        "Remo": 6.4,
-        "Draw": 4.1
-      },
-      "Unibet (NL)": {
-        "Internacional": 1.42,
-        "Remo": 6.75,
-        "Draw": 4.35
-      },
-      "PMU (FR)": {
-        "Internacional": 1.4,
-        "Remo": 6.4,
-        "Draw": 4.1
-      },
-      "Unibet (SE)": {
-        "Internacional": 1.42,
-        "Remo": 6.75,
-        "Draw": 4.35
-      },
-      "Pinnacle": {
-        "Internacional": 1.5,
-        "Remo": 7.43,
-        "Draw": 4.29
-      },
-      "Tipico": {
-        "Internacional": 1.42,
-        "Remo": 6.8,
-        "Draw": 4.2
-      },
-      "Matchbook": {
-        "Internacional": 1.52,
-        "Remo": 8.4,
-        "Draw": 4.5
-      },
-      "GTbets": {
-        "Internacional": 1.52,
-        "Remo": 6.66,
-        "Draw": 4.16
-      },
-      "BetOnline.ag": {
-        "Internacional": 1.47,
-        "Remo": 8.0,
-        "Draw": 4.4
-      },
-      "Betfair": {
-        "Internacional": 1.5,
-        "Remo": 8.4,
-        "Draw": 4.5
-      },
-      "BetAnything": {
-        "Internacional": 1.47,
-        "Remo": 6.5,
-        "Draw": 4.3
-      },
-      "MyBookie.ag": {
-        "Internacional": 1.47,
-        "Remo": 6.6,
-        "Draw": 4.4
-      }
-    },
     "680612ac19d479d97c90b786987a4925:h2h": {
       "Betfair": {
-        "Gimnasia Mendoza": 3.3,
-        "Talleres": 2.74,
-        "Draw": 2.98
+        "Gimnasia Mendoza": 1.01,
+        "Talleres": 560.0,
+        "Draw": 55.0
       },
       "Winamax (DE)": {
-        "Gimnasia Mendoza": 2.95,
-        "Talleres": 2.4,
-        "Draw": 2.85
+        "Gimnasia Mendoza": 1.01,
+        "Talleres": 110.0,
+        "Draw": 36.0
       },
       "Winamax (FR)": {
-        "Gimnasia Mendoza": 2.9,
-        "Talleres": 2.35,
-        "Draw": 2.8
+        "Gimnasia Mendoza": 1.01,
+        "Talleres": 110.0,
+        "Draw": 36.0
       },
       "Betclic (FR)": {
-        "Gimnasia Mendoza": 3.0,
-        "Talleres": 2.52,
-        "Draw": 2.7
-      },
-      "Codere (IT)": {
-        "Gimnasia Mendoza": 3.15,
-        "Talleres": 2.55,
-        "Draw": 2.9
-      },
-      "Marathon Bet": {
-        "Gimnasia Mendoza": 3.05,
-        "Talleres": 2.6,
-        "Draw": 2.78
-      },
-      "LeoVegas (SE)": {
-        "Gimnasia Mendoza": 2.8,
-        "Talleres": 2.45,
-        "Draw": 2.65
+        "Gimnasia Mendoza": 1.0,
+        "Talleres": 60.0,
+        "Draw": 27.0
       },
       "Unibet (SE)": {
-        "Gimnasia Mendoza": 3.0,
-        "Talleres": 2.63,
-        "Draw": 2.85
+        "Gimnasia Mendoza": 1.01,
+        "Talleres": 91.0,
+        "Draw": 31.0
       },
       "Nordic Bet": {
-        "Gimnasia Mendoza": 3.15,
-        "Talleres": 2.55,
-        "Draw": 2.85
+        "Gimnasia Mendoza": 1.0,
+        "Talleres": 41.0,
+        "Draw": 19.0
       },
       "Betsson": {
-        "Gimnasia Mendoza": 3.15,
-        "Talleres": 2.55,
-        "Draw": 2.85
-      },
-      "Pinnacle": {
-        "Gimnasia Mendoza": 3.17,
-        "Talleres": 2.7,
-        "Draw": 2.88
-      },
-      "BetOnline.ag": {
-        "Gimnasia Mendoza": 3.25,
-        "Talleres": 2.65,
-        "Draw": 2.86
-      },
-      "BetAnything": {
-        "Gimnasia Mendoza": 3.25,
-        "Talleres": 2.65,
-        "Draw": 2.86
+        "Gimnasia Mendoza": 1.0,
+        "Talleres": 41.0,
+        "Draw": 19.0
       }
     },
     "1d64dc7725a17580fc7bbc21fa9f847c:h2h": {
       "888sport": {
-        "Huachipato": 4.33,
-        "Palestino": 1.67,
-        "Draw": 3.6
+        "Huachipato": 67.0,
+        "Palestino": 1.02,
+        "Draw": 17.0
       },
       "Winamax (FR)": {
-        "Huachipato": 4.2,
-        "Palestino": 1.62,
-        "Draw": 3.8
+        "Huachipato": 70.0,
+        "Palestino": 1.03,
+        "Draw": 20.0
       },
       "Winamax (DE)": {
-        "Huachipato": 4.3,
-        "Palestino": 1.64,
-        "Draw": 3.9
-      },
-      "Nordic Bet": {
-        "Huachipato": 4.65,
-        "Palestino": 1.7,
-        "Draw": 3.6
-      },
-      "Betsson": {
-        "Huachipato": 4.65,
-        "Palestino": 1.7,
-        "Draw": 3.6
-      },
-      "1xBet": {
-        "Huachipato": 4.57,
-        "Palestino": 1.62,
-        "Draw": 3.8
-      },
-      "Marathon Bet": {
-        "Huachipato": 4.6,
-        "Palestino": 1.66,
-        "Draw": 3.85
-      },
-      "Pinnacle": {
-        "Huachipato": 4.82,
-        "Palestino": 1.69,
-        "Draw": 4.08
+        "Huachipato": 70.0,
+        "Palestino": 1.02,
+        "Draw": 20.0
       },
       "Coolbet": {
-        "Huachipato": 4.87,
-        "Palestino": 1.75,
-        "Draw": 3.8
-      },
-      "Tipico": {
-        "Huachipato": 4.7,
-        "Palestino": 1.57,
-        "Draw": 3.9
-      },
-      "LeoVegas (SE)": {
-        "Huachipato": 4.25,
-        "Palestino": 1.73,
-        "Draw": 3.7
+        "Huachipato": 80.0,
+        "Palestino": 1.02,
+        "Draw": 20.0
       },
       "Unibet (SE)": {
-        "Huachipato": 4.25,
-        "Palestino": 1.73,
-        "Draw": 3.7
-      },
-      "GTbets": {
-        "Huachipato": 4.68,
-        "Palestino": 1.7,
-        "Draw": 3.82
-      },
-      "Unibet (FR)": {
-        "Huachipato": 4.5,
-        "Palestino": 1.61,
-        "Draw": 3.8
-      },
-      "BetOnline.ag": {
-        "Huachipato": 4.7,
-        "Palestino": 1.67,
-        "Draw": 3.95
-      },
-      "Codere (IT)": {
-        "Huachipato": 4.5,
-        "Palestino": 1.67,
-        "Draw": 3.75
+        "Huachipato": 46.0,
+        "Palestino": 1.03,
+        "Draw": 14.0
       },
       "Betfair": {
-        "Huachipato": 5.1,
-        "Palestino": 1.75,
-        "Draw": 4.1
+        "Huachipato": 140.0,
+        "Palestino": 1.04,
+        "Draw": 26.0
       },
-      "BetAnything": {
-        "Huachipato": 4.7,
-        "Palestino": 1.67,
+      "Matchbook": {
+        "Huachipato": 110.0,
+        "Palestino": 1.03,
+        "Draw": 27.0
+      }
+    },
+    "33f8e1e092f62b4456967aa2c6fd5271:h2h": {
+      "888sport": {
+        "León": 1.53,
+        "Necaxa": 5.5,
+        "Draw": 3.25
+      },
+      "Coolbet": {
+        "León": 1.62,
+        "Necaxa": 6.5,
+        "Draw": 3.8
+      },
+      "Betclic (FR)": {
+        "León": 1.51,
+        "Necaxa": 5.9,
+        "Draw": 3.55
+      },
+      "Nordic Bet": {
+        "León": 1.55,
+        "Necaxa": 5.8,
+        "Draw": 3.5
+      },
+      "Betsson": {
+        "León": 1.55,
+        "Necaxa": 5.8,
+        "Draw": 3.5
+      },
+      "Tipico": {
+        "León": 1.5,
+        "Necaxa": 6.0,
+        "Draw": 3.8
+      },
+      "Pinnacle": {
+        "León": 1.67,
+        "Necaxa": 5.68,
+        "Draw": 3.51
+      },
+      "PMU (FR)": {
+        "León": 1.42,
+        "Necaxa": 5.5,
+        "Draw": 3.15
+      },
+      "Unibet (NL)": {
+        "León": 1.57,
+        "Necaxa": 6.1,
+        "Draw": 3.5
+      },
+      "LeoVegas (SE)": {
+        "León": 1.49,
+        "Necaxa": 5.75,
+        "Draw": 3.3
+      },
+      "Unibet (SE)": {
+        "León": 1.57,
+        "Necaxa": 6.1,
+        "Draw": 3.5
+      },
+      "Betfair": {
+        "León": 1.66,
+        "Necaxa": 6.4,
         "Draw": 3.95
       },
       "Matchbook": {
-        "Huachipato": 5.1,
-        "Palestino": 1.75,
+        "León": 1.63,
+        "Necaxa": 7.0,
+        "Draw": 3.95
+      }
+    },
+    "1fa4faa9a275055bafa251f91affc6ff:h2h": {
+      "888sport": {
+        "Pachuca": 1.53,
+        "Puebla": 5.0,
+        "Draw": 3.6
+      },
+      "Coolbet": {
+        "Pachuca": 1.55,
+        "Puebla": 6.0,
         "Draw": 4.2
+      },
+      "William Hill": {
+        "Pachuca": 1.55,
+        "Puebla": 5.0,
+        "Draw": 3.6
+      },
+      "1xBet": {
+        "Pachuca": 1.57,
+        "Puebla": 5.57,
+        "Draw": 3.88
+      },
+      "Betclic (FR)": {
+        "Pachuca": 1.55,
+        "Puebla": 5.1,
+        "Draw": 3.8
+      },
+      "Marathon Bet": {
+        "Pachuca": 1.56,
+        "Puebla": 5.6,
+        "Draw": 3.85
+      },
+      "Nordic Bet": {
+        "Pachuca": 1.58,
+        "Puebla": 5.4,
+        "Draw": 3.85
+      },
+      "Betsson": {
+        "Pachuca": 1.58,
+        "Puebla": 5.4,
+        "Draw": 3.85
+      },
+      "Tipico": {
+        "Pachuca": 1.52,
+        "Puebla": 5.5,
+        "Draw": 4.0
+      },
+      "Pinnacle": {
+        "Pachuca": 1.61,
+        "Puebla": 5.8,
+        "Draw": 4.09
+      },
+      "Unibet (NL)": {
+        "Pachuca": 1.47,
+        "Puebla": 6.0,
+        "Draw": 4.2
+      },
+      "LeoVegas (SE)": {
+        "Pachuca": 1.42,
+        "Puebla": 5.6,
+        "Draw": 4.0
+      },
+      "Unibet (SE)": {
+        "Pachuca": 1.47,
+        "Puebla": 6.0,
+        "Draw": 4.2
+      },
+      "PMU (FR)": {
+        "Pachuca": 1.38,
+        "Puebla": 5.5,
+        "Draw": 3.9
+      },
+      "GTbets": {
+        "Pachuca": 1.59,
+        "Puebla": 5.53,
+        "Draw": 4.2
+      },
+      "Betfair": {
+        "Pachuca": 1.62,
+        "Puebla": 6.0,
+        "Draw": 4.4
+      },
+      "Matchbook": {
+        "Pachuca": 1.62,
+        "Puebla": 6.0,
+        "Draw": 4.4
+      },
+      "BetOnline.ag": {
+        "Pachuca": 1.57,
+        "Puebla": 5.95,
+        "Draw": 4.33
       }
     }
   },
@@ -10767,13 +10667,94 @@
       "confidence": 9,
       "alert_type": "value",
       "alerted_at": "2026-08-17T22:36:38.271579+00:00"
+    },
+    {
+      "state_key": "33f8e1e092f62b4456967aa2c6fd5271:h2h",
+      "event_id": "33f8e1e092f62b4456967aa2c6fd5271",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Necaxa",
+      "away_team": "León",
+      "commence_time": "2026-08-18T01:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Necaxa",
+      "odds_at_alert": 6.5,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-08-18T01:47:31.326681+00:00"
+    },
+    {
+      "state_key": "33f8e1e092f62b4456967aa2c6fd5271:h2h",
+      "event_id": "33f8e1e092f62b4456967aa2c6fd5271",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Necaxa",
+      "away_team": "León",
+      "commence_time": "2026-08-18T01:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Necaxa",
+      "odds_at_alert": 6.4,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-08-18T01:47:31.792309+00:00"
+    },
+    {
+      "state_key": "33f8e1e092f62b4456967aa2c6fd5271:h2h",
+      "event_id": "33f8e1e092f62b4456967aa2c6fd5271",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Necaxa",
+      "away_team": "León",
+      "commence_time": "2026-08-18T01:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.95,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-08-18T01:47:32.236697+00:00"
+    },
+    {
+      "state_key": "33f8e1e092f62b4456967aa2c6fd5271:h2h",
+      "event_id": "33f8e1e092f62b4456967aa2c6fd5271",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Necaxa",
+      "away_team": "León",
+      "commence_time": "2026-08-18T01:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Necaxa",
+      "odds_at_alert": 7.0,
+      "stake_pct": 5.0,
+      "confidence": 16,
+      "alert_type": "value",
+      "alerted_at": "2026-08-18T01:47:32.689896+00:00"
+    },
+    {
+      "state_key": "33f8e1e092f62b4456967aa2c6fd5271:h2h",
+      "event_id": "33f8e1e092f62b4456967aa2c6fd5271",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Necaxa",
+      "away_team": "León",
+      "commence_time": "2026-08-18T01:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.95,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-08-18T01:47:33.169258+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "9c7d6ce4e925c3ef8e007b18fe763b09:h2h|Betfair|Defensa y Justicia",
-    "9c7d6ce4e925c3ef8e007b18fe763b09:h2h|Betfair|Draw",
-    "caa23e620c159aa3324822722689bd9a:h2h|Betfair|Remo",
-    "caa23e620c159aa3324822722689bd9a:h2h|Matchbook|Remo"
+    "33f8e1e092f62b4456967aa2c6fd5271:h2h|Betfair|Draw",
+    "33f8e1e092f62b4456967aa2c6fd5271:h2h|Betfair|Necaxa",
+    "33f8e1e092f62b4456967aa2c6fd5271:h2h|Coolbet|Necaxa",
+    "33f8e1e092f62b4456967aa2c6fd5271:h2h|Matchbook|Draw",
+    "33f8e1e092f62b4456967aa2c6fd5271:h2h|Matchbook|Necaxa"
   ]
 }
