@@ -1,236 +1,266 @@
 {
   "snapshots": {
-    "9ccf2ce01c868371156182f1cdb55b10:h2h": {
-      "Coolbet": {
-        "AEK Athens": 5.25,
-        "PFC Levski Sofia": 8.25,
-        "Draw": 1.35
-      },
-      "Tipico": {
-        "AEK Athens": 4.7,
-        "PFC Levski Sofia": 7.5,
-        "Draw": 1.35
-      },
-      "Betsson": {
-        "AEK Athens": 4.85,
-        "PFC Levski Sofia": 7.7,
-        "Draw": 1.31
-      },
-      "Nordic Bet": {
-        "AEK Athens": 4.6,
-        "PFC Levski Sofia": 7.2,
-        "Draw": 1.34
-      },
-      "888sport": {
-        "AEK Athens": 5.0,
-        "PFC Levski Sofia": 8.0,
-        "Draw": 1.29
-      },
-      "LeoVegas (SE)": {
-        "AEK Athens": 4.7,
-        "PFC Levski Sofia": 7.0,
-        "Draw": 1.24
-      },
-      "PMU (FR)": {
-        "AEK Athens": 4.8,
-        "PFC Levski Sofia": 7.5,
-        "Draw": 1.28
-      },
-      "Unibet (SE)": {
-        "AEK Athens": 4.9,
-        "PFC Levski Sofia": 7.5,
-        "Draw": 1.32
-      },
-      "Unibet (NL)": {
-        "AEK Athens": 5.25,
-        "PFC Levski Sofia": 7.0,
-        "Draw": 1.3
-      },
-      "Pinnacle": {
-        "AEK Athens": 4.43,
-        "PFC Levski Sofia": 6.57,
-        "Draw": 1.45
-      },
-      "Betfair": {
-        "AEK Athens": 5.2,
-        "PFC Levski Sofia": 8.0,
-        "Draw": 1.46
-      }
-    },
-    "420c8c22b8a1050b76ae8e4b9496a128:h2h": {
-      "Coolbet": {
-        "Dinamo Zagreb": 2.7,
-        "Viking FK": 8.25,
-        "Draw": 1.8
-      },
-      "Tipico": {
-        "Dinamo Zagreb": 2.5,
-        "Viking FK": 7.5,
-        "Draw": 1.8
-      },
-      "Betsson": {
-        "Dinamo Zagreb": 2.6,
-        "Viking FK": 7.2,
-        "Draw": 1.75
-      },
-      "Nordic Bet": {
-        "Dinamo Zagreb": 2.45,
-        "Viking FK": 6.3,
-        "Draw": 1.85
-      },
-      "888sport": {
-        "Dinamo Zagreb": 2.5,
-        "Viking FK": 6.5,
-        "Draw": 1.83
-      },
-      "Pinnacle": {
-        "Dinamo Zagreb": 2.43,
-        "Viking FK": 6.82,
-        "Draw": 1.98
-      },
-      "PMU (FR)": {
-        "Dinamo Zagreb": 2.4,
-        "Viking FK": 6.75,
-        "Draw": 1.85
-      },
-      "Unibet (NL)": {
-        "Dinamo Zagreb": 2.4,
-        "Viking FK": 6.75,
-        "Draw": 1.85
-      },
-      "Unibet (SE)": {
-        "Dinamo Zagreb": 2.4,
-        "Viking FK": 6.75,
-        "Draw": 1.85
-      },
-      "LeoVegas (SE)": {
-        "Dinamo Zagreb": 2.28,
-        "Viking FK": 6.5,
-        "Draw": 1.74
-      },
-      "Betfair": {
-        "Dinamo Zagreb": 2.6,
-        "Viking FK": 9.0,
-        "Draw": 1.96
-      }
-    },
-    "e1e6ee803b77fcab7d8f4541d404e6a5:h2h": {
-      "Coolbet": {
-        "Fenerbahce": 4.05,
-        "Lyon": 7.5,
-        "Draw": 1.5
-      },
-      "Tipico": {
-        "Fenerbahce": 3.6,
-        "Lyon": 7.0,
-        "Draw": 1.5
-      },
-      "Nordic Bet": {
-        "Fenerbahce": 3.5,
-        "Lyon": 6.8,
-        "Draw": 1.49
-      },
-      "Betsson": {
-        "Fenerbahce": 3.65,
-        "Lyon": 7.2,
-        "Draw": 1.44
-      },
-      "888sport": {
-        "Fenerbahce": 3.7,
-        "Lyon": 6.0,
-        "Draw": 1.5
-      },
-      "LeoVegas (SE)": {
-        "Fenerbahce": 3.55,
-        "Lyon": 6.0,
-        "Draw": 1.43
-      },
-      "PMU (FR)": {
-        "Fenerbahce": 3.6,
-        "Lyon": 6.1,
-        "Draw": 1.45
-      },
-      "Unibet (SE)": {
-        "Fenerbahce": 3.75,
-        "Lyon": 6.4,
-        "Draw": 1.51
-      },
-      "Unibet (NL)": {
-        "Fenerbahce": 3.9,
-        "Lyon": 6.75,
-        "Draw": 1.48
-      },
-      "Pinnacle": {
-        "Fenerbahce": 3.37,
-        "Lyon": 6.33,
-        "Draw": 1.64
-      },
-      "Betfair": {
-        "Fenerbahce": 3.95,
-        "Lyon": 7.6,
-        "Draw": 1.61
-      }
-    },
     "507dd8698226f32be828677e6dec567d:h2h": {
-      "Unibet (FR)": {
-        "Boca Juniors": 1.41,
-        "Recoleta FC": 6.0,
-        "Draw": 4.1
+      "888sport": {
+        "Boca Juniors": 1.15,
+        "Recoleta FC": 17.0,
+        "Draw": 6.0
+      },
+      "Betfair": {
+        "Boca Juniors": 1.18,
+        "Recoleta FC": 28.0,
+        "Draw": 7.8
+      },
+      "Pinnacle": {
+        "Boca Juniors": 1.53,
+        "Recoleta FC": 6.73,
+        "Draw": 3.76
+      },
+      "Unibet (NL)": {
+        "Boca Juniors": 1.17,
+        "Recoleta FC": 16.0,
+        "Draw": 6.25
+      },
+      "LeoVegas (SE)": {
+        "Boca Juniors": 1.12,
+        "Recoleta FC": 15.0,
+        "Draw": 5.8
+      },
+      "PMU (FR)": {
+        "Boca Juniors": 1.09,
+        "Recoleta FC": 15.0,
+        "Draw": 5.75
+      },
+      "Coolbet": {
+        "Boca Juniors": 1.14,
+        "Recoleta FC": 18.0,
+        "Draw": 7.0
+      },
+      "Nordic Bet": {
+        "Boca Juniors": 1.12,
+        "Recoleta FC": 17.5,
+        "Draw": 6.8
+      }
+    },
+    "30a4c76820f0398dbb11f45d7da45b85:h2h": {
+      "Winamax (DE)": {
+        "Fluminense-RJ": 3.15,
+        "Independiente Rivadavia": 2.95,
+        "Draw": 2.2
+      },
+      "Coolbet": {
+        "Fluminense-RJ": 3.5,
+        "Independiente Rivadavia": 3.14,
+        "Draw": 2.3
+      },
+      "Winamax (FR)": {
+        "Fluminense-RJ": 3.05,
+        "Independiente Rivadavia": 2.85,
+        "Draw": 2.15
       },
       "888sport": {
-        "Boca Juniors": 1.5,
-        "Recoleta FC": 5.75,
-        "Draw": 3.9
+        "Fluminense-RJ": 3.1,
+        "Independiente Rivadavia": 2.75,
+        "Draw": 2.3
       },
-      "Codere (IT)": {
-        "Boca Juniors": 1.49,
-        "Recoleta FC": 6.0,
-        "Draw": 4.2
+      "Betclic (FR)": {
+        "Fluminense-RJ": 3.3,
+        "Independiente Rivadavia": 2.88,
+        "Draw": 2.38
       },
-      "William Hill": {
-        "Boca Juniors": 1.5,
-        "Recoleta FC": 5.8,
-        "Draw": 3.9
+      "Suprabets": {
+        "Fluminense-RJ": 3.25,
+        "Independiente Rivadavia": 2.9,
+        "Draw": 2.35
+      },
+      "Pinnacle": {
+        "Fluminense-RJ": 3.42,
+        "Independiente Rivadavia": 2.74,
+        "Draw": 2.44
+      },
+      "PMU (FR)": {
+        "Fluminense-RJ": 3.1,
+        "Independiente Rivadavia": 2.9,
+        "Draw": 2.0
+      },
+      "LeoVegas (SE)": {
+        "Fluminense-RJ": 3.15,
+        "Independiente Rivadavia": 2.95,
+        "Draw": 2.02
+      },
+      "Unibet (NL)": {
+        "Fluminense-RJ": 3.25,
+        "Independiente Rivadavia": 3.2,
+        "Draw": 2.16
+      },
+      "Tipico": {
+        "Fluminense-RJ": 3.4,
+        "Independiente Rivadavia": 2.7,
+        "Draw": 2.3
+      },
+      "Betsson": {
+        "Fluminense-RJ": 3.3,
+        "Independiente Rivadavia": 2.88,
+        "Draw": 2.2
+      },
+      "Nordic Bet": {
+        "Fluminense-RJ": 3.3,
+        "Independiente Rivadavia": 2.88,
+        "Draw": 2.2
+      },
+      "Betfair": {
+        "Fluminense-RJ": 3.7,
+        "Independiente Rivadavia": 3.15,
+        "Draw": 2.38
+      }
+    },
+    "d0ca0fc34f1a8c5f6c947fa5cbc923a4:h2h": {
+      "LeoVegas (SE)": {
+        "Atletico Goianiense": 2.3,
+        "Londrina": 2.7,
+        "Draw": 2.88
+      },
+      "Unibet (SE)": {
+        "Atletico Goianiense": 2.43,
+        "Londrina": 2.9,
+        "Draw": 3.05
+      },
+      "Unibet (NL)": {
+        "Atletico Goianiense": 2.33,
+        "Londrina": 2.75,
+        "Draw": 2.9
+      },
+      "Nordic Bet": {
+        "Atletico Goianiense": 2.55,
+        "Londrina": 2.78,
+        "Draw": 2.88
+      },
+      "Betsson": {
+        "Atletico Goianiense": 2.55,
+        "Londrina": 2.78,
+        "Draw": 2.88
+      },
+      "BetOnline.ag": {
+        "Atletico Goianiense": 2.68,
+        "Londrina": 2.88,
+        "Draw": 2.92
       },
       "1xBet": {
-        "Boca Juniors": 1.54,
-        "Recoleta FC": 6.87,
-        "Draw": 4.39
-      },
-      "Betfair": {
-        "Boca Juniors": 1.55,
-        "Recoleta FC": 7.2,
-        "Draw": 4.4
-      },
-      "Pinnacle": {
-        "Boca Juniors": 1.53,
-        "Recoleta FC": 5.95,
-        "Draw": 4.27
-      },
-      "Unibet (NL)": {
-        "Boca Juniors": 1.53,
-        "Recoleta FC": 6.25,
-        "Draw": 3.9
-      },
-      "LeoVegas (SE)": {
-        "Boca Juniors": 1.47,
-        "Recoleta FC": 5.75,
-        "Draw": 3.65
-      },
-      "PMU (FR)": {
-        "Boca Juniors": 1.47,
-        "Recoleta FC": 5.75,
-        "Draw": 3.65
+        "Atletico Goianiense": 2.48,
+        "Londrina": 3.03,
+        "Draw": 2.98
       },
       "Coolbet": {
-        "Boca Juniors": 1.54,
-        "Recoleta FC": 6.2,
-        "Draw": 4.3
+        "Atletico Goianiense": 2.6,
+        "Londrina": 2.8,
+        "Draw": 2.88
+      },
+      "Codere (IT)": {
+        "Atletico Goianiense": 2.5,
+        "Londrina": 2.85,
+        "Draw": 2.95
+      },
+      "888sport": {
+        "Atletico Goianiense": 2.5,
+        "Londrina": 2.8,
+        "Draw": 2.75
+      },
+      "William Hill": {
+        "Atletico Goianiense": 2.6,
+        "Londrina": 2.88,
+        "Draw": 2.8
+      },
+      "Pinnacle": {
+        "Atletico Goianiense": 2.66,
+        "Londrina": 3.0,
+        "Draw": 2.8
+      },
+      "Matchbook": {
+        "Atletico Goianiense": 2.6,
+        "Londrina": 3.3,
+        "Draw": 3.05
+      },
+      "Tipico": {
+        "Atletico Goianiense": 2.4,
+        "Londrina": 3.0,
+        "Draw": 2.9
+      },
+      "Betfair": {
+        "Atletico Goianiense": 2.64,
+        "Londrina": 3.3,
+        "Draw": 3.0
+      }
+    },
+    "87186a5e3961246c246912127754dcf3:h2h": {
+      "Unibet (NL)": {
+        "Ceará": 3.55,
+        "Nautico PE": 2.16,
+        "Draw": 3.05
+      },
+      "LeoVegas (SE)": {
+        "Ceará": 3.35,
+        "Nautico PE": 2.07,
+        "Draw": 2.95
+      },
+      "Unibet (SE)": {
+        "Ceará": 3.55,
+        "Nautico PE": 2.16,
+        "Draw": 3.05
+      },
+      "Betsson": {
+        "Ceará": 3.55,
+        "Nautico PE": 2.12,
+        "Draw": 2.95
       },
       "Nordic Bet": {
-        "Boca Juniors": 1.5,
-        "Recoleta FC": 6.8,
-        "Draw": 3.6
+        "Ceará": 3.55,
+        "Nautico PE": 2.12,
+        "Draw": 2.95
+      },
+      "BetOnline.ag": {
+        "Ceará": 3.9,
+        "Nautico PE": 2.16,
+        "Draw": 2.92
+      },
+      "Coolbet": {
+        "Ceará": 3.5,
+        "Nautico PE": 2.17,
+        "Draw": 3.1
+      },
+      "Marathon Bet": {
+        "Ceará": 3.74,
+        "Nautico PE": 2.12,
+        "Draw": 2.94
+      },
+      "Betfair": {
+        "Ceará": 4.0,
+        "Nautico PE": 2.26,
+        "Draw": 3.15
+      },
+      "Codere (IT)": {
+        "Ceará": 3.5,
+        "Nautico PE": 2.12,
+        "Draw": 3.0
+      },
+      "888sport": {
+        "Ceará": 3.5,
+        "Nautico PE": 2.1,
+        "Draw": 3.0
+      },
+      "William Hill": {
+        "Ceará": 3.5,
+        "Nautico PE": 2.1,
+        "Draw": 3.0
+      },
+      "Pinnacle": {
+        "Ceará": 3.98,
+        "Nautico PE": 2.19,
+        "Draw": 3.02
+      },
+      "Matchbook": {
+        "Ceará": 4.1,
+        "Nautico PE": 2.28,
+        "Draw": 3.15
       }
     }
   },
@@ -10731,31 +10761,267 @@
       "confidence": 8,
       "alert_type": "value",
       "alerted_at": "2026-08-18T20:35:47.770099+00:00"
+    },
+    {
+      "state_key": "507dd8698226f32be828677e6dec567d:h2h",
+      "event_id": "507dd8698226f32be828677e6dec567d",
+      "sport_key": "soccer",
+      "competition": "Copa Sudamericana",
+      "home_team": "Recoleta FC",
+      "away_team": "Boca Juniors",
+      "commence_time": "2026-08-18T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Recoleta FC",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 136,
+      "alert_type": "value",
+      "alerted_at": "2026-08-18T22:37:06.110298+00:00"
+    },
+    {
+      "state_key": "507dd8698226f32be828677e6dec567d:h2h",
+      "event_id": "507dd8698226f32be828677e6dec567d",
+      "sport_key": "soccer",
+      "competition": "Copa Sudamericana",
+      "home_team": "Recoleta FC",
+      "away_team": "Boca Juniors",
+      "commence_time": "2026-08-18T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.0,
+      "stake_pct": 5.0,
+      "confidence": 49,
+      "alert_type": "value",
+      "alerted_at": "2026-08-18T22:37:06.670594+00:00"
+    },
+    {
+      "state_key": "507dd8698226f32be828677e6dec567d:h2h",
+      "event_id": "507dd8698226f32be828677e6dec567d",
+      "sport_key": "soccer",
+      "competition": "Copa Sudamericana",
+      "home_team": "Recoleta FC",
+      "away_team": "Boca Juniors",
+      "commence_time": "2026-08-18T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 7.8,
+      "stake_pct": 5.0,
+      "confidence": 94,
+      "alert_type": "value",
+      "alerted_at": "2026-08-18T22:37:07.608165+00:00"
+    },
+    {
+      "state_key": "507dd8698226f32be828677e6dec567d:h2h",
+      "event_id": "507dd8698226f32be828677e6dec567d",
+      "sport_key": "soccer",
+      "competition": "Copa Sudamericana",
+      "home_team": "Recoleta FC",
+      "away_team": "Boca Juniors",
+      "commence_time": "2026-08-18T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Recoleta FC",
+      "odds_at_alert": 16.0,
+      "stake_pct": 5.0,
+      "confidence": 123,
+      "alert_type": "value",
+      "alerted_at": "2026-08-18T22:37:07.920475+00:00"
+    },
+    {
+      "state_key": "507dd8698226f32be828677e6dec567d:h2h",
+      "event_id": "507dd8698226f32be828677e6dec567d",
+      "sport_key": "soccer",
+      "competition": "Copa Sudamericana",
+      "home_team": "Recoleta FC",
+      "away_team": "Boca Juniors",
+      "commence_time": "2026-08-18T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.25,
+      "stake_pct": 5.0,
+      "confidence": 56,
+      "alert_type": "value",
+      "alerted_at": "2026-08-18T22:37:08.232732+00:00"
+    },
+    {
+      "state_key": "507dd8698226f32be828677e6dec567d:h2h",
+      "event_id": "507dd8698226f32be828677e6dec567d",
+      "sport_key": "soccer",
+      "competition": "Copa Sudamericana",
+      "home_team": "Recoleta FC",
+      "away_team": "Boca Juniors",
+      "commence_time": "2026-08-18T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Recoleta FC",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 109,
+      "alert_type": "value",
+      "alerted_at": "2026-08-18T22:37:08.548278+00:00"
+    },
+    {
+      "state_key": "507dd8698226f32be828677e6dec567d:h2h",
+      "event_id": "507dd8698226f32be828677e6dec567d",
+      "sport_key": "soccer",
+      "competition": "Copa Sudamericana",
+      "home_team": "Recoleta FC",
+      "away_team": "Boca Juniors",
+      "commence_time": "2026-08-18T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.8,
+      "stake_pct": 5.0,
+      "confidence": 44,
+      "alert_type": "value",
+      "alerted_at": "2026-08-18T22:37:08.852566+00:00"
+    },
+    {
+      "state_key": "507dd8698226f32be828677e6dec567d:h2h",
+      "event_id": "507dd8698226f32be828677e6dec567d",
+      "sport_key": "soccer",
+      "competition": "Copa Sudamericana",
+      "home_team": "Recoleta FC",
+      "away_team": "Boca Juniors",
+      "commence_time": "2026-08-18T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Recoleta FC",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 109,
+      "alert_type": "value",
+      "alerted_at": "2026-08-18T22:37:09.158788+00:00"
+    },
+    {
+      "state_key": "507dd8698226f32be828677e6dec567d:h2h",
+      "event_id": "507dd8698226f32be828677e6dec567d",
+      "sport_key": "soccer",
+      "competition": "Copa Sudamericana",
+      "home_team": "Recoleta FC",
+      "away_team": "Boca Juniors",
+      "commence_time": "2026-08-18T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.75,
+      "stake_pct": 5.0,
+      "confidence": 43,
+      "alert_type": "value",
+      "alerted_at": "2026-08-18T22:37:09.474047+00:00"
+    },
+    {
+      "state_key": "507dd8698226f32be828677e6dec567d:h2h",
+      "event_id": "507dd8698226f32be828677e6dec567d",
+      "sport_key": "soccer",
+      "competition": "Copa Sudamericana",
+      "home_team": "Recoleta FC",
+      "away_team": "Boca Juniors",
+      "commence_time": "2026-08-18T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Recoleta FC",
+      "odds_at_alert": 18.0,
+      "stake_pct": 5.0,
+      "confidence": 150,
+      "alert_type": "value",
+      "alerted_at": "2026-08-18T22:37:09.785740+00:00"
+    },
+    {
+      "state_key": "507dd8698226f32be828677e6dec567d:h2h",
+      "event_id": "507dd8698226f32be828677e6dec567d",
+      "sport_key": "soccer",
+      "competition": "Copa Sudamericana",
+      "home_team": "Recoleta FC",
+      "away_team": "Boca Juniors",
+      "commence_time": "2026-08-18T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 7.0,
+      "stake_pct": 5.0,
+      "confidence": 74,
+      "alert_type": "value",
+      "alerted_at": "2026-08-18T22:37:10.104999+00:00"
+    },
+    {
+      "state_key": "507dd8698226f32be828677e6dec567d:h2h",
+      "event_id": "507dd8698226f32be828677e6dec567d",
+      "sport_key": "soccer",
+      "competition": "Copa Sudamericana",
+      "home_team": "Recoleta FC",
+      "away_team": "Boca Juniors",
+      "commence_time": "2026-08-18T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.8,
+      "stake_pct": 5.0,
+      "confidence": 69,
+      "alert_type": "value",
+      "alerted_at": "2026-08-18T22:37:10.423766+00:00"
+    },
+    {
+      "state_key": "30a4c76820f0398dbb11f45d7da45b85:h2h",
+      "event_id": "30a4c76820f0398dbb11f45d7da45b85",
+      "sport_key": "soccer",
+      "competition": "Copa Libertadores",
+      "home_team": "Independiente Rivadavia",
+      "away_team": "Fluminense-RJ",
+      "commence_time": "2026-08-18T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Independiente Rivadavia",
+      "odds_at_alert": 3.14,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-08-18T22:37:10.742692+00:00"
+    },
+    {
+      "state_key": "30a4c76820f0398dbb11f45d7da45b85:h2h",
+      "event_id": "30a4c76820f0398dbb11f45d7da45b85",
+      "sport_key": "soccer",
+      "competition": "Copa Libertadores",
+      "home_team": "Independiente Rivadavia",
+      "away_team": "Fluminense-RJ",
+      "commence_time": "2026-08-18T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Independiente Rivadavia",
+      "odds_at_alert": 3.2,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-08-18T22:37:11.056771+00:00"
+    },
+    {
+      "state_key": "30a4c76820f0398dbb11f45d7da45b85:h2h",
+      "event_id": "30a4c76820f0398dbb11f45d7da45b85",
+      "sport_key": "soccer",
+      "competition": "Copa Libertadores",
+      "home_team": "Independiente Rivadavia",
+      "away_team": "Fluminense-RJ",
+      "commence_time": "2026-08-18T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Independiente Rivadavia",
+      "odds_at_alert": 3.15,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-08-18T22:37:11.364485+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "420c8c22b8a1050b76ae8e4b9496a128:h2h|Betfair|Viking FK",
-    "420c8c22b8a1050b76ae8e4b9496a128:h2h|Coolbet|Viking FK",
+    "30a4c76820f0398dbb11f45d7da45b85:h2h|Betfair|Independiente Rivadavia",
+    "30a4c76820f0398dbb11f45d7da45b85:h2h|Coolbet|Independiente Rivadavia",
+    "30a4c76820f0398dbb11f45d7da45b85:h2h|Unibet (NL)|Independiente Rivadavia",
     "507dd8698226f32be828677e6dec567d:h2h|1xBet|Recoleta FC",
+    "507dd8698226f32be828677e6dec567d:h2h|888sport|Draw",
+    "507dd8698226f32be828677e6dec567d:h2h|888sport|Recoleta FC",
+    "507dd8698226f32be828677e6dec567d:h2h|Betfair|Draw",
     "507dd8698226f32be828677e6dec567d:h2h|Betfair|Recoleta FC",
+    "507dd8698226f32be828677e6dec567d:h2h|Coolbet|Draw",
+    "507dd8698226f32be828677e6dec567d:h2h|Coolbet|Recoleta FC",
+    "507dd8698226f32be828677e6dec567d:h2h|LeoVegas (SE)|Draw",
+    "507dd8698226f32be828677e6dec567d:h2h|LeoVegas (SE)|Recoleta FC",
+    "507dd8698226f32be828677e6dec567d:h2h|Nordic Bet|Draw",
     "507dd8698226f32be828677e6dec567d:h2h|Nordic Bet|Recoleta FC",
-    "9ccf2ce01c868371156182f1cdb55b10:h2h|888sport|AEK Athens",
-    "9ccf2ce01c868371156182f1cdb55b10:h2h|888sport|PFC Levski Sofia",
-    "9ccf2ce01c868371156182f1cdb55b10:h2h|Betfair|AEK Athens",
-    "9ccf2ce01c868371156182f1cdb55b10:h2h|Betfair|PFC Levski Sofia",
-    "9ccf2ce01c868371156182f1cdb55b10:h2h|Betsson|PFC Levski Sofia",
-    "9ccf2ce01c868371156182f1cdb55b10:h2h|Coolbet|AEK Athens",
-    "9ccf2ce01c868371156182f1cdb55b10:h2h|Coolbet|PFC Levski Sofia",
-    "9ccf2ce01c868371156182f1cdb55b10:h2h|PMU (FR)|PFC Levski Sofia",
-    "9ccf2ce01c868371156182f1cdb55b10:h2h|Tipico|PFC Levski Sofia",
-    "9ccf2ce01c868371156182f1cdb55b10:h2h|Unibet (NL)|AEK Athens",
-    "9ccf2ce01c868371156182f1cdb55b10:h2h|Unibet (SE)|PFC Levski Sofia",
-    "e1e6ee803b77fcab7d8f4541d404e6a5:h2h|Betfair|Fenerbahce",
-    "e1e6ee803b77fcab7d8f4541d404e6a5:h2h|Betfair|Lyon",
-    "e1e6ee803b77fcab7d8f4541d404e6a5:h2h|Betsson|Lyon",
-    "e1e6ee803b77fcab7d8f4541d404e6a5:h2h|Coolbet|Fenerbahce",
-    "e1e6ee803b77fcab7d8f4541d404e6a5:h2h|Coolbet|Lyon",
-    "e1e6ee803b77fcab7d8f4541d404e6a5:h2h|Unibet (NL)|Fenerbahce"
+    "507dd8698226f32be828677e6dec567d:h2h|PMU (FR)|Draw",
+    "507dd8698226f32be828677e6dec567d:h2h|PMU (FR)|Recoleta FC",
+    "507dd8698226f32be828677e6dec567d:h2h|Unibet (NL)|Draw",
+    "507dd8698226f32be828677e6dec567d:h2h|Unibet (NL)|Recoleta FC"
   ]
 }
