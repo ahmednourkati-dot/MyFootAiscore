@@ -1,236 +1,321 @@
 {
   "snapshots": {
-    "680612ac19d479d97c90b786987a4925:h2h": {
-      "Betfair": {
-        "Gimnasia Mendoza": 1.01,
-        "Talleres": 560.0,
-        "Draw": 55.0
-      },
-      "Winamax (DE)": {
-        "Gimnasia Mendoza": 1.01,
-        "Talleres": 110.0,
-        "Draw": 36.0
-      },
-      "Winamax (FR)": {
-        "Gimnasia Mendoza": 1.01,
-        "Talleres": 110.0,
-        "Draw": 36.0
-      },
-      "Betclic (FR)": {
-        "Gimnasia Mendoza": 1.0,
-        "Talleres": 60.0,
-        "Draw": 27.0
-      },
-      "Unibet (SE)": {
-        "Gimnasia Mendoza": 1.01,
-        "Talleres": 91.0,
-        "Draw": 31.0
-      },
-      "Nordic Bet": {
-        "Gimnasia Mendoza": 1.0,
-        "Talleres": 41.0,
-        "Draw": 19.0
-      },
-      "Betsson": {
-        "Gimnasia Mendoza": 1.0,
-        "Talleres": 41.0,
-        "Draw": 19.0
-      }
-    },
-    "1d64dc7725a17580fc7bbc21fa9f847c:h2h": {
-      "888sport": {
-        "Huachipato": 67.0,
-        "Palestino": 1.02,
-        "Draw": 17.0
-      },
-      "Winamax (FR)": {
-        "Huachipato": 70.0,
-        "Palestino": 1.03,
-        "Draw": 20.0
-      },
-      "Winamax (DE)": {
-        "Huachipato": 70.0,
-        "Palestino": 1.02,
-        "Draw": 20.0
-      },
-      "Coolbet": {
-        "Huachipato": 80.0,
-        "Palestino": 1.02,
-        "Draw": 20.0
-      },
-      "Unibet (SE)": {
-        "Huachipato": 46.0,
-        "Palestino": 1.03,
-        "Draw": 14.0
-      },
-      "Betfair": {
-        "Huachipato": 140.0,
-        "Palestino": 1.04,
-        "Draw": 26.0
-      },
-      "Matchbook": {
-        "Huachipato": 110.0,
-        "Palestino": 1.03,
-        "Draw": 27.0
-      }
-    },
     "33f8e1e092f62b4456967aa2c6fd5271:h2h": {
       "888sport": {
-        "León": 1.53,
-        "Necaxa": 5.5,
-        "Draw": 3.25
+        "León": 1.08,
+        "Necaxa": 61.0,
+        "Draw": 6.5
       },
       "Coolbet": {
-        "León": 1.62,
-        "Necaxa": 6.5,
-        "Draw": 3.8
+        "León": 1.03,
+        "Necaxa": 1000.0,
+        "Draw": 14.5
       },
       "Betclic (FR)": {
-        "León": 1.51,
-        "Necaxa": 5.9,
-        "Draw": 3.55
+        "León": 1.05,
+        "Necaxa": 100.0,
+        "Draw": 13.0
       },
       "Nordic Bet": {
-        "León": 1.55,
-        "Necaxa": 5.8,
-        "Draw": 3.5
+        "León": 1.02,
+        "Necaxa": 200.0,
+        "Draw": 11.0
       },
       "Betsson": {
-        "León": 1.55,
-        "Necaxa": 5.8,
-        "Draw": 3.5
+        "León": 1.01,
+        "Necaxa": 150.0,
+        "Draw": 13.0
       },
       "Tipico": {
-        "León": 1.5,
-        "Necaxa": 6.0,
-        "Draw": 3.8
+        "León": 1.03,
+        "Necaxa": 400.0,
+        "Draw": 13.0
       },
       "Pinnacle": {
-        "León": 1.67,
-        "Necaxa": 5.68,
-        "Draw": 3.51
-      },
-      "PMU (FR)": {
-        "León": 1.42,
-        "Necaxa": 5.5,
-        "Draw": 3.15
-      },
-      "Unibet (NL)": {
-        "León": 1.57,
-        "Necaxa": 6.1,
-        "Draw": 3.5
+        "León": 1.48,
+        "Necaxa": 12.26,
+        "Draw": 3.26
       },
       "LeoVegas (SE)": {
-        "León": 1.49,
-        "Necaxa": 5.75,
-        "Draw": 3.3
-      },
-      "Unibet (SE)": {
-        "León": 1.57,
-        "Necaxa": 6.1,
-        "Draw": 3.5
+        "León": 1.01,
+        "Necaxa": 101.0,
+        "Draw": 11.0
       },
       "Betfair": {
-        "León": 1.66,
-        "Necaxa": 6.4,
-        "Draw": 3.95
-      },
-      "Matchbook": {
-        "León": 1.63,
-        "Necaxa": 7.0,
-        "Draw": 3.95
+        "León": 1.04,
+        "Necaxa": 1000.0,
+        "Draw": 18.0
       }
     },
     "1fa4faa9a275055bafa251f91affc6ff:h2h": {
       "888sport": {
-        "Pachuca": 1.53,
-        "Puebla": 5.0,
-        "Draw": 3.6
+        "Pachuca": 1.57,
+        "Puebla": 4.5,
+        "Draw": 3.75
       },
       "Coolbet": {
-        "Pachuca": 1.55,
-        "Puebla": 6.0,
-        "Draw": 4.2
+        "Pachuca": 1.67,
+        "Puebla": 5.0,
+        "Draw": 4.33
       },
       "William Hill": {
-        "Pachuca": 1.55,
-        "Puebla": 5.0,
-        "Draw": 3.6
+        "Pachuca": 1.6,
+        "Puebla": 4.8,
+        "Draw": 3.5
       },
       "1xBet": {
-        "Pachuca": 1.57,
-        "Puebla": 5.57,
-        "Draw": 3.88
+        "Pachuca": 1.62,
+        "Puebla": 5.88,
+        "Draw": 3.96
       },
       "Betclic (FR)": {
-        "Pachuca": 1.55,
-        "Puebla": 5.1,
-        "Draw": 3.8
+        "Pachuca": 1.6,
+        "Puebla": 4.4,
+        "Draw": 3.75
       },
       "Marathon Bet": {
-        "Pachuca": 1.56,
-        "Puebla": 5.6,
-        "Draw": 3.85
+        "Pachuca": 1.6,
+        "Puebla": 5.3,
+        "Draw": 3.78
       },
       "Nordic Bet": {
-        "Pachuca": 1.58,
-        "Puebla": 5.4,
+        "Pachuca": 1.62,
+        "Puebla": 4.65,
         "Draw": 3.85
       },
       "Betsson": {
-        "Pachuca": 1.58,
-        "Puebla": 5.4,
+        "Pachuca": 1.62,
+        "Puebla": 4.65,
         "Draw": 3.85
       },
       "Tipico": {
-        "Pachuca": 1.52,
-        "Puebla": 5.5,
-        "Draw": 4.0
+        "Pachuca": 1.6,
+        "Puebla": 5.0,
+        "Draw": 3.8
       },
       "Pinnacle": {
-        "Pachuca": 1.61,
-        "Puebla": 5.8,
-        "Draw": 4.09
-      },
-      "Unibet (NL)": {
-        "Pachuca": 1.47,
-        "Puebla": 6.0,
-        "Draw": 4.2
-      },
-      "LeoVegas (SE)": {
-        "Pachuca": 1.42,
-        "Puebla": 5.6,
+        "Pachuca": 1.65,
+        "Puebla": 5.55,
         "Draw": 4.0
       },
+      "Unibet (NL)": {
+        "Pachuca": 1.53,
+        "Puebla": 5.5,
+        "Draw": 4.0
+      },
+      "LeoVegas (SE)": {
+        "Pachuca": 1.48,
+        "Puebla": 5.25,
+        "Draw": 3.8
+      },
       "Unibet (SE)": {
-        "Pachuca": 1.47,
-        "Puebla": 6.0,
-        "Draw": 4.2
+        "Pachuca": 1.53,
+        "Puebla": 5.5,
+        "Draw": 4.0
       },
       "PMU (FR)": {
-        "Pachuca": 1.38,
-        "Puebla": 5.5,
-        "Draw": 3.9
+        "Pachuca": 1.43,
+        "Puebla": 5.1,
+        "Draw": 3.7
       },
       "GTbets": {
         "Pachuca": 1.59,
-        "Puebla": 5.53,
-        "Draw": 4.2
+        "Puebla": 5.26,
+        "Draw": 3.99
       },
       "Betfair": {
-        "Pachuca": 1.62,
-        "Puebla": 6.0,
-        "Draw": 4.4
+        "Pachuca": 1.69,
+        "Puebla": 5.7,
+        "Draw": 3.95
       },
       "Matchbook": {
-        "Pachuca": 1.62,
+        "Pachuca": 1.69,
         "Puebla": 6.0,
-        "Draw": 4.4
+        "Draw": 3.85
       },
       "BetOnline.ag": {
-        "Pachuca": 1.57,
-        "Puebla": 5.95,
-        "Draw": 4.33
+        "Pachuca": 1.67,
+        "Puebla": 5.35,
+        "Draw": 4.04
+      }
+    },
+    "248595ac1ee1f61ade0e68a492f79cf9:h2h": {
+      "Pinnacle": {
+        "Beijing FC": 3.11,
+        "Shanghai Shenhua FC": 2.11,
+        "Draw": 4.1
+      },
+      "BetOnline.ag": {
+        "Beijing FC": 3.05,
+        "Shanghai Shenhua FC": 2.08,
+        "Draw": 4.0
+      },
+      "Coolbet": {
+        "Beijing FC": 3.0,
+        "Shanghai Shenhua FC": 2.08,
+        "Draw": 4.0
+      },
+      "Betfair": {
+        "Beijing FC": 3.15,
+        "Shanghai Shenhua FC": 2.16,
+        "Draw": 4.1
+      },
+      "Marathon Bet": {
+        "Beijing FC": 3.1,
+        "Shanghai Shenhua FC": 2.01,
+        "Draw": 3.85
+      },
+      "888sport": {
+        "Beijing FC": 2.75,
+        "Shanghai Shenhua FC": 2.1,
+        "Draw": 3.9
+      },
+      "William Hill": {
+        "Beijing FC": 2.75,
+        "Shanghai Shenhua FC": 2.1,
+        "Draw": 3.9
+      },
+      "1xBet": {
+        "Beijing FC": 3.19,
+        "Shanghai Shenhua FC": 2.07,
+        "Draw": 3.97
+      },
+      "GTbets": {
+        "Beijing FC": 3.07,
+        "Shanghai Shenhua FC": 2.05,
+        "Draw": 3.85
+      },
+      "Matchbook": {
+        "Beijing FC": 3.15,
+        "Shanghai Shenhua FC": 2.2,
+        "Draw": 4.1
+      },
+      "Betsson": {
+        "Beijing FC": 2.9,
+        "Shanghai Shenhua FC": 2.05,
+        "Draw": 3.85
+      },
+      "Nordic Bet": {
+        "Beijing FC": 2.9,
+        "Shanghai Shenhua FC": 2.05,
+        "Draw": 3.85
+      },
+      "Unibet (FR)": {
+        "Beijing FC": 2.85,
+        "Shanghai Shenhua FC": 1.98,
+        "Draw": 3.8
+      },
+      "Tipico": {
+        "Beijing FC": 3.0,
+        "Shanghai Shenhua FC": 2.0,
+        "Draw": 3.9
+      },
+      "Codere (IT)": {
+        "Beijing FC": 2.9,
+        "Shanghai Shenhua FC": 2.04,
+        "Draw": 3.9
+      },
+      "Winamax (FR)": {
+        "Beijing FC": 2.8,
+        "Shanghai Shenhua FC": 1.98,
+        "Draw": 3.9
+      },
+      "Winamax (DE)": {
+        "Beijing FC": 2.85,
+        "Shanghai Shenhua FC": 2.0,
+        "Draw": 4.0
+      },
+      "Unibet (NL)": {
+        "Beijing FC": 3.1,
+        "Shanghai Shenhua FC": 2.02,
+        "Draw": 4.0
+      },
+      "Unibet (SE)": {
+        "Beijing FC": 3.1,
+        "Shanghai Shenhua FC": 2.02,
+        "Draw": 4.0
+      },
+      "LeoVegas (SE)": {
+        "Beijing FC": 2.95,
+        "Shanghai Shenhua FC": 1.93,
+        "Draw": 3.8
+      }
+    },
+    "9ccf2ce01c868371156182f1cdb55b10:h2h": {
+      "Unibet (FR)": {
+        "AEK Athens": 2.4,
+        "PFC Levski Sofia": 2.9,
+        "Draw": 3.1
+      },
+      "Coolbet": {
+        "AEK Athens": 2.5,
+        "PFC Levski Sofia": 2.95,
+        "Draw": 3.25
+      },
+      "Tipico": {
+        "AEK Athens": 2.4,
+        "PFC Levski Sofia": 3.1,
+        "Draw": 3.0
+      },
+      "1xBet": {
+        "AEK Athens": 2.56,
+        "PFC Levski Sofia": 3.12,
+        "Draw": 3.17
+      },
+      "Marathon Bet": {
+        "AEK Athens": 2.42,
+        "PFC Levski Sofia": 3.02,
+        "Draw": 3.05
+      },
+      "Betsson": {
+        "AEK Athens": 2.42,
+        "PFC Levski Sofia": 2.9,
+        "Draw": 3.05
+      },
+      "Nordic Bet": {
+        "AEK Athens": 2.42,
+        "PFC Levski Sofia": 2.9,
+        "Draw": 3.05
+      },
+      "888sport": {
+        "AEK Athens": 2.45,
+        "PFC Levski Sofia": 2.9,
+        "Draw": 2.9
+      },
+      "LeoVegas (SE)": {
+        "AEK Athens": 2.48,
+        "PFC Levski Sofia": 2.7,
+        "Draw": 3.05
+      },
+      "PMU (FR)": {
+        "AEK Athens": 2.6,
+        "PFC Levski Sofia": 2.8,
+        "Draw": 3.15
+      },
+      "Unibet (SE)": {
+        "AEK Athens": 2.6,
+        "PFC Levski Sofia": 2.8,
+        "Draw": 3.15
+      },
+      "Unibet (NL)": {
+        "AEK Athens": 2.6,
+        "PFC Levski Sofia": 2.8,
+        "Draw": 3.15
+      },
+      "Pinnacle": {
+        "AEK Athens": 2.5,
+        "PFC Levski Sofia": 3.05,
+        "Draw": 3.16
+      },
+      "Betfair": {
+        "AEK Athens": 2.62,
+        "PFC Levski Sofia": 3.15,
+        "Draw": 3.25
+      },
+      "BetOnline.ag": {
+        "AEK Athens": 2.55,
+        "PFC Levski Sofia": 2.9,
+        "Draw": 3.19
       }
     }
   },
@@ -10747,14 +10832,235 @@
       "confidence": 6,
       "alert_type": "value",
       "alerted_at": "2026-08-18T01:47:33.169258+00:00"
+    },
+    {
+      "state_key": "33f8e1e092f62b4456967aa2c6fd5271:h2h",
+      "event_id": "33f8e1e092f62b4456967aa2c6fd5271",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Necaxa",
+      "away_team": "León",
+      "commence_time": "2026-08-18T01:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Necaxa",
+      "odds_at_alert": 61.0,
+      "stake_pct": 5.0,
+      "confidence": 368,
+      "alert_type": "value",
+      "alerted_at": "2026-08-18T03:05:42.140151+00:00"
+    },
+    {
+      "state_key": "33f8e1e092f62b4456967aa2c6fd5271:h2h",
+      "event_id": "33f8e1e092f62b4456967aa2c6fd5271",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Necaxa",
+      "away_team": "León",
+      "commence_time": "2026-08-18T01:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.5,
+      "stake_pct": 5.0,
+      "confidence": 87,
+      "alert_type": "value",
+      "alerted_at": "2026-08-18T03:05:42.549098+00:00"
+    },
+    {
+      "state_key": "33f8e1e092f62b4456967aa2c6fd5271:h2h",
+      "event_id": "33f8e1e092f62b4456967aa2c6fd5271",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Necaxa",
+      "away_team": "León",
+      "commence_time": "2026-08-18T01:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 14.5,
+      "stake_pct": 5.0,
+      "confidence": 318,
+      "alert_type": "value",
+      "alerted_at": "2026-08-18T03:05:42.958947+00:00"
+    },
+    {
+      "state_key": "33f8e1e092f62b4456967aa2c6fd5271:h2h",
+      "event_id": "33f8e1e092f62b4456967aa2c6fd5271",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Necaxa",
+      "away_team": "León",
+      "commence_time": "2026-08-18T01:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Necaxa",
+      "odds_at_alert": 100.0,
+      "stake_pct": 5.0,
+      "confidence": 667,
+      "alert_type": "value",
+      "alerted_at": "2026-08-18T03:05:43.375525+00:00"
+    },
+    {
+      "state_key": "33f8e1e092f62b4456967aa2c6fd5271:h2h",
+      "event_id": "33f8e1e092f62b4456967aa2c6fd5271",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Necaxa",
+      "away_team": "León",
+      "commence_time": "2026-08-18T01:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 275,
+      "alert_type": "value",
+      "alerted_at": "2026-08-18T03:05:43.801143+00:00"
+    },
+    {
+      "state_key": "33f8e1e092f62b4456967aa2c6fd5271:h2h",
+      "event_id": "33f8e1e092f62b4456967aa2c6fd5271",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Necaxa",
+      "away_team": "León",
+      "commence_time": "2026-08-18T01:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Necaxa",
+      "odds_at_alert": 200.0,
+      "stake_pct": 5.0,
+      "confidence": 1433,
+      "alert_type": "value",
+      "alerted_at": "2026-08-18T03:05:44.208020+00:00"
+    },
+    {
+      "state_key": "33f8e1e092f62b4456967aa2c6fd5271:h2h",
+      "event_id": "33f8e1e092f62b4456967aa2c6fd5271",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Necaxa",
+      "away_team": "León",
+      "commence_time": "2026-08-18T01:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 217,
+      "alert_type": "value",
+      "alerted_at": "2026-08-18T03:05:44.631085+00:00"
+    },
+    {
+      "state_key": "33f8e1e092f62b4456967aa2c6fd5271:h2h",
+      "event_id": "33f8e1e092f62b4456967aa2c6fd5271",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Necaxa",
+      "away_team": "León",
+      "commence_time": "2026-08-18T01:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Necaxa",
+      "odds_at_alert": 150.0,
+      "stake_pct": 5.0,
+      "confidence": 1050,
+      "alert_type": "value",
+      "alerted_at": "2026-08-18T03:05:45.041362+00:00"
+    },
+    {
+      "state_key": "33f8e1e092f62b4456967aa2c6fd5271:h2h",
+      "event_id": "33f8e1e092f62b4456967aa2c6fd5271",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Necaxa",
+      "away_team": "León",
+      "commence_time": "2026-08-18T01:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 275,
+      "alert_type": "value",
+      "alerted_at": "2026-08-18T03:05:45.457009+00:00"
+    },
+    {
+      "state_key": "33f8e1e092f62b4456967aa2c6fd5271:h2h",
+      "event_id": "33f8e1e092f62b4456967aa2c6fd5271",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Necaxa",
+      "away_team": "León",
+      "commence_time": "2026-08-18T01:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Necaxa",
+      "odds_at_alert": 400.0,
+      "stake_pct": 5.0,
+      "confidence": 2966,
+      "alert_type": "value",
+      "alerted_at": "2026-08-18T03:05:45.860485+00:00"
+    },
+    {
+      "state_key": "33f8e1e092f62b4456967aa2c6fd5271:h2h",
+      "event_id": "33f8e1e092f62b4456967aa2c6fd5271",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Necaxa",
+      "away_team": "León",
+      "commence_time": "2026-08-18T01:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 275,
+      "alert_type": "value",
+      "alerted_at": "2026-08-18T03:05:46.270383+00:00"
+    },
+    {
+      "state_key": "33f8e1e092f62b4456967aa2c6fd5271:h2h",
+      "event_id": "33f8e1e092f62b4456967aa2c6fd5271",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Necaxa",
+      "away_team": "León",
+      "commence_time": "2026-08-18T01:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Necaxa",
+      "odds_at_alert": 101.0,
+      "stake_pct": 5.0,
+      "confidence": 674,
+      "alert_type": "value",
+      "alerted_at": "2026-08-18T03:05:46.688646+00:00"
+    },
+    {
+      "state_key": "33f8e1e092f62b4456967aa2c6fd5271:h2h",
+      "event_id": "33f8e1e092f62b4456967aa2c6fd5271",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Necaxa",
+      "away_team": "León",
+      "commence_time": "2026-08-18T01:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 217,
+      "alert_type": "value",
+      "alerted_at": "2026-08-18T03:05:47.106390+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
+    "33f8e1e092f62b4456967aa2c6fd5271:h2h|888sport|Draw",
+    "33f8e1e092f62b4456967aa2c6fd5271:h2h|888sport|Necaxa",
+    "33f8e1e092f62b4456967aa2c6fd5271:h2h|Betclic (FR)|Draw",
+    "33f8e1e092f62b4456967aa2c6fd5271:h2h|Betclic (FR)|Necaxa",
     "33f8e1e092f62b4456967aa2c6fd5271:h2h|Betfair|Draw",
     "33f8e1e092f62b4456967aa2c6fd5271:h2h|Betfair|Necaxa",
+    "33f8e1e092f62b4456967aa2c6fd5271:h2h|Betsson|Draw",
+    "33f8e1e092f62b4456967aa2c6fd5271:h2h|Betsson|Necaxa",
+    "33f8e1e092f62b4456967aa2c6fd5271:h2h|Coolbet|Draw",
     "33f8e1e092f62b4456967aa2c6fd5271:h2h|Coolbet|Necaxa",
+    "33f8e1e092f62b4456967aa2c6fd5271:h2h|LeoVegas (SE)|Draw",
+    "33f8e1e092f62b4456967aa2c6fd5271:h2h|LeoVegas (SE)|Necaxa",
     "33f8e1e092f62b4456967aa2c6fd5271:h2h|Matchbook|Draw",
-    "33f8e1e092f62b4456967aa2c6fd5271:h2h|Matchbook|Necaxa"
+    "33f8e1e092f62b4456967aa2c6fd5271:h2h|Matchbook|Necaxa",
+    "33f8e1e092f62b4456967aa2c6fd5271:h2h|Nordic Bet|Draw",
+    "33f8e1e092f62b4456967aa2c6fd5271:h2h|Nordic Bet|Necaxa",
+    "33f8e1e092f62b4456967aa2c6fd5271:h2h|Tipico|Draw",
+    "33f8e1e092f62b4456967aa2c6fd5271:h2h|Tipico|Necaxa"
   ]
 }
