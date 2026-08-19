@@ -1,266 +1,221 @@
 {
   "snapshots": {
-    "507dd8698226f32be828677e6dec567d:h2h": {
-      "888sport": {
-        "Boca Juniors": 1.15,
-        "Recoleta FC": 17.0,
-        "Draw": 6.0
-      },
-      "Betfair": {
-        "Boca Juniors": 1.18,
-        "Recoleta FC": 28.0,
-        "Draw": 7.8
-      },
-      "Pinnacle": {
-        "Boca Juniors": 1.53,
-        "Recoleta FC": 6.73,
-        "Draw": 3.76
-      },
-      "Unibet (NL)": {
-        "Boca Juniors": 1.17,
-        "Recoleta FC": 16.0,
-        "Draw": 6.25
-      },
-      "LeoVegas (SE)": {
-        "Boca Juniors": 1.12,
-        "Recoleta FC": 15.0,
-        "Draw": 5.8
-      },
-      "PMU (FR)": {
-        "Boca Juniors": 1.09,
-        "Recoleta FC": 15.0,
-        "Draw": 5.75
-      },
-      "Coolbet": {
-        "Boca Juniors": 1.14,
-        "Recoleta FC": 18.0,
-        "Draw": 7.0
-      },
-      "Nordic Bet": {
-        "Boca Juniors": 1.12,
-        "Recoleta FC": 17.5,
-        "Draw": 6.8
-      }
-    },
-    "30a4c76820f0398dbb11f45d7da45b85:h2h": {
-      "Winamax (DE)": {
-        "Fluminense-RJ": 3.15,
-        "Independiente Rivadavia": 2.95,
-        "Draw": 2.2
-      },
-      "Coolbet": {
-        "Fluminense-RJ": 3.5,
-        "Independiente Rivadavia": 3.14,
-        "Draw": 2.3
-      },
-      "Winamax (FR)": {
-        "Fluminense-RJ": 3.05,
-        "Independiente Rivadavia": 2.85,
-        "Draw": 2.15
-      },
-      "888sport": {
-        "Fluminense-RJ": 3.1,
-        "Independiente Rivadavia": 2.75,
-        "Draw": 2.3
-      },
-      "Betclic (FR)": {
-        "Fluminense-RJ": 3.3,
-        "Independiente Rivadavia": 2.88,
-        "Draw": 2.38
-      },
-      "Suprabets": {
-        "Fluminense-RJ": 3.25,
-        "Independiente Rivadavia": 2.9,
-        "Draw": 2.35
-      },
-      "Pinnacle": {
-        "Fluminense-RJ": 3.42,
-        "Independiente Rivadavia": 2.74,
-        "Draw": 2.44
-      },
-      "PMU (FR)": {
-        "Fluminense-RJ": 3.1,
-        "Independiente Rivadavia": 2.9,
-        "Draw": 2.0
-      },
-      "LeoVegas (SE)": {
-        "Fluminense-RJ": 3.15,
-        "Independiente Rivadavia": 2.95,
-        "Draw": 2.02
-      },
-      "Unibet (NL)": {
-        "Fluminense-RJ": 3.25,
-        "Independiente Rivadavia": 3.2,
-        "Draw": 2.16
-      },
-      "Tipico": {
-        "Fluminense-RJ": 3.4,
-        "Independiente Rivadavia": 2.7,
-        "Draw": 2.3
-      },
-      "Betsson": {
-        "Fluminense-RJ": 3.3,
-        "Independiente Rivadavia": 2.88,
-        "Draw": 2.2
-      },
-      "Nordic Bet": {
-        "Fluminense-RJ": 3.3,
-        "Independiente Rivadavia": 2.88,
-        "Draw": 2.2
-      },
-      "Betfair": {
-        "Fluminense-RJ": 3.7,
-        "Independiente Rivadavia": 3.15,
-        "Draw": 2.38
-      }
-    },
-    "d0ca0fc34f1a8c5f6c947fa5cbc923a4:h2h": {
-      "LeoVegas (SE)": {
-        "Atletico Goianiense": 2.3,
-        "Londrina": 2.7,
-        "Draw": 2.88
-      },
-      "Unibet (SE)": {
-        "Atletico Goianiense": 2.43,
-        "Londrina": 2.9,
-        "Draw": 3.05
-      },
-      "Unibet (NL)": {
-        "Atletico Goianiense": 2.33,
-        "Londrina": 2.75,
-        "Draw": 2.9
-      },
-      "Nordic Bet": {
-        "Atletico Goianiense": 2.55,
-        "Londrina": 2.78,
-        "Draw": 2.88
-      },
-      "Betsson": {
-        "Atletico Goianiense": 2.55,
-        "Londrina": 2.78,
-        "Draw": 2.88
-      },
-      "BetOnline.ag": {
-        "Atletico Goianiense": 2.68,
-        "Londrina": 2.88,
-        "Draw": 2.92
-      },
-      "1xBet": {
-        "Atletico Goianiense": 2.48,
-        "Londrina": 3.03,
-        "Draw": 2.98
-      },
-      "Coolbet": {
-        "Atletico Goianiense": 2.6,
-        "Londrina": 2.8,
-        "Draw": 2.88
-      },
-      "Codere (IT)": {
-        "Atletico Goianiense": 2.5,
-        "Londrina": 2.85,
-        "Draw": 2.95
-      },
-      "888sport": {
-        "Atletico Goianiense": 2.5,
-        "Londrina": 2.8,
-        "Draw": 2.75
-      },
-      "William Hill": {
-        "Atletico Goianiense": 2.6,
-        "Londrina": 2.88,
-        "Draw": 2.8
-      },
-      "Pinnacle": {
-        "Atletico Goianiense": 2.66,
-        "Londrina": 3.0,
-        "Draw": 2.8
-      },
-      "Matchbook": {
-        "Atletico Goianiense": 2.6,
-        "Londrina": 3.3,
-        "Draw": 3.05
-      },
-      "Tipico": {
-        "Atletico Goianiense": 2.4,
-        "Londrina": 3.0,
-        "Draw": 2.9
-      },
-      "Betfair": {
-        "Atletico Goianiense": 2.64,
-        "Londrina": 3.3,
-        "Draw": 3.0
-      }
-    },
     "87186a5e3961246c246912127754dcf3:h2h": {
       "Unibet (NL)": {
-        "Ceará": 3.55,
-        "Nautico PE": 2.16,
-        "Draw": 3.05
+        "Ceará": 12.0,
+        "Nautico PE": 1.24,
+        "Draw": 4.2
       },
       "LeoVegas (SE)": {
-        "Ceará": 3.35,
-        "Nautico PE": 2.07,
-        "Draw": 2.95
+        "Ceará": 12.0,
+        "Nautico PE": 1.23,
+        "Draw": 4.1
       },
       "Unibet (SE)": {
-        "Ceará": 3.55,
-        "Nautico PE": 2.16,
-        "Draw": 3.05
+        "Ceará": 13.0,
+        "Nautico PE": 1.29,
+        "Draw": 4.4
       },
       "Betsson": {
-        "Ceará": 3.55,
-        "Nautico PE": 2.12,
-        "Draw": 2.95
+        "Ceará": 14.0,
+        "Nautico PE": 1.26,
+        "Draw": 4.4
       },
       "Nordic Bet": {
-        "Ceará": 3.55,
-        "Nautico PE": 2.12,
-        "Draw": 2.95
-      },
-      "BetOnline.ag": {
-        "Ceará": 3.9,
-        "Nautico PE": 2.16,
-        "Draw": 2.92
+        "Ceará": 14.0,
+        "Nautico PE": 1.26,
+        "Draw": 4.4
       },
       "Coolbet": {
-        "Ceará": 3.5,
-        "Nautico PE": 2.17,
-        "Draw": 3.1
-      },
-      "Marathon Bet": {
-        "Ceará": 3.74,
-        "Nautico PE": 2.12,
-        "Draw": 2.94
+        "Ceará": 13.0,
+        "Nautico PE": 1.25,
+        "Draw": 4.5
       },
       "Betfair": {
-        "Ceará": 4.0,
-        "Nautico PE": 2.26,
-        "Draw": 3.15
-      },
-      "Codere (IT)": {
-        "Ceará": 3.5,
-        "Nautico PE": 2.12,
-        "Draw": 3.0
+        "Ceará": 16.0,
+        "Nautico PE": 1.33,
+        "Draw": 4.9
       },
       "888sport": {
-        "Ceará": 3.5,
-        "Nautico PE": 2.1,
-        "Draw": 3.0
-      },
-      "William Hill": {
-        "Ceará": 3.5,
-        "Nautico PE": 2.1,
-        "Draw": 3.0
+        "Ceará": 11.0,
+        "Nautico PE": 1.29,
+        "Draw": 4.5
       },
       "Pinnacle": {
-        "Ceará": 3.98,
-        "Nautico PE": 2.19,
-        "Draw": 3.02
+        "Ceará": 14.38,
+        "Nautico PE": 1.29,
+        "Draw": 4.61
       },
       "Matchbook": {
-        "Ceará": 4.1,
-        "Nautico PE": 2.28,
-        "Draw": 3.15
+        "Ceará": 16.0,
+        "Nautico PE": 1.33,
+        "Draw": 5.0
+      }
+    },
+    "28c9468625d7a33c5eea983f96c795f4:h2h": {
+      "Coolbet": {
+        "Club Bolívar": 22.0,
+        "Sao Paulo": 1.18,
+        "Draw": 5.5
+      },
+      "888sport": {
+        "Club Bolívar": 23.0,
+        "Sao Paulo": 1.17,
+        "Draw": 5.5
+      },
+      "Betfair": {
+        "Club Bolívar": 32.0,
+        "Sao Paulo": 1.22,
+        "Draw": 6.2
+      },
+      "Pinnacle": {
+        "Club Bolívar": 21.45,
+        "Sao Paulo": 1.18,
+        "Draw": 6.05
+      },
+      "LeoVegas (SE)": {
+        "Club Bolívar": 25.0,
+        "Sao Paulo": 1.09,
+        "Draw": 6.0
+      },
+      "Unibet (NL)": {
+        "Club Bolívar": 25.0,
+        "Sao Paulo": 1.14,
+        "Draw": 6.4
+      },
+      "PMU (FR)": {
+        "Club Bolívar": 23.0,
+        "Sao Paulo": 1.06,
+        "Draw": 5.8
+      },
+      "Nordic Bet": {
+        "Club Bolívar": 21.0,
+        "Sao Paulo": 1.16,
+        "Draw": 5.35
+      }
+    },
+    "5d066e1a5292f4f65a3879ab41a7d483:h2h": {
+      "LeoVegas (SE)": {
+        "Deportes Tolima": 10.0,
+        "Independiente del Valle": 1.3,
+        "Draw": 3.6
+      },
+      "Unibet (NL)": {
+        "Deportes Tolima": 11.0,
+        "Independiente del Valle": 1.38,
+        "Draw": 3.8
+      },
+      "888sport": {
+        "Deportes Tolima": 9.0,
+        "Independiente del Valle": 1.4,
+        "Draw": 3.5
+      },
+      "Betclic (FR)": {
+        "Deportes Tolima": 10.5,
+        "Independiente del Valle": 1.39,
+        "Draw": 3.75
+      },
+      "Tipico": {
+        "Deportes Tolima": 8.5,
+        "Independiente del Valle": 1.4,
+        "Draw": 3.8
+      },
+      "Suprabets": {
+        "Deportes Tolima": 9.5,
+        "Independiente del Valle": 1.42,
+        "Draw": 3.55
+      },
+      "Winamax (DE)": {
+        "Deportes Tolima": 9.0,
+        "Independiente del Valle": 1.42,
+        "Draw": 3.5
+      },
+      "Winamax (FR)": {
+        "Deportes Tolima": 8.5,
+        "Independiente del Valle": 1.41,
+        "Draw": 3.4
+      },
+      "Pinnacle": {
+        "Deportes Tolima": 8.96,
+        "Independiente del Valle": 1.47,
+        "Draw": 3.64
+      },
+      "Coolbet": {
+        "Deportes Tolima": 12.5,
+        "Independiente del Valle": 1.4,
+        "Draw": 4.0
+      },
+      "Betfair": {
+        "Deportes Tolima": 12.0,
+        "Independiente del Valle": 1.49,
+        "Draw": 3.9
+      },
+      "Nordic Bet": {
+        "Deportes Tolima": 11.5,
+        "Independiente del Valle": 1.36,
+        "Draw": 3.65
+      },
+      "Betsson": {
+        "Deportes Tolima": 10.5,
+        "Independiente del Valle": 1.38,
+        "Draw": 3.65
+      }
+    },
+    "3775491be22c3be12c4c5e4e02915d57:h2h": {
+      "Winamax (DE)": {
+        "Estudiantes La Plata": 1.04,
+        "Universidad Católica (CHI)": 40.0,
+        "Draw": 11.5
+      },
+      "Winamax (FR)": {
+        "Estudiantes La Plata": 1.07,
+        "Universidad Católica (CHI)": 42.0,
+        "Draw": 11.0
+      },
+      "Betclic (FR)": {
+        "Estudiantes La Plata": 1.05,
+        "Universidad Católica (CHI)": 35.0,
+        "Draw": 10.25
+      },
+      "Coolbet": {
+        "Estudiantes La Plata": 1.06,
+        "Universidad Católica (CHI)": 50.0,
+        "Draw": 13.0
+      },
+      "888sport": {
+        "Estudiantes La Plata": 1.05,
+        "Universidad Católica (CHI)": 46.0,
+        "Draw": 11.0
+      },
+      "Betfair": {
+        "Estudiantes La Plata": 1.08,
+        "Universidad Católica (CHI)": 50.0,
+        "Draw": 15.0
+      },
+      "Pinnacle": {
+        "Estudiantes La Plata": 1.44,
+        "Universidad Católica (CHI)": 10.98,
+        "Draw": 3.61
+      },
+      "Unibet (NL)": {
+        "Estudiantes La Plata": 1.03,
+        "Universidad Católica (CHI)": 56.0,
+        "Draw": 14.0
+      },
+      "Tipico": {
+        "Estudiantes La Plata": 1.06,
+        "Universidad Católica (CHI)": 45.0,
+        "Draw": 7.5
+      },
+      "Betsson": {
+        "Estudiantes La Plata": 1.05,
+        "Universidad Católica (CHI)": 36.0,
+        "Draw": 11.0
+      },
+      "Nordic Bet": {
+        "Estudiantes La Plata": 1.04,
+        "Universidad Católica (CHI)": 41.0,
+        "Draw": 11.0
       }
     }
   },
@@ -11001,27 +10956,502 @@
       "confidence": 8,
       "alert_type": "value",
       "alerted_at": "2026-08-18T22:37:11.364485+00:00"
+    },
+    {
+      "state_key": "28c9468625d7a33c5eea983f96c795f4:h2h",
+      "event_id": "28c9468625d7a33c5eea983f96c795f4",
+      "sport_key": "soccer",
+      "competition": "Copa Sudamericana",
+      "home_team": "Sao Paulo",
+      "away_team": "Club Bolívar",
+      "commence_time": "2026-08-19T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Club Bolívar",
+      "odds_at_alert": 32.0,
+      "stake_pct": 5.0,
+      "confidence": 41,
+      "alert_type": "value",
+      "alerted_at": "2026-08-19T01:49:33.116452+00:00"
+    },
+    {
+      "state_key": "28c9468625d7a33c5eea983f96c795f4:h2h",
+      "event_id": "28c9468625d7a33c5eea983f96c795f4",
+      "sport_key": "soccer",
+      "competition": "Copa Sudamericana",
+      "home_team": "Sao Paulo",
+      "away_team": "Club Bolívar",
+      "commence_time": "2026-08-19T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Club Bolívar",
+      "odds_at_alert": 25.0,
+      "stake_pct": 3.0,
+      "confidence": 10,
+      "alert_type": "value",
+      "alerted_at": "2026-08-19T01:49:33.475752+00:00"
+    },
+    {
+      "state_key": "28c9468625d7a33c5eea983f96c795f4:h2h",
+      "event_id": "28c9468625d7a33c5eea983f96c795f4",
+      "sport_key": "soccer",
+      "competition": "Copa Sudamericana",
+      "home_team": "Sao Paulo",
+      "away_team": "Club Bolívar",
+      "commence_time": "2026-08-19T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Club Bolívar",
+      "odds_at_alert": 25.0,
+      "stake_pct": 3.0,
+      "confidence": 10,
+      "alert_type": "value",
+      "alerted_at": "2026-08-19T01:49:33.823319+00:00"
+    },
+    {
+      "state_key": "5d066e1a5292f4f65a3879ab41a7d483:h2h",
+      "event_id": "5d066e1a5292f4f65a3879ab41a7d483",
+      "sport_key": "soccer",
+      "competition": "Copa Libertadores",
+      "home_team": "Deportes Tolima",
+      "away_team": "Independiente del Valle",
+      "commence_time": "2026-08-19T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Deportes Tolima",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 15,
+      "alert_type": "value",
+      "alerted_at": "2026-08-19T01:49:34.177446+00:00"
+    },
+    {
+      "state_key": "5d066e1a5292f4f65a3879ab41a7d483:h2h",
+      "event_id": "5d066e1a5292f4f65a3879ab41a7d483",
+      "sport_key": "soccer",
+      "competition": "Copa Libertadores",
+      "home_team": "Deportes Tolima",
+      "away_team": "Independiente del Valle",
+      "commence_time": "2026-08-19T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Deportes Tolima",
+      "odds_at_alert": 10.5,
+      "stake_pct": 2.0,
+      "confidence": 10,
+      "alert_type": "value",
+      "alerted_at": "2026-08-19T01:49:34.528634+00:00"
+    },
+    {
+      "state_key": "5d066e1a5292f4f65a3879ab41a7d483:h2h",
+      "event_id": "5d066e1a5292f4f65a3879ab41a7d483",
+      "sport_key": "soccer",
+      "competition": "Copa Libertadores",
+      "home_team": "Deportes Tolima",
+      "away_team": "Independiente del Valle",
+      "commence_time": "2026-08-19T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Deportes Tolima",
+      "odds_at_alert": 12.5,
+      "stake_pct": 5.0,
+      "confidence": 31,
+      "alert_type": "value",
+      "alerted_at": "2026-08-19T01:49:34.892228+00:00"
+    },
+    {
+      "state_key": "5d066e1a5292f4f65a3879ab41a7d483:h2h",
+      "event_id": "5d066e1a5292f4f65a3879ab41a7d483",
+      "sport_key": "soccer",
+      "competition": "Copa Libertadores",
+      "home_team": "Deportes Tolima",
+      "away_team": "Independiente del Valle",
+      "commence_time": "2026-08-19T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Deportes Tolima",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 26,
+      "alert_type": "value",
+      "alerted_at": "2026-08-19T01:49:35.220161+00:00"
+    },
+    {
+      "state_key": "5d066e1a5292f4f65a3879ab41a7d483:h2h",
+      "event_id": "5d066e1a5292f4f65a3879ab41a7d483",
+      "sport_key": "soccer",
+      "competition": "Copa Libertadores",
+      "home_team": "Deportes Tolima",
+      "away_team": "Independiente del Valle",
+      "commence_time": "2026-08-19T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Deportes Tolima",
+      "odds_at_alert": 11.5,
+      "stake_pct": 5.0,
+      "confidence": 20,
+      "alert_type": "value",
+      "alerted_at": "2026-08-19T01:49:35.577545+00:00"
+    },
+    {
+      "state_key": "5d066e1a5292f4f65a3879ab41a7d483:h2h",
+      "event_id": "5d066e1a5292f4f65a3879ab41a7d483",
+      "sport_key": "soccer",
+      "competition": "Copa Libertadores",
+      "home_team": "Deportes Tolima",
+      "away_team": "Independiente del Valle",
+      "commence_time": "2026-08-19T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Deportes Tolima",
+      "odds_at_alert": 10.5,
+      "stake_pct": 2.0,
+      "confidence": 10,
+      "alert_type": "value",
+      "alerted_at": "2026-08-19T01:49:35.922436+00:00"
+    },
+    {
+      "state_key": "3775491be22c3be12c4c5e4e02915d57:h2h",
+      "event_id": "3775491be22c3be12c4c5e4e02915d57",
+      "sport_key": "soccer",
+      "competition": "Copa Libertadores",
+      "home_team": "Universidad Católica (CHI)",
+      "away_team": "Estudiantes La Plata",
+      "commence_time": "2026-08-19T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Universidad Católica (CHI)",
+      "odds_at_alert": 40.0,
+      "stake_pct": 5.0,
+      "confidence": 243,
+      "alert_type": "value",
+      "alerted_at": "2026-08-19T01:49:36.270836+00:00"
+    },
+    {
+      "state_key": "3775491be22c3be12c4c5e4e02915d57:h2h",
+      "event_id": "3775491be22c3be12c4c5e4e02915d57",
+      "sport_key": "soccer",
+      "competition": "Copa Libertadores",
+      "home_team": "Universidad Católica (CHI)",
+      "away_team": "Estudiantes La Plata",
+      "commence_time": "2026-08-19T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 11.5,
+      "stake_pct": 5.0,
+      "confidence": 200,
+      "alert_type": "value",
+      "alerted_at": "2026-08-19T01:49:36.646035+00:00"
+    },
+    {
+      "state_key": "3775491be22c3be12c4c5e4e02915d57:h2h",
+      "event_id": "3775491be22c3be12c4c5e4e02915d57",
+      "sport_key": "soccer",
+      "competition": "Copa Libertadores",
+      "home_team": "Universidad Católica (CHI)",
+      "away_team": "Estudiantes La Plata",
+      "commence_time": "2026-08-19T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Universidad Católica (CHI)",
+      "odds_at_alert": 42.0,
+      "stake_pct": 5.0,
+      "confidence": 260,
+      "alert_type": "value",
+      "alerted_at": "2026-08-19T01:49:37.003157+00:00"
+    },
+    {
+      "state_key": "3775491be22c3be12c4c5e4e02915d57:h2h",
+      "event_id": "3775491be22c3be12c4c5e4e02915d57",
+      "sport_key": "soccer",
+      "competition": "Copa Libertadores",
+      "home_team": "Universidad Católica (CHI)",
+      "away_team": "Estudiantes La Plata",
+      "commence_time": "2026-08-19T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 187,
+      "alert_type": "value",
+      "alerted_at": "2026-08-19T01:49:37.370182+00:00"
+    },
+    {
+      "state_key": "3775491be22c3be12c4c5e4e02915d57:h2h",
+      "event_id": "3775491be22c3be12c4c5e4e02915d57",
+      "sport_key": "soccer",
+      "competition": "Copa Libertadores",
+      "home_team": "Universidad Católica (CHI)",
+      "away_team": "Estudiantes La Plata",
+      "commence_time": "2026-08-19T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Universidad Católica (CHI)",
+      "odds_at_alert": 35.0,
+      "stake_pct": 5.0,
+      "confidence": 200,
+      "alert_type": "value",
+      "alerted_at": "2026-08-19T01:49:37.780571+00:00"
+    },
+    {
+      "state_key": "3775491be22c3be12c4c5e4e02915d57:h2h",
+      "event_id": "3775491be22c3be12c4c5e4e02915d57",
+      "sport_key": "soccer",
+      "competition": "Copa Libertadores",
+      "home_team": "Universidad Católica (CHI)",
+      "away_team": "Estudiantes La Plata",
+      "commence_time": "2026-08-19T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 10.25,
+      "stake_pct": 5.0,
+      "confidence": 167,
+      "alert_type": "value",
+      "alerted_at": "2026-08-19T01:49:38.116467+00:00"
+    },
+    {
+      "state_key": "3775491be22c3be12c4c5e4e02915d57:h2h",
+      "event_id": "3775491be22c3be12c4c5e4e02915d57",
+      "sport_key": "soccer",
+      "competition": "Copa Libertadores",
+      "home_team": "Universidad Católica (CHI)",
+      "away_team": "Estudiantes La Plata",
+      "commence_time": "2026-08-19T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Universidad Católica (CHI)",
+      "odds_at_alert": 50.0,
+      "stake_pct": 5.0,
+      "confidence": 329,
+      "alert_type": "value",
+      "alerted_at": "2026-08-19T01:49:38.455586+00:00"
+    },
+    {
+      "state_key": "3775491be22c3be12c4c5e4e02915d57:h2h",
+      "event_id": "3775491be22c3be12c4c5e4e02915d57",
+      "sport_key": "soccer",
+      "competition": "Copa Libertadores",
+      "home_team": "Universidad Católica (CHI)",
+      "away_team": "Estudiantes La Plata",
+      "commence_time": "2026-08-19T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 239,
+      "alert_type": "value",
+      "alerted_at": "2026-08-19T01:49:38.865130+00:00"
+    },
+    {
+      "state_key": "3775491be22c3be12c4c5e4e02915d57:h2h",
+      "event_id": "3775491be22c3be12c4c5e4e02915d57",
+      "sport_key": "soccer",
+      "competition": "Copa Libertadores",
+      "home_team": "Universidad Católica (CHI)",
+      "away_team": "Estudiantes La Plata",
+      "commence_time": "2026-08-19T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Universidad Católica (CHI)",
+      "odds_at_alert": 46.0,
+      "stake_pct": 5.0,
+      "confidence": 294,
+      "alert_type": "value",
+      "alerted_at": "2026-08-19T01:49:39.220937+00:00"
+    },
+    {
+      "state_key": "3775491be22c3be12c4c5e4e02915d57:h2h",
+      "event_id": "3775491be22c3be12c4c5e4e02915d57",
+      "sport_key": "soccer",
+      "competition": "Copa Libertadores",
+      "home_team": "Universidad Católica (CHI)",
+      "away_team": "Estudiantes La Plata",
+      "commence_time": "2026-08-19T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 187,
+      "alert_type": "value",
+      "alerted_at": "2026-08-19T01:49:39.562761+00:00"
+    },
+    {
+      "state_key": "3775491be22c3be12c4c5e4e02915d57:h2h",
+      "event_id": "3775491be22c3be12c4c5e4e02915d57",
+      "sport_key": "soccer",
+      "competition": "Copa Libertadores",
+      "home_team": "Universidad Católica (CHI)",
+      "away_team": "Estudiantes La Plata",
+      "commence_time": "2026-08-19T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Universidad Católica (CHI)",
+      "odds_at_alert": 50.0,
+      "stake_pct": 5.0,
+      "confidence": 329,
+      "alert_type": "value",
+      "alerted_at": "2026-08-19T01:49:39.943862+00:00"
+    },
+    {
+      "state_key": "3775491be22c3be12c4c5e4e02915d57:h2h",
+      "event_id": "3775491be22c3be12c4c5e4e02915d57",
+      "sport_key": "soccer",
+      "competition": "Copa Libertadores",
+      "home_team": "Universidad Católica (CHI)",
+      "away_team": "Estudiantes La Plata",
+      "commence_time": "2026-08-19T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 291,
+      "alert_type": "value",
+      "alerted_at": "2026-08-19T01:49:40.291923+00:00"
+    },
+    {
+      "state_key": "3775491be22c3be12c4c5e4e02915d57:h2h",
+      "event_id": "3775491be22c3be12c4c5e4e02915d57",
+      "sport_key": "soccer",
+      "competition": "Copa Libertadores",
+      "home_team": "Universidad Católica (CHI)",
+      "away_team": "Estudiantes La Plata",
+      "commence_time": "2026-08-19T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Universidad Católica (CHI)",
+      "odds_at_alert": 56.0,
+      "stake_pct": 5.0,
+      "confidence": 380,
+      "alert_type": "value",
+      "alerted_at": "2026-08-19T01:49:40.642578+00:00"
+    },
+    {
+      "state_key": "3775491be22c3be12c4c5e4e02915d57:h2h",
+      "event_id": "3775491be22c3be12c4c5e4e02915d57",
+      "sport_key": "soccer",
+      "competition": "Copa Libertadores",
+      "home_team": "Universidad Católica (CHI)",
+      "away_team": "Estudiantes La Plata",
+      "commence_time": "2026-08-19T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 14.0,
+      "stake_pct": 5.0,
+      "confidence": 265,
+      "alert_type": "value",
+      "alerted_at": "2026-08-19T01:49:41.047998+00:00"
+    },
+    {
+      "state_key": "3775491be22c3be12c4c5e4e02915d57:h2h",
+      "event_id": "3775491be22c3be12c4c5e4e02915d57",
+      "sport_key": "soccer",
+      "competition": "Copa Libertadores",
+      "home_team": "Universidad Católica (CHI)",
+      "away_team": "Estudiantes La Plata",
+      "commence_time": "2026-08-19T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Universidad Católica (CHI)",
+      "odds_at_alert": 45.0,
+      "stake_pct": 5.0,
+      "confidence": 286,
+      "alert_type": "value",
+      "alerted_at": "2026-08-19T01:49:41.386552+00:00"
+    },
+    {
+      "state_key": "3775491be22c3be12c4c5e4e02915d57:h2h",
+      "event_id": "3775491be22c3be12c4c5e4e02915d57",
+      "sport_key": "soccer",
+      "competition": "Copa Libertadores",
+      "home_team": "Universidad Católica (CHI)",
+      "away_team": "Estudiantes La Plata",
+      "commence_time": "2026-08-19T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 7.5,
+      "stake_pct": 5.0,
+      "confidence": 96,
+      "alert_type": "value",
+      "alerted_at": "2026-08-19T01:49:41.731175+00:00"
+    },
+    {
+      "state_key": "3775491be22c3be12c4c5e4e02915d57:h2h",
+      "event_id": "3775491be22c3be12c4c5e4e02915d57",
+      "sport_key": "soccer",
+      "competition": "Copa Libertadores",
+      "home_team": "Universidad Católica (CHI)",
+      "away_team": "Estudiantes La Plata",
+      "commence_time": "2026-08-19T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Universidad Católica (CHI)",
+      "odds_at_alert": 36.0,
+      "stake_pct": 5.0,
+      "confidence": 209,
+      "alert_type": "value",
+      "alerted_at": "2026-08-19T01:49:42.085663+00:00"
+    },
+    {
+      "state_key": "3775491be22c3be12c4c5e4e02915d57:h2h",
+      "event_id": "3775491be22c3be12c4c5e4e02915d57",
+      "sport_key": "soccer",
+      "competition": "Copa Libertadores",
+      "home_team": "Universidad Católica (CHI)",
+      "away_team": "Estudiantes La Plata",
+      "commence_time": "2026-08-19T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 187,
+      "alert_type": "value",
+      "alerted_at": "2026-08-19T01:49:42.435540+00:00"
+    },
+    {
+      "state_key": "3775491be22c3be12c4c5e4e02915d57:h2h",
+      "event_id": "3775491be22c3be12c4c5e4e02915d57",
+      "sport_key": "soccer",
+      "competition": "Copa Libertadores",
+      "home_team": "Universidad Católica (CHI)",
+      "away_team": "Estudiantes La Plata",
+      "commence_time": "2026-08-19T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Universidad Católica (CHI)",
+      "odds_at_alert": 41.0,
+      "stake_pct": 5.0,
+      "confidence": 251,
+      "alert_type": "value",
+      "alerted_at": "2026-08-19T01:49:42.811339+00:00"
+    },
+    {
+      "state_key": "3775491be22c3be12c4c5e4e02915d57:h2h",
+      "event_id": "3775491be22c3be12c4c5e4e02915d57",
+      "sport_key": "soccer",
+      "competition": "Copa Libertadores",
+      "home_team": "Universidad Católica (CHI)",
+      "away_team": "Estudiantes La Plata",
+      "commence_time": "2026-08-19T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 187,
+      "alert_type": "value",
+      "alerted_at": "2026-08-19T01:49:43.167939+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "30a4c76820f0398dbb11f45d7da45b85:h2h|Betfair|Independiente Rivadavia",
-    "30a4c76820f0398dbb11f45d7da45b85:h2h|Coolbet|Independiente Rivadavia",
-    "30a4c76820f0398dbb11f45d7da45b85:h2h|Unibet (NL)|Independiente Rivadavia",
-    "507dd8698226f32be828677e6dec567d:h2h|1xBet|Recoleta FC",
-    "507dd8698226f32be828677e6dec567d:h2h|888sport|Draw",
-    "507dd8698226f32be828677e6dec567d:h2h|888sport|Recoleta FC",
-    "507dd8698226f32be828677e6dec567d:h2h|Betfair|Draw",
-    "507dd8698226f32be828677e6dec567d:h2h|Betfair|Recoleta FC",
-    "507dd8698226f32be828677e6dec567d:h2h|Coolbet|Draw",
-    "507dd8698226f32be828677e6dec567d:h2h|Coolbet|Recoleta FC",
-    "507dd8698226f32be828677e6dec567d:h2h|LeoVegas (SE)|Draw",
-    "507dd8698226f32be828677e6dec567d:h2h|LeoVegas (SE)|Recoleta FC",
-    "507dd8698226f32be828677e6dec567d:h2h|Nordic Bet|Draw",
-    "507dd8698226f32be828677e6dec567d:h2h|Nordic Bet|Recoleta FC",
-    "507dd8698226f32be828677e6dec567d:h2h|PMU (FR)|Draw",
-    "507dd8698226f32be828677e6dec567d:h2h|PMU (FR)|Recoleta FC",
-    "507dd8698226f32be828677e6dec567d:h2h|Unibet (NL)|Draw",
-    "507dd8698226f32be828677e6dec567d:h2h|Unibet (NL)|Recoleta FC"
+    "28c9468625d7a33c5eea983f96c795f4:h2h|Betfair|Club Bolívar",
+    "28c9468625d7a33c5eea983f96c795f4:h2h|LeoVegas (SE)|Club Bolívar",
+    "28c9468625d7a33c5eea983f96c795f4:h2h|Unibet (NL)|Club Bolívar",
+    "3775491be22c3be12c4c5e4e02915d57:h2h|888sport|Draw",
+    "3775491be22c3be12c4c5e4e02915d57:h2h|888sport|Universidad Católica (CHI)",
+    "3775491be22c3be12c4c5e4e02915d57:h2h|Betclic (FR)|Draw",
+    "3775491be22c3be12c4c5e4e02915d57:h2h|Betclic (FR)|Universidad Católica (CHI)",
+    "3775491be22c3be12c4c5e4e02915d57:h2h|Betfair|Draw",
+    "3775491be22c3be12c4c5e4e02915d57:h2h|Betfair|Universidad Católica (CHI)",
+    "3775491be22c3be12c4c5e4e02915d57:h2h|Betsson|Draw",
+    "3775491be22c3be12c4c5e4e02915d57:h2h|Betsson|Universidad Católica (CHI)",
+    "3775491be22c3be12c4c5e4e02915d57:h2h|Coolbet|Draw",
+    "3775491be22c3be12c4c5e4e02915d57:h2h|Coolbet|Universidad Católica (CHI)",
+    "3775491be22c3be12c4c5e4e02915d57:h2h|Nordic Bet|Draw",
+    "3775491be22c3be12c4c5e4e02915d57:h2h|Nordic Bet|Universidad Católica (CHI)",
+    "3775491be22c3be12c4c5e4e02915d57:h2h|Tipico|Draw",
+    "3775491be22c3be12c4c5e4e02915d57:h2h|Tipico|Universidad Católica (CHI)",
+    "3775491be22c3be12c4c5e4e02915d57:h2h|Unibet (NL)|Draw",
+    "3775491be22c3be12c4c5e4e02915d57:h2h|Unibet (NL)|Universidad Católica (CHI)",
+    "3775491be22c3be12c4c5e4e02915d57:h2h|Winamax (DE)|Draw",
+    "3775491be22c3be12c4c5e4e02915d57:h2h|Winamax (DE)|Universidad Católica (CHI)",
+    "3775491be22c3be12c4c5e4e02915d57:h2h|Winamax (FR)|Draw",
+    "3775491be22c3be12c4c5e4e02915d57:h2h|Winamax (FR)|Universidad Católica (CHI)",
+    "5d066e1a5292f4f65a3879ab41a7d483:h2h|Betclic (FR)|Deportes Tolima",
+    "5d066e1a5292f4f65a3879ab41a7d483:h2h|Betfair|Deportes Tolima",
+    "5d066e1a5292f4f65a3879ab41a7d483:h2h|Betsson|Deportes Tolima",
+    "5d066e1a5292f4f65a3879ab41a7d483:h2h|Coolbet|Deportes Tolima",
+    "5d066e1a5292f4f65a3879ab41a7d483:h2h|Nordic Bet|Deportes Tolima",
+    "5d066e1a5292f4f65a3879ab41a7d483:h2h|Unibet (NL)|Deportes Tolima"
   ]
 }
