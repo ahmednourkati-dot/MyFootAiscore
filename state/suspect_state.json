@@ -2,280 +2,140 @@
   "snapshots": {
     "857e387be2e9f73e825ad02a2ec74cc3:h2h": {
       "Betfair": {
-        "Atlético Madrid": 1.51,
-        "Málaga": 7.4,
-        "Draw": 4.8
+        "Atlético Madrid": 1.15,
+        "Málaga": 75.0,
+        "Draw": 8.2
       },
       "Winamax (FR)": {
-        "Atlético Madrid": 1.43,
-        "Málaga": 6.25,
-        "Draw": 4.6
+        "Atlético Madrid": 1.08,
+        "Málaga": 60.0,
+        "Draw": 9.0
       },
       "Winamax (DE)": {
-        "Atlético Madrid": 1.44,
-        "Málaga": 6.25,
-        "Draw": 4.7
+        "Atlético Madrid": 1.88,
+        "Málaga": 11.0,
+        "Draw": 2.2
       },
       "Betclic (FR)": {
-        "Atlético Madrid": 1.42,
-        "Málaga": 7.0,
-        "Draw": 4.6
+        "Atlético Madrid": 1.04,
+        "Málaga": 50.0,
+        "Draw": 9.25
       },
       "Coolbet": {
-        "Atlético Madrid": 1.48,
-        "Málaga": 7.0,
-        "Draw": 4.7
-      },
-      "1xBet": {
-        "Atlético Madrid": 1.48,
-        "Málaga": 7.13,
-        "Draw": 4.68
-      },
-      "Marathon Bet": {
-        "Atlético Madrid": 1.46,
-        "Málaga": 7.5,
-        "Draw": 4.7
+        "Atlético Madrid": 1.91,
+        "Málaga": 13.0,
+        "Draw": 2.25
       },
       "Pinnacle": {
-        "Atlético Madrid": 1.5,
-        "Málaga": 7.0,
-        "Draw": 4.65
-      },
-      "William Hill": {
-        "Atlético Madrid": 1.44,
-        "Málaga": 6.5,
-        "Draw": 4.2
-      },
-      "BetOnline.ag": {
-        "Atlético Madrid": 1.48,
-        "Málaga": 7.0,
-        "Draw": 4.65
+        "Atlético Madrid": 1.92,
+        "Málaga": 7.82,
+        "Draw": 2.5
       },
       "LeoVegas (SE)": {
-        "Atlético Madrid": 1.44,
-        "Málaga": 6.75,
-        "Draw": 4.1
+        "Atlético Madrid": 1.03,
+        "Málaga": 41.0,
+        "Draw": 11.0
       },
       "Unibet (SE)": {
-        "Atlético Madrid": 1.5,
-        "Málaga": 7.5,
-        "Draw": 4.4
+        "Atlético Madrid": 1.08,
+        "Málaga": 56.0,
+        "Draw": 9.5
       },
       "Unibet (NL)": {
-        "Atlético Madrid": 1.48,
-        "Málaga": 7.5,
-        "Draw": 4.4
+        "Atlético Madrid": 1.05,
+        "Málaga": 81.0,
+        "Draw": 12.5
       },
       "PMU (FR)": {
-        "Atlético Madrid": 1.45,
-        "Málaga": 7.0,
-        "Draw": 4.1
+        "Atlético Madrid": 1.01,
+        "Málaga": 41.0,
+        "Draw": 11.0
       },
       "Nordic Bet": {
-        "Atlético Madrid": 1.45,
-        "Málaga": 7.3,
-        "Draw": 4.3
+        "Atlético Madrid": 1.85,
+        "Málaga": 9.1,
+        "Draw": 2.25
       },
       "Betsson": {
-        "Atlético Madrid": 1.43,
-        "Málaga": 7.8,
-        "Draw": 4.3
+        "Atlético Madrid": 1.88,
+        "Málaga": 10.5,
+        "Draw": 2.2
       },
       "Matchbook": {
-        "Atlético Madrid": 1.52,
-        "Málaga": 7.4,
-        "Draw": 4.8
+        "Atlético Madrid": 1.92,
+        "Málaga": 12.0,
+        "Draw": 2.32
       },
       "Tipico": {
-        "Atlético Madrid": 1.45,
-        "Málaga": 6.5,
-        "Draw": 4.6
-      },
-      "Codere (IT)": {
-        "Atlético Madrid": 1.49,
-        "Málaga": 6.2,
-        "Draw": 4.6
+        "Atlético Madrid": 1.05,
+        "Málaga": 40.0,
+        "Draw": 9.0
       }
     },
     "0d9b3bdd29889331571d2b6452cc85a1:h2h": {
-      "Tipico": {
-        "Bodø/Glimt": 2.2,
-        "NEC Nijmegen": 2.85,
-        "Draw": 3.8
-      },
-      "Marathon Bet": {
-        "Bodø/Glimt": 2.27,
-        "NEC Nijmegen": 2.78,
-        "Draw": 3.68
-      },
       "888sport": {
-        "Bodø/Glimt": 2.3,
-        "NEC Nijmegen": 2.62,
-        "Draw": 3.5
-      },
-      "LeoVegas (SE)": {
-        "Bodø/Glimt": 2.25,
-        "NEC Nijmegen": 2.65,
-        "Draw": 3.55
-      },
-      "Unibet (SE)": {
-        "Bodø/Glimt": 2.28,
-        "NEC Nijmegen": 2.7,
-        "Draw": 3.65
-      },
-      "Unibet (NL)": {
-        "Bodø/Glimt": 2.28,
-        "NEC Nijmegen": 2.7,
-        "Draw": 3.65
-      },
-      "Pinnacle": {
-        "Bodø/Glimt": 2.32,
-        "NEC Nijmegen": 2.86,
-        "Draw": 3.86
+        "Bodø/Glimt": 1.0,
+        "NEC Nijmegen": 151.0,
+        "Draw": 67.0
       },
       "Betfair": {
-        "Bodø/Glimt": 2.38,
-        "NEC Nijmegen": 2.98,
-        "Draw": 4.0
-      },
-      "BetOnline.ag": {
-        "Bodø/Glimt": 2.3,
-        "NEC Nijmegen": 2.84,
-        "Draw": 3.8
+        "Bodø/Glimt": 1.01,
+        "NEC Nijmegen": 150.0,
+        "Draw": 55.0
       }
     },
     "12b3b43081604f16c5b2cb33c79db9ce:h2h": {
-      "Unibet (FR)": {
-        "Celtic": 1.74,
-        "LASK": 4.2,
-        "Draw": 4.0
-      },
-      "Tipico": {
-        "Celtic": 1.75,
-        "LASK": 4.1,
-        "Draw": 3.9
-      },
-      "Coolbet": {
-        "Celtic": 1.84,
-        "LASK": 4.05,
-        "Draw": 4.0
-      },
-      "1xBet": {
-        "Celtic": 1.78,
-        "LASK": 4.1,
-        "Draw": 4.05
-      },
-      "Marathon Bet": {
-        "Celtic": 1.83,
-        "LASK": 4.25,
-        "Draw": 4.0
-      },
       "Betsson": {
-        "Celtic": 1.8,
-        "LASK": 3.8,
-        "Draw": 3.75
+        "Celtic": 1.0,
+        "LASK": 36.0,
+        "Draw": 21.0
       },
       "Nordic Bet": {
-        "Celtic": 1.8,
-        "LASK": 3.8,
-        "Draw": 3.75
-      },
-      "888sport": {
-        "Celtic": 1.8,
-        "LASK": 3.8,
-        "Draw": 3.6
-      },
-      "LeoVegas (SE)": {
-        "Celtic": 1.71,
-        "LASK": 4.1,
-        "Draw": 3.65
-      },
-      "PMU (FR)": {
-        "Celtic": 1.74,
-        "LASK": 4.3,
-        "Draw": 3.8
-      },
-      "Unibet (SE)": {
-        "Celtic": 1.73,
-        "LASK": 4.2,
-        "Draw": 3.75
-      },
-      "Unibet (NL)": {
-        "Celtic": 1.73,
-        "LASK": 4.2,
-        "Draw": 3.75
-      },
-      "Pinnacle": {
-        "Celtic": 1.82,
-        "LASK": 4.07,
-        "Draw": 4.04
-      },
-      "Betfair": {
-        "Celtic": 1.85,
-        "LASK": 4.4,
-        "Draw": 4.1
-      },
-      "BetOnline.ag": {
-        "Celtic": 1.82,
-        "LASK": 4.0,
-        "Draw": 4.0
+        "Celtic": 1.0,
+        "LASK": 34.0,
+        "Draw": 23.0
       }
     },
     "f96244dee5b814372c4e60f335ed9e46:h2h": {
-      "Unibet (FR)": {
-        "Hapoel Be'er Sheva": 2.5,
-        "Sabah FK": 2.75,
-        "Draw": 3.2
-      },
       "Coolbet": {
-        "Hapoel Be'er Sheva": 2.65,
-        "Sabah FK": 2.75,
-        "Draw": 3.35
+        "Hapoel Be'er Sheva": 1.16,
+        "Sabah FK": 56.0,
+        "Draw": 6.0
       },
       "Tipico": {
-        "Hapoel Be'er Sheva": 2.55,
-        "Sabah FK": 2.75,
-        "Draw": 3.2
-      },
-      "Marathon Bet": {
-        "Hapoel Be'er Sheva": 2.57,
-        "Sabah FK": 2.69,
-        "Draw": 3.22
+        "Hapoel Be'er Sheva": 1.15,
+        "Sabah FK": 50.0,
+        "Draw": 5.0
       },
       "LeoVegas (SE)": {
-        "Hapoel Be'er Sheva": 2.35,
-        "Sabah FK": 2.75,
-        "Draw": 3.15
+        "Hapoel Be'er Sheva": 3.35,
+        "Sabah FK": 3.65,
+        "Draw": 1.66
       },
       "PMU (FR)": {
-        "Hapoel Be'er Sheva": 2.43,
-        "Sabah FK": 2.88,
-        "Draw": 3.3
+        "Hapoel Be'er Sheva": 3.55,
+        "Sabah FK": 3.85,
+        "Draw": 1.78
       },
       "Unibet (SE)": {
-        "Hapoel Be'er Sheva": 2.43,
-        "Sabah FK": 2.88,
-        "Draw": 3.3
+        "Hapoel Be'er Sheva": 3.55,
+        "Sabah FK": 3.85,
+        "Draw": 1.78
       },
       "Unibet (NL)": {
-        "Hapoel Be'er Sheva": 2.43,
-        "Sabah FK": 2.88,
-        "Draw": 3.3
+        "Hapoel Be'er Sheva": 3.55,
+        "Sabah FK": 3.85,
+        "Draw": 1.78
       },
       "Pinnacle": {
-        "Hapoel Be'er Sheva": 2.65,
-        "Sabah FK": 2.74,
-        "Draw": 3.37
+        "Hapoel Be'er Sheva": 3.47,
+        "Sabah FK": 4.07,
+        "Draw": 1.88
       },
       "Betfair": {
-        "Hapoel Be'er Sheva": 2.72,
-        "Sabah FK": 2.82,
-        "Draw": 3.55
-      },
-      "BetOnline.ag": {
-        "Hapoel Be'er Sheva": 2.61,
-        "Sabah FK": 2.72,
-        "Draw": 3.35
+        "Hapoel Be'er Sheva": 1.23,
+        "Sabah FK": 36.0,
+        "Draw": 6.0
       }
     }
   },
@@ -11880,6 +11740,342 @@
       "confidence": 9,
       "alert_type": "value",
       "alerted_at": "2026-08-19T18:50:13.222251+00:00"
+    },
+    {
+      "state_key": "857e387be2e9f73e825ad02a2ec74cc3:h2h",
+      "event_id": "857e387be2e9f73e825ad02a2ec74cc3",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Atlético Madrid",
+      "away_team": "Málaga",
+      "commence_time": "2026-08-19T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 8.2,
+      "stake_pct": 5.0,
+      "confidence": 213,
+      "alert_type": "value",
+      "alerted_at": "2026-08-19T20:40:10.615775+00:00"
+    },
+    {
+      "state_key": "857e387be2e9f73e825ad02a2ec74cc3:h2h",
+      "event_id": "857e387be2e9f73e825ad02a2ec74cc3",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Atlético Madrid",
+      "away_team": "Málaga",
+      "commence_time": "2026-08-19T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Málaga",
+      "odds_at_alert": 60.0,
+      "stake_pct": 5.0,
+      "confidence": 632,
+      "alert_type": "value",
+      "alerted_at": "2026-08-19T20:40:10.971992+00:00"
+    },
+    {
+      "state_key": "857e387be2e9f73e825ad02a2ec74cc3:h2h",
+      "event_id": "857e387be2e9f73e825ad02a2ec74cc3",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Atlético Madrid",
+      "away_team": "Málaga",
+      "commence_time": "2026-08-19T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 9.0,
+      "stake_pct": 5.0,
+      "confidence": 243,
+      "alert_type": "value",
+      "alerted_at": "2026-08-19T20:40:11.297489+00:00"
+    },
+    {
+      "state_key": "857e387be2e9f73e825ad02a2ec74cc3:h2h",
+      "event_id": "857e387be2e9f73e825ad02a2ec74cc3",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Atlético Madrid",
+      "away_team": "Málaga",
+      "commence_time": "2026-08-19T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Málaga",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 34,
+      "alert_type": "value",
+      "alerted_at": "2026-08-19T20:40:11.649027+00:00"
+    },
+    {
+      "state_key": "857e387be2e9f73e825ad02a2ec74cc3:h2h",
+      "event_id": "857e387be2e9f73e825ad02a2ec74cc3",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Atlético Madrid",
+      "away_team": "Málaga",
+      "commence_time": "2026-08-19T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Málaga",
+      "odds_at_alert": 50.0,
+      "stake_pct": 5.0,
+      "confidence": 510,
+      "alert_type": "value",
+      "alerted_at": "2026-08-19T20:40:11.988267+00:00"
+    },
+    {
+      "state_key": "857e387be2e9f73e825ad02a2ec74cc3:h2h",
+      "event_id": "857e387be2e9f73e825ad02a2ec74cc3",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Atlético Madrid",
+      "away_team": "Málaga",
+      "commence_time": "2026-08-19T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 9.25,
+      "stake_pct": 5.0,
+      "confidence": 253,
+      "alert_type": "value",
+      "alerted_at": "2026-08-19T20:40:12.324051+00:00"
+    },
+    {
+      "state_key": "857e387be2e9f73e825ad02a2ec74cc3:h2h",
+      "event_id": "857e387be2e9f73e825ad02a2ec74cc3",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Atlético Madrid",
+      "away_team": "Málaga",
+      "commence_time": "2026-08-19T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Málaga",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 59,
+      "alert_type": "value",
+      "alerted_at": "2026-08-19T20:40:12.680264+00:00"
+    },
+    {
+      "state_key": "857e387be2e9f73e825ad02a2ec74cc3:h2h",
+      "event_id": "857e387be2e9f73e825ad02a2ec74cc3",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Atlético Madrid",
+      "away_team": "Málaga",
+      "commence_time": "2026-08-19T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Málaga",
+      "odds_at_alert": 41.0,
+      "stake_pct": 5.0,
+      "confidence": 400,
+      "alert_type": "value",
+      "alerted_at": "2026-08-19T20:40:13.021411+00:00"
+    },
+    {
+      "state_key": "857e387be2e9f73e825ad02a2ec74cc3:h2h",
+      "event_id": "857e387be2e9f73e825ad02a2ec74cc3",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Atlético Madrid",
+      "away_team": "Málaga",
+      "commence_time": "2026-08-19T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 320,
+      "alert_type": "value",
+      "alerted_at": "2026-08-19T20:40:13.355382+00:00"
+    },
+    {
+      "state_key": "857e387be2e9f73e825ad02a2ec74cc3:h2h",
+      "event_id": "857e387be2e9f73e825ad02a2ec74cc3",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Atlético Madrid",
+      "away_team": "Málaga",
+      "commence_time": "2026-08-19T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 9.5,
+      "stake_pct": 5.0,
+      "confidence": 262,
+      "alert_type": "value",
+      "alerted_at": "2026-08-19T20:40:13.686123+00:00"
+    },
+    {
+      "state_key": "857e387be2e9f73e825ad02a2ec74cc3:h2h",
+      "event_id": "857e387be2e9f73e825ad02a2ec74cc3",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Atlético Madrid",
+      "away_team": "Málaga",
+      "commence_time": "2026-08-19T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Málaga",
+      "odds_at_alert": 41.0,
+      "stake_pct": 5.0,
+      "confidence": 400,
+      "alert_type": "value",
+      "alerted_at": "2026-08-19T20:40:14.056854+00:00"
+    },
+    {
+      "state_key": "857e387be2e9f73e825ad02a2ec74cc3:h2h",
+      "event_id": "857e387be2e9f73e825ad02a2ec74cc3",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Atlético Madrid",
+      "away_team": "Málaga",
+      "commence_time": "2026-08-19T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 320,
+      "alert_type": "value",
+      "alerted_at": "2026-08-19T20:40:14.396397+00:00"
+    },
+    {
+      "state_key": "857e387be2e9f73e825ad02a2ec74cc3:h2h",
+      "event_id": "857e387be2e9f73e825ad02a2ec74cc3",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Atlético Madrid",
+      "away_team": "Málaga",
+      "commence_time": "2026-08-19T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Málaga",
+      "odds_at_alert": 9.1,
+      "stake_pct": 3.0,
+      "confidence": 11,
+      "alert_type": "value",
+      "alerted_at": "2026-08-19T20:40:14.735675+00:00"
+    },
+    {
+      "state_key": "857e387be2e9f73e825ad02a2ec74cc3:h2h",
+      "event_id": "857e387be2e9f73e825ad02a2ec74cc3",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Atlético Madrid",
+      "away_team": "Málaga",
+      "commence_time": "2026-08-19T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Málaga",
+      "odds_at_alert": 40.0,
+      "stake_pct": 5.0,
+      "confidence": 388,
+      "alert_type": "value",
+      "alerted_at": "2026-08-19T20:40:15.148182+00:00"
+    },
+    {
+      "state_key": "857e387be2e9f73e825ad02a2ec74cc3:h2h",
+      "event_id": "857e387be2e9f73e825ad02a2ec74cc3",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Atlético Madrid",
+      "away_team": "Málaga",
+      "commence_time": "2026-08-19T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 9.0,
+      "stake_pct": 5.0,
+      "confidence": 243,
+      "alert_type": "value",
+      "alerted_at": "2026-08-19T20:40:15.478506+00:00"
+    },
+    {
+      "state_key": "f96244dee5b814372c4e60f335ed9e46:h2h",
+      "event_id": "f96244dee5b814372c4e60f335ed9e46",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League Qualification",
+      "home_team": "Hapoel Be'er Sheva",
+      "away_team": "Sabah FK",
+      "commence_time": "2026-08-19T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sabah FK",
+      "odds_at_alert": 56.0,
+      "stake_pct": 5.0,
+      "confidence": 1191,
+      "alert_type": "value",
+      "alerted_at": "2026-08-19T20:40:15.813326+00:00"
+    },
+    {
+      "state_key": "f96244dee5b814372c4e60f335ed9e46:h2h",
+      "event_id": "f96244dee5b814372c4e60f335ed9e46",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League Qualification",
+      "home_team": "Hapoel Be'er Sheva",
+      "away_team": "Sabah FK",
+      "commence_time": "2026-08-19T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.0,
+      "stake_pct": 5.0,
+      "confidence": 199,
+      "alert_type": "value",
+      "alerted_at": "2026-08-19T20:40:16.158492+00:00"
+    },
+    {
+      "state_key": "f96244dee5b814372c4e60f335ed9e46:h2h",
+      "event_id": "f96244dee5b814372c4e60f335ed9e46",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League Qualification",
+      "home_team": "Hapoel Be'er Sheva",
+      "away_team": "Sabah FK",
+      "commence_time": "2026-08-19T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sabah FK",
+      "odds_at_alert": 50.0,
+      "stake_pct": 5.0,
+      "confidence": 1053,
+      "alert_type": "value",
+      "alerted_at": "2026-08-19T20:40:16.543246+00:00"
+    },
+    {
+      "state_key": "f96244dee5b814372c4e60f335ed9e46:h2h",
+      "event_id": "f96244dee5b814372c4e60f335ed9e46",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League Qualification",
+      "home_team": "Hapoel Be'er Sheva",
+      "away_team": "Sabah FK",
+      "commence_time": "2026-08-19T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.0,
+      "stake_pct": 5.0,
+      "confidence": 150,
+      "alert_type": "value",
+      "alerted_at": "2026-08-19T20:40:16.868918+00:00"
+    },
+    {
+      "state_key": "f96244dee5b814372c4e60f335ed9e46:h2h",
+      "event_id": "f96244dee5b814372c4e60f335ed9e46",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League Qualification",
+      "home_team": "Hapoel Be'er Sheva",
+      "away_team": "Sabah FK",
+      "commence_time": "2026-08-19T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sabah FK",
+      "odds_at_alert": 36.0,
+      "stake_pct": 5.0,
+      "confidence": 730,
+      "alert_type": "value",
+      "alerted_at": "2026-08-19T20:40:17.213543+00:00"
+    },
+    {
+      "state_key": "f96244dee5b814372c4e60f335ed9e46:h2h",
+      "event_id": "f96244dee5b814372c4e60f335ed9e46",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League Qualification",
+      "home_team": "Hapoel Be'er Sheva",
+      "away_team": "Sabah FK",
+      "commence_time": "2026-08-19T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.0,
+      "stake_pct": 5.0,
+      "confidence": 199,
+      "alert_type": "value",
+      "alerted_at": "2026-08-19T20:40:17.538204+00:00"
     }
   ],
   "results_history": [],
@@ -11890,12 +12086,33 @@
     "12b3b43081604f16c5b2cb33c79db9ce:h2h|Unibet (FR)|Draw",
     "12b3b43081604f16c5b2cb33c79db9ce:h2h|Unibet (FR)|LASK",
     "857e387be2e9f73e825ad02a2ec74cc3:h2h|1xBet|Málaga",
+    "857e387be2e9f73e825ad02a2ec74cc3:h2h|Betclic (FR)|Draw",
+    "857e387be2e9f73e825ad02a2ec74cc3:h2h|Betclic (FR)|Málaga",
+    "857e387be2e9f73e825ad02a2ec74cc3:h2h|Betfair|Draw",
     "857e387be2e9f73e825ad02a2ec74cc3:h2h|Betfair|Málaga",
     "857e387be2e9f73e825ad02a2ec74cc3:h2h|Betsson|Málaga",
+    "857e387be2e9f73e825ad02a2ec74cc3:h2h|Coolbet|Málaga",
+    "857e387be2e9f73e825ad02a2ec74cc3:h2h|LeoVegas (SE)|Draw",
+    "857e387be2e9f73e825ad02a2ec74cc3:h2h|LeoVegas (SE)|Málaga",
     "857e387be2e9f73e825ad02a2ec74cc3:h2h|Marathon Bet|Málaga",
     "857e387be2e9f73e825ad02a2ec74cc3:h2h|Matchbook|Málaga",
+    "857e387be2e9f73e825ad02a2ec74cc3:h2h|Nordic Bet|Málaga",
+    "857e387be2e9f73e825ad02a2ec74cc3:h2h|PMU (FR)|Draw",
+    "857e387be2e9f73e825ad02a2ec74cc3:h2h|PMU (FR)|Málaga",
+    "857e387be2e9f73e825ad02a2ec74cc3:h2h|Tipico|Draw",
+    "857e387be2e9f73e825ad02a2ec74cc3:h2h|Tipico|Málaga",
     "857e387be2e9f73e825ad02a2ec74cc3:h2h|Unibet (NL)|Draw",
     "857e387be2e9f73e825ad02a2ec74cc3:h2h|Unibet (NL)|Málaga",
-    "857e387be2e9f73e825ad02a2ec74cc3:h2h|Unibet (SE)|Málaga"
+    "857e387be2e9f73e825ad02a2ec74cc3:h2h|Unibet (SE)|Draw",
+    "857e387be2e9f73e825ad02a2ec74cc3:h2h|Unibet (SE)|Málaga",
+    "857e387be2e9f73e825ad02a2ec74cc3:h2h|Winamax (DE)|Málaga",
+    "857e387be2e9f73e825ad02a2ec74cc3:h2h|Winamax (FR)|Draw",
+    "857e387be2e9f73e825ad02a2ec74cc3:h2h|Winamax (FR)|Málaga",
+    "f96244dee5b814372c4e60f335ed9e46:h2h|Betfair|Draw",
+    "f96244dee5b814372c4e60f335ed9e46:h2h|Betfair|Sabah FK",
+    "f96244dee5b814372c4e60f335ed9e46:h2h|Coolbet|Draw",
+    "f96244dee5b814372c4e60f335ed9e46:h2h|Coolbet|Sabah FK",
+    "f96244dee5b814372c4e60f335ed9e46:h2h|Tipico|Draw",
+    "f96244dee5b814372c4e60f335ed9e46:h2h|Tipico|Sabah FK"
   ]
 }
