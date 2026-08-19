@@ -1,141 +1,266 @@
 {
   "snapshots": {
-    "857e387be2e9f73e825ad02a2ec74cc3:h2h": {
+    "815a95ec7832d9f011e752eb08a37b52:h2h": {
       "Betfair": {
-        "Atlético Madrid": 1.15,
-        "Málaga": 75.0,
-        "Draw": 8.2
+        "Bragantino-SP": 3.1,
+        "Clube Atlético Mineiro": 3.05,
+        "Draw": 2.84
+      },
+      "888sport": {
+        "Bragantino-SP": 2.75,
+        "Clube Atlético Mineiro": 2.8,
+        "Draw": 2.62
+      },
+      "Nordic Bet": {
+        "Bragantino-SP": 2.65,
+        "Clube Atlético Mineiro": 2.78,
+        "Draw": 2.78
+      },
+      "Pinnacle": {
+        "Bragantino-SP": 2.9,
+        "Clube Atlético Mineiro": 2.84,
+        "Draw": 2.71
+      },
+      "LeoVegas (SE)": {
+        "Bragantino-SP": 3.0,
+        "Clube Atlético Mineiro": 2.5,
+        "Draw": 2.4
+      },
+      "Unibet (NL)": {
+        "Bragantino-SP": 3.2,
+        "Clube Atlético Mineiro": 2.65,
+        "Draw": 2.55
+      },
+      "PMU (FR)": {
+        "Bragantino-SP": 2.95,
+        "Clube Atlético Mineiro": 2.45,
+        "Draw": 2.38
+      },
+      "Coolbet": {
+        "Bragantino-SP": 2.75,
+        "Clube Atlético Mineiro": 2.8,
+        "Draw": 2.88
+      }
+    },
+    "9ef8246be1f962d5ec31a7321c3494fb:h2h": {
+      "Winamax (DE)": {
+        "Cerro Porteño": 4.0,
+        "Palmeiras-SP": 2.3,
+        "Draw": 2.35
       },
       "Winamax (FR)": {
-        "Atlético Madrid": 1.08,
-        "Málaga": 60.0,
-        "Draw": 9.0
-      },
-      "Winamax (DE)": {
-        "Atlético Madrid": 1.88,
-        "Málaga": 11.0,
+        "Cerro Porteño": 3.95,
+        "Palmeiras-SP": 2.25,
         "Draw": 2.2
       },
-      "Betclic (FR)": {
-        "Atlético Madrid": 1.04,
-        "Málaga": 50.0,
-        "Draw": 9.25
-      },
       "Coolbet": {
-        "Atlético Madrid": 1.91,
-        "Málaga": 13.0,
-        "Draw": 2.25
-      },
-      "Pinnacle": {
-        "Atlético Madrid": 1.92,
-        "Málaga": 7.82,
+        "Cerro Porteño": 4.33,
+        "Palmeiras-SP": 2.5,
         "Draw": 2.5
       },
-      "LeoVegas (SE)": {
-        "Atlético Madrid": 1.03,
-        "Málaga": 41.0,
-        "Draw": 11.0
+      "Betclic (FR)": {
+        "Cerro Porteño": 4.55,
+        "Palmeiras-SP": 2.18,
+        "Draw": 2.48
       },
-      "Unibet (SE)": {
-        "Atlético Madrid": 1.08,
-        "Málaga": 56.0,
-        "Draw": 9.5
+      "Suprabets": {
+        "Cerro Porteño": 4.85,
+        "Palmeiras-SP": 2.2,
+        "Draw": 2.37
       },
-      "Unibet (NL)": {
-        "Atlético Madrid": 1.05,
-        "Málaga": 81.0,
-        "Draw": 12.5
+      "Betfair": {
+        "Cerro Porteño": 5.0,
+        "Palmeiras-SP": 2.54,
+        "Draw": 2.42
+      },
+      "888sport": {
+        "Cerro Porteño": 4.2,
+        "Palmeiras-SP": 2.3,
+        "Draw": 2.3
+      },
+      "Pinnacle": {
+        "Cerro Porteño": 4.69,
+        "Palmeiras-SP": 2.28,
+        "Draw": 2.42
+      },
+      "Tipico": {
+        "Cerro Porteño": 4.5,
+        "Palmeiras-SP": 2.2,
+        "Draw": 2.4
       },
       "PMU (FR)": {
-        "Atlético Madrid": 1.01,
-        "Málaga": 41.0,
-        "Draw": 11.0
+        "Cerro Porteño": 4.1,
+        "Palmeiras-SP": 2.12,
+        "Draw": 2.23
       },
-      "Nordic Bet": {
-        "Atlético Madrid": 1.85,
-        "Málaga": 9.1,
+      "Unibet (NL)": {
+        "Cerro Porteño": 4.4,
+        "Palmeiras-SP": 2.28,
+        "Draw": 2.4
+      },
+      "LeoVegas (SE)": {
+        "Cerro Porteño": 4.1,
+        "Palmeiras-SP": 2.16,
         "Draw": 2.25
       },
       "Betsson": {
-        "Atlético Madrid": 1.88,
-        "Málaga": 10.5,
-        "Draw": 2.2
-      },
-      "Matchbook": {
-        "Atlético Madrid": 1.92,
-        "Málaga": 12.0,
-        "Draw": 2.32
-      },
-      "Tipico": {
-        "Atlético Madrid": 1.05,
-        "Málaga": 40.0,
-        "Draw": 9.0
-      }
-    },
-    "0d9b3bdd29889331571d2b6452cc85a1:h2h": {
-      "888sport": {
-        "Bodø/Glimt": 1.0,
-        "NEC Nijmegen": 151.0,
-        "Draw": 67.0
-      },
-      "Betfair": {
-        "Bodø/Glimt": 1.01,
-        "NEC Nijmegen": 150.0,
-        "Draw": 55.0
-      }
-    },
-    "12b3b43081604f16c5b2cb33c79db9ce:h2h": {
-      "Betsson": {
-        "Celtic": 1.0,
-        "LASK": 36.0,
-        "Draw": 21.0
+        "Cerro Porteño": 4.1,
+        "Palmeiras-SP": 2.3,
+        "Draw": 2.4
       },
       "Nordic Bet": {
-        "Celtic": 1.0,
-        "LASK": 34.0,
-        "Draw": 23.0
+        "Cerro Porteño": 4.1,
+        "Palmeiras-SP": 2.3,
+        "Draw": 2.4
       }
     },
-    "f96244dee5b814372c4e60f335ed9e46:h2h": {
+    "236c7a4c2b419b7894b9ce6b37eb03e8:h2h": {
       "Coolbet": {
-        "Hapoel Be'er Sheva": 1.16,
-        "Sabah FK": 56.0,
-        "Draw": 6.0
+        "Coquimbo Unido": 2.38,
+        "Platense": 4.5,
+        "Draw": 2.5
       },
-      "Tipico": {
-        "Hapoel Be'er Sheva": 1.15,
-        "Sabah FK": 50.0,
-        "Draw": 5.0
+      "Winamax (DE)": {
+        "Coquimbo Unido": 2.2,
+        "Platense": 4.3,
+        "Draw": 2.35
       },
-      "LeoVegas (SE)": {
-        "Hapoel Be'er Sheva": 3.35,
-        "Sabah FK": 3.65,
-        "Draw": 1.66
+      "Winamax (FR)": {
+        "Coquimbo Unido": 2.15,
+        "Platense": 4.1,
+        "Draw": 2.25
       },
-      "PMU (FR)": {
-        "Hapoel Be'er Sheva": 3.55,
-        "Sabah FK": 3.85,
-        "Draw": 1.78
-      },
-      "Unibet (SE)": {
-        "Hapoel Be'er Sheva": 3.55,
-        "Sabah FK": 3.85,
-        "Draw": 1.78
-      },
-      "Unibet (NL)": {
-        "Hapoel Be'er Sheva": 3.55,
-        "Sabah FK": 3.85,
-        "Draw": 1.78
-      },
-      "Pinnacle": {
-        "Hapoel Be'er Sheva": 3.47,
-        "Sabah FK": 4.07,
-        "Draw": 1.88
+      "Betclic (FR)": {
+        "Coquimbo Unido": 2.33,
+        "Platense": 4.15,
+        "Draw": 2.45
       },
       "Betfair": {
-        "Hapoel Be'er Sheva": 1.23,
-        "Sabah FK": 36.0,
-        "Draw": 6.0
+        "Coquimbo Unido": 2.52,
+        "Platense": 4.8,
+        "Draw": 2.52
+      },
+      "888sport": {
+        "Coquimbo Unido": 2.3,
+        "Platense": 4.2,
+        "Draw": 2.3
+      },
+      "Pinnacle": {
+        "Coquimbo Unido": 2.37,
+        "Platense": 4.3,
+        "Draw": 2.42
+      },
+      "Tipico": {
+        "Coquimbo Unido": 2.3,
+        "Platense": 4.5,
+        "Draw": 2.3
+      },
+      "PMU (FR)": {
+        "Coquimbo Unido": 2.18,
+        "Platense": 3.75,
+        "Draw": 2.25
+      },
+      "LeoVegas (SE)": {
+        "Coquimbo Unido": 2.2,
+        "Platense": 3.85,
+        "Draw": 2.28
+      },
+      "Unibet (NL)": {
+        "Coquimbo Unido": 2.35,
+        "Platense": 4.0,
+        "Draw": 2.43
+      },
+      "Betsson": {
+        "Coquimbo Unido": 2.25,
+        "Platense": 4.4,
+        "Draw": 2.35
+      },
+      "Nordic Bet": {
+        "Coquimbo Unido": 2.25,
+        "Platense": 4.4,
+        "Draw": 2.35
+      }
+    },
+    "ac18a81c4da7f0213bf4d744b59f7e16:h2h": {
+      "Unibet (SE)": {
+        "Avai": 2.33,
+        "Sport Recife": 3.05,
+        "Draw": 3.1
+      },
+      "Unibet (NL)": {
+        "Avai": 2.23,
+        "Sport Recife": 2.85,
+        "Draw": 2.95
+      },
+      "LeoVegas (SE)": {
+        "Avai": 2.25,
+        "Sport Recife": 2.9,
+        "Draw": 2.95
+      },
+      "Betsson": {
+        "Avai": 2.28,
+        "Sport Recife": 3.15,
+        "Draw": 3.0
+      },
+      "Nordic Bet": {
+        "Avai": 2.28,
+        "Sport Recife": 3.15,
+        "Draw": 3.0
+      },
+      "Coolbet": {
+        "Avai": 2.35,
+        "Sport Recife": 3.1,
+        "Draw": 3.1
+      },
+      "BetOnline.ag": {
+        "Avai": 2.42,
+        "Sport Recife": 3.25,
+        "Draw": 2.92
+      },
+      "1xBet": {
+        "Avai": 2.42,
+        "Sport Recife": 3.02,
+        "Draw": 3.08
+      },
+      "Marathon Bet": {
+        "Avai": 2.38,
+        "Sport Recife": 3.12,
+        "Draw": 2.95
+      },
+      "Betfair": {
+        "Avai": 2.52,
+        "Sport Recife": 3.2,
+        "Draw": 3.2
+      },
+      "Codere (IT)": {
+        "Avai": 2.27,
+        "Sport Recife": 3.1,
+        "Draw": 3.05
+      },
+      "888sport": {
+        "Avai": 2.4,
+        "Sport Recife": 2.9,
+        "Draw": 2.88
+      },
+      "William Hill": {
+        "Avai": 2.45,
+        "Sport Recife": 2.9,
+        "Draw": 2.9
+      },
+      "Pinnacle": {
+        "Avai": 2.49,
+        "Sport Recife": 3.3,
+        "Draw": 3.0
+      },
+      "Tipico": {
+        "Avai": 2.5,
+        "Sport Recife": 2.9,
+        "Draw": 2.9
+      },
+      "Matchbook": {
+        "Avai": 2.54,
+        "Sport Recife": 3.3,
+        "Draw": 3.2
       }
     }
   },
@@ -9247,40 +9372,5 @@
     }
   ],
   "results_history": [],
-  "value_alerted": [
-    "12b3b43081604f16c5b2cb33c79db9ce:h2h|Betfair|LASK",
-    "12b3b43081604f16c5b2cb33c79db9ce:h2h|Coolbet|LASK",
-    "12b3b43081604f16c5b2cb33c79db9ce:h2h|PMU (FR)|LASK",
-    "12b3b43081604f16c5b2cb33c79db9ce:h2h|Unibet (FR)|Draw",
-    "12b3b43081604f16c5b2cb33c79db9ce:h2h|Unibet (FR)|LASK",
-    "857e387be2e9f73e825ad02a2ec74cc3:h2h|1xBet|Málaga",
-    "857e387be2e9f73e825ad02a2ec74cc3:h2h|Betclic (FR)|Draw",
-    "857e387be2e9f73e825ad02a2ec74cc3:h2h|Betclic (FR)|Málaga",
-    "857e387be2e9f73e825ad02a2ec74cc3:h2h|Betfair|Draw",
-    "857e387be2e9f73e825ad02a2ec74cc3:h2h|Betfair|Málaga",
-    "857e387be2e9f73e825ad02a2ec74cc3:h2h|Betsson|Málaga",
-    "857e387be2e9f73e825ad02a2ec74cc3:h2h|Coolbet|Málaga",
-    "857e387be2e9f73e825ad02a2ec74cc3:h2h|LeoVegas (SE)|Draw",
-    "857e387be2e9f73e825ad02a2ec74cc3:h2h|LeoVegas (SE)|Málaga",
-    "857e387be2e9f73e825ad02a2ec74cc3:h2h|Marathon Bet|Málaga",
-    "857e387be2e9f73e825ad02a2ec74cc3:h2h|Matchbook|Málaga",
-    "857e387be2e9f73e825ad02a2ec74cc3:h2h|Nordic Bet|Málaga",
-    "857e387be2e9f73e825ad02a2ec74cc3:h2h|PMU (FR)|Draw",
-    "857e387be2e9f73e825ad02a2ec74cc3:h2h|PMU (FR)|Málaga",
-    "857e387be2e9f73e825ad02a2ec74cc3:h2h|Tipico|Draw",
-    "857e387be2e9f73e825ad02a2ec74cc3:h2h|Tipico|Málaga",
-    "857e387be2e9f73e825ad02a2ec74cc3:h2h|Unibet (NL)|Draw",
-    "857e387be2e9f73e825ad02a2ec74cc3:h2h|Unibet (NL)|Málaga",
-    "857e387be2e9f73e825ad02a2ec74cc3:h2h|Unibet (SE)|Draw",
-    "857e387be2e9f73e825ad02a2ec74cc3:h2h|Unibet (SE)|Málaga",
-    "857e387be2e9f73e825ad02a2ec74cc3:h2h|Winamax (DE)|Málaga",
-    "857e387be2e9f73e825ad02a2ec74cc3:h2h|Winamax (FR)|Draw",
-    "857e387be2e9f73e825ad02a2ec74cc3:h2h|Winamax (FR)|Málaga",
-    "f96244dee5b814372c4e60f335ed9e46:h2h|Betfair|Draw",
-    "f96244dee5b814372c4e60f335ed9e46:h2h|Betfair|Sabah FK",
-    "f96244dee5b814372c4e60f335ed9e46:h2h|Coolbet|Draw",
-    "f96244dee5b814372c4e60f335ed9e46:h2h|Coolbet|Sabah FK",
-    "f96244dee5b814372c4e60f335ed9e46:h2h|Tipico|Draw",
-    "f96244dee5b814372c4e60f335ed9e46:h2h|Tipico|Sabah FK"
-  ]
+  "value_alerted": []
 }
