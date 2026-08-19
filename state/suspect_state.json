@@ -1,221 +1,331 @@
 {
   "snapshots": {
-    "87186a5e3961246c246912127754dcf3:h2h": {
-      "Unibet (NL)": {
-        "Ceará": 12.0,
-        "Nautico PE": 1.24,
-        "Draw": 4.2
+    "49ea405c2367b3129d93f3eb9d8f3e0d:h2h": {
+      "Coolbet": {
+        "Dalian Yingbo": 6.5,
+        "Shanghai SIPG FC": 1.42,
+        "Draw": 5.0
       },
-      "LeoVegas (SE)": {
-        "Ceará": 12.0,
-        "Nautico PE": 1.23,
-        "Draw": 4.1
+      "1xBet": {
+        "Dalian Yingbo": 6.86,
+        "Shanghai SIPG FC": 1.44,
+        "Draw": 4.8
       },
-      "Unibet (SE)": {
-        "Ceará": 13.0,
-        "Nautico PE": 1.29,
-        "Draw": 4.4
+      "BetOnline.ag": {
+        "Dalian Yingbo": 6.6,
+        "Shanghai SIPG FC": 1.42,
+        "Draw": 4.8
+      },
+      "Codere (IT)": {
+        "Dalian Yingbo": 6.0,
+        "Shanghai SIPG FC": 1.4,
+        "Draw": 4.8
+      },
+      "Winamax (DE)": {
+        "Dalian Yingbo": 5.4,
+        "Shanghai SIPG FC": 1.43,
+        "Draw": 4.7
       },
       "Betsson": {
-        "Ceará": 14.0,
-        "Nautico PE": 1.26,
-        "Draw": 4.4
+        "Dalian Yingbo": 5.7,
+        "Shanghai SIPG FC": 1.41,
+        "Draw": 4.7
+      },
+      "Winamax (FR)": {
+        "Dalian Yingbo": 5.3,
+        "Shanghai SIPG FC": 1.41,
+        "Draw": 4.6
       },
       "Nordic Bet": {
-        "Ceará": 14.0,
-        "Nautico PE": 1.26,
-        "Draw": 4.4
+        "Dalian Yingbo": 5.7,
+        "Shanghai SIPG FC": 1.41,
+        "Draw": 4.7
       },
-      "Coolbet": {
-        "Ceará": 13.0,
-        "Nautico PE": 1.25,
-        "Draw": 4.5
+      "Unibet (FR)": {
+        "Dalian Yingbo": 5.7,
+        "Shanghai SIPG FC": 1.37,
+        "Draw": 4.6
       },
-      "Betfair": {
-        "Ceará": 16.0,
-        "Nautico PE": 1.33,
-        "Draw": 4.9
-      },
-      "888sport": {
-        "Ceará": 11.0,
-        "Nautico PE": 1.29,
-        "Draw": 4.5
+      "GTbets": {
+        "Dalian Yingbo": 6.22,
+        "Shanghai SIPG FC": 1.47,
+        "Draw": 4.84
       },
       "Pinnacle": {
-        "Ceará": 14.38,
-        "Nautico PE": 1.29,
-        "Draw": 4.61
+        "Dalian Yingbo": 6.95,
+        "Shanghai SIPG FC": 1.44,
+        "Draw": 4.88
+      },
+      "Betfair": {
+        "Dalian Yingbo": 7.0,
+        "Shanghai SIPG FC": 1.47,
+        "Draw": 5.2
+      },
+      "Marathon Bet": {
+        "Dalian Yingbo": 6.65,
+        "Shanghai SIPG FC": 1.4,
+        "Draw": 4.65
+      },
+      "Tipico": {
+        "Dalian Yingbo": 6.5,
+        "Shanghai SIPG FC": 1.4,
+        "Draw": 4.6
+      },
+      "888sport": {
+        "Dalian Yingbo": 6.0,
+        "Shanghai SIPG FC": 1.44,
+        "Draw": 4.4
+      },
+      "William Hill": {
+        "Dalian Yingbo": 6.0,
+        "Shanghai SIPG FC": 1.44,
+        "Draw": 4.4
       },
       "Matchbook": {
-        "Ceará": 16.0,
-        "Nautico PE": 1.33,
-        "Draw": 5.0
-      }
-    },
-    "28c9468625d7a33c5eea983f96c795f4:h2h": {
-      "Coolbet": {
-        "Club Bolívar": 22.0,
-        "Sao Paulo": 1.18,
-        "Draw": 5.5
-      },
-      "888sport": {
-        "Club Bolívar": 23.0,
-        "Sao Paulo": 1.17,
-        "Draw": 5.5
-      },
-      "Betfair": {
-        "Club Bolívar": 32.0,
-        "Sao Paulo": 1.22,
-        "Draw": 6.2
-      },
-      "Pinnacle": {
-        "Club Bolívar": 21.45,
-        "Sao Paulo": 1.18,
-        "Draw": 6.05
-      },
-      "LeoVegas (SE)": {
-        "Club Bolívar": 25.0,
-        "Sao Paulo": 1.09,
-        "Draw": 6.0
+        "Dalian Yingbo": 7.0,
+        "Shanghai SIPG FC": 1.47,
+        "Draw": 5.3
       },
       "Unibet (NL)": {
-        "Club Bolívar": 25.0,
-        "Sao Paulo": 1.14,
-        "Draw": 6.4
+        "Dalian Yingbo": 5.75,
+        "Shanghai SIPG FC": 1.5,
+        "Draw": 4.5
+      },
+      "Unibet (SE)": {
+        "Dalian Yingbo": 5.75,
+        "Shanghai SIPG FC": 1.5,
+        "Draw": 4.5
+      },
+      "LeoVegas (SE)": {
+        "Dalian Yingbo": 5.25,
+        "Shanghai SIPG FC": 1.43,
+        "Draw": 4.2
+      }
+    },
+    "857e387be2e9f73e825ad02a2ec74cc3:h2h": {
+      "Betfair": {
+        "Atlético Madrid": 1.38,
+        "Málaga": 11.0,
+        "Draw": 5.3
+      },
+      "Winamax (FR)": {
+        "Atlético Madrid": 1.29,
+        "Málaga": 9.0,
+        "Draw": 5.3
+      },
+      "Winamax (DE)": {
+        "Atlético Madrid": 1.3,
+        "Málaga": 9.0,
+        "Draw": 5.4
+      },
+      "Betclic (FR)": {
+        "Atlético Madrid": 1.3,
+        "Málaga": 9.5,
+        "Draw": 5.4
+      },
+      "Coolbet": {
+        "Atlético Madrid": 1.34,
+        "Málaga": 10.0,
+        "Draw": 5.45
+      },
+      "1xBet": {
+        "Atlético Madrid": 1.35,
+        "Málaga": 10.9,
+        "Draw": 5.43
+      },
+      "Marathon Bet": {
+        "Atlético Madrid": 1.33,
+        "Málaga": 10.75,
+        "Draw": 5.35
+      },
+      "Pinnacle": {
+        "Atlético Madrid": 1.33,
+        "Málaga": 10.09,
+        "Draw": 5.31
+      },
+      "William Hill": {
+        "Atlético Madrid": 1.3,
+        "Málaga": 9.5,
+        "Draw": 4.8
+      },
+      "BetOnline.ag": {
+        "Atlético Madrid": 1.33,
+        "Málaga": 10.48,
+        "Draw": 5.3
+      },
+      "LeoVegas (SE)": {
+        "Atlético Madrid": 1.3,
+        "Málaga": 9.0,
+        "Draw": 4.8
+      },
+      "Unibet (SE)": {
+        "Atlético Madrid": 1.34,
+        "Málaga": 11.0,
+        "Draw": 5.3
+      },
+      "Unibet (NL)": {
+        "Atlético Madrid": 1.33,
+        "Málaga": 11.0,
+        "Draw": 5.3
       },
       "PMU (FR)": {
-        "Club Bolívar": 23.0,
-        "Sao Paulo": 1.06,
-        "Draw": 5.8
+        "Atlético Madrid": 1.3,
+        "Málaga": 9.5,
+        "Draw": 5.0
       },
       "Nordic Bet": {
-        "Club Bolívar": 21.0,
-        "Sao Paulo": 1.16,
-        "Draw": 5.35
-      }
-    },
-    "5d066e1a5292f4f65a3879ab41a7d483:h2h": {
-      "LeoVegas (SE)": {
-        "Deportes Tolima": 10.0,
-        "Independiente del Valle": 1.3,
-        "Draw": 3.6
+        "Atlético Madrid": 1.33,
+        "Málaga": 10.5,
+        "Draw": 4.55
       },
-      "Unibet (NL)": {
-        "Deportes Tolima": 11.0,
-        "Independiente del Valle": 1.38,
-        "Draw": 3.8
+      "Betsson": {
+        "Atlético Madrid": 1.33,
+        "Málaga": 10.5,
+        "Draw": 4.55
       },
-      "888sport": {
-        "Deportes Tolima": 9.0,
-        "Independiente del Valle": 1.4,
-        "Draw": 3.5
-      },
-      "Betclic (FR)": {
-        "Deportes Tolima": 10.5,
-        "Independiente del Valle": 1.39,
-        "Draw": 3.75
+      "Matchbook": {
+        "Atlético Madrid": 1.37,
+        "Málaga": 11.0,
+        "Draw": 5.3
       },
       "Tipico": {
-        "Deportes Tolima": 8.5,
-        "Independiente del Valle": 1.4,
-        "Draw": 3.8
+        "Atlético Madrid": 1.3,
+        "Málaga": 10.0,
+        "Draw": 5.2
       },
-      "Suprabets": {
-        "Deportes Tolima": 9.5,
-        "Independiente del Valle": 1.42,
+      "Codere (IT)": {
+        "Atlético Madrid": 1.34,
+        "Málaga": 9.2,
+        "Draw": 5.2
+      },
+      "Everygame": {
+        "Atlético Madrid": 1.28,
+        "Málaga": 9.0,
+        "Draw": 4.75
+      }
+    },
+    "0d9b3bdd29889331571d2b6452cc85a1:h2h": {
+      "Tipico": {
+        "Bodø/Glimt": 2.45,
+        "NEC Nijmegen": 2.55,
+        "Draw": 3.7
+      },
+      "Marathon Bet": {
+        "Bodø/Glimt": 2.45,
+        "NEC Nijmegen": 2.51,
+        "Draw": 3.76
+      },
+      "888sport": {
+        "Bodø/Glimt": 2.45,
+        "NEC Nijmegen": 2.5,
+        "Draw": 3.5
+      },
+      "LeoVegas (SE)": {
+        "Bodø/Glimt": 2.43,
+        "NEC Nijmegen": 2.48,
+        "Draw": 3.5
+      },
+      "Unibet (SE)": {
+        "Bodø/Glimt": 2.48,
+        "NEC Nijmegen": 2.55,
         "Draw": 3.55
       },
-      "Winamax (DE)": {
-        "Deportes Tolima": 9.0,
-        "Independiente del Valle": 1.42,
-        "Draw": 3.5
-      },
-      "Winamax (FR)": {
-        "Deportes Tolima": 8.5,
-        "Independiente del Valle": 1.41,
-        "Draw": 3.4
+      "Unibet (NL)": {
+        "Bodø/Glimt": 2.48,
+        "NEC Nijmegen": 2.55,
+        "Draw": 3.55
       },
       "Pinnacle": {
-        "Deportes Tolima": 8.96,
-        "Independiente del Valle": 1.47,
-        "Draw": 3.64
+        "Bodø/Glimt": 2.52,
+        "NEC Nijmegen": 2.56,
+        "Draw": 3.88
       },
-      "Coolbet": {
-        "Deportes Tolima": 12.5,
-        "Independiente del Valle": 1.4,
+      "Betfair": {
+        "Bodø/Glimt": 2.62,
+        "NEC Nijmegen": 2.64,
         "Draw": 4.0
       },
-      "Betfair": {
-        "Deportes Tolima": 12.0,
-        "Independiente del Valle": 1.49,
-        "Draw": 3.9
-      },
-      "Nordic Bet": {
-        "Deportes Tolima": 11.5,
-        "Independiente del Valle": 1.36,
-        "Draw": 3.65
-      },
-      "Betsson": {
-        "Deportes Tolima": 10.5,
-        "Independiente del Valle": 1.38,
-        "Draw": 3.65
+      "BetOnline.ag": {
+        "Bodø/Glimt": 2.5,
+        "NEC Nijmegen": 2.57,
+        "Draw": 3.83
       }
     },
-    "3775491be22c3be12c4c5e4e02915d57:h2h": {
-      "Winamax (DE)": {
-        "Estudiantes La Plata": 1.04,
-        "Universidad Católica (CHI)": 40.0,
-        "Draw": 11.5
-      },
-      "Winamax (FR)": {
-        "Estudiantes La Plata": 1.07,
-        "Universidad Católica (CHI)": 42.0,
-        "Draw": 11.0
-      },
-      "Betclic (FR)": {
-        "Estudiantes La Plata": 1.05,
-        "Universidad Católica (CHI)": 35.0,
-        "Draw": 10.25
-      },
-      "Coolbet": {
-        "Estudiantes La Plata": 1.06,
-        "Universidad Católica (CHI)": 50.0,
-        "Draw": 13.0
-      },
-      "888sport": {
-        "Estudiantes La Plata": 1.05,
-        "Universidad Católica (CHI)": 46.0,
-        "Draw": 11.0
-      },
-      "Betfair": {
-        "Estudiantes La Plata": 1.08,
-        "Universidad Católica (CHI)": 50.0,
-        "Draw": 15.0
-      },
-      "Pinnacle": {
-        "Estudiantes La Plata": 1.44,
-        "Universidad Católica (CHI)": 10.98,
-        "Draw": 3.61
-      },
-      "Unibet (NL)": {
-        "Estudiantes La Plata": 1.03,
-        "Universidad Católica (CHI)": 56.0,
-        "Draw": 14.0
+    "12b3b43081604f16c5b2cb33c79db9ce:h2h": {
+      "Unibet (FR)": {
+        "Celtic": 1.56,
+        "LASK": 5.3,
+        "Draw": 4.3
       },
       "Tipico": {
-        "Estudiantes La Plata": 1.06,
-        "Universidad Católica (CHI)": 45.0,
-        "Draw": 7.5
+        "Celtic": 1.57,
+        "LASK": 5.3,
+        "Draw": 4.1
+      },
+      "Coolbet": {
+        "Celtic": 1.65,
+        "LASK": 5.3,
+        "Draw": 4.05
+      },
+      "1xBet": {
+        "Celtic": 1.66,
+        "LASK": 5.43,
+        "Draw": 4.17
+      },
+      "Marathon Bet": {
+        "Celtic": 1.65,
+        "LASK": 5.4,
+        "Draw": 4.15
       },
       "Betsson": {
-        "Estudiantes La Plata": 1.05,
-        "Universidad Católica (CHI)": 36.0,
-        "Draw": 11.0
+        "Celtic": 1.62,
+        "LASK": 4.8,
+        "Draw": 3.75
       },
       "Nordic Bet": {
-        "Estudiantes La Plata": 1.04,
-        "Universidad Católica (CHI)": 41.0,
-        "Draw": 11.0
+        "Celtic": 1.62,
+        "LASK": 4.8,
+        "Draw": 3.75
+      },
+      "888sport": {
+        "Celtic": 1.61,
+        "LASK": 4.8,
+        "Draw": 3.8
+      },
+      "LeoVegas (SE)": {
+        "Celtic": 1.55,
+        "LASK": 5.25,
+        "Draw": 3.7
+      },
+      "PMU (FR)": {
+        "Celtic": 1.57,
+        "LASK": 5.5,
+        "Draw": 3.85
+      },
+      "Unibet (SE)": {
+        "Celtic": 1.56,
+        "LASK": 5.4,
+        "Draw": 3.8
+      },
+      "Unibet (NL)": {
+        "Celtic": 1.56,
+        "LASK": 5.4,
+        "Draw": 3.8
+      },
+      "Pinnacle": {
+        "Celtic": 1.64,
+        "LASK": 5.21,
+        "Draw": 4.03
+      },
+      "Betfair": {
+        "Celtic": 1.67,
+        "LASK": 6.0,
+        "Draw": 4.1
+      },
+      "BetOnline.ag": {
+        "Celtic": 1.62,
+        "LASK": 5.25,
+        "Draw": 4.08
       }
     }
   },
@@ -11420,38 +11530,26 @@
       "confidence": 187,
       "alert_type": "value",
       "alerted_at": "2026-08-19T01:49:43.167939+00:00"
+    },
+    {
+      "state_key": "12b3b43081604f16c5b2cb33c79db9ce:h2h",
+      "event_id": "12b3b43081604f16c5b2cb33c79db9ce",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League Qualification",
+      "home_team": "Celtic",
+      "away_team": "LASK",
+      "commence_time": "2026-08-19T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "LASK",
+      "odds_at_alert": 6.0,
+      "stake_pct": 2.0,
+      "confidence": 10,
+      "alert_type": "value",
+      "alerted_at": "2026-08-19T03:07:53.006655+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "28c9468625d7a33c5eea983f96c795f4:h2h|Betfair|Club Bolívar",
-    "28c9468625d7a33c5eea983f96c795f4:h2h|LeoVegas (SE)|Club Bolívar",
-    "28c9468625d7a33c5eea983f96c795f4:h2h|Unibet (NL)|Club Bolívar",
-    "3775491be22c3be12c4c5e4e02915d57:h2h|888sport|Draw",
-    "3775491be22c3be12c4c5e4e02915d57:h2h|888sport|Universidad Católica (CHI)",
-    "3775491be22c3be12c4c5e4e02915d57:h2h|Betclic (FR)|Draw",
-    "3775491be22c3be12c4c5e4e02915d57:h2h|Betclic (FR)|Universidad Católica (CHI)",
-    "3775491be22c3be12c4c5e4e02915d57:h2h|Betfair|Draw",
-    "3775491be22c3be12c4c5e4e02915d57:h2h|Betfair|Universidad Católica (CHI)",
-    "3775491be22c3be12c4c5e4e02915d57:h2h|Betsson|Draw",
-    "3775491be22c3be12c4c5e4e02915d57:h2h|Betsson|Universidad Católica (CHI)",
-    "3775491be22c3be12c4c5e4e02915d57:h2h|Coolbet|Draw",
-    "3775491be22c3be12c4c5e4e02915d57:h2h|Coolbet|Universidad Católica (CHI)",
-    "3775491be22c3be12c4c5e4e02915d57:h2h|Nordic Bet|Draw",
-    "3775491be22c3be12c4c5e4e02915d57:h2h|Nordic Bet|Universidad Católica (CHI)",
-    "3775491be22c3be12c4c5e4e02915d57:h2h|Tipico|Draw",
-    "3775491be22c3be12c4c5e4e02915d57:h2h|Tipico|Universidad Católica (CHI)",
-    "3775491be22c3be12c4c5e4e02915d57:h2h|Unibet (NL)|Draw",
-    "3775491be22c3be12c4c5e4e02915d57:h2h|Unibet (NL)|Universidad Católica (CHI)",
-    "3775491be22c3be12c4c5e4e02915d57:h2h|Winamax (DE)|Draw",
-    "3775491be22c3be12c4c5e4e02915d57:h2h|Winamax (DE)|Universidad Católica (CHI)",
-    "3775491be22c3be12c4c5e4e02915d57:h2h|Winamax (FR)|Draw",
-    "3775491be22c3be12c4c5e4e02915d57:h2h|Winamax (FR)|Universidad Católica (CHI)",
-    "5d066e1a5292f4f65a3879ab41a7d483:h2h|Betclic (FR)|Deportes Tolima",
-    "5d066e1a5292f4f65a3879ab41a7d483:h2h|Betfair|Deportes Tolima",
-    "5d066e1a5292f4f65a3879ab41a7d483:h2h|Betsson|Deportes Tolima",
-    "5d066e1a5292f4f65a3879ab41a7d483:h2h|Coolbet|Deportes Tolima",
-    "5d066e1a5292f4f65a3879ab41a7d483:h2h|Nordic Bet|Deportes Tolima",
-    "5d066e1a5292f4f65a3879ab41a7d483:h2h|Unibet (NL)|Deportes Tolima"
+    "12b3b43081604f16c5b2cb33c79db9ce:h2h|Betfair|LASK"
   ]
 }
