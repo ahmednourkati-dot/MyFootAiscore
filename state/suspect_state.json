@@ -1,266 +1,211 @@
 {
   "snapshots": {
-    "815a95ec7832d9f011e752eb08a37b52:h2h": {
+    "14b96e8187af15d1fb36a3dcdcc7a94e:h2h": {
       "Betfair": {
-        "Bragantino-SP": 3.1,
-        "Clube Atlético Mineiro": 3.05,
-        "Draw": 2.84
-      },
-      "888sport": {
-        "Bragantino-SP": 2.75,
-        "Clube Atlético Mineiro": 2.8,
-        "Draw": 2.62
+        "FC Cincinnati": 1.03,
+        "New York City FC": 3.0,
+        "Draw": 32.0
       },
       "Nordic Bet": {
-        "Bragantino-SP": 2.65,
-        "Clube Atlético Mineiro": 2.78,
-        "Draw": 2.78
-      },
-      "Pinnacle": {
-        "Bragantino-SP": 2.9,
-        "Clube Atlético Mineiro": 2.84,
-        "Draw": 2.71
-      },
-      "LeoVegas (SE)": {
-        "Bragantino-SP": 3.0,
-        "Clube Atlético Mineiro": 2.5,
-        "Draw": 2.4
-      },
-      "Unibet (NL)": {
-        "Bragantino-SP": 3.2,
-        "Clube Atlético Mineiro": 2.65,
-        "Draw": 2.55
-      },
-      "PMU (FR)": {
-        "Bragantino-SP": 2.95,
-        "Clube Atlético Mineiro": 2.45,
-        "Draw": 2.38
-      },
-      "Coolbet": {
-        "Bragantino-SP": 2.75,
-        "Clube Atlético Mineiro": 2.8,
-        "Draw": 2.88
-      }
-    },
-    "9ef8246be1f962d5ec31a7321c3494fb:h2h": {
-      "Winamax (DE)": {
-        "Cerro Porteño": 4.0,
-        "Palmeiras-SP": 2.3,
-        "Draw": 2.35
-      },
-      "Winamax (FR)": {
-        "Cerro Porteño": 3.95,
-        "Palmeiras-SP": 2.25,
-        "Draw": 2.2
-      },
-      "Coolbet": {
-        "Cerro Porteño": 4.33,
-        "Palmeiras-SP": 2.5,
-        "Draw": 2.5
-      },
-      "Betclic (FR)": {
-        "Cerro Porteño": 4.55,
-        "Palmeiras-SP": 2.18,
-        "Draw": 2.48
-      },
-      "Suprabets": {
-        "Cerro Porteño": 4.85,
-        "Palmeiras-SP": 2.2,
-        "Draw": 2.37
-      },
-      "Betfair": {
-        "Cerro Porteño": 5.0,
-        "Palmeiras-SP": 2.54,
-        "Draw": 2.42
-      },
-      "888sport": {
-        "Cerro Porteño": 4.2,
-        "Palmeiras-SP": 2.3,
-        "Draw": 2.3
-      },
-      "Pinnacle": {
-        "Cerro Porteño": 4.69,
-        "Palmeiras-SP": 2.28,
-        "Draw": 2.42
-      },
-      "Tipico": {
-        "Cerro Porteño": 4.5,
-        "Palmeiras-SP": 2.2,
-        "Draw": 2.4
-      },
-      "PMU (FR)": {
-        "Cerro Porteño": 4.1,
-        "Palmeiras-SP": 2.12,
-        "Draw": 2.23
-      },
-      "Unibet (NL)": {
-        "Cerro Porteño": 4.4,
-        "Palmeiras-SP": 2.28,
-        "Draw": 2.4
-      },
-      "LeoVegas (SE)": {
-        "Cerro Porteño": 4.1,
-        "Palmeiras-SP": 2.16,
-        "Draw": 2.25
+        "FC Cincinnati": 1.0,
+        "New York City FC": 101.0,
+        "Draw": 15.0
       },
       "Betsson": {
-        "Cerro Porteño": 4.1,
-        "Palmeiras-SP": 2.3,
-        "Draw": 2.4
-      },
-      "Nordic Bet": {
-        "Cerro Porteño": 4.1,
-        "Palmeiras-SP": 2.3,
-        "Draw": 2.4
-      }
-    },
-    "236c7a4c2b419b7894b9ce6b37eb03e8:h2h": {
-      "Coolbet": {
-        "Coquimbo Unido": 2.38,
-        "Platense": 4.5,
-        "Draw": 2.5
-      },
-      "Winamax (DE)": {
-        "Coquimbo Unido": 2.2,
-        "Platense": 4.3,
-        "Draw": 2.35
-      },
-      "Winamax (FR)": {
-        "Coquimbo Unido": 2.15,
-        "Platense": 4.1,
-        "Draw": 2.25
-      },
-      "Betclic (FR)": {
-        "Coquimbo Unido": 2.33,
-        "Platense": 4.15,
-        "Draw": 2.45
-      },
-      "Betfair": {
-        "Coquimbo Unido": 2.52,
-        "Platense": 4.8,
-        "Draw": 2.52
-      },
-      "888sport": {
-        "Coquimbo Unido": 2.3,
-        "Platense": 4.2,
-        "Draw": 2.3
+        "FC Cincinnati": 1.0,
+        "New York City FC": 101.0,
+        "Draw": 15.0
       },
       "Pinnacle": {
-        "Coquimbo Unido": 2.37,
-        "Platense": 4.3,
-        "Draw": 2.42
+        "FC Cincinnati": 6.72,
+        "New York City FC": 8.2,
+        "Draw": 1.26
       },
       "Tipico": {
-        "Coquimbo Unido": 2.3,
-        "Platense": 4.5,
-        "Draw": 2.3
-      },
-      "PMU (FR)": {
-        "Coquimbo Unido": 2.18,
-        "Platense": 3.75,
-        "Draw": 2.25
-      },
-      "LeoVegas (SE)": {
-        "Coquimbo Unido": 2.2,
-        "Platense": 3.85,
-        "Draw": 2.28
-      },
-      "Unibet (NL)": {
-        "Coquimbo Unido": 2.35,
-        "Platense": 4.0,
-        "Draw": 2.43
-      },
-      "Betsson": {
-        "Coquimbo Unido": 2.25,
-        "Platense": 4.4,
-        "Draw": 2.35
-      },
-      "Nordic Bet": {
-        "Coquimbo Unido": 2.25,
-        "Platense": 4.4,
-        "Draw": 2.35
+        "FC Cincinnati": 1.01,
+        "New York City FC": 500.0,
+        "Draw": 13.0
       }
     },
-    "ac18a81c4da7f0213bf4d744b59f7e16:h2h": {
+    "b0008918d077b2578c42dfc8e47054b4:h2h": {
+      "Winamax (DE)": {
+        "Inter Miami CF": 29.0,
+        "Philadelphia Union": 16.0,
+        "Draw": 1.03
+      },
+      "Winamax (FR)": {
+        "Inter Miami CF": 29.0,
+        "Philadelphia Union": 15.0,
+        "Draw": 1.06
+      },
+      "Coolbet": {
+        "Inter Miami CF": 20.0,
+        "Philadelphia Union": 15.0,
+        "Draw": 1.05
+      },
+      "888sport": {
+        "Inter Miami CF": 10.0,
+        "Philadelphia Union": 7.0,
+        "Draw": 1.18
+      },
+      "Betfair": {
+        "Inter Miami CF": 17.5,
+        "Philadelphia Union": 21.0,
+        "Draw": 1.04
+      },
+      "MyBookie.ag": {
+        "Inter Miami CF": 7.25,
+        "Philadelphia Union": 6.25,
+        "Draw": 1.2
+      },
       "Unibet (SE)": {
-        "Avai": 2.33,
-        "Sport Recife": 3.05,
-        "Draw": 3.1
+        "Inter Miami CF": 17.0,
+        "Philadelphia Union": 18.0,
+        "Draw": 1.04
+      },
+      "PMU (FR)": {
+        "Inter Miami CF": 12.0,
+        "Philadelphia Union": 11.5,
+        "Draw": 1.01
       },
       "Unibet (NL)": {
-        "Avai": 2.23,
-        "Sport Recife": 2.85,
-        "Draw": 2.95
+        "Inter Miami CF": 15.0,
+        "Philadelphia Union": 18.0,
+        "Draw": 1.03
       },
       "LeoVegas (SE)": {
-        "Avai": 2.25,
-        "Sport Recife": 2.9,
-        "Draw": 2.95
-      },
-      "Betsson": {
-        "Avai": 2.28,
-        "Sport Recife": 3.15,
-        "Draw": 3.0
+        "Inter Miami CF": 16.0,
+        "Philadelphia Union": 18.0,
+        "Draw": 1.01
       },
       "Nordic Bet": {
-        "Avai": 2.28,
-        "Sport Recife": 3.15,
-        "Draw": 3.0
+        "Inter Miami CF": 19.0,
+        "Philadelphia Union": 15.0,
+        "Draw": 1.05
       },
-      "Coolbet": {
-        "Avai": 2.35,
-        "Sport Recife": 3.1,
-        "Draw": 3.1
-      },
-      "BetOnline.ag": {
-        "Avai": 2.42,
-        "Sport Recife": 3.25,
-        "Draw": 2.92
-      },
-      "1xBet": {
-        "Avai": 2.42,
-        "Sport Recife": 3.02,
-        "Draw": 3.08
-      },
-      "Marathon Bet": {
-        "Avai": 2.38,
-        "Sport Recife": 3.12,
-        "Draw": 2.95
-      },
-      "Betfair": {
-        "Avai": 2.52,
-        "Sport Recife": 3.2,
-        "Draw": 3.2
-      },
-      "Codere (IT)": {
-        "Avai": 2.27,
-        "Sport Recife": 3.1,
-        "Draw": 3.05
-      },
-      "888sport": {
-        "Avai": 2.4,
-        "Sport Recife": 2.9,
-        "Draw": 2.88
-      },
-      "William Hill": {
-        "Avai": 2.45,
-        "Sport Recife": 2.9,
-        "Draw": 2.9
+      "Betsson": {
+        "Inter Miami CF": 19.0,
+        "Philadelphia Union": 15.0,
+        "Draw": 1.05
       },
       "Pinnacle": {
-        "Avai": 2.49,
-        "Sport Recife": 3.3,
-        "Draw": 3.0
+        "Inter Miami CF": 6.07,
+        "Philadelphia Union": 5.19,
+        "Draw": 1.41
       },
       "Tipico": {
-        "Avai": 2.5,
-        "Sport Recife": 2.9,
-        "Draw": 2.9
+        "Inter Miami CF": 25.0,
+        "Philadelphia Union": 12.0,
+        "Draw": 1.04
+      }
+    },
+    "7223e207f74e072fe9946a77a80670c1:h2h": {
+      "Coolbet": {
+        "Nashville SC": 1.0,
+        "New York Red Bulls": 100.0,
+        "Draw": 16.0
       },
-      "Matchbook": {
-        "Avai": 2.54,
-        "Sport Recife": 3.3,
-        "Draw": 3.2
+      "Winamax (DE)": {
+        "Nashville SC": 1.03,
+        "New York Red Bulls": 140.0,
+        "Draw": 12.0
+      },
+      "888sport": {
+        "Nashville SC": 1.06,
+        "New York Red Bulls": 101.0,
+        "Draw": 10.0
+      },
+      "Winamax (FR)": {
+        "Nashville SC": 1.05,
+        "New York Red Bulls": 140.0,
+        "Draw": 11.0
+      },
+      "Betfair": {
+        "Nashville SC": 1.01,
+        "New York Red Bulls": 1.5,
+        "Draw": 1.23
+      },
+      "Betsson": {
+        "Nashville SC": 1.03,
+        "New York Red Bulls": 150.0,
+        "Draw": 10.0
+      },
+      "Nordic Bet": {
+        "Nashville SC": 1.03,
+        "New York Red Bulls": 150.0,
+        "Draw": 10.0
+      },
+      "Pinnacle": {
+        "Nashville SC": 6.31,
+        "New York Red Bulls": 7.01,
+        "Draw": 1.31
+      },
+      "Tipico": {
+        "Nashville SC": 1.02,
+        "New York Red Bulls": 150.0,
+        "Draw": 11.0
+      }
+    },
+    "4db00a59112cd720836cc81f5f166891:h2h": {
+      "Winamax (DE)": {
+        "Charlotte FC": 6.25,
+        "Toronto FC": 14.0,
+        "Draw": 1.16
+      },
+      "Winamax (FR)": {
+        "Charlotte FC": 5.9,
+        "Toronto FC": 13.0,
+        "Draw": 1.18
+      },
+      "Coolbet": {
+        "Charlotte FC": 14.0,
+        "Toronto FC": 35.0,
+        "Draw": 1.03
+      },
+      "Betfair": {
+        "Charlotte FC": 1.01,
+        "Toronto FC": 1.01,
+        "Draw": 1.01
+      },
+      "MyBookie.ag": {
+        "Charlotte FC": 7.0,
+        "Toronto FC": 11.0,
+        "Draw": 1.1
+      },
+      "Unibet (NL)": {
+        "Charlotte FC": 17.0,
+        "Toronto FC": 23.0,
+        "Draw": 1.01
+      },
+      "Unibet (SE)": {
+        "Charlotte FC": 17.0,
+        "Toronto FC": 23.0,
+        "Draw": 1.04
+      },
+      "LeoVegas (SE)": {
+        "Charlotte FC": 12.5,
+        "Toronto FC": 19.0,
+        "Draw": 1.03
+      },
+      "PMU (FR)": {
+        "Charlotte FC": 8.0,
+        "Toronto FC": 12.5,
+        "Draw": 1.05
+      },
+      "Nordic Bet": {
+        "Charlotte FC": 9.1,
+        "Toronto FC": 21.0,
+        "Draw": 1.06
+      },
+      "Betsson": {
+        "Charlotte FC": 15.0,
+        "Toronto FC": 34.0,
+        "Draw": 1.02
+      },
+      "Tipico": {
+        "Charlotte FC": 7.5,
+        "Toronto FC": 20.0,
+        "Draw": 1.1
       }
     }
   },
@@ -9369,8 +9314,808 @@
       "confidence": 199,
       "alert_type": "value",
       "alerted_at": "2026-08-19T20:40:17.538204+00:00"
+    },
+    {
+      "state_key": "14b96e8187af15d1fb36a3dcdcc7a94e:h2h",
+      "event_id": "14b96e8187af15d1fb36a3dcdcc7a94e",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "FC Cincinnati",
+      "away_team": "New York City FC",
+      "commence_time": "2026-08-19T23:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 32.0,
+      "stake_pct": 5.0,
+      "confidence": 2286,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T01:48:15.762115+00:00"
+    },
+    {
+      "state_key": "14b96e8187af15d1fb36a3dcdcc7a94e:h2h",
+      "event_id": "14b96e8187af15d1fb36a3dcdcc7a94e",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "FC Cincinnati",
+      "away_team": "New York City FC",
+      "commence_time": "2026-08-19T23:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "New York City FC",
+      "odds_at_alert": 101.0,
+      "stake_pct": 5.0,
+      "confidence": 1057,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T01:48:16.247973+00:00"
+    },
+    {
+      "state_key": "14b96e8187af15d1fb36a3dcdcc7a94e:h2h",
+      "event_id": "14b96e8187af15d1fb36a3dcdcc7a94e",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "FC Cincinnati",
+      "away_team": "New York City FC",
+      "commence_time": "2026-08-19T23:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 1018,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T01:48:16.718512+00:00"
+    },
+    {
+      "state_key": "14b96e8187af15d1fb36a3dcdcc7a94e:h2h",
+      "event_id": "14b96e8187af15d1fb36a3dcdcc7a94e",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "FC Cincinnati",
+      "away_team": "New York City FC",
+      "commence_time": "2026-08-19T23:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "New York City FC",
+      "odds_at_alert": 101.0,
+      "stake_pct": 5.0,
+      "confidence": 1057,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T01:48:17.157836+00:00"
+    },
+    {
+      "state_key": "14b96e8187af15d1fb36a3dcdcc7a94e:h2h",
+      "event_id": "14b96e8187af15d1fb36a3dcdcc7a94e",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "FC Cincinnati",
+      "away_team": "New York City FC",
+      "commence_time": "2026-08-19T23:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 1018,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T01:48:17.656044+00:00"
+    },
+    {
+      "state_key": "14b96e8187af15d1fb36a3dcdcc7a94e:h2h",
+      "event_id": "14b96e8187af15d1fb36a3dcdcc7a94e",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "FC Cincinnati",
+      "away_team": "New York City FC",
+      "commence_time": "2026-08-19T23:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "New York City FC",
+      "odds_at_alert": 500.0,
+      "stake_pct": 5.0,
+      "confidence": 5629,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T01:48:18.098292+00:00"
+    },
+    {
+      "state_key": "14b96e8187af15d1fb36a3dcdcc7a94e:h2h",
+      "event_id": "14b96e8187af15d1fb36a3dcdcc7a94e",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "FC Cincinnati",
+      "away_team": "New York City FC",
+      "commence_time": "2026-08-19T23:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 869,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T01:48:18.552949+00:00"
+    },
+    {
+      "state_key": "b0008918d077b2578c42dfc8e47054b4:h2h",
+      "event_id": "b0008918d077b2578c42dfc8e47054b4",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Philadelphia Union",
+      "away_team": "Inter Miami CF",
+      "commence_time": "2026-08-19T23:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Inter Miami CF",
+      "odds_at_alert": 29.0,
+      "stake_pct": 5.0,
+      "confidence": 348,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T01:48:19.001977+00:00"
+    },
+    {
+      "state_key": "b0008918d077b2578c42dfc8e47054b4:h2h",
+      "event_id": "b0008918d077b2578c42dfc8e47054b4",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Philadelphia Union",
+      "away_team": "Inter Miami CF",
+      "commence_time": "2026-08-19T23:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Philadelphia Union",
+      "odds_at_alert": 16.0,
+      "stake_pct": 5.0,
+      "confidence": 189,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T01:48:19.456471+00:00"
+    },
+    {
+      "state_key": "b0008918d077b2578c42dfc8e47054b4:h2h",
+      "event_id": "b0008918d077b2578c42dfc8e47054b4",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Philadelphia Union",
+      "away_team": "Inter Miami CF",
+      "commence_time": "2026-08-19T23:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Inter Miami CF",
+      "odds_at_alert": 29.0,
+      "stake_pct": 5.0,
+      "confidence": 348,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T01:48:20.014559+00:00"
+    },
+    {
+      "state_key": "b0008918d077b2578c42dfc8e47054b4:h2h",
+      "event_id": "b0008918d077b2578c42dfc8e47054b4",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Philadelphia Union",
+      "away_team": "Inter Miami CF",
+      "commence_time": "2026-08-19T23:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Philadelphia Union",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 171,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T01:48:20.474481+00:00"
+    },
+    {
+      "state_key": "b0008918d077b2578c42dfc8e47054b4:h2h",
+      "event_id": "b0008918d077b2578c42dfc8e47054b4",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Philadelphia Union",
+      "away_team": "Inter Miami CF",
+      "commence_time": "2026-08-19T23:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Inter Miami CF",
+      "odds_at_alert": 20.0,
+      "stake_pct": 5.0,
+      "confidence": 209,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T01:48:20.920923+00:00"
+    },
+    {
+      "state_key": "b0008918d077b2578c42dfc8e47054b4:h2h",
+      "event_id": "b0008918d077b2578c42dfc8e47054b4",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Philadelphia Union",
+      "away_team": "Inter Miami CF",
+      "commence_time": "2026-08-19T23:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Philadelphia Union",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 171,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T01:48:21.379312+00:00"
+    },
+    {
+      "state_key": "b0008918d077b2578c42dfc8e47054b4:h2h",
+      "event_id": "b0008918d077b2578c42dfc8e47054b4",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Philadelphia Union",
+      "away_team": "Inter Miami CF",
+      "commence_time": "2026-08-19T23:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Inter Miami CF",
+      "odds_at_alert": 10.0,
+      "stake_pct": 5.0,
+      "confidence": 54,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T01:48:21.816633+00:00"
+    },
+    {
+      "state_key": "b0008918d077b2578c42dfc8e47054b4:h2h",
+      "event_id": "b0008918d077b2578c42dfc8e47054b4",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Philadelphia Union",
+      "away_team": "Inter Miami CF",
+      "commence_time": "2026-08-19T23:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Philadelphia Union",
+      "odds_at_alert": 7.0,
+      "stake_pct": 5.0,
+      "confidence": 26,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T01:48:22.290916+00:00"
+    },
+    {
+      "state_key": "b0008918d077b2578c42dfc8e47054b4:h2h",
+      "event_id": "b0008918d077b2578c42dfc8e47054b4",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Philadelphia Union",
+      "away_team": "Inter Miami CF",
+      "commence_time": "2026-08-19T23:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Inter Miami CF",
+      "odds_at_alert": 17.5,
+      "stake_pct": 5.0,
+      "confidence": 170,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T01:48:22.737533+00:00"
+    },
+    {
+      "state_key": "b0008918d077b2578c42dfc8e47054b4:h2h",
+      "event_id": "b0008918d077b2578c42dfc8e47054b4",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Philadelphia Union",
+      "away_team": "Inter Miami CF",
+      "commence_time": "2026-08-19T23:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Philadelphia Union",
+      "odds_at_alert": 21.0,
+      "stake_pct": 5.0,
+      "confidence": 279,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T01:48:23.204894+00:00"
+    },
+    {
+      "state_key": "b0008918d077b2578c42dfc8e47054b4:h2h",
+      "event_id": "b0008918d077b2578c42dfc8e47054b4",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Philadelphia Union",
+      "away_team": "Inter Miami CF",
+      "commence_time": "2026-08-19T23:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Inter Miami CF",
+      "odds_at_alert": 7.25,
+      "stake_pct": 3.0,
+      "confidence": 12,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T01:48:23.667299+00:00"
+    },
+    {
+      "state_key": "b0008918d077b2578c42dfc8e47054b4:h2h",
+      "event_id": "b0008918d077b2578c42dfc8e47054b4",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Philadelphia Union",
+      "away_team": "Inter Miami CF",
+      "commence_time": "2026-08-19T23:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Philadelphia Union",
+      "odds_at_alert": 6.25,
+      "stake_pct": 3.0,
+      "confidence": 13,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T01:48:24.118914+00:00"
+    },
+    {
+      "state_key": "b0008918d077b2578c42dfc8e47054b4:h2h",
+      "event_id": "b0008918d077b2578c42dfc8e47054b4",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Philadelphia Union",
+      "away_team": "Inter Miami CF",
+      "commence_time": "2026-08-19T23:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Inter Miami CF",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 163,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T01:48:24.570520+00:00"
+    },
+    {
+      "state_key": "b0008918d077b2578c42dfc8e47054b4:h2h",
+      "event_id": "b0008918d077b2578c42dfc8e47054b4",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Philadelphia Union",
+      "away_team": "Inter Miami CF",
+      "commence_time": "2026-08-19T23:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Philadelphia Union",
+      "odds_at_alert": 18.0,
+      "stake_pct": 5.0,
+      "confidence": 225,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T01:48:25.019633+00:00"
+    },
+    {
+      "state_key": "b0008918d077b2578c42dfc8e47054b4:h2h",
+      "event_id": "b0008918d077b2578c42dfc8e47054b4",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Philadelphia Union",
+      "away_team": "Inter Miami CF",
+      "commence_time": "2026-08-19T23:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Inter Miami CF",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 85,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T01:48:25.472910+00:00"
+    },
+    {
+      "state_key": "b0008918d077b2578c42dfc8e47054b4:h2h",
+      "event_id": "b0008918d077b2578c42dfc8e47054b4",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Philadelphia Union",
+      "away_team": "Inter Miami CF",
+      "commence_time": "2026-08-19T23:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Philadelphia Union",
+      "odds_at_alert": 11.5,
+      "stake_pct": 5.0,
+      "confidence": 108,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T01:48:25.948503+00:00"
+    },
+    {
+      "state_key": "b0008918d077b2578c42dfc8e47054b4:h2h",
+      "event_id": "b0008918d077b2578c42dfc8e47054b4",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Philadelphia Union",
+      "away_team": "Inter Miami CF",
+      "commence_time": "2026-08-19T23:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Inter Miami CF",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 132,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T01:48:26.420244+00:00"
+    },
+    {
+      "state_key": "b0008918d077b2578c42dfc8e47054b4:h2h",
+      "event_id": "b0008918d077b2578c42dfc8e47054b4",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Philadelphia Union",
+      "away_team": "Inter Miami CF",
+      "commence_time": "2026-08-19T23:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Philadelphia Union",
+      "odds_at_alert": 18.0,
+      "stake_pct": 5.0,
+      "confidence": 225,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T01:48:26.933376+00:00"
+    },
+    {
+      "state_key": "b0008918d077b2578c42dfc8e47054b4:h2h",
+      "event_id": "b0008918d077b2578c42dfc8e47054b4",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Philadelphia Union",
+      "away_team": "Inter Miami CF",
+      "commence_time": "2026-08-19T23:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Inter Miami CF",
+      "odds_at_alert": 16.0,
+      "stake_pct": 5.0,
+      "confidence": 147,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T01:48:27.389934+00:00"
+    },
+    {
+      "state_key": "b0008918d077b2578c42dfc8e47054b4:h2h",
+      "event_id": "b0008918d077b2578c42dfc8e47054b4",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Philadelphia Union",
+      "away_team": "Inter Miami CF",
+      "commence_time": "2026-08-19T23:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Philadelphia Union",
+      "odds_at_alert": 18.0,
+      "stake_pct": 5.0,
+      "confidence": 225,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T01:48:27.856921+00:00"
+    },
+    {
+      "state_key": "b0008918d077b2578c42dfc8e47054b4:h2h",
+      "event_id": "b0008918d077b2578c42dfc8e47054b4",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Philadelphia Union",
+      "away_team": "Inter Miami CF",
+      "commence_time": "2026-08-19T23:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Inter Miami CF",
+      "odds_at_alert": 19.0,
+      "stake_pct": 5.0,
+      "confidence": 193,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T01:48:28.409911+00:00"
+    },
+    {
+      "state_key": "b0008918d077b2578c42dfc8e47054b4:h2h",
+      "event_id": "b0008918d077b2578c42dfc8e47054b4",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Philadelphia Union",
+      "away_team": "Inter Miami CF",
+      "commence_time": "2026-08-19T23:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Philadelphia Union",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 171,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T01:48:29.353213+00:00"
+    },
+    {
+      "state_key": "b0008918d077b2578c42dfc8e47054b4:h2h",
+      "event_id": "b0008918d077b2578c42dfc8e47054b4",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Philadelphia Union",
+      "away_team": "Inter Miami CF",
+      "commence_time": "2026-08-19T23:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Inter Miami CF",
+      "odds_at_alert": 19.0,
+      "stake_pct": 5.0,
+      "confidence": 193,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T01:48:29.957433+00:00"
+    },
+    {
+      "state_key": "b0008918d077b2578c42dfc8e47054b4:h2h",
+      "event_id": "b0008918d077b2578c42dfc8e47054b4",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Philadelphia Union",
+      "away_team": "Inter Miami CF",
+      "commence_time": "2026-08-19T23:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Philadelphia Union",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 171,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T01:48:30.400559+00:00"
+    },
+    {
+      "state_key": "b0008918d077b2578c42dfc8e47054b4:h2h",
+      "event_id": "b0008918d077b2578c42dfc8e47054b4",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Philadelphia Union",
+      "away_team": "Inter Miami CF",
+      "commence_time": "2026-08-19T23:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Inter Miami CF",
+      "odds_at_alert": 25.0,
+      "stake_pct": 5.0,
+      "confidence": 286,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T01:48:30.846005+00:00"
+    },
+    {
+      "state_key": "b0008918d077b2578c42dfc8e47054b4:h2h",
+      "event_id": "b0008918d077b2578c42dfc8e47054b4",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Philadelphia Union",
+      "away_team": "Inter Miami CF",
+      "commence_time": "2026-08-19T23:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Philadelphia Union",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 117,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T01:48:31.319511+00:00"
+    },
+    {
+      "state_key": "7223e207f74e072fe9946a77a80670c1:h2h",
+      "event_id": "7223e207f74e072fe9946a77a80670c1",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "New York Red Bulls",
+      "away_team": "Nashville SC",
+      "commence_time": "2026-08-19T23:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "New York Red Bulls",
+      "odds_at_alert": 100.0,
+      "stake_pct": 5.0,
+      "confidence": 1240,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T01:48:31.759864+00:00"
+    },
+    {
+      "state_key": "7223e207f74e072fe9946a77a80670c1:h2h",
+      "event_id": "7223e207f74e072fe9946a77a80670c1",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "New York Red Bulls",
+      "away_team": "Nashville SC",
+      "commence_time": "2026-08-19T23:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 16.0,
+      "stake_pct": 5.0,
+      "confidence": 1047,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T01:48:32.206516+00:00"
+    },
+    {
+      "state_key": "7223e207f74e072fe9946a77a80670c1:h2h",
+      "event_id": "7223e207f74e072fe9946a77a80670c1",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "New York Red Bulls",
+      "away_team": "Nashville SC",
+      "commence_time": "2026-08-19T23:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "New York Red Bulls",
+      "odds_at_alert": 140.0,
+      "stake_pct": 5.0,
+      "confidence": 1776,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T01:48:32.656890+00:00"
+    },
+    {
+      "state_key": "7223e207f74e072fe9946a77a80670c1:h2h",
+      "event_id": "7223e207f74e072fe9946a77a80670c1",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "New York Red Bulls",
+      "away_team": "Nashville SC",
+      "commence_time": "2026-08-19T23:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 761,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T01:48:33.117056+00:00"
+    },
+    {
+      "state_key": "7223e207f74e072fe9946a77a80670c1:h2h",
+      "event_id": "7223e207f74e072fe9946a77a80670c1",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "New York Red Bulls",
+      "away_team": "Nashville SC",
+      "commence_time": "2026-08-19T23:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "New York Red Bulls",
+      "odds_at_alert": 101.0,
+      "stake_pct": 5.0,
+      "confidence": 1254,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T01:48:33.558435+00:00"
+    },
+    {
+      "state_key": "7223e207f74e072fe9946a77a80670c1:h2h",
+      "event_id": "7223e207f74e072fe9946a77a80670c1",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "New York Red Bulls",
+      "away_team": "Nashville SC",
+      "commence_time": "2026-08-19T23:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 10.0,
+      "stake_pct": 5.0,
+      "confidence": 617,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T01:48:34.019870+00:00"
+    },
+    {
+      "state_key": "7223e207f74e072fe9946a77a80670c1:h2h",
+      "event_id": "7223e207f74e072fe9946a77a80670c1",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "New York Red Bulls",
+      "away_team": "Nashville SC",
+      "commence_time": "2026-08-19T23:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "New York Red Bulls",
+      "odds_at_alert": 140.0,
+      "stake_pct": 5.0,
+      "confidence": 1776,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T01:48:34.464675+00:00"
+    },
+    {
+      "state_key": "7223e207f74e072fe9946a77a80670c1:h2h",
+      "event_id": "7223e207f74e072fe9946a77a80670c1",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "New York Red Bulls",
+      "away_team": "Nashville SC",
+      "commence_time": "2026-08-19T23:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 689,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T01:48:34.921241+00:00"
+    },
+    {
+      "state_key": "7223e207f74e072fe9946a77a80670c1:h2h",
+      "event_id": "7223e207f74e072fe9946a77a80670c1",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "New York Red Bulls",
+      "away_team": "Nashville SC",
+      "commence_time": "2026-08-19T23:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "New York Red Bulls",
+      "odds_at_alert": 150.0,
+      "stake_pct": 5.0,
+      "confidence": 1910,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T01:48:35.373936+00:00"
+    },
+    {
+      "state_key": "7223e207f74e072fe9946a77a80670c1:h2h",
+      "event_id": "7223e207f74e072fe9946a77a80670c1",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "New York Red Bulls",
+      "away_team": "Nashville SC",
+      "commence_time": "2026-08-19T23:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 10.0,
+      "stake_pct": 5.0,
+      "confidence": 617,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T01:48:35.829012+00:00"
+    },
+    {
+      "state_key": "7223e207f74e072fe9946a77a80670c1:h2h",
+      "event_id": "7223e207f74e072fe9946a77a80670c1",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "New York Red Bulls",
+      "away_team": "Nashville SC",
+      "commence_time": "2026-08-19T23:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "New York Red Bulls",
+      "odds_at_alert": 150.0,
+      "stake_pct": 5.0,
+      "confidence": 1910,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T01:48:36.282530+00:00"
+    },
+    {
+      "state_key": "7223e207f74e072fe9946a77a80670c1:h2h",
+      "event_id": "7223e207f74e072fe9946a77a80670c1",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "New York Red Bulls",
+      "away_team": "Nashville SC",
+      "commence_time": "2026-08-19T23:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 10.0,
+      "stake_pct": 5.0,
+      "confidence": 617,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T01:48:36.726167+00:00"
+    },
+    {
+      "state_key": "7223e207f74e072fe9946a77a80670c1:h2h",
+      "event_id": "7223e207f74e072fe9946a77a80670c1",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "New York Red Bulls",
+      "away_team": "Nashville SC",
+      "commence_time": "2026-08-19T23:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "New York Red Bulls",
+      "odds_at_alert": 150.0,
+      "stake_pct": 5.0,
+      "confidence": 1910,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T01:48:37.168384+00:00"
+    },
+    {
+      "state_key": "7223e207f74e072fe9946a77a80670c1:h2h",
+      "event_id": "7223e207f74e072fe9946a77a80670c1",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "New York Red Bulls",
+      "away_team": "Nashville SC",
+      "commence_time": "2026-08-19T23:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 689,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T01:48:37.616138+00:00"
     }
   ],
   "results_history": [],
-  "value_alerted": []
+  "value_alerted": [
+    "14b96e8187af15d1fb36a3dcdcc7a94e:h2h|Betfair|Draw",
+    "14b96e8187af15d1fb36a3dcdcc7a94e:h2h|Betsson|Draw",
+    "14b96e8187af15d1fb36a3dcdcc7a94e:h2h|Betsson|New York City FC",
+    "14b96e8187af15d1fb36a3dcdcc7a94e:h2h|Nordic Bet|Draw",
+    "14b96e8187af15d1fb36a3dcdcc7a94e:h2h|Nordic Bet|New York City FC",
+    "14b96e8187af15d1fb36a3dcdcc7a94e:h2h|Tipico|Draw",
+    "14b96e8187af15d1fb36a3dcdcc7a94e:h2h|Tipico|New York City FC",
+    "7223e207f74e072fe9946a77a80670c1:h2h|888sport|Draw",
+    "7223e207f74e072fe9946a77a80670c1:h2h|888sport|New York Red Bulls",
+    "7223e207f74e072fe9946a77a80670c1:h2h|Betsson|Draw",
+    "7223e207f74e072fe9946a77a80670c1:h2h|Betsson|New York Red Bulls",
+    "7223e207f74e072fe9946a77a80670c1:h2h|Coolbet|Draw",
+    "7223e207f74e072fe9946a77a80670c1:h2h|Coolbet|New York Red Bulls",
+    "7223e207f74e072fe9946a77a80670c1:h2h|Nordic Bet|Draw",
+    "7223e207f74e072fe9946a77a80670c1:h2h|Nordic Bet|New York Red Bulls",
+    "7223e207f74e072fe9946a77a80670c1:h2h|Tipico|Draw",
+    "7223e207f74e072fe9946a77a80670c1:h2h|Tipico|New York Red Bulls",
+    "7223e207f74e072fe9946a77a80670c1:h2h|Winamax (DE)|Draw",
+    "7223e207f74e072fe9946a77a80670c1:h2h|Winamax (DE)|New York Red Bulls",
+    "7223e207f74e072fe9946a77a80670c1:h2h|Winamax (FR)|Draw",
+    "7223e207f74e072fe9946a77a80670c1:h2h|Winamax (FR)|New York Red Bulls",
+    "b0008918d077b2578c42dfc8e47054b4:h2h|888sport|Inter Miami CF",
+    "b0008918d077b2578c42dfc8e47054b4:h2h|888sport|Philadelphia Union",
+    "b0008918d077b2578c42dfc8e47054b4:h2h|Betfair|Inter Miami CF",
+    "b0008918d077b2578c42dfc8e47054b4:h2h|Betfair|Philadelphia Union",
+    "b0008918d077b2578c42dfc8e47054b4:h2h|Betsson|Inter Miami CF",
+    "b0008918d077b2578c42dfc8e47054b4:h2h|Betsson|Philadelphia Union",
+    "b0008918d077b2578c42dfc8e47054b4:h2h|Coolbet|Inter Miami CF",
+    "b0008918d077b2578c42dfc8e47054b4:h2h|Coolbet|Philadelphia Union",
+    "b0008918d077b2578c42dfc8e47054b4:h2h|LeoVegas (SE)|Inter Miami CF",
+    "b0008918d077b2578c42dfc8e47054b4:h2h|LeoVegas (SE)|Philadelphia Union",
+    "b0008918d077b2578c42dfc8e47054b4:h2h|MyBookie.ag|Inter Miami CF",
+    "b0008918d077b2578c42dfc8e47054b4:h2h|MyBookie.ag|Philadelphia Union",
+    "b0008918d077b2578c42dfc8e47054b4:h2h|Nordic Bet|Inter Miami CF",
+    "b0008918d077b2578c42dfc8e47054b4:h2h|Nordic Bet|Philadelphia Union",
+    "b0008918d077b2578c42dfc8e47054b4:h2h|PMU (FR)|Inter Miami CF",
+    "b0008918d077b2578c42dfc8e47054b4:h2h|PMU (FR)|Philadelphia Union",
+    "b0008918d077b2578c42dfc8e47054b4:h2h|Tipico|Inter Miami CF",
+    "b0008918d077b2578c42dfc8e47054b4:h2h|Tipico|Philadelphia Union",
+    "b0008918d077b2578c42dfc8e47054b4:h2h|Unibet (NL)|Inter Miami CF",
+    "b0008918d077b2578c42dfc8e47054b4:h2h|Unibet (NL)|Philadelphia Union",
+    "b0008918d077b2578c42dfc8e47054b4:h2h|Unibet (SE)|Inter Miami CF",
+    "b0008918d077b2578c42dfc8e47054b4:h2h|Unibet (SE)|Philadelphia Union",
+    "b0008918d077b2578c42dfc8e47054b4:h2h|Winamax (DE)|Inter Miami CF",
+    "b0008918d077b2578c42dfc8e47054b4:h2h|Winamax (DE)|Philadelphia Union",
+    "b0008918d077b2578c42dfc8e47054b4:h2h|Winamax (FR)|Inter Miami CF",
+    "b0008918d077b2578c42dfc8e47054b4:h2h|Winamax (FR)|Philadelphia Union"
+  ]
 }
