@@ -1,286 +1,236 @@
 {
   "snapshots": {
-    "4feb0ef58a41849f92fcc270268734d4:h2h": {
-      "Betclic (FR)": {
-        "Alavés": 18.0,
-        "Rayo Vallecano": 1.24,
-        "Draw": 4.35
-      },
-      "Coolbet": {
-        "Alavés": 22.0,
-        "Rayo Vallecano": 1.29,
-        "Draw": 4.5
-      },
-      "Winamax (FR)": {
-        "Alavés": 19.0,
-        "Rayo Vallecano": 1.26,
-        "Draw": 4.0
-      },
-      "Winamax (DE)": {
-        "Alavés": 19.0,
-        "Rayo Vallecano": 1.28,
-        "Draw": 4.3
-      },
-      "Betfair": {
-        "Alavés": 27.0,
-        "Rayo Vallecano": 1.32,
-        "Draw": 4.7
-      },
-      "Tipico": {
-        "Alavés": 22.0,
-        "Rayo Vallecano": 1.22,
-        "Draw": 4.5
-      },
-      "Nordic Bet": {
-        "Alavés": 17.5,
-        "Rayo Vallecano": 1.26,
-        "Draw": 4.2
-      },
-      "Betsson": {
-        "Alavés": 19.5,
-        "Rayo Vallecano": 1.26,
-        "Draw": 4.2
-      },
-      "Matchbook": {
-        "Alavés": 27.0,
-        "Rayo Vallecano": 1.34,
-        "Draw": 4.5
-      },
-      "Pinnacle": {
-        "Alavés": 17.33,
-        "Rayo Vallecano": 1.34,
-        "Draw": 4.14
-      },
-      "PMU (FR)": {
-        "Alavés": 21.0,
-        "Rayo Vallecano": 1.2,
-        "Draw": 4.2
-      },
-      "Unibet (SE)": {
-        "Alavés": 23.0,
-        "Rayo Vallecano": 1.25,
-        "Draw": 4.4
-      },
-      "LeoVegas (SE)": {
-        "Alavés": 23.0,
-        "Rayo Vallecano": 1.22,
-        "Draw": 4.3
-      },
-      "Unibet (NL)": {
-        "Alavés": 23.0,
-        "Rayo Vallecano": 1.25,
-        "Draw": 4.4
-      }
-    },
-    "afba509cfb6e88cebece47883ed2c6f4:h2h": {
-      "Coolbet": {
-        "Bradford City": 1.2,
-        "Sheffield Wednesday": 30.0,
-        "Draw": 5.0
-      },
-      "888sport": {
-        "Bradford City": 1.22,
-        "Sheffield Wednesday": 21.0,
-        "Draw": 4.6
-      },
-      "Pinnacle": {
-        "Bradford City": 1.39,
-        "Sheffield Wednesday": 12.54,
-        "Draw": 3.76
-      },
-      "Betfair": {
-        "Bradford City": 1.27,
-        "Sheffield Wednesday": 32.0,
-        "Draw": 5.3
-      },
-      "Tipico": {
-        "Bradford City": 1.16,
-        "Sheffield Wednesday": 40.0,
-        "Draw": 4.7
-      },
-      "Unibet (NL)": {
-        "Bradford City": 1.1,
-        "Sheffield Wednesday": 36.0,
-        "Draw": 5.5
-      },
-      "Unibet (SE)": {
-        "Bradford City": 1.16,
-        "Sheffield Wednesday": 29.0,
-        "Draw": 5.2
-      },
-      "LeoVegas (SE)": {
-        "Bradford City": 1.08,
-        "Sheffield Wednesday": 36.0,
-        "Draw": 5.4
-      }
-    },
     "75a9e9d10a96820fadf35bfa73647855:h2h": {
       "Winamax (DE)": {
-        "LDU Quito": 1.52,
-        "Mirassol": 5.6,
-        "Draw": 3.85
+        "LDU Quito": 1.72,
+        "Mirassol": 6.25,
+        "Draw": 2.7
       },
       "Coolbet": {
-        "LDU Quito": 1.6,
-        "Mirassol": 6.2,
-        "Draw": 3.8
-      },
-      "GTbets": {
-        "LDU Quito": 1.55,
-        "Mirassol": 6.21,
-        "Draw": 3.85
-      },
-      "Unibet (FR)": {
-        "LDU Quito": 1.48,
-        "Mirassol": 6.0,
-        "Draw": 3.75
+        "LDU Quito": 1.8,
+        "Mirassol": 7.0,
+        "Draw": 2.88
       },
       "Winamax (FR)": {
-        "LDU Quito": 1.5,
-        "Mirassol": 5.5,
-        "Draw": 3.75
+        "LDU Quito": 1.7,
+        "Mirassol": 6.0,
+        "Draw": 2.6
       },
       "Suprabets": {
-        "LDU Quito": 1.56,
-        "Mirassol": 6.3,
-        "Draw": 3.7
+        "LDU Quito": 1.77,
+        "Mirassol": 6.2,
+        "Draw": 2.85
       },
       "Betclic (FR)": {
-        "LDU Quito": 1.53,
-        "Mirassol": 6.1,
-        "Draw": 3.8
-      },
-      "1xBet": {
-        "LDU Quito": 1.58,
-        "Mirassol": 6.69,
-        "Draw": 3.87
-      },
-      "Codere (IT)": {
-        "LDU Quito": 1.57,
-        "Mirassol": 6.0,
-        "Draw": 3.8
+        "LDU Quito": 1.7,
+        "Mirassol": 7.25,
+        "Draw": 2.82
       },
       "Betfair": {
-        "LDU Quito": 1.6,
-        "Mirassol": 7.6,
-        "Draw": 4.0
+        "LDU Quito": 1.81,
+        "Mirassol": 9.0,
+        "Draw": 2.92
       },
       "Pinnacle": {
-        "LDU Quito": 1.57,
-        "Mirassol": 6.71,
-        "Draw": 3.9
-      },
-      "Marathon Bet": {
-        "LDU Quito": 1.53,
-        "Mirassol": 6.5,
-        "Draw": 3.76
+        "LDU Quito": 1.73,
+        "Mirassol": 7.09,
+        "Draw": 2.88
       },
       "888sport": {
-        "LDU Quito": 1.57,
+        "LDU Quito": 1.67,
         "Mirassol": 6.0,
-        "Draw": 3.5
-      },
-      "William Hill": {
-        "LDU Quito": 1.57,
-        "Mirassol": 6.0,
-        "Draw": 3.5
+        "Draw": 2.9
       },
       "Tipico": {
-        "LDU Quito": 1.52,
-        "Mirassol": 6.7,
-        "Draw": 3.8
+        "LDU Quito": 1.65,
+        "Mirassol": 7.5,
+        "Draw": 2.8
       },
       "Betsson": {
-        "LDU Quito": 1.55,
+        "LDU Quito": 1.72,
         "Mirassol": 6.3,
-        "Draw": 3.6
+        "Draw": 2.78
       },
       "Nordic Bet": {
-        "LDU Quito": 1.55,
-        "Mirassol": 6.3,
-        "Draw": 3.6
+        "LDU Quito": 1.68,
+        "Mirassol": 7.2,
+        "Draw": 2.7
       },
       "PMU (FR)": {
-        "LDU Quito": 1.48,
+        "LDU Quito": 1.64,
         "Mirassol": 5.8,
-        "Draw": 3.55
+        "Draw": 2.6
       },
       "Unibet (NL)": {
-        "LDU Quito": 1.54,
-        "Mirassol": 6.4,
-        "Draw": 3.75
+        "LDU Quito": 1.77,
+        "Mirassol": 6.25,
+        "Draw": 2.8
       },
       "LeoVegas (SE)": {
-        "LDU Quito": 1.51,
-        "Mirassol": 6.0,
-        "Draw": 3.65
-      },
-      "BetOnline.ag": {
-        "LDU Quito": 1.57,
-        "Mirassol": 6.55,
-        "Draw": 3.83
+        "LDU Quito": 1.67,
+        "Mirassol": 5.8,
+        "Draw": 2.65
       }
     },
     "7ef10ffc03dd15ce682655f3868e9332:h2h": {
-      "Unibet (FR)": {
-        "Macará": 2.1,
-        "Santos": 3.2,
-        "Draw": 3.0
-      },
-      "Codere (IT)": {
-        "Macará": 2.21,
-        "Santos": 3.3,
-        "Draw": 3.15
-      },
-      "1xBet": {
-        "Macará": 2.3,
-        "Santos": 3.52,
-        "Draw": 3.31
-      },
       "Betfair": {
-        "Macará": 2.3,
-        "Santos": 3.65,
-        "Draw": 3.35
+        "Macará": 1.98,
+        "Santos": 6.6,
+        "Draw": 2.82
       },
       "Nordic Bet": {
-        "Macará": 2.15,
-        "Santos": 3.35,
-        "Draw": 3.0
+        "Macará": 1.95,
+        "Santos": 6.3,
+        "Draw": 2.3
       },
       "888sport": {
-        "Macará": 2.2,
-        "Santos": 3.25,
-        "Draw": 3.0
-      },
-      "William Hill": {
-        "Macará": 2.2,
-        "Santos": 3.25,
-        "Draw": 3.0
+        "Macará": 1.85,
+        "Santos": 5.75,
+        "Draw": 2.6
       },
       "Pinnacle": {
-        "Macará": 2.23,
-        "Santos": 3.45,
-        "Draw": 3.2
+        "Macará": 1.96,
+        "Santos": 5.1,
+        "Draw": 2.8
       },
       "LeoVegas (SE)": {
-        "Macará": 2.1,
-        "Santos": 3.15,
-        "Draw": 2.95
+        "Macará": 1.83,
+        "Santos": 5.1,
+        "Draw": 2.48
       },
       "PMU (FR)": {
-        "Macará": 2.1,
-        "Santos": 3.15,
-        "Draw": 2.95
+        "Macará": 1.81,
+        "Santos": 4.9,
+        "Draw": 2.43
       },
       "Unibet (NL)": {
-        "Macará": 2.2,
-        "Santos": 3.3,
-        "Draw": 3.15
+        "Macará": 1.94,
+        "Santos": 5.4,
+        "Draw": 2.63
       },
       "Coolbet": {
-        "Macará": 2.28,
-        "Santos": 3.4,
-        "Draw": 3.25
+        "Macará": 2.0,
+        "Santos": 6.5,
+        "Draw": 2.38
+      }
+    },
+    "454416c624ed33fb0838b2b3a0f00289:h2h": {
+      "Betfair": {
+        "Olimpia Asunción": 8.2,
+        "Vasco da Gama": 1.62,
+        "Draw": 3.8
+      },
+      "Nordic Bet": {
+        "Olimpia Asunción": 5.8,
+        "Vasco da Gama": 1.58,
+        "Draw": 3.4
+      },
+      "888sport": {
+        "Olimpia Asunción": 6.0,
+        "Vasco da Gama": 1.53,
+        "Draw": 3.5
+      },
+      "Pinnacle": {
+        "Olimpia Asunción": 1.56,
+        "Vasco da Gama": 6.84,
+        "Draw": 3.6
+      },
+      "PMU (FR)": {
+        "Olimpia Asunción": 6.1,
+        "Vasco da Gama": 1.43,
+        "Draw": 3.3
+      },
+      "LeoVegas (SE)": {
+        "Olimpia Asunción": 6.25,
+        "Vasco da Gama": 1.45,
+        "Draw": 3.35
+      },
+      "Unibet (NL)": {
+        "Olimpia Asunción": 6.75,
+        "Vasco da Gama": 1.54,
+        "Draw": 3.55
+      },
+      "Coolbet": {
+        "Olimpia Asunción": 6.0,
+        "Vasco da Gama": 1.62,
+        "Draw": 3.5
+      }
+    },
+    "acd8aa932b98f8af48f42e1d2e35c49b:h2h": {
+      "Unibet (SE)": {
+        "Athletic Club (MG)": 2.33,
+        "Clube de Regatas Brasil": 3.2,
+        "Draw": 2.9
+      },
+      "LeoVegas (SE)": {
+        "Athletic Club (MG)": 2.2,
+        "Clube de Regatas Brasil": 3.05,
+        "Draw": 2.7
+      },
+      "Unibet (NL)": {
+        "Athletic Club (MG)": 2.23,
+        "Clube de Regatas Brasil": 3.05,
+        "Draw": 2.8
+      },
+      "Coolbet": {
+        "Athletic Club (MG)": 2.5,
+        "Clube de Regatas Brasil": 2.88,
+        "Draw": 2.88
+      },
+      "Nordic Bet": {
+        "Athletic Club (MG)": 2.45,
+        "Clube de Regatas Brasil": 2.88,
+        "Draw": 2.88
+      },
+      "Betsson": {
+        "Athletic Club (MG)": 2.5,
+        "Clube de Regatas Brasil": 2.88,
+        "Draw": 2.85
+      },
+      "Codere (IT)": {
+        "Athletic Club (MG)": 2.33,
+        "Clube de Regatas Brasil": 3.1,
+        "Draw": 3.0
+      },
+      "1xBet": {
+        "Athletic Club (MG)": 2.22,
+        "Clube de Regatas Brasil": 3.37,
+        "Draw": 3.1
+      },
+      "Pinnacle": {
+        "Athletic Club (MG)": 2.43,
+        "Clube de Regatas Brasil": 3.23,
+        "Draw": 3.15
+      },
+      "888sport": {
+        "Athletic Club (MG)": 2.45,
+        "Clube de Regatas Brasil": 2.9,
+        "Draw": 2.8
+      },
+      "William Hill": {
+        "Athletic Club (MG)": 2.3,
+        "Clube de Regatas Brasil": 3.1,
+        "Draw": 2.9
+      },
+      "Tipico": {
+        "Athletic Club (MG)": 2.5,
+        "Clube de Regatas Brasil": 2.9,
+        "Draw": 2.9
+      },
+      "Matchbook": {
+        "Athletic Club (MG)": 2.68,
+        "Clube de Regatas Brasil": 3.15,
+        "Draw": 3.05
+      },
+      "BetOnline.ag": {
+        "Athletic Club (MG)": 2.44,
+        "Clube de Regatas Brasil": 3.1,
+        "Draw": 3.0
+      },
+      "Betfair": {
+        "Athletic Club (MG)": 2.6,
+        "Clube de Regatas Brasil": 3.3,
+        "Draw": 3.05
       }
     }
   },
@@ -8861,34 +8811,214 @@
       "confidence": 35,
       "alert_type": "value",
       "alerted_at": "2026-08-20T20:41:23.806502+00:00"
+    },
+    {
+      "state_key": "7ef10ffc03dd15ce682655f3868e9332:h2h",
+      "event_id": "7ef10ffc03dd15ce682655f3868e9332",
+      "sport_key": "soccer",
+      "competition": "Copa Sudamericana",
+      "home_team": "Macará",
+      "away_team": "Santos",
+      "commence_time": "2026-08-20T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Santos",
+      "odds_at_alert": 6.6,
+      "stake_pct": 5.0,
+      "confidence": 22,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T22:39:28.267475+00:00"
+    },
+    {
+      "state_key": "7ef10ffc03dd15ce682655f3868e9332:h2h",
+      "event_id": "7ef10ffc03dd15ce682655f3868e9332",
+      "sport_key": "soccer",
+      "competition": "Copa Sudamericana",
+      "home_team": "Macará",
+      "away_team": "Santos",
+      "commence_time": "2026-08-20T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Santos",
+      "odds_at_alert": 6.3,
+      "stake_pct": 5.0,
+      "confidence": 16,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T22:39:28.602617+00:00"
+    },
+    {
+      "state_key": "7ef10ffc03dd15ce682655f3868e9332:h2h",
+      "event_id": "7ef10ffc03dd15ce682655f3868e9332",
+      "sport_key": "soccer",
+      "competition": "Copa Sudamericana",
+      "home_team": "Macará",
+      "away_team": "Santos",
+      "commence_time": "2026-08-20T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Santos",
+      "odds_at_alert": 5.75,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T22:39:28.943654+00:00"
+    },
+    {
+      "state_key": "7ef10ffc03dd15ce682655f3868e9332:h2h",
+      "event_id": "7ef10ffc03dd15ce682655f3868e9332",
+      "sport_key": "soccer",
+      "competition": "Copa Sudamericana",
+      "home_team": "Macará",
+      "away_team": "Santos",
+      "commence_time": "2026-08-20T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Santos",
+      "odds_at_alert": 6.5,
+      "stake_pct": 5.0,
+      "confidence": 20,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T22:39:29.265092+00:00"
+    },
+    {
+      "state_key": "454416c624ed33fb0838b2b3a0f00289:h2h",
+      "event_id": "454416c624ed33fb0838b2b3a0f00289",
+      "sport_key": "soccer",
+      "competition": "Copa Sudamericana",
+      "home_team": "Olimpia Asunción",
+      "away_team": "Vasco da Gama",
+      "commence_time": "2026-08-20T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Olimpia Asunción",
+      "odds_at_alert": 8.2,
+      "stake_pct": 5.0,
+      "confidence": 394,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T22:39:29.615749+00:00"
+    },
+    {
+      "state_key": "454416c624ed33fb0838b2b3a0f00289:h2h",
+      "event_id": "454416c624ed33fb0838b2b3a0f00289",
+      "sport_key": "soccer",
+      "competition": "Copa Sudamericana",
+      "home_team": "Olimpia Asunción",
+      "away_team": "Vasco da Gama",
+      "commence_time": "2026-08-20T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Olimpia Asunción",
+      "odds_at_alert": 5.8,
+      "stake_pct": 5.0,
+      "confidence": 249,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T22:39:29.931821+00:00"
+    },
+    {
+      "state_key": "454416c624ed33fb0838b2b3a0f00289:h2h",
+      "event_id": "454416c624ed33fb0838b2b3a0f00289",
+      "sport_key": "soccer",
+      "competition": "Copa Sudamericana",
+      "home_team": "Olimpia Asunción",
+      "away_team": "Vasco da Gama",
+      "commence_time": "2026-08-20T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Olimpia Asunción",
+      "odds_at_alert": 6.0,
+      "stake_pct": 5.0,
+      "confidence": 261,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T22:39:30.246853+00:00"
+    },
+    {
+      "state_key": "454416c624ed33fb0838b2b3a0f00289:h2h",
+      "event_id": "454416c624ed33fb0838b2b3a0f00289",
+      "sport_key": "soccer",
+      "competition": "Copa Sudamericana",
+      "home_team": "Olimpia Asunción",
+      "away_team": "Vasco da Gama",
+      "commence_time": "2026-08-20T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Olimpia Asunción",
+      "odds_at_alert": 6.1,
+      "stake_pct": 5.0,
+      "confidence": 267,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T22:39:30.573014+00:00"
+    },
+    {
+      "state_key": "454416c624ed33fb0838b2b3a0f00289:h2h",
+      "event_id": "454416c624ed33fb0838b2b3a0f00289",
+      "sport_key": "soccer",
+      "competition": "Copa Sudamericana",
+      "home_team": "Olimpia Asunción",
+      "away_team": "Vasco da Gama",
+      "commence_time": "2026-08-20T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Olimpia Asunción",
+      "odds_at_alert": 6.25,
+      "stake_pct": 5.0,
+      "confidence": 276,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T22:39:30.886502+00:00"
+    },
+    {
+      "state_key": "454416c624ed33fb0838b2b3a0f00289:h2h",
+      "event_id": "454416c624ed33fb0838b2b3a0f00289",
+      "sport_key": "soccer",
+      "competition": "Copa Sudamericana",
+      "home_team": "Olimpia Asunción",
+      "away_team": "Vasco da Gama",
+      "commence_time": "2026-08-20T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Olimpia Asunción",
+      "odds_at_alert": 6.75,
+      "stake_pct": 5.0,
+      "confidence": 306,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T22:39:31.210708+00:00"
+    },
+    {
+      "state_key": "454416c624ed33fb0838b2b3a0f00289:h2h",
+      "event_id": "454416c624ed33fb0838b2b3a0f00289",
+      "sport_key": "soccer",
+      "competition": "Copa Sudamericana",
+      "home_team": "Olimpia Asunción",
+      "away_team": "Vasco da Gama",
+      "commence_time": "2026-08-20T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Olimpia Asunción",
+      "odds_at_alert": 6.0,
+      "stake_pct": 5.0,
+      "confidence": 261,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T22:39:31.572622+00:00"
+    },
+    {
+      "state_key": "acd8aa932b98f8af48f42e1d2e35c49b:h2h",
+      "event_id": "acd8aa932b98f8af48f42e1d2e35c49b",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Athletic Club (MG)",
+      "away_team": "Clube de Regatas Brasil",
+      "commence_time": "2026-08-20T22:29:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Athletic Club (MG)",
+      "odds_at_alert": 2.68,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T22:39:31.890004+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "4feb0ef58a41849f92fcc270268734d4:h2h|Betfair|Alavés",
-    "4feb0ef58a41849f92fcc270268734d4:h2h|Betfair|Draw",
-    "4feb0ef58a41849f92fcc270268734d4:h2h|Betsson|Alavés",
-    "4feb0ef58a41849f92fcc270268734d4:h2h|Coolbet|Alavés",
-    "4feb0ef58a41849f92fcc270268734d4:h2h|LeoVegas (SE)|Alavés",
-    "4feb0ef58a41849f92fcc270268734d4:h2h|Matchbook|Alavés",
-    "4feb0ef58a41849f92fcc270268734d4:h2h|PMU (FR)|Alavés",
-    "4feb0ef58a41849f92fcc270268734d4:h2h|Tipico|Alavés",
-    "4feb0ef58a41849f92fcc270268734d4:h2h|Unibet (NL)|Alavés",
-    "4feb0ef58a41849f92fcc270268734d4:h2h|Unibet (SE)|Alavés",
+    "454416c624ed33fb0838b2b3a0f00289:h2h|888sport|Olimpia Asunción",
+    "454416c624ed33fb0838b2b3a0f00289:h2h|Betfair|Olimpia Asunción",
+    "454416c624ed33fb0838b2b3a0f00289:h2h|Coolbet|Olimpia Asunción",
+    "454416c624ed33fb0838b2b3a0f00289:h2h|LeoVegas (SE)|Olimpia Asunción",
+    "454416c624ed33fb0838b2b3a0f00289:h2h|Nordic Bet|Olimpia Asunción",
+    "454416c624ed33fb0838b2b3a0f00289:h2h|PMU (FR)|Olimpia Asunción",
+    "454416c624ed33fb0838b2b3a0f00289:h2h|Unibet (NL)|Olimpia Asunción",
     "75a9e9d10a96820fadf35bfa73647855:h2h|Betfair|Mirassol",
-    "afba509cfb6e88cebece47883ed2c6f4:h2h|888sport|Draw",
-    "afba509cfb6e88cebece47883ed2c6f4:h2h|888sport|Sheffield Wednesday",
-    "afba509cfb6e88cebece47883ed2c6f4:h2h|Betfair|Draw",
-    "afba509cfb6e88cebece47883ed2c6f4:h2h|Betfair|Sheffield Wednesday",
-    "afba509cfb6e88cebece47883ed2c6f4:h2h|Coolbet|Draw",
-    "afba509cfb6e88cebece47883ed2c6f4:h2h|Coolbet|Sheffield Wednesday",
-    "afba509cfb6e88cebece47883ed2c6f4:h2h|LeoVegas (SE)|Draw",
-    "afba509cfb6e88cebece47883ed2c6f4:h2h|LeoVegas (SE)|Sheffield Wednesday",
-    "afba509cfb6e88cebece47883ed2c6f4:h2h|Tipico|Draw",
-    "afba509cfb6e88cebece47883ed2c6f4:h2h|Tipico|Sheffield Wednesday",
-    "afba509cfb6e88cebece47883ed2c6f4:h2h|Unibet (NL)|Draw",
-    "afba509cfb6e88cebece47883ed2c6f4:h2h|Unibet (NL)|Sheffield Wednesday",
-    "afba509cfb6e88cebece47883ed2c6f4:h2h|Unibet (SE)|Draw",
-    "afba509cfb6e88cebece47883ed2c6f4:h2h|Unibet (SE)|Sheffield Wednesday"
+    "7ef10ffc03dd15ce682655f3868e9332:h2h|888sport|Santos",
+    "7ef10ffc03dd15ce682655f3868e9332:h2h|Betfair|Santos",
+    "7ef10ffc03dd15ce682655f3868e9332:h2h|Coolbet|Santos",
+    "7ef10ffc03dd15ce682655f3868e9332:h2h|Nordic Bet|Santos",
+    "acd8aa932b98f8af48f42e1d2e35c49b:h2h|Matchbook|Athletic Club (MG)"
   ]
 }
