@@ -1,211 +1,291 @@
 {
   "snapshots": {
-    "14b96e8187af15d1fb36a3dcdcc7a94e:h2h": {
-      "Betfair": {
-        "FC Cincinnati": 1.03,
-        "New York City FC": 3.0,
-        "Draw": 32.0
-      },
-      "Nordic Bet": {
-        "FC Cincinnati": 1.0,
-        "New York City FC": 101.0,
-        "Draw": 15.0
-      },
-      "Betsson": {
-        "FC Cincinnati": 1.0,
-        "New York City FC": 101.0,
-        "Draw": 15.0
-      },
-      "Pinnacle": {
-        "FC Cincinnati": 6.72,
-        "New York City FC": 8.2,
-        "Draw": 1.26
-      },
-      "Tipico": {
-        "FC Cincinnati": 1.01,
-        "New York City FC": 500.0,
-        "Draw": 13.0
-      }
-    },
-    "b0008918d077b2578c42dfc8e47054b4:h2h": {
-      "Winamax (DE)": {
-        "Inter Miami CF": 29.0,
-        "Philadelphia Union": 16.0,
-        "Draw": 1.03
-      },
-      "Winamax (FR)": {
-        "Inter Miami CF": 29.0,
-        "Philadelphia Union": 15.0,
-        "Draw": 1.06
-      },
+    "5272777a4297a857ce64730e5acad9c0:h2h": {
       "Coolbet": {
-        "Inter Miami CF": 20.0,
-        "Philadelphia Union": 15.0,
-        "Draw": 1.05
-      },
-      "888sport": {
-        "Inter Miami CF": 10.0,
-        "Philadelphia Union": 7.0,
-        "Draw": 1.18
-      },
-      "Betfair": {
-        "Inter Miami CF": 17.5,
-        "Philadelphia Union": 21.0,
-        "Draw": 1.04
-      },
-      "MyBookie.ag": {
-        "Inter Miami CF": 7.25,
-        "Philadelphia Union": 6.25,
-        "Draw": 1.2
-      },
-      "Unibet (SE)": {
-        "Inter Miami CF": 17.0,
-        "Philadelphia Union": 18.0,
-        "Draw": 1.04
-      },
-      "PMU (FR)": {
-        "Inter Miami CF": 12.0,
-        "Philadelphia Union": 11.5,
-        "Draw": 1.01
-      },
-      "Unibet (NL)": {
-        "Inter Miami CF": 15.0,
-        "Philadelphia Union": 18.0,
-        "Draw": 1.03
-      },
-      "LeoVegas (SE)": {
-        "Inter Miami CF": 16.0,
-        "Philadelphia Union": 18.0,
-        "Draw": 1.01
-      },
-      "Nordic Bet": {
-        "Inter Miami CF": 19.0,
-        "Philadelphia Union": 15.0,
-        "Draw": 1.05
-      },
-      "Betsson": {
-        "Inter Miami CF": 19.0,
-        "Philadelphia Union": 15.0,
-        "Draw": 1.05
-      },
-      "Pinnacle": {
-        "Inter Miami CF": 6.07,
-        "Philadelphia Union": 5.19,
-        "Draw": 1.41
-      },
-      "Tipico": {
-        "Inter Miami CF": 25.0,
-        "Philadelphia Union": 12.0,
-        "Draw": 1.04
-      }
-    },
-    "7223e207f74e072fe9946a77a80670c1:h2h": {
-      "Coolbet": {
-        "Nashville SC": 1.0,
-        "New York Red Bulls": 100.0,
-        "Draw": 16.0
+        "Chicago Fire": 1.06,
+        "Orlando City SC": 100.0,
+        "Draw": 8.0
       },
       "Winamax (DE)": {
-        "Nashville SC": 1.03,
-        "New York Red Bulls": 140.0,
+        "Chicago Fire": 1.03,
+        "Orlando City SC": 140.0,
         "Draw": 12.0
       },
-      "888sport": {
-        "Nashville SC": 1.06,
-        "New York Red Bulls": 101.0,
-        "Draw": 10.0
-      },
       "Winamax (FR)": {
-        "Nashville SC": 1.05,
-        "New York Red Bulls": 140.0,
+        "Chicago Fire": 1.05,
+        "Orlando City SC": 140.0,
         "Draw": 11.0
+      },
+      "Betclic (FR)": {
+        "Chicago Fire": 1.05,
+        "Orlando City SC": 110.0,
+        "Draw": 5.75
       },
       "Betfair": {
-        "Nashville SC": 1.01,
-        "New York Red Bulls": 1.5,
-        "Draw": 1.23
+        "Chicago Fire": 1.07,
+        "Orlando City SC": 200.0,
+        "Draw": 1.21
       },
       "Betsson": {
-        "Nashville SC": 1.03,
-        "New York Red Bulls": 150.0,
-        "Draw": 10.0
+        "Chicago Fire": 1.04,
+        "Orlando City SC": 200.0,
+        "Draw": 9.5
       },
       "Nordic Bet": {
-        "Nashville SC": 1.03,
-        "New York Red Bulls": 150.0,
-        "Draw": 10.0
-      },
-      "Pinnacle": {
-        "Nashville SC": 6.31,
-        "New York Red Bulls": 7.01,
-        "Draw": 1.31
+        "Chicago Fire": 1.06,
+        "Orlando City SC": 65.0,
+        "Draw": 7.2
       },
       "Tipico": {
-        "Nashville SC": 1.02,
-        "New York Red Bulls": 150.0,
-        "Draw": 11.0
+        "Chicago Fire": 1.03,
+        "Orlando City SC": 90.0,
+        "Draw": 8.5
       }
     },
-    "4db00a59112cd720836cc81f5f166891:h2h": {
+    "c2901f48a23b3546e3552f939ae9ef66:h2h": {
+      "Coolbet": {
+        "Austin FC": 5.0,
+        "Seattle Sounders FC": 2.6,
+        "Draw": 2.0
+      },
       "Winamax (DE)": {
-        "Charlotte FC": 6.25,
-        "Toronto FC": 14.0,
-        "Draw": 1.16
+        "Austin FC": 1.48,
+        "Seattle Sounders FC": 7.75,
+        "Draw": 3.4
+      },
+      "888sport": {
+        "Austin FC": 4.6,
+        "Seattle Sounders FC": 2.5,
+        "Draw": 2.05
       },
       "Winamax (FR)": {
-        "Charlotte FC": 5.9,
-        "Toronto FC": 13.0,
-        "Draw": 1.18
+        "Austin FC": 1.46,
+        "Seattle Sounders FC": 7.25,
+        "Draw": 3.3
       },
-      "Coolbet": {
-        "Charlotte FC": 14.0,
-        "Toronto FC": 35.0,
-        "Draw": 1.03
+      "Betclic (FR)": {
+        "Austin FC": 1.53,
+        "Seattle Sounders FC": 7.25,
+        "Draw": 3.02
       },
       "Betfair": {
-        "Charlotte FC": 1.01,
-        "Toronto FC": 1.01,
-        "Draw": 1.01
+        "Austin FC": 5.4,
+        "Seattle Sounders FC": 2.6,
+        "Draw": 2.26
       },
       "MyBookie.ag": {
-        "Charlotte FC": 7.0,
-        "Toronto FC": 11.0,
-        "Draw": 1.1
+        "Austin FC": 1.55,
+        "Seattle Sounders FC": 6.75,
+        "Draw": 3.25
       },
       "Unibet (NL)": {
-        "Charlotte FC": 17.0,
-        "Toronto FC": 23.0,
-        "Draw": 1.01
+        "Austin FC": 1.62,
+        "Seattle Sounders FC": 7.5,
+        "Draw": 3.05
       },
       "Unibet (SE)": {
-        "Charlotte FC": 17.0,
-        "Toronto FC": 23.0,
-        "Draw": 1.04
-      },
-      "LeoVegas (SE)": {
-        "Charlotte FC": 12.5,
-        "Toronto FC": 19.0,
-        "Draw": 1.03
+        "Austin FC": 1.6,
+        "Seattle Sounders FC": 8.0,
+        "Draw": 3.05
       },
       "PMU (FR)": {
-        "Charlotte FC": 8.0,
-        "Toronto FC": 12.5,
-        "Draw": 1.05
+        "Austin FC": 1.5,
+        "Seattle Sounders FC": 7.0,
+        "Draw": 2.8
+      },
+      "LeoVegas (SE)": {
+        "Austin FC": 1.56,
+        "Seattle Sounders FC": 7.0,
+        "Draw": 2.95
       },
       "Nordic Bet": {
-        "Charlotte FC": 9.1,
-        "Toronto FC": 21.0,
-        "Draw": 1.06
+        "Austin FC": 4.85,
+        "Seattle Sounders FC": 2.55,
+        "Draw": 2.02
       },
       "Betsson": {
-        "Charlotte FC": 15.0,
-        "Toronto FC": 34.0,
-        "Draw": 1.02
+        "Austin FC": 1.52,
+        "Seattle Sounders FC": 7.7,
+        "Draw": 3.2
+      },
+      "Pinnacle": {
+        "Austin FC": 4.78,
+        "Seattle Sounders FC": 2.37,
+        "Draw": 2.33
       },
       "Tipico": {
-        "Charlotte FC": 7.5,
-        "Toronto FC": 20.0,
-        "Draw": 1.1
+        "Austin FC": 1.5,
+        "Seattle Sounders FC": 8.5,
+        "Draw": 3.2
+      },
+      "Matchbook": {
+        "Austin FC": 1.66,
+        "Seattle Sounders FC": 10.0,
+        "Draw": 3.35
+      }
+    },
+    "a17888b50cffbbfd73fea1a7265df61e:h2h": {
+      "Winamax (DE)": {
+        "Colorado Rapids": 1.29,
+        "Los Angeles FC": 12.5,
+        "Draw": 4.2
+      },
+      "Coolbet": {
+        "Colorado Rapids": 1.29,
+        "Los Angeles FC": 13.0,
+        "Draw": 4.33
+      },
+      "Winamax (FR)": {
+        "Colorado Rapids": 1.3,
+        "Los Angeles FC": 11.5,
+        "Draw": 4.0
+      },
+      "Betclic (FR)": {
+        "Colorado Rapids": 1.28,
+        "Los Angeles FC": 12.5,
+        "Draw": 3.78
+      },
+      "888sport": {
+        "Colorado Rapids": 1.3,
+        "Los Angeles FC": 12.0,
+        "Draw": 4.0
+      },
+      "Betfair": {
+        "Colorado Rapids": 1.36,
+        "Los Angeles FC": 15.5,
+        "Draw": 4.7
+      },
+      "MyBookie.ag": {
+        "Colorado Rapids": 1.3,
+        "Los Angeles FC": 9.75,
+        "Draw": 4.2
+      },
+      "Unibet (SE)": {
+        "Colorado Rapids": 1.3,
+        "Los Angeles FC": 13.0,
+        "Draw": 4.2
+      },
+      "LeoVegas (SE)": {
+        "Colorado Rapids": 1.3,
+        "Los Angeles FC": 13.0,
+        "Draw": 4.2
+      },
+      "PMU (FR)": {
+        "Colorado Rapids": 1.22,
+        "Los Angeles FC": 12.0,
+        "Draw": 3.9
+      },
+      "Unibet (NL)": {
+        "Colorado Rapids": 1.3,
+        "Los Angeles FC": 13.0,
+        "Draw": 4.2
+      },
+      "Nordic Bet": {
+        "Colorado Rapids": 1.28,
+        "Los Angeles FC": 12.5,
+        "Draw": 4.2
+      },
+      "Betsson": {
+        "Colorado Rapids": 1.28,
+        "Los Angeles FC": 14.0,
+        "Draw": 4.1
+      },
+      "Pinnacle": {
+        "Colorado Rapids": 1.38,
+        "Los Angeles FC": 11.25,
+        "Draw": 4.13
+      },
+      "Tipico": {
+        "Colorado Rapids": 1.3,
+        "Los Angeles FC": 10.0,
+        "Draw": 4.5
+      },
+      "Matchbook": {
+        "Colorado Rapids": 1.36,
+        "Los Angeles FC": 17.0,
+        "Draw": 4.8
+      }
+    },
+    "8c84a04394a475ece8d03e092ce43dbe:h2h": {
+      "Coolbet": {
+        "FC Dallas": 1.8,
+        "Real Salt Lake": 5.5,
+        "Draw": 3.0
+      },
+      "Winamax (DE)": {
+        "FC Dallas": 4.6,
+        "Real Salt Lake": 2.3,
+        "Draw": 2.2
+      },
+      "Winamax (FR)": {
+        "FC Dallas": 4.4,
+        "Real Salt Lake": 2.2,
+        "Draw": 2.1
+      },
+      "Betclic (FR)": {
+        "FC Dallas": 4.45,
+        "Real Salt Lake": 2.18,
+        "Draw": 2.22
+      },
+      "888sport": {
+        "FC Dallas": 1.7,
+        "Real Salt Lake": 5.0,
+        "Draw": 3.1
+      },
+      "Betfair": {
+        "FC Dallas": 4.7,
+        "Real Salt Lake": 2.24,
+        "Draw": 2.46
+      },
+      "MyBookie.ag": {
+        "FC Dallas": 4.35,
+        "Real Salt Lake": 2.3,
+        "Draw": 2.3
+      },
+      "PMU (FR)": {
+        "FC Dallas": 4.2,
+        "Real Salt Lake": 2.18,
+        "Draw": 2.12
+      },
+      "LeoVegas (SE)": {
+        "FC Dallas": 4.35,
+        "Real Salt Lake": 2.28,
+        "Draw": 2.23
+      },
+      "Unibet (NL)": {
+        "FC Dallas": 4.5,
+        "Real Salt Lake": 2.35,
+        "Draw": 2.3
+      },
+      "Unibet (SE)": {
+        "FC Dallas": 4.5,
+        "Real Salt Lake": 2.35,
+        "Draw": 2.3
+      },
+      "Nordic Bet": {
+        "FC Dallas": 4.85,
+        "Real Salt Lake": 2.05,
+        "Draw": 2.45
+      },
+      "Betsson": {
+        "FC Dallas": 4.6,
+        "Real Salt Lake": 2.3,
+        "Draw": 2.25
+      },
+      "Pinnacle": {
+        "FC Dallas": 1.86,
+        "Real Salt Lake": 5.2,
+        "Draw": 3.04
+      },
+      "Tipico": {
+        "FC Dallas": 5.2,
+        "Real Salt Lake": 2.2,
+        "Draw": 2.2
+      },
+      "Matchbook": {
+        "FC Dallas": 4.9,
+        "Real Salt Lake": 2.48,
+        "Draw": 2.42
       }
     }
   },
@@ -10066,56 +10146,825 @@
       "confidence": 689,
       "alert_type": "value",
       "alerted_at": "2026-08-20T01:48:37.616138+00:00"
+    },
+    {
+      "state_key": "c2901f48a23b3546e3552f939ae9ef66:h2h",
+      "event_id": "c2901f48a23b3546e3552f939ae9ef66",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Seattle Sounders FC",
+      "away_team": "Austin FC",
+      "commence_time": "2026-08-20T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Seattle Sounders FC",
+      "odds_at_alert": 7.75,
+      "stake_pct": 5.0,
+      "confidence": 208,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T03:07:21.960635+00:00"
+    },
+    {
+      "state_key": "c2901f48a23b3546e3552f939ae9ef66:h2h",
+      "event_id": "c2901f48a23b3546e3552f939ae9ef66",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Seattle Sounders FC",
+      "away_team": "Austin FC",
+      "commence_time": "2026-08-20T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.4,
+      "stake_pct": 5.0,
+      "confidence": 38,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T03:07:22.287927+00:00"
+    },
+    {
+      "state_key": "c2901f48a23b3546e3552f939ae9ef66:h2h",
+      "event_id": "c2901f48a23b3546e3552f939ae9ef66",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Seattle Sounders FC",
+      "away_team": "Austin FC",
+      "commence_time": "2026-08-20T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Seattle Sounders FC",
+      "odds_at_alert": 7.25,
+      "stake_pct": 5.0,
+      "confidence": 189,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T03:07:22.595407+00:00"
+    },
+    {
+      "state_key": "c2901f48a23b3546e3552f939ae9ef66:h2h",
+      "event_id": "c2901f48a23b3546e3552f939ae9ef66",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Seattle Sounders FC",
+      "away_team": "Austin FC",
+      "commence_time": "2026-08-20T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.3,
+      "stake_pct": 5.0,
+      "confidence": 34,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T03:07:22.911299+00:00"
+    },
+    {
+      "state_key": "c2901f48a23b3546e3552f939ae9ef66:h2h",
+      "event_id": "c2901f48a23b3546e3552f939ae9ef66",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Seattle Sounders FC",
+      "away_team": "Austin FC",
+      "commence_time": "2026-08-20T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Seattle Sounders FC",
+      "odds_at_alert": 7.25,
+      "stake_pct": 5.0,
+      "confidence": 189,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T03:07:23.214764+00:00"
+    },
+    {
+      "state_key": "c2901f48a23b3546e3552f939ae9ef66:h2h",
+      "event_id": "c2901f48a23b3546e3552f939ae9ef66",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Seattle Sounders FC",
+      "away_team": "Austin FC",
+      "commence_time": "2026-08-20T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.02,
+      "stake_pct": 5.0,
+      "confidence": 22,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T03:07:23.523727+00:00"
+    },
+    {
+      "state_key": "c2901f48a23b3546e3552f939ae9ef66:h2h",
+      "event_id": "c2901f48a23b3546e3552f939ae9ef66",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Seattle Sounders FC",
+      "away_team": "Austin FC",
+      "commence_time": "2026-08-20T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Austin FC",
+      "odds_at_alert": 5.4,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T03:07:23.833846+00:00"
+    },
+    {
+      "state_key": "c2901f48a23b3546e3552f939ae9ef66:h2h",
+      "event_id": "c2901f48a23b3546e3552f939ae9ef66",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Seattle Sounders FC",
+      "away_team": "Austin FC",
+      "commence_time": "2026-08-20T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Seattle Sounders FC",
+      "odds_at_alert": 6.75,
+      "stake_pct": 5.0,
+      "confidence": 169,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T03:07:24.163017+00:00"
+    },
+    {
+      "state_key": "c2901f48a23b3546e3552f939ae9ef66:h2h",
+      "event_id": "c2901f48a23b3546e3552f939ae9ef66",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Seattle Sounders FC",
+      "away_team": "Austin FC",
+      "commence_time": "2026-08-20T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.25,
+      "stake_pct": 5.0,
+      "confidence": 32,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T03:07:24.480152+00:00"
+    },
+    {
+      "state_key": "c2901f48a23b3546e3552f939ae9ef66:h2h",
+      "event_id": "c2901f48a23b3546e3552f939ae9ef66",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Seattle Sounders FC",
+      "away_team": "Austin FC",
+      "commence_time": "2026-08-20T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Seattle Sounders FC",
+      "odds_at_alert": 7.5,
+      "stake_pct": 5.0,
+      "confidence": 198,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T03:07:24.813310+00:00"
+    },
+    {
+      "state_key": "c2901f48a23b3546e3552f939ae9ef66:h2h",
+      "event_id": "c2901f48a23b3546e3552f939ae9ef66",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Seattle Sounders FC",
+      "away_team": "Austin FC",
+      "commence_time": "2026-08-20T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.05,
+      "stake_pct": 5.0,
+      "confidence": 23,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T03:07:25.169289+00:00"
+    },
+    {
+      "state_key": "c2901f48a23b3546e3552f939ae9ef66:h2h",
+      "event_id": "c2901f48a23b3546e3552f939ae9ef66",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Seattle Sounders FC",
+      "away_team": "Austin FC",
+      "commence_time": "2026-08-20T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Seattle Sounders FC",
+      "odds_at_alert": 8.0,
+      "stake_pct": 5.0,
+      "confidence": 218,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T03:07:25.475313+00:00"
+    },
+    {
+      "state_key": "c2901f48a23b3546e3552f939ae9ef66:h2h",
+      "event_id": "c2901f48a23b3546e3552f939ae9ef66",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Seattle Sounders FC",
+      "away_team": "Austin FC",
+      "commence_time": "2026-08-20T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.05,
+      "stake_pct": 5.0,
+      "confidence": 23,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T03:07:25.798589+00:00"
+    },
+    {
+      "state_key": "c2901f48a23b3546e3552f939ae9ef66:h2h",
+      "event_id": "c2901f48a23b3546e3552f939ae9ef66",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Seattle Sounders FC",
+      "away_team": "Austin FC",
+      "commence_time": "2026-08-20T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Seattle Sounders FC",
+      "odds_at_alert": 7.0,
+      "stake_pct": 5.0,
+      "confidence": 179,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T03:07:26.107719+00:00"
+    },
+    {
+      "state_key": "c2901f48a23b3546e3552f939ae9ef66:h2h",
+      "event_id": "c2901f48a23b3546e3552f939ae9ef66",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Seattle Sounders FC",
+      "away_team": "Austin FC",
+      "commence_time": "2026-08-20T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 2.8,
+      "stake_pct": 3.0,
+      "confidence": 13,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T03:07:26.416091+00:00"
+    },
+    {
+      "state_key": "c2901f48a23b3546e3552f939ae9ef66:h2h",
+      "event_id": "c2901f48a23b3546e3552f939ae9ef66",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Seattle Sounders FC",
+      "away_team": "Austin FC",
+      "commence_time": "2026-08-20T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Seattle Sounders FC",
+      "odds_at_alert": 7.0,
+      "stake_pct": 5.0,
+      "confidence": 179,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T03:07:26.732958+00:00"
+    },
+    {
+      "state_key": "c2901f48a23b3546e3552f939ae9ef66:h2h",
+      "event_id": "c2901f48a23b3546e3552f939ae9ef66",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Seattle Sounders FC",
+      "away_team": "Austin FC",
+      "commence_time": "2026-08-20T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 2.95,
+      "stake_pct": 5.0,
+      "confidence": 19,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T03:07:27.075043+00:00"
+    },
+    {
+      "state_key": "c2901f48a23b3546e3552f939ae9ef66:h2h",
+      "event_id": "c2901f48a23b3546e3552f939ae9ef66",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Seattle Sounders FC",
+      "away_team": "Austin FC",
+      "commence_time": "2026-08-20T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Seattle Sounders FC",
+      "odds_at_alert": 7.7,
+      "stake_pct": 5.0,
+      "confidence": 206,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T03:07:27.387420+00:00"
+    },
+    {
+      "state_key": "c2901f48a23b3546e3552f939ae9ef66:h2h",
+      "event_id": "c2901f48a23b3546e3552f939ae9ef66",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Seattle Sounders FC",
+      "away_team": "Austin FC",
+      "commence_time": "2026-08-20T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.2,
+      "stake_pct": 5.0,
+      "confidence": 30,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T03:07:27.712058+00:00"
+    },
+    {
+      "state_key": "c2901f48a23b3546e3552f939ae9ef66:h2h",
+      "event_id": "c2901f48a23b3546e3552f939ae9ef66",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Seattle Sounders FC",
+      "away_team": "Austin FC",
+      "commence_time": "2026-08-20T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Seattle Sounders FC",
+      "odds_at_alert": 8.5,
+      "stake_pct": 5.0,
+      "confidence": 238,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T03:07:28.015689+00:00"
+    },
+    {
+      "state_key": "c2901f48a23b3546e3552f939ae9ef66:h2h",
+      "event_id": "c2901f48a23b3546e3552f939ae9ef66",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Seattle Sounders FC",
+      "away_team": "Austin FC",
+      "commence_time": "2026-08-20T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.2,
+      "stake_pct": 5.0,
+      "confidence": 30,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T03:07:28.352933+00:00"
+    },
+    {
+      "state_key": "c2901f48a23b3546e3552f939ae9ef66:h2h",
+      "event_id": "c2901f48a23b3546e3552f939ae9ef66",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Seattle Sounders FC",
+      "away_team": "Austin FC",
+      "commence_time": "2026-08-20T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Seattle Sounders FC",
+      "odds_at_alert": 10.0,
+      "stake_pct": 5.0,
+      "confidence": 298,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T03:07:28.711762+00:00"
+    },
+    {
+      "state_key": "c2901f48a23b3546e3552f939ae9ef66:h2h",
+      "event_id": "c2901f48a23b3546e3552f939ae9ef66",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Seattle Sounders FC",
+      "away_team": "Austin FC",
+      "commence_time": "2026-08-20T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.35,
+      "stake_pct": 5.0,
+      "confidence": 36,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T03:07:29.039165+00:00"
+    },
+    {
+      "state_key": "a17888b50cffbbfd73fea1a7265df61e:h2h",
+      "event_id": "a17888b50cffbbfd73fea1a7265df61e",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Colorado Rapids",
+      "away_team": "Los Angeles FC",
+      "commence_time": "2026-08-20T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Los Angeles FC",
+      "odds_at_alert": 12.5,
+      "stake_pct": 2.0,
+      "confidence": 5,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T03:07:29.363153+00:00"
+    },
+    {
+      "state_key": "a17888b50cffbbfd73fea1a7265df61e:h2h",
+      "event_id": "a17888b50cffbbfd73fea1a7265df61e",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Colorado Rapids",
+      "away_team": "Los Angeles FC",
+      "commence_time": "2026-08-20T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Los Angeles FC",
+      "odds_at_alert": 13.0,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T03:07:29.709476+00:00"
+    },
+    {
+      "state_key": "a17888b50cffbbfd73fea1a7265df61e:h2h",
+      "event_id": "a17888b50cffbbfd73fea1a7265df61e",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Colorado Rapids",
+      "away_team": "Los Angeles FC",
+      "commence_time": "2026-08-20T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Los Angeles FC",
+      "odds_at_alert": 12.5,
+      "stake_pct": 2.0,
+      "confidence": 5,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T03:07:30.206969+00:00"
+    },
+    {
+      "state_key": "a17888b50cffbbfd73fea1a7265df61e:h2h",
+      "event_id": "a17888b50cffbbfd73fea1a7265df61e",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Colorado Rapids",
+      "away_team": "Los Angeles FC",
+      "commence_time": "2026-08-20T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Los Angeles FC",
+      "odds_at_alert": 15.5,
+      "stake_pct": 5.0,
+      "confidence": 31,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T03:07:30.523593+00:00"
+    },
+    {
+      "state_key": "a17888b50cffbbfd73fea1a7265df61e:h2h",
+      "event_id": "a17888b50cffbbfd73fea1a7265df61e",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Colorado Rapids",
+      "away_team": "Los Angeles FC",
+      "commence_time": "2026-08-20T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.7,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T03:07:30.849398+00:00"
+    },
+    {
+      "state_key": "a17888b50cffbbfd73fea1a7265df61e:h2h",
+      "event_id": "a17888b50cffbbfd73fea1a7265df61e",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Colorado Rapids",
+      "away_team": "Los Angeles FC",
+      "commence_time": "2026-08-20T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Los Angeles FC",
+      "odds_at_alert": 13.0,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T03:07:31.163494+00:00"
+    },
+    {
+      "state_key": "a17888b50cffbbfd73fea1a7265df61e:h2h",
+      "event_id": "a17888b50cffbbfd73fea1a7265df61e",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Colorado Rapids",
+      "away_team": "Los Angeles FC",
+      "commence_time": "2026-08-20T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Los Angeles FC",
+      "odds_at_alert": 13.0,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T03:07:31.486040+00:00"
+    },
+    {
+      "state_key": "a17888b50cffbbfd73fea1a7265df61e:h2h",
+      "event_id": "a17888b50cffbbfd73fea1a7265df61e",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Colorado Rapids",
+      "away_team": "Los Angeles FC",
+      "commence_time": "2026-08-20T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Los Angeles FC",
+      "odds_at_alert": 13.0,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T03:07:31.803868+00:00"
+    },
+    {
+      "state_key": "a17888b50cffbbfd73fea1a7265df61e:h2h",
+      "event_id": "a17888b50cffbbfd73fea1a7265df61e",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Colorado Rapids",
+      "away_team": "Los Angeles FC",
+      "commence_time": "2026-08-20T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Los Angeles FC",
+      "odds_at_alert": 12.5,
+      "stake_pct": 2.0,
+      "confidence": 5,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T03:07:32.159847+00:00"
+    },
+    {
+      "state_key": "a17888b50cffbbfd73fea1a7265df61e:h2h",
+      "event_id": "a17888b50cffbbfd73fea1a7265df61e",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Colorado Rapids",
+      "away_team": "Los Angeles FC",
+      "commence_time": "2026-08-20T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Los Angeles FC",
+      "odds_at_alert": 14.0,
+      "stake_pct": 5.0,
+      "confidence": 18,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T03:07:32.495733+00:00"
+    },
+    {
+      "state_key": "a17888b50cffbbfd73fea1a7265df61e:h2h",
+      "event_id": "a17888b50cffbbfd73fea1a7265df61e",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Colorado Rapids",
+      "away_team": "Los Angeles FC",
+      "commence_time": "2026-08-20T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Los Angeles FC",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 43,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T03:07:32.808078+00:00"
+    },
+    {
+      "state_key": "a17888b50cffbbfd73fea1a7265df61e:h2h",
+      "event_id": "a17888b50cffbbfd73fea1a7265df61e",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Colorado Rapids",
+      "away_team": "Los Angeles FC",
+      "commence_time": "2026-08-20T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.8,
+      "stake_pct": 3.0,
+      "confidence": 10,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T03:07:33.184275+00:00"
+    },
+    {
+      "state_key": "8c84a04394a475ece8d03e092ce43dbe:h2h",
+      "event_id": "8c84a04394a475ece8d03e092ce43dbe",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Real Salt Lake",
+      "away_team": "FC Dallas",
+      "commence_time": "2026-08-20T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Dallas",
+      "odds_at_alert": 4.6,
+      "stake_pct": 5.0,
+      "confidence": 134,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T03:07:33.568149+00:00"
+    },
+    {
+      "state_key": "8c84a04394a475ece8d03e092ce43dbe:h2h",
+      "event_id": "8c84a04394a475ece8d03e092ce43dbe",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Real Salt Lake",
+      "away_team": "FC Dallas",
+      "commence_time": "2026-08-20T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Dallas",
+      "odds_at_alert": 4.4,
+      "stake_pct": 5.0,
+      "confidence": 123,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T03:07:33.873055+00:00"
+    },
+    {
+      "state_key": "8c84a04394a475ece8d03e092ce43dbe:h2h",
+      "event_id": "8c84a04394a475ece8d03e092ce43dbe",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Real Salt Lake",
+      "away_team": "FC Dallas",
+      "commence_time": "2026-08-20T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Dallas",
+      "odds_at_alert": 4.45,
+      "stake_pct": 5.0,
+      "confidence": 126,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T03:07:34.173588+00:00"
+    },
+    {
+      "state_key": "8c84a04394a475ece8d03e092ce43dbe:h2h",
+      "event_id": "8c84a04394a475ece8d03e092ce43dbe",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Real Salt Lake",
+      "away_team": "FC Dallas",
+      "commence_time": "2026-08-20T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Dallas",
+      "odds_at_alert": 4.7,
+      "stake_pct": 5.0,
+      "confidence": 139,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T03:07:34.487081+00:00"
+    },
+    {
+      "state_key": "8c84a04394a475ece8d03e092ce43dbe:h2h",
+      "event_id": "8c84a04394a475ece8d03e092ce43dbe",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Real Salt Lake",
+      "away_team": "FC Dallas",
+      "commence_time": "2026-08-20T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Dallas",
+      "odds_at_alert": 4.35,
+      "stake_pct": 5.0,
+      "confidence": 121,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T03:07:34.797633+00:00"
+    },
+    {
+      "state_key": "8c84a04394a475ece8d03e092ce43dbe:h2h",
+      "event_id": "8c84a04394a475ece8d03e092ce43dbe",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Real Salt Lake",
+      "away_team": "FC Dallas",
+      "commence_time": "2026-08-20T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Dallas",
+      "odds_at_alert": 4.2,
+      "stake_pct": 5.0,
+      "confidence": 113,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T03:07:35.110083+00:00"
+    },
+    {
+      "state_key": "8c84a04394a475ece8d03e092ce43dbe:h2h",
+      "event_id": "8c84a04394a475ece8d03e092ce43dbe",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Real Salt Lake",
+      "away_team": "FC Dallas",
+      "commence_time": "2026-08-20T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Dallas",
+      "odds_at_alert": 4.35,
+      "stake_pct": 5.0,
+      "confidence": 121,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T03:07:35.419737+00:00"
+    },
+    {
+      "state_key": "8c84a04394a475ece8d03e092ce43dbe:h2h",
+      "event_id": "8c84a04394a475ece8d03e092ce43dbe",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Real Salt Lake",
+      "away_team": "FC Dallas",
+      "commence_time": "2026-08-20T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Dallas",
+      "odds_at_alert": 4.5,
+      "stake_pct": 5.0,
+      "confidence": 128,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T03:07:35.766626+00:00"
+    },
+    {
+      "state_key": "8c84a04394a475ece8d03e092ce43dbe:h2h",
+      "event_id": "8c84a04394a475ece8d03e092ce43dbe",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Real Salt Lake",
+      "away_team": "FC Dallas",
+      "commence_time": "2026-08-20T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Dallas",
+      "odds_at_alert": 4.5,
+      "stake_pct": 5.0,
+      "confidence": 128,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T03:07:36.125915+00:00"
+    },
+    {
+      "state_key": "8c84a04394a475ece8d03e092ce43dbe:h2h",
+      "event_id": "8c84a04394a475ece8d03e092ce43dbe",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Real Salt Lake",
+      "away_team": "FC Dallas",
+      "commence_time": "2026-08-20T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Dallas",
+      "odds_at_alert": 4.85,
+      "stake_pct": 5.0,
+      "confidence": 146,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T03:07:36.472126+00:00"
+    },
+    {
+      "state_key": "8c84a04394a475ece8d03e092ce43dbe:h2h",
+      "event_id": "8c84a04394a475ece8d03e092ce43dbe",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Real Salt Lake",
+      "away_team": "FC Dallas",
+      "commence_time": "2026-08-20T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Dallas",
+      "odds_at_alert": 4.6,
+      "stake_pct": 5.0,
+      "confidence": 134,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T03:07:36.797602+00:00"
+    },
+    {
+      "state_key": "8c84a04394a475ece8d03e092ce43dbe:h2h",
+      "event_id": "8c84a04394a475ece8d03e092ce43dbe",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Real Salt Lake",
+      "away_team": "FC Dallas",
+      "commence_time": "2026-08-20T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Dallas",
+      "odds_at_alert": 5.2,
+      "stake_pct": 5.0,
+      "confidence": 164,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T03:07:37.106631+00:00"
+    },
+    {
+      "state_key": "8c84a04394a475ece8d03e092ce43dbe:h2h",
+      "event_id": "8c84a04394a475ece8d03e092ce43dbe",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Real Salt Lake",
+      "away_team": "FC Dallas",
+      "commence_time": "2026-08-20T01:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Dallas",
+      "odds_at_alert": 4.9,
+      "stake_pct": 5.0,
+      "confidence": 149,
+      "alert_type": "value",
+      "alerted_at": "2026-08-20T03:07:37.442765+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "14b96e8187af15d1fb36a3dcdcc7a94e:h2h|Betfair|Draw",
-    "14b96e8187af15d1fb36a3dcdcc7a94e:h2h|Betsson|Draw",
-    "14b96e8187af15d1fb36a3dcdcc7a94e:h2h|Betsson|New York City FC",
-    "14b96e8187af15d1fb36a3dcdcc7a94e:h2h|Nordic Bet|Draw",
-    "14b96e8187af15d1fb36a3dcdcc7a94e:h2h|Nordic Bet|New York City FC",
-    "14b96e8187af15d1fb36a3dcdcc7a94e:h2h|Tipico|Draw",
-    "14b96e8187af15d1fb36a3dcdcc7a94e:h2h|Tipico|New York City FC",
-    "7223e207f74e072fe9946a77a80670c1:h2h|888sport|Draw",
-    "7223e207f74e072fe9946a77a80670c1:h2h|888sport|New York Red Bulls",
-    "7223e207f74e072fe9946a77a80670c1:h2h|Betsson|Draw",
-    "7223e207f74e072fe9946a77a80670c1:h2h|Betsson|New York Red Bulls",
-    "7223e207f74e072fe9946a77a80670c1:h2h|Coolbet|Draw",
-    "7223e207f74e072fe9946a77a80670c1:h2h|Coolbet|New York Red Bulls",
-    "7223e207f74e072fe9946a77a80670c1:h2h|Nordic Bet|Draw",
-    "7223e207f74e072fe9946a77a80670c1:h2h|Nordic Bet|New York Red Bulls",
-    "7223e207f74e072fe9946a77a80670c1:h2h|Tipico|Draw",
-    "7223e207f74e072fe9946a77a80670c1:h2h|Tipico|New York Red Bulls",
-    "7223e207f74e072fe9946a77a80670c1:h2h|Winamax (DE)|Draw",
-    "7223e207f74e072fe9946a77a80670c1:h2h|Winamax (DE)|New York Red Bulls",
-    "7223e207f74e072fe9946a77a80670c1:h2h|Winamax (FR)|Draw",
-    "7223e207f74e072fe9946a77a80670c1:h2h|Winamax (FR)|New York Red Bulls",
-    "b0008918d077b2578c42dfc8e47054b4:h2h|888sport|Inter Miami CF",
-    "b0008918d077b2578c42dfc8e47054b4:h2h|888sport|Philadelphia Union",
-    "b0008918d077b2578c42dfc8e47054b4:h2h|Betfair|Inter Miami CF",
-    "b0008918d077b2578c42dfc8e47054b4:h2h|Betfair|Philadelphia Union",
-    "b0008918d077b2578c42dfc8e47054b4:h2h|Betsson|Inter Miami CF",
-    "b0008918d077b2578c42dfc8e47054b4:h2h|Betsson|Philadelphia Union",
-    "b0008918d077b2578c42dfc8e47054b4:h2h|Coolbet|Inter Miami CF",
-    "b0008918d077b2578c42dfc8e47054b4:h2h|Coolbet|Philadelphia Union",
-    "b0008918d077b2578c42dfc8e47054b4:h2h|LeoVegas (SE)|Inter Miami CF",
-    "b0008918d077b2578c42dfc8e47054b4:h2h|LeoVegas (SE)|Philadelphia Union",
-    "b0008918d077b2578c42dfc8e47054b4:h2h|MyBookie.ag|Inter Miami CF",
-    "b0008918d077b2578c42dfc8e47054b4:h2h|MyBookie.ag|Philadelphia Union",
-    "b0008918d077b2578c42dfc8e47054b4:h2h|Nordic Bet|Inter Miami CF",
-    "b0008918d077b2578c42dfc8e47054b4:h2h|Nordic Bet|Philadelphia Union",
-    "b0008918d077b2578c42dfc8e47054b4:h2h|PMU (FR)|Inter Miami CF",
-    "b0008918d077b2578c42dfc8e47054b4:h2h|PMU (FR)|Philadelphia Union",
-    "b0008918d077b2578c42dfc8e47054b4:h2h|Tipico|Inter Miami CF",
-    "b0008918d077b2578c42dfc8e47054b4:h2h|Tipico|Philadelphia Union",
-    "b0008918d077b2578c42dfc8e47054b4:h2h|Unibet (NL)|Inter Miami CF",
-    "b0008918d077b2578c42dfc8e47054b4:h2h|Unibet (NL)|Philadelphia Union",
-    "b0008918d077b2578c42dfc8e47054b4:h2h|Unibet (SE)|Inter Miami CF",
-    "b0008918d077b2578c42dfc8e47054b4:h2h|Unibet (SE)|Philadelphia Union",
-    "b0008918d077b2578c42dfc8e47054b4:h2h|Winamax (DE)|Inter Miami CF",
-    "b0008918d077b2578c42dfc8e47054b4:h2h|Winamax (DE)|Philadelphia Union",
-    "b0008918d077b2578c42dfc8e47054b4:h2h|Winamax (FR)|Inter Miami CF",
-    "b0008918d077b2578c42dfc8e47054b4:h2h|Winamax (FR)|Philadelphia Union"
+    "8c84a04394a475ece8d03e092ce43dbe:h2h|Betclic (FR)|FC Dallas",
+    "8c84a04394a475ece8d03e092ce43dbe:h2h|Betfair|FC Dallas",
+    "8c84a04394a475ece8d03e092ce43dbe:h2h|Betsson|FC Dallas",
+    "8c84a04394a475ece8d03e092ce43dbe:h2h|LeoVegas (SE)|FC Dallas",
+    "8c84a04394a475ece8d03e092ce43dbe:h2h|Matchbook|FC Dallas",
+    "8c84a04394a475ece8d03e092ce43dbe:h2h|MyBookie.ag|FC Dallas",
+    "8c84a04394a475ece8d03e092ce43dbe:h2h|Nordic Bet|FC Dallas",
+    "8c84a04394a475ece8d03e092ce43dbe:h2h|PMU (FR)|FC Dallas",
+    "8c84a04394a475ece8d03e092ce43dbe:h2h|Tipico|FC Dallas",
+    "8c84a04394a475ece8d03e092ce43dbe:h2h|Unibet (NL)|FC Dallas",
+    "8c84a04394a475ece8d03e092ce43dbe:h2h|Unibet (SE)|FC Dallas",
+    "8c84a04394a475ece8d03e092ce43dbe:h2h|Winamax (DE)|FC Dallas",
+    "8c84a04394a475ece8d03e092ce43dbe:h2h|Winamax (FR)|FC Dallas",
+    "a17888b50cffbbfd73fea1a7265df61e:h2h|Betclic (FR)|Los Angeles FC",
+    "a17888b50cffbbfd73fea1a7265df61e:h2h|Betfair|Draw",
+    "a17888b50cffbbfd73fea1a7265df61e:h2h|Betfair|Los Angeles FC",
+    "a17888b50cffbbfd73fea1a7265df61e:h2h|Betsson|Los Angeles FC",
+    "a17888b50cffbbfd73fea1a7265df61e:h2h|Coolbet|Los Angeles FC",
+    "a17888b50cffbbfd73fea1a7265df61e:h2h|LeoVegas (SE)|Los Angeles FC",
+    "a17888b50cffbbfd73fea1a7265df61e:h2h|Matchbook|Draw",
+    "a17888b50cffbbfd73fea1a7265df61e:h2h|Matchbook|Los Angeles FC",
+    "a17888b50cffbbfd73fea1a7265df61e:h2h|Nordic Bet|Los Angeles FC",
+    "a17888b50cffbbfd73fea1a7265df61e:h2h|Unibet (NL)|Los Angeles FC",
+    "a17888b50cffbbfd73fea1a7265df61e:h2h|Unibet (SE)|Los Angeles FC",
+    "a17888b50cffbbfd73fea1a7265df61e:h2h|Winamax (DE)|Los Angeles FC",
+    "c2901f48a23b3546e3552f939ae9ef66:h2h|Betclic (FR)|Draw",
+    "c2901f48a23b3546e3552f939ae9ef66:h2h|Betclic (FR)|Seattle Sounders FC",
+    "c2901f48a23b3546e3552f939ae9ef66:h2h|Betfair|Austin FC",
+    "c2901f48a23b3546e3552f939ae9ef66:h2h|Betsson|Draw",
+    "c2901f48a23b3546e3552f939ae9ef66:h2h|Betsson|Seattle Sounders FC",
+    "c2901f48a23b3546e3552f939ae9ef66:h2h|LeoVegas (SE)|Draw",
+    "c2901f48a23b3546e3552f939ae9ef66:h2h|LeoVegas (SE)|Seattle Sounders FC",
+    "c2901f48a23b3546e3552f939ae9ef66:h2h|Matchbook|Draw",
+    "c2901f48a23b3546e3552f939ae9ef66:h2h|Matchbook|Seattle Sounders FC",
+    "c2901f48a23b3546e3552f939ae9ef66:h2h|MyBookie.ag|Draw",
+    "c2901f48a23b3546e3552f939ae9ef66:h2h|MyBookie.ag|Seattle Sounders FC",
+    "c2901f48a23b3546e3552f939ae9ef66:h2h|PMU (FR)|Draw",
+    "c2901f48a23b3546e3552f939ae9ef66:h2h|PMU (FR)|Seattle Sounders FC",
+    "c2901f48a23b3546e3552f939ae9ef66:h2h|Tipico|Draw",
+    "c2901f48a23b3546e3552f939ae9ef66:h2h|Tipico|Seattle Sounders FC",
+    "c2901f48a23b3546e3552f939ae9ef66:h2h|Unibet (NL)|Draw",
+    "c2901f48a23b3546e3552f939ae9ef66:h2h|Unibet (NL)|Seattle Sounders FC",
+    "c2901f48a23b3546e3552f939ae9ef66:h2h|Unibet (SE)|Draw",
+    "c2901f48a23b3546e3552f939ae9ef66:h2h|Unibet (SE)|Seattle Sounders FC",
+    "c2901f48a23b3546e3552f939ae9ef66:h2h|Winamax (DE)|Draw",
+    "c2901f48a23b3546e3552f939ae9ef66:h2h|Winamax (DE)|Seattle Sounders FC",
+    "c2901f48a23b3546e3552f939ae9ef66:h2h|Winamax (FR)|Draw",
+    "c2901f48a23b3546e3552f939ae9ef66:h2h|Winamax (FR)|Seattle Sounders FC"
   ]
 }
