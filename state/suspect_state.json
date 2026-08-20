@@ -2,106 +2,106 @@
   "snapshots": {
     "52b63ea509dc2d9c78afb561d7aeba3e:h2h": {
       "Pinnacle": {
-        "Al-Fayha": 11.12,
-        "Al-Hilal": 1.21,
-        "Draw": 6.8
+        "Al-Fayha": 10.69,
+        "Al-Hilal": 1.22,
+        "Draw": 6.58
       },
       "Winamax (FR)": {
-        "Al-Fayha": 10.0,
-        "Al-Hilal": 1.17,
+        "Al-Fayha": 9.0,
+        "Al-Hilal": 1.19,
         "Draw": 6.0
       },
       "Unibet (SE)": {
-        "Al-Fayha": 9.5,
-        "Al-Hilal": 1.24,
-        "Draw": 5.3
+        "Al-Fayha": 10.5,
+        "Al-Hilal": 1.21,
+        "Draw": 5.75
       },
       "William Hill": {
-        "Al-Fayha": 12.0,
-        "Al-Hilal": 1.18,
+        "Al-Fayha": 9.5,
+        "Al-Hilal": 1.22,
         "Draw": 5.5
       },
       "Tipico": {
-        "Al-Fayha": 14.0,
-        "Al-Hilal": 1.17,
+        "Al-Fayha": 13.0,
+        "Al-Hilal": 1.18,
         "Draw": 6.2
       },
       "LeoVegas (SE)": {
-        "Al-Fayha": 9.5,
-        "Al-Hilal": 1.21,
-        "Draw": 5.25
+        "Al-Fayha": 10.5,
+        "Al-Hilal": 1.18,
+        "Draw": 5.6
       },
       "888sport": {
-        "Al-Fayha": 12.0,
-        "Al-Hilal": 1.18,
+        "Al-Fayha": 9.5,
+        "Al-Hilal": 1.22,
         "Draw": 5.5
       },
       "PMU (FR)": {
-        "Al-Fayha": 9.0,
-        "Al-Hilal": 1.17,
-        "Draw": 5.1
+        "Al-Fayha": 10.0,
+        "Al-Hilal": 1.14,
+        "Draw": 5.4
       },
       "Unibet (NL)": {
-        "Al-Fayha": 9.5,
-        "Al-Hilal": 1.24,
-        "Draw": 5.3
+        "Al-Fayha": 10.5,
+        "Al-Hilal": 1.21,
+        "Draw": 5.75
       },
       "Unibet (FR)": {
-        "Al-Fayha": 12.0,
-        "Al-Hilal": 1.18,
+        "Al-Fayha": 11.0,
+        "Al-Hilal": 1.19,
         "Draw": 6.3
       },
       "1xBet": {
-        "Al-Fayha": 12.3,
-        "Al-Hilal": 1.19,
-        "Draw": 6.84
+        "Al-Fayha": 11.4,
+        "Al-Hilal": 1.2,
+        "Draw": 6.6
       },
       "Winamax (DE)": {
-        "Al-Fayha": 10.5,
-        "Al-Hilal": 1.18,
-        "Draw": 6.5
-      },
-      "Betclic (FR)": {
-        "Al-Fayha": 12.0,
+        "Al-Fayha": 9.5,
         "Al-Hilal": 1.2,
         "Draw": 6.25
       },
+      "Betclic (FR)": {
+        "Al-Fayha": 9.75,
+        "Al-Hilal": 1.23,
+        "Draw": 6.25
+      },
       "Betfair": {
-        "Al-Fayha": 16.5,
-        "Al-Hilal": 1.24,
+        "Al-Fayha": 14.5,
+        "Al-Hilal": 1.25,
         "Draw": 6.8
       }
     },
     "4feb0ef58a41849f92fcc270268734d4:h2h": {
       "Unibet (FR)": {
-        "Alavés": 3.65,
-        "Rayo Vallecano": 2.25,
+        "Alavés": 3.5,
+        "Rayo Vallecano": 2.3,
         "Draw": 3.15
       },
       "Betclic (FR)": {
         "Alavés": 3.45,
-        "Rayo Vallecano": 2.3,
-        "Draw": 3.17
+        "Rayo Vallecano": 2.32,
+        "Draw": 3.13
       },
       "1xBet": {
-        "Alavés": 3.62,
-        "Rayo Vallecano": 2.36,
-        "Draw": 3.17
+        "Alavés": 3.5,
+        "Rayo Vallecano": 2.44,
+        "Draw": 3.13
       },
       "Codere (IT)": {
         "Alavés": 3.4,
-        "Rayo Vallecano": 2.3,
+        "Rayo Vallecano": 2.32,
         "Draw": 3.1
       },
       "Coolbet": {
-        "Alavés": 3.65,
-        "Rayo Vallecano": 2.3,
+        "Alavés": 3.55,
+        "Rayo Vallecano": 2.35,
         "Draw": 3.1
       },
       "Winamax (FR)": {
-        "Alavés": 3.35,
-        "Rayo Vallecano": 2.2,
-        "Draw": 3.05
+        "Alavés": 3.3,
+        "Rayo Vallecano": 2.25,
+        "Draw": 3.0
       },
       "Winamax (DE)": {
         "Alavés": 3.35,
@@ -109,80 +109,80 @@
         "Draw": 3.05
       },
       "William Hill": {
-        "Alavés": 3.4,
-        "Rayo Vallecano": 2.25,
+        "Alavés": 3.3,
+        "Rayo Vallecano": 2.3,
         "Draw": 2.9
       },
       "Betfair": {
         "Alavés": 3.7,
-        "Rayo Vallecano": 2.38,
-        "Draw": 3.2
+        "Rayo Vallecano": 2.4,
+        "Draw": 3.15
       },
       "Tipico": {
-        "Alavés": 3.5,
-        "Rayo Vallecano": 2.2,
+        "Alavés": 3.4,
+        "Rayo Vallecano": 2.25,
         "Draw": 3.1
       },
       "Nordic Bet": {
-        "Alavés": 3.45,
+        "Alavés": 3.35,
         "Rayo Vallecano": 2.32,
         "Draw": 3.0
       },
       "Betsson": {
-        "Alavés": 3.45,
+        "Alavés": 3.35,
         "Rayo Vallecano": 2.32,
         "Draw": 3.0
       },
       "Matchbook": {
         "Alavés": 3.7,
-        "Rayo Vallecano": 2.38,
-        "Draw": 3.2
+        "Rayo Vallecano": 2.4,
+        "Draw": 3.15
       },
       "Pinnacle": {
-        "Alavés": 3.61,
-        "Rayo Vallecano": 2.34,
-        "Draw": 3.1
+        "Alavés": 3.55,
+        "Rayo Vallecano": 2.38,
+        "Draw": 3.06
       },
       "PMU (FR)": {
-        "Alavés": 3.45,
-        "Rayo Vallecano": 2.25,
+        "Alavés": 3.4,
+        "Rayo Vallecano": 2.28,
         "Draw": 2.95
       },
       "Unibet (SE)": {
-        "Alavés": 3.65,
-        "Rayo Vallecano": 2.33,
+        "Alavés": 3.55,
+        "Rayo Vallecano": 2.38,
         "Draw": 3.1
       },
       "LeoVegas (SE)": {
-        "Alavés": 3.4,
-        "Rayo Vallecano": 2.23,
+        "Alavés": 3.35,
+        "Rayo Vallecano": 2.25,
         "Draw": 2.9
       },
       "Unibet (NL)": {
-        "Alavés": 3.65,
-        "Rayo Vallecano": 2.32,
+        "Alavés": 3.55,
+        "Rayo Vallecano": 2.35,
         "Draw": 3.1
       },
       "Marathon Bet": {
-        "Alavés": 3.56,
-        "Rayo Vallecano": 2.32,
-        "Draw": 3.12
+        "Alavés": 3.44,
+        "Rayo Vallecano": 2.4,
+        "Draw": 3.08
       },
       "BetOnline.ag": {
-        "Alavés": 3.7,
-        "Rayo Vallecano": 2.3,
-        "Draw": 3.03
+        "Alavés": 3.55,
+        "Rayo Vallecano": 2.34,
+        "Draw": 3.07
       },
       "Everygame": {
-        "Alavés": 3.5,
-        "Rayo Vallecano": 2.3,
+        "Alavés": 3.45,
+        "Rayo Vallecano": 2.35,
         "Draw": 3.0
       }
     },
     "afba509cfb6e88cebece47883ed2c6f4:h2h": {
       "1xBet": {
-        "Bradford City": 2.47,
-        "Sheffield Wednesday": 2.69,
+        "Bradford City": 2.43,
+        "Sheffield Wednesday": 2.74,
         "Draw": 3.38
       },
       "Coolbet": {
@@ -191,38 +191,38 @@
         "Draw": 3.3
       },
       "Codere (IT)": {
-        "Bradford City": 2.43,
-        "Sheffield Wednesday": 2.65,
+        "Bradford City": 2.37,
+        "Sheffield Wednesday": 2.7,
         "Draw": 3.25
       },
       "Marathon Bet": {
-        "Bradford City": 2.47,
-        "Sheffield Wednesday": 2.69,
+        "Bradford City": 2.43,
+        "Sheffield Wednesday": 2.74,
         "Draw": 3.38
       },
       "888sport": {
-        "Bradford City": 2.45,
-        "Sheffield Wednesday": 2.62,
-        "Draw": 3.2
+        "Bradford City": 2.4,
+        "Sheffield Wednesday": 2.7,
+        "Draw": 3.25
       },
       "William Hill": {
-        "Bradford City": 2.45,
-        "Sheffield Wednesday": 2.62,
-        "Draw": 3.2
+        "Bradford City": 2.4,
+        "Sheffield Wednesday": 2.7,
+        "Draw": 3.25
       },
       "Pinnacle": {
-        "Bradford City": 2.52,
-        "Sheffield Wednesday": 2.82,
+        "Bradford City": 2.49,
+        "Sheffield Wednesday": 2.85,
         "Draw": 3.49
       },
       "Betfair": {
-        "Bradford City": 2.66,
-        "Sheffield Wednesday": 2.88,
+        "Bradford City": 2.62,
+        "Sheffield Wednesday": 2.92,
         "Draw": 3.5
       },
       "Tipico": {
-        "Bradford City": 2.55,
-        "Sheffield Wednesday": 2.6,
+        "Bradford City": 2.5,
+        "Sheffield Wednesday": 2.65,
         "Draw": 3.2
       },
       "Unibet (NL)": {
@@ -242,12 +242,12 @@
       },
       "BetOnline.ag": {
         "Bradford City": 2.46,
-        "Sheffield Wednesday": 2.76,
+        "Sheffield Wednesday": 2.78,
         "Draw": 3.4
       },
       "Matchbook": {
-        "Bradford City": 2.66,
-        "Sheffield Wednesday": 2.88,
+        "Bradford City": 2.62,
+        "Sheffield Wednesday": 2.92,
         "Draw": 3.5
       }
     },
@@ -278,9 +278,9 @@
         "Draw": 3.7
       },
       "Suprabets": {
-        "LDU Quito": 1.56,
-        "Mirassol": 6.3,
-        "Draw": 3.7
+        "LDU Quito": 1.54,
+        "Mirassol": 6.4,
+        "Draw": 3.76
       },
       "Betclic (FR)": {
         "LDU Quito": 1.54,
@@ -288,9 +288,9 @@
         "Draw": 3.7
       },
       "1xBet": {
-        "LDU Quito": 1.58,
-        "Mirassol": 6.58,
-        "Draw": 3.91
+        "LDU Quito": 1.59,
+        "Mirassol": 6.43,
+        "Draw": 3.85
       },
       "Codere (IT)": {
         "LDU Quito": 1.57,
@@ -298,19 +298,19 @@
         "Draw": 3.8
       },
       "Betfair": {
-        "LDU Quito": 1.6,
-        "Mirassol": 7.4,
+        "LDU Quito": 1.61,
+        "Mirassol": 7.2,
         "Draw": 4.0
       },
       "Pinnacle": {
-        "LDU Quito": 1.56,
-        "Mirassol": 6.73,
-        "Draw": 3.9
+        "LDU Quito": 1.58,
+        "Mirassol": 6.58,
+        "Draw": 3.85
       },
       "Marathon Bet": {
-        "LDU Quito": 1.53,
-        "Mirassol": 6.4,
-        "Draw": 3.8
+        "LDU Quito": 1.55,
+        "Mirassol": 6.25,
+        "Draw": 3.75
       },
       "888sport": {
         "LDU Quito": 1.57,
@@ -328,19 +328,19 @@
         "Draw": 3.8
       },
       "Betsson": {
-        "LDU Quito": 1.6,
-        "Mirassol": 5.9,
-        "Draw": 3.45
+        "LDU Quito": 1.55,
+        "Mirassol": 6.3,
+        "Draw": 3.6
       },
       "Nordic Bet": {
-        "LDU Quito": 1.58,
+        "LDU Quito": 1.55,
         "Mirassol": 6.3,
-        "Draw": 3.45
+        "Draw": 3.6
       },
       "PMU (FR)": {
         "LDU Quito": 1.5,
         "Mirassol": 5.5,
-        "Draw": 3.55
+        "Draw": 3.6
       },
       "Unibet (NL)": {
         "LDU Quito": 1.56,
@@ -349,13 +349,13 @@
       },
       "LeoVegas (SE)": {
         "LDU Quito": 1.54,
-        "Mirassol": 5.75,
-        "Draw": 3.65
+        "Mirassol": 5.6,
+        "Draw": 3.7
       },
       "BetOnline.ag": {
-        "LDU Quito": 1.56,
-        "Mirassol": 6.78,
-        "Draw": 3.8
+        "LDU Quito": 1.57,
+        "Mirassol": 6.55,
+        "Draw": 3.83
       }
     }
   },
