@@ -1,104 +1,5 @@
 {
   "snapshots": {
-    "f818e96fefc448916f76f89f2281976e:h2h": {
-      "Coolbet": {
-        "Botafogo": 1.08,
-        "Club Cienciano": 32.5,
-        "Draw": 8.5
-      },
-      "Betfair": {
-        "Botafogo": 1.11,
-        "Club Cienciano": 50.0,
-        "Draw": 11.0
-      },
-      "Nordic Bet": {
-        "Botafogo": 1.06,
-        "Club Cienciano": 30.0,
-        "Draw": 8.2
-      },
-      "888sport": {
-        "Botafogo": 1.06,
-        "Club Cienciano": 46.0,
-        "Draw": 10.0
-      },
-      "Unibet (NL)": {
-        "Botafogo": 1.05,
-        "Club Cienciano": 41.0,
-        "Draw": 11.0
-      },
-      "LeoVegas (SE)": {
-        "Botafogo": 1.01,
-        "Club Cienciano": 36.0,
-        "Draw": 10.5
-      }
-    },
-    "afac77c82c22f3d1654f178b1c8d4215:h2h": {
-      "Winamax (FR)": {
-        "Corinthians-SP": 6.25,
-        "Rosario Central": 3.35,
-        "Draw": 1.5
-      },
-      "Winamax (DE)": {
-        "Corinthians-SP": 6.75,
-        "Rosario Central": 3.45,
-        "Draw": 1.5
-      },
-      "Coolbet": {
-        "Corinthians-SP": 7.5,
-        "Rosario Central": 3.5,
-        "Draw": 1.62
-      },
-      "Betclic (FR)": {
-        "Corinthians-SP": 6.5,
-        "Rosario Central": 3.55,
-        "Draw": 1.55
-      },
-      "Suprabets": {
-        "Corinthians-SP": 5.6,
-        "Rosario Central": 3.25,
-        "Draw": 1.65
-      },
-      "Betfair": {
-        "Corinthians-SP": 8.2,
-        "Rosario Central": 3.7,
-        "Draw": 1.63
-      },
-      "Pinnacle": {
-        "Corinthians-SP": 2.96,
-        "Rosario Central": 4.76,
-        "Draw": 1.94
-      },
-      "888sport": {
-        "Corinthians-SP": 6.0,
-        "Rosario Central": 3.4,
-        "Draw": 1.53
-      },
-      "Betsson": {
-        "Corinthians-SP": 6.8,
-        "Rosario Central": 3.2,
-        "Draw": 1.58
-      },
-      "Nordic Bet": {
-        "Corinthians-SP": 6.8,
-        "Rosario Central": 3.2,
-        "Draw": 1.58
-      },
-      "LeoVegas (SE)": {
-        "Corinthians-SP": 6.0,
-        "Rosario Central": 3.15,
-        "Draw": 1.53
-      },
-      "PMU (FR)": {
-        "Corinthians-SP": 5.8,
-        "Rosario Central": 3.1,
-        "Draw": 1.49
-      },
-      "Unibet (NL)": {
-        "Corinthians-SP": 6.4,
-        "Rosario Central": 3.35,
-        "Draw": 1.61
-      }
-    },
     "ed5b4f7a795b2350a66e07d48b5fe36a:h2h": {
       "Coolbet": {
         "Kashiwa Reysol": 1.58,
@@ -141,14 +42,14 @@
         "Draw": 4.16
       },
       "Marathon Bet": {
-        "Kashiwa Reysol": 1.56,
-        "V-Varen Nagasaki": 5.7,
-        "Draw": 3.9
+        "Kashiwa Reysol": 1.55,
+        "V-Varen Nagasaki": 5.8,
+        "Draw": 3.92
       },
       "1xBet": {
-        "Kashiwa Reysol": 1.6,
-        "V-Varen Nagasaki": 5.84,
-        "Draw": 4.0
+        "Kashiwa Reysol": 1.59,
+        "V-Varen Nagasaki": 5.94,
+        "Draw": 4.01
       },
       "BetOnline.ag": {
         "Kashiwa Reysol": 1.6,
@@ -166,9 +67,9 @@
         "Draw": 4.1
       },
       "Betfair": {
-        "Kashiwa Reysol": 1.63,
+        "Kashiwa Reysol": 1.61,
         "V-Varen Nagasaki": 6.2,
-        "Draw": 4.1
+        "Draw": 4.2
       },
       "PMU (FR)": {
         "Kashiwa Reysol": 1.57,
@@ -201,7 +102,7 @@
         "Draw": 3.7
       },
       "Matchbook": {
-        "Kashiwa Reysol": 1.62,
+        "Kashiwa Reysol": 1.6,
         "V-Varen Nagasaki": 6.2,
         "Draw": 4.2
       }
@@ -243,9 +144,9 @@
         "Draw": 4.0
       },
       "Pinnacle": {
-        "FC Tokyo": 1.54,
-        "JEF United Chiba": 6.53,
-        "Draw": 4.25
+        "FC Tokyo": 1.53,
+        "JEF United Chiba": 6.55,
+        "Draw": 4.3
       },
       "Marathon Bet": {
         "FC Tokyo": 1.49,
@@ -268,7 +169,7 @@
         "Draw": 3.9
       },
       "BetOnline.ag": {
-        "FC Tokyo": 1.53,
+        "FC Tokyo": 1.52,
         "JEF United Chiba": 6.4,
         "Draw": 4.2
       },
@@ -303,9 +204,133 @@
         "Draw": 4.1
       },
       "Matchbook": {
-        "FC Tokyo": 1.57,
+        "FC Tokyo": 1.56,
         "JEF United Chiba": 6.8,
         "Draw": 4.3
+      }
+    },
+    "c72f9ba73c951c5071a2df4ea9d18930:h2h": {
+      "Tipico": {
+        "1. FC Kaiserslautern": 2.05,
+        "Waldhof Mannheim": 3.2,
+        "Draw": 3.9
+      },
+      "Winamax (FR)": {
+        "1. FC Kaiserslautern": 2.0,
+        "Waldhof Mannheim": 2.85,
+        "Draw": 3.75
+      },
+      "Winamax (DE)": {
+        "1. FC Kaiserslautern": 2.05,
+        "Waldhof Mannheim": 3.0,
+        "Draw": 3.9
+      },
+      "Unibet (FR)": {
+        "1. FC Kaiserslautern": 2.0,
+        "Waldhof Mannheim": 3.1,
+        "Draw": 3.9
+      },
+      "Betclic (FR)": {
+        "1. FC Kaiserslautern": 2.07,
+        "Waldhof Mannheim": 3.02,
+        "Draw": 3.93
+      },
+      "Codere (IT)": {
+        "1. FC Kaiserslautern": 2.09,
+        "Waldhof Mannheim": 3.05,
+        "Draw": 3.8
+      },
+      "888sport": {
+        "1. FC Kaiserslautern": 2.05,
+        "Waldhof Mannheim": 3.0,
+        "Draw": 3.6
+      },
+      "LeoVegas (SE)": {
+        "1. FC Kaiserslautern": 1.94,
+        "Waldhof Mannheim": 2.9,
+        "Draw": 3.7
+      },
+      "Unibet (SE)": {
+        "1. FC Kaiserslautern": 2.06,
+        "Waldhof Mannheim": 3.1,
+        "Draw": 3.95
+      },
+      "Unibet (NL)": {
+        "1. FC Kaiserslautern": 2.06,
+        "Waldhof Mannheim": 3.1,
+        "Draw": 3.95
+      }
+    },
+    "1e472ff15a30dd1aebb91f2bc7c98281:h2h": {
+      "Betclic (FR)": {
+        "Al-Nassr": 1.23,
+        "Al-Riyadh": 8.75,
+        "Draw": 5.9
+      },
+      "Pinnacle": {
+        "Al-Nassr": 1.24,
+        "Al-Riyadh": 9.83,
+        "Draw": 6.16
+      },
+      "Betfair": {
+        "Al-Nassr": 1.27,
+        "Al-Riyadh": 11.5,
+        "Draw": 6.6
+      },
+      "1xBet": {
+        "Al-Nassr": 1.24,
+        "Al-Riyadh": 9.65,
+        "Draw": 6.21
+      },
+      "William Hill": {
+        "Al-Nassr": 1.22,
+        "Al-Riyadh": 8.5,
+        "Draw": 5.5
+      },
+      "Unibet (NL)": {
+        "Al-Nassr": 1.21,
+        "Al-Riyadh": 10.0,
+        "Draw": 5.8
+      },
+      "PMU (FR)": {
+        "Al-Nassr": 1.15,
+        "Al-Riyadh": 9.0,
+        "Draw": 5.5
+      },
+      "LeoVegas (SE)": {
+        "Al-Nassr": 1.19,
+        "Al-Riyadh": 9.5,
+        "Draw": 5.6
+      },
+      "888sport": {
+        "Al-Nassr": 1.22,
+        "Al-Riyadh": 8.5,
+        "Draw": 5.5
+      },
+      "Unibet (FR)": {
+        "Al-Nassr": 1.22,
+        "Al-Riyadh": 9.0,
+        "Draw": 6.4
+      },
+      "Unibet (SE)": {
+        "Al-Nassr": 1.21,
+        "Al-Riyadh": 10.0,
+        "Draw": 5.8
+      },
+      "Winamax (DE)": {
+        "Al-Nassr": 1.23,
+        "Al-Riyadh": 7.75,
+        "Draw": 6.0
+      },
+      "Tipico": {
+        "Al-Nassr": 1.22,
+        "Al-Riyadh": 10.5,
+        "Draw": 5.8
+      },
+      "Winamax (FR)": {
+        "Al-Nassr": 1.21,
+        "Al-Riyadh": 7.0,
+        "Draw": 5.6
       }
     }
   },
@@ -9270,21 +9295,26 @@
       "confidence": 103,
       "alert_type": "value",
       "alerted_at": "2026-08-21T01:54:28.004450+00:00"
+    },
+    {
+      "state_key": "1e472ff15a30dd1aebb91f2bc7c98281:h2h",
+      "event_id": "1e472ff15a30dd1aebb91f2bc7c98281",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Riyadh",
+      "away_team": "Al-Nassr",
+      "commence_time": "2026-08-21T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Riyadh",
+      "odds_at_alert": 11.5,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-08-21T03:12:54.901320+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "afac77c82c22f3d1654f178b1c8d4215:h2h|888sport|Corinthians-SP",
-    "afac77c82c22f3d1654f178b1c8d4215:h2h|Betclic (FR)|Corinthians-SP",
-    "afac77c82c22f3d1654f178b1c8d4215:h2h|Betfair|Corinthians-SP",
-    "afac77c82c22f3d1654f178b1c8d4215:h2h|Betsson|Corinthians-SP",
-    "afac77c82c22f3d1654f178b1c8d4215:h2h|Coolbet|Corinthians-SP",
-    "afac77c82c22f3d1654f178b1c8d4215:h2h|LeoVegas (SE)|Corinthians-SP",
-    "afac77c82c22f3d1654f178b1c8d4215:h2h|Nordic Bet|Corinthians-SP",
-    "afac77c82c22f3d1654f178b1c8d4215:h2h|PMU (FR)|Corinthians-SP",
-    "afac77c82c22f3d1654f178b1c8d4215:h2h|Suprabets|Corinthians-SP",
-    "afac77c82c22f3d1654f178b1c8d4215:h2h|Unibet (NL)|Corinthians-SP",
-    "afac77c82c22f3d1654f178b1c8d4215:h2h|Winamax (DE)|Corinthians-SP",
-    "afac77c82c22f3d1654f178b1c8d4215:h2h|Winamax (FR)|Corinthians-SP"
+    "1e472ff15a30dd1aebb91f2bc7c98281:h2h|Betfair|Al-Riyadh"
   ]
 }
