@@ -1,219 +1,40 @@
 {
   "snapshots": {
-    "ed5b4f7a795b2350a66e07d48b5fe36a:h2h": {
-      "Coolbet": {
-        "Kashiwa Reysol": 1.13,
-        "V-Varen Nagasaki": 22.0,
-        "Draw": 7.0
-      },
-      "Nordic Bet": {
-        "Kashiwa Reysol": 1.13,
-        "V-Varen Nagasaki": 19.5,
-        "Draw": 6.3
-      },
-      "Betsson": {
-        "Kashiwa Reysol": 1.1,
-        "V-Varen Nagasaki": 24.0,
-        "Draw": 6.8
-      },
-      "Betclic (FR)": {
-        "Kashiwa Reysol": 1.1,
-        "V-Varen Nagasaki": 21.0,
-        "Draw": 6.6
-      },
-      "Winamax (FR)": {
-        "Kashiwa Reysol": 1.13,
-        "V-Varen Nagasaki": 26.0,
-        "Draw": 6.5
-      },
-      "Winamax (DE)": {
-        "Kashiwa Reysol": 1.11,
-        "V-Varen Nagasaki": 24.0,
-        "Draw": 6.75
-      },
-      "Pinnacle": {
-        "Kashiwa Reysol": 1.14,
-        "V-Varen Nagasaki": 26.71,
-        "Draw": 7.33
-      },
-      "Tipico": {
-        "Kashiwa Reysol": 1.1,
-        "V-Varen Nagasaki": 16.0,
-        "Draw": 8.0
-      },
-      "Betfair": {
-        "Kashiwa Reysol": 1.15,
-        "V-Varen Nagasaki": 38.0,
-        "Draw": 8.8
-      },
-      "PMU (FR)": {
-        "Kashiwa Reysol": 1.07,
-        "V-Varen Nagasaki": 15.0,
-        "Draw": 5.75
-      },
-      "LeoVegas (SE)": {
-        "Kashiwa Reysol": 1.11,
-        "V-Varen Nagasaki": 16.0,
-        "Draw": 6.1
-      },
-      "Unibet (SE)": {
-        "Kashiwa Reysol": 1.14,
-        "V-Varen Nagasaki": 16.0,
-        "Draw": 6.5
-      },
-      "Unibet (NL)": {
-        "Kashiwa Reysol": 1.12,
-        "V-Varen Nagasaki": 16.0,
-        "Draw": 6.4
-      },
-      "888sport": {
-        "Kashiwa Reysol": 1.15,
-        "V-Varen Nagasaki": 17.0,
-        "Draw": 6.0
-      },
-      "Matchbook": {
-        "Kashiwa Reysol": 1.15,
-        "V-Varen Nagasaki": 38.0,
-        "Draw": 8.8
-      }
-    },
-    "40836aa7f6c0afcb53b9279f7b9543b8:h2h": {
-      "Coolbet": {
-        "FC Tokyo": 1.5,
-        "JEF United Chiba": 5.5,
-        "Draw": 4.33
-      },
-      "Unibet (FR)": {
-        "FC Tokyo": 1.43,
-        "JEF United Chiba": 5.6,
-        "Draw": 4.3
-      },
-      "Nordic Bet": {
-        "FC Tokyo": 1.47,
-        "JEF United Chiba": 5.35,
-        "Draw": 3.9
-      },
-      "Betsson": {
-        "FC Tokyo": 1.47,
-        "JEF United Chiba": 5.35,
-        "Draw": 3.9
-      },
-      "Betclic (FR)": {
-        "FC Tokyo": 1.48,
-        "JEF United Chiba": 5.5,
-        "Draw": 4.1
-      },
-      "Winamax (FR)": {
-        "FC Tokyo": 1.46,
-        "JEF United Chiba": 5.2,
-        "Draw": 4.0
-      },
-      "Winamax (DE)": {
-        "FC Tokyo": 1.48,
-        "JEF United Chiba": 5.4,
-        "Draw": 4.1
-      },
-      "Pinnacle": {
-        "FC Tokyo": 1.48,
-        "JEF United Chiba": 6.97,
-        "Draw": 4.19
-      },
-      "Marathon Bet": {
-        "FC Tokyo": 1.46,
-        "JEF United Chiba": 6.4,
-        "Draw": 4.33
-      },
-      "888sport": {
-        "FC Tokyo": 1.5,
-        "JEF United Chiba": 5.0,
-        "Draw": 4.0
-      },
-      "1xBet": {
-        "FC Tokyo": 1.51,
-        "JEF United Chiba": 5.81,
-        "Draw": 4.54
-      },
-      "William Hill": {
-        "FC Tokyo": 1.44,
-        "JEF United Chiba": 6.0,
-        "Draw": 4.0
-      },
-      "BetOnline.ag": {
-        "FC Tokyo": 1.47,
-        "JEF United Chiba": 6.6,
-        "Draw": 4.5
-      },
-      "Tipico": {
-        "FC Tokyo": 1.45,
-        "JEF United Chiba": 6.0,
-        "Draw": 4.3
-      },
-      "Betfair": {
-        "FC Tokyo": 1.57,
-        "JEF United Chiba": 6.4,
-        "Draw": 4.6
-      },
-      "PMU (FR)": {
-        "FC Tokyo": 1.4,
-        "JEF United Chiba": 5.5,
-        "Draw": 3.65
-      },
-      "LeoVegas (SE)": {
-        "FC Tokyo": 1.43,
-        "JEF United Chiba": 5.6,
-        "Draw": 3.75
-      },
-      "Unibet (SE)": {
-        "FC Tokyo": 1.48,
-        "JEF United Chiba": 5.8,
-        "Draw": 3.85
-      },
-      "Unibet (NL)": {
-        "FC Tokyo": 1.48,
-        "JEF United Chiba": 5.8,
-        "Draw": 3.85
-      },
-      "Matchbook": {
-        "FC Tokyo": 1.57,
-        "JEF United Chiba": 6.6,
-        "Draw": 4.5
-      }
-    },
     "c72f9ba73c951c5071a2df4ea9d18930:h2h": {
       "Tipico": {
-        "1. FC Kaiserslautern": 2.05,
-        "Waldhof Mannheim": 3.2,
-        "Draw": 3.9
+        "1. FC Kaiserslautern": 2.1,
+        "Waldhof Mannheim": 3.1,
+        "Draw": 3.8
       },
       "Winamax (FR)": {
-        "1. FC Kaiserslautern": 2.0,
+        "1. FC Kaiserslautern": 2.05,
         "Waldhof Mannheim": 2.85,
-        "Draw": 3.75
+        "Draw": 3.6
       },
       "Winamax (DE)": {
-        "1. FC Kaiserslautern": 2.05,
-        "Waldhof Mannheim": 3.0,
-        "Draw": 3.9
+        "1. FC Kaiserslautern": 2.1,
+        "Waldhof Mannheim": 2.95,
+        "Draw": 3.8
       },
       "Unibet (FR)": {
-        "1. FC Kaiserslautern": 2.05,
+        "1. FC Kaiserslautern": 2.1,
         "Waldhof Mannheim": 3.0,
-        "Draw": 3.8
+        "Draw": 3.7
       },
       "Betclic (FR)": {
-        "1. FC Kaiserslautern": 2.07,
-        "Waldhof Mannheim": 3.02,
-        "Draw": 3.93
+        "1. FC Kaiserslautern": 2.17,
+        "Waldhof Mannheim": 3.03,
+        "Draw": 3.63
       },
       "Codere (IT)": {
-        "1. FC Kaiserslautern": 2.09,
+        "1. FC Kaiserslautern": 2.13,
         "Waldhof Mannheim": 3.05,
-        "Draw": 3.8
+        "Draw": 3.7
       },
       "888sport": {
-        "1. FC Kaiserslautern": 2.05,
-        "Waldhof Mannheim": 2.9,
-        "Draw": 3.75
+        "1. FC Kaiserslautern": 2.1,
+        "Waldhof Mannheim": 3.0,
+        "Draw": 3.6
       },
       "LeoVegas (SE)": {
         "1. FC Kaiserslautern": 1.94,
@@ -233,64 +54,64 @@
     },
     "1e472ff15a30dd1aebb91f2bc7c98281:h2h": {
       "Betclic (FR)": {
-        "Al-Nassr": 1.24,
-        "Al-Riyadh": 10.0,
-        "Draw": 5.75
+        "Al-Nassr": 1.27,
+        "Al-Riyadh": 8.25,
+        "Draw": 5.9
       },
       "Pinnacle": {
-        "Al-Nassr": 1.23,
-        "Al-Riyadh": 10.52,
-        "Draw": 6.37
+        "Al-Nassr": 1.26,
+        "Al-Riyadh": 9.61,
+        "Draw": 6.03
       },
       "Betfair": {
-        "Al-Nassr": 1.27,
-        "Al-Riyadh": 12.5,
-        "Draw": 6.6
+        "Al-Nassr": 1.29,
+        "Al-Riyadh": 11.0,
+        "Draw": 6.8
       },
       "1xBet": {
-        "Al-Nassr": 1.22,
-        "Al-Riyadh": 10.5,
-        "Draw": 6.44
+        "Al-Nassr": 1.25,
+        "Al-Riyadh": 9.6,
+        "Draw": 5.96
       },
       "William Hill": {
-        "Al-Nassr": 1.22,
+        "Al-Nassr": 1.25,
         "Al-Riyadh": 8.5,
         "Draw": 5.0
       },
       "Unibet (NL)": {
-        "Al-Nassr": 1.22,
-        "Al-Riyadh": 9.5,
-        "Draw": 5.6
-      },
-      "PMU (FR)": {
-        "Al-Nassr": 1.16,
+        "Al-Nassr": 1.24,
         "Al-Riyadh": 9.0,
-        "Draw": 5.3
-      },
-      "LeoVegas (SE)": {
-        "Al-Nassr": 1.2,
-        "Al-Riyadh": 9.5,
         "Draw": 5.5
       },
+      "PMU (FR)": {
+        "Al-Nassr": 1.17,
+        "Al-Riyadh": 8.5,
+        "Draw": 5.25
+      },
+      "LeoVegas (SE)": {
+        "Al-Nassr": 1.21,
+        "Al-Riyadh": 9.0,
+        "Draw": 5.4
+      },
       "888sport": {
-        "Al-Nassr": 1.22,
+        "Al-Nassr": 1.25,
         "Al-Riyadh": 8.5,
         "Draw": 5.0
       },
       "Unibet (FR)": {
-        "Al-Nassr": 1.21,
-        "Al-Riyadh": 10.0,
-        "Draw": 6.0
+        "Al-Nassr": 1.22,
+        "Al-Riyadh": 9.0,
+        "Draw": 6.1
       },
       "Unibet (SE)": {
-        "Al-Nassr": 1.22,
-        "Al-Riyadh": 9.5,
-        "Draw": 5.6
+        "Al-Nassr": 1.24,
+        "Al-Riyadh": 9.0,
+        "Draw": 5.5
       },
       "Winamax (DE)": {
         "Al-Nassr": 1.23,
-        "Al-Riyadh": 8.5,
-        "Draw": 5.9
+        "Al-Riyadh": 8.0,
+        "Draw": 6.25
       },
       "Tipico": {
         "Al-Nassr": 1.2,
@@ -299,8 +120,105 @@
       },
       "Winamax (FR)": {
         "Al-Nassr": 1.22,
-        "Al-Riyadh": 8.0,
-        "Draw": 5.7
+        "Al-Riyadh": 7.75,
+        "Draw": 6.0
+      }
+    },
+    "7feeca839169e79fb6ac12264de15d10:h2h": {
+      "Unibet (SE)": {
+        "FC Lahti": 2.6,
+        "SJK Seinäjoki": 2.4,
+        "Draw": 3.35
+      },
+      "LeoVegas (SE)": {
+        "FC Lahti": 2.55,
+        "SJK Seinäjoki": 2.35,
+        "Draw": 3.3
+      },
+      "Unibet (NL)": {
+        "FC Lahti": 2.6,
+        "SJK Seinäjoki": 2.4,
+        "Draw": 3.35
+      },
+      "PMU (FR)": {
+        "FC Lahti": 2.43,
+        "SJK Seinäjoki": 2.25,
+        "Draw": 3.2
+      },
+      "Unibet (FR)": {
+        "FC Lahti": 2.35,
+        "SJK Seinäjoki": 2.6,
+        "Draw": 3.45
+      },
+      "1xBet": {
+        "FC Lahti": 2.48,
+        "SJK Seinäjoki": 2.63,
+        "Draw": 3.46
+      },
+      "GTbets": {
+        "FC Lahti": 2.53,
+        "SJK Seinäjoki": 2.65,
+        "Draw": 3.45
+      },
+      "Nordic Bet": {
+        "FC Lahti": 2.45,
+        "SJK Seinäjoki": 2.62,
+        "Draw": 3.4
+      },
+      "Betsson": {
+        "FC Lahti": 2.45,
+        "SJK Seinäjoki": 2.62,
+        "Draw": 3.4
+      },
+      "BetOnline.ag": {
+        "FC Lahti": 2.54,
+        "SJK Seinäjoki": 2.72,
+        "Draw": 3.4
+      },
+      "Marathon Bet": {
+        "FC Lahti": 2.48,
+        "SJK Seinäjoki": 2.63,
+        "Draw": 3.46
+      },
+      "Pinnacle": {
+        "FC Lahti": 2.57,
+        "SJK Seinäjoki": 2.75,
+        "Draw": 3.56
+      },
+      "Tipico": {
+        "FC Lahti": 2.5,
+        "SJK Seinäjoki": 2.65,
+        "Draw": 3.2
+      },
+      "Betfair": {
+        "FC Lahti": 2.62,
+        "SJK Seinäjoki": 2.78,
+        "Draw": 3.75
+      },
+      "Coolbet": {
+        "FC Lahti": 2.57,
+        "SJK Seinäjoki": 2.63,
+        "Draw": 3.7
+      },
+      "BetAnything": {
+        "FC Lahti": 2.54,
+        "SJK Seinäjoki": 2.72,
+        "Draw": 3.4
+      },
+      "888sport": {
+        "FC Lahti": 2.6,
+        "SJK Seinäjoki": 2.4,
+        "Draw": 3.4
+      },
+      "William Hill": {
+        "FC Lahti": 2.6,
+        "SJK Seinäjoki": 2.4,
+        "Draw": 3.4
+      },
+      "Matchbook": {
+        "FC Lahti": 2.62,
+        "SJK Seinäjoki": 2.78,
+        "Draw": 3.8
       }
     }
   },
@@ -9345,14 +9263,27 @@
       "confidence": 14,
       "alert_type": "value",
       "alerted_at": "2026-08-21T10:42:06.564923+00:00"
+    },
+    {
+      "state_key": "1e472ff15a30dd1aebb91f2bc7c98281:h2h",
+      "event_id": "1e472ff15a30dd1aebb91f2bc7c98281",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Riyadh",
+      "away_team": "Al-Nassr",
+      "commence_time": "2026-08-21T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.8,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-08-21T13:06:45.512723+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
     "1e472ff15a30dd1aebb91f2bc7c98281:h2h|Betfair|Al-Riyadh",
-    "ed5b4f7a795b2350a66e07d48b5fe36a:h2h|Betfair|Draw",
-    "ed5b4f7a795b2350a66e07d48b5fe36a:h2h|Betfair|V-Varen Nagasaki",
-    "ed5b4f7a795b2350a66e07d48b5fe36a:h2h|Matchbook|Draw",
-    "ed5b4f7a795b2350a66e07d48b5fe36a:h2h|Matchbook|V-Varen Nagasaki"
+    "1e472ff15a30dd1aebb91f2bc7c98281:h2h|Betfair|Draw"
   ]
 }
