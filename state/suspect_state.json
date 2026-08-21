@@ -1,236 +1,311 @@
 {
   "snapshots": {
-    "75a9e9d10a96820fadf35bfa73647855:h2h": {
+    "f818e96fefc448916f76f89f2281976e:h2h": {
+      "Coolbet": {
+        "Botafogo": 1.08,
+        "Club Cienciano": 32.5,
+        "Draw": 8.5
+      },
+      "Betfair": {
+        "Botafogo": 1.11,
+        "Club Cienciano": 50.0,
+        "Draw": 11.0
+      },
+      "Nordic Bet": {
+        "Botafogo": 1.06,
+        "Club Cienciano": 30.0,
+        "Draw": 8.2
+      },
+      "888sport": {
+        "Botafogo": 1.06,
+        "Club Cienciano": 46.0,
+        "Draw": 10.0
+      },
+      "Unibet (NL)": {
+        "Botafogo": 1.05,
+        "Club Cienciano": 41.0,
+        "Draw": 11.0
+      },
+      "LeoVegas (SE)": {
+        "Botafogo": 1.01,
+        "Club Cienciano": 36.0,
+        "Draw": 10.5
+      }
+    },
+    "afac77c82c22f3d1654f178b1c8d4215:h2h": {
+      "Winamax (FR)": {
+        "Corinthians-SP": 6.25,
+        "Rosario Central": 3.35,
+        "Draw": 1.5
+      },
       "Winamax (DE)": {
-        "LDU Quito": 1.72,
-        "Mirassol": 6.25,
-        "Draw": 2.7
+        "Corinthians-SP": 6.75,
+        "Rosario Central": 3.45,
+        "Draw": 1.5
       },
       "Coolbet": {
-        "LDU Quito": 1.8,
-        "Mirassol": 7.0,
-        "Draw": 2.88
-      },
-      "Winamax (FR)": {
-        "LDU Quito": 1.7,
-        "Mirassol": 6.0,
-        "Draw": 2.6
-      },
-      "Suprabets": {
-        "LDU Quito": 1.77,
-        "Mirassol": 6.2,
-        "Draw": 2.85
+        "Corinthians-SP": 7.5,
+        "Rosario Central": 3.5,
+        "Draw": 1.62
       },
       "Betclic (FR)": {
-        "LDU Quito": 1.7,
-        "Mirassol": 7.25,
-        "Draw": 2.82
+        "Corinthians-SP": 6.5,
+        "Rosario Central": 3.55,
+        "Draw": 1.55
+      },
+      "Suprabets": {
+        "Corinthians-SP": 5.6,
+        "Rosario Central": 3.25,
+        "Draw": 1.65
       },
       "Betfair": {
-        "LDU Quito": 1.81,
-        "Mirassol": 9.0,
-        "Draw": 2.92
+        "Corinthians-SP": 8.2,
+        "Rosario Central": 3.7,
+        "Draw": 1.63
       },
       "Pinnacle": {
-        "LDU Quito": 1.73,
-        "Mirassol": 7.09,
-        "Draw": 2.88
+        "Corinthians-SP": 2.96,
+        "Rosario Central": 4.76,
+        "Draw": 1.94
       },
       "888sport": {
-        "LDU Quito": 1.67,
-        "Mirassol": 6.0,
-        "Draw": 2.9
-      },
-      "Tipico": {
-        "LDU Quito": 1.65,
-        "Mirassol": 7.5,
-        "Draw": 2.8
+        "Corinthians-SP": 6.0,
+        "Rosario Central": 3.4,
+        "Draw": 1.53
       },
       "Betsson": {
-        "LDU Quito": 1.72,
-        "Mirassol": 6.3,
-        "Draw": 2.78
+        "Corinthians-SP": 6.8,
+        "Rosario Central": 3.2,
+        "Draw": 1.58
       },
       "Nordic Bet": {
-        "LDU Quito": 1.68,
-        "Mirassol": 7.2,
-        "Draw": 2.7
+        "Corinthians-SP": 6.8,
+        "Rosario Central": 3.2,
+        "Draw": 1.58
+      },
+      "LeoVegas (SE)": {
+        "Corinthians-SP": 6.0,
+        "Rosario Central": 3.15,
+        "Draw": 1.53
       },
       "PMU (FR)": {
-        "LDU Quito": 1.64,
-        "Mirassol": 5.8,
-        "Draw": 2.6
+        "Corinthians-SP": 5.8,
+        "Rosario Central": 3.1,
+        "Draw": 1.49
       },
       "Unibet (NL)": {
-        "LDU Quito": 1.77,
-        "Mirassol": 6.25,
-        "Draw": 2.8
-      },
-      "LeoVegas (SE)": {
-        "LDU Quito": 1.67,
-        "Mirassol": 5.8,
-        "Draw": 2.65
+        "Corinthians-SP": 6.4,
+        "Rosario Central": 3.35,
+        "Draw": 1.61
       }
     },
-    "7ef10ffc03dd15ce682655f3868e9332:h2h": {
-      "Betfair": {
-        "Macará": 1.98,
-        "Santos": 6.6,
-        "Draw": 2.82
+    "ed5b4f7a795b2350a66e07d48b5fe36a:h2h": {
+      "Coolbet": {
+        "Kashiwa Reysol": 1.58,
+        "V-Varen Nagasaki": 5.75,
+        "Draw": 4.2
       },
       "Nordic Bet": {
-        "Macará": 1.95,
-        "Santos": 6.3,
-        "Draw": 2.3
+        "Kashiwa Reysol": 1.52,
+        "V-Varen Nagasaki": 5.5,
+        "Draw": 3.85
       },
-      "888sport": {
-        "Macará": 1.85,
-        "Santos": 5.75,
-        "Draw": 2.6
-      },
-      "Pinnacle": {
-        "Macará": 1.96,
-        "Santos": 5.1,
-        "Draw": 2.8
-      },
-      "LeoVegas (SE)": {
-        "Macará": 1.83,
-        "Santos": 5.1,
-        "Draw": 2.48
-      },
-      "PMU (FR)": {
-        "Macará": 1.81,
-        "Santos": 4.9,
-        "Draw": 2.43
-      },
-      "Unibet (NL)": {
-        "Macará": 1.94,
-        "Santos": 5.4,
-        "Draw": 2.63
-      },
-      "Coolbet": {
-        "Macará": 2.0,
-        "Santos": 6.5,
-        "Draw": 2.38
-      }
-    },
-    "454416c624ed33fb0838b2b3a0f00289:h2h": {
-      "Betfair": {
-        "Olimpia Asunción": 8.2,
-        "Vasco da Gama": 1.62,
-        "Draw": 3.8
-      },
-      "Nordic Bet": {
-        "Olimpia Asunción": 5.8,
-        "Vasco da Gama": 1.58,
-        "Draw": 3.4
-      },
-      "888sport": {
-        "Olimpia Asunción": 6.0,
-        "Vasco da Gama": 1.53,
-        "Draw": 3.5
-      },
-      "Pinnacle": {
-        "Olimpia Asunción": 1.56,
-        "Vasco da Gama": 6.84,
-        "Draw": 3.6
-      },
-      "PMU (FR)": {
-        "Olimpia Asunción": 6.1,
-        "Vasco da Gama": 1.43,
-        "Draw": 3.3
-      },
-      "LeoVegas (SE)": {
-        "Olimpia Asunción": 6.25,
-        "Vasco da Gama": 1.45,
-        "Draw": 3.35
-      },
-      "Unibet (NL)": {
-        "Olimpia Asunción": 6.75,
-        "Vasco da Gama": 1.54,
-        "Draw": 3.55
-      },
-      "Coolbet": {
-        "Olimpia Asunción": 6.0,
-        "Vasco da Gama": 1.62,
-        "Draw": 3.5
-      }
-    },
-    "acd8aa932b98f8af48f42e1d2e35c49b:h2h": {
-      "Unibet (SE)": {
-        "Athletic Club (MG)": 2.33,
-        "Clube de Regatas Brasil": 3.2,
-        "Draw": 2.9
-      },
-      "LeoVegas (SE)": {
-        "Athletic Club (MG)": 2.2,
-        "Clube de Regatas Brasil": 3.05,
-        "Draw": 2.7
-      },
-      "Unibet (NL)": {
-        "Athletic Club (MG)": 2.23,
-        "Clube de Regatas Brasil": 3.05,
-        "Draw": 2.8
-      },
-      "Coolbet": {
-        "Athletic Club (MG)": 2.5,
-        "Clube de Regatas Brasil": 2.88,
-        "Draw": 2.88
-      },
-      "Nordic Bet": {
-        "Athletic Club (MG)": 2.45,
-        "Clube de Regatas Brasil": 2.88,
-        "Draw": 2.88
+      "Unibet (FR)": {
+        "Kashiwa Reysol": 1.51,
+        "V-Varen Nagasaki": 5.4,
+        "Draw": 3.95
       },
       "Betsson": {
-        "Athletic Club (MG)": 2.5,
-        "Clube de Regatas Brasil": 2.88,
-        "Draw": 2.85
+        "Kashiwa Reysol": 1.55,
+        "V-Varen Nagasaki": 5.5,
+        "Draw": 3.85
       },
-      "Codere (IT)": {
-        "Athletic Club (MG)": 2.33,
-        "Clube de Regatas Brasil": 3.1,
-        "Draw": 3.0
+      "Betclic (FR)": {
+        "Kashiwa Reysol": 1.52,
+        "V-Varen Nagasaki": 5.4,
+        "Draw": 4.0
+      },
+      "Winamax (FR)": {
+        "Kashiwa Reysol": 1.5,
+        "V-Varen Nagasaki": 5.0,
+        "Draw": 3.95
+      },
+      "Winamax (DE)": {
+        "Kashiwa Reysol": 1.52,
+        "V-Varen Nagasaki": 5.1,
+        "Draw": 4.0
+      },
+      "Pinnacle": {
+        "Kashiwa Reysol": 1.61,
+        "V-Varen Nagasaki": 5.75,
+        "Draw": 4.16
+      },
+      "Marathon Bet": {
+        "Kashiwa Reysol": 1.56,
+        "V-Varen Nagasaki": 5.7,
+        "Draw": 3.9
       },
       "1xBet": {
-        "Athletic Club (MG)": 2.22,
-        "Clube de Regatas Brasil": 3.37,
-        "Draw": 3.1
-      },
-      "Pinnacle": {
-        "Athletic Club (MG)": 2.43,
-        "Clube de Regatas Brasil": 3.23,
-        "Draw": 3.15
-      },
-      "888sport": {
-        "Athletic Club (MG)": 2.45,
-        "Clube de Regatas Brasil": 2.9,
-        "Draw": 2.8
-      },
-      "William Hill": {
-        "Athletic Club (MG)": 2.3,
-        "Clube de Regatas Brasil": 3.1,
-        "Draw": 2.9
-      },
-      "Tipico": {
-        "Athletic Club (MG)": 2.5,
-        "Clube de Regatas Brasil": 2.9,
-        "Draw": 2.9
-      },
-      "Matchbook": {
-        "Athletic Club (MG)": 2.68,
-        "Clube de Regatas Brasil": 3.15,
-        "Draw": 3.05
+        "Kashiwa Reysol": 1.6,
+        "V-Varen Nagasaki": 5.84,
+        "Draw": 4.0
       },
       "BetOnline.ag": {
-        "Athletic Club (MG)": 2.44,
-        "Clube de Regatas Brasil": 3.1,
-        "Draw": 3.0
+        "Kashiwa Reysol": 1.6,
+        "V-Varen Nagasaki": 5.6,
+        "Draw": 4.1
+      },
+      "Tipico": {
+        "Kashiwa Reysol": 1.5,
+        "V-Varen Nagasaki": 5.8,
+        "Draw": 4.0
+      },
+      "BetAnything": {
+        "Kashiwa Reysol": 1.6,
+        "V-Varen Nagasaki": 5.6,
+        "Draw": 4.1
       },
       "Betfair": {
-        "Athletic Club (MG)": 2.6,
-        "Clube de Regatas Brasil": 3.3,
-        "Draw": 3.05
+        "Kashiwa Reysol": 1.63,
+        "V-Varen Nagasaki": 6.2,
+        "Draw": 4.1
+      },
+      "PMU (FR)": {
+        "Kashiwa Reysol": 1.57,
+        "V-Varen Nagasaki": 4.9,
+        "Draw": 3.75
+      },
+      "LeoVegas (SE)": {
+        "Kashiwa Reysol": 1.61,
+        "V-Varen Nagasaki": 5.0,
+        "Draw": 3.8
+      },
+      "Unibet (SE)": {
+        "Kashiwa Reysol": 1.61,
+        "V-Varen Nagasaki": 5.0,
+        "Draw": 3.8
+      },
+      "Unibet (NL)": {
+        "Kashiwa Reysol": 1.61,
+        "V-Varen Nagasaki": 5.0,
+        "Draw": 3.8
+      },
+      "888sport": {
+        "Kashiwa Reysol": 1.61,
+        "V-Varen Nagasaki": 5.5,
+        "Draw": 3.7
+      },
+      "William Hill": {
+        "Kashiwa Reysol": 1.62,
+        "V-Varen Nagasaki": 5.5,
+        "Draw": 3.7
+      },
+      "Matchbook": {
+        "Kashiwa Reysol": 1.62,
+        "V-Varen Nagasaki": 6.2,
+        "Draw": 4.2
+      }
+    },
+    "40836aa7f6c0afcb53b9279f7b9543b8:h2h": {
+      "Coolbet": {
+        "FC Tokyo": 1.52,
+        "JEF United Chiba": 6.5,
+        "Draw": 4.2
+      },
+      "Unibet (FR)": {
+        "FC Tokyo": 1.47,
+        "JEF United Chiba": 5.9,
+        "Draw": 4.05
+      },
+      "Nordic Bet": {
+        "FC Tokyo": 1.5,
+        "JEF United Chiba": 5.9,
+        "Draw": 3.95
+      },
+      "Betsson": {
+        "FC Tokyo": 1.5,
+        "JEF United Chiba": 5.9,
+        "Draw": 3.95
+      },
+      "Betclic (FR)": {
+        "FC Tokyo": 1.48,
+        "JEF United Chiba": 5.9,
+        "Draw": 4.05
+      },
+      "Winamax (FR)": {
+        "FC Tokyo": 1.45,
+        "JEF United Chiba": 5.2,
+        "Draw": 3.95
+      },
+      "Winamax (DE)": {
+        "FC Tokyo": 1.47,
+        "JEF United Chiba": 5.4,
+        "Draw": 4.0
+      },
+      "Pinnacle": {
+        "FC Tokyo": 1.54,
+        "JEF United Chiba": 6.53,
+        "Draw": 4.25
+      },
+      "Marathon Bet": {
+        "FC Tokyo": 1.49,
+        "JEF United Chiba": 6.35,
+        "Draw": 4.1
+      },
+      "888sport": {
+        "FC Tokyo": 1.5,
+        "JEF United Chiba": 6.0,
+        "Draw": 3.9
+      },
+      "1xBet": {
+        "FC Tokyo": 1.53,
+        "JEF United Chiba": 6.5,
+        "Draw": 4.2
+      },
+      "William Hill": {
+        "FC Tokyo": 1.5,
+        "JEF United Chiba": 6.0,
+        "Draw": 3.9
+      },
+      "BetOnline.ag": {
+        "FC Tokyo": 1.53,
+        "JEF United Chiba": 6.4,
+        "Draw": 4.2
+      },
+      "Tipico": {
+        "FC Tokyo": 1.45,
+        "JEF United Chiba": 6.2,
+        "Draw": 4.2
+      },
+      "Betfair": {
+        "FC Tokyo": 1.56,
+        "JEF United Chiba": 6.8,
+        "Draw": 4.3
+      },
+      "PMU (FR)": {
+        "FC Tokyo": 1.45,
+        "JEF United Chiba": 6.1,
+        "Draw": 4.0
+      },
+      "LeoVegas (SE)": {
+        "FC Tokyo": 1.48,
+        "JEF United Chiba": 6.25,
+        "Draw": 4.1
+      },
+      "Unibet (SE)": {
+        "FC Tokyo": 1.47,
+        "JEF United Chiba": 6.1,
+        "Draw": 4.1
+      },
+      "Unibet (NL)": {
+        "FC Tokyo": 1.47,
+        "JEF United Chiba": 6.1,
+        "Draw": 4.1
+      },
+      "Matchbook": {
+        "FC Tokyo": 1.57,
+        "JEF United Chiba": 6.8,
+        "Draw": 4.3
       }
     }
   },
@@ -9003,22 +9078,213 @@
       "confidence": 6,
       "alert_type": "value",
       "alerted_at": "2026-08-20T22:39:31.890004+00:00"
+    },
+    {
+      "state_key": "afac77c82c22f3d1654f178b1c8d4215:h2h",
+      "event_id": "afac77c82c22f3d1654f178b1c8d4215",
+      "sport_key": "soccer",
+      "competition": "Copa Libertadores",
+      "home_team": "Corinthians-SP",
+      "away_team": "Rosario Central",
+      "commence_time": "2026-08-21T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Corinthians-SP",
+      "odds_at_alert": 6.25,
+      "stake_pct": 5.0,
+      "confidence": 99,
+      "alert_type": "value",
+      "alerted_at": "2026-08-21T01:54:24.130932+00:00"
+    },
+    {
+      "state_key": "afac77c82c22f3d1654f178b1c8d4215:h2h",
+      "event_id": "afac77c82c22f3d1654f178b1c8d4215",
+      "sport_key": "soccer",
+      "competition": "Copa Libertadores",
+      "home_team": "Corinthians-SP",
+      "away_team": "Rosario Central",
+      "commence_time": "2026-08-21T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Corinthians-SP",
+      "odds_at_alert": 6.75,
+      "stake_pct": 5.0,
+      "confidence": 114,
+      "alert_type": "value",
+      "alerted_at": "2026-08-21T01:54:24.481324+00:00"
+    },
+    {
+      "state_key": "afac77c82c22f3d1654f178b1c8d4215:h2h",
+      "event_id": "afac77c82c22f3d1654f178b1c8d4215",
+      "sport_key": "soccer",
+      "competition": "Copa Libertadores",
+      "home_team": "Corinthians-SP",
+      "away_team": "Rosario Central",
+      "commence_time": "2026-08-21T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Corinthians-SP",
+      "odds_at_alert": 7.5,
+      "stake_pct": 5.0,
+      "confidence": 138,
+      "alert_type": "value",
+      "alerted_at": "2026-08-21T01:54:24.837269+00:00"
+    },
+    {
+      "state_key": "afac77c82c22f3d1654f178b1c8d4215:h2h",
+      "event_id": "afac77c82c22f3d1654f178b1c8d4215",
+      "sport_key": "soccer",
+      "competition": "Copa Libertadores",
+      "home_team": "Corinthians-SP",
+      "away_team": "Rosario Central",
+      "commence_time": "2026-08-21T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Corinthians-SP",
+      "odds_at_alert": 6.5,
+      "stake_pct": 5.0,
+      "confidence": 107,
+      "alert_type": "value",
+      "alerted_at": "2026-08-21T01:54:25.190620+00:00"
+    },
+    {
+      "state_key": "afac77c82c22f3d1654f178b1c8d4215:h2h",
+      "event_id": "afac77c82c22f3d1654f178b1c8d4215",
+      "sport_key": "soccer",
+      "competition": "Copa Libertadores",
+      "home_team": "Corinthians-SP",
+      "away_team": "Rosario Central",
+      "commence_time": "2026-08-21T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Corinthians-SP",
+      "odds_at_alert": 5.6,
+      "stake_pct": 5.0,
+      "confidence": 78,
+      "alert_type": "value",
+      "alerted_at": "2026-08-21T01:54:25.546939+00:00"
+    },
+    {
+      "state_key": "afac77c82c22f3d1654f178b1c8d4215:h2h",
+      "event_id": "afac77c82c22f3d1654f178b1c8d4215",
+      "sport_key": "soccer",
+      "competition": "Copa Libertadores",
+      "home_team": "Corinthians-SP",
+      "away_team": "Rosario Central",
+      "commence_time": "2026-08-21T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Corinthians-SP",
+      "odds_at_alert": 8.2,
+      "stake_pct": 5.0,
+      "confidence": 161,
+      "alert_type": "value",
+      "alerted_at": "2026-08-21T01:54:25.905129+00:00"
+    },
+    {
+      "state_key": "afac77c82c22f3d1654f178b1c8d4215:h2h",
+      "event_id": "afac77c82c22f3d1654f178b1c8d4215",
+      "sport_key": "soccer",
+      "competition": "Copa Libertadores",
+      "home_team": "Corinthians-SP",
+      "away_team": "Rosario Central",
+      "commence_time": "2026-08-21T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Corinthians-SP",
+      "odds_at_alert": 6.0,
+      "stake_pct": 5.0,
+      "confidence": 91,
+      "alert_type": "value",
+      "alerted_at": "2026-08-21T01:54:26.244019+00:00"
+    },
+    {
+      "state_key": "afac77c82c22f3d1654f178b1c8d4215:h2h",
+      "event_id": "afac77c82c22f3d1654f178b1c8d4215",
+      "sport_key": "soccer",
+      "competition": "Copa Libertadores",
+      "home_team": "Corinthians-SP",
+      "away_team": "Rosario Central",
+      "commence_time": "2026-08-21T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Corinthians-SP",
+      "odds_at_alert": 6.8,
+      "stake_pct": 5.0,
+      "confidence": 116,
+      "alert_type": "value",
+      "alerted_at": "2026-08-21T01:54:26.590077+00:00"
+    },
+    {
+      "state_key": "afac77c82c22f3d1654f178b1c8d4215:h2h",
+      "event_id": "afac77c82c22f3d1654f178b1c8d4215",
+      "sport_key": "soccer",
+      "competition": "Copa Libertadores",
+      "home_team": "Corinthians-SP",
+      "away_team": "Rosario Central",
+      "commence_time": "2026-08-21T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Corinthians-SP",
+      "odds_at_alert": 6.8,
+      "stake_pct": 5.0,
+      "confidence": 116,
+      "alert_type": "value",
+      "alerted_at": "2026-08-21T01:54:26.949879+00:00"
+    },
+    {
+      "state_key": "afac77c82c22f3d1654f178b1c8d4215:h2h",
+      "event_id": "afac77c82c22f3d1654f178b1c8d4215",
+      "sport_key": "soccer",
+      "competition": "Copa Libertadores",
+      "home_team": "Corinthians-SP",
+      "away_team": "Rosario Central",
+      "commence_time": "2026-08-21T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Corinthians-SP",
+      "odds_at_alert": 6.0,
+      "stake_pct": 5.0,
+      "confidence": 91,
+      "alert_type": "value",
+      "alerted_at": "2026-08-21T01:54:27.308705+00:00"
+    },
+    {
+      "state_key": "afac77c82c22f3d1654f178b1c8d4215:h2h",
+      "event_id": "afac77c82c22f3d1654f178b1c8d4215",
+      "sport_key": "soccer",
+      "competition": "Copa Libertadores",
+      "home_team": "Corinthians-SP",
+      "away_team": "Rosario Central",
+      "commence_time": "2026-08-21T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Corinthians-SP",
+      "odds_at_alert": 5.8,
+      "stake_pct": 5.0,
+      "confidence": 84,
+      "alert_type": "value",
+      "alerted_at": "2026-08-21T01:54:27.649933+00:00"
+    },
+    {
+      "state_key": "afac77c82c22f3d1654f178b1c8d4215:h2h",
+      "event_id": "afac77c82c22f3d1654f178b1c8d4215",
+      "sport_key": "soccer",
+      "competition": "Copa Libertadores",
+      "home_team": "Corinthians-SP",
+      "away_team": "Rosario Central",
+      "commence_time": "2026-08-21T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Corinthians-SP",
+      "odds_at_alert": 6.4,
+      "stake_pct": 5.0,
+      "confidence": 103,
+      "alert_type": "value",
+      "alerted_at": "2026-08-21T01:54:28.004450+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "454416c624ed33fb0838b2b3a0f00289:h2h|888sport|Olimpia Asunción",
-    "454416c624ed33fb0838b2b3a0f00289:h2h|Betfair|Olimpia Asunción",
-    "454416c624ed33fb0838b2b3a0f00289:h2h|Coolbet|Olimpia Asunción",
-    "454416c624ed33fb0838b2b3a0f00289:h2h|LeoVegas (SE)|Olimpia Asunción",
-    "454416c624ed33fb0838b2b3a0f00289:h2h|Nordic Bet|Olimpia Asunción",
-    "454416c624ed33fb0838b2b3a0f00289:h2h|PMU (FR)|Olimpia Asunción",
-    "454416c624ed33fb0838b2b3a0f00289:h2h|Unibet (NL)|Olimpia Asunción",
-    "75a9e9d10a96820fadf35bfa73647855:h2h|Betfair|Mirassol",
-    "7ef10ffc03dd15ce682655f3868e9332:h2h|888sport|Santos",
-    "7ef10ffc03dd15ce682655f3868e9332:h2h|Betfair|Santos",
-    "7ef10ffc03dd15ce682655f3868e9332:h2h|Coolbet|Santos",
-    "7ef10ffc03dd15ce682655f3868e9332:h2h|Nordic Bet|Santos",
-    "acd8aa932b98f8af48f42e1d2e35c49b:h2h|Matchbook|Athletic Club (MG)"
+    "afac77c82c22f3d1654f178b1c8d4215:h2h|888sport|Corinthians-SP",
+    "afac77c82c22f3d1654f178b1c8d4215:h2h|Betclic (FR)|Corinthians-SP",
+    "afac77c82c22f3d1654f178b1c8d4215:h2h|Betfair|Corinthians-SP",
+    "afac77c82c22f3d1654f178b1c8d4215:h2h|Betsson|Corinthians-SP",
+    "afac77c82c22f3d1654f178b1c8d4215:h2h|Coolbet|Corinthians-SP",
+    "afac77c82c22f3d1654f178b1c8d4215:h2h|LeoVegas (SE)|Corinthians-SP",
+    "afac77c82c22f3d1654f178b1c8d4215:h2h|Nordic Bet|Corinthians-SP",
+    "afac77c82c22f3d1654f178b1c8d4215:h2h|PMU (FR)|Corinthians-SP",
+    "afac77c82c22f3d1654f178b1c8d4215:h2h|Suprabets|Corinthians-SP",
+    "afac77c82c22f3d1654f178b1c8d4215:h2h|Unibet (NL)|Corinthians-SP",
+    "afac77c82c22f3d1654f178b1c8d4215:h2h|Winamax (DE)|Corinthians-SP",
+    "afac77c82c22f3d1654f178b1c8d4215:h2h|Winamax (FR)|Corinthians-SP"
   ]
 }
