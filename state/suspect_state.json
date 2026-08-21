@@ -1,139 +1,166 @@
 {
   "snapshots": {
-    "1e472ff15a30dd1aebb91f2bc7c98281:h2h": {
+    "c72f9ba73c951c5071a2df4ea9d18930:h2h": {
+      "Tipico": {
+        "1. FC Kaiserslautern": 4.0,
+        "Waldhof Mannheim": 8.5,
+        "Draw": 1.4
+      }
+    },
+    "31bd07ffe6f9bc86f039226c80b5c7c1:h2h": {
       "Betclic (FR)": {
-        "Al-Nassr": 1.0,
-        "Al-Riyadh": 55.0,
-        "Draw": 15.0
-      },
-      "Betfair": {
-        "Al-Nassr": 1.02,
-        "Al-Riyadh": 130.0,
+        "BK Hacken": 1.02,
+        "IK Sirius": 100.0,
         "Draw": 40.0
       },
-      "888sport": {
-        "Al-Nassr": 1.0,
-        "Al-Riyadh": 101.0,
-        "Draw": 29.0
-      },
-      "Unibet (SE)": {
-        "Al-Nassr": 1.01,
-        "Al-Riyadh": 91.0,
-        "Draw": 23.0
-      },
-      "Winamax (DE)": {
-        "Al-Nassr": 1.01,
-        "Al-Riyadh": 110.0,
-        "Draw": 23.0
-      },
-      "Tipico": {
-        "Al-Nassr": 1.01,
-        "Al-Riyadh": 80.0,
-        "Draw": 20.0
-      },
       "Winamax (FR)": {
-        "Al-Nassr": 1.02,
-        "Al-Riyadh": 110.0,
-        "Draw": 22.0
-      }
-    },
-    "7feeca839169e79fb6ac12264de15d10:h2h": {
-      "Unibet (SE)": {
-        "FC Lahti": 5.8,
-        "SJK Seinäjoki": 1.71,
-        "Draw": 2.88
-      },
-      "LeoVegas (SE)": {
-        "FC Lahti": 5.6,
-        "SJK Seinäjoki": 1.61,
-        "Draw": 2.7
-      },
-      "Unibet (NL)": {
-        "FC Lahti": 5.8,
-        "SJK Seinäjoki": 1.72,
-        "Draw": 2.85
-      },
-      "Nordic Bet": {
-        "FC Lahti": 6.8,
-        "SJK Seinäjoki": 1.68,
-        "Draw": 2.88
+        "BK Hacken": 1.03,
+        "IK Sirius": 80.0,
+        "Draw": 18.0
       },
       "Betsson": {
-        "FC Lahti": 6.8,
-        "SJK Seinäjoki": 1.65,
-        "Draw": 2.92
+        "BK Hacken": 1.0,
+        "IK Sirius": 26.0,
+        "Draw": 26.0
       },
-      "Pinnacle": {
-        "FC Lahti": 6.3,
-        "SJK Seinäjoki": 1.6,
-        "Draw": 3.43
-      },
-      "Tipico": {
-        "FC Lahti": 7.5,
-        "SJK Seinäjoki": 1.55,
-        "Draw": 3.1
-      },
-      "Betfair": {
-        "FC Lahti": 8.0,
-        "SJK Seinäjoki": 1.71,
-        "Draw": 3.35
-      },
-      "Coolbet": {
-        "FC Lahti": 7.0,
-        "SJK Seinäjoki": 1.73,
-        "Draw": 3.14
+      "Nordic Bet": {
+        "BK Hacken": 1.0,
+        "IK Sirius": 26.0,
+        "Draw": 26.0
       },
       "888sport": {
-        "FC Lahti": 4.0,
-        "SJK Seinäjoki": 2.0,
-        "Draw": 2.75
-      },
-      "Matchbook": {
-        "FC Lahti": 7.8,
-        "SJK Seinäjoki": 1.7,
-        "Draw": 3.35
+        "BK Hacken": 1.03,
+        "IK Sirius": 71.0,
+        "Draw": 15.0
       }
     },
-    "c2b405e2807cc3fb975017f4370d2997:h2h": {
-      "Tipico": {
-        "Karlsruher SC": 3.6,
-        "SC Preußen Münster": 1.95,
-        "Draw": 3.4
-      },
-      "Betclic (FR)": {
-        "Karlsruher SC": 3.65,
-        "SC Preußen Münster": 1.85,
-        "Draw": 3.1
-      },
-      "Winamax (FR)": {
-        "Karlsruher SC": 3.9,
-        "SC Preußen Münster": 1.84,
-        "Draw": 2.95
-      },
-      "Winamax (DE)": {
-        "Karlsruher SC": 3.95,
-        "SC Preußen Münster": 1.94,
-        "Draw": 3.0
-      },
-      "888sport": {
-        "Karlsruher SC": 3.8,
-        "SC Preußen Münster": 1.91,
-        "Draw": 3.1
+    "b48faf8d6b6d22c11c30232a169bcf73:h2h": {
+      "Unibet (SE)": {
+        "Aldosivi Mar del Plata": 3.9,
+        "Union Santa Fe": 3.25,
+        "Draw": 1.93
       },
       "LeoVegas (SE)": {
-        "Karlsruher SC": 3.85,
-        "SC Preußen Münster": 1.72,
-        "Draw": 3.0
+        "Aldosivi Mar del Plata": 3.65,
+        "Union Santa Fe": 3.05,
+        "Draw": 1.83
       },
-      "Unibet (SE)": {
-        "Karlsruher SC": 4.1,
-        "SC Preußen Münster": 1.83,
-        "Draw": 3.15
+      "Betclic (FR)": {
+        "Aldosivi Mar del Plata": 15.0,
+        "Union Santa Fe": 1.23,
+        "Draw": 4.2
+      },
+      "Winamax (FR)": {
+        "Aldosivi Mar del Plata": 16.0,
+        "Union Santa Fe": 1.25,
+        "Draw": 4.2
+      },
+      "Winamax (DE)": {
+        "Aldosivi Mar del Plata": 17.0,
+        "Union Santa Fe": 1.24,
+        "Draw": 4.4
+      },
+      "Nordic Bet": {
+        "Aldosivi Mar del Plata": 3.65,
+        "Union Santa Fe": 3.2,
+        "Draw": 1.92
+      },
+      "Betsson": {
+        "Aldosivi Mar del Plata": 3.65,
+        "Union Santa Fe": 3.2,
+        "Draw": 1.92
+      },
+      "Pinnacle": {
+        "Aldosivi Mar del Plata": 1.43,
+        "Union Santa Fe": 10.53,
+        "Draw": 3.81
+      },
+      "Betfair": {
+        "Aldosivi Mar del Plata": 6.2,
+        "Union Santa Fe": 1.24,
+        "Draw": 3.0
+      }
+    },
+    "50d6f9abc1ad5cb13d1853a8d300d670:h2h": {
+      "Winamax (FR)": {
+        "Grazer AK": 12.5,
+        "Ried": 1.27,
+        "Draw": 4.3
+      },
+      "Coolbet": {
+        "Grazer AK": 15.0,
+        "Ried": 1.25,
+        "Draw": 5.0
+      },
+      "Betclic (FR)": {
+        "Grazer AK": 13.0,
+        "Ried": 1.24,
+        "Draw": 4.2
+      },
+      "Winamax (DE)": {
+        "Grazer AK": 13.5,
+        "Ried": 1.25,
+        "Draw": 4.5
+      },
+      "Betfair": {
+        "Grazer AK": 17.0,
+        "Ried": 1.34,
+        "Draw": 4.9
+      },
+      "888sport": {
+        "Grazer AK": 13.0,
+        "Ried": 1.25,
+        "Draw": 4.4
+      },
+      "Suprabets": {
+        "Grazer AK": 15.0,
+        "Ried": 1.2,
+        "Draw": 4.4
+      },
+      "Betsson": {
+        "Grazer AK": 12.5,
+        "Ried": 1.23,
+        "Draw": 4.4
+      },
+      "Nordic Bet": {
+        "Grazer AK": 12.5,
+        "Ried": 1.23,
+        "Draw": 4.4
+      },
+      "Pinnacle": {
+        "Grazer AK": 16.58,
+        "Ried": 1.28,
+        "Draw": 4.71
+      },
+      "Tipico": {
+        "Grazer AK": 15.0,
+        "Ried": 1.22,
+        "Draw": 5.0
+      },
+      "LeoVegas (SE)": {
+        "Grazer AK": 13.0,
+        "Ried": 1.2,
+        "Draw": 4.0
+      },
+      "PMU (FR)": {
+        "Grazer AK": 12.5,
+        "Ried": 1.16,
+        "Draw": 3.85
       },
       "Unibet (NL)": {
-        "Karlsruher SC": 4.2,
-        "SC Preußen Münster": 1.82,
-        "Draw": 3.15
+        "Grazer AK": 13.0,
+        "Ried": 1.28,
+        "Draw": 4.2
+      },
+      "Unibet (SE)": {
+        "Grazer AK": 13.0,
+        "Ried": 1.28,
+        "Draw": 4.2
+      },
+      "Matchbook": {
+        "Grazer AK": 19.5,
+        "Ried": 1.33,
+        "Draw": 5.0
       }
     }
   },
@@ -9290,17 +9317,179 @@
       "confidence": 15,
       "alert_type": "value",
       "alerted_at": "2026-08-21T16:48:32.652487+00:00"
+    },
+    {
+      "state_key": "b48faf8d6b6d22c11c30232a169bcf73:h2h",
+      "event_id": "b48faf8d6b6d22c11c30232a169bcf73",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Aldosivi Mar del Plata",
+      "away_team": "Union Santa Fe",
+      "commence_time": "2026-08-21T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Aldosivi Mar del Plata",
+      "odds_at_alert": 3.9,
+      "stake_pct": 5.0,
+      "confidence": 158,
+      "alert_type": "value",
+      "alerted_at": "2026-08-21T18:52:06.336638+00:00"
+    },
+    {
+      "state_key": "b48faf8d6b6d22c11c30232a169bcf73:h2h",
+      "event_id": "b48faf8d6b6d22c11c30232a169bcf73",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Aldosivi Mar del Plata",
+      "away_team": "Union Santa Fe",
+      "commence_time": "2026-08-21T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Aldosivi Mar del Plata",
+      "odds_at_alert": 3.65,
+      "stake_pct": 5.0,
+      "confidence": 142,
+      "alert_type": "value",
+      "alerted_at": "2026-08-21T18:52:06.657379+00:00"
+    },
+    {
+      "state_key": "b48faf8d6b6d22c11c30232a169bcf73:h2h",
+      "event_id": "b48faf8d6b6d22c11c30232a169bcf73",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Aldosivi Mar del Plata",
+      "away_team": "Union Santa Fe",
+      "commence_time": "2026-08-21T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Aldosivi Mar del Plata",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 893,
+      "alert_type": "value",
+      "alerted_at": "2026-08-21T18:52:06.966504+00:00"
+    },
+    {
+      "state_key": "b48faf8d6b6d22c11c30232a169bcf73:h2h",
+      "event_id": "b48faf8d6b6d22c11c30232a169bcf73",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Aldosivi Mar del Plata",
+      "away_team": "Union Santa Fe",
+      "commence_time": "2026-08-21T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Aldosivi Mar del Plata",
+      "odds_at_alert": 16.0,
+      "stake_pct": 5.0,
+      "confidence": 959,
+      "alert_type": "value",
+      "alerted_at": "2026-08-21T18:52:07.288654+00:00"
+    },
+    {
+      "state_key": "b48faf8d6b6d22c11c30232a169bcf73:h2h",
+      "event_id": "b48faf8d6b6d22c11c30232a169bcf73",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Aldosivi Mar del Plata",
+      "away_team": "Union Santa Fe",
+      "commence_time": "2026-08-21T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Aldosivi Mar del Plata",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 1025,
+      "alert_type": "value",
+      "alerted_at": "2026-08-21T18:52:07.605201+00:00"
+    },
+    {
+      "state_key": "b48faf8d6b6d22c11c30232a169bcf73:h2h",
+      "event_id": "b48faf8d6b6d22c11c30232a169bcf73",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Aldosivi Mar del Plata",
+      "away_team": "Union Santa Fe",
+      "commence_time": "2026-08-21T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.4,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-08-21T18:52:07.932787+00:00"
+    },
+    {
+      "state_key": "b48faf8d6b6d22c11c30232a169bcf73:h2h",
+      "event_id": "b48faf8d6b6d22c11c30232a169bcf73",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Aldosivi Mar del Plata",
+      "away_team": "Union Santa Fe",
+      "commence_time": "2026-08-21T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Aldosivi Mar del Plata",
+      "odds_at_alert": 3.65,
+      "stake_pct": 5.0,
+      "confidence": 142,
+      "alert_type": "value",
+      "alerted_at": "2026-08-21T18:52:08.268257+00:00"
+    },
+    {
+      "state_key": "b48faf8d6b6d22c11c30232a169bcf73:h2h",
+      "event_id": "b48faf8d6b6d22c11c30232a169bcf73",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Aldosivi Mar del Plata",
+      "away_team": "Union Santa Fe",
+      "commence_time": "2026-08-21T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Aldosivi Mar del Plata",
+      "odds_at_alert": 3.65,
+      "stake_pct": 5.0,
+      "confidence": 142,
+      "alert_type": "value",
+      "alerted_at": "2026-08-21T18:52:08.598726+00:00"
+    },
+    {
+      "state_key": "b48faf8d6b6d22c11c30232a169bcf73:h2h",
+      "event_id": "b48faf8d6b6d22c11c30232a169bcf73",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Aldosivi Mar del Plata",
+      "away_team": "Union Santa Fe",
+      "commence_time": "2026-08-21T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Aldosivi Mar del Plata",
+      "odds_at_alert": 6.2,
+      "stake_pct": 5.0,
+      "confidence": 310,
+      "alert_type": "value",
+      "alerted_at": "2026-08-21T18:52:08.914642+00:00"
+    },
+    {
+      "state_key": "50d6f9abc1ad5cb13d1853a8d300d670:h2h",
+      "event_id": "50d6f9abc1ad5cb13d1853a8d300d670",
+      "sport_key": "soccer",
+      "competition": "Austrian Football Bundesliga",
+      "home_team": "Ried",
+      "away_team": "Grazer AK",
+      "commence_time": "2026-08-21T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Grazer AK",
+      "odds_at_alert": 19.5,
+      "stake_pct": 3.0,
+      "confidence": 12,
+      "alert_type": "value",
+      "alerted_at": "2026-08-21T18:52:09.266263+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "1e472ff15a30dd1aebb91f2bc7c98281:h2h|Betfair|Al-Riyadh",
-    "1e472ff15a30dd1aebb91f2bc7c98281:h2h|Betfair|Draw",
-    "7feeca839169e79fb6ac12264de15d10:h2h|888sport|FC Lahti",
-    "7feeca839169e79fb6ac12264de15d10:h2h|888sport|SJK Seinäjoki",
-    "7feeca839169e79fb6ac12264de15d10:h2h|Betfair|FC Lahti",
-    "7feeca839169e79fb6ac12264de15d10:h2h|Matchbook|FC Lahti",
-    "7feeca839169e79fb6ac12264de15d10:h2h|Tipico|FC Lahti",
-    "7feeca839169e79fb6ac12264de15d10:h2h|William Hill|FC Lahti"
+    "50d6f9abc1ad5cb13d1853a8d300d670:h2h|Matchbook|Grazer AK",
+    "b48faf8d6b6d22c11c30232a169bcf73:h2h|Betclic (FR)|Aldosivi Mar del Plata",
+    "b48faf8d6b6d22c11c30232a169bcf73:h2h|Betfair|Aldosivi Mar del Plata",
+    "b48faf8d6b6d22c11c30232a169bcf73:h2h|Betsson|Aldosivi Mar del Plata",
+    "b48faf8d6b6d22c11c30232a169bcf73:h2h|LeoVegas (SE)|Aldosivi Mar del Plata",
+    "b48faf8d6b6d22c11c30232a169bcf73:h2h|Nordic Bet|Aldosivi Mar del Plata",
+    "b48faf8d6b6d22c11c30232a169bcf73:h2h|Unibet (SE)|Aldosivi Mar del Plata",
+    "b48faf8d6b6d22c11c30232a169bcf73:h2h|Winamax (DE)|Aldosivi Mar del Plata",
+    "b48faf8d6b6d22c11c30232a169bcf73:h2h|Winamax (DE)|Draw",
+    "b48faf8d6b6d22c11c30232a169bcf73:h2h|Winamax (FR)|Aldosivi Mar del Plata"
   ]
 }
