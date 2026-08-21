@@ -1,166 +1,156 @@
 {
   "snapshots": {
-    "c72f9ba73c951c5071a2df4ea9d18930:h2h": {
+    "330394bfb6cb2bfcd44dc1bc1cdfe326:h2h": {
       "Tipico": {
-        "1. FC Kaiserslautern": 4.0,
-        "Waldhof Mannheim": 8.5,
-        "Draw": 1.4
-      }
-    },
-    "31bd07ffe6f9bc86f039226c80b5c7c1:h2h": {
-      "Betclic (FR)": {
-        "BK Hacken": 1.02,
-        "IK Sirius": 100.0,
-        "Draw": 40.0
-      },
-      "Winamax (FR)": {
-        "BK Hacken": 1.03,
-        "IK Sirius": 80.0,
-        "Draw": 18.0
-      },
-      "Betsson": {
-        "BK Hacken": 1.0,
-        "IK Sirius": 26.0,
-        "Draw": 26.0
+        "Cracovia Kraków": 14.0,
+        "Wieczysta Kraków": 22.0,
+        "Draw": 1.02
       },
       "Nordic Bet": {
-        "BK Hacken": 1.0,
-        "IK Sirius": 26.0,
-        "Draw": 26.0
-      },
-      "888sport": {
-        "BK Hacken": 1.03,
-        "IK Sirius": 71.0,
-        "Draw": 15.0
-      }
-    },
-    "b48faf8d6b6d22c11c30232a169bcf73:h2h": {
-      "Unibet (SE)": {
-        "Aldosivi Mar del Plata": 3.9,
-        "Union Santa Fe": 3.25,
-        "Draw": 1.93
-      },
-      "LeoVegas (SE)": {
-        "Aldosivi Mar del Plata": 3.65,
-        "Union Santa Fe": 3.05,
-        "Draw": 1.83
-      },
-      "Betclic (FR)": {
-        "Aldosivi Mar del Plata": 15.0,
-        "Union Santa Fe": 1.23,
-        "Draw": 4.2
-      },
-      "Winamax (FR)": {
-        "Aldosivi Mar del Plata": 16.0,
-        "Union Santa Fe": 1.25,
-        "Draw": 4.2
-      },
-      "Winamax (DE)": {
-        "Aldosivi Mar del Plata": 17.0,
-        "Union Santa Fe": 1.24,
-        "Draw": 4.4
-      },
-      "Nordic Bet": {
-        "Aldosivi Mar del Plata": 3.65,
-        "Union Santa Fe": 3.2,
-        "Draw": 1.92
-      },
-      "Betsson": {
-        "Aldosivi Mar del Plata": 3.65,
-        "Union Santa Fe": 3.2,
-        "Draw": 1.92
-      },
-      "Pinnacle": {
-        "Aldosivi Mar del Plata": 1.43,
-        "Union Santa Fe": 10.53,
-        "Draw": 3.81
-      },
-      "Betfair": {
-        "Aldosivi Mar del Plata": 6.2,
-        "Union Santa Fe": 1.24,
-        "Draw": 3.0
-      }
-    },
-    "50d6f9abc1ad5cb13d1853a8d300d670:h2h": {
-      "Winamax (FR)": {
-        "Grazer AK": 12.5,
-        "Ried": 1.27,
-        "Draw": 4.3
+        "Cracovia Kraków": 7.2,
+        "Wieczysta Kraków": 9.6,
+        "Draw": 1.16
       },
       "Coolbet": {
-        "Grazer AK": 15.0,
-        "Ried": 1.25,
-        "Draw": 5.0
-      },
-      "Betclic (FR)": {
-        "Grazer AK": 13.0,
-        "Ried": 1.24,
-        "Draw": 4.2
-      },
-      "Winamax (DE)": {
-        "Grazer AK": 13.5,
-        "Ried": 1.25,
-        "Draw": 4.5
-      },
-      "Betfair": {
-        "Grazer AK": 17.0,
-        "Ried": 1.34,
-        "Draw": 4.9
-      },
-      "888sport": {
-        "Grazer AK": 13.0,
-        "Ried": 1.25,
-        "Draw": 4.4
-      },
-      "Suprabets": {
-        "Grazer AK": 15.0,
-        "Ried": 1.2,
-        "Draw": 4.4
+        "Cracovia Kraków": 20.0,
+        "Wieczysta Kraków": 25.0,
+        "Draw": 1.02
       },
       "Betsson": {
-        "Grazer AK": 12.5,
-        "Ried": 1.23,
-        "Draw": 4.4
+        "Cracovia Kraków": 6.3,
+        "Wieczysta Kraków": 8.6,
+        "Draw": 1.2
       },
-      "Nordic Bet": {
-        "Grazer AK": 12.5,
-        "Ried": 1.23,
-        "Draw": 4.4
+      "Betclic (FR)": {
+        "Cracovia Kraków": 1.0,
+        "Wieczysta Kraków": 100.0,
+        "Draw": 40.0
+      },
+      "Winamax (DE)": {
+        "Cracovia Kraków": 14.5,
+        "Wieczysta Kraków": 21.0,
+        "Draw": 1.04
+      },
+      "Betfair": {
+        "Cracovia Kraków": 38.0,
+        "Wieczysta Kraków": 26.0,
+        "Draw": 1.02
+      },
+      "888sport": {
+        "Cracovia Kraków": 10.0,
+        "Wieczysta Kraków": 15.0,
+        "Draw": 1.1
       },
       "Pinnacle": {
-        "Grazer AK": 16.58,
-        "Ried": 1.28,
-        "Draw": 4.71
-      },
-      "Tipico": {
-        "Grazer AK": 15.0,
-        "Ried": 1.22,
-        "Draw": 5.0
-      },
-      "LeoVegas (SE)": {
-        "Grazer AK": 13.0,
-        "Ried": 1.2,
-        "Draw": 4.0
-      },
-      "PMU (FR)": {
-        "Grazer AK": 12.5,
-        "Ried": 1.16,
-        "Draw": 3.85
+        "Cracovia Kraków": 5.88,
+        "Wieczysta Kraków": 8.07,
+        "Draw": 1.3
       },
       "Unibet (NL)": {
-        "Grazer AK": 13.0,
-        "Ried": 1.28,
-        "Draw": 4.2
+        "Cracovia Kraków": 25.0,
+        "Wieczysta Kraków": 29.0,
+        "Draw": 1.02
       },
       "Unibet (SE)": {
-        "Grazer AK": 13.0,
-        "Ried": 1.28,
-        "Draw": 4.2
+        "Cracovia Kraków": 25.0,
+        "Wieczysta Kraków": 29.0,
+        "Draw": 1.02
       },
-      "Matchbook": {
-        "Grazer AK": 19.5,
-        "Ried": 1.33,
-        "Draw": 5.0
+      "LeoVegas (SE)": {
+        "Cracovia Kraków": 8.5,
+        "Wieczysta Kraków": 10.5,
+        "Draw": 1.06
+      },
+      "PMU (FR)": {
+        "Cracovia Kraków": 8.5,
+        "Wieczysta Kraków": 10.0,
+        "Draw": 1.02
+      }
+    },
+    "6c4e291875a301113d20658a1d6d345b:h2h": {
+      "Coolbet": {
+        "US Catanzaro 1929": 150.0,
+        "Vicenza": 1.01,
+        "Draw": 13.0
+      },
+      "Betsson": {
+        "US Catanzaro 1929": 65.0,
+        "Vicenza": 1.05,
+        "Draw": 7.7
+      },
+      "Nordic Bet": {
+        "US Catanzaro 1929": 65.0,
+        "Vicenza": 1.05,
+        "Draw": 7.7
+      },
+      "888sport": {
+        "US Catanzaro 1929": 151.0,
+        "Vicenza": 1.02,
+        "Draw": 19.0
+      },
+      "Pinnacle": {
+        "US Catanzaro 1929": 1.29,
+        "Vicenza": 18.77,
+        "Draw": 4.26
+      },
+      "Betfair": {
+        "US Catanzaro 1929": 120.0,
+        "Vicenza": 1.03,
+        "Draw": 12.0
+      }
+    },
+    "71e8c07a7f26495f00f4fa53cb4b45ff:h2h": {
+      "Betsson": {
+        "Bohemians": 1.0,
+        "Derry City": 81.0,
+        "Draw": 81.0
+      },
+      "Winamax (DE)": {
+        "Bohemians": 1.06,
+        "Derry City": 60.0,
+        "Draw": 8.5
+      },
+      "Nordic Bet": {
+        "Bohemians": 1.0,
+        "Derry City": 81.0,
+        "Draw": 81.0
+      },
+      "Betfair": {
+        "Bohemians": 1.01,
+        "Derry City": 1.25,
+        "Draw": 34.0
+      }
+    },
+    "e16214f6f916e0937f31cb24106c580e:h2h": {
+      "Winamax (FR)": {
+        "Drogheda United": 1000.0,
+        "St Patricks Athletic": 1.02,
+        "Draw": 23.0
+      },
+      "Nordic Bet": {
+        "Drogheda United": 60.0,
+        "St Patricks Athletic": 1.03,
+        "Draw": 9.5
+      },
+      "Winamax (DE)": {
+        "Drogheda United": 1000.0,
+        "St Patricks Athletic": 1.01,
+        "Draw": 20.0
+      },
+      "Coolbet": {
+        "Drogheda United": 50.0,
+        "St Patricks Athletic": 1.01,
+        "Draw": 11.0
+      },
+      "Betsson": {
+        "Drogheda United": 60.0,
+        "St Patricks Athletic": 1.03,
+        "Draw": 9.5
+      },
+      "Betfair": {
+        "Drogheda United": 5.5,
+        "St Patricks Athletic": 1.02,
+        "Draw": 11.0
       }
     }
   },
@@ -9477,19 +9467,553 @@
       "confidence": 12,
       "alert_type": "value",
       "alerted_at": "2026-08-21T18:52:09.266263+00:00"
+    },
+    {
+      "state_key": "330394bfb6cb2bfcd44dc1bc1cdfe326:h2h",
+      "event_id": "330394bfb6cb2bfcd44dc1bc1cdfe326",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Cracovia Kraków",
+      "away_team": "Wieczysta Kraków",
+      "commence_time": "2026-08-21T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cracovia Kraków",
+      "odds_at_alert": 14.0,
+      "stake_pct": 5.0,
+      "confidence": 124,
+      "alert_type": "value",
+      "alerted_at": "2026-08-21T20:36:23.484911+00:00"
+    },
+    {
+      "state_key": "330394bfb6cb2bfcd44dc1bc1cdfe326:h2h",
+      "event_id": "330394bfb6cb2bfcd44dc1bc1cdfe326",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Cracovia Kraków",
+      "away_team": "Wieczysta Kraków",
+      "commence_time": "2026-08-21T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Wieczysta Kraków",
+      "odds_at_alert": 22.0,
+      "stake_pct": 5.0,
+      "confidence": 156,
+      "alert_type": "value",
+      "alerted_at": "2026-08-21T20:36:23.850668+00:00"
+    },
+    {
+      "state_key": "330394bfb6cb2bfcd44dc1bc1cdfe326:h2h",
+      "event_id": "330394bfb6cb2bfcd44dc1bc1cdfe326",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Cracovia Kraków",
+      "away_team": "Wieczysta Kraków",
+      "commence_time": "2026-08-21T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cracovia Kraków",
+      "odds_at_alert": 7.2,
+      "stake_pct": 5.0,
+      "confidence": 15,
+      "alert_type": "value",
+      "alerted_at": "2026-08-21T20:36:24.197398+00:00"
+    },
+    {
+      "state_key": "330394bfb6cb2bfcd44dc1bc1cdfe326:h2h",
+      "event_id": "330394bfb6cb2bfcd44dc1bc1cdfe326",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Cracovia Kraków",
+      "away_team": "Wieczysta Kraków",
+      "commence_time": "2026-08-21T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Wieczysta Kraków",
+      "odds_at_alert": 9.6,
+      "stake_pct": 3.0,
+      "confidence": 12,
+      "alert_type": "value",
+      "alerted_at": "2026-08-21T20:36:24.566367+00:00"
+    },
+    {
+      "state_key": "330394bfb6cb2bfcd44dc1bc1cdfe326:h2h",
+      "event_id": "330394bfb6cb2bfcd44dc1bc1cdfe326",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Cracovia Kraków",
+      "away_team": "Wieczysta Kraków",
+      "commence_time": "2026-08-21T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cracovia Kraków",
+      "odds_at_alert": 20.0,
+      "stake_pct": 5.0,
+      "confidence": 220,
+      "alert_type": "value",
+      "alerted_at": "2026-08-21T20:36:24.929974+00:00"
+    },
+    {
+      "state_key": "330394bfb6cb2bfcd44dc1bc1cdfe326:h2h",
+      "event_id": "330394bfb6cb2bfcd44dc1bc1cdfe326",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Cracovia Kraków",
+      "away_team": "Wieczysta Kraków",
+      "commence_time": "2026-08-21T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Wieczysta Kraków",
+      "odds_at_alert": 25.0,
+      "stake_pct": 5.0,
+      "confidence": 191,
+      "alert_type": "value",
+      "alerted_at": "2026-08-21T20:36:25.262425+00:00"
+    },
+    {
+      "state_key": "330394bfb6cb2bfcd44dc1bc1cdfe326:h2h",
+      "event_id": "330394bfb6cb2bfcd44dc1bc1cdfe326",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Cracovia Kraków",
+      "away_team": "Wieczysta Kraków",
+      "commence_time": "2026-08-21T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Wieczysta Kraków",
+      "odds_at_alert": 100.0,
+      "stake_pct": 5.0,
+      "confidence": 1065,
+      "alert_type": "value",
+      "alerted_at": "2026-08-21T20:36:25.598640+00:00"
+    },
+    {
+      "state_key": "330394bfb6cb2bfcd44dc1bc1cdfe326:h2h",
+      "event_id": "330394bfb6cb2bfcd44dc1bc1cdfe326",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Cracovia Kraków",
+      "away_team": "Wieczysta Kraków",
+      "commence_time": "2026-08-21T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 40.0,
+      "stake_pct": 5.0,
+      "confidence": 2794,
+      "alert_type": "value",
+      "alerted_at": "2026-08-21T20:36:25.921859+00:00"
+    },
+    {
+      "state_key": "330394bfb6cb2bfcd44dc1bc1cdfe326:h2h",
+      "event_id": "330394bfb6cb2bfcd44dc1bc1cdfe326",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Cracovia Kraków",
+      "away_team": "Wieczysta Kraków",
+      "commence_time": "2026-08-21T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cracovia Kraków",
+      "odds_at_alert": 14.5,
+      "stake_pct": 5.0,
+      "confidence": 132,
+      "alert_type": "value",
+      "alerted_at": "2026-08-21T20:36:26.241350+00:00"
+    },
+    {
+      "state_key": "330394bfb6cb2bfcd44dc1bc1cdfe326:h2h",
+      "event_id": "330394bfb6cb2bfcd44dc1bc1cdfe326",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Cracovia Kraków",
+      "away_team": "Wieczysta Kraków",
+      "commence_time": "2026-08-21T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Wieczysta Kraków",
+      "odds_at_alert": 21.0,
+      "stake_pct": 5.0,
+      "confidence": 145,
+      "alert_type": "value",
+      "alerted_at": "2026-08-21T20:36:26.583164+00:00"
+    },
+    {
+      "state_key": "330394bfb6cb2bfcd44dc1bc1cdfe326:h2h",
+      "event_id": "330394bfb6cb2bfcd44dc1bc1cdfe326",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Cracovia Kraków",
+      "away_team": "Wieczysta Kraków",
+      "commence_time": "2026-08-21T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cracovia Kraków",
+      "odds_at_alert": 38.0,
+      "stake_pct": 5.0,
+      "confidence": 508,
+      "alert_type": "value",
+      "alerted_at": "2026-08-21T20:36:26.909361+00:00"
+    },
+    {
+      "state_key": "330394bfb6cb2bfcd44dc1bc1cdfe326:h2h",
+      "event_id": "330394bfb6cb2bfcd44dc1bc1cdfe326",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Cracovia Kraków",
+      "away_team": "Wieczysta Kraków",
+      "commence_time": "2026-08-21T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Wieczysta Kraków",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 203,
+      "alert_type": "value",
+      "alerted_at": "2026-08-21T20:36:27.261169+00:00"
+    },
+    {
+      "state_key": "330394bfb6cb2bfcd44dc1bc1cdfe326:h2h",
+      "event_id": "330394bfb6cb2bfcd44dc1bc1cdfe326",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Cracovia Kraków",
+      "away_team": "Wieczysta Kraków",
+      "commence_time": "2026-08-21T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cracovia Kraków",
+      "odds_at_alert": 10.0,
+      "stake_pct": 5.0,
+      "confidence": 60,
+      "alert_type": "value",
+      "alerted_at": "2026-08-21T20:36:27.613436+00:00"
+    },
+    {
+      "state_key": "330394bfb6cb2bfcd44dc1bc1cdfe326:h2h",
+      "event_id": "330394bfb6cb2bfcd44dc1bc1cdfe326",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Cracovia Kraków",
+      "away_team": "Wieczysta Kraków",
+      "commence_time": "2026-08-21T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Wieczysta Kraków",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 75,
+      "alert_type": "value",
+      "alerted_at": "2026-08-21T20:36:27.975320+00:00"
+    },
+    {
+      "state_key": "330394bfb6cb2bfcd44dc1bc1cdfe326:h2h",
+      "event_id": "330394bfb6cb2bfcd44dc1bc1cdfe326",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Cracovia Kraków",
+      "away_team": "Wieczysta Kraków",
+      "commence_time": "2026-08-21T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cracovia Kraków",
+      "odds_at_alert": 25.0,
+      "stake_pct": 5.0,
+      "confidence": 300,
+      "alert_type": "value",
+      "alerted_at": "2026-08-21T20:36:28.312717+00:00"
+    },
+    {
+      "state_key": "330394bfb6cb2bfcd44dc1bc1cdfe326:h2h",
+      "event_id": "330394bfb6cb2bfcd44dc1bc1cdfe326",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Cracovia Kraków",
+      "away_team": "Wieczysta Kraków",
+      "commence_time": "2026-08-21T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Wieczysta Kraków",
+      "odds_at_alert": 29.0,
+      "stake_pct": 5.0,
+      "confidence": 238,
+      "alert_type": "value",
+      "alerted_at": "2026-08-21T20:36:28.649501+00:00"
+    },
+    {
+      "state_key": "330394bfb6cb2bfcd44dc1bc1cdfe326:h2h",
+      "event_id": "330394bfb6cb2bfcd44dc1bc1cdfe326",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Cracovia Kraków",
+      "away_team": "Wieczysta Kraków",
+      "commence_time": "2026-08-21T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cracovia Kraków",
+      "odds_at_alert": 25.0,
+      "stake_pct": 5.0,
+      "confidence": 300,
+      "alert_type": "value",
+      "alerted_at": "2026-08-21T20:36:29.234884+00:00"
+    },
+    {
+      "state_key": "330394bfb6cb2bfcd44dc1bc1cdfe326:h2h",
+      "event_id": "330394bfb6cb2bfcd44dc1bc1cdfe326",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Cracovia Kraków",
+      "away_team": "Wieczysta Kraków",
+      "commence_time": "2026-08-21T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Wieczysta Kraków",
+      "odds_at_alert": 29.0,
+      "stake_pct": 5.0,
+      "confidence": 238,
+      "alert_type": "value",
+      "alerted_at": "2026-08-21T20:36:29.590885+00:00"
+    },
+    {
+      "state_key": "330394bfb6cb2bfcd44dc1bc1cdfe326:h2h",
+      "event_id": "330394bfb6cb2bfcd44dc1bc1cdfe326",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Cracovia Kraków",
+      "away_team": "Wieczysta Kraków",
+      "commence_time": "2026-08-21T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cracovia Kraków",
+      "odds_at_alert": 8.5,
+      "stake_pct": 5.0,
+      "confidence": 36,
+      "alert_type": "value",
+      "alerted_at": "2026-08-21T20:36:29.994765+00:00"
+    },
+    {
+      "state_key": "330394bfb6cb2bfcd44dc1bc1cdfe326:h2h",
+      "event_id": "330394bfb6cb2bfcd44dc1bc1cdfe326",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Cracovia Kraków",
+      "away_team": "Wieczysta Kraków",
+      "commence_time": "2026-08-21T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Wieczysta Kraków",
+      "odds_at_alert": 10.5,
+      "stake_pct": 5.0,
+      "confidence": 22,
+      "alert_type": "value",
+      "alerted_at": "2026-08-21T20:36:30.360716+00:00"
+    },
+    {
+      "state_key": "330394bfb6cb2bfcd44dc1bc1cdfe326:h2h",
+      "event_id": "330394bfb6cb2bfcd44dc1bc1cdfe326",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Cracovia Kraków",
+      "away_team": "Wieczysta Kraków",
+      "commence_time": "2026-08-21T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cracovia Kraków",
+      "odds_at_alert": 8.5,
+      "stake_pct": 5.0,
+      "confidence": 36,
+      "alert_type": "value",
+      "alerted_at": "2026-08-21T20:36:30.759579+00:00"
+    },
+    {
+      "state_key": "330394bfb6cb2bfcd44dc1bc1cdfe326:h2h",
+      "event_id": "330394bfb6cb2bfcd44dc1bc1cdfe326",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Cracovia Kraków",
+      "away_team": "Wieczysta Kraków",
+      "commence_time": "2026-08-21T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Wieczysta Kraków",
+      "odds_at_alert": 10.0,
+      "stake_pct": 5.0,
+      "confidence": 17,
+      "alert_type": "value",
+      "alerted_at": "2026-08-21T20:36:31.130987+00:00"
+    },
+    {
+      "state_key": "6c4e291875a301113d20658a1d6d345b:h2h",
+      "event_id": "6c4e291875a301113d20658a1d6d345b",
+      "sport_key": "soccer",
+      "competition": "Serie B - Italy",
+      "home_team": "Vicenza",
+      "away_team": "US Catanzaro 1929",
+      "commence_time": "2026-08-21T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "US Catanzaro 1929",
+      "odds_at_alert": 150.0,
+      "stake_pct": 5.0,
+      "confidence": 10837,
+      "alert_type": "value",
+      "alerted_at": "2026-08-21T20:36:31.467614+00:00"
+    },
+    {
+      "state_key": "6c4e291875a301113d20658a1d6d345b:h2h",
+      "event_id": "6c4e291875a301113d20658a1d6d345b",
+      "sport_key": "soccer",
+      "competition": "Serie B - Italy",
+      "home_team": "Vicenza",
+      "away_team": "US Catanzaro 1929",
+      "commence_time": "2026-08-21T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 187,
+      "alert_type": "value",
+      "alerted_at": "2026-08-21T20:36:31.801330+00:00"
+    },
+    {
+      "state_key": "6c4e291875a301113d20658a1d6d345b:h2h",
+      "event_id": "6c4e291875a301113d20658a1d6d345b",
+      "sport_key": "soccer",
+      "competition": "Serie B - Italy",
+      "home_team": "Vicenza",
+      "away_team": "US Catanzaro 1929",
+      "commence_time": "2026-08-21T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "US Catanzaro 1929",
+      "odds_at_alert": 65.0,
+      "stake_pct": 5.0,
+      "confidence": 4639,
+      "alert_type": "value",
+      "alerted_at": "2026-08-21T20:36:32.142322+00:00"
+    },
+    {
+      "state_key": "6c4e291875a301113d20658a1d6d345b:h2h",
+      "event_id": "6c4e291875a301113d20658a1d6d345b",
+      "sport_key": "soccer",
+      "competition": "Serie B - Italy",
+      "home_team": "Vicenza",
+      "away_team": "US Catanzaro 1929",
+      "commence_time": "2026-08-21T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 7.7,
+      "stake_pct": 5.0,
+      "confidence": 70,
+      "alert_type": "value",
+      "alerted_at": "2026-08-21T20:36:32.473967+00:00"
+    },
+    {
+      "state_key": "6c4e291875a301113d20658a1d6d345b:h2h",
+      "event_id": "6c4e291875a301113d20658a1d6d345b",
+      "sport_key": "soccer",
+      "competition": "Serie B - Italy",
+      "home_team": "Vicenza",
+      "away_team": "US Catanzaro 1929",
+      "commence_time": "2026-08-21T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "US Catanzaro 1929",
+      "odds_at_alert": 65.0,
+      "stake_pct": 5.0,
+      "confidence": 4639,
+      "alert_type": "value",
+      "alerted_at": "2026-08-21T20:36:32.796268+00:00"
+    },
+    {
+      "state_key": "6c4e291875a301113d20658a1d6d345b:h2h",
+      "event_id": "6c4e291875a301113d20658a1d6d345b",
+      "sport_key": "soccer",
+      "competition": "Serie B - Italy",
+      "home_team": "Vicenza",
+      "away_team": "US Catanzaro 1929",
+      "commence_time": "2026-08-21T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 7.7,
+      "stake_pct": 5.0,
+      "confidence": 70,
+      "alert_type": "value",
+      "alerted_at": "2026-08-21T20:36:33.137713+00:00"
+    },
+    {
+      "state_key": "6c4e291875a301113d20658a1d6d345b:h2h",
+      "event_id": "6c4e291875a301113d20658a1d6d345b",
+      "sport_key": "soccer",
+      "competition": "Serie B - Italy",
+      "home_team": "Vicenza",
+      "away_team": "US Catanzaro 1929",
+      "commence_time": "2026-08-21T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "US Catanzaro 1929",
+      "odds_at_alert": 151.0,
+      "stake_pct": 5.0,
+      "confidence": 10909,
+      "alert_type": "value",
+      "alerted_at": "2026-08-21T20:36:33.472372+00:00"
+    },
+    {
+      "state_key": "6c4e291875a301113d20658a1d6d345b:h2h",
+      "event_id": "6c4e291875a301113d20658a1d6d345b",
+      "sport_key": "soccer",
+      "competition": "Serie B - Italy",
+      "home_team": "Vicenza",
+      "away_team": "US Catanzaro 1929",
+      "commence_time": "2026-08-21T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 19.0,
+      "stake_pct": 5.0,
+      "confidence": 319,
+      "alert_type": "value",
+      "alerted_at": "2026-08-21T20:36:33.794941+00:00"
+    },
+    {
+      "state_key": "6c4e291875a301113d20658a1d6d345b:h2h",
+      "event_id": "6c4e291875a301113d20658a1d6d345b",
+      "sport_key": "soccer",
+      "competition": "Serie B - Italy",
+      "home_team": "Vicenza",
+      "away_team": "US Catanzaro 1929",
+      "commence_time": "2026-08-21T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "US Catanzaro 1929",
+      "odds_at_alert": 120.0,
+      "stake_pct": 5.0,
+      "confidence": 8649,
+      "alert_type": "value",
+      "alerted_at": "2026-08-21T20:36:34.196047+00:00"
+    },
+    {
+      "state_key": "6c4e291875a301113d20658a1d6d345b:h2h",
+      "event_id": "6c4e291875a301113d20658a1d6d345b",
+      "sport_key": "soccer",
+      "competition": "Serie B - Italy",
+      "home_team": "Vicenza",
+      "away_team": "US Catanzaro 1929",
+      "commence_time": "2026-08-21T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 165,
+      "alert_type": "value",
+      "alerted_at": "2026-08-21T20:36:34.543686+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "50d6f9abc1ad5cb13d1853a8d300d670:h2h|Matchbook|Grazer AK",
-    "b48faf8d6b6d22c11c30232a169bcf73:h2h|Betclic (FR)|Aldosivi Mar del Plata",
-    "b48faf8d6b6d22c11c30232a169bcf73:h2h|Betfair|Aldosivi Mar del Plata",
-    "b48faf8d6b6d22c11c30232a169bcf73:h2h|Betsson|Aldosivi Mar del Plata",
-    "b48faf8d6b6d22c11c30232a169bcf73:h2h|LeoVegas (SE)|Aldosivi Mar del Plata",
-    "b48faf8d6b6d22c11c30232a169bcf73:h2h|Nordic Bet|Aldosivi Mar del Plata",
-    "b48faf8d6b6d22c11c30232a169bcf73:h2h|Unibet (SE)|Aldosivi Mar del Plata",
-    "b48faf8d6b6d22c11c30232a169bcf73:h2h|Winamax (DE)|Aldosivi Mar del Plata",
-    "b48faf8d6b6d22c11c30232a169bcf73:h2h|Winamax (DE)|Draw",
-    "b48faf8d6b6d22c11c30232a169bcf73:h2h|Winamax (FR)|Aldosivi Mar del Plata"
+    "330394bfb6cb2bfcd44dc1bc1cdfe326:h2h|888sport|Cracovia Kraków",
+    "330394bfb6cb2bfcd44dc1bc1cdfe326:h2h|888sport|Wieczysta Kraków",
+    "330394bfb6cb2bfcd44dc1bc1cdfe326:h2h|Betclic (FR)|Draw",
+    "330394bfb6cb2bfcd44dc1bc1cdfe326:h2h|Betclic (FR)|Wieczysta Kraków",
+    "330394bfb6cb2bfcd44dc1bc1cdfe326:h2h|Betfair|Cracovia Kraków",
+    "330394bfb6cb2bfcd44dc1bc1cdfe326:h2h|Betfair|Wieczysta Kraków",
+    "330394bfb6cb2bfcd44dc1bc1cdfe326:h2h|Coolbet|Cracovia Kraków",
+    "330394bfb6cb2bfcd44dc1bc1cdfe326:h2h|Coolbet|Wieczysta Kraków",
+    "330394bfb6cb2bfcd44dc1bc1cdfe326:h2h|LeoVegas (SE)|Cracovia Kraków",
+    "330394bfb6cb2bfcd44dc1bc1cdfe326:h2h|LeoVegas (SE)|Wieczysta Kraków",
+    "330394bfb6cb2bfcd44dc1bc1cdfe326:h2h|Nordic Bet|Cracovia Kraków",
+    "330394bfb6cb2bfcd44dc1bc1cdfe326:h2h|Nordic Bet|Wieczysta Kraków",
+    "330394bfb6cb2bfcd44dc1bc1cdfe326:h2h|PMU (FR)|Cracovia Kraków",
+    "330394bfb6cb2bfcd44dc1bc1cdfe326:h2h|PMU (FR)|Wieczysta Kraków",
+    "330394bfb6cb2bfcd44dc1bc1cdfe326:h2h|Tipico|Cracovia Kraków",
+    "330394bfb6cb2bfcd44dc1bc1cdfe326:h2h|Tipico|Wieczysta Kraków",
+    "330394bfb6cb2bfcd44dc1bc1cdfe326:h2h|Unibet (NL)|Cracovia Kraków",
+    "330394bfb6cb2bfcd44dc1bc1cdfe326:h2h|Unibet (NL)|Wieczysta Kraków",
+    "330394bfb6cb2bfcd44dc1bc1cdfe326:h2h|Unibet (SE)|Cracovia Kraków",
+    "330394bfb6cb2bfcd44dc1bc1cdfe326:h2h|Unibet (SE)|Wieczysta Kraków",
+    "330394bfb6cb2bfcd44dc1bc1cdfe326:h2h|Winamax (DE)|Cracovia Kraków",
+    "330394bfb6cb2bfcd44dc1bc1cdfe326:h2h|Winamax (DE)|Wieczysta Kraków",
+    "6c4e291875a301113d20658a1d6d345b:h2h|888sport|Draw",
+    "6c4e291875a301113d20658a1d6d345b:h2h|888sport|US Catanzaro 1929",
+    "6c4e291875a301113d20658a1d6d345b:h2h|Betfair|Draw",
+    "6c4e291875a301113d20658a1d6d345b:h2h|Betfair|US Catanzaro 1929",
+    "6c4e291875a301113d20658a1d6d345b:h2h|Betsson|Draw",
+    "6c4e291875a301113d20658a1d6d345b:h2h|Betsson|US Catanzaro 1929",
+    "6c4e291875a301113d20658a1d6d345b:h2h|Coolbet|Draw",
+    "6c4e291875a301113d20658a1d6d345b:h2h|Coolbet|US Catanzaro 1929",
+    "6c4e291875a301113d20658a1d6d345b:h2h|Nordic Bet|Draw",
+    "6c4e291875a301113d20658a1d6d345b:h2h|Nordic Bet|US Catanzaro 1929"
   ]
 }
