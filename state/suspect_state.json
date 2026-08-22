@@ -1,154 +1,129 @@
 {
   "snapshots": {
-    "7d23fb3e22dd7ba387dbad34e610d70b:h2h": {
-      "Coolbet": {
-        "AZ Alkmaar": 1.01,
-        "Fortuna Sittard": 500.0,
-        "Draw": 20.0
-      },
-      "Betclic (FR)": {
-        "AZ Alkmaar": 1.0,
-        "Fortuna Sittard": 100.0,
-        "Draw": 29.0
-      },
-      "Winamax (DE)": {
-        "AZ Alkmaar": 1.01,
-        "Fortuna Sittard": 450.0,
-        "Draw": 22.0
-      },
-      "Winamax (FR)": {
-        "AZ Alkmaar": 1.02,
-        "Fortuna Sittard": 450.0,
-        "Draw": 21.0
-      },
-      "Nordic Bet": {
-        "AZ Alkmaar": 1.0,
-        "Fortuna Sittard": 101.0,
-        "Draw": 15.0
-      },
-      "Betsson": {
-        "AZ Alkmaar": 1.0,
-        "Fortuna Sittard": 101.0,
-        "Draw": 15.0
-      },
-      "888sport": {
-        "AZ Alkmaar": 1.01,
-        "Fortuna Sittard": 151.0,
-        "Draw": 26.0
-      },
-      "Betfair": {
-        "AZ Alkmaar": 1.03,
-        "Fortuna Sittard": 5.5,
-        "Draw": 26.0
-      },
+    "53730af508dabf03abb997dbb75cc467:h2h": {
       "Tipico": {
-        "AZ Alkmaar": 1.01,
-        "Fortuna Sittard": 400.0,
-        "Draw": 20.0
+        "Arminia Bielefeld": 1.85,
+        "SG Sonnenhof Großaspach": 1.85
       }
     },
-    "2cca300b46d9f8a86994894f3877657d:h2h": {
-      "Betsson": {
-        "Académico de Viseu": 81.0,
-        "CS Maritimo": 17.0,
-        "Draw": 1.0
-      },
+    "4b5ea5feace9ff9415a07fe92ad37ef5:h2h": {
       "Nordic Bet": {
-        "Académico de Viseu": 21.0,
-        "CS Maritimo": 15.0,
+        "Dundee FC": 1.0,
+        "Dundee United": 26.0,
+        "Draw": 26.0
+      },
+      "888sport": {
+        "Dundee FC": 1.0,
+        "Dundee United": 151.0,
+        "Draw": 66.0
+      },
+      "Betsson": {
+        "Dundee FC": 1.0,
+        "Dundee United": 36.0,
+        "Draw": 21.0
+      },
+      "Betfair": {
+        "Dundee FC": 1.01,
+        "Dundee United": 280.0,
+        "Draw": 46.0
+      }
+    },
+    "d0358260dc3ba713ae9e9e0a6c8cc7e6:h2h": {
+      "Winamax (FR)": {
+        "FC Utrecht": 48.0,
+        "Sparta Rotterdam": 34.0,
+        "Draw": 1.02
+      },
+      "Coolbet": {
+        "FC Utrecht": 28.0,
+        "Sparta Rotterdam": 22.0,
         "Draw": 1.04
       },
       "Betclic (FR)": {
-        "Académico de Viseu": 19.0,
-        "CS Maritimo": 13.0,
+        "FC Utrecht": 23.0,
+        "Sparta Rotterdam": 17.75,
         "Draw": 1.05
       },
       "Winamax (DE)": {
-        "Académico de Viseu": 1000.0,
-        "CS Maritimo": 42.0,
-        "Draw": 1.0
-      },
-      "Winamax (FR)": {
-        "Académico de Viseu": 34.0,
-        "CS Maritimo": 22.0,
-        "Draw": 1.04
+        "FC Utrecht": 42.0,
+        "Sparta Rotterdam": 30.0,
+        "Draw": 1.01
       },
       "Betfair": {
-        "Académico de Viseu": 1.01,
-        "CS Maritimo": 1.01,
+        "FC Utrecht": 1.01,
+        "Sparta Rotterdam": 1.4
+      },
+      "888sport": {
+        "FC Utrecht": 1.06,
+        "Sparta Rotterdam": 91.0,
+        "Draw": 9.5
+      },
+      "Betsson": {
+        "FC Utrecht": 26.0,
+        "Sparta Rotterdam": 21.0,
+        "Draw": 1.01
+      },
+      "Nordic Bet": {
+        "FC Utrecht": 26.0,
+        "Sparta Rotterdam": 21.0,
         "Draw": 1.01
       },
       "Tipico": {
-        "Académico de Viseu": 30.0,
-        "CS Maritimo": 12.0,
+        "FC Utrecht": 30.0,
+        "Sparta Rotterdam": 30.0,
+        "Draw": 1.01
+      },
+      "Unibet (NL)": {
+        "FC Utrecht": 23.0,
+        "Sparta Rotterdam": 23.0,
+        "Draw": 1.03
+      },
+      "Unibet (SE)": {
+        "FC Utrecht": 23.0,
+        "Sparta Rotterdam": 23.0,
         "Draw": 1.03
       },
       "LeoVegas (SE)": {
-        "Académico de Viseu": 16.0,
-        "CS Maritimo": 9.5,
-        "Draw": 1.02
-      },
-      "Unibet (SE)": {
-        "Académico de Viseu": 18.0,
-        "CS Maritimo": 41.0,
-        "Draw": 1.02
-      },
-      "Unibet (NL)": {
-        "Académico de Viseu": 23.0,
-        "CS Maritimo": 17.0,
-        "Draw": 1.03
+        "FC Utrecht": 1.01,
+        "Sparta Rotterdam": 91.0,
+        "Draw": 10.0
       }
     },
-    "382e164289b17ff11f658279d77c1c1d:h2h": {
-      "Coolbet": {
-        "Athletic Bilbao": 100.0,
-        "Sevilla": 1.03,
-        "Draw": 18.0
-      },
-      "Betclic (FR)": {
-        "Athletic Bilbao": 70.0,
-        "Sevilla": 1.02,
-        "Draw": 16.0
-      },
-      "Winamax (FR)": {
-        "Athletic Bilbao": 85.0,
-        "Sevilla": 1.03,
-        "Draw": 18.0
-      },
-      "Winamax (DE)": {
-        "Athletic Bilbao": 85.0,
-        "Sevilla": 1.03,
-        "Draw": 19.0
-      },
-      "Betfair": {
-        "Athletic Bilbao": 50.0,
-        "Sevilla": 1.03,
-        "Draw": 27.0
-      },
-      "Tipico": {
-        "Athletic Bilbao": 120.0,
-        "Sevilla": 1.02,
-        "Draw": 10.0
-      },
+    "ba97c69ae521535ab82158d4ebb7d81f:h2h": {
       "Betsson": {
-        "Athletic Bilbao": 60.0,
-        "Sevilla": 1.02,
-        "Draw": 15.0
+        "AD Ceuta FC": 81.0,
+        "Las Palmas": 1.0,
+        "Draw": 17.0
       },
       "Nordic Bet": {
-        "Athletic Bilbao": 60.0,
-        "Sevilla": 1.02,
-        "Draw": 15.0
+        "AD Ceuta FC": 81.0,
+        "Las Palmas": 1.0,
+        "Draw": 17.0
       },
-      "Unibet (NL)": {
-        "Athletic Bilbao": 101.0,
-        "Sevilla": 1.02,
-        "Draw": 19.0
+      "Winamax (FR)": {
+        "AD Ceuta FC": 800.0,
+        "Las Palmas": 1.01,
+        "Draw": 42.0
       },
-      "Unibet (SE)": {
-        "Athletic Bilbao": 101.0,
-        "Sevilla": 1.02,
-        "Draw": 19.0
+      "Betclic (FR)": {
+        "AD Ceuta FC": 100.0,
+        "Las Palmas": 1.0,
+        "Draw": 20.0
+      },
+      "Winamax (DE)": {
+        "AD Ceuta FC": 900.0,
+        "Las Palmas": 1.0,
+        "Draw": 44.0
+      },
+      "Betfair": {
+        "AD Ceuta FC": 280.0,
+        "Las Palmas": 1.02,
+        "Draw": 32.0
+      },
+      "Coolbet": {
+        "AD Ceuta FC": 80.0,
+        "Las Palmas": 1.0,
+        "Draw": 16.0
       }
     }
   },
