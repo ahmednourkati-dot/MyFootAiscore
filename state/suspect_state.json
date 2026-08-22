@@ -1,196 +1,154 @@
 {
   "snapshots": {
-    "044128f7542674630299545ef3e46a37:h2h": {
-      "Pinnacle": {
-        "FC Fakel Voronezh": 6.58,
-        "Gazovik Orenburg": 6.55,
-        "Draw": 1.31
-      }
-    },
-    "0375f0161b7bfc8af7c53f3e5dea2664:h2h": {
-      "Pinnacle": {
-        "Korona Kielce": 6.1,
-        "Motor Lublin": 9.45,
-        "Draw": 1.25
-      },
-      "Betsson": {
-        "Korona Kielce": 6.8,
-        "Motor Lublin": 10.5,
-        "Draw": 1.14
-      },
+    "7d23fb3e22dd7ba387dbad34e610d70b:h2h": {
       "Coolbet": {
-        "Korona Kielce": 10.0,
-        "Motor Lublin": 14.0,
-        "Draw": 1.11
-      },
-      "Nordic Bet": {
-        "Korona Kielce": 6.8,
-        "Motor Lublin": 10.5,
-        "Draw": 1.14
+        "AZ Alkmaar": 1.01,
+        "Fortuna Sittard": 500.0,
+        "Draw": 20.0
       },
       "Betclic (FR)": {
-        "Korona Kielce": 7.25,
-        "Motor Lublin": 10.5,
-        "Draw": 1.15
-      },
-      "Winamax (FR)": {
-        "Korona Kielce": 11.0,
-        "Motor Lublin": 16.0,
-        "Draw": 1.09
+        "AZ Alkmaar": 1.0,
+        "Fortuna Sittard": 100.0,
+        "Draw": 29.0
       },
       "Winamax (DE)": {
-        "Korona Kielce": 12.0,
-        "Motor Lublin": 17.0,
-        "Draw": 1.06
+        "AZ Alkmaar": 1.01,
+        "Fortuna Sittard": 450.0,
+        "Draw": 22.0
+      },
+      "Winamax (FR)": {
+        "AZ Alkmaar": 1.02,
+        "Fortuna Sittard": 450.0,
+        "Draw": 21.0
+      },
+      "Nordic Bet": {
+        "AZ Alkmaar": 1.0,
+        "Fortuna Sittard": 101.0,
+        "Draw": 15.0
+      },
+      "Betsson": {
+        "AZ Alkmaar": 1.0,
+        "Fortuna Sittard": 101.0,
+        "Draw": 15.0
       },
       "888sport": {
-        "Korona Kielce": 11.0,
-        "Motor Lublin": 15.0,
-        "Draw": 1.08
-      },
-      "Tipico": {
-        "Korona Kielce": 10.0,
-        "Motor Lublin": 13.0,
-        "Draw": 1.1
+        "AZ Alkmaar": 1.01,
+        "Fortuna Sittard": 151.0,
+        "Draw": 26.0
       },
       "Betfair": {
-        "Korona Kielce": 6.2,
-        "Motor Lublin": 15.5,
-        "Draw": 1.13
+        "AZ Alkmaar": 1.03,
+        "Fortuna Sittard": 5.5,
+        "Draw": 26.0
+      },
+      "Tipico": {
+        "AZ Alkmaar": 1.01,
+        "Fortuna Sittard": 400.0,
+        "Draw": 20.0
+      }
+    },
+    "2cca300b46d9f8a86994894f3877657d:h2h": {
+      "Betsson": {
+        "Académico de Viseu": 81.0,
+        "CS Maritimo": 17.0,
+        "Draw": 1.0
+      },
+      "Nordic Bet": {
+        "Académico de Viseu": 21.0,
+        "CS Maritimo": 15.0,
+        "Draw": 1.04
+      },
+      "Betclic (FR)": {
+        "Académico de Viseu": 19.0,
+        "CS Maritimo": 13.0,
+        "Draw": 1.05
+      },
+      "Winamax (DE)": {
+        "Académico de Viseu": 1000.0,
+        "CS Maritimo": 42.0,
+        "Draw": 1.0
+      },
+      "Winamax (FR)": {
+        "Académico de Viseu": 34.0,
+        "CS Maritimo": 22.0,
+        "Draw": 1.04
+      },
+      "Betfair": {
+        "Académico de Viseu": 1.01,
+        "CS Maritimo": 1.01,
+        "Draw": 1.01
+      },
+      "Tipico": {
+        "Académico de Viseu": 30.0,
+        "CS Maritimo": 12.0,
+        "Draw": 1.03
       },
       "LeoVegas (SE)": {
-        "Korona Kielce": 9.0,
-        "Motor Lublin": 15.0,
+        "Académico de Viseu": 16.0,
+        "CS Maritimo": 9.5,
+        "Draw": 1.02
+      },
+      "Unibet (SE)": {
+        "Académico de Viseu": 18.0,
+        "CS Maritimo": 41.0,
         "Draw": 1.02
       },
       "Unibet (NL)": {
-        "Korona Kielce": 13.0,
-        "Motor Lublin": 18.0,
-        "Draw": 1.05
-      },
-      "PMU (FR)": {
-        "Korona Kielce": 7.5,
-        "Motor Lublin": 11.5,
-        "Draw": 1.02
-      },
-      "Unibet (SE)": {
-        "Korona Kielce": 13.0,
-        "Motor Lublin": 18.0,
-        "Draw": 1.05
+        "Académico de Viseu": 23.0,
+        "CS Maritimo": 17.0,
+        "Draw": 1.03
       }
     },
-    "4b187d2e76dbcacd0fb7a14784ded3e5:h2h": {
-      "Unibet (NL)": {
-        "Halmstads BK": 4.8,
-        "Örgryte IS": 3.65,
-        "Draw": 1.6
-      },
-      "LeoVegas (SE)": {
-        "Halmstads BK": 4.8,
-        "Örgryte IS": 3.65,
-        "Draw": 1.6
-      },
-      "Unibet (SE)": {
-        "Halmstads BK": 4.8,
-        "Örgryte IS": 3.65,
-        "Draw": 1.6
-      },
-      "PMU (FR)": {
-        "Halmstads BK": 4.5,
-        "Örgryte IS": 3.35,
-        "Draw": 1.45
+    "382e164289b17ff11f658279d77c1c1d:h2h": {
+      "Coolbet": {
+        "Athletic Bilbao": 100.0,
+        "Sevilla": 1.03,
+        "Draw": 18.0
       },
       "Betclic (FR)": {
-        "Halmstads BK": 5.5,
-        "Örgryte IS": 3.08,
-        "Draw": 1.59
+        "Athletic Bilbao": 70.0,
+        "Sevilla": 1.02,
+        "Draw": 16.0
       },
       "Winamax (FR)": {
-        "Halmstads BK": 4.3,
-        "Örgryte IS": 3.25,
-        "Draw": 1.68
+        "Athletic Bilbao": 85.0,
+        "Sevilla": 1.03,
+        "Draw": 18.0
       },
       "Winamax (DE)": {
-        "Halmstads BK": 4.6,
-        "Örgryte IS": 3.4,
-        "Draw": 1.7
-      },
-      "Betsson": {
-        "Halmstads BK": 4.6,
-        "Örgryte IS": 3.3,
-        "Draw": 1.72
-      },
-      "Nordic Bet": {
-        "Halmstads BK": 4.4,
-        "Örgryte IS": 3.2,
-        "Draw": 1.78
+        "Athletic Bilbao": 85.0,
+        "Sevilla": 1.03,
+        "Draw": 19.0
       },
       "Betfair": {
-        "Halmstads BK": 6.0,
-        "Örgryte IS": 3.7,
-        "Draw": 1.74
-      },
-      "888sport": {
-        "Halmstads BK": 5.0,
-        "Örgryte IS": 3.5,
-        "Draw": 1.57
+        "Athletic Bilbao": 50.0,
+        "Sevilla": 1.03,
+        "Draw": 27.0
       },
       "Tipico": {
-        "Halmstads BK": 4.7,
-        "Örgryte IS": 3.4,
-        "Draw": 1.7
+        "Athletic Bilbao": 120.0,
+        "Sevilla": 1.02,
+        "Draw": 10.0
       },
-      "Pinnacle": {
-        "Halmstads BK": 4.35,
-        "Örgryte IS": 2.79,
-        "Draw": 2.09
+      "Betsson": {
+        "Athletic Bilbao": 60.0,
+        "Sevilla": 1.02,
+        "Draw": 15.0
       },
-      "Coolbet": {
-        "Halmstads BK": 5.0,
-        "Örgryte IS": 3.6,
-        "Draw": 1.8
-      },
-      "Matchbook": {
-        "Halmstads BK": 6.0,
-        "Örgryte IS": 3.85,
-        "Draw": 1.69
-      }
-    },
-    "804fbafadfc39e37beb6a82d214b5584:h2h": {
-      "Tipico": {
-        "1. FC Saarbrücken": 6.0,
-        "Hertha Berlin": 1.75,
-        "Draw": 2.9
-      },
-      "Winamax (FR)": {
-        "1. FC Saarbrücken": 4.8,
-        "Hertha Berlin": 1.76,
-        "Draw": 2.7
-      },
-      "Winamax (DE)": {
-        "1. FC Saarbrücken": 5.0,
-        "Hertha Berlin": 1.86,
-        "Draw": 2.75
-      },
-      "888sport": {
-        "1. FC Saarbrücken": 5.0,
-        "Hertha Berlin": 1.75,
-        "Draw": 2.9
+      "Nordic Bet": {
+        "Athletic Bilbao": 60.0,
+        "Sevilla": 1.02,
+        "Draw": 15.0
       },
       "Unibet (NL)": {
-        "1. FC Saarbrücken": 5.0,
-        "Hertha Berlin": 1.79,
-        "Draw": 2.9
+        "Athletic Bilbao": 101.0,
+        "Sevilla": 1.02,
+        "Draw": 19.0
       },
       "Unibet (SE)": {
-        "1. FC Saarbrücken": 5.0,
-        "Hertha Berlin": 1.79,
-        "Draw": 2.9
-      },
-      "LeoVegas (SE)": {
-        "1. FC Saarbrücken": 4.75,
-        "Hertha Berlin": 1.68,
-        "Draw": 2.75
+        "Athletic Bilbao": 101.0,
+        "Sevilla": 1.02,
+        "Draw": 19.0
       }
     }
   },
@@ -8422,44 +8380,5 @@
     }
   ],
   "results_history": [],
-  "value_alerted": [
-    "0375f0161b7bfc8af7c53f3e5dea2664:h2h|888sport|Korona Kielce",
-    "0375f0161b7bfc8af7c53f3e5dea2664:h2h|888sport|Motor Lublin",
-    "0375f0161b7bfc8af7c53f3e5dea2664:h2h|Betclic (FR)|Korona Kielce",
-    "0375f0161b7bfc8af7c53f3e5dea2664:h2h|Betfair|Motor Lublin",
-    "0375f0161b7bfc8af7c53f3e5dea2664:h2h|Coolbet|Korona Kielce",
-    "0375f0161b7bfc8af7c53f3e5dea2664:h2h|Coolbet|Motor Lublin",
-    "0375f0161b7bfc8af7c53f3e5dea2664:h2h|LeoVegas (SE)|Korona Kielce",
-    "0375f0161b7bfc8af7c53f3e5dea2664:h2h|LeoVegas (SE)|Motor Lublin",
-    "0375f0161b7bfc8af7c53f3e5dea2664:h2h|PMU (FR)|Korona Kielce",
-    "0375f0161b7bfc8af7c53f3e5dea2664:h2h|PMU (FR)|Motor Lublin",
-    "0375f0161b7bfc8af7c53f3e5dea2664:h2h|Tipico|Korona Kielce",
-    "0375f0161b7bfc8af7c53f3e5dea2664:h2h|Tipico|Motor Lublin",
-    "0375f0161b7bfc8af7c53f3e5dea2664:h2h|Unibet (NL)|Korona Kielce",
-    "0375f0161b7bfc8af7c53f3e5dea2664:h2h|Unibet (NL)|Motor Lublin",
-    "0375f0161b7bfc8af7c53f3e5dea2664:h2h|Unibet (SE)|Korona Kielce",
-    "0375f0161b7bfc8af7c53f3e5dea2664:h2h|Unibet (SE)|Motor Lublin",
-    "0375f0161b7bfc8af7c53f3e5dea2664:h2h|Winamax (DE)|Korona Kielce",
-    "0375f0161b7bfc8af7c53f3e5dea2664:h2h|Winamax (DE)|Motor Lublin",
-    "0375f0161b7bfc8af7c53f3e5dea2664:h2h|Winamax (FR)|Korona Kielce",
-    "0375f0161b7bfc8af7c53f3e5dea2664:h2h|Winamax (FR)|Motor Lublin",
-    "4b187d2e76dbcacd0fb7a14784ded3e5:h2h|888sport|Halmstads BK",
-    "4b187d2e76dbcacd0fb7a14784ded3e5:h2h|888sport|Örgryte IS",
-    "4b187d2e76dbcacd0fb7a14784ded3e5:h2h|Betclic (FR)|Halmstads BK",
-    "4b187d2e76dbcacd0fb7a14784ded3e5:h2h|Betfair|Halmstads BK",
-    "4b187d2e76dbcacd0fb7a14784ded3e5:h2h|Betfair|Örgryte IS",
-    "4b187d2e76dbcacd0fb7a14784ded3e5:h2h|Betsson|Örgryte IS",
-    "4b187d2e76dbcacd0fb7a14784ded3e5:h2h|Coolbet|Halmstads BK",
-    "4b187d2e76dbcacd0fb7a14784ded3e5:h2h|Coolbet|Örgryte IS",
-    "4b187d2e76dbcacd0fb7a14784ded3e5:h2h|LeoVegas (SE)|Örgryte IS",
-    "4b187d2e76dbcacd0fb7a14784ded3e5:h2h|Matchbook|Halmstads BK",
-    "4b187d2e76dbcacd0fb7a14784ded3e5:h2h|Matchbook|Örgryte IS",
-    "4b187d2e76dbcacd0fb7a14784ded3e5:h2h|Nordic Bet|Örgryte IS",
-    "4b187d2e76dbcacd0fb7a14784ded3e5:h2h|PMU (FR)|Örgryte IS",
-    "4b187d2e76dbcacd0fb7a14784ded3e5:h2h|Tipico|Örgryte IS",
-    "4b187d2e76dbcacd0fb7a14784ded3e5:h2h|Unibet (NL)|Örgryte IS",
-    "4b187d2e76dbcacd0fb7a14784ded3e5:h2h|Unibet (SE)|Örgryte IS",
-    "4b187d2e76dbcacd0fb7a14784ded3e5:h2h|Winamax (DE)|Örgryte IS",
-    "4b187d2e76dbcacd0fb7a14784ded3e5:h2h|Winamax (FR)|Örgryte IS"
-  ]
+  "value_alerted": []
 }
