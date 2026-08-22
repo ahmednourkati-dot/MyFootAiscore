@@ -1,155 +1,196 @@
 {
   "snapshots": {
-    "1ab8849d49e9fa8f5c0b2af895e41bcb:h2h": {
-      "Coolbet": {
-        "Tianjin Jinmen Tiger FC": 22.0,
-        "Wuhan Three Towns": 14.0,
-        "Draw": 1.05
-      },
+    "044128f7542674630299545ef3e46a37:h2h": {
       "Pinnacle": {
-        "Tianjin Jinmen Tiger FC": 9.68,
-        "Wuhan Three Towns": 5.6,
-        "Draw": 1.27
+        "FC Fakel Voronezh": 6.58,
+        "Gazovik Orenburg": 6.55,
+        "Draw": 1.31
+      }
+    },
+    "0375f0161b7bfc8af7c53f3e5dea2664:h2h": {
+      "Pinnacle": {
+        "Korona Kielce": 6.1,
+        "Motor Lublin": 9.45,
+        "Draw": 1.25
       },
       "Betsson": {
-        "Tianjin Jinmen Tiger FC": 17.5,
-        "Wuhan Three Towns": 11.5,
-        "Draw": 1.04
+        "Korona Kielce": 6.8,
+        "Motor Lublin": 10.5,
+        "Draw": 1.14
+      },
+      "Coolbet": {
+        "Korona Kielce": 10.0,
+        "Motor Lublin": 14.0,
+        "Draw": 1.11
       },
       "Nordic Bet": {
-        "Tianjin Jinmen Tiger FC": 16.0,
-        "Wuhan Three Towns": 10.5,
-        "Draw": 1.06
+        "Korona Kielce": 6.8,
+        "Motor Lublin": 10.5,
+        "Draw": 1.14
+      },
+      "Betclic (FR)": {
+        "Korona Kielce": 7.25,
+        "Motor Lublin": 10.5,
+        "Draw": 1.15
       },
       "Winamax (FR)": {
-        "Tianjin Jinmen Tiger FC": 48.0,
-        "Wuhan Three Towns": 30.0,
-        "Draw": 1.02
+        "Korona Kielce": 11.0,
+        "Motor Lublin": 16.0,
+        "Draw": 1.09
       },
       "Winamax (DE)": {
-        "Tianjin Jinmen Tiger FC": 48.0,
-        "Wuhan Three Towns": 29.0,
-        "Draw": 1.01
+        "Korona Kielce": 12.0,
+        "Motor Lublin": 17.0,
+        "Draw": 1.06
       },
       "888sport": {
-        "Tianjin Jinmen Tiger FC": 19.0,
-        "Wuhan Three Towns": 11.0,
+        "Korona Kielce": 11.0,
+        "Motor Lublin": 15.0,
         "Draw": 1.08
       },
       "Tipico": {
-        "Tianjin Jinmen Tiger FC": 30.0,
-        "Wuhan Three Towns": 20.0,
+        "Korona Kielce": 10.0,
+        "Motor Lublin": 13.0,
+        "Draw": 1.1
+      },
+      "Betfair": {
+        "Korona Kielce": 6.2,
+        "Motor Lublin": 15.5,
+        "Draw": 1.13
+      },
+      "LeoVegas (SE)": {
+        "Korona Kielce": 9.0,
+        "Motor Lublin": 15.0,
         "Draw": 1.02
       },
-      "LeoVegas (SE)": {
-        "Tianjin Jinmen Tiger FC": 13.0,
-        "Wuhan Three Towns": 9.0,
-        "Draw": 1.04
-      },
       "Unibet (NL)": {
-        "Tianjin Jinmen Tiger FC": 15.0,
-        "Wuhan Three Towns": 12.0,
-        "Draw": 1.03
+        "Korona Kielce": 13.0,
+        "Motor Lublin": 18.0,
+        "Draw": 1.05
+      },
+      "PMU (FR)": {
+        "Korona Kielce": 7.5,
+        "Motor Lublin": 11.5,
+        "Draw": 1.02
       },
       "Unibet (SE)": {
-        "Tianjin Jinmen Tiger FC": 23.0,
-        "Wuhan Three Towns": 18.0,
-        "Draw": 1.03
-      },
-      "Betfair": {
-        "Tianjin Jinmen Tiger FC": 1.01,
-        "Wuhan Three Towns": 1.01
+        "Korona Kielce": 13.0,
+        "Motor Lublin": 18.0,
+        "Draw": 1.05
       }
     },
-    "198814ee07f8b29b058840b4cc28ddb0:h2h": {
-      "Betclic (FR)": {
-        "Bayer Leverkusen": 1.0,
-        "Wehen Wiesbaden": 250.0,
-        "Draw": 8.0
-      }
-    },
-    "15a48d58be1e08c333ecb606713c8da2:h2h": {
-      "Tipico": {
-        "Augsburg": 1.01,
-        "FC Energie Cottbus": 200.0,
-        "Draw": 16.0
+    "4b187d2e76dbcacd0fb7a14784ded3e5:h2h": {
+      "Unibet (NL)": {
+        "Halmstads BK": 4.8,
+        "Örgryte IS": 3.65,
+        "Draw": 1.6
+      },
+      "LeoVegas (SE)": {
+        "Halmstads BK": 4.8,
+        "Örgryte IS": 3.65,
+        "Draw": 1.6
+      },
+      "Unibet (SE)": {
+        "Halmstads BK": 4.8,
+        "Örgryte IS": 3.65,
+        "Draw": 1.6
+      },
+      "PMU (FR)": {
+        "Halmstads BK": 4.5,
+        "Örgryte IS": 3.35,
+        "Draw": 1.45
       },
       "Betclic (FR)": {
-        "Augsburg": 1.06,
-        "FC Energie Cottbus": 75.0,
-        "Draw": 5.6
+        "Halmstads BK": 5.5,
+        "Örgryte IS": 3.08,
+        "Draw": 1.59
       },
       "Winamax (FR)": {
-        "Augsburg": 1.03,
-        "FC Energie Cottbus": 600.0,
-        "Draw": 15.0
+        "Halmstads BK": 4.3,
+        "Örgryte IS": 3.25,
+        "Draw": 1.68
       },
       "Winamax (DE)": {
-        "Augsburg": 1.03,
-        "FC Energie Cottbus": 400.0,
-        "Draw": 16.0
-      },
-      "888sport": {
-        "Augsburg": 1.08,
-        "FC Energie Cottbus": 67.0,
-        "Draw": 8.0
-      }
-    },
-    "c5e716af9ed3bd064c3cbd99a06725bd:h2h": {
-      "Pinnacle": {
-        "Barnsley": 3.53,
-        "Doncaster Rovers": 2.8,
-        "Draw": 2.35
-      },
-      "Nordic Bet": {
-        "Barnsley": 3.9,
-        "Doncaster Rovers": 2.92,
-        "Draw": 1.92
-      },
-      "Coolbet": {
-        "Barnsley": 4.0,
-        "Doncaster Rovers": 3.14,
-        "Draw": 2.0
+        "Halmstads BK": 4.6,
+        "Örgryte IS": 3.4,
+        "Draw": 1.7
       },
       "Betsson": {
-        "Barnsley": 3.9,
-        "Doncaster Rovers": 3.05,
-        "Draw": 1.85
+        "Halmstads BK": 4.6,
+        "Örgryte IS": 3.3,
+        "Draw": 1.72
       },
-      "888sport": {
-        "Barnsley": 3.9,
-        "Doncaster Rovers": 3.1,
-        "Draw": 1.85
+      "Nordic Bet": {
+        "Halmstads BK": 4.4,
+        "Örgryte IS": 3.2,
+        "Draw": 1.78
       },
       "Betfair": {
-        "Barnsley": 4.5,
-        "Doncaster Rovers": 3.2,
-        "Draw": 2.1
+        "Halmstads BK": 6.0,
+        "Örgryte IS": 3.7,
+        "Draw": 1.74
+      },
+      "888sport": {
+        "Halmstads BK": 5.0,
+        "Örgryte IS": 3.5,
+        "Draw": 1.57
       },
       "Tipico": {
-        "Barnsley": 3.8,
-        "Doncaster Rovers": 3.1,
-        "Draw": 1.95
+        "Halmstads BK": 4.7,
+        "Örgryte IS": 3.4,
+        "Draw": 1.7
       },
-      "Unibet (SE)": {
-        "Barnsley": 4.2,
-        "Doncaster Rovers": 2.65,
-        "Draw": 2.05
+      "Pinnacle": {
+        "Halmstads BK": 4.35,
+        "Örgryte IS": 2.79,
+        "Draw": 2.09
       },
-      "Unibet (NL)": {
-        "Barnsley": 4.2,
-        "Doncaster Rovers": 2.65,
-        "Draw": 2.05
-      },
-      "LeoVegas (SE)": {
-        "Barnsley": 3.95,
-        "Doncaster Rovers": 2.5,
-        "Draw": 1.92
+      "Coolbet": {
+        "Halmstads BK": 5.0,
+        "Örgryte IS": 3.6,
+        "Draw": 1.8
       },
       "Matchbook": {
-        "Barnsley": 4.4,
-        "Doncaster Rovers": 3.4,
-        "Draw": 1.99
+        "Halmstads BK": 6.0,
+        "Örgryte IS": 3.85,
+        "Draw": 1.69
+      }
+    },
+    "804fbafadfc39e37beb6a82d214b5584:h2h": {
+      "Tipico": {
+        "1. FC Saarbrücken": 6.0,
+        "Hertha Berlin": 1.75,
+        "Draw": 2.9
+      },
+      "Winamax (FR)": {
+        "1. FC Saarbrücken": 4.8,
+        "Hertha Berlin": 1.76,
+        "Draw": 2.7
+      },
+      "Winamax (DE)": {
+        "1. FC Saarbrücken": 5.0,
+        "Hertha Berlin": 1.86,
+        "Draw": 2.75
+      },
+      "888sport": {
+        "1. FC Saarbrücken": 5.0,
+        "Hertha Berlin": 1.75,
+        "Draw": 2.9
+      },
+      "Unibet (NL)": {
+        "1. FC Saarbrücken": 5.0,
+        "Hertha Berlin": 1.79,
+        "Draw": 2.9
+      },
+      "Unibet (SE)": {
+        "1. FC Saarbrücken": 5.0,
+        "Hertha Berlin": 1.79,
+        "Draw": 2.9
+      },
+      "LeoVegas (SE)": {
+        "1. FC Saarbrücken": 4.75,
+        "Hertha Berlin": 1.68,
+        "Draw": 2.75
       }
     }
   },
@@ -7770,37 +7811,655 @@
       "confidence": 14,
       "alert_type": "value",
       "alerted_at": "2026-08-22T12:57:18.565795+00:00"
+    },
+    {
+      "state_key": "0375f0161b7bfc8af7c53f3e5dea2664:h2h",
+      "event_id": "0375f0161b7bfc8af7c53f3e5dea2664",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Korona Kielce",
+      "away_team": "Motor Lublin",
+      "commence_time": "2026-08-22T12:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Korona Kielce",
+      "odds_at_alert": 10.0,
+      "stake_pct": 5.0,
+      "confidence": 53,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T14:34:06.429081+00:00"
+    },
+    {
+      "state_key": "0375f0161b7bfc8af7c53f3e5dea2664:h2h",
+      "event_id": "0375f0161b7bfc8af7c53f3e5dea2664",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Korona Kielce",
+      "away_team": "Motor Lublin",
+      "commence_time": "2026-08-22T12:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Motor Lublin",
+      "odds_at_alert": 14.0,
+      "stake_pct": 5.0,
+      "confidence": 38,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T14:34:06.948218+00:00"
+    },
+    {
+      "state_key": "0375f0161b7bfc8af7c53f3e5dea2664:h2h",
+      "event_id": "0375f0161b7bfc8af7c53f3e5dea2664",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Korona Kielce",
+      "away_team": "Motor Lublin",
+      "commence_time": "2026-08-22T12:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Korona Kielce",
+      "odds_at_alert": 7.25,
+      "stake_pct": 3.0,
+      "confidence": 11,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T14:34:07.457394+00:00"
+    },
+    {
+      "state_key": "0375f0161b7bfc8af7c53f3e5dea2664:h2h",
+      "event_id": "0375f0161b7bfc8af7c53f3e5dea2664",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Korona Kielce",
+      "away_team": "Motor Lublin",
+      "commence_time": "2026-08-22T12:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Korona Kielce",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 69,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T14:34:07.988607+00:00"
+    },
+    {
+      "state_key": "0375f0161b7bfc8af7c53f3e5dea2664:h2h",
+      "event_id": "0375f0161b7bfc8af7c53f3e5dea2664",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Korona Kielce",
+      "away_team": "Motor Lublin",
+      "commence_time": "2026-08-22T12:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Motor Lublin",
+      "odds_at_alert": 16.0,
+      "stake_pct": 5.0,
+      "confidence": 58,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T14:34:08.517276+00:00"
+    },
+    {
+      "state_key": "0375f0161b7bfc8af7c53f3e5dea2664:h2h",
+      "event_id": "0375f0161b7bfc8af7c53f3e5dea2664",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Korona Kielce",
+      "away_team": "Motor Lublin",
+      "commence_time": "2026-08-22T12:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Korona Kielce",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 84,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T14:34:09.012590+00:00"
+    },
+    {
+      "state_key": "0375f0161b7bfc8af7c53f3e5dea2664:h2h",
+      "event_id": "0375f0161b7bfc8af7c53f3e5dea2664",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Korona Kielce",
+      "away_team": "Motor Lublin",
+      "commence_time": "2026-08-22T12:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Motor Lublin",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 68,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T14:34:09.544380+00:00"
+    },
+    {
+      "state_key": "0375f0161b7bfc8af7c53f3e5dea2664:h2h",
+      "event_id": "0375f0161b7bfc8af7c53f3e5dea2664",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Korona Kielce",
+      "away_team": "Motor Lublin",
+      "commence_time": "2026-08-22T12:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Korona Kielce",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 69,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T14:34:10.052242+00:00"
+    },
+    {
+      "state_key": "0375f0161b7bfc8af7c53f3e5dea2664:h2h",
+      "event_id": "0375f0161b7bfc8af7c53f3e5dea2664",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Korona Kielce",
+      "away_team": "Motor Lublin",
+      "commence_time": "2026-08-22T12:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Motor Lublin",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 48,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T14:34:10.540535+00:00"
+    },
+    {
+      "state_key": "0375f0161b7bfc8af7c53f3e5dea2664:h2h",
+      "event_id": "0375f0161b7bfc8af7c53f3e5dea2664",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Korona Kielce",
+      "away_team": "Motor Lublin",
+      "commence_time": "2026-08-22T12:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Korona Kielce",
+      "odds_at_alert": 10.0,
+      "stake_pct": 5.0,
+      "confidence": 53,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T14:34:11.108034+00:00"
+    },
+    {
+      "state_key": "0375f0161b7bfc8af7c53f3e5dea2664:h2h",
+      "event_id": "0375f0161b7bfc8af7c53f3e5dea2664",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Korona Kielce",
+      "away_team": "Motor Lublin",
+      "commence_time": "2026-08-22T12:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Motor Lublin",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 29,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T14:34:11.628637+00:00"
+    },
+    {
+      "state_key": "0375f0161b7bfc8af7c53f3e5dea2664:h2h",
+      "event_id": "0375f0161b7bfc8af7c53f3e5dea2664",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Korona Kielce",
+      "away_team": "Motor Lublin",
+      "commence_time": "2026-08-22T12:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Motor Lublin",
+      "odds_at_alert": 15.5,
+      "stake_pct": 5.0,
+      "confidence": 53,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T14:34:12.274541+00:00"
+    },
+    {
+      "state_key": "0375f0161b7bfc8af7c53f3e5dea2664:h2h",
+      "event_id": "0375f0161b7bfc8af7c53f3e5dea2664",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Korona Kielce",
+      "away_team": "Motor Lublin",
+      "commence_time": "2026-08-22T12:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Korona Kielce",
+      "odds_at_alert": 9.0,
+      "stake_pct": 5.0,
+      "confidence": 38,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T14:34:12.782753+00:00"
+    },
+    {
+      "state_key": "0375f0161b7bfc8af7c53f3e5dea2664:h2h",
+      "event_id": "0375f0161b7bfc8af7c53f3e5dea2664",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Korona Kielce",
+      "away_team": "Motor Lublin",
+      "commence_time": "2026-08-22T12:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Motor Lublin",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 48,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T14:34:13.282617+00:00"
+    },
+    {
+      "state_key": "0375f0161b7bfc8af7c53f3e5dea2664:h2h",
+      "event_id": "0375f0161b7bfc8af7c53f3e5dea2664",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Korona Kielce",
+      "away_team": "Motor Lublin",
+      "commence_time": "2026-08-22T12:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Korona Kielce",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 99,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T14:34:13.777651+00:00"
+    },
+    {
+      "state_key": "0375f0161b7bfc8af7c53f3e5dea2664:h2h",
+      "event_id": "0375f0161b7bfc8af7c53f3e5dea2664",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Korona Kielce",
+      "away_team": "Motor Lublin",
+      "commence_time": "2026-08-22T12:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Motor Lublin",
+      "odds_at_alert": 18.0,
+      "stake_pct": 5.0,
+      "confidence": 78,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T14:34:14.289490+00:00"
+    },
+    {
+      "state_key": "0375f0161b7bfc8af7c53f3e5dea2664:h2h",
+      "event_id": "0375f0161b7bfc8af7c53f3e5dea2664",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Korona Kielce",
+      "away_team": "Motor Lublin",
+      "commence_time": "2026-08-22T12:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Korona Kielce",
+      "odds_at_alert": 7.5,
+      "stake_pct": 3.0,
+      "confidence": 15,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T14:34:14.785397+00:00"
+    },
+    {
+      "state_key": "0375f0161b7bfc8af7c53f3e5dea2664:h2h",
+      "event_id": "0375f0161b7bfc8af7c53f3e5dea2664",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Korona Kielce",
+      "away_team": "Motor Lublin",
+      "commence_time": "2026-08-22T12:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Motor Lublin",
+      "odds_at_alert": 11.5,
+      "stake_pct": 3.0,
+      "confidence": 14,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T14:34:15.276097+00:00"
+    },
+    {
+      "state_key": "0375f0161b7bfc8af7c53f3e5dea2664:h2h",
+      "event_id": "0375f0161b7bfc8af7c53f3e5dea2664",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Korona Kielce",
+      "away_team": "Motor Lublin",
+      "commence_time": "2026-08-22T12:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Korona Kielce",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 99,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T14:34:15.777201+00:00"
+    },
+    {
+      "state_key": "0375f0161b7bfc8af7c53f3e5dea2664:h2h",
+      "event_id": "0375f0161b7bfc8af7c53f3e5dea2664",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Korona Kielce",
+      "away_team": "Motor Lublin",
+      "commence_time": "2026-08-22T12:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Motor Lublin",
+      "odds_at_alert": 18.0,
+      "stake_pct": 5.0,
+      "confidence": 78,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T14:34:16.269166+00:00"
+    },
+    {
+      "state_key": "4b187d2e76dbcacd0fb7a14784ded3e5:h2h",
+      "event_id": "4b187d2e76dbcacd0fb7a14784ded3e5",
+      "sport_key": "soccer",
+      "competition": "Allsvenskan - Sweden",
+      "home_team": "Örgryte IS",
+      "away_team": "Halmstads BK",
+      "commence_time": "2026-08-22T13:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Örgryte IS",
+      "odds_at_alert": 3.65,
+      "stake_pct": 5.0,
+      "confidence": 23,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T14:34:16.777219+00:00"
+    },
+    {
+      "state_key": "4b187d2e76dbcacd0fb7a14784ded3e5:h2h",
+      "event_id": "4b187d2e76dbcacd0fb7a14784ded3e5",
+      "sport_key": "soccer",
+      "competition": "Allsvenskan - Sweden",
+      "home_team": "Örgryte IS",
+      "away_team": "Halmstads BK",
+      "commence_time": "2026-08-22T13:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Örgryte IS",
+      "odds_at_alert": 3.65,
+      "stake_pct": 5.0,
+      "confidence": 23,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T14:34:17.268548+00:00"
+    },
+    {
+      "state_key": "4b187d2e76dbcacd0fb7a14784ded3e5:h2h",
+      "event_id": "4b187d2e76dbcacd0fb7a14784ded3e5",
+      "sport_key": "soccer",
+      "competition": "Allsvenskan - Sweden",
+      "home_team": "Örgryte IS",
+      "away_team": "Halmstads BK",
+      "commence_time": "2026-08-22T13:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Örgryte IS",
+      "odds_at_alert": 3.65,
+      "stake_pct": 5.0,
+      "confidence": 23,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T14:34:17.775908+00:00"
+    },
+    {
+      "state_key": "4b187d2e76dbcacd0fb7a14784ded3e5:h2h",
+      "event_id": "4b187d2e76dbcacd0fb7a14784ded3e5",
+      "sport_key": "soccer",
+      "competition": "Allsvenskan - Sweden",
+      "home_team": "Örgryte IS",
+      "away_team": "Halmstads BK",
+      "commence_time": "2026-08-22T13:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Örgryte IS",
+      "odds_at_alert": 3.35,
+      "stake_pct": 3.0,
+      "confidence": 13,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T14:34:18.283155+00:00"
+    },
+    {
+      "state_key": "4b187d2e76dbcacd0fb7a14784ded3e5:h2h",
+      "event_id": "4b187d2e76dbcacd0fb7a14784ded3e5",
+      "sport_key": "soccer",
+      "competition": "Allsvenskan - Sweden",
+      "home_team": "Örgryte IS",
+      "away_team": "Halmstads BK",
+      "commence_time": "2026-08-22T13:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Halmstads BK",
+      "odds_at_alert": 5.5,
+      "stake_pct": 5.0,
+      "confidence": 19,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T14:34:18.774938+00:00"
+    },
+    {
+      "state_key": "4b187d2e76dbcacd0fb7a14784ded3e5:h2h",
+      "event_id": "4b187d2e76dbcacd0fb7a14784ded3e5",
+      "sport_key": "soccer",
+      "competition": "Allsvenskan - Sweden",
+      "home_team": "Örgryte IS",
+      "away_team": "Halmstads BK",
+      "commence_time": "2026-08-22T13:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Örgryte IS",
+      "odds_at_alert": 3.25,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T14:34:19.262050+00:00"
+    },
+    {
+      "state_key": "4b187d2e76dbcacd0fb7a14784ded3e5:h2h",
+      "event_id": "4b187d2e76dbcacd0fb7a14784ded3e5",
+      "sport_key": "soccer",
+      "competition": "Allsvenskan - Sweden",
+      "home_team": "Örgryte IS",
+      "away_team": "Halmstads BK",
+      "commence_time": "2026-08-22T13:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Örgryte IS",
+      "odds_at_alert": 3.4,
+      "stake_pct": 3.0,
+      "confidence": 14,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T14:34:19.799135+00:00"
+    },
+    {
+      "state_key": "4b187d2e76dbcacd0fb7a14784ded3e5:h2h",
+      "event_id": "4b187d2e76dbcacd0fb7a14784ded3e5",
+      "sport_key": "soccer",
+      "competition": "Allsvenskan - Sweden",
+      "home_team": "Örgryte IS",
+      "away_team": "Halmstads BK",
+      "commence_time": "2026-08-22T13:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Örgryte IS",
+      "odds_at_alert": 3.3,
+      "stake_pct": 3.0,
+      "confidence": 11,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T14:34:20.293868+00:00"
+    },
+    {
+      "state_key": "4b187d2e76dbcacd0fb7a14784ded3e5:h2h",
+      "event_id": "4b187d2e76dbcacd0fb7a14784ded3e5",
+      "sport_key": "soccer",
+      "competition": "Allsvenskan - Sweden",
+      "home_team": "Örgryte IS",
+      "away_team": "Halmstads BK",
+      "commence_time": "2026-08-22T13:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Örgryte IS",
+      "odds_at_alert": 3.2,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T14:34:20.791977+00:00"
+    },
+    {
+      "state_key": "4b187d2e76dbcacd0fb7a14784ded3e5:h2h",
+      "event_id": "4b187d2e76dbcacd0fb7a14784ded3e5",
+      "sport_key": "soccer",
+      "competition": "Allsvenskan - Sweden",
+      "home_team": "Örgryte IS",
+      "away_team": "Halmstads BK",
+      "commence_time": "2026-08-22T13:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Halmstads BK",
+      "odds_at_alert": 6.0,
+      "stake_pct": 5.0,
+      "confidence": 29,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T14:34:21.291398+00:00"
+    },
+    {
+      "state_key": "4b187d2e76dbcacd0fb7a14784ded3e5:h2h",
+      "event_id": "4b187d2e76dbcacd0fb7a14784ded3e5",
+      "sport_key": "soccer",
+      "competition": "Allsvenskan - Sweden",
+      "home_team": "Örgryte IS",
+      "away_team": "Halmstads BK",
+      "commence_time": "2026-08-22T13:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Örgryte IS",
+      "odds_at_alert": 3.7,
+      "stake_pct": 5.0,
+      "confidence": 24,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T14:34:21.783919+00:00"
+    },
+    {
+      "state_key": "4b187d2e76dbcacd0fb7a14784ded3e5:h2h",
+      "event_id": "4b187d2e76dbcacd0fb7a14784ded3e5",
+      "sport_key": "soccer",
+      "competition": "Allsvenskan - Sweden",
+      "home_team": "Örgryte IS",
+      "away_team": "Halmstads BK",
+      "commence_time": "2026-08-22T13:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Halmstads BK",
+      "odds_at_alert": 5.0,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T14:34:22.330709+00:00"
+    },
+    {
+      "state_key": "4b187d2e76dbcacd0fb7a14784ded3e5:h2h",
+      "event_id": "4b187d2e76dbcacd0fb7a14784ded3e5",
+      "sport_key": "soccer",
+      "competition": "Allsvenskan - Sweden",
+      "home_team": "Örgryte IS",
+      "away_team": "Halmstads BK",
+      "commence_time": "2026-08-22T13:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Örgryte IS",
+      "odds_at_alert": 3.5,
+      "stake_pct": 5.0,
+      "confidence": 18,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T14:34:22.819457+00:00"
+    },
+    {
+      "state_key": "4b187d2e76dbcacd0fb7a14784ded3e5:h2h",
+      "event_id": "4b187d2e76dbcacd0fb7a14784ded3e5",
+      "sport_key": "soccer",
+      "competition": "Allsvenskan - Sweden",
+      "home_team": "Örgryte IS",
+      "away_team": "Halmstads BK",
+      "commence_time": "2026-08-22T13:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Örgryte IS",
+      "odds_at_alert": 3.4,
+      "stake_pct": 3.0,
+      "confidence": 14,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T14:34:23.372206+00:00"
+    },
+    {
+      "state_key": "4b187d2e76dbcacd0fb7a14784ded3e5:h2h",
+      "event_id": "4b187d2e76dbcacd0fb7a14784ded3e5",
+      "sport_key": "soccer",
+      "competition": "Allsvenskan - Sweden",
+      "home_team": "Örgryte IS",
+      "away_team": "Halmstads BK",
+      "commence_time": "2026-08-22T13:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Halmstads BK",
+      "odds_at_alert": 5.0,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T14:34:23.864871+00:00"
+    },
+    {
+      "state_key": "4b187d2e76dbcacd0fb7a14784ded3e5:h2h",
+      "event_id": "4b187d2e76dbcacd0fb7a14784ded3e5",
+      "sport_key": "soccer",
+      "competition": "Allsvenskan - Sweden",
+      "home_team": "Örgryte IS",
+      "away_team": "Halmstads BK",
+      "commence_time": "2026-08-22T13:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Örgryte IS",
+      "odds_at_alert": 3.6,
+      "stake_pct": 5.0,
+      "confidence": 21,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T14:34:24.383976+00:00"
+    },
+    {
+      "state_key": "4b187d2e76dbcacd0fb7a14784ded3e5:h2h",
+      "event_id": "4b187d2e76dbcacd0fb7a14784ded3e5",
+      "sport_key": "soccer",
+      "competition": "Allsvenskan - Sweden",
+      "home_team": "Örgryte IS",
+      "away_team": "Halmstads BK",
+      "commence_time": "2026-08-22T13:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Halmstads BK",
+      "odds_at_alert": 6.0,
+      "stake_pct": 5.0,
+      "confidence": 29,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T14:34:24.899216+00:00"
+    },
+    {
+      "state_key": "4b187d2e76dbcacd0fb7a14784ded3e5:h2h",
+      "event_id": "4b187d2e76dbcacd0fb7a14784ded3e5",
+      "sport_key": "soccer",
+      "competition": "Allsvenskan - Sweden",
+      "home_team": "Örgryte IS",
+      "away_team": "Halmstads BK",
+      "commence_time": "2026-08-22T13:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Örgryte IS",
+      "odds_at_alert": 3.85,
+      "stake_pct": 5.0,
+      "confidence": 29,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T14:34:25.398998+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "1ab8849d49e9fa8f5c0b2af895e41bcb:h2h|888sport|Tianjin Jinmen Tiger FC",
-    "1ab8849d49e9fa8f5c0b2af895e41bcb:h2h|888sport|Wuhan Three Towns",
-    "1ab8849d49e9fa8f5c0b2af895e41bcb:h2h|Betsson|Tianjin Jinmen Tiger FC",
-    "1ab8849d49e9fa8f5c0b2af895e41bcb:h2h|Betsson|Wuhan Three Towns",
-    "1ab8849d49e9fa8f5c0b2af895e41bcb:h2h|Coolbet|Tianjin Jinmen Tiger FC",
-    "1ab8849d49e9fa8f5c0b2af895e41bcb:h2h|Coolbet|Wuhan Three Towns",
-    "1ab8849d49e9fa8f5c0b2af895e41bcb:h2h|LeoVegas (SE)|Tianjin Jinmen Tiger FC",
-    "1ab8849d49e9fa8f5c0b2af895e41bcb:h2h|LeoVegas (SE)|Wuhan Three Towns",
-    "1ab8849d49e9fa8f5c0b2af895e41bcb:h2h|Nordic Bet|Tianjin Jinmen Tiger FC",
-    "1ab8849d49e9fa8f5c0b2af895e41bcb:h2h|Nordic Bet|Wuhan Three Towns",
-    "1ab8849d49e9fa8f5c0b2af895e41bcb:h2h|Tipico|Tianjin Jinmen Tiger FC",
-    "1ab8849d49e9fa8f5c0b2af895e41bcb:h2h|Tipico|Wuhan Three Towns",
-    "1ab8849d49e9fa8f5c0b2af895e41bcb:h2h|Unibet (NL)|Tianjin Jinmen Tiger FC",
-    "1ab8849d49e9fa8f5c0b2af895e41bcb:h2h|Unibet (NL)|Wuhan Three Towns",
-    "1ab8849d49e9fa8f5c0b2af895e41bcb:h2h|Unibet (SE)|Tianjin Jinmen Tiger FC",
-    "1ab8849d49e9fa8f5c0b2af895e41bcb:h2h|Unibet (SE)|Wuhan Three Towns",
-    "1ab8849d49e9fa8f5c0b2af895e41bcb:h2h|Winamax (DE)|Tianjin Jinmen Tiger FC",
-    "1ab8849d49e9fa8f5c0b2af895e41bcb:h2h|Winamax (DE)|Wuhan Three Towns",
-    "1ab8849d49e9fa8f5c0b2af895e41bcb:h2h|Winamax (FR)|Tianjin Jinmen Tiger FC",
-    "1ab8849d49e9fa8f5c0b2af895e41bcb:h2h|Winamax (FR)|Wuhan Three Towns",
-    "c5e716af9ed3bd064c3cbd99a06725bd:h2h|Betfair|Barnsley",
-    "c5e716af9ed3bd064c3cbd99a06725bd:h2h|Betfair|Doncaster Rovers",
-    "c5e716af9ed3bd064c3cbd99a06725bd:h2h|Coolbet|Barnsley",
-    "c5e716af9ed3bd064c3cbd99a06725bd:h2h|Coolbet|Doncaster Rovers",
-    "c5e716af9ed3bd064c3cbd99a06725bd:h2h|Matchbook|Barnsley",
-    "c5e716af9ed3bd064c3cbd99a06725bd:h2h|Matchbook|Doncaster Rovers",
-    "c5e716af9ed3bd064c3cbd99a06725bd:h2h|Unibet (NL)|Barnsley",
-    "c5e716af9ed3bd064c3cbd99a06725bd:h2h|Unibet (SE)|Barnsley"
+    "0375f0161b7bfc8af7c53f3e5dea2664:h2h|888sport|Korona Kielce",
+    "0375f0161b7bfc8af7c53f3e5dea2664:h2h|888sport|Motor Lublin",
+    "0375f0161b7bfc8af7c53f3e5dea2664:h2h|Betclic (FR)|Korona Kielce",
+    "0375f0161b7bfc8af7c53f3e5dea2664:h2h|Betfair|Motor Lublin",
+    "0375f0161b7bfc8af7c53f3e5dea2664:h2h|Coolbet|Korona Kielce",
+    "0375f0161b7bfc8af7c53f3e5dea2664:h2h|Coolbet|Motor Lublin",
+    "0375f0161b7bfc8af7c53f3e5dea2664:h2h|LeoVegas (SE)|Korona Kielce",
+    "0375f0161b7bfc8af7c53f3e5dea2664:h2h|LeoVegas (SE)|Motor Lublin",
+    "0375f0161b7bfc8af7c53f3e5dea2664:h2h|PMU (FR)|Korona Kielce",
+    "0375f0161b7bfc8af7c53f3e5dea2664:h2h|PMU (FR)|Motor Lublin",
+    "0375f0161b7bfc8af7c53f3e5dea2664:h2h|Tipico|Korona Kielce",
+    "0375f0161b7bfc8af7c53f3e5dea2664:h2h|Tipico|Motor Lublin",
+    "0375f0161b7bfc8af7c53f3e5dea2664:h2h|Unibet (NL)|Korona Kielce",
+    "0375f0161b7bfc8af7c53f3e5dea2664:h2h|Unibet (NL)|Motor Lublin",
+    "0375f0161b7bfc8af7c53f3e5dea2664:h2h|Unibet (SE)|Korona Kielce",
+    "0375f0161b7bfc8af7c53f3e5dea2664:h2h|Unibet (SE)|Motor Lublin",
+    "0375f0161b7bfc8af7c53f3e5dea2664:h2h|Winamax (DE)|Korona Kielce",
+    "0375f0161b7bfc8af7c53f3e5dea2664:h2h|Winamax (DE)|Motor Lublin",
+    "0375f0161b7bfc8af7c53f3e5dea2664:h2h|Winamax (FR)|Korona Kielce",
+    "0375f0161b7bfc8af7c53f3e5dea2664:h2h|Winamax (FR)|Motor Lublin",
+    "4b187d2e76dbcacd0fb7a14784ded3e5:h2h|888sport|Halmstads BK",
+    "4b187d2e76dbcacd0fb7a14784ded3e5:h2h|888sport|Örgryte IS",
+    "4b187d2e76dbcacd0fb7a14784ded3e5:h2h|Betclic (FR)|Halmstads BK",
+    "4b187d2e76dbcacd0fb7a14784ded3e5:h2h|Betfair|Halmstads BK",
+    "4b187d2e76dbcacd0fb7a14784ded3e5:h2h|Betfair|Örgryte IS",
+    "4b187d2e76dbcacd0fb7a14784ded3e5:h2h|Betsson|Örgryte IS",
+    "4b187d2e76dbcacd0fb7a14784ded3e5:h2h|Coolbet|Halmstads BK",
+    "4b187d2e76dbcacd0fb7a14784ded3e5:h2h|Coolbet|Örgryte IS",
+    "4b187d2e76dbcacd0fb7a14784ded3e5:h2h|LeoVegas (SE)|Örgryte IS",
+    "4b187d2e76dbcacd0fb7a14784ded3e5:h2h|Matchbook|Halmstads BK",
+    "4b187d2e76dbcacd0fb7a14784ded3e5:h2h|Matchbook|Örgryte IS",
+    "4b187d2e76dbcacd0fb7a14784ded3e5:h2h|Nordic Bet|Örgryte IS",
+    "4b187d2e76dbcacd0fb7a14784ded3e5:h2h|PMU (FR)|Örgryte IS",
+    "4b187d2e76dbcacd0fb7a14784ded3e5:h2h|Tipico|Örgryte IS",
+    "4b187d2e76dbcacd0fb7a14784ded3e5:h2h|Unibet (NL)|Örgryte IS",
+    "4b187d2e76dbcacd0fb7a14784ded3e5:h2h|Unibet (SE)|Örgryte IS",
+    "4b187d2e76dbcacd0fb7a14784ded3e5:h2h|Winamax (DE)|Örgryte IS",
+    "4b187d2e76dbcacd0fb7a14784ded3e5:h2h|Winamax (FR)|Örgryte IS"
   ]
 }
