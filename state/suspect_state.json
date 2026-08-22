@@ -1,196 +1,241 @@
 {
   "snapshots": {
-    "37e7d04e975b8f84bdc4856dcb238895:h2h": {
-      "Betsson": {
-        "Fenerbahce": 1.0,
-        "Torku Konyaspor": 34.0,
-        "Draw": 29.0
-      },
-      "Betclic (FR)": {
-        "Fenerbahce": 1.0,
-        "Torku Konyaspor": 100.0,
-        "Draw": 40.0
-      },
-      "Nordic Bet": {
-        "Fenerbahce": 1.0,
-        "Torku Konyaspor": 34.0,
-        "Draw": 29.0
-      }
-    },
-    "f8316d29a2732e917ec14300c790cc4a:h2h": {
-      "Coolbet": {
-        "FC Basel": 1.01,
-        "FC Zurich": 150.0,
-        "Draw": 13.0
-      },
-      "Winamax (DE)": {
-        "FC Basel": 1.02,
-        "FC Zurich": 450.0,
-        "Draw": 14.0
-      },
-      "Winamax (FR)": {
-        "FC Basel": 1.04,
-        "FC Zurich": 450.0,
-        "Draw": 13.5
-      },
-      "Tipico": {
-        "FC Basel": 3.6,
-        "FC Zurich": 500.0,
-        "Draw": 1.22
-      },
-      "Betfair": {
-        "FC Basel": 1.03,
-        "FC Zurich": 85.0,
-        "Draw": 11.0
-      }
-    },
-    "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h": {
-      "Winamax (DE)": {
-        "Brest": 6.75,
-        "Le Mans FC": 10.0,
-        "Draw": 1.21
-      },
-      "Winamax (FR)": {
-        "Brest": 6.25,
-        "Le Mans FC": 9.0,
-        "Draw": 1.2
-      },
-      "Betfair": {
-        "Brest": 7.8,
-        "Le Mans FC": 11.5,
-        "Draw": 1.25
-      },
-      "Betclic (FR)": {
-        "Brest": 7.25,
-        "Le Mans FC": 10.5,
-        "Draw": 1.18
-      },
-      "Tipico": {
-        "Brest": 7.5,
-        "Le Mans FC": 11.0,
-        "Draw": 1.16
-      },
-      "Coolbet": {
-        "Brest": 8.0,
-        "Le Mans FC": 12.0,
-        "Draw": 1.2
-      },
-      "Pinnacle": {
-        "Brest": 4.61,
-        "Le Mans FC": 5.65,
-        "Draw": 1.52
-      },
+    "47e15fb6d01629f4dbba0e6266ecfdbb:h2h": {
       "LeoVegas (SE)": {
-        "Brest": 6.5,
-        "Le Mans FC": 12.0,
-        "Draw": 1.19
+        "Ceará": 1.13,
+        "Londrina": 25.0,
+        "Draw": 4.9
+      },
+      "Unibet (SE)": {
+        "Ceará": 1.19,
+        "Londrina": 25.0,
+        "Draw": 5.2
       },
       "Unibet (NL)": {
-        "Brest": 7.5,
-        "Le Mans FC": 12.5,
-        "Draw": 1.16
-      },
-      "Unibet (SE)": {
-        "Brest": 7.5,
-        "Le Mans FC": 12.5,
-        "Draw": 1.16
-      },
-      "Nordic Bet": {
-        "Brest": 7.2,
-        "Le Mans FC": 10.5,
-        "Draw": 1.16
+        "Ceará": 1.12,
+        "Londrina": 26.0,
+        "Draw": 5.2
       },
       "Betsson": {
-        "Brest": 6.8,
-        "Le Mans FC": 10.5,
-        "Draw": 1.18
+        "Ceará": 1.14,
+        "Londrina": 26.0,
+        "Draw": 5.35
       },
-      "Suprabets": {
-        "Brest": 5.9,
-        "Le Mans FC": 9.5,
-        "Draw": 1.25
+      "Nordic Bet": {
+        "Ceará": 1.14,
+        "Londrina": 26.0,
+        "Draw": 5.35
       },
-      "PMU (FR)": {
-        "Brest": 6.25,
-        "Le Mans FC": 11.5,
-        "Draw": 1.15
+      "Coolbet": {
+        "Ceará": 1.14,
+        "Londrina": 28.0,
+        "Draw": 5.5
       },
       "888sport": {
-        "Brest": 7.0,
-        "Le Mans FC": 10.0,
-        "Draw": 1.18
-      }
-    },
-    "7d4101254957e46d6037bd1d8f268a0e:h2h": {
-      "LeoVegas (SE)": {
-        "Cagliari": 1.05,
-        "Parma": 71.0,
-        "Draw": 8.5
+        "Ceará": 1.15,
+        "Londrina": 29.0,
+        "Draw": 5.5
       },
-      "Winamax (FR)": {
-        "Cagliari": 1.1,
-        "Parma": 85.0,
-        "Draw": 7.0
+      "Pinnacle": {
+        "Ceará": 2.85,
+        "Londrina": 4.9,
+        "Draw": 1.96
       },
-      "Betclic (FR)": {
-        "Cagliari": 1.1,
-        "Parma": 55.0,
+      "Matchbook": {
+        "Ceará": 1.19,
+        "Londrina": 50.0,
         "Draw": 6.4
       },
-      "Unibet (SE)": {
-        "Cagliari": 1.07,
-        "Parma": 111.0,
-        "Draw": 9.0
-      },
-      "Winamax (DE)": {
-        "Cagliari": 1.09,
-        "Parma": 85.0,
-        "Draw": 7.5
-      },
       "Tipico": {
-        "Cagliari": 1.1,
-        "Parma": 80.0,
+        "Ceará": 1.1,
+        "Londrina": 45.0,
         "Draw": 6.0
       },
-      "Unibet (NL)": {
-        "Cagliari": 1.07,
-        "Parma": 111.0,
-        "Draw": 9.0
-      },
-      "Pinnacle": {
-        "Cagliari": 5.15,
-        "Parma": 5.76,
-        "Draw": 1.46
-      },
       "Betfair": {
-        "Cagliari": 1.17,
-        "Parma": 60.0,
-        "Draw": 6.4
-      },
-      "Betsson": {
-        "Cagliari": 1.08,
-        "Parma": 65.0,
-        "Draw": 6.8
-      },
-      "Nordic Bet": {
-        "Cagliari": 1.07,
-        "Parma": 65.0,
-        "Draw": 7.2
-      },
-      "PMU (FR)": {
-        "Cagliari": 1.03,
-        "Parma": 71.0,
-        "Draw": 8.5
-      },
-      "888sport": {
-        "Cagliari": 1.11,
-        "Parma": 56.0,
-        "Draw": 7.0
+        "Ceará": 1.21,
+        "Londrina": 36.0,
+        "Draw": 5.2
+      }
+    },
+    "557c7a7d164bb27e9655fee7d0ccf58e:h2h": {
+      "Winamax (FR)": {
+        "Atletico Mineiro": 4.6,
+        "Internacional": 2.05,
+        "Draw": 2.25
       },
       "Coolbet": {
-        "Cagliari": 1.1,
-        "Parma": 100.0,
-        "Draw": 8.0
+        "Atletico Mineiro": 5.0,
+        "Internacional": 2.25,
+        "Draw": 2.3
+      },
+      "Winamax (DE)": {
+        "Atletico Mineiro": 4.8,
+        "Internacional": 2.1,
+        "Draw": 2.3
+      },
+      "Betclic (FR)": {
+        "Atletico Mineiro": 4.8,
+        "Internacional": 2.13,
+        "Draw": 2.28
+      },
+      "888sport": {
+        "Atletico Mineiro": 5.0,
+        "Internacional": 2.15,
+        "Draw": 2.25
+      },
+      "Nordic Bet": {
+        "Atletico Mineiro": 4.85,
+        "Internacional": 2.2,
+        "Draw": 2.3
+      },
+      "Betsson": {
+        "Atletico Mineiro": 4.85,
+        "Internacional": 2.2,
+        "Draw": 2.3
+      },
+      "Unibet (NL)": {
+        "Atletico Mineiro": 4.75,
+        "Internacional": 1.94,
+        "Draw": 2.48
+      },
+      "PMU (FR)": {
+        "Atletico Mineiro": 4.6,
+        "Internacional": 1.88,
+        "Draw": 2.38
+      },
+      "LeoVegas (SE)": {
+        "Atletico Mineiro": 4.7,
+        "Internacional": 1.93,
+        "Draw": 2.45
+      },
+      "Unibet (SE)": {
+        "Atletico Mineiro": 4.9,
+        "Internacional": 2.04,
+        "Draw": 2.55
+      },
+      "MyBookie.ag": {
+        "Atletico Mineiro": 4.7,
+        "Internacional": 2.15,
+        "Draw": 2.35
+      },
+      "Tipico": {
+        "Atletico Mineiro": 5.2,
+        "Internacional": 2.1,
+        "Draw": 2.3
+      },
+      "Pinnacle": {
+        "Atletico Mineiro": 5.4,
+        "Internacional": 2.2,
+        "Draw": 2.41
+      },
+      "Matchbook": {
+        "Atletico Mineiro": 5.6,
+        "Internacional": 2.3,
+        "Draw": 2.52
+      },
+      "Betfair": {
+        "Atletico Mineiro": 5.7,
+        "Internacional": 2.3,
+        "Draw": 2.52
+      }
+    },
+    "05e8f42e749d3089729143e3cbaf161a:h2h": {
+      "Unibet (NL)": {
+        "Cuiabá": 7.0,
+        "Goiás": 1.49,
+        "Draw": 3.1
+      },
+      "LeoVegas (SE)": {
+        "Cuiabá": 7.0,
+        "Goiás": 1.47,
+        "Draw": 3.1
+      },
+      "Unibet (SE)": {
+        "Cuiabá": 7.5,
+        "Goiás": 1.56,
+        "Draw": 3.25
+      },
+      "Nordic Bet": {
+        "Cuiabá": 8.2,
+        "Goiás": 1.52,
+        "Draw": 3.2
+      },
+      "Betsson": {
+        "Cuiabá": 8.2,
+        "Goiás": 1.52,
+        "Draw": 3.2
+      },
+      "Coolbet": {
+        "Cuiabá": 8.0,
+        "Goiás": 1.53,
+        "Draw": 3.25
+      },
+      "888sport": {
+        "Cuiabá": 7.0,
+        "Goiás": 1.53,
+        "Draw": 3.2
+      },
+      "Pinnacle": {
+        "Cuiabá": 8.14,
+        "Goiás": 1.55,
+        "Draw": 3.35
+      },
+      "Matchbook": {
+        "Cuiabá": 9.6,
+        "Goiás": 1.63,
+        "Draw": 3.45
+      },
+      "Betfair": {
+        "Cuiabá": 9.6,
+        "Goiás": 1.63,
+        "Draw": 3.45
+      }
+    },
+    "800864354981f44ecb98240b9db0ebf0:h2h": {
+      "Winamax (FR)": {
+        "Deportes Limache": 1.03,
+        "Huachipato": 55.0,
+        "Draw": 18.0
+      },
+      "Winamax (DE)": {
+        "Deportes Limache": 1.02,
+        "Huachipato": 55.0,
+        "Draw": 19.0
+      },
+      "Coolbet": {
+        "Deportes Limache": 1.03,
+        "Huachipato": 66.0,
+        "Draw": 18.0
+      },
+      "Nordic Bet": {
+        "Deportes Limache": 1.03,
+        "Huachipato": 100.0,
+        "Draw": 26.0
+      },
+      "Betsson": {
+        "Deportes Limache": 1.03,
+        "Huachipato": 100.0,
+        "Draw": 26.0
+      },
+      "888sport": {
+        "Deportes Limache": 1.02,
+        "Huachipato": 51.0,
+        "Draw": 19.0
+      },
+      "Unibet (SE)": {
+        "Deportes Limache": 1.04,
+        "Huachipato": 26.0,
+        "Draw": 14.0
+      },
+      "Betfair": {
+        "Deportes Limache": 1.04,
+        "Huachipato": 100.0,
+        "Draw": 29.0
+      },
+      "Matchbook": {
+        "Deportes Limache": 1.04,
+        "Huachipato": 110.0,
+        "Draw": 29.0
       }
     }
   },
@@ -8179,63 +8224,383 @@
       "confidence": 421,
       "alert_type": "value",
       "alerted_at": "2026-08-22T20:35:27.584992+00:00"
+    },
+    {
+      "state_key": "47e15fb6d01629f4dbba0e6266ecfdbb:h2h",
+      "event_id": "47e15fb6d01629f4dbba0e6266ecfdbb",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ceará",
+      "away_team": "Londrina",
+      "commence_time": "2026-08-22T21:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Londrina",
+      "odds_at_alert": 25.0,
+      "stake_pct": 5.0,
+      "confidence": 379,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T22:34:15.617570+00:00"
+    },
+    {
+      "state_key": "47e15fb6d01629f4dbba0e6266ecfdbb:h2h",
+      "event_id": "47e15fb6d01629f4dbba0e6266ecfdbb",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ceará",
+      "away_team": "Londrina",
+      "commence_time": "2026-08-22T21:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.9,
+      "stake_pct": 5.0,
+      "confidence": 135,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T22:34:15.938543+00:00"
+    },
+    {
+      "state_key": "47e15fb6d01629f4dbba0e6266ecfdbb:h2h",
+      "event_id": "47e15fb6d01629f4dbba0e6266ecfdbb",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ceará",
+      "away_team": "Londrina",
+      "commence_time": "2026-08-22T21:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Londrina",
+      "odds_at_alert": 25.0,
+      "stake_pct": 5.0,
+      "confidence": 379,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T22:34:16.286852+00:00"
+    },
+    {
+      "state_key": "47e15fb6d01629f4dbba0e6266ecfdbb:h2h",
+      "event_id": "47e15fb6d01629f4dbba0e6266ecfdbb",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ceará",
+      "away_team": "Londrina",
+      "commence_time": "2026-08-22T21:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.2,
+      "stake_pct": 5.0,
+      "confidence": 149,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T22:34:16.613831+00:00"
+    },
+    {
+      "state_key": "47e15fb6d01629f4dbba0e6266ecfdbb:h2h",
+      "event_id": "47e15fb6d01629f4dbba0e6266ecfdbb",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ceará",
+      "away_team": "Londrina",
+      "commence_time": "2026-08-22T21:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Londrina",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 398,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T22:34:16.932230+00:00"
+    },
+    {
+      "state_key": "47e15fb6d01629f4dbba0e6266ecfdbb:h2h",
+      "event_id": "47e15fb6d01629f4dbba0e6266ecfdbb",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ceará",
+      "away_team": "Londrina",
+      "commence_time": "2026-08-22T21:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.2,
+      "stake_pct": 5.0,
+      "confidence": 149,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T22:34:17.287996+00:00"
+    },
+    {
+      "state_key": "47e15fb6d01629f4dbba0e6266ecfdbb:h2h",
+      "event_id": "47e15fb6d01629f4dbba0e6266ecfdbb",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ceará",
+      "away_team": "Londrina",
+      "commence_time": "2026-08-22T21:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Londrina",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 398,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T22:34:17.627799+00:00"
+    },
+    {
+      "state_key": "47e15fb6d01629f4dbba0e6266ecfdbb:h2h",
+      "event_id": "47e15fb6d01629f4dbba0e6266ecfdbb",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ceará",
+      "away_team": "Londrina",
+      "commence_time": "2026-08-22T21:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.35,
+      "stake_pct": 5.0,
+      "confidence": 156,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T22:34:17.959701+00:00"
+    },
+    {
+      "state_key": "47e15fb6d01629f4dbba0e6266ecfdbb:h2h",
+      "event_id": "47e15fb6d01629f4dbba0e6266ecfdbb",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ceará",
+      "away_team": "Londrina",
+      "commence_time": "2026-08-22T21:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Londrina",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 398,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T22:34:18.335049+00:00"
+    },
+    {
+      "state_key": "47e15fb6d01629f4dbba0e6266ecfdbb:h2h",
+      "event_id": "47e15fb6d01629f4dbba0e6266ecfdbb",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ceará",
+      "away_team": "Londrina",
+      "commence_time": "2026-08-22T21:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.35,
+      "stake_pct": 5.0,
+      "confidence": 156,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T22:34:18.674907+00:00"
+    },
+    {
+      "state_key": "47e15fb6d01629f4dbba0e6266ecfdbb:h2h",
+      "event_id": "47e15fb6d01629f4dbba0e6266ecfdbb",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ceará",
+      "away_team": "Londrina",
+      "commence_time": "2026-08-22T21:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Londrina",
+      "odds_at_alert": 28.0,
+      "stake_pct": 5.0,
+      "confidence": 436,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T22:34:18.998359+00:00"
+    },
+    {
+      "state_key": "47e15fb6d01629f4dbba0e6266ecfdbb:h2h",
+      "event_id": "47e15fb6d01629f4dbba0e6266ecfdbb",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ceará",
+      "away_team": "Londrina",
+      "commence_time": "2026-08-22T21:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.5,
+      "stake_pct": 5.0,
+      "confidence": 163,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T22:34:19.345367+00:00"
+    },
+    {
+      "state_key": "47e15fb6d01629f4dbba0e6266ecfdbb:h2h",
+      "event_id": "47e15fb6d01629f4dbba0e6266ecfdbb",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ceará",
+      "away_team": "Londrina",
+      "commence_time": "2026-08-22T21:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Londrina",
+      "odds_at_alert": 29.0,
+      "stake_pct": 5.0,
+      "confidence": 456,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T22:34:19.697401+00:00"
+    },
+    {
+      "state_key": "47e15fb6d01629f4dbba0e6266ecfdbb:h2h",
+      "event_id": "47e15fb6d01629f4dbba0e6266ecfdbb",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ceará",
+      "away_team": "Londrina",
+      "commence_time": "2026-08-22T21:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.5,
+      "stake_pct": 5.0,
+      "confidence": 163,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T22:34:20.029382+00:00"
+    },
+    {
+      "state_key": "47e15fb6d01629f4dbba0e6266ecfdbb:h2h",
+      "event_id": "47e15fb6d01629f4dbba0e6266ecfdbb",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ceará",
+      "away_team": "Londrina",
+      "commence_time": "2026-08-22T21:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Londrina",
+      "odds_at_alert": 50.0,
+      "stake_pct": 5.0,
+      "confidence": 858,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T22:34:20.373146+00:00"
+    },
+    {
+      "state_key": "47e15fb6d01629f4dbba0e6266ecfdbb:h2h",
+      "event_id": "47e15fb6d01629f4dbba0e6266ecfdbb",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ceará",
+      "away_team": "Londrina",
+      "commence_time": "2026-08-22T21:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.4,
+      "stake_pct": 5.0,
+      "confidence": 207,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T22:34:20.714407+00:00"
+    },
+    {
+      "state_key": "47e15fb6d01629f4dbba0e6266ecfdbb:h2h",
+      "event_id": "47e15fb6d01629f4dbba0e6266ecfdbb",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ceará",
+      "away_team": "Londrina",
+      "commence_time": "2026-08-22T21:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Londrina",
+      "odds_at_alert": 45.0,
+      "stake_pct": 5.0,
+      "confidence": 762,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T22:34:21.029644+00:00"
+    },
+    {
+      "state_key": "47e15fb6d01629f4dbba0e6266ecfdbb:h2h",
+      "event_id": "47e15fb6d01629f4dbba0e6266ecfdbb",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ceará",
+      "away_team": "Londrina",
+      "commence_time": "2026-08-22T21:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.0,
+      "stake_pct": 5.0,
+      "confidence": 187,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T22:34:21.441250+00:00"
+    },
+    {
+      "state_key": "47e15fb6d01629f4dbba0e6266ecfdbb:h2h",
+      "event_id": "47e15fb6d01629f4dbba0e6266ecfdbb",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ceará",
+      "away_team": "Londrina",
+      "commence_time": "2026-08-22T21:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Londrina",
+      "odds_at_alert": 36.0,
+      "stake_pct": 5.0,
+      "confidence": 590,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T22:34:21.852404+00:00"
+    },
+    {
+      "state_key": "47e15fb6d01629f4dbba0e6266ecfdbb:h2h",
+      "event_id": "47e15fb6d01629f4dbba0e6266ecfdbb",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ceará",
+      "away_team": "Londrina",
+      "commence_time": "2026-08-22T21:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.2,
+      "stake_pct": 5.0,
+      "confidence": 149,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T22:34:22.174619+00:00"
+    },
+    {
+      "state_key": "05e8f42e749d3089729143e3cbaf161a:h2h",
+      "event_id": "05e8f42e749d3089729143e3cbaf161a",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Cuiabá",
+      "away_team": "Goiás",
+      "commence_time": "2026-08-22T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cuiabá",
+      "odds_at_alert": 9.6,
+      "stake_pct": 3.0,
+      "confidence": 11,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T22:34:22.494396+00:00"
+    },
+    {
+      "state_key": "05e8f42e749d3089729143e3cbaf161a:h2h",
+      "event_id": "05e8f42e749d3089729143e3cbaf161a",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Cuiabá",
+      "away_team": "Goiás",
+      "commence_time": "2026-08-22T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cuiabá",
+      "odds_at_alert": 9.6,
+      "stake_pct": 3.0,
+      "confidence": 11,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T22:34:22.897748+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h|888sport|Brest",
-    "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h|888sport|Le Mans FC",
-    "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h|Betclic (FR)|Brest",
-    "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h|Betclic (FR)|Le Mans FC",
-    "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h|Betfair|Brest",
-    "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h|Betfair|Le Mans FC",
-    "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h|Betsson|Brest",
-    "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h|Betsson|Le Mans FC",
-    "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h|Coolbet|Brest",
-    "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h|Coolbet|Le Mans FC",
-    "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h|LeoVegas (SE)|Brest",
-    "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h|LeoVegas (SE)|Le Mans FC",
-    "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h|Nordic Bet|Brest",
-    "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h|Nordic Bet|Le Mans FC",
-    "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h|PMU (FR)|Brest",
-    "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h|PMU (FR)|Le Mans FC",
-    "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h|Suprabets|Brest",
-    "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h|Suprabets|Le Mans FC",
-    "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h|Tipico|Brest",
-    "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h|Tipico|Le Mans FC",
-    "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h|Unibet (NL)|Brest",
-    "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h|Unibet (NL)|Le Mans FC",
-    "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h|Unibet (SE)|Brest",
-    "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h|Unibet (SE)|Le Mans FC",
-    "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h|Winamax (DE)|Brest",
-    "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h|Winamax (DE)|Le Mans FC",
-    "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h|Winamax (FR)|Brest",
-    "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h|Winamax (FR)|Le Mans FC",
-    "7d4101254957e46d6037bd1d8f268a0e:h2h|888sport|Draw",
-    "7d4101254957e46d6037bd1d8f268a0e:h2h|888sport|Parma",
-    "7d4101254957e46d6037bd1d8f268a0e:h2h|Betclic (FR)|Draw",
-    "7d4101254957e46d6037bd1d8f268a0e:h2h|Betclic (FR)|Parma",
-    "7d4101254957e46d6037bd1d8f268a0e:h2h|Betfair|Draw",
-    "7d4101254957e46d6037bd1d8f268a0e:h2h|Betfair|Parma",
-    "7d4101254957e46d6037bd1d8f268a0e:h2h|Betsson|Draw",
-    "7d4101254957e46d6037bd1d8f268a0e:h2h|Betsson|Parma",
-    "7d4101254957e46d6037bd1d8f268a0e:h2h|Coolbet|Draw",
-    "7d4101254957e46d6037bd1d8f268a0e:h2h|Coolbet|Parma",
-    "7d4101254957e46d6037bd1d8f268a0e:h2h|LeoVegas (SE)|Draw",
-    "7d4101254957e46d6037bd1d8f268a0e:h2h|LeoVegas (SE)|Parma",
-    "7d4101254957e46d6037bd1d8f268a0e:h2h|Nordic Bet|Draw",
-    "7d4101254957e46d6037bd1d8f268a0e:h2h|Nordic Bet|Parma",
-    "7d4101254957e46d6037bd1d8f268a0e:h2h|PMU (FR)|Draw",
-    "7d4101254957e46d6037bd1d8f268a0e:h2h|PMU (FR)|Parma",
-    "7d4101254957e46d6037bd1d8f268a0e:h2h|Tipico|Draw",
-    "7d4101254957e46d6037bd1d8f268a0e:h2h|Tipico|Parma",
-    "7d4101254957e46d6037bd1d8f268a0e:h2h|Unibet (NL)|Draw",
-    "7d4101254957e46d6037bd1d8f268a0e:h2h|Unibet (NL)|Parma",
-    "7d4101254957e46d6037bd1d8f268a0e:h2h|Unibet (SE)|Draw",
-    "7d4101254957e46d6037bd1d8f268a0e:h2h|Unibet (SE)|Parma",
-    "7d4101254957e46d6037bd1d8f268a0e:h2h|Winamax (DE)|Draw",
-    "7d4101254957e46d6037bd1d8f268a0e:h2h|Winamax (DE)|Parma",
-    "7d4101254957e46d6037bd1d8f268a0e:h2h|Winamax (FR)|Draw",
-    "7d4101254957e46d6037bd1d8f268a0e:h2h|Winamax (FR)|Parma"
+    "05e8f42e749d3089729143e3cbaf161a:h2h|Betfair|Cuiabá",
+    "05e8f42e749d3089729143e3cbaf161a:h2h|Matchbook|Cuiabá",
+    "47e15fb6d01629f4dbba0e6266ecfdbb:h2h|888sport|Draw",
+    "47e15fb6d01629f4dbba0e6266ecfdbb:h2h|888sport|Londrina",
+    "47e15fb6d01629f4dbba0e6266ecfdbb:h2h|Betfair|Draw",
+    "47e15fb6d01629f4dbba0e6266ecfdbb:h2h|Betfair|Londrina",
+    "47e15fb6d01629f4dbba0e6266ecfdbb:h2h|Betsson|Draw",
+    "47e15fb6d01629f4dbba0e6266ecfdbb:h2h|Betsson|Londrina",
+    "47e15fb6d01629f4dbba0e6266ecfdbb:h2h|Coolbet|Draw",
+    "47e15fb6d01629f4dbba0e6266ecfdbb:h2h|Coolbet|Londrina",
+    "47e15fb6d01629f4dbba0e6266ecfdbb:h2h|LeoVegas (SE)|Draw",
+    "47e15fb6d01629f4dbba0e6266ecfdbb:h2h|LeoVegas (SE)|Londrina",
+    "47e15fb6d01629f4dbba0e6266ecfdbb:h2h|Matchbook|Draw",
+    "47e15fb6d01629f4dbba0e6266ecfdbb:h2h|Matchbook|Londrina",
+    "47e15fb6d01629f4dbba0e6266ecfdbb:h2h|Nordic Bet|Draw",
+    "47e15fb6d01629f4dbba0e6266ecfdbb:h2h|Nordic Bet|Londrina",
+    "47e15fb6d01629f4dbba0e6266ecfdbb:h2h|Tipico|Draw",
+    "47e15fb6d01629f4dbba0e6266ecfdbb:h2h|Tipico|Londrina",
+    "47e15fb6d01629f4dbba0e6266ecfdbb:h2h|Unibet (NL)|Draw",
+    "47e15fb6d01629f4dbba0e6266ecfdbb:h2h|Unibet (NL)|Londrina",
+    "47e15fb6d01629f4dbba0e6266ecfdbb:h2h|Unibet (SE)|Draw",
+    "47e15fb6d01629f4dbba0e6266ecfdbb:h2h|Unibet (SE)|Londrina"
   ]
 }
