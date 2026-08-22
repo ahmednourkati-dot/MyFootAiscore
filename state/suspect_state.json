@@ -1,276 +1,155 @@
 {
   "snapshots": {
-    "31df1890be633668338dc40f40a8a95c:h2h": {
-      "Nordic Bet": {
-        "Avispa Fukuoka": 50.0,
-        "Kashima Antlers": 1.01,
-        "Draw": 15.0
+    "1ab8849d49e9fa8f5c0b2af895e41bcb:h2h": {
+      "Coolbet": {
+        "Tianjin Jinmen Tiger FC": 22.0,
+        "Wuhan Three Towns": 14.0,
+        "Draw": 1.05
+      },
+      "Pinnacle": {
+        "Tianjin Jinmen Tiger FC": 9.68,
+        "Wuhan Three Towns": 5.6,
+        "Draw": 1.27
       },
       "Betsson": {
-        "Avispa Fukuoka": 50.0,
-        "Kashima Antlers": 1.01,
-        "Draw": 15.0
+        "Tianjin Jinmen Tiger FC": 17.5,
+        "Wuhan Three Towns": 11.5,
+        "Draw": 1.04
       },
-      "Coolbet": {
-        "Avispa Fukuoka": 50.0,
-        "Kashima Antlers": 1.01,
+      "Nordic Bet": {
+        "Tianjin Jinmen Tiger FC": 16.0,
+        "Wuhan Three Towns": 10.5,
+        "Draw": 1.06
+      },
+      "Winamax (FR)": {
+        "Tianjin Jinmen Tiger FC": 48.0,
+        "Wuhan Three Towns": 30.0,
+        "Draw": 1.02
+      },
+      "Winamax (DE)": {
+        "Tianjin Jinmen Tiger FC": 48.0,
+        "Wuhan Three Towns": 29.0,
+        "Draw": 1.01
+      },
+      "888sport": {
+        "Tianjin Jinmen Tiger FC": 19.0,
+        "Wuhan Three Towns": 11.0,
+        "Draw": 1.08
+      },
+      "Tipico": {
+        "Tianjin Jinmen Tiger FC": 30.0,
+        "Wuhan Three Towns": 20.0,
+        "Draw": 1.02
+      },
+      "LeoVegas (SE)": {
+        "Tianjin Jinmen Tiger FC": 13.0,
+        "Wuhan Three Towns": 9.0,
+        "Draw": 1.04
+      },
+      "Unibet (NL)": {
+        "Tianjin Jinmen Tiger FC": 15.0,
+        "Wuhan Three Towns": 12.0,
+        "Draw": 1.03
+      },
+      "Unibet (SE)": {
+        "Tianjin Jinmen Tiger FC": 23.0,
+        "Wuhan Three Towns": 18.0,
+        "Draw": 1.03
+      },
+      "Betfair": {
+        "Tianjin Jinmen Tiger FC": 1.01,
+        "Wuhan Three Towns": 1.01
+      }
+    },
+    "198814ee07f8b29b058840b4cc28ddb0:h2h": {
+      "Betclic (FR)": {
+        "Bayer Leverkusen": 1.0,
+        "Wehen Wiesbaden": 250.0,
+        "Draw": 8.0
+      }
+    },
+    "15a48d58be1e08c333ecb606713c8da2:h2h": {
+      "Tipico": {
+        "Augsburg": 1.01,
+        "FC Energie Cottbus": 200.0,
         "Draw": 16.0
       },
       "Betclic (FR)": {
-        "Avispa Fukuoka": 60.0,
-        "Kashima Antlers": 1.0,
-        "Draw": 16.25
-      },
-      "Winamax (DE)": {
-        "Avispa Fukuoka": 100.0,
-        "Kashima Antlers": 1.01,
-        "Draw": 23.0
+        "Augsburg": 1.06,
+        "FC Energie Cottbus": 75.0,
+        "Draw": 5.6
       },
       "Winamax (FR)": {
-        "Avispa Fukuoka": 100.0,
-        "Kashima Antlers": 1.02,
-        "Draw": 23.0
+        "Augsburg": 1.03,
+        "FC Energie Cottbus": 600.0,
+        "Draw": 15.0
       },
-      "Unibet (SE)": {
-        "Avispa Fukuoka": 121.0,
-        "Kashima Antlers": 1.01,
-        "Draw": 21.0
-      },
-      "Betfair": {
-        "Avispa Fukuoka": 120.0,
-        "Kashima Antlers": 1.03,
-        "Draw": 30.0
-      },
-      "Matchbook": {
-        "Avispa Fukuoka": 300.0,
-        "Kashima Antlers": 1.02,
-        "Draw": 32.0
+      "Winamax (DE)": {
+        "Augsburg": 1.03,
+        "FC Energie Cottbus": 400.0,
+        "Draw": 16.0
       },
       "888sport": {
-        "Avispa Fukuoka": 151.0,
-        "Kashima Antlers": 1.0,
-        "Draw": 46.0
+        "Augsburg": 1.08,
+        "FC Energie Cottbus": 67.0,
+        "Draw": 8.0
       }
     },
-    "f0d7185bbedbc394715ad138824137be:h2h": {
-      "Nordic Bet": {
-        "Fagiano Okayama": 1.85,
-        "Tokyo Verdy": 6.8,
-        "Draw": 2.4
-      },
-      "Betsson": {
-        "Fagiano Okayama": 1.85,
-        "Tokyo Verdy": 6.8,
-        "Draw": 2.4
-      },
-      "Coolbet": {
-        "Fagiano Okayama": 1.91,
-        "Tokyo Verdy": 7.0,
-        "Draw": 2.5
-      },
-      "Betclic (FR)": {
-        "Fagiano Okayama": 1.85,
-        "Tokyo Verdy": 6.9,
-        "Draw": 2.42
-      },
+    "c5e716af9ed3bd064c3cbd99a06725bd:h2h": {
       "Pinnacle": {
-        "Fagiano Okayama": 1.93,
-        "Tokyo Verdy": 7.16,
-        "Draw": 2.49
-      },
-      "Winamax (DE)": {
-        "Fagiano Okayama": 1.86,
-        "Tokyo Verdy": 6.5,
-        "Draw": 2.4
-      },
-      "Winamax (FR)": {
-        "Fagiano Okayama": 1.82,
-        "Tokyo Verdy": 6.0,
+        "Barnsley": 3.53,
+        "Doncaster Rovers": 2.8,
         "Draw": 2.35
       },
-      "Tipico": {
-        "Fagiano Okayama": 1.8,
-        "Tokyo Verdy": 7.0,
-        "Draw": 2.5
+      "Nordic Bet": {
+        "Barnsley": 3.9,
+        "Doncaster Rovers": 2.92,
+        "Draw": 1.92
       },
-      "Betfair": {
-        "Fagiano Okayama": 1.97,
-        "Tokyo Verdy": 8.2,
-        "Draw": 2.62
-      },
-      "Unibet (NL)": {
-        "Fagiano Okayama": 2.08,
-        "Tokyo Verdy": 5.5,
-        "Draw": 2.23
-      },
-      "Unibet (SE)": {
-        "Fagiano Okayama": 2.1,
-        "Tokyo Verdy": 5.5,
-        "Draw": 2.25
-      },
-      "PMU (FR)": {
-        "Fagiano Okayama": 1.96,
-        "Tokyo Verdy": 5.2,
-        "Draw": 2.12
-      },
-      "LeoVegas (SE)": {
-        "Fagiano Okayama": 2.02,
-        "Tokyo Verdy": 5.3,
-        "Draw": 2.18
-      },
-      "Matchbook": {
-        "Fagiano Okayama": 1.98,
-        "Tokyo Verdy": 8.4,
-        "Draw": 2.62
-      }
-    },
-    "01150b5dc6b8ec80c959f9780ae2b4ff:h2h": {
       "Coolbet": {
-        "Cerezo Osaka": 2.4,
-        "Shimizu S Pulse": 3.5,
-        "Draw": 2.75
+        "Barnsley": 4.0,
+        "Doncaster Rovers": 3.14,
+        "Draw": 2.0
       },
       "Betsson": {
-        "Cerezo Osaka": 2.4,
-        "Shimizu S Pulse": 3.3,
-        "Draw": 2.65
-      },
-      "Betclic (FR)": {
-        "Cerezo Osaka": 2.32,
-        "Shimizu S Pulse": 3.42,
-        "Draw": 2.67
-      },
-      "Nordic Bet": {
-        "Cerezo Osaka": 2.4,
-        "Shimizu S Pulse": 3.3,
-        "Draw": 2.65
-      },
-      "Pinnacle": {
-        "Cerezo Osaka": 2.54,
-        "Shimizu S Pulse": 3.36,
-        "Draw": 2.71
-      },
-      "Winamax (DE)": {
-        "Cerezo Osaka": 2.35,
-        "Shimizu S Pulse": 3.35,
-        "Draw": 2.6
-      },
-      "Winamax (FR)": {
-        "Cerezo Osaka": 2.25,
-        "Shimizu S Pulse": 3.25,
-        "Draw": 2.5
+        "Barnsley": 3.9,
+        "Doncaster Rovers": 3.05,
+        "Draw": 1.85
       },
       "888sport": {
-        "Cerezo Osaka": 2.4,
-        "Shimizu S Pulse": 3.2,
-        "Draw": 2.62
-      },
-      "Tipico": {
-        "Cerezo Osaka": 2.3,
-        "Shimizu S Pulse": 3.6,
-        "Draw": 2.6
+        "Barnsley": 3.9,
+        "Doncaster Rovers": 3.1,
+        "Draw": 1.85
       },
       "Betfair": {
-        "Cerezo Osaka": 2.58,
-        "Shimizu S Pulse": 3.65,
-        "Draw": 2.86
-      },
-      "PMU (FR)": {
-        "Cerezo Osaka": 2.17,
-        "Shimizu S Pulse": 3.05,
-        "Draw": 2.6
-      },
-      "LeoVegas (SE)": {
-        "Cerezo Osaka": 2.23,
-        "Shimizu S Pulse": 3.15,
-        "Draw": 2.65
-      },
-      "Unibet (SE)": {
-        "Cerezo Osaka": 2.3,
-        "Shimizu S Pulse": 3.25,
-        "Draw": 2.75
-      },
-      "Unibet (NL)": {
-        "Cerezo Osaka": 2.3,
-        "Shimizu S Pulse": 3.25,
-        "Draw": 2.75
-      },
-      "Matchbook": {
-        "Cerezo Osaka": 2.58,
-        "Shimizu S Pulse": 3.7,
-        "Draw": 2.82
-      }
-    },
-    "98e97226a2b9271747921090e531aa94:h2h": {
-      "Coolbet": {
-        "Gamba Osaka": 3.0,
-        "Nagoya Grampus": 2.3,
-        "Draw": 3.25
-      },
-      "Betsson": {
-        "Gamba Osaka": 2.92,
-        "Nagoya Grampus": 2.3,
-        "Draw": 3.15
-      },
-      "Betclic (FR)": {
-        "Gamba Osaka": 2.9,
-        "Nagoya Grampus": 2.3,
-        "Draw": 3.15
-      },
-      "Nordic Bet": {
-        "Gamba Osaka": 2.88,
-        "Nagoya Grampus": 2.3,
-        "Draw": 3.15
-      },
-      "Pinnacle": {
-        "Gamba Osaka": 3.05,
-        "Nagoya Grampus": 2.32,
-        "Draw": 3.33
-      },
-      "Winamax (DE)": {
-        "Gamba Osaka": 2.9,
-        "Nagoya Grampus": 2.25,
-        "Draw": 3.1
-      },
-      "Winamax (FR)": {
-        "Gamba Osaka": 2.8,
-        "Nagoya Grampus": 2.2,
-        "Draw": 3.0
+        "Barnsley": 4.5,
+        "Doncaster Rovers": 3.2,
+        "Draw": 2.1
       },
       "Tipico": {
-        "Gamba Osaka": 2.8,
-        "Nagoya Grampus": 2.3,
-        "Draw": 3.3
-      },
-      "Betfair": {
-        "Gamba Osaka": 3.15,
-        "Nagoya Grampus": 2.42,
-        "Draw": 3.5
-      },
-      "PMU (FR)": {
-        "Gamba Osaka": 2.9,
-        "Nagoya Grampus": 2.17,
-        "Draw": 2.7
-      },
-      "LeoVegas (SE)": {
-        "Gamba Osaka": 3.0,
-        "Nagoya Grampus": 2.28,
-        "Draw": 2.7
+        "Barnsley": 3.8,
+        "Doncaster Rovers": 3.1,
+        "Draw": 1.95
       },
       "Unibet (SE)": {
-        "Gamba Osaka": 3.1,
-        "Nagoya Grampus": 2.3,
-        "Draw": 2.85
+        "Barnsley": 4.2,
+        "Doncaster Rovers": 2.65,
+        "Draw": 2.05
       },
       "Unibet (NL)": {
-        "Gamba Osaka": 3.1,
-        "Nagoya Grampus": 2.33,
-        "Draw": 2.8
+        "Barnsley": 4.2,
+        "Doncaster Rovers": 2.65,
+        "Draw": 2.05
+      },
+      "LeoVegas (SE)": {
+        "Barnsley": 3.95,
+        "Doncaster Rovers": 2.5,
+        "Draw": 1.92
       },
       "Matchbook": {
-        "Gamba Osaka": 3.3,
-        "Nagoya Grampus": 2.32,
-        "Draw": 3.5
+        "Barnsley": 4.4,
+        "Doncaster Rovers": 3.4,
+        "Draw": 1.99
       }
     }
   },
@@ -7443,11 +7322,485 @@
       "confidence": 11,
       "alert_type": "value",
       "alerted_at": "2026-08-22T10:35:43.622878+00:00"
+    },
+    {
+      "state_key": "1ab8849d49e9fa8f5c0b2af895e41bcb:h2h",
+      "event_id": "1ab8849d49e9fa8f5c0b2af895e41bcb",
+      "sport_key": "soccer",
+      "competition": "Super League - China",
+      "home_team": "Wuhan Three Towns",
+      "away_team": "Tianjin Jinmen Tiger FC",
+      "commence_time": "2026-08-22T11:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Tianjin Jinmen Tiger FC",
+      "odds_at_alert": 22.0,
+      "stake_pct": 5.0,
+      "confidence": 113,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T12:57:09.126803+00:00"
+    },
+    {
+      "state_key": "1ab8849d49e9fa8f5c0b2af895e41bcb:h2h",
+      "event_id": "1ab8849d49e9fa8f5c0b2af895e41bcb",
+      "sport_key": "soccer",
+      "competition": "Super League - China",
+      "home_team": "Wuhan Three Towns",
+      "away_team": "Tianjin Jinmen Tiger FC",
+      "commence_time": "2026-08-22T11:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Wuhan Three Towns",
+      "odds_at_alert": 14.0,
+      "stake_pct": 5.0,
+      "confidence": 134,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T12:57:09.442145+00:00"
+    },
+    {
+      "state_key": "1ab8849d49e9fa8f5c0b2af895e41bcb:h2h",
+      "event_id": "1ab8849d49e9fa8f5c0b2af895e41bcb",
+      "sport_key": "soccer",
+      "competition": "Super League - China",
+      "home_team": "Wuhan Three Towns",
+      "away_team": "Tianjin Jinmen Tiger FC",
+      "commence_time": "2026-08-22T11:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Tianjin Jinmen Tiger FC",
+      "odds_at_alert": 17.5,
+      "stake_pct": 5.0,
+      "confidence": 69,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T12:57:09.823798+00:00"
+    },
+    {
+      "state_key": "1ab8849d49e9fa8f5c0b2af895e41bcb:h2h",
+      "event_id": "1ab8849d49e9fa8f5c0b2af895e41bcb",
+      "sport_key": "soccer",
+      "competition": "Super League - China",
+      "home_team": "Wuhan Three Towns",
+      "away_team": "Tianjin Jinmen Tiger FC",
+      "commence_time": "2026-08-22T11:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Wuhan Three Towns",
+      "odds_at_alert": 11.5,
+      "stake_pct": 5.0,
+      "confidence": 92,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T12:57:10.171753+00:00"
+    },
+    {
+      "state_key": "1ab8849d49e9fa8f5c0b2af895e41bcb:h2h",
+      "event_id": "1ab8849d49e9fa8f5c0b2af895e41bcb",
+      "sport_key": "soccer",
+      "competition": "Super League - China",
+      "home_team": "Wuhan Three Towns",
+      "away_team": "Tianjin Jinmen Tiger FC",
+      "commence_time": "2026-08-22T11:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Tianjin Jinmen Tiger FC",
+      "odds_at_alert": 16.0,
+      "stake_pct": 5.0,
+      "confidence": 55,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T12:57:10.550248+00:00"
+    },
+    {
+      "state_key": "1ab8849d49e9fa8f5c0b2af895e41bcb:h2h",
+      "event_id": "1ab8849d49e9fa8f5c0b2af895e41bcb",
+      "sport_key": "soccer",
+      "competition": "Super League - China",
+      "home_team": "Wuhan Three Towns",
+      "away_team": "Tianjin Jinmen Tiger FC",
+      "commence_time": "2026-08-22T11:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Wuhan Three Towns",
+      "odds_at_alert": 10.5,
+      "stake_pct": 5.0,
+      "confidence": 75,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T12:57:10.888996+00:00"
+    },
+    {
+      "state_key": "1ab8849d49e9fa8f5c0b2af895e41bcb:h2h",
+      "event_id": "1ab8849d49e9fa8f5c0b2af895e41bcb",
+      "sport_key": "soccer",
+      "competition": "Super League - China",
+      "home_team": "Wuhan Three Towns",
+      "away_team": "Tianjin Jinmen Tiger FC",
+      "commence_time": "2026-08-22T11:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Tianjin Jinmen Tiger FC",
+      "odds_at_alert": 48.0,
+      "stake_pct": 5.0,
+      "confidence": 364,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T12:57:11.212707+00:00"
+    },
+    {
+      "state_key": "1ab8849d49e9fa8f5c0b2af895e41bcb:h2h",
+      "event_id": "1ab8849d49e9fa8f5c0b2af895e41bcb",
+      "sport_key": "soccer",
+      "competition": "Super League - China",
+      "home_team": "Wuhan Three Towns",
+      "away_team": "Tianjin Jinmen Tiger FC",
+      "commence_time": "2026-08-22T11:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Wuhan Three Towns",
+      "odds_at_alert": 30.0,
+      "stake_pct": 5.0,
+      "confidence": 401,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T12:57:11.546436+00:00"
+    },
+    {
+      "state_key": "1ab8849d49e9fa8f5c0b2af895e41bcb:h2h",
+      "event_id": "1ab8849d49e9fa8f5c0b2af895e41bcb",
+      "sport_key": "soccer",
+      "competition": "Super League - China",
+      "home_team": "Wuhan Three Towns",
+      "away_team": "Tianjin Jinmen Tiger FC",
+      "commence_time": "2026-08-22T11:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Tianjin Jinmen Tiger FC",
+      "odds_at_alert": 48.0,
+      "stake_pct": 5.0,
+      "confidence": 364,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T12:57:11.912613+00:00"
+    },
+    {
+      "state_key": "1ab8849d49e9fa8f5c0b2af895e41bcb:h2h",
+      "event_id": "1ab8849d49e9fa8f5c0b2af895e41bcb",
+      "sport_key": "soccer",
+      "competition": "Super League - China",
+      "home_team": "Wuhan Three Towns",
+      "away_team": "Tianjin Jinmen Tiger FC",
+      "commence_time": "2026-08-22T11:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Wuhan Three Towns",
+      "odds_at_alert": 29.0,
+      "stake_pct": 5.0,
+      "confidence": 384,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T12:57:12.262305+00:00"
+    },
+    {
+      "state_key": "1ab8849d49e9fa8f5c0b2af895e41bcb:h2h",
+      "event_id": "1ab8849d49e9fa8f5c0b2af895e41bcb",
+      "sport_key": "soccer",
+      "competition": "Super League - China",
+      "home_team": "Wuhan Three Towns",
+      "away_team": "Tianjin Jinmen Tiger FC",
+      "commence_time": "2026-08-22T11:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Tianjin Jinmen Tiger FC",
+      "odds_at_alert": 19.0,
+      "stake_pct": 5.0,
+      "confidence": 84,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T12:57:12.726943+00:00"
+    },
+    {
+      "state_key": "1ab8849d49e9fa8f5c0b2af895e41bcb:h2h",
+      "event_id": "1ab8849d49e9fa8f5c0b2af895e41bcb",
+      "sport_key": "soccer",
+      "competition": "Super League - China",
+      "home_team": "Wuhan Three Towns",
+      "away_team": "Tianjin Jinmen Tiger FC",
+      "commence_time": "2026-08-22T11:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Wuhan Three Towns",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 84,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T12:57:13.108182+00:00"
+    },
+    {
+      "state_key": "1ab8849d49e9fa8f5c0b2af895e41bcb:h2h",
+      "event_id": "1ab8849d49e9fa8f5c0b2af895e41bcb",
+      "sport_key": "soccer",
+      "competition": "Super League - China",
+      "home_team": "Wuhan Three Towns",
+      "away_team": "Tianjin Jinmen Tiger FC",
+      "commence_time": "2026-08-22T11:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Tianjin Jinmen Tiger FC",
+      "odds_at_alert": 30.0,
+      "stake_pct": 5.0,
+      "confidence": 190,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T12:57:13.434965+00:00"
+    },
+    {
+      "state_key": "1ab8849d49e9fa8f5c0b2af895e41bcb:h2h",
+      "event_id": "1ab8849d49e9fa8f5c0b2af895e41bcb",
+      "sport_key": "soccer",
+      "competition": "Super League - China",
+      "home_team": "Wuhan Three Towns",
+      "away_team": "Tianjin Jinmen Tiger FC",
+      "commence_time": "2026-08-22T11:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Wuhan Three Towns",
+      "odds_at_alert": 20.0,
+      "stake_pct": 5.0,
+      "confidence": 234,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T12:57:13.753766+00:00"
+    },
+    {
+      "state_key": "1ab8849d49e9fa8f5c0b2af895e41bcb:h2h",
+      "event_id": "1ab8849d49e9fa8f5c0b2af895e41bcb",
+      "sport_key": "soccer",
+      "competition": "Super League - China",
+      "home_team": "Wuhan Three Towns",
+      "away_team": "Tianjin Jinmen Tiger FC",
+      "commence_time": "2026-08-22T11:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Tianjin Jinmen Tiger FC",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 26,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T12:57:14.115608+00:00"
+    },
+    {
+      "state_key": "1ab8849d49e9fa8f5c0b2af895e41bcb:h2h",
+      "event_id": "1ab8849d49e9fa8f5c0b2af895e41bcb",
+      "sport_key": "soccer",
+      "competition": "Super League - China",
+      "home_team": "Wuhan Three Towns",
+      "away_team": "Tianjin Jinmen Tiger FC",
+      "commence_time": "2026-08-22T11:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Wuhan Three Towns",
+      "odds_at_alert": 9.0,
+      "stake_pct": 5.0,
+      "confidence": 50,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T12:57:14.449068+00:00"
+    },
+    {
+      "state_key": "1ab8849d49e9fa8f5c0b2af895e41bcb:h2h",
+      "event_id": "1ab8849d49e9fa8f5c0b2af895e41bcb",
+      "sport_key": "soccer",
+      "competition": "Super League - China",
+      "home_team": "Wuhan Three Towns",
+      "away_team": "Tianjin Jinmen Tiger FC",
+      "commence_time": "2026-08-22T11:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Tianjin Jinmen Tiger FC",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 45,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T12:57:14.799356+00:00"
+    },
+    {
+      "state_key": "1ab8849d49e9fa8f5c0b2af895e41bcb:h2h",
+      "event_id": "1ab8849d49e9fa8f5c0b2af895e41bcb",
+      "sport_key": "soccer",
+      "competition": "Super League - China",
+      "home_team": "Wuhan Three Towns",
+      "away_team": "Tianjin Jinmen Tiger FC",
+      "commence_time": "2026-08-22T11:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Wuhan Three Towns",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 100,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T12:57:15.126614+00:00"
+    },
+    {
+      "state_key": "1ab8849d49e9fa8f5c0b2af895e41bcb:h2h",
+      "event_id": "1ab8849d49e9fa8f5c0b2af895e41bcb",
+      "sport_key": "soccer",
+      "competition": "Super League - China",
+      "home_team": "Wuhan Three Towns",
+      "away_team": "Tianjin Jinmen Tiger FC",
+      "commence_time": "2026-08-22T11:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Tianjin Jinmen Tiger FC",
+      "odds_at_alert": 23.0,
+      "stake_pct": 5.0,
+      "confidence": 122,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T12:57:15.470884+00:00"
+    },
+    {
+      "state_key": "1ab8849d49e9fa8f5c0b2af895e41bcb:h2h",
+      "event_id": "1ab8849d49e9fa8f5c0b2af895e41bcb",
+      "sport_key": "soccer",
+      "competition": "Super League - China",
+      "home_team": "Wuhan Three Towns",
+      "away_team": "Tianjin Jinmen Tiger FC",
+      "commence_time": "2026-08-22T11:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Wuhan Three Towns",
+      "odds_at_alert": 18.0,
+      "stake_pct": 5.0,
+      "confidence": 201,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T12:57:15.819701+00:00"
+    },
+    {
+      "state_key": "c5e716af9ed3bd064c3cbd99a06725bd:h2h",
+      "event_id": "c5e716af9ed3bd064c3cbd99a06725bd",
+      "sport_key": "soccer",
+      "competition": "League 1",
+      "home_team": "Doncaster Rovers",
+      "away_team": "Barnsley",
+      "commence_time": "2026-08-22T11:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Barnsley",
+      "odds_at_alert": 4.0,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T12:57:16.140389+00:00"
+    },
+    {
+      "state_key": "c5e716af9ed3bd064c3cbd99a06725bd:h2h",
+      "event_id": "c5e716af9ed3bd064c3cbd99a06725bd",
+      "sport_key": "soccer",
+      "competition": "League 1",
+      "home_team": "Doncaster Rovers",
+      "away_team": "Barnsley",
+      "commence_time": "2026-08-22T11:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Doncaster Rovers",
+      "odds_at_alert": 3.14,
+      "stake_pct": 2.0,
+      "confidence": 5,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T12:57:16.480504+00:00"
+    },
+    {
+      "state_key": "c5e716af9ed3bd064c3cbd99a06725bd:h2h",
+      "event_id": "c5e716af9ed3bd064c3cbd99a06725bd",
+      "sport_key": "soccer",
+      "competition": "League 1",
+      "home_team": "Doncaster Rovers",
+      "away_team": "Barnsley",
+      "commence_time": "2026-08-22T11:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Barnsley",
+      "odds_at_alert": 4.5,
+      "stake_pct": 5.0,
+      "confidence": 20,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T12:57:16.802124+00:00"
+    },
+    {
+      "state_key": "c5e716af9ed3bd064c3cbd99a06725bd:h2h",
+      "event_id": "c5e716af9ed3bd064c3cbd99a06725bd",
+      "sport_key": "soccer",
+      "competition": "League 1",
+      "home_team": "Doncaster Rovers",
+      "away_team": "Barnsley",
+      "commence_time": "2026-08-22T11:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Doncaster Rovers",
+      "odds_at_alert": 3.2,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T12:57:17.155048+00:00"
+    },
+    {
+      "state_key": "c5e716af9ed3bd064c3cbd99a06725bd:h2h",
+      "event_id": "c5e716af9ed3bd064c3cbd99a06725bd",
+      "sport_key": "soccer",
+      "competition": "League 1",
+      "home_team": "Doncaster Rovers",
+      "away_team": "Barnsley",
+      "commence_time": "2026-08-22T11:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Barnsley",
+      "odds_at_alert": 4.2,
+      "stake_pct": 3.0,
+      "confidence": 12,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T12:57:17.508265+00:00"
+    },
+    {
+      "state_key": "c5e716af9ed3bd064c3cbd99a06725bd:h2h",
+      "event_id": "c5e716af9ed3bd064c3cbd99a06725bd",
+      "sport_key": "soccer",
+      "competition": "League 1",
+      "home_team": "Doncaster Rovers",
+      "away_team": "Barnsley",
+      "commence_time": "2026-08-22T11:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Barnsley",
+      "odds_at_alert": 4.2,
+      "stake_pct": 3.0,
+      "confidence": 12,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T12:57:17.845100+00:00"
+    },
+    {
+      "state_key": "c5e716af9ed3bd064c3cbd99a06725bd:h2h",
+      "event_id": "c5e716af9ed3bd064c3cbd99a06725bd",
+      "sport_key": "soccer",
+      "competition": "League 1",
+      "home_team": "Doncaster Rovers",
+      "away_team": "Barnsley",
+      "commence_time": "2026-08-22T11:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Barnsley",
+      "odds_at_alert": 4.4,
+      "stake_pct": 5.0,
+      "confidence": 17,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T12:57:18.222530+00:00"
+    },
+    {
+      "state_key": "c5e716af9ed3bd064c3cbd99a06725bd:h2h",
+      "event_id": "c5e716af9ed3bd064c3cbd99a06725bd",
+      "sport_key": "soccer",
+      "competition": "League 1",
+      "home_team": "Doncaster Rovers",
+      "away_team": "Barnsley",
+      "commence_time": "2026-08-22T11:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Doncaster Rovers",
+      "odds_at_alert": 3.4,
+      "stake_pct": 3.0,
+      "confidence": 14,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T12:57:18.565795+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "f0d7185bbedbc394715ad138824137be:h2h|Betfair|Tokyo Verdy",
-    "f0d7185bbedbc394715ad138824137be:h2h|Matchbook|Tokyo Verdy"
+    "1ab8849d49e9fa8f5c0b2af895e41bcb:h2h|888sport|Tianjin Jinmen Tiger FC",
+    "1ab8849d49e9fa8f5c0b2af895e41bcb:h2h|888sport|Wuhan Three Towns",
+    "1ab8849d49e9fa8f5c0b2af895e41bcb:h2h|Betsson|Tianjin Jinmen Tiger FC",
+    "1ab8849d49e9fa8f5c0b2af895e41bcb:h2h|Betsson|Wuhan Three Towns",
+    "1ab8849d49e9fa8f5c0b2af895e41bcb:h2h|Coolbet|Tianjin Jinmen Tiger FC",
+    "1ab8849d49e9fa8f5c0b2af895e41bcb:h2h|Coolbet|Wuhan Three Towns",
+    "1ab8849d49e9fa8f5c0b2af895e41bcb:h2h|LeoVegas (SE)|Tianjin Jinmen Tiger FC",
+    "1ab8849d49e9fa8f5c0b2af895e41bcb:h2h|LeoVegas (SE)|Wuhan Three Towns",
+    "1ab8849d49e9fa8f5c0b2af895e41bcb:h2h|Nordic Bet|Tianjin Jinmen Tiger FC",
+    "1ab8849d49e9fa8f5c0b2af895e41bcb:h2h|Nordic Bet|Wuhan Three Towns",
+    "1ab8849d49e9fa8f5c0b2af895e41bcb:h2h|Tipico|Tianjin Jinmen Tiger FC",
+    "1ab8849d49e9fa8f5c0b2af895e41bcb:h2h|Tipico|Wuhan Three Towns",
+    "1ab8849d49e9fa8f5c0b2af895e41bcb:h2h|Unibet (NL)|Tianjin Jinmen Tiger FC",
+    "1ab8849d49e9fa8f5c0b2af895e41bcb:h2h|Unibet (NL)|Wuhan Three Towns",
+    "1ab8849d49e9fa8f5c0b2af895e41bcb:h2h|Unibet (SE)|Tianjin Jinmen Tiger FC",
+    "1ab8849d49e9fa8f5c0b2af895e41bcb:h2h|Unibet (SE)|Wuhan Three Towns",
+    "1ab8849d49e9fa8f5c0b2af895e41bcb:h2h|Winamax (DE)|Tianjin Jinmen Tiger FC",
+    "1ab8849d49e9fa8f5c0b2af895e41bcb:h2h|Winamax (DE)|Wuhan Three Towns",
+    "1ab8849d49e9fa8f5c0b2af895e41bcb:h2h|Winamax (FR)|Tianjin Jinmen Tiger FC",
+    "1ab8849d49e9fa8f5c0b2af895e41bcb:h2h|Winamax (FR)|Wuhan Three Towns",
+    "c5e716af9ed3bd064c3cbd99a06725bd:h2h|Betfair|Barnsley",
+    "c5e716af9ed3bd064c3cbd99a06725bd:h2h|Betfair|Doncaster Rovers",
+    "c5e716af9ed3bd064c3cbd99a06725bd:h2h|Coolbet|Barnsley",
+    "c5e716af9ed3bd064c3cbd99a06725bd:h2h|Coolbet|Doncaster Rovers",
+    "c5e716af9ed3bd064c3cbd99a06725bd:h2h|Matchbook|Barnsley",
+    "c5e716af9ed3bd064c3cbd99a06725bd:h2h|Matchbook|Doncaster Rovers",
+    "c5e716af9ed3bd064c3cbd99a06725bd:h2h|Unibet (NL)|Barnsley",
+    "c5e716af9ed3bd064c3cbd99a06725bd:h2h|Unibet (SE)|Barnsley"
   ]
 }
