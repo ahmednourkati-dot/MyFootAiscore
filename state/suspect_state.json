@@ -1,129 +1,196 @@
 {
   "snapshots": {
-    "53730af508dabf03abb997dbb75cc467:h2h": {
-      "Tipico": {
-        "Arminia Bielefeld": 1.85,
-        "SG Sonnenhof Großaspach": 1.85
-      }
-    },
-    "4b5ea5feace9ff9415a07fe92ad37ef5:h2h": {
-      "Nordic Bet": {
-        "Dundee FC": 1.0,
-        "Dundee United": 26.0,
-        "Draw": 26.0
-      },
-      "888sport": {
-        "Dundee FC": 1.0,
-        "Dundee United": 151.0,
-        "Draw": 66.0
-      },
+    "37e7d04e975b8f84bdc4856dcb238895:h2h": {
       "Betsson": {
-        "Dundee FC": 1.0,
-        "Dundee United": 36.0,
-        "Draw": 21.0
-      },
-      "Betfair": {
-        "Dundee FC": 1.01,
-        "Dundee United": 280.0,
-        "Draw": 46.0
-      }
-    },
-    "d0358260dc3ba713ae9e9e0a6c8cc7e6:h2h": {
-      "Winamax (FR)": {
-        "FC Utrecht": 48.0,
-        "Sparta Rotterdam": 34.0,
-        "Draw": 1.02
-      },
-      "Coolbet": {
-        "FC Utrecht": 28.0,
-        "Sparta Rotterdam": 22.0,
-        "Draw": 1.04
+        "Fenerbahce": 1.0,
+        "Torku Konyaspor": 34.0,
+        "Draw": 29.0
       },
       "Betclic (FR)": {
-        "FC Utrecht": 23.0,
-        "Sparta Rotterdam": 17.75,
-        "Draw": 1.05
-      },
-      "Winamax (DE)": {
-        "FC Utrecht": 42.0,
-        "Sparta Rotterdam": 30.0,
-        "Draw": 1.01
-      },
-      "Betfair": {
-        "FC Utrecht": 1.01,
-        "Sparta Rotterdam": 1.4
-      },
-      "888sport": {
-        "FC Utrecht": 1.06,
-        "Sparta Rotterdam": 91.0,
-        "Draw": 9.5
-      },
-      "Betsson": {
-        "FC Utrecht": 26.0,
-        "Sparta Rotterdam": 21.0,
-        "Draw": 1.01
+        "Fenerbahce": 1.0,
+        "Torku Konyaspor": 100.0,
+        "Draw": 40.0
       },
       "Nordic Bet": {
-        "FC Utrecht": 26.0,
-        "Sparta Rotterdam": 21.0,
-        "Draw": 1.01
+        "Fenerbahce": 1.0,
+        "Torku Konyaspor": 34.0,
+        "Draw": 29.0
+      }
+    },
+    "f8316d29a2732e917ec14300c790cc4a:h2h": {
+      "Coolbet": {
+        "FC Basel": 1.01,
+        "FC Zurich": 150.0,
+        "Draw": 13.0
+      },
+      "Winamax (DE)": {
+        "FC Basel": 1.02,
+        "FC Zurich": 450.0,
+        "Draw": 14.0
+      },
+      "Winamax (FR)": {
+        "FC Basel": 1.04,
+        "FC Zurich": 450.0,
+        "Draw": 13.5
       },
       "Tipico": {
-        "FC Utrecht": 30.0,
-        "Sparta Rotterdam": 30.0,
-        "Draw": 1.01
+        "FC Basel": 3.6,
+        "FC Zurich": 500.0,
+        "Draw": 1.22
       },
-      "Unibet (NL)": {
-        "FC Utrecht": 23.0,
-        "Sparta Rotterdam": 23.0,
-        "Draw": 1.03
+      "Betfair": {
+        "FC Basel": 1.03,
+        "FC Zurich": 85.0,
+        "Draw": 11.0
+      }
+    },
+    "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h": {
+      "Winamax (DE)": {
+        "Brest": 6.75,
+        "Le Mans FC": 10.0,
+        "Draw": 1.21
       },
-      "Unibet (SE)": {
-        "FC Utrecht": 23.0,
-        "Sparta Rotterdam": 23.0,
-        "Draw": 1.03
+      "Winamax (FR)": {
+        "Brest": 6.25,
+        "Le Mans FC": 9.0,
+        "Draw": 1.2
+      },
+      "Betfair": {
+        "Brest": 7.8,
+        "Le Mans FC": 11.5,
+        "Draw": 1.25
+      },
+      "Betclic (FR)": {
+        "Brest": 7.25,
+        "Le Mans FC": 10.5,
+        "Draw": 1.18
+      },
+      "Tipico": {
+        "Brest": 7.5,
+        "Le Mans FC": 11.0,
+        "Draw": 1.16
+      },
+      "Coolbet": {
+        "Brest": 8.0,
+        "Le Mans FC": 12.0,
+        "Draw": 1.2
+      },
+      "Pinnacle": {
+        "Brest": 4.61,
+        "Le Mans FC": 5.65,
+        "Draw": 1.52
       },
       "LeoVegas (SE)": {
-        "FC Utrecht": 1.01,
-        "Sparta Rotterdam": 91.0,
-        "Draw": 10.0
-      }
-    },
-    "ba97c69ae521535ab82158d4ebb7d81f:h2h": {
-      "Betsson": {
-        "AD Ceuta FC": 81.0,
-        "Las Palmas": 1.0,
-        "Draw": 17.0
+        "Brest": 6.5,
+        "Le Mans FC": 12.0,
+        "Draw": 1.19
+      },
+      "Unibet (NL)": {
+        "Brest": 7.5,
+        "Le Mans FC": 12.5,
+        "Draw": 1.16
+      },
+      "Unibet (SE)": {
+        "Brest": 7.5,
+        "Le Mans FC": 12.5,
+        "Draw": 1.16
       },
       "Nordic Bet": {
-        "AD Ceuta FC": 81.0,
-        "Las Palmas": 1.0,
-        "Draw": 17.0
+        "Brest": 7.2,
+        "Le Mans FC": 10.5,
+        "Draw": 1.16
+      },
+      "Betsson": {
+        "Brest": 6.8,
+        "Le Mans FC": 10.5,
+        "Draw": 1.18
+      },
+      "Suprabets": {
+        "Brest": 5.9,
+        "Le Mans FC": 9.5,
+        "Draw": 1.25
+      },
+      "PMU (FR)": {
+        "Brest": 6.25,
+        "Le Mans FC": 11.5,
+        "Draw": 1.15
+      },
+      "888sport": {
+        "Brest": 7.0,
+        "Le Mans FC": 10.0,
+        "Draw": 1.18
+      }
+    },
+    "7d4101254957e46d6037bd1d8f268a0e:h2h": {
+      "LeoVegas (SE)": {
+        "Cagliari": 1.05,
+        "Parma": 71.0,
+        "Draw": 8.5
       },
       "Winamax (FR)": {
-        "AD Ceuta FC": 800.0,
-        "Las Palmas": 1.01,
-        "Draw": 42.0
+        "Cagliari": 1.1,
+        "Parma": 85.0,
+        "Draw": 7.0
       },
       "Betclic (FR)": {
-        "AD Ceuta FC": 100.0,
-        "Las Palmas": 1.0,
-        "Draw": 20.0
+        "Cagliari": 1.1,
+        "Parma": 55.0,
+        "Draw": 6.4
+      },
+      "Unibet (SE)": {
+        "Cagliari": 1.07,
+        "Parma": 111.0,
+        "Draw": 9.0
       },
       "Winamax (DE)": {
-        "AD Ceuta FC": 900.0,
-        "Las Palmas": 1.0,
-        "Draw": 44.0
+        "Cagliari": 1.09,
+        "Parma": 85.0,
+        "Draw": 7.5
+      },
+      "Tipico": {
+        "Cagliari": 1.1,
+        "Parma": 80.0,
+        "Draw": 6.0
+      },
+      "Unibet (NL)": {
+        "Cagliari": 1.07,
+        "Parma": 111.0,
+        "Draw": 9.0
+      },
+      "Pinnacle": {
+        "Cagliari": 5.15,
+        "Parma": 5.76,
+        "Draw": 1.46
       },
       "Betfair": {
-        "AD Ceuta FC": 280.0,
-        "Las Palmas": 1.02,
-        "Draw": 32.0
+        "Cagliari": 1.17,
+        "Parma": 60.0,
+        "Draw": 6.4
+      },
+      "Betsson": {
+        "Cagliari": 1.08,
+        "Parma": 65.0,
+        "Draw": 6.8
+      },
+      "Nordic Bet": {
+        "Cagliari": 1.07,
+        "Parma": 65.0,
+        "Draw": 7.2
+      },
+      "PMU (FR)": {
+        "Cagliari": 1.03,
+        "Parma": 71.0,
+        "Draw": 8.5
+      },
+      "888sport": {
+        "Cagliari": 1.11,
+        "Parma": 56.0,
+        "Draw": 7.0
       },
       "Coolbet": {
-        "AD Ceuta FC": 80.0,
-        "Las Palmas": 1.0,
-        "Draw": 16.0
+        "Cagliari": 1.1,
+        "Parma": 100.0,
+        "Draw": 8.0
       }
     }
   },
@@ -8352,8 +8419,927 @@
       "confidence": 29,
       "alert_type": "value",
       "alerted_at": "2026-08-22T14:34:25.398998+00:00"
+    },
+    {
+      "state_key": "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h",
+      "event_id": "0fe221a0fc71ab3ecfbecf8f1a224b89",
+      "sport_key": "soccer",
+      "competition": "Ligue 1 - France",
+      "home_team": "Le Mans FC",
+      "away_team": "Brest",
+      "commence_time": "2026-08-22T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Brest",
+      "odds_at_alert": 6.75,
+      "stake_pct": 5.0,
+      "confidence": 39,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T20:35:08.675461+00:00"
+    },
+    {
+      "state_key": "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h",
+      "event_id": "0fe221a0fc71ab3ecfbecf8f1a224b89",
+      "sport_key": "soccer",
+      "competition": "Ligue 1 - France",
+      "home_team": "Le Mans FC",
+      "away_team": "Brest",
+      "commence_time": "2026-08-22T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Le Mans FC",
+      "odds_at_alert": 10.0,
+      "stake_pct": 5.0,
+      "confidence": 68,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T20:35:09.034089+00:00"
+    },
+    {
+      "state_key": "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h",
+      "event_id": "0fe221a0fc71ab3ecfbecf8f1a224b89",
+      "sport_key": "soccer",
+      "competition": "Ligue 1 - France",
+      "home_team": "Le Mans FC",
+      "away_team": "Brest",
+      "commence_time": "2026-08-22T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Brest",
+      "odds_at_alert": 6.25,
+      "stake_pct": 5.0,
+      "confidence": 29,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T20:35:09.417238+00:00"
+    },
+    {
+      "state_key": "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h",
+      "event_id": "0fe221a0fc71ab3ecfbecf8f1a224b89",
+      "sport_key": "soccer",
+      "competition": "Ligue 1 - France",
+      "home_team": "Le Mans FC",
+      "away_team": "Brest",
+      "commence_time": "2026-08-22T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Le Mans FC",
+      "odds_at_alert": 9.0,
+      "stake_pct": 5.0,
+      "confidence": 51,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T20:35:09.764006+00:00"
+    },
+    {
+      "state_key": "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h",
+      "event_id": "0fe221a0fc71ab3ecfbecf8f1a224b89",
+      "sport_key": "soccer",
+      "competition": "Ligue 1 - France",
+      "home_team": "Le Mans FC",
+      "away_team": "Brest",
+      "commence_time": "2026-08-22T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Brest",
+      "odds_at_alert": 7.8,
+      "stake_pct": 5.0,
+      "confidence": 61,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T20:35:10.094258+00:00"
+    },
+    {
+      "state_key": "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h",
+      "event_id": "0fe221a0fc71ab3ecfbecf8f1a224b89",
+      "sport_key": "soccer",
+      "competition": "Ligue 1 - France",
+      "home_team": "Le Mans FC",
+      "away_team": "Brest",
+      "commence_time": "2026-08-22T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Le Mans FC",
+      "odds_at_alert": 11.5,
+      "stake_pct": 5.0,
+      "confidence": 94,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T20:35:10.424562+00:00"
+    },
+    {
+      "state_key": "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h",
+      "event_id": "0fe221a0fc71ab3ecfbecf8f1a224b89",
+      "sport_key": "soccer",
+      "competition": "Ligue 1 - France",
+      "home_team": "Le Mans FC",
+      "away_team": "Brest",
+      "commence_time": "2026-08-22T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Brest",
+      "odds_at_alert": 7.25,
+      "stake_pct": 5.0,
+      "confidence": 50,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T20:35:10.759719+00:00"
+    },
+    {
+      "state_key": "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h",
+      "event_id": "0fe221a0fc71ab3ecfbecf8f1a224b89",
+      "sport_key": "soccer",
+      "competition": "Ligue 1 - France",
+      "home_team": "Le Mans FC",
+      "away_team": "Brest",
+      "commence_time": "2026-08-22T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Le Mans FC",
+      "odds_at_alert": 10.5,
+      "stake_pct": 5.0,
+      "confidence": 77,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T20:35:11.107653+00:00"
+    },
+    {
+      "state_key": "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h",
+      "event_id": "0fe221a0fc71ab3ecfbecf8f1a224b89",
+      "sport_key": "soccer",
+      "competition": "Ligue 1 - France",
+      "home_team": "Le Mans FC",
+      "away_team": "Brest",
+      "commence_time": "2026-08-22T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Brest",
+      "odds_at_alert": 7.5,
+      "stake_pct": 5.0,
+      "confidence": 55,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T20:35:11.456944+00:00"
+    },
+    {
+      "state_key": "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h",
+      "event_id": "0fe221a0fc71ab3ecfbecf8f1a224b89",
+      "sport_key": "soccer",
+      "competition": "Ligue 1 - France",
+      "home_team": "Le Mans FC",
+      "away_team": "Brest",
+      "commence_time": "2026-08-22T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Le Mans FC",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 85,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T20:35:11.911429+00:00"
+    },
+    {
+      "state_key": "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h",
+      "event_id": "0fe221a0fc71ab3ecfbecf8f1a224b89",
+      "sport_key": "soccer",
+      "competition": "Ligue 1 - France",
+      "home_team": "Le Mans FC",
+      "away_team": "Brest",
+      "commence_time": "2026-08-22T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Brest",
+      "odds_at_alert": 8.0,
+      "stake_pct": 5.0,
+      "confidence": 65,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T20:35:12.235178+00:00"
+    },
+    {
+      "state_key": "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h",
+      "event_id": "0fe221a0fc71ab3ecfbecf8f1a224b89",
+      "sport_key": "soccer",
+      "competition": "Ligue 1 - France",
+      "home_team": "Le Mans FC",
+      "away_team": "Brest",
+      "commence_time": "2026-08-22T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Le Mans FC",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 102,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T20:35:12.562621+00:00"
+    },
+    {
+      "state_key": "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h",
+      "event_id": "0fe221a0fc71ab3ecfbecf8f1a224b89",
+      "sport_key": "soccer",
+      "competition": "Ligue 1 - France",
+      "home_team": "Le Mans FC",
+      "away_team": "Brest",
+      "commence_time": "2026-08-22T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Brest",
+      "odds_at_alert": 6.5,
+      "stake_pct": 5.0,
+      "confidence": 34,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T20:35:12.889012+00:00"
+    },
+    {
+      "state_key": "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h",
+      "event_id": "0fe221a0fc71ab3ecfbecf8f1a224b89",
+      "sport_key": "soccer",
+      "competition": "Ligue 1 - France",
+      "home_team": "Le Mans FC",
+      "away_team": "Brest",
+      "commence_time": "2026-08-22T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Le Mans FC",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 102,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T20:35:13.225225+00:00"
+    },
+    {
+      "state_key": "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h",
+      "event_id": "0fe221a0fc71ab3ecfbecf8f1a224b89",
+      "sport_key": "soccer",
+      "competition": "Ligue 1 - France",
+      "home_team": "Le Mans FC",
+      "away_team": "Brest",
+      "commence_time": "2026-08-22T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Brest",
+      "odds_at_alert": 7.5,
+      "stake_pct": 5.0,
+      "confidence": 55,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T20:35:13.577097+00:00"
+    },
+    {
+      "state_key": "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h",
+      "event_id": "0fe221a0fc71ab3ecfbecf8f1a224b89",
+      "sport_key": "soccer",
+      "competition": "Ligue 1 - France",
+      "home_team": "Le Mans FC",
+      "away_team": "Brest",
+      "commence_time": "2026-08-22T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Le Mans FC",
+      "odds_at_alert": 12.5,
+      "stake_pct": 5.0,
+      "confidence": 110,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T20:35:13.910870+00:00"
+    },
+    {
+      "state_key": "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h",
+      "event_id": "0fe221a0fc71ab3ecfbecf8f1a224b89",
+      "sport_key": "soccer",
+      "competition": "Ligue 1 - France",
+      "home_team": "Le Mans FC",
+      "away_team": "Brest",
+      "commence_time": "2026-08-22T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Brest",
+      "odds_at_alert": 7.5,
+      "stake_pct": 5.0,
+      "confidence": 55,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T20:35:14.260544+00:00"
+    },
+    {
+      "state_key": "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h",
+      "event_id": "0fe221a0fc71ab3ecfbecf8f1a224b89",
+      "sport_key": "soccer",
+      "competition": "Ligue 1 - France",
+      "home_team": "Le Mans FC",
+      "away_team": "Brest",
+      "commence_time": "2026-08-22T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Le Mans FC",
+      "odds_at_alert": 12.5,
+      "stake_pct": 5.0,
+      "confidence": 110,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T20:35:14.615868+00:00"
+    },
+    {
+      "state_key": "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h",
+      "event_id": "0fe221a0fc71ab3ecfbecf8f1a224b89",
+      "sport_key": "soccer",
+      "competition": "Ligue 1 - France",
+      "home_team": "Le Mans FC",
+      "away_team": "Brest",
+      "commence_time": "2026-08-22T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Brest",
+      "odds_at_alert": 7.2,
+      "stake_pct": 5.0,
+      "confidence": 48,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T20:35:14.946765+00:00"
+    },
+    {
+      "state_key": "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h",
+      "event_id": "0fe221a0fc71ab3ecfbecf8f1a224b89",
+      "sport_key": "soccer",
+      "competition": "Ligue 1 - France",
+      "home_team": "Le Mans FC",
+      "away_team": "Brest",
+      "commence_time": "2026-08-22T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Le Mans FC",
+      "odds_at_alert": 10.5,
+      "stake_pct": 5.0,
+      "confidence": 77,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T20:35:15.270182+00:00"
+    },
+    {
+      "state_key": "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h",
+      "event_id": "0fe221a0fc71ab3ecfbecf8f1a224b89",
+      "sport_key": "soccer",
+      "competition": "Ligue 1 - France",
+      "home_team": "Le Mans FC",
+      "away_team": "Brest",
+      "commence_time": "2026-08-22T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Brest",
+      "odds_at_alert": 6.8,
+      "stake_pct": 5.0,
+      "confidence": 40,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T20:35:15.627817+00:00"
+    },
+    {
+      "state_key": "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h",
+      "event_id": "0fe221a0fc71ab3ecfbecf8f1a224b89",
+      "sport_key": "soccer",
+      "competition": "Ligue 1 - France",
+      "home_team": "Le Mans FC",
+      "away_team": "Brest",
+      "commence_time": "2026-08-22T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Le Mans FC",
+      "odds_at_alert": 10.5,
+      "stake_pct": 5.0,
+      "confidence": 77,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T20:35:15.983200+00:00"
+    },
+    {
+      "state_key": "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h",
+      "event_id": "0fe221a0fc71ab3ecfbecf8f1a224b89",
+      "sport_key": "soccer",
+      "competition": "Ligue 1 - France",
+      "home_team": "Le Mans FC",
+      "away_team": "Brest",
+      "commence_time": "2026-08-22T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Brest",
+      "odds_at_alert": 5.9,
+      "stake_pct": 5.0,
+      "confidence": 22,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T20:35:16.364825+00:00"
+    },
+    {
+      "state_key": "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h",
+      "event_id": "0fe221a0fc71ab3ecfbecf8f1a224b89",
+      "sport_key": "soccer",
+      "competition": "Ligue 1 - France",
+      "home_team": "Le Mans FC",
+      "away_team": "Brest",
+      "commence_time": "2026-08-22T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Le Mans FC",
+      "odds_at_alert": 9.5,
+      "stake_pct": 5.0,
+      "confidence": 60,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T20:35:16.706812+00:00"
+    },
+    {
+      "state_key": "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h",
+      "event_id": "0fe221a0fc71ab3ecfbecf8f1a224b89",
+      "sport_key": "soccer",
+      "competition": "Ligue 1 - France",
+      "home_team": "Le Mans FC",
+      "away_team": "Brest",
+      "commence_time": "2026-08-22T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Brest",
+      "odds_at_alert": 6.25,
+      "stake_pct": 5.0,
+      "confidence": 29,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T20:35:17.058055+00:00"
+    },
+    {
+      "state_key": "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h",
+      "event_id": "0fe221a0fc71ab3ecfbecf8f1a224b89",
+      "sport_key": "soccer",
+      "competition": "Ligue 1 - France",
+      "home_team": "Le Mans FC",
+      "away_team": "Brest",
+      "commence_time": "2026-08-22T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Le Mans FC",
+      "odds_at_alert": 11.5,
+      "stake_pct": 5.0,
+      "confidence": 94,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T20:35:17.421255+00:00"
+    },
+    {
+      "state_key": "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h",
+      "event_id": "0fe221a0fc71ab3ecfbecf8f1a224b89",
+      "sport_key": "soccer",
+      "competition": "Ligue 1 - France",
+      "home_team": "Le Mans FC",
+      "away_team": "Brest",
+      "commence_time": "2026-08-22T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Brest",
+      "odds_at_alert": 7.0,
+      "stake_pct": 5.0,
+      "confidence": 44,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T20:35:17.758498+00:00"
+    },
+    {
+      "state_key": "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h",
+      "event_id": "0fe221a0fc71ab3ecfbecf8f1a224b89",
+      "sport_key": "soccer",
+      "competition": "Ligue 1 - France",
+      "home_team": "Le Mans FC",
+      "away_team": "Brest",
+      "commence_time": "2026-08-22T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Le Mans FC",
+      "odds_at_alert": 10.0,
+      "stake_pct": 5.0,
+      "confidence": 68,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T20:35:18.109743+00:00"
+    },
+    {
+      "state_key": "7d4101254957e46d6037bd1d8f268a0e:h2h",
+      "event_id": "7d4101254957e46d6037bd1d8f268a0e",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Parma",
+      "away_team": "Cagliari",
+      "commence_time": "2026-08-22T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Parma",
+      "odds_at_alert": 71.0,
+      "stake_pct": 5.0,
+      "confidence": 1071,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T20:35:18.442745+00:00"
+    },
+    {
+      "state_key": "7d4101254957e46d6037bd1d8f268a0e:h2h",
+      "event_id": "7d4101254957e46d6037bd1d8f268a0e",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Parma",
+      "away_team": "Cagliari",
+      "commence_time": "2026-08-22T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 8.5,
+      "stake_pct": 5.0,
+      "confidence": 453,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T20:35:18.803885+00:00"
+    },
+    {
+      "state_key": "7d4101254957e46d6037bd1d8f268a0e:h2h",
+      "event_id": "7d4101254957e46d6037bd1d8f268a0e",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Parma",
+      "away_team": "Cagliari",
+      "commence_time": "2026-08-22T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Parma",
+      "odds_at_alert": 85.0,
+      "stake_pct": 5.0,
+      "confidence": 1302,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T20:35:19.140413+00:00"
+    },
+    {
+      "state_key": "7d4101254957e46d6037bd1d8f268a0e:h2h",
+      "event_id": "7d4101254957e46d6037bd1d8f268a0e",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Parma",
+      "away_team": "Cagliari",
+      "commence_time": "2026-08-22T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 7.0,
+      "stake_pct": 5.0,
+      "confidence": 355,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T20:35:19.494607+00:00"
+    },
+    {
+      "state_key": "7d4101254957e46d6037bd1d8f268a0e:h2h",
+      "event_id": "7d4101254957e46d6037bd1d8f268a0e",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Parma",
+      "away_team": "Cagliari",
+      "commence_time": "2026-08-22T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Parma",
+      "odds_at_alert": 55.0,
+      "stake_pct": 5.0,
+      "confidence": 807,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T20:35:19.866142+00:00"
+    },
+    {
+      "state_key": "7d4101254957e46d6037bd1d8f268a0e:h2h",
+      "event_id": "7d4101254957e46d6037bd1d8f268a0e",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Parma",
+      "away_team": "Cagliari",
+      "commence_time": "2026-08-22T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.4,
+      "stake_pct": 5.0,
+      "confidence": 316,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T20:35:20.308789+00:00"
+    },
+    {
+      "state_key": "7d4101254957e46d6037bd1d8f268a0e:h2h",
+      "event_id": "7d4101254957e46d6037bd1d8f268a0e",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Parma",
+      "away_team": "Cagliari",
+      "commence_time": "2026-08-22T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Parma",
+      "odds_at_alert": 111.0,
+      "stake_pct": 5.0,
+      "confidence": 1731,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T20:35:20.656420+00:00"
+    },
+    {
+      "state_key": "7d4101254957e46d6037bd1d8f268a0e:h2h",
+      "event_id": "7d4101254957e46d6037bd1d8f268a0e",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Parma",
+      "away_team": "Cagliari",
+      "commence_time": "2026-08-22T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 9.0,
+      "stake_pct": 5.0,
+      "confidence": 486,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T20:35:21.039280+00:00"
+    },
+    {
+      "state_key": "7d4101254957e46d6037bd1d8f268a0e:h2h",
+      "event_id": "7d4101254957e46d6037bd1d8f268a0e",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Parma",
+      "away_team": "Cagliari",
+      "commence_time": "2026-08-22T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Parma",
+      "odds_at_alert": 85.0,
+      "stake_pct": 5.0,
+      "confidence": 1302,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T20:35:21.387352+00:00"
+    },
+    {
+      "state_key": "7d4101254957e46d6037bd1d8f268a0e:h2h",
+      "event_id": "7d4101254957e46d6037bd1d8f268a0e",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Parma",
+      "away_team": "Cagliari",
+      "commence_time": "2026-08-22T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 7.5,
+      "stake_pct": 5.0,
+      "confidence": 388,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T20:35:21.741312+00:00"
+    },
+    {
+      "state_key": "7d4101254957e46d6037bd1d8f268a0e:h2h",
+      "event_id": "7d4101254957e46d6037bd1d8f268a0e",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Parma",
+      "away_team": "Cagliari",
+      "commence_time": "2026-08-22T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Parma",
+      "odds_at_alert": 80.0,
+      "stake_pct": 5.0,
+      "confidence": 1219,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T20:35:22.118025+00:00"
+    },
+    {
+      "state_key": "7d4101254957e46d6037bd1d8f268a0e:h2h",
+      "event_id": "7d4101254957e46d6037bd1d8f268a0e",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Parma",
+      "away_team": "Cagliari",
+      "commence_time": "2026-08-22T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.0,
+      "stake_pct": 5.0,
+      "confidence": 290,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T20:35:22.621595+00:00"
+    },
+    {
+      "state_key": "7d4101254957e46d6037bd1d8f268a0e:h2h",
+      "event_id": "7d4101254957e46d6037bd1d8f268a0e",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Parma",
+      "away_team": "Cagliari",
+      "commence_time": "2026-08-22T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Parma",
+      "odds_at_alert": 111.0,
+      "stake_pct": 5.0,
+      "confidence": 1731,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T20:35:23.037898+00:00"
+    },
+    {
+      "state_key": "7d4101254957e46d6037bd1d8f268a0e:h2h",
+      "event_id": "7d4101254957e46d6037bd1d8f268a0e",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Parma",
+      "away_team": "Cagliari",
+      "commence_time": "2026-08-22T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 9.0,
+      "stake_pct": 5.0,
+      "confidence": 486,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T20:35:23.358642+00:00"
+    },
+    {
+      "state_key": "7d4101254957e46d6037bd1d8f268a0e:h2h",
+      "event_id": "7d4101254957e46d6037bd1d8f268a0e",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Parma",
+      "away_team": "Cagliari",
+      "commence_time": "2026-08-22T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Parma",
+      "odds_at_alert": 60.0,
+      "stake_pct": 5.0,
+      "confidence": 890,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T20:35:23.700838+00:00"
+    },
+    {
+      "state_key": "7d4101254957e46d6037bd1d8f268a0e:h2h",
+      "event_id": "7d4101254957e46d6037bd1d8f268a0e",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Parma",
+      "away_team": "Cagliari",
+      "commence_time": "2026-08-22T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.4,
+      "stake_pct": 5.0,
+      "confidence": 316,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T20:35:24.057682+00:00"
+    },
+    {
+      "state_key": "7d4101254957e46d6037bd1d8f268a0e:h2h",
+      "event_id": "7d4101254957e46d6037bd1d8f268a0e",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Parma",
+      "away_team": "Cagliari",
+      "commence_time": "2026-08-22T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Parma",
+      "odds_at_alert": 65.0,
+      "stake_pct": 5.0,
+      "confidence": 972,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T20:35:24.389998+00:00"
+    },
+    {
+      "state_key": "7d4101254957e46d6037bd1d8f268a0e:h2h",
+      "event_id": "7d4101254957e46d6037bd1d8f268a0e",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Parma",
+      "away_team": "Cagliari",
+      "commence_time": "2026-08-22T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.8,
+      "stake_pct": 5.0,
+      "confidence": 342,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T20:35:24.796103+00:00"
+    },
+    {
+      "state_key": "7d4101254957e46d6037bd1d8f268a0e:h2h",
+      "event_id": "7d4101254957e46d6037bd1d8f268a0e",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Parma",
+      "away_team": "Cagliari",
+      "commence_time": "2026-08-22T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Parma",
+      "odds_at_alert": 65.0,
+      "stake_pct": 5.0,
+      "confidence": 972,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T20:35:25.147667+00:00"
+    },
+    {
+      "state_key": "7d4101254957e46d6037bd1d8f268a0e:h2h",
+      "event_id": "7d4101254957e46d6037bd1d8f268a0e",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Parma",
+      "away_team": "Cagliari",
+      "commence_time": "2026-08-22T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 7.2,
+      "stake_pct": 5.0,
+      "confidence": 368,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T20:35:25.473276+00:00"
+    },
+    {
+      "state_key": "7d4101254957e46d6037bd1d8f268a0e:h2h",
+      "event_id": "7d4101254957e46d6037bd1d8f268a0e",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Parma",
+      "away_team": "Cagliari",
+      "commence_time": "2026-08-22T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Parma",
+      "odds_at_alert": 71.0,
+      "stake_pct": 5.0,
+      "confidence": 1071,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T20:35:25.808276+00:00"
+    },
+    {
+      "state_key": "7d4101254957e46d6037bd1d8f268a0e:h2h",
+      "event_id": "7d4101254957e46d6037bd1d8f268a0e",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Parma",
+      "away_team": "Cagliari",
+      "commence_time": "2026-08-22T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 8.5,
+      "stake_pct": 5.0,
+      "confidence": 453,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T20:35:26.187352+00:00"
+    },
+    {
+      "state_key": "7d4101254957e46d6037bd1d8f268a0e:h2h",
+      "event_id": "7d4101254957e46d6037bd1d8f268a0e",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Parma",
+      "away_team": "Cagliari",
+      "commence_time": "2026-08-22T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Parma",
+      "odds_at_alert": 56.0,
+      "stake_pct": 5.0,
+      "confidence": 824,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T20:35:26.543623+00:00"
+    },
+    {
+      "state_key": "7d4101254957e46d6037bd1d8f268a0e:h2h",
+      "event_id": "7d4101254957e46d6037bd1d8f268a0e",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Parma",
+      "away_team": "Cagliari",
+      "commence_time": "2026-08-22T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 7.0,
+      "stake_pct": 5.0,
+      "confidence": 355,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T20:35:26.890201+00:00"
+    },
+    {
+      "state_key": "7d4101254957e46d6037bd1d8f268a0e:h2h",
+      "event_id": "7d4101254957e46d6037bd1d8f268a0e",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Parma",
+      "away_team": "Cagliari",
+      "commence_time": "2026-08-22T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Parma",
+      "odds_at_alert": 100.0,
+      "stake_pct": 5.0,
+      "confidence": 1549,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T20:35:27.253156+00:00"
+    },
+    {
+      "state_key": "7d4101254957e46d6037bd1d8f268a0e:h2h",
+      "event_id": "7d4101254957e46d6037bd1d8f268a0e",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Parma",
+      "away_team": "Cagliari",
+      "commence_time": "2026-08-22T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 8.0,
+      "stake_pct": 5.0,
+      "confidence": 421,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T20:35:27.584992+00:00"
     }
   ],
   "results_history": [],
-  "value_alerted": []
+  "value_alerted": [
+    "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h|888sport|Brest",
+    "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h|888sport|Le Mans FC",
+    "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h|Betclic (FR)|Brest",
+    "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h|Betclic (FR)|Le Mans FC",
+    "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h|Betfair|Brest",
+    "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h|Betfair|Le Mans FC",
+    "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h|Betsson|Brest",
+    "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h|Betsson|Le Mans FC",
+    "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h|Coolbet|Brest",
+    "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h|Coolbet|Le Mans FC",
+    "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h|LeoVegas (SE)|Brest",
+    "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h|LeoVegas (SE)|Le Mans FC",
+    "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h|Nordic Bet|Brest",
+    "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h|Nordic Bet|Le Mans FC",
+    "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h|PMU (FR)|Brest",
+    "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h|PMU (FR)|Le Mans FC",
+    "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h|Suprabets|Brest",
+    "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h|Suprabets|Le Mans FC",
+    "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h|Tipico|Brest",
+    "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h|Tipico|Le Mans FC",
+    "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h|Unibet (NL)|Brest",
+    "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h|Unibet (NL)|Le Mans FC",
+    "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h|Unibet (SE)|Brest",
+    "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h|Unibet (SE)|Le Mans FC",
+    "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h|Winamax (DE)|Brest",
+    "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h|Winamax (DE)|Le Mans FC",
+    "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h|Winamax (FR)|Brest",
+    "0fe221a0fc71ab3ecfbecf8f1a224b89:h2h|Winamax (FR)|Le Mans FC",
+    "7d4101254957e46d6037bd1d8f268a0e:h2h|888sport|Draw",
+    "7d4101254957e46d6037bd1d8f268a0e:h2h|888sport|Parma",
+    "7d4101254957e46d6037bd1d8f268a0e:h2h|Betclic (FR)|Draw",
+    "7d4101254957e46d6037bd1d8f268a0e:h2h|Betclic (FR)|Parma",
+    "7d4101254957e46d6037bd1d8f268a0e:h2h|Betfair|Draw",
+    "7d4101254957e46d6037bd1d8f268a0e:h2h|Betfair|Parma",
+    "7d4101254957e46d6037bd1d8f268a0e:h2h|Betsson|Draw",
+    "7d4101254957e46d6037bd1d8f268a0e:h2h|Betsson|Parma",
+    "7d4101254957e46d6037bd1d8f268a0e:h2h|Coolbet|Draw",
+    "7d4101254957e46d6037bd1d8f268a0e:h2h|Coolbet|Parma",
+    "7d4101254957e46d6037bd1d8f268a0e:h2h|LeoVegas (SE)|Draw",
+    "7d4101254957e46d6037bd1d8f268a0e:h2h|LeoVegas (SE)|Parma",
+    "7d4101254957e46d6037bd1d8f268a0e:h2h|Nordic Bet|Draw",
+    "7d4101254957e46d6037bd1d8f268a0e:h2h|Nordic Bet|Parma",
+    "7d4101254957e46d6037bd1d8f268a0e:h2h|PMU (FR)|Draw",
+    "7d4101254957e46d6037bd1d8f268a0e:h2h|PMU (FR)|Parma",
+    "7d4101254957e46d6037bd1d8f268a0e:h2h|Tipico|Draw",
+    "7d4101254957e46d6037bd1d8f268a0e:h2h|Tipico|Parma",
+    "7d4101254957e46d6037bd1d8f268a0e:h2h|Unibet (NL)|Draw",
+    "7d4101254957e46d6037bd1d8f268a0e:h2h|Unibet (NL)|Parma",
+    "7d4101254957e46d6037bd1d8f268a0e:h2h|Unibet (SE)|Draw",
+    "7d4101254957e46d6037bd1d8f268a0e:h2h|Unibet (SE)|Parma",
+    "7d4101254957e46d6037bd1d8f268a0e:h2h|Winamax (DE)|Draw",
+    "7d4101254957e46d6037bd1d8f268a0e:h2h|Winamax (DE)|Parma",
+    "7d4101254957e46d6037bd1d8f268a0e:h2h|Winamax (FR)|Draw",
+    "7d4101254957e46d6037bd1d8f268a0e:h2h|Winamax (FR)|Parma"
+  ]
 }
