@@ -1,144 +1,15 @@
 {
   "snapshots": {
-    "99345c32c38a16d79647802f30cf3328:h2h": {
-      "Unibet (SE)": {
-        "América": 1.16,
-        "FC Juárez": 23.0,
-        "Draw": 5.8
-      },
-      "PMU (FR)": {
-        "América": 1.05,
-        "FC Juárez": 21.0,
-        "Draw": 5.1
-      },
-      "Unibet (NL)": {
-        "América": 1.16,
-        "FC Juárez": 23.0,
-        "Draw": 5.8
-      },
-      "LeoVegas (SE)": {
-        "América": 1.11,
-        "FC Juárez": 23.0,
-        "Draw": 5.4
-      },
-      "Nordic Bet": {
-        "América": 1.12,
-        "FC Juárez": 30.0,
-        "Draw": 5.8
-      },
-      "Betsson": {
-        "América": 1.12,
-        "FC Juárez": 30.0,
-        "Draw": 5.8
-      },
-      "Betclic (FR)": {
-        "América": 1.11,
-        "FC Juárez": 24.0,
-        "Draw": 5.6
-      },
-      "Coolbet": {
-        "América": 1.14,
-        "FC Juárez": 40.0,
-        "Draw": 7.0
-      },
-      "888sport": {
-        "América": 1.12,
-        "FC Juárez": 23.0,
-        "Draw": 5.5
-      },
-      "Betfair": {
-        "América": 1.22,
-        "FC Juárez": 36.0,
-        "Draw": 6.2
-      },
-      "Matchbook": {
-        "América": 1.19,
-        "FC Juárez": 42.0,
-        "Draw": 6.6
-      },
-      "Tipico": {
-        "América": 1.08,
-        "FC Juárez": 35.0,
-        "Draw": 7.0
-      }
-    },
-    "696f43dbcdfdbe4674dc9939e51fcfc0:h2h": {
-      "Unibet (NL)": {
-        "Querétaro": 9.5,
-        "Toluca": 1.48,
-        "Draw": 3.35
-      },
-      "Unibet (SE)": {
-        "Querétaro": 9.5,
-        "Toluca": 1.48,
-        "Draw": 3.35
-      },
-      "LeoVegas (SE)": {
-        "Querétaro": 9.0,
-        "Toluca": 1.41,
-        "Draw": 3.15
-      },
-      "PMU (FR)": {
-        "Querétaro": 8.5,
-        "Toluca": 1.33,
-        "Draw": 3.0
-      },
-      "Betsson": {
-        "Querétaro": 8.6,
-        "Toluca": 1.52,
-        "Draw": 3.15
-      },
-      "Nordic Bet": {
-        "Querétaro": 8.6,
-        "Toluca": 1.52,
-        "Draw": 3.15
-      },
-      "Betclic (FR)": {
-        "Querétaro": 2.23,
-        "Toluca": 6.25,
-        "Draw": 1.98
-      },
-      "Coolbet": {
-        "Querétaro": 9.0,
-        "Toluca": 1.57,
-        "Draw": 3.4
-      },
-      "888sport": {
-        "Querétaro": 6.5,
-        "Toluca": 1.53,
-        "Draw": 2.9
-      },
-      "Pinnacle": {
-        "Querétaro": 8.19,
-        "Toluca": 1.57,
-        "Draw": 3.17
-      },
-      "Tipico": {
-        "Querétaro": 8.5,
-        "Toluca": 1.55,
-        "Draw": 3.0
-      },
-      "Betfair": {
-        "Querétaro": 11.0,
-        "Toluca": 1.57,
-        "Draw": 3.55
-      },
-      "Matchbook": {
-        "Querétaro": 11.0,
-        "Toluca": 1.57,
-        "Draw": 3.55
-      }
-    },
     "31df1890be633668338dc40f40a8a95c:h2h": {
       "Nordic Bet": {
-        "Avispa Fukuoka": 4.9,
-        "Kashima Antlers": 1.72,
-        "Draw": 3.3
+        "Avispa Fukuoka": 4.7,
+        "Kashima Antlers": 1.75,
+        "Draw": 3.25
       },
       "Betsson": {
-        "Avispa Fukuoka": 4.95,
-        "Kashima Antlers": 1.72,
-        "Draw": 3.3
+        "Avispa Fukuoka": 4.75,
+        "Kashima Antlers": 1.75,
+        "Draw": 3.25
       },
       "Coolbet": {
         "Avispa Fukuoka": 5.0,
@@ -146,48 +17,48 @@
         "Draw": 3.4
       },
       "Betclic (FR)": {
-        "Avispa Fukuoka": 4.9,
-        "Kashima Antlers": 1.69,
-        "Draw": 3.38
+        "Avispa Fukuoka": 4.75,
+        "Kashima Antlers": 1.73,
+        "Draw": 3.32
       },
       "Unibet (FR)": {
-        "Avispa Fukuoka": 4.9,
-        "Kashima Antlers": 1.67,
-        "Draw": 3.35
+        "Avispa Fukuoka": 4.75,
+        "Kashima Antlers": 1.71,
+        "Draw": 3.3
       },
       "Pinnacle": {
-        "Avispa Fukuoka": 5.44,
-        "Kashima Antlers": 1.75,
-        "Draw": 3.57
+        "Avispa Fukuoka": 5.09,
+        "Kashima Antlers": 1.82,
+        "Draw": 3.45
       },
       "Winamax (DE)": {
-        "Avispa Fukuoka": 4.6,
-        "Kashima Antlers": 1.68,
-        "Draw": 3.4
+        "Avispa Fukuoka": 4.5,
+        "Kashima Antlers": 1.72,
+        "Draw": 3.35
       },
       "Winamax (FR)": {
-        "Avispa Fukuoka": 4.5,
-        "Kashima Antlers": 1.66,
+        "Avispa Fukuoka": 4.4,
+        "Kashima Antlers": 1.7,
         "Draw": 3.3
       },
       "Marathon Bet": {
-        "Avispa Fukuoka": 5.0,
-        "Kashima Antlers": 1.72,
-        "Draw": 3.44
+        "Avispa Fukuoka": 4.7,
+        "Kashima Antlers": 1.78,
+        "Draw": 3.36
       },
       "1xBet": {
-        "Avispa Fukuoka": 5.11,
-        "Kashima Antlers": 1.76,
-        "Draw": 3.52
+        "Avispa Fukuoka": 4.81,
+        "Kashima Antlers": 1.82,
+        "Draw": 3.44
       },
       "BetOnline.ag": {
-        "Avispa Fukuoka": 5.2,
-        "Kashima Antlers": 1.76,
-        "Draw": 3.5
+        "Avispa Fukuoka": 4.7,
+        "Kashima Antlers": 1.83,
+        "Draw": 3.45
       },
       "Tipico": {
-        "Avispa Fukuoka": 5.3,
-        "Kashima Antlers": 1.65,
+        "Avispa Fukuoka": 4.9,
+        "Kashima Antlers": 1.7,
         "Draw": 3.4
       },
       "Unibet (SE)": {
@@ -211,19 +82,19 @@
         "Draw": 3.2
       },
       "Betfair": {
-        "Avispa Fukuoka": 5.9,
-        "Kashima Antlers": 1.79,
-        "Draw": 3.55
-      },
-      "BetAnything": {
-        "Avispa Fukuoka": 5.2,
-        "Kashima Antlers": 1.76,
+        "Avispa Fukuoka": 5.5,
+        "Kashima Antlers": 1.83,
         "Draw": 3.5
       },
+      "BetAnything": {
+        "Avispa Fukuoka": 4.7,
+        "Kashima Antlers": 1.83,
+        "Draw": 3.45
+      },
       "Matchbook": {
-        "Avispa Fukuoka": 5.9,
-        "Kashima Antlers": 1.79,
-        "Draw": 3.6
+        "Avispa Fukuoka": 5.5,
+        "Kashima Antlers": 1.83,
+        "Draw": 3.55
       },
       "888sport": {
         "Avispa Fukuoka": 5.0,
@@ -238,99 +109,99 @@
     },
     "f0d7185bbedbc394715ad138824137be:h2h": {
       "Nordic Bet": {
-        "Fagiano Okayama": 2.15,
-        "Tokyo Verdy": 3.6,
-        "Draw": 2.85
+        "Fagiano Okayama": 1.92,
+        "Tokyo Verdy": 4.1,
+        "Draw": 3.05
       },
       "Betsson": {
-        "Fagiano Okayama": 2.18,
-        "Tokyo Verdy": 3.6,
-        "Draw": 2.88
+        "Fagiano Okayama": 1.95,
+        "Tokyo Verdy": 4.15,
+        "Draw": 3.05
       },
       "Coolbet": {
-        "Fagiano Okayama": 2.25,
-        "Tokyo Verdy": 3.6,
-        "Draw": 3.1
+        "Fagiano Okayama": 1.98,
+        "Tokyo Verdy": 4.2,
+        "Draw": 3.3
       },
       "Betclic (FR)": {
-        "Fagiano Okayama": 2.1,
-        "Tokyo Verdy": 3.68,
-        "Draw": 2.93
-      },
-      "Unibet (FR)": {
-        "Fagiano Okayama": 2.1,
-        "Tokyo Verdy": 3.6,
-        "Draw": 2.9
-      },
-      "Pinnacle": {
-        "Fagiano Okayama": 2.18,
-        "Tokyo Verdy": 3.92,
-        "Draw": 3.13
-      },
-      "Winamax (DE)": {
-        "Fagiano Okayama": 2.1,
-        "Tokyo Verdy": 3.45,
-        "Draw": 2.9
-      },
-      "Winamax (FR)": {
-        "Fagiano Okayama": 2.05,
-        "Tokyo Verdy": 3.35,
-        "Draw": 2.85
-      },
-      "Marathon Bet": {
-        "Fagiano Okayama": 2.13,
-        "Tokyo Verdy": 3.72,
-        "Draw": 2.99
-      },
-      "1xBet": {
-        "Fagiano Okayama": 2.23,
-        "Tokyo Verdy": 3.74,
-        "Draw": 3.01
-      },
-      "BetOnline.ag": {
-        "Fagiano Okayama": 2.18,
-        "Tokyo Verdy": 3.8,
+        "Fagiano Okayama": 1.9,
+        "Tokyo Verdy": 4.1,
         "Draw": 3.1
       },
+      "Unibet (FR)": {
+        "Fagiano Okayama": 1.88,
+        "Tokyo Verdy": 4.1,
+        "Draw": 3.1
+      },
+      "Pinnacle": {
+        "Fagiano Okayama": 1.99,
+        "Tokyo Verdy": 4.34,
+        "Draw": 3.31
+      },
+      "Winamax (DE)": {
+        "Fagiano Okayama": 1.9,
+        "Tokyo Verdy": 3.95,
+        "Draw": 3.15
+      },
+      "Winamax (FR)": {
+        "Fagiano Okayama": 1.88,
+        "Tokyo Verdy": 3.85,
+        "Draw": 3.1
+      },
+      "Marathon Bet": {
+        "Fagiano Okayama": 1.95,
+        "Tokyo Verdy": 4.15,
+        "Draw": 3.14
+      },
+      "1xBet": {
+        "Fagiano Okayama": 2.0,
+        "Tokyo Verdy": 4.25,
+        "Draw": 3.21
+      },
+      "BetOnline.ag": {
+        "Fagiano Okayama": 2.02,
+        "Tokyo Verdy": 4.2,
+        "Draw": 3.2
+      },
       "Tipico": {
-        "Fagiano Okayama": 2.05,
-        "Tokyo Verdy": 3.8,
-        "Draw": 2.95
+        "Fagiano Okayama": 1.9,
+        "Tokyo Verdy": 4.0,
+        "Draw": 3.2
       },
       "Betfair": {
-        "Fagiano Okayama": 2.22,
-        "Tokyo Verdy": 4.1,
-        "Draw": 3.15
+        "Fagiano Okayama": 2.02,
+        "Tokyo Verdy": 4.6,
+        "Draw": 3.35
       },
       "Unibet (NL)": {
-        "Fagiano Okayama": 2.08,
-        "Tokyo Verdy": 3.7,
-        "Draw": 2.95
+        "Fagiano Okayama": 2.02,
+        "Tokyo Verdy": 3.8,
+        "Draw": 3.05
       },
       "Unibet (SE)": {
-        "Fagiano Okayama": 2.08,
-        "Tokyo Verdy": 3.7,
-        "Draw": 2.95
+        "Fagiano Okayama": 2.02,
+        "Tokyo Verdy": 3.8,
+        "Draw": 3.05
       },
       "PMU (FR)": {
-        "Fagiano Okayama": 2.06,
-        "Tokyo Verdy": 3.65,
-        "Draw": 2.9
-      },
-      "LeoVegas (SE)": {
-        "Fagiano Okayama": 2.1,
-        "Tokyo Verdy": 3.7,
-        "Draw": 2.95
-      },
-      "BetAnything": {
-        "Fagiano Okayama": 2.15,
-        "Tokyo Verdy": 3.7,
+        "Fagiano Okayama": 2.0,
+        "Tokyo Verdy": 3.75,
         "Draw": 3.0
       },
-      "Matchbook": {
-        "Fagiano Okayama": 2.18,
+      "LeoVegas (SE)": {
+        "Fagiano Okayama": 2.04,
+        "Tokyo Verdy": 3.8,
+        "Draw": 3.05
+      },
+      "BetAnything": {
+        "Fagiano Okayama": 1.95,
         "Tokyo Verdy": 4.1,
         "Draw": 3.15
+      },
+      "Matchbook": {
+        "Fagiano Okayama": 2.02,
+        "Tokyo Verdy": 4.6,
+        "Draw": 3.35
       },
       "888sport": {
         "Fagiano Okayama": 2.1,
@@ -341,6 +212,145 @@
         "Fagiano Okayama": 2.1,
         "Tokyo Verdy": 3.9,
         "Draw": 2.88
+      }
+    },
+    "f822b0e0a961cbcc744f2f6972293b7a:h2h": {
+      "Tipico": {
+        "1. FC Köln": 6.0,
+        "Eintracht Frankfurt": 1.35,
+        "Draw": 5.0
+      },
+      "Pinnacle": {
+        "1. FC Köln": 5.81,
+        "Eintracht Frankfurt": 1.4,
+        "Draw": 4.84
+      },
+      "1xBet": {
+        "1. FC Köln": 6.43,
+        "Eintracht Frankfurt": 1.36,
+        "Draw": 4.75
+      },
+      "Unibet (SE)": {
+        "1. FC Köln": 5.75,
+        "Eintracht Frankfurt": 1.38,
+        "Draw": 4.4
+      },
+      "LeoVegas (SE)": {
+        "1. FC Köln": 5.75,
+        "Eintracht Frankfurt": 1.38,
+        "Draw": 4.4
+      },
+      "Unibet (NL)": {
+        "1. FC Köln": 5.75,
+        "Eintracht Frankfurt": 1.38,
+        "Draw": 4.4
+      }
+    },
+    "01150b5dc6b8ec80c959f9780ae2b4ff:h2h": {
+      "Coolbet": {
+        "Cerezo Osaka": 2.3,
+        "Shimizu S Pulse": 3.0,
+        "Draw": 3.5
+      },
+      "Betsson": {
+        "Cerezo Osaka": 2.2,
+        "Shimizu S Pulse": 3.0,
+        "Draw": 3.3
+      },
+      "Betclic (FR)": {
+        "Cerezo Osaka": 2.17,
+        "Shimizu S Pulse": 3.05,
+        "Draw": 3.35
+      },
+      "Unibet (FR)": {
+        "Cerezo Osaka": 2.15,
+        "Shimizu S Pulse": 3.05,
+        "Draw": 3.35
+      },
+      "Nordic Bet": {
+        "Cerezo Osaka": 2.2,
+        "Shimizu S Pulse": 3.0,
+        "Draw": 3.3
+      },
+      "Pinnacle": {
+        "Cerezo Osaka": 2.34,
+        "Shimizu S Pulse": 3.15,
+        "Draw": 3.48
+      },
+      "Winamax (DE)": {
+        "Cerezo Osaka": 2.15,
+        "Shimizu S Pulse": 2.9,
+        "Draw": 3.35
+      },
+      "Winamax (FR)": {
+        "Cerezo Osaka": 2.1,
+        "Shimizu S Pulse": 2.85,
+        "Draw": 3.3
+      },
+      "Marathon Bet": {
+        "Cerezo Osaka": 2.25,
+        "Shimizu S Pulse": 3.04,
+        "Draw": 3.34
+      },
+      "1xBet": {
+        "Cerezo Osaka": 2.31,
+        "Shimizu S Pulse": 3.12,
+        "Draw": 3.42
+      },
+      "888sport": {
+        "Cerezo Osaka": 2.2,
+        "Shimizu S Pulse": 3.0,
+        "Draw": 3.25
+      },
+      "William Hill": {
+        "Cerezo Osaka": 2.2,
+        "Shimizu S Pulse": 3.0,
+        "Draw": 3.25
+      },
+      "BetOnline.ag": {
+        "Cerezo Osaka": 2.3,
+        "Shimizu S Pulse": 3.1,
+        "Draw": 3.45
+      },
+      "Tipico": {
+        "Cerezo Osaka": 2.15,
+        "Shimizu S Pulse": 3.1,
+        "Draw": 3.4
+      },
+      "Betfair": {
+        "Cerezo Osaka": 2.38,
+        "Shimizu S Pulse": 3.2,
+        "Draw": 3.5
+      },
+      "PMU (FR)": {
+        "Cerezo Osaka": 2.14,
+        "Shimizu S Pulse": 3.05,
+        "Draw": 3.3
+      },
+      "LeoVegas (SE)": {
+        "Cerezo Osaka": 2.17,
+        "Shimizu S Pulse": 3.05,
+        "Draw": 3.35
+      },
+      "Unibet (SE)": {
+        "Cerezo Osaka": 2.17,
+        "Shimizu S Pulse": 3.05,
+        "Draw": 3.35
+      },
+      "Unibet (NL)": {
+        "Cerezo Osaka": 2.17,
+        "Shimizu S Pulse": 3.05,
+        "Draw": 3.35
+      },
+      "BetAnything": {
+        "Cerezo Osaka": 2.3,
+        "Shimizu S Pulse": 3.1,
+        "Draw": 3.45
+      },
+      "Matchbook": {
+        "Cerezo Osaka": 2.38,
+        "Shimizu S Pulse": 3.25,
+        "Draw": 3.55
       }
     }
   },
@@ -7484,13 +7494,5 @@
     }
   ],
   "results_history": [],
-  "value_alerted": [
-    "696f43dbcdfdbe4674dc9939e51fcfc0:h2h|Betclic (FR)|Toluca",
-    "696f43dbcdfdbe4674dc9939e51fcfc0:h2h|Betfair|Querétaro",
-    "696f43dbcdfdbe4674dc9939e51fcfc0:h2h|Matchbook|Querétaro",
-    "696f43dbcdfdbe4674dc9939e51fcfc0:h2h|Unibet (NL)|Querétaro",
-    "696f43dbcdfdbe4674dc9939e51fcfc0:h2h|Unibet (SE)|Querétaro",
-    "99345c32c38a16d79647802f30cf3328:h2h|Betfair|FC Juárez",
-    "99345c32c38a16d79647802f30cf3328:h2h|Matchbook|FC Juárez"
-  ]
+  "value_alerted": []
 }
