@@ -1,231 +1,346 @@
 {
   "snapshots": {
-    "0eaa33c90cfb2ff355668e24dc60598f:h2h": {
-      "Betsson": {
-        "Atlante FC": 26.0,
-        "Tigres": 1.0,
-        "Draw": 26.0
-      },
-      "Nordic Bet": {
-        "Atlante FC": 26.0,
-        "Tigres": 1.0,
-        "Draw": 26.0
-      },
-      "Betclic (FR)": {
-        "Atlante FC": 100.0,
-        "Tigres": 1.0,
-        "Draw": 40.0
-      },
-      "888sport": {
-        "Atlante FC": 151.0,
-        "Tigres": 1.01,
-        "Draw": 23.0
-      },
-      "Betfair": {
-        "Atlante FC": 250.0,
-        "Tigres": 1.05,
-        "Draw": 18.5
-      }
-    },
-    "d7e1347c506ecbff60b96a74a218f75b:h2h": {
-      "Betsson": {
-        "León": 1.0,
-        "Monterrey": 26.0,
-        "Draw": 26.0
-      },
-      "Nordic Bet": {
-        "León": 1.0,
-        "Monterrey": 26.0,
-        "Draw": 26.0
-      },
-      "Betclic (FR)": {
-        "León": 1.02,
-        "Monterrey": 100.0,
-        "Draw": 40.0
-      },
-      "888sport": {
-        "León": 1.0,
-        "Monterrey": 151.0,
-        "Draw": 41.0
-      },
-      "Betfair": {
-        "León": 1.01,
-        "Monterrey": 110.0,
-        "Draw": 50.0
-      }
-    },
     "99345c32c38a16d79647802f30cf3328:h2h": {
       "Unibet (SE)": {
-        "América": 1.71,
-        "FC Juárez": 4.1,
-        "Draw": 3.8
+        "América": 1.16,
+        "FC Juárez": 23.0,
+        "Draw": 5.8
       },
       "PMU (FR)": {
-        "América": 1.6,
-        "FC Juárez": 3.85,
-        "Draw": 3.55
+        "América": 1.05,
+        "FC Juárez": 21.0,
+        "Draw": 5.1
       },
       "Unibet (NL)": {
-        "América": 1.71,
-        "FC Juárez": 4.1,
-        "Draw": 3.8
+        "América": 1.16,
+        "FC Juárez": 23.0,
+        "Draw": 5.8
       },
       "LeoVegas (SE)": {
-        "América": 1.65,
-        "FC Juárez": 3.95,
-        "Draw": 3.65
+        "América": 1.11,
+        "FC Juárez": 23.0,
+        "Draw": 5.4
       },
       "Nordic Bet": {
-        "América": 1.62,
-        "FC Juárez": 4.9,
-        "Draw": 3.85
+        "América": 1.12,
+        "FC Juárez": 30.0,
+        "Draw": 5.8
       },
       "Betsson": {
-        "América": 1.62,
-        "FC Juárez": 4.9,
-        "Draw": 3.85
+        "América": 1.12,
+        "FC Juárez": 30.0,
+        "Draw": 5.8
       },
       "Betclic (FR)": {
-        "América": 1.62,
-        "FC Juárez": 4.4,
-        "Draw": 3.6
+        "América": 1.11,
+        "FC Juárez": 24.0,
+        "Draw": 5.6
       },
       "Coolbet": {
-        "América": 1.67,
-        "FC Juárez": 5.0,
-        "Draw": 4.0
-      },
-      "Marathon Bet": {
-        "América": 1.62,
-        "FC Juárez": 4.85,
-        "Draw": 3.92
-      },
-      "GTbets": {
-        "América": 1.65,
-        "FC Juárez": 5.05,
-        "Draw": 3.78
+        "América": 1.14,
+        "FC Juárez": 40.0,
+        "Draw": 7.0
       },
       "888sport": {
-        "América": 1.61,
-        "FC Juárez": 4.4,
-        "Draw": 3.6
-      },
-      "William Hill": {
-        "América": 1.62,
-        "FC Juárez": 4.5,
-        "Draw": 3.5
-      },
-      "Pinnacle": {
-        "América": 1.68,
-        "FC Juárez": 5.04,
-        "Draw": 4.12
-      },
-      "BetOnline.ag": {
-        "América": 1.65,
-        "FC Juárez": 5.15,
-        "Draw": 4.3
+        "América": 1.12,
+        "FC Juárez": 23.0,
+        "Draw": 5.5
       },
       "Betfair": {
-        "América": 1.69,
-        "FC Juárez": 5.6,
-        "Draw": 4.1
+        "América": 1.22,
+        "FC Juárez": 36.0,
+        "Draw": 6.2
       },
       "Matchbook": {
-        "América": 1.68,
-        "FC Juárez": 5.7,
-        "Draw": 4.1
+        "América": 1.19,
+        "FC Juárez": 42.0,
+        "Draw": 6.6
       },
       "Tipico": {
-        "América": 1.57,
-        "FC Juárez": 5.2,
-        "Draw": 3.9
+        "América": 1.08,
+        "FC Juárez": 35.0,
+        "Draw": 7.0
       }
     },
     "696f43dbcdfdbe4674dc9939e51fcfc0:h2h": {
       "Unibet (NL)": {
-        "Querétaro": 3.7,
-        "Toluca": 1.82,
-        "Draw": 3.7
+        "Querétaro": 9.5,
+        "Toluca": 1.48,
+        "Draw": 3.35
       },
       "Unibet (SE)": {
-        "Querétaro": 3.7,
-        "Toluca": 1.82,
-        "Draw": 3.7
+        "Querétaro": 9.5,
+        "Toluca": 1.48,
+        "Draw": 3.35
       },
       "LeoVegas (SE)": {
-        "Querétaro": 3.55,
-        "Toluca": 1.77,
-        "Draw": 3.55
+        "Querétaro": 9.0,
+        "Toluca": 1.41,
+        "Draw": 3.15
       },
       "PMU (FR)": {
-        "Querétaro": 3.45,
-        "Toluca": 1.71,
-        "Draw": 3.45
+        "Querétaro": 8.5,
+        "Toluca": 1.33,
+        "Draw": 3.0
       },
       "Betsson": {
-        "Querétaro": 3.7,
-        "Toluca": 1.88,
-        "Draw": 3.6
+        "Querétaro": 8.6,
+        "Toluca": 1.52,
+        "Draw": 3.15
       },
       "Nordic Bet": {
-        "Querétaro": 3.7,
-        "Toluca": 1.88,
-        "Draw": 3.6
+        "Querétaro": 8.6,
+        "Toluca": 1.52,
+        "Draw": 3.15
       },
       "Betclic (FR)": {
-        "Querétaro": 3.5,
-        "Toluca": 1.82,
-        "Draw": 3.5
+        "Querétaro": 2.23,
+        "Toluca": 6.25,
+        "Draw": 1.98
       },
       "Coolbet": {
-        "Querétaro": 3.82,
-        "Toluca": 1.96,
-        "Draw": 3.58
-      },
-      "Marathon Bet": {
-        "Querétaro": 3.72,
-        "Toluca": 1.84,
-        "Draw": 3.74
-      },
-      "GTbets": {
-        "Querétaro": 3.79,
-        "Toluca": 1.87,
-        "Draw": 3.73
+        "Querétaro": 9.0,
+        "Toluca": 1.57,
+        "Draw": 3.4
       },
       "888sport": {
-        "Querétaro": 3.5,
-        "Toluca": 1.8,
-        "Draw": 3.4
-      },
-      "William Hill": {
-        "Querétaro": 3.5,
-        "Toluca": 1.8,
-        "Draw": 3.4
+        "Querétaro": 6.5,
+        "Toluca": 1.53,
+        "Draw": 2.9
       },
       "Pinnacle": {
-        "Querétaro": 3.8,
-        "Toluca": 1.95,
-        "Draw": 3.87
-      },
-      "BetOnline.ag": {
-        "Querétaro": 3.75,
-        "Toluca": 1.95,
-        "Draw": 3.9
+        "Querétaro": 8.19,
+        "Toluca": 1.57,
+        "Draw": 3.17
       },
       "Tipico": {
-        "Querétaro": 3.8,
-        "Toluca": 1.8,
-        "Draw": 3.7
+        "Querétaro": 8.5,
+        "Toluca": 1.55,
+        "Draw": 3.0
       },
       "Betfair": {
-        "Querétaro": 4.0,
-        "Toluca": 1.97,
-        "Draw": 3.95
+        "Querétaro": 11.0,
+        "Toluca": 1.57,
+        "Draw": 3.55
       },
       "Matchbook": {
-        "Querétaro": 4.0,
-        "Toluca": 1.96,
-        "Draw": 3.95
+        "Querétaro": 11.0,
+        "Toluca": 1.57,
+        "Draw": 3.55
+      }
+    },
+    "31df1890be633668338dc40f40a8a95c:h2h": {
+      "Nordic Bet": {
+        "Avispa Fukuoka": 4.9,
+        "Kashima Antlers": 1.72,
+        "Draw": 3.3
+      },
+      "Betsson": {
+        "Avispa Fukuoka": 4.95,
+        "Kashima Antlers": 1.72,
+        "Draw": 3.3
+      },
+      "Coolbet": {
+        "Avispa Fukuoka": 5.0,
+        "Kashima Antlers": 1.8,
+        "Draw": 3.4
+      },
+      "Betclic (FR)": {
+        "Avispa Fukuoka": 4.9,
+        "Kashima Antlers": 1.69,
+        "Draw": 3.38
+      },
+      "Unibet (FR)": {
+        "Avispa Fukuoka": 4.9,
+        "Kashima Antlers": 1.67,
+        "Draw": 3.35
+      },
+      "Pinnacle": {
+        "Avispa Fukuoka": 5.44,
+        "Kashima Antlers": 1.75,
+        "Draw": 3.57
+      },
+      "Winamax (DE)": {
+        "Avispa Fukuoka": 4.6,
+        "Kashima Antlers": 1.68,
+        "Draw": 3.4
+      },
+      "Winamax (FR)": {
+        "Avispa Fukuoka": 4.5,
+        "Kashima Antlers": 1.66,
+        "Draw": 3.3
+      },
+      "Marathon Bet": {
+        "Avispa Fukuoka": 5.0,
+        "Kashima Antlers": 1.72,
+        "Draw": 3.44
+      },
+      "1xBet": {
+        "Avispa Fukuoka": 5.11,
+        "Kashima Antlers": 1.76,
+        "Draw": 3.52
+      },
+      "BetOnline.ag": {
+        "Avispa Fukuoka": 5.2,
+        "Kashima Antlers": 1.76,
+        "Draw": 3.5
+      },
+      "Tipico": {
+        "Avispa Fukuoka": 5.3,
+        "Kashima Antlers": 1.65,
+        "Draw": 3.4
+      },
+      "Unibet (SE)": {
+        "Avispa Fukuoka": 4.7,
+        "Kashima Antlers": 1.76,
+        "Draw": 3.25
+      },
+      "LeoVegas (SE)": {
+        "Avispa Fukuoka": 4.7,
+        "Kashima Antlers": 1.78,
+        "Draw": 3.25
+      },
+      "Unibet (NL)": {
+        "Avispa Fukuoka": 4.7,
+        "Kashima Antlers": 1.76,
+        "Draw": 3.25
+      },
+      "PMU (FR)": {
+        "Avispa Fukuoka": 4.6,
+        "Kashima Antlers": 1.75,
+        "Draw": 3.2
+      },
+      "Betfair": {
+        "Avispa Fukuoka": 5.9,
+        "Kashima Antlers": 1.79,
+        "Draw": 3.55
+      },
+      "BetAnything": {
+        "Avispa Fukuoka": 5.2,
+        "Kashima Antlers": 1.76,
+        "Draw": 3.5
+      },
+      "Matchbook": {
+        "Avispa Fukuoka": 5.9,
+        "Kashima Antlers": 1.79,
+        "Draw": 3.6
+      },
+      "888sport": {
+        "Avispa Fukuoka": 5.0,
+        "Kashima Antlers": 1.73,
+        "Draw": 3.3
+      },
+      "William Hill": {
+        "Avispa Fukuoka": 5.0,
+        "Kashima Antlers": 1.73,
+        "Draw": 3.3
+      }
+    },
+    "f0d7185bbedbc394715ad138824137be:h2h": {
+      "Nordic Bet": {
+        "Fagiano Okayama": 2.15,
+        "Tokyo Verdy": 3.6,
+        "Draw": 2.85
+      },
+      "Betsson": {
+        "Fagiano Okayama": 2.18,
+        "Tokyo Verdy": 3.6,
+        "Draw": 2.88
+      },
+      "Coolbet": {
+        "Fagiano Okayama": 2.25,
+        "Tokyo Verdy": 3.6,
+        "Draw": 3.1
+      },
+      "Betclic (FR)": {
+        "Fagiano Okayama": 2.1,
+        "Tokyo Verdy": 3.68,
+        "Draw": 2.93
+      },
+      "Unibet (FR)": {
+        "Fagiano Okayama": 2.1,
+        "Tokyo Verdy": 3.6,
+        "Draw": 2.9
+      },
+      "Pinnacle": {
+        "Fagiano Okayama": 2.18,
+        "Tokyo Verdy": 3.92,
+        "Draw": 3.13
+      },
+      "Winamax (DE)": {
+        "Fagiano Okayama": 2.1,
+        "Tokyo Verdy": 3.45,
+        "Draw": 2.9
+      },
+      "Winamax (FR)": {
+        "Fagiano Okayama": 2.05,
+        "Tokyo Verdy": 3.35,
+        "Draw": 2.85
+      },
+      "Marathon Bet": {
+        "Fagiano Okayama": 2.13,
+        "Tokyo Verdy": 3.72,
+        "Draw": 2.99
+      },
+      "1xBet": {
+        "Fagiano Okayama": 2.23,
+        "Tokyo Verdy": 3.74,
+        "Draw": 3.01
+      },
+      "BetOnline.ag": {
+        "Fagiano Okayama": 2.18,
+        "Tokyo Verdy": 3.8,
+        "Draw": 3.1
+      },
+      "Tipico": {
+        "Fagiano Okayama": 2.05,
+        "Tokyo Verdy": 3.8,
+        "Draw": 2.95
+      },
+      "Betfair": {
+        "Fagiano Okayama": 2.22,
+        "Tokyo Verdy": 4.1,
+        "Draw": 3.15
+      },
+      "Unibet (NL)": {
+        "Fagiano Okayama": 2.08,
+        "Tokyo Verdy": 3.7,
+        "Draw": 2.95
+      },
+      "Unibet (SE)": {
+        "Fagiano Okayama": 2.08,
+        "Tokyo Verdy": 3.7,
+        "Draw": 2.95
+      },
+      "PMU (FR)": {
+        "Fagiano Okayama": 2.06,
+        "Tokyo Verdy": 3.65,
+        "Draw": 2.9
+      },
+      "LeoVegas (SE)": {
+        "Fagiano Okayama": 2.1,
+        "Tokyo Verdy": 3.7,
+        "Draw": 2.95
+      },
+      "BetAnything": {
+        "Fagiano Okayama": 2.15,
+        "Tokyo Verdy": 3.7,
+        "Draw": 3.0
+      },
+      "Matchbook": {
+        "Fagiano Okayama": 2.18,
+        "Tokyo Verdy": 4.1,
+        "Draw": 3.15
+      },
+      "888sport": {
+        "Fagiano Okayama": 2.1,
+        "Tokyo Verdy": 3.9,
+        "Draw": 2.88
+      },
+      "William Hill": {
+        "Fagiano Okayama": 2.1,
+        "Tokyo Verdy": 3.9,
+        "Draw": 2.88
       }
     }
   },
@@ -7286,28 +7401,95 @@
       "confidence": 9,
       "alert_type": "value",
       "alerted_at": "2026-08-22T03:03:58.963218+00:00"
+    },
+    {
+      "state_key": "696f43dbcdfdbe4674dc9939e51fcfc0:h2h",
+      "event_id": "696f43dbcdfdbe4674dc9939e51fcfc0",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Querétaro",
+      "away_team": "Toluca",
+      "commence_time": "2026-08-22T03:10:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Querétaro",
+      "odds_at_alert": 9.5,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T04:44:45.364535+00:00"
+    },
+    {
+      "state_key": "696f43dbcdfdbe4674dc9939e51fcfc0:h2h",
+      "event_id": "696f43dbcdfdbe4674dc9939e51fcfc0",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Querétaro",
+      "away_team": "Toluca",
+      "commence_time": "2026-08-22T03:10:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Querétaro",
+      "odds_at_alert": 9.5,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T04:44:45.803415+00:00"
+    },
+    {
+      "state_key": "696f43dbcdfdbe4674dc9939e51fcfc0:h2h",
+      "event_id": "696f43dbcdfdbe4674dc9939e51fcfc0",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Querétaro",
+      "away_team": "Toluca",
+      "commence_time": "2026-08-22T03:10:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Toluca",
+      "odds_at_alert": 6.25,
+      "stake_pct": 5.0,
+      "confidence": 270,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T04:44:46.219757+00:00"
+    },
+    {
+      "state_key": "696f43dbcdfdbe4674dc9939e51fcfc0:h2h",
+      "event_id": "696f43dbcdfdbe4674dc9939e51fcfc0",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Querétaro",
+      "away_team": "Toluca",
+      "commence_time": "2026-08-22T03:10:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Querétaro",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 25,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T04:44:46.641124+00:00"
+    },
+    {
+      "state_key": "696f43dbcdfdbe4674dc9939e51fcfc0:h2h",
+      "event_id": "696f43dbcdfdbe4674dc9939e51fcfc0",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Querétaro",
+      "away_team": "Toluca",
+      "commence_time": "2026-08-22T03:10:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Querétaro",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 25,
+      "alert_type": "value",
+      "alerted_at": "2026-08-22T04:44:47.058665+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "0eaa33c90cfb2ff355668e24dc60598f:h2h|888sport|Atlante FC",
-    "0eaa33c90cfb2ff355668e24dc60598f:h2h|Betclic (FR)|Atlante FC",
-    "0eaa33c90cfb2ff355668e24dc60598f:h2h|Betfair|Atlante FC",
-    "0eaa33c90cfb2ff355668e24dc60598f:h2h|Betfair|Draw",
-    "0eaa33c90cfb2ff355668e24dc60598f:h2h|Betsson|Atlante FC",
-    "0eaa33c90cfb2ff355668e24dc60598f:h2h|Betsson|Draw",
-    "0eaa33c90cfb2ff355668e24dc60598f:h2h|Coolbet|Atlante FC",
-    "0eaa33c90cfb2ff355668e24dc60598f:h2h|Coolbet|Draw",
-    "0eaa33c90cfb2ff355668e24dc60598f:h2h|LeoVegas (SE)|Atlante FC",
-    "0eaa33c90cfb2ff355668e24dc60598f:h2h|Matchbook|Atlante FC",
-    "0eaa33c90cfb2ff355668e24dc60598f:h2h|Matchbook|Draw",
-    "0eaa33c90cfb2ff355668e24dc60598f:h2h|Nordic Bet|Atlante FC",
-    "0eaa33c90cfb2ff355668e24dc60598f:h2h|Nordic Bet|Draw",
-    "0eaa33c90cfb2ff355668e24dc60598f:h2h|PMU (FR)|Atlante FC",
-    "0eaa33c90cfb2ff355668e24dc60598f:h2h|Tipico|Atlante FC",
-    "0eaa33c90cfb2ff355668e24dc60598f:h2h|Tipico|Draw",
-    "0eaa33c90cfb2ff355668e24dc60598f:h2h|Unibet (NL)|Atlante FC",
-    "0eaa33c90cfb2ff355668e24dc60598f:h2h|Unibet (SE)|Atlante FC",
+    "696f43dbcdfdbe4674dc9939e51fcfc0:h2h|Betclic (FR)|Toluca",
+    "696f43dbcdfdbe4674dc9939e51fcfc0:h2h|Betfair|Querétaro",
+    "696f43dbcdfdbe4674dc9939e51fcfc0:h2h|Matchbook|Querétaro",
+    "696f43dbcdfdbe4674dc9939e51fcfc0:h2h|Unibet (NL)|Querétaro",
+    "696f43dbcdfdbe4674dc9939e51fcfc0:h2h|Unibet (SE)|Querétaro",
     "99345c32c38a16d79647802f30cf3328:h2h|Betfair|FC Juárez",
     "99345c32c38a16d79647802f30cf3328:h2h|Matchbook|FC Juárez"
   ]
