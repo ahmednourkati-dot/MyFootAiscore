@@ -1,256 +1,141 @@
 {
   "snapshots": {
-    "08437a1f283778e1275cf13d9555c840:h2h": {
-      "Pinnacle": {
-        "FC Akron Tolyatti": 6.19,
-        "Kryliya Sovetov": 1.54,
-        "Draw": 4.02
-      }
-    },
-    "1732c45e8db6c75b709075cbb0373c9f:h2h": {
-      "Betsson": {
-        "FC Nordsjaelland": 1.95,
-        "SonderjyskE": 3.65,
-        "Draw": 3.15
-      },
-      "Winamax (FR)": {
-        "FC Nordsjaelland": 1.92,
-        "SonderjyskE": 3.55,
-        "Draw": 3.0
-      },
-      "Nordic Bet": {
-        "FC Nordsjaelland": 1.95,
-        "SonderjyskE": 3.65,
-        "Draw": 3.15
-      },
-      "Winamax (DE)": {
-        "FC Nordsjaelland": 1.96,
-        "SonderjyskE": 3.65,
-        "Draw": 3.1
-      },
-      "Suprabets": {
-        "FC Nordsjaelland": 2.05,
-        "SonderjyskE": 3.55,
-        "Draw": 3.2
+    "527485dd2db8f4f232b37d4d2b1c434b:h2h": {
+      "888sport": {
+        "Burnley": 151.0,
+        "West Bromwich Albion": 1.0,
+        "Draw": 67.0
       },
       "Betclic (FR)": {
-        "FC Nordsjaelland": 1.93,
-        "SonderjyskE": 3.63,
-        "Draw": 3.1
+        "Burnley": 100.0,
+        "West Bromwich Albion": 1.0,
+        "Draw": 40.0
       },
       "Betfair": {
-        "FC Nordsjaelland": 2.1,
-        "SonderjyskE": 4.1,
-        "Draw": 3.45
-      },
-      "888sport": {
-        "FC Nordsjaelland": 2.05,
-        "SonderjyskE": 3.7,
-        "Draw": 3.0
-      },
-      "Unibet (NL)": {
-        "FC Nordsjaelland": 2.08,
-        "SonderjyskE": 3.75,
-        "Draw": 3.0
-      },
-      "LeoVegas (SE)": {
-        "FC Nordsjaelland": 2.0,
-        "SonderjyskE": 3.55,
-        "Draw": 2.88
-      },
-      "Unibet (SE)": {
-        "FC Nordsjaelland": 2.08,
-        "SonderjyskE": 3.75,
-        "Draw": 3.0
-      },
-      "PMU (FR)": {
-        "FC Nordsjaelland": 1.87,
-        "SonderjyskE": 3.35,
-        "Draw": 2.7
-      },
-      "Tipico": {
-        "FC Nordsjaelland": 1.9,
-        "SonderjyskE": 4.0,
-        "Draw": 3.1
-      },
-      "Pinnacle": {
-        "FC Nordsjaelland": 2.04,
-        "SonderjyskE": 3.92,
-        "Draw": 3.18
-      },
-      "Coolbet": {
-        "FC Nordsjaelland": 2.0,
-        "SonderjyskE": 3.8,
-        "Draw": 3.14
-      },
-      "Matchbook": {
-        "FC Nordsjaelland": 2.1,
-        "SonderjyskE": 4.1,
-        "Draw": 3.45
-      }
-    },
-    "c9c9af28f18102a573f7accbea612c77:h2h": {
-      "Coolbet": {
-        "ADO Den Haag": 4.33,
-        "Go Ahead Eagles": 1.91,
-        "Draw": 3.6
-      },
-      "Winamax (DE)": {
-        "ADO Den Haag": 4.0,
-        "Go Ahead Eagles": 1.8,
-        "Draw": 3.4
-      },
-      "Betsson": {
-        "ADO Den Haag": 4.1,
-        "Go Ahead Eagles": 1.8,
-        "Draw": 3.4
+        "Burnley": 620.0,
+        "West Bromwich Albion": 1.01,
+        "Draw": 55.0
       },
       "Nordic Bet": {
-        "ADO Den Haag": 4.1,
-        "Go Ahead Eagles": 1.8,
-        "Draw": 3.4
+        "Burnley": 36.0,
+        "West Bromwich Albion": 1.0,
+        "Draw": 21.0
       },
-      "Tipico": {
-        "ADO Den Haag": 4.0,
-        "Go Ahead Eagles": 1.8,
-        "Draw": 3.6
+      "Betsson": {
+        "Burnley": 36.0,
+        "West Bromwich Albion": 1.0,
+        "Draw": 21.0
+      }
+    },
+    "1bc2b0b5f630a9a6e79cc5151e35ecbb:h2h": {
+      "Nordic Bet": {
+        "Helsingborgs IF": 26.0,
+        "IK Oddevold": 1.0,
+        "Draw": 26.0
       },
-      "888sport": {
-        "ADO Den Haag": 3.75,
-        "Go Ahead Eagles": 1.75,
-        "Draw": 3.6
+      "Betsson": {
+        "Helsingborgs IF": 26.0,
+        "IK Oddevold": 1.0,
+        "Draw": 26.0
       },
       "Betfair": {
-        "ADO Den Haag": 4.3,
-        "Go Ahead Eagles": 1.92,
-        "Draw": 4.0
-      },
-      "Pinnacle": {
-        "ADO Den Haag": 4.14,
-        "Go Ahead Eagles": 1.88,
-        "Draw": 3.5
-      },
-      "PMU (FR)": {
-        "ADO Den Haag": 4.1,
-        "Go Ahead Eagles": 1.62,
-        "Draw": 3.3
-      },
-      "LeoVegas (SE)": {
-        "ADO Den Haag": 4.2,
-        "Go Ahead Eagles": 1.67,
-        "Draw": 3.45
-      },
-      "Unibet (SE)": {
-        "ADO Den Haag": 4.4,
-        "Go Ahead Eagles": 1.74,
-        "Draw": 3.6
-      },
-      "Unibet (NL)": {
-        "ADO Den Haag": 4.4,
-        "Go Ahead Eagles": 1.74,
-        "Draw": 3.6
-      },
-      "Matchbook": {
-        "ADO Den Haag": 4.5,
-        "Go Ahead Eagles": 1.92,
-        "Draw": 3.85
+        "Helsingborgs IF": 70.0,
+        "IK Oddevold": 1.01,
+        "Draw": 50.0
       }
     },
-    "d356b99a17adeea446f1da8c1bb76e52:h2h": {
-      "Unibet (NL)": {
-        "Daejeon Citizen": 2.38,
-        "Gangwon FC": 2.8,
-        "Draw": 3.0
-      },
-      "Unibet (SE)": {
-        "Daejeon Citizen": 2.38,
-        "Gangwon FC": 2.8,
-        "Draw": 3.0
-      },
-      "LeoVegas (SE)": {
-        "Daejeon Citizen": 2.23,
-        "Gangwon FC": 2.63,
-        "Draw": 2.8
-      },
-      "PMU (FR)": {
-        "Daejeon Citizen": 2.23,
-        "Gangwon FC": 2.5,
-        "Draw": 2.8
+    "2488bc03737e0a21cebf97d3b59a83fd:h2h": {
+      "Coolbet": {
+        "Henan FC": 1.22,
+        "Liaoning Tieren FC": 28.0,
+        "Draw": 4.5
       },
       "Betsson": {
-        "Daejeon Citizen": 2.25,
-        "Gangwon FC": 3.05,
-        "Draw": 3.05
-      },
-      "Betclic (FR)": {
-        "Daejeon Citizen": 2.3,
-        "Gangwon FC": 3.05,
-        "Draw": 3.0
+        "Henan FC": 1.2,
+        "Liaoning Tieren FC": 24.0,
+        "Draw": 4.4
       },
       "Nordic Bet": {
-        "Daejeon Citizen": 2.22,
-        "Gangwon FC": 3.05,
-        "Draw": 3.05
+        "Henan FC": 1.16,
+        "Liaoning Tieren FC": 32.0,
+        "Draw": 4.85
       },
       "Winamax (FR)": {
-        "Daejeon Citizen": 2.2,
-        "Gangwon FC": 2.9,
-        "Draw": 2.85
+        "Henan FC": 1.07,
+        "Liaoning Tieren FC": 170.0,
+        "Draw": 8.5
       },
       "Winamax (DE)": {
-        "Daejeon Citizen": 2.3,
-        "Gangwon FC": 3.0,
-        "Draw": 2.95
-      },
-      "1xBet": {
-        "Daejeon Citizen": 2.38,
-        "Gangwon FC": 3.08,
-        "Draw": 3.24
+        "Henan FC": 5.6,
+        "Liaoning Tieren FC": 5.8,
+        "Draw": 1.33
       },
       "Pinnacle": {
-        "Daejeon Citizen": 2.38,
-        "Gangwon FC": 3.4,
-        "Draw": 3.15
-      },
-      "Marathon Bet": {
-        "Daejeon Citizen": 2.29,
-        "Gangwon FC": 3.24,
-        "Draw": 3.06
-      },
-      "William Hill": {
-        "Daejeon Citizen": 2.25,
-        "Gangwon FC": 3.1,
-        "Draw": 3.0
-      },
-      "Tipico": {
-        "Daejeon Citizen": 2.3,
-        "Gangwon FC": 3.1,
-        "Draw": 3.0
-      },
-      "BetOnline.ag": {
-        "Daejeon Citizen": 2.32,
-        "Gangwon FC": 3.35,
-        "Draw": 3.1
-      },
-      "Unibet (FR)": {
-        "Daejeon Citizen": 2.1,
-        "Gangwon FC": 3.1,
-        "Draw": 3.1
-      },
-      "Coolbet": {
-        "Daejeon Citizen": 2.35,
-        "Gangwon FC": 3.1,
-        "Draw": 3.25
+        "Henan FC": 1.24,
+        "Liaoning Tieren FC": 22.23,
+        "Draw": 4.86
       },
       "Betfair": {
-        "Daejeon Citizen": 2.46,
-        "Gangwon FC": 3.4,
-        "Draw": 3.15
+        "Henan FC": 5.2,
+        "Liaoning Tieren FC": 11.5,
+        "Draw": 1.21
+      },
+      "888sport": {
+        "Henan FC": 13.0,
+        "Liaoning Tieren FC": 13.0,
+        "Draw": 1.08
+      },
+      "Tipico": {
+        "Henan FC": 1.05,
+        "Liaoning Tieren FC": 100.0,
+        "Draw": 8.5
+      },
+      "LeoVegas (SE)": {
+        "Henan FC": 8.0,
+        "Liaoning Tieren FC": 8.0,
+        "Draw": 1.1
+      },
+      "Unibet (NL)": {
+        "Henan FC": 8.0,
+        "Liaoning Tieren FC": 8.5,
+        "Draw": 1.17
+      },
+      "Unibet (SE)": {
+        "Henan FC": 8.0,
+        "Liaoning Tieren FC": 8.5,
+        "Draw": 1.17
       },
       "Matchbook": {
-        "Daejeon Citizen": 2.5,
-        "Gangwon FC": 3.35,
-        "Draw": 3.15
+        "Henan FC": 3.45,
+        "Liaoning Tieren FC": 3.45,
+        "Draw": 1.31
+      }
+    },
+    "780aff16284512d03d3ae42436754b38:h2h": {
+      "Tipico": {
+        "Greuther Fürth": 300.0,
+        "VfL Bochum": 1.03,
+        "Draw": 9.5
+      },
+      "Winamax (FR)": {
+        "Greuther Fürth": 225.0,
+        "VfL Bochum": 1.07,
+        "Draw": 8.5
+      },
+      "Winamax (DE)": {
+        "Greuther Fürth": 700.0,
+        "VfL Bochum": 1.04,
+        "Draw": 11.5
+      },
+      "Betclic (FR)": {
+        "Greuther Fürth": 125.0,
+        "VfL Bochum": 1.05,
+        "Draw": 5.75
+      },
+      "888sport": {
+        "Greuther Fürth": 21.0,
+        "VfL Bochum": 1.22,
+        "Draw": 4.33
       }
     }
   },
@@ -10335,11 +10220,230 @@
       "confidence": 8,
       "alert_type": "value",
       "alerted_at": "2026-08-23T10:36:10.349805+00:00"
+    },
+    {
+      "state_key": "2488bc03737e0a21cebf97d3b59a83fd:h2h",
+      "event_id": "2488bc03737e0a21cebf97d3b59a83fd",
+      "sport_key": "soccer",
+      "competition": "Super League - China",
+      "home_team": "Liaoning Tieren FC",
+      "away_team": "Henan FC",
+      "commence_time": "2026-08-23T11:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Liaoning Tieren FC",
+      "odds_at_alert": 28.0,
+      "stake_pct": 5.0,
+      "confidence": 19,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T12:58:29.226313+00:00"
+    },
+    {
+      "state_key": "2488bc03737e0a21cebf97d3b59a83fd:h2h",
+      "event_id": "2488bc03737e0a21cebf97d3b59a83fd",
+      "sport_key": "soccer",
+      "competition": "Super League - China",
+      "home_team": "Liaoning Tieren FC",
+      "away_team": "Henan FC",
+      "commence_time": "2026-08-23T11:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Liaoning Tieren FC",
+      "odds_at_alert": 32.0,
+      "stake_pct": 5.0,
+      "confidence": 36,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T12:58:29.563621+00:00"
+    },
+    {
+      "state_key": "2488bc03737e0a21cebf97d3b59a83fd:h2h",
+      "event_id": "2488bc03737e0a21cebf97d3b59a83fd",
+      "sport_key": "soccer",
+      "competition": "Super League - China",
+      "home_team": "Liaoning Tieren FC",
+      "away_team": "Henan FC",
+      "commence_time": "2026-08-23T11:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Liaoning Tieren FC",
+      "odds_at_alert": 170.0,
+      "stake_pct": 5.0,
+      "confidence": 623,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T12:58:29.880879+00:00"
+    },
+    {
+      "state_key": "2488bc03737e0a21cebf97d3b59a83fd:h2h",
+      "event_id": "2488bc03737e0a21cebf97d3b59a83fd",
+      "sport_key": "soccer",
+      "competition": "Super League - China",
+      "home_team": "Liaoning Tieren FC",
+      "away_team": "Henan FC",
+      "commence_time": "2026-08-23T11:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 8.5,
+      "stake_pct": 5.0,
+      "confidence": 65,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T12:58:30.234287+00:00"
+    },
+    {
+      "state_key": "2488bc03737e0a21cebf97d3b59a83fd:h2h",
+      "event_id": "2488bc03737e0a21cebf97d3b59a83fd",
+      "sport_key": "soccer",
+      "competition": "Super League - China",
+      "home_team": "Liaoning Tieren FC",
+      "away_team": "Henan FC",
+      "commence_time": "2026-08-23T11:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Henan FC",
+      "odds_at_alert": 5.6,
+      "stake_pct": 5.0,
+      "confidence": 327,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T12:58:30.547975+00:00"
+    },
+    {
+      "state_key": "2488bc03737e0a21cebf97d3b59a83fd:h2h",
+      "event_id": "2488bc03737e0a21cebf97d3b59a83fd",
+      "sport_key": "soccer",
+      "competition": "Super League - China",
+      "home_team": "Liaoning Tieren FC",
+      "away_team": "Henan FC",
+      "commence_time": "2026-08-23T11:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Henan FC",
+      "odds_at_alert": 5.2,
+      "stake_pct": 5.0,
+      "confidence": 297,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T12:58:30.999414+00:00"
+    },
+    {
+      "state_key": "2488bc03737e0a21cebf97d3b59a83fd:h2h",
+      "event_id": "2488bc03737e0a21cebf97d3b59a83fd",
+      "sport_key": "soccer",
+      "competition": "Super League - China",
+      "home_team": "Liaoning Tieren FC",
+      "away_team": "Henan FC",
+      "commence_time": "2026-08-23T11:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Henan FC",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 892,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T12:58:31.305934+00:00"
+    },
+    {
+      "state_key": "2488bc03737e0a21cebf97d3b59a83fd:h2h",
+      "event_id": "2488bc03737e0a21cebf97d3b59a83fd",
+      "sport_key": "soccer",
+      "competition": "Super League - China",
+      "home_team": "Liaoning Tieren FC",
+      "away_team": "Henan FC",
+      "commence_time": "2026-08-23T11:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Liaoning Tieren FC",
+      "odds_at_alert": 100.0,
+      "stake_pct": 5.0,
+      "confidence": 326,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T12:58:31.699917+00:00"
+    },
+    {
+      "state_key": "2488bc03737e0a21cebf97d3b59a83fd:h2h",
+      "event_id": "2488bc03737e0a21cebf97d3b59a83fd",
+      "sport_key": "soccer",
+      "competition": "Super League - China",
+      "home_team": "Liaoning Tieren FC",
+      "away_team": "Henan FC",
+      "commence_time": "2026-08-23T11:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 8.5,
+      "stake_pct": 5.0,
+      "confidence": 65,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T12:58:32.015913+00:00"
+    },
+    {
+      "state_key": "2488bc03737e0a21cebf97d3b59a83fd:h2h",
+      "event_id": "2488bc03737e0a21cebf97d3b59a83fd",
+      "sport_key": "soccer",
+      "competition": "Super League - China",
+      "home_team": "Liaoning Tieren FC",
+      "away_team": "Henan FC",
+      "commence_time": "2026-08-23T11:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Henan FC",
+      "odds_at_alert": 8.0,
+      "stake_pct": 5.0,
+      "confidence": 510,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T12:58:32.330469+00:00"
+    },
+    {
+      "state_key": "2488bc03737e0a21cebf97d3b59a83fd:h2h",
+      "event_id": "2488bc03737e0a21cebf97d3b59a83fd",
+      "sport_key": "soccer",
+      "competition": "Super League - China",
+      "home_team": "Liaoning Tieren FC",
+      "away_team": "Henan FC",
+      "commence_time": "2026-08-23T11:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Henan FC",
+      "odds_at_alert": 8.0,
+      "stake_pct": 5.0,
+      "confidence": 510,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T12:58:32.684046+00:00"
+    },
+    {
+      "state_key": "2488bc03737e0a21cebf97d3b59a83fd:h2h",
+      "event_id": "2488bc03737e0a21cebf97d3b59a83fd",
+      "sport_key": "soccer",
+      "competition": "Super League - China",
+      "home_team": "Liaoning Tieren FC",
+      "away_team": "Henan FC",
+      "commence_time": "2026-08-23T11:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Henan FC",
+      "odds_at_alert": 8.0,
+      "stake_pct": 5.0,
+      "confidence": 510,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T12:58:32.992609+00:00"
+    },
+    {
+      "state_key": "2488bc03737e0a21cebf97d3b59a83fd:h2h",
+      "event_id": "2488bc03737e0a21cebf97d3b59a83fd",
+      "sport_key": "soccer",
+      "competition": "Super League - China",
+      "home_team": "Liaoning Tieren FC",
+      "away_team": "Henan FC",
+      "commence_time": "2026-08-23T11:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Henan FC",
+      "odds_at_alert": 3.45,
+      "stake_pct": 5.0,
+      "confidence": 163,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T12:58:33.304975+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "c9c9af28f18102a573f7accbea612c77:h2h|Betfair|Draw",
-    "c9c9af28f18102a573f7accbea612c77:h2h|Unibet (NL)|ADO Den Haag"
+    "2488bc03737e0a21cebf97d3b59a83fd:h2h|888sport|Henan FC",
+    "2488bc03737e0a21cebf97d3b59a83fd:h2h|Betfair|Henan FC",
+    "2488bc03737e0a21cebf97d3b59a83fd:h2h|Coolbet|Liaoning Tieren FC",
+    "2488bc03737e0a21cebf97d3b59a83fd:h2h|LeoVegas (SE)|Henan FC",
+    "2488bc03737e0a21cebf97d3b59a83fd:h2h|Matchbook|Henan FC",
+    "2488bc03737e0a21cebf97d3b59a83fd:h2h|Nordic Bet|Liaoning Tieren FC",
+    "2488bc03737e0a21cebf97d3b59a83fd:h2h|Tipico|Draw",
+    "2488bc03737e0a21cebf97d3b59a83fd:h2h|Tipico|Liaoning Tieren FC",
+    "2488bc03737e0a21cebf97d3b59a83fd:h2h|Unibet (NL)|Henan FC",
+    "2488bc03737e0a21cebf97d3b59a83fd:h2h|Unibet (SE)|Henan FC",
+    "2488bc03737e0a21cebf97d3b59a83fd:h2h|Winamax (DE)|Henan FC",
+    "2488bc03737e0a21cebf97d3b59a83fd:h2h|Winamax (FR)|Draw",
+    "2488bc03737e0a21cebf97d3b59a83fd:h2h|Winamax (FR)|Liaoning Tieren FC"
   ]
 }
