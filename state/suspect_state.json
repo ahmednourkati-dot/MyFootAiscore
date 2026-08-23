@@ -1,134 +1,216 @@
 {
   "snapshots": {
-    "51e3ad789b0cbd70eaae085effe6a169:h2h": {
-      "Winamax (DE)": {
-        "Nacional": 1000.0,
-        "Vitória SC": 1.01,
-        "Draw": 24.0
-      },
-      "Winamax (FR)": {
-        "Nacional": 1000.0,
-        "Vitória SC": 1.02,
-        "Draw": 24.0
-      },
-      "Betsson": {
-        "Nacional": 126.0,
-        "Vitória SC": 1.0,
-        "Draw": 15.0
-      },
-      "Nordic Bet": {
-        "Nacional": 126.0,
-        "Vitória SC": 1.0,
-        "Draw": 15.0
-      },
-      "Betclic (FR)": {
-        "Nacional": 100.0,
-        "Vitória SC": 1.0,
-        "Draw": 25.0
-      },
-      "Coolbet": {
-        "Nacional": 150.0,
-        "Vitória SC": 1.02,
-        "Draw": 12.0
-      },
+    "6136982582bb9299f702eea2e30d03c3:h2h": {
+      "Betfair": {
+        "Cercle Brugge KSV": 1000.0,
+        "Club Brugge": 1.01,
+        "Draw": 50.0
+      }
+    },
+    "f2634db48eaf6526793cfc48047b540b:h2h": {
       "888sport": {
-        "Nacional": 151.0,
-        "Vitória SC": 1.02,
-        "Draw": 17.0
-      },
-      "Betfair": {
-        "Nacional": 6.0,
-        "Vitória SC": 1.01,
-        "Draw": 1.01
-      }
-    },
-    "c3d8ca7eccde2beeba0ba9b5f0a1cd97:h2h": {
-      "Nordic Bet": {
-        "Feyenoord": 1.0,
-        "SC Cambuur": 26.0,
-        "Draw": 26.0
-      },
-      "Betsson": {
-        "Feyenoord": 1.0,
-        "SC Cambuur": 26.0,
-        "Draw": 26.0
-      },
-      "Betclic (FR)": {
-        "Feyenoord": 1.0,
-        "SC Cambuur": 100.0,
-        "Draw": 100.0
-      }
-    },
-    "4290b7b558285b2ec3a5ed42feca310d:h2h": {
-      "Betclic (FR)": {
-        "Atlético Madrid": 2.75,
-        "Villarreal": 4.8,
-        "Draw": 1.94
-      },
-      "Coolbet": {
-        "Atlético Madrid": 2.88,
-        "Villarreal": 5.0,
-        "Draw": 2.0
-      },
-      "Winamax (FR)": {
-        "Atlético Madrid": 2.6,
-        "Villarreal": 4.5,
-        "Draw": 1.84
+        "Ascoli": 1.3,
+        "Hellas Verona": 15.0,
+        "Draw": 3.9
       },
       "Winamax (DE)": {
-        "Atlético Madrid": 2.75,
-        "Villarreal": 4.8,
-        "Draw": 1.94
+        "Ascoli": 1.29,
+        "Hellas Verona": 19.0,
+        "Draw": 3.8
       },
-      "Betfair": {
-        "Atlético Madrid": 3.0,
-        "Villarreal": 5.4,
-        "Draw": 2.06
-      },
-      "Tipico": {
-        "Atlético Madrid": 2.7,
-        "Villarreal": 5.2,
-        "Draw": 1.9
-      },
-      "Nordic Bet": {
-        "Atlético Madrid": 2.78,
-        "Villarreal": 4.85,
-        "Draw": 1.92
-      },
-      "Betsson": {
-        "Atlético Madrid": 2.75,
-        "Villarreal": 4.85,
-        "Draw": 1.92
-      },
-      "Pinnacle": {
-        "Atlético Madrid": 2.24,
-        "Villarreal": 4.67,
-        "Draw": 2.55
+      "Winamax (FR)": {
+        "Ascoli": 1.27,
+        "Hellas Verona": 22.0,
+        "Draw": 3.85
       },
       "Unibet (NL)": {
-        "Atlético Madrid": 2.95,
-        "Villarreal": 5.75,
-        "Draw": 1.79
-      },
-      "Unibet (SE)": {
-        "Atlético Madrid": 3.05,
-        "Villarreal": 6.0,
-        "Draw": 1.73
+        "Ascoli": 1.33,
+        "Hellas Verona": 15.0,
+        "Draw": 3.5
       },
       "PMU (FR)": {
-        "Atlético Madrid": 2.8,
-        "Villarreal": 5.4,
-        "Draw": 1.71
+        "Ascoli": 1.21,
+        "Hellas Verona": 15.0,
+        "Draw": 3.2
+      },
+      "Coolbet": {
+        "Ascoli": 1.29,
+        "Hellas Verona": 22.0,
+        "Draw": 4.0
+      },
+      "Unibet (SE)": {
+        "Ascoli": 1.33,
+        "Hellas Verona": 15.0,
+        "Draw": 3.5
+      },
+      "Betclic (FR)": {
+        "Ascoli": 1.28,
+        "Hellas Verona": 17.0,
+        "Draw": 3.6
       },
       "LeoVegas (SE)": {
-        "Atlético Madrid": 2.85,
-        "Villarreal": 5.5,
-        "Draw": 1.75
+        "Ascoli": 1.25,
+        "Hellas Verona": 15.0,
+        "Draw": 3.3
+      },
+      "Pinnacle": {
+        "Ascoli": 1.45,
+        "Hellas Verona": 10.74,
+        "Draw": 3.52
+      },
+      "Tipico": {
+        "Ascoli": 1.27,
+        "Hellas Verona": 22.0,
+        "Draw": 3.8
+      },
+      "Betsson": {
+        "Ascoli": 1.28,
+        "Hellas Verona": 19.5,
+        "Draw": 3.9
+      },
+      "Nordic Bet": {
+        "Ascoli": 1.28,
+        "Hellas Verona": 19.5,
+        "Draw": 3.9
+      },
+      "Betfair": {
+        "Ascoli": 1.41,
+        "Hellas Verona": 22.0,
+        "Draw": 3.95
       },
       "Matchbook": {
-        "Atlético Madrid": 3.05,
-        "Villarreal": 5.5,
-        "Draw": 2.04
+        "Ascoli": 1.32,
+        "Hellas Verona": 28.0,
+        "Draw": 4.5
+      }
+    },
+    "eea1b11233961a38172522dc11b0523d:h2h": {
+      "Winamax (FR)": {
+        "Burgos CF": 95.0,
+        "Sporting Gijón": 1.08,
+        "Draw": 8.5
+      },
+      "Nordic Bet": {
+        "Burgos CF": 65.0,
+        "Sporting Gijón": 1.05,
+        "Draw": 8.2
+      },
+      "Winamax (DE)": {
+        "Burgos CF": 85.0,
+        "Sporting Gijón": 1.05,
+        "Draw": 8.5
+      },
+      "Betsson": {
+        "Burgos CF": 65.0,
+        "Sporting Gijón": 1.05,
+        "Draw": 7.7
+      },
+      "Betclic (FR)": {
+        "Burgos CF": 45.0,
+        "Sporting Gijón": 1.06,
+        "Draw": 7.0
+      },
+      "Tipico": {
+        "Burgos CF": 120.0,
+        "Sporting Gijón": 1.02,
+        "Draw": 9.0
+      },
+      "Betfair": {
+        "Burgos CF": 150.0,
+        "Sporting Gijón": 1.1,
+        "Draw": 9.8
+      },
+      "Unibet (SE)": {
+        "Burgos CF": 101.0,
+        "Sporting Gijón": 1.05,
+        "Draw": 9.5
+      },
+      "LeoVegas (SE)": {
+        "Burgos CF": 67.0,
+        "Sporting Gijón": 1.01,
+        "Draw": 9.5
+      },
+      "Unibet (NL)": {
+        "Burgos CF": 67.0,
+        "Sporting Gijón": 1.01,
+        "Draw": 9.5
+      },
+      "Coolbet": {
+        "Burgos CF": 66.0,
+        "Sporting Gijón": 1.06,
+        "Draw": 8.5
+      }
+    },
+    "da84b4df84cc8788f1a9fb0bc0272441:h2h": {
+      "Betsson": {
+        "CD Castellón": 3.5,
+        "Sabadell FC": 5.8,
+        "Draw": 1.52
+      },
+      "Winamax (FR)": {
+        "CD Castellón": 4.2,
+        "Sabadell FC": 7.5,
+        "Draw": 1.34
+      },
+      "Nordic Bet": {
+        "CD Castellón": 3.65,
+        "Sabadell FC": 5.8,
+        "Draw": 1.49
+      },
+      "Winamax (DE)": {
+        "CD Castellón": 4.0,
+        "Sabadell FC": 8.0,
+        "Draw": 1.37
+      },
+      "Betclic (FR)": {
+        "CD Castellón": 3.8,
+        "Sabadell FC": 7.0,
+        "Draw": 1.4
+      },
+      "Tipico": {
+        "CD Castellón": 4.3,
+        "Sabadell FC": 8.5,
+        "Draw": 1.35
+      },
+      "Betfair": {
+        "CD Castellón": 4.5,
+        "Sabadell FC": 9.0,
+        "Draw": 1.48
+      },
+      "Pinnacle": {
+        "CD Castellón": 3.8,
+        "Sabadell FC": 5.94,
+        "Draw": 1.6
+      },
+      "LeoVegas (SE)": {
+        "CD Castellón": 4.5,
+        "Sabadell FC": 7.5,
+        "Draw": 1.24
+      },
+      "Unibet (NL)": {
+        "CD Castellón": 4.75,
+        "Sabadell FC": 7.5,
+        "Draw": 1.32
+      },
+      "Unibet (SE)": {
+        "CD Castellón": 4.75,
+        "Sabadell FC": 7.5,
+        "Draw": 1.32
+      },
+      "PMU (FR)": {
+        "CD Castellón": 4.35,
+        "Sabadell FC": 7.0,
+        "Draw": 1.2
+      },
+      "Coolbet": {
+        "CD Castellón": 4.5,
+        "Sabadell FC": 9.0,
+        "Draw": 1.36
+      },
+      "Matchbook": {
+        "CD Castellón": 4.6,
+        "Sabadell FC": 11.0,
+        "Draw": 1.41
       }
     }
   },
@@ -11125,29 +11207,621 @@
       "confidence": 12,
       "alert_type": "value",
       "alerted_at": "2026-08-23T16:38:12.811279+00:00"
+    },
+    {
+      "state_key": "f2634db48eaf6526793cfc48047b540b:h2h",
+      "event_id": "f2634db48eaf6526793cfc48047b540b",
+      "sport_key": "soccer",
+      "competition": "Serie B - Italy",
+      "home_team": "Hellas Verona",
+      "away_team": "Ascoli",
+      "commence_time": "2026-08-23T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Hellas Verona",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 31,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T18:44:57.989802+00:00"
+    },
+    {
+      "state_key": "f2634db48eaf6526793cfc48047b540b:h2h",
+      "event_id": "f2634db48eaf6526793cfc48047b540b",
+      "sport_key": "soccer",
+      "competition": "Serie B - Italy",
+      "home_team": "Hellas Verona",
+      "away_team": "Ascoli",
+      "commence_time": "2026-08-23T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Hellas Verona",
+      "odds_at_alert": 19.0,
+      "stake_pct": 5.0,
+      "confidence": 66,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T18:44:58.475612+00:00"
+    },
+    {
+      "state_key": "f2634db48eaf6526793cfc48047b540b:h2h",
+      "event_id": "f2634db48eaf6526793cfc48047b540b",
+      "sport_key": "soccer",
+      "competition": "Serie B - Italy",
+      "home_team": "Hellas Verona",
+      "away_team": "Ascoli",
+      "commence_time": "2026-08-23T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Hellas Verona",
+      "odds_at_alert": 22.0,
+      "stake_pct": 5.0,
+      "confidence": 92,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T18:44:58.974623+00:00"
+    },
+    {
+      "state_key": "f2634db48eaf6526793cfc48047b540b:h2h",
+      "event_id": "f2634db48eaf6526793cfc48047b540b",
+      "sport_key": "soccer",
+      "competition": "Serie B - Italy",
+      "home_team": "Hellas Verona",
+      "away_team": "Ascoli",
+      "commence_time": "2026-08-23T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Hellas Verona",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 31,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T18:44:59.517329+00:00"
+    },
+    {
+      "state_key": "f2634db48eaf6526793cfc48047b540b:h2h",
+      "event_id": "f2634db48eaf6526793cfc48047b540b",
+      "sport_key": "soccer",
+      "competition": "Serie B - Italy",
+      "home_team": "Hellas Verona",
+      "away_team": "Ascoli",
+      "commence_time": "2026-08-23T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Hellas Verona",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 31,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T18:45:00.030407+00:00"
+    },
+    {
+      "state_key": "f2634db48eaf6526793cfc48047b540b:h2h",
+      "event_id": "f2634db48eaf6526793cfc48047b540b",
+      "sport_key": "soccer",
+      "competition": "Serie B - Italy",
+      "home_team": "Hellas Verona",
+      "away_team": "Ascoli",
+      "commence_time": "2026-08-23T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Hellas Verona",
+      "odds_at_alert": 22.0,
+      "stake_pct": 5.0,
+      "confidence": 92,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T18:45:00.522126+00:00"
+    },
+    {
+      "state_key": "f2634db48eaf6526793cfc48047b540b:h2h",
+      "event_id": "f2634db48eaf6526793cfc48047b540b",
+      "sport_key": "soccer",
+      "competition": "Serie B - Italy",
+      "home_team": "Hellas Verona",
+      "away_team": "Ascoli",
+      "commence_time": "2026-08-23T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.0,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T18:45:01.052531+00:00"
+    },
+    {
+      "state_key": "f2634db48eaf6526793cfc48047b540b:h2h",
+      "event_id": "f2634db48eaf6526793cfc48047b540b",
+      "sport_key": "soccer",
+      "competition": "Serie B - Italy",
+      "home_team": "Hellas Verona",
+      "away_team": "Ascoli",
+      "commence_time": "2026-08-23T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Hellas Verona",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 31,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T18:45:01.567518+00:00"
+    },
+    {
+      "state_key": "f2634db48eaf6526793cfc48047b540b:h2h",
+      "event_id": "f2634db48eaf6526793cfc48047b540b",
+      "sport_key": "soccer",
+      "competition": "Serie B - Italy",
+      "home_team": "Hellas Verona",
+      "away_team": "Ascoli",
+      "commence_time": "2026-08-23T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Hellas Verona",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 48,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T18:45:02.064440+00:00"
+    },
+    {
+      "state_key": "f2634db48eaf6526793cfc48047b540b:h2h",
+      "event_id": "f2634db48eaf6526793cfc48047b540b",
+      "sport_key": "soccer",
+      "competition": "Serie B - Italy",
+      "home_team": "Hellas Verona",
+      "away_team": "Ascoli",
+      "commence_time": "2026-08-23T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Hellas Verona",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 31,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T18:45:02.573717+00:00"
+    },
+    {
+      "state_key": "f2634db48eaf6526793cfc48047b540b:h2h",
+      "event_id": "f2634db48eaf6526793cfc48047b540b",
+      "sport_key": "soccer",
+      "competition": "Serie B - Italy",
+      "home_team": "Hellas Verona",
+      "away_team": "Ascoli",
+      "commence_time": "2026-08-23T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Hellas Verona",
+      "odds_at_alert": 22.0,
+      "stake_pct": 5.0,
+      "confidence": 92,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T18:45:03.076686+00:00"
+    },
+    {
+      "state_key": "f2634db48eaf6526793cfc48047b540b:h2h",
+      "event_id": "f2634db48eaf6526793cfc48047b540b",
+      "sport_key": "soccer",
+      "competition": "Serie B - Italy",
+      "home_team": "Hellas Verona",
+      "away_team": "Ascoli",
+      "commence_time": "2026-08-23T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Hellas Verona",
+      "odds_at_alert": 19.5,
+      "stake_pct": 5.0,
+      "confidence": 70,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T18:45:03.570403+00:00"
+    },
+    {
+      "state_key": "f2634db48eaf6526793cfc48047b540b:h2h",
+      "event_id": "f2634db48eaf6526793cfc48047b540b",
+      "sport_key": "soccer",
+      "competition": "Serie B - Italy",
+      "home_team": "Hellas Verona",
+      "away_team": "Ascoli",
+      "commence_time": "2026-08-23T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Hellas Verona",
+      "odds_at_alert": 19.5,
+      "stake_pct": 5.0,
+      "confidence": 70,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T18:45:04.091512+00:00"
+    },
+    {
+      "state_key": "f2634db48eaf6526793cfc48047b540b:h2h",
+      "event_id": "f2634db48eaf6526793cfc48047b540b",
+      "sport_key": "soccer",
+      "competition": "Serie B - Italy",
+      "home_team": "Hellas Verona",
+      "away_team": "Ascoli",
+      "commence_time": "2026-08-23T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Hellas Verona",
+      "odds_at_alert": 22.0,
+      "stake_pct": 5.0,
+      "confidence": 92,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T18:45:04.621521+00:00"
+    },
+    {
+      "state_key": "f2634db48eaf6526793cfc48047b540b:h2h",
+      "event_id": "f2634db48eaf6526793cfc48047b540b",
+      "sport_key": "soccer",
+      "competition": "Serie B - Italy",
+      "home_team": "Hellas Verona",
+      "away_team": "Ascoli",
+      "commence_time": "2026-08-23T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.95,
+      "stake_pct": 2.0,
+      "confidence": 5,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T18:45:05.145760+00:00"
+    },
+    {
+      "state_key": "f2634db48eaf6526793cfc48047b540b:h2h",
+      "event_id": "f2634db48eaf6526793cfc48047b540b",
+      "sport_key": "soccer",
+      "competition": "Serie B - Italy",
+      "home_team": "Hellas Verona",
+      "away_team": "Ascoli",
+      "commence_time": "2026-08-23T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Hellas Verona",
+      "odds_at_alert": 28.0,
+      "stake_pct": 5.0,
+      "confidence": 144,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T18:45:05.720216+00:00"
+    },
+    {
+      "state_key": "f2634db48eaf6526793cfc48047b540b:h2h",
+      "event_id": "f2634db48eaf6526793cfc48047b540b",
+      "sport_key": "soccer",
+      "competition": "Serie B - Italy",
+      "home_team": "Hellas Verona",
+      "away_team": "Ascoli",
+      "commence_time": "2026-08-23T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.5,
+      "stake_pct": 5.0,
+      "confidence": 20,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T18:45:06.253879+00:00"
+    },
+    {
+      "state_key": "da84b4df84cc8788f1a9fb0bc0272441:h2h",
+      "event_id": "da84b4df84cc8788f1a9fb0bc0272441",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "CD Castellón",
+      "away_team": "Sabadell FC",
+      "commence_time": "2026-08-23T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sabadell FC",
+      "odds_at_alert": 7.5,
+      "stake_pct": 5.0,
+      "confidence": 20,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T18:45:06.813399+00:00"
+    },
+    {
+      "state_key": "da84b4df84cc8788f1a9fb0bc0272441:h2h",
+      "event_id": "da84b4df84cc8788f1a9fb0bc0272441",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "CD Castellón",
+      "away_team": "Sabadell FC",
+      "commence_time": "2026-08-23T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sabadell FC",
+      "odds_at_alert": 8.0,
+      "stake_pct": 5.0,
+      "confidence": 27,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T18:45:07.350723+00:00"
+    },
+    {
+      "state_key": "da84b4df84cc8788f1a9fb0bc0272441:h2h",
+      "event_id": "da84b4df84cc8788f1a9fb0bc0272441",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "CD Castellón",
+      "away_team": "Sabadell FC",
+      "commence_time": "2026-08-23T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sabadell FC",
+      "odds_at_alert": 7.0,
+      "stake_pct": 3.0,
+      "confidence": 12,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T18:45:07.880124+00:00"
+    },
+    {
+      "state_key": "da84b4df84cc8788f1a9fb0bc0272441:h2h",
+      "event_id": "da84b4df84cc8788f1a9fb0bc0272441",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "CD Castellón",
+      "away_team": "Sabadell FC",
+      "commence_time": "2026-08-23T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "CD Castellón",
+      "odds_at_alert": 4.3,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T18:45:08.431733+00:00"
+    },
+    {
+      "state_key": "da84b4df84cc8788f1a9fb0bc0272441:h2h",
+      "event_id": "da84b4df84cc8788f1a9fb0bc0272441",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "CD Castellón",
+      "away_team": "Sabadell FC",
+      "commence_time": "2026-08-23T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sabadell FC",
+      "odds_at_alert": 8.5,
+      "stake_pct": 5.0,
+      "confidence": 35,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T18:45:09.039803+00:00"
+    },
+    {
+      "state_key": "da84b4df84cc8788f1a9fb0bc0272441:h2h",
+      "event_id": "da84b4df84cc8788f1a9fb0bc0272441",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "CD Castellón",
+      "away_team": "Sabadell FC",
+      "commence_time": "2026-08-23T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "CD Castellón",
+      "odds_at_alert": 4.5,
+      "stake_pct": 3.0,
+      "confidence": 12,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T18:45:09.532831+00:00"
+    },
+    {
+      "state_key": "da84b4df84cc8788f1a9fb0bc0272441:h2h",
+      "event_id": "da84b4df84cc8788f1a9fb0bc0272441",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "CD Castellón",
+      "away_team": "Sabadell FC",
+      "commence_time": "2026-08-23T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sabadell FC",
+      "odds_at_alert": 9.0,
+      "stake_pct": 5.0,
+      "confidence": 43,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T18:45:10.047550+00:00"
+    },
+    {
+      "state_key": "da84b4df84cc8788f1a9fb0bc0272441:h2h",
+      "event_id": "da84b4df84cc8788f1a9fb0bc0272441",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "CD Castellón",
+      "away_team": "Sabadell FC",
+      "commence_time": "2026-08-23T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "CD Castellón",
+      "odds_at_alert": 4.5,
+      "stake_pct": 3.0,
+      "confidence": 12,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T18:45:10.607522+00:00"
+    },
+    {
+      "state_key": "da84b4df84cc8788f1a9fb0bc0272441:h2h",
+      "event_id": "da84b4df84cc8788f1a9fb0bc0272441",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "CD Castellón",
+      "away_team": "Sabadell FC",
+      "commence_time": "2026-08-23T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sabadell FC",
+      "odds_at_alert": 7.5,
+      "stake_pct": 5.0,
+      "confidence": 20,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T18:45:11.110201+00:00"
+    },
+    {
+      "state_key": "da84b4df84cc8788f1a9fb0bc0272441:h2h",
+      "event_id": "da84b4df84cc8788f1a9fb0bc0272441",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "CD Castellón",
+      "away_team": "Sabadell FC",
+      "commence_time": "2026-08-23T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "CD Castellón",
+      "odds_at_alert": 4.75,
+      "stake_pct": 5.0,
+      "confidence": 18,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T18:45:11.605814+00:00"
+    },
+    {
+      "state_key": "da84b4df84cc8788f1a9fb0bc0272441:h2h",
+      "event_id": "da84b4df84cc8788f1a9fb0bc0272441",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "CD Castellón",
+      "away_team": "Sabadell FC",
+      "commence_time": "2026-08-23T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sabadell FC",
+      "odds_at_alert": 7.5,
+      "stake_pct": 5.0,
+      "confidence": 20,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T18:45:12.130047+00:00"
+    },
+    {
+      "state_key": "da84b4df84cc8788f1a9fb0bc0272441:h2h",
+      "event_id": "da84b4df84cc8788f1a9fb0bc0272441",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "CD Castellón",
+      "away_team": "Sabadell FC",
+      "commence_time": "2026-08-23T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "CD Castellón",
+      "odds_at_alert": 4.75,
+      "stake_pct": 5.0,
+      "confidence": 18,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T18:45:12.642726+00:00"
+    },
+    {
+      "state_key": "da84b4df84cc8788f1a9fb0bc0272441:h2h",
+      "event_id": "da84b4df84cc8788f1a9fb0bc0272441",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "CD Castellón",
+      "away_team": "Sabadell FC",
+      "commence_time": "2026-08-23T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sabadell FC",
+      "odds_at_alert": 7.5,
+      "stake_pct": 5.0,
+      "confidence": 20,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T18:45:13.175049+00:00"
+    },
+    {
+      "state_key": "da84b4df84cc8788f1a9fb0bc0272441:h2h",
+      "event_id": "da84b4df84cc8788f1a9fb0bc0272441",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "CD Castellón",
+      "away_team": "Sabadell FC",
+      "commence_time": "2026-08-23T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "CD Castellón",
+      "odds_at_alert": 4.35,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T18:45:13.671309+00:00"
+    },
+    {
+      "state_key": "da84b4df84cc8788f1a9fb0bc0272441:h2h",
+      "event_id": "da84b4df84cc8788f1a9fb0bc0272441",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "CD Castellón",
+      "away_team": "Sabadell FC",
+      "commence_time": "2026-08-23T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sabadell FC",
+      "odds_at_alert": 7.0,
+      "stake_pct": 3.0,
+      "confidence": 12,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T18:45:14.170109+00:00"
+    },
+    {
+      "state_key": "da84b4df84cc8788f1a9fb0bc0272441:h2h",
+      "event_id": "da84b4df84cc8788f1a9fb0bc0272441",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "CD Castellón",
+      "away_team": "Sabadell FC",
+      "commence_time": "2026-08-23T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "CD Castellón",
+      "odds_at_alert": 4.5,
+      "stake_pct": 3.0,
+      "confidence": 12,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T18:45:14.682982+00:00"
+    },
+    {
+      "state_key": "da84b4df84cc8788f1a9fb0bc0272441:h2h",
+      "event_id": "da84b4df84cc8788f1a9fb0bc0272441",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "CD Castellón",
+      "away_team": "Sabadell FC",
+      "commence_time": "2026-08-23T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sabadell FC",
+      "odds_at_alert": 9.0,
+      "stake_pct": 5.0,
+      "confidence": 43,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T18:45:15.210313+00:00"
+    },
+    {
+      "state_key": "da84b4df84cc8788f1a9fb0bc0272441:h2h",
+      "event_id": "da84b4df84cc8788f1a9fb0bc0272441",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "CD Castellón",
+      "away_team": "Sabadell FC",
+      "commence_time": "2026-08-23T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "CD Castellón",
+      "odds_at_alert": 4.6,
+      "stake_pct": 3.0,
+      "confidence": 15,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T18:45:15.719091+00:00"
+    },
+    {
+      "state_key": "da84b4df84cc8788f1a9fb0bc0272441:h2h",
+      "event_id": "da84b4df84cc8788f1a9fb0bc0272441",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "CD Castellón",
+      "away_team": "Sabadell FC",
+      "commence_time": "2026-08-23T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sabadell FC",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 75,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T18:45:16.221863+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "4290b7b558285b2ec3a5ed42feca310d:h2h|Betclic (FR)|Atlético Madrid",
-    "4290b7b558285b2ec3a5ed42feca310d:h2h|Betfair|Atlético Madrid",
-    "4290b7b558285b2ec3a5ed42feca310d:h2h|Betfair|Villarreal",
-    "4290b7b558285b2ec3a5ed42feca310d:h2h|Betsson|Atlético Madrid",
-    "4290b7b558285b2ec3a5ed42feca310d:h2h|Coolbet|Atlético Madrid",
-    "4290b7b558285b2ec3a5ed42feca310d:h2h|LeoVegas (SE)|Atlético Madrid",
-    "4290b7b558285b2ec3a5ed42feca310d:h2h|LeoVegas (SE)|Villarreal",
-    "4290b7b558285b2ec3a5ed42feca310d:h2h|Matchbook|Atlético Madrid",
-    "4290b7b558285b2ec3a5ed42feca310d:h2h|Matchbook|Villarreal",
-    "4290b7b558285b2ec3a5ed42feca310d:h2h|Nordic Bet|Atlético Madrid",
-    "4290b7b558285b2ec3a5ed42feca310d:h2h|PMU (FR)|Atlético Madrid",
-    "4290b7b558285b2ec3a5ed42feca310d:h2h|PMU (FR)|Villarreal",
-    "4290b7b558285b2ec3a5ed42feca310d:h2h|Tipico|Atlético Madrid",
-    "4290b7b558285b2ec3a5ed42feca310d:h2h|Tipico|Villarreal",
-    "4290b7b558285b2ec3a5ed42feca310d:h2h|Unibet (NL)|Atlético Madrid",
-    "4290b7b558285b2ec3a5ed42feca310d:h2h|Unibet (NL)|Villarreal",
-    "4290b7b558285b2ec3a5ed42feca310d:h2h|Unibet (SE)|Atlético Madrid",
-    "4290b7b558285b2ec3a5ed42feca310d:h2h|Unibet (SE)|Villarreal",
-    "4290b7b558285b2ec3a5ed42feca310d:h2h|Winamax (DE)|Atlético Madrid",
-    "4290b7b558285b2ec3a5ed42feca310d:h2h|Winamax (FR)|Atlético Madrid"
+    "da84b4df84cc8788f1a9fb0bc0272441:h2h|Betclic (FR)|Sabadell FC",
+    "da84b4df84cc8788f1a9fb0bc0272441:h2h|Betfair|CD Castellón",
+    "da84b4df84cc8788f1a9fb0bc0272441:h2h|Betfair|Sabadell FC",
+    "da84b4df84cc8788f1a9fb0bc0272441:h2h|Coolbet|CD Castellón",
+    "da84b4df84cc8788f1a9fb0bc0272441:h2h|Coolbet|Sabadell FC",
+    "da84b4df84cc8788f1a9fb0bc0272441:h2h|LeoVegas (SE)|CD Castellón",
+    "da84b4df84cc8788f1a9fb0bc0272441:h2h|LeoVegas (SE)|Sabadell FC",
+    "da84b4df84cc8788f1a9fb0bc0272441:h2h|Matchbook|CD Castellón",
+    "da84b4df84cc8788f1a9fb0bc0272441:h2h|Matchbook|Sabadell FC",
+    "da84b4df84cc8788f1a9fb0bc0272441:h2h|PMU (FR)|CD Castellón",
+    "da84b4df84cc8788f1a9fb0bc0272441:h2h|PMU (FR)|Sabadell FC",
+    "da84b4df84cc8788f1a9fb0bc0272441:h2h|Tipico|CD Castellón",
+    "da84b4df84cc8788f1a9fb0bc0272441:h2h|Tipico|Sabadell FC",
+    "da84b4df84cc8788f1a9fb0bc0272441:h2h|Unibet (NL)|CD Castellón",
+    "da84b4df84cc8788f1a9fb0bc0272441:h2h|Unibet (NL)|Sabadell FC",
+    "da84b4df84cc8788f1a9fb0bc0272441:h2h|Unibet (SE)|CD Castellón",
+    "da84b4df84cc8788f1a9fb0bc0272441:h2h|Unibet (SE)|Sabadell FC",
+    "da84b4df84cc8788f1a9fb0bc0272441:h2h|Winamax (DE)|Sabadell FC",
+    "da84b4df84cc8788f1a9fb0bc0272441:h2h|Winamax (FR)|Sabadell FC",
+    "f2634db48eaf6526793cfc48047b540b:h2h|888sport|Hellas Verona",
+    "f2634db48eaf6526793cfc48047b540b:h2h|Betclic (FR)|Hellas Verona",
+    "f2634db48eaf6526793cfc48047b540b:h2h|Betfair|Draw",
+    "f2634db48eaf6526793cfc48047b540b:h2h|Betfair|Hellas Verona",
+    "f2634db48eaf6526793cfc48047b540b:h2h|Betsson|Hellas Verona",
+    "f2634db48eaf6526793cfc48047b540b:h2h|Coolbet|Draw",
+    "f2634db48eaf6526793cfc48047b540b:h2h|Coolbet|Hellas Verona",
+    "f2634db48eaf6526793cfc48047b540b:h2h|LeoVegas (SE)|Hellas Verona",
+    "f2634db48eaf6526793cfc48047b540b:h2h|Matchbook|Draw",
+    "f2634db48eaf6526793cfc48047b540b:h2h|Matchbook|Hellas Verona",
+    "f2634db48eaf6526793cfc48047b540b:h2h|Nordic Bet|Hellas Verona",
+    "f2634db48eaf6526793cfc48047b540b:h2h|PMU (FR)|Hellas Verona",
+    "f2634db48eaf6526793cfc48047b540b:h2h|Tipico|Hellas Verona",
+    "f2634db48eaf6526793cfc48047b540b:h2h|Unibet (NL)|Hellas Verona",
+    "f2634db48eaf6526793cfc48047b540b:h2h|Unibet (SE)|Hellas Verona",
+    "f2634db48eaf6526793cfc48047b540b:h2h|Winamax (DE)|Hellas Verona",
+    "f2634db48eaf6526793cfc48047b540b:h2h|Winamax (FR)|Hellas Verona"
   ]
 }
