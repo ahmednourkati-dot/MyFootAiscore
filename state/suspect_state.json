@@ -1,161 +1,271 @@
 {
   "snapshots": {
-    "6b3b41cc7aa2f7ce5b45065e9cf2a78f:h2h": {
-      "Coolbet": {
-        "Alanyaspor": 1.04,
-        "Besiktas JK": 1000.0,
-        "Draw": 13.0
+    "5c3310ddac30d3e22332be25958e7672:h2h": {
+      "PMU (FR)": {
+        "New England Revolution": 8.0,
+        "New York City FC": 8.0,
+        "Draw": 1.1
       },
-      "Nordic Bet": {
-        "Alanyaspor": 1.12,
-        "Besiktas JK": 65.0,
-        "Draw": 6.3
+      "LeoVegas (SE)": {
+        "New England Revolution": 17.0,
+        "New York City FC": 18.0,
+        "Draw": 1.01
       },
-      "Winamax (FR)": {
-        "Alanyaspor": 1.05,
-        "Besiktas JK": 1000.0,
-        "Draw": 12.0
+      "Unibet (NL)": {
+        "New England Revolution": 9.0,
+        "New York City FC": 9.0,
+        "Draw": 1.17
       },
-      "Betsson": {
-        "Alanyaspor": 1.12,
-        "Besiktas JK": 65.0,
-        "Draw": 6.3
-      },
-      "Winamax (DE)": {
-        "Alanyaspor": 1.03,
-        "Besiktas JK": 1000.0,
-        "Draw": 13.0
+      "Unibet (SE)": {
+        "New England Revolution": 26.0,
+        "New York City FC": 25.0,
+        "Draw": 1.02
       },
       "Betclic (FR)": {
-        "Alanyaspor": 1.0,
-        "Besiktas JK": 55.0,
-        "Draw": 8.0
+        "New England Revolution": 6.6,
+        "New York City FC": 10.25,
+        "Draw": 1.16
       },
-      "Pinnacle": {
-        "Alanyaspor": 1.26,
-        "Besiktas JK": 21.93,
-        "Draw": 4.76
+      "Winamax (FR)": {
+        "New England Revolution": 7.25,
+        "New York City FC": 10.0,
+        "Draw": 1.17
       },
-      "888sport": {
-        "Alanyaspor": 1.06,
-        "Besiktas JK": 91.0,
-        "Draw": 9.5
+      "Winamax (DE)": {
+        "New England Revolution": 7.5,
+        "New York City FC": 11.0,
+        "Draw": 1.15
       },
-      "Tipico": {
-        "Alanyaspor": 1.02,
-        "Besiktas JK": 400.0,
-        "Draw": 15.0
+      "MyBookie.ag": {
+        "New England Revolution": 4.45,
+        "New York City FC": 6.0,
+        "Draw": 1.3
+      },
+      "Coolbet": {
+        "New England Revolution": 20.0,
+        "New York City FC": 25.0,
+        "Draw": 1.02
       },
       "Betfair": {
-        "Alanyaspor": 1.02,
-        "Besiktas JK": 1000.0,
-        "Draw": 34.0
+        "New England Revolution": 38.0,
+        "New York City FC": 38.0,
+        "Draw": 1.02
+      },
+      "Pinnacle": {
+        "New England Revolution": 4.49,
+        "New York City FC": 5.91,
+        "Draw": 1.5
+      },
+      "Betsson": {
+        "New England Revolution": 17.0,
+        "New York City FC": 23.0,
+        "Draw": 1.03
+      },
+      "Nordic Bet": {
+        "New England Revolution": 19.0,
+        "New York City FC": 23.0,
+        "Draw": 1.02
+      },
+      "Tipico": {
+        "New England Revolution": 7.5,
+        "New York City FC": 11.0,
+        "Draw": 1.15
+      }
+    },
+    "70e3a6dbf27d7c15f662a9a8ea060247:h2h": {
+      "Unibet (SE)": {
+        "Operario PR": 4.0,
+        "Vila Nova": 5.1,
+        "Draw": 1.57
+      },
+      "Unibet (NL)": {
+        "Operario PR": 3.8,
+        "Vila Nova": 4.8,
+        "Draw": 1.5
+      },
+      "LeoVegas (SE)": {
+        "Operario PR": 3.75,
+        "Vila Nova": 4.75,
+        "Draw": 1.5
+      },
+      "Coolbet": {
+        "Operario PR": 4.0,
+        "Vila Nova": 5.5,
+        "Draw": 1.53
+      },
+      "Betsson": {
+        "Operario PR": 4.1,
+        "Vila Nova": 4.85,
+        "Draw": 1.52
+      },
+      "Nordic Bet": {
+        "Operario PR": 4.1,
+        "Vila Nova": 4.85,
+        "Draw": 1.52
+      },
+      "Pinnacle": {
+        "Operario PR": 4.17,
+        "Vila Nova": 4.99,
+        "Draw": 1.6
+      },
+      "888sport": {
+        "Operario PR": 4.2,
+        "Vila Nova": 5.0,
+        "Draw": 1.5
+      },
+      "Tipico": {
+        "Operario PR": 3.8,
+        "Vila Nova": 5.2,
+        "Draw": 1.55
+      },
+      "Matchbook": {
+        "Operario PR": 4.7,
+        "Vila Nova": 5.4,
+        "Draw": 1.6
+      },
+      "Betfair": {
+        "Operario PR": 4.7,
+        "Vila Nova": 5.5,
+        "Draw": 1.62
+      }
+    },
+    "78ca56174779e66665543752d1db98b4:h2h": {
+      "Coolbet": {
+        "Chapecoense": 1.85,
+        "Sao Paulo": 4.5,
+        "Draw": 3.14
+      },
+      "Winamax (FR)": {
+        "Chapecoense": 1.78,
+        "Sao Paulo": 4.2,
+        "Draw": 2.9
+      },
+      "Winamax (DE)": {
+        "Chapecoense": 1.84,
+        "Sao Paulo": 4.4,
+        "Draw": 3.0
+      },
+      "888sport": {
+        "Chapecoense": 1.85,
+        "Sao Paulo": 4.0,
+        "Draw": 3.1
+      },
+      "Betsson": {
+        "Chapecoense": 1.82,
+        "Sao Paulo": 4.4,
+        "Draw": 3.05
+      },
+      "Nordic Bet": {
+        "Chapecoense": 1.82,
+        "Sao Paulo": 4.4,
+        "Draw": 3.05
+      },
+      "Betclic (FR)": {
+        "Chapecoense": 1.82,
+        "Sao Paulo": 4.2,
+        "Draw": 3.05
+      },
+      "Unibet (NL)": {
+        "Chapecoense": 1.77,
+        "Sao Paulo": 4.6,
+        "Draw": 2.9
       },
       "PMU (FR)": {
-        "Alanyaspor": 1.01,
-        "Besiktas JK": 61.0,
-        "Draw": 7.5
-      }
-    },
-    "e051fbf30beef59f4596d8ff50caf55d:h2h": {
-      "Betclic (FR)": {
-        "Asteras Tripolis": 100.0,
-        "Panetolikos Agrinio": 1.0,
-        "Draw": 40.0
+        "Chapecoense": 1.71,
+        "Sao Paulo": 4.4,
+        "Draw": 2.8
       },
-      "Nordic Bet": {
-        "Asteras Tripolis": 301.0,
-        "Panetolikos Agrinio": 1.0,
-        "Draw": 276.0
+      "LeoVegas (SE)": {
+        "Chapecoense": 1.75,
+        "Sao Paulo": 4.5,
+        "Draw": 2.88
       },
-      "Betfair": {
-        "Asteras Tripolis": 65.0,
-        "Panetolikos Agrinio": 1.01,
-        "Draw": 60.0
+      "Unibet (SE)": {
+        "Chapecoense": 1.85,
+        "Sao Paulo": 4.8,
+        "Draw": 3.05
       },
-      "Betsson": {
-        "Asteras Tripolis": 301.0,
-        "Panetolikos Agrinio": 1.0,
-        "Draw": 226.0
-      }
-    },
-    "a947deb245ed2b8f97c425f02df472ae:h2h": {
-      "Nordic Bet": {
-        "Genclerbirligi SK": 1.1,
-        "Goztepe": 65.0,
-        "Draw": 6.8
-      },
-      "Betsson": {
-        "Genclerbirligi SK": 1.1,
-        "Goztepe": 65.0,
-        "Draw": 6.8
-      },
-      "Winamax (FR)": {
-        "Genclerbirligi SK": 1.05,
-        "Goztepe": 400.0,
-        "Draw": 11.5
-      },
-      "Betclic (FR)": {
-        "Genclerbirligi SK": 1.02,
-        "Goztepe": 100.0,
-        "Draw": 11.25
-      },
-      "Tipico": {
-        "Genclerbirligi SK": 1.01,
-        "Goztepe": 400.0,
-        "Draw": 25.0
-      },
-      "Winamax (DE)": {
-        "Genclerbirligi SK": 1.03,
-        "Goztepe": 400.0,
-        "Draw": 12.0
-      },
-      "Coolbet": {
-        "Genclerbirligi SK": 1.14,
-        "Goztepe": 80.0,
-        "Draw": 6.8
-      },
-      "888sport": {
-        "Genclerbirligi SK": 1.06,
-        "Goztepe": 91.0,
-        "Draw": 9.5
-      },
-      "Betfair": {
-        "Genclerbirligi SK": 1.03,
-        "Goztepe": 120.0,
-        "Draw": 18.0
+      "MyBookie.ag": {
+        "Chapecoense": 1.85,
+        "Sao Paulo": 4.35,
+        "Draw": 3.05
       },
       "Pinnacle": {
-        "Genclerbirligi SK": 1.37,
-        "Goztepe": 16.57,
-        "Draw": 3.77
+        "Chapecoense": 1.85,
+        "Sao Paulo": 5.31,
+        "Draw": 3.06
+      },
+      "Matchbook": {
+        "Chapecoense": 1.94,
+        "Sao Paulo": 5.4,
+        "Draw": 3.25
+      },
+      "Tipico": {
+        "Chapecoense": 1.9,
+        "Sao Paulo": 4.0,
+        "Draw": 3.1
+      },
+      "Betfair": {
+        "Chapecoense": 1.95,
+        "Sao Paulo": 5.3,
+        "Draw": 3.25
       }
     },
-    "fbea45a1e53e07faac0027ac5d233587:h2h": {
-      "Betfair": {
-        "AC Milan": 1.01,
-        "Torino": 100.0,
-        "Draw": 50.0
+    "f26f6515ad395b4eaedac6e1b9eaa96d:h2h": {
+      "Unibet (NL)": {
+        "Criciuma": 6.0,
+        "Fortaleza": 1.57,
+        "Draw": 3.05
       },
-      "Betclic (FR)": {
-        "AC Milan": 1.0,
-        "Torino": 110.0,
-        "Draw": 85.0
+      "Unibet (SE)": {
+        "Criciuma": 6.4,
+        "Fortaleza": 1.61,
+        "Draw": 3.2
       },
-      "Betsson": {
-        "AC Milan": 1.0,
-        "Torino": 34.0,
-        "Draw": 29.0
+      "LeoVegas (SE)": {
+        "Criciuma": 5.8,
+        "Fortaleza": 1.55,
+        "Draw": 2.95
       },
       "Nordic Bet": {
-        "AC Milan": 1.0,
-        "Torino": 34.0,
-        "Draw": 29.0
+        "Criciuma": 6.8,
+        "Fortaleza": 1.58,
+        "Draw": 3.2
+      },
+      "Betsson": {
+        "Criciuma": 6.8,
+        "Fortaleza": 1.58,
+        "Draw": 3.2
+      },
+      "Coolbet": {
+        "Criciuma": 7.0,
+        "Fortaleza": 1.57,
+        "Draw": 3.25
+      },
+      "Pinnacle": {
+        "Criciuma": 6.88,
+        "Fortaleza": 1.64,
+        "Draw": 3.23
       },
       "888sport": {
-        "AC Milan": 1.0,
-        "Torino": 151.0,
-        "Draw": 61.0
+        "Criciuma": 6.5,
+        "Fortaleza": 1.6,
+        "Draw": 3.1
+      },
+      "Tipico": {
+        "Criciuma": 7.5,
+        "Fortaleza": 1.5,
+        "Draw": 3.4
+      },
+      "Matchbook": {
+        "Criciuma": 7.8,
+        "Fortaleza": 1.68,
+        "Draw": 3.45
+      },
+      "Betfair": {
+        "Criciuma": 7.8,
+        "Fortaleza": 1.68,
+        "Draw": 3.45
       }
     }
   },
@@ -11456,47 +11566,485 @@
       "confidence": 352,
       "alert_type": "value",
       "alerted_at": "2026-08-23T20:35:31.210812+00:00"
+    },
+    {
+      "state_key": "5c3310ddac30d3e22332be25958e7672:h2h",
+      "event_id": "5c3310ddac30d3e22332be25958e7672",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "New England Revolution",
+      "away_team": "New York City FC",
+      "commence_time": "2026-08-23T20:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "New England Revolution",
+      "odds_at_alert": 8.0,
+      "stake_pct": 5.0,
+      "confidence": 68,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T22:34:09.588697+00:00"
+    },
+    {
+      "state_key": "5c3310ddac30d3e22332be25958e7672:h2h",
+      "event_id": "5c3310ddac30d3e22332be25958e7672",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "New England Revolution",
+      "away_team": "New York City FC",
+      "commence_time": "2026-08-23T20:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "New York City FC",
+      "odds_at_alert": 8.0,
+      "stake_pct": 5.0,
+      "confidence": 28,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T22:34:10.333497+00:00"
+    },
+    {
+      "state_key": "5c3310ddac30d3e22332be25958e7672:h2h",
+      "event_id": "5c3310ddac30d3e22332be25958e7672",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "New England Revolution",
+      "away_team": "New York City FC",
+      "commence_time": "2026-08-23T20:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "New England Revolution",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 258,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T22:34:10.696038+00:00"
+    },
+    {
+      "state_key": "5c3310ddac30d3e22332be25958e7672:h2h",
+      "event_id": "5c3310ddac30d3e22332be25958e7672",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "New England Revolution",
+      "away_team": "New York City FC",
+      "commence_time": "2026-08-23T20:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "New York City FC",
+      "odds_at_alert": 18.0,
+      "stake_pct": 5.0,
+      "confidence": 188,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T22:34:11.020121+00:00"
+    },
+    {
+      "state_key": "5c3310ddac30d3e22332be25958e7672:h2h",
+      "event_id": "5c3310ddac30d3e22332be25958e7672",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "New England Revolution",
+      "away_team": "New York City FC",
+      "commence_time": "2026-08-23T20:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "New England Revolution",
+      "odds_at_alert": 9.0,
+      "stake_pct": 5.0,
+      "confidence": 89,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T22:34:11.349257+00:00"
+    },
+    {
+      "state_key": "5c3310ddac30d3e22332be25958e7672:h2h",
+      "event_id": "5c3310ddac30d3e22332be25958e7672",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "New England Revolution",
+      "away_team": "New York City FC",
+      "commence_time": "2026-08-23T20:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "New York City FC",
+      "odds_at_alert": 9.0,
+      "stake_pct": 5.0,
+      "confidence": 44,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T22:34:11.663055+00:00"
+    },
+    {
+      "state_key": "5c3310ddac30d3e22332be25958e7672:h2h",
+      "event_id": "5c3310ddac30d3e22332be25958e7672",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "New England Revolution",
+      "away_team": "New York City FC",
+      "commence_time": "2026-08-23T20:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "New England Revolution",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 447,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T22:34:11.978283+00:00"
+    },
+    {
+      "state_key": "5c3310ddac30d3e22332be25958e7672:h2h",
+      "event_id": "5c3310ddac30d3e22332be25958e7672",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "New England Revolution",
+      "away_team": "New York City FC",
+      "commence_time": "2026-08-23T20:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "New York City FC",
+      "odds_at_alert": 25.0,
+      "stake_pct": 5.0,
+      "confidence": 300,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T22:34:12.284876+00:00"
+    },
+    {
+      "state_key": "5c3310ddac30d3e22332be25958e7672:h2h",
+      "event_id": "5c3310ddac30d3e22332be25958e7672",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "New England Revolution",
+      "away_team": "New York City FC",
+      "commence_time": "2026-08-23T20:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "New England Revolution",
+      "odds_at_alert": 6.6,
+      "stake_pct": 5.0,
+      "confidence": 39,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T22:34:12.638685+00:00"
+    },
+    {
+      "state_key": "5c3310ddac30d3e22332be25958e7672:h2h",
+      "event_id": "5c3310ddac30d3e22332be25958e7672",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "New England Revolution",
+      "away_team": "New York City FC",
+      "commence_time": "2026-08-23T20:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "New York City FC",
+      "odds_at_alert": 10.25,
+      "stake_pct": 5.0,
+      "confidence": 64,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T22:34:12.950259+00:00"
+    },
+    {
+      "state_key": "5c3310ddac30d3e22332be25958e7672:h2h",
+      "event_id": "5c3310ddac30d3e22332be25958e7672",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "New England Revolution",
+      "away_team": "New York City FC",
+      "commence_time": "2026-08-23T20:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "New England Revolution",
+      "odds_at_alert": 7.25,
+      "stake_pct": 5.0,
+      "confidence": 53,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T22:34:13.262702+00:00"
+    },
+    {
+      "state_key": "5c3310ddac30d3e22332be25958e7672:h2h",
+      "event_id": "5c3310ddac30d3e22332be25958e7672",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "New England Revolution",
+      "away_team": "New York City FC",
+      "commence_time": "2026-08-23T20:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "New York City FC",
+      "odds_at_alert": 10.0,
+      "stake_pct": 5.0,
+      "confidence": 60,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T22:34:13.580120+00:00"
+    },
+    {
+      "state_key": "5c3310ddac30d3e22332be25958e7672:h2h",
+      "event_id": "5c3310ddac30d3e22332be25958e7672",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "New England Revolution",
+      "away_team": "New York City FC",
+      "commence_time": "2026-08-23T20:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "New England Revolution",
+      "odds_at_alert": 7.5,
+      "stake_pct": 5.0,
+      "confidence": 58,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T22:34:13.899473+00:00"
+    },
+    {
+      "state_key": "5c3310ddac30d3e22332be25958e7672:h2h",
+      "event_id": "5c3310ddac30d3e22332be25958e7672",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "New England Revolution",
+      "away_team": "New York City FC",
+      "commence_time": "2026-08-23T20:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "New York City FC",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 76,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T22:34:14.223135+00:00"
+    },
+    {
+      "state_key": "5c3310ddac30d3e22332be25958e7672:h2h",
+      "event_id": "5c3310ddac30d3e22332be25958e7672",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "New England Revolution",
+      "away_team": "New York City FC",
+      "commence_time": "2026-08-23T20:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "New England Revolution",
+      "odds_at_alert": 20.0,
+      "stake_pct": 5.0,
+      "confidence": 321,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T22:34:14.550202+00:00"
+    },
+    {
+      "state_key": "5c3310ddac30d3e22332be25958e7672:h2h",
+      "event_id": "5c3310ddac30d3e22332be25958e7672",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "New England Revolution",
+      "away_team": "New York City FC",
+      "commence_time": "2026-08-23T20:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "New York City FC",
+      "odds_at_alert": 25.0,
+      "stake_pct": 5.0,
+      "confidence": 300,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T22:34:14.862083+00:00"
+    },
+    {
+      "state_key": "5c3310ddac30d3e22332be25958e7672:h2h",
+      "event_id": "5c3310ddac30d3e22332be25958e7672",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "New England Revolution",
+      "away_team": "New York City FC",
+      "commence_time": "2026-08-23T20:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "New England Revolution",
+      "odds_at_alert": 38.0,
+      "stake_pct": 5.0,
+      "confidence": 699,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T22:34:15.175761+00:00"
+    },
+    {
+      "state_key": "5c3310ddac30d3e22332be25958e7672:h2h",
+      "event_id": "5c3310ddac30d3e22332be25958e7672",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "New England Revolution",
+      "away_team": "New York City FC",
+      "commence_time": "2026-08-23T20:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "New York City FC",
+      "odds_at_alert": 38.0,
+      "stake_pct": 5.0,
+      "confidence": 507,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T22:34:15.489878+00:00"
+    },
+    {
+      "state_key": "5c3310ddac30d3e22332be25958e7672:h2h",
+      "event_id": "5c3310ddac30d3e22332be25958e7672",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "New England Revolution",
+      "away_team": "New York City FC",
+      "commence_time": "2026-08-23T20:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "New England Revolution",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 258,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T22:34:15.792884+00:00"
+    },
+    {
+      "state_key": "5c3310ddac30d3e22332be25958e7672:h2h",
+      "event_id": "5c3310ddac30d3e22332be25958e7672",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "New England Revolution",
+      "away_team": "New York City FC",
+      "commence_time": "2026-08-23T20:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "New York City FC",
+      "odds_at_alert": 23.0,
+      "stake_pct": 5.0,
+      "confidence": 268,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T22:34:16.099390+00:00"
+    },
+    {
+      "state_key": "5c3310ddac30d3e22332be25958e7672:h2h",
+      "event_id": "5c3310ddac30d3e22332be25958e7672",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "New England Revolution",
+      "away_team": "New York City FC",
+      "commence_time": "2026-08-23T20:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "New England Revolution",
+      "odds_at_alert": 19.0,
+      "stake_pct": 5.0,
+      "confidence": 300,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T22:34:16.416755+00:00"
+    },
+    {
+      "state_key": "5c3310ddac30d3e22332be25958e7672:h2h",
+      "event_id": "5c3310ddac30d3e22332be25958e7672",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "New England Revolution",
+      "away_team": "New York City FC",
+      "commence_time": "2026-08-23T20:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "New York City FC",
+      "odds_at_alert": 23.0,
+      "stake_pct": 5.0,
+      "confidence": 268,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T22:34:16.723914+00:00"
+    },
+    {
+      "state_key": "5c3310ddac30d3e22332be25958e7672:h2h",
+      "event_id": "5c3310ddac30d3e22332be25958e7672",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "New England Revolution",
+      "away_team": "New York City FC",
+      "commence_time": "2026-08-23T20:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "New England Revolution",
+      "odds_at_alert": 7.5,
+      "stake_pct": 5.0,
+      "confidence": 58,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T22:34:17.037301+00:00"
+    },
+    {
+      "state_key": "5c3310ddac30d3e22332be25958e7672:h2h",
+      "event_id": "5c3310ddac30d3e22332be25958e7672",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "New England Revolution",
+      "away_team": "New York City FC",
+      "commence_time": "2026-08-23T20:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "New York City FC",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 76,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T22:34:17.348070+00:00"
+    },
+    {
+      "state_key": "70e3a6dbf27d7c15f662a9a8ea060247:h2h",
+      "event_id": "70e3a6dbf27d7c15f662a9a8ea060247",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Operario PR",
+      "away_team": "Vila Nova",
+      "commence_time": "2026-08-23T21:03:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Operario PR",
+      "odds_at_alert": 4.7,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T22:34:17.651602+00:00"
+    },
+    {
+      "state_key": "70e3a6dbf27d7c15f662a9a8ea060247:h2h",
+      "event_id": "70e3a6dbf27d7c15f662a9a8ea060247",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Operario PR",
+      "away_team": "Vila Nova",
+      "commence_time": "2026-08-23T21:03:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Operario PR",
+      "odds_at_alert": 4.7,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T22:34:17.976817+00:00"
+    },
+    {
+      "state_key": "f26f6515ad395b4eaedac6e1b9eaa96d:h2h",
+      "event_id": "f26f6515ad395b4eaedac6e1b9eaa96d",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Criciuma",
+      "away_team": "Fortaleza",
+      "commence_time": "2026-08-23T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Criciuma",
+      "odds_at_alert": 7.8,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T22:34:18.293751+00:00"
+    },
+    {
+      "state_key": "f26f6515ad395b4eaedac6e1b9eaa96d:h2h",
+      "event_id": "f26f6515ad395b4eaedac6e1b9eaa96d",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Criciuma",
+      "away_team": "Fortaleza",
+      "commence_time": "2026-08-23T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Criciuma",
+      "odds_at_alert": 7.8,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T22:34:18.608879+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "6b3b41cc7aa2f7ce5b45065e9cf2a78f:h2h|888sport|Besiktas JK",
-    "6b3b41cc7aa2f7ce5b45065e9cf2a78f:h2h|888sport|Draw",
-    "6b3b41cc7aa2f7ce5b45065e9cf2a78f:h2h|Betclic (FR)|Besiktas JK",
-    "6b3b41cc7aa2f7ce5b45065e9cf2a78f:h2h|Betclic (FR)|Draw",
-    "6b3b41cc7aa2f7ce5b45065e9cf2a78f:h2h|Betfair|Besiktas JK",
-    "6b3b41cc7aa2f7ce5b45065e9cf2a78f:h2h|Betfair|Draw",
-    "6b3b41cc7aa2f7ce5b45065e9cf2a78f:h2h|Betsson|Besiktas JK",
-    "6b3b41cc7aa2f7ce5b45065e9cf2a78f:h2h|Betsson|Draw",
-    "6b3b41cc7aa2f7ce5b45065e9cf2a78f:h2h|Coolbet|Besiktas JK",
-    "6b3b41cc7aa2f7ce5b45065e9cf2a78f:h2h|Coolbet|Draw",
-    "6b3b41cc7aa2f7ce5b45065e9cf2a78f:h2h|Nordic Bet|Besiktas JK",
-    "6b3b41cc7aa2f7ce5b45065e9cf2a78f:h2h|Nordic Bet|Draw",
-    "6b3b41cc7aa2f7ce5b45065e9cf2a78f:h2h|PMU (FR)|Besiktas JK",
-    "6b3b41cc7aa2f7ce5b45065e9cf2a78f:h2h|PMU (FR)|Draw",
-    "6b3b41cc7aa2f7ce5b45065e9cf2a78f:h2h|Tipico|Besiktas JK",
-    "6b3b41cc7aa2f7ce5b45065e9cf2a78f:h2h|Tipico|Draw",
-    "6b3b41cc7aa2f7ce5b45065e9cf2a78f:h2h|Winamax (DE)|Besiktas JK",
-    "6b3b41cc7aa2f7ce5b45065e9cf2a78f:h2h|Winamax (DE)|Draw",
-    "6b3b41cc7aa2f7ce5b45065e9cf2a78f:h2h|Winamax (FR)|Besiktas JK",
-    "6b3b41cc7aa2f7ce5b45065e9cf2a78f:h2h|Winamax (FR)|Draw",
-    "a947deb245ed2b8f97c425f02df472ae:h2h|888sport|Draw",
-    "a947deb245ed2b8f97c425f02df472ae:h2h|888sport|Goztepe",
-    "a947deb245ed2b8f97c425f02df472ae:h2h|Betclic (FR)|Draw",
-    "a947deb245ed2b8f97c425f02df472ae:h2h|Betclic (FR)|Goztepe",
-    "a947deb245ed2b8f97c425f02df472ae:h2h|Betfair|Draw",
-    "a947deb245ed2b8f97c425f02df472ae:h2h|Betfair|Goztepe",
-    "a947deb245ed2b8f97c425f02df472ae:h2h|Betsson|Draw",
-    "a947deb245ed2b8f97c425f02df472ae:h2h|Betsson|Goztepe",
-    "a947deb245ed2b8f97c425f02df472ae:h2h|Coolbet|Draw",
-    "a947deb245ed2b8f97c425f02df472ae:h2h|Coolbet|Goztepe",
-    "a947deb245ed2b8f97c425f02df472ae:h2h|Nordic Bet|Draw",
-    "a947deb245ed2b8f97c425f02df472ae:h2h|Nordic Bet|Goztepe",
-    "a947deb245ed2b8f97c425f02df472ae:h2h|Tipico|Draw",
-    "a947deb245ed2b8f97c425f02df472ae:h2h|Tipico|Goztepe",
-    "a947deb245ed2b8f97c425f02df472ae:h2h|Winamax (DE)|Draw",
-    "a947deb245ed2b8f97c425f02df472ae:h2h|Winamax (DE)|Goztepe",
-    "a947deb245ed2b8f97c425f02df472ae:h2h|Winamax (FR)|Draw",
-    "a947deb245ed2b8f97c425f02df472ae:h2h|Winamax (FR)|Goztepe"
+    "5c3310ddac30d3e22332be25958e7672:h2h|Betclic (FR)|New England Revolution",
+    "5c3310ddac30d3e22332be25958e7672:h2h|Betclic (FR)|New York City FC",
+    "5c3310ddac30d3e22332be25958e7672:h2h|Betfair|New England Revolution",
+    "5c3310ddac30d3e22332be25958e7672:h2h|Betfair|New York City FC",
+    "5c3310ddac30d3e22332be25958e7672:h2h|Betsson|New England Revolution",
+    "5c3310ddac30d3e22332be25958e7672:h2h|Betsson|New York City FC",
+    "5c3310ddac30d3e22332be25958e7672:h2h|Coolbet|New England Revolution",
+    "5c3310ddac30d3e22332be25958e7672:h2h|Coolbet|New York City FC",
+    "5c3310ddac30d3e22332be25958e7672:h2h|LeoVegas (SE)|New England Revolution",
+    "5c3310ddac30d3e22332be25958e7672:h2h|LeoVegas (SE)|New York City FC",
+    "5c3310ddac30d3e22332be25958e7672:h2h|Nordic Bet|New England Revolution",
+    "5c3310ddac30d3e22332be25958e7672:h2h|Nordic Bet|New York City FC",
+    "5c3310ddac30d3e22332be25958e7672:h2h|PMU (FR)|New England Revolution",
+    "5c3310ddac30d3e22332be25958e7672:h2h|PMU (FR)|New York City FC",
+    "5c3310ddac30d3e22332be25958e7672:h2h|Tipico|New England Revolution",
+    "5c3310ddac30d3e22332be25958e7672:h2h|Tipico|New York City FC",
+    "5c3310ddac30d3e22332be25958e7672:h2h|Unibet (NL)|New England Revolution",
+    "5c3310ddac30d3e22332be25958e7672:h2h|Unibet (NL)|New York City FC",
+    "5c3310ddac30d3e22332be25958e7672:h2h|Unibet (SE)|New England Revolution",
+    "5c3310ddac30d3e22332be25958e7672:h2h|Unibet (SE)|New York City FC",
+    "5c3310ddac30d3e22332be25958e7672:h2h|Winamax (DE)|New England Revolution",
+    "5c3310ddac30d3e22332be25958e7672:h2h|Winamax (DE)|New York City FC",
+    "5c3310ddac30d3e22332be25958e7672:h2h|Winamax (FR)|New England Revolution",
+    "5c3310ddac30d3e22332be25958e7672:h2h|Winamax (FR)|New York City FC",
+    "70e3a6dbf27d7c15f662a9a8ea060247:h2h|Betfair|Operario PR",
+    "70e3a6dbf27d7c15f662a9a8ea060247:h2h|Matchbook|Operario PR",
+    "f26f6515ad395b4eaedac6e1b9eaa96d:h2h|Betfair|Criciuma",
+    "f26f6515ad395b4eaedac6e1b9eaa96d:h2h|Matchbook|Criciuma"
   ]
 }
