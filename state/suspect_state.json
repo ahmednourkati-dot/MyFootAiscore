@@ -1,201 +1,196 @@
 {
   "snapshots": {
-    "931992fa9714b3b28d895f2367a89348:h2h": {
-      "Winamax (DE)": {
-        "Atlético Huracán": 30.0,
-        "Deportivo Riestra": 48.0,
-        "Draw": 1.01
-      },
-      "Winamax (FR)": {
-        "Atlético Huracán": 30.0,
-        "Deportivo Riestra": 48.0,
-        "Draw": 1.02
-      },
-      "Betclic (FR)": {
-        "Atlético Huracán": 17.0,
-        "Deportivo Riestra": 22.0,
-        "Draw": 1.01
-      },
-      "LeoVegas (SE)": {
-        "Atlético Huracán": 11.0,
-        "Deportivo Riestra": 14.0,
+    "8db4ded3b88d8974f261c9e2c7eee67c:h2h": {
+      "Unibet (SE)": {
+        "Austin FC": 36.0,
+        "Philadelphia Union": 26.0,
         "Draw": 1.03
       },
-      "Unibet (SE)": {
-        "Atlético Huracán": 21.0,
-        "Deportivo Riestra": 31.0,
-        "Draw": 1.02
-      },
-      "Betsson": {
-        "Atlético Huracán": 19.0,
-        "Deportivo Riestra": 26.0,
-        "Draw": 1.02
-      },
-      "Nordic Bet": {
-        "Atlético Huracán": 19.0,
-        "Deportivo Riestra": 26.0,
-        "Draw": 1.02
-      },
-      "Pinnacle": {
-        "Atlético Huracán": 5.64,
-        "Deportivo Riestra": 7.46,
-        "Draw": 1.34
-      },
-      "Betfair": {
-        "Atlético Huracán": 1.01,
-        "Deportivo Riestra": 1.01,
-        "Draw": 1.05
-      }
-    },
-    "9509590f8e49a910cca09694851d430b:h2h": {
-      "Betclic (FR)": {
-        "Banfield": 100.0,
-        "Newells Old Boys": 1.0,
-        "Draw": 40.0
-      },
-      "Nordic Bet": {
-        "Banfield": 26.0,
-        "Newells Old Boys": 1.0,
-        "Draw": 26.0
-      },
-      "Betsson": {
-        "Banfield": 26.0,
-        "Newells Old Boys": 1.0,
-        "Draw": 26.0
-      },
-      "Betfair": {
-        "Banfield": 80.0,
-        "Newells Old Boys": 1.01,
-        "Draw": 55.0
-      }
-    },
-    "3701cb093d422511ebc94393025122b6:h2h": {
-      "Coolbet": {
-        "Universidad Católica (CHI)": 1000.0,
-        "Ñublense": 1.02,
-        "Draw": 18.0
-      },
-      "Winamax (DE)": {
-        "Universidad Católica (CHI)": 800.0,
-        "Ñublense": 1.01,
-        "Draw": 20.0
-      },
-      "Winamax (FR)": {
-        "Universidad Católica (CHI)": 800.0,
-        "Ñublense": 1.03,
-        "Draw": 19.0
-      },
-      "Betsson": {
-        "Universidad Católica (CHI)": 150.0,
-        "Ñublense": 1.03,
-        "Draw": 17.0
-      },
-      "Nordic Bet": {
-        "Universidad Católica (CHI)": 150.0,
-        "Ñublense": 1.03,
-        "Draw": 19.0
-      },
-      "Pinnacle": {
-        "Universidad Católica (CHI)": 6.35,
-        "Ñublense": 4.8,
-        "Draw": 1.41
-      },
-      "888sport": {
-        "Universidad Católica (CHI)": 71.0,
-        "Ñublense": 1.06,
-        "Draw": 8.0
-      },
-      "Tipico": {
-        "Universidad Católica (CHI)": 250.0,
-        "Ñublense": 1.01,
-        "Draw": 20.0
-      },
-      "Betfair": {
-        "Universidad Católica (CHI)": 50.0,
-        "Ñublense": 1.01,
-        "Draw": 21.0
-      }
-    },
-    "a59435c8f186d183eaf572f25af86e5c:h2h": {
       "LeoVegas (SE)": {
-        "Columbus Crew SC": 16.0,
-        "Nashville SC": 1.16,
-        "Draw": 5.3
-      },
-      "Unibet (SE)": {
-        "Columbus Crew SC": 17.0,
-        "Nashville SC": 1.19,
-        "Draw": 5.6
+        "Austin FC": 18.0,
+        "Philadelphia Union": 13.0,
+        "Draw": 1.03
       },
       "Unibet (NL)": {
-        "Columbus Crew SC": 17.0,
-        "Nashville SC": 1.19,
-        "Draw": 5.6
+        "Austin FC": 18.0,
+        "Philadelphia Union": 13.0,
+        "Draw": 1.04
       },
       "PMU (FR)": {
-        "Columbus Crew SC": 16.0,
-        "Nashville SC": 1.11,
-        "Draw": 5.1
-      },
-      "Betclic (FR)": {
-        "Columbus Crew SC": 16.0,
-        "Nashville SC": 1.17,
-        "Draw": 4.7
-      },
-      "Winamax (FR)": {
-        "Columbus Crew SC": 15.0,
-        "Nashville SC": 1.21,
-        "Draw": 5.0
+        "Austin FC": 14.0,
+        "Philadelphia Union": 9.0,
+        "Draw": 1.03
       },
       "Winamax (DE)": {
-        "Columbus Crew SC": 16.0,
-        "Nashville SC": 1.19,
-        "Draw": 5.3
+        "Austin FC": 10.0,
+        "Philadelphia Union": 8.5,
+        "Draw": 1.14
+      },
+      "Winamax (FR)": {
+        "Austin FC": 14.5,
+        "Philadelphia Union": 14.0,
+        "Draw": 1.09
+      },
+      "Betclic (FR)": {
+        "Austin FC": 11.0,
+        "Philadelphia Union": 11.75,
+        "Draw": 1.06
       },
       "MyBookie.ag": {
-        "Columbus Crew SC": 10.5,
-        "Nashville SC": 1.22,
-        "Draw": 5.0
+        "Austin FC": 7.75,
+        "Philadelphia Union": 6.25,
+        "Draw": 1.15
       },
       "Coolbet": {
-        "Columbus Crew SC": 18.0,
-        "Nashville SC": 1.2,
-        "Draw": 5.5
+        "Austin FC": 20.0,
+        "Philadelphia Union": 20.0,
+        "Draw": 1.03
       },
       "888sport": {
-        "Columbus Crew SC": 15.0,
-        "Nashville SC": 1.22,
-        "Draw": 5.0
+        "Austin FC": 11.0,
+        "Philadelphia Union": 10.0,
+        "Draw": 1.11
       },
       "Betfair": {
-        "Columbus Crew SC": 24.0,
-        "Nashville SC": 1.25,
-        "Draw": 5.9
-      },
-      "Pinnacle": {
-        "Columbus Crew SC": 18.18,
-        "Nashville SC": 1.23,
-        "Draw": 5.32
-      },
-      "Betsson": {
-        "Columbus Crew SC": 17.5,
-        "Nashville SC": 1.18,
-        "Draw": 5.35
+        "Austin FC": 1.01,
+        "Philadelphia Union": 1.01,
+        "Draw": 1.01
       },
       "Nordic Bet": {
-        "Columbus Crew SC": 17.5,
-        "Nashville SC": 1.18,
-        "Draw": 5.35
+        "Austin FC": 23.0,
+        "Philadelphia Union": 26.0,
+        "Draw": 1.01
+      },
+      "Betsson": {
+        "Austin FC": 23.0,
+        "Philadelphia Union": 26.0,
+        "Draw": 1.01
+      },
+      "Pinnacle": {
+        "Austin FC": 6.61,
+        "Philadelphia Union": 5.22,
+        "Draw": 1.38
       },
       "Tipico": {
-        "Columbus Crew SC": 18.0,
-        "Nashville SC": 1.22,
+        "Austin FC": 13.0,
+        "Philadelphia Union": 14.0,
+        "Draw": 1.06
+      }
+    },
+    "f756688d76a912ef432b248f697008a8:h2h": {
+      "Nordic Bet": {
+        "Guadalajara": 1.0,
+        "Tijuana": 26.0,
+        "Draw": 26.0
+      },
+      "Betsson": {
+        "Guadalajara": 1.0,
+        "Tijuana": 26.0,
+        "Draw": 26.0
+      },
+      "Betclic (FR)": {
+        "Guadalajara": 1.0,
+        "Tijuana": 100.0,
+        "Draw": 40.0
+      }
+    },
+    "f95f8dcfc80fb5adce73941310bfb690:h2h": {
+      "Betclic (FR)": {
+        "FC Dallas": 85.0,
+        "Vancouver Whitecaps FC": 1.0,
+        "Draw": 8.75
+      },
+      "Betsson": {
+        "FC Dallas": 26.0,
+        "Vancouver Whitecaps FC": 1.0,
+        "Draw": 26.0
+      },
+      "Nordic Bet": {
+        "FC Dallas": 29.0,
+        "Vancouver Whitecaps FC": 1.0,
+        "Draw": 26.0
+      }
+    },
+    "3694aa4b60ed1371baf2e5281f9880c8:h2h": {
+      "Unibet (NL)": {
+        "Colorado Rapids": 8.5,
+        "San Diego FC": 1.35,
+        "Draw": 4.6
+      },
+      "PMU (FR)": {
+        "Colorado Rapids": 7.5,
+        "San Diego FC": 1.26,
+        "Draw": 4.25
+      },
+      "LeoVegas (SE)": {
+        "Colorado Rapids": 8.0,
+        "San Diego FC": 1.32,
+        "Draw": 4.4
+      },
+      "Unibet (SE)": {
+        "Colorado Rapids": 8.5,
+        "San Diego FC": 1.35,
+        "Draw": 4.6
+      },
+      "Betclic (FR)": {
+        "Colorado Rapids": 7.5,
+        "San Diego FC": 1.34,
+        "Draw": 4.2
+      },
+      "Winamax (DE)": {
+        "Colorado Rapids": 7.25,
+        "San Diego FC": 1.36,
+        "Draw": 4.3
+      },
+      "Winamax (FR)": {
+        "Colorado Rapids": 7.0,
+        "San Diego FC": 1.36,
+        "Draw": 4.1
+      },
+      "MyBookie.ag": {
+        "Colorado Rapids": 6.75,
+        "San Diego FC": 1.4,
+        "Draw": 4.25
+      },
+      "Coolbet": {
+        "Colorado Rapids": 9.0,
+        "San Diego FC": 1.33,
         "Draw": 4.5
       },
+      "888sport": {
+        "Colorado Rapids": 7.5,
+        "San Diego FC": 1.36,
+        "Draw": 4.2
+      },
+      "Betfair": {
+        "Colorado Rapids": 9.4,
+        "San Diego FC": 1.42,
+        "Draw": 5.0
+      },
+      "Nordic Bet": {
+        "Colorado Rapids": 8.2,
+        "San Diego FC": 1.31,
+        "Draw": 4.6
+      },
+      "Betsson": {
+        "Colorado Rapids": 8.6,
+        "San Diego FC": 1.31,
+        "Draw": 4.6
+      },
+      "Pinnacle": {
+        "Colorado Rapids": 3.5,
+        "San Diego FC": 2.12,
+        "Draw": 3.3
+      },
+      "Tipico": {
+        "Colorado Rapids": 8.5,
+        "San Diego FC": 1.3,
+        "Draw": 4.7
+      },
       "Matchbook": {
-        "Columbus Crew SC": 25.0,
-        "Nashville SC": 1.25,
-        "Draw": 5.9
+        "Colorado Rapids": 9.4,
+        "San Diego FC": 1.35,
+        "Draw": 5.1
       }
     }
   },
@@ -9080,43 +9075,961 @@
       "confidence": 5,
       "alert_type": "value",
       "alerted_at": "2026-08-23T01:56:58.466194+00:00"
+    },
+    {
+      "state_key": "8db4ded3b88d8974f261c9e2c7eee67c:h2h",
+      "event_id": "8db4ded3b88d8974f261c9e2c7eee67c",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Austin FC",
+      "away_team": "Philadelphia Union",
+      "commence_time": "2026-08-23T01:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Austin FC",
+      "odds_at_alert": 36.0,
+      "stake_pct": 5.0,
+      "confidence": 410,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T03:12:40.983902+00:00"
+    },
+    {
+      "state_key": "8db4ded3b88d8974f261c9e2c7eee67c:h2h",
+      "event_id": "8db4ded3b88d8974f261c9e2c7eee67c",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Austin FC",
+      "away_team": "Philadelphia Union",
+      "commence_time": "2026-08-23T01:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Philadelphia Union",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 367,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T03:12:41.330850+00:00"
+    },
+    {
+      "state_key": "8db4ded3b88d8974f261c9e2c7eee67c:h2h",
+      "event_id": "8db4ded3b88d8974f261c9e2c7eee67c",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Austin FC",
+      "away_team": "Philadelphia Union",
+      "commence_time": "2026-08-23T01:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Austin FC",
+      "odds_at_alert": 18.0,
+      "stake_pct": 5.0,
+      "confidence": 155,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T03:12:41.709619+00:00"
+    },
+    {
+      "state_key": "8db4ded3b88d8974f261c9e2c7eee67c:h2h",
+      "event_id": "8db4ded3b88d8974f261c9e2c7eee67c",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Austin FC",
+      "away_team": "Philadelphia Union",
+      "commence_time": "2026-08-23T01:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Philadelphia Union",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 133,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T03:12:42.047773+00:00"
+    },
+    {
+      "state_key": "8db4ded3b88d8974f261c9e2c7eee67c:h2h",
+      "event_id": "8db4ded3b88d8974f261c9e2c7eee67c",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Austin FC",
+      "away_team": "Philadelphia Union",
+      "commence_time": "2026-08-23T01:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Austin FC",
+      "odds_at_alert": 18.0,
+      "stake_pct": 5.0,
+      "confidence": 155,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T03:12:42.426869+00:00"
+    },
+    {
+      "state_key": "8db4ded3b88d8974f261c9e2c7eee67c:h2h",
+      "event_id": "8db4ded3b88d8974f261c9e2c7eee67c",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Austin FC",
+      "away_team": "Philadelphia Union",
+      "commence_time": "2026-08-23T01:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Philadelphia Union",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 133,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T03:12:42.818481+00:00"
+    },
+    {
+      "state_key": "8db4ded3b88d8974f261c9e2c7eee67c:h2h",
+      "event_id": "8db4ded3b88d8974f261c9e2c7eee67c",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Austin FC",
+      "away_team": "Philadelphia Union",
+      "commence_time": "2026-08-23T01:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Austin FC",
+      "odds_at_alert": 14.0,
+      "stake_pct": 5.0,
+      "confidence": 98,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T03:12:43.233858+00:00"
+    },
+    {
+      "state_key": "8db4ded3b88d8974f261c9e2c7eee67c:h2h",
+      "event_id": "8db4ded3b88d8974f261c9e2c7eee67c",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Austin FC",
+      "away_team": "Philadelphia Union",
+      "commence_time": "2026-08-23T01:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Philadelphia Union",
+      "odds_at_alert": 9.0,
+      "stake_pct": 5.0,
+      "confidence": 62,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T03:12:43.574599+00:00"
+    },
+    {
+      "state_key": "8db4ded3b88d8974f261c9e2c7eee67c:h2h",
+      "event_id": "8db4ded3b88d8974f261c9e2c7eee67c",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Austin FC",
+      "away_team": "Philadelphia Union",
+      "commence_time": "2026-08-23T01:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Austin FC",
+      "odds_at_alert": 10.0,
+      "stake_pct": 5.0,
+      "confidence": 42,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T03:12:43.933731+00:00"
+    },
+    {
+      "state_key": "8db4ded3b88d8974f261c9e2c7eee67c:h2h",
+      "event_id": "8db4ded3b88d8974f261c9e2c7eee67c",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Austin FC",
+      "away_team": "Philadelphia Union",
+      "commence_time": "2026-08-23T01:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Philadelphia Union",
+      "odds_at_alert": 8.5,
+      "stake_pct": 5.0,
+      "confidence": 53,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T03:12:44.282398+00:00"
+    },
+    {
+      "state_key": "8db4ded3b88d8974f261c9e2c7eee67c:h2h",
+      "event_id": "8db4ded3b88d8974f261c9e2c7eee67c",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Austin FC",
+      "away_team": "Philadelphia Union",
+      "commence_time": "2026-08-23T01:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Austin FC",
+      "odds_at_alert": 14.5,
+      "stake_pct": 5.0,
+      "confidence": 105,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T03:12:44.614202+00:00"
+    },
+    {
+      "state_key": "8db4ded3b88d8974f261c9e2c7eee67c:h2h",
+      "event_id": "8db4ded3b88d8974f261c9e2c7eee67c",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Austin FC",
+      "away_team": "Philadelphia Union",
+      "commence_time": "2026-08-23T01:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Philadelphia Union",
+      "odds_at_alert": 14.0,
+      "stake_pct": 5.0,
+      "confidence": 151,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T03:12:44.956888+00:00"
+    },
+    {
+      "state_key": "8db4ded3b88d8974f261c9e2c7eee67c:h2h",
+      "event_id": "8db4ded3b88d8974f261c9e2c7eee67c",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Austin FC",
+      "away_team": "Philadelphia Union",
+      "commence_time": "2026-08-23T01:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Austin FC",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 56,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T03:12:45.296383+00:00"
+    },
+    {
+      "state_key": "8db4ded3b88d8974f261c9e2c7eee67c:h2h",
+      "event_id": "8db4ded3b88d8974f261c9e2c7eee67c",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Austin FC",
+      "away_team": "Philadelphia Union",
+      "commence_time": "2026-08-23T01:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Philadelphia Union",
+      "odds_at_alert": 11.75,
+      "stake_pct": 5.0,
+      "confidence": 111,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T03:12:45.641579+00:00"
+    },
+    {
+      "state_key": "8db4ded3b88d8974f261c9e2c7eee67c:h2h",
+      "event_id": "8db4ded3b88d8974f261c9e2c7eee67c",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Austin FC",
+      "away_team": "Philadelphia Union",
+      "commence_time": "2026-08-23T01:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Austin FC",
+      "odds_at_alert": 7.75,
+      "stake_pct": 2.0,
+      "confidence": 10,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T03:12:45.994603+00:00"
+    },
+    {
+      "state_key": "8db4ded3b88d8974f261c9e2c7eee67c:h2h",
+      "event_id": "8db4ded3b88d8974f261c9e2c7eee67c",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Austin FC",
+      "away_team": "Philadelphia Union",
+      "commence_time": "2026-08-23T01:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Philadelphia Union",
+      "odds_at_alert": 6.25,
+      "stake_pct": 3.0,
+      "confidence": 12,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T03:12:46.347030+00:00"
+    },
+    {
+      "state_key": "8db4ded3b88d8974f261c9e2c7eee67c:h2h",
+      "event_id": "8db4ded3b88d8974f261c9e2c7eee67c",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Austin FC",
+      "away_team": "Philadelphia Union",
+      "commence_time": "2026-08-23T01:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Austin FC",
+      "odds_at_alert": 20.0,
+      "stake_pct": 5.0,
+      "confidence": 183,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T03:12:46.682670+00:00"
+    },
+    {
+      "state_key": "8db4ded3b88d8974f261c9e2c7eee67c:h2h",
+      "event_id": "8db4ded3b88d8974f261c9e2c7eee67c",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Austin FC",
+      "away_team": "Philadelphia Union",
+      "commence_time": "2026-08-23T01:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Philadelphia Union",
+      "odds_at_alert": 20.0,
+      "stake_pct": 5.0,
+      "confidence": 259,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T03:12:47.025523+00:00"
+    },
+    {
+      "state_key": "8db4ded3b88d8974f261c9e2c7eee67c:h2h",
+      "event_id": "8db4ded3b88d8974f261c9e2c7eee67c",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Austin FC",
+      "away_team": "Philadelphia Union",
+      "commence_time": "2026-08-23T01:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Austin FC",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 56,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T03:12:47.364917+00:00"
+    },
+    {
+      "state_key": "8db4ded3b88d8974f261c9e2c7eee67c:h2h",
+      "event_id": "8db4ded3b88d8974f261c9e2c7eee67c",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Austin FC",
+      "away_team": "Philadelphia Union",
+      "commence_time": "2026-08-23T01:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Philadelphia Union",
+      "odds_at_alert": 10.0,
+      "stake_pct": 5.0,
+      "confidence": 79,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T03:12:47.716706+00:00"
+    },
+    {
+      "state_key": "8db4ded3b88d8974f261c9e2c7eee67c:h2h",
+      "event_id": "8db4ded3b88d8974f261c9e2c7eee67c",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Austin FC",
+      "away_team": "Philadelphia Union",
+      "commence_time": "2026-08-23T01:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Austin FC",
+      "odds_at_alert": 23.0,
+      "stake_pct": 5.0,
+      "confidence": 226,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T03:12:48.065012+00:00"
+    },
+    {
+      "state_key": "8db4ded3b88d8974f261c9e2c7eee67c:h2h",
+      "event_id": "8db4ded3b88d8974f261c9e2c7eee67c",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Austin FC",
+      "away_team": "Philadelphia Union",
+      "commence_time": "2026-08-23T01:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Philadelphia Union",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 367,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T03:12:48.407530+00:00"
+    },
+    {
+      "state_key": "8db4ded3b88d8974f261c9e2c7eee67c:h2h",
+      "event_id": "8db4ded3b88d8974f261c9e2c7eee67c",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Austin FC",
+      "away_team": "Philadelphia Union",
+      "commence_time": "2026-08-23T01:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Austin FC",
+      "odds_at_alert": 23.0,
+      "stake_pct": 5.0,
+      "confidence": 226,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T03:12:48.763241+00:00"
+    },
+    {
+      "state_key": "8db4ded3b88d8974f261c9e2c7eee67c:h2h",
+      "event_id": "8db4ded3b88d8974f261c9e2c7eee67c",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Austin FC",
+      "away_team": "Philadelphia Union",
+      "commence_time": "2026-08-23T01:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Philadelphia Union",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 367,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T03:12:49.109611+00:00"
+    },
+    {
+      "state_key": "8db4ded3b88d8974f261c9e2c7eee67c:h2h",
+      "event_id": "8db4ded3b88d8974f261c9e2c7eee67c",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Austin FC",
+      "away_team": "Philadelphia Union",
+      "commence_time": "2026-08-23T01:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Austin FC",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 84,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T03:12:49.448571+00:00"
+    },
+    {
+      "state_key": "8db4ded3b88d8974f261c9e2c7eee67c:h2h",
+      "event_id": "8db4ded3b88d8974f261c9e2c7eee67c",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Austin FC",
+      "away_team": "Philadelphia Union",
+      "commence_time": "2026-08-23T01:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Philadelphia Union",
+      "odds_at_alert": 14.0,
+      "stake_pct": 5.0,
+      "confidence": 151,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T03:12:49.796647+00:00"
+    },
+    {
+      "state_key": "3694aa4b60ed1371baf2e5281f9880c8:h2h",
+      "event_id": "3694aa4b60ed1371baf2e5281f9880c8",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "San Diego FC",
+      "away_team": "Colorado Rapids",
+      "commence_time": "2026-08-23T02:39:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Colorado Rapids",
+      "odds_at_alert": 8.5,
+      "stake_pct": 5.0,
+      "confidence": 129,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T03:12:50.209159+00:00"
+    },
+    {
+      "state_key": "3694aa4b60ed1371baf2e5281f9880c8:h2h",
+      "event_id": "3694aa4b60ed1371baf2e5281f9880c8",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "San Diego FC",
+      "away_team": "Colorado Rapids",
+      "commence_time": "2026-08-23T02:39:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.6,
+      "stake_pct": 5.0,
+      "confidence": 31,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T03:12:50.576738+00:00"
+    },
+    {
+      "state_key": "3694aa4b60ed1371baf2e5281f9880c8:h2h",
+      "event_id": "3694aa4b60ed1371baf2e5281f9880c8",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "San Diego FC",
+      "away_team": "Colorado Rapids",
+      "commence_time": "2026-08-23T02:39:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Colorado Rapids",
+      "odds_at_alert": 7.5,
+      "stake_pct": 5.0,
+      "confidence": 102,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T03:12:50.911983+00:00"
+    },
+    {
+      "state_key": "3694aa4b60ed1371baf2e5281f9880c8:h2h",
+      "event_id": "3694aa4b60ed1371baf2e5281f9880c8",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "San Diego FC",
+      "away_team": "Colorado Rapids",
+      "commence_time": "2026-08-23T02:39:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.25,
+      "stake_pct": 5.0,
+      "confidence": 21,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T03:12:51.281259+00:00"
+    },
+    {
+      "state_key": "3694aa4b60ed1371baf2e5281f9880c8:h2h",
+      "event_id": "3694aa4b60ed1371baf2e5281f9880c8",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "San Diego FC",
+      "away_team": "Colorado Rapids",
+      "commence_time": "2026-08-23T02:39:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Colorado Rapids",
+      "odds_at_alert": 8.0,
+      "stake_pct": 5.0,
+      "confidence": 116,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T03:12:51.632814+00:00"
+    },
+    {
+      "state_key": "3694aa4b60ed1371baf2e5281f9880c8:h2h",
+      "event_id": "3694aa4b60ed1371baf2e5281f9880c8",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "San Diego FC",
+      "away_team": "Colorado Rapids",
+      "commence_time": "2026-08-23T02:39:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.4,
+      "stake_pct": 5.0,
+      "confidence": 26,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T03:12:51.975490+00:00"
+    },
+    {
+      "state_key": "3694aa4b60ed1371baf2e5281f9880c8:h2h",
+      "event_id": "3694aa4b60ed1371baf2e5281f9880c8",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "San Diego FC",
+      "away_team": "Colorado Rapids",
+      "commence_time": "2026-08-23T02:39:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Colorado Rapids",
+      "odds_at_alert": 8.5,
+      "stake_pct": 5.0,
+      "confidence": 129,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T03:12:52.322806+00:00"
+    },
+    {
+      "state_key": "3694aa4b60ed1371baf2e5281f9880c8:h2h",
+      "event_id": "3694aa4b60ed1371baf2e5281f9880c8",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "San Diego FC",
+      "away_team": "Colorado Rapids",
+      "commence_time": "2026-08-23T02:39:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.6,
+      "stake_pct": 5.0,
+      "confidence": 31,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T03:12:52.668081+00:00"
+    },
+    {
+      "state_key": "3694aa4b60ed1371baf2e5281f9880c8:h2h",
+      "event_id": "3694aa4b60ed1371baf2e5281f9880c8",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "San Diego FC",
+      "away_team": "Colorado Rapids",
+      "commence_time": "2026-08-23T02:39:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Colorado Rapids",
+      "odds_at_alert": 7.5,
+      "stake_pct": 5.0,
+      "confidence": 102,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T03:12:53.004244+00:00"
+    },
+    {
+      "state_key": "3694aa4b60ed1371baf2e5281f9880c8:h2h",
+      "event_id": "3694aa4b60ed1371baf2e5281f9880c8",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "San Diego FC",
+      "away_team": "Colorado Rapids",
+      "commence_time": "2026-08-23T02:39:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.2,
+      "stake_pct": 5.0,
+      "confidence": 20,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T03:12:53.363939+00:00"
+    },
+    {
+      "state_key": "3694aa4b60ed1371baf2e5281f9880c8:h2h",
+      "event_id": "3694aa4b60ed1371baf2e5281f9880c8",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "San Diego FC",
+      "away_team": "Colorado Rapids",
+      "commence_time": "2026-08-23T02:39:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Colorado Rapids",
+      "odds_at_alert": 7.25,
+      "stake_pct": 5.0,
+      "confidence": 95,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T03:12:53.698905+00:00"
+    },
+    {
+      "state_key": "3694aa4b60ed1371baf2e5281f9880c8:h2h",
+      "event_id": "3694aa4b60ed1371baf2e5281f9880c8",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "San Diego FC",
+      "away_team": "Colorado Rapids",
+      "commence_time": "2026-08-23T02:39:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.3,
+      "stake_pct": 5.0,
+      "confidence": 23,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T03:12:54.084593+00:00"
+    },
+    {
+      "state_key": "3694aa4b60ed1371baf2e5281f9880c8:h2h",
+      "event_id": "3694aa4b60ed1371baf2e5281f9880c8",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "San Diego FC",
+      "away_team": "Colorado Rapids",
+      "commence_time": "2026-08-23T02:39:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Colorado Rapids",
+      "odds_at_alert": 7.0,
+      "stake_pct": 5.0,
+      "confidence": 89,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T03:12:54.493227+00:00"
+    },
+    {
+      "state_key": "3694aa4b60ed1371baf2e5281f9880c8:h2h",
+      "event_id": "3694aa4b60ed1371baf2e5281f9880c8",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "San Diego FC",
+      "away_team": "Colorado Rapids",
+      "commence_time": "2026-08-23T02:39:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.1,
+      "stake_pct": 5.0,
+      "confidence": 17,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T03:12:54.842839+00:00"
+    },
+    {
+      "state_key": "3694aa4b60ed1371baf2e5281f9880c8:h2h",
+      "event_id": "3694aa4b60ed1371baf2e5281f9880c8",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "San Diego FC",
+      "away_team": "Colorado Rapids",
+      "commence_time": "2026-08-23T02:39:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Colorado Rapids",
+      "odds_at_alert": 6.75,
+      "stake_pct": 5.0,
+      "confidence": 82,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T03:12:55.192527+00:00"
+    },
+    {
+      "state_key": "3694aa4b60ed1371baf2e5281f9880c8:h2h",
+      "event_id": "3694aa4b60ed1371baf2e5281f9880c8",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "San Diego FC",
+      "away_team": "Colorado Rapids",
+      "commence_time": "2026-08-23T02:39:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.25,
+      "stake_pct": 5.0,
+      "confidence": 21,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T03:12:55.544681+00:00"
+    },
+    {
+      "state_key": "3694aa4b60ed1371baf2e5281f9880c8:h2h",
+      "event_id": "3694aa4b60ed1371baf2e5281f9880c8",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "San Diego FC",
+      "away_team": "Colorado Rapids",
+      "commence_time": "2026-08-23T02:39:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Colorado Rapids",
+      "odds_at_alert": 9.0,
+      "stake_pct": 5.0,
+      "confidence": 142,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T03:12:55.896150+00:00"
+    },
+    {
+      "state_key": "3694aa4b60ed1371baf2e5281f9880c8:h2h",
+      "event_id": "3694aa4b60ed1371baf2e5281f9880c8",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "San Diego FC",
+      "away_team": "Colorado Rapids",
+      "commence_time": "2026-08-23T02:39:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.5,
+      "stake_pct": 5.0,
+      "confidence": 29,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T03:12:56.253131+00:00"
+    },
+    {
+      "state_key": "3694aa4b60ed1371baf2e5281f9880c8:h2h",
+      "event_id": "3694aa4b60ed1371baf2e5281f9880c8",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "San Diego FC",
+      "away_team": "Colorado Rapids",
+      "commence_time": "2026-08-23T02:39:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Colorado Rapids",
+      "odds_at_alert": 7.5,
+      "stake_pct": 5.0,
+      "confidence": 102,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T03:12:56.615450+00:00"
+    },
+    {
+      "state_key": "3694aa4b60ed1371baf2e5281f9880c8:h2h",
+      "event_id": "3694aa4b60ed1371baf2e5281f9880c8",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "San Diego FC",
+      "away_team": "Colorado Rapids",
+      "commence_time": "2026-08-23T02:39:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.2,
+      "stake_pct": 5.0,
+      "confidence": 20,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T03:12:56.956073+00:00"
+    },
+    {
+      "state_key": "3694aa4b60ed1371baf2e5281f9880c8:h2h",
+      "event_id": "3694aa4b60ed1371baf2e5281f9880c8",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "San Diego FC",
+      "away_team": "Colorado Rapids",
+      "commence_time": "2026-08-23T02:39:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Colorado Rapids",
+      "odds_at_alert": 9.4,
+      "stake_pct": 5.0,
+      "confidence": 153,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T03:12:57.300107+00:00"
+    },
+    {
+      "state_key": "3694aa4b60ed1371baf2e5281f9880c8:h2h",
+      "event_id": "3694aa4b60ed1371baf2e5281f9880c8",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "San Diego FC",
+      "away_team": "Colorado Rapids",
+      "commence_time": "2026-08-23T02:39:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.0,
+      "stake_pct": 5.0,
+      "confidence": 43,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T03:12:57.639136+00:00"
+    },
+    {
+      "state_key": "3694aa4b60ed1371baf2e5281f9880c8:h2h",
+      "event_id": "3694aa4b60ed1371baf2e5281f9880c8",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "San Diego FC",
+      "away_team": "Colorado Rapids",
+      "commence_time": "2026-08-23T02:39:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Colorado Rapids",
+      "odds_at_alert": 8.2,
+      "stake_pct": 5.0,
+      "confidence": 121,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T03:12:57.988408+00:00"
+    },
+    {
+      "state_key": "3694aa4b60ed1371baf2e5281f9880c8:h2h",
+      "event_id": "3694aa4b60ed1371baf2e5281f9880c8",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "San Diego FC",
+      "away_team": "Colorado Rapids",
+      "commence_time": "2026-08-23T02:39:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.6,
+      "stake_pct": 5.0,
+      "confidence": 31,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T03:12:58.339821+00:00"
+    },
+    {
+      "state_key": "3694aa4b60ed1371baf2e5281f9880c8:h2h",
+      "event_id": "3694aa4b60ed1371baf2e5281f9880c8",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "San Diego FC",
+      "away_team": "Colorado Rapids",
+      "commence_time": "2026-08-23T02:39:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Colorado Rapids",
+      "odds_at_alert": 8.6,
+      "stake_pct": 5.0,
+      "confidence": 132,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T03:12:58.695272+00:00"
+    },
+    {
+      "state_key": "3694aa4b60ed1371baf2e5281f9880c8:h2h",
+      "event_id": "3694aa4b60ed1371baf2e5281f9880c8",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "San Diego FC",
+      "away_team": "Colorado Rapids",
+      "commence_time": "2026-08-23T02:39:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.6,
+      "stake_pct": 5.0,
+      "confidence": 31,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T03:12:59.040186+00:00"
+    },
+    {
+      "state_key": "3694aa4b60ed1371baf2e5281f9880c8:h2h",
+      "event_id": "3694aa4b60ed1371baf2e5281f9880c8",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "San Diego FC",
+      "away_team": "Colorado Rapids",
+      "commence_time": "2026-08-23T02:39:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Colorado Rapids",
+      "odds_at_alert": 8.5,
+      "stake_pct": 5.0,
+      "confidence": 129,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T03:12:59.390083+00:00"
+    },
+    {
+      "state_key": "3694aa4b60ed1371baf2e5281f9880c8:h2h",
+      "event_id": "3694aa4b60ed1371baf2e5281f9880c8",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "San Diego FC",
+      "away_team": "Colorado Rapids",
+      "commence_time": "2026-08-23T02:39:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.7,
+      "stake_pct": 5.0,
+      "confidence": 34,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T03:12:59.752898+00:00"
+    },
+    {
+      "state_key": "3694aa4b60ed1371baf2e5281f9880c8:h2h",
+      "event_id": "3694aa4b60ed1371baf2e5281f9880c8",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "San Diego FC",
+      "away_team": "Colorado Rapids",
+      "commence_time": "2026-08-23T02:39:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Colorado Rapids",
+      "odds_at_alert": 9.4,
+      "stake_pct": 5.0,
+      "confidence": 153,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T03:13:00.129549+00:00"
+    },
+    {
+      "state_key": "3694aa4b60ed1371baf2e5281f9880c8:h2h",
+      "event_id": "3694aa4b60ed1371baf2e5281f9880c8",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "San Diego FC",
+      "away_team": "Colorado Rapids",
+      "commence_time": "2026-08-23T02:39:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.1,
+      "stake_pct": 5.0,
+      "confidence": 46,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T03:13:00.484874+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "3701cb093d422511ebc94393025122b6:h2h|888sport|Draw",
-    "3701cb093d422511ebc94393025122b6:h2h|888sport|Universidad Católica (CHI)",
-    "3701cb093d422511ebc94393025122b6:h2h|Betfair|Draw",
-    "3701cb093d422511ebc94393025122b6:h2h|Betfair|Universidad Católica (CHI)",
-    "3701cb093d422511ebc94393025122b6:h2h|Betsson|Draw",
-    "3701cb093d422511ebc94393025122b6:h2h|Betsson|Universidad Católica (CHI)",
-    "3701cb093d422511ebc94393025122b6:h2h|Coolbet|Draw",
-    "3701cb093d422511ebc94393025122b6:h2h|Coolbet|Universidad Católica (CHI)",
-    "3701cb093d422511ebc94393025122b6:h2h|Nordic Bet|Draw",
-    "3701cb093d422511ebc94393025122b6:h2h|Nordic Bet|Universidad Católica (CHI)",
-    "3701cb093d422511ebc94393025122b6:h2h|Tipico|Draw",
-    "3701cb093d422511ebc94393025122b6:h2h|Tipico|Universidad Católica (CHI)",
-    "3701cb093d422511ebc94393025122b6:h2h|Winamax (DE)|Draw",
-    "3701cb093d422511ebc94393025122b6:h2h|Winamax (DE)|Universidad Católica (CHI)",
-    "3701cb093d422511ebc94393025122b6:h2h|Winamax (FR)|Draw",
-    "3701cb093d422511ebc94393025122b6:h2h|Winamax (FR)|Universidad Católica (CHI)",
-    "931992fa9714b3b28d895f2367a89348:h2h|Betclic (FR)|Atlético Huracán",
-    "931992fa9714b3b28d895f2367a89348:h2h|Betclic (FR)|Deportivo Riestra",
-    "931992fa9714b3b28d895f2367a89348:h2h|Betsson|Atlético Huracán",
-    "931992fa9714b3b28d895f2367a89348:h2h|Betsson|Deportivo Riestra",
-    "931992fa9714b3b28d895f2367a89348:h2h|LeoVegas (SE)|Atlético Huracán",
-    "931992fa9714b3b28d895f2367a89348:h2h|LeoVegas (SE)|Deportivo Riestra",
-    "931992fa9714b3b28d895f2367a89348:h2h|Nordic Bet|Atlético Huracán",
-    "931992fa9714b3b28d895f2367a89348:h2h|Nordic Bet|Deportivo Riestra",
-    "931992fa9714b3b28d895f2367a89348:h2h|Unibet (SE)|Atlético Huracán",
-    "931992fa9714b3b28d895f2367a89348:h2h|Unibet (SE)|Deportivo Riestra",
-    "931992fa9714b3b28d895f2367a89348:h2h|Winamax (DE)|Atlético Huracán",
-    "931992fa9714b3b28d895f2367a89348:h2h|Winamax (DE)|Deportivo Riestra",
-    "931992fa9714b3b28d895f2367a89348:h2h|Winamax (FR)|Atlético Huracán",
-    "931992fa9714b3b28d895f2367a89348:h2h|Winamax (FR)|Deportivo Riestra",
-    "a59435c8f186d183eaf572f25af86e5c:h2h|Betfair|Columbus Crew SC",
-    "a59435c8f186d183eaf572f25af86e5c:h2h|Betfair|Draw",
-    "a59435c8f186d183eaf572f25af86e5c:h2h|Matchbook|Columbus Crew SC",
-    "a59435c8f186d183eaf572f25af86e5c:h2h|Matchbook|Draw"
+    "3694aa4b60ed1371baf2e5281f9880c8:h2h|888sport|Colorado Rapids",
+    "3694aa4b60ed1371baf2e5281f9880c8:h2h|888sport|Draw",
+    "3694aa4b60ed1371baf2e5281f9880c8:h2h|Betclic (FR)|Colorado Rapids",
+    "3694aa4b60ed1371baf2e5281f9880c8:h2h|Betclic (FR)|Draw",
+    "3694aa4b60ed1371baf2e5281f9880c8:h2h|Betfair|Colorado Rapids",
+    "3694aa4b60ed1371baf2e5281f9880c8:h2h|Betfair|Draw",
+    "3694aa4b60ed1371baf2e5281f9880c8:h2h|Betsson|Colorado Rapids",
+    "3694aa4b60ed1371baf2e5281f9880c8:h2h|Betsson|Draw",
+    "3694aa4b60ed1371baf2e5281f9880c8:h2h|Coolbet|Colorado Rapids",
+    "3694aa4b60ed1371baf2e5281f9880c8:h2h|Coolbet|Draw",
+    "3694aa4b60ed1371baf2e5281f9880c8:h2h|LeoVegas (SE)|Colorado Rapids",
+    "3694aa4b60ed1371baf2e5281f9880c8:h2h|LeoVegas (SE)|Draw",
+    "3694aa4b60ed1371baf2e5281f9880c8:h2h|Matchbook|Colorado Rapids",
+    "3694aa4b60ed1371baf2e5281f9880c8:h2h|Matchbook|Draw",
+    "3694aa4b60ed1371baf2e5281f9880c8:h2h|MyBookie.ag|Colorado Rapids",
+    "3694aa4b60ed1371baf2e5281f9880c8:h2h|MyBookie.ag|Draw",
+    "3694aa4b60ed1371baf2e5281f9880c8:h2h|Nordic Bet|Colorado Rapids",
+    "3694aa4b60ed1371baf2e5281f9880c8:h2h|Nordic Bet|Draw",
+    "3694aa4b60ed1371baf2e5281f9880c8:h2h|PMU (FR)|Colorado Rapids",
+    "3694aa4b60ed1371baf2e5281f9880c8:h2h|PMU (FR)|Draw",
+    "3694aa4b60ed1371baf2e5281f9880c8:h2h|Tipico|Colorado Rapids",
+    "3694aa4b60ed1371baf2e5281f9880c8:h2h|Tipico|Draw",
+    "3694aa4b60ed1371baf2e5281f9880c8:h2h|Unibet (NL)|Colorado Rapids",
+    "3694aa4b60ed1371baf2e5281f9880c8:h2h|Unibet (NL)|Draw",
+    "3694aa4b60ed1371baf2e5281f9880c8:h2h|Unibet (SE)|Colorado Rapids",
+    "3694aa4b60ed1371baf2e5281f9880c8:h2h|Unibet (SE)|Draw",
+    "3694aa4b60ed1371baf2e5281f9880c8:h2h|Winamax (DE)|Colorado Rapids",
+    "3694aa4b60ed1371baf2e5281f9880c8:h2h|Winamax (DE)|Draw",
+    "3694aa4b60ed1371baf2e5281f9880c8:h2h|Winamax (FR)|Colorado Rapids",
+    "3694aa4b60ed1371baf2e5281f9880c8:h2h|Winamax (FR)|Draw",
+    "8db4ded3b88d8974f261c9e2c7eee67c:h2h|888sport|Austin FC",
+    "8db4ded3b88d8974f261c9e2c7eee67c:h2h|888sport|Philadelphia Union",
+    "8db4ded3b88d8974f261c9e2c7eee67c:h2h|Betclic (FR)|Austin FC",
+    "8db4ded3b88d8974f261c9e2c7eee67c:h2h|Betclic (FR)|Philadelphia Union",
+    "8db4ded3b88d8974f261c9e2c7eee67c:h2h|Betsson|Austin FC",
+    "8db4ded3b88d8974f261c9e2c7eee67c:h2h|Betsson|Philadelphia Union",
+    "8db4ded3b88d8974f261c9e2c7eee67c:h2h|Coolbet|Austin FC",
+    "8db4ded3b88d8974f261c9e2c7eee67c:h2h|Coolbet|Philadelphia Union",
+    "8db4ded3b88d8974f261c9e2c7eee67c:h2h|LeoVegas (SE)|Austin FC",
+    "8db4ded3b88d8974f261c9e2c7eee67c:h2h|LeoVegas (SE)|Philadelphia Union",
+    "8db4ded3b88d8974f261c9e2c7eee67c:h2h|MyBookie.ag|Austin FC",
+    "8db4ded3b88d8974f261c9e2c7eee67c:h2h|MyBookie.ag|Philadelphia Union",
+    "8db4ded3b88d8974f261c9e2c7eee67c:h2h|Nordic Bet|Austin FC",
+    "8db4ded3b88d8974f261c9e2c7eee67c:h2h|Nordic Bet|Philadelphia Union",
+    "8db4ded3b88d8974f261c9e2c7eee67c:h2h|PMU (FR)|Austin FC",
+    "8db4ded3b88d8974f261c9e2c7eee67c:h2h|PMU (FR)|Philadelphia Union",
+    "8db4ded3b88d8974f261c9e2c7eee67c:h2h|Tipico|Austin FC",
+    "8db4ded3b88d8974f261c9e2c7eee67c:h2h|Tipico|Philadelphia Union",
+    "8db4ded3b88d8974f261c9e2c7eee67c:h2h|Unibet (NL)|Austin FC",
+    "8db4ded3b88d8974f261c9e2c7eee67c:h2h|Unibet (NL)|Philadelphia Union",
+    "8db4ded3b88d8974f261c9e2c7eee67c:h2h|Unibet (SE)|Austin FC",
+    "8db4ded3b88d8974f261c9e2c7eee67c:h2h|Unibet (SE)|Philadelphia Union",
+    "8db4ded3b88d8974f261c9e2c7eee67c:h2h|Winamax (DE)|Austin FC",
+    "8db4ded3b88d8974f261c9e2c7eee67c:h2h|Winamax (DE)|Philadelphia Union",
+    "8db4ded3b88d8974f261c9e2c7eee67c:h2h|Winamax (FR)|Austin FC",
+    "8db4ded3b88d8974f261c9e2c7eee67c:h2h|Winamax (FR)|Philadelphia Union"
   ]
 }
