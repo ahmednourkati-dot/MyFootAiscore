@@ -1,196 +1,206 @@
 {
   "snapshots": {
-    "8db4ded3b88d8974f261c9e2c7eee67c:h2h": {
-      "Unibet (SE)": {
-        "Austin FC": 36.0,
-        "Philadelphia Union": 26.0,
-        "Draw": 1.03
-      },
-      "LeoVegas (SE)": {
-        "Austin FC": 18.0,
-        "Philadelphia Union": 13.0,
-        "Draw": 1.03
-      },
-      "Unibet (NL)": {
-        "Austin FC": 18.0,
-        "Philadelphia Union": 13.0,
-        "Draw": 1.04
-      },
-      "PMU (FR)": {
-        "Austin FC": 14.0,
-        "Philadelphia Union": 9.0,
-        "Draw": 1.03
-      },
-      "Winamax (DE)": {
-        "Austin FC": 10.0,
-        "Philadelphia Union": 8.5,
-        "Draw": 1.14
-      },
-      "Winamax (FR)": {
-        "Austin FC": 14.5,
-        "Philadelphia Union": 14.0,
-        "Draw": 1.09
-      },
-      "Betclic (FR)": {
-        "Austin FC": 11.0,
-        "Philadelphia Union": 11.75,
-        "Draw": 1.06
-      },
-      "MyBookie.ag": {
-        "Austin FC": 7.75,
-        "Philadelphia Union": 6.25,
-        "Draw": 1.15
-      },
-      "Coolbet": {
-        "Austin FC": 20.0,
-        "Philadelphia Union": 20.0,
-        "Draw": 1.03
-      },
-      "888sport": {
-        "Austin FC": 11.0,
-        "Philadelphia Union": 10.0,
-        "Draw": 1.11
-      },
-      "Betfair": {
-        "Austin FC": 1.01,
-        "Philadelphia Union": 1.01,
-        "Draw": 1.01
-      },
-      "Nordic Bet": {
-        "Austin FC": 23.0,
-        "Philadelphia Union": 26.0,
-        "Draw": 1.01
-      },
-      "Betsson": {
-        "Austin FC": 23.0,
-        "Philadelphia Union": 26.0,
-        "Draw": 1.01
-      },
-      "Pinnacle": {
-        "Austin FC": 6.61,
-        "Philadelphia Union": 5.22,
-        "Draw": 1.38
-      },
-      "Tipico": {
-        "Austin FC": 13.0,
-        "Philadelphia Union": 14.0,
-        "Draw": 1.06
-      }
-    },
-    "f756688d76a912ef432b248f697008a8:h2h": {
-      "Nordic Bet": {
-        "Guadalajara": 1.0,
-        "Tijuana": 26.0,
-        "Draw": 26.0
-      },
-      "Betsson": {
-        "Guadalajara": 1.0,
-        "Tijuana": 26.0,
-        "Draw": 26.0
-      },
-      "Betclic (FR)": {
-        "Guadalajara": 1.0,
-        "Tijuana": 100.0,
-        "Draw": 40.0
-      }
-    },
-    "f95f8dcfc80fb5adce73941310bfb690:h2h": {
-      "Betclic (FR)": {
-        "FC Dallas": 85.0,
-        "Vancouver Whitecaps FC": 1.0,
-        "Draw": 8.75
-      },
-      "Betsson": {
-        "FC Dallas": 26.0,
-        "Vancouver Whitecaps FC": 1.0,
-        "Draw": 26.0
-      },
-      "Nordic Bet": {
-        "FC Dallas": 29.0,
-        "Vancouver Whitecaps FC": 1.0,
-        "Draw": 26.0
-      }
-    },
     "3694aa4b60ed1371baf2e5281f9880c8:h2h": {
-      "Unibet (NL)": {
-        "Colorado Rapids": 8.5,
-        "San Diego FC": 1.35,
-        "Draw": 4.6
-      },
-      "PMU (FR)": {
-        "Colorado Rapids": 7.5,
-        "San Diego FC": 1.26,
-        "Draw": 4.25
-      },
-      "LeoVegas (SE)": {
-        "Colorado Rapids": 8.0,
-        "San Diego FC": 1.32,
-        "Draw": 4.4
-      },
-      "Unibet (SE)": {
-        "Colorado Rapids": 8.5,
-        "San Diego FC": 1.35,
-        "Draw": 4.6
-      },
-      "Betclic (FR)": {
-        "Colorado Rapids": 7.5,
-        "San Diego FC": 1.34,
-        "Draw": 4.2
-      },
-      "Winamax (DE)": {
-        "Colorado Rapids": 7.25,
-        "San Diego FC": 1.36,
-        "Draw": 4.3
-      },
-      "Winamax (FR)": {
-        "Colorado Rapids": 7.0,
-        "San Diego FC": 1.36,
-        "Draw": 4.1
-      },
-      "MyBookie.ag": {
-        "Colorado Rapids": 6.75,
-        "San Diego FC": 1.4,
-        "Draw": 4.25
-      },
-      "Coolbet": {
-        "Colorado Rapids": 9.0,
-        "San Diego FC": 1.33,
-        "Draw": 4.5
-      },
-      "888sport": {
-        "Colorado Rapids": 7.5,
-        "San Diego FC": 1.36,
-        "Draw": 4.2
-      },
-      "Betfair": {
-        "Colorado Rapids": 9.4,
-        "San Diego FC": 1.42,
-        "Draw": 5.0
-      },
       "Nordic Bet": {
-        "Colorado Rapids": 8.2,
-        "San Diego FC": 1.31,
-        "Draw": 4.6
+        "Colorado Rapids": 26.0,
+        "San Diego FC": 1.0,
+        "Draw": 26.0
       },
       "Betsson": {
-        "Colorado Rapids": 8.6,
-        "San Diego FC": 1.31,
-        "Draw": 4.6
+        "Colorado Rapids": 26.0,
+        "San Diego FC": 1.0,
+        "Draw": 26.0
+      }
+    },
+    "08207d358ea47de89653ebc1f9250230:h2h": {
+      "Unibet (SE)": {
+        "Atlas": 1.02,
+        "Cruz Azul": 91.0,
+        "Draw": 17.0
+      },
+      "Unibet (NL)": {
+        "Atlas": 1.02,
+        "Cruz Azul": 91.0,
+        "Draw": 17.0
+      },
+      "Nordic Bet": {
+        "Atlas": 1.02,
+        "Cruz Azul": 50.0,
+        "Draw": 13.0
+      },
+      "Betsson": {
+        "Atlas": 1.02,
+        "Cruz Azul": 50.0,
+        "Draw": 13.0
+      },
+      "Betclic (FR)": {
+        "Atlas": 1.01,
+        "Cruz Azul": 40.0,
+        "Draw": 11.25
+      },
+      "Coolbet": {
+        "Atlas": 1.04,
+        "Cruz Azul": 80.0,
+        "Draw": 16.0
+      },
+      "888sport": {
+        "Atlas": 1.03,
+        "Cruz Azul": 61.0,
+        "Draw": 13.0
       },
       "Pinnacle": {
-        "Colorado Rapids": 3.5,
-        "San Diego FC": 2.12,
-        "Draw": 3.3
+        "Atlas": 1.12,
+        "Cruz Azul": 29.06,
+        "Draw": 8.41
       },
-      "Tipico": {
-        "Colorado Rapids": 8.5,
-        "San Diego FC": 1.3,
-        "Draw": 4.7
+      "Betfair": {
+        "Atlas": 1.06,
+        "Cruz Azul": 100.0,
+        "Draw": 17.0
       },
       "Matchbook": {
-        "Colorado Rapids": 9.4,
-        "San Diego FC": 1.35,
-        "Draw": 5.1
+        "Atlas": 1.03,
+        "Cruz Azul": 17.5,
+        "Draw": 21.0
+      }
+    },
+    "08437a1f283778e1275cf13d9555c840:h2h": {
+      "Pinnacle": {
+        "FC Akron Tolyatti": 2.77,
+        "Kryliya Sovetov": 2.62,
+        "Draw": 3.45
+      },
+      "1xBet": {
+        "FC Akron Tolyatti": 2.83,
+        "Kryliya Sovetov": 2.67,
+        "Draw": 3.48
+      },
+      "BetOnline.ag": {
+        "FC Akron Tolyatti": 2.68,
+        "Kryliya Sovetov": 2.6,
+        "Draw": 3.3
+      }
+    },
+    "1732c45e8db6c75b709075cbb0373c9f:h2h": {
+      "Unibet (FR)": {
+        "FC Nordsjaelland": 1.63,
+        "SonderjyskE": 4.05,
+        "Draw": 4.05
+      },
+      "Betsson": {
+        "FC Nordsjaelland": 1.72,
+        "SonderjyskE": 4.2,
+        "Draw": 4.0
+      },
+      "Codere (IT)": {
+        "FC Nordsjaelland": 1.73,
+        "SonderjyskE": 4.2,
+        "Draw": 4.1
+      },
+      "Winamax (FR)": {
+        "FC Nordsjaelland": 1.66,
+        "SonderjyskE": 3.8,
+        "Draw": 4.0
+      },
+      "Nordic Bet": {
+        "FC Nordsjaelland": 1.72,
+        "SonderjyskE": 4.2,
+        "Draw": 4.0
+      },
+      "1xBet": {
+        "FC Nordsjaelland": 1.71,
+        "SonderjyskE": 4.16,
+        "Draw": 4.2
+      },
+      "Winamax (DE)": {
+        "FC Nordsjaelland": 1.68,
+        "SonderjyskE": 3.9,
+        "Draw": 4.1
+      },
+      "Suprabets": {
+        "FC Nordsjaelland": 1.7,
+        "SonderjyskE": 4.1,
+        "Draw": 4.2
+      },
+      "Betclic (FR)": {
+        "FC Nordsjaelland": 1.66,
+        "SonderjyskE": 4.05,
+        "Draw": 4.0
+      },
+      "Betfair": {
+        "FC Nordsjaelland": 1.78,
+        "SonderjyskE": 4.4,
+        "Draw": 4.5
+      },
+      "Marathon Bet": {
+        "FC Nordsjaelland": 1.69,
+        "SonderjyskE": 4.2,
+        "Draw": 4.2
+      },
+      "888sport": {
+        "FC Nordsjaelland": 1.75,
+        "SonderjyskE": 3.9,
+        "Draw": 4.0
+      },
+      "William Hill": {
+        "FC Nordsjaelland": 1.73,
+        "SonderjyskE": 3.8,
+        "Draw": 4.0
+      },
+      "Unibet (NL)": {
+        "FC Nordsjaelland": 1.75,
+        "SonderjyskE": 4.0,
+        "Draw": 3.95
+      },
+      "LeoVegas (SE)": {
+        "FC Nordsjaelland": 1.7,
+        "SonderjyskE": 3.8,
+        "Draw": 3.75
+      },
+      "Unibet (SE)": {
+        "FC Nordsjaelland": 1.75,
+        "SonderjyskE": 4.0,
+        "Draw": 3.95
+      },
+      "PMU (FR)": {
+        "FC Nordsjaelland": 1.68,
+        "SonderjyskE": 3.75,
+        "Draw": 3.75
+      },
+      "GTbets": {
+        "FC Nordsjaelland": 1.75,
+        "SonderjyskE": 4.1,
+        "Draw": 3.98
+      },
+      "BetOnline.ag": {
+        "FC Nordsjaelland": 1.73,
+        "SonderjyskE": 4.1,
+        "Draw": 4.3
+      },
+      "Tipico": {
+        "FC Nordsjaelland": 1.65,
+        "SonderjyskE": 4.1,
+        "Draw": 4.2
+      },
+      "Pinnacle": {
+        "FC Nordsjaelland": 1.74,
+        "SonderjyskE": 4.25,
+        "Draw": 4.45
+      },
+      "Coolbet": {
+        "FC Nordsjaelland": 1.75,
+        "SonderjyskE": 4.0,
+        "Draw": 4.3
+      },
+      "BetAnything": {
+        "FC Nordsjaelland": 1.73,
+        "SonderjyskE": 4.1,
+        "Draw": 4.3
+      },
+      "Matchbook": {
+        "FC Nordsjaelland": 1.78,
+        "SonderjyskE": 4.4,
+        "Draw": 4.5
       }
     }
   },
@@ -9971,10 +9981,299 @@
       "confidence": 46,
       "alert_type": "value",
       "alerted_at": "2026-08-23T03:13:00.484874+00:00"
+    },
+    {
+      "state_key": "08207d358ea47de89653ebc1f9250230:h2h",
+      "event_id": "08207d358ea47de89653ebc1f9250230",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Cruz Azul",
+      "away_team": "Atlas",
+      "commence_time": "2026-08-23T03:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cruz Azul",
+      "odds_at_alert": 91.0,
+      "stake_pct": 5.0,
+      "confidence": 199,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T04:48:37.923031+00:00"
+    },
+    {
+      "state_key": "08207d358ea47de89653ebc1f9250230:h2h",
+      "event_id": "08207d358ea47de89653ebc1f9250230",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Cruz Azul",
+      "away_team": "Atlas",
+      "commence_time": "2026-08-23T03:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 93,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T04:48:38.252938+00:00"
+    },
+    {
+      "state_key": "08207d358ea47de89653ebc1f9250230:h2h",
+      "event_id": "08207d358ea47de89653ebc1f9250230",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Cruz Azul",
+      "away_team": "Atlas",
+      "commence_time": "2026-08-23T03:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cruz Azul",
+      "odds_at_alert": 91.0,
+      "stake_pct": 5.0,
+      "confidence": 199,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T04:48:38.580233+00:00"
+    },
+    {
+      "state_key": "08207d358ea47de89653ebc1f9250230:h2h",
+      "event_id": "08207d358ea47de89653ebc1f9250230",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Cruz Azul",
+      "away_team": "Atlas",
+      "commence_time": "2026-08-23T03:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 93,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T04:48:38.900899+00:00"
+    },
+    {
+      "state_key": "08207d358ea47de89653ebc1f9250230:h2h",
+      "event_id": "08207d358ea47de89653ebc1f9250230",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Cruz Azul",
+      "away_team": "Atlas",
+      "commence_time": "2026-08-23T03:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cruz Azul",
+      "odds_at_alert": 50.0,
+      "stake_pct": 5.0,
+      "confidence": 64,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T04:48:39.244382+00:00"
+    },
+    {
+      "state_key": "08207d358ea47de89653ebc1f9250230:h2h",
+      "event_id": "08207d358ea47de89653ebc1f9250230",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Cruz Azul",
+      "away_team": "Atlas",
+      "commence_time": "2026-08-23T03:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 48,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T04:48:39.585485+00:00"
+    },
+    {
+      "state_key": "08207d358ea47de89653ebc1f9250230:h2h",
+      "event_id": "08207d358ea47de89653ebc1f9250230",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Cruz Azul",
+      "away_team": "Atlas",
+      "commence_time": "2026-08-23T03:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cruz Azul",
+      "odds_at_alert": 50.0,
+      "stake_pct": 5.0,
+      "confidence": 64,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T04:48:39.918079+00:00"
+    },
+    {
+      "state_key": "08207d358ea47de89653ebc1f9250230:h2h",
+      "event_id": "08207d358ea47de89653ebc1f9250230",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Cruz Azul",
+      "away_team": "Atlas",
+      "commence_time": "2026-08-23T03:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 48,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T04:48:40.252305+00:00"
+    },
+    {
+      "state_key": "08207d358ea47de89653ebc1f9250230:h2h",
+      "event_id": "08207d358ea47de89653ebc1f9250230",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Cruz Azul",
+      "away_team": "Atlas",
+      "commence_time": "2026-08-23T03:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cruz Azul",
+      "odds_at_alert": 40.0,
+      "stake_pct": 5.0,
+      "confidence": 32,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T04:48:40.578771+00:00"
+    },
+    {
+      "state_key": "08207d358ea47de89653ebc1f9250230:h2h",
+      "event_id": "08207d358ea47de89653ebc1f9250230",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Cruz Azul",
+      "away_team": "Atlas",
+      "commence_time": "2026-08-23T03:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 11.25,
+      "stake_pct": 5.0,
+      "confidence": 28,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T04:48:40.904792+00:00"
+    },
+    {
+      "state_key": "08207d358ea47de89653ebc1f9250230:h2h",
+      "event_id": "08207d358ea47de89653ebc1f9250230",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Cruz Azul",
+      "away_team": "Atlas",
+      "commence_time": "2026-08-23T03:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cruz Azul",
+      "odds_at_alert": 80.0,
+      "stake_pct": 5.0,
+      "confidence": 163,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T04:48:41.223041+00:00"
+    },
+    {
+      "state_key": "08207d358ea47de89653ebc1f9250230:h2h",
+      "event_id": "08207d358ea47de89653ebc1f9250230",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Cruz Azul",
+      "away_team": "Atlas",
+      "commence_time": "2026-08-23T03:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 16.0,
+      "stake_pct": 5.0,
+      "confidence": 82,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T04:48:41.551060+00:00"
+    },
+    {
+      "state_key": "08207d358ea47de89653ebc1f9250230:h2h",
+      "event_id": "08207d358ea47de89653ebc1f9250230",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Cruz Azul",
+      "away_team": "Atlas",
+      "commence_time": "2026-08-23T03:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cruz Azul",
+      "odds_at_alert": 61.0,
+      "stake_pct": 5.0,
+      "confidence": 101,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T04:48:41.875972+00:00"
+    },
+    {
+      "state_key": "08207d358ea47de89653ebc1f9250230:h2h",
+      "event_id": "08207d358ea47de89653ebc1f9250230",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Cruz Azul",
+      "away_team": "Atlas",
+      "commence_time": "2026-08-23T03:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 48,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T04:48:42.201230+00:00"
+    },
+    {
+      "state_key": "08207d358ea47de89653ebc1f9250230:h2h",
+      "event_id": "08207d358ea47de89653ebc1f9250230",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Cruz Azul",
+      "away_team": "Atlas",
+      "commence_time": "2026-08-23T03:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cruz Azul",
+      "odds_at_alert": 100.0,
+      "stake_pct": 5.0,
+      "confidence": 229,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T04:48:42.524785+00:00"
+    },
+    {
+      "state_key": "08207d358ea47de89653ebc1f9250230:h2h",
+      "event_id": "08207d358ea47de89653ebc1f9250230",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Cruz Azul",
+      "away_team": "Atlas",
+      "commence_time": "2026-08-23T03:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 93,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T04:48:42.844602+00:00"
+    },
+    {
+      "state_key": "08207d358ea47de89653ebc1f9250230:h2h",
+      "event_id": "08207d358ea47de89653ebc1f9250230",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Cruz Azul",
+      "away_team": "Atlas",
+      "commence_time": "2026-08-23T03:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 21.0,
+      "stake_pct": 5.0,
+      "confidence": 139,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T04:48:43.184030+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
+    "08207d358ea47de89653ebc1f9250230:h2h|888sport|Cruz Azul",
+    "08207d358ea47de89653ebc1f9250230:h2h|888sport|Draw",
+    "08207d358ea47de89653ebc1f9250230:h2h|Betclic (FR)|Cruz Azul",
+    "08207d358ea47de89653ebc1f9250230:h2h|Betclic (FR)|Draw",
+    "08207d358ea47de89653ebc1f9250230:h2h|Betfair|Cruz Azul",
+    "08207d358ea47de89653ebc1f9250230:h2h|Betfair|Draw",
+    "08207d358ea47de89653ebc1f9250230:h2h|Betsson|Cruz Azul",
+    "08207d358ea47de89653ebc1f9250230:h2h|Betsson|Draw",
+    "08207d358ea47de89653ebc1f9250230:h2h|Coolbet|Cruz Azul",
+    "08207d358ea47de89653ebc1f9250230:h2h|Coolbet|Draw",
+    "08207d358ea47de89653ebc1f9250230:h2h|Matchbook|Draw",
+    "08207d358ea47de89653ebc1f9250230:h2h|Nordic Bet|Cruz Azul",
+    "08207d358ea47de89653ebc1f9250230:h2h|Nordic Bet|Draw",
+    "08207d358ea47de89653ebc1f9250230:h2h|Unibet (NL)|Cruz Azul",
+    "08207d358ea47de89653ebc1f9250230:h2h|Unibet (NL)|Draw",
+    "08207d358ea47de89653ebc1f9250230:h2h|Unibet (SE)|Cruz Azul",
+    "08207d358ea47de89653ebc1f9250230:h2h|Unibet (SE)|Draw",
     "3694aa4b60ed1371baf2e5281f9880c8:h2h|888sport|Colorado Rapids",
     "3694aa4b60ed1371baf2e5281f9880c8:h2h|888sport|Draw",
     "3694aa4b60ed1371baf2e5281f9880c8:h2h|Betclic (FR)|Colorado Rapids",
@@ -10004,32 +10303,6 @@
     "3694aa4b60ed1371baf2e5281f9880c8:h2h|Winamax (DE)|Colorado Rapids",
     "3694aa4b60ed1371baf2e5281f9880c8:h2h|Winamax (DE)|Draw",
     "3694aa4b60ed1371baf2e5281f9880c8:h2h|Winamax (FR)|Colorado Rapids",
-    "3694aa4b60ed1371baf2e5281f9880c8:h2h|Winamax (FR)|Draw",
-    "8db4ded3b88d8974f261c9e2c7eee67c:h2h|888sport|Austin FC",
-    "8db4ded3b88d8974f261c9e2c7eee67c:h2h|888sport|Philadelphia Union",
-    "8db4ded3b88d8974f261c9e2c7eee67c:h2h|Betclic (FR)|Austin FC",
-    "8db4ded3b88d8974f261c9e2c7eee67c:h2h|Betclic (FR)|Philadelphia Union",
-    "8db4ded3b88d8974f261c9e2c7eee67c:h2h|Betsson|Austin FC",
-    "8db4ded3b88d8974f261c9e2c7eee67c:h2h|Betsson|Philadelphia Union",
-    "8db4ded3b88d8974f261c9e2c7eee67c:h2h|Coolbet|Austin FC",
-    "8db4ded3b88d8974f261c9e2c7eee67c:h2h|Coolbet|Philadelphia Union",
-    "8db4ded3b88d8974f261c9e2c7eee67c:h2h|LeoVegas (SE)|Austin FC",
-    "8db4ded3b88d8974f261c9e2c7eee67c:h2h|LeoVegas (SE)|Philadelphia Union",
-    "8db4ded3b88d8974f261c9e2c7eee67c:h2h|MyBookie.ag|Austin FC",
-    "8db4ded3b88d8974f261c9e2c7eee67c:h2h|MyBookie.ag|Philadelphia Union",
-    "8db4ded3b88d8974f261c9e2c7eee67c:h2h|Nordic Bet|Austin FC",
-    "8db4ded3b88d8974f261c9e2c7eee67c:h2h|Nordic Bet|Philadelphia Union",
-    "8db4ded3b88d8974f261c9e2c7eee67c:h2h|PMU (FR)|Austin FC",
-    "8db4ded3b88d8974f261c9e2c7eee67c:h2h|PMU (FR)|Philadelphia Union",
-    "8db4ded3b88d8974f261c9e2c7eee67c:h2h|Tipico|Austin FC",
-    "8db4ded3b88d8974f261c9e2c7eee67c:h2h|Tipico|Philadelphia Union",
-    "8db4ded3b88d8974f261c9e2c7eee67c:h2h|Unibet (NL)|Austin FC",
-    "8db4ded3b88d8974f261c9e2c7eee67c:h2h|Unibet (NL)|Philadelphia Union",
-    "8db4ded3b88d8974f261c9e2c7eee67c:h2h|Unibet (SE)|Austin FC",
-    "8db4ded3b88d8974f261c9e2c7eee67c:h2h|Unibet (SE)|Philadelphia Union",
-    "8db4ded3b88d8974f261c9e2c7eee67c:h2h|Winamax (DE)|Austin FC",
-    "8db4ded3b88d8974f261c9e2c7eee67c:h2h|Winamax (DE)|Philadelphia Union",
-    "8db4ded3b88d8974f261c9e2c7eee67c:h2h|Winamax (FR)|Austin FC",
-    "8db4ded3b88d8974f261c9e2c7eee67c:h2h|Winamax (FR)|Philadelphia Union"
+    "3694aa4b60ed1371baf2e5281f9880c8:h2h|Winamax (FR)|Draw"
   ]
 }
