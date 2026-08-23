@@ -1,216 +1,161 @@
 {
   "snapshots": {
-    "6136982582bb9299f702eea2e30d03c3:h2h": {
-      "Betfair": {
-        "Cercle Brugge KSV": 1000.0,
-        "Club Brugge": 1.01,
-        "Draw": 50.0
-      }
-    },
-    "f2634db48eaf6526793cfc48047b540b:h2h": {
+    "6b3b41cc7aa2f7ce5b45065e9cf2a78f:h2h": {
+      "Coolbet": {
+        "Alanyaspor": 1.04,
+        "Besiktas JK": 1000.0,
+        "Draw": 13.0
+      },
+      "Nordic Bet": {
+        "Alanyaspor": 1.12,
+        "Besiktas JK": 65.0,
+        "Draw": 6.3
+      },
+      "Winamax (FR)": {
+        "Alanyaspor": 1.05,
+        "Besiktas JK": 1000.0,
+        "Draw": 12.0
+      },
+      "Betsson": {
+        "Alanyaspor": 1.12,
+        "Besiktas JK": 65.0,
+        "Draw": 6.3
+      },
+      "Winamax (DE)": {
+        "Alanyaspor": 1.03,
+        "Besiktas JK": 1000.0,
+        "Draw": 13.0
+      },
+      "Betclic (FR)": {
+        "Alanyaspor": 1.0,
+        "Besiktas JK": 55.0,
+        "Draw": 8.0
+      },
+      "Pinnacle": {
+        "Alanyaspor": 1.26,
+        "Besiktas JK": 21.93,
+        "Draw": 4.76
+      },
       "888sport": {
-        "Ascoli": 1.3,
-        "Hellas Verona": 15.0,
-        "Draw": 3.9
+        "Alanyaspor": 1.06,
+        "Besiktas JK": 91.0,
+        "Draw": 9.5
       },
-      "Winamax (DE)": {
-        "Ascoli": 1.29,
-        "Hellas Verona": 19.0,
-        "Draw": 3.8
+      "Tipico": {
+        "Alanyaspor": 1.02,
+        "Besiktas JK": 400.0,
+        "Draw": 15.0
       },
-      "Winamax (FR)": {
-        "Ascoli": 1.27,
-        "Hellas Verona": 22.0,
-        "Draw": 3.85
-      },
-      "Unibet (NL)": {
-        "Ascoli": 1.33,
-        "Hellas Verona": 15.0,
-        "Draw": 3.5
+      "Betfair": {
+        "Alanyaspor": 1.02,
+        "Besiktas JK": 1000.0,
+        "Draw": 34.0
       },
       "PMU (FR)": {
-        "Ascoli": 1.21,
-        "Hellas Verona": 15.0,
-        "Draw": 3.2
-      },
-      "Coolbet": {
-        "Ascoli": 1.29,
-        "Hellas Verona": 22.0,
-        "Draw": 4.0
-      },
-      "Unibet (SE)": {
-        "Ascoli": 1.33,
-        "Hellas Verona": 15.0,
-        "Draw": 3.5
-      },
-      "Betclic (FR)": {
-        "Ascoli": 1.28,
-        "Hellas Verona": 17.0,
-        "Draw": 3.6
-      },
-      "LeoVegas (SE)": {
-        "Ascoli": 1.25,
-        "Hellas Verona": 15.0,
-        "Draw": 3.3
-      },
-      "Pinnacle": {
-        "Ascoli": 1.45,
-        "Hellas Verona": 10.74,
-        "Draw": 3.52
-      },
-      "Tipico": {
-        "Ascoli": 1.27,
-        "Hellas Verona": 22.0,
-        "Draw": 3.8
-      },
-      "Betsson": {
-        "Ascoli": 1.28,
-        "Hellas Verona": 19.5,
-        "Draw": 3.9
-      },
-      "Nordic Bet": {
-        "Ascoli": 1.28,
-        "Hellas Verona": 19.5,
-        "Draw": 3.9
-      },
-      "Betfair": {
-        "Ascoli": 1.41,
-        "Hellas Verona": 22.0,
-        "Draw": 3.95
-      },
-      "Matchbook": {
-        "Ascoli": 1.32,
-        "Hellas Verona": 28.0,
-        "Draw": 4.5
+        "Alanyaspor": 1.01,
+        "Besiktas JK": 61.0,
+        "Draw": 7.5
       }
     },
-    "eea1b11233961a38172522dc11b0523d:h2h": {
-      "Winamax (FR)": {
-        "Burgos CF": 95.0,
-        "Sporting Gijón": 1.08,
-        "Draw": 8.5
+    "e051fbf30beef59f4596d8ff50caf55d:h2h": {
+      "Betclic (FR)": {
+        "Asteras Tripolis": 100.0,
+        "Panetolikos Agrinio": 1.0,
+        "Draw": 40.0
       },
       "Nordic Bet": {
-        "Burgos CF": 65.0,
-        "Sporting Gijón": 1.05,
-        "Draw": 8.2
-      },
-      "Winamax (DE)": {
-        "Burgos CF": 85.0,
-        "Sporting Gijón": 1.05,
-        "Draw": 8.5
-      },
-      "Betsson": {
-        "Burgos CF": 65.0,
-        "Sporting Gijón": 1.05,
-        "Draw": 7.7
-      },
-      "Betclic (FR)": {
-        "Burgos CF": 45.0,
-        "Sporting Gijón": 1.06,
-        "Draw": 7.0
-      },
-      "Tipico": {
-        "Burgos CF": 120.0,
-        "Sporting Gijón": 1.02,
-        "Draw": 9.0
+        "Asteras Tripolis": 301.0,
+        "Panetolikos Agrinio": 1.0,
+        "Draw": 276.0
       },
       "Betfair": {
-        "Burgos CF": 150.0,
-        "Sporting Gijón": 1.1,
-        "Draw": 9.8
+        "Asteras Tripolis": 65.0,
+        "Panetolikos Agrinio": 1.01,
+        "Draw": 60.0
       },
-      "Unibet (SE)": {
-        "Burgos CF": 101.0,
-        "Sporting Gijón": 1.05,
-        "Draw": 9.5
-      },
-      "LeoVegas (SE)": {
-        "Burgos CF": 67.0,
-        "Sporting Gijón": 1.01,
-        "Draw": 9.5
-      },
-      "Unibet (NL)": {
-        "Burgos CF": 67.0,
-        "Sporting Gijón": 1.01,
-        "Draw": 9.5
-      },
-      "Coolbet": {
-        "Burgos CF": 66.0,
-        "Sporting Gijón": 1.06,
-        "Draw": 8.5
+      "Betsson": {
+        "Asteras Tripolis": 301.0,
+        "Panetolikos Agrinio": 1.0,
+        "Draw": 226.0
       }
     },
-    "da84b4df84cc8788f1a9fb0bc0272441:h2h": {
+    "a947deb245ed2b8f97c425f02df472ae:h2h": {
+      "Nordic Bet": {
+        "Genclerbirligi SK": 1.1,
+        "Goztepe": 65.0,
+        "Draw": 6.8
+      },
       "Betsson": {
-        "CD Castellón": 3.5,
-        "Sabadell FC": 5.8,
-        "Draw": 1.52
+        "Genclerbirligi SK": 1.1,
+        "Goztepe": 65.0,
+        "Draw": 6.8
       },
       "Winamax (FR)": {
-        "CD Castellón": 4.2,
-        "Sabadell FC": 7.5,
-        "Draw": 1.34
-      },
-      "Nordic Bet": {
-        "CD Castellón": 3.65,
-        "Sabadell FC": 5.8,
-        "Draw": 1.49
-      },
-      "Winamax (DE)": {
-        "CD Castellón": 4.0,
-        "Sabadell FC": 8.0,
-        "Draw": 1.37
+        "Genclerbirligi SK": 1.05,
+        "Goztepe": 400.0,
+        "Draw": 11.5
       },
       "Betclic (FR)": {
-        "CD Castellón": 3.8,
-        "Sabadell FC": 7.0,
-        "Draw": 1.4
+        "Genclerbirligi SK": 1.02,
+        "Goztepe": 100.0,
+        "Draw": 11.25
       },
       "Tipico": {
-        "CD Castellón": 4.3,
-        "Sabadell FC": 8.5,
-        "Draw": 1.35
+        "Genclerbirligi SK": 1.01,
+        "Goztepe": 400.0,
+        "Draw": 25.0
       },
-      "Betfair": {
-        "CD Castellón": 4.5,
-        "Sabadell FC": 9.0,
-        "Draw": 1.48
-      },
-      "Pinnacle": {
-        "CD Castellón": 3.8,
-        "Sabadell FC": 5.94,
-        "Draw": 1.6
-      },
-      "LeoVegas (SE)": {
-        "CD Castellón": 4.5,
-        "Sabadell FC": 7.5,
-        "Draw": 1.24
-      },
-      "Unibet (NL)": {
-        "CD Castellón": 4.75,
-        "Sabadell FC": 7.5,
-        "Draw": 1.32
-      },
-      "Unibet (SE)": {
-        "CD Castellón": 4.75,
-        "Sabadell FC": 7.5,
-        "Draw": 1.32
-      },
-      "PMU (FR)": {
-        "CD Castellón": 4.35,
-        "Sabadell FC": 7.0,
-        "Draw": 1.2
+      "Winamax (DE)": {
+        "Genclerbirligi SK": 1.03,
+        "Goztepe": 400.0,
+        "Draw": 12.0
       },
       "Coolbet": {
-        "CD Castellón": 4.5,
-        "Sabadell FC": 9.0,
-        "Draw": 1.36
+        "Genclerbirligi SK": 1.14,
+        "Goztepe": 80.0,
+        "Draw": 6.8
       },
-      "Matchbook": {
-        "CD Castellón": 4.6,
-        "Sabadell FC": 11.0,
-        "Draw": 1.41
+      "888sport": {
+        "Genclerbirligi SK": 1.06,
+        "Goztepe": 91.0,
+        "Draw": 9.5
+      },
+      "Betfair": {
+        "Genclerbirligi SK": 1.03,
+        "Goztepe": 120.0,
+        "Draw": 18.0
+      },
+      "Pinnacle": {
+        "Genclerbirligi SK": 1.37,
+        "Goztepe": 16.57,
+        "Draw": 3.77
+      }
+    },
+    "fbea45a1e53e07faac0027ac5d233587:h2h": {
+      "Betfair": {
+        "AC Milan": 1.01,
+        "Torino": 100.0,
+        "Draw": 50.0
+      },
+      "Betclic (FR)": {
+        "AC Milan": 1.0,
+        "Torino": 110.0,
+        "Draw": 85.0
+      },
+      "Betsson": {
+        "AC Milan": 1.0,
+        "Torino": 34.0,
+        "Draw": 29.0
+      },
+      "Nordic Bet": {
+        "AC Milan": 1.0,
+        "Torino": 34.0,
+        "Draw": 29.0
+      },
+      "888sport": {
+        "AC Milan": 1.0,
+        "Torino": 151.0,
+        "Draw": 61.0
       }
     }
   },
@@ -11783,45 +11728,655 @@
       "confidence": 75,
       "alert_type": "value",
       "alerted_at": "2026-08-23T18:45:16.221863+00:00"
+    },
+    {
+      "state_key": "6b3b41cc7aa2f7ce5b45065e9cf2a78f:h2h",
+      "event_id": "6b3b41cc7aa2f7ce5b45065e9cf2a78f",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Alanyaspor",
+      "away_team": "Besiktas JK",
+      "commence_time": "2026-08-23T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Besiktas JK",
+      "odds_at_alert": 1000.0,
+      "stake_pct": 5.0,
+      "confidence": 4246,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T20:35:15.876728+00:00"
+    },
+    {
+      "state_key": "6b3b41cc7aa2f7ce5b45065e9cf2a78f:h2h",
+      "event_id": "6b3b41cc7aa2f7ce5b45065e9cf2a78f",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Alanyaspor",
+      "away_team": "Besiktas JK",
+      "commence_time": "2026-08-23T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 160,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T20:35:16.361632+00:00"
+    },
+    {
+      "state_key": "6b3b41cc7aa2f7ce5b45065e9cf2a78f:h2h",
+      "event_id": "6b3b41cc7aa2f7ce5b45065e9cf2a78f",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Alanyaspor",
+      "away_team": "Besiktas JK",
+      "commence_time": "2026-08-23T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Besiktas JK",
+      "odds_at_alert": 65.0,
+      "stake_pct": 5.0,
+      "confidence": 182,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T20:35:16.766816+00:00"
+    },
+    {
+      "state_key": "6b3b41cc7aa2f7ce5b45065e9cf2a78f:h2h",
+      "event_id": "6b3b41cc7aa2f7ce5b45065e9cf2a78f",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Alanyaspor",
+      "away_team": "Besiktas JK",
+      "commence_time": "2026-08-23T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.3,
+      "stake_pct": 5.0,
+      "confidence": 26,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T20:35:17.202936+00:00"
+    },
+    {
+      "state_key": "6b3b41cc7aa2f7ce5b45065e9cf2a78f:h2h",
+      "event_id": "6b3b41cc7aa2f7ce5b45065e9cf2a78f",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Alanyaspor",
+      "away_team": "Besiktas JK",
+      "commence_time": "2026-08-23T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Besiktas JK",
+      "odds_at_alert": 1000.0,
+      "stake_pct": 5.0,
+      "confidence": 4246,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T20:35:17.630419+00:00"
+    },
+    {
+      "state_key": "6b3b41cc7aa2f7ce5b45065e9cf2a78f:h2h",
+      "event_id": "6b3b41cc7aa2f7ce5b45065e9cf2a78f",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Alanyaspor",
+      "away_team": "Besiktas JK",
+      "commence_time": "2026-08-23T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 140,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T20:35:18.014589+00:00"
+    },
+    {
+      "state_key": "6b3b41cc7aa2f7ce5b45065e9cf2a78f:h2h",
+      "event_id": "6b3b41cc7aa2f7ce5b45065e9cf2a78f",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Alanyaspor",
+      "away_team": "Besiktas JK",
+      "commence_time": "2026-08-23T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Besiktas JK",
+      "odds_at_alert": 65.0,
+      "stake_pct": 5.0,
+      "confidence": 182,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T20:35:18.455661+00:00"
+    },
+    {
+      "state_key": "6b3b41cc7aa2f7ce5b45065e9cf2a78f:h2h",
+      "event_id": "6b3b41cc7aa2f7ce5b45065e9cf2a78f",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Alanyaspor",
+      "away_team": "Besiktas JK",
+      "commence_time": "2026-08-23T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.3,
+      "stake_pct": 5.0,
+      "confidence": 26,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T20:35:18.838919+00:00"
+    },
+    {
+      "state_key": "6b3b41cc7aa2f7ce5b45065e9cf2a78f:h2h",
+      "event_id": "6b3b41cc7aa2f7ce5b45065e9cf2a78f",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Alanyaspor",
+      "away_team": "Besiktas JK",
+      "commence_time": "2026-08-23T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Besiktas JK",
+      "odds_at_alert": 1000.0,
+      "stake_pct": 5.0,
+      "confidence": 4246,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T20:35:19.261978+00:00"
+    },
+    {
+      "state_key": "6b3b41cc7aa2f7ce5b45065e9cf2a78f:h2h",
+      "event_id": "6b3b41cc7aa2f7ce5b45065e9cf2a78f",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Alanyaspor",
+      "away_team": "Besiktas JK",
+      "commence_time": "2026-08-23T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 160,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T20:35:19.661291+00:00"
+    },
+    {
+      "state_key": "6b3b41cc7aa2f7ce5b45065e9cf2a78f:h2h",
+      "event_id": "6b3b41cc7aa2f7ce5b45065e9cf2a78f",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Alanyaspor",
+      "away_team": "Besiktas JK",
+      "commence_time": "2026-08-23T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Besiktas JK",
+      "odds_at_alert": 55.0,
+      "stake_pct": 5.0,
+      "confidence": 139,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T20:35:20.071430+00:00"
+    },
+    {
+      "state_key": "6b3b41cc7aa2f7ce5b45065e9cf2a78f:h2h",
+      "event_id": "6b3b41cc7aa2f7ce5b45065e9cf2a78f",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Alanyaspor",
+      "away_team": "Besiktas JK",
+      "commence_time": "2026-08-23T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 8.0,
+      "stake_pct": 5.0,
+      "confidence": 60,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T20:35:20.463830+00:00"
+    },
+    {
+      "state_key": "6b3b41cc7aa2f7ce5b45065e9cf2a78f:h2h",
+      "event_id": "6b3b41cc7aa2f7ce5b45065e9cf2a78f",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Alanyaspor",
+      "away_team": "Besiktas JK",
+      "commence_time": "2026-08-23T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Besiktas JK",
+      "odds_at_alert": 91.0,
+      "stake_pct": 5.0,
+      "confidence": 295,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T20:35:20.888207+00:00"
+    },
+    {
+      "state_key": "6b3b41cc7aa2f7ce5b45065e9cf2a78f:h2h",
+      "event_id": "6b3b41cc7aa2f7ce5b45065e9cf2a78f",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Alanyaspor",
+      "away_team": "Besiktas JK",
+      "commence_time": "2026-08-23T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 9.5,
+      "stake_pct": 5.0,
+      "confidence": 90,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T20:35:21.271920+00:00"
+    },
+    {
+      "state_key": "6b3b41cc7aa2f7ce5b45065e9cf2a78f:h2h",
+      "event_id": "6b3b41cc7aa2f7ce5b45065e9cf2a78f",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Alanyaspor",
+      "away_team": "Besiktas JK",
+      "commence_time": "2026-08-23T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Besiktas JK",
+      "odds_at_alert": 400.0,
+      "stake_pct": 5.0,
+      "confidence": 1638,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T20:35:21.648479+00:00"
+    },
+    {
+      "state_key": "6b3b41cc7aa2f7ce5b45065e9cf2a78f:h2h",
+      "event_id": "6b3b41cc7aa2f7ce5b45065e9cf2a78f",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Alanyaspor",
+      "away_team": "Besiktas JK",
+      "commence_time": "2026-08-23T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 200,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T20:35:22.129556+00:00"
+    },
+    {
+      "state_key": "6b3b41cc7aa2f7ce5b45065e9cf2a78f:h2h",
+      "event_id": "6b3b41cc7aa2f7ce5b45065e9cf2a78f",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Alanyaspor",
+      "away_team": "Besiktas JK",
+      "commence_time": "2026-08-23T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Besiktas JK",
+      "odds_at_alert": 1000.0,
+      "stake_pct": 5.0,
+      "confidence": 4246,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T20:35:22.551228+00:00"
+    },
+    {
+      "state_key": "6b3b41cc7aa2f7ce5b45065e9cf2a78f:h2h",
+      "event_id": "6b3b41cc7aa2f7ce5b45065e9cf2a78f",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Alanyaspor",
+      "away_team": "Besiktas JK",
+      "commence_time": "2026-08-23T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 34.0,
+      "stake_pct": 5.0,
+      "confidence": 581,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T20:35:22.967261+00:00"
+    },
+    {
+      "state_key": "6b3b41cc7aa2f7ce5b45065e9cf2a78f:h2h",
+      "event_id": "6b3b41cc7aa2f7ce5b45065e9cf2a78f",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Alanyaspor",
+      "away_team": "Besiktas JK",
+      "commence_time": "2026-08-23T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Besiktas JK",
+      "odds_at_alert": 61.0,
+      "stake_pct": 5.0,
+      "confidence": 165,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T20:35:23.363488+00:00"
+    },
+    {
+      "state_key": "6b3b41cc7aa2f7ce5b45065e9cf2a78f:h2h",
+      "event_id": "6b3b41cc7aa2f7ce5b45065e9cf2a78f",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Alanyaspor",
+      "away_team": "Besiktas JK",
+      "commence_time": "2026-08-23T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 7.5,
+      "stake_pct": 5.0,
+      "confidence": 50,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T20:35:23.751217+00:00"
+    },
+    {
+      "state_key": "a947deb245ed2b8f97c425f02df472ae:h2h",
+      "event_id": "a947deb245ed2b8f97c425f02df472ae",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Goztepe",
+      "away_team": "Genclerbirligi SK",
+      "commence_time": "2026-08-23T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Goztepe",
+      "odds_at_alert": 65.0,
+      "stake_pct": 5.0,
+      "confidence": 272,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T20:35:24.149919+00:00"
+    },
+    {
+      "state_key": "a947deb245ed2b8f97c425f02df472ae:h2h",
+      "event_id": "a947deb245ed2b8f97c425f02df472ae",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Goztepe",
+      "away_team": "Genclerbirligi SK",
+      "commence_time": "2026-08-23T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.8,
+      "stake_pct": 5.0,
+      "confidence": 71,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T20:35:24.544214+00:00"
+    },
+    {
+      "state_key": "a947deb245ed2b8f97c425f02df472ae:h2h",
+      "event_id": "a947deb245ed2b8f97c425f02df472ae",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Goztepe",
+      "away_team": "Genclerbirligi SK",
+      "commence_time": "2026-08-23T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Goztepe",
+      "odds_at_alert": 65.0,
+      "stake_pct": 5.0,
+      "confidence": 272,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T20:35:24.917370+00:00"
+    },
+    {
+      "state_key": "a947deb245ed2b8f97c425f02df472ae:h2h",
+      "event_id": "a947deb245ed2b8f97c425f02df472ae",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Goztepe",
+      "away_team": "Genclerbirligi SK",
+      "commence_time": "2026-08-23T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.8,
+      "stake_pct": 5.0,
+      "confidence": 71,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T20:35:25.312530+00:00"
+    },
+    {
+      "state_key": "a947deb245ed2b8f97c425f02df472ae:h2h",
+      "event_id": "a947deb245ed2b8f97c425f02df472ae",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Goztepe",
+      "away_team": "Genclerbirligi SK",
+      "commence_time": "2026-08-23T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Goztepe",
+      "odds_at_alert": 400.0,
+      "stake_pct": 5.0,
+      "confidence": 2187,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T20:35:25.730089+00:00"
+    },
+    {
+      "state_key": "a947deb245ed2b8f97c425f02df472ae:h2h",
+      "event_id": "a947deb245ed2b8f97c425f02df472ae",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Goztepe",
+      "away_team": "Genclerbirligi SK",
+      "commence_time": "2026-08-23T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 11.5,
+      "stake_pct": 5.0,
+      "confidence": 189,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T20:35:26.118285+00:00"
+    },
+    {
+      "state_key": "a947deb245ed2b8f97c425f02df472ae:h2h",
+      "event_id": "a947deb245ed2b8f97c425f02df472ae",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Goztepe",
+      "away_team": "Genclerbirligi SK",
+      "commence_time": "2026-08-23T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Goztepe",
+      "odds_at_alert": 100.0,
+      "stake_pct": 5.0,
+      "confidence": 472,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T20:35:26.520051+00:00"
+    },
+    {
+      "state_key": "a947deb245ed2b8f97c425f02df472ae:h2h",
+      "event_id": "a947deb245ed2b8f97c425f02df472ae",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Goztepe",
+      "away_team": "Genclerbirligi SK",
+      "commence_time": "2026-08-23T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 11.25,
+      "stake_pct": 5.0,
+      "confidence": 183,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T20:35:26.918100+00:00"
+    },
+    {
+      "state_key": "a947deb245ed2b8f97c425f02df472ae:h2h",
+      "event_id": "a947deb245ed2b8f97c425f02df472ae",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Goztepe",
+      "away_team": "Genclerbirligi SK",
+      "commence_time": "2026-08-23T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Goztepe",
+      "odds_at_alert": 400.0,
+      "stake_pct": 5.0,
+      "confidence": 2187,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T20:35:27.330253+00:00"
+    },
+    {
+      "state_key": "a947deb245ed2b8f97c425f02df472ae:h2h",
+      "event_id": "a947deb245ed2b8f97c425f02df472ae",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Goztepe",
+      "away_team": "Genclerbirligi SK",
+      "commence_time": "2026-08-23T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 25.0,
+      "stake_pct": 5.0,
+      "confidence": 528,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T20:35:27.755806+00:00"
+    },
+    {
+      "state_key": "a947deb245ed2b8f97c425f02df472ae:h2h",
+      "event_id": "a947deb245ed2b8f97c425f02df472ae",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Goztepe",
+      "away_team": "Genclerbirligi SK",
+      "commence_time": "2026-08-23T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Goztepe",
+      "odds_at_alert": 400.0,
+      "stake_pct": 5.0,
+      "confidence": 2187,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T20:35:28.219703+00:00"
+    },
+    {
+      "state_key": "a947deb245ed2b8f97c425f02df472ae:h2h",
+      "event_id": "a947deb245ed2b8f97c425f02df472ae",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Goztepe",
+      "away_team": "Genclerbirligi SK",
+      "commence_time": "2026-08-23T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 202,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T20:35:28.695280+00:00"
+    },
+    {
+      "state_key": "a947deb245ed2b8f97c425f02df472ae:h2h",
+      "event_id": "a947deb245ed2b8f97c425f02df472ae",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Goztepe",
+      "away_team": "Genclerbirligi SK",
+      "commence_time": "2026-08-23T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Goztepe",
+      "odds_at_alert": 80.0,
+      "stake_pct": 5.0,
+      "confidence": 357,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T20:35:29.115413+00:00"
+    },
+    {
+      "state_key": "a947deb245ed2b8f97c425f02df472ae:h2h",
+      "event_id": "a947deb245ed2b8f97c425f02df472ae",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Goztepe",
+      "away_team": "Genclerbirligi SK",
+      "commence_time": "2026-08-23T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.8,
+      "stake_pct": 5.0,
+      "confidence": 71,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T20:35:29.515567+00:00"
+    },
+    {
+      "state_key": "a947deb245ed2b8f97c425f02df472ae:h2h",
+      "event_id": "a947deb245ed2b8f97c425f02df472ae",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Goztepe",
+      "away_team": "Genclerbirligi SK",
+      "commence_time": "2026-08-23T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Goztepe",
+      "odds_at_alert": 91.0,
+      "stake_pct": 5.0,
+      "confidence": 420,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T20:35:29.975602+00:00"
+    },
+    {
+      "state_key": "a947deb245ed2b8f97c425f02df472ae:h2h",
+      "event_id": "a947deb245ed2b8f97c425f02df472ae",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Goztepe",
+      "away_team": "Genclerbirligi SK",
+      "commence_time": "2026-08-23T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 9.5,
+      "stake_pct": 5.0,
+      "confidence": 139,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T20:35:30.387506+00:00"
+    },
+    {
+      "state_key": "a947deb245ed2b8f97c425f02df472ae:h2h",
+      "event_id": "a947deb245ed2b8f97c425f02df472ae",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Goztepe",
+      "away_team": "Genclerbirligi SK",
+      "commence_time": "2026-08-23T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Goztepe",
+      "odds_at_alert": 120.0,
+      "stake_pct": 5.0,
+      "confidence": 586,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T20:35:30.805892+00:00"
+    },
+    {
+      "state_key": "a947deb245ed2b8f97c425f02df472ae:h2h",
+      "event_id": "a947deb245ed2b8f97c425f02df472ae",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Goztepe",
+      "away_team": "Genclerbirligi SK",
+      "commence_time": "2026-08-23T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 18.0,
+      "stake_pct": 5.0,
+      "confidence": 352,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T20:35:31.210812+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "da84b4df84cc8788f1a9fb0bc0272441:h2h|Betclic (FR)|Sabadell FC",
-    "da84b4df84cc8788f1a9fb0bc0272441:h2h|Betfair|CD Castellón",
-    "da84b4df84cc8788f1a9fb0bc0272441:h2h|Betfair|Sabadell FC",
-    "da84b4df84cc8788f1a9fb0bc0272441:h2h|Coolbet|CD Castellón",
-    "da84b4df84cc8788f1a9fb0bc0272441:h2h|Coolbet|Sabadell FC",
-    "da84b4df84cc8788f1a9fb0bc0272441:h2h|LeoVegas (SE)|CD Castellón",
-    "da84b4df84cc8788f1a9fb0bc0272441:h2h|LeoVegas (SE)|Sabadell FC",
-    "da84b4df84cc8788f1a9fb0bc0272441:h2h|Matchbook|CD Castellón",
-    "da84b4df84cc8788f1a9fb0bc0272441:h2h|Matchbook|Sabadell FC",
-    "da84b4df84cc8788f1a9fb0bc0272441:h2h|PMU (FR)|CD Castellón",
-    "da84b4df84cc8788f1a9fb0bc0272441:h2h|PMU (FR)|Sabadell FC",
-    "da84b4df84cc8788f1a9fb0bc0272441:h2h|Tipico|CD Castellón",
-    "da84b4df84cc8788f1a9fb0bc0272441:h2h|Tipico|Sabadell FC",
-    "da84b4df84cc8788f1a9fb0bc0272441:h2h|Unibet (NL)|CD Castellón",
-    "da84b4df84cc8788f1a9fb0bc0272441:h2h|Unibet (NL)|Sabadell FC",
-    "da84b4df84cc8788f1a9fb0bc0272441:h2h|Unibet (SE)|CD Castellón",
-    "da84b4df84cc8788f1a9fb0bc0272441:h2h|Unibet (SE)|Sabadell FC",
-    "da84b4df84cc8788f1a9fb0bc0272441:h2h|Winamax (DE)|Sabadell FC",
-    "da84b4df84cc8788f1a9fb0bc0272441:h2h|Winamax (FR)|Sabadell FC",
-    "f2634db48eaf6526793cfc48047b540b:h2h|888sport|Hellas Verona",
-    "f2634db48eaf6526793cfc48047b540b:h2h|Betclic (FR)|Hellas Verona",
-    "f2634db48eaf6526793cfc48047b540b:h2h|Betfair|Draw",
-    "f2634db48eaf6526793cfc48047b540b:h2h|Betfair|Hellas Verona",
-    "f2634db48eaf6526793cfc48047b540b:h2h|Betsson|Hellas Verona",
-    "f2634db48eaf6526793cfc48047b540b:h2h|Coolbet|Draw",
-    "f2634db48eaf6526793cfc48047b540b:h2h|Coolbet|Hellas Verona",
-    "f2634db48eaf6526793cfc48047b540b:h2h|LeoVegas (SE)|Hellas Verona",
-    "f2634db48eaf6526793cfc48047b540b:h2h|Matchbook|Draw",
-    "f2634db48eaf6526793cfc48047b540b:h2h|Matchbook|Hellas Verona",
-    "f2634db48eaf6526793cfc48047b540b:h2h|Nordic Bet|Hellas Verona",
-    "f2634db48eaf6526793cfc48047b540b:h2h|PMU (FR)|Hellas Verona",
-    "f2634db48eaf6526793cfc48047b540b:h2h|Tipico|Hellas Verona",
-    "f2634db48eaf6526793cfc48047b540b:h2h|Unibet (NL)|Hellas Verona",
-    "f2634db48eaf6526793cfc48047b540b:h2h|Unibet (SE)|Hellas Verona",
-    "f2634db48eaf6526793cfc48047b540b:h2h|Winamax (DE)|Hellas Verona",
-    "f2634db48eaf6526793cfc48047b540b:h2h|Winamax (FR)|Hellas Verona"
+    "6b3b41cc7aa2f7ce5b45065e9cf2a78f:h2h|888sport|Besiktas JK",
+    "6b3b41cc7aa2f7ce5b45065e9cf2a78f:h2h|888sport|Draw",
+    "6b3b41cc7aa2f7ce5b45065e9cf2a78f:h2h|Betclic (FR)|Besiktas JK",
+    "6b3b41cc7aa2f7ce5b45065e9cf2a78f:h2h|Betclic (FR)|Draw",
+    "6b3b41cc7aa2f7ce5b45065e9cf2a78f:h2h|Betfair|Besiktas JK",
+    "6b3b41cc7aa2f7ce5b45065e9cf2a78f:h2h|Betfair|Draw",
+    "6b3b41cc7aa2f7ce5b45065e9cf2a78f:h2h|Betsson|Besiktas JK",
+    "6b3b41cc7aa2f7ce5b45065e9cf2a78f:h2h|Betsson|Draw",
+    "6b3b41cc7aa2f7ce5b45065e9cf2a78f:h2h|Coolbet|Besiktas JK",
+    "6b3b41cc7aa2f7ce5b45065e9cf2a78f:h2h|Coolbet|Draw",
+    "6b3b41cc7aa2f7ce5b45065e9cf2a78f:h2h|Nordic Bet|Besiktas JK",
+    "6b3b41cc7aa2f7ce5b45065e9cf2a78f:h2h|Nordic Bet|Draw",
+    "6b3b41cc7aa2f7ce5b45065e9cf2a78f:h2h|PMU (FR)|Besiktas JK",
+    "6b3b41cc7aa2f7ce5b45065e9cf2a78f:h2h|PMU (FR)|Draw",
+    "6b3b41cc7aa2f7ce5b45065e9cf2a78f:h2h|Tipico|Besiktas JK",
+    "6b3b41cc7aa2f7ce5b45065e9cf2a78f:h2h|Tipico|Draw",
+    "6b3b41cc7aa2f7ce5b45065e9cf2a78f:h2h|Winamax (DE)|Besiktas JK",
+    "6b3b41cc7aa2f7ce5b45065e9cf2a78f:h2h|Winamax (DE)|Draw",
+    "6b3b41cc7aa2f7ce5b45065e9cf2a78f:h2h|Winamax (FR)|Besiktas JK",
+    "6b3b41cc7aa2f7ce5b45065e9cf2a78f:h2h|Winamax (FR)|Draw",
+    "a947deb245ed2b8f97c425f02df472ae:h2h|888sport|Draw",
+    "a947deb245ed2b8f97c425f02df472ae:h2h|888sport|Goztepe",
+    "a947deb245ed2b8f97c425f02df472ae:h2h|Betclic (FR)|Draw",
+    "a947deb245ed2b8f97c425f02df472ae:h2h|Betclic (FR)|Goztepe",
+    "a947deb245ed2b8f97c425f02df472ae:h2h|Betfair|Draw",
+    "a947deb245ed2b8f97c425f02df472ae:h2h|Betfair|Goztepe",
+    "a947deb245ed2b8f97c425f02df472ae:h2h|Betsson|Draw",
+    "a947deb245ed2b8f97c425f02df472ae:h2h|Betsson|Goztepe",
+    "a947deb245ed2b8f97c425f02df472ae:h2h|Coolbet|Draw",
+    "a947deb245ed2b8f97c425f02df472ae:h2h|Coolbet|Goztepe",
+    "a947deb245ed2b8f97c425f02df472ae:h2h|Nordic Bet|Draw",
+    "a947deb245ed2b8f97c425f02df472ae:h2h|Nordic Bet|Goztepe",
+    "a947deb245ed2b8f97c425f02df472ae:h2h|Tipico|Draw",
+    "a947deb245ed2b8f97c425f02df472ae:h2h|Tipico|Goztepe",
+    "a947deb245ed2b8f97c425f02df472ae:h2h|Winamax (DE)|Draw",
+    "a947deb245ed2b8f97c425f02df472ae:h2h|Winamax (DE)|Goztepe",
+    "a947deb245ed2b8f97c425f02df472ae:h2h|Winamax (FR)|Draw",
+    "a947deb245ed2b8f97c425f02df472ae:h2h|Winamax (FR)|Goztepe"
   ]
 }
