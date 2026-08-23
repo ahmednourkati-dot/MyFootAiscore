@@ -1,83 +1,19 @@
 {
   "snapshots": {
-    "3694aa4b60ed1371baf2e5281f9880c8:h2h": {
-      "Nordic Bet": {
-        "Colorado Rapids": 26.0,
-        "San Diego FC": 1.0,
-        "Draw": 26.0
-      },
-      "Betsson": {
-        "Colorado Rapids": 26.0,
-        "San Diego FC": 1.0,
-        "Draw": 26.0
-      }
-    },
-    "08207d358ea47de89653ebc1f9250230:h2h": {
-      "Unibet (SE)": {
-        "Atlas": 1.02,
-        "Cruz Azul": 91.0,
-        "Draw": 17.0
-      },
-      "Unibet (NL)": {
-        "Atlas": 1.02,
-        "Cruz Azul": 91.0,
-        "Draw": 17.0
-      },
-      "Nordic Bet": {
-        "Atlas": 1.02,
-        "Cruz Azul": 50.0,
-        "Draw": 13.0
-      },
-      "Betsson": {
-        "Atlas": 1.02,
-        "Cruz Azul": 50.0,
-        "Draw": 13.0
-      },
-      "Betclic (FR)": {
-        "Atlas": 1.01,
-        "Cruz Azul": 40.0,
-        "Draw": 11.25
-      },
-      "Coolbet": {
-        "Atlas": 1.04,
-        "Cruz Azul": 80.0,
-        "Draw": 16.0
-      },
-      "888sport": {
-        "Atlas": 1.03,
-        "Cruz Azul": 61.0,
-        "Draw": 13.0
-      },
-      "Pinnacle": {
-        "Atlas": 1.12,
-        "Cruz Azul": 29.06,
-        "Draw": 8.41
-      },
-      "Betfair": {
-        "Atlas": 1.06,
-        "Cruz Azul": 100.0,
-        "Draw": 17.0
-      },
-      "Matchbook": {
-        "Atlas": 1.03,
-        "Cruz Azul": 17.5,
-        "Draw": 21.0
-      }
-    },
     "08437a1f283778e1275cf13d9555c840:h2h": {
       "Pinnacle": {
-        "FC Akron Tolyatti": 2.77,
-        "Kryliya Sovetov": 2.62,
-        "Draw": 3.45
+        "FC Akron Tolyatti": 2.68,
+        "Kryliya Sovetov": 2.69,
+        "Draw": 3.47
       },
       "1xBet": {
-        "FC Akron Tolyatti": 2.83,
-        "Kryliya Sovetov": 2.67,
-        "Draw": 3.48
+        "FC Akron Tolyatti": 2.73,
+        "Kryliya Sovetov": 2.75,
+        "Draw": 3.5
       },
       "BetOnline.ag": {
-        "FC Akron Tolyatti": 2.68,
-        "Kryliya Sovetov": 2.6,
+        "FC Akron Tolyatti": 2.58,
+        "Kryliya Sovetov": 2.68,
         "Draw": 3.3
       }
     },
@@ -88,8 +24,8 @@
         "Draw": 4.05
       },
       "Betsson": {
-        "FC Nordsjaelland": 1.72,
-        "SonderjyskE": 4.2,
+        "FC Nordsjaelland": 1.7,
+        "SonderjyskE": 4.4,
         "Draw": 4.0
       },
       "Codere (IT)": {
@@ -103,12 +39,12 @@
         "Draw": 4.0
       },
       "Nordic Bet": {
-        "FC Nordsjaelland": 1.72,
-        "SonderjyskE": 4.2,
+        "FC Nordsjaelland": 1.7,
+        "SonderjyskE": 4.4,
         "Draw": 4.0
       },
       "1xBet": {
-        "FC Nordsjaelland": 1.71,
+        "FC Nordsjaelland": 1.7,
         "SonderjyskE": 4.16,
         "Draw": 4.2
       },
@@ -128,12 +64,12 @@
         "Draw": 4.0
       },
       "Betfair": {
-        "FC Nordsjaelland": 1.78,
+        "FC Nordsjaelland": 1.76,
         "SonderjyskE": 4.4,
         "Draw": 4.5
       },
       "Marathon Bet": {
-        "FC Nordsjaelland": 1.69,
+        "FC Nordsjaelland": 1.68,
         "SonderjyskE": 4.2,
         "Draw": 4.2
       },
@@ -173,34 +109,233 @@
         "Draw": 3.98
       },
       "BetOnline.ag": {
-        "FC Nordsjaelland": 1.73,
-        "SonderjyskE": 4.1,
-        "Draw": 4.3
-      },
-      "Tipico": {
-        "FC Nordsjaelland": 1.65,
-        "SonderjyskE": 4.1,
-        "Draw": 4.2
-      },
-      "Pinnacle": {
         "FC Nordsjaelland": 1.74,
-        "SonderjyskE": 4.25,
-        "Draw": 4.45
-      },
-      "Coolbet": {
-        "FC Nordsjaelland": 1.75,
         "SonderjyskE": 4.0,
         "Draw": 4.3
       },
-      "BetAnything": {
+      "Tipico": {
+        "FC Nordsjaelland": 1.62,
+        "SonderjyskE": 4.2,
+        "Draw": 4.3
+      },
+      "Pinnacle": {
         "FC Nordsjaelland": 1.73,
-        "SonderjyskE": 4.1,
+        "SonderjyskE": 4.26,
+        "Draw": 4.46
+      },
+      "Coolbet": {
+        "FC Nordsjaelland": 1.72,
+        "SonderjyskE": 4.2,
+        "Draw": 4.4
+      },
+      "BetAnything": {
+        "FC Nordsjaelland": 1.74,
+        "SonderjyskE": 4.0,
         "Draw": 4.3
       },
       "Matchbook": {
-        "FC Nordsjaelland": 1.78,
+        "FC Nordsjaelland": 1.77,
         "SonderjyskE": 4.4,
         "Draw": 4.5
+      }
+    },
+    "c9c9af28f18102a573f7accbea612c77:h2h": {
+      "1xBet": {
+        "ADO Den Haag": 4.46,
+        "Go Ahead Eagles": 1.73,
+        "Draw": 4.17
+      },
+      "Codere (IT)": {
+        "ADO Den Haag": 4.4,
+        "Go Ahead Eagles": 1.71,
+        "Draw": 4.0
+      },
+      "Unibet (FR)": {
+        "ADO Den Haag": 4.25,
+        "Go Ahead Eagles": 1.64,
+        "Draw": 3.9
+      },
+      "Coolbet": {
+        "ADO Den Haag": 4.3,
+        "Go Ahead Eagles": 1.72,
+        "Draw": 4.2
+      },
+      "Winamax (DE)": {
+        "ADO Den Haag": 4.1,
+        "Go Ahead Eagles": 1.66,
+        "Draw": 4.0
+      },
+      "Betsson": {
+        "ADO Den Haag": 4.45,
+        "Go Ahead Eagles": 1.75,
+        "Draw": 3.9
+      },
+      "Nordic Bet": {
+        "ADO Den Haag": 4.45,
+        "Go Ahead Eagles": 1.75,
+        "Draw": 3.9
+      },
+      "Marathon Bet": {
+        "ADO Den Haag": 4.33,
+        "Go Ahead Eagles": 1.68,
+        "Draw": 4.05
+      },
+      "Tipico": {
+        "ADO Den Haag": 4.4,
+        "Go Ahead Eagles": 1.67,
+        "Draw": 4.1
+      },
+      "888sport": {
+        "ADO Den Haag": 4.2,
+        "Go Ahead Eagles": 1.7,
+        "Draw": 3.8
+      },
+      "William Hill": {
+        "ADO Den Haag": 4.2,
+        "Go Ahead Eagles": 1.7,
+        "Draw": 3.8
+      },
+      "Betfair": {
+        "ADO Den Haag": 4.9,
+        "Go Ahead Eagles": 1.75,
+        "Draw": 4.3
+      },
+      "Pinnacle": {
+        "ADO Den Haag": 4.6,
+        "Go Ahead Eagles": 1.72,
+        "Draw": 4.19
+      },
+      "PMU (FR)": {
+        "ADO Den Haag": 4.2,
+        "Go Ahead Eagles": 1.65,
+        "Draw": 3.8
+      },
+      "LeoVegas (SE)": {
+        "ADO Den Haag": 4.2,
+        "Go Ahead Eagles": 1.64,
+        "Draw": 3.75
+      },
+      "Unibet (SE)": {
+        "ADO Den Haag": 4.4,
+        "Go Ahead Eagles": 1.68,
+        "Draw": 3.95
+      },
+      "Unibet (NL)": {
+        "ADO Den Haag": 5.0,
+        "Go Ahead Eagles": 1.66,
+        "Draw": 4.3
+      },
+      "BetOnline.ag": {
+        "ADO Den Haag": 4.43,
+        "Go Ahead Eagles": 1.71,
+        "Draw": 4.15
+      },
+      "BetAnything": {
+        "ADO Den Haag": 4.43,
+        "Go Ahead Eagles": 1.71,
+        "Draw": 4.15
+      },
+      "Matchbook": {
+        "ADO Den Haag": 4.9,
+        "Go Ahead Eagles": 1.76,
+        "Draw": 4.3
+      }
+    },
+    "d356b99a17adeea446f1da8c1bb76e52:h2h": {
+      "Unibet (NL)": {
+        "Daejeon Citizen": 2.5,
+        "Gangwon FC": 2.55,
+        "Draw": 2.95
+      },
+      "Unibet (SE)": {
+        "Daejeon Citizen": 2.5,
+        "Gangwon FC": 2.55,
+        "Draw": 2.95
+      },
+      "LeoVegas (SE)": {
+        "Daejeon Citizen": 2.5,
+        "Gangwon FC": 2.55,
+        "Draw": 2.95
+      },
+      "PMU (FR)": {
+        "Daejeon Citizen": 2.43,
+        "Gangwon FC": 2.48,
+        "Draw": 2.85
+      },
+      "Betsson": {
+        "Daejeon Citizen": 2.45,
+        "Gangwon FC": 2.75,
+        "Draw": 3.0
+      },
+      "Betclic (FR)": {
+        "Daejeon Citizen": 2.43,
+        "Gangwon FC": 2.75,
+        "Draw": 3.07
+      },
+      "Nordic Bet": {
+        "Daejeon Citizen": 2.45,
+        "Gangwon FC": 2.75,
+        "Draw": 3.0
+      },
+      "Winamax (FR)": {
+        "Daejeon Citizen": 2.35,
+        "Gangwon FC": 2.6,
+        "Draw": 3.0
+      },
+      "Winamax (DE)": {
+        "Daejeon Citizen": 2.4,
+        "Gangwon FC": 2.65,
+        "Draw": 3.1
+      },
+      "1xBet": {
+        "Daejeon Citizen": 2.55,
+        "Gangwon FC": 2.78,
+        "Draw": 3.12
+      },
+      "Pinnacle": {
+        "Daejeon Citizen": 2.63,
+        "Gangwon FC": 2.92,
+        "Draw": 3.23
+      },
+      "Marathon Bet": {
+        "Daejeon Citizen": 2.55,
+        "Gangwon FC": 2.78,
+        "Draw": 3.12
+      },
+      "William Hill": {
+        "Daejeon Citizen": 2.5,
+        "Gangwon FC": 2.8,
+        "Draw": 3.0
+      },
+      "Tipico": {
+        "Daejeon Citizen": 2.55,
+        "Gangwon FC": 2.6,
+        "Draw": 3.2
+      },
+      "BetOnline.ag": {
+        "Daejeon Citizen": 2.6,
+        "Gangwon FC": 2.86,
+        "Draw": 3.1
+      },
+      "Unibet (FR)": {
+        "Daejeon Citizen": 2.35,
+        "Gangwon FC": 2.75,
+        "Draw": 3.1
+      },
+      "Coolbet": {
+        "Daejeon Citizen": 2.5,
+        "Gangwon FC": 2.8,
+        "Draw": 3.3
+      },
+      "Betfair": {
+        "Daejeon Citizen": 2.68,
+        "Gangwon FC": 2.94,
+        "Draw": 3.25
+      },
+      "Matchbook": {
+        "Daejeon Citizen": 2.68,
+        "Gangwon FC": 2.94,
+        "Draw": 3.3
       }
     }
   },
@@ -10256,53 +10391,5 @@
     }
   ],
   "results_history": [],
-  "value_alerted": [
-    "08207d358ea47de89653ebc1f9250230:h2h|888sport|Cruz Azul",
-    "08207d358ea47de89653ebc1f9250230:h2h|888sport|Draw",
-    "08207d358ea47de89653ebc1f9250230:h2h|Betclic (FR)|Cruz Azul",
-    "08207d358ea47de89653ebc1f9250230:h2h|Betclic (FR)|Draw",
-    "08207d358ea47de89653ebc1f9250230:h2h|Betfair|Cruz Azul",
-    "08207d358ea47de89653ebc1f9250230:h2h|Betfair|Draw",
-    "08207d358ea47de89653ebc1f9250230:h2h|Betsson|Cruz Azul",
-    "08207d358ea47de89653ebc1f9250230:h2h|Betsson|Draw",
-    "08207d358ea47de89653ebc1f9250230:h2h|Coolbet|Cruz Azul",
-    "08207d358ea47de89653ebc1f9250230:h2h|Coolbet|Draw",
-    "08207d358ea47de89653ebc1f9250230:h2h|Matchbook|Draw",
-    "08207d358ea47de89653ebc1f9250230:h2h|Nordic Bet|Cruz Azul",
-    "08207d358ea47de89653ebc1f9250230:h2h|Nordic Bet|Draw",
-    "08207d358ea47de89653ebc1f9250230:h2h|Unibet (NL)|Cruz Azul",
-    "08207d358ea47de89653ebc1f9250230:h2h|Unibet (NL)|Draw",
-    "08207d358ea47de89653ebc1f9250230:h2h|Unibet (SE)|Cruz Azul",
-    "08207d358ea47de89653ebc1f9250230:h2h|Unibet (SE)|Draw",
-    "3694aa4b60ed1371baf2e5281f9880c8:h2h|888sport|Colorado Rapids",
-    "3694aa4b60ed1371baf2e5281f9880c8:h2h|888sport|Draw",
-    "3694aa4b60ed1371baf2e5281f9880c8:h2h|Betclic (FR)|Colorado Rapids",
-    "3694aa4b60ed1371baf2e5281f9880c8:h2h|Betclic (FR)|Draw",
-    "3694aa4b60ed1371baf2e5281f9880c8:h2h|Betfair|Colorado Rapids",
-    "3694aa4b60ed1371baf2e5281f9880c8:h2h|Betfair|Draw",
-    "3694aa4b60ed1371baf2e5281f9880c8:h2h|Betsson|Colorado Rapids",
-    "3694aa4b60ed1371baf2e5281f9880c8:h2h|Betsson|Draw",
-    "3694aa4b60ed1371baf2e5281f9880c8:h2h|Coolbet|Colorado Rapids",
-    "3694aa4b60ed1371baf2e5281f9880c8:h2h|Coolbet|Draw",
-    "3694aa4b60ed1371baf2e5281f9880c8:h2h|LeoVegas (SE)|Colorado Rapids",
-    "3694aa4b60ed1371baf2e5281f9880c8:h2h|LeoVegas (SE)|Draw",
-    "3694aa4b60ed1371baf2e5281f9880c8:h2h|Matchbook|Colorado Rapids",
-    "3694aa4b60ed1371baf2e5281f9880c8:h2h|Matchbook|Draw",
-    "3694aa4b60ed1371baf2e5281f9880c8:h2h|MyBookie.ag|Colorado Rapids",
-    "3694aa4b60ed1371baf2e5281f9880c8:h2h|MyBookie.ag|Draw",
-    "3694aa4b60ed1371baf2e5281f9880c8:h2h|Nordic Bet|Colorado Rapids",
-    "3694aa4b60ed1371baf2e5281f9880c8:h2h|Nordic Bet|Draw",
-    "3694aa4b60ed1371baf2e5281f9880c8:h2h|PMU (FR)|Colorado Rapids",
-    "3694aa4b60ed1371baf2e5281f9880c8:h2h|PMU (FR)|Draw",
-    "3694aa4b60ed1371baf2e5281f9880c8:h2h|Tipico|Colorado Rapids",
-    "3694aa4b60ed1371baf2e5281f9880c8:h2h|Tipico|Draw",
-    "3694aa4b60ed1371baf2e5281f9880c8:h2h|Unibet (NL)|Colorado Rapids",
-    "3694aa4b60ed1371baf2e5281f9880c8:h2h|Unibet (NL)|Draw",
-    "3694aa4b60ed1371baf2e5281f9880c8:h2h|Unibet (SE)|Colorado Rapids",
-    "3694aa4b60ed1371baf2e5281f9880c8:h2h|Unibet (SE)|Draw",
-    "3694aa4b60ed1371baf2e5281f9880c8:h2h|Winamax (DE)|Colorado Rapids",
-    "3694aa4b60ed1371baf2e5281f9880c8:h2h|Winamax (DE)|Draw",
-    "3694aa4b60ed1371baf2e5281f9880c8:h2h|Winamax (FR)|Colorado Rapids",
-    "3694aa4b60ed1371baf2e5281f9880c8:h2h|Winamax (FR)|Draw"
-  ]
+  "value_alerted": []
 }
