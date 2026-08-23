@@ -1,141 +1,171 @@
 {
   "snapshots": {
-    "527485dd2db8f4f232b37d4d2b1c434b:h2h": {
-      "888sport": {
-        "Burnley": 151.0,
-        "West Bromwich Albion": 1.0,
-        "Draw": 67.0
-      },
+    "0e2847592d8c1441cd0463c35e9ed795:h2h": {
       "Betclic (FR)": {
-        "Burnley": 100.0,
-        "West Bromwich Albion": 1.0,
-        "Draw": 40.0
-      },
-      "Betfair": {
-        "Burnley": 620.0,
-        "West Bromwich Albion": 1.01,
-        "Draw": 55.0
+        "Groningen": 100.0,
+        "PSV Eindhoven": 1.0,
+        "Draw": 100.0
       },
       "Nordic Bet": {
-        "Burnley": 36.0,
-        "West Bromwich Albion": 1.0,
-        "Draw": 21.0
-      },
-      "Betsson": {
-        "Burnley": 36.0,
-        "West Bromwich Albion": 1.0,
-        "Draw": 21.0
-      }
-    },
-    "1bc2b0b5f630a9a6e79cc5151e35ecbb:h2h": {
-      "Nordic Bet": {
-        "Helsingborgs IF": 26.0,
-        "IK Oddevold": 1.0,
+        "Groningen": 26.0,
+        "PSV Eindhoven": 1.0,
         "Draw": 26.0
       },
       "Betsson": {
-        "Helsingborgs IF": 26.0,
-        "IK Oddevold": 1.0,
+        "Groningen": 26.0,
+        "PSV Eindhoven": 1.0,
         "Draw": 26.0
-      },
-      "Betfair": {
-        "Helsingborgs IF": 70.0,
-        "IK Oddevold": 1.01,
-        "Draw": 50.0
       }
     },
-    "2488bc03737e0a21cebf97d3b59a83fd:h2h": {
-      "Coolbet": {
-        "Henan FC": 1.22,
-        "Liaoning Tieren FC": 28.0,
-        "Draw": 4.5
-      },
-      "Betsson": {
-        "Henan FC": 1.2,
-        "Liaoning Tieren FC": 24.0,
-        "Draw": 4.4
-      },
-      "Nordic Bet": {
-        "Henan FC": 1.16,
-        "Liaoning Tieren FC": 32.0,
-        "Draw": 4.85
-      },
-      "Winamax (FR)": {
-        "Henan FC": 1.07,
-        "Liaoning Tieren FC": 170.0,
-        "Draw": 8.5
-      },
-      "Winamax (DE)": {
-        "Henan FC": 5.6,
-        "Liaoning Tieren FC": 5.8,
-        "Draw": 1.33
-      },
-      "Pinnacle": {
-        "Henan FC": 1.24,
-        "Liaoning Tieren FC": 22.23,
-        "Draw": 4.86
-      },
-      "Betfair": {
-        "Henan FC": 5.2,
-        "Liaoning Tieren FC": 11.5,
-        "Draw": 1.21
-      },
-      "888sport": {
-        "Henan FC": 13.0,
-        "Liaoning Tieren FC": 13.0,
+    "02c74b995056d89363351775fe4b0d9d:h2h": {
+      "PMU (FR)": {
+        "Radomiak Radom": 6.1,
+        "Zagłębie Lubin": 9.0,
         "Draw": 1.08
       },
-      "Tipico": {
-        "Henan FC": 1.05,
-        "Liaoning Tieren FC": 100.0,
-        "Draw": 8.5
-      },
-      "LeoVegas (SE)": {
-        "Henan FC": 8.0,
-        "Liaoning Tieren FC": 8.0,
-        "Draw": 1.1
+      "Nordic Bet": {
+        "Radomiak Radom": 4.85,
+        "Zagłębie Lubin": 6.3,
+        "Draw": 1.34
       },
       "Unibet (NL)": {
-        "Henan FC": 8.0,
-        "Liaoning Tieren FC": 8.5,
-        "Draw": 1.17
+        "Radomiak Radom": 7.0,
+        "Zagłębie Lubin": 9.0,
+        "Draw": 1.18
+      },
+      "LeoVegas (SE)": {
+        "Radomiak Radom": 6.5,
+        "Zagłębie Lubin": 9.0,
+        "Draw": 1.11
       },
       "Unibet (SE)": {
-        "Henan FC": 8.0,
-        "Liaoning Tieren FC": 8.5,
-        "Draw": 1.17
+        "Radomiak Radom": 6.5,
+        "Zagłębie Lubin": 9.5,
+        "Draw": 1.19
       },
-      "Matchbook": {
-        "Henan FC": 3.45,
-        "Liaoning Tieren FC": 3.45,
-        "Draw": 1.31
-      }
-    },
-    "780aff16284512d03d3ae42436754b38:h2h": {
-      "Tipico": {
-        "Greuther Fürth": 300.0,
-        "VfL Bochum": 1.03,
-        "Draw": 9.5
-      },
-      "Winamax (FR)": {
-        "Greuther Fürth": 225.0,
-        "VfL Bochum": 1.07,
-        "Draw": 8.5
-      },
-      "Winamax (DE)": {
-        "Greuther Fürth": 700.0,
-        "VfL Bochum": 1.04,
-        "Draw": 11.5
+      "Betsson": {
+        "Radomiak Radom": 4.85,
+        "Zagłębie Lubin": 6.3,
+        "Draw": 1.33
       },
       "Betclic (FR)": {
-        "Greuther Fürth": 125.0,
-        "VfL Bochum": 1.05,
-        "Draw": 5.75
+        "Radomiak Radom": 6.0,
+        "Zagłębie Lubin": 8.25,
+        "Draw": 1.2
+      },
+      "Winamax (FR)": {
+        "Radomiak Radom": 6.0,
+        "Zagłębie Lubin": 8.5,
+        "Draw": 1.22
+      },
+      "Winamax (DE)": {
+        "Radomiak Radom": 6.75,
+        "Zagłębie Lubin": 9.5,
+        "Draw": 1.18
+      },
+      "Coolbet": {
+        "Radomiak Radom": 6.5,
+        "Zagłębie Lubin": 10.0,
+        "Draw": 1.22
+      },
+      "Pinnacle": {
+        "Radomiak Radom": 4.56,
+        "Zagłębie Lubin": 5.98,
+        "Draw": 1.47
       },
       "888sport": {
-        "Greuther Fürth": 21.0,
-        "VfL Bochum": 1.22,
-        "Draw": 4.33
+        "Radomiak Radom": 9.0,
+        "Zagłębie Lubin": 12.0,
+        "Draw": 1.12
+      },
+      "Tipico": {
+        "Radomiak Radom": 7.5,
+        "Zagłębie Lubin": 8.5,
+        "Draw": 1.18
+      },
+      "Betfair": {
+        "Radomiak Radom": 7.8,
+        "Zagłębie Lubin": 11.5,
+        "Draw": 1.25
+      },
+      "Matchbook": {
+        "Radomiak Radom": 8.8,
+        "Zagłębie Lubin": 12.5,
+        "Draw": 1.19
+      }
+    },
+    "48df026b72fffa82898ff0cfcb02878d:h2h": {
+      "Winamax (DE)": {
+        "Angers": 140.0,
+        "Lille": 1.01,
+        "Draw": 27.0
+      },
+      "Winamax (FR)": {
+        "Angers": 160.0,
+        "Lille": 1.02,
+        "Draw": 28.0
+      },
+      "Betfair": {
+        "Angers": 150.0,
+        "Lille": 1.02,
+        "Draw": 36.0
+      },
+      "Betclic (FR)": {
+        "Angers": 80.0,
+        "Lille": 1.01,
+        "Draw": 20.0
+      },
+      "Coolbet": {
+        "Angers": 100.0,
+        "Lille": 1.01,
+        "Draw": 25.0
+      },
+      "Suprabets": {
+        "Angers": 96.0,
+        "Lille": 1.01,
+        "Draw": 14.0
+      },
+      "Unibet (SE)": {
+        "Angers": 111.0,
+        "Lille": 1.01,
+        "Draw": 23.0
+      },
+      "Unibet (NL)": {
+        "Angers": 111.0,
+        "Lille": 1.01,
+        "Draw": 23.0
+      },
+      "Nordic Bet": {
+        "Angers": 65.0,
+        "Lille": 1.01,
+        "Draw": 17.0
+      },
+      "Betsson": {
+        "Angers": 61.0,
+        "Lille": 1.0,
+        "Draw": 19.0
+      },
+      "888sport": {
+        "Angers": 101.0,
+        "Lille": 1.02,
+        "Draw": 23.0
+      }
+    },
+    "f5086c74d4a767e3ad7ea69bd4a66b76:h2h": {
+      "Betclic (FR)": {
+        "Aston Villa": 100.0,
+        "Brighton and Hove Albion": 1.0,
+        "Draw": 100.0
+      },
+      "Nordic Bet": {
+        "Aston Villa": 34.0,
+        "Brighton and Hove Albion": 1.0,
+        "Draw": 29.0
+      },
+      "Betsson": {
+        "Aston Villa": 34.0,
+        "Brighton and Hove Albion": 1.0,
+        "Draw": 29.0
       }
     }
   },
@@ -10428,22 +10458,417 @@
       "confidence": 163,
       "alert_type": "value",
       "alerted_at": "2026-08-23T12:58:33.304975+00:00"
+    },
+    {
+      "state_key": "02c74b995056d89363351775fe4b0d9d:h2h",
+      "event_id": "02c74b995056d89363351775fe4b0d9d",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Radomiak Radom",
+      "away_team": "Zagłębie Lubin",
+      "commence_time": "2026-08-23T12:46:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Radomiak Radom",
+      "odds_at_alert": 6.1,
+      "stake_pct": 5.0,
+      "confidence": 25,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T14:35:10.740767+00:00"
+    },
+    {
+      "state_key": "02c74b995056d89363351775fe4b0d9d:h2h",
+      "event_id": "02c74b995056d89363351775fe4b0d9d",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Radomiak Radom",
+      "away_team": "Zagłębie Lubin",
+      "commence_time": "2026-08-23T12:46:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Zagłębie Lubin",
+      "odds_at_alert": 9.0,
+      "stake_pct": 5.0,
+      "confidence": 41,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T14:35:11.192409+00:00"
+    },
+    {
+      "state_key": "02c74b995056d89363351775fe4b0d9d:h2h",
+      "event_id": "02c74b995056d89363351775fe4b0d9d",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Radomiak Radom",
+      "away_team": "Zagłębie Lubin",
+      "commence_time": "2026-08-23T12:46:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Radomiak Radom",
+      "odds_at_alert": 7.0,
+      "stake_pct": 5.0,
+      "confidence": 44,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T14:35:11.656807+00:00"
+    },
+    {
+      "state_key": "02c74b995056d89363351775fe4b0d9d:h2h",
+      "event_id": "02c74b995056d89363351775fe4b0d9d",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Radomiak Radom",
+      "away_team": "Zagłębie Lubin",
+      "commence_time": "2026-08-23T12:46:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Zagłębie Lubin",
+      "odds_at_alert": 9.0,
+      "stake_pct": 5.0,
+      "confidence": 41,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T14:35:12.120699+00:00"
+    },
+    {
+      "state_key": "02c74b995056d89363351775fe4b0d9d:h2h",
+      "event_id": "02c74b995056d89363351775fe4b0d9d",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Radomiak Radom",
+      "away_team": "Zagłębie Lubin",
+      "commence_time": "2026-08-23T12:46:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Radomiak Radom",
+      "odds_at_alert": 6.5,
+      "stake_pct": 5.0,
+      "confidence": 34,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T14:35:12.573554+00:00"
+    },
+    {
+      "state_key": "02c74b995056d89363351775fe4b0d9d:h2h",
+      "event_id": "02c74b995056d89363351775fe4b0d9d",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Radomiak Radom",
+      "away_team": "Zagłębie Lubin",
+      "commence_time": "2026-08-23T12:46:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Zagłębie Lubin",
+      "odds_at_alert": 9.0,
+      "stake_pct": 5.0,
+      "confidence": 41,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T14:35:13.063737+00:00"
+    },
+    {
+      "state_key": "02c74b995056d89363351775fe4b0d9d:h2h",
+      "event_id": "02c74b995056d89363351775fe4b0d9d",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Radomiak Radom",
+      "away_team": "Zagłębie Lubin",
+      "commence_time": "2026-08-23T12:46:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Radomiak Radom",
+      "odds_at_alert": 6.5,
+      "stake_pct": 5.0,
+      "confidence": 34,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T14:35:13.520209+00:00"
+    },
+    {
+      "state_key": "02c74b995056d89363351775fe4b0d9d:h2h",
+      "event_id": "02c74b995056d89363351775fe4b0d9d",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Radomiak Radom",
+      "away_team": "Zagłębie Lubin",
+      "commence_time": "2026-08-23T12:46:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Zagłębie Lubin",
+      "odds_at_alert": 9.5,
+      "stake_pct": 5.0,
+      "confidence": 49,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T14:35:13.977801+00:00"
+    },
+    {
+      "state_key": "02c74b995056d89363351775fe4b0d9d:h2h",
+      "event_id": "02c74b995056d89363351775fe4b0d9d",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Radomiak Radom",
+      "away_team": "Zagłębie Lubin",
+      "commence_time": "2026-08-23T12:46:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Radomiak Radom",
+      "odds_at_alert": 6.0,
+      "stake_pct": 5.0,
+      "confidence": 23,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T14:35:14.429433+00:00"
+    },
+    {
+      "state_key": "02c74b995056d89363351775fe4b0d9d:h2h",
+      "event_id": "02c74b995056d89363351775fe4b0d9d",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Radomiak Radom",
+      "away_team": "Zagłębie Lubin",
+      "commence_time": "2026-08-23T12:46:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Zagłębie Lubin",
+      "odds_at_alert": 8.25,
+      "stake_pct": 5.0,
+      "confidence": 29,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T14:35:14.888247+00:00"
+    },
+    {
+      "state_key": "02c74b995056d89363351775fe4b0d9d:h2h",
+      "event_id": "02c74b995056d89363351775fe4b0d9d",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Radomiak Radom",
+      "away_team": "Zagłębie Lubin",
+      "commence_time": "2026-08-23T12:46:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Radomiak Radom",
+      "odds_at_alert": 6.0,
+      "stake_pct": 5.0,
+      "confidence": 23,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T14:35:15.358595+00:00"
+    },
+    {
+      "state_key": "02c74b995056d89363351775fe4b0d9d:h2h",
+      "event_id": "02c74b995056d89363351775fe4b0d9d",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Radomiak Radom",
+      "away_team": "Zagłębie Lubin",
+      "commence_time": "2026-08-23T12:46:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Zagłębie Lubin",
+      "odds_at_alert": 8.5,
+      "stake_pct": 5.0,
+      "confidence": 33,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T14:35:15.939796+00:00"
+    },
+    {
+      "state_key": "02c74b995056d89363351775fe4b0d9d:h2h",
+      "event_id": "02c74b995056d89363351775fe4b0d9d",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Radomiak Radom",
+      "away_team": "Zagłębie Lubin",
+      "commence_time": "2026-08-23T12:46:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Radomiak Radom",
+      "odds_at_alert": 6.75,
+      "stake_pct": 5.0,
+      "confidence": 39,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T14:35:16.409242+00:00"
+    },
+    {
+      "state_key": "02c74b995056d89363351775fe4b0d9d:h2h",
+      "event_id": "02c74b995056d89363351775fe4b0d9d",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Radomiak Radom",
+      "away_team": "Zagłębie Lubin",
+      "commence_time": "2026-08-23T12:46:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Zagłębie Lubin",
+      "odds_at_alert": 9.5,
+      "stake_pct": 5.0,
+      "confidence": 49,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T14:35:16.879051+00:00"
+    },
+    {
+      "state_key": "02c74b995056d89363351775fe4b0d9d:h2h",
+      "event_id": "02c74b995056d89363351775fe4b0d9d",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Radomiak Radom",
+      "away_team": "Zagłębie Lubin",
+      "commence_time": "2026-08-23T12:46:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Radomiak Radom",
+      "odds_at_alert": 6.5,
+      "stake_pct": 5.0,
+      "confidence": 34,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T14:35:17.337801+00:00"
+    },
+    {
+      "state_key": "02c74b995056d89363351775fe4b0d9d:h2h",
+      "event_id": "02c74b995056d89363351775fe4b0d9d",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Radomiak Radom",
+      "away_team": "Zagłębie Lubin",
+      "commence_time": "2026-08-23T12:46:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Zagłębie Lubin",
+      "odds_at_alert": 10.0,
+      "stake_pct": 5.0,
+      "confidence": 57,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T14:35:17.797555+00:00"
+    },
+    {
+      "state_key": "02c74b995056d89363351775fe4b0d9d:h2h",
+      "event_id": "02c74b995056d89363351775fe4b0d9d",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Radomiak Radom",
+      "away_team": "Zagłębie Lubin",
+      "commence_time": "2026-08-23T12:46:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Radomiak Radom",
+      "odds_at_alert": 9.0,
+      "stake_pct": 5.0,
+      "confidence": 85,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T14:35:18.249480+00:00"
+    },
+    {
+      "state_key": "02c74b995056d89363351775fe4b0d9d:h2h",
+      "event_id": "02c74b995056d89363351775fe4b0d9d",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Radomiak Radom",
+      "away_team": "Zagłębie Lubin",
+      "commence_time": "2026-08-23T12:46:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Zagłębie Lubin",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 88,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T14:35:18.712937+00:00"
+    },
+    {
+      "state_key": "02c74b995056d89363351775fe4b0d9d:h2h",
+      "event_id": "02c74b995056d89363351775fe4b0d9d",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Radomiak Radom",
+      "away_team": "Zagłębie Lubin",
+      "commence_time": "2026-08-23T12:46:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Radomiak Radom",
+      "odds_at_alert": 7.5,
+      "stake_pct": 5.0,
+      "confidence": 54,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T14:35:19.184410+00:00"
+    },
+    {
+      "state_key": "02c74b995056d89363351775fe4b0d9d:h2h",
+      "event_id": "02c74b995056d89363351775fe4b0d9d",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Radomiak Radom",
+      "away_team": "Zagłębie Lubin",
+      "commence_time": "2026-08-23T12:46:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Zagłębie Lubin",
+      "odds_at_alert": 8.5,
+      "stake_pct": 5.0,
+      "confidence": 33,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T14:35:19.642045+00:00"
+    },
+    {
+      "state_key": "02c74b995056d89363351775fe4b0d9d:h2h",
+      "event_id": "02c74b995056d89363351775fe4b0d9d",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Radomiak Radom",
+      "away_team": "Zagłębie Lubin",
+      "commence_time": "2026-08-23T12:46:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Radomiak Radom",
+      "odds_at_alert": 7.8,
+      "stake_pct": 5.0,
+      "confidence": 60,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T14:35:20.099735+00:00"
+    },
+    {
+      "state_key": "02c74b995056d89363351775fe4b0d9d:h2h",
+      "event_id": "02c74b995056d89363351775fe4b0d9d",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Radomiak Radom",
+      "away_team": "Zagłębie Lubin",
+      "commence_time": "2026-08-23T12:46:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Zagłębie Lubin",
+      "odds_at_alert": 11.5,
+      "stake_pct": 5.0,
+      "confidence": 80,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T14:35:20.574688+00:00"
+    },
+    {
+      "state_key": "02c74b995056d89363351775fe4b0d9d:h2h",
+      "event_id": "02c74b995056d89363351775fe4b0d9d",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Radomiak Radom",
+      "away_team": "Zagłębie Lubin",
+      "commence_time": "2026-08-23T12:46:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Radomiak Radom",
+      "odds_at_alert": 8.8,
+      "stake_pct": 5.0,
+      "confidence": 81,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T14:35:21.039997+00:00"
+    },
+    {
+      "state_key": "02c74b995056d89363351775fe4b0d9d:h2h",
+      "event_id": "02c74b995056d89363351775fe4b0d9d",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Radomiak Radom",
+      "away_team": "Zagłębie Lubin",
+      "commence_time": "2026-08-23T12:46:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Zagłębie Lubin",
+      "odds_at_alert": 12.5,
+      "stake_pct": 5.0,
+      "confidence": 96,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T14:35:21.508100+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "2488bc03737e0a21cebf97d3b59a83fd:h2h|888sport|Henan FC",
-    "2488bc03737e0a21cebf97d3b59a83fd:h2h|Betfair|Henan FC",
-    "2488bc03737e0a21cebf97d3b59a83fd:h2h|Coolbet|Liaoning Tieren FC",
-    "2488bc03737e0a21cebf97d3b59a83fd:h2h|LeoVegas (SE)|Henan FC",
-    "2488bc03737e0a21cebf97d3b59a83fd:h2h|Matchbook|Henan FC",
-    "2488bc03737e0a21cebf97d3b59a83fd:h2h|Nordic Bet|Liaoning Tieren FC",
-    "2488bc03737e0a21cebf97d3b59a83fd:h2h|Tipico|Draw",
-    "2488bc03737e0a21cebf97d3b59a83fd:h2h|Tipico|Liaoning Tieren FC",
-    "2488bc03737e0a21cebf97d3b59a83fd:h2h|Unibet (NL)|Henan FC",
-    "2488bc03737e0a21cebf97d3b59a83fd:h2h|Unibet (SE)|Henan FC",
-    "2488bc03737e0a21cebf97d3b59a83fd:h2h|Winamax (DE)|Henan FC",
-    "2488bc03737e0a21cebf97d3b59a83fd:h2h|Winamax (FR)|Draw",
-    "2488bc03737e0a21cebf97d3b59a83fd:h2h|Winamax (FR)|Liaoning Tieren FC"
+    "02c74b995056d89363351775fe4b0d9d:h2h|888sport|Radomiak Radom",
+    "02c74b995056d89363351775fe4b0d9d:h2h|888sport|Zagłębie Lubin",
+    "02c74b995056d89363351775fe4b0d9d:h2h|Betclic (FR)|Radomiak Radom",
+    "02c74b995056d89363351775fe4b0d9d:h2h|Betclic (FR)|Zagłębie Lubin",
+    "02c74b995056d89363351775fe4b0d9d:h2h|Betfair|Radomiak Radom",
+    "02c74b995056d89363351775fe4b0d9d:h2h|Betfair|Zagłębie Lubin",
+    "02c74b995056d89363351775fe4b0d9d:h2h|Coolbet|Radomiak Radom",
+    "02c74b995056d89363351775fe4b0d9d:h2h|Coolbet|Zagłębie Lubin",
+    "02c74b995056d89363351775fe4b0d9d:h2h|LeoVegas (SE)|Radomiak Radom",
+    "02c74b995056d89363351775fe4b0d9d:h2h|LeoVegas (SE)|Zagłębie Lubin",
+    "02c74b995056d89363351775fe4b0d9d:h2h|Matchbook|Radomiak Radom",
+    "02c74b995056d89363351775fe4b0d9d:h2h|Matchbook|Zagłębie Lubin",
+    "02c74b995056d89363351775fe4b0d9d:h2h|PMU (FR)|Radomiak Radom",
+    "02c74b995056d89363351775fe4b0d9d:h2h|PMU (FR)|Zagłębie Lubin",
+    "02c74b995056d89363351775fe4b0d9d:h2h|Tipico|Radomiak Radom",
+    "02c74b995056d89363351775fe4b0d9d:h2h|Tipico|Zagłębie Lubin",
+    "02c74b995056d89363351775fe4b0d9d:h2h|Unibet (NL)|Radomiak Radom",
+    "02c74b995056d89363351775fe4b0d9d:h2h|Unibet (NL)|Zagłębie Lubin",
+    "02c74b995056d89363351775fe4b0d9d:h2h|Unibet (SE)|Radomiak Radom",
+    "02c74b995056d89363351775fe4b0d9d:h2h|Unibet (SE)|Zagłębie Lubin",
+    "02c74b995056d89363351775fe4b0d9d:h2h|Winamax (DE)|Radomiak Radom",
+    "02c74b995056d89363351775fe4b0d9d:h2h|Winamax (DE)|Zagłębie Lubin",
+    "02c74b995056d89363351775fe4b0d9d:h2h|Winamax (FR)|Radomiak Radom",
+    "02c74b995056d89363351775fe4b0d9d:h2h|Winamax (FR)|Zagłębie Lubin"
   ]
 }
