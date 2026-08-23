@@ -1,171 +1,134 @@
 {
   "snapshots": {
-    "0e2847592d8c1441cd0463c35e9ed795:h2h": {
-      "Betclic (FR)": {
-        "Groningen": 100.0,
-        "PSV Eindhoven": 1.0,
-        "Draw": 100.0
-      },
-      "Nordic Bet": {
-        "Groningen": 26.0,
-        "PSV Eindhoven": 1.0,
-        "Draw": 26.0
-      },
-      "Betsson": {
-        "Groningen": 26.0,
-        "PSV Eindhoven": 1.0,
-        "Draw": 26.0
-      }
-    },
-    "02c74b995056d89363351775fe4b0d9d:h2h": {
-      "PMU (FR)": {
-        "Radomiak Radom": 6.1,
-        "Zagłębie Lubin": 9.0,
-        "Draw": 1.08
-      },
-      "Nordic Bet": {
-        "Radomiak Radom": 4.85,
-        "Zagłębie Lubin": 6.3,
-        "Draw": 1.34
-      },
-      "Unibet (NL)": {
-        "Radomiak Radom": 7.0,
-        "Zagłębie Lubin": 9.0,
-        "Draw": 1.18
-      },
-      "LeoVegas (SE)": {
-        "Radomiak Radom": 6.5,
-        "Zagłębie Lubin": 9.0,
-        "Draw": 1.11
-      },
-      "Unibet (SE)": {
-        "Radomiak Radom": 6.5,
-        "Zagłębie Lubin": 9.5,
-        "Draw": 1.19
-      },
-      "Betsson": {
-        "Radomiak Radom": 4.85,
-        "Zagłębie Lubin": 6.3,
-        "Draw": 1.33
-      },
-      "Betclic (FR)": {
-        "Radomiak Radom": 6.0,
-        "Zagłębie Lubin": 8.25,
-        "Draw": 1.2
+    "51e3ad789b0cbd70eaae085effe6a169:h2h": {
+      "Winamax (DE)": {
+        "Nacional": 1000.0,
+        "Vitória SC": 1.01,
+        "Draw": 24.0
       },
       "Winamax (FR)": {
-        "Radomiak Radom": 6.0,
-        "Zagłębie Lubin": 8.5,
-        "Draw": 1.22
+        "Nacional": 1000.0,
+        "Vitória SC": 1.02,
+        "Draw": 24.0
       },
-      "Winamax (DE)": {
-        "Radomiak Radom": 6.75,
-        "Zagłębie Lubin": 9.5,
-        "Draw": 1.18
+      "Betsson": {
+        "Nacional": 126.0,
+        "Vitória SC": 1.0,
+        "Draw": 15.0
       },
-      "Coolbet": {
-        "Radomiak Radom": 6.5,
-        "Zagłębie Lubin": 10.0,
-        "Draw": 1.22
-      },
-      "Pinnacle": {
-        "Radomiak Radom": 4.56,
-        "Zagłębie Lubin": 5.98,
-        "Draw": 1.47
-      },
-      "888sport": {
-        "Radomiak Radom": 9.0,
-        "Zagłębie Lubin": 12.0,
-        "Draw": 1.12
-      },
-      "Tipico": {
-        "Radomiak Radom": 7.5,
-        "Zagłębie Lubin": 8.5,
-        "Draw": 1.18
-      },
-      "Betfair": {
-        "Radomiak Radom": 7.8,
-        "Zagłębie Lubin": 11.5,
-        "Draw": 1.25
-      },
-      "Matchbook": {
-        "Radomiak Radom": 8.8,
-        "Zagłębie Lubin": 12.5,
-        "Draw": 1.19
-      }
-    },
-    "48df026b72fffa82898ff0cfcb02878d:h2h": {
-      "Winamax (DE)": {
-        "Angers": 140.0,
-        "Lille": 1.01,
-        "Draw": 27.0
-      },
-      "Winamax (FR)": {
-        "Angers": 160.0,
-        "Lille": 1.02,
-        "Draw": 28.0
-      },
-      "Betfair": {
-        "Angers": 150.0,
-        "Lille": 1.02,
-        "Draw": 36.0
+      "Nordic Bet": {
+        "Nacional": 126.0,
+        "Vitória SC": 1.0,
+        "Draw": 15.0
       },
       "Betclic (FR)": {
-        "Angers": 80.0,
-        "Lille": 1.01,
-        "Draw": 20.0
-      },
-      "Coolbet": {
-        "Angers": 100.0,
-        "Lille": 1.01,
+        "Nacional": 100.0,
+        "Vitória SC": 1.0,
         "Draw": 25.0
       },
-      "Suprabets": {
-        "Angers": 96.0,
-        "Lille": 1.01,
-        "Draw": 14.0
-      },
-      "Unibet (SE)": {
-        "Angers": 111.0,
-        "Lille": 1.01,
-        "Draw": 23.0
-      },
-      "Unibet (NL)": {
-        "Angers": 111.0,
-        "Lille": 1.01,
-        "Draw": 23.0
-      },
-      "Nordic Bet": {
-        "Angers": 65.0,
-        "Lille": 1.01,
-        "Draw": 17.0
-      },
-      "Betsson": {
-        "Angers": 61.0,
-        "Lille": 1.0,
-        "Draw": 19.0
+      "Coolbet": {
+        "Nacional": 150.0,
+        "Vitória SC": 1.02,
+        "Draw": 12.0
       },
       "888sport": {
-        "Angers": 101.0,
-        "Lille": 1.02,
-        "Draw": 23.0
+        "Nacional": 151.0,
+        "Vitória SC": 1.02,
+        "Draw": 17.0
+      },
+      "Betfair": {
+        "Nacional": 6.0,
+        "Vitória SC": 1.01,
+        "Draw": 1.01
       }
     },
-    "f5086c74d4a767e3ad7ea69bd4a66b76:h2h": {
-      "Betclic (FR)": {
-        "Aston Villa": 100.0,
-        "Brighton and Hove Albion": 1.0,
-        "Draw": 100.0
-      },
+    "c3d8ca7eccde2beeba0ba9b5f0a1cd97:h2h": {
       "Nordic Bet": {
-        "Aston Villa": 34.0,
-        "Brighton and Hove Albion": 1.0,
-        "Draw": 29.0
+        "Feyenoord": 1.0,
+        "SC Cambuur": 26.0,
+        "Draw": 26.0
       },
       "Betsson": {
-        "Aston Villa": 34.0,
-        "Brighton and Hove Albion": 1.0,
-        "Draw": 29.0
+        "Feyenoord": 1.0,
+        "SC Cambuur": 26.0,
+        "Draw": 26.0
+      },
+      "Betclic (FR)": {
+        "Feyenoord": 1.0,
+        "SC Cambuur": 100.0,
+        "Draw": 100.0
+      }
+    },
+    "4290b7b558285b2ec3a5ed42feca310d:h2h": {
+      "Betclic (FR)": {
+        "Atlético Madrid": 2.75,
+        "Villarreal": 4.8,
+        "Draw": 1.94
+      },
+      "Coolbet": {
+        "Atlético Madrid": 2.88,
+        "Villarreal": 5.0,
+        "Draw": 2.0
+      },
+      "Winamax (FR)": {
+        "Atlético Madrid": 2.6,
+        "Villarreal": 4.5,
+        "Draw": 1.84
+      },
+      "Winamax (DE)": {
+        "Atlético Madrid": 2.75,
+        "Villarreal": 4.8,
+        "Draw": 1.94
+      },
+      "Betfair": {
+        "Atlético Madrid": 3.0,
+        "Villarreal": 5.4,
+        "Draw": 2.06
+      },
+      "Tipico": {
+        "Atlético Madrid": 2.7,
+        "Villarreal": 5.2,
+        "Draw": 1.9
+      },
+      "Nordic Bet": {
+        "Atlético Madrid": 2.78,
+        "Villarreal": 4.85,
+        "Draw": 1.92
+      },
+      "Betsson": {
+        "Atlético Madrid": 2.75,
+        "Villarreal": 4.85,
+        "Draw": 1.92
+      },
+      "Pinnacle": {
+        "Atlético Madrid": 2.24,
+        "Villarreal": 4.67,
+        "Draw": 2.55
+      },
+      "Unibet (NL)": {
+        "Atlético Madrid": 2.95,
+        "Villarreal": 5.75,
+        "Draw": 1.79
+      },
+      "Unibet (SE)": {
+        "Atlético Madrid": 3.05,
+        "Villarreal": 6.0,
+        "Draw": 1.73
+      },
+      "PMU (FR)": {
+        "Atlético Madrid": 2.8,
+        "Villarreal": 5.4,
+        "Draw": 1.71
+      },
+      "LeoVegas (SE)": {
+        "Atlético Madrid": 2.85,
+        "Villarreal": 5.5,
+        "Draw": 1.75
+      },
+      "Matchbook": {
+        "Atlético Madrid": 3.05,
+        "Villarreal": 5.5,
+        "Draw": 2.04
       }
     }
   },
@@ -10842,33 +10805,349 @@
       "confidence": 96,
       "alert_type": "value",
       "alerted_at": "2026-08-23T14:35:21.508100+00:00"
+    },
+    {
+      "state_key": "4290b7b558285b2ec3a5ed42feca310d:h2h",
+      "event_id": "4290b7b558285b2ec3a5ed42feca310d",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Atlético Madrid",
+      "away_team": "Villarreal",
+      "commence_time": "2026-08-23T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Atlético Madrid",
+      "odds_at_alert": 2.75,
+      "stake_pct": 5.0,
+      "confidence": 17,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T16:38:06.594364+00:00"
+    },
+    {
+      "state_key": "4290b7b558285b2ec3a5ed42feca310d:h2h",
+      "event_id": "4290b7b558285b2ec3a5ed42feca310d",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Atlético Madrid",
+      "away_team": "Villarreal",
+      "commence_time": "2026-08-23T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Atlético Madrid",
+      "odds_at_alert": 2.88,
+      "stake_pct": 5.0,
+      "confidence": 22,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T16:38:06.902234+00:00"
+    },
+    {
+      "state_key": "4290b7b558285b2ec3a5ed42feca310d:h2h",
+      "event_id": "4290b7b558285b2ec3a5ed42feca310d",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Atlético Madrid",
+      "away_team": "Villarreal",
+      "commence_time": "2026-08-23T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Atlético Madrid",
+      "odds_at_alert": 2.6,
+      "stake_pct": 3.0,
+      "confidence": 10,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T16:38:07.236209+00:00"
+    },
+    {
+      "state_key": "4290b7b558285b2ec3a5ed42feca310d:h2h",
+      "event_id": "4290b7b558285b2ec3a5ed42feca310d",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Atlético Madrid",
+      "away_team": "Villarreal",
+      "commence_time": "2026-08-23T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Atlético Madrid",
+      "odds_at_alert": 2.75,
+      "stake_pct": 5.0,
+      "confidence": 17,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T16:38:07.547203+00:00"
+    },
+    {
+      "state_key": "4290b7b558285b2ec3a5ed42feca310d:h2h",
+      "event_id": "4290b7b558285b2ec3a5ed42feca310d",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Atlético Madrid",
+      "away_team": "Villarreal",
+      "commence_time": "2026-08-23T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Atlético Madrid",
+      "odds_at_alert": 3.0,
+      "stake_pct": 5.0,
+      "confidence": 27,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T16:38:07.878124+00:00"
+    },
+    {
+      "state_key": "4290b7b558285b2ec3a5ed42feca310d:h2h",
+      "event_id": "4290b7b558285b2ec3a5ed42feca310d",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Atlético Madrid",
+      "away_team": "Villarreal",
+      "commence_time": "2026-08-23T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Villarreal",
+      "odds_at_alert": 5.4,
+      "stake_pct": 2.0,
+      "confidence": 10,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T16:38:08.197552+00:00"
+    },
+    {
+      "state_key": "4290b7b558285b2ec3a5ed42feca310d:h2h",
+      "event_id": "4290b7b558285b2ec3a5ed42feca310d",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Atlético Madrid",
+      "away_team": "Villarreal",
+      "commence_time": "2026-08-23T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Atlético Madrid",
+      "odds_at_alert": 2.7,
+      "stake_pct": 3.0,
+      "confidence": 14,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T16:38:08.528181+00:00"
+    },
+    {
+      "state_key": "4290b7b558285b2ec3a5ed42feca310d:h2h",
+      "event_id": "4290b7b558285b2ec3a5ed42feca310d",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Atlético Madrid",
+      "away_team": "Villarreal",
+      "commence_time": "2026-08-23T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Villarreal",
+      "odds_at_alert": 5.2,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T16:38:08.845751+00:00"
+    },
+    {
+      "state_key": "4290b7b558285b2ec3a5ed42feca310d:h2h",
+      "event_id": "4290b7b558285b2ec3a5ed42feca310d",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Atlético Madrid",
+      "away_team": "Villarreal",
+      "commence_time": "2026-08-23T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Atlético Madrid",
+      "odds_at_alert": 2.78,
+      "stake_pct": 5.0,
+      "confidence": 18,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T16:38:09.181469+00:00"
+    },
+    {
+      "state_key": "4290b7b558285b2ec3a5ed42feca310d:h2h",
+      "event_id": "4290b7b558285b2ec3a5ed42feca310d",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Atlético Madrid",
+      "away_team": "Villarreal",
+      "commence_time": "2026-08-23T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Atlético Madrid",
+      "odds_at_alert": 2.75,
+      "stake_pct": 5.0,
+      "confidence": 17,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T16:38:09.498184+00:00"
+    },
+    {
+      "state_key": "4290b7b558285b2ec3a5ed42feca310d:h2h",
+      "event_id": "4290b7b558285b2ec3a5ed42feca310d",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Atlético Madrid",
+      "away_team": "Villarreal",
+      "commence_time": "2026-08-23T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Atlético Madrid",
+      "odds_at_alert": 2.95,
+      "stake_pct": 5.0,
+      "confidence": 25,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T16:38:09.810481+00:00"
+    },
+    {
+      "state_key": "4290b7b558285b2ec3a5ed42feca310d:h2h",
+      "event_id": "4290b7b558285b2ec3a5ed42feca310d",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Atlético Madrid",
+      "away_team": "Villarreal",
+      "commence_time": "2026-08-23T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Villarreal",
+      "odds_at_alert": 5.75,
+      "stake_pct": 5.0,
+      "confidence": 17,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T16:38:10.156587+00:00"
+    },
+    {
+      "state_key": "4290b7b558285b2ec3a5ed42feca310d:h2h",
+      "event_id": "4290b7b558285b2ec3a5ed42feca310d",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Atlético Madrid",
+      "away_team": "Villarreal",
+      "commence_time": "2026-08-23T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Atlético Madrid",
+      "odds_at_alert": 3.05,
+      "stake_pct": 5.0,
+      "confidence": 29,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T16:38:10.501885+00:00"
+    },
+    {
+      "state_key": "4290b7b558285b2ec3a5ed42feca310d:h2h",
+      "event_id": "4290b7b558285b2ec3a5ed42feca310d",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Atlético Madrid",
+      "away_team": "Villarreal",
+      "commence_time": "2026-08-23T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Villarreal",
+      "odds_at_alert": 6.0,
+      "stake_pct": 5.0,
+      "confidence": 22,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T16:38:10.873943+00:00"
+    },
+    {
+      "state_key": "4290b7b558285b2ec3a5ed42feca310d:h2h",
+      "event_id": "4290b7b558285b2ec3a5ed42feca310d",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Atlético Madrid",
+      "away_team": "Villarreal",
+      "commence_time": "2026-08-23T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Atlético Madrid",
+      "odds_at_alert": 2.8,
+      "stake_pct": 5.0,
+      "confidence": 19,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T16:38:11.215850+00:00"
+    },
+    {
+      "state_key": "4290b7b558285b2ec3a5ed42feca310d:h2h",
+      "event_id": "4290b7b558285b2ec3a5ed42feca310d",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Atlético Madrid",
+      "away_team": "Villarreal",
+      "commence_time": "2026-08-23T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Villarreal",
+      "odds_at_alert": 5.4,
+      "stake_pct": 2.0,
+      "confidence": 10,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T16:38:11.520343+00:00"
+    },
+    {
+      "state_key": "4290b7b558285b2ec3a5ed42feca310d:h2h",
+      "event_id": "4290b7b558285b2ec3a5ed42feca310d",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Atlético Madrid",
+      "away_team": "Villarreal",
+      "commence_time": "2026-08-23T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Atlético Madrid",
+      "odds_at_alert": 2.85,
+      "stake_pct": 5.0,
+      "confidence": 21,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T16:38:11.832308+00:00"
+    },
+    {
+      "state_key": "4290b7b558285b2ec3a5ed42feca310d:h2h",
+      "event_id": "4290b7b558285b2ec3a5ed42feca310d",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Atlético Madrid",
+      "away_team": "Villarreal",
+      "commence_time": "2026-08-23T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Villarreal",
+      "odds_at_alert": 5.5,
+      "stake_pct": 3.0,
+      "confidence": 12,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T16:38:12.165054+00:00"
+    },
+    {
+      "state_key": "4290b7b558285b2ec3a5ed42feca310d:h2h",
+      "event_id": "4290b7b558285b2ec3a5ed42feca310d",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Atlético Madrid",
+      "away_team": "Villarreal",
+      "commence_time": "2026-08-23T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Atlético Madrid",
+      "odds_at_alert": 3.05,
+      "stake_pct": 5.0,
+      "confidence": 29,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T16:38:12.478624+00:00"
+    },
+    {
+      "state_key": "4290b7b558285b2ec3a5ed42feca310d:h2h",
+      "event_id": "4290b7b558285b2ec3a5ed42feca310d",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Atlético Madrid",
+      "away_team": "Villarreal",
+      "commence_time": "2026-08-23T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Villarreal",
+      "odds_at_alert": 5.5,
+      "stake_pct": 3.0,
+      "confidence": 12,
+      "alert_type": "value",
+      "alerted_at": "2026-08-23T16:38:12.811279+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "02c74b995056d89363351775fe4b0d9d:h2h|888sport|Radomiak Radom",
-    "02c74b995056d89363351775fe4b0d9d:h2h|888sport|Zagłębie Lubin",
-    "02c74b995056d89363351775fe4b0d9d:h2h|Betclic (FR)|Radomiak Radom",
-    "02c74b995056d89363351775fe4b0d9d:h2h|Betclic (FR)|Zagłębie Lubin",
-    "02c74b995056d89363351775fe4b0d9d:h2h|Betfair|Radomiak Radom",
-    "02c74b995056d89363351775fe4b0d9d:h2h|Betfair|Zagłębie Lubin",
-    "02c74b995056d89363351775fe4b0d9d:h2h|Coolbet|Radomiak Radom",
-    "02c74b995056d89363351775fe4b0d9d:h2h|Coolbet|Zagłębie Lubin",
-    "02c74b995056d89363351775fe4b0d9d:h2h|LeoVegas (SE)|Radomiak Radom",
-    "02c74b995056d89363351775fe4b0d9d:h2h|LeoVegas (SE)|Zagłębie Lubin",
-    "02c74b995056d89363351775fe4b0d9d:h2h|Matchbook|Radomiak Radom",
-    "02c74b995056d89363351775fe4b0d9d:h2h|Matchbook|Zagłębie Lubin",
-    "02c74b995056d89363351775fe4b0d9d:h2h|PMU (FR)|Radomiak Radom",
-    "02c74b995056d89363351775fe4b0d9d:h2h|PMU (FR)|Zagłębie Lubin",
-    "02c74b995056d89363351775fe4b0d9d:h2h|Tipico|Radomiak Radom",
-    "02c74b995056d89363351775fe4b0d9d:h2h|Tipico|Zagłębie Lubin",
-    "02c74b995056d89363351775fe4b0d9d:h2h|Unibet (NL)|Radomiak Radom",
-    "02c74b995056d89363351775fe4b0d9d:h2h|Unibet (NL)|Zagłębie Lubin",
-    "02c74b995056d89363351775fe4b0d9d:h2h|Unibet (SE)|Radomiak Radom",
-    "02c74b995056d89363351775fe4b0d9d:h2h|Unibet (SE)|Zagłębie Lubin",
-    "02c74b995056d89363351775fe4b0d9d:h2h|Winamax (DE)|Radomiak Radom",
-    "02c74b995056d89363351775fe4b0d9d:h2h|Winamax (DE)|Zagłębie Lubin",
-    "02c74b995056d89363351775fe4b0d9d:h2h|Winamax (FR)|Radomiak Radom",
-    "02c74b995056d89363351775fe4b0d9d:h2h|Winamax (FR)|Zagłębie Lubin"
+    "4290b7b558285b2ec3a5ed42feca310d:h2h|Betclic (FR)|Atlético Madrid",
+    "4290b7b558285b2ec3a5ed42feca310d:h2h|Betfair|Atlético Madrid",
+    "4290b7b558285b2ec3a5ed42feca310d:h2h|Betfair|Villarreal",
+    "4290b7b558285b2ec3a5ed42feca310d:h2h|Betsson|Atlético Madrid",
+    "4290b7b558285b2ec3a5ed42feca310d:h2h|Coolbet|Atlético Madrid",
+    "4290b7b558285b2ec3a5ed42feca310d:h2h|LeoVegas (SE)|Atlético Madrid",
+    "4290b7b558285b2ec3a5ed42feca310d:h2h|LeoVegas (SE)|Villarreal",
+    "4290b7b558285b2ec3a5ed42feca310d:h2h|Matchbook|Atlético Madrid",
+    "4290b7b558285b2ec3a5ed42feca310d:h2h|Matchbook|Villarreal",
+    "4290b7b558285b2ec3a5ed42feca310d:h2h|Nordic Bet|Atlético Madrid",
+    "4290b7b558285b2ec3a5ed42feca310d:h2h|PMU (FR)|Atlético Madrid",
+    "4290b7b558285b2ec3a5ed42feca310d:h2h|PMU (FR)|Villarreal",
+    "4290b7b558285b2ec3a5ed42feca310d:h2h|Tipico|Atlético Madrid",
+    "4290b7b558285b2ec3a5ed42feca310d:h2h|Tipico|Villarreal",
+    "4290b7b558285b2ec3a5ed42feca310d:h2h|Unibet (NL)|Atlético Madrid",
+    "4290b7b558285b2ec3a5ed42feca310d:h2h|Unibet (NL)|Villarreal",
+    "4290b7b558285b2ec3a5ed42feca310d:h2h|Unibet (SE)|Atlético Madrid",
+    "4290b7b558285b2ec3a5ed42feca310d:h2h|Unibet (SE)|Villarreal",
+    "4290b7b558285b2ec3a5ed42feca310d:h2h|Winamax (DE)|Atlético Madrid",
+    "4290b7b558285b2ec3a5ed42feca310d:h2h|Winamax (FR)|Atlético Madrid"
   ]
 }
