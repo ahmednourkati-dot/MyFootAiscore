@@ -1,135 +1,151 @@
 {
   "snapshots": {
-    "9c38455237e91d888607e09268a54369:h2h": {
-      "Tipico": {
-        "VfL Wolfsburg": 1.4,
-        "VSG Altglienicke": 2.7
+    "4164b325d120b7310921429a21496210:h2h": {
+      "Betclic (FR)": {
+        "AS Roma": 1.0,
+        "Fiorentina": 100.0,
+        "Draw": 100.0
+      },
+      "Betsson": {
+        "AS Roma": 1.0,
+        "Fiorentina": 34.0,
+        "Draw": 29.0
+      },
+      "Nordic Bet": {
+        "AS Roma": 1.0,
+        "Fiorentina": 34.0,
+        "Draw": 29.0
       }
     },
-    "ee42d0a8b1e5c91e57ef0374f09aefcb:h2h": {
-      "Pinnacle": {
-        "Andorra CF": 6.72,
-        "Celta Fortuna": 9.99,
-        "Draw": 1.22
+    "859a848062bfe4b22c78a9b97572cbd2:h2h": {
+      "Betsson": {
+        "Annecy FC": 26.0,
+        "Stade de Reims": 1.0,
+        "Draw": 26.0
       },
+      "Nordic Bet": {
+        "Annecy FC": 26.0,
+        "Stade de Reims": 1.0,
+        "Draw": 26.0
+      }
+    },
+    "d87989242dcd35124a18af738401c661:h2h": {
       "Tipico": {
-        "Andorra CF": 500.0,
-        "Celta Fortuna": 1.03,
-        "Draw": 8.5
+        "FC Schalke 04": 1.9,
+        "Hallescher FC": 8.0,
+        "Draw": 2.3
       },
-      "Betclic (FR)": {
-        "Andorra CF": 8.0,
-        "Celta Fortuna": 11.0,
+      "Winamax (FR)": {
+        "FC Schalke 04": 8.0,
+        "Hallescher FC": 32.0,
         "Draw": 1.1
       },
-      "Winamax (FR)": {
-        "Andorra CF": 1000.0,
-        "Celta Fortuna": 1.04,
-        "Draw": 12.5
-      },
-      "Betsson": {
-        "Andorra CF": 14.0,
-        "Celta Fortuna": 19.5,
-        "Draw": 1.05
-      },
       "Winamax (DE)": {
-        "Andorra CF": 1000.0,
-        "Celta Fortuna": 1.03,
-        "Draw": 13.5
-      },
-      "Nordic Bet": {
-        "Andorra CF": 11.5,
-        "Celta Fortuna": 17.5,
-        "Draw": 1.05
-      },
-      "LeoVegas (SE)": {
-        "Andorra CF": 8.5,
-        "Celta Fortuna": 16.0,
-        "Draw": 1.03
-      },
-      "PMU (FR)": {
-        "Andorra CF": 8.5,
-        "Celta Fortuna": 11.5,
-        "Draw": 1.01
-      },
-      "Coolbet": {
-        "Andorra CF": 8.5,
-        "Celta Fortuna": 12.5,
-        "Draw": 1.14
-      },
-      "Matchbook": {
-        "Andorra CF": 11.0,
-        "Celta Fortuna": 6.4,
-        "Draw": 1.14
-      },
-      "Betfair": {
-        "Andorra CF": 9.8,
-        "Celta Fortuna": 17.0,
-        "Draw": 1.17
-      }
-    },
-    "54e469dfbd822a29ee11a3536634849e:h2h": {
-      "Winamax (DE)": {
-        "Brondby IF": 1.04,
-        "Silkeborg IF": 90.0,
-        "Draw": 9.5
-      },
-      "Winamax (FR)": {
-        "Brondby IF": 1.07,
-        "Silkeborg IF": 90.0,
-        "Draw": 9.0
-      },
-      "Suprabets": {
-        "Brondby IF": 1.05,
-        "Silkeborg IF": 101.0,
-        "Draw": 8.2
+        "FC Schalke 04": 9.5,
+        "Hallescher FC": 25.0,
+        "Draw": 1.08
       },
       "Betclic (FR)": {
-        "Brondby IF": 1.0,
-        "Silkeborg IF": 100.0,
-        "Draw": 40.0
-      },
-      "Nordic Bet": {
-        "Brondby IF": 1.0,
-        "Silkeborg IF": 26.0,
-        "Draw": 26.0
-      },
-      "Betsson": {
-        "Brondby IF": 1.0,
-        "Silkeborg IF": 26.0,
-        "Draw": 26.0
+        "FC Schalke 04": 6.6,
+        "Hallescher FC": 27.0,
+        "Draw": 1.05
       },
       "888sport": {
-        "Brondby IF": 1.06,
-        "Silkeborg IF": 91.0,
-        "Draw": 10.0
+        "FC Schalke 04": 1.05,
+        "Hallescher FC": 101.0,
+        "Draw": 11.0
       },
-      "Betfair": {
-        "Brondby IF": 1.07,
-        "Silkeborg IF": 65.0,
-        "Draw": 12.5
+      "Unibet (SE)": {
+        "FC Schalke 04": 14.0,
+        "Hallescher FC": 36.0,
+        "Draw": 1.03
+      },
+      "LeoVegas (SE)": {
+        "FC Schalke 04": 8.0,
+        "Hallescher FC": 20.0,
+        "Draw": 1.02
+      },
+      "PMU (FR)": {
+        "FC Schalke 04": 8.0,
+        "Hallescher FC": 20.0,
+        "Draw": 1.02
       }
     },
-    "7c23f06ff1ec33227263fa2f0cec0224:h2h": {
+    "4e4a813bf4218cc527e6f8ef2351170d:h2h": {
       "Betclic (FR)": {
-        "Djurgardens IF": 1.0,
-        "Malmo FF": 100.0,
-        "Draw": 40.0
-      },
-      "Nordic Bet": {
-        "Djurgardens IF": 1.0,
-        "Malmo FF": 26.0,
-        "Draw": 26.0
-      },
-      "Betsson": {
-        "Djurgardens IF": 1.0,
-        "Malmo FF": 26.0,
-        "Draw": 26.0
+        "Chelsea": 1.14,
+        "Fulham": 30.0,
+        "Draw": 5.25
       },
       "Betfair": {
-        "Djurgardens IF": 1.02,
-        "Malmo FF": 210.0,
-        "Draw": 34.0
+        "Chelsea": 1.25,
+        "Fulham": 55.0,
+        "Draw": 5.3
+      },
+      "888sport": {
+        "Chelsea": 1.17,
+        "Fulham": 34.0,
+        "Draw": 5.0
+      },
+      "Tipico": {
+        "Chelsea": 1.18,
+        "Fulham": 35.0,
+        "Draw": 4.7
+      },
+      "Winamax (DE)": {
+        "Chelsea": 1.18,
+        "Fulham": 34.0,
+        "Draw": 5.2
+      },
+      "Winamax (FR)": {
+        "Chelsea": 1.18,
+        "Fulham": 34.0,
+        "Draw": 4.9
+      },
+      "Unibet (SE)": {
+        "Chelsea": 1.17,
+        "Fulham": 34.0,
+        "Draw": 5.4
+      },
+      "LeoVegas (SE)": {
+        "Chelsea": 1.17,
+        "Fulham": 34.0,
+        "Draw": 5.4
+      },
+      "Unibet (NL)": {
+        "Chelsea": 1.18,
+        "Fulham": 34.0,
+        "Draw": 5.25
+      },
+      "Coolbet": {
+        "Chelsea": 1.2,
+        "Fulham": 40.0,
+        "Draw": 5.5
+      },
+      "Nordic Bet": {
+        "Chelsea": 1.16,
+        "Fulham": 30.0,
+        "Draw": 5.35
+      },
+      "Betsson": {
+        "Chelsea": 1.16,
+        "Fulham": 30.0,
+        "Draw": 5.35
+      },
+      "PMU (FR)": {
+        "Chelsea": 1.13,
+        "Fulham": 31.0,
+        "Draw": 5.0
+      },
+      "MyBookie.ag": {
+        "Chelsea": 1.2,
+        "Fulham": 11.25,
+        "Draw": 4.55
+      },
+      "Matchbook": {
+        "Chelsea": 1.25,
+        "Fulham": 48.0,
+        "Draw": 5.5
       }
     }
   },
@@ -12281,26 +12297,5 @@
     }
   ],
   "results_history": [],
-  "value_alerted": [
-    "ee42d0a8b1e5c91e57ef0374f09aefcb:h2h|Betclic (FR)|Andorra CF",
-    "ee42d0a8b1e5c91e57ef0374f09aefcb:h2h|Betfair|Andorra CF",
-    "ee42d0a8b1e5c91e57ef0374f09aefcb:h2h|Betfair|Celta Fortuna",
-    "ee42d0a8b1e5c91e57ef0374f09aefcb:h2h|Betsson|Andorra CF",
-    "ee42d0a8b1e5c91e57ef0374f09aefcb:h2h|Betsson|Celta Fortuna",
-    "ee42d0a8b1e5c91e57ef0374f09aefcb:h2h|Coolbet|Andorra CF",
-    "ee42d0a8b1e5c91e57ef0374f09aefcb:h2h|Coolbet|Celta Fortuna",
-    "ee42d0a8b1e5c91e57ef0374f09aefcb:h2h|LeoVegas (SE)|Andorra CF",
-    "ee42d0a8b1e5c91e57ef0374f09aefcb:h2h|LeoVegas (SE)|Celta Fortuna",
-    "ee42d0a8b1e5c91e57ef0374f09aefcb:h2h|Matchbook|Andorra CF",
-    "ee42d0a8b1e5c91e57ef0374f09aefcb:h2h|Nordic Bet|Andorra CF",
-    "ee42d0a8b1e5c91e57ef0374f09aefcb:h2h|Nordic Bet|Celta Fortuna",
-    "ee42d0a8b1e5c91e57ef0374f09aefcb:h2h|PMU (FR)|Andorra CF",
-    "ee42d0a8b1e5c91e57ef0374f09aefcb:h2h|PMU (FR)|Celta Fortuna",
-    "ee42d0a8b1e5c91e57ef0374f09aefcb:h2h|Tipico|Andorra CF",
-    "ee42d0a8b1e5c91e57ef0374f09aefcb:h2h|Tipico|Draw",
-    "ee42d0a8b1e5c91e57ef0374f09aefcb:h2h|Winamax (DE)|Andorra CF",
-    "ee42d0a8b1e5c91e57ef0374f09aefcb:h2h|Winamax (DE)|Draw",
-    "ee42d0a8b1e5c91e57ef0374f09aefcb:h2h|Winamax (FR)|Andorra CF",
-    "ee42d0a8b1e5c91e57ef0374f09aefcb:h2h|Winamax (FR)|Draw"
-  ]
+  "value_alerted": []
 }
