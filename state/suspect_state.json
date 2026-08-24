@@ -1,119 +1,5 @@
 {
   "snapshots": {
-    "e7382a34d78205406d3ec528e3e1194a:h2h": {
-      "Winamax (DE)": {
-        "Boca Juniors": 3.25,
-        "Racing Club": 4.2,
-        "Draw": 1.8
-      },
-      "Winamax (FR)": {
-        "Boca Juniors": 3.3,
-        "Racing Club": 4.2,
-        "Draw": 1.68
-      },
-      "Betclic (FR)": {
-        "Boca Juniors": 3.3,
-        "Racing Club": 4.3,
-        "Draw": 1.7
-      },
-      "Unibet (SE)": {
-        "Boca Juniors": 3.35,
-        "Racing Club": 4.6,
-        "Draw": 1.76
-      },
-      "LeoVegas (SE)": {
-        "Boca Juniors": 3.15,
-        "Racing Club": 4.3,
-        "Draw": 1.66
-      },
-      "Betsson": {
-        "Boca Juniors": 3.4,
-        "Racing Club": 4.4,
-        "Draw": 1.72
-      },
-      "Nordic Bet": {
-        "Boca Juniors": 3.4,
-        "Racing Club": 4.4,
-        "Draw": 1.72
-      },
-      "Pinnacle": {
-        "Boca Juniors": 3.07,
-        "Racing Club": 3.92,
-        "Draw": 2.09
-      },
-      "Betfair": {
-        "Boca Juniors": 3.7,
-        "Racing Club": 4.8,
-        "Draw": 1.89
-      }
-    },
-    "ea99934e318b2a1a4e57993d0edd5b84:h2h": {
-      "Unibet (NL)": {
-        "Necaxa": 3.85,
-        "Pumas": 2.35,
-        "Draw": 2.5
-      },
-      "Unibet (SE)": {
-        "Necaxa": 3.85,
-        "Pumas": 2.35,
-        "Draw": 2.5
-      },
-      "PMU (FR)": {
-        "Necaxa": 3.45,
-        "Pumas": 2.12,
-        "Draw": 2.25
-      },
-      "LeoVegas (SE)": {
-        "Necaxa": 3.6,
-        "Pumas": 2.23,
-        "Draw": 2.35
-      },
-      "Betsson": {
-        "Necaxa": 3.5,
-        "Pumas": 2.45,
-        "Draw": 2.45
-      },
-      "Nordic Bet": {
-        "Necaxa": 3.5,
-        "Pumas": 2.45,
-        "Draw": 2.45
-      },
-      "Betclic (FR)": {
-        "Necaxa": 3.47,
-        "Pumas": 2.38,
-        "Draw": 2.47
-      },
-      "Coolbet": {
-        "Necaxa": 3.8,
-        "Pumas": 2.6,
-        "Draw": 2.6
-      },
-      "888sport": {
-        "Necaxa": 3.3,
-        "Pumas": 2.3,
-        "Draw": 2.4
-      },
-      "Tipico": {
-        "Necaxa": 3.8,
-        "Pumas": 2.3,
-        "Draw": 2.5
-      },
-      "Pinnacle": {
-        "Necaxa": 3.76,
-        "Pumas": 2.5,
-        "Draw": 2.54
-      },
-      "Betfair": {
-        "Necaxa": 3.95,
-        "Pumas": 2.54,
-        "Draw": 2.7
-      },
-      "Matchbook": {
-        "Necaxa": 3.95,
-        "Pumas": 2.56,
-        "Draw": 2.7
-      }
-    },
     "29fbbde437cba7a9628929307c99d619:h2h": {
       "Tipico": {
         "1. FC Köln": 1.28,
@@ -168,9 +54,108 @@
         "Draw": 3.65
       },
       "1xBet": {
-        "FSV Mainz 05": 3.85,
-        "Werder Bremen": 1.77,
+        "FSV Mainz 05": 3.89,
+        "Werder Bremen": 1.76,
         "Draw": 3.62
+      }
+    },
+    "cc557819bcfcd3c8fe84b9853b2a9d5b:h2h": {
+      "Tipico": {
+        "Hamburger SV": 1.45,
+        "SC Verl": 6.0,
+        "Draw": 4.9
+      },
+      "Winamax (DE)": {
+        "Hamburger SV": 1.45,
+        "SC Verl": 5.3,
+        "Draw": 5.0
+      },
+      "Unibet (FR)": {
+        "Hamburger SV": 1.41,
+        "SC Verl": 5.2,
+        "Draw": 4.5
+      },
+      "Winamax (FR)": {
+        "Hamburger SV": 1.42,
+        "SC Verl": 5.0,
+        "Draw": 4.7
+      },
+      "Betclic (FR)": {
+        "Hamburger SV": 1.49,
+        "SC Verl": 5.1,
+        "Draw": 4.9
+      },
+      "Codere (IT)": {
+        "Hamburger SV": 1.46,
+        "SC Verl": 5.6,
+        "Draw": 4.8
+      },
+      "888sport": {
+        "Hamburger SV": 1.44,
+        "SC Verl": 5.0,
+        "Draw": 4.6
+      },
+      "Unibet (SE)": {
+        "Hamburger SV": 1.51,
+        "SC Verl": 4.8,
+        "Draw": 4.8
+      },
+      "LeoVegas (SE)": {
+        "Hamburger SV": 1.45,
+        "SC Verl": 4.5,
+        "Draw": 4.5
+      },
+      "Unibet (NL)": {
+        "Hamburger SV": 1.51,
+        "SC Verl": 4.8,
+        "Draw": 4.8
+      }
+    },
+    "9c38455237e91d888607e09268a54369:h2h": {
+      "Tipico": {
+        "VfL Wolfsburg": 1.15,
+        "VSG Altglienicke": 15.0,
+        "Draw": 8.0
+      },
+      "LeoVegas (SE)": {
+        "VfL Wolfsburg": 1.16,
+        "VSG Altglienicke": 10.0,
+        "Draw": 6.25
+      },
+      "Codere (IT)": {
+        "VfL Wolfsburg": 1.16,
+        "VSG Altglienicke": 13.0,
+        "Draw": 7.6
+      },
+      "Unibet (FR)": {
+        "VfL Wolfsburg": 1.13,
+        "VSG Altglienicke": 12.0,
+        "Draw": 6.7
+      },
+      "Betclic (FR)": {
+        "VfL Wolfsburg": 1.16,
+        "VSG Altglienicke": 13.5,
+        "Draw": 7.75
+      },
+      "888sport": {
+        "VfL Wolfsburg": 1.17,
+        "VSG Altglienicke": 13.0,
+        "Draw": 7.0
+      },
+      "Unibet (SE)": {
+        "VfL Wolfsburg": 1.21,
+        "VSG Altglienicke": 11.0,
+        "Draw": 6.75
+      },
+      "Winamax (DE)": {
+        "VfL Wolfsburg": 1.15,
+        "VSG Altglienicke": 11.5,
+        "Draw": 8.0
+      },
+      "Winamax (FR)": {
+        "VfL Wolfsburg": 1.13,
+        "VSG Altglienicke": 10.5,
+        "Draw": 7.25
       }
     }
   },
@@ -12002,11 +11987,5 @@
     }
   ],
   "results_history": [],
-  "value_alerted": [
-    "e7382a34d78205406d3ec528e3e1194a:h2h|Betfair|Boca Juniors",
-    "e7382a34d78205406d3ec528e3e1194a:h2h|Betfair|Racing Club",
-    "e7382a34d78205406d3ec528e3e1194a:h2h|Betsson|Racing Club",
-    "e7382a34d78205406d3ec528e3e1194a:h2h|Nordic Bet|Racing Club",
-    "e7382a34d78205406d3ec528e3e1194a:h2h|Unibet (SE)|Racing Club"
-  ]
+  "value_alerted": []
 }
