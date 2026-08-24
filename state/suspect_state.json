@@ -1,156 +1,135 @@
 {
   "snapshots": {
-    "29fbbde437cba7a9628929307c99d619:h2h": {
-      "Tipico": {
-        "1. FC Köln": 2.3,
-        "FC Würzburger Kickers": 3.0,
-        "Draw": 3.2
-      },
-      "Winamax (DE)": {
-        "1. FC Köln": 2.4,
-        "FC Würzburger Kickers": 2.75,
-        "Draw": 2.8
-      },
-      "Winamax (FR)": {
-        "1. FC Köln": 2.3,
-        "FC Würzburger Kickers": 2.75,
-        "Draw": 2.8
-      },
-      "888sport": {
-        "1. FC Köln": 2.45,
-        "FC Würzburger Kickers": 2.8,
-        "Draw": 2.9
-      },
-      "LeoVegas (SE)": {
-        "1. FC Köln": 2.2,
-        "FC Würzburger Kickers": 2.7,
-        "Draw": 2.9
-      },
-      "Unibet (SE)": {
-        "1. FC Köln": 2.33,
-        "FC Würzburger Kickers": 2.85,
-        "Draw": 3.1
-      },
-      "PMU (FR)": {
-        "1. FC Köln": 2.2,
-        "FC Würzburger Kickers": 2.7,
-        "Draw": 2.9
-      }
-    },
-    "d37694e21f1e287aa7242ac1ed872abc:h2h": {
-      "Tipico": {
-        "FSV Mainz 05": 16.0,
-        "Werder Bremen": 1.18,
-        "Draw": 5.2
-      },
-      "Unibet (SE)": {
-        "FSV Mainz 05": 12.5,
-        "Werder Bremen": 1.19,
-        "Draw": 5.3
-      },
-      "Unibet (NL)": {
-        "FSV Mainz 05": 12.5,
-        "Werder Bremen": 1.19,
-        "Draw": 5.3
-      },
-      "LeoVegas (SE)": {
-        "FSV Mainz 05": 12.0,
-        "Werder Bremen": 1.15,
-        "Draw": 5.1
-      },
-      "Pinnacle": {
-        "FSV Mainz 05": 17.86,
-        "Werder Bremen": 1.18,
-        "Draw": 5.89
-      }
-    },
-    "cc557819bcfcd3c8fe84b9853b2a9d5b:h2h": {
-      "Tipico": {
-        "Hamburger SV": 1.16,
-        "SC Verl": 18.0,
-        "Draw": 6.0
-      },
-      "Winamax (DE)": {
-        "Hamburger SV": 1.22,
-        "SC Verl": 13.5,
-        "Draw": 5.2
-      },
-      "Winamax (FR)": {
-        "Hamburger SV": 1.22,
-        "SC Verl": 13.5,
-        "Draw": 5.0
-      },
-      "Betclic (FR)": {
-        "Hamburger SV": 1.17,
-        "SC Verl": 13.75,
-        "Draw": 4.8
-      },
-      "888sport": {
-        "Hamburger SV": 1.2,
-        "SC Verl": 13.0,
-        "Draw": 5.0
-      },
-      "Unibet (SE)": {
-        "Hamburger SV": 1.19,
-        "SC Verl": 12.5,
-        "Draw": 5.6
-      },
-      "LeoVegas (SE)": {
-        "Hamburger SV": 1.11,
-        "SC Verl": 12.5,
-        "Draw": 5.5
-      },
-      "Unibet (NL)": {
-        "Hamburger SV": 1.19,
-        "SC Verl": 12.5,
-        "Draw": 5.6
-      },
-      "PMU (FR)": {
-        "Hamburger SV": 1.12,
-        "SC Verl": 12.5,
-        "Draw": 5.4
-      }
-    },
     "9c38455237e91d888607e09268a54369:h2h": {
       "Tipico": {
-        "VfL Wolfsburg": 2.1,
-        "VSG Altglienicke": 3.3,
-        "Draw": 3.3
+        "VfL Wolfsburg": 1.4,
+        "VSG Altglienicke": 2.7
+      }
+    },
+    "ee42d0a8b1e5c91e57ef0374f09aefcb:h2h": {
+      "Pinnacle": {
+        "Andorra CF": 6.72,
+        "Celta Fortuna": 9.99,
+        "Draw": 1.22
       },
-      "LeoVegas (SE)": {
-        "VfL Wolfsburg": 1.83,
-        "VSG Altglienicke": 3.2,
-        "Draw": 3.15
+      "Tipico": {
+        "Andorra CF": 500.0,
+        "Celta Fortuna": 1.03,
+        "Draw": 8.5
       },
       "Betclic (FR)": {
-        "VfL Wolfsburg": 2.12,
-        "VSG Altglienicke": 3.05,
-        "Draw": 3.05
-      },
-      "888sport": {
-        "VfL Wolfsburg": 2.2,
-        "VSG Altglienicke": 3.0,
-        "Draw": 3.1
-      },
-      "Unibet (SE)": {
-        "VfL Wolfsburg": 1.97,
-        "VSG Altglienicke": 3.35,
-        "Draw": 3.3
-      },
-      "Winamax (DE)": {
-        "VfL Wolfsburg": 2.2,
-        "VSG Altglienicke": 3.0,
-        "Draw": 3.0
+        "Andorra CF": 8.0,
+        "Celta Fortuna": 11.0,
+        "Draw": 1.1
       },
       "Winamax (FR)": {
-        "VfL Wolfsburg": 2.1,
-        "VSG Altglienicke": 3.0,
-        "Draw": 2.95
+        "Andorra CF": 1000.0,
+        "Celta Fortuna": 1.04,
+        "Draw": 12.5
+      },
+      "Betsson": {
+        "Andorra CF": 14.0,
+        "Celta Fortuna": 19.5,
+        "Draw": 1.05
+      },
+      "Winamax (DE)": {
+        "Andorra CF": 1000.0,
+        "Celta Fortuna": 1.03,
+        "Draw": 13.5
+      },
+      "Nordic Bet": {
+        "Andorra CF": 11.5,
+        "Celta Fortuna": 17.5,
+        "Draw": 1.05
+      },
+      "LeoVegas (SE)": {
+        "Andorra CF": 8.5,
+        "Celta Fortuna": 16.0,
+        "Draw": 1.03
       },
       "PMU (FR)": {
-        "VfL Wolfsburg": 1.87,
-        "VSG Altglienicke": 3.2,
-        "Draw": 3.15
+        "Andorra CF": 8.5,
+        "Celta Fortuna": 11.5,
+        "Draw": 1.01
+      },
+      "Coolbet": {
+        "Andorra CF": 8.5,
+        "Celta Fortuna": 12.5,
+        "Draw": 1.14
+      },
+      "Matchbook": {
+        "Andorra CF": 11.0,
+        "Celta Fortuna": 6.4,
+        "Draw": 1.14
+      },
+      "Betfair": {
+        "Andorra CF": 9.8,
+        "Celta Fortuna": 17.0,
+        "Draw": 1.17
+      }
+    },
+    "54e469dfbd822a29ee11a3536634849e:h2h": {
+      "Winamax (DE)": {
+        "Brondby IF": 1.04,
+        "Silkeborg IF": 90.0,
+        "Draw": 9.5
+      },
+      "Winamax (FR)": {
+        "Brondby IF": 1.07,
+        "Silkeborg IF": 90.0,
+        "Draw": 9.0
+      },
+      "Suprabets": {
+        "Brondby IF": 1.05,
+        "Silkeborg IF": 101.0,
+        "Draw": 8.2
+      },
+      "Betclic (FR)": {
+        "Brondby IF": 1.0,
+        "Silkeborg IF": 100.0,
+        "Draw": 40.0
+      },
+      "Nordic Bet": {
+        "Brondby IF": 1.0,
+        "Silkeborg IF": 26.0,
+        "Draw": 26.0
+      },
+      "Betsson": {
+        "Brondby IF": 1.0,
+        "Silkeborg IF": 26.0,
+        "Draw": 26.0
+      },
+      "888sport": {
+        "Brondby IF": 1.06,
+        "Silkeborg IF": 91.0,
+        "Draw": 10.0
+      },
+      "Betfair": {
+        "Brondby IF": 1.07,
+        "Silkeborg IF": 65.0,
+        "Draw": 12.5
+      }
+    },
+    "7c23f06ff1ec33227263fa2f0cec0224:h2h": {
+      "Betclic (FR)": {
+        "Djurgardens IF": 1.0,
+        "Malmo FF": 100.0,
+        "Draw": 40.0
+      },
+      "Nordic Bet": {
+        "Djurgardens IF": 1.0,
+        "Malmo FF": 26.0,
+        "Draw": 26.0
+      },
+      "Betsson": {
+        "Djurgardens IF": 1.0,
+        "Malmo FF": 26.0,
+        "Draw": 26.0
+      },
+      "Betfair": {
+        "Djurgardens IF": 1.02,
+        "Malmo FF": 210.0,
+        "Draw": 34.0
       }
     }
   },
@@ -11979,8 +11958,349 @@
       "confidence": 16,
       "alert_type": "value",
       "alerted_at": "2026-08-24T01:57:19.477270+00:00"
+    },
+    {
+      "state_key": "ee42d0a8b1e5c91e57ef0374f09aefcb:h2h",
+      "event_id": "ee42d0a8b1e5c91e57ef0374f09aefcb",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Celta Fortuna",
+      "away_team": "Andorra CF",
+      "commence_time": "2026-08-24T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Andorra CF",
+      "odds_at_alert": 500.0,
+      "stake_pct": 5.0,
+      "confidence": 6863,
+      "alert_type": "value",
+      "alerted_at": "2026-08-24T18:55:16.440061+00:00"
+    },
+    {
+      "state_key": "ee42d0a8b1e5c91e57ef0374f09aefcb:h2h",
+      "event_id": "ee42d0a8b1e5c91e57ef0374f09aefcb",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Celta Fortuna",
+      "away_team": "Andorra CF",
+      "commence_time": "2026-08-24T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 8.5,
+      "stake_pct": 5.0,
+      "confidence": 552,
+      "alert_type": "value",
+      "alerted_at": "2026-08-24T18:55:16.756457+00:00"
+    },
+    {
+      "state_key": "ee42d0a8b1e5c91e57ef0374f09aefcb:h2h",
+      "event_id": "ee42d0a8b1e5c91e57ef0374f09aefcb",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Celta Fortuna",
+      "away_team": "Andorra CF",
+      "commence_time": "2026-08-24T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Andorra CF",
+      "odds_at_alert": 8.0,
+      "stake_pct": 3.0,
+      "confidence": 11,
+      "alert_type": "value",
+      "alerted_at": "2026-08-24T18:55:17.069400+00:00"
+    },
+    {
+      "state_key": "ee42d0a8b1e5c91e57ef0374f09aefcb:h2h",
+      "event_id": "ee42d0a8b1e5c91e57ef0374f09aefcb",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Celta Fortuna",
+      "away_team": "Andorra CF",
+      "commence_time": "2026-08-24T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Andorra CF",
+      "odds_at_alert": 1000.0,
+      "stake_pct": 5.0,
+      "confidence": 13826,
+      "alert_type": "value",
+      "alerted_at": "2026-08-24T18:55:17.375308+00:00"
+    },
+    {
+      "state_key": "ee42d0a8b1e5c91e57ef0374f09aefcb:h2h",
+      "event_id": "ee42d0a8b1e5c91e57ef0374f09aefcb",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Celta Fortuna",
+      "away_team": "Andorra CF",
+      "commence_time": "2026-08-24T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 12.5,
+      "stake_pct": 5.0,
+      "confidence": 859,
+      "alert_type": "value",
+      "alerted_at": "2026-08-24T18:55:17.699823+00:00"
+    },
+    {
+      "state_key": "ee42d0a8b1e5c91e57ef0374f09aefcb:h2h",
+      "event_id": "ee42d0a8b1e5c91e57ef0374f09aefcb",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Celta Fortuna",
+      "away_team": "Andorra CF",
+      "commence_time": "2026-08-24T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Andorra CF",
+      "odds_at_alert": 14.0,
+      "stake_pct": 5.0,
+      "confidence": 95,
+      "alert_type": "value",
+      "alerted_at": "2026-08-24T18:55:18.044467+00:00"
+    },
+    {
+      "state_key": "ee42d0a8b1e5c91e57ef0374f09aefcb:h2h",
+      "event_id": "ee42d0a8b1e5c91e57ef0374f09aefcb",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Celta Fortuna",
+      "away_team": "Andorra CF",
+      "commence_time": "2026-08-24T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Celta Fortuna",
+      "odds_at_alert": 19.5,
+      "stake_pct": 5.0,
+      "confidence": 83,
+      "alert_type": "value",
+      "alerted_at": "2026-08-24T18:55:18.373402+00:00"
+    },
+    {
+      "state_key": "ee42d0a8b1e5c91e57ef0374f09aefcb:h2h",
+      "event_id": "ee42d0a8b1e5c91e57ef0374f09aefcb",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Celta Fortuna",
+      "away_team": "Andorra CF",
+      "commence_time": "2026-08-24T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Andorra CF",
+      "odds_at_alert": 1000.0,
+      "stake_pct": 5.0,
+      "confidence": 13826,
+      "alert_type": "value",
+      "alerted_at": "2026-08-24T18:55:18.679755+00:00"
+    },
+    {
+      "state_key": "ee42d0a8b1e5c91e57ef0374f09aefcb:h2h",
+      "event_id": "ee42d0a8b1e5c91e57ef0374f09aefcb",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Celta Fortuna",
+      "away_team": "Andorra CF",
+      "commence_time": "2026-08-24T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 13.5,
+      "stake_pct": 5.0,
+      "confidence": 936,
+      "alert_type": "value",
+      "alerted_at": "2026-08-24T18:55:18.997762+00:00"
+    },
+    {
+      "state_key": "ee42d0a8b1e5c91e57ef0374f09aefcb:h2h",
+      "event_id": "ee42d0a8b1e5c91e57ef0374f09aefcb",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Celta Fortuna",
+      "away_team": "Andorra CF",
+      "commence_time": "2026-08-24T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Andorra CF",
+      "odds_at_alert": 11.5,
+      "stake_pct": 5.0,
+      "confidence": 60,
+      "alert_type": "value",
+      "alerted_at": "2026-08-24T18:55:19.325355+00:00"
+    },
+    {
+      "state_key": "ee42d0a8b1e5c91e57ef0374f09aefcb:h2h",
+      "event_id": "ee42d0a8b1e5c91e57ef0374f09aefcb",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Celta Fortuna",
+      "away_team": "Andorra CF",
+      "commence_time": "2026-08-24T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Celta Fortuna",
+      "odds_at_alert": 17.5,
+      "stake_pct": 5.0,
+      "confidence": 64,
+      "alert_type": "value",
+      "alerted_at": "2026-08-24T18:55:19.674278+00:00"
+    },
+    {
+      "state_key": "ee42d0a8b1e5c91e57ef0374f09aefcb:h2h",
+      "event_id": "ee42d0a8b1e5c91e57ef0374f09aefcb",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Celta Fortuna",
+      "away_team": "Andorra CF",
+      "commence_time": "2026-08-24T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Andorra CF",
+      "odds_at_alert": 8.5,
+      "stake_pct": 5.0,
+      "confidence": 18,
+      "alert_type": "value",
+      "alerted_at": "2026-08-24T18:55:20.022828+00:00"
+    },
+    {
+      "state_key": "ee42d0a8b1e5c91e57ef0374f09aefcb:h2h",
+      "event_id": "ee42d0a8b1e5c91e57ef0374f09aefcb",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Celta Fortuna",
+      "away_team": "Andorra CF",
+      "commence_time": "2026-08-24T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Celta Fortuna",
+      "odds_at_alert": 16.0,
+      "stake_pct": 5.0,
+      "confidence": 50,
+      "alert_type": "value",
+      "alerted_at": "2026-08-24T18:55:20.360415+00:00"
+    },
+    {
+      "state_key": "ee42d0a8b1e5c91e57ef0374f09aefcb:h2h",
+      "event_id": "ee42d0a8b1e5c91e57ef0374f09aefcb",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Celta Fortuna",
+      "away_team": "Andorra CF",
+      "commence_time": "2026-08-24T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Andorra CF",
+      "odds_at_alert": 8.5,
+      "stake_pct": 5.0,
+      "confidence": 18,
+      "alert_type": "value",
+      "alerted_at": "2026-08-24T18:55:20.773810+00:00"
+    },
+    {
+      "state_key": "ee42d0a8b1e5c91e57ef0374f09aefcb:h2h",
+      "event_id": "ee42d0a8b1e5c91e57ef0374f09aefcb",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Celta Fortuna",
+      "away_team": "Andorra CF",
+      "commence_time": "2026-08-24T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Celta Fortuna",
+      "odds_at_alert": 11.5,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-08-24T18:55:21.090243+00:00"
+    },
+    {
+      "state_key": "ee42d0a8b1e5c91e57ef0374f09aefcb:h2h",
+      "event_id": "ee42d0a8b1e5c91e57ef0374f09aefcb",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Celta Fortuna",
+      "away_team": "Andorra CF",
+      "commence_time": "2026-08-24T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Andorra CF",
+      "odds_at_alert": 8.5,
+      "stake_pct": 5.0,
+      "confidence": 18,
+      "alert_type": "value",
+      "alerted_at": "2026-08-24T18:55:21.441905+00:00"
+    },
+    {
+      "state_key": "ee42d0a8b1e5c91e57ef0374f09aefcb:h2h",
+      "event_id": "ee42d0a8b1e5c91e57ef0374f09aefcb",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Celta Fortuna",
+      "away_team": "Andorra CF",
+      "commence_time": "2026-08-24T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Celta Fortuna",
+      "odds_at_alert": 12.5,
+      "stake_pct": 5.0,
+      "confidence": 17,
+      "alert_type": "value",
+      "alerted_at": "2026-08-24T18:55:21.786895+00:00"
+    },
+    {
+      "state_key": "ee42d0a8b1e5c91e57ef0374f09aefcb:h2h",
+      "event_id": "ee42d0a8b1e5c91e57ef0374f09aefcb",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Celta Fortuna",
+      "away_team": "Andorra CF",
+      "commence_time": "2026-08-24T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Andorra CF",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 53,
+      "alert_type": "value",
+      "alerted_at": "2026-08-24T18:55:22.126498+00:00"
+    },
+    {
+      "state_key": "ee42d0a8b1e5c91e57ef0374f09aefcb:h2h",
+      "event_id": "ee42d0a8b1e5c91e57ef0374f09aefcb",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Celta Fortuna",
+      "away_team": "Andorra CF",
+      "commence_time": "2026-08-24T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Andorra CF",
+      "odds_at_alert": 9.8,
+      "stake_pct": 5.0,
+      "confidence": 36,
+      "alert_type": "value",
+      "alerted_at": "2026-08-24T18:55:22.483427+00:00"
+    },
+    {
+      "state_key": "ee42d0a8b1e5c91e57ef0374f09aefcb:h2h",
+      "event_id": "ee42d0a8b1e5c91e57ef0374f09aefcb",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Celta Fortuna",
+      "away_team": "Andorra CF",
+      "commence_time": "2026-08-24T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Celta Fortuna",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 59,
+      "alert_type": "value",
+      "alerted_at": "2026-08-24T18:55:22.819438+00:00"
     }
   ],
   "results_history": [],
-  "value_alerted": []
+  "value_alerted": [
+    "ee42d0a8b1e5c91e57ef0374f09aefcb:h2h|Betclic (FR)|Andorra CF",
+    "ee42d0a8b1e5c91e57ef0374f09aefcb:h2h|Betfair|Andorra CF",
+    "ee42d0a8b1e5c91e57ef0374f09aefcb:h2h|Betfair|Celta Fortuna",
+    "ee42d0a8b1e5c91e57ef0374f09aefcb:h2h|Betsson|Andorra CF",
+    "ee42d0a8b1e5c91e57ef0374f09aefcb:h2h|Betsson|Celta Fortuna",
+    "ee42d0a8b1e5c91e57ef0374f09aefcb:h2h|Coolbet|Andorra CF",
+    "ee42d0a8b1e5c91e57ef0374f09aefcb:h2h|Coolbet|Celta Fortuna",
+    "ee42d0a8b1e5c91e57ef0374f09aefcb:h2h|LeoVegas (SE)|Andorra CF",
+    "ee42d0a8b1e5c91e57ef0374f09aefcb:h2h|LeoVegas (SE)|Celta Fortuna",
+    "ee42d0a8b1e5c91e57ef0374f09aefcb:h2h|Matchbook|Andorra CF",
+    "ee42d0a8b1e5c91e57ef0374f09aefcb:h2h|Nordic Bet|Andorra CF",
+    "ee42d0a8b1e5c91e57ef0374f09aefcb:h2h|Nordic Bet|Celta Fortuna",
+    "ee42d0a8b1e5c91e57ef0374f09aefcb:h2h|PMU (FR)|Andorra CF",
+    "ee42d0a8b1e5c91e57ef0374f09aefcb:h2h|PMU (FR)|Celta Fortuna",
+    "ee42d0a8b1e5c91e57ef0374f09aefcb:h2h|Tipico|Andorra CF",
+    "ee42d0a8b1e5c91e57ef0374f09aefcb:h2h|Tipico|Draw",
+    "ee42d0a8b1e5c91e57ef0374f09aefcb:h2h|Winamax (DE)|Andorra CF",
+    "ee42d0a8b1e5c91e57ef0374f09aefcb:h2h|Winamax (DE)|Draw",
+    "ee42d0a8b1e5c91e57ef0374f09aefcb:h2h|Winamax (FR)|Andorra CF",
+    "ee42d0a8b1e5c91e57ef0374f09aefcb:h2h|Winamax (FR)|Draw"
+  ]
 }
