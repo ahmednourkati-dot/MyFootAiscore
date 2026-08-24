@@ -1,271 +1,176 @@
 {
   "snapshots": {
-    "5c3310ddac30d3e22332be25958e7672:h2h": {
-      "PMU (FR)": {
-        "New England Revolution": 8.0,
-        "New York City FC": 8.0,
-        "Draw": 1.1
-      },
-      "LeoVegas (SE)": {
-        "New England Revolution": 17.0,
-        "New York City FC": 18.0,
-        "Draw": 1.01
-      },
-      "Unibet (NL)": {
-        "New England Revolution": 9.0,
-        "New York City FC": 9.0,
-        "Draw": 1.17
-      },
-      "Unibet (SE)": {
-        "New England Revolution": 26.0,
-        "New York City FC": 25.0,
-        "Draw": 1.02
-      },
-      "Betclic (FR)": {
-        "New England Revolution": 6.6,
-        "New York City FC": 10.25,
-        "Draw": 1.16
+    "e7382a34d78205406d3ec528e3e1194a:h2h": {
+      "Winamax (DE)": {
+        "Boca Juniors": 3.25,
+        "Racing Club": 4.2,
+        "Draw": 1.8
       },
       "Winamax (FR)": {
-        "New England Revolution": 7.25,
-        "New York City FC": 10.0,
-        "Draw": 1.17
-      },
-      "Winamax (DE)": {
-        "New England Revolution": 7.5,
-        "New York City FC": 11.0,
-        "Draw": 1.15
-      },
-      "MyBookie.ag": {
-        "New England Revolution": 4.45,
-        "New York City FC": 6.0,
-        "Draw": 1.3
-      },
-      "Coolbet": {
-        "New England Revolution": 20.0,
-        "New York City FC": 25.0,
-        "Draw": 1.02
-      },
-      "Betfair": {
-        "New England Revolution": 38.0,
-        "New York City FC": 38.0,
-        "Draw": 1.02
-      },
-      "Pinnacle": {
-        "New England Revolution": 4.49,
-        "New York City FC": 5.91,
-        "Draw": 1.5
-      },
-      "Betsson": {
-        "New England Revolution": 17.0,
-        "New York City FC": 23.0,
-        "Draw": 1.03
-      },
-      "Nordic Bet": {
-        "New England Revolution": 19.0,
-        "New York City FC": 23.0,
-        "Draw": 1.02
-      },
-      "Tipico": {
-        "New England Revolution": 7.5,
-        "New York City FC": 11.0,
-        "Draw": 1.15
-      }
-    },
-    "70e3a6dbf27d7c15f662a9a8ea060247:h2h": {
-      "Unibet (SE)": {
-        "Operario PR": 4.0,
-        "Vila Nova": 5.1,
-        "Draw": 1.57
-      },
-      "Unibet (NL)": {
-        "Operario PR": 3.8,
-        "Vila Nova": 4.8,
-        "Draw": 1.5
-      },
-      "LeoVegas (SE)": {
-        "Operario PR": 3.75,
-        "Vila Nova": 4.75,
-        "Draw": 1.5
-      },
-      "Coolbet": {
-        "Operario PR": 4.0,
-        "Vila Nova": 5.5,
-        "Draw": 1.53
-      },
-      "Betsson": {
-        "Operario PR": 4.1,
-        "Vila Nova": 4.85,
-        "Draw": 1.52
-      },
-      "Nordic Bet": {
-        "Operario PR": 4.1,
-        "Vila Nova": 4.85,
-        "Draw": 1.52
-      },
-      "Pinnacle": {
-        "Operario PR": 4.17,
-        "Vila Nova": 4.99,
-        "Draw": 1.6
-      },
-      "888sport": {
-        "Operario PR": 4.2,
-        "Vila Nova": 5.0,
-        "Draw": 1.5
-      },
-      "Tipico": {
-        "Operario PR": 3.8,
-        "Vila Nova": 5.2,
-        "Draw": 1.55
-      },
-      "Matchbook": {
-        "Operario PR": 4.7,
-        "Vila Nova": 5.4,
-        "Draw": 1.6
-      },
-      "Betfair": {
-        "Operario PR": 4.7,
-        "Vila Nova": 5.5,
-        "Draw": 1.62
-      }
-    },
-    "78ca56174779e66665543752d1db98b4:h2h": {
-      "Coolbet": {
-        "Chapecoense": 1.85,
-        "Sao Paulo": 4.5,
-        "Draw": 3.14
-      },
-      "Winamax (FR)": {
-        "Chapecoense": 1.78,
-        "Sao Paulo": 4.2,
-        "Draw": 2.9
-      },
-      "Winamax (DE)": {
-        "Chapecoense": 1.84,
-        "Sao Paulo": 4.4,
-        "Draw": 3.0
-      },
-      "888sport": {
-        "Chapecoense": 1.85,
-        "Sao Paulo": 4.0,
-        "Draw": 3.1
-      },
-      "Betsson": {
-        "Chapecoense": 1.82,
-        "Sao Paulo": 4.4,
-        "Draw": 3.05
-      },
-      "Nordic Bet": {
-        "Chapecoense": 1.82,
-        "Sao Paulo": 4.4,
-        "Draw": 3.05
+        "Boca Juniors": 3.3,
+        "Racing Club": 4.2,
+        "Draw": 1.68
       },
       "Betclic (FR)": {
-        "Chapecoense": 1.82,
-        "Sao Paulo": 4.2,
-        "Draw": 3.05
-      },
-      "Unibet (NL)": {
-        "Chapecoense": 1.77,
-        "Sao Paulo": 4.6,
-        "Draw": 2.9
-      },
-      "PMU (FR)": {
-        "Chapecoense": 1.71,
-        "Sao Paulo": 4.4,
-        "Draw": 2.8
-      },
-      "LeoVegas (SE)": {
-        "Chapecoense": 1.75,
-        "Sao Paulo": 4.5,
-        "Draw": 2.88
+        "Boca Juniors": 3.3,
+        "Racing Club": 4.3,
+        "Draw": 1.7
       },
       "Unibet (SE)": {
-        "Chapecoense": 1.85,
-        "Sao Paulo": 4.8,
-        "Draw": 3.05
-      },
-      "MyBookie.ag": {
-        "Chapecoense": 1.85,
-        "Sao Paulo": 4.35,
-        "Draw": 3.05
-      },
-      "Pinnacle": {
-        "Chapecoense": 1.85,
-        "Sao Paulo": 5.31,
-        "Draw": 3.06
-      },
-      "Matchbook": {
-        "Chapecoense": 1.94,
-        "Sao Paulo": 5.4,
-        "Draw": 3.25
-      },
-      "Tipico": {
-        "Chapecoense": 1.9,
-        "Sao Paulo": 4.0,
-        "Draw": 3.1
-      },
-      "Betfair": {
-        "Chapecoense": 1.95,
-        "Sao Paulo": 5.3,
-        "Draw": 3.25
-      }
-    },
-    "f26f6515ad395b4eaedac6e1b9eaa96d:h2h": {
-      "Unibet (NL)": {
-        "Criciuma": 6.0,
-        "Fortaleza": 1.57,
-        "Draw": 3.05
-      },
-      "Unibet (SE)": {
-        "Criciuma": 6.4,
-        "Fortaleza": 1.61,
-        "Draw": 3.2
+        "Boca Juniors": 3.35,
+        "Racing Club": 4.6,
+        "Draw": 1.76
       },
       "LeoVegas (SE)": {
-        "Criciuma": 5.8,
-        "Fortaleza": 1.55,
-        "Draw": 2.95
-      },
-      "Nordic Bet": {
-        "Criciuma": 6.8,
-        "Fortaleza": 1.58,
-        "Draw": 3.2
+        "Boca Juniors": 3.15,
+        "Racing Club": 4.3,
+        "Draw": 1.66
       },
       "Betsson": {
-        "Criciuma": 6.8,
-        "Fortaleza": 1.58,
-        "Draw": 3.2
+        "Boca Juniors": 3.4,
+        "Racing Club": 4.4,
+        "Draw": 1.72
       },
-      "Coolbet": {
-        "Criciuma": 7.0,
-        "Fortaleza": 1.57,
-        "Draw": 3.25
+      "Nordic Bet": {
+        "Boca Juniors": 3.4,
+        "Racing Club": 4.4,
+        "Draw": 1.72
       },
       "Pinnacle": {
-        "Criciuma": 6.88,
-        "Fortaleza": 1.64,
-        "Draw": 3.23
-      },
-      "888sport": {
-        "Criciuma": 6.5,
-        "Fortaleza": 1.6,
-        "Draw": 3.1
-      },
-      "Tipico": {
-        "Criciuma": 7.5,
-        "Fortaleza": 1.5,
-        "Draw": 3.4
-      },
-      "Matchbook": {
-        "Criciuma": 7.8,
-        "Fortaleza": 1.68,
-        "Draw": 3.45
+        "Boca Juniors": 3.07,
+        "Racing Club": 3.92,
+        "Draw": 2.09
       },
       "Betfair": {
-        "Criciuma": 7.8,
-        "Fortaleza": 1.68,
-        "Draw": 3.45
+        "Boca Juniors": 3.7,
+        "Racing Club": 4.8,
+        "Draw": 1.89
+      }
+    },
+    "ea99934e318b2a1a4e57993d0edd5b84:h2h": {
+      "Unibet (NL)": {
+        "Necaxa": 3.85,
+        "Pumas": 2.35,
+        "Draw": 2.5
+      },
+      "Unibet (SE)": {
+        "Necaxa": 3.85,
+        "Pumas": 2.35,
+        "Draw": 2.5
+      },
+      "PMU (FR)": {
+        "Necaxa": 3.45,
+        "Pumas": 2.12,
+        "Draw": 2.25
+      },
+      "LeoVegas (SE)": {
+        "Necaxa": 3.6,
+        "Pumas": 2.23,
+        "Draw": 2.35
+      },
+      "Betsson": {
+        "Necaxa": 3.5,
+        "Pumas": 2.45,
+        "Draw": 2.45
+      },
+      "Nordic Bet": {
+        "Necaxa": 3.5,
+        "Pumas": 2.45,
+        "Draw": 2.45
+      },
+      "Betclic (FR)": {
+        "Necaxa": 3.47,
+        "Pumas": 2.38,
+        "Draw": 2.47
+      },
+      "Coolbet": {
+        "Necaxa": 3.8,
+        "Pumas": 2.6,
+        "Draw": 2.6
+      },
+      "888sport": {
+        "Necaxa": 3.3,
+        "Pumas": 2.3,
+        "Draw": 2.4
+      },
+      "Tipico": {
+        "Necaxa": 3.8,
+        "Pumas": 2.3,
+        "Draw": 2.5
+      },
+      "Pinnacle": {
+        "Necaxa": 3.76,
+        "Pumas": 2.5,
+        "Draw": 2.54
+      },
+      "Betfair": {
+        "Necaxa": 3.95,
+        "Pumas": 2.54,
+        "Draw": 2.7
+      },
+      "Matchbook": {
+        "Necaxa": 3.95,
+        "Pumas": 2.56,
+        "Draw": 2.7
+      }
+    },
+    "29fbbde437cba7a9628929307c99d619:h2h": {
+      "Tipico": {
+        "1. FC Köln": 1.28,
+        "FC Würzburger Kickers": 9.5,
+        "Draw": 5.8
+      },
+      "Winamax (DE)": {
+        "1. FC Köln": 1.3,
+        "FC Würzburger Kickers": 7.5,
+        "Draw": 5.8
+      },
+      "Winamax (FR)": {
+        "1. FC Köln": 1.27,
+        "FC Würzburger Kickers": 7.0,
+        "Draw": 5.4
+      },
+      "888sport": {
+        "1. FC Köln": 1.3,
+        "FC Würzburger Kickers": 8.0,
+        "Draw": 5.0
+      },
+      "LeoVegas (SE)": {
+        "1. FC Köln": 1.27,
+        "FC Würzburger Kickers": 7.5,
+        "Draw": 5.0
+      },
+      "Unibet (SE)": {
+        "1. FC Köln": 1.32,
+        "FC Würzburger Kickers": 8.0,
+        "Draw": 5.4
+      }
+    },
+    "d37694e21f1e287aa7242ac1ed872abc:h2h": {
+      "Tipico": {
+        "FSV Mainz 05": 4.0,
+        "Werder Bremen": 1.75,
+        "Draw": 3.5
+      },
+      "Unibet (SE)": {
+        "FSV Mainz 05": 3.95,
+        "Werder Bremen": 1.68,
+        "Draw": 3.65
+      },
+      "Unibet (NL)": {
+        "FSV Mainz 05": 3.95,
+        "Werder Bremen": 1.68,
+        "Draw": 3.65
+      },
+      "LeoVegas (SE)": {
+        "FSV Mainz 05": 3.95,
+        "Werder Bremen": 1.68,
+        "Draw": 3.65
+      },
+      "1xBet": {
+        "FSV Mainz 05": 3.85,
+        "Werder Bremen": 1.77,
+        "Draw": 3.62
       }
     }
   },
@@ -12014,37 +11919,94 @@
       "confidence": 6,
       "alert_type": "value",
       "alerted_at": "2026-08-23T22:34:18.608879+00:00"
+    },
+    {
+      "state_key": "e7382a34d78205406d3ec528e3e1194a:h2h",
+      "event_id": "e7382a34d78205406d3ec528e3e1194a",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Racing Club",
+      "away_team": "Boca Juniors",
+      "commence_time": "2026-08-24T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Racing Club",
+      "odds_at_alert": 4.6,
+      "stake_pct": 3.0,
+      "confidence": 11,
+      "alert_type": "value",
+      "alerted_at": "2026-08-24T01:57:18.180653+00:00"
+    },
+    {
+      "state_key": "e7382a34d78205406d3ec528e3e1194a:h2h",
+      "event_id": "e7382a34d78205406d3ec528e3e1194a",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Racing Club",
+      "away_team": "Boca Juniors",
+      "commence_time": "2026-08-24T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Racing Club",
+      "odds_at_alert": 4.4,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-08-24T01:57:18.543470+00:00"
+    },
+    {
+      "state_key": "e7382a34d78205406d3ec528e3e1194a:h2h",
+      "event_id": "e7382a34d78205406d3ec528e3e1194a",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Racing Club",
+      "away_team": "Boca Juniors",
+      "commence_time": "2026-08-24T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Racing Club",
+      "odds_at_alert": 4.4,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-08-24T01:57:18.846983+00:00"
+    },
+    {
+      "state_key": "e7382a34d78205406d3ec528e3e1194a:h2h",
+      "event_id": "e7382a34d78205406d3ec528e3e1194a",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Racing Club",
+      "away_team": "Boca Juniors",
+      "commence_time": "2026-08-24T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Boca Juniors",
+      "odds_at_alert": 3.7,
+      "stake_pct": 3.0,
+      "confidence": 14,
+      "alert_type": "value",
+      "alerted_at": "2026-08-24T01:57:19.172525+00:00"
+    },
+    {
+      "state_key": "e7382a34d78205406d3ec528e3e1194a:h2h",
+      "event_id": "e7382a34d78205406d3ec528e3e1194a",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Racing Club",
+      "away_team": "Boca Juniors",
+      "commence_time": "2026-08-24T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Racing Club",
+      "odds_at_alert": 4.8,
+      "stake_pct": 5.0,
+      "confidence": 16,
+      "alert_type": "value",
+      "alerted_at": "2026-08-24T01:57:19.477270+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "5c3310ddac30d3e22332be25958e7672:h2h|Betclic (FR)|New England Revolution",
-    "5c3310ddac30d3e22332be25958e7672:h2h|Betclic (FR)|New York City FC",
-    "5c3310ddac30d3e22332be25958e7672:h2h|Betfair|New England Revolution",
-    "5c3310ddac30d3e22332be25958e7672:h2h|Betfair|New York City FC",
-    "5c3310ddac30d3e22332be25958e7672:h2h|Betsson|New England Revolution",
-    "5c3310ddac30d3e22332be25958e7672:h2h|Betsson|New York City FC",
-    "5c3310ddac30d3e22332be25958e7672:h2h|Coolbet|New England Revolution",
-    "5c3310ddac30d3e22332be25958e7672:h2h|Coolbet|New York City FC",
-    "5c3310ddac30d3e22332be25958e7672:h2h|LeoVegas (SE)|New England Revolution",
-    "5c3310ddac30d3e22332be25958e7672:h2h|LeoVegas (SE)|New York City FC",
-    "5c3310ddac30d3e22332be25958e7672:h2h|Nordic Bet|New England Revolution",
-    "5c3310ddac30d3e22332be25958e7672:h2h|Nordic Bet|New York City FC",
-    "5c3310ddac30d3e22332be25958e7672:h2h|PMU (FR)|New England Revolution",
-    "5c3310ddac30d3e22332be25958e7672:h2h|PMU (FR)|New York City FC",
-    "5c3310ddac30d3e22332be25958e7672:h2h|Tipico|New England Revolution",
-    "5c3310ddac30d3e22332be25958e7672:h2h|Tipico|New York City FC",
-    "5c3310ddac30d3e22332be25958e7672:h2h|Unibet (NL)|New England Revolution",
-    "5c3310ddac30d3e22332be25958e7672:h2h|Unibet (NL)|New York City FC",
-    "5c3310ddac30d3e22332be25958e7672:h2h|Unibet (SE)|New England Revolution",
-    "5c3310ddac30d3e22332be25958e7672:h2h|Unibet (SE)|New York City FC",
-    "5c3310ddac30d3e22332be25958e7672:h2h|Winamax (DE)|New England Revolution",
-    "5c3310ddac30d3e22332be25958e7672:h2h|Winamax (DE)|New York City FC",
-    "5c3310ddac30d3e22332be25958e7672:h2h|Winamax (FR)|New England Revolution",
-    "5c3310ddac30d3e22332be25958e7672:h2h|Winamax (FR)|New York City FC",
-    "70e3a6dbf27d7c15f662a9a8ea060247:h2h|Betfair|Operario PR",
-    "70e3a6dbf27d7c15f662a9a8ea060247:h2h|Matchbook|Operario PR",
-    "f26f6515ad395b4eaedac6e1b9eaa96d:h2h|Betfair|Criciuma",
-    "f26f6515ad395b4eaedac6e1b9eaa96d:h2h|Matchbook|Criciuma"
+    "e7382a34d78205406d3ec528e3e1194a:h2h|Betfair|Boca Juniors",
+    "e7382a34d78205406d3ec528e3e1194a:h2h|Betfair|Racing Club",
+    "e7382a34d78205406d3ec528e3e1194a:h2h|Betsson|Racing Club",
+    "e7382a34d78205406d3ec528e3e1194a:h2h|Nordic Bet|Racing Club",
+    "e7382a34d78205406d3ec528e3e1194a:h2h|Unibet (SE)|Racing Club"
   ]
 }
