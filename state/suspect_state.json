@@ -1,99 +1,5 @@
 {
   "snapshots": {
-    "a800914b9c4e10d030a0c3beb393a3e8:h2h": {
-      "Winamax (DE)": {
-        "Argentinos Juniors": 30.0,
-        "Lanus": 1.16,
-        "Draw": 5.1
-      },
-      "Winamax (FR)": {
-        "Argentinos Juniors": 30.0,
-        "Lanus": 1.19,
-        "Draw": 4.8
-      },
-      "Betclic (FR)": {
-        "Argentinos Juniors": 23.0,
-        "Lanus": 1.15,
-        "Draw": 4.75
-      },
-      "Unibet (SE)": {
-        "Argentinos Juniors": 21.0,
-        "Lanus": 1.21,
-        "Draw": 4.8
-      },
-      "LeoVegas (SE)": {
-        "Argentinos Juniors": 21.0,
-        "Lanus": 1.15,
-        "Draw": 4.5
-      },
-      "Nordic Bet": {
-        "Argentinos Juniors": 26.0,
-        "Lanus": 1.16,
-        "Draw": 4.85
-      },
-      "Betsson": {
-        "Argentinos Juniors": 4.85,
-        "Lanus": 3.9,
-        "Draw": 1.58
-      },
-      "Pinnacle": {
-        "Argentinos Juniors": 4.89,
-        "Lanus": 3.96,
-        "Draw": 1.66
-      },
-      "Betfair": {
-        "Argentinos Juniors": 32.0,
-        "Lanus": 1.24,
-        "Draw": 5.7
-      }
-    },
-    "8348868b8adbe83cfbda9fe988ab314b:h2h": {
-      "Winamax (FR)": {
-        "Rosario Central": 2.9,
-        "Talleres": 5.1,
-        "Draw": 1.68
-      },
-      "Winamax (DE)": {
-        "Rosario Central": 3.0,
-        "Talleres": 5.4,
-        "Draw": 1.7
-      },
-      "Betclic (FR)": {
-        "Rosario Central": 2.92,
-        "Talleres": 5.25,
-        "Draw": 1.75
-      },
-      "LeoVegas (SE)": {
-        "Rosario Central": 2.95,
-        "Talleres": 5.75,
-        "Draw": 1.57
-      },
-      "Unibet (SE)": {
-        "Rosario Central": 3.1,
-        "Talleres": 6.1,
-        "Draw": 1.68
-      },
-      "Betsson": {
-        "Rosario Central": 2.88,
-        "Talleres": 5.35,
-        "Draw": 1.8
-      },
-      "Nordic Bet": {
-        "Rosario Central": 3.05,
-        "Talleres": 5.35,
-        "Draw": 1.72
-      },
-      "Pinnacle": {
-        "Rosario Central": 2.98,
-        "Talleres": 4.99,
-        "Draw": 1.92
-      },
-      "Betfair": {
-        "Rosario Central": 2.98,
-        "Talleres": 6.0,
-        "Draw": 1.96
-      }
-    },
     "d59c12d88d59e5a665b3fd8f626628d5:h2h": {
       "LeoVegas (SE)": {
         "Bucheon FC 1995": 5.4,
@@ -136,8 +42,8 @@
         "Draw": 3.9
       },
       "BetOnline.ag": {
-        "Bucheon FC 1995": 5.9,
-        "FC Seoul": 1.53,
+        "Bucheon FC 1995": 6.0,
+        "FC Seoul": 1.52,
         "Draw": 4.2
       },
       "Betclic (FR)": {
@@ -146,14 +52,14 @@
         "Draw": 4.0
       },
       "Pinnacle": {
-        "Bucheon FC 1995": 6.35,
+        "Bucheon FC 1995": 6.37,
         "FC Seoul": 1.53,
-        "Draw": 4.38
+        "Draw": 4.39
       },
       "1xBet": {
-        "Bucheon FC 1995": 6.16,
+        "Bucheon FC 1995": 6.06,
         "FC Seoul": 1.5,
-        "Draw": 4.2
+        "Draw": 4.25
       },
       "Winamax (FR)": {
         "Bucheon FC 1995": 5.3,
@@ -166,9 +72,9 @@
         "Draw": 4.1
       },
       "Marathon Bet": {
-        "Bucheon FC 1995": 6.15,
-        "FC Seoul": 1.49,
-        "Draw": 4.2
+        "Bucheon FC 1995": 6.2,
+        "FC Seoul": 1.48,
+        "Draw": 4.25
       },
       "William Hill": {
         "Bucheon FC 1995": 5.8,
@@ -176,19 +82,19 @@
         "Draw": 4.0
       },
       "Betfair": {
-        "Bucheon FC 1995": 7.2,
-        "FC Seoul": 1.53,
-        "Draw": 4.3
+        "Bucheon FC 1995": 7.6,
+        "FC Seoul": 1.52,
+        "Draw": 4.4
       },
       "Tipico": {
-        "Bucheon FC 1995": 6.2,
+        "Bucheon FC 1995": 6.0,
         "FC Seoul": 1.45,
-        "Draw": 4.2
+        "Draw": 4.3
       },
       "Matchbook": {
-        "Bucheon FC 1995": 7.2,
+        "Bucheon FC 1995": 7.4,
         "FC Seoul": 1.53,
-        "Draw": 4.3
+        "Draw": 4.4
       }
     },
     "794a1d28faf01225195c960716c16b09:h2h": {
@@ -243,9 +149,9 @@
         "Draw": 3.05
       },
       "Pinnacle": {
-        "Jeju United FC": 2.48,
+        "Jeju United FC": 2.47,
         "Pohang Steelers": 3.08,
-        "Draw": 3.27
+        "Draw": 3.28
       },
       "1xBet": {
         "Jeju United FC": 2.44,
@@ -273,19 +179,188 @@
         "Draw": 3.0
       },
       "Betfair": {
-        "Jeju United FC": 2.52,
+        "Jeju United FC": 2.5,
         "Pohang Steelers": 3.2,
-        "Draw": 3.2
+        "Draw": 3.25
       },
       "Tipico": {
-        "Jeju United FC": 2.3,
+        "Jeju United FC": 2.25,
         "Pohang Steelers": 3.1,
         "Draw": 3.1
       },
       "Matchbook": {
-        "Jeju United FC": 2.52,
+        "Jeju United FC": 2.5,
         "Pohang Steelers": 3.2,
+        "Draw": 3.25
+      }
+    },
+    "9d3d2d6e8c36c82f72a287bf11d93c63:h2h": {
+      "Unibet (SE)": {
+        "Jeonbuk Hyundai Motors": 1.96,
+        "Sangju Sangmu FC": 3.25,
+        "Draw": 3.25
+      },
+      "Unibet (NL)": {
+        "Jeonbuk Hyundai Motors": 1.96,
+        "Sangju Sangmu FC": 3.25,
+        "Draw": 3.25
+      },
+      "LeoVegas (SE)": {
+        "Jeonbuk Hyundai Motors": 1.95,
+        "Sangju Sangmu FC": 3.25,
         "Draw": 3.2
+      },
+      "PMU (FR)": {
+        "Jeonbuk Hyundai Motors": 1.88,
+        "Sangju Sangmu FC": 3.15,
+        "Draw": 3.1
+      },
+      "Coolbet": {
+        "Jeonbuk Hyundai Motors": 2.2,
+        "Sangju Sangmu FC": 3.2,
+        "Draw": 3.4
+      },
+      "Unibet (FR)": {
+        "Jeonbuk Hyundai Motors": 2.05,
+        "Sangju Sangmu FC": 3.05,
+        "Draw": 3.15
+      },
+      "BetOnline.ag": {
+        "Jeonbuk Hyundai Motors": 2.16,
+        "Sangju Sangmu FC": 3.25,
+        "Draw": 3.35
+      },
+      "Nordic Bet": {
+        "Jeonbuk Hyundai Motors": 2.15,
+        "Sangju Sangmu FC": 3.1,
+        "Draw": 3.15
+      },
+      "Betsson": {
+        "Jeonbuk Hyundai Motors": 2.15,
+        "Sangju Sangmu FC": 3.1,
+        "Draw": 3.15
+      },
+      "Betclic (FR)": {
+        "Jeonbuk Hyundai Motors": 2.22,
+        "Sangju Sangmu FC": 2.98,
+        "Draw": 3.2
+      },
+      "Pinnacle": {
+        "Jeonbuk Hyundai Motors": 2.27,
+        "Sangju Sangmu FC": 3.3,
+        "Draw": 3.44
+      },
+      "1xBet": {
+        "Jeonbuk Hyundai Motors": 2.19,
+        "Sangju Sangmu FC": 3.15,
+        "Draw": 3.4
+      },
+      "Winamax (FR)": {
+        "Jeonbuk Hyundai Motors": 2.1,
+        "Sangju Sangmu FC": 3.0,
+        "Draw": 3.25
+      },
+      "Winamax (DE)": {
+        "Jeonbuk Hyundai Motors": 2.15,
+        "Sangju Sangmu FC": 3.05,
+        "Draw": 3.3
+      },
+      "Marathon Bet": {
+        "Jeonbuk Hyundai Motors": 2.17,
+        "Sangju Sangmu FC": 3.15,
+        "Draw": 3.4
+      },
+      "William Hill": {
+        "Jeonbuk Hyundai Motors": 2.2,
+        "Sangju Sangmu FC": 3.1,
+        "Draw": 3.1
+      },
+      "Betfair": {
+        "Jeonbuk Hyundai Motors": 2.32,
+        "Sangju Sangmu FC": 3.4,
+        "Draw": 3.5
+      },
+      "Tipico": {
+        "Jeonbuk Hyundai Motors": 2.05,
+        "Sangju Sangmu FC": 3.4,
+        "Draw": 3.3
+      },
+      "Matchbook": {
+        "Jeonbuk Hyundai Motors": 2.3,
+        "Sangju Sangmu FC": 3.4,
+        "Draw": 3.5
+      }
+    },
+    "e80e3b0da7b546ee8fc8e388b7cfea35:h2h": {
+      "888sport": {
+        "Abha Club": 2.9,
+        "Al-Khaleej": 2.15,
+        "Draw": 3.1
+      },
+      "Betfair": {
+        "Abha Club": 3.05,
+        "Al-Khaleej": 2.34,
+        "Draw": 3.45
+      },
+      "Tipico": {
+        "Abha Club": 2.95,
+        "Al-Khaleej": 2.25,
+        "Draw": 3.3
+      },
+      "LeoVegas (SE)": {
+        "Abha Club": 2.7,
+        "Al-Khaleej": 2.28,
+        "Draw": 3.1
+      },
+      "PMU (FR)": {
+        "Abha Club": 2.63,
+        "Al-Khaleej": 2.2,
+        "Draw": 3.0
+      },
+      "Unibet (NL)": {
+        "Abha Club": 2.75,
+        "Al-Khaleej": 2.33,
+        "Draw": 3.2
+      },
+      "William Hill": {
+        "Abha Club": 2.9,
+        "Al-Khaleej": 2.15,
+        "Draw": 3.1
+      },
+      "Winamax (FR)": {
+        "Abha Club": 2.85,
+        "Al-Khaleej": 2.15,
+        "Draw": 3.3
+      },
+      "1xBet": {
+        "Abha Club": 3.03,
+        "Al-Khaleej": 2.24,
+        "Draw": 3.4
+      },
+      "Winamax (DE)": {
+        "Abha Club": 2.9,
+        "Al-Khaleej": 2.15,
+        "Draw": 3.4
+      },
+      "Unibet (FR)": {
+        "Abha Club": 2.95,
+        "Al-Khaleej": 2.1,
+        "Draw": 3.25
+      },
+      "Unibet (SE)": {
+        "Abha Club": 2.75,
+        "Al-Khaleej": 2.33,
+        "Draw": 3.2
+      },
+      "Betclic (FR)": {
+        "Abha Club": 3.0,
+        "Al-Khaleej": 2.13,
+        "Draw": 3.35
+      },
+      "Pinnacle": {
+        "Abha Club": 3.08,
+        "Al-Khaleej": 2.26,
+        "Draw": 3.48
       }
     }
   },
@@ -11542,23 +11617,6 @@
   ],
   "results_history": [],
   "value_alerted": [
-    "8348868b8adbe83cfbda9fe988ab314b:h2h|Betfair|Talleres",
-    "8348868b8adbe83cfbda9fe988ab314b:h2h|LeoVegas (SE)|Talleres",
-    "8348868b8adbe83cfbda9fe988ab314b:h2h|Unibet (SE)|Talleres",
-    "a800914b9c4e10d030a0c3beb393a3e8:h2h|Betclic (FR)|Argentinos Juniors",
-    "a800914b9c4e10d030a0c3beb393a3e8:h2h|Betclic (FR)|Draw",
-    "a800914b9c4e10d030a0c3beb393a3e8:h2h|Betfair|Argentinos Juniors",
-    "a800914b9c4e10d030a0c3beb393a3e8:h2h|Betfair|Draw",
-    "a800914b9c4e10d030a0c3beb393a3e8:h2h|LeoVegas (SE)|Argentinos Juniors",
-    "a800914b9c4e10d030a0c3beb393a3e8:h2h|LeoVegas (SE)|Draw",
-    "a800914b9c4e10d030a0c3beb393a3e8:h2h|Nordic Bet|Argentinos Juniors",
-    "a800914b9c4e10d030a0c3beb393a3e8:h2h|Nordic Bet|Draw",
-    "a800914b9c4e10d030a0c3beb393a3e8:h2h|Unibet (SE)|Argentinos Juniors",
-    "a800914b9c4e10d030a0c3beb393a3e8:h2h|Unibet (SE)|Draw",
-    "a800914b9c4e10d030a0c3beb393a3e8:h2h|Winamax (DE)|Argentinos Juniors",
-    "a800914b9c4e10d030a0c3beb393a3e8:h2h|Winamax (DE)|Draw",
-    "a800914b9c4e10d030a0c3beb393a3e8:h2h|Winamax (FR)|Argentinos Juniors",
-    "a800914b9c4e10d030a0c3beb393a3e8:h2h|Winamax (FR)|Draw",
     "d59c12d88d59e5a665b3fd8f626628d5:h2h|Betfair|Bucheon FC 1995",
     "d59c12d88d59e5a665b3fd8f626628d5:h2h|Matchbook|Bucheon FC 1995"
   ]
