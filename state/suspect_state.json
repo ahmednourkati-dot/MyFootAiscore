@@ -1,131 +1,341 @@
 {
   "snapshots": {
-    "902a6edbd94019cb1e788261c39e7207:h2h": {
-      "Winamax (DE)": {
-        "Barnsley": 1.01,
-        "Crewe Alexandra": 1000.0,
-        "Draw": 21.0
+    "64719eb1a02a57f19ac44a7fae275a90:h2h": {
+      "Unibet (SE)": {
+        "Atletico Goianiense": 1.34,
+        "Botafogo-SP": 8.5,
+        "Draw": 4.6
       },
-      "Winamax (FR)": {
-        "Barnsley": 1.02,
-        "Crewe Alexandra": 1000.0,
-        "Draw": 21.0
+      "LeoVegas (SE)": {
+        "Atletico Goianiense": 1.27,
+        "Botafogo-SP": 8.0,
+        "Draw": 4.3
       },
-      "Betsson": {
-        "Barnsley": 1.0,
-        "Crewe Alexandra": 101.0,
-        "Draw": 15.0
-      },
-      "Nordic Bet": {
-        "Barnsley": 1.01,
-        "Crewe Alexandra": 130.0,
-        "Draw": 13.0
-      },
-      "Betfair": {
-        "Barnsley": 1.05,
-        "Crewe Alexandra": 90.0,
-        "Draw": 13.0
+      "Unibet (NL)": {
+        "Atletico Goianiense": 1.29,
+        "Botafogo-SP": 8.0,
+        "Draw": 4.35
       },
       "Coolbet": {
-        "Barnsley": 1.0,
-        "Crewe Alexandra": 150.0,
-        "Draw": 20.0
-      }
-    },
-    "41eaf92a78e39c388dbbd30864d9b142:h2h": {
-      "Pinnacle": {
-        "Blackburn Rovers": 5.89,
-        "Sheffield United": 3.54,
-        "Draw": 1.63
-      },
-      "Winamax (FR)": {
-        "Blackburn Rovers": 900.0,
-        "Sheffield United": 1.02,
-        "Draw": 23.0
-      },
-      "Winamax (DE)": {
-        "Blackburn Rovers": 900.0,
-        "Sheffield United": 1.01,
-        "Draw": 23.0
-      },
-      "Betsson": {
-        "Blackburn Rovers": 101.0,
-        "Sheffield United": 1.0,
-        "Draw": 15.0
+        "Atletico Goianiense": 1.29,
+        "Botafogo-SP": 8.5,
+        "Draw": 5.0
       },
       "Nordic Bet": {
-        "Blackburn Rovers": 101.0,
-        "Sheffield United": 1.0,
-        "Draw": 15.0
+        "Atletico Goianiense": 1.31,
+        "Botafogo-SP": 8.6,
+        "Draw": 4.6
       },
-      "Betfair": {
-        "Blackburn Rovers": 100.0,
-        "Sheffield United": 1.04,
-        "Draw": 17.5
+      "Betsson": {
+        "Atletico Goianiense": 1.31,
+        "Botafogo-SP": 8.6,
+        "Draw": 4.6
+      },
+      "BetOnline.ag": {
+        "Atletico Goianiense": 2.09,
+        "Botafogo-SP": 3.65,
+        "Draw": 3.05
+      },
+      "Pinnacle": {
+        "Atletico Goianiense": 2.27,
+        "Botafogo-SP": 3.64,
+        "Draw": 3.1
+      },
+      "1xBet": {
+        "Atletico Goianiense": 2.1,
+        "Botafogo-SP": 3.74,
+        "Draw": 3.06
       },
       "888sport": {
-        "Blackburn Rovers": 151.0,
-        "Sheffield United": 1.01,
-        "Draw": 26.0
+        "Atletico Goianiense": 1.44,
+        "Botafogo-SP": 6.5,
+        "Draw": 3.9
       },
-      "Coolbet": {
-        "Blackburn Rovers": 150.0,
-        "Sheffield United": 1.01,
-        "Draw": 17.0
-      }
-    },
-    "bb4b129e15c7b6d9a76cc5869db84d87:h2h": {
-      "Betsson": {
-        "Blackpool": 26.0,
-        "Lincoln City": 1.0,
-        "Draw": 26.0
-      },
-      "Nordic Bet": {
-        "Blackpool": 26.0,
-        "Lincoln City": 1.0,
-        "Draw": 26.0
-      }
-    },
-    "e899847caa4f9381d61f9fc940921566:h2h": {
-      "Winamax (FR)": {
-        "Cambridge United": 450.0,
-        "Millwall": 1.03,
-        "Draw": 16.0
-      },
-      "Winamax (DE)": {
-        "Cambridge United": 450.0,
-        "Millwall": 1.02,
-        "Draw": 16.0
+      "William Hill": {
+        "Atletico Goianiense": 2.2,
+        "Botafogo-SP": 3.4,
+        "Draw": 2.9
       },
       "Tipico": {
-        "Cambridge United": 400.0,
-        "Millwall": 1.01,
-        "Draw": 25.0
+        "Atletico Goianiense": 1.35,
+        "Botafogo-SP": 8.0,
+        "Draw": 4.3
       },
-      "Betsson": {
-        "Cambridge United": 80.0,
-        "Millwall": 1.03,
-        "Draw": 11.0
+      "Codere (IT)": {
+        "Atletico Goianiense": 2.16,
+        "Botafogo-SP": 3.45,
+        "Draw": 2.95
       },
-      "Nordic Bet": {
-        "Cambridge United": 80.0,
-        "Millwall": 1.04,
-        "Draw": 10.0
+      "Matchbook": {
+        "Atletico Goianiense": 1.44,
+        "Botafogo-SP": 9.2,
+        "Draw": 4.6
       },
       "Betfair": {
-        "Cambridge United": 130.0,
-        "Millwall": 1.03,
-        "Draw": 26.0
+        "Atletico Goianiense": 1.43,
+        "Botafogo-SP": 10.0,
+        "Draw": 4.7
+      }
+    },
+    "21978c87e3a7ef197093c96df5d6f31f:h2h": {
+      "LeoVegas (SE)": {
+        "Clube de Regatas Brasil": 3.4,
+        "Juventude": 2.02,
+        "Draw": 2.8
       },
-      "888sport": {
-        "Cambridge United": 151.0,
-        "Millwall": 1.01,
-        "Draw": 21.0
+      "Unibet (NL)": {
+        "Clube de Regatas Brasil": 3.4,
+        "Juventude": 2.04,
+        "Draw": 2.85
+      },
+      "Unibet (SE)": {
+        "Clube de Regatas Brasil": 3.6,
+        "Juventude": 2.14,
+        "Draw": 3.0
+      },
+      "Betsson": {
+        "Clube de Regatas Brasil": 3.05,
+        "Juventude": 2.2,
+        "Draw": 3.15
+      },
+      "Nordic Bet": {
+        "Clube de Regatas Brasil": 3.05,
+        "Juventude": 2.2,
+        "Draw": 3.15
+      },
+      "BetOnline.ag": {
+        "Clube de Regatas Brasil": 3.3,
+        "Juventude": 2.24,
+        "Draw": 3.15
       },
       "Coolbet": {
-        "Cambridge United": 100.0,
-        "Millwall": 1.04,
-        "Draw": 11.3
+        "Clube de Regatas Brasil": 3.0,
+        "Juventude": 2.25,
+        "Draw": 3.14
+      },
+      "Marathon Bet": {
+        "Clube de Regatas Brasil": 3.35,
+        "Juventude": 2.2,
+        "Draw": 3.06
+      },
+      "888sport": {
+        "Clube de Regatas Brasil": 3.0,
+        "Juventude": 2.25,
+        "Draw": 3.0
+      },
+      "William Hill": {
+        "Clube de Regatas Brasil": 3.3,
+        "Juventude": 2.15,
+        "Draw": 3.0
+      },
+      "Codere (IT)": {
+        "Clube de Regatas Brasil": 3.45,
+        "Juventude": 2.09,
+        "Draw": 3.1
+      },
+      "Pinnacle": {
+        "Clube de Regatas Brasil": 3.32,
+        "Juventude": 2.35,
+        "Draw": 2.94
+      },
+      "Matchbook": {
+        "Clube de Regatas Brasil": 3.45,
+        "Juventude": 2.48,
+        "Draw": 3.2
+      },
+      "Tipico": {
+        "Clube de Regatas Brasil": 3.3,
+        "Juventude": 2.1,
+        "Draw": 3.2
+      },
+      "Betfair": {
+        "Clube de Regatas Brasil": 3.45,
+        "Juventude": 2.48,
+        "Draw": 3.2
+      },
+      "1xBet": {
+        "Clube de Regatas Brasil": 3.59,
+        "Juventude": 2.09,
+        "Draw": 3.21
+      }
+    },
+    "e5b250b19b587dd073f114dc0c4662ec:h2h": {
+      "LeoVegas (SE)": {
+        "Chicago Fire": 2.32,
+        "Monterrey": 2.85,
+        "Draw": 3.5
+      },
+      "Winamax (DE)": {
+        "Chicago Fire": 2.25,
+        "Monterrey": 2.65,
+        "Draw": 3.6
+      },
+      "Unibet (SE)": {
+        "Chicago Fire": 2.32,
+        "Monterrey": 2.85,
+        "Draw": 3.5
+      },
+      "Unibet (NL)": {
+        "Chicago Fire": 2.32,
+        "Monterrey": 2.85,
+        "Draw": 3.5
+      },
+      "Winamax (FR)": {
+        "Chicago Fire": 2.25,
+        "Monterrey": 2.65,
+        "Draw": 3.6
+      },
+      "888sport": {
+        "Chicago Fire": 2.2,
+        "Monterrey": 2.5,
+        "Draw": 3.5
+      },
+      "William Hill": {
+        "Chicago Fire": 2.2,
+        "Monterrey": 2.5,
+        "Draw": 3.5
+      },
+      "PMU (FR)": {
+        "Chicago Fire": 2.32,
+        "Monterrey": 2.85,
+        "Draw": 3.5
+      },
+      "Nordic Bet": {
+        "Chicago Fire": 2.32,
+        "Monterrey": 2.72,
+        "Draw": 3.45
+      },
+      "Betsson": {
+        "Chicago Fire": 2.32,
+        "Monterrey": 2.72,
+        "Draw": 3.45
+      },
+      "Coolbet": {
+        "Chicago Fire": 2.3,
+        "Monterrey": 2.85,
+        "Draw": 3.75
+      },
+      "Betfair": {
+        "Chicago Fire": 2.4,
+        "Monterrey": 2.98,
+        "Draw": 3.9
+      },
+      "1xBet": {
+        "Chicago Fire": 2.3,
+        "Monterrey": 2.79,
+        "Draw": 3.65
+      },
+      "Pinnacle": {
+        "Chicago Fire": 2.35,
+        "Monterrey": 2.84,
+        "Draw": 3.81
+      },
+      "BetOnline.ag": {
+        "Chicago Fire": 2.33,
+        "Monterrey": 2.75,
+        "Draw": 3.89
+      }
+    },
+    "0f90597c1b4cf9b362f3a1055c9b2e88:h2h": {
+      "Coolbet": {
+        "Deportes Tolima": 7.0,
+        "Independiente del Valle": 1.5,
+        "Draw": 4.1
+      },
+      "Suprabets": {
+        "Deportes Tolima": 6.8,
+        "Independiente del Valle": 1.47,
+        "Draw": 4.1
+      },
+      "Betfair": {
+        "Deportes Tolima": 7.8,
+        "Independiente del Valle": 1.55,
+        "Draw": 4.3
+      },
+      "Unibet (NL)": {
+        "Deportes Tolima": 6.5,
+        "Independiente del Valle": 1.5,
+        "Draw": 4.0
+      },
+      "LeoVegas (SE)": {
+        "Deportes Tolima": 6.1,
+        "Independiente del Valle": 1.49,
+        "Draw": 3.85
+      },
+      "Marathon Bet": {
+        "Deportes Tolima": 7.1,
+        "Independiente del Valle": 1.45,
+        "Draw": 4.15
+      },
+      "GTbets": {
+        "Deportes Tolima": 6.3,
+        "Independiente del Valle": 1.51,
+        "Draw": 4.16
+      },
+      "Winamax (DE)": {
+        "Deportes Tolima": 6.0,
+        "Independiente del Valle": 1.45,
+        "Draw": 4.2
+      },
+      "Winamax (FR)": {
+        "Deportes Tolima": 6.0,
+        "Independiente del Valle": 1.45,
+        "Draw": 4.2
+      },
+      "Unibet (FR)": {
+        "Deportes Tolima": 6.5,
+        "Independiente del Valle": 1.41,
+        "Draw": 4.05
+      },
+      "Betclic (FR)": {
+        "Deportes Tolima": 6.6,
+        "Independiente del Valle": 1.46,
+        "Draw": 4.15
+      },
+      "Codere (IT)": {
+        "Deportes Tolima": 6.6,
+        "Independiente del Valle": 1.47,
+        "Draw": 4.1
+      },
+      "Pinnacle": {
+        "Deportes Tolima": 6.98,
+        "Independiente del Valle": 1.5,
+        "Draw": 4.25
+      },
+      "Tipico": {
+        "Deportes Tolima": 7.0,
+        "Independiente del Valle": 1.45,
+        "Draw": 4.2
+      },
+      "1xBet": {
+        "Deportes Tolima": 7.3,
+        "Independiente del Valle": 1.49,
+        "Draw": 4.26
+      },
+      "Nordic Bet": {
+        "Deportes Tolima": 7.3,
+        "Independiente del Valle": 1.48,
+        "Draw": 3.6
+      },
+      "Betsson": {
+        "Deportes Tolima": 7.3,
+        "Independiente del Valle": 1.48,
+        "Draw": 3.6
+      },
+      "William Hill": {
+        "Deportes Tolima": 6.0,
+        "Independiente del Valle": 1.5,
+        "Draw": 3.9
+      },
+      "888sport": {
+        "Deportes Tolima": 6.0,
+        "Independiente del Valle": 1.5,
+        "Draw": 3.9
+      },
+      "PMU (FR)": {
+        "Deportes Tolima": 6.0,
+        "Independiente del Valle": 1.44,
+        "Draw": 3.75
       }
     }
   },
@@ -10194,23 +10404,366 @@
       "confidence": 879,
       "alert_type": "value",
       "alerted_at": "2026-08-25T20:40:54.974668+00:00"
+    },
+    {
+      "state_key": "64719eb1a02a57f19ac44a7fae275a90:h2h",
+      "event_id": "64719eb1a02a57f19ac44a7fae275a90",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Atletico Goianiense",
+      "away_team": "Botafogo-SP",
+      "commence_time": "2026-08-25T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Botafogo-SP",
+      "odds_at_alert": 8.5,
+      "stake_pct": 5.0,
+      "confidence": 125,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T22:40:05.046509+00:00"
+    },
+    {
+      "state_key": "64719eb1a02a57f19ac44a7fae275a90:h2h",
+      "event_id": "64719eb1a02a57f19ac44a7fae275a90",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Atletico Goianiense",
+      "away_team": "Botafogo-SP",
+      "commence_time": "2026-08-25T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.6,
+      "stake_pct": 5.0,
+      "confidence": 43,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T22:40:05.537639+00:00"
+    },
+    {
+      "state_key": "64719eb1a02a57f19ac44a7fae275a90:h2h",
+      "event_id": "64719eb1a02a57f19ac44a7fae275a90",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Atletico Goianiense",
+      "away_team": "Botafogo-SP",
+      "commence_time": "2026-08-25T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Botafogo-SP",
+      "odds_at_alert": 8.0,
+      "stake_pct": 5.0,
+      "confidence": 112,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T22:40:06.026545+00:00"
+    },
+    {
+      "state_key": "64719eb1a02a57f19ac44a7fae275a90:h2h",
+      "event_id": "64719eb1a02a57f19ac44a7fae275a90",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Atletico Goianiense",
+      "away_team": "Botafogo-SP",
+      "commence_time": "2026-08-25T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.3,
+      "stake_pct": 5.0,
+      "confidence": 34,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T22:40:06.536747+00:00"
+    },
+    {
+      "state_key": "64719eb1a02a57f19ac44a7fae275a90:h2h",
+      "event_id": "64719eb1a02a57f19ac44a7fae275a90",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Atletico Goianiense",
+      "away_team": "Botafogo-SP",
+      "commence_time": "2026-08-25T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Botafogo-SP",
+      "odds_at_alert": 8.0,
+      "stake_pct": 5.0,
+      "confidence": 112,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T22:40:07.020782+00:00"
+    },
+    {
+      "state_key": "64719eb1a02a57f19ac44a7fae275a90:h2h",
+      "event_id": "64719eb1a02a57f19ac44a7fae275a90",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Atletico Goianiense",
+      "away_team": "Botafogo-SP",
+      "commence_time": "2026-08-25T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.35,
+      "stake_pct": 5.0,
+      "confidence": 35,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T22:40:07.527416+00:00"
+    },
+    {
+      "state_key": "64719eb1a02a57f19ac44a7fae275a90:h2h",
+      "event_id": "64719eb1a02a57f19ac44a7fae275a90",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Atletico Goianiense",
+      "away_team": "Botafogo-SP",
+      "commence_time": "2026-08-25T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Botafogo-SP",
+      "odds_at_alert": 8.5,
+      "stake_pct": 5.0,
+      "confidence": 125,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T22:40:08.047161+00:00"
+    },
+    {
+      "state_key": "64719eb1a02a57f19ac44a7fae275a90:h2h",
+      "event_id": "64719eb1a02a57f19ac44a7fae275a90",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Atletico Goianiense",
+      "away_team": "Botafogo-SP",
+      "commence_time": "2026-08-25T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.0,
+      "stake_pct": 5.0,
+      "confidence": 55,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T22:40:08.562462+00:00"
+    },
+    {
+      "state_key": "64719eb1a02a57f19ac44a7fae275a90:h2h",
+      "event_id": "64719eb1a02a57f19ac44a7fae275a90",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Atletico Goianiense",
+      "away_team": "Botafogo-SP",
+      "commence_time": "2026-08-25T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Botafogo-SP",
+      "odds_at_alert": 8.6,
+      "stake_pct": 5.0,
+      "confidence": 128,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T22:40:09.105742+00:00"
+    },
+    {
+      "state_key": "64719eb1a02a57f19ac44a7fae275a90:h2h",
+      "event_id": "64719eb1a02a57f19ac44a7fae275a90",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Atletico Goianiense",
+      "away_team": "Botafogo-SP",
+      "commence_time": "2026-08-25T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.6,
+      "stake_pct": 5.0,
+      "confidence": 43,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T22:40:09.624013+00:00"
+    },
+    {
+      "state_key": "64719eb1a02a57f19ac44a7fae275a90:h2h",
+      "event_id": "64719eb1a02a57f19ac44a7fae275a90",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Atletico Goianiense",
+      "away_team": "Botafogo-SP",
+      "commence_time": "2026-08-25T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Botafogo-SP",
+      "odds_at_alert": 8.6,
+      "stake_pct": 5.0,
+      "confidence": 128,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T22:40:10.126684+00:00"
+    },
+    {
+      "state_key": "64719eb1a02a57f19ac44a7fae275a90:h2h",
+      "event_id": "64719eb1a02a57f19ac44a7fae275a90",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Atletico Goianiense",
+      "away_team": "Botafogo-SP",
+      "commence_time": "2026-08-25T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.6,
+      "stake_pct": 5.0,
+      "confidence": 43,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T22:40:10.653465+00:00"
+    },
+    {
+      "state_key": "64719eb1a02a57f19ac44a7fae275a90:h2h",
+      "event_id": "64719eb1a02a57f19ac44a7fae275a90",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Atletico Goianiense",
+      "away_team": "Botafogo-SP",
+      "commence_time": "2026-08-25T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Botafogo-SP",
+      "odds_at_alert": 6.5,
+      "stake_pct": 5.0,
+      "confidence": 72,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T22:40:11.191322+00:00"
+    },
+    {
+      "state_key": "64719eb1a02a57f19ac44a7fae275a90:h2h",
+      "event_id": "64719eb1a02a57f19ac44a7fae275a90",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Atletico Goianiense",
+      "away_team": "Botafogo-SP",
+      "commence_time": "2026-08-25T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.9,
+      "stake_pct": 5.0,
+      "confidence": 21,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T22:40:11.775628+00:00"
+    },
+    {
+      "state_key": "64719eb1a02a57f19ac44a7fae275a90:h2h",
+      "event_id": "64719eb1a02a57f19ac44a7fae275a90",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Atletico Goianiense",
+      "away_team": "Botafogo-SP",
+      "commence_time": "2026-08-25T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Botafogo-SP",
+      "odds_at_alert": 8.0,
+      "stake_pct": 5.0,
+      "confidence": 112,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T22:40:12.357231+00:00"
+    },
+    {
+      "state_key": "64719eb1a02a57f19ac44a7fae275a90:h2h",
+      "event_id": "64719eb1a02a57f19ac44a7fae275a90",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Atletico Goianiense",
+      "away_team": "Botafogo-SP",
+      "commence_time": "2026-08-25T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.3,
+      "stake_pct": 5.0,
+      "confidence": 34,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T22:40:12.849226+00:00"
+    },
+    {
+      "state_key": "64719eb1a02a57f19ac44a7fae275a90:h2h",
+      "event_id": "64719eb1a02a57f19ac44a7fae275a90",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Atletico Goianiense",
+      "away_team": "Botafogo-SP",
+      "commence_time": "2026-08-25T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Botafogo-SP",
+      "odds_at_alert": 9.2,
+      "stake_pct": 5.0,
+      "confidence": 144,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T22:40:13.335760+00:00"
+    },
+    {
+      "state_key": "64719eb1a02a57f19ac44a7fae275a90:h2h",
+      "event_id": "64719eb1a02a57f19ac44a7fae275a90",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Atletico Goianiense",
+      "away_team": "Botafogo-SP",
+      "commence_time": "2026-08-25T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.6,
+      "stake_pct": 5.0,
+      "confidence": 43,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T22:40:13.836622+00:00"
+    },
+    {
+      "state_key": "64719eb1a02a57f19ac44a7fae275a90:h2h",
+      "event_id": "64719eb1a02a57f19ac44a7fae275a90",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Atletico Goianiense",
+      "away_team": "Botafogo-SP",
+      "commence_time": "2026-08-25T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Botafogo-SP",
+      "odds_at_alert": 10.0,
+      "stake_pct": 5.0,
+      "confidence": 165,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T22:40:14.340356+00:00"
+    },
+    {
+      "state_key": "64719eb1a02a57f19ac44a7fae275a90:h2h",
+      "event_id": "64719eb1a02a57f19ac44a7fae275a90",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Atletico Goianiense",
+      "away_team": "Botafogo-SP",
+      "commence_time": "2026-08-25T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.7,
+      "stake_pct": 5.0,
+      "confidence": 46,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T22:40:14.852912+00:00"
+    },
+    {
+      "state_key": "0f90597c1b4cf9b362f3a1055c9b2e88:h2h",
+      "event_id": "0f90597c1b4cf9b362f3a1055c9b2e88",
+      "sport_key": "soccer",
+      "competition": "Copa Libertadores",
+      "home_team": "Independiente del Valle",
+      "away_team": "Deportes Tolima",
+      "commence_time": "2026-08-26T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Deportes Tolima",
+      "odds_at_alert": 7.8,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T22:40:15.368201+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "41eaf92a78e39c388dbbd30864d9b142:h2h|888sport|Blackburn Rovers",
-    "41eaf92a78e39c388dbbd30864d9b142:h2h|888sport|Draw",
-    "41eaf92a78e39c388dbbd30864d9b142:h2h|Betfair|Blackburn Rovers",
-    "41eaf92a78e39c388dbbd30864d9b142:h2h|Betfair|Draw",
-    "41eaf92a78e39c388dbbd30864d9b142:h2h|Betsson|Blackburn Rovers",
-    "41eaf92a78e39c388dbbd30864d9b142:h2h|Betsson|Draw",
-    "41eaf92a78e39c388dbbd30864d9b142:h2h|Coolbet|Blackburn Rovers",
-    "41eaf92a78e39c388dbbd30864d9b142:h2h|Coolbet|Draw",
-    "41eaf92a78e39c388dbbd30864d9b142:h2h|Nordic Bet|Blackburn Rovers",
-    "41eaf92a78e39c388dbbd30864d9b142:h2h|Nordic Bet|Draw",
-    "41eaf92a78e39c388dbbd30864d9b142:h2h|Winamax (DE)|Blackburn Rovers",
-    "41eaf92a78e39c388dbbd30864d9b142:h2h|Winamax (DE)|Draw",
-    "41eaf92a78e39c388dbbd30864d9b142:h2h|Winamax (FR)|Blackburn Rovers",
-    "41eaf92a78e39c388dbbd30864d9b142:h2h|Winamax (FR)|Draw"
+    "0f90597c1b4cf9b362f3a1055c9b2e88:h2h|Betfair|Deportes Tolima",
+    "64719eb1a02a57f19ac44a7fae275a90:h2h|888sport|Botafogo-SP",
+    "64719eb1a02a57f19ac44a7fae275a90:h2h|888sport|Draw",
+    "64719eb1a02a57f19ac44a7fae275a90:h2h|Betfair|Botafogo-SP",
+    "64719eb1a02a57f19ac44a7fae275a90:h2h|Betfair|Draw",
+    "64719eb1a02a57f19ac44a7fae275a90:h2h|Betsson|Botafogo-SP",
+    "64719eb1a02a57f19ac44a7fae275a90:h2h|Betsson|Draw",
+    "64719eb1a02a57f19ac44a7fae275a90:h2h|Coolbet|Botafogo-SP",
+    "64719eb1a02a57f19ac44a7fae275a90:h2h|Coolbet|Draw",
+    "64719eb1a02a57f19ac44a7fae275a90:h2h|LeoVegas (SE)|Botafogo-SP",
+    "64719eb1a02a57f19ac44a7fae275a90:h2h|LeoVegas (SE)|Draw",
+    "64719eb1a02a57f19ac44a7fae275a90:h2h|Matchbook|Botafogo-SP",
+    "64719eb1a02a57f19ac44a7fae275a90:h2h|Matchbook|Draw",
+    "64719eb1a02a57f19ac44a7fae275a90:h2h|Nordic Bet|Botafogo-SP",
+    "64719eb1a02a57f19ac44a7fae275a90:h2h|Nordic Bet|Draw",
+    "64719eb1a02a57f19ac44a7fae275a90:h2h|Tipico|Botafogo-SP",
+    "64719eb1a02a57f19ac44a7fae275a90:h2h|Tipico|Draw",
+    "64719eb1a02a57f19ac44a7fae275a90:h2h|Unibet (NL)|Botafogo-SP",
+    "64719eb1a02a57f19ac44a7fae275a90:h2h|Unibet (NL)|Draw",
+    "64719eb1a02a57f19ac44a7fae275a90:h2h|Unibet (SE)|Botafogo-SP",
+    "64719eb1a02a57f19ac44a7fae275a90:h2h|Unibet (SE)|Draw"
   ]
 }
