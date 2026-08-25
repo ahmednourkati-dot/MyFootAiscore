@@ -2,152 +2,122 @@
   "snapshots": {
     "e80e3b0da7b546ee8fc8e388b7cfea35:h2h": {
       "888sport": {
-        "Abha Club": 2.5,
-        "Al-Khaleej": 2.45,
-        "Draw": 3.1
+        "Abha Club": 2.9,
+        "Al-Khaleej": 2.9,
+        "Draw": 2.15
       },
       "Betfair": {
-        "Abha Club": 2.76,
-        "Al-Khaleej": 2.66,
-        "Draw": 3.5
+        "Abha Club": 3.2,
+        "Al-Khaleej": 3.35,
+        "Draw": 2.46
       },
       "Tipico": {
-        "Abha Club": 2.65,
-        "Al-Khaleej": 2.4,
-        "Draw": 3.4
+        "Abha Club": 3.1,
+        "Al-Khaleej": 3.1,
+        "Draw": 2.2
       },
       "LeoVegas (SE)": {
         "Abha Club": 2.7,
-        "Al-Khaleej": 2.28,
-        "Draw": 3.1
+        "Al-Khaleej": 2.88,
+        "Draw": 2.32
       },
       "PMU (FR)": {
-        "Abha Club": 2.63,
-        "Al-Khaleej": 2.2,
-        "Draw": 3.0
+        "Abha Club": 2.55,
+        "Al-Khaleej": 2.75,
+        "Draw": 2.2
       },
       "Unibet (NL)": {
         "Abha Club": 2.75,
-        "Al-Khaleej": 2.33,
-        "Draw": 3.2
-      },
-      "William Hill": {
-        "Abha Club": 2.5,
-        "Al-Khaleej": 2.45,
-        "Draw": 3.1
+        "Al-Khaleej": 2.95,
+        "Draw": 2.35
       },
       "Winamax (FR)": {
-        "Abha Club": 2.5,
-        "Al-Khaleej": 2.4,
-        "Draw": 3.3
-      },
-      "1xBet": {
-        "Abha Club": 2.65,
-        "Al-Khaleej": 2.54,
-        "Draw": 3.34
+        "Abha Club": 2.8,
+        "Al-Khaleej": 3.0,
+        "Draw": 2.1
       },
       "Winamax (DE)": {
-        "Abha Club": 2.55,
-        "Al-Khaleej": 2.45,
-        "Draw": 3.35
-      },
-      "Unibet (FR)": {
-        "Abha Club": 2.55,
-        "Al-Khaleej": 2.35,
-        "Draw": 3.2
+        "Abha Club": 2.95,
+        "Al-Khaleej": 3.15,
+        "Draw": 2.2
       },
       "Unibet (SE)": {
-        "Abha Club": 2.75,
-        "Al-Khaleej": 2.33,
-        "Draw": 3.2
+        "Abha Club": 2.85,
+        "Al-Khaleej": 3.05,
+        "Draw": 2.48
       },
       "Betclic (FR)": {
-        "Abha Club": 2.65,
-        "Al-Khaleej": 2.48,
-        "Draw": 3.35
+        "Abha Club": 2.73,
+        "Al-Khaleej": 2.8,
+        "Draw": 2.53
       },
       "Pinnacle": {
-        "Abha Club": 2.65,
-        "Al-Khaleej": 2.57,
-        "Draw": 3.52
+        "Abha Club": 2.77,
+        "Al-Khaleej": 3.12,
+        "Draw": 2.55
       }
     },
     "930b9f82fd2855841fcd9d4aed41410f:h2h": {
       "Winamax (DE)": {
-        "Al-Fayha": 4.0,
-        "Al-Taawoun": 1.74,
-        "Draw": 3.65
+        "Al-Fayha": 4.9,
+        "Al-Taawoun": 1.86,
+        "Draw": 2.75
       },
       "Betclic (FR)": {
-        "Al-Fayha": 4.25,
-        "Al-Taawoun": 1.75,
-        "Draw": 3.65
+        "Al-Fayha": 4.7,
+        "Al-Taawoun": 1.78,
+        "Draw": 2.88
       },
       "Betfair": {
-        "Al-Fayha": 4.7,
-        "Al-Taawoun": 1.83,
-        "Draw": 3.9
+        "Al-Fayha": 5.6,
+        "Al-Taawoun": 1.96,
+        "Draw": 3.1
       },
       "LeoVegas (SE)": {
-        "Al-Fayha": 4.5,
-        "Al-Taawoun": 1.61,
-        "Draw": 3.55
+        "Al-Fayha": 4.2,
+        "Al-Taawoun": 1.83,
+        "Draw": 2.8
       },
       "Pinnacle": {
-        "Al-Fayha": 4.19,
-        "Al-Taawoun": 1.78,
-        "Draw": 3.94
+        "Al-Fayha": 5.74,
+        "Al-Taawoun": 1.63,
+        "Draw": 3.49
       },
       "Unibet (NL)": {
-        "Al-Fayha": 4.6,
-        "Al-Taawoun": 1.64,
-        "Draw": 3.6
-      },
-      "William Hill": {
-        "Al-Fayha": 3.9,
-        "Al-Taawoun": 1.73,
-        "Draw": 3.4
-      },
-      "Unibet (FR)": {
-        "Al-Fayha": 4.05,
-        "Al-Taawoun": 1.67,
-        "Draw": 3.5
-      },
-      "1xBet": {
-        "Al-Fayha": 4.3,
-        "Al-Taawoun": 1.76,
-        "Draw": 3.71
+        "Al-Fayha": 4.25,
+        "Al-Taawoun": 1.85,
+        "Draw": 2.8
       },
       "Winamax (FR)": {
-        "Al-Fayha": 3.9,
-        "Al-Taawoun": 1.72,
-        "Draw": 3.6
+        "Al-Fayha": 4.5,
+        "Al-Taawoun": 1.78,
+        "Draw": 2.6
       },
       "888sport": {
-        "Al-Fayha": 3.9,
-        "Al-Taawoun": 1.73,
-        "Draw": 3.4
+        "Al-Fayha": 4.5,
+        "Al-Taawoun": 1.75,
+        "Draw": 2.75
       },
       "PMU (FR)": {
-        "Al-Fayha": 4.35,
-        "Al-Taawoun": 1.55,
-        "Draw": 3.45
+        "Al-Fayha": 4.0,
+        "Al-Taawoun": 1.73,
+        "Draw": 2.63
       },
       "Unibet (SE)": {
-        "Al-Fayha": 4.6,
-        "Al-Taawoun": 1.64,
-        "Draw": 3.6
+        "Al-Fayha": 4.5,
+        "Al-Taawoun": 1.93,
+        "Draw": 2.95
       },
       "Tipico": {
-        "Al-Fayha": 4.5,
-        "Al-Taawoun": 1.7,
-        "Draw": 3.6
+        "Al-Fayha": 5.5,
+        "Al-Taawoun": 1.8,
+        "Draw": 2.8
       }
     },
     "34d3315d0e02d835c451ccf954f57a60:h2h": {
       "Unibet (FR)": {
-        "Hapoel Be'er Sheva": 3.5,
-        "Sabah FK": 1.88,
+        "Hapoel Be'er Sheva": 3.3,
+        "Sabah FK": 1.92,
         "Draw": 3.9
       },
       "Coolbet": {
@@ -156,141 +126,141 @@
         "Draw": 3.85
       },
       "Tipico": {
-        "Hapoel Be'er Sheva": 3.8,
-        "Sabah FK": 1.87,
-        "Draw": 3.7
+        "Hapoel Be'er Sheva": 3.4,
+        "Sabah FK": 1.95,
+        "Draw": 3.6
       },
       "Betfair": {
-        "Hapoel Be'er Sheva": 3.85,
-        "Sabah FK": 2.0,
-        "Draw": 4.0
-      },
-      "Pinnacle": {
-        "Hapoel Be'er Sheva": 3.74,
-        "Sabah FK": 1.93,
-        "Draw": 3.9
-      },
-      "BetOnline.ag": {
-        "Hapoel Be'er Sheva": 3.75,
-        "Sabah FK": 1.92,
-        "Draw": 3.83
-      },
-      "Unibet (SE)": {
-        "Hapoel Be'er Sheva": 3.75,
-        "Sabah FK": 1.85,
-        "Draw": 3.8
-      },
-      "PMU (FR)": {
-        "Hapoel Be'er Sheva": 3.75,
-        "Sabah FK": 1.85,
-        "Draw": 3.8
-      },
-      "Unibet (NL)": {
-        "Hapoel Be'er Sheva": 3.75,
-        "Sabah FK": 1.85,
-        "Draw": 3.8
-      },
-      "LeoVegas (SE)": {
-        "Hapoel Be'er Sheva": 3.6,
-        "Sabah FK": 1.8,
-        "Draw": 3.65
-      },
-      "Marathon Bet": {
-        "Hapoel Be'er Sheva": 3.62,
-        "Sabah FK": 1.88,
-        "Draw": 3.78
-      },
-      "1xBet": {
-        "Hapoel Be'er Sheva": 3.79,
-        "Sabah FK": 1.97,
+        "Hapoel Be'er Sheva": 2.22,
+        "Sabah FK": 3.35,
         "Draw": 3.95
       },
-      "888sport": {
-        "Hapoel Be'er Sheva": 3.6,
+      "Pinnacle": {
+        "Hapoel Be'er Sheva": 3.51,
+        "Sabah FK": 2.03,
+        "Draw": 3.81
+      },
+      "BetOnline.ag": {
+        "Hapoel Be'er Sheva": 3.67,
+        "Sabah FK": 1.92,
+        "Draw": 3.9
+      },
+      "Unibet (SE)": {
+        "Hapoel Be'er Sheva": 3.35,
+        "Sabah FK": 1.89,
+        "Draw": 3.55
+      },
+      "PMU (FR)": {
+        "Hapoel Be'er Sheva": 3.35,
+        "Sabah FK": 1.89,
+        "Draw": 3.55
+      },
+      "Unibet (NL)": {
+        "Hapoel Be'er Sheva": 3.35,
         "Sabah FK": 1.91,
         "Draw": 3.5
+      },
+      "LeoVegas (SE)": {
+        "Hapoel Be'er Sheva": 3.15,
+        "Sabah FK": 1.77,
+        "Draw": 3.4
+      },
+      "Marathon Bet": {
+        "Hapoel Be'er Sheva": 3.36,
+        "Sabah FK": 1.98,
+        "Draw": 3.7
+      },
+      "1xBet": {
+        "Hapoel Be'er Sheva": 3.37,
+        "Sabah FK": 1.95,
+        "Draw": 4.12
+      },
+      "888sport": {
+        "Hapoel Be'er Sheva": 3.3,
+        "Sabah FK": 1.95,
+        "Draw": 3.4
       }
     },
     "141411d6c3f966d9957eb7870e5bfacd:h2h": {
       "Pinnacle": {
-        "GIF Sundsvall": 4.42,
-        "Östers IF": 1.72,
-        "Draw": 4.11
+        "GIF Sundsvall": 5.26,
+        "Östers IF": 1.56,
+        "Draw": 4.48
       },
       "Betsson": {
-        "GIF Sundsvall": 4.2,
-        "Östers IF": 1.72,
-        "Draw": 3.75
+        "GIF Sundsvall": 4.8,
+        "Östers IF": 1.58,
+        "Draw": 4.15
       },
       "1xBet": {
-        "GIF Sundsvall": 4.42,
-        "Östers IF": 1.7,
-        "Draw": 3.88
+        "GIF Sundsvall": 4.89,
+        "Östers IF": 1.58,
+        "Draw": 4.25
       },
       "BetOnline.ag": {
-        "GIF Sundsvall": 4.1,
-        "Östers IF": 1.77,
-        "Draw": 3.9
+        "GIF Sundsvall": 5.0,
+        "Östers IF": 1.58,
+        "Draw": 4.3
       },
       "Nordic Bet": {
-        "GIF Sundsvall": 4.2,
-        "Östers IF": 1.72,
-        "Draw": 3.75
+        "GIF Sundsvall": 4.8,
+        "Östers IF": 1.58,
+        "Draw": 4.15
       },
       "Unibet (NL)": {
         "GIF Sundsvall": 4.5,
-        "Östers IF": 1.57,
-        "Draw": 3.95
+        "Östers IF": 1.6,
+        "Draw": 3.9
       },
       "LeoVegas (SE)": {
-        "GIF Sundsvall": 4.6,
-        "Östers IF": 1.6,
+        "GIF Sundsvall": 4.75,
+        "Östers IF": 1.65,
         "Draw": 4.1
       },
       "Unibet (SE)": {
-        "GIF Sundsvall": 4.6,
-        "Östers IF": 1.6,
+        "GIF Sundsvall": 4.75,
+        "Östers IF": 1.65,
         "Draw": 4.1
       },
       "Betfair": {
-        "GIF Sundsvall": 4.8,
-        "Östers IF": 1.77,
-        "Draw": 4.2
+        "GIF Sundsvall": 5.7,
+        "Östers IF": 1.61,
+        "Draw": 4.7
       },
       "Marathon Bet": {
-        "GIF Sundsvall": 4.45,
-        "Östers IF": 1.68,
-        "Draw": 3.88
+        "GIF Sundsvall": 4.95,
+        "Östers IF": 1.55,
+        "Draw": 4.3
       },
       "888sport": {
-        "GIF Sundsvall": 4.0,
-        "Östers IF": 1.67,
+        "GIF Sundsvall": 4.5,
+        "Östers IF": 1.61,
         "Draw": 3.75
       },
       "William Hill": {
-        "GIF Sundsvall": 4.0,
-        "Östers IF": 1.67,
+        "GIF Sundsvall": 4.5,
+        "Östers IF": 1.62,
         "Draw": 3.75
       },
       "Tipico": {
-        "GIF Sundsvall": 4.4,
-        "Östers IF": 1.6,
-        "Draw": 3.9
+        "GIF Sundsvall": 5.0,
+        "Östers IF": 1.47,
+        "Draw": 4.4
       },
       "Coolbet": {
-        "GIF Sundsvall": 4.8,
-        "Östers IF": 1.67,
-        "Draw": 4.1
+        "GIF Sundsvall": 4.9,
+        "Östers IF": 1.65,
+        "Draw": 4.15
       },
       "BetAnything": {
-        "GIF Sundsvall": 4.1,
-        "Östers IF": 1.77,
-        "Draw": 3.9
+        "GIF Sundsvall": 5.0,
+        "Östers IF": 1.58,
+        "Draw": 4.3
       },
       "Matchbook": {
-        "GIF Sundsvall": 4.8,
-        "Östers IF": 1.77,
-        "Draw": 4.2
+        "GIF Sundsvall": 5.8,
+        "Östers IF": 1.61,
+        "Draw": 4.7
       }
     }
   },
@@ -11671,6 +11641,102 @@
       "confidence": 6,
       "alert_type": "value",
       "alerted_at": "2026-08-25T14:58:55.447241+00:00"
+    },
+    {
+      "state_key": "e80e3b0da7b546ee8fc8e388b7cfea35:h2h",
+      "event_id": "e80e3b0da7b546ee8fc8e388b7cfea35",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Abha Club",
+      "away_team": "Al-Khaleej",
+      "commence_time": "2026-08-25T16:05:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Abha Club",
+      "odds_at_alert": 3.2,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T16:51:21.235744+00:00"
+    },
+    {
+      "state_key": "930b9f82fd2855841fcd9d4aed41410f:h2h",
+      "event_id": "930b9f82fd2855841fcd9d4aed41410f",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Taawoun",
+      "away_team": "Al-Fayha",
+      "commence_time": "2026-08-25T16:10:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Taawoun",
+      "odds_at_alert": 1.86,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T16:51:21.557804+00:00"
+    },
+    {
+      "state_key": "930b9f82fd2855841fcd9d4aed41410f:h2h",
+      "event_id": "930b9f82fd2855841fcd9d4aed41410f",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Taawoun",
+      "away_team": "Al-Fayha",
+      "commence_time": "2026-08-25T16:10:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Taawoun",
+      "odds_at_alert": 1.96,
+      "stake_pct": 3.0,
+      "confidence": 12,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T16:51:21.912223+00:00"
+    },
+    {
+      "state_key": "930b9f82fd2855841fcd9d4aed41410f:h2h",
+      "event_id": "930b9f82fd2855841fcd9d4aed41410f",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Taawoun",
+      "away_team": "Al-Fayha",
+      "commence_time": "2026-08-25T16:10:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Taawoun",
+      "odds_at_alert": 1.85,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T16:51:22.337820+00:00"
+    },
+    {
+      "state_key": "930b9f82fd2855841fcd9d4aed41410f:h2h",
+      "event_id": "930b9f82fd2855841fcd9d4aed41410f",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Taawoun",
+      "away_team": "Al-Fayha",
+      "commence_time": "2026-08-25T16:10:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Taawoun",
+      "odds_at_alert": 1.93,
+      "stake_pct": 3.0,
+      "confidence": 10,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T16:51:22.665614+00:00"
+    },
+    {
+      "state_key": "34d3315d0e02d835c451ccf954f57a60:h2h",
+      "event_id": "34d3315d0e02d835c451ccf954f57a60",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League Qualification",
+      "home_team": "Sabah FK",
+      "away_team": "Hapoel Be'er Sheva",
+      "commence_time": "2026-08-25T16:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sabah FK",
+      "odds_at_alert": 3.35,
+      "stake_pct": 5.0,
+      "confidence": 59,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T16:51:22.975891+00:00"
     }
   ],
   "results_history": [],
@@ -11678,6 +11744,12 @@
     "141411d6c3f966d9957eb7870e5bfacd:h2h|Coolbet|GIF Sundsvall",
     "141411d6c3f966d9957eb7870e5bfacd:h2h|LeoVegas (SE)|GIF Sundsvall",
     "141411d6c3f966d9957eb7870e5bfacd:h2h|Unibet (SE)|GIF Sundsvall",
-    "930b9f82fd2855841fcd9d4aed41410f:h2h|Betfair|Al-Fayha"
+    "34d3315d0e02d835c451ccf954f57a60:h2h|Betfair|Sabah FK",
+    "930b9f82fd2855841fcd9d4aed41410f:h2h|Betfair|Al-Fayha",
+    "930b9f82fd2855841fcd9d4aed41410f:h2h|Betfair|Al-Taawoun",
+    "930b9f82fd2855841fcd9d4aed41410f:h2h|Unibet (NL)|Al-Taawoun",
+    "930b9f82fd2855841fcd9d4aed41410f:h2h|Unibet (SE)|Al-Taawoun",
+    "930b9f82fd2855841fcd9d4aed41410f:h2h|Winamax (DE)|Al-Taawoun",
+    "e80e3b0da7b546ee8fc8e388b7cfea35:h2h|Betfair|Abha Club"
   ]
 }
