@@ -1,316 +1,291 @@
 {
   "snapshots": {
-    "ecdebcc1a0f8b5f148f4445d3bd1ff2c:h2h": {
-      "Winamax (FR)": {
-        "CA Tigre BA": 1.04,
-        "Central Córdoba": 60.0,
-        "Draw": 16.0
-      },
+    "a800914b9c4e10d030a0c3beb393a3e8:h2h": {
       "Winamax (DE)": {
-        "CA Tigre BA": 1.02,
-        "Central Córdoba": 60.0,
-        "Draw": 17.0
+        "Argentinos Juniors": 30.0,
+        "Lanus": 1.16,
+        "Draw": 5.1
+      },
+      "Winamax (FR)": {
+        "Argentinos Juniors": 30.0,
+        "Lanus": 1.19,
+        "Draw": 4.8
       },
       "Betclic (FR)": {
-        "CA Tigre BA": 1.01,
-        "Central Córdoba": 35.0,
-        "Draw": 12.25
+        "Argentinos Juniors": 23.0,
+        "Lanus": 1.15,
+        "Draw": 4.75
       },
       "Unibet (SE)": {
-        "CA Tigre BA": 1.02,
-        "Central Córdoba": 61.0,
-        "Draw": 17.0
+        "Argentinos Juniors": 21.0,
+        "Lanus": 1.21,
+        "Draw": 4.8
+      },
+      "LeoVegas (SE)": {
+        "Argentinos Juniors": 21.0,
+        "Lanus": 1.15,
+        "Draw": 4.5
+      },
+      "Nordic Bet": {
+        "Argentinos Juniors": 26.0,
+        "Lanus": 1.16,
+        "Draw": 4.85
       },
       "Betsson": {
-        "CA Tigre BA": 1.02,
-        "Central Córdoba": 46.0,
-        "Draw": 13.0
-      },
-      "Nordic Bet": {
-        "CA Tigre BA": 1.02,
-        "Central Córdoba": 46.0,
-        "Draw": 13.0
+        "Argentinos Juniors": 4.85,
+        "Lanus": 3.9,
+        "Draw": 1.58
       },
       "Pinnacle": {
-        "CA Tigre BA": 1.19,
-        "Central Córdoba": 23.11,
-        "Draw": 5.93
+        "Argentinos Juniors": 4.89,
+        "Lanus": 3.96,
+        "Draw": 1.66
       },
       "Betfair": {
-        "CA Tigre BA": 1.05,
-        "Central Córdoba": 100.0,
-        "Draw": 21.0
+        "Argentinos Juniors": 32.0,
+        "Lanus": 1.24,
+        "Draw": 5.7
       }
     },
-    "d602fcf8606f711ae60ca489afdb6585:h2h": {
+    "8348868b8adbe83cfbda9fe988ab314b:h2h": {
+      "Winamax (FR)": {
+        "Rosario Central": 2.9,
+        "Talleres": 5.1,
+        "Draw": 1.68
+      },
+      "Winamax (DE)": {
+        "Rosario Central": 3.0,
+        "Talleres": 5.4,
+        "Draw": 1.7
+      },
+      "Betclic (FR)": {
+        "Rosario Central": 2.92,
+        "Talleres": 5.25,
+        "Draw": 1.75
+      },
       "LeoVegas (SE)": {
-        "América Mineiro": 5.0,
-        "Sport Recife": 1.56,
-        "Draw": 3.3
+        "Rosario Central": 2.95,
+        "Talleres": 5.75,
+        "Draw": 1.57
       },
       "Unibet (SE)": {
-        "América Mineiro": 5.3,
-        "Sport Recife": 1.65,
-        "Draw": 3.5
+        "Rosario Central": 3.1,
+        "Talleres": 6.1,
+        "Draw": 1.68
       },
-      "Unibet (NL)": {
-        "América Mineiro": 5.0,
-        "Sport Recife": 1.57,
-        "Draw": 3.3
+      "Betsson": {
+        "Rosario Central": 2.88,
+        "Talleres": 5.35,
+        "Draw": 1.8
       },
       "Nordic Bet": {
-        "América Mineiro": 4.85,
-        "Sport Recife": 1.62,
-        "Draw": 3.3
+        "Rosario Central": 3.05,
+        "Talleres": 5.35,
+        "Draw": 1.72
       },
-      "Coolbet": {
-        "América Mineiro": 5.0,
-        "Sport Recife": 1.62,
+      "Pinnacle": {
+        "Rosario Central": 2.98,
+        "Talleres": 4.99,
+        "Draw": 1.92
+      },
+      "Betfair": {
+        "Rosario Central": 2.98,
+        "Talleres": 6.0,
+        "Draw": 1.96
+      }
+    },
+    "d59c12d88d59e5a665b3fd8f626628d5:h2h": {
+      "LeoVegas (SE)": {
+        "Bucheon FC 1995": 5.4,
+        "FC Seoul": 1.48,
         "Draw": 3.75
       },
-      "Betsson": {
-        "América Mineiro": 4.85,
-        "Sport Recife": 1.62,
-        "Draw": 3.3
-      },
-      "BetOnline.ag": {
-        "América Mineiro": 5.4,
-        "Sport Recife": 1.61,
-        "Draw": 3.65
-      },
-      "Marathon Bet": {
-        "América Mineiro": 5.35,
-        "Sport Recife": 1.63,
-        "Draw": 3.6
-      },
-      "Codere (IT)": {
-        "América Mineiro": 5.2,
-        "Sport Recife": 1.61,
-        "Draw": 3.6
-      },
-      "888sport": {
-        "América Mineiro": 5.0,
-        "Sport Recife": 1.61,
-        "Draw": 3.4
-      },
-      "William Hill": {
-        "América Mineiro": 5.0,
-        "Sport Recife": 1.65,
-        "Draw": 3.4
-      },
-      "Pinnacle": {
-        "América Mineiro": 5.73,
-        "Sport Recife": 1.67,
-        "Draw": 3.72
-      },
-      "Matchbook": {
-        "América Mineiro": 6.6,
-        "Sport Recife": 1.72,
-        "Draw": 3.65
-      },
-      "Betfair": {
-        "América Mineiro": 6.4,
-        "Sport Recife": 1.73,
-        "Draw": 3.65
-      },
-      "Tipico": {
-        "América Mineiro": 5.2,
-        "Sport Recife": 1.6,
-        "Draw": 3.6
-      }
-    },
-    "32ee3eb8c14f678ece036459afec2572:h2h": {
       "Unibet (SE)": {
-        "Athletic Club (MG)": 3.1,
-        "Grêmio Novorizontino": 2.38,
-        "Draw": 3.0
-      },
-      "LeoVegas (SE)": {
-        "Athletic Club (MG)": 2.9,
-        "Grêmio Novorizontino": 2.25,
-        "Draw": 2.8
+        "Bucheon FC 1995": 5.4,
+        "FC Seoul": 1.49,
+        "Draw": 3.75
       },
       "Unibet (NL)": {
-        "Athletic Club (MG)": 2.95,
-        "Grêmio Novorizontino": 2.25,
-        "Draw": 2.85
-      },
-      "Betsson": {
-        "Athletic Club (MG)": 3.3,
-        "Grêmio Novorizontino": 2.15,
-        "Draw": 2.78
-      },
-      "Nordic Bet": {
-        "Athletic Club (MG)": 3.3,
-        "Grêmio Novorizontino": 2.15,
-        "Draw": 2.78
-      },
-      "Coolbet": {
-        "Athletic Club (MG)": 3.4,
-        "Grêmio Novorizontino": 2.2,
-        "Draw": 3.0
-      },
-      "Codere (IT)": {
-        "Athletic Club (MG)": 3.3,
-        "Grêmio Novorizontino": 2.23,
-        "Draw": 2.95
-      },
-      "1xBet": {
-        "Athletic Club (MG)": 3.59,
-        "Grêmio Novorizontino": 2.14,
-        "Draw": 3.09
-      },
-      "888sport": {
-        "Athletic Club (MG)": 3.4,
-        "Grêmio Novorizontino": 2.15,
-        "Draw": 2.8
-      },
-      "William Hill": {
-        "Athletic Club (MG)": 3.5,
-        "Grêmio Novorizontino": 2.15,
-        "Draw": 2.9
-      },
-      "Pinnacle": {
-        "Athletic Club (MG)": 3.55,
-        "Grêmio Novorizontino": 2.31,
-        "Draw": 3.09
-      },
-      "BetOnline.ag": {
-        "Athletic Club (MG)": 3.55,
-        "Grêmio Novorizontino": 2.14,
-        "Draw": 3.05
-      },
-      "Matchbook": {
-        "Athletic Club (MG)": 4.0,
-        "Grêmio Novorizontino": 2.32,
-        "Draw": 3.0
-      },
-      "Betfair": {
-        "Athletic Club (MG)": 3.9,
-        "Grêmio Novorizontino": 2.34,
-        "Draw": 3.1
-      },
-      "Tipico": {
-        "Athletic Club (MG)": 3.8,
-        "Grêmio Novorizontino": 2.1,
-        "Draw": 2.8
-      }
-    },
-    "aeeaca22cc9dd105d58a90c6821fd1fe:h2h": {
-      "1xBet": {
-        "Atletico Paranaense": 3.09,
-        "Botafogo": 2.45,
-        "Draw": 3.23
-      },
-      "Winamax (FR)": {
-        "Atletico Paranaense": 2.75,
-        "Botafogo": 2.25,
-        "Draw": 3.15
-      },
-      "Codere (IT)": {
-        "Atletico Paranaense": 2.95,
-        "Botafogo": 2.4,
-        "Draw": 3.25
-      },
-      "Unibet (FR)": {
-        "Atletico Paranaense": 2.8,
-        "Botafogo": 2.25,
-        "Draw": 3.1
-      },
-      "Betclic (FR)": {
-        "Atletico Paranaense": 2.85,
-        "Botafogo": 2.27,
-        "Draw": 3.13
-      },
-      "888sport": {
-        "Atletico Paranaense": 2.9,
-        "Botafogo": 2.38,
-        "Draw": 3.0
-      },
-      "Winamax (DE)": {
-        "Atletico Paranaense": 2.8,
-        "Botafogo": 2.3,
-        "Draw": 3.25
-      },
-      "William Hill": {
-        "Atletico Paranaense": 2.9,
-        "Botafogo": 2.38,
-        "Draw": 3.0
-      },
-      "Marathon Bet": {
-        "Atletico Paranaense": 3.0,
-        "Botafogo": 2.38,
-        "Draw": 3.14
-      },
-      "Coolbet": {
-        "Atletico Paranaense": 3.0,
-        "Botafogo": 2.45,
-        "Draw": 3.3
+        "Bucheon FC 1995": 5.4,
+        "FC Seoul": 1.49,
+        "Draw": 3.75
       },
       "PMU (FR)": {
-        "Atletico Paranaense": 2.88,
-        "Botafogo": 2.3,
-        "Draw": 3.05
-      },
-      "LeoVegas (SE)": {
-        "Atletico Paranaense": 2.88,
-        "Botafogo": 2.3,
-        "Draw": 3.05
-      },
-      "Unibet (SE)": {
-        "Atletico Paranaense": 3.0,
-        "Botafogo": 2.38,
-        "Draw": 3.15
-      },
-      "Unibet (NL)": {
-        "Atletico Paranaense": 3.0,
-        "Botafogo": 2.38,
-        "Draw": 3.15
-      },
-      "Pinnacle": {
-        "Atletico Paranaense": 3.05,
-        "Botafogo": 2.53,
-        "Draw": 3.23
-      },
-      "Tipico": {
-        "Atletico Paranaense": 3.1,
-        "Botafogo": 2.2,
-        "Draw": 3.2
-      },
-      "Matchbook": {
-        "Atletico Paranaense": 3.2,
-        "Botafogo": 2.52,
-        "Draw": 3.35
-      },
-      "GTbets": {
-        "Atletico Paranaense": 2.93,
-        "Botafogo": 2.39,
-        "Draw": 3.2
-      },
-      "BetOnline.ag": {
-        "Atletico Paranaense": 3.18,
-        "Botafogo": 2.42,
-        "Draw": 3.25
-      },
-      "Betsson": {
-        "Atletico Paranaense": 2.95,
-        "Botafogo": 2.35,
-        "Draw": 3.15
+        "Bucheon FC 1995": 5.2,
+        "FC Seoul": 1.43,
+        "Draw": 3.6
       },
       "Nordic Bet": {
-        "Atletico Paranaense": 2.95,
-        "Botafogo": 2.35,
-        "Draw": 3.15
+        "Bucheon FC 1995": 5.7,
+        "FC Seoul": 1.49,
+        "Draw": 3.95
       },
-      "BetAnything": {
-        "Atletico Paranaense": 3.18,
-        "Botafogo": 2.42,
-        "Draw": 3.25
+      "Betsson": {
+        "Bucheon FC 1995": 5.7,
+        "FC Seoul": 1.49,
+        "Draw": 3.95
+      },
+      "Coolbet": {
+        "Bucheon FC 1995": 6.5,
+        "FC Seoul": 1.5,
+        "Draw": 4.2
+      },
+      "Unibet (FR)": {
+        "Bucheon FC 1995": 5.6,
+        "FC Seoul": 1.44,
+        "Draw": 3.9
+      },
+      "BetOnline.ag": {
+        "Bucheon FC 1995": 5.9,
+        "FC Seoul": 1.53,
+        "Draw": 4.2
+      },
+      "Betclic (FR)": {
+        "Bucheon FC 1995": 5.75,
+        "FC Seoul": 1.48,
+        "Draw": 4.0
+      },
+      "Pinnacle": {
+        "Bucheon FC 1995": 6.35,
+        "FC Seoul": 1.53,
+        "Draw": 4.38
+      },
+      "1xBet": {
+        "Bucheon FC 1995": 6.16,
+        "FC Seoul": 1.5,
+        "Draw": 4.2
+      },
+      "Winamax (FR)": {
+        "Bucheon FC 1995": 5.3,
+        "FC Seoul": 1.47,
+        "Draw": 4.0
+      },
+      "Winamax (DE)": {
+        "Bucheon FC 1995": 5.5,
+        "FC Seoul": 1.49,
+        "Draw": 4.1
+      },
+      "Marathon Bet": {
+        "Bucheon FC 1995": 6.15,
+        "FC Seoul": 1.49,
+        "Draw": 4.2
+      },
+      "William Hill": {
+        "Bucheon FC 1995": 5.8,
+        "FC Seoul": 1.5,
+        "Draw": 4.0
       },
       "Betfair": {
-        "Atletico Paranaense": 3.2,
-        "Botafogo": 2.5,
-        "Draw": 3.35
+        "Bucheon FC 1995": 7.2,
+        "FC Seoul": 1.53,
+        "Draw": 4.3
+      },
+      "Tipico": {
+        "Bucheon FC 1995": 6.2,
+        "FC Seoul": 1.45,
+        "Draw": 4.2
+      },
+      "Matchbook": {
+        "Bucheon FC 1995": 7.2,
+        "FC Seoul": 1.53,
+        "Draw": 4.3
+      }
+    },
+    "794a1d28faf01225195c960716c16b09:h2h": {
+      "Unibet (SE)": {
+        "Jeju United FC": 2.28,
+        "Pohang Steelers": 2.85,
+        "Draw": 3.0
+      },
+      "LeoVegas (SE)": {
+        "Jeju United FC": 2.28,
+        "Pohang Steelers": 2.85,
+        "Draw": 2.95
+      },
+      "Unibet (NL)": {
+        "Jeju United FC": 2.28,
+        "Pohang Steelers": 2.85,
+        "Draw": 3.0
+      },
+      "PMU (FR)": {
+        "Jeju United FC": 2.2,
+        "Pohang Steelers": 2.75,
+        "Draw": 2.85
+      },
+      "Unibet (FR)": {
+        "Jeju United FC": 2.25,
+        "Pohang Steelers": 2.85,
+        "Draw": 3.0
+      },
+      "BetOnline.ag": {
+        "Jeju United FC": 2.44,
+        "Pohang Steelers": 3.0,
+        "Draw": 3.2
+      },
+      "Nordic Bet": {
+        "Jeju United FC": 2.38,
+        "Pohang Steelers": 2.9,
+        "Draw": 3.0
+      },
+      "Betsson": {
+        "Jeju United FC": 2.38,
+        "Pohang Steelers": 2.9,
+        "Draw": 3.0
+      },
+      "Coolbet": {
+        "Jeju United FC": 2.45,
+        "Pohang Steelers": 3.0,
+        "Draw": 3.15
+      },
+      "Betclic (FR)": {
+        "Jeju United FC": 2.35,
+        "Pohang Steelers": 2.9,
+        "Draw": 3.05
+      },
+      "Pinnacle": {
+        "Jeju United FC": 2.48,
+        "Pohang Steelers": 3.08,
+        "Draw": 3.27
+      },
+      "1xBet": {
+        "Jeju United FC": 2.44,
+        "Pohang Steelers": 2.96,
+        "Draw": 3.12
+      },
+      "Winamax (FR)": {
+        "Jeju United FC": 2.3,
+        "Pohang Steelers": 2.75,
+        "Draw": 3.05
+      },
+      "Winamax (DE)": {
+        "Jeju United FC": 2.3,
+        "Pohang Steelers": 2.8,
+        "Draw": 3.1
+      },
+      "Marathon Bet": {
+        "Jeju United FC": 2.42,
+        "Pohang Steelers": 2.95,
+        "Draw": 3.12
+      },
+      "William Hill": {
+        "Jeju United FC": 2.4,
+        "Pohang Steelers": 2.9,
+        "Draw": 3.0
+      },
+      "Betfair": {
+        "Jeju United FC": 2.52,
+        "Pohang Steelers": 3.2,
+        "Draw": 3.2
+      },
+      "Tipico": {
+        "Jeju United FC": 2.3,
+        "Pohang Steelers": 3.1,
+        "Draw": 3.1
+      },
+      "Matchbook": {
+        "Jeju United FC": 2.52,
+        "Pohang Steelers": 3.2,
+        "Draw": 3.2
       }
     }
   },
@@ -11259,27 +11234,332 @@
       "confidence": 6,
       "alert_type": "value",
       "alerted_at": "2026-08-24T22:39:31.672855+00:00"
+    },
+    {
+      "state_key": "a800914b9c4e10d030a0c3beb393a3e8:h2h",
+      "event_id": "a800914b9c4e10d030a0c3beb393a3e8",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Lanus",
+      "away_team": "Argentinos Juniors",
+      "commence_time": "2026-08-25T00:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Argentinos Juniors",
+      "odds_at_alert": 30.0,
+      "stake_pct": 5.0,
+      "confidence": 479,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T01:48:22.982201+00:00"
+    },
+    {
+      "state_key": "a800914b9c4e10d030a0c3beb393a3e8:h2h",
+      "event_id": "a800914b9c4e10d030a0c3beb393a3e8",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Lanus",
+      "away_team": "Argentinos Juniors",
+      "commence_time": "2026-08-25T00:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.1,
+      "stake_pct": 5.0,
+      "confidence": 190,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T01:48:23.286990+00:00"
+    },
+    {
+      "state_key": "a800914b9c4e10d030a0c3beb393a3e8:h2h",
+      "event_id": "a800914b9c4e10d030a0c3beb393a3e8",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Lanus",
+      "away_team": "Argentinos Juniors",
+      "commence_time": "2026-08-25T00:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Argentinos Juniors",
+      "odds_at_alert": 30.0,
+      "stake_pct": 5.0,
+      "confidence": 479,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T01:48:23.592405+00:00"
+    },
+    {
+      "state_key": "a800914b9c4e10d030a0c3beb393a3e8:h2h",
+      "event_id": "a800914b9c4e10d030a0c3beb393a3e8",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Lanus",
+      "away_team": "Argentinos Juniors",
+      "commence_time": "2026-08-25T00:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.8,
+      "stake_pct": 5.0,
+      "confidence": 173,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T01:48:23.902617+00:00"
+    },
+    {
+      "state_key": "a800914b9c4e10d030a0c3beb393a3e8:h2h",
+      "event_id": "a800914b9c4e10d030a0c3beb393a3e8",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Lanus",
+      "away_team": "Argentinos Juniors",
+      "commence_time": "2026-08-25T00:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Argentinos Juniors",
+      "odds_at_alert": 23.0,
+      "stake_pct": 5.0,
+      "confidence": 344,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T01:48:24.202510+00:00"
+    },
+    {
+      "state_key": "a800914b9c4e10d030a0c3beb393a3e8:h2h",
+      "event_id": "a800914b9c4e10d030a0c3beb393a3e8",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Lanus",
+      "away_team": "Argentinos Juniors",
+      "commence_time": "2026-08-25T00:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.75,
+      "stake_pct": 5.0,
+      "confidence": 170,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T01:48:24.517567+00:00"
+    },
+    {
+      "state_key": "a800914b9c4e10d030a0c3beb393a3e8:h2h",
+      "event_id": "a800914b9c4e10d030a0c3beb393a3e8",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Lanus",
+      "away_team": "Argentinos Juniors",
+      "commence_time": "2026-08-25T00:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Argentinos Juniors",
+      "odds_at_alert": 21.0,
+      "stake_pct": 5.0,
+      "confidence": 305,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T01:48:24.825705+00:00"
+    },
+    {
+      "state_key": "a800914b9c4e10d030a0c3beb393a3e8:h2h",
+      "event_id": "a800914b9c4e10d030a0c3beb393a3e8",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Lanus",
+      "away_team": "Argentinos Juniors",
+      "commence_time": "2026-08-25T00:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.8,
+      "stake_pct": 5.0,
+      "confidence": 173,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T01:48:25.124229+00:00"
+    },
+    {
+      "state_key": "a800914b9c4e10d030a0c3beb393a3e8:h2h",
+      "event_id": "a800914b9c4e10d030a0c3beb393a3e8",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Lanus",
+      "away_team": "Argentinos Juniors",
+      "commence_time": "2026-08-25T00:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Argentinos Juniors",
+      "odds_at_alert": 21.0,
+      "stake_pct": 5.0,
+      "confidence": 305,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T01:48:25.424417+00:00"
+    },
+    {
+      "state_key": "a800914b9c4e10d030a0c3beb393a3e8:h2h",
+      "event_id": "a800914b9c4e10d030a0c3beb393a3e8",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Lanus",
+      "away_team": "Argentinos Juniors",
+      "commence_time": "2026-08-25T00:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.5,
+      "stake_pct": 5.0,
+      "confidence": 156,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T01:48:25.725723+00:00"
+    },
+    {
+      "state_key": "a800914b9c4e10d030a0c3beb393a3e8:h2h",
+      "event_id": "a800914b9c4e10d030a0c3beb393a3e8",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Lanus",
+      "away_team": "Argentinos Juniors",
+      "commence_time": "2026-08-25T00:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Argentinos Juniors",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 402,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T01:48:26.028108+00:00"
+    },
+    {
+      "state_key": "a800914b9c4e10d030a0c3beb393a3e8:h2h",
+      "event_id": "a800914b9c4e10d030a0c3beb393a3e8",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Lanus",
+      "away_team": "Argentinos Juniors",
+      "commence_time": "2026-08-25T00:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.85,
+      "stake_pct": 5.0,
+      "confidence": 176,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T01:48:26.329204+00:00"
+    },
+    {
+      "state_key": "a800914b9c4e10d030a0c3beb393a3e8:h2h",
+      "event_id": "a800914b9c4e10d030a0c3beb393a3e8",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Lanus",
+      "away_team": "Argentinos Juniors",
+      "commence_time": "2026-08-25T00:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Argentinos Juniors",
+      "odds_at_alert": 32.0,
+      "stake_pct": 5.0,
+      "confidence": 518,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T01:48:26.633721+00:00"
+    },
+    {
+      "state_key": "a800914b9c4e10d030a0c3beb393a3e8:h2h",
+      "event_id": "a800914b9c4e10d030a0c3beb393a3e8",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Lanus",
+      "away_team": "Argentinos Juniors",
+      "commence_time": "2026-08-25T00:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.7,
+      "stake_pct": 5.0,
+      "confidence": 224,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T01:48:26.931161+00:00"
+    },
+    {
+      "state_key": "8348868b8adbe83cfbda9fe988ab314b:h2h",
+      "event_id": "8348868b8adbe83cfbda9fe988ab314b",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Talleres",
+      "away_team": "Rosario Central",
+      "commence_time": "2026-08-25T00:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Talleres",
+      "odds_at_alert": 5.75,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T01:48:27.251589+00:00"
+    },
+    {
+      "state_key": "8348868b8adbe83cfbda9fe988ab314b:h2h",
+      "event_id": "8348868b8adbe83cfbda9fe988ab314b",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Talleres",
+      "away_team": "Rosario Central",
+      "commence_time": "2026-08-25T00:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Talleres",
+      "odds_at_alert": 6.1,
+      "stake_pct": 5.0,
+      "confidence": 16,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T01:48:27.552843+00:00"
+    },
+    {
+      "state_key": "8348868b8adbe83cfbda9fe988ab314b:h2h",
+      "event_id": "8348868b8adbe83cfbda9fe988ab314b",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Talleres",
+      "away_team": "Rosario Central",
+      "commence_time": "2026-08-25T00:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Talleres",
+      "odds_at_alert": 6.0,
+      "stake_pct": 3.0,
+      "confidence": 14,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T01:48:27.861343+00:00"
+    },
+    {
+      "state_key": "d59c12d88d59e5a665b3fd8f626628d5:h2h",
+      "event_id": "d59c12d88d59e5a665b3fd8f626628d5",
+      "sport_key": "soccer",
+      "competition": "K League 1",
+      "home_team": "FC Seoul",
+      "away_team": "Bucheon FC 1995",
+      "commence_time": "2026-08-25T10:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Bucheon FC 1995",
+      "odds_at_alert": 7.2,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T01:48:28.171473+00:00"
+    },
+    {
+      "state_key": "d59c12d88d59e5a665b3fd8f626628d5:h2h",
+      "event_id": "d59c12d88d59e5a665b3fd8f626628d5",
+      "sport_key": "soccer",
+      "competition": "K League 1",
+      "home_team": "FC Seoul",
+      "away_team": "Bucheon FC 1995",
+      "commence_time": "2026-08-25T10:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Bucheon FC 1995",
+      "odds_at_alert": 7.2,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T01:48:28.479060+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "32ee3eb8c14f678ece036459afec2572:h2h|Betfair|Athletic Club (MG)",
-    "32ee3eb8c14f678ece036459afec2572:h2h|Matchbook|Athletic Club (MG)",
-    "d602fcf8606f711ae60ca489afdb6585:h2h|Betfair|América Mineiro",
-    "d602fcf8606f711ae60ca489afdb6585:h2h|Matchbook|América Mineiro",
-    "ecdebcc1a0f8b5f148f4445d3bd1ff2c:h2h|Betclic (FR)|Central Córdoba",
-    "ecdebcc1a0f8b5f148f4445d3bd1ff2c:h2h|Betclic (FR)|Draw",
-    "ecdebcc1a0f8b5f148f4445d3bd1ff2c:h2h|Betfair|Central Córdoba",
-    "ecdebcc1a0f8b5f148f4445d3bd1ff2c:h2h|Betfair|Draw",
-    "ecdebcc1a0f8b5f148f4445d3bd1ff2c:h2h|Betsson|Central Córdoba",
-    "ecdebcc1a0f8b5f148f4445d3bd1ff2c:h2h|Betsson|Draw",
-    "ecdebcc1a0f8b5f148f4445d3bd1ff2c:h2h|Nordic Bet|Central Córdoba",
-    "ecdebcc1a0f8b5f148f4445d3bd1ff2c:h2h|Nordic Bet|Draw",
-    "ecdebcc1a0f8b5f148f4445d3bd1ff2c:h2h|Unibet (SE)|Central Córdoba",
-    "ecdebcc1a0f8b5f148f4445d3bd1ff2c:h2h|Unibet (SE)|Draw",
-    "ecdebcc1a0f8b5f148f4445d3bd1ff2c:h2h|Winamax (DE)|Central Córdoba",
-    "ecdebcc1a0f8b5f148f4445d3bd1ff2c:h2h|Winamax (DE)|Draw",
-    "ecdebcc1a0f8b5f148f4445d3bd1ff2c:h2h|Winamax (FR)|Central Córdoba",
-    "ecdebcc1a0f8b5f148f4445d3bd1ff2c:h2h|Winamax (FR)|Draw"
+    "8348868b8adbe83cfbda9fe988ab314b:h2h|Betfair|Talleres",
+    "8348868b8adbe83cfbda9fe988ab314b:h2h|LeoVegas (SE)|Talleres",
+    "8348868b8adbe83cfbda9fe988ab314b:h2h|Unibet (SE)|Talleres",
+    "a800914b9c4e10d030a0c3beb393a3e8:h2h|Betclic (FR)|Argentinos Juniors",
+    "a800914b9c4e10d030a0c3beb393a3e8:h2h|Betclic (FR)|Draw",
+    "a800914b9c4e10d030a0c3beb393a3e8:h2h|Betfair|Argentinos Juniors",
+    "a800914b9c4e10d030a0c3beb393a3e8:h2h|Betfair|Draw",
+    "a800914b9c4e10d030a0c3beb393a3e8:h2h|LeoVegas (SE)|Argentinos Juniors",
+    "a800914b9c4e10d030a0c3beb393a3e8:h2h|LeoVegas (SE)|Draw",
+    "a800914b9c4e10d030a0c3beb393a3e8:h2h|Nordic Bet|Argentinos Juniors",
+    "a800914b9c4e10d030a0c3beb393a3e8:h2h|Nordic Bet|Draw",
+    "a800914b9c4e10d030a0c3beb393a3e8:h2h|Unibet (SE)|Argentinos Juniors",
+    "a800914b9c4e10d030a0c3beb393a3e8:h2h|Unibet (SE)|Draw",
+    "a800914b9c4e10d030a0c3beb393a3e8:h2h|Winamax (DE)|Argentinos Juniors",
+    "a800914b9c4e10d030a0c3beb393a3e8:h2h|Winamax (DE)|Draw",
+    "a800914b9c4e10d030a0c3beb393a3e8:h2h|Winamax (FR)|Argentinos Juniors",
+    "a800914b9c4e10d030a0c3beb393a3e8:h2h|Winamax (FR)|Draw",
+    "d59c12d88d59e5a665b3fd8f626628d5:h2h|Betfair|Bucheon FC 1995",
+    "d59c12d88d59e5a665b3fd8f626628d5:h2h|Matchbook|Bucheon FC 1995"
   ]
 }
