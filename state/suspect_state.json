@@ -1,161 +1,131 @@
 {
   "snapshots": {
-    "34d3315d0e02d835c451ccf954f57a60:h2h": {
-      "Coolbet": {
-        "Hapoel Be'er Sheva": 13.25,
-        "Sabah FK": 11.25,
-        "Draw": 1.12
-      },
-      "Tipico": {
-        "Hapoel Be'er Sheva": 5.2,
-        "Sabah FK": 2.8,
-        "Draw": 1.85
-      },
-      "Betfair": {
-        "Hapoel Be'er Sheva": 28.0,
-        "Sabah FK": 14.0,
-        "Draw": 1.11
-      },
-      "Pinnacle": {
-        "Hapoel Be'er Sheva": 5.92,
-        "Sabah FK": 2.93,
-        "Draw": 1.8
-      },
-      "Unibet (SE)": {
-        "Hapoel Be'er Sheva": 56.0,
-        "Sabah FK": 12.5,
-        "Draw": 1.03
-      },
-      "Unibet (NL)": {
-        "Hapoel Be'er Sheva": 51.0,
-        "Sabah FK": 12.0,
-        "Draw": 1.04
-      }
-    },
-    "141411d6c3f966d9957eb7870e5bfacd:h2h": {
-      "Pinnacle": {
-        "GIF Sundsvall": 15.13,
-        "Östers IF": 1.32,
-        "Draw": 3.96
-      },
-      "Betsson": {
-        "GIF Sundsvall": 150.0,
-        "Östers IF": 1.03,
-        "Draw": 10.0
-      },
-      "Nordic Bet": {
-        "GIF Sundsvall": 200.0,
-        "Östers IF": 1.03,
-        "Draw": 10.0
-      },
-      "LeoVegas (SE)": {
-        "GIF Sundsvall": 76.0,
-        "Östers IF": 1.03,
-        "Draw": 7.5
-      },
-      "Betfair": {
-        "GIF Sundsvall": 42.0,
-        "Östers IF": 1.03,
+    "902a6edbd94019cb1e788261c39e7207:h2h": {
+      "Winamax (DE)": {
+        "Barnsley": 1.01,
+        "Crewe Alexandra": 1000.0,
         "Draw": 21.0
       },
-      "888sport": {
-        "GIF Sundsvall": 36.0,
-        "Östers IF": 1.14,
-        "Draw": 5.5
-      },
-      "Tipico": {
-        "GIF Sundsvall": 250.0,
-        "Östers IF": 1.03,
-        "Draw": 10.0
-      },
-      "Coolbet": {
-        "GIF Sundsvall": 300.0,
-        "Östers IF": 1.04,
-        "Draw": 9.2
-      }
-    },
-    "b0ab8bee48b95e37507809643104a61c:h2h": {
-      "Nordic Bet": {
-        "Varbergs BoIS": 80.0,
-        "Örebro SK": 1.04,
-        "Draw": 9.5
+      "Winamax (FR)": {
+        "Barnsley": 1.02,
+        "Crewe Alexandra": 1000.0,
+        "Draw": 21.0
       },
       "Betsson": {
-        "Varbergs BoIS": 80.0,
-        "Örebro SK": 1.04,
-        "Draw": 9.5
+        "Barnsley": 1.0,
+        "Crewe Alexandra": 101.0,
+        "Draw": 15.0
       },
-      "888sport": {
-        "Varbergs BoIS": 41.0,
-        "Örebro SK": 1.12,
-        "Draw": 5.75
+      "Nordic Bet": {
+        "Barnsley": 1.01,
+        "Crewe Alexandra": 130.0,
+        "Draw": 13.0
       },
       "Betfair": {
-        "Varbergs BoIS": 170.0,
-        "Örebro SK": 1.06,
-        "Draw": 14.5
-      },
-      "Tipico": {
-        "Varbergs BoIS": 500.0,
-        "Örebro SK": 1.01,
-        "Draw": 8.5
+        "Barnsley": 1.05,
+        "Crewe Alexandra": 90.0,
+        "Draw": 13.0
       },
       "Coolbet": {
-        "Varbergs BoIS": 80.0,
-        "Örebro SK": 1.04,
-        "Draw": 10.0
+        "Barnsley": 1.0,
+        "Crewe Alexandra": 150.0,
+        "Draw": 20.0
       }
     },
-    "0ec40fc0ae78ee50aa0c5b6548c41b0c:h2h": {
-      "888sport": {
-        "Al-Ettifaq": 1.15,
-        "Al-Nassr": 12.0,
-        "Draw": 6.0
-      },
-      "Betfair": {
-        "Al-Ettifaq": 1.21,
-        "Al-Nassr": 17.0,
-        "Draw": 8.4
-      },
-      "PMU (FR)": {
-        "Al-Ettifaq": 1.09,
-        "Al-Nassr": 10.0,
-        "Draw": 5.5
-      },
-      "Unibet (SE)": {
-        "Al-Ettifaq": 1.21,
-        "Al-Nassr": 11.5,
-        "Draw": 6.25
-      },
-      "Unibet (NL)": {
-        "Al-Ettifaq": 1.16,
-        "Al-Nassr": 10.5,
-        "Draw": 6.0
-      },
-      "LeoVegas (SE)": {
-        "Al-Ettifaq": 1.15,
-        "Al-Nassr": 10.5,
-        "Draw": 5.8
+    "41eaf92a78e39c388dbbd30864d9b142:h2h": {
+      "Pinnacle": {
+        "Blackburn Rovers": 5.89,
+        "Sheffield United": 3.54,
+        "Draw": 1.63
       },
       "Winamax (FR)": {
-        "Al-Ettifaq": 1.14,
-        "Al-Nassr": 14.5,
-        "Draw": 6.25
-      },
-      "Betclic (FR)": {
-        "Al-Ettifaq": 1.13,
-        "Al-Nassr": 14.0,
-        "Draw": 6.0
+        "Blackburn Rovers": 900.0,
+        "Sheffield United": 1.02,
+        "Draw": 23.0
       },
       "Winamax (DE)": {
-        "Al-Ettifaq": 1.14,
-        "Al-Nassr": 15.0,
-        "Draw": 6.5
+        "Blackburn Rovers": 900.0,
+        "Sheffield United": 1.01,
+        "Draw": 23.0
+      },
+      "Betsson": {
+        "Blackburn Rovers": 101.0,
+        "Sheffield United": 1.0,
+        "Draw": 15.0
+      },
+      "Nordic Bet": {
+        "Blackburn Rovers": 101.0,
+        "Sheffield United": 1.0,
+        "Draw": 15.0
+      },
+      "Betfair": {
+        "Blackburn Rovers": 100.0,
+        "Sheffield United": 1.04,
+        "Draw": 17.5
+      },
+      "888sport": {
+        "Blackburn Rovers": 151.0,
+        "Sheffield United": 1.01,
+        "Draw": 26.0
+      },
+      "Coolbet": {
+        "Blackburn Rovers": 150.0,
+        "Sheffield United": 1.01,
+        "Draw": 17.0
+      }
+    },
+    "bb4b129e15c7b6d9a76cc5869db84d87:h2h": {
+      "Betsson": {
+        "Blackpool": 26.0,
+        "Lincoln City": 1.0,
+        "Draw": 26.0
+      },
+      "Nordic Bet": {
+        "Blackpool": 26.0,
+        "Lincoln City": 1.0,
+        "Draw": 26.0
+      }
+    },
+    "e899847caa4f9381d61f9fc940921566:h2h": {
+      "Winamax (FR)": {
+        "Cambridge United": 450.0,
+        "Millwall": 1.03,
+        "Draw": 16.0
+      },
+      "Winamax (DE)": {
+        "Cambridge United": 450.0,
+        "Millwall": 1.02,
+        "Draw": 16.0
       },
       "Tipico": {
-        "Al-Ettifaq": 1.1,
-        "Al-Nassr": 16.0,
-        "Draw": 8.0
+        "Cambridge United": 400.0,
+        "Millwall": 1.01,
+        "Draw": 25.0
+      },
+      "Betsson": {
+        "Cambridge United": 80.0,
+        "Millwall": 1.03,
+        "Draw": 11.0
+      },
+      "Nordic Bet": {
+        "Cambridge United": 80.0,
+        "Millwall": 1.04,
+        "Draw": 10.0
+      },
+      "Betfair": {
+        "Cambridge United": 130.0,
+        "Millwall": 1.03,
+        "Draw": 26.0
+      },
+      "888sport": {
+        "Cambridge United": 151.0,
+        "Millwall": 1.01,
+        "Draw": 21.0
+      },
+      "Coolbet": {
+        "Cambridge United": 100.0,
+        "Millwall": 1.04,
+        "Draw": 11.3
       }
     }
   },
@@ -11936,32 +11906,247 @@
       "confidence": 116,
       "alert_type": "value",
       "alerted_at": "2026-08-25T18:54:00.398837+00:00"
+    },
+    {
+      "state_key": "41eaf92a78e39c388dbbd30864d9b142:h2h",
+      "event_id": "41eaf92a78e39c388dbbd30864d9b142",
+      "sport_key": "soccer",
+      "competition": "EFL Cup",
+      "home_team": "Blackburn Rovers",
+      "away_team": "Sheffield United",
+      "commence_time": "2026-08-25T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Blackburn Rovers",
+      "odds_at_alert": 900.0,
+      "stake_pct": 5.0,
+      "confidence": 14237,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T20:40:50.392605+00:00"
+    },
+    {
+      "state_key": "41eaf92a78e39c388dbbd30864d9b142:h2h",
+      "event_id": "41eaf92a78e39c388dbbd30864d9b142",
+      "sport_key": "soccer",
+      "competition": "EFL Cup",
+      "home_team": "Blackburn Rovers",
+      "away_team": "Sheffield United",
+      "commence_time": "2026-08-25T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 23.0,
+      "stake_pct": 5.0,
+      "confidence": 1224,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T20:40:50.714126+00:00"
+    },
+    {
+      "state_key": "41eaf92a78e39c388dbbd30864d9b142:h2h",
+      "event_id": "41eaf92a78e39c388dbbd30864d9b142",
+      "sport_key": "soccer",
+      "competition": "EFL Cup",
+      "home_team": "Blackburn Rovers",
+      "away_team": "Sheffield United",
+      "commence_time": "2026-08-25T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Blackburn Rovers",
+      "odds_at_alert": 900.0,
+      "stake_pct": 5.0,
+      "confidence": 14237,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T20:40:51.032933+00:00"
+    },
+    {
+      "state_key": "41eaf92a78e39c388dbbd30864d9b142:h2h",
+      "event_id": "41eaf92a78e39c388dbbd30864d9b142",
+      "sport_key": "soccer",
+      "competition": "EFL Cup",
+      "home_team": "Blackburn Rovers",
+      "away_team": "Sheffield United",
+      "commence_time": "2026-08-25T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 23.0,
+      "stake_pct": 5.0,
+      "confidence": 1224,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T20:40:51.375629+00:00"
+    },
+    {
+      "state_key": "41eaf92a78e39c388dbbd30864d9b142:h2h",
+      "event_id": "41eaf92a78e39c388dbbd30864d9b142",
+      "sport_key": "soccer",
+      "competition": "EFL Cup",
+      "home_team": "Blackburn Rovers",
+      "away_team": "Sheffield United",
+      "commence_time": "2026-08-25T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Blackburn Rovers",
+      "odds_at_alert": 101.0,
+      "stake_pct": 5.0,
+      "confidence": 1509,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T20:40:51.713483+00:00"
+    },
+    {
+      "state_key": "41eaf92a78e39c388dbbd30864d9b142:h2h",
+      "event_id": "41eaf92a78e39c388dbbd30864d9b142",
+      "sport_key": "soccer",
+      "competition": "EFL Cup",
+      "home_team": "Blackburn Rovers",
+      "away_team": "Sheffield United",
+      "commence_time": "2026-08-25T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 763,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T20:40:52.077404+00:00"
+    },
+    {
+      "state_key": "41eaf92a78e39c388dbbd30864d9b142:h2h",
+      "event_id": "41eaf92a78e39c388dbbd30864d9b142",
+      "sport_key": "soccer",
+      "competition": "EFL Cup",
+      "home_team": "Blackburn Rovers",
+      "away_team": "Sheffield United",
+      "commence_time": "2026-08-25T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Blackburn Rovers",
+      "odds_at_alert": 101.0,
+      "stake_pct": 5.0,
+      "confidence": 1509,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T20:40:52.392917+00:00"
+    },
+    {
+      "state_key": "41eaf92a78e39c388dbbd30864d9b142:h2h",
+      "event_id": "41eaf92a78e39c388dbbd30864d9b142",
+      "sport_key": "soccer",
+      "competition": "EFL Cup",
+      "home_team": "Blackburn Rovers",
+      "away_team": "Sheffield United",
+      "commence_time": "2026-08-25T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 763,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T20:40:52.768156+00:00"
+    },
+    {
+      "state_key": "41eaf92a78e39c388dbbd30864d9b142:h2h",
+      "event_id": "41eaf92a78e39c388dbbd30864d9b142",
+      "sport_key": "soccer",
+      "competition": "EFL Cup",
+      "home_team": "Blackburn Rovers",
+      "away_team": "Sheffield United",
+      "commence_time": "2026-08-25T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Blackburn Rovers",
+      "odds_at_alert": 100.0,
+      "stake_pct": 5.0,
+      "confidence": 1493,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T20:40:53.138124+00:00"
+    },
+    {
+      "state_key": "41eaf92a78e39c388dbbd30864d9b142:h2h",
+      "event_id": "41eaf92a78e39c388dbbd30864d9b142",
+      "sport_key": "soccer",
+      "competition": "EFL Cup",
+      "home_team": "Blackburn Rovers",
+      "away_team": "Sheffield United",
+      "commence_time": "2026-08-25T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 17.5,
+      "stake_pct": 5.0,
+      "confidence": 907,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T20:40:53.489240+00:00"
+    },
+    {
+      "state_key": "41eaf92a78e39c388dbbd30864d9b142:h2h",
+      "event_id": "41eaf92a78e39c388dbbd30864d9b142",
+      "sport_key": "soccer",
+      "competition": "EFL Cup",
+      "home_team": "Blackburn Rovers",
+      "away_team": "Sheffield United",
+      "commence_time": "2026-08-25T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Blackburn Rovers",
+      "odds_at_alert": 151.0,
+      "stake_pct": 5.0,
+      "confidence": 2305,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T20:40:53.824913+00:00"
+    },
+    {
+      "state_key": "41eaf92a78e39c388dbbd30864d9b142:h2h",
+      "event_id": "41eaf92a78e39c388dbbd30864d9b142",
+      "sport_key": "soccer",
+      "competition": "EFL Cup",
+      "home_team": "Blackburn Rovers",
+      "away_team": "Sheffield United",
+      "commence_time": "2026-08-25T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 1397,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T20:40:54.169819+00:00"
+    },
+    {
+      "state_key": "41eaf92a78e39c388dbbd30864d9b142:h2h",
+      "event_id": "41eaf92a78e39c388dbbd30864d9b142",
+      "sport_key": "soccer",
+      "competition": "EFL Cup",
+      "home_team": "Blackburn Rovers",
+      "away_team": "Sheffield United",
+      "commence_time": "2026-08-25T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Blackburn Rovers",
+      "odds_at_alert": 150.0,
+      "stake_pct": 5.0,
+      "confidence": 2290,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T20:40:54.568981+00:00"
+    },
+    {
+      "state_key": "41eaf92a78e39c388dbbd30864d9b142:h2h",
+      "event_id": "41eaf92a78e39c388dbbd30864d9b142",
+      "sport_key": "soccer",
+      "competition": "EFL Cup",
+      "home_team": "Blackburn Rovers",
+      "away_team": "Sheffield United",
+      "commence_time": "2026-08-25T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 879,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T20:40:54.974668+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "141411d6c3f966d9957eb7870e5bfacd:h2h|888sport|Draw",
-    "141411d6c3f966d9957eb7870e5bfacd:h2h|888sport|GIF Sundsvall",
-    "141411d6c3f966d9957eb7870e5bfacd:h2h|Betfair|Draw",
-    "141411d6c3f966d9957eb7870e5bfacd:h2h|Betfair|GIF Sundsvall",
-    "141411d6c3f966d9957eb7870e5bfacd:h2h|Betsson|Draw",
-    "141411d6c3f966d9957eb7870e5bfacd:h2h|Betsson|GIF Sundsvall",
-    "141411d6c3f966d9957eb7870e5bfacd:h2h|Coolbet|Draw",
-    "141411d6c3f966d9957eb7870e5bfacd:h2h|Coolbet|GIF Sundsvall",
-    "141411d6c3f966d9957eb7870e5bfacd:h2h|LeoVegas (SE)|Draw",
-    "141411d6c3f966d9957eb7870e5bfacd:h2h|LeoVegas (SE)|GIF Sundsvall",
-    "141411d6c3f966d9957eb7870e5bfacd:h2h|Nordic Bet|Draw",
-    "141411d6c3f966d9957eb7870e5bfacd:h2h|Nordic Bet|GIF Sundsvall",
-    "141411d6c3f966d9957eb7870e5bfacd:h2h|Tipico|Draw",
-    "141411d6c3f966d9957eb7870e5bfacd:h2h|Tipico|GIF Sundsvall",
-    "141411d6c3f966d9957eb7870e5bfacd:h2h|Unibet (SE)|GIF Sundsvall",
-    "34d3315d0e02d835c451ccf954f57a60:h2h|Betfair|Hapoel Be'er Sheva",
-    "34d3315d0e02d835c451ccf954f57a60:h2h|Betfair|Sabah FK",
-    "34d3315d0e02d835c451ccf954f57a60:h2h|Coolbet|Hapoel Be'er Sheva",
-    "34d3315d0e02d835c451ccf954f57a60:h2h|Coolbet|Sabah FK",
-    "34d3315d0e02d835c451ccf954f57a60:h2h|Unibet (NL)|Hapoel Be'er Sheva",
-    "34d3315d0e02d835c451ccf954f57a60:h2h|Unibet (NL)|Sabah FK",
-    "34d3315d0e02d835c451ccf954f57a60:h2h|Unibet (SE)|Hapoel Be'er Sheva",
-    "34d3315d0e02d835c451ccf954f57a60:h2h|Unibet (SE)|Sabah FK"
+    "41eaf92a78e39c388dbbd30864d9b142:h2h|888sport|Blackburn Rovers",
+    "41eaf92a78e39c388dbbd30864d9b142:h2h|888sport|Draw",
+    "41eaf92a78e39c388dbbd30864d9b142:h2h|Betfair|Blackburn Rovers",
+    "41eaf92a78e39c388dbbd30864d9b142:h2h|Betfair|Draw",
+    "41eaf92a78e39c388dbbd30864d9b142:h2h|Betsson|Blackburn Rovers",
+    "41eaf92a78e39c388dbbd30864d9b142:h2h|Betsson|Draw",
+    "41eaf92a78e39c388dbbd30864d9b142:h2h|Coolbet|Blackburn Rovers",
+    "41eaf92a78e39c388dbbd30864d9b142:h2h|Coolbet|Draw",
+    "41eaf92a78e39c388dbbd30864d9b142:h2h|Nordic Bet|Blackburn Rovers",
+    "41eaf92a78e39c388dbbd30864d9b142:h2h|Nordic Bet|Draw",
+    "41eaf92a78e39c388dbbd30864d9b142:h2h|Winamax (DE)|Blackburn Rovers",
+    "41eaf92a78e39c388dbbd30864d9b142:h2h|Winamax (DE)|Draw",
+    "41eaf92a78e39c388dbbd30864d9b142:h2h|Winamax (FR)|Blackburn Rovers",
+    "41eaf92a78e39c388dbbd30864d9b142:h2h|Winamax (FR)|Draw"
   ]
 }
