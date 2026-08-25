@@ -1,266 +1,161 @@
 {
   "snapshots": {
-    "e80e3b0da7b546ee8fc8e388b7cfea35:h2h": {
-      "888sport": {
-        "Abha Club": 2.9,
-        "Al-Khaleej": 2.9,
-        "Draw": 2.15
-      },
-      "Betfair": {
-        "Abha Club": 3.2,
-        "Al-Khaleej": 3.35,
-        "Draw": 2.46
-      },
-      "Tipico": {
-        "Abha Club": 3.1,
-        "Al-Khaleej": 3.1,
-        "Draw": 2.2
-      },
-      "LeoVegas (SE)": {
-        "Abha Club": 2.7,
-        "Al-Khaleej": 2.88,
-        "Draw": 2.32
-      },
-      "PMU (FR)": {
-        "Abha Club": 2.55,
-        "Al-Khaleej": 2.75,
-        "Draw": 2.2
-      },
-      "Unibet (NL)": {
-        "Abha Club": 2.75,
-        "Al-Khaleej": 2.95,
-        "Draw": 2.35
-      },
-      "Winamax (FR)": {
-        "Abha Club": 2.8,
-        "Al-Khaleej": 3.0,
-        "Draw": 2.1
-      },
-      "Winamax (DE)": {
-        "Abha Club": 2.95,
-        "Al-Khaleej": 3.15,
-        "Draw": 2.2
-      },
-      "Unibet (SE)": {
-        "Abha Club": 2.85,
-        "Al-Khaleej": 3.05,
-        "Draw": 2.48
-      },
-      "Betclic (FR)": {
-        "Abha Club": 2.73,
-        "Al-Khaleej": 2.8,
-        "Draw": 2.53
-      },
-      "Pinnacle": {
-        "Abha Club": 2.77,
-        "Al-Khaleej": 3.12,
-        "Draw": 2.55
-      }
-    },
-    "930b9f82fd2855841fcd9d4aed41410f:h2h": {
-      "Winamax (DE)": {
-        "Al-Fayha": 4.9,
-        "Al-Taawoun": 1.86,
-        "Draw": 2.75
-      },
-      "Betclic (FR)": {
-        "Al-Fayha": 4.7,
-        "Al-Taawoun": 1.78,
-        "Draw": 2.88
-      },
-      "Betfair": {
-        "Al-Fayha": 5.6,
-        "Al-Taawoun": 1.96,
-        "Draw": 3.1
-      },
-      "LeoVegas (SE)": {
-        "Al-Fayha": 4.2,
-        "Al-Taawoun": 1.83,
-        "Draw": 2.8
-      },
-      "Pinnacle": {
-        "Al-Fayha": 5.74,
-        "Al-Taawoun": 1.63,
-        "Draw": 3.49
-      },
-      "Unibet (NL)": {
-        "Al-Fayha": 4.25,
-        "Al-Taawoun": 1.85,
-        "Draw": 2.8
-      },
-      "Winamax (FR)": {
-        "Al-Fayha": 4.5,
-        "Al-Taawoun": 1.78,
-        "Draw": 2.6
-      },
-      "888sport": {
-        "Al-Fayha": 4.5,
-        "Al-Taawoun": 1.75,
-        "Draw": 2.75
-      },
-      "PMU (FR)": {
-        "Al-Fayha": 4.0,
-        "Al-Taawoun": 1.73,
-        "Draw": 2.63
-      },
-      "Unibet (SE)": {
-        "Al-Fayha": 4.5,
-        "Al-Taawoun": 1.93,
-        "Draw": 2.95
-      },
-      "Tipico": {
-        "Al-Fayha": 5.5,
-        "Al-Taawoun": 1.8,
-        "Draw": 2.8
-      }
-    },
     "34d3315d0e02d835c451ccf954f57a60:h2h": {
-      "Unibet (FR)": {
-        "Hapoel Be'er Sheva": 3.3,
-        "Sabah FK": 1.92,
-        "Draw": 3.9
-      },
       "Coolbet": {
-        "Hapoel Be'er Sheva": 3.75,
-        "Sabah FK": 1.94,
-        "Draw": 3.85
+        "Hapoel Be'er Sheva": 13.25,
+        "Sabah FK": 11.25,
+        "Draw": 1.12
       },
       "Tipico": {
-        "Hapoel Be'er Sheva": 3.4,
-        "Sabah FK": 1.95,
-        "Draw": 3.6
+        "Hapoel Be'er Sheva": 5.2,
+        "Sabah FK": 2.8,
+        "Draw": 1.85
       },
       "Betfair": {
-        "Hapoel Be'er Sheva": 2.22,
-        "Sabah FK": 3.35,
-        "Draw": 3.95
+        "Hapoel Be'er Sheva": 28.0,
+        "Sabah FK": 14.0,
+        "Draw": 1.11
       },
       "Pinnacle": {
-        "Hapoel Be'er Sheva": 3.51,
-        "Sabah FK": 2.03,
-        "Draw": 3.81
-      },
-      "BetOnline.ag": {
-        "Hapoel Be'er Sheva": 3.67,
-        "Sabah FK": 1.92,
-        "Draw": 3.9
+        "Hapoel Be'er Sheva": 5.92,
+        "Sabah FK": 2.93,
+        "Draw": 1.8
       },
       "Unibet (SE)": {
-        "Hapoel Be'er Sheva": 3.35,
-        "Sabah FK": 1.89,
-        "Draw": 3.55
-      },
-      "PMU (FR)": {
-        "Hapoel Be'er Sheva": 3.35,
-        "Sabah FK": 1.89,
-        "Draw": 3.55
+        "Hapoel Be'er Sheva": 56.0,
+        "Sabah FK": 12.5,
+        "Draw": 1.03
       },
       "Unibet (NL)": {
-        "Hapoel Be'er Sheva": 3.35,
-        "Sabah FK": 1.91,
-        "Draw": 3.5
-      },
-      "LeoVegas (SE)": {
-        "Hapoel Be'er Sheva": 3.15,
-        "Sabah FK": 1.77,
-        "Draw": 3.4
-      },
-      "Marathon Bet": {
-        "Hapoel Be'er Sheva": 3.36,
-        "Sabah FK": 1.98,
-        "Draw": 3.7
-      },
-      "1xBet": {
-        "Hapoel Be'er Sheva": 3.37,
-        "Sabah FK": 1.95,
-        "Draw": 4.12
-      },
-      "888sport": {
-        "Hapoel Be'er Sheva": 3.3,
-        "Sabah FK": 1.95,
-        "Draw": 3.4
+        "Hapoel Be'er Sheva": 51.0,
+        "Sabah FK": 12.0,
+        "Draw": 1.04
       }
     },
     "141411d6c3f966d9957eb7870e5bfacd:h2h": {
       "Pinnacle": {
-        "GIF Sundsvall": 5.26,
-        "Östers IF": 1.56,
-        "Draw": 4.48
+        "GIF Sundsvall": 15.13,
+        "Östers IF": 1.32,
+        "Draw": 3.96
       },
       "Betsson": {
-        "GIF Sundsvall": 4.8,
-        "Östers IF": 1.58,
-        "Draw": 4.15
-      },
-      "1xBet": {
-        "GIF Sundsvall": 4.89,
-        "Östers IF": 1.58,
-        "Draw": 4.25
-      },
-      "BetOnline.ag": {
-        "GIF Sundsvall": 5.0,
-        "Östers IF": 1.58,
-        "Draw": 4.3
+        "GIF Sundsvall": 150.0,
+        "Östers IF": 1.03,
+        "Draw": 10.0
       },
       "Nordic Bet": {
-        "GIF Sundsvall": 4.8,
-        "Östers IF": 1.58,
-        "Draw": 4.15
-      },
-      "Unibet (NL)": {
-        "GIF Sundsvall": 4.5,
-        "Östers IF": 1.6,
-        "Draw": 3.9
+        "GIF Sundsvall": 200.0,
+        "Östers IF": 1.03,
+        "Draw": 10.0
       },
       "LeoVegas (SE)": {
-        "GIF Sundsvall": 4.75,
-        "Östers IF": 1.65,
-        "Draw": 4.1
-      },
-      "Unibet (SE)": {
-        "GIF Sundsvall": 4.75,
-        "Östers IF": 1.65,
-        "Draw": 4.1
+        "GIF Sundsvall": 76.0,
+        "Östers IF": 1.03,
+        "Draw": 7.5
       },
       "Betfair": {
-        "GIF Sundsvall": 5.7,
-        "Östers IF": 1.61,
-        "Draw": 4.7
-      },
-      "Marathon Bet": {
-        "GIF Sundsvall": 4.95,
-        "Östers IF": 1.55,
-        "Draw": 4.3
+        "GIF Sundsvall": 42.0,
+        "Östers IF": 1.03,
+        "Draw": 21.0
       },
       "888sport": {
-        "GIF Sundsvall": 4.5,
-        "Östers IF": 1.61,
-        "Draw": 3.75
-      },
-      "William Hill": {
-        "GIF Sundsvall": 4.5,
-        "Östers IF": 1.62,
-        "Draw": 3.75
+        "GIF Sundsvall": 36.0,
+        "Östers IF": 1.14,
+        "Draw": 5.5
       },
       "Tipico": {
-        "GIF Sundsvall": 5.0,
-        "Östers IF": 1.47,
-        "Draw": 4.4
+        "GIF Sundsvall": 250.0,
+        "Östers IF": 1.03,
+        "Draw": 10.0
       },
       "Coolbet": {
-        "GIF Sundsvall": 4.9,
-        "Östers IF": 1.65,
-        "Draw": 4.15
+        "GIF Sundsvall": 300.0,
+        "Östers IF": 1.04,
+        "Draw": 9.2
+      }
+    },
+    "b0ab8bee48b95e37507809643104a61c:h2h": {
+      "Nordic Bet": {
+        "Varbergs BoIS": 80.0,
+        "Örebro SK": 1.04,
+        "Draw": 9.5
       },
-      "BetAnything": {
-        "GIF Sundsvall": 5.0,
-        "Östers IF": 1.58,
-        "Draw": 4.3
+      "Betsson": {
+        "Varbergs BoIS": 80.0,
+        "Örebro SK": 1.04,
+        "Draw": 9.5
       },
-      "Matchbook": {
-        "GIF Sundsvall": 5.8,
-        "Östers IF": 1.61,
-        "Draw": 4.7
+      "888sport": {
+        "Varbergs BoIS": 41.0,
+        "Örebro SK": 1.12,
+        "Draw": 5.75
+      },
+      "Betfair": {
+        "Varbergs BoIS": 170.0,
+        "Örebro SK": 1.06,
+        "Draw": 14.5
+      },
+      "Tipico": {
+        "Varbergs BoIS": 500.0,
+        "Örebro SK": 1.01,
+        "Draw": 8.5
+      },
+      "Coolbet": {
+        "Varbergs BoIS": 80.0,
+        "Örebro SK": 1.04,
+        "Draw": 10.0
+      }
+    },
+    "0ec40fc0ae78ee50aa0c5b6548c41b0c:h2h": {
+      "888sport": {
+        "Al-Ettifaq": 1.15,
+        "Al-Nassr": 12.0,
+        "Draw": 6.0
+      },
+      "Betfair": {
+        "Al-Ettifaq": 1.21,
+        "Al-Nassr": 17.0,
+        "Draw": 8.4
+      },
+      "PMU (FR)": {
+        "Al-Ettifaq": 1.09,
+        "Al-Nassr": 10.0,
+        "Draw": 5.5
+      },
+      "Unibet (SE)": {
+        "Al-Ettifaq": 1.21,
+        "Al-Nassr": 11.5,
+        "Draw": 6.25
+      },
+      "Unibet (NL)": {
+        "Al-Ettifaq": 1.16,
+        "Al-Nassr": 10.5,
+        "Draw": 6.0
+      },
+      "LeoVegas (SE)": {
+        "Al-Ettifaq": 1.15,
+        "Al-Nassr": 10.5,
+        "Draw": 5.8
+      },
+      "Winamax (FR)": {
+        "Al-Ettifaq": 1.14,
+        "Al-Nassr": 14.5,
+        "Draw": 6.25
+      },
+      "Betclic (FR)": {
+        "Al-Ettifaq": 1.13,
+        "Al-Nassr": 14.0,
+        "Draw": 6.0
+      },
+      "Winamax (DE)": {
+        "Al-Ettifaq": 1.14,
+        "Al-Nassr": 15.0,
+        "Draw": 6.5
+      },
+      "Tipico": {
+        "Al-Ettifaq": 1.1,
+        "Al-Nassr": 16.0,
+        "Draw": 8.0
       }
     }
   },
@@ -11737,19 +11632,336 @@
       "confidence": 59,
       "alert_type": "value",
       "alerted_at": "2026-08-25T16:51:22.975891+00:00"
+    },
+    {
+      "state_key": "34d3315d0e02d835c451ccf954f57a60:h2h",
+      "event_id": "34d3315d0e02d835c451ccf954f57a60",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League Qualification",
+      "home_team": "Sabah FK",
+      "away_team": "Hapoel Be'er Sheva",
+      "commence_time": "2026-08-25T16:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Hapoel Be'er Sheva",
+      "odds_at_alert": 13.25,
+      "stake_pct": 5.0,
+      "confidence": 110,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T18:53:51.120671+00:00"
+    },
+    {
+      "state_key": "34d3315d0e02d835c451ccf954f57a60:h2h",
+      "event_id": "34d3315d0e02d835c451ccf954f57a60",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League Qualification",
+      "home_team": "Sabah FK",
+      "away_team": "Hapoel Be'er Sheva",
+      "commence_time": "2026-08-25T16:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sabah FK",
+      "odds_at_alert": 11.25,
+      "stake_pct": 5.0,
+      "confidence": 260,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T18:53:51.629635+00:00"
+    },
+    {
+      "state_key": "34d3315d0e02d835c451ccf954f57a60:h2h",
+      "event_id": "34d3315d0e02d835c451ccf954f57a60",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League Qualification",
+      "home_team": "Sabah FK",
+      "away_team": "Hapoel Be'er Sheva",
+      "commence_time": "2026-08-25T16:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Hapoel Be'er Sheva",
+      "odds_at_alert": 28.0,
+      "stake_pct": 5.0,
+      "confidence": 344,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T18:53:52.119877+00:00"
+    },
+    {
+      "state_key": "34d3315d0e02d835c451ccf954f57a60:h2h",
+      "event_id": "34d3315d0e02d835c451ccf954f57a60",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League Qualification",
+      "home_team": "Sabah FK",
+      "away_team": "Hapoel Be'er Sheva",
+      "commence_time": "2026-08-25T16:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Hapoel Be'er Sheva",
+      "odds_at_alert": 56.0,
+      "stake_pct": 5.0,
+      "confidence": 788,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T18:53:52.610702+00:00"
+    },
+    {
+      "state_key": "34d3315d0e02d835c451ccf954f57a60:h2h",
+      "event_id": "34d3315d0e02d835c451ccf954f57a60",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League Qualification",
+      "home_team": "Sabah FK",
+      "away_team": "Hapoel Be'er Sheva",
+      "commence_time": "2026-08-25T16:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sabah FK",
+      "odds_at_alert": 12.5,
+      "stake_pct": 5.0,
+      "confidence": 300,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T18:53:53.158454+00:00"
+    },
+    {
+      "state_key": "34d3315d0e02d835c451ccf954f57a60:h2h",
+      "event_id": "34d3315d0e02d835c451ccf954f57a60",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League Qualification",
+      "home_team": "Sabah FK",
+      "away_team": "Hapoel Be'er Sheva",
+      "commence_time": "2026-08-25T16:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Hapoel Be'er Sheva",
+      "odds_at_alert": 51.0,
+      "stake_pct": 5.0,
+      "confidence": 708,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T18:53:53.683992+00:00"
+    },
+    {
+      "state_key": "34d3315d0e02d835c451ccf954f57a60:h2h",
+      "event_id": "34d3315d0e02d835c451ccf954f57a60",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League Qualification",
+      "home_team": "Sabah FK",
+      "away_team": "Hapoel Be'er Sheva",
+      "commence_time": "2026-08-25T16:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sabah FK",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 284,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T18:53:54.178464+00:00"
+    },
+    {
+      "state_key": "141411d6c3f966d9957eb7870e5bfacd:h2h",
+      "event_id": "141411d6c3f966d9957eb7870e5bfacd",
+      "sport_key": "soccer",
+      "competition": "Superettan - Sweden",
+      "home_team": "Östers IF",
+      "away_team": "GIF Sundsvall",
+      "commence_time": "2026-08-25T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "GIF Sundsvall",
+      "odds_at_alert": 150.0,
+      "stake_pct": 5.0,
+      "confidence": 821,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T18:53:54.687849+00:00"
+    },
+    {
+      "state_key": "141411d6c3f966d9957eb7870e5bfacd:h2h",
+      "event_id": "141411d6c3f966d9957eb7870e5bfacd",
+      "sport_key": "soccer",
+      "competition": "Superettan - Sweden",
+      "home_team": "Östers IF",
+      "away_team": "GIF Sundsvall",
+      "commence_time": "2026-08-25T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 10.0,
+      "stake_pct": 5.0,
+      "confidence": 135,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T18:53:55.207901+00:00"
+    },
+    {
+      "state_key": "141411d6c3f966d9957eb7870e5bfacd:h2h",
+      "event_id": "141411d6c3f966d9957eb7870e5bfacd",
+      "sport_key": "soccer",
+      "competition": "Superettan - Sweden",
+      "home_team": "Östers IF",
+      "away_team": "GIF Sundsvall",
+      "commence_time": "2026-08-25T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "GIF Sundsvall",
+      "odds_at_alert": 200.0,
+      "stake_pct": 5.0,
+      "confidence": 1128,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T18:53:55.757938+00:00"
+    },
+    {
+      "state_key": "141411d6c3f966d9957eb7870e5bfacd:h2h",
+      "event_id": "141411d6c3f966d9957eb7870e5bfacd",
+      "sport_key": "soccer",
+      "competition": "Superettan - Sweden",
+      "home_team": "Östers IF",
+      "away_team": "GIF Sundsvall",
+      "commence_time": "2026-08-25T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 10.0,
+      "stake_pct": 5.0,
+      "confidence": 135,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T18:53:56.282951+00:00"
+    },
+    {
+      "state_key": "141411d6c3f966d9957eb7870e5bfacd:h2h",
+      "event_id": "141411d6c3f966d9957eb7870e5bfacd",
+      "sport_key": "soccer",
+      "competition": "Superettan - Sweden",
+      "home_team": "Östers IF",
+      "away_team": "GIF Sundsvall",
+      "commence_time": "2026-08-25T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 7.5,
+      "stake_pct": 5.0,
+      "confidence": 76,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T18:53:56.791484+00:00"
+    },
+    {
+      "state_key": "141411d6c3f966d9957eb7870e5bfacd:h2h",
+      "event_id": "141411d6c3f966d9957eb7870e5bfacd",
+      "sport_key": "soccer",
+      "competition": "Superettan - Sweden",
+      "home_team": "Östers IF",
+      "away_team": "GIF Sundsvall",
+      "commence_time": "2026-08-25T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "GIF Sundsvall",
+      "odds_at_alert": 42.0,
+      "stake_pct": 5.0,
+      "confidence": 158,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T18:53:57.322161+00:00"
+    },
+    {
+      "state_key": "141411d6c3f966d9957eb7870e5bfacd:h2h",
+      "event_id": "141411d6c3f966d9957eb7870e5bfacd",
+      "sport_key": "soccer",
+      "competition": "Superettan - Sweden",
+      "home_team": "Östers IF",
+      "away_team": "GIF Sundsvall",
+      "commence_time": "2026-08-25T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 21.0,
+      "stake_pct": 5.0,
+      "confidence": 393,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T18:53:57.820504+00:00"
+    },
+    {
+      "state_key": "141411d6c3f966d9957eb7870e5bfacd:h2h",
+      "event_id": "141411d6c3f966d9957eb7870e5bfacd",
+      "sport_key": "soccer",
+      "competition": "Superettan - Sweden",
+      "home_team": "Östers IF",
+      "away_team": "GIF Sundsvall",
+      "commence_time": "2026-08-25T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "GIF Sundsvall",
+      "odds_at_alert": 36.0,
+      "stake_pct": 5.0,
+      "confidence": 121,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T18:53:58.336062+00:00"
+    },
+    {
+      "state_key": "141411d6c3f966d9957eb7870e5bfacd:h2h",
+      "event_id": "141411d6c3f966d9957eb7870e5bfacd",
+      "sport_key": "soccer",
+      "competition": "Superettan - Sweden",
+      "home_team": "Östers IF",
+      "away_team": "GIF Sundsvall",
+      "commence_time": "2026-08-25T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.5,
+      "stake_pct": 5.0,
+      "confidence": 29,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T18:53:58.845438+00:00"
+    },
+    {
+      "state_key": "141411d6c3f966d9957eb7870e5bfacd:h2h",
+      "event_id": "141411d6c3f966d9957eb7870e5bfacd",
+      "sport_key": "soccer",
+      "competition": "Superettan - Sweden",
+      "home_team": "Östers IF",
+      "away_team": "GIF Sundsvall",
+      "commence_time": "2026-08-25T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "GIF Sundsvall",
+      "odds_at_alert": 250.0,
+      "stake_pct": 5.0,
+      "confidence": 1435,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T18:53:59.335997+00:00"
+    },
+    {
+      "state_key": "141411d6c3f966d9957eb7870e5bfacd:h2h",
+      "event_id": "141411d6c3f966d9957eb7870e5bfacd",
+      "sport_key": "soccer",
+      "competition": "Superettan - Sweden",
+      "home_team": "Östers IF",
+      "away_team": "GIF Sundsvall",
+      "commence_time": "2026-08-25T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 10.0,
+      "stake_pct": 5.0,
+      "confidence": 135,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T18:53:59.862882+00:00"
+    },
+    {
+      "state_key": "141411d6c3f966d9957eb7870e5bfacd:h2h",
+      "event_id": "141411d6c3f966d9957eb7870e5bfacd",
+      "sport_key": "soccer",
+      "competition": "Superettan - Sweden",
+      "home_team": "Östers IF",
+      "away_team": "GIF Sundsvall",
+      "commence_time": "2026-08-25T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 9.2,
+      "stake_pct": 5.0,
+      "confidence": 116,
+      "alert_type": "value",
+      "alerted_at": "2026-08-25T18:54:00.398837+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
+    "141411d6c3f966d9957eb7870e5bfacd:h2h|888sport|Draw",
+    "141411d6c3f966d9957eb7870e5bfacd:h2h|888sport|GIF Sundsvall",
+    "141411d6c3f966d9957eb7870e5bfacd:h2h|Betfair|Draw",
+    "141411d6c3f966d9957eb7870e5bfacd:h2h|Betfair|GIF Sundsvall",
+    "141411d6c3f966d9957eb7870e5bfacd:h2h|Betsson|Draw",
+    "141411d6c3f966d9957eb7870e5bfacd:h2h|Betsson|GIF Sundsvall",
+    "141411d6c3f966d9957eb7870e5bfacd:h2h|Coolbet|Draw",
     "141411d6c3f966d9957eb7870e5bfacd:h2h|Coolbet|GIF Sundsvall",
+    "141411d6c3f966d9957eb7870e5bfacd:h2h|LeoVegas (SE)|Draw",
     "141411d6c3f966d9957eb7870e5bfacd:h2h|LeoVegas (SE)|GIF Sundsvall",
+    "141411d6c3f966d9957eb7870e5bfacd:h2h|Nordic Bet|Draw",
+    "141411d6c3f966d9957eb7870e5bfacd:h2h|Nordic Bet|GIF Sundsvall",
+    "141411d6c3f966d9957eb7870e5bfacd:h2h|Tipico|Draw",
+    "141411d6c3f966d9957eb7870e5bfacd:h2h|Tipico|GIF Sundsvall",
     "141411d6c3f966d9957eb7870e5bfacd:h2h|Unibet (SE)|GIF Sundsvall",
+    "34d3315d0e02d835c451ccf954f57a60:h2h|Betfair|Hapoel Be'er Sheva",
     "34d3315d0e02d835c451ccf954f57a60:h2h|Betfair|Sabah FK",
-    "930b9f82fd2855841fcd9d4aed41410f:h2h|Betfair|Al-Fayha",
-    "930b9f82fd2855841fcd9d4aed41410f:h2h|Betfair|Al-Taawoun",
-    "930b9f82fd2855841fcd9d4aed41410f:h2h|Unibet (NL)|Al-Taawoun",
-    "930b9f82fd2855841fcd9d4aed41410f:h2h|Unibet (SE)|Al-Taawoun",
-    "930b9f82fd2855841fcd9d4aed41410f:h2h|Winamax (DE)|Al-Taawoun",
-    "e80e3b0da7b546ee8fc8e388b7cfea35:h2h|Betfair|Abha Club"
+    "34d3315d0e02d835c451ccf954f57a60:h2h|Coolbet|Hapoel Be'er Sheva",
+    "34d3315d0e02d835c451ccf954f57a60:h2h|Coolbet|Sabah FK",
+    "34d3315d0e02d835c451ccf954f57a60:h2h|Unibet (NL)|Hapoel Be'er Sheva",
+    "34d3315d0e02d835c451ccf954f57a60:h2h|Unibet (NL)|Sabah FK",
+    "34d3315d0e02d835c451ccf954f57a60:h2h|Unibet (SE)|Hapoel Be'er Sheva",
+    "34d3315d0e02d835c451ccf954f57a60:h2h|Unibet (SE)|Sabah FK"
   ]
 }
