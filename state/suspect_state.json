@@ -1,214 +1,65 @@
 {
   "snapshots": {
-    "e5b250b19b587dd073f114dc0c4662ec:h2h": {
-      "LeoVegas (SE)": {
-        "Chicago Fire": 6.5,
-        "Monterrey": 1.49,
-        "Draw": 3.2
-      },
-      "Winamax (DE)": {
-        "Chicago Fire": 6.75,
-        "Monterrey": 1.54,
-        "Draw": 3.3
-      },
-      "Unibet (SE)": {
-        "Chicago Fire": 6.75,
-        "Monterrey": 1.54,
-        "Draw": 3.3
-      },
-      "Unibet (NL)": {
-        "Chicago Fire": 6.75,
-        "Monterrey": 1.54,
-        "Draw": 3.3
-      },
-      "Winamax (FR)": {
-        "Chicago Fire": 6.25,
-        "Monterrey": 1.52,
-        "Draw": 3.2
-      },
-      "888sport": {
-        "Chicago Fire": 5.5,
-        "Monterrey": 1.53,
-        "Draw": 3.2
-      },
-      "PMU (FR)": {
-        "Chicago Fire": 6.5,
-        "Monterrey": 1.44,
-        "Draw": 3.1
-      },
-      "Nordic Bet": {
-        "Chicago Fire": 6.8,
-        "Monterrey": 1.52,
-        "Draw": 3.4
-      },
-      "Betsson": {
-        "Chicago Fire": 6.8,
-        "Monterrey": 1.52,
-        "Draw": 3.4
-      },
-      "Coolbet": {
-        "Chicago Fire": 6.5,
-        "Monterrey": 1.57,
-        "Draw": 3.4
-      },
-      "Betfair": {
-        "Chicago Fire": 7.2,
-        "Monterrey": 1.65,
-        "Draw": 3.8
-      },
-      "Pinnacle": {
-        "Chicago Fire": 6.38,
-        "Monterrey": 1.62,
-        "Draw": 3.41
-      }
-    },
-    "0f90597c1b4cf9b362f3a1055c9b2e88:h2h": {
-      "Coolbet": {
-        "Deportes Tolima": 30.0,
-        "Independiente del Valle": 1.2,
-        "Draw": 6.0
-      },
-      "Suprabets": {
-        "Deportes Tolima": 39.0,
-        "Independiente del Valle": 1.1,
-        "Draw": 6.6
-      },
-      "Betfair": {
-        "Deportes Tolima": 36.0,
-        "Independiente del Valle": 1.21,
-        "Draw": 6.6
-      },
-      "Unibet (NL)": {
-        "Deportes Tolima": 30.0,
-        "Independiente del Valle": 1.11,
-        "Draw": 7.5
-      },
-      "LeoVegas (SE)": {
-        "Deportes Tolima": 29.0,
-        "Independiente del Valle": 1.06,
-        "Draw": 7.0
-      },
-      "Winamax (DE)": {
-        "Deportes Tolima": 28.0,
-        "Independiente del Valle": 1.14,
-        "Draw": 5.8
-      },
-      "Winamax (FR)": {
-        "Deportes Tolima": 28.0,
-        "Independiente del Valle": 1.16,
-        "Draw": 5.5
-      },
-      "Betclic (FR)": {
-        "Deportes Tolima": 28.0,
-        "Independiente del Valle": 1.13,
-        "Draw": 6.1
-      },
-      "Pinnacle": {
-        "Deportes Tolima": 6.88,
-        "Independiente del Valle": 2.19,
-        "Draw": 2.16
-      },
-      "Tipico": {
-        "Deportes Tolima": 25.0,
-        "Independiente del Valle": 1.12,
-        "Draw": 6.0
-      },
-      "Nordic Bet": {
-        "Deportes Tolima": 39.0,
-        "Independiente del Valle": 1.12,
-        "Draw": 6.3
-      },
-      "Betsson": {
-        "Deportes Tolima": 36.0,
-        "Independiente del Valle": 1.12,
-        "Draw": 6.3
-      },
-      "888sport": {
-        "Deportes Tolima": 29.0,
-        "Independiente del Valle": 1.14,
-        "Draw": 6.0
-      },
-      "PMU (FR)": {
-        "Deportes Tolima": 29.0,
-        "Independiente del Valle": 1.03,
-        "Draw": 6.75
-      }
-    },
     "49a9920e24936a4b826289e2742fd6f8:h2h": {
       "LeoVegas (SE)": {
-        "León": 3.0,
-        "Real Salt Lake": 2.23,
-        "Draw": 3.5
+        "León": 1.55,
+        "Real Salt Lake": 4.9,
+        "Draw": 3.4
       },
       "Winamax (DE)": {
-        "León": 2.65,
-        "Real Salt Lake": 2.3,
-        "Draw": 3.45
+        "León": 1.6,
+        "Real Salt Lake": 5.5,
+        "Draw": 3.3
       },
       "Unibet (SE)": {
-        "León": 3.0,
-        "Real Salt Lake": 2.23,
+        "León": 1.61,
+        "Real Salt Lake": 5.1,
         "Draw": 3.5
       },
       "Unibet (NL)": {
-        "León": 3.0,
-        "Real Salt Lake": 2.23,
+        "León": 1.61,
+        "Real Salt Lake": 5.1,
         "Draw": 3.5
       },
       "Winamax (FR)": {
-        "León": 2.65,
-        "Real Salt Lake": 2.3,
-        "Draw": 3.45
+        "León": 1.58,
+        "Real Salt Lake": 5.2,
+        "Draw": 3.2
       },
       "888sport": {
-        "León": 2.62,
-        "Real Salt Lake": 2.25,
-        "Draw": 3.2
-      },
-      "William Hill": {
-        "León": 2.62,
-        "Real Salt Lake": 2.25,
-        "Draw": 3.2
+        "León": 1.6,
+        "Real Salt Lake": 4.8,
+        "Draw": 3.25
       },
       "PMU (FR)": {
-        "León": 3.0,
-        "Real Salt Lake": 2.23,
-        "Draw": 3.5
+        "León": 1.51,
+        "Real Salt Lake": 4.8,
+        "Draw": 3.35
       },
       "Nordic Bet": {
-        "León": 2.75,
-        "Real Salt Lake": 2.35,
+        "León": 1.62,
+        "Real Salt Lake": 5.35,
         "Draw": 3.4
       },
       "Betsson": {
-        "León": 2.75,
-        "Real Salt Lake": 2.35,
+        "León": 1.62,
+        "Real Salt Lake": 5.35,
         "Draw": 3.4
       },
       "Coolbet": {
-        "León": 2.9,
-        "Real Salt Lake": 2.35,
-        "Draw": 3.6
+        "León": 1.62,
+        "Real Salt Lake": 5.5,
+        "Draw": 3.4
       },
       "Betfair": {
-        "León": 3.05,
-        "Real Salt Lake": 2.5,
-        "Draw": 3.55
-      },
-      "1xBet": {
-        "León": 2.82,
-        "Real Salt Lake": 2.37,
-        "Draw": 3.44
+        "León": 1.74,
+        "Real Salt Lake": 5.8,
+        "Draw": 3.85
       },
       "Pinnacle": {
-        "León": 2.87,
-        "Real Salt Lake": 2.46,
-        "Draw": 3.53
-      },
-      "BetOnline.ag": {
-        "León": 2.9,
-        "Real Salt Lake": 2.38,
-        "Draw": 3.5
+        "León": 1.69,
+        "Real Salt Lake": 5.44,
+        "Draw": 3.45
       }
     },
     "2e1c099afd2f45e4b2b36b794d9e0349:h2h": {
@@ -258,18 +109,18 @@
         "Draw": 3.35
       },
       "BetOnline.ag": {
-        "Daejeon Citizen": 2.32,
+        "Daejeon Citizen": 2.28,
         "Ulsan Hyundai FC": 2.94,
-        "Draw": 3.55
+        "Draw": 3.6
       },
       "1xBet": {
-        "Daejeon Citizen": 2.27,
+        "Daejeon Citizen": 2.26,
         "Ulsan Hyundai FC": 2.88,
-        "Draw": 3.58
+        "Draw": 3.6
       },
       "Pinnacle": {
-        "Daejeon Citizen": 2.34,
-        "Ulsan Hyundai FC": 3.01,
+        "Daejeon Citizen": 2.33,
+        "Ulsan Hyundai FC": 3.02,
         "Draw": 3.65
       },
       "Winamax (DE)": {
@@ -283,9 +134,9 @@
         "Draw": 3.45
       },
       "Marathon Bet": {
-        "Daejeon Citizen": 2.25,
+        "Daejeon Citizen": 2.24,
         "Ulsan Hyundai FC": 2.88,
-        "Draw": 3.58
+        "Draw": 3.6
       },
       "William Hill": {
         "Daejeon Citizen": 2.25,
@@ -293,19 +144,213 @@
         "Draw": 3.3
       },
       "Betfair": {
-        "Daejeon Citizen": 2.38,
+        "Daejeon Citizen": 2.4,
         "Ulsan Hyundai FC": 3.0,
         "Draw": 3.7
       },
       "Tipico": {
-        "Daejeon Citizen": 2.25,
-        "Ulsan Hyundai FC": 2.8,
+        "Daejeon Citizen": 2.15,
+        "Ulsan Hyundai FC": 2.95,
         "Draw": 3.5
       },
       "Matchbook": {
         "Daejeon Citizen": 2.38,
         "Ulsan Hyundai FC": 3.05,
         "Draw": 3.7
+      }
+    },
+    "ff3d2c8daa36d34d386904b98c308a49:h2h": {
+      "PMU (FR)": {
+        "FC Anyang": 2.65,
+        "Incheon United": 2.23,
+        "Draw": 2.88
+      },
+      "Unibet (NL)": {
+        "FC Anyang": 2.8,
+        "Incheon United": 2.32,
+        "Draw": 3.0
+      },
+      "LeoVegas (SE)": {
+        "FC Anyang": 2.75,
+        "Incheon United": 2.3,
+        "Draw": 3.0
+      },
+      "Unibet (SE)": {
+        "FC Anyang": 2.8,
+        "Incheon United": 2.32,
+        "Draw": 3.0
+      },
+      "Betsson": {
+        "FC Anyang": 3.1,
+        "Incheon United": 2.22,
+        "Draw": 3.05
+      },
+      "Unibet (FR)": {
+        "FC Anyang": 3.05,
+        "Incheon United": 2.1,
+        "Draw": 3.05
+      },
+      "Betclic (FR)": {
+        "FC Anyang": 3.22,
+        "Incheon United": 2.17,
+        "Draw": 3.05
+      },
+      "Nordic Bet": {
+        "FC Anyang": 3.1,
+        "Incheon United": 2.22,
+        "Draw": 3.05
+      },
+      "Coolbet": {
+        "FC Anyang": 3.2,
+        "Incheon United": 2.25,
+        "Draw": 3.3
+      },
+      "BetOnline.ag": {
+        "FC Anyang": 3.3,
+        "Incheon United": 2.16,
+        "Draw": 3.25
+      },
+      "1xBet": {
+        "FC Anyang": 3.25,
+        "Incheon United": 2.2,
+        "Draw": 3.28
+      },
+      "Pinnacle": {
+        "FC Anyang": 3.49,
+        "Incheon United": 2.29,
+        "Draw": 3.23
+      },
+      "Winamax (DE)": {
+        "FC Anyang": 3.05,
+        "Incheon United": 2.2,
+        "Draw": 3.2
+      },
+      "Winamax (FR)": {
+        "FC Anyang": 3.0,
+        "Incheon United": 2.15,
+        "Draw": 3.1
+      },
+      "Marathon Bet": {
+        "FC Anyang": 3.24,
+        "Incheon United": 2.18,
+        "Draw": 3.28
+      },
+      "William Hill": {
+        "FC Anyang": 3.1,
+        "Incheon United": 2.25,
+        "Draw": 3.0
+      },
+      "Betfair": {
+        "FC Anyang": 3.5,
+        "Incheon United": 2.32,
+        "Draw": 3.3
+      },
+      "Tipico": {
+        "FC Anyang": 3.4,
+        "Incheon United": 2.15,
+        "Draw": 3.1
+      },
+      "Matchbook": {
+        "FC Anyang": 3.55,
+        "Incheon United": 2.32,
+        "Draw": 3.3
+      }
+    },
+    "eb4721a2f08b06485a15a93e2539ea08:h2h": {
+      "PMU (FR)": {
+        "Gangwon FC": 1.36,
+        "Gwangju FC": 6.5,
+        "Draw": 3.6
+      },
+      "Unibet (SE)": {
+        "Gangwon FC": 1.42,
+        "Gwangju FC": 6.75,
+        "Draw": 3.75
+      },
+      "LeoVegas (SE)": {
+        "Gangwon FC": 1.41,
+        "Gwangju FC": 6.75,
+        "Draw": 3.7
+      },
+      "Unibet (NL)": {
+        "Gangwon FC": 1.42,
+        "Gwangju FC": 6.75,
+        "Draw": 3.75
+      },
+      "Unibet (FR)": {
+        "Gangwon FC": 1.42,
+        "Gwangju FC": 6.1,
+        "Draw": 3.85
+      },
+      "Betsson": {
+        "Gangwon FC": 1.46,
+        "Gwangju FC": 6.3,
+        "Draw": 3.85
+      },
+      "Betclic (FR)": {
+        "Gangwon FC": 1.45,
+        "Gwangju FC": 6.4,
+        "Draw": 3.95
+      },
+      "Nordic Bet": {
+        "Gangwon FC": 1.46,
+        "Gwangju FC": 6.3,
+        "Draw": 3.85
+      },
+      "BetOnline.ag": {
+        "Gangwon FC": 1.5,
+        "Gwangju FC": 6.8,
+        "Draw": 4.1
+      },
+      "Coolbet": {
+        "Gangwon FC": 1.5,
+        "Gwangju FC": 7.0,
+        "Draw": 4.0
+      },
+      "1xBet": {
+        "Gangwon FC": 1.48,
+        "Gwangju FC": 6.76,
+        "Draw": 4.1
+      },
+      "Pinnacle": {
+        "Gangwon FC": 1.51,
+        "Gwangju FC": 7.18,
+        "Draw": 4.24
+      },
+      "Winamax (DE)": {
+        "Gangwon FC": 1.46,
+        "Gwangju FC": 6.0,
+        "Draw": 4.1
+      },
+      "Winamax (FR)": {
+        "Gangwon FC": 1.44,
+        "Gwangju FC": 5.8,
+        "Draw": 4.0
+      },
+      "Marathon Bet": {
+        "Gangwon FC": 1.47,
+        "Gwangju FC": 6.75,
+        "Draw": 4.1
+      },
+      "William Hill": {
+        "Gangwon FC": 1.5,
+        "Gwangju FC": 6.5,
+        "Draw": 3.8
+      },
+      "Betfair": {
+        "Gangwon FC": 1.52,
+        "Gwangju FC": 8.0,
+        "Draw": 4.2
+      },
+      "Tipico": {
+        "Gangwon FC": 1.45,
+        "Gwangju FC": 7.0,
+        "Draw": 3.9
+      },
+      "Matchbook": {
+        "Gangwon FC": 1.52,
+        "Gwangju FC": 8.0,
+        "Draw": 4.2
       }
     }
   },
@@ -11126,36 +11171,43 @@
       "confidence": 6,
       "alert_type": "value",
       "alerted_at": "2026-08-26T01:54:52.107223+00:00"
+    },
+    {
+      "state_key": "eb4721a2f08b06485a15a93e2539ea08:h2h",
+      "event_id": "eb4721a2f08b06485a15a93e2539ea08",
+      "sport_key": "soccer",
+      "competition": "K League 1",
+      "home_team": "Gangwon FC",
+      "away_team": "Gwangju FC",
+      "commence_time": "2026-08-26T10:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gwangju FC",
+      "odds_at_alert": 8.0,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-08-26T03:15:02.463101+00:00"
+    },
+    {
+      "state_key": "eb4721a2f08b06485a15a93e2539ea08:h2h",
+      "event_id": "eb4721a2f08b06485a15a93e2539ea08",
+      "sport_key": "soccer",
+      "competition": "K League 1",
+      "home_team": "Gangwon FC",
+      "away_team": "Gwangju FC",
+      "commence_time": "2026-08-26T10:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gwangju FC",
+      "odds_at_alert": 8.0,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-08-26T03:15:02.916740+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "0f90597c1b4cf9b362f3a1055c9b2e88:h2h|888sport|Deportes Tolima",
-    "0f90597c1b4cf9b362f3a1055c9b2e88:h2h|888sport|Draw",
-    "0f90597c1b4cf9b362f3a1055c9b2e88:h2h|Betclic (FR)|Deportes Tolima",
-    "0f90597c1b4cf9b362f3a1055c9b2e88:h2h|Betclic (FR)|Draw",
-    "0f90597c1b4cf9b362f3a1055c9b2e88:h2h|Betfair|Deportes Tolima",
-    "0f90597c1b4cf9b362f3a1055c9b2e88:h2h|Betfair|Draw",
-    "0f90597c1b4cf9b362f3a1055c9b2e88:h2h|Betsson|Deportes Tolima",
-    "0f90597c1b4cf9b362f3a1055c9b2e88:h2h|Betsson|Draw",
-    "0f90597c1b4cf9b362f3a1055c9b2e88:h2h|Coolbet|Deportes Tolima",
-    "0f90597c1b4cf9b362f3a1055c9b2e88:h2h|Coolbet|Draw",
-    "0f90597c1b4cf9b362f3a1055c9b2e88:h2h|LeoVegas (SE)|Deportes Tolima",
-    "0f90597c1b4cf9b362f3a1055c9b2e88:h2h|LeoVegas (SE)|Draw",
-    "0f90597c1b4cf9b362f3a1055c9b2e88:h2h|Nordic Bet|Deportes Tolima",
-    "0f90597c1b4cf9b362f3a1055c9b2e88:h2h|Nordic Bet|Draw",
-    "0f90597c1b4cf9b362f3a1055c9b2e88:h2h|PMU (FR)|Deportes Tolima",
-    "0f90597c1b4cf9b362f3a1055c9b2e88:h2h|PMU (FR)|Draw",
-    "0f90597c1b4cf9b362f3a1055c9b2e88:h2h|Suprabets|Deportes Tolima",
-    "0f90597c1b4cf9b362f3a1055c9b2e88:h2h|Suprabets|Draw",
-    "0f90597c1b4cf9b362f3a1055c9b2e88:h2h|Tipico|Deportes Tolima",
-    "0f90597c1b4cf9b362f3a1055c9b2e88:h2h|Tipico|Draw",
-    "0f90597c1b4cf9b362f3a1055c9b2e88:h2h|Unibet (NL)|Deportes Tolima",
-    "0f90597c1b4cf9b362f3a1055c9b2e88:h2h|Unibet (NL)|Draw",
-    "0f90597c1b4cf9b362f3a1055c9b2e88:h2h|Winamax (DE)|Deportes Tolima",
-    "0f90597c1b4cf9b362f3a1055c9b2e88:h2h|Winamax (DE)|Draw",
-    "0f90597c1b4cf9b362f3a1055c9b2e88:h2h|Winamax (FR)|Deportes Tolima",
-    "0f90597c1b4cf9b362f3a1055c9b2e88:h2h|Winamax (FR)|Draw",
-    "e5b250b19b587dd073f114dc0c4662ec:h2h|Betfair|Chicago Fire"
+    "eb4721a2f08b06485a15a93e2539ea08:h2h|Betfair|Gwangju FC",
+    "eb4721a2f08b06485a15a93e2539ea08:h2h|Matchbook|Gwangju FC"
   ]
 }
