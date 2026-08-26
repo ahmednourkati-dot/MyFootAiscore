@@ -2,98 +2,78 @@
   "snapshots": {
     "bc599d370d145dabf8382ff3b0754f54:h2h": {
       "Betfair": {
-        "Al-Faisaly KSA FC": 3.0,
-        "Al-Fateh": 2.44,
-        "Draw": 3.65
+        "Al-Faisaly KSA FC": 3.1,
+        "Al-Fateh": 3.35,
+        "Draw": 2.6
       },
       "Pinnacle": {
-        "Al-Faisaly KSA FC": 2.76,
-        "Al-Fateh": 2.42,
-        "Draw": 3.65
+        "Al-Faisaly KSA FC": 2.9,
+        "Al-Fateh": 2.91,
+        "Draw": 2.55
       },
       "Betclic (FR)": {
-        "Al-Faisaly KSA FC": 2.7,
-        "Al-Fateh": 2.33,
-        "Draw": 3.5
+        "Al-Faisaly KSA FC": 2.85,
+        "Al-Fateh": 2.95,
+        "Draw": 2.33
       },
       "888sport": {
-        "Al-Faisaly KSA FC": 2.62,
-        "Al-Fateh": 2.25,
-        "Draw": 3.25
+        "Al-Faisaly KSA FC": 2.8,
+        "Al-Fateh": 2.9,
+        "Draw": 2.2
       },
       "LeoVegas (SE)": {
-        "Al-Faisaly KSA FC": 2.6,
-        "Al-Fateh": 2.3,
-        "Draw": 3.2
-      },
-      "Unibet (FR)": {
-        "Al-Faisaly KSA FC": 2.6,
-        "Al-Fateh": 2.2,
-        "Draw": 3.4
-      },
-      "William Hill": {
-        "Al-Faisaly KSA FC": 2.62,
-        "Al-Fateh": 2.25,
-        "Draw": 3.25
+        "Al-Faisaly KSA FC": 2.95,
+        "Al-Fateh": 2.55,
+        "Draw": 2.38
       },
       "Winamax (FR)": {
-        "Al-Faisaly KSA FC": 2.55,
-        "Al-Fateh": 2.3,
-        "Draw": 3.45
+        "Al-Faisaly KSA FC": 2.75,
+        "Al-Fateh": 2.85,
+        "Draw": 2.2
       },
       "Unibet (SE)": {
-        "Al-Faisaly KSA FC": 2.65,
-        "Al-Fateh": 2.35,
-        "Draw": 3.3
+        "Al-Faisaly KSA FC": 3.15,
+        "Al-Fateh": 2.75,
+        "Draw": 2.5
       },
       "Unibet (NL)": {
-        "Al-Faisaly KSA FC": 2.65,
-        "Al-Fateh": 2.35,
-        "Draw": 3.3
+        "Al-Faisaly KSA FC": 3.0,
+        "Al-Fateh": 2.6,
+        "Draw": 2.4
       },
       "Winamax (DE)": {
-        "Al-Faisaly KSA FC": 2.6,
-        "Al-Fateh": 2.3,
-        "Draw": 3.55
+        "Al-Faisaly KSA FC": 2.9,
+        "Al-Fateh": 2.95,
+        "Draw": 2.3
       },
       "PMU (FR)": {
-        "Al-Faisaly KSA FC": 2.5,
-        "Al-Fateh": 2.23,
-        "Draw": 3.1
+        "Al-Faisaly KSA FC": 2.8,
+        "Al-Fateh": 2.45,
+        "Draw": 2.25
       },
       "Tipico": {
-        "Al-Faisaly KSA FC": 2.65,
-        "Al-Fateh": 2.45,
-        "Draw": 3.3
-      },
-      "1xBet": {
-        "Al-Faisaly KSA FC": 2.81,
-        "Al-Fateh": 2.32,
-        "Draw": 3.52
+        "Al-Faisaly KSA FC": 2.7,
+        "Al-Fateh": 3.2,
+        "Draw": 2.4
       }
     },
     "2017ec1effaa9442d639c84ec76459ce:h2h": {
       "Pinnacle": {
-        "Servette FC": 3.28,
-        "Sparta Prague": 1.96,
-        "Draw": 3.78
+        "Servette FC": 3.29,
+        "Sparta Prague": 2.23,
+        "Draw": 3.04
       }
     },
     "0d1fd88f53e8a6ace4029a8986ca0415:h2h": {
       "Pinnacle": {
-        "Czarni Sosnowiec": 3.7,
-        "Leuven": 1.71,
-        "Draw": 4.19
+        "Czarni Sosnowiec": 3.69,
+        "Leuven": 1.75,
+        "Draw": 4.27
       },
       "888sport": {
-        "Czarni Sosnowiec": 4.0,
+        "Czarni Sosnowiec": 3.9,
         "Leuven": 1.67,
-        "Draw": 3.7
-      },
-      "William Hill": {
-        "Czarni Sosnowiec": 4.0,
-        "Leuven": 1.67,
-        "Draw": 3.7
+        "Draw": 3.8
       },
       "BetOnline.ag": {
         "Czarni Sosnowiec": 3.95,
@@ -103,28 +83,28 @@
     },
     "3af203df4830d95b6ff06b8822762c9a:h2h": {
       "Pinnacle": {
-        "Eintracht Frankfurt": 2.36,
-        "Paris Saint Germain": 2.67,
-        "Draw": 3.41
+        "Eintracht Frankfurt": 2.57,
+        "Paris Saint Germain": 2.41,
+        "Draw": 3.65
       },
       "Betclic (FR)": {
-        "Eintracht Frankfurt": 2.33,
-        "Paris Saint Germain": 2.6,
-        "Draw": 3.35
+        "Eintracht Frankfurt": 2.48,
+        "Paris Saint Germain": 2.1,
+        "Draw": 3.4
       },
       "888sport": {
-        "Eintracht Frankfurt": 2.3,
-        "Paris Saint Germain": 2.6,
-        "Draw": 3.2
+        "Eintracht Frankfurt": 2.45,
+        "Paris Saint Germain": 2.38,
+        "Draw": 3.3
       },
       "William Hill": {
-        "Eintracht Frankfurt": 2.3,
-        "Paris Saint Germain": 2.6,
-        "Draw": 3.2
+        "Eintracht Frankfurt": 2.45,
+        "Paris Saint Germain": 2.38,
+        "Draw": 3.3
       },
       "BetOnline.ag": {
-        "Eintracht Frankfurt": 2.29,
-        "Paris Saint Germain": 2.61,
+        "Eintracht Frankfurt": 2.46,
+        "Paris Saint Germain": 2.41,
         "Draw": 3.35
       }
     }
@@ -10994,8 +10974,26 @@
       "confidence": 6,
       "alert_type": "value",
       "alerted_at": "2026-08-26T10:48:29.428794+00:00"
+    },
+    {
+      "state_key": "bc599d370d145dabf8382ff3b0754f54:h2h",
+      "event_id": "bc599d370d145dabf8382ff3b0754f54",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Faisaly KSA FC",
+      "away_team": "Al-Fateh",
+      "commence_time": "2026-08-26T16:02:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Fateh",
+      "odds_at_alert": 3.35,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-08-26T16:55:57.518525+00:00"
     }
   ],
   "results_history": [],
-  "value_alerted": []
+  "value_alerted": [
+    "bc599d370d145dabf8382ff3b0754f54:h2h|Betfair|Al-Fateh"
+  ]
 }
