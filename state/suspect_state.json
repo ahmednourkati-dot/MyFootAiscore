@@ -1,111 +1,165 @@
 {
   "snapshots": {
-    "bc599d370d145dabf8382ff3b0754f54:h2h": {
-      "Betfair": {
-        "Al-Faisaly KSA FC": 3.1,
-        "Al-Fateh": 3.35,
-        "Draw": 2.6
+    "9a0559d1a9a916e95593041b8947bf55:h2h": {
+      "Tipico": {
+        "Al-Kholood": 30.0,
+        "Diriyah Club": 30.0,
+        "Draw": 1.01
       },
       "Pinnacle": {
-        "Al-Faisaly KSA FC": 2.9,
-        "Al-Fateh": 2.91,
-        "Draw": 2.55
+        "Al-Kholood": 13.82,
+        "Diriyah Club": 8.3,
+        "Draw": 1.14
       },
-      "Betclic (FR)": {
-        "Al-Faisaly KSA FC": 2.85,
-        "Al-Fateh": 2.95,
-        "Draw": 2.33
-      },
-      "888sport": {
-        "Al-Faisaly KSA FC": 2.8,
-        "Al-Fateh": 2.9,
-        "Draw": 2.2
+      "Betfair": {
+        "Al-Kholood": 1.01,
+        "Diriyah Club": 1.01
       },
       "LeoVegas (SE)": {
-        "Al-Faisaly KSA FC": 2.95,
-        "Al-Fateh": 2.55,
-        "Draw": 2.38
-      },
-      "Winamax (FR)": {
-        "Al-Faisaly KSA FC": 2.75,
-        "Al-Fateh": 2.85,
-        "Draw": 2.2
-      },
-      "Unibet (SE)": {
-        "Al-Faisaly KSA FC": 3.15,
-        "Al-Fateh": 2.75,
-        "Draw": 2.5
+        "Al-Kholood": 21.0,
+        "Diriyah Club": 11.5,
+        "Draw": 1.01
       },
       "Unibet (NL)": {
-        "Al-Faisaly KSA FC": 3.0,
-        "Al-Fateh": 2.6,
-        "Draw": 2.4
+        "Al-Kholood": 21.0,
+        "Diriyah Club": 12.5,
+        "Draw": 1.01
       },
-      "Winamax (DE)": {
-        "Al-Faisaly KSA FC": 2.9,
-        "Al-Fateh": 2.95,
-        "Draw": 2.3
+      "Winamax (FR)": {
+        "Al-Kholood": 46.0,
+        "Diriyah Club": 30.0,
+        "Draw": 1.02
+      },
+      "Unibet (SE)": {
+        "Al-Kholood": 35.0,
+        "Diriyah Club": 21.0,
+        "Draw": 1.02
       },
       "PMU (FR)": {
-        "Al-Faisaly KSA FC": 2.8,
-        "Al-Fateh": 2.45,
+        "Al-Kholood": 14.0,
+        "Diriyah Club": 6.5,
+        "Draw": 1.03
+      },
+      "Winamax (DE)": {
+        "Al-Kholood": 46.0,
+        "Diriyah Club": 30.0,
+        "Draw": 1.01
+      },
+      "Betclic (FR)": {
+        "Al-Kholood": 21.0,
+        "Diriyah Club": 14.75,
+        "Draw": 1.04
+      },
+      "888sport": {
+        "Al-Kholood": 17.0,
+        "Diriyah Club": 10.0,
+        "Draw": 1.06
+      }
+    },
+    "c2ce2b73f8e773868d2bf73121c6815a:h2h": {
+      "Unibet (SE)": {
+        "Bootle FC": 4.75,
+        "Northwich Victoria FC": 1.77,
+        "Draw": 3.05
+      },
+      "LeoVegas (SE)": {
+        "Bootle FC": 4.75,
+        "Northwich Victoria FC": 1.77,
+        "Draw": 3.05
+      }
+    },
+    "0b36875ac4694dcc8cf9cc67dbb3b419:h2h": {
+      "Pinnacle": {
+        "Bradford City": 5.02,
+        "Burnley": 2.08,
+        "Draw": 2.59
+      },
+      "Winamax (FR)": {
+        "Bradford City": 4.7,
+        "Burnley": 2.1,
+        "Draw": 2.15
+      },
+      "Winamax (DE)": {
+        "Bradford City": 5.0,
+        "Burnley": 2.15,
         "Draw": 2.25
       },
       "Tipico": {
-        "Al-Faisaly KSA FC": 2.7,
-        "Al-Fateh": 3.2,
-        "Draw": 2.4
-      }
-    },
-    "2017ec1effaa9442d639c84ec76459ce:h2h": {
-      "Pinnacle": {
-        "Servette FC": 3.29,
-        "Sparta Prague": 2.23,
-        "Draw": 3.04
-      }
-    },
-    "0d1fd88f53e8a6ace4029a8986ca0415:h2h": {
-      "Pinnacle": {
-        "Czarni Sosnowiec": 3.69,
-        "Leuven": 1.75,
-        "Draw": 4.27
+        "Bradford City": 5.2,
+        "Burnley": 2.2,
+        "Draw": 2.3
+      },
+      "LeoVegas (SE)": {
+        "Bradford City": 4.7,
+        "Burnley": 2.12,
+        "Draw": 2.38
+      },
+      "PMU (FR)": {
+        "Bradford City": 4.4,
+        "Burnley": 1.93,
+        "Draw": 2.18
+      },
+      "Unibet (NL)": {
+        "Bradford City": 4.7,
+        "Burnley": 2.12,
+        "Draw": 2.38
+      },
+      "Unibet (SE)": {
+        "Bradford City": 4.7,
+        "Burnley": 2.12,
+        "Draw": 2.38
+      },
+      "Nordic Bet": {
+        "Bradford City": 4.85,
+        "Burnley": 2.2,
+        "Draw": 2.25
+      },
+      "Betsson": {
+        "Bradford City": 4.85,
+        "Burnley": 2.2,
+        "Draw": 2.25
+      },
+      "Betfair": {
+        "Bradford City": 5.7,
+        "Burnley": 2.32,
+        "Draw": 2.54
       },
       "888sport": {
-        "Czarni Sosnowiec": 3.9,
-        "Leuven": 1.67,
-        "Draw": 3.8
+        "Bradford City": 4.6,
+        "Burnley": 2.2,
+        "Draw": 2.2
       },
-      "BetOnline.ag": {
-        "Czarni Sosnowiec": 3.95,
-        "Leuven": 1.7,
-        "Draw": 3.55
+      "Coolbet": {
+        "Bradford City": 5.5,
+        "Burnley": 2.25,
+        "Draw": 2.3
+      },
+      "Matchbook": {
+        "Bradford City": 5.3,
+        "Burnley": 2.42,
+        "Draw": 2.48
       }
     },
-    "3af203df4830d95b6ff06b8822762c9a:h2h": {
-      "Pinnacle": {
-        "Eintracht Frankfurt": 2.57,
-        "Paris Saint Germain": 2.41,
-        "Draw": 3.65
+    "064b863ed3f20ad4ecb7556b195193e7:h2h": {
+      "Betfair": {
+        "Charlton Athletic": 110.0,
+        "Tottenham Hotspur": 1.01,
+        "Draw": 85.0
       },
-      "Betclic (FR)": {
-        "Eintracht Frankfurt": 2.48,
-        "Paris Saint Germain": 2.1,
-        "Draw": 3.4
+      "Betsson": {
+        "Charlton Athletic": 41.0,
+        "Tottenham Hotspur": 1.0,
+        "Draw": 19.0
+      },
+      "Nordic Bet": {
+        "Charlton Athletic": 36.0,
+        "Tottenham Hotspur": 1.0,
+        "Draw": 21.0
       },
       "888sport": {
-        "Eintracht Frankfurt": 2.45,
-        "Paris Saint Germain": 2.38,
-        "Draw": 3.3
-      },
-      "William Hill": {
-        "Eintracht Frankfurt": 2.45,
-        "Paris Saint Germain": 2.38,
-        "Draw": 3.3
-      },
-      "BetOnline.ag": {
-        "Eintracht Frankfurt": 2.46,
-        "Paris Saint Germain": 2.41,
-        "Draw": 3.35
+        "Charlton Athletic": 151.0,
+        "Tottenham Hotspur": 1.0,
+        "Draw": 51.0
       }
     }
   },
@@ -10990,10 +11044,315 @@
       "confidence": 7,
       "alert_type": "value",
       "alerted_at": "2026-08-26T16:55:57.518525+00:00"
+    },
+    {
+      "state_key": "9a0559d1a9a916e95593041b8947bf55:h2h",
+      "event_id": "9a0559d1a9a916e95593041b8947bf55",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Diriyah Club",
+      "away_team": "Al-Kholood",
+      "commence_time": "2026-08-26T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Kholood",
+      "odds_at_alert": 30.0,
+      "stake_pct": 5.0,
+      "confidence": 103,
+      "alert_type": "value",
+      "alerted_at": "2026-08-26T19:59:00.852006+00:00"
+    },
+    {
+      "state_key": "9a0559d1a9a916e95593041b8947bf55:h2h",
+      "event_id": "9a0559d1a9a916e95593041b8947bf55",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Diriyah Club",
+      "away_team": "Al-Kholood",
+      "commence_time": "2026-08-26T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Diriyah Club",
+      "odds_at_alert": 30.0,
+      "stake_pct": 5.0,
+      "confidence": 238,
+      "alert_type": "value",
+      "alerted_at": "2026-08-26T19:59:01.290808+00:00"
+    },
+    {
+      "state_key": "9a0559d1a9a916e95593041b8947bf55:h2h",
+      "event_id": "9a0559d1a9a916e95593041b8947bf55",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Diriyah Club",
+      "away_team": "Al-Kholood",
+      "commence_time": "2026-08-26T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Kholood",
+      "odds_at_alert": 21.0,
+      "stake_pct": 5.0,
+      "confidence": 42,
+      "alert_type": "value",
+      "alerted_at": "2026-08-26T19:59:01.768315+00:00"
+    },
+    {
+      "state_key": "9a0559d1a9a916e95593041b8947bf55:h2h",
+      "event_id": "9a0559d1a9a916e95593041b8947bf55",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Diriyah Club",
+      "away_team": "Al-Kholood",
+      "commence_time": "2026-08-26T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Diriyah Club",
+      "odds_at_alert": 11.5,
+      "stake_pct": 5.0,
+      "confidence": 29,
+      "alert_type": "value",
+      "alerted_at": "2026-08-26T19:59:02.247699+00:00"
+    },
+    {
+      "state_key": "9a0559d1a9a916e95593041b8947bf55:h2h",
+      "event_id": "9a0559d1a9a916e95593041b8947bf55",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Diriyah Club",
+      "away_team": "Al-Kholood",
+      "commence_time": "2026-08-26T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Kholood",
+      "odds_at_alert": 21.0,
+      "stake_pct": 5.0,
+      "confidence": 42,
+      "alert_type": "value",
+      "alerted_at": "2026-08-26T19:59:02.699502+00:00"
+    },
+    {
+      "state_key": "9a0559d1a9a916e95593041b8947bf55:h2h",
+      "event_id": "9a0559d1a9a916e95593041b8947bf55",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Diriyah Club",
+      "away_team": "Al-Kholood",
+      "commence_time": "2026-08-26T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Diriyah Club",
+      "odds_at_alert": 12.5,
+      "stake_pct": 5.0,
+      "confidence": 41,
+      "alert_type": "value",
+      "alerted_at": "2026-08-26T19:59:03.116773+00:00"
+    },
+    {
+      "state_key": "9a0559d1a9a916e95593041b8947bf55:h2h",
+      "event_id": "9a0559d1a9a916e95593041b8947bf55",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Diriyah Club",
+      "away_team": "Al-Kholood",
+      "commence_time": "2026-08-26T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Kholood",
+      "odds_at_alert": 46.0,
+      "stake_pct": 5.0,
+      "confidence": 211,
+      "alert_type": "value",
+      "alerted_at": "2026-08-26T19:59:03.577571+00:00"
+    },
+    {
+      "state_key": "9a0559d1a9a916e95593041b8947bf55:h2h",
+      "event_id": "9a0559d1a9a916e95593041b8947bf55",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Diriyah Club",
+      "away_team": "Al-Kholood",
+      "commence_time": "2026-08-26T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Diriyah Club",
+      "odds_at_alert": 30.0,
+      "stake_pct": 5.0,
+      "confidence": 238,
+      "alert_type": "value",
+      "alerted_at": "2026-08-26T19:59:04.010169+00:00"
+    },
+    {
+      "state_key": "9a0559d1a9a916e95593041b8947bf55:h2h",
+      "event_id": "9a0559d1a9a916e95593041b8947bf55",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Diriyah Club",
+      "away_team": "Al-Kholood",
+      "commence_time": "2026-08-26T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Kholood",
+      "odds_at_alert": 35.0,
+      "stake_pct": 5.0,
+      "confidence": 137,
+      "alert_type": "value",
+      "alerted_at": "2026-08-26T19:59:04.439792+00:00"
+    },
+    {
+      "state_key": "9a0559d1a9a916e95593041b8947bf55:h2h",
+      "event_id": "9a0559d1a9a916e95593041b8947bf55",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Diriyah Club",
+      "away_team": "Al-Kholood",
+      "commence_time": "2026-08-26T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Diriyah Club",
+      "odds_at_alert": 21.0,
+      "stake_pct": 5.0,
+      "confidence": 136,
+      "alert_type": "value",
+      "alerted_at": "2026-08-26T19:59:04.926358+00:00"
+    },
+    {
+      "state_key": "9a0559d1a9a916e95593041b8947bf55:h2h",
+      "event_id": "9a0559d1a9a916e95593041b8947bf55",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Diriyah Club",
+      "away_team": "Al-Kholood",
+      "commence_time": "2026-08-26T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Kholood",
+      "odds_at_alert": 46.0,
+      "stake_pct": 5.0,
+      "confidence": 211,
+      "alert_type": "value",
+      "alerted_at": "2026-08-26T19:59:05.381303+00:00"
+    },
+    {
+      "state_key": "9a0559d1a9a916e95593041b8947bf55:h2h",
+      "event_id": "9a0559d1a9a916e95593041b8947bf55",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Diriyah Club",
+      "away_team": "Al-Kholood",
+      "commence_time": "2026-08-26T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Diriyah Club",
+      "odds_at_alert": 30.0,
+      "stake_pct": 5.0,
+      "confidence": 238,
+      "alert_type": "value",
+      "alerted_at": "2026-08-26T19:59:05.865642+00:00"
+    },
+    {
+      "state_key": "9a0559d1a9a916e95593041b8947bf55:h2h",
+      "event_id": "9a0559d1a9a916e95593041b8947bf55",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Diriyah Club",
+      "away_team": "Al-Kholood",
+      "commence_time": "2026-08-26T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Kholood",
+      "odds_at_alert": 21.0,
+      "stake_pct": 5.0,
+      "confidence": 42,
+      "alert_type": "value",
+      "alerted_at": "2026-08-26T19:59:06.296456+00:00"
+    },
+    {
+      "state_key": "9a0559d1a9a916e95593041b8947bf55:h2h",
+      "event_id": "9a0559d1a9a916e95593041b8947bf55",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Diriyah Club",
+      "away_team": "Al-Kholood",
+      "commence_time": "2026-08-26T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Diriyah Club",
+      "odds_at_alert": 14.75,
+      "stake_pct": 5.0,
+      "confidence": 66,
+      "alert_type": "value",
+      "alerted_at": "2026-08-26T19:59:06.731311+00:00"
+    },
+    {
+      "state_key": "9a0559d1a9a916e95593041b8947bf55:h2h",
+      "event_id": "9a0559d1a9a916e95593041b8947bf55",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Diriyah Club",
+      "away_team": "Al-Kholood",
+      "commence_time": "2026-08-26T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Kholood",
+      "odds_at_alert": 17.0,
+      "stake_pct": 3.0,
+      "confidence": 15,
+      "alert_type": "value",
+      "alerted_at": "2026-08-26T19:59:07.162139+00:00"
+    },
+    {
+      "state_key": "9a0559d1a9a916e95593041b8947bf55:h2h",
+      "event_id": "9a0559d1a9a916e95593041b8947bf55",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Diriyah Club",
+      "away_team": "Al-Kholood",
+      "commence_time": "2026-08-26T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Diriyah Club",
+      "odds_at_alert": 10.0,
+      "stake_pct": 3.0,
+      "confidence": 13,
+      "alert_type": "value",
+      "alerted_at": "2026-08-26T19:59:07.585023+00:00"
+    },
+    {
+      "state_key": "0b36875ac4694dcc8cf9cc67dbb3b419:h2h",
+      "event_id": "0b36875ac4694dcc8cf9cc67dbb3b419",
+      "sport_key": "soccer",
+      "competition": "EFL Cup",
+      "home_team": "Bradford City",
+      "away_team": "Burnley",
+      "commence_time": "2026-08-26T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Bradford City",
+      "odds_at_alert": 5.7,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-08-26T19:59:08.053606+00:00"
+    },
+    {
+      "state_key": "0b36875ac4694dcc8cf9cc67dbb3b419:h2h",
+      "event_id": "0b36875ac4694dcc8cf9cc67dbb3b419",
+      "sport_key": "soccer",
+      "competition": "EFL Cup",
+      "home_team": "Bradford City",
+      "away_team": "Burnley",
+      "commence_time": "2026-08-26T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Burnley",
+      "odds_at_alert": 2.42,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-08-26T19:59:08.582554+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "bc599d370d145dabf8382ff3b0754f54:h2h|Betfair|Al-Fateh"
+    "0b36875ac4694dcc8cf9cc67dbb3b419:h2h|Betfair|Bradford City",
+    "0b36875ac4694dcc8cf9cc67dbb3b419:h2h|Matchbook|Burnley",
+    "9a0559d1a9a916e95593041b8947bf55:h2h|888sport|Al-Kholood",
+    "9a0559d1a9a916e95593041b8947bf55:h2h|888sport|Diriyah Club",
+    "9a0559d1a9a916e95593041b8947bf55:h2h|Betclic (FR)|Al-Kholood",
+    "9a0559d1a9a916e95593041b8947bf55:h2h|Betclic (FR)|Diriyah Club",
+    "9a0559d1a9a916e95593041b8947bf55:h2h|LeoVegas (SE)|Al-Kholood",
+    "9a0559d1a9a916e95593041b8947bf55:h2h|LeoVegas (SE)|Diriyah Club",
+    "9a0559d1a9a916e95593041b8947bf55:h2h|Tipico|Al-Kholood",
+    "9a0559d1a9a916e95593041b8947bf55:h2h|Tipico|Diriyah Club",
+    "9a0559d1a9a916e95593041b8947bf55:h2h|Unibet (NL)|Al-Kholood",
+    "9a0559d1a9a916e95593041b8947bf55:h2h|Unibet (NL)|Diriyah Club",
+    "9a0559d1a9a916e95593041b8947bf55:h2h|Unibet (SE)|Al-Kholood",
+    "9a0559d1a9a916e95593041b8947bf55:h2h|Unibet (SE)|Diriyah Club",
+    "9a0559d1a9a916e95593041b8947bf55:h2h|Winamax (DE)|Al-Kholood",
+    "9a0559d1a9a916e95593041b8947bf55:h2h|Winamax (DE)|Diriyah Club",
+    "9a0559d1a9a916e95593041b8947bf55:h2h|Winamax (FR)|Al-Kholood",
+    "9a0559d1a9a916e95593041b8947bf55:h2h|Winamax (FR)|Diriyah Club"
   ]
 }
