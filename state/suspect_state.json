@@ -1,67 +1,5 @@
 {
   "snapshots": {
-    "49a9920e24936a4b826289e2742fd6f8:h2h": {
-      "LeoVegas (SE)": {
-        "León": 1.55,
-        "Real Salt Lake": 4.9,
-        "Draw": 3.4
-      },
-      "Winamax (DE)": {
-        "León": 1.6,
-        "Real Salt Lake": 5.5,
-        "Draw": 3.3
-      },
-      "Unibet (SE)": {
-        "León": 1.61,
-        "Real Salt Lake": 5.1,
-        "Draw": 3.5
-      },
-      "Unibet (NL)": {
-        "León": 1.61,
-        "Real Salt Lake": 5.1,
-        "Draw": 3.5
-      },
-      "Winamax (FR)": {
-        "León": 1.58,
-        "Real Salt Lake": 5.2,
-        "Draw": 3.2
-      },
-      "888sport": {
-        "León": 1.6,
-        "Real Salt Lake": 4.8,
-        "Draw": 3.25
-      },
-      "PMU (FR)": {
-        "León": 1.51,
-        "Real Salt Lake": 4.8,
-        "Draw": 3.35
-      },
-      "Nordic Bet": {
-        "León": 1.62,
-        "Real Salt Lake": 5.35,
-        "Draw": 3.4
-      },
-      "Betsson": {
-        "León": 1.62,
-        "Real Salt Lake": 5.35,
-        "Draw": 3.4
-      },
-      "Coolbet": {
-        "León": 1.62,
-        "Real Salt Lake": 5.5,
-        "Draw": 3.4
-      },
-      "Betfair": {
-        "León": 1.74,
-        "Real Salt Lake": 5.8,
-        "Draw": 3.85
-      },
-      "Pinnacle": {
-        "León": 1.69,
-        "Real Salt Lake": 5.44,
-        "Draw": 3.45
-      }
-    },
     "2e1c099afd2f45e4b2b36b794d9e0349:h2h": {
       "Unibet (SE)": {
         "Daejeon Citizen": 2.28,
@@ -84,8 +22,8 @@
         "Draw": 3.2
       },
       "Coolbet": {
-        "Daejeon Citizen": 2.25,
-        "Ulsan Hyundai FC": 2.95,
+        "Daejeon Citizen": 2.3,
+        "Ulsan Hyundai FC": 2.85,
         "Draw": 3.6
       },
       "Betsson": {
@@ -144,8 +82,8 @@
         "Draw": 3.3
       },
       "Betfair": {
-        "Daejeon Citizen": 2.4,
-        "Ulsan Hyundai FC": 3.0,
+        "Daejeon Citizen": 2.38,
+        "Ulsan Hyundai FC": 3.05,
         "Draw": 3.7
       },
       "Tipico": {
@@ -181,23 +119,23 @@
         "Draw": 3.0
       },
       "Betsson": {
-        "FC Anyang": 3.1,
-        "Incheon United": 2.22,
+        "FC Anyang": 3.2,
+        "Incheon United": 2.15,
         "Draw": 3.05
       },
       "Unibet (FR)": {
-        "FC Anyang": 3.05,
-        "Incheon United": 2.1,
+        "FC Anyang": 3.15,
+        "Incheon United": 2.05,
         "Draw": 3.05
       },
       "Betclic (FR)": {
-        "FC Anyang": 3.22,
-        "Incheon United": 2.17,
-        "Draw": 3.05
+        "FC Anyang": 3.38,
+        "Incheon United": 2.1,
+        "Draw": 3.07
       },
       "Nordic Bet": {
-        "FC Anyang": 3.1,
-        "Incheon United": 2.22,
+        "FC Anyang": 3.2,
+        "Incheon United": 2.15,
         "Draw": 3.05
       },
       "Coolbet": {
@@ -206,54 +144,54 @@
         "Draw": 3.3
       },
       "BetOnline.ag": {
-        "FC Anyang": 3.3,
-        "Incheon United": 2.16,
-        "Draw": 3.25
+        "FC Anyang": 3.4,
+        "Incheon United": 2.15,
+        "Draw": 3.2
       },
       "1xBet": {
-        "FC Anyang": 3.25,
-        "Incheon United": 2.2,
-        "Draw": 3.28
+        "FC Anyang": 3.32,
+        "Incheon United": 2.16,
+        "Draw": 3.32
       },
       "Pinnacle": {
-        "FC Anyang": 3.49,
-        "Incheon United": 2.29,
-        "Draw": 3.23
+        "FC Anyang": 3.59,
+        "Incheon United": 2.23,
+        "Draw": 3.26
       },
       "Winamax (DE)": {
-        "FC Anyang": 3.05,
-        "Incheon United": 2.2,
+        "FC Anyang": 3.15,
+        "Incheon United": 2.15,
         "Draw": 3.2
       },
       "Winamax (FR)": {
-        "FC Anyang": 3.0,
-        "Incheon United": 2.15,
+        "FC Anyang": 3.05,
+        "Incheon United": 2.1,
         "Draw": 3.1
       },
       "Marathon Bet": {
-        "FC Anyang": 3.24,
-        "Incheon United": 2.18,
-        "Draw": 3.28
+        "FC Anyang": 3.32,
+        "Incheon United": 2.13,
+        "Draw": 3.32
       },
       "William Hill": {
-        "FC Anyang": 3.1,
-        "Incheon United": 2.25,
+        "FC Anyang": 3.3,
+        "Incheon United": 2.15,
         "Draw": 3.0
       },
       "Betfair": {
-        "FC Anyang": 3.5,
-        "Incheon United": 2.32,
+        "FC Anyang": 3.6,
+        "Incheon United": 2.28,
         "Draw": 3.3
       },
       "Tipico": {
-        "FC Anyang": 3.4,
-        "Incheon United": 2.15,
+        "FC Anyang": 3.5,
+        "Incheon United": 2.1,
         "Draw": 3.1
       },
       "Matchbook": {
-        "FC Anyang": 3.55,
-        "Incheon United": 2.32,
-        "Draw": 3.3
+        "FC Anyang": 3.6,
+        "Incheon United": 2.28,
+        "Draw": 3.35
       }
     },
     "eb4721a2f08b06485a15a93e2539ea08:h2h": {
@@ -278,29 +216,29 @@
         "Draw": 3.75
       },
       "Unibet (FR)": {
-        "Gangwon FC": 1.42,
-        "Gwangju FC": 6.1,
-        "Draw": 3.85
+        "Gangwon FC": 1.43,
+        "Gwangju FC": 5.9,
+        "Draw": 3.8
       },
       "Betsson": {
-        "Gangwon FC": 1.46,
-        "Gwangju FC": 6.3,
-        "Draw": 3.85
+        "Gangwon FC": 1.48,
+        "Gwangju FC": 6.1,
+        "Draw": 3.8
       },
       "Betclic (FR)": {
-        "Gangwon FC": 1.45,
-        "Gwangju FC": 6.4,
-        "Draw": 3.95
+        "Gangwon FC": 1.5,
+        "Gwangju FC": 6.0,
+        "Draw": 3.75
       },
       "Nordic Bet": {
-        "Gangwon FC": 1.46,
-        "Gwangju FC": 6.3,
-        "Draw": 3.85
+        "Gangwon FC": 1.48,
+        "Gwangju FC": 6.1,
+        "Draw": 3.8
       },
       "BetOnline.ag": {
-        "Gangwon FC": 1.5,
+        "Gangwon FC": 1.52,
         "Gwangju FC": 6.8,
-        "Draw": 4.1
+        "Draw": 3.95
       },
       "Coolbet": {
         "Gangwon FC": 1.5,
@@ -308,39 +246,39 @@
         "Draw": 4.0
       },
       "1xBet": {
-        "Gangwon FC": 1.48,
-        "Gwangju FC": 6.76,
-        "Draw": 4.1
+        "Gangwon FC": 1.5,
+        "Gwangju FC": 6.67,
+        "Draw": 3.98
       },
       "Pinnacle": {
-        "Gangwon FC": 1.51,
-        "Gwangju FC": 7.18,
-        "Draw": 4.24
+        "Gangwon FC": 1.54,
+        "Gwangju FC": 7.01,
+        "Draw": 4.06
       },
       "Winamax (DE)": {
-        "Gangwon FC": 1.46,
-        "Gwangju FC": 6.0,
-        "Draw": 4.1
-      },
-      "Winamax (FR)": {
-        "Gangwon FC": 1.44,
+        "Gangwon FC": 1.48,
         "Gwangju FC": 5.8,
         "Draw": 4.0
       },
+      "Winamax (FR)": {
+        "Gangwon FC": 1.46,
+        "Gwangju FC": 5.7,
+        "Draw": 3.95
+      },
       "Marathon Bet": {
-        "Gangwon FC": 1.47,
-        "Gwangju FC": 6.75,
-        "Draw": 4.1
+        "Gangwon FC": 1.49,
+        "Gwangju FC": 6.65,
+        "Draw": 3.98
       },
       "William Hill": {
         "Gangwon FC": 1.5,
         "Gwangju FC": 6.5,
-        "Draw": 3.8
+        "Draw": 3.75
       },
       "Betfair": {
-        "Gangwon FC": 1.52,
-        "Gwangju FC": 8.0,
-        "Draw": 4.2
+        "Gangwon FC": 1.56,
+        "Gwangju FC": 7.8,
+        "Draw": 4.1
       },
       "Tipico": {
         "Gangwon FC": 1.45,
@@ -348,9 +286,81 @@
         "Draw": 3.9
       },
       "Matchbook": {
-        "Gangwon FC": 1.52,
-        "Gwangju FC": 8.0,
+        "Gangwon FC": 1.56,
+        "Gwangju FC": 7.8,
         "Draw": 4.2
+      }
+    },
+    "bc599d370d145dabf8382ff3b0754f54:h2h": {
+      "Betfair": {
+        "Al-Faisaly KSA FC": 2.72,
+        "Al-Fateh": 2.7,
+        "Draw": 3.5
+      },
+      "Pinnacle": {
+        "Al-Faisaly KSA FC": 2.68,
+        "Al-Fateh": 2.56,
+        "Draw": 3.49
+      },
+      "Betclic (FR)": {
+        "Al-Faisaly KSA FC": 2.78,
+        "Al-Fateh": 2.35,
+        "Draw": 3.38
+      },
+      "888sport": {
+        "Al-Faisaly KSA FC": 2.5,
+        "Al-Fateh": 2.4,
+        "Draw": 3.1
+      },
+      "LeoVegas (SE)": {
+        "Al-Faisaly KSA FC": 2.33,
+        "Al-Fateh": 2.55,
+        "Draw": 3.2
+      },
+      "Unibet (FR)": {
+        "Al-Faisaly KSA FC": 2.5,
+        "Al-Fateh": 2.35,
+        "Draw": 3.25
+      },
+      "William Hill": {
+        "Al-Faisaly KSA FC": 2.5,
+        "Al-Fateh": 2.4,
+        "Draw": 3.1
+      },
+      "Winamax (FR)": {
+        "Al-Faisaly KSA FC": 2.45,
+        "Al-Fateh": 2.4,
+        "Draw": 3.35
+      },
+      "Unibet (SE)": {
+        "Al-Faisaly KSA FC": 2.38,
+        "Al-Fateh": 2.6,
+        "Draw": 3.3
+      },
+      "Unibet (NL)": {
+        "Al-Faisaly KSA FC": 2.38,
+        "Al-Fateh": 2.6,
+        "Draw": 3.3
+      },
+      "Winamax (DE)": {
+        "Al-Faisaly KSA FC": 2.5,
+        "Al-Fateh": 2.45,
+        "Draw": 3.4
+      },
+      "PMU (FR)": {
+        "Al-Faisaly KSA FC": 2.25,
+        "Al-Fateh": 2.48,
+        "Draw": 3.1
+      },
+      "Tipico": {
+        "Al-Faisaly KSA FC": 2.4,
+        "Al-Fateh": 2.65,
+        "Draw": 3.4
+      },
+      "1xBet": {
+        "Al-Faisaly KSA FC": 2.62,
+        "Al-Fateh": 2.54,
+        "Draw": 3.4
       }
     }
   },
