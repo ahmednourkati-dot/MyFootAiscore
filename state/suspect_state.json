@@ -2,400 +2,170 @@
   "snapshots": {
     "0b765da573acccbad3b07923f279c567:h2h": {
       "Unibet (NL)": {
-        "CA Osasuna": 4.25,
-        "Celta Vigo": 2.0,
-        "Draw": 3.4
-      },
-      "PMU (FR)": {
-        "CA Osasuna": 4.0,
-        "Celta Vigo": 1.93,
-        "Draw": 3.25
+        "CA Osasuna": 1.05,
+        "Celta Vigo": 141.0,
+        "Draw": 11.5
       },
       "Unibet (SE)": {
-        "CA Osasuna": 4.25,
-        "Celta Vigo": 2.0,
-        "Draw": 3.4
+        "CA Osasuna": 1.04,
+        "Celta Vigo": 151.0,
+        "Draw": 12.5
       },
       "LeoVegas (SE)": {
-        "CA Osasuna": 3.95,
-        "Celta Vigo": 1.92,
-        "Draw": 3.2
-      },
-      "Unibet (FR)": {
-        "CA Osasuna": 4.0,
-        "Celta Vigo": 1.95,
-        "Draw": 3.2
+        "CA Osasuna": 1.02,
+        "Celta Vigo": 91.0,
+        "Draw": 11.5
       },
       "Betclic (FR)": {
-        "CA Osasuna": 4.1,
-        "Celta Vigo": 1.98,
-        "Draw": 3.32
-      },
-      "Codere (IT)": {
-        "CA Osasuna": 4.1,
-        "Celta Vigo": 2.0,
-        "Draw": 3.3
-      },
-      "1xBet": {
-        "CA Osasuna": 4.21,
-        "Celta Vigo": 2.05,
-        "Draw": 3.45
+        "CA Osasuna": 1.05,
+        "Celta Vigo": 80.0,
+        "Draw": 8.5
       },
       "Betfair": {
-        "CA Osasuna": 4.4,
-        "Celta Vigo": 2.04,
-        "Draw": 3.45
+        "CA Osasuna": 1.09,
+        "Celta Vigo": 75.0,
+        "Draw": 11.0
       },
       "Tipico": {
-        "CA Osasuna": 4.2,
-        "Celta Vigo": 1.93,
-        "Draw": 3.3
-      },
-      "William Hill": {
-        "CA Osasuna": 4.0,
-        "Celta Vigo": 1.95,
-        "Draw": 3.25
+        "CA Osasuna": 1.03,
+        "Celta Vigo": 120.0,
+        "Draw": 9.0
       },
       "Winamax (FR)": {
-        "CA Osasuna": 3.85,
-        "Celta Vigo": 1.94,
-        "Draw": 3.3
+        "CA Osasuna": 1.07,
+        "Celta Vigo": 100.0,
+        "Draw": 8.5
       },
       "Winamax (DE)": {
-        "CA Osasuna": 3.9,
-        "Celta Vigo": 1.96,
-        "Draw": 3.35
-      },
-      "BetOnline.ag": {
-        "CA Osasuna": 4.25,
-        "Celta Vigo": 1.99,
-        "Draw": 3.36
-      },
-      "Marathon Bet": {
-        "CA Osasuna": 4.15,
-        "Celta Vigo": 2.02,
-        "Draw": 3.4
-      },
-      "Pinnacle": {
-        "CA Osasuna": 4.25,
-        "Celta Vigo": 2.0,
-        "Draw": 3.33
+        "CA Osasuna": 1.06,
+        "Celta Vigo": 100.0,
+        "Draw": 9.5
       },
       "Matchbook": {
-        "CA Osasuna": 4.4,
-        "Celta Vigo": 2.04,
-        "Draw": 3.45
-      },
-      "Everygame": {
-        "CA Osasuna": 4.1,
-        "Celta Vigo": 1.95,
-        "Draw": 3.2
+        "CA Osasuna": 1.09,
+        "Celta Vigo": 100.0,
+        "Draw": 10.0
       },
       "Coolbet": {
-        "CA Osasuna": 4.4,
-        "Celta Vigo": 1.98,
-        "Draw": 3.35
+        "CA Osasuna": 1.08,
+        "Celta Vigo": 125.0,
+        "Draw": 10.0
       },
       "Betsson": {
-        "CA Osasuna": 4.1,
-        "Celta Vigo": 1.98,
-        "Draw": 3.2
+        "CA Osasuna": 1.05,
+        "Celta Vigo": 120.0,
+        "Draw": 9.6
       },
       "Nordic Bet": {
-        "CA Osasuna": 4.1,
-        "Celta Vigo": 1.98,
-        "Draw": 3.2
+        "CA Osasuna": 1.05,
+        "Celta Vigo": 120.0,
+        "Draw": 9.6
       }
     },
     "0ff5ed10a1f01dc662f737af7c0cf53c:h2h": {
-      "Pinnacle": {
-        "Chelsea": 1.14,
-        "Luton": 17.44,
-        "Draw": 8.92
-      },
-      "Winamax (FR)": {
-        "Chelsea": 1.1,
-        "Luton": 12.0,
-        "Draw": 7.75
-      },
-      "Winamax (DE)": {
-        "Chelsea": 1.11,
-        "Luton": 12.5,
-        "Draw": 8.0
-      },
-      "LeoVegas (SE)": {
-        "Chelsea": 1.12,
-        "Luton": 16.0,
-        "Draw": 8.0
-      },
-      "PMU (FR)": {
-        "Chelsea": 1.08,
-        "Luton": 15.0,
-        "Draw": 8.0
-      },
-      "Unibet (NL)": {
-        "Chelsea": 1.12,
-        "Luton": 17.0,
-        "Draw": 8.5
-      },
-      "Unibet (SE)": {
-        "Chelsea": 1.12,
-        "Luton": 17.0,
-        "Draw": 8.5
-      },
-      "1xBet": {
-        "Chelsea": 1.15,
-        "Luton": 18.0,
-        "Draw": 8.9
-      },
-      "Tipico": {
-        "Chelsea": 1.09,
-        "Luton": 17.0,
-        "Draw": 9.0
-      },
-      "Marathon Bet": {
-        "Chelsea": 1.15,
-        "Luton": 18.25,
-        "Draw": 8.9
-      },
       "Betfair": {
-        "Chelsea": 1.16,
-        "Luton": 21.0,
-        "Draw": 10.0
-      },
-      "888sport": {
-        "Chelsea": 1.12,
-        "Luton": 15.0,
-        "Draw": 7.5
-      },
-      "William Hill": {
-        "Chelsea": 1.12,
-        "Luton": 17.0,
-        "Draw": 8.0
+        "Chelsea": 1.06,
+        "Luton": 120.0,
+        "Draw": 17.0
       },
       "Nordic Bet": {
-        "Chelsea": 1.14,
-        "Luton": 20.0,
-        "Draw": 6.1
-      },
-      "BetOnline.ag": {
-        "Chelsea": 1.14,
-        "Luton": 17.0,
-        "Draw": 8.6
-      },
-      "Coolbet": {
-        "Chelsea": 1.15,
-        "Luton": 16.0,
-        "Draw": 8.0
-      },
-      "Matchbook": {
-        "Chelsea": 1.16,
-        "Luton": 22.0,
-        "Draw": 9.8
+        "Chelsea": 1.0,
+        "Luton": 26.0,
+        "Draw": 26.0
       },
       "Betsson": {
-        "Chelsea": 1.14,
-        "Luton": 20.0,
-        "Draw": 6.1
+        "Chelsea": 1.0,
+        "Luton": 26.0,
+        "Draw": 26.0
       }
     },
     "4e67f40bc51c915154f04559a7ab692c:h2h": {
       "Winamax (DE)": {
-        "Athletic Bilbao": 9.5,
-        "Barcelona": 1.21,
-        "Draw": 7.25
+        "Athletic Bilbao": 32.0,
+        "Barcelona": 1.09,
+        "Draw": 8.5
       },
       "Winamax (FR)": {
-        "Athletic Bilbao": 9.5,
-        "Barcelona": 1.21,
-        "Draw": 7.0
+        "Athletic Bilbao": 32.0,
+        "Barcelona": 1.1,
+        "Draw": 8.0
       },
       "Betfair": {
-        "Athletic Bilbao": 14.0,
-        "Barcelona": 1.24,
-        "Draw": 7.6
-      },
-      "Codere (IT)": {
-        "Athletic Bilbao": 11.0,
-        "Barcelona": 1.23,
-        "Draw": 7.0
-      },
-      "Unibet (FR)": {
-        "Athletic Bilbao": 13.0,
-        "Barcelona": 1.22,
-        "Draw": 7.1
+        "Athletic Bilbao": 48.0,
+        "Barcelona": 1.12,
+        "Draw": 11.0
       },
       "Betclic (FR)": {
-        "Athletic Bilbao": 12.0,
-        "Barcelona": 1.23,
-        "Draw": 7.0
+        "Athletic Bilbao": 27.0,
+        "Barcelona": 1.09,
+        "Draw": 7.75
       },
       "Tipico": {
-        "Athletic Bilbao": 12.0,
-        "Barcelona": 1.2,
-        "Draw": 7.0
-      },
-      "1xBet": {
-        "Athletic Bilbao": 12.6,
-        "Barcelona": 1.26,
-        "Draw": 7.01
-      },
-      "Marathon Bet": {
-        "Athletic Bilbao": 12.5,
-        "Barcelona": 1.24,
-        "Draw": 6.9
-      },
-      "Pinnacle": {
-        "Athletic Bilbao": 12.05,
-        "Barcelona": 1.23,
-        "Draw": 6.88
-      },
-      "Everygame": {
-        "Athletic Bilbao": 12.0,
-        "Barcelona": 1.22,
-        "Draw": 6.75
-      },
-      "BetOnline.ag": {
-        "Athletic Bilbao": 13.0,
-        "Barcelona": 1.23,
-        "Draw": 7.0
+        "Athletic Bilbao": 40.0,
+        "Barcelona": 1.05,
+        "Draw": 9.0
       },
       "PMU (FR)": {
-        "Athletic Bilbao": 12.5,
-        "Barcelona": 1.19,
-        "Draw": 6.75
+        "Athletic Bilbao": 26.0,
+        "Barcelona": 1.04,
+        "Draw": 9.0
       },
       "LeoVegas (SE)": {
-        "Athletic Bilbao": 12.0,
-        "Barcelona": 1.18,
-        "Draw": 6.75
+        "Athletic Bilbao": 29.0,
+        "Barcelona": 1.06,
+        "Draw": 9.0
       },
       "Unibet (SE)": {
-        "Athletic Bilbao": 14.0,
-        "Barcelona": 1.21,
-        "Draw": 7.5
+        "Athletic Bilbao": 29.0,
+        "Barcelona": 1.08,
+        "Draw": 9.5
       },
       "Unibet (NL)": {
-        "Athletic Bilbao": 15.0,
-        "Barcelona": 1.2,
-        "Draw": 7.5
-      },
-      "William Hill": {
-        "Athletic Bilbao": 11.0,
-        "Barcelona": 1.22,
-        "Draw": 6.0
+        "Athletic Bilbao": 26.0,
+        "Barcelona": 1.09,
+        "Draw": 9.0
       },
       "Betsson": {
-        "Athletic Bilbao": 12.5,
-        "Barcelona": 1.25,
-        "Draw": 5.7
+        "Athletic Bilbao": 32.0,
+        "Barcelona": 1.09,
+        "Draw": 8.2
       },
       "Nordic Bet": {
-        "Athletic Bilbao": 12.5,
-        "Barcelona": 1.25,
-        "Draw": 5.7
+        "Athletic Bilbao": 32.0,
+        "Barcelona": 1.09,
+        "Draw": 8.2
       },
       "Matchbook": {
-        "Athletic Bilbao": 14.0,
-        "Barcelona": 1.24,
-        "Draw": 7.6
+        "Athletic Bilbao": 46.0,
+        "Barcelona": 1.11,
+        "Draw": 10.0
       },
       "Coolbet": {
-        "Athletic Bilbao": 12.2,
-        "Barcelona": 1.24,
-        "Draw": 6.9
+        "Athletic Bilbao": 35.0,
+        "Barcelona": 1.11,
+        "Draw": 9.0
       }
     },
     "b3f57fa395ae6289e1bba58e01d36612:h2h": {
-      "Pinnacle": {
-        "Fulham": 1.17,
-        "Wimbledon": 15.03,
-        "Draw": 7.85
-      },
-      "Winamax (DE)": {
-        "Fulham": 1.14,
-        "Wimbledon": 11.5,
-        "Draw": 7.5
-      },
-      "Winamax (FR)": {
-        "Fulham": 1.13,
-        "Wimbledon": 11.0,
-        "Draw": 7.25
-      },
-      "1xBet": {
-        "Fulham": 1.18,
-        "Wimbledon": 17.0,
-        "Draw": 7.7
-      },
-      "Marathon Bet": {
-        "Fulham": 1.17,
-        "Wimbledon": 17.75,
-        "Draw": 7.7
-      },
-      "Tipico": {
-        "Fulham": 1.11,
-        "Wimbledon": 16.0,
-        "Draw": 8.0
-      },
-      "LeoVegas (SE)": {
-        "Fulham": 1.14,
-        "Wimbledon": 15.0,
-        "Draw": 7.5
-      },
-      "PMU (FR)": {
-        "Fulham": 1.11,
-        "Wimbledon": 14.0,
-        "Draw": 7.0
-      },
-      "Unibet (NL)": {
-        "Fulham": 1.14,
-        "Wimbledon": 16.0,
-        "Draw": 7.5
-      },
-      "Unibet (SE)": {
-        "Fulham": 1.14,
-        "Wimbledon": 16.0,
-        "Draw": 7.5
-      },
       "888sport": {
-        "Fulham": 1.18,
-        "Wimbledon": 13.0,
-        "Draw": 6.0
-      },
-      "William Hill": {
-        "Fulham": 1.2,
-        "Wimbledon": 13.0,
-        "Draw": 6.0
+        "Fulham": 1.0,
+        "Wimbledon": 151.0,
+        "Draw": 56.0
       },
       "Betfair": {
-        "Fulham": 1.19,
-        "Wimbledon": 19.0,
-        "Draw": 8.8
-      },
-      "Coolbet": {
-        "Fulham": 1.17,
-        "Wimbledon": 15.0,
-        "Draw": 7.25
-      },
-      "BetOnline.ag": {
-        "Fulham": 1.17,
-        "Wimbledon": 16.5,
-        "Draw": 7.55
-      },
-      "Matchbook": {
-        "Fulham": 1.19,
-        "Wimbledon": 19.0,
-        "Draw": 8.8
+        "Fulham": 1.01,
+        "Wimbledon": 90.0,
+        "Draw": 70.0
       },
       "Nordic Bet": {
-        "Fulham": 1.17,
-        "Wimbledon": 16.0,
-        "Draw": 5.7
+        "Fulham": 1.0,
+        "Wimbledon": 41.0,
+        "Draw": 19.0
       },
       "Betsson": {
-        "Fulham": 1.17,
-        "Wimbledon": 16.0,
-        "Draw": 5.7
+        "Fulham": 1.0,
+        "Wimbledon": 41.0,
+        "Draw": 19.0
       }
     }
   },
