@@ -1,276 +1,401 @@
 {
   "snapshots": {
-    "c2625164acb855f4cba52cd929eebbf9:h2h": {
-      "Winamax (FR)": {
-        "Coquimbo Unido": 1.26,
-        "Universidad Católica (CHI)": 16.0,
-        "Draw": 4.1
+    "0b765da573acccbad3b07923f279c567:h2h": {
+      "Unibet (NL)": {
+        "CA Osasuna": 4.25,
+        "Celta Vigo": 2.0,
+        "Draw": 3.4
       },
-      "Coolbet": {
-        "Coquimbo Unido": 1.29,
-        "Universidad Católica (CHI)": 20.0,
-        "Draw": 4.5
+      "PMU (FR)": {
+        "CA Osasuna": 4.0,
+        "Celta Vigo": 1.93,
+        "Draw": 3.25
       },
-      "Winamax (DE)": {
-        "Coquimbo Unido": 1.25,
-        "Universidad Católica (CHI)": 17.0,
-        "Draw": 4.3
+      "Unibet (SE)": {
+        "CA Osasuna": 4.25,
+        "Celta Vigo": 2.0,
+        "Draw": 3.4
+      },
+      "LeoVegas (SE)": {
+        "CA Osasuna": 3.95,
+        "Celta Vigo": 1.92,
+        "Draw": 3.2
+      },
+      "Unibet (FR)": {
+        "CA Osasuna": 4.0,
+        "Celta Vigo": 1.95,
+        "Draw": 3.2
+      },
+      "Betclic (FR)": {
+        "CA Osasuna": 4.1,
+        "Celta Vigo": 1.98,
+        "Draw": 3.32
+      },
+      "Codere (IT)": {
+        "CA Osasuna": 4.1,
+        "Celta Vigo": 2.0,
+        "Draw": 3.3
+      },
+      "1xBet": {
+        "CA Osasuna": 4.21,
+        "Celta Vigo": 2.05,
+        "Draw": 3.45
       },
       "Betfair": {
-        "Coquimbo Unido": 1.3,
-        "Universidad Católica (CHI)": 23.0,
-        "Draw": 5.0
+        "CA Osasuna": 4.4,
+        "Celta Vigo": 2.04,
+        "Draw": 3.45
       },
       "Tipico": {
-        "Coquimbo Unido": 1.2,
-        "Universidad Católica (CHI)": 16.0,
-        "Draw": 4.7
+        "CA Osasuna": 4.2,
+        "Celta Vigo": 1.93,
+        "Draw": 3.3
       },
-      "888sport": {
-        "Coquimbo Unido": 1.29,
-        "Universidad Católica (CHI)": 13.0,
-        "Draw": 4.0
+      "William Hill": {
+        "CA Osasuna": 4.0,
+        "Celta Vigo": 1.95,
+        "Draw": 3.25
       },
-      "Betsson": {
-        "Coquimbo Unido": 1.31,
-        "Universidad Católica (CHI)": 14.0,
-        "Draw": 4.1
+      "Winamax (FR)": {
+        "CA Osasuna": 3.85,
+        "Celta Vigo": 1.94,
+        "Draw": 3.3
       },
-      "Nordic Bet": {
-        "Coquimbo Unido": 1.31,
-        "Universidad Católica (CHI)": 14.0,
-        "Draw": 4.1
+      "Winamax (DE)": {
+        "CA Osasuna": 3.9,
+        "Celta Vigo": 1.96,
+        "Draw": 3.35
       },
-      "Unibet (SE)": {
-        "Coquimbo Unido": 1.25,
-        "Universidad Católica (CHI)": 15.0,
-        "Draw": 4.3
+      "BetOnline.ag": {
+        "CA Osasuna": 4.25,
+        "Celta Vigo": 1.99,
+        "Draw": 3.36
       },
-      "LeoVegas (SE)": {
-        "Coquimbo Unido": 1.18,
-        "Universidad Católica (CHI)": 15.0,
-        "Draw": 4.1
+      "Marathon Bet": {
+        "CA Osasuna": 4.15,
+        "Celta Vigo": 2.02,
+        "Draw": 3.4
       },
       "Pinnacle": {
-        "Coquimbo Unido": 1.37,
-        "Universidad Católica (CHI)": 11.6,
-        "Draw": 4.03
+        "CA Osasuna": 4.25,
+        "Celta Vigo": 2.0,
+        "Draw": 3.33
       },
       "Matchbook": {
-        "Coquimbo Unido": 1.29,
-        "Universidad Católica (CHI)": 24.0,
-        "Draw": 5.1
-      }
-    },
-    "a757053929c339a085eea0fc463f85ce:h2h": {
-      "LeoVegas (SE)": {
-        "Austin FC": 4.9,
-        "Toluca": 1.68,
-        "Draw": 3.65
+        "CA Osasuna": 4.4,
+        "Celta Vigo": 2.04,
+        "Draw": 3.45
       },
-      "Unibet (SE)": {
-        "Austin FC": 4.9,
-        "Toluca": 1.68,
-        "Draw": 3.65
-      },
-      "Unibet (NL)": {
-        "Austin FC": 4.9,
-        "Toluca": 1.68,
-        "Draw": 3.65
-      },
-      "PMU (FR)": {
-        "Austin FC": 4.9,
-        "Toluca": 1.68,
-        "Draw": 3.65
-      },
-      "Nordic Bet": {
-        "Austin FC": 4.6,
-        "Toluca": 1.7,
-        "Draw": 3.6
-      },
-      "Betsson": {
-        "Austin FC": 4.3,
-        "Toluca": 1.75,
-        "Draw": 3.55
-      },
-      "Winamax (DE)": {
-        "Austin FC": 4.4,
-        "Toluca": 1.62,
-        "Draw": 3.95
-      },
-      "Winamax (FR)": {
-        "Austin FC": 4.3,
-        "Toluca": 1.6,
-        "Draw": 3.85
+      "Everygame": {
+        "CA Osasuna": 4.1,
+        "Celta Vigo": 1.95,
+        "Draw": 3.2
       },
       "Coolbet": {
-        "Austin FC": 4.5,
-        "Toluca": 1.75,
-        "Draw": 3.85
+        "CA Osasuna": 4.4,
+        "Celta Vigo": 1.98,
+        "Draw": 3.35
       },
-      "888sport": {
-        "Austin FC": 4.0,
-        "Toluca": 1.73,
-        "Draw": 3.3
+      "Betsson": {
+        "CA Osasuna": 4.1,
+        "Celta Vigo": 1.98,
+        "Draw": 3.2
       },
-      "William Hill": {
-        "Austin FC": 4.0,
-        "Toluca": 1.73,
-        "Draw": 3.3
-      },
-      "Pinnacle": {
-        "Austin FC": 4.5,
-        "Toluca": 1.8,
-        "Draw": 3.8
-      },
-      "1xBet": {
-        "Austin FC": 4.51,
-        "Toluca": 1.75,
-        "Draw": 3.65
-      },
-      "Betfair": {
-        "Austin FC": 4.7,
-        "Toluca": 1.82,
-        "Draw": 3.95
-      },
-      "BetOnline.ag": {
-        "Austin FC": 4.53,
-        "Toluca": 1.77,
-        "Draw": 3.8
+      "Nordic Bet": {
+        "CA Osasuna": 4.1,
+        "Celta Vigo": 1.98,
+        "Draw": 3.2
       }
     },
-    "206c1010ef31bc1a62af7bf318d7f7aa:h2h": {
+    "0ff5ed10a1f01dc662f737af7c0cf53c:h2h": {
+      "Pinnacle": {
+        "Chelsea": 1.14,
+        "Luton": 17.44,
+        "Draw": 8.92
+      },
+      "Winamax (FR)": {
+        "Chelsea": 1.1,
+        "Luton": 12.0,
+        "Draw": 7.75
+      },
+      "Winamax (DE)": {
+        "Chelsea": 1.11,
+        "Luton": 12.5,
+        "Draw": 8.0
+      },
+      "LeoVegas (SE)": {
+        "Chelsea": 1.12,
+        "Luton": 16.0,
+        "Draw": 8.0
+      },
+      "PMU (FR)": {
+        "Chelsea": 1.08,
+        "Luton": 15.0,
+        "Draw": 8.0
+      },
+      "Unibet (NL)": {
+        "Chelsea": 1.12,
+        "Luton": 17.0,
+        "Draw": 8.5
+      },
+      "Unibet (SE)": {
+        "Chelsea": 1.12,
+        "Luton": 17.0,
+        "Draw": 8.5
+      },
+      "1xBet": {
+        "Chelsea": 1.15,
+        "Luton": 18.0,
+        "Draw": 8.9
+      },
+      "Tipico": {
+        "Chelsea": 1.09,
+        "Luton": 17.0,
+        "Draw": 9.0
+      },
+      "Marathon Bet": {
+        "Chelsea": 1.15,
+        "Luton": 18.25,
+        "Draw": 8.9
+      },
+      "Betfair": {
+        "Chelsea": 1.16,
+        "Luton": 21.0,
+        "Draw": 10.0
+      },
+      "888sport": {
+        "Chelsea": 1.12,
+        "Luton": 15.0,
+        "Draw": 7.5
+      },
+      "William Hill": {
+        "Chelsea": 1.12,
+        "Luton": 17.0,
+        "Draw": 8.0
+      },
+      "Nordic Bet": {
+        "Chelsea": 1.14,
+        "Luton": 20.0,
+        "Draw": 6.1
+      },
+      "BetOnline.ag": {
+        "Chelsea": 1.14,
+        "Luton": 17.0,
+        "Draw": 8.6
+      },
+      "Coolbet": {
+        "Chelsea": 1.15,
+        "Luton": 16.0,
+        "Draw": 8.0
+      },
+      "Matchbook": {
+        "Chelsea": 1.16,
+        "Luton": 22.0,
+        "Draw": 9.8
+      },
+      "Betsson": {
+        "Chelsea": 1.14,
+        "Luton": 20.0,
+        "Draw": 6.1
+      }
+    },
+    "4e67f40bc51c915154f04559a7ab692c:h2h": {
+      "Winamax (DE)": {
+        "Athletic Bilbao": 9.5,
+        "Barcelona": 1.21,
+        "Draw": 7.25
+      },
+      "Winamax (FR)": {
+        "Athletic Bilbao": 9.5,
+        "Barcelona": 1.21,
+        "Draw": 7.0
+      },
+      "Betfair": {
+        "Athletic Bilbao": 14.0,
+        "Barcelona": 1.24,
+        "Draw": 7.6
+      },
       "Codere (IT)": {
-        "Independiente Santa Fe": 11.0,
-        "River Plate": 1.29,
-        "Draw": 4.8
+        "Athletic Bilbao": 11.0,
+        "Barcelona": 1.23,
+        "Draw": 7.0
       },
-      "Coolbet": {
-        "Independiente Santa Fe": 10.5,
-        "River Plate": 1.34,
-        "Draw": 4.7
+      "Unibet (FR)": {
+        "Athletic Bilbao": 13.0,
+        "Barcelona": 1.22,
+        "Draw": 7.1
       },
-      "Unibet (NL)": {
-        "Independiente Santa Fe": 10.5,
-        "River Plate": 1.33,
-        "Draw": 4.6
+      "Betclic (FR)": {
+        "Athletic Bilbao": 12.0,
+        "Barcelona": 1.23,
+        "Draw": 7.0
       },
-      "PMU (FR)": {
-        "Independiente Santa Fe": 9.5,
-        "River Plate": 1.28,
-        "Draw": 4.25
-      },
-      "LeoVegas (SE)": {
-        "Independiente Santa Fe": 9.5,
-        "River Plate": 1.28,
-        "Draw": 4.25
+      "Tipico": {
+        "Athletic Bilbao": 12.0,
+        "Barcelona": 1.2,
+        "Draw": 7.0
       },
       "1xBet": {
-        "Independiente Santa Fe": 13.7,
-        "River Plate": 1.3,
-        "Draw": 5.66
+        "Athletic Bilbao": 12.6,
+        "Barcelona": 1.26,
+        "Draw": 7.01
       },
-      "888sport": {
-        "Independiente Santa Fe": 11.0,
-        "River Plate": 1.25,
-        "Draw": 4.8
-      },
-      "William Hill": {
-        "Independiente Santa Fe": 11.0,
-        "River Plate": 1.25,
-        "Draw": 4.8
-      },
-      "Nordic Bet": {
-        "Independiente Santa Fe": 11.5,
-        "River Plate": 1.28,
-        "Draw": 4.3
+      "Marathon Bet": {
+        "Athletic Bilbao": 12.5,
+        "Barcelona": 1.24,
+        "Draw": 6.9
       },
       "Pinnacle": {
-        "Independiente Santa Fe": 11.1,
-        "River Plate": 1.32,
-        "Draw": 4.82
+        "Athletic Bilbao": 12.05,
+        "Barcelona": 1.23,
+        "Draw": 6.88
       },
-      "Betfair": {
-        "Independiente Santa Fe": 14.5,
-        "River Plate": 1.32,
-        "Draw": 5.3
-      }
-    },
-    "0f0a74e0b62562ad71254c1c4408e946:h2h": {
-      "LeoVegas (SE)": {
-        "América": 1.73,
-        "Columbus Crew SC": 4.7,
-        "Draw": 3.65
-      },
-      "Unibet (SE)": {
-        "América": 1.73,
-        "Columbus Crew SC": 4.7,
-        "Draw": 3.65
-      },
-      "Unibet (NL)": {
-        "América": 1.73,
-        "Columbus Crew SC": 4.7,
-        "Draw": 3.65
-      },
-      "PMU (FR)": {
-        "América": 1.73,
-        "Columbus Crew SC": 4.7,
-        "Draw": 3.65
-      },
-      "Nordic Bet": {
-        "América": 1.75,
-        "Columbus Crew SC": 4.4,
-        "Draw": 3.5
-      },
-      "Betsson": {
-        "América": 1.75,
-        "Columbus Crew SC": 4.4,
-        "Draw": 3.5
-      },
-      "Winamax (DE)": {
-        "América": 1.72,
-        "Columbus Crew SC": 4.1,
-        "Draw": 3.6
-      },
-      "Winamax (FR)": {
-        "América": 1.7,
-        "Columbus Crew SC": 4.0,
-        "Draw": 3.5
-      },
-      "Coolbet": {
-        "América": 1.85,
-        "Columbus Crew SC": 4.5,
-        "Draw": 3.5
-      },
-      "888sport": {
-        "América": 1.73,
-        "Columbus Crew SC": 3.9,
-        "Draw": 3.5
-      },
-      "William Hill": {
-        "América": 1.73,
-        "Columbus Crew SC": 3.9,
-        "Draw": 3.5
-      },
-      "1xBet": {
-        "América": 1.78,
-        "Columbus Crew SC": 4.57,
-        "Draw": 3.48
-      },
-      "Betfair": {
-        "América": 1.86,
-        "Columbus Crew SC": 4.8,
-        "Draw": 3.8
-      },
-      "Pinnacle": {
-        "América": 1.8,
-        "Columbus Crew SC": 4.76,
-        "Draw": 3.62
+      "Everygame": {
+        "Athletic Bilbao": 12.0,
+        "Barcelona": 1.22,
+        "Draw": 6.75
       },
       "BetOnline.ag": {
-        "América": 1.81,
-        "Columbus Crew SC": 4.65,
-        "Draw": 3.55
+        "Athletic Bilbao": 13.0,
+        "Barcelona": 1.23,
+        "Draw": 7.0
+      },
+      "PMU (FR)": {
+        "Athletic Bilbao": 12.5,
+        "Barcelona": 1.19,
+        "Draw": 6.75
+      },
+      "LeoVegas (SE)": {
+        "Athletic Bilbao": 12.0,
+        "Barcelona": 1.18,
+        "Draw": 6.75
+      },
+      "Unibet (SE)": {
+        "Athletic Bilbao": 14.0,
+        "Barcelona": 1.21,
+        "Draw": 7.5
+      },
+      "Unibet (NL)": {
+        "Athletic Bilbao": 15.0,
+        "Barcelona": 1.2,
+        "Draw": 7.5
+      },
+      "William Hill": {
+        "Athletic Bilbao": 11.0,
+        "Barcelona": 1.22,
+        "Draw": 6.0
+      },
+      "Betsson": {
+        "Athletic Bilbao": 12.5,
+        "Barcelona": 1.25,
+        "Draw": 5.7
+      },
+      "Nordic Bet": {
+        "Athletic Bilbao": 12.5,
+        "Barcelona": 1.25,
+        "Draw": 5.7
+      },
+      "Matchbook": {
+        "Athletic Bilbao": 14.0,
+        "Barcelona": 1.24,
+        "Draw": 7.6
+      },
+      "Coolbet": {
+        "Athletic Bilbao": 12.2,
+        "Barcelona": 1.24,
+        "Draw": 6.9
+      }
+    },
+    "b3f57fa395ae6289e1bba58e01d36612:h2h": {
+      "Pinnacle": {
+        "Fulham": 1.17,
+        "Wimbledon": 15.03,
+        "Draw": 7.85
+      },
+      "Winamax (DE)": {
+        "Fulham": 1.14,
+        "Wimbledon": 11.5,
+        "Draw": 7.5
+      },
+      "Winamax (FR)": {
+        "Fulham": 1.13,
+        "Wimbledon": 11.0,
+        "Draw": 7.25
+      },
+      "1xBet": {
+        "Fulham": 1.18,
+        "Wimbledon": 17.0,
+        "Draw": 7.7
+      },
+      "Marathon Bet": {
+        "Fulham": 1.17,
+        "Wimbledon": 17.75,
+        "Draw": 7.7
+      },
+      "Tipico": {
+        "Fulham": 1.11,
+        "Wimbledon": 16.0,
+        "Draw": 8.0
+      },
+      "LeoVegas (SE)": {
+        "Fulham": 1.14,
+        "Wimbledon": 15.0,
+        "Draw": 7.5
+      },
+      "PMU (FR)": {
+        "Fulham": 1.11,
+        "Wimbledon": 14.0,
+        "Draw": 7.0
+      },
+      "Unibet (NL)": {
+        "Fulham": 1.14,
+        "Wimbledon": 16.0,
+        "Draw": 7.5
+      },
+      "Unibet (SE)": {
+        "Fulham": 1.14,
+        "Wimbledon": 16.0,
+        "Draw": 7.5
+      },
+      "888sport": {
+        "Fulham": 1.18,
+        "Wimbledon": 13.0,
+        "Draw": 6.0
+      },
+      "William Hill": {
+        "Fulham": 1.2,
+        "Wimbledon": 13.0,
+        "Draw": 6.0
+      },
+      "Betfair": {
+        "Fulham": 1.19,
+        "Wimbledon": 19.0,
+        "Draw": 8.8
+      },
+      "Coolbet": {
+        "Fulham": 1.17,
+        "Wimbledon": 15.0,
+        "Draw": 7.25
+      },
+      "BetOnline.ag": {
+        "Fulham": 1.17,
+        "Wimbledon": 16.5,
+        "Draw": 7.55
+      },
+      "Matchbook": {
+        "Fulham": 1.19,
+        "Wimbledon": 19.0,
+        "Draw": 8.8
+      },
+      "Nordic Bet": {
+        "Fulham": 1.17,
+        "Wimbledon": 16.0,
+        "Draw": 5.7
+      },
+      "Betsson": {
+        "Fulham": 1.17,
+        "Wimbledon": 16.0,
+        "Draw": 5.7
       }
     }
   },
@@ -10387,26 +10512,298 @@
       "confidence": 24,
       "alert_type": "value",
       "alerted_at": "2026-08-26T23:25:39.501287+00:00"
+    },
+    {
+      "state_key": "0ff5ed10a1f01dc662f737af7c0cf53c:h2h",
+      "event_id": "0ff5ed10a1f01dc662f737af7c0cf53c",
+      "sport_key": "soccer",
+      "competition": "EFL Cup",
+      "home_team": "Chelsea",
+      "away_team": "Luton",
+      "commence_time": "2026-08-27T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Luton",
+      "odds_at_alert": 21.0,
+      "stake_pct": 5.0,
+      "confidence": 15,
+      "alert_type": "value",
+      "alerted_at": "2026-08-27T09:34:29.945956+00:00"
+    },
+    {
+      "state_key": "0ff5ed10a1f01dc662f737af7c0cf53c:h2h",
+      "event_id": "0ff5ed10a1f01dc662f737af7c0cf53c",
+      "sport_key": "soccer",
+      "competition": "EFL Cup",
+      "home_team": "Chelsea",
+      "away_team": "Luton",
+      "commence_time": "2026-08-27T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 10.0,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-08-27T09:34:30.431290+00:00"
+    },
+    {
+      "state_key": "0ff5ed10a1f01dc662f737af7c0cf53c:h2h",
+      "event_id": "0ff5ed10a1f01dc662f737af7c0cf53c",
+      "sport_key": "soccer",
+      "competition": "EFL Cup",
+      "home_team": "Chelsea",
+      "away_team": "Luton",
+      "commence_time": "2026-08-27T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Luton",
+      "odds_at_alert": 20.0,
+      "stake_pct": 2.0,
+      "confidence": 10,
+      "alert_type": "value",
+      "alerted_at": "2026-08-27T09:34:30.939282+00:00"
+    },
+    {
+      "state_key": "0ff5ed10a1f01dc662f737af7c0cf53c:h2h",
+      "event_id": "0ff5ed10a1f01dc662f737af7c0cf53c",
+      "sport_key": "soccer",
+      "competition": "EFL Cup",
+      "home_team": "Chelsea",
+      "away_team": "Luton",
+      "commence_time": "2026-08-27T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Luton",
+      "odds_at_alert": 22.0,
+      "stake_pct": 5.0,
+      "confidence": 21,
+      "alert_type": "value",
+      "alerted_at": "2026-08-27T09:34:31.420964+00:00"
+    },
+    {
+      "state_key": "0ff5ed10a1f01dc662f737af7c0cf53c:h2h",
+      "event_id": "0ff5ed10a1f01dc662f737af7c0cf53c",
+      "sport_key": "soccer",
+      "competition": "EFL Cup",
+      "home_team": "Chelsea",
+      "away_team": "Luton",
+      "commence_time": "2026-08-27T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Luton",
+      "odds_at_alert": 20.0,
+      "stake_pct": 2.0,
+      "confidence": 10,
+      "alert_type": "value",
+      "alerted_at": "2026-08-27T09:34:31.904698+00:00"
+    },
+    {
+      "state_key": "4e67f40bc51c915154f04559a7ab692c:h2h",
+      "event_id": "4e67f40bc51c915154f04559a7ab692c",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Barcelona",
+      "away_team": "Athletic Bilbao",
+      "commence_time": "2026-08-27T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Athletic Bilbao",
+      "odds_at_alert": 14.0,
+      "stake_pct": 3.0,
+      "confidence": 12,
+      "alert_type": "value",
+      "alerted_at": "2026-08-27T09:34:32.409845+00:00"
+    },
+    {
+      "state_key": "4e67f40bc51c915154f04559a7ab692c:h2h",
+      "event_id": "4e67f40bc51c915154f04559a7ab692c",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Barcelona",
+      "away_team": "Athletic Bilbao",
+      "commence_time": "2026-08-27T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 7.6,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-08-27T09:34:32.896468+00:00"
+    },
+    {
+      "state_key": "4e67f40bc51c915154f04559a7ab692c:h2h",
+      "event_id": "4e67f40bc51c915154f04559a7ab692c",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Barcelona",
+      "away_team": "Athletic Bilbao",
+      "commence_time": "2026-08-27T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Athletic Bilbao",
+      "odds_at_alert": 14.0,
+      "stake_pct": 3.0,
+      "confidence": 12,
+      "alert_type": "value",
+      "alerted_at": "2026-08-27T09:34:33.380087+00:00"
+    },
+    {
+      "state_key": "4e67f40bc51c915154f04559a7ab692c:h2h",
+      "event_id": "4e67f40bc51c915154f04559a7ab692c",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Barcelona",
+      "away_team": "Athletic Bilbao",
+      "commence_time": "2026-08-27T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Athletic Bilbao",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 20,
+      "alert_type": "value",
+      "alerted_at": "2026-08-27T09:34:33.848958+00:00"
+    },
+    {
+      "state_key": "4e67f40bc51c915154f04559a7ab692c:h2h",
+      "event_id": "4e67f40bc51c915154f04559a7ab692c",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Barcelona",
+      "away_team": "Athletic Bilbao",
+      "commence_time": "2026-08-27T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Athletic Bilbao",
+      "odds_at_alert": 14.0,
+      "stake_pct": 3.0,
+      "confidence": 12,
+      "alert_type": "value",
+      "alerted_at": "2026-08-27T09:34:34.377078+00:00"
+    },
+    {
+      "state_key": "4e67f40bc51c915154f04559a7ab692c:h2h",
+      "event_id": "4e67f40bc51c915154f04559a7ab692c",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Barcelona",
+      "away_team": "Athletic Bilbao",
+      "commence_time": "2026-08-27T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 7.6,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-08-27T09:34:34.864126+00:00"
+    },
+    {
+      "state_key": "b3f57fa395ae6289e1bba58e01d36612:h2h",
+      "event_id": "b3f57fa395ae6289e1bba58e01d36612",
+      "sport_key": "soccer",
+      "competition": "EFL Cup",
+      "home_team": "Fulham",
+      "away_team": "Wimbledon",
+      "commence_time": "2026-08-27T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Wimbledon",
+      "odds_at_alert": 17.0,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-08-27T09:34:35.382886+00:00"
+    },
+    {
+      "state_key": "b3f57fa395ae6289e1bba58e01d36612:h2h",
+      "event_id": "b3f57fa395ae6289e1bba58e01d36612",
+      "sport_key": "soccer",
+      "competition": "EFL Cup",
+      "home_team": "Fulham",
+      "away_team": "Wimbledon",
+      "commence_time": "2026-08-27T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Wimbledon",
+      "odds_at_alert": 17.75,
+      "stake_pct": 3.0,
+      "confidence": 13,
+      "alert_type": "value",
+      "alerted_at": "2026-08-27T09:34:35.889806+00:00"
+    },
+    {
+      "state_key": "b3f57fa395ae6289e1bba58e01d36612:h2h",
+      "event_id": "b3f57fa395ae6289e1bba58e01d36612",
+      "sport_key": "soccer",
+      "competition": "EFL Cup",
+      "home_team": "Fulham",
+      "away_team": "Wimbledon",
+      "commence_time": "2026-08-27T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Wimbledon",
+      "odds_at_alert": 19.0,
+      "stake_pct": 5.0,
+      "confidence": 21,
+      "alert_type": "value",
+      "alerted_at": "2026-08-27T09:34:36.411793+00:00"
+    },
+    {
+      "state_key": "b3f57fa395ae6289e1bba58e01d36612:h2h",
+      "event_id": "b3f57fa395ae6289e1bba58e01d36612",
+      "sport_key": "soccer",
+      "competition": "EFL Cup",
+      "home_team": "Fulham",
+      "away_team": "Wimbledon",
+      "commence_time": "2026-08-27T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 8.8,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-08-27T09:34:36.895392+00:00"
+    },
+    {
+      "state_key": "b3f57fa395ae6289e1bba58e01d36612:h2h",
+      "event_id": "b3f57fa395ae6289e1bba58e01d36612",
+      "sport_key": "soccer",
+      "competition": "EFL Cup",
+      "home_team": "Fulham",
+      "away_team": "Wimbledon",
+      "commence_time": "2026-08-27T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Wimbledon",
+      "odds_at_alert": 19.0,
+      "stake_pct": 5.0,
+      "confidence": 21,
+      "alert_type": "value",
+      "alerted_at": "2026-08-27T09:34:37.390184+00:00"
+    },
+    {
+      "state_key": "b3f57fa395ae6289e1bba58e01d36612:h2h",
+      "event_id": "b3f57fa395ae6289e1bba58e01d36612",
+      "sport_key": "soccer",
+      "competition": "EFL Cup",
+      "home_team": "Fulham",
+      "away_team": "Wimbledon",
+      "commence_time": "2026-08-27T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 8.8,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-08-27T09:34:37.877125+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "206c1010ef31bc1a62af7bf318d7f7aa:h2h|1xBet|Draw",
-    "206c1010ef31bc1a62af7bf318d7f7aa:h2h|1xBet|Independiente Santa Fe",
-    "206c1010ef31bc1a62af7bf318d7f7aa:h2h|Betfair|Independiente Santa Fe",
-    "c2625164acb855f4cba52cd929eebbf9:h2h|888sport|Universidad Católica (CHI)",
-    "c2625164acb855f4cba52cd929eebbf9:h2h|Betfair|Draw",
-    "c2625164acb855f4cba52cd929eebbf9:h2h|Betfair|Universidad Católica (CHI)",
-    "c2625164acb855f4cba52cd929eebbf9:h2h|Betsson|Universidad Católica (CHI)",
-    "c2625164acb855f4cba52cd929eebbf9:h2h|Coolbet|Universidad Católica (CHI)",
-    "c2625164acb855f4cba52cd929eebbf9:h2h|LeoVegas (SE)|Universidad Católica (CHI)",
-    "c2625164acb855f4cba52cd929eebbf9:h2h|Matchbook|Draw",
-    "c2625164acb855f4cba52cd929eebbf9:h2h|Matchbook|Universidad Católica (CHI)",
-    "c2625164acb855f4cba52cd929eebbf9:h2h|Nordic Bet|Universidad Católica (CHI)",
-    "c2625164acb855f4cba52cd929eebbf9:h2h|Tipico|Draw",
-    "c2625164acb855f4cba52cd929eebbf9:h2h|Tipico|Universidad Católica (CHI)",
-    "c2625164acb855f4cba52cd929eebbf9:h2h|Unibet (SE)|Universidad Católica (CHI)",
-    "c2625164acb855f4cba52cd929eebbf9:h2h|Winamax (DE)|Universidad Católica (CHI)",
-    "c2625164acb855f4cba52cd929eebbf9:h2h|Winamax (FR)|Universidad Católica (CHI)"
+    "0ff5ed10a1f01dc662f737af7c0cf53c:h2h|Betfair|Draw",
+    "0ff5ed10a1f01dc662f737af7c0cf53c:h2h|Betfair|Luton",
+    "0ff5ed10a1f01dc662f737af7c0cf53c:h2h|Betsson|Luton",
+    "0ff5ed10a1f01dc662f737af7c0cf53c:h2h|Matchbook|Luton",
+    "0ff5ed10a1f01dc662f737af7c0cf53c:h2h|Nordic Bet|Luton",
+    "4e67f40bc51c915154f04559a7ab692c:h2h|Betfair|Athletic Bilbao",
+    "4e67f40bc51c915154f04559a7ab692c:h2h|Betfair|Draw",
+    "4e67f40bc51c915154f04559a7ab692c:h2h|Matchbook|Athletic Bilbao",
+    "4e67f40bc51c915154f04559a7ab692c:h2h|Matchbook|Draw",
+    "4e67f40bc51c915154f04559a7ab692c:h2h|Unibet (NL)|Athletic Bilbao",
+    "4e67f40bc51c915154f04559a7ab692c:h2h|Unibet (SE)|Athletic Bilbao",
+    "b3f57fa395ae6289e1bba58e01d36612:h2h|1xBet|Wimbledon",
+    "b3f57fa395ae6289e1bba58e01d36612:h2h|Betfair|Draw",
+    "b3f57fa395ae6289e1bba58e01d36612:h2h|Betfair|Wimbledon",
+    "b3f57fa395ae6289e1bba58e01d36612:h2h|Marathon Bet|Wimbledon",
+    "b3f57fa395ae6289e1bba58e01d36612:h2h|Matchbook|Draw",
+    "b3f57fa395ae6289e1bba58e01d36612:h2h|Matchbook|Wimbledon"
   ]
 }
