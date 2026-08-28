@@ -1,171 +1,331 @@
 {
   "snapshots": {
-    "0b765da573acccbad3b07923f279c567:h2h": {
-      "Unibet (NL)": {
-        "CA Osasuna": 1.05,
-        "Celta Vigo": 141.0,
-        "Draw": 11.5
-      },
+    "8c290ae762cb9035f78842344d6a3930:h2h": {
       "Unibet (SE)": {
-        "CA Osasuna": 1.04,
-        "Celta Vigo": 151.0,
-        "Draw": 12.5
-      },
-      "LeoVegas (SE)": {
-        "CA Osasuna": 1.02,
-        "Celta Vigo": 91.0,
-        "Draw": 11.5
-      },
-      "Betclic (FR)": {
-        "CA Osasuna": 1.05,
-        "Celta Vigo": 80.0,
-        "Draw": 8.5
-      },
-      "Betfair": {
-        "CA Osasuna": 1.09,
-        "Celta Vigo": 75.0,
-        "Draw": 11.0
-      },
-      "Tipico": {
-        "CA Osasuna": 1.03,
-        "Celta Vigo": 120.0,
-        "Draw": 9.0
-      },
-      "Winamax (FR)": {
-        "CA Osasuna": 1.07,
-        "Celta Vigo": 100.0,
-        "Draw": 8.5
-      },
-      "Winamax (DE)": {
-        "CA Osasuna": 1.06,
-        "Celta Vigo": 100.0,
-        "Draw": 9.5
-      },
-      "Matchbook": {
-        "CA Osasuna": 1.09,
-        "Celta Vigo": 100.0,
-        "Draw": 10.0
-      },
-      "Coolbet": {
-        "CA Osasuna": 1.08,
-        "Celta Vigo": 125.0,
-        "Draw": 10.0
-      },
-      "Betsson": {
-        "CA Osasuna": 1.05,
-        "Celta Vigo": 120.0,
-        "Draw": 9.6
-      },
-      "Nordic Bet": {
-        "CA Osasuna": 1.05,
-        "Celta Vigo": 120.0,
-        "Draw": 9.6
-      }
-    },
-    "0ff5ed10a1f01dc662f737af7c0cf53c:h2h": {
-      "Betfair": {
-        "Chelsea": 1.06,
-        "Luton": 120.0,
-        "Draw": 17.0
-      },
-      "Nordic Bet": {
-        "Chelsea": 1.0,
-        "Luton": 26.0,
-        "Draw": 26.0
-      },
-      "Betsson": {
-        "Chelsea": 1.0,
-        "Luton": 26.0,
-        "Draw": 26.0
-      }
-    },
-    "4e67f40bc51c915154f04559a7ab692c:h2h": {
-      "Winamax (DE)": {
-        "Athletic Bilbao": 32.0,
-        "Barcelona": 1.09,
-        "Draw": 8.5
-      },
-      "Winamax (FR)": {
-        "Athletic Bilbao": 32.0,
-        "Barcelona": 1.1,
-        "Draw": 8.0
-      },
-      "Betfair": {
-        "Athletic Bilbao": 48.0,
-        "Barcelona": 1.12,
-        "Draw": 11.0
-      },
-      "Betclic (FR)": {
-        "Athletic Bilbao": 27.0,
-        "Barcelona": 1.09,
-        "Draw": 7.75
-      },
-      "Tipico": {
-        "Athletic Bilbao": 40.0,
-        "Barcelona": 1.05,
-        "Draw": 9.0
-      },
-      "PMU (FR)": {
-        "Athletic Bilbao": 26.0,
-        "Barcelona": 1.04,
-        "Draw": 9.0
-      },
-      "LeoVegas (SE)": {
-        "Athletic Bilbao": 29.0,
-        "Barcelona": 1.06,
-        "Draw": 9.0
-      },
-      "Unibet (SE)": {
-        "Athletic Bilbao": 29.0,
-        "Barcelona": 1.08,
-        "Draw": 9.5
+        "Beijing FC": 2.06,
+        "Dalian Yingbo": 3.15,
+        "Draw": 3.7
       },
       "Unibet (NL)": {
-        "Athletic Bilbao": 26.0,
-        "Barcelona": 1.09,
-        "Draw": 9.0
+        "Beijing FC": 2.06,
+        "Dalian Yingbo": 3.15,
+        "Draw": 3.7
       },
-      "Betsson": {
-        "Athletic Bilbao": 32.0,
-        "Barcelona": 1.09,
-        "Draw": 8.2
-      },
-      "Nordic Bet": {
-        "Athletic Bilbao": 32.0,
-        "Barcelona": 1.09,
-        "Draw": 8.2
-      },
-      "Matchbook": {
-        "Athletic Bilbao": 46.0,
-        "Barcelona": 1.11,
-        "Draw": 10.0
+      "LeoVegas (SE)": {
+        "Beijing FC": 1.96,
+        "Dalian Yingbo": 3.0,
+        "Draw": 3.55
       },
       "Coolbet": {
-        "Athletic Bilbao": 35.0,
-        "Barcelona": 1.11,
-        "Draw": 9.0
-      }
-    },
-    "b3f57fa395ae6289e1bba58e01d36612:h2h": {
+        "Beijing FC": 2.08,
+        "Dalian Yingbo": 3.0,
+        "Draw": 4.0
+      },
+      "BetOnline.ag": {
+        "Beijing FC": 2.14,
+        "Dalian Yingbo": 2.98,
+        "Draw": 4.0
+      },
+      "Unibet (FR)": {
+        "Beijing FC": 2.05,
+        "Dalian Yingbo": 2.85,
+        "Draw": 3.6
+      },
+      "Betsson": {
+        "Beijing FC": 2.1,
+        "Dalian Yingbo": 2.95,
+        "Draw": 3.6
+      },
+      "Nordic Bet": {
+        "Beijing FC": 2.1,
+        "Dalian Yingbo": 2.95,
+        "Draw": 3.6
+      },
+      "Codere (IT)": {
+        "Beijing FC": 2.1,
+        "Dalian Yingbo": 2.9,
+        "Draw": 3.7
+      },
+      "Pinnacle": {
+        "Beijing FC": 2.13,
+        "Dalian Yingbo": 3.04,
+        "Draw": 4.13
+      },
+      "Winamax (FR)": {
+        "Beijing FC": 2.0,
+        "Dalian Yingbo": 2.75,
+        "Draw": 3.65
+      },
+      "Winamax (DE)": {
+        "Beijing FC": 2.05,
+        "Dalian Yingbo": 2.8,
+        "Draw": 3.75
+      },
+      "1xBet": {
+        "Beijing FC": 2.13,
+        "Dalian Yingbo": 3.04,
+        "Draw": 4.0
+      },
+      "Marathon Bet": {
+        "Beijing FC": 2.07,
+        "Dalian Yingbo": 2.96,
+        "Draw": 3.88
+      },
+      "Tipico": {
+        "Beijing FC": 1.97,
+        "Dalian Yingbo": 3.1,
+        "Draw": 3.9
+      },
+      "GTbets": {
+        "Beijing FC": 2.13,
+        "Dalian Yingbo": 3.0,
+        "Draw": 3.87
+      },
       "888sport": {
-        "Fulham": 1.0,
-        "Wimbledon": 151.0,
-        "Draw": 56.0
+        "Beijing FC": 2.1,
+        "Dalian Yingbo": 2.9,
+        "Draw": 3.75
+      },
+      "William Hill": {
+        "Beijing FC": 2.1,
+        "Dalian Yingbo": 2.9,
+        "Draw": 3.75
       },
       "Betfair": {
-        "Fulham": 1.01,
-        "Wimbledon": 90.0,
-        "Draw": 70.0
+        "Beijing FC": 2.16,
+        "Dalian Yingbo": 3.15,
+        "Draw": 4.1
       },
-      "Nordic Bet": {
-        "Fulham": 1.0,
-        "Wimbledon": 41.0,
-        "Draw": 19.0
+      "Matchbook": {
+        "Beijing FC": 2.16,
+        "Dalian Yingbo": 3.25,
+        "Draw": 4.2
+      }
+    },
+    "45d3d91486c7d4d0c6434d24156b5835:h2h": {
+      "Coolbet": {
+        "Shandong Luneng Taishan FC": 4.4,
+        "Shanghai Shenhua FC": 1.6,
+        "Draw": 4.75
+      },
+      "BetOnline.ag": {
+        "Shandong Luneng Taishan FC": 4.5,
+        "Shanghai Shenhua FC": 1.62,
+        "Draw": 4.5
       },
       "Betsson": {
-        "Fulham": 1.0,
-        "Wimbledon": 41.0,
-        "Draw": 19.0
+        "Shandong Luneng Taishan FC": 4.2,
+        "Shanghai Shenhua FC": 1.58,
+        "Draw": 4.5
+      },
+      "Unibet (FR)": {
+        "Shandong Luneng Taishan FC": 4.1,
+        "Shanghai Shenhua FC": 1.55,
+        "Draw": 4.4
+      },
+      "Nordic Bet": {
+        "Shandong Luneng Taishan FC": 4.2,
+        "Shanghai Shenhua FC": 1.58,
+        "Draw": 4.5
+      },
+      "1xBet": {
+        "Shandong Luneng Taishan FC": 4.58,
+        "Shanghai Shenhua FC": 1.61,
+        "Draw": 4.84
+      },
+      "Pinnacle": {
+        "Shandong Luneng Taishan FC": 4.71,
+        "Shanghai Shenhua FC": 1.62,
+        "Draw": 4.7
+      },
+      "GTbets": {
+        "Shandong Luneng Taishan FC": 4.42,
+        "Shanghai Shenhua FC": 1.63,
+        "Draw": 4.61
+      },
+      "Marathon Bet": {
+        "Shandong Luneng Taishan FC": 4.45,
+        "Shanghai Shenhua FC": 1.56,
+        "Draw": 4.7
+      },
+      "Winamax (FR)": {
+        "Shandong Luneng Taishan FC": 3.95,
+        "Shanghai Shenhua FC": 1.56,
+        "Draw": 4.5
+      },
+      "Winamax (DE)": {
+        "Shandong Luneng Taishan FC": 4.0,
+        "Shanghai Shenhua FC": 1.58,
+        "Draw": 4.7
+      },
+      "888sport": {
+        "Shandong Luneng Taishan FC": 4.2,
+        "Shanghai Shenhua FC": 1.61,
+        "Draw": 4.33
+      },
+      "William Hill": {
+        "Shandong Luneng Taishan FC": 4.2,
+        "Shanghai Shenhua FC": 1.62,
+        "Draw": 4.33
+      },
+      "Codere (IT)": {
+        "Shandong Luneng Taishan FC": 4.2,
+        "Shanghai Shenhua FC": 1.59,
+        "Draw": 4.5
+      },
+      "Unibet (NL)": {
+        "Shandong Luneng Taishan FC": 4.0,
+        "Shanghai Shenhua FC": 1.68,
+        "Draw": 4.4
+      },
+      "Unibet (SE)": {
+        "Shandong Luneng Taishan FC": 4.0,
+        "Shanghai Shenhua FC": 1.68,
+        "Draw": 4.4
+      },
+      "LeoVegas (SE)": {
+        "Shandong Luneng Taishan FC": 3.8,
+        "Shanghai Shenhua FC": 1.61,
+        "Draw": 4.2
+      },
+      "Tipico": {
+        "Shandong Luneng Taishan FC": 4.4,
+        "Shanghai Shenhua FC": 1.55,
+        "Draw": 4.6
+      },
+      "Betfair": {
+        "Shandong Luneng Taishan FC": 4.7,
+        "Shanghai Shenhua FC": 1.67,
+        "Draw": 4.9
+      },
+      "Matchbook": {
+        "Shandong Luneng Taishan FC": 4.7,
+        "Shanghai Shenhua FC": 1.67,
+        "Draw": 5.0
+      }
+    },
+    "a7b111d3bc952f3841d38f226888c889:h2h": {
+      "Pinnacle": {
+        "Shanghai SIPG FC": 2.22,
+        "Shenzhen Peng City FC": 3.03,
+        "Draw": 3.88
+      },
+      "Unibet (FR)": {
+        "Shanghai SIPG FC": 2.1,
+        "Shenzhen Peng City FC": 2.75,
+        "Draw": 3.6
+      },
+      "Nordic Bet": {
+        "Shanghai SIPG FC": 2.18,
+        "Shenzhen Peng City FC": 2.8,
+        "Draw": 3.6
+      },
+      "BetOnline.ag": {
+        "Shanghai SIPG FC": 2.22,
+        "Shenzhen Peng City FC": 3.0,
+        "Draw": 3.65
+      },
+      "Betsson": {
+        "Shanghai SIPG FC": 2.18,
+        "Shenzhen Peng City FC": 2.8,
+        "Draw": 3.6
+      },
+      "Winamax (DE)": {
+        "Shanghai SIPG FC": 2.15,
+        "Shenzhen Peng City FC": 2.75,
+        "Draw": 3.75
+      },
+      "Winamax (FR)": {
+        "Shanghai SIPG FC": 2.1,
+        "Shenzhen Peng City FC": 2.7,
+        "Draw": 3.65
+      },
+      "Coolbet": {
+        "Shanghai SIPG FC": 2.15,
+        "Shenzhen Peng City FC": 2.95,
+        "Draw": 3.85
+      },
+      "1xBet": {
+        "Shanghai SIPG FC": 2.17,
+        "Shenzhen Peng City FC": 3.01,
+        "Draw": 3.92
+      },
+      "Unibet (NL)": {
+        "Shanghai SIPG FC": 2.0,
+        "Shenzhen Peng City FC": 3.3,
+        "Draw": 3.7
+      },
+      "LeoVegas (SE)": {
+        "Shanghai SIPG FC": 1.92,
+        "Shenzhen Peng City FC": 3.15,
+        "Draw": 3.55
+      },
+      "Unibet (SE)": {
+        "Shanghai SIPG FC": 2.0,
+        "Shenzhen Peng City FC": 3.3,
+        "Draw": 3.7
+      },
+      "Codere (IT)": {
+        "Shanghai SIPG FC": 2.17,
+        "Shenzhen Peng City FC": 2.8,
+        "Draw": 3.65
+      },
+      "GTbets": {
+        "Shanghai SIPG FC": 2.16,
+        "Shenzhen Peng City FC": 3.07,
+        "Draw": 3.8
+      },
+      "Marathon Bet": {
+        "Shanghai SIPG FC": 2.11,
+        "Shenzhen Peng City FC": 2.92,
+        "Draw": 3.8
+      },
+      "Tipico": {
+        "Shanghai SIPG FC": 2.05,
+        "Shenzhen Peng City FC": 3.1,
+        "Draw": 3.6
+      },
+      "Betfair": {
+        "Shanghai SIPG FC": 2.22,
+        "Shenzhen Peng City FC": 3.2,
+        "Draw": 3.9
+      },
+      "Matchbook": {
+        "Shanghai SIPG FC": 2.24,
+        "Shenzhen Peng City FC": 3.2,
+        "Draw": 3.9
+      },
+      "888sport": {
+        "Shanghai SIPG FC": 2.15,
+        "Shenzhen Peng City FC": 2.9,
+        "Draw": 3.6
+      },
+      "William Hill": {
+        "Shanghai SIPG FC": 2.15,
+        "Shenzhen Peng City FC": 2.9,
+        "Draw": 3.6
+      }
+    },
+    "c1063720eba2f10ab22133b5ec754d34:h2h": {
+      "Pinnacle": {
+        "CSKA Moscow": 1.64,
+        "FC Akron Tolyatti": 5.18,
+        "Draw": 4.28
+      },
+      "1xBet": {
+        "CSKA Moscow": 1.71,
+        "FC Akron Tolyatti": 4.97,
+        "Draw": 4.36
+      },
+      "BetOnline.ag": {
+        "CSKA Moscow": 1.62,
+        "FC Akron Tolyatti": 4.9,
+        "Draw": 4.1
+      },
+      "Codere (IT)": {
+        "CSKA Moscow": 1.66,
+        "FC Akron Tolyatti": 4.4,
+        "Draw": 3.9
       }
     }
   },
@@ -6141,23 +6301,5 @@
     }
   ],
   "results_history": [],
-  "value_alerted": [
-    "0ff5ed10a1f01dc662f737af7c0cf53c:h2h|Betfair|Draw",
-    "0ff5ed10a1f01dc662f737af7c0cf53c:h2h|Betfair|Luton",
-    "0ff5ed10a1f01dc662f737af7c0cf53c:h2h|Betsson|Luton",
-    "0ff5ed10a1f01dc662f737af7c0cf53c:h2h|Matchbook|Luton",
-    "0ff5ed10a1f01dc662f737af7c0cf53c:h2h|Nordic Bet|Luton",
-    "4e67f40bc51c915154f04559a7ab692c:h2h|Betfair|Athletic Bilbao",
-    "4e67f40bc51c915154f04559a7ab692c:h2h|Betfair|Draw",
-    "4e67f40bc51c915154f04559a7ab692c:h2h|Matchbook|Athletic Bilbao",
-    "4e67f40bc51c915154f04559a7ab692c:h2h|Matchbook|Draw",
-    "4e67f40bc51c915154f04559a7ab692c:h2h|Unibet (NL)|Athletic Bilbao",
-    "4e67f40bc51c915154f04559a7ab692c:h2h|Unibet (SE)|Athletic Bilbao",
-    "b3f57fa395ae6289e1bba58e01d36612:h2h|1xBet|Wimbledon",
-    "b3f57fa395ae6289e1bba58e01d36612:h2h|Betfair|Draw",
-    "b3f57fa395ae6289e1bba58e01d36612:h2h|Betfair|Wimbledon",
-    "b3f57fa395ae6289e1bba58e01d36612:h2h|Marathon Bet|Wimbledon",
-    "b3f57fa395ae6289e1bba58e01d36612:h2h|Matchbook|Draw",
-    "b3f57fa395ae6289e1bba58e01d36612:h2h|Matchbook|Wimbledon"
-  ]
+  "value_alerted": []
 }
