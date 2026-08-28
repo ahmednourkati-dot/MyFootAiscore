@@ -1,331 +1,176 @@
 {
   "snapshots": {
-    "8c290ae762cb9035f78842344d6a3930:h2h": {
-      "Unibet (SE)": {
-        "Beijing FC": 2.06,
-        "Dalian Yingbo": 3.15,
-        "Draw": 3.7
-      },
-      "Unibet (NL)": {
-        "Beijing FC": 2.06,
-        "Dalian Yingbo": 3.15,
-        "Draw": 3.7
-      },
-      "LeoVegas (SE)": {
-        "Beijing FC": 1.96,
-        "Dalian Yingbo": 3.0,
-        "Draw": 3.55
-      },
-      "Coolbet": {
-        "Beijing FC": 2.08,
-        "Dalian Yingbo": 3.0,
-        "Draw": 4.0
-      },
-      "BetOnline.ag": {
-        "Beijing FC": 2.14,
-        "Dalian Yingbo": 2.98,
-        "Draw": 4.0
-      },
-      "Unibet (FR)": {
-        "Beijing FC": 2.05,
-        "Dalian Yingbo": 2.85,
-        "Draw": 3.6
-      },
+    "4f786c56f99e0f707e3673e454d6f3ed:h2h": {
       "Betsson": {
-        "Beijing FC": 2.1,
-        "Dalian Yingbo": 2.95,
-        "Draw": 3.6
+        "Eintracht Braunschweig": 34.0,
+        "Hertha Berlin": 1.0,
+        "Draw": 23.0
       },
       "Nordic Bet": {
-        "Beijing FC": 2.1,
-        "Dalian Yingbo": 2.95,
-        "Draw": 3.6
+        "Eintracht Braunschweig": 26.0,
+        "Hertha Berlin": 1.0,
+        "Draw": 26.0
       },
-      "Codere (IT)": {
-        "Beijing FC": 2.1,
-        "Dalian Yingbo": 2.9,
-        "Draw": 3.7
-      },
-      "Pinnacle": {
-        "Beijing FC": 2.13,
-        "Dalian Yingbo": 3.04,
-        "Draw": 4.13
-      },
-      "Winamax (FR)": {
-        "Beijing FC": 2.0,
-        "Dalian Yingbo": 2.75,
-        "Draw": 3.65
-      },
-      "Winamax (DE)": {
-        "Beijing FC": 2.05,
-        "Dalian Yingbo": 2.8,
-        "Draw": 3.75
-      },
-      "1xBet": {
-        "Beijing FC": 2.13,
-        "Dalian Yingbo": 3.04,
-        "Draw": 4.0
-      },
-      "Marathon Bet": {
-        "Beijing FC": 2.07,
-        "Dalian Yingbo": 2.96,
-        "Draw": 3.88
-      },
-      "Tipico": {
-        "Beijing FC": 1.97,
-        "Dalian Yingbo": 3.1,
-        "Draw": 3.9
-      },
-      "GTbets": {
-        "Beijing FC": 2.13,
-        "Dalian Yingbo": 3.0,
-        "Draw": 3.87
-      },
-      "888sport": {
-        "Beijing FC": 2.1,
-        "Dalian Yingbo": 2.9,
-        "Draw": 3.75
-      },
-      "William Hill": {
-        "Beijing FC": 2.1,
-        "Dalian Yingbo": 2.9,
-        "Draw": 3.75
-      },
-      "Betfair": {
-        "Beijing FC": 2.16,
-        "Dalian Yingbo": 3.15,
-        "Draw": 4.1
-      },
-      "Matchbook": {
-        "Beijing FC": 2.16,
-        "Dalian Yingbo": 3.25,
-        "Draw": 4.2
+      "Betclic (FR)": {
+        "Eintracht Braunschweig": 100.0,
+        "Hertha Berlin": 1.0,
+        "Draw": 43.0
       }
     },
-    "45d3d91486c7d4d0c6434d24156b5835:h2h": {
+    "c8a9e7890322cc54ff79cdd21dcc3843:h2h": {
+      "Betclic (FR)": {
+        "VfL Bochum": 100.0,
+        "VfL Osnabrück": 1.01,
+        "Draw": 15.0
+      },
+      "Betsson": {
+        "VfL Bochum": 101.0,
+        "VfL Osnabrück": 1.0,
+        "Draw": 15.0
+      },
+      "Tipico": {
+        "VfL Bochum": 120.0,
+        "VfL Osnabrück": 1.01,
+        "Draw": 11.0
+      },
+      "Winamax (FR)": {
+        "VfL Bochum": 300.0,
+        "VfL Osnabrück": 1.03,
+        "Draw": 17.0
+      },
+      "Nordic Bet": {
+        "VfL Bochum": 130.0,
+        "VfL Osnabrück": 1.01,
+        "Draw": 13.0
+      },
+      "Winamax (DE)": {
+        "VfL Bochum": 250.0,
+        "VfL Osnabrück": 1.02,
+        "Draw": 21.0
+      },
       "Coolbet": {
-        "Shandong Luneng Taishan FC": 4.4,
-        "Shanghai Shenhua FC": 1.6,
+        "VfL Bochum": 250.0,
+        "VfL Osnabrück": 1.02,
+        "Draw": 11.2
+      },
+      "Pinnacle": {
+        "VfL Bochum": 18.81,
+        "VfL Osnabrück": 1.32,
+        "Draw": 4.22
+      },
+      "888sport": {
+        "VfL Bochum": 151.0,
+        "VfL Osnabrück": 1.02,
+        "Draw": 21.0
+      },
+      "Betfair": {
+        "VfL Bochum": 1000.0,
+        "VfL Osnabrück": 1.02,
+        "Draw": 26.0
+      }
+    },
+    "bbc9ec05d7ee8651f8729e1640836632:h2h": {
+      "Betsson": {
+        "AC Horsens": 26.0,
+        "Viborg FF": 1.15,
+        "Draw": 5.35
+      },
+      "Tipico": {
+        "AC Horsens": 18.0,
+        "Viborg FF": 1.16,
+        "Draw": 5.5
+      },
+      "Winamax (FR)": {
+        "AC Horsens": 29.0,
+        "Viborg FF": 1.19,
+        "Draw": 4.7
+      },
+      "Nordic Bet": {
+        "AC Horsens": 26.0,
+        "Viborg FF": 1.16,
+        "Draw": 4.85
+      },
+      "Winamax (DE)": {
+        "AC Horsens": 27.0,
+        "Viborg FF": 1.18,
+        "Draw": 5.0
+      },
+      "Betclic (FR)": {
+        "AC Horsens": 23.0,
+        "Viborg FF": 1.15,
         "Draw": 4.75
       },
-      "BetOnline.ag": {
-        "Shandong Luneng Taishan FC": 4.5,
-        "Shanghai Shenhua FC": 1.62,
-        "Draw": 4.5
-      },
-      "Betsson": {
-        "Shandong Luneng Taishan FC": 4.2,
-        "Shanghai Shenhua FC": 1.58,
-        "Draw": 4.5
-      },
-      "Unibet (FR)": {
-        "Shandong Luneng Taishan FC": 4.1,
-        "Shanghai Shenhua FC": 1.55,
-        "Draw": 4.4
-      },
-      "Nordic Bet": {
-        "Shandong Luneng Taishan FC": 4.2,
-        "Shanghai Shenhua FC": 1.58,
-        "Draw": 4.5
-      },
-      "1xBet": {
-        "Shandong Luneng Taishan FC": 4.58,
-        "Shanghai Shenhua FC": 1.61,
-        "Draw": 4.84
-      },
       "Pinnacle": {
-        "Shandong Luneng Taishan FC": 4.71,
-        "Shanghai Shenhua FC": 1.62,
-        "Draw": 4.7
-      },
-      "GTbets": {
-        "Shandong Luneng Taishan FC": 4.42,
-        "Shanghai Shenhua FC": 1.63,
-        "Draw": 4.61
-      },
-      "Marathon Bet": {
-        "Shandong Luneng Taishan FC": 4.45,
-        "Shanghai Shenhua FC": 1.56,
-        "Draw": 4.7
-      },
-      "Winamax (FR)": {
-        "Shandong Luneng Taishan FC": 3.95,
-        "Shanghai Shenhua FC": 1.56,
-        "Draw": 4.5
-      },
-      "Winamax (DE)": {
-        "Shandong Luneng Taishan FC": 4.0,
-        "Shanghai Shenhua FC": 1.58,
-        "Draw": 4.7
-      },
-      "888sport": {
-        "Shandong Luneng Taishan FC": 4.2,
-        "Shanghai Shenhua FC": 1.61,
-        "Draw": 4.33
-      },
-      "William Hill": {
-        "Shandong Luneng Taishan FC": 4.2,
-        "Shanghai Shenhua FC": 1.62,
-        "Draw": 4.33
-      },
-      "Codere (IT)": {
-        "Shandong Luneng Taishan FC": 4.2,
-        "Shanghai Shenhua FC": 1.59,
-        "Draw": 4.5
-      },
-      "Unibet (NL)": {
-        "Shandong Luneng Taishan FC": 4.0,
-        "Shanghai Shenhua FC": 1.68,
-        "Draw": 4.4
-      },
-      "Unibet (SE)": {
-        "Shandong Luneng Taishan FC": 4.0,
-        "Shanghai Shenhua FC": 1.68,
-        "Draw": 4.4
-      },
-      "LeoVegas (SE)": {
-        "Shandong Luneng Taishan FC": 3.8,
-        "Shanghai Shenhua FC": 1.61,
-        "Draw": 4.2
-      },
-      "Tipico": {
-        "Shandong Luneng Taishan FC": 4.4,
-        "Shanghai Shenhua FC": 1.55,
-        "Draw": 4.6
+        "AC Horsens": 27.66,
+        "Viborg FF": 1.21,
+        "Draw": 5.37
       },
       "Betfair": {
-        "Shandong Luneng Taishan FC": 4.7,
-        "Shanghai Shenhua FC": 1.67,
-        "Draw": 4.9
+        "AC Horsens": 32.0,
+        "Viborg FF": 1.23,
+        "Draw": 5.8
       },
-      "Matchbook": {
-        "Shandong Luneng Taishan FC": 4.7,
-        "Shanghai Shenhua FC": 1.67,
+      "Suprabets": {
+        "AC Horsens": 26.0,
+        "Viborg FF": 1.17,
+        "Draw": 5.2
+      },
+      "Unibet (NL)": {
+        "AC Horsens": 30.0,
+        "Viborg FF": 1.13,
+        "Draw": 6.4
+      },
+      "Unibet (SE)": {
+        "AC Horsens": 31.0,
+        "Viborg FF": 1.13,
+        "Draw": 6.5
+      },
+      "LeoVegas (SE)": {
+        "AC Horsens": 34.0,
+        "Viborg FF": 1.08,
+        "Draw": 6.4
+      },
+      "PMU (FR)": {
+        "AC Horsens": 26.0,
+        "Viborg FF": 1.01,
+        "Draw": 6.0
+      },
+      "888sport": {
+        "AC Horsens": 23.0,
+        "Viborg FF": 1.2,
         "Draw": 5.0
-      }
-    },
-    "a7b111d3bc952f3841d38f226888c889:h2h": {
-      "Pinnacle": {
-        "Shanghai SIPG FC": 2.22,
-        "Shenzhen Peng City FC": 3.03,
-        "Draw": 3.88
-      },
-      "Unibet (FR)": {
-        "Shanghai SIPG FC": 2.1,
-        "Shenzhen Peng City FC": 2.75,
-        "Draw": 3.6
-      },
-      "Nordic Bet": {
-        "Shanghai SIPG FC": 2.18,
-        "Shenzhen Peng City FC": 2.8,
-        "Draw": 3.6
-      },
-      "BetOnline.ag": {
-        "Shanghai SIPG FC": 2.22,
-        "Shenzhen Peng City FC": 3.0,
-        "Draw": 3.65
-      },
-      "Betsson": {
-        "Shanghai SIPG FC": 2.18,
-        "Shenzhen Peng City FC": 2.8,
-        "Draw": 3.6
-      },
-      "Winamax (DE)": {
-        "Shanghai SIPG FC": 2.15,
-        "Shenzhen Peng City FC": 2.75,
-        "Draw": 3.75
-      },
-      "Winamax (FR)": {
-        "Shanghai SIPG FC": 2.1,
-        "Shenzhen Peng City FC": 2.7,
-        "Draw": 3.65
       },
       "Coolbet": {
-        "Shanghai SIPG FC": 2.15,
-        "Shenzhen Peng City FC": 2.95,
-        "Draw": 3.85
-      },
-      "1xBet": {
-        "Shanghai SIPG FC": 2.17,
-        "Shenzhen Peng City FC": 3.01,
-        "Draw": 3.92
-      },
-      "Unibet (NL)": {
-        "Shanghai SIPG FC": 2.0,
-        "Shenzhen Peng City FC": 3.3,
-        "Draw": 3.7
-      },
-      "LeoVegas (SE)": {
-        "Shanghai SIPG FC": 1.92,
-        "Shenzhen Peng City FC": 3.15,
-        "Draw": 3.55
-      },
-      "Unibet (SE)": {
-        "Shanghai SIPG FC": 2.0,
-        "Shenzhen Peng City FC": 3.3,
-        "Draw": 3.7
-      },
-      "Codere (IT)": {
-        "Shanghai SIPG FC": 2.17,
-        "Shenzhen Peng City FC": 2.8,
-        "Draw": 3.65
-      },
-      "GTbets": {
-        "Shanghai SIPG FC": 2.16,
-        "Shenzhen Peng City FC": 3.07,
-        "Draw": 3.8
-      },
-      "Marathon Bet": {
-        "Shanghai SIPG FC": 2.11,
-        "Shenzhen Peng City FC": 2.92,
-        "Draw": 3.8
-      },
-      "Tipico": {
-        "Shanghai SIPG FC": 2.05,
-        "Shenzhen Peng City FC": 3.1,
-        "Draw": 3.6
-      },
-      "Betfair": {
-        "Shanghai SIPG FC": 2.22,
-        "Shenzhen Peng City FC": 3.2,
-        "Draw": 3.9
+        "AC Horsens": 30.0,
+        "Viborg FF": 1.18,
+        "Draw": 5.0
       },
       "Matchbook": {
-        "Shanghai SIPG FC": 2.24,
-        "Shenzhen Peng City FC": 3.2,
-        "Draw": 3.9
-      },
-      "888sport": {
-        "Shanghai SIPG FC": 2.15,
-        "Shenzhen Peng City FC": 2.9,
-        "Draw": 3.6
-      },
-      "William Hill": {
-        "Shanghai SIPG FC": 2.15,
-        "Shenzhen Peng City FC": 2.9,
-        "Draw": 3.6
+        "AC Horsens": 36.0,
+        "Viborg FF": 1.22,
+        "Draw": 6.0
       }
     },
-    "c1063720eba2f10ab22133b5ec754d34:h2h": {
-      "Pinnacle": {
-        "CSKA Moscow": 1.64,
-        "FC Akron Tolyatti": 5.18,
-        "Draw": 4.28
+    "041971041ef890f73177da5a2957adf6:h2h": {
+      "Betclic (FR)": {
+        "Elche CF": 100.0,
+        "Real Racing Club de Santander": 1.0,
+        "Draw": 75.0
       },
-      "1xBet": {
-        "CSKA Moscow": 1.71,
-        "FC Akron Tolyatti": 4.97,
-        "Draw": 4.36
+      "Betfair": {
+        "Elche CF": 470.0,
+        "Real Racing Club de Santander": 1.01,
+        "Draw": 75.0
       },
-      "BetOnline.ag": {
-        "CSKA Moscow": 1.62,
-        "FC Akron Tolyatti": 4.9,
-        "Draw": 4.1
+      "Betsson": {
+        "Elche CF": 301.0,
+        "Real Racing Club de Santander": 1.0,
+        "Draw": 201.0
       },
-      "Codere (IT)": {
-        "CSKA Moscow": 1.66,
-        "FC Akron Tolyatti": 4.4,
-        "Draw": 3.9
+      "Nordic Bet": {
+        "Elche CF": 301.0,
+        "Real Racing Club de Santander": 1.0,
+        "Draw": 176.0
       }
     }
   },
@@ -6298,8 +6143,468 @@
       "confidence": 7,
       "alert_type": "value",
       "alerted_at": "2026-08-27T09:34:37.877125+00:00"
+    },
+    {
+      "state_key": "c8a9e7890322cc54ff79cdd21dcc3843:h2h",
+      "event_id": "c8a9e7890322cc54ff79cdd21dcc3843",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "VfL Bochum",
+      "away_team": "VfL Osnabrück",
+      "commence_time": "2026-08-28T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "VfL Bochum",
+      "odds_at_alert": 100.0,
+      "stake_pct": 5.0,
+      "confidence": 407,
+      "alert_type": "value",
+      "alerted_at": "2026-08-28T18:37:13.166592+00:00"
+    },
+    {
+      "state_key": "c8a9e7890322cc54ff79cdd21dcc3843:h2h",
+      "event_id": "c8a9e7890322cc54ff79cdd21dcc3843",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "VfL Bochum",
+      "away_team": "VfL Osnabrück",
+      "commence_time": "2026-08-28T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 239,
+      "alert_type": "value",
+      "alerted_at": "2026-08-28T18:37:13.501058+00:00"
+    },
+    {
+      "state_key": "c8a9e7890322cc54ff79cdd21dcc3843:h2h",
+      "event_id": "c8a9e7890322cc54ff79cdd21dcc3843",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "VfL Bochum",
+      "away_team": "VfL Osnabrück",
+      "commence_time": "2026-08-28T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "VfL Bochum",
+      "odds_at_alert": 101.0,
+      "stake_pct": 5.0,
+      "confidence": 412,
+      "alert_type": "value",
+      "alerted_at": "2026-08-28T18:37:13.852936+00:00"
+    },
+    {
+      "state_key": "c8a9e7890322cc54ff79cdd21dcc3843:h2h",
+      "event_id": "c8a9e7890322cc54ff79cdd21dcc3843",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "VfL Bochum",
+      "away_team": "VfL Osnabrück",
+      "commence_time": "2026-08-28T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 239,
+      "alert_type": "value",
+      "alerted_at": "2026-08-28T18:37:14.204115+00:00"
+    },
+    {
+      "state_key": "c8a9e7890322cc54ff79cdd21dcc3843:h2h",
+      "event_id": "c8a9e7890322cc54ff79cdd21dcc3843",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "VfL Bochum",
+      "away_team": "VfL Osnabrück",
+      "commence_time": "2026-08-28T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "VfL Bochum",
+      "odds_at_alert": 120.0,
+      "stake_pct": 5.0,
+      "confidence": 509,
+      "alert_type": "value",
+      "alerted_at": "2026-08-28T18:37:14.527858+00:00"
+    },
+    {
+      "state_key": "c8a9e7890322cc54ff79cdd21dcc3843:h2h",
+      "event_id": "c8a9e7890322cc54ff79cdd21dcc3843",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "VfL Bochum",
+      "away_team": "VfL Osnabrück",
+      "commence_time": "2026-08-28T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 149,
+      "alert_type": "value",
+      "alerted_at": "2026-08-28T18:37:14.857753+00:00"
+    },
+    {
+      "state_key": "c8a9e7890322cc54ff79cdd21dcc3843:h2h",
+      "event_id": "c8a9e7890322cc54ff79cdd21dcc3843",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "VfL Bochum",
+      "away_team": "VfL Osnabrück",
+      "commence_time": "2026-08-28T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "VfL Bochum",
+      "odds_at_alert": 300.0,
+      "stake_pct": 5.0,
+      "confidence": 1422,
+      "alert_type": "value",
+      "alerted_at": "2026-08-28T18:37:15.203133+00:00"
+    },
+    {
+      "state_key": "c8a9e7890322cc54ff79cdd21dcc3843:h2h",
+      "event_id": "c8a9e7890322cc54ff79cdd21dcc3843",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "VfL Bochum",
+      "away_team": "VfL Osnabrück",
+      "commence_time": "2026-08-28T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 285,
+      "alert_type": "value",
+      "alerted_at": "2026-08-28T18:37:15.533152+00:00"
+    },
+    {
+      "state_key": "c8a9e7890322cc54ff79cdd21dcc3843:h2h",
+      "event_id": "c8a9e7890322cc54ff79cdd21dcc3843",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "VfL Bochum",
+      "away_team": "VfL Osnabrück",
+      "commence_time": "2026-08-28T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "VfL Bochum",
+      "odds_at_alert": 130.0,
+      "stake_pct": 5.0,
+      "confidence": 560,
+      "alert_type": "value",
+      "alerted_at": "2026-08-28T18:37:15.870000+00:00"
+    },
+    {
+      "state_key": "c8a9e7890322cc54ff79cdd21dcc3843:h2h",
+      "event_id": "c8a9e7890322cc54ff79cdd21dcc3843",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "VfL Bochum",
+      "away_team": "VfL Osnabrück",
+      "commence_time": "2026-08-28T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 194,
+      "alert_type": "value",
+      "alerted_at": "2026-08-28T18:37:16.193880+00:00"
+    },
+    {
+      "state_key": "c8a9e7890322cc54ff79cdd21dcc3843:h2h",
+      "event_id": "c8a9e7890322cc54ff79cdd21dcc3843",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "VfL Bochum",
+      "away_team": "VfL Osnabrück",
+      "commence_time": "2026-08-28T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "VfL Bochum",
+      "odds_at_alert": 250.0,
+      "stake_pct": 5.0,
+      "confidence": 1169,
+      "alert_type": "value",
+      "alerted_at": "2026-08-28T18:37:16.533429+00:00"
+    },
+    {
+      "state_key": "c8a9e7890322cc54ff79cdd21dcc3843:h2h",
+      "event_id": "c8a9e7890322cc54ff79cdd21dcc3843",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "VfL Bochum",
+      "away_team": "VfL Osnabrück",
+      "commence_time": "2026-08-28T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 21.0,
+      "stake_pct": 5.0,
+      "confidence": 375,
+      "alert_type": "value",
+      "alerted_at": "2026-08-28T18:37:16.883558+00:00"
+    },
+    {
+      "state_key": "c8a9e7890322cc54ff79cdd21dcc3843:h2h",
+      "event_id": "c8a9e7890322cc54ff79cdd21dcc3843",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "VfL Bochum",
+      "away_team": "VfL Osnabrück",
+      "commence_time": "2026-08-28T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "VfL Bochum",
+      "odds_at_alert": 250.0,
+      "stake_pct": 5.0,
+      "confidence": 1169,
+      "alert_type": "value",
+      "alerted_at": "2026-08-28T18:37:17.234274+00:00"
+    },
+    {
+      "state_key": "c8a9e7890322cc54ff79cdd21dcc3843:h2h",
+      "event_id": "c8a9e7890322cc54ff79cdd21dcc3843",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "VfL Bochum",
+      "away_team": "VfL Osnabrück",
+      "commence_time": "2026-08-28T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 11.2,
+      "stake_pct": 5.0,
+      "confidence": 153,
+      "alert_type": "value",
+      "alerted_at": "2026-08-28T18:37:17.557361+00:00"
+    },
+    {
+      "state_key": "c8a9e7890322cc54ff79cdd21dcc3843:h2h",
+      "event_id": "c8a9e7890322cc54ff79cdd21dcc3843",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "VfL Bochum",
+      "away_team": "VfL Osnabrück",
+      "commence_time": "2026-08-28T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "VfL Bochum",
+      "odds_at_alert": 151.0,
+      "stake_pct": 5.0,
+      "confidence": 666,
+      "alert_type": "value",
+      "alerted_at": "2026-08-28T18:37:17.890813+00:00"
+    },
+    {
+      "state_key": "c8a9e7890322cc54ff79cdd21dcc3843:h2h",
+      "event_id": "c8a9e7890322cc54ff79cdd21dcc3843",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "VfL Bochum",
+      "away_team": "VfL Osnabrück",
+      "commence_time": "2026-08-28T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 21.0,
+      "stake_pct": 5.0,
+      "confidence": 375,
+      "alert_type": "value",
+      "alerted_at": "2026-08-28T18:37:18.235799+00:00"
+    },
+    {
+      "state_key": "c8a9e7890322cc54ff79cdd21dcc3843:h2h",
+      "event_id": "c8a9e7890322cc54ff79cdd21dcc3843",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "VfL Bochum",
+      "away_team": "VfL Osnabrück",
+      "commence_time": "2026-08-28T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "VfL Bochum",
+      "odds_at_alert": 1000.0,
+      "stake_pct": 5.0,
+      "confidence": 4974,
+      "alert_type": "value",
+      "alerted_at": "2026-08-28T18:37:18.573413+00:00"
+    },
+    {
+      "state_key": "c8a9e7890322cc54ff79cdd21dcc3843:h2h",
+      "event_id": "c8a9e7890322cc54ff79cdd21dcc3843",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "VfL Bochum",
+      "away_team": "VfL Osnabrück",
+      "commence_time": "2026-08-28T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 488,
+      "alert_type": "value",
+      "alerted_at": "2026-08-28T18:37:18.912360+00:00"
+    },
+    {
+      "state_key": "bbc9ec05d7ee8651f8729e1640836632:h2h",
+      "event_id": "bbc9ec05d7ee8651f8729e1640836632",
+      "sport_key": "soccer",
+      "competition": "Denmark Superliga",
+      "home_team": "AC Horsens",
+      "away_team": "Viborg FF",
+      "commence_time": "2026-08-28T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "AC Horsens",
+      "odds_at_alert": 32.0,
+      "stake_pct": 3.0,
+      "confidence": 10,
+      "alert_type": "value",
+      "alerted_at": "2026-08-28T18:37:19.272541+00:00"
+    },
+    {
+      "state_key": "bbc9ec05d7ee8651f8729e1640836632:h2h",
+      "event_id": "bbc9ec05d7ee8651f8729e1640836632",
+      "sport_key": "soccer",
+      "competition": "Denmark Superliga",
+      "home_team": "AC Horsens",
+      "away_team": "Viborg FF",
+      "commence_time": "2026-08-28T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.4,
+      "stake_pct": 3.0,
+      "confidence": 14,
+      "alert_type": "value",
+      "alerted_at": "2026-08-28T18:37:19.604710+00:00"
+    },
+    {
+      "state_key": "bbc9ec05d7ee8651f8729e1640836632:h2h",
+      "event_id": "bbc9ec05d7ee8651f8729e1640836632",
+      "sport_key": "soccer",
+      "competition": "Denmark Superliga",
+      "home_team": "AC Horsens",
+      "away_team": "Viborg FF",
+      "commence_time": "2026-08-28T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "AC Horsens",
+      "odds_at_alert": 31.0,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-08-28T18:37:19.943449+00:00"
+    },
+    {
+      "state_key": "bbc9ec05d7ee8651f8729e1640836632:h2h",
+      "event_id": "bbc9ec05d7ee8651f8729e1640836632",
+      "sport_key": "soccer",
+      "competition": "Denmark Superliga",
+      "home_team": "AC Horsens",
+      "away_team": "Viborg FF",
+      "commence_time": "2026-08-28T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.5,
+      "stake_pct": 5.0,
+      "confidence": 15,
+      "alert_type": "value",
+      "alerted_at": "2026-08-28T18:37:20.314312+00:00"
+    },
+    {
+      "state_key": "bbc9ec05d7ee8651f8729e1640836632:h2h",
+      "event_id": "bbc9ec05d7ee8651f8729e1640836632",
+      "sport_key": "soccer",
+      "competition": "Denmark Superliga",
+      "home_team": "AC Horsens",
+      "away_team": "Viborg FF",
+      "commence_time": "2026-08-28T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "AC Horsens",
+      "odds_at_alert": 34.0,
+      "stake_pct": 5.0,
+      "confidence": 17,
+      "alert_type": "value",
+      "alerted_at": "2026-08-28T18:37:20.647817+00:00"
+    },
+    {
+      "state_key": "bbc9ec05d7ee8651f8729e1640836632:h2h",
+      "event_id": "bbc9ec05d7ee8651f8729e1640836632",
+      "sport_key": "soccer",
+      "competition": "Denmark Superliga",
+      "home_team": "AC Horsens",
+      "away_team": "Viborg FF",
+      "commence_time": "2026-08-28T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.4,
+      "stake_pct": 3.0,
+      "confidence": 14,
+      "alert_type": "value",
+      "alerted_at": "2026-08-28T18:37:20.988000+00:00"
+    },
+    {
+      "state_key": "bbc9ec05d7ee8651f8729e1640836632:h2h",
+      "event_id": "bbc9ec05d7ee8651f8729e1640836632",
+      "sport_key": "soccer",
+      "competition": "Denmark Superliga",
+      "home_team": "AC Horsens",
+      "away_team": "Viborg FF",
+      "commence_time": "2026-08-28T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.0,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-08-28T18:37:21.360654+00:00"
+    },
+    {
+      "state_key": "bbc9ec05d7ee8651f8729e1640836632:h2h",
+      "event_id": "bbc9ec05d7ee8651f8729e1640836632",
+      "sport_key": "soccer",
+      "competition": "Denmark Superliga",
+      "home_team": "AC Horsens",
+      "away_team": "Viborg FF",
+      "commence_time": "2026-08-28T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "AC Horsens",
+      "odds_at_alert": 36.0,
+      "stake_pct": 5.0,
+      "confidence": 24,
+      "alert_type": "value",
+      "alerted_at": "2026-08-28T18:37:21.719188+00:00"
+    },
+    {
+      "state_key": "bbc9ec05d7ee8651f8729e1640836632:h2h",
+      "event_id": "bbc9ec05d7ee8651f8729e1640836632",
+      "sport_key": "soccer",
+      "competition": "Denmark Superliga",
+      "home_team": "AC Horsens",
+      "away_team": "Viborg FF",
+      "commence_time": "2026-08-28T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.0,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-08-28T18:37:22.041820+00:00"
     }
   ],
   "results_history": [],
-  "value_alerted": []
+  "value_alerted": [
+    "bbc9ec05d7ee8651f8729e1640836632:h2h|Betfair|AC Horsens",
+    "bbc9ec05d7ee8651f8729e1640836632:h2h|LeoVegas (SE)|AC Horsens",
+    "bbc9ec05d7ee8651f8729e1640836632:h2h|LeoVegas (SE)|Draw",
+    "bbc9ec05d7ee8651f8729e1640836632:h2h|Matchbook|AC Horsens",
+    "bbc9ec05d7ee8651f8729e1640836632:h2h|Matchbook|Draw",
+    "bbc9ec05d7ee8651f8729e1640836632:h2h|PMU (FR)|Draw",
+    "bbc9ec05d7ee8651f8729e1640836632:h2h|Unibet (NL)|Draw",
+    "bbc9ec05d7ee8651f8729e1640836632:h2h|Unibet (SE)|AC Horsens",
+    "bbc9ec05d7ee8651f8729e1640836632:h2h|Unibet (SE)|Draw",
+    "c8a9e7890322cc54ff79cdd21dcc3843:h2h|888sport|Draw",
+    "c8a9e7890322cc54ff79cdd21dcc3843:h2h|888sport|VfL Bochum",
+    "c8a9e7890322cc54ff79cdd21dcc3843:h2h|Betclic (FR)|Draw",
+    "c8a9e7890322cc54ff79cdd21dcc3843:h2h|Betclic (FR)|VfL Bochum",
+    "c8a9e7890322cc54ff79cdd21dcc3843:h2h|Betfair|Draw",
+    "c8a9e7890322cc54ff79cdd21dcc3843:h2h|Betfair|VfL Bochum",
+    "c8a9e7890322cc54ff79cdd21dcc3843:h2h|Betsson|Draw",
+    "c8a9e7890322cc54ff79cdd21dcc3843:h2h|Betsson|VfL Bochum",
+    "c8a9e7890322cc54ff79cdd21dcc3843:h2h|Coolbet|Draw",
+    "c8a9e7890322cc54ff79cdd21dcc3843:h2h|Coolbet|VfL Bochum",
+    "c8a9e7890322cc54ff79cdd21dcc3843:h2h|Nordic Bet|Draw",
+    "c8a9e7890322cc54ff79cdd21dcc3843:h2h|Nordic Bet|VfL Bochum",
+    "c8a9e7890322cc54ff79cdd21dcc3843:h2h|Tipico|Draw",
+    "c8a9e7890322cc54ff79cdd21dcc3843:h2h|Tipico|VfL Bochum",
+    "c8a9e7890322cc54ff79cdd21dcc3843:h2h|Winamax (DE)|Draw",
+    "c8a9e7890322cc54ff79cdd21dcc3843:h2h|Winamax (DE)|VfL Bochum",
+    "c8a9e7890322cc54ff79cdd21dcc3843:h2h|Winamax (FR)|Draw",
+    "c8a9e7890322cc54ff79cdd21dcc3843:h2h|Winamax (FR)|VfL Bochum"
+  ]
 }
