@@ -1,196 +1,96 @@
 {
   "snapshots": {
-    "ad95b1634b5d878bce1d98efaebd1318:h2h": {
-      "Coolbet": {
-        "FC Machida Zelvia": 14.0,
-        "Mito HollyHock": 22.0,
-        "Draw": 1.05
-      },
-      "Betsson": {
-        "FC Machida Zelvia": 6.3,
-        "Mito HollyHock": 16.0,
-        "Draw": 1.14
-      },
+    "156ee160b17a4416dfb6121d4805bcdb:h2h": {
       "Nordic Bet": {
-        "FC Machida Zelvia": 5.8,
-        "Mito HollyHock": 14.0,
-        "Draw": 1.18
-      },
-      "Betclic (FR)": {
-        "FC Machida Zelvia": 12.25,
-        "Mito HollyHock": 19.25,
-        "Draw": 1.02
-      },
-      "Pinnacle": {
-        "FC Machida Zelvia": 4.33,
-        "Mito HollyHock": 10.13,
-        "Draw": 1.37
+        "Arouca": 1.01,
+        "CS Maritimo": 150.0,
+        "Draw": 13.0
       },
       "Winamax (FR)": {
-        "FC Machida Zelvia": 28.0,
-        "Mito HollyHock": 46.0,
-        "Draw": 1.03
-      },
-      "Winamax (DE)": {
-        "FC Machida Zelvia": 27.0,
-        "Mito HollyHock": 46.0,
-        "Draw": 1.01
-      },
-      "888sport": {
-        "FC Machida Zelvia": 12.0,
-        "Mito HollyHock": 29.0,
-        "Draw": 1.06
-      },
-      "Tipico": {
-        "FC Machida Zelvia": 11.0,
-        "Mito HollyHock": 35.0,
-        "Draw": 1.02
-      },
-      "LeoVegas (SE)": {
-        "FC Machida Zelvia": 16.0,
-        "Mito HollyHock": 11.5,
-        "Draw": 1.02
-      },
-      "PMU (FR)": {
-        "FC Machida Zelvia": 6.75,
-        "Mito HollyHock": 11.0,
-        "Draw": 1.07
-      },
-      "Unibet (SE)": {
-        "FC Machida Zelvia": 17.0,
-        "Mito HollyHock": 17.0,
-        "Draw": 1.03
-      },
-      "Unibet (NL)": {
-        "FC Machida Zelvia": 17.0,
-        "Mito HollyHock": 14.0,
-        "Draw": 1.02
-      },
-      "Betfair": {
-        "FC Machida Zelvia": 19.0,
-        "Mito HollyHock": 34.0,
-        "Draw": 1.05
-      }
-    },
-    "0854242928ba9fadf6c69d962158eb5b:h2h": {
-      "Pinnacle": {
-        "Gamba Osaka": 5.2,
-        "Hiroshima Sanfrecce FC": 3.07,
-        "Draw": 1.84
-      },
-      "Coolbet": {
-        "Gamba Osaka": 25.0,
-        "Hiroshima Sanfrecce FC": 9.0,
-        "Draw": 1.08
+        "Arouca": 1.02,
+        "CS Maritimo": 1000.0,
+        "Draw": 23.0
       },
       "Betsson": {
-        "Gamba Osaka": 7.2,
-        "Hiroshima Sanfrecce FC": 4.1,
-        "Draw": 1.38
-      },
-      "Nordic Bet": {
-        "Gamba Osaka": 6.8,
-        "Hiroshima Sanfrecce FC": 4.1,
-        "Draw": 1.4
-      },
-      "Betclic (FR)": {
-        "Gamba Osaka": 25.0,
-        "Hiroshima Sanfrecce FC": 8.0,
-        "Draw": 1.04
-      },
-      "Winamax (FR)": {
-        "Gamba Osaka": 46.0,
-        "Hiroshima Sanfrecce FC": 15.0,
-        "Draw": 1.05
-      },
-      "Winamax (DE)": {
-        "Gamba Osaka": 46.0,
-        "Hiroshima Sanfrecce FC": 16.0,
-        "Draw": 1.03
-      },
-      "888sport": {
-        "Gamba Osaka": 29.0,
-        "Hiroshima Sanfrecce FC": 6.0,
-        "Draw": 1.14
-      },
-      "Tipico": {
-        "Gamba Osaka": 30.0,
-        "Hiroshima Sanfrecce FC": 13.0,
-        "Draw": 1.03
-      },
-      "LeoVegas (SE)": {
-        "Gamba Osaka": 23.0,
-        "Hiroshima Sanfrecce FC": 10.0,
-        "Draw": 1.03
-      },
-      "PMU (FR)": {
-        "Gamba Osaka": 17.0,
-        "Hiroshima Sanfrecce FC": 7.5,
-        "Draw": 1.01
-      },
-      "Unibet (SE)": {
-        "Gamba Osaka": 35.0,
-        "Hiroshima Sanfrecce FC": 14.0,
-        "Draw": 1.03
-      },
-      "Unibet (NL)": {
-        "Gamba Osaka": 23.0,
-        "Hiroshima Sanfrecce FC": 10.0,
-        "Draw": 1.03
-      },
-      "Betfair": {
-        "Gamba Osaka": 1.01,
-        "Hiroshima Sanfrecce FC": 1.01,
-        "Draw": 1.05
-      }
-    },
-    "3cd7befd72f334b28f52e0fb420a2875:h2h": {
-      "Betsson": {
-        "Qingdao Hainiu FC": 26.0,
-        "Wuhan Three Towns": 1.0,
-        "Draw": 26.0
-      },
-      "Nordic Bet": {
-        "Qingdao Hainiu FC": 26.0,
-        "Wuhan Three Towns": 1.0,
-        "Draw": 26.0
-      }
-    },
-    "fabad53ff8001201a38cf042e66da263:h2h": {
-      "Betsson": {
-        "FC Tokyo": 1.0,
-        "V-Varen Nagasaki": 81.0,
-        "Draw": 81.0
-      },
-      "Nordic Bet": {
-        "FC Tokyo": 1.0,
-        "V-Varen Nagasaki": 81.0,
-        "Draw": 81.0
-      },
-      "Betclic (FR)": {
-        "FC Tokyo": 1.0,
-        "V-Varen Nagasaki": 100.0,
-        "Draw": 45.0
-      },
-      "Winamax (FR)": {
-        "FC Tokyo": 1.04,
-        "V-Varen Nagasaki": 60.0,
-        "Draw": 15.0
-      },
-      "Winamax (DE)": {
-        "FC Tokyo": 1.02,
-        "V-Varen Nagasaki": 60.0,
-        "Draw": 16.0
-      },
-      "888sport": {
-        "FC Tokyo": 1.03,
-        "V-Varen Nagasaki": 61.0,
+        "Arouca": 1.0,
+        "CS Maritimo": 67.0,
         "Draw": 17.0
       },
+      "Winamax (DE)": {
+        "Arouca": 1.01,
+        "CS Maritimo": 1000.0,
+        "Draw": 23.0
+      },
+      "Betclic (FR)": {
+        "Arouca": 1.0,
+        "CS Maritimo": 100.0,
+        "Draw": 15.0
+      },
       "Betfair": {
-        "FC Tokyo": 1.04,
-        "V-Varen Nagasaki": 95.0,
-        "Draw": 25.0
+        "Arouca": 1.04,
+        "CS Maritimo": 170.0,
+        "Draw": 21.0
+      },
+      "Tipico": {
+        "Arouca": 1.01,
+        "CS Maritimo": 400.0,
+        "Draw": 20.0
+      }
+    },
+    "700dae86f4c64ccae2c492bb885acba8:h2h": {
+      "Nordic Bet": {
+        "Alverca": 26.0,
+        "Santa Clara": 26.0,
+        "Draw": 1.0
+      },
+      "Betsson": {
+        "Alverca": 21.0,
+        "Santa Clara": 26.0,
+        "Draw": 1.01
+      },
+      "Betclic (FR)": {
+        "Alverca": 30.0,
+        "Santa Clara": 35.0,
+        "Draw": 1.02
+      },
+      "Coolbet": {
+        "Alverca": 22.0,
+        "Santa Clara": 25.0,
+        "Draw": 1.01
+      },
+      "Betfair": {
+        "Alverca": 1.01,
+        "Santa Clara": 1.01
+      },
+      "Tipico": {
+        "Alverca": 25.0,
+        "Santa Clara": 15.0,
+        "Draw": 1.02
+      },
+      "888sport": {
+        "Alverca": 15.0,
+        "Santa Clara": 17.0,
+        "Draw": 1.06
+      },
+      "Winamax (DE)": {
+        "Alverca": 32.0,
+        "Santa Clara": 38.0,
+        "Draw": 1.01
+      },
+      "Winamax (FR)": {
+        "Alverca": 44.0,
+        "Santa Clara": 50.0,
+        "Draw": 1.01
+      },
+      "Unibet (SE)": {
+        "Alverca": 36.0,
+        "Santa Clara": 34.0,
+        "Draw": 1.01
+      },
+      "Unibet (NL)": {
+        "Alverca": 13.0,
+        "Santa Clara": 19.0,
+        "Draw": 1.05
       }
     }
   },
@@ -4726,55 +4626,5 @@
     }
   ],
   "results_history": [],
-  "value_alerted": [
-    "0854242928ba9fadf6c69d962158eb5b:h2h|888sport|Gamba Osaka",
-    "0854242928ba9fadf6c69d962158eb5b:h2h|888sport|Hiroshima Sanfrecce FC",
-    "0854242928ba9fadf6c69d962158eb5b:h2h|Betclic (FR)|Gamba Osaka",
-    "0854242928ba9fadf6c69d962158eb5b:h2h|Betclic (FR)|Hiroshima Sanfrecce FC",
-    "0854242928ba9fadf6c69d962158eb5b:h2h|Betsson|Gamba Osaka",
-    "0854242928ba9fadf6c69d962158eb5b:h2h|Betsson|Hiroshima Sanfrecce FC",
-    "0854242928ba9fadf6c69d962158eb5b:h2h|Coolbet|Gamba Osaka",
-    "0854242928ba9fadf6c69d962158eb5b:h2h|Coolbet|Hiroshima Sanfrecce FC",
-    "0854242928ba9fadf6c69d962158eb5b:h2h|LeoVegas (SE)|Gamba Osaka",
-    "0854242928ba9fadf6c69d962158eb5b:h2h|LeoVegas (SE)|Hiroshima Sanfrecce FC",
-    "0854242928ba9fadf6c69d962158eb5b:h2h|Nordic Bet|Gamba Osaka",
-    "0854242928ba9fadf6c69d962158eb5b:h2h|Nordic Bet|Hiroshima Sanfrecce FC",
-    "0854242928ba9fadf6c69d962158eb5b:h2h|PMU (FR)|Gamba Osaka",
-    "0854242928ba9fadf6c69d962158eb5b:h2h|PMU (FR)|Hiroshima Sanfrecce FC",
-    "0854242928ba9fadf6c69d962158eb5b:h2h|Tipico|Gamba Osaka",
-    "0854242928ba9fadf6c69d962158eb5b:h2h|Tipico|Hiroshima Sanfrecce FC",
-    "0854242928ba9fadf6c69d962158eb5b:h2h|Unibet (NL)|Gamba Osaka",
-    "0854242928ba9fadf6c69d962158eb5b:h2h|Unibet (NL)|Hiroshima Sanfrecce FC",
-    "0854242928ba9fadf6c69d962158eb5b:h2h|Unibet (SE)|Gamba Osaka",
-    "0854242928ba9fadf6c69d962158eb5b:h2h|Unibet (SE)|Hiroshima Sanfrecce FC",
-    "0854242928ba9fadf6c69d962158eb5b:h2h|Winamax (DE)|Gamba Osaka",
-    "0854242928ba9fadf6c69d962158eb5b:h2h|Winamax (DE)|Hiroshima Sanfrecce FC",
-    "0854242928ba9fadf6c69d962158eb5b:h2h|Winamax (FR)|Gamba Osaka",
-    "0854242928ba9fadf6c69d962158eb5b:h2h|Winamax (FR)|Hiroshima Sanfrecce FC",
-    "ad95b1634b5d878bce1d98efaebd1318:h2h|888sport|FC Machida Zelvia",
-    "ad95b1634b5d878bce1d98efaebd1318:h2h|888sport|Mito HollyHock",
-    "ad95b1634b5d878bce1d98efaebd1318:h2h|Betclic (FR)|FC Machida Zelvia",
-    "ad95b1634b5d878bce1d98efaebd1318:h2h|Betclic (FR)|Mito HollyHock",
-    "ad95b1634b5d878bce1d98efaebd1318:h2h|Betfair|FC Machida Zelvia",
-    "ad95b1634b5d878bce1d98efaebd1318:h2h|Betfair|Mito HollyHock",
-    "ad95b1634b5d878bce1d98efaebd1318:h2h|Betsson|FC Machida Zelvia",
-    "ad95b1634b5d878bce1d98efaebd1318:h2h|Betsson|Mito HollyHock",
-    "ad95b1634b5d878bce1d98efaebd1318:h2h|Coolbet|FC Machida Zelvia",
-    "ad95b1634b5d878bce1d98efaebd1318:h2h|Coolbet|Mito HollyHock",
-    "ad95b1634b5d878bce1d98efaebd1318:h2h|LeoVegas (SE)|FC Machida Zelvia",
-    "ad95b1634b5d878bce1d98efaebd1318:h2h|LeoVegas (SE)|Mito HollyHock",
-    "ad95b1634b5d878bce1d98efaebd1318:h2h|Nordic Bet|FC Machida Zelvia",
-    "ad95b1634b5d878bce1d98efaebd1318:h2h|Nordic Bet|Mito HollyHock",
-    "ad95b1634b5d878bce1d98efaebd1318:h2h|PMU (FR)|FC Machida Zelvia",
-    "ad95b1634b5d878bce1d98efaebd1318:h2h|Tipico|FC Machida Zelvia",
-    "ad95b1634b5d878bce1d98efaebd1318:h2h|Tipico|Mito HollyHock",
-    "ad95b1634b5d878bce1d98efaebd1318:h2h|Unibet (NL)|FC Machida Zelvia",
-    "ad95b1634b5d878bce1d98efaebd1318:h2h|Unibet (NL)|Mito HollyHock",
-    "ad95b1634b5d878bce1d98efaebd1318:h2h|Unibet (SE)|FC Machida Zelvia",
-    "ad95b1634b5d878bce1d98efaebd1318:h2h|Unibet (SE)|Mito HollyHock",
-    "ad95b1634b5d878bce1d98efaebd1318:h2h|Winamax (DE)|FC Machida Zelvia",
-    "ad95b1634b5d878bce1d98efaebd1318:h2h|Winamax (DE)|Mito HollyHock",
-    "ad95b1634b5d878bce1d98efaebd1318:h2h|Winamax (FR)|FC Machida Zelvia",
-    "ad95b1634b5d878bce1d98efaebd1318:h2h|Winamax (FR)|Mito HollyHock"
-  ]
+  "value_alerted": []
 }
