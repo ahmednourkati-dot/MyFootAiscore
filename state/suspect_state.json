@@ -1,96 +1,57 @@
 {
   "snapshots": {
-    "156ee160b17a4416dfb6121d4805bcdb:h2h": {
-      "Nordic Bet": {
-        "Arouca": 1.01,
-        "CS Maritimo": 150.0,
-        "Draw": 13.0
-      },
-      "Winamax (FR)": {
-        "Arouca": 1.02,
-        "CS Maritimo": 1000.0,
-        "Draw": 23.0
+    "385281ab2794b520e81b08f6cf141903:h2h": {
+      "Betclic (FR)": {
+        "Juventus": 1.0,
+        "Parma": 100.0,
+        "Draw": 80.0
       },
       "Betsson": {
-        "Arouca": 1.0,
-        "CS Maritimo": 67.0,
-        "Draw": 17.0
+        "Juventus": 1.0,
+        "Parma": 34.0,
+        "Draw": 29.0
       },
-      "Winamax (DE)": {
-        "Arouca": 1.01,
-        "CS Maritimo": 1000.0,
-        "Draw": 23.0
-      },
-      "Betclic (FR)": {
-        "Arouca": 1.0,
-        "CS Maritimo": 100.0,
-        "Draw": 15.0
-      },
-      "Betfair": {
-        "Arouca": 1.04,
-        "CS Maritimo": 170.0,
-        "Draw": 21.0
-      },
-      "Tipico": {
-        "Arouca": 1.01,
-        "CS Maritimo": 400.0,
-        "Draw": 20.0
+      "Nordic Bet": {
+        "Juventus": 1.0,
+        "Parma": 34.0,
+        "Draw": 29.0
       }
     },
-    "700dae86f4c64ccae2c492bb885acba8:h2h": {
-      "Nordic Bet": {
-        "Alverca": 26.0,
-        "Santa Clara": 26.0,
-        "Draw": 1.0
-      },
+    "de6f4173916fd594db32c59f8faed8cf:h2h": {
       "Betsson": {
-        "Alverca": 21.0,
-        "Santa Clara": 26.0,
-        "Draw": 1.01
+        "FC Zwolle": 41.0,
+        "NEC Nijmegen": 1.0,
+        "Draw": 19.0
+      },
+      "Nordic Bet": {
+        "FC Zwolle": 36.0,
+        "NEC Nijmegen": 1.0,
+        "Draw": 21.0
       },
       "Betclic (FR)": {
-        "Alverca": 30.0,
-        "Santa Clara": 35.0,
-        "Draw": 1.02
-      },
-      "Coolbet": {
-        "Alverca": 22.0,
-        "Santa Clara": 25.0,
-        "Draw": 1.01
-      },
-      "Betfair": {
-        "Alverca": 1.01,
-        "Santa Clara": 1.01
-      },
-      "Tipico": {
-        "Alverca": 25.0,
-        "Santa Clara": 15.0,
-        "Draw": 1.02
-      },
-      "888sport": {
-        "Alverca": 15.0,
-        "Santa Clara": 17.0,
-        "Draw": 1.06
-      },
-      "Winamax (DE)": {
-        "Alverca": 32.0,
-        "Santa Clara": 38.0,
-        "Draw": 1.01
+        "FC Zwolle": 100.0,
+        "NEC Nijmegen": 1.0,
+        "Draw": 50.0
       },
       "Winamax (FR)": {
-        "Alverca": 44.0,
-        "Santa Clara": 50.0,
-        "Draw": 1.01
+        "FC Zwolle": 500.0,
+        "NEC Nijmegen": 1.01,
+        "Draw": 30.0
       },
-      "Unibet (SE)": {
-        "Alverca": 36.0,
-        "Santa Clara": 34.0,
-        "Draw": 1.01
+      "Winamax (DE)": {
+        "FC Zwolle": 500.0,
+        "NEC Nijmegen": 1.01,
+        "Draw": 30.0
       },
-      "Unibet (NL)": {
-        "Alverca": 13.0,
-        "Santa Clara": 19.0,
-        "Draw": 1.05
+      "Betfair": {
+        "FC Zwolle": 80.0,
+        "NEC Nijmegen": 1.01,
+        "Draw": 50.0
+      },
+      "888sport": {
+        "FC Zwolle": 151.0,
+        "NEC Nijmegen": 1.0,
+        "Draw": 61.0
       }
     }
   },
