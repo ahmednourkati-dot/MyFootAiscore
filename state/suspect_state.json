@@ -1,176 +1,286 @@
 {
   "snapshots": {
-    "4f786c56f99e0f707e3673e454d6f3ed:h2h": {
-      "Betsson": {
-        "Eintracht Braunschweig": 34.0,
-        "Hertha Berlin": 1.0,
-        "Draw": 23.0
-      },
-      "Nordic Bet": {
-        "Eintracht Braunschweig": 26.0,
-        "Hertha Berlin": 1.0,
-        "Draw": 26.0
-      },
-      "Betclic (FR)": {
-        "Eintracht Braunschweig": 100.0,
-        "Hertha Berlin": 1.0,
-        "Draw": 43.0
-      }
-    },
-    "c8a9e7890322cc54ff79cdd21dcc3843:h2h": {
-      "Betclic (FR)": {
-        "VfL Bochum": 100.0,
-        "VfL Osnabrück": 1.01,
-        "Draw": 15.0
-      },
-      "Betsson": {
-        "VfL Bochum": 101.0,
-        "VfL Osnabrück": 1.0,
-        "Draw": 15.0
-      },
-      "Tipico": {
-        "VfL Bochum": 120.0,
-        "VfL Osnabrück": 1.01,
-        "Draw": 11.0
-      },
-      "Winamax (FR)": {
-        "VfL Bochum": 300.0,
-        "VfL Osnabrück": 1.03,
-        "Draw": 17.0
-      },
-      "Nordic Bet": {
-        "VfL Bochum": 130.0,
-        "VfL Osnabrück": 1.01,
-        "Draw": 13.0
-      },
-      "Winamax (DE)": {
-        "VfL Bochum": 250.0,
-        "VfL Osnabrück": 1.02,
-        "Draw": 21.0
-      },
-      "Coolbet": {
-        "VfL Bochum": 250.0,
-        "VfL Osnabrück": 1.02,
-        "Draw": 11.2
-      },
-      "Pinnacle": {
-        "VfL Bochum": 18.81,
-        "VfL Osnabrück": 1.32,
-        "Draw": 4.22
-      },
-      "888sport": {
-        "VfL Bochum": 151.0,
-        "VfL Osnabrück": 1.02,
-        "Draw": 21.0
-      },
-      "Betfair": {
-        "VfL Bochum": 1000.0,
-        "VfL Osnabrück": 1.02,
-        "Draw": 26.0
-      }
-    },
-    "bbc9ec05d7ee8651f8729e1640836632:h2h": {
-      "Betsson": {
-        "AC Horsens": 26.0,
-        "Viborg FF": 1.15,
-        "Draw": 5.35
-      },
-      "Tipico": {
-        "AC Horsens": 18.0,
-        "Viborg FF": 1.16,
-        "Draw": 5.5
-      },
-      "Winamax (FR)": {
-        "AC Horsens": 29.0,
-        "Viborg FF": 1.19,
-        "Draw": 4.7
-      },
-      "Nordic Bet": {
-        "AC Horsens": 26.0,
-        "Viborg FF": 1.16,
-        "Draw": 4.85
-      },
-      "Winamax (DE)": {
-        "AC Horsens": 27.0,
-        "Viborg FF": 1.18,
-        "Draw": 5.0
-      },
-      "Betclic (FR)": {
-        "AC Horsens": 23.0,
-        "Viborg FF": 1.15,
-        "Draw": 4.75
-      },
-      "Pinnacle": {
-        "AC Horsens": 27.66,
-        "Viborg FF": 1.21,
-        "Draw": 5.37
-      },
-      "Betfair": {
-        "AC Horsens": 32.0,
-        "Viborg FF": 1.23,
-        "Draw": 5.8
-      },
-      "Suprabets": {
-        "AC Horsens": 26.0,
-        "Viborg FF": 1.17,
-        "Draw": 5.2
+    "09c4e2000b218cd2479bdc4d837929d4:h2h": {
+      "Unibet (SE)": {
+        "Atlante FC": 2.55,
+        "León": 3.2,
+        "Draw": 2.65
       },
       "Unibet (NL)": {
-        "AC Horsens": 30.0,
-        "Viborg FF": 1.13,
-        "Draw": 6.4
-      },
-      "Unibet (SE)": {
-        "AC Horsens": 31.0,
-        "Viborg FF": 1.13,
-        "Draw": 6.5
-      },
-      "LeoVegas (SE)": {
-        "AC Horsens": 34.0,
-        "Viborg FF": 1.08,
-        "Draw": 6.4
+        "Atlante FC": 2.55,
+        "León": 3.2,
+        "Draw": 2.65
       },
       "PMU (FR)": {
-        "AC Horsens": 26.0,
-        "Viborg FF": 1.01,
-        "Draw": 6.0
+        "Atlante FC": 2.28,
+        "León": 2.85,
+        "Draw": 2.38
       },
-      "888sport": {
-        "AC Horsens": 23.0,
-        "Viborg FF": 1.2,
-        "Draw": 5.0
+      "LeoVegas (SE)": {
+        "Atlante FC": 2.4,
+        "León": 3.0,
+        "Draw": 2.5
       },
-      "Coolbet": {
-        "AC Horsens": 30.0,
-        "Viborg FF": 1.18,
-        "Draw": 5.0
-      },
-      "Matchbook": {
-        "AC Horsens": 36.0,
-        "Viborg FF": 1.22,
-        "Draw": 6.0
-      }
-    },
-    "041971041ef890f73177da5a2957adf6:h2h": {
       "Betclic (FR)": {
-        "Elche CF": 100.0,
-        "Real Racing Club de Santander": 1.0,
-        "Draw": 75.0
-      },
-      "Betfair": {
-        "Elche CF": 470.0,
-        "Real Racing Club de Santander": 1.01,
-        "Draw": 75.0
-      },
-      "Betsson": {
-        "Elche CF": 301.0,
-        "Real Racing Club de Santander": 1.0,
-        "Draw": 201.0
+        "Atlante FC": 2.55,
+        "León": 2.88,
+        "Draw": 2.6
       },
       "Nordic Bet": {
-        "Elche CF": 301.0,
-        "Real Racing Club de Santander": 1.0,
-        "Draw": 176.0
+        "Atlante FC": 2.65,
+        "León": 3.15,
+        "Draw": 2.5
+      },
+      "Betsson": {
+        "Atlante FC": 2.65,
+        "León": 3.05,
+        "Draw": 2.55
+      },
+      "Coolbet": {
+        "Atlante FC": 2.8,
+        "León": 3.25,
+        "Draw": 2.63
+      },
+      "Betfair": {
+        "Atlante FC": 2.78,
+        "León": 3.35,
+        "Draw": 2.88
+      },
+      "Pinnacle": {
+        "Atlante FC": 2.72,
+        "León": 3.18,
+        "Draw": 2.65
+      },
+      "888sport": {
+        "Atlante FC": 2.45,
+        "León": 2.9,
+        "Draw": 2.45
+      },
+      "Tipico": {
+        "Atlante FC": 2.8,
+        "León": 3.3,
+        "Draw": 2.3
+      },
+      "Matchbook": {
+        "Atlante FC": 2.8,
+        "León": 3.3,
+        "Draw": 2.68
+      }
+    },
+    "a554260532c7451c5b95ec9359919719:h2h": {
+      "Betclic (FR)": {
+        "Cruz Azul": 1.01,
+        "Necaxa": 95.0,
+        "Draw": 40.0
+      },
+      "Nordic Bet": {
+        "Cruz Azul": 1.0,
+        "Necaxa": 34.0,
+        "Draw": 21.0
+      },
+      "Betsson": {
+        "Cruz Azul": 1.0,
+        "Necaxa": 34.0,
+        "Draw": 21.0
+      }
+    },
+    "52f20d799654e73911367ab2ede5f6a6:h2h": {
+      "Unibet (SE)": {
+        "Pumas": 3.1,
+        "Tijuana": 2.14,
+        "Draw": 3.35
+      },
+      "Unibet (NL)": {
+        "Pumas": 3.1,
+        "Tijuana": 2.14,
+        "Draw": 3.35
+      },
+      "PMU (FR)": {
+        "Pumas": 2.9,
+        "Tijuana": 2.0,
+        "Draw": 3.1
+      },
+      "LeoVegas (SE)": {
+        "Pumas": 3.0,
+        "Tijuana": 2.06,
+        "Draw": 3.2
+      },
+      "Betclic (FR)": {
+        "Pumas": 3.38,
+        "Tijuana": 1.92,
+        "Draw": 3.28
+      },
+      "1xBet": {
+        "Pumas": 3.58,
+        "Tijuana": 1.99,
+        "Draw": 3.42
+      },
+      "Betsson": {
+        "Pumas": 3.7,
+        "Tijuana": 1.98,
+        "Draw": 3.3
+      },
+      "Nordic Bet": {
+        "Pumas": 3.7,
+        "Tijuana": 1.98,
+        "Draw": 3.3
+      },
+      "Coolbet": {
+        "Pumas": 3.5,
+        "Tijuana": 2.13,
+        "Draw": 3.4
+      },
+      "Betfair": {
+        "Pumas": 3.85,
+        "Tijuana": 2.06,
+        "Draw": 3.65
+      },
+      "Marathon Bet": {
+        "Pumas": 3.58,
+        "Tijuana": 1.97,
+        "Draw": 3.42
+      },
+      "GTbets": {
+        "Pumas": 3.62,
+        "Tijuana": 2.03,
+        "Draw": 3.41
+      },
+      "Tipico": {
+        "Pumas": 3.6,
+        "Tijuana": 1.9,
+        "Draw": 3.5
+      },
+      "888sport": {
+        "Pumas": 3.3,
+        "Tijuana": 1.95,
+        "Draw": 3.2
+      },
+      "William Hill": {
+        "Pumas": 3.3,
+        "Tijuana": 1.95,
+        "Draw": 3.2
+      },
+      "BetOnline.ag": {
+        "Pumas": 3.73,
+        "Tijuana": 2.04,
+        "Draw": 3.61
+      },
+      "Pinnacle": {
+        "Pumas": 3.79,
+        "Tijuana": 2.02,
+        "Draw": 3.64
+      },
+      "Matchbook": {
+        "Pumas": 3.9,
+        "Tijuana": 2.1,
+        "Draw": 3.65
+      }
+    },
+    "ad95b1634b5d878bce1d98efaebd1318:h2h": {
+      "1xBet": {
+        "FC Machida Zelvia": 1.89,
+        "Mito HollyHock": 4.4,
+        "Draw": 3.42
+      },
+      "BetOnline.ag": {
+        "FC Machida Zelvia": 1.89,
+        "Mito HollyHock": 4.4,
+        "Draw": 3.4
+      },
+      "Unibet (FR)": {
+        "FC Machida Zelvia": 1.79,
+        "Mito HollyHock": 4.3,
+        "Draw": 3.25
+      },
+      "Coolbet": {
+        "FC Machida Zelvia": 1.88,
+        "Mito HollyHock": 4.4,
+        "Draw": 3.4
+      },
+      "Betsson": {
+        "FC Machida Zelvia": 1.85,
+        "Mito HollyHock": 4.35,
+        "Draw": 3.2
+      },
+      "Nordic Bet": {
+        "FC Machida Zelvia": 1.85,
+        "Mito HollyHock": 4.3,
+        "Draw": 3.2
+      },
+      "Betclic (FR)": {
+        "FC Machida Zelvia": 1.82,
+        "Mito HollyHock": 4.3,
+        "Draw": 3.25
+      },
+      "Pinnacle": {
+        "FC Machida Zelvia": 1.88,
+        "Mito HollyHock": 4.6,
+        "Draw": 3.49
+      },
+      "Winamax (FR)": {
+        "FC Machida Zelvia": 1.8,
+        "Mito HollyHock": 4.0,
+        "Draw": 3.2
+      },
+      "Winamax (DE)": {
+        "FC Machida Zelvia": 1.82,
+        "Mito HollyHock": 4.1,
+        "Draw": 3.3
+      },
+      "Marathon Bet": {
+        "FC Machida Zelvia": 1.85,
+        "Mito HollyHock": 4.3,
+        "Draw": 3.35
+      },
+      "888sport": {
+        "FC Machida Zelvia": 1.83,
+        "Mito HollyHock": 4.2,
+        "Draw": 3.25
+      },
+      "William Hill": {
+        "FC Machida Zelvia": 1.83,
+        "Mito HollyHock": 4.2,
+        "Draw": 3.25
+      },
+      "Tipico": {
+        "FC Machida Zelvia": 1.77,
+        "Mito HollyHock": 4.8,
+        "Draw": 3.2
+      },
+      "LeoVegas (SE)": {
+        "FC Machida Zelvia": 1.83,
+        "Mito HollyHock": 4.2,
+        "Draw": 3.3
+      },
+      "PMU (FR)": {
+        "FC Machida Zelvia": 1.81,
+        "Mito HollyHock": 4.1,
+        "Draw": 3.25
+      },
+      "Unibet (SE)": {
+        "FC Machida Zelvia": 1.83,
+        "Mito HollyHock": 4.1,
+        "Draw": 3.3
+      },
+      "Unibet (NL)": {
+        "FC Machida Zelvia": 1.83,
+        "Mito HollyHock": 4.1,
+        "Draw": 3.3
+      },
+      "BetAnything": {
+        "FC Machida Zelvia": 1.89,
+        "Mito HollyHock": 4.4,
+        "Draw": 3.4
+      },
+      "Betfair": {
+        "FC Machida Zelvia": 1.91,
+        "Mito HollyHock": 4.8,
+        "Draw": 3.5
+      },
+      "Matchbook": {
+        "FC Machida Zelvia": 1.94,
+        "Mito HollyHock": 4.8,
+        "Draw": 3.5
       }
     }
   },
@@ -6578,33 +6688,5 @@
     }
   ],
   "results_history": [],
-  "value_alerted": [
-    "bbc9ec05d7ee8651f8729e1640836632:h2h|Betfair|AC Horsens",
-    "bbc9ec05d7ee8651f8729e1640836632:h2h|LeoVegas (SE)|AC Horsens",
-    "bbc9ec05d7ee8651f8729e1640836632:h2h|LeoVegas (SE)|Draw",
-    "bbc9ec05d7ee8651f8729e1640836632:h2h|Matchbook|AC Horsens",
-    "bbc9ec05d7ee8651f8729e1640836632:h2h|Matchbook|Draw",
-    "bbc9ec05d7ee8651f8729e1640836632:h2h|PMU (FR)|Draw",
-    "bbc9ec05d7ee8651f8729e1640836632:h2h|Unibet (NL)|Draw",
-    "bbc9ec05d7ee8651f8729e1640836632:h2h|Unibet (SE)|AC Horsens",
-    "bbc9ec05d7ee8651f8729e1640836632:h2h|Unibet (SE)|Draw",
-    "c8a9e7890322cc54ff79cdd21dcc3843:h2h|888sport|Draw",
-    "c8a9e7890322cc54ff79cdd21dcc3843:h2h|888sport|VfL Bochum",
-    "c8a9e7890322cc54ff79cdd21dcc3843:h2h|Betclic (FR)|Draw",
-    "c8a9e7890322cc54ff79cdd21dcc3843:h2h|Betclic (FR)|VfL Bochum",
-    "c8a9e7890322cc54ff79cdd21dcc3843:h2h|Betfair|Draw",
-    "c8a9e7890322cc54ff79cdd21dcc3843:h2h|Betfair|VfL Bochum",
-    "c8a9e7890322cc54ff79cdd21dcc3843:h2h|Betsson|Draw",
-    "c8a9e7890322cc54ff79cdd21dcc3843:h2h|Betsson|VfL Bochum",
-    "c8a9e7890322cc54ff79cdd21dcc3843:h2h|Coolbet|Draw",
-    "c8a9e7890322cc54ff79cdd21dcc3843:h2h|Coolbet|VfL Bochum",
-    "c8a9e7890322cc54ff79cdd21dcc3843:h2h|Nordic Bet|Draw",
-    "c8a9e7890322cc54ff79cdd21dcc3843:h2h|Nordic Bet|VfL Bochum",
-    "c8a9e7890322cc54ff79cdd21dcc3843:h2h|Tipico|Draw",
-    "c8a9e7890322cc54ff79cdd21dcc3843:h2h|Tipico|VfL Bochum",
-    "c8a9e7890322cc54ff79cdd21dcc3843:h2h|Winamax (DE)|Draw",
-    "c8a9e7890322cc54ff79cdd21dcc3843:h2h|Winamax (DE)|VfL Bochum",
-    "c8a9e7890322cc54ff79cdd21dcc3843:h2h|Winamax (FR)|Draw",
-    "c8a9e7890322cc54ff79cdd21dcc3843:h2h|Winamax (FR)|VfL Bochum"
-  ]
+  "value_alerted": []
 }
