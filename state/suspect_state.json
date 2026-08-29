@@ -1,286 +1,196 @@
 {
   "snapshots": {
-    "09c4e2000b218cd2479bdc4d837929d4:h2h": {
-      "Unibet (SE)": {
-        "Atlante FC": 2.55,
-        "León": 3.2,
-        "Draw": 2.65
-      },
-      "Unibet (NL)": {
-        "Atlante FC": 2.55,
-        "León": 3.2,
-        "Draw": 2.65
-      },
-      "PMU (FR)": {
-        "Atlante FC": 2.28,
-        "León": 2.85,
-        "Draw": 2.38
-      },
-      "LeoVegas (SE)": {
-        "Atlante FC": 2.4,
-        "León": 3.0,
-        "Draw": 2.5
-      },
-      "Betclic (FR)": {
-        "Atlante FC": 2.55,
-        "León": 2.88,
-        "Draw": 2.6
-      },
-      "Nordic Bet": {
-        "Atlante FC": 2.65,
-        "León": 3.15,
-        "Draw": 2.5
-      },
-      "Betsson": {
-        "Atlante FC": 2.65,
-        "León": 3.05,
-        "Draw": 2.55
-      },
-      "Coolbet": {
-        "Atlante FC": 2.8,
-        "León": 3.25,
-        "Draw": 2.63
-      },
-      "Betfair": {
-        "Atlante FC": 2.78,
-        "León": 3.35,
-        "Draw": 2.88
-      },
-      "Pinnacle": {
-        "Atlante FC": 2.72,
-        "León": 3.18,
-        "Draw": 2.65
-      },
-      "888sport": {
-        "Atlante FC": 2.45,
-        "León": 2.9,
-        "Draw": 2.45
-      },
-      "Tipico": {
-        "Atlante FC": 2.8,
-        "León": 3.3,
-        "Draw": 2.3
-      },
-      "Matchbook": {
-        "Atlante FC": 2.8,
-        "León": 3.3,
-        "Draw": 2.68
-      }
-    },
-    "a554260532c7451c5b95ec9359919719:h2h": {
-      "Betclic (FR)": {
-        "Cruz Azul": 1.01,
-        "Necaxa": 95.0,
-        "Draw": 40.0
-      },
-      "Nordic Bet": {
-        "Cruz Azul": 1.0,
-        "Necaxa": 34.0,
-        "Draw": 21.0
-      },
-      "Betsson": {
-        "Cruz Azul": 1.0,
-        "Necaxa": 34.0,
-        "Draw": 21.0
-      }
-    },
-    "52f20d799654e73911367ab2ede5f6a6:h2h": {
-      "Unibet (SE)": {
-        "Pumas": 3.1,
-        "Tijuana": 2.14,
-        "Draw": 3.35
-      },
-      "Unibet (NL)": {
-        "Pumas": 3.1,
-        "Tijuana": 2.14,
-        "Draw": 3.35
-      },
-      "PMU (FR)": {
-        "Pumas": 2.9,
-        "Tijuana": 2.0,
-        "Draw": 3.1
-      },
-      "LeoVegas (SE)": {
-        "Pumas": 3.0,
-        "Tijuana": 2.06,
-        "Draw": 3.2
-      },
-      "Betclic (FR)": {
-        "Pumas": 3.38,
-        "Tijuana": 1.92,
-        "Draw": 3.28
-      },
-      "1xBet": {
-        "Pumas": 3.58,
-        "Tijuana": 1.99,
-        "Draw": 3.42
-      },
-      "Betsson": {
-        "Pumas": 3.7,
-        "Tijuana": 1.98,
-        "Draw": 3.3
-      },
-      "Nordic Bet": {
-        "Pumas": 3.7,
-        "Tijuana": 1.98,
-        "Draw": 3.3
-      },
-      "Coolbet": {
-        "Pumas": 3.5,
-        "Tijuana": 2.13,
-        "Draw": 3.4
-      },
-      "Betfair": {
-        "Pumas": 3.85,
-        "Tijuana": 2.06,
-        "Draw": 3.65
-      },
-      "Marathon Bet": {
-        "Pumas": 3.58,
-        "Tijuana": 1.97,
-        "Draw": 3.42
-      },
-      "GTbets": {
-        "Pumas": 3.62,
-        "Tijuana": 2.03,
-        "Draw": 3.41
-      },
-      "Tipico": {
-        "Pumas": 3.6,
-        "Tijuana": 1.9,
-        "Draw": 3.5
-      },
-      "888sport": {
-        "Pumas": 3.3,
-        "Tijuana": 1.95,
-        "Draw": 3.2
-      },
-      "William Hill": {
-        "Pumas": 3.3,
-        "Tijuana": 1.95,
-        "Draw": 3.2
-      },
-      "BetOnline.ag": {
-        "Pumas": 3.73,
-        "Tijuana": 2.04,
-        "Draw": 3.61
-      },
-      "Pinnacle": {
-        "Pumas": 3.79,
-        "Tijuana": 2.02,
-        "Draw": 3.64
-      },
-      "Matchbook": {
-        "Pumas": 3.9,
-        "Tijuana": 2.1,
-        "Draw": 3.65
-      }
-    },
     "ad95b1634b5d878bce1d98efaebd1318:h2h": {
-      "1xBet": {
-        "FC Machida Zelvia": 1.89,
-        "Mito HollyHock": 4.4,
-        "Draw": 3.42
-      },
-      "BetOnline.ag": {
-        "FC Machida Zelvia": 1.89,
-        "Mito HollyHock": 4.4,
-        "Draw": 3.4
-      },
-      "Unibet (FR)": {
-        "FC Machida Zelvia": 1.79,
-        "Mito HollyHock": 4.3,
-        "Draw": 3.25
-      },
       "Coolbet": {
-        "FC Machida Zelvia": 1.88,
-        "Mito HollyHock": 4.4,
-        "Draw": 3.4
+        "FC Machida Zelvia": 14.0,
+        "Mito HollyHock": 22.0,
+        "Draw": 1.05
       },
       "Betsson": {
-        "FC Machida Zelvia": 1.85,
-        "Mito HollyHock": 4.35,
-        "Draw": 3.2
+        "FC Machida Zelvia": 6.3,
+        "Mito HollyHock": 16.0,
+        "Draw": 1.14
       },
       "Nordic Bet": {
-        "FC Machida Zelvia": 1.85,
-        "Mito HollyHock": 4.3,
-        "Draw": 3.2
+        "FC Machida Zelvia": 5.8,
+        "Mito HollyHock": 14.0,
+        "Draw": 1.18
       },
       "Betclic (FR)": {
-        "FC Machida Zelvia": 1.82,
-        "Mito HollyHock": 4.3,
-        "Draw": 3.25
+        "FC Machida Zelvia": 12.25,
+        "Mito HollyHock": 19.25,
+        "Draw": 1.02
       },
       "Pinnacle": {
-        "FC Machida Zelvia": 1.88,
-        "Mito HollyHock": 4.6,
-        "Draw": 3.49
+        "FC Machida Zelvia": 4.33,
+        "Mito HollyHock": 10.13,
+        "Draw": 1.37
       },
       "Winamax (FR)": {
-        "FC Machida Zelvia": 1.8,
-        "Mito HollyHock": 4.0,
-        "Draw": 3.2
+        "FC Machida Zelvia": 28.0,
+        "Mito HollyHock": 46.0,
+        "Draw": 1.03
       },
       "Winamax (DE)": {
-        "FC Machida Zelvia": 1.82,
-        "Mito HollyHock": 4.1,
-        "Draw": 3.3
-      },
-      "Marathon Bet": {
-        "FC Machida Zelvia": 1.85,
-        "Mito HollyHock": 4.3,
-        "Draw": 3.35
+        "FC Machida Zelvia": 27.0,
+        "Mito HollyHock": 46.0,
+        "Draw": 1.01
       },
       "888sport": {
-        "FC Machida Zelvia": 1.83,
-        "Mito HollyHock": 4.2,
-        "Draw": 3.25
-      },
-      "William Hill": {
-        "FC Machida Zelvia": 1.83,
-        "Mito HollyHock": 4.2,
-        "Draw": 3.25
+        "FC Machida Zelvia": 12.0,
+        "Mito HollyHock": 29.0,
+        "Draw": 1.06
       },
       "Tipico": {
-        "FC Machida Zelvia": 1.77,
-        "Mito HollyHock": 4.8,
-        "Draw": 3.2
+        "FC Machida Zelvia": 11.0,
+        "Mito HollyHock": 35.0,
+        "Draw": 1.02
       },
       "LeoVegas (SE)": {
-        "FC Machida Zelvia": 1.83,
-        "Mito HollyHock": 4.2,
-        "Draw": 3.3
+        "FC Machida Zelvia": 16.0,
+        "Mito HollyHock": 11.5,
+        "Draw": 1.02
       },
       "PMU (FR)": {
-        "FC Machida Zelvia": 1.81,
-        "Mito HollyHock": 4.1,
-        "Draw": 3.25
+        "FC Machida Zelvia": 6.75,
+        "Mito HollyHock": 11.0,
+        "Draw": 1.07
       },
       "Unibet (SE)": {
-        "FC Machida Zelvia": 1.83,
-        "Mito HollyHock": 4.1,
-        "Draw": 3.3
+        "FC Machida Zelvia": 17.0,
+        "Mito HollyHock": 17.0,
+        "Draw": 1.03
       },
       "Unibet (NL)": {
-        "FC Machida Zelvia": 1.83,
-        "Mito HollyHock": 4.1,
-        "Draw": 3.3
-      },
-      "BetAnything": {
-        "FC Machida Zelvia": 1.89,
-        "Mito HollyHock": 4.4,
-        "Draw": 3.4
+        "FC Machida Zelvia": 17.0,
+        "Mito HollyHock": 14.0,
+        "Draw": 1.02
       },
       "Betfair": {
-        "FC Machida Zelvia": 1.91,
-        "Mito HollyHock": 4.8,
-        "Draw": 3.5
+        "FC Machida Zelvia": 19.0,
+        "Mito HollyHock": 34.0,
+        "Draw": 1.05
+      }
+    },
+    "0854242928ba9fadf6c69d962158eb5b:h2h": {
+      "Pinnacle": {
+        "Gamba Osaka": 5.2,
+        "Hiroshima Sanfrecce FC": 3.07,
+        "Draw": 1.84
       },
-      "Matchbook": {
-        "FC Machida Zelvia": 1.94,
-        "Mito HollyHock": 4.8,
-        "Draw": 3.5
+      "Coolbet": {
+        "Gamba Osaka": 25.0,
+        "Hiroshima Sanfrecce FC": 9.0,
+        "Draw": 1.08
+      },
+      "Betsson": {
+        "Gamba Osaka": 7.2,
+        "Hiroshima Sanfrecce FC": 4.1,
+        "Draw": 1.38
+      },
+      "Nordic Bet": {
+        "Gamba Osaka": 6.8,
+        "Hiroshima Sanfrecce FC": 4.1,
+        "Draw": 1.4
+      },
+      "Betclic (FR)": {
+        "Gamba Osaka": 25.0,
+        "Hiroshima Sanfrecce FC": 8.0,
+        "Draw": 1.04
+      },
+      "Winamax (FR)": {
+        "Gamba Osaka": 46.0,
+        "Hiroshima Sanfrecce FC": 15.0,
+        "Draw": 1.05
+      },
+      "Winamax (DE)": {
+        "Gamba Osaka": 46.0,
+        "Hiroshima Sanfrecce FC": 16.0,
+        "Draw": 1.03
+      },
+      "888sport": {
+        "Gamba Osaka": 29.0,
+        "Hiroshima Sanfrecce FC": 6.0,
+        "Draw": 1.14
+      },
+      "Tipico": {
+        "Gamba Osaka": 30.0,
+        "Hiroshima Sanfrecce FC": 13.0,
+        "Draw": 1.03
+      },
+      "LeoVegas (SE)": {
+        "Gamba Osaka": 23.0,
+        "Hiroshima Sanfrecce FC": 10.0,
+        "Draw": 1.03
+      },
+      "PMU (FR)": {
+        "Gamba Osaka": 17.0,
+        "Hiroshima Sanfrecce FC": 7.5,
+        "Draw": 1.01
+      },
+      "Unibet (SE)": {
+        "Gamba Osaka": 35.0,
+        "Hiroshima Sanfrecce FC": 14.0,
+        "Draw": 1.03
+      },
+      "Unibet (NL)": {
+        "Gamba Osaka": 23.0,
+        "Hiroshima Sanfrecce FC": 10.0,
+        "Draw": 1.03
+      },
+      "Betfair": {
+        "Gamba Osaka": 1.01,
+        "Hiroshima Sanfrecce FC": 1.01,
+        "Draw": 1.05
+      }
+    },
+    "3cd7befd72f334b28f52e0fb420a2875:h2h": {
+      "Betsson": {
+        "Qingdao Hainiu FC": 26.0,
+        "Wuhan Three Towns": 1.0,
+        "Draw": 26.0
+      },
+      "Nordic Bet": {
+        "Qingdao Hainiu FC": 26.0,
+        "Wuhan Three Towns": 1.0,
+        "Draw": 26.0
+      }
+    },
+    "fabad53ff8001201a38cf042e66da263:h2h": {
+      "Betsson": {
+        "FC Tokyo": 1.0,
+        "V-Varen Nagasaki": 81.0,
+        "Draw": 81.0
+      },
+      "Nordic Bet": {
+        "FC Tokyo": 1.0,
+        "V-Varen Nagasaki": 81.0,
+        "Draw": 81.0
+      },
+      "Betclic (FR)": {
+        "FC Tokyo": 1.0,
+        "V-Varen Nagasaki": 100.0,
+        "Draw": 45.0
+      },
+      "Winamax (FR)": {
+        "FC Tokyo": 1.04,
+        "V-Varen Nagasaki": 60.0,
+        "Draw": 15.0
+      },
+      "Winamax (DE)": {
+        "FC Tokyo": 1.02,
+        "V-Varen Nagasaki": 60.0,
+        "Draw": 16.0
+      },
+      "888sport": {
+        "FC Tokyo": 1.03,
+        "V-Varen Nagasaki": 61.0,
+        "Draw": 17.0
+      },
+      "Betfair": {
+        "FC Tokyo": 1.04,
+        "V-Varen Nagasaki": 95.0,
+        "Draw": 25.0
       }
     }
   },
@@ -4029,8 +3939,842 @@
       "confidence": 7,
       "alert_type": "value",
       "alerted_at": "2026-08-28T18:37:22.041820+00:00"
+    },
+    {
+      "state_key": "ad95b1634b5d878bce1d98efaebd1318:h2h",
+      "event_id": "ad95b1634b5d878bce1d98efaebd1318",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Mito HollyHock",
+      "away_team": "FC Machida Zelvia",
+      "commence_time": "2026-08-29T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Machida Zelvia",
+      "odds_at_alert": 14.0,
+      "stake_pct": 5.0,
+      "confidence": 205,
+      "alert_type": "value",
+      "alerted_at": "2026-08-29T11:00:37.679574+00:00"
+    },
+    {
+      "state_key": "ad95b1634b5d878bce1d98efaebd1318:h2h",
+      "event_id": "ad95b1634b5d878bce1d98efaebd1318",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Mito HollyHock",
+      "away_team": "FC Machida Zelvia",
+      "commence_time": "2026-08-29T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Mito HollyHock",
+      "odds_at_alert": 22.0,
+      "stake_pct": 5.0,
+      "confidence": 105,
+      "alert_type": "value",
+      "alerted_at": "2026-08-29T11:00:38.095540+00:00"
+    },
+    {
+      "state_key": "ad95b1634b5d878bce1d98efaebd1318:h2h",
+      "event_id": "ad95b1634b5d878bce1d98efaebd1318",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Mito HollyHock",
+      "away_team": "FC Machida Zelvia",
+      "commence_time": "2026-08-29T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Machida Zelvia",
+      "odds_at_alert": 6.3,
+      "stake_pct": 5.0,
+      "confidence": 37,
+      "alert_type": "value",
+      "alerted_at": "2026-08-29T11:00:38.482451+00:00"
+    },
+    {
+      "state_key": "ad95b1634b5d878bce1d98efaebd1318:h2h",
+      "event_id": "ad95b1634b5d878bce1d98efaebd1318",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Mito HollyHock",
+      "away_team": "FC Machida Zelvia",
+      "commence_time": "2026-08-29T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Mito HollyHock",
+      "odds_at_alert": 16.0,
+      "stake_pct": 5.0,
+      "confidence": 49,
+      "alert_type": "value",
+      "alerted_at": "2026-08-29T11:00:38.852830+00:00"
+    },
+    {
+      "state_key": "ad95b1634b5d878bce1d98efaebd1318:h2h",
+      "event_id": "ad95b1634b5d878bce1d98efaebd1318",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Mito HollyHock",
+      "away_team": "FC Machida Zelvia",
+      "commence_time": "2026-08-29T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Machida Zelvia",
+      "odds_at_alert": 5.8,
+      "stake_pct": 5.0,
+      "confidence": 26,
+      "alert_type": "value",
+      "alerted_at": "2026-08-29T11:00:39.250957+00:00"
+    },
+    {
+      "state_key": "ad95b1634b5d878bce1d98efaebd1318:h2h",
+      "event_id": "ad95b1634b5d878bce1d98efaebd1318",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Mito HollyHock",
+      "away_team": "FC Machida Zelvia",
+      "commence_time": "2026-08-29T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Mito HollyHock",
+      "odds_at_alert": 14.0,
+      "stake_pct": 5.0,
+      "confidence": 30,
+      "alert_type": "value",
+      "alerted_at": "2026-08-29T11:00:39.648206+00:00"
+    },
+    {
+      "state_key": "ad95b1634b5d878bce1d98efaebd1318:h2h",
+      "event_id": "ad95b1634b5d878bce1d98efaebd1318",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Mito HollyHock",
+      "away_team": "FC Machida Zelvia",
+      "commence_time": "2026-08-29T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Machida Zelvia",
+      "odds_at_alert": 12.25,
+      "stake_pct": 5.0,
+      "confidence": 167,
+      "alert_type": "value",
+      "alerted_at": "2026-08-29T11:00:40.046510+00:00"
+    },
+    {
+      "state_key": "ad95b1634b5d878bce1d98efaebd1318:h2h",
+      "event_id": "ad95b1634b5d878bce1d98efaebd1318",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Mito HollyHock",
+      "away_team": "FC Machida Zelvia",
+      "commence_time": "2026-08-29T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Mito HollyHock",
+      "odds_at_alert": 19.25,
+      "stake_pct": 5.0,
+      "confidence": 79,
+      "alert_type": "value",
+      "alerted_at": "2026-08-29T11:00:40.455230+00:00"
+    },
+    {
+      "state_key": "ad95b1634b5d878bce1d98efaebd1318:h2h",
+      "event_id": "ad95b1634b5d878bce1d98efaebd1318",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Mito HollyHock",
+      "away_team": "FC Machida Zelvia",
+      "commence_time": "2026-08-29T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Machida Zelvia",
+      "odds_at_alert": 28.0,
+      "stake_pct": 5.0,
+      "confidence": 510,
+      "alert_type": "value",
+      "alerted_at": "2026-08-29T11:00:40.826754+00:00"
+    },
+    {
+      "state_key": "ad95b1634b5d878bce1d98efaebd1318:h2h",
+      "event_id": "ad95b1634b5d878bce1d98efaebd1318",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Mito HollyHock",
+      "away_team": "FC Machida Zelvia",
+      "commence_time": "2026-08-29T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Mito HollyHock",
+      "odds_at_alert": 46.0,
+      "stake_pct": 5.0,
+      "confidence": 329,
+      "alert_type": "value",
+      "alerted_at": "2026-08-29T11:00:41.226660+00:00"
+    },
+    {
+      "state_key": "ad95b1634b5d878bce1d98efaebd1318:h2h",
+      "event_id": "ad95b1634b5d878bce1d98efaebd1318",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Mito HollyHock",
+      "away_team": "FC Machida Zelvia",
+      "commence_time": "2026-08-29T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Machida Zelvia",
+      "odds_at_alert": 27.0,
+      "stake_pct": 5.0,
+      "confidence": 488,
+      "alert_type": "value",
+      "alerted_at": "2026-08-29T11:00:41.625145+00:00"
+    },
+    {
+      "state_key": "ad95b1634b5d878bce1d98efaebd1318:h2h",
+      "event_id": "ad95b1634b5d878bce1d98efaebd1318",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Mito HollyHock",
+      "away_team": "FC Machida Zelvia",
+      "commence_time": "2026-08-29T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Mito HollyHock",
+      "odds_at_alert": 46.0,
+      "stake_pct": 5.0,
+      "confidence": 329,
+      "alert_type": "value",
+      "alerted_at": "2026-08-29T11:00:42.002727+00:00"
+    },
+    {
+      "state_key": "ad95b1634b5d878bce1d98efaebd1318:h2h",
+      "event_id": "ad95b1634b5d878bce1d98efaebd1318",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Mito HollyHock",
+      "away_team": "FC Machida Zelvia",
+      "commence_time": "2026-08-29T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Machida Zelvia",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 162,
+      "alert_type": "value",
+      "alerted_at": "2026-08-29T11:00:42.386479+00:00"
+    },
+    {
+      "state_key": "ad95b1634b5d878bce1d98efaebd1318:h2h",
+      "event_id": "ad95b1634b5d878bce1d98efaebd1318",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Mito HollyHock",
+      "away_team": "FC Machida Zelvia",
+      "commence_time": "2026-08-29T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Mito HollyHock",
+      "odds_at_alert": 29.0,
+      "stake_pct": 5.0,
+      "confidence": 170,
+      "alert_type": "value",
+      "alerted_at": "2026-08-29T11:00:42.761962+00:00"
+    },
+    {
+      "state_key": "ad95b1634b5d878bce1d98efaebd1318:h2h",
+      "event_id": "ad95b1634b5d878bce1d98efaebd1318",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Mito HollyHock",
+      "away_team": "FC Machida Zelvia",
+      "commence_time": "2026-08-29T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Machida Zelvia",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 140,
+      "alert_type": "value",
+      "alerted_at": "2026-08-29T11:00:43.144652+00:00"
+    },
+    {
+      "state_key": "ad95b1634b5d878bce1d98efaebd1318:h2h",
+      "event_id": "ad95b1634b5d878bce1d98efaebd1318",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Mito HollyHock",
+      "away_team": "FC Machida Zelvia",
+      "commence_time": "2026-08-29T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Mito HollyHock",
+      "odds_at_alert": 35.0,
+      "stake_pct": 5.0,
+      "confidence": 226,
+      "alert_type": "value",
+      "alerted_at": "2026-08-29T11:00:43.511608+00:00"
+    },
+    {
+      "state_key": "ad95b1634b5d878bce1d98efaebd1318:h2h",
+      "event_id": "ad95b1634b5d878bce1d98efaebd1318",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Mito HollyHock",
+      "away_team": "FC Machida Zelvia",
+      "commence_time": "2026-08-29T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Machida Zelvia",
+      "odds_at_alert": 16.0,
+      "stake_pct": 5.0,
+      "confidence": 249,
+      "alert_type": "value",
+      "alerted_at": "2026-08-29T11:00:43.907879+00:00"
+    },
+    {
+      "state_key": "ad95b1634b5d878bce1d98efaebd1318:h2h",
+      "event_id": "ad95b1634b5d878bce1d98efaebd1318",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Mito HollyHock",
+      "away_team": "FC Machida Zelvia",
+      "commence_time": "2026-08-29T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Mito HollyHock",
+      "odds_at_alert": 11.5,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-08-29T11:00:44.289793+00:00"
+    },
+    {
+      "state_key": "ad95b1634b5d878bce1d98efaebd1318:h2h",
+      "event_id": "ad95b1634b5d878bce1d98efaebd1318",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Mito HollyHock",
+      "away_team": "FC Machida Zelvia",
+      "commence_time": "2026-08-29T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Machida Zelvia",
+      "odds_at_alert": 6.75,
+      "stake_pct": 5.0,
+      "confidence": 47,
+      "alert_type": "value",
+      "alerted_at": "2026-08-29T11:00:44.686399+00:00"
+    },
+    {
+      "state_key": "ad95b1634b5d878bce1d98efaebd1318:h2h",
+      "event_id": "ad95b1634b5d878bce1d98efaebd1318",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Mito HollyHock",
+      "away_team": "FC Machida Zelvia",
+      "commence_time": "2026-08-29T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Machida Zelvia",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 271,
+      "alert_type": "value",
+      "alerted_at": "2026-08-29T11:00:45.081727+00:00"
+    },
+    {
+      "state_key": "ad95b1634b5d878bce1d98efaebd1318:h2h",
+      "event_id": "ad95b1634b5d878bce1d98efaebd1318",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Mito HollyHock",
+      "away_team": "FC Machida Zelvia",
+      "commence_time": "2026-08-29T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Mito HollyHock",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 58,
+      "alert_type": "value",
+      "alerted_at": "2026-08-29T11:00:45.465758+00:00"
+    },
+    {
+      "state_key": "ad95b1634b5d878bce1d98efaebd1318:h2h",
+      "event_id": "ad95b1634b5d878bce1d98efaebd1318",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Mito HollyHock",
+      "away_team": "FC Machida Zelvia",
+      "commence_time": "2026-08-29T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Machida Zelvia",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 271,
+      "alert_type": "value",
+      "alerted_at": "2026-08-29T11:00:45.865450+00:00"
+    },
+    {
+      "state_key": "ad95b1634b5d878bce1d98efaebd1318:h2h",
+      "event_id": "ad95b1634b5d878bce1d98efaebd1318",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Mito HollyHock",
+      "away_team": "FC Machida Zelvia",
+      "commence_time": "2026-08-29T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Mito HollyHock",
+      "odds_at_alert": 14.0,
+      "stake_pct": 5.0,
+      "confidence": 30,
+      "alert_type": "value",
+      "alerted_at": "2026-08-29T11:00:46.275853+00:00"
+    },
+    {
+      "state_key": "ad95b1634b5d878bce1d98efaebd1318:h2h",
+      "event_id": "ad95b1634b5d878bce1d98efaebd1318",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Mito HollyHock",
+      "away_team": "FC Machida Zelvia",
+      "commence_time": "2026-08-29T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Machida Zelvia",
+      "odds_at_alert": 19.0,
+      "stake_pct": 5.0,
+      "confidence": 314,
+      "alert_type": "value",
+      "alerted_at": "2026-08-29T11:00:46.653163+00:00"
+    },
+    {
+      "state_key": "ad95b1634b5d878bce1d98efaebd1318:h2h",
+      "event_id": "ad95b1634b5d878bce1d98efaebd1318",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Mito HollyHock",
+      "away_team": "FC Machida Zelvia",
+      "commence_time": "2026-08-29T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Mito HollyHock",
+      "odds_at_alert": 34.0,
+      "stake_pct": 5.0,
+      "confidence": 217,
+      "alert_type": "value",
+      "alerted_at": "2026-08-29T11:00:47.020428+00:00"
+    },
+    {
+      "state_key": "0854242928ba9fadf6c69d962158eb5b:h2h",
+      "event_id": "0854242928ba9fadf6c69d962158eb5b",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Gamba Osaka",
+      "away_team": "Hiroshima Sanfrecce FC",
+      "commence_time": "2026-08-29T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gamba Osaka",
+      "odds_at_alert": 25.0,
+      "stake_pct": 5.0,
+      "confidence": 353,
+      "alert_type": "value",
+      "alerted_at": "2026-08-29T11:00:47.418662+00:00"
+    },
+    {
+      "state_key": "0854242928ba9fadf6c69d962158eb5b:h2h",
+      "event_id": "0854242928ba9fadf6c69d962158eb5b",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Gamba Osaka",
+      "away_team": "Hiroshima Sanfrecce FC",
+      "commence_time": "2026-08-29T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Hiroshima Sanfrecce FC",
+      "odds_at_alert": 9.0,
+      "stake_pct": 5.0,
+      "confidence": 176,
+      "alert_type": "value",
+      "alerted_at": "2026-08-29T11:00:47.813603+00:00"
+    },
+    {
+      "state_key": "0854242928ba9fadf6c69d962158eb5b:h2h",
+      "event_id": "0854242928ba9fadf6c69d962158eb5b",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Gamba Osaka",
+      "away_team": "Hiroshima Sanfrecce FC",
+      "commence_time": "2026-08-29T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gamba Osaka",
+      "odds_at_alert": 7.2,
+      "stake_pct": 5.0,
+      "confidence": 30,
+      "alert_type": "value",
+      "alerted_at": "2026-08-29T11:00:48.230928+00:00"
+    },
+    {
+      "state_key": "0854242928ba9fadf6c69d962158eb5b:h2h",
+      "event_id": "0854242928ba9fadf6c69d962158eb5b",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Gamba Osaka",
+      "away_team": "Hiroshima Sanfrecce FC",
+      "commence_time": "2026-08-29T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Hiroshima Sanfrecce FC",
+      "odds_at_alert": 4.1,
+      "stake_pct": 5.0,
+      "confidence": 26,
+      "alert_type": "value",
+      "alerted_at": "2026-08-29T11:00:48.617312+00:00"
+    },
+    {
+      "state_key": "0854242928ba9fadf6c69d962158eb5b:h2h",
+      "event_id": "0854242928ba9fadf6c69d962158eb5b",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Gamba Osaka",
+      "away_team": "Hiroshima Sanfrecce FC",
+      "commence_time": "2026-08-29T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gamba Osaka",
+      "odds_at_alert": 6.8,
+      "stake_pct": 5.0,
+      "confidence": 23,
+      "alert_type": "value",
+      "alerted_at": "2026-08-29T11:00:48.999303+00:00"
+    },
+    {
+      "state_key": "0854242928ba9fadf6c69d962158eb5b:h2h",
+      "event_id": "0854242928ba9fadf6c69d962158eb5b",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Gamba Osaka",
+      "away_team": "Hiroshima Sanfrecce FC",
+      "commence_time": "2026-08-29T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Hiroshima Sanfrecce FC",
+      "odds_at_alert": 4.1,
+      "stake_pct": 5.0,
+      "confidence": 26,
+      "alert_type": "value",
+      "alerted_at": "2026-08-29T11:00:49.380684+00:00"
+    },
+    {
+      "state_key": "0854242928ba9fadf6c69d962158eb5b:h2h",
+      "event_id": "0854242928ba9fadf6c69d962158eb5b",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Gamba Osaka",
+      "away_team": "Hiroshima Sanfrecce FC",
+      "commence_time": "2026-08-29T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gamba Osaka",
+      "odds_at_alert": 25.0,
+      "stake_pct": 5.0,
+      "confidence": 353,
+      "alert_type": "value",
+      "alerted_at": "2026-08-29T11:00:49.788895+00:00"
+    },
+    {
+      "state_key": "0854242928ba9fadf6c69d962158eb5b:h2h",
+      "event_id": "0854242928ba9fadf6c69d962158eb5b",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Gamba Osaka",
+      "away_team": "Hiroshima Sanfrecce FC",
+      "commence_time": "2026-08-29T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Hiroshima Sanfrecce FC",
+      "odds_at_alert": 8.0,
+      "stake_pct": 5.0,
+      "confidence": 145,
+      "alert_type": "value",
+      "alerted_at": "2026-08-29T11:00:50.154154+00:00"
+    },
+    {
+      "state_key": "0854242928ba9fadf6c69d962158eb5b:h2h",
+      "event_id": "0854242928ba9fadf6c69d962158eb5b",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Gamba Osaka",
+      "away_team": "Hiroshima Sanfrecce FC",
+      "commence_time": "2026-08-29T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gamba Osaka",
+      "odds_at_alert": 46.0,
+      "stake_pct": 5.0,
+      "confidence": 733,
+      "alert_type": "value",
+      "alerted_at": "2026-08-29T11:00:50.535040+00:00"
+    },
+    {
+      "state_key": "0854242928ba9fadf6c69d962158eb5b:h2h",
+      "event_id": "0854242928ba9fadf6c69d962158eb5b",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Gamba Osaka",
+      "away_team": "Hiroshima Sanfrecce FC",
+      "commence_time": "2026-08-29T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Hiroshima Sanfrecce FC",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 360,
+      "alert_type": "value",
+      "alerted_at": "2026-08-29T11:00:50.933054+00:00"
+    },
+    {
+      "state_key": "0854242928ba9fadf6c69d962158eb5b:h2h",
+      "event_id": "0854242928ba9fadf6c69d962158eb5b",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Gamba Osaka",
+      "away_team": "Hiroshima Sanfrecce FC",
+      "commence_time": "2026-08-29T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gamba Osaka",
+      "odds_at_alert": 46.0,
+      "stake_pct": 5.0,
+      "confidence": 733,
+      "alert_type": "value",
+      "alerted_at": "2026-08-29T11:00:51.323348+00:00"
+    },
+    {
+      "state_key": "0854242928ba9fadf6c69d962158eb5b:h2h",
+      "event_id": "0854242928ba9fadf6c69d962158eb5b",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Gamba Osaka",
+      "away_team": "Hiroshima Sanfrecce FC",
+      "commence_time": "2026-08-29T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Hiroshima Sanfrecce FC",
+      "odds_at_alert": 16.0,
+      "stake_pct": 5.0,
+      "confidence": 391,
+      "alert_type": "value",
+      "alerted_at": "2026-08-29T11:00:51.707304+00:00"
+    },
+    {
+      "state_key": "0854242928ba9fadf6c69d962158eb5b:h2h",
+      "event_id": "0854242928ba9fadf6c69d962158eb5b",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Gamba Osaka",
+      "away_team": "Hiroshima Sanfrecce FC",
+      "commence_time": "2026-08-29T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gamba Osaka",
+      "odds_at_alert": 29.0,
+      "stake_pct": 5.0,
+      "confidence": 425,
+      "alert_type": "value",
+      "alerted_at": "2026-08-29T11:00:52.232224+00:00"
+    },
+    {
+      "state_key": "0854242928ba9fadf6c69d962158eb5b:h2h",
+      "event_id": "0854242928ba9fadf6c69d962158eb5b",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Gamba Osaka",
+      "away_team": "Hiroshima Sanfrecce FC",
+      "commence_time": "2026-08-29T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Hiroshima Sanfrecce FC",
+      "odds_at_alert": 6.0,
+      "stake_pct": 5.0,
+      "confidence": 84,
+      "alert_type": "value",
+      "alerted_at": "2026-08-29T11:00:52.620791+00:00"
+    },
+    {
+      "state_key": "0854242928ba9fadf6c69d962158eb5b:h2h",
+      "event_id": "0854242928ba9fadf6c69d962158eb5b",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Gamba Osaka",
+      "away_team": "Hiroshima Sanfrecce FC",
+      "commence_time": "2026-08-29T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gamba Osaka",
+      "odds_at_alert": 30.0,
+      "stake_pct": 5.0,
+      "confidence": 443,
+      "alert_type": "value",
+      "alerted_at": "2026-08-29T11:00:53.028739+00:00"
+    },
+    {
+      "state_key": "0854242928ba9fadf6c69d962158eb5b:h2h",
+      "event_id": "0854242928ba9fadf6c69d962158eb5b",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Gamba Osaka",
+      "away_team": "Hiroshima Sanfrecce FC",
+      "commence_time": "2026-08-29T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Hiroshima Sanfrecce FC",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 299,
+      "alert_type": "value",
+      "alerted_at": "2026-08-29T11:00:53.430858+00:00"
+    },
+    {
+      "state_key": "0854242928ba9fadf6c69d962158eb5b:h2h",
+      "event_id": "0854242928ba9fadf6c69d962158eb5b",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Gamba Osaka",
+      "away_team": "Hiroshima Sanfrecce FC",
+      "commence_time": "2026-08-29T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gamba Osaka",
+      "odds_at_alert": 23.0,
+      "stake_pct": 5.0,
+      "confidence": 317,
+      "alert_type": "value",
+      "alerted_at": "2026-08-29T11:00:53.826504+00:00"
+    },
+    {
+      "state_key": "0854242928ba9fadf6c69d962158eb5b:h2h",
+      "event_id": "0854242928ba9fadf6c69d962158eb5b",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Gamba Osaka",
+      "away_team": "Hiroshima Sanfrecce FC",
+      "commence_time": "2026-08-29T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Hiroshima Sanfrecce FC",
+      "odds_at_alert": 10.0,
+      "stake_pct": 5.0,
+      "confidence": 207,
+      "alert_type": "value",
+      "alerted_at": "2026-08-29T11:00:54.233098+00:00"
+    },
+    {
+      "state_key": "0854242928ba9fadf6c69d962158eb5b:h2h",
+      "event_id": "0854242928ba9fadf6c69d962158eb5b",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Gamba Osaka",
+      "away_team": "Hiroshima Sanfrecce FC",
+      "commence_time": "2026-08-29T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gamba Osaka",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 208,
+      "alert_type": "value",
+      "alerted_at": "2026-08-29T11:00:54.622782+00:00"
+    },
+    {
+      "state_key": "0854242928ba9fadf6c69d962158eb5b:h2h",
+      "event_id": "0854242928ba9fadf6c69d962158eb5b",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Gamba Osaka",
+      "away_team": "Hiroshima Sanfrecce FC",
+      "commence_time": "2026-08-29T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Hiroshima Sanfrecce FC",
+      "odds_at_alert": 7.5,
+      "stake_pct": 5.0,
+      "confidence": 130,
+      "alert_type": "value",
+      "alerted_at": "2026-08-29T11:00:55.004682+00:00"
+    },
+    {
+      "state_key": "0854242928ba9fadf6c69d962158eb5b:h2h",
+      "event_id": "0854242928ba9fadf6c69d962158eb5b",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Gamba Osaka",
+      "away_team": "Hiroshima Sanfrecce FC",
+      "commence_time": "2026-08-29T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gamba Osaka",
+      "odds_at_alert": 35.0,
+      "stake_pct": 5.0,
+      "confidence": 534,
+      "alert_type": "value",
+      "alerted_at": "2026-08-29T11:00:55.435330+00:00"
+    },
+    {
+      "state_key": "0854242928ba9fadf6c69d962158eb5b:h2h",
+      "event_id": "0854242928ba9fadf6c69d962158eb5b",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Gamba Osaka",
+      "away_team": "Hiroshima Sanfrecce FC",
+      "commence_time": "2026-08-29T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Hiroshima Sanfrecce FC",
+      "odds_at_alert": 14.0,
+      "stake_pct": 5.0,
+      "confidence": 330,
+      "alert_type": "value",
+      "alerted_at": "2026-08-29T11:00:55.796786+00:00"
+    },
+    {
+      "state_key": "0854242928ba9fadf6c69d962158eb5b:h2h",
+      "event_id": "0854242928ba9fadf6c69d962158eb5b",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Gamba Osaka",
+      "away_team": "Hiroshima Sanfrecce FC",
+      "commence_time": "2026-08-29T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gamba Osaka",
+      "odds_at_alert": 23.0,
+      "stake_pct": 5.0,
+      "confidence": 317,
+      "alert_type": "value",
+      "alerted_at": "2026-08-29T11:00:56.188989+00:00"
+    },
+    {
+      "state_key": "0854242928ba9fadf6c69d962158eb5b:h2h",
+      "event_id": "0854242928ba9fadf6c69d962158eb5b",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Gamba Osaka",
+      "away_team": "Hiroshima Sanfrecce FC",
+      "commence_time": "2026-08-29T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Hiroshima Sanfrecce FC",
+      "odds_at_alert": 10.0,
+      "stake_pct": 5.0,
+      "confidence": 207,
+      "alert_type": "value",
+      "alerted_at": "2026-08-29T11:00:56.574428+00:00"
     }
   ],
   "results_history": [],
-  "value_alerted": []
+  "value_alerted": [
+    "0854242928ba9fadf6c69d962158eb5b:h2h|888sport|Gamba Osaka",
+    "0854242928ba9fadf6c69d962158eb5b:h2h|888sport|Hiroshima Sanfrecce FC",
+    "0854242928ba9fadf6c69d962158eb5b:h2h|Betclic (FR)|Gamba Osaka",
+    "0854242928ba9fadf6c69d962158eb5b:h2h|Betclic (FR)|Hiroshima Sanfrecce FC",
+    "0854242928ba9fadf6c69d962158eb5b:h2h|Betsson|Gamba Osaka",
+    "0854242928ba9fadf6c69d962158eb5b:h2h|Betsson|Hiroshima Sanfrecce FC",
+    "0854242928ba9fadf6c69d962158eb5b:h2h|Coolbet|Gamba Osaka",
+    "0854242928ba9fadf6c69d962158eb5b:h2h|Coolbet|Hiroshima Sanfrecce FC",
+    "0854242928ba9fadf6c69d962158eb5b:h2h|LeoVegas (SE)|Gamba Osaka",
+    "0854242928ba9fadf6c69d962158eb5b:h2h|LeoVegas (SE)|Hiroshima Sanfrecce FC",
+    "0854242928ba9fadf6c69d962158eb5b:h2h|Nordic Bet|Gamba Osaka",
+    "0854242928ba9fadf6c69d962158eb5b:h2h|Nordic Bet|Hiroshima Sanfrecce FC",
+    "0854242928ba9fadf6c69d962158eb5b:h2h|PMU (FR)|Gamba Osaka",
+    "0854242928ba9fadf6c69d962158eb5b:h2h|PMU (FR)|Hiroshima Sanfrecce FC",
+    "0854242928ba9fadf6c69d962158eb5b:h2h|Tipico|Gamba Osaka",
+    "0854242928ba9fadf6c69d962158eb5b:h2h|Tipico|Hiroshima Sanfrecce FC",
+    "0854242928ba9fadf6c69d962158eb5b:h2h|Unibet (NL)|Gamba Osaka",
+    "0854242928ba9fadf6c69d962158eb5b:h2h|Unibet (NL)|Hiroshima Sanfrecce FC",
+    "0854242928ba9fadf6c69d962158eb5b:h2h|Unibet (SE)|Gamba Osaka",
+    "0854242928ba9fadf6c69d962158eb5b:h2h|Unibet (SE)|Hiroshima Sanfrecce FC",
+    "0854242928ba9fadf6c69d962158eb5b:h2h|Winamax (DE)|Gamba Osaka",
+    "0854242928ba9fadf6c69d962158eb5b:h2h|Winamax (DE)|Hiroshima Sanfrecce FC",
+    "0854242928ba9fadf6c69d962158eb5b:h2h|Winamax (FR)|Gamba Osaka",
+    "0854242928ba9fadf6c69d962158eb5b:h2h|Winamax (FR)|Hiroshima Sanfrecce FC",
+    "ad95b1634b5d878bce1d98efaebd1318:h2h|888sport|FC Machida Zelvia",
+    "ad95b1634b5d878bce1d98efaebd1318:h2h|888sport|Mito HollyHock",
+    "ad95b1634b5d878bce1d98efaebd1318:h2h|Betclic (FR)|FC Machida Zelvia",
+    "ad95b1634b5d878bce1d98efaebd1318:h2h|Betclic (FR)|Mito HollyHock",
+    "ad95b1634b5d878bce1d98efaebd1318:h2h|Betfair|FC Machida Zelvia",
+    "ad95b1634b5d878bce1d98efaebd1318:h2h|Betfair|Mito HollyHock",
+    "ad95b1634b5d878bce1d98efaebd1318:h2h|Betsson|FC Machida Zelvia",
+    "ad95b1634b5d878bce1d98efaebd1318:h2h|Betsson|Mito HollyHock",
+    "ad95b1634b5d878bce1d98efaebd1318:h2h|Coolbet|FC Machida Zelvia",
+    "ad95b1634b5d878bce1d98efaebd1318:h2h|Coolbet|Mito HollyHock",
+    "ad95b1634b5d878bce1d98efaebd1318:h2h|LeoVegas (SE)|FC Machida Zelvia",
+    "ad95b1634b5d878bce1d98efaebd1318:h2h|LeoVegas (SE)|Mito HollyHock",
+    "ad95b1634b5d878bce1d98efaebd1318:h2h|Nordic Bet|FC Machida Zelvia",
+    "ad95b1634b5d878bce1d98efaebd1318:h2h|Nordic Bet|Mito HollyHock",
+    "ad95b1634b5d878bce1d98efaebd1318:h2h|PMU (FR)|FC Machida Zelvia",
+    "ad95b1634b5d878bce1d98efaebd1318:h2h|Tipico|FC Machida Zelvia",
+    "ad95b1634b5d878bce1d98efaebd1318:h2h|Tipico|Mito HollyHock",
+    "ad95b1634b5d878bce1d98efaebd1318:h2h|Unibet (NL)|FC Machida Zelvia",
+    "ad95b1634b5d878bce1d98efaebd1318:h2h|Unibet (NL)|Mito HollyHock",
+    "ad95b1634b5d878bce1d98efaebd1318:h2h|Unibet (SE)|FC Machida Zelvia",
+    "ad95b1634b5d878bce1d98efaebd1318:h2h|Unibet (SE)|Mito HollyHock",
+    "ad95b1634b5d878bce1d98efaebd1318:h2h|Winamax (DE)|FC Machida Zelvia",
+    "ad95b1634b5d878bce1d98efaebd1318:h2h|Winamax (DE)|Mito HollyHock",
+    "ad95b1634b5d878bce1d98efaebd1318:h2h|Winamax (FR)|FC Machida Zelvia",
+    "ad95b1634b5d878bce1d98efaebd1318:h2h|Winamax (FR)|Mito HollyHock"
+  ]
 }
