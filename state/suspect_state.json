@@ -1,76 +1,221 @@
 {
   "snapshots": {
-    "456e871d1fe9110c581ba86856ea6cd7:h2h": {
+    "8f1aec488d5a6ce92622071ffbcf53ff:h2h": {
+      "Betclic (FR)": {
+        "Columbus Crew SC": 250.0,
+        "New England Revolution": 1.0,
+        "Draw": 8.25
+      },
       "Nordic Bet": {
-        "Casa Pia": 1.0,
-        "Moreirense FC": 1.0,
-        "Draw": 1.0
-      }
-    },
-    "3aec0f1e1d85da95b9d27c75118ed652:h2h": {
-      "Nordic Bet": {
-        "Cádiz CF": 81.0,
-        "Real Valladolid CF": 81.0,
-        "Draw": 1.0
-      }
-    },
-    "e252adca25b72af880afe88df39b699d:h2h": {
-      "Nordic Bet": {
-        "Atromitos Athens": 1.0,
-        "PAOK Thessaloniki": 1.0,
+        "Columbus Crew SC": 1.0,
+        "New England Revolution": 1.0,
         "Draw": 1.0
       },
       "Betsson": {
-        "Atromitos Athens": 81.0,
-        "PAOK Thessaloniki": 1.0,
-        "Draw": 17.0
-      },
-      "Coolbet": {
-        "Atromitos Athens": 100.0,
-        "PAOK Thessaloniki": 1.0,
-        "Draw": 16.0
-      },
-      "Betclic (FR)": {
-        "Atromitos Athens": 85.0,
-        "PAOK Thessaloniki": 1.0,
-        "Draw": 24.0
-      },
-      "Winamax (FR)": {
-        "Atromitos Athens": 1000.0,
-        "PAOK Thessaloniki": 1.02,
-        "Draw": 24.0
-      },
-      "Winamax (DE)": {
-        "Atromitos Athens": 600.0,
-        "PAOK Thessaloniki": 1.02,
-        "Draw": 19.0
+        "Columbus Crew SC": 26.0,
+        "New England Revolution": 1.0,
+        "Draw": 26.0
       },
       "888sport": {
-        "Atromitos Athens": 101.0,
-        "PAOK Thessaloniki": 1.04,
-        "Draw": 12.0
+        "Columbus Crew SC": 151.0,
+        "New England Revolution": 1.0,
+        "Draw": 56.0
       },
       "Betfair": {
-        "Atromitos Athens": 1000.0,
-        "PAOK Thessaloniki": 1.03,
-        "Draw": 26.0
+        "Columbus Crew SC": 85.0,
+        "New England Revolution": 1.01,
+        "Draw": 60.0
       }
     },
-    "86349a3de74d6c75ddb561eb931df813:h2h": {
-      "Betclic (FR)": {
-        "Fredrikstad FK": 1.02,
-        "Lillestrom": 100.0,
-        "Draw": 40.0
+    "40f851ddb1d1147d119f058498ad0bb2:h2h": {
+      "Unibet (NL)": {
+        "Clube de Regatas Brasil": 1.15,
+        "Criciuma": 23.0,
+        "Draw": 4.7
+      },
+      "Unibet (SE)": {
+        "Clube de Regatas Brasil": 1.2,
+        "Criciuma": 23.0,
+        "Draw": 5.0
+      },
+      "LeoVegas (SE)": {
+        "Clube de Regatas Brasil": 1.14,
+        "Criciuma": 23.0,
+        "Draw": 4.7
       },
       "Nordic Bet": {
-        "Fredrikstad FK": 1.0,
-        "Lillestrom": 26.0,
-        "Draw": 26.0
+        "Clube de Regatas Brasil": 1.16,
+        "Criciuma": 30.0,
+        "Draw": 4.85
       },
       "Betsson": {
-        "Fredrikstad FK": 1.0,
-        "Lillestrom": 26.0,
-        "Draw": 26.0
+        "Clube de Regatas Brasil": 1.18,
+        "Criciuma": 30.0,
+        "Draw": 4.85
+      },
+      "Coolbet": {
+        "Clube de Regatas Brasil": 1.2,
+        "Criciuma": 25.0,
+        "Draw": 4.5
+      },
+      "888sport": {
+        "Clube de Regatas Brasil": 1.2,
+        "Criciuma": 21.0,
+        "Draw": 4.75
+      },
+      "Pinnacle": {
+        "Clube de Regatas Brasil": 1.24,
+        "Criciuma": 22.0,
+        "Draw": 4.78
+      },
+      "Tipico": {
+        "Clube de Regatas Brasil": 1.15,
+        "Criciuma": 25.0,
+        "Draw": 5.2
+      },
+      "Matchbook": {
+        "Clube de Regatas Brasil": 1.25,
+        "Criciuma": 34.0,
+        "Draw": 5.3
+      },
+      "Betfair": {
+        "Clube de Regatas Brasil": 1.25,
+        "Criciuma": 34.0,
+        "Draw": 5.3
+      }
+    },
+    "be8dd007a8ba034b3a932591c93be046:h2h": {
+      "LeoVegas (SE)": {
+        "Ceará": 14.0,
+        "Vila Nova": 1.2,
+        "Draw": 4.4
+      },
+      "Unibet (SE)": {
+        "Ceará": 15.0,
+        "Vila Nova": 1.26,
+        "Draw": 4.7
+      },
+      "Unibet (NL)": {
+        "Ceará": 14.0,
+        "Vila Nova": 1.21,
+        "Draw": 4.5
+      },
+      "Coolbet": {
+        "Ceará": 18.0,
+        "Vila Nova": 1.2,
+        "Draw": 5.0
+      },
+      "Betsson": {
+        "Ceará": 16.0,
+        "Vila Nova": 1.23,
+        "Draw": 4.85
+      },
+      "Pinnacle": {
+        "Ceará": 20.15,
+        "Vila Nova": 1.24,
+        "Draw": 4.97
+      },
+      "Nordic Bet": {
+        "Ceará": 16.0,
+        "Vila Nova": 1.23,
+        "Draw": 4.85
+      },
+      "888sport": {
+        "Ceará": 15.0,
+        "Vila Nova": 1.22,
+        "Draw": 4.8
+      },
+      "Tipico": {
+        "Ceará": 12.0,
+        "Vila Nova": 1.2,
+        "Draw": 5.5
+      },
+      "Matchbook": {
+        "Ceará": 24.0,
+        "Vila Nova": 1.27,
+        "Draw": 5.5
+      },
+      "Betfair": {
+        "Ceará": 23.0,
+        "Vila Nova": 1.27,
+        "Draw": 5.5
+      }
+    },
+    "6a9e88fbce75e6e5e8380a967fd39e24:h2h": {
+      "Coolbet": {
+        "Chapecoense": 15.0,
+        "Grêmio": 1.25,
+        "Draw": 5.0
+      },
+      "Betclic (FR)": {
+        "Chapecoense": 13.0,
+        "Grêmio": 1.23,
+        "Draw": 4.4
+      },
+      "Winamax (DE)": {
+        "Chapecoense": 14.0,
+        "Grêmio": 1.24,
+        "Draw": 4.7
+      },
+      "Winamax (FR)": {
+        "Chapecoense": 13.0,
+        "Grêmio": 1.25,
+        "Draw": 4.5
+      },
+      "888sport": {
+        "Chapecoense": 11.0,
+        "Grêmio": 1.25,
+        "Draw": 4.6
+      },
+      "Betsson": {
+        "Chapecoense": 14.0,
+        "Grêmio": 1.23,
+        "Draw": 4.6
+      },
+      "Nordic Bet": {
+        "Chapecoense": 14.0,
+        "Grêmio": 1.23,
+        "Draw": 4.6
+      },
+      "LeoVegas (SE)": {
+        "Chapecoense": 13.0,
+        "Grêmio": 1.19,
+        "Draw": 4.7
+      },
+      "Unibet (SE)": {
+        "Chapecoense": 14.0,
+        "Grêmio": 1.25,
+        "Draw": 5.0
+      },
+      "PMU (FR)": {
+        "Chapecoense": 12.5,
+        "Grêmio": 1.16,
+        "Draw": 4.6
+      },
+      "Unibet (NL)": {
+        "Chapecoense": 13.0,
+        "Grêmio": 1.2,
+        "Draw": 4.7
+      },
+      "Pinnacle": {
+        "Chapecoense": 16.24,
+        "Grêmio": 1.3,
+        "Draw": 4.63
+      },
+      "Matchbook": {
+        "Chapecoense": 16.0,
+        "Grêmio": 1.34,
+        "Draw": 5.0
+      },
+      "Tipico": {
+        "Chapecoense": 15.0,
+        "Grêmio": 1.22,
+        "Draw": 4.7
+      },
+      "Betfair": {
+        "Chapecoense": 16.0,
+        "Grêmio": 1.35,
+        "Draw": 4.9
       }
     }
   },
@@ -4475,8 +4620,145 @@
       "confidence": 129,
       "alert_type": "value",
       "alerted_at": "2026-08-30T14:50:03.620311+00:00"
+    },
+    {
+      "state_key": "40f851ddb1d1147d119f058498ad0bb2:h2h",
+      "event_id": "40f851ddb1d1147d119f058498ad0bb2",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Clube de Regatas Brasil",
+      "away_team": "Criciuma",
+      "commence_time": "2026-08-30T21:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Criciuma",
+      "odds_at_alert": 30.0,
+      "stake_pct": 5.0,
+      "confidence": 29,
+      "alert_type": "value",
+      "alerted_at": "2026-08-30T22:41:39.449264+00:00"
+    },
+    {
+      "state_key": "40f851ddb1d1147d119f058498ad0bb2:h2h",
+      "event_id": "40f851ddb1d1147d119f058498ad0bb2",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Clube de Regatas Brasil",
+      "away_team": "Criciuma",
+      "commence_time": "2026-08-30T21:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Criciuma",
+      "odds_at_alert": 30.0,
+      "stake_pct": 5.0,
+      "confidence": 29,
+      "alert_type": "value",
+      "alerted_at": "2026-08-30T22:41:39.904421+00:00"
+    },
+    {
+      "state_key": "40f851ddb1d1147d119f058498ad0bb2:h2h",
+      "event_id": "40f851ddb1d1147d119f058498ad0bb2",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Clube de Regatas Brasil",
+      "away_team": "Criciuma",
+      "commence_time": "2026-08-30T21:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Criciuma",
+      "odds_at_alert": 25.0,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-08-30T22:41:40.267770+00:00"
+    },
+    {
+      "state_key": "40f851ddb1d1147d119f058498ad0bb2:h2h",
+      "event_id": "40f851ddb1d1147d119f058498ad0bb2",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Clube de Regatas Brasil",
+      "away_team": "Criciuma",
+      "commence_time": "2026-08-30T21:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Criciuma",
+      "odds_at_alert": 25.0,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-08-30T22:41:40.584646+00:00"
+    },
+    {
+      "state_key": "40f851ddb1d1147d119f058498ad0bb2:h2h",
+      "event_id": "40f851ddb1d1147d119f058498ad0bb2",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Clube de Regatas Brasil",
+      "away_team": "Criciuma",
+      "commence_time": "2026-08-30T21:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Criciuma",
+      "odds_at_alert": 34.0,
+      "stake_pct": 5.0,
+      "confidence": 46,
+      "alert_type": "value",
+      "alerted_at": "2026-08-30T22:41:40.920074+00:00"
+    },
+    {
+      "state_key": "40f851ddb1d1147d119f058498ad0bb2:h2h",
+      "event_id": "40f851ddb1d1147d119f058498ad0bb2",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Clube de Regatas Brasil",
+      "away_team": "Criciuma",
+      "commence_time": "2026-08-30T21:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Criciuma",
+      "odds_at_alert": 34.0,
+      "stake_pct": 5.0,
+      "confidence": 46,
+      "alert_type": "value",
+      "alerted_at": "2026-08-30T22:41:41.235125+00:00"
+    },
+    {
+      "state_key": "be8dd007a8ba034b3a932591c93be046:h2h",
+      "event_id": "be8dd007a8ba034b3a932591c93be046",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Vila Nova",
+      "away_team": "Ceará",
+      "commence_time": "2026-08-30T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Ceará",
+      "odds_at_alert": 24.0,
+      "stake_pct": 3.0,
+      "confidence": 13,
+      "alert_type": "value",
+      "alerted_at": "2026-08-30T22:41:41.560304+00:00"
+    },
+    {
+      "state_key": "be8dd007a8ba034b3a932591c93be046:h2h",
+      "event_id": "be8dd007a8ba034b3a932591c93be046",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Vila Nova",
+      "away_team": "Ceará",
+      "commence_time": "2026-08-30T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Ceará",
+      "odds_at_alert": 23.0,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-08-30T22:41:41.879397+00:00"
     }
   ],
   "results_history": [],
-  "value_alerted": []
+  "value_alerted": [
+    "40f851ddb1d1147d119f058498ad0bb2:h2h|Betfair|Criciuma",
+    "40f851ddb1d1147d119f058498ad0bb2:h2h|Betsson|Criciuma",
+    "40f851ddb1d1147d119f058498ad0bb2:h2h|Coolbet|Criciuma",
+    "40f851ddb1d1147d119f058498ad0bb2:h2h|Matchbook|Criciuma",
+    "40f851ddb1d1147d119f058498ad0bb2:h2h|Nordic Bet|Criciuma",
+    "40f851ddb1d1147d119f058498ad0bb2:h2h|Tipico|Criciuma",
+    "be8dd007a8ba034b3a932591c93be046:h2h|Betfair|Ceará",
+    "be8dd007a8ba034b3a932591c93be046:h2h|Matchbook|Ceará"
+  ]
 }
