@@ -1,406 +1,206 @@
 {
   "snapshots": {
-    "263e8aed91e1aad6c8436c3ebcf5df18:h2h": {
-      "1xBet": {
-        "FC Utrecht": 5.35,
-        "PSV Eindhoven": 1.51,
-        "Draw": 5.14
-      },
-      "Codere (IT)": {
-        "FC Utrecht": 5.4,
-        "PSV Eindhoven": 1.48,
-        "Draw": 5.0
-      },
+    "922ed72d77a125c20cce5060015290de:h2h": {
       "Betclic (FR)": {
-        "FC Utrecht": 5.25,
-        "PSV Eindhoven": 1.45,
-        "Draw": 5.0
+        "Jagiellonia Białystok": 1.0,
+        "Raków Częstochowa": 100.0,
+        "Draw": 40.0
       },
-      "Unibet (FR)": {
-        "FC Utrecht": 5.0,
-        "PSV Eindhoven": 1.44,
-        "Draw": 4.8
-      },
-      "Coolbet": {
-        "FC Utrecht": 5.5,
-        "PSV Eindhoven": 1.5,
-        "Draw": 5.0
-      },
-      "Pinnacle": {
-        "FC Utrecht": 5.52,
-        "PSV Eindhoven": 1.52,
-        "Draw": 5.04
+      "Nordic Bet": {
+        "Jagiellonia Białystok": 1.0,
+        "Raków Częstochowa": 1.0,
+        "Draw": 81.0
       },
       "Betfair": {
-        "FC Utrecht": 6.2,
-        "PSV Eindhoven": 1.53,
-        "Draw": 5.2
+        "Jagiellonia Białystok": 1.01,
+        "Raków Częstochowa": 130.0,
+        "Draw": 50.0
+      }
+    },
+    "e479c08421b8549c6959c2b84f6f3f79:h2h": {
+      "Betfair": {
+        "Brentford": 6.2,
+        "Leeds United": 7.4,
+        "Draw": 1.42
       },
-      "Marathon Bet": {
-        "FC Utrecht": 5.2,
-        "PSV Eindhoven": 1.47,
-        "Draw": 5.0
+      "Betsson": {
+        "Brentford": 6.8,
+        "Leeds United": 7.2,
+        "Draw": 1.26
       },
-      "Winamax (DE)": {
-        "FC Utrecht": 4.9,
-        "PSV Eindhoven": 1.44,
-        "Draw": 5.0
+      "Nordic Bet": {
+        "Brentford": 6.8,
+        "Leeds United": 7.7,
+        "Draw": 1.23
       },
       "Winamax (FR)": {
-        "FC Utrecht": 4.7,
-        "PSV Eindhoven": 1.43,
-        "Draw": 4.9
+        "Brentford": 6.5,
+        "Leeds United": 7.0,
+        "Draw": 1.24
+      },
+      "Betclic (FR)": {
+        "Brentford": 6.75,
+        "Leeds United": 7.75,
+        "Draw": 1.25
+      },
+      "Winamax (DE)": {
+        "Brentford": 7.25,
+        "Leeds United": 8.0,
+        "Draw": 1.22
+      },
+      "MyBookie.ag": {
+        "Brentford": 4.1,
+        "Leeds United": 4.75,
+        "Draw": 1.45
       },
       "888sport": {
-        "FC Utrecht": 5.0,
-        "PSV Eindhoven": 1.5,
-        "Draw": 4.6
-      },
-      "William Hill": {
-        "FC Utrecht": 5.0,
-        "PSV Eindhoven": 1.5,
-        "Draw": 4.6
-      },
-      "Tipico": {
-        "FC Utrecht": 5.5,
-        "PSV Eindhoven": 1.47,
-        "Draw": 4.8
-      },
-      "Betsson": {
-        "FC Utrecht": 5.35,
-        "PSV Eindhoven": 1.52,
-        "Draw": 4.75
-      },
-      "Nordic Bet": {
-        "FC Utrecht": 5.35,
-        "PSV Eindhoven": 1.52,
-        "Draw": 4.75
-      },
-      "Unibet (SE)": {
-        "FC Utrecht": 5.3,
-        "PSV Eindhoven": 1.48,
-        "Draw": 4.7
-      },
-      "PMU (FR)": {
-        "FC Utrecht": 5.1,
-        "PSV Eindhoven": 1.45,
-        "Draw": 4.5
-      },
-      "Unibet (NL)": {
-        "FC Utrecht": 5.75,
-        "PSV Eindhoven": 1.51,
-        "Draw": 5.0
-      },
-      "LeoVegas (SE)": {
-        "FC Utrecht": 5.0,
-        "PSV Eindhoven": 1.43,
-        "Draw": 4.4
-      },
-      "BetOnline.ag": {
-        "FC Utrecht": 5.62,
-        "PSV Eindhoven": 1.51,
-        "Draw": 4.75
-      },
-      "BetAnything": {
-        "FC Utrecht": 5.62,
-        "PSV Eindhoven": 1.51,
-        "Draw": 4.75
-      },
-      "Matchbook": {
-        "FC Utrecht": 6.2,
-        "PSV Eindhoven": 1.53,
-        "Draw": 5.2
-      }
-    },
-    "8fc731d110bce987aa486e88b2b82a87:h2h": {
-      "LeoVegas (SE)": {
-        "Daejeon Citizen": 2.02,
-        "Jeju United FC": 3.15,
-        "Draw": 3.1
-      },
-      "PMU (FR)": {
-        "Daejeon Citizen": 1.95,
-        "Jeju United FC": 3.05,
-        "Draw": 3.0
-      },
-      "Unibet (SE)": {
-        "Daejeon Citizen": 2.04,
-        "Jeju United FC": 3.2,
-        "Draw": 3.15
-      },
-      "Unibet (NL)": {
-        "Daejeon Citizen": 2.04,
-        "Jeju United FC": 3.2,
-        "Draw": 3.15
-      },
-      "Unibet (FR)": {
-        "Daejeon Citizen": 1.91,
-        "Jeju United FC": 3.35,
-        "Draw": 3.25
-      },
-      "Winamax (FR)": {
-        "Daejeon Citizen": 1.96,
-        "Jeju United FC": 3.3,
-        "Draw": 3.35
-      },
-      "Betsson": {
-        "Daejeon Citizen": 2.0,
-        "Jeju United FC": 3.45,
-        "Draw": 3.25
-      },
-      "Betclic (FR)": {
-        "Daejeon Citizen": 1.97,
-        "Jeju United FC": 3.43,
-        "Draw": 3.35
-      },
-      "Winamax (DE)": {
-        "Daejeon Citizen": 1.98,
-        "Jeju United FC": 3.35,
-        "Draw": 3.4
-      },
-      "Nordic Bet": {
-        "Daejeon Citizen": 2.0,
-        "Jeju United FC": 3.45,
-        "Draw": 3.25
-      },
-      "Coolbet": {
-        "Daejeon Citizen": 2.03,
-        "Jeju United FC": 3.6,
-        "Draw": 3.5
-      },
-      "BetOnline.ag": {
-        "Daejeon Citizen": 2.04,
-        "Jeju United FC": 3.6,
-        "Draw": 3.45
-      },
-      "1xBet": {
-        "Daejeon Citizen": 2.01,
-        "Jeju United FC": 3.52,
-        "Draw": 3.5
-      },
-      "Marathon Bet": {
-        "Daejeon Citizen": 2.0,
-        "Jeju United FC": 3.52,
-        "Draw": 3.48
-      },
-      "William Hill": {
-        "Daejeon Citizen": 2.0,
-        "Jeju United FC": 3.4,
-        "Draw": 3.3
+        "Brentford": 6.5,
+        "Leeds United": 7.5,
+        "Draw": 1.25
       },
       "Pinnacle": {
-        "Daejeon Citizen": 2.06,
-        "Jeju United FC": 3.73,
-        "Draw": 3.57
-      },
-      "Tipico": {
-        "Daejeon Citizen": 1.95,
-        "Jeju United FC": 3.8,
-        "Draw": 3.2
-      },
-      "Betfair": {
-        "Daejeon Citizen": 2.1,
-        "Jeju United FC": 3.85,
-        "Draw": 3.55
-      },
-      "Matchbook": {
-        "Daejeon Citizen": 2.12,
-        "Jeju United FC": 3.85,
-        "Draw": 3.6
-      }
-    },
-    "46edc99ca3e4d4058adb26ea5ca48b42:h2h": {
-      "Unibet (SE)": {
-        "FC Seoul": 1.36,
-        "Gwangju FC": 6.5,
-        "Draw": 4.2
-      },
-      "Unibet (NL)": {
-        "FC Seoul": 1.36,
-        "Gwangju FC": 6.5,
-        "Draw": 4.2
-      },
-      "LeoVegas (SE)": {
-        "FC Seoul": 1.36,
-        "Gwangju FC": 6.5,
-        "Draw": 4.1
+        "Brentford": 6.76,
+        "Leeds United": 7.92,
+        "Draw": 1.28
       },
       "PMU (FR)": {
-        "FC Seoul": 1.32,
-        "Gwangju FC": 6.25,
-        "Draw": 4.0
-      },
-      "Unibet (FR)": {
-        "FC Seoul": 1.39,
-        "Gwangju FC": 5.9,
-        "Draw": 4.1
-      },
-      "Winamax (FR)": {
-        "FC Seoul": 1.42,
-        "Gwangju FC": 5.6,
-        "Draw": 4.3
-      },
-      "Betsson": {
-        "FC Seoul": 1.43,
-        "Gwangju FC": 6.1,
-        "Draw": 4.15
-      },
-      "Betclic (FR)": {
-        "FC Seoul": 1.43,
-        "Gwangju FC": 6.1,
-        "Draw": 4.25
-      },
-      "Winamax (DE)": {
-        "FC Seoul": 1.43,
-        "Gwangju FC": 5.8,
-        "Draw": 4.4
-      },
-      "Nordic Bet": {
-        "FC Seoul": 1.43,
-        "Gwangju FC": 6.1,
-        "Draw": 4.15
-      },
-      "Coolbet": {
-        "FC Seoul": 1.43,
-        "Gwangju FC": 7.25,
-        "Draw": 4.5
-      },
-      "BetOnline.ag": {
-        "FC Seoul": 1.46,
-        "Gwangju FC": 6.4,
-        "Draw": 4.6
-      },
-      "1xBet": {
-        "FC Seoul": 1.45,
-        "Gwangju FC": 6.45,
-        "Draw": 4.45
-      },
-      "Marathon Bet": {
-        "FC Seoul": 1.44,
-        "Gwangju FC": 6.45,
-        "Draw": 4.45
-      },
-      "William Hill": {
-        "FC Seoul": 1.44,
-        "Gwangju FC": 6.0,
-        "Draw": 4.2
-      },
-      "Pinnacle": {
-        "FC Seoul": 1.47,
-        "Gwangju FC": 6.76,
-        "Draw": 4.81
-      },
-      "Tipico": {
-        "FC Seoul": 1.4,
-        "Gwangju FC": 6.8,
-        "Draw": 4.4
-      },
-      "Betfair": {
-        "FC Seoul": 1.51,
-        "Gwangju FC": 7.4,
-        "Draw": 4.7
-      },
-      "Matchbook": {
-        "FC Seoul": 1.51,
-        "Gwangju FC": 7.4,
-        "Draw": 4.7
-      }
-    },
-    "09134a266053f63df958b47786bee5f5:h2h": {
-      "Unibet (SE)": {
-        "Gangwon FC": 1.82,
-        "Pohang Steelers": 4.0,
-        "Draw": 3.1
+        "Brentford": 6.25,
+        "Leeds United": 7.5,
+        "Draw": 1.2
       },
       "Unibet (NL)": {
-        "Gangwon FC": 1.82,
-        "Pohang Steelers": 4.0,
-        "Draw": 3.1
+        "Brentford": 6.75,
+        "Leeds United": 8.0,
+        "Draw": 1.25
+      },
+      "Unibet (SE)": {
+        "Brentford": 6.75,
+        "Leeds United": 8.0,
+        "Draw": 1.25
       },
       "LeoVegas (SE)": {
-        "Gangwon FC": 1.81,
-        "Pohang Steelers": 4.0,
-        "Draw": 3.1
-      },
-      "PMU (FR)": {
-        "Gangwon FC": 1.75,
-        "Pohang Steelers": 3.85,
-        "Draw": 3.0
-      },
-      "Unibet (FR)": {
-        "Gangwon FC": 1.88,
-        "Pohang Steelers": 3.75,
-        "Draw": 3.05
-      },
-      "Betsson": {
-        "Gangwon FC": 1.95,
-        "Pohang Steelers": 3.85,
-        "Draw": 3.05
-      },
-      "Winamax (FR)": {
-        "Gangwon FC": 1.92,
-        "Pohang Steelers": 3.65,
-        "Draw": 3.1
-      },
-      "Betclic (FR)": {
-        "Gangwon FC": 1.94,
-        "Pohang Steelers": 3.83,
-        "Draw": 3.1
-      },
-      "Winamax (DE)": {
-        "Gangwon FC": 1.94,
-        "Pohang Steelers": 3.7,
-        "Draw": 3.2
-      },
-      "Nordic Bet": {
-        "Gangwon FC": 1.95,
-        "Pohang Steelers": 3.85,
-        "Draw": 3.05
-      },
-      "BetOnline.ag": {
-        "Gangwon FC": 2.02,
-        "Pohang Steelers": 4.1,
-        "Draw": 3.15
-      },
-      "Coolbet": {
-        "Gangwon FC": 2.0,
-        "Pohang Steelers": 4.0,
-        "Draw": 3.25
-      },
-      "1xBet": {
-        "Gangwon FC": 1.97,
-        "Pohang Steelers": 4.04,
-        "Draw": 3.2
-      },
-      "Marathon Bet": {
-        "Gangwon FC": 1.95,
-        "Pohang Steelers": 4.05,
-        "Draw": 3.2
-      },
-      "William Hill": {
-        "Gangwon FC": 1.95,
-        "Pohang Steelers": 3.9,
-        "Draw": 3.0
-      },
-      "Pinnacle": {
-        "Gangwon FC": 2.05,
-        "Pohang Steelers": 4.17,
-        "Draw": 3.25
+        "Brentford": 6.75,
+        "Leeds United": 8.0,
+        "Draw": 1.25
       },
       "Tipico": {
-        "Gangwon FC": 1.97,
-        "Pohang Steelers": 3.9,
-        "Draw": 3.1
-      },
-      "Betfair": {
-        "Gangwon FC": 2.08,
-        "Pohang Steelers": 4.4,
-        "Draw": 3.25
+        "Brentford": 8.0,
+        "Leeds United": 7.0,
+        "Draw": 1.22
       },
       "Matchbook": {
-        "Gangwon FC": 2.08,
-        "Pohang Steelers": 4.4,
-        "Draw": 3.25
+        "Brentford": 8.0,
+        "Leeds United": 8.4,
+        "Draw": 1.27
+      },
+      "Coolbet": {
+        "Brentford": 7.5,
+        "Leeds United": 8.5,
+        "Draw": 1.25
+      }
+    },
+    "6a4c946a61ddb5ef4703eb4528ccdef1:h2h": {
+      "Betfair": {
+        "Brighton and Hove Albion": 1000.0,
+        "Chelsea": 1.01,
+        "Draw": 55.0
+      },
+      "Nordic Bet": {
+        "Brighton and Hove Albion": 56.0,
+        "Chelsea": 1.0,
+        "Draw": 21.0
+      },
+      "Betsson": {
+        "Brighton and Hove Albion": 61.0,
+        "Chelsea": 1.0,
+        "Draw": 21.0
+      },
+      "Betclic (FR)": {
+        "Brighton and Hove Albion": 100.0,
+        "Chelsea": 1.0,
+        "Draw": 50.0
+      },
+      "Winamax (FR)": {
+        "Brighton and Hove Albion": 350.0,
+        "Chelsea": 1.01,
+        "Draw": 40.0
+      },
+      "Winamax (DE)": {
+        "Brighton and Hove Albion": 350.0,
+        "Chelsea": 1.01,
+        "Draw": 40.0
+      },
+      "MyBookie.ag": {
+        "Brighton and Hove Albion": 110.0,
+        "Chelsea": 1.01,
+        "Draw": 12.0
+      },
+      "888sport": {
+        "Brighton and Hove Albion": 151.0,
+        "Chelsea": 1.0,
+        "Draw": 51.0
+      }
+    },
+    "9becb395ad634de55caec620f9d713fa:h2h": {
+      "Nordic Bet": {
+        "Fulham": 180.0,
+        "Sunderland": 1.03,
+        "Draw": 11.0
+      },
+      "888sport": {
+        "Fulham": 126.0,
+        "Sunderland": 1.05,
+        "Draw": 12.0
+      },
+      "Winamax (DE)": {
+        "Fulham": 900.0,
+        "Sunderland": 1.03,
+        "Draw": 17.0
+      },
+      "Betsson": {
+        "Fulham": 130.0,
+        "Sunderland": 1.04,
+        "Draw": 10.0
+      },
+      "Winamax (FR)": {
+        "Fulham": 450.0,
+        "Sunderland": 1.04,
+        "Draw": 14.0
+      },
+      "Betclic (FR)": {
+        "Fulham": 100.0,
+        "Sunderland": 1.0,
+        "Draw": 12.25
+      },
+      "MyBookie.ag": {
+        "Fulham": 12.25,
+        "Sunderland": 1.1,
+        "Draw": 6.0
+      },
+      "Betfair": {
+        "Fulham": 110.0,
+        "Sunderland": 1.11,
+        "Draw": 11.0
+      },
+      "Pinnacle": {
+        "Fulham": 30.8,
+        "Sunderland": 1.2,
+        "Draw": 5.4
+      },
+      "LeoVegas (SE)": {
+        "Fulham": 126.0,
+        "Sunderland": 1.01,
+        "Draw": 15.0
+      },
+      "Tipico": {
+        "Fulham": 120.0,
+        "Sunderland": 1.02,
+        "Draw": 10.0
+      },
+      "Coolbet": {
+        "Fulham": 400.0,
+        "Sunderland": 1.04,
+        "Draw": 13.0
       }
     }
   },
@@ -4389,13 +4189,451 @@
       "confidence": 6,
       "alert_type": "value",
       "alerted_at": "2026-08-30T08:15:46.143238+00:00"
+    },
+    {
+      "state_key": "e479c08421b8549c6959c2b84f6f3f79:h2h",
+      "event_id": "e479c08421b8549c6959c2b84f6f3f79",
+      "sport_key": "soccer",
+      "competition": "EPL",
+      "home_team": "Leeds United",
+      "away_team": "Brentford",
+      "commence_time": "2026-08-30T13:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 1.42,
+      "stake_pct": 2.0,
+      "confidence": 5,
+      "alert_type": "value",
+      "alerted_at": "2026-08-30T14:49:55.290096+00:00"
+    },
+    {
+      "state_key": "e479c08421b8549c6959c2b84f6f3f79:h2h",
+      "event_id": "e479c08421b8549c6959c2b84f6f3f79",
+      "sport_key": "soccer",
+      "competition": "EPL",
+      "home_team": "Leeds United",
+      "away_team": "Brentford",
+      "commence_time": "2026-08-30T13:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 1.45,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-08-30T14:49:55.628311+00:00"
+    },
+    {
+      "state_key": "e479c08421b8549c6959c2b84f6f3f79:h2h",
+      "event_id": "e479c08421b8549c6959c2b84f6f3f79",
+      "sport_key": "soccer",
+      "competition": "EPL",
+      "home_team": "Leeds United",
+      "away_team": "Brentford",
+      "commence_time": "2026-08-30T13:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Brentford",
+      "odds_at_alert": 8.0,
+      "stake_pct": 3.0,
+      "confidence": 12,
+      "alert_type": "value",
+      "alerted_at": "2026-08-30T14:49:55.962014+00:00"
+    },
+    {
+      "state_key": "e479c08421b8549c6959c2b84f6f3f79:h2h",
+      "event_id": "e479c08421b8549c6959c2b84f6f3f79",
+      "sport_key": "soccer",
+      "competition": "EPL",
+      "home_team": "Leeds United",
+      "away_team": "Brentford",
+      "commence_time": "2026-08-30T13:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Brentford",
+      "odds_at_alert": 8.0,
+      "stake_pct": 3.0,
+      "confidence": 12,
+      "alert_type": "value",
+      "alerted_at": "2026-08-30T14:49:56.291172+00:00"
+    },
+    {
+      "state_key": "e479c08421b8549c6959c2b84f6f3f79:h2h",
+      "event_id": "e479c08421b8549c6959c2b84f6f3f79",
+      "sport_key": "soccer",
+      "competition": "EPL",
+      "home_team": "Leeds United",
+      "away_team": "Brentford",
+      "commence_time": "2026-08-30T13:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Brentford",
+      "odds_at_alert": 7.5,
+      "stake_pct": 2.0,
+      "confidence": 5,
+      "alert_type": "value",
+      "alerted_at": "2026-08-30T14:49:56.625089+00:00"
+    },
+    {
+      "state_key": "9becb395ad634de55caec620f9d713fa:h2h",
+      "event_id": "9becb395ad634de55caec620f9d713fa",
+      "sport_key": "soccer",
+      "competition": "EPL",
+      "home_team": "Sunderland",
+      "away_team": "Fulham",
+      "commence_time": "2026-08-30T13:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Fulham",
+      "odds_at_alert": 180.0,
+      "stake_pct": 5.0,
+      "confidence": 456,
+      "alert_type": "value",
+      "alerted_at": "2026-08-30T14:49:56.943750+00:00"
+    },
+    {
+      "state_key": "9becb395ad634de55caec620f9d713fa:h2h",
+      "event_id": "9becb395ad634de55caec620f9d713fa",
+      "sport_key": "soccer",
+      "competition": "EPL",
+      "home_team": "Sunderland",
+      "away_team": "Fulham",
+      "commence_time": "2026-08-30T13:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 94,
+      "alert_type": "value",
+      "alerted_at": "2026-08-30T14:49:57.263753+00:00"
+    },
+    {
+      "state_key": "9becb395ad634de55caec620f9d713fa:h2h",
+      "event_id": "9becb395ad634de55caec620f9d713fa",
+      "sport_key": "soccer",
+      "competition": "EPL",
+      "home_team": "Sunderland",
+      "away_team": "Fulham",
+      "commence_time": "2026-08-30T13:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Fulham",
+      "odds_at_alert": 126.0,
+      "stake_pct": 5.0,
+      "confidence": 289,
+      "alert_type": "value",
+      "alerted_at": "2026-08-30T14:49:57.596613+00:00"
+    },
+    {
+      "state_key": "9becb395ad634de55caec620f9d713fa:h2h",
+      "event_id": "9becb395ad634de55caec620f9d713fa",
+      "sport_key": "soccer",
+      "competition": "EPL",
+      "home_team": "Sunderland",
+      "away_team": "Fulham",
+      "commence_time": "2026-08-30T13:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 111,
+      "alert_type": "value",
+      "alerted_at": "2026-08-30T14:49:57.922860+00:00"
+    },
+    {
+      "state_key": "9becb395ad634de55caec620f9d713fa:h2h",
+      "event_id": "9becb395ad634de55caec620f9d713fa",
+      "sport_key": "soccer",
+      "competition": "EPL",
+      "home_team": "Sunderland",
+      "away_team": "Fulham",
+      "commence_time": "2026-08-30T13:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Fulham",
+      "odds_at_alert": 900.0,
+      "stake_pct": 5.0,
+      "confidence": 2680,
+      "alert_type": "value",
+      "alerted_at": "2026-08-30T14:49:58.250830+00:00"
+    },
+    {
+      "state_key": "9becb395ad634de55caec620f9d713fa:h2h",
+      "event_id": "9becb395ad634de55caec620f9d713fa",
+      "sport_key": "soccer",
+      "competition": "EPL",
+      "home_team": "Sunderland",
+      "away_team": "Fulham",
+      "commence_time": "2026-08-30T13:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 200,
+      "alert_type": "value",
+      "alerted_at": "2026-08-30T14:49:58.577332+00:00"
+    },
+    {
+      "state_key": "9becb395ad634de55caec620f9d713fa:h2h",
+      "event_id": "9becb395ad634de55caec620f9d713fa",
+      "sport_key": "soccer",
+      "competition": "EPL",
+      "home_team": "Sunderland",
+      "away_team": "Fulham",
+      "commence_time": "2026-08-30T13:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Fulham",
+      "odds_at_alert": 130.0,
+      "stake_pct": 5.0,
+      "confidence": 302,
+      "alert_type": "value",
+      "alerted_at": "2026-08-30T14:49:58.894337+00:00"
+    },
+    {
+      "state_key": "9becb395ad634de55caec620f9d713fa:h2h",
+      "event_id": "9becb395ad634de55caec620f9d713fa",
+      "sport_key": "soccer",
+      "competition": "EPL",
+      "home_team": "Sunderland",
+      "away_team": "Fulham",
+      "commence_time": "2026-08-30T13:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 10.0,
+      "stake_pct": 5.0,
+      "confidence": 76,
+      "alert_type": "value",
+      "alerted_at": "2026-08-30T14:49:59.232195+00:00"
+    },
+    {
+      "state_key": "9becb395ad634de55caec620f9d713fa:h2h",
+      "event_id": "9becb395ad634de55caec620f9d713fa",
+      "sport_key": "soccer",
+      "competition": "EPL",
+      "home_team": "Sunderland",
+      "away_team": "Fulham",
+      "commence_time": "2026-08-30T13:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Fulham",
+      "odds_at_alert": 450.0,
+      "stake_pct": 5.0,
+      "confidence": 1290,
+      "alert_type": "value",
+      "alerted_at": "2026-08-30T14:49:59.578347+00:00"
+    },
+    {
+      "state_key": "9becb395ad634de55caec620f9d713fa:h2h",
+      "event_id": "9becb395ad634de55caec620f9d713fa",
+      "sport_key": "soccer",
+      "competition": "EPL",
+      "home_team": "Sunderland",
+      "away_team": "Fulham",
+      "commence_time": "2026-08-30T13:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 14.0,
+      "stake_pct": 5.0,
+      "confidence": 147,
+      "alert_type": "value",
+      "alerted_at": "2026-08-30T14:49:59.919149+00:00"
+    },
+    {
+      "state_key": "9becb395ad634de55caec620f9d713fa:h2h",
+      "event_id": "9becb395ad634de55caec620f9d713fa",
+      "sport_key": "soccer",
+      "competition": "EPL",
+      "home_team": "Sunderland",
+      "away_team": "Fulham",
+      "commence_time": "2026-08-30T13:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Fulham",
+      "odds_at_alert": 100.0,
+      "stake_pct": 5.0,
+      "confidence": 209,
+      "alert_type": "value",
+      "alerted_at": "2026-08-30T14:50:00.256868+00:00"
+    },
+    {
+      "state_key": "9becb395ad634de55caec620f9d713fa:h2h",
+      "event_id": "9becb395ad634de55caec620f9d713fa",
+      "sport_key": "soccer",
+      "competition": "EPL",
+      "home_team": "Sunderland",
+      "away_team": "Fulham",
+      "commence_time": "2026-08-30T13:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 12.25,
+      "stake_pct": 5.0,
+      "confidence": 116,
+      "alert_type": "value",
+      "alerted_at": "2026-08-30T14:50:00.595227+00:00"
+    },
+    {
+      "state_key": "9becb395ad634de55caec620f9d713fa:h2h",
+      "event_id": "9becb395ad634de55caec620f9d713fa",
+      "sport_key": "soccer",
+      "competition": "EPL",
+      "home_team": "Sunderland",
+      "away_team": "Fulham",
+      "commence_time": "2026-08-30T13:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.0,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-08-30T14:50:00.936328+00:00"
+    },
+    {
+      "state_key": "9becb395ad634de55caec620f9d713fa:h2h",
+      "event_id": "9becb395ad634de55caec620f9d713fa",
+      "sport_key": "soccer",
+      "competition": "EPL",
+      "home_team": "Sunderland",
+      "away_team": "Fulham",
+      "commence_time": "2026-08-30T13:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Fulham",
+      "odds_at_alert": 110.0,
+      "stake_pct": 5.0,
+      "confidence": 240,
+      "alert_type": "value",
+      "alerted_at": "2026-08-30T14:50:01.272022+00:00"
+    },
+    {
+      "state_key": "9becb395ad634de55caec620f9d713fa:h2h",
+      "event_id": "9becb395ad634de55caec620f9d713fa",
+      "sport_key": "soccer",
+      "competition": "EPL",
+      "home_team": "Sunderland",
+      "away_team": "Fulham",
+      "commence_time": "2026-08-30T13:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 94,
+      "alert_type": "value",
+      "alerted_at": "2026-08-30T14:50:01.603949+00:00"
+    },
+    {
+      "state_key": "9becb395ad634de55caec620f9d713fa:h2h",
+      "event_id": "9becb395ad634de55caec620f9d713fa",
+      "sport_key": "soccer",
+      "competition": "EPL",
+      "home_team": "Sunderland",
+      "away_team": "Fulham",
+      "commence_time": "2026-08-30T13:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Fulham",
+      "odds_at_alert": 126.0,
+      "stake_pct": 5.0,
+      "confidence": 289,
+      "alert_type": "value",
+      "alerted_at": "2026-08-30T14:50:01.952299+00:00"
+    },
+    {
+      "state_key": "9becb395ad634de55caec620f9d713fa:h2h",
+      "event_id": "9becb395ad634de55caec620f9d713fa",
+      "sport_key": "soccer",
+      "competition": "EPL",
+      "home_team": "Sunderland",
+      "away_team": "Fulham",
+      "commence_time": "2026-08-30T13:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 164,
+      "alert_type": "value",
+      "alerted_at": "2026-08-30T14:50:02.271478+00:00"
+    },
+    {
+      "state_key": "9becb395ad634de55caec620f9d713fa:h2h",
+      "event_id": "9becb395ad634de55caec620f9d713fa",
+      "sport_key": "soccer",
+      "competition": "EPL",
+      "home_team": "Sunderland",
+      "away_team": "Fulham",
+      "commence_time": "2026-08-30T13:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Fulham",
+      "odds_at_alert": 120.0,
+      "stake_pct": 5.0,
+      "confidence": 271,
+      "alert_type": "value",
+      "alerted_at": "2026-08-30T14:50:02.600513+00:00"
+    },
+    {
+      "state_key": "9becb395ad634de55caec620f9d713fa:h2h",
+      "event_id": "9becb395ad634de55caec620f9d713fa",
+      "sport_key": "soccer",
+      "competition": "EPL",
+      "home_team": "Sunderland",
+      "away_team": "Fulham",
+      "commence_time": "2026-08-30T13:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 10.0,
+      "stake_pct": 5.0,
+      "confidence": 76,
+      "alert_type": "value",
+      "alerted_at": "2026-08-30T14:50:02.920544+00:00"
+    },
+    {
+      "state_key": "9becb395ad634de55caec620f9d713fa:h2h",
+      "event_id": "9becb395ad634de55caec620f9d713fa",
+      "sport_key": "soccer",
+      "competition": "EPL",
+      "home_team": "Sunderland",
+      "away_team": "Fulham",
+      "commence_time": "2026-08-30T13:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Fulham",
+      "odds_at_alert": 400.0,
+      "stake_pct": 5.0,
+      "confidence": 1136,
+      "alert_type": "value",
+      "alerted_at": "2026-08-30T14:50:03.294370+00:00"
+    },
+    {
+      "state_key": "9becb395ad634de55caec620f9d713fa:h2h",
+      "event_id": "9becb395ad634de55caec620f9d713fa",
+      "sport_key": "soccer",
+      "competition": "EPL",
+      "home_team": "Sunderland",
+      "away_team": "Fulham",
+      "commence_time": "2026-08-30T13:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 129,
+      "alert_type": "value",
+      "alerted_at": "2026-08-30T14:50:03.620311+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "263e8aed91e1aad6c8436c3ebcf5df18:h2h|Betfair|FC Utrecht",
-    "263e8aed91e1aad6c8436c3ebcf5df18:h2h|Matchbook|FC Utrecht",
-    "46edc99ca3e4d4058adb26ea5ca48b42:h2h|Betfair|Gwangju FC",
-    "46edc99ca3e4d4058adb26ea5ca48b42:h2h|Matchbook|Gwangju FC"
+    "9becb395ad634de55caec620f9d713fa:h2h|888sport|Draw",
+    "9becb395ad634de55caec620f9d713fa:h2h|888sport|Fulham",
+    "9becb395ad634de55caec620f9d713fa:h2h|Betclic (FR)|Draw",
+    "9becb395ad634de55caec620f9d713fa:h2h|Betclic (FR)|Fulham",
+    "9becb395ad634de55caec620f9d713fa:h2h|Betfair|Draw",
+    "9becb395ad634de55caec620f9d713fa:h2h|Betfair|Fulham",
+    "9becb395ad634de55caec620f9d713fa:h2h|Betsson|Draw",
+    "9becb395ad634de55caec620f9d713fa:h2h|Betsson|Fulham",
+    "9becb395ad634de55caec620f9d713fa:h2h|Coolbet|Draw",
+    "9becb395ad634de55caec620f9d713fa:h2h|Coolbet|Fulham",
+    "9becb395ad634de55caec620f9d713fa:h2h|LeoVegas (SE)|Draw",
+    "9becb395ad634de55caec620f9d713fa:h2h|LeoVegas (SE)|Fulham",
+    "9becb395ad634de55caec620f9d713fa:h2h|MyBookie.ag|Draw",
+    "9becb395ad634de55caec620f9d713fa:h2h|Nordic Bet|Draw",
+    "9becb395ad634de55caec620f9d713fa:h2h|Nordic Bet|Fulham",
+    "9becb395ad634de55caec620f9d713fa:h2h|Tipico|Draw",
+    "9becb395ad634de55caec620f9d713fa:h2h|Tipico|Fulham",
+    "9becb395ad634de55caec620f9d713fa:h2h|Winamax (DE)|Draw",
+    "9becb395ad634de55caec620f9d713fa:h2h|Winamax (DE)|Fulham",
+    "9becb395ad634de55caec620f9d713fa:h2h|Winamax (FR)|Draw",
+    "9becb395ad634de55caec620f9d713fa:h2h|Winamax (FR)|Fulham",
+    "e479c08421b8549c6959c2b84f6f3f79:h2h|Betfair|Draw",
+    "e479c08421b8549c6959c2b84f6f3f79:h2h|Coolbet|Brentford",
+    "e479c08421b8549c6959c2b84f6f3f79:h2h|Matchbook|Brentford",
+    "e479c08421b8549c6959c2b84f6f3f79:h2h|MyBookie.ag|Draw",
+    "e479c08421b8549c6959c2b84f6f3f79:h2h|Tipico|Brentford"
   ]
 }
