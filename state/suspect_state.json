@@ -1,57 +1,291 @@
 {
   "snapshots": {
-    "385281ab2794b520e81b08f6cf141903:h2h": {
-      "Betclic (FR)": {
-        "Juventus": 1.0,
-        "Parma": 100.0,
-        "Draw": 80.0
-      },
-      "Betsson": {
-        "Juventus": 1.0,
-        "Parma": 34.0,
-        "Draw": 29.0
-      },
-      "Nordic Bet": {
-        "Juventus": 1.0,
-        "Parma": 34.0,
-        "Draw": 29.0
-      }
-    },
-    "de6f4173916fd594db32c59f8faed8cf:h2h": {
-      "Betsson": {
-        "FC Zwolle": 41.0,
-        "NEC Nijmegen": 1.0,
-        "Draw": 19.0
-      },
-      "Nordic Bet": {
-        "FC Zwolle": 36.0,
-        "NEC Nijmegen": 1.0,
-        "Draw": 21.0
-      },
-      "Betclic (FR)": {
-        "FC Zwolle": 100.0,
-        "NEC Nijmegen": 1.0,
-        "Draw": 50.0
-      },
+    "c11f914906dc7099ebe06b4f255c7b9a:h2h": {
       "Winamax (FR)": {
-        "FC Zwolle": 500.0,
-        "NEC Nijmegen": 1.01,
-        "Draw": 30.0
+        "Bragantino-SP": 32.0,
+        "Sao Paulo": 1.09,
+        "Draw": 8.5
       },
       "Winamax (DE)": {
-        "FC Zwolle": 500.0,
-        "NEC Nijmegen": 1.01,
-        "Draw": 30.0
+        "Bragantino-SP": 30.0,
+        "Sao Paulo": 1.06,
+        "Draw": 9.5
       },
-      "Betfair": {
-        "FC Zwolle": 80.0,
-        "NEC Nijmegen": 1.01,
-        "Draw": 50.0
+      "MyBookie.ag": {
+        "Bragantino-SP": 30.0,
+        "Sao Paulo": 1.08,
+        "Draw": 8.25
+      },
+      "Coolbet": {
+        "Bragantino-SP": 28.0,
+        "Sao Paulo": 1.08,
+        "Draw": 9.0
+      },
+      "Betclic (FR)": {
+        "Bragantino-SP": 20.0,
+        "Sao Paulo": 1.04,
+        "Draw": 8.25
       },
       "888sport": {
-        "FC Zwolle": 151.0,
-        "NEC Nijmegen": 1.0,
-        "Draw": 61.0
+        "Bragantino-SP": 26.0,
+        "Sao Paulo": 1.08,
+        "Draw": 9.0
+      },
+      "Betsson": {
+        "Bragantino-SP": 24.0,
+        "Sao Paulo": 1.06,
+        "Draw": 8.6
+      },
+      "Nordic Bet": {
+        "Bragantino-SP": 24.0,
+        "Sao Paulo": 1.06,
+        "Draw": 8.6
+      },
+      "Unibet (SE)": {
+        "Bragantino-SP": 31.0,
+        "Sao Paulo": 1.06,
+        "Draw": 11.0
+      },
+      "Unibet (NL)": {
+        "Bragantino-SP": 29.0,
+        "Sao Paulo": 1.02,
+        "Draw": 10.0
+      },
+      "LeoVegas (SE)": {
+        "Bragantino-SP": 29.0,
+        "Sao Paulo": 1.02,
+        "Draw": 10.0
+      },
+      "Matchbook": {
+        "Bragantino-SP": 46.0,
+        "Sao Paulo": 1.11,
+        "Draw": 11.5
+      },
+      "Tipico": {
+        "Bragantino-SP": 22.0,
+        "Sao Paulo": 1.05,
+        "Draw": 10.0
+      },
+      "Betfair": {
+        "Bragantino-SP": 46.0,
+        "Sao Paulo": 1.11,
+        "Draw": 11.5
+      }
+    },
+    "3b106fb357ec8939b788773e90e202c5:h2h": {
+      "Unibet (NL)": {
+        "Atlas": 2.5,
+        "Querétaro": 3.7,
+        "Draw": 2.43
+      },
+      "LeoVegas (SE)": {
+        "Atlas": 2.33,
+        "Querétaro": 3.65,
+        "Draw": 2.25
+      },
+      "PMU (FR)": {
+        "Atlas": 2.25,
+        "Querétaro": 3.3,
+        "Draw": 2.18
+      },
+      "Unibet (SE)": {
+        "Atlas": 2.48,
+        "Querétaro": 3.9,
+        "Draw": 2.38
+      },
+      "Betclic (FR)": {
+        "Atlas": 2.47,
+        "Querétaro": 3.65,
+        "Draw": 2.28
+      },
+      "Coolbet": {
+        "Atlas": 2.63,
+        "Querétaro": 4.0,
+        "Draw": 2.4
+      },
+      "Betsson": {
+        "Atlas": 2.55,
+        "Querétaro": 3.65,
+        "Draw": 2.3
+      },
+      "Nordic Bet": {
+        "Atlas": 2.55,
+        "Querétaro": 3.65,
+        "Draw": 2.3
+      },
+      "Pinnacle": {
+        "Atlas": 2.57,
+        "Querétaro": 3.88,
+        "Draw": 2.42
+      },
+      "888sport": {
+        "Atlas": 2.45,
+        "Querétaro": 3.4,
+        "Draw": 2.2
+      },
+      "Tipico": {
+        "Atlas": 2.5,
+        "Querétaro": 4.0,
+        "Draw": 2.3
+      },
+      "Betfair": {
+        "Atlas": 2.7,
+        "Querétaro": 4.1,
+        "Draw": 2.46
+      },
+      "Matchbook": {
+        "Atlas": 2.7,
+        "Querétaro": 4.3,
+        "Draw": 2.4
+      }
+    },
+    "d918d6ed8b884f7de651c6bd3b949efd:h2h": {
+      "Unibet (SE)": {
+        "Guadalajara": 1.4,
+        "Pachuca": 9.0,
+        "Draw": 3.95
+      },
+      "PMU (FR)": {
+        "Guadalajara": 1.26,
+        "Pachuca": 7.5,
+        "Draw": 3.55
+      },
+      "LeoVegas (SE)": {
+        "Guadalajara": 1.33,
+        "Pachuca": 8.0,
+        "Draw": 3.7
+      },
+      "Unibet (NL)": {
+        "Guadalajara": 1.4,
+        "Pachuca": 8.5,
+        "Draw": 4.0
+      },
+      "Betclic (FR)": {
+        "Guadalajara": 1.29,
+        "Pachuca": 9.5,
+        "Draw": 4.2
+      },
+      "Coolbet": {
+        "Guadalajara": 1.36,
+        "Pachuca": 11.0,
+        "Draw": 4.5
+      },
+      "Nordic Bet": {
+        "Guadalajara": 1.31,
+        "Pachuca": 9.6,
+        "Draw": 4.4
+      },
+      "Betsson": {
+        "Guadalajara": 1.31,
+        "Pachuca": 9.6,
+        "Draw": 4.4
+      },
+      "Tipico": {
+        "Guadalajara": 1.27,
+        "Pachuca": 9.0,
+        "Draw": 5.0
+      },
+      "888sport": {
+        "Guadalajara": 1.33,
+        "Pachuca": 8.0,
+        "Draw": 3.9
+      },
+      "Pinnacle": {
+        "Guadalajara": 1.34,
+        "Pachuca": 10.87,
+        "Draw": 4.61
+      },
+      "Betfair": {
+        "Guadalajara": 1.39,
+        "Pachuca": 11.5,
+        "Draw": 4.8
+      },
+      "Matchbook": {
+        "Guadalajara": 1.38,
+        "Pachuca": 11.5,
+        "Draw": 4.8
+      }
+    },
+    "314428b06f2c4e4296d064693aaf0958:h2h": {
+      "Unibet (SE)": {
+        "Atlanta United FC": 5.5,
+        "Charlotte FC": 1.64,
+        "Draw": 4.1
+      },
+      "Unibet (NL)": {
+        "Atlanta United FC": 5.0,
+        "Charlotte FC": 1.57,
+        "Draw": 3.65
+      },
+      "LeoVegas (SE)": {
+        "Atlanta United FC": 4.9,
+        "Charlotte FC": 1.56,
+        "Draw": 3.7
+      },
+      "PMU (FR)": {
+        "Atlanta United FC": 4.6,
+        "Charlotte FC": 1.5,
+        "Draw": 3.5
+      },
+      "Betclic (FR)": {
+        "Atlanta United FC": 5.25,
+        "Charlotte FC": 1.49,
+        "Draw": 3.6
+      },
+      "Betsson": {
+        "Atlanta United FC": 4.85,
+        "Charlotte FC": 1.58,
+        "Draw": 3.9
+      },
+      "Nordic Bet": {
+        "Atlanta United FC": 4.85,
+        "Charlotte FC": 1.58,
+        "Draw": 3.9
+      },
+      "MyBookie.ag": {
+        "Atlanta United FC": 5.0,
+        "Charlotte FC": 1.55,
+        "Draw": 3.9
+      },
+      "Coolbet": {
+        "Atlanta United FC": 5.0,
+        "Charlotte FC": 1.6,
+        "Draw": 4.0
+      },
+      "Winamax (FR)": {
+        "Atlanta United FC": 4.9,
+        "Charlotte FC": 1.54,
+        "Draw": 3.55
+      },
+      "Winamax (DE)": {
+        "Atlanta United FC": 5.2,
+        "Charlotte FC": 1.56,
+        "Draw": 3.65
+      },
+      "888sport": {
+        "Atlanta United FC": 4.75,
+        "Charlotte FC": 1.61,
+        "Draw": 3.7
+      },
+      "Tipico": {
+        "Atlanta United FC": 5.5,
+        "Charlotte FC": 1.5,
+        "Draw": 4.0
+      },
+      "Pinnacle": {
+        "Atlanta United FC": 5.51,
+        "Charlotte FC": 1.58,
+        "Draw": 3.96
+      },
+      "Betfair": {
+        "Atlanta United FC": 5.8,
+        "Charlotte FC": 1.66,
+        "Draw": 4.2
+      },
+      "Matchbook": {
+        "Atlanta United FC": 5.2,
+        "Charlotte FC": 1.67,
+        "Draw": 4.0
       }
     }
   },
