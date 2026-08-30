@@ -1,291 +1,406 @@
 {
   "snapshots": {
-    "c11f914906dc7099ebe06b4f255c7b9a:h2h": {
-      "Winamax (FR)": {
-        "Bragantino-SP": 32.0,
-        "Sao Paulo": 1.09,
-        "Draw": 8.5
+    "263e8aed91e1aad6c8436c3ebcf5df18:h2h": {
+      "1xBet": {
+        "FC Utrecht": 5.35,
+        "PSV Eindhoven": 1.51,
+        "Draw": 5.14
       },
-      "Winamax (DE)": {
-        "Bragantino-SP": 30.0,
-        "Sao Paulo": 1.06,
-        "Draw": 9.5
-      },
-      "MyBookie.ag": {
-        "Bragantino-SP": 30.0,
-        "Sao Paulo": 1.08,
-        "Draw": 8.25
-      },
-      "Coolbet": {
-        "Bragantino-SP": 28.0,
-        "Sao Paulo": 1.08,
-        "Draw": 9.0
-      },
-      "Betclic (FR)": {
-        "Bragantino-SP": 20.0,
-        "Sao Paulo": 1.04,
-        "Draw": 8.25
-      },
-      "888sport": {
-        "Bragantino-SP": 26.0,
-        "Sao Paulo": 1.08,
-        "Draw": 9.0
-      },
-      "Betsson": {
-        "Bragantino-SP": 24.0,
-        "Sao Paulo": 1.06,
-        "Draw": 8.6
-      },
-      "Nordic Bet": {
-        "Bragantino-SP": 24.0,
-        "Sao Paulo": 1.06,
-        "Draw": 8.6
-      },
-      "Unibet (SE)": {
-        "Bragantino-SP": 31.0,
-        "Sao Paulo": 1.06,
-        "Draw": 11.0
-      },
-      "Unibet (NL)": {
-        "Bragantino-SP": 29.0,
-        "Sao Paulo": 1.02,
-        "Draw": 10.0
-      },
-      "LeoVegas (SE)": {
-        "Bragantino-SP": 29.0,
-        "Sao Paulo": 1.02,
-        "Draw": 10.0
-      },
-      "Matchbook": {
-        "Bragantino-SP": 46.0,
-        "Sao Paulo": 1.11,
-        "Draw": 11.5
-      },
-      "Tipico": {
-        "Bragantino-SP": 22.0,
-        "Sao Paulo": 1.05,
-        "Draw": 10.0
-      },
-      "Betfair": {
-        "Bragantino-SP": 46.0,
-        "Sao Paulo": 1.11,
-        "Draw": 11.5
-      }
-    },
-    "3b106fb357ec8939b788773e90e202c5:h2h": {
-      "Unibet (NL)": {
-        "Atlas": 2.5,
-        "Querétaro": 3.7,
-        "Draw": 2.43
-      },
-      "LeoVegas (SE)": {
-        "Atlas": 2.33,
-        "Querétaro": 3.65,
-        "Draw": 2.25
-      },
-      "PMU (FR)": {
-        "Atlas": 2.25,
-        "Querétaro": 3.3,
-        "Draw": 2.18
-      },
-      "Unibet (SE)": {
-        "Atlas": 2.48,
-        "Querétaro": 3.9,
-        "Draw": 2.38
-      },
-      "Betclic (FR)": {
-        "Atlas": 2.47,
-        "Querétaro": 3.65,
-        "Draw": 2.28
-      },
-      "Coolbet": {
-        "Atlas": 2.63,
-        "Querétaro": 4.0,
-        "Draw": 2.4
-      },
-      "Betsson": {
-        "Atlas": 2.55,
-        "Querétaro": 3.65,
-        "Draw": 2.3
-      },
-      "Nordic Bet": {
-        "Atlas": 2.55,
-        "Querétaro": 3.65,
-        "Draw": 2.3
-      },
-      "Pinnacle": {
-        "Atlas": 2.57,
-        "Querétaro": 3.88,
-        "Draw": 2.42
-      },
-      "888sport": {
-        "Atlas": 2.45,
-        "Querétaro": 3.4,
-        "Draw": 2.2
-      },
-      "Tipico": {
-        "Atlas": 2.5,
-        "Querétaro": 4.0,
-        "Draw": 2.3
-      },
-      "Betfair": {
-        "Atlas": 2.7,
-        "Querétaro": 4.1,
-        "Draw": 2.46
-      },
-      "Matchbook": {
-        "Atlas": 2.7,
-        "Querétaro": 4.3,
-        "Draw": 2.4
-      }
-    },
-    "d918d6ed8b884f7de651c6bd3b949efd:h2h": {
-      "Unibet (SE)": {
-        "Guadalajara": 1.4,
-        "Pachuca": 9.0,
-        "Draw": 3.95
-      },
-      "PMU (FR)": {
-        "Guadalajara": 1.26,
-        "Pachuca": 7.5,
-        "Draw": 3.55
-      },
-      "LeoVegas (SE)": {
-        "Guadalajara": 1.33,
-        "Pachuca": 8.0,
-        "Draw": 3.7
-      },
-      "Unibet (NL)": {
-        "Guadalajara": 1.4,
-        "Pachuca": 8.5,
-        "Draw": 4.0
-      },
-      "Betclic (FR)": {
-        "Guadalajara": 1.29,
-        "Pachuca": 9.5,
-        "Draw": 4.2
-      },
-      "Coolbet": {
-        "Guadalajara": 1.36,
-        "Pachuca": 11.0,
-        "Draw": 4.5
-      },
-      "Nordic Bet": {
-        "Guadalajara": 1.31,
-        "Pachuca": 9.6,
-        "Draw": 4.4
-      },
-      "Betsson": {
-        "Guadalajara": 1.31,
-        "Pachuca": 9.6,
-        "Draw": 4.4
-      },
-      "Tipico": {
-        "Guadalajara": 1.27,
-        "Pachuca": 9.0,
+      "Codere (IT)": {
+        "FC Utrecht": 5.4,
+        "PSV Eindhoven": 1.48,
         "Draw": 5.0
       },
-      "888sport": {
-        "Guadalajara": 1.33,
-        "Pachuca": 8.0,
-        "Draw": 3.9
-      },
-      "Pinnacle": {
-        "Guadalajara": 1.34,
-        "Pachuca": 10.87,
-        "Draw": 4.61
-      },
-      "Betfair": {
-        "Guadalajara": 1.39,
-        "Pachuca": 11.5,
-        "Draw": 4.8
-      },
-      "Matchbook": {
-        "Guadalajara": 1.38,
-        "Pachuca": 11.5,
-        "Draw": 4.8
-      }
-    },
-    "314428b06f2c4e4296d064693aaf0958:h2h": {
-      "Unibet (SE)": {
-        "Atlanta United FC": 5.5,
-        "Charlotte FC": 1.64,
-        "Draw": 4.1
-      },
-      "Unibet (NL)": {
-        "Atlanta United FC": 5.0,
-        "Charlotte FC": 1.57,
-        "Draw": 3.65
-      },
-      "LeoVegas (SE)": {
-        "Atlanta United FC": 4.9,
-        "Charlotte FC": 1.56,
-        "Draw": 3.7
-      },
-      "PMU (FR)": {
-        "Atlanta United FC": 4.6,
-        "Charlotte FC": 1.5,
-        "Draw": 3.5
-      },
       "Betclic (FR)": {
-        "Atlanta United FC": 5.25,
-        "Charlotte FC": 1.49,
-        "Draw": 3.6
+        "FC Utrecht": 5.25,
+        "PSV Eindhoven": 1.45,
+        "Draw": 5.0
       },
-      "Betsson": {
-        "Atlanta United FC": 4.85,
-        "Charlotte FC": 1.58,
-        "Draw": 3.9
-      },
-      "Nordic Bet": {
-        "Atlanta United FC": 4.85,
-        "Charlotte FC": 1.58,
-        "Draw": 3.9
-      },
-      "MyBookie.ag": {
-        "Atlanta United FC": 5.0,
-        "Charlotte FC": 1.55,
-        "Draw": 3.9
+      "Unibet (FR)": {
+        "FC Utrecht": 5.0,
+        "PSV Eindhoven": 1.44,
+        "Draw": 4.8
       },
       "Coolbet": {
-        "Atlanta United FC": 5.0,
-        "Charlotte FC": 1.6,
-        "Draw": 4.0
-      },
-      "Winamax (FR)": {
-        "Atlanta United FC": 4.9,
-        "Charlotte FC": 1.54,
-        "Draw": 3.55
-      },
-      "Winamax (DE)": {
-        "Atlanta United FC": 5.2,
-        "Charlotte FC": 1.56,
-        "Draw": 3.65
-      },
-      "888sport": {
-        "Atlanta United FC": 4.75,
-        "Charlotte FC": 1.61,
-        "Draw": 3.7
-      },
-      "Tipico": {
-        "Atlanta United FC": 5.5,
-        "Charlotte FC": 1.5,
-        "Draw": 4.0
+        "FC Utrecht": 5.5,
+        "PSV Eindhoven": 1.5,
+        "Draw": 5.0
       },
       "Pinnacle": {
-        "Atlanta United FC": 5.51,
-        "Charlotte FC": 1.58,
-        "Draw": 3.96
+        "FC Utrecht": 5.52,
+        "PSV Eindhoven": 1.52,
+        "Draw": 5.04
       },
       "Betfair": {
-        "Atlanta United FC": 5.8,
-        "Charlotte FC": 1.66,
-        "Draw": 4.2
+        "FC Utrecht": 6.2,
+        "PSV Eindhoven": 1.53,
+        "Draw": 5.2
+      },
+      "Marathon Bet": {
+        "FC Utrecht": 5.2,
+        "PSV Eindhoven": 1.47,
+        "Draw": 5.0
+      },
+      "Winamax (DE)": {
+        "FC Utrecht": 4.9,
+        "PSV Eindhoven": 1.44,
+        "Draw": 5.0
+      },
+      "Winamax (FR)": {
+        "FC Utrecht": 4.7,
+        "PSV Eindhoven": 1.43,
+        "Draw": 4.9
+      },
+      "888sport": {
+        "FC Utrecht": 5.0,
+        "PSV Eindhoven": 1.5,
+        "Draw": 4.6
+      },
+      "William Hill": {
+        "FC Utrecht": 5.0,
+        "PSV Eindhoven": 1.5,
+        "Draw": 4.6
+      },
+      "Tipico": {
+        "FC Utrecht": 5.5,
+        "PSV Eindhoven": 1.47,
+        "Draw": 4.8
+      },
+      "Betsson": {
+        "FC Utrecht": 5.35,
+        "PSV Eindhoven": 1.52,
+        "Draw": 4.75
+      },
+      "Nordic Bet": {
+        "FC Utrecht": 5.35,
+        "PSV Eindhoven": 1.52,
+        "Draw": 4.75
+      },
+      "Unibet (SE)": {
+        "FC Utrecht": 5.3,
+        "PSV Eindhoven": 1.48,
+        "Draw": 4.7
+      },
+      "PMU (FR)": {
+        "FC Utrecht": 5.1,
+        "PSV Eindhoven": 1.45,
+        "Draw": 4.5
+      },
+      "Unibet (NL)": {
+        "FC Utrecht": 5.75,
+        "PSV Eindhoven": 1.51,
+        "Draw": 5.0
+      },
+      "LeoVegas (SE)": {
+        "FC Utrecht": 5.0,
+        "PSV Eindhoven": 1.43,
+        "Draw": 4.4
+      },
+      "BetOnline.ag": {
+        "FC Utrecht": 5.62,
+        "PSV Eindhoven": 1.51,
+        "Draw": 4.75
+      },
+      "BetAnything": {
+        "FC Utrecht": 5.62,
+        "PSV Eindhoven": 1.51,
+        "Draw": 4.75
       },
       "Matchbook": {
-        "Atlanta United FC": 5.2,
-        "Charlotte FC": 1.67,
+        "FC Utrecht": 6.2,
+        "PSV Eindhoven": 1.53,
+        "Draw": 5.2
+      }
+    },
+    "8fc731d110bce987aa486e88b2b82a87:h2h": {
+      "LeoVegas (SE)": {
+        "Daejeon Citizen": 2.02,
+        "Jeju United FC": 3.15,
+        "Draw": 3.1
+      },
+      "PMU (FR)": {
+        "Daejeon Citizen": 1.95,
+        "Jeju United FC": 3.05,
+        "Draw": 3.0
+      },
+      "Unibet (SE)": {
+        "Daejeon Citizen": 2.04,
+        "Jeju United FC": 3.2,
+        "Draw": 3.15
+      },
+      "Unibet (NL)": {
+        "Daejeon Citizen": 2.04,
+        "Jeju United FC": 3.2,
+        "Draw": 3.15
+      },
+      "Unibet (FR)": {
+        "Daejeon Citizen": 1.91,
+        "Jeju United FC": 3.35,
+        "Draw": 3.25
+      },
+      "Winamax (FR)": {
+        "Daejeon Citizen": 1.96,
+        "Jeju United FC": 3.3,
+        "Draw": 3.35
+      },
+      "Betsson": {
+        "Daejeon Citizen": 2.0,
+        "Jeju United FC": 3.45,
+        "Draw": 3.25
+      },
+      "Betclic (FR)": {
+        "Daejeon Citizen": 1.97,
+        "Jeju United FC": 3.43,
+        "Draw": 3.35
+      },
+      "Winamax (DE)": {
+        "Daejeon Citizen": 1.98,
+        "Jeju United FC": 3.35,
+        "Draw": 3.4
+      },
+      "Nordic Bet": {
+        "Daejeon Citizen": 2.0,
+        "Jeju United FC": 3.45,
+        "Draw": 3.25
+      },
+      "Coolbet": {
+        "Daejeon Citizen": 2.03,
+        "Jeju United FC": 3.6,
+        "Draw": 3.5
+      },
+      "BetOnline.ag": {
+        "Daejeon Citizen": 2.04,
+        "Jeju United FC": 3.6,
+        "Draw": 3.45
+      },
+      "1xBet": {
+        "Daejeon Citizen": 2.01,
+        "Jeju United FC": 3.52,
+        "Draw": 3.5
+      },
+      "Marathon Bet": {
+        "Daejeon Citizen": 2.0,
+        "Jeju United FC": 3.52,
+        "Draw": 3.48
+      },
+      "William Hill": {
+        "Daejeon Citizen": 2.0,
+        "Jeju United FC": 3.4,
+        "Draw": 3.3
+      },
+      "Pinnacle": {
+        "Daejeon Citizen": 2.06,
+        "Jeju United FC": 3.73,
+        "Draw": 3.57
+      },
+      "Tipico": {
+        "Daejeon Citizen": 1.95,
+        "Jeju United FC": 3.8,
+        "Draw": 3.2
+      },
+      "Betfair": {
+        "Daejeon Citizen": 2.1,
+        "Jeju United FC": 3.85,
+        "Draw": 3.55
+      },
+      "Matchbook": {
+        "Daejeon Citizen": 2.12,
+        "Jeju United FC": 3.85,
+        "Draw": 3.6
+      }
+    },
+    "46edc99ca3e4d4058adb26ea5ca48b42:h2h": {
+      "Unibet (SE)": {
+        "FC Seoul": 1.36,
+        "Gwangju FC": 6.5,
+        "Draw": 4.2
+      },
+      "Unibet (NL)": {
+        "FC Seoul": 1.36,
+        "Gwangju FC": 6.5,
+        "Draw": 4.2
+      },
+      "LeoVegas (SE)": {
+        "FC Seoul": 1.36,
+        "Gwangju FC": 6.5,
+        "Draw": 4.1
+      },
+      "PMU (FR)": {
+        "FC Seoul": 1.32,
+        "Gwangju FC": 6.25,
         "Draw": 4.0
+      },
+      "Unibet (FR)": {
+        "FC Seoul": 1.39,
+        "Gwangju FC": 5.9,
+        "Draw": 4.1
+      },
+      "Winamax (FR)": {
+        "FC Seoul": 1.42,
+        "Gwangju FC": 5.6,
+        "Draw": 4.3
+      },
+      "Betsson": {
+        "FC Seoul": 1.43,
+        "Gwangju FC": 6.1,
+        "Draw": 4.15
+      },
+      "Betclic (FR)": {
+        "FC Seoul": 1.43,
+        "Gwangju FC": 6.1,
+        "Draw": 4.25
+      },
+      "Winamax (DE)": {
+        "FC Seoul": 1.43,
+        "Gwangju FC": 5.8,
+        "Draw": 4.4
+      },
+      "Nordic Bet": {
+        "FC Seoul": 1.43,
+        "Gwangju FC": 6.1,
+        "Draw": 4.15
+      },
+      "Coolbet": {
+        "FC Seoul": 1.43,
+        "Gwangju FC": 7.25,
+        "Draw": 4.5
+      },
+      "BetOnline.ag": {
+        "FC Seoul": 1.46,
+        "Gwangju FC": 6.4,
+        "Draw": 4.6
+      },
+      "1xBet": {
+        "FC Seoul": 1.45,
+        "Gwangju FC": 6.45,
+        "Draw": 4.45
+      },
+      "Marathon Bet": {
+        "FC Seoul": 1.44,
+        "Gwangju FC": 6.45,
+        "Draw": 4.45
+      },
+      "William Hill": {
+        "FC Seoul": 1.44,
+        "Gwangju FC": 6.0,
+        "Draw": 4.2
+      },
+      "Pinnacle": {
+        "FC Seoul": 1.47,
+        "Gwangju FC": 6.76,
+        "Draw": 4.81
+      },
+      "Tipico": {
+        "FC Seoul": 1.4,
+        "Gwangju FC": 6.8,
+        "Draw": 4.4
+      },
+      "Betfair": {
+        "FC Seoul": 1.51,
+        "Gwangju FC": 7.4,
+        "Draw": 4.7
+      },
+      "Matchbook": {
+        "FC Seoul": 1.51,
+        "Gwangju FC": 7.4,
+        "Draw": 4.7
+      }
+    },
+    "09134a266053f63df958b47786bee5f5:h2h": {
+      "Unibet (SE)": {
+        "Gangwon FC": 1.82,
+        "Pohang Steelers": 4.0,
+        "Draw": 3.1
+      },
+      "Unibet (NL)": {
+        "Gangwon FC": 1.82,
+        "Pohang Steelers": 4.0,
+        "Draw": 3.1
+      },
+      "LeoVegas (SE)": {
+        "Gangwon FC": 1.81,
+        "Pohang Steelers": 4.0,
+        "Draw": 3.1
+      },
+      "PMU (FR)": {
+        "Gangwon FC": 1.75,
+        "Pohang Steelers": 3.85,
+        "Draw": 3.0
+      },
+      "Unibet (FR)": {
+        "Gangwon FC": 1.88,
+        "Pohang Steelers": 3.75,
+        "Draw": 3.05
+      },
+      "Betsson": {
+        "Gangwon FC": 1.95,
+        "Pohang Steelers": 3.85,
+        "Draw": 3.05
+      },
+      "Winamax (FR)": {
+        "Gangwon FC": 1.92,
+        "Pohang Steelers": 3.65,
+        "Draw": 3.1
+      },
+      "Betclic (FR)": {
+        "Gangwon FC": 1.94,
+        "Pohang Steelers": 3.83,
+        "Draw": 3.1
+      },
+      "Winamax (DE)": {
+        "Gangwon FC": 1.94,
+        "Pohang Steelers": 3.7,
+        "Draw": 3.2
+      },
+      "Nordic Bet": {
+        "Gangwon FC": 1.95,
+        "Pohang Steelers": 3.85,
+        "Draw": 3.05
+      },
+      "BetOnline.ag": {
+        "Gangwon FC": 2.02,
+        "Pohang Steelers": 4.1,
+        "Draw": 3.15
+      },
+      "Coolbet": {
+        "Gangwon FC": 2.0,
+        "Pohang Steelers": 4.0,
+        "Draw": 3.25
+      },
+      "1xBet": {
+        "Gangwon FC": 1.97,
+        "Pohang Steelers": 4.04,
+        "Draw": 3.2
+      },
+      "Marathon Bet": {
+        "Gangwon FC": 1.95,
+        "Pohang Steelers": 4.05,
+        "Draw": 3.2
+      },
+      "William Hill": {
+        "Gangwon FC": 1.95,
+        "Pohang Steelers": 3.9,
+        "Draw": 3.0
+      },
+      "Pinnacle": {
+        "Gangwon FC": 2.05,
+        "Pohang Steelers": 4.17,
+        "Draw": 3.25
+      },
+      "Tipico": {
+        "Gangwon FC": 1.97,
+        "Pohang Steelers": 3.9,
+        "Draw": 3.1
+      },
+      "Betfair": {
+        "Gangwon FC": 2.08,
+        "Pohang Steelers": 4.4,
+        "Draw": 3.25
+      },
+      "Matchbook": {
+        "Gangwon FC": 2.08,
+        "Pohang Steelers": 4.4,
+        "Draw": 3.25
       }
     }
   },
@@ -4210,8 +4325,77 @@
       "confidence": 207,
       "alert_type": "value",
       "alerted_at": "2026-08-29T11:00:56.574428+00:00"
+    },
+    {
+      "state_key": "263e8aed91e1aad6c8436c3ebcf5df18:h2h",
+      "event_id": "263e8aed91e1aad6c8436c3ebcf5df18",
+      "sport_key": "soccer",
+      "competition": "Dutch Eredivisie",
+      "home_team": "FC Utrecht",
+      "away_team": "PSV Eindhoven",
+      "commence_time": "2026-08-30T10:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Utrecht",
+      "odds_at_alert": 6.2,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-08-30T08:15:44.644770+00:00"
+    },
+    {
+      "state_key": "263e8aed91e1aad6c8436c3ebcf5df18:h2h",
+      "event_id": "263e8aed91e1aad6c8436c3ebcf5df18",
+      "sport_key": "soccer",
+      "competition": "Dutch Eredivisie",
+      "home_team": "FC Utrecht",
+      "away_team": "PSV Eindhoven",
+      "commence_time": "2026-08-30T10:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Utrecht",
+      "odds_at_alert": 6.2,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-08-30T08:15:45.126271+00:00"
+    },
+    {
+      "state_key": "46edc99ca3e4d4058adb26ea5ca48b42:h2h",
+      "event_id": "46edc99ca3e4d4058adb26ea5ca48b42",
+      "sport_key": "soccer",
+      "competition": "K League 1",
+      "home_team": "Gwangju FC",
+      "away_team": "FC Seoul",
+      "commence_time": "2026-08-30T10:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gwangju FC",
+      "odds_at_alert": 7.4,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-08-30T08:15:45.605669+00:00"
+    },
+    {
+      "state_key": "46edc99ca3e4d4058adb26ea5ca48b42:h2h",
+      "event_id": "46edc99ca3e4d4058adb26ea5ca48b42",
+      "sport_key": "soccer",
+      "competition": "K League 1",
+      "home_team": "Gwangju FC",
+      "away_team": "FC Seoul",
+      "commence_time": "2026-08-30T10:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gwangju FC",
+      "odds_at_alert": 7.4,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-08-30T08:15:46.143238+00:00"
     }
   ],
   "results_history": [],
-  "value_alerted": []
+  "value_alerted": [
+    "263e8aed91e1aad6c8436c3ebcf5df18:h2h|Betfair|FC Utrecht",
+    "263e8aed91e1aad6c8436c3ebcf5df18:h2h|Matchbook|FC Utrecht",
+    "46edc99ca3e4d4058adb26ea5ca48b42:h2h|Betfair|Gwangju FC",
+    "46edc99ca3e4d4058adb26ea5ca48b42:h2h|Matchbook|Gwangju FC"
+  ]
 }
