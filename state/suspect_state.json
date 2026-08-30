@@ -1,206 +1,76 @@
 {
   "snapshots": {
-    "922ed72d77a125c20cce5060015290de:h2h": {
-      "Betclic (FR)": {
-        "Jagiellonia Białystok": 1.0,
-        "Raków Częstochowa": 100.0,
-        "Draw": 40.0
-      },
+    "456e871d1fe9110c581ba86856ea6cd7:h2h": {
       "Nordic Bet": {
-        "Jagiellonia Białystok": 1.0,
-        "Raków Częstochowa": 1.0,
-        "Draw": 81.0
-      },
-      "Betfair": {
-        "Jagiellonia Białystok": 1.01,
-        "Raków Częstochowa": 130.0,
-        "Draw": 50.0
+        "Casa Pia": 1.0,
+        "Moreirense FC": 1.0,
+        "Draw": 1.0
       }
     },
-    "e479c08421b8549c6959c2b84f6f3f79:h2h": {
-      "Betfair": {
-        "Brentford": 6.2,
-        "Leeds United": 7.4,
-        "Draw": 1.42
+    "3aec0f1e1d85da95b9d27c75118ed652:h2h": {
+      "Nordic Bet": {
+        "Cádiz CF": 81.0,
+        "Real Valladolid CF": 81.0,
+        "Draw": 1.0
+      }
+    },
+    "e252adca25b72af880afe88df39b699d:h2h": {
+      "Nordic Bet": {
+        "Atromitos Athens": 1.0,
+        "PAOK Thessaloniki": 1.0,
+        "Draw": 1.0
       },
       "Betsson": {
-        "Brentford": 6.8,
-        "Leeds United": 7.2,
-        "Draw": 1.26
-      },
-      "Nordic Bet": {
-        "Brentford": 6.8,
-        "Leeds United": 7.7,
-        "Draw": 1.23
-      },
-      "Winamax (FR)": {
-        "Brentford": 6.5,
-        "Leeds United": 7.0,
-        "Draw": 1.24
-      },
-      "Betclic (FR)": {
-        "Brentford": 6.75,
-        "Leeds United": 7.75,
-        "Draw": 1.25
-      },
-      "Winamax (DE)": {
-        "Brentford": 7.25,
-        "Leeds United": 8.0,
-        "Draw": 1.22
-      },
-      "MyBookie.ag": {
-        "Brentford": 4.1,
-        "Leeds United": 4.75,
-        "Draw": 1.45
-      },
-      "888sport": {
-        "Brentford": 6.5,
-        "Leeds United": 7.5,
-        "Draw": 1.25
-      },
-      "Pinnacle": {
-        "Brentford": 6.76,
-        "Leeds United": 7.92,
-        "Draw": 1.28
-      },
-      "PMU (FR)": {
-        "Brentford": 6.25,
-        "Leeds United": 7.5,
-        "Draw": 1.2
-      },
-      "Unibet (NL)": {
-        "Brentford": 6.75,
-        "Leeds United": 8.0,
-        "Draw": 1.25
-      },
-      "Unibet (SE)": {
-        "Brentford": 6.75,
-        "Leeds United": 8.0,
-        "Draw": 1.25
-      },
-      "LeoVegas (SE)": {
-        "Brentford": 6.75,
-        "Leeds United": 8.0,
-        "Draw": 1.25
-      },
-      "Tipico": {
-        "Brentford": 8.0,
-        "Leeds United": 7.0,
-        "Draw": 1.22
-      },
-      "Matchbook": {
-        "Brentford": 8.0,
-        "Leeds United": 8.4,
-        "Draw": 1.27
-      },
-      "Coolbet": {
-        "Brentford": 7.5,
-        "Leeds United": 8.5,
-        "Draw": 1.25
-      }
-    },
-    "6a4c946a61ddb5ef4703eb4528ccdef1:h2h": {
-      "Betfair": {
-        "Brighton and Hove Albion": 1000.0,
-        "Chelsea": 1.01,
-        "Draw": 55.0
-      },
-      "Nordic Bet": {
-        "Brighton and Hove Albion": 56.0,
-        "Chelsea": 1.0,
-        "Draw": 21.0
-      },
-      "Betsson": {
-        "Brighton and Hove Albion": 61.0,
-        "Chelsea": 1.0,
-        "Draw": 21.0
-      },
-      "Betclic (FR)": {
-        "Brighton and Hove Albion": 100.0,
-        "Chelsea": 1.0,
-        "Draw": 50.0
-      },
-      "Winamax (FR)": {
-        "Brighton and Hove Albion": 350.0,
-        "Chelsea": 1.01,
-        "Draw": 40.0
-      },
-      "Winamax (DE)": {
-        "Brighton and Hove Albion": 350.0,
-        "Chelsea": 1.01,
-        "Draw": 40.0
-      },
-      "MyBookie.ag": {
-        "Brighton and Hove Albion": 110.0,
-        "Chelsea": 1.01,
-        "Draw": 12.0
-      },
-      "888sport": {
-        "Brighton and Hove Albion": 151.0,
-        "Chelsea": 1.0,
-        "Draw": 51.0
-      }
-    },
-    "9becb395ad634de55caec620f9d713fa:h2h": {
-      "Nordic Bet": {
-        "Fulham": 180.0,
-        "Sunderland": 1.03,
-        "Draw": 11.0
-      },
-      "888sport": {
-        "Fulham": 126.0,
-        "Sunderland": 1.05,
-        "Draw": 12.0
-      },
-      "Winamax (DE)": {
-        "Fulham": 900.0,
-        "Sunderland": 1.03,
+        "Atromitos Athens": 81.0,
+        "PAOK Thessaloniki": 1.0,
         "Draw": 17.0
       },
-      "Betsson": {
-        "Fulham": 130.0,
-        "Sunderland": 1.04,
-        "Draw": 10.0
-      },
-      "Winamax (FR)": {
-        "Fulham": 450.0,
-        "Sunderland": 1.04,
-        "Draw": 14.0
+      "Coolbet": {
+        "Atromitos Athens": 100.0,
+        "PAOK Thessaloniki": 1.0,
+        "Draw": 16.0
       },
       "Betclic (FR)": {
-        "Fulham": 100.0,
-        "Sunderland": 1.0,
-        "Draw": 12.25
+        "Atromitos Athens": 85.0,
+        "PAOK Thessaloniki": 1.0,
+        "Draw": 24.0
       },
-      "MyBookie.ag": {
-        "Fulham": 12.25,
-        "Sunderland": 1.1,
-        "Draw": 6.0
+      "Winamax (FR)": {
+        "Atromitos Athens": 1000.0,
+        "PAOK Thessaloniki": 1.02,
+        "Draw": 24.0
+      },
+      "Winamax (DE)": {
+        "Atromitos Athens": 600.0,
+        "PAOK Thessaloniki": 1.02,
+        "Draw": 19.0
+      },
+      "888sport": {
+        "Atromitos Athens": 101.0,
+        "PAOK Thessaloniki": 1.04,
+        "Draw": 12.0
       },
       "Betfair": {
-        "Fulham": 110.0,
-        "Sunderland": 1.11,
-        "Draw": 11.0
+        "Atromitos Athens": 1000.0,
+        "PAOK Thessaloniki": 1.03,
+        "Draw": 26.0
+      }
+    },
+    "86349a3de74d6c75ddb561eb931df813:h2h": {
+      "Betclic (FR)": {
+        "Fredrikstad FK": 1.02,
+        "Lillestrom": 100.0,
+        "Draw": 40.0
       },
-      "Pinnacle": {
-        "Fulham": 30.8,
-        "Sunderland": 1.2,
-        "Draw": 5.4
+      "Nordic Bet": {
+        "Fredrikstad FK": 1.0,
+        "Lillestrom": 26.0,
+        "Draw": 26.0
       },
-      "LeoVegas (SE)": {
-        "Fulham": 126.0,
-        "Sunderland": 1.01,
-        "Draw": 15.0
-      },
-      "Tipico": {
-        "Fulham": 120.0,
-        "Sunderland": 1.02,
-        "Draw": 10.0
-      },
-      "Coolbet": {
-        "Fulham": 400.0,
-        "Sunderland": 1.04,
-        "Draw": 13.0
+      "Betsson": {
+        "Fredrikstad FK": 1.0,
+        "Lillestrom": 26.0,
+        "Draw": 26.0
       }
     }
   },
@@ -4608,32 +4478,5 @@
     }
   ],
   "results_history": [],
-  "value_alerted": [
-    "9becb395ad634de55caec620f9d713fa:h2h|888sport|Draw",
-    "9becb395ad634de55caec620f9d713fa:h2h|888sport|Fulham",
-    "9becb395ad634de55caec620f9d713fa:h2h|Betclic (FR)|Draw",
-    "9becb395ad634de55caec620f9d713fa:h2h|Betclic (FR)|Fulham",
-    "9becb395ad634de55caec620f9d713fa:h2h|Betfair|Draw",
-    "9becb395ad634de55caec620f9d713fa:h2h|Betfair|Fulham",
-    "9becb395ad634de55caec620f9d713fa:h2h|Betsson|Draw",
-    "9becb395ad634de55caec620f9d713fa:h2h|Betsson|Fulham",
-    "9becb395ad634de55caec620f9d713fa:h2h|Coolbet|Draw",
-    "9becb395ad634de55caec620f9d713fa:h2h|Coolbet|Fulham",
-    "9becb395ad634de55caec620f9d713fa:h2h|LeoVegas (SE)|Draw",
-    "9becb395ad634de55caec620f9d713fa:h2h|LeoVegas (SE)|Fulham",
-    "9becb395ad634de55caec620f9d713fa:h2h|MyBookie.ag|Draw",
-    "9becb395ad634de55caec620f9d713fa:h2h|Nordic Bet|Draw",
-    "9becb395ad634de55caec620f9d713fa:h2h|Nordic Bet|Fulham",
-    "9becb395ad634de55caec620f9d713fa:h2h|Tipico|Draw",
-    "9becb395ad634de55caec620f9d713fa:h2h|Tipico|Fulham",
-    "9becb395ad634de55caec620f9d713fa:h2h|Winamax (DE)|Draw",
-    "9becb395ad634de55caec620f9d713fa:h2h|Winamax (DE)|Fulham",
-    "9becb395ad634de55caec620f9d713fa:h2h|Winamax (FR)|Draw",
-    "9becb395ad634de55caec620f9d713fa:h2h|Winamax (FR)|Fulham",
-    "e479c08421b8549c6959c2b84f6f3f79:h2h|Betfair|Draw",
-    "e479c08421b8549c6959c2b84f6f3f79:h2h|Coolbet|Brentford",
-    "e479c08421b8549c6959c2b84f6f3f79:h2h|Matchbook|Brentford",
-    "e479c08421b8549c6959c2b84f6f3f79:h2h|MyBookie.ag|Draw",
-    "e479c08421b8549c6959c2b84f6f3f79:h2h|Tipico|Brentford"
-  ]
+  "value_alerted": []
 }
