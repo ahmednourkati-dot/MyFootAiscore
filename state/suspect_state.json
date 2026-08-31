@@ -1,301 +1,271 @@
 {
   "snapshots": {
-    "49a00e05bf3af176c936e16b685e8d38:h2h": {
-      "Unibet (FR)": {
-        "AC Oulu": 1.95,
-        "SJK Seinäjoki": 3.3,
-        "Draw": 3.3
-      },
-      "1xBet": {
-        "AC Oulu": 2.01,
-        "SJK Seinäjoki": 3.44,
-        "Draw": 3.58
-      },
-      "Marathon Bet": {
-        "AC Oulu": 1.99,
-        "SJK Seinäjoki": 3.45,
-        "Draw": 3.58
-      },
-      "Betfair": {
-        "AC Oulu": 2.14,
-        "SJK Seinäjoki": 3.75,
-        "Draw": 3.6
-      },
-      "888sport": {
-        "AC Oulu": 2.0,
-        "SJK Seinäjoki": 3.3,
-        "Draw": 3.3
-      },
-      "William Hill": {
-        "AC Oulu": 2.0,
-        "SJK Seinäjoki": 3.3,
-        "Draw": 3.3
-      },
-      "Pinnacle": {
-        "AC Oulu": 2.09,
-        "SJK Seinäjoki": 3.69,
-        "Draw": 3.52
-      },
-      "LeoVegas (SE)": {
-        "AC Oulu": 1.97,
-        "SJK Seinäjoki": 3.1,
-        "Draw": 3.35
-      },
-      "Unibet (SE)": {
-        "AC Oulu": 2.02,
-        "SJK Seinäjoki": 3.2,
-        "Draw": 3.4
-      },
-      "Unibet (NL)": {
-        "AC Oulu": 2.02,
-        "SJK Seinäjoki": 3.2,
-        "Draw": 3.4
-      },
-      "PMU (FR)": {
-        "AC Oulu": 1.89,
-        "SJK Seinäjoki": 3.0,
-        "Draw": 3.2
-      },
-      "Tipico": {
-        "AC Oulu": 1.93,
-        "SJK Seinäjoki": 3.5,
-        "Draw": 3.5
-      },
-      "Betsson": {
-        "AC Oulu": 2.08,
-        "SJK Seinäjoki": 3.35,
-        "Draw": 3.4
-      },
+    "f29414a883c613e703521cec008d3c84:h2h": {
       "Nordic Bet": {
-        "AC Oulu": 2.08,
-        "SJK Seinäjoki": 3.35,
-        "Draw": 3.4
-      },
-      "GTbets": {
-        "AC Oulu": 2.1,
-        "SJK Seinäjoki": 3.42,
-        "Draw": 3.64
+        "Amed SK": 3.65,
+        "Trabzonspor": 3.15,
+        "Draw": 2.02
       },
       "Coolbet": {
-        "AC Oulu": 2.08,
-        "SJK Seinäjoki": 3.6,
-        "Draw": 3.55
-      },
-      "BetOnline.ag": {
-        "AC Oulu": 2.08,
-        "SJK Seinäjoki": 3.55,
-        "Draw": 3.45
-      },
-      "Matchbook": {
-        "AC Oulu": 2.14,
-        "SJK Seinäjoki": 3.8,
-        "Draw": 3.6
-      },
-      "BetAnything": {
-        "AC Oulu": 2.08,
-        "SJK Seinäjoki": 3.55,
-        "Draw": 3.45
-      }
-    },
-    "a2f37f2d18008d38592e24d41bac33a1:h2h": {
-      "1xBet": {
-        "Bayern Munich": 1.02,
-        "FSV Mainz 05": 41.0,
-        "Draw": 21.0
-      }
-    },
-    "54b4b30875acc060c8213161a5fae0be:h2h": {
-      "Unibet (FR)": {
-        "FC Inter Turku": 2.05,
-        "KuPS Kuopio": 3.2,
-        "Draw": 3.1
-      },
-      "1xBet": {
-        "FC Inter Turku": 2.13,
-        "KuPS Kuopio": 3.35,
-        "Draw": 3.34
-      },
-      "Marathon Bet": {
-        "FC Inter Turku": 2.11,
-        "KuPS Kuopio": 3.34,
-        "Draw": 3.34
-      },
-      "Betfair": {
-        "FC Inter Turku": 2.24,
-        "KuPS Kuopio": 3.7,
-        "Draw": 3.4
-      },
-      "888sport": {
-        "FC Inter Turku": 2.1,
-        "KuPS Kuopio": 3.4,
-        "Draw": 3.1
-      },
-      "William Hill": {
-        "FC Inter Turku": 2.1,
-        "KuPS Kuopio": 3.4,
-        "Draw": 3.1
-      },
-      "Pinnacle": {
-        "FC Inter Turku": 2.22,
-        "KuPS Kuopio": 3.64,
-        "Draw": 3.24
-      },
-      "PMU (FR)": {
-        "FC Inter Turku": 2.08,
-        "KuPS Kuopio": 2.8,
-        "Draw": 2.95
-      },
-      "Unibet (NL)": {
-        "FC Inter Turku": 2.23,
-        "KuPS Kuopio": 3.0,
-        "Draw": 3.15
-      },
-      "LeoVegas (SE)": {
-        "FC Inter Turku": 2.17,
-        "KuPS Kuopio": 2.9,
-        "Draw": 3.1
-      },
-      "Unibet (SE)": {
-        "FC Inter Turku": 2.23,
-        "KuPS Kuopio": 3.0,
-        "Draw": 3.15
-      },
-      "Tipico": {
-        "FC Inter Turku": 2.05,
-        "KuPS Kuopio": 3.5,
-        "Draw": 3.2
-      },
-      "Nordic Bet": {
-        "FC Inter Turku": 2.15,
-        "KuPS Kuopio": 3.35,
-        "Draw": 3.1
+        "Amed SK": 4.0,
+        "Trabzonspor": 3.25,
+        "Draw": 2.1
       },
       "Betsson": {
-        "FC Inter Turku": 2.15,
-        "KuPS Kuopio": 3.35,
-        "Draw": 3.1
+        "Amed SK": 3.9,
+        "Trabzonspor": 3.2,
+        "Draw": 1.95
       },
-      "GTbets": {
-        "FC Inter Turku": 2.28,
-        "KuPS Kuopio": 3.23,
-        "Draw": 3.38
+      "Betclic (FR)": {
+        "Amed SK": 3.6,
+        "Trabzonspor": 2.95,
+        "Draw": 2.0
       },
-      "Coolbet": {
-        "FC Inter Turku": 2.2,
-        "KuPS Kuopio": 3.43,
-        "Draw": 3.4
+      "Winamax (DE)": {
+        "Amed SK": 3.65,
+        "Trabzonspor": 3.05,
+        "Draw": 1.98
       },
-      "BetOnline.ag": {
-        "FC Inter Turku": 2.16,
-        "KuPS Kuopio": 3.6,
-        "Draw": 3.15
-      },
-      "BetAnything": {
-        "FC Inter Turku": 2.16,
-        "KuPS Kuopio": 3.6,
-        "Draw": 3.15
-      },
-      "Matchbook": {
-        "FC Inter Turku": 2.24,
-        "KuPS Kuopio": 3.7,
-        "Draw": 3.4
-      }
-    },
-    "c6f8f04d73d87874774c01cbd5fc016f:h2h": {
-      "Unibet (FR)": {
-        "FC Lahti": 3.5,
-        "VPS Vaasa": 1.86,
-        "Draw": 3.4
-      },
-      "1xBet": {
-        "FC Lahti": 3.63,
-        "VPS Vaasa": 1.93,
-        "Draw": 3.65
-      },
-      "Marathon Bet": {
-        "FC Lahti": 3.64,
-        "VPS Vaasa": 1.91,
-        "Draw": 3.65
-      },
-      "Betfair": {
-        "FC Lahti": 3.95,
-        "VPS Vaasa": 2.02,
-        "Draw": 3.8
+      "Winamax (FR)": {
+        "Amed SK": 3.6,
+        "Trabzonspor": 3.0,
+        "Draw": 1.9
       },
       "888sport": {
-        "FC Lahti": 3.6,
-        "VPS Vaasa": 1.91,
-        "Draw": 3.4
-      },
-      "William Hill": {
-        "FC Lahti": 3.6,
-        "VPS Vaasa": 1.91,
-        "Draw": 3.4
-      },
-      "PMU (FR)": {
-        "FC Lahti": 3.1,
-        "VPS Vaasa": 1.88,
-        "Draw": 3.25
-      },
-      "Unibet (NL)": {
-        "FC Lahti": 3.25,
-        "VPS Vaasa": 2.0,
-        "Draw": 3.45
-      },
-      "Unibet (SE)": {
-        "FC Lahti": 3.25,
-        "VPS Vaasa": 2.0,
-        "Draw": 3.45
-      },
-      "LeoVegas (SE)": {
-        "FC Lahti": 3.2,
-        "VPS Vaasa": 1.95,
-        "Draw": 3.35
-      },
-      "Pinnacle": {
-        "FC Lahti": 3.85,
-        "VPS Vaasa": 1.97,
-        "Draw": 3.73
+        "Amed SK": 3.9,
+        "Trabzonspor": 3.0,
+        "Draw": 1.91
       },
       "Tipico": {
-        "FC Lahti": 3.8,
-        "VPS Vaasa": 1.83,
-        "Draw": 3.6
+        "Amed SK": 4.0,
+        "Trabzonspor": 3.0,
+        "Draw": 2.0
       },
-      "Nordic Bet": {
-        "FC Lahti": 3.7,
-        "VPS Vaasa": 1.92,
-        "Draw": 3.45
+      "Pinnacle": {
+        "Amed SK": 3.37,
+        "Trabzonspor": 2.89,
+        "Draw": 2.41
       },
-      "Betsson": {
-        "FC Lahti": 3.7,
-        "VPS Vaasa": 1.92,
-        "Draw": 3.45
+      "Unibet (NL)": {
+        "Amed SK": 3.65,
+        "Trabzonspor": 3.05,
+        "Draw": 1.97
       },
-      "GTbets": {
-        "FC Lahti": 3.57,
-        "VPS Vaasa": 2.06,
-        "Draw": 3.54
+      "LeoVegas (SE)": {
+        "Amed SK": 3.45,
+        "Trabzonspor": 2.88,
+        "Draw": 1.85
       },
-      "Coolbet": {
-        "FC Lahti": 3.85,
-        "VPS Vaasa": 1.94,
-        "Draw": 3.75
+      "Unibet (SE)": {
+        "Amed SK": 3.65,
+        "Trabzonspor": 3.05,
+        "Draw": 1.97
       },
-      "BetOnline.ag": {
-        "FC Lahti": 3.85,
-        "VPS Vaasa": 1.94,
-        "Draw": 3.6
+      "PMU (FR)": {
+        "Amed SK": 3.5,
+        "Trabzonspor": 2.9,
+        "Draw": 1.85
       },
-      "BetAnything": {
-        "FC Lahti": 3.85,
-        "VPS Vaasa": 1.94,
-        "Draw": 3.6
+      "Betfair": {
+        "Amed SK": 4.4,
+        "Trabzonspor": 3.25,
+        "Draw": 2.12
       },
       "Matchbook": {
-        "FC Lahti": 3.95,
-        "VPS Vaasa": 2.02,
-        "Draw": 3.85
+        "Amed SK": 4.6,
+        "Trabzonspor": 3.4,
+        "Draw": 1.95
+      }
+    },
+    "dc0d7b2d2520ffe1e518cec04a586514:h2h": {
+      "Betsson": {
+        "Besiktas JK": 1.0,
+        "Çorum FK": 301.0,
+        "Draw": 251.0
+      },
+      "Nordic Bet": {
+        "Besiktas JK": 1.0,
+        "Çorum FK": 301.0,
+        "Draw": 251.0
+      },
+      "Betclic (FR)": {
+        "Besiktas JK": 1.0,
+        "Çorum FK": 100.0,
+        "Draw": 40.0
+      },
+      "Winamax (FR)": {
+        "Besiktas JK": 1.02,
+        "Çorum FK": 120.0,
+        "Draw": 30.0
+      },
+      "Winamax (DE)": {
+        "Besiktas JK": 1.01,
+        "Çorum FK": 120.0,
+        "Draw": 29.0
+      },
+      "Betfair": {
+        "Besiktas JK": 1.03,
+        "Çorum FK": 270.0,
+        "Draw": 34.0
+      }
+    },
+    "507dca3c3b3ca18f79ed39f4803401d7:h2h": {
+      "Betclic (FR)": {
+        "Atalanta BC": 2.85,
+        "Bologna": 3.75,
+        "Draw": 2.1
+      },
+      "Winamax (DE)": {
+        "Atalanta BC": 2.95,
+        "Bologna": 3.75,
+        "Draw": 2.1
+      },
+      "Winamax (FR)": {
+        "Atalanta BC": 2.8,
+        "Bologna": 3.55,
+        "Draw": 2.0
+      },
+      "Tipico": {
+        "Atalanta BC": 3.0,
+        "Bologna": 3.6,
+        "Draw": 2.1
+      },
+      "Betfair": {
+        "Atalanta BC": 3.3,
+        "Bologna": 4.0,
+        "Draw": 2.2
+      },
+      "888sport": {
+        "Atalanta BC": 2.8,
+        "Bologna": 3.8,
+        "Draw": 2.05
+      },
+      "Pinnacle": {
+        "Atalanta BC": 2.76,
+        "Bologna": 4.04,
+        "Draw": 2.26
+      },
+      "Unibet (SE)": {
+        "Atalanta BC": 3.2,
+        "Bologna": 3.6,
+        "Draw": 2.07
+      },
+      "PMU (FR)": {
+        "Atalanta BC": 3.05,
+        "Bologna": 3.4,
+        "Draw": 1.97
+      },
+      "LeoVegas (SE)": {
+        "Atalanta BC": 3.2,
+        "Bologna": 3.6,
+        "Draw": 2.07
+      },
+      "Unibet (NL)": {
+        "Atalanta BC": 3.1,
+        "Bologna": 3.6,
+        "Draw": 2.08
+      },
+      "Betsson": {
+        "Atalanta BC": 2.88,
+        "Bologna": 3.65,
+        "Draw": 2.1
+      },
+      "Nordic Bet": {
+        "Atalanta BC": 2.92,
+        "Bologna": 3.9,
+        "Draw": 2.05
+      },
+      "Matchbook": {
+        "Atalanta BC": 3.35,
+        "Bologna": 4.0,
+        "Draw": 2.16
+      },
+      "Coolbet": {
+        "Atalanta BC": 3.0,
+        "Bologna": 4.0,
+        "Draw": 2.2
+      }
+    },
+    "478264a4a69e0f7703d87af4568a9a75:h2h": {
+      "Winamax (FR)": {
+        "Dijon": 3.75,
+        "Saint Etienne": 2.35,
+        "Draw": 2.15
+      },
+      "Winamax (DE)": {
+        "Dijon": 4.0,
+        "Saint Etienne": 2.5,
+        "Draw": 2.2
+      },
+      "Betsson": {
+        "Dijon": 4.2,
+        "Saint Etienne": 2.35,
+        "Draw": 2.3
+      },
+      "Nordic Bet": {
+        "Dijon": 4.2,
+        "Saint Etienne": 2.35,
+        "Draw": 2.3
+      },
+      "Betclic (FR)": {
+        "Dijon": 4.2,
+        "Saint Etienne": 2.35,
+        "Draw": 2.3
+      },
+      "Tipico": {
+        "Dijon": 4.5,
+        "Saint Etienne": 2.3,
+        "Draw": 2.3
+      },
+      "888sport": {
+        "Dijon": 4.0,
+        "Saint Etienne": 2.45,
+        "Draw": 2.2
+      },
+      "Pinnacle": {
+        "Dijon": 4.66,
+        "Saint Etienne": 2.32,
+        "Draw": 2.37
+      },
+      "Unibet (SE)": {
+        "Dijon": 4.5,
+        "Saint Etienne": 2.2,
+        "Draw": 2.3
+      },
+      "LeoVegas (SE)": {
+        "Dijon": 4.3,
+        "Saint Etienne": 2.14,
+        "Draw": 2.12
+      },
+      "PMU (FR)": {
+        "Dijon": 4.5,
+        "Saint Etienne": 2.2,
+        "Draw": 2.3
+      },
+      "Unibet (NL)": {
+        "Dijon": 4.5,
+        "Saint Etienne": 2.28,
+        "Draw": 2.25
+      },
+      "Suprabets": {
+        "Dijon": 4.15,
+        "Saint Etienne": 2.23,
+        "Draw": 2.35
+      },
+      "Coolbet": {
+        "Dijon": 4.33,
+        "Saint Etienne": 2.38,
+        "Draw": 2.38
+      },
+      "Betfair": {
+        "Dijon": 4.7,
+        "Saint Etienne": 2.58,
+        "Draw": 2.46
+      },
+      "Matchbook": {
+        "Dijon": 4.7,
+        "Saint Etienne": 2.68,
+        "Draw": 2.34
       }
     }
   },
@@ -3452,8 +3422,281 @@
       "confidence": 8,
       "alert_type": "value",
       "alerted_at": "2026-08-30T22:41:41.879397+00:00"
+    },
+    {
+      "state_key": "f29414a883c613e703521cec008d3c84:h2h",
+      "event_id": "f29414a883c613e703521cec008d3c84",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Amed SK",
+      "away_team": "Trabzonspor",
+      "commence_time": "2026-08-31T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Amed SK",
+      "odds_at_alert": 4.0,
+      "stake_pct": 3.0,
+      "confidence": 12,
+      "alert_type": "value",
+      "alerted_at": "2026-08-31T19:59:01.455791+00:00"
+    },
+    {
+      "state_key": "f29414a883c613e703521cec008d3c84:h2h",
+      "event_id": "f29414a883c613e703521cec008d3c84",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Amed SK",
+      "away_team": "Trabzonspor",
+      "commence_time": "2026-08-31T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Trabzonspor",
+      "odds_at_alert": 3.25,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-08-31T19:59:01.978469+00:00"
+    },
+    {
+      "state_key": "f29414a883c613e703521cec008d3c84:h2h",
+      "event_id": "f29414a883c613e703521cec008d3c84",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Amed SK",
+      "away_team": "Trabzonspor",
+      "commence_time": "2026-08-31T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Amed SK",
+      "odds_at_alert": 3.9,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-08-31T19:59:02.516798+00:00"
+    },
+    {
+      "state_key": "f29414a883c613e703521cec008d3c84:h2h",
+      "event_id": "f29414a883c613e703521cec008d3c84",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Amed SK",
+      "away_team": "Trabzonspor",
+      "commence_time": "2026-08-31T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Amed SK",
+      "odds_at_alert": 3.9,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-08-31T19:59:03.024154+00:00"
+    },
+    {
+      "state_key": "f29414a883c613e703521cec008d3c84:h2h",
+      "event_id": "f29414a883c613e703521cec008d3c84",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Amed SK",
+      "away_team": "Trabzonspor",
+      "commence_time": "2026-08-31T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Amed SK",
+      "odds_at_alert": 4.0,
+      "stake_pct": 3.0,
+      "confidence": 12,
+      "alert_type": "value",
+      "alerted_at": "2026-08-31T19:59:03.516482+00:00"
+    },
+    {
+      "state_key": "f29414a883c613e703521cec008d3c84:h2h",
+      "event_id": "f29414a883c613e703521cec008d3c84",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Amed SK",
+      "away_team": "Trabzonspor",
+      "commence_time": "2026-08-31T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Amed SK",
+      "odds_at_alert": 4.4,
+      "stake_pct": 5.0,
+      "confidence": 23,
+      "alert_type": "value",
+      "alerted_at": "2026-08-31T19:59:04.013095+00:00"
+    },
+    {
+      "state_key": "f29414a883c613e703521cec008d3c84:h2h",
+      "event_id": "f29414a883c613e703521cec008d3c84",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Amed SK",
+      "away_team": "Trabzonspor",
+      "commence_time": "2026-08-31T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Trabzonspor",
+      "odds_at_alert": 3.25,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-08-31T19:59:04.624011+00:00"
+    },
+    {
+      "state_key": "f29414a883c613e703521cec008d3c84:h2h",
+      "event_id": "f29414a883c613e703521cec008d3c84",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Amed SK",
+      "away_team": "Trabzonspor",
+      "commence_time": "2026-08-31T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Amed SK",
+      "odds_at_alert": 4.6,
+      "stake_pct": 5.0,
+      "confidence": 29,
+      "alert_type": "value",
+      "alerted_at": "2026-08-31T19:59:05.178870+00:00"
+    },
+    {
+      "state_key": "f29414a883c613e703521cec008d3c84:h2h",
+      "event_id": "f29414a883c613e703521cec008d3c84",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Amed SK",
+      "away_team": "Trabzonspor",
+      "commence_time": "2026-08-31T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Trabzonspor",
+      "odds_at_alert": 3.4,
+      "stake_pct": 3.0,
+      "confidence": 11,
+      "alert_type": "value",
+      "alerted_at": "2026-08-31T19:59:05.706865+00:00"
+    },
+    {
+      "state_key": "507dca3c3b3ca18f79ed39f4803401d7:h2h",
+      "event_id": "507dca3c3b3ca18f79ed39f4803401d7",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Atalanta BC",
+      "away_team": "Bologna",
+      "commence_time": "2026-08-31T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Atalanta BC",
+      "odds_at_alert": 3.3,
+      "stake_pct": 3.0,
+      "confidence": 14,
+      "alert_type": "value",
+      "alerted_at": "2026-08-31T19:59:06.242322+00:00"
+    },
+    {
+      "state_key": "507dca3c3b3ca18f79ed39f4803401d7:h2h",
+      "event_id": "507dca3c3b3ca18f79ed39f4803401d7",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Atalanta BC",
+      "away_team": "Bologna",
+      "commence_time": "2026-08-31T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Atalanta BC",
+      "odds_at_alert": 3.2,
+      "stake_pct": 3.0,
+      "confidence": 10,
+      "alert_type": "value",
+      "alerted_at": "2026-08-31T19:59:06.837481+00:00"
+    },
+    {
+      "state_key": "507dca3c3b3ca18f79ed39f4803401d7:h2h",
+      "event_id": "507dca3c3b3ca18f79ed39f4803401d7",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Atalanta BC",
+      "away_team": "Bologna",
+      "commence_time": "2026-08-31T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Atalanta BC",
+      "odds_at_alert": 3.05,
+      "stake_pct": 2.0,
+      "confidence": 5,
+      "alert_type": "value",
+      "alerted_at": "2026-08-31T19:59:07.357034+00:00"
+    },
+    {
+      "state_key": "507dca3c3b3ca18f79ed39f4803401d7:h2h",
+      "event_id": "507dca3c3b3ca18f79ed39f4803401d7",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Atalanta BC",
+      "away_team": "Bologna",
+      "commence_time": "2026-08-31T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Atalanta BC",
+      "odds_at_alert": 3.2,
+      "stake_pct": 3.0,
+      "confidence": 10,
+      "alert_type": "value",
+      "alerted_at": "2026-08-31T19:59:07.878312+00:00"
+    },
+    {
+      "state_key": "507dca3c3b3ca18f79ed39f4803401d7:h2h",
+      "event_id": "507dca3c3b3ca18f79ed39f4803401d7",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Atalanta BC",
+      "away_team": "Bologna",
+      "commence_time": "2026-08-31T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Atalanta BC",
+      "odds_at_alert": 3.1,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-08-31T19:59:08.372851+00:00"
+    },
+    {
+      "state_key": "507dca3c3b3ca18f79ed39f4803401d7:h2h",
+      "event_id": "507dca3c3b3ca18f79ed39f4803401d7",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Atalanta BC",
+      "away_team": "Bologna",
+      "commence_time": "2026-08-31T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Atalanta BC",
+      "odds_at_alert": 3.35,
+      "stake_pct": 5.0,
+      "confidence": 15,
+      "alert_type": "value",
+      "alerted_at": "2026-08-31T19:59:08.908702+00:00"
+    },
+    {
+      "state_key": "478264a4a69e0f7703d87af4568a9a75:h2h",
+      "event_id": "478264a4a69e0f7703d87af4568a9a75",
+      "sport_key": "soccer",
+      "competition": "Ligue 2 - France",
+      "home_team": "Dijon",
+      "away_team": "Saint Etienne",
+      "commence_time": "2026-08-31T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Saint Etienne",
+      "odds_at_alert": 2.68,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-08-31T19:59:09.435942+00:00"
     }
   ],
   "results_history": [],
-  "value_alerted": []
+  "value_alerted": [
+    "478264a4a69e0f7703d87af4568a9a75:h2h|Matchbook|Saint Etienne",
+    "507dca3c3b3ca18f79ed39f4803401d7:h2h|Betfair|Atalanta BC",
+    "507dca3c3b3ca18f79ed39f4803401d7:h2h|LeoVegas (SE)|Atalanta BC",
+    "507dca3c3b3ca18f79ed39f4803401d7:h2h|Matchbook|Atalanta BC",
+    "507dca3c3b3ca18f79ed39f4803401d7:h2h|PMU (FR)|Atalanta BC",
+    "507dca3c3b3ca18f79ed39f4803401d7:h2h|Unibet (NL)|Atalanta BC",
+    "507dca3c3b3ca18f79ed39f4803401d7:h2h|Unibet (SE)|Atalanta BC",
+    "f29414a883c613e703521cec008d3c84:h2h|888sport|Amed SK",
+    "f29414a883c613e703521cec008d3c84:h2h|Betfair|Amed SK",
+    "f29414a883c613e703521cec008d3c84:h2h|Betfair|Trabzonspor",
+    "f29414a883c613e703521cec008d3c84:h2h|Betsson|Amed SK",
+    "f29414a883c613e703521cec008d3c84:h2h|Coolbet|Amed SK",
+    "f29414a883c613e703521cec008d3c84:h2h|Coolbet|Trabzonspor",
+    "f29414a883c613e703521cec008d3c84:h2h|Matchbook|Amed SK",
+    "f29414a883c613e703521cec008d3c84:h2h|Matchbook|Trabzonspor",
+    "f29414a883c613e703521cec008d3c84:h2h|Tipico|Amed SK"
+  ]
 }
