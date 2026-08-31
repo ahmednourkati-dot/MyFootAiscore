@@ -1,271 +1,216 @@
 {
   "snapshots": {
-    "f29414a883c613e703521cec008d3c84:h2h": {
+    "2cbb3b13e0f45309e0753fa7bb5be047:h2h": {
+      "Betclic (FR)": {
+        "Defensa y Justicia": 1.14,
+        "Platense": 27.0,
+        "Draw": 4.8
+      },
+      "Winamax (FR)": {
+        "Defensa y Justicia": 1.16,
+        "Platense": 44.0,
+        "Draw": 5.1
+      },
+      "Winamax (DE)": {
+        "Defensa y Justicia": 1.14,
+        "Platense": 44.0,
+        "Draw": 5.5
+      },
+      "Unibet (SE)": {
+        "Defensa y Justicia": 1.12,
+        "Platense": 51.0,
+        "Draw": 6.5
+      },
+      "LeoVegas (SE)": {
+        "Defensa y Justicia": 1.08,
+        "Platense": 41.0,
+        "Draw": 6.1
+      },
+      "Pinnacle": {
+        "Defensa y Justicia": 1.23,
+        "Platense": 28.95,
+        "Draw": 4.98
+      },
       "Nordic Bet": {
-        "Amed SK": 3.65,
-        "Trabzonspor": 3.15,
-        "Draw": 2.02
+        "Defensa y Justicia": 1.15,
+        "Platense": 36.0,
+        "Draw": 4.85
+      },
+      "Betsson": {
+        "Defensa y Justicia": 1.15,
+        "Platense": 36.0,
+        "Draw": 4.85
+      },
+      "Betfair": {
+        "Defensa y Justicia": 1.19,
+        "Platense": 60.0,
+        "Draw": 6.4
+      }
+    },
+    "f2799d61f39fb8b540ade45242f8626e:h2h": {
+      "Winamax (FR)": {
+        "Estudiantes": 6.0,
+        "Newells Old Boys": 14.5,
+        "Draw": 1.17
+      },
+      "Winamax (DE)": {
+        "Estudiantes": 6.25,
+        "Newells Old Boys": 15.0,
+        "Draw": 1.15
+      },
+      "Betclic (FR)": {
+        "Estudiantes": 4.35,
+        "Newells Old Boys": 9.75,
+        "Draw": 1.31
+      },
+      "Unibet (SE)": {
+        "Estudiantes": 6.0,
+        "Newells Old Boys": 15.0,
+        "Draw": 1.19
+      },
+      "LeoVegas (SE)": {
+        "Estudiantes": 5.75,
+        "Newells Old Boys": 14.0,
+        "Draw": 1.12
+      },
+      "Pinnacle": {
+        "Estudiantes": 4.63,
+        "Newells Old Boys": 10.63,
+        "Draw": 1.34
+      },
+      "Nordic Bet": {
+        "Estudiantes": 5.8,
+        "Newells Old Boys": 14.0,
+        "Draw": 1.16
+      },
+      "Betsson": {
+        "Estudiantes": 5.8,
+        "Newells Old Boys": 14.0,
+        "Draw": 1.16
+      },
+      "Betfair": {
+        "Estudiantes": 6.8,
+        "Newells Old Boys": 18.5,
+        "Draw": 1.22
+      }
+    },
+    "92d354b1e2b25a15f36041dbdb935030:h2h": {
+      "Winamax (DE)": {
+        "La Serena": 1.43,
+        "Union La Calera": 9.5,
+        "Draw": 3.35
+      },
+      "Unibet (SE)": {
+        "La Serena": 1.41,
+        "Union La Calera": 11.0,
+        "Draw": 3.3
+      },
+      "LeoVegas (SE)": {
+        "La Serena": 1.33,
+        "Union La Calera": 10.5,
+        "Draw": 3.15
+      },
+      "Winamax (FR)": {
+        "La Serena": 1.41,
+        "Union La Calera": 9.5,
+        "Draw": 3.3
+      },
+      "Nordic Bet": {
+        "La Serena": 1.47,
+        "Union La Calera": 9.1,
+        "Draw": 3.3
+      },
+      "Betsson": {
+        "La Serena": 1.44,
+        "Union La Calera": 9.1,
+        "Draw": 3.3
       },
       "Coolbet": {
-        "Amed SK": 4.0,
-        "Trabzonspor": 3.25,
-        "Draw": 2.1
-      },
-      "Betsson": {
-        "Amed SK": 3.9,
-        "Trabzonspor": 3.2,
-        "Draw": 1.95
-      },
-      "Betclic (FR)": {
-        "Amed SK": 3.6,
-        "Trabzonspor": 2.95,
-        "Draw": 2.0
-      },
-      "Winamax (DE)": {
-        "Amed SK": 3.65,
-        "Trabzonspor": 3.05,
-        "Draw": 1.98
-      },
-      "Winamax (FR)": {
-        "Amed SK": 3.6,
-        "Trabzonspor": 3.0,
-        "Draw": 1.9
-      },
-      "888sport": {
-        "Amed SK": 3.9,
-        "Trabzonspor": 3.0,
-        "Draw": 1.91
-      },
-      "Tipico": {
-        "Amed SK": 4.0,
-        "Trabzonspor": 3.0,
-        "Draw": 2.0
+        "La Serena": 1.44,
+        "Union La Calera": 12.5,
+        "Draw": 3.6
       },
       "Pinnacle": {
-        "Amed SK": 3.37,
-        "Trabzonspor": 2.89,
-        "Draw": 2.41
+        "La Serena": 1.6,
+        "Union La Calera": 7.85,
+        "Draw": 3.18
       },
-      "Unibet (NL)": {
-        "Amed SK": 3.65,
-        "Trabzonspor": 3.05,
-        "Draw": 1.97
+      "888sport": {
+        "La Serena": 1.44,
+        "Union La Calera": 8.0,
+        "Draw": 3.25
       },
-      "LeoVegas (SE)": {
-        "Amed SK": 3.45,
-        "Trabzonspor": 2.88,
-        "Draw": 1.85
-      },
-      "Unibet (SE)": {
-        "Amed SK": 3.65,
-        "Trabzonspor": 3.05,
-        "Draw": 1.97
-      },
-      "PMU (FR)": {
-        "Amed SK": 3.5,
-        "Trabzonspor": 2.9,
-        "Draw": 1.85
+      "Tipico": {
+        "La Serena": 1.35,
+        "Union La Calera": 11.0,
+        "Draw": 3.6
       },
       "Betfair": {
-        "Amed SK": 4.4,
-        "Trabzonspor": 3.25,
-        "Draw": 2.12
+        "La Serena": 1.54,
+        "Union La Calera": 12.0,
+        "Draw": 3.65
       },
       "Matchbook": {
-        "Amed SK": 4.6,
-        "Trabzonspor": 3.4,
-        "Draw": 1.95
+        "La Serena": 1.52,
+        "Union La Calera": 13.0,
+        "Draw": 3.65
       }
     },
-    "dc0d7b2d2520ffe1e518cec04a586514:h2h": {
-      "Betsson": {
-        "Besiktas JK": 1.0,
-        "Çorum FK": 301.0,
-        "Draw": 251.0
-      },
-      "Nordic Bet": {
-        "Besiktas JK": 1.0,
-        "Çorum FK": 301.0,
-        "Draw": 251.0
-      },
-      "Betclic (FR)": {
-        "Besiktas JK": 1.0,
-        "Çorum FK": 100.0,
-        "Draw": 40.0
-      },
-      "Winamax (FR)": {
-        "Besiktas JK": 1.02,
-        "Çorum FK": 120.0,
-        "Draw": 30.0
-      },
-      "Winamax (DE)": {
-        "Besiktas JK": 1.01,
-        "Çorum FK": 120.0,
-        "Draw": 29.0
-      },
-      "Betfair": {
-        "Besiktas JK": 1.03,
-        "Çorum FK": 270.0,
-        "Draw": 34.0
-      }
-    },
-    "507dca3c3b3ca18f79ed39f4803401d7:h2h": {
-      "Betclic (FR)": {
-        "Atalanta BC": 2.85,
-        "Bologna": 3.75,
-        "Draw": 2.1
-      },
-      "Winamax (DE)": {
-        "Atalanta BC": 2.95,
-        "Bologna": 3.75,
-        "Draw": 2.1
-      },
-      "Winamax (FR)": {
-        "Atalanta BC": 2.8,
-        "Bologna": 3.55,
-        "Draw": 2.0
-      },
-      "Tipico": {
-        "Atalanta BC": 3.0,
-        "Bologna": 3.6,
-        "Draw": 2.1
-      },
-      "Betfair": {
-        "Atalanta BC": 3.3,
-        "Bologna": 4.0,
-        "Draw": 2.2
-      },
-      "888sport": {
-        "Atalanta BC": 2.8,
-        "Bologna": 3.8,
-        "Draw": 2.05
-      },
-      "Pinnacle": {
-        "Atalanta BC": 2.76,
-        "Bologna": 4.04,
-        "Draw": 2.26
-      },
+    "08bd326c376cc47ea8e49e9e6c820681:h2h": {
       "Unibet (SE)": {
-        "Atalanta BC": 3.2,
-        "Bologna": 3.6,
-        "Draw": 2.07
-      },
-      "PMU (FR)": {
-        "Atalanta BC": 3.05,
-        "Bologna": 3.4,
-        "Draw": 1.97
-      },
-      "LeoVegas (SE)": {
-        "Atalanta BC": 3.2,
-        "Bologna": 3.6,
-        "Draw": 2.07
-      },
-      "Unibet (NL)": {
-        "Atalanta BC": 3.1,
-        "Bologna": 3.6,
-        "Draw": 2.08
-      },
-      "Betsson": {
-        "Atalanta BC": 2.88,
-        "Bologna": 3.65,
-        "Draw": 2.1
-      },
-      "Nordic Bet": {
-        "Atalanta BC": 2.92,
-        "Bologna": 3.9,
-        "Draw": 2.05
-      },
-      "Matchbook": {
-        "Atalanta BC": 3.35,
-        "Bologna": 4.0,
-        "Draw": 2.16
-      },
-      "Coolbet": {
-        "Atalanta BC": 3.0,
-        "Bologna": 4.0,
-        "Draw": 2.2
-      }
-    },
-    "478264a4a69e0f7703d87af4568a9a75:h2h": {
-      "Winamax (FR)": {
-        "Dijon": 3.75,
-        "Saint Etienne": 2.35,
-        "Draw": 2.15
-      },
-      "Winamax (DE)": {
-        "Dijon": 4.0,
-        "Saint Etienne": 2.5,
-        "Draw": 2.2
-      },
-      "Betsson": {
-        "Dijon": 4.2,
-        "Saint Etienne": 2.35,
-        "Draw": 2.3
-      },
-      "Nordic Bet": {
-        "Dijon": 4.2,
-        "Saint Etienne": 2.35,
-        "Draw": 2.3
-      },
-      "Betclic (FR)": {
-        "Dijon": 4.2,
-        "Saint Etienne": 2.35,
-        "Draw": 2.3
-      },
-      "Tipico": {
-        "Dijon": 4.5,
-        "Saint Etienne": 2.3,
-        "Draw": 2.3
-      },
-      "888sport": {
-        "Dijon": 4.0,
-        "Saint Etienne": 2.45,
-        "Draw": 2.2
-      },
-      "Pinnacle": {
-        "Dijon": 4.66,
-        "Saint Etienne": 2.32,
-        "Draw": 2.37
-      },
-      "Unibet (SE)": {
-        "Dijon": 4.5,
-        "Saint Etienne": 2.2,
-        "Draw": 2.3
-      },
-      "LeoVegas (SE)": {
-        "Dijon": 4.3,
-        "Saint Etienne": 2.14,
-        "Draw": 2.12
-      },
-      "PMU (FR)": {
-        "Dijon": 4.5,
-        "Saint Etienne": 2.2,
-        "Draw": 2.3
-      },
-      "Unibet (NL)": {
-        "Dijon": 4.5,
-        "Saint Etienne": 2.28,
-        "Draw": 2.25
-      },
-      "Suprabets": {
-        "Dijon": 4.15,
-        "Saint Etienne": 2.23,
+        "Fortaleza": 2.1,
+        "Operario PR": 5.5,
         "Draw": 2.35
       },
+      "LeoVegas (SE)": {
+        "Fortaleza": 1.97,
+        "Operario PR": 5.1,
+        "Draw": 2.23
+      },
+      "Unibet (NL)": {
+        "Fortaleza": 2.02,
+        "Operario PR": 5.2,
+        "Draw": 2.25
+      },
       "Coolbet": {
-        "Dijon": 4.33,
-        "Saint Etienne": 2.38,
+        "Fortaleza": 2.25,
+        "Operario PR": 5.0,
+        "Draw": 2.2
+      },
+      "Nordic Bet": {
+        "Fortaleza": 2.1,
+        "Operario PR": 5.35,
+        "Draw": 2.2
+      },
+      "Betsson": {
+        "Fortaleza": 2.1,
+        "Operario PR": 5.35,
+        "Draw": 2.2
+      },
+      "Pinnacle": {
+        "Fortaleza": 2.2,
+        "Operario PR": 5.64,
+        "Draw": 2.31
+      },
+      "888sport": {
+        "Fortaleza": 2.15,
+        "Operario PR": 5.0,
+        "Draw": 2.25
+      },
+      "Tipico": {
+        "Fortaleza": 2.1,
+        "Operario PR": 6.0,
+        "Draw": 2.2
+      },
+      "Matchbook": {
+        "Fortaleza": 2.32,
+        "Operario PR": 6.4,
         "Draw": 2.38
       },
       "Betfair": {
-        "Dijon": 4.7,
-        "Saint Etienne": 2.58,
-        "Draw": 2.46
-      },
-      "Matchbook": {
-        "Dijon": 4.7,
-        "Saint Etienne": 2.68,
-        "Draw": 2.34
+        "Fortaleza": 2.3,
+        "Operario PR": 6.4,
+        "Draw": 2.4
       }
     }
   },
@@ -3678,25 +3623,706 @@
       "confidence": 8,
       "alert_type": "value",
       "alerted_at": "2026-08-31T19:59:09.435942+00:00"
+    },
+    {
+      "state_key": "2cbb3b13e0f45309e0753fa7bb5be047:h2h",
+      "event_id": "2cbb3b13e0f45309e0753fa7bb5be047",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Defensa y Justicia",
+      "away_team": "Platense",
+      "commence_time": "2026-08-31T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Platense",
+      "odds_at_alert": 44.0,
+      "stake_pct": 5.0,
+      "confidence": 45,
+      "alert_type": "value",
+      "alerted_at": "2026-08-31T23:47:23.802400+00:00"
+    },
+    {
+      "state_key": "2cbb3b13e0f45309e0753fa7bb5be047:h2h",
+      "event_id": "2cbb3b13e0f45309e0753fa7bb5be047",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Defensa y Justicia",
+      "away_team": "Platense",
+      "commence_time": "2026-08-31T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Platense",
+      "odds_at_alert": 44.0,
+      "stake_pct": 5.0,
+      "confidence": 45,
+      "alert_type": "value",
+      "alerted_at": "2026-08-31T23:47:24.324334+00:00"
+    },
+    {
+      "state_key": "2cbb3b13e0f45309e0753fa7bb5be047:h2h",
+      "event_id": "2cbb3b13e0f45309e0753fa7bb5be047",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Defensa y Justicia",
+      "away_team": "Platense",
+      "commence_time": "2026-08-31T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.5,
+      "stake_pct": 2.0,
+      "confidence": 5,
+      "alert_type": "value",
+      "alerted_at": "2026-08-31T23:47:24.815186+00:00"
+    },
+    {
+      "state_key": "2cbb3b13e0f45309e0753fa7bb5be047:h2h",
+      "event_id": "2cbb3b13e0f45309e0753fa7bb5be047",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Defensa y Justicia",
+      "away_team": "Platense",
+      "commence_time": "2026-08-31T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Platense",
+      "odds_at_alert": 51.0,
+      "stake_pct": 5.0,
+      "confidence": 68,
+      "alert_type": "value",
+      "alerted_at": "2026-08-31T23:47:25.303783+00:00"
+    },
+    {
+      "state_key": "2cbb3b13e0f45309e0753fa7bb5be047:h2h",
+      "event_id": "2cbb3b13e0f45309e0753fa7bb5be047",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Defensa y Justicia",
+      "away_team": "Platense",
+      "commence_time": "2026-08-31T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.5,
+      "stake_pct": 5.0,
+      "confidence": 25,
+      "alert_type": "value",
+      "alerted_at": "2026-08-31T23:47:25.829243+00:00"
+    },
+    {
+      "state_key": "2cbb3b13e0f45309e0753fa7bb5be047:h2h",
+      "event_id": "2cbb3b13e0f45309e0753fa7bb5be047",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Defensa y Justicia",
+      "away_team": "Platense",
+      "commence_time": "2026-08-31T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Platense",
+      "odds_at_alert": 41.0,
+      "stake_pct": 5.0,
+      "confidence": 35,
+      "alert_type": "value",
+      "alerted_at": "2026-08-31T23:47:26.355364+00:00"
+    },
+    {
+      "state_key": "2cbb3b13e0f45309e0753fa7bb5be047:h2h",
+      "event_id": "2cbb3b13e0f45309e0753fa7bb5be047",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Defensa y Justicia",
+      "away_team": "Platense",
+      "commence_time": "2026-08-31T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.1,
+      "stake_pct": 5.0,
+      "confidence": 17,
+      "alert_type": "value",
+      "alerted_at": "2026-08-31T23:47:26.881103+00:00"
+    },
+    {
+      "state_key": "2cbb3b13e0f45309e0753fa7bb5be047:h2h",
+      "event_id": "2cbb3b13e0f45309e0753fa7bb5be047",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Defensa y Justicia",
+      "away_team": "Platense",
+      "commence_time": "2026-08-31T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Platense",
+      "odds_at_alert": 36.0,
+      "stake_pct": 5.0,
+      "confidence": 19,
+      "alert_type": "value",
+      "alerted_at": "2026-08-31T23:47:27.394996+00:00"
+    },
+    {
+      "state_key": "2cbb3b13e0f45309e0753fa7bb5be047:h2h",
+      "event_id": "2cbb3b13e0f45309e0753fa7bb5be047",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Defensa y Justicia",
+      "away_team": "Platense",
+      "commence_time": "2026-08-31T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Platense",
+      "odds_at_alert": 36.0,
+      "stake_pct": 5.0,
+      "confidence": 19,
+      "alert_type": "value",
+      "alerted_at": "2026-08-31T23:47:27.874558+00:00"
+    },
+    {
+      "state_key": "2cbb3b13e0f45309e0753fa7bb5be047:h2h",
+      "event_id": "2cbb3b13e0f45309e0753fa7bb5be047",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Defensa y Justicia",
+      "away_team": "Platense",
+      "commence_time": "2026-08-31T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Platense",
+      "odds_at_alert": 60.0,
+      "stake_pct": 5.0,
+      "confidence": 98,
+      "alert_type": "value",
+      "alerted_at": "2026-08-31T23:47:28.394203+00:00"
+    },
+    {
+      "state_key": "2cbb3b13e0f45309e0753fa7bb5be047:h2h",
+      "event_id": "2cbb3b13e0f45309e0753fa7bb5be047",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Defensa y Justicia",
+      "away_team": "Platense",
+      "commence_time": "2026-08-31T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.4,
+      "stake_pct": 5.0,
+      "confidence": 23,
+      "alert_type": "value",
+      "alerted_at": "2026-08-31T23:47:28.883020+00:00"
+    },
+    {
+      "state_key": "f2799d61f39fb8b540ade45242f8626e:h2h",
+      "event_id": "f2799d61f39fb8b540ade45242f8626e",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Estudiantes",
+      "away_team": "Newells Old Boys",
+      "commence_time": "2026-08-31T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Estudiantes",
+      "odds_at_alert": 6.0,
+      "stake_pct": 5.0,
+      "confidence": 23,
+      "alert_type": "value",
+      "alerted_at": "2026-08-31T23:47:29.379672+00:00"
+    },
+    {
+      "state_key": "f2799d61f39fb8b540ade45242f8626e:h2h",
+      "event_id": "f2799d61f39fb8b540ade45242f8626e",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Estudiantes",
+      "away_team": "Newells Old Boys",
+      "commence_time": "2026-08-31T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Newells Old Boys",
+      "odds_at_alert": 14.5,
+      "stake_pct": 5.0,
+      "confidence": 29,
+      "alert_type": "value",
+      "alerted_at": "2026-08-31T23:47:29.948979+00:00"
+    },
+    {
+      "state_key": "f2799d61f39fb8b540ade45242f8626e:h2h",
+      "event_id": "f2799d61f39fb8b540ade45242f8626e",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Estudiantes",
+      "away_team": "Newells Old Boys",
+      "commence_time": "2026-08-31T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Estudiantes",
+      "odds_at_alert": 6.25,
+      "stake_pct": 5.0,
+      "confidence": 28,
+      "alert_type": "value",
+      "alerted_at": "2026-08-31T23:47:30.457100+00:00"
+    },
+    {
+      "state_key": "f2799d61f39fb8b540ade45242f8626e:h2h",
+      "event_id": "f2799d61f39fb8b540ade45242f8626e",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Estudiantes",
+      "away_team": "Newells Old Boys",
+      "commence_time": "2026-08-31T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Newells Old Boys",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 34,
+      "alert_type": "value",
+      "alerted_at": "2026-08-31T23:47:30.967384+00:00"
+    },
+    {
+      "state_key": "f2799d61f39fb8b540ade45242f8626e:h2h",
+      "event_id": "f2799d61f39fb8b540ade45242f8626e",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Estudiantes",
+      "away_team": "Newells Old Boys",
+      "commence_time": "2026-08-31T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Estudiantes",
+      "odds_at_alert": 6.0,
+      "stake_pct": 5.0,
+      "confidence": 23,
+      "alert_type": "value",
+      "alerted_at": "2026-08-31T23:47:31.448509+00:00"
+    },
+    {
+      "state_key": "f2799d61f39fb8b540ade45242f8626e:h2h",
+      "event_id": "f2799d61f39fb8b540ade45242f8626e",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Estudiantes",
+      "away_team": "Newells Old Boys",
+      "commence_time": "2026-08-31T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Newells Old Boys",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 34,
+      "alert_type": "value",
+      "alerted_at": "2026-08-31T23:47:31.929360+00:00"
+    },
+    {
+      "state_key": "f2799d61f39fb8b540ade45242f8626e:h2h",
+      "event_id": "f2799d61f39fb8b540ade45242f8626e",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Estudiantes",
+      "away_team": "Newells Old Boys",
+      "commence_time": "2026-08-31T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Estudiantes",
+      "odds_at_alert": 5.75,
+      "stake_pct": 5.0,
+      "confidence": 18,
+      "alert_type": "value",
+      "alerted_at": "2026-08-31T23:47:32.425604+00:00"
+    },
+    {
+      "state_key": "f2799d61f39fb8b540ade45242f8626e:h2h",
+      "event_id": "f2799d61f39fb8b540ade45242f8626e",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Estudiantes",
+      "away_team": "Newells Old Boys",
+      "commence_time": "2026-08-31T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Newells Old Boys",
+      "odds_at_alert": 14.0,
+      "stake_pct": 5.0,
+      "confidence": 25,
+      "alert_type": "value",
+      "alerted_at": "2026-08-31T23:47:32.947118+00:00"
+    },
+    {
+      "state_key": "f2799d61f39fb8b540ade45242f8626e:h2h",
+      "event_id": "f2799d61f39fb8b540ade45242f8626e",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Estudiantes",
+      "away_team": "Newells Old Boys",
+      "commence_time": "2026-08-31T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Estudiantes",
+      "odds_at_alert": 5.8,
+      "stake_pct": 5.0,
+      "confidence": 19,
+      "alert_type": "value",
+      "alerted_at": "2026-08-31T23:47:33.470615+00:00"
+    },
+    {
+      "state_key": "f2799d61f39fb8b540ade45242f8626e:h2h",
+      "event_id": "f2799d61f39fb8b540ade45242f8626e",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Estudiantes",
+      "away_team": "Newells Old Boys",
+      "commence_time": "2026-08-31T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Newells Old Boys",
+      "odds_at_alert": 14.0,
+      "stake_pct": 5.0,
+      "confidence": 25,
+      "alert_type": "value",
+      "alerted_at": "2026-08-31T23:47:33.973796+00:00"
+    },
+    {
+      "state_key": "f2799d61f39fb8b540ade45242f8626e:h2h",
+      "event_id": "f2799d61f39fb8b540ade45242f8626e",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Estudiantes",
+      "away_team": "Newells Old Boys",
+      "commence_time": "2026-08-31T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Estudiantes",
+      "odds_at_alert": 5.8,
+      "stake_pct": 5.0,
+      "confidence": 19,
+      "alert_type": "value",
+      "alerted_at": "2026-08-31T23:47:34.455181+00:00"
+    },
+    {
+      "state_key": "f2799d61f39fb8b540ade45242f8626e:h2h",
+      "event_id": "f2799d61f39fb8b540ade45242f8626e",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Estudiantes",
+      "away_team": "Newells Old Boys",
+      "commence_time": "2026-08-31T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Newells Old Boys",
+      "odds_at_alert": 14.0,
+      "stake_pct": 5.0,
+      "confidence": 25,
+      "alert_type": "value",
+      "alerted_at": "2026-08-31T23:47:35.009642+00:00"
+    },
+    {
+      "state_key": "f2799d61f39fb8b540ade45242f8626e:h2h",
+      "event_id": "f2799d61f39fb8b540ade45242f8626e",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Estudiantes",
+      "away_team": "Newells Old Boys",
+      "commence_time": "2026-08-31T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Estudiantes",
+      "odds_at_alert": 6.8,
+      "stake_pct": 5.0,
+      "confidence": 39,
+      "alert_type": "value",
+      "alerted_at": "2026-08-31T23:47:35.519769+00:00"
+    },
+    {
+      "state_key": "f2799d61f39fb8b540ade45242f8626e:h2h",
+      "event_id": "f2799d61f39fb8b540ade45242f8626e",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Estudiantes",
+      "away_team": "Newells Old Boys",
+      "commence_time": "2026-08-31T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Newells Old Boys",
+      "odds_at_alert": 18.5,
+      "stake_pct": 5.0,
+      "confidence": 65,
+      "alert_type": "value",
+      "alerted_at": "2026-08-31T23:47:36.012133+00:00"
+    },
+    {
+      "state_key": "92d354b1e2b25a15f36041dbdb935030:h2h",
+      "event_id": "92d354b1e2b25a15f36041dbdb935030",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Union La Calera",
+      "away_team": "La Serena",
+      "commence_time": "2026-08-31T22:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Union La Calera",
+      "odds_at_alert": 9.5,
+      "stake_pct": 3.0,
+      "confidence": 13,
+      "alert_type": "value",
+      "alerted_at": "2026-08-31T23:47:36.495909+00:00"
+    },
+    {
+      "state_key": "92d354b1e2b25a15f36041dbdb935030:h2h",
+      "event_id": "92d354b1e2b25a15f36041dbdb935030",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Union La Calera",
+      "away_team": "La Serena",
+      "commence_time": "2026-08-31T22:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Union La Calera",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 31,
+      "alert_type": "value",
+      "alerted_at": "2026-08-31T23:47:36.974107+00:00"
+    },
+    {
+      "state_key": "92d354b1e2b25a15f36041dbdb935030:h2h",
+      "event_id": "92d354b1e2b25a15f36041dbdb935030",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Union La Calera",
+      "away_team": "La Serena",
+      "commence_time": "2026-08-31T22:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Union La Calera",
+      "odds_at_alert": 10.5,
+      "stake_pct": 5.0,
+      "confidence": 25,
+      "alert_type": "value",
+      "alerted_at": "2026-08-31T23:47:37.529598+00:00"
+    },
+    {
+      "state_key": "92d354b1e2b25a15f36041dbdb935030:h2h",
+      "event_id": "92d354b1e2b25a15f36041dbdb935030",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Union La Calera",
+      "away_team": "La Serena",
+      "commence_time": "2026-08-31T22:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Union La Calera",
+      "odds_at_alert": 9.5,
+      "stake_pct": 3.0,
+      "confidence": 13,
+      "alert_type": "value",
+      "alerted_at": "2026-08-31T23:47:38.037263+00:00"
+    },
+    {
+      "state_key": "92d354b1e2b25a15f36041dbdb935030:h2h",
+      "event_id": "92d354b1e2b25a15f36041dbdb935030",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Union La Calera",
+      "away_team": "La Serena",
+      "commence_time": "2026-08-31T22:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Union La Calera",
+      "odds_at_alert": 9.1,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-08-31T23:47:38.541395+00:00"
+    },
+    {
+      "state_key": "92d354b1e2b25a15f36041dbdb935030:h2h",
+      "event_id": "92d354b1e2b25a15f36041dbdb935030",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Union La Calera",
+      "away_team": "La Serena",
+      "commence_time": "2026-08-31T22:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Union La Calera",
+      "odds_at_alert": 9.1,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-08-31T23:47:39.072634+00:00"
+    },
+    {
+      "state_key": "92d354b1e2b25a15f36041dbdb935030:h2h",
+      "event_id": "92d354b1e2b25a15f36041dbdb935030",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Union La Calera",
+      "away_team": "La Serena",
+      "commence_time": "2026-08-31T22:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Union La Calera",
+      "odds_at_alert": 12.5,
+      "stake_pct": 5.0,
+      "confidence": 49,
+      "alert_type": "value",
+      "alerted_at": "2026-08-31T23:47:39.598812+00:00"
+    },
+    {
+      "state_key": "92d354b1e2b25a15f36041dbdb935030:h2h",
+      "event_id": "92d354b1e2b25a15f36041dbdb935030",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Union La Calera",
+      "away_team": "La Serena",
+      "commence_time": "2026-08-31T22:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.6,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-08-31T23:47:40.224279+00:00"
+    },
+    {
+      "state_key": "92d354b1e2b25a15f36041dbdb935030:h2h",
+      "event_id": "92d354b1e2b25a15f36041dbdb935030",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Union La Calera",
+      "away_team": "La Serena",
+      "commence_time": "2026-08-31T22:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Union La Calera",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 31,
+      "alert_type": "value",
+      "alerted_at": "2026-08-31T23:47:40.778581+00:00"
+    },
+    {
+      "state_key": "92d354b1e2b25a15f36041dbdb935030:h2h",
+      "event_id": "92d354b1e2b25a15f36041dbdb935030",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Union La Calera",
+      "away_team": "La Serena",
+      "commence_time": "2026-08-31T22:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.6,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-08-31T23:47:41.261494+00:00"
+    },
+    {
+      "state_key": "92d354b1e2b25a15f36041dbdb935030:h2h",
+      "event_id": "92d354b1e2b25a15f36041dbdb935030",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Union La Calera",
+      "away_team": "La Serena",
+      "commence_time": "2026-08-31T22:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Union La Calera",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 43,
+      "alert_type": "value",
+      "alerted_at": "2026-08-31T23:47:41.806824+00:00"
+    },
+    {
+      "state_key": "92d354b1e2b25a15f36041dbdb935030:h2h",
+      "event_id": "92d354b1e2b25a15f36041dbdb935030",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Union La Calera",
+      "away_team": "La Serena",
+      "commence_time": "2026-08-31T22:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.65,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-08-31T23:47:42.333470+00:00"
+    },
+    {
+      "state_key": "92d354b1e2b25a15f36041dbdb935030:h2h",
+      "event_id": "92d354b1e2b25a15f36041dbdb935030",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Union La Calera",
+      "away_team": "La Serena",
+      "commence_time": "2026-08-31T22:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Union La Calera",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 55,
+      "alert_type": "value",
+      "alerted_at": "2026-08-31T23:47:42.846740+00:00"
+    },
+    {
+      "state_key": "92d354b1e2b25a15f36041dbdb935030:h2h",
+      "event_id": "92d354b1e2b25a15f36041dbdb935030",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Union La Calera",
+      "away_team": "La Serena",
+      "commence_time": "2026-08-31T22:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.65,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-08-31T23:47:43.359583+00:00"
+    },
+    {
+      "state_key": "08bd326c376cc47ea8e49e9e6c820681:h2h",
+      "event_id": "08bd326c376cc47ea8e49e9e6c820681",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Fortaleza",
+      "away_team": "Operario PR",
+      "commence_time": "2026-08-31T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Operario PR",
+      "odds_at_alert": 6.4,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-08-31T23:47:43.938843+00:00"
+    },
+    {
+      "state_key": "08bd326c376cc47ea8e49e9e6c820681:h2h",
+      "event_id": "08bd326c376cc47ea8e49e9e6c820681",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Fortaleza",
+      "away_team": "Operario PR",
+      "commence_time": "2026-08-31T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Operario PR",
+      "odds_at_alert": 6.4,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-08-31T23:47:44.432682+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "478264a4a69e0f7703d87af4568a9a75:h2h|Matchbook|Saint Etienne",
-    "507dca3c3b3ca18f79ed39f4803401d7:h2h|Betfair|Atalanta BC",
-    "507dca3c3b3ca18f79ed39f4803401d7:h2h|LeoVegas (SE)|Atalanta BC",
-    "507dca3c3b3ca18f79ed39f4803401d7:h2h|Matchbook|Atalanta BC",
-    "507dca3c3b3ca18f79ed39f4803401d7:h2h|PMU (FR)|Atalanta BC",
-    "507dca3c3b3ca18f79ed39f4803401d7:h2h|Unibet (NL)|Atalanta BC",
-    "507dca3c3b3ca18f79ed39f4803401d7:h2h|Unibet (SE)|Atalanta BC",
-    "f29414a883c613e703521cec008d3c84:h2h|888sport|Amed SK",
-    "f29414a883c613e703521cec008d3c84:h2h|Betfair|Amed SK",
-    "f29414a883c613e703521cec008d3c84:h2h|Betfair|Trabzonspor",
-    "f29414a883c613e703521cec008d3c84:h2h|Betsson|Amed SK",
-    "f29414a883c613e703521cec008d3c84:h2h|Coolbet|Amed SK",
-    "f29414a883c613e703521cec008d3c84:h2h|Coolbet|Trabzonspor",
-    "f29414a883c613e703521cec008d3c84:h2h|Matchbook|Amed SK",
-    "f29414a883c613e703521cec008d3c84:h2h|Matchbook|Trabzonspor",
-    "f29414a883c613e703521cec008d3c84:h2h|Tipico|Amed SK"
+    "08bd326c376cc47ea8e49e9e6c820681:h2h|Betfair|Operario PR",
+    "08bd326c376cc47ea8e49e9e6c820681:h2h|Matchbook|Operario PR",
+    "2cbb3b13e0f45309e0753fa7bb5be047:h2h|Betfair|Draw",
+    "2cbb3b13e0f45309e0753fa7bb5be047:h2h|Betfair|Platense",
+    "2cbb3b13e0f45309e0753fa7bb5be047:h2h|Betsson|Platense",
+    "2cbb3b13e0f45309e0753fa7bb5be047:h2h|LeoVegas (SE)|Draw",
+    "2cbb3b13e0f45309e0753fa7bb5be047:h2h|LeoVegas (SE)|Platense",
+    "2cbb3b13e0f45309e0753fa7bb5be047:h2h|Nordic Bet|Platense",
+    "2cbb3b13e0f45309e0753fa7bb5be047:h2h|Unibet (SE)|Draw",
+    "2cbb3b13e0f45309e0753fa7bb5be047:h2h|Unibet (SE)|Platense",
+    "2cbb3b13e0f45309e0753fa7bb5be047:h2h|Winamax (DE)|Draw",
+    "2cbb3b13e0f45309e0753fa7bb5be047:h2h|Winamax (DE)|Platense",
+    "2cbb3b13e0f45309e0753fa7bb5be047:h2h|Winamax (FR)|Platense",
+    "92d354b1e2b25a15f36041dbdb935030:h2h|Betfair|Draw",
+    "92d354b1e2b25a15f36041dbdb935030:h2h|Betfair|Union La Calera",
+    "92d354b1e2b25a15f36041dbdb935030:h2h|Betsson|Union La Calera",
+    "92d354b1e2b25a15f36041dbdb935030:h2h|Coolbet|Draw",
+    "92d354b1e2b25a15f36041dbdb935030:h2h|Coolbet|Union La Calera",
+    "92d354b1e2b25a15f36041dbdb935030:h2h|LeoVegas (SE)|Union La Calera",
+    "92d354b1e2b25a15f36041dbdb935030:h2h|Matchbook|Draw",
+    "92d354b1e2b25a15f36041dbdb935030:h2h|Matchbook|Union La Calera",
+    "92d354b1e2b25a15f36041dbdb935030:h2h|Nordic Bet|Union La Calera",
+    "92d354b1e2b25a15f36041dbdb935030:h2h|Tipico|Draw",
+    "92d354b1e2b25a15f36041dbdb935030:h2h|Tipico|Union La Calera",
+    "92d354b1e2b25a15f36041dbdb935030:h2h|Unibet (SE)|Union La Calera",
+    "92d354b1e2b25a15f36041dbdb935030:h2h|Winamax (DE)|Union La Calera",
+    "92d354b1e2b25a15f36041dbdb935030:h2h|Winamax (FR)|Union La Calera",
+    "f2799d61f39fb8b540ade45242f8626e:h2h|Betfair|Estudiantes",
+    "f2799d61f39fb8b540ade45242f8626e:h2h|Betfair|Newells Old Boys",
+    "f2799d61f39fb8b540ade45242f8626e:h2h|Betsson|Estudiantes",
+    "f2799d61f39fb8b540ade45242f8626e:h2h|Betsson|Newells Old Boys",
+    "f2799d61f39fb8b540ade45242f8626e:h2h|LeoVegas (SE)|Estudiantes",
+    "f2799d61f39fb8b540ade45242f8626e:h2h|LeoVegas (SE)|Newells Old Boys",
+    "f2799d61f39fb8b540ade45242f8626e:h2h|Nordic Bet|Estudiantes",
+    "f2799d61f39fb8b540ade45242f8626e:h2h|Nordic Bet|Newells Old Boys",
+    "f2799d61f39fb8b540ade45242f8626e:h2h|Unibet (SE)|Estudiantes",
+    "f2799d61f39fb8b540ade45242f8626e:h2h|Unibet (SE)|Newells Old Boys",
+    "f2799d61f39fb8b540ade45242f8626e:h2h|Winamax (DE)|Estudiantes",
+    "f2799d61f39fb8b540ade45242f8626e:h2h|Winamax (DE)|Newells Old Boys",
+    "f2799d61f39fb8b540ade45242f8626e:h2h|Winamax (FR)|Estudiantes",
+    "f2799d61f39fb8b540ade45242f8626e:h2h|Winamax (FR)|Newells Old Boys"
   ]
 }
