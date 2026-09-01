@@ -2,53 +2,53 @@
   "snapshots": {
     "341b2c66a7e0b44f95b1958325d77017:h2h": {
       "Winamax (DE)": {
-        "Cremonese": 3.25,
+        "Cremonese": 3.4,
         "Parma": 2.05,
-        "Draw": 3.15
+        "Draw": 3.2
       },
       "Betfair": {
-        "Cremonese": 3.8,
+        "Cremonese": 3.85,
         "Parma": 2.2,
-        "Draw": 3.35
+        "Draw": 3.45
       },
       "Pinnacle": {
-        "Cremonese": 3.62,
-        "Parma": 2.17,
-        "Draw": 3.31
+        "Cremonese": 3.8,
+        "Parma": 2.13,
+        "Draw": 3.26
       },
       "LeoVegas (SE)": {
-        "Cremonese": 3.25,
-        "Parma": 2.08,
-        "Draw": 3.05
+        "Cremonese": 3.35,
+        "Parma": 2.02,
+        "Draw": 3.15
       },
       "Unibet (NL)": {
-        "Cremonese": 3.35,
-        "Parma": 2.16,
-        "Draw": 3.2
+        "Cremonese": 3.55,
+        "Parma": 2.1,
+        "Draw": 3.3
       },
       "Unibet (SE)": {
-        "Cremonese": 3.35,
-        "Parma": 2.16,
-        "Draw": 3.2
+        "Cremonese": 3.55,
+        "Parma": 2.1,
+        "Draw": 3.3
       },
       "William Hill": {
-        "Cremonese": 3.4,
+        "Cremonese": 3.5,
         "Parma": 2.1,
-        "Draw": 3.1
+        "Draw": 3.0
       },
       "1xBet": {
-        "Cremonese": 3.46,
-        "Parma": 2.11,
-        "Draw": 3.22
+        "Cremonese": 3.6,
+        "Parma": 2.08,
+        "Draw": 3.18
       },
       "888sport": {
-        "Cremonese": 3.4,
+        "Cremonese": 3.5,
         "Parma": 2.1,
-        "Draw": 3.1
+        "Draw": 3.0
       },
       "Codere (IT)": {
-        "Cremonese": 3.5,
-        "Parma": 2.16,
+        "Cremonese": 3.6,
+        "Parma": 2.13,
         "Draw": 3.2
       },
       "Tipico": {
@@ -59,9 +59,9 @@
     },
     "c1ae3844eb0ea96cb9f639fa7e9dcbd7:h2h": {
       "Pinnacle": {
-        "Helsingborgs IF": 2.11,
-        "Örebro SK": 3.13,
-        "Draw": 3.83
+        "Helsingborgs IF": 2.16,
+        "Örebro SK": 3.09,
+        "Draw": 3.82
       },
       "Nordic Bet": {
         "Helsingborgs IF": 2.12,
@@ -71,7 +71,7 @@
       "BetOnline.ag": {
         "Helsingborgs IF": 2.14,
         "Örebro SK": 3.05,
-        "Draw": 3.75
+        "Draw": 3.7
       },
       "Betsson": {
         "Helsingborgs IF": 2.12,
@@ -79,44 +79,44 @@
         "Draw": 3.45
       },
       "LeoVegas (SE)": {
-        "Helsingborgs IF": 2.02,
-        "Örebro SK": 3.4,
+        "Helsingborgs IF": 2.1,
+        "Örebro SK": 3.2,
         "Draw": 3.6
       },
       "Unibet (SE)": {
-        "Helsingborgs IF": 2.02,
-        "Örebro SK": 3.4,
+        "Helsingborgs IF": 2.1,
+        "Örebro SK": 3.2,
         "Draw": 3.6
       },
       "Unibet (NL)": {
-        "Helsingborgs IF": 1.95,
-        "Örebro SK": 3.25,
+        "Helsingborgs IF": 2.04,
+        "Örebro SK": 3.1,
         "Draw": 3.45
       },
       "1xBet": {
-        "Helsingborgs IF": 2.11,
-        "Örebro SK": 3.11,
-        "Draw": 3.6
+        "Helsingborgs IF": 2.13,
+        "Örebro SK": 3.05,
+        "Draw": 3.62
       },
       "Marathon Bet": {
-        "Helsingborgs IF": 2.05,
-        "Örebro SK": 3.18,
+        "Helsingborgs IF": 2.11,
+        "Örebro SK": 3.04,
         "Draw": 3.62
       },
       "Betfair": {
         "Helsingborgs IF": 2.22,
-        "Örebro SK": 3.3,
-        "Draw": 3.8
+        "Örebro SK": 3.25,
+        "Draw": 3.85
       },
       "888sport": {
-        "Helsingborgs IF": 2.05,
-        "Örebro SK": 2.9,
-        "Draw": 3.4
+        "Helsingborgs IF": 2.1,
+        "Örebro SK": 2.88,
+        "Draw": 3.5
       },
       "William Hill": {
-        "Helsingborgs IF": 2.05,
-        "Örebro SK": 2.9,
-        "Draw": 3.4
+        "Helsingborgs IF": 2.1,
+        "Örebro SK": 2.88,
+        "Draw": 3.5
       },
       "Tipico": {
         "Helsingborgs IF": 1.97,
@@ -124,193 +124,198 @@
         "Draw": 3.6
       },
       "Coolbet": {
-        "Helsingborgs IF": 2.17,
+        "Helsingborgs IF": 2.15,
         "Örebro SK": 3.15,
-        "Draw": 3.7
-      },
-      "BetAnything": {
-        "Helsingborgs IF": 2.14,
-        "Örebro SK": 3.05,
         "Draw": 3.75
       },
+      "BetAnything": {
+        "Helsingborgs IF": 2.12,
+        "Örebro SK": 3.0,
+        "Draw": 3.85
+      },
       "Matchbook": {
-        "Helsingborgs IF": 2.18,
-        "Örebro SK": 3.4,
+        "Helsingborgs IF": 2.22,
+        "Örebro SK": 3.3,
         "Draw": 3.85
       }
     },
     "1d690ad975854f60c81eae19dbb48603:h2h": {
       "Coolbet": {
-        "LASK": 1.63,
-        "Wolfsberger AC": 4.5,
-        "Draw": 4.2
+        "LASK": 1.5,
+        "Wolfsberger AC": 5.5,
+        "Draw": 4.5
       },
       "Betclic (FR)": {
-        "LASK": 1.54,
-        "Wolfsberger AC": 4.5,
-        "Draw": 4.0
+        "LASK": 1.48,
+        "Wolfsberger AC": 5.0,
+        "Draw": 4.2
       },
       "Codere (IT)": {
-        "LASK": 1.58,
-        "Wolfsberger AC": 4.6,
-        "Draw": 4.1
+        "LASK": 1.45,
+        "Wolfsberger AC": 5.4,
+        "Draw": 4.5
       },
       "Winamax (FR)": {
-        "LASK": 1.54,
-        "Wolfsberger AC": 4.3,
-        "Draw": 4.1
+        "LASK": 1.43,
+        "Wolfsberger AC": 5.1,
+        "Draw": 4.6
       },
       "Winamax (DE)": {
-        "LASK": 1.56,
-        "Wolfsberger AC": 4.4,
-        "Draw": 4.2
+        "LASK": 1.45,
+        "Wolfsberger AC": 5.2,
+        "Draw": 4.7
       },
       "1xBet": {
-        "LASK": 1.62,
-        "Wolfsberger AC": 4.73,
-        "Draw": 4.2
+        "LASK": 1.48,
+        "Wolfsberger AC": 5.75,
+        "Draw": 4.6
       },
       "888sport": {
-        "LASK": 1.65,
-        "Wolfsberger AC": 4.4,
-        "Draw": 4.0
+        "LASK": 1.44,
+        "Wolfsberger AC": 5.5,
+        "Draw": 4.4
       },
       "William Hill": {
-        "LASK": 1.65,
-        "Wolfsberger AC": 4.4,
-        "Draw": 4.0
+        "LASK": 1.44,
+        "Wolfsberger AC": 5.5,
+        "Draw": 4.4
       },
       "Suprabets": {
-        "LASK": 1.54,
-        "Wolfsberger AC": 4.5,
-        "Draw": 4.0
+        "LASK": 1.44,
+        "Wolfsberger AC": 5.4,
+        "Draw": 4.5
       },
       "Betsson": {
-        "LASK": 1.65,
-        "Wolfsberger AC": 4.65,
-        "Draw": 3.85
+        "LASK": 1.48,
+        "Wolfsberger AC": 5.9,
+        "Draw": 4.15
       },
       "Nordic Bet": {
-        "LASK": 1.65,
-        "Wolfsberger AC": 4.65,
-        "Draw": 3.85
+        "LASK": 1.48,
+        "Wolfsberger AC": 5.9,
+        "Draw": 4.15
       },
       "Unibet (FR)": {
-        "LASK": 1.52,
-        "Wolfsberger AC": 4.6,
-        "Draw": 4.1
+        "LASK": 1.4,
+        "Wolfsberger AC": 5.3,
+        "Draw": 4.4
       },
       "Betfair": {
-        "LASK": 1.66,
-        "Wolfsberger AC": 5.1,
-        "Draw": 4.4
+        "LASK": 1.52,
+        "Wolfsberger AC": 6.0,
+        "Draw": 5.1
       },
       "BetOnline.ag": {
-        "LASK": 1.61,
-        "Wolfsberger AC": 4.7,
-        "Draw": 4.3
+        "LASK": 1.51,
+        "Wolfsberger AC": 5.61,
+        "Draw": 4.75
       },
       "Unibet (NL)": {
-        "LASK": 1.76,
-        "Wolfsberger AC": 4.0,
-        "Draw": 3.9
-      },
-      "LeoVegas (SE)": {
-        "LASK": 1.68,
-        "Wolfsberger AC": 3.8,
-        "Draw": 3.65
-      },
-      "Unibet (SE)": {
-        "LASK": 1.76,
-        "Wolfsberger AC": 4.0,
-        "Draw": 3.9
-      },
-      "Tipico": {
-        "LASK": 1.57,
-        "Wolfsberger AC": 5.0,
+        "LASK": 1.51,
+        "Wolfsberger AC": 5.6,
         "Draw": 4.3
       },
+      "LeoVegas (SE)": {
+        "LASK": 1.44,
+        "Wolfsberger AC": 5.2,
+        "Draw": 4.0
+      },
+      "Unibet (SE)": {
+        "LASK": 1.51,
+        "Wolfsberger AC": 5.6,
+        "Draw": 4.3
+      },
+      "Tipico": {
+        "LASK": 1.45,
+        "Wolfsberger AC": 5.8,
+        "Draw": 4.8
+      },
       "Matchbook": {
-        "LASK": 1.66,
-        "Wolfsberger AC": 5.1,
-        "Draw": 4.4
+        "LASK": 1.52,
+        "Wolfsberger AC": 6.2,
+        "Draw": 5.1
       },
       "Pinnacle": {
-        "LASK": 1.62,
-        "Wolfsberger AC": 4.97,
-        "Draw": 4.46
+        "LASK": 1.5,
+        "Wolfsberger AC": 5.95,
+        "Draw": 4.88
+      },
+      "PMU (FR)": {
+        "LASK": 1.44,
+        "Wolfsberger AC": 5.2,
+        "Draw": 4.0
       }
     },
     "b7007b62955846ed6b574e7188b8f917:h2h": {
       "Pinnacle": {
-        "Al-Ahli": 4.59,
-        "Al-Hilal": 1.63,
-        "Draw": 4.35
+        "Al-Ahli": 6.02,
+        "Al-Hilal": 1.47,
+        "Draw": 4.75
       },
       "Betfair": {
-        "Al-Ahli": 5.1,
-        "Al-Hilal": 1.67,
-        "Draw": 4.5
+        "Al-Ahli": 7.0,
+        "Al-Hilal": 1.52,
+        "Draw": 5.0
       },
       "Unibet (FR)": {
-        "Al-Ahli": 4.5,
-        "Al-Hilal": 1.51,
-        "Draw": 4.05
+        "Al-Ahli": 5.4,
+        "Al-Hilal": 1.39,
+        "Draw": 4.45
       },
       "LeoVegas (SE)": {
-        "Al-Ahli": 4.1,
-        "Al-Hilal": 1.62,
-        "Draw": 3.75
+        "Al-Ahli": 4.75,
+        "Al-Hilal": 1.5,
+        "Draw": 4.0
       },
       "Winamax (FR)": {
-        "Al-Ahli": 4.3,
-        "Al-Hilal": 1.54,
-        "Draw": 4.1
+        "Al-Ahli": 5.2,
+        "Al-Hilal": 1.42,
+        "Draw": 4.6
       },
       "Winamax (DE)": {
-        "Al-Ahli": 4.4,
-        "Al-Hilal": 1.56,
-        "Draw": 4.3
+        "Al-Ahli": 5.3,
+        "Al-Hilal": 1.44,
+        "Draw": 4.7
       },
       "William Hill": {
-        "Al-Ahli": 4.33,
-        "Al-Hilal": 1.6,
-        "Draw": 3.75
+        "Al-Ahli": 5.0,
+        "Al-Hilal": 1.44,
+        "Draw": 4.0
       },
       "888sport": {
-        "Al-Ahli": 4.33,
-        "Al-Hilal": 1.6,
-        "Draw": 3.75
+        "Al-Ahli": 5.0,
+        "Al-Hilal": 1.44,
+        "Draw": 4.0
       },
       "1xBet": {
-        "Al-Ahli": 4.51,
-        "Al-Hilal": 1.63,
-        "Draw": 4.25
+        "Al-Ahli": 5.81,
+        "Al-Hilal": 1.46,
+        "Draw": 4.67
       },
       "Unibet (NL)": {
-        "Al-Ahli": 4.2,
-        "Al-Hilal": 1.66,
-        "Draw": 3.85
+        "Al-Ahli": 4.8,
+        "Al-Hilal": 1.53,
+        "Draw": 4.1
       },
       "PMU (FR)": {
-        "Al-Ahli": 3.95,
-        "Al-Hilal": 1.56,
-        "Draw": 3.6
-      },
-      "Unibet (SE)": {
-        "Al-Ahli": 4.2,
-        "Al-Hilal": 1.66,
+        "Al-Ahli": 4.6,
+        "Al-Hilal": 1.44,
         "Draw": 3.85
       },
-      "Tipico": {
+      "Unibet (SE)": {
         "Al-Ahli": 4.8,
-        "Al-Hilal": 1.55,
-        "Draw": 4.3
+        "Al-Hilal": 1.53,
+        "Draw": 4.1
+      },
+      "Tipico": {
+        "Al-Ahli": 6.0,
+        "Al-Hilal": 1.4,
+        "Draw": 4.8
       },
       "Betclic (FR)": {
-        "Al-Ahli": 4.7,
-        "Al-Hilal": 1.54,
-        "Draw": 4.2
+        "Al-Ahli": 5.75,
+        "Al-Hilal": 1.44,
+        "Draw": 4.75
       }
     }
   },
@@ -3323,8 +3328,26 @@
       "confidence": 7,
       "alert_type": "value",
       "alerted_at": "2026-08-31T23:47:44.432682+00:00"
+    },
+    {
+      "state_key": "b7007b62955846ed6b574e7188b8f917:h2h",
+      "event_id": "b7007b62955846ed6b574e7188b8f917",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Hilal",
+      "away_team": "Al-Ahli",
+      "commence_time": "2026-09-01T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Ahli",
+      "odds_at_alert": 7.0,
+      "stake_pct": 3.0,
+      "confidence": 10,
+      "alert_type": "value",
+      "alerted_at": "2026-09-01T11:33:52.365765+00:00"
     }
   ],
   "results_history": [],
-  "value_alerted": []
+  "value_alerted": [
+    "b7007b62955846ed6b574e7188b8f917:h2h|Betfair|Al-Ahli"
+  ]
 }
