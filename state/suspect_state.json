@@ -1,216 +1,316 @@
 {
   "snapshots": {
-    "2cbb3b13e0f45309e0753fa7bb5be047:h2h": {
-      "Betclic (FR)": {
-        "Defensa y Justicia": 1.14,
-        "Platense": 27.0,
-        "Draw": 4.8
-      },
-      "Winamax (FR)": {
-        "Defensa y Justicia": 1.16,
-        "Platense": 44.0,
-        "Draw": 5.1
-      },
+    "341b2c66a7e0b44f95b1958325d77017:h2h": {
       "Winamax (DE)": {
-        "Defensa y Justicia": 1.14,
-        "Platense": 44.0,
-        "Draw": 5.5
-      },
-      "Unibet (SE)": {
-        "Defensa y Justicia": 1.12,
-        "Platense": 51.0,
-        "Draw": 6.5
-      },
-      "LeoVegas (SE)": {
-        "Defensa y Justicia": 1.08,
-        "Platense": 41.0,
-        "Draw": 6.1
-      },
-      "Pinnacle": {
-        "Defensa y Justicia": 1.23,
-        "Platense": 28.95,
-        "Draw": 4.98
-      },
-      "Nordic Bet": {
-        "Defensa y Justicia": 1.15,
-        "Platense": 36.0,
-        "Draw": 4.85
-      },
-      "Betsson": {
-        "Defensa y Justicia": 1.15,
-        "Platense": 36.0,
-        "Draw": 4.85
-      },
-      "Betfair": {
-        "Defensa y Justicia": 1.19,
-        "Platense": 60.0,
-        "Draw": 6.4
-      }
-    },
-    "f2799d61f39fb8b540ade45242f8626e:h2h": {
-      "Winamax (FR)": {
-        "Estudiantes": 6.0,
-        "Newells Old Boys": 14.5,
-        "Draw": 1.17
-      },
-      "Winamax (DE)": {
-        "Estudiantes": 6.25,
-        "Newells Old Boys": 15.0,
-        "Draw": 1.15
-      },
-      "Betclic (FR)": {
-        "Estudiantes": 4.35,
-        "Newells Old Boys": 9.75,
-        "Draw": 1.31
-      },
-      "Unibet (SE)": {
-        "Estudiantes": 6.0,
-        "Newells Old Boys": 15.0,
-        "Draw": 1.19
-      },
-      "LeoVegas (SE)": {
-        "Estudiantes": 5.75,
-        "Newells Old Boys": 14.0,
-        "Draw": 1.12
-      },
-      "Pinnacle": {
-        "Estudiantes": 4.63,
-        "Newells Old Boys": 10.63,
-        "Draw": 1.34
-      },
-      "Nordic Bet": {
-        "Estudiantes": 5.8,
-        "Newells Old Boys": 14.0,
-        "Draw": 1.16
-      },
-      "Betsson": {
-        "Estudiantes": 5.8,
-        "Newells Old Boys": 14.0,
-        "Draw": 1.16
-      },
-      "Betfair": {
-        "Estudiantes": 6.8,
-        "Newells Old Boys": 18.5,
-        "Draw": 1.22
-      }
-    },
-    "92d354b1e2b25a15f36041dbdb935030:h2h": {
-      "Winamax (DE)": {
-        "La Serena": 1.43,
-        "Union La Calera": 9.5,
-        "Draw": 3.35
-      },
-      "Unibet (SE)": {
-        "La Serena": 1.41,
-        "Union La Calera": 11.0,
-        "Draw": 3.3
-      },
-      "LeoVegas (SE)": {
-        "La Serena": 1.33,
-        "Union La Calera": 10.5,
+        "Cremonese": 3.25,
+        "Parma": 2.05,
         "Draw": 3.15
       },
-      "Winamax (FR)": {
-        "La Serena": 1.41,
-        "Union La Calera": 9.5,
-        "Draw": 3.3
-      },
-      "Nordic Bet": {
-        "La Serena": 1.47,
-        "Union La Calera": 9.1,
-        "Draw": 3.3
-      },
-      "Betsson": {
-        "La Serena": 1.44,
-        "Union La Calera": 9.1,
-        "Draw": 3.3
-      },
-      "Coolbet": {
-        "La Serena": 1.44,
-        "Union La Calera": 12.5,
-        "Draw": 3.6
+      "Betfair": {
+        "Cremonese": 3.8,
+        "Parma": 2.2,
+        "Draw": 3.35
       },
       "Pinnacle": {
-        "La Serena": 1.6,
-        "Union La Calera": 7.85,
-        "Draw": 3.18
-      },
-      "888sport": {
-        "La Serena": 1.44,
-        "Union La Calera": 8.0,
-        "Draw": 3.25
-      },
-      "Tipico": {
-        "La Serena": 1.35,
-        "Union La Calera": 11.0,
-        "Draw": 3.6
-      },
-      "Betfair": {
-        "La Serena": 1.54,
-        "Union La Calera": 12.0,
-        "Draw": 3.65
-      },
-      "Matchbook": {
-        "La Serena": 1.52,
-        "Union La Calera": 13.0,
-        "Draw": 3.65
-      }
-    },
-    "08bd326c376cc47ea8e49e9e6c820681:h2h": {
-      "Unibet (SE)": {
-        "Fortaleza": 2.1,
-        "Operario PR": 5.5,
-        "Draw": 2.35
+        "Cremonese": 3.62,
+        "Parma": 2.17,
+        "Draw": 3.31
       },
       "LeoVegas (SE)": {
-        "Fortaleza": 1.97,
-        "Operario PR": 5.1,
-        "Draw": 2.23
+        "Cremonese": 3.25,
+        "Parma": 2.08,
+        "Draw": 3.05
       },
       "Unibet (NL)": {
-        "Fortaleza": 2.02,
-        "Operario PR": 5.2,
-        "Draw": 2.25
+        "Cremonese": 3.35,
+        "Parma": 2.16,
+        "Draw": 3.2
       },
-      "Coolbet": {
-        "Fortaleza": 2.25,
-        "Operario PR": 5.0,
-        "Draw": 2.2
+      "Unibet (SE)": {
+        "Cremonese": 3.35,
+        "Parma": 2.16,
+        "Draw": 3.2
       },
-      "Nordic Bet": {
-        "Fortaleza": 2.1,
-        "Operario PR": 5.35,
-        "Draw": 2.2
+      "William Hill": {
+        "Cremonese": 3.4,
+        "Parma": 2.1,
+        "Draw": 3.1
       },
-      "Betsson": {
-        "Fortaleza": 2.1,
-        "Operario PR": 5.35,
-        "Draw": 2.2
-      },
-      "Pinnacle": {
-        "Fortaleza": 2.2,
-        "Operario PR": 5.64,
-        "Draw": 2.31
+      "1xBet": {
+        "Cremonese": 3.46,
+        "Parma": 2.11,
+        "Draw": 3.22
       },
       "888sport": {
-        "Fortaleza": 2.15,
-        "Operario PR": 5.0,
-        "Draw": 2.25
+        "Cremonese": 3.4,
+        "Parma": 2.1,
+        "Draw": 3.1
+      },
+      "Codere (IT)": {
+        "Cremonese": 3.5,
+        "Parma": 2.16,
+        "Draw": 3.2
       },
       "Tipico": {
-        "Fortaleza": 2.1,
-        "Operario PR": 6.0,
-        "Draw": 2.2
+        "Cremonese": 3.7,
+        "Parma": 2.0,
+        "Draw": 3.2
+      }
+    },
+    "c1ae3844eb0ea96cb9f639fa7e9dcbd7:h2h": {
+      "Pinnacle": {
+        "Helsingborgs IF": 2.11,
+        "Örebro SK": 3.13,
+        "Draw": 3.83
       },
-      "Matchbook": {
-        "Fortaleza": 2.32,
-        "Operario PR": 6.4,
-        "Draw": 2.38
+      "Nordic Bet": {
+        "Helsingborgs IF": 2.12,
+        "Örebro SK": 3.1,
+        "Draw": 3.45
+      },
+      "BetOnline.ag": {
+        "Helsingborgs IF": 2.14,
+        "Örebro SK": 3.05,
+        "Draw": 3.75
+      },
+      "Betsson": {
+        "Helsingborgs IF": 2.12,
+        "Örebro SK": 3.1,
+        "Draw": 3.45
+      },
+      "LeoVegas (SE)": {
+        "Helsingborgs IF": 2.02,
+        "Örebro SK": 3.4,
+        "Draw": 3.6
+      },
+      "Unibet (SE)": {
+        "Helsingborgs IF": 2.02,
+        "Örebro SK": 3.4,
+        "Draw": 3.6
+      },
+      "Unibet (NL)": {
+        "Helsingborgs IF": 1.95,
+        "Örebro SK": 3.25,
+        "Draw": 3.45
+      },
+      "1xBet": {
+        "Helsingborgs IF": 2.11,
+        "Örebro SK": 3.11,
+        "Draw": 3.6
+      },
+      "Marathon Bet": {
+        "Helsingborgs IF": 2.05,
+        "Örebro SK": 3.18,
+        "Draw": 3.62
       },
       "Betfair": {
-        "Fortaleza": 2.3,
-        "Operario PR": 6.4,
-        "Draw": 2.4
+        "Helsingborgs IF": 2.22,
+        "Örebro SK": 3.3,
+        "Draw": 3.8
+      },
+      "888sport": {
+        "Helsingborgs IF": 2.05,
+        "Örebro SK": 2.9,
+        "Draw": 3.4
+      },
+      "William Hill": {
+        "Helsingborgs IF": 2.05,
+        "Örebro SK": 2.9,
+        "Draw": 3.4
+      },
+      "Tipico": {
+        "Helsingborgs IF": 1.97,
+        "Örebro SK": 3.1,
+        "Draw": 3.6
+      },
+      "Coolbet": {
+        "Helsingborgs IF": 2.17,
+        "Örebro SK": 3.15,
+        "Draw": 3.7
+      },
+      "BetAnything": {
+        "Helsingborgs IF": 2.14,
+        "Örebro SK": 3.05,
+        "Draw": 3.75
+      },
+      "Matchbook": {
+        "Helsingborgs IF": 2.18,
+        "Örebro SK": 3.4,
+        "Draw": 3.85
+      }
+    },
+    "1d690ad975854f60c81eae19dbb48603:h2h": {
+      "Coolbet": {
+        "LASK": 1.63,
+        "Wolfsberger AC": 4.5,
+        "Draw": 4.2
+      },
+      "Betclic (FR)": {
+        "LASK": 1.54,
+        "Wolfsberger AC": 4.5,
+        "Draw": 4.0
+      },
+      "Codere (IT)": {
+        "LASK": 1.58,
+        "Wolfsberger AC": 4.6,
+        "Draw": 4.1
+      },
+      "Winamax (FR)": {
+        "LASK": 1.54,
+        "Wolfsberger AC": 4.3,
+        "Draw": 4.1
+      },
+      "Winamax (DE)": {
+        "LASK": 1.56,
+        "Wolfsberger AC": 4.4,
+        "Draw": 4.2
+      },
+      "1xBet": {
+        "LASK": 1.62,
+        "Wolfsberger AC": 4.73,
+        "Draw": 4.2
+      },
+      "888sport": {
+        "LASK": 1.65,
+        "Wolfsberger AC": 4.4,
+        "Draw": 4.0
+      },
+      "William Hill": {
+        "LASK": 1.65,
+        "Wolfsberger AC": 4.4,
+        "Draw": 4.0
+      },
+      "Suprabets": {
+        "LASK": 1.54,
+        "Wolfsberger AC": 4.5,
+        "Draw": 4.0
+      },
+      "Betsson": {
+        "LASK": 1.65,
+        "Wolfsberger AC": 4.65,
+        "Draw": 3.85
+      },
+      "Nordic Bet": {
+        "LASK": 1.65,
+        "Wolfsberger AC": 4.65,
+        "Draw": 3.85
+      },
+      "Unibet (FR)": {
+        "LASK": 1.52,
+        "Wolfsberger AC": 4.6,
+        "Draw": 4.1
+      },
+      "Betfair": {
+        "LASK": 1.66,
+        "Wolfsberger AC": 5.1,
+        "Draw": 4.4
+      },
+      "BetOnline.ag": {
+        "LASK": 1.61,
+        "Wolfsberger AC": 4.7,
+        "Draw": 4.3
+      },
+      "Unibet (NL)": {
+        "LASK": 1.76,
+        "Wolfsberger AC": 4.0,
+        "Draw": 3.9
+      },
+      "LeoVegas (SE)": {
+        "LASK": 1.68,
+        "Wolfsberger AC": 3.8,
+        "Draw": 3.65
+      },
+      "Unibet (SE)": {
+        "LASK": 1.76,
+        "Wolfsberger AC": 4.0,
+        "Draw": 3.9
+      },
+      "Tipico": {
+        "LASK": 1.57,
+        "Wolfsberger AC": 5.0,
+        "Draw": 4.3
+      },
+      "Matchbook": {
+        "LASK": 1.66,
+        "Wolfsberger AC": 5.1,
+        "Draw": 4.4
+      },
+      "Pinnacle": {
+        "LASK": 1.62,
+        "Wolfsberger AC": 4.97,
+        "Draw": 4.46
+      }
+    },
+    "b7007b62955846ed6b574e7188b8f917:h2h": {
+      "Pinnacle": {
+        "Al-Ahli": 4.59,
+        "Al-Hilal": 1.63,
+        "Draw": 4.35
+      },
+      "Betfair": {
+        "Al-Ahli": 5.1,
+        "Al-Hilal": 1.67,
+        "Draw": 4.5
+      },
+      "Unibet (FR)": {
+        "Al-Ahli": 4.5,
+        "Al-Hilal": 1.51,
+        "Draw": 4.05
+      },
+      "LeoVegas (SE)": {
+        "Al-Ahli": 4.1,
+        "Al-Hilal": 1.62,
+        "Draw": 3.75
+      },
+      "Winamax (FR)": {
+        "Al-Ahli": 4.3,
+        "Al-Hilal": 1.54,
+        "Draw": 4.1
+      },
+      "Winamax (DE)": {
+        "Al-Ahli": 4.4,
+        "Al-Hilal": 1.56,
+        "Draw": 4.3
+      },
+      "William Hill": {
+        "Al-Ahli": 4.33,
+        "Al-Hilal": 1.6,
+        "Draw": 3.75
+      },
+      "888sport": {
+        "Al-Ahli": 4.33,
+        "Al-Hilal": 1.6,
+        "Draw": 3.75
+      },
+      "1xBet": {
+        "Al-Ahli": 4.51,
+        "Al-Hilal": 1.63,
+        "Draw": 4.25
+      },
+      "Unibet (NL)": {
+        "Al-Ahli": 4.2,
+        "Al-Hilal": 1.66,
+        "Draw": 3.85
+      },
+      "PMU (FR)": {
+        "Al-Ahli": 3.95,
+        "Al-Hilal": 1.56,
+        "Draw": 3.6
+      },
+      "Unibet (SE)": {
+        "Al-Ahli": 4.2,
+        "Al-Hilal": 1.66,
+        "Draw": 3.85
+      },
+      "Tipico": {
+        "Al-Ahli": 4.8,
+        "Al-Hilal": 1.55,
+        "Draw": 4.3
+      },
+      "Betclic (FR)": {
+        "Al-Ahli": 4.7,
+        "Al-Hilal": 1.54,
+        "Draw": 4.2
       }
     }
   },
@@ -3226,47 +3326,5 @@
     }
   ],
   "results_history": [],
-  "value_alerted": [
-    "08bd326c376cc47ea8e49e9e6c820681:h2h|Betfair|Operario PR",
-    "08bd326c376cc47ea8e49e9e6c820681:h2h|Matchbook|Operario PR",
-    "2cbb3b13e0f45309e0753fa7bb5be047:h2h|Betfair|Draw",
-    "2cbb3b13e0f45309e0753fa7bb5be047:h2h|Betfair|Platense",
-    "2cbb3b13e0f45309e0753fa7bb5be047:h2h|Betsson|Platense",
-    "2cbb3b13e0f45309e0753fa7bb5be047:h2h|LeoVegas (SE)|Draw",
-    "2cbb3b13e0f45309e0753fa7bb5be047:h2h|LeoVegas (SE)|Platense",
-    "2cbb3b13e0f45309e0753fa7bb5be047:h2h|Nordic Bet|Platense",
-    "2cbb3b13e0f45309e0753fa7bb5be047:h2h|Unibet (SE)|Draw",
-    "2cbb3b13e0f45309e0753fa7bb5be047:h2h|Unibet (SE)|Platense",
-    "2cbb3b13e0f45309e0753fa7bb5be047:h2h|Winamax (DE)|Draw",
-    "2cbb3b13e0f45309e0753fa7bb5be047:h2h|Winamax (DE)|Platense",
-    "2cbb3b13e0f45309e0753fa7bb5be047:h2h|Winamax (FR)|Platense",
-    "92d354b1e2b25a15f36041dbdb935030:h2h|Betfair|Draw",
-    "92d354b1e2b25a15f36041dbdb935030:h2h|Betfair|Union La Calera",
-    "92d354b1e2b25a15f36041dbdb935030:h2h|Betsson|Union La Calera",
-    "92d354b1e2b25a15f36041dbdb935030:h2h|Coolbet|Draw",
-    "92d354b1e2b25a15f36041dbdb935030:h2h|Coolbet|Union La Calera",
-    "92d354b1e2b25a15f36041dbdb935030:h2h|LeoVegas (SE)|Union La Calera",
-    "92d354b1e2b25a15f36041dbdb935030:h2h|Matchbook|Draw",
-    "92d354b1e2b25a15f36041dbdb935030:h2h|Matchbook|Union La Calera",
-    "92d354b1e2b25a15f36041dbdb935030:h2h|Nordic Bet|Union La Calera",
-    "92d354b1e2b25a15f36041dbdb935030:h2h|Tipico|Draw",
-    "92d354b1e2b25a15f36041dbdb935030:h2h|Tipico|Union La Calera",
-    "92d354b1e2b25a15f36041dbdb935030:h2h|Unibet (SE)|Union La Calera",
-    "92d354b1e2b25a15f36041dbdb935030:h2h|Winamax (DE)|Union La Calera",
-    "92d354b1e2b25a15f36041dbdb935030:h2h|Winamax (FR)|Union La Calera",
-    "f2799d61f39fb8b540ade45242f8626e:h2h|Betfair|Estudiantes",
-    "f2799d61f39fb8b540ade45242f8626e:h2h|Betfair|Newells Old Boys",
-    "f2799d61f39fb8b540ade45242f8626e:h2h|Betsson|Estudiantes",
-    "f2799d61f39fb8b540ade45242f8626e:h2h|Betsson|Newells Old Boys",
-    "f2799d61f39fb8b540ade45242f8626e:h2h|LeoVegas (SE)|Estudiantes",
-    "f2799d61f39fb8b540ade45242f8626e:h2h|LeoVegas (SE)|Newells Old Boys",
-    "f2799d61f39fb8b540ade45242f8626e:h2h|Nordic Bet|Estudiantes",
-    "f2799d61f39fb8b540ade45242f8626e:h2h|Nordic Bet|Newells Old Boys",
-    "f2799d61f39fb8b540ade45242f8626e:h2h|Unibet (SE)|Estudiantes",
-    "f2799d61f39fb8b540ade45242f8626e:h2h|Unibet (SE)|Newells Old Boys",
-    "f2799d61f39fb8b540ade45242f8626e:h2h|Winamax (DE)|Estudiantes",
-    "f2799d61f39fb8b540ade45242f8626e:h2h|Winamax (DE)|Newells Old Boys",
-    "f2799d61f39fb8b540ade45242f8626e:h2h|Winamax (FR)|Estudiantes",
-    "f2799d61f39fb8b540ade45242f8626e:h2h|Winamax (FR)|Newells Old Boys"
-  ]
+  "value_alerted": []
 }
