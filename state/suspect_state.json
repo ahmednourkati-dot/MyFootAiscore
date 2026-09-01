@@ -1,246 +1,186 @@
 {
   "snapshots": {
-    "341b2c66a7e0b44f95b1958325d77017:h2h": {
+    "13816e79011bdf40653042249682f26c:h2h": {
+      "Pinnacle": {
+        "Accrington Stanley": 11.71,
+        "Grimsby Town": 7.66,
+        "Draw": 1.15
+      },
+      "Coolbet": {
+        "Accrington Stanley": 20.0,
+        "Grimsby Town": 16.0,
+        "Draw": 1.02
+      },
+      "Betfair": {
+        "Accrington Stanley": 1.17,
+        "Grimsby Town": 1.01,
+        "Draw": 1.01
+      },
+      "888sport": {
+        "Accrington Stanley": 19.0,
+        "Grimsby Town": 15.0,
+        "Draw": 1.06
+      },
+      "Tipico": {
+        "Accrington Stanley": 30.0,
+        "Grimsby Town": 30.0,
+        "Draw": 1.01
+      },
+      "LeoVegas (SE)": {
+        "Accrington Stanley": 13.0,
+        "Grimsby Town": 11.0,
+        "Draw": 1.02
+      },
+      "Unibet (SE)": {
+        "Accrington Stanley": 23.0,
+        "Grimsby Town": 17.0,
+        "Draw": 1.03
+      },
+      "Unibet (NL)": {
+        "Accrington Stanley": 23.0,
+        "Grimsby Town": 17.0,
+        "Draw": 1.03
+      }
+    },
+    "65ed43c0d11fbd082806b5977c92111a:h2h": {
+      "Winamax (FR)": {
+        "Birmingham City": 48.0,
+        "Southampton": 48.0,
+        "Draw": 1.01
+      },
       "Winamax (DE)": {
-        "Cremonese": 1.62,
-        "Parma": 5.1,
-        "Draw": 3.4
-      },
-      "Betfair": {
-        "Cremonese": 1.71,
-        "Parma": 6.0,
-        "Draw": 3.9
-      },
-      "Pinnacle": {
-        "Cremonese": 1.57,
-        "Parma": 6.03,
-        "Draw": 3.76
-      },
-      "LeoVegas (SE)": {
-        "Cremonese": 1.55,
-        "Parma": 4.7,
-        "Draw": 3.15
-      },
-      "Unibet (NL)": {
-        "Cremonese": 1.66,
-        "Parma": 4.9,
-        "Draw": 3.35
-      },
-      "Unibet (SE)": {
-        "Cremonese": 1.66,
-        "Parma": 4.9,
-        "Draw": 3.35
-      },
-      "888sport": {
-        "Cremonese": 1.67,
-        "Parma": 4.75,
-        "Draw": 3.3
-      },
-      "Codere (IT)": {
-        "Cremonese": 3.15,
-        "Parma": 2.34,
-        "Draw": 3.2
-      },
-      "Tipico": {
-        "Cremonese": 1.6,
-        "Parma": 5.0,
-        "Draw": 3.8
-      }
-    },
-    "c1ae3844eb0ea96cb9f639fa7e9dcbd7:h2h": {
-      "Pinnacle": {
-        "Helsingborgs IF": 2.24,
-        "Örebro SK": 2.99,
-        "Draw": 3.75
-      },
-      "Nordic Bet": {
-        "Helsingborgs IF": 2.22,
-        "Örebro SK": 2.95,
-        "Draw": 3.4
-      },
-      "BetOnline.ag": {
-        "Helsingborgs IF": 2.34,
-        "Örebro SK": 2.96,
-        "Draw": 3.4
-      },
-      "Betsson": {
-        "Helsingborgs IF": 2.22,
-        "Örebro SK": 2.95,
-        "Draw": 3.4
-      },
-      "LeoVegas (SE)": {
-        "Helsingborgs IF": 2.1,
-        "Örebro SK": 3.2,
-        "Draw": 3.6
-      },
-      "Unibet (SE)": {
-        "Helsingborgs IF": 2.1,
-        "Örebro SK": 3.2,
-        "Draw": 3.6
-      },
-      "Unibet (NL)": {
-        "Helsingborgs IF": 2.02,
-        "Örebro SK": 3.1,
-        "Draw": 3.45
-      },
-      "1xBet": {
-        "Helsingborgs IF": 2.2,
-        "Örebro SK": 2.93,
-        "Draw": 3.6
-      },
-      "Marathon Bet": {
-        "Helsingborgs IF": 2.23,
-        "Örebro SK": 3.0,
-        "Draw": 3.36
-      },
-      "Betfair": {
-        "Helsingborgs IF": 2.34,
-        "Örebro SK": 3.15,
-        "Draw": 3.75
-      },
-      "888sport": {
-        "Helsingborgs IF": 2.2,
-        "Örebro SK": 2.88,
-        "Draw": 3.25
-      },
-      "William Hill": {
-        "Helsingborgs IF": 2.2,
-        "Örebro SK": 2.88,
-        "Draw": 3.25
-      },
-      "Tipico": {
-        "Helsingborgs IF": 2.05,
-        "Örebro SK": 3.0,
-        "Draw": 3.5
-      },
-      "Coolbet": {
-        "Helsingborgs IF": 2.15,
-        "Örebro SK": 3.15,
-        "Draw": 3.75
-      },
-      "BetAnything": {
-        "Helsingborgs IF": 2.34,
-        "Örebro SK": 2.96,
-        "Draw": 3.4
-      },
-      "Matchbook": {
-        "Helsingborgs IF": 2.34,
-        "Örebro SK": 3.15,
-        "Draw": 3.75
-      }
-    },
-    "1d690ad975854f60c81eae19dbb48603:h2h": {
-      "Coolbet": {
-        "LASK": 1.35,
-        "Wolfsberger AC": 7.0,
-        "Draw": 5.25
+        "Birmingham City": 48.0,
+        "Southampton": 48.0,
+        "Draw": 1.01
       },
       "Betclic (FR)": {
-        "LASK": 1.38,
-        "Wolfsberger AC": 5.6,
-        "Draw": 4.65
+        "Birmingham City": 23.0,
+        "Southampton": 21.0,
+        "Draw": 1.01
       },
-      "Codere (IT)": {
-        "LASK": 1.37,
-        "Wolfsberger AC": 5.8,
-        "Draw": 4.9
-      },
-      "Winamax (FR)": {
-        "LASK": 1.36,
-        "Wolfsberger AC": 5.5,
-        "Draw": 5.1
-      },
-      "Winamax (DE)": {
-        "LASK": 1.37,
-        "Wolfsberger AC": 5.7,
-        "Draw": 5.2
-      },
-      "1xBet": {
-        "LASK": 1.4,
-        "Wolfsberger AC": 6.44,
-        "Draw": 5.05
-      },
-      "888sport": {
-        "LASK": 1.4,
-        "Wolfsberger AC": 6.0,
-        "Draw": 4.8
-      },
-      "William Hill": {
-        "LASK": 1.4,
-        "Wolfsberger AC": 6.0,
-        "Draw": 4.8
-      },
-      "Suprabets": {
-        "LASK": 1.37,
-        "Wolfsberger AC": 5.9,
-        "Draw": 5.0
-      },
-      "Betsson": {
-        "LASK": 1.4,
-        "Wolfsberger AC": 6.8,
-        "Draw": 4.55
-      },
-      "Nordic Bet": {
-        "LASK": 1.4,
-        "Wolfsberger AC": 6.8,
-        "Draw": 4.55
-      },
-      "Unibet (FR)": {
-        "LASK": 1.34,
-        "Wolfsberger AC": 5.7,
-        "Draw": 4.85
+      "Coolbet": {
+        "Birmingham City": 28.0,
+        "Southampton": 28.0,
+        "Draw": 1.0
       },
       "Betfair": {
-        "LASK": 1.43,
-        "Wolfsberger AC": 7.2,
-        "Draw": 5.8
+        "Birmingham City": 1.05,
+        "Southampton": 1.4,
+        "Draw": 1.01
       },
-      "BetOnline.ag": {
-        "LASK": 1.41,
-        "Wolfsberger AC": 6.58,
-        "Draw": 5.25
+      "888sport": {
+        "Birmingham City": 11.0,
+        "Southampton": 11.0,
+        "Draw": 1.12
       },
-      "Unibet (NL)": {
-        "LASK": 1.43,
-        "Wolfsberger AC": 6.25,
-        "Draw": 4.7
-      },
-      "LeoVegas (SE)": {
-        "LASK": 1.38,
-        "Wolfsberger AC": 5.75,
-        "Draw": 4.4
-      },
-      "Unibet (SE)": {
-        "LASK": 1.43,
-        "Wolfsberger AC": 6.25,
-        "Draw": 4.7
+      "Pinnacle": {
+        "Birmingham City": 7.23,
+        "Southampton": 7.39,
+        "Draw": 1.28
       },
       "Tipico": {
-        "LASK": 1.35,
-        "Wolfsberger AC": 6.7,
-        "Draw": 5.5
+        "Birmingham City": 22.0,
+        "Southampton": 14.0,
+        "Draw": 1.02
       },
-      "Matchbook": {
-        "LASK": 1.43,
-        "Wolfsberger AC": 7.2,
-        "Draw": 5.8
+      "Nordic Bet": {
+        "Birmingham City": 26.0,
+        "Southampton": 26.0,
+        "Draw": 1.0
       },
-      "Pinnacle": {
-        "LASK": 1.42,
-        "Wolfsberger AC": 6.6,
-        "Draw": 5.44
+      "Betsson": {
+        "Birmingham City": 26.0,
+        "Southampton": 26.0,
+        "Draw": 1.0
+      },
+      "LeoVegas (SE)": {
+        "Birmingham City": 8.0,
+        "Southampton": 8.5,
+        "Draw": 1.12
+      },
+      "Unibet (SE)": {
+        "Birmingham City": 23.0,
+        "Southampton": 61.0,
+        "Draw": 1.01
       },
       "PMU (FR)": {
-        "LASK": 1.38,
-        "Wolfsberger AC": 5.75,
-        "Draw": 4.4
+        "Birmingham City": 7.0,
+        "Southampton": 6.5,
+        "Draw": 1.16
+      },
+      "Unibet (NL)": {
+        "Birmingham City": 29.0,
+        "Southampton": 61.0,
+        "Draw": 1.01
       }
     },
-    "98bf9a86f1e73e6ea039fdb48d3ad981:h2h": {
+    "b593a5ed0c3a6b46e0291730e87a5590:h2h": {
+      "Winamax (DE)": {
+        "Monza": 1.05,
+        "Torino": 160.0,
+        "Draw": 9.0
+      },
+      "Betfair": {
+        "Monza": 1.08,
+        "Torino": 60.0,
+        "Draw": 8.8
+      },
       "Pinnacle": {
-        "Austria Wien": 4.14,
-        "SK Brann": 1.72,
-        "Draw": 3.86
+        "Monza": 1.32,
+        "Torino": 17.84,
+        "Draw": 4.03
+      },
+      "888sport": {
+        "Monza": 1.05,
+        "Torino": 101.0,
+        "Draw": 10.0
+      },
+      "Tipico": {
+        "Monza": 1.01,
+        "Torino": 400.0,
+        "Draw": 15.0
+      }
+    },
+    "516bbb5603f1f3b37e144e670daecbea:h2h": {
+      "Winamax (DE)": {
+        "Norwich City": 1000.0,
+        "Stoke City": 1.02,
+        "Draw": 17.0
+      },
+      "Betclic (FR)": {
+        "Norwich City": 100.0,
+        "Stoke City": 1.02,
+        "Draw": 40.0
+      },
+      "Betfair": {
+        "Norwich City": 1000.0,
+        "Stoke City": 1.01,
+        "Draw": 50.0
+      },
+      "Winamax (FR)": {
+        "Norwich City": 1000.0,
+        "Stoke City": 1.03,
+        "Draw": 16.0
+      },
+      "888sport": {
+        "Norwich City": 71.0,
+        "Stoke City": 1.08,
+        "Draw": 8.0
+      },
+      "Nordic Bet": {
+        "Norwich City": 46.0,
+        "Stoke City": 1.0,
+        "Draw": 19.0
+      },
+      "Betsson": {
+        "Norwich City": 46.0,
+        "Stoke City": 1.0,
+        "Draw": 19.0
+      },
+      "LeoVegas (SE)": {
+        "Norwich City": 101.0,
+        "Stoke City": 1.03,
+        "Draw": 9.0
       }
     }
   },
@@ -3285,10 +3225,689 @@
       "confidence": 88,
       "alert_type": "value",
       "alerted_at": "2026-09-01T16:33:16.455980+00:00"
+    },
+    {
+      "state_key": "13816e79011bdf40653042249682f26c:h2h",
+      "event_id": "13816e79011bdf40653042249682f26c",
+      "sport_key": "soccer",
+      "competition": "League 2",
+      "home_team": "Accrington Stanley",
+      "away_team": "Grimsby Town",
+      "commence_time": "2026-09-01T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Accrington Stanley",
+      "odds_at_alert": 20.0,
+      "stake_pct": 5.0,
+      "confidence": 57,
+      "alert_type": "value",
+      "alerted_at": "2026-09-01T20:58:27.129609+00:00"
+    },
+    {
+      "state_key": "13816e79011bdf40653042249682f26c:h2h",
+      "event_id": "13816e79011bdf40653042249682f26c",
+      "sport_key": "soccer",
+      "competition": "League 2",
+      "home_team": "Accrington Stanley",
+      "away_team": "Grimsby Town",
+      "commence_time": "2026-09-01T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Grimsby Town",
+      "odds_at_alert": 16.0,
+      "stake_pct": 5.0,
+      "confidence": 92,
+      "alert_type": "value",
+      "alerted_at": "2026-09-01T20:58:27.508152+00:00"
+    },
+    {
+      "state_key": "13816e79011bdf40653042249682f26c:h2h",
+      "event_id": "13816e79011bdf40653042249682f26c",
+      "sport_key": "soccer",
+      "competition": "League 2",
+      "home_team": "Accrington Stanley",
+      "away_team": "Grimsby Town",
+      "commence_time": "2026-09-01T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Accrington Stanley",
+      "odds_at_alert": 19.0,
+      "stake_pct": 5.0,
+      "confidence": 49,
+      "alert_type": "value",
+      "alerted_at": "2026-09-01T20:58:27.932815+00:00"
+    },
+    {
+      "state_key": "13816e79011bdf40653042249682f26c:h2h",
+      "event_id": "13816e79011bdf40653042249682f26c",
+      "sport_key": "soccer",
+      "competition": "League 2",
+      "home_team": "Accrington Stanley",
+      "away_team": "Grimsby Town",
+      "commence_time": "2026-09-01T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Grimsby Town",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 80,
+      "alert_type": "value",
+      "alerted_at": "2026-09-01T20:58:28.267823+00:00"
+    },
+    {
+      "state_key": "13816e79011bdf40653042249682f26c:h2h",
+      "event_id": "13816e79011bdf40653042249682f26c",
+      "sport_key": "soccer",
+      "competition": "League 2",
+      "home_team": "Accrington Stanley",
+      "away_team": "Grimsby Town",
+      "commence_time": "2026-09-01T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Accrington Stanley",
+      "odds_at_alert": 30.0,
+      "stake_pct": 5.0,
+      "confidence": 136,
+      "alert_type": "value",
+      "alerted_at": "2026-09-01T20:58:28.620871+00:00"
+    },
+    {
+      "state_key": "13816e79011bdf40653042249682f26c:h2h",
+      "event_id": "13816e79011bdf40653042249682f26c",
+      "sport_key": "soccer",
+      "competition": "League 2",
+      "home_team": "Accrington Stanley",
+      "away_team": "Grimsby Town",
+      "commence_time": "2026-09-01T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Grimsby Town",
+      "odds_at_alert": 30.0,
+      "stake_pct": 5.0,
+      "confidence": 261,
+      "alert_type": "value",
+      "alerted_at": "2026-09-01T20:58:28.956447+00:00"
+    },
+    {
+      "state_key": "13816e79011bdf40653042249682f26c:h2h",
+      "event_id": "13816e79011bdf40653042249682f26c",
+      "sport_key": "soccer",
+      "competition": "League 2",
+      "home_team": "Accrington Stanley",
+      "away_team": "Grimsby Town",
+      "commence_time": "2026-09-01T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Grimsby Town",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 32,
+      "alert_type": "value",
+      "alerted_at": "2026-09-01T20:58:29.282277+00:00"
+    },
+    {
+      "state_key": "13816e79011bdf40653042249682f26c:h2h",
+      "event_id": "13816e79011bdf40653042249682f26c",
+      "sport_key": "soccer",
+      "competition": "League 2",
+      "home_team": "Accrington Stanley",
+      "away_team": "Grimsby Town",
+      "commence_time": "2026-09-01T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Accrington Stanley",
+      "odds_at_alert": 23.0,
+      "stake_pct": 5.0,
+      "confidence": 81,
+      "alert_type": "value",
+      "alerted_at": "2026-09-01T20:58:29.630233+00:00"
+    },
+    {
+      "state_key": "13816e79011bdf40653042249682f26c:h2h",
+      "event_id": "13816e79011bdf40653042249682f26c",
+      "sport_key": "soccer",
+      "competition": "League 2",
+      "home_team": "Accrington Stanley",
+      "away_team": "Grimsby Town",
+      "commence_time": "2026-09-01T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Grimsby Town",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 104,
+      "alert_type": "value",
+      "alerted_at": "2026-09-01T20:58:29.985701+00:00"
+    },
+    {
+      "state_key": "13816e79011bdf40653042249682f26c:h2h",
+      "event_id": "13816e79011bdf40653042249682f26c",
+      "sport_key": "soccer",
+      "competition": "League 2",
+      "home_team": "Accrington Stanley",
+      "away_team": "Grimsby Town",
+      "commence_time": "2026-09-01T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Accrington Stanley",
+      "odds_at_alert": 23.0,
+      "stake_pct": 5.0,
+      "confidence": 81,
+      "alert_type": "value",
+      "alerted_at": "2026-09-01T20:58:30.327083+00:00"
+    },
+    {
+      "state_key": "13816e79011bdf40653042249682f26c:h2h",
+      "event_id": "13816e79011bdf40653042249682f26c",
+      "sport_key": "soccer",
+      "competition": "League 2",
+      "home_team": "Accrington Stanley",
+      "away_team": "Grimsby Town",
+      "commence_time": "2026-09-01T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Grimsby Town",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 104,
+      "alert_type": "value",
+      "alerted_at": "2026-09-01T20:58:30.665190+00:00"
+    },
+    {
+      "state_key": "65ed43c0d11fbd082806b5977c92111a:h2h",
+      "event_id": "65ed43c0d11fbd082806b5977c92111a",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Birmingham City",
+      "away_team": "Southampton",
+      "commence_time": "2026-09-01T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Birmingham City",
+      "odds_at_alert": 48.0,
+      "stake_pct": 5.0,
+      "confidence": 529,
+      "alert_type": "value",
+      "alerted_at": "2026-09-01T20:58:30.995949+00:00"
+    },
+    {
+      "state_key": "65ed43c0d11fbd082806b5977c92111a:h2h",
+      "event_id": "65ed43c0d11fbd082806b5977c92111a",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Birmingham City",
+      "away_team": "Southampton",
+      "commence_time": "2026-09-01T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Southampton",
+      "odds_at_alert": 48.0,
+      "stake_pct": 5.0,
+      "confidence": 516,
+      "alert_type": "value",
+      "alerted_at": "2026-09-01T20:58:31.331643+00:00"
+    },
+    {
+      "state_key": "65ed43c0d11fbd082806b5977c92111a:h2h",
+      "event_id": "65ed43c0d11fbd082806b5977c92111a",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Birmingham City",
+      "away_team": "Southampton",
+      "commence_time": "2026-09-01T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Birmingham City",
+      "odds_at_alert": 48.0,
+      "stake_pct": 5.0,
+      "confidence": 529,
+      "alert_type": "value",
+      "alerted_at": "2026-09-01T20:58:31.661506+00:00"
+    },
+    {
+      "state_key": "65ed43c0d11fbd082806b5977c92111a:h2h",
+      "event_id": "65ed43c0d11fbd082806b5977c92111a",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Birmingham City",
+      "away_team": "Southampton",
+      "commence_time": "2026-09-01T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Southampton",
+      "odds_at_alert": 48.0,
+      "stake_pct": 5.0,
+      "confidence": 516,
+      "alert_type": "value",
+      "alerted_at": "2026-09-01T20:58:32.003721+00:00"
+    },
+    {
+      "state_key": "65ed43c0d11fbd082806b5977c92111a:h2h",
+      "event_id": "65ed43c0d11fbd082806b5977c92111a",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Birmingham City",
+      "away_team": "Southampton",
+      "commence_time": "2026-09-01T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Birmingham City",
+      "odds_at_alert": 23.0,
+      "stake_pct": 5.0,
+      "confidence": 202,
+      "alert_type": "value",
+      "alerted_at": "2026-09-01T20:58:32.367419+00:00"
+    },
+    {
+      "state_key": "65ed43c0d11fbd082806b5977c92111a:h2h",
+      "event_id": "65ed43c0d11fbd082806b5977c92111a",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Birmingham City",
+      "away_team": "Southampton",
+      "commence_time": "2026-09-01T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Southampton",
+      "odds_at_alert": 21.0,
+      "stake_pct": 5.0,
+      "confidence": 169,
+      "alert_type": "value",
+      "alerted_at": "2026-09-01T20:58:32.692372+00:00"
+    },
+    {
+      "state_key": "65ed43c0d11fbd082806b5977c92111a:h2h",
+      "event_id": "65ed43c0d11fbd082806b5977c92111a",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Birmingham City",
+      "away_team": "Southampton",
+      "commence_time": "2026-09-01T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Birmingham City",
+      "odds_at_alert": 28.0,
+      "stake_pct": 5.0,
+      "confidence": 267,
+      "alert_type": "value",
+      "alerted_at": "2026-09-01T20:58:33.045665+00:00"
+    },
+    {
+      "state_key": "65ed43c0d11fbd082806b5977c92111a:h2h",
+      "event_id": "65ed43c0d11fbd082806b5977c92111a",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Birmingham City",
+      "away_team": "Southampton",
+      "commence_time": "2026-09-01T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Southampton",
+      "odds_at_alert": 28.0,
+      "stake_pct": 5.0,
+      "confidence": 259,
+      "alert_type": "value",
+      "alerted_at": "2026-09-01T20:58:33.385861+00:00"
+    },
+    {
+      "state_key": "65ed43c0d11fbd082806b5977c92111a:h2h",
+      "event_id": "65ed43c0d11fbd082806b5977c92111a",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Birmingham City",
+      "away_team": "Southampton",
+      "commence_time": "2026-09-01T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Birmingham City",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 44,
+      "alert_type": "value",
+      "alerted_at": "2026-09-01T20:58:33.714234+00:00"
+    },
+    {
+      "state_key": "65ed43c0d11fbd082806b5977c92111a:h2h",
+      "event_id": "65ed43c0d11fbd082806b5977c92111a",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Birmingham City",
+      "away_team": "Southampton",
+      "commence_time": "2026-09-01T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Southampton",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 41,
+      "alert_type": "value",
+      "alerted_at": "2026-09-01T20:58:34.055878+00:00"
+    },
+    {
+      "state_key": "65ed43c0d11fbd082806b5977c92111a:h2h",
+      "event_id": "65ed43c0d11fbd082806b5977c92111a",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Birmingham City",
+      "away_team": "Southampton",
+      "commence_time": "2026-09-01T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Birmingham City",
+      "odds_at_alert": 22.0,
+      "stake_pct": 5.0,
+      "confidence": 188,
+      "alert_type": "value",
+      "alerted_at": "2026-09-01T20:58:34.459855+00:00"
+    },
+    {
+      "state_key": "65ed43c0d11fbd082806b5977c92111a:h2h",
+      "event_id": "65ed43c0d11fbd082806b5977c92111a",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Birmingham City",
+      "away_team": "Southampton",
+      "commence_time": "2026-09-01T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Southampton",
+      "odds_at_alert": 14.0,
+      "stake_pct": 5.0,
+      "confidence": 80,
+      "alert_type": "value",
+      "alerted_at": "2026-09-01T20:58:34.794893+00:00"
+    },
+    {
+      "state_key": "65ed43c0d11fbd082806b5977c92111a:h2h",
+      "event_id": "65ed43c0d11fbd082806b5977c92111a",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Birmingham City",
+      "away_team": "Southampton",
+      "commence_time": "2026-09-01T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Birmingham City",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 241,
+      "alert_type": "value",
+      "alerted_at": "2026-09-01T20:58:35.135755+00:00"
+    },
+    {
+      "state_key": "65ed43c0d11fbd082806b5977c92111a:h2h",
+      "event_id": "65ed43c0d11fbd082806b5977c92111a",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Birmingham City",
+      "away_team": "Southampton",
+      "commence_time": "2026-09-01T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Southampton",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 234,
+      "alert_type": "value",
+      "alerted_at": "2026-09-01T20:58:35.546025+00:00"
+    },
+    {
+      "state_key": "65ed43c0d11fbd082806b5977c92111a:h2h",
+      "event_id": "65ed43c0d11fbd082806b5977c92111a",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Birmingham City",
+      "away_team": "Southampton",
+      "commence_time": "2026-09-01T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Birmingham City",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 241,
+      "alert_type": "value",
+      "alerted_at": "2026-09-01T20:58:35.925251+00:00"
+    },
+    {
+      "state_key": "65ed43c0d11fbd082806b5977c92111a:h2h",
+      "event_id": "65ed43c0d11fbd082806b5977c92111a",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Birmingham City",
+      "away_team": "Southampton",
+      "commence_time": "2026-09-01T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Southampton",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 234,
+      "alert_type": "value",
+      "alerted_at": "2026-09-01T20:58:36.252344+00:00"
+    },
+    {
+      "state_key": "65ed43c0d11fbd082806b5977c92111a:h2h",
+      "event_id": "65ed43c0d11fbd082806b5977c92111a",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Birmingham City",
+      "away_team": "Southampton",
+      "commence_time": "2026-09-01T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Southampton",
+      "odds_at_alert": 8.5,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-09-01T20:58:36.613176+00:00"
+    },
+    {
+      "state_key": "65ed43c0d11fbd082806b5977c92111a:h2h",
+      "event_id": "65ed43c0d11fbd082806b5977c92111a",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Birmingham City",
+      "away_team": "Southampton",
+      "commence_time": "2026-09-01T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Birmingham City",
+      "odds_at_alert": 23.0,
+      "stake_pct": 5.0,
+      "confidence": 202,
+      "alert_type": "value",
+      "alerted_at": "2026-09-01T20:58:36.953749+00:00"
+    },
+    {
+      "state_key": "65ed43c0d11fbd082806b5977c92111a:h2h",
+      "event_id": "65ed43c0d11fbd082806b5977c92111a",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Birmingham City",
+      "away_team": "Southampton",
+      "commence_time": "2026-09-01T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Southampton",
+      "odds_at_alert": 61.0,
+      "stake_pct": 5.0,
+      "confidence": 682,
+      "alert_type": "value",
+      "alerted_at": "2026-09-01T20:58:37.298313+00:00"
+    },
+    {
+      "state_key": "65ed43c0d11fbd082806b5977c92111a:h2h",
+      "event_id": "65ed43c0d11fbd082806b5977c92111a",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Birmingham City",
+      "away_team": "Southampton",
+      "commence_time": "2026-09-01T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Birmingham City",
+      "odds_at_alert": 29.0,
+      "stake_pct": 5.0,
+      "confidence": 280,
+      "alert_type": "value",
+      "alerted_at": "2026-09-01T20:58:37.653942+00:00"
+    },
+    {
+      "state_key": "65ed43c0d11fbd082806b5977c92111a:h2h",
+      "event_id": "65ed43c0d11fbd082806b5977c92111a",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Birmingham City",
+      "away_team": "Southampton",
+      "commence_time": "2026-09-01T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Southampton",
+      "odds_at_alert": 61.0,
+      "stake_pct": 5.0,
+      "confidence": 682,
+      "alert_type": "value",
+      "alerted_at": "2026-09-01T20:58:38.025785+00:00"
+    },
+    {
+      "state_key": "b593a5ed0c3a6b46e0291730e87a5590:h2h",
+      "event_id": "b593a5ed0c3a6b46e0291730e87a5590",
+      "sport_key": "soccer",
+      "competition": "Coppa Italia",
+      "home_team": "Torino",
+      "away_team": "Monza",
+      "commence_time": "2026-09-01T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Torino",
+      "odds_at_alert": 160.0,
+      "stake_pct": 5.0,
+      "confidence": 745,
+      "alert_type": "value",
+      "alerted_at": "2026-09-01T20:58:38.373158+00:00"
+    },
+    {
+      "state_key": "b593a5ed0c3a6b46e0291730e87a5590:h2h",
+      "event_id": "b593a5ed0c3a6b46e0291730e87a5590",
+      "sport_key": "soccer",
+      "competition": "Coppa Italia",
+      "home_team": "Torino",
+      "away_team": "Monza",
+      "commence_time": "2026-09-01T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 9.0,
+      "stake_pct": 5.0,
+      "confidence": 110,
+      "alert_type": "value",
+      "alerted_at": "2026-09-01T20:58:38.811951+00:00"
+    },
+    {
+      "state_key": "b593a5ed0c3a6b46e0291730e87a5590:h2h",
+      "event_id": "b593a5ed0c3a6b46e0291730e87a5590",
+      "sport_key": "soccer",
+      "competition": "Coppa Italia",
+      "home_team": "Torino",
+      "away_team": "Monza",
+      "commence_time": "2026-09-01T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Torino",
+      "odds_at_alert": 60.0,
+      "stake_pct": 5.0,
+      "confidence": 217,
+      "alert_type": "value",
+      "alerted_at": "2026-09-01T20:58:39.157945+00:00"
+    },
+    {
+      "state_key": "b593a5ed0c3a6b46e0291730e87a5590:h2h",
+      "event_id": "b593a5ed0c3a6b46e0291730e87a5590",
+      "sport_key": "soccer",
+      "competition": "Coppa Italia",
+      "home_team": "Torino",
+      "away_team": "Monza",
+      "commence_time": "2026-09-01T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 8.8,
+      "stake_pct": 5.0,
+      "confidence": 106,
+      "alert_type": "value",
+      "alerted_at": "2026-09-01T20:58:39.486199+00:00"
+    },
+    {
+      "state_key": "b593a5ed0c3a6b46e0291730e87a5590:h2h",
+      "event_id": "b593a5ed0c3a6b46e0291730e87a5590",
+      "sport_key": "soccer",
+      "competition": "Coppa Italia",
+      "home_team": "Torino",
+      "away_team": "Monza",
+      "commence_time": "2026-09-01T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Torino",
+      "odds_at_alert": 101.0,
+      "stake_pct": 5.0,
+      "confidence": 433,
+      "alert_type": "value",
+      "alerted_at": "2026-09-01T20:58:39.882954+00:00"
+    },
+    {
+      "state_key": "b593a5ed0c3a6b46e0291730e87a5590:h2h",
+      "event_id": "b593a5ed0c3a6b46e0291730e87a5590",
+      "sport_key": "soccer",
+      "competition": "Coppa Italia",
+      "home_team": "Torino",
+      "away_team": "Monza",
+      "commence_time": "2026-09-01T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 10.0,
+      "stake_pct": 5.0,
+      "confidence": 134,
+      "alert_type": "value",
+      "alerted_at": "2026-09-01T20:58:40.212659+00:00"
+    },
+    {
+      "state_key": "b593a5ed0c3a6b46e0291730e87a5590:h2h",
+      "event_id": "b593a5ed0c3a6b46e0291730e87a5590",
+      "sport_key": "soccer",
+      "competition": "Coppa Italia",
+      "home_team": "Torino",
+      "away_team": "Monza",
+      "commence_time": "2026-09-01T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Torino",
+      "odds_at_alert": 400.0,
+      "stake_pct": 5.0,
+      "confidence": 2012,
+      "alert_type": "value",
+      "alerted_at": "2026-09-01T20:58:40.537888+00:00"
+    },
+    {
+      "state_key": "b593a5ed0c3a6b46e0291730e87a5590:h2h",
+      "event_id": "b593a5ed0c3a6b46e0291730e87a5590",
+      "sport_key": "soccer",
+      "competition": "Coppa Italia",
+      "home_team": "Torino",
+      "away_team": "Monza",
+      "commence_time": "2026-09-01T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 251,
+      "alert_type": "value",
+      "alerted_at": "2026-09-01T20:58:40.865413+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "341b2c66a7e0b44f95b1958325d77017:h2h|Codere (IT)|Cremonese"
+    "13816e79011bdf40653042249682f26c:h2h|888sport|Accrington Stanley",
+    "13816e79011bdf40653042249682f26c:h2h|888sport|Grimsby Town",
+    "13816e79011bdf40653042249682f26c:h2h|Coolbet|Accrington Stanley",
+    "13816e79011bdf40653042249682f26c:h2h|Coolbet|Grimsby Town",
+    "13816e79011bdf40653042249682f26c:h2h|LeoVegas (SE)|Grimsby Town",
+    "13816e79011bdf40653042249682f26c:h2h|Tipico|Accrington Stanley",
+    "13816e79011bdf40653042249682f26c:h2h|Tipico|Grimsby Town",
+    "13816e79011bdf40653042249682f26c:h2h|Unibet (NL)|Accrington Stanley",
+    "13816e79011bdf40653042249682f26c:h2h|Unibet (NL)|Grimsby Town",
+    "13816e79011bdf40653042249682f26c:h2h|Unibet (SE)|Accrington Stanley",
+    "13816e79011bdf40653042249682f26c:h2h|Unibet (SE)|Grimsby Town",
+    "65ed43c0d11fbd082806b5977c92111a:h2h|888sport|Birmingham City",
+    "65ed43c0d11fbd082806b5977c92111a:h2h|888sport|Southampton",
+    "65ed43c0d11fbd082806b5977c92111a:h2h|Betclic (FR)|Birmingham City",
+    "65ed43c0d11fbd082806b5977c92111a:h2h|Betclic (FR)|Southampton",
+    "65ed43c0d11fbd082806b5977c92111a:h2h|Betsson|Birmingham City",
+    "65ed43c0d11fbd082806b5977c92111a:h2h|Betsson|Southampton",
+    "65ed43c0d11fbd082806b5977c92111a:h2h|Coolbet|Birmingham City",
+    "65ed43c0d11fbd082806b5977c92111a:h2h|Coolbet|Southampton",
+    "65ed43c0d11fbd082806b5977c92111a:h2h|LeoVegas (SE)|Southampton",
+    "65ed43c0d11fbd082806b5977c92111a:h2h|Nordic Bet|Birmingham City",
+    "65ed43c0d11fbd082806b5977c92111a:h2h|Nordic Bet|Southampton",
+    "65ed43c0d11fbd082806b5977c92111a:h2h|Tipico|Birmingham City",
+    "65ed43c0d11fbd082806b5977c92111a:h2h|Tipico|Southampton",
+    "65ed43c0d11fbd082806b5977c92111a:h2h|Unibet (NL)|Birmingham City",
+    "65ed43c0d11fbd082806b5977c92111a:h2h|Unibet (NL)|Southampton",
+    "65ed43c0d11fbd082806b5977c92111a:h2h|Unibet (SE)|Birmingham City",
+    "65ed43c0d11fbd082806b5977c92111a:h2h|Unibet (SE)|Southampton",
+    "65ed43c0d11fbd082806b5977c92111a:h2h|Winamax (DE)|Birmingham City",
+    "65ed43c0d11fbd082806b5977c92111a:h2h|Winamax (DE)|Southampton",
+    "65ed43c0d11fbd082806b5977c92111a:h2h|Winamax (FR)|Birmingham City",
+    "65ed43c0d11fbd082806b5977c92111a:h2h|Winamax (FR)|Southampton",
+    "b593a5ed0c3a6b46e0291730e87a5590:h2h|888sport|Draw",
+    "b593a5ed0c3a6b46e0291730e87a5590:h2h|888sport|Torino",
+    "b593a5ed0c3a6b46e0291730e87a5590:h2h|Betfair|Draw",
+    "b593a5ed0c3a6b46e0291730e87a5590:h2h|Betfair|Torino",
+    "b593a5ed0c3a6b46e0291730e87a5590:h2h|Tipico|Draw",
+    "b593a5ed0c3a6b46e0291730e87a5590:h2h|Tipico|Torino",
+    "b593a5ed0c3a6b46e0291730e87a5590:h2h|Winamax (DE)|Draw",
+    "b593a5ed0c3a6b46e0291730e87a5590:h2h|Winamax (DE)|Torino"
   ]
 }
