@@ -1,211 +1,205 @@
 {
   "snapshots": {
-    "0aee2a6b117484297a78e3460e6e4071:h2h": {
-      "Unibet (SE)": {
-        "Udinese": 3.1,
-        "Venezia": 2.18,
-        "Draw": 3.1
-      },
-      "Tipico": {
-        "Udinese": 3.6,
-        "Venezia": 1.95,
-        "Draw": 3.4
-      },
-      "Pinnacle": {
-        "Udinese": 3.32,
-        "Venezia": 2.21,
-        "Draw": 3.19
-      },
-      "Betfair": {
-        "Udinese": 4.5,
-        "Venezia": 1.99,
-        "Draw": 3.5
-      },
-      "Winamax (DE)": {
-        "Udinese": 3.4,
-        "Venezia": 1.98,
-        "Draw": 3.25
-      },
-      "LeoVegas (SE)": {
-        "Udinese": 2.9,
-        "Venezia": 2.05,
-        "Draw": 2.9
-      },
-      "Unibet (NL)": {
-        "Udinese": 3.1,
-        "Venezia": 2.18,
-        "Draw": 3.1
-      },
-      "888sport": {
-        "Udinese": 3.75,
-        "Venezia": 1.91,
-        "Draw": 3.1
-      }
-    },
-    "19f9d682e7e27589834568525c0abd07:h2h": {
+    "6c968fe4325c9b7e75078abfc572560d:h2h": {
       "Winamax (FR)": {
-        "Austria Wien": 1.76,
-        "WSG Tirol": 3.65,
-        "Draw": 3.4
+        "Burnley": 40.0,
+        "Middlesbrough": 32.0,
+        "Draw": 1.02
       },
       "Winamax (DE)": {
-        "Austria Wien": 1.8,
-        "WSG Tirol": 3.8,
-        "Draw": 3.5
-      },
-      "1xBet": {
-        "Austria Wien": 1.86,
-        "WSG Tirol": 4.12,
-        "Draw": 3.81
-      },
-      "Codere (IT)": {
-        "Austria Wien": 1.82,
-        "WSG Tirol": 3.7,
-        "Draw": 3.55
+        "Burnley": 30.0,
+        "Middlesbrough": 25.0,
+        "Draw": 1.02
       },
       "Betclic (FR)": {
-        "Austria Wien": 1.77,
-        "WSG Tirol": 3.68,
-        "Draw": 3.53
+        "Burnley": 14.25,
+        "Middlesbrough": 11.5,
+        "Draw": 1.02
       },
       "Coolbet": {
-        "Austria Wien": 1.85,
-        "WSG Tirol": 3.85,
-        "Draw": 3.75
-      },
-      "Suprabets": {
-        "Austria Wien": 1.8,
-        "WSG Tirol": 3.73,
-        "Draw": 3.63
-      },
-      "Betsson": {
-        "Austria Wien": 1.85,
-        "WSG Tirol": 3.95,
-        "Draw": 3.45
-      },
-      "Nordic Bet": {
-        "Austria Wien": 1.85,
-        "WSG Tirol": 3.95,
-        "Draw": 3.45
-      },
-      "Unibet (FR)": {
-        "Austria Wien": 1.77,
-        "WSG Tirol": 3.55,
-        "Draw": 3.4
+        "Burnley": 22.0,
+        "Middlesbrough": 18.0,
+        "Draw": 1.03
       },
       "Betfair": {
-        "Austria Wien": 1.93,
-        "WSG Tirol": 4.2,
-        "Draw": 3.95
+        "Burnley": 1.05,
+        "Middlesbrough": 1.07
+      },
+      "888sport": {
+        "Burnley": 13.0,
+        "Middlesbrough": 13.0,
+        "Draw": 1.08
+      },
+      "Pinnacle": {
+        "Burnley": 5.33,
+        "Middlesbrough": 4.05,
+        "Draw": 1.6
       },
       "Tipico": {
-        "Austria Wien": 1.85,
-        "WSG Tirol": 4.0,
-        "Draw": 3.4
-      },
-      "888sport": {
-        "Austria Wien": 1.8,
-        "WSG Tirol": 3.7,
-        "Draw": 3.5
-      },
-      "William Hill": {
-        "Austria Wien": 1.83,
-        "WSG Tirol": 3.8,
-        "Draw": 3.6
-      },
-      "BetOnline.ag": {
-        "Austria Wien": 1.87,
-        "WSG Tirol": 3.9,
-        "Draw": 3.7
-      },
-      "Pinnacle": {
-        "Austria Wien": 1.9,
-        "WSG Tirol": 3.99,
-        "Draw": 3.86
-      },
-      "Unibet (SE)": {
-        "Austria Wien": 1.91,
-        "WSG Tirol": 3.75,
-        "Draw": 3.55
-      },
-      "Unibet (NL)": {
-        "Austria Wien": 1.91,
-        "WSG Tirol": 3.75,
-        "Draw": 3.55
+        "Burnley": 22.0,
+        "Middlesbrough": 16.0,
+        "Draw": 1.01
       },
       "LeoVegas (SE)": {
-        "Austria Wien": 1.82,
-        "WSG Tirol": 3.5,
-        "Draw": 3.35
+        "Burnley": 8.5,
+        "Middlesbrough": 7.5,
+        "Draw": 1.13
       },
       "PMU (FR)": {
-        "Austria Wien": 1.82,
-        "WSG Tirol": 3.5,
-        "Draw": 3.35
+        "Burnley": 8.5,
+        "Middlesbrough": 7.5,
+        "Draw": 1.1
       },
-      "Matchbook": {
-        "Austria Wien": 1.92,
-        "WSG Tirol": 4.3,
-        "Draw": 3.95
-      }
-    },
-    "018f89cdf11af737e905ef2a02975910:h2h": {
-      "Pinnacle": {
-        "Eintracht Frankfurt": 3.98,
-        "Paris Saint Germain": 1.72,
-        "Draw": 4.04
+      "Unibet (SE)": {
+        "Burnley": 34.0,
+        "Middlesbrough": 23.0,
+        "Draw": 1.02
       },
-      "Betclic (FR)": {
-        "Eintracht Frankfurt": 3.5,
-        "Paris Saint Germain": 1.75,
-        "Draw": 3.68
-      },
-      "1xBet": {
-        "Eintracht Frankfurt": 4.03,
-        "Paris Saint Germain": 1.74,
-        "Draw": 4.03
-      },
-      "888sport": {
-        "Eintracht Frankfurt": 3.3,
-        "Paris Saint Germain": 1.8,
-        "Draw": 3.3
-      },
-      "William Hill": {
-        "Eintracht Frankfurt": 3.75,
-        "Paris Saint Germain": 1.75,
-        "Draw": 3.5
-      },
-      "BetOnline.ag": {
-        "Eintracht Frankfurt": 3.45,
-        "Paris Saint Germain": 1.72,
-        "Draw": 3.9
-      }
-    },
-    "b17b9d07ccbf5eff6e3db8950c28081b:h2h": {
-      "Pinnacle": {
-        "Inter Milan": 4.19,
-        "VfL Wolfsburg": 1.67,
-        "Draw": 4.13
-      },
-      "Betsson": {
-        "Inter Milan": 3.85,
-        "VfL Wolfsburg": 1.75,
-        "Draw": 3.65
+      "Unibet (NL)": {
+        "Burnley": 34.0,
+        "Middlesbrough": 23.0,
+        "Draw": 1.02
       },
       "Nordic Bet": {
-        "Inter Milan": 3.85,
-        "VfL Wolfsburg": 1.75,
-        "Draw": 3.65
+        "Burnley": 26.0,
+        "Middlesbrough": 21.0,
+        "Draw": 1.01
       },
-      "Betclic (FR)": {
-        "Inter Milan": 3.9,
-        "VfL Wolfsburg": 1.62,
-        "Draw": 3.88
+      "Betsson": {
+        "Burnley": 21.0,
+        "Middlesbrough": 17.0,
+        "Draw": 1.03
+      }
+    },
+    "ac0a169feab5e4c51af15ba68df60bcd:h2h": {
+      "Nordic Bet": {
+        "Mansfield Town": 21.0,
+        "Reading": 1.0,
+        "Draw": 21.0
+      },
+      "Betsson": {
+        "Mansfield Town": 21.0,
+        "Reading": 1.0,
+        "Draw": 21.0
+      }
+    },
+    "1073ab765eafacbfed4798e2a5a1d5d6:h2h": {
+      "Betsson": {
+        "Falkirk F.C.": 1.0,
+        "Rangers": 1.0,
+        "Draw": 1.0
+      },
+      "888sport": {
+        "Falkirk F.C.": 126.0,
+        "Rangers": 1.03,
+        "Draw": 15.0
+      },
+      "Coolbet": {
+        "Falkirk F.C.": 80.0,
+        "Rangers": 1.0,
+        "Draw": 16.0
+      },
+      "Nordic Bet": {
+        "Falkirk F.C.": 1.0,
+        "Rangers": 1.0,
+        "Draw": 1.0
+      },
+      "Betfair": {
+        "Falkirk F.C.": 1000.0,
+        "Rangers": 1.01,
+        "Draw": 50.0
+      }
+    },
+    "3a7fc5cdbede23be6359e60fd8b4d7bf:h2h": {
+      "Nordic Bet": {
+        "Coquimbo Unido": 1.58,
+        "Universidad de Concepción": 5.9,
+        "Draw": 3.6
+      },
+      "Betsson": {
+        "Coquimbo Unido": 1.58,
+        "Universidad de Concepción": 5.9,
+        "Draw": 3.6
+      },
+      "Codere (IT)": {
+        "Coquimbo Unido": 1.56,
+        "Universidad de Concepción": 5.6,
+        "Draw": 3.75
       },
       "BetOnline.ag": {
-        "Inter Milan": 4.15,
-        "VfL Wolfsburg": 1.61,
+        "Coquimbo Unido": 1.56,
+        "Universidad de Concepción": 5.7,
+        "Draw": 4.0
+      },
+      "Winamax (DE)": {
+        "Coquimbo Unido": 1.54,
+        "Universidad de Concepción": 5.3,
+        "Draw": 3.85
+      },
+      "GTbets": {
+        "Coquimbo Unido": 1.64,
+        "Universidad de Concepción": 6.14,
+        "Draw": 3.64
+      },
+      "Unibet (FR)": {
+        "Coquimbo Unido": 1.5,
+        "Universidad de Concepción": 5.4,
+        "Draw": 3.6
+      },
+      "Coolbet": {
+        "Coquimbo Unido": 1.63,
+        "Universidad de Concepción": 6.35,
+        "Draw": 3.65
+      },
+      "Winamax (FR)": {
+        "Coquimbo Unido": 1.52,
+        "Universidad de Concepción": 5.1,
         "Draw": 3.75
+      },
+      "Pinnacle": {
+        "Coquimbo Unido": 1.56,
+        "Universidad de Concepción": 6.23,
+        "Draw": 4.11
+      },
+      "Betfair": {
+        "Coquimbo Unido": 1.61,
+        "Universidad de Concepción": 6.6,
+        "Draw": 4.2
+      },
+      "1xBet": {
+        "Coquimbo Unido": 1.51,
+        "Universidad de Concepción": 5.99,
+        "Draw": 3.75
+      },
+      "Marathon Bet": {
+        "Coquimbo Unido": 1.55,
+        "Universidad de Concepción": 5.65,
+        "Draw": 3.88
+      },
+      "888sport": {
+        "Coquimbo Unido": 1.53,
+        "Universidad de Concepción": 5.5,
+        "Draw": 3.6
+      },
+      "Tipico": {
+        "Coquimbo Unido": 1.47,
+        "Universidad de Concepción": 5.8,
+        "Draw": 3.9
+      },
+      "Matchbook": {
+        "Coquimbo Unido": 1.61,
+        "Universidad de Concepción": 6.4,
+        "Draw": 4.2
+      },
+      "Unibet (SE)": {
+        "Coquimbo Unido": 1.57,
+        "Universidad de Concepción": 5.4,
+        "Draw": 3.6
+      },
+      "LeoVegas (SE)": {
+        "Coquimbo Unido": 1.57,
+        "Universidad de Concepción": 5.4,
+        "Draw": 3.6
       }
     }
   },
@@ -4018,11 +4012,417 @@
       "confidence": 6,
       "alert_type": "value",
       "alerted_at": "2026-09-02T16:30:28.305634+00:00"
+    },
+    {
+      "state_key": "6c968fe4325c9b7e75078abfc572560d:h2h",
+      "event_id": "6c968fe4325c9b7e75078abfc572560d",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Burnley",
+      "away_team": "Middlesbrough",
+      "commence_time": "2026-09-02T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Burnley",
+      "odds_at_alert": 40.0,
+      "stake_pct": 5.0,
+      "confidence": 608,
+      "alert_type": "value",
+      "alerted_at": "2026-09-02T20:58:29.056642+00:00"
+    },
+    {
+      "state_key": "6c968fe4325c9b7e75078abfc572560d:h2h",
+      "event_id": "6c968fe4325c9b7e75078abfc572560d",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Burnley",
+      "away_team": "Middlesbrough",
+      "commence_time": "2026-09-02T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Middlesbrough",
+      "odds_at_alert": 32.0,
+      "stake_pct": 5.0,
+      "confidence": 646,
+      "alert_type": "value",
+      "alerted_at": "2026-09-02T20:58:29.485019+00:00"
+    },
+    {
+      "state_key": "6c968fe4325c9b7e75078abfc572560d:h2h",
+      "event_id": "6c968fe4325c9b7e75078abfc572560d",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Burnley",
+      "away_team": "Middlesbrough",
+      "commence_time": "2026-09-02T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Burnley",
+      "odds_at_alert": 30.0,
+      "stake_pct": 5.0,
+      "confidence": 431,
+      "alert_type": "value",
+      "alerted_at": "2026-09-02T20:58:29.845137+00:00"
+    },
+    {
+      "state_key": "6c968fe4325c9b7e75078abfc572560d:h2h",
+      "event_id": "6c968fe4325c9b7e75078abfc572560d",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Burnley",
+      "away_team": "Middlesbrough",
+      "commence_time": "2026-09-02T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Middlesbrough",
+      "odds_at_alert": 25.0,
+      "stake_pct": 5.0,
+      "confidence": 483,
+      "alert_type": "value",
+      "alerted_at": "2026-09-02T20:58:30.216382+00:00"
+    },
+    {
+      "state_key": "6c968fe4325c9b7e75078abfc572560d:h2h",
+      "event_id": "6c968fe4325c9b7e75078abfc572560d",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Burnley",
+      "away_team": "Middlesbrough",
+      "commence_time": "2026-09-02T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Burnley",
+      "odds_at_alert": 14.25,
+      "stake_pct": 5.0,
+      "confidence": 152,
+      "alert_type": "value",
+      "alerted_at": "2026-09-02T20:58:30.562426+00:00"
+    },
+    {
+      "state_key": "6c968fe4325c9b7e75078abfc572560d:h2h",
+      "event_id": "6c968fe4325c9b7e75078abfc572560d",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Burnley",
+      "away_team": "Middlesbrough",
+      "commence_time": "2026-09-02T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Middlesbrough",
+      "odds_at_alert": 11.5,
+      "stake_pct": 5.0,
+      "confidence": 168,
+      "alert_type": "value",
+      "alerted_at": "2026-09-02T20:58:30.921682+00:00"
+    },
+    {
+      "state_key": "6c968fe4325c9b7e75078abfc572560d:h2h",
+      "event_id": "6c968fe4325c9b7e75078abfc572560d",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Burnley",
+      "away_team": "Middlesbrough",
+      "commence_time": "2026-09-02T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Burnley",
+      "odds_at_alert": 22.0,
+      "stake_pct": 5.0,
+      "confidence": 290,
+      "alert_type": "value",
+      "alerted_at": "2026-09-02T20:58:31.269519+00:00"
+    },
+    {
+      "state_key": "6c968fe4325c9b7e75078abfc572560d:h2h",
+      "event_id": "6c968fe4325c9b7e75078abfc572560d",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Burnley",
+      "away_team": "Middlesbrough",
+      "commence_time": "2026-09-02T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Middlesbrough",
+      "odds_at_alert": 18.0,
+      "stake_pct": 5.0,
+      "confidence": 319,
+      "alert_type": "value",
+      "alerted_at": "2026-09-02T20:58:31.605924+00:00"
+    },
+    {
+      "state_key": "6c968fe4325c9b7e75078abfc572560d:h2h",
+      "event_id": "6c968fe4325c9b7e75078abfc572560d",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Burnley",
+      "away_team": "Middlesbrough",
+      "commence_time": "2026-09-02T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Burnley",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 130,
+      "alert_type": "value",
+      "alerted_at": "2026-09-02T20:58:31.961335+00:00"
+    },
+    {
+      "state_key": "6c968fe4325c9b7e75078abfc572560d:h2h",
+      "event_id": "6c968fe4325c9b7e75078abfc572560d",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Burnley",
+      "away_team": "Middlesbrough",
+      "commence_time": "2026-09-02T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Middlesbrough",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 203,
+      "alert_type": "value",
+      "alerted_at": "2026-09-02T20:58:32.295457+00:00"
+    },
+    {
+      "state_key": "6c968fe4325c9b7e75078abfc572560d:h2h",
+      "event_id": "6c968fe4325c9b7e75078abfc572560d",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Burnley",
+      "away_team": "Middlesbrough",
+      "commence_time": "2026-09-02T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Burnley",
+      "odds_at_alert": 22.0,
+      "stake_pct": 5.0,
+      "confidence": 290,
+      "alert_type": "value",
+      "alerted_at": "2026-09-02T20:58:32.635011+00:00"
+    },
+    {
+      "state_key": "6c968fe4325c9b7e75078abfc572560d:h2h",
+      "event_id": "6c968fe4325c9b7e75078abfc572560d",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Burnley",
+      "away_team": "Middlesbrough",
+      "commence_time": "2026-09-02T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Middlesbrough",
+      "odds_at_alert": 16.0,
+      "stake_pct": 5.0,
+      "confidence": 273,
+      "alert_type": "value",
+      "alerted_at": "2026-09-02T20:58:32.973033+00:00"
+    },
+    {
+      "state_key": "6c968fe4325c9b7e75078abfc572560d:h2h",
+      "event_id": "6c968fe4325c9b7e75078abfc572560d",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Burnley",
+      "away_team": "Middlesbrough",
+      "commence_time": "2026-09-02T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Burnley",
+      "odds_at_alert": 8.5,
+      "stake_pct": 5.0,
+      "confidence": 51,
+      "alert_type": "value",
+      "alerted_at": "2026-09-02T20:58:33.348418+00:00"
+    },
+    {
+      "state_key": "6c968fe4325c9b7e75078abfc572560d:h2h",
+      "event_id": "6c968fe4325c9b7e75078abfc572560d",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Burnley",
+      "away_team": "Middlesbrough",
+      "commence_time": "2026-09-02T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Middlesbrough",
+      "odds_at_alert": 7.5,
+      "stake_pct": 5.0,
+      "confidence": 75,
+      "alert_type": "value",
+      "alerted_at": "2026-09-02T20:58:33.826717+00:00"
+    },
+    {
+      "state_key": "6c968fe4325c9b7e75078abfc572560d:h2h",
+      "event_id": "6c968fe4325c9b7e75078abfc572560d",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Burnley",
+      "away_team": "Middlesbrough",
+      "commence_time": "2026-09-02T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Burnley",
+      "odds_at_alert": 8.5,
+      "stake_pct": 5.0,
+      "confidence": 51,
+      "alert_type": "value",
+      "alerted_at": "2026-09-02T20:58:34.320480+00:00"
+    },
+    {
+      "state_key": "6c968fe4325c9b7e75078abfc572560d:h2h",
+      "event_id": "6c968fe4325c9b7e75078abfc572560d",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Burnley",
+      "away_team": "Middlesbrough",
+      "commence_time": "2026-09-02T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Middlesbrough",
+      "odds_at_alert": 7.5,
+      "stake_pct": 5.0,
+      "confidence": 75,
+      "alert_type": "value",
+      "alerted_at": "2026-09-02T20:58:34.653344+00:00"
+    },
+    {
+      "state_key": "6c968fe4325c9b7e75078abfc572560d:h2h",
+      "event_id": "6c968fe4325c9b7e75078abfc572560d",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Burnley",
+      "away_team": "Middlesbrough",
+      "commence_time": "2026-09-02T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Burnley",
+      "odds_at_alert": 34.0,
+      "stake_pct": 5.0,
+      "confidence": 502,
+      "alert_type": "value",
+      "alerted_at": "2026-09-02T20:58:34.991094+00:00"
+    },
+    {
+      "state_key": "6c968fe4325c9b7e75078abfc572560d:h2h",
+      "event_id": "6c968fe4325c9b7e75078abfc572560d",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Burnley",
+      "away_team": "Middlesbrough",
+      "commence_time": "2026-09-02T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Middlesbrough",
+      "odds_at_alert": 23.0,
+      "stake_pct": 5.0,
+      "confidence": 436,
+      "alert_type": "value",
+      "alerted_at": "2026-09-02T20:58:35.318312+00:00"
+    },
+    {
+      "state_key": "6c968fe4325c9b7e75078abfc572560d:h2h",
+      "event_id": "6c968fe4325c9b7e75078abfc572560d",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Burnley",
+      "away_team": "Middlesbrough",
+      "commence_time": "2026-09-02T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Burnley",
+      "odds_at_alert": 34.0,
+      "stake_pct": 5.0,
+      "confidence": 502,
+      "alert_type": "value",
+      "alerted_at": "2026-09-02T20:58:35.658327+00:00"
+    },
+    {
+      "state_key": "6c968fe4325c9b7e75078abfc572560d:h2h",
+      "event_id": "6c968fe4325c9b7e75078abfc572560d",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Burnley",
+      "away_team": "Middlesbrough",
+      "commence_time": "2026-09-02T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Middlesbrough",
+      "odds_at_alert": 23.0,
+      "stake_pct": 5.0,
+      "confidence": 436,
+      "alert_type": "value",
+      "alerted_at": "2026-09-02T20:58:35.996868+00:00"
+    },
+    {
+      "state_key": "6c968fe4325c9b7e75078abfc572560d:h2h",
+      "event_id": "6c968fe4325c9b7e75078abfc572560d",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Burnley",
+      "away_team": "Middlesbrough",
+      "commence_time": "2026-09-02T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Burnley",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 360,
+      "alert_type": "value",
+      "alerted_at": "2026-09-02T20:58:36.317006+00:00"
+    },
+    {
+      "state_key": "6c968fe4325c9b7e75078abfc572560d:h2h",
+      "event_id": "6c968fe4325c9b7e75078abfc572560d",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Burnley",
+      "away_team": "Middlesbrough",
+      "commence_time": "2026-09-02T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Middlesbrough",
+      "odds_at_alert": 21.0,
+      "stake_pct": 5.0,
+      "confidence": 389,
+      "alert_type": "value",
+      "alerted_at": "2026-09-02T20:58:36.635876+00:00"
+    },
+    {
+      "state_key": "6c968fe4325c9b7e75078abfc572560d:h2h",
+      "event_id": "6c968fe4325c9b7e75078abfc572560d",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Burnley",
+      "away_team": "Middlesbrough",
+      "commence_time": "2026-09-02T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Burnley",
+      "odds_at_alert": 21.0,
+      "stake_pct": 5.0,
+      "confidence": 272,
+      "alert_type": "value",
+      "alerted_at": "2026-09-02T20:58:36.984133+00:00"
+    },
+    {
+      "state_key": "6c968fe4325c9b7e75078abfc572560d:h2h",
+      "event_id": "6c968fe4325c9b7e75078abfc572560d",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Burnley",
+      "away_team": "Middlesbrough",
+      "commence_time": "2026-09-02T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Middlesbrough",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 296,
+      "alert_type": "value",
+      "alerted_at": "2026-09-02T20:58:37.640344+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "0aee2a6b117484297a78e3460e6e4071:h2h|888sport|Udinese",
-    "0aee2a6b117484297a78e3460e6e4071:h2h|Betfair|Udinese"
+    "6c968fe4325c9b7e75078abfc572560d:h2h|888sport|Burnley",
+    "6c968fe4325c9b7e75078abfc572560d:h2h|888sport|Middlesbrough",
+    "6c968fe4325c9b7e75078abfc572560d:h2h|Betclic (FR)|Burnley",
+    "6c968fe4325c9b7e75078abfc572560d:h2h|Betclic (FR)|Middlesbrough",
+    "6c968fe4325c9b7e75078abfc572560d:h2h|Betsson|Burnley",
+    "6c968fe4325c9b7e75078abfc572560d:h2h|Betsson|Middlesbrough",
+    "6c968fe4325c9b7e75078abfc572560d:h2h|Coolbet|Burnley",
+    "6c968fe4325c9b7e75078abfc572560d:h2h|Coolbet|Middlesbrough",
+    "6c968fe4325c9b7e75078abfc572560d:h2h|LeoVegas (SE)|Burnley",
+    "6c968fe4325c9b7e75078abfc572560d:h2h|LeoVegas (SE)|Middlesbrough",
+    "6c968fe4325c9b7e75078abfc572560d:h2h|Nordic Bet|Burnley",
+    "6c968fe4325c9b7e75078abfc572560d:h2h|Nordic Bet|Middlesbrough",
+    "6c968fe4325c9b7e75078abfc572560d:h2h|PMU (FR)|Burnley",
+    "6c968fe4325c9b7e75078abfc572560d:h2h|PMU (FR)|Middlesbrough",
+    "6c968fe4325c9b7e75078abfc572560d:h2h|Tipico|Burnley",
+    "6c968fe4325c9b7e75078abfc572560d:h2h|Tipico|Middlesbrough",
+    "6c968fe4325c9b7e75078abfc572560d:h2h|Unibet (NL)|Burnley",
+    "6c968fe4325c9b7e75078abfc572560d:h2h|Unibet (NL)|Middlesbrough",
+    "6c968fe4325c9b7e75078abfc572560d:h2h|Unibet (SE)|Burnley",
+    "6c968fe4325c9b7e75078abfc572560d:h2h|Unibet (SE)|Middlesbrough",
+    "6c968fe4325c9b7e75078abfc572560d:h2h|Winamax (DE)|Burnley",
+    "6c968fe4325c9b7e75078abfc572560d:h2h|Winamax (DE)|Middlesbrough",
+    "6c968fe4325c9b7e75078abfc572560d:h2h|Winamax (FR)|Burnley",
+    "6c968fe4325c9b7e75078abfc572560d:h2h|Winamax (FR)|Middlesbrough"
   ]
 }
