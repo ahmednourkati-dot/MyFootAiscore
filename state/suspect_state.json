@@ -1,171 +1,231 @@
 {
   "snapshots": {
-    "a61389a137fe3ce8813def2f077c2218:h2h": {
-      "Unibet (SE)": {
-        "Al-Fayha": 41.0,
-        "Al-Kholood": 18.0,
-        "Draw": 1.03
-      },
-      "PMU (FR)": {
-        "Al-Fayha": 10.5,
-        "Al-Kholood": 6.1,
-        "Draw": 1.06
-      },
-      "Unibet (NL)": {
-        "Al-Fayha": 19.0,
-        "Al-Kholood": 15.0,
-        "Draw": 1.01
-      },
-      "LeoVegas (SE)": {
-        "Al-Fayha": 16.0,
-        "Al-Kholood": 15.0,
-        "Draw": 1.01
-      },
-      "Betclic (FR)": {
-        "Al-Fayha": 15.25,
-        "Al-Kholood": 11.75,
-        "Draw": 1.02
-      },
-      "Pinnacle": {
-        "Al-Fayha": 1.27,
-        "Al-Kholood": 21.25,
-        "Draw": 4.34
-      },
+    "3ef04c7a226b3aa820aaa793d8170bdb:h2h": {
       "Winamax (DE)": {
-        "Al-Fayha": 46.0,
-        "Al-Kholood": 34.0,
-        "Draw": 1.01
+        "Cagliari": 250.0,
+        "Hellas Verona": 1.04,
+        "Draw": 9.5
       },
-      "Winamax (FR)": {
-        "Al-Fayha": 46.0,
-        "Al-Kholood": 34.0,
+      "Betfair": {
+        "Cagliari": 1.3,
+        "Hellas Verona": 1.01,
         "Draw": 1.01
       },
       "888sport": {
-        "Al-Fayha": 13.0,
-        "Al-Kholood": 9.5,
-        "Draw": 1.08
-      },
-      "Betfair": {
-        "Al-Fayha": 26.0,
-        "Al-Kholood": 13.0,
-        "Draw": 1.08
-      }
-    },
-    "5ed3dbd0824241449fcaf358295555c9:h2h": {
-      "PMU (FR)": {
-        "Górnik Zabrze": 1.01,
-        "Raków Częstochowa": 51.0,
-        "Draw": 5.75
-      },
-      "Unibet (NL)": {
-        "Górnik Zabrze": 1.11,
-        "Raków Częstochowa": 67.0,
-        "Draw": 6.25
-      },
-      "LeoVegas (SE)": {
-        "Górnik Zabrze": 1.06,
-        "Raków Częstochowa": 51.0,
-        "Draw": 6.1
-      },
-      "Betclic (FR)": {
-        "Górnik Zabrze": 1.08,
-        "Raków Częstochowa": 40.0,
-        "Draw": 5.9
-      },
-      "Unibet (SE)": {
-        "Górnik Zabrze": 1.11,
-        "Raków Częstochowa": 67.0,
-        "Draw": 6.25
-      },
-      "Winamax (DE)": {
-        "Górnik Zabrze": 1.07,
-        "Raków Częstochowa": 75.0,
-        "Draw": 7.5
-      },
-      "Winamax (FR)": {
-        "Górnik Zabrze": 1.11,
-        "Raków Częstochowa": 65.0,
-        "Draw": 6.75
-      },
-      "Coolbet": {
-        "Górnik Zabrze": 1.1,
-        "Raków Częstochowa": 66.0,
-        "Draw": 7.0
-      },
-      "Pinnacle": {
-        "Górnik Zabrze": 1.21,
-        "Raków Częstochowa": 25.59,
-        "Draw": 5.05
-      },
-      "Betfair": {
-        "Górnik Zabrze": 1.11,
-        "Raków Częstochowa": 70.0,
+        "Cagliari": 91.0,
+        "Hellas Verona": 1.06,
         "Draw": 9.0
       },
-      "888sport": {
-        "Górnik Zabrze": 1.06,
-        "Raków Częstochowa": 81.0,
-        "Draw": 8.5
-      },
       "Tipico": {
-        "Górnik Zabrze": 1.07,
-        "Raków Częstochowa": 90.0,
-        "Draw": 6.5
+        "Cagliari": 400.0,
+        "Hellas Verona": 1.01,
+        "Draw": 20.0
       }
     },
-    "f558837a8c7643e75ae5fd48c57e9a3f:h2h": {
-      "Pinnacle": {
-        "Mantova": 30.48,
-        "Palermo": 1.2,
-        "Draw": 5.3
-      },
+    "5a4aaa142d12a350f302f2fb62fef0b3:h2h": {
       "Betfair": {
-        "Mantova": 55.0,
-        "Palermo": 1.19,
-        "Draw": 6.4
+        "Celta Vigo": 38.0,
+        "Real Sociedad": 42.0,
+        "Draw": 1.04
       },
-      "Unibet (NL)": {
-        "Mantova": 51.0,
-        "Palermo": 1.06,
-        "Draw": 7.5
+      "Nordic Bet": {
+        "Celta Vigo": 30.0,
+        "Real Sociedad": 14.0,
+        "Draw": 1.04
       },
-      "LeoVegas (SE)": {
-        "Mantova": 51.0,
-        "Palermo": 1.04,
-        "Draw": 7.0
+      "Betsson": {
+        "Celta Vigo": 21.0,
+        "Real Sociedad": 10.5,
+        "Draw": 1.07
       },
-      "888sport": {
-        "Mantova": 41.0,
-        "Palermo": 1.12,
-        "Draw": 6.0
-      },
-      "Tipico": {
-        "Mantova": 45.0,
-        "Palermo": 1.13,
-        "Draw": 5.5
-      },
-      "Unibet (SE)": {
-        "Mantova": 61.0,
-        "Palermo": 1.08,
-        "Draw": 7.5
+      "Betclic (FR)": {
+        "Celta Vigo": 19.25,
+        "Real Sociedad": 13.75,
+        "Draw": 1.01
       },
       "Winamax (DE)": {
-        "Mantova": 44.0,
-        "Palermo": 1.12,
-        "Draw": 5.9
+        "Celta Vigo": 32.0,
+        "Real Sociedad": 23.0,
+        "Draw": 1.03
+      },
+      "Winamax (FR)": {
+        "Celta Vigo": 25.0,
+        "Real Sociedad": 17.0,
+        "Draw": 1.05
+      },
+      "Tipico": {
+        "Celta Vigo": 20.0,
+        "Real Sociedad": 15.0,
+        "Draw": 1.04
+      },
+      "Pinnacle": {
+        "Celta Vigo": 7.94,
+        "Real Sociedad": 4.63,
+        "Draw": 1.41
+      },
+      "LeoVegas (SE)": {
+        "Celta Vigo": 25.0,
+        "Real Sociedad": 15.0,
+        "Draw": 1.02
+      },
+      "PMU (FR)": {
+        "Celta Vigo": 23.0,
+        "Real Sociedad": 10.0,
+        "Draw": 1.03
+      },
+      "Unibet (NL)": {
+        "Celta Vigo": 36.0,
+        "Real Sociedad": 23.0,
+        "Draw": 1.02
+      },
+      "Unibet (SE)": {
+        "Celta Vigo": 36.0,
+        "Real Sociedad": 23.0,
+        "Draw": 1.02
+      },
+      "Coolbet": {
+        "Celta Vigo": 22.0,
+        "Real Sociedad": 14.0,
+        "Draw": 1.08
       }
     },
-    "bb1b295974cde3c09c22667cce74ceb6:h2h": {
-      "Betclic (FR)": {
-        "Al-Khaleej": 100.0,
-        "Neom": 1.0,
-        "Draw": 40.0
+    "df5b056656f007cfa49c3bf50dd41223:h2h": {
+      "Unibet (NL)": {
+        "Botafogo-SP": 4.1,
+        "Nautico PE": 1.91,
+        "Draw": 3.25
+      },
+      "Unibet (SE)": {
+        "Botafogo-SP": 4.1,
+        "Nautico PE": 1.91,
+        "Draw": 3.25
+      },
+      "LeoVegas (SE)": {
+        "Botafogo-SP": 3.9,
+        "Nautico PE": 1.83,
+        "Draw": 3.1
+      },
+      "Coolbet": {
+        "Botafogo-SP": 3.85,
+        "Nautico PE": 1.95,
+        "Draw": 3.4
+      },
+      "Nordic Bet": {
+        "Botafogo-SP": 4.1,
+        "Nautico PE": 1.9,
+        "Draw": 3.1
+      },
+      "Betsson": {
+        "Botafogo-SP": 4.1,
+        "Nautico PE": 1.9,
+        "Draw": 3.1
+      },
+      "Pinnacle": {
+        "Botafogo-SP": 4.33,
+        "Nautico PE": 1.95,
+        "Draw": 3.37
+      },
+      "1xBet": {
+        "Botafogo-SP": 4.15,
+        "Nautico PE": 1.91,
+        "Draw": 3.24
+      },
+      "Marathon Bet": {
+        "Botafogo-SP": 4.15,
+        "Nautico PE": 1.89,
+        "Draw": 3.24
+      },
+      "Codere (IT)": {
+        "Botafogo-SP": 4.1,
+        "Nautico PE": 1.89,
+        "Draw": 3.15
+      },
+      "BetOnline.ag": {
+        "Botafogo-SP": 4.1,
+        "Nautico PE": 1.95,
+        "Draw": 3.25
+      },
+      "Matchbook": {
+        "Botafogo-SP": 4.5,
+        "Nautico PE": 2.0,
+        "Draw": 3.4
       },
       "Betfair": {
-        "Al-Khaleej": 75.0,
-        "Neom": 1.01,
-        "Draw": 65.0
+        "Botafogo-SP": 4.5,
+        "Nautico PE": 2.0,
+        "Draw": 3.4
+      }
+    },
+    "c1ada54cbb7fe22fcee9a1a8ac899070:h2h": {
+      "LeoVegas (SE)": {
+        "Abha Club": 2.7,
+        "Al-Ettifaq": 2.2,
+        "Draw": 3.3
+      },
+      "Unibet (SE)": {
+        "Abha Club": 2.75,
+        "Al-Ettifaq": 2.25,
+        "Draw": 3.35
+      },
+      "PMU (FR)": {
+        "Abha Club": 2.6,
+        "Al-Ettifaq": 2.14,
+        "Draw": 3.2
+      },
+      "Unibet (NL)": {
+        "Abha Club": 2.75,
+        "Al-Ettifaq": 2.25,
+        "Draw": 3.35
+      },
+      "Unibet (FR)": {
+        "Abha Club": 2.7,
+        "Al-Ettifaq": 2.15,
+        "Draw": 3.35
+      },
+      "Betclic (FR)": {
+        "Abha Club": 2.78,
+        "Al-Ettifaq": 2.23,
+        "Draw": 3.4
+      },
+      "Winamax (DE)": {
+        "Abha Club": 2.7,
+        "Al-Ettifaq": 2.25,
+        "Draw": 3.5
+      },
+      "Winamax (FR)": {
+        "Abha Club": 2.65,
+        "Al-Ettifaq": 2.2,
+        "Draw": 3.45
+      },
+      "1xBet": {
+        "Abha Club": 2.9,
+        "Al-Ettifaq": 2.29,
+        "Draw": 3.46
+      },
+      "Pinnacle": {
+        "Abha Club": 2.91,
+        "Al-Ettifaq": 2.3,
+        "Draw": 3.61
+      },
+      "Betfair": {
+        "Abha Club": 2.96,
+        "Al-Ettifaq": 2.28,
+        "Draw": 3.55
+      },
+      "Tipico": {
+        "Abha Club": 2.95,
+        "Al-Ettifaq": 2.25,
+        "Draw": 3.3
+      },
+      "888sport": {
+        "Abha Club": 2.7,
+        "Al-Ettifaq": 2.2,
+        "Draw": 3.2
+      },
+      "William Hill": {
+        "Abha Club": 2.7,
+        "Al-Ettifaq": 2.2,
+        "Draw": 3.2
       }
     }
   },
@@ -4858,55 +4918,417 @@
       "confidence": 6,
       "alert_type": "value",
       "alerted_at": "2026-09-03T17:49:09.079528+00:00"
+    },
+    {
+      "state_key": "5a4aaa142d12a350f302f2fb62fef0b3:h2h",
+      "event_id": "5a4aaa142d12a350f302f2fb62fef0b3",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Real Sociedad",
+      "away_team": "Celta Vigo",
+      "commence_time": "2026-09-03T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Celta Vigo",
+      "odds_at_alert": 38.0,
+      "stake_pct": 5.0,
+      "confidence": 355,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T20:57:01.025184+00:00"
+    },
+    {
+      "state_key": "5a4aaa142d12a350f302f2fb62fef0b3:h2h",
+      "event_id": "5a4aaa142d12a350f302f2fb62fef0b3",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Real Sociedad",
+      "away_team": "Celta Vigo",
+      "commence_time": "2026-09-03T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Real Sociedad",
+      "odds_at_alert": 42.0,
+      "stake_pct": 5.0,
+      "confidence": 763,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T20:57:01.383870+00:00"
+    },
+    {
+      "state_key": "5a4aaa142d12a350f302f2fb62fef0b3:h2h",
+      "event_id": "5a4aaa142d12a350f302f2fb62fef0b3",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Real Sociedad",
+      "away_team": "Celta Vigo",
+      "commence_time": "2026-09-03T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Celta Vigo",
+      "odds_at_alert": 30.0,
+      "stake_pct": 5.0,
+      "confidence": 259,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T20:57:01.747109+00:00"
+    },
+    {
+      "state_key": "5a4aaa142d12a350f302f2fb62fef0b3:h2h",
+      "event_id": "5a4aaa142d12a350f302f2fb62fef0b3",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Real Sociedad",
+      "away_team": "Celta Vigo",
+      "commence_time": "2026-09-03T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Real Sociedad",
+      "odds_at_alert": 14.0,
+      "stake_pct": 5.0,
+      "confidence": 188,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T20:57:02.171438+00:00"
+    },
+    {
+      "state_key": "5a4aaa142d12a350f302f2fb62fef0b3:h2h",
+      "event_id": "5a4aaa142d12a350f302f2fb62fef0b3",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Real Sociedad",
+      "away_team": "Celta Vigo",
+      "commence_time": "2026-09-03T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Celta Vigo",
+      "odds_at_alert": 21.0,
+      "stake_pct": 5.0,
+      "confidence": 152,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T20:57:02.532262+00:00"
+    },
+    {
+      "state_key": "5a4aaa142d12a350f302f2fb62fef0b3:h2h",
+      "event_id": "5a4aaa142d12a350f302f2fb62fef0b3",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Real Sociedad",
+      "away_team": "Celta Vigo",
+      "commence_time": "2026-09-03T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Real Sociedad",
+      "odds_at_alert": 10.5,
+      "stake_pct": 5.0,
+      "confidence": 116,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T20:57:02.892339+00:00"
+    },
+    {
+      "state_key": "5a4aaa142d12a350f302f2fb62fef0b3:h2h",
+      "event_id": "5a4aaa142d12a350f302f2fb62fef0b3",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Real Sociedad",
+      "away_team": "Celta Vigo",
+      "commence_time": "2026-09-03T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Celta Vigo",
+      "odds_at_alert": 19.25,
+      "stake_pct": 5.0,
+      "confidence": 131,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T20:57:03.254677+00:00"
+    },
+    {
+      "state_key": "5a4aaa142d12a350f302f2fb62fef0b3:h2h",
+      "event_id": "5a4aaa142d12a350f302f2fb62fef0b3",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Real Sociedad",
+      "away_team": "Celta Vigo",
+      "commence_time": "2026-09-03T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Real Sociedad",
+      "odds_at_alert": 13.75,
+      "stake_pct": 5.0,
+      "confidence": 183,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T20:57:03.610765+00:00"
+    },
+    {
+      "state_key": "5a4aaa142d12a350f302f2fb62fef0b3:h2h",
+      "event_id": "5a4aaa142d12a350f302f2fb62fef0b3",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Real Sociedad",
+      "away_team": "Celta Vigo",
+      "commence_time": "2026-09-03T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Celta Vigo",
+      "odds_at_alert": 32.0,
+      "stake_pct": 5.0,
+      "confidence": 283,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T20:57:03.969909+00:00"
+    },
+    {
+      "state_key": "5a4aaa142d12a350f302f2fb62fef0b3:h2h",
+      "event_id": "5a4aaa142d12a350f302f2fb62fef0b3",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Real Sociedad",
+      "away_team": "Celta Vigo",
+      "commence_time": "2026-09-03T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Real Sociedad",
+      "odds_at_alert": 23.0,
+      "stake_pct": 5.0,
+      "confidence": 373,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T20:57:04.322302+00:00"
+    },
+    {
+      "state_key": "5a4aaa142d12a350f302f2fb62fef0b3:h2h",
+      "event_id": "5a4aaa142d12a350f302f2fb62fef0b3",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Real Sociedad",
+      "away_team": "Celta Vigo",
+      "commence_time": "2026-09-03T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Celta Vigo",
+      "odds_at_alert": 25.0,
+      "stake_pct": 5.0,
+      "confidence": 200,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T20:57:04.675603+00:00"
+    },
+    {
+      "state_key": "5a4aaa142d12a350f302f2fb62fef0b3:h2h",
+      "event_id": "5a4aaa142d12a350f302f2fb62fef0b3",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Real Sociedad",
+      "away_team": "Celta Vigo",
+      "commence_time": "2026-09-03T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Real Sociedad",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 249,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T20:57:05.049930+00:00"
+    },
+    {
+      "state_key": "5a4aaa142d12a350f302f2fb62fef0b3:h2h",
+      "event_id": "5a4aaa142d12a350f302f2fb62fef0b3",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Real Sociedad",
+      "away_team": "Celta Vigo",
+      "commence_time": "2026-09-03T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Celta Vigo",
+      "odds_at_alert": 20.0,
+      "stake_pct": 5.0,
+      "confidence": 140,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T20:57:05.408775+00:00"
+    },
+    {
+      "state_key": "5a4aaa142d12a350f302f2fb62fef0b3:h2h",
+      "event_id": "5a4aaa142d12a350f302f2fb62fef0b3",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Real Sociedad",
+      "away_team": "Celta Vigo",
+      "commence_time": "2026-09-03T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Real Sociedad",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 208,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T20:57:05.787716+00:00"
+    },
+    {
+      "state_key": "5a4aaa142d12a350f302f2fb62fef0b3:h2h",
+      "event_id": "5a4aaa142d12a350f302f2fb62fef0b3",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Real Sociedad",
+      "away_team": "Celta Vigo",
+      "commence_time": "2026-09-03T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Celta Vigo",
+      "odds_at_alert": 25.0,
+      "stake_pct": 5.0,
+      "confidence": 200,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T20:57:06.141952+00:00"
+    },
+    {
+      "state_key": "5a4aaa142d12a350f302f2fb62fef0b3:h2h",
+      "event_id": "5a4aaa142d12a350f302f2fb62fef0b3",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Real Sociedad",
+      "away_team": "Celta Vigo",
+      "commence_time": "2026-09-03T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Real Sociedad",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 208,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T20:57:06.489122+00:00"
+    },
+    {
+      "state_key": "5a4aaa142d12a350f302f2fb62fef0b3:h2h",
+      "event_id": "5a4aaa142d12a350f302f2fb62fef0b3",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Real Sociedad",
+      "away_team": "Celta Vigo",
+      "commence_time": "2026-09-03T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Celta Vigo",
+      "odds_at_alert": 23.0,
+      "stake_pct": 5.0,
+      "confidence": 176,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T20:57:06.853407+00:00"
+    },
+    {
+      "state_key": "5a4aaa142d12a350f302f2fb62fef0b3:h2h",
+      "event_id": "5a4aaa142d12a350f302f2fb62fef0b3",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Real Sociedad",
+      "away_team": "Celta Vigo",
+      "commence_time": "2026-09-03T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Real Sociedad",
+      "odds_at_alert": 10.0,
+      "stake_pct": 5.0,
+      "confidence": 105,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T20:57:07.197138+00:00"
+    },
+    {
+      "state_key": "5a4aaa142d12a350f302f2fb62fef0b3:h2h",
+      "event_id": "5a4aaa142d12a350f302f2fb62fef0b3",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Real Sociedad",
+      "away_team": "Celta Vigo",
+      "commence_time": "2026-09-03T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Celta Vigo",
+      "odds_at_alert": 36.0,
+      "stake_pct": 5.0,
+      "confidence": 331,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T20:57:07.540907+00:00"
+    },
+    {
+      "state_key": "5a4aaa142d12a350f302f2fb62fef0b3:h2h",
+      "event_id": "5a4aaa142d12a350f302f2fb62fef0b3",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Real Sociedad",
+      "away_team": "Celta Vigo",
+      "commence_time": "2026-09-03T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Real Sociedad",
+      "odds_at_alert": 23.0,
+      "stake_pct": 5.0,
+      "confidence": 373,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T20:57:07.897010+00:00"
+    },
+    {
+      "state_key": "5a4aaa142d12a350f302f2fb62fef0b3:h2h",
+      "event_id": "5a4aaa142d12a350f302f2fb62fef0b3",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Real Sociedad",
+      "away_team": "Celta Vigo",
+      "commence_time": "2026-09-03T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Celta Vigo",
+      "odds_at_alert": 36.0,
+      "stake_pct": 5.0,
+      "confidence": 331,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T20:57:08.253434+00:00"
+    },
+    {
+      "state_key": "5a4aaa142d12a350f302f2fb62fef0b3:h2h",
+      "event_id": "5a4aaa142d12a350f302f2fb62fef0b3",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Real Sociedad",
+      "away_team": "Celta Vigo",
+      "commence_time": "2026-09-03T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Real Sociedad",
+      "odds_at_alert": 23.0,
+      "stake_pct": 5.0,
+      "confidence": 373,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T20:57:08.610153+00:00"
+    },
+    {
+      "state_key": "5a4aaa142d12a350f302f2fb62fef0b3:h2h",
+      "event_id": "5a4aaa142d12a350f302f2fb62fef0b3",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Real Sociedad",
+      "away_team": "Celta Vigo",
+      "commence_time": "2026-09-03T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Celta Vigo",
+      "odds_at_alert": 22.0,
+      "stake_pct": 5.0,
+      "confidence": 164,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T20:57:08.964043+00:00"
+    },
+    {
+      "state_key": "5a4aaa142d12a350f302f2fb62fef0b3:h2h",
+      "event_id": "5a4aaa142d12a350f302f2fb62fef0b3",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Real Sociedad",
+      "away_team": "Celta Vigo",
+      "commence_time": "2026-09-03T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Real Sociedad",
+      "odds_at_alert": 14.0,
+      "stake_pct": 5.0,
+      "confidence": 188,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T20:57:09.325789+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "5ed3dbd0824241449fcaf358295555c9:h2h|888sport|Draw",
-    "5ed3dbd0824241449fcaf358295555c9:h2h|888sport|Raków Częstochowa",
-    "5ed3dbd0824241449fcaf358295555c9:h2h|Betclic (FR)|Draw",
-    "5ed3dbd0824241449fcaf358295555c9:h2h|Betclic (FR)|Raków Częstochowa",
-    "5ed3dbd0824241449fcaf358295555c9:h2h|Betfair|Draw",
-    "5ed3dbd0824241449fcaf358295555c9:h2h|Betfair|Raków Częstochowa",
-    "5ed3dbd0824241449fcaf358295555c9:h2h|Coolbet|Draw",
-    "5ed3dbd0824241449fcaf358295555c9:h2h|Coolbet|Raków Częstochowa",
-    "5ed3dbd0824241449fcaf358295555c9:h2h|LeoVegas (SE)|Draw",
-    "5ed3dbd0824241449fcaf358295555c9:h2h|LeoVegas (SE)|Raków Częstochowa",
-    "5ed3dbd0824241449fcaf358295555c9:h2h|PMU (FR)|Draw",
-    "5ed3dbd0824241449fcaf358295555c9:h2h|PMU (FR)|Raków Częstochowa",
-    "5ed3dbd0824241449fcaf358295555c9:h2h|Tipico|Draw",
-    "5ed3dbd0824241449fcaf358295555c9:h2h|Tipico|Raków Częstochowa",
-    "5ed3dbd0824241449fcaf358295555c9:h2h|Unibet (NL)|Draw",
-    "5ed3dbd0824241449fcaf358295555c9:h2h|Unibet (NL)|Raków Częstochowa",
-    "5ed3dbd0824241449fcaf358295555c9:h2h|Unibet (SE)|Draw",
-    "5ed3dbd0824241449fcaf358295555c9:h2h|Unibet (SE)|Raków Częstochowa",
-    "5ed3dbd0824241449fcaf358295555c9:h2h|Winamax (DE)|Draw",
-    "5ed3dbd0824241449fcaf358295555c9:h2h|Winamax (DE)|Raków Częstochowa",
-    "5ed3dbd0824241449fcaf358295555c9:h2h|Winamax (FR)|Draw",
-    "5ed3dbd0824241449fcaf358295555c9:h2h|Winamax (FR)|Raków Częstochowa",
-    "a61389a137fe3ce8813def2f077c2218:h2h|888sport|Al-Fayha",
-    "a61389a137fe3ce8813def2f077c2218:h2h|Betclic (FR)|Al-Fayha",
-    "a61389a137fe3ce8813def2f077c2218:h2h|Betfair|Al-Fayha",
-    "a61389a137fe3ce8813def2f077c2218:h2h|LeoVegas (SE)|Al-Fayha",
-    "a61389a137fe3ce8813def2f077c2218:h2h|PMU (FR)|Al-Fayha",
-    "a61389a137fe3ce8813def2f077c2218:h2h|Unibet (NL)|Al-Fayha",
-    "a61389a137fe3ce8813def2f077c2218:h2h|Unibet (SE)|Al-Fayha",
-    "a61389a137fe3ce8813def2f077c2218:h2h|Winamax (DE)|Al-Fayha",
-    "a61389a137fe3ce8813def2f077c2218:h2h|Winamax (DE)|Al-Kholood",
-    "a61389a137fe3ce8813def2f077c2218:h2h|Winamax (FR)|Al-Fayha",
-    "a61389a137fe3ce8813def2f077c2218:h2h|Winamax (FR)|Al-Kholood",
-    "f558837a8c7643e75ae5fd48c57e9a3f:h2h|888sport|Draw",
-    "f558837a8c7643e75ae5fd48c57e9a3f:h2h|888sport|Mantova",
-    "f558837a8c7643e75ae5fd48c57e9a3f:h2h|Betfair|Draw",
-    "f558837a8c7643e75ae5fd48c57e9a3f:h2h|Betfair|Mantova",
-    "f558837a8c7643e75ae5fd48c57e9a3f:h2h|LeoVegas (SE)|Draw",
-    "f558837a8c7643e75ae5fd48c57e9a3f:h2h|LeoVegas (SE)|Mantova",
-    "f558837a8c7643e75ae5fd48c57e9a3f:h2h|Tipico|Mantova",
-    "f558837a8c7643e75ae5fd48c57e9a3f:h2h|Unibet (NL)|Draw",
-    "f558837a8c7643e75ae5fd48c57e9a3f:h2h|Unibet (NL)|Mantova",
-    "f558837a8c7643e75ae5fd48c57e9a3f:h2h|Unibet (SE)|Draw",
-    "f558837a8c7643e75ae5fd48c57e9a3f:h2h|Unibet (SE)|Mantova",
-    "f558837a8c7643e75ae5fd48c57e9a3f:h2h|Winamax (DE)|Draw",
-    "f558837a8c7643e75ae5fd48c57e9a3f:h2h|Winamax (DE)|Mantova"
+    "5a4aaa142d12a350f302f2fb62fef0b3:h2h|Betclic (FR)|Celta Vigo",
+    "5a4aaa142d12a350f302f2fb62fef0b3:h2h|Betclic (FR)|Real Sociedad",
+    "5a4aaa142d12a350f302f2fb62fef0b3:h2h|Betfair|Celta Vigo",
+    "5a4aaa142d12a350f302f2fb62fef0b3:h2h|Betfair|Real Sociedad",
+    "5a4aaa142d12a350f302f2fb62fef0b3:h2h|Betsson|Celta Vigo",
+    "5a4aaa142d12a350f302f2fb62fef0b3:h2h|Betsson|Real Sociedad",
+    "5a4aaa142d12a350f302f2fb62fef0b3:h2h|Coolbet|Celta Vigo",
+    "5a4aaa142d12a350f302f2fb62fef0b3:h2h|Coolbet|Real Sociedad",
+    "5a4aaa142d12a350f302f2fb62fef0b3:h2h|LeoVegas (SE)|Celta Vigo",
+    "5a4aaa142d12a350f302f2fb62fef0b3:h2h|LeoVegas (SE)|Real Sociedad",
+    "5a4aaa142d12a350f302f2fb62fef0b3:h2h|Nordic Bet|Celta Vigo",
+    "5a4aaa142d12a350f302f2fb62fef0b3:h2h|Nordic Bet|Real Sociedad",
+    "5a4aaa142d12a350f302f2fb62fef0b3:h2h|PMU (FR)|Celta Vigo",
+    "5a4aaa142d12a350f302f2fb62fef0b3:h2h|PMU (FR)|Real Sociedad",
+    "5a4aaa142d12a350f302f2fb62fef0b3:h2h|Tipico|Celta Vigo",
+    "5a4aaa142d12a350f302f2fb62fef0b3:h2h|Tipico|Real Sociedad",
+    "5a4aaa142d12a350f302f2fb62fef0b3:h2h|Unibet (NL)|Celta Vigo",
+    "5a4aaa142d12a350f302f2fb62fef0b3:h2h|Unibet (NL)|Real Sociedad",
+    "5a4aaa142d12a350f302f2fb62fef0b3:h2h|Unibet (SE)|Celta Vigo",
+    "5a4aaa142d12a350f302f2fb62fef0b3:h2h|Unibet (SE)|Real Sociedad",
+    "5a4aaa142d12a350f302f2fb62fef0b3:h2h|Winamax (DE)|Celta Vigo",
+    "5a4aaa142d12a350f302f2fb62fef0b3:h2h|Winamax (DE)|Real Sociedad",
+    "5a4aaa142d12a350f302f2fb62fef0b3:h2h|Winamax (FR)|Celta Vigo",
+    "5a4aaa142d12a350f302f2fb62fef0b3:h2h|Winamax (FR)|Real Sociedad"
   ]
 }
