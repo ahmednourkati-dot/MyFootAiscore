@@ -1,205 +1,246 @@
 {
   "snapshots": {
-    "6c968fe4325c9b7e75078abfc572560d:h2h": {
-      "Winamax (FR)": {
-        "Burnley": 40.0,
-        "Middlesbrough": 32.0,
-        "Draw": 1.02
+    "3a7fc5cdbede23be6359e60fd8b4d7bf:h2h": {
+      "Nordic Bet": {
+        "Coquimbo Unido": 1.03,
+        "Universidad de Concepción": 150.0,
+        "Draw": 17.0
+      },
+      "Betsson": {
+        "Coquimbo Unido": 1.03,
+        "Universidad de Concepción": 150.0,
+        "Draw": 17.0
       },
       "Winamax (DE)": {
-        "Burnley": 30.0,
-        "Middlesbrough": 25.0,
-        "Draw": 1.02
-      },
-      "Betclic (FR)": {
-        "Burnley": 14.25,
-        "Middlesbrough": 11.5,
-        "Draw": 1.02
+        "Coquimbo Unido": 1.01,
+        "Universidad de Concepción": 600.0,
+        "Draw": 23.0
       },
       "Coolbet": {
-        "Burnley": 22.0,
-        "Middlesbrough": 18.0,
-        "Draw": 1.03
+        "Coquimbo Unido": 1.0,
+        "Universidad de Concepción": 250.0,
+        "Draw": 28.0
       },
-      "Betfair": {
-        "Burnley": 1.05,
-        "Middlesbrough": 1.07
-      },
-      "888sport": {
-        "Burnley": 13.0,
-        "Middlesbrough": 13.0,
-        "Draw": 1.08
+      "Winamax (FR)": {
+        "Coquimbo Unido": 1.02,
+        "Universidad de Concepción": 900.0,
+        "Draw": 21.0
       },
       "Pinnacle": {
-        "Burnley": 5.33,
-        "Middlesbrough": 4.05,
-        "Draw": 1.6
-      },
-      "Tipico": {
-        "Burnley": 22.0,
-        "Middlesbrough": 16.0,
-        "Draw": 1.01
-      },
-      "LeoVegas (SE)": {
-        "Burnley": 8.5,
-        "Middlesbrough": 7.5,
-        "Draw": 1.13
-      },
-      "PMU (FR)": {
-        "Burnley": 8.5,
-        "Middlesbrough": 7.5,
-        "Draw": 1.1
-      },
-      "Unibet (SE)": {
-        "Burnley": 34.0,
-        "Middlesbrough": 23.0,
-        "Draw": 1.02
-      },
-      "Unibet (NL)": {
-        "Burnley": 34.0,
-        "Middlesbrough": 23.0,
-        "Draw": 1.02
-      },
-      "Nordic Bet": {
-        "Burnley": 26.0,
-        "Middlesbrough": 21.0,
-        "Draw": 1.01
-      },
-      "Betsson": {
-        "Burnley": 21.0,
-        "Middlesbrough": 17.0,
-        "Draw": 1.03
-      }
-    },
-    "ac0a169feab5e4c51af15ba68df60bcd:h2h": {
-      "Nordic Bet": {
-        "Mansfield Town": 21.0,
-        "Reading": 1.0,
-        "Draw": 21.0
-      },
-      "Betsson": {
-        "Mansfield Town": 21.0,
-        "Reading": 1.0,
-        "Draw": 21.0
-      }
-    },
-    "1073ab765eafacbfed4798e2a5a1d5d6:h2h": {
-      "Betsson": {
-        "Falkirk F.C.": 1.0,
-        "Rangers": 1.0,
-        "Draw": 1.0
-      },
-      "888sport": {
-        "Falkirk F.C.": 126.0,
-        "Rangers": 1.03,
-        "Draw": 15.0
-      },
-      "Coolbet": {
-        "Falkirk F.C.": 80.0,
-        "Rangers": 1.0,
-        "Draw": 16.0
-      },
-      "Nordic Bet": {
-        "Falkirk F.C.": 1.0,
-        "Rangers": 1.0,
-        "Draw": 1.0
+        "Coquimbo Unido": 3.36,
+        "Universidad de Concepción": 9.97,
+        "Draw": 1.5
       },
       "Betfair": {
-        "Falkirk F.C.": 1000.0,
-        "Rangers": 1.01,
+        "Coquimbo Unido": 1.01,
+        "Universidad de Concepción": 15.5,
         "Draw": 50.0
       }
     },
-    "3a7fc5cdbede23be6359e60fd8b4d7bf:h2h": {
-      "Nordic Bet": {
-        "Coquimbo Unido": 1.58,
-        "Universidad de Concepción": 5.9,
-        "Draw": 3.6
-      },
-      "Betsson": {
-        "Coquimbo Unido": 1.58,
-        "Universidad de Concepción": 5.9,
-        "Draw": 3.6
-      },
-      "Codere (IT)": {
-        "Coquimbo Unido": 1.56,
-        "Universidad de Concepción": 5.6,
-        "Draw": 3.75
-      },
-      "BetOnline.ag": {
-        "Coquimbo Unido": 1.56,
-        "Universidad de Concepción": 5.7,
-        "Draw": 4.0
-      },
-      "Winamax (DE)": {
-        "Coquimbo Unido": 1.54,
-        "Universidad de Concepción": 5.3,
-        "Draw": 3.85
-      },
-      "GTbets": {
-        "Coquimbo Unido": 1.64,
-        "Universidad de Concepción": 6.14,
-        "Draw": 3.64
-      },
-      "Unibet (FR)": {
-        "Coquimbo Unido": 1.5,
-        "Universidad de Concepción": 5.4,
-        "Draw": 3.6
+    "5d3859b4b30d7547d655d77b8b72857e:h2h": {
+      "888sport": {
+        "Flamengo": 1.0,
+        "Mirassol": 151.0,
+        "Draw": 61.0
       },
       "Coolbet": {
-        "Coquimbo Unido": 1.63,
-        "Universidad de Concepción": 6.35,
-        "Draw": 3.65
+        "Flamengo": 1.0,
+        "Mirassol": 50.0,
+        "Draw": 18.0
       },
-      "Winamax (FR)": {
-        "Coquimbo Unido": 1.52,
-        "Universidad de Concepción": 5.1,
-        "Draw": 3.75
+      "Betclic (FR)": {
+        "Flamengo": 1.0,
+        "Mirassol": 90.0,
+        "Draw": 27.0
       },
-      "Pinnacle": {
-        "Coquimbo Unido": 1.56,
-        "Universidad de Concepción": 6.23,
-        "Draw": 4.11
+      "Betsson": {
+        "Flamengo": 1.0,
+        "Mirassol": 51.0,
+        "Draw": 19.0
+      },
+      "Nordic Bet": {
+        "Flamengo": 1.0,
+        "Mirassol": 51.0,
+        "Draw": 19.0
       },
       "Betfair": {
-        "Coquimbo Unido": 1.61,
-        "Universidad de Concepción": 6.6,
-        "Draw": 4.2
+        "Flamengo": 1.01,
+        "Mirassol": 220.0,
+        "Draw": 55.0
+      }
+    },
+    "f4573469cd925642518578fe00026198:h2h": {
+      "Codere (IT)": {
+        "Deportes Limache": 2.9,
+        "Ñublense": 2.21,
+        "Draw": 3.4
+      },
+      "Winamax (FR)": {
+        "Deportes Limache": 2.7,
+        "Ñublense": 2.15,
+        "Draw": 3.4
+      },
+      "Unibet (FR)": {
+        "Deportes Limache": 2.75,
+        "Ñublense": 2.15,
+        "Draw": 3.3
+      },
+      "Coolbet": {
+        "Deportes Limache": 2.95,
+        "Ñublense": 2.35,
+        "Draw": 3.6
+      },
+      "Winamax (DE)": {
+        "Deportes Limache": 2.75,
+        "Ñublense": 2.2,
+        "Draw": 3.5
+      },
+      "BetOnline.ag": {
+        "Deportes Limache": 2.8,
+        "Ñublense": 2.32,
+        "Draw": 3.7
+      },
+      "GTbets": {
+        "Deportes Limache": 2.89,
+        "Ñublense": 2.32,
+        "Draw": 3.49
+      },
+      "Betsson": {
+        "Deportes Limache": 2.85,
+        "Ñublense": 2.32,
+        "Draw": 3.4
+      },
+      "Nordic Bet": {
+        "Deportes Limache": 2.85,
+        "Ñublense": 2.32,
+        "Draw": 3.4
       },
       "1xBet": {
-        "Coquimbo Unido": 1.51,
-        "Universidad de Concepción": 5.99,
-        "Draw": 3.75
+        "Deportes Limache": 2.75,
+        "Ñublense": 2.22,
+        "Draw": 3.5
       },
       "Marathon Bet": {
-        "Coquimbo Unido": 1.55,
-        "Universidad de Concepción": 5.65,
-        "Draw": 3.88
+        "Deportes Limache": 2.77,
+        "Ñublense": 2.31,
+        "Draw": 3.5
       },
       "888sport": {
-        "Coquimbo Unido": 1.53,
-        "Universidad de Concepción": 5.5,
-        "Draw": 3.6
+        "Deportes Limache": 2.62,
+        "Ñublense": 2.25,
+        "Draw": 3.4
+      },
+      "Betfair": {
+        "Deportes Limache": 2.96,
+        "Ñublense": 2.46,
+        "Draw": 3.7
+      },
+      "Pinnacle": {
+        "Deportes Limache": 3.05,
+        "Ñublense": 2.29,
+        "Draw": 3.65
       },
       "Tipico": {
-        "Coquimbo Unido": 1.47,
-        "Universidad de Concepción": 5.8,
-        "Draw": 3.9
+        "Deportes Limache": 2.85,
+        "Ñublense": 2.2,
+        "Draw": 3.3
+      },
+      "BetAnything": {
+        "Deportes Limache": 2.8,
+        "Ñublense": 2.32,
+        "Draw": 3.7
       },
       "Matchbook": {
-        "Coquimbo Unido": 1.61,
-        "Universidad de Concepción": 6.4,
-        "Draw": 4.2
-      },
-      "Unibet (SE)": {
-        "Coquimbo Unido": 1.57,
-        "Universidad de Concepción": 5.4,
-        "Draw": 3.6
+        "Deportes Limache": 2.96,
+        "Ñublense": 2.46,
+        "Draw": 3.75
       },
       "LeoVegas (SE)": {
-        "Coquimbo Unido": 1.57,
-        "Universidad de Concepción": 5.4,
-        "Draw": 3.6
+        "Deportes Limache": 2.7,
+        "Ñublense": 2.45,
+        "Draw": 3.4
+      },
+      "Unibet (SE)": {
+        "Deportes Limache": 2.7,
+        "Ñublense": 2.45,
+        "Draw": 3.4
+      }
+    },
+    "5302cf05a47e389e623f7b5f195144fe:h2h": {
+      "Winamax (DE)": {
+        "León": 4.3,
+        "Toluca": 1.66,
+        "Draw": 3.85
+      },
+      "Winamax (FR)": {
+        "León": 4.2,
+        "Toluca": 1.64,
+        "Draw": 3.75
+      },
+      "1xBet": {
+        "León": 4.46,
+        "Toluca": 1.71,
+        "Draw": 3.88
+      },
+      "Nordic Bet": {
+        "León": 4.7,
+        "Toluca": 1.65,
+        "Draw": 3.7
+      },
+      "Betsson": {
+        "León": 4.7,
+        "Toluca": 1.65,
+        "Draw": 3.7
+      },
+      "LeoVegas (SE)": {
+        "León": 4.3,
+        "Toluca": 1.73,
+        "Draw": 3.9
+      },
+      "PMU (FR)": {
+        "León": 4.3,
+        "Toluca": 1.73,
+        "Draw": 3.9
+      },
+      "Unibet (NL)": {
+        "León": 4.3,
+        "Toluca": 1.73,
+        "Draw": 3.9
+      },
+      "Unibet (SE)": {
+        "León": 4.3,
+        "Toluca": 1.73,
+        "Draw": 3.9
+      },
+      "Coolbet": {
+        "León": 4.3,
+        "Toluca": 1.75,
+        "Draw": 4.0
+      },
+      "888sport": {
+        "León": 4.0,
+        "Toluca": 1.67,
+        "Draw": 3.5
+      },
+      "William Hill": {
+        "León": 4.0,
+        "Toluca": 1.67,
+        "Draw": 3.5
+      },
+      "Betfair": {
+        "León": 4.9,
+        "Toluca": 1.76,
+        "Draw": 4.1
+      },
+      "Pinnacle": {
+        "León": 4.78,
+        "Toluca": 1.7,
+        "Draw": 4.05
+      },
+      "BetOnline.ag": {
+        "León": 4.75,
+        "Toluca": 1.69,
+        "Draw": 4.05
       }
     }
   },
@@ -3964,33 +4005,213 @@
       "confidence": 296,
       "alert_type": "value",
       "alerted_at": "2026-09-02T20:58:37.640344+00:00"
+    },
+    {
+      "state_key": "3a7fc5cdbede23be6359e60fd8b4d7bf:h2h",
+      "event_id": "3a7fc5cdbede23be6359e60fd8b4d7bf",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Coquimbo Unido",
+      "away_team": "Universidad de Concepción",
+      "commence_time": "2026-09-02T22:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Universidad de Concepción",
+      "odds_at_alert": 150.0,
+      "stake_pct": 5.0,
+      "confidence": 1313,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T00:08:32.002282+00:00"
+    },
+    {
+      "state_key": "3a7fc5cdbede23be6359e60fd8b4d7bf:h2h",
+      "event_id": "3a7fc5cdbede23be6359e60fd8b4d7bf",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Coquimbo Unido",
+      "away_team": "Universidad de Concepción",
+      "commence_time": "2026-09-02T22:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 965,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T00:08:32.341283+00:00"
+    },
+    {
+      "state_key": "3a7fc5cdbede23be6359e60fd8b4d7bf:h2h",
+      "event_id": "3a7fc5cdbede23be6359e60fd8b4d7bf",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Coquimbo Unido",
+      "away_team": "Universidad de Concepción",
+      "commence_time": "2026-09-02T22:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Universidad de Concepción",
+      "odds_at_alert": 150.0,
+      "stake_pct": 5.0,
+      "confidence": 1313,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T00:08:32.675189+00:00"
+    },
+    {
+      "state_key": "3a7fc5cdbede23be6359e60fd8b4d7bf:h2h",
+      "event_id": "3a7fc5cdbede23be6359e60fd8b4d7bf",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Coquimbo Unido",
+      "away_team": "Universidad de Concepción",
+      "commence_time": "2026-09-02T22:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 965,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T00:08:33.002430+00:00"
+    },
+    {
+      "state_key": "3a7fc5cdbede23be6359e60fd8b4d7bf:h2h",
+      "event_id": "3a7fc5cdbede23be6359e60fd8b4d7bf",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Coquimbo Unido",
+      "away_team": "Universidad de Concepción",
+      "commence_time": "2026-09-02T22:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Universidad de Concepción",
+      "odds_at_alert": 600.0,
+      "stake_pct": 5.0,
+      "confidence": 5553,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T00:08:33.336226+00:00"
+    },
+    {
+      "state_key": "3a7fc5cdbede23be6359e60fd8b4d7bf:h2h",
+      "event_id": "3a7fc5cdbede23be6359e60fd8b4d7bf",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Coquimbo Unido",
+      "away_team": "Universidad de Concepción",
+      "commence_time": "2026-09-02T22:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 23.0,
+      "stake_pct": 5.0,
+      "confidence": 1340,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T00:08:33.657580+00:00"
+    },
+    {
+      "state_key": "3a7fc5cdbede23be6359e60fd8b4d7bf:h2h",
+      "event_id": "3a7fc5cdbede23be6359e60fd8b4d7bf",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Coquimbo Unido",
+      "away_team": "Universidad de Concepción",
+      "commence_time": "2026-09-02T22:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Universidad de Concepción",
+      "odds_at_alert": 250.0,
+      "stake_pct": 5.0,
+      "confidence": 2255,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T00:08:33.995465+00:00"
+    },
+    {
+      "state_key": "3a7fc5cdbede23be6359e60fd8b4d7bf:h2h",
+      "event_id": "3a7fc5cdbede23be6359e60fd8b4d7bf",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Coquimbo Unido",
+      "away_team": "Universidad de Concepción",
+      "commence_time": "2026-09-02T22:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 28.0,
+      "stake_pct": 5.0,
+      "confidence": 1653,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T00:08:34.322789+00:00"
+    },
+    {
+      "state_key": "3a7fc5cdbede23be6359e60fd8b4d7bf:h2h",
+      "event_id": "3a7fc5cdbede23be6359e60fd8b4d7bf",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Coquimbo Unido",
+      "away_team": "Universidad de Concepción",
+      "commence_time": "2026-09-02T22:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Universidad de Concepción",
+      "odds_at_alert": 900.0,
+      "stake_pct": 5.0,
+      "confidence": 8379,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T00:08:34.645015+00:00"
+    },
+    {
+      "state_key": "3a7fc5cdbede23be6359e60fd8b4d7bf:h2h",
+      "event_id": "3a7fc5cdbede23be6359e60fd8b4d7bf",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Coquimbo Unido",
+      "away_team": "Universidad de Concepción",
+      "commence_time": "2026-09-02T22:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 21.0,
+      "stake_pct": 5.0,
+      "confidence": 1215,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T00:08:34.969729+00:00"
+    },
+    {
+      "state_key": "3a7fc5cdbede23be6359e60fd8b4d7bf:h2h",
+      "event_id": "3a7fc5cdbede23be6359e60fd8b4d7bf",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Coquimbo Unido",
+      "away_team": "Universidad de Concepción",
+      "commence_time": "2026-09-02T22:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Universidad de Concepción",
+      "odds_at_alert": 15.5,
+      "stake_pct": 5.0,
+      "confidence": 46,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T00:08:35.293459+00:00"
+    },
+    {
+      "state_key": "3a7fc5cdbede23be6359e60fd8b4d7bf:h2h",
+      "event_id": "3a7fc5cdbede23be6359e60fd8b4d7bf",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Coquimbo Unido",
+      "away_team": "Universidad de Concepción",
+      "commence_time": "2026-09-02T22:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 50.0,
+      "stake_pct": 5.0,
+      "confidence": 3031,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T00:08:35.616492+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "6c968fe4325c9b7e75078abfc572560d:h2h|888sport|Burnley",
-    "6c968fe4325c9b7e75078abfc572560d:h2h|888sport|Middlesbrough",
-    "6c968fe4325c9b7e75078abfc572560d:h2h|Betclic (FR)|Burnley",
-    "6c968fe4325c9b7e75078abfc572560d:h2h|Betclic (FR)|Middlesbrough",
-    "6c968fe4325c9b7e75078abfc572560d:h2h|Betsson|Burnley",
-    "6c968fe4325c9b7e75078abfc572560d:h2h|Betsson|Middlesbrough",
-    "6c968fe4325c9b7e75078abfc572560d:h2h|Coolbet|Burnley",
-    "6c968fe4325c9b7e75078abfc572560d:h2h|Coolbet|Middlesbrough",
-    "6c968fe4325c9b7e75078abfc572560d:h2h|LeoVegas (SE)|Burnley",
-    "6c968fe4325c9b7e75078abfc572560d:h2h|LeoVegas (SE)|Middlesbrough",
-    "6c968fe4325c9b7e75078abfc572560d:h2h|Nordic Bet|Burnley",
-    "6c968fe4325c9b7e75078abfc572560d:h2h|Nordic Bet|Middlesbrough",
-    "6c968fe4325c9b7e75078abfc572560d:h2h|PMU (FR)|Burnley",
-    "6c968fe4325c9b7e75078abfc572560d:h2h|PMU (FR)|Middlesbrough",
-    "6c968fe4325c9b7e75078abfc572560d:h2h|Tipico|Burnley",
-    "6c968fe4325c9b7e75078abfc572560d:h2h|Tipico|Middlesbrough",
-    "6c968fe4325c9b7e75078abfc572560d:h2h|Unibet (NL)|Burnley",
-    "6c968fe4325c9b7e75078abfc572560d:h2h|Unibet (NL)|Middlesbrough",
-    "6c968fe4325c9b7e75078abfc572560d:h2h|Unibet (SE)|Burnley",
-    "6c968fe4325c9b7e75078abfc572560d:h2h|Unibet (SE)|Middlesbrough",
-    "6c968fe4325c9b7e75078abfc572560d:h2h|Winamax (DE)|Burnley",
-    "6c968fe4325c9b7e75078abfc572560d:h2h|Winamax (DE)|Middlesbrough",
-    "6c968fe4325c9b7e75078abfc572560d:h2h|Winamax (FR)|Burnley",
-    "6c968fe4325c9b7e75078abfc572560d:h2h|Winamax (FR)|Middlesbrough"
+    "3a7fc5cdbede23be6359e60fd8b4d7bf:h2h|Betfair|Draw",
+    "3a7fc5cdbede23be6359e60fd8b4d7bf:h2h|Betfair|Universidad de Concepción",
+    "3a7fc5cdbede23be6359e60fd8b4d7bf:h2h|Betsson|Draw",
+    "3a7fc5cdbede23be6359e60fd8b4d7bf:h2h|Betsson|Universidad de Concepción",
+    "3a7fc5cdbede23be6359e60fd8b4d7bf:h2h|Coolbet|Draw",
+    "3a7fc5cdbede23be6359e60fd8b4d7bf:h2h|Coolbet|Universidad de Concepción",
+    "3a7fc5cdbede23be6359e60fd8b4d7bf:h2h|Nordic Bet|Draw",
+    "3a7fc5cdbede23be6359e60fd8b4d7bf:h2h|Nordic Bet|Universidad de Concepción",
+    "3a7fc5cdbede23be6359e60fd8b4d7bf:h2h|Winamax (DE)|Draw",
+    "3a7fc5cdbede23be6359e60fd8b4d7bf:h2h|Winamax (DE)|Universidad de Concepción",
+    "3a7fc5cdbede23be6359e60fd8b4d7bf:h2h|Winamax (FR)|Draw",
+    "3a7fc5cdbede23be6359e60fd8b4d7bf:h2h|Winamax (FR)|Universidad de Concepción"
   ]
 }
