@@ -2,300 +2,170 @@
   "snapshots": {
     "a61389a137fe3ce8813def2f077c2218:h2h": {
       "Unibet (SE)": {
-        "Al-Fayha": 2.75,
-        "Al-Kholood": 2.4,
-        "Draw": 3.05
+        "Al-Fayha": 41.0,
+        "Al-Kholood": 18.0,
+        "Draw": 1.03
       },
       "PMU (FR)": {
-        "Al-Fayha": 2.63,
-        "Al-Kholood": 2.28,
-        "Draw": 2.85
+        "Al-Fayha": 10.5,
+        "Al-Kholood": 6.1,
+        "Draw": 1.06
       },
       "Unibet (NL)": {
-        "Al-Fayha": 2.75,
-        "Al-Kholood": 2.4,
-        "Draw": 3.05
+        "Al-Fayha": 19.0,
+        "Al-Kholood": 15.0,
+        "Draw": 1.01
       },
       "LeoVegas (SE)": {
-        "Al-Fayha": 2.7,
-        "Al-Kholood": 2.35,
-        "Draw": 2.95
-      },
-      "Unibet (FR)": {
-        "Al-Fayha": 3.05,
-        "Al-Kholood": 2.05,
-        "Draw": 3.2
+        "Al-Fayha": 16.0,
+        "Al-Kholood": 15.0,
+        "Draw": 1.01
       },
       "Betclic (FR)": {
-        "Al-Fayha": 3.15,
-        "Al-Kholood": 2.17,
-        "Draw": 3.32
+        "Al-Fayha": 15.25,
+        "Al-Kholood": 11.75,
+        "Draw": 1.02
       },
       "Pinnacle": {
-        "Al-Fayha": 3.2,
-        "Al-Kholood": 2.27,
-        "Draw": 3.37
-      },
-      "Tipico": {
-        "Al-Fayha": 3.3,
-        "Al-Kholood": 2.15,
-        "Draw": 3.2
+        "Al-Fayha": 1.27,
+        "Al-Kholood": 21.25,
+        "Draw": 4.34
       },
       "Winamax (DE)": {
-        "Al-Fayha": 3.05,
-        "Al-Kholood": 2.15,
-        "Draw": 3.35
+        "Al-Fayha": 46.0,
+        "Al-Kholood": 34.0,
+        "Draw": 1.01
       },
       "Winamax (FR)": {
-        "Al-Fayha": 3.0,
-        "Al-Kholood": 2.1,
-        "Draw": 3.3
-      },
-      "William Hill": {
-        "Al-Fayha": 2.9,
-        "Al-Kholood": 2.15,
-        "Draw": 3.0
+        "Al-Fayha": 46.0,
+        "Al-Kholood": 34.0,
+        "Draw": 1.01
       },
       "888sport": {
-        "Al-Fayha": 2.9,
-        "Al-Kholood": 2.15,
-        "Draw": 3.0
-      },
-      "1xBet": {
-        "Al-Fayha": 3.13,
-        "Al-Kholood": 2.27,
-        "Draw": 3.21
+        "Al-Fayha": 13.0,
+        "Al-Kholood": 9.5,
+        "Draw": 1.08
       },
       "Betfair": {
-        "Al-Fayha": 3.35,
-        "Al-Kholood": 2.36,
-        "Draw": 3.4
+        "Al-Fayha": 26.0,
+        "Al-Kholood": 13.0,
+        "Draw": 1.08
       }
     },
     "5ed3dbd0824241449fcaf358295555c9:h2h": {
       "PMU (FR)": {
-        "Górnik Zabrze": 2.5,
-        "Raków Częstochowa": 2.4,
-        "Draw": 3.25
+        "Górnik Zabrze": 1.01,
+        "Raków Częstochowa": 51.0,
+        "Draw": 5.75
       },
       "Unibet (NL)": {
-        "Górnik Zabrze": 2.63,
-        "Raków Częstochowa": 2.55,
-        "Draw": 3.45
+        "Górnik Zabrze": 1.11,
+        "Raków Częstochowa": 67.0,
+        "Draw": 6.25
       },
       "LeoVegas (SE)": {
-        "Górnik Zabrze": 2.5,
-        "Raków Częstochowa": 2.4,
-        "Draw": 3.25
+        "Górnik Zabrze": 1.06,
+        "Raków Częstochowa": 51.0,
+        "Draw": 6.1
       },
       "Betclic (FR)": {
-        "Górnik Zabrze": 2.5,
-        "Raków Częstochowa": 2.45,
-        "Draw": 3.3
-      },
-      "Unibet (FR)": {
-        "Górnik Zabrze": 2.55,
-        "Raków Częstochowa": 2.4,
-        "Draw": 3.2
+        "Górnik Zabrze": 1.08,
+        "Raków Częstochowa": 40.0,
+        "Draw": 5.9
       },
       "Unibet (SE)": {
-        "Górnik Zabrze": 2.63,
-        "Raków Częstochowa": 2.55,
-        "Draw": 3.45
-      },
-      "Betsson": {
-        "Górnik Zabrze": 2.62,
-        "Raków Częstochowa": 2.52,
-        "Draw": 3.25
-      },
-      "Nordic Bet": {
-        "Górnik Zabrze": 2.62,
-        "Raków Częstochowa": 2.52,
-        "Draw": 3.25
-      },
-      "1xBet": {
-        "Górnik Zabrze": 2.55,
-        "Raków Częstochowa": 2.54,
-        "Draw": 3.42
+        "Górnik Zabrze": 1.11,
+        "Raków Częstochowa": 67.0,
+        "Draw": 6.25
       },
       "Winamax (DE)": {
-        "Górnik Zabrze": 2.55,
-        "Raków Częstochowa": 2.45,
-        "Draw": 3.35
+        "Górnik Zabrze": 1.07,
+        "Raków Częstochowa": 75.0,
+        "Draw": 7.5
       },
       "Winamax (FR)": {
-        "Górnik Zabrze": 2.5,
-        "Raków Częstochowa": 2.4,
-        "Draw": 3.3
-      },
-      "Codere (IT)": {
-        "Górnik Zabrze": 2.6,
-        "Raków Częstochowa": 2.49,
-        "Draw": 3.3
+        "Górnik Zabrze": 1.11,
+        "Raków Częstochowa": 65.0,
+        "Draw": 6.75
       },
       "Coolbet": {
-        "Górnik Zabrze": 2.75,
-        "Raków Częstochowa": 2.4,
-        "Draw": 3.75
-      },
-      "BetOnline.ag": {
-        "Górnik Zabrze": 2.6,
-        "Raków Częstochowa": 2.5,
-        "Draw": 3.6
+        "Górnik Zabrze": 1.1,
+        "Raków Częstochowa": 66.0,
+        "Draw": 7.0
       },
       "Pinnacle": {
-        "Górnik Zabrze": 2.62,
-        "Raków Częstochowa": 2.63,
-        "Draw": 3.61
+        "Górnik Zabrze": 1.21,
+        "Raków Częstochowa": 25.59,
+        "Draw": 5.05
       },
       "Betfair": {
-        "Górnik Zabrze": 2.74,
-        "Raków Częstochowa": 2.68,
-        "Draw": 3.7
-      },
-      "Marathon Bet": {
-        "Górnik Zabrze": 2.54,
-        "Raków Częstochowa": 2.53,
-        "Draw": 3.44
+        "Górnik Zabrze": 1.11,
+        "Raków Częstochowa": 70.0,
+        "Draw": 9.0
       },
       "888sport": {
-        "Górnik Zabrze": 2.5,
-        "Raków Częstochowa": 2.5,
-        "Draw": 3.4
+        "Górnik Zabrze": 1.06,
+        "Raków Częstochowa": 81.0,
+        "Draw": 8.5
       },
       "Tipico": {
-        "Górnik Zabrze": 2.45,
-        "Raków Częstochowa": 2.6,
-        "Draw": 3.4
-      },
-      "Matchbook": {
-        "Górnik Zabrze": 2.74,
-        "Raków Częstochowa": 2.68,
-        "Draw": 3.7
+        "Górnik Zabrze": 1.07,
+        "Raków Częstochowa": 90.0,
+        "Draw": 6.5
       }
     },
     "f558837a8c7643e75ae5fd48c57e9a3f:h2h": {
       "Pinnacle": {
-        "Mantova": 5.24,
-        "Palermo": 1.65,
-        "Draw": 4.07
+        "Mantova": 30.48,
+        "Palermo": 1.2,
+        "Draw": 5.3
       },
       "Betfair": {
-        "Mantova": 5.5,
-        "Palermo": 1.71,
-        "Draw": 4.1
+        "Mantova": 55.0,
+        "Palermo": 1.19,
+        "Draw": 6.4
       },
       "Unibet (NL)": {
-        "Mantova": 5.2,
-        "Palermo": 1.57,
-        "Draw": 4.0
+        "Mantova": 51.0,
+        "Palermo": 1.06,
+        "Draw": 7.5
       },
       "LeoVegas (SE)": {
-        "Mantova": 5.0,
-        "Palermo": 1.55,
-        "Draw": 3.85
+        "Mantova": 51.0,
+        "Palermo": 1.04,
+        "Draw": 7.0
       },
       "888sport": {
-        "Mantova": 4.8,
-        "Palermo": 1.61,
-        "Draw": 3.75
+        "Mantova": 41.0,
+        "Palermo": 1.12,
+        "Draw": 6.0
       },
       "Tipico": {
-        "Mantova": 5.2,
-        "Palermo": 1.55,
-        "Draw": 4.0
-      },
-      "Codere (IT)": {
-        "Mantova": 4.9,
-        "Palermo": 1.66,
-        "Draw": 3.95
+        "Mantova": 45.0,
+        "Palermo": 1.13,
+        "Draw": 5.5
       },
       "Unibet (SE)": {
-        "Mantova": 5.2,
-        "Palermo": 1.57,
-        "Draw": 4.0
-      },
-      "William Hill": {
-        "Mantova": 4.8,
-        "Palermo": 1.62,
-        "Draw": 3.75
+        "Mantova": 61.0,
+        "Palermo": 1.08,
+        "Draw": 7.5
       },
       "Winamax (DE)": {
-        "Mantova": 4.5,
-        "Palermo": 1.62,
-        "Draw": 3.95
+        "Mantova": 44.0,
+        "Palermo": 1.12,
+        "Draw": 5.9
       }
     },
     "bb1b295974cde3c09c22667cce74ceb6:h2h": {
-      "PMU (FR)": {
-        "Al-Khaleej": 3.9,
-        "Neom": 1.61,
-        "Draw": 3.45
-      },
-      "Unibet (SE)": {
-        "Al-Khaleej": 4.1,
-        "Neom": 1.7,
-        "Draw": 3.65
-      },
-      "Unibet (NL)": {
-        "Al-Khaleej": 4.1,
-        "Neom": 1.7,
-        "Draw": 3.65
-      },
-      "LeoVegas (SE)": {
-        "Al-Khaleej": 4.0,
-        "Neom": 1.66,
-        "Draw": 3.55
-      },
       "Betclic (FR)": {
-        "Al-Khaleej": 4.3,
-        "Neom": 1.68,
-        "Draw": 3.7
-      },
-      "Unibet (FR)": {
-        "Al-Khaleej": 4.3,
-        "Neom": 1.6,
-        "Draw": 3.65
-      },
-      "Pinnacle": {
-        "Al-Khaleej": 4.56,
-        "Neom": 1.72,
-        "Draw": 3.93
-      },
-      "Winamax (DE)": {
-        "Al-Khaleej": 4.3,
-        "Neom": 1.64,
-        "Draw": 3.85
-      },
-      "Winamax (FR)": {
-        "Al-Khaleej": 4.2,
-        "Neom": 1.62,
-        "Draw": 3.8
-      },
-      "888sport": {
-        "Al-Khaleej": 4.0,
-        "Neom": 1.67,
-        "Draw": 3.4
-      },
-      "William Hill": {
-        "Al-Khaleej": 4.0,
-        "Neom": 1.67,
-        "Draw": 3.4
-      },
-      "1xBet": {
-        "Al-Khaleej": 4.46,
-        "Neom": 1.71,
-        "Draw": 3.83
-      },
-      "Tipico": {
-        "Al-Khaleej": 4.7,
-        "Neom": 1.62,
-        "Draw": 3.9
+        "Al-Khaleej": 100.0,
+        "Neom": 1.0,
+        "Draw": 40.0
       },
       "Betfair": {
-        "Al-Khaleej": 4.9,
-        "Neom": 1.76,
-        "Draw": 4.1
+        "Al-Khaleej": 75.0,
+        "Neom": 1.01,
+        "Draw": 65.0
       }
     }
   },
@@ -4268,10 +4138,775 @@
       "confidence": 5,
       "alert_type": "value",
       "alerted_at": "2026-09-03T07:07:45.027694+00:00"
+    },
+    {
+      "state_key": "a61389a137fe3ce8813def2f077c2218:h2h",
+      "event_id": "a61389a137fe3ce8813def2f077c2218",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Fayha",
+      "away_team": "Al-Kholood",
+      "commence_time": "2026-09-03T15:55:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Fayha",
+      "odds_at_alert": 41.0,
+      "stake_pct": 5.0,
+      "confidence": 2932,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T17:48:51.747969+00:00"
+    },
+    {
+      "state_key": "a61389a137fe3ce8813def2f077c2218:h2h",
+      "event_id": "a61389a137fe3ce8813def2f077c2218",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Fayha",
+      "away_team": "Al-Kholood",
+      "commence_time": "2026-09-03T15:55:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Fayha",
+      "odds_at_alert": 10.5,
+      "stake_pct": 5.0,
+      "confidence": 676,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T17:48:52.117810+00:00"
+    },
+    {
+      "state_key": "a61389a137fe3ce8813def2f077c2218:h2h",
+      "event_id": "a61389a137fe3ce8813def2f077c2218",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Fayha",
+      "away_team": "Al-Kholood",
+      "commence_time": "2026-09-03T15:55:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Fayha",
+      "odds_at_alert": 19.0,
+      "stake_pct": 5.0,
+      "confidence": 1305,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T17:48:52.515086+00:00"
+    },
+    {
+      "state_key": "a61389a137fe3ce8813def2f077c2218:h2h",
+      "event_id": "a61389a137fe3ce8813def2f077c2218",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Fayha",
+      "away_team": "Al-Kholood",
+      "commence_time": "2026-09-03T15:55:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Fayha",
+      "odds_at_alert": 16.0,
+      "stake_pct": 5.0,
+      "confidence": 1083,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T17:48:52.908423+00:00"
+    },
+    {
+      "state_key": "a61389a137fe3ce8813def2f077c2218:h2h",
+      "event_id": "a61389a137fe3ce8813def2f077c2218",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Fayha",
+      "away_team": "Al-Kholood",
+      "commence_time": "2026-09-03T15:55:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Fayha",
+      "odds_at_alert": 15.25,
+      "stake_pct": 5.0,
+      "confidence": 1028,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T17:48:53.305328+00:00"
+    },
+    {
+      "state_key": "a61389a137fe3ce8813def2f077c2218:h2h",
+      "event_id": "a61389a137fe3ce8813def2f077c2218",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Fayha",
+      "away_team": "Al-Kholood",
+      "commence_time": "2026-09-03T15:55:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Fayha",
+      "odds_at_alert": 46.0,
+      "stake_pct": 5.0,
+      "confidence": 3301,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T17:48:53.711030+00:00"
+    },
+    {
+      "state_key": "a61389a137fe3ce8813def2f077c2218:h2h",
+      "event_id": "a61389a137fe3ce8813def2f077c2218",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Fayha",
+      "away_team": "Al-Kholood",
+      "commence_time": "2026-09-03T15:55:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Kholood",
+      "odds_at_alert": 34.0,
+      "stake_pct": 5.0,
+      "confidence": 50,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T17:48:54.097338+00:00"
+    },
+    {
+      "state_key": "a61389a137fe3ce8813def2f077c2218:h2h",
+      "event_id": "a61389a137fe3ce8813def2f077c2218",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Fayha",
+      "away_team": "Al-Kholood",
+      "commence_time": "2026-09-03T15:55:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Fayha",
+      "odds_at_alert": 46.0,
+      "stake_pct": 5.0,
+      "confidence": 3301,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T17:48:54.467070+00:00"
+    },
+    {
+      "state_key": "a61389a137fe3ce8813def2f077c2218:h2h",
+      "event_id": "a61389a137fe3ce8813def2f077c2218",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Fayha",
+      "away_team": "Al-Kholood",
+      "commence_time": "2026-09-03T15:55:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Kholood",
+      "odds_at_alert": 34.0,
+      "stake_pct": 5.0,
+      "confidence": 50,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T17:48:54.896111+00:00"
+    },
+    {
+      "state_key": "a61389a137fe3ce8813def2f077c2218:h2h",
+      "event_id": "a61389a137fe3ce8813def2f077c2218",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Fayha",
+      "away_team": "Al-Kholood",
+      "commence_time": "2026-09-03T15:55:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Fayha",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 861,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T17:48:55.283562+00:00"
+    },
+    {
+      "state_key": "a61389a137fe3ce8813def2f077c2218:h2h",
+      "event_id": "a61389a137fe3ce8813def2f077c2218",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Fayha",
+      "away_team": "Al-Kholood",
+      "commence_time": "2026-09-03T15:55:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Fayha",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 1823,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T17:48:55.746902+00:00"
+    },
+    {
+      "state_key": "5ed3dbd0824241449fcaf358295555c9:h2h",
+      "event_id": "5ed3dbd0824241449fcaf358295555c9",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Raków Częstochowa",
+      "away_team": "Górnik Zabrze",
+      "commence_time": "2026-09-03T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Raków Częstochowa",
+      "odds_at_alert": 51.0,
+      "stake_pct": 5.0,
+      "confidence": 87,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T17:48:56.126173+00:00"
+    },
+    {
+      "state_key": "5ed3dbd0824241449fcaf358295555c9:h2h",
+      "event_id": "5ed3dbd0824241449fcaf358295555c9",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Raków Częstochowa",
+      "away_team": "Górnik Zabrze",
+      "commence_time": "2026-09-03T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.75,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T17:48:56.525973+00:00"
+    },
+    {
+      "state_key": "5ed3dbd0824241449fcaf358295555c9:h2h",
+      "event_id": "5ed3dbd0824241449fcaf358295555c9",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Raków Częstochowa",
+      "away_team": "Górnik Zabrze",
+      "commence_time": "2026-09-03T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Raków Częstochowa",
+      "odds_at_alert": 67.0,
+      "stake_pct": 5.0,
+      "confidence": 146,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T17:48:56.888613+00:00"
+    },
+    {
+      "state_key": "5ed3dbd0824241449fcaf358295555c9:h2h",
+      "event_id": "5ed3dbd0824241449fcaf358295555c9",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Raków Częstochowa",
+      "away_team": "Górnik Zabrze",
+      "commence_time": "2026-09-03T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.25,
+      "stake_pct": 5.0,
+      "confidence": 16,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T17:48:57.285796+00:00"
+    },
+    {
+      "state_key": "5ed3dbd0824241449fcaf358295555c9:h2h",
+      "event_id": "5ed3dbd0824241449fcaf358295555c9",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Raków Częstochowa",
+      "away_team": "Górnik Zabrze",
+      "commence_time": "2026-09-03T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Raków Częstochowa",
+      "odds_at_alert": 51.0,
+      "stake_pct": 5.0,
+      "confidence": 87,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T17:48:57.726568+00:00"
+    },
+    {
+      "state_key": "5ed3dbd0824241449fcaf358295555c9:h2h",
+      "event_id": "5ed3dbd0824241449fcaf358295555c9",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Raków Częstochowa",
+      "away_team": "Górnik Zabrze",
+      "commence_time": "2026-09-03T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.1,
+      "stake_pct": 3.0,
+      "confidence": 14,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T17:48:58.101496+00:00"
+    },
+    {
+      "state_key": "5ed3dbd0824241449fcaf358295555c9:h2h",
+      "event_id": "5ed3dbd0824241449fcaf358295555c9",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Raków Częstochowa",
+      "away_team": "Górnik Zabrze",
+      "commence_time": "2026-09-03T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Raków Częstochowa",
+      "odds_at_alert": 40.0,
+      "stake_pct": 5.0,
+      "confidence": 47,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T17:48:58.484258+00:00"
+    },
+    {
+      "state_key": "5ed3dbd0824241449fcaf358295555c9:h2h",
+      "event_id": "5ed3dbd0824241449fcaf358295555c9",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Raków Częstochowa",
+      "away_team": "Górnik Zabrze",
+      "commence_time": "2026-09-03T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.9,
+      "stake_pct": 2.0,
+      "confidence": 10,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T17:48:58.853417+00:00"
+    },
+    {
+      "state_key": "5ed3dbd0824241449fcaf358295555c9:h2h",
+      "event_id": "5ed3dbd0824241449fcaf358295555c9",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Raków Częstochowa",
+      "away_team": "Górnik Zabrze",
+      "commence_time": "2026-09-03T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Raków Częstochowa",
+      "odds_at_alert": 67.0,
+      "stake_pct": 5.0,
+      "confidence": 146,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T17:48:59.225702+00:00"
+    },
+    {
+      "state_key": "5ed3dbd0824241449fcaf358295555c9:h2h",
+      "event_id": "5ed3dbd0824241449fcaf358295555c9",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Raków Częstochowa",
+      "away_team": "Górnik Zabrze",
+      "commence_time": "2026-09-03T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.25,
+      "stake_pct": 5.0,
+      "confidence": 16,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T17:48:59.687574+00:00"
+    },
+    {
+      "state_key": "5ed3dbd0824241449fcaf358295555c9:h2h",
+      "event_id": "5ed3dbd0824241449fcaf358295555c9",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Raków Częstochowa",
+      "away_team": "Górnik Zabrze",
+      "commence_time": "2026-09-03T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Raków Częstochowa",
+      "odds_at_alert": 75.0,
+      "stake_pct": 5.0,
+      "confidence": 176,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T17:49:00.077443+00:00"
+    },
+    {
+      "state_key": "5ed3dbd0824241449fcaf358295555c9:h2h",
+      "event_id": "5ed3dbd0824241449fcaf358295555c9",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Raków Częstochowa",
+      "away_team": "Górnik Zabrze",
+      "commence_time": "2026-09-03T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 7.5,
+      "stake_pct": 5.0,
+      "confidence": 40,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T17:49:00.456884+00:00"
+    },
+    {
+      "state_key": "5ed3dbd0824241449fcaf358295555c9:h2h",
+      "event_id": "5ed3dbd0824241449fcaf358295555c9",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Raków Częstochowa",
+      "away_team": "Górnik Zabrze",
+      "commence_time": "2026-09-03T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Raków Częstochowa",
+      "odds_at_alert": 65.0,
+      "stake_pct": 5.0,
+      "confidence": 139,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T17:49:00.850071+00:00"
+    },
+    {
+      "state_key": "5ed3dbd0824241449fcaf358295555c9:h2h",
+      "event_id": "5ed3dbd0824241449fcaf358295555c9",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Raków Częstochowa",
+      "away_team": "Górnik Zabrze",
+      "commence_time": "2026-09-03T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.75,
+      "stake_pct": 5.0,
+      "confidence": 26,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T17:49:01.214407+00:00"
+    },
+    {
+      "state_key": "5ed3dbd0824241449fcaf358295555c9:h2h",
+      "event_id": "5ed3dbd0824241449fcaf358295555c9",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Raków Częstochowa",
+      "away_team": "Górnik Zabrze",
+      "commence_time": "2026-09-03T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Raków Częstochowa",
+      "odds_at_alert": 66.0,
+      "stake_pct": 5.0,
+      "confidence": 143,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T17:49:01.596138+00:00"
+    },
+    {
+      "state_key": "5ed3dbd0824241449fcaf358295555c9:h2h",
+      "event_id": "5ed3dbd0824241449fcaf358295555c9",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Raków Częstochowa",
+      "away_team": "Górnik Zabrze",
+      "commence_time": "2026-09-03T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 7.0,
+      "stake_pct": 5.0,
+      "confidence": 30,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T17:49:01.982377+00:00"
+    },
+    {
+      "state_key": "5ed3dbd0824241449fcaf358295555c9:h2h",
+      "event_id": "5ed3dbd0824241449fcaf358295555c9",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Raków Częstochowa",
+      "away_team": "Górnik Zabrze",
+      "commence_time": "2026-09-03T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Raków Częstochowa",
+      "odds_at_alert": 70.0,
+      "stake_pct": 5.0,
+      "confidence": 157,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T17:49:02.403713+00:00"
+    },
+    {
+      "state_key": "5ed3dbd0824241449fcaf358295555c9:h2h",
+      "event_id": "5ed3dbd0824241449fcaf358295555c9",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Raków Częstochowa",
+      "away_team": "Górnik Zabrze",
+      "commence_time": "2026-09-03T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 9.0,
+      "stake_pct": 5.0,
+      "confidence": 68,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T17:49:02.805686+00:00"
+    },
+    {
+      "state_key": "5ed3dbd0824241449fcaf358295555c9:h2h",
+      "event_id": "5ed3dbd0824241449fcaf358295555c9",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Raków Częstochowa",
+      "away_team": "Górnik Zabrze",
+      "commence_time": "2026-09-03T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Raków Częstochowa",
+      "odds_at_alert": 81.0,
+      "stake_pct": 5.0,
+      "confidence": 198,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T17:49:03.174733+00:00"
+    },
+    {
+      "state_key": "5ed3dbd0824241449fcaf358295555c9:h2h",
+      "event_id": "5ed3dbd0824241449fcaf358295555c9",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Raków Częstochowa",
+      "away_team": "Górnik Zabrze",
+      "commence_time": "2026-09-03T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 8.5,
+      "stake_pct": 5.0,
+      "confidence": 58,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T17:49:03.560537+00:00"
+    },
+    {
+      "state_key": "5ed3dbd0824241449fcaf358295555c9:h2h",
+      "event_id": "5ed3dbd0824241449fcaf358295555c9",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Raków Częstochowa",
+      "away_team": "Górnik Zabrze",
+      "commence_time": "2026-09-03T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Raków Częstochowa",
+      "odds_at_alert": 90.0,
+      "stake_pct": 5.0,
+      "confidence": 231,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T17:49:03.949061+00:00"
+    },
+    {
+      "state_key": "5ed3dbd0824241449fcaf358295555c9:h2h",
+      "event_id": "5ed3dbd0824241449fcaf358295555c9",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Raków Częstochowa",
+      "away_team": "Górnik Zabrze",
+      "commence_time": "2026-09-03T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.5,
+      "stake_pct": 5.0,
+      "confidence": 21,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T17:49:04.346536+00:00"
+    },
+    {
+      "state_key": "f558837a8c7643e75ae5fd48c57e9a3f:h2h",
+      "event_id": "f558837a8c7643e75ae5fd48c57e9a3f",
+      "sport_key": "soccer",
+      "competition": "Coppa Italia",
+      "home_team": "Palermo",
+      "away_team": "Mantova",
+      "commence_time": "2026-09-03T16:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.4,
+      "stake_pct": 3.0,
+      "confidence": 14,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T17:49:04.722999+00:00"
+    },
+    {
+      "state_key": "f558837a8c7643e75ae5fd48c57e9a3f:h2h",
+      "event_id": "f558837a8c7643e75ae5fd48c57e9a3f",
+      "sport_key": "soccer",
+      "competition": "Coppa Italia",
+      "home_team": "Palermo",
+      "away_team": "Mantova",
+      "commence_time": "2026-09-03T16:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Mantova",
+      "odds_at_alert": 51.0,
+      "stake_pct": 5.0,
+      "confidence": 59,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T17:49:05.089038+00:00"
+    },
+    {
+      "state_key": "f558837a8c7643e75ae5fd48c57e9a3f:h2h",
+      "event_id": "f558837a8c7643e75ae5fd48c57e9a3f",
+      "sport_key": "soccer",
+      "competition": "Coppa Italia",
+      "home_team": "Palermo",
+      "away_team": "Mantova",
+      "commence_time": "2026-09-03T16:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 7.5,
+      "stake_pct": 5.0,
+      "confidence": 34,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T17:49:05.476964+00:00"
+    },
+    {
+      "state_key": "f558837a8c7643e75ae5fd48c57e9a3f:h2h",
+      "event_id": "f558837a8c7643e75ae5fd48c57e9a3f",
+      "sport_key": "soccer",
+      "competition": "Coppa Italia",
+      "home_team": "Palermo",
+      "away_team": "Mantova",
+      "commence_time": "2026-09-03T16:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Mantova",
+      "odds_at_alert": 51.0,
+      "stake_pct": 5.0,
+      "confidence": 59,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T17:49:05.872050+00:00"
+    },
+    {
+      "state_key": "f558837a8c7643e75ae5fd48c57e9a3f:h2h",
+      "event_id": "f558837a8c7643e75ae5fd48c57e9a3f",
+      "sport_key": "soccer",
+      "competition": "Coppa Italia",
+      "home_team": "Palermo",
+      "away_team": "Mantova",
+      "commence_time": "2026-09-03T16:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 7.0,
+      "stake_pct": 5.0,
+      "confidence": 25,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T17:49:06.265232+00:00"
+    },
+    {
+      "state_key": "f558837a8c7643e75ae5fd48c57e9a3f:h2h",
+      "event_id": "f558837a8c7643e75ae5fd48c57e9a3f",
+      "sport_key": "soccer",
+      "competition": "Coppa Italia",
+      "home_team": "Palermo",
+      "away_team": "Mantova",
+      "commence_time": "2026-09-03T16:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Mantova",
+      "odds_at_alert": 41.0,
+      "stake_pct": 5.0,
+      "confidence": 28,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T17:49:06.640472+00:00"
+    },
+    {
+      "state_key": "f558837a8c7643e75ae5fd48c57e9a3f:h2h",
+      "event_id": "f558837a8c7643e75ae5fd48c57e9a3f",
+      "sport_key": "soccer",
+      "competition": "Coppa Italia",
+      "home_team": "Palermo",
+      "away_team": "Mantova",
+      "commence_time": "2026-09-03T16:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.0,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T17:49:07.073979+00:00"
+    },
+    {
+      "state_key": "f558837a8c7643e75ae5fd48c57e9a3f:h2h",
+      "event_id": "f558837a8c7643e75ae5fd48c57e9a3f",
+      "sport_key": "soccer",
+      "competition": "Coppa Italia",
+      "home_team": "Palermo",
+      "away_team": "Mantova",
+      "commence_time": "2026-09-03T16:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Mantova",
+      "odds_at_alert": 45.0,
+      "stake_pct": 5.0,
+      "confidence": 40,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T17:49:07.446196+00:00"
+    },
+    {
+      "state_key": "f558837a8c7643e75ae5fd48c57e9a3f:h2h",
+      "event_id": "f558837a8c7643e75ae5fd48c57e9a3f",
+      "sport_key": "soccer",
+      "competition": "Coppa Italia",
+      "home_team": "Palermo",
+      "away_team": "Mantova",
+      "commence_time": "2026-09-03T16:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Mantova",
+      "odds_at_alert": 61.0,
+      "stake_pct": 5.0,
+      "confidence": 90,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T17:49:07.813602+00:00"
+    },
+    {
+      "state_key": "f558837a8c7643e75ae5fd48c57e9a3f:h2h",
+      "event_id": "f558837a8c7643e75ae5fd48c57e9a3f",
+      "sport_key": "soccer",
+      "competition": "Coppa Italia",
+      "home_team": "Palermo",
+      "away_team": "Mantova",
+      "commence_time": "2026-09-03T16:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 7.5,
+      "stake_pct": 5.0,
+      "confidence": 34,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T17:49:08.215312+00:00"
+    },
+    {
+      "state_key": "f558837a8c7643e75ae5fd48c57e9a3f:h2h",
+      "event_id": "f558837a8c7643e75ae5fd48c57e9a3f",
+      "sport_key": "soccer",
+      "competition": "Coppa Italia",
+      "home_team": "Palermo",
+      "away_team": "Mantova",
+      "commence_time": "2026-09-03T16:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Mantova",
+      "odds_at_alert": 44.0,
+      "stake_pct": 5.0,
+      "confidence": 37,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T17:49:08.602561+00:00"
+    },
+    {
+      "state_key": "f558837a8c7643e75ae5fd48c57e9a3f:h2h",
+      "event_id": "f558837a8c7643e75ae5fd48c57e9a3f",
+      "sport_key": "soccer",
+      "competition": "Coppa Italia",
+      "home_team": "Palermo",
+      "away_team": "Mantova",
+      "commence_time": "2026-09-03T16:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.9,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T17:49:09.079528+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "f558837a8c7643e75ae5fd48c57e9a3f:h2h|Betfair|Mantova"
+    "5ed3dbd0824241449fcaf358295555c9:h2h|888sport|Draw",
+    "5ed3dbd0824241449fcaf358295555c9:h2h|888sport|Raków Częstochowa",
+    "5ed3dbd0824241449fcaf358295555c9:h2h|Betclic (FR)|Draw",
+    "5ed3dbd0824241449fcaf358295555c9:h2h|Betclic (FR)|Raków Częstochowa",
+    "5ed3dbd0824241449fcaf358295555c9:h2h|Betfair|Draw",
+    "5ed3dbd0824241449fcaf358295555c9:h2h|Betfair|Raków Częstochowa",
+    "5ed3dbd0824241449fcaf358295555c9:h2h|Coolbet|Draw",
+    "5ed3dbd0824241449fcaf358295555c9:h2h|Coolbet|Raków Częstochowa",
+    "5ed3dbd0824241449fcaf358295555c9:h2h|LeoVegas (SE)|Draw",
+    "5ed3dbd0824241449fcaf358295555c9:h2h|LeoVegas (SE)|Raków Częstochowa",
+    "5ed3dbd0824241449fcaf358295555c9:h2h|PMU (FR)|Draw",
+    "5ed3dbd0824241449fcaf358295555c9:h2h|PMU (FR)|Raków Częstochowa",
+    "5ed3dbd0824241449fcaf358295555c9:h2h|Tipico|Draw",
+    "5ed3dbd0824241449fcaf358295555c9:h2h|Tipico|Raków Częstochowa",
+    "5ed3dbd0824241449fcaf358295555c9:h2h|Unibet (NL)|Draw",
+    "5ed3dbd0824241449fcaf358295555c9:h2h|Unibet (NL)|Raków Częstochowa",
+    "5ed3dbd0824241449fcaf358295555c9:h2h|Unibet (SE)|Draw",
+    "5ed3dbd0824241449fcaf358295555c9:h2h|Unibet (SE)|Raków Częstochowa",
+    "5ed3dbd0824241449fcaf358295555c9:h2h|Winamax (DE)|Draw",
+    "5ed3dbd0824241449fcaf358295555c9:h2h|Winamax (DE)|Raków Częstochowa",
+    "5ed3dbd0824241449fcaf358295555c9:h2h|Winamax (FR)|Draw",
+    "5ed3dbd0824241449fcaf358295555c9:h2h|Winamax (FR)|Raków Częstochowa",
+    "a61389a137fe3ce8813def2f077c2218:h2h|888sport|Al-Fayha",
+    "a61389a137fe3ce8813def2f077c2218:h2h|Betclic (FR)|Al-Fayha",
+    "a61389a137fe3ce8813def2f077c2218:h2h|Betfair|Al-Fayha",
+    "a61389a137fe3ce8813def2f077c2218:h2h|LeoVegas (SE)|Al-Fayha",
+    "a61389a137fe3ce8813def2f077c2218:h2h|PMU (FR)|Al-Fayha",
+    "a61389a137fe3ce8813def2f077c2218:h2h|Unibet (NL)|Al-Fayha",
+    "a61389a137fe3ce8813def2f077c2218:h2h|Unibet (SE)|Al-Fayha",
+    "a61389a137fe3ce8813def2f077c2218:h2h|Winamax (DE)|Al-Fayha",
+    "a61389a137fe3ce8813def2f077c2218:h2h|Winamax (DE)|Al-Kholood",
+    "a61389a137fe3ce8813def2f077c2218:h2h|Winamax (FR)|Al-Fayha",
+    "a61389a137fe3ce8813def2f077c2218:h2h|Winamax (FR)|Al-Kholood",
+    "f558837a8c7643e75ae5fd48c57e9a3f:h2h|888sport|Draw",
+    "f558837a8c7643e75ae5fd48c57e9a3f:h2h|888sport|Mantova",
+    "f558837a8c7643e75ae5fd48c57e9a3f:h2h|Betfair|Draw",
+    "f558837a8c7643e75ae5fd48c57e9a3f:h2h|Betfair|Mantova",
+    "f558837a8c7643e75ae5fd48c57e9a3f:h2h|LeoVegas (SE)|Draw",
+    "f558837a8c7643e75ae5fd48c57e9a3f:h2h|LeoVegas (SE)|Mantova",
+    "f558837a8c7643e75ae5fd48c57e9a3f:h2h|Tipico|Mantova",
+    "f558837a8c7643e75ae5fd48c57e9a3f:h2h|Unibet (NL)|Draw",
+    "f558837a8c7643e75ae5fd48c57e9a3f:h2h|Unibet (NL)|Mantova",
+    "f558837a8c7643e75ae5fd48c57e9a3f:h2h|Unibet (SE)|Draw",
+    "f558837a8c7643e75ae5fd48c57e9a3f:h2h|Unibet (SE)|Mantova",
+    "f558837a8c7643e75ae5fd48c57e9a3f:h2h|Winamax (DE)|Draw",
+    "f558837a8c7643e75ae5fd48c57e9a3f:h2h|Winamax (DE)|Mantova"
   ]
 }
