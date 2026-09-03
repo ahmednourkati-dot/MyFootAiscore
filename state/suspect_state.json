@@ -1,246 +1,301 @@
 {
   "snapshots": {
-    "3a7fc5cdbede23be6359e60fd8b4d7bf:h2h": {
-      "Nordic Bet": {
-        "Coquimbo Unido": 1.03,
-        "Universidad de Concepción": 150.0,
-        "Draw": 17.0
-      },
-      "Betsson": {
-        "Coquimbo Unido": 1.03,
-        "Universidad de Concepción": 150.0,
-        "Draw": 17.0
-      },
-      "Winamax (DE)": {
-        "Coquimbo Unido": 1.01,
-        "Universidad de Concepción": 600.0,
-        "Draw": 23.0
-      },
-      "Coolbet": {
-        "Coquimbo Unido": 1.0,
-        "Universidad de Concepción": 250.0,
-        "Draw": 28.0
-      },
-      "Winamax (FR)": {
-        "Coquimbo Unido": 1.02,
-        "Universidad de Concepción": 900.0,
-        "Draw": 21.0
-      },
-      "Pinnacle": {
-        "Coquimbo Unido": 3.36,
-        "Universidad de Concepción": 9.97,
-        "Draw": 1.5
-      },
-      "Betfair": {
-        "Coquimbo Unido": 1.01,
-        "Universidad de Concepción": 15.5,
-        "Draw": 50.0
-      }
-    },
-    "5d3859b4b30d7547d655d77b8b72857e:h2h": {
-      "888sport": {
-        "Flamengo": 1.0,
-        "Mirassol": 151.0,
-        "Draw": 61.0
-      },
-      "Coolbet": {
-        "Flamengo": 1.0,
-        "Mirassol": 50.0,
-        "Draw": 18.0
-      },
-      "Betclic (FR)": {
-        "Flamengo": 1.0,
-        "Mirassol": 90.0,
-        "Draw": 27.0
-      },
-      "Betsson": {
-        "Flamengo": 1.0,
-        "Mirassol": 51.0,
-        "Draw": 19.0
-      },
-      "Nordic Bet": {
-        "Flamengo": 1.0,
-        "Mirassol": 51.0,
-        "Draw": 19.0
-      },
-      "Betfair": {
-        "Flamengo": 1.01,
-        "Mirassol": 220.0,
-        "Draw": 55.0
-      }
-    },
-    "f4573469cd925642518578fe00026198:h2h": {
-      "Codere (IT)": {
-        "Deportes Limache": 2.9,
-        "Ñublense": 2.21,
-        "Draw": 3.4
-      },
-      "Winamax (FR)": {
-        "Deportes Limache": 2.7,
-        "Ñublense": 2.15,
-        "Draw": 3.4
-      },
-      "Unibet (FR)": {
-        "Deportes Limache": 2.75,
-        "Ñublense": 2.15,
-        "Draw": 3.3
-      },
-      "Coolbet": {
-        "Deportes Limache": 2.95,
-        "Ñublense": 2.35,
-        "Draw": 3.6
-      },
-      "Winamax (DE)": {
-        "Deportes Limache": 2.75,
-        "Ñublense": 2.2,
-        "Draw": 3.5
-      },
-      "BetOnline.ag": {
-        "Deportes Limache": 2.8,
-        "Ñublense": 2.32,
-        "Draw": 3.7
-      },
-      "GTbets": {
-        "Deportes Limache": 2.89,
-        "Ñublense": 2.32,
-        "Draw": 3.49
-      },
-      "Betsson": {
-        "Deportes Limache": 2.85,
-        "Ñublense": 2.32,
-        "Draw": 3.4
-      },
-      "Nordic Bet": {
-        "Deportes Limache": 2.85,
-        "Ñublense": 2.32,
-        "Draw": 3.4
-      },
-      "1xBet": {
-        "Deportes Limache": 2.75,
-        "Ñublense": 2.22,
-        "Draw": 3.5
-      },
-      "Marathon Bet": {
-        "Deportes Limache": 2.77,
-        "Ñublense": 2.31,
-        "Draw": 3.5
-      },
-      "888sport": {
-        "Deportes Limache": 2.62,
-        "Ñublense": 2.25,
-        "Draw": 3.4
-      },
-      "Betfair": {
-        "Deportes Limache": 2.96,
-        "Ñublense": 2.46,
-        "Draw": 3.7
-      },
-      "Pinnacle": {
-        "Deportes Limache": 3.05,
-        "Ñublense": 2.29,
-        "Draw": 3.65
-      },
-      "Tipico": {
-        "Deportes Limache": 2.85,
-        "Ñublense": 2.2,
-        "Draw": 3.3
-      },
-      "BetAnything": {
-        "Deportes Limache": 2.8,
-        "Ñublense": 2.32,
-        "Draw": 3.7
-      },
-      "Matchbook": {
-        "Deportes Limache": 2.96,
-        "Ñublense": 2.46,
-        "Draw": 3.75
-      },
-      "LeoVegas (SE)": {
-        "Deportes Limache": 2.7,
-        "Ñublense": 2.45,
-        "Draw": 3.4
-      },
+    "a61389a137fe3ce8813def2f077c2218:h2h": {
       "Unibet (SE)": {
-        "Deportes Limache": 2.7,
-        "Ñublense": 2.45,
-        "Draw": 3.4
-      }
-    },
-    "5302cf05a47e389e623f7b5f195144fe:h2h": {
-      "Winamax (DE)": {
-        "León": 4.3,
-        "Toluca": 1.66,
-        "Draw": 3.85
-      },
-      "Winamax (FR)": {
-        "León": 4.2,
-        "Toluca": 1.64,
-        "Draw": 3.75
-      },
-      "1xBet": {
-        "León": 4.46,
-        "Toluca": 1.71,
-        "Draw": 3.88
-      },
-      "Nordic Bet": {
-        "León": 4.7,
-        "Toluca": 1.65,
-        "Draw": 3.7
-      },
-      "Betsson": {
-        "León": 4.7,
-        "Toluca": 1.65,
-        "Draw": 3.7
-      },
-      "LeoVegas (SE)": {
-        "León": 4.3,
-        "Toluca": 1.73,
-        "Draw": 3.9
+        "Al-Fayha": 2.7,
+        "Al-Kholood": 2.48,
+        "Draw": 3.05
       },
       "PMU (FR)": {
-        "León": 4.3,
-        "Toluca": 1.73,
-        "Draw": 3.9
+        "Al-Fayha": 2.55,
+        "Al-Kholood": 2.33,
+        "Draw": 2.85
       },
       "Unibet (NL)": {
-        "León": 4.3,
-        "Toluca": 1.73,
-        "Draw": 3.9
+        "Al-Fayha": 2.7,
+        "Al-Kholood": 2.48,
+        "Draw": 3.05
       },
-      "Unibet (SE)": {
-        "León": 4.3,
-        "Toluca": 1.73,
-        "Draw": 3.9
+      "LeoVegas (SE)": {
+        "Al-Fayha": 2.65,
+        "Al-Kholood": 2.43,
+        "Draw": 2.95
       },
-      "Coolbet": {
-        "León": 4.3,
-        "Toluca": 1.75,
-        "Draw": 4.0
+      "Unibet (FR)": {
+        "Al-Fayha": 2.8,
+        "Al-Kholood": 2.2,
+        "Draw": 3.15
       },
-      "888sport": {
-        "León": 4.0,
-        "Toluca": 1.67,
-        "Draw": 3.5
-      },
-      "William Hill": {
-        "León": 4.0,
-        "Toluca": 1.67,
-        "Draw": 3.5
-      },
-      "Betfair": {
-        "León": 4.9,
-        "Toluca": 1.76,
-        "Draw": 4.1
+      "Betclic (FR)": {
+        "Al-Fayha": 2.98,
+        "Al-Kholood": 2.3,
+        "Draw": 3.2
       },
       "Pinnacle": {
-        "León": 4.78,
-        "Toluca": 1.7,
-        "Draw": 4.05
+        "Al-Fayha": 3.1,
+        "Al-Kholood": 2.37,
+        "Draw": 3.28
+      },
+      "Tipico": {
+        "Al-Fayha": 3.1,
+        "Al-Kholood": 2.25,
+        "Draw": 3.1
+      },
+      "Winamax (DE)": {
+        "Al-Fayha": 2.8,
+        "Al-Kholood": 2.3,
+        "Draw": 3.25
+      },
+      "Winamax (FR)": {
+        "Al-Fayha": 2.75,
+        "Al-Kholood": 2.25,
+        "Draw": 3.2
+      },
+      "William Hill": {
+        "Al-Fayha": 2.8,
+        "Al-Kholood": 2.3,
+        "Draw": 2.9
+      },
+      "888sport": {
+        "Al-Fayha": 2.8,
+        "Al-Kholood": 2.3,
+        "Draw": 2.9
+      },
+      "1xBet": {
+        "Al-Fayha": 3.0,
+        "Al-Kholood": 2.37,
+        "Draw": 3.19
+      },
+      "Betfair": {
+        "Al-Fayha": 3.2,
+        "Al-Kholood": 2.42,
+        "Draw": 3.3
+      }
+    },
+    "5ed3dbd0824241449fcaf358295555c9:h2h": {
+      "PMU (FR)": {
+        "Górnik Zabrze": 2.75,
+        "Raków Częstochowa": 2.23,
+        "Draw": 3.2
+      },
+      "Unibet (NL)": {
+        "Górnik Zabrze": 2.9,
+        "Raków Częstochowa": 2.33,
+        "Draw": 3.4
+      },
+      "LeoVegas (SE)": {
+        "Górnik Zabrze": 2.75,
+        "Raków Częstochowa": 2.23,
+        "Draw": 3.2
+      },
+      "Betclic (FR)": {
+        "Górnik Zabrze": 2.6,
+        "Raków Częstochowa": 2.38,
+        "Draw": 3.25
+      },
+      "Unibet (FR)": {
+        "Górnik Zabrze": 2.7,
+        "Raków Częstochowa": 2.3,
+        "Draw": 3.2
+      },
+      "Unibet (SE)": {
+        "Górnik Zabrze": 2.9,
+        "Raków Częstochowa": 2.33,
+        "Draw": 3.4
+      },
+      "Betsson": {
+        "Górnik Zabrze": 2.75,
+        "Raków Częstochowa": 2.38,
+        "Draw": 3.25
+      },
+      "Nordic Bet": {
+        "Górnik Zabrze": 2.75,
+        "Raków Częstochowa": 2.38,
+        "Draw": 3.25
+      },
+      "1xBet": {
+        "Górnik Zabrze": 2.74,
+        "Raków Częstochowa": 2.39,
+        "Draw": 3.38
+      },
+      "Winamax (DE)": {
+        "Górnik Zabrze": 2.65,
+        "Raków Częstochowa": 2.35,
+        "Draw": 3.35
+      },
+      "Winamax (FR)": {
+        "Górnik Zabrze": 2.6,
+        "Raków Częstochowa": 2.3,
+        "Draw": 3.3
+      },
+      "Codere (IT)": {
+        "Górnik Zabrze": 2.75,
+        "Raków Częstochowa": 2.38,
+        "Draw": 3.3
+      },
+      "Coolbet": {
+        "Górnik Zabrze": 2.9,
+        "Raków Częstochowa": 2.35,
+        "Draw": 3.6
       },
       "BetOnline.ag": {
-        "León": 4.75,
-        "Toluca": 1.69,
-        "Draw": 4.05
+        "Górnik Zabrze": 2.82,
+        "Raków Częstochowa": 2.38,
+        "Draw": 3.45
+      },
+      "Pinnacle": {
+        "Górnik Zabrze": 2.83,
+        "Raków Częstochowa": 2.47,
+        "Draw": 3.56
+      },
+      "Betfair": {
+        "Górnik Zabrze": 2.88,
+        "Raków Częstochowa": 2.56,
+        "Draw": 3.55
+      },
+      "Marathon Bet": {
+        "Górnik Zabrze": 2.73,
+        "Raków Częstochowa": 2.4,
+        "Draw": 3.38
+      },
+      "888sport": {
+        "Górnik Zabrze": 2.7,
+        "Raków Częstochowa": 2.38,
+        "Draw": 3.3
+      },
+      "Tipico": {
+        "Górnik Zabrze": 2.6,
+        "Raków Częstochowa": 2.45,
+        "Draw": 3.4
+      },
+      "Matchbook": {
+        "Górnik Zabrze": 2.88,
+        "Raków Częstochowa": 2.58,
+        "Draw": 3.6
+      }
+    },
+    "f558837a8c7643e75ae5fd48c57e9a3f:h2h": {
+      "Pinnacle": {
+        "Mantova": 5.27,
+        "Palermo": 1.63,
+        "Draw": 4.14
+      },
+      "Betfair": {
+        "Mantova": 5.8,
+        "Palermo": 1.66,
+        "Draw": 4.2
+      },
+      "Unibet (NL)": {
+        "Mantova": 5.0,
+        "Palermo": 1.63,
+        "Draw": 3.9
+      },
+      "LeoVegas (SE)": {
+        "Mantova": 4.8,
+        "Palermo": 1.57,
+        "Draw": 3.7
+      },
+      "888sport": {
+        "Mantova": 4.8,
+        "Palermo": 1.61,
+        "Draw": 3.75
+      },
+      "Tipico": {
+        "Mantova": 5.2,
+        "Palermo": 1.55,
+        "Draw": 4.0
+      },
+      "Codere (IT)": {
+        "Mantova": 5.0,
+        "Palermo": 1.63,
+        "Draw": 4.0
+      },
+      "Unibet (SE)": {
+        "Mantova": 5.0,
+        "Palermo": 1.63,
+        "Draw": 3.9
+      },
+      "William Hill": {
+        "Mantova": 4.8,
+        "Palermo": 1.62,
+        "Draw": 3.75
+      },
+      "Winamax (DE)": {
+        "Mantova": 4.6,
+        "Palermo": 1.58,
+        "Draw": 4.0
+      }
+    },
+    "bb1b295974cde3c09c22667cce74ceb6:h2h": {
+      "PMU (FR)": {
+        "Al-Khaleej": 3.75,
+        "Neom": 1.65,
+        "Draw": 3.4
+      },
+      "Unibet (SE)": {
+        "Al-Khaleej": 3.95,
+        "Neom": 1.74,
+        "Draw": 3.6
+      },
+      "Unibet (NL)": {
+        "Al-Khaleej": 3.95,
+        "Neom": 1.74,
+        "Draw": 3.6
+      },
+      "LeoVegas (SE)": {
+        "Al-Khaleej": 3.85,
+        "Neom": 1.7,
+        "Draw": 3.5
+      },
+      "Betclic (FR)": {
+        "Al-Khaleej": 4.9,
+        "Neom": 1.59,
+        "Draw": 4.0
+      },
+      "Unibet (FR)": {
+        "Al-Khaleej": 4.5,
+        "Neom": 1.58,
+        "Draw": 3.65
+      },
+      "Pinnacle": {
+        "Al-Khaleej": 4.8,
+        "Neom": 1.66,
+        "Draw": 4.09
+      },
+      "Winamax (DE)": {
+        "Al-Khaleej": 4.4,
+        "Neom": 1.64,
+        "Draw": 3.8
+      },
+      "Winamax (FR)": {
+        "Al-Khaleej": 4.3,
+        "Neom": 1.62,
+        "Draw": 3.75
+      },
+      "888sport": {
+        "Al-Khaleej": 4.33,
+        "Neom": 1.61,
+        "Draw": 3.6
+      },
+      "William Hill": {
+        "Al-Khaleej": 4.33,
+        "Neom": 1.62,
+        "Draw": 3.6
+      },
+      "1xBet": {
+        "Al-Khaleej": 4.71,
+        "Neom": 1.66,
+        "Draw": 3.92
+      },
+      "Tipico": {
+        "Al-Khaleej": 5.0,
+        "Neom": 1.57,
+        "Draw": 4.0
+      },
+      "Betfair": {
+        "Al-Khaleej": 5.2,
+        "Neom": 1.71,
+        "Draw": 4.1
       }
     }
   },
@@ -4197,21 +4252,26 @@
       "confidence": 3031,
       "alert_type": "value",
       "alerted_at": "2026-09-03T00:08:35.616492+00:00"
+    },
+    {
+      "state_key": "f558837a8c7643e75ae5fd48c57e9a3f:h2h",
+      "event_id": "f558837a8c7643e75ae5fd48c57e9a3f",
+      "sport_key": "soccer",
+      "competition": "Coppa Italia",
+      "home_team": "Palermo",
+      "away_team": "Mantova",
+      "commence_time": "2026-09-03T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Mantova",
+      "odds_at_alert": 5.8,
+      "stake_pct": 2.0,
+      "confidence": 5,
+      "alert_type": "value",
+      "alerted_at": "2026-09-03T07:07:45.027694+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "3a7fc5cdbede23be6359e60fd8b4d7bf:h2h|Betfair|Draw",
-    "3a7fc5cdbede23be6359e60fd8b4d7bf:h2h|Betfair|Universidad de Concepción",
-    "3a7fc5cdbede23be6359e60fd8b4d7bf:h2h|Betsson|Draw",
-    "3a7fc5cdbede23be6359e60fd8b4d7bf:h2h|Betsson|Universidad de Concepción",
-    "3a7fc5cdbede23be6359e60fd8b4d7bf:h2h|Coolbet|Draw",
-    "3a7fc5cdbede23be6359e60fd8b4d7bf:h2h|Coolbet|Universidad de Concepción",
-    "3a7fc5cdbede23be6359e60fd8b4d7bf:h2h|Nordic Bet|Draw",
-    "3a7fc5cdbede23be6359e60fd8b4d7bf:h2h|Nordic Bet|Universidad de Concepción",
-    "3a7fc5cdbede23be6359e60fd8b4d7bf:h2h|Winamax (DE)|Draw",
-    "3a7fc5cdbede23be6359e60fd8b4d7bf:h2h|Winamax (DE)|Universidad de Concepción",
-    "3a7fc5cdbede23be6359e60fd8b4d7bf:h2h|Winamax (FR)|Draw",
-    "3a7fc5cdbede23be6359e60fd8b4d7bf:h2h|Winamax (FR)|Universidad de Concepción"
+    "f558837a8c7643e75ae5fd48c57e9a3f:h2h|Betfair|Mantova"
   ]
 }
