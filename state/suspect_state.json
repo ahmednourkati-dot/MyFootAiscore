@@ -1,52 +1,5 @@
 {
   "snapshots": {
-    "df5b056656f007cfa49c3bf50dd41223:h2h": {
-      "Unibet (NL)": {
-        "Botafogo-SP": 4.0,
-        "Nautico PE": 2.38,
-        "Draw": 2.28
-      },
-      "Unibet (SE)": {
-        "Botafogo-SP": 4.0,
-        "Nautico PE": 2.38,
-        "Draw": 2.28
-      },
-      "LeoVegas (SE)": {
-        "Botafogo-SP": 3.8,
-        "Nautico PE": 2.23,
-        "Draw": 2.14
-      },
-      "Coolbet": {
-        "Botafogo-SP": 4.0,
-        "Nautico PE": 2.6,
-        "Draw": 2.2
-      },
-      "Nordic Bet": {
-        "Botafogo-SP": 3.9,
-        "Nautico PE": 2.6,
-        "Draw": 2.2
-      },
-      "Betsson": {
-        "Botafogo-SP": 3.9,
-        "Nautico PE": 2.6,
-        "Draw": 2.2
-      },
-      "Pinnacle": {
-        "Botafogo-SP": 3.99,
-        "Nautico PE": 2.74,
-        "Draw": 2.22
-      },
-      "Matchbook": {
-        "Botafogo-SP": 4.2,
-        "Nautico PE": 2.84,
-        "Draw": 2.4
-      },
-      "Betfair": {
-        "Botafogo-SP": 4.2,
-        "Nautico PE": 2.84,
-        "Draw": 2.4
-      }
-    },
     "c1ada54cbb7fe22fcee9a1a8ac899070:h2h": {
       "LeoVegas (SE)": {
         "Abha Club": 2.7,
@@ -74,9 +27,9 @@
         "Draw": 3.4
       },
       "Betclic (FR)": {
-        "Abha Club": 2.87,
-        "Al-Ettifaq": 2.15,
-        "Draw": 3.48
+        "Abha Club": 2.9,
+        "Al-Ettifaq": 2.22,
+        "Draw": 3.53
       },
       "Winamax (DE)": {
         "Abha Club": 2.75,
@@ -89,24 +42,24 @@
         "Draw": 3.45
       },
       "1xBet": {
-        "Abha Club": 2.91,
-        "Al-Ettifaq": 2.29,
-        "Draw": 3.47
+        "Abha Club": 2.9,
+        "Al-Ettifaq": 2.27,
+        "Draw": 3.51
       },
       "Pinnacle": {
         "Abha Club": 2.91,
         "Al-Ettifaq": 2.3,
-        "Draw": 3.61
+        "Draw": 3.68
       },
       "Betfair": {
-        "Abha Club": 2.96,
-        "Al-Ettifaq": 2.28,
-        "Draw": 3.55
+        "Abha Club": 3.05,
+        "Al-Ettifaq": 2.32,
+        "Draw": 3.7
       },
       "Tipico": {
         "Abha Club": 2.95,
-        "Al-Ettifaq": 2.25,
-        "Draw": 3.3
+        "Al-Ettifaq": 2.15,
+        "Draw": 3.5
       },
       "888sport": {
         "Abha Club": 2.75,
@@ -181,8 +134,8 @@
         "Draw": 3.58
       },
       "888sport": {
-        "Arminia Bielefeld": 2.2,
-        "FC St. Pauli": 2.9,
+        "Arminia Bielefeld": 2.25,
+        "FC St. Pauli": 2.8,
         "Draw": 3.4
       },
       "Suprabets": {
@@ -191,8 +144,8 @@
         "Draw": 3.55
       },
       "William Hill": {
-        "Arminia Bielefeld": 2.2,
-        "FC St. Pauli": 2.9,
+        "Arminia Bielefeld": 2.25,
+        "FC St. Pauli": 2.8,
         "Draw": 3.4
       },
       "PMU (FR)": {
@@ -216,9 +169,9 @@
         "Draw": 3.35
       },
       "Pinnacle": {
-        "Arminia Bielefeld": 2.29,
-        "FC St. Pauli": 3.01,
-        "Draw": 3.73
+        "Arminia Bielefeld": 2.33,
+        "FC St. Pauli": 2.96,
+        "Draw": 3.7
       },
       "BetOnline.ag": {
         "Arminia Bielefeld": 2.3,
@@ -233,9 +186,9 @@
     },
     "1e7134eeecca09e111569d25aa501979:h2h": {
       "Tipico": {
-        "Bayer Leverkusen": 1.83,
-        "TSG Hoffenheim": 3.5,
-        "Draw": 3.6
+        "Bayer Leverkusen": 1.77,
+        "TSG Hoffenheim": 4.0,
+        "Draw": 3.4
       },
       "1xBet": {
         "Bayer Leverkusen": 1.84,
@@ -243,8 +196,8 @@
         "Draw": 3.56
       },
       "William Hill": {
-        "Bayer Leverkusen": 1.83,
-        "TSG Hoffenheim": 3.5,
+        "Bayer Leverkusen": 1.85,
+        "TSG Hoffenheim": 3.4,
         "Draw": 3.4
       },
       "Pinnacle": {
@@ -253,9 +206,121 @@
         "Draw": 3.8
       },
       "888sport": {
-        "Bayer Leverkusen": 1.83,
-        "TSG Hoffenheim": 3.5,
+        "Bayer Leverkusen": 1.85,
+        "TSG Hoffenheim": 3.4,
         "Draw": 3.4
+      }
+    },
+    "b82e6d3e1dede77828d50d97d39981cb:h2h": {
+      "Pinnacle": {
+        "Hannover 96": 1.68,
+        "Karlsruher SC": 5.05,
+        "Draw": 4.03
+      },
+      "Tipico": {
+        "Hannover 96": 1.62,
+        "Karlsruher SC": 4.6,
+        "Draw": 4.4
+      },
+      "Unibet (FR)": {
+        "Hannover 96": 1.58,
+        "Karlsruher SC": 4.15,
+        "Draw": 3.75
+      },
+      "Nordic Bet": {
+        "Hannover 96": 1.6,
+        "Karlsruher SC": 4.3,
+        "Draw": 4.15
+      },
+      "Betsson": {
+        "Hannover 96": 1.6,
+        "Karlsruher SC": 4.3,
+        "Draw": 4.15
+      },
+      "Betclic (FR)": {
+        "Hannover 96": 1.63,
+        "Karlsruher SC": 4.35,
+        "Draw": 3.93
+      },
+      "Codere (IT)": {
+        "Hannover 96": 1.68,
+        "Karlsruher SC": 4.5,
+        "Draw": 4.1
+      },
+      "1xBet": {
+        "Hannover 96": 1.67,
+        "Karlsruher SC": 4.7,
+        "Draw": 3.92
+      },
+      "Marathon Bet": {
+        "Hannover 96": 1.6,
+        "Karlsruher SC": 5.0,
+        "Draw": 4.05
+      },
+      "Coolbet": {
+        "Hannover 96": 1.66,
+        "Karlsruher SC": 4.9,
+        "Draw": 4.1
+      },
+      "Winamax (DE)": {
+        "Hannover 96": 1.62,
+        "Karlsruher SC": 4.3,
+        "Draw": 4.5
+      },
+      "Winamax (FR)": {
+        "Hannover 96": 1.62,
+        "Karlsruher SC": 4.1,
+        "Draw": 3.95
+      },
+      "888sport": {
+        "Hannover 96": 1.61,
+        "Karlsruher SC": 4.6,
+        "Draw": 3.8
+      },
+      "William Hill": {
+        "Hannover 96": 1.62,
+        "Karlsruher SC": 4.6,
+        "Draw": 3.8
+      },
+      "Betfair": {
+        "Hannover 96": 1.66,
+        "Karlsruher SC": 5.3,
+        "Draw": 4.5
+      },
+      "Suprabets": {
+        "Hannover 96": 1.64,
+        "Karlsruher SC": 4.8,
+        "Draw": 3.82
+      },
+      "PMU (FR)": {
+        "Hannover 96": 1.5,
+        "Karlsruher SC": 4.7,
+        "Draw": 4.0
+      },
+      "Unibet (NL)": {
+        "Hannover 96": 1.57,
+        "Karlsruher SC": 5.0,
+        "Draw": 4.3
+      },
+      "Unibet (SE)": {
+        "Hannover 96": 1.57,
+        "Karlsruher SC": 5.0,
+        "Draw": 4.3
+      },
+      "LeoVegas (SE)": {
+        "Hannover 96": 1.53,
+        "Karlsruher SC": 4.75,
+        "Draw": 4.1
+      },
+      "BetOnline.ag": {
+        "Hannover 96": 1.66,
+        "Karlsruher SC": 4.85,
+        "Draw": 4.15
+      },
+      "Matchbook": {
+        "Hannover 96": 1.67,
+        "Karlsruher SC": 5.3,
+        "Draw": 4.5
       }
     }
   },
@@ -4548,8 +4613,60 @@
       "confidence": 188,
       "alert_type": "value",
       "alerted_at": "2026-09-03T20:57:09.325789+00:00"
+    },
+    {
+      "state_key": "b82e6d3e1dede77828d50d97d39981cb:h2h",
+      "event_id": "b82e6d3e1dede77828d50d97d39981cb",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "Hannover 96",
+      "away_team": "Karlsruher SC",
+      "commence_time": "2026-09-04T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.5,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-09-04T04:22:56.275412+00:00"
+    },
+    {
+      "state_key": "b82e6d3e1dede77828d50d97d39981cb:h2h",
+      "event_id": "b82e6d3e1dede77828d50d97d39981cb",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "Hannover 96",
+      "away_team": "Karlsruher SC",
+      "commence_time": "2026-09-04T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.5,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-09-04T04:22:56.706480+00:00"
+    },
+    {
+      "state_key": "b82e6d3e1dede77828d50d97d39981cb:h2h",
+      "event_id": "b82e6d3e1dede77828d50d97d39981cb",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "Hannover 96",
+      "away_team": "Karlsruher SC",
+      "commence_time": "2026-09-04T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.5,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-09-04T04:22:57.125873+00:00"
     }
   ],
   "results_history": [],
-  "value_alerted": []
+  "value_alerted": [
+    "b82e6d3e1dede77828d50d97d39981cb:h2h|Betfair|Draw",
+    "b82e6d3e1dede77828d50d97d39981cb:h2h|Matchbook|Draw",
+    "b82e6d3e1dede77828d50d97d39981cb:h2h|Winamax (DE)|Draw"
+  ]
 }
