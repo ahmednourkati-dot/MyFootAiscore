@@ -1,326 +1,67 @@
 {
   "snapshots": {
-    "c1ada54cbb7fe22fcee9a1a8ac899070:h2h": {
-      "LeoVegas (SE)": {
-        "Abha Club": 2.63,
-        "Al-Ettifaq": 2.2,
-        "Draw": 3.25
-      },
-      "Unibet (SE)": {
-        "Abha Club": 2.8,
-        "Al-Ettifaq": 2.32,
-        "Draw": 3.45
-      },
-      "PMU (FR)": {
-        "Abha Club": 2.5,
-        "Al-Ettifaq": 2.08,
-        "Draw": 3.05
-      },
-      "Unibet (NL)": {
-        "Abha Club": 2.65,
-        "Al-Ettifaq": 2.23,
-        "Draw": 3.3
-      },
+    "500e328fd3ebe7dc24caed3b0b0b0b09:h2h": {
       "Betclic (FR)": {
-        "Abha Club": 2.97,
-        "Al-Ettifaq": 2.07,
-        "Draw": 3.27
+        "Club Brugge": 1.0,
+        "Lommel SK": 110.0,
+        "Draw": 12.0
       },
       "Winamax (DE)": {
-        "Abha Club": 3.0,
-        "Al-Ettifaq": 2.1,
-        "Draw": 3.25
+        "Club Brugge": 1.02,
+        "Lommel SK": 600.0,
+        "Draw": 19.0
       },
       "Winamax (FR)": {
-        "Abha Club": 2.85,
-        "Al-Ettifaq": 2.0,
-        "Draw": 3.1
-      },
-      "Pinnacle": {
-        "Abha Club": 2.58,
-        "Al-Ettifaq": 2.54,
-        "Draw": 3.42
-      },
-      "Betfair": {
-        "Abha Club": 3.35,
-        "Al-Ettifaq": 2.28,
-        "Draw": 3.65
-      },
-      "Tipico": {
-        "Abha Club": 3.3,
-        "Al-Ettifaq": 2.0,
-        "Draw": 3.4
-      },
-      "888sport": {
-        "Abha Club": 2.88,
-        "Al-Ettifaq": 2.1,
-        "Draw": 3.0
-      }
-    },
-    "f43cf8b7c198fee138e957d8fb6d33a0:h2h": {
-      "Unibet (FR)": {
-        "Arminia Bielefeld": 2.1,
-        "FC St. Pauli": 2.65,
-        "Draw": 3.4
-      },
-      "Winamax (FR)": {
-        "Arminia Bielefeld": 2.25,
-        "FC St. Pauli": 2.6,
-        "Draw": 3.45
+        "Club Brugge": 1.03,
+        "Lommel SK": 600.0,
+        "Draw": 18.0
       },
       "Nordic Bet": {
-        "Arminia Bielefeld": 2.35,
-        "FC St. Pauli": 2.72,
-        "Draw": 3.4
-      },
-      "Tipico": {
-        "Arminia Bielefeld": 2.25,
-        "FC St. Pauli": 2.9,
-        "Draw": 3.7
-      },
-      "1xBet": {
-        "Arminia Bielefeld": 2.29,
-        "FC St. Pauli": 2.85,
-        "Draw": 3.58
-      },
-      "Coolbet": {
-        "Arminia Bielefeld": 2.3,
-        "FC St. Pauli": 2.85,
-        "Draw": 3.75
-      },
-      "Codere (IT)": {
-        "Arminia Bielefeld": 2.4,
-        "FC St. Pauli": 2.75,
-        "Draw": 3.55
+        "Club Brugge": 1.01,
+        "Lommel SK": 130.0,
+        "Draw": 13.0
       },
       "Betsson": {
-        "Arminia Bielefeld": 2.35,
-        "FC St. Pauli": 2.72,
-        "Draw": 3.4
-      },
-      "Winamax (DE)": {
-        "Arminia Bielefeld": 2.35,
-        "FC St. Pauli": 2.7,
-        "Draw": 3.65
-      },
-      "Betclic (FR)": {
-        "Arminia Bielefeld": 2.22,
-        "FC St. Pauli": 2.77,
-        "Draw": 3.45
-      },
-      "Betfair": {
-        "Arminia Bielefeld": 2.4,
-        "FC St. Pauli": 3.05,
-        "Draw": 3.8
-      },
-      "Marathon Bet": {
-        "Arminia Bielefeld": 2.27,
-        "FC St. Pauli": 2.84,
-        "Draw": 3.58
-      },
-      "888sport": {
-        "Arminia Bielefeld": 2.25,
-        "FC St. Pauli": 2.8,
-        "Draw": 3.4
+        "Club Brugge": 1.01,
+        "Lommel SK": 130.0,
+        "Draw": 13.0
       },
       "Suprabets": {
-        "Arminia Bielefeld": 2.24,
-        "FC St. Pauli": 2.82,
-        "Draw": 3.6
+        "Club Brugge": 1.03,
+        "Lommel SK": 140.0,
+        "Draw": 8.2
       },
-      "William Hill": {
-        "Arminia Bielefeld": 2.25,
-        "FC St. Pauli": 2.8,
-        "Draw": 3.4
-      },
-      "PMU (FR)": {
-        "Arminia Bielefeld": 2.17,
-        "FC St. Pauli": 2.7,
-        "Draw": 3.35
-      },
-      "Unibet (NL)": {
-        "Arminia Bielefeld": 2.28,
-        "FC St. Pauli": 2.88,
-        "Draw": 3.55
-      },
-      "Unibet (SE)": {
-        "Arminia Bielefeld": 2.28,
-        "FC St. Pauli": 2.88,
-        "Draw": 3.55
-      },
-      "LeoVegas (SE)": {
-        "Arminia Bielefeld": 2.2,
-        "FC St. Pauli": 2.75,
-        "Draw": 3.4
-      },
-      "Pinnacle": {
-        "Arminia Bielefeld": 2.32,
-        "FC St. Pauli": 2.97,
-        "Draw": 3.77
-      },
-      "BetOnline.ag": {
-        "Arminia Bielefeld": 2.28,
-        "FC St. Pauli": 2.93,
-        "Draw": 3.7
-      },
-      "Matchbook": {
-        "Arminia Bielefeld": 2.4,
-        "FC St. Pauli": 3.05,
-        "Draw": 3.8
-      }
-    },
-    "1e7134eeecca09e111569d25aa501979:h2h": {
-      "Tipico": {
-        "Bayer Leverkusen": 1.75,
-        "TSG Hoffenheim": 3.9,
-        "Draw": 3.6
-      },
-      "1xBet": {
-        "Bayer Leverkusen": 1.78,
-        "TSG Hoffenheim": 3.75,
-        "Draw": 3.66
-      },
-      "William Hill": {
-        "Bayer Leverkusen": 1.8,
-        "TSG Hoffenheim": 3.4,
-        "Draw": 3.5
-      },
-      "Pinnacle": {
-        "Bayer Leverkusen": 1.78,
-        "TSG Hoffenheim": 3.76,
-        "Draw": 3.99
+      "Coolbet": {
+        "Club Brugge": 1.01,
+        "Lommel SK": 300.0,
+        "Draw": 20.0
       },
       "888sport": {
-        "Bayer Leverkusen": 1.8,
-        "TSG Hoffenheim": 3.4,
-        "Draw": 3.5
+        "Club Brugge": 1.03,
+        "Lommel SK": 151.0,
+        "Draw": 15.0
       },
-      "Unibet (SE)": {
-        "Bayer Leverkusen": 1.78,
-        "TSG Hoffenheim": 3.55,
-        "Draw": 3.6
-      },
-      "LeoVegas (SE)": {
-        "Bayer Leverkusen": 1.78,
-        "TSG Hoffenheim": 3.55,
-        "Draw": 3.6
-      },
-      "Unibet (NL)": {
-        "Bayer Leverkusen": 1.78,
-        "TSG Hoffenheim": 3.55,
-        "Draw": 3.6
+      "Betfair": {
+        "Club Brugge": 1.02,
+        "Lommel SK": 110.0,
+        "Draw": 34.0
       }
     },
-    "b82e6d3e1dede77828d50d97d39981cb:h2h": {
-      "Pinnacle": {
-        "Hannover 96": 1.51,
-        "Karlsruher SC": 5.94,
-        "Draw": 4.84
+    "8acf5c039c4ab96357d35a665883705a:h2h": {
+      "Betclic (FR)": {
+        "Como": 1.0,
+        "Genoa": 100.0,
+        "Draw": 75.0
       },
-      "Tipico": {
-        "Hannover 96": 1.47,
-        "Karlsruher SC": 5.7,
-        "Draw": 4.9
-      },
-      "Unibet (FR)": {
-        "Hannover 96": 1.43,
-        "Karlsruher SC": 4.7,
-        "Draw": 4.45
+      "Betsson": {
+        "Como": 1.0,
+        "Genoa": 34.0,
+        "Draw": 29.0
       },
       "Nordic Bet": {
-        "Hannover 96": 1.46,
-        "Karlsruher SC": 5.1,
-        "Draw": 4.7
-      },
-      "Betsson": {
-        "Hannover 96": 1.46,
-        "Karlsruher SC": 5.1,
-        "Draw": 4.7
-      },
-      "Betclic (FR)": {
-        "Hannover 96": 1.45,
-        "Karlsruher SC": 5.0,
-        "Draw": 4.75
-      },
-      "Codere (IT)": {
-        "Hannover 96": 1.49,
-        "Karlsruher SC": 5.2,
-        "Draw": 5.0
-      },
-      "1xBet": {
-        "Hannover 96": 1.48,
-        "Karlsruher SC": 5.75,
-        "Draw": 4.6
-      },
-      "Marathon Bet": {
-        "Hannover 96": 1.47,
-        "Karlsruher SC": 5.75,
-        "Draw": 4.6
-      },
-      "Coolbet": {
-        "Hannover 96": 1.57,
-        "Karlsruher SC": 5.25,
-        "Draw": 4.45
-      },
-      "Winamax (DE)": {
-        "Hannover 96": 1.48,
-        "Karlsruher SC": 5.0,
-        "Draw": 5.2
-      },
-      "Winamax (FR)": {
-        "Hannover 96": 1.44,
-        "Karlsruher SC": 4.7,
-        "Draw": 4.8
-      },
-      "888sport": {
-        "Hannover 96": 1.44,
-        "Karlsruher SC": 5.5,
-        "Draw": 4.4
-      },
-      "William Hill": {
-        "Hannover 96": 1.44,
-        "Karlsruher SC": 5.5,
-        "Draw": 4.4
-      },
-      "Betfair": {
-        "Hannover 96": 1.55,
-        "Karlsruher SC": 6.0,
-        "Draw": 5.1
-      },
-      "Suprabets": {
-        "Hannover 96": 1.48,
-        "Karlsruher SC": 5.5,
-        "Draw": 4.5
-      },
-      "PMU (FR)": {
-        "Hannover 96": 1.42,
-        "Karlsruher SC": 4.9,
-        "Draw": 4.6
-      },
-      "Unibet (NL)": {
-        "Hannover 96": 1.49,
-        "Karlsruher SC": 5.4,
-        "Draw": 4.9
-      },
-      "Unibet (SE)": {
-        "Hannover 96": 1.49,
-        "Karlsruher SC": 5.4,
-        "Draw": 4.9
-      },
-      "LeoVegas (SE)": {
-        "Hannover 96": 1.43,
-        "Karlsruher SC": 5.0,
-        "Draw": 4.6
-      },
-      "BetOnline.ag": {
-        "Hannover 96": 1.52,
-        "Karlsruher SC": 5.65,
-        "Draw": 4.6
-      },
-      "Matchbook": {
-        "Hannover 96": 1.55,
-        "Karlsruher SC": 6.0,
-        "Draw": 5.1
+        "Como": 1.0,
+        "Genoa": 34.0,
+        "Draw": 29.0
       }
     }
   },
@@ -4728,13 +4469,5 @@
     }
   ],
   "results_history": [],
-  "value_alerted": [
-    "b82e6d3e1dede77828d50d97d39981cb:h2h|Betfair|Draw",
-    "b82e6d3e1dede77828d50d97d39981cb:h2h|Matchbook|Draw",
-    "b82e6d3e1dede77828d50d97d39981cb:h2h|Winamax (DE)|Draw",
-    "c1ada54cbb7fe22fcee9a1a8ac899070:h2h|Betclic (FR)|Abha Club",
-    "c1ada54cbb7fe22fcee9a1a8ac899070:h2h|Betfair|Abha Club",
-    "c1ada54cbb7fe22fcee9a1a8ac899070:h2h|Tipico|Abha Club",
-    "c1ada54cbb7fe22fcee9a1a8ac899070:h2h|Winamax (DE)|Abha Club"
-  ]
+  "value_alerted": []
 }
