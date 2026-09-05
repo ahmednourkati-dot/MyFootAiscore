@@ -1,134 +1,15 @@
 {
   "snapshots": {
-    "53bd06938771974ffa6dedd4ead10eff:h2h": {
-      "Unibet (NL)": {
-        "BK Hacken": 20.0,
-        "GAIS": 34.0,
-        "Draw": 1.02
-      },
-      "Unibet (SE)": {
-        "BK Hacken": 21.0,
-        "GAIS": 17.0,
-        "Draw": 1.03
-      },
-      "LeoVegas (SE)": {
-        "BK Hacken": 12.5,
-        "GAIS": 18.0,
-        "Draw": 1.05
-      },
-      "Betclic (FR)": {
-        "BK Hacken": 35.0,
-        "GAIS": 30.0,
+    "7fbe7f90170d86be17e7d42fe10ad8a1:h2h": {
+      "Betsson": {
+        "FC Lausanne-Sport": 1.0,
+        "FC Vaduz": 1.0,
         "Draw": 1.0
       },
-      "Winamax (FR)": {
-        "BK Hacken": 32.0,
-        "GAIS": 28.0,
-        "Draw": 1.03
-      },
-      "Winamax (DE)": {
-        "BK Hacken": 22.0,
-        "GAIS": 20.0,
-        "Draw": 1.03
-      },
-      "Betsson": {
-        "BK Hacken": 19.0,
-        "GAIS": 17.0,
-        "Draw": 1.04
-      },
       "Nordic Bet": {
-        "BK Hacken": 17.0,
-        "GAIS": 15.0,
-        "Draw": 1.05
-      },
-      "Betfair": {
-        "BK Hacken": 1.01,
-        "GAIS": 1.01,
-        "Draw": 1.01
-      },
-      "Pinnacle": {
-        "BK Hacken": 4.86,
-        "GAIS": 4.42,
-        "Draw": 1.57
-      }
-    },
-    "a4b345274faaebea3a412af1601c2971:h2h": {
-      "Nordic Bet": {
-        "Falkenbergs FF": 126.0,
-        "IK Oddevold": 1.0,
-        "Draw": 15.0
-      },
-      "Tipico": {
-        "Falkenbergs FF": 250.0,
-        "IK Oddevold": 1.01,
-        "Draw": 15.0
-      },
-      "Betfair": {
-        "Falkenbergs FF": 6.0,
-        "IK Oddevold": 1.03,
-        "Draw": 12.0
-      },
-      "Pinnacle": {
-        "Falkenbergs FF": 26.71,
-        "IK Oddevold": 1.2,
-        "Draw": 5.22
-      },
-      "Coolbet": {
-        "Falkenbergs FF": 200.0,
-        "IK Oddevold": 1.01,
-        "Draw": 13.0
-      }
-    },
-    "cf4132fe69a1fb7d83fe0b38ae612076:h2h": {
-      "Betclic (FR)": {
-        "Fiorentina": 95.0,
-        "Torino": 1.04,
-        "Draw": 10.25
-      },
-      "Winamax (DE)": {
-        "Fiorentina": 450.0,
-        "Torino": 1.04,
-        "Draw": 13.0
-      },
-      "Winamax (FR)": {
-        "Fiorentina": 800.0,
-        "Torino": 1.04,
-        "Draw": 15.0
-      },
-      "Betfair": {
-        "Fiorentina": 1000.0,
-        "Torino": 1.05,
-        "Draw": 17.5
-      },
-      "888sport": {
-        "Fiorentina": 101.0,
-        "Torino": 1.05,
-        "Draw": 11.0
-      },
-      "Tipico": {
-        "Fiorentina": 400.0,
-        "Torino": 1.01,
-        "Draw": 20.0
-      },
-      "LeoVegas (SE)": {
-        "Fiorentina": 121.0,
-        "Torino": 1.01,
-        "Draw": 13.0
-      },
-      "Nordic Bet": {
-        "Fiorentina": 250.0,
-        "Torino": 1.02,
-        "Draw": 13.0
-      },
-      "Betsson": {
-        "Fiorentina": 180.0,
-        "Torino": 1.02,
-        "Draw": 12.0
-      },
-      "Coolbet": {
-        "Fiorentina": 1000.0,
-        "Torino": 1.02,
-        "Draw": 16.75
+        "FC Lausanne-Sport": 1.0,
+        "FC Vaduz": 1.0,
+        "Draw": 1.0
       }
     }
   },
@@ -5080,29 +4961,5 @@
     }
   ],
   "results_history": [],
-  "value_alerted": [
-    "53bd06938771974ffa6dedd4ead10eff:h2h|Betclic (FR)|BK Hacken",
-    "53bd06938771974ffa6dedd4ead10eff:h2h|Betclic (FR)|GAIS",
-    "53bd06938771974ffa6dedd4ead10eff:h2h|Betsson|BK Hacken",
-    "53bd06938771974ffa6dedd4ead10eff:h2h|Betsson|GAIS",
-    "53bd06938771974ffa6dedd4ead10eff:h2h|LeoVegas (SE)|BK Hacken",
-    "53bd06938771974ffa6dedd4ead10eff:h2h|LeoVegas (SE)|GAIS",
-    "53bd06938771974ffa6dedd4ead10eff:h2h|Nordic Bet|BK Hacken",
-    "53bd06938771974ffa6dedd4ead10eff:h2h|Nordic Bet|GAIS",
-    "53bd06938771974ffa6dedd4ead10eff:h2h|Unibet (NL)|BK Hacken",
-    "53bd06938771974ffa6dedd4ead10eff:h2h|Unibet (NL)|GAIS",
-    "53bd06938771974ffa6dedd4ead10eff:h2h|Unibet (SE)|BK Hacken",
-    "53bd06938771974ffa6dedd4ead10eff:h2h|Unibet (SE)|GAIS",
-    "53bd06938771974ffa6dedd4ead10eff:h2h|Winamax (DE)|BK Hacken",
-    "53bd06938771974ffa6dedd4ead10eff:h2h|Winamax (DE)|GAIS",
-    "53bd06938771974ffa6dedd4ead10eff:h2h|Winamax (FR)|BK Hacken",
-    "53bd06938771974ffa6dedd4ead10eff:h2h|Winamax (FR)|GAIS",
-    "a4b345274faaebea3a412af1601c2971:h2h|Betfair|Draw",
-    "a4b345274faaebea3a412af1601c2971:h2h|Coolbet|Draw",
-    "a4b345274faaebea3a412af1601c2971:h2h|Coolbet|Falkenbergs FF",
-    "a4b345274faaebea3a412af1601c2971:h2h|Nordic Bet|Draw",
-    "a4b345274faaebea3a412af1601c2971:h2h|Nordic Bet|Falkenbergs FF",
-    "a4b345274faaebea3a412af1601c2971:h2h|Tipico|Draw",
-    "a4b345274faaebea3a412af1601c2971:h2h|Tipico|Falkenbergs FF"
-  ]
+  "value_alerted": []
 }
