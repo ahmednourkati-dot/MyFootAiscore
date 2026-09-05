@@ -1,186 +1,371 @@
 {
   "snapshots": {
-    "20b5f6e3dcd0e3c8fca558f958a8dcee:h2h": {
+    "2b53929c0d773331fc2b759f9c1eb1cf:h2h": {
       "Unibet (SE)": {
-        "Atlético Huracán": 56.0,
-        "Belgrano de Cordoba": 19.0,
-        "Draw": 1.02
+        "FC Juárez": 14.0,
+        "Pachuca": 1.26,
+        "Draw": 4.7
       },
-      "LeoVegas (SE)": {
-        "Atlético Huracán": 29.0,
-        "Belgrano de Cordoba": 9.5,
-        "Draw": 1.03
-      },
-      "Betsson": {
-        "Atlético Huracán": 26.0,
-        "Belgrano de Cordoba": 15.0,
-        "Draw": 1.03
-      },
-      "Nordic Bet": {
-        "Atlético Huracán": 23.0,
-        "Belgrano de Cordoba": 15.0,
-        "Draw": 1.04
-      },
-      "Winamax (DE)": {
-        "Atlético Huracán": 40.0,
-        "Belgrano de Cordoba": 25.0,
-        "Draw": 1.02
-      },
-      "Betclic (FR)": {
-        "Atlético Huracán": 13.0,
-        "Belgrano de Cordoba": 8.25,
-        "Draw": 1.1
-      },
-      "Winamax (FR)": {
-        "Atlético Huracán": 40.0,
-        "Belgrano de Cordoba": 25.0,
-        "Draw": 1.03
-      },
-      "Betfair": {
-        "Atlético Huracán": 4.9,
-        "Belgrano de Cordoba": 15.0,
-        "Draw": 1.1
-      }
-    },
-    "735d07f16a56481839a3656fab6b039e:h2h": {
-      "Unibet (SE)": {
-        "Deportivo Riestra": 35.0,
-        "Platense": 26.0,
-        "Draw": 1.02
-      },
-      "LeoVegas (SE)": {
-        "Deportivo Riestra": 14.0,
-        "Platense": 12.0,
-        "Draw": 1.03
-      },
-      "Betsson": {
-        "Deportivo Riestra": 16.0,
-        "Platense": 12.5,
-        "Draw": 1.04
-      },
-      "Nordic Bet": {
-        "Deportivo Riestra": 26.0,
-        "Platense": 19.0,
-        "Draw": 1.02
-      },
-      "Winamax (FR)": {
-        "Deportivo Riestra": 46.0,
-        "Platense": 36.0,
-        "Draw": 1.02
-      },
-      "Winamax (DE)": {
-        "Deportivo Riestra": 50.0,
-        "Platense": 40.0,
-        "Draw": 1.01
-      },
-      "Betclic (FR)": {
-        "Deportivo Riestra": 18.75,
-        "Platense": 15.75,
-        "Draw": 1.04
-      },
-      "Pinnacle": {
-        "Deportivo Riestra": 7.43,
-        "Platense": 6.53,
-        "Draw": 1.3
-      },
-      "Betfair": {
-        "Deportivo Riestra": 18.5,
-        "Platense": 26.0,
-        "Draw": 1.02
-      }
-    },
-    "460c367cdbdce0fb6917234330e5ec8d:h2h": {
-      "Unibet (SE)": {
-        "Criciuma": 1.01,
-        "Cuiabá": 131.0,
-        "Draw": 23.0
-      },
-      "Nordic Bet": {
-        "Criciuma": 1.02,
-        "Cuiabá": 80.0,
-        "Draw": 29.0
-      },
-      "Betsson": {
-        "Criciuma": 1.01,
-        "Cuiabá": 80.0,
-        "Draw": 29.0
-      },
-      "Coolbet": {
-        "Criciuma": 1.01,
-        "Cuiabá": 40.0,
-        "Draw": 14.0
-      },
-      "888sport": {
-        "Criciuma": 1.01,
-        "Cuiabá": 101.0,
-        "Draw": 23.0
-      },
-      "Matchbook": {
-        "Criciuma": 1.02,
-        "Cuiabá": 260.0,
-        "Draw": 36.0
-      },
-      "Betfair": {
-        "Criciuma": 1.03,
-        "Cuiabá": 190.0,
-        "Draw": 34.0
-      }
-    },
-    "804fc63b11016b2f5db6ad7e3bc1b428:h2h": {
-      "Unibet (SE)": {
-        "Athletic Club (MG)": 1.55,
-        "Vila Nova": 6.5,
-        "Draw": 3.55
-      },
-      "LeoVegas (SE)": {
-        "Athletic Club (MG)": 1.47,
-        "Vila Nova": 6.1,
-        "Draw": 3.35
+      "PMU (FR)": {
+        "FC Juárez": 12.5,
+        "Pachuca": 1.14,
+        "Draw": 4.2
       },
       "Unibet (NL)": {
-        "Athletic Club (MG)": 1.48,
-        "Vila Nova": 6.1,
-        "Draw": 3.4
+        "FC Juárez": 14.0,
+        "Pachuca": 1.27,
+        "Draw": 4.6
       },
-      "Coolbet": {
-        "Athletic Club (MG)": 1.44,
-        "Vila Nova": 7.0,
-        "Draw": 3.75
+      "LeoVegas (SE)": {
+        "FC Juárez": 13.0,
+        "Pachuca": 1.2,
+        "Draw": 4.4
+      },
+      "Betclic (FR)": {
+        "FC Juárez": 4.45,
+        "Pachuca": 2.18,
+        "Draw": 2.3
       },
       "Nordic Bet": {
-        "Athletic Club (MG)": 1.44,
-        "Vila Nova": 6.8,
+        "FC Juárez": 16.0,
+        "Pachuca": 1.2,
+        "Draw": 4.85
+      },
+      "Betsson": {
+        "FC Juárez": 16.0,
+        "Pachuca": 1.2,
+        "Draw": 4.85
+      },
+      "888sport": {
+        "FC Juárez": 13.0,
+        "Pachuca": 1.22,
+        "Draw": 4.4
+      },
+      "Pinnacle": {
+        "FC Juárez": 16.24,
+        "Pachuca": 1.27,
+        "Draw": 4.82
+      },
+      "Betfair": {
+        "FC Juárez": 17.5,
+        "Pachuca": 1.26,
+        "Draw": 5.0
+      },
+      "Matchbook": {
+        "FC Juárez": 17.5,
+        "Pachuca": 1.28,
+        "Draw": 5.5
+      },
+      "Tipico": {
+        "FC Juárez": 16.0,
+        "Pachuca": 1.18,
+        "Draw": 5.2
+      },
+      "Coolbet": {
+        "FC Juárez": 20.0,
+        "Pachuca": 1.25,
+        "Draw": 5.5
+      }
+    },
+    "7ccec28ed7bd8fb5d12888def80a18fd:h2h": {
+      "LeoVegas (SE)": {
+        "Avispa Fukuoka": 1.88,
+        "Mito HollyHock": 3.8,
+        "Draw": 3.45
+      },
+      "Unibet (NL)": {
+        "Avispa Fukuoka": 1.88,
+        "Mito HollyHock": 3.8,
+        "Draw": 3.45
+      },
+      "Unibet (SE)": {
+        "Avispa Fukuoka": 1.88,
+        "Mito HollyHock": 3.8,
+        "Draw": 3.45
+      },
+      "PMU (FR)": {
+        "Avispa Fukuoka": 1.85,
+        "Mito HollyHock": 3.75,
+        "Draw": 3.4
+      },
+      "Unibet (FR)": {
+        "Avispa Fukuoka": 1.91,
+        "Mito HollyHock": 3.6,
+        "Draw": 3.25
+      },
+      "Betclic (FR)": {
+        "Avispa Fukuoka": 1.97,
+        "Mito HollyHock": 3.65,
+        "Draw": 3.25
+      },
+      "Winamax (FR)": {
+        "Avispa Fukuoka": 1.94,
+        "Mito HollyHock": 3.4,
+        "Draw": 3.25
+      },
+      "Winamax (DE)": {
+        "Avispa Fukuoka": 1.98,
+        "Mito HollyHock": 3.5,
+        "Draw": 3.3
+      },
+      "Nordic Bet": {
+        "Avispa Fukuoka": 2.0,
+        "Mito HollyHock": 3.6,
+        "Draw": 3.2
+      },
+      "Betsson": {
+        "Avispa Fukuoka": 2.02,
+        "Mito HollyHock": 3.6,
+        "Draw": 3.2
+      },
+      "Coolbet": {
+        "Avispa Fukuoka": 2.02,
+        "Mito HollyHock": 3.75,
+        "Draw": 3.5
+      },
+      "BetOnline.ag": {
+        "Avispa Fukuoka": 2.08,
+        "Mito HollyHock": 3.65,
+        "Draw": 3.45
+      },
+      "Pinnacle": {
+        "Avispa Fukuoka": 2.09,
+        "Mito HollyHock": 3.68,
+        "Draw": 3.52
+      },
+      "1xBet": {
+        "Avispa Fukuoka": 2.08,
+        "Mito HollyHock": 3.65,
+        "Draw": 3.42
+      },
+      "Betfair": {
+        "Avispa Fukuoka": 2.12,
+        "Mito HollyHock": 3.8,
+        "Draw": 3.55
+      },
+      "Marathon Bet": {
+        "Avispa Fukuoka": 2.03,
+        "Mito HollyHock": 3.56,
+        "Draw": 3.34
+      },
+      "BetAnything": {
+        "Avispa Fukuoka": 2.08,
+        "Mito HollyHock": 3.65,
+        "Draw": 3.45
+      },
+      "Tipico": {
+        "Avispa Fukuoka": 2.05,
+        "Mito HollyHock": 3.3,
+        "Draw": 3.4
+      },
+      "Matchbook": {
+        "Avispa Fukuoka": 2.14,
+        "Mito HollyHock": 3.8,
+        "Draw": 3.55
+      },
+      "888sport": {
+        "Avispa Fukuoka": 1.91,
+        "Mito HollyHock": 3.9,
+        "Draw": 3.2
+      },
+      "William Hill": {
+        "Avispa Fukuoka": 1.91,
+        "Mito HollyHock": 3.9,
+        "Draw": 3.2
+      }
+    },
+    "200612a01adb33cc9e1200a607cbb073:h2h": {
+      "Unibet (SE)": {
+        "Bucheon FC 1995": 4.0,
+        "Daejeon Citizen": 1.76,
+        "Draw": 3.3
+      },
+      "PMU (FR)": {
+        "Bucheon FC 1995": 3.85,
+        "Daejeon Citizen": 1.7,
+        "Draw": 3.15
+      },
+      "LeoVegas (SE)": {
+        "Bucheon FC 1995": 3.95,
+        "Daejeon Citizen": 1.75,
+        "Draw": 3.3
+      },
+      "Unibet (NL)": {
+        "Bucheon FC 1995": 4.0,
+        "Daejeon Citizen": 1.76,
+        "Draw": 3.3
+      },
+      "Betclic (FR)": {
+        "Bucheon FC 1995": 3.8,
+        "Daejeon Citizen": 1.85,
+        "Draw": 3.37
+      },
+      "Unibet (FR)": {
+        "Bucheon FC 1995": 3.7,
+        "Daejeon Citizen": 1.8,
+        "Draw": 3.3
+      },
+      "BetOnline.ag": {
+        "Bucheon FC 1995": 4.1,
+        "Daejeon Citizen": 1.9,
         "Draw": 3.5
       },
       "Betsson": {
-        "Athletic Club (MG)": 1.44,
-        "Vila Nova": 6.8,
-        "Draw": 3.5
+        "Bucheon FC 1995": 3.8,
+        "Daejeon Citizen": 1.88,
+        "Draw": 3.3
+      },
+      "Nordic Bet": {
+        "Bucheon FC 1995": 3.8,
+        "Daejeon Citizen": 1.88,
+        "Draw": 3.3
       },
       "Pinnacle": {
-        "Athletic Club (MG)": 2.67,
-        "Vila Nova": 3.22,
-        "Draw": 2.63
+        "Bucheon FC 1995": 4.18,
+        "Daejeon Citizen": 1.92,
+        "Draw": 3.66
       },
-      "888sport": {
-        "Athletic Club (MG)": 1.53,
-        "Vila Nova": 6.0,
+      "Winamax (DE)": {
+        "Bucheon FC 1995": 3.7,
+        "Daejeon Citizen": 1.86,
+        "Draw": 3.45
+      },
+      "1xBet": {
+        "Bucheon FC 1995": 4.04,
+        "Daejeon Citizen": 1.88,
+        "Draw": 3.48
+      },
+      "Winamax (FR)": {
+        "Bucheon FC 1995": 3.6,
+        "Daejeon Citizen": 1.84,
         "Draw": 3.4
       },
       "Tipico": {
-        "Athletic Club (MG)": 1.5,
-        "Vila Nova": 5.5,
-        "Draw": 4.0
+        "Bucheon FC 1995": 3.9,
+        "Daejeon Citizen": 1.83,
+        "Draw": 3.5
       },
-      "Matchbook": {
-        "Athletic Club (MG)": 1.65,
-        "Vila Nova": 7.2,
-        "Draw": 3.8
+      "Marathon Bet": {
+        "Bucheon FC 1995": 4.05,
+        "Daejeon Citizen": 1.86,
+        "Draw": 3.48
+      },
+      "William Hill": {
+        "Bucheon FC 1995": 3.8,
+        "Daejeon Citizen": 1.85,
+        "Draw": 3.3
+      },
+      "Coolbet": {
+        "Bucheon FC 1995": 3.85,
+        "Daejeon Citizen": 1.93,
+        "Draw": 3.5
       },
       "Betfair": {
-        "Athletic Club (MG)": 1.66,
-        "Vila Nova": 7.2,
-        "Draw": 3.75
+        "Bucheon FC 1995": 4.4,
+        "Daejeon Citizen": 1.97,
+        "Draw": 3.65
+      },
+      "Matchbook": {
+        "Bucheon FC 1995": 4.4,
+        "Daejeon Citizen": 1.98,
+        "Draw": 3.7
+      }
+    },
+    "263009b2aec846f9ae97f6c1c4b7c6d8:h2h": {
+      "PMU (FR)": {
+        "FC Seoul": 1.8,
+        "Incheon United": 3.45,
+        "Draw": 3.1
+      },
+      "Unibet (NL)": {
+        "FC Seoul": 1.87,
+        "Incheon United": 3.6,
+        "Draw": 3.25
+      },
+      "Unibet (SE)": {
+        "FC Seoul": 1.87,
+        "Incheon United": 3.6,
+        "Draw": 3.25
+      },
+      "LeoVegas (SE)": {
+        "FC Seoul": 1.85,
+        "Incheon United": 3.6,
+        "Draw": 3.2
+      },
+      "BetOnline.ag": {
+        "FC Seoul": 1.89,
+        "Incheon United": 4.0,
+        "Draw": 3.6
+      },
+      "Betclic (FR)": {
+        "FC Seoul": 1.8,
+        "Incheon United": 3.98,
+        "Draw": 3.42
+      },
+      "Betsson": {
+        "FC Seoul": 1.82,
+        "Incheon United": 3.95,
+        "Draw": 3.35
+      },
+      "Unibet (FR)": {
+        "FC Seoul": 1.75,
+        "Incheon United": 3.85,
+        "Draw": 3.35
+      },
+      "Nordic Bet": {
+        "FC Seoul": 1.82,
+        "Incheon United": 3.95,
+        "Draw": 3.35
+      },
+      "Pinnacle": {
+        "FC Seoul": 1.87,
+        "Incheon United": 4.32,
+        "Draw": 3.7
+      },
+      "Winamax (DE)": {
+        "FC Seoul": 1.82,
+        "Incheon United": 3.85,
+        "Draw": 3.5
+      },
+      "1xBet": {
+        "FC Seoul": 1.87,
+        "Incheon United": 4.08,
+        "Draw": 3.5
+      },
+      "Winamax (FR)": {
+        "FC Seoul": 1.78,
+        "Incheon United": 3.75,
+        "Draw": 3.45
+      },
+      "Tipico": {
+        "FC Seoul": 1.77,
+        "Incheon United": 4.2,
+        "Draw": 3.5
+      },
+      "Marathon Bet": {
+        "FC Seoul": 1.85,
+        "Incheon United": 4.1,
+        "Draw": 3.5
+      },
+      "William Hill": {
+        "FC Seoul": 1.85,
+        "Incheon United": 3.9,
+        "Draw": 3.3
+      },
+      "Coolbet": {
+        "FC Seoul": 1.88,
+        "Incheon United": 4.0,
+        "Draw": 3.6
+      },
+      "Betfair": {
+        "FC Seoul": 1.92,
+        "Incheon United": 4.5,
+        "Draw": 3.7
+      },
+      "Matchbook": {
+        "FC Seoul": 1.91,
+        "Incheon United": 4.5,
+        "Draw": 3.7
       }
     }
   },
@@ -4553,45 +4738,77 @@
       "confidence": 34,
       "alert_type": "value",
       "alerted_at": "2026-09-04T23:59:16.643231+00:00"
+    },
+    {
+      "state_key": "2b53929c0d773331fc2b759f9c1eb1cf:h2h",
+      "event_id": "2b53929c0d773331fc2b759f9c1eb1cf",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "FC Juárez",
+      "away_team": "Pachuca",
+      "commence_time": "2026-09-05T03:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Pachuca",
+      "odds_at_alert": 2.18,
+      "stake_pct": 5.0,
+      "confidence": 62,
+      "alert_type": "value",
+      "alerted_at": "2026-09-05T04:18:32.168989+00:00"
+    },
+    {
+      "state_key": "2b53929c0d773331fc2b759f9c1eb1cf:h2h",
+      "event_id": "2b53929c0d773331fc2b759f9c1eb1cf",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "FC Juárez",
+      "away_team": "Pachuca",
+      "commence_time": "2026-09-05T03:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.5,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-09-05T04:18:32.575891+00:00"
+    },
+    {
+      "state_key": "2b53929c0d773331fc2b759f9c1eb1cf:h2h",
+      "event_id": "2b53929c0d773331fc2b759f9c1eb1cf",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "FC Juárez",
+      "away_team": "Pachuca",
+      "commence_time": "2026-09-05T03:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Juárez",
+      "odds_at_alert": 20.0,
+      "stake_pct": 5.0,
+      "confidence": 17,
+      "alert_type": "value",
+      "alerted_at": "2026-09-05T04:18:32.989655+00:00"
+    },
+    {
+      "state_key": "2b53929c0d773331fc2b759f9c1eb1cf:h2h",
+      "event_id": "2b53929c0d773331fc2b759f9c1eb1cf",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "FC Juárez",
+      "away_team": "Pachuca",
+      "commence_time": "2026-09-05T03:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.5,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-09-05T04:18:33.388348+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "735d07f16a56481839a3656fab6b039e:h2h|Betclic (FR)|Deportivo Riestra",
-    "735d07f16a56481839a3656fab6b039e:h2h|Betclic (FR)|Platense",
-    "735d07f16a56481839a3656fab6b039e:h2h|Betfair|Deportivo Riestra",
-    "735d07f16a56481839a3656fab6b039e:h2h|Betfair|Platense",
-    "735d07f16a56481839a3656fab6b039e:h2h|Betsson|Deportivo Riestra",
-    "735d07f16a56481839a3656fab6b039e:h2h|Betsson|Platense",
-    "735d07f16a56481839a3656fab6b039e:h2h|LeoVegas (SE)|Deportivo Riestra",
-    "735d07f16a56481839a3656fab6b039e:h2h|LeoVegas (SE)|Platense",
-    "735d07f16a56481839a3656fab6b039e:h2h|Nordic Bet|Deportivo Riestra",
-    "735d07f16a56481839a3656fab6b039e:h2h|Nordic Bet|Platense",
-    "735d07f16a56481839a3656fab6b039e:h2h|Unibet (SE)|Deportivo Riestra",
-    "735d07f16a56481839a3656fab6b039e:h2h|Unibet (SE)|Platense",
-    "735d07f16a56481839a3656fab6b039e:h2h|Winamax (DE)|Deportivo Riestra",
-    "735d07f16a56481839a3656fab6b039e:h2h|Winamax (DE)|Platense",
-    "735d07f16a56481839a3656fab6b039e:h2h|Winamax (FR)|Deportivo Riestra",
-    "735d07f16a56481839a3656fab6b039e:h2h|Winamax (FR)|Platense",
-    "804fc63b11016b2f5db6ad7e3bc1b428:h2h|888sport|Draw",
-    "804fc63b11016b2f5db6ad7e3bc1b428:h2h|888sport|Vila Nova",
-    "804fc63b11016b2f5db6ad7e3bc1b428:h2h|Betfair|Draw",
-    "804fc63b11016b2f5db6ad7e3bc1b428:h2h|Betfair|Vila Nova",
-    "804fc63b11016b2f5db6ad7e3bc1b428:h2h|Betsson|Draw",
-    "804fc63b11016b2f5db6ad7e3bc1b428:h2h|Betsson|Vila Nova",
-    "804fc63b11016b2f5db6ad7e3bc1b428:h2h|Coolbet|Draw",
-    "804fc63b11016b2f5db6ad7e3bc1b428:h2h|Coolbet|Vila Nova",
-    "804fc63b11016b2f5db6ad7e3bc1b428:h2h|LeoVegas (SE)|Draw",
-    "804fc63b11016b2f5db6ad7e3bc1b428:h2h|LeoVegas (SE)|Vila Nova",
-    "804fc63b11016b2f5db6ad7e3bc1b428:h2h|Matchbook|Draw",
-    "804fc63b11016b2f5db6ad7e3bc1b428:h2h|Matchbook|Vila Nova",
-    "804fc63b11016b2f5db6ad7e3bc1b428:h2h|Nordic Bet|Draw",
-    "804fc63b11016b2f5db6ad7e3bc1b428:h2h|Nordic Bet|Vila Nova",
-    "804fc63b11016b2f5db6ad7e3bc1b428:h2h|Tipico|Draw",
-    "804fc63b11016b2f5db6ad7e3bc1b428:h2h|Tipico|Vila Nova",
-    "804fc63b11016b2f5db6ad7e3bc1b428:h2h|Unibet (NL)|Draw",
-    "804fc63b11016b2f5db6ad7e3bc1b428:h2h|Unibet (NL)|Vila Nova",
-    "804fc63b11016b2f5db6ad7e3bc1b428:h2h|Unibet (SE)|Draw",
-    "804fc63b11016b2f5db6ad7e3bc1b428:h2h|Unibet (SE)|Vila Nova"
+    "2b53929c0d773331fc2b759f9c1eb1cf:h2h|Betclic (FR)|Pachuca",
+    "2b53929c0d773331fc2b759f9c1eb1cf:h2h|Coolbet|Draw",
+    "2b53929c0d773331fc2b759f9c1eb1cf:h2h|Coolbet|FC Juárez",
+    "2b53929c0d773331fc2b759f9c1eb1cf:h2h|Matchbook|Draw"
   ]
 }
