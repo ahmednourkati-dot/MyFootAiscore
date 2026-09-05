@@ -1,5 +1,85 @@
 {
-  "snapshots": {},
+  "snapshots": {
+    "daa6fa75b4b828d189fc5c13735bce21:h2h": {
+      "Winamax (FR)": {
+        "San Lorenzo": 1.03,
+        "Talleres": 450.0,
+        "Draw": 16.0
+      },
+      "Winamax (DE)": {
+        "San Lorenzo": 1.02,
+        "Talleres": 450.0,
+        "Draw": 17.0
+      },
+      "Betclic (FR)": {
+        "San Lorenzo": 1.01,
+        "Talleres": 85.0,
+        "Draw": 11.25
+      },
+      "Nordic Bet": {
+        "San Lorenzo": 1.02,
+        "Talleres": 130.0,
+        "Draw": 12.0
+      },
+      "Betsson": {
+        "San Lorenzo": 1.02,
+        "Talleres": 130.0,
+        "Draw": 12.0
+      },
+      "Unibet (SE)": {
+        "San Lorenzo": 1.03,
+        "Talleres": 151.0,
+        "Draw": 14.0
+      },
+      "Betfair": {
+        "San Lorenzo": 1.03,
+        "Talleres": 300.0,
+        "Draw": 17.5
+      }
+    },
+    "e35193db84b70808d5753f9d03a57953:h2h": {
+      "Unibet (SE)": {
+        "Atlético San Luis": 30.0,
+        "Guadalajara": 1.05,
+        "Draw": 12.0
+      },
+      "LeoVegas (SE)": {
+        "Atlético San Luis": 29.0,
+        "Guadalajara": 1.01,
+        "Draw": 11.0
+      },
+      "Unibet (NL)": {
+        "Atlético San Luis": 31.0,
+        "Guadalajara": 1.05,
+        "Draw": 12.0
+      },
+      "Nordic Bet": {
+        "Atlético San Luis": 29.0,
+        "Guadalajara": 1.05,
+        "Draw": 11.0
+      },
+      "Betsson": {
+        "Atlético San Luis": 34.0,
+        "Guadalajara": 1.04,
+        "Draw": 12.0
+      },
+      "888sport": {
+        "Atlético San Luis": 36.0,
+        "Guadalajara": 1.04,
+        "Draw": 11.0
+      },
+      "Coolbet": {
+        "Atlético San Luis": 50.0,
+        "Guadalajara": 1.05,
+        "Draw": 15.0
+      },
+      "Betfair": {
+        "Atlético San Luis": 44.0,
+        "Guadalajara": 1.08,
+        "Draw": 14.0
+      }
+    }
+  },
   "alerted": [],
   "pending_results": [
     {
