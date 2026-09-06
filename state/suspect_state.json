@@ -1,112 +1,149 @@
 {
   "snapshots": {
-    "5866122c8f843a48da441b82a2a5f8e1:h2h": {
-      "Coolbet": {
-        "Minnesota United FC": 50.0,
-        "Portland Timbers": 1.0,
-        "Draw": 18.0
-      },
-      "Winamax (FR)": {
-        "Minnesota United FC": 100.0,
-        "Portland Timbers": 1.02,
-        "Draw": 25.0
-      },
-      "888sport": {
-        "Minnesota United FC": 126.0,
-        "Portland Timbers": 1.01,
-        "Draw": 29.0
-      },
-      "Winamax (DE)": {
-        "Minnesota United FC": 110.0,
-        "Portland Timbers": 1.01,
-        "Draw": 26.0
-      },
-      "Betclic (FR)": {
-        "Minnesota United FC": 70.0,
-        "Portland Timbers": 1.0,
-        "Draw": 8.25
-      },
-      "MyBookie.ag": {
-        "Minnesota United FC": 82.0,
-        "Portland Timbers": 1.02,
-        "Draw": 11.25
-      },
-      "Betfair": {
-        "Minnesota United FC": 95.0,
-        "Portland Timbers": 1.03,
-        "Draw": 27.0
-      },
-      "Unibet (SE)": {
-        "Minnesota United FC": 181.0,
-        "Portland Timbers": 1.01,
-        "Draw": 26.0
-      },
-      "Betsson": {
-        "Minnesota United FC": 51.0,
-        "Portland Timbers": 1.0,
-        "Draw": 19.0
+    "a3b98ac31571ac64baf248347f64be8a:h2h": {
+      "Pinnacle": {
+        "Juve Stabia": 12.12,
+        "Pisa": 1.37,
+        "Draw": 4.13
       },
       "Nordic Bet": {
-        "Minnesota United FC": 51.0,
-        "Portland Timbers": 1.0,
-        "Draw": 19.0
-      }
-    },
-    "7fb26778bcbf01b9a8dba00d3d9d79f3:h2h": {
-      "Coolbet": {
-        "St. Louis City SC": 1.0,
-        "Vancouver Whitecaps FC": 66.0,
-        "Draw": 18.0
+        "Juve Stabia": 17.5,
+        "Pisa": 1.26,
+        "Draw": 4.4
       },
-      "Winamax (FR)": {
-        "St. Louis City SC": 1.03,
-        "Vancouver Whitecaps FC": 75.0,
-        "Draw": 19.0
+      "Coolbet": {
+        "Juve Stabia": 16.0,
+        "Pisa": 1.29,
+        "Draw": 4.33
       },
       "888sport": {
-        "St. Louis City SC": 1.02,
-        "Vancouver Whitecaps FC": 101.0,
-        "Draw": 21.0
-      },
-      "Winamax (DE)": {
-        "St. Louis City SC": 1.02,
-        "Vancouver Whitecaps FC": 75.0,
-        "Draw": 19.0
-      },
-      "Betclic (FR)": {
-        "St. Louis City SC": 1.03,
-        "Vancouver Whitecaps FC": 60.0,
-        "Draw": 8.25
-      },
-      "MyBookie.ag": {
-        "St. Louis City SC": 1.03,
-        "Vancouver Whitecaps FC": 68.0,
-        "Draw": 10.5
-      },
-      "Betfair": {
-        "St. Louis City SC": 1.02,
-        "Vancouver Whitecaps FC": 550.0,
-        "Draw": 26.0
-      },
-      "Unibet (SE)": {
-        "St. Louis City SC": 1.01,
-        "Vancouver Whitecaps FC": 161.0,
-        "Draw": 25.0
-      },
-      "Betsson": {
-        "St. Louis City SC": 1.0,
-        "Vancouver Whitecaps FC": 56.0,
-        "Draw": 17.0
-      },
-      "Nordic Bet": {
-        "St. Louis City SC": 1.0,
-        "Vancouver Whitecaps FC": 56.0,
-        "Draw": 17.0
+        "Juve Stabia": 71.0,
+        "Pisa": 1.03,
+        "Draw": 15.0
       },
       "Tipico": {
-        "St. Louis City SC": 1.01,
-        "Vancouver Whitecaps FC": 100.0,
-        "Draw": 11.0
+        "Juve Stabia": 80.0,
+        "Pisa": 1.02,
+        "Draw": 15.0
+      },
+      "Winamax (FR)": {
+        "Juve Stabia": 75.0,
+        "Pisa": 1.03,
+        "Draw": 17.0
+      },
+      "Betsson": {
+        "Juve Stabia": 17.5,
+        "Pisa": 1.26,
+        "Draw": 4.2
+      },
+      "Winamax (DE)": {
+        "Juve Stabia": 75.0,
+        "Pisa": 1.02,
+        "Draw": 18.0
+      },
+      "Betclic (FR)": {
+        "Juve Stabia": 45.0,
+        "Pisa": 1.02,
+        "Draw": 12.0
+      },
+      "Unibet (SE)": {
+        "Juve Stabia": 91.0,
+        "Pisa": 1.02,
+        "Draw": 17.0
+      },
+      "Betfair": {
+        "Juve Stabia": 1.02,
+        "Pisa": 1.02,
+        "Draw": 1.02
+      }
+    },
+    "72559dd3c8eb2ae348c8d13e784e25b0:h2h": {
+      "Betclic (FR)": {
+        "FSV Mainz 05": 1.0,
+        "Hamburger SV": 100.0,
+        "Draw": 75.0
+      },
+      "Betsson": {
+        "FSV Mainz 05": 1.0,
+        "Hamburger SV": 34.0,
+        "Draw": 29.0
+      },
+      "Nordic Bet": {
+        "FSV Mainz 05": 1.0,
+        "Hamburger SV": 34.0,
+        "Draw": 29.0
+      }
+    },
+    "936e4b829c2060dd4d5fe495408f6bc3:h2h": {
+      "Betclic (FR)": {
+        "Amed SK": 9.75,
+        "Kasimpasa SK": 1.38,
+        "Draw": 3.45
+      },
+      "Nordic Bet": {
+        "Amed SK": 11.5,
+        "Kasimpasa SK": 1.4,
+        "Draw": 3.65
+      },
+      "Coolbet": {
+        "Amed SK": 12.0,
+        "Kasimpasa SK": 1.44,
+        "Draw": 3.8
+      },
+      "Betsson": {
+        "Amed SK": 11.5,
+        "Kasimpasa SK": 1.4,
+        "Draw": 3.65
+      },
+      "Winamax (FR)": {
+        "Amed SK": 9.0,
+        "Kasimpasa SK": 1.39,
+        "Draw": 3.5
+      },
+      "Winamax (DE)": {
+        "Amed SK": 10.0,
+        "Kasimpasa SK": 1.39,
+        "Draw": 3.6
+      },
+      "888sport": {
+        "Amed SK": 9.0,
+        "Kasimpasa SK": 1.4,
+        "Draw": 3.5
+      },
+      "PMU (FR)": {
+        "Amed SK": 9.0,
+        "Kasimpasa SK": 1.36,
+        "Draw": 3.2
+      },
+      "LeoVegas (SE)": {
+        "Amed SK": 8.5,
+        "Kasimpasa SK": 1.35,
+        "Draw": 3.2
+      },
+      "Unibet (NL)": {
+        "Amed SK": 9.0,
+        "Kasimpasa SK": 1.43,
+        "Draw": 3.35
+      },
+      "Unibet (SE)": {
+        "Amed SK": 9.0,
+        "Kasimpasa SK": 1.43,
+        "Draw": 3.35
+      },
+      "Tipico": {
+        "Amed SK": 9.0,
+        "Kasimpasa SK": 1.4,
+        "Draw": 3.8
+      },
+      "Betfair": {
+        "Amed SK": 13.5,
+        "Kasimpasa SK": 1.48,
+        "Draw": 3.8
+      },
+      "Pinnacle": {
+        "Amed SK": 11.53,
+        "Kasimpasa SK": 1.43,
+        "Draw": 3.7
       }
     }
   },
@@ -4143,8 +4180,281 @@
       "confidence": 134,
       "alert_type": "value",
       "alerted_at": "2026-09-05T15:07:02.061513+00:00"
+    },
+    {
+      "state_key": "a3b98ac31571ac64baf248347f64be8a:h2h",
+      "event_id": "a3b98ac31571ac64baf248347f64be8a",
+      "sport_key": "soccer",
+      "competition": "Serie B - Italy",
+      "home_team": "Juve Stabia",
+      "away_team": "Pisa",
+      "commence_time": "2026-09-06T13:02:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Juve Stabia",
+      "odds_at_alert": 17.5,
+      "stake_pct": 5.0,
+      "confidence": 37,
+      "alert_type": "value",
+      "alerted_at": "2026-09-06T15:23:50.453984+00:00"
+    },
+    {
+      "state_key": "a3b98ac31571ac64baf248347f64be8a:h2h",
+      "event_id": "a3b98ac31571ac64baf248347f64be8a",
+      "sport_key": "soccer",
+      "competition": "Serie B - Italy",
+      "home_team": "Juve Stabia",
+      "away_team": "Pisa",
+      "commence_time": "2026-09-06T13:02:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Juve Stabia",
+      "odds_at_alert": 16.0,
+      "stake_pct": 5.0,
+      "confidence": 25,
+      "alert_type": "value",
+      "alerted_at": "2026-09-06T15:23:50.986968+00:00"
+    },
+    {
+      "state_key": "a3b98ac31571ac64baf248347f64be8a:h2h",
+      "event_id": "a3b98ac31571ac64baf248347f64be8a",
+      "sport_key": "soccer",
+      "competition": "Serie B - Italy",
+      "home_team": "Juve Stabia",
+      "away_team": "Pisa",
+      "commence_time": "2026-09-06T13:02:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Juve Stabia",
+      "odds_at_alert": 71.0,
+      "stake_pct": 5.0,
+      "confidence": 455,
+      "alert_type": "value",
+      "alerted_at": "2026-09-06T15:23:51.538992+00:00"
+    },
+    {
+      "state_key": "a3b98ac31571ac64baf248347f64be8a:h2h",
+      "event_id": "a3b98ac31571ac64baf248347f64be8a",
+      "sport_key": "soccer",
+      "competition": "Serie B - Italy",
+      "home_team": "Juve Stabia",
+      "away_team": "Pisa",
+      "commence_time": "2026-09-06T13:02:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 244,
+      "alert_type": "value",
+      "alerted_at": "2026-09-06T15:23:52.021222+00:00"
+    },
+    {
+      "state_key": "a3b98ac31571ac64baf248347f64be8a:h2h",
+      "event_id": "a3b98ac31571ac64baf248347f64be8a",
+      "sport_key": "soccer",
+      "competition": "Serie B - Italy",
+      "home_team": "Juve Stabia",
+      "away_team": "Pisa",
+      "commence_time": "2026-09-06T13:02:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Juve Stabia",
+      "odds_at_alert": 80.0,
+      "stake_pct": 5.0,
+      "confidence": 526,
+      "alert_type": "value",
+      "alerted_at": "2026-09-06T15:23:52.561602+00:00"
+    },
+    {
+      "state_key": "a3b98ac31571ac64baf248347f64be8a:h2h",
+      "event_id": "a3b98ac31571ac64baf248347f64be8a",
+      "sport_key": "soccer",
+      "competition": "Serie B - Italy",
+      "home_team": "Juve Stabia",
+      "away_team": "Pisa",
+      "commence_time": "2026-09-06T13:02:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 244,
+      "alert_type": "value",
+      "alerted_at": "2026-09-06T15:23:53.092557+00:00"
+    },
+    {
+      "state_key": "a3b98ac31571ac64baf248347f64be8a:h2h",
+      "event_id": "a3b98ac31571ac64baf248347f64be8a",
+      "sport_key": "soccer",
+      "competition": "Serie B - Italy",
+      "home_team": "Juve Stabia",
+      "away_team": "Pisa",
+      "commence_time": "2026-09-06T13:02:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Juve Stabia",
+      "odds_at_alert": 75.0,
+      "stake_pct": 5.0,
+      "confidence": 487,
+      "alert_type": "value",
+      "alerted_at": "2026-09-06T15:23:53.661222+00:00"
+    },
+    {
+      "state_key": "a3b98ac31571ac64baf248347f64be8a:h2h",
+      "event_id": "a3b98ac31571ac64baf248347f64be8a",
+      "sport_key": "soccer",
+      "competition": "Serie B - Italy",
+      "home_team": "Juve Stabia",
+      "away_team": "Pisa",
+      "commence_time": "2026-09-06T13:02:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 290,
+      "alert_type": "value",
+      "alerted_at": "2026-09-06T15:23:54.205089+00:00"
+    },
+    {
+      "state_key": "a3b98ac31571ac64baf248347f64be8a:h2h",
+      "event_id": "a3b98ac31571ac64baf248347f64be8a",
+      "sport_key": "soccer",
+      "competition": "Serie B - Italy",
+      "home_team": "Juve Stabia",
+      "away_team": "Pisa",
+      "commence_time": "2026-09-06T13:02:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Juve Stabia",
+      "odds_at_alert": 17.5,
+      "stake_pct": 5.0,
+      "confidence": 37,
+      "alert_type": "value",
+      "alerted_at": "2026-09-06T15:23:54.708213+00:00"
+    },
+    {
+      "state_key": "a3b98ac31571ac64baf248347f64be8a:h2h",
+      "event_id": "a3b98ac31571ac64baf248347f64be8a",
+      "sport_key": "soccer",
+      "competition": "Serie B - Italy",
+      "home_team": "Juve Stabia",
+      "away_team": "Pisa",
+      "commence_time": "2026-09-06T13:02:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Juve Stabia",
+      "odds_at_alert": 75.0,
+      "stake_pct": 5.0,
+      "confidence": 487,
+      "alert_type": "value",
+      "alerted_at": "2026-09-06T15:23:55.210427+00:00"
+    },
+    {
+      "state_key": "a3b98ac31571ac64baf248347f64be8a:h2h",
+      "event_id": "a3b98ac31571ac64baf248347f64be8a",
+      "sport_key": "soccer",
+      "competition": "Serie B - Italy",
+      "home_team": "Juve Stabia",
+      "away_team": "Pisa",
+      "commence_time": "2026-09-06T13:02:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 18.0,
+      "stake_pct": 5.0,
+      "confidence": 313,
+      "alert_type": "value",
+      "alerted_at": "2026-09-06T15:23:55.717195+00:00"
+    },
+    {
+      "state_key": "a3b98ac31571ac64baf248347f64be8a:h2h",
+      "event_id": "a3b98ac31571ac64baf248347f64be8a",
+      "sport_key": "soccer",
+      "competition": "Serie B - Italy",
+      "home_team": "Juve Stabia",
+      "away_team": "Pisa",
+      "commence_time": "2026-09-06T13:02:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Juve Stabia",
+      "odds_at_alert": 45.0,
+      "stake_pct": 5.0,
+      "confidence": 252,
+      "alert_type": "value",
+      "alerted_at": "2026-09-06T15:23:56.254202+00:00"
+    },
+    {
+      "state_key": "a3b98ac31571ac64baf248347f64be8a:h2h",
+      "event_id": "a3b98ac31571ac64baf248347f64be8a",
+      "sport_key": "soccer",
+      "competition": "Serie B - Italy",
+      "home_team": "Juve Stabia",
+      "away_team": "Pisa",
+      "commence_time": "2026-09-06T13:02:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 176,
+      "alert_type": "value",
+      "alerted_at": "2026-09-06T15:23:56.743442+00:00"
+    },
+    {
+      "state_key": "a3b98ac31571ac64baf248347f64be8a:h2h",
+      "event_id": "a3b98ac31571ac64baf248347f64be8a",
+      "sport_key": "soccer",
+      "competition": "Serie B - Italy",
+      "home_team": "Juve Stabia",
+      "away_team": "Pisa",
+      "commence_time": "2026-09-06T13:02:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Juve Stabia",
+      "odds_at_alert": 91.0,
+      "stake_pct": 5.0,
+      "confidence": 612,
+      "alert_type": "value",
+      "alerted_at": "2026-09-06T15:23:57.259783+00:00"
+    },
+    {
+      "state_key": "a3b98ac31571ac64baf248347f64be8a:h2h",
+      "event_id": "a3b98ac31571ac64baf248347f64be8a",
+      "sport_key": "soccer",
+      "competition": "Serie B - Italy",
+      "home_team": "Juve Stabia",
+      "away_team": "Pisa",
+      "commence_time": "2026-09-06T13:02:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 290,
+      "alert_type": "value",
+      "alerted_at": "2026-09-06T15:23:57.788765+00:00"
+    },
+    {
+      "state_key": "936e4b829c2060dd4d5fe495408f6bc3:h2h",
+      "event_id": "936e4b829c2060dd4d5fe495408f6bc3",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Kasimpasa SK",
+      "away_team": "Amed SK",
+      "commence_time": "2026-09-06T14:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Amed SK",
+      "odds_at_alert": 13.5,
+      "stake_pct": 3.0,
+      "confidence": 11,
+      "alert_type": "value",
+      "alerted_at": "2026-09-06T15:23:58.297694+00:00"
     }
   ],
   "results_history": [],
-  "value_alerted": []
+  "value_alerted": [
+    "936e4b829c2060dd4d5fe495408f6bc3:h2h|Betfair|Amed SK",
+    "a3b98ac31571ac64baf248347f64be8a:h2h|888sport|Draw",
+    "a3b98ac31571ac64baf248347f64be8a:h2h|888sport|Juve Stabia",
+    "a3b98ac31571ac64baf248347f64be8a:h2h|Betclic (FR)|Draw",
+    "a3b98ac31571ac64baf248347f64be8a:h2h|Betclic (FR)|Juve Stabia",
+    "a3b98ac31571ac64baf248347f64be8a:h2h|Betsson|Juve Stabia",
+    "a3b98ac31571ac64baf248347f64be8a:h2h|Coolbet|Juve Stabia",
+    "a3b98ac31571ac64baf248347f64be8a:h2h|Nordic Bet|Juve Stabia",
+    "a3b98ac31571ac64baf248347f64be8a:h2h|Tipico|Draw",
+    "a3b98ac31571ac64baf248347f64be8a:h2h|Tipico|Juve Stabia",
+    "a3b98ac31571ac64baf248347f64be8a:h2h|Unibet (SE)|Draw",
+    "a3b98ac31571ac64baf248347f64be8a:h2h|Unibet (SE)|Juve Stabia",
+    "a3b98ac31571ac64baf248347f64be8a:h2h|Winamax (DE)|Draw",
+    "a3b98ac31571ac64baf248347f64be8a:h2h|Winamax (DE)|Juve Stabia",
+    "a3b98ac31571ac64baf248347f64be8a:h2h|Winamax (FR)|Draw",
+    "a3b98ac31571ac64baf248347f64be8a:h2h|Winamax (FR)|Juve Stabia"
+  ]
 }
