@@ -1,169 +1,251 @@
 {
   "snapshots": {
-    "6544cfc9122a44ed682b4731d8c5b087:h2h": {
-      "Winamax (FR)": {
-        "Central Córdoba": 1000.0,
-        "Independiente": 1.03,
-        "Draw": 18.0
-      },
-      "Winamax (DE)": {
-        "Central Córdoba": 1000.0,
-        "Independiente": 1.02,
-        "Draw": 19.0
-      },
-      "Betclic (FR)": {
-        "Central Córdoba": 110.0,
-        "Independiente": 1.0,
-        "Draw": 28.0
-      },
-      "Nordic Bet": {
-        "Central Córdoba": 1.0,
-        "Independiente": 1.0,
-        "Draw": 1.0
+    "d600c094ed98f689d8a0706cb5ea7670:h2h": {
+      "Coolbet": {
+        "América": 3.8,
+        "León": 5.5,
+        "Draw": 1.57
       },
       "Betsson": {
-        "Central Córdoba": 81.0,
-        "Independiente": 1.0,
-        "Draw": 17.0
+        "América": 3.9,
+        "León": 5.35,
+        "Draw": 1.55
       },
-      "Betfair": {
-        "Central Córdoba": 320.0,
-        "Independiente": 1.01,
-        "Draw": 10.5
-      }
-    },
-    "db33b14624bfb0cdb3029f051da3a54c:h2h": {
-      "Winamax (FR)": {
-        "Colo Colo": 18.0,
-        "Huachipato": 44.0,
-        "Draw": 1.04
-      },
-      "Winamax (DE)": {
-        "Colo Colo": 22.0,
-        "Huachipato": 46.0,
-        "Draw": 1.02
+      "Nordic Bet": {
+        "América": 3.9,
+        "León": 5.35,
+        "Draw": 1.55
       },
       "Pinnacle": {
-        "Colo Colo": 3.57,
-        "Huachipato": 9.03,
-        "Draw": 1.48
-      },
-      "Nordic Bet": {
-        "Colo Colo": 67.0,
-        "Huachipato": 126.0,
-        "Draw": 1.0
-      },
-      "Coolbet": {
-        "Colo Colo": 18.0,
-        "Huachipato": 40.0,
-        "Draw": 1.04
-      },
-      "Betsson": {
-        "Colo Colo": 6.8,
-        "Huachipato": 19.5,
-        "Draw": 1.12
-      },
-      "Betfair": {
-        "Colo Colo": 1.01,
-        "Huachipato": 1.01,
-        "Draw": 1.01
-      },
-      "Tipico": {
-        "Colo Colo": 15.0,
-        "Huachipato": 30.0,
-        "Draw": 1.02
-      },
-      "Unibet (SE)": {
-        "Colo Colo": 17.0,
-        "Huachipato": 30.0,
-        "Draw": 1.02
-      },
-      "LeoVegas (SE)": {
-        "Colo Colo": 9.0,
-        "Huachipato": 17.0,
-        "Draw": 1.02
-      }
-    },
-    "e297a67ca8ecc5474e854e91f35958f0:h2h": {
-      "Winamax (DE)": {
-        "Botafogo": 3.35,
-        "Palmeiras": 2.2,
-        "Draw": 2.8
-      },
-      "MyBookie.ag": {
-        "Botafogo": 3.4,
-        "Palmeiras": 2.2,
-        "Draw": 2.9
-      },
-      "Betclic (FR)": {
-        "Botafogo": 3.3,
-        "Palmeiras": 2.15,
-        "Draw": 2.88
+        "América": 2.91,
+        "León": 4.52,
+        "Draw": 2.0
       },
       "Winamax (FR)": {
-        "Botafogo": 3.25,
-        "Palmeiras": 2.15,
-        "Draw": 2.7
+        "América": 3.5,
+        "León": 5.6,
+        "Draw": 1.5
+      },
+      "Winamax (DE)": {
+        "América": 3.6,
+        "León": 5.9,
+        "Draw": 1.52
+      },
+      "888sport": {
+        "América": 3.3,
+        "León": 5.75,
+        "Draw": 1.5
+      },
+      "Unibet (SE)": {
+        "América": 4.3,
+        "León": 5.4,
+        "Draw": 1.45
+      },
+      "PMU (FR)": {
+        "América": 4.1,
+        "León": 5.2,
+        "Draw": 1.38
+      },
+      "LeoVegas (SE)": {
+        "América": 4.2,
+        "León": 5.25,
+        "Draw": 1.41
+      },
+      "Unibet (NL)": {
+        "América": 4.3,
+        "León": 5.4,
+        "Draw": 1.45
       },
       "Betfair": {
-        "Botafogo": 3.75,
-        "Palmeiras": 2.4,
-        "Draw": 3.1
+        "América": 3.8,
+        "León": 6.0,
+        "Draw": 1.73
+      }
+    },
+    "f7288aac90a5e9d502510e7cea6d66b3:h2h": {
+      "Winamax (DE)": {
+        "Independiente Rivadavia": 44.0,
+        "River Plate": 1.1,
+        "Draw": 6.5
+      },
+      "Betclic (FR)": {
+        "Independiente Rivadavia": 30.0,
+        "River Plate": 1.07,
+        "Draw": 6.25
+      },
+      "Winamax (FR)": {
+        "Independiente Rivadavia": 46.0,
+        "River Plate": 1.13,
+        "Draw": 6.25
+      },
+      "Betsson": {
+        "Independiente Rivadavia": 36.0,
+        "River Plate": 1.09,
+        "Draw": 6.3
+      },
+      "Nordic Bet": {
+        "Independiente Rivadavia": 36.0,
+        "River Plate": 1.1,
+        "Draw": 6.3
+      },
+      "LeoVegas (SE)": {
+        "Independiente Rivadavia": 29.0,
+        "River Plate": 1.09,
+        "Draw": 5.75
+      },
+      "Unibet (SE)": {
+        "Independiente Rivadavia": 29.0,
+        "River Plate": 1.14,
+        "Draw": 6.1
+      },
+      "Betfair": {
+        "Independiente Rivadavia": 50.0,
+        "River Plate": 1.17,
+        "Draw": 7.0
+      }
+    },
+    "cc042e2a992e22d5b7d031a8aee592c3:h2h": {
+      "Coolbet": {
+        "Chapecoense": 8.0,
+        "Corinthians": 1.8,
+        "Draw": 2.63
+      },
+      "Betclic (FR)": {
+        "Chapecoense": 8.0,
+        "Corinthians": 1.65,
+        "Draw": 2.65
+      },
+      "Winamax (FR)": {
+        "Chapecoense": 7.0,
+        "Corinthians": 1.68,
+        "Draw": 2.5
+      },
+      "Winamax (DE)": {
+        "Chapecoense": 7.5,
+        "Corinthians": 1.7,
+        "Draw": 2.6
+      },
+      "888sport": {
+        "Chapecoense": 8.0,
+        "Corinthians": 1.73,
+        "Draw": 2.5
+      },
+      "MyBookie.ag": {
+        "Chapecoense": 7.0,
+        "Corinthians": 1.65,
+        "Draw": 2.6
+      },
+      "Nordic Bet": {
+        "Chapecoense": 7.7,
+        "Corinthians": 1.72,
+        "Draw": 2.6
+      },
+      "Betsson": {
+        "Chapecoense": 7.7,
+        "Corinthians": 1.68,
+        "Draw": 2.65
+      },
+      "Betfair": {
+        "Chapecoense": 8.4,
+        "Corinthians": 1.88,
+        "Draw": 2.82
+      },
+      "PMU (FR)": {
+        "Chapecoense": 6.0,
+        "Corinthians": 1.83,
+        "Draw": 2.2
+      },
+      "Unibet (NL)": {
+        "Chapecoense": 6.1,
+        "Corinthians": 1.89,
+        "Draw": 2.28
+      },
+      "LeoVegas (SE)": {
+        "Chapecoense": 6.0,
+        "Corinthians": 1.88,
+        "Draw": 2.25
+      },
+      "Unibet (SE)": {
+        "Chapecoense": 6.5,
+        "Corinthians": 2.0,
+        "Draw": 2.38
+      },
+      "Pinnacle": {
+        "Chapecoense": 8.77,
+        "Corinthians": 1.74,
+        "Draw": 2.75
+      },
+      "Matchbook": {
+        "Chapecoense": 9.6,
+        "Corinthians": 1.83,
+        "Draw": 2.82
+      },
+      "Tipico": {
+        "Chapecoense": 8.5,
+        "Corinthians": 1.65,
+        "Draw": 2.7
+      }
+    },
+    "3555347eb9bf73f4ab5ef71729521d25:h2h": {
+      "Winamax (FR)": {
+        "Palestino": 5.1,
+        "Universidad de Concepción": 1.66,
+        "Draw": 2.9
       },
       "Coolbet": {
-        "Botafogo": 3.5,
-        "Palmeiras": 2.25,
+        "Palestino": 6.0,
+        "Universidad de Concepción": 1.8,
+        "Draw": 3.25
+      },
+      "Winamax (DE)": {
+        "Palestino": 5.4,
+        "Universidad de Concepción": 1.7,
+        "Draw": 3.0
+      },
+      "Nordic Bet": {
+        "Palestino": 5.35,
+        "Universidad de Concepción": 1.68,
+        "Draw": 3.15
+      },
+      "Betsson": {
+        "Palestino": 5.35,
+        "Universidad de Concepción": 1.68,
+        "Draw": 3.15
+      },
+      "Unibet (SE)": {
+        "Palestino": 6.1,
+        "Universidad de Concepción": 1.64,
+        "Draw": 3.05
+      },
+      "LeoVegas (SE)": {
+        "Palestino": 5.8,
+        "Universidad de Concepción": 1.54,
         "Draw": 2.88
       },
       "888sport": {
-        "Botafogo": 3.4,
-        "Palmeiras": 2.2,
-        "Draw": 2.75
-      },
-      "Betsson": {
-        "Botafogo": 3.4,
-        "Palmeiras": 2.25,
-        "Draw": 2.78
-      },
-      "Nordic Bet": {
-        "Botafogo": 3.4,
-        "Palmeiras": 2.2,
-        "Draw": 2.85
-      },
-      "Unibet (SE)": {
-        "Botafogo": 3.6,
-        "Palmeiras": 2.3,
-        "Draw": 2.7
-      },
-      "Unibet (NL)": {
-        "Botafogo": 3.5,
-        "Palmeiras": 2.18,
-        "Draw": 2.6
-      },
-      "LeoVegas (SE)": {
-        "Botafogo": 3.4,
-        "Palmeiras": 2.17,
-        "Draw": 2.55
-      },
-      "PMU (FR)": {
-        "Botafogo": 3.35,
-        "Palmeiras": 2.14,
-        "Draw": 2.5
+        "Palestino": 5.0,
+        "Universidad de Concepción": 1.67,
+        "Draw": 3.0
       },
       "Pinnacle": {
-        "Botafogo": 3.63,
-        "Palmeiras": 2.26,
-        "Draw": 2.95
-      },
-      "Matchbook": {
-        "Botafogo": 3.95,
-        "Palmeiras": 2.32,
-        "Draw": 3.05
+        "Palestino": 5.03,
+        "Universidad de Concepción": 1.81,
+        "Draw": 3.17
       },
       "Tipico": {
-        "Botafogo": 3.8,
-        "Palmeiras": 2.1,
-        "Draw": 2.8
+        "Palestino": 4.5,
+        "Universidad de Concepción": 1.75,
+        "Draw": 3.2
+      },
+      "Betfair": {
+        "Palestino": 6.2,
+        "Universidad de Concepción": 1.8,
+        "Draw": 3.45
+      },
+      "Matchbook": {
+        "Palestino": 6.4,
+        "Universidad de Concepción": 1.79,
+        "Draw": 3.4
       }
     }
   },
@@ -4392,25 +4474,485 @@
       "confidence": 77,
       "alert_type": "value",
       "alerted_at": "2026-09-06T22:05:43.174607+00:00"
+    },
+    {
+      "state_key": "d600c094ed98f689d8a0706cb5ea7670:h2h",
+      "event_id": "d600c094ed98f689d8a0706cb5ea7670",
+      "sport_key": "soccer",
+      "competition": "Leagues Cup",
+      "home_team": "León",
+      "away_team": "América",
+      "commence_time": "2026-09-06T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "América",
+      "odds_at_alert": 3.8,
+      "stake_pct": 5.0,
+      "confidence": 23,
+      "alert_type": "value",
+      "alerted_at": "2026-09-06T23:51:06.133849+00:00"
+    },
+    {
+      "state_key": "d600c094ed98f689d8a0706cb5ea7670:h2h",
+      "event_id": "d600c094ed98f689d8a0706cb5ea7670",
+      "sport_key": "soccer",
+      "competition": "Leagues Cup",
+      "home_team": "León",
+      "away_team": "América",
+      "commence_time": "2026-09-06T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "León",
+      "odds_at_alert": 5.5,
+      "stake_pct": 3.0,
+      "confidence": 14,
+      "alert_type": "value",
+      "alerted_at": "2026-09-06T23:51:06.593341+00:00"
+    },
+    {
+      "state_key": "d600c094ed98f689d8a0706cb5ea7670:h2h",
+      "event_id": "d600c094ed98f689d8a0706cb5ea7670",
+      "sport_key": "soccer",
+      "competition": "Leagues Cup",
+      "home_team": "León",
+      "away_team": "América",
+      "commence_time": "2026-09-06T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "América",
+      "odds_at_alert": 3.9,
+      "stake_pct": 5.0,
+      "confidence": 26,
+      "alert_type": "value",
+      "alerted_at": "2026-09-06T23:51:07.068473+00:00"
+    },
+    {
+      "state_key": "d600c094ed98f689d8a0706cb5ea7670:h2h",
+      "event_id": "d600c094ed98f689d8a0706cb5ea7670",
+      "sport_key": "soccer",
+      "competition": "Leagues Cup",
+      "home_team": "León",
+      "away_team": "América",
+      "commence_time": "2026-09-06T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "León",
+      "odds_at_alert": 5.35,
+      "stake_pct": 3.0,
+      "confidence": 11,
+      "alert_type": "value",
+      "alerted_at": "2026-09-06T23:51:07.524294+00:00"
+    },
+    {
+      "state_key": "d600c094ed98f689d8a0706cb5ea7670:h2h",
+      "event_id": "d600c094ed98f689d8a0706cb5ea7670",
+      "sport_key": "soccer",
+      "competition": "Leagues Cup",
+      "home_team": "León",
+      "away_team": "América",
+      "commence_time": "2026-09-06T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "América",
+      "odds_at_alert": 3.9,
+      "stake_pct": 5.0,
+      "confidence": 26,
+      "alert_type": "value",
+      "alerted_at": "2026-09-06T23:51:07.970301+00:00"
+    },
+    {
+      "state_key": "d600c094ed98f689d8a0706cb5ea7670:h2h",
+      "event_id": "d600c094ed98f689d8a0706cb5ea7670",
+      "sport_key": "soccer",
+      "competition": "Leagues Cup",
+      "home_team": "León",
+      "away_team": "América",
+      "commence_time": "2026-09-06T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "León",
+      "odds_at_alert": 5.35,
+      "stake_pct": 3.0,
+      "confidence": 11,
+      "alert_type": "value",
+      "alerted_at": "2026-09-06T23:51:08.443998+00:00"
+    },
+    {
+      "state_key": "d600c094ed98f689d8a0706cb5ea7670:h2h",
+      "event_id": "d600c094ed98f689d8a0706cb5ea7670",
+      "sport_key": "soccer",
+      "competition": "Leagues Cup",
+      "home_team": "León",
+      "away_team": "América",
+      "commence_time": "2026-09-06T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "América",
+      "odds_at_alert": 3.5,
+      "stake_pct": 3.0,
+      "confidence": 13,
+      "alert_type": "value",
+      "alerted_at": "2026-09-06T23:51:08.905605+00:00"
+    },
+    {
+      "state_key": "d600c094ed98f689d8a0706cb5ea7670:h2h",
+      "event_id": "d600c094ed98f689d8a0706cb5ea7670",
+      "sport_key": "soccer",
+      "competition": "Leagues Cup",
+      "home_team": "León",
+      "away_team": "América",
+      "commence_time": "2026-09-06T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "León",
+      "odds_at_alert": 5.6,
+      "stake_pct": 5.0,
+      "confidence": 16,
+      "alert_type": "value",
+      "alerted_at": "2026-09-06T23:51:09.350054+00:00"
+    },
+    {
+      "state_key": "d600c094ed98f689d8a0706cb5ea7670:h2h",
+      "event_id": "d600c094ed98f689d8a0706cb5ea7670",
+      "sport_key": "soccer",
+      "competition": "Leagues Cup",
+      "home_team": "León",
+      "away_team": "América",
+      "commence_time": "2026-09-06T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "América",
+      "odds_at_alert": 3.6,
+      "stake_pct": 5.0,
+      "confidence": 16,
+      "alert_type": "value",
+      "alerted_at": "2026-09-06T23:51:09.896251+00:00"
+    },
+    {
+      "state_key": "d600c094ed98f689d8a0706cb5ea7670:h2h",
+      "event_id": "d600c094ed98f689d8a0706cb5ea7670",
+      "sport_key": "soccer",
+      "competition": "Leagues Cup",
+      "home_team": "León",
+      "away_team": "América",
+      "commence_time": "2026-09-06T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "León",
+      "odds_at_alert": 5.9,
+      "stake_pct": 5.0,
+      "confidence": 23,
+      "alert_type": "value",
+      "alerted_at": "2026-09-06T23:51:10.357219+00:00"
+    },
+    {
+      "state_key": "d600c094ed98f689d8a0706cb5ea7670:h2h",
+      "event_id": "d600c094ed98f689d8a0706cb5ea7670",
+      "sport_key": "soccer",
+      "competition": "Leagues Cup",
+      "home_team": "León",
+      "away_team": "América",
+      "commence_time": "2026-09-06T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "América",
+      "odds_at_alert": 3.3,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-09-06T23:51:10.834702+00:00"
+    },
+    {
+      "state_key": "d600c094ed98f689d8a0706cb5ea7670:h2h",
+      "event_id": "d600c094ed98f689d8a0706cb5ea7670",
+      "sport_key": "soccer",
+      "competition": "Leagues Cup",
+      "home_team": "León",
+      "away_team": "América",
+      "commence_time": "2026-09-06T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "León",
+      "odds_at_alert": 5.75,
+      "stake_pct": 5.0,
+      "confidence": 19,
+      "alert_type": "value",
+      "alerted_at": "2026-09-06T23:51:11.296014+00:00"
+    },
+    {
+      "state_key": "d600c094ed98f689d8a0706cb5ea7670:h2h",
+      "event_id": "d600c094ed98f689d8a0706cb5ea7670",
+      "sport_key": "soccer",
+      "competition": "Leagues Cup",
+      "home_team": "León",
+      "away_team": "América",
+      "commence_time": "2026-09-06T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "América",
+      "odds_at_alert": 4.3,
+      "stake_pct": 5.0,
+      "confidence": 39,
+      "alert_type": "value",
+      "alerted_at": "2026-09-06T23:51:11.758419+00:00"
+    },
+    {
+      "state_key": "d600c094ed98f689d8a0706cb5ea7670:h2h",
+      "event_id": "d600c094ed98f689d8a0706cb5ea7670",
+      "sport_key": "soccer",
+      "competition": "Leagues Cup",
+      "home_team": "León",
+      "away_team": "América",
+      "commence_time": "2026-09-06T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "León",
+      "odds_at_alert": 5.4,
+      "stake_pct": 3.0,
+      "confidence": 12,
+      "alert_type": "value",
+      "alerted_at": "2026-09-06T23:51:12.238543+00:00"
+    },
+    {
+      "state_key": "d600c094ed98f689d8a0706cb5ea7670:h2h",
+      "event_id": "d600c094ed98f689d8a0706cb5ea7670",
+      "sport_key": "soccer",
+      "competition": "Leagues Cup",
+      "home_team": "León",
+      "away_team": "América",
+      "commence_time": "2026-09-06T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "América",
+      "odds_at_alert": 4.1,
+      "stake_pct": 5.0,
+      "confidence": 32,
+      "alert_type": "value",
+      "alerted_at": "2026-09-06T23:51:12.698791+00:00"
+    },
+    {
+      "state_key": "d600c094ed98f689d8a0706cb5ea7670:h2h",
+      "event_id": "d600c094ed98f689d8a0706cb5ea7670",
+      "sport_key": "soccer",
+      "competition": "Leagues Cup",
+      "home_team": "León",
+      "away_team": "América",
+      "commence_time": "2026-09-06T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "León",
+      "odds_at_alert": 5.2,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-09-06T23:51:13.154477+00:00"
+    },
+    {
+      "state_key": "d600c094ed98f689d8a0706cb5ea7670:h2h",
+      "event_id": "d600c094ed98f689d8a0706cb5ea7670",
+      "sport_key": "soccer",
+      "competition": "Leagues Cup",
+      "home_team": "León",
+      "away_team": "América",
+      "commence_time": "2026-09-06T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "América",
+      "odds_at_alert": 4.2,
+      "stake_pct": 5.0,
+      "confidence": 36,
+      "alert_type": "value",
+      "alerted_at": "2026-09-06T23:51:13.682924+00:00"
+    },
+    {
+      "state_key": "d600c094ed98f689d8a0706cb5ea7670:h2h",
+      "event_id": "d600c094ed98f689d8a0706cb5ea7670",
+      "sport_key": "soccer",
+      "competition": "Leagues Cup",
+      "home_team": "León",
+      "away_team": "América",
+      "commence_time": "2026-09-06T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "León",
+      "odds_at_alert": 5.25,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-09-06T23:51:14.154889+00:00"
+    },
+    {
+      "state_key": "d600c094ed98f689d8a0706cb5ea7670:h2h",
+      "event_id": "d600c094ed98f689d8a0706cb5ea7670",
+      "sport_key": "soccer",
+      "competition": "Leagues Cup",
+      "home_team": "León",
+      "away_team": "América",
+      "commence_time": "2026-09-06T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "América",
+      "odds_at_alert": 4.3,
+      "stake_pct": 5.0,
+      "confidence": 39,
+      "alert_type": "value",
+      "alerted_at": "2026-09-06T23:51:14.607333+00:00"
+    },
+    {
+      "state_key": "d600c094ed98f689d8a0706cb5ea7670:h2h",
+      "event_id": "d600c094ed98f689d8a0706cb5ea7670",
+      "sport_key": "soccer",
+      "competition": "Leagues Cup",
+      "home_team": "León",
+      "away_team": "América",
+      "commence_time": "2026-09-06T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "León",
+      "odds_at_alert": 5.4,
+      "stake_pct": 3.0,
+      "confidence": 12,
+      "alert_type": "value",
+      "alerted_at": "2026-09-06T23:51:15.054712+00:00"
+    },
+    {
+      "state_key": "d600c094ed98f689d8a0706cb5ea7670:h2h",
+      "event_id": "d600c094ed98f689d8a0706cb5ea7670",
+      "sport_key": "soccer",
+      "competition": "Leagues Cup",
+      "home_team": "León",
+      "away_team": "América",
+      "commence_time": "2026-09-06T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "América",
+      "odds_at_alert": 3.8,
+      "stake_pct": 5.0,
+      "confidence": 23,
+      "alert_type": "value",
+      "alerted_at": "2026-09-06T23:51:15.517894+00:00"
+    },
+    {
+      "state_key": "d600c094ed98f689d8a0706cb5ea7670:h2h",
+      "event_id": "d600c094ed98f689d8a0706cb5ea7670",
+      "sport_key": "soccer",
+      "competition": "Leagues Cup",
+      "home_team": "León",
+      "away_team": "América",
+      "commence_time": "2026-09-06T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "León",
+      "odds_at_alert": 6.0,
+      "stake_pct": 5.0,
+      "confidence": 25,
+      "alert_type": "value",
+      "alerted_at": "2026-09-06T23:51:15.964710+00:00"
+    },
+    {
+      "state_key": "cc042e2a992e22d5b7d031a8aee592c3:h2h",
+      "event_id": "cc042e2a992e22d5b7d031a8aee592c3",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Corinthians",
+      "away_team": "Chapecoense",
+      "commence_time": "2026-09-06T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Corinthians",
+      "odds_at_alert": 2.0,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-09-06T23:51:16.413732+00:00"
+    },
+    {
+      "state_key": "3555347eb9bf73f4ab5ef71729521d25:h2h",
+      "event_id": "3555347eb9bf73f4ab5ef71729521d25",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Palestino",
+      "away_team": "Universidad de Concepción",
+      "commence_time": "2026-09-06T22:31:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Palestino",
+      "odds_at_alert": 6.0,
+      "stake_pct": 3.0,
+      "confidence": 12,
+      "alert_type": "value",
+      "alerted_at": "2026-09-06T23:51:16.876097+00:00"
+    },
+    {
+      "state_key": "3555347eb9bf73f4ab5ef71729521d25:h2h",
+      "event_id": "3555347eb9bf73f4ab5ef71729521d25",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Palestino",
+      "away_team": "Universidad de Concepción",
+      "commence_time": "2026-09-06T22:31:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Palestino",
+      "odds_at_alert": 6.1,
+      "stake_pct": 3.0,
+      "confidence": 14,
+      "alert_type": "value",
+      "alerted_at": "2026-09-06T23:51:17.331733+00:00"
+    },
+    {
+      "state_key": "3555347eb9bf73f4ab5ef71729521d25:h2h",
+      "event_id": "3555347eb9bf73f4ab5ef71729521d25",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Palestino",
+      "away_team": "Universidad de Concepción",
+      "commence_time": "2026-09-06T22:31:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Palestino",
+      "odds_at_alert": 5.8,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-09-06T23:51:17.773822+00:00"
+    },
+    {
+      "state_key": "3555347eb9bf73f4ab5ef71729521d25:h2h",
+      "event_id": "3555347eb9bf73f4ab5ef71729521d25",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Palestino",
+      "away_team": "Universidad de Concepción",
+      "commence_time": "2026-09-06T22:31:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Palestino",
+      "odds_at_alert": 6.2,
+      "stake_pct": 5.0,
+      "confidence": 16,
+      "alert_type": "value",
+      "alerted_at": "2026-09-06T23:51:18.286719+00:00"
+    },
+    {
+      "state_key": "3555347eb9bf73f4ab5ef71729521d25:h2h",
+      "event_id": "3555347eb9bf73f4ab5ef71729521d25",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Palestino",
+      "away_team": "Universidad de Concepción",
+      "commence_time": "2026-09-06T22:31:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Palestino",
+      "odds_at_alert": 6.4,
+      "stake_pct": 5.0,
+      "confidence": 19,
+      "alert_type": "value",
+      "alerted_at": "2026-09-06T23:51:18.769659+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "db33b14624bfb0cdb3029f051da3a54c:h2h|Betsson|Colo Colo",
-    "db33b14624bfb0cdb3029f051da3a54c:h2h|Betsson|Huachipato",
-    "db33b14624bfb0cdb3029f051da3a54c:h2h|Coolbet|Colo Colo",
-    "db33b14624bfb0cdb3029f051da3a54c:h2h|Coolbet|Huachipato",
-    "db33b14624bfb0cdb3029f051da3a54c:h2h|LeoVegas (SE)|Colo Colo",
-    "db33b14624bfb0cdb3029f051da3a54c:h2h|LeoVegas (SE)|Huachipato",
-    "db33b14624bfb0cdb3029f051da3a54c:h2h|Nordic Bet|Colo Colo",
-    "db33b14624bfb0cdb3029f051da3a54c:h2h|Nordic Bet|Huachipato",
-    "db33b14624bfb0cdb3029f051da3a54c:h2h|Tipico|Colo Colo",
-    "db33b14624bfb0cdb3029f051da3a54c:h2h|Tipico|Huachipato",
-    "db33b14624bfb0cdb3029f051da3a54c:h2h|Unibet (SE)|Colo Colo",
-    "db33b14624bfb0cdb3029f051da3a54c:h2h|Unibet (SE)|Huachipato",
-    "db33b14624bfb0cdb3029f051da3a54c:h2h|Winamax (DE)|Colo Colo",
-    "db33b14624bfb0cdb3029f051da3a54c:h2h|Winamax (DE)|Huachipato",
-    "db33b14624bfb0cdb3029f051da3a54c:h2h|Winamax (FR)|Colo Colo",
-    "db33b14624bfb0cdb3029f051da3a54c:h2h|Winamax (FR)|Huachipato"
+    "3555347eb9bf73f4ab5ef71729521d25:h2h|Betfair|Palestino",
+    "3555347eb9bf73f4ab5ef71729521d25:h2h|Coolbet|Palestino",
+    "3555347eb9bf73f4ab5ef71729521d25:h2h|LeoVegas (SE)|Palestino",
+    "3555347eb9bf73f4ab5ef71729521d25:h2h|Matchbook|Palestino",
+    "3555347eb9bf73f4ab5ef71729521d25:h2h|Unibet (SE)|Palestino",
+    "cc042e2a992e22d5b7d031a8aee592c3:h2h|Unibet (SE)|Corinthians",
+    "d600c094ed98f689d8a0706cb5ea7670:h2h|888sport|América",
+    "d600c094ed98f689d8a0706cb5ea7670:h2h|888sport|León",
+    "d600c094ed98f689d8a0706cb5ea7670:h2h|Betfair|América",
+    "d600c094ed98f689d8a0706cb5ea7670:h2h|Betfair|León",
+    "d600c094ed98f689d8a0706cb5ea7670:h2h|Betsson|América",
+    "d600c094ed98f689d8a0706cb5ea7670:h2h|Betsson|León",
+    "d600c094ed98f689d8a0706cb5ea7670:h2h|Coolbet|América",
+    "d600c094ed98f689d8a0706cb5ea7670:h2h|Coolbet|León",
+    "d600c094ed98f689d8a0706cb5ea7670:h2h|LeoVegas (SE)|América",
+    "d600c094ed98f689d8a0706cb5ea7670:h2h|LeoVegas (SE)|León",
+    "d600c094ed98f689d8a0706cb5ea7670:h2h|Nordic Bet|América",
+    "d600c094ed98f689d8a0706cb5ea7670:h2h|Nordic Bet|León",
+    "d600c094ed98f689d8a0706cb5ea7670:h2h|PMU (FR)|América",
+    "d600c094ed98f689d8a0706cb5ea7670:h2h|PMU (FR)|León",
+    "d600c094ed98f689d8a0706cb5ea7670:h2h|Unibet (NL)|América",
+    "d600c094ed98f689d8a0706cb5ea7670:h2h|Unibet (NL)|León",
+    "d600c094ed98f689d8a0706cb5ea7670:h2h|Unibet (SE)|América",
+    "d600c094ed98f689d8a0706cb5ea7670:h2h|Unibet (SE)|León",
+    "d600c094ed98f689d8a0706cb5ea7670:h2h|Winamax (DE)|América",
+    "d600c094ed98f689d8a0706cb5ea7670:h2h|Winamax (DE)|León",
+    "d600c094ed98f689d8a0706cb5ea7670:h2h|Winamax (FR)|América",
+    "d600c094ed98f689d8a0706cb5ea7670:h2h|Winamax (FR)|León"
   ]
 }
