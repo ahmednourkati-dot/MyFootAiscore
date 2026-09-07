@@ -1,226 +1,341 @@
 {
   "snapshots": {
-    "fe8f6030c945410910beaed1f9cf2ce5:h2h": {
-      "Pinnacle": {
-        "FC Akhmat Grozny": 13.4,
-        "Rubin Kazan": 15.03,
-        "Draw": 1.09
-      }
-    },
-    "6dbd4200510ca38e4534170d9c68aad6:h2h": {
-      "Winamax (FR)": {
-        "AIK": 8.0,
-        "Malmo FF": 4.0,
-        "Draw": 1.35
-      },
-      "Winamax (DE)": {
-        "AIK": 8.5,
-        "Malmo FF": 4.1,
-        "Draw": 1.34
-      },
-      "Betclic (FR)": {
-        "AIK": 8.0,
-        "Malmo FF": 3.5,
-        "Draw": 1.42
-      },
-      "Betfair": {
-        "AIK": 9.8,
-        "Malmo FF": 4.3,
-        "Draw": 1.48
-      },
-      "Nordic Bet": {
-        "AIK": 8.6,
-        "Malmo FF": 3.9,
-        "Draw": 1.38
-      },
-      "Betsson": {
-        "AIK": 8.6,
-        "Malmo FF": 3.65,
-        "Draw": 1.4
-      },
-      "888sport": {
-        "AIK": 11.0,
-        "Malmo FF": 4.0,
-        "Draw": 1.33
-      },
-      "Tipico": {
-        "AIK": 11.0,
-        "Malmo FF": 3.8,
-        "Draw": 1.35
-      },
+    "c1110c2e05997c856ad2975262598499:h2h": {
       "Unibet (SE)": {
-        "AIK": 7.5,
-        "Malmo FF": 4.3,
-        "Draw": 1.36
-      },
-      "PMU (FR)": {
-        "AIK": 7.0,
-        "Malmo FF": 3.95,
-        "Draw": 1.24
+        "Argentinos Juniors": 2.48,
+        "Barracas Central": 4.5,
+        "Draw": 2.2
       },
       "LeoVegas (SE)": {
-        "AIK": 8.0,
-        "Malmo FF": 4.75,
-        "Draw": 1.3
-      },
-      "Unibet (NL)": {
-        "AIK": 8.0,
-        "Malmo FF": 4.75,
-        "Draw": 1.3
-      },
-      "Pinnacle": {
-        "AIK": 6.14,
-        "Malmo FF": 3.01,
-        "Draw": 1.75
-      },
-      "Coolbet": {
-        "AIK": 10.0,
-        "Malmo FF": 4.5,
-        "Draw": 1.4
-      },
-      "Matchbook": {
-        "AIK": 10.5,
-        "Malmo FF": 3.9,
-        "Draw": 1.41
-      }
-    },
-    "7c4ca45b5a6960bc548ece592afe0547:h2h": {
-      "Betsson": {
-        "Alanyaspor": 1.2,
-        "Çaykur Rizespor": 32.0,
-        "Draw": 4.85
-      },
-      "Coolbet": {
-        "Alanyaspor": 1.2,
-        "Çaykur Rizespor": 50.0,
-        "Draw": 5.5
-      },
-      "Betclic (FR)": {
-        "Alanyaspor": 1.18,
-        "Çaykur Rizespor": 27.0,
-        "Draw": 4.45
+        "Argentinos Juniors": 2.35,
+        "Barracas Central": 4.2,
+        "Draw": 2.08
       },
       "Nordic Bet": {
-        "Alanyaspor": 1.18,
-        "Çaykur Rizespor": 39.0,
-        "Draw": 5.35
+        "Argentinos Juniors": 2.45,
+        "Barracas Central": 4.85,
+        "Draw": 2.05
       },
-      "888sport": {
-        "Alanyaspor": 1.18,
-        "Çaykur Rizespor": 34.0,
-        "Draw": 5.0
+      "Betsson": {
+        "Argentinos Juniors": 2.45,
+        "Barracas Central": 4.85,
+        "Draw": 2.05
+      },
+      "Betclic (FR)": {
+        "Argentinos Juniors": 2.38,
+        "Barracas Central": 4.7,
+        "Draw": 2.08
       },
       "Winamax (DE)": {
-        "Alanyaspor": 1.16,
-        "Çaykur Rizespor": 42.0,
-        "Draw": 5.1
+        "Argentinos Juniors": 2.4,
+        "Barracas Central": 4.7,
+        "Draw": 2.05
       },
       "Winamax (FR)": {
-        "Alanyaspor": 1.18,
-        "Çaykur Rizespor": 42.0,
-        "Draw": 4.8
+        "Argentinos Juniors": 2.35,
+        "Barracas Central": 4.5,
+        "Draw": 2.0
       },
       "Pinnacle": {
-        "Alanyaspor": 1.36,
-        "Çaykur Rizespor": 15.77,
-        "Draw": 3.93
+        "Argentinos Juniors": 2.14,
+        "Barracas Central": 5.14,
+        "Draw": 2.51
       },
-      "Tipico": {
-        "Alanyaspor": 1.18,
-        "Çaykur Rizespor": 50.0,
+      "Betfair": {
+        "Argentinos Juniors": 2.68,
+        "Barracas Central": 5.5,
+        "Draw": 2.22
+      }
+    },
+    "bb862f7906d0537da73a0a3f5a2575e1:h2h": {
+      "Coolbet": {
+        "Cobresal": 5.45,
+        "Deportes Limache": 1.55,
+        "Draw": 4.7
+      },
+      "Winamax (FR)": {
+        "Cobresal": 5.0,
+        "Deportes Limache": 1.42,
+        "Draw": 4.7
+      },
+      "Winamax (DE)": {
+        "Cobresal": 5.1,
+        "Deportes Limache": 1.44,
+        "Draw": 4.8
+      },
+      "1xBet": {
+        "Cobresal": 5.59,
+        "Deportes Limache": 1.43,
         "Draw": 4.5
       },
-      "PMU (FR)": {
-        "Alanyaspor": 1.08,
-        "Çaykur Rizespor": 36.0,
-        "Draw": 5.1
-      },
-      "LeoVegas (SE)": {
-        "Alanyaspor": 1.09,
-        "Çaykur Rizespor": 36.0,
-        "Draw": 5.1
-      },
-      "Unibet (NL)": {
-        "Alanyaspor": 1.14,
-        "Çaykur Rizespor": 41.0,
-        "Draw": 5.3
+      "GTbets": {
+        "Cobresal": 5.4,
+        "Deportes Limache": 1.52,
+        "Draw": 4.63
       },
       "Unibet (SE)": {
-        "Alanyaspor": 1.14,
-        "Çaykur Rizespor": 41.0,
-        "Draw": 5.3
+        "Cobresal": 4.9,
+        "Deportes Limache": 1.57,
+        "Draw": 4.25
       },
-      "Betfair": {
-        "Alanyaspor": 1.29,
-        "Çaykur Rizespor": 32.0,
-        "Draw": 4.8
-      }
-    },
-    "0817220a8e0794e15ecba51338bb6cf8:h2h": {
-      "Nordic Bet": {
-        "Celta Vigo": 2.88,
-        "Getafe": 10.5,
-        "Draw": 1.58
+      "LeoVegas (SE)": {
+        "Cobresal": 4.9,
+        "Deportes Limache": 1.57,
+        "Draw": 4.25
       },
       "Betsson": {
-        "Celta Vigo": 2.85,
-        "Getafe": 10.5,
-        "Draw": 1.6
+        "Cobresal": 5.9,
+        "Deportes Limache": 1.48,
+        "Draw": 4.3
       },
-      "Betclic (FR)": {
-        "Celta Vigo": 2.55,
-        "Getafe": 13.0,
-        "Draw": 1.58
+      "Nordic Bet": {
+        "Cobresal": 5.9,
+        "Deportes Limache": 1.48,
+        "Draw": 4.3
       },
-      "Winamax (FR)": {
-        "Celta Vigo": 2.6,
-        "Getafe": 11.5,
-        "Draw": 1.54
+      "Marathon Bet": {
+        "Cobresal": 5.5,
+        "Deportes Limache": 1.47,
+        "Draw": 4.6
       },
-      "Winamax (DE)": {
-        "Celta Vigo": 2.65,
-        "Getafe": 12.0,
-        "Draw": 1.62
+      "Unibet (FR)": {
+        "Cobresal": 5.1,
+        "Deportes Limache": 1.39,
+        "Draw": 4.45
       },
-      "Betfair": {
-        "Celta Vigo": 2.98,
-        "Getafe": 13.0,
-        "Draw": 1.69
+      "BetOnline.ag": {
+        "Cobresal": 5.5,
+        "Deportes Limache": 1.48,
+        "Draw": 4.7
       },
-      "Tipico": {
-        "Celta Vigo": 2.5,
-        "Getafe": 16.0,
-        "Draw": 1.6
+      "888sport": {
+        "Cobresal": 5.0,
+        "Deportes Limache": 1.44,
+        "Draw": 4.2
+      },
+      "Codere (IT)": {
+        "Cobresal": 5.4,
+        "Deportes Limache": 1.45,
+        "Draw": 4.7
       },
       "Pinnacle": {
-        "Celta Vigo": 2.69,
-        "Getafe": 10.65,
-        "Draw": 1.69
+        "Cobresal": 5.83,
+        "Deportes Limache": 1.5,
+        "Draw": 4.89
       },
-      "Unibet (SE)": {
-        "Celta Vigo": 3.15,
-        "Getafe": 13.0,
-        "Draw": 1.48
+      "Tipico": {
+        "Cobresal": 5.5,
+        "Deportes Limache": 1.4,
+        "Draw": 4.7
       },
-      "LeoVegas (SE)": {
-        "Celta Vigo": 3.0,
-        "Getafe": 12.0,
-        "Draw": 1.45
+      "BetAnything": {
+        "Cobresal": 5.4,
+        "Deportes Limache": 1.46,
+        "Draw": 4.6
+      },
+      "Betfair": {
+        "Cobresal": 6.2,
+        "Deportes Limache": 1.53,
+        "Draw": 5.1
+      },
+      "Matchbook": {
+        "Cobresal": 6.2,
+        "Deportes Limache": 1.54,
+        "Draw": 5.1
+      }
+    },
+    "70e412c6982109730852f119d6bb44a4:h2h": {
+      "Coolbet": {
+        "Grêmio": 3.55,
+        "Vitoria": 2.2,
+        "Draw": 3.15
+      },
+      "Unibet (FR)": {
+        "Grêmio": 3.2,
+        "Vitoria": 2.0,
+        "Draw": 3.1
+      },
+      "Codere (IT)": {
+        "Grêmio": 3.45,
+        "Vitoria": 2.15,
+        "Draw": 3.3
+      },
+      "Winamax (FR)": {
+        "Grêmio": 3.2,
+        "Vitoria": 2.0,
+        "Draw": 3.2
+      },
+      "1xBet": {
+        "Grêmio": 3.47,
+        "Vitoria": 2.25,
+        "Draw": 3.37
+      },
+      "Winamax (DE)": {
+        "Grêmio": 3.25,
+        "Vitoria": 2.05,
+        "Draw": 3.25
+      },
+      "888sport": {
+        "Grêmio": 3.3,
+        "Vitoria": 2.15,
+        "Draw": 3.1
+      },
+      "Betclic (FR)": {
+        "Grêmio": 3.3,
+        "Vitoria": 2.03,
+        "Draw": 3.15
+      },
+      "William Hill": {
+        "Grêmio": 3.3,
+        "Vitoria": 2.15,
+        "Draw": 3.1
+      },
+      "Nordic Bet": {
+        "Grêmio": 3.35,
+        "Vitoria": 2.15,
+        "Draw": 3.15
+      },
+      "Betsson": {
+        "Grêmio": 3.35,
+        "Vitoria": 2.15,
+        "Draw": 3.15
+      },
+      "Betfair": {
+        "Grêmio": 3.8,
+        "Vitoria": 2.24,
+        "Draw": 3.35
+      },
+      "Marathon Bet": {
+        "Grêmio": 3.4,
+        "Vitoria": 2.09,
+        "Draw": 3.34
       },
       "PMU (FR)": {
-        "Celta Vigo": 2.95,
-        "Getafe": 12.0,
-        "Draw": 1.44
+        "Grêmio": 3.2,
+        "Vitoria": 2.14,
+        "Draw": 3.05
       },
       "Unibet (NL)": {
-        "Celta Vigo": 3.05,
-        "Getafe": 14.0,
-        "Draw": 1.49
+        "Grêmio": 3.35,
+        "Vitoria": 2.2,
+        "Draw": 3.15
       },
-      "Coolbet": {
-        "Celta Vigo": 2.88,
-        "Getafe": 15.0,
-        "Draw": 1.6
+      "LeoVegas (SE)": {
+        "Grêmio": 3.2,
+        "Vitoria": 2.14,
+        "Draw": 3.05
+      },
+      "Unibet (SE)": {
+        "Grêmio": 3.35,
+        "Vitoria": 2.2,
+        "Draw": 3.15
+      },
+      "Pinnacle": {
+        "Grêmio": 3.57,
+        "Vitoria": 2.21,
+        "Draw": 3.32
+      },
+      "Tipico": {
+        "Grêmio": 3.5,
+        "Vitoria": 2.05,
+        "Draw": 3.2
+      },
+      "Matchbook": {
+        "Grêmio": 3.8,
+        "Vitoria": 2.26,
+        "Draw": 3.35
+      },
+      "GTbets": {
+        "Grêmio": 3.38,
+        "Vitoria": 2.19,
+        "Draw": 3.33
+      },
+      "BetOnline.ag": {
+        "Grêmio": 3.64,
+        "Vitoria": 2.16,
+        "Draw": 3.37
+      },
+      "BetAnything": {
+        "Grêmio": 3.5,
+        "Vitoria": 2.1,
+        "Draw": 3.2
+      }
+    },
+    "5e7d483fb0216cd5edb1664b44acf8ad:h2h": {
+      "Unibet (SE)": {
+        "Instituto de Córdoba": 2.65,
+        "Union Santa Fe": 2.75,
+        "Draw": 3.05
+      },
+      "LeoVegas (SE)": {
+        "Instituto de Córdoba": 2.5,
+        "Union Santa Fe": 2.55,
+        "Draw": 2.85
+      },
+      "1xBet": {
+        "Instituto de Córdoba": 2.6,
+        "Union Santa Fe": 3.04,
+        "Draw": 2.96
+      },
+      "Nordic Bet": {
+        "Instituto de Córdoba": 2.55,
+        "Union Santa Fe": 2.95,
+        "Draw": 3.0
+      },
+      "Betsson": {
+        "Instituto de Córdoba": 2.55,
+        "Union Santa Fe": 2.95,
+        "Draw": 3.0
+      },
+      "Unibet (FR)": {
+        "Instituto de Córdoba": 2.3,
+        "Union Santa Fe": 2.95,
+        "Draw": 2.8
+      },
+      "Winamax (FR)": {
+        "Instituto de Córdoba": 2.4,
+        "Union Santa Fe": 2.85,
+        "Draw": 2.85
+      },
+      "Betclic (FR)": {
+        "Instituto de Córdoba": 2.42,
+        "Union Santa Fe": 2.97,
+        "Draw": 2.85
+      },
+      "Winamax (DE)": {
+        "Instituto de Córdoba": 2.4,
+        "Union Santa Fe": 2.9,
+        "Draw": 2.9
+      },
+      "Pinnacle": {
+        "Instituto de Córdoba": 2.65,
+        "Union Santa Fe": 3.12,
+        "Draw": 2.99
+      },
+      "BetOnline.ag": {
+        "Instituto de Córdoba": 2.65,
+        "Union Santa Fe": 3.06,
+        "Draw": 3.02
+      },
+      "Marathon Bet": {
+        "Instituto de Córdoba": 2.55,
+        "Union Santa Fe": 2.98,
+        "Draw": 2.9
+      },
+      "Betfair": {
+        "Instituto de Córdoba": 2.74,
+        "Union Santa Fe": 3.15,
+        "Draw": 3.05
+      },
+      "Codere (IT)": {
+        "Instituto de Córdoba": 2.55,
+        "Union Santa Fe": 3.05,
+        "Draw": 2.95
+      },
+      "BetAnything": {
+        "Instituto de Córdoba": 2.55,
+        "Union Santa Fe": 3.05,
+        "Draw": 2.95
       }
     }
   },
@@ -5953,75 +6068,94 @@
       "confidence": 33,
       "alert_type": "value",
       "alerted_at": "2026-09-07T18:42:45.559551+00:00"
+    },
+    {
+      "state_key": "c1110c2e05997c856ad2975262598499:h2h",
+      "event_id": "c1110c2e05997c856ad2975262598499",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Barracas Central",
+      "away_team": "Argentinos Juniors",
+      "commence_time": "2026-09-07T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Argentinos Juniors",
+      "odds_at_alert": 2.48,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-09-07T22:46:32.199358+00:00"
+    },
+    {
+      "state_key": "c1110c2e05997c856ad2975262598499:h2h",
+      "event_id": "c1110c2e05997c856ad2975262598499",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Barracas Central",
+      "away_team": "Argentinos Juniors",
+      "commence_time": "2026-09-07T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Argentinos Juniors",
+      "odds_at_alert": 2.45,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-09-07T22:46:32.659591+00:00"
+    },
+    {
+      "state_key": "c1110c2e05997c856ad2975262598499:h2h",
+      "event_id": "c1110c2e05997c856ad2975262598499",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Barracas Central",
+      "away_team": "Argentinos Juniors",
+      "commence_time": "2026-09-07T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Argentinos Juniors",
+      "odds_at_alert": 2.45,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-09-07T22:46:33.030979+00:00"
+    },
+    {
+      "state_key": "c1110c2e05997c856ad2975262598499:h2h",
+      "event_id": "c1110c2e05997c856ad2975262598499",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Barracas Central",
+      "away_team": "Argentinos Juniors",
+      "commence_time": "2026-09-07T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Argentinos Juniors",
+      "odds_at_alert": 2.4,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-09-07T22:46:33.448107+00:00"
+    },
+    {
+      "state_key": "c1110c2e05997c856ad2975262598499:h2h",
+      "event_id": "c1110c2e05997c856ad2975262598499",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Barracas Central",
+      "away_team": "Argentinos Juniors",
+      "commence_time": "2026-09-07T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Argentinos Juniors",
+      "odds_at_alert": 2.68,
+      "stake_pct": 5.0,
+      "confidence": 18,
+      "alert_type": "value",
+      "alerted_at": "2026-09-07T22:46:33.824777+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "0817220a8e0794e15ecba51338bb6cf8:h2h|Betclic (FR)|Getafe",
-    "0817220a8e0794e15ecba51338bb6cf8:h2h|Betfair|Getafe",
-    "0817220a8e0794e15ecba51338bb6cf8:h2h|Coolbet|Getafe",
-    "0817220a8e0794e15ecba51338bb6cf8:h2h|LeoVegas (SE)|Celta Vigo",
-    "0817220a8e0794e15ecba51338bb6cf8:h2h|LeoVegas (SE)|Getafe",
-    "0817220a8e0794e15ecba51338bb6cf8:h2h|PMU (FR)|Getafe",
-    "0817220a8e0794e15ecba51338bb6cf8:h2h|Tipico|Getafe",
-    "0817220a8e0794e15ecba51338bb6cf8:h2h|Unibet (NL)|Celta Vigo",
-    "0817220a8e0794e15ecba51338bb6cf8:h2h|Unibet (NL)|Getafe",
-    "0817220a8e0794e15ecba51338bb6cf8:h2h|Unibet (SE)|Celta Vigo",
-    "0817220a8e0794e15ecba51338bb6cf8:h2h|Unibet (SE)|Getafe",
-    "0817220a8e0794e15ecba51338bb6cf8:h2h|Winamax (DE)|Getafe",
-    "6dbd4200510ca38e4534170d9c68aad6:h2h|888sport|AIK",
-    "6dbd4200510ca38e4534170d9c68aad6:h2h|888sport|Malmo FF",
-    "6dbd4200510ca38e4534170d9c68aad6:h2h|Betclic (FR)|AIK",
-    "6dbd4200510ca38e4534170d9c68aad6:h2h|Betclic (FR)|Malmo FF",
-    "6dbd4200510ca38e4534170d9c68aad6:h2h|Betfair|AIK",
-    "6dbd4200510ca38e4534170d9c68aad6:h2h|Betfair|Malmo FF",
-    "6dbd4200510ca38e4534170d9c68aad6:h2h|Betsson|AIK",
-    "6dbd4200510ca38e4534170d9c68aad6:h2h|Betsson|Malmo FF",
-    "6dbd4200510ca38e4534170d9c68aad6:h2h|Coolbet|AIK",
-    "6dbd4200510ca38e4534170d9c68aad6:h2h|Coolbet|Malmo FF",
-    "6dbd4200510ca38e4534170d9c68aad6:h2h|LeoVegas (SE)|AIK",
-    "6dbd4200510ca38e4534170d9c68aad6:h2h|LeoVegas (SE)|Malmo FF",
-    "6dbd4200510ca38e4534170d9c68aad6:h2h|Matchbook|AIK",
-    "6dbd4200510ca38e4534170d9c68aad6:h2h|Matchbook|Malmo FF",
-    "6dbd4200510ca38e4534170d9c68aad6:h2h|Nordic Bet|AIK",
-    "6dbd4200510ca38e4534170d9c68aad6:h2h|Nordic Bet|Malmo FF",
-    "6dbd4200510ca38e4534170d9c68aad6:h2h|PMU (FR)|AIK",
-    "6dbd4200510ca38e4534170d9c68aad6:h2h|PMU (FR)|Malmo FF",
-    "6dbd4200510ca38e4534170d9c68aad6:h2h|Tipico|AIK",
-    "6dbd4200510ca38e4534170d9c68aad6:h2h|Tipico|Malmo FF",
-    "6dbd4200510ca38e4534170d9c68aad6:h2h|Unibet (NL)|AIK",
-    "6dbd4200510ca38e4534170d9c68aad6:h2h|Unibet (NL)|Malmo FF",
-    "6dbd4200510ca38e4534170d9c68aad6:h2h|Unibet (SE)|AIK",
-    "6dbd4200510ca38e4534170d9c68aad6:h2h|Unibet (SE)|Malmo FF",
-    "6dbd4200510ca38e4534170d9c68aad6:h2h|Winamax (DE)|AIK",
-    "6dbd4200510ca38e4534170d9c68aad6:h2h|Winamax (DE)|Malmo FF",
-    "6dbd4200510ca38e4534170d9c68aad6:h2h|Winamax (FR)|AIK",
-    "6dbd4200510ca38e4534170d9c68aad6:h2h|Winamax (FR)|Malmo FF",
-    "7c4ca45b5a6960bc548ece592afe0547:h2h|888sport|Draw",
-    "7c4ca45b5a6960bc548ece592afe0547:h2h|888sport|Çaykur Rizespor",
-    "7c4ca45b5a6960bc548ece592afe0547:h2h|Betclic (FR)|Draw",
-    "7c4ca45b5a6960bc548ece592afe0547:h2h|Betclic (FR)|Çaykur Rizespor",
-    "7c4ca45b5a6960bc548ece592afe0547:h2h|Betfair|Draw",
-    "7c4ca45b5a6960bc548ece592afe0547:h2h|Betfair|Çaykur Rizespor",
-    "7c4ca45b5a6960bc548ece592afe0547:h2h|Betsson|Draw",
-    "7c4ca45b5a6960bc548ece592afe0547:h2h|Betsson|Çaykur Rizespor",
-    "7c4ca45b5a6960bc548ece592afe0547:h2h|Coolbet|Draw",
-    "7c4ca45b5a6960bc548ece592afe0547:h2h|Coolbet|Çaykur Rizespor",
-    "7c4ca45b5a6960bc548ece592afe0547:h2h|LeoVegas (SE)|Draw",
-    "7c4ca45b5a6960bc548ece592afe0547:h2h|LeoVegas (SE)|Çaykur Rizespor",
-    "7c4ca45b5a6960bc548ece592afe0547:h2h|Nordic Bet|Draw",
-    "7c4ca45b5a6960bc548ece592afe0547:h2h|Nordic Bet|Çaykur Rizespor",
-    "7c4ca45b5a6960bc548ece592afe0547:h2h|PMU (FR)|Draw",
-    "7c4ca45b5a6960bc548ece592afe0547:h2h|PMU (FR)|Çaykur Rizespor",
-    "7c4ca45b5a6960bc548ece592afe0547:h2h|Tipico|Draw",
-    "7c4ca45b5a6960bc548ece592afe0547:h2h|Tipico|Çaykur Rizespor",
-    "7c4ca45b5a6960bc548ece592afe0547:h2h|Unibet (NL)|Draw",
-    "7c4ca45b5a6960bc548ece592afe0547:h2h|Unibet (NL)|Çaykur Rizespor",
-    "7c4ca45b5a6960bc548ece592afe0547:h2h|Unibet (SE)|Draw",
-    "7c4ca45b5a6960bc548ece592afe0547:h2h|Unibet (SE)|Çaykur Rizespor",
-    "7c4ca45b5a6960bc548ece592afe0547:h2h|Winamax (DE)|Draw",
-    "7c4ca45b5a6960bc548ece592afe0547:h2h|Winamax (DE)|Çaykur Rizespor",
-    "7c4ca45b5a6960bc548ece592afe0547:h2h|Winamax (FR)|Draw",
-    "7c4ca45b5a6960bc548ece592afe0547:h2h|Winamax (FR)|Çaykur Rizespor"
+    "c1110c2e05997c856ad2975262598499:h2h|Betfair|Argentinos Juniors",
+    "c1110c2e05997c856ad2975262598499:h2h|Betsson|Argentinos Juniors",
+    "c1110c2e05997c856ad2975262598499:h2h|Nordic Bet|Argentinos Juniors",
+    "c1110c2e05997c856ad2975262598499:h2h|Unibet (SE)|Argentinos Juniors",
+    "c1110c2e05997c856ad2975262598499:h2h|Winamax (DE)|Argentinos Juniors"
   ]
 }
