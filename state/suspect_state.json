@@ -1,251 +1,301 @@
 {
   "snapshots": {
-    "d600c094ed98f689d8a0706cb5ea7670:h2h": {
+    "35ba6878d169af1efaa4df64d588952f:h2h": {
       "Coolbet": {
-        "América": 3.8,
-        "León": 5.5,
-        "Draw": 1.57
-      },
-      "Betsson": {
-        "América": 3.9,
-        "León": 5.35,
-        "Draw": 1.55
+        "Asteras Tripolis": 1.95,
+        "Iraklis FC": 4.0,
+        "Draw": 3.5
       },
       "Nordic Bet": {
-        "América": 3.9,
-        "León": 5.35,
-        "Draw": 1.55
-      },
-      "Pinnacle": {
-        "América": 2.91,
-        "León": 4.52,
-        "Draw": 2.0
-      },
-      "Winamax (FR)": {
-        "América": 3.5,
-        "León": 5.6,
-        "Draw": 1.5
-      },
-      "Winamax (DE)": {
-        "América": 3.6,
-        "León": 5.9,
-        "Draw": 1.52
-      },
-      "888sport": {
-        "América": 3.3,
-        "León": 5.75,
-        "Draw": 1.5
-      },
-      "Unibet (SE)": {
-        "América": 4.3,
-        "León": 5.4,
-        "Draw": 1.45
-      },
-      "PMU (FR)": {
-        "América": 4.1,
-        "León": 5.2,
-        "Draw": 1.38
-      },
-      "LeoVegas (SE)": {
-        "América": 4.2,
-        "León": 5.25,
-        "Draw": 1.41
-      },
-      "Unibet (NL)": {
-        "América": 4.3,
-        "León": 5.4,
-        "Draw": 1.45
-      },
-      "Betfair": {
-        "América": 3.8,
-        "León": 6.0,
-        "Draw": 1.73
-      }
-    },
-    "f7288aac90a5e9d502510e7cea6d66b3:h2h": {
-      "Winamax (DE)": {
-        "Independiente Rivadavia": 44.0,
-        "River Plate": 1.1,
-        "Draw": 6.5
-      },
-      "Betclic (FR)": {
-        "Independiente Rivadavia": 30.0,
-        "River Plate": 1.07,
-        "Draw": 6.25
-      },
-      "Winamax (FR)": {
-        "Independiente Rivadavia": 46.0,
-        "River Plate": 1.13,
-        "Draw": 6.25
-      },
-      "Betsson": {
-        "Independiente Rivadavia": 36.0,
-        "River Plate": 1.09,
-        "Draw": 6.3
-      },
-      "Nordic Bet": {
-        "Independiente Rivadavia": 36.0,
-        "River Plate": 1.1,
-        "Draw": 6.3
-      },
-      "LeoVegas (SE)": {
-        "Independiente Rivadavia": 29.0,
-        "River Plate": 1.09,
-        "Draw": 5.75
-      },
-      "Unibet (SE)": {
-        "Independiente Rivadavia": 29.0,
-        "River Plate": 1.14,
-        "Draw": 6.1
-      },
-      "Betfair": {
-        "Independiente Rivadavia": 50.0,
-        "River Plate": 1.17,
-        "Draw": 7.0
-      }
-    },
-    "cc042e2a992e22d5b7d031a8aee592c3:h2h": {
-      "Coolbet": {
-        "Chapecoense": 8.0,
-        "Corinthians": 1.8,
-        "Draw": 2.63
-      },
-      "Betclic (FR)": {
-        "Chapecoense": 8.0,
-        "Corinthians": 1.65,
-        "Draw": 2.65
-      },
-      "Winamax (FR)": {
-        "Chapecoense": 7.0,
-        "Corinthians": 1.68,
-        "Draw": 2.5
-      },
-      "Winamax (DE)": {
-        "Chapecoense": 7.5,
-        "Corinthians": 1.7,
-        "Draw": 2.6
-      },
-      "888sport": {
-        "Chapecoense": 8.0,
-        "Corinthians": 1.73,
-        "Draw": 2.5
-      },
-      "MyBookie.ag": {
-        "Chapecoense": 7.0,
-        "Corinthians": 1.65,
-        "Draw": 2.6
-      },
-      "Nordic Bet": {
-        "Chapecoense": 7.7,
-        "Corinthians": 1.72,
-        "Draw": 2.6
-      },
-      "Betsson": {
-        "Chapecoense": 7.7,
-        "Corinthians": 1.68,
-        "Draw": 2.65
-      },
-      "Betfair": {
-        "Chapecoense": 8.4,
-        "Corinthians": 1.88,
-        "Draw": 2.82
-      },
-      "PMU (FR)": {
-        "Chapecoense": 6.0,
-        "Corinthians": 1.83,
-        "Draw": 2.2
-      },
-      "Unibet (NL)": {
-        "Chapecoense": 6.1,
-        "Corinthians": 1.89,
-        "Draw": 2.28
-      },
-      "LeoVegas (SE)": {
-        "Chapecoense": 6.0,
-        "Corinthians": 1.88,
-        "Draw": 2.25
-      },
-      "Unibet (SE)": {
-        "Chapecoense": 6.5,
-        "Corinthians": 2.0,
-        "Draw": 2.38
-      },
-      "Pinnacle": {
-        "Chapecoense": 8.77,
-        "Corinthians": 1.74,
-        "Draw": 2.75
-      },
-      "Matchbook": {
-        "Chapecoense": 9.6,
-        "Corinthians": 1.83,
-        "Draw": 2.82
-      },
-      "Tipico": {
-        "Chapecoense": 8.5,
-        "Corinthians": 1.65,
-        "Draw": 2.7
-      }
-    },
-    "3555347eb9bf73f4ab5ef71729521d25:h2h": {
-      "Winamax (FR)": {
-        "Palestino": 5.1,
-        "Universidad de Concepción": 1.66,
-        "Draw": 2.9
-      },
-      "Coolbet": {
-        "Palestino": 6.0,
-        "Universidad de Concepción": 1.8,
-        "Draw": 3.25
-      },
-      "Winamax (DE)": {
-        "Palestino": 5.4,
-        "Universidad de Concepción": 1.7,
-        "Draw": 3.0
-      },
-      "Nordic Bet": {
-        "Palestino": 5.35,
-        "Universidad de Concepción": 1.68,
-        "Draw": 3.15
-      },
-      "Betsson": {
-        "Palestino": 5.35,
-        "Universidad de Concepción": 1.68,
-        "Draw": 3.15
-      },
-      "Unibet (SE)": {
-        "Palestino": 6.1,
-        "Universidad de Concepción": 1.64,
-        "Draw": 3.05
-      },
-      "LeoVegas (SE)": {
-        "Palestino": 5.8,
-        "Universidad de Concepción": 1.54,
-        "Draw": 2.88
-      },
-      "888sport": {
-        "Palestino": 5.0,
-        "Universidad de Concepción": 1.67,
-        "Draw": 3.0
-      },
-      "Pinnacle": {
-        "Palestino": 5.03,
-        "Universidad de Concepción": 1.81,
-        "Draw": 3.17
-      },
-      "Tipico": {
-        "Palestino": 4.5,
-        "Universidad de Concepción": 1.75,
+        "Asteras Tripolis": 1.9,
+        "Iraklis FC": 4.0,
         "Draw": 3.2
       },
+      "Betsson": {
+        "Asteras Tripolis": 1.9,
+        "Iraklis FC": 4.05,
+        "Draw": 3.25
+      },
+      "Betclic (FR)": {
+        "Asteras Tripolis": 1.85,
+        "Iraklis FC": 4.1,
+        "Draw": 3.18
+      },
+      "Codere (IT)": {
+        "Asteras Tripolis": 1.88,
+        "Iraklis FC": 3.9,
+        "Draw": 3.2
+      },
+      "Winamax (DE)": {
+        "Asteras Tripolis": 1.88,
+        "Iraklis FC": 3.8,
+        "Draw": 3.35
+      },
+      "Suprabets": {
+        "Asteras Tripolis": 1.88,
+        "Iraklis FC": 4.3,
+        "Draw": 3.2
+      },
+      "888sport": {
+        "Asteras Tripolis": 2.0,
+        "Iraklis FC": 3.5,
+        "Draw": 3.25
+      },
+      "William Hill": {
+        "Asteras Tripolis": 2.0,
+        "Iraklis FC": 3.5,
+        "Draw": 3.25
+      },
+      "PMU (FR)": {
+        "Asteras Tripolis": 1.83,
+        "Iraklis FC": 3.4,
+        "Draw": 3.05
+      },
+      "Unibet (NL)": {
+        "Asteras Tripolis": 1.97,
+        "Iraklis FC": 3.75,
+        "Draw": 3.3
+      },
+      "Unibet (SE)": {
+        "Asteras Tripolis": 1.97,
+        "Iraklis FC": 3.75,
+        "Draw": 3.3
+      },
+      "LeoVegas (SE)": {
+        "Asteras Tripolis": 1.88,
+        "Iraklis FC": 3.5,
+        "Draw": 3.15
+      },
+      "Tipico": {
+        "Asteras Tripolis": 1.83,
+        "Iraklis FC": 4.2,
+        "Draw": 3.3
+      },
+      "1xBet": {
+        "Asteras Tripolis": 1.91,
+        "Iraklis FC": 4.18,
+        "Draw": 3.3
+      },
+      "Unibet (FR)": {
+        "Asteras Tripolis": 1.81,
+        "Iraklis FC": 3.85,
+        "Draw": 3.15
+      },
       "Betfair": {
-        "Palestino": 6.2,
-        "Universidad de Concepción": 1.8,
+        "Asteras Tripolis": 1.97,
+        "Iraklis FC": 4.6,
+        "Draw": 3.4
+      },
+      "Pinnacle": {
+        "Asteras Tripolis": 1.93,
+        "Iraklis FC": 4.48,
+        "Draw": 3.34
+      }
+    },
+    "3d328d124331214f82a18cfcff9ab796:h2h": {
+      "Unibet (SE)": {
+        "Al-Khaleej": 2.06,
+        "Al-Riyadh": 3.05,
+        "Draw": 3.4
+      },
+      "PMU (FR)": {
+        "Al-Khaleej": 1.94,
+        "Al-Riyadh": 2.9,
+        "Draw": 3.2
+      },
+      "LeoVegas (SE)": {
+        "Al-Khaleej": 2.02,
+        "Al-Riyadh": 3.0,
+        "Draw": 3.3
+      },
+      "Unibet (NL)": {
+        "Al-Khaleej": 2.06,
+        "Al-Riyadh": 3.05,
+        "Draw": 3.4
+      },
+      "Unibet (FR)": {
+        "Al-Khaleej": 2.05,
+        "Al-Riyadh": 2.9,
+        "Draw": 3.4
+      },
+      "Winamax (FR)": {
+        "Al-Khaleej": 2.05,
+        "Al-Riyadh": 2.75,
+        "Draw": 3.35
+      },
+      "Winamax (DE)": {
+        "Al-Khaleej": 2.1,
+        "Al-Riyadh": 2.85,
+        "Draw": 3.5
+      },
+      "Pinnacle": {
+        "Al-Khaleej": 2.26,
+        "Al-Riyadh": 2.98,
+        "Draw": 3.68
+      },
+      "Betclic (FR)": {
+        "Al-Khaleej": 2.23,
+        "Al-Riyadh": 2.9,
+        "Draw": 3.5
+      },
+      "1xBet": {
+        "Al-Khaleej": 2.22,
+        "Al-Riyadh": 2.95,
+        "Draw": 3.57
+      },
+      "888sport": {
+        "Al-Khaleej": 2.15,
+        "Al-Riyadh": 2.8,
+        "Draw": 3.3
+      },
+      "William Hill": {
+        "Al-Khaleej": 2.15,
+        "Al-Riyadh": 2.8,
+        "Draw": 3.3
+      },
+      "Betfair": {
+        "Al-Khaleej": 2.3,
+        "Al-Riyadh": 3.1,
+        "Draw": 3.65
+      },
+      "Tipico": {
+        "Al-Khaleej": 2.15,
+        "Al-Riyadh": 2.95,
+        "Draw": 3.5
+      }
+    },
+    "8bd672466b9fd356dec446b8081536af:h2h": {
+      "Tipico": {
+        "Eintracht Frankfurt": 1.62,
+        "Union Berlin": 4.4,
+        "Draw": 3.8
+      },
+      "Pinnacle": {
+        "Eintracht Frankfurt": 1.69,
+        "Union Berlin": 3.95,
+        "Draw": 4.04
+      },
+      "1xBet": {
+        "Eintracht Frankfurt": 1.64,
+        "Union Berlin": 4.16,
+        "Draw": 4.0
+      },
+      "William Hill": {
+        "Eintracht Frankfurt": 1.67,
+        "Union Berlin": 3.9,
+        "Draw": 3.6
+      },
+      "888sport": {
+        "Eintracht Frankfurt": 1.67,
+        "Union Berlin": 3.9,
+        "Draw": 3.6
+      },
+      "Unibet (SE)": {
+        "Eintracht Frankfurt": 1.66,
+        "Union Berlin": 3.85,
+        "Draw": 3.85
+      },
+      "LeoVegas (SE)": {
+        "Eintracht Frankfurt": 1.66,
+        "Union Berlin": 3.85,
+        "Draw": 3.85
+      }
+    },
+    "1ae7a0ce80c36c6edd1e38ba64eb1ecd:h2h": {
+      "LeoVegas (SE)": {
+        "Wieczysta Kraków": 1.8,
+        "Zagłębie Lubin": 3.45,
+        "Draw": 3.5
+      },
+      "PMU (FR)": {
+        "Wieczysta Kraków": 1.8,
+        "Zagłębie Lubin": 3.45,
+        "Draw": 3.5
+      },
+      "Unibet (NL)": {
+        "Wieczysta Kraków": 1.89,
+        "Zagłębie Lubin": 3.7,
+        "Draw": 3.75
+      },
+      "Unibet (SE)": {
+        "Wieczysta Kraków": 1.89,
+        "Zagłębie Lubin": 3.7,
+        "Draw": 3.75
+      },
+      "Unibet (FR)": {
+        "Wieczysta Kraków": 1.92,
+        "Zagłębie Lubin": 3.3,
+        "Draw": 3.4
+      },
+      "Nordic Bet": {
+        "Wieczysta Kraków": 1.98,
+        "Zagłębie Lubin": 3.35,
         "Draw": 3.45
       },
-      "Matchbook": {
-        "Palestino": 6.4,
-        "Universidad de Concepción": 1.79,
+      "Betsson": {
+        "Wieczysta Kraków": 1.98,
+        "Zagłębie Lubin": 3.35,
+        "Draw": 3.45
+      },
+      "Betclic (FR)": {
+        "Wieczysta Kraków": 1.83,
+        "Zagłębie Lubin": 3.27,
+        "Draw": 3.45
+      },
+      "Winamax (DE)": {
+        "Wieczysta Kraków": 1.96,
+        "Zagłębie Lubin": 3.25,
+        "Draw": 3.6
+      },
+      "1xBet": {
+        "Wieczysta Kraków": 1.95,
+        "Zagłębie Lubin": 3.52,
+        "Draw": 3.62
+      },
+      "Coolbet": {
+        "Wieczysta Kraków": 1.95,
+        "Zagłębie Lubin": 3.75,
+        "Draw": 3.75
+      },
+      "Pinnacle": {
+        "Wieczysta Kraków": 2.01,
+        "Zagłębie Lubin": 3.63,
+        "Draw": 3.73
+      },
+      "Marathon Bet": {
+        "Wieczysta Kraków": 1.93,
+        "Zagłębie Lubin": 3.58,
+        "Draw": 3.58
+      },
+      "BetOnline.ag": {
+        "Wieczysta Kraków": 1.99,
+        "Zagłębie Lubin": 3.55,
+        "Draw": 3.6
+      },
+      "888sport": {
+        "Wieczysta Kraków": 1.95,
+        "Zagłębie Lubin": 3.4,
         "Draw": 3.4
+      },
+      "Tipico": {
+        "Wieczysta Kraków": 1.9,
+        "Zagłębie Lubin": 3.5,
+        "Draw": 3.6
+      },
+      "Codere (IT)": {
+        "Wieczysta Kraków": 1.98,
+        "Zagłębie Lubin": 3.35,
+        "Draw": 3.5
+      },
+      "Betfair": {
+        "Wieczysta Kraków": 2.06,
+        "Zagłębie Lubin": 3.65,
+        "Draw": 3.75
+      },
+      "Matchbook": {
+        "Wieczysta Kraków": 2.08,
+        "Zagłębie Lubin": 3.7,
+        "Draw": 3.75
       }
     }
   },
@@ -4925,34 +4975,5 @@
     }
   ],
   "results_history": [],
-  "value_alerted": [
-    "3555347eb9bf73f4ab5ef71729521d25:h2h|Betfair|Palestino",
-    "3555347eb9bf73f4ab5ef71729521d25:h2h|Coolbet|Palestino",
-    "3555347eb9bf73f4ab5ef71729521d25:h2h|LeoVegas (SE)|Palestino",
-    "3555347eb9bf73f4ab5ef71729521d25:h2h|Matchbook|Palestino",
-    "3555347eb9bf73f4ab5ef71729521d25:h2h|Unibet (SE)|Palestino",
-    "cc042e2a992e22d5b7d031a8aee592c3:h2h|Unibet (SE)|Corinthians",
-    "d600c094ed98f689d8a0706cb5ea7670:h2h|888sport|América",
-    "d600c094ed98f689d8a0706cb5ea7670:h2h|888sport|León",
-    "d600c094ed98f689d8a0706cb5ea7670:h2h|Betfair|América",
-    "d600c094ed98f689d8a0706cb5ea7670:h2h|Betfair|León",
-    "d600c094ed98f689d8a0706cb5ea7670:h2h|Betsson|América",
-    "d600c094ed98f689d8a0706cb5ea7670:h2h|Betsson|León",
-    "d600c094ed98f689d8a0706cb5ea7670:h2h|Coolbet|América",
-    "d600c094ed98f689d8a0706cb5ea7670:h2h|Coolbet|León",
-    "d600c094ed98f689d8a0706cb5ea7670:h2h|LeoVegas (SE)|América",
-    "d600c094ed98f689d8a0706cb5ea7670:h2h|LeoVegas (SE)|León",
-    "d600c094ed98f689d8a0706cb5ea7670:h2h|Nordic Bet|América",
-    "d600c094ed98f689d8a0706cb5ea7670:h2h|Nordic Bet|León",
-    "d600c094ed98f689d8a0706cb5ea7670:h2h|PMU (FR)|América",
-    "d600c094ed98f689d8a0706cb5ea7670:h2h|PMU (FR)|León",
-    "d600c094ed98f689d8a0706cb5ea7670:h2h|Unibet (NL)|América",
-    "d600c094ed98f689d8a0706cb5ea7670:h2h|Unibet (NL)|León",
-    "d600c094ed98f689d8a0706cb5ea7670:h2h|Unibet (SE)|América",
-    "d600c094ed98f689d8a0706cb5ea7670:h2h|Unibet (SE)|León",
-    "d600c094ed98f689d8a0706cb5ea7670:h2h|Winamax (DE)|América",
-    "d600c094ed98f689d8a0706cb5ea7670:h2h|Winamax (DE)|León",
-    "d600c094ed98f689d8a0706cb5ea7670:h2h|Winamax (FR)|América",
-    "d600c094ed98f689d8a0706cb5ea7670:h2h|Winamax (FR)|León"
-  ]
+  "value_alerted": []
 }
