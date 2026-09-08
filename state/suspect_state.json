@@ -1,341 +1,371 @@
 {
   "snapshots": {
-    "c1110c2e05997c856ad2975262598499:h2h": {
-      "Unibet (SE)": {
-        "Argentinos Juniors": 2.48,
-        "Barracas Central": 4.5,
-        "Draw": 2.2
-      },
-      "LeoVegas (SE)": {
-        "Argentinos Juniors": 2.35,
-        "Barracas Central": 4.2,
-        "Draw": 2.08
-      },
-      "Nordic Bet": {
-        "Argentinos Juniors": 2.45,
-        "Barracas Central": 4.85,
-        "Draw": 2.05
-      },
-      "Betsson": {
-        "Argentinos Juniors": 2.45,
-        "Barracas Central": 4.85,
-        "Draw": 2.05
-      },
-      "Betclic (FR)": {
-        "Argentinos Juniors": 2.38,
-        "Barracas Central": 4.7,
-        "Draw": 2.08
-      },
-      "Winamax (DE)": {
-        "Argentinos Juniors": 2.4,
-        "Barracas Central": 4.7,
-        "Draw": 2.05
-      },
-      "Winamax (FR)": {
-        "Argentinos Juniors": 2.35,
-        "Barracas Central": 4.5,
-        "Draw": 2.0
-      },
-      "Pinnacle": {
-        "Argentinos Juniors": 2.14,
-        "Barracas Central": 5.14,
-        "Draw": 2.51
-      },
-      "Betfair": {
-        "Argentinos Juniors": 2.68,
-        "Barracas Central": 5.5,
-        "Draw": 2.22
-      }
-    },
-    "bb862f7906d0537da73a0a3f5a2575e1:h2h": {
-      "Coolbet": {
-        "Cobresal": 5.45,
-        "Deportes Limache": 1.55,
-        "Draw": 4.7
-      },
-      "Winamax (FR)": {
-        "Cobresal": 5.0,
-        "Deportes Limache": 1.42,
-        "Draw": 4.7
-      },
-      "Winamax (DE)": {
-        "Cobresal": 5.1,
-        "Deportes Limache": 1.44,
-        "Draw": 4.8
-      },
-      "1xBet": {
-        "Cobresal": 5.59,
-        "Deportes Limache": 1.43,
-        "Draw": 4.5
-      },
-      "GTbets": {
-        "Cobresal": 5.4,
-        "Deportes Limache": 1.52,
-        "Draw": 4.63
-      },
-      "Unibet (SE)": {
-        "Cobresal": 4.9,
-        "Deportes Limache": 1.57,
-        "Draw": 4.25
-      },
-      "LeoVegas (SE)": {
-        "Cobresal": 4.9,
-        "Deportes Limache": 1.57,
-        "Draw": 4.25
-      },
-      "Betsson": {
-        "Cobresal": 5.9,
-        "Deportes Limache": 1.48,
-        "Draw": 4.3
-      },
-      "Nordic Bet": {
-        "Cobresal": 5.9,
-        "Deportes Limache": 1.48,
-        "Draw": 4.3
-      },
-      "Marathon Bet": {
-        "Cobresal": 5.5,
-        "Deportes Limache": 1.47,
-        "Draw": 4.6
-      },
-      "Unibet (FR)": {
-        "Cobresal": 5.1,
-        "Deportes Limache": 1.39,
-        "Draw": 4.45
-      },
-      "BetOnline.ag": {
-        "Cobresal": 5.5,
-        "Deportes Limache": 1.48,
-        "Draw": 4.7
-      },
-      "888sport": {
-        "Cobresal": 5.0,
-        "Deportes Limache": 1.44,
-        "Draw": 4.2
-      },
-      "Codere (IT)": {
-        "Cobresal": 5.4,
-        "Deportes Limache": 1.45,
-        "Draw": 4.7
-      },
-      "Pinnacle": {
-        "Cobresal": 5.83,
-        "Deportes Limache": 1.5,
-        "Draw": 4.89
-      },
-      "Tipico": {
-        "Cobresal": 5.5,
-        "Deportes Limache": 1.4,
-        "Draw": 4.7
-      },
-      "BetAnything": {
-        "Cobresal": 5.4,
-        "Deportes Limache": 1.46,
-        "Draw": 4.6
-      },
-      "Betfair": {
-        "Cobresal": 6.2,
-        "Deportes Limache": 1.53,
-        "Draw": 5.1
-      },
-      "Matchbook": {
-        "Cobresal": 6.2,
-        "Deportes Limache": 1.54,
-        "Draw": 5.1
-      }
-    },
-    "70e412c6982109730852f119d6bb44a4:h2h": {
-      "Coolbet": {
-        "Grêmio": 3.55,
-        "Vitoria": 2.2,
-        "Draw": 3.15
-      },
-      "Unibet (FR)": {
-        "Grêmio": 3.2,
-        "Vitoria": 2.0,
-        "Draw": 3.1
-      },
-      "Codere (IT)": {
-        "Grêmio": 3.45,
-        "Vitoria": 2.15,
-        "Draw": 3.3
-      },
-      "Winamax (FR)": {
-        "Grêmio": 3.2,
-        "Vitoria": 2.0,
-        "Draw": 3.2
-      },
-      "1xBet": {
-        "Grêmio": 3.47,
-        "Vitoria": 2.25,
-        "Draw": 3.37
-      },
-      "Winamax (DE)": {
-        "Grêmio": 3.25,
-        "Vitoria": 2.05,
+    "0c711921c25528bfd3cbb79ae97d3064:h2h": {
+      "Unibet (NL)": {
+        "Bucheon FC 1995": 4.4,
+        "Incheon United": 1.7,
         "Draw": 3.25
       },
-      "888sport": {
-        "Grêmio": 3.3,
-        "Vitoria": 2.15,
-        "Draw": 3.1
-      },
-      "Betclic (FR)": {
-        "Grêmio": 3.3,
-        "Vitoria": 2.03,
-        "Draw": 3.15
-      },
-      "William Hill": {
-        "Grêmio": 3.3,
-        "Vitoria": 2.15,
-        "Draw": 3.1
-      },
-      "Nordic Bet": {
-        "Grêmio": 3.35,
-        "Vitoria": 2.15,
-        "Draw": 3.15
-      },
-      "Betsson": {
-        "Grêmio": 3.35,
-        "Vitoria": 2.15,
-        "Draw": 3.15
-      },
-      "Betfair": {
-        "Grêmio": 3.8,
-        "Vitoria": 2.24,
-        "Draw": 3.35
-      },
-      "Marathon Bet": {
-        "Grêmio": 3.4,
-        "Vitoria": 2.09,
-        "Draw": 3.34
+      "Unibet (SE)": {
+        "Bucheon FC 1995": 4.4,
+        "Incheon United": 1.7,
+        "Draw": 3.25
       },
       "PMU (FR)": {
-        "Grêmio": 3.2,
-        "Vitoria": 2.14,
-        "Draw": 3.05
-      },
-      "Unibet (NL)": {
-        "Grêmio": 3.35,
-        "Vitoria": 2.2,
+        "Bucheon FC 1995": 4.25,
+        "Incheon United": 1.64,
         "Draw": 3.15
       },
       "LeoVegas (SE)": {
-        "Grêmio": 3.2,
-        "Vitoria": 2.14,
-        "Draw": 3.05
-      },
-      "Unibet (SE)": {
-        "Grêmio": 3.35,
-        "Vitoria": 2.2,
-        "Draw": 3.15
-      },
-      "Pinnacle": {
-        "Grêmio": 3.57,
-        "Vitoria": 2.21,
-        "Draw": 3.32
-      },
-      "Tipico": {
-        "Grêmio": 3.5,
-        "Vitoria": 2.05,
-        "Draw": 3.2
-      },
-      "Matchbook": {
-        "Grêmio": 3.8,
-        "Vitoria": 2.26,
-        "Draw": 3.35
-      },
-      "GTbets": {
-        "Grêmio": 3.38,
-        "Vitoria": 2.19,
-        "Draw": 3.33
-      },
-      "BetOnline.ag": {
-        "Grêmio": 3.64,
-        "Vitoria": 2.16,
-        "Draw": 3.37
-      },
-      "BetAnything": {
-        "Grêmio": 3.5,
-        "Vitoria": 2.1,
-        "Draw": 3.2
-      }
-    },
-    "5e7d483fb0216cd5edb1664b44acf8ad:h2h": {
-      "Unibet (SE)": {
-        "Instituto de Córdoba": 2.65,
-        "Union Santa Fe": 2.75,
-        "Draw": 3.05
-      },
-      "LeoVegas (SE)": {
-        "Instituto de Córdoba": 2.5,
-        "Union Santa Fe": 2.55,
-        "Draw": 2.85
-      },
-      "1xBet": {
-        "Instituto de Córdoba": 2.6,
-        "Union Santa Fe": 3.04,
-        "Draw": 2.96
-      },
-      "Nordic Bet": {
-        "Instituto de Córdoba": 2.55,
-        "Union Santa Fe": 2.95,
-        "Draw": 3.0
-      },
-      "Betsson": {
-        "Instituto de Córdoba": 2.55,
-        "Union Santa Fe": 2.95,
-        "Draw": 3.0
+        "Bucheon FC 1995": 4.35,
+        "Incheon United": 1.7,
+        "Draw": 3.25
       },
       "Unibet (FR)": {
-        "Instituto de Córdoba": 2.3,
-        "Union Santa Fe": 2.95,
-        "Draw": 2.8
+        "Bucheon FC 1995": 4.3,
+        "Incheon United": 1.7,
+        "Draw": 3.3
       },
-      "Winamax (FR)": {
-        "Instituto de Córdoba": 2.4,
-        "Union Santa Fe": 2.85,
-        "Draw": 2.85
+      "Nordic Bet": {
+        "Bucheon FC 1995": 4.3,
+        "Incheon United": 1.75,
+        "Draw": 3.35
+      },
+      "Betsson": {
+        "Bucheon FC 1995": 4.3,
+        "Incheon United": 1.75,
+        "Draw": 3.35
       },
       "Betclic (FR)": {
-        "Instituto de Córdoba": 2.42,
-        "Union Santa Fe": 2.97,
-        "Draw": 2.85
-      },
-      "Winamax (DE)": {
-        "Instituto de Córdoba": 2.4,
-        "Union Santa Fe": 2.9,
-        "Draw": 2.9
-      },
-      "Pinnacle": {
-        "Instituto de Córdoba": 2.65,
-        "Union Santa Fe": 3.12,
-        "Draw": 2.99
+        "Bucheon FC 1995": 4.4,
+        "Incheon United": 1.73,
+        "Draw": 3.38
       },
       "BetOnline.ag": {
-        "Instituto de Córdoba": 2.65,
-        "Union Santa Fe": 3.06,
-        "Draw": 3.02
+        "Bucheon FC 1995": 4.7,
+        "Incheon United": 1.81,
+        "Draw": 3.45
+      },
+      "Coolbet": {
+        "Bucheon FC 1995": 4.75,
+        "Incheon United": 1.78,
+        "Draw": 3.5
+      },
+      "Pinnacle": {
+        "Bucheon FC 1995": 4.79,
+        "Incheon United": 1.83,
+        "Draw": 3.57
+      },
+      "1xBet": {
+        "Bucheon FC 1995": 4.52,
+        "Incheon United": 1.79,
+        "Draw": 3.48
+      },
+      "Tipico": {
+        "Bucheon FC 1995": 4.7,
+        "Incheon United": 1.72,
+        "Draw": 3.4
       },
       "Marathon Bet": {
-        "Instituto de Córdoba": 2.55,
-        "Union Santa Fe": 2.98,
-        "Draw": 2.9
+        "Bucheon FC 1995": 4.55,
+        "Incheon United": 1.77,
+        "Draw": 3.48
+      },
+      "Winamax (FR)": {
+        "Bucheon FC 1995": 4.1,
+        "Incheon United": 1.72,
+        "Draw": 3.4
+      },
+      "Winamax (DE)": {
+        "Bucheon FC 1995": 4.2,
+        "Incheon United": 1.74,
+        "Draw": 3.5
+      },
+      "William Hill": {
+        "Bucheon FC 1995": 4.33,
+        "Incheon United": 1.8,
+        "Draw": 3.3
       },
       "Betfair": {
-        "Instituto de Córdoba": 2.74,
-        "Union Santa Fe": 3.15,
-        "Draw": 3.05
+        "Bucheon FC 1995": 4.9,
+        "Incheon United": 1.86,
+        "Draw": 3.6
       },
-      "Codere (IT)": {
-        "Instituto de Córdoba": 2.55,
-        "Union Santa Fe": 3.05,
-        "Draw": 2.95
+      "Matchbook": {
+        "Bucheon FC 1995": 4.9,
+        "Incheon United": 1.86,
+        "Draw": 3.6
+      }
+    },
+    "23178b72b3d592e62058006e6a56060f:h2h": {
+      "Unibet (NL)": {
+        "FC Seoul": 2.1,
+        "Ulsan Hyundai FC": 2.9,
+        "Draw": 3.3
       },
-      "BetAnything": {
-        "Instituto de Córdoba": 2.55,
-        "Union Santa Fe": 3.05,
-        "Draw": 2.95
+      "Unibet (SE)": {
+        "FC Seoul": 2.1,
+        "Ulsan Hyundai FC": 2.9,
+        "Draw": 3.3
+      },
+      "PMU (FR)": {
+        "FC Seoul": 2.02,
+        "Ulsan Hyundai FC": 2.8,
+        "Draw": 3.2
+      },
+      "LeoVegas (SE)": {
+        "FC Seoul": 2.08,
+        "Ulsan Hyundai FC": 2.88,
+        "Draw": 3.3
+      },
+      "Unibet (FR)": {
+        "FC Seoul": 1.94,
+        "Ulsan Hyundai FC": 3.2,
+        "Draw": 3.4
+      },
+      "Nordic Bet": {
+        "FC Seoul": 2.0,
+        "Ulsan Hyundai FC": 3.25,
+        "Draw": 3.35
+      },
+      "Betsson": {
+        "FC Seoul": 2.0,
+        "Ulsan Hyundai FC": 3.25,
+        "Draw": 3.35
+      },
+      "Betclic (FR)": {
+        "FC Seoul": 1.94,
+        "Ulsan Hyundai FC": 3.38,
+        "Draw": 3.47
+      },
+      "BetOnline.ag": {
+        "FC Seoul": 2.02,
+        "Ulsan Hyundai FC": 3.55,
+        "Draw": 3.55
+      },
+      "Coolbet": {
+        "FC Seoul": 2.05,
+        "Ulsan Hyundai FC": 3.3,
+        "Draw": 3.75
+      },
+      "Pinnacle": {
+        "FC Seoul": 2.1,
+        "Ulsan Hyundai FC": 3.58,
+        "Draw": 3.59
+      },
+      "1xBet": {
+        "FC Seoul": 2.06,
+        "Ulsan Hyundai FC": 3.44,
+        "Draw": 3.44
+      },
+      "Tipico": {
+        "FC Seoul": 1.9,
+        "Ulsan Hyundai FC": 3.5,
+        "Draw": 3.6
+      },
+      "Marathon Bet": {
+        "FC Seoul": 2.06,
+        "Ulsan Hyundai FC": 3.42,
+        "Draw": 3.42
+      },
+      "Winamax (FR)": {
+        "FC Seoul": 1.96,
+        "Ulsan Hyundai FC": 3.15,
+        "Draw": 3.5
+      },
+      "Winamax (DE)": {
+        "FC Seoul": 1.94,
+        "Ulsan Hyundai FC": 3.3,
+        "Draw": 3.55
+      },
+      "William Hill": {
+        "FC Seoul": 2.0,
+        "Ulsan Hyundai FC": 3.3,
+        "Draw": 3.4
+      },
+      "Betfair": {
+        "FC Seoul": 2.1,
+        "Ulsan Hyundai FC": 3.6,
+        "Draw": 3.75
+      },
+      "Matchbook": {
+        "FC Seoul": 2.12,
+        "Ulsan Hyundai FC": 3.6,
+        "Draw": 3.8
+      }
+    },
+    "742364e7cc73b53729dbd089be36770e:h2h": {
+      "Pinnacle": {
+        "AC Oulu": 3.69,
+        "VPS Vaasa": 2.09,
+        "Draw": 3.52
+      },
+      "Marathon Bet": {
+        "AC Oulu": 3.52,
+        "VPS Vaasa": 2.04,
+        "Draw": 3.36
+      },
+      "1xBet": {
+        "AC Oulu": 3.52,
+        "VPS Vaasa": 2.06,
+        "Draw": 3.36
+      },
+      "GTbets": {
+        "AC Oulu": 3.44,
+        "VPS Vaasa": 2.12,
+        "Draw": 3.34
+      },
+      "BetOnline.ag": {
+        "AC Oulu": 3.6,
+        "VPS Vaasa": 2.08,
+        "Draw": 3.4
+      },
+      "Unibet (FR)": {
+        "AC Oulu": 3.3,
+        "VPS Vaasa": 1.98,
+        "Draw": 3.2
+      },
+      "LeoVegas (SE)": {
+        "AC Oulu": 3.15,
+        "VPS Vaasa": 1.97,
+        "Draw": 3.3
+      },
+      "Unibet (NL)": {
+        "AC Oulu": 3.25,
+        "VPS Vaasa": 2.02,
+        "Draw": 3.4
+      },
+      "Unibet (SE)": {
+        "AC Oulu": 3.25,
+        "VPS Vaasa": 2.02,
+        "Draw": 3.4
+      },
+      "PMU (FR)": {
+        "AC Oulu": 3.05,
+        "VPS Vaasa": 1.89,
+        "Draw": 3.2
+      },
+      "Betfair": {
+        "AC Oulu": 3.8,
+        "VPS Vaasa": 2.14,
+        "Draw": 3.5
+      },
+      "888sport": {
+        "AC Oulu": 3.4,
+        "VPS Vaasa": 2.0,
+        "Draw": 3.25
+      },
+      "William Hill": {
+        "AC Oulu": 3.4,
+        "VPS Vaasa": 2.0,
+        "Draw": 3.25
+      },
+      "Coolbet": {
+        "AC Oulu": 3.65,
+        "VPS Vaasa": 2.05,
+        "Draw": 3.6
+      },
+      "Betsson": {
+        "AC Oulu": 3.45,
+        "VPS Vaasa": 2.08,
+        "Draw": 3.3
+      },
+      "Nordic Bet": {
+        "AC Oulu": 3.45,
+        "VPS Vaasa": 2.08,
+        "Draw": 3.3
+      },
+      "Matchbook": {
+        "AC Oulu": 3.8,
+        "VPS Vaasa": 2.14,
+        "Draw": 3.55
+      }
+    },
+    "045a6de1bc559812484922455ff65f3a:h2h": {
+      "Pinnacle": {
+        "FC Lahti": 1.6,
+        "IFK Mariehamn": 5.76,
+        "Draw": 4.21
+      },
+      "1xBet": {
+        "FC Lahti": 1.55,
+        "IFK Mariehamn": 5.68,
+        "Draw": 4.05
+      },
+      "GTbets": {
+        "FC Lahti": 1.57,
+        "IFK Mariehamn": 5.67,
+        "Draw": 4.21
+      },
+      "Marathon Bet": {
+        "FC Lahti": 1.53,
+        "IFK Mariehamn": 5.8,
+        "Draw": 4.05
+      },
+      "BetOnline.ag": {
+        "FC Lahti": 1.56,
+        "IFK Mariehamn": 5.8,
+        "Draw": 4.0
+      },
+      "Unibet (FR)": {
+        "FC Lahti": 1.5,
+        "IFK Mariehamn": 5.1,
+        "Draw": 3.9
+      },
+      "LeoVegas (SE)": {
+        "FC Lahti": 1.56,
+        "IFK Mariehamn": 4.9,
+        "Draw": 3.6
+      },
+      "Unibet (SE)": {
+        "FC Lahti": 1.63,
+        "IFK Mariehamn": 5.2,
+        "Draw": 3.8
+      },
+      "PMU (FR)": {
+        "FC Lahti": 1.5,
+        "IFK Mariehamn": 4.7,
+        "Draw": 3.45
+      },
+      "Unibet (NL)": {
+        "FC Lahti": 1.63,
+        "IFK Mariehamn": 5.2,
+        "Draw": 3.8
+      },
+      "888sport": {
+        "FC Lahti": 1.53,
+        "IFK Mariehamn": 5.5,
+        "Draw": 3.8
+      },
+      "William Hill": {
+        "FC Lahti": 1.55,
+        "IFK Mariehamn": 5.5,
+        "Draw": 3.8
+      },
+      "Betfair": {
+        "FC Lahti": 1.61,
+        "IFK Mariehamn": 6.2,
+        "Draw": 4.3
+      },
+      "Coolbet": {
+        "FC Lahti": 1.62,
+        "IFK Mariehamn": 5.6,
+        "Draw": 4.1
+      },
+      "Betsson": {
+        "FC Lahti": 1.58,
+        "IFK Mariehamn": 5.9,
+        "Draw": 3.6
+      },
+      "Nordic Bet": {
+        "FC Lahti": 1.58,
+        "IFK Mariehamn": 5.9,
+        "Draw": 3.6
+      },
+      "Matchbook": {
+        "FC Lahti": 1.61,
+        "IFK Mariehamn": 6.2,
+        "Draw": 4.3
       }
     }
   },
@@ -5303,11 +5333,5 @@
     }
   ],
   "results_history": [],
-  "value_alerted": [
-    "c1110c2e05997c856ad2975262598499:h2h|Betfair|Argentinos Juniors",
-    "c1110c2e05997c856ad2975262598499:h2h|Betsson|Argentinos Juniors",
-    "c1110c2e05997c856ad2975262598499:h2h|Nordic Bet|Argentinos Juniors",
-    "c1110c2e05997c856ad2975262598499:h2h|Unibet (SE)|Argentinos Juniors",
-    "c1110c2e05997c856ad2975262598499:h2h|Winamax (DE)|Argentinos Juniors"
-  ]
+  "value_alerted": []
 }
