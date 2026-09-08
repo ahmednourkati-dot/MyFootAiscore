@@ -1,231 +1,141 @@
 {
   "snapshots": {
-    "742364e7cc73b53729dbd089be36770e:h2h": {
-      "Pinnacle": {
-        "AC Oulu": 14.21,
-        "VPS Vaasa": 1.34,
-        "Draw": 4.2
+    "e7518aaef1d471231b0eba349a24a966:h2h": {
+      "Betclic (FR)": {
+        "Bolton Wanderers": 100.0,
+        "West Ham United": 1.0,
+        "Draw": 26.0
       },
-      "LeoVegas (SE)": {
-        "AC Oulu": 19.0,
-        "VPS Vaasa": 1.14,
-        "Draw": 4.25
+      "Winamax (DE)": {
+        "Bolton Wanderers": 450.0,
+        "West Ham United": 1.02,
+        "Draw": 14.5
       },
-      "Unibet (NL)": {
-        "AC Oulu": 19.0,
-        "VPS Vaasa": 1.21,
-        "Draw": 4.5
-      },
-      "Unibet (SE)": {
-        "AC Oulu": 19.0,
-        "VPS Vaasa": 1.21,
-        "Draw": 4.5
-      },
-      "PMU (FR)": {
-        "AC Oulu": 19.0,
-        "VPS Vaasa": 1.1,
-        "Draw": 4.1
-      },
-      "Betfair": {
-        "AC Oulu": 29.0,
-        "VPS Vaasa": 1.3,
-        "Draw": 4.9
-      },
-      "888sport": {
-        "AC Oulu": 19.0,
-        "VPS Vaasa": 1.22,
-        "Draw": 4.5
-      },
-      "Coolbet": {
-        "AC Oulu": 28.0,
-        "VPS Vaasa": 1.25,
-        "Draw": 5.0
-      },
-      "Betsson": {
-        "AC Oulu": 21.0,
-        "VPS Vaasa": 1.2,
-        "Draw": 4.6
+      "Winamax (FR)": {
+        "Bolton Wanderers": 600.0,
+        "West Ham United": 1.04,
+        "Draw": 15.0
       },
       "Nordic Bet": {
-        "AC Oulu": 21.0,
-        "VPS Vaasa": 1.2,
-        "Draw": 4.4
+        "Bolton Wanderers": 101.0,
+        "West Ham United": 1.0,
+        "Draw": 15.0
       },
-      "Matchbook": {
-        "AC Oulu": 34.0,
-        "VPS Vaasa": 1.27,
-        "Draw": 5.0
+      "Betsson": {
+        "Bolton Wanderers": 126.0,
+        "West Ham United": 1.0,
+        "Draw": 15.0
+      },
+      "Betfair": {
+        "Bolton Wanderers": 220.0,
+        "West Ham United": 1.06,
+        "Draw": 15.0
+      },
+      "888sport": {
+        "Bolton Wanderers": 151.0,
+        "West Ham United": 1.01,
+        "Draw": 29.0
+      },
+      "Coolbet": {
+        "Bolton Wanderers": 150.0,
+        "West Ham United": 1.01,
+        "Draw": 13.0
       }
     },
-    "045a6de1bc559812484922455ff65f3a:h2h": {
+    "33aa4b8a301a13b229e96901d831fd38:h2h": {
       "Pinnacle": {
-        "FC Lahti": 2.41,
-        "IFK Mariehamn": 5.96,
-        "Draw": 2.07
-      },
-      "LeoVegas (SE)": {
-        "FC Lahti": 2.5,
-        "IFK Mariehamn": 5.8,
-        "Draw": 1.67
-      },
-      "Unibet (SE)": {
-        "FC Lahti": 2.75,
-        "IFK Mariehamn": 6.25,
-        "Draw": 1.73
-      },
-      "PMU (FR)": {
-        "FC Lahti": 2.43,
-        "IFK Mariehamn": 5.6,
-        "Draw": 1.62
-      },
-      "Unibet (NL)": {
-        "FC Lahti": 2.65,
-        "IFK Mariehamn": 6.1,
+        "Borussia Dortmund": 3.17,
+        "Villarreal": 5.78,
         "Draw": 1.78
       },
-      "888sport": {
-        "FC Lahti": 2.75,
-        "IFK Mariehamn": 5.5,
-        "Draw": 1.75
+      "Coolbet": {
+        "Borussia Dortmund": 1.01,
+        "Villarreal": 150.0,
+        "Draw": 22.0
+      },
+      "Winamax (DE)": {
+        "Borussia Dortmund": 1.03,
+        "Villarreal": 800.0,
+        "Draw": 18.0
       },
       "Betfair": {
-        "FC Lahti": 2.98,
-        "IFK Mariehamn": 6.4,
-        "Draw": 1.92
+        "Borussia Dortmund": 1.03,
+        "Villarreal": 1000.0,
+        "Draw": 26.0
       },
-      "Coolbet": {
-        "FC Lahti": 3.0,
-        "IFK Mariehamn": 6.0,
-        "Draw": 1.85
+      "Betclic (FR)": {
+        "Borussia Dortmund": 1.0,
+        "Villarreal": 100.0,
+        "Draw": 20.0
+      },
+      "Winamax (FR)": {
+        "Borussia Dortmund": 1.03,
+        "Villarreal": 800.0,
+        "Draw": 17.0
       },
       "Betsson": {
-        "FC Lahti": 2.85,
-        "IFK Mariehamn": 5.35,
-        "Draw": 1.78
+        "Borussia Dortmund": 1.0,
+        "Villarreal": 67.0,
+        "Draw": 21.0
       },
       "Nordic Bet": {
-        "FC Lahti": 2.78,
-        "IFK Mariehamn": 5.35,
-        "Draw": 1.82
-      },
-      "Matchbook": {
-        "FC Lahti": 3.0,
-        "IFK Mariehamn": 6.8,
-        "Draw": 1.86
+        "Borussia Dortmund": 1.01,
+        "Villarreal": 220.0,
+        "Draw": 15.0
       }
     },
-    "723ccba4a61c5d463c8b0e27cf10f2aa:h2h": {
-      "Pinnacle": {
-        "Ilves Tampere": 3.0,
-        "Jaro": 5.5,
-        "Draw": 1.84
-      },
-      "888sport": {
-        "Ilves Tampere": 1.14,
-        "Jaro": 34.0,
-        "Draw": 5.75
-      },
-      "PMU (FR)": {
-        "Ilves Tampere": 1.04,
-        "Jaro": 25.0,
-        "Draw": 5.1
-      },
-      "Unibet (NL)": {
-        "Ilves Tampere": 1.15,
-        "Jaro": 25.0,
-        "Draw": 5.5
-      },
-      "Unibet (SE)": {
-        "Ilves Tampere": 1.15,
-        "Jaro": 25.0,
-        "Draw": 5.5
-      },
-      "LeoVegas (SE)": {
-        "Ilves Tampere": 1.09,
-        "Jaro": 25.0,
-        "Draw": 5.3
+    "bfeab0a3d8931c7cdff0056c041ff97c:h2h": {
+      "Winamax (DE)": {
+        "Manchester City": 1.06,
+        "Porto": 95.0,
+        "Draw": 10.0
       },
       "Betfair": {
-        "Ilves Tampere": 3.6,
-        "Jaro": 7.4,
-        "Draw": 1.67
+        "Manchester City": 1.09,
+        "Porto": 180.0,
+        "Draw": 11.5
       },
-      "Coolbet": {
-        "Ilves Tampere": 1.16,
-        "Jaro": 33.0,
-        "Draw": 7.0
+      "Betclic (FR)": {
+        "Manchester City": 1.0,
+        "Porto": 250.0,
+        "Draw": 10.0
+      },
+      "888sport": {
+        "Manchester City": 1.05,
+        "Porto": 101.0,
+        "Draw": 12.0
+      },
+      "Winamax (FR)": {
+        "Manchester City": 1.07,
+        "Porto": 110.0,
+        "Draw": 10.0
       },
       "Betsson": {
-        "Ilves Tampere": 1.12,
-        "Jaro": 24.0,
-        "Draw": 6.3
+        "Manchester City": 1.05,
+        "Porto": 65.0,
+        "Draw": 8.2
       },
       "Nordic Bet": {
-        "Ilves Tampere": 1.09,
-        "Jaro": 26.0,
-        "Draw": 6.8
-      },
-      "Matchbook": {
-        "Ilves Tampere": 1.2,
-        "Jaro": 55.0,
-        "Draw": 6.4
+        "Manchester City": 1.04,
+        "Porto": 75.0,
+        "Draw": 8.7
       }
     },
-    "d16ae2ecc21e40c04da8f6f8f28c9257:h2h": {
-      "Pinnacle": {
-        "SJK Seinäjoki": 3.18,
-        "TPS Turku": 4.46,
-        "Draw": 1.93
-      },
-      "Unibet (NL)": {
-        "SJK Seinäjoki": 3.55,
-        "TPS Turku": 4.9,
-        "Draw": 1.61
-      },
-      "LeoVegas (SE)": {
-        "SJK Seinäjoki": 3.4,
-        "TPS Turku": 4.7,
-        "Draw": 1.5
-      },
-      "PMU (FR)": {
-        "SJK Seinäjoki": 3.3,
-        "TPS Turku": 4.5,
-        "Draw": 1.45
-      },
-      "Unibet (SE)": {
-        "SJK Seinäjoki": 3.6,
-        "TPS Turku": 5.1,
-        "Draw": 1.57
-      },
-      "888sport": {
-        "SJK Seinäjoki": 3.75,
-        "TPS Turku": 4.75,
-        "Draw": 1.6
-      },
-      "Coolbet": {
-        "SJK Seinäjoki": 3.8,
-        "TPS Turku": 5.0,
-        "Draw": 1.73
-      },
+    "48871776013e64232ad967270b78707f:h2h": {
       "Betsson": {
-        "SJK Seinäjoki": 3.65,
-        "TPS Turku": 4.85,
-        "Draw": 1.62
+        "Millwall": 67.0,
+        "Newcastle United": 1.0,
+        "Draw": 17.0
       },
       "Nordic Bet": {
-        "SJK Seinäjoki": 3.65,
-        "TPS Turku": 4.6,
-        "Draw": 1.65
+        "Millwall": 1.0,
+        "Newcastle United": 1.0,
+        "Draw": 1.0
       },
       "Betfair": {
-        "SJK Seinäjoki": 3.95,
-        "TPS Turku": 5.2,
-        "Draw": 1.77
-      },
-      "Matchbook": {
-        "SJK Seinäjoki": 4.2,
-        "TPS Turku": 5.6,
-        "Draw": 1.69
+        "Millwall": 1000.0,
+        "Newcastle United": 1.02,
+        "Draw": 34.0
       }
     }
   },
@@ -6390,62 +6300,247 @@
       "confidence": 19,
       "alert_type": "value",
       "alerted_at": "2026-09-08T16:34:37.201791+00:00"
+    },
+    {
+      "state_key": "33aa4b8a301a13b229e96901d831fd38:h2h",
+      "event_id": "33aa4b8a301a13b229e96901d831fd38",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League",
+      "home_team": "Borussia Dortmund",
+      "away_team": "Villarreal",
+      "commence_time": "2026-09-08T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Villarreal",
+      "odds_at_alert": 150.0,
+      "stake_pct": 5.0,
+      "confidence": 2371,
+      "alert_type": "value",
+      "alerted_at": "2026-09-08T21:04:59.338188+00:00"
+    },
+    {
+      "state_key": "33aa4b8a301a13b229e96901d831fd38:h2h",
+      "event_id": "33aa4b8a301a13b229e96901d831fd38",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League",
+      "home_team": "Borussia Dortmund",
+      "away_team": "Villarreal",
+      "commence_time": "2026-09-08T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 22.0,
+      "stake_pct": 5.0,
+      "confidence": 1077,
+      "alert_type": "value",
+      "alerted_at": "2026-09-08T21:04:59.705796+00:00"
+    },
+    {
+      "state_key": "33aa4b8a301a13b229e96901d831fd38:h2h",
+      "event_id": "33aa4b8a301a13b229e96901d831fd38",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League",
+      "home_team": "Borussia Dortmund",
+      "away_team": "Villarreal",
+      "commence_time": "2026-09-08T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Villarreal",
+      "odds_at_alert": 800.0,
+      "stake_pct": 5.0,
+      "confidence": 13078,
+      "alert_type": "value",
+      "alerted_at": "2026-09-08T21:05:00.092051+00:00"
+    },
+    {
+      "state_key": "33aa4b8a301a13b229e96901d831fd38:h2h",
+      "event_id": "33aa4b8a301a13b229e96901d831fd38",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League",
+      "home_team": "Borussia Dortmund",
+      "away_team": "Villarreal",
+      "commence_time": "2026-09-08T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 18.0,
+      "stake_pct": 5.0,
+      "confidence": 863,
+      "alert_type": "value",
+      "alerted_at": "2026-09-08T21:05:00.581809+00:00"
+    },
+    {
+      "state_key": "33aa4b8a301a13b229e96901d831fd38:h2h",
+      "event_id": "33aa4b8a301a13b229e96901d831fd38",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League",
+      "home_team": "Borussia Dortmund",
+      "away_team": "Villarreal",
+      "commence_time": "2026-09-08T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Villarreal",
+      "odds_at_alert": 1000.0,
+      "stake_pct": 5.0,
+      "confidence": 16373,
+      "alert_type": "value",
+      "alerted_at": "2026-09-08T21:05:00.980813+00:00"
+    },
+    {
+      "state_key": "33aa4b8a301a13b229e96901d831fd38:h2h",
+      "event_id": "33aa4b8a301a13b229e96901d831fd38",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League",
+      "home_team": "Borussia Dortmund",
+      "away_team": "Villarreal",
+      "commence_time": "2026-09-08T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 1291,
+      "alert_type": "value",
+      "alerted_at": "2026-09-08T21:05:01.351481+00:00"
+    },
+    {
+      "state_key": "33aa4b8a301a13b229e96901d831fd38:h2h",
+      "event_id": "33aa4b8a301a13b229e96901d831fd38",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League",
+      "home_team": "Borussia Dortmund",
+      "away_team": "Villarreal",
+      "commence_time": "2026-09-08T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Villarreal",
+      "odds_at_alert": 100.0,
+      "stake_pct": 5.0,
+      "confidence": 1547,
+      "alert_type": "value",
+      "alerted_at": "2026-09-08T21:05:01.733847+00:00"
+    },
+    {
+      "state_key": "33aa4b8a301a13b229e96901d831fd38:h2h",
+      "event_id": "33aa4b8a301a13b229e96901d831fd38",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League",
+      "home_team": "Borussia Dortmund",
+      "away_team": "Villarreal",
+      "commence_time": "2026-09-08T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 20.0,
+      "stake_pct": 5.0,
+      "confidence": 970,
+      "alert_type": "value",
+      "alerted_at": "2026-09-08T21:05:02.144713+00:00"
+    },
+    {
+      "state_key": "33aa4b8a301a13b229e96901d831fd38:h2h",
+      "event_id": "33aa4b8a301a13b229e96901d831fd38",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League",
+      "home_team": "Borussia Dortmund",
+      "away_team": "Villarreal",
+      "commence_time": "2026-09-08T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Villarreal",
+      "odds_at_alert": 800.0,
+      "stake_pct": 5.0,
+      "confidence": 13078,
+      "alert_type": "value",
+      "alerted_at": "2026-09-08T21:05:02.511500+00:00"
+    },
+    {
+      "state_key": "33aa4b8a301a13b229e96901d831fd38:h2h",
+      "event_id": "33aa4b8a301a13b229e96901d831fd38",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League",
+      "home_team": "Borussia Dortmund",
+      "away_team": "Villarreal",
+      "commence_time": "2026-09-08T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 809,
+      "alert_type": "value",
+      "alerted_at": "2026-09-08T21:05:02.866369+00:00"
+    },
+    {
+      "state_key": "33aa4b8a301a13b229e96901d831fd38:h2h",
+      "event_id": "33aa4b8a301a13b229e96901d831fd38",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League",
+      "home_team": "Borussia Dortmund",
+      "away_team": "Villarreal",
+      "commence_time": "2026-09-08T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Villarreal",
+      "odds_at_alert": 67.0,
+      "stake_pct": 5.0,
+      "confidence": 1004,
+      "alert_type": "value",
+      "alerted_at": "2026-09-08T21:05:03.257158+00:00"
+    },
+    {
+      "state_key": "33aa4b8a301a13b229e96901d831fd38:h2h",
+      "event_id": "33aa4b8a301a13b229e96901d831fd38",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League",
+      "home_team": "Borussia Dortmund",
+      "away_team": "Villarreal",
+      "commence_time": "2026-09-08T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 21.0,
+      "stake_pct": 5.0,
+      "confidence": 1023,
+      "alert_type": "value",
+      "alerted_at": "2026-09-08T21:05:03.643035+00:00"
+    },
+    {
+      "state_key": "33aa4b8a301a13b229e96901d831fd38:h2h",
+      "event_id": "33aa4b8a301a13b229e96901d831fd38",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League",
+      "home_team": "Borussia Dortmund",
+      "away_team": "Villarreal",
+      "commence_time": "2026-09-08T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Villarreal",
+      "odds_at_alert": 220.0,
+      "stake_pct": 5.0,
+      "confidence": 3524,
+      "alert_type": "value",
+      "alerted_at": "2026-09-08T21:05:04.069118+00:00"
+    },
+    {
+      "state_key": "33aa4b8a301a13b229e96901d831fd38:h2h",
+      "event_id": "33aa4b8a301a13b229e96901d831fd38",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League",
+      "home_team": "Borussia Dortmund",
+      "away_team": "Villarreal",
+      "commence_time": "2026-09-08T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 702,
+      "alert_type": "value",
+      "alerted_at": "2026-09-08T21:05:04.418689+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "045a6de1bc559812484922455ff65f3a:h2h|888sport|FC Lahti",
-    "045a6de1bc559812484922455ff65f3a:h2h|Betfair|FC Lahti",
-    "045a6de1bc559812484922455ff65f3a:h2h|Betsson|FC Lahti",
-    "045a6de1bc559812484922455ff65f3a:h2h|Coolbet|FC Lahti",
-    "045a6de1bc559812484922455ff65f3a:h2h|Matchbook|FC Lahti",
-    "045a6de1bc559812484922455ff65f3a:h2h|Matchbook|IFK Mariehamn",
-    "045a6de1bc559812484922455ff65f3a:h2h|Nordic Bet|FC Lahti",
-    "045a6de1bc559812484922455ff65f3a:h2h|Unibet (SE)|FC Lahti",
-    "723ccba4a61c5d463c8b0e27cf10f2aa:h2h|888sport|Draw",
-    "723ccba4a61c5d463c8b0e27cf10f2aa:h2h|888sport|Jaro",
-    "723ccba4a61c5d463c8b0e27cf10f2aa:h2h|Betfair|Ilves Tampere",
-    "723ccba4a61c5d463c8b0e27cf10f2aa:h2h|Betfair|Jaro",
-    "723ccba4a61c5d463c8b0e27cf10f2aa:h2h|Betsson|Draw",
-    "723ccba4a61c5d463c8b0e27cf10f2aa:h2h|Betsson|Jaro",
-    "723ccba4a61c5d463c8b0e27cf10f2aa:h2h|Coolbet|Draw",
-    "723ccba4a61c5d463c8b0e27cf10f2aa:h2h|Coolbet|Jaro",
-    "723ccba4a61c5d463c8b0e27cf10f2aa:h2h|LeoVegas (SE)|Draw",
-    "723ccba4a61c5d463c8b0e27cf10f2aa:h2h|LeoVegas (SE)|Jaro",
-    "723ccba4a61c5d463c8b0e27cf10f2aa:h2h|Matchbook|Draw",
-    "723ccba4a61c5d463c8b0e27cf10f2aa:h2h|Matchbook|Jaro",
-    "723ccba4a61c5d463c8b0e27cf10f2aa:h2h|Nordic Bet|Draw",
-    "723ccba4a61c5d463c8b0e27cf10f2aa:h2h|Nordic Bet|Jaro",
-    "723ccba4a61c5d463c8b0e27cf10f2aa:h2h|PMU (FR)|Draw",
-    "723ccba4a61c5d463c8b0e27cf10f2aa:h2h|PMU (FR)|Jaro",
-    "723ccba4a61c5d463c8b0e27cf10f2aa:h2h|Unibet (NL)|Draw",
-    "723ccba4a61c5d463c8b0e27cf10f2aa:h2h|Unibet (NL)|Jaro",
-    "723ccba4a61c5d463c8b0e27cf10f2aa:h2h|Unibet (SE)|Draw",
-    "723ccba4a61c5d463c8b0e27cf10f2aa:h2h|Unibet (SE)|Jaro",
-    "742364e7cc73b53729dbd089be36770e:h2h|888sport|AC Oulu",
-    "742364e7cc73b53729dbd089be36770e:h2h|Betfair|AC Oulu",
-    "742364e7cc73b53729dbd089be36770e:h2h|Betfair|Draw",
-    "742364e7cc73b53729dbd089be36770e:h2h|Betsson|AC Oulu",
-    "742364e7cc73b53729dbd089be36770e:h2h|Coolbet|AC Oulu",
-    "742364e7cc73b53729dbd089be36770e:h2h|Coolbet|Draw",
-    "742364e7cc73b53729dbd089be36770e:h2h|LeoVegas (SE)|AC Oulu",
-    "742364e7cc73b53729dbd089be36770e:h2h|Matchbook|AC Oulu",
-    "742364e7cc73b53729dbd089be36770e:h2h|Matchbook|Draw",
-    "742364e7cc73b53729dbd089be36770e:h2h|Nordic Bet|AC Oulu",
-    "742364e7cc73b53729dbd089be36770e:h2h|PMU (FR)|AC Oulu",
-    "742364e7cc73b53729dbd089be36770e:h2h|Unibet (NL)|AC Oulu",
-    "742364e7cc73b53729dbd089be36770e:h2h|Unibet (SE)|AC Oulu",
-    "d16ae2ecc21e40c04da8f6f8f28c9257:h2h|888sport|SJK Seinäjoki",
-    "d16ae2ecc21e40c04da8f6f8f28c9257:h2h|Betfair|SJK Seinäjoki",
-    "d16ae2ecc21e40c04da8f6f8f28c9257:h2h|Betfair|TPS Turku",
-    "d16ae2ecc21e40c04da8f6f8f28c9257:h2h|Betsson|SJK Seinäjoki",
-    "d16ae2ecc21e40c04da8f6f8f28c9257:h2h|Coolbet|SJK Seinäjoki",
-    "d16ae2ecc21e40c04da8f6f8f28c9257:h2h|Coolbet|TPS Turku",
-    "d16ae2ecc21e40c04da8f6f8f28c9257:h2h|Matchbook|SJK Seinäjoki",
-    "d16ae2ecc21e40c04da8f6f8f28c9257:h2h|Matchbook|TPS Turku",
-    "d16ae2ecc21e40c04da8f6f8f28c9257:h2h|Nordic Bet|SJK Seinäjoki",
-    "d16ae2ecc21e40c04da8f6f8f28c9257:h2h|Unibet (NL)|SJK Seinäjoki",
-    "d16ae2ecc21e40c04da8f6f8f28c9257:h2h|Unibet (SE)|SJK Seinäjoki",
-    "d16ae2ecc21e40c04da8f6f8f28c9257:h2h|Unibet (SE)|TPS Turku"
+    "33aa4b8a301a13b229e96901d831fd38:h2h|Betclic (FR)|Draw",
+    "33aa4b8a301a13b229e96901d831fd38:h2h|Betclic (FR)|Villarreal",
+    "33aa4b8a301a13b229e96901d831fd38:h2h|Betfair|Draw",
+    "33aa4b8a301a13b229e96901d831fd38:h2h|Betfair|Villarreal",
+    "33aa4b8a301a13b229e96901d831fd38:h2h|Betsson|Draw",
+    "33aa4b8a301a13b229e96901d831fd38:h2h|Betsson|Villarreal",
+    "33aa4b8a301a13b229e96901d831fd38:h2h|Coolbet|Draw",
+    "33aa4b8a301a13b229e96901d831fd38:h2h|Coolbet|Villarreal",
+    "33aa4b8a301a13b229e96901d831fd38:h2h|Nordic Bet|Draw",
+    "33aa4b8a301a13b229e96901d831fd38:h2h|Nordic Bet|Villarreal",
+    "33aa4b8a301a13b229e96901d831fd38:h2h|Winamax (DE)|Draw",
+    "33aa4b8a301a13b229e96901d831fd38:h2h|Winamax (DE)|Villarreal",
+    "33aa4b8a301a13b229e96901d831fd38:h2h|Winamax (FR)|Draw",
+    "33aa4b8a301a13b229e96901d831fd38:h2h|Winamax (FR)|Villarreal"
   ]
 }
