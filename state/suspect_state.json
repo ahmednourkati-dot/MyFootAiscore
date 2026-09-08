@@ -1,321 +1,231 @@
 {
   "snapshots": {
-    "0c711921c25528bfd3cbb79ae97d3064:h2h": {
-      "Unibet (NL)": {
-        "Bucheon FC 1995": 1.76,
-        "Incheon United": 5.0,
-        "Draw": 3.0
-      },
-      "Unibet (SE)": {
-        "Bucheon FC 1995": 1.74,
-        "Incheon United": 5.0,
-        "Draw": 3.0
-      },
-      "PMU (FR)": {
-        "Bucheon FC 1995": 1.57,
-        "Incheon United": 4.6,
-        "Draw": 2.75
-      },
-      "LeoVegas (SE)": {
-        "Bucheon FC 1995": 1.62,
-        "Incheon United": 4.75,
-        "Draw": 2.85
-      },
-      "Nordic Bet": {
-        "Bucheon FC 1995": 1.92,
-        "Incheon United": 4.4,
-        "Draw": 2.92
-      },
-      "Betsson": {
-        "Bucheon FC 1995": 1.92,
-        "Incheon United": 4.4,
-        "Draw": 2.92
-      },
-      "Betclic (FR)": {
-        "Bucheon FC 1995": 1.83,
-        "Incheon United": 4.2,
-        "Draw": 3.1
-      },
-      "Coolbet": {
-        "Bucheon FC 1995": 1.91,
-        "Incheon United": 4.5,
-        "Draw": 3.0
-      },
-      "Pinnacle": {
-        "Bucheon FC 1995": 3.9,
-        "Incheon United": 2.37,
-        "Draw": 2.63
-      },
-      "Tipico": {
-        "Bucheon FC 1995": 1.75,
-        "Incheon United": 4.7,
-        "Draw": 3.2
-      },
-      "Winamax (FR)": {
-        "Bucheon FC 1995": 1.78,
-        "Incheon United": 4.1,
-        "Draw": 2.95
-      },
-      "Winamax (DE)": {
-        "Bucheon FC 1995": 1.84,
-        "Incheon United": 4.3,
-        "Draw": 3.05
-      },
-      "Betfair": {
-        "Bucheon FC 1995": 2.0,
-        "Incheon United": 4.9,
-        "Draw": 3.2
-      },
-      "Matchbook": {
-        "Bucheon FC 1995": 1.96,
-        "Incheon United": 5.1,
-        "Draw": 3.2
-      }
-    },
-    "23178b72b3d592e62058006e6a56060f:h2h": {
-      "Unibet (NL)": {
-        "FC Seoul": 2.3,
-        "Ulsan Hyundai FC": 3.3,
-        "Draw": 2.7
-      },
-      "Unibet (SE)": {
-        "FC Seoul": 2.3,
-        "Ulsan Hyundai FC": 3.3,
-        "Draw": 2.7
-      },
-      "PMU (FR)": {
-        "FC Seoul": 2.1,
-        "Ulsan Hyundai FC": 3.05,
-        "Draw": 2.48
-      },
-      "LeoVegas (SE)": {
-        "FC Seoul": 2.15,
-        "Ulsan Hyundai FC": 3.15,
-        "Draw": 2.55
-      },
-      "Nordic Bet": {
-        "FC Seoul": 2.35,
-        "Ulsan Hyundai FC": 3.4,
-        "Draw": 2.65
-      },
-      "Betsson": {
-        "FC Seoul": 2.35,
-        "Ulsan Hyundai FC": 3.4,
-        "Draw": 2.65
-      },
-      "Betclic (FR)": {
-        "FC Seoul": 2.25,
-        "Ulsan Hyundai FC": 3.45,
-        "Draw": 2.7
-      },
-      "Coolbet": {
-        "FC Seoul": 2.4,
-        "Ulsan Hyundai FC": 3.5,
-        "Draw": 2.75
-      },
-      "Pinnacle": {
-        "FC Seoul": 2.42,
-        "Ulsan Hyundai FC": 3.16,
-        "Draw": 3.03
-      },
-      "Tipico": {
-        "FC Seoul": 2.4,
-        "Ulsan Hyundai FC": 3.4,
-        "Draw": 2.7
-      },
-      "Winamax (FR)": {
-        "FC Seoul": 2.25,
-        "Ulsan Hyundai FC": 3.25,
-        "Draw": 2.55
-      },
-      "Winamax (DE)": {
-        "FC Seoul": 2.3,
-        "Ulsan Hyundai FC": 3.35,
-        "Draw": 2.65
-      },
-      "Betfair": {
-        "FC Seoul": 2.54,
-        "Ulsan Hyundai FC": 3.35,
-        "Draw": 2.96
-      },
-      "Matchbook": {
-        "FC Seoul": 2.5,
-        "Ulsan Hyundai FC": 3.5,
-        "Draw": 2.92
-      }
-    },
     "742364e7cc73b53729dbd089be36770e:h2h": {
       "Pinnacle": {
-        "AC Oulu": 3.71,
-        "VPS Vaasa": 2.12,
-        "Draw": 3.42
-      },
-      "Marathon Bet": {
-        "AC Oulu": 3.54,
-        "VPS Vaasa": 2.05,
-        "Draw": 3.32
-      },
-      "1xBet": {
-        "AC Oulu": 3.54,
-        "VPS Vaasa": 2.07,
-        "Draw": 3.32
-      },
-      "GTbets": {
-        "AC Oulu": 3.44,
-        "VPS Vaasa": 2.12,
-        "Draw": 3.34
-      },
-      "BetOnline.ag": {
-        "AC Oulu": 3.55,
-        "VPS Vaasa": 2.12,
-        "Draw": 3.3
-      },
-      "Unibet (FR)": {
-        "AC Oulu": 3.3,
-        "VPS Vaasa": 1.98,
-        "Draw": 3.2
+        "AC Oulu": 14.21,
+        "VPS Vaasa": 1.34,
+        "Draw": 4.2
       },
       "LeoVegas (SE)": {
-        "AC Oulu": 3.15,
-        "VPS Vaasa": 2.0,
-        "Draw": 3.25
+        "AC Oulu": 19.0,
+        "VPS Vaasa": 1.14,
+        "Draw": 4.25
       },
       "Unibet (NL)": {
-        "AC Oulu": 3.35,
-        "VPS Vaasa": 2.08,
-        "Draw": 3.45
+        "AC Oulu": 19.0,
+        "VPS Vaasa": 1.21,
+        "Draw": 4.5
       },
       "Unibet (SE)": {
-        "AC Oulu": 3.35,
-        "VPS Vaasa": 2.08,
-        "Draw": 3.45
+        "AC Oulu": 19.0,
+        "VPS Vaasa": 1.21,
+        "Draw": 4.5
       },
       "PMU (FR)": {
-        "AC Oulu": 3.05,
-        "VPS Vaasa": 1.92,
-        "Draw": 3.15
+        "AC Oulu": 19.0,
+        "VPS Vaasa": 1.1,
+        "Draw": 4.1
       },
       "Betfair": {
-        "AC Oulu": 3.8,
-        "VPS Vaasa": 2.16,
-        "Draw": 3.45
+        "AC Oulu": 29.0,
+        "VPS Vaasa": 1.3,
+        "Draw": 4.9
       },
       "888sport": {
-        "AC Oulu": 3.4,
-        "VPS Vaasa": 2.0,
-        "Draw": 3.25
-      },
-      "William Hill": {
-        "AC Oulu": 3.4,
-        "VPS Vaasa": 2.0,
-        "Draw": 3.25
+        "AC Oulu": 19.0,
+        "VPS Vaasa": 1.22,
+        "Draw": 4.5
       },
       "Coolbet": {
-        "AC Oulu": 3.65,
-        "VPS Vaasa": 2.05,
-        "Draw": 3.6
+        "AC Oulu": 28.0,
+        "VPS Vaasa": 1.25,
+        "Draw": 5.0
       },
       "Betsson": {
-        "AC Oulu": 3.45,
-        "VPS Vaasa": 2.08,
-        "Draw": 3.3
+        "AC Oulu": 21.0,
+        "VPS Vaasa": 1.2,
+        "Draw": 4.6
       },
       "Nordic Bet": {
-        "AC Oulu": 3.45,
-        "VPS Vaasa": 2.08,
-        "Draw": 3.3
+        "AC Oulu": 21.0,
+        "VPS Vaasa": 1.2,
+        "Draw": 4.4
       },
       "Matchbook": {
-        "AC Oulu": 3.8,
-        "VPS Vaasa": 2.16,
-        "Draw": 3.45
+        "AC Oulu": 34.0,
+        "VPS Vaasa": 1.27,
+        "Draw": 5.0
       }
     },
     "045a6de1bc559812484922455ff65f3a:h2h": {
       "Pinnacle": {
-        "FC Lahti": 1.59,
-        "IFK Mariehamn": 5.77,
-        "Draw": 4.26
-      },
-      "1xBet": {
-        "FC Lahti": 1.55,
-        "IFK Mariehamn": 5.58,
-        "Draw": 4.1
-      },
-      "GTbets": {
-        "FC Lahti": 1.57,
-        "IFK Mariehamn": 5.36,
-        "Draw": 4.21
-      },
-      "Marathon Bet": {
-        "FC Lahti": 1.53,
-        "IFK Mariehamn": 5.7,
-        "Draw": 4.1
-      },
-      "BetOnline.ag": {
-        "FC Lahti": 1.57,
-        "IFK Mariehamn": 5.6,
-        "Draw": 4.1
-      },
-      "Unibet (FR)": {
-        "FC Lahti": 1.49,
-        "IFK Mariehamn": 5.1,
-        "Draw": 4.0
+        "FC Lahti": 2.41,
+        "IFK Mariehamn": 5.96,
+        "Draw": 2.07
       },
       "LeoVegas (SE)": {
-        "FC Lahti": 1.51,
-        "IFK Mariehamn": 5.1,
-        "Draw": 3.7
+        "FC Lahti": 2.5,
+        "IFK Mariehamn": 5.8,
+        "Draw": 1.67
       },
       "Unibet (SE)": {
-        "FC Lahti": 1.57,
-        "IFK Mariehamn": 5.5,
-        "Draw": 3.9
+        "FC Lahti": 2.75,
+        "IFK Mariehamn": 6.25,
+        "Draw": 1.73
       },
       "PMU (FR)": {
-        "FC Lahti": 1.47,
-        "IFK Mariehamn": 4.9,
-        "Draw": 3.55
+        "FC Lahti": 2.43,
+        "IFK Mariehamn": 5.6,
+        "Draw": 1.62
       },
       "Unibet (NL)": {
-        "FC Lahti": 1.57,
-        "IFK Mariehamn": 5.5,
-        "Draw": 3.9
+        "FC Lahti": 2.65,
+        "IFK Mariehamn": 6.1,
+        "Draw": 1.78
       },
       "888sport": {
-        "FC Lahti": 1.53,
+        "FC Lahti": 2.75,
         "IFK Mariehamn": 5.5,
-        "Draw": 3.9
-      },
-      "William Hill": {
-        "FC Lahti": 1.53,
-        "IFK Mariehamn": 5.5,
-        "Draw": 3.9
+        "Draw": 1.75
       },
       "Betfair": {
-        "FC Lahti": 1.61,
-        "IFK Mariehamn": 6.0,
-        "Draw": 4.4
+        "FC Lahti": 2.98,
+        "IFK Mariehamn": 6.4,
+        "Draw": 1.92
       },
       "Coolbet": {
-        "FC Lahti": 1.62,
-        "IFK Mariehamn": 5.6,
-        "Draw": 4.1
+        "FC Lahti": 3.0,
+        "IFK Mariehamn": 6.0,
+        "Draw": 1.85
       },
       "Betsson": {
-        "FC Lahti": 1.55,
-        "IFK Mariehamn": 5.9,
-        "Draw": 3.85
+        "FC Lahti": 2.85,
+        "IFK Mariehamn": 5.35,
+        "Draw": 1.78
       },
       "Nordic Bet": {
-        "FC Lahti": 1.55,
-        "IFK Mariehamn": 5.9,
-        "Draw": 3.85
+        "FC Lahti": 2.78,
+        "IFK Mariehamn": 5.35,
+        "Draw": 1.82
       },
       "Matchbook": {
-        "FC Lahti": 1.61,
-        "IFK Mariehamn": 6.0,
-        "Draw": 4.4
+        "FC Lahti": 3.0,
+        "IFK Mariehamn": 6.8,
+        "Draw": 1.86
+      }
+    },
+    "723ccba4a61c5d463c8b0e27cf10f2aa:h2h": {
+      "Pinnacle": {
+        "Ilves Tampere": 3.0,
+        "Jaro": 5.5,
+        "Draw": 1.84
+      },
+      "888sport": {
+        "Ilves Tampere": 1.14,
+        "Jaro": 34.0,
+        "Draw": 5.75
+      },
+      "PMU (FR)": {
+        "Ilves Tampere": 1.04,
+        "Jaro": 25.0,
+        "Draw": 5.1
+      },
+      "Unibet (NL)": {
+        "Ilves Tampere": 1.15,
+        "Jaro": 25.0,
+        "Draw": 5.5
+      },
+      "Unibet (SE)": {
+        "Ilves Tampere": 1.15,
+        "Jaro": 25.0,
+        "Draw": 5.5
+      },
+      "LeoVegas (SE)": {
+        "Ilves Tampere": 1.09,
+        "Jaro": 25.0,
+        "Draw": 5.3
+      },
+      "Betfair": {
+        "Ilves Tampere": 3.6,
+        "Jaro": 7.4,
+        "Draw": 1.67
+      },
+      "Coolbet": {
+        "Ilves Tampere": 1.16,
+        "Jaro": 33.0,
+        "Draw": 7.0
+      },
+      "Betsson": {
+        "Ilves Tampere": 1.12,
+        "Jaro": 24.0,
+        "Draw": 6.3
+      },
+      "Nordic Bet": {
+        "Ilves Tampere": 1.09,
+        "Jaro": 26.0,
+        "Draw": 6.8
+      },
+      "Matchbook": {
+        "Ilves Tampere": 1.2,
+        "Jaro": 55.0,
+        "Draw": 6.4
+      }
+    },
+    "d16ae2ecc21e40c04da8f6f8f28c9257:h2h": {
+      "Pinnacle": {
+        "SJK Seinäjoki": 3.18,
+        "TPS Turku": 4.46,
+        "Draw": 1.93
+      },
+      "Unibet (NL)": {
+        "SJK Seinäjoki": 3.55,
+        "TPS Turku": 4.9,
+        "Draw": 1.61
+      },
+      "LeoVegas (SE)": {
+        "SJK Seinäjoki": 3.4,
+        "TPS Turku": 4.7,
+        "Draw": 1.5
+      },
+      "PMU (FR)": {
+        "SJK Seinäjoki": 3.3,
+        "TPS Turku": 4.5,
+        "Draw": 1.45
+      },
+      "Unibet (SE)": {
+        "SJK Seinäjoki": 3.6,
+        "TPS Turku": 5.1,
+        "Draw": 1.57
+      },
+      "888sport": {
+        "SJK Seinäjoki": 3.75,
+        "TPS Turku": 4.75,
+        "Draw": 1.6
+      },
+      "Coolbet": {
+        "SJK Seinäjoki": 3.8,
+        "TPS Turku": 5.0,
+        "Draw": 1.73
+      },
+      "Betsson": {
+        "SJK Seinäjoki": 3.65,
+        "TPS Turku": 4.85,
+        "Draw": 1.62
+      },
+      "Nordic Bet": {
+        "SJK Seinäjoki": 3.65,
+        "TPS Turku": 4.6,
+        "Draw": 1.65
+      },
+      "Betfair": {
+        "SJK Seinäjoki": 3.95,
+        "TPS Turku": 5.2,
+        "Draw": 1.77
+      },
+      "Matchbook": {
+        "SJK Seinäjoki": 4.2,
+        "TPS Turku": 5.6,
+        "Draw": 1.69
       }
     }
   },
@@ -5632,31 +5542,910 @@
       "confidence": 15,
       "alert_type": "value",
       "alerted_at": "2026-09-08T11:10:51.787674+00:00"
+    },
+    {
+      "state_key": "742364e7cc73b53729dbd089be36770e:h2h",
+      "event_id": "742364e7cc73b53729dbd089be36770e",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "VPS Vaasa",
+      "away_team": "AC Oulu",
+      "commence_time": "2026-09-08T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "AC Oulu",
+      "odds_at_alert": 19.0,
+      "stake_pct": 5.0,
+      "confidence": 27,
+      "alert_type": "value",
+      "alerted_at": "2026-09-08T16:34:17.783807+00:00"
+    },
+    {
+      "state_key": "742364e7cc73b53729dbd089be36770e:h2h",
+      "event_id": "742364e7cc73b53729dbd089be36770e",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "VPS Vaasa",
+      "away_team": "AC Oulu",
+      "commence_time": "2026-09-08T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "AC Oulu",
+      "odds_at_alert": 19.0,
+      "stake_pct": 5.0,
+      "confidence": 27,
+      "alert_type": "value",
+      "alerted_at": "2026-09-08T16:34:18.139874+00:00"
+    },
+    {
+      "state_key": "742364e7cc73b53729dbd089be36770e:h2h",
+      "event_id": "742364e7cc73b53729dbd089be36770e",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "VPS Vaasa",
+      "away_team": "AC Oulu",
+      "commence_time": "2026-09-08T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "AC Oulu",
+      "odds_at_alert": 19.0,
+      "stake_pct": 5.0,
+      "confidence": 27,
+      "alert_type": "value",
+      "alerted_at": "2026-09-08T16:34:18.488377+00:00"
+    },
+    {
+      "state_key": "742364e7cc73b53729dbd089be36770e:h2h",
+      "event_id": "742364e7cc73b53729dbd089be36770e",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "VPS Vaasa",
+      "away_team": "AC Oulu",
+      "commence_time": "2026-09-08T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "AC Oulu",
+      "odds_at_alert": 19.0,
+      "stake_pct": 5.0,
+      "confidence": 27,
+      "alert_type": "value",
+      "alerted_at": "2026-09-08T16:34:18.840159+00:00"
+    },
+    {
+      "state_key": "742364e7cc73b53729dbd089be36770e:h2h",
+      "event_id": "742364e7cc73b53729dbd089be36770e",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "VPS Vaasa",
+      "away_team": "AC Oulu",
+      "commence_time": "2026-09-08T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "AC Oulu",
+      "odds_at_alert": 29.0,
+      "stake_pct": 5.0,
+      "confidence": 93,
+      "alert_type": "value",
+      "alerted_at": "2026-09-08T16:34:19.195392+00:00"
+    },
+    {
+      "state_key": "742364e7cc73b53729dbd089be36770e:h2h",
+      "event_id": "742364e7cc73b53729dbd089be36770e",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "VPS Vaasa",
+      "away_team": "AC Oulu",
+      "commence_time": "2026-09-08T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.9,
+      "stake_pct": 3.0,
+      "confidence": 11,
+      "alert_type": "value",
+      "alerted_at": "2026-09-08T16:34:19.585004+00:00"
+    },
+    {
+      "state_key": "742364e7cc73b53729dbd089be36770e:h2h",
+      "event_id": "742364e7cc73b53729dbd089be36770e",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "VPS Vaasa",
+      "away_team": "AC Oulu",
+      "commence_time": "2026-09-08T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "AC Oulu",
+      "odds_at_alert": 19.0,
+      "stake_pct": 5.0,
+      "confidence": 27,
+      "alert_type": "value",
+      "alerted_at": "2026-09-08T16:34:19.943730+00:00"
+    },
+    {
+      "state_key": "742364e7cc73b53729dbd089be36770e:h2h",
+      "event_id": "742364e7cc73b53729dbd089be36770e",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "VPS Vaasa",
+      "away_team": "AC Oulu",
+      "commence_time": "2026-09-08T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "AC Oulu",
+      "odds_at_alert": 28.0,
+      "stake_pct": 5.0,
+      "confidence": 87,
+      "alert_type": "value",
+      "alerted_at": "2026-09-08T16:34:20.292692+00:00"
+    },
+    {
+      "state_key": "742364e7cc73b53729dbd089be36770e:h2h",
+      "event_id": "742364e7cc73b53729dbd089be36770e",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "VPS Vaasa",
+      "away_team": "AC Oulu",
+      "commence_time": "2026-09-08T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.0,
+      "stake_pct": 3.0,
+      "confidence": 13,
+      "alert_type": "value",
+      "alerted_at": "2026-09-08T16:34:20.661336+00:00"
+    },
+    {
+      "state_key": "742364e7cc73b53729dbd089be36770e:h2h",
+      "event_id": "742364e7cc73b53729dbd089be36770e",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "VPS Vaasa",
+      "away_team": "AC Oulu",
+      "commence_time": "2026-09-08T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "AC Oulu",
+      "odds_at_alert": 21.0,
+      "stake_pct": 5.0,
+      "confidence": 40,
+      "alert_type": "value",
+      "alerted_at": "2026-09-08T16:34:21.029676+00:00"
+    },
+    {
+      "state_key": "742364e7cc73b53729dbd089be36770e:h2h",
+      "event_id": "742364e7cc73b53729dbd089be36770e",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "VPS Vaasa",
+      "away_team": "AC Oulu",
+      "commence_time": "2026-09-08T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "AC Oulu",
+      "odds_at_alert": 21.0,
+      "stake_pct": 5.0,
+      "confidence": 40,
+      "alert_type": "value",
+      "alerted_at": "2026-09-08T16:34:21.380475+00:00"
+    },
+    {
+      "state_key": "742364e7cc73b53729dbd089be36770e:h2h",
+      "event_id": "742364e7cc73b53729dbd089be36770e",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "VPS Vaasa",
+      "away_team": "AC Oulu",
+      "commence_time": "2026-09-08T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "AC Oulu",
+      "odds_at_alert": 34.0,
+      "stake_pct": 5.0,
+      "confidence": 127,
+      "alert_type": "value",
+      "alerted_at": "2026-09-08T16:34:21.743862+00:00"
+    },
+    {
+      "state_key": "742364e7cc73b53729dbd089be36770e:h2h",
+      "event_id": "742364e7cc73b53729dbd089be36770e",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "VPS Vaasa",
+      "away_team": "AC Oulu",
+      "commence_time": "2026-09-08T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.0,
+      "stake_pct": 3.0,
+      "confidence": 13,
+      "alert_type": "value",
+      "alerted_at": "2026-09-08T16:34:22.102427+00:00"
+    },
+    {
+      "state_key": "045a6de1bc559812484922455ff65f3a:h2h",
+      "event_id": "045a6de1bc559812484922455ff65f3a",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "FC Lahti",
+      "away_team": "IFK Mariehamn",
+      "commence_time": "2026-09-08T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Lahti",
+      "odds_at_alert": 2.75,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-09-08T16:34:22.468492+00:00"
+    },
+    {
+      "state_key": "045a6de1bc559812484922455ff65f3a:h2h",
+      "event_id": "045a6de1bc559812484922455ff65f3a",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "FC Lahti",
+      "away_team": "IFK Mariehamn",
+      "commence_time": "2026-09-08T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Lahti",
+      "odds_at_alert": 2.75,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-09-08T16:34:22.838667+00:00"
+    },
+    {
+      "state_key": "045a6de1bc559812484922455ff65f3a:h2h",
+      "event_id": "045a6de1bc559812484922455ff65f3a",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "FC Lahti",
+      "away_team": "IFK Mariehamn",
+      "commence_time": "2026-09-08T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Lahti",
+      "odds_at_alert": 2.98,
+      "stake_pct": 5.0,
+      "confidence": 16,
+      "alert_type": "value",
+      "alerted_at": "2026-09-08T16:34:23.209818+00:00"
+    },
+    {
+      "state_key": "045a6de1bc559812484922455ff65f3a:h2h",
+      "event_id": "045a6de1bc559812484922455ff65f3a",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "FC Lahti",
+      "away_team": "IFK Mariehamn",
+      "commence_time": "2026-09-08T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Lahti",
+      "odds_at_alert": 3.0,
+      "stake_pct": 5.0,
+      "confidence": 17,
+      "alert_type": "value",
+      "alerted_at": "2026-09-08T16:34:23.572639+00:00"
+    },
+    {
+      "state_key": "045a6de1bc559812484922455ff65f3a:h2h",
+      "event_id": "045a6de1bc559812484922455ff65f3a",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "FC Lahti",
+      "away_team": "IFK Mariehamn",
+      "commence_time": "2026-09-08T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Lahti",
+      "odds_at_alert": 2.85,
+      "stake_pct": 3.0,
+      "confidence": 11,
+      "alert_type": "value",
+      "alerted_at": "2026-09-08T16:34:23.943495+00:00"
+    },
+    {
+      "state_key": "045a6de1bc559812484922455ff65f3a:h2h",
+      "event_id": "045a6de1bc559812484922455ff65f3a",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "FC Lahti",
+      "away_team": "IFK Mariehamn",
+      "commence_time": "2026-09-08T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Lahti",
+      "odds_at_alert": 2.78,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-09-08T16:34:24.294433+00:00"
+    },
+    {
+      "state_key": "045a6de1bc559812484922455ff65f3a:h2h",
+      "event_id": "045a6de1bc559812484922455ff65f3a",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "FC Lahti",
+      "away_team": "IFK Mariehamn",
+      "commence_time": "2026-09-08T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Lahti",
+      "odds_at_alert": 3.0,
+      "stake_pct": 5.0,
+      "confidence": 17,
+      "alert_type": "value",
+      "alerted_at": "2026-09-08T16:34:24.662844+00:00"
+    },
+    {
+      "state_key": "045a6de1bc559812484922455ff65f3a:h2h",
+      "event_id": "045a6de1bc559812484922455ff65f3a",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "FC Lahti",
+      "away_team": "IFK Mariehamn",
+      "commence_time": "2026-09-08T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "IFK Mariehamn",
+      "odds_at_alert": 6.8,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-09-08T16:34:25.119001+00:00"
+    },
+    {
+      "state_key": "723ccba4a61c5d463c8b0e27cf10f2aa:h2h",
+      "event_id": "723ccba4a61c5d463c8b0e27cf10f2aa",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "Ilves Tampere",
+      "away_team": "Jaro",
+      "commence_time": "2026-09-08T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Jaro",
+      "odds_at_alert": 34.0,
+      "stake_pct": 5.0,
+      "confidence": 484,
+      "alert_type": "value",
+      "alerted_at": "2026-09-08T16:34:25.517406+00:00"
+    },
+    {
+      "state_key": "723ccba4a61c5d463c8b0e27cf10f2aa:h2h",
+      "event_id": "723ccba4a61c5d463c8b0e27cf10f2aa",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "Ilves Tampere",
+      "away_team": "Jaro",
+      "commence_time": "2026-09-08T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.75,
+      "stake_pct": 5.0,
+      "confidence": 195,
+      "alert_type": "value",
+      "alerted_at": "2026-09-08T16:34:25.875013+00:00"
+    },
+    {
+      "state_key": "723ccba4a61c5d463c8b0e27cf10f2aa:h2h",
+      "event_id": "723ccba4a61c5d463c8b0e27cf10f2aa",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "Ilves Tampere",
+      "away_team": "Jaro",
+      "commence_time": "2026-09-08T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Jaro",
+      "odds_at_alert": 25.0,
+      "stake_pct": 5.0,
+      "confidence": 329,
+      "alert_type": "value",
+      "alerted_at": "2026-09-08T16:34:26.248393+00:00"
+    },
+    {
+      "state_key": "723ccba4a61c5d463c8b0e27cf10f2aa:h2h",
+      "event_id": "723ccba4a61c5d463c8b0e27cf10f2aa",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "Ilves Tampere",
+      "away_team": "Jaro",
+      "commence_time": "2026-09-08T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.1,
+      "stake_pct": 5.0,
+      "confidence": 162,
+      "alert_type": "value",
+      "alerted_at": "2026-09-08T16:34:26.629307+00:00"
+    },
+    {
+      "state_key": "723ccba4a61c5d463c8b0e27cf10f2aa:h2h",
+      "event_id": "723ccba4a61c5d463c8b0e27cf10f2aa",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "Ilves Tampere",
+      "away_team": "Jaro",
+      "commence_time": "2026-09-08T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Jaro",
+      "odds_at_alert": 25.0,
+      "stake_pct": 5.0,
+      "confidence": 329,
+      "alert_type": "value",
+      "alerted_at": "2026-09-08T16:34:26.997290+00:00"
+    },
+    {
+      "state_key": "723ccba4a61c5d463c8b0e27cf10f2aa:h2h",
+      "event_id": "723ccba4a61c5d463c8b0e27cf10f2aa",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "Ilves Tampere",
+      "away_team": "Jaro",
+      "commence_time": "2026-09-08T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.5,
+      "stake_pct": 5.0,
+      "confidence": 182,
+      "alert_type": "value",
+      "alerted_at": "2026-09-08T16:34:27.386868+00:00"
+    },
+    {
+      "state_key": "723ccba4a61c5d463c8b0e27cf10f2aa:h2h",
+      "event_id": "723ccba4a61c5d463c8b0e27cf10f2aa",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "Ilves Tampere",
+      "away_team": "Jaro",
+      "commence_time": "2026-09-08T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Jaro",
+      "odds_at_alert": 25.0,
+      "stake_pct": 5.0,
+      "confidence": 329,
+      "alert_type": "value",
+      "alerted_at": "2026-09-08T16:34:27.771810+00:00"
+    },
+    {
+      "state_key": "723ccba4a61c5d463c8b0e27cf10f2aa:h2h",
+      "event_id": "723ccba4a61c5d463c8b0e27cf10f2aa",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "Ilves Tampere",
+      "away_team": "Jaro",
+      "commence_time": "2026-09-08T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.5,
+      "stake_pct": 5.0,
+      "confidence": 182,
+      "alert_type": "value",
+      "alerted_at": "2026-09-08T16:34:28.164122+00:00"
+    },
+    {
+      "state_key": "723ccba4a61c5d463c8b0e27cf10f2aa:h2h",
+      "event_id": "723ccba4a61c5d463c8b0e27cf10f2aa",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "Ilves Tampere",
+      "away_team": "Jaro",
+      "commence_time": "2026-09-08T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Jaro",
+      "odds_at_alert": 25.0,
+      "stake_pct": 5.0,
+      "confidence": 329,
+      "alert_type": "value",
+      "alerted_at": "2026-09-08T16:34:28.521243+00:00"
+    },
+    {
+      "state_key": "723ccba4a61c5d463c8b0e27cf10f2aa:h2h",
+      "event_id": "723ccba4a61c5d463c8b0e27cf10f2aa",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "Ilves Tampere",
+      "away_team": "Jaro",
+      "commence_time": "2026-09-08T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.3,
+      "stake_pct": 5.0,
+      "confidence": 172,
+      "alert_type": "value",
+      "alerted_at": "2026-09-08T16:34:28.873530+00:00"
+    },
+    {
+      "state_key": "723ccba4a61c5d463c8b0e27cf10f2aa:h2h",
+      "event_id": "723ccba4a61c5d463c8b0e27cf10f2aa",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "Ilves Tampere",
+      "away_team": "Jaro",
+      "commence_time": "2026-09-08T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Ilves Tampere",
+      "odds_at_alert": 3.6,
+      "stake_pct": 3.0,
+      "confidence": 13,
+      "alert_type": "value",
+      "alerted_at": "2026-09-08T16:34:29.250680+00:00"
+    },
+    {
+      "state_key": "723ccba4a61c5d463c8b0e27cf10f2aa:h2h",
+      "event_id": "723ccba4a61c5d463c8b0e27cf10f2aa",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "Ilves Tampere",
+      "away_team": "Jaro",
+      "commence_time": "2026-09-08T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Jaro",
+      "odds_at_alert": 7.4,
+      "stake_pct": 5.0,
+      "confidence": 27,
+      "alert_type": "value",
+      "alerted_at": "2026-09-08T16:34:29.639671+00:00"
+    },
+    {
+      "state_key": "723ccba4a61c5d463c8b0e27cf10f2aa:h2h",
+      "event_id": "723ccba4a61c5d463c8b0e27cf10f2aa",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "Ilves Tampere",
+      "away_team": "Jaro",
+      "commence_time": "2026-09-08T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Jaro",
+      "odds_at_alert": 33.0,
+      "stake_pct": 5.0,
+      "confidence": 467,
+      "alert_type": "value",
+      "alerted_at": "2026-09-08T16:34:29.996063+00:00"
+    },
+    {
+      "state_key": "723ccba4a61c5d463c8b0e27cf10f2aa:h2h",
+      "event_id": "723ccba4a61c5d463c8b0e27cf10f2aa",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "Ilves Tampere",
+      "away_team": "Jaro",
+      "commence_time": "2026-09-08T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 7.0,
+      "stake_pct": 5.0,
+      "confidence": 259,
+      "alert_type": "value",
+      "alerted_at": "2026-09-08T16:34:30.358107+00:00"
+    },
+    {
+      "state_key": "723ccba4a61c5d463c8b0e27cf10f2aa:h2h",
+      "event_id": "723ccba4a61c5d463c8b0e27cf10f2aa",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "Ilves Tampere",
+      "away_team": "Jaro",
+      "commence_time": "2026-09-08T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Jaro",
+      "odds_at_alert": 24.0,
+      "stake_pct": 5.0,
+      "confidence": 312,
+      "alert_type": "value",
+      "alerted_at": "2026-09-08T16:34:30.716628+00:00"
+    },
+    {
+      "state_key": "723ccba4a61c5d463c8b0e27cf10f2aa:h2h",
+      "event_id": "723ccba4a61c5d463c8b0e27cf10f2aa",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "Ilves Tampere",
+      "away_team": "Jaro",
+      "commence_time": "2026-09-08T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.3,
+      "stake_pct": 5.0,
+      "confidence": 223,
+      "alert_type": "value",
+      "alerted_at": "2026-09-08T16:34:31.125518+00:00"
+    },
+    {
+      "state_key": "723ccba4a61c5d463c8b0e27cf10f2aa:h2h",
+      "event_id": "723ccba4a61c5d463c8b0e27cf10f2aa",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "Ilves Tampere",
+      "away_team": "Jaro",
+      "commence_time": "2026-09-08T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Jaro",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 347,
+      "alert_type": "value",
+      "alerted_at": "2026-09-08T16:34:31.569459+00:00"
+    },
+    {
+      "state_key": "723ccba4a61c5d463c8b0e27cf10f2aa:h2h",
+      "event_id": "723ccba4a61c5d463c8b0e27cf10f2aa",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "Ilves Tampere",
+      "away_team": "Jaro",
+      "commence_time": "2026-09-08T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.8,
+      "stake_pct": 5.0,
+      "confidence": 249,
+      "alert_type": "value",
+      "alerted_at": "2026-09-08T16:34:31.919009+00:00"
+    },
+    {
+      "state_key": "723ccba4a61c5d463c8b0e27cf10f2aa:h2h",
+      "event_id": "723ccba4a61c5d463c8b0e27cf10f2aa",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "Ilves Tampere",
+      "away_team": "Jaro",
+      "commence_time": "2026-09-08T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Jaro",
+      "odds_at_alert": 55.0,
+      "stake_pct": 5.0,
+      "confidence": 845,
+      "alert_type": "value",
+      "alerted_at": "2026-09-08T16:34:32.331732+00:00"
+    },
+    {
+      "state_key": "723ccba4a61c5d463c8b0e27cf10f2aa:h2h",
+      "event_id": "723ccba4a61c5d463c8b0e27cf10f2aa",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "Ilves Tampere",
+      "away_team": "Jaro",
+      "commence_time": "2026-09-08T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.4,
+      "stake_pct": 5.0,
+      "confidence": 229,
+      "alert_type": "value",
+      "alerted_at": "2026-09-08T16:34:32.684362+00:00"
+    },
+    {
+      "state_key": "d16ae2ecc21e40c04da8f6f8f28c9257:h2h",
+      "event_id": "d16ae2ecc21e40c04da8f6f8f28c9257",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "TPS Turku",
+      "away_team": "SJK Seinäjoki",
+      "commence_time": "2026-09-08T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "SJK Seinäjoki",
+      "odds_at_alert": 3.55,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-09-08T16:34:33.033684+00:00"
+    },
+    {
+      "state_key": "d16ae2ecc21e40c04da8f6f8f28c9257:h2h",
+      "event_id": "d16ae2ecc21e40c04da8f6f8f28c9257",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "TPS Turku",
+      "away_team": "SJK Seinäjoki",
+      "commence_time": "2026-09-08T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "SJK Seinäjoki",
+      "odds_at_alert": 3.6,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-09-08T16:34:33.403067+00:00"
+    },
+    {
+      "state_key": "d16ae2ecc21e40c04da8f6f8f28c9257:h2h",
+      "event_id": "d16ae2ecc21e40c04da8f6f8f28c9257",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "TPS Turku",
+      "away_team": "SJK Seinäjoki",
+      "commence_time": "2026-09-08T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "TPS Turku",
+      "odds_at_alert": 5.1,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-09-08T16:34:33.758114+00:00"
+    },
+    {
+      "state_key": "d16ae2ecc21e40c04da8f6f8f28c9257:h2h",
+      "event_id": "d16ae2ecc21e40c04da8f6f8f28c9257",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "TPS Turku",
+      "away_team": "SJK Seinäjoki",
+      "commence_time": "2026-09-08T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "SJK Seinäjoki",
+      "odds_at_alert": 3.75,
+      "stake_pct": 3.0,
+      "confidence": 12,
+      "alert_type": "value",
+      "alerted_at": "2026-09-08T16:34:34.126757+00:00"
+    },
+    {
+      "state_key": "d16ae2ecc21e40c04da8f6f8f28c9257:h2h",
+      "event_id": "d16ae2ecc21e40c04da8f6f8f28c9257",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "TPS Turku",
+      "away_team": "SJK Seinäjoki",
+      "commence_time": "2026-09-08T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "SJK Seinäjoki",
+      "odds_at_alert": 3.8,
+      "stake_pct": 3.0,
+      "confidence": 13,
+      "alert_type": "value",
+      "alerted_at": "2026-09-08T16:34:34.479429+00:00"
+    },
+    {
+      "state_key": "d16ae2ecc21e40c04da8f6f8f28c9257:h2h",
+      "event_id": "d16ae2ecc21e40c04da8f6f8f28c9257",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "TPS Turku",
+      "away_team": "SJK Seinäjoki",
+      "commence_time": "2026-09-08T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "TPS Turku",
+      "odds_at_alert": 5.0,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-09-08T16:34:34.834533+00:00"
+    },
+    {
+      "state_key": "d16ae2ecc21e40c04da8f6f8f28c9257:h2h",
+      "event_id": "d16ae2ecc21e40c04da8f6f8f28c9257",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "TPS Turku",
+      "away_team": "SJK Seinäjoki",
+      "commence_time": "2026-09-08T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "SJK Seinäjoki",
+      "odds_at_alert": 3.65,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-09-08T16:34:35.215618+00:00"
+    },
+    {
+      "state_key": "d16ae2ecc21e40c04da8f6f8f28c9257:h2h",
+      "event_id": "d16ae2ecc21e40c04da8f6f8f28c9257",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "TPS Turku",
+      "away_team": "SJK Seinäjoki",
+      "commence_time": "2026-09-08T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "SJK Seinäjoki",
+      "odds_at_alert": 3.65,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-09-08T16:34:35.578482+00:00"
+    },
+    {
+      "state_key": "d16ae2ecc21e40c04da8f6f8f28c9257:h2h",
+      "event_id": "d16ae2ecc21e40c04da8f6f8f28c9257",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "TPS Turku",
+      "away_team": "SJK Seinäjoki",
+      "commence_time": "2026-09-08T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "SJK Seinäjoki",
+      "odds_at_alert": 3.95,
+      "stake_pct": 5.0,
+      "confidence": 18,
+      "alert_type": "value",
+      "alerted_at": "2026-09-08T16:34:35.941464+00:00"
+    },
+    {
+      "state_key": "d16ae2ecc21e40c04da8f6f8f28c9257:h2h",
+      "event_id": "d16ae2ecc21e40c04da8f6f8f28c9257",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "TPS Turku",
+      "away_team": "SJK Seinäjoki",
+      "commence_time": "2026-09-08T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "TPS Turku",
+      "odds_at_alert": 5.2,
+      "stake_pct": 3.0,
+      "confidence": 10,
+      "alert_type": "value",
+      "alerted_at": "2026-09-08T16:34:36.286221+00:00"
+    },
+    {
+      "state_key": "d16ae2ecc21e40c04da8f6f8f28c9257:h2h",
+      "event_id": "d16ae2ecc21e40c04da8f6f8f28c9257",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "TPS Turku",
+      "away_team": "SJK Seinäjoki",
+      "commence_time": "2026-09-08T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "SJK Seinäjoki",
+      "odds_at_alert": 4.2,
+      "stake_pct": 5.0,
+      "confidence": 25,
+      "alert_type": "value",
+      "alerted_at": "2026-09-08T16:34:36.696404+00:00"
+    },
+    {
+      "state_key": "d16ae2ecc21e40c04da8f6f8f28c9257:h2h",
+      "event_id": "d16ae2ecc21e40c04da8f6f8f28c9257",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "TPS Turku",
+      "away_team": "SJK Seinäjoki",
+      "commence_time": "2026-09-08T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "TPS Turku",
+      "odds_at_alert": 5.6,
+      "stake_pct": 5.0,
+      "confidence": 19,
+      "alert_type": "value",
+      "alerted_at": "2026-09-08T16:34:37.201791+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "0c711921c25528bfd3cbb79ae97d3064:h2h|Betclic (FR)|Draw",
-    "0c711921c25528bfd3cbb79ae97d3064:h2h|Betclic (FR)|Incheon United",
-    "0c711921c25528bfd3cbb79ae97d3064:h2h|Betfair|Draw",
-    "0c711921c25528bfd3cbb79ae97d3064:h2h|Betfair|Incheon United",
-    "0c711921c25528bfd3cbb79ae97d3064:h2h|Betsson|Incheon United",
-    "0c711921c25528bfd3cbb79ae97d3064:h2h|Coolbet|Draw",
-    "0c711921c25528bfd3cbb79ae97d3064:h2h|Coolbet|Incheon United",
-    "0c711921c25528bfd3cbb79ae97d3064:h2h|LeoVegas (SE)|Incheon United",
-    "0c711921c25528bfd3cbb79ae97d3064:h2h|Matchbook|Draw",
-    "0c711921c25528bfd3cbb79ae97d3064:h2h|Matchbook|Incheon United",
-    "0c711921c25528bfd3cbb79ae97d3064:h2h|Nordic Bet|Incheon United",
-    "0c711921c25528bfd3cbb79ae97d3064:h2h|PMU (FR)|Incheon United",
-    "0c711921c25528bfd3cbb79ae97d3064:h2h|Tipico|Draw",
-    "0c711921c25528bfd3cbb79ae97d3064:h2h|Tipico|Incheon United",
-    "0c711921c25528bfd3cbb79ae97d3064:h2h|Unibet (NL)|Draw",
-    "0c711921c25528bfd3cbb79ae97d3064:h2h|Unibet (NL)|Incheon United",
-    "0c711921c25528bfd3cbb79ae97d3064:h2h|Unibet (SE)|Draw",
-    "0c711921c25528bfd3cbb79ae97d3064:h2h|Unibet (SE)|Incheon United",
-    "0c711921c25528bfd3cbb79ae97d3064:h2h|Winamax (DE)|Draw",
-    "0c711921c25528bfd3cbb79ae97d3064:h2h|Winamax (DE)|Incheon United",
-    "0c711921c25528bfd3cbb79ae97d3064:h2h|Winamax (FR)|Draw",
-    "0c711921c25528bfd3cbb79ae97d3064:h2h|Winamax (FR)|Incheon United"
+    "045a6de1bc559812484922455ff65f3a:h2h|888sport|FC Lahti",
+    "045a6de1bc559812484922455ff65f3a:h2h|Betfair|FC Lahti",
+    "045a6de1bc559812484922455ff65f3a:h2h|Betsson|FC Lahti",
+    "045a6de1bc559812484922455ff65f3a:h2h|Coolbet|FC Lahti",
+    "045a6de1bc559812484922455ff65f3a:h2h|Matchbook|FC Lahti",
+    "045a6de1bc559812484922455ff65f3a:h2h|Matchbook|IFK Mariehamn",
+    "045a6de1bc559812484922455ff65f3a:h2h|Nordic Bet|FC Lahti",
+    "045a6de1bc559812484922455ff65f3a:h2h|Unibet (SE)|FC Lahti",
+    "723ccba4a61c5d463c8b0e27cf10f2aa:h2h|888sport|Draw",
+    "723ccba4a61c5d463c8b0e27cf10f2aa:h2h|888sport|Jaro",
+    "723ccba4a61c5d463c8b0e27cf10f2aa:h2h|Betfair|Ilves Tampere",
+    "723ccba4a61c5d463c8b0e27cf10f2aa:h2h|Betfair|Jaro",
+    "723ccba4a61c5d463c8b0e27cf10f2aa:h2h|Betsson|Draw",
+    "723ccba4a61c5d463c8b0e27cf10f2aa:h2h|Betsson|Jaro",
+    "723ccba4a61c5d463c8b0e27cf10f2aa:h2h|Coolbet|Draw",
+    "723ccba4a61c5d463c8b0e27cf10f2aa:h2h|Coolbet|Jaro",
+    "723ccba4a61c5d463c8b0e27cf10f2aa:h2h|LeoVegas (SE)|Draw",
+    "723ccba4a61c5d463c8b0e27cf10f2aa:h2h|LeoVegas (SE)|Jaro",
+    "723ccba4a61c5d463c8b0e27cf10f2aa:h2h|Matchbook|Draw",
+    "723ccba4a61c5d463c8b0e27cf10f2aa:h2h|Matchbook|Jaro",
+    "723ccba4a61c5d463c8b0e27cf10f2aa:h2h|Nordic Bet|Draw",
+    "723ccba4a61c5d463c8b0e27cf10f2aa:h2h|Nordic Bet|Jaro",
+    "723ccba4a61c5d463c8b0e27cf10f2aa:h2h|PMU (FR)|Draw",
+    "723ccba4a61c5d463c8b0e27cf10f2aa:h2h|PMU (FR)|Jaro",
+    "723ccba4a61c5d463c8b0e27cf10f2aa:h2h|Unibet (NL)|Draw",
+    "723ccba4a61c5d463c8b0e27cf10f2aa:h2h|Unibet (NL)|Jaro",
+    "723ccba4a61c5d463c8b0e27cf10f2aa:h2h|Unibet (SE)|Draw",
+    "723ccba4a61c5d463c8b0e27cf10f2aa:h2h|Unibet (SE)|Jaro",
+    "742364e7cc73b53729dbd089be36770e:h2h|888sport|AC Oulu",
+    "742364e7cc73b53729dbd089be36770e:h2h|Betfair|AC Oulu",
+    "742364e7cc73b53729dbd089be36770e:h2h|Betfair|Draw",
+    "742364e7cc73b53729dbd089be36770e:h2h|Betsson|AC Oulu",
+    "742364e7cc73b53729dbd089be36770e:h2h|Coolbet|AC Oulu",
+    "742364e7cc73b53729dbd089be36770e:h2h|Coolbet|Draw",
+    "742364e7cc73b53729dbd089be36770e:h2h|LeoVegas (SE)|AC Oulu",
+    "742364e7cc73b53729dbd089be36770e:h2h|Matchbook|AC Oulu",
+    "742364e7cc73b53729dbd089be36770e:h2h|Matchbook|Draw",
+    "742364e7cc73b53729dbd089be36770e:h2h|Nordic Bet|AC Oulu",
+    "742364e7cc73b53729dbd089be36770e:h2h|PMU (FR)|AC Oulu",
+    "742364e7cc73b53729dbd089be36770e:h2h|Unibet (NL)|AC Oulu",
+    "742364e7cc73b53729dbd089be36770e:h2h|Unibet (SE)|AC Oulu",
+    "d16ae2ecc21e40c04da8f6f8f28c9257:h2h|888sport|SJK Seinäjoki",
+    "d16ae2ecc21e40c04da8f6f8f28c9257:h2h|Betfair|SJK Seinäjoki",
+    "d16ae2ecc21e40c04da8f6f8f28c9257:h2h|Betfair|TPS Turku",
+    "d16ae2ecc21e40c04da8f6f8f28c9257:h2h|Betsson|SJK Seinäjoki",
+    "d16ae2ecc21e40c04da8f6f8f28c9257:h2h|Coolbet|SJK Seinäjoki",
+    "d16ae2ecc21e40c04da8f6f8f28c9257:h2h|Coolbet|TPS Turku",
+    "d16ae2ecc21e40c04da8f6f8f28c9257:h2h|Matchbook|SJK Seinäjoki",
+    "d16ae2ecc21e40c04da8f6f8f28c9257:h2h|Matchbook|TPS Turku",
+    "d16ae2ecc21e40c04da8f6f8f28c9257:h2h|Nordic Bet|SJK Seinäjoki",
+    "d16ae2ecc21e40c04da8f6f8f28c9257:h2h|Unibet (NL)|SJK Seinäjoki",
+    "d16ae2ecc21e40c04da8f6f8f28c9257:h2h|Unibet (SE)|SJK Seinäjoki",
+    "d16ae2ecc21e40c04da8f6f8f28c9257:h2h|Unibet (SE)|TPS Turku"
   ]
 }
