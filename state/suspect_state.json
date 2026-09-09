@@ -1,216 +1,196 @@
 {
   "snapshots": {
-    "34d5113f27cff62d486ac4d6be88477d:h2h": {
-      "Unibet (SE)": {
-        "Al-Kholood": 1.03,
-        "Al-Shabab": 226.0,
-        "Draw": 14.0
-      },
-      "Winamax (FR)": {
-        "Al-Kholood": 1.03,
-        "Al-Shabab": 450.0,
-        "Draw": 14.5
+    "a43752f35ceb66893134410ad476bca9:h2h": {
+      "Coolbet": {
+        "Arsenal": 1.02,
+        "Napoli": 150.0,
+        "Draw": 19.5
       },
       "Winamax (DE)": {
-        "Al-Kholood": 1.02,
-        "Al-Shabab": 1000.0,
-        "Draw": 19.0
+        "Arsenal": 1.03,
+        "Napoli": 225.0,
+        "Draw": 16.0
       },
-      "Pinnacle": {
-        "Al-Kholood": 3.74,
-        "Al-Shabab": 3.52,
-        "Draw": 1.92
+      "Betfair": {
+        "Arsenal": 1.06,
+        "Napoli": 1000.0,
+        "Draw": 15.0
       },
       "Betclic (FR)": {
-        "Al-Kholood": 1.04,
-        "Al-Shabab": 100.0,
-        "Draw": 11.5
+        "Arsenal": 1.01,
+        "Napoli": 150.0,
+        "Draw": 8.0
       },
-      "888sport": {
-        "Al-Kholood": 1.03,
-        "Al-Shabab": 101.0,
+      "Suprabets": {
+        "Arsenal": 1.03,
+        "Napoli": 276.0,
         "Draw": 11.0
       },
-      "Tipico": {
-        "Al-Kholood": 1.03,
-        "Al-Shabab": 60.0,
-        "Draw": 9.0
+      "888sport": {
+        "Arsenal": 1.02,
+        "Napoli": 151.0,
+        "Draw": 21.0
       },
-      "Betfair": {
-        "Al-Kholood": 1.11,
-        "Al-Shabab": 65.0,
-        "Draw": 9.6
-      }
-    },
-    "c9bbedd626635eddff4934e689472fb8:h2h": {
-      "Betclic (FR)": {
-        "Barcelona": 1.0,
-        "Feyenoord": 70.0,
-        "Draw": 11.5
-      },
-      "Suprabets": {
-        "Barcelona": 1.0,
-        "Feyenoord": 163.0,
-        "Draw": 17.0
-      },
-      "Unibet (SE)": {
-        "Barcelona": 1.01,
-        "Feyenoord": 121.0,
-        "Draw": 34.0
-      },
-      "Unibet (NL)": {
-        "Barcelona": 1.01,
-        "Feyenoord": 121.0,
-        "Draw": 34.0
+      "Winamax (FR)": {
+        "Arsenal": 1.04,
+        "Napoli": 225.0,
+        "Draw": 15.0
       },
       "Betsson": {
-        "Barcelona": 1.0,
-        "Feyenoord": 46.0,
-        "Draw": 23.0
+        "Arsenal": 1.02,
+        "Napoli": 150.0,
+        "Draw": 13.0
       },
       "Nordic Bet": {
-        "Barcelona": 1.0,
-        "Feyenoord": 46.0,
-        "Draw": 23.0
+        "Arsenal": 1.02,
+        "Napoli": 150.0,
+        "Draw": 13.0
       }
     },
-    "287d8b864bf09ee057b007374849d4ae:h2h": {
-      "Winamax (FR)": {
-        "FC Twente Enschede": 1.36,
-        "SC Telstar": 9.5,
-        "Draw": 3.7
-      },
+    "0f3bf8fff62bb732883c00265d28f766:h2h": {
       "Coolbet": {
-        "FC Twente Enschede": 1.4,
-        "SC Telstar": 12.0,
-        "Draw": 4.0
+        "Atlético Madrid": 150.0,
+        "Liverpool": 1.04,
+        "Draw": 12.5
       },
       "Winamax (DE)": {
-        "FC Twente Enschede": 1.36,
-        "SC Telstar": 10.0,
-        "Draw": 3.85
+        "Atlético Madrid": 275.0,
+        "Liverpool": 1.03,
+        "Draw": 17.0
+      },
+      "Betfair": {
+        "Atlético Madrid": 1000.0,
+        "Liverpool": 1.05,
+        "Draw": 17.5
       },
       "Betclic (FR)": {
-        "FC Twente Enschede": 1.33,
-        "SC Telstar": 11.0,
-        "Draw": 3.75
+        "Atlético Madrid": 175.0,
+        "Liverpool": 1.0,
+        "Draw": 9.25
       },
       "888sport": {
-        "FC Twente Enschede": 1.3,
-        "SC Telstar": 8.5,
-        "Draw": 4.6
+        "Atlético Madrid": 67.0,
+        "Liverpool": 1.08,
+        "Draw": 8.0
       },
+      "Winamax (FR)": {
+        "Atlético Madrid": 275.0,
+        "Liverpool": 1.04,
+        "Draw": 17.0
+      },
+      "Betsson": {
+        "Atlético Madrid": 220.0,
+        "Liverpool": 1.02,
+        "Draw": 13.0
+      },
+      "Nordic Bet": {
+        "Atlético Madrid": 250.0,
+        "Liverpool": 1.02,
+        "Draw": 13.0
+      }
+    },
+    "f04baff8219c196b59b97761b3d85820:h2h": {
+      "Coolbet": {
+        "Celtic": 1.01,
+        "St Johnstone": 125.0,
+        "Draw": 13.0
+      },
+      "888sport": {
+        "Celtic": 1.03,
+        "St Johnstone": 126.0,
+        "Draw": 15.0
+      },
+      "Betsson": {
+        "Celtic": 1.01,
+        "St Johnstone": 130.0,
+        "Draw": 13.0
+      },
+      "Nordic Bet": {
+        "Celtic": 1.01,
+        "St Johnstone": 130.0,
+        "Draw": 13.0
+      },
+      "Tipico": {
+        "Celtic": 1.01,
+        "St Johnstone": 400.0,
+        "Draw": 15.0
+      },
+      "Betfair": {
+        "Celtic": 1.04,
+        "St Johnstone": 1000.0,
+        "Draw": 19.0
+      }
+    },
+    "2dafca45a2129bbe3fd6d562d4c74eea:h2h": {
       "LeoVegas (SE)": {
-        "FC Twente Enschede": 1.4,
-        "SC Telstar": 7.5,
-        "Draw": 3.65
+        "Charlton Athletic": 12.0,
+        "Queens Park Rangers": 9.0,
+        "Draw": 1.07
       },
       "PMU (FR)": {
-        "FC Twente Enschede": 1.35,
-        "SC Telstar": 7.0,
-        "Draw": 3.55
+        "Charlton Athletic": 10.5,
+        "Queens Park Rangers": 8.5,
+        "Draw": 1.06
       },
       "Unibet (SE)": {
-        "FC Twente Enschede": 1.44,
-        "SC Telstar": 8.0,
-        "Draw": 3.8
+        "Charlton Athletic": 51.0,
+        "Queens Park Rangers": 41.0,
+        "Draw": 1.01
       },
       "Unibet (NL)": {
-        "FC Twente Enschede": 1.44,
-        "SC Telstar": 8.0,
-        "Draw": 3.8
-      },
-      "Nordic Bet": {
-        "FC Twente Enschede": 1.36,
-        "SC Telstar": 10.5,
-        "Draw": 3.65
-      },
-      "Betsson": {
-        "FC Twente Enschede": 1.36,
-        "SC Telstar": 10.5,
-        "Draw": 3.65
-      },
-      "Betfair": {
-        "FC Twente Enschede": 1.41,
-        "SC Telstar": 12.5,
-        "Draw": 4.6
-      },
-      "Pinnacle": {
-        "FC Twente Enschede": 1.36,
-        "SC Telstar": 12.04,
-        "Draw": 4.04
-      },
-      "Tipico": {
-        "FC Twente Enschede": 1.35,
-        "SC Telstar": 11.0,
-        "Draw": 4.0
-      },
-      "Matchbook": {
-        "FC Twente Enschede": 1.41,
-        "SC Telstar": 12.5,
-        "Draw": 4.6
-      }
-    },
-    "7f35abdd401ebdfd0e74a9fad9051ef0:h2h": {
-      "Coolbet": {
-        "VfB Stuttgart": 1.01,
-        "Viking FK": 150.0,
-        "Draw": 26.0
-      },
-      "Winamax (DE)": {
-        "VfB Stuttgart": 1.01,
-        "Viking FK": 110.0,
-        "Draw": 40.0
-      },
-      "Betfair": {
-        "VfB Stuttgart": 1.02,
-        "Viking FK": 280.0,
-        "Draw": 50.0
+        "Charlton Athletic": 30.0,
+        "Queens Park Rangers": 23.0,
+        "Draw": 1.02
       },
       "Betclic (FR)": {
-        "VfB Stuttgart": 1.0,
-        "Viking FK": 60.0,
-        "Draw": 24.0
+        "Charlton Athletic": 13.25,
+        "Queens Park Rangers": 11.25,
+        "Draw": 1.06
       },
-      "Suprabets": {
-        "VfB Stuttgart": 1.0,
-        "Viking FK": 101.0,
-        "Draw": 17.0
-      },
-      "888sport": {
-        "VfB Stuttgart": 1.0,
-        "Viking FK": 126.0,
-        "Draw": 41.0
-      },
-      "Unibet (SE)": {
-        "VfB Stuttgart": 1.01,
-        "Viking FK": 81.0,
-        "Draw": 23.0
-      },
-      "Unibet (NL)": {
-        "VfB Stuttgart": 1.01,
-        "Viking FK": 81.0,
-        "Draw": 23.0
+      "Winamax (DE)": {
+        "Charlton Athletic": 34.0,
+        "Queens Park Rangers": 29.0,
+        "Draw": 1.02
       },
       "Winamax (FR)": {
-        "VfB Stuttgart": 1.01,
-        "Viking FK": 110.0,
-        "Draw": 40.0
+        "Charlton Athletic": 25.0,
+        "Queens Park Rangers": 19.0,
+        "Draw": 1.05
+      },
+      "Coolbet": {
+        "Charlton Athletic": 16.0,
+        "Queens Park Rangers": 14.0,
+        "Draw": 1.06
+      },
+      "Pinnacle": {
+        "Charlton Athletic": 6.38,
+        "Queens Park Rangers": 4.25,
+        "Draw": 1.5
+      },
+      "Betfair": {
+        "Charlton Athletic": 25.0,
+        "Queens Park Rangers": 29.0,
+        "Draw": 1.03
+      },
+      "Tipico": {
+        "Charlton Athletic": 25.0,
+        "Queens Park Rangers": 20.0,
+        "Draw": 1.02
       },
       "Betsson": {
-        "VfB Stuttgart": 1.0,
-        "Viking FK": 51.0,
-        "Draw": 23.0
+        "Charlton Athletic": 10.5,
+        "Queens Park Rangers": 8.2,
+        "Draw": 1.13
       },
       "Nordic Bet": {
-        "VfB Stuttgart": 1.0,
-        "Viking FK": 51.0,
-        "Draw": 23.0
+        "Charlton Athletic": 11.5,
+        "Queens Park Rangers": 8.6,
+        "Draw": 1.12
       },
-      "Matchbook": {
-        "VfB Stuttgart": 1.02,
-        "Viking FK": 360.0,
-        "Draw": 50.0
+      "888sport": {
+        "Charlton Athletic": 12.0,
+        "Queens Park Rangers": 9.0,
+        "Draw": 1.12
       }
     }
   },
@@ -5975,31 +5955,451 @@
       "confidence": 7,
       "alert_type": "value",
       "alerted_at": "2026-09-09T17:47:14.636998+00:00"
+    },
+    {
+      "state_key": "2dafca45a2129bbe3fd6d562d4c74eea:h2h",
+      "event_id": "2dafca45a2129bbe3fd6d562d4c74eea",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Charlton Athletic",
+      "away_team": "Queens Park Rangers",
+      "commence_time": "2026-09-09T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Charlton Athletic",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 78,
+      "alert_type": "value",
+      "alerted_at": "2026-09-09T20:53:11.534074+00:00"
+    },
+    {
+      "state_key": "2dafca45a2129bbe3fd6d562d4c74eea:h2h",
+      "event_id": "2dafca45a2129bbe3fd6d562d4c74eea",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Charlton Athletic",
+      "away_team": "Queens Park Rangers",
+      "commence_time": "2026-09-09T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Queens Park Rangers",
+      "odds_at_alert": 9.0,
+      "stake_pct": 5.0,
+      "confidence": 100,
+      "alert_type": "value",
+      "alerted_at": "2026-09-09T20:53:12.026074+00:00"
+    },
+    {
+      "state_key": "2dafca45a2129bbe3fd6d562d4c74eea:h2h",
+      "event_id": "2dafca45a2129bbe3fd6d562d4c74eea",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Charlton Athletic",
+      "away_team": "Queens Park Rangers",
+      "commence_time": "2026-09-09T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Charlton Athletic",
+      "odds_at_alert": 10.5,
+      "stake_pct": 5.0,
+      "confidence": 55,
+      "alert_type": "value",
+      "alerted_at": "2026-09-09T20:53:12.552671+00:00"
+    },
+    {
+      "state_key": "2dafca45a2129bbe3fd6d562d4c74eea:h2h",
+      "event_id": "2dafca45a2129bbe3fd6d562d4c74eea",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Charlton Athletic",
+      "away_team": "Queens Park Rangers",
+      "commence_time": "2026-09-09T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Queens Park Rangers",
+      "odds_at_alert": 8.5,
+      "stake_pct": 5.0,
+      "confidence": 89,
+      "alert_type": "value",
+      "alerted_at": "2026-09-09T20:53:13.092181+00:00"
+    },
+    {
+      "state_key": "2dafca45a2129bbe3fd6d562d4c74eea:h2h",
+      "event_id": "2dafca45a2129bbe3fd6d562d4c74eea",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Charlton Athletic",
+      "away_team": "Queens Park Rangers",
+      "commence_time": "2026-09-09T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Charlton Athletic",
+      "odds_at_alert": 51.0,
+      "stake_pct": 5.0,
+      "confidence": 655,
+      "alert_type": "value",
+      "alerted_at": "2026-09-09T20:53:13.605970+00:00"
+    },
+    {
+      "state_key": "2dafca45a2129bbe3fd6d562d4c74eea:h2h",
+      "event_id": "2dafca45a2129bbe3fd6d562d4c74eea",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Charlton Athletic",
+      "away_team": "Queens Park Rangers",
+      "commence_time": "2026-09-09T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Queens Park Rangers",
+      "odds_at_alert": 41.0,
+      "stake_pct": 5.0,
+      "confidence": 811,
+      "alert_type": "value",
+      "alerted_at": "2026-09-09T20:53:14.211257+00:00"
+    },
+    {
+      "state_key": "2dafca45a2129bbe3fd6d562d4c74eea:h2h",
+      "event_id": "2dafca45a2129bbe3fd6d562d4c74eea",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Charlton Athletic",
+      "away_team": "Queens Park Rangers",
+      "commence_time": "2026-09-09T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Charlton Athletic",
+      "odds_at_alert": 30.0,
+      "stake_pct": 5.0,
+      "confidence": 344,
+      "alert_type": "value",
+      "alerted_at": "2026-09-09T20:53:14.952290+00:00"
+    },
+    {
+      "state_key": "2dafca45a2129bbe3fd6d562d4c74eea:h2h",
+      "event_id": "2dafca45a2129bbe3fd6d562d4c74eea",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Charlton Athletic",
+      "away_team": "Queens Park Rangers",
+      "commence_time": "2026-09-09T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Queens Park Rangers",
+      "odds_at_alert": 23.0,
+      "stake_pct": 5.0,
+      "confidence": 411,
+      "alert_type": "value",
+      "alerted_at": "2026-09-09T20:53:15.483825+00:00"
+    },
+    {
+      "state_key": "2dafca45a2129bbe3fd6d562d4c74eea:h2h",
+      "event_id": "2dafca45a2129bbe3fd6d562d4c74eea",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Charlton Athletic",
+      "away_team": "Queens Park Rangers",
+      "commence_time": "2026-09-09T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Charlton Athletic",
+      "odds_at_alert": 13.25,
+      "stake_pct": 5.0,
+      "confidence": 96,
+      "alert_type": "value",
+      "alerted_at": "2026-09-09T20:53:16.065100+00:00"
+    },
+    {
+      "state_key": "2dafca45a2129bbe3fd6d562d4c74eea:h2h",
+      "event_id": "2dafca45a2129bbe3fd6d562d4c74eea",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Charlton Athletic",
+      "away_team": "Queens Park Rangers",
+      "commence_time": "2026-09-09T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Queens Park Rangers",
+      "odds_at_alert": 11.25,
+      "stake_pct": 5.0,
+      "confidence": 150,
+      "alert_type": "value",
+      "alerted_at": "2026-09-09T20:53:16.634029+00:00"
+    },
+    {
+      "state_key": "2dafca45a2129bbe3fd6d562d4c74eea:h2h",
+      "event_id": "2dafca45a2129bbe3fd6d562d4c74eea",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Charlton Athletic",
+      "away_team": "Queens Park Rangers",
+      "commence_time": "2026-09-09T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Charlton Athletic",
+      "odds_at_alert": 34.0,
+      "stake_pct": 5.0,
+      "confidence": 403,
+      "alert_type": "value",
+      "alerted_at": "2026-09-09T20:53:17.162265+00:00"
+    },
+    {
+      "state_key": "2dafca45a2129bbe3fd6d562d4c74eea:h2h",
+      "event_id": "2dafca45a2129bbe3fd6d562d4c74eea",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Charlton Athletic",
+      "away_team": "Queens Park Rangers",
+      "commence_time": "2026-09-09T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Queens Park Rangers",
+      "odds_at_alert": 29.0,
+      "stake_pct": 5.0,
+      "confidence": 545,
+      "alert_type": "value",
+      "alerted_at": "2026-09-09T20:53:17.662018+00:00"
+    },
+    {
+      "state_key": "2dafca45a2129bbe3fd6d562d4c74eea:h2h",
+      "event_id": "2dafca45a2129bbe3fd6d562d4c74eea",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Charlton Athletic",
+      "away_team": "Queens Park Rangers",
+      "commence_time": "2026-09-09T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Charlton Athletic",
+      "odds_at_alert": 25.0,
+      "stake_pct": 5.0,
+      "confidence": 270,
+      "alert_type": "value",
+      "alerted_at": "2026-09-09T20:53:18.167160+00:00"
+    },
+    {
+      "state_key": "2dafca45a2129bbe3fd6d562d4c74eea:h2h",
+      "event_id": "2dafca45a2129bbe3fd6d562d4c74eea",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Charlton Athletic",
+      "away_team": "Queens Park Rangers",
+      "commence_time": "2026-09-09T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Queens Park Rangers",
+      "odds_at_alert": 19.0,
+      "stake_pct": 5.0,
+      "confidence": 322,
+      "alert_type": "value",
+      "alerted_at": "2026-09-09T20:53:18.651750+00:00"
+    },
+    {
+      "state_key": "2dafca45a2129bbe3fd6d562d4c74eea:h2h",
+      "event_id": "2dafca45a2129bbe3fd6d562d4c74eea",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Charlton Athletic",
+      "away_team": "Queens Park Rangers",
+      "commence_time": "2026-09-09T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Charlton Athletic",
+      "odds_at_alert": 16.0,
+      "stake_pct": 5.0,
+      "confidence": 137,
+      "alert_type": "value",
+      "alerted_at": "2026-09-09T20:53:19.154004+00:00"
+    },
+    {
+      "state_key": "2dafca45a2129bbe3fd6d562d4c74eea:h2h",
+      "event_id": "2dafca45a2129bbe3fd6d562d4c74eea",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Charlton Athletic",
+      "away_team": "Queens Park Rangers",
+      "commence_time": "2026-09-09T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Queens Park Rangers",
+      "odds_at_alert": 14.0,
+      "stake_pct": 5.0,
+      "confidence": 211,
+      "alert_type": "value",
+      "alerted_at": "2026-09-09T20:53:19.750480+00:00"
+    },
+    {
+      "state_key": "2dafca45a2129bbe3fd6d562d4c74eea:h2h",
+      "event_id": "2dafca45a2129bbe3fd6d562d4c74eea",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Charlton Athletic",
+      "away_team": "Queens Park Rangers",
+      "commence_time": "2026-09-09T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Charlton Athletic",
+      "odds_at_alert": 25.0,
+      "stake_pct": 5.0,
+      "confidence": 270,
+      "alert_type": "value",
+      "alerted_at": "2026-09-09T20:53:20.357795+00:00"
+    },
+    {
+      "state_key": "2dafca45a2129bbe3fd6d562d4c74eea:h2h",
+      "event_id": "2dafca45a2129bbe3fd6d562d4c74eea",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Charlton Athletic",
+      "away_team": "Queens Park Rangers",
+      "commence_time": "2026-09-09T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Queens Park Rangers",
+      "odds_at_alert": 29.0,
+      "stake_pct": 5.0,
+      "confidence": 545,
+      "alert_type": "value",
+      "alerted_at": "2026-09-09T20:53:20.879241+00:00"
+    },
+    {
+      "state_key": "2dafca45a2129bbe3fd6d562d4c74eea:h2h",
+      "event_id": "2dafca45a2129bbe3fd6d562d4c74eea",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Charlton Athletic",
+      "away_team": "Queens Park Rangers",
+      "commence_time": "2026-09-09T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Charlton Athletic",
+      "odds_at_alert": 25.0,
+      "stake_pct": 5.0,
+      "confidence": 270,
+      "alert_type": "value",
+      "alerted_at": "2026-09-09T20:53:21.474463+00:00"
+    },
+    {
+      "state_key": "2dafca45a2129bbe3fd6d562d4c74eea:h2h",
+      "event_id": "2dafca45a2129bbe3fd6d562d4c74eea",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Charlton Athletic",
+      "away_team": "Queens Park Rangers",
+      "commence_time": "2026-09-09T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Queens Park Rangers",
+      "odds_at_alert": 20.0,
+      "stake_pct": 5.0,
+      "confidence": 344,
+      "alert_type": "value",
+      "alerted_at": "2026-09-09T20:53:22.246081+00:00"
+    },
+    {
+      "state_key": "2dafca45a2129bbe3fd6d562d4c74eea:h2h",
+      "event_id": "2dafca45a2129bbe3fd6d562d4c74eea",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Charlton Athletic",
+      "away_team": "Queens Park Rangers",
+      "commence_time": "2026-09-09T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Charlton Athletic",
+      "odds_at_alert": 10.5,
+      "stake_pct": 5.0,
+      "confidence": 55,
+      "alert_type": "value",
+      "alerted_at": "2026-09-09T20:53:23.350376+00:00"
+    },
+    {
+      "state_key": "2dafca45a2129bbe3fd6d562d4c74eea:h2h",
+      "event_id": "2dafca45a2129bbe3fd6d562d4c74eea",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Charlton Athletic",
+      "away_team": "Queens Park Rangers",
+      "commence_time": "2026-09-09T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Queens Park Rangers",
+      "odds_at_alert": 8.2,
+      "stake_pct": 5.0,
+      "confidence": 82,
+      "alert_type": "value",
+      "alerted_at": "2026-09-09T20:53:23.890691+00:00"
+    },
+    {
+      "state_key": "2dafca45a2129bbe3fd6d562d4c74eea:h2h",
+      "event_id": "2dafca45a2129bbe3fd6d562d4c74eea",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Charlton Athletic",
+      "away_team": "Queens Park Rangers",
+      "commence_time": "2026-09-09T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Charlton Athletic",
+      "odds_at_alert": 11.5,
+      "stake_pct": 5.0,
+      "confidence": 70,
+      "alert_type": "value",
+      "alerted_at": "2026-09-09T20:53:24.382378+00:00"
+    },
+    {
+      "state_key": "2dafca45a2129bbe3fd6d562d4c74eea:h2h",
+      "event_id": "2dafca45a2129bbe3fd6d562d4c74eea",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Charlton Athletic",
+      "away_team": "Queens Park Rangers",
+      "commence_time": "2026-09-09T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Queens Park Rangers",
+      "odds_at_alert": 8.6,
+      "stake_pct": 5.0,
+      "confidence": 91,
+      "alert_type": "value",
+      "alerted_at": "2026-09-09T20:53:24.867745+00:00"
+    },
+    {
+      "state_key": "2dafca45a2129bbe3fd6d562d4c74eea:h2h",
+      "event_id": "2dafca45a2129bbe3fd6d562d4c74eea",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Charlton Athletic",
+      "away_team": "Queens Park Rangers",
+      "commence_time": "2026-09-09T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Charlton Athletic",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 78,
+      "alert_type": "value",
+      "alerted_at": "2026-09-09T20:53:25.449034+00:00"
+    },
+    {
+      "state_key": "2dafca45a2129bbe3fd6d562d4c74eea:h2h",
+      "event_id": "2dafca45a2129bbe3fd6d562d4c74eea",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Charlton Athletic",
+      "away_team": "Queens Park Rangers",
+      "commence_time": "2026-09-09T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Queens Park Rangers",
+      "odds_at_alert": 9.0,
+      "stake_pct": 5.0,
+      "confidence": 100,
+      "alert_type": "value",
+      "alerted_at": "2026-09-09T20:53:25.936727+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "287d8b864bf09ee057b007374849d4ae:h2h|888sport|Draw",
-    "287d8b864bf09ee057b007374849d4ae:h2h|Betfair|Draw",
-    "287d8b864bf09ee057b007374849d4ae:h2h|Matchbook|Draw",
-    "34d5113f27cff62d486ac4d6be88477d:h2h|888sport|Al-Shabab",
-    "34d5113f27cff62d486ac4d6be88477d:h2h|888sport|Draw",
-    "34d5113f27cff62d486ac4d6be88477d:h2h|Betclic (FR)|Al-Shabab",
-    "34d5113f27cff62d486ac4d6be88477d:h2h|Betclic (FR)|Draw",
-    "34d5113f27cff62d486ac4d6be88477d:h2h|Betfair|Al-Shabab",
-    "34d5113f27cff62d486ac4d6be88477d:h2h|Betfair|Draw",
-    "34d5113f27cff62d486ac4d6be88477d:h2h|Tipico|Al-Shabab",
-    "34d5113f27cff62d486ac4d6be88477d:h2h|Tipico|Draw",
-    "34d5113f27cff62d486ac4d6be88477d:h2h|Unibet (SE)|Al-Shabab",
-    "34d5113f27cff62d486ac4d6be88477d:h2h|Unibet (SE)|Draw",
-    "34d5113f27cff62d486ac4d6be88477d:h2h|Winamax (DE)|Al-Shabab",
-    "34d5113f27cff62d486ac4d6be88477d:h2h|Winamax (DE)|Draw",
-    "34d5113f27cff62d486ac4d6be88477d:h2h|Winamax (FR)|Al-Shabab",
-    "34d5113f27cff62d486ac4d6be88477d:h2h|Winamax (FR)|Draw",
-    "c9bbedd626635eddff4934e689472fb8:h2h|Betfair|Draw",
-    "c9bbedd626635eddff4934e689472fb8:h2h|Betfair|Feyenoord",
-    "c9bbedd626635eddff4934e689472fb8:h2h|Matchbook|Draw",
-    "c9bbedd626635eddff4934e689472fb8:h2h|Matchbook|Feyenoord",
-    "c9bbedd626635eddff4934e689472fb8:h2h|Winamax (DE)|Draw"
+    "2dafca45a2129bbe3fd6d562d4c74eea:h2h|888sport|Charlton Athletic",
+    "2dafca45a2129bbe3fd6d562d4c74eea:h2h|888sport|Queens Park Rangers",
+    "2dafca45a2129bbe3fd6d562d4c74eea:h2h|Betclic (FR)|Charlton Athletic",
+    "2dafca45a2129bbe3fd6d562d4c74eea:h2h|Betclic (FR)|Queens Park Rangers",
+    "2dafca45a2129bbe3fd6d562d4c74eea:h2h|Betfair|Charlton Athletic",
+    "2dafca45a2129bbe3fd6d562d4c74eea:h2h|Betfair|Queens Park Rangers",
+    "2dafca45a2129bbe3fd6d562d4c74eea:h2h|Betsson|Charlton Athletic",
+    "2dafca45a2129bbe3fd6d562d4c74eea:h2h|Betsson|Queens Park Rangers",
+    "2dafca45a2129bbe3fd6d562d4c74eea:h2h|Coolbet|Charlton Athletic",
+    "2dafca45a2129bbe3fd6d562d4c74eea:h2h|Coolbet|Queens Park Rangers",
+    "2dafca45a2129bbe3fd6d562d4c74eea:h2h|LeoVegas (SE)|Charlton Athletic",
+    "2dafca45a2129bbe3fd6d562d4c74eea:h2h|LeoVegas (SE)|Queens Park Rangers",
+    "2dafca45a2129bbe3fd6d562d4c74eea:h2h|Nordic Bet|Charlton Athletic",
+    "2dafca45a2129bbe3fd6d562d4c74eea:h2h|Nordic Bet|Queens Park Rangers",
+    "2dafca45a2129bbe3fd6d562d4c74eea:h2h|PMU (FR)|Charlton Athletic",
+    "2dafca45a2129bbe3fd6d562d4c74eea:h2h|PMU (FR)|Queens Park Rangers",
+    "2dafca45a2129bbe3fd6d562d4c74eea:h2h|Tipico|Charlton Athletic",
+    "2dafca45a2129bbe3fd6d562d4c74eea:h2h|Tipico|Queens Park Rangers",
+    "2dafca45a2129bbe3fd6d562d4c74eea:h2h|Unibet (NL)|Charlton Athletic",
+    "2dafca45a2129bbe3fd6d562d4c74eea:h2h|Unibet (NL)|Queens Park Rangers",
+    "2dafca45a2129bbe3fd6d562d4c74eea:h2h|Unibet (SE)|Charlton Athletic",
+    "2dafca45a2129bbe3fd6d562d4c74eea:h2h|Unibet (SE)|Queens Park Rangers",
+    "2dafca45a2129bbe3fd6d562d4c74eea:h2h|Winamax (DE)|Charlton Athletic",
+    "2dafca45a2129bbe3fd6d562d4c74eea:h2h|Winamax (DE)|Queens Park Rangers",
+    "2dafca45a2129bbe3fd6d562d4c74eea:h2h|Winamax (FR)|Charlton Athletic",
+    "2dafca45a2129bbe3fd6d562d4c74eea:h2h|Winamax (FR)|Queens Park Rangers"
   ]
 }
