@@ -1,141 +1,175 @@
 {
   "snapshots": {
-    "e7518aaef1d471231b0eba349a24a966:h2h": {
+    "13c4060b6b5e447b7c7ae2eec585d98c:h2h": {
       "Betclic (FR)": {
-        "Bolton Wanderers": 100.0,
-        "West Ham United": 1.0,
-        "Draw": 26.0
-      },
-      "Winamax (DE)": {
-        "Bolton Wanderers": 450.0,
-        "West Ham United": 1.02,
-        "Draw": 14.5
-      },
-      "Winamax (FR)": {
-        "Bolton Wanderers": 600.0,
-        "West Ham United": 1.04,
-        "Draw": 15.0
+        "Fluminense-RJ": 1.0,
+        "Platense": 95.0,
+        "Draw": 75.0
       },
       "Nordic Bet": {
-        "Bolton Wanderers": 101.0,
-        "West Ham United": 1.0,
-        "Draw": 15.0
+        "Fluminense-RJ": 1.0,
+        "Platense": 26.0,
+        "Draw": 26.0
       },
       "Betsson": {
-        "Bolton Wanderers": 126.0,
-        "West Ham United": 1.0,
-        "Draw": 15.0
-      },
-      "Betfair": {
-        "Bolton Wanderers": 220.0,
-        "West Ham United": 1.06,
-        "Draw": 15.0
-      },
-      "888sport": {
-        "Bolton Wanderers": 151.0,
-        "West Ham United": 1.01,
-        "Draw": 29.0
-      },
-      "Coolbet": {
-        "Bolton Wanderers": 150.0,
-        "West Ham United": 1.01,
-        "Draw": 13.0
+        "Fluminense-RJ": 1.0,
+        "Platense": 26.0,
+        "Draw": 26.0
       }
     },
-    "33aa4b8a301a13b229e96901d831fd38:h2h": {
+    "7d9d185678a5c78abdd644ae77aba0a7:h2h": {
+      "Coolbet": {
+        "Independiente Santa Fe": 18.0,
+        "Vasco da Gama": 22.0,
+        "Draw": 1.03
+      },
+      "Betfair": {
+        "Independiente Santa Fe": 1.01,
+        "Vasco da Gama": 1.01
+      },
+      "Nordic Bet": {
+        "Independiente Santa Fe": 17.0,
+        "Vasco da Gama": 21.0,
+        "Draw": 1.03
+      },
+      "Unibet (NL)": {
+        "Independiente Santa Fe": 34.0,
+        "Vasco da Gama": 41.0,
+        "Draw": 1.01
+      },
       "Pinnacle": {
-        "Borussia Dortmund": 3.17,
-        "Villarreal": 5.78,
-        "Draw": 1.78
+        "Independiente Santa Fe": 4.91,
+        "Vasco da Gama": 6.88,
+        "Draw": 1.4
+      }
+    },
+    "5184bb3c767d6b6735fd7b5f51b101d2:h2h": {
+      "LeoVegas (SE)": {
+        "Athletic Club (MG)": 4.6,
+        "Cuiabá": 1.97,
+        "Draw": 2.33
+      },
+      "Unibet (SE)": {
+        "Athletic Club (MG)": 4.9,
+        "Cuiabá": 2.1,
+        "Draw": 2.48
+      },
+      "Unibet (NL)": {
+        "Athletic Club (MG)": 4.7,
+        "Cuiabá": 2.0,
+        "Draw": 2.38
       },
       "Coolbet": {
-        "Borussia Dortmund": 1.01,
-        "Villarreal": 150.0,
-        "Draw": 22.0
-      },
-      "Winamax (DE)": {
-        "Borussia Dortmund": 1.03,
-        "Villarreal": 800.0,
-        "Draw": 18.0
-      },
-      "Betfair": {
-        "Borussia Dortmund": 1.03,
-        "Villarreal": 1000.0,
-        "Draw": 26.0
-      },
-      "Betclic (FR)": {
-        "Borussia Dortmund": 1.0,
-        "Villarreal": 100.0,
-        "Draw": 20.0
-      },
-      "Winamax (FR)": {
-        "Borussia Dortmund": 1.03,
-        "Villarreal": 800.0,
-        "Draw": 17.0
+        "Athletic Club (MG)": 4.5,
+        "Cuiabá": 2.2,
+        "Draw": 2.38
       },
       "Betsson": {
-        "Borussia Dortmund": 1.0,
-        "Villarreal": 67.0,
-        "Draw": 21.0
+        "Athletic Club (MG)": 4.6,
+        "Cuiabá": 2.15,
+        "Draw": 2.4
       },
       "Nordic Bet": {
-        "Borussia Dortmund": 1.01,
-        "Villarreal": 220.0,
-        "Draw": 15.0
-      }
-    },
-    "bfeab0a3d8931c7cdff0056c041ff97c:h2h": {
-      "Winamax (DE)": {
-        "Manchester City": 1.06,
-        "Porto": 95.0,
-        "Draw": 10.0
+        "Athletic Club (MG)": 4.6,
+        "Cuiabá": 2.15,
+        "Draw": 2.4
       },
-      "Betfair": {
-        "Manchester City": 1.09,
-        "Porto": 180.0,
-        "Draw": 11.5
-      },
-      "Betclic (FR)": {
-        "Manchester City": 1.0,
-        "Porto": 250.0,
-        "Draw": 10.0
+      "Pinnacle": {
+        "Athletic Club (MG)": 4.82,
+        "Cuiabá": 2.22,
+        "Draw": 2.45
       },
       "888sport": {
-        "Manchester City": 1.05,
-        "Porto": 101.0,
-        "Draw": 12.0
+        "Athletic Club (MG)": 4.0,
+        "Cuiabá": 2.25,
+        "Draw": 2.4
       },
-      "Winamax (FR)": {
-        "Manchester City": 1.07,
-        "Porto": 110.0,
-        "Draw": 10.0
-      },
-      "Betsson": {
-        "Manchester City": 1.05,
-        "Porto": 65.0,
-        "Draw": 8.2
-      },
-      "Nordic Bet": {
-        "Manchester City": 1.04,
-        "Porto": 75.0,
-        "Draw": 8.7
-      }
-    },
-    "48871776013e64232ad967270b78707f:h2h": {
-      "Betsson": {
-        "Millwall": 67.0,
-        "Newcastle United": 1.0,
-        "Draw": 17.0
-      },
-      "Nordic Bet": {
-        "Millwall": 1.0,
-        "Newcastle United": 1.0,
-        "Draw": 1.0
+      "Matchbook": {
+        "Athletic Club (MG)": 5.7,
+        "Cuiabá": 2.12,
+        "Draw": 2.64
       },
       "Betfair": {
-        "Millwall": 1000.0,
-        "Newcastle United": 1.02,
-        "Draw": 34.0
+        "Athletic Club (MG)": 5.6,
+        "Cuiabá": 2.22,
+        "Draw": 2.66
+      }
+    },
+    "051e1a11d3682918ca6743bc186f25c2:h2h": {
+      "Unibet (NL)": {
+        "Criciuma": 2.32,
+        "Juventude": 3.3,
+        "Draw": 2.48
+      },
+      "Unibet (SE)": {
+        "Criciuma": 2.48,
+        "Juventude": 3.45,
+        "Draw": 2.55
+      },
+      "LeoVegas (SE)": {
+        "Criciuma": 2.32,
+        "Juventude": 3.25,
+        "Draw": 2.4
+      },
+      "Betsson": {
+        "Criciuma": 2.45,
+        "Juventude": 3.2,
+        "Draw": 2.65
+      },
+      "Nordic Bet": {
+        "Criciuma": 2.45,
+        "Juventude": 3.2,
+        "Draw": 2.65
+      },
+      "Coolbet": {
+        "Criciuma": 2.4,
+        "Juventude": 3.25,
+        "Draw": 2.75
+      },
+      "Codere (IT)": {
+        "Criciuma": 2.25,
+        "Juventude": 3.6,
+        "Draw": 2.7
+      },
+      "Pinnacle": {
+        "Criciuma": 2.39,
+        "Juventude": 3.82,
+        "Draw": 2.79
+      },
+      "1xBet": {
+        "Criciuma": 2.42,
+        "Juventude": 3.48,
+        "Draw": 2.71
+      },
+      "888sport": {
+        "Criciuma": 2.4,
+        "Juventude": 3.2,
+        "Draw": 2.62
+      },
+      "William Hill": {
+        "Criciuma": 2.3,
+        "Juventude": 3.4,
+        "Draw": 2.7
+      },
+      "Matchbook": {
+        "Criciuma": 2.58,
+        "Juventude": 3.75,
+        "Draw": 2.78
+      },
+      "Marathon Bet": {
+        "Criciuma": 2.35,
+        "Juventude": 3.58,
+        "Draw": 2.67
+      },
+      "Tipico": {
+        "Criciuma": 2.4,
+        "Juventude": 3.2,
+        "Draw": 2.7
+      },
+      "Betfair": {
+        "Criciuma": 2.56,
+        "Juventude": 3.75,
+        "Draw": 2.84
       }
     }
   },
@@ -5404,23 +5438,145 @@
       "confidence": 702,
       "alert_type": "value",
       "alerted_at": "2026-09-08T21:05:04.418689+00:00"
+    },
+    {
+      "state_key": "7d9d185678a5c78abdd644ae77aba0a7:h2h",
+      "event_id": "7d9d185678a5c78abdd644ae77aba0a7",
+      "sport_key": "soccer",
+      "competition": "Copa Sudamericana",
+      "home_team": "Independiente Santa Fe",
+      "away_team": "Vasco da Gama",
+      "commence_time": "2026-09-08T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Independiente Santa Fe",
+      "odds_at_alert": 18.0,
+      "stake_pct": 5.0,
+      "confidence": 245,
+      "alert_type": "value",
+      "alerted_at": "2026-09-09T00:07:49.486034+00:00"
+    },
+    {
+      "state_key": "7d9d185678a5c78abdd644ae77aba0a7:h2h",
+      "event_id": "7d9d185678a5c78abdd644ae77aba0a7",
+      "sport_key": "soccer",
+      "competition": "Copa Sudamericana",
+      "home_team": "Independiente Santa Fe",
+      "away_team": "Vasco da Gama",
+      "commence_time": "2026-09-08T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Vasco da Gama",
+      "odds_at_alert": 22.0,
+      "stake_pct": 5.0,
+      "confidence": 201,
+      "alert_type": "value",
+      "alerted_at": "2026-09-09T00:07:49.887030+00:00"
+    },
+    {
+      "state_key": "7d9d185678a5c78abdd644ae77aba0a7:h2h",
+      "event_id": "7d9d185678a5c78abdd644ae77aba0a7",
+      "sport_key": "soccer",
+      "competition": "Copa Sudamericana",
+      "home_team": "Independiente Santa Fe",
+      "away_team": "Vasco da Gama",
+      "commence_time": "2026-09-08T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Independiente Santa Fe",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 226,
+      "alert_type": "value",
+      "alerted_at": "2026-09-09T00:07:50.194018+00:00"
+    },
+    {
+      "state_key": "7d9d185678a5c78abdd644ae77aba0a7:h2h",
+      "event_id": "7d9d185678a5c78abdd644ae77aba0a7",
+      "sport_key": "soccer",
+      "competition": "Copa Sudamericana",
+      "home_team": "Independiente Santa Fe",
+      "away_team": "Vasco da Gama",
+      "commence_time": "2026-09-08T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Vasco da Gama",
+      "odds_at_alert": 21.0,
+      "stake_pct": 5.0,
+      "confidence": 187,
+      "alert_type": "value",
+      "alerted_at": "2026-09-09T00:07:50.510749+00:00"
+    },
+    {
+      "state_key": "7d9d185678a5c78abdd644ae77aba0a7:h2h",
+      "event_id": "7d9d185678a5c78abdd644ae77aba0a7",
+      "sport_key": "soccer",
+      "competition": "Copa Sudamericana",
+      "home_team": "Independiente Santa Fe",
+      "away_team": "Vasco da Gama",
+      "commence_time": "2026-09-08T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Independiente Santa Fe",
+      "odds_at_alert": 34.0,
+      "stake_pct": 5.0,
+      "confidence": 551,
+      "alert_type": "value",
+      "alerted_at": "2026-09-09T00:07:50.822022+00:00"
+    },
+    {
+      "state_key": "7d9d185678a5c78abdd644ae77aba0a7:h2h",
+      "event_id": "7d9d185678a5c78abdd644ae77aba0a7",
+      "sport_key": "soccer",
+      "competition": "Copa Sudamericana",
+      "home_team": "Independiente Santa Fe",
+      "away_team": "Vasco da Gama",
+      "commence_time": "2026-09-08T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Vasco da Gama",
+      "odds_at_alert": 41.0,
+      "stake_pct": 5.0,
+      "confidence": 460,
+      "alert_type": "value",
+      "alerted_at": "2026-09-09T00:07:51.144284+00:00"
+    },
+    {
+      "state_key": "5184bb3c767d6b6735fd7b5f51b101d2:h2h",
+      "event_id": "5184bb3c767d6b6735fd7b5f51b101d2",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Cuiabá",
+      "away_team": "Athletic Club (MG)",
+      "commence_time": "2026-09-08T23:29:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Athletic Club (MG)",
+      "odds_at_alert": 5.7,
+      "stake_pct": 3.0,
+      "confidence": 11,
+      "alert_type": "value",
+      "alerted_at": "2026-09-09T00:07:51.465293+00:00"
+    },
+    {
+      "state_key": "5184bb3c767d6b6735fd7b5f51b101d2:h2h",
+      "event_id": "5184bb3c767d6b6735fd7b5f51b101d2",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Cuiabá",
+      "away_team": "Athletic Club (MG)",
+      "commence_time": "2026-09-08T23:29:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Athletic Club (MG)",
+      "odds_at_alert": 5.6,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-09-09T00:07:51.776585+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "33aa4b8a301a13b229e96901d831fd38:h2h|Betclic (FR)|Draw",
-    "33aa4b8a301a13b229e96901d831fd38:h2h|Betclic (FR)|Villarreal",
-    "33aa4b8a301a13b229e96901d831fd38:h2h|Betfair|Draw",
-    "33aa4b8a301a13b229e96901d831fd38:h2h|Betfair|Villarreal",
-    "33aa4b8a301a13b229e96901d831fd38:h2h|Betsson|Draw",
-    "33aa4b8a301a13b229e96901d831fd38:h2h|Betsson|Villarreal",
-    "33aa4b8a301a13b229e96901d831fd38:h2h|Coolbet|Draw",
-    "33aa4b8a301a13b229e96901d831fd38:h2h|Coolbet|Villarreal",
-    "33aa4b8a301a13b229e96901d831fd38:h2h|Nordic Bet|Draw",
-    "33aa4b8a301a13b229e96901d831fd38:h2h|Nordic Bet|Villarreal",
-    "33aa4b8a301a13b229e96901d831fd38:h2h|Winamax (DE)|Draw",
-    "33aa4b8a301a13b229e96901d831fd38:h2h|Winamax (DE)|Villarreal",
-    "33aa4b8a301a13b229e96901d831fd38:h2h|Winamax (FR)|Draw",
-    "33aa4b8a301a13b229e96901d831fd38:h2h|Winamax (FR)|Villarreal"
+    "5184bb3c767d6b6735fd7b5f51b101d2:h2h|Betfair|Athletic Club (MG)",
+    "5184bb3c767d6b6735fd7b5f51b101d2:h2h|Matchbook|Athletic Club (MG)",
+    "7d9d185678a5c78abdd644ae77aba0a7:h2h|Coolbet|Independiente Santa Fe",
+    "7d9d185678a5c78abdd644ae77aba0a7:h2h|Coolbet|Vasco da Gama",
+    "7d9d185678a5c78abdd644ae77aba0a7:h2h|Nordic Bet|Independiente Santa Fe",
+    "7d9d185678a5c78abdd644ae77aba0a7:h2h|Nordic Bet|Vasco da Gama",
+    "7d9d185678a5c78abdd644ae77aba0a7:h2h|Unibet (NL)|Independiente Santa Fe",
+    "7d9d185678a5c78abdd644ae77aba0a7:h2h|Unibet (NL)|Vasco da Gama"
   ]
 }
