@@ -1,175 +1,391 @@
 {
   "snapshots": {
-    "13c4060b6b5e447b7c7ae2eec585d98c:h2h": {
+    "494e60d70a98c777ceebe001fccd9ee4:h2h": {
+      "Unibet (SE)": {
+        "Daejeon Citizen": 1.56,
+        "FC Anyang": 4.7,
+        "Draw": 3.7
+      },
+      "Unibet (NL)": {
+        "Daejeon Citizen": 1.56,
+        "FC Anyang": 4.7,
+        "Draw": 3.7
+      },
+      "PMU (FR)": {
+        "Daejeon Citizen": 1.5,
+        "FC Anyang": 4.5,
+        "Draw": 3.55
+      },
+      "LeoVegas (SE)": {
+        "Daejeon Citizen": 1.55,
+        "FC Anyang": 4.7,
+        "Draw": 3.65
+      },
+      "Coolbet": {
+        "Daejeon Citizen": 1.55,
+        "FC Anyang": 5.75,
+        "Draw": 4.2
+      },
+      "Unibet (FR)": {
+        "Daejeon Citizen": 1.45,
+        "FC Anyang": 5.3,
+        "Draw": 4.1
+      },
+      "BetOnline.ag": {
+        "Daejeon Citizen": 1.52,
+        "FC Anyang": 5.7,
+        "Draw": 4.4
+      },
+      "Betsson": {
+        "Daejeon Citizen": 1.5,
+        "FC Anyang": 5.3,
+        "Draw": 4.05
+      },
       "Betclic (FR)": {
-        "Fluminense-RJ": 1.0,
-        "Platense": 95.0,
-        "Draw": 75.0
+        "Daejeon Citizen": 1.49,
+        "FC Anyang": 5.4,
+        "Draw": 4.15
       },
       "Nordic Bet": {
-        "Fluminense-RJ": 1.0,
-        "Platense": 26.0,
-        "Draw": 26.0
+        "Daejeon Citizen": 1.5,
+        "FC Anyang": 5.3,
+        "Draw": 4.05
       },
-      "Betsson": {
-        "Fluminense-RJ": 1.0,
-        "Platense": 26.0,
-        "Draw": 26.0
-      }
-    },
-    "7d9d185678a5c78abdd644ae77aba0a7:h2h": {
-      "Coolbet": {
-        "Independiente Santa Fe": 18.0,
-        "Vasco da Gama": 22.0,
-        "Draw": 1.03
+      "Pinnacle": {
+        "Daejeon Citizen": 1.54,
+        "FC Anyang": 5.99,
+        "Draw": 4.54
       },
       "Betfair": {
-        "Independiente Santa Fe": 1.01,
-        "Vasco da Gama": 1.01
-      },
-      "Nordic Bet": {
-        "Independiente Santa Fe": 17.0,
-        "Vasco da Gama": 21.0,
-        "Draw": 1.03
-      },
-      "Unibet (NL)": {
-        "Independiente Santa Fe": 34.0,
-        "Vasco da Gama": 41.0,
-        "Draw": 1.01
-      },
-      "Pinnacle": {
-        "Independiente Santa Fe": 4.91,
-        "Vasco da Gama": 6.88,
-        "Draw": 1.4
-      }
-    },
-    "5184bb3c767d6b6735fd7b5f51b101d2:h2h": {
-      "LeoVegas (SE)": {
-        "Athletic Club (MG)": 4.6,
-        "Cuiabá": 1.97,
-        "Draw": 2.33
-      },
-      "Unibet (SE)": {
-        "Athletic Club (MG)": 4.9,
-        "Cuiabá": 2.1,
-        "Draw": 2.48
-      },
-      "Unibet (NL)": {
-        "Athletic Club (MG)": 4.7,
-        "Cuiabá": 2.0,
-        "Draw": 2.38
-      },
-      "Coolbet": {
-        "Athletic Club (MG)": 4.5,
-        "Cuiabá": 2.2,
-        "Draw": 2.38
-      },
-      "Betsson": {
-        "Athletic Club (MG)": 4.6,
-        "Cuiabá": 2.15,
-        "Draw": 2.4
-      },
-      "Nordic Bet": {
-        "Athletic Club (MG)": 4.6,
-        "Cuiabá": 2.15,
-        "Draw": 2.4
-      },
-      "Pinnacle": {
-        "Athletic Club (MG)": 4.82,
-        "Cuiabá": 2.22,
-        "Draw": 2.45
-      },
-      "888sport": {
-        "Athletic Club (MG)": 4.0,
-        "Cuiabá": 2.25,
-        "Draw": 2.4
-      },
-      "Matchbook": {
-        "Athletic Club (MG)": 5.7,
-        "Cuiabá": 2.12,
-        "Draw": 2.64
-      },
-      "Betfair": {
-        "Athletic Club (MG)": 5.6,
-        "Cuiabá": 2.22,
-        "Draw": 2.66
-      }
-    },
-    "051e1a11d3682918ca6743bc186f25c2:h2h": {
-      "Unibet (NL)": {
-        "Criciuma": 2.32,
-        "Juventude": 3.3,
-        "Draw": 2.48
-      },
-      "Unibet (SE)": {
-        "Criciuma": 2.48,
-        "Juventude": 3.45,
-        "Draw": 2.55
-      },
-      "LeoVegas (SE)": {
-        "Criciuma": 2.32,
-        "Juventude": 3.25,
-        "Draw": 2.4
-      },
-      "Betsson": {
-        "Criciuma": 2.45,
-        "Juventude": 3.2,
-        "Draw": 2.65
-      },
-      "Nordic Bet": {
-        "Criciuma": 2.45,
-        "Juventude": 3.2,
-        "Draw": 2.65
-      },
-      "Coolbet": {
-        "Criciuma": 2.4,
-        "Juventude": 3.25,
-        "Draw": 2.75
-      },
-      "Codere (IT)": {
-        "Criciuma": 2.25,
-        "Juventude": 3.6,
-        "Draw": 2.7
-      },
-      "Pinnacle": {
-        "Criciuma": 2.39,
-        "Juventude": 3.82,
-        "Draw": 2.79
+        "Daejeon Citizen": 1.57,
+        "FC Anyang": 6.2,
+        "Draw": 4.5
       },
       "1xBet": {
-        "Criciuma": 2.42,
-        "Juventude": 3.48,
-        "Draw": 2.71
-      },
-      "888sport": {
-        "Criciuma": 2.4,
-        "Juventude": 3.2,
-        "Draw": 2.62
-      },
-      "William Hill": {
-        "Criciuma": 2.3,
-        "Juventude": 3.4,
-        "Draw": 2.7
-      },
-      "Matchbook": {
-        "Criciuma": 2.58,
-        "Juventude": 3.75,
-        "Draw": 2.78
+        "Daejeon Citizen": 1.53,
+        "FC Anyang": 5.62,
+        "Draw": 4.25
       },
       "Marathon Bet": {
-        "Criciuma": 2.35,
-        "Juventude": 3.58,
-        "Draw": 2.67
+        "Daejeon Citizen": 1.5,
+        "FC Anyang": 5.8,
+        "Draw": 4.3
+      },
+      "Winamax (FR)": {
+        "Daejeon Citizen": 1.48,
+        "FC Anyang": 5.0,
+        "Draw": 4.1
+      },
+      "Winamax (DE)": {
+        "Daejeon Citizen": 1.5,
+        "FC Anyang": 5.1,
+        "Draw": 4.3
+      },
+      "William Hill": {
+        "Daejeon Citizen": 1.55,
+        "FC Anyang": 5.5,
+        "Draw": 3.9
       },
       "Tipico": {
-        "Criciuma": 2.4,
-        "Juventude": 3.2,
-        "Draw": 2.7
+        "Daejeon Citizen": 1.47,
+        "FC Anyang": 5.7,
+        "Draw": 4.3
+      },
+      "Matchbook": {
+        "Daejeon Citizen": 1.57,
+        "FC Anyang": 6.2,
+        "Draw": 4.5
+      }
+    },
+    "50657ccce40d470b6672ffbadb459375:h2h": {
+      "Unibet (NL)": {
+        "Gangwon FC": 2.45,
+        "Jeonbuk Hyundai Motors": 2.63,
+        "Draw": 3.0
+      },
+      "LeoVegas (SE)": {
+        "Gangwon FC": 2.43,
+        "Jeonbuk Hyundai Motors": 2.6,
+        "Draw": 3.0
+      },
+      "PMU (FR)": {
+        "Gangwon FC": 2.35,
+        "Jeonbuk Hyundai Motors": 2.5,
+        "Draw": 2.9
+      },
+      "Unibet (SE)": {
+        "Gangwon FC": 2.45,
+        "Jeonbuk Hyundai Motors": 2.63,
+        "Draw": 3.0
+      },
+      "Coolbet": {
+        "Gangwon FC": 2.8,
+        "Jeonbuk Hyundai Motors": 2.55,
+        "Draw": 3.2
+      },
+      "Unibet (FR)": {
+        "Gangwon FC": 2.8,
+        "Jeonbuk Hyundai Motors": 2.3,
+        "Draw": 3.1
+      },
+      "Betclic (FR)": {
+        "Gangwon FC": 2.8,
+        "Jeonbuk Hyundai Motors": 2.4,
+        "Draw": 3.07
+      },
+      "BetOnline.ag": {
+        "Gangwon FC": 3.0,
+        "Jeonbuk Hyundai Motors": 2.5,
+        "Draw": 3.1
+      },
+      "Betsson": {
+        "Gangwon FC": 2.8,
+        "Jeonbuk Hyundai Motors": 2.42,
+        "Draw": 3.0
+      },
+      "Nordic Bet": {
+        "Gangwon FC": 2.8,
+        "Jeonbuk Hyundai Motors": 2.42,
+        "Draw": 3.0
+      },
+      "Pinnacle": {
+        "Gangwon FC": 3.01,
+        "Jeonbuk Hyundai Motors": 2.56,
+        "Draw": 3.23
       },
       "Betfair": {
-        "Criciuma": 2.56,
-        "Juventude": 3.75,
-        "Draw": 2.84
+        "Gangwon FC": 3.05,
+        "Jeonbuk Hyundai Motors": 2.62,
+        "Draw": 3.25
+      },
+      "1xBet": {
+        "Gangwon FC": 2.86,
+        "Jeonbuk Hyundai Motors": 2.51,
+        "Draw": 3.08
+      },
+      "Marathon Bet": {
+        "Gangwon FC": 2.86,
+        "Jeonbuk Hyundai Motors": 2.51,
+        "Draw": 3.08
+      },
+      "Winamax (FR)": {
+        "Gangwon FC": 2.7,
+        "Jeonbuk Hyundai Motors": 2.35,
+        "Draw": 3.1
+      },
+      "Winamax (DE)": {
+        "Gangwon FC": 2.75,
+        "Jeonbuk Hyundai Motors": 2.4,
+        "Draw": 3.15
+      },
+      "William Hill": {
+        "Gangwon FC": 2.8,
+        "Jeonbuk Hyundai Motors": 2.5,
+        "Draw": 3.0
+      },
+      "Tipico": {
+        "Gangwon FC": 2.95,
+        "Jeonbuk Hyundai Motors": 2.4,
+        "Draw": 3.0
+      },
+      "Matchbook": {
+        "Gangwon FC": 3.05,
+        "Jeonbuk Hyundai Motors": 2.62,
+        "Draw": 3.25
+      }
+    },
+    "c85d7c817374d57e29459f599d78bf02:h2h": {
+      "PMU (FR)": {
+        "Gwangju FC": 3.4,
+        "Jeju United FC": 1.85,
+        "Draw": 3.0
+      },
+      "LeoVegas (SE)": {
+        "Gwangju FC": 3.5,
+        "Jeju United FC": 1.91,
+        "Draw": 3.1
+      },
+      "Unibet (NL)": {
+        "Gwangju FC": 3.5,
+        "Jeju United FC": 1.92,
+        "Draw": 3.15
+      },
+      "Unibet (SE)": {
+        "Gwangju FC": 3.5,
+        "Jeju United FC": 1.92,
+        "Draw": 3.15
+      },
+      "Unibet (FR)": {
+        "Gwangju FC": 3.9,
+        "Jeju United FC": 1.78,
+        "Draw": 3.3
+      },
+      "Betclic (FR)": {
+        "Gwangju FC": 3.9,
+        "Jeju United FC": 1.84,
+        "Draw": 3.33
+      },
+      "Coolbet": {
+        "Gwangju FC": 3.85,
+        "Jeju United FC": 1.93,
+        "Draw": 3.5
+      },
+      "BetOnline.ag": {
+        "Gwangju FC": 4.1,
+        "Jeju United FC": 1.87,
+        "Draw": 3.6
+      },
+      "Betsson": {
+        "Gwangju FC": 3.9,
+        "Jeju United FC": 1.85,
+        "Draw": 3.3
+      },
+      "Nordic Bet": {
+        "Gwangju FC": 3.9,
+        "Jeju United FC": 1.85,
+        "Draw": 3.3
+      },
+      "Pinnacle": {
+        "Gwangju FC": 4.2,
+        "Jeju United FC": 1.92,
+        "Draw": 3.64
+      },
+      "Betfair": {
+        "Gwangju FC": 4.4,
+        "Jeju United FC": 1.93,
+        "Draw": 3.7
+      },
+      "1xBet": {
+        "Gwangju FC": 3.92,
+        "Jeju United FC": 1.89,
+        "Draw": 3.52
+      },
+      "Marathon Bet": {
+        "Gwangju FC": 3.94,
+        "Jeju United FC": 1.87,
+        "Draw": 3.52
+      },
+      "Winamax (FR)": {
+        "Gwangju FC": 3.7,
+        "Jeju United FC": 1.82,
+        "Draw": 3.35
+      },
+      "Winamax (DE)": {
+        "Gwangju FC": 3.8,
+        "Jeju United FC": 1.84,
+        "Draw": 3.45
+      },
+      "William Hill": {
+        "Gwangju FC": 3.8,
+        "Jeju United FC": 1.91,
+        "Draw": 3.3
+      },
+      "Tipico": {
+        "Gwangju FC": 4.2,
+        "Jeju United FC": 1.77,
+        "Draw": 3.5
+      },
+      "Matchbook": {
+        "Gwangju FC": 4.4,
+        "Jeju United FC": 1.94,
+        "Draw": 3.7
+      }
+    },
+    "d031871b9a26baca8a183c986f260409:h2h": {
+      "LeoVegas (SE)": {
+        "Pohang Steelers": 2.45,
+        "Sangju Sangmu FC": 2.6,
+        "Draw": 3.0
+      },
+      "PMU (FR)": {
+        "Pohang Steelers": 2.35,
+        "Sangju Sangmu FC": 2.5,
+        "Draw": 2.9
+      },
+      "Unibet (SE)": {
+        "Pohang Steelers": 2.45,
+        "Sangju Sangmu FC": 2.6,
+        "Draw": 3.0
+      },
+      "Unibet (NL)": {
+        "Pohang Steelers": 2.45,
+        "Sangju Sangmu FC": 2.6,
+        "Draw": 3.0
+      },
+      "Betclic (FR)": {
+        "Pohang Steelers": 2.45,
+        "Sangju Sangmu FC": 2.78,
+        "Draw": 3.02
+      },
+      "Coolbet": {
+        "Pohang Steelers": 2.6,
+        "Sangju Sangmu FC": 2.8,
+        "Draw": 3.15
+      },
+      "Unibet (FR)": {
+        "Pohang Steelers": 2.35,
+        "Sangju Sangmu FC": 2.75,
+        "Draw": 3.0
+      },
+      "BetOnline.ag": {
+        "Pohang Steelers": 2.6,
+        "Sangju Sangmu FC": 3.0,
+        "Draw": 2.98
+      },
+      "Betsson": {
+        "Pohang Steelers": 2.45,
+        "Sangju Sangmu FC": 2.75,
+        "Draw": 2.95
+      },
+      "Nordic Bet": {
+        "Pohang Steelers": 2.45,
+        "Sangju Sangmu FC": 2.75,
+        "Draw": 2.95
+      },
+      "Pinnacle": {
+        "Pohang Steelers": 2.7,
+        "Sangju Sangmu FC": 2.96,
+        "Draw": 3.09
+      },
+      "Betfair": {
+        "Pohang Steelers": 2.72,
+        "Sangju Sangmu FC": 3.0,
+        "Draw": 3.15
+      },
+      "1xBet": {
+        "Pohang Steelers": 2.56,
+        "Sangju Sangmu FC": 2.83,
+        "Draw": 3.04
+      },
+      "Marathon Bet": {
+        "Pohang Steelers": 2.56,
+        "Sangju Sangmu FC": 2.83,
+        "Draw": 3.04
+      },
+      "Winamax (FR)": {
+        "Pohang Steelers": 2.4,
+        "Sangju Sangmu FC": 2.65,
+        "Draw": 3.0
+      },
+      "Winamax (DE)": {
+        "Pohang Steelers": 2.45,
+        "Sangju Sangmu FC": 2.7,
+        "Draw": 3.1
+      },
+      "William Hill": {
+        "Pohang Steelers": 2.45,
+        "Sangju Sangmu FC": 2.9,
+        "Draw": 2.9
+      },
+      "Tipico": {
+        "Pohang Steelers": 2.4,
+        "Sangju Sangmu FC": 2.95,
+        "Draw": 3.0
+      },
+      "Matchbook": {
+        "Pohang Steelers": 2.72,
+        "Sangju Sangmu FC": 3.05,
+        "Draw": 3.15
       }
     }
   },
@@ -5569,14 +5785,5 @@
     }
   ],
   "results_history": [],
-  "value_alerted": [
-    "5184bb3c767d6b6735fd7b5f51b101d2:h2h|Betfair|Athletic Club (MG)",
-    "5184bb3c767d6b6735fd7b5f51b101d2:h2h|Matchbook|Athletic Club (MG)",
-    "7d9d185678a5c78abdd644ae77aba0a7:h2h|Coolbet|Independiente Santa Fe",
-    "7d9d185678a5c78abdd644ae77aba0a7:h2h|Coolbet|Vasco da Gama",
-    "7d9d185678a5c78abdd644ae77aba0a7:h2h|Nordic Bet|Independiente Santa Fe",
-    "7d9d185678a5c78abdd644ae77aba0a7:h2h|Nordic Bet|Vasco da Gama",
-    "7d9d185678a5c78abdd644ae77aba0a7:h2h|Unibet (NL)|Independiente Santa Fe",
-    "7d9d185678a5c78abdd644ae77aba0a7:h2h|Unibet (NL)|Vasco da Gama"
-  ]
+  "value_alerted": []
 }
