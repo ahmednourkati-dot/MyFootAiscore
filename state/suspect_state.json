@@ -1,396 +1,216 @@
 {
   "snapshots": {
-    "f5d289641ff73f0df651e320730ec0c3:h2h": {
-      "Pinnacle": {
-        "FC Inter Turku": 2.78,
-        "HJK Helsinki": 2.57,
-        "Draw": 3.53
-      },
-      "1xBet": {
-        "FC Inter Turku": 2.68,
-        "HJK Helsinki": 2.52,
-        "Draw": 3.32
-      },
-      "Marathon Bet": {
-        "FC Inter Turku": 2.68,
-        "HJK Helsinki": 2.52,
-        "Draw": 3.32
-      },
-      "BetOnline.ag": {
-        "FC Inter Turku": 2.78,
-        "HJK Helsinki": 2.48,
-        "Draw": 3.45
-      },
-      "888sport": {
-        "FC Inter Turku": 2.62,
-        "HJK Helsinki": 2.45,
-        "Draw": 3.25
-      },
-      "William Hill": {
-        "FC Inter Turku": 2.62,
-        "HJK Helsinki": 2.45,
-        "Draw": 3.25
-      },
-      "Unibet (FR)": {
-        "FC Inter Turku": 2.65,
-        "HJK Helsinki": 2.3,
-        "Draw": 3.2
-      },
-      "Unibet (NL)": {
-        "FC Inter Turku": 2.65,
-        "HJK Helsinki": 2.5,
-        "Draw": 3.35
-      },
-      "LeoVegas (SE)": {
-        "FC Inter Turku": 2.55,
-        "HJK Helsinki": 2.38,
-        "Draw": 3.15
-      },
-      "PMU (FR)": {
-        "FC Inter Turku": 2.43,
-        "HJK Helsinki": 2.3,
-        "Draw": 3.05
-      },
-      "Unibet (SE)": {
-        "FC Inter Turku": 2.65,
-        "HJK Helsinki": 2.5,
-        "Draw": 3.35
-      },
-      "Betfair": {
-        "FC Inter Turku": 2.82,
-        "HJK Helsinki": 2.64,
-        "Draw": 3.65
-      },
-      "GTbets": {
-        "FC Inter Turku": 2.67,
-        "HJK Helsinki": 2.56,
-        "Draw": 3.37
-      },
-      "Coolbet": {
-        "FC Inter Turku": 2.52,
-        "HJK Helsinki": 2.83,
-        "Draw": 3.45
-      },
-      "Betsson": {
-        "FC Inter Turku": 2.72,
-        "HJK Helsinki": 2.45,
-        "Draw": 3.3
-      },
-      "Nordic Bet": {
-        "FC Inter Turku": 2.72,
-        "HJK Helsinki": 2.45,
-        "Draw": 3.3
-      },
-      "Matchbook": {
-        "FC Inter Turku": 2.82,
-        "HJK Helsinki": 2.64,
-        "Draw": 3.65
-      },
-      "BetAnything": {
-        "FC Inter Turku": 2.78,
-        "HJK Helsinki": 2.48,
-        "Draw": 3.45
-      }
-    },
     "34d5113f27cff62d486ac4d6be88477d:h2h": {
-      "Unibet (NL)": {
-        "Al-Kholood": 2.85,
-        "Al-Shabab": 2.2,
-        "Draw": 3.3
-      },
-      "PMU (FR)": {
-        "Al-Kholood": 2.7,
-        "Al-Shabab": 2.08,
-        "Draw": 3.15
-      },
       "Unibet (SE)": {
-        "Al-Kholood": 2.85,
-        "Al-Shabab": 2.2,
-        "Draw": 3.3
-      },
-      "LeoVegas (SE)": {
-        "Al-Kholood": 2.8,
-        "Al-Shabab": 2.15,
-        "Draw": 3.25
-      },
-      "Unibet (FR)": {
-        "Al-Kholood": 2.65,
-        "Al-Shabab": 2.2,
-        "Draw": 3.3
+        "Al-Kholood": 1.03,
+        "Al-Shabab": 226.0,
+        "Draw": 14.0
       },
       "Winamax (FR)": {
-        "Al-Kholood": 2.6,
-        "Al-Shabab": 2.25,
-        "Draw": 3.4
+        "Al-Kholood": 1.03,
+        "Al-Shabab": 450.0,
+        "Draw": 14.5
       },
       "Winamax (DE)": {
-        "Al-Kholood": 2.65,
-        "Al-Shabab": 2.3,
-        "Draw": 3.45
+        "Al-Kholood": 1.02,
+        "Al-Shabab": 1000.0,
+        "Draw": 19.0
       },
       "Pinnacle": {
-        "Al-Kholood": 2.8,
-        "Al-Shabab": 2.41,
-        "Draw": 3.6
+        "Al-Kholood": 3.74,
+        "Al-Shabab": 3.52,
+        "Draw": 1.92
       },
       "Betclic (FR)": {
-        "Al-Kholood": 2.77,
-        "Al-Shabab": 2.33,
-        "Draw": 3.45
-      },
-      "1xBet": {
-        "Al-Kholood": 2.8,
-        "Al-Shabab": 2.37,
-        "Draw": 3.44
+        "Al-Kholood": 1.04,
+        "Al-Shabab": 100.0,
+        "Draw": 11.5
       },
       "888sport": {
-        "Al-Kholood": 2.6,
-        "Al-Shabab": 2.3,
-        "Draw": 3.2
-      },
-      "William Hill": {
-        "Al-Kholood": 2.6,
-        "Al-Shabab": 2.3,
-        "Draw": 3.2
+        "Al-Kholood": 1.03,
+        "Al-Shabab": 101.0,
+        "Draw": 11.0
       },
       "Tipico": {
-        "Al-Kholood": 2.6,
-        "Al-Shabab": 2.35,
-        "Draw": 3.6
+        "Al-Kholood": 1.03,
+        "Al-Shabab": 60.0,
+        "Draw": 9.0
       },
       "Betfair": {
-        "Al-Kholood": 2.92,
-        "Al-Shabab": 2.46,
-        "Draw": 3.8
+        "Al-Kholood": 1.11,
+        "Al-Shabab": 65.0,
+        "Draw": 9.6
       }
     },
     "c9bbedd626635eddff4934e689472fb8:h2h": {
-      "Marathon Bet": {
-        "Barcelona": 1.09,
-        "Feyenoord": 27.0,
-        "Draw": 13.25
-      },
-      "1xBet": {
-        "Barcelona": 1.1,
-        "Feyenoord": 29.0,
-        "Draw": 14.1
-      },
-      "Pinnacle": {
-        "Barcelona": 1.07,
-        "Feyenoord": 31.0,
-        "Draw": 13.5
-      },
-      "Coolbet": {
-        "Barcelona": 1.09,
-        "Feyenoord": 31.0,
-        "Draw": 14.0
-      },
-      "GTbets": {
-        "Barcelona": 1.08,
-        "Feyenoord": 23.12,
-        "Draw": 12.23
-      },
-      "Winamax (DE)": {
-        "Barcelona": 1.04,
-        "Feyenoord": 23.0,
-        "Draw": 15.0
-      },
-      "Codere (IT)": {
-        "Barcelona": 1.08,
-        "Feyenoord": 23.0,
-        "Draw": 12.0
-      },
-      "Unibet (FR)": {
-        "Barcelona": 1.04,
-        "Feyenoord": 25.0,
-        "Draw": 12.0
-      },
-      "Betfair": {
-        "Barcelona": 1.1,
-        "Feyenoord": 36.0,
-        "Draw": 15.0
-      },
       "Betclic (FR)": {
-        "Barcelona": 1.06,
-        "Feyenoord": 27.0,
-        "Draw": 13.0
+        "Barcelona": 1.0,
+        "Feyenoord": 70.0,
+        "Draw": 11.5
       },
       "Suprabets": {
-        "Barcelona": 1.06,
-        "Feyenoord": 29.0,
-        "Draw": 13.0
-      },
-      "888sport": {
-        "Barcelona": 1.08,
-        "Feyenoord": 23.0,
-        "Draw": 11.0
-      },
-      "PMU (FR)": {
-        "Barcelona": 1.06,
-        "Feyenoord": 25.0,
-        "Draw": 13.0
+        "Barcelona": 1.0,
+        "Feyenoord": 163.0,
+        "Draw": 17.0
       },
       "Unibet (SE)": {
-        "Barcelona": 1.08,
-        "Feyenoord": 26.0,
-        "Draw": 14.0
-      },
-      "LeoVegas (SE)": {
-        "Barcelona": 1.06,
-        "Feyenoord": 25.0,
-        "Draw": 13.0
+        "Barcelona": 1.01,
+        "Feyenoord": 121.0,
+        "Draw": 34.0
       },
       "Unibet (NL)": {
-        "Barcelona": 1.08,
-        "Feyenoord": 26.0,
-        "Draw": 14.0
-      },
-      "Winamax (FR)": {
-        "Barcelona": 1.04,
-        "Feyenoord": 22.0,
-        "Draw": 14.5
-      },
-      "William Hill": {
-        "Barcelona": 1.08,
-        "Feyenoord": 23.0,
-        "Draw": 11.0
+        "Barcelona": 1.01,
+        "Feyenoord": 121.0,
+        "Draw": 34.0
       },
       "Betsson": {
-        "Barcelona": 1.09,
-        "Feyenoord": 31.0,
-        "Draw": 11.0
+        "Barcelona": 1.0,
+        "Feyenoord": 46.0,
+        "Draw": 23.0
       },
       "Nordic Bet": {
-        "Barcelona": 1.09,
-        "Feyenoord": 31.0,
-        "Draw": 11.0
-      },
-      "Matchbook": {
-        "Barcelona": 1.1,
-        "Feyenoord": 36.0,
-        "Draw": 15.0
-      },
-      "BetOnline.ag": {
-        "Barcelona": 1.07,
-        "Feyenoord": 31.0,
-        "Draw": 14.0
-      },
-      "BetAnything": {
-        "Barcelona": 1.07,
-        "Feyenoord": 31.0,
-        "Draw": 14.0
+        "Barcelona": 1.0,
+        "Feyenoord": 46.0,
+        "Draw": 23.0
       }
     },
     "287d8b864bf09ee057b007374849d4ae:h2h": {
       "Winamax (FR)": {
-        "FC Twente Enschede": 1.22,
-        "SC Telstar": 8.0,
-        "Draw": 6.5
-      },
-      "Unibet (FR)": {
-        "FC Twente Enschede": 1.2,
-        "SC Telstar": 8.6,
-        "Draw": 6.2
+        "FC Twente Enschede": 1.36,
+        "SC Telstar": 9.5,
+        "Draw": 3.7
       },
       "Coolbet": {
-        "FC Twente Enschede": 1.26,
-        "SC Telstar": 9.5,
-        "Draw": 6.5
-      },
-      "Codere (IT)": {
-        "FC Twente Enschede": 1.25,
-        "SC Telstar": 9.2,
-        "Draw": 6.6
-      },
-      "1xBet": {
-        "FC Twente Enschede": 1.25,
-        "SC Telstar": 10.4,
-        "Draw": 6.76
+        "FC Twente Enschede": 1.4,
+        "SC Telstar": 12.0,
+        "Draw": 4.0
       },
       "Winamax (DE)": {
-        "FC Twente Enschede": 1.22,
-        "SC Telstar": 8.0,
-        "Draw": 6.5
+        "FC Twente Enschede": 1.36,
+        "SC Telstar": 10.0,
+        "Draw": 3.85
       },
       "Betclic (FR)": {
-        "FC Twente Enschede": 1.23,
-        "SC Telstar": 9.0,
-        "Draw": 6.5
+        "FC Twente Enschede": 1.33,
+        "SC Telstar": 11.0,
+        "Draw": 3.75
       },
       "888sport": {
-        "FC Twente Enschede": 1.25,
-        "SC Telstar": 9.0,
-        "Draw": 6.0
-      },
-      "William Hill": {
-        "FC Twente Enschede": 1.25,
-        "SC Telstar": 9.0,
-        "Draw": 6.0
+        "FC Twente Enschede": 1.3,
+        "SC Telstar": 8.5,
+        "Draw": 4.6
       },
       "LeoVegas (SE)": {
-        "FC Twente Enschede": 1.2,
-        "SC Telstar": 9.0,
-        "Draw": 6.0
+        "FC Twente Enschede": 1.4,
+        "SC Telstar": 7.5,
+        "Draw": 3.65
       },
       "PMU (FR)": {
-        "FC Twente Enschede": 1.21,
-        "SC Telstar": 9.0,
-        "Draw": 6.0
+        "FC Twente Enschede": 1.35,
+        "SC Telstar": 7.0,
+        "Draw": 3.55
       },
       "Unibet (SE)": {
-        "FC Twente Enschede": 1.23,
-        "SC Telstar": 10.0,
-        "Draw": 6.4
+        "FC Twente Enschede": 1.44,
+        "SC Telstar": 8.0,
+        "Draw": 3.8
       },
       "Unibet (NL)": {
-        "FC Twente Enschede": 1.25,
-        "SC Telstar": 11.0,
-        "Draw": 7.0
-      },
-      "Marathon Bet": {
-        "FC Twente Enschede": 1.23,
-        "SC Telstar": 9.8,
-        "Draw": 6.35
+        "FC Twente Enschede": 1.44,
+        "SC Telstar": 8.0,
+        "Draw": 3.8
       },
       "Nordic Bet": {
-        "FC Twente Enschede": 1.27,
+        "FC Twente Enschede": 1.36,
         "SC Telstar": 10.5,
-        "Draw": 5.7
+        "Draw": 3.65
       },
       "Betsson": {
-        "FC Twente Enschede": 1.27,
+        "FC Twente Enschede": 1.36,
         "SC Telstar": 10.5,
-        "Draw": 5.7
+        "Draw": 3.65
       },
       "Betfair": {
-        "FC Twente Enschede": 1.29,
-        "SC Telstar": 11.0,
-        "Draw": 6.8
+        "FC Twente Enschede": 1.41,
+        "SC Telstar": 12.5,
+        "Draw": 4.6
       },
       "Pinnacle": {
-        "FC Twente Enschede": 1.25,
-        "SC Telstar": 10.07,
-        "Draw": 6.81
-      },
-      "BetOnline.ag": {
-        "FC Twente Enschede": 1.26,
-        "SC Telstar": 9.15,
-        "Draw": 6.71
+        "FC Twente Enschede": 1.36,
+        "SC Telstar": 12.04,
+        "Draw": 4.04
       },
       "Tipico": {
-        "FC Twente Enschede": 1.22,
-        "SC Telstar": 9.5,
-        "Draw": 6.8
-      },
-      "BetAnything": {
-        "FC Twente Enschede": 1.26,
-        "SC Telstar": 9.15,
-        "Draw": 6.71
+        "FC Twente Enschede": 1.35,
+        "SC Telstar": 11.0,
+        "Draw": 4.0
       },
       "Matchbook": {
-        "FC Twente Enschede": 1.29,
-        "SC Telstar": 11.0,
-        "Draw": 7.0
+        "FC Twente Enschede": 1.41,
+        "SC Telstar": 12.5,
+        "Draw": 4.6
+      }
+    },
+    "7f35abdd401ebdfd0e74a9fad9051ef0:h2h": {
+      "Coolbet": {
+        "VfB Stuttgart": 1.01,
+        "Viking FK": 150.0,
+        "Draw": 26.0
+      },
+      "Winamax (DE)": {
+        "VfB Stuttgart": 1.01,
+        "Viking FK": 110.0,
+        "Draw": 40.0
+      },
+      "Betfair": {
+        "VfB Stuttgart": 1.02,
+        "Viking FK": 280.0,
+        "Draw": 50.0
+      },
+      "Betclic (FR)": {
+        "VfB Stuttgart": 1.0,
+        "Viking FK": 60.0,
+        "Draw": 24.0
+      },
+      "Suprabets": {
+        "VfB Stuttgart": 1.0,
+        "Viking FK": 101.0,
+        "Draw": 17.0
+      },
+      "888sport": {
+        "VfB Stuttgart": 1.0,
+        "Viking FK": 126.0,
+        "Draw": 41.0
+      },
+      "Unibet (SE)": {
+        "VfB Stuttgart": 1.01,
+        "Viking FK": 81.0,
+        "Draw": 23.0
+      },
+      "Unibet (NL)": {
+        "VfB Stuttgart": 1.01,
+        "Viking FK": 81.0,
+        "Draw": 23.0
+      },
+      "Winamax (FR)": {
+        "VfB Stuttgart": 1.01,
+        "Viking FK": 110.0,
+        "Draw": 40.0
+      },
+      "Betsson": {
+        "VfB Stuttgart": 1.0,
+        "Viking FK": 51.0,
+        "Draw": 23.0
+      },
+      "Nordic Bet": {
+        "VfB Stuttgart": 1.0,
+        "Viking FK": 51.0,
+        "Draw": 23.0
+      },
+      "Matchbook": {
+        "VfB Stuttgart": 1.02,
+        "Viking FK": 360.0,
+        "Draw": 50.0
       }
     }
   },
@@ -5883,15 +5703,303 @@
       "confidence": 7,
       "alert_type": "value",
       "alerted_at": "2026-09-09T12:56:22.635808+00:00"
+    },
+    {
+      "state_key": "34d5113f27cff62d486ac4d6be88477d:h2h",
+      "event_id": "34d5113f27cff62d486ac4d6be88477d",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Kholood",
+      "away_team": "Al-Shabab",
+      "commence_time": "2026-09-09T15:55:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Shabab",
+      "odds_at_alert": 226.0,
+      "stake_pct": 5.0,
+      "confidence": 5888,
+      "alert_type": "value",
+      "alerted_at": "2026-09-09T17:47:06.448429+00:00"
+    },
+    {
+      "state_key": "34d5113f27cff62d486ac4d6be88477d:h2h",
+      "event_id": "34d5113f27cff62d486ac4d6be88477d",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Kholood",
+      "away_team": "Al-Shabab",
+      "commence_time": "2026-09-09T15:55:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 14.0,
+      "stake_pct": 5.0,
+      "confidence": 580,
+      "alert_type": "value",
+      "alerted_at": "2026-09-09T17:47:06.951781+00:00"
+    },
+    {
+      "state_key": "34d5113f27cff62d486ac4d6be88477d:h2h",
+      "event_id": "34d5113f27cff62d486ac4d6be88477d",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Kholood",
+      "away_team": "Al-Shabab",
+      "commence_time": "2026-09-09T15:55:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Shabab",
+      "odds_at_alert": 450.0,
+      "stake_pct": 5.0,
+      "confidence": 11822,
+      "alert_type": "value",
+      "alerted_at": "2026-09-09T17:47:07.479755+00:00"
+    },
+    {
+      "state_key": "34d5113f27cff62d486ac4d6be88477d:h2h",
+      "event_id": "34d5113f27cff62d486ac4d6be88477d",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Kholood",
+      "away_team": "Al-Shabab",
+      "commence_time": "2026-09-09T15:55:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 14.5,
+      "stake_pct": 5.0,
+      "confidence": 604,
+      "alert_type": "value",
+      "alerted_at": "2026-09-09T17:47:07.964179+00:00"
+    },
+    {
+      "state_key": "34d5113f27cff62d486ac4d6be88477d:h2h",
+      "event_id": "34d5113f27cff62d486ac4d6be88477d",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Kholood",
+      "away_team": "Al-Shabab",
+      "commence_time": "2026-09-09T15:55:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Shabab",
+      "odds_at_alert": 1000.0,
+      "stake_pct": 5.0,
+      "confidence": 26394,
+      "alert_type": "value",
+      "alerted_at": "2026-09-09T17:47:08.498177+00:00"
+    },
+    {
+      "state_key": "34d5113f27cff62d486ac4d6be88477d:h2h",
+      "event_id": "34d5113f27cff62d486ac4d6be88477d",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Kholood",
+      "away_team": "Al-Shabab",
+      "commence_time": "2026-09-09T15:55:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 19.0,
+      "stake_pct": 5.0,
+      "confidence": 823,
+      "alert_type": "value",
+      "alerted_at": "2026-09-09T17:47:09.047729+00:00"
+    },
+    {
+      "state_key": "34d5113f27cff62d486ac4d6be88477d:h2h",
+      "event_id": "34d5113f27cff62d486ac4d6be88477d",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Kholood",
+      "away_team": "Al-Shabab",
+      "commence_time": "2026-09-09T15:55:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Shabab",
+      "odds_at_alert": 100.0,
+      "stake_pct": 5.0,
+      "confidence": 2549,
+      "alert_type": "value",
+      "alerted_at": "2026-09-09T17:47:09.587469+00:00"
+    },
+    {
+      "state_key": "34d5113f27cff62d486ac4d6be88477d:h2h",
+      "event_id": "34d5113f27cff62d486ac4d6be88477d",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Kholood",
+      "away_team": "Al-Shabab",
+      "commence_time": "2026-09-09T15:55:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 11.5,
+      "stake_pct": 5.0,
+      "confidence": 459,
+      "alert_type": "value",
+      "alerted_at": "2026-09-09T17:47:10.096182+00:00"
+    },
+    {
+      "state_key": "34d5113f27cff62d486ac4d6be88477d:h2h",
+      "event_id": "34d5113f27cff62d486ac4d6be88477d",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Kholood",
+      "away_team": "Al-Shabab",
+      "commence_time": "2026-09-09T15:55:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Shabab",
+      "odds_at_alert": 101.0,
+      "stake_pct": 5.0,
+      "confidence": 2576,
+      "alert_type": "value",
+      "alerted_at": "2026-09-09T17:47:10.592401+00:00"
+    },
+    {
+      "state_key": "34d5113f27cff62d486ac4d6be88477d:h2h",
+      "event_id": "34d5113f27cff62d486ac4d6be88477d",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Kholood",
+      "away_team": "Al-Shabab",
+      "commence_time": "2026-09-09T15:55:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 434,
+      "alert_type": "value",
+      "alerted_at": "2026-09-09T17:47:11.098780+00:00"
+    },
+    {
+      "state_key": "34d5113f27cff62d486ac4d6be88477d:h2h",
+      "event_id": "34d5113f27cff62d486ac4d6be88477d",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Kholood",
+      "away_team": "Al-Shabab",
+      "commence_time": "2026-09-09T15:55:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Shabab",
+      "odds_at_alert": 60.0,
+      "stake_pct": 5.0,
+      "confidence": 1490,
+      "alert_type": "value",
+      "alerted_at": "2026-09-09T17:47:11.592564+00:00"
+    },
+    {
+      "state_key": "34d5113f27cff62d486ac4d6be88477d:h2h",
+      "event_id": "34d5113f27cff62d486ac4d6be88477d",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Kholood",
+      "away_team": "Al-Shabab",
+      "commence_time": "2026-09-09T15:55:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 9.0,
+      "stake_pct": 5.0,
+      "confidence": 337,
+      "alert_type": "value",
+      "alerted_at": "2026-09-09T17:47:12.100720+00:00"
+    },
+    {
+      "state_key": "34d5113f27cff62d486ac4d6be88477d:h2h",
+      "event_id": "34d5113f27cff62d486ac4d6be88477d",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Kholood",
+      "away_team": "Al-Shabab",
+      "commence_time": "2026-09-09T15:55:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Shabab",
+      "odds_at_alert": 65.0,
+      "stake_pct": 5.0,
+      "confidence": 1622,
+      "alert_type": "value",
+      "alerted_at": "2026-09-09T17:47:12.600007+00:00"
+    },
+    {
+      "state_key": "34d5113f27cff62d486ac4d6be88477d:h2h",
+      "event_id": "34d5113f27cff62d486ac4d6be88477d",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Kholood",
+      "away_team": "Al-Shabab",
+      "commence_time": "2026-09-09T15:55:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 9.6,
+      "stake_pct": 5.0,
+      "confidence": 366,
+      "alert_type": "value",
+      "alerted_at": "2026-09-09T17:47:13.113958+00:00"
+    },
+    {
+      "state_key": "287d8b864bf09ee057b007374849d4ae:h2h",
+      "event_id": "287d8b864bf09ee057b007374849d4ae",
+      "sport_key": "soccer",
+      "competition": "Dutch Eredivisie",
+      "home_team": "FC Twente Enschede",
+      "away_team": "SC Telstar",
+      "commence_time": "2026-09-09T16:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.6,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-09-09T17:47:13.627509+00:00"
+    },
+    {
+      "state_key": "287d8b864bf09ee057b007374849d4ae:h2h",
+      "event_id": "287d8b864bf09ee057b007374849d4ae",
+      "sport_key": "soccer",
+      "competition": "Dutch Eredivisie",
+      "home_team": "FC Twente Enschede",
+      "away_team": "SC Telstar",
+      "commence_time": "2026-09-09T16:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.6,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-09-09T17:47:14.149166+00:00"
+    },
+    {
+      "state_key": "287d8b864bf09ee057b007374849d4ae:h2h",
+      "event_id": "287d8b864bf09ee057b007374849d4ae",
+      "sport_key": "soccer",
+      "competition": "Dutch Eredivisie",
+      "home_team": "FC Twente Enschede",
+      "away_team": "SC Telstar",
+      "commence_time": "2026-09-09T16:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.6,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-09-09T17:47:14.636998+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
+    "287d8b864bf09ee057b007374849d4ae:h2h|888sport|Draw",
+    "287d8b864bf09ee057b007374849d4ae:h2h|Betfair|Draw",
+    "287d8b864bf09ee057b007374849d4ae:h2h|Matchbook|Draw",
+    "34d5113f27cff62d486ac4d6be88477d:h2h|888sport|Al-Shabab",
+    "34d5113f27cff62d486ac4d6be88477d:h2h|888sport|Draw",
+    "34d5113f27cff62d486ac4d6be88477d:h2h|Betclic (FR)|Al-Shabab",
+    "34d5113f27cff62d486ac4d6be88477d:h2h|Betclic (FR)|Draw",
+    "34d5113f27cff62d486ac4d6be88477d:h2h|Betfair|Al-Shabab",
+    "34d5113f27cff62d486ac4d6be88477d:h2h|Betfair|Draw",
+    "34d5113f27cff62d486ac4d6be88477d:h2h|Tipico|Al-Shabab",
+    "34d5113f27cff62d486ac4d6be88477d:h2h|Tipico|Draw",
+    "34d5113f27cff62d486ac4d6be88477d:h2h|Unibet (SE)|Al-Shabab",
+    "34d5113f27cff62d486ac4d6be88477d:h2h|Unibet (SE)|Draw",
+    "34d5113f27cff62d486ac4d6be88477d:h2h|Winamax (DE)|Al-Shabab",
+    "34d5113f27cff62d486ac4d6be88477d:h2h|Winamax (DE)|Draw",
+    "34d5113f27cff62d486ac4d6be88477d:h2h|Winamax (FR)|Al-Shabab",
+    "34d5113f27cff62d486ac4d6be88477d:h2h|Winamax (FR)|Draw",
     "c9bbedd626635eddff4934e689472fb8:h2h|Betfair|Draw",
     "c9bbedd626635eddff4934e689472fb8:h2h|Betfair|Feyenoord",
     "c9bbedd626635eddff4934e689472fb8:h2h|Matchbook|Draw",
     "c9bbedd626635eddff4934e689472fb8:h2h|Matchbook|Feyenoord",
-    "c9bbedd626635eddff4934e689472fb8:h2h|Winamax (DE)|Draw",
-    "f5d289641ff73f0df651e320730ec0c3:h2h|Coolbet|HJK Helsinki"
+    "c9bbedd626635eddff4934e689472fb8:h2h|Winamax (DE)|Draw"
   ]
 }
