@@ -1,301 +1,251 @@
 {
   "snapshots": {
-    "68f28a19d5c06190d3ba9b39b13f3e04:h2h": {
-      "Unibet (SE)": {
-        "León": 4.2,
-        "Pumas": 2.85,
-        "Draw": 2.05
-      },
-      "PMU (FR)": {
-        "León": 3.7,
-        "Pumas": 2.55,
-        "Draw": 1.83
-      },
+    "3ce54113a5a6e54cbe802c99c46c06a6:h2h": {
       "LeoVegas (SE)": {
-        "León": 3.9,
-        "Pumas": 2.7,
-        "Draw": 1.93
+        "Kashima Antlers": 3.2,
+        "Vissel Kobe": 2.7,
+        "Draw": 2.17
+      },
+      "Unibet (SE)": {
+        "Kashima Antlers": 3.3,
+        "Vissel Kobe": 2.8,
+        "Draw": 2.25
       },
       "Unibet (NL)": {
-        "León": 4.2,
-        "Pumas": 2.85,
-        "Draw": 2.05
+        "Kashima Antlers": 3.3,
+        "Vissel Kobe": 2.8,
+        "Draw": 2.23
       },
-      "Betclic (FR)": {
-        "León": 3.23,
-        "Pumas": 3.05,
-        "Draw": 2.02
-      },
-      "Pinnacle": {
-        "León": 3.56,
-        "Pumas": 2.97,
-        "Draw": 2.26
-      },
-      "Coolbet": {
-        "León": 3.75,
-        "Pumas": 3.4,
+      "PMU (FR)": {
+        "Kashima Antlers": 3.1,
+        "Vissel Kobe": 2.63,
         "Draw": 2.1
       },
-      "Tipico": {
-        "León": 3.8,
-        "Pumas": 3.0,
-        "Draw": 2.0
+      "Betsson": {
+        "Kashima Antlers": 3.65,
+        "Vissel Kobe": 2.6,
+        "Draw": 2.15
       },
-      "Betfair": {
-        "León": 3.6,
-        "Pumas": 3.3,
-        "Draw": 2.28
-      },
-      "Matchbook": {
-        "León": 3.75,
-        "Pumas": 3.4,
+      "Betclic (FR)": {
+        "Kashima Antlers": 3.7,
+        "Vissel Kobe": 2.55,
         "Draw": 2.22
       },
       "Nordic Bet": {
-        "León": 3.5,
-        "Pumas": 3.15,
-        "Draw": 2.02
-      },
-      "Betsson": {
-        "León": 3.5,
-        "Pumas": 3.2,
-        "Draw": 2.02
-      }
-    },
-    "3ce54113a5a6e54cbe802c99c46c06a6:h2h": {
-      "LeoVegas (SE)": {
-        "Kashima Antlers": 2.55,
-        "Vissel Kobe": 2.8,
-        "Draw": 3.0
-      },
-      "Unibet (SE)": {
-        "Kashima Antlers": 2.55,
-        "Vissel Kobe": 2.8,
-        "Draw": 3.0
-      },
-      "Unibet (NL)": {
-        "Kashima Antlers": 2.55,
-        "Vissel Kobe": 2.8,
-        "Draw": 3.0
-      },
-      "PMU (FR)": {
-        "Kashima Antlers": 2.5,
-        "Vissel Kobe": 2.75,
-        "Draw": 2.95
-      },
-      "BetOnline.ag": {
-        "Kashima Antlers": 2.56,
-        "Vissel Kobe": 2.84,
-        "Draw": 3.3
-      },
-      "Unibet (FR)": {
-        "Kashima Antlers": 2.3,
-        "Vissel Kobe": 2.75,
-        "Draw": 3.15
-      },
-      "Betsson": {
-        "Kashima Antlers": 2.48,
-        "Vissel Kobe": 2.78,
-        "Draw": 3.1
-      },
-      "Betclic (FR)": {
-        "Kashima Antlers": 2.4,
-        "Vissel Kobe": 2.75,
-        "Draw": 3.15
-      },
-      "Nordic Bet": {
-        "Kashima Antlers": 2.45,
-        "Vissel Kobe": 2.75,
-        "Draw": 3.1
+        "Kashima Antlers": 3.65,
+        "Vissel Kobe": 2.6,
+        "Draw": 2.2
       },
       "Coolbet": {
-        "Kashima Antlers": 2.5,
-        "Vissel Kobe": 2.8,
-        "Draw": 3.4
+        "Kashima Antlers": 3.8,
+        "Vissel Kobe": 2.75,
+        "Draw": 2.25
       },
       "Pinnacle": {
-        "Kashima Antlers": 2.57,
-        "Vissel Kobe": 2.87,
-        "Draw": 3.39
-      },
-      "1xBet": {
-        "Kashima Antlers": 2.55,
-        "Vissel Kobe": 2.86,
-        "Draw": 3.27
-      },
-      "Marathon Bet": {
-        "Kashima Antlers": 2.49,
-        "Vissel Kobe": 2.8,
-        "Draw": 3.2
+        "Kashima Antlers": 3.9,
+        "Vissel Kobe": 2.59,
+        "Draw": 2.39
       },
       "Winamax (FR)": {
-        "Kashima Antlers": 2.35,
-        "Vissel Kobe": 2.65,
-        "Draw": 3.15
+        "Kashima Antlers": 3.6,
+        "Vissel Kobe": 2.55,
+        "Draw": 2.1
       },
       "Winamax (DE)": {
-        "Kashima Antlers": 2.4,
-        "Vissel Kobe": 2.7,
-        "Draw": 3.2
+        "Kashima Antlers": 3.7,
+        "Vissel Kobe": 2.65,
+        "Draw": 2.15
       },
       "888sport": {
-        "Kashima Antlers": 2.45,
-        "Vissel Kobe": 2.75,
-        "Draw": 3.1
-      },
-      "William Hill": {
-        "Kashima Antlers": 2.45,
-        "Vissel Kobe": 2.75,
-        "Draw": 3.1
+        "Kashima Antlers": 3.75,
+        "Vissel Kobe": 2.6,
+        "Draw": 2.2
       },
       "Tipico": {
-        "Kashima Antlers": 2.5,
-        "Vissel Kobe": 2.65,
-        "Draw": 3.2
+        "Kashima Antlers": 4.0,
+        "Vissel Kobe": 2.55,
+        "Draw": 2.2
       },
       "Betfair": {
-        "Kashima Antlers": 2.64,
-        "Vissel Kobe": 2.98,
-        "Draw": 3.4
-      },
-      "BetAnything": {
-        "Kashima Antlers": 2.56,
-        "Vissel Kobe": 2.84,
-        "Draw": 3.3
+        "Kashima Antlers": 4.2,
+        "Vissel Kobe": 2.76,
+        "Draw": 2.46
       },
       "Matchbook": {
-        "Kashima Antlers": 2.64,
-        "Vissel Kobe": 2.98,
-        "Draw": 3.4
+        "Kashima Antlers": 4.2,
+        "Vissel Kobe": 2.84,
+        "Draw": 2.38
       }
     },
     "20e5e342bef4776fd004fc2db67147fd:h2h": {
       "Unibet (NL)": {
-        "Kashiwa Reysol": 1.82,
-        "Kyoto Purple Sanga": 3.9,
-        "Draw": 3.6
+        "Kashiwa Reysol": 8.0,
+        "Kyoto Purple Sanga": 1.3,
+        "Draw": 4.6
       },
       "LeoVegas (SE)": {
-        "Kashiwa Reysol": 1.83,
-        "Kyoto Purple Sanga": 3.95,
-        "Draw": 3.6
+        "Kashiwa Reysol": 7.5,
+        "Kyoto Purple Sanga": 1.27,
+        "Draw": 4.5
       },
       "Unibet (SE)": {
-        "Kashiwa Reysol": 1.82,
-        "Kyoto Purple Sanga": 3.9,
-        "Draw": 3.6
+        "Kashiwa Reysol": 8.0,
+        "Kyoto Purple Sanga": 1.3,
+        "Draw": 4.8
       },
       "PMU (FR)": {
-        "Kashiwa Reysol": 1.8,
-        "Kyoto Purple Sanga": 3.85,
-        "Draw": 3.55
+        "Kashiwa Reysol": 7.5,
+        "Kyoto Purple Sanga": 1.22,
+        "Draw": 4.5
       },
       "Coolbet": {
-        "Kashiwa Reysol": 1.87,
-        "Kyoto Purple Sanga": 3.85,
-        "Draw": 3.85
-      },
-      "Unibet (FR)": {
-        "Kashiwa Reysol": 1.72,
-        "Kyoto Purple Sanga": 4.0,
-        "Draw": 3.6
+        "Kashiwa Reysol": 10.0,
+        "Kyoto Purple Sanga": 1.25,
+        "Draw": 5.5
       },
       "Nordic Bet": {
-        "Kashiwa Reysol": 1.8,
-        "Kyoto Purple Sanga": 4.0,
-        "Draw": 3.5
-      },
-      "BetOnline.ag": {
-        "Kashiwa Reysol": 1.86,
-        "Kyoto Purple Sanga": 4.0,
-        "Draw": 3.85
+        "Kashiwa Reysol": 9.1,
+        "Kyoto Purple Sanga": 1.28,
+        "Draw": 4.85
       },
       "Betsson": {
-        "Kashiwa Reysol": 1.8,
-        "Kyoto Purple Sanga": 4.05,
-        "Draw": 3.55
+        "Kashiwa Reysol": 9.1,
+        "Kyoto Purple Sanga": 1.28,
+        "Draw": 4.85
       },
       "Betclic (FR)": {
-        "Kashiwa Reysol": 1.75,
-        "Kyoto Purple Sanga": 4.0,
-        "Draw": 3.58
+        "Kashiwa Reysol": 9.0,
+        "Kyoto Purple Sanga": 1.22,
+        "Draw": 4.95
       },
       "Winamax (DE)": {
-        "Kashiwa Reysol": 1.76,
-        "Kyoto Purple Sanga": 3.85,
-        "Draw": 3.65
+        "Kashiwa Reysol": 9.0,
+        "Kyoto Purple Sanga": 1.25,
+        "Draw": 5.2
       },
       "Winamax (FR)": {
-        "Kashiwa Reysol": 1.74,
-        "Kyoto Purple Sanga": 3.75,
-        "Draw": 3.6
+        "Kashiwa Reysol": 8.5,
+        "Kyoto Purple Sanga": 1.27,
+        "Draw": 4.9
       },
       "Pinnacle": {
-        "Kashiwa Reysol": 1.84,
-        "Kyoto Purple Sanga": 4.24,
-        "Draw": 3.88
-      },
-      "1xBet": {
-        "Kashiwa Reysol": 1.84,
-        "Kyoto Purple Sanga": 4.09,
-        "Draw": 3.83
-      },
-      "Marathon Bet": {
-        "Kashiwa Reysol": 1.8,
-        "Kyoto Purple Sanga": 4.0,
-        "Draw": 3.74
+        "Kashiwa Reysol": 9.69,
+        "Kyoto Purple Sanga": 1.35,
+        "Draw": 4.68
       },
       "Tipico": {
-        "Kashiwa Reysol": 1.75,
-        "Kyoto Purple Sanga": 4.2,
-        "Draw": 3.6
+        "Kashiwa Reysol": 8.5,
+        "Kyoto Purple Sanga": 1.25,
+        "Draw": 5.5
       },
       "888sport": {
-        "Kashiwa Reysol": 1.83,
-        "Kyoto Purple Sanga": 3.8,
-        "Draw": 3.5
-      },
-      "William Hill": {
-        "Kashiwa Reysol": 1.83,
-        "Kyoto Purple Sanga": 3.8,
-        "Draw": 3.5
+        "Kashiwa Reysol": 8.0,
+        "Kyoto Purple Sanga": 1.3,
+        "Draw": 4.8
       },
       "Betfair": {
-        "Kashiwa Reysol": 1.88,
-        "Kyoto Purple Sanga": 4.3,
-        "Draw": 3.95
-      },
-      "BetAnything": {
-        "Kashiwa Reysol": 1.86,
-        "Kyoto Purple Sanga": 4.0,
-        "Draw": 3.85
+        "Kashiwa Reysol": 10.0,
+        "Kyoto Purple Sanga": 1.37,
+        "Draw": 5.6
       },
       "Matchbook": {
-        "Kashiwa Reysol": 1.9,
-        "Kyoto Purple Sanga": 4.3,
-        "Draw": 4.0
+        "Kashiwa Reysol": 10.5,
+        "Kyoto Purple Sanga": 1.36,
+        "Draw": 5.5
       }
     },
     "5a0fe8308ce6e88fe6df1c5bdac4ffef:h2h": {
       "Pinnacle": {
-        "Kryliya Sovetov": 1.88,
-        "Rodina Moscow": 4.03,
-        "Draw": 3.89
+        "Kryliya Sovetov": 1.86,
+        "Rodina Moscow": 4.26,
+        "Draw": 3.78
       },
       "BetOnline.ag": {
-        "Kryliya Sovetov": 1.91,
-        "Rodina Moscow": 3.7,
-        "Draw": 3.7
+        "Kryliya Sovetov": 1.85,
+        "Rodina Moscow": 4.0,
+        "Draw": 3.65
       },
       "1xBet": {
-        "Kryliya Sovetov": 1.97,
-        "Rodina Moscow": 3.98,
-        "Draw": 3.9
+        "Kryliya Sovetov": 1.94,
+        "Rodina Moscow": 4.2,
+        "Draw": 3.83
       },
       "Marathon Bet": {
-        "Kryliya Sovetov": 1.92,
-        "Rodina Moscow": 3.88,
-        "Draw": 3.8
+        "Kryliya Sovetov": 1.89,
+        "Rodina Moscow": 4.1,
+        "Draw": 3.74
+      }
+    },
+    "4623a914cb7221030c0daf6bf45c49a9:h2h": {
+      "LeoVegas (SE)": {
+        "Al-Ettifaq": 9.0,
+        "Al-Qadsiah": 1.2,
+        "Draw": 5.6
+      },
+      "Unibet (NL)": {
+        "Al-Ettifaq": 9.0,
+        "Al-Qadsiah": 1.23,
+        "Draw": 5.8
+      },
+      "Unibet (SE)": {
+        "Al-Ettifaq": 9.0,
+        "Al-Qadsiah": 1.23,
+        "Draw": 5.8
+      },
+      "PMU (FR)": {
+        "Al-Ettifaq": 8.5,
+        "Al-Qadsiah": 1.16,
+        "Draw": 5.5
+      },
+      "Unibet (FR)": {
+        "Al-Ettifaq": 7.6,
+        "Al-Qadsiah": 1.21,
+        "Draw": 5.9
+      },
+      "Betclic (FR)": {
+        "Al-Ettifaq": 7.75,
+        "Al-Qadsiah": 1.21,
+        "Draw": 6.0
+      },
+      "1xBet": {
+        "Al-Ettifaq": 9.15,
+        "Al-Qadsiah": 1.23,
+        "Draw": 6.74
+      },
+      "Pinnacle": {
+        "Al-Ettifaq": 8.38,
+        "Al-Qadsiah": 1.26,
+        "Draw": 6.73
+      },
+      "Winamax (DE)": {
+        "Al-Ettifaq": 7.5,
+        "Al-Qadsiah": 1.24,
+        "Draw": 6.25
+      },
+      "Winamax (FR)": {
+        "Al-Ettifaq": 7.0,
+        "Al-Qadsiah": 1.23,
+        "Draw": 6.0
+      },
+      "888sport": {
+        "Al-Ettifaq": 8.0,
+        "Al-Qadsiah": 1.22,
+        "Draw": 5.5
+      },
+      "William Hill": {
+        "Al-Ettifaq": 8.0,
+        "Al-Qadsiah": 1.22,
+        "Draw": 5.5
+      },
+      "Betfair": {
+        "Al-Ettifaq": 10.0,
+        "Al-Qadsiah": 1.29,
+        "Draw": 7.0
+      },
+      "Tipico": {
+        "Al-Ettifaq": 9.5,
+        "Al-Qadsiah": 1.2,
+        "Draw": 6.7
       }
     }
   },
@@ -6300,13 +6250,128 @@
       "confidence": 8,
       "alert_type": "value",
       "alerted_at": "2026-09-11T04:32:09.945111+00:00"
+    },
+    {
+      "state_key": "20e5e342bef4776fd004fc2db67147fd:h2h",
+      "event_id": "20e5e342bef4776fd004fc2db67147fd",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Kyoto Purple Sanga",
+      "away_team": "Kashiwa Reysol",
+      "commence_time": "2026-09-11T10:03:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.5,
+      "stake_pct": 3.0,
+      "confidence": 11,
+      "alert_type": "value",
+      "alerted_at": "2026-09-11T11:11:53.435440+00:00"
+    },
+    {
+      "state_key": "20e5e342bef4776fd004fc2db67147fd:h2h",
+      "event_id": "20e5e342bef4776fd004fc2db67147fd",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Kyoto Purple Sanga",
+      "away_team": "Kashiwa Reysol",
+      "commence_time": "2026-09-11T10:03:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.2,
+      "stake_pct": 2.0,
+      "confidence": 5,
+      "alert_type": "value",
+      "alerted_at": "2026-09-11T11:11:53.937262+00:00"
+    },
+    {
+      "state_key": "20e5e342bef4776fd004fc2db67147fd:h2h",
+      "event_id": "20e5e342bef4776fd004fc2db67147fd",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Kyoto Purple Sanga",
+      "away_team": "Kashiwa Reysol",
+      "commence_time": "2026-09-11T10:03:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.5,
+      "stake_pct": 3.0,
+      "confidence": 11,
+      "alert_type": "value",
+      "alerted_at": "2026-09-11T11:11:54.453621+00:00"
+    },
+    {
+      "state_key": "20e5e342bef4776fd004fc2db67147fd:h2h",
+      "event_id": "20e5e342bef4776fd004fc2db67147fd",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Kyoto Purple Sanga",
+      "away_team": "Kashiwa Reysol",
+      "commence_time": "2026-09-11T10:03:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.6,
+      "stake_pct": 3.0,
+      "confidence": 13,
+      "alert_type": "value",
+      "alerted_at": "2026-09-11T11:11:54.967122+00:00"
+    },
+    {
+      "state_key": "20e5e342bef4776fd004fc2db67147fd:h2h",
+      "event_id": "20e5e342bef4776fd004fc2db67147fd",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Kyoto Purple Sanga",
+      "away_team": "Kashiwa Reysol",
+      "commence_time": "2026-09-11T10:03:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.5,
+      "stake_pct": 3.0,
+      "confidence": 11,
+      "alert_type": "value",
+      "alerted_at": "2026-09-11T11:11:55.472079+00:00"
+    },
+    {
+      "state_key": "4623a914cb7221030c0daf6bf45c49a9:h2h",
+      "event_id": "4623a914cb7221030c0daf6bf45c49a9",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Qadsiah",
+      "away_team": "Al-Ettifaq",
+      "commence_time": "2026-09-11T15:25:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Ettifaq",
+      "odds_at_alert": 10.0,
+      "stake_pct": 3.0,
+      "confidence": 12,
+      "alert_type": "value",
+      "alerted_at": "2026-09-11T11:11:56.002147+00:00"
+    },
+    {
+      "state_key": "4623a914cb7221030c0daf6bf45c49a9:h2h",
+      "event_id": "4623a914cb7221030c0daf6bf45c49a9",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Qadsiah",
+      "away_team": "Al-Ettifaq",
+      "commence_time": "2026-09-11T15:25:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Ettifaq",
+      "odds_at_alert": 9.5,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-09-11T11:11:57.103910+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "68f28a19d5c06190d3ba9b39b13f3e04:h2h|Coolbet|Pumas",
-    "68f28a19d5c06190d3ba9b39b13f3e04:h2h|Matchbook|Pumas",
-    "68f28a19d5c06190d3ba9b39b13f3e04:h2h|Unibet (NL)|León",
-    "68f28a19d5c06190d3ba9b39b13f3e04:h2h|Unibet (SE)|León"
+    "20e5e342bef4776fd004fc2db67147fd:h2h|Betfair|Draw",
+    "20e5e342bef4776fd004fc2db67147fd:h2h|Coolbet|Draw",
+    "20e5e342bef4776fd004fc2db67147fd:h2h|Matchbook|Draw",
+    "20e5e342bef4776fd004fc2db67147fd:h2h|Tipico|Draw",
+    "20e5e342bef4776fd004fc2db67147fd:h2h|Winamax (DE)|Draw",
+    "4623a914cb7221030c0daf6bf45c49a9:h2h|Betfair|Al-Ettifaq",
+    "4623a914cb7221030c0daf6bf45c49a9:h2h|Tipico|Al-Ettifaq"
   ]
 }
