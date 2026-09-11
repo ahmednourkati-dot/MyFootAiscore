@@ -1,196 +1,96 @@
 {
   "snapshots": {
-    "5a0fe8308ce6e88fe6df1c5bdac4ffef:h2h": {
-      "Pinnacle": {
-        "Kryliya Sovetov": 6.97,
-        "Rodina Moscow": 1.63,
-        "Draw": 3.23
-      }
-    },
-    "4623a914cb7221030c0daf6bf45c49a9:h2h": {
-      "LeoVegas (SE)": {
-        "Al-Ettifaq": 19.0,
-        "Al-Qadsiah": 1.06,
-        "Draw": 7.5
-      },
-      "Unibet (NL)": {
-        "Al-Ettifaq": 19.0,
-        "Al-Qadsiah": 1.07,
-        "Draw": 7.5
-      },
-      "Unibet (SE)": {
-        "Al-Ettifaq": 20.0,
-        "Al-Qadsiah": 1.11,
-        "Draw": 8.0
-      },
-      "Betclic (FR)": {
-        "Al-Ettifaq": 15.0,
-        "Al-Qadsiah": 1.11,
-        "Draw": 5.75
-      },
-      "Pinnacle": {
-        "Al-Ettifaq": 21.22,
-        "Al-Qadsiah": 1.15,
-        "Draw": 6.89
-      },
-      "Winamax (DE)": {
-        "Al-Ettifaq": 20.0,
-        "Al-Qadsiah": 1.12,
-        "Draw": 6.75
-      },
-      "Winamax (FR)": {
-        "Al-Ettifaq": 19.0,
-        "Al-Qadsiah": 1.13,
-        "Draw": 6.25
-      },
+    "34f8f53d8423fd55dc1edd67ee11d04b:h2h": {
       "888sport": {
-        "Al-Ettifaq": 15.0,
-        "Al-Qadsiah": 1.12,
-        "Draw": 6.0
-      },
-      "Betfair": {
-        "Al-Ettifaq": 29.0,
-        "Al-Qadsiah": 1.18,
-        "Draw": 8.2
-      },
-      "Tipico": {
-        "Al-Ettifaq": 25.0,
-        "Al-Qadsiah": 1.08,
-        "Draw": 7.5
-      }
-    },
-    "52e91ad12295ab4fd48e4cb719c853bd:h2h": {
-      "Unibet (NL)": {
-        "Al-Faisaly KSA FC": 14.0,
-        "Al-Ittihad": 1.14,
-        "Draw": 5.8
-      },
-      "LeoVegas (SE)": {
-        "Al-Faisaly KSA FC": 14.0,
-        "Al-Ittihad": 1.12,
-        "Draw": 5.8
-      },
-      "Unibet (SE)": {
-        "Al-Faisaly KSA FC": 15.0,
-        "Al-Ittihad": 1.18,
-        "Draw": 6.25
-      },
-      "PMU (FR)": {
-        "Al-Faisaly KSA FC": 13.0,
-        "Al-Ittihad": 1.06,
-        "Draw": 5.5
-      },
-      "Betclic (FR)": {
-        "Al-Faisaly KSA FC": 15.75,
-        "Al-Ittihad": 1.08,
-        "Draw": 6.5
-      },
-      "Betfair": {
-        "Al-Faisaly KSA FC": 28.0,
-        "Al-Ittihad": 1.19,
-        "Draw": 7.6
-      },
-      "Pinnacle": {
-        "Al-Faisaly KSA FC": 19.92,
-        "Al-Ittihad": 1.16,
-        "Draw": 6.66
+        "Benevento": 1.0,
+        "Hellas Verona": 151.0,
+        "Draw": 56.0
       },
       "Winamax (FR)": {
-        "Al-Faisaly KSA FC": 21.0,
-        "Al-Ittihad": 1.11,
-        "Draw": 6.5
-      },
-      "Winamax (DE)": {
-        "Al-Faisaly KSA FC": 22.0,
-        "Al-Ittihad": 1.11,
-        "Draw": 7.0
-      },
-      "888sport": {
-        "Al-Faisaly KSA FC": 17.0,
-        "Al-Ittihad": 1.12,
-        "Draw": 6.0
-      },
-      "Tipico": {
-        "Al-Faisaly KSA FC": 25.0,
-        "Al-Ittihad": 1.07,
-        "Draw": 8.0
-      }
-    },
-    "73ede35a59dd1695a4bc42ae771de3bf:h2h": {
-      "PMU (FR)": {
-        "Motor Lublin": 2.95,
-        "Raków Częstochowa": 1.92,
-        "Draw": 2.88
-      },
-      "LeoVegas (SE)": {
-        "Motor Lublin": 3.0,
-        "Raków Częstochowa": 1.96,
-        "Draw": 2.95
-      },
-      "Unibet (SE)": {
-        "Motor Lublin": 3.2,
-        "Raków Częstochowa": 2.1,
-        "Draw": 3.1
-      },
-      "Unibet (NL)": {
-        "Motor Lublin": 3.2,
-        "Raków Częstochowa": 2.1,
-        "Draw": 3.1
+        "Benevento": 1.01,
+        "Hellas Verona": 400.0,
+        "Draw": 32.0
       },
       "Betclic (FR)": {
-        "Motor Lublin": 2.98,
-        "Raków Częstochowa": 2.17,
-        "Draw": 2.93
-      },
-      "Coolbet": {
-        "Motor Lublin": 3.25,
-        "Raków Częstochowa": 2.25,
-        "Draw": 3.14
+        "Benevento": 1.04,
+        "Hellas Verona": 95.0,
+        "Draw": 40.0
       },
       "Winamax (DE)": {
-        "Motor Lublin": 3.15,
-        "Raków Częstochowa": 2.15,
-        "Draw": 3.1
-      },
-      "Winamax (FR)": {
-        "Motor Lublin": 3.05,
-        "Raków Częstochowa": 2.1,
-        "Draw": 3.0
-      },
-      "Betsson": {
-        "Motor Lublin": 3.05,
-        "Raków Częstochowa": 2.15,
-        "Draw": 3.05
+        "Benevento": 1.01,
+        "Hellas Verona": 400.0,
+        "Draw": 30.0
       },
       "Nordic Bet": {
-        "Motor Lublin": 3.05,
-        "Raków Częstochowa": 2.15,
-        "Draw": 3.05
+        "Benevento": 1.0,
+        "Hellas Verona": 81.0,
+        "Draw": 81.0
       },
-      "Pinnacle": {
-        "Motor Lublin": 3.24,
-        "Raków Częstochowa": 2.2,
-        "Draw": 3.31
-      },
-      "888sport": {
-        "Motor Lublin": 3.1,
-        "Raków Częstochowa": 2.15,
-        "Draw": 3.0
-      },
-      "Tipico": {
-        "Motor Lublin": 3.2,
-        "Raków Częstochowa": 2.1,
-        "Draw": 3.3
+      "Betsson": {
+        "Benevento": 1.0,
+        "Hellas Verona": 81.0,
+        "Draw": 81.0
       },
       "Betfair": {
-        "Motor Lublin": 3.45,
-        "Raków Częstochowa": 2.34,
-        "Draw": 3.4
+        "Benevento": 1.01,
+        "Hellas Verona": 95.0,
+        "Draw": 60.0
+      }
+    },
+    "5094d9773f1abc8227b8543a9859af13:h2h": {
+      "Betclic (FR)": {
+        "Pisa": 95.0,
+        "Virtus Entella": 1.02,
+        "Draw": 40.0
       },
-      "Matchbook": {
-        "Motor Lublin": 3.5,
-        "Raków Częstochowa": 2.32,
-        "Draw": 3.4
+      "Betsson": {
+        "Pisa": 81.0,
+        "Virtus Entella": 1.0,
+        "Draw": 81.0
+      },
+      "Nordic Bet": {
+        "Pisa": 81.0,
+        "Virtus Entella": 1.0,
+        "Draw": 81.0
+      },
+      "Betfair": {
+        "Pisa": 110.0,
+        "Virtus Entella": 1.01,
+        "Draw": 65.0
+      }
+    },
+    "8d71274cdf78126babd5f719097e71cb:h2h": {
+      "Betsson": {
+        "Shamrock Rovers": 81.0,
+        "St Patricks Athletic": 1.0,
+        "Draw": 81.0
+      },
+      "Nordic Bet": {
+        "Shamrock Rovers": 81.0,
+        "St Patricks Athletic": 1.0,
+        "Draw": 81.0
+      },
+      "Betfair": {
+        "Shamrock Rovers": 70.0,
+        "St Patricks Athletic": 1.01,
+        "Draw": 42.0
+      }
+    },
+    "4d6a4a477e15b56242dd5dc7537cb649:h2h": {
+      "Betsson": {
+        "West Ham United": 1.0,
+        "Wrexham AFC": 26.0,
+        "Draw": 26.0
+      },
+      "Betclic (FR)": {
+        "West Ham United": 1.0,
+        "Wrexham AFC": 100.0,
+        "Draw": 40.0
+      },
+      "Nordic Bet": {
+        "West Ham United": 1.0,
+        "Wrexham AFC": 26.0,
+        "Draw": 26.0
       }
     }
   },
@@ -6406,14 +6306,5 @@
     }
   ],
   "results_history": [],
-  "value_alerted": [
-    "4623a914cb7221030c0daf6bf45c49a9:h2h|Betfair|Al-Ettifaq",
-    "4623a914cb7221030c0daf6bf45c49a9:h2h|Betfair|Draw",
-    "4623a914cb7221030c0daf6bf45c49a9:h2h|Tipico|Al-Ettifaq",
-    "4623a914cb7221030c0daf6bf45c49a9:h2h|Unibet (SE)|Draw",
-    "52e91ad12295ab4fd48e4cb719c853bd:h2h|Betfair|Al-Faisaly KSA FC",
-    "52e91ad12295ab4fd48e4cb719c853bd:h2h|Betfair|Draw",
-    "52e91ad12295ab4fd48e4cb719c853bd:h2h|Tipico|Al-Faisaly KSA FC",
-    "52e91ad12295ab4fd48e4cb719c853bd:h2h|Tipico|Draw"
-  ]
+  "value_alerted": []
 }
