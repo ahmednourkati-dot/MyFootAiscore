@@ -1,106 +1,271 @@
 {
   "snapshots": {
-    "ce224016de80ab3f7101a6c7cde3a5c7:h2h": {
-      "Betclic (FR)": {
-        "Bayern Munich": 1.0,
-        "Bodø/Glimt": 100.0,
-        "Draw": 75.0
-      },
-      "Betsson": {
-        "Bayern Munich": 1.0,
-        "Bodø/Glimt": 34.0,
-        "Draw": 29.0
-      },
-      "Nordic Bet": {
-        "Bayern Munich": 1.0,
-        "Bodø/Glimt": 34.0,
-        "Draw": 29.0
-      }
-    },
-    "c50014f4b3e58a12a2c79dcde72548e6:h2h": {
-      "888sport": {
-        "Como": 1.0,
-        "RB Leipzig": 151.0,
-        "Draw": 67.0
-      },
-      "Betfair": {
-        "Como": 1.01,
-        "RB Leipzig": 1000.0,
-        "Draw": 65.0
-      },
-      "Betsson": {
-        "Como": 1.0,
-        "RB Leipzig": 51.0,
-        "Draw": 23.0
-      },
-      "Nordic Bet": {
-        "Como": 1.0,
-        "RB Leipzig": 61.0,
-        "Draw": 21.0
-      }
-    },
-    "6596b1e9434721f41c369ef2f79ed6c2:h2h": {
-      "Unibet (SE)": {
-        "Luton": 91.0,
-        "Stevenage": 1.06,
-        "Draw": 8.5
-      },
+    "87f45aa58c1df3e698331bc0c5240ae2:h2h": {
       "LeoVegas (SE)": {
-        "Luton": 56.0,
-        "Stevenage": 1.03,
-        "Draw": 8.0
+        "Goiás": 21.0,
+        "Vila Nova": 1.15,
+        "Draw": 4.5
       },
       "Unibet (NL)": {
-        "Luton": 67.0,
-        "Stevenage": 1.03,
-        "Draw": 8.5
+        "Goiás": 23.0,
+        "Vila Nova": 1.15,
+        "Draw": 4.7
       },
-      "Coolbet": {
-        "Luton": 50.0,
-        "Stevenage": 1.13,
-        "Draw": 6.0
-      },
-      "Pinnacle": {
-        "Luton": 20.09,
-        "Stevenage": 1.28,
-        "Draw": 4.21
-      },
-      "Nordic Bet": {
-        "Luton": 36.0,
-        "Stevenage": 1.1,
-        "Draw": 5.35
+      "Unibet (SE)": {
+        "Goiás": 5.6,
+        "Vila Nova": 3.5,
+        "Draw": 1.61
       },
       "Betsson": {
-        "Luton": 36.0,
-        "Stevenage": 1.1,
-        "Draw": 5.35
+        "Goiás": 4.6,
+        "Vila Nova": 3.5,
+        "Draw": 1.62
       },
-      "888sport": {
-        "Luton": 51.0,
-        "Stevenage": 1.11,
-        "Draw": 6.5
+      "Nordic Bet": {
+        "Goiás": 4.6,
+        "Vila Nova": 3.65,
+        "Draw": 1.6
       },
-      "Betfair": {
-        "Luton": 60.0,
-        "Stevenage": 1.2,
-        "Draw": 6.2
+      "Pinnacle": {
+        "Goiás": 4.57,
+        "Vila Nova": 3.39,
+        "Draw": 1.81
       },
-      "Tipico": {
-        "Luton": 70.0,
-        "Stevenage": 1.13,
+      "Coolbet": {
+        "Goiás": 22.0,
+        "Vila Nova": 1.18,
         "Draw": 5.0
       },
+      "888sport": {
+        "Goiás": 29.0,
+        "Vila Nova": 1.18,
+        "Draw": 5.0
+      },
+      "Tipico": {
+        "Goiás": 16.0,
+        "Vila Nova": 1.18,
+        "Draw": 5.2
+      },
       "Matchbook": {
-        "Luton": 85.0,
-        "Stevenage": 1.14,
-        "Draw": 7.0
+        "Goiás": 36.0,
+        "Vila Nova": 1.24,
+        "Draw": 4.7
+      },
+      "Betfair": {
+        "Goiás": 5.6,
+        "Vila Nova": 4.0,
+        "Draw": 1.74
       }
     },
-    "347bee87359150e58c8883fc2cf6495a:h2h": {
+    "e26b369d2b4475d6a18ca99f5070b2da:h2h": {
+      "LeoVegas (SE)": {
+        "Londrina": 2.23,
+        "São Bernardo": 2.7,
+        "Draw": 3.05
+      },
+      "Unibet (SE)": {
+        "Londrina": 2.35,
+        "São Bernardo": 2.88,
+        "Draw": 3.25
+      },
+      "Unibet (NL)": {
+        "Londrina": 2.25,
+        "São Bernardo": 2.75,
+        "Draw": 3.05
+      },
+      "Codere (IT)": {
+        "Londrina": 5.2,
+        "São Bernardo": 1.61,
+        "Draw": 3.6
+      },
+      "William Hill": {
+        "Londrina": 5.0,
+        "São Bernardo": 1.65,
+        "Draw": 3.5
+      },
+      "888sport": {
+        "Londrina": 2.4,
+        "São Bernardo": 2.75,
+        "Draw": 3.1
+      },
+      "Pinnacle": {
+        "Londrina": 5.55,
+        "São Bernardo": 1.66,
+        "Draw": 3.53
+      },
+      "Tipico": {
+        "Londrina": 5.5,
+        "São Bernardo": 1.52,
+        "Draw": 3.7
+      },
+      "Matchbook": {
+        "Londrina": 2.56,
+        "São Bernardo": 3.1,
+        "Draw": 3.3
+      },
+      "Betfair": {
+        "Londrina": 1.36,
+        "São Bernardo": 1.07,
+        "Draw": 3.6
+      }
+    },
+    "3a8577d2ba8a9c00a5811cf63847cb0c:h2h": {
+      "Coolbet": {
+        "Club Cienciano": 1.54,
+        "Montevideo City Torque": 7.5,
+        "Draw": 3.85
+      },
+      "Unibet (FR)": {
+        "Club Cienciano": 1.39,
+        "Montevideo City Torque": 6.3,
+        "Draw": 4.0
+      },
+      "Codere (IT)": {
+        "Club Cienciano": 1.47,
+        "Montevideo City Torque": 6.6,
+        "Draw": 4.2
+      },
+      "1xBet": {
+        "Club Cienciano": 1.56,
+        "Montevideo City Torque": 6.72,
+        "Draw": 4.36
+      },
+      "Unibet (NL)": {
+        "Club Cienciano": 1.51,
+        "Montevideo City Torque": 6.5,
+        "Draw": 3.85
+      },
+      "LeoVegas (SE)": {
+        "Club Cienciano": 1.45,
+        "Montevideo City Torque": 6.0,
+        "Draw": 3.6
+      },
+      "Nordic Bet": {
+        "Club Cienciano": 1.5,
+        "Montevideo City Torque": 6.8,
+        "Draw": 3.6
+      },
+      "Betfair": {
+        "Club Cienciano": 1.54,
+        "Montevideo City Torque": 7.8,
+        "Draw": 4.3
+      },
+      "Pinnacle": {
+        "Club Cienciano": 1.53,
+        "Montevideo City Torque": 7.23,
+        "Draw": 4.0
+      },
+      "888sport": {
+        "Club Cienciano": 1.44,
+        "Montevideo City Torque": 6.5,
+        "Draw": 3.9
+      },
+      "William Hill": {
+        "Club Cienciano": 1.44,
+        "Montevideo City Torque": 6.5,
+        "Draw": 3.9
+      }
+    },
+    "a3d3128f59c408c8b51a9a7b3f8b3e08:h2h": {
+      "Coolbet": {
+        "Flamengo-RJ": 2.4,
+        "Independiente del Valle": 3.4,
+        "Draw": 2.95
+      },
+      "Winamax (FR)": {
+        "Flamengo-RJ": 2.35,
+        "Independiente del Valle": 2.8,
+        "Draw": 2.9
+      },
+      "Winamax (DE)": {
+        "Flamengo-RJ": 2.4,
+        "Independiente del Valle": 2.85,
+        "Draw": 3.0
+      },
+      "1xBet": {
+        "Flamengo-RJ": 2.45,
+        "Independiente del Valle": 3.19,
+        "Draw": 3.12
+      },
+      "Unibet (FR)": {
+        "Flamengo-RJ": 2.3,
+        "Independiente del Valle": 2.95,
+        "Draw": 2.9
+      },
+      "Codere (IT)": {
+        "Flamengo-RJ": 2.5,
+        "Independiente del Valle": 3.0,
+        "Draw": 3.0
+      },
       "Betclic (FR)": {
-        "Manchester United": 1.0,
-        "Sabah FK": 250.0,
-        "Draw": 8.5
+        "Flamengo-RJ": 2.35,
+        "Independiente del Valle": 2.88,
+        "Draw": 2.87
+      },
+      "Betfair": {
+        "Flamengo-RJ": 2.56,
+        "Independiente del Valle": 3.4,
+        "Draw": 3.1
+      },
+      "Marathon Bet": {
+        "Flamengo-RJ": 2.38,
+        "Independiente del Valle": 3.1,
+        "Draw": 3.04
+      },
+      "Tipico": {
+        "Flamengo-RJ": 2.35,
+        "Independiente del Valle": 3.2,
+        "Draw": 3.0
+      },
+      "Unibet (NL)": {
+        "Flamengo-RJ": 2.35,
+        "Independiente del Valle": 3.3,
+        "Draw": 2.9
+      },
+      "PMU (FR)": {
+        "Flamengo-RJ": 2.25,
+        "Independiente del Valle": 3.1,
+        "Draw": 2.75
+      },
+      "LeoVegas (SE)": {
+        "Flamengo-RJ": 2.32,
+        "Independiente del Valle": 3.2,
+        "Draw": 2.8
+      },
+      "Pinnacle": {
+        "Flamengo-RJ": 2.52,
+        "Independiente del Valle": 3.24,
+        "Draw": 3.01
+      },
+      "Nordic Bet": {
+        "Flamengo-RJ": 2.45,
+        "Independiente del Valle": 3.05,
+        "Draw": 2.85
+      },
+      "Betsson": {
+        "Flamengo-RJ": 2.45,
+        "Independiente del Valle": 3.05,
+        "Draw": 2.85
+      },
+      "888sport": {
+        "Flamengo-RJ": 2.4,
+        "Independiente del Valle": 3.0,
+        "Draw": 2.9
+      },
+      "William Hill": {
+        "Flamengo-RJ": 2.4,
+        "Independiente del Valle": 3.0,
+        "Draw": 2.9
+      },
+      "GTbets": {
+        "Flamengo-RJ": 2.39,
+        "Independiente del Valle": 3.07,
+        "Draw": 2.93
+      },
+      "BetOnline.ag": {
+        "Flamengo-RJ": 2.5,
+        "Independiente del Valle": 3.2,
+        "Draw": 2.97
       }
     }
   },
@@ -5721,29 +5886,349 @@
       "confidence": 56,
       "alert_type": "value",
       "alerted_at": "2026-09-10T20:48:07.276630+00:00"
+    },
+    {
+      "state_key": "87f45aa58c1df3e698331bc0c5240ae2:h2h",
+      "event_id": "87f45aa58c1df3e698331bc0c5240ae2",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Vila Nova",
+      "away_team": "Goiás",
+      "commence_time": "2026-09-10T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Goiás",
+      "odds_at_alert": 21.0,
+      "stake_pct": 5.0,
+      "confidence": 331,
+      "alert_type": "value",
+      "alerted_at": "2026-09-11T00:04:14.227056+00:00"
+    },
+    {
+      "state_key": "87f45aa58c1df3e698331bc0c5240ae2:h2h",
+      "event_id": "87f45aa58c1df3e698331bc0c5240ae2",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Vila Nova",
+      "away_team": "Goiás",
+      "commence_time": "2026-09-10T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.5,
+      "stake_pct": 5.0,
+      "confidence": 133,
+      "alert_type": "value",
+      "alerted_at": "2026-09-11T00:04:14.725491+00:00"
+    },
+    {
+      "state_key": "87f45aa58c1df3e698331bc0c5240ae2:h2h",
+      "event_id": "87f45aa58c1df3e698331bc0c5240ae2",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Vila Nova",
+      "away_team": "Goiás",
+      "commence_time": "2026-09-10T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Goiás",
+      "odds_at_alert": 23.0,
+      "stake_pct": 5.0,
+      "confidence": 372,
+      "alert_type": "value",
+      "alerted_at": "2026-09-11T00:04:15.212315+00:00"
+    },
+    {
+      "state_key": "87f45aa58c1df3e698331bc0c5240ae2:h2h",
+      "event_id": "87f45aa58c1df3e698331bc0c5240ae2",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Vila Nova",
+      "away_team": "Goiás",
+      "commence_time": "2026-09-10T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.7,
+      "stake_pct": 5.0,
+      "confidence": 144,
+      "alert_type": "value",
+      "alerted_at": "2026-09-11T00:04:15.750806+00:00"
+    },
+    {
+      "state_key": "87f45aa58c1df3e698331bc0c5240ae2:h2h",
+      "event_id": "87f45aa58c1df3e698331bc0c5240ae2",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Vila Nova",
+      "away_team": "Goiás",
+      "commence_time": "2026-09-10T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Goiás",
+      "odds_at_alert": 5.6,
+      "stake_pct": 3.0,
+      "confidence": 15,
+      "alert_type": "value",
+      "alerted_at": "2026-09-11T00:04:16.239821+00:00"
+    },
+    {
+      "state_key": "87f45aa58c1df3e698331bc0c5240ae2:h2h",
+      "event_id": "87f45aa58c1df3e698331bc0c5240ae2",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Vila Nova",
+      "away_team": "Goiás",
+      "commence_time": "2026-09-10T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Goiás",
+      "odds_at_alert": 22.0,
+      "stake_pct": 5.0,
+      "confidence": 351,
+      "alert_type": "value",
+      "alerted_at": "2026-09-11T00:04:16.765427+00:00"
+    },
+    {
+      "state_key": "87f45aa58c1df3e698331bc0c5240ae2:h2h",
+      "event_id": "87f45aa58c1df3e698331bc0c5240ae2",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Vila Nova",
+      "away_team": "Goiás",
+      "commence_time": "2026-09-10T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.0,
+      "stake_pct": 5.0,
+      "confidence": 159,
+      "alert_type": "value",
+      "alerted_at": "2026-09-11T00:04:17.310404+00:00"
+    },
+    {
+      "state_key": "87f45aa58c1df3e698331bc0c5240ae2:h2h",
+      "event_id": "87f45aa58c1df3e698331bc0c5240ae2",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Vila Nova",
+      "away_team": "Goiás",
+      "commence_time": "2026-09-10T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Goiás",
+      "odds_at_alert": 29.0,
+      "stake_pct": 5.0,
+      "confidence": 495,
+      "alert_type": "value",
+      "alerted_at": "2026-09-11T00:04:17.838568+00:00"
+    },
+    {
+      "state_key": "87f45aa58c1df3e698331bc0c5240ae2:h2h",
+      "event_id": "87f45aa58c1df3e698331bc0c5240ae2",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Vila Nova",
+      "away_team": "Goiás",
+      "commence_time": "2026-09-10T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.0,
+      "stake_pct": 5.0,
+      "confidence": 159,
+      "alert_type": "value",
+      "alerted_at": "2026-09-11T00:04:18.363298+00:00"
+    },
+    {
+      "state_key": "87f45aa58c1df3e698331bc0c5240ae2:h2h",
+      "event_id": "87f45aa58c1df3e698331bc0c5240ae2",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Vila Nova",
+      "away_team": "Goiás",
+      "commence_time": "2026-09-10T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Goiás",
+      "odds_at_alert": 16.0,
+      "stake_pct": 5.0,
+      "confidence": 228,
+      "alert_type": "value",
+      "alerted_at": "2026-09-11T00:04:18.849519+00:00"
+    },
+    {
+      "state_key": "87f45aa58c1df3e698331bc0c5240ae2:h2h",
+      "event_id": "87f45aa58c1df3e698331bc0c5240ae2",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Vila Nova",
+      "away_team": "Goiás",
+      "commence_time": "2026-09-10T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.2,
+      "stake_pct": 5.0,
+      "confidence": 169,
+      "alert_type": "value",
+      "alerted_at": "2026-09-11T00:04:19.431802+00:00"
+    },
+    {
+      "state_key": "87f45aa58c1df3e698331bc0c5240ae2:h2h",
+      "event_id": "87f45aa58c1df3e698331bc0c5240ae2",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Vila Nova",
+      "away_team": "Goiás",
+      "commence_time": "2026-09-10T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Goiás",
+      "odds_at_alert": 36.0,
+      "stake_pct": 5.0,
+      "confidence": 639,
+      "alert_type": "value",
+      "alerted_at": "2026-09-11T00:04:19.970304+00:00"
+    },
+    {
+      "state_key": "87f45aa58c1df3e698331bc0c5240ae2:h2h",
+      "event_id": "87f45aa58c1df3e698331bc0c5240ae2",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Vila Nova",
+      "away_team": "Goiás",
+      "commence_time": "2026-09-10T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.7,
+      "stake_pct": 5.0,
+      "confidence": 144,
+      "alert_type": "value",
+      "alerted_at": "2026-09-11T00:04:20.457526+00:00"
+    },
+    {
+      "state_key": "87f45aa58c1df3e698331bc0c5240ae2:h2h",
+      "event_id": "87f45aa58c1df3e698331bc0c5240ae2",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Vila Nova",
+      "away_team": "Goiás",
+      "commence_time": "2026-09-10T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Goiás",
+      "odds_at_alert": 5.6,
+      "stake_pct": 3.0,
+      "confidence": 15,
+      "alert_type": "value",
+      "alerted_at": "2026-09-11T00:04:20.995977+00:00"
+    },
+    {
+      "state_key": "87f45aa58c1df3e698331bc0c5240ae2:h2h",
+      "event_id": "87f45aa58c1df3e698331bc0c5240ae2",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Vila Nova",
+      "away_team": "Goiás",
+      "commence_time": "2026-09-10T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Vila Nova",
+      "odds_at_alert": 4.0,
+      "stake_pct": 3.0,
+      "confidence": 11,
+      "alert_type": "value",
+      "alerted_at": "2026-09-11T00:04:21.515511+00:00"
+    },
+    {
+      "state_key": "e26b369d2b4475d6a18ca99f5070b2da:h2h",
+      "event_id": "e26b369d2b4475d6a18ca99f5070b2da",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "São Bernardo",
+      "away_team": "Londrina",
+      "commence_time": "2026-09-10T23:49:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "São Bernardo",
+      "odds_at_alert": 2.7,
+      "stake_pct": 5.0,
+      "confidence": 53,
+      "alert_type": "value",
+      "alerted_at": "2026-09-11T00:04:22.132932+00:00"
+    },
+    {
+      "state_key": "e26b369d2b4475d6a18ca99f5070b2da:h2h",
+      "event_id": "e26b369d2b4475d6a18ca99f5070b2da",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "São Bernardo",
+      "away_team": "Londrina",
+      "commence_time": "2026-09-10T23:49:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "São Bernardo",
+      "odds_at_alert": 2.88,
+      "stake_pct": 5.0,
+      "confidence": 63,
+      "alert_type": "value",
+      "alerted_at": "2026-09-11T00:04:22.671042+00:00"
+    },
+    {
+      "state_key": "e26b369d2b4475d6a18ca99f5070b2da:h2h",
+      "event_id": "e26b369d2b4475d6a18ca99f5070b2da",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "São Bernardo",
+      "away_team": "Londrina",
+      "commence_time": "2026-09-10T23:49:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "São Bernardo",
+      "odds_at_alert": 2.75,
+      "stake_pct": 5.0,
+      "confidence": 55,
+      "alert_type": "value",
+      "alerted_at": "2026-09-11T00:04:23.213363+00:00"
+    },
+    {
+      "state_key": "e26b369d2b4475d6a18ca99f5070b2da:h2h",
+      "event_id": "e26b369d2b4475d6a18ca99f5070b2da",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "São Bernardo",
+      "away_team": "Londrina",
+      "commence_time": "2026-09-10T23:49:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "São Bernardo",
+      "odds_at_alert": 2.75,
+      "stake_pct": 5.0,
+      "confidence": 55,
+      "alert_type": "value",
+      "alerted_at": "2026-09-11T00:04:23.768155+00:00"
+    },
+    {
+      "state_key": "e26b369d2b4475d6a18ca99f5070b2da:h2h",
+      "event_id": "e26b369d2b4475d6a18ca99f5070b2da",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "São Bernardo",
+      "away_team": "Londrina",
+      "commence_time": "2026-09-10T23:49:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "São Bernardo",
+      "odds_at_alert": 3.1,
+      "stake_pct": 5.0,
+      "confidence": 75,
+      "alert_type": "value",
+      "alerted_at": "2026-09-11T00:04:24.324023+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "6596b1e9434721f41c369ef2f79ed6c2:h2h|888sport|Draw",
-    "6596b1e9434721f41c369ef2f79ed6c2:h2h|888sport|Luton",
-    "6596b1e9434721f41c369ef2f79ed6c2:h2h|Betfair|Draw",
-    "6596b1e9434721f41c369ef2f79ed6c2:h2h|Betfair|Luton",
-    "6596b1e9434721f41c369ef2f79ed6c2:h2h|Betsson|Draw",
-    "6596b1e9434721f41c369ef2f79ed6c2:h2h|Betsson|Luton",
-    "6596b1e9434721f41c369ef2f79ed6c2:h2h|Coolbet|Draw",
-    "6596b1e9434721f41c369ef2f79ed6c2:h2h|Coolbet|Luton",
-    "6596b1e9434721f41c369ef2f79ed6c2:h2h|LeoVegas (SE)|Draw",
-    "6596b1e9434721f41c369ef2f79ed6c2:h2h|LeoVegas (SE)|Luton",
-    "6596b1e9434721f41c369ef2f79ed6c2:h2h|Matchbook|Draw",
-    "6596b1e9434721f41c369ef2f79ed6c2:h2h|Matchbook|Luton",
-    "6596b1e9434721f41c369ef2f79ed6c2:h2h|Nordic Bet|Draw",
-    "6596b1e9434721f41c369ef2f79ed6c2:h2h|Nordic Bet|Luton",
-    "6596b1e9434721f41c369ef2f79ed6c2:h2h|Tipico|Draw",
-    "6596b1e9434721f41c369ef2f79ed6c2:h2h|Tipico|Luton",
-    "6596b1e9434721f41c369ef2f79ed6c2:h2h|Unibet (NL)|Draw",
-    "6596b1e9434721f41c369ef2f79ed6c2:h2h|Unibet (NL)|Luton",
-    "6596b1e9434721f41c369ef2f79ed6c2:h2h|Unibet (SE)|Draw",
-    "6596b1e9434721f41c369ef2f79ed6c2:h2h|Unibet (SE)|Luton"
+    "87f45aa58c1df3e698331bc0c5240ae2:h2h|888sport|Draw",
+    "87f45aa58c1df3e698331bc0c5240ae2:h2h|888sport|Goiás",
+    "87f45aa58c1df3e698331bc0c5240ae2:h2h|Betfair|Goiás",
+    "87f45aa58c1df3e698331bc0c5240ae2:h2h|Betfair|Vila Nova",
+    "87f45aa58c1df3e698331bc0c5240ae2:h2h|Coolbet|Draw",
+    "87f45aa58c1df3e698331bc0c5240ae2:h2h|Coolbet|Goiás",
+    "87f45aa58c1df3e698331bc0c5240ae2:h2h|LeoVegas (SE)|Draw",
+    "87f45aa58c1df3e698331bc0c5240ae2:h2h|LeoVegas (SE)|Goiás",
+    "87f45aa58c1df3e698331bc0c5240ae2:h2h|Matchbook|Draw",
+    "87f45aa58c1df3e698331bc0c5240ae2:h2h|Matchbook|Goiás",
+    "87f45aa58c1df3e698331bc0c5240ae2:h2h|Tipico|Draw",
+    "87f45aa58c1df3e698331bc0c5240ae2:h2h|Tipico|Goiás",
+    "87f45aa58c1df3e698331bc0c5240ae2:h2h|Unibet (NL)|Draw",
+    "87f45aa58c1df3e698331bc0c5240ae2:h2h|Unibet (NL)|Goiás",
+    "87f45aa58c1df3e698331bc0c5240ae2:h2h|Unibet (SE)|Goiás",
+    "e26b369d2b4475d6a18ca99f5070b2da:h2h|888sport|São Bernardo",
+    "e26b369d2b4475d6a18ca99f5070b2da:h2h|LeoVegas (SE)|São Bernardo",
+    "e26b369d2b4475d6a18ca99f5070b2da:h2h|Matchbook|São Bernardo",
+    "e26b369d2b4475d6a18ca99f5070b2da:h2h|Unibet (NL)|São Bernardo",
+    "e26b369d2b4475d6a18ca99f5070b2da:h2h|Unibet (SE)|São Bernardo"
   ]
 }
