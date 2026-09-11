@@ -1,271 +1,301 @@
 {
   "snapshots": {
-    "87f45aa58c1df3e698331bc0c5240ae2:h2h": {
-      "LeoVegas (SE)": {
-        "Goiás": 21.0,
-        "Vila Nova": 1.15,
-        "Draw": 4.5
-      },
-      "Unibet (NL)": {
-        "Goiás": 23.0,
-        "Vila Nova": 1.15,
-        "Draw": 4.7
-      },
+    "68f28a19d5c06190d3ba9b39b13f3e04:h2h": {
       "Unibet (SE)": {
-        "Goiás": 5.6,
-        "Vila Nova": 3.5,
-        "Draw": 1.61
-      },
-      "Betsson": {
-        "Goiás": 4.6,
-        "Vila Nova": 3.5,
-        "Draw": 1.62
-      },
-      "Nordic Bet": {
-        "Goiás": 4.6,
-        "Vila Nova": 3.65,
-        "Draw": 1.6
-      },
-      "Pinnacle": {
-        "Goiás": 4.57,
-        "Vila Nova": 3.39,
-        "Draw": 1.81
-      },
-      "Coolbet": {
-        "Goiás": 22.0,
-        "Vila Nova": 1.18,
-        "Draw": 5.0
-      },
-      "888sport": {
-        "Goiás": 29.0,
-        "Vila Nova": 1.18,
-        "Draw": 5.0
-      },
-      "Tipico": {
-        "Goiás": 16.0,
-        "Vila Nova": 1.18,
-        "Draw": 5.2
-      },
-      "Matchbook": {
-        "Goiás": 36.0,
-        "Vila Nova": 1.24,
-        "Draw": 4.7
-      },
-      "Betfair": {
-        "Goiás": 5.6,
-        "Vila Nova": 4.0,
-        "Draw": 1.74
-      }
-    },
-    "e26b369d2b4475d6a18ca99f5070b2da:h2h": {
-      "LeoVegas (SE)": {
-        "Londrina": 2.23,
-        "São Bernardo": 2.7,
-        "Draw": 3.05
-      },
-      "Unibet (SE)": {
-        "Londrina": 2.35,
-        "São Bernardo": 2.88,
-        "Draw": 3.25
-      },
-      "Unibet (NL)": {
-        "Londrina": 2.25,
-        "São Bernardo": 2.75,
-        "Draw": 3.05
-      },
-      "Codere (IT)": {
-        "Londrina": 5.2,
-        "São Bernardo": 1.61,
-        "Draw": 3.6
-      },
-      "William Hill": {
-        "Londrina": 5.0,
-        "São Bernardo": 1.65,
-        "Draw": 3.5
-      },
-      "888sport": {
-        "Londrina": 2.4,
-        "São Bernardo": 2.75,
-        "Draw": 3.1
-      },
-      "Pinnacle": {
-        "Londrina": 5.55,
-        "São Bernardo": 1.66,
-        "Draw": 3.53
-      },
-      "Tipico": {
-        "Londrina": 5.5,
-        "São Bernardo": 1.52,
-        "Draw": 3.7
-      },
-      "Matchbook": {
-        "Londrina": 2.56,
-        "São Bernardo": 3.1,
-        "Draw": 3.3
-      },
-      "Betfair": {
-        "Londrina": 1.36,
-        "São Bernardo": 1.07,
-        "Draw": 3.6
-      }
-    },
-    "3a8577d2ba8a9c00a5811cf63847cb0c:h2h": {
-      "Coolbet": {
-        "Club Cienciano": 1.54,
-        "Montevideo City Torque": 7.5,
-        "Draw": 3.85
-      },
-      "Unibet (FR)": {
-        "Club Cienciano": 1.39,
-        "Montevideo City Torque": 6.3,
-        "Draw": 4.0
-      },
-      "Codere (IT)": {
-        "Club Cienciano": 1.47,
-        "Montevideo City Torque": 6.6,
-        "Draw": 4.2
-      },
-      "1xBet": {
-        "Club Cienciano": 1.56,
-        "Montevideo City Torque": 6.72,
-        "Draw": 4.36
-      },
-      "Unibet (NL)": {
-        "Club Cienciano": 1.51,
-        "Montevideo City Torque": 6.5,
-        "Draw": 3.85
-      },
-      "LeoVegas (SE)": {
-        "Club Cienciano": 1.45,
-        "Montevideo City Torque": 6.0,
-        "Draw": 3.6
-      },
-      "Nordic Bet": {
-        "Club Cienciano": 1.5,
-        "Montevideo City Torque": 6.8,
-        "Draw": 3.6
-      },
-      "Betfair": {
-        "Club Cienciano": 1.54,
-        "Montevideo City Torque": 7.8,
-        "Draw": 4.3
-      },
-      "Pinnacle": {
-        "Club Cienciano": 1.53,
-        "Montevideo City Torque": 7.23,
-        "Draw": 4.0
-      },
-      "888sport": {
-        "Club Cienciano": 1.44,
-        "Montevideo City Torque": 6.5,
-        "Draw": 3.9
-      },
-      "William Hill": {
-        "Club Cienciano": 1.44,
-        "Montevideo City Torque": 6.5,
-        "Draw": 3.9
-      }
-    },
-    "a3d3128f59c408c8b51a9a7b3f8b3e08:h2h": {
-      "Coolbet": {
-        "Flamengo-RJ": 2.4,
-        "Independiente del Valle": 3.4,
-        "Draw": 2.95
-      },
-      "Winamax (FR)": {
-        "Flamengo-RJ": 2.35,
-        "Independiente del Valle": 2.8,
-        "Draw": 2.9
-      },
-      "Winamax (DE)": {
-        "Flamengo-RJ": 2.4,
-        "Independiente del Valle": 2.85,
-        "Draw": 3.0
-      },
-      "1xBet": {
-        "Flamengo-RJ": 2.45,
-        "Independiente del Valle": 3.19,
-        "Draw": 3.12
-      },
-      "Unibet (FR)": {
-        "Flamengo-RJ": 2.3,
-        "Independiente del Valle": 2.95,
-        "Draw": 2.9
-      },
-      "Codere (IT)": {
-        "Flamengo-RJ": 2.5,
-        "Independiente del Valle": 3.0,
-        "Draw": 3.0
-      },
-      "Betclic (FR)": {
-        "Flamengo-RJ": 2.35,
-        "Independiente del Valle": 2.88,
-        "Draw": 2.87
-      },
-      "Betfair": {
-        "Flamengo-RJ": 2.56,
-        "Independiente del Valle": 3.4,
-        "Draw": 3.1
-      },
-      "Marathon Bet": {
-        "Flamengo-RJ": 2.38,
-        "Independiente del Valle": 3.1,
-        "Draw": 3.04
-      },
-      "Tipico": {
-        "Flamengo-RJ": 2.35,
-        "Independiente del Valle": 3.2,
-        "Draw": 3.0
-      },
-      "Unibet (NL)": {
-        "Flamengo-RJ": 2.35,
-        "Independiente del Valle": 3.3,
-        "Draw": 2.9
+        "León": 4.2,
+        "Pumas": 2.85,
+        "Draw": 2.05
       },
       "PMU (FR)": {
-        "Flamengo-RJ": 2.25,
-        "Independiente del Valle": 3.1,
-        "Draw": 2.75
+        "León": 3.7,
+        "Pumas": 2.55,
+        "Draw": 1.83
       },
       "LeoVegas (SE)": {
-        "Flamengo-RJ": 2.32,
-        "Independiente del Valle": 3.2,
-        "Draw": 2.8
+        "León": 3.9,
+        "Pumas": 2.7,
+        "Draw": 1.93
+      },
+      "Unibet (NL)": {
+        "León": 4.2,
+        "Pumas": 2.85,
+        "Draw": 2.05
+      },
+      "Betclic (FR)": {
+        "León": 3.23,
+        "Pumas": 3.05,
+        "Draw": 2.02
       },
       "Pinnacle": {
-        "Flamengo-RJ": 2.52,
-        "Independiente del Valle": 3.24,
-        "Draw": 3.01
+        "León": 3.56,
+        "Pumas": 2.97,
+        "Draw": 2.26
+      },
+      "Coolbet": {
+        "León": 3.75,
+        "Pumas": 3.4,
+        "Draw": 2.1
+      },
+      "Tipico": {
+        "León": 3.8,
+        "Pumas": 3.0,
+        "Draw": 2.0
+      },
+      "Betfair": {
+        "León": 3.6,
+        "Pumas": 3.3,
+        "Draw": 2.28
+      },
+      "Matchbook": {
+        "León": 3.75,
+        "Pumas": 3.4,
+        "Draw": 2.22
       },
       "Nordic Bet": {
-        "Flamengo-RJ": 2.45,
-        "Independiente del Valle": 3.05,
-        "Draw": 2.85
+        "León": 3.5,
+        "Pumas": 3.15,
+        "Draw": 2.02
       },
       "Betsson": {
-        "Flamengo-RJ": 2.45,
-        "Independiente del Valle": 3.05,
-        "Draw": 2.85
+        "León": 3.5,
+        "Pumas": 3.2,
+        "Draw": 2.02
+      }
+    },
+    "3ce54113a5a6e54cbe802c99c46c06a6:h2h": {
+      "LeoVegas (SE)": {
+        "Kashima Antlers": 2.55,
+        "Vissel Kobe": 2.8,
+        "Draw": 3.0
       },
-      "888sport": {
-        "Flamengo-RJ": 2.4,
-        "Independiente del Valle": 3.0,
-        "Draw": 2.9
+      "Unibet (SE)": {
+        "Kashima Antlers": 2.55,
+        "Vissel Kobe": 2.8,
+        "Draw": 3.0
       },
-      "William Hill": {
-        "Flamengo-RJ": 2.4,
-        "Independiente del Valle": 3.0,
-        "Draw": 2.9
+      "Unibet (NL)": {
+        "Kashima Antlers": 2.55,
+        "Vissel Kobe": 2.8,
+        "Draw": 3.0
       },
-      "GTbets": {
-        "Flamengo-RJ": 2.39,
-        "Independiente del Valle": 3.07,
-        "Draw": 2.93
+      "PMU (FR)": {
+        "Kashima Antlers": 2.5,
+        "Vissel Kobe": 2.75,
+        "Draw": 2.95
       },
       "BetOnline.ag": {
-        "Flamengo-RJ": 2.5,
-        "Independiente del Valle": 3.2,
-        "Draw": 2.97
+        "Kashima Antlers": 2.56,
+        "Vissel Kobe": 2.84,
+        "Draw": 3.3
+      },
+      "Unibet (FR)": {
+        "Kashima Antlers": 2.3,
+        "Vissel Kobe": 2.75,
+        "Draw": 3.15
+      },
+      "Betsson": {
+        "Kashima Antlers": 2.48,
+        "Vissel Kobe": 2.78,
+        "Draw": 3.1
+      },
+      "Betclic (FR)": {
+        "Kashima Antlers": 2.4,
+        "Vissel Kobe": 2.75,
+        "Draw": 3.15
+      },
+      "Nordic Bet": {
+        "Kashima Antlers": 2.45,
+        "Vissel Kobe": 2.75,
+        "Draw": 3.1
+      },
+      "Coolbet": {
+        "Kashima Antlers": 2.5,
+        "Vissel Kobe": 2.8,
+        "Draw": 3.4
+      },
+      "Pinnacle": {
+        "Kashima Antlers": 2.57,
+        "Vissel Kobe": 2.87,
+        "Draw": 3.39
+      },
+      "1xBet": {
+        "Kashima Antlers": 2.55,
+        "Vissel Kobe": 2.86,
+        "Draw": 3.27
+      },
+      "Marathon Bet": {
+        "Kashima Antlers": 2.49,
+        "Vissel Kobe": 2.8,
+        "Draw": 3.2
+      },
+      "Winamax (FR)": {
+        "Kashima Antlers": 2.35,
+        "Vissel Kobe": 2.65,
+        "Draw": 3.15
+      },
+      "Winamax (DE)": {
+        "Kashima Antlers": 2.4,
+        "Vissel Kobe": 2.7,
+        "Draw": 3.2
+      },
+      "888sport": {
+        "Kashima Antlers": 2.45,
+        "Vissel Kobe": 2.75,
+        "Draw": 3.1
+      },
+      "William Hill": {
+        "Kashima Antlers": 2.45,
+        "Vissel Kobe": 2.75,
+        "Draw": 3.1
+      },
+      "Tipico": {
+        "Kashima Antlers": 2.5,
+        "Vissel Kobe": 2.65,
+        "Draw": 3.2
+      },
+      "Betfair": {
+        "Kashima Antlers": 2.64,
+        "Vissel Kobe": 2.98,
+        "Draw": 3.4
+      },
+      "BetAnything": {
+        "Kashima Antlers": 2.56,
+        "Vissel Kobe": 2.84,
+        "Draw": 3.3
+      },
+      "Matchbook": {
+        "Kashima Antlers": 2.64,
+        "Vissel Kobe": 2.98,
+        "Draw": 3.4
+      }
+    },
+    "20e5e342bef4776fd004fc2db67147fd:h2h": {
+      "Unibet (NL)": {
+        "Kashiwa Reysol": 1.82,
+        "Kyoto Purple Sanga": 3.9,
+        "Draw": 3.6
+      },
+      "LeoVegas (SE)": {
+        "Kashiwa Reysol": 1.83,
+        "Kyoto Purple Sanga": 3.95,
+        "Draw": 3.6
+      },
+      "Unibet (SE)": {
+        "Kashiwa Reysol": 1.82,
+        "Kyoto Purple Sanga": 3.9,
+        "Draw": 3.6
+      },
+      "PMU (FR)": {
+        "Kashiwa Reysol": 1.8,
+        "Kyoto Purple Sanga": 3.85,
+        "Draw": 3.55
+      },
+      "Coolbet": {
+        "Kashiwa Reysol": 1.87,
+        "Kyoto Purple Sanga": 3.85,
+        "Draw": 3.85
+      },
+      "Unibet (FR)": {
+        "Kashiwa Reysol": 1.72,
+        "Kyoto Purple Sanga": 4.0,
+        "Draw": 3.6
+      },
+      "Nordic Bet": {
+        "Kashiwa Reysol": 1.8,
+        "Kyoto Purple Sanga": 4.0,
+        "Draw": 3.5
+      },
+      "BetOnline.ag": {
+        "Kashiwa Reysol": 1.86,
+        "Kyoto Purple Sanga": 4.0,
+        "Draw": 3.85
+      },
+      "Betsson": {
+        "Kashiwa Reysol": 1.8,
+        "Kyoto Purple Sanga": 4.05,
+        "Draw": 3.55
+      },
+      "Betclic (FR)": {
+        "Kashiwa Reysol": 1.75,
+        "Kyoto Purple Sanga": 4.0,
+        "Draw": 3.58
+      },
+      "Winamax (DE)": {
+        "Kashiwa Reysol": 1.76,
+        "Kyoto Purple Sanga": 3.85,
+        "Draw": 3.65
+      },
+      "Winamax (FR)": {
+        "Kashiwa Reysol": 1.74,
+        "Kyoto Purple Sanga": 3.75,
+        "Draw": 3.6
+      },
+      "Pinnacle": {
+        "Kashiwa Reysol": 1.84,
+        "Kyoto Purple Sanga": 4.24,
+        "Draw": 3.88
+      },
+      "1xBet": {
+        "Kashiwa Reysol": 1.84,
+        "Kyoto Purple Sanga": 4.09,
+        "Draw": 3.83
+      },
+      "Marathon Bet": {
+        "Kashiwa Reysol": 1.8,
+        "Kyoto Purple Sanga": 4.0,
+        "Draw": 3.74
+      },
+      "Tipico": {
+        "Kashiwa Reysol": 1.75,
+        "Kyoto Purple Sanga": 4.2,
+        "Draw": 3.6
+      },
+      "888sport": {
+        "Kashiwa Reysol": 1.83,
+        "Kyoto Purple Sanga": 3.8,
+        "Draw": 3.5
+      },
+      "William Hill": {
+        "Kashiwa Reysol": 1.83,
+        "Kyoto Purple Sanga": 3.8,
+        "Draw": 3.5
+      },
+      "Betfair": {
+        "Kashiwa Reysol": 1.88,
+        "Kyoto Purple Sanga": 4.3,
+        "Draw": 3.95
+      },
+      "BetAnything": {
+        "Kashiwa Reysol": 1.86,
+        "Kyoto Purple Sanga": 4.0,
+        "Draw": 3.85
+      },
+      "Matchbook": {
+        "Kashiwa Reysol": 1.9,
+        "Kyoto Purple Sanga": 4.3,
+        "Draw": 4.0
+      }
+    },
+    "5a0fe8308ce6e88fe6df1c5bdac4ffef:h2h": {
+      "Pinnacle": {
+        "Kryliya Sovetov": 1.88,
+        "Rodina Moscow": 4.03,
+        "Draw": 3.89
+      },
+      "BetOnline.ag": {
+        "Kryliya Sovetov": 1.91,
+        "Rodina Moscow": 3.7,
+        "Draw": 3.7
+      },
+      "1xBet": {
+        "Kryliya Sovetov": 1.97,
+        "Rodina Moscow": 3.98,
+        "Draw": 3.9
+      },
+      "Marathon Bet": {
+        "Kryliya Sovetov": 1.92,
+        "Rodina Moscow": 3.88,
+        "Draw": 3.8
       }
     }
   },
@@ -6206,29 +6236,77 @@
       "confidence": 75,
       "alert_type": "value",
       "alerted_at": "2026-09-11T00:04:24.324023+00:00"
+    },
+    {
+      "state_key": "68f28a19d5c06190d3ba9b39b13f3e04:h2h",
+      "event_id": "68f28a19d5c06190d3ba9b39b13f3e04",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Pumas",
+      "away_team": "León",
+      "commence_time": "2026-09-11T03:05:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "León",
+      "odds_at_alert": 4.2,
+      "stake_pct": 3.0,
+      "confidence": 11,
+      "alert_type": "value",
+      "alerted_at": "2026-09-11T04:32:08.574481+00:00"
+    },
+    {
+      "state_key": "68f28a19d5c06190d3ba9b39b13f3e04:h2h",
+      "event_id": "68f28a19d5c06190d3ba9b39b13f3e04",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Pumas",
+      "away_team": "León",
+      "commence_time": "2026-09-11T03:05:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "León",
+      "odds_at_alert": 4.2,
+      "stake_pct": 3.0,
+      "confidence": 11,
+      "alert_type": "value",
+      "alerted_at": "2026-09-11T04:32:09.028685+00:00"
+    },
+    {
+      "state_key": "68f28a19d5c06190d3ba9b39b13f3e04:h2h",
+      "event_id": "68f28a19d5c06190d3ba9b39b13f3e04",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Pumas",
+      "away_team": "León",
+      "commence_time": "2026-09-11T03:05:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Pumas",
+      "odds_at_alert": 3.4,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-09-11T04:32:09.475566+00:00"
+    },
+    {
+      "state_key": "68f28a19d5c06190d3ba9b39b13f3e04:h2h",
+      "event_id": "68f28a19d5c06190d3ba9b39b13f3e04",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Pumas",
+      "away_team": "León",
+      "commence_time": "2026-09-11T03:05:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Pumas",
+      "odds_at_alert": 3.4,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-09-11T04:32:09.945111+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "87f45aa58c1df3e698331bc0c5240ae2:h2h|888sport|Draw",
-    "87f45aa58c1df3e698331bc0c5240ae2:h2h|888sport|Goiás",
-    "87f45aa58c1df3e698331bc0c5240ae2:h2h|Betfair|Goiás",
-    "87f45aa58c1df3e698331bc0c5240ae2:h2h|Betfair|Vila Nova",
-    "87f45aa58c1df3e698331bc0c5240ae2:h2h|Coolbet|Draw",
-    "87f45aa58c1df3e698331bc0c5240ae2:h2h|Coolbet|Goiás",
-    "87f45aa58c1df3e698331bc0c5240ae2:h2h|LeoVegas (SE)|Draw",
-    "87f45aa58c1df3e698331bc0c5240ae2:h2h|LeoVegas (SE)|Goiás",
-    "87f45aa58c1df3e698331bc0c5240ae2:h2h|Matchbook|Draw",
-    "87f45aa58c1df3e698331bc0c5240ae2:h2h|Matchbook|Goiás",
-    "87f45aa58c1df3e698331bc0c5240ae2:h2h|Tipico|Draw",
-    "87f45aa58c1df3e698331bc0c5240ae2:h2h|Tipico|Goiás",
-    "87f45aa58c1df3e698331bc0c5240ae2:h2h|Unibet (NL)|Draw",
-    "87f45aa58c1df3e698331bc0c5240ae2:h2h|Unibet (NL)|Goiás",
-    "87f45aa58c1df3e698331bc0c5240ae2:h2h|Unibet (SE)|Goiás",
-    "e26b369d2b4475d6a18ca99f5070b2da:h2h|888sport|São Bernardo",
-    "e26b369d2b4475d6a18ca99f5070b2da:h2h|LeoVegas (SE)|São Bernardo",
-    "e26b369d2b4475d6a18ca99f5070b2da:h2h|Matchbook|São Bernardo",
-    "e26b369d2b4475d6a18ca99f5070b2da:h2h|Unibet (NL)|São Bernardo",
-    "e26b369d2b4475d6a18ca99f5070b2da:h2h|Unibet (SE)|São Bernardo"
+    "68f28a19d5c06190d3ba9b39b13f3e04:h2h|Coolbet|Pumas",
+    "68f28a19d5c06190d3ba9b39b13f3e04:h2h|Matchbook|Pumas",
+    "68f28a19d5c06190d3ba9b39b13f3e04:h2h|Unibet (NL)|León",
+    "68f28a19d5c06190d3ba9b39b13f3e04:h2h|Unibet (SE)|León"
   ]
 }
