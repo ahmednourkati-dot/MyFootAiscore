@@ -1,401 +1,115 @@
 {
   "snapshots": {
-    "476002ee1ebdbce88d6f319cd3f2a7f9:h2h": {
-      "PMU (FR)": {
-        "Bucheon FC 1995": 2.8,
-        "Jeju United FC": 2.12,
-        "Draw": 2.95
-      },
-      "LeoVegas (SE)": {
-        "Bucheon FC 1995": 2.9,
-        "Jeju United FC": 2.2,
-        "Draw": 3.05
-      },
-      "Unibet (SE)": {
-        "Bucheon FC 1995": 2.9,
-        "Jeju United FC": 2.2,
-        "Draw": 3.05
-      },
-      "Unibet (NL)": {
-        "Bucheon FC 1995": 2.9,
-        "Jeju United FC": 2.2,
-        "Draw": 3.05
-      },
-      "Nordic Bet": {
-        "Bucheon FC 1995": 2.65,
-        "Jeju United FC": 2.45,
-        "Draw": 3.05
-      },
-      "Betsson": {
-        "Bucheon FC 1995": 2.65,
-        "Jeju United FC": 2.45,
-        "Draw": 3.05
-      },
-      "Unibet (FR)": {
-        "Bucheon FC 1995": 2.65,
-        "Jeju United FC": 2.3,
-        "Draw": 3.1
-      },
-      "Betclic (FR)": {
-        "Bucheon FC 1995": 2.65,
-        "Jeju United FC": 2.4,
-        "Draw": 3.08
-      },
+    "560d614137590d3f4eaf49df9df7681c:h2h": {
       "Coolbet": {
-        "Bucheon FC 1995": 2.75,
-        "Jeju United FC": 2.55,
-        "Draw": 3.3
-      },
-      "BetOnline.ag": {
-        "Bucheon FC 1995": 2.72,
-        "Jeju United FC": 2.74,
-        "Draw": 3.1
-      },
-      "1xBet": {
-        "Bucheon FC 1995": 2.76,
-        "Jeju United FC": 2.55,
-        "Draw": 3.14
-      },
-      "Winamax (DE)": {
-        "Bucheon FC 1995": 2.65,
-        "Jeju United FC": 2.45,
-        "Draw": 3.2
-      },
-      "Winamax (FR)": {
-        "Bucheon FC 1995": 2.6,
-        "Jeju United FC": 2.4,
-        "Draw": 3.15
-      },
-      "Marathon Bet": {
-        "Bucheon FC 1995": 2.76,
-        "Jeju United FC": 2.55,
-        "Draw": 3.14
-      },
-      "William Hill": {
-        "Bucheon FC 1995": 2.7,
-        "Jeju United FC": 2.5,
-        "Draw": 3.0
-      },
-      "Tipico": {
-        "Bucheon FC 1995": 2.8,
-        "Jeju United FC": 2.45,
-        "Draw": 3.1
+        "FC Machida Zelvia": 30.0,
+        "Yokohama F Marinos": 25.0,
+        "Draw": 1.0
       },
       "Pinnacle": {
-        "Bucheon FC 1995": 2.85,
-        "Jeju United FC": 2.7,
-        "Draw": 3.21
-      },
-      "Betfair": {
-        "Bucheon FC 1995": 2.92,
-        "Jeju United FC": 2.76,
-        "Draw": 3.25
-      },
-      "Matchbook": {
-        "Bucheon FC 1995": 2.92,
-        "Jeju United FC": 2.78,
-        "Draw": 3.25
-      }
-    },
-    "10713b0fc90a4db43c4b9fea7a809f40:h2h": {
-      "LeoVegas (SE)": {
-        "FC Seoul": 2.2,
-        "Jeonbuk Hyundai Motors": 2.8,
-        "Draw": 3.15
-      },
-      "Unibet (SE)": {
-        "FC Seoul": 2.2,
-        "Jeonbuk Hyundai Motors": 2.85,
-        "Draw": 3.15
-      },
-      "PMU (FR)": {
-        "FC Seoul": 2.12,
-        "Jeonbuk Hyundai Motors": 2.7,
-        "Draw": 3.05
-      },
-      "Unibet (NL)": {
-        "FC Seoul": 2.2,
-        "Jeonbuk Hyundai Motors": 2.85,
-        "Draw": 3.15
-      },
-      "Nordic Bet": {
-        "FC Seoul": 2.15,
-        "Jeonbuk Hyundai Motors": 3.1,
-        "Draw": 3.2
-      },
-      "Betsson": {
-        "FC Seoul": 2.15,
-        "Jeonbuk Hyundai Motors": 3.1,
-        "Draw": 3.2
-      },
-      "Unibet (FR)": {
-        "FC Seoul": 2.0,
-        "Jeonbuk Hyundai Motors": 3.1,
-        "Draw": 3.2
-      },
-      "Coolbet": {
-        "FC Seoul": 2.2,
-        "Jeonbuk Hyundai Motors": 3.2,
-        "Draw": 3.4
+        "FC Machida Zelvia": 10.06,
+        "Yokohama F Marinos": 6.46,
+        "Draw": 1.21
       },
       "Betclic (FR)": {
-        "FC Seoul": 2.08,
-        "Jeonbuk Hyundai Motors": 3.07,
-        "Draw": 3.18
-      },
-      "BetOnline.ag": {
-        "FC Seoul": 2.2,
-        "Jeonbuk Hyundai Motors": 3.35,
-        "Draw": 3.3
-      },
-      "1xBet": {
-        "FC Seoul": 2.21,
-        "Jeonbuk Hyundai Motors": 3.25,
-        "Draw": 3.3
+        "FC Machida Zelvia": 35.0,
+        "Yokohama F Marinos": 29.0,
+        "Draw": 1.0
       },
       "Winamax (DE)": {
-        "FC Seoul": 2.1,
-        "Jeonbuk Hyundai Motors": 3.05,
-        "Draw": 3.35
+        "FC Machida Zelvia": 65.0,
+        "Yokohama F Marinos": 42.0,
+        "Draw": 1.01
       },
       "Winamax (FR)": {
-        "FC Seoul": 2.1,
-        "Jeonbuk Hyundai Motors": 3.0,
-        "Draw": 3.25
-      },
-      "Marathon Bet": {
-        "FC Seoul": 2.19,
-        "Jeonbuk Hyundai Motors": 3.25,
-        "Draw": 3.3
-      },
-      "William Hill": {
-        "FC Seoul": 2.2,
-        "Jeonbuk Hyundai Motors": 3.1,
-        "Draw": 3.2
+        "FC Machida Zelvia": 65.0,
+        "Yokohama F Marinos": 42.0,
+        "Draw": 1.01
       },
       "Tipico": {
-        "FC Seoul": 2.05,
-        "Jeonbuk Hyundai Motors": 3.3,
-        "Draw": 3.4
-      },
-      "Pinnacle": {
-        "FC Seoul": 2.22,
-        "Jeonbuk Hyundai Motors": 3.44,
-        "Draw": 3.42
-      },
-      "Betfair": {
-        "FC Seoul": 2.28,
-        "Jeonbuk Hyundai Motors": 3.4,
-        "Draw": 3.55
-      },
-      "Matchbook": {
-        "FC Seoul": 2.28,
-        "Jeonbuk Hyundai Motors": 3.45,
-        "Draw": 3.55
-      }
-    },
-    "d3de564fb597a9978f9d289e48a2fc77:h2h": {
-      "PMU (FR)": {
-        "Incheon United": 2.8,
-        "Ulsan Hyundai FC": 2.1,
-        "Draw": 3.05
-      },
-      "Unibet (NL)": {
-        "Incheon United": 2.9,
-        "Ulsan Hyundai FC": 2.18,
-        "Draw": 3.15
-      },
-      "LeoVegas (SE)": {
-        "Incheon United": 2.88,
-        "Ulsan Hyundai FC": 2.16,
-        "Draw": 3.15
+        "FC Machida Zelvia": 25.0,
+        "Yokohama F Marinos": 7.5,
+        "Draw": 1.08
       },
       "Unibet (SE)": {
-        "Incheon United": 2.9,
-        "Ulsan Hyundai FC": 2.18,
-        "Draw": 3.15
-      },
-      "Coolbet": {
-        "Incheon United": 3.15,
-        "Ulsan Hyundai FC": 2.2,
-        "Draw": 3.5
-      },
-      "Nordic Bet": {
-        "Incheon United": 3.15,
-        "Ulsan Hyundai FC": 2.12,
-        "Draw": 3.15
-      },
-      "Unibet (FR)": {
-        "Incheon United": 3.1,
-        "Ulsan Hyundai FC": 2.0,
-        "Draw": 3.2
-      },
-      "Betsson": {
-        "Incheon United": 3.15,
-        "Ulsan Hyundai FC": 2.12,
-        "Draw": 3.15
-      },
-      "BetOnline.ag": {
-        "Incheon United": 3.4,
-        "Ulsan Hyundai FC": 2.18,
-        "Draw": 3.3
-      },
-      "Betclic (FR)": {
-        "Incheon United": 3.05,
-        "Ulsan Hyundai FC": 2.05,
-        "Draw": 3.12
-      },
-      "Pinnacle": {
-        "Incheon United": 3.42,
-        "Ulsan Hyundai FC": 2.22,
-        "Draw": 3.44
-      },
-      "Winamax (FR)": {
-        "Incheon United": 3.0,
-        "Ulsan Hyundai FC": 2.1,
-        "Draw": 3.25
-      },
-      "Winamax (DE)": {
-        "Incheon United": 3.1,
-        "Ulsan Hyundai FC": 2.1,
-        "Draw": 3.3
-      },
-      "1xBet": {
-        "Incheon United": 3.29,
-        "Ulsan Hyundai FC": 2.18,
-        "Draw": 3.28
-      },
-      "Marathon Bet": {
-        "Incheon United": 3.28,
-        "Ulsan Hyundai FC": 2.16,
-        "Draw": 3.28
-      },
-      "Betfair": {
-        "Incheon United": 3.6,
-        "Ulsan Hyundai FC": 2.28,
-        "Draw": 3.4
-      },
-      "Tipico": {
-        "Incheon United": 3.4,
-        "Ulsan Hyundai FC": 2.05,
-        "Draw": 3.3
-      },
-      "William Hill": {
-        "Incheon United": 3.2,
-        "Ulsan Hyundai FC": 2.2,
-        "Draw": 3.1
-      },
-      "Matchbook": {
-        "Incheon United": 3.6,
-        "Ulsan Hyundai FC": 2.28,
-        "Draw": 3.45
-      }
-    },
-    "614dde3eacd620b53feede86bdcb7e6b:h2h": {
-      "BetOnline.ag": {
-        "Kawasaki Frontale": 2.22,
-        "Mito HollyHock": 3.15,
-        "Draw": 3.55
-      },
-      "Coolbet": {
-        "Kawasaki Frontale": 2.1,
-        "Mito HollyHock": 3.25,
-        "Draw": 3.75
-      },
-      "Unibet (FR)": {
-        "Kawasaki Frontale": 2.0,
-        "Mito HollyHock": 3.1,
-        "Draw": 3.45
-      },
-      "Pinnacle": {
-        "Kawasaki Frontale": 2.23,
-        "Mito HollyHock": 3.22,
-        "Draw": 3.65
-      },
-      "Nordic Bet": {
-        "Kawasaki Frontale": 2.1,
-        "Mito HollyHock": 3.1,
-        "Draw": 3.4
-      },
-      "Betsson": {
-        "Kawasaki Frontale": 2.1,
-        "Mito HollyHock": 3.1,
-        "Draw": 3.4
-      },
-      "Betclic (FR)": {
-        "Kawasaki Frontale": 2.05,
-        "Mito HollyHock": 3.1,
-        "Draw": 3.45
-      },
-      "1xBet": {
-        "Kawasaki Frontale": 2.19,
-        "Mito HollyHock": 3.21,
-        "Draw": 3.58
-      },
-      "Marathon Bet": {
-        "Kawasaki Frontale": 2.14,
-        "Mito HollyHock": 3.14,
-        "Draw": 3.5
-      },
-      "Winamax (FR)": {
-        "Kawasaki Frontale": 2.0,
-        "Mito HollyHock": 2.95,
-        "Draw": 3.45
-      },
-      "Winamax (DE)": {
-        "Kawasaki Frontale": 2.05,
-        "Mito HollyHock": 3.0,
-        "Draw": 3.55
-      },
-      "Tipico": {
-        "Kawasaki Frontale": 2.05,
-        "Mito HollyHock": 3.2,
-        "Draw": 3.5
-      },
-      "Unibet (SE)": {
-        "Kawasaki Frontale": 2.02,
-        "Mito HollyHock": 3.3,
-        "Draw": 3.45
+        "FC Machida Zelvia": 18.0,
+        "Yokohama F Marinos": 14.0,
+        "Draw": 1.04
       },
       "LeoVegas (SE)": {
-        "Kawasaki Frontale": 2.02,
-        "Mito HollyHock": 3.3,
-        "Draw": 3.5
+        "FC Machida Zelvia": 16.0,
+        "Yokohama F Marinos": 12.0,
+        "Draw": 1.02
       },
       "PMU (FR)": {
-        "Kawasaki Frontale": 2.0,
-        "Mito HollyHock": 3.25,
-        "Draw": 3.45
+        "FC Machida Zelvia": 12.0,
+        "Yokohama F Marinos": 7.0,
+        "Draw": 1.05
       },
       "Unibet (NL)": {
-        "Kawasaki Frontale": 2.02,
-        "Mito HollyHock": 3.3,
-        "Draw": 3.45
+        "FC Machida Zelvia": 18.0,
+        "Yokohama F Marinos": 14.0,
+        "Draw": 1.01
       },
       "888sport": {
-        "Kawasaki Frontale": 2.1,
-        "Mito HollyHock": 3.1,
-        "Draw": 3.4
-      },
-      "William Hill": {
-        "Kawasaki Frontale": 2.1,
-        "Mito HollyHock": 3.1,
-        "Draw": 3.4
+        "FC Machida Zelvia": 13.0,
+        "Yokohama F Marinos": 7.5,
+        "Draw": 1.15
       },
       "Betfair": {
-        "Kawasaki Frontale": 2.26,
-        "Mito HollyHock": 3.25,
-        "Draw": 3.8
+        "FC Machida Zelvia": 1.01,
+        "Yokohama F Marinos": 1.01
+      }
+    },
+    "2e6a8e47c85704c8fb3f344fbb1af9d6:h2h": {
+      "Betclic (FR)": {
+        "FC Tokyo": 1.0,
+        "Gamba Osaka": 100.0,
+        "Draw": 75.0
       },
-      "BetAnything": {
-        "Kawasaki Frontale": 2.22,
-        "Mito HollyHock": 3.15,
-        "Draw": 3.55
+      "Nordic Bet": {
+        "FC Tokyo": 1.0,
+        "Gamba Osaka": 1.0,
+        "Draw": 1.0
       },
-      "Matchbook": {
-        "Kawasaki Frontale": 2.26,
-        "Mito HollyHock": 3.25,
-        "Draw": 3.8
+      "Betsson": {
+        "FC Tokyo": 1.0,
+        "Gamba Osaka": 81.0,
+        "Draw": 81.0
+      }
+    },
+    "8f51db48041320bed2c6e0efdc0a8f91:h2h": {
+      "Betsson": {
+        "Nagoya Grampus": 81.0,
+        "V-Varen Nagasaki": 1.0,
+        "Draw": 81.0
+      },
+      "Betclic (FR)": {
+        "Nagoya Grampus": 100.0,
+        "V-Varen Nagasaki": 1.02,
+        "Draw": 75.0
+      },
+      "Nordic Bet": {
+        "Nagoya Grampus": 1.0,
+        "V-Varen Nagasaki": 1.0,
+        "Draw": 81.0
+      },
+      "888sport": {
+        "Nagoya Grampus": 151.0,
+        "V-Varen Nagasaki": 1.0,
+        "Draw": 61.0
+      },
+      "Betfair": {
+        "Nagoya Grampus": 1000.0,
+        "V-Varen Nagasaki": 1.01,
+        "Draw": 50.0
+      }
+    },
+    "c46509a3f41e45090d5ae974a20d7328:h2h": {
+      "Tipico": {
+        "1. FC Nürnberg": 400.0,
+        "RB Leipzig": 1.01,
+        "Draw": 20.0
       }
     }
   },
@@ -5168,8 +4882,332 @@
       "confidence": 13,
       "alert_type": "value",
       "alerted_at": "2026-09-11T16:23:55.856404+00:00"
+    },
+    {
+      "state_key": "560d614137590d3f4eaf49df9df7681c:h2h",
+      "event_id": "560d614137590d3f4eaf49df9df7681c",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "FC Machida Zelvia",
+      "away_team": "Yokohama F Marinos",
+      "commence_time": "2026-09-12T10:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Machida Zelvia",
+      "odds_at_alert": 30.0,
+      "stake_pct": 5.0,
+      "confidence": 176,
+      "alert_type": "value",
+      "alerted_at": "2026-09-12T12:08:00.435985+00:00"
+    },
+    {
+      "state_key": "560d614137590d3f4eaf49df9df7681c:h2h",
+      "event_id": "560d614137590d3f4eaf49df9df7681c",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "FC Machida Zelvia",
+      "away_team": "Yokohama F Marinos",
+      "commence_time": "2026-09-12T10:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Yokohama F Marinos",
+      "odds_at_alert": 25.0,
+      "stake_pct": 5.0,
+      "confidence": 258,
+      "alert_type": "value",
+      "alerted_at": "2026-09-12T12:08:00.756731+00:00"
+    },
+    {
+      "state_key": "560d614137590d3f4eaf49df9df7681c:h2h",
+      "event_id": "560d614137590d3f4eaf49df9df7681c",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "FC Machida Zelvia",
+      "away_team": "Yokohama F Marinos",
+      "commence_time": "2026-09-12T10:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Machida Zelvia",
+      "odds_at_alert": 35.0,
+      "stake_pct": 5.0,
+      "confidence": 222,
+      "alert_type": "value",
+      "alerted_at": "2026-09-12T12:08:01.096268+00:00"
+    },
+    {
+      "state_key": "560d614137590d3f4eaf49df9df7681c:h2h",
+      "event_id": "560d614137590d3f4eaf49df9df7681c",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "FC Machida Zelvia",
+      "away_team": "Yokohama F Marinos",
+      "commence_time": "2026-09-12T10:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Yokohama F Marinos",
+      "odds_at_alert": 29.0,
+      "stake_pct": 5.0,
+      "confidence": 315,
+      "alert_type": "value",
+      "alerted_at": "2026-09-12T12:08:01.436868+00:00"
+    },
+    {
+      "state_key": "560d614137590d3f4eaf49df9df7681c:h2h",
+      "event_id": "560d614137590d3f4eaf49df9df7681c",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "FC Machida Zelvia",
+      "away_team": "Yokohama F Marinos",
+      "commence_time": "2026-09-12T10:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Machida Zelvia",
+      "odds_at_alert": 65.0,
+      "stake_pct": 5.0,
+      "confidence": 498,
+      "alert_type": "value",
+      "alerted_at": "2026-09-12T12:08:01.821282+00:00"
+    },
+    {
+      "state_key": "560d614137590d3f4eaf49df9df7681c:h2h",
+      "event_id": "560d614137590d3f4eaf49df9df7681c",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "FC Machida Zelvia",
+      "away_team": "Yokohama F Marinos",
+      "commence_time": "2026-09-12T10:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Yokohama F Marinos",
+      "odds_at_alert": 42.0,
+      "stake_pct": 5.0,
+      "confidence": 502,
+      "alert_type": "value",
+      "alerted_at": "2026-09-12T12:08:02.183128+00:00"
+    },
+    {
+      "state_key": "560d614137590d3f4eaf49df9df7681c:h2h",
+      "event_id": "560d614137590d3f4eaf49df9df7681c",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "FC Machida Zelvia",
+      "away_team": "Yokohama F Marinos",
+      "commence_time": "2026-09-12T10:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Machida Zelvia",
+      "odds_at_alert": 65.0,
+      "stake_pct": 5.0,
+      "confidence": 498,
+      "alert_type": "value",
+      "alerted_at": "2026-09-12T12:08:02.512917+00:00"
+    },
+    {
+      "state_key": "560d614137590d3f4eaf49df9df7681c:h2h",
+      "event_id": "560d614137590d3f4eaf49df9df7681c",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "FC Machida Zelvia",
+      "away_team": "Yokohama F Marinos",
+      "commence_time": "2026-09-12T10:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Yokohama F Marinos",
+      "odds_at_alert": 42.0,
+      "stake_pct": 5.0,
+      "confidence": 502,
+      "alert_type": "value",
+      "alerted_at": "2026-09-12T12:08:02.859897+00:00"
+    },
+    {
+      "state_key": "560d614137590d3f4eaf49df9df7681c:h2h",
+      "event_id": "560d614137590d3f4eaf49df9df7681c",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "FC Machida Zelvia",
+      "away_team": "Yokohama F Marinos",
+      "commence_time": "2026-09-12T10:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Machida Zelvia",
+      "odds_at_alert": 25.0,
+      "stake_pct": 5.0,
+      "confidence": 130,
+      "alert_type": "value",
+      "alerted_at": "2026-09-12T12:08:03.199743+00:00"
+    },
+    {
+      "state_key": "560d614137590d3f4eaf49df9df7681c:h2h",
+      "event_id": "560d614137590d3f4eaf49df9df7681c",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "FC Machida Zelvia",
+      "away_team": "Yokohama F Marinos",
+      "commence_time": "2026-09-12T10:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Yokohama F Marinos",
+      "odds_at_alert": 7.5,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-09-12T12:08:03.528393+00:00"
+    },
+    {
+      "state_key": "560d614137590d3f4eaf49df9df7681c:h2h",
+      "event_id": "560d614137590d3f4eaf49df9df7681c",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "FC Machida Zelvia",
+      "away_team": "Yokohama F Marinos",
+      "commence_time": "2026-09-12T10:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Machida Zelvia",
+      "odds_at_alert": 18.0,
+      "stake_pct": 5.0,
+      "confidence": 66,
+      "alert_type": "value",
+      "alerted_at": "2026-09-12T12:08:03.873764+00:00"
+    },
+    {
+      "state_key": "560d614137590d3f4eaf49df9df7681c:h2h",
+      "event_id": "560d614137590d3f4eaf49df9df7681c",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "FC Machida Zelvia",
+      "away_team": "Yokohama F Marinos",
+      "commence_time": "2026-09-12T10:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Yokohama F Marinos",
+      "odds_at_alert": 14.0,
+      "stake_pct": 5.0,
+      "confidence": 101,
+      "alert_type": "value",
+      "alerted_at": "2026-09-12T12:08:04.189222+00:00"
+    },
+    {
+      "state_key": "560d614137590d3f4eaf49df9df7681c:h2h",
+      "event_id": "560d614137590d3f4eaf49df9df7681c",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "FC Machida Zelvia",
+      "away_team": "Yokohama F Marinos",
+      "commence_time": "2026-09-12T10:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Machida Zelvia",
+      "odds_at_alert": 16.0,
+      "stake_pct": 5.0,
+      "confidence": 47,
+      "alert_type": "value",
+      "alerted_at": "2026-09-12T12:08:04.565786+00:00"
+    },
+    {
+      "state_key": "560d614137590d3f4eaf49df9df7681c:h2h",
+      "event_id": "560d614137590d3f4eaf49df9df7681c",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "FC Machida Zelvia",
+      "away_team": "Yokohama F Marinos",
+      "commence_time": "2026-09-12T10:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Yokohama F Marinos",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 72,
+      "alert_type": "value",
+      "alerted_at": "2026-09-12T12:08:04.922086+00:00"
+    },
+    {
+      "state_key": "560d614137590d3f4eaf49df9df7681c:h2h",
+      "event_id": "560d614137590d3f4eaf49df9df7681c",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "FC Machida Zelvia",
+      "away_team": "Yokohama F Marinos",
+      "commence_time": "2026-09-12T10:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Machida Zelvia",
+      "odds_at_alert": 12.0,
+      "stake_pct": 3.0,
+      "confidence": 10,
+      "alert_type": "value",
+      "alerted_at": "2026-09-12T12:08:05.304216+00:00"
+    },
+    {
+      "state_key": "560d614137590d3f4eaf49df9df7681c:h2h",
+      "event_id": "560d614137590d3f4eaf49df9df7681c",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "FC Machida Zelvia",
+      "away_team": "Yokohama F Marinos",
+      "commence_time": "2026-09-12T10:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Machida Zelvia",
+      "odds_at_alert": 18.0,
+      "stake_pct": 5.0,
+      "confidence": 66,
+      "alert_type": "value",
+      "alerted_at": "2026-09-12T12:08:05.689417+00:00"
+    },
+    {
+      "state_key": "560d614137590d3f4eaf49df9df7681c:h2h",
+      "event_id": "560d614137590d3f4eaf49df9df7681c",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "FC Machida Zelvia",
+      "away_team": "Yokohama F Marinos",
+      "commence_time": "2026-09-12T10:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Yokohama F Marinos",
+      "odds_at_alert": 14.0,
+      "stake_pct": 5.0,
+      "confidence": 101,
+      "alert_type": "value",
+      "alerted_at": "2026-09-12T12:08:06.101703+00:00"
+    },
+    {
+      "state_key": "560d614137590d3f4eaf49df9df7681c:h2h",
+      "event_id": "560d614137590d3f4eaf49df9df7681c",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "FC Machida Zelvia",
+      "away_team": "Yokohama F Marinos",
+      "commence_time": "2026-09-12T10:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Machida Zelvia",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 20,
+      "alert_type": "value",
+      "alerted_at": "2026-09-12T12:08:06.445645+00:00"
+    },
+    {
+      "state_key": "560d614137590d3f4eaf49df9df7681c:h2h",
+      "event_id": "560d614137590d3f4eaf49df9df7681c",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "FC Machida Zelvia",
+      "away_team": "Yokohama F Marinos",
+      "commence_time": "2026-09-12T10:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Yokohama F Marinos",
+      "odds_at_alert": 7.5,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-09-12T12:08:06.763583+00:00"
     }
   ],
   "results_history": [],
-  "value_alerted": []
+  "value_alerted": [
+    "560d614137590d3f4eaf49df9df7681c:h2h|888sport|FC Machida Zelvia",
+    "560d614137590d3f4eaf49df9df7681c:h2h|888sport|Yokohama F Marinos",
+    "560d614137590d3f4eaf49df9df7681c:h2h|Betclic (FR)|FC Machida Zelvia",
+    "560d614137590d3f4eaf49df9df7681c:h2h|Betclic (FR)|Yokohama F Marinos",
+    "560d614137590d3f4eaf49df9df7681c:h2h|Coolbet|FC Machida Zelvia",
+    "560d614137590d3f4eaf49df9df7681c:h2h|Coolbet|Yokohama F Marinos",
+    "560d614137590d3f4eaf49df9df7681c:h2h|LeoVegas (SE)|FC Machida Zelvia",
+    "560d614137590d3f4eaf49df9df7681c:h2h|LeoVegas (SE)|Yokohama F Marinos",
+    "560d614137590d3f4eaf49df9df7681c:h2h|PMU (FR)|FC Machida Zelvia",
+    "560d614137590d3f4eaf49df9df7681c:h2h|Tipico|FC Machida Zelvia",
+    "560d614137590d3f4eaf49df9df7681c:h2h|Tipico|Yokohama F Marinos",
+    "560d614137590d3f4eaf49df9df7681c:h2h|Unibet (NL)|FC Machida Zelvia",
+    "560d614137590d3f4eaf49df9df7681c:h2h|Unibet (NL)|Yokohama F Marinos",
+    "560d614137590d3f4eaf49df9df7681c:h2h|Unibet (SE)|FC Machida Zelvia",
+    "560d614137590d3f4eaf49df9df7681c:h2h|Unibet (SE)|Yokohama F Marinos",
+    "560d614137590d3f4eaf49df9df7681c:h2h|Winamax (DE)|FC Machida Zelvia",
+    "560d614137590d3f4eaf49df9df7681c:h2h|Winamax (DE)|Yokohama F Marinos",
+    "560d614137590d3f4eaf49df9df7681c:h2h|Winamax (FR)|FC Machida Zelvia",
+    "560d614137590d3f4eaf49df9df7681c:h2h|Winamax (FR)|Yokohama F Marinos"
+  ]
 }
