@@ -1,96 +1,311 @@
 {
   "snapshots": {
-    "34f8f53d8423fd55dc1edd67ee11d04b:h2h": {
+    "a86aea6784f046a762e94811a0300a1e:h2h": {
+      "Betfair": {
+        "Defensa y Justicia": 1.01,
+        "Gimnasia Mendoza": 600.0,
+        "Draw": 50.0
+      },
+      "Betsson": {
+        "Defensa y Justicia": 1.0,
+        "Gimnasia Mendoza": 26.0,
+        "Draw": 26.0
+      },
+      "Nordic Bet": {
+        "Defensa y Justicia": 1.0,
+        "Gimnasia Mendoza": 26.0,
+        "Draw": 26.0
+      },
+      "Betclic (FR)": {
+        "Defensa y Justicia": 1.0,
+        "Gimnasia Mendoza": 100.0,
+        "Draw": 40.0
+      }
+    },
+    "2c2c5a0b8591224adb0740c20d818fce:h2h": {
       "888sport": {
-        "Benevento": 1.0,
-        "Hellas Verona": 151.0,
-        "Draw": 56.0
+        "Atletico Paranaense": 2.4,
+        "Coritiba": 2.9,
+        "Draw": 2.9
+      },
+      "William Hill": {
+        "Atletico Paranaense": 2.4,
+        "Coritiba": 2.9,
+        "Draw": 2.9
+      },
+      "Coolbet": {
+        "Atletico Paranaense": 2.4,
+        "Coritiba": 3.0,
+        "Draw": 3.14
       },
       "Winamax (FR)": {
-        "Benevento": 1.01,
-        "Hellas Verona": 400.0,
-        "Draw": 32.0
-      },
-      "Betclic (FR)": {
-        "Benevento": 1.04,
-        "Hellas Verona": 95.0,
-        "Draw": 40.0
+        "Atletico Paranaense": 2.25,
+        "Coritiba": 2.8,
+        "Draw": 2.85
       },
       "Winamax (DE)": {
-        "Benevento": 1.01,
-        "Hellas Verona": 400.0,
-        "Draw": 30.0
-      },
-      "Nordic Bet": {
-        "Benevento": 1.0,
-        "Hellas Verona": 81.0,
-        "Draw": 81.0
-      },
-      "Betsson": {
-        "Benevento": 1.0,
-        "Hellas Verona": 81.0,
-        "Draw": 81.0
-      },
-      "Betfair": {
-        "Benevento": 1.01,
-        "Hellas Verona": 95.0,
-        "Draw": 60.0
-      }
-    },
-    "5094d9773f1abc8227b8543a9859af13:h2h": {
-      "Betclic (FR)": {
-        "Pisa": 95.0,
-        "Virtus Entella": 1.02,
-        "Draw": 40.0
-      },
-      "Betsson": {
-        "Pisa": 81.0,
-        "Virtus Entella": 1.0,
-        "Draw": 81.0
-      },
-      "Nordic Bet": {
-        "Pisa": 81.0,
-        "Virtus Entella": 1.0,
-        "Draw": 81.0
-      },
-      "Betfair": {
-        "Pisa": 110.0,
-        "Virtus Entella": 1.01,
-        "Draw": 65.0
-      }
-    },
-    "8d71274cdf78126babd5f719097e71cb:h2h": {
-      "Betsson": {
-        "Shamrock Rovers": 81.0,
-        "St Patricks Athletic": 1.0,
-        "Draw": 81.0
-      },
-      "Nordic Bet": {
-        "Shamrock Rovers": 81.0,
-        "St Patricks Athletic": 1.0,
-        "Draw": 81.0
-      },
-      "Betfair": {
-        "Shamrock Rovers": 70.0,
-        "St Patricks Athletic": 1.01,
-        "Draw": 42.0
-      }
-    },
-    "4d6a4a477e15b56242dd5dc7537cb649:h2h": {
-      "Betsson": {
-        "West Ham United": 1.0,
-        "Wrexham AFC": 26.0,
-        "Draw": 26.0
+        "Atletico Paranaense": 2.35,
+        "Coritiba": 2.9,
+        "Draw": 2.95
       },
       "Betclic (FR)": {
-        "West Ham United": 1.0,
-        "Wrexham AFC": 100.0,
-        "Draw": 40.0
+        "Atletico Paranaense": 2.25,
+        "Coritiba": 2.85,
+        "Draw": 2.95
+      },
+      "Unibet (FR)": {
+        "Atletico Paranaense": 2.25,
+        "Coritiba": 2.9,
+        "Draw": 2.95
+      },
+      "Unibet (NL)": {
+        "Atletico Paranaense": 2.38,
+        "Coritiba": 2.75,
+        "Draw": 2.9
+      },
+      "PMU (FR)": {
+        "Atletico Paranaense": 2.32,
+        "Coritiba": 2.63,
+        "Draw": 2.8
+      },
+      "Unibet (SE)": {
+        "Atletico Paranaense": 2.5,
+        "Coritiba": 2.85,
+        "Draw": 3.05
+      },
+      "LeoVegas (SE)": {
+        "Atletico Paranaense": 2.3,
+        "Coritiba": 2.8,
+        "Draw": 2.85
       },
       "Nordic Bet": {
-        "West Ham United": 1.0,
-        "Wrexham AFC": 26.0,
-        "Draw": 26.0
+        "Atletico Paranaense": 2.35,
+        "Coritiba": 2.92,
+        "Draw": 3.05
+      },
+      "Betsson": {
+        "Atletico Paranaense": 2.35,
+        "Coritiba": 2.92,
+        "Draw": 3.05
+      },
+      "1xBet": {
+        "Atletico Paranaense": 2.46,
+        "Coritiba": 3.25,
+        "Draw": 3.05
+      },
+      "Marathon Bet": {
+        "Atletico Paranaense": 2.44,
+        "Coritiba": 3.05,
+        "Draw": 2.99
+      },
+      "GTbets": {
+        "Atletico Paranaense": 2.34,
+        "Coritiba": 3.18,
+        "Draw": 3.05
+      },
+      "Pinnacle": {
+        "Atletico Paranaense": 2.53,
+        "Coritiba": 3.19,
+        "Draw": 3.09
+      },
+      "Matchbook": {
+        "Atletico Paranaense": 2.74,
+        "Coritiba": 3.4,
+        "Draw": 2.94
+      },
+      "Tipico": {
+        "Atletico Paranaense": 2.4,
+        "Coritiba": 2.9,
+        "Draw": 3.0
+      },
+      "BetOnline.ag": {
+        "Atletico Paranaense": 2.52,
+        "Coritiba": 3.25,
+        "Draw": 3.03
+      },
+      "Codere (IT)": {
+        "Atletico Paranaense": 2.48,
+        "Coritiba": 3.05,
+        "Draw": 3.05
+      },
+      "BetAnything": {
+        "Atletico Paranaense": 2.52,
+        "Coritiba": 3.25,
+        "Draw": 3.03
+      },
+      "Betfair": {
+        "Atletico Paranaense": 2.66,
+        "Coritiba": 3.35,
+        "Draw": 3.0
+      }
+    },
+    "3da5f2e75c4e456a7548e11dc5a3745e:h2h": {
+      "Betfair": {
+        "Boca Juniors": 1.61,
+        "Central Córdoba": 7.2,
+        "Draw": 4.0
+      },
+      "1xBet": {
+        "Boca Juniors": 1.59,
+        "Central Córdoba": 6.16,
+        "Draw": 3.83
+      },
+      "Unibet (SE)": {
+        "Boca Juniors": 1.5,
+        "Central Córdoba": 7.5,
+        "Draw": 4.1
+      },
+      "LeoVegas (SE)": {
+        "Boca Juniors": 1.4,
+        "Central Córdoba": 6.5,
+        "Draw": 3.65
+      },
+      "Betsson": {
+        "Boca Juniors": 1.6,
+        "Central Córdoba": 6.3,
+        "Draw": 3.6
+      },
+      "Nordic Bet": {
+        "Boca Juniors": 1.6,
+        "Central Córdoba": 6.3,
+        "Draw": 3.6
+      },
+      "Winamax (DE)": {
+        "Boca Juniors": 1.52,
+        "Central Córdoba": 5.5,
+        "Draw": 3.8
+      },
+      "Winamax (FR)": {
+        "Boca Juniors": 1.5,
+        "Central Córdoba": 5.4,
+        "Draw": 3.7
+      },
+      "Unibet (FR)": {
+        "Boca Juniors": 1.47,
+        "Central Córdoba": 5.6,
+        "Draw": 3.6
+      },
+      "Betclic (FR)": {
+        "Boca Juniors": 1.48,
+        "Central Córdoba": 5.5,
+        "Draw": 3.53
+      },
+      "Codere (IT)": {
+        "Boca Juniors": 1.57,
+        "Central Córdoba": 6.0,
+        "Draw": 3.85
+      },
+      "Pinnacle": {
+        "Boca Juniors": 1.53,
+        "Central Córdoba": 7.18,
+        "Draw": 4.05
+      },
+      "BetOnline.ag": {
+        "Boca Juniors": 1.59,
+        "Central Córdoba": 6.5,
+        "Draw": 3.98
+      },
+      "Marathon Bet": {
+        "Boca Juniors": 1.55,
+        "Central Córdoba": 6.15,
+        "Draw": 3.78
+      },
+      "BetAnything": {
+        "Boca Juniors": 1.59,
+        "Central Córdoba": 6.5,
+        "Draw": 3.98
+      }
+    },
+    "20e70ec9a32d430ca7a9a8f73e51a677:h2h": {
+      "LeoVegas (SE)": {
+        "Necaxa": 1.89,
+        "Puebla": 3.3,
+        "Draw": 3.35
+      },
+      "Unibet (SE)": {
+        "Necaxa": 1.95,
+        "Puebla": 3.45,
+        "Draw": 3.5
+      },
+      "Unibet (NL)": {
+        "Necaxa": 1.95,
+        "Puebla": 3.45,
+        "Draw": 3.5
+      },
+      "PMU (FR)": {
+        "Necaxa": 1.83,
+        "Puebla": 3.2,
+        "Draw": 3.25
+      },
+      "Coolbet": {
+        "Necaxa": 2.02,
+        "Puebla": 3.55,
+        "Draw": 3.6
+      },
+      "Betfair": {
+        "Necaxa": 2.08,
+        "Puebla": 3.6,
+        "Draw": 3.8
+      },
+      "Betclic (FR)": {
+        "Necaxa": 1.91,
+        "Puebla": 3.28,
+        "Draw": 3.43
+      },
+      "Pinnacle": {
+        "Necaxa": 2.06,
+        "Puebla": 3.57,
+        "Draw": 3.73
+      },
+      "1xBet": {
+        "Necaxa": 2.01,
+        "Puebla": 3.42,
+        "Draw": 3.52
+      },
+      "GTbets": {
+        "Necaxa": 1.97,
+        "Puebla": 3.39,
+        "Draw": 3.6
+      },
+      "Betsson": {
+        "Necaxa": 2.02,
+        "Puebla": 3.45,
+        "Draw": 3.4
+      },
+      "Nordic Bet": {
+        "Necaxa": 2.02,
+        "Puebla": 3.45,
+        "Draw": 3.4
+      },
+      "Marathon Bet": {
+        "Necaxa": 1.99,
+        "Puebla": 3.4,
+        "Draw": 3.54
+      },
+      "888sport": {
+        "Necaxa": 1.95,
+        "Puebla": 3.2,
+        "Draw": 3.25
+      },
+      "William Hill": {
+        "Necaxa": 1.95,
+        "Puebla": 3.2,
+        "Draw": 3.25
+      },
+      "BetOnline.ag": {
+        "Necaxa": 2.08,
+        "Puebla": 3.48,
+        "Draw": 3.74
+      },
+      "Tipico": {
+        "Necaxa": 1.9,
+        "Puebla": 3.5,
+        "Draw": 3.6
+      },
+      "Matchbook": {
+        "Necaxa": 2.12,
+        "Puebla": 3.65,
+        "Draw": 3.8
       }
     }
   },
