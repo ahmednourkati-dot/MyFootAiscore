@@ -1,310 +1,400 @@
 {
   "snapshots": {
-    "a86aea6784f046a762e94811a0300a1e:h2h": {
-      "Betfair": {
-        "Defensa y Justicia": 1.01,
-        "Gimnasia Mendoza": 600.0,
-        "Draw": 50.0
+    "476002ee1ebdbce88d6f319cd3f2a7f9:h2h": {
+      "PMU (FR)": {
+        "Bucheon FC 1995": 2.8,
+        "Jeju United FC": 2.12,
+        "Draw": 2.95
       },
-      "Betsson": {
-        "Defensa y Justicia": 1.0,
-        "Gimnasia Mendoza": 26.0,
-        "Draw": 26.0
+      "LeoVegas (SE)": {
+        "Bucheon FC 1995": 2.9,
+        "Jeju United FC": 2.2,
+        "Draw": 3.05
+      },
+      "Unibet (SE)": {
+        "Bucheon FC 1995": 2.9,
+        "Jeju United FC": 2.2,
+        "Draw": 3.05
+      },
+      "Unibet (NL)": {
+        "Bucheon FC 1995": 2.9,
+        "Jeju United FC": 2.2,
+        "Draw": 3.05
       },
       "Nordic Bet": {
-        "Defensa y Justicia": 1.0,
-        "Gimnasia Mendoza": 26.0,
-        "Draw": 26.0
+        "Bucheon FC 1995": 2.65,
+        "Jeju United FC": 2.45,
+        "Draw": 3.05
+      },
+      "Betsson": {
+        "Bucheon FC 1995": 2.65,
+        "Jeju United FC": 2.45,
+        "Draw": 3.05
+      },
+      "Unibet (FR)": {
+        "Bucheon FC 1995": 2.65,
+        "Jeju United FC": 2.3,
+        "Draw": 3.1
       },
       "Betclic (FR)": {
-        "Defensa y Justicia": 1.0,
-        "Gimnasia Mendoza": 100.0,
-        "Draw": 40.0
-      }
-    },
-    "2c2c5a0b8591224adb0740c20d818fce:h2h": {
-      "888sport": {
-        "Atletico Paranaense": 2.4,
-        "Coritiba": 2.9,
-        "Draw": 2.9
-      },
-      "William Hill": {
-        "Atletico Paranaense": 2.4,
-        "Coritiba": 2.9,
-        "Draw": 2.9
+        "Bucheon FC 1995": 2.65,
+        "Jeju United FC": 2.4,
+        "Draw": 3.08
       },
       "Coolbet": {
-        "Atletico Paranaense": 2.4,
-        "Coritiba": 3.0,
+        "Bucheon FC 1995": 2.75,
+        "Jeju United FC": 2.55,
+        "Draw": 3.3
+      },
+      "BetOnline.ag": {
+        "Bucheon FC 1995": 2.72,
+        "Jeju United FC": 2.74,
+        "Draw": 3.1
+      },
+      "1xBet": {
+        "Bucheon FC 1995": 2.76,
+        "Jeju United FC": 2.55,
         "Draw": 3.14
       },
-      "Winamax (FR)": {
-        "Atletico Paranaense": 2.25,
-        "Coritiba": 2.8,
-        "Draw": 2.85
-      },
       "Winamax (DE)": {
-        "Atletico Paranaense": 2.35,
-        "Coritiba": 2.9,
-        "Draw": 2.95
-      },
-      "Betclic (FR)": {
-        "Atletico Paranaense": 2.25,
-        "Coritiba": 2.85,
-        "Draw": 2.95
-      },
-      "Unibet (FR)": {
-        "Atletico Paranaense": 2.25,
-        "Coritiba": 2.9,
-        "Draw": 2.95
-      },
-      "Unibet (NL)": {
-        "Atletico Paranaense": 2.38,
-        "Coritiba": 2.75,
-        "Draw": 2.9
-      },
-      "PMU (FR)": {
-        "Atletico Paranaense": 2.32,
-        "Coritiba": 2.63,
-        "Draw": 2.8
-      },
-      "Unibet (SE)": {
-        "Atletico Paranaense": 2.5,
-        "Coritiba": 2.85,
-        "Draw": 3.05
-      },
-      "LeoVegas (SE)": {
-        "Atletico Paranaense": 2.3,
-        "Coritiba": 2.8,
-        "Draw": 2.85
-      },
-      "Nordic Bet": {
-        "Atletico Paranaense": 2.35,
-        "Coritiba": 2.92,
-        "Draw": 3.05
-      },
-      "Betsson": {
-        "Atletico Paranaense": 2.35,
-        "Coritiba": 2.92,
-        "Draw": 3.05
-      },
-      "1xBet": {
-        "Atletico Paranaense": 2.46,
-        "Coritiba": 3.25,
-        "Draw": 3.05
-      },
-      "Marathon Bet": {
-        "Atletico Paranaense": 2.44,
-        "Coritiba": 3.05,
-        "Draw": 2.99
-      },
-      "GTbets": {
-        "Atletico Paranaense": 2.34,
-        "Coritiba": 3.18,
-        "Draw": 3.05
-      },
-      "Pinnacle": {
-        "Atletico Paranaense": 2.53,
-        "Coritiba": 3.19,
-        "Draw": 3.09
-      },
-      "Matchbook": {
-        "Atletico Paranaense": 2.74,
-        "Coritiba": 3.4,
-        "Draw": 2.94
-      },
-      "Tipico": {
-        "Atletico Paranaense": 2.4,
-        "Coritiba": 2.9,
-        "Draw": 3.0
-      },
-      "BetOnline.ag": {
-        "Atletico Paranaense": 2.52,
-        "Coritiba": 3.25,
-        "Draw": 3.03
-      },
-      "Codere (IT)": {
-        "Atletico Paranaense": 2.48,
-        "Coritiba": 3.05,
-        "Draw": 3.05
-      },
-      "BetAnything": {
-        "Atletico Paranaense": 2.52,
-        "Coritiba": 3.25,
-        "Draw": 3.03
-      },
-      "Betfair": {
-        "Atletico Paranaense": 2.66,
-        "Coritiba": 3.35,
-        "Draw": 3.0
-      }
-    },
-    "3da5f2e75c4e456a7548e11dc5a3745e:h2h": {
-      "Betfair": {
-        "Boca Juniors": 1.61,
-        "Central Córdoba": 7.2,
-        "Draw": 4.0
-      },
-      "1xBet": {
-        "Boca Juniors": 1.59,
-        "Central Córdoba": 6.16,
-        "Draw": 3.83
-      },
-      "Unibet (SE)": {
-        "Boca Juniors": 1.5,
-        "Central Córdoba": 7.5,
-        "Draw": 4.1
-      },
-      "LeoVegas (SE)": {
-        "Boca Juniors": 1.4,
-        "Central Córdoba": 6.5,
-        "Draw": 3.65
-      },
-      "Betsson": {
-        "Boca Juniors": 1.6,
-        "Central Córdoba": 6.3,
-        "Draw": 3.6
-      },
-      "Nordic Bet": {
-        "Boca Juniors": 1.6,
-        "Central Córdoba": 6.3,
-        "Draw": 3.6
-      },
-      "Winamax (DE)": {
-        "Boca Juniors": 1.52,
-        "Central Córdoba": 5.5,
-        "Draw": 3.8
+        "Bucheon FC 1995": 2.65,
+        "Jeju United FC": 2.45,
+        "Draw": 3.2
       },
       "Winamax (FR)": {
-        "Boca Juniors": 1.5,
-        "Central Córdoba": 5.4,
-        "Draw": 3.7
-      },
-      "Unibet (FR)": {
-        "Boca Juniors": 1.47,
-        "Central Córdoba": 5.6,
-        "Draw": 3.6
-      },
-      "Betclic (FR)": {
-        "Boca Juniors": 1.48,
-        "Central Córdoba": 5.5,
-        "Draw": 3.53
-      },
-      "Codere (IT)": {
-        "Boca Juniors": 1.57,
-        "Central Córdoba": 6.0,
-        "Draw": 3.85
-      },
-      "Pinnacle": {
-        "Boca Juniors": 1.53,
-        "Central Córdoba": 7.18,
-        "Draw": 4.05
-      },
-      "BetOnline.ag": {
-        "Boca Juniors": 1.59,
-        "Central Córdoba": 6.5,
-        "Draw": 3.98
+        "Bucheon FC 1995": 2.6,
+        "Jeju United FC": 2.4,
+        "Draw": 3.15
       },
       "Marathon Bet": {
-        "Boca Juniors": 1.55,
-        "Central Córdoba": 6.15,
-        "Draw": 3.78
-      },
-      "BetAnything": {
-        "Boca Juniors": 1.59,
-        "Central Córdoba": 6.5,
-        "Draw": 3.98
-      }
-    },
-    "20e70ec9a32d430ca7a9a8f73e51a677:h2h": {
-      "LeoVegas (SE)": {
-        "Necaxa": 1.89,
-        "Puebla": 3.3,
-        "Draw": 3.35
-      },
-      "Unibet (SE)": {
-        "Necaxa": 1.95,
-        "Puebla": 3.45,
-        "Draw": 3.5
-      },
-      "Unibet (NL)": {
-        "Necaxa": 1.95,
-        "Puebla": 3.45,
-        "Draw": 3.5
-      },
-      "PMU (FR)": {
-        "Necaxa": 1.83,
-        "Puebla": 3.2,
-        "Draw": 3.25
-      },
-      "Coolbet": {
-        "Necaxa": 2.02,
-        "Puebla": 3.55,
-        "Draw": 3.6
-      },
-      "Betfair": {
-        "Necaxa": 2.08,
-        "Puebla": 3.6,
-        "Draw": 3.8
-      },
-      "Betclic (FR)": {
-        "Necaxa": 1.91,
-        "Puebla": 3.28,
-        "Draw": 3.43
-      },
-      "Pinnacle": {
-        "Necaxa": 2.06,
-        "Puebla": 3.57,
-        "Draw": 3.73
-      },
-      "1xBet": {
-        "Necaxa": 2.01,
-        "Puebla": 3.42,
-        "Draw": 3.52
-      },
-      "GTbets": {
-        "Necaxa": 1.97,
-        "Puebla": 3.39,
-        "Draw": 3.6
-      },
-      "Betsson": {
-        "Necaxa": 2.02,
-        "Puebla": 3.45,
-        "Draw": 3.4
-      },
-      "Nordic Bet": {
-        "Necaxa": 2.02,
-        "Puebla": 3.45,
-        "Draw": 3.4
-      },
-      "Marathon Bet": {
-        "Necaxa": 1.99,
-        "Puebla": 3.4,
-        "Draw": 3.54
-      },
-      "888sport": {
-        "Necaxa": 1.95,
-        "Puebla": 3.2,
-        "Draw": 3.25
+        "Bucheon FC 1995": 2.76,
+        "Jeju United FC": 2.55,
+        "Draw": 3.14
       },
       "William Hill": {
-        "Necaxa": 1.95,
-        "Puebla": 3.2,
-        "Draw": 3.25
-      },
-      "BetOnline.ag": {
-        "Necaxa": 2.08,
-        "Puebla": 3.48,
-        "Draw": 3.74
+        "Bucheon FC 1995": 2.7,
+        "Jeju United FC": 2.5,
+        "Draw": 3.0
       },
       "Tipico": {
-        "Necaxa": 1.9,
-        "Puebla": 3.5,
-        "Draw": 3.6
+        "Bucheon FC 1995": 2.8,
+        "Jeju United FC": 2.45,
+        "Draw": 3.1
+      },
+      "Pinnacle": {
+        "Bucheon FC 1995": 2.85,
+        "Jeju United FC": 2.7,
+        "Draw": 3.21
+      },
+      "Betfair": {
+        "Bucheon FC 1995": 2.92,
+        "Jeju United FC": 2.76,
+        "Draw": 3.25
       },
       "Matchbook": {
-        "Necaxa": 2.12,
-        "Puebla": 3.65,
+        "Bucheon FC 1995": 2.92,
+        "Jeju United FC": 2.78,
+        "Draw": 3.25
+      }
+    },
+    "10713b0fc90a4db43c4b9fea7a809f40:h2h": {
+      "LeoVegas (SE)": {
+        "FC Seoul": 2.2,
+        "Jeonbuk Hyundai Motors": 2.8,
+        "Draw": 3.15
+      },
+      "Unibet (SE)": {
+        "FC Seoul": 2.2,
+        "Jeonbuk Hyundai Motors": 2.85,
+        "Draw": 3.15
+      },
+      "PMU (FR)": {
+        "FC Seoul": 2.12,
+        "Jeonbuk Hyundai Motors": 2.7,
+        "Draw": 3.05
+      },
+      "Unibet (NL)": {
+        "FC Seoul": 2.2,
+        "Jeonbuk Hyundai Motors": 2.85,
+        "Draw": 3.15
+      },
+      "Nordic Bet": {
+        "FC Seoul": 2.15,
+        "Jeonbuk Hyundai Motors": 3.1,
+        "Draw": 3.2
+      },
+      "Betsson": {
+        "FC Seoul": 2.15,
+        "Jeonbuk Hyundai Motors": 3.1,
+        "Draw": 3.2
+      },
+      "Unibet (FR)": {
+        "FC Seoul": 2.0,
+        "Jeonbuk Hyundai Motors": 3.1,
+        "Draw": 3.2
+      },
+      "Coolbet": {
+        "FC Seoul": 2.2,
+        "Jeonbuk Hyundai Motors": 3.2,
+        "Draw": 3.4
+      },
+      "Betclic (FR)": {
+        "FC Seoul": 2.08,
+        "Jeonbuk Hyundai Motors": 3.07,
+        "Draw": 3.18
+      },
+      "BetOnline.ag": {
+        "FC Seoul": 2.2,
+        "Jeonbuk Hyundai Motors": 3.35,
+        "Draw": 3.3
+      },
+      "1xBet": {
+        "FC Seoul": 2.21,
+        "Jeonbuk Hyundai Motors": 3.25,
+        "Draw": 3.3
+      },
+      "Winamax (DE)": {
+        "FC Seoul": 2.1,
+        "Jeonbuk Hyundai Motors": 3.05,
+        "Draw": 3.35
+      },
+      "Winamax (FR)": {
+        "FC Seoul": 2.1,
+        "Jeonbuk Hyundai Motors": 3.0,
+        "Draw": 3.25
+      },
+      "Marathon Bet": {
+        "FC Seoul": 2.19,
+        "Jeonbuk Hyundai Motors": 3.25,
+        "Draw": 3.3
+      },
+      "William Hill": {
+        "FC Seoul": 2.2,
+        "Jeonbuk Hyundai Motors": 3.1,
+        "Draw": 3.2
+      },
+      "Tipico": {
+        "FC Seoul": 2.05,
+        "Jeonbuk Hyundai Motors": 3.3,
+        "Draw": 3.4
+      },
+      "Pinnacle": {
+        "FC Seoul": 2.22,
+        "Jeonbuk Hyundai Motors": 3.44,
+        "Draw": 3.42
+      },
+      "Betfair": {
+        "FC Seoul": 2.28,
+        "Jeonbuk Hyundai Motors": 3.4,
+        "Draw": 3.55
+      },
+      "Matchbook": {
+        "FC Seoul": 2.28,
+        "Jeonbuk Hyundai Motors": 3.45,
+        "Draw": 3.55
+      }
+    },
+    "d3de564fb597a9978f9d289e48a2fc77:h2h": {
+      "PMU (FR)": {
+        "Incheon United": 2.8,
+        "Ulsan Hyundai FC": 2.1,
+        "Draw": 3.05
+      },
+      "Unibet (NL)": {
+        "Incheon United": 2.9,
+        "Ulsan Hyundai FC": 2.18,
+        "Draw": 3.15
+      },
+      "LeoVegas (SE)": {
+        "Incheon United": 2.88,
+        "Ulsan Hyundai FC": 2.16,
+        "Draw": 3.15
+      },
+      "Unibet (SE)": {
+        "Incheon United": 2.9,
+        "Ulsan Hyundai FC": 2.18,
+        "Draw": 3.15
+      },
+      "Coolbet": {
+        "Incheon United": 3.15,
+        "Ulsan Hyundai FC": 2.2,
+        "Draw": 3.5
+      },
+      "Nordic Bet": {
+        "Incheon United": 3.15,
+        "Ulsan Hyundai FC": 2.12,
+        "Draw": 3.15
+      },
+      "Unibet (FR)": {
+        "Incheon United": 3.1,
+        "Ulsan Hyundai FC": 2.0,
+        "Draw": 3.2
+      },
+      "Betsson": {
+        "Incheon United": 3.15,
+        "Ulsan Hyundai FC": 2.12,
+        "Draw": 3.15
+      },
+      "BetOnline.ag": {
+        "Incheon United": 3.4,
+        "Ulsan Hyundai FC": 2.18,
+        "Draw": 3.3
+      },
+      "Betclic (FR)": {
+        "Incheon United": 3.05,
+        "Ulsan Hyundai FC": 2.05,
+        "Draw": 3.12
+      },
+      "Pinnacle": {
+        "Incheon United": 3.42,
+        "Ulsan Hyundai FC": 2.22,
+        "Draw": 3.44
+      },
+      "Winamax (FR)": {
+        "Incheon United": 3.0,
+        "Ulsan Hyundai FC": 2.1,
+        "Draw": 3.25
+      },
+      "Winamax (DE)": {
+        "Incheon United": 3.1,
+        "Ulsan Hyundai FC": 2.1,
+        "Draw": 3.3
+      },
+      "1xBet": {
+        "Incheon United": 3.29,
+        "Ulsan Hyundai FC": 2.18,
+        "Draw": 3.28
+      },
+      "Marathon Bet": {
+        "Incheon United": 3.28,
+        "Ulsan Hyundai FC": 2.16,
+        "Draw": 3.28
+      },
+      "Betfair": {
+        "Incheon United": 3.6,
+        "Ulsan Hyundai FC": 2.28,
+        "Draw": 3.4
+      },
+      "Tipico": {
+        "Incheon United": 3.4,
+        "Ulsan Hyundai FC": 2.05,
+        "Draw": 3.3
+      },
+      "William Hill": {
+        "Incheon United": 3.2,
+        "Ulsan Hyundai FC": 2.2,
+        "Draw": 3.1
+      },
+      "Matchbook": {
+        "Incheon United": 3.6,
+        "Ulsan Hyundai FC": 2.28,
+        "Draw": 3.45
+      }
+    },
+    "614dde3eacd620b53feede86bdcb7e6b:h2h": {
+      "BetOnline.ag": {
+        "Kawasaki Frontale": 2.22,
+        "Mito HollyHock": 3.15,
+        "Draw": 3.55
+      },
+      "Coolbet": {
+        "Kawasaki Frontale": 2.1,
+        "Mito HollyHock": 3.25,
+        "Draw": 3.75
+      },
+      "Unibet (FR)": {
+        "Kawasaki Frontale": 2.0,
+        "Mito HollyHock": 3.1,
+        "Draw": 3.45
+      },
+      "Pinnacle": {
+        "Kawasaki Frontale": 2.23,
+        "Mito HollyHock": 3.22,
+        "Draw": 3.65
+      },
+      "Nordic Bet": {
+        "Kawasaki Frontale": 2.1,
+        "Mito HollyHock": 3.1,
+        "Draw": 3.4
+      },
+      "Betsson": {
+        "Kawasaki Frontale": 2.1,
+        "Mito HollyHock": 3.1,
+        "Draw": 3.4
+      },
+      "Betclic (FR)": {
+        "Kawasaki Frontale": 2.05,
+        "Mito HollyHock": 3.1,
+        "Draw": 3.45
+      },
+      "1xBet": {
+        "Kawasaki Frontale": 2.19,
+        "Mito HollyHock": 3.21,
+        "Draw": 3.58
+      },
+      "Marathon Bet": {
+        "Kawasaki Frontale": 2.14,
+        "Mito HollyHock": 3.14,
+        "Draw": 3.5
+      },
+      "Winamax (FR)": {
+        "Kawasaki Frontale": 2.0,
+        "Mito HollyHock": 2.95,
+        "Draw": 3.45
+      },
+      "Winamax (DE)": {
+        "Kawasaki Frontale": 2.05,
+        "Mito HollyHock": 3.0,
+        "Draw": 3.55
+      },
+      "Tipico": {
+        "Kawasaki Frontale": 2.05,
+        "Mito HollyHock": 3.2,
+        "Draw": 3.5
+      },
+      "Unibet (SE)": {
+        "Kawasaki Frontale": 2.02,
+        "Mito HollyHock": 3.3,
+        "Draw": 3.45
+      },
+      "LeoVegas (SE)": {
+        "Kawasaki Frontale": 2.02,
+        "Mito HollyHock": 3.3,
+        "Draw": 3.5
+      },
+      "PMU (FR)": {
+        "Kawasaki Frontale": 2.0,
+        "Mito HollyHock": 3.25,
+        "Draw": 3.45
+      },
+      "Unibet (NL)": {
+        "Kawasaki Frontale": 2.02,
+        "Mito HollyHock": 3.3,
+        "Draw": 3.45
+      },
+      "888sport": {
+        "Kawasaki Frontale": 2.1,
+        "Mito HollyHock": 3.1,
+        "Draw": 3.4
+      },
+      "William Hill": {
+        "Kawasaki Frontale": 2.1,
+        "Mito HollyHock": 3.1,
+        "Draw": 3.4
+      },
+      "Betfair": {
+        "Kawasaki Frontale": 2.26,
+        "Mito HollyHock": 3.25,
+        "Draw": 3.8
+      },
+      "BetAnything": {
+        "Kawasaki Frontale": 2.22,
+        "Mito HollyHock": 3.15,
+        "Draw": 3.55
+      },
+      "Matchbook": {
+        "Kawasaki Frontale": 2.26,
+        "Mito HollyHock": 3.25,
         "Draw": 3.8
       }
     }
