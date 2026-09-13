@@ -1,193 +1,286 @@
 {
   "snapshots": {
-    "9383e3ea3dbc7d6f1332ab285396af76:h2h": {
+    "40488ef59dd79830e21bb0136c09e2b1:h2h": {
       "PMU (FR)": {
-        "Houston Dynamo": 51.0,
-        "San Jose Earthquakes": 1.02,
-        "Draw": 6.5
+        "FC Anyang": 4.9,
+        "Gwangju FC": 7.0,
+        "Draw": 1.17
       },
       "Unibet (SE)": {
-        "Houston Dynamo": 251.0,
-        "San Jose Earthquakes": 1.02,
-        "Draw": 20.0
-      },
-      "Betclic (FR)": {
-        "Houston Dynamo": 70.0,
-        "San Jose Earthquakes": 1.06,
-        "Draw": 4.95
-      },
-      "MyBookie.ag": {
-        "Houston Dynamo": 12.25,
-        "San Jose Earthquakes": 1.12,
-        "Draw": 5.5
-      },
-      "Coolbet": {
-        "Houston Dynamo": 100.0,
-        "San Jose Earthquakes": 1.0,
-        "Draw": 16.0
-      },
-      "Winamax (DE)": {
-        "Houston Dynamo": 225.0,
-        "San Jose Earthquakes": 1.02,
-        "Draw": 15.0
-      },
-      "Winamax (FR)": {
-        "Houston Dynamo": 225.0,
-        "San Jose Earthquakes": 1.04,
-        "Draw": 14.5
-      },
-      "888sport": {
-        "Houston Dynamo": 126.0,
-        "San Jose Earthquakes": 1.03,
-        "Draw": 13.0
-      },
-      "Betfair": {
-        "Houston Dynamo": 1000.0,
-        "San Jose Earthquakes": 1.04,
-        "Draw": 12.0
-      },
-      "Betsson": {
-        "Houston Dynamo": 126.0,
-        "San Jose Earthquakes": 1.0,
-        "Draw": 15.0
-      },
-      "Nordic Bet": {
-        "Houston Dynamo": 130.0,
-        "San Jose Earthquakes": 1.01,
-        "Draw": 13.0
-      },
-      "Tipico": {
-        "Houston Dynamo": 200.0,
-        "San Jose Earthquakes": 1.02,
-        "Draw": 11.0
-      }
-    },
-    "8a680eaa21aec77196a6c615d4b75322:h2h": {
-      "PMU (FR)": {
-        "LA Galaxy": 7.5,
-        "Seattle Sounders FC": 15.0,
-        "Draw": 1.04
-      },
-      "Unibet (SE)": {
-        "LA Galaxy": 15.0,
-        "Seattle Sounders FC": 26.0,
-        "Draw": 1.04
+        "FC Anyang": 5.4,
+        "Gwangju FC": 6.75,
+        "Draw": 1.3
       },
       "LeoVegas (SE)": {
-        "LA Galaxy": 14.0,
-        "Seattle Sounders FC": 26.0,
-        "Draw": 1.01
+        "FC Anyang": 5.0,
+        "Gwangju FC": 7.0,
+        "Draw": 1.2
       },
       "Unibet (NL)": {
-        "LA Galaxy": 14.0,
-        "Seattle Sounders FC": 26.0,
-        "Draw": 1.02
+        "FC Anyang": 4.9,
+        "Gwangju FC": 7.0,
+        "Draw": 1.33
+      },
+      "Nordic Bet": {
+        "FC Anyang": 4.2,
+        "Gwangju FC": 5.8,
+        "Draw": 1.45
       },
       "Betclic (FR)": {
-        "LA Galaxy": 8.25,
-        "Seattle Sounders FC": 10.0,
-        "Draw": 1.08
+        "FC Anyang": 3.85,
+        "Gwangju FC": 5.9,
+        "Draw": 1.47
+      },
+      "Betsson": {
+        "FC Anyang": 4.4,
+        "Gwangju FC": 5.8,
+        "Draw": 1.42
       },
       "Coolbet": {
-        "LA Galaxy": 16.0,
-        "Seattle Sounders FC": 22.0,
-        "Draw": 1.04
-      },
-      "MyBookie.ag": {
-        "LA Galaxy": 5.25,
-        "Seattle Sounders FC": 7.0,
-        "Draw": 1.22
+        "FC Anyang": 4.5,
+        "Gwangju FC": 6.5,
+        "Draw": 1.44
       },
       "Winamax (DE)": {
-        "LA Galaxy": 12.0,
-        "Seattle Sounders FC": 16.0,
-        "Draw": 1.06
+        "FC Anyang": 4.0,
+        "Gwangju FC": 6.0,
+        "Draw": 1.45
       },
       "Winamax (FR)": {
-        "LA Galaxy": 11.5,
-        "Seattle Sounders FC": 15.0,
-        "Draw": 1.09
+        "FC Anyang": 3.85,
+        "Gwangju FC": 5.8,
+        "Draw": 1.44
       },
-      "Betfair": {
-        "LA Galaxy": 1.01,
-        "Seattle Sounders FC": 1.01
-      },
-      "888sport": {
-        "LA Galaxy": 11.0,
-        "Seattle Sounders FC": 13.0,
-        "Draw": 1.1
-      },
-      "Nordic Bet": {
-        "LA Galaxy": 23.0,
-        "Seattle Sounders FC": 29.0,
-        "Draw": 1.0
-      },
-      "Betsson": {
-        "LA Galaxy": 17.0,
-        "Seattle Sounders FC": 21.0,
-        "Draw": 1.03
+      "Tipico": {
+        "FC Anyang": 4.5,
+        "Gwangju FC": 6.5,
+        "Draw": 1.4
       },
       "Pinnacle": {
-        "LA Galaxy": 4.59,
-        "Seattle Sounders FC": 5.43,
-        "Draw": 1.51
-      },
-      "Tipico": {
-        "LA Galaxy": 12.0,
-        "Seattle Sounders FC": 15.0,
-        "Draw": 1.05
-      }
-    },
-    "8afda1fcbcf75b37a94fae32c6783e49:h2h": {
-      "Unibet (SE)": {
-        "América": 46.0,
-        "Cruz Azul": 1.02,
-        "Draw": 18.0
-      },
-      "Unibet (NL)": {
-        "América": 46.0,
-        "Cruz Azul": 1.02,
-        "Draw": 18.0
-      },
-      "Nordic Bet": {
-        "América": 36.0,
-        "Cruz Azul": 1.02,
-        "Draw": 15.0
-      },
-      "Betsson": {
-        "América": 36.0,
-        "Cruz Azul": 1.02,
-        "Draw": 15.0
-      },
-      "Betclic (FR)": {
-        "América": 26.0,
-        "Cruz Azul": 1.02,
-        "Draw": 12.0
-      },
-      "Coolbet": {
-        "América": 50.0,
-        "Cruz Azul": 1.03,
-        "Draw": 20.0
+        "FC Anyang": 3.91,
+        "Gwangju FC": 5.64,
+        "Draw": 1.6
       },
       "Betfair": {
-        "América": 75.0,
-        "Cruz Azul": 1.05,
-        "Draw": 23.0
-      },
-      "888sport": {
-        "América": 41.0,
-        "Cruz Azul": 1.02,
-        "Draw": 15.0
-      },
-      "Tipico": {
-        "América": 35.0,
-        "Cruz Azul": 1.02,
-        "Draw": 11.0
+        "FC Anyang": 4.2,
+        "Gwangju FC": 7.0,
+        "Draw": 1.52
       },
       "Matchbook": {
-        "América": 75.0,
-        "Cruz Azul": 1.04,
-        "Draw": 26.0
+        "FC Anyang": 4.4,
+        "Gwangju FC": 7.6,
+        "Draw": 1.46
+      }
+    },
+    "e0e830c91f45c64995f51a6b090a54b3:h2h": {
+      "Unibet (NL)": {
+        "Cracovia Kraków": 101.0,
+        "Wisła Płock": 1.01,
+        "Draw": 21.0
+      },
+      "Betsson": {
+        "Cracovia Kraków": 24.0,
+        "Wisła Płock": 1.09,
+        "Draw": 6.3
+      },
+      "Unibet (SE)": {
+        "Cracovia Kraków": 111.0,
+        "Wisła Płock": 1.01,
+        "Draw": 23.0
+      },
+      "Nordic Bet": {
+        "Cracovia Kraków": 46.0,
+        "Wisła Płock": 1.0,
+        "Draw": 13.0
+      },
+      "Betclic (FR)": {
+        "Cracovia Kraków": 43.0,
+        "Wisła Płock": 1.02,
+        "Draw": 18.5
+      },
+      "Coolbet": {
+        "Cracovia Kraków": 50.0,
+        "Wisła Płock": 1.0,
+        "Draw": 18.0
+      },
+      "Winamax (FR)": {
+        "Cracovia Kraków": 150.0,
+        "Wisła Płock": 1.01,
+        "Draw": 34.0
+      },
+      "Winamax (DE)": {
+        "Cracovia Kraków": 150.0,
+        "Wisła Płock": 1.01,
+        "Draw": 34.0
+      },
+      "Pinnacle": {
+        "Cracovia Kraków": 10.11,
+        "Wisła Płock": 1.43,
+        "Draw": 3.78
+      },
+      "888sport": {
+        "Cracovia Kraków": 126.0,
+        "Wisła Płock": 1.01,
+        "Draw": 29.0
+      },
+      "Betfair": {
+        "Cracovia Kraków": 34.0,
+        "Wisła Płock": 1.02,
+        "Draw": 34.0
+      }
+    },
+    "36b36c2897de254fb3f14123d4434607:h2h": {
+      "Winamax (DE)": {
+        "Excelsior": 11.0,
+        "FC Utrecht": 1.36,
+        "Draw": 3.7
+      },
+      "Winamax (FR)": {
+        "Excelsior": 10.0,
+        "FC Utrecht": 1.36,
+        "Draw": 3.6
+      },
+      "Coolbet": {
+        "Excelsior": 13.0,
+        "FC Utrecht": 1.4,
+        "Draw": 4.0
+      },
+      "Betclic (FR)": {
+        "Excelsior": 9.75,
+        "FC Utrecht": 1.38,
+        "Draw": 3.5
+      },
+      "888sport": {
+        "Excelsior": 9.0,
+        "FC Utrecht": 1.4,
+        "Draw": 3.6
+      },
+      "Unibet (NL)": {
+        "Excelsior": 11.0,
+        "FC Utrecht": 1.43,
+        "Draw": 3.45
+      },
+      "Unibet (SE)": {
+        "Excelsior": 10.5,
+        "FC Utrecht": 1.44,
+        "Draw": 3.45
+      },
+      "LeoVegas (SE)": {
+        "Excelsior": 10.0,
+        "FC Utrecht": 1.38,
+        "Draw": 3.3
+      },
+      "PMU (FR)": {
+        "Excelsior": 9.5,
+        "FC Utrecht": 1.34,
+        "Draw": 3.2
+      },
+      "Nordic Bet": {
+        "Excelsior": 11.5,
+        "FC Utrecht": 1.36,
+        "Draw": 3.65
+      },
+      "Betsson": {
+        "Excelsior": 11.5,
+        "FC Utrecht": 1.34,
+        "Draw": 3.9
+      },
+      "Betfair": {
+        "Excelsior": 16.0,
+        "FC Utrecht": 1.43,
+        "Draw": 4.1
+      },
+      "Pinnacle": {
+        "Excelsior": 7.8,
+        "FC Utrecht": 1.56,
+        "Draw": 3.47
+      },
+      "Tipico": {
+        "Excelsior": 9.0,
+        "FC Utrecht": 1.4,
+        "Draw": 3.8
+      },
+      "Matchbook": {
+        "Excelsior": 16.0,
+        "FC Utrecht": 1.42,
+        "Draw": 4.1
+      }
+    },
+    "daaf99f01cb6c822ef263918b831912c:h2h": {
+      "Winamax (DE)": {
+        "Sheffield United": 3.3,
+        "Wolverhampton Wanderers": 2.5,
+        "Draw": 2.5
+      },
+      "Winamax (FR)": {
+        "Sheffield United": 3.2,
+        "Wolverhampton Wanderers": 2.4,
+        "Draw": 2.4
+      },
+      "Coolbet": {
+        "Sheffield United": 3.4,
+        "Wolverhampton Wanderers": 2.6,
+        "Draw": 2.5
+      },
+      "Betsson": {
+        "Sheffield United": 3.3,
+        "Wolverhampton Wanderers": 2.5,
+        "Draw": 2.5
+      },
+      "Nordic Bet": {
+        "Sheffield United": 3.3,
+        "Wolverhampton Wanderers": 2.5,
+        "Draw": 2.5
+      },
+      "Betclic (FR)": {
+        "Sheffield United": 3.2,
+        "Wolverhampton Wanderers": 2.38,
+        "Draw": 2.43
+      },
+      "888sport": {
+        "Sheffield United": 3.5,
+        "Wolverhampton Wanderers": 2.5,
+        "Draw": 2.38
+      },
+      "Betfair": {
+        "Sheffield United": 3.75,
+        "Wolverhampton Wanderers": 2.68,
+        "Draw": 2.74
+      },
+      "LeoVegas (SE)": {
+        "Sheffield United": 3.15,
+        "Wolverhampton Wanderers": 2.45,
+        "Draw": 2.4
+      },
+      "Unibet (SE)": {
+        "Sheffield United": 3.4,
+        "Wolverhampton Wanderers": 2.55,
+        "Draw": 2.55
+      },
+      "Unibet (NL)": {
+        "Sheffield United": 3.45,
+        "Wolverhampton Wanderers": 2.43,
+        "Draw": 2.6
+      },
+      "PMU (FR)": {
+        "Sheffield United": 3.2,
+        "Wolverhampton Wanderers": 2.28,
+        "Draw": 2.4
+      },
+      "Matchbook": {
+        "Sheffield United": 3.9,
+        "Wolverhampton Wanderers": 2.64,
+        "Draw": 2.64
+      },
+      "Pinnacle": {
+        "Sheffield United": 3.53,
+        "Wolverhampton Wanderers": 2.7,
+        "Draw": 2.46
+      },
+      "Tipico": {
+        "Sheffield United": 3.6,
+        "Wolverhampton Wanderers": 2.6,
+        "Draw": 2.3
       }
     }
   },
@@ -4960,35 +5053,944 @@
       "confidence": 160,
       "alert_type": "value",
       "alerted_at": "2026-09-13T04:39:36.275918+00:00"
+    },
+    {
+      "state_key": "40488ef59dd79830e21bb0136c09e2b1:h2h",
+      "event_id": "40488ef59dd79830e21bb0136c09e2b1",
+      "sport_key": "soccer",
+      "competition": "K League 1",
+      "home_team": "Gwangju FC",
+      "away_team": "FC Anyang",
+      "commence_time": "2026-09-13T10:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Anyang",
+      "odds_at_alert": 4.9,
+      "stake_pct": 5.0,
+      "confidence": 18,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T11:42:40.336335+00:00"
+    },
+    {
+      "state_key": "40488ef59dd79830e21bb0136c09e2b1:h2h",
+      "event_id": "40488ef59dd79830e21bb0136c09e2b1",
+      "sport_key": "soccer",
+      "competition": "K League 1",
+      "home_team": "Gwangju FC",
+      "away_team": "FC Anyang",
+      "commence_time": "2026-09-13T10:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gwangju FC",
+      "odds_at_alert": 7.0,
+      "stake_pct": 5.0,
+      "confidence": 17,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T11:42:40.717431+00:00"
+    },
+    {
+      "state_key": "40488ef59dd79830e21bb0136c09e2b1:h2h",
+      "event_id": "40488ef59dd79830e21bb0136c09e2b1",
+      "sport_key": "soccer",
+      "competition": "K League 1",
+      "home_team": "Gwangju FC",
+      "away_team": "FC Anyang",
+      "commence_time": "2026-09-13T10:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Anyang",
+      "odds_at_alert": 5.4,
+      "stake_pct": 5.0,
+      "confidence": 31,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T11:42:41.137724+00:00"
+    },
+    {
+      "state_key": "40488ef59dd79830e21bb0136c09e2b1:h2h",
+      "event_id": "40488ef59dd79830e21bb0136c09e2b1",
+      "sport_key": "soccer",
+      "competition": "K League 1",
+      "home_team": "Gwangju FC",
+      "away_team": "FC Anyang",
+      "commence_time": "2026-09-13T10:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gwangju FC",
+      "odds_at_alert": 6.75,
+      "stake_pct": 3.0,
+      "confidence": 13,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T11:42:41.529371+00:00"
+    },
+    {
+      "state_key": "40488ef59dd79830e21bb0136c09e2b1:h2h",
+      "event_id": "40488ef59dd79830e21bb0136c09e2b1",
+      "sport_key": "soccer",
+      "competition": "K League 1",
+      "home_team": "Gwangju FC",
+      "away_team": "FC Anyang",
+      "commence_time": "2026-09-13T10:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Anyang",
+      "odds_at_alert": 5.0,
+      "stake_pct": 5.0,
+      "confidence": 21,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T11:42:41.967445+00:00"
+    },
+    {
+      "state_key": "40488ef59dd79830e21bb0136c09e2b1:h2h",
+      "event_id": "40488ef59dd79830e21bb0136c09e2b1",
+      "sport_key": "soccer",
+      "competition": "K League 1",
+      "home_team": "Gwangju FC",
+      "away_team": "FC Anyang",
+      "commence_time": "2026-09-13T10:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gwangju FC",
+      "odds_at_alert": 7.0,
+      "stake_pct": 5.0,
+      "confidence": 17,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T11:42:42.379520+00:00"
+    },
+    {
+      "state_key": "40488ef59dd79830e21bb0136c09e2b1:h2h",
+      "event_id": "40488ef59dd79830e21bb0136c09e2b1",
+      "sport_key": "soccer",
+      "competition": "K League 1",
+      "home_team": "Gwangju FC",
+      "away_team": "FC Anyang",
+      "commence_time": "2026-09-13T10:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Anyang",
+      "odds_at_alert": 4.9,
+      "stake_pct": 5.0,
+      "confidence": 18,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T11:42:42.768250+00:00"
+    },
+    {
+      "state_key": "40488ef59dd79830e21bb0136c09e2b1:h2h",
+      "event_id": "40488ef59dd79830e21bb0136c09e2b1",
+      "sport_key": "soccer",
+      "competition": "K League 1",
+      "home_team": "Gwangju FC",
+      "away_team": "FC Anyang",
+      "commence_time": "2026-09-13T10:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gwangju FC",
+      "odds_at_alert": 7.0,
+      "stake_pct": 5.0,
+      "confidence": 17,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T11:42:43.165268+00:00"
+    },
+    {
+      "state_key": "40488ef59dd79830e21bb0136c09e2b1:h2h",
+      "event_id": "40488ef59dd79830e21bb0136c09e2b1",
+      "sport_key": "soccer",
+      "competition": "K League 1",
+      "home_team": "Gwangju FC",
+      "away_team": "FC Anyang",
+      "commence_time": "2026-09-13T10:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Anyang",
+      "odds_at_alert": 4.4,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T11:42:43.582436+00:00"
+    },
+    {
+      "state_key": "40488ef59dd79830e21bb0136c09e2b1:h2h",
+      "event_id": "40488ef59dd79830e21bb0136c09e2b1",
+      "sport_key": "soccer",
+      "competition": "K League 1",
+      "home_team": "Gwangju FC",
+      "away_team": "FC Anyang",
+      "commence_time": "2026-09-13T10:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Anyang",
+      "odds_at_alert": 4.5,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T11:42:44.034407+00:00"
+    },
+    {
+      "state_key": "40488ef59dd79830e21bb0136c09e2b1:h2h",
+      "event_id": "40488ef59dd79830e21bb0136c09e2b1",
+      "sport_key": "soccer",
+      "competition": "K League 1",
+      "home_team": "Gwangju FC",
+      "away_team": "FC Anyang",
+      "commence_time": "2026-09-13T10:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gwangju FC",
+      "odds_at_alert": 6.5,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T11:42:44.414306+00:00"
+    },
+    {
+      "state_key": "40488ef59dd79830e21bb0136c09e2b1:h2h",
+      "event_id": "40488ef59dd79830e21bb0136c09e2b1",
+      "sport_key": "soccer",
+      "competition": "K League 1",
+      "home_team": "Gwangju FC",
+      "away_team": "FC Anyang",
+      "commence_time": "2026-09-13T10:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Anyang",
+      "odds_at_alert": 4.5,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T11:42:44.790474+00:00"
+    },
+    {
+      "state_key": "40488ef59dd79830e21bb0136c09e2b1:h2h",
+      "event_id": "40488ef59dd79830e21bb0136c09e2b1",
+      "sport_key": "soccer",
+      "competition": "K League 1",
+      "home_team": "Gwangju FC",
+      "away_team": "FC Anyang",
+      "commence_time": "2026-09-13T10:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gwangju FC",
+      "odds_at_alert": 6.5,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T11:42:45.264746+00:00"
+    },
+    {
+      "state_key": "40488ef59dd79830e21bb0136c09e2b1:h2h",
+      "event_id": "40488ef59dd79830e21bb0136c09e2b1",
+      "sport_key": "soccer",
+      "competition": "K League 1",
+      "home_team": "Gwangju FC",
+      "away_team": "FC Anyang",
+      "commence_time": "2026-09-13T10:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gwangju FC",
+      "odds_at_alert": 7.0,
+      "stake_pct": 5.0,
+      "confidence": 17,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T11:42:46.421035+00:00"
+    },
+    {
+      "state_key": "40488ef59dd79830e21bb0136c09e2b1:h2h",
+      "event_id": "40488ef59dd79830e21bb0136c09e2b1",
+      "sport_key": "soccer",
+      "competition": "K League 1",
+      "home_team": "Gwangju FC",
+      "away_team": "FC Anyang",
+      "commence_time": "2026-09-13T10:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Anyang",
+      "odds_at_alert": 4.4,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T11:42:47.001216+00:00"
+    },
+    {
+      "state_key": "40488ef59dd79830e21bb0136c09e2b1:h2h",
+      "event_id": "40488ef59dd79830e21bb0136c09e2b1",
+      "sport_key": "soccer",
+      "competition": "K League 1",
+      "home_team": "Gwangju FC",
+      "away_team": "FC Anyang",
+      "commence_time": "2026-09-13T10:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gwangju FC",
+      "odds_at_alert": 7.6,
+      "stake_pct": 5.0,
+      "confidence": 27,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T11:42:47.396788+00:00"
+    },
+    {
+      "state_key": "e0e830c91f45c64995f51a6b090a54b3:h2h",
+      "event_id": "e0e830c91f45c64995f51a6b090a54b3",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Wisła Płock",
+      "away_team": "Cracovia Kraków",
+      "commence_time": "2026-09-13T10:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cracovia Kraków",
+      "odds_at_alert": 101.0,
+      "stake_pct": 5.0,
+      "confidence": 840,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T11:42:47.828184+00:00"
+    },
+    {
+      "state_key": "e0e830c91f45c64995f51a6b090a54b3:h2h",
+      "event_id": "e0e830c91f45c64995f51a6b090a54b3",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Wisła Płock",
+      "away_team": "Cracovia Kraków",
+      "commence_time": "2026-09-13T10:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 21.0,
+      "stake_pct": 5.0,
+      "confidence": 423,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T11:42:48.235660+00:00"
+    },
+    {
+      "state_key": "e0e830c91f45c64995f51a6b090a54b3:h2h",
+      "event_id": "e0e830c91f45c64995f51a6b090a54b3",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Wisła Płock",
+      "away_team": "Cracovia Kraków",
+      "commence_time": "2026-09-13T10:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cracovia Kraków",
+      "odds_at_alert": 24.0,
+      "stake_pct": 5.0,
+      "confidence": 123,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T11:42:48.630948+00:00"
+    },
+    {
+      "state_key": "e0e830c91f45c64995f51a6b090a54b3:h2h",
+      "event_id": "e0e830c91f45c64995f51a6b090a54b3",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Wisła Płock",
+      "away_team": "Cracovia Kraków",
+      "commence_time": "2026-09-13T10:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.3,
+      "stake_pct": 5.0,
+      "confidence": 57,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T11:42:49.017978+00:00"
+    },
+    {
+      "state_key": "e0e830c91f45c64995f51a6b090a54b3:h2h",
+      "event_id": "e0e830c91f45c64995f51a6b090a54b3",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Wisła Płock",
+      "away_team": "Cracovia Kraków",
+      "commence_time": "2026-09-13T10:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cracovia Kraków",
+      "odds_at_alert": 111.0,
+      "stake_pct": 5.0,
+      "confidence": 933,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T11:42:49.418384+00:00"
+    },
+    {
+      "state_key": "e0e830c91f45c64995f51a6b090a54b3:h2h",
+      "event_id": "e0e830c91f45c64995f51a6b090a54b3",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Wisła Płock",
+      "away_team": "Cracovia Kraków",
+      "commence_time": "2026-09-13T10:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 23.0,
+      "stake_pct": 5.0,
+      "confidence": 473,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T11:42:49.869000+00:00"
+    },
+    {
+      "state_key": "e0e830c91f45c64995f51a6b090a54b3:h2h",
+      "event_id": "e0e830c91f45c64995f51a6b090a54b3",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Wisła Płock",
+      "away_team": "Cracovia Kraków",
+      "commence_time": "2026-09-13T10:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cracovia Kraków",
+      "odds_at_alert": 46.0,
+      "stake_pct": 5.0,
+      "confidence": 328,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T11:42:50.324854+00:00"
+    },
+    {
+      "state_key": "e0e830c91f45c64995f51a6b090a54b3:h2h",
+      "event_id": "e0e830c91f45c64995f51a6b090a54b3",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Wisła Płock",
+      "away_team": "Cracovia Kraków",
+      "commence_time": "2026-09-13T10:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 224,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T11:42:50.698276+00:00"
+    },
+    {
+      "state_key": "e0e830c91f45c64995f51a6b090a54b3:h2h",
+      "event_id": "e0e830c91f45c64995f51a6b090a54b3",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Wisła Płock",
+      "away_team": "Cracovia Kraków",
+      "commence_time": "2026-09-13T10:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cracovia Kraków",
+      "odds_at_alert": 43.0,
+      "stake_pct": 5.0,
+      "confidence": 300,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T11:42:51.115910+00:00"
+    },
+    {
+      "state_key": "e0e830c91f45c64995f51a6b090a54b3:h2h",
+      "event_id": "e0e830c91f45c64995f51a6b090a54b3",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Wisła Płock",
+      "away_team": "Cracovia Kraków",
+      "commence_time": "2026-09-13T10:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 18.5,
+      "stake_pct": 5.0,
+      "confidence": 361,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T11:42:51.503363+00:00"
+    },
+    {
+      "state_key": "e0e830c91f45c64995f51a6b090a54b3:h2h",
+      "event_id": "e0e830c91f45c64995f51a6b090a54b3",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Wisła Płock",
+      "away_team": "Cracovia Kraków",
+      "commence_time": "2026-09-13T10:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cracovia Kraków",
+      "odds_at_alert": 50.0,
+      "stake_pct": 5.0,
+      "confidence": 365,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T11:42:51.909369+00:00"
+    },
+    {
+      "state_key": "e0e830c91f45c64995f51a6b090a54b3:h2h",
+      "event_id": "e0e830c91f45c64995f51a6b090a54b3",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Wisła Płock",
+      "away_team": "Cracovia Kraków",
+      "commence_time": "2026-09-13T10:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 18.0,
+      "stake_pct": 5.0,
+      "confidence": 348,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T11:42:52.302455+00:00"
+    },
+    {
+      "state_key": "e0e830c91f45c64995f51a6b090a54b3:h2h",
+      "event_id": "e0e830c91f45c64995f51a6b090a54b3",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Wisła Płock",
+      "away_team": "Cracovia Kraków",
+      "commence_time": "2026-09-13T10:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cracovia Kraków",
+      "odds_at_alert": 150.0,
+      "stake_pct": 5.0,
+      "confidence": 1296,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T11:42:52.731811+00:00"
+    },
+    {
+      "state_key": "e0e830c91f45c64995f51a6b090a54b3:h2h",
+      "event_id": "e0e830c91f45c64995f51a6b090a54b3",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Wisła Płock",
+      "away_team": "Cracovia Kraków",
+      "commence_time": "2026-09-13T10:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 34.0,
+      "stake_pct": 5.0,
+      "confidence": 746,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T11:42:53.196914+00:00"
+    },
+    {
+      "state_key": "e0e830c91f45c64995f51a6b090a54b3:h2h",
+      "event_id": "e0e830c91f45c64995f51a6b090a54b3",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Wisła Płock",
+      "away_team": "Cracovia Kraków",
+      "commence_time": "2026-09-13T10:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cracovia Kraków",
+      "odds_at_alert": 150.0,
+      "stake_pct": 5.0,
+      "confidence": 1296,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T11:42:53.590249+00:00"
+    },
+    {
+      "state_key": "e0e830c91f45c64995f51a6b090a54b3:h2h",
+      "event_id": "e0e830c91f45c64995f51a6b090a54b3",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Wisła Płock",
+      "away_team": "Cracovia Kraków",
+      "commence_time": "2026-09-13T10:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 34.0,
+      "stake_pct": 5.0,
+      "confidence": 746,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T11:42:54.306716+00:00"
+    },
+    {
+      "state_key": "e0e830c91f45c64995f51a6b090a54b3:h2h",
+      "event_id": "e0e830c91f45c64995f51a6b090a54b3",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Wisła Płock",
+      "away_team": "Cracovia Kraków",
+      "commence_time": "2026-09-13T10:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cracovia Kraków",
+      "odds_at_alert": 126.0,
+      "stake_pct": 5.0,
+      "confidence": 1073,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T11:42:54.708515+00:00"
+    },
+    {
+      "state_key": "e0e830c91f45c64995f51a6b090a54b3:h2h",
+      "event_id": "e0e830c91f45c64995f51a6b090a54b3",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Wisła Płock",
+      "away_team": "Cracovia Kraków",
+      "commence_time": "2026-09-13T10:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 29.0,
+      "stake_pct": 5.0,
+      "confidence": 622,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T11:42:55.116697+00:00"
+    },
+    {
+      "state_key": "e0e830c91f45c64995f51a6b090a54b3:h2h",
+      "event_id": "e0e830c91f45c64995f51a6b090a54b3",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Wisła Płock",
+      "away_team": "Cracovia Kraków",
+      "commence_time": "2026-09-13T10:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cracovia Kraków",
+      "odds_at_alert": 34.0,
+      "stake_pct": 5.0,
+      "confidence": 216,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T11:42:55.487348+00:00"
+    },
+    {
+      "state_key": "e0e830c91f45c64995f51a6b090a54b3:h2h",
+      "event_id": "e0e830c91f45c64995f51a6b090a54b3",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Wisła Płock",
+      "away_team": "Cracovia Kraków",
+      "commence_time": "2026-09-13T10:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 34.0,
+      "stake_pct": 5.0,
+      "confidence": 746,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T11:42:55.872627+00:00"
+    },
+    {
+      "state_key": "36b36c2897de254fb3f14123d4434607:h2h",
+      "event_id": "36b36c2897de254fb3f14123d4434607",
+      "sport_key": "soccer",
+      "competition": "Dutch Eredivisie",
+      "home_team": "Excelsior",
+      "away_team": "FC Utrecht",
+      "commence_time": "2026-09-13T10:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Excelsior",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 33,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T11:42:56.275950+00:00"
+    },
+    {
+      "state_key": "36b36c2897de254fb3f14123d4434607:h2h",
+      "event_id": "36b36c2897de254fb3f14123d4434607",
+      "sport_key": "soccer",
+      "competition": "Dutch Eredivisie",
+      "home_team": "Excelsior",
+      "away_team": "FC Utrecht",
+      "commence_time": "2026-09-13T10:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Excelsior",
+      "odds_at_alert": 10.0,
+      "stake_pct": 5.0,
+      "confidence": 21,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T11:42:56.671487+00:00"
+    },
+    {
+      "state_key": "36b36c2897de254fb3f14123d4434607:h2h",
+      "event_id": "36b36c2897de254fb3f14123d4434607",
+      "sport_key": "soccer",
+      "competition": "Dutch Eredivisie",
+      "home_team": "Excelsior",
+      "away_team": "FC Utrecht",
+      "commence_time": "2026-09-13T10:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Excelsior",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 58,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T11:42:57.070501+00:00"
+    },
+    {
+      "state_key": "36b36c2897de254fb3f14123d4434607:h2h",
+      "event_id": "36b36c2897de254fb3f14123d4434607",
+      "sport_key": "soccer",
+      "competition": "Dutch Eredivisie",
+      "home_team": "Excelsior",
+      "away_team": "FC Utrecht",
+      "commence_time": "2026-09-13T10:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.0,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T11:42:57.435917+00:00"
+    },
+    {
+      "state_key": "36b36c2897de254fb3f14123d4434607:h2h",
+      "event_id": "36b36c2897de254fb3f14123d4434607",
+      "sport_key": "soccer",
+      "competition": "Dutch Eredivisie",
+      "home_team": "Excelsior",
+      "away_team": "FC Utrecht",
+      "commence_time": "2026-09-13T10:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Excelsior",
+      "odds_at_alert": 9.75,
+      "stake_pct": 5.0,
+      "confidence": 18,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T11:42:57.853260+00:00"
+    },
+    {
+      "state_key": "36b36c2897de254fb3f14123d4434607:h2h",
+      "event_id": "36b36c2897de254fb3f14123d4434607",
+      "sport_key": "soccer",
+      "competition": "Dutch Eredivisie",
+      "home_team": "Excelsior",
+      "away_team": "FC Utrecht",
+      "commence_time": "2026-09-13T10:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Excelsior",
+      "odds_at_alert": 9.0,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T11:42:58.223449+00:00"
+    },
+    {
+      "state_key": "36b36c2897de254fb3f14123d4434607:h2h",
+      "event_id": "36b36c2897de254fb3f14123d4434607",
+      "sport_key": "soccer",
+      "competition": "Dutch Eredivisie",
+      "home_team": "Excelsior",
+      "away_team": "FC Utrecht",
+      "commence_time": "2026-09-13T10:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Excelsior",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 33,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T11:42:58.610918+00:00"
+    },
+    {
+      "state_key": "36b36c2897de254fb3f14123d4434607:h2h",
+      "event_id": "36b36c2897de254fb3f14123d4434607",
+      "sport_key": "soccer",
+      "competition": "Dutch Eredivisie",
+      "home_team": "Excelsior",
+      "away_team": "FC Utrecht",
+      "commence_time": "2026-09-13T10:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Excelsior",
+      "odds_at_alert": 10.5,
+      "stake_pct": 5.0,
+      "confidence": 27,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T11:42:58.993094+00:00"
+    },
+    {
+      "state_key": "36b36c2897de254fb3f14123d4434607:h2h",
+      "event_id": "36b36c2897de254fb3f14123d4434607",
+      "sport_key": "soccer",
+      "competition": "Dutch Eredivisie",
+      "home_team": "Excelsior",
+      "away_team": "FC Utrecht",
+      "commence_time": "2026-09-13T10:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Excelsior",
+      "odds_at_alert": 10.0,
+      "stake_pct": 5.0,
+      "confidence": 21,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T11:42:59.406160+00:00"
+    },
+    {
+      "state_key": "36b36c2897de254fb3f14123d4434607:h2h",
+      "event_id": "36b36c2897de254fb3f14123d4434607",
+      "sport_key": "soccer",
+      "competition": "Dutch Eredivisie",
+      "home_team": "Excelsior",
+      "away_team": "FC Utrecht",
+      "commence_time": "2026-09-13T10:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Excelsior",
+      "odds_at_alert": 9.5,
+      "stake_pct": 5.0,
+      "confidence": 15,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T11:42:59.775419+00:00"
+    },
+    {
+      "state_key": "36b36c2897de254fb3f14123d4434607:h2h",
+      "event_id": "36b36c2897de254fb3f14123d4434607",
+      "sport_key": "soccer",
+      "competition": "Dutch Eredivisie",
+      "home_team": "Excelsior",
+      "away_team": "FC Utrecht",
+      "commence_time": "2026-09-13T10:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Excelsior",
+      "odds_at_alert": 11.5,
+      "stake_pct": 5.0,
+      "confidence": 39,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T11:43:00.170589+00:00"
+    },
+    {
+      "state_key": "36b36c2897de254fb3f14123d4434607:h2h",
+      "event_id": "36b36c2897de254fb3f14123d4434607",
+      "sport_key": "soccer",
+      "competition": "Dutch Eredivisie",
+      "home_team": "Excelsior",
+      "away_team": "FC Utrecht",
+      "commence_time": "2026-09-13T10:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Excelsior",
+      "odds_at_alert": 11.5,
+      "stake_pct": 5.0,
+      "confidence": 39,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T11:43:00.635416+00:00"
+    },
+    {
+      "state_key": "36b36c2897de254fb3f14123d4434607:h2h",
+      "event_id": "36b36c2897de254fb3f14123d4434607",
+      "sport_key": "soccer",
+      "competition": "Dutch Eredivisie",
+      "home_team": "Excelsior",
+      "away_team": "FC Utrecht",
+      "commence_time": "2026-09-13T10:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.9,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T11:43:01.038757+00:00"
+    },
+    {
+      "state_key": "36b36c2897de254fb3f14123d4434607:h2h",
+      "event_id": "36b36c2897de254fb3f14123d4434607",
+      "sport_key": "soccer",
+      "competition": "Dutch Eredivisie",
+      "home_team": "Excelsior",
+      "away_team": "FC Utrecht",
+      "commence_time": "2026-09-13T10:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Excelsior",
+      "odds_at_alert": 16.0,
+      "stake_pct": 5.0,
+      "confidence": 94,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T11:43:01.407678+00:00"
+    },
+    {
+      "state_key": "36b36c2897de254fb3f14123d4434607:h2h",
+      "event_id": "36b36c2897de254fb3f14123d4434607",
+      "sport_key": "soccer",
+      "competition": "Dutch Eredivisie",
+      "home_team": "Excelsior",
+      "away_team": "FC Utrecht",
+      "commence_time": "2026-09-13T10:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.1,
+      "stake_pct": 3.0,
+      "confidence": 12,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T11:43:01.831899+00:00"
+    },
+    {
+      "state_key": "36b36c2897de254fb3f14123d4434607:h2h",
+      "event_id": "36b36c2897de254fb3f14123d4434607",
+      "sport_key": "soccer",
+      "competition": "Dutch Eredivisie",
+      "home_team": "Excelsior",
+      "away_team": "FC Utrecht",
+      "commence_time": "2026-09-13T10:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Excelsior",
+      "odds_at_alert": 9.0,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T11:43:02.225158+00:00"
+    },
+    {
+      "state_key": "36b36c2897de254fb3f14123d4434607:h2h",
+      "event_id": "36b36c2897de254fb3f14123d4434607",
+      "sport_key": "soccer",
+      "competition": "Dutch Eredivisie",
+      "home_team": "Excelsior",
+      "away_team": "FC Utrecht",
+      "commence_time": "2026-09-13T10:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Excelsior",
+      "odds_at_alert": 16.0,
+      "stake_pct": 5.0,
+      "confidence": 94,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T11:43:02.621710+00:00"
+    },
+    {
+      "state_key": "36b36c2897de254fb3f14123d4434607:h2h",
+      "event_id": "36b36c2897de254fb3f14123d4434607",
+      "sport_key": "soccer",
+      "competition": "Dutch Eredivisie",
+      "home_team": "Excelsior",
+      "away_team": "FC Utrecht",
+      "commence_time": "2026-09-13T10:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.1,
+      "stake_pct": 3.0,
+      "confidence": 12,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T11:43:03.022632+00:00"
+    },
+    {
+      "state_key": "daaf99f01cb6c822ef263918b831912c:h2h",
+      "event_id": "daaf99f01cb6c822ef263918b831912c",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Sheffield United",
+      "away_team": "Wolverhampton Wanderers",
+      "commence_time": "2026-09-13T11:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 2.74,
+      "stake_pct": 2.0,
+      "confidence": 5,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T11:43:03.429209+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "8a680eaa21aec77196a6c615d4b75322:h2h|888sport|LA Galaxy",
-    "8a680eaa21aec77196a6c615d4b75322:h2h|888sport|Seattle Sounders FC",
-    "8a680eaa21aec77196a6c615d4b75322:h2h|Betclic (FR)|LA Galaxy",
-    "8a680eaa21aec77196a6c615d4b75322:h2h|Betclic (FR)|Seattle Sounders FC",
-    "8a680eaa21aec77196a6c615d4b75322:h2h|Betsson|LA Galaxy",
-    "8a680eaa21aec77196a6c615d4b75322:h2h|Betsson|Seattle Sounders FC",
-    "8a680eaa21aec77196a6c615d4b75322:h2h|Coolbet|LA Galaxy",
-    "8a680eaa21aec77196a6c615d4b75322:h2h|Coolbet|Seattle Sounders FC",
-    "8a680eaa21aec77196a6c615d4b75322:h2h|LeoVegas (SE)|LA Galaxy",
-    "8a680eaa21aec77196a6c615d4b75322:h2h|LeoVegas (SE)|Seattle Sounders FC",
-    "8a680eaa21aec77196a6c615d4b75322:h2h|MyBookie.ag|LA Galaxy",
-    "8a680eaa21aec77196a6c615d4b75322:h2h|MyBookie.ag|Seattle Sounders FC",
-    "8a680eaa21aec77196a6c615d4b75322:h2h|Nordic Bet|LA Galaxy",
-    "8a680eaa21aec77196a6c615d4b75322:h2h|Nordic Bet|Seattle Sounders FC",
-    "8a680eaa21aec77196a6c615d4b75322:h2h|PMU (FR)|LA Galaxy",
-    "8a680eaa21aec77196a6c615d4b75322:h2h|PMU (FR)|Seattle Sounders FC",
-    "8a680eaa21aec77196a6c615d4b75322:h2h|Tipico|LA Galaxy",
-    "8a680eaa21aec77196a6c615d4b75322:h2h|Tipico|Seattle Sounders FC",
-    "8a680eaa21aec77196a6c615d4b75322:h2h|Unibet (NL)|LA Galaxy",
-    "8a680eaa21aec77196a6c615d4b75322:h2h|Unibet (NL)|Seattle Sounders FC",
-    "8a680eaa21aec77196a6c615d4b75322:h2h|Unibet (SE)|LA Galaxy",
-    "8a680eaa21aec77196a6c615d4b75322:h2h|Unibet (SE)|Seattle Sounders FC",
-    "8a680eaa21aec77196a6c615d4b75322:h2h|Winamax (DE)|LA Galaxy",
-    "8a680eaa21aec77196a6c615d4b75322:h2h|Winamax (DE)|Seattle Sounders FC",
-    "8a680eaa21aec77196a6c615d4b75322:h2h|Winamax (FR)|LA Galaxy",
-    "8a680eaa21aec77196a6c615d4b75322:h2h|Winamax (FR)|Seattle Sounders FC"
+    "36b36c2897de254fb3f14123d4434607:h2h|888sport|Excelsior",
+    "36b36c2897de254fb3f14123d4434607:h2h|Betclic (FR)|Excelsior",
+    "36b36c2897de254fb3f14123d4434607:h2h|Betfair|Draw",
+    "36b36c2897de254fb3f14123d4434607:h2h|Betfair|Excelsior",
+    "36b36c2897de254fb3f14123d4434607:h2h|Betsson|Draw",
+    "36b36c2897de254fb3f14123d4434607:h2h|Betsson|Excelsior",
+    "36b36c2897de254fb3f14123d4434607:h2h|Coolbet|Draw",
+    "36b36c2897de254fb3f14123d4434607:h2h|Coolbet|Excelsior",
+    "36b36c2897de254fb3f14123d4434607:h2h|LeoVegas (SE)|Excelsior",
+    "36b36c2897de254fb3f14123d4434607:h2h|Matchbook|Draw",
+    "36b36c2897de254fb3f14123d4434607:h2h|Matchbook|Excelsior",
+    "36b36c2897de254fb3f14123d4434607:h2h|Nordic Bet|Excelsior",
+    "36b36c2897de254fb3f14123d4434607:h2h|PMU (FR)|Excelsior",
+    "36b36c2897de254fb3f14123d4434607:h2h|Tipico|Excelsior",
+    "36b36c2897de254fb3f14123d4434607:h2h|Unibet (NL)|Excelsior",
+    "36b36c2897de254fb3f14123d4434607:h2h|Unibet (SE)|Excelsior",
+    "36b36c2897de254fb3f14123d4434607:h2h|Winamax (DE)|Excelsior",
+    "36b36c2897de254fb3f14123d4434607:h2h|Winamax (FR)|Excelsior",
+    "40488ef59dd79830e21bb0136c09e2b1:h2h|Betfair|Gwangju FC",
+    "40488ef59dd79830e21bb0136c09e2b1:h2h|Betsson|FC Anyang",
+    "40488ef59dd79830e21bb0136c09e2b1:h2h|Coolbet|FC Anyang",
+    "40488ef59dd79830e21bb0136c09e2b1:h2h|Coolbet|Gwangju FC",
+    "40488ef59dd79830e21bb0136c09e2b1:h2h|LeoVegas (SE)|FC Anyang",
+    "40488ef59dd79830e21bb0136c09e2b1:h2h|LeoVegas (SE)|Gwangju FC",
+    "40488ef59dd79830e21bb0136c09e2b1:h2h|Matchbook|FC Anyang",
+    "40488ef59dd79830e21bb0136c09e2b1:h2h|Matchbook|Gwangju FC",
+    "40488ef59dd79830e21bb0136c09e2b1:h2h|PMU (FR)|FC Anyang",
+    "40488ef59dd79830e21bb0136c09e2b1:h2h|PMU (FR)|Gwangju FC",
+    "40488ef59dd79830e21bb0136c09e2b1:h2h|Tipico|FC Anyang",
+    "40488ef59dd79830e21bb0136c09e2b1:h2h|Tipico|Gwangju FC",
+    "40488ef59dd79830e21bb0136c09e2b1:h2h|Unibet (NL)|FC Anyang",
+    "40488ef59dd79830e21bb0136c09e2b1:h2h|Unibet (NL)|Gwangju FC",
+    "40488ef59dd79830e21bb0136c09e2b1:h2h|Unibet (SE)|FC Anyang",
+    "40488ef59dd79830e21bb0136c09e2b1:h2h|Unibet (SE)|Gwangju FC",
+    "daaf99f01cb6c822ef263918b831912c:h2h|Betfair|Draw",
+    "e0e830c91f45c64995f51a6b090a54b3:h2h|888sport|Cracovia Kraków",
+    "e0e830c91f45c64995f51a6b090a54b3:h2h|888sport|Draw",
+    "e0e830c91f45c64995f51a6b090a54b3:h2h|Betclic (FR)|Cracovia Kraków",
+    "e0e830c91f45c64995f51a6b090a54b3:h2h|Betclic (FR)|Draw",
+    "e0e830c91f45c64995f51a6b090a54b3:h2h|Betfair|Cracovia Kraków",
+    "e0e830c91f45c64995f51a6b090a54b3:h2h|Betfair|Draw",
+    "e0e830c91f45c64995f51a6b090a54b3:h2h|Betsson|Cracovia Kraków",
+    "e0e830c91f45c64995f51a6b090a54b3:h2h|Betsson|Draw",
+    "e0e830c91f45c64995f51a6b090a54b3:h2h|Coolbet|Cracovia Kraków",
+    "e0e830c91f45c64995f51a6b090a54b3:h2h|Coolbet|Draw",
+    "e0e830c91f45c64995f51a6b090a54b3:h2h|Nordic Bet|Cracovia Kraków",
+    "e0e830c91f45c64995f51a6b090a54b3:h2h|Nordic Bet|Draw",
+    "e0e830c91f45c64995f51a6b090a54b3:h2h|Unibet (NL)|Cracovia Kraków",
+    "e0e830c91f45c64995f51a6b090a54b3:h2h|Unibet (NL)|Draw",
+    "e0e830c91f45c64995f51a6b090a54b3:h2h|Unibet (SE)|Cracovia Kraków",
+    "e0e830c91f45c64995f51a6b090a54b3:h2h|Unibet (SE)|Draw",
+    "e0e830c91f45c64995f51a6b090a54b3:h2h|Winamax (DE)|Cracovia Kraków",
+    "e0e830c91f45c64995f51a6b090a54b3:h2h|Winamax (DE)|Draw",
+    "e0e830c91f45c64995f51a6b090a54b3:h2h|Winamax (FR)|Cracovia Kraków",
+    "e0e830c91f45c64995f51a6b090a54b3:h2h|Winamax (FR)|Draw"
   ]
 }
