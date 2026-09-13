@@ -1,144 +1,193 @@
 {
   "snapshots": {
-    "aa8a987efee9de3e4c2b32f340a27605:h2h": {
-      "Betclic (FR)": {
-        "Atlas": 45.0,
-        "Toluca": 1.0,
-        "Draw": 30.0
+    "9383e3ea3dbc7d6f1332ab285396af76:h2h": {
+      "PMU (FR)": {
+        "Houston Dynamo": 51.0,
+        "San Jose Earthquakes": 1.02,
+        "Draw": 6.5
       },
-      "Nordic Bet": {
-        "Atlas": 34.0,
-        "Toluca": 1.0,
-        "Draw": 21.0
-      },
-      "Betsson": {
-        "Atlas": 34.0,
-        "Toluca": 1.0,
-        "Draw": 21.0
-      },
-      "888sport": {
-        "Atlas": 126.0,
-        "Toluca": 1.0,
-        "Draw": 51.0
-      },
-      "Betfair": {
-        "Atlas": 550.0,
-        "Toluca": 1.01,
-        "Draw": 60.0
-      },
-      "Matchbook": {
-        "Atlas": 550.0,
-        "Toluca": 1.01,
-        "Draw": 110.0
-      }
-    },
-    "bc82a3b37e3d40a9646122201c9d26c5:h2h": {
-      "Winamax (DE)": {
-        "Talleres": 1.21,
-        "Union Santa Fe": 16.0,
-        "Draw": 4.9
-      },
-      "Winamax (FR)": {
-        "Talleres": 1.23,
-        "Union Santa Fe": 15.0,
-        "Draw": 4.6
+      "Unibet (SE)": {
+        "Houston Dynamo": 251.0,
+        "San Jose Earthquakes": 1.02,
+        "Draw": 20.0
       },
       "Betclic (FR)": {
-        "Talleres": 1.19,
-        "Union Santa Fe": 12.75,
-        "Draw": 4.6
+        "Houston Dynamo": 70.0,
+        "San Jose Earthquakes": 1.06,
+        "Draw": 4.95
       },
-      "Betfair": {
-        "Talleres": 1.28,
-        "Union Santa Fe": 23.0,
+      "MyBookie.ag": {
+        "Houston Dynamo": 12.25,
+        "San Jose Earthquakes": 1.12,
         "Draw": 5.5
       },
-      "Nordic Bet": {
-        "Talleres": 1.2,
-        "Union Santa Fe": 16.0,
-        "Draw": 4.85
-      },
-      "Betsson": {
-        "Talleres": 1.2,
-        "Union Santa Fe": 16.0,
-        "Draw": 4.85
-      },
-      "Unibet (SE)": {
-        "Talleres": 1.3,
-        "Union Santa Fe": 14.0,
-        "Draw": 4.1
-      },
-      "LeoVegas (SE)": {
-        "Talleres": 1.24,
-        "Union Santa Fe": 12.5,
-        "Draw": 3.85
-      },
-      "Pinnacle": {
-        "Talleres": 1.25,
-        "Union Santa Fe": 18.86,
-        "Draw": 5.02
-      }
-    },
-    "64f1ad680cce37c2e5bfab6c254a9d59:h2h": {
-      "LeoVegas (SE)": {
-        "Palestino": 8.0,
-        "Universidad Católica (CHI)": 1.29,
-        "Draw": 3.75
-      },
-      "Unibet (SE)": {
-        "Palestino": 8.5,
-        "Universidad Católica (CHI)": 1.36,
-        "Draw": 3.95
-      },
-      "Winamax (FR)": {
-        "Palestino": 7.75,
-        "Universidad Católica (CHI)": 1.38,
-        "Draw": 3.75
+      "Coolbet": {
+        "Houston Dynamo": 100.0,
+        "San Jose Earthquakes": 1.0,
+        "Draw": 16.0
       },
       "Winamax (DE)": {
-        "Palestino": 8.0,
-        "Universidad Católica (CHI)": 1.39,
-        "Draw": 3.9
+        "Houston Dynamo": 225.0,
+        "San Jose Earthquakes": 1.02,
+        "Draw": 15.0
       },
-      "Betfair": {
-        "Palestino": 9.8,
-        "Universidad Católica (CHI)": 1.45,
-        "Draw": 4.4
-      },
-      "Betsson": {
-        "Palestino": 8.6,
-        "Universidad Católica (CHI)": 1.38,
-        "Draw": 3.9
-      },
-      "Nordic Bet": {
-        "Palestino": 8.6,
-        "Universidad Católica (CHI)": 1.38,
-        "Draw": 3.9
-      },
-      "Coolbet": {
-        "Palestino": 10.0,
-        "Universidad Católica (CHI)": 1.44,
-        "Draw": 4.0
+      "Winamax (FR)": {
+        "Houston Dynamo": 225.0,
+        "San Jose Earthquakes": 1.04,
+        "Draw": 14.5
       },
       "888sport": {
-        "Palestino": 7.0,
-        "Universidad Católica (CHI)": 1.4,
-        "Draw": 3.8
+        "Houston Dynamo": 126.0,
+        "San Jose Earthquakes": 1.03,
+        "Draw": 13.0
       },
-      "Pinnacle": {
-        "Palestino": 8.93,
-        "Universidad Católica (CHI)": 1.41,
-        "Draw": 4.08
+      "Betfair": {
+        "Houston Dynamo": 1000.0,
+        "San Jose Earthquakes": 1.04,
+        "Draw": 12.0
+      },
+      "Betsson": {
+        "Houston Dynamo": 126.0,
+        "San Jose Earthquakes": 1.0,
+        "Draw": 15.0
+      },
+      "Nordic Bet": {
+        "Houston Dynamo": 130.0,
+        "San Jose Earthquakes": 1.01,
+        "Draw": 13.0
       },
       "Tipico": {
-        "Palestino": 7.5,
-        "Universidad Católica (CHI)": 1.35,
-        "Draw": 4.3
+        "Houston Dynamo": 200.0,
+        "San Jose Earthquakes": 1.02,
+        "Draw": 11.0
+      }
+    },
+    "8a680eaa21aec77196a6c615d4b75322:h2h": {
+      "PMU (FR)": {
+        "LA Galaxy": 7.5,
+        "Seattle Sounders FC": 15.0,
+        "Draw": 1.04
+      },
+      "Unibet (SE)": {
+        "LA Galaxy": 15.0,
+        "Seattle Sounders FC": 26.0,
+        "Draw": 1.04
+      },
+      "LeoVegas (SE)": {
+        "LA Galaxy": 14.0,
+        "Seattle Sounders FC": 26.0,
+        "Draw": 1.01
+      },
+      "Unibet (NL)": {
+        "LA Galaxy": 14.0,
+        "Seattle Sounders FC": 26.0,
+        "Draw": 1.02
+      },
+      "Betclic (FR)": {
+        "LA Galaxy": 8.25,
+        "Seattle Sounders FC": 10.0,
+        "Draw": 1.08
+      },
+      "Coolbet": {
+        "LA Galaxy": 16.0,
+        "Seattle Sounders FC": 22.0,
+        "Draw": 1.04
+      },
+      "MyBookie.ag": {
+        "LA Galaxy": 5.25,
+        "Seattle Sounders FC": 7.0,
+        "Draw": 1.22
+      },
+      "Winamax (DE)": {
+        "LA Galaxy": 12.0,
+        "Seattle Sounders FC": 16.0,
+        "Draw": 1.06
+      },
+      "Winamax (FR)": {
+        "LA Galaxy": 11.5,
+        "Seattle Sounders FC": 15.0,
+        "Draw": 1.09
+      },
+      "Betfair": {
+        "LA Galaxy": 1.01,
+        "Seattle Sounders FC": 1.01
+      },
+      "888sport": {
+        "LA Galaxy": 11.0,
+        "Seattle Sounders FC": 13.0,
+        "Draw": 1.1
+      },
+      "Nordic Bet": {
+        "LA Galaxy": 23.0,
+        "Seattle Sounders FC": 29.0,
+        "Draw": 1.0
+      },
+      "Betsson": {
+        "LA Galaxy": 17.0,
+        "Seattle Sounders FC": 21.0,
+        "Draw": 1.03
+      },
+      "Pinnacle": {
+        "LA Galaxy": 4.59,
+        "Seattle Sounders FC": 5.43,
+        "Draw": 1.51
+      },
+      "Tipico": {
+        "LA Galaxy": 12.0,
+        "Seattle Sounders FC": 15.0,
+        "Draw": 1.05
+      }
+    },
+    "8afda1fcbcf75b37a94fae32c6783e49:h2h": {
+      "Unibet (SE)": {
+        "América": 46.0,
+        "Cruz Azul": 1.02,
+        "Draw": 18.0
+      },
+      "Unibet (NL)": {
+        "América": 46.0,
+        "Cruz Azul": 1.02,
+        "Draw": 18.0
+      },
+      "Nordic Bet": {
+        "América": 36.0,
+        "Cruz Azul": 1.02,
+        "Draw": 15.0
+      },
+      "Betsson": {
+        "América": 36.0,
+        "Cruz Azul": 1.02,
+        "Draw": 15.0
+      },
+      "Betclic (FR)": {
+        "América": 26.0,
+        "Cruz Azul": 1.02,
+        "Draw": 12.0
+      },
+      "Coolbet": {
+        "América": 50.0,
+        "Cruz Azul": 1.03,
+        "Draw": 20.0
+      },
+      "Betfair": {
+        "América": 75.0,
+        "Cruz Azul": 1.05,
+        "Draw": 23.0
+      },
+      "888sport": {
+        "América": 41.0,
+        "Cruz Azul": 1.02,
+        "Draw": 15.0
+      },
+      "Tipico": {
+        "América": 35.0,
+        "Cruz Azul": 1.02,
+        "Draw": 11.0
       },
       "Matchbook": {
-        "Palestino": 9.8,
-        "Universidad Católica (CHI)": 1.45,
-        "Draw": 4.4
+        "América": 75.0,
+        "Cruz Azul": 1.04,
+        "Draw": 26.0
       }
     }
   },
@@ -4495,11 +4544,451 @@
       "confidence": 5,
       "alert_type": "value",
       "alerted_at": "2026-09-12T23:57:55.920720+00:00"
+    },
+    {
+      "state_key": "8a680eaa21aec77196a6c615d4b75322:h2h",
+      "event_id": "8a680eaa21aec77196a6c615d4b75322",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "LA Galaxy",
+      "away_team": "Seattle Sounders FC",
+      "commence_time": "2026-09-13T02:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "LA Galaxy",
+      "odds_at_alert": 7.5,
+      "stake_pct": 5.0,
+      "confidence": 54,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T04:39:27.448327+00:00"
+    },
+    {
+      "state_key": "8a680eaa21aec77196a6c615d4b75322:h2h",
+      "event_id": "8a680eaa21aec77196a6c615d4b75322",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "LA Galaxy",
+      "away_team": "Seattle Sounders FC",
+      "commence_time": "2026-09-13T02:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Seattle Sounders FC",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 160,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T04:39:27.813292+00:00"
+    },
+    {
+      "state_key": "8a680eaa21aec77196a6c615d4b75322:h2h",
+      "event_id": "8a680eaa21aec77196a6c615d4b75322",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "LA Galaxy",
+      "away_team": "Seattle Sounders FC",
+      "commence_time": "2026-09-13T02:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "LA Galaxy",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 207,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T04:39:28.185802+00:00"
+    },
+    {
+      "state_key": "8a680eaa21aec77196a6c615d4b75322:h2h",
+      "event_id": "8a680eaa21aec77196a6c615d4b75322",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "LA Galaxy",
+      "away_team": "Seattle Sounders FC",
+      "commence_time": "2026-09-13T02:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Seattle Sounders FC",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 350,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T04:39:28.535671+00:00"
+    },
+    {
+      "state_key": "8a680eaa21aec77196a6c615d4b75322:h2h",
+      "event_id": "8a680eaa21aec77196a6c615d4b75322",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "LA Galaxy",
+      "away_team": "Seattle Sounders FC",
+      "commence_time": "2026-09-13T02:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "LA Galaxy",
+      "odds_at_alert": 14.0,
+      "stake_pct": 5.0,
+      "confidence": 187,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T04:39:28.883667+00:00"
+    },
+    {
+      "state_key": "8a680eaa21aec77196a6c615d4b75322:h2h",
+      "event_id": "8a680eaa21aec77196a6c615d4b75322",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "LA Galaxy",
+      "away_team": "Seattle Sounders FC",
+      "commence_time": "2026-09-13T02:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Seattle Sounders FC",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 350,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T04:39:29.226691+00:00"
+    },
+    {
+      "state_key": "8a680eaa21aec77196a6c615d4b75322:h2h",
+      "event_id": "8a680eaa21aec77196a6c615d4b75322",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "LA Galaxy",
+      "away_team": "Seattle Sounders FC",
+      "commence_time": "2026-09-13T02:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "LA Galaxy",
+      "odds_at_alert": 14.0,
+      "stake_pct": 5.0,
+      "confidence": 187,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T04:39:29.573591+00:00"
+    },
+    {
+      "state_key": "8a680eaa21aec77196a6c615d4b75322:h2h",
+      "event_id": "8a680eaa21aec77196a6c615d4b75322",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "LA Galaxy",
+      "away_team": "Seattle Sounders FC",
+      "commence_time": "2026-09-13T02:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Seattle Sounders FC",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 350,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T04:39:29.918796+00:00"
+    },
+    {
+      "state_key": "8a680eaa21aec77196a6c615d4b75322:h2h",
+      "event_id": "8a680eaa21aec77196a6c615d4b75322",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "LA Galaxy",
+      "away_team": "Seattle Sounders FC",
+      "commence_time": "2026-09-13T02:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "LA Galaxy",
+      "odds_at_alert": 8.25,
+      "stake_pct": 5.0,
+      "confidence": 69,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T04:39:30.325083+00:00"
+    },
+    {
+      "state_key": "8a680eaa21aec77196a6c615d4b75322:h2h",
+      "event_id": "8a680eaa21aec77196a6c615d4b75322",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "LA Galaxy",
+      "away_team": "Seattle Sounders FC",
+      "commence_time": "2026-09-13T02:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Seattle Sounders FC",
+      "odds_at_alert": 10.0,
+      "stake_pct": 5.0,
+      "confidence": 73,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T04:39:30.688356+00:00"
+    },
+    {
+      "state_key": "8a680eaa21aec77196a6c615d4b75322:h2h",
+      "event_id": "8a680eaa21aec77196a6c615d4b75322",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "LA Galaxy",
+      "away_team": "Seattle Sounders FC",
+      "commence_time": "2026-09-13T02:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "LA Galaxy",
+      "odds_at_alert": 16.0,
+      "stake_pct": 5.0,
+      "confidence": 228,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T04:39:31.036753+00:00"
+    },
+    {
+      "state_key": "8a680eaa21aec77196a6c615d4b75322:h2h",
+      "event_id": "8a680eaa21aec77196a6c615d4b75322",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "LA Galaxy",
+      "away_team": "Seattle Sounders FC",
+      "commence_time": "2026-09-13T02:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Seattle Sounders FC",
+      "odds_at_alert": 22.0,
+      "stake_pct": 5.0,
+      "confidence": 281,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T04:39:31.369481+00:00"
+    },
+    {
+      "state_key": "8a680eaa21aec77196a6c615d4b75322:h2h",
+      "event_id": "8a680eaa21aec77196a6c615d4b75322",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "LA Galaxy",
+      "away_team": "Seattle Sounders FC",
+      "commence_time": "2026-09-13T02:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "LA Galaxy",
+      "odds_at_alert": 5.25,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T04:39:31.729207+00:00"
+    },
+    {
+      "state_key": "8a680eaa21aec77196a6c615d4b75322:h2h",
+      "event_id": "8a680eaa21aec77196a6c615d4b75322",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "LA Galaxy",
+      "away_team": "Seattle Sounders FC",
+      "commence_time": "2026-09-13T02:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Seattle Sounders FC",
+      "odds_at_alert": 7.0,
+      "stake_pct": 5.0,
+      "confidence": 21,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T04:39:32.067698+00:00"
+    },
+    {
+      "state_key": "8a680eaa21aec77196a6c615d4b75322:h2h",
+      "event_id": "8a680eaa21aec77196a6c615d4b75322",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "LA Galaxy",
+      "away_team": "Seattle Sounders FC",
+      "commence_time": "2026-09-13T02:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "LA Galaxy",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 146,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T04:39:32.400226+00:00"
+    },
+    {
+      "state_key": "8a680eaa21aec77196a6c615d4b75322:h2h",
+      "event_id": "8a680eaa21aec77196a6c615d4b75322",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "LA Galaxy",
+      "away_team": "Seattle Sounders FC",
+      "commence_time": "2026-09-13T02:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Seattle Sounders FC",
+      "odds_at_alert": 16.0,
+      "stake_pct": 5.0,
+      "confidence": 177,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T04:39:32.747091+00:00"
+    },
+    {
+      "state_key": "8a680eaa21aec77196a6c615d4b75322:h2h",
+      "event_id": "8a680eaa21aec77196a6c615d4b75322",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "LA Galaxy",
+      "away_team": "Seattle Sounders FC",
+      "commence_time": "2026-09-13T02:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "LA Galaxy",
+      "odds_at_alert": 11.5,
+      "stake_pct": 5.0,
+      "confidence": 135,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T04:39:33.091313+00:00"
+    },
+    {
+      "state_key": "8a680eaa21aec77196a6c615d4b75322:h2h",
+      "event_id": "8a680eaa21aec77196a6c615d4b75322",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "LA Galaxy",
+      "away_team": "Seattle Sounders FC",
+      "commence_time": "2026-09-13T02:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Seattle Sounders FC",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 160,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T04:39:33.446356+00:00"
+    },
+    {
+      "state_key": "8a680eaa21aec77196a6c615d4b75322:h2h",
+      "event_id": "8a680eaa21aec77196a6c615d4b75322",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "LA Galaxy",
+      "away_team": "Seattle Sounders FC",
+      "commence_time": "2026-09-13T02:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "LA Galaxy",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 125,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T04:39:33.787239+00:00"
+    },
+    {
+      "state_key": "8a680eaa21aec77196a6c615d4b75322:h2h",
+      "event_id": "8a680eaa21aec77196a6c615d4b75322",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "LA Galaxy",
+      "away_team": "Seattle Sounders FC",
+      "commence_time": "2026-09-13T02:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Seattle Sounders FC",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 125,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T04:39:34.197630+00:00"
+    },
+    {
+      "state_key": "8a680eaa21aec77196a6c615d4b75322:h2h",
+      "event_id": "8a680eaa21aec77196a6c615d4b75322",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "LA Galaxy",
+      "away_team": "Seattle Sounders FC",
+      "commence_time": "2026-09-13T02:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "LA Galaxy",
+      "odds_at_alert": 23.0,
+      "stake_pct": 5.0,
+      "confidence": 371,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T04:39:34.561699+00:00"
+    },
+    {
+      "state_key": "8a680eaa21aec77196a6c615d4b75322:h2h",
+      "event_id": "8a680eaa21aec77196a6c615d4b75322",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "LA Galaxy",
+      "away_team": "Seattle Sounders FC",
+      "commence_time": "2026-09-13T02:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Seattle Sounders FC",
+      "odds_at_alert": 29.0,
+      "stake_pct": 5.0,
+      "confidence": 402,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T04:39:34.927722+00:00"
+    },
+    {
+      "state_key": "8a680eaa21aec77196a6c615d4b75322:h2h",
+      "event_id": "8a680eaa21aec77196a6c615d4b75322",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "LA Galaxy",
+      "away_team": "Seattle Sounders FC",
+      "commence_time": "2026-09-13T02:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "LA Galaxy",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 248,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T04:39:35.264376+00:00"
+    },
+    {
+      "state_key": "8a680eaa21aec77196a6c615d4b75322:h2h",
+      "event_id": "8a680eaa21aec77196a6c615d4b75322",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "LA Galaxy",
+      "away_team": "Seattle Sounders FC",
+      "commence_time": "2026-09-13T02:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Seattle Sounders FC",
+      "odds_at_alert": 21.0,
+      "stake_pct": 5.0,
+      "confidence": 263,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T04:39:35.602196+00:00"
+    },
+    {
+      "state_key": "8a680eaa21aec77196a6c615d4b75322:h2h",
+      "event_id": "8a680eaa21aec77196a6c615d4b75322",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "LA Galaxy",
+      "away_team": "Seattle Sounders FC",
+      "commence_time": "2026-09-13T02:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "LA Galaxy",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 146,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T04:39:35.940040+00:00"
+    },
+    {
+      "state_key": "8a680eaa21aec77196a6c615d4b75322:h2h",
+      "event_id": "8a680eaa21aec77196a6c615d4b75322",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "LA Galaxy",
+      "away_team": "Seattle Sounders FC",
+      "commence_time": "2026-09-13T02:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Seattle Sounders FC",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 160,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T04:39:36.275918+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "64f1ad680cce37c2e5bfab6c254a9d59:h2h|Coolbet|Palestino",
-    "bc82a3b37e3d40a9646122201c9d26c5:h2h|Betfair|Union Santa Fe"
+    "8a680eaa21aec77196a6c615d4b75322:h2h|888sport|LA Galaxy",
+    "8a680eaa21aec77196a6c615d4b75322:h2h|888sport|Seattle Sounders FC",
+    "8a680eaa21aec77196a6c615d4b75322:h2h|Betclic (FR)|LA Galaxy",
+    "8a680eaa21aec77196a6c615d4b75322:h2h|Betclic (FR)|Seattle Sounders FC",
+    "8a680eaa21aec77196a6c615d4b75322:h2h|Betsson|LA Galaxy",
+    "8a680eaa21aec77196a6c615d4b75322:h2h|Betsson|Seattle Sounders FC",
+    "8a680eaa21aec77196a6c615d4b75322:h2h|Coolbet|LA Galaxy",
+    "8a680eaa21aec77196a6c615d4b75322:h2h|Coolbet|Seattle Sounders FC",
+    "8a680eaa21aec77196a6c615d4b75322:h2h|LeoVegas (SE)|LA Galaxy",
+    "8a680eaa21aec77196a6c615d4b75322:h2h|LeoVegas (SE)|Seattle Sounders FC",
+    "8a680eaa21aec77196a6c615d4b75322:h2h|MyBookie.ag|LA Galaxy",
+    "8a680eaa21aec77196a6c615d4b75322:h2h|MyBookie.ag|Seattle Sounders FC",
+    "8a680eaa21aec77196a6c615d4b75322:h2h|Nordic Bet|LA Galaxy",
+    "8a680eaa21aec77196a6c615d4b75322:h2h|Nordic Bet|Seattle Sounders FC",
+    "8a680eaa21aec77196a6c615d4b75322:h2h|PMU (FR)|LA Galaxy",
+    "8a680eaa21aec77196a6c615d4b75322:h2h|PMU (FR)|Seattle Sounders FC",
+    "8a680eaa21aec77196a6c615d4b75322:h2h|Tipico|LA Galaxy",
+    "8a680eaa21aec77196a6c615d4b75322:h2h|Tipico|Seattle Sounders FC",
+    "8a680eaa21aec77196a6c615d4b75322:h2h|Unibet (NL)|LA Galaxy",
+    "8a680eaa21aec77196a6c615d4b75322:h2h|Unibet (NL)|Seattle Sounders FC",
+    "8a680eaa21aec77196a6c615d4b75322:h2h|Unibet (SE)|LA Galaxy",
+    "8a680eaa21aec77196a6c615d4b75322:h2h|Unibet (SE)|Seattle Sounders FC",
+    "8a680eaa21aec77196a6c615d4b75322:h2h|Winamax (DE)|LA Galaxy",
+    "8a680eaa21aec77196a6c615d4b75322:h2h|Winamax (DE)|Seattle Sounders FC",
+    "8a680eaa21aec77196a6c615d4b75322:h2h|Winamax (FR)|LA Galaxy",
+    "8a680eaa21aec77196a6c615d4b75322:h2h|Winamax (FR)|Seattle Sounders FC"
   ]
 }
