@@ -1,77 +1,201 @@
 {
   "snapshots": {
-    "e3341f9ceae2da288107983fb9d966cc:h2h": {
-      "Betclic (FR)": {
-        "Genk": 18.0,
-        "Gent": 26.0,
-        "Draw": 1.0
+    "5751b76f18cdad53d0e5590bd7bf2677:h2h": {
+      "Winamax (DE)": {
+        "Brest": 1000.0,
+        "Paris Saint Germain": 1.02,
+        "Draw": 24.0
       },
-      "Unibet (SE)": {
-        "Genk": 41.0,
-        "Gent": 41.0,
-        "Draw": 1.01
+      "Betclic (FR)": {
+        "Brest": 100.0,
+        "Paris Saint Germain": 1.01,
+        "Draw": 15.0
       },
       "Winamax (FR)": {
-        "Genk": 36.0,
-        "Gent": 50.0,
-        "Draw": 1.02
-      },
-      "Winamax (DE)": {
-        "Genk": 36.0,
-        "Gent": 50.0,
-        "Draw": 1.01
-      },
-      "Nordic Bet": {
-        "Genk": 19.0,
-        "Gent": 26.0,
-        "Draw": 1.02
-      },
-      "Betsson": {
-        "Genk": 15.0,
-        "Gent": 19.0,
-        "Draw": 1.05
-      },
-      "Coolbet": {
-        "Genk": 22.0,
-        "Gent": 28.0,
-        "Draw": 1.04
+        "Brest": 1000.0,
+        "Paris Saint Germain": 1.02,
+        "Draw": 23.0
       },
       "Betfair": {
-        "Genk": 1.01,
-        "Gent": 1.01,
-        "Draw": 1.01
+        "Brest": 1000.0,
+        "Paris Saint Germain": 1.01,
+        "Draw": 50.0
       },
-      "Pinnacle": {
-        "Genk": 8.03,
-        "Gent": 9.24,
-        "Draw": 1.2
+      "888sport": {
+        "Brest": 151.0,
+        "Paris Saint Germain": 1.01,
+        "Draw": 23.0
       },
-      "Tipico": {
-        "Genk": 30.0,
-        "Gent": 50.0,
-        "Draw": 1.01
-      }
-    },
-    "6406438af00a2a42a81d6b2f1656d474:h2h": {
-      "Winamax (FR)": {
-        "Barcelona": 1.08,
-        "Levante": 85.0,
-        "Draw": 8.5
-      },
-      "Nordic Bet": {
-        "Barcelona": 1.0,
-        "Levante": 301.0,
-        "Draw": 126.0
+      "Coolbet": {
+        "Brest": 250.0,
+        "Paris Saint Germain": 1.0,
+        "Draw": 28.0
       },
       "Betsson": {
-        "Barcelona": 1.0,
-        "Levante": 301.0,
-        "Draw": 126.0
+        "Brest": 151.0,
+        "Paris Saint Germain": 1.0,
+        "Draw": 17.0
+      },
+      "Nordic Bet": {
+        "Brest": 101.0,
+        "Paris Saint Germain": 1.0,
+        "Draw": 19.0
+      }
+    },
+    "0a91f850039ce571eb6e90b2eed15548:h2h": {
+      "Winamax (DE)": {
+        "Juventus": 15.0,
+        "Sassuolo": 30.0,
+        "Draw": 1.05
+      },
+      "LeoVegas (SE)": {
+        "Juventus": 12.5,
+        "Sassuolo": 30.0,
+        "Draw": 1.03
+      },
+      "Winamax (FR)": {
+        "Juventus": 12.5,
+        "Sassuolo": 27.0,
+        "Draw": 1.07
+      },
+      "Unibet (NL)": {
+        "Juventus": 14.0,
+        "Sassuolo": 35.0,
+        "Draw": 1.04
       },
       "Unibet (SE)": {
-        "Barcelona": 1.03,
-        "Levante": 161.0,
-        "Draw": 14.0
+        "Juventus": 13.0,
+        "Sassuolo": 31.0,
+        "Draw": 1.05
+      },
+      "PMU (FR)": {
+        "Juventus": 12.5,
+        "Sassuolo": 30.0,
+        "Draw": 1.01
+      },
+      "Betclic (FR)": {
+        "Juventus": 10.0,
+        "Sassuolo": 17.0,
+        "Draw": 1.04
+      },
+      "Tipico": {
+        "Juventus": 400.0,
+        "Sassuolo": 1.01,
+        "Draw": 20.0
+      },
+      "888sport": {
+        "Juventus": 9.0,
+        "Sassuolo": 19.0,
+        "Draw": 1.11
+      },
+      "Pinnacle": {
+        "Juventus": 15.61,
+        "Sassuolo": 1.39,
+        "Draw": 3.76
+      },
+      "Betfair": {
+        "Juventus": 390.0,
+        "Sassuolo": 1.04,
+        "Draw": 21.0
+      },
+      "Nordic Bet": {
+        "Juventus": 180.0,
+        "Sassuolo": 1.01,
+        "Draw": 15.0
+      },
+      "Betsson": {
+        "Juventus": 9.6,
+        "Sassuolo": 19.5,
+        "Draw": 1.07
+      },
+      "Coolbet": {
+        "Juventus": 750.0,
+        "Sassuolo": 1.01,
+        "Draw": 20.0
+      }
+    },
+    "c12d564e4bc1801ed6abd2d4d8b962ca:h2h": {
+      "Nordic Bet": {
+        "Atletico Goianiense": 1.0,
+        "Criciuma": 26.0,
+        "Draw": 26.0
+      },
+      "Betsson": {
+        "Atletico Goianiense": 1.0,
+        "Criciuma": 26.0,
+        "Draw": 26.0
+      },
+      "Betfair": {
+        "Atletico Goianiense": 1.01,
+        "Criciuma": 90.0,
+        "Draw": 50.0
+      }
+    },
+    "14e37b5aaf6fec05a01f7e1309025a66:h2h": {
+      "Tipico": {
+        "Atlético Madrid": 1.4,
+        "Real Sociedad": 20.0,
+        "Draw": 3.3
+      },
+      "Winamax (FR)": {
+        "Atlético Madrid": 1.36,
+        "Real Sociedad": 18.0,
+        "Draw": 3.2
+      },
+      "Winamax (DE)": {
+        "Atlético Madrid": 1.39,
+        "Real Sociedad": 19.0,
+        "Draw": 3.35
+      },
+      "Pinnacle": {
+        "Atlético Madrid": 3.65,
+        "Real Sociedad": 4.95,
+        "Draw": 1.74
+      },
+      "Nordic Bet": {
+        "Atlético Madrid": 4.1,
+        "Real Sociedad": 5.35,
+        "Draw": 1.49
+      },
+      "Betsson": {
+        "Atlético Madrid": 4.4,
+        "Real Sociedad": 5.35,
+        "Draw": 1.49
+      },
+      "Betfair": {
+        "Atlético Madrid": 4.3,
+        "Real Sociedad": 7.4,
+        "Draw": 1.53
+      },
+      "PMU (FR)": {
+        "Atlético Madrid": 1.35,
+        "Real Sociedad": 17.0,
+        "Draw": 3.25
+      },
+      "Unibet (NL)": {
+        "Atlético Madrid": 1.38,
+        "Real Sociedad": 18.0,
+        "Draw": 3.45
+      },
+      "Unibet (SE)": {
+        "Atlético Madrid": 1.38,
+        "Real Sociedad": 18.0,
+        "Draw": 3.45
+      },
+      "LeoVegas (SE)": {
+        "Atlético Madrid": 1.38,
+        "Real Sociedad": 18.0,
+        "Draw": 3.35
+      },
+      "Matchbook": {
+        "Atlético Madrid": 4.5,
+        "Real Sociedad": 7.2,
+        "Draw": 1.54
+      },
+      "Coolbet": {
+        "Atlético Madrid": 4.5,
+        "Real Sociedad": 6.0,
+        "Draw": 1.53
       }
     }
   },
@@ -5980,25 +6104,672 @@
       "confidence": 408,
       "alert_type": "value",
       "alerted_at": "2026-09-13T16:10:57.468334+00:00"
+    },
+    {
+      "state_key": "0a91f850039ce571eb6e90b2eed15548:h2h",
+      "event_id": "0a91f850039ce571eb6e90b2eed15548",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Sassuolo",
+      "away_team": "Juventus",
+      "commence_time": "2026-09-13T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sassuolo",
+      "odds_at_alert": 30.0,
+      "stake_pct": 5.0,
+      "confidence": 1957,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T20:43:13.597521+00:00"
+    },
+    {
+      "state_key": "0a91f850039ce571eb6e90b2eed15548:h2h",
+      "event_id": "0a91f850039ce571eb6e90b2eed15548",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Sassuolo",
+      "away_team": "Juventus",
+      "commence_time": "2026-09-13T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sassuolo",
+      "odds_at_alert": 30.0,
+      "stake_pct": 5.0,
+      "confidence": 1957,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T20:43:13.956120+00:00"
+    },
+    {
+      "state_key": "0a91f850039ce571eb6e90b2eed15548:h2h",
+      "event_id": "0a91f850039ce571eb6e90b2eed15548",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Sassuolo",
+      "away_team": "Juventus",
+      "commence_time": "2026-09-13T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sassuolo",
+      "odds_at_alert": 27.0,
+      "stake_pct": 5.0,
+      "confidence": 1751,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T20:43:14.355829+00:00"
+    },
+    {
+      "state_key": "0a91f850039ce571eb6e90b2eed15548:h2h",
+      "event_id": "0a91f850039ce571eb6e90b2eed15548",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Sassuolo",
+      "away_team": "Juventus",
+      "commence_time": "2026-09-13T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sassuolo",
+      "odds_at_alert": 35.0,
+      "stake_pct": 5.0,
+      "confidence": 2299,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T20:43:14.757854+00:00"
+    },
+    {
+      "state_key": "0a91f850039ce571eb6e90b2eed15548:h2h",
+      "event_id": "0a91f850039ce571eb6e90b2eed15548",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Sassuolo",
+      "away_team": "Juventus",
+      "commence_time": "2026-09-13T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sassuolo",
+      "odds_at_alert": 31.0,
+      "stake_pct": 5.0,
+      "confidence": 2025,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T20:43:15.196017+00:00"
+    },
+    {
+      "state_key": "0a91f850039ce571eb6e90b2eed15548:h2h",
+      "event_id": "0a91f850039ce571eb6e90b2eed15548",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Sassuolo",
+      "away_team": "Juventus",
+      "commence_time": "2026-09-13T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sassuolo",
+      "odds_at_alert": 30.0,
+      "stake_pct": 5.0,
+      "confidence": 1957,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T20:43:15.580009+00:00"
+    },
+    {
+      "state_key": "0a91f850039ce571eb6e90b2eed15548:h2h",
+      "event_id": "0a91f850039ce571eb6e90b2eed15548",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Sassuolo",
+      "away_team": "Juventus",
+      "commence_time": "2026-09-13T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sassuolo",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 1065,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T20:43:15.955231+00:00"
+    },
+    {
+      "state_key": "0a91f850039ce571eb6e90b2eed15548:h2h",
+      "event_id": "0a91f850039ce571eb6e90b2eed15548",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Sassuolo",
+      "away_team": "Juventus",
+      "commence_time": "2026-09-13T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Juventus",
+      "odds_at_alert": 400.0,
+      "stake_pct": 5.0,
+      "confidence": 2342,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T20:43:16.343007+00:00"
+    },
+    {
+      "state_key": "0a91f850039ce571eb6e90b2eed15548:h2h",
+      "event_id": "0a91f850039ce571eb6e90b2eed15548",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Sassuolo",
+      "away_team": "Juventus",
+      "commence_time": "2026-09-13T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 20.0,
+      "stake_pct": 5.0,
+      "confidence": 407,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T20:43:16.742138+00:00"
+    },
+    {
+      "state_key": "0a91f850039ce571eb6e90b2eed15548:h2h",
+      "event_id": "0a91f850039ce571eb6e90b2eed15548",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Sassuolo",
+      "away_team": "Juventus",
+      "commence_time": "2026-09-13T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sassuolo",
+      "odds_at_alert": 19.0,
+      "stake_pct": 5.0,
+      "confidence": 1203,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T20:43:17.133688+00:00"
+    },
+    {
+      "state_key": "0a91f850039ce571eb6e90b2eed15548:h2h",
+      "event_id": "0a91f850039ce571eb6e90b2eed15548",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Sassuolo",
+      "away_team": "Juventus",
+      "commence_time": "2026-09-13T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Juventus",
+      "odds_at_alert": 390.0,
+      "stake_pct": 5.0,
+      "confidence": 2281,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T20:43:17.642374+00:00"
+    },
+    {
+      "state_key": "0a91f850039ce571eb6e90b2eed15548:h2h",
+      "event_id": "0a91f850039ce571eb6e90b2eed15548",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Sassuolo",
+      "away_team": "Juventus",
+      "commence_time": "2026-09-13T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 21.0,
+      "stake_pct": 5.0,
+      "confidence": 432,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T20:43:18.155823+00:00"
+    },
+    {
+      "state_key": "0a91f850039ce571eb6e90b2eed15548:h2h",
+      "event_id": "0a91f850039ce571eb6e90b2eed15548",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Sassuolo",
+      "away_team": "Juventus",
+      "commence_time": "2026-09-13T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Juventus",
+      "odds_at_alert": 180.0,
+      "stake_pct": 5.0,
+      "confidence": 999,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T20:43:18.508019+00:00"
+    },
+    {
+      "state_key": "0a91f850039ce571eb6e90b2eed15548:h2h",
+      "event_id": "0a91f850039ce571eb6e90b2eed15548",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Sassuolo",
+      "away_team": "Juventus",
+      "commence_time": "2026-09-13T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 280,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T20:43:18.869730+00:00"
+    },
+    {
+      "state_key": "0a91f850039ce571eb6e90b2eed15548:h2h",
+      "event_id": "0a91f850039ce571eb6e90b2eed15548",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Sassuolo",
+      "away_team": "Juventus",
+      "commence_time": "2026-09-13T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sassuolo",
+      "odds_at_alert": 19.5,
+      "stake_pct": 5.0,
+      "confidence": 1237,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T20:43:19.223018+00:00"
+    },
+    {
+      "state_key": "0a91f850039ce571eb6e90b2eed15548:h2h",
+      "event_id": "0a91f850039ce571eb6e90b2eed15548",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Sassuolo",
+      "away_team": "Juventus",
+      "commence_time": "2026-09-13T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Juventus",
+      "odds_at_alert": 750.0,
+      "stake_pct": 5.0,
+      "confidence": 4478,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T20:43:19.569277+00:00"
+    },
+    {
+      "state_key": "0a91f850039ce571eb6e90b2eed15548:h2h",
+      "event_id": "0a91f850039ce571eb6e90b2eed15548",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Sassuolo",
+      "away_team": "Juventus",
+      "commence_time": "2026-09-13T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 20.0,
+      "stake_pct": 5.0,
+      "confidence": 407,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T20:43:19.954399+00:00"
+    },
+    {
+      "state_key": "14e37b5aaf6fec05a01f7e1309025a66:h2h",
+      "event_id": "14e37b5aaf6fec05a01f7e1309025a66",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Real Sociedad",
+      "away_team": "Atlético Madrid",
+      "commence_time": "2026-09-13T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Real Sociedad",
+      "odds_at_alert": 20.0,
+      "stake_pct": 5.0,
+      "confidence": 285,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T20:43:20.359456+00:00"
+    },
+    {
+      "state_key": "14e37b5aaf6fec05a01f7e1309025a66:h2h",
+      "event_id": "14e37b5aaf6fec05a01f7e1309025a66",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Real Sociedad",
+      "away_team": "Atlético Madrid",
+      "commence_time": "2026-09-13T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.3,
+      "stake_pct": 5.0,
+      "confidence": 81,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T20:43:20.724740+00:00"
+    },
+    {
+      "state_key": "14e37b5aaf6fec05a01f7e1309025a66:h2h",
+      "event_id": "14e37b5aaf6fec05a01f7e1309025a66",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Real Sociedad",
+      "away_team": "Atlético Madrid",
+      "commence_time": "2026-09-13T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Real Sociedad",
+      "odds_at_alert": 18.0,
+      "stake_pct": 5.0,
+      "confidence": 246,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T20:43:21.118315+00:00"
+    },
+    {
+      "state_key": "14e37b5aaf6fec05a01f7e1309025a66:h2h",
+      "event_id": "14e37b5aaf6fec05a01f7e1309025a66",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Real Sociedad",
+      "away_team": "Atlético Madrid",
+      "commence_time": "2026-09-13T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.2,
+      "stake_pct": 5.0,
+      "confidence": 75,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T20:43:21.480425+00:00"
+    },
+    {
+      "state_key": "14e37b5aaf6fec05a01f7e1309025a66:h2h",
+      "event_id": "14e37b5aaf6fec05a01f7e1309025a66",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Real Sociedad",
+      "away_team": "Atlético Madrid",
+      "commence_time": "2026-09-13T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Real Sociedad",
+      "odds_at_alert": 19.0,
+      "stake_pct": 5.0,
+      "confidence": 265,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T20:43:21.831936+00:00"
+    },
+    {
+      "state_key": "14e37b5aaf6fec05a01f7e1309025a66:h2h",
+      "event_id": "14e37b5aaf6fec05a01f7e1309025a66",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Real Sociedad",
+      "away_team": "Atlético Madrid",
+      "commence_time": "2026-09-13T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.35,
+      "stake_pct": 5.0,
+      "confidence": 83,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T20:43:22.205373+00:00"
+    },
+    {
+      "state_key": "14e37b5aaf6fec05a01f7e1309025a66:h2h",
+      "event_id": "14e37b5aaf6fec05a01f7e1309025a66",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Real Sociedad",
+      "away_team": "Atlético Madrid",
+      "commence_time": "2026-09-13T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Atlético Madrid",
+      "odds_at_alert": 4.1,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T20:43:22.566698+00:00"
+    },
+    {
+      "state_key": "14e37b5aaf6fec05a01f7e1309025a66:h2h",
+      "event_id": "14e37b5aaf6fec05a01f7e1309025a66",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Real Sociedad",
+      "away_team": "Atlético Madrid",
+      "commence_time": "2026-09-13T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Atlético Madrid",
+      "odds_at_alert": 4.4,
+      "stake_pct": 3.0,
+      "confidence": 15,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T20:43:22.956378+00:00"
+    },
+    {
+      "state_key": "14e37b5aaf6fec05a01f7e1309025a66:h2h",
+      "event_id": "14e37b5aaf6fec05a01f7e1309025a66",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Real Sociedad",
+      "away_team": "Atlético Madrid",
+      "commence_time": "2026-09-13T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Atlético Madrid",
+      "odds_at_alert": 4.3,
+      "stake_pct": 3.0,
+      "confidence": 12,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T20:43:23.336395+00:00"
+    },
+    {
+      "state_key": "14e37b5aaf6fec05a01f7e1309025a66:h2h",
+      "event_id": "14e37b5aaf6fec05a01f7e1309025a66",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Real Sociedad",
+      "away_team": "Atlético Madrid",
+      "commence_time": "2026-09-13T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Real Sociedad",
+      "odds_at_alert": 7.4,
+      "stake_pct": 5.0,
+      "confidence": 42,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T20:43:23.771072+00:00"
+    },
+    {
+      "state_key": "14e37b5aaf6fec05a01f7e1309025a66:h2h",
+      "event_id": "14e37b5aaf6fec05a01f7e1309025a66",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Real Sociedad",
+      "away_team": "Atlético Madrid",
+      "commence_time": "2026-09-13T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Real Sociedad",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 227,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T20:43:24.174053+00:00"
+    },
+    {
+      "state_key": "14e37b5aaf6fec05a01f7e1309025a66:h2h",
+      "event_id": "14e37b5aaf6fec05a01f7e1309025a66",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Real Sociedad",
+      "away_team": "Atlético Madrid",
+      "commence_time": "2026-09-13T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.25,
+      "stake_pct": 5.0,
+      "confidence": 78,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T20:43:24.550051+00:00"
+    },
+    {
+      "state_key": "14e37b5aaf6fec05a01f7e1309025a66:h2h",
+      "event_id": "14e37b5aaf6fec05a01f7e1309025a66",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Real Sociedad",
+      "away_team": "Atlético Madrid",
+      "commence_time": "2026-09-13T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Real Sociedad",
+      "odds_at_alert": 18.0,
+      "stake_pct": 5.0,
+      "confidence": 246,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T20:43:24.984033+00:00"
+    },
+    {
+      "state_key": "14e37b5aaf6fec05a01f7e1309025a66:h2h",
+      "event_id": "14e37b5aaf6fec05a01f7e1309025a66",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Real Sociedad",
+      "away_team": "Atlético Madrid",
+      "commence_time": "2026-09-13T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.45,
+      "stake_pct": 5.0,
+      "confidence": 89,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T20:43:25.388245+00:00"
+    },
+    {
+      "state_key": "14e37b5aaf6fec05a01f7e1309025a66:h2h",
+      "event_id": "14e37b5aaf6fec05a01f7e1309025a66",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Real Sociedad",
+      "away_team": "Atlético Madrid",
+      "commence_time": "2026-09-13T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Real Sociedad",
+      "odds_at_alert": 18.0,
+      "stake_pct": 5.0,
+      "confidence": 246,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T20:43:25.798761+00:00"
+    },
+    {
+      "state_key": "14e37b5aaf6fec05a01f7e1309025a66:h2h",
+      "event_id": "14e37b5aaf6fec05a01f7e1309025a66",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Real Sociedad",
+      "away_team": "Atlético Madrid",
+      "commence_time": "2026-09-13T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.45,
+      "stake_pct": 5.0,
+      "confidence": 89,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T20:43:26.258484+00:00"
+    },
+    {
+      "state_key": "14e37b5aaf6fec05a01f7e1309025a66:h2h",
+      "event_id": "14e37b5aaf6fec05a01f7e1309025a66",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Real Sociedad",
+      "away_team": "Atlético Madrid",
+      "commence_time": "2026-09-13T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Real Sociedad",
+      "odds_at_alert": 18.0,
+      "stake_pct": 5.0,
+      "confidence": 246,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T20:43:26.619081+00:00"
+    },
+    {
+      "state_key": "14e37b5aaf6fec05a01f7e1309025a66:h2h",
+      "event_id": "14e37b5aaf6fec05a01f7e1309025a66",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Real Sociedad",
+      "away_team": "Atlético Madrid",
+      "commence_time": "2026-09-13T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.35,
+      "stake_pct": 5.0,
+      "confidence": 83,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T20:43:27.006690+00:00"
+    },
+    {
+      "state_key": "14e37b5aaf6fec05a01f7e1309025a66:h2h",
+      "event_id": "14e37b5aaf6fec05a01f7e1309025a66",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Real Sociedad",
+      "away_team": "Atlético Madrid",
+      "commence_time": "2026-09-13T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Atlético Madrid",
+      "odds_at_alert": 4.5,
+      "stake_pct": 5.0,
+      "confidence": 17,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T20:43:27.375078+00:00"
+    },
+    {
+      "state_key": "14e37b5aaf6fec05a01f7e1309025a66:h2h",
+      "event_id": "14e37b5aaf6fec05a01f7e1309025a66",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Real Sociedad",
+      "away_team": "Atlético Madrid",
+      "commence_time": "2026-09-13T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Real Sociedad",
+      "odds_at_alert": 7.2,
+      "stake_pct": 5.0,
+      "confidence": 38,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T20:43:27.772678+00:00"
+    },
+    {
+      "state_key": "14e37b5aaf6fec05a01f7e1309025a66:h2h",
+      "event_id": "14e37b5aaf6fec05a01f7e1309025a66",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Real Sociedad",
+      "away_team": "Atlético Madrid",
+      "commence_time": "2026-09-13T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Atlético Madrid",
+      "odds_at_alert": 4.5,
+      "stake_pct": 5.0,
+      "confidence": 17,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T20:43:28.132370+00:00"
+    },
+    {
+      "state_key": "14e37b5aaf6fec05a01f7e1309025a66:h2h",
+      "event_id": "14e37b5aaf6fec05a01f7e1309025a66",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Real Sociedad",
+      "away_team": "Atlético Madrid",
+      "commence_time": "2026-09-13T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Real Sociedad",
+      "odds_at_alert": 6.0,
+      "stake_pct": 5.0,
+      "confidence": 15,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T20:43:28.514456+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "e3341f9ceae2da288107983fb9d966cc:h2h|Betclic (FR)|Genk",
-    "e3341f9ceae2da288107983fb9d966cc:h2h|Betclic (FR)|Gent",
-    "e3341f9ceae2da288107983fb9d966cc:h2h|Betsson|Genk",
-    "e3341f9ceae2da288107983fb9d966cc:h2h|Betsson|Gent",
-    "e3341f9ceae2da288107983fb9d966cc:h2h|Coolbet|Genk",
-    "e3341f9ceae2da288107983fb9d966cc:h2h|Coolbet|Gent",
-    "e3341f9ceae2da288107983fb9d966cc:h2h|Nordic Bet|Genk",
-    "e3341f9ceae2da288107983fb9d966cc:h2h|Nordic Bet|Gent",
-    "e3341f9ceae2da288107983fb9d966cc:h2h|Tipico|Genk",
-    "e3341f9ceae2da288107983fb9d966cc:h2h|Tipico|Gent",
-    "e3341f9ceae2da288107983fb9d966cc:h2h|Unibet (SE)|Genk",
-    "e3341f9ceae2da288107983fb9d966cc:h2h|Unibet (SE)|Gent",
-    "e3341f9ceae2da288107983fb9d966cc:h2h|Winamax (DE)|Genk",
-    "e3341f9ceae2da288107983fb9d966cc:h2h|Winamax (DE)|Gent",
-    "e3341f9ceae2da288107983fb9d966cc:h2h|Winamax (FR)|Genk",
-    "e3341f9ceae2da288107983fb9d966cc:h2h|Winamax (FR)|Gent"
+    "0a91f850039ce571eb6e90b2eed15548:h2h|888sport|Sassuolo",
+    "0a91f850039ce571eb6e90b2eed15548:h2h|Betclic (FR)|Sassuolo",
+    "0a91f850039ce571eb6e90b2eed15548:h2h|Betfair|Draw",
+    "0a91f850039ce571eb6e90b2eed15548:h2h|Betfair|Juventus",
+    "0a91f850039ce571eb6e90b2eed15548:h2h|Betsson|Sassuolo",
+    "0a91f850039ce571eb6e90b2eed15548:h2h|Coolbet|Draw",
+    "0a91f850039ce571eb6e90b2eed15548:h2h|Coolbet|Juventus",
+    "0a91f850039ce571eb6e90b2eed15548:h2h|LeoVegas (SE)|Sassuolo",
+    "0a91f850039ce571eb6e90b2eed15548:h2h|Nordic Bet|Draw",
+    "0a91f850039ce571eb6e90b2eed15548:h2h|Nordic Bet|Juventus",
+    "0a91f850039ce571eb6e90b2eed15548:h2h|PMU (FR)|Sassuolo",
+    "0a91f850039ce571eb6e90b2eed15548:h2h|Tipico|Draw",
+    "0a91f850039ce571eb6e90b2eed15548:h2h|Tipico|Juventus",
+    "0a91f850039ce571eb6e90b2eed15548:h2h|Unibet (NL)|Sassuolo",
+    "0a91f850039ce571eb6e90b2eed15548:h2h|Unibet (SE)|Sassuolo",
+    "0a91f850039ce571eb6e90b2eed15548:h2h|Winamax (DE)|Sassuolo",
+    "0a91f850039ce571eb6e90b2eed15548:h2h|Winamax (FR)|Sassuolo",
+    "14e37b5aaf6fec05a01f7e1309025a66:h2h|Betfair|Atlético Madrid",
+    "14e37b5aaf6fec05a01f7e1309025a66:h2h|Betfair|Real Sociedad",
+    "14e37b5aaf6fec05a01f7e1309025a66:h2h|Betsson|Atlético Madrid",
+    "14e37b5aaf6fec05a01f7e1309025a66:h2h|Coolbet|Atlético Madrid",
+    "14e37b5aaf6fec05a01f7e1309025a66:h2h|Coolbet|Real Sociedad",
+    "14e37b5aaf6fec05a01f7e1309025a66:h2h|LeoVegas (SE)|Draw",
+    "14e37b5aaf6fec05a01f7e1309025a66:h2h|LeoVegas (SE)|Real Sociedad",
+    "14e37b5aaf6fec05a01f7e1309025a66:h2h|Matchbook|Atlético Madrid",
+    "14e37b5aaf6fec05a01f7e1309025a66:h2h|Matchbook|Real Sociedad",
+    "14e37b5aaf6fec05a01f7e1309025a66:h2h|Nordic Bet|Atlético Madrid",
+    "14e37b5aaf6fec05a01f7e1309025a66:h2h|PMU (FR)|Draw",
+    "14e37b5aaf6fec05a01f7e1309025a66:h2h|PMU (FR)|Real Sociedad",
+    "14e37b5aaf6fec05a01f7e1309025a66:h2h|Tipico|Draw",
+    "14e37b5aaf6fec05a01f7e1309025a66:h2h|Tipico|Real Sociedad",
+    "14e37b5aaf6fec05a01f7e1309025a66:h2h|Unibet (NL)|Draw",
+    "14e37b5aaf6fec05a01f7e1309025a66:h2h|Unibet (NL)|Real Sociedad",
+    "14e37b5aaf6fec05a01f7e1309025a66:h2h|Unibet (SE)|Draw",
+    "14e37b5aaf6fec05a01f7e1309025a66:h2h|Unibet (SE)|Real Sociedad",
+    "14e37b5aaf6fec05a01f7e1309025a66:h2h|Winamax (DE)|Draw",
+    "14e37b5aaf6fec05a01f7e1309025a66:h2h|Winamax (DE)|Real Sociedad",
+    "14e37b5aaf6fec05a01f7e1309025a66:h2h|Winamax (FR)|Draw",
+    "14e37b5aaf6fec05a01f7e1309025a66:h2h|Winamax (FR)|Real Sociedad"
   ]
 }
