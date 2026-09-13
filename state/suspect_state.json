@@ -1,286 +1,77 @@
 {
   "snapshots": {
-    "40488ef59dd79830e21bb0136c09e2b1:h2h": {
-      "PMU (FR)": {
-        "FC Anyang": 4.9,
-        "Gwangju FC": 7.0,
-        "Draw": 1.17
+    "e3341f9ceae2da288107983fb9d966cc:h2h": {
+      "Betclic (FR)": {
+        "Genk": 18.0,
+        "Gent": 26.0,
+        "Draw": 1.0
       },
       "Unibet (SE)": {
-        "FC Anyang": 5.4,
-        "Gwangju FC": 6.75,
-        "Draw": 1.3
+        "Genk": 41.0,
+        "Gent": 41.0,
+        "Draw": 1.01
       },
-      "LeoVegas (SE)": {
-        "FC Anyang": 5.0,
-        "Gwangju FC": 7.0,
+      "Winamax (FR)": {
+        "Genk": 36.0,
+        "Gent": 50.0,
+        "Draw": 1.02
+      },
+      "Winamax (DE)": {
+        "Genk": 36.0,
+        "Gent": 50.0,
+        "Draw": 1.01
+      },
+      "Nordic Bet": {
+        "Genk": 19.0,
+        "Gent": 26.0,
+        "Draw": 1.02
+      },
+      "Betsson": {
+        "Genk": 15.0,
+        "Gent": 19.0,
+        "Draw": 1.05
+      },
+      "Coolbet": {
+        "Genk": 22.0,
+        "Gent": 28.0,
+        "Draw": 1.04
+      },
+      "Betfair": {
+        "Genk": 1.01,
+        "Gent": 1.01,
+        "Draw": 1.01
+      },
+      "Pinnacle": {
+        "Genk": 8.03,
+        "Gent": 9.24,
         "Draw": 1.2
       },
-      "Unibet (NL)": {
-        "FC Anyang": 4.9,
-        "Gwangju FC": 7.0,
-        "Draw": 1.33
-      },
-      "Nordic Bet": {
-        "FC Anyang": 4.2,
-        "Gwangju FC": 5.8,
-        "Draw": 1.45
-      },
-      "Betclic (FR)": {
-        "FC Anyang": 3.85,
-        "Gwangju FC": 5.9,
-        "Draw": 1.47
-      },
-      "Betsson": {
-        "FC Anyang": 4.4,
-        "Gwangju FC": 5.8,
-        "Draw": 1.42
-      },
-      "Coolbet": {
-        "FC Anyang": 4.5,
-        "Gwangju FC": 6.5,
-        "Draw": 1.44
-      },
-      "Winamax (DE)": {
-        "FC Anyang": 4.0,
-        "Gwangju FC": 6.0,
-        "Draw": 1.45
-      },
-      "Winamax (FR)": {
-        "FC Anyang": 3.85,
-        "Gwangju FC": 5.8,
-        "Draw": 1.44
-      },
       "Tipico": {
-        "FC Anyang": 4.5,
-        "Gwangju FC": 6.5,
-        "Draw": 1.4
-      },
-      "Pinnacle": {
-        "FC Anyang": 3.91,
-        "Gwangju FC": 5.64,
-        "Draw": 1.6
-      },
-      "Betfair": {
-        "FC Anyang": 4.2,
-        "Gwangju FC": 7.0,
-        "Draw": 1.52
-      },
-      "Matchbook": {
-        "FC Anyang": 4.4,
-        "Gwangju FC": 7.6,
-        "Draw": 1.46
+        "Genk": 30.0,
+        "Gent": 50.0,
+        "Draw": 1.01
       }
     },
-    "e0e830c91f45c64995f51a6b090a54b3:h2h": {
-      "Unibet (NL)": {
-        "Cracovia Kraków": 101.0,
-        "Wisła Płock": 1.01,
-        "Draw": 21.0
-      },
-      "Betsson": {
-        "Cracovia Kraków": 24.0,
-        "Wisła Płock": 1.09,
-        "Draw": 6.3
-      },
-      "Unibet (SE)": {
-        "Cracovia Kraków": 111.0,
-        "Wisła Płock": 1.01,
-        "Draw": 23.0
+    "6406438af00a2a42a81d6b2f1656d474:h2h": {
+      "Winamax (FR)": {
+        "Barcelona": 1.08,
+        "Levante": 85.0,
+        "Draw": 8.5
       },
       "Nordic Bet": {
-        "Cracovia Kraków": 46.0,
-        "Wisła Płock": 1.0,
-        "Draw": 13.0
-      },
-      "Betclic (FR)": {
-        "Cracovia Kraków": 43.0,
-        "Wisła Płock": 1.02,
-        "Draw": 18.5
-      },
-      "Coolbet": {
-        "Cracovia Kraków": 50.0,
-        "Wisła Płock": 1.0,
-        "Draw": 18.0
-      },
-      "Winamax (FR)": {
-        "Cracovia Kraków": 150.0,
-        "Wisła Płock": 1.01,
-        "Draw": 34.0
-      },
-      "Winamax (DE)": {
-        "Cracovia Kraków": 150.0,
-        "Wisła Płock": 1.01,
-        "Draw": 34.0
-      },
-      "Pinnacle": {
-        "Cracovia Kraków": 10.11,
-        "Wisła Płock": 1.43,
-        "Draw": 3.78
-      },
-      "888sport": {
-        "Cracovia Kraków": 126.0,
-        "Wisła Płock": 1.01,
-        "Draw": 29.0
-      },
-      "Betfair": {
-        "Cracovia Kraków": 34.0,
-        "Wisła Płock": 1.02,
-        "Draw": 34.0
-      }
-    },
-    "36b36c2897de254fb3f14123d4434607:h2h": {
-      "Winamax (DE)": {
-        "Excelsior": 11.0,
-        "FC Utrecht": 1.36,
-        "Draw": 3.7
-      },
-      "Winamax (FR)": {
-        "Excelsior": 10.0,
-        "FC Utrecht": 1.36,
-        "Draw": 3.6
-      },
-      "Coolbet": {
-        "Excelsior": 13.0,
-        "FC Utrecht": 1.4,
-        "Draw": 4.0
-      },
-      "Betclic (FR)": {
-        "Excelsior": 9.75,
-        "FC Utrecht": 1.38,
-        "Draw": 3.5
-      },
-      "888sport": {
-        "Excelsior": 9.0,
-        "FC Utrecht": 1.4,
-        "Draw": 3.6
-      },
-      "Unibet (NL)": {
-        "Excelsior": 11.0,
-        "FC Utrecht": 1.43,
-        "Draw": 3.45
-      },
-      "Unibet (SE)": {
-        "Excelsior": 10.5,
-        "FC Utrecht": 1.44,
-        "Draw": 3.45
-      },
-      "LeoVegas (SE)": {
-        "Excelsior": 10.0,
-        "FC Utrecht": 1.38,
-        "Draw": 3.3
-      },
-      "PMU (FR)": {
-        "Excelsior": 9.5,
-        "FC Utrecht": 1.34,
-        "Draw": 3.2
-      },
-      "Nordic Bet": {
-        "Excelsior": 11.5,
-        "FC Utrecht": 1.36,
-        "Draw": 3.65
+        "Barcelona": 1.0,
+        "Levante": 301.0,
+        "Draw": 126.0
       },
       "Betsson": {
-        "Excelsior": 11.5,
-        "FC Utrecht": 1.34,
-        "Draw": 3.9
-      },
-      "Betfair": {
-        "Excelsior": 16.0,
-        "FC Utrecht": 1.43,
-        "Draw": 4.1
-      },
-      "Pinnacle": {
-        "Excelsior": 7.8,
-        "FC Utrecht": 1.56,
-        "Draw": 3.47
-      },
-      "Tipico": {
-        "Excelsior": 9.0,
-        "FC Utrecht": 1.4,
-        "Draw": 3.8
-      },
-      "Matchbook": {
-        "Excelsior": 16.0,
-        "FC Utrecht": 1.42,
-        "Draw": 4.1
-      }
-    },
-    "daaf99f01cb6c822ef263918b831912c:h2h": {
-      "Winamax (DE)": {
-        "Sheffield United": 3.3,
-        "Wolverhampton Wanderers": 2.5,
-        "Draw": 2.5
-      },
-      "Winamax (FR)": {
-        "Sheffield United": 3.2,
-        "Wolverhampton Wanderers": 2.4,
-        "Draw": 2.4
-      },
-      "Coolbet": {
-        "Sheffield United": 3.4,
-        "Wolverhampton Wanderers": 2.6,
-        "Draw": 2.5
-      },
-      "Betsson": {
-        "Sheffield United": 3.3,
-        "Wolverhampton Wanderers": 2.5,
-        "Draw": 2.5
-      },
-      "Nordic Bet": {
-        "Sheffield United": 3.3,
-        "Wolverhampton Wanderers": 2.5,
-        "Draw": 2.5
-      },
-      "Betclic (FR)": {
-        "Sheffield United": 3.2,
-        "Wolverhampton Wanderers": 2.38,
-        "Draw": 2.43
-      },
-      "888sport": {
-        "Sheffield United": 3.5,
-        "Wolverhampton Wanderers": 2.5,
-        "Draw": 2.38
-      },
-      "Betfair": {
-        "Sheffield United": 3.75,
-        "Wolverhampton Wanderers": 2.68,
-        "Draw": 2.74
-      },
-      "LeoVegas (SE)": {
-        "Sheffield United": 3.15,
-        "Wolverhampton Wanderers": 2.45,
-        "Draw": 2.4
+        "Barcelona": 1.0,
+        "Levante": 301.0,
+        "Draw": 126.0
       },
       "Unibet (SE)": {
-        "Sheffield United": 3.4,
-        "Wolverhampton Wanderers": 2.55,
-        "Draw": 2.55
-      },
-      "Unibet (NL)": {
-        "Sheffield United": 3.45,
-        "Wolverhampton Wanderers": 2.43,
-        "Draw": 2.6
-      },
-      "PMU (FR)": {
-        "Sheffield United": 3.2,
-        "Wolverhampton Wanderers": 2.28,
-        "Draw": 2.4
-      },
-      "Matchbook": {
-        "Sheffield United": 3.9,
-        "Wolverhampton Wanderers": 2.64,
-        "Draw": 2.64
-      },
-      "Pinnacle": {
-        "Sheffield United": 3.53,
-        "Wolverhampton Wanderers": 2.7,
-        "Draw": 2.46
-      },
-      "Tipico": {
-        "Sheffield United": 3.6,
-        "Wolverhampton Wanderers": 2.6,
-        "Draw": 2.3
+        "Barcelona": 1.03,
+        "Levante": 161.0,
+        "Draw": 14.0
       }
     }
   },
@@ -5933,64 +5724,281 @@
       "confidence": 5,
       "alert_type": "value",
       "alerted_at": "2026-09-13T11:43:03.429209+00:00"
+    },
+    {
+      "state_key": "e3341f9ceae2da288107983fb9d966cc:h2h",
+      "event_id": "e3341f9ceae2da288107983fb9d966cc",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "Genk",
+      "away_team": "Gent",
+      "commence_time": "2026-09-13T14:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Genk",
+      "odds_at_alert": 18.0,
+      "stake_pct": 5.0,
+      "confidence": 110,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T16:10:51.993737+00:00"
+    },
+    {
+      "state_key": "e3341f9ceae2da288107983fb9d966cc:h2h",
+      "event_id": "e3341f9ceae2da288107983fb9d966cc",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "Genk",
+      "away_team": "Gent",
+      "commence_time": "2026-09-13T14:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gent",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 164,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T16:10:52.333483+00:00"
+    },
+    {
+      "state_key": "e3341f9ceae2da288107983fb9d966cc:h2h",
+      "event_id": "e3341f9ceae2da288107983fb9d966cc",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "Genk",
+      "away_team": "Gent",
+      "commence_time": "2026-09-13T14:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Genk",
+      "odds_at_alert": 41.0,
+      "stake_pct": 5.0,
+      "confidence": 379,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T16:10:52.711283+00:00"
+    },
+    {
+      "state_key": "e3341f9ceae2da288107983fb9d966cc:h2h",
+      "event_id": "e3341f9ceae2da288107983fb9d966cc",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "Genk",
+      "away_team": "Gent",
+      "commence_time": "2026-09-13T14:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gent",
+      "odds_at_alert": 41.0,
+      "stake_pct": 5.0,
+      "confidence": 316,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T16:10:53.073229+00:00"
+    },
+    {
+      "state_key": "e3341f9ceae2da288107983fb9d966cc:h2h",
+      "event_id": "e3341f9ceae2da288107983fb9d966cc",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "Genk",
+      "away_team": "Gent",
+      "commence_time": "2026-09-13T14:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Genk",
+      "odds_at_alert": 36.0,
+      "stake_pct": 5.0,
+      "confidence": 321,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T16:10:53.427319+00:00"
+    },
+    {
+      "state_key": "e3341f9ceae2da288107983fb9d966cc:h2h",
+      "event_id": "e3341f9ceae2da288107983fb9d966cc",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "Genk",
+      "away_team": "Gent",
+      "commence_time": "2026-09-13T14:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gent",
+      "odds_at_alert": 50.0,
+      "stake_pct": 5.0,
+      "confidence": 408,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T16:10:53.774812+00:00"
+    },
+    {
+      "state_key": "e3341f9ceae2da288107983fb9d966cc:h2h",
+      "event_id": "e3341f9ceae2da288107983fb9d966cc",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "Genk",
+      "away_team": "Gent",
+      "commence_time": "2026-09-13T14:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Genk",
+      "odds_at_alert": 36.0,
+      "stake_pct": 5.0,
+      "confidence": 321,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T16:10:54.142848+00:00"
+    },
+    {
+      "state_key": "e3341f9ceae2da288107983fb9d966cc:h2h",
+      "event_id": "e3341f9ceae2da288107983fb9d966cc",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "Genk",
+      "away_team": "Gent",
+      "commence_time": "2026-09-13T14:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gent",
+      "odds_at_alert": 50.0,
+      "stake_pct": 5.0,
+      "confidence": 408,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T16:10:54.543477+00:00"
+    },
+    {
+      "state_key": "e3341f9ceae2da288107983fb9d966cc:h2h",
+      "event_id": "e3341f9ceae2da288107983fb9d966cc",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "Genk",
+      "away_team": "Gent",
+      "commence_time": "2026-09-13T14:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Genk",
+      "odds_at_alert": 19.0,
+      "stake_pct": 5.0,
+      "confidence": 122,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T16:10:54.898298+00:00"
+    },
+    {
+      "state_key": "e3341f9ceae2da288107983fb9d966cc:h2h",
+      "event_id": "e3341f9ceae2da288107983fb9d966cc",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "Genk",
+      "away_team": "Gent",
+      "commence_time": "2026-09-13T14:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gent",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 164,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T16:10:55.308896+00:00"
+    },
+    {
+      "state_key": "e3341f9ceae2da288107983fb9d966cc:h2h",
+      "event_id": "e3341f9ceae2da288107983fb9d966cc",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "Genk",
+      "away_team": "Gent",
+      "commence_time": "2026-09-13T14:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Genk",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 75,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T16:10:55.788595+00:00"
+    },
+    {
+      "state_key": "e3341f9ceae2da288107983fb9d966cc:h2h",
+      "event_id": "e3341f9ceae2da288107983fb9d966cc",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "Genk",
+      "away_team": "Gent",
+      "commence_time": "2026-09-13T14:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gent",
+      "odds_at_alert": 19.0,
+      "stake_pct": 5.0,
+      "confidence": 93,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T16:10:56.129736+00:00"
+    },
+    {
+      "state_key": "e3341f9ceae2da288107983fb9d966cc:h2h",
+      "event_id": "e3341f9ceae2da288107983fb9d966cc",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "Genk",
+      "away_team": "Gent",
+      "commence_time": "2026-09-13T14:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Genk",
+      "odds_at_alert": 22.0,
+      "stake_pct": 5.0,
+      "confidence": 157,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T16:10:56.463791+00:00"
+    },
+    {
+      "state_key": "e3341f9ceae2da288107983fb9d966cc:h2h",
+      "event_id": "e3341f9ceae2da288107983fb9d966cc",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "Genk",
+      "away_team": "Gent",
+      "commence_time": "2026-09-13T14:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gent",
+      "odds_at_alert": 28.0,
+      "stake_pct": 5.0,
+      "confidence": 184,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T16:10:56.790760+00:00"
+    },
+    {
+      "state_key": "e3341f9ceae2da288107983fb9d966cc:h2h",
+      "event_id": "e3341f9ceae2da288107983fb9d966cc",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "Genk",
+      "away_team": "Gent",
+      "commence_time": "2026-09-13T14:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Genk",
+      "odds_at_alert": 30.0,
+      "stake_pct": 5.0,
+      "confidence": 250,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T16:10:57.131597+00:00"
+    },
+    {
+      "state_key": "e3341f9ceae2da288107983fb9d966cc:h2h",
+      "event_id": "e3341f9ceae2da288107983fb9d966cc",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "Genk",
+      "away_team": "Gent",
+      "commence_time": "2026-09-13T14:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gent",
+      "odds_at_alert": 50.0,
+      "stake_pct": 5.0,
+      "confidence": 408,
+      "alert_type": "value",
+      "alerted_at": "2026-09-13T16:10:57.468334+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "36b36c2897de254fb3f14123d4434607:h2h|888sport|Excelsior",
-    "36b36c2897de254fb3f14123d4434607:h2h|Betclic (FR)|Excelsior",
-    "36b36c2897de254fb3f14123d4434607:h2h|Betfair|Draw",
-    "36b36c2897de254fb3f14123d4434607:h2h|Betfair|Excelsior",
-    "36b36c2897de254fb3f14123d4434607:h2h|Betsson|Draw",
-    "36b36c2897de254fb3f14123d4434607:h2h|Betsson|Excelsior",
-    "36b36c2897de254fb3f14123d4434607:h2h|Coolbet|Draw",
-    "36b36c2897de254fb3f14123d4434607:h2h|Coolbet|Excelsior",
-    "36b36c2897de254fb3f14123d4434607:h2h|LeoVegas (SE)|Excelsior",
-    "36b36c2897de254fb3f14123d4434607:h2h|Matchbook|Draw",
-    "36b36c2897de254fb3f14123d4434607:h2h|Matchbook|Excelsior",
-    "36b36c2897de254fb3f14123d4434607:h2h|Nordic Bet|Excelsior",
-    "36b36c2897de254fb3f14123d4434607:h2h|PMU (FR)|Excelsior",
-    "36b36c2897de254fb3f14123d4434607:h2h|Tipico|Excelsior",
-    "36b36c2897de254fb3f14123d4434607:h2h|Unibet (NL)|Excelsior",
-    "36b36c2897de254fb3f14123d4434607:h2h|Unibet (SE)|Excelsior",
-    "36b36c2897de254fb3f14123d4434607:h2h|Winamax (DE)|Excelsior",
-    "36b36c2897de254fb3f14123d4434607:h2h|Winamax (FR)|Excelsior",
-    "40488ef59dd79830e21bb0136c09e2b1:h2h|Betfair|Gwangju FC",
-    "40488ef59dd79830e21bb0136c09e2b1:h2h|Betsson|FC Anyang",
-    "40488ef59dd79830e21bb0136c09e2b1:h2h|Coolbet|FC Anyang",
-    "40488ef59dd79830e21bb0136c09e2b1:h2h|Coolbet|Gwangju FC",
-    "40488ef59dd79830e21bb0136c09e2b1:h2h|LeoVegas (SE)|FC Anyang",
-    "40488ef59dd79830e21bb0136c09e2b1:h2h|LeoVegas (SE)|Gwangju FC",
-    "40488ef59dd79830e21bb0136c09e2b1:h2h|Matchbook|FC Anyang",
-    "40488ef59dd79830e21bb0136c09e2b1:h2h|Matchbook|Gwangju FC",
-    "40488ef59dd79830e21bb0136c09e2b1:h2h|PMU (FR)|FC Anyang",
-    "40488ef59dd79830e21bb0136c09e2b1:h2h|PMU (FR)|Gwangju FC",
-    "40488ef59dd79830e21bb0136c09e2b1:h2h|Tipico|FC Anyang",
-    "40488ef59dd79830e21bb0136c09e2b1:h2h|Tipico|Gwangju FC",
-    "40488ef59dd79830e21bb0136c09e2b1:h2h|Unibet (NL)|FC Anyang",
-    "40488ef59dd79830e21bb0136c09e2b1:h2h|Unibet (NL)|Gwangju FC",
-    "40488ef59dd79830e21bb0136c09e2b1:h2h|Unibet (SE)|FC Anyang",
-    "40488ef59dd79830e21bb0136c09e2b1:h2h|Unibet (SE)|Gwangju FC",
-    "daaf99f01cb6c822ef263918b831912c:h2h|Betfair|Draw",
-    "e0e830c91f45c64995f51a6b090a54b3:h2h|888sport|Cracovia Kraków",
-    "e0e830c91f45c64995f51a6b090a54b3:h2h|888sport|Draw",
-    "e0e830c91f45c64995f51a6b090a54b3:h2h|Betclic (FR)|Cracovia Kraków",
-    "e0e830c91f45c64995f51a6b090a54b3:h2h|Betclic (FR)|Draw",
-    "e0e830c91f45c64995f51a6b090a54b3:h2h|Betfair|Cracovia Kraków",
-    "e0e830c91f45c64995f51a6b090a54b3:h2h|Betfair|Draw",
-    "e0e830c91f45c64995f51a6b090a54b3:h2h|Betsson|Cracovia Kraków",
-    "e0e830c91f45c64995f51a6b090a54b3:h2h|Betsson|Draw",
-    "e0e830c91f45c64995f51a6b090a54b3:h2h|Coolbet|Cracovia Kraków",
-    "e0e830c91f45c64995f51a6b090a54b3:h2h|Coolbet|Draw",
-    "e0e830c91f45c64995f51a6b090a54b3:h2h|Nordic Bet|Cracovia Kraków",
-    "e0e830c91f45c64995f51a6b090a54b3:h2h|Nordic Bet|Draw",
-    "e0e830c91f45c64995f51a6b090a54b3:h2h|Unibet (NL)|Cracovia Kraków",
-    "e0e830c91f45c64995f51a6b090a54b3:h2h|Unibet (NL)|Draw",
-    "e0e830c91f45c64995f51a6b090a54b3:h2h|Unibet (SE)|Cracovia Kraków",
-    "e0e830c91f45c64995f51a6b090a54b3:h2h|Unibet (SE)|Draw",
-    "e0e830c91f45c64995f51a6b090a54b3:h2h|Winamax (DE)|Cracovia Kraków",
-    "e0e830c91f45c64995f51a6b090a54b3:h2h|Winamax (DE)|Draw",
-    "e0e830c91f45c64995f51a6b090a54b3:h2h|Winamax (FR)|Cracovia Kraków",
-    "e0e830c91f45c64995f51a6b090a54b3:h2h|Winamax (FR)|Draw"
+    "e3341f9ceae2da288107983fb9d966cc:h2h|Betclic (FR)|Genk",
+    "e3341f9ceae2da288107983fb9d966cc:h2h|Betclic (FR)|Gent",
+    "e3341f9ceae2da288107983fb9d966cc:h2h|Betsson|Genk",
+    "e3341f9ceae2da288107983fb9d966cc:h2h|Betsson|Gent",
+    "e3341f9ceae2da288107983fb9d966cc:h2h|Coolbet|Genk",
+    "e3341f9ceae2da288107983fb9d966cc:h2h|Coolbet|Gent",
+    "e3341f9ceae2da288107983fb9d966cc:h2h|Nordic Bet|Genk",
+    "e3341f9ceae2da288107983fb9d966cc:h2h|Nordic Bet|Gent",
+    "e3341f9ceae2da288107983fb9d966cc:h2h|Tipico|Genk",
+    "e3341f9ceae2da288107983fb9d966cc:h2h|Tipico|Gent",
+    "e3341f9ceae2da288107983fb9d966cc:h2h|Unibet (SE)|Genk",
+    "e3341f9ceae2da288107983fb9d966cc:h2h|Unibet (SE)|Gent",
+    "e3341f9ceae2da288107983fb9d966cc:h2h|Winamax (DE)|Genk",
+    "e3341f9ceae2da288107983fb9d966cc:h2h|Winamax (DE)|Gent",
+    "e3341f9ceae2da288107983fb9d966cc:h2h|Winamax (FR)|Genk",
+    "e3341f9ceae2da288107983fb9d966cc:h2h|Winamax (FR)|Gent"
   ]
 }
