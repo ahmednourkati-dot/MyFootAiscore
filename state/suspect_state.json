@@ -1,341 +1,171 @@
 {
   "snapshots": {
-    "2e8cc06db449927d84b2efc98cdd9112:h2h": {
+    "247343bc379dfe120732d07d0106e412:h2h": {
+      "Nordic Bet": {
+        "Celta Fortuna": 81.0,
+        "SD Eibar": 1.0,
+        "Draw": 81.0
+      },
+      "Betsson": {
+        "Celta Fortuna": 81.0,
+        "SD Eibar": 1.0,
+        "Draw": 81.0
+      },
+      "Betclic (FR)": {
+        "Celta Fortuna": 100.0,
+        "SD Eibar": 1.0,
+        "Draw": 40.0
+      }
+    },
+    "5b69bbfca45a08180d604fd6eca50b2e:h2h": {
       "LeoVegas (SE)": {
-        "FC Inter Turku": 1.57,
-        "VPS Vaasa": 4.8,
-        "Draw": 3.55
+        "Derry City": 4.1,
+        "Waterford FC": 4.6,
+        "Draw": 1.41
       },
       "PMU (FR)": {
-        "FC Inter Turku": 1.51,
-        "VPS Vaasa": 4.6,
+        "Derry City": 3.9,
+        "Waterford FC": 4.2,
+        "Draw": 1.4
+      },
+      "Unibet (NL)": {
+        "Derry City": 4.25,
+        "Waterford FC": 4.6,
+        "Draw": 1.54
+      },
+      "Betsson": {
+        "Derry City": 4.1,
+        "Waterford FC": 4.1,
+        "Draw": 1.6
+      },
+      "Unibet (SE)": {
+        "Derry City": 4.25,
+        "Waterford FC": 4.6,
+        "Draw": 1.54
+      },
+      "Nordic Bet": {
+        "Derry City": 4.1,
+        "Waterford FC": 4.1,
+        "Draw": 1.6
+      },
+      "Winamax (DE)": {
+        "Derry City": 4.1,
+        "Waterford FC": 4.1,
+        "Draw": 1.62
+      },
+      "Winamax (FR)": {
+        "Derry City": 4.0,
+        "Waterford FC": 4.0,
+        "Draw": 1.58
+      },
+      "Pinnacle": {
+        "Derry City": 4.23,
+        "Waterford FC": 4.09,
+        "Draw": 1.71
+      },
+      "Betfair": {
+        "Derry City": 4.7,
+        "Waterford FC": 4.3,
+        "Draw": 1.72
+      },
+      "Tipico": {
+        "Derry City": 4.0,
+        "Waterford FC": 4.5,
+        "Draw": 1.6
+      },
+      "Matchbook": {
+        "Derry City": 4.9,
+        "Waterford FC": 4.4,
+        "Draw": 1.68
+      }
+    },
+    "6098d401ef1e6e5ce574e4c0085ff6e5:h2h": {
+      "Unibet (NL)": {
+        "Drogheda United": 1.48,
+        "Shelbourne Dublin": 9.5,
+        "Draw": 3.15
+      },
+      "LeoVegas (SE)": {
+        "Drogheda United": 1.36,
+        "Shelbourne Dublin": 9.5,
+        "Draw": 3.0
+      },
+      "PMU (FR)": {
+        "Drogheda United": 1.35,
+        "Shelbourne Dublin": 8.5,
+        "Draw": 2.88
+      },
+      "Unibet (SE)": {
+        "Drogheda United": 1.48,
+        "Shelbourne Dublin": 9.5,
+        "Draw": 3.15
+      },
+      "Betsson": {
+        "Drogheda United": 4.2,
+        "Shelbourne Dublin": 2.45,
+        "Draw": 2.15
+      },
+      "Nordic Bet": {
+        "Drogheda United": 1.58,
+        "Shelbourne Dublin": 6.8,
+        "Draw": 3.05
+      },
+      "Winamax (DE)": {
+        "Drogheda United": 1.45,
+        "Shelbourne Dublin": 9.0,
+        "Draw": 3.35
+      },
+      "Winamax (FR)": {
+        "Drogheda United": 1.45,
+        "Shelbourne Dublin": 8.5,
+        "Draw": 3.2
+      },
+      "Pinnacle": {
+        "Drogheda United": 1.51,
+        "Shelbourne Dublin": 8.9,
+        "Draw": 3.44
+      },
+      "Betfair": {
+        "Drogheda United": 1.54,
+        "Shelbourne Dublin": 12.0,
+        "Draw": 3.6
+      },
+      "Tipico": {
+        "Drogheda United": 1.4,
+        "Shelbourne Dublin": 11.0,
         "Draw": 3.4
       },
-      "Unibet (SE)": {
-        "FC Inter Turku": 1.61,
-        "VPS Vaasa": 4.9,
-        "Draw": 3.65
-      },
-      "Unibet (NL)": {
-        "FC Inter Turku": 1.61,
-        "VPS Vaasa": 4.9,
-        "Draw": 3.65
-      },
-      "Unibet (FR)": {
-        "FC Inter Turku": 1.5,
-        "VPS Vaasa": 5.3,
+      "Matchbook": {
+        "Drogheda United": 1.53,
+        "Shelbourne Dublin": 12.0,
         "Draw": 3.6
-      },
-      "1xBet": {
-        "FC Inter Turku": 1.6,
-        "VPS Vaasa": 5.66,
-        "Draw": 3.72
-      },
-      "GTbets": {
-        "FC Inter Turku": 1.62,
-        "VPS Vaasa": 5.9,
-        "Draw": 3.63
+      }
+    },
+    "3c855934ed6ecaa8341c3f2ca0b6f826:h2h": {
+      "Betsson": {
+        "Dundalk": 80.0,
+        "St Patricks Athletic": 1.02,
+        "Draw": 26.0
       },
       "Nordic Bet": {
-        "FC Inter Turku": 1.6,
-        "VPS Vaasa": 5.4,
-        "Draw": 3.6
+        "Dundalk": 80.0,
+        "St Patricks Athletic": 1.02,
+        "Draw": 26.0
       },
-      "Betsson": {
-        "FC Inter Turku": 1.6,
-        "VPS Vaasa": 5.4,
-        "Draw": 3.6
-      },
-      "BetOnline.ag": {
-        "FC Inter Turku": 1.64,
-        "VPS Vaasa": 5.85,
-        "Draw": 3.88
-      },
-      "Betfair": {
-        "FC Inter Turku": 1.65,
-        "VPS Vaasa": 6.4,
-        "Draw": 4.1
-      },
-      "Marathon Bet": {
-        "FC Inter Turku": 1.58,
-        "VPS Vaasa": 5.75,
-        "Draw": 3.72
-      },
-      "888sport": {
-        "FC Inter Turku": 1.57,
-        "VPS Vaasa": 5.0,
-        "Draw": 3.75
-      },
-      "William Hill": {
-        "FC Inter Turku": 1.57,
-        "VPS Vaasa": 5.0,
-        "Draw": 3.75
-      },
-      "BetAnything": {
-        "FC Inter Turku": 1.64,
-        "VPS Vaasa": 5.85,
-        "Draw": 3.88
-      },
-      "Matchbook": {
-        "FC Inter Turku": 1.65,
-        "VPS Vaasa": 6.2,
-        "Draw": 4.1
-      }
-    },
-    "ab96884769a05a05f726c563250d8a92:h2h": {
-      "Tipico": {
-        "Bayer Leverkusen": 8.5,
-        "Bayern Munich": 1.25,
-        "Draw": 5.2
-      },
-      "1xBet": {
-        "Bayer Leverkusen": 7.8,
-        "Bayern Munich": 1.28,
-        "Draw": 5.0
-      },
-      "888sport": {
-        "Bayer Leverkusen": 7.5,
-        "Bayern Munich": 1.29,
-        "Draw": 5.0
-      },
-      "William Hill": {
-        "Bayer Leverkusen": 7.5,
-        "Bayern Munich": 1.29,
-        "Draw": 5.0
-      },
-      "Unibet (NL)": {
-        "Bayer Leverkusen": 6.0,
-        "Bayern Munich": 1.36,
-        "Draw": 4.4
-      },
-      "Unibet (SE)": {
-        "Bayer Leverkusen": 6.0,
-        "Bayern Munich": 1.36,
-        "Draw": 4.4
-      },
-      "LeoVegas (SE)": {
-        "Bayer Leverkusen": 6.0,
-        "Bayern Munich": 1.36,
-        "Draw": 4.4
-      }
-    },
-    "17a081148b714450797ef8d6a29d16e6:h2h": {
       "Winamax (DE)": {
-        "AS Roma": 1.48,
-        "Torino": 5.9,
-        "Draw": 4.5
-      },
-      "LeoVegas (SE)": {
-        "AS Roma": 1.47,
-        "Torino": 6.1,
-        "Draw": 4.1
-      },
-      "Unibet (FR)": {
-        "AS Roma": 1.47,
-        "Torino": 5.8,
-        "Draw": 4.2
+        "Dundalk": 90.0,
+        "St Patricks Athletic": 1.01,
+        "Draw": 24.0
       },
       "Winamax (FR)": {
-        "AS Roma": 1.46,
-        "Torino": 5.7,
-        "Draw": 4.4
-      },
-      "Unibet (NL)": {
-        "AS Roma": 1.53,
-        "Torino": 6.75,
-        "Draw": 4.4
-      },
-      "Unibet (SE)": {
-        "AS Roma": 1.53,
-        "Torino": 6.75,
-        "Draw": 4.4
-      },
-      "PMU (FR)": {
-        "AS Roma": 1.48,
-        "Torino": 6.1,
-        "Draw": 4.1
-      },
-      "Betclic (FR)": {
-        "AS Roma": 1.47,
-        "Torino": 6.0,
-        "Draw": 4.45
-      },
-      "1xBet": {
-        "AS Roma": 1.56,
-        "Torino": 6.8,
-        "Draw": 4.43
-      },
-      "Tipico": {
-        "AS Roma": 1.47,
-        "Torino": 6.8,
-        "Draw": 4.3
-      },
-      "888sport": {
-        "AS Roma": 1.5,
-        "Torino": 6.0,
-        "Draw": 4.0
-      },
-      "William Hill": {
-        "AS Roma": 1.53,
-        "Torino": 5.8,
-        "Draw": 4.0
+        "Dundalk": 85.0,
+        "St Patricks Athletic": 1.02,
+        "Draw": 23.0
       },
       "Betfair": {
-        "AS Roma": 1.55,
-        "Torino": 7.4,
-        "Draw": 4.5
-      },
-      "Nordic Bet": {
-        "AS Roma": 1.48,
-        "Torino": 6.3,
-        "Draw": 4.3
-      },
-      "Betsson": {
-        "AS Roma": 1.48,
-        "Torino": 6.3,
-        "Draw": 4.3
-      },
-      "Codere (IT)": {
-        "AS Roma": 1.5,
-        "Torino": 6.2,
-        "Draw": 4.5
-      },
-      "Matchbook": {
-        "AS Roma": 1.54,
-        "Torino": 7.4,
-        "Draw": 4.5
-      },
-      "GTbets": {
-        "AS Roma": 1.6,
-        "Torino": 5.89,
-        "Draw": 4.13
-      },
-      "BetOnline.ag": {
-        "AS Roma": 1.53,
-        "Torino": 6.75,
-        "Draw": 4.25
-      },
-      "Everygame": {
-        "AS Roma": 1.5,
-        "Torino": 6.5,
-        "Draw": 4.33
-      },
-      "Marathon Bet": {
-        "AS Roma": 1.51,
-        "Torino": 6.6,
-        "Draw": 4.3
-      },
-      "BetAnything": {
-        "AS Roma": 1.52,
-        "Torino": 6.25,
-        "Draw": 4.3
-      }
-    },
-    "9da3aa4b46166eb4ccd1e600d67080a6:h2h": {
-      "Winamax (DE)": {
-        "Como": 1.21,
-        "Parma": 11.5,
-        "Draw": 6.5
-      },
-      "LeoVegas (SE)": {
-        "Como": 1.18,
-        "Parma": 13.0,
-        "Draw": 6.1
-      },
-      "Unibet (FR)": {
-        "Como": 1.18,
-        "Parma": 12.0,
-        "Draw": 6.3
-      },
-      "Winamax (FR)": {
-        "Como": 1.19,
-        "Parma": 11.0,
-        "Draw": 6.25
-      },
-      "Unibet (NL)": {
-        "Como": 1.21,
-        "Parma": 16.0,
-        "Draw": 6.75
-      },
-      "Unibet (SE)": {
-        "Como": 1.21,
-        "Parma": 16.0,
-        "Draw": 6.75
-      },
-      "PMU (FR)": {
-        "Como": 1.19,
-        "Parma": 14.0,
-        "Draw": 6.25
-      },
-      "Betclic (FR)": {
-        "Como": 1.2,
-        "Parma": 12.25,
-        "Draw": 6.4
-      },
-      "1xBet": {
-        "Como": 1.25,
-        "Parma": 14.7,
-        "Draw": 6.69
-      },
-      "Tipico": {
-        "Como": 1.2,
-        "Parma": 13.0,
-        "Draw": 6.7
-      },
-      "888sport": {
-        "Como": 1.22,
-        "Parma": 12.0,
-        "Draw": 5.75
-      },
-      "Betfair": {
-        "Como": 1.25,
-        "Parma": 16.0,
-        "Draw": 6.8
-      },
-      "William Hill": {
-        "Como": 1.22,
-        "Parma": 12.0,
-        "Draw": 5.8
-      },
-      "Nordic Bet": {
-        "Como": 1.23,
-        "Parma": 14.5,
-        "Draw": 5.7
-      },
-      "Betsson": {
-        "Como": 1.23,
-        "Parma": 14.5,
-        "Draw": 5.7
-      },
-      "Codere (IT)": {
-        "Como": 1.22,
-        "Parma": 13.0,
-        "Draw": 6.6
-      },
-      "Matchbook": {
-        "Como": 1.25,
-        "Parma": 16.0,
-        "Draw": 7.0
-      },
-      "GTbets": {
-        "Como": 1.26,
-        "Parma": 13.38,
-        "Draw": 6.07
-      },
-      "BetOnline.ag": {
-        "Como": 1.23,
-        "Parma": 14.5,
-        "Draw": 6.45
-      },
-      "Marathon Bet": {
-        "Como": 1.23,
-        "Parma": 14.0,
-        "Draw": 6.2
-      },
-      "BetAnything": {
-        "Como": 1.23,
-        "Parma": 13.0,
-        "Draw": 6.25
+        "Dundalk": 160.0,
+        "St Patricks Athletic": 1.03,
+        "Draw": 30.0
       }
     }
   },
@@ -5700,16 +5530,145 @@
       "confidence": 19,
       "alert_type": "value",
       "alerted_at": "2026-09-14T07:51:09.668269+00:00"
+    },
+    {
+      "state_key": "5b69bbfca45a08180d604fd6eca50b2e:h2h",
+      "event_id": "5b69bbfca45a08180d604fd6eca50b2e",
+      "sport_key": "soccer",
+      "competition": "League of Ireland",
+      "home_team": "Waterford FC",
+      "away_team": "Derry City",
+      "commence_time": "2026-09-14T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Waterford FC",
+      "odds_at_alert": 4.6,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-09-14T20:16:45.243387+00:00"
+    },
+    {
+      "state_key": "5b69bbfca45a08180d604fd6eca50b2e:h2h",
+      "event_id": "5b69bbfca45a08180d604fd6eca50b2e",
+      "sport_key": "soccer",
+      "competition": "League of Ireland",
+      "home_team": "Waterford FC",
+      "away_team": "Derry City",
+      "commence_time": "2026-09-14T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Waterford FC",
+      "odds_at_alert": 4.6,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-09-14T20:16:45.635380+00:00"
+    },
+    {
+      "state_key": "5b69bbfca45a08180d604fd6eca50b2e:h2h",
+      "event_id": "5b69bbfca45a08180d604fd6eca50b2e",
+      "sport_key": "soccer",
+      "competition": "League of Ireland",
+      "home_team": "Waterford FC",
+      "away_team": "Derry City",
+      "commence_time": "2026-09-14T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Waterford FC",
+      "odds_at_alert": 4.6,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-09-14T20:16:46.038586+00:00"
+    },
+    {
+      "state_key": "5b69bbfca45a08180d604fd6eca50b2e:h2h",
+      "event_id": "5b69bbfca45a08180d604fd6eca50b2e",
+      "sport_key": "soccer",
+      "competition": "League of Ireland",
+      "home_team": "Waterford FC",
+      "away_team": "Derry City",
+      "commence_time": "2026-09-14T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Derry City",
+      "odds_at_alert": 4.9,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-09-14T20:16:46.404483+00:00"
+    },
+    {
+      "state_key": "6098d401ef1e6e5ce574e4c0085ff6e5:h2h",
+      "event_id": "6098d401ef1e6e5ce574e4c0085ff6e5",
+      "sport_key": "soccer",
+      "competition": "League of Ireland",
+      "home_team": "Shelbourne Dublin",
+      "away_team": "Drogheda United",
+      "commence_time": "2026-09-14T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Drogheda United",
+      "odds_at_alert": 4.2,
+      "stake_pct": 5.0,
+      "confidence": 161,
+      "alert_type": "value",
+      "alerted_at": "2026-09-14T20:16:46.819287+00:00"
+    },
+    {
+      "state_key": "6098d401ef1e6e5ce574e4c0085ff6e5:h2h",
+      "event_id": "6098d401ef1e6e5ce574e4c0085ff6e5",
+      "sport_key": "soccer",
+      "competition": "League of Ireland",
+      "home_team": "Shelbourne Dublin",
+      "away_team": "Drogheda United",
+      "commence_time": "2026-09-14T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Shelbourne Dublin",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 27,
+      "alert_type": "value",
+      "alerted_at": "2026-09-14T20:16:47.186303+00:00"
+    },
+    {
+      "state_key": "6098d401ef1e6e5ce574e4c0085ff6e5:h2h",
+      "event_id": "6098d401ef1e6e5ce574e4c0085ff6e5",
+      "sport_key": "soccer",
+      "competition": "League of Ireland",
+      "home_team": "Shelbourne Dublin",
+      "away_team": "Drogheda United",
+      "commence_time": "2026-09-14T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Shelbourne Dublin",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 16,
+      "alert_type": "value",
+      "alerted_at": "2026-09-14T20:16:47.556246+00:00"
+    },
+    {
+      "state_key": "6098d401ef1e6e5ce574e4c0085ff6e5:h2h",
+      "event_id": "6098d401ef1e6e5ce574e4c0085ff6e5",
+      "sport_key": "soccer",
+      "competition": "League of Ireland",
+      "home_team": "Shelbourne Dublin",
+      "away_team": "Drogheda United",
+      "commence_time": "2026-09-14T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Shelbourne Dublin",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 27,
+      "alert_type": "value",
+      "alerted_at": "2026-09-14T20:16:47.966369+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "9da3aa4b46166eb4ccd1e600d67080a6:h2h|Betfair|Parma",
-    "9da3aa4b46166eb4ccd1e600d67080a6:h2h|Coolbet|Parma",
-    "9da3aa4b46166eb4ccd1e600d67080a6:h2h|Matchbook|Parma",
-    "9da3aa4b46166eb4ccd1e600d67080a6:h2h|Unibet (NL)|Draw",
-    "9da3aa4b46166eb4ccd1e600d67080a6:h2h|Unibet (NL)|Parma",
-    "9da3aa4b46166eb4ccd1e600d67080a6:h2h|Unibet (SE)|Draw",
-    "9da3aa4b46166eb4ccd1e600d67080a6:h2h|Unibet (SE)|Parma"
+    "5b69bbfca45a08180d604fd6eca50b2e:h2h|LeoVegas (SE)|Waterford FC",
+    "5b69bbfca45a08180d604fd6eca50b2e:h2h|Matchbook|Derry City",
+    "5b69bbfca45a08180d604fd6eca50b2e:h2h|Unibet (NL)|Waterford FC",
+    "5b69bbfca45a08180d604fd6eca50b2e:h2h|Unibet (SE)|Waterford FC",
+    "6098d401ef1e6e5ce574e4c0085ff6e5:h2h|Betfair|Shelbourne Dublin",
+    "6098d401ef1e6e5ce574e4c0085ff6e5:h2h|Betsson|Drogheda United",
+    "6098d401ef1e6e5ce574e4c0085ff6e5:h2h|Matchbook|Shelbourne Dublin",
+    "6098d401ef1e6e5ce574e4c0085ff6e5:h2h|Tipico|Shelbourne Dublin"
   ]
 }
