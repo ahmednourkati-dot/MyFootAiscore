@@ -1,266 +1,381 @@
 {
   "snapshots": {
-    "8d08934dc5b14c9475b0a1280f8fe128:h2h": {
-      "Winamax (FR)": {
-        "Independiente": 7.5,
-        "San Lorenzo": 19.0,
-        "Draw": 1.13
-      },
-      "Winamax (DE)": {
-        "Independiente": 7.75,
-        "San Lorenzo": 19.0,
-        "Draw": 1.1
-      },
-      "Betclic (FR)": {
-        "Independiente": 6.4,
-        "San Lorenzo": 14.0,
-        "Draw": 1.11
-      },
+    "2e8cc06db449927d84b2efc98cdd9112:h2h": {
       "LeoVegas (SE)": {
-        "Independiente": 6.75,
-        "San Lorenzo": 16.0,
-        "Draw": 1.08
-      },
-      "Unibet (SE)": {
-        "Independiente": 7.0,
-        "San Lorenzo": 17.0,
-        "Draw": 1.14
-      },
-      "Betsson": {
-        "Independiente": 7.7,
-        "San Lorenzo": 16.0,
-        "Draw": 1.1
-      },
-      "Nordic Bet": {
-        "Independiente": 7.7,
-        "San Lorenzo": 16.0,
-        "Draw": 1.1
-      },
-      "Betfair": {
-        "Independiente": 7.6,
-        "San Lorenzo": 18.0,
-        "Draw": 1.2
-      },
-      "Pinnacle": {
-        "Independiente": 8.62,
-        "San Lorenzo": 19.43,
-        "Draw": 1.12
-      }
-    },
-    "e4caa5a1c5c1b371a7f674b8c3cb5ed0:h2h": {
-      "Unibet (SE)": {
-        "Austin FC": 2.2,
-        "Vancouver Whitecaps FC": 4.1,
-        "Draw": 2.6
+        "FC Inter Turku": 1.7,
+        "VPS Vaasa": 4.2,
+        "Draw": 3.4
       },
       "PMU (FR)": {
-        "Austin FC": 2.04,
-        "Vancouver Whitecaps FC": 3.8,
-        "Draw": 2.4
+        "FC Inter Turku": 1.63,
+        "VPS Vaasa": 4.1,
+        "Draw": 3.25
+      },
+      "Unibet (SE)": {
+        "FC Inter Turku": 1.73,
+        "VPS Vaasa": 4.3,
+        "Draw": 3.45
       },
       "Unibet (NL)": {
-        "Austin FC": 2.2,
-        "Vancouver Whitecaps FC": 4.1,
-        "Draw": 2.6
+        "FC Inter Turku": 1.73,
+        "VPS Vaasa": 4.3,
+        "Draw": 3.45
       },
-      "LeoVegas (SE)": {
-        "Austin FC": 2.14,
-        "Vancouver Whitecaps FC": 3.95,
-        "Draw": 2.5
-      },
-      "MyBookie.ag": {
-        "Austin FC": 2.3,
-        "Vancouver Whitecaps FC": 3.25,
-        "Draw": 2.8
-      },
-      "Winamax (DE)": {
-        "Austin FC": 2.1,
-        "Vancouver Whitecaps FC": 3.85,
-        "Draw": 2.7
-      },
-      "Winamax (FR)": {
-        "Austin FC": 2.0,
-        "Vancouver Whitecaps FC": 3.75,
-        "Draw": 2.6
-      },
-      "Betclic (FR)": {
-        "Austin FC": 2.0,
-        "Vancouver Whitecaps FC": 3.68,
-        "Draw": 2.7
-      },
-      "Betfair": {
-        "Austin FC": 2.34,
-        "Vancouver Whitecaps FC": 3.9,
-        "Draw": 3.05
-      },
-      "888sport": {
-        "Austin FC": 2.15,
-        "Vancouver Whitecaps FC": 3.7,
-        "Draw": 2.7
-      },
-      "Coolbet": {
-        "Austin FC": 2.1,
-        "Vancouver Whitecaps FC": 4.33,
-        "Draw": 2.8
-      },
-      "Nordic Bet": {
-        "Austin FC": 2.1,
-        "Vancouver Whitecaps FC": 3.9,
-        "Draw": 2.75
-      },
-      "Betsson": {
-        "Austin FC": 2.05,
-        "Vancouver Whitecaps FC": 4.1,
-        "Draw": 2.75
-      },
-      "Pinnacle": {
-        "Austin FC": 9.92,
-        "Vancouver Whitecaps FC": 1.63,
-        "Draw": 2.86
-      },
-      "Tipico": {
-        "Austin FC": 1.95,
-        "Vancouver Whitecaps FC": 4.3,
-        "Draw": 2.9
-      },
-      "Matchbook": {
-        "Austin FC": 2.34,
-        "Vancouver Whitecaps FC": 4.3,
-        "Draw": 2.94
-      }
-    },
-    "f13af1f3fff3a8c372cd8d3edf4b078b:h2h": {
-      "Winamax (DE)": {
-        "Audax Italiano": 1.56,
-        "O'Higgins": 6.0,
-        "Draw": 3.3
-      },
-      "Coolbet": {
-        "Audax Italiano": 1.62,
-        "O'Higgins": 7.0,
-        "Draw": 3.6
-      },
-      "Winamax (FR)": {
-        "Audax Italiano": 1.54,
-        "O'Higgins": 5.9,
-        "Draw": 3.25
-      },
-      "888sport": {
-        "Audax Italiano": 1.53,
-        "O'Higgins": 6.0,
-        "Draw": 3.25
-      },
-      "Pinnacle": {
-        "Audax Italiano": 1.56,
-        "O'Higgins": 7.19,
-        "Draw": 3.47
-      },
-      "LeoVegas (SE)": {
-        "Audax Italiano": 1.44,
-        "O'Higgins": 6.1,
-        "Draw": 3.15
-      },
-      "Unibet (SE)": {
-        "Audax Italiano": 1.54,
-        "O'Higgins": 6.4,
-        "Draw": 3.35
-      },
-      "Tipico": {
-        "Audax Italiano": 1.5,
-        "O'Higgins": 7.0,
-        "Draw": 3.4
-      },
-      "Betsson": {
-        "Audax Italiano": 1.55,
-        "O'Higgins": 6.3,
-        "Draw": 3.4
-      },
-      "Nordic Bet": {
-        "Audax Italiano": 1.55,
-        "O'Higgins": 6.3,
-        "Draw": 3.4
-      },
-      "Betfair": {
-        "Audax Italiano": 1.67,
-        "O'Higgins": 7.4,
-        "Draw": 3.6
-      },
-      "Matchbook": {
-        "Audax Italiano": 1.62,
-        "O'Higgins": 8.0,
-        "Draw": 3.65
-      }
-    },
-    "5789bf7f6c1794a968dbb9cb7bec7075:h2h": {
       "Unibet (FR)": {
-        "Atlético Huracán": 2.4,
-        "Racing Club": 2.95,
-        "Draw": 2.65
-      },
-      "Winamax (DE)": {
-        "Atlético Huracán": 2.55,
-        "Racing Club": 2.95,
-        "Draw": 2.75
-      },
-      "Winamax (FR)": {
-        "Atlético Huracán": 2.5,
-        "Racing Club": 2.85,
-        "Draw": 2.7
-      },
-      "Betclic (FR)": {
-        "Atlético Huracán": 2.43,
-        "Racing Club": 2.9,
-        "Draw": 2.62
+        "FC Inter Turku": 1.58,
+        "VPS Vaasa": 5.2,
+        "Draw": 3.4
       },
       "1xBet": {
-        "Atlético Huracán": 2.72,
-        "Racing Club": 3.04,
-        "Draw": 2.81
+        "FC Inter Turku": 1.69,
+        "VPS Vaasa": 4.99,
+        "Draw": 3.64
       },
-      "Betfair": {
-        "Atlético Huracán": 2.8,
-        "Racing Club": 3.25,
-        "Draw": 2.84
-      },
-      "Marathon Bet": {
-        "Atlético Huracán": 2.6,
-        "Racing Club": 3.02,
-        "Draw": 2.8
+      "GTbets": {
+        "FC Inter Turku": 1.71,
+        "VPS Vaasa": 5.25,
+        "Draw": 3.63
       },
       "Nordic Bet": {
-        "Atlético Huracán": 2.65,
-        "Racing Club": 3.05,
-        "Draw": 2.82
+        "FC Inter Turku": 1.65,
+        "VPS Vaasa": 4.9,
+        "Draw": 3.6
       },
       "Betsson": {
-        "Atlético Huracán": 2.65,
-        "Racing Club": 3.05,
-        "Draw": 2.82
-      },
-      "LeoVegas (SE)": {
-        "Atlético Huracán": 2.55,
-        "Racing Club": 2.65,
-        "Draw": 2.7
-      },
-      "Unibet (SE)": {
-        "Atlético Huracán": 2.75,
-        "Racing Club": 2.85,
-        "Draw": 2.88
-      },
-      "Pinnacle": {
-        "Atlético Huracán": 2.77,
-        "Racing Club": 3.12,
-        "Draw": 2.84
+        "FC Inter Turku": 1.65,
+        "VPS Vaasa": 4.9,
+        "Draw": 3.6
       },
       "BetOnline.ag": {
-        "Atlético Huracán": 2.69,
-        "Racing Club": 3.2,
-        "Draw": 2.86
+        "FC Inter Turku": 1.7,
+        "VPS Vaasa": 5.0,
+        "Draw": 3.75
+      },
+      "Pinnacle": {
+        "FC Inter Turku": 1.7,
+        "VPS Vaasa": 5.32,
+        "Draw": 3.85
+      },
+      "Betfair": {
+        "FC Inter Turku": 1.73,
+        "VPS Vaasa": 5.6,
+        "Draw": 3.95
+      },
+      "Marathon Bet": {
+        "FC Inter Turku": 1.67,
+        "VPS Vaasa": 5.05,
+        "Draw": 3.64
+      },
+      "888sport": {
+        "FC Inter Turku": 1.67,
+        "VPS Vaasa": 4.8,
+        "Draw": 3.5
+      },
+      "William Hill": {
+        "FC Inter Turku": 1.67,
+        "VPS Vaasa": 4.8,
+        "Draw": 3.5
+      },
+      "Coolbet": {
+        "FC Inter Turku": 1.68,
+        "VPS Vaasa": 5.5,
+        "Draw": 3.8
       },
       "BetAnything": {
-        "Atlético Huracán": 2.69,
-        "Racing Club": 3.2,
-        "Draw": 2.86
+        "FC Inter Turku": 1.7,
+        "VPS Vaasa": 5.0,
+        "Draw": 3.75
+      },
+      "Matchbook": {
+        "FC Inter Turku": 1.73,
+        "VPS Vaasa": 5.7,
+        "Draw": 3.95
+      }
+    },
+    "ab96884769a05a05f726c563250d8a92:h2h": {
+      "Tipico": {
+        "Bayer Leverkusen": 7.8,
+        "Bayern Munich": 1.3,
+        "Draw": 4.8
+      },
+      "1xBet": {
+        "Bayer Leverkusen": 8.0,
+        "Bayern Munich": 1.28,
+        "Draw": 5.1
+      },
+      "Pinnacle": {
+        "Bayer Leverkusen": 7.43,
+        "Bayern Munich": 1.31,
+        "Draw": 4.99
+      },
+      "888sport": {
+        "Bayer Leverkusen": 7.0,
+        "Bayern Munich": 1.33,
+        "Draw": 4.5
+      },
+      "William Hill": {
+        "Bayer Leverkusen": 7.0,
+        "Bayern Munich": 1.33,
+        "Draw": 4.5
+      },
+      "Unibet (NL)": {
+        "Bayer Leverkusen": 5.8,
+        "Bayern Munich": 1.4,
+        "Draw": 4.25
+      },
+      "Unibet (SE)": {
+        "Bayer Leverkusen": 5.8,
+        "Bayern Munich": 1.4,
+        "Draw": 4.25
+      },
+      "LeoVegas (SE)": {
+        "Bayer Leverkusen": 5.8,
+        "Bayern Munich": 1.4,
+        "Draw": 4.25
+      }
+    },
+    "17a081148b714450797ef8d6a29d16e6:h2h": {
+      "Winamax (DE)": {
+        "AS Roma": 1.52,
+        "Torino": 5.4,
+        "Draw": 4.4
+      },
+      "LeoVegas (SE)": {
+        "AS Roma": 1.51,
+        "Torino": 5.75,
+        "Draw": 3.95
+      },
+      "Unibet (FR)": {
+        "AS Roma": 1.48,
+        "Torino": 5.6,
+        "Draw": 4.2
+      },
+      "Winamax (FR)": {
+        "AS Roma": 1.5,
+        "Torino": 5.3,
+        "Draw": 4.3
+      },
+      "Unibet (NL)": {
+        "AS Roma": 1.57,
+        "Torino": 6.4,
+        "Draw": 4.25
+      },
+      "Unibet (SE)": {
+        "AS Roma": 1.57,
+        "Torino": 6.4,
+        "Draw": 4.25
+      },
+      "PMU (FR)": {
+        "AS Roma": 1.53,
+        "Torino": 5.8,
+        "Draw": 3.95
+      },
+      "Betclic (FR)": {
+        "AS Roma": 1.53,
+        "Torino": 5.6,
+        "Draw": 4.2
+      },
+      "1xBet": {
+        "AS Roma": 1.6,
+        "Torino": 6.29,
+        "Draw": 4.34
+      },
+      "Tipico": {
+        "AS Roma": 1.52,
+        "Torino": 6.0,
+        "Draw": 4.2
+      },
+      "888sport": {
+        "AS Roma": 1.53,
+        "Torino": 5.5,
+        "Draw": 3.9
+      },
+      "William Hill": {
+        "AS Roma": 1.55,
+        "Torino": 5.5,
+        "Draw": 3.9
+      },
+      "Betfair": {
+        "AS Roma": 1.61,
+        "Torino": 6.6,
+        "Draw": 4.3
+      },
+      "Nordic Bet": {
+        "AS Roma": 1.55,
+        "Torino": 5.9,
+        "Draw": 4.05
+      },
+      "Betsson": {
+        "AS Roma": 1.55,
+        "Torino": 5.9,
+        "Draw": 4.05
+      },
+      "Pinnacle": {
+        "AS Roma": 1.56,
+        "Torino": 6.15,
+        "Draw": 4.25
+      },
+      "Codere (IT)": {
+        "AS Roma": 1.56,
+        "Torino": 5.8,
+        "Draw": 4.3
+      },
+      "Coolbet": {
+        "AS Roma": 1.57,
+        "Torino": 6.4,
+        "Draw": 4.3
+      },
+      "Matchbook": {
+        "AS Roma": 1.6,
+        "Torino": 6.6,
+        "Draw": 4.3
+      },
+      "GTbets": {
+        "AS Roma": 1.6,
+        "Torino": 5.89,
+        "Draw": 4.13
+      },
+      "BetOnline.ag": {
+        "AS Roma": 1.57,
+        "Torino": 6.2,
+        "Draw": 4.2
+      },
+      "Everygame": {
+        "AS Roma": 1.53,
+        "Torino": 6.0,
+        "Draw": 4.2
+      },
+      "Marathon Bet": {
+        "AS Roma": 1.56,
+        "Torino": 6.15,
+        "Draw": 4.25
+      },
+      "BetAnything": {
+        "AS Roma": 1.36,
+        "Torino": 2.95,
+        "Draw": 4.1
+      }
+    },
+    "9da3aa4b46166eb4ccd1e600d67080a6:h2h": {
+      "Winamax (DE)": {
+        "Como": 1.21,
+        "Parma": 11.5,
+        "Draw": 6.5
+      },
+      "LeoVegas (SE)": {
+        "Como": 1.18,
+        "Parma": 13.0,
+        "Draw": 6.4
+      },
+      "Unibet (FR)": {
+        "Como": 1.18,
+        "Parma": 13.0,
+        "Draw": 6.1
+      },
+      "Winamax (FR)": {
+        "Como": 1.19,
+        "Parma": 11.0,
+        "Draw": 6.25
+      },
+      "Unibet (NL)": {
+        "Como": 1.22,
+        "Parma": 16.0,
+        "Draw": 7.0
+      },
+      "Unibet (SE)": {
+        "Como": 1.22,
+        "Parma": 16.0,
+        "Draw": 7.0
+      },
+      "PMU (FR)": {
+        "Como": 1.18,
+        "Parma": 13.0,
+        "Draw": 6.4
+      },
+      "Betclic (FR)": {
+        "Como": 1.2,
+        "Parma": 12.75,
+        "Draw": 6.25
+      },
+      "1xBet": {
+        "Como": 1.26,
+        "Parma": 14.8,
+        "Draw": 6.38
+      },
+      "Tipico": {
+        "Como": 1.2,
+        "Parma": 13.0,
+        "Draw": 6.7
+      },
+      "888sport": {
+        "Como": 1.22,
+        "Parma": 12.0,
+        "Draw": 5.5
+      },
+      "Betfair": {
+        "Como": 1.25,
+        "Parma": 17.0,
+        "Draw": 6.8
+      },
+      "William Hill": {
+        "Como": 1.22,
+        "Parma": 12.0,
+        "Draw": 5.5
+      },
+      "Nordic Bet": {
+        "Como": 1.25,
+        "Parma": 14.5,
+        "Draw": 5.25
+      },
+      "Betsson": {
+        "Como": 1.25,
+        "Parma": 14.5,
+        "Draw": 5.25
+      },
+      "Pinnacle": {
+        "Como": 1.23,
+        "Parma": 13.66,
+        "Draw": 6.38
+      },
+      "Codere (IT)": {
+        "Como": 1.22,
+        "Parma": 13.0,
+        "Draw": 6.4
+      },
+      "Coolbet": {
+        "Como": 1.23,
+        "Parma": 15.5,
+        "Draw": 6.55
+      },
+      "Matchbook": {
+        "Como": 1.25,
+        "Parma": 17.0,
+        "Draw": 6.8
+      },
+      "GTbets": {
+        "Como": 1.26,
+        "Parma": 13.38,
+        "Draw": 6.07
+      },
+      "BetOnline.ag": {
+        "Como": 1.23,
+        "Parma": 14.5,
+        "Draw": 6.45
+      },
+      "Everygame": {
+        "Como": 1.22,
+        "Parma": 13.0,
+        "Draw": 6.25
+      },
+      "Marathon Bet": {
+        "Como": 1.24,
+        "Parma": 14.25,
+        "Draw": 6.15
+      },
+      "BetAnything": {
+        "Como": 1.13,
+        "Parma": 4.35,
+        "Draw": 6.0
       }
     }
   },
@@ -5513,24 +5628,128 @@
       "confidence": 148,
       "alert_type": "value",
       "alerted_at": "2026-09-14T00:07:28.630493+00:00"
+    },
+    {
+      "state_key": "9da3aa4b46166eb4ccd1e600d67080a6:h2h",
+      "event_id": "9da3aa4b46166eb4ccd1e600d67080a6",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Como",
+      "away_team": "Parma",
+      "commence_time": "2026-09-14T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Parma",
+      "odds_at_alert": 16.0,
+      "stake_pct": 3.0,
+      "confidence": 12,
+      "alert_type": "value",
+      "alerted_at": "2026-09-14T07:51:06.496860+00:00"
+    },
+    {
+      "state_key": "9da3aa4b46166eb4ccd1e600d67080a6:h2h",
+      "event_id": "9da3aa4b46166eb4ccd1e600d67080a6",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Como",
+      "away_team": "Parma",
+      "commence_time": "2026-09-14T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 7.0,
+      "stake_pct": 2.0,
+      "confidence": 5,
+      "alert_type": "value",
+      "alerted_at": "2026-09-14T07:51:07.057160+00:00"
+    },
+    {
+      "state_key": "9da3aa4b46166eb4ccd1e600d67080a6:h2h",
+      "event_id": "9da3aa4b46166eb4ccd1e600d67080a6",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Como",
+      "away_team": "Parma",
+      "commence_time": "2026-09-14T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Parma",
+      "odds_at_alert": 16.0,
+      "stake_pct": 3.0,
+      "confidence": 12,
+      "alert_type": "value",
+      "alerted_at": "2026-09-14T07:51:07.581528+00:00"
+    },
+    {
+      "state_key": "9da3aa4b46166eb4ccd1e600d67080a6:h2h",
+      "event_id": "9da3aa4b46166eb4ccd1e600d67080a6",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Como",
+      "away_team": "Parma",
+      "commence_time": "2026-09-14T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 7.0,
+      "stake_pct": 2.0,
+      "confidence": 5,
+      "alert_type": "value",
+      "alerted_at": "2026-09-14T07:51:08.125346+00:00"
+    },
+    {
+      "state_key": "9da3aa4b46166eb4ccd1e600d67080a6:h2h",
+      "event_id": "9da3aa4b46166eb4ccd1e600d67080a6",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Como",
+      "away_team": "Parma",
+      "commence_time": "2026-09-14T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Parma",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 19,
+      "alert_type": "value",
+      "alerted_at": "2026-09-14T07:51:08.646501+00:00"
+    },
+    {
+      "state_key": "9da3aa4b46166eb4ccd1e600d67080a6:h2h",
+      "event_id": "9da3aa4b46166eb4ccd1e600d67080a6",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Como",
+      "away_team": "Parma",
+      "commence_time": "2026-09-14T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Parma",
+      "odds_at_alert": 15.5,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-09-14T07:51:09.139145+00:00"
+    },
+    {
+      "state_key": "9da3aa4b46166eb4ccd1e600d67080a6:h2h",
+      "event_id": "9da3aa4b46166eb4ccd1e600d67080a6",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Como",
+      "away_team": "Parma",
+      "commence_time": "2026-09-14T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Parma",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 19,
+      "alert_type": "value",
+      "alerted_at": "2026-09-14T07:51:09.668269+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "e4caa5a1c5c1b371a7f674b8c3cb5ed0:h2h|888sport|Vancouver Whitecaps FC",
-    "e4caa5a1c5c1b371a7f674b8c3cb5ed0:h2h|Betclic (FR)|Vancouver Whitecaps FC",
-    "e4caa5a1c5c1b371a7f674b8c3cb5ed0:h2h|Betfair|Vancouver Whitecaps FC",
-    "e4caa5a1c5c1b371a7f674b8c3cb5ed0:h2h|Betsson|Vancouver Whitecaps FC",
-    "e4caa5a1c5c1b371a7f674b8c3cb5ed0:h2h|Coolbet|Vancouver Whitecaps FC",
-    "e4caa5a1c5c1b371a7f674b8c3cb5ed0:h2h|LeoVegas (SE)|Vancouver Whitecaps FC",
-    "e4caa5a1c5c1b371a7f674b8c3cb5ed0:h2h|Matchbook|Vancouver Whitecaps FC",
-    "e4caa5a1c5c1b371a7f674b8c3cb5ed0:h2h|MyBookie.ag|Vancouver Whitecaps FC",
-    "e4caa5a1c5c1b371a7f674b8c3cb5ed0:h2h|Nordic Bet|Vancouver Whitecaps FC",
-    "e4caa5a1c5c1b371a7f674b8c3cb5ed0:h2h|PMU (FR)|Vancouver Whitecaps FC",
-    "e4caa5a1c5c1b371a7f674b8c3cb5ed0:h2h|Tipico|Vancouver Whitecaps FC",
-    "e4caa5a1c5c1b371a7f674b8c3cb5ed0:h2h|Unibet (NL)|Vancouver Whitecaps FC",
-    "e4caa5a1c5c1b371a7f674b8c3cb5ed0:h2h|Unibet (SE)|Vancouver Whitecaps FC",
-    "e4caa5a1c5c1b371a7f674b8c3cb5ed0:h2h|Winamax (DE)|Vancouver Whitecaps FC",
-    "e4caa5a1c5c1b371a7f674b8c3cb5ed0:h2h|Winamax (FR)|Vancouver Whitecaps FC"
+    "9da3aa4b46166eb4ccd1e600d67080a6:h2h|Betfair|Parma",
+    "9da3aa4b46166eb4ccd1e600d67080a6:h2h|Coolbet|Parma",
+    "9da3aa4b46166eb4ccd1e600d67080a6:h2h|Matchbook|Parma",
+    "9da3aa4b46166eb4ccd1e600d67080a6:h2h|Unibet (NL)|Draw",
+    "9da3aa4b46166eb4ccd1e600d67080a6:h2h|Unibet (NL)|Parma",
+    "9da3aa4b46166eb4ccd1e600d67080a6:h2h|Unibet (SE)|Draw",
+    "9da3aa4b46166eb4ccd1e600d67080a6:h2h|Unibet (SE)|Parma"
   ]
 }
