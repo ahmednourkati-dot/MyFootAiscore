@@ -1,201 +1,266 @@
 {
   "snapshots": {
-    "5751b76f18cdad53d0e5590bd7bf2677:h2h": {
+    "8d08934dc5b14c9475b0a1280f8fe128:h2h": {
+      "Winamax (FR)": {
+        "Independiente": 7.5,
+        "San Lorenzo": 19.0,
+        "Draw": 1.13
+      },
       "Winamax (DE)": {
-        "Brest": 1000.0,
-        "Paris Saint Germain": 1.02,
-        "Draw": 24.0
+        "Independiente": 7.75,
+        "San Lorenzo": 19.0,
+        "Draw": 1.1
       },
       "Betclic (FR)": {
-        "Brest": 100.0,
-        "Paris Saint Germain": 1.01,
-        "Draw": 15.0
-      },
-      "Winamax (FR)": {
-        "Brest": 1000.0,
-        "Paris Saint Germain": 1.02,
-        "Draw": 23.0
-      },
-      "Betfair": {
-        "Brest": 1000.0,
-        "Paris Saint Germain": 1.01,
-        "Draw": 50.0
-      },
-      "888sport": {
-        "Brest": 151.0,
-        "Paris Saint Germain": 1.01,
-        "Draw": 23.0
-      },
-      "Coolbet": {
-        "Brest": 250.0,
-        "Paris Saint Germain": 1.0,
-        "Draw": 28.0
-      },
-      "Betsson": {
-        "Brest": 151.0,
-        "Paris Saint Germain": 1.0,
-        "Draw": 17.0
-      },
-      "Nordic Bet": {
-        "Brest": 101.0,
-        "Paris Saint Germain": 1.0,
-        "Draw": 19.0
-      }
-    },
-    "0a91f850039ce571eb6e90b2eed15548:h2h": {
-      "Winamax (DE)": {
-        "Juventus": 15.0,
-        "Sassuolo": 30.0,
-        "Draw": 1.05
-      },
-      "LeoVegas (SE)": {
-        "Juventus": 12.5,
-        "Sassuolo": 30.0,
-        "Draw": 1.03
-      },
-      "Winamax (FR)": {
-        "Juventus": 12.5,
-        "Sassuolo": 27.0,
-        "Draw": 1.07
-      },
-      "Unibet (NL)": {
-        "Juventus": 14.0,
-        "Sassuolo": 35.0,
-        "Draw": 1.04
-      },
-      "Unibet (SE)": {
-        "Juventus": 13.0,
-        "Sassuolo": 31.0,
-        "Draw": 1.05
-      },
-      "PMU (FR)": {
-        "Juventus": 12.5,
-        "Sassuolo": 30.0,
-        "Draw": 1.01
-      },
-      "Betclic (FR)": {
-        "Juventus": 10.0,
-        "Sassuolo": 17.0,
-        "Draw": 1.04
-      },
-      "Tipico": {
-        "Juventus": 400.0,
-        "Sassuolo": 1.01,
-        "Draw": 20.0
-      },
-      "888sport": {
-        "Juventus": 9.0,
-        "Sassuolo": 19.0,
+        "Independiente": 6.4,
+        "San Lorenzo": 14.0,
         "Draw": 1.11
       },
-      "Pinnacle": {
-        "Juventus": 15.61,
-        "Sassuolo": 1.39,
-        "Draw": 3.76
-      },
-      "Betfair": {
-        "Juventus": 390.0,
-        "Sassuolo": 1.04,
-        "Draw": 21.0
-      },
-      "Nordic Bet": {
-        "Juventus": 180.0,
-        "Sassuolo": 1.01,
-        "Draw": 15.0
-      },
-      "Betsson": {
-        "Juventus": 9.6,
-        "Sassuolo": 19.5,
-        "Draw": 1.07
-      },
-      "Coolbet": {
-        "Juventus": 750.0,
-        "Sassuolo": 1.01,
-        "Draw": 20.0
-      }
-    },
-    "c12d564e4bc1801ed6abd2d4d8b962ca:h2h": {
-      "Nordic Bet": {
-        "Atletico Goianiense": 1.0,
-        "Criciuma": 26.0,
-        "Draw": 26.0
-      },
-      "Betsson": {
-        "Atletico Goianiense": 1.0,
-        "Criciuma": 26.0,
-        "Draw": 26.0
-      },
-      "Betfair": {
-        "Atletico Goianiense": 1.01,
-        "Criciuma": 90.0,
-        "Draw": 50.0
-      }
-    },
-    "14e37b5aaf6fec05a01f7e1309025a66:h2h": {
-      "Tipico": {
-        "Atlético Madrid": 1.4,
-        "Real Sociedad": 20.0,
-        "Draw": 3.3
-      },
-      "Winamax (FR)": {
-        "Atlético Madrid": 1.36,
-        "Real Sociedad": 18.0,
-        "Draw": 3.2
-      },
-      "Winamax (DE)": {
-        "Atlético Madrid": 1.39,
-        "Real Sociedad": 19.0,
-        "Draw": 3.35
-      },
-      "Pinnacle": {
-        "Atlético Madrid": 3.65,
-        "Real Sociedad": 4.95,
-        "Draw": 1.74
-      },
-      "Nordic Bet": {
-        "Atlético Madrid": 4.1,
-        "Real Sociedad": 5.35,
-        "Draw": 1.49
-      },
-      "Betsson": {
-        "Atlético Madrid": 4.4,
-        "Real Sociedad": 5.35,
-        "Draw": 1.49
-      },
-      "Betfair": {
-        "Atlético Madrid": 4.3,
-        "Real Sociedad": 7.4,
-        "Draw": 1.53
-      },
-      "PMU (FR)": {
-        "Atlético Madrid": 1.35,
-        "Real Sociedad": 17.0,
-        "Draw": 3.25
-      },
-      "Unibet (NL)": {
-        "Atlético Madrid": 1.38,
-        "Real Sociedad": 18.0,
-        "Draw": 3.45
+      "LeoVegas (SE)": {
+        "Independiente": 6.75,
+        "San Lorenzo": 16.0,
+        "Draw": 1.08
       },
       "Unibet (SE)": {
-        "Atlético Madrid": 1.38,
-        "Real Sociedad": 18.0,
-        "Draw": 3.45
+        "Independiente": 7.0,
+        "San Lorenzo": 17.0,
+        "Draw": 1.14
+      },
+      "Betsson": {
+        "Independiente": 7.7,
+        "San Lorenzo": 16.0,
+        "Draw": 1.1
+      },
+      "Nordic Bet": {
+        "Independiente": 7.7,
+        "San Lorenzo": 16.0,
+        "Draw": 1.1
+      },
+      "Betfair": {
+        "Independiente": 7.6,
+        "San Lorenzo": 18.0,
+        "Draw": 1.2
+      },
+      "Pinnacle": {
+        "Independiente": 8.62,
+        "San Lorenzo": 19.43,
+        "Draw": 1.12
+      }
+    },
+    "e4caa5a1c5c1b371a7f674b8c3cb5ed0:h2h": {
+      "Unibet (SE)": {
+        "Austin FC": 2.2,
+        "Vancouver Whitecaps FC": 4.1,
+        "Draw": 2.6
+      },
+      "PMU (FR)": {
+        "Austin FC": 2.04,
+        "Vancouver Whitecaps FC": 3.8,
+        "Draw": 2.4
+      },
+      "Unibet (NL)": {
+        "Austin FC": 2.2,
+        "Vancouver Whitecaps FC": 4.1,
+        "Draw": 2.6
       },
       "LeoVegas (SE)": {
-        "Atlético Madrid": 1.38,
-        "Real Sociedad": 18.0,
-        "Draw": 3.35
+        "Austin FC": 2.14,
+        "Vancouver Whitecaps FC": 3.95,
+        "Draw": 2.5
       },
-      "Matchbook": {
-        "Atlético Madrid": 4.5,
-        "Real Sociedad": 7.2,
-        "Draw": 1.54
+      "MyBookie.ag": {
+        "Austin FC": 2.3,
+        "Vancouver Whitecaps FC": 3.25,
+        "Draw": 2.8
+      },
+      "Winamax (DE)": {
+        "Austin FC": 2.1,
+        "Vancouver Whitecaps FC": 3.85,
+        "Draw": 2.7
+      },
+      "Winamax (FR)": {
+        "Austin FC": 2.0,
+        "Vancouver Whitecaps FC": 3.75,
+        "Draw": 2.6
+      },
+      "Betclic (FR)": {
+        "Austin FC": 2.0,
+        "Vancouver Whitecaps FC": 3.68,
+        "Draw": 2.7
+      },
+      "Betfair": {
+        "Austin FC": 2.34,
+        "Vancouver Whitecaps FC": 3.9,
+        "Draw": 3.05
+      },
+      "888sport": {
+        "Austin FC": 2.15,
+        "Vancouver Whitecaps FC": 3.7,
+        "Draw": 2.7
       },
       "Coolbet": {
-        "Atlético Madrid": 4.5,
-        "Real Sociedad": 6.0,
-        "Draw": 1.53
+        "Austin FC": 2.1,
+        "Vancouver Whitecaps FC": 4.33,
+        "Draw": 2.8
+      },
+      "Nordic Bet": {
+        "Austin FC": 2.1,
+        "Vancouver Whitecaps FC": 3.9,
+        "Draw": 2.75
+      },
+      "Betsson": {
+        "Austin FC": 2.05,
+        "Vancouver Whitecaps FC": 4.1,
+        "Draw": 2.75
+      },
+      "Pinnacle": {
+        "Austin FC": 9.92,
+        "Vancouver Whitecaps FC": 1.63,
+        "Draw": 2.86
+      },
+      "Tipico": {
+        "Austin FC": 1.95,
+        "Vancouver Whitecaps FC": 4.3,
+        "Draw": 2.9
+      },
+      "Matchbook": {
+        "Austin FC": 2.34,
+        "Vancouver Whitecaps FC": 4.3,
+        "Draw": 2.94
+      }
+    },
+    "f13af1f3fff3a8c372cd8d3edf4b078b:h2h": {
+      "Winamax (DE)": {
+        "Audax Italiano": 1.56,
+        "O'Higgins": 6.0,
+        "Draw": 3.3
+      },
+      "Coolbet": {
+        "Audax Italiano": 1.62,
+        "O'Higgins": 7.0,
+        "Draw": 3.6
+      },
+      "Winamax (FR)": {
+        "Audax Italiano": 1.54,
+        "O'Higgins": 5.9,
+        "Draw": 3.25
+      },
+      "888sport": {
+        "Audax Italiano": 1.53,
+        "O'Higgins": 6.0,
+        "Draw": 3.25
+      },
+      "Pinnacle": {
+        "Audax Italiano": 1.56,
+        "O'Higgins": 7.19,
+        "Draw": 3.47
+      },
+      "LeoVegas (SE)": {
+        "Audax Italiano": 1.44,
+        "O'Higgins": 6.1,
+        "Draw": 3.15
+      },
+      "Unibet (SE)": {
+        "Audax Italiano": 1.54,
+        "O'Higgins": 6.4,
+        "Draw": 3.35
+      },
+      "Tipico": {
+        "Audax Italiano": 1.5,
+        "O'Higgins": 7.0,
+        "Draw": 3.4
+      },
+      "Betsson": {
+        "Audax Italiano": 1.55,
+        "O'Higgins": 6.3,
+        "Draw": 3.4
+      },
+      "Nordic Bet": {
+        "Audax Italiano": 1.55,
+        "O'Higgins": 6.3,
+        "Draw": 3.4
+      },
+      "Betfair": {
+        "Audax Italiano": 1.67,
+        "O'Higgins": 7.4,
+        "Draw": 3.6
+      },
+      "Matchbook": {
+        "Audax Italiano": 1.62,
+        "O'Higgins": 8.0,
+        "Draw": 3.65
+      }
+    },
+    "5789bf7f6c1794a968dbb9cb7bec7075:h2h": {
+      "Unibet (FR)": {
+        "Atlético Huracán": 2.4,
+        "Racing Club": 2.95,
+        "Draw": 2.65
+      },
+      "Winamax (DE)": {
+        "Atlético Huracán": 2.55,
+        "Racing Club": 2.95,
+        "Draw": 2.75
+      },
+      "Winamax (FR)": {
+        "Atlético Huracán": 2.5,
+        "Racing Club": 2.85,
+        "Draw": 2.7
+      },
+      "Betclic (FR)": {
+        "Atlético Huracán": 2.43,
+        "Racing Club": 2.9,
+        "Draw": 2.62
+      },
+      "1xBet": {
+        "Atlético Huracán": 2.72,
+        "Racing Club": 3.04,
+        "Draw": 2.81
+      },
+      "Betfair": {
+        "Atlético Huracán": 2.8,
+        "Racing Club": 3.25,
+        "Draw": 2.84
+      },
+      "Marathon Bet": {
+        "Atlético Huracán": 2.6,
+        "Racing Club": 3.02,
+        "Draw": 2.8
+      },
+      "Nordic Bet": {
+        "Atlético Huracán": 2.65,
+        "Racing Club": 3.05,
+        "Draw": 2.82
+      },
+      "Betsson": {
+        "Atlético Huracán": 2.65,
+        "Racing Club": 3.05,
+        "Draw": 2.82
+      },
+      "LeoVegas (SE)": {
+        "Atlético Huracán": 2.55,
+        "Racing Club": 2.65,
+        "Draw": 2.7
+      },
+      "Unibet (SE)": {
+        "Atlético Huracán": 2.75,
+        "Racing Club": 2.85,
+        "Draw": 2.88
+      },
+      "Pinnacle": {
+        "Atlético Huracán": 2.77,
+        "Racing Club": 3.12,
+        "Draw": 2.84
+      },
+      "BetOnline.ag": {
+        "Atlético Huracán": 2.69,
+        "Racing Club": 3.2,
+        "Draw": 2.86
+      },
+      "BetAnything": {
+        "Atlético Huracán": 2.69,
+        "Racing Club": 3.2,
+        "Draw": 2.86
       }
     }
   },
@@ -5208,48 +5273,264 @@
       "confidence": 15,
       "alert_type": "value",
       "alerted_at": "2026-09-13T20:43:28.514456+00:00"
+    },
+    {
+      "state_key": "e4caa5a1c5c1b371a7f674b8c3cb5ed0:h2h",
+      "event_id": "e4caa5a1c5c1b371a7f674b8c3cb5ed0",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Vancouver Whitecaps FC",
+      "away_team": "Austin FC",
+      "commence_time": "2026-09-13T22:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Vancouver Whitecaps FC",
+      "odds_at_alert": 4.1,
+      "stake_pct": 5.0,
+      "confidence": 136,
+      "alert_type": "value",
+      "alerted_at": "2026-09-14T00:07:22.249320+00:00"
+    },
+    {
+      "state_key": "e4caa5a1c5c1b371a7f674b8c3cb5ed0:h2h",
+      "event_id": "e4caa5a1c5c1b371a7f674b8c3cb5ed0",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Vancouver Whitecaps FC",
+      "away_team": "Austin FC",
+      "commence_time": "2026-09-13T22:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Vancouver Whitecaps FC",
+      "odds_at_alert": 3.8,
+      "stake_pct": 5.0,
+      "confidence": 119,
+      "alert_type": "value",
+      "alerted_at": "2026-09-14T00:07:22.701923+00:00"
+    },
+    {
+      "state_key": "e4caa5a1c5c1b371a7f674b8c3cb5ed0:h2h",
+      "event_id": "e4caa5a1c5c1b371a7f674b8c3cb5ed0",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Vancouver Whitecaps FC",
+      "away_team": "Austin FC",
+      "commence_time": "2026-09-13T22:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Vancouver Whitecaps FC",
+      "odds_at_alert": 4.1,
+      "stake_pct": 5.0,
+      "confidence": 136,
+      "alert_type": "value",
+      "alerted_at": "2026-09-14T00:07:23.152266+00:00"
+    },
+    {
+      "state_key": "e4caa5a1c5c1b371a7f674b8c3cb5ed0:h2h",
+      "event_id": "e4caa5a1c5c1b371a7f674b8c3cb5ed0",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Vancouver Whitecaps FC",
+      "away_team": "Austin FC",
+      "commence_time": "2026-09-13T22:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Vancouver Whitecaps FC",
+      "odds_at_alert": 3.95,
+      "stake_pct": 5.0,
+      "confidence": 128,
+      "alert_type": "value",
+      "alerted_at": "2026-09-14T00:07:23.594954+00:00"
+    },
+    {
+      "state_key": "e4caa5a1c5c1b371a7f674b8c3cb5ed0:h2h",
+      "event_id": "e4caa5a1c5c1b371a7f674b8c3cb5ed0",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Vancouver Whitecaps FC",
+      "away_team": "Austin FC",
+      "commence_time": "2026-09-13T22:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Vancouver Whitecaps FC",
+      "odds_at_alert": 3.25,
+      "stake_pct": 5.0,
+      "confidence": 87,
+      "alert_type": "value",
+      "alerted_at": "2026-09-14T00:07:24.035282+00:00"
+    },
+    {
+      "state_key": "e4caa5a1c5c1b371a7f674b8c3cb5ed0:h2h",
+      "event_id": "e4caa5a1c5c1b371a7f674b8c3cb5ed0",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Vancouver Whitecaps FC",
+      "away_team": "Austin FC",
+      "commence_time": "2026-09-13T22:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Vancouver Whitecaps FC",
+      "odds_at_alert": 3.85,
+      "stake_pct": 5.0,
+      "confidence": 122,
+      "alert_type": "value",
+      "alerted_at": "2026-09-14T00:07:24.482573+00:00"
+    },
+    {
+      "state_key": "e4caa5a1c5c1b371a7f674b8c3cb5ed0:h2h",
+      "event_id": "e4caa5a1c5c1b371a7f674b8c3cb5ed0",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Vancouver Whitecaps FC",
+      "away_team": "Austin FC",
+      "commence_time": "2026-09-13T22:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Vancouver Whitecaps FC",
+      "odds_at_alert": 3.75,
+      "stake_pct": 5.0,
+      "confidence": 116,
+      "alert_type": "value",
+      "alerted_at": "2026-09-14T00:07:24.927644+00:00"
+    },
+    {
+      "state_key": "e4caa5a1c5c1b371a7f674b8c3cb5ed0:h2h",
+      "event_id": "e4caa5a1c5c1b371a7f674b8c3cb5ed0",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Vancouver Whitecaps FC",
+      "away_team": "Austin FC",
+      "commence_time": "2026-09-13T22:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Vancouver Whitecaps FC",
+      "odds_at_alert": 3.68,
+      "stake_pct": 5.0,
+      "confidence": 112,
+      "alert_type": "value",
+      "alerted_at": "2026-09-14T00:07:25.380414+00:00"
+    },
+    {
+      "state_key": "e4caa5a1c5c1b371a7f674b8c3cb5ed0:h2h",
+      "event_id": "e4caa5a1c5c1b371a7f674b8c3cb5ed0",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Vancouver Whitecaps FC",
+      "away_team": "Austin FC",
+      "commence_time": "2026-09-13T22:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Vancouver Whitecaps FC",
+      "odds_at_alert": 3.9,
+      "stake_pct": 5.0,
+      "confidence": 125,
+      "alert_type": "value",
+      "alerted_at": "2026-09-14T00:07:25.835547+00:00"
+    },
+    {
+      "state_key": "e4caa5a1c5c1b371a7f674b8c3cb5ed0:h2h",
+      "event_id": "e4caa5a1c5c1b371a7f674b8c3cb5ed0",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Vancouver Whitecaps FC",
+      "away_team": "Austin FC",
+      "commence_time": "2026-09-13T22:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Vancouver Whitecaps FC",
+      "odds_at_alert": 3.7,
+      "stake_pct": 5.0,
+      "confidence": 113,
+      "alert_type": "value",
+      "alerted_at": "2026-09-14T00:07:26.278614+00:00"
+    },
+    {
+      "state_key": "e4caa5a1c5c1b371a7f674b8c3cb5ed0:h2h",
+      "event_id": "e4caa5a1c5c1b371a7f674b8c3cb5ed0",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Vancouver Whitecaps FC",
+      "away_team": "Austin FC",
+      "commence_time": "2026-09-13T22:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Vancouver Whitecaps FC",
+      "odds_at_alert": 4.33,
+      "stake_pct": 5.0,
+      "confidence": 150,
+      "alert_type": "value",
+      "alerted_at": "2026-09-14T00:07:26.734276+00:00"
+    },
+    {
+      "state_key": "e4caa5a1c5c1b371a7f674b8c3cb5ed0:h2h",
+      "event_id": "e4caa5a1c5c1b371a7f674b8c3cb5ed0",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Vancouver Whitecaps FC",
+      "away_team": "Austin FC",
+      "commence_time": "2026-09-13T22:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Vancouver Whitecaps FC",
+      "odds_at_alert": 3.9,
+      "stake_pct": 5.0,
+      "confidence": 125,
+      "alert_type": "value",
+      "alerted_at": "2026-09-14T00:07:27.203737+00:00"
+    },
+    {
+      "state_key": "e4caa5a1c5c1b371a7f674b8c3cb5ed0:h2h",
+      "event_id": "e4caa5a1c5c1b371a7f674b8c3cb5ed0",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Vancouver Whitecaps FC",
+      "away_team": "Austin FC",
+      "commence_time": "2026-09-13T22:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Vancouver Whitecaps FC",
+      "odds_at_alert": 4.1,
+      "stake_pct": 5.0,
+      "confidence": 136,
+      "alert_type": "value",
+      "alerted_at": "2026-09-14T00:07:27.706740+00:00"
+    },
+    {
+      "state_key": "e4caa5a1c5c1b371a7f674b8c3cb5ed0:h2h",
+      "event_id": "e4caa5a1c5c1b371a7f674b8c3cb5ed0",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Vancouver Whitecaps FC",
+      "away_team": "Austin FC",
+      "commence_time": "2026-09-13T22:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Vancouver Whitecaps FC",
+      "odds_at_alert": 4.3,
+      "stake_pct": 5.0,
+      "confidence": 148,
+      "alert_type": "value",
+      "alerted_at": "2026-09-14T00:07:28.190330+00:00"
+    },
+    {
+      "state_key": "e4caa5a1c5c1b371a7f674b8c3cb5ed0:h2h",
+      "event_id": "e4caa5a1c5c1b371a7f674b8c3cb5ed0",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Vancouver Whitecaps FC",
+      "away_team": "Austin FC",
+      "commence_time": "2026-09-13T22:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Vancouver Whitecaps FC",
+      "odds_at_alert": 4.3,
+      "stake_pct": 5.0,
+      "confidence": 148,
+      "alert_type": "value",
+      "alerted_at": "2026-09-14T00:07:28.630493+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "0a91f850039ce571eb6e90b2eed15548:h2h|888sport|Sassuolo",
-    "0a91f850039ce571eb6e90b2eed15548:h2h|Betclic (FR)|Sassuolo",
-    "0a91f850039ce571eb6e90b2eed15548:h2h|Betfair|Draw",
-    "0a91f850039ce571eb6e90b2eed15548:h2h|Betfair|Juventus",
-    "0a91f850039ce571eb6e90b2eed15548:h2h|Betsson|Sassuolo",
-    "0a91f850039ce571eb6e90b2eed15548:h2h|Coolbet|Draw",
-    "0a91f850039ce571eb6e90b2eed15548:h2h|Coolbet|Juventus",
-    "0a91f850039ce571eb6e90b2eed15548:h2h|LeoVegas (SE)|Sassuolo",
-    "0a91f850039ce571eb6e90b2eed15548:h2h|Nordic Bet|Draw",
-    "0a91f850039ce571eb6e90b2eed15548:h2h|Nordic Bet|Juventus",
-    "0a91f850039ce571eb6e90b2eed15548:h2h|PMU (FR)|Sassuolo",
-    "0a91f850039ce571eb6e90b2eed15548:h2h|Tipico|Draw",
-    "0a91f850039ce571eb6e90b2eed15548:h2h|Tipico|Juventus",
-    "0a91f850039ce571eb6e90b2eed15548:h2h|Unibet (NL)|Sassuolo",
-    "0a91f850039ce571eb6e90b2eed15548:h2h|Unibet (SE)|Sassuolo",
-    "0a91f850039ce571eb6e90b2eed15548:h2h|Winamax (DE)|Sassuolo",
-    "0a91f850039ce571eb6e90b2eed15548:h2h|Winamax (FR)|Sassuolo",
-    "14e37b5aaf6fec05a01f7e1309025a66:h2h|Betfair|Atlético Madrid",
-    "14e37b5aaf6fec05a01f7e1309025a66:h2h|Betfair|Real Sociedad",
-    "14e37b5aaf6fec05a01f7e1309025a66:h2h|Betsson|Atlético Madrid",
-    "14e37b5aaf6fec05a01f7e1309025a66:h2h|Coolbet|Atlético Madrid",
-    "14e37b5aaf6fec05a01f7e1309025a66:h2h|Coolbet|Real Sociedad",
-    "14e37b5aaf6fec05a01f7e1309025a66:h2h|LeoVegas (SE)|Draw",
-    "14e37b5aaf6fec05a01f7e1309025a66:h2h|LeoVegas (SE)|Real Sociedad",
-    "14e37b5aaf6fec05a01f7e1309025a66:h2h|Matchbook|Atlético Madrid",
-    "14e37b5aaf6fec05a01f7e1309025a66:h2h|Matchbook|Real Sociedad",
-    "14e37b5aaf6fec05a01f7e1309025a66:h2h|Nordic Bet|Atlético Madrid",
-    "14e37b5aaf6fec05a01f7e1309025a66:h2h|PMU (FR)|Draw",
-    "14e37b5aaf6fec05a01f7e1309025a66:h2h|PMU (FR)|Real Sociedad",
-    "14e37b5aaf6fec05a01f7e1309025a66:h2h|Tipico|Draw",
-    "14e37b5aaf6fec05a01f7e1309025a66:h2h|Tipico|Real Sociedad",
-    "14e37b5aaf6fec05a01f7e1309025a66:h2h|Unibet (NL)|Draw",
-    "14e37b5aaf6fec05a01f7e1309025a66:h2h|Unibet (NL)|Real Sociedad",
-    "14e37b5aaf6fec05a01f7e1309025a66:h2h|Unibet (SE)|Draw",
-    "14e37b5aaf6fec05a01f7e1309025a66:h2h|Unibet (SE)|Real Sociedad",
-    "14e37b5aaf6fec05a01f7e1309025a66:h2h|Winamax (DE)|Draw",
-    "14e37b5aaf6fec05a01f7e1309025a66:h2h|Winamax (DE)|Real Sociedad",
-    "14e37b5aaf6fec05a01f7e1309025a66:h2h|Winamax (FR)|Draw",
-    "14e37b5aaf6fec05a01f7e1309025a66:h2h|Winamax (FR)|Real Sociedad"
+    "e4caa5a1c5c1b371a7f674b8c3cb5ed0:h2h|888sport|Vancouver Whitecaps FC",
+    "e4caa5a1c5c1b371a7f674b8c3cb5ed0:h2h|Betclic (FR)|Vancouver Whitecaps FC",
+    "e4caa5a1c5c1b371a7f674b8c3cb5ed0:h2h|Betfair|Vancouver Whitecaps FC",
+    "e4caa5a1c5c1b371a7f674b8c3cb5ed0:h2h|Betsson|Vancouver Whitecaps FC",
+    "e4caa5a1c5c1b371a7f674b8c3cb5ed0:h2h|Coolbet|Vancouver Whitecaps FC",
+    "e4caa5a1c5c1b371a7f674b8c3cb5ed0:h2h|LeoVegas (SE)|Vancouver Whitecaps FC",
+    "e4caa5a1c5c1b371a7f674b8c3cb5ed0:h2h|Matchbook|Vancouver Whitecaps FC",
+    "e4caa5a1c5c1b371a7f674b8c3cb5ed0:h2h|MyBookie.ag|Vancouver Whitecaps FC",
+    "e4caa5a1c5c1b371a7f674b8c3cb5ed0:h2h|Nordic Bet|Vancouver Whitecaps FC",
+    "e4caa5a1c5c1b371a7f674b8c3cb5ed0:h2h|PMU (FR)|Vancouver Whitecaps FC",
+    "e4caa5a1c5c1b371a7f674b8c3cb5ed0:h2h|Tipico|Vancouver Whitecaps FC",
+    "e4caa5a1c5c1b371a7f674b8c3cb5ed0:h2h|Unibet (NL)|Vancouver Whitecaps FC",
+    "e4caa5a1c5c1b371a7f674b8c3cb5ed0:h2h|Unibet (SE)|Vancouver Whitecaps FC",
+    "e4caa5a1c5c1b371a7f674b8c3cb5ed0:h2h|Winamax (DE)|Vancouver Whitecaps FC",
+    "e4caa5a1c5c1b371a7f674b8c3cb5ed0:h2h|Winamax (FR)|Vancouver Whitecaps FC"
   ]
 }
