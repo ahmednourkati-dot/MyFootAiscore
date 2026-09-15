@@ -1,171 +1,166 @@
 {
   "snapshots": {
-    "247343bc379dfe120732d07d0106e412:h2h": {
-      "Nordic Bet": {
-        "Celta Fortuna": 81.0,
-        "SD Eibar": 1.0,
-        "Draw": 81.0
-      },
+    "eafeaa5150851caed4d2cd649c078552:h2h": {
       "Betsson": {
-        "Celta Fortuna": 81.0,
-        "SD Eibar": 1.0,
-        "Draw": 81.0
+        "América Mineiro": 26.0,
+        "São Bernardo": 1.0,
+        "Draw": 26.0
+      },
+      "Nordic Bet": {
+        "América Mineiro": 26.0,
+        "São Bernardo": 1.0,
+        "Draw": 26.0
+      },
+      "888sport": {
+        "América Mineiro": 151.0,
+        "São Bernardo": 1.0,
+        "Draw": 61.0
+      },
+      "Pinnacle": {
+        "América Mineiro": 28.69,
+        "São Bernardo": 1.21,
+        "Draw": 4.94
+      },
+      "Betfair": {
+        "América Mineiro": 55.0,
+        "São Bernardo": 1.2,
+        "Draw": 6.0
+      }
+    },
+    "9a9505937207ca679e3cd227f492465d:h2h": {
+      "Betsson": {
+        "Botafogo-SP": 26.0,
+        "Goiás": 1.0,
+        "Draw": 26.0
+      },
+      "Nordic Bet": {
+        "Botafogo-SP": 26.0,
+        "Goiás": 1.0,
+        "Draw": 26.0
+      }
+    },
+    "a00e65993c4c590aa790f1691c92b2ab:h2h": {
+      "MyBookie.ag": {
+        "Bahia": 1.12,
+        "Remo": 37.0,
+        "Draw": 6.5
       },
       "Betclic (FR)": {
-        "Celta Fortuna": 100.0,
-        "SD Eibar": 1.0,
-        "Draw": 40.0
-      }
-    },
-    "5b69bbfca45a08180d604fd6eca50b2e:h2h": {
-      "LeoVegas (SE)": {
-        "Derry City": 4.1,
-        "Waterford FC": 4.6,
-        "Draw": 1.41
-      },
-      "PMU (FR)": {
-        "Derry City": 3.9,
-        "Waterford FC": 4.2,
-        "Draw": 1.4
-      },
-      "Unibet (NL)": {
-        "Derry City": 4.25,
-        "Waterford FC": 4.6,
-        "Draw": 1.54
-      },
-      "Betsson": {
-        "Derry City": 4.1,
-        "Waterford FC": 4.1,
-        "Draw": 1.6
-      },
-      "Unibet (SE)": {
-        "Derry City": 4.25,
-        "Waterford FC": 4.6,
-        "Draw": 1.54
-      },
-      "Nordic Bet": {
-        "Derry City": 4.1,
-        "Waterford FC": 4.1,
-        "Draw": 1.6
-      },
-      "Winamax (DE)": {
-        "Derry City": 4.1,
-        "Waterford FC": 4.1,
-        "Draw": 1.62
+        "Bahia": 1.07,
+        "Remo": 24.0,
+        "Draw": 6.1
       },
       "Winamax (FR)": {
-        "Derry City": 4.0,
-        "Waterford FC": 4.0,
-        "Draw": 1.58
+        "Bahia": 1.11,
+        "Remo": 44.0,
+        "Draw": 7.0
       },
-      "Pinnacle": {
-        "Derry City": 4.23,
-        "Waterford FC": 4.09,
-        "Draw": 1.71
-      },
-      "Betfair": {
-        "Derry City": 4.7,
-        "Waterford FC": 4.3,
-        "Draw": 1.72
-      },
-      "Tipico": {
-        "Derry City": 4.0,
-        "Waterford FC": 4.5,
-        "Draw": 1.6
-      },
-      "Matchbook": {
-        "Derry City": 4.9,
-        "Waterford FC": 4.4,
-        "Draw": 1.68
-      }
-    },
-    "6098d401ef1e6e5ce574e4c0085ff6e5:h2h": {
-      "Unibet (NL)": {
-        "Drogheda United": 1.48,
-        "Shelbourne Dublin": 9.5,
-        "Draw": 3.15
-      },
-      "LeoVegas (SE)": {
-        "Drogheda United": 1.36,
-        "Shelbourne Dublin": 9.5,
-        "Draw": 3.0
-      },
-      "PMU (FR)": {
-        "Drogheda United": 1.35,
-        "Shelbourne Dublin": 8.5,
-        "Draw": 2.88
-      },
-      "Unibet (SE)": {
-        "Drogheda United": 1.48,
-        "Shelbourne Dublin": 9.5,
-        "Draw": 3.15
-      },
-      "Betsson": {
-        "Drogheda United": 4.2,
-        "Shelbourne Dublin": 2.45,
-        "Draw": 2.15
-      },
-      "Nordic Bet": {
-        "Drogheda United": 1.58,
-        "Shelbourne Dublin": 6.8,
-        "Draw": 3.05
+      "888sport": {
+        "Bahia": 1.11,
+        "Remo": 36.0,
+        "Draw": 7.0
       },
       "Winamax (DE)": {
-        "Drogheda United": 1.45,
-        "Shelbourne Dublin": 9.0,
-        "Draw": 3.35
+        "Bahia": 1.08,
+        "Remo": 46.0,
+        "Draw": 7.5
       },
-      "Winamax (FR)": {
-        "Drogheda United": 1.45,
-        "Shelbourne Dublin": 8.5,
-        "Draw": 3.2
+      "Betsson": {
+        "Bahia": 1.08,
+        "Remo": 32.0,
+        "Draw": 6.8
       },
-      "Pinnacle": {
-        "Drogheda United": 1.51,
-        "Shelbourne Dublin": 8.9,
-        "Draw": 3.44
+      "Nordic Bet": {
+        "Bahia": 1.07,
+        "Remo": 36.0,
+        "Draw": 7.2
       },
-      "Betfair": {
-        "Drogheda United": 1.54,
-        "Shelbourne Dublin": 12.0,
-        "Draw": 3.6
+      "PMU (FR)": {
+        "Bahia": 1.03,
+        "Remo": 31.0,
+        "Draw": 6.75
+      },
+      "Unibet (NL)": {
+        "Bahia": 1.07,
+        "Remo": 31.0,
+        "Draw": 7.0
+      },
+      "LeoVegas (SE)": {
+        "Bahia": 1.07,
+        "Remo": 31.0,
+        "Draw": 7.0
+      },
+      "Unibet (SE)": {
+        "Bahia": 1.11,
+        "Remo": 35.0,
+        "Draw": 7.5
       },
       "Tipico": {
-        "Drogheda United": 1.4,
-        "Shelbourne Dublin": 11.0,
+        "Bahia": 1.05,
+        "Remo": 45.0,
+        "Draw": 8.0
+      },
+      "Betfair": {
+        "Bahia": 1.16,
+        "Remo": 60.0,
+        "Draw": 7.6
+      }
+    },
+    "df5bae6361eecf196e47b5b5d221af17:h2h": {
+      "Winamax (FR)": {
+        "Deportes Limache": 5.5,
+        "Union La Calera": 1.54,
         "Draw": 3.4
       },
-      "Matchbook": {
-        "Drogheda United": 1.53,
-        "Shelbourne Dublin": 12.0,
-        "Draw": 3.6
-      }
-    },
-    "3c855934ed6ecaa8341c3f2ca0b6f826:h2h": {
-      "Betsson": {
-        "Dundalk": 80.0,
-        "St Patricks Athletic": 1.02,
-        "Draw": 26.0
-      },
-      "Nordic Bet": {
-        "Dundalk": 80.0,
-        "St Patricks Athletic": 1.02,
-        "Draw": 26.0
-      },
       "Winamax (DE)": {
-        "Dundalk": 90.0,
-        "St Patricks Athletic": 1.01,
-        "Draw": 24.0
-      },
-      "Winamax (FR)": {
-        "Dundalk": 85.0,
-        "St Patricks Athletic": 1.02,
-        "Draw": 23.0
+        "Deportes Limache": 5.8,
+        "Union La Calera": 1.54,
+        "Draw": 3.5
       },
       "Betfair": {
-        "Dundalk": 160.0,
-        "St Patricks Athletic": 1.03,
-        "Draw": 30.0
+        "Deportes Limache": 7.0,
+        "Union La Calera": 1.63,
+        "Draw": 3.9
+      },
+      "Pinnacle": {
+        "Deportes Limache": 6.95,
+        "Union La Calera": 1.55,
+        "Draw": 3.63
+      },
+      "Unibet (SE)": {
+        "Deportes Limache": 5.6,
+        "Union La Calera": 1.6,
+        "Draw": 3.35
+      },
+      "LeoVegas (SE)": {
+        "Deportes Limache": 5.4,
+        "Union La Calera": 1.5,
+        "Draw": 3.15
+      },
+      "888sport": {
+        "Deportes Limache": 5.5,
+        "Union La Calera": 1.53,
+        "Draw": 3.4
+      },
+      "Tipico": {
+        "Deportes Limache": 6.5,
+        "Union La Calera": 1.45,
+        "Draw": 3.8
+      },
+      "Nordic Bet": {
+        "Deportes Limache": 6.3,
+        "Union La Calera": 1.5,
+        "Draw": 3.65
+      },
+      "Betsson": {
+        "Deportes Limache": 6.3,
+        "Union La Calera": 1.5,
+        "Draw": 3.65
+      },
+      "Matchbook": {
+        "Deportes Limache": 7.0,
+        "Union La Calera": 1.63,
+        "Draw": 3.9
       }
     }
   },
@@ -4650,17 +4645,111 @@
       "confidence": 27,
       "alert_type": "value",
       "alerted_at": "2026-09-14T20:16:47.966369+00:00"
+    },
+    {
+      "state_key": "eafeaa5150851caed4d2cd649c078552:h2h",
+      "event_id": "eafeaa5150851caed4d2cd649c078552",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "América Mineiro",
+      "away_team": "São Bernardo",
+      "commence_time": "2026-09-14T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 395,
+      "alert_type": "value",
+      "alerted_at": "2026-09-15T00:32:25.772271+00:00"
+    },
+    {
+      "state_key": "eafeaa5150851caed4d2cd649c078552:h2h",
+      "event_id": "eafeaa5150851caed4d2cd649c078552",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "América Mineiro",
+      "away_team": "São Bernardo",
+      "commence_time": "2026-09-14T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 395,
+      "alert_type": "value",
+      "alerted_at": "2026-09-15T00:32:26.269174+00:00"
+    },
+    {
+      "state_key": "eafeaa5150851caed4d2cd649c078552:h2h",
+      "event_id": "eafeaa5150851caed4d2cd649c078552",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "América Mineiro",
+      "away_team": "São Bernardo",
+      "commence_time": "2026-09-14T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "América Mineiro",
+      "odds_at_alert": 151.0,
+      "stake_pct": 5.0,
+      "confidence": 395,
+      "alert_type": "value",
+      "alerted_at": "2026-09-15T00:32:26.766619+00:00"
+    },
+    {
+      "state_key": "eafeaa5150851caed4d2cd649c078552:h2h",
+      "event_id": "eafeaa5150851caed4d2cd649c078552",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "América Mineiro",
+      "away_team": "São Bernardo",
+      "commence_time": "2026-09-14T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 61.0,
+      "stake_pct": 5.0,
+      "confidence": 1061,
+      "alert_type": "value",
+      "alerted_at": "2026-09-15T00:32:27.445864+00:00"
+    },
+    {
+      "state_key": "eafeaa5150851caed4d2cd649c078552:h2h",
+      "event_id": "eafeaa5150851caed4d2cd649c078552",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "América Mineiro",
+      "away_team": "São Bernardo",
+      "commence_time": "2026-09-14T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "América Mineiro",
+      "odds_at_alert": 55.0,
+      "stake_pct": 5.0,
+      "confidence": 80,
+      "alert_type": "value",
+      "alerted_at": "2026-09-15T00:32:27.946461+00:00"
+    },
+    {
+      "state_key": "eafeaa5150851caed4d2cd649c078552:h2h",
+      "event_id": "eafeaa5150851caed4d2cd649c078552",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "América Mineiro",
+      "away_team": "São Bernardo",
+      "commence_time": "2026-09-14T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.0,
+      "stake_pct": 3.0,
+      "confidence": 14,
+      "alert_type": "value",
+      "alerted_at": "2026-09-15T00:32:28.437479+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "5b69bbfca45a08180d604fd6eca50b2e:h2h|LeoVegas (SE)|Waterford FC",
-    "5b69bbfca45a08180d604fd6eca50b2e:h2h|Matchbook|Derry City",
-    "5b69bbfca45a08180d604fd6eca50b2e:h2h|Unibet (NL)|Waterford FC",
-    "5b69bbfca45a08180d604fd6eca50b2e:h2h|Unibet (SE)|Waterford FC",
-    "6098d401ef1e6e5ce574e4c0085ff6e5:h2h|Betfair|Shelbourne Dublin",
-    "6098d401ef1e6e5ce574e4c0085ff6e5:h2h|Betsson|Drogheda United",
-    "6098d401ef1e6e5ce574e4c0085ff6e5:h2h|Matchbook|Shelbourne Dublin",
-    "6098d401ef1e6e5ce574e4c0085ff6e5:h2h|Tipico|Shelbourne Dublin"
+    "eafeaa5150851caed4d2cd649c078552:h2h|888sport|América Mineiro",
+    "eafeaa5150851caed4d2cd649c078552:h2h|888sport|Draw",
+    "eafeaa5150851caed4d2cd649c078552:h2h|Betfair|América Mineiro",
+    "eafeaa5150851caed4d2cd649c078552:h2h|Betfair|Draw",
+    "eafeaa5150851caed4d2cd649c078552:h2h|Betsson|Draw",
+    "eafeaa5150851caed4d2cd649c078552:h2h|Nordic Bet|Draw"
   ]
 }
