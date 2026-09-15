@@ -1,341 +1,196 @@
 {
   "snapshots": {
-    "b220dbd427e089e587897f7cad7c3d75:h2h": {
-      "Betfair": {
-        "Genoa": 1.57,
-        "Südtirol": 7.0,
-        "Draw": 4.3
-      },
-      "Unibet (NL)": {
-        "Genoa": 1.57,
-        "Südtirol": 5.75,
-        "Draw": 3.95
-      },
-      "Winamax (DE)": {
-        "Genoa": 1.48,
-        "Südtirol": 5.6,
-        "Draw": 4.1
-      },
-      "1xBet": {
-        "Genoa": 1.54,
-        "Südtirol": 6.29,
-        "Draw": 4.11
-      },
-      "Codere (IT)": {
-        "Genoa": 1.52,
-        "Südtirol": 6.2,
-        "Draw": 4.2
-      },
-      "LeoVegas (SE)": {
-        "Genoa": 1.53,
-        "Südtirol": 5.3,
-        "Draw": 3.75
-      },
-      "Unibet (SE)": {
-        "Genoa": 1.57,
-        "Südtirol": 5.75,
-        "Draw": 3.95
-      },
-      "Tipico": {
-        "Genoa": 1.45,
-        "Südtirol": 6.5,
-        "Draw": 4.1
-      },
-      "William Hill": {
-        "Genoa": 1.5,
-        "Südtirol": 6.0,
-        "Draw": 3.8
-      },
-      "888sport": {
-        "Genoa": 1.5,
-        "Südtirol": 6.0,
-        "Draw": 3.8
-      },
-      "Pinnacle": {
-        "Genoa": 1.53,
-        "Südtirol": 6.57,
-        "Draw": 4.17
-      }
-    },
     "d99324a4b84c48f48d0923bf33aff657:h2h": {
-      "LeoVegas (SE)": {
-        "Raków Częstochowa": 1.78,
-        "Zagłębie Lubin": 3.8,
-        "Draw": 3.3
-      },
-      "Betsson": {
-        "Raków Częstochowa": 2.0,
-        "Zagłębie Lubin": 3.4,
-        "Draw": 3.4
-      },
-      "Unibet (FR)": {
-        "Raków Częstochowa": 1.88,
-        "Zagłębie Lubin": 3.3,
-        "Draw": 3.4
-      },
-      "Unibet (NL)": {
-        "Raków Częstochowa": 1.88,
-        "Zagłębie Lubin": 4.0,
-        "Draw": 3.5
-      },
-      "Nordic Bet": {
-        "Raków Częstochowa": 2.0,
-        "Zagłębie Lubin": 3.4,
-        "Draw": 3.4
-      },
-      "PMU (FR)": {
-        "Raków Częstochowa": 1.78,
-        "Zagłębie Lubin": 3.8,
-        "Draw": 3.3
-      },
-      "Unibet (SE)": {
-        "Raków Częstochowa": 1.88,
-        "Zagłębie Lubin": 4.0,
-        "Draw": 3.5
-      },
       "Betclic (FR)": {
-        "Raków Częstochowa": 1.92,
-        "Zagłębie Lubin": 3.32,
-        "Draw": 3.37
+        "Raków Częstochowa": 8.25,
+        "Zagłębie Lubin": 7.0,
+        "Draw": 1.14
       },
       "Winamax (FR)": {
-        "Raków Częstochowa": 1.94,
-        "Zagłębie Lubin": 3.25,
-        "Draw": 3.45
+        "Raków Częstochowa": 15.0,
+        "Zagłębie Lubin": 11.0,
+        "Draw": 1.1
       },
       "Winamax (DE)": {
-        "Raków Częstochowa": 1.96,
-        "Zagłębie Lubin": 3.3,
-        "Draw": 3.55
-      },
-      "1xBet": {
-        "Raków Częstochowa": 1.96,
-        "Zagłębie Lubin": 3.62,
-        "Draw": 3.42
-      },
-      "Codere (IT)": {
-        "Raków Częstochowa": 1.99,
-        "Zagłębie Lubin": 3.4,
-        "Draw": 3.45
+        "Raków Częstochowa": 17.0,
+        "Zagłębie Lubin": 12.5,
+        "Draw": 1.06
       },
       "Coolbet": {
-        "Raków Częstochowa": 1.93,
-        "Zagłębie Lubin": 3.75,
-        "Draw": 3.75
-      },
-      "BetOnline.ag": {
-        "Raków Częstochowa": 2.0,
-        "Zagłębie Lubin": 3.7,
-        "Draw": 3.4
-      },
-      "Marathon Bet": {
-        "Raków Częstochowa": 1.94,
-        "Zagłębie Lubin": 3.6,
-        "Draw": 3.42
+        "Raków Częstochowa": 32.5,
+        "Zagłębie Lubin": 1.14,
+        "Draw": 6.0
       },
       "Betfair": {
-        "Raków Częstochowa": 2.08,
-        "Zagłębie Lubin": 3.9,
-        "Draw": 3.65
-      },
-      "Pinnacle": {
-        "Raków Częstochowa": 2.04,
-        "Zagłębie Lubin": 3.79,
-        "Draw": 3.5
+        "Raków Częstochowa": 17.0,
+        "Zagłębie Lubin": 16.5,
+        "Draw": 1.1
       },
       "888sport": {
-        "Raków Częstochowa": 1.95,
-        "Zagłębie Lubin": 3.6,
-        "Draw": 3.3
+        "Raków Częstochowa": 10.0,
+        "Zagłębie Lubin": 7.5,
+        "Draw": 1.17
       },
       "Tipico": {
-        "Raków Częstochowa": 1.9,
-        "Zagłębie Lubin": 3.6,
-        "Draw": 3.5
+        "Raków Częstochowa": 400.0,
+        "Zagłębie Lubin": 1.02,
+        "Draw": 15.0
       },
       "Matchbook": {
-        "Raków Częstochowa": 2.08,
-        "Zagłębie Lubin": 3.95,
-        "Draw": 3.65
-      }
-    },
-    "bcc4c946c5ff9fccad6697014fb9a514:h2h": {
-      "Tipico": {
-        "Alemannia Aachen": 1.95,
-        "FC Würzburger Kickers": 3.4,
-        "Draw": 3.8
-      },
-      "Unibet (NL)": {
-        "Alemannia Aachen": 1.96,
-        "FC Würzburger Kickers": 3.3,
-        "Draw": 3.6
-      },
-      "Unibet (SE)": {
-        "Alemannia Aachen": 1.96,
-        "FC Würzburger Kickers": 3.3,
-        "Draw": 3.6
-      },
-      "LeoVegas (SE)": {
-        "Alemannia Aachen": 1.88,
-        "FC Würzburger Kickers": 3.2,
-        "Draw": 3.5
-      },
-      "Betsson": {
-        "Alemannia Aachen": 1.98,
-        "FC Würzburger Kickers": 3.3,
-        "Draw": 3.5
-      },
-      "Nordic Bet": {
-        "Alemannia Aachen": 1.98,
-        "FC Würzburger Kickers": 3.3,
-        "Draw": 3.5
-      },
-      "Codere (IT)": {
-        "Alemannia Aachen": 2.03,
-        "FC Würzburger Kickers": 3.15,
-        "Draw": 3.55
-      },
-      "Winamax (DE)": {
-        "Alemannia Aachen": 2.0,
-        "FC Würzburger Kickers": 3.15,
-        "Draw": 3.75
-      },
-      "1xBet": {
-        "Alemannia Aachen": 1.95,
-        "FC Würzburger Kickers": 3.21,
-        "Draw": 3.54
-      },
-      "Coolbet": {
-        "Alemannia Aachen": 2.0,
-        "FC Würzburger Kickers": 3.2,
-        "Draw": 3.75
-      },
-      "BetOnline.ag": {
-        "Alemannia Aachen": 2.02,
-        "FC Würzburger Kickers": 3.25,
-        "Draw": 3.85
-      },
-      "Suprabets": {
-        "Alemannia Aachen": 1.96,
-        "FC Würzburger Kickers": 3.09,
-        "Draw": 3.76
-      },
-      "888sport": {
-        "Alemannia Aachen": 1.95,
-        "FC Würzburger Kickers": 3.1,
-        "Draw": 3.5
-      },
-      "Pinnacle": {
-        "Alemannia Aachen": 2.01,
-        "FC Würzburger Kickers": 3.32,
-        "Draw": 3.95
-      },
-      "Betfair": {
-        "Alemannia Aachen": 2.08,
-        "FC Würzburger Kickers": 3.5,
-        "Draw": 4.0
+        "Raków Częstochowa": 17.5,
+        "Zagłębie Lubin": 16.5,
+        "Draw": 1.11
       }
     },
     "b9a6e597fd597637efa24b92d51dda62:h2h": {
-      "Codere (IT)": {
-        "Espanyol": 3.05,
-        "Rayo Vallecano": 2.36,
-        "Draw": 3.4
-      },
-      "1xBet": {
-        "Espanyol": 3.18,
-        "Rayo Vallecano": 2.41,
-        "Draw": 3.49
-      },
-      "Unibet (FR)": {
-        "Espanyol": 2.95,
-        "Rayo Vallecano": 2.2,
-        "Draw": 3.4
-      },
       "Betfair": {
-        "Espanyol": 3.25,
-        "Rayo Vallecano": 2.46,
-        "Draw": 3.45
+        "Espanyol": 50.0,
+        "Rayo Vallecano": 1.1,
+        "Draw": 12.0
       },
       "Betsson": {
-        "Espanyol": 3.05,
-        "Rayo Vallecano": 2.32,
-        "Draw": 3.3
+        "Espanyol": 32.0,
+        "Rayo Vallecano": 1.07,
+        "Draw": 9.6
       },
       "Nordic Bet": {
-        "Espanyol": 3.05,
-        "Rayo Vallecano": 2.32,
-        "Draw": 3.3
+        "Espanyol": 36.0,
+        "Rayo Vallecano": 1.07,
+        "Draw": 9.6
       },
       "Winamax (FR)": {
-        "Espanyol": 2.9,
-        "Rayo Vallecano": 2.25,
-        "Draw": 3.35
+        "Espanyol": 38.0,
+        "Rayo Vallecano": 1.08,
+        "Draw": 9.5
       },
       "Winamax (DE)": {
-        "Espanyol": 2.95,
-        "Rayo Vallecano": 2.3,
-        "Draw": 3.4
-      },
-      "William Hill": {
-        "Espanyol": 3.0,
-        "Rayo Vallecano": 2.3,
-        "Draw": 3.25
+        "Espanyol": 38.0,
+        "Rayo Vallecano": 1.07,
+        "Draw": 10.5
       },
       "Tipico": {
-        "Espanyol": 2.85,
-        "Rayo Vallecano": 2.4,
-        "Draw": 3.4
-      },
-      "Pinnacle": {
-        "Espanyol": 3.17,
-        "Rayo Vallecano": 2.39,
-        "Draw": 3.41
-      },
-      "Marathon Bet": {
-        "Espanyol": 3.1,
-        "Rayo Vallecano": 2.35,
-        "Draw": 3.4
+        "Espanyol": 40.0,
+        "Rayo Vallecano": 1.03,
+        "Draw": 11.0
       },
       "LeoVegas (SE)": {
-        "Espanyol": 3.05,
-        "Rayo Vallecano": 2.25,
-        "Draw": 3.15
+        "Espanyol": 25.0,
+        "Rayo Vallecano": 1.06,
+        "Draw": 9.0
       },
       "PMU (FR)": {
-        "Espanyol": 3.0,
-        "Rayo Vallecano": 2.23,
-        "Draw": 3.05
+        "Espanyol": 25.0,
+        "Rayo Vallecano": 1.05,
+        "Draw": 9.0
       },
       "Unibet (NL)": {
-        "Espanyol": 3.25,
-        "Rayo Vallecano": 2.38,
-        "Draw": 3.35
+        "Espanyol": 25.0,
+        "Rayo Vallecano": 1.08,
+        "Draw": 9.5
       },
       "Unibet (SE)": {
-        "Espanyol": 3.25,
-        "Rayo Vallecano": 2.38,
-        "Draw": 3.35
+        "Espanyol": 25.0,
+        "Rayo Vallecano": 1.08,
+        "Draw": 9.5
       },
       "Matchbook": {
-        "Espanyol": 3.25,
-        "Rayo Vallecano": 2.46,
-        "Draw": 3.45
-      },
-      "Everygame": {
-        "Espanyol": 3.1,
-        "Rayo Vallecano": 2.3,
-        "Draw": 3.3
-      },
-      "BetOnline.ag": {
-        "Espanyol": 3.13,
-        "Rayo Vallecano": 2.37,
-        "Draw": 3.4
+        "Espanyol": 50.0,
+        "Rayo Vallecano": 1.11,
+        "Draw": 10.5
       },
       "Coolbet": {
-        "Espanyol": 3.25,
-        "Rayo Vallecano": 2.35,
-        "Draw": 3.35
+        "Espanyol": 40.0,
+        "Rayo Vallecano": 1.08,
+        "Draw": 12.0
+      }
+    },
+    "b861dbc10a9e616f86d848648367b0ea:h2h": {
+      "Winamax (FR)": {
+        "FC Sion": 4.5,
+        "Grasshopper Zürich": 1.64,
+        "Draw": 3.3
+      },
+      "Betclic (FR)": {
+        "FC Sion": 2.08,
+        "Grasshopper Zürich": 3.53,
+        "Draw": 2.68
+      },
+      "Coolbet": {
+        "FC Sion": 2.2,
+        "Grasshopper Zürich": 3.75,
+        "Draw": 2.88
+      },
+      "Betsson": {
+        "FC Sion": 2.15,
+        "Grasshopper Zürich": 3.65,
+        "Draw": 2.75
+      },
+      "Winamax (DE)": {
+        "FC Sion": 4.8,
+        "Grasshopper Zürich": 1.72,
+        "Draw": 3.2
+      },
+      "Pinnacle": {
+        "FC Sion": 2.2,
+        "Grasshopper Zürich": 3.96,
+        "Draw": 2.84
+      },
+      "Nordic Bet": {
+        "FC Sion": 2.15,
+        "Grasshopper Zürich": 3.65,
+        "Draw": 2.75
+      },
+      "888sport": {
+        "FC Sion": 2.1,
+        "Grasshopper Zürich": 3.5,
+        "Draw": 2.88
+      },
+      "Betfair": {
+        "FC Sion": 5.0,
+        "Grasshopper Zürich": 1.77,
+        "Draw": 3.55
+      },
+      "Unibet (NL)": {
+        "FC Sion": 4.1,
+        "Grasshopper Zürich": 1.83,
+        "Draw": 3.15
+      },
+      "Unibet (SE)": {
+        "FC Sion": 4.1,
+        "Grasshopper Zürich": 1.83,
+        "Draw": 3.15
+      },
+      "LeoVegas (SE)": {
+        "FC Sion": 1.85,
+        "Grasshopper Zürich": 3.6,
+        "Draw": 2.8
+      },
+      "PMU (FR)": {
+        "FC Sion": 1.87,
+        "Grasshopper Zürich": 3.65,
+        "Draw": 2.8
+      },
+      "Tipico": {
+        "FC Sion": 4.5,
+        "Grasshopper Zürich": 1.75,
+        "Draw": 3.3
+      },
+      "Matchbook": {
+        "FC Sion": 5.0,
+        "Grasshopper Zürich": 1.77,
+        "Draw": 3.55
+      }
+    },
+    "c535f4d07e22f9c698dce0c1855d9f8f:h2h": {
+      "Betsson": {
+        "GIF Sundsvall": 41.0,
+        "Landskrona BoIS": 1.0,
+        "Draw": 19.0
+      },
+      "Nordic Bet": {
+        "GIF Sundsvall": 41.0,
+        "Landskrona BoIS": 1.0,
+        "Draw": 19.0
       }
     }
   },
@@ -4916,8 +4771,213 @@
       "confidence": 14,
       "alert_type": "value",
       "alerted_at": "2026-09-15T00:32:28.437479+00:00"
+    },
+    {
+      "state_key": "b861dbc10a9e616f86d848648367b0ea:h2h",
+      "event_id": "b861dbc10a9e616f86d848648367b0ea",
+      "sport_key": "soccer",
+      "competition": "Swiss Superleague",
+      "home_team": "Grasshopper Zürich",
+      "away_team": "FC Sion",
+      "commence_time": "2026-09-15T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Sion",
+      "odds_at_alert": 4.5,
+      "stake_pct": 5.0,
+      "confidence": 93,
+      "alert_type": "value",
+      "alerted_at": "2026-09-15T18:08:13.469214+00:00"
+    },
+    {
+      "state_key": "b861dbc10a9e616f86d848648367b0ea:h2h",
+      "event_id": "b861dbc10a9e616f86d848648367b0ea",
+      "sport_key": "soccer",
+      "competition": "Swiss Superleague",
+      "home_team": "Grasshopper Zürich",
+      "away_team": "FC Sion",
+      "commence_time": "2026-09-15T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.3,
+      "stake_pct": 2.0,
+      "confidence": 10,
+      "alert_type": "value",
+      "alerted_at": "2026-09-15T18:08:13.813104+00:00"
+    },
+    {
+      "state_key": "b861dbc10a9e616f86d848648367b0ea:h2h",
+      "event_id": "b861dbc10a9e616f86d848648367b0ea",
+      "sport_key": "soccer",
+      "competition": "Swiss Superleague",
+      "home_team": "Grasshopper Zürich",
+      "away_team": "FC Sion",
+      "commence_time": "2026-09-15T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Sion",
+      "odds_at_alert": 4.8,
+      "stake_pct": 5.0,
+      "confidence": 106,
+      "alert_type": "value",
+      "alerted_at": "2026-09-15T18:08:14.180222+00:00"
+    },
+    {
+      "state_key": "b861dbc10a9e616f86d848648367b0ea:h2h",
+      "event_id": "b861dbc10a9e616f86d848648367b0ea",
+      "sport_key": "soccer",
+      "competition": "Swiss Superleague",
+      "home_team": "Grasshopper Zürich",
+      "away_team": "FC Sion",
+      "commence_time": "2026-09-15T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.2,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-09-15T18:08:14.519473+00:00"
+    },
+    {
+      "state_key": "b861dbc10a9e616f86d848648367b0ea:h2h",
+      "event_id": "b861dbc10a9e616f86d848648367b0ea",
+      "sport_key": "soccer",
+      "competition": "Swiss Superleague",
+      "home_team": "Grasshopper Zürich",
+      "away_team": "FC Sion",
+      "commence_time": "2026-09-15T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Sion",
+      "odds_at_alert": 5.0,
+      "stake_pct": 5.0,
+      "confidence": 115,
+      "alert_type": "value",
+      "alerted_at": "2026-09-15T18:08:14.859664+00:00"
+    },
+    {
+      "state_key": "b861dbc10a9e616f86d848648367b0ea:h2h",
+      "event_id": "b861dbc10a9e616f86d848648367b0ea",
+      "sport_key": "soccer",
+      "competition": "Swiss Superleague",
+      "home_team": "Grasshopper Zürich",
+      "away_team": "FC Sion",
+      "commence_time": "2026-09-15T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.55,
+      "stake_pct": 5.0,
+      "confidence": 18,
+      "alert_type": "value",
+      "alerted_at": "2026-09-15T18:08:15.192277+00:00"
+    },
+    {
+      "state_key": "b861dbc10a9e616f86d848648367b0ea:h2h",
+      "event_id": "b861dbc10a9e616f86d848648367b0ea",
+      "sport_key": "soccer",
+      "competition": "Swiss Superleague",
+      "home_team": "Grasshopper Zürich",
+      "away_team": "FC Sion",
+      "commence_time": "2026-09-15T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Sion",
+      "odds_at_alert": 4.1,
+      "stake_pct": 5.0,
+      "confidence": 76,
+      "alert_type": "value",
+      "alerted_at": "2026-09-15T18:08:15.520482+00:00"
+    },
+    {
+      "state_key": "b861dbc10a9e616f86d848648367b0ea:h2h",
+      "event_id": "b861dbc10a9e616f86d848648367b0ea",
+      "sport_key": "soccer",
+      "competition": "Swiss Superleague",
+      "home_team": "Grasshopper Zürich",
+      "away_team": "FC Sion",
+      "commence_time": "2026-09-15T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Sion",
+      "odds_at_alert": 4.1,
+      "stake_pct": 5.0,
+      "confidence": 76,
+      "alert_type": "value",
+      "alerted_at": "2026-09-15T18:08:15.867109+00:00"
+    },
+    {
+      "state_key": "b861dbc10a9e616f86d848648367b0ea:h2h",
+      "event_id": "b861dbc10a9e616f86d848648367b0ea",
+      "sport_key": "soccer",
+      "competition": "Swiss Superleague",
+      "home_team": "Grasshopper Zürich",
+      "away_team": "FC Sion",
+      "commence_time": "2026-09-15T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Sion",
+      "odds_at_alert": 4.5,
+      "stake_pct": 5.0,
+      "confidence": 93,
+      "alert_type": "value",
+      "alerted_at": "2026-09-15T18:08:16.221899+00:00"
+    },
+    {
+      "state_key": "b861dbc10a9e616f86d848648367b0ea:h2h",
+      "event_id": "b861dbc10a9e616f86d848648367b0ea",
+      "sport_key": "soccer",
+      "competition": "Swiss Superleague",
+      "home_team": "Grasshopper Zürich",
+      "away_team": "FC Sion",
+      "commence_time": "2026-09-15T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.3,
+      "stake_pct": 2.0,
+      "confidence": 10,
+      "alert_type": "value",
+      "alerted_at": "2026-09-15T18:08:16.562745+00:00"
+    },
+    {
+      "state_key": "b861dbc10a9e616f86d848648367b0ea:h2h",
+      "event_id": "b861dbc10a9e616f86d848648367b0ea",
+      "sport_key": "soccer",
+      "competition": "Swiss Superleague",
+      "home_team": "Grasshopper Zürich",
+      "away_team": "FC Sion",
+      "commence_time": "2026-09-15T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Sion",
+      "odds_at_alert": 5.0,
+      "stake_pct": 5.0,
+      "confidence": 115,
+      "alert_type": "value",
+      "alerted_at": "2026-09-15T18:08:16.940888+00:00"
+    },
+    {
+      "state_key": "b861dbc10a9e616f86d848648367b0ea:h2h",
+      "event_id": "b861dbc10a9e616f86d848648367b0ea",
+      "sport_key": "soccer",
+      "competition": "Swiss Superleague",
+      "home_team": "Grasshopper Zürich",
+      "away_team": "FC Sion",
+      "commence_time": "2026-09-15T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.55,
+      "stake_pct": 5.0,
+      "confidence": 18,
+      "alert_type": "value",
+      "alerted_at": "2026-09-15T18:08:17.319628+00:00"
     }
   ],
   "results_history": [],
-  "value_alerted": []
+  "value_alerted": [
+    "b861dbc10a9e616f86d848648367b0ea:h2h|Betfair|Draw",
+    "b861dbc10a9e616f86d848648367b0ea:h2h|Betfair|FC Sion",
+    "b861dbc10a9e616f86d848648367b0ea:h2h|Matchbook|Draw",
+    "b861dbc10a9e616f86d848648367b0ea:h2h|Matchbook|FC Sion",
+    "b861dbc10a9e616f86d848648367b0ea:h2h|Tipico|Draw",
+    "b861dbc10a9e616f86d848648367b0ea:h2h|Tipico|FC Sion",
+    "b861dbc10a9e616f86d848648367b0ea:h2h|Unibet (NL)|FC Sion",
+    "b861dbc10a9e616f86d848648367b0ea:h2h|Unibet (SE)|FC Sion",
+    "b861dbc10a9e616f86d848648367b0ea:h2h|Winamax (DE)|Draw",
+    "b861dbc10a9e616f86d848648367b0ea:h2h|Winamax (DE)|FC Sion",
+    "b861dbc10a9e616f86d848648367b0ea:h2h|Winamax (FR)|Draw",
+    "b861dbc10a9e616f86d848648367b0ea:h2h|Winamax (FR)|FC Sion"
+  ]
 }
