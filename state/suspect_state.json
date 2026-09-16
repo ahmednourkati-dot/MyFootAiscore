@@ -1,221 +1,45 @@
 {
   "snapshots": {
-    "6e948769ff2d62918fad5472dfbd09d9:h2h": {
+    "97f4580bed3df39e6cd18db7a855da13:h2h": {
       "Pinnacle": {
-        "FC Fakel Voronezh": 12.48,
-        "Spartak Moscow": 1.45,
-        "Draw": 3.49
-      },
-      "Codere (IT)": {
-        "FC Fakel Voronezh": 8.8,
-        "Spartak Moscow": 1.28,
-        "Draw": 5.2
+        "Dinamo Zagreb": 8.91,
+        "Hapoel Be'er Sheva": 7.14,
+        "Draw": 1.23
       }
     },
-    "b3813cbfb07e3a7acada4659b6a961fc:h2h": {
-      "Pinnacle": {
-        "Rodina Moscow": 3.38,
-        "Rubin Kazan": 3.09,
-        "Draw": 2.28
-      },
-      "Codere (IT)": {
-        "Rodina Moscow": 2.85,
-        "Rubin Kazan": 2.34,
-        "Draw": 3.2
-      }
-    },
-    "c21ee4073fe7ac5ce8b48e4e7fc6ed7d:h2h": {
-      "Suprabets": {
-        "Celta Vigo": 1.88,
-        "Omonoia FC": 4.6,
-        "Draw": 3.29
-      },
+    "1a6630094a3b2861b62fe018b03f27e1:h2h": {
       "Betfair": {
-        "Celta Vigo": 1.91,
-        "Omonoia FC": 5.2,
-        "Draw": 3.45
-      },
-      "Codere (IT)": {
-        "Celta Vigo": 1.88,
-        "Omonoia FC": 4.4,
-        "Draw": 3.45
-      },
-      "Unibet (FR)": {
-        "Celta Vigo": 1.8,
-        "Omonoia FC": 4.3,
-        "Draw": 3.2
-      },
-      "Winamax (DE)": {
-        "Celta Vigo": 1.82,
-        "Omonoia FC": 4.5,
-        "Draw": 3.4
-      },
-      "Betclic (FR)": {
-        "Celta Vigo": 1.75,
-        "Omonoia FC": 4.1,
-        "Draw": 3.25
+        "Rennes": 1.01,
+        "SK Sturm Graz": 1.21
       },
       "Pinnacle": {
-        "Celta Vigo": 1.91,
-        "Omonoia FC": 4.65,
-        "Draw": 3.37
-      },
-      "LeoVegas (SE)": {
-        "Celta Vigo": 1.81,
-        "Omonoia FC": 4.5,
-        "Draw": 3.25
-      },
-      "Unibet (SE)": {
-        "Celta Vigo": 1.87,
-        "Omonoia FC": 4.8,
-        "Draw": 3.4
-      },
-      "PMU (FR)": {
-        "Celta Vigo": 1.74,
-        "Omonoia FC": 4.3,
-        "Draw": 3.1
-      },
-      "Unibet (NL)": {
-        "Celta Vigo": 1.87,
-        "Omonoia FC": 4.8,
-        "Draw": 3.4
-      },
-      "Marathon Bet": {
-        "Celta Vigo": 1.9,
-        "Omonoia FC": 4.5,
-        "Draw": 3.36
+        "Rennes": 5.73,
+        "SK Sturm Graz": 10.37,
+        "Draw": 1.26
+      }
+    },
+    "4a3400b0763bcc367171537f40b27a4f:h2h": {
+      "Betclic (FR)": {
+        "Barcelona": 1.0,
+        "Real Racing Club de Santander": 100.0,
+        "Draw": 75.0
       },
       "Nordic Bet": {
-        "Celta Vigo": 1.92,
-        "Omonoia FC": 4.5,
-        "Draw": 3.35
-      },
-      "William Hill": {
-        "Celta Vigo": 1.85,
-        "Omonoia FC": 4.2,
-        "Draw": 3.25
-      },
-      "888sport": {
-        "Celta Vigo": 1.85,
-        "Omonoia FC": 4.2,
-        "Draw": 3.25
-      },
-      "Coolbet": {
-        "Celta Vigo": 1.9,
-        "Omonoia FC": 4.65,
+        "Barcelona": 1.0,
+        "Real Racing Club de Santander": 301.0,
+        "Draw": 301.0
+      }
+    },
+    "41859623025e5d6c2594810312a48702:h2h": {
+      "Winamax (FR)": {
+        "Coquimbo Unido": 2.4,
+        "Huachipato": 2.35,
         "Draw": 3.3
       },
-      "Matchbook": {
-        "Celta Vigo": 1.91,
-        "Omonoia FC": 5.2,
-        "Draw": 3.45
-      },
-      "BetOnline.ag": {
-        "Celta Vigo": 1.85,
-        "Omonoia FC": 4.67,
-        "Draw": 3.55
-      }
-    },
-    "28b060fc8a0b26689973c93aa1ca7bf0:h2h": {
-      "Suprabets": {
-        "FC Ararat-Armenia": 4.6,
-        "Sparta Prague": 1.73,
-        "Draw": 3.87
-      },
-      "Betfair": {
-        "FC Ararat-Armenia": 5.1,
-        "Sparta Prague": 1.78,
-        "Draw": 4.0
-      },
-      "1xBet": {
-        "FC Ararat-Armenia": 4.77,
-        "Sparta Prague": 1.68,
-        "Draw": 4.03
-      },
-      "Codere (IT)": {
-        "FC Ararat-Armenia": 4.3,
-        "Sparta Prague": 1.78,
-        "Draw": 3.9
-      },
-      "Winamax (FR)": {
-        "FC Ararat-Armenia": 4.0,
-        "Sparta Prague": 1.66,
-        "Draw": 3.65
-      },
-      "Unibet (FR)": {
-        "FC Ararat-Armenia": 4.1,
-        "Sparta Prague": 1.66,
-        "Draw": 3.7
-      },
       "Winamax (DE)": {
-        "FC Ararat-Armenia": 4.3,
-        "Sparta Prague": 1.7,
-        "Draw": 3.85
-      },
-      "Betclic (FR)": {
-        "FC Ararat-Armenia": 4.15,
-        "Sparta Prague": 1.65,
-        "Draw": 3.65
-      },
-      "Pinnacle": {
-        "FC Ararat-Armenia": 4.67,
-        "Sparta Prague": 1.76,
-        "Draw": 3.93
-      },
-      "LeoVegas (SE)": {
-        "FC Ararat-Armenia": 4.35,
-        "Sparta Prague": 1.7,
-        "Draw": 3.8
-      },
-      "Unibet (SE)": {
-        "FC Ararat-Armenia": 4.35,
-        "Sparta Prague": 1.7,
-        "Draw": 3.8
-      },
-      "PMU (FR)": {
-        "FC Ararat-Armenia": 4.2,
-        "Sparta Prague": 1.63,
-        "Draw": 3.65
-      },
-      "Unibet (NL)": {
-        "FC Ararat-Armenia": 4.35,
-        "Sparta Prague": 1.7,
-        "Draw": 3.8
-      },
-      "Marathon Bet": {
-        "FC Ararat-Armenia": 4.65,
-        "Sparta Prague": 1.74,
-        "Draw": 3.92
-      },
-      "Nordic Bet": {
-        "FC Ararat-Armenia": 4.7,
-        "Sparta Prague": 1.75,
-        "Draw": 3.9
-      },
-      "William Hill": {
-        "FC Ararat-Armenia": 4.4,
-        "Sparta Prague": 1.73,
-        "Draw": 3.7
-      },
-      "888sport": {
-        "FC Ararat-Armenia": 4.33,
-        "Sparta Prague": 1.73,
-        "Draw": 3.6
-      },
-      "Coolbet": {
-        "FC Ararat-Armenia": 4.6,
-        "Sparta Prague": 1.75,
-        "Draw": 4.1
-      },
-      "Matchbook": {
-        "FC Ararat-Armenia": 4.9,
-        "Sparta Prague": 1.77,
-        "Draw": 4.2
-      },
-      "BetOnline.ag": {
-        "FC Ararat-Armenia": 4.8,
-        "Sparta Prague": 1.74,
-        "Draw": 3.95
+        "Coquimbo Unido": 2.45,
+        "Huachipato": 2.45,
+        "Draw": 3.4
       }
     }
   },
@@ -4767,12 +4591,5 @@
     }
   ],
   "results_history": [],
-  "value_alerted": [
-    "28b060fc8a0b26689973c93aa1ca7bf0:h2h|Betfair|FC Ararat-Armenia",
-    "28b060fc8a0b26689973c93aa1ca7bf0:h2h|Matchbook|FC Ararat-Armenia",
-    "6e948769ff2d62918fad5472dfbd09d9:h2h|Codere (IT)|Draw",
-    "b3813cbfb07e3a7acada4659b6a961fc:h2h|Codere (IT)|Draw",
-    "c21ee4073fe7ac5ce8b48e4e7fc6ed7d:h2h|Betfair|Omonoia FC",
-    "c21ee4073fe7ac5ce8b48e4e7fc6ed7d:h2h|Matchbook|Omonoia FC"
-  ]
+  "value_alerted": []
 }
