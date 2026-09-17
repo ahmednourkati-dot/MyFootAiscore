@@ -1,45 +1,221 @@
 {
   "snapshots": {
-    "97f4580bed3df39e6cd18db7a855da13:h2h": {
-      "Pinnacle": {
-        "Dinamo Zagreb": 8.91,
-        "Hapoel Be'er Sheva": 7.14,
-        "Draw": 1.23
-      }
-    },
-    "1a6630094a3b2861b62fe018b03f27e1:h2h": {
-      "Betfair": {
-        "Rennes": 1.01,
-        "SK Sturm Graz": 1.21
-      },
-      "Pinnacle": {
-        "Rennes": 5.73,
-        "SK Sturm Graz": 10.37,
-        "Draw": 1.26
-      }
-    },
-    "4a3400b0763bcc367171537f40b27a4f:h2h": {
+    "6bc939a1a05a94b93d40c8a194811b92:h2h": {
       "Betclic (FR)": {
-        "Barcelona": 1.0,
-        "Real Racing Club de Santander": 100.0,
-        "Draw": 75.0
+        "Botafogo": 7.75,
+        "Grêmio": 10.0,
+        "Draw": 1.12
       },
-      "Nordic Bet": {
-        "Barcelona": 1.0,
-        "Real Racing Club de Santander": 301.0,
-        "Draw": 301.0
-      }
-    },
-    "41859623025e5d6c2594810312a48702:h2h": {
-      "Winamax (FR)": {
-        "Coquimbo Unido": 2.4,
-        "Huachipato": 2.35,
-        "Draw": 3.3
+      "Coolbet": {
+        "Botafogo": 1.05,
+        "Grêmio": 150.0,
+        "Draw": 12.0
       },
       "Winamax (DE)": {
-        "Coquimbo Unido": 2.45,
-        "Huachipato": 2.45,
+        "Botafogo": 10.0,
+        "Grêmio": 13.5,
+        "Draw": 1.09
+      },
+      "Winamax (FR)": {
+        "Botafogo": 9.0,
+        "Grêmio": 13.0,
+        "Draw": 1.12
+      },
+      "Nordic Bet": {
+        "Botafogo": 1.04,
+        "Grêmio": 65.0,
+        "Draw": 8.2
+      },
+      "888sport": {
+        "Botafogo": 1.0,
+        "Grêmio": 151.0,
+        "Draw": 61.0
+      },
+      "Matchbook": {
+        "Botafogo": 1.08,
+        "Grêmio": 200.0,
+        "Draw": 12.0
+      },
+      "Tipico": {
+        "Botafogo": 10.0,
+        "Grêmio": 11.0,
+        "Draw": 1.1
+      },
+      "Betfair": {
+        "Botafogo": 1.07,
+        "Grêmio": 200.0,
+        "Draw": 13.5
+      },
+      "Unibet (NL)": {
+        "Botafogo": 1.01,
+        "Grêmio": 76.0,
+        "Draw": 9.5
+      },
+      "Unibet (SE)": {
+        "Botafogo": 1.04,
+        "Grêmio": 181.0,
+        "Draw": 12.5
+      },
+      "LeoVegas (SE)": {
+        "Botafogo": 1.01,
+        "Grêmio": 81.0,
+        "Draw": 11.0
+      }
+    },
+    "d808e576d838e0739ba2dc69bd02a4b4:h2h": {
+      "Winamax (FR)": {
+        "Corinthians-SP": 2.1,
+        "Estudiantes La Plata": 3.85,
+        "Draw": 2.75
+      },
+      "1xBet": {
+        "Corinthians-SP": 2.1,
+        "Estudiantes La Plata": 4.51,
+        "Draw": 2.81
+      },
+      "Unibet (FR)": {
+        "Corinthians-SP": 1.99,
+        "Estudiantes La Plata": 3.85,
+        "Draw": 2.65
+      },
+      "Betclic (FR)": {
+        "Corinthians-SP": 2.05,
+        "Estudiantes La Plata": 3.88,
+        "Draw": 2.67
+      },
+      "Codere (IT)": {
+        "Corinthians-SP": 2.16,
+        "Estudiantes La Plata": 4.1,
+        "Draw": 2.75
+      },
+      "Winamax (DE)": {
+        "Corinthians-SP": 2.1,
+        "Estudiantes La Plata": 3.85,
+        "Draw": 2.75
+      },
+      "888sport": {
+        "Corinthians-SP": 2.1,
+        "Estudiantes La Plata": 4.2,
+        "Draw": 2.62
+      },
+      "Suprabets": {
+        "Corinthians-SP": 2.1,
+        "Estudiantes La Plata": 4.1,
+        "Draw": 2.75
+      },
+      "William Hill": {
+        "Corinthians-SP": 2.1,
+        "Estudiantes La Plata": 4.2,
+        "Draw": 2.62
+      },
+      "Nordic Bet": {
+        "Corinthians-SP": 2.05,
+        "Estudiantes La Plata": 4.25,
+        "Draw": 2.72
+      },
+      "Pinnacle": {
+        "Corinthians-SP": 2.16,
+        "Estudiantes La Plata": 4.42,
+        "Draw": 2.86
+      },
+      "Betfair": {
+        "Corinthians-SP": 2.18,
+        "Estudiantes La Plata": 5.0,
+        "Draw": 2.88
+      },
+      "Marathon Bet": {
+        "Corinthians-SP": 2.04,
+        "Estudiantes La Plata": 4.25,
+        "Draw": 2.86
+      },
+      "Unibet (NL)": {
+        "Corinthians-SP": 2.1,
+        "Estudiantes La Plata": 4.3,
+        "Draw": 2.75
+      },
+      "PMU (FR)": {
+        "Corinthians-SP": 2.0,
+        "Estudiantes La Plata": 4.0,
+        "Draw": 2.63
+      },
+      "LeoVegas (SE)": {
+        "Corinthians-SP": 2.02,
+        "Estudiantes La Plata": 4.2,
+        "Draw": 2.7
+      },
+      "BetOnline.ag": {
+        "Corinthians-SP": 2.11,
+        "Estudiantes La Plata": 4.58,
+        "Draw": 2.8
+      },
+      "GTbets": {
+        "Corinthians-SP": 2.12,
+        "Estudiantes La Plata": 4.32,
+        "Draw": 2.93
+      },
+      "Tipico": {
+        "Corinthians-SP": 2.0,
+        "Estudiantes La Plata": 4.7,
+        "Draw": 2.8
+      },
+      "Coolbet": {
+        "Corinthians-SP": 2.1,
+        "Estudiantes La Plata": 4.2,
+        "Draw": 3.0
+      }
+    },
+    "0325c92e78d953a32274e490e12f9e73:h2h": {
+      "Pinnacle": {
+        "FC Krasnodar": 1.76,
+        "Gazovik Orenburg": 4.66,
+        "Draw": 3.84
+      },
+      "1xBet": {
+        "FC Krasnodar": 1.78,
+        "Gazovik Orenburg": 4.76,
+        "Draw": 4.08
+      },
+      "BetOnline.ag": {
+        "FC Krasnodar": 1.73,
+        "Gazovik Orenburg": 4.5,
+        "Draw": 3.75
+      },
+      "Codere (IT)": {
+        "FC Krasnodar": 1.73,
+        "Gazovik Orenburg": 4.0,
+        "Draw": 3.55
+      },
+      "Marathon Bet": {
+        "FC Krasnodar": 1.74,
+        "Gazovik Orenburg": 4.65,
+        "Draw": 3.98
+      }
+    },
+    "20bf7f30b9fa8c9cb193dc2a68e4538b:h2h": {
+      "Pinnacle": {
+        "Dinamo Moscow": 2.39,
+        "FK Rostov": 3.07,
         "Draw": 3.4
+      },
+      "Codere (IT)": {
+        "Dinamo Moscow": 2.29,
+        "FK Rostov": 2.75,
+        "Draw": 3.2
+      },
+      "Marathon Bet": {
+        "Dinamo Moscow": 2.38,
+        "FK Rostov": 3.06,
+        "Draw": 3.4
+      },
+      "BetOnline.ag": {
+        "Dinamo Moscow": 2.36,
+        "FK Rostov": 3.0,
+        "Draw": 3.3
+      },
+      "1xBet": {
+        "Dinamo Moscow": 2.44,
+        "FK Rostov": 3.14,
+        "Draw": 3.49
       }
     }
   },
@@ -4236,8 +4412,26 @@
       "confidence": 8,
       "alert_type": "value",
       "alerted_at": "2026-09-16T16:46:44.200309+00:00"
+    },
+    {
+      "state_key": "d808e576d838e0739ba2dc69bd02a4b4:h2h",
+      "event_id": "d808e576d838e0739ba2dc69bd02a4b4",
+      "sport_key": "soccer",
+      "competition": "Copa Libertadores",
+      "home_team": "Corinthians-SP",
+      "away_team": "Estudiantes La Plata",
+      "commence_time": "2026-09-17T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Estudiantes La Plata",
+      "odds_at_alert": 5.0,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-09-17T00:24:14.204919+00:00"
     }
   ],
   "results_history": [],
-  "value_alerted": []
+  "value_alerted": [
+    "d808e576d838e0739ba2dc69bd02a4b4:h2h|Betfair|Estudiantes La Plata"
+  ]
 }
