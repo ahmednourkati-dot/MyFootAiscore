@@ -1,226 +1,356 @@
 {
   "snapshots": {
-    "cff5815d2f10c40b034716e082023a84:h2h": {
-      "Winamax (FR)": {
-        "OFI Crete": 2.2,
-        "TSG Hoffenheim": 3.4,
-        "Draw": 2.65
-      },
-      "Betclic (FR)": {
-        "OFI Crete": 2.3,
-        "TSG Hoffenheim": 3.12,
-        "Draw": 2.75
-      },
-      "Suprabets": {
-        "OFI Crete": 2.6,
-        "TSG Hoffenheim": 3.0,
-        "Draw": 2.8
-      },
-      "Pinnacle": {
-        "OFI Crete": 3.39,
-        "TSG Hoffenheim": 2.37,
-        "Draw": 2.92
-      },
+    "10d8075d3ece90f2ada6650e988c69d9:h2h": {
       "Betfair": {
-        "OFI Crete": 2.62,
-        "TSG Hoffenheim": 3.6,
-        "Draw": 2.88
-      },
-      "PMU (FR)": {
-        "OFI Crete": 2.35,
-        "TSG Hoffenheim": 3.35,
-        "Draw": 2.48
-      },
-      "Unibet (NL)": {
-        "OFI Crete": 2.35,
-        "TSG Hoffenheim": 3.65,
-        "Draw": 2.6
-      },
-      "888sport": {
-        "OFI Crete": 2.45,
-        "TSG Hoffenheim": 3.0,
-        "Draw": 2.75
-      },
-      "Unibet (SE)": {
-        "OFI Crete": 2.35,
-        "TSG Hoffenheim": 3.65,
-        "Draw": 2.6
-      },
-      "Nordic Bet": {
-        "OFI Crete": 2.35,
-        "TSG Hoffenheim": 3.3,
-        "Draw": 2.75
-      },
-      "Betsson": {
-        "OFI Crete": 9.4,
-        "TSG Hoffenheim": 1.32,
-        "Draw": 5.3
-      },
-      "LeoVegas (SE)": {
-        "OFI Crete": 2.43,
-        "TSG Hoffenheim": 3.5,
-        "Draw": 2.6
-      },
-      "Winamax (DE)": {
-        "OFI Crete": 2.3,
-        "TSG Hoffenheim": 3.45,
-        "Draw": 2.75
-      }
-    },
-    "7293d131a4072c4123dde03fb3e50b3e:h2h": {
-      "Suprabets": {
-        "PFC Levski Sofia": 21.0,
-        "Salzburg": 1.2,
-        "Draw": 5.2
-      },
-      "Winamax (FR)": {
-        "PFC Levski Sofia": 18.0,
-        "Salzburg": 1.24,
-        "Draw": 4.6
-      },
-      "Winamax (DE)": {
-        "PFC Levski Sofia": 19.0,
-        "Salzburg": 1.23,
-        "Draw": 4.9
-      },
-      "Betclic (FR)": {
-        "PFC Levski Sofia": 17.75,
-        "Salzburg": 1.17,
+        "Club Cienciano": 6.6,
+        "Montevideo City Torque": 1.55,
         "Draw": 4.7
       },
-      "Betsson": {
-        "PFC Levski Sofia": 3.45,
-        "Salzburg": 2.08,
-        "Draw": 3.5
-      },
-      "Pinnacle": {
-        "PFC Levski Sofia": 13.29,
-        "Salzburg": 1.31,
-        "Draw": 4.56
-      },
-      "Betfair": {
-        "PFC Levski Sofia": 26.0,
-        "Salzburg": 1.28,
-        "Draw": 5.3
-      },
-      "LeoVegas (SE)": {
-        "PFC Levski Sofia": 16.0,
-        "Salzburg": 1.29,
-        "Draw": 4.2
-      },
-      "Unibet (SE)": {
-        "PFC Levski Sofia": 18.0,
-        "Salzburg": 1.24,
-        "Draw": 4.6
-      },
-      "PMU (FR)": {
-        "PFC Levski Sofia": 15.0,
-        "Salzburg": 1.24,
-        "Draw": 4.0
-      },
-      "Unibet (NL)": {
-        "PFC Levski Sofia": 18.0,
-        "Salzburg": 1.24,
-        "Draw": 4.6
+      "1xBet": {
+        "Club Cienciano": 6.32,
+        "Montevideo City Torque": 1.56,
+        "Draw": 4.53
       },
       "Nordic Bet": {
-        "PFC Levski Sofia": 19.5,
-        "Salzburg": 1.2,
-        "Draw": 4.85
+        "Club Cienciano": 5.9,
+        "Montevideo City Torque": 1.5,
+        "Draw": 3.85
+      },
+      "Unibet (FR)": {
+        "Club Cienciano": 5.5,
+        "Montevideo City Torque": 1.42,
+        "Draw": 4.1
+      },
+      "Codere (IT)": {
+        "Club Cienciano": 5.8,
+        "Montevideo City Torque": 1.5,
+        "Draw": 4.3
       },
       "888sport": {
-        "PFC Levski Sofia": 17.0,
-        "Salzburg": 1.22,
-        "Draw": 4.8
+        "Club Cienciano": 5.5,
+        "Montevideo City Torque": 1.5,
+        "Draw": 4.0
       },
-      "Coolbet": {
-        "PFC Levski Sofia": 25.0,
-        "Salzburg": 1.25,
-        "Draw": 5.25
-      },
-      "Matchbook": {
-        "PFC Levski Sofia": 23.0,
-        "Salzburg": 1.3,
-        "Draw": 5.0
-      }
-    },
-    "7f644eca099054612d9a7e7e5d8787da:h2h": {
-      "Betclic (FR)": {
-        "Getafe": 18.0,
-        "Real Betis": 1.12,
-        "Draw": 5.4
-      },
-      "Betsson": {
-        "Getafe": 24.0,
-        "Real Betis": 1.15,
-        "Draw": 6.3
-      },
-      "Nordic Bet": {
-        "Getafe": 24.0,
-        "Real Betis": 1.15,
-        "Draw": 6.3
-      },
-      "Betfair": {
-        "Getafe": 32.0,
-        "Real Betis": 1.19,
-        "Draw": 7.6
-      },
-      "Winamax (FR)": {
-        "Getafe": 22.0,
-        "Real Betis": 1.16,
-        "Draw": 5.7
-      },
-      "Tipico": {
-        "Getafe": 25.0,
-        "Real Betis": 1.12,
-        "Draw": 6.5
+      "William Hill": {
+        "Club Cienciano": 5.5,
+        "Montevideo City Torque": 1.5,
+        "Draw": 4.0
       },
       "Pinnacle": {
-        "Getafe": 28.62,
-        "Real Betis": 1.18,
-        "Draw": 6.33
+        "Club Cienciano": 6.12,
+        "Montevideo City Torque": 1.52,
+        "Draw": 4.5
       },
-      "Unibet (NL)": {
-        "Getafe": 23.0,
-        "Real Betis": 1.15,
-        "Draw": 6.5
+      "Coolbet": {
+        "Club Cienciano": 5.8,
+        "Montevideo City Torque": 1.56,
+        "Draw": 4.4
       },
       "LeoVegas (SE)": {
-        "Getafe": 21.0,
-        "Real Betis": 1.13,
-        "Draw": 6.25
+        "Club Cienciano": 5.3,
+        "Montevideo City Torque": 1.44,
+        "Draw": 4.1
       },
-      "PMU (FR)": {
-        "Getafe": 21.0,
-        "Real Betis": 1.12,
-        "Draw": 6.1
-      },
-      "Unibet (SE)": {
-        "Getafe": 23.0,
-        "Real Betis": 1.15,
-        "Draw": 6.5
-      },
-      "Winamax (DE)": {
-        "Getafe": 23.0,
-        "Real Betis": 1.16,
-        "Draw": 6.0
-      },
-      "Matchbook": {
-        "Getafe": 30.0,
-        "Real Betis": 1.19,
-        "Draw": 7.6
-      },
-      "Coolbet": {
-        "Getafe": 28.0,
-        "Real Betis": 1.18,
-        "Draw": 6.5
+      "Unibet (NL)": {
+        "Club Cienciano": 5.75,
+        "Montevideo City Torque": 1.5,
+        "Draw": 4.35
       }
     },
-    "18f78b40c5219fc7ca1da199c40da187:h2h": {
+    "9f51bed6dc9cb798333ea483c49ec233:h2h": {
+      "1xBet": {
+        "Flamengo-RJ": 1.32,
+        "Independiente del Valle": 9.6,
+        "Draw": 5.56
+      },
+      "Coolbet": {
+        "Flamengo-RJ": 1.34,
+        "Independiente del Valle": 9.0,
+        "Draw": 5.35
+      },
+      "Unibet (FR)": {
+        "Flamengo-RJ": 1.23,
+        "Independiente del Valle": 8.3,
+        "Draw": 5.0
+      },
+      "Betclic (FR)": {
+        "Flamengo-RJ": 1.27,
+        "Independiente del Valle": 8.5,
+        "Draw": 5.25
+      },
+      "Codere (IT)": {
+        "Flamengo-RJ": 1.29,
+        "Independiente del Valle": 9.0,
+        "Draw": 5.4
+      },
+      "Tipico": {
+        "Flamengo-RJ": 1.27,
+        "Independiente del Valle": 10.0,
+        "Draw": 5.5
+      },
+      "Winamax (FR)": {
+        "Flamengo-RJ": 1.27,
+        "Independiente del Valle": 8.0,
+        "Draw": 5.4
+      },
+      "Winamax (DE)": {
+        "Flamengo-RJ": 1.28,
+        "Independiente del Valle": 8.0,
+        "Draw": 5.6
+      },
       "Pinnacle": {
-        "CSKA Moscow": 2.15,
-        "FC Dynamo Makhachkala": 3.77,
-        "Draw": 3.05
+        "Flamengo-RJ": 1.33,
+        "Independiente del Valle": 9.41,
+        "Draw": 5.44
+      },
+      "Marathon Bet": {
+        "Flamengo-RJ": 1.28,
+        "Independiente del Valle": 9.3,
+        "Draw": 5.35
+      },
+      "888sport": {
+        "Flamengo-RJ": 1.3,
+        "Independiente del Valle": 9.0,
+        "Draw": 5.0
+      },
+      "William Hill": {
+        "Flamengo-RJ": 1.3,
+        "Independiente del Valle": 9.0,
+        "Draw": 5.0
+      },
+      "BetOnline.ag": {
+        "Flamengo-RJ": 1.32,
+        "Independiente del Valle": 9.6,
+        "Draw": 5.35
+      },
+      "Betsson": {
+        "Flamengo-RJ": 1.28,
+        "Independiente del Valle": 9.7,
+        "Draw": 5.25
+      },
+      "Nordic Bet": {
+        "Flamengo-RJ": 1.28,
+        "Independiente del Valle": 9.7,
+        "Draw": 5.25
+      },
+      "GTbets": {
+        "Flamengo-RJ": 1.31,
+        "Independiente del Valle": 8.34,
+        "Draw": 5.59
+      },
+      "LeoVegas (SE)": {
+        "Flamengo-RJ": 1.26,
+        "Independiente del Valle": 9.0,
+        "Draw": 5.2
+      },
+      "Unibet (NL)": {
+        "Flamengo-RJ": 1.27,
+        "Independiente del Valle": 10.0,
+        "Draw": 5.4
+      },
+      "PMU (FR)": {
+        "Flamengo-RJ": 1.23,
+        "Independiente del Valle": 9.0,
+        "Draw": 5.1
+      },
+      "Betfair": {
+        "Flamengo-RJ": 1.33,
+        "Independiente del Valle": 11.5,
+        "Draw": 6.0
+      }
+    },
+    "1128942aabea98a569ec2a65abbdbc0d:h2h": {
+      "Winamax (DE)": {
+        "Wuhan Three Towns": 3.15,
+        "Zhejiang": 1.88,
+        "Draw": 4.0
+      },
+      "BetOnline.ag": {
+        "Wuhan Three Towns": 3.2,
+        "Zhejiang": 1.98,
+        "Draw": 4.2
+      },
+      "Winamax (FR)": {
+        "Wuhan Three Towns": 3.05,
+        "Zhejiang": 1.86,
+        "Draw": 3.95
+      },
+      "Unibet (FR)": {
+        "Wuhan Three Towns": 3.1,
+        "Zhejiang": 1.72,
+        "Draw": 3.8
+      },
+      "Betsson": {
+        "Wuhan Three Towns": 3.2,
+        "Zhejiang": 1.9,
+        "Draw": 3.85
+      },
+      "Coolbet": {
+        "Wuhan Three Towns": 3.25,
+        "Zhejiang": 1.93,
+        "Draw": 4.3
+      },
+      "1xBet": {
+        "Wuhan Three Towns": 3.31,
+        "Zhejiang": 1.97,
+        "Draw": 4.2
+      },
+      "Pinnacle": {
+        "Wuhan Three Towns": 3.25,
+        "Zhejiang": 1.97,
+        "Draw": 4.32
+      },
+      "Nordic Bet": {
+        "Wuhan Three Towns": 3.2,
+        "Zhejiang": 1.9,
+        "Draw": 3.85
+      },
+      "GTbets": {
+        "Wuhan Three Towns": 3.31,
+        "Zhejiang": 1.94,
+        "Draw": 4.11
+      },
+      "888sport": {
+        "Wuhan Three Towns": 3.2,
+        "Zhejiang": 1.91,
+        "Draw": 3.9
+      },
+      "William Hill": {
+        "Wuhan Three Towns": 3.2,
+        "Zhejiang": 1.91,
+        "Draw": 3.9
+      },
+      "Marathon Bet": {
+        "Wuhan Three Towns": 3.2,
+        "Zhejiang": 1.9,
+        "Draw": 4.05
+      },
+      "Codere (IT)": {
+        "Wuhan Three Towns": 3.15,
+        "Zhejiang": 1.88,
+        "Draw": 3.85
+      },
+      "Unibet (SE)": {
+        "Wuhan Three Towns": 3.6,
+        "Zhejiang": 1.82,
+        "Draw": 4.1
+      },
+      "Unibet (NL)": {
+        "Wuhan Three Towns": 3.6,
+        "Zhejiang": 1.82,
+        "Draw": 4.1
+      },
+      "LeoVegas (SE)": {
+        "Wuhan Three Towns": 3.45,
+        "Zhejiang": 1.74,
+        "Draw": 3.85
+      },
+      "Tipico": {
+        "Wuhan Three Towns": 3.3,
+        "Zhejiang": 1.83,
+        "Draw": 4.2
+      },
+      "Betfair": {
+        "Wuhan Three Towns": 3.35,
+        "Zhejiang": 2.02,
+        "Draw": 4.3
+      },
+      "Matchbook": {
+        "Wuhan Three Towns": 3.35,
+        "Zhejiang": 2.02,
+        "Draw": 4.4
+      }
+    },
+    "e627f0c7d95cadb851bb70b1483f7b0d:h2h": {
+      "PMU (FR)": {
+        "FC Lahti": 1.42,
+        "Jaro": 5.0,
+        "Draw": 3.85
+      },
+      "Unibet (SE)": {
+        "FC Lahti": 1.5,
+        "Jaro": 5.3,
+        "Draw": 4.1
+      },
+      "Unibet (FR)": {
+        "FC Lahti": 1.47,
+        "Jaro": 5.1,
+        "Draw": 4.1
+      },
+      "Unibet (NL)": {
+        "FC Lahti": 1.5,
+        "Jaro": 5.3,
+        "Draw": 4.1
+      },
+      "LeoVegas (SE)": {
+        "FC Lahti": 1.47,
+        "Jaro": 5.2,
+        "Draw": 4.0
+      },
+      "1xBet": {
+        "FC Lahti": 1.57,
+        "Jaro": 5.21,
+        "Draw": 4.15
+      },
+      "GTbets": {
+        "FC Lahti": 1.51,
+        "Jaro": 5.47,
+        "Draw": 4.31
+      },
+      "BetOnline.ag": {
+        "FC Lahti": 1.57,
+        "Jaro": 5.3,
+        "Draw": 4.3
+      },
+      "Pinnacle": {
+        "FC Lahti": 1.58,
+        "Jaro": 5.4,
+        "Draw": 4.39
+      },
+      "888sport": {
+        "FC Lahti": 1.53,
+        "Jaro": 5.0,
+        "Draw": 4.0
+      },
+      "William Hill": {
+        "FC Lahti": 1.55,
+        "Jaro": 5.0,
+        "Draw": 4.0
+      },
+      "Marathon Bet": {
+        "FC Lahti": 1.55,
+        "Jaro": 5.3,
+        "Draw": 4.15
+      },
+      "Betfair": {
+        "FC Lahti": 1.61,
+        "Jaro": 5.8,
+        "Draw": 4.4
+      },
+      "Coolbet": {
+        "FC Lahti": 1.62,
+        "Jaro": 5.8,
+        "Draw": 4.0
+      },
+      "Betsson": {
+        "FC Lahti": 1.6,
+        "Jaro": 5.45,
+        "Draw": 3.9
+      },
+      "Nordic Bet": {
+        "FC Lahti": 1.58,
+        "Jaro": 5.4,
+        "Draw": 3.85
+      },
+      "BetAnything": {
+        "FC Lahti": 1.57,
+        "Jaro": 5.3,
+        "Draw": 4.3
+      },
+      "Matchbook": {
+        "FC Lahti": 1.61,
+        "Jaro": 5.9,
+        "Draw": 4.4
       }
     }
   },
@@ -4961,42 +5091,77 @@
       "confidence": 15,
       "alert_type": "value",
       "alerted_at": "2026-09-17T18:09:23.116604+00:00"
+    },
+    {
+      "state_key": "9f51bed6dc9cb798333ea483c49ec233:h2h",
+      "event_id": "9f51bed6dc9cb798333ea483c49ec233",
+      "sport_key": "soccer",
+      "competition": "Copa Libertadores",
+      "home_team": "Flamengo-RJ",
+      "away_team": "Independiente del Valle",
+      "commence_time": "2026-09-18T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Independiente del Valle",
+      "odds_at_alert": 11.5,
+      "stake_pct": 5.0,
+      "confidence": 17,
+      "alert_type": "value",
+      "alerted_at": "2026-09-17T22:49:43.817566+00:00"
+    },
+    {
+      "state_key": "9f51bed6dc9cb798333ea483c49ec233:h2h",
+      "event_id": "9f51bed6dc9cb798333ea483c49ec233",
+      "sport_key": "soccer",
+      "competition": "Copa Libertadores",
+      "home_team": "Flamengo-RJ",
+      "away_team": "Independiente del Valle",
+      "commence_time": "2026-09-18T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.0,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-09-17T22:49:44.305921+00:00"
+    },
+    {
+      "state_key": "1128942aabea98a569ec2a65abbdbc0d:h2h",
+      "event_id": "1128942aabea98a569ec2a65abbdbc0d",
+      "sport_key": "soccer",
+      "competition": "Super League - China",
+      "home_team": "Zhejiang",
+      "away_team": "Wuhan Three Towns",
+      "commence_time": "2026-09-18T11:35:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Wuhan Three Towns",
+      "odds_at_alert": 3.6,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-09-17T22:49:44.806140+00:00"
+    },
+    {
+      "state_key": "1128942aabea98a569ec2a65abbdbc0d:h2h",
+      "event_id": "1128942aabea98a569ec2a65abbdbc0d",
+      "sport_key": "soccer",
+      "competition": "Super League - China",
+      "home_team": "Zhejiang",
+      "away_team": "Wuhan Three Towns",
+      "commence_time": "2026-09-18T11:35:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Wuhan Three Towns",
+      "odds_at_alert": 3.6,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-09-17T22:49:45.287673+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "7293d131a4072c4123dde03fb3e50b3e:h2h|888sport|PFC Levski Sofia",
-    "7293d131a4072c4123dde03fb3e50b3e:h2h|Betclic (FR)|PFC Levski Sofia",
-    "7293d131a4072c4123dde03fb3e50b3e:h2h|Betfair|Draw",
-    "7293d131a4072c4123dde03fb3e50b3e:h2h|Betfair|PFC Levski Sofia",
-    "7293d131a4072c4123dde03fb3e50b3e:h2h|Betsson|Salzburg",
-    "7293d131a4072c4123dde03fb3e50b3e:h2h|Coolbet|Draw",
-    "7293d131a4072c4123dde03fb3e50b3e:h2h|Coolbet|PFC Levski Sofia",
-    "7293d131a4072c4123dde03fb3e50b3e:h2h|LeoVegas (SE)|PFC Levski Sofia",
-    "7293d131a4072c4123dde03fb3e50b3e:h2h|Matchbook|PFC Levski Sofia",
-    "7293d131a4072c4123dde03fb3e50b3e:h2h|Nordic Bet|PFC Levski Sofia",
-    "7293d131a4072c4123dde03fb3e50b3e:h2h|PMU (FR)|PFC Levski Sofia",
-    "7293d131a4072c4123dde03fb3e50b3e:h2h|Suprabets|Draw",
-    "7293d131a4072c4123dde03fb3e50b3e:h2h|Suprabets|PFC Levski Sofia",
-    "7293d131a4072c4123dde03fb3e50b3e:h2h|Unibet (NL)|PFC Levski Sofia",
-    "7293d131a4072c4123dde03fb3e50b3e:h2h|Unibet (SE)|PFC Levski Sofia",
-    "7293d131a4072c4123dde03fb3e50b3e:h2h|Winamax (DE)|PFC Levski Sofia",
-    "7293d131a4072c4123dde03fb3e50b3e:h2h|Winamax (FR)|PFC Levski Sofia",
-    "7f644eca099054612d9a7e7e5d8787da:h2h|Betfair|Draw",
-    "7f644eca099054612d9a7e7e5d8787da:h2h|Betfair|Getafe",
-    "7f644eca099054612d9a7e7e5d8787da:h2h|Matchbook|Draw",
-    "cff5815d2f10c40b034716e082023a84:h2h|888sport|TSG Hoffenheim",
-    "cff5815d2f10c40b034716e082023a84:h2h|Betclic (FR)|TSG Hoffenheim",
-    "cff5815d2f10c40b034716e082023a84:h2h|Betfair|TSG Hoffenheim",
-    "cff5815d2f10c40b034716e082023a84:h2h|Betsson|Draw",
-    "cff5815d2f10c40b034716e082023a84:h2h|Betsson|OFI Crete",
-    "cff5815d2f10c40b034716e082023a84:h2h|LeoVegas (SE)|TSG Hoffenheim",
-    "cff5815d2f10c40b034716e082023a84:h2h|Nordic Bet|TSG Hoffenheim",
-    "cff5815d2f10c40b034716e082023a84:h2h|PMU (FR)|TSG Hoffenheim",
-    "cff5815d2f10c40b034716e082023a84:h2h|Suprabets|TSG Hoffenheim",
-    "cff5815d2f10c40b034716e082023a84:h2h|Unibet (NL)|TSG Hoffenheim",
-    "cff5815d2f10c40b034716e082023a84:h2h|Unibet (SE)|TSG Hoffenheim",
-    "cff5815d2f10c40b034716e082023a84:h2h|Winamax (DE)|TSG Hoffenheim",
-    "cff5815d2f10c40b034716e082023a84:h2h|Winamax (FR)|TSG Hoffenheim"
+    "1128942aabea98a569ec2a65abbdbc0d:h2h|Unibet (NL)|Wuhan Three Towns",
+    "1128942aabea98a569ec2a65abbdbc0d:h2h|Unibet (SE)|Wuhan Three Towns",
+    "9f51bed6dc9cb798333ea483c49ec233:h2h|Betfair|Draw",
+    "9f51bed6dc9cb798333ea483c49ec233:h2h|Betfair|Independiente del Valle"
   ]
 }
