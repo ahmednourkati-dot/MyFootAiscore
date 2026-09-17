@@ -1,221 +1,166 @@
 {
   "snapshots": {
-    "6bc939a1a05a94b93d40c8a194811b92:h2h": {
-      "Betclic (FR)": {
-        "Botafogo": 7.75,
-        "Grêmio": 10.0,
-        "Draw": 1.12
-      },
-      "Coolbet": {
-        "Botafogo": 1.05,
-        "Grêmio": 150.0,
-        "Draw": 12.0
-      },
-      "Winamax (DE)": {
-        "Botafogo": 10.0,
-        "Grêmio": 13.5,
-        "Draw": 1.09
-      },
-      "Winamax (FR)": {
-        "Botafogo": 9.0,
-        "Grêmio": 13.0,
-        "Draw": 1.12
-      },
-      "Nordic Bet": {
-        "Botafogo": 1.04,
-        "Grêmio": 65.0,
-        "Draw": 8.2
-      },
-      "888sport": {
-        "Botafogo": 1.0,
-        "Grêmio": 151.0,
-        "Draw": 61.0
-      },
-      "Matchbook": {
-        "Botafogo": 1.08,
-        "Grêmio": 200.0,
-        "Draw": 12.0
-      },
-      "Tipico": {
-        "Botafogo": 10.0,
-        "Grêmio": 11.0,
-        "Draw": 1.1
-      },
-      "Betfair": {
-        "Botafogo": 1.07,
-        "Grêmio": 200.0,
-        "Draw": 13.5
-      },
-      "Unibet (NL)": {
-        "Botafogo": 1.01,
-        "Grêmio": 76.0,
-        "Draw": 9.5
-      },
-      "Unibet (SE)": {
-        "Botafogo": 1.04,
-        "Grêmio": 181.0,
-        "Draw": 12.5
-      },
-      "LeoVegas (SE)": {
-        "Botafogo": 1.01,
-        "Grêmio": 81.0,
-        "Draw": 11.0
-      }
-    },
-    "d808e576d838e0739ba2dc69bd02a4b4:h2h": {
-      "Winamax (FR)": {
-        "Corinthians-SP": 2.1,
-        "Estudiantes La Plata": 3.85,
-        "Draw": 2.75
-      },
-      "1xBet": {
-        "Corinthians-SP": 2.1,
-        "Estudiantes La Plata": 4.51,
-        "Draw": 2.81
-      },
-      "Unibet (FR)": {
-        "Corinthians-SP": 1.99,
-        "Estudiantes La Plata": 3.85,
-        "Draw": 2.65
-      },
-      "Betclic (FR)": {
-        "Corinthians-SP": 2.05,
-        "Estudiantes La Plata": 3.88,
-        "Draw": 2.67
-      },
-      "Codere (IT)": {
-        "Corinthians-SP": 2.16,
-        "Estudiantes La Plata": 4.1,
-        "Draw": 2.75
-      },
-      "Winamax (DE)": {
-        "Corinthians-SP": 2.1,
-        "Estudiantes La Plata": 3.85,
-        "Draw": 2.75
-      },
-      "888sport": {
-        "Corinthians-SP": 2.1,
-        "Estudiantes La Plata": 4.2,
-        "Draw": 2.62
-      },
-      "Suprabets": {
-        "Corinthians-SP": 2.1,
-        "Estudiantes La Plata": 4.1,
-        "Draw": 2.75
-      },
-      "William Hill": {
-        "Corinthians-SP": 2.1,
-        "Estudiantes La Plata": 4.2,
-        "Draw": 2.62
-      },
-      "Nordic Bet": {
-        "Corinthians-SP": 2.05,
-        "Estudiantes La Plata": 4.25,
-        "Draw": 2.72
-      },
-      "Pinnacle": {
-        "Corinthians-SP": 2.16,
-        "Estudiantes La Plata": 4.42,
-        "Draw": 2.86
-      },
-      "Betfair": {
-        "Corinthians-SP": 2.18,
-        "Estudiantes La Plata": 5.0,
-        "Draw": 2.88
-      },
-      "Marathon Bet": {
-        "Corinthians-SP": 2.04,
-        "Estudiantes La Plata": 4.25,
-        "Draw": 2.86
-      },
-      "Unibet (NL)": {
-        "Corinthians-SP": 2.1,
-        "Estudiantes La Plata": 4.3,
-        "Draw": 2.75
-      },
-      "PMU (FR)": {
-        "Corinthians-SP": 2.0,
-        "Estudiantes La Plata": 4.0,
-        "Draw": 2.63
-      },
-      "LeoVegas (SE)": {
-        "Corinthians-SP": 2.02,
-        "Estudiantes La Plata": 4.2,
-        "Draw": 2.7
-      },
-      "BetOnline.ag": {
-        "Corinthians-SP": 2.11,
-        "Estudiantes La Plata": 4.58,
-        "Draw": 2.8
-      },
-      "GTbets": {
-        "Corinthians-SP": 2.12,
-        "Estudiantes La Plata": 4.32,
-        "Draw": 2.93
-      },
-      "Tipico": {
-        "Corinthians-SP": 2.0,
-        "Estudiantes La Plata": 4.7,
-        "Draw": 2.8
-      },
-      "Coolbet": {
-        "Corinthians-SP": 2.1,
-        "Estudiantes La Plata": 4.2,
-        "Draw": 3.0
-      }
-    },
     "0325c92e78d953a32274e490e12f9e73:h2h": {
       "Pinnacle": {
-        "FC Krasnodar": 1.76,
-        "Gazovik Orenburg": 4.66,
-        "Draw": 3.84
+        "FC Krasnodar": 1.79,
+        "Gazovik Orenburg": 4.63,
+        "Draw": 3.82
       },
       "1xBet": {
-        "FC Krasnodar": 1.78,
-        "Gazovik Orenburg": 4.76,
-        "Draw": 4.08
+        "FC Krasnodar": 1.79,
+        "Gazovik Orenburg": 4.71,
+        "Draw": 4.06
       },
       "BetOnline.ag": {
-        "FC Krasnodar": 1.73,
-        "Gazovik Orenburg": 4.5,
-        "Draw": 3.75
+        "FC Krasnodar": 1.79,
+        "Gazovik Orenburg": 4.3,
+        "Draw": 3.7
       },
       "Codere (IT)": {
-        "FC Krasnodar": 1.73,
+        "FC Krasnodar": 1.78,
         "Gazovik Orenburg": 4.0,
-        "Draw": 3.55
+        "Draw": 3.6
       },
       "Marathon Bet": {
-        "FC Krasnodar": 1.74,
-        "Gazovik Orenburg": 4.65,
-        "Draw": 3.98
+        "FC Krasnodar": 1.75,
+        "Gazovik Orenburg": 4.6,
+        "Draw": 3.96
       }
     },
     "20bf7f30b9fa8c9cb193dc2a68e4538b:h2h": {
       "Pinnacle": {
-        "Dinamo Moscow": 2.39,
-        "FK Rostov": 3.07,
-        "Draw": 3.4
+        "Dinamo Moscow": 2.28,
+        "FK Rostov": 3.3,
+        "Draw": 3.42
       },
       "Codere (IT)": {
-        "Dinamo Moscow": 2.29,
-        "FK Rostov": 2.75,
-        "Draw": 3.2
+        "Dinamo Moscow": 2.24,
+        "FK Rostov": 2.95,
+        "Draw": 3.25
       },
       "Marathon Bet": {
-        "Dinamo Moscow": 2.38,
-        "FK Rostov": 3.06,
+        "Dinamo Moscow": 2.26,
+        "FK Rostov": 3.28,
         "Draw": 3.4
       },
       "BetOnline.ag": {
-        "Dinamo Moscow": 2.36,
-        "FK Rostov": 3.0,
+        "Dinamo Moscow": 2.26,
+        "FK Rostov": 3.15,
         "Draw": 3.3
       },
       "1xBet": {
-        "Dinamo Moscow": 2.44,
-        "FK Rostov": 3.14,
-        "Draw": 3.49
+        "Dinamo Moscow": 2.32,
+        "FK Rostov": 3.37,
+        "Draw": 3.48
+      }
+    },
+    "bd3ddb84053960c107f352191840e34c:h2h": {
+      "Pinnacle": {
+        "FC Akhmat Grozny": 2.32,
+        "FC Akron Tolyatti": 3.27,
+        "Draw": 3.36
+      },
+      "1xBet": {
+        "FC Akhmat Grozny": 2.36,
+        "FC Akron Tolyatti": 3.33,
+        "Draw": 3.44
+      },
+      "BetOnline.ag": {
+        "FC Akhmat Grozny": 2.28,
+        "FC Akron Tolyatti": 3.1,
+        "Draw": 3.3
+      },
+      "Codere (IT)": {
+        "FC Akhmat Grozny": 2.25,
+        "FC Akron Tolyatti": 2.95,
+        "Draw": 3.25
+      }
+    },
+    "cff5815d2f10c40b034716e082023a84:h2h": {
+      "Winamax (FR)": {
+        "OFI Crete": 6.5,
+        "TSG Hoffenheim": 1.35,
+        "Draw": 5.1
+      },
+      "Codere (IT)": {
+        "OFI Crete": 7.4,
+        "TSG Hoffenheim": 1.39,
+        "Draw": 5.2
+      },
+      "1xBet": {
+        "OFI Crete": 8.0,
+        "TSG Hoffenheim": 1.41,
+        "Draw": 5.07
+      },
+      "Unibet (FR)": {
+        "OFI Crete": 7.1,
+        "TSG Hoffenheim": 1.33,
+        "Draw": 5.0
+      },
+      "Betclic (FR)": {
+        "OFI Crete": 7.25,
+        "TSG Hoffenheim": 1.36,
+        "Draw": 5.1
+      },
+      "Suprabets": {
+        "OFI Crete": 7.7,
+        "TSG Hoffenheim": 1.38,
+        "Draw": 4.9
+      },
+      "Pinnacle": {
+        "OFI Crete": 7.99,
+        "TSG Hoffenheim": 1.4,
+        "Draw": 5.09
+      },
+      "Betfair": {
+        "OFI Crete": 8.6,
+        "TSG Hoffenheim": 1.43,
+        "Draw": 5.3
+      },
+      "PMU (FR)": {
+        "OFI Crete": 7.5,
+        "TSG Hoffenheim": 1.35,
+        "Draw": 4.75
+      },
+      "Unibet (NL)": {
+        "OFI Crete": 8.5,
+        "TSG Hoffenheim": 1.38,
+        "Draw": 5.1
+      },
+      "William Hill": {
+        "OFI Crete": 7.5,
+        "TSG Hoffenheim": 1.36,
+        "Draw": 4.8
+      },
+      "888sport": {
+        "OFI Crete": 7.5,
+        "TSG Hoffenheim": 1.36,
+        "Draw": 4.8
+      },
+      "Unibet (SE)": {
+        "OFI Crete": 8.5,
+        "TSG Hoffenheim": 1.38,
+        "Draw": 5.1
+      },
+      "Nordic Bet": {
+        "OFI Crete": 8.0,
+        "TSG Hoffenheim": 1.4,
+        "Draw": 4.9
+      },
+      "LeoVegas (SE)": {
+        "OFI Crete": 7.5,
+        "TSG Hoffenheim": 1.36,
+        "Draw": 4.75
+      },
+      "Winamax (DE)": {
+        "OFI Crete": 6.75,
+        "TSG Hoffenheim": 1.36,
+        "Draw": 5.2
+      },
+      "BetOnline.ag": {
+        "OFI Crete": 8.0,
+        "TSG Hoffenheim": 1.4,
+        "Draw": 5.13
       }
     }
   },
@@ -4431,7 +4376,5 @@
     }
   ],
   "results_history": [],
-  "value_alerted": [
-    "d808e576d838e0739ba2dc69bd02a4b4:h2h|Betfair|Estudiantes La Plata"
-  ]
+  "value_alerted": []
 }
