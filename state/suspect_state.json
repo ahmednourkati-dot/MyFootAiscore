@@ -1,231 +1,221 @@
 {
   "snapshots": {
-    "e627f0c7d95cadb851bb70b1483f7b0d:h2h": {
-      "PMU (FR)": {
-        "FC Lahti": 1.09,
-        "Jaro": 16.0,
-        "Draw": 4.6
-      },
-      "Unibet (SE)": {
-        "FC Lahti": 1.2,
-        "Jaro": 16.0,
-        "Draw": 5.0
-      },
-      "Unibet (NL)": {
-        "FC Lahti": 1.2,
-        "Jaro": 16.0,
-        "Draw": 5.0
-      },
-      "LeoVegas (SE)": {
-        "FC Lahti": 1.13,
-        "Jaro": 16.0,
-        "Draw": 4.75
-      },
-      "Pinnacle": {
-        "FC Lahti": 1.16,
-        "Jaro": 26.99,
-        "Draw": 6.62
-      },
-      "888sport": {
-        "FC Lahti": 1.17,
-        "Jaro": 23.0,
-        "Draw": 5.75
-      },
-      "Betfair": {
-        "FC Lahti": 1.21,
-        "Jaro": 38.0,
-        "Draw": 6.4
+    "f6d8ec3ecfba4947770ddd7d391c8c73:h2h": {
+      "Winamax (FR)": {
+        "AS Monaco": 1.03,
+        "RC Lens": 600.0,
+        "Draw": 16.0
       },
       "Coolbet": {
-        "FC Lahti": 1.16,
-        "Jaro": 32.5,
-        "Draw": 7.0
+        "AS Monaco": 1.04,
+        "RC Lens": 400.0,
+        "Draw": 13.0
       },
-      "Betsson": {
-        "FC Lahti": 1.14,
-        "Jaro": 27.0,
-        "Draw": 6.6
+      "Winamax (DE)": {
+        "AS Monaco": 1.03,
+        "RC Lens": 600.0,
+        "Draw": 15.0
+      },
+      "Betclic (FR)": {
+        "AS Monaco": 1.0,
+        "RC Lens": 110.0,
+        "Draw": 15.0
+      },
+      "888sport": {
+        "AS Monaco": 1.05,
+        "RC Lens": 101.0,
+        "Draw": 10.0
+      },
+      "Betfair": {
+        "AS Monaco": 1.05,
+        "RC Lens": 1000.0,
+        "Draw": 20.0
+      },
+      "Tipico": {
+        "AS Monaco": 1.01,
+        "RC Lens": 400.0,
+        "Draw": 20.0
+      },
+      "PMU (FR)": {
+        "AS Monaco": 1.01,
+        "RC Lens": 121.0,
+        "Draw": 11.0
+      },
+      "LeoVegas (SE)": {
+        "AS Monaco": 1.02,
+        "RC Lens": 121.0,
+        "Draw": 11.0
+      },
+      "Suprabets": {
+        "AS Monaco": 3.9,
+        "RC Lens": 6.2,
+        "Draw": 1.53
       },
       "Nordic Bet": {
-        "FC Lahti": 1.12,
-        "Jaro": 24.0,
-        "Draw": 6.3
+        "AS Monaco": 1.03,
+        "RC Lens": 180.0,
+        "Draw": 11.0
       },
-      "Matchbook": {
-        "FC Lahti": 1.21,
-        "Jaro": 38.0,
-        "Draw": 6.4
+      "Betsson": {
+        "AS Monaco": 1.03,
+        "RC Lens": 150.0,
+        "Draw": 11.0
       }
     },
-    "92b00c26367c4712163abd554057aee4:h2h": {
-      "PMU (FR)": {
-        "IFK Mariehamn": 1.4,
-        "SJK Seinäjoki": 7.0,
-        "Draw": 2.88
+    "8bc1f4d74cf888c97c0216fd26c4ece7:h2h": {
+      "Winamax (FR)": {
+        "Monza": 1.03,
+        "Sassuolo": 1000.0,
+        "Draw": 17.0
       },
-      "Unibet (SE)": {
-        "IFK Mariehamn": 1.53,
-        "SJK Seinäjoki": 7.5,
-        "Draw": 3.15
+      "Winamax (DE)": {
+        "Monza": 1.03,
+        "Sassuolo": 1000.0,
+        "Draw": 16.0
       },
-      "Unibet (NL)": {
-        "IFK Mariehamn": 1.53,
-        "SJK Seinäjoki": 7.5,
-        "Draw": 3.15
-      },
-      "LeoVegas (SE)": {
-        "IFK Mariehamn": 1.43,
-        "SJK Seinäjoki": 7.0,
-        "Draw": 2.95
-      },
-      "Pinnacle": {
-        "IFK Mariehamn": 1.88,
-        "SJK Seinäjoki": 5.23,
-        "Draw": 2.99
-      },
-      "888sport": {
-        "IFK Mariehamn": 1.75,
-        "SJK Seinäjoki": 5.0,
-        "Draw": 3.0
-      },
-      "Betfair": {
-        "IFK Mariehamn": 1.83,
-        "SJK Seinäjoki": 7.0,
-        "Draw": 3.2
-      },
-      "Coolbet": {
-        "IFK Mariehamn": 1.8,
-        "SJK Seinäjoki": 6.0,
-        "Draw": 3.14
-      },
-      "Betsson": {
-        "IFK Mariehamn": 1.8,
-        "SJK Seinäjoki": 5.55,
-        "Draw": 3.0
+      "Betclic (FR)": {
+        "Monza": 1.01,
+        "Sassuolo": 85.0,
+        "Draw": 12.25
       },
       "Nordic Bet": {
-        "IFK Mariehamn": 1.78,
-        "SJK Seinäjoki": 5.35,
-        "Draw": 2.92
+        "Monza": 1.03,
+        "Sassuolo": 200.0,
+        "Draw": 11.0
       },
-      "Matchbook": {
-        "IFK Mariehamn": 1.77,
-        "SJK Seinäjoki": 7.2,
-        "Draw": 3.25
+      "Betsson": {
+        "Monza": 1.03,
+        "Sassuolo": 220.0,
+        "Draw": 11.0
+      },
+      "Tipico": {
+        "Monza": 1.01,
+        "Sassuolo": 400.0,
+        "Draw": 15.0
+      },
+      "888sport": {
+        "Monza": 1.05,
+        "Sassuolo": 101.0,
+        "Draw": 11.0
+      },
+      "Betfair": {
+        "Monza": 1.05,
+        "Sassuolo": 1000.0,
+        "Draw": 17.5
+      },
+      "Unibet (NL)": {
+        "Monza": 1.04,
+        "Sassuolo": 251.0,
+        "Draw": 12.5
+      },
+      "LeoVegas (SE)": {
+        "Monza": 1.01,
+        "Sassuolo": 126.0,
+        "Draw": 13.0
+      },
+      "Unibet (SE)": {
+        "Monza": 1.04,
+        "Sassuolo": 251.0,
+        "Draw": 12.5
+      },
+      "PMU (FR)": {
+        "Monza": 1.01,
+        "Sassuolo": 141.0,
+        "Draw": 11.5
+      },
+      "Coolbet": {
+        "Monza": 1.05,
+        "Sassuolo": 200.0,
+        "Draw": 12.0
       }
     },
-    "e7dcdca9a05b5abd6e6c78b5014dae4c:h2h": {
-      "Unibet (SE)": {
-        "AC Oulu": 3.85,
-        "FC Inter Turku": 2.02,
-        "Draw": 2.8
-      },
-      "PMU (FR)": {
-        "AC Oulu": 3.55,
-        "FC Inter Turku": 1.85,
-        "Draw": 2.6
+    "828f3aa300cac3e6c034656152e8100e:h2h": {
+      "Winamax (DE)": {
+        "Chippenham Town FC": 13.5,
+        "Yate Town FC": 8.0,
+        "Draw": 1.12
       },
       "LeoVegas (SE)": {
-        "AC Oulu": 3.65,
-        "FC Inter Turku": 1.88,
-        "Draw": 2.65
+        "Chippenham Town FC": 16.0,
+        "Yate Town FC": 15.0,
+        "Draw": 1.04
       },
-      "Unibet (NL)": {
-        "AC Oulu": 3.85,
-        "FC Inter Turku": 2.02,
-        "Draw": 2.8
-      },
-      "888sport": {
-        "AC Oulu": 5.0,
-        "FC Inter Turku": 1.73,
-        "Draw": 3.0
-      },
-      "Betfair": {
-        "AC Oulu": 5.3,
-        "FC Inter Turku": 1.93,
-        "Draw": 3.35
-      },
-      "Nordic Bet": {
-        "AC Oulu": 4.6,
-        "FC Inter Turku": 1.78,
-        "Draw": 3.15
+      "Unibet (SE)": {
+        "Chippenham Town FC": 16.0,
+        "Yate Town FC": 15.0,
+        "Draw": 1.04
       },
       "Betsson": {
-        "AC Oulu": 4.6,
-        "FC Inter Turku": 1.78,
-        "Draw": 3.15
+        "Chippenham Town FC": 10.5,
+        "Yate Town FC": 7.7,
+        "Draw": 1.09
       },
-      "Pinnacle": {
-        "AC Oulu": 4.28,
-        "FC Inter Turku": 1.94,
-        "Draw": 3.24
-      },
-      "Coolbet": {
-        "AC Oulu": 5.0,
-        "FC Inter Turku": 1.91,
-        "Draw": 3.25
-      },
-      "Matchbook": {
-        "AC Oulu": 5.2,
-        "FC Inter Turku": 1.95,
-        "Draw": 3.3
+      "Nordic Bet": {
+        "Chippenham Town FC": 17.0,
+        "Yate Town FC": 12.0,
+        "Draw": 1.02
       }
     },
-    "fb7e319cf30f05567468f6cc30195af6:h2h": {
-      "Unibet (SE)": {
-        "HJK Helsinki": 2.08,
-        "IF Gnistan": 3.15,
-        "Draw": 3.25
-      },
-      "PMU (FR)": {
-        "HJK Helsinki": 1.88,
-        "IF Gnistan": 2.88,
-        "Draw": 3.0
-      },
+    "43931d85c4a164e23cf732223b634737:h2h": {
       "LeoVegas (SE)": {
-        "HJK Helsinki": 1.94,
-        "IF Gnistan": 2.95,
-        "Draw": 3.1
+        "Gent": 1.02,
+        "Standard Liege": 91.0,
+        "Draw": 10.5
       },
-      "Unibet (NL)": {
-        "HJK Helsinki": 2.08,
-        "IF Gnistan": 3.15,
-        "Draw": 3.25
+      "Betclic (FR)": {
+        "Gent": 1.0,
+        "Standard Liege": 100.0,
+        "Draw": 18.0
       },
-      "Pinnacle": {
-        "HJK Helsinki": 1.87,
-        "IF Gnistan": 3.88,
-        "Draw": 3.77
+      "Winamax (DE)": {
+        "Gent": 1.02,
+        "Standard Liege": 1000.0,
+        "Draw": 17.0
       },
-      "888sport": {
-        "HJK Helsinki": 1.8,
-        "IF Gnistan": 3.7,
-        "Draw": 3.7
+      "Winamax (FR)": {
+        "Gent": 1.03,
+        "Standard Liege": 1000.0,
+        "Draw": 16.0
+      },
+      "Tipico": {
+        "Gent": 1.01,
+        "Standard Liege": 400.0,
+        "Draw": 20.0
       },
       "Coolbet": {
-        "HJK Helsinki": 1.91,
-        "IF Gnistan": 4.0,
-        "Draw": 3.75
-      },
-      "Betfair": {
-        "HJK Helsinki": 1.95,
-        "IF Gnistan": 4.0,
-        "Draw": 4.0
-      },
-      "Betsson": {
-        "HJK Helsinki": 1.85,
-        "IF Gnistan": 3.65,
-        "Draw": 3.5
+        "Gent": 1.01,
+        "Standard Liege": 750.0,
+        "Draw": 20.0
       },
       "Nordic Bet": {
-        "HJK Helsinki": 1.85,
-        "IF Gnistan": 3.65,
-        "Draw": 3.5
+        "Gent": 1.0,
+        "Standard Liege": 1.0,
+        "Draw": 1.0
       },
-      "Matchbook": {
-        "HJK Helsinki": 1.95,
-        "IF Gnistan": 4.1,
-        "Draw": 4.0
+      "Betsson": {
+        "Gent": 1.0,
+        "Standard Liege": 126.0,
+        "Draw": 15.0
+      },
+      "Suprabets": {
+        "Gent": 4.45,
+        "Standard Liege": 5.3,
+        "Draw": 1.47
+      },
+      "Betfair": {
+        "Gent": 1.01,
+        "Standard Liege": 110.0,
+        "Draw": 55.0
+      },
+      "Pinnacle": {
+        "Gent": 4.61,
+        "Standard Liege": 5.56,
+        "Draw": 1.51
+      },
+      "888sport": {
+        "Gent": 1.04,
+        "Standard Liege": 126.0,
+        "Draw": 13.0
       }
     }
   },
@@ -4566,25 +4556,315 @@
       "confidence": 5,
       "alert_type": "value",
       "alerted_at": "2026-09-18T16:19:54.836519+00:00"
+    },
+    {
+      "state_key": "43931d85c4a164e23cf732223b634737:h2h",
+      "event_id": "43931d85c4a164e23cf732223b634737",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "Gent",
+      "away_team": "Standard Liege",
+      "commence_time": "2026-09-18T18:48:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Standard Liege",
+      "odds_at_alert": 91.0,
+      "stake_pct": 5.0,
+      "confidence": 1445,
+      "alert_type": "value",
+      "alerted_at": "2026-09-18T20:50:49.916523+00:00"
+    },
+    {
+      "state_key": "43931d85c4a164e23cf732223b634737:h2h",
+      "event_id": "43931d85c4a164e23cf732223b634737",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "Gent",
+      "away_team": "Standard Liege",
+      "commence_time": "2026-09-18T18:48:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 10.5,
+      "stake_pct": 5.0,
+      "confidence": 557,
+      "alert_type": "value",
+      "alerted_at": "2026-09-18T20:50:50.385739+00:00"
+    },
+    {
+      "state_key": "43931d85c4a164e23cf732223b634737:h2h",
+      "event_id": "43931d85c4a164e23cf732223b634737",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "Gent",
+      "away_team": "Standard Liege",
+      "commence_time": "2026-09-18T18:48:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Standard Liege",
+      "odds_at_alert": 100.0,
+      "stake_pct": 5.0,
+      "confidence": 1598,
+      "alert_type": "value",
+      "alerted_at": "2026-09-18T20:50:50.768342+00:00"
+    },
+    {
+      "state_key": "43931d85c4a164e23cf732223b634737:h2h",
+      "event_id": "43931d85c4a164e23cf732223b634737",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "Gent",
+      "away_team": "Standard Liege",
+      "commence_time": "2026-09-18T18:48:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 18.0,
+      "stake_pct": 5.0,
+      "confidence": 1026,
+      "alert_type": "value",
+      "alerted_at": "2026-09-18T20:50:51.172255+00:00"
+    },
+    {
+      "state_key": "43931d85c4a164e23cf732223b634737:h2h",
+      "event_id": "43931d85c4a164e23cf732223b634737",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "Gent",
+      "away_team": "Standard Liege",
+      "commence_time": "2026-09-18T18:48:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Standard Liege",
+      "odds_at_alert": 1000.0,
+      "stake_pct": 5.0,
+      "confidence": 16883,
+      "alert_type": "value",
+      "alerted_at": "2026-09-18T20:50:51.560342+00:00"
+    },
+    {
+      "state_key": "43931d85c4a164e23cf732223b634737:h2h",
+      "event_id": "43931d85c4a164e23cf732223b634737",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "Gent",
+      "away_team": "Standard Liege",
+      "commence_time": "2026-09-18T18:48:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 963,
+      "alert_type": "value",
+      "alerted_at": "2026-09-18T20:50:51.966523+00:00"
+    },
+    {
+      "state_key": "43931d85c4a164e23cf732223b634737:h2h",
+      "event_id": "43931d85c4a164e23cf732223b634737",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "Gent",
+      "away_team": "Standard Liege",
+      "commence_time": "2026-09-18T18:48:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Standard Liege",
+      "odds_at_alert": 1000.0,
+      "stake_pct": 5.0,
+      "confidence": 16883,
+      "alert_type": "value",
+      "alerted_at": "2026-09-18T20:50:52.329224+00:00"
+    },
+    {
+      "state_key": "43931d85c4a164e23cf732223b634737:h2h",
+      "event_id": "43931d85c4a164e23cf732223b634737",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "Gent",
+      "away_team": "Standard Liege",
+      "commence_time": "2026-09-18T18:48:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 16.0,
+      "stake_pct": 5.0,
+      "confidence": 901,
+      "alert_type": "value",
+      "alerted_at": "2026-09-18T20:50:52.722967+00:00"
+    },
+    {
+      "state_key": "43931d85c4a164e23cf732223b634737:h2h",
+      "event_id": "43931d85c4a164e23cf732223b634737",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "Gent",
+      "away_team": "Standard Liege",
+      "commence_time": "2026-09-18T18:48:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Standard Liege",
+      "odds_at_alert": 400.0,
+      "stake_pct": 5.0,
+      "confidence": 6693,
+      "alert_type": "value",
+      "alerted_at": "2026-09-18T20:50:53.150224+00:00"
+    },
+    {
+      "state_key": "43931d85c4a164e23cf732223b634737:h2h",
+      "event_id": "43931d85c4a164e23cf732223b634737",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "Gent",
+      "away_team": "Standard Liege",
+      "commence_time": "2026-09-18T18:48:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 20.0,
+      "stake_pct": 5.0,
+      "confidence": 1151,
+      "alert_type": "value",
+      "alerted_at": "2026-09-18T20:50:53.582694+00:00"
+    },
+    {
+      "state_key": "43931d85c4a164e23cf732223b634737:h2h",
+      "event_id": "43931d85c4a164e23cf732223b634737",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "Gent",
+      "away_team": "Standard Liege",
+      "commence_time": "2026-09-18T18:48:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Standard Liege",
+      "odds_at_alert": 750.0,
+      "stake_pct": 5.0,
+      "confidence": 12637,
+      "alert_type": "value",
+      "alerted_at": "2026-09-18T20:50:53.972049+00:00"
+    },
+    {
+      "state_key": "43931d85c4a164e23cf732223b634737:h2h",
+      "event_id": "43931d85c4a164e23cf732223b634737",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "Gent",
+      "away_team": "Standard Liege",
+      "commence_time": "2026-09-18T18:48:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 20.0,
+      "stake_pct": 5.0,
+      "confidence": 1151,
+      "alert_type": "value",
+      "alerted_at": "2026-09-18T20:50:54.424465+00:00"
+    },
+    {
+      "state_key": "43931d85c4a164e23cf732223b634737:h2h",
+      "event_id": "43931d85c4a164e23cf732223b634737",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "Gent",
+      "away_team": "Standard Liege",
+      "commence_time": "2026-09-18T18:48:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Standard Liege",
+      "odds_at_alert": 126.0,
+      "stake_pct": 5.0,
+      "confidence": 2040,
+      "alert_type": "value",
+      "alerted_at": "2026-09-18T20:50:54.929828+00:00"
+    },
+    {
+      "state_key": "43931d85c4a164e23cf732223b634737:h2h",
+      "event_id": "43931d85c4a164e23cf732223b634737",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "Gent",
+      "away_team": "Standard Liege",
+      "commence_time": "2026-09-18T18:48:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 838,
+      "alert_type": "value",
+      "alerted_at": "2026-09-18T20:50:55.320767+00:00"
+    },
+    {
+      "state_key": "43931d85c4a164e23cf732223b634737:h2h",
+      "event_id": "43931d85c4a164e23cf732223b634737",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "Gent",
+      "away_team": "Standard Liege",
+      "commence_time": "2026-09-18T18:48:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Standard Liege",
+      "odds_at_alert": 110.0,
+      "stake_pct": 5.0,
+      "confidence": 1768,
+      "alert_type": "value",
+      "alerted_at": "2026-09-18T20:50:55.803462+00:00"
+    },
+    {
+      "state_key": "43931d85c4a164e23cf732223b634737:h2h",
+      "event_id": "43931d85c4a164e23cf732223b634737",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "Gent",
+      "away_team": "Standard Liege",
+      "commence_time": "2026-09-18T18:48:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 55.0,
+      "stake_pct": 5.0,
+      "confidence": 3339,
+      "alert_type": "value",
+      "alerted_at": "2026-09-18T20:50:56.230023+00:00"
+    },
+    {
+      "state_key": "43931d85c4a164e23cf732223b634737:h2h",
+      "event_id": "43931d85c4a164e23cf732223b634737",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "Gent",
+      "away_team": "Standard Liege",
+      "commence_time": "2026-09-18T18:48:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Standard Liege",
+      "odds_at_alert": 126.0,
+      "stake_pct": 5.0,
+      "confidence": 2040,
+      "alert_type": "value",
+      "alerted_at": "2026-09-18T20:50:56.671182+00:00"
+    },
+    {
+      "state_key": "43931d85c4a164e23cf732223b634737:h2h",
+      "event_id": "43931d85c4a164e23cf732223b634737",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "Gent",
+      "away_team": "Standard Liege",
+      "commence_time": "2026-09-18T18:48:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 713,
+      "alert_type": "value",
+      "alerted_at": "2026-09-18T20:50:57.051447+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "92b00c26367c4712163abd554057aee4:h2h|Betfair|SJK Seinäjoki",
-    "92b00c26367c4712163abd554057aee4:h2h|Coolbet|SJK Seinäjoki",
-    "92b00c26367c4712163abd554057aee4:h2h|LeoVegas (SE)|SJK Seinäjoki",
-    "92b00c26367c4712163abd554057aee4:h2h|Matchbook|SJK Seinäjoki",
-    "92b00c26367c4712163abd554057aee4:h2h|PMU (FR)|SJK Seinäjoki",
-    "92b00c26367c4712163abd554057aee4:h2h|Unibet (NL)|SJK Seinäjoki",
-    "92b00c26367c4712163abd554057aee4:h2h|Unibet (SE)|SJK Seinäjoki",
-    "e627f0c7d95cadb851bb70b1483f7b0d:h2h|Betfair|Jaro",
-    "e627f0c7d95cadb851bb70b1483f7b0d:h2h|Coolbet|Jaro",
-    "e627f0c7d95cadb851bb70b1483f7b0d:h2h|Matchbook|Jaro",
-    "e7dcdca9a05b5abd6e6c78b5014dae4c:h2h|888sport|AC Oulu",
-    "e7dcdca9a05b5abd6e6c78b5014dae4c:h2h|Betfair|AC Oulu",
-    "e7dcdca9a05b5abd6e6c78b5014dae4c:h2h|Coolbet|AC Oulu",
-    "e7dcdca9a05b5abd6e6c78b5014dae4c:h2h|Matchbook|AC Oulu",
-    "fb7e319cf30f05567468f6cc30195af6:h2h|Unibet (NL)|HJK Helsinki",
-    "fb7e319cf30f05567468f6cc30195af6:h2h|Unibet (SE)|HJK Helsinki"
+    "43931d85c4a164e23cf732223b634737:h2h|888sport|Draw",
+    "43931d85c4a164e23cf732223b634737:h2h|888sport|Standard Liege",
+    "43931d85c4a164e23cf732223b634737:h2h|Betclic (FR)|Draw",
+    "43931d85c4a164e23cf732223b634737:h2h|Betclic (FR)|Standard Liege",
+    "43931d85c4a164e23cf732223b634737:h2h|Betfair|Draw",
+    "43931d85c4a164e23cf732223b634737:h2h|Betfair|Standard Liege",
+    "43931d85c4a164e23cf732223b634737:h2h|Betsson|Draw",
+    "43931d85c4a164e23cf732223b634737:h2h|Betsson|Standard Liege",
+    "43931d85c4a164e23cf732223b634737:h2h|Coolbet|Draw",
+    "43931d85c4a164e23cf732223b634737:h2h|Coolbet|Standard Liege",
+    "43931d85c4a164e23cf732223b634737:h2h|LeoVegas (SE)|Draw",
+    "43931d85c4a164e23cf732223b634737:h2h|LeoVegas (SE)|Standard Liege",
+    "43931d85c4a164e23cf732223b634737:h2h|Tipico|Draw",
+    "43931d85c4a164e23cf732223b634737:h2h|Tipico|Standard Liege",
+    "43931d85c4a164e23cf732223b634737:h2h|Winamax (DE)|Draw",
+    "43931d85c4a164e23cf732223b634737:h2h|Winamax (DE)|Standard Liege",
+    "43931d85c4a164e23cf732223b634737:h2h|Winamax (FR)|Draw",
+    "43931d85c4a164e23cf732223b634737:h2h|Winamax (FR)|Standard Liege"
   ]
 }
