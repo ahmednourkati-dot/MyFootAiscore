@@ -1,381 +1,231 @@
 {
   "snapshots": {
-    "1128942aabea98a569ec2a65abbdbc0d:h2h": {
-      "Winamax (DE)": {
-        "Wuhan Three Towns": 3.1,
-        "Zhejiang": 1.88,
-        "Draw": 4.1
-      },
-      "BetOnline.ag": {
-        "Wuhan Three Towns": 3.35,
-        "Zhejiang": 1.92,
-        "Draw": 4.2
-      },
-      "Winamax (FR)": {
-        "Wuhan Three Towns": 3.05,
-        "Zhejiang": 1.84,
-        "Draw": 4.0
-      },
-      "Unibet (FR)": {
-        "Wuhan Three Towns": 3.1,
-        "Zhejiang": 1.72,
-        "Draw": 3.8
-      },
-      "Betsson": {
-        "Wuhan Three Towns": 3.2,
-        "Zhejiang": 1.9,
-        "Draw": 3.95
-      },
-      "Coolbet": {
-        "Wuhan Three Towns": 3.25,
-        "Zhejiang": 1.92,
-        "Draw": 4.3
-      },
-      "1xBet": {
-        "Wuhan Three Towns": 3.42,
-        "Zhejiang": 1.94,
-        "Draw": 4.2
-      },
-      "Pinnacle": {
-        "Wuhan Three Towns": 3.42,
-        "Zhejiang": 1.94,
-        "Draw": 4.3
-      },
-      "Nordic Bet": {
-        "Wuhan Three Towns": 3.2,
-        "Zhejiang": 1.9,
-        "Draw": 3.95
-      },
-      "GTbets": {
-        "Wuhan Three Towns": 3.33,
-        "Zhejiang": 1.85,
-        "Draw": 4.11
-      },
-      "888sport": {
-        "Wuhan Three Towns": 3.3,
-        "Zhejiang": 1.85,
-        "Draw": 3.9
-      },
-      "William Hill": {
-        "Wuhan Three Towns": 3.3,
-        "Zhejiang": 1.85,
-        "Draw": 3.9
-      },
-      "Marathon Bet": {
-        "Wuhan Three Towns": 3.3,
-        "Zhejiang": 1.87,
-        "Draw": 4.05
-      },
-      "Codere (IT)": {
-        "Wuhan Three Towns": 3.2,
-        "Zhejiang": 1.89,
-        "Draw": 4.0
-      },
-      "Unibet (SE)": {
-        "Wuhan Three Towns": 3.45,
-        "Zhejiang": 1.88,
-        "Draw": 4.0
-      },
-      "Unibet (NL)": {
-        "Wuhan Three Towns": 3.45,
-        "Zhejiang": 1.88,
-        "Draw": 4.0
-      },
-      "LeoVegas (SE)": {
-        "Wuhan Three Towns": 3.25,
-        "Zhejiang": 1.8,
-        "Draw": 3.8
-      },
-      "Tipico": {
-        "Wuhan Three Towns": 3.4,
-        "Zhejiang": 1.8,
-        "Draw": 4.2
-      },
-      "Betfair": {
-        "Wuhan Three Towns": 3.5,
-        "Zhejiang": 2.0,
-        "Draw": 4.5
-      },
-      "Matchbook": {
-        "Wuhan Three Towns": 3.55,
-        "Zhejiang": 1.99,
-        "Draw": 4.5
-      }
-    },
     "e627f0c7d95cadb851bb70b1483f7b0d:h2h": {
       "PMU (FR)": {
-        "FC Lahti": 1.44,
-        "Jaro": 4.8,
-        "Draw": 3.7
+        "FC Lahti": 1.09,
+        "Jaro": 16.0,
+        "Draw": 4.6
       },
       "Unibet (SE)": {
-        "FC Lahti": 1.55,
-        "Jaro": 5.1,
-        "Draw": 3.95
-      },
-      "Unibet (FR)": {
-        "FC Lahti": 1.45,
-        "Jaro": 4.75,
-        "Draw": 3.7
+        "FC Lahti": 1.2,
+        "Jaro": 16.0,
+        "Draw": 5.0
       },
       "Unibet (NL)": {
-        "FC Lahti": 1.55,
-        "Jaro": 5.1,
-        "Draw": 3.95
+        "FC Lahti": 1.2,
+        "Jaro": 16.0,
+        "Draw": 5.0
       },
       "LeoVegas (SE)": {
-        "FC Lahti": 1.51,
-        "Jaro": 5.0,
-        "Draw": 3.85
-      },
-      "1xBet": {
-        "FC Lahti": 1.59,
-        "Jaro": 5.17,
-        "Draw": 4.05
-      },
-      "GTbets": {
-        "FC Lahti": 1.6,
-        "Jaro": 5.2,
-        "Draw": 4.1
-      },
-      "BetOnline.ag": {
-        "FC Lahti": 1.59,
-        "Jaro": 5.2,
-        "Draw": 4.2
+        "FC Lahti": 1.13,
+        "Jaro": 16.0,
+        "Draw": 4.75
       },
       "Pinnacle": {
-        "FC Lahti": 1.6,
-        "Jaro": 5.45,
-        "Draw": 4.37
+        "FC Lahti": 1.16,
+        "Jaro": 26.99,
+        "Draw": 6.62
       },
       "888sport": {
-        "FC Lahti": 1.53,
-        "Jaro": 5.0,
-        "Draw": 4.0
-      },
-      "William Hill": {
-        "FC Lahti": 1.55,
-        "Jaro": 5.0,
-        "Draw": 4.0
-      },
-      "Marathon Bet": {
-        "FC Lahti": 1.56,
-        "Jaro": 5.25,
-        "Draw": 4.1
+        "FC Lahti": 1.17,
+        "Jaro": 23.0,
+        "Draw": 5.75
       },
       "Betfair": {
-        "FC Lahti": 1.63,
-        "Jaro": 6.0,
-        "Draw": 4.5
+        "FC Lahti": 1.21,
+        "Jaro": 38.0,
+        "Draw": 6.4
       },
       "Coolbet": {
-        "FC Lahti": 1.63,
-        "Jaro": 5.2,
-        "Draw": 4.25
+        "FC Lahti": 1.16,
+        "Jaro": 32.5,
+        "Draw": 7.0
       },
       "Betsson": {
-        "FC Lahti": 1.6,
-        "Jaro": 5.45,
-        "Draw": 3.9
+        "FC Lahti": 1.14,
+        "Jaro": 27.0,
+        "Draw": 6.6
       },
       "Nordic Bet": {
-        "FC Lahti": 1.58,
-        "Jaro": 5.4,
-        "Draw": 3.85
-      },
-      "BetAnything": {
-        "FC Lahti": 1.59,
-        "Jaro": 5.2,
-        "Draw": 4.2
+        "FC Lahti": 1.12,
+        "Jaro": 24.0,
+        "Draw": 6.3
       },
       "Matchbook": {
-        "FC Lahti": 1.63,
-        "Jaro": 6.0,
-        "Draw": 4.4
+        "FC Lahti": 1.21,
+        "Jaro": 38.0,
+        "Draw": 6.4
       }
     },
     "92b00c26367c4712163abd554057aee4:h2h": {
       "PMU (FR)": {
-        "IFK Mariehamn": 3.95,
-        "SJK Seinäjoki": 1.63,
-        "Draw": 3.35
+        "IFK Mariehamn": 1.4,
+        "SJK Seinäjoki": 7.0,
+        "Draw": 2.88
       },
       "Unibet (SE)": {
-        "IFK Mariehamn": 4.35,
-        "SJK Seinäjoki": 1.77,
-        "Draw": 3.65
+        "IFK Mariehamn": 1.53,
+        "SJK Seinäjoki": 7.5,
+        "Draw": 3.15
       },
       "Unibet (NL)": {
-        "IFK Mariehamn": 4.35,
-        "SJK Seinäjoki": 1.77,
-        "Draw": 3.65
+        "IFK Mariehamn": 1.53,
+        "SJK Seinäjoki": 7.5,
+        "Draw": 3.15
       },
       "LeoVegas (SE)": {
-        "IFK Mariehamn": 4.1,
-        "SJK Seinäjoki": 1.7,
-        "Draw": 3.45
-      },
-      "Unibet (FR)": {
-        "IFK Mariehamn": 3.75,
-        "SJK Seinäjoki": 1.64,
-        "Draw": 3.4
-      },
-      "1xBet": {
-        "IFK Mariehamn": 4.18,
-        "SJK Seinäjoki": 1.8,
-        "Draw": 3.64
-      },
-      "GTbets": {
-        "IFK Mariehamn": 4.18,
-        "SJK Seinäjoki": 1.77,
-        "Draw": 3.77
-      },
-      "BetOnline.ag": {
-        "IFK Mariehamn": 4.1,
-        "SJK Seinäjoki": 1.85,
-        "Draw": 3.7
+        "IFK Mariehamn": 1.43,
+        "SJK Seinäjoki": 7.0,
+        "Draw": 2.95
       },
       "Pinnacle": {
-        "IFK Mariehamn": 4.24,
-        "SJK Seinäjoki": 1.83,
-        "Draw": 3.94
+        "IFK Mariehamn": 1.88,
+        "SJK Seinäjoki": 5.23,
+        "Draw": 2.99
       },
       "888sport": {
-        "IFK Mariehamn": 3.9,
-        "SJK Seinäjoki": 1.8,
-        "Draw": 3.5
-      },
-      "William Hill": {
-        "IFK Mariehamn": 3.9,
-        "SJK Seinäjoki": 1.8,
-        "Draw": 3.5
-      },
-      "Marathon Bet": {
-        "IFK Mariehamn": 4.2,
-        "SJK Seinäjoki": 1.78,
-        "Draw": 3.64
+        "IFK Mariehamn": 1.75,
+        "SJK Seinäjoki": 5.0,
+        "Draw": 3.0
       },
       "Betfair": {
-        "IFK Mariehamn": 4.5,
-        "SJK Seinäjoki": 1.89,
-        "Draw": 3.9
+        "IFK Mariehamn": 1.83,
+        "SJK Seinäjoki": 7.0,
+        "Draw": 3.2
       },
       "Coolbet": {
-        "IFK Mariehamn": 4.4,
-        "SJK Seinäjoki": 1.86,
-        "Draw": 3.6
+        "IFK Mariehamn": 1.8,
+        "SJK Seinäjoki": 6.0,
+        "Draw": 3.14
       },
       "Betsson": {
-        "IFK Mariehamn": 4.2,
-        "SJK Seinäjoki": 1.82,
-        "Draw": 3.55
+        "IFK Mariehamn": 1.8,
+        "SJK Seinäjoki": 5.55,
+        "Draw": 3.0
       },
       "Nordic Bet": {
-        "IFK Mariehamn": 4.1,
-        "SJK Seinäjoki": 1.8,
-        "Draw": 3.45
-      },
-      "BetAnything": {
-        "IFK Mariehamn": 4.1,
-        "SJK Seinäjoki": 1.85,
-        "Draw": 3.7
+        "IFK Mariehamn": 1.78,
+        "SJK Seinäjoki": 5.35,
+        "Draw": 2.92
       },
       "Matchbook": {
-        "IFK Mariehamn": 4.5,
-        "SJK Seinäjoki": 1.89,
-        "Draw": 3.9
+        "IFK Mariehamn": 1.77,
+        "SJK Seinäjoki": 7.2,
+        "Draw": 3.25
       }
     },
     "e7dcdca9a05b5abd6e6c78b5014dae4c:h2h": {
       "Unibet (SE)": {
-        "AC Oulu": 3.95,
+        "AC Oulu": 3.85,
+        "FC Inter Turku": 2.02,
+        "Draw": 2.8
+      },
+      "PMU (FR)": {
+        "AC Oulu": 3.55,
         "FC Inter Turku": 1.85,
+        "Draw": 2.6
+      },
+      "LeoVegas (SE)": {
+        "AC Oulu": 3.65,
+        "FC Inter Turku": 1.88,
+        "Draw": 2.65
+      },
+      "Unibet (NL)": {
+        "AC Oulu": 3.85,
+        "FC Inter Turku": 2.02,
+        "Draw": 2.8
+      },
+      "888sport": {
+        "AC Oulu": 5.0,
+        "FC Inter Turku": 1.73,
+        "Draw": 3.0
+      },
+      "Betfair": {
+        "AC Oulu": 5.3,
+        "FC Inter Turku": 1.93,
+        "Draw": 3.35
+      },
+      "Nordic Bet": {
+        "AC Oulu": 4.6,
+        "FC Inter Turku": 1.78,
+        "Draw": 3.15
+      },
+      "Betsson": {
+        "AC Oulu": 4.6,
+        "FC Inter Turku": 1.78,
+        "Draw": 3.15
+      },
+      "Pinnacle": {
+        "AC Oulu": 4.28,
+        "FC Inter Turku": 1.94,
+        "Draw": 3.24
+      },
+      "Coolbet": {
+        "AC Oulu": 5.0,
+        "FC Inter Turku": 1.91,
+        "Draw": 3.25
+      },
+      "Matchbook": {
+        "AC Oulu": 5.2,
+        "FC Inter Turku": 1.95,
+        "Draw": 3.3
+      }
+    },
+    "fb7e319cf30f05567468f6cc30195af6:h2h": {
+      "Unibet (SE)": {
+        "HJK Helsinki": 2.08,
+        "IF Gnistan": 3.15,
         "Draw": 3.25
       },
       "PMU (FR)": {
-        "AC Oulu": 3.7,
-        "FC Inter Turku": 1.75,
-        "Draw": 3.05
+        "HJK Helsinki": 1.88,
+        "IF Gnistan": 2.88,
+        "Draw": 3.0
       },
       "LeoVegas (SE)": {
-        "AC Oulu": 3.85,
-        "FC Inter Turku": 1.82,
-        "Draw": 3.2
+        "HJK Helsinki": 1.94,
+        "IF Gnistan": 2.95,
+        "Draw": 3.1
       },
       "Unibet (NL)": {
-        "AC Oulu": 3.95,
-        "FC Inter Turku": 1.85,
+        "HJK Helsinki": 2.08,
+        "IF Gnistan": 3.15,
         "Draw": 3.25
-      },
-      "Unibet (FR)": {
-        "AC Oulu": 3.7,
-        "FC Inter Turku": 1.73,
-        "Draw": 3.15
-      },
-      "1xBet": {
-        "AC Oulu": 3.94,
-        "FC Inter Turku": 1.91,
-        "Draw": 3.42
-      },
-      "GTbets": {
-        "AC Oulu": 3.96,
-        "FC Inter Turku": 1.97,
-        "Draw": 3.45
-      },
-      "BetOnline.ag": {
-        "AC Oulu": 3.95,
-        "FC Inter Turku": 1.99,
-        "Draw": 3.35
-      },
-      "Marathon Bet": {
-        "AC Oulu": 3.94,
-        "FC Inter Turku": 1.89,
-        "Draw": 3.42
-      },
-      "888sport": {
-        "AC Oulu": 3.9,
-        "FC Inter Turku": 1.91,
-        "Draw": 3.25
-      },
-      "William Hill": {
-        "AC Oulu": 3.9,
-        "FC Inter Turku": 1.91,
-        "Draw": 3.25
-      },
-      "Betfair": {
-        "AC Oulu": 4.3,
-        "FC Inter Turku": 2.02,
-        "Draw": 3.55
-      },
-      "Nordic Bet": {
-        "AC Oulu": 3.95,
-        "FC Inter Turku": 1.92,
-        "Draw": 3.3
-      },
-      "Betsson": {
-        "AC Oulu": 3.95,
-        "FC Inter Turku": 1.92,
-        "Draw": 3.3
       },
       "Pinnacle": {
-        "AC Oulu": 4.13,
-        "FC Inter Turku": 1.97,
-        "Draw": 3.51
+        "HJK Helsinki": 1.87,
+        "IF Gnistan": 3.88,
+        "Draw": 3.77
       },
-      "Coolbet": {
-        "AC Oulu": 3.85,
-        "FC Inter Turku": 1.95,
+      "888sport": {
+        "HJK Helsinki": 1.8,
+        "IF Gnistan": 3.7,
         "Draw": 3.7
       },
-      "BetAnything": {
-        "AC Oulu": 3.95,
-        "FC Inter Turku": 1.99,
-        "Draw": 3.35
+      "Coolbet": {
+        "HJK Helsinki": 1.91,
+        "IF Gnistan": 4.0,
+        "Draw": 3.75
+      },
+      "Betfair": {
+        "HJK Helsinki": 1.95,
+        "IF Gnistan": 4.0,
+        "Draw": 4.0
+      },
+      "Betsson": {
+        "HJK Helsinki": 1.85,
+        "IF Gnistan": 3.65,
+        "Draw": 3.5
+      },
+      "Nordic Bet": {
+        "HJK Helsinki": 1.85,
+        "IF Gnistan": 3.65,
+        "Draw": 3.5
       },
       "Matchbook": {
-        "AC Oulu": 4.3,
-        "FC Inter Turku": 2.02,
-        "Draw": 3.6
+        "HJK Helsinki": 1.95,
+        "IF Gnistan": 4.1,
+        "Draw": 4.0
       }
     }
   },
@@ -4492,13 +4342,249 @@
       "confidence": 6,
       "alert_type": "value",
       "alerted_at": "2026-09-18T11:06:29.824426+00:00"
+    },
+    {
+      "state_key": "e627f0c7d95cadb851bb70b1483f7b0d:h2h",
+      "event_id": "e627f0c7d95cadb851bb70b1483f7b0d",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "FC Lahti",
+      "away_team": "Jaro",
+      "commence_time": "2026-09-18T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Jaro",
+      "odds_at_alert": 32.5,
+      "stake_pct": 3.0,
+      "confidence": 15,
+      "alert_type": "value",
+      "alerted_at": "2026-09-18T16:19:50.404783+00:00"
+    },
+    {
+      "state_key": "92b00c26367c4712163abd554057aee4:h2h",
+      "event_id": "92b00c26367c4712163abd554057aee4",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "SJK Seinäjoki",
+      "away_team": "IFK Mariehamn",
+      "commence_time": "2026-09-18T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "SJK Seinäjoki",
+      "odds_at_alert": 7.0,
+      "stake_pct": 5.0,
+      "confidence": 27,
+      "alert_type": "value",
+      "alerted_at": "2026-09-18T16:19:50.749237+00:00"
+    },
+    {
+      "state_key": "92b00c26367c4712163abd554057aee4:h2h",
+      "event_id": "92b00c26367c4712163abd554057aee4",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "SJK Seinäjoki",
+      "away_team": "IFK Mariehamn",
+      "commence_time": "2026-09-18T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "SJK Seinäjoki",
+      "odds_at_alert": 7.5,
+      "stake_pct": 5.0,
+      "confidence": 36,
+      "alert_type": "value",
+      "alerted_at": "2026-09-18T16:19:51.091869+00:00"
+    },
+    {
+      "state_key": "92b00c26367c4712163abd554057aee4:h2h",
+      "event_id": "92b00c26367c4712163abd554057aee4",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "SJK Seinäjoki",
+      "away_team": "IFK Mariehamn",
+      "commence_time": "2026-09-18T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "SJK Seinäjoki",
+      "odds_at_alert": 7.5,
+      "stake_pct": 5.0,
+      "confidence": 36,
+      "alert_type": "value",
+      "alerted_at": "2026-09-18T16:19:51.432437+00:00"
+    },
+    {
+      "state_key": "92b00c26367c4712163abd554057aee4:h2h",
+      "event_id": "92b00c26367c4712163abd554057aee4",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "SJK Seinäjoki",
+      "away_team": "IFK Mariehamn",
+      "commence_time": "2026-09-18T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "SJK Seinäjoki",
+      "odds_at_alert": 7.0,
+      "stake_pct": 5.0,
+      "confidence": 27,
+      "alert_type": "value",
+      "alerted_at": "2026-09-18T16:19:51.764216+00:00"
+    },
+    {
+      "state_key": "92b00c26367c4712163abd554057aee4:h2h",
+      "event_id": "92b00c26367c4712163abd554057aee4",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "SJK Seinäjoki",
+      "away_team": "IFK Mariehamn",
+      "commence_time": "2026-09-18T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "SJK Seinäjoki",
+      "odds_at_alert": 7.0,
+      "stake_pct": 5.0,
+      "confidence": 27,
+      "alert_type": "value",
+      "alerted_at": "2026-09-18T16:19:52.103513+00:00"
+    },
+    {
+      "state_key": "92b00c26367c4712163abd554057aee4:h2h",
+      "event_id": "92b00c26367c4712163abd554057aee4",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "SJK Seinäjoki",
+      "away_team": "IFK Mariehamn",
+      "commence_time": "2026-09-18T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "SJK Seinäjoki",
+      "odds_at_alert": 6.0,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-09-18T16:19:52.433673+00:00"
+    },
+    {
+      "state_key": "92b00c26367c4712163abd554057aee4:h2h",
+      "event_id": "92b00c26367c4712163abd554057aee4",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "SJK Seinäjoki",
+      "away_team": "IFK Mariehamn",
+      "commence_time": "2026-09-18T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "SJK Seinäjoki",
+      "odds_at_alert": 7.2,
+      "stake_pct": 5.0,
+      "confidence": 30,
+      "alert_type": "value",
+      "alerted_at": "2026-09-18T16:19:52.784807+00:00"
+    },
+    {
+      "state_key": "e7dcdca9a05b5abd6e6c78b5014dae4c:h2h",
+      "event_id": "e7dcdca9a05b5abd6e6c78b5014dae4c",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "AC Oulu",
+      "away_team": "FC Inter Turku",
+      "commence_time": "2026-09-18T15:59:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "AC Oulu",
+      "odds_at_alert": 5.0,
+      "stake_pct": 3.0,
+      "confidence": 10,
+      "alert_type": "value",
+      "alerted_at": "2026-09-18T16:19:53.139105+00:00"
+    },
+    {
+      "state_key": "e7dcdca9a05b5abd6e6c78b5014dae4c:h2h",
+      "event_id": "e7dcdca9a05b5abd6e6c78b5014dae4c",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "AC Oulu",
+      "away_team": "FC Inter Turku",
+      "commence_time": "2026-09-18T15:59:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "AC Oulu",
+      "odds_at_alert": 5.3,
+      "stake_pct": 5.0,
+      "confidence": 17,
+      "alert_type": "value",
+      "alerted_at": "2026-09-18T16:19:53.464931+00:00"
+    },
+    {
+      "state_key": "e7dcdca9a05b5abd6e6c78b5014dae4c:h2h",
+      "event_id": "e7dcdca9a05b5abd6e6c78b5014dae4c",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "AC Oulu",
+      "away_team": "FC Inter Turku",
+      "commence_time": "2026-09-18T15:59:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "AC Oulu",
+      "odds_at_alert": 5.0,
+      "stake_pct": 3.0,
+      "confidence": 10,
+      "alert_type": "value",
+      "alerted_at": "2026-09-18T16:19:53.838207+00:00"
+    },
+    {
+      "state_key": "e7dcdca9a05b5abd6e6c78b5014dae4c:h2h",
+      "event_id": "e7dcdca9a05b5abd6e6c78b5014dae4c",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "AC Oulu",
+      "away_team": "FC Inter Turku",
+      "commence_time": "2026-09-18T15:59:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "AC Oulu",
+      "odds_at_alert": 5.2,
+      "stake_pct": 3.0,
+      "confidence": 15,
+      "alert_type": "value",
+      "alerted_at": "2026-09-18T16:19:54.191687+00:00"
+    },
+    {
+      "state_key": "fb7e319cf30f05567468f6cc30195af6:h2h",
+      "event_id": "fb7e319cf30f05567468f6cc30195af6",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "IF Gnistan",
+      "away_team": "HJK Helsinki",
+      "commence_time": "2026-09-18T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "HJK Helsinki",
+      "odds_at_alert": 2.08,
+      "stake_pct": 2.0,
+      "confidence": 5,
+      "alert_type": "value",
+      "alerted_at": "2026-09-18T16:19:54.506765+00:00"
+    },
+    {
+      "state_key": "fb7e319cf30f05567468f6cc30195af6:h2h",
+      "event_id": "fb7e319cf30f05567468f6cc30195af6",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "IF Gnistan",
+      "away_team": "HJK Helsinki",
+      "commence_time": "2026-09-18T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "HJK Helsinki",
+      "odds_at_alert": 2.08,
+      "stake_pct": 2.0,
+      "confidence": 5,
+      "alert_type": "value",
+      "alerted_at": "2026-09-18T16:19:54.836519+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "1128942aabea98a569ec2a65abbdbc0d:h2h|Unibet (NL)|Wuhan Three Towns",
-    "1128942aabea98a569ec2a65abbdbc0d:h2h|Unibet (SE)|Wuhan Three Towns",
+    "92b00c26367c4712163abd554057aee4:h2h|Betfair|SJK Seinäjoki",
+    "92b00c26367c4712163abd554057aee4:h2h|Coolbet|SJK Seinäjoki",
+    "92b00c26367c4712163abd554057aee4:h2h|LeoVegas (SE)|SJK Seinäjoki",
+    "92b00c26367c4712163abd554057aee4:h2h|Matchbook|SJK Seinäjoki",
+    "92b00c26367c4712163abd554057aee4:h2h|PMU (FR)|SJK Seinäjoki",
+    "92b00c26367c4712163abd554057aee4:h2h|Unibet (NL)|SJK Seinäjoki",
+    "92b00c26367c4712163abd554057aee4:h2h|Unibet (SE)|SJK Seinäjoki",
     "e627f0c7d95cadb851bb70b1483f7b0d:h2h|Betfair|Jaro",
-    "e627f0c7d95cadb851bb70b1483f7b0d:h2h|Matchbook|Jaro"
+    "e627f0c7d95cadb851bb70b1483f7b0d:h2h|Coolbet|Jaro",
+    "e627f0c7d95cadb851bb70b1483f7b0d:h2h|Matchbook|Jaro",
+    "e7dcdca9a05b5abd6e6c78b5014dae4c:h2h|888sport|AC Oulu",
+    "e7dcdca9a05b5abd6e6c78b5014dae4c:h2h|Betfair|AC Oulu",
+    "e7dcdca9a05b5abd6e6c78b5014dae4c:h2h|Coolbet|AC Oulu",
+    "e7dcdca9a05b5abd6e6c78b5014dae4c:h2h|Matchbook|AC Oulu",
+    "fb7e319cf30f05567468f6cc30195af6:h2h|Unibet (NL)|HJK Helsinki",
+    "fb7e319cf30f05567468f6cc30195af6:h2h|Unibet (SE)|HJK Helsinki"
   ]
 }
