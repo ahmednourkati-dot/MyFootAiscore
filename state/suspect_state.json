@@ -1,261 +1,421 @@
 {
   "snapshots": {
-    "b0c04af9d4a40d7fbe2aa0296bc6a02b:h2h": {
+    "becbfbe1a8438f3ca61b47b5b50bbe9e:h2h": {
       "Unibet (NL)": {
-        "América Mineiro": 56.0,
-        "Vila Nova": 1.03,
-        "Draw": 8.0
-      },
-      "LeoVegas (SE)": {
-        "América Mineiro": 56.0,
-        "Vila Nova": 1.05,
-        "Draw": 8.0
-      },
-      "Unibet (SE)": {
-        "América Mineiro": 76.0,
-        "Vila Nova": 1.08,
-        "Draw": 8.5
-      },
-      "Betsson": {
-        "América Mineiro": 43.0,
-        "Vila Nova": 1.06,
-        "Draw": 7.2
-      },
-      "Nordic Bet": {
-        "América Mineiro": 47.0,
-        "Vila Nova": 1.05,
-        "Draw": 7.7
-      },
-      "888sport": {
-        "América Mineiro": 71.0,
-        "Vila Nova": 1.06,
-        "Draw": 8.5
-      },
-      "Coolbet": {
-        "América Mineiro": 50.0,
-        "Vila Nova": 1.06,
-        "Draw": 8.0
-      },
-      "Matchbook": {
-        "América Mineiro": 110.0,
-        "Vila Nova": 1.12,
-        "Draw": 8.8
-      },
-      "Tipico": {
-        "América Mineiro": 90.0,
-        "Vila Nova": 1.07,
-        "Draw": 6.5
-      },
-      "Betfair": {
-        "América Mineiro": 55.0,
-        "Vila Nova": 1.14,
-        "Draw": 8.2
-      }
-    },
-    "f3473690b5b3d9613038cd0a17194f93:h2h": {
-      "LeoVegas (SE)": {
-        "Ceará": 3.1,
-        "Grêmio Novorizontino": 2.48,
-        "Draw": 2.35
-      },
-      "Unibet (NL)": {
-        "Ceará": 3.15,
-        "Grêmio Novorizontino": 2.55,
-        "Draw": 2.35
-      },
-      "Unibet (SE)": {
-        "Ceará": 3.3,
-        "Grêmio Novorizontino": 2.65,
-        "Draw": 2.48
-      },
-      "Betsson": {
-        "Ceará": 3.3,
-        "Grêmio Novorizontino": 2.45,
-        "Draw": 2.6
-      },
-      "Coolbet": {
-        "Ceará": 3.4,
-        "Grêmio Novorizontino": 2.5,
-        "Draw": 2.5
-      },
-      "Nordic Bet": {
-        "Ceará": 3.3,
-        "Grêmio Novorizontino": 2.45,
-        "Draw": 2.55
-      },
-      "Pinnacle": {
-        "Ceará": 3.6,
-        "Grêmio Novorizontino": 2.6,
-        "Draw": 2.48
-      },
-      "888sport": {
-        "Ceará": 3.25,
-        "Grêmio Novorizontino": 2.5,
-        "Draw": 2.5
-      },
-      "Tipico": {
-        "Ceará": 3.6,
-        "Grêmio Novorizontino": 2.3,
-        "Draw": 2.6
-      },
-      "Matchbook": {
-        "Ceará": 3.75,
-        "Grêmio Novorizontino": 2.64,
-        "Draw": 2.74
-      },
-      "Betfair": {
-        "Ceará": 3.8,
-        "Grêmio Novorizontino": 2.64,
-        "Draw": 2.76
-      }
-    },
-    "66849986905421eca414d1a6f10841e7:h2h": {
-      "LeoVegas (SE)": {
-        "New York City FC": 1.94,
-        "New York Red Bulls": 3.7,
-        "Draw": 3.0
-      },
-      "Unibet (NL)": {
-        "New York City FC": 2.0,
-        "New York Red Bulls": 3.85,
-        "Draw": 3.1
-      },
-      "Unibet (SE)": {
-        "New York City FC": 1.97,
-        "New York Red Bulls": 3.9,
-        "Draw": 3.1
-      },
-      "PMU (FR)": {
-        "New York City FC": 1.83,
-        "New York Red Bulls": 3.65,
-        "Draw": 2.88
-      },
-      "Coolbet": {
-        "New York City FC": 2.0,
-        "New York Red Bulls": 3.8,
-        "Draw": 3.25
-      },
-      "Betclic (FR)": {
-        "New York City FC": 1.83,
-        "New York Red Bulls": 3.65,
-        "Draw": 2.98
-      },
-      "Pinnacle": {
-        "New York City FC": 1.99,
-        "New York Red Bulls": 4.08,
-        "Draw": 3.21
-      },
-      "888sport": {
-        "New York City FC": 1.91,
-        "New York Red Bulls": 3.8,
-        "Draw": 3.1
-      },
-      "Winamax (DE)": {
-        "New York City FC": 1.94,
-        "New York Red Bulls": 3.8,
+        "Bucheon FC 1995": 2.95,
+        "Sangju Sangmu FC": 2.2,
         "Draw": 3.05
       },
-      "Winamax (FR)": {
-        "New York City FC": 1.9,
-        "New York Red Bulls": 3.65,
-        "Draw": 2.95
-      },
-      "Betsson": {
-        "New York City FC": 1.95,
-        "New York Red Bulls": 3.65,
-        "Draw": 3.15
-      },
-      "Nordic Bet": {
-        "New York City FC": 1.95,
-        "New York Red Bulls": 3.65,
-        "Draw": 3.15
-      },
-      "Tipico": {
-        "New York City FC": 1.9,
-        "New York Red Bulls": 4.0,
-        "Draw": 3.1
-      },
-      "Betfair": {
-        "New York City FC": 2.1,
-        "New York Red Bulls": 4.0,
-        "Draw": 3.45
-      },
-      "Matchbook": {
-        "New York City FC": 2.02,
-        "New York Red Bulls": 4.3,
-        "Draw": 3.35
-      }
-    },
-    "52f0c53675735a6e354515598bc068d5:h2h": {
       "Unibet (SE)": {
-        "Atletico Goianiense": 2.7,
-        "São Bernardo": 2.65,
-        "Draw": 2.95
+        "Bucheon FC 1995": 2.95,
+        "Sangju Sangmu FC": 2.2,
+        "Draw": 3.05
       },
       "LeoVegas (SE)": {
-        "Atletico Goianiense": 2.55,
-        "São Bernardo": 2.5,
-        "Draw": 2.8
+        "Bucheon FC 1995": 2.9,
+        "Sangju Sangmu FC": 2.18,
+        "Draw": 3.05
       },
-      "Unibet (NL)": {
-        "Atletico Goianiense": 2.6,
-        "São Bernardo": 2.55,
-        "Draw": 2.85
-      },
-      "Nordic Bet": {
-        "Atletico Goianiense": 2.7,
-        "São Bernardo": 2.7,
-        "Draw": 2.78
+      "PMU (FR)": {
+        "Bucheon FC 1995": 2.8,
+        "Sangju Sangmu FC": 2.12,
+        "Draw": 2.95
       },
       "Betsson": {
-        "Atletico Goianiense": 2.65,
-        "São Bernardo": 2.75,
-        "Draw": 2.85
+        "Bucheon FC 1995": 2.8,
+        "Sangju Sangmu FC": 2.32,
+        "Draw": 3.2
       },
-      "Pinnacle": {
-        "Atletico Goianiense": 2.83,
-        "São Bernardo": 2.79,
-        "Draw": 3.06
+      "Winamax (FR)": {
+        "Bucheon FC 1995": 2.7,
+        "Sangju Sangmu FC": 2.25,
+        "Draw": 3.25
       },
-      "Codere (IT)": {
-        "Atletico Goianiense": 2.75,
-        "São Bernardo": 2.55,
-        "Draw": 3.0
+      "Winamax (DE)": {
+        "Bucheon FC 1995": 2.75,
+        "Sangju Sangmu FC": 2.3,
+        "Draw": 3.3
       },
-      "888sport": {
-        "Atletico Goianiense": 2.62,
-        "São Bernardo": 2.8,
-        "Draw": 2.7
+      "Unibet (FR)": {
+        "Bucheon FC 1995": 2.65,
+        "Sangju Sangmu FC": 2.1,
+        "Draw": 3.05
       },
-      "William Hill": {
-        "Atletico Goianiense": 2.7,
-        "São Bernardo": 2.7,
-        "Draw": 2.88
+      "Betclic (FR)": {
+        "Bucheon FC 1995": 2.7,
+        "Sangju Sangmu FC": 2.22,
+        "Draw": 3.12
       },
-      "Coolbet": {
-        "Atletico Goianiense": 2.75,
-        "São Bernardo": 2.75,
-        "Draw": 2.8
-      },
-      "Matchbook": {
-        "Atletico Goianiense": 2.94,
-        "São Bernardo": 3.0,
-        "Draw": 2.98
-      },
-      "Tipico": {
-        "Atletico Goianiense": 2.55,
-        "São Bernardo": 2.9,
-        "Draw": 2.8
+      "Nordic Bet": {
+        "Bucheon FC 1995": 2.8,
+        "Sangju Sangmu FC": 2.32,
+        "Draw": 3.2
       },
       "BetOnline.ag": {
-        "Atletico Goianiense": 2.84,
-        "São Bernardo": 2.7,
-        "Draw": 2.94
+        "Bucheon FC 1995": 2.98,
+        "Sangju Sangmu FC": 2.4,
+        "Draw": 3.3
+      },
+      "Pinnacle": {
+        "Bucheon FC 1995": 3.03,
+        "Sangju Sangmu FC": 2.44,
+        "Draw": 3.4
+      },
+      "1xBet": {
+        "Bucheon FC 1995": 2.96,
+        "Sangju Sangmu FC": 2.35,
+        "Draw": 3.26
+      },
+      "Marathon Bet": {
+        "Bucheon FC 1995": 2.95,
+        "Sangju Sangmu FC": 2.33,
+        "Draw": 3.26
+      },
+      "William Hill": {
+        "Bucheon FC 1995": 2.9,
+        "Sangju Sangmu FC": 2.3,
+        "Draw": 3.1
+      },
+      "Tipico": {
+        "Bucheon FC 1995": 2.95,
+        "Sangju Sangmu FC": 2.4,
+        "Draw": 3.0
+      },
+      "Coolbet": {
+        "Bucheon FC 1995": 2.8,
+        "Sangju Sangmu FC": 2.45,
+        "Draw": 3.4
       },
       "Betfair": {
-        "Atletico Goianiense": 2.94,
-        "São Bernardo": 2.94,
-        "Draw": 3.0
+        "Bucheon FC 1995": 3.1,
+        "Sangju Sangmu FC": 2.5,
+        "Draw": 3.4
+      },
+      "Matchbook": {
+        "Bucheon FC 1995": 3.1,
+        "Sangju Sangmu FC": 2.52,
+        "Draw": 3.4
+      }
+    },
+    "764cf67d36afbccc978a6a90b91a76a1:h2h": {
+      "BetOnline.ag": {
+        "Avispa Fukuoka": 4.2,
+        "Hiroshima Sanfrecce FC": 1.84,
+        "Draw": 3.8
+      },
+      "Coolbet": {
+        "Avispa Fukuoka": 4.75,
+        "Hiroshima Sanfrecce FC": 1.7,
+        "Draw": 4.0
+      },
+      "Unibet (FR)": {
+        "Avispa Fukuoka": 4.5,
+        "Hiroshima Sanfrecce FC": 1.61,
+        "Draw": 3.6
+      },
+      "Winamax (FR)": {
+        "Avispa Fukuoka": 4.2,
+        "Hiroshima Sanfrecce FC": 1.64,
+        "Draw": 3.7
+      },
+      "Winamax (DE)": {
+        "Avispa Fukuoka": 4.3,
+        "Hiroshima Sanfrecce FC": 1.66,
+        "Draw": 3.8
+      },
+      "Betclic (FR)": {
+        "Avispa Fukuoka": 4.5,
+        "Hiroshima Sanfrecce FC": 1.65,
+        "Draw": 3.65
+      },
+      "Betsson": {
+        "Avispa Fukuoka": 4.6,
+        "Hiroshima Sanfrecce FC": 1.65,
+        "Draw": 3.7
+      },
+      "Nordic Bet": {
+        "Avispa Fukuoka": 4.5,
+        "Hiroshima Sanfrecce FC": 1.68,
+        "Draw": 3.6
+      },
+      "Pinnacle": {
+        "Avispa Fukuoka": 4.4,
+        "Hiroshima Sanfrecce FC": 1.82,
+        "Draw": 3.85
+      },
+      "Marathon Bet": {
+        "Avispa Fukuoka": 4.4,
+        "Hiroshima Sanfrecce FC": 1.73,
+        "Draw": 3.7
+      },
+      "1xBet": {
+        "Avispa Fukuoka": 4.87,
+        "Hiroshima Sanfrecce FC": 1.71,
+        "Draw": 3.9
+      },
+      "888sport": {
+        "Avispa Fukuoka": 4.4,
+        "Hiroshima Sanfrecce FC": 1.73,
+        "Draw": 3.5
+      },
+      "William Hill": {
+        "Avispa Fukuoka": 4.6,
+        "Hiroshima Sanfrecce FC": 1.67,
+        "Draw": 3.6
+      },
+      "Tipico": {
+        "Avispa Fukuoka": 4.8,
+        "Hiroshima Sanfrecce FC": 1.6,
+        "Draw": 3.9
+      },
+      "PMU (FR)": {
+        "Avispa Fukuoka": 4.4,
+        "Hiroshima Sanfrecce FC": 1.7,
+        "Draw": 3.55
+      },
+      "LeoVegas (SE)": {
+        "Avispa Fukuoka": 4.5,
+        "Hiroshima Sanfrecce FC": 1.72,
+        "Draw": 3.6
+      },
+      "Unibet (NL)": {
+        "Avispa Fukuoka": 4.5,
+        "Hiroshima Sanfrecce FC": 1.71,
+        "Draw": 3.55
+      },
+      "Unibet (SE)": {
+        "Avispa Fukuoka": 4.5,
+        "Hiroshima Sanfrecce FC": 1.71,
+        "Draw": 3.55
+      },
+      "Betfair": {
+        "Avispa Fukuoka": 5.2,
+        "Hiroshima Sanfrecce FC": 1.73,
+        "Draw": 4.1
+      },
+      "BetAnything": {
+        "Avispa Fukuoka": 4.2,
+        "Hiroshima Sanfrecce FC": 1.84,
+        "Draw": 3.75
+      },
+      "Matchbook": {
+        "Avispa Fukuoka": 4.6,
+        "Hiroshima Sanfrecce FC": 1.84,
+        "Draw": 3.9
+      }
+    },
+    "8258a63c7c03590cc61bc6ab3b6bdac7:h2h": {
+      "BetOnline.ag": {
+        "Kashima Antlers": 2.68,
+        "Kawasaki Frontale": 2.48,
+        "Draw": 3.7
+      },
+      "Coolbet": {
+        "Kashima Antlers": 2.65,
+        "Kawasaki Frontale": 2.45,
+        "Draw": 3.75
+      },
+      "Unibet (FR)": {
+        "Kashima Antlers": 2.55,
+        "Kawasaki Frontale": 2.25,
+        "Draw": 3.5
+      },
+      "Nordic Bet": {
+        "Kashima Antlers": 2.55,
+        "Kawasaki Frontale": 2.4,
+        "Draw": 3.45
+      },
+      "Betsson": {
+        "Kashima Antlers": 2.55,
+        "Kawasaki Frontale": 2.4,
+        "Draw": 3.45
+      },
+      "Betclic (FR)": {
+        "Kashima Antlers": 2.58,
+        "Kawasaki Frontale": 2.33,
+        "Draw": 3.53
+      },
+      "Pinnacle": {
+        "Kashima Antlers": 2.74,
+        "Kawasaki Frontale": 2.49,
+        "Draw": 3.76
+      },
+      "Marathon Bet": {
+        "Kashima Antlers": 2.59,
+        "Kawasaki Frontale": 2.43,
+        "Draw": 3.6
+      },
+      "1xBet": {
+        "Kashima Antlers": 2.66,
+        "Kawasaki Frontale": 2.5,
+        "Draw": 3.69
+      },
+      "Winamax (FR)": {
+        "Kashima Antlers": 2.45,
+        "Kawasaki Frontale": 2.3,
+        "Draw": 3.55
+      },
+      "Winamax (DE)": {
+        "Kashima Antlers": 2.5,
+        "Kawasaki Frontale": 2.35,
+        "Draw": 3.6
+      },
+      "888sport": {
+        "Kashima Antlers": 2.6,
+        "Kawasaki Frontale": 2.4,
+        "Draw": 3.4
+      },
+      "William Hill": {
+        "Kashima Antlers": 2.6,
+        "Kawasaki Frontale": 2.4,
+        "Draw": 3.4
+      },
+      "Tipico": {
+        "Kashima Antlers": 2.6,
+        "Kawasaki Frontale": 2.3,
+        "Draw": 3.7
+      },
+      "Unibet (NL)": {
+        "Kashima Antlers": 2.48,
+        "Kawasaki Frontale": 2.6,
+        "Draw": 3.4
+      },
+      "Unibet (SE)": {
+        "Kashima Antlers": 2.48,
+        "Kawasaki Frontale": 2.6,
+        "Draw": 3.4
+      },
+      "LeoVegas (SE)": {
+        "Kashima Antlers": 2.48,
+        "Kawasaki Frontale": 2.63,
+        "Draw": 3.45
+      },
+      "PMU (FR)": {
+        "Kashima Antlers": 2.45,
+        "Kawasaki Frontale": 2.55,
+        "Draw": 3.4
+      },
+      "Betfair": {
+        "Kashima Antlers": 2.78,
+        "Kawasaki Frontale": 2.56,
+        "Draw": 3.85
+      },
+      "BetAnything": {
+        "Kashima Antlers": 2.68,
+        "Kawasaki Frontale": 2.48,
+        "Draw": 3.7
+      },
+      "Matchbook": {
+        "Kashima Antlers": 2.78,
+        "Kawasaki Frontale": 2.56,
+        "Draw": 3.85
+      }
+    },
+    "6a483aff4d8cab30735c5848b2bccfb0:h2h": {
+      "Winamax (FR)": {
+        "Cerezo Osaka": 2.05,
+        "V-Varen Nagasaki": 3.0,
+        "Draw": 3.4
+      },
+      "Winamax (DE)": {
+        "Cerezo Osaka": 2.05,
+        "V-Varen Nagasaki": 3.05,
+        "Draw": 3.45
+      },
+      "Unibet (FR)": {
+        "Cerezo Osaka": 2.0,
+        "V-Varen Nagasaki": 3.1,
+        "Draw": 3.4
+      },
+      "Betclic (FR)": {
+        "Cerezo Osaka": 2.05,
+        "V-Varen Nagasaki": 3.15,
+        "Draw": 3.38
+      },
+      "Coolbet": {
+        "Cerezo Osaka": 2.1,
+        "V-Varen Nagasaki": 3.3,
+        "Draw": 3.75
+      },
+      "Pinnacle": {
+        "Cerezo Osaka": 2.19,
+        "V-Varen Nagasaki": 3.34,
+        "Draw": 3.6
+      },
+      "Nordic Bet": {
+        "Cerezo Osaka": 2.1,
+        "V-Varen Nagasaki": 3.15,
+        "Draw": 3.35
+      },
+      "Betsson": {
+        "Cerezo Osaka": 2.1,
+        "V-Varen Nagasaki": 3.15,
+        "Draw": 3.35
+      },
+      "Marathon Bet": {
+        "Cerezo Osaka": 2.08,
+        "V-Varen Nagasaki": 3.28,
+        "Draw": 3.45
+      },
+      "1xBet": {
+        "Cerezo Osaka": 2.14,
+        "V-Varen Nagasaki": 3.37,
+        "Draw": 3.54
+      },
+      "888sport": {
+        "Cerezo Osaka": 2.1,
+        "V-Varen Nagasaki": 3.1,
+        "Draw": 3.3
+      },
+      "William Hill": {
+        "Cerezo Osaka": 2.1,
+        "V-Varen Nagasaki": 3.1,
+        "Draw": 3.3
+      },
+      "Tipico": {
+        "Cerezo Osaka": 2.0,
+        "V-Varen Nagasaki": 3.3,
+        "Draw": 3.5
+      },
+      "Unibet (NL)": {
+        "Cerezo Osaka": 1.91,
+        "V-Varen Nagasaki": 3.55,
+        "Draw": 3.55
+      },
+      "PMU (FR)": {
+        "Cerezo Osaka": 1.88,
+        "V-Varen Nagasaki": 3.55,
+        "Draw": 3.5
+      },
+      "LeoVegas (SE)": {
+        "Cerezo Osaka": 1.92,
+        "V-Varen Nagasaki": 3.6,
+        "Draw": 3.55
+      },
+      "Unibet (SE)": {
+        "Cerezo Osaka": 1.91,
+        "V-Varen Nagasaki": 3.55,
+        "Draw": 3.55
+      },
+      "Betfair": {
+        "Cerezo Osaka": 2.24,
+        "V-Varen Nagasaki": 3.4,
+        "Draw": 3.7
+      },
+      "BetAnything": {
+        "Cerezo Osaka": 2.1,
+        "V-Varen Nagasaki": 3.25,
+        "Draw": 3.55
+      },
+      "BetOnline.ag": {
+        "Cerezo Osaka": 2.16,
+        "V-Varen Nagasaki": 3.35,
+        "Draw": 3.5
+      },
+      "Matchbook": {
+        "Cerezo Osaka": 2.24,
+        "V-Varen Nagasaki": 3.4,
+        "Draw": 3.7
       }
     }
   },
@@ -2468,8 +2628,60 @@
       "confidence": 713,
       "alert_type": "value",
       "alerted_at": "2026-09-18T20:50:57.051447+00:00"
+    },
+    {
+      "state_key": "764cf67d36afbccc978a6a90b91a76a1:h2h",
+      "event_id": "764cf67d36afbccc978a6a90b91a76a1",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Avispa Fukuoka",
+      "away_team": "Hiroshima Sanfrecce FC",
+      "commence_time": "2026-09-19T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Avispa Fukuoka",
+      "odds_at_alert": 4.87,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-09-19T07:17:20.544685+00:00"
+    },
+    {
+      "state_key": "764cf67d36afbccc978a6a90b91a76a1:h2h",
+      "event_id": "764cf67d36afbccc978a6a90b91a76a1",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Avispa Fukuoka",
+      "away_team": "Hiroshima Sanfrecce FC",
+      "commence_time": "2026-09-19T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Avispa Fukuoka",
+      "odds_at_alert": 4.8,
+      "stake_pct": 2.0,
+      "confidence": 5,
+      "alert_type": "value",
+      "alerted_at": "2026-09-19T07:17:20.920735+00:00"
+    },
+    {
+      "state_key": "764cf67d36afbccc978a6a90b91a76a1:h2h",
+      "event_id": "764cf67d36afbccc978a6a90b91a76a1",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Avispa Fukuoka",
+      "away_team": "Hiroshima Sanfrecce FC",
+      "commence_time": "2026-09-19T09:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Avispa Fukuoka",
+      "odds_at_alert": 5.2,
+      "stake_pct": 3.0,
+      "confidence": 14,
+      "alert_type": "value",
+      "alerted_at": "2026-09-19T07:17:21.279608+00:00"
     }
   ],
   "results_history": [],
-  "value_alerted": []
+  "value_alerted": [
+    "764cf67d36afbccc978a6a90b91a76a1:h2h|1xBet|Avispa Fukuoka",
+    "764cf67d36afbccc978a6a90b91a76a1:h2h|Betfair|Avispa Fukuoka",
+    "764cf67d36afbccc978a6a90b91a76a1:h2h|Tipico|Avispa Fukuoka"
+  ]
 }
