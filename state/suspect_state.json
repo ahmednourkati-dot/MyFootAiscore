@@ -1,211 +1,191 @@
 {
   "snapshots": {
-    "e04c820e4c4bb4d937ded3effa583e96:h2h": {
-      "Winamax (DE)": {
-        "Paris FC": 1.03,
-        "Strasbourg": 450.0,
-        "Draw": 17.0
-      },
-      "888sport": {
-        "Paris FC": 1.0,
-        "Strasbourg": 151.0,
-        "Draw": 61.0
-      },
-      "Coolbet": {
-        "Paris FC": 1.02,
-        "Strasbourg": 500.0,
-        "Draw": 18.0
-      },
-      "Winamax (FR)": {
-        "Paris FC": 1.02,
-        "Strasbourg": 900.0,
-        "Draw": 21.0
-      },
-      "Betclic (FR)": {
-        "Paris FC": 1.0,
-        "Strasbourg": 100.0,
-        "Draw": 20.0
-      },
-      "Betfair": {
-        "Paris FC": 1.04,
-        "Strasbourg": 1000.0,
-        "Draw": 20.0
-      },
-      "Unibet (NL)": {
-        "Paris FC": 1.02,
-        "Strasbourg": 251.0,
-        "Draw": 16.0
-      },
-      "Betsson": {
-        "Paris FC": 1.0,
-        "Strasbourg": 1.0,
-        "Draw": 1.0
-      },
-      "Nordic Bet": {
-        "Paris FC": 1.01,
-        "Strasbourg": 180.0,
-        "Draw": 15.0
-      }
-    },
-    "0938f7c1fbd40f3b489a255ebf58d741:h2h": {
-      "Betsson": {
-        "Sampdoria": 1.05,
-        "US Catanzaro 1929": 80.0,
-        "Draw": 9.0
-      },
-      "Nordic Bet": {
-        "Sampdoria": 1.05,
-        "US Catanzaro 1929": 55.0,
-        "Draw": 7.7
-      },
-      "Betclic (FR)": {
-        "Sampdoria": 1.07,
-        "US Catanzaro 1929": 35.0,
-        "Draw": 6.5
-      },
-      "Winamax (DE)": {
-        "Sampdoria": 1.03,
-        "US Catanzaro 1929": 150.0,
-        "Draw": 11.5
-      },
-      "Winamax (FR)": {
-        "Sampdoria": 1.07,
-        "US Catanzaro 1929": 100.0,
-        "Draw": 9.0
-      },
+    "d6abec8a7b45d5934db47b29d7a977ff:h2h": {
       "Tipico": {
-        "Sampdoria": 1.03,
-        "US Catanzaro 1929": 90.0,
-        "Draw": 8.5
+        "Dynamo Dresden": 400.0,
+        "Hertha Berlin": 1.01,
+        "Draw": 25.0
       },
-      "Coolbet": {
-        "Sampdoria": 1.04,
-        "US Catanzaro 1929": 80.0,
-        "Draw": 10.1
-      },
-      "888sport": {
-        "Sampdoria": 1.05,
-        "US Catanzaro 1929": 101.0,
+      "Betsson": {
+        "Dynamo Dresden": 100.0,
+        "Hertha Berlin": 1.03,
         "Draw": 11.0
       },
-      "Betfair": {
-        "Sampdoria": 1.16,
-        "US Catanzaro 1929": 250.0,
-        "Draw": 6.0
-      }
-    },
-    "e97da04f24f9e8aed1c053ff50a0a3e9:h2h": {
-      "LeoVegas (SE)": {
-        "Cracovia Kraków": 5.4,
-        "GKS Katowice": 4.1,
-        "Draw": 1.35
+      "Nordic Bet": {
+        "Dynamo Dresden": 100.0,
+        "Hertha Berlin": 1.03,
+        "Draw": 11.0
       },
-      "Unibet (SE)": {
-        "Cracovia Kraków": 5.8,
-        "GKS Katowice": 4.7,
-        "Draw": 1.38
-      },
-      "Betsson": {
-        "Cracovia Kraków": 5.8,
-        "GKS Katowice": 4.4,
-        "Draw": 1.39
-      },
-      "PMU (FR)": {
-        "Cracovia Kraków": 5.4,
-        "GKS Katowice": 4.3,
-        "Draw": 1.27
-      },
-      "Unibet (NL)": {
-        "Cracovia Kraków": 5.8,
-        "GKS Katowice": 4.7,
-        "Draw": 1.38
+      "Betclic (FR)": {
+        "Dynamo Dresden": 55.0,
+        "Hertha Berlin": 1.0,
+        "Draw": 9.5
       },
       "Coolbet": {
-        "Cracovia Kraków": 7.0,
-        "GKS Katowice": 5.0,
-        "Draw": 1.36
-      },
-      "Betclic (FR)": {
-        "Cracovia Kraków": 5.6,
-        "GKS Katowice": 3.9,
-        "Draw": 1.4
-      },
-      "Nordic Bet": {
-        "Cracovia Kraków": 5.8,
-        "GKS Katowice": 4.4,
-        "Draw": 1.39
-      },
-      "Winamax (DE)": {
-        "Cracovia Kraków": 5.8,
-        "GKS Katowice": 4.4,
-        "Draw": 1.42
+        "Dynamo Dresden": 400.0,
+        "Hertha Berlin": 1.04,
+        "Draw": 13.0
       },
       "Winamax (FR)": {
-        "Cracovia Kraków": 6.0,
-        "GKS Katowice": 4.4,
-        "Draw": 1.37
+        "Dynamo Dresden": 160.0,
+        "Hertha Berlin": 1.05,
+        "Draw": 12.5
+      },
+      "Winamax (DE)": {
+        "Dynamo Dresden": 120.0,
+        "Hertha Berlin": 1.04,
+        "Draw": 12.5
+      },
+      "Suprabets": {
+        "Dynamo Dresden": 81.0,
+        "Hertha Berlin": 1.08,
+        "Draw": 6.6
+      },
+      "Betfair": {
+        "Dynamo Dresden": 1000.0,
+        "Hertha Berlin": 1.01,
+        "Draw": 12.0
       },
       "Pinnacle": {
-        "Cracovia Kraków": 5.37,
-        "GKS Katowice": 3.84,
-        "Draw": 1.61
+        "Dynamo Dresden": 5.39,
+        "Hertha Berlin": 3.98,
+        "Draw": 1.62
       },
       "888sport": {
-        "Cracovia Kraków": 6.5,
-        "GKS Katowice": 4.8,
-        "Draw": 1.36
-      },
-      "Tipico": {
-        "Cracovia Kraków": 7.0,
-        "GKS Katowice": 4.7,
-        "Draw": 1.35
-      },
-      "Betfair": {
-        "Cracovia Kraków": 6.6,
-        "GKS Katowice": 4.8,
-        "Draw": 1.54
-      },
-      "Matchbook": {
-        "Cracovia Kraków": 7.4,
-        "GKS Katowice": 5.3,
-        "Draw": 1.43
+        "Dynamo Dresden": 126.0,
+        "Hertha Berlin": 1.04,
+        "Draw": 12.0
       }
     },
-    "cac70e8660ea7318defc55bc35d94c71:h2h": {
+    "5c7ef7a053385d1ba3098a7cf79beaf4:h2h": {
       "Betclic (FR)": {
-        "IK Sirius": 1.0,
-        "Örgryte IS": 100.0,
+        "Anderlecht": 1.0,
+        "SV Zulte-Waregem": 100.0,
         "Draw": 40.0
       },
-      "Winamax (FR)": {
-        "IK Sirius": 1.01,
-        "Örgryte IS": 200.0,
-        "Draw": 34.0
-      },
-      "Winamax (DE)": {
-        "IK Sirius": 1.01,
-        "Örgryte IS": 200.0,
-        "Draw": 34.0
+      "Betsson": {
+        "Anderlecht": 1.0,
+        "SV Zulte-Waregem": 34.0,
+        "Draw": 23.0
       },
       "Nordic Bet": {
-        "IK Sirius": 1.0,
-        "Örgryte IS": 46.0,
-        "Draw": 19.0
+        "Anderlecht": 1.0,
+        "SV Zulte-Waregem": 34.0,
+        "Draw": 23.0
+      }
+    },
+    "d75761ac1879910b55bf4670bacc5f42:h2h": {
+      "Winamax (FR)": {
+        "Angers": 1.01,
+        "Troyes": 400.0,
+        "Draw": 42.0
       },
-      "Betsson": {
-        "IK Sirius": 1.0,
-        "Örgryte IS": 46.0,
-        "Draw": 19.0
+      "Winamax (DE)": {
+        "Angers": 1.01,
+        "Troyes": 450.0,
+        "Draw": 40.0
       },
-      "Betfair": {
-        "IK Sirius": 1.01,
-        "Örgryte IS": 60.0,
-        "Draw": 50.0
+      "Betclic (FR)": {
+        "Angers": 1.0,
+        "Troyes": 100.0,
+        "Draw": 40.0
       },
       "888sport": {
-        "IK Sirius": 1.0,
-        "Örgryte IS": 151.0,
-        "Draw": 66.0
+        "Angers": 1.0,
+        "Troyes": 151.0,
+        "Draw": 61.0
+      },
+      "Betfair": {
+        "Angers": 1.01,
+        "Troyes": 1.3,
+        "Draw": 2.1
+      },
+      "Betsson": {
+        "Angers": 1.0,
+        "Troyes": 67.0,
+        "Draw": 21.0
+      },
+      "Nordic Bet": {
+        "Angers": 1.0,
+        "Troyes": 67.0,
+        "Draw": 21.0
+      }
+    },
+    "c3dc7c96928db735db0864dbf9d8e94f:h2h": {
+      "LeoVegas (SE)": {
+        "KV Mechelen": 12.0,
+        "Lommel SK": 16.0,
+        "Draw": 1.02
+      },
+      "Unibet (NL)": {
+        "KV Mechelen": 23.0,
+        "Lommel SK": 21.0,
+        "Draw": 1.01
+      },
+      "PMU (FR)": {
+        "KV Mechelen": 8.0,
+        "Lommel SK": 12.0,
+        "Draw": 1.05
+      },
+      "Unibet (SE)": {
+        "KV Mechelen": 17.0,
+        "Lommel SK": 21.0,
+        "Draw": 1.04
+      },
+      "Betclic (FR)": {
+        "KV Mechelen": 9.75,
+        "Lommel SK": 13.0,
+        "Draw": 1.04
+      },
+      "Pinnacle": {
+        "KV Mechelen": 4.31,
+        "Lommel SK": 6.69,
+        "Draw": 1.48
+      },
+      "Coolbet": {
+        "KV Mechelen": 14.0,
+        "Lommel SK": 20.0,
+        "Draw": 1.08
+      },
+      "Suprabets": {
+        "KV Mechelen": 5.6,
+        "Lommel SK": 10.0,
+        "Draw": 1.23
+      },
+      "Betsson": {
+        "KV Mechelen": 11.5,
+        "Lommel SK": 16.0,
+        "Draw": 1.05
+      },
+      "Nordic Bet": {
+        "KV Mechelen": 12.5,
+        "Lommel SK": 17.5,
+        "Draw": 1.04
+      },
+      "Winamax (FR)": {
+        "KV Mechelen": 14.0,
+        "Lommel SK": 22.0,
+        "Draw": 1.07
+      },
+      "Winamax (DE)": {
+        "KV Mechelen": 14.0,
+        "Lommel SK": 21.0,
+        "Draw": 1.04
+      },
+      "Betfair": {
+        "KV Mechelen": 5.2,
+        "Lommel SK": 8.2,
+        "Draw": 1.07
+      },
+      "888sport": {
+        "KV Mechelen": 13.0,
+        "Lommel SK": 19.0,
+        "Draw": 1.06
+      },
+      "Tipico": {
+        "KV Mechelen": 10.0,
+        "Lommel SK": 22.0,
+        "Draw": 1.06
       }
     }
   },
@@ -2994,25 +2974,825 @@
       "confidence": 29,
       "alert_type": "value",
       "alerted_at": "2026-09-19T17:13:49.432786+00:00"
+    },
+    {
+      "state_key": "d6abec8a7b45d5934db47b29d7a977ff:h2h",
+      "event_id": "d6abec8a7b45d5934db47b29d7a977ff",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "Dynamo Dresden",
+      "away_team": "Hertha Berlin",
+      "commence_time": "2026-09-19T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Dynamo Dresden",
+      "odds_at_alert": 400.0,
+      "stake_pct": 5.0,
+      "confidence": 6940,
+      "alert_type": "value",
+      "alerted_at": "2026-09-19T20:33:39.941926+00:00"
+    },
+    {
+      "state_key": "d6abec8a7b45d5934db47b29d7a977ff:h2h",
+      "event_id": "d6abec8a7b45d5934db47b29d7a977ff",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "Dynamo Dresden",
+      "away_team": "Hertha Berlin",
+      "commence_time": "2026-09-19T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 25.0,
+      "stake_pct": 5.0,
+      "confidence": 1364,
+      "alert_type": "value",
+      "alerted_at": "2026-09-19T20:33:40.279342+00:00"
+    },
+    {
+      "state_key": "d6abec8a7b45d5934db47b29d7a977ff:h2h",
+      "event_id": "d6abec8a7b45d5934db47b29d7a977ff",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "Dynamo Dresden",
+      "away_team": "Hertha Berlin",
+      "commence_time": "2026-09-19T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Dynamo Dresden",
+      "odds_at_alert": 100.0,
+      "stake_pct": 5.0,
+      "confidence": 1660,
+      "alert_type": "value",
+      "alerted_at": "2026-09-19T20:33:40.605350+00:00"
+    },
+    {
+      "state_key": "d6abec8a7b45d5934db47b29d7a977ff:h2h",
+      "event_id": "d6abec8a7b45d5934db47b29d7a977ff",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "Dynamo Dresden",
+      "away_team": "Hertha Berlin",
+      "commence_time": "2026-09-19T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 544,
+      "alert_type": "value",
+      "alerted_at": "2026-09-19T20:33:40.942984+00:00"
+    },
+    {
+      "state_key": "d6abec8a7b45d5934db47b29d7a977ff:h2h",
+      "event_id": "d6abec8a7b45d5934db47b29d7a977ff",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "Dynamo Dresden",
+      "away_team": "Hertha Berlin",
+      "commence_time": "2026-09-19T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Dynamo Dresden",
+      "odds_at_alert": 100.0,
+      "stake_pct": 5.0,
+      "confidence": 1660,
+      "alert_type": "value",
+      "alerted_at": "2026-09-19T20:33:41.277048+00:00"
+    },
+    {
+      "state_key": "d6abec8a7b45d5934db47b29d7a977ff:h2h",
+      "event_id": "d6abec8a7b45d5934db47b29d7a977ff",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "Dynamo Dresden",
+      "away_team": "Hertha Berlin",
+      "commence_time": "2026-09-19T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 544,
+      "alert_type": "value",
+      "alerted_at": "2026-09-19T20:33:41.643788+00:00"
+    },
+    {
+      "state_key": "d6abec8a7b45d5934db47b29d7a977ff:h2h",
+      "event_id": "d6abec8a7b45d5934db47b29d7a977ff",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "Dynamo Dresden",
+      "away_team": "Hertha Berlin",
+      "commence_time": "2026-09-19T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Dynamo Dresden",
+      "odds_at_alert": 55.0,
+      "stake_pct": 5.0,
+      "confidence": 868,
+      "alert_type": "value",
+      "alerted_at": "2026-09-19T20:33:41.976576+00:00"
+    },
+    {
+      "state_key": "d6abec8a7b45d5934db47b29d7a977ff:h2h",
+      "event_id": "d6abec8a7b45d5934db47b29d7a977ff",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "Dynamo Dresden",
+      "away_team": "Hertha Berlin",
+      "commence_time": "2026-09-19T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 9.5,
+      "stake_pct": 5.0,
+      "confidence": 456,
+      "alert_type": "value",
+      "alerted_at": "2026-09-19T20:33:42.301310+00:00"
+    },
+    {
+      "state_key": "d6abec8a7b45d5934db47b29d7a977ff:h2h",
+      "event_id": "d6abec8a7b45d5934db47b29d7a977ff",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "Dynamo Dresden",
+      "away_team": "Hertha Berlin",
+      "commence_time": "2026-09-19T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Dynamo Dresden",
+      "odds_at_alert": 400.0,
+      "stake_pct": 5.0,
+      "confidence": 6940,
+      "alert_type": "value",
+      "alerted_at": "2026-09-19T20:33:42.634842+00:00"
+    },
+    {
+      "state_key": "d6abec8a7b45d5934db47b29d7a977ff:h2h",
+      "event_id": "d6abec8a7b45d5934db47b29d7a977ff",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "Dynamo Dresden",
+      "away_team": "Hertha Berlin",
+      "commence_time": "2026-09-19T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 661,
+      "alert_type": "value",
+      "alerted_at": "2026-09-19T20:33:42.966177+00:00"
+    },
+    {
+      "state_key": "d6abec8a7b45d5934db47b29d7a977ff:h2h",
+      "event_id": "d6abec8a7b45d5934db47b29d7a977ff",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "Dynamo Dresden",
+      "away_team": "Hertha Berlin",
+      "commence_time": "2026-09-19T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Dynamo Dresden",
+      "odds_at_alert": 160.0,
+      "stake_pct": 5.0,
+      "confidence": 2716,
+      "alert_type": "value",
+      "alerted_at": "2026-09-19T20:33:43.312072+00:00"
+    },
+    {
+      "state_key": "d6abec8a7b45d5934db47b29d7a977ff:h2h",
+      "event_id": "d6abec8a7b45d5934db47b29d7a977ff",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "Dynamo Dresden",
+      "away_team": "Hertha Berlin",
+      "commence_time": "2026-09-19T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 12.5,
+      "stake_pct": 5.0,
+      "confidence": 632,
+      "alert_type": "value",
+      "alerted_at": "2026-09-19T20:33:43.636518+00:00"
+    },
+    {
+      "state_key": "d6abec8a7b45d5934db47b29d7a977ff:h2h",
+      "event_id": "d6abec8a7b45d5934db47b29d7a977ff",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "Dynamo Dresden",
+      "away_team": "Hertha Berlin",
+      "commence_time": "2026-09-19T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Dynamo Dresden",
+      "odds_at_alert": 120.0,
+      "stake_pct": 5.0,
+      "confidence": 2012,
+      "alert_type": "value",
+      "alerted_at": "2026-09-19T20:33:44.001755+00:00"
+    },
+    {
+      "state_key": "d6abec8a7b45d5934db47b29d7a977ff:h2h",
+      "event_id": "d6abec8a7b45d5934db47b29d7a977ff",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "Dynamo Dresden",
+      "away_team": "Hertha Berlin",
+      "commence_time": "2026-09-19T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 12.5,
+      "stake_pct": 5.0,
+      "confidence": 632,
+      "alert_type": "value",
+      "alerted_at": "2026-09-19T20:33:44.326638+00:00"
+    },
+    {
+      "state_key": "d6abec8a7b45d5934db47b29d7a977ff:h2h",
+      "event_id": "d6abec8a7b45d5934db47b29d7a977ff",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "Dynamo Dresden",
+      "away_team": "Hertha Berlin",
+      "commence_time": "2026-09-19T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Dynamo Dresden",
+      "odds_at_alert": 81.0,
+      "stake_pct": 5.0,
+      "confidence": 1326,
+      "alert_type": "value",
+      "alerted_at": "2026-09-19T20:33:44.665959+00:00"
+    },
+    {
+      "state_key": "d6abec8a7b45d5934db47b29d7a977ff:h2h",
+      "event_id": "d6abec8a7b45d5934db47b29d7a977ff",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "Dynamo Dresden",
+      "away_team": "Hertha Berlin",
+      "commence_time": "2026-09-19T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.6,
+      "stake_pct": 5.0,
+      "confidence": 287,
+      "alert_type": "value",
+      "alerted_at": "2026-09-19T20:33:44.985810+00:00"
+    },
+    {
+      "state_key": "d6abec8a7b45d5934db47b29d7a977ff:h2h",
+      "event_id": "d6abec8a7b45d5934db47b29d7a977ff",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "Dynamo Dresden",
+      "away_team": "Hertha Berlin",
+      "commence_time": "2026-09-19T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Dynamo Dresden",
+      "odds_at_alert": 1000.0,
+      "stake_pct": 5.0,
+      "confidence": 17501,
+      "alert_type": "value",
+      "alerted_at": "2026-09-19T20:33:45.319684+00:00"
+    },
+    {
+      "state_key": "d6abec8a7b45d5934db47b29d7a977ff:h2h",
+      "event_id": "d6abec8a7b45d5934db47b29d7a977ff",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "Dynamo Dresden",
+      "away_team": "Hertha Berlin",
+      "commence_time": "2026-09-19T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 603,
+      "alert_type": "value",
+      "alerted_at": "2026-09-19T20:33:45.651860+00:00"
+    },
+    {
+      "state_key": "d6abec8a7b45d5934db47b29d7a977ff:h2h",
+      "event_id": "d6abec8a7b45d5934db47b29d7a977ff",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "Dynamo Dresden",
+      "away_team": "Hertha Berlin",
+      "commence_time": "2026-09-19T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Dynamo Dresden",
+      "odds_at_alert": 126.0,
+      "stake_pct": 5.0,
+      "confidence": 2118,
+      "alert_type": "value",
+      "alerted_at": "2026-09-19T20:33:45.972557+00:00"
+    },
+    {
+      "state_key": "d6abec8a7b45d5934db47b29d7a977ff:h2h",
+      "event_id": "d6abec8a7b45d5934db47b29d7a977ff",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "Dynamo Dresden",
+      "away_team": "Hertha Berlin",
+      "commence_time": "2026-09-19T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 603,
+      "alert_type": "value",
+      "alerted_at": "2026-09-19T20:33:46.306121+00:00"
+    },
+    {
+      "state_key": "c3dc7c96928db735db0864dbf9d8e94f:h2h",
+      "event_id": "c3dc7c96928db735db0864dbf9d8e94f",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "Lommel SK",
+      "away_team": "KV Mechelen",
+      "commence_time": "2026-09-19T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "KV Mechelen",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 163,
+      "alert_type": "value",
+      "alerted_at": "2026-09-19T20:33:46.643903+00:00"
+    },
+    {
+      "state_key": "c3dc7c96928db735db0864dbf9d8e94f:h2h",
+      "event_id": "c3dc7c96928db735db0864dbf9d8e94f",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "Lommel SK",
+      "away_team": "KV Mechelen",
+      "commence_time": "2026-09-19T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Lommel SK",
+      "odds_at_alert": 16.0,
+      "stake_pct": 5.0,
+      "confidence": 126,
+      "alert_type": "value",
+      "alerted_at": "2026-09-19T20:33:46.968039+00:00"
+    },
+    {
+      "state_key": "c3dc7c96928db735db0864dbf9d8e94f:h2h",
+      "event_id": "c3dc7c96928db735db0864dbf9d8e94f",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "Lommel SK",
+      "away_team": "KV Mechelen",
+      "commence_time": "2026-09-19T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "KV Mechelen",
+      "odds_at_alert": 23.0,
+      "stake_pct": 5.0,
+      "confidence": 405,
+      "alert_type": "value",
+      "alerted_at": "2026-09-19T20:33:47.303979+00:00"
+    },
+    {
+      "state_key": "c3dc7c96928db735db0864dbf9d8e94f:h2h",
+      "event_id": "c3dc7c96928db735db0864dbf9d8e94f",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "Lommel SK",
+      "away_team": "KV Mechelen",
+      "commence_time": "2026-09-19T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Lommel SK",
+      "odds_at_alert": 21.0,
+      "stake_pct": 5.0,
+      "confidence": 197,
+      "alert_type": "value",
+      "alerted_at": "2026-09-19T20:33:47.622561+00:00"
+    },
+    {
+      "state_key": "c3dc7c96928db735db0864dbf9d8e94f:h2h",
+      "event_id": "c3dc7c96928db735db0864dbf9d8e94f",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "Lommel SK",
+      "away_team": "KV Mechelen",
+      "commence_time": "2026-09-19T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "KV Mechelen",
+      "odds_at_alert": 8.0,
+      "stake_pct": 5.0,
+      "confidence": 76,
+      "alert_type": "value",
+      "alerted_at": "2026-09-19T20:33:47.956729+00:00"
+    },
+    {
+      "state_key": "c3dc7c96928db735db0864dbf9d8e94f:h2h",
+      "event_id": "c3dc7c96928db735db0864dbf9d8e94f",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "Lommel SK",
+      "away_team": "KV Mechelen",
+      "commence_time": "2026-09-19T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Lommel SK",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 70,
+      "alert_type": "value",
+      "alerted_at": "2026-09-19T20:33:48.305771+00:00"
+    },
+    {
+      "state_key": "c3dc7c96928db735db0864dbf9d8e94f:h2h",
+      "event_id": "c3dc7c96928db735db0864dbf9d8e94f",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "Lommel SK",
+      "away_team": "KV Mechelen",
+      "commence_time": "2026-09-19T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "KV Mechelen",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 273,
+      "alert_type": "value",
+      "alerted_at": "2026-09-19T20:33:48.680543+00:00"
+    },
+    {
+      "state_key": "c3dc7c96928db735db0864dbf9d8e94f:h2h",
+      "event_id": "c3dc7c96928db735db0864dbf9d8e94f",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "Lommel SK",
+      "away_team": "KV Mechelen",
+      "commence_time": "2026-09-19T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Lommel SK",
+      "odds_at_alert": 21.0,
+      "stake_pct": 5.0,
+      "confidence": 197,
+      "alert_type": "value",
+      "alerted_at": "2026-09-19T20:33:49.012268+00:00"
+    },
+    {
+      "state_key": "c3dc7c96928db735db0864dbf9d8e94f:h2h",
+      "event_id": "c3dc7c96928db735db0864dbf9d8e94f",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "Lommel SK",
+      "away_team": "KV Mechelen",
+      "commence_time": "2026-09-19T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "KV Mechelen",
+      "odds_at_alert": 9.75,
+      "stake_pct": 5.0,
+      "confidence": 114,
+      "alert_type": "value",
+      "alerted_at": "2026-09-19T20:33:49.351253+00:00"
+    },
+    {
+      "state_key": "c3dc7c96928db735db0864dbf9d8e94f:h2h",
+      "event_id": "c3dc7c96928db735db0864dbf9d8e94f",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "Lommel SK",
+      "away_team": "KV Mechelen",
+      "commence_time": "2026-09-19T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Lommel SK",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 84,
+      "alert_type": "value",
+      "alerted_at": "2026-09-19T20:33:49.701375+00:00"
+    },
+    {
+      "state_key": "c3dc7c96928db735db0864dbf9d8e94f:h2h",
+      "event_id": "c3dc7c96928db735db0864dbf9d8e94f",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "Lommel SK",
+      "away_team": "KV Mechelen",
+      "commence_time": "2026-09-19T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "KV Mechelen",
+      "odds_at_alert": 14.0,
+      "stake_pct": 5.0,
+      "confidence": 207,
+      "alert_type": "value",
+      "alerted_at": "2026-09-19T20:33:50.079640+00:00"
+    },
+    {
+      "state_key": "c3dc7c96928db735db0864dbf9d8e94f:h2h",
+      "event_id": "c3dc7c96928db735db0864dbf9d8e94f",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "Lommel SK",
+      "away_team": "KV Mechelen",
+      "commence_time": "2026-09-19T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Lommel SK",
+      "odds_at_alert": 20.0,
+      "stake_pct": 5.0,
+      "confidence": 183,
+      "alert_type": "value",
+      "alerted_at": "2026-09-19T20:33:50.416671+00:00"
+    },
+    {
+      "state_key": "c3dc7c96928db735db0864dbf9d8e94f:h2h",
+      "event_id": "c3dc7c96928db735db0864dbf9d8e94f",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "Lommel SK",
+      "away_team": "KV Mechelen",
+      "commence_time": "2026-09-19T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "KV Mechelen",
+      "odds_at_alert": 5.6,
+      "stake_pct": 5.0,
+      "confidence": 23,
+      "alert_type": "value",
+      "alerted_at": "2026-09-19T20:33:50.742189+00:00"
+    },
+    {
+      "state_key": "c3dc7c96928db735db0864dbf9d8e94f:h2h",
+      "event_id": "c3dc7c96928db735db0864dbf9d8e94f",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "Lommel SK",
+      "away_team": "KV Mechelen",
+      "commence_time": "2026-09-19T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Lommel SK",
+      "odds_at_alert": 10.0,
+      "stake_pct": 5.0,
+      "confidence": 41,
+      "alert_type": "value",
+      "alerted_at": "2026-09-19T20:33:51.086718+00:00"
+    },
+    {
+      "state_key": "c3dc7c96928db735db0864dbf9d8e94f:h2h",
+      "event_id": "c3dc7c96928db735db0864dbf9d8e94f",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "Lommel SK",
+      "away_team": "KV Mechelen",
+      "commence_time": "2026-09-19T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "KV Mechelen",
+      "odds_at_alert": 11.5,
+      "stake_pct": 5.0,
+      "confidence": 152,
+      "alert_type": "value",
+      "alerted_at": "2026-09-19T20:33:51.404431+00:00"
+    },
+    {
+      "state_key": "c3dc7c96928db735db0864dbf9d8e94f:h2h",
+      "event_id": "c3dc7c96928db735db0864dbf9d8e94f",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "Lommel SK",
+      "away_team": "KV Mechelen",
+      "commence_time": "2026-09-19T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Lommel SK",
+      "odds_at_alert": 16.0,
+      "stake_pct": 5.0,
+      "confidence": 126,
+      "alert_type": "value",
+      "alerted_at": "2026-09-19T20:33:51.763737+00:00"
+    },
+    {
+      "state_key": "c3dc7c96928db735db0864dbf9d8e94f:h2h",
+      "event_id": "c3dc7c96928db735db0864dbf9d8e94f",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "Lommel SK",
+      "away_team": "KV Mechelen",
+      "commence_time": "2026-09-19T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "KV Mechelen",
+      "odds_at_alert": 12.5,
+      "stake_pct": 5.0,
+      "confidence": 174,
+      "alert_type": "value",
+      "alerted_at": "2026-09-19T20:33:52.114133+00:00"
+    },
+    {
+      "state_key": "c3dc7c96928db735db0864dbf9d8e94f:h2h",
+      "event_id": "c3dc7c96928db735db0864dbf9d8e94f",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "Lommel SK",
+      "away_team": "KV Mechelen",
+      "commence_time": "2026-09-19T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Lommel SK",
+      "odds_at_alert": 17.5,
+      "stake_pct": 5.0,
+      "confidence": 147,
+      "alert_type": "value",
+      "alerted_at": "2026-09-19T20:33:52.485372+00:00"
+    },
+    {
+      "state_key": "c3dc7c96928db735db0864dbf9d8e94f:h2h",
+      "event_id": "c3dc7c96928db735db0864dbf9d8e94f",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "Lommel SK",
+      "away_team": "KV Mechelen",
+      "commence_time": "2026-09-19T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "KV Mechelen",
+      "odds_at_alert": 14.0,
+      "stake_pct": 5.0,
+      "confidence": 207,
+      "alert_type": "value",
+      "alerted_at": "2026-09-19T20:33:52.857535+00:00"
+    },
+    {
+      "state_key": "c3dc7c96928db735db0864dbf9d8e94f:h2h",
+      "event_id": "c3dc7c96928db735db0864dbf9d8e94f",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "Lommel SK",
+      "away_team": "KV Mechelen",
+      "commence_time": "2026-09-19T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Lommel SK",
+      "odds_at_alert": 22.0,
+      "stake_pct": 5.0,
+      "confidence": 211,
+      "alert_type": "value",
+      "alerted_at": "2026-09-19T20:33:53.189544+00:00"
+    },
+    {
+      "state_key": "c3dc7c96928db735db0864dbf9d8e94f:h2h",
+      "event_id": "c3dc7c96928db735db0864dbf9d8e94f",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "Lommel SK",
+      "away_team": "KV Mechelen",
+      "commence_time": "2026-09-19T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "KV Mechelen",
+      "odds_at_alert": 14.0,
+      "stake_pct": 5.0,
+      "confidence": 207,
+      "alert_type": "value",
+      "alerted_at": "2026-09-19T20:33:53.532961+00:00"
+    },
+    {
+      "state_key": "c3dc7c96928db735db0864dbf9d8e94f:h2h",
+      "event_id": "c3dc7c96928db735db0864dbf9d8e94f",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "Lommel SK",
+      "away_team": "KV Mechelen",
+      "commence_time": "2026-09-19T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Lommel SK",
+      "odds_at_alert": 21.0,
+      "stake_pct": 5.0,
+      "confidence": 197,
+      "alert_type": "value",
+      "alerted_at": "2026-09-19T20:33:53.858420+00:00"
+    },
+    {
+      "state_key": "c3dc7c96928db735db0864dbf9d8e94f:h2h",
+      "event_id": "c3dc7c96928db735db0864dbf9d8e94f",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "Lommel SK",
+      "away_team": "KV Mechelen",
+      "commence_time": "2026-09-19T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "KV Mechelen",
+      "odds_at_alert": 5.2,
+      "stake_pct": 3.0,
+      "confidence": 14,
+      "alert_type": "value",
+      "alerted_at": "2026-09-19T20:33:54.335074+00:00"
+    },
+    {
+      "state_key": "c3dc7c96928db735db0864dbf9d8e94f:h2h",
+      "event_id": "c3dc7c96928db735db0864dbf9d8e94f",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "Lommel SK",
+      "away_team": "KV Mechelen",
+      "commence_time": "2026-09-19T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Lommel SK",
+      "odds_at_alert": 8.2,
+      "stake_pct": 5.0,
+      "confidence": 16,
+      "alert_type": "value",
+      "alerted_at": "2026-09-19T20:33:54.699285+00:00"
+    },
+    {
+      "state_key": "c3dc7c96928db735db0864dbf9d8e94f:h2h",
+      "event_id": "c3dc7c96928db735db0864dbf9d8e94f",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "Lommel SK",
+      "away_team": "KV Mechelen",
+      "commence_time": "2026-09-19T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "KV Mechelen",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 185,
+      "alert_type": "value",
+      "alerted_at": "2026-09-19T20:33:55.039813+00:00"
+    },
+    {
+      "state_key": "c3dc7c96928db735db0864dbf9d8e94f:h2h",
+      "event_id": "c3dc7c96928db735db0864dbf9d8e94f",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "Lommel SK",
+      "away_team": "KV Mechelen",
+      "commence_time": "2026-09-19T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Lommel SK",
+      "odds_at_alert": 19.0,
+      "stake_pct": 5.0,
+      "confidence": 169,
+      "alert_type": "value",
+      "alerted_at": "2026-09-19T20:33:55.433351+00:00"
+    },
+    {
+      "state_key": "c3dc7c96928db735db0864dbf9d8e94f:h2h",
+      "event_id": "c3dc7c96928db735db0864dbf9d8e94f",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "Lommel SK",
+      "away_team": "KV Mechelen",
+      "commence_time": "2026-09-19T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "KV Mechelen",
+      "odds_at_alert": 10.0,
+      "stake_pct": 5.0,
+      "confidence": 119,
+      "alert_type": "value",
+      "alerted_at": "2026-09-19T20:33:55.856294+00:00"
+    },
+    {
+      "state_key": "c3dc7c96928db735db0864dbf9d8e94f:h2h",
+      "event_id": "c3dc7c96928db735db0864dbf9d8e94f",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "Lommel SK",
+      "away_team": "KV Mechelen",
+      "commence_time": "2026-09-19T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Lommel SK",
+      "odds_at_alert": 22.0,
+      "stake_pct": 5.0,
+      "confidence": 211,
+      "alert_type": "value",
+      "alerted_at": "2026-09-19T20:33:56.293804+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "e97da04f24f9e8aed1c053ff50a0a3e9:h2h|888sport|Cracovia Kraków",
-    "e97da04f24f9e8aed1c053ff50a0a3e9:h2h|888sport|GKS Katowice",
-    "e97da04f24f9e8aed1c053ff50a0a3e9:h2h|Betfair|Cracovia Kraków",
-    "e97da04f24f9e8aed1c053ff50a0a3e9:h2h|Betfair|GKS Katowice",
-    "e97da04f24f9e8aed1c053ff50a0a3e9:h2h|Betsson|GKS Katowice",
-    "e97da04f24f9e8aed1c053ff50a0a3e9:h2h|Coolbet|Cracovia Kraków",
-    "e97da04f24f9e8aed1c053ff50a0a3e9:h2h|Coolbet|GKS Katowice",
-    "e97da04f24f9e8aed1c053ff50a0a3e9:h2h|Matchbook|Cracovia Kraków",
-    "e97da04f24f9e8aed1c053ff50a0a3e9:h2h|Matchbook|GKS Katowice",
-    "e97da04f24f9e8aed1c053ff50a0a3e9:h2h|Nordic Bet|GKS Katowice",
-    "e97da04f24f9e8aed1c053ff50a0a3e9:h2h|Tipico|Cracovia Kraków",
-    "e97da04f24f9e8aed1c053ff50a0a3e9:h2h|Tipico|GKS Katowice",
-    "e97da04f24f9e8aed1c053ff50a0a3e9:h2h|Unibet (NL)|GKS Katowice",
-    "e97da04f24f9e8aed1c053ff50a0a3e9:h2h|Unibet (SE)|GKS Katowice",
-    "e97da04f24f9e8aed1c053ff50a0a3e9:h2h|Winamax (DE)|GKS Katowice",
-    "e97da04f24f9e8aed1c053ff50a0a3e9:h2h|Winamax (FR)|GKS Katowice"
+    "c3dc7c96928db735db0864dbf9d8e94f:h2h|888sport|KV Mechelen",
+    "c3dc7c96928db735db0864dbf9d8e94f:h2h|888sport|Lommel SK",
+    "c3dc7c96928db735db0864dbf9d8e94f:h2h|Betclic (FR)|KV Mechelen",
+    "c3dc7c96928db735db0864dbf9d8e94f:h2h|Betclic (FR)|Lommel SK",
+    "c3dc7c96928db735db0864dbf9d8e94f:h2h|Betfair|KV Mechelen",
+    "c3dc7c96928db735db0864dbf9d8e94f:h2h|Betfair|Lommel SK",
+    "c3dc7c96928db735db0864dbf9d8e94f:h2h|Betsson|KV Mechelen",
+    "c3dc7c96928db735db0864dbf9d8e94f:h2h|Betsson|Lommel SK",
+    "c3dc7c96928db735db0864dbf9d8e94f:h2h|Coolbet|KV Mechelen",
+    "c3dc7c96928db735db0864dbf9d8e94f:h2h|Coolbet|Lommel SK",
+    "c3dc7c96928db735db0864dbf9d8e94f:h2h|LeoVegas (SE)|KV Mechelen",
+    "c3dc7c96928db735db0864dbf9d8e94f:h2h|LeoVegas (SE)|Lommel SK",
+    "c3dc7c96928db735db0864dbf9d8e94f:h2h|Nordic Bet|KV Mechelen",
+    "c3dc7c96928db735db0864dbf9d8e94f:h2h|Nordic Bet|Lommel SK",
+    "c3dc7c96928db735db0864dbf9d8e94f:h2h|PMU (FR)|KV Mechelen",
+    "c3dc7c96928db735db0864dbf9d8e94f:h2h|PMU (FR)|Lommel SK",
+    "c3dc7c96928db735db0864dbf9d8e94f:h2h|Suprabets|KV Mechelen",
+    "c3dc7c96928db735db0864dbf9d8e94f:h2h|Suprabets|Lommel SK",
+    "c3dc7c96928db735db0864dbf9d8e94f:h2h|Tipico|KV Mechelen",
+    "c3dc7c96928db735db0864dbf9d8e94f:h2h|Tipico|Lommel SK",
+    "c3dc7c96928db735db0864dbf9d8e94f:h2h|Unibet (NL)|KV Mechelen",
+    "c3dc7c96928db735db0864dbf9d8e94f:h2h|Unibet (NL)|Lommel SK",
+    "c3dc7c96928db735db0864dbf9d8e94f:h2h|Unibet (SE)|KV Mechelen",
+    "c3dc7c96928db735db0864dbf9d8e94f:h2h|Unibet (SE)|Lommel SK",
+    "c3dc7c96928db735db0864dbf9d8e94f:h2h|Winamax (DE)|KV Mechelen",
+    "c3dc7c96928db735db0864dbf9d8e94f:h2h|Winamax (DE)|Lommel SK",
+    "c3dc7c96928db735db0864dbf9d8e94f:h2h|Winamax (FR)|KV Mechelen",
+    "c3dc7c96928db735db0864dbf9d8e94f:h2h|Winamax (FR)|Lommel SK",
+    "d6abec8a7b45d5934db47b29d7a977ff:h2h|888sport|Draw",
+    "d6abec8a7b45d5934db47b29d7a977ff:h2h|888sport|Dynamo Dresden",
+    "d6abec8a7b45d5934db47b29d7a977ff:h2h|Betclic (FR)|Draw",
+    "d6abec8a7b45d5934db47b29d7a977ff:h2h|Betclic (FR)|Dynamo Dresden",
+    "d6abec8a7b45d5934db47b29d7a977ff:h2h|Betfair|Draw",
+    "d6abec8a7b45d5934db47b29d7a977ff:h2h|Betfair|Dynamo Dresden",
+    "d6abec8a7b45d5934db47b29d7a977ff:h2h|Betsson|Draw",
+    "d6abec8a7b45d5934db47b29d7a977ff:h2h|Betsson|Dynamo Dresden",
+    "d6abec8a7b45d5934db47b29d7a977ff:h2h|Coolbet|Draw",
+    "d6abec8a7b45d5934db47b29d7a977ff:h2h|Coolbet|Dynamo Dresden",
+    "d6abec8a7b45d5934db47b29d7a977ff:h2h|Nordic Bet|Draw",
+    "d6abec8a7b45d5934db47b29d7a977ff:h2h|Nordic Bet|Dynamo Dresden",
+    "d6abec8a7b45d5934db47b29d7a977ff:h2h|Suprabets|Draw",
+    "d6abec8a7b45d5934db47b29d7a977ff:h2h|Suprabets|Dynamo Dresden",
+    "d6abec8a7b45d5934db47b29d7a977ff:h2h|Tipico|Draw",
+    "d6abec8a7b45d5934db47b29d7a977ff:h2h|Tipico|Dynamo Dresden",
+    "d6abec8a7b45d5934db47b29d7a977ff:h2h|Winamax (DE)|Draw",
+    "d6abec8a7b45d5934db47b29d7a977ff:h2h|Winamax (DE)|Dynamo Dresden",
+    "d6abec8a7b45d5934db47b29d7a977ff:h2h|Winamax (FR)|Draw",
+    "d6abec8a7b45d5934db47b29d7a977ff:h2h|Winamax (FR)|Dynamo Dresden"
   ]
 }
