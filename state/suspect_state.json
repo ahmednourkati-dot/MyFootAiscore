@@ -1,286 +1,211 @@
 {
   "snapshots": {
-    "115656726a519a1c96400366943a6f84:h2h": {
-      "Betclic (FR)": {
-        "Mito HollyHock": 100.0,
-        "Yokohama F Marinos": 1.0,
-        "Draw": 75.0
-      },
-      "Betsson": {
-        "Mito HollyHock": 51.0,
-        "Yokohama F Marinos": 1.0,
-        "Draw": 51.0
-      },
-      "Nordic Bet": {
-        "Mito HollyHock": 51.0,
-        "Yokohama F Marinos": 1.0,
-        "Draw": 51.0
-      },
+    "e04c820e4c4bb4d937ded3effa583e96:h2h": {
       "Winamax (DE)": {
-        "Mito HollyHock": 28.0,
-        "Yokohama F Marinos": 1.17,
-        "Draw": 5.0
-      },
-      "Winamax (FR)": {
-        "Mito HollyHock": 40.0,
-        "Yokohama F Marinos": 1.16,
-        "Draw": 5.3
+        "Paris FC": 1.03,
+        "Strasbourg": 450.0,
+        "Draw": 17.0
       },
       "888sport": {
-        "Mito HollyHock": 151.0,
-        "Yokohama F Marinos": 1.0,
-        "Draw": 51.0
+        "Paris FC": 1.0,
+        "Strasbourg": 151.0,
+        "Draw": 61.0
+      },
+      "Coolbet": {
+        "Paris FC": 1.02,
+        "Strasbourg": 500.0,
+        "Draw": 18.0
+      },
+      "Winamax (FR)": {
+        "Paris FC": 1.02,
+        "Strasbourg": 900.0,
+        "Draw": 21.0
+      },
+      "Betclic (FR)": {
+        "Paris FC": 1.0,
+        "Strasbourg": 100.0,
+        "Draw": 20.0
       },
       "Betfair": {
-        "Mito HollyHock": 50.0,
-        "Yokohama F Marinos": 1.01,
+        "Paris FC": 1.04,
+        "Strasbourg": 1000.0,
+        "Draw": 20.0
+      },
+      "Unibet (NL)": {
+        "Paris FC": 1.02,
+        "Strasbourg": 251.0,
+        "Draw": 16.0
+      },
+      "Betsson": {
+        "Paris FC": 1.0,
+        "Strasbourg": 1.0,
+        "Draw": 1.0
+      },
+      "Nordic Bet": {
+        "Paris FC": 1.01,
+        "Strasbourg": 180.0,
+        "Draw": 15.0
+      }
+    },
+    "0938f7c1fbd40f3b489a255ebf58d741:h2h": {
+      "Betsson": {
+        "Sampdoria": 1.05,
+        "US Catanzaro 1929": 80.0,
+        "Draw": 9.0
+      },
+      "Nordic Bet": {
+        "Sampdoria": 1.05,
+        "US Catanzaro 1929": 55.0,
+        "Draw": 7.7
+      },
+      "Betclic (FR)": {
+        "Sampdoria": 1.07,
+        "US Catanzaro 1929": 35.0,
+        "Draw": 6.5
+      },
+      "Winamax (DE)": {
+        "Sampdoria": 1.03,
+        "US Catanzaro 1929": 150.0,
+        "Draw": 11.5
+      },
+      "Winamax (FR)": {
+        "Sampdoria": 1.07,
+        "US Catanzaro 1929": 100.0,
+        "Draw": 9.0
+      },
+      "Tipico": {
+        "Sampdoria": 1.03,
+        "US Catanzaro 1929": 90.0,
+        "Draw": 8.5
+      },
+      "Coolbet": {
+        "Sampdoria": 1.04,
+        "US Catanzaro 1929": 80.0,
+        "Draw": 10.1
+      },
+      "888sport": {
+        "Sampdoria": 1.05,
+        "US Catanzaro 1929": 101.0,
+        "Draw": 11.0
+      },
+      "Betfair": {
+        "Sampdoria": 1.16,
+        "US Catanzaro 1929": 250.0,
+        "Draw": 6.0
+      }
+    },
+    "e97da04f24f9e8aed1c053ff50a0a3e9:h2h": {
+      "LeoVegas (SE)": {
+        "Cracovia Kraków": 5.4,
+        "GKS Katowice": 4.1,
+        "Draw": 1.35
+      },
+      "Unibet (SE)": {
+        "Cracovia Kraków": 5.8,
+        "GKS Katowice": 4.7,
+        "Draw": 1.38
+      },
+      "Betsson": {
+        "Cracovia Kraków": 5.8,
+        "GKS Katowice": 4.4,
+        "Draw": 1.39
+      },
+      "PMU (FR)": {
+        "Cracovia Kraków": 5.4,
+        "GKS Katowice": 4.3,
+        "Draw": 1.27
+      },
+      "Unibet (NL)": {
+        "Cracovia Kraków": 5.8,
+        "GKS Katowice": 4.7,
+        "Draw": 1.38
+      },
+      "Coolbet": {
+        "Cracovia Kraków": 7.0,
+        "GKS Katowice": 5.0,
+        "Draw": 1.36
+      },
+      "Betclic (FR)": {
+        "Cracovia Kraków": 5.6,
+        "GKS Katowice": 3.9,
+        "Draw": 1.4
+      },
+      "Nordic Bet": {
+        "Cracovia Kraków": 5.8,
+        "GKS Katowice": 4.4,
+        "Draw": 1.39
+      },
+      "Winamax (DE)": {
+        "Cracovia Kraków": 5.8,
+        "GKS Katowice": 4.4,
+        "Draw": 1.42
+      },
+      "Winamax (FR)": {
+        "Cracovia Kraków": 6.0,
+        "GKS Katowice": 4.4,
+        "Draw": 1.37
+      },
+      "Pinnacle": {
+        "Cracovia Kraków": 5.37,
+        "GKS Katowice": 3.84,
+        "Draw": 1.61
+      },
+      "888sport": {
+        "Cracovia Kraków": 6.5,
+        "GKS Katowice": 4.8,
+        "Draw": 1.36
+      },
+      "Tipico": {
+        "Cracovia Kraków": 7.0,
+        "GKS Katowice": 4.7,
+        "Draw": 1.35
+      },
+      "Betfair": {
+        "Cracovia Kraków": 6.6,
+        "GKS Katowice": 4.8,
+        "Draw": 1.54
+      },
+      "Matchbook": {
+        "Cracovia Kraków": 7.4,
+        "GKS Katowice": 5.3,
+        "Draw": 1.43
+      }
+    },
+    "cac70e8660ea7318defc55bc35d94c71:h2h": {
+      "Betclic (FR)": {
+        "IK Sirius": 1.0,
+        "Örgryte IS": 100.0,
+        "Draw": 40.0
+      },
+      "Winamax (FR)": {
+        "IK Sirius": 1.01,
+        "Örgryte IS": 200.0,
+        "Draw": 34.0
+      },
+      "Winamax (DE)": {
+        "IK Sirius": 1.01,
+        "Örgryte IS": 200.0,
+        "Draw": 34.0
+      },
+      "Nordic Bet": {
+        "IK Sirius": 1.0,
+        "Örgryte IS": 46.0,
+        "Draw": 19.0
+      },
+      "Betsson": {
+        "IK Sirius": 1.0,
+        "Örgryte IS": 46.0,
+        "Draw": 19.0
+      },
+      "Betfair": {
+        "IK Sirius": 1.01,
+        "Örgryte IS": 60.0,
         "Draw": 50.0
-      }
-    },
-    "00dd319259d0bbb6eaada7cb84284346:h2h": {
-      "LeoVegas (SE)": {
-        "1. FC Kaiserslautern": 2.55,
-        "Eintracht Braunschweig": 4.1,
-        "Draw": 1.88
-      },
-      "Tipico": {
-        "1. FC Kaiserslautern": 2.6,
-        "Eintracht Braunschweig": 5.0,
-        "Draw": 2.0
-      },
-      "PMU (FR)": {
-        "1. FC Kaiserslautern": 2.45,
-        "Eintracht Braunschweig": 4.0,
-        "Draw": 1.82
-      },
-      "Unibet (SE)": {
-        "1. FC Kaiserslautern": 2.7,
-        "Eintracht Braunschweig": 4.3,
-        "Draw": 2.0
-      },
-      "Unibet (NL)": {
-        "1. FC Kaiserslautern": 2.7,
-        "Eintracht Braunschweig": 4.3,
-        "Draw": 2.0
-      },
-      "Winamax (FR)": {
-        "1. FC Kaiserslautern": 2.55,
-        "Eintracht Braunschweig": 4.3,
-        "Draw": 1.92
-      },
-      "Nordic Bet": {
-        "1. FC Kaiserslautern": 2.65,
-        "Eintracht Braunschweig": 4.6,
-        "Draw": 1.95
-      },
-      "Winamax (DE)": {
-        "1. FC Kaiserslautern": 2.6,
-        "Eintracht Braunschweig": 4.5,
-        "Draw": 2.0
-      },
-      "Betsson": {
-        "1. FC Kaiserslautern": 2.35,
-        "Eintracht Braunschweig": 4.85,
-        "Draw": 2.15
-      },
-      "Betclic (FR)": {
-        "1. FC Kaiserslautern": 2.47,
-        "Eintracht Braunschweig": 4.3,
-        "Draw": 1.98
-      },
-      "Pinnacle": {
-        "1. FC Kaiserslautern": 2.37,
-        "Eintracht Braunschweig": 4.96,
-        "Draw": 2.31
-      },
-      "Coolbet": {
-        "1. FC Kaiserslautern": 2.8,
-        "Eintracht Braunschweig": 5.0,
-        "Draw": 2.1
-      },
-      "Suprabets": {
-        "1. FC Kaiserslautern": 2.45,
-        "Eintracht Braunschweig": 4.7,
-        "Draw": 2.13
-      },
-      "Betfair": {
-        "1. FC Kaiserslautern": 2.76,
-        "Eintracht Braunschweig": 5.5,
-        "Draw": 2.16
       },
       "888sport": {
-        "1. FC Kaiserslautern": 2.5,
-        "Eintracht Braunschweig": 4.6,
-        "Draw": 2.0
-      },
-      "Matchbook": {
-        "1. FC Kaiserslautern": 2.78,
-        "Eintracht Braunschweig": 5.5,
-        "Draw": 2.1
-      }
-    },
-    "870b3eb1032c91e5a4920920ae94038d:h2h": {
-      "LeoVegas (SE)": {
-        "1. FC Nürnberg": 1.2,
-        "Karlsruher SC": 12.5,
-        "Draw": 3.9
-      },
-      "Unibet (NL)": {
-        "1. FC Nürnberg": 1.28,
-        "Karlsruher SC": 12.5,
-        "Draw": 4.1
-      },
-      "Unibet (SE)": {
-        "1. FC Nürnberg": 1.27,
-        "Karlsruher SC": 12.5,
-        "Draw": 4.25
-      },
-      "Tipico": {
-        "1. FC Nürnberg": 1.25,
-        "Karlsruher SC": 13.0,
-        "Draw": 4.7
-      },
-      "PMU (FR)": {
-        "1. FC Nürnberg": 1.16,
-        "Karlsruher SC": 12.0,
-        "Draw": 3.95
-      },
-      "Nordic Bet": {
-        "1. FC Nürnberg": 1.23,
-        "Karlsruher SC": 16.0,
-        "Draw": 4.6
-      },
-      "Betsson": {
-        "1. FC Nürnberg": 1.23,
-        "Karlsruher SC": 14.0,
-        "Draw": 4.6
-      },
-      "Betclic (FR)": {
-        "1. FC Nürnberg": 1.17,
-        "Karlsruher SC": 14.0,
-        "Draw": 4.25
-      },
-      "Coolbet": {
-        "1. FC Nürnberg": 1.25,
-        "Karlsruher SC": 20.0,
-        "Draw": 5.0
-      },
-      "Suprabets": {
-        "1. FC Nürnberg": 1.23,
-        "Karlsruher SC": 15.0,
-        "Draw": 4.55
-      },
-      "Betfair": {
-        "1. FC Nürnberg": 1.3,
-        "Karlsruher SC": 21.0,
-        "Draw": 5.1
-      },
-      "Winamax (FR)": {
-        "1. FC Nürnberg": 1.26,
-        "Karlsruher SC": 13.5,
-        "Draw": 4.4
-      },
-      "Winamax (DE)": {
-        "1. FC Nürnberg": 1.26,
-        "Karlsruher SC": 13.5,
-        "Draw": 4.5
-      },
-      "Pinnacle": {
-        "1. FC Nürnberg": 1.3,
-        "Karlsruher SC": 14.0,
-        "Draw": 4.73
-      },
-      "888sport": {
-        "1. FC Nürnberg": 1.25,
-        "Karlsruher SC": 15.0,
-        "Draw": 4.6
-      },
-      "Matchbook": {
-        "1. FC Nürnberg": 1.31,
-        "Karlsruher SC": 21.0,
-        "Draw": 5.1
-      }
-    },
-    "f1ab48c9882843b40b7cb4622f392f7c:h2h": {
-      "Unibet (NL)": {
-        "Holstein Kiel": 1.2,
-        "VfL Osnabrück": 16.0,
-        "Draw": 4.9
-      },
-      "Tipico": {
-        "Holstein Kiel": 1.18,
-        "VfL Osnabrück": 20.0,
-        "Draw": 5.2
-      },
-      "PMU (FR)": {
-        "Holstein Kiel": 1.09,
-        "VfL Osnabrück": 17.0,
-        "Draw": 4.5
-      },
-      "LeoVegas (SE)": {
-        "Holstein Kiel": 1.13,
-        "VfL Osnabrück": 16.0,
-        "Draw": 4.7
-      },
-      "Unibet (SE)": {
-        "Holstein Kiel": 1.2,
-        "VfL Osnabrück": 17.0,
-        "Draw": 4.9
-      },
-      "Nordic Bet": {
-        "Holstein Kiel": 1.2,
-        "VfL Osnabrück": 17.5,
-        "Draw": 4.85
-      },
-      "Betclic (FR)": {
-        "Holstein Kiel": 1.18,
-        "VfL Osnabrück": 14.25,
-        "Draw": 4.35
-      },
-      "Betsson": {
-        "Holstein Kiel": 1.2,
-        "VfL Osnabrück": 17.5,
-        "Draw": 4.85
-      },
-      "Coolbet": {
-        "Holstein Kiel": 1.25,
-        "VfL Osnabrück": 22.0,
-        "Draw": 5.0
-      },
-      "Suprabets": {
-        "Holstein Kiel": 1.2,
-        "VfL Osnabrück": 17.0,
-        "Draw": 4.8
-      },
-      "Betfair": {
-        "Holstein Kiel": 1.27,
-        "VfL Osnabrück": 23.0,
-        "Draw": 5.6
-      },
-      "Winamax (FR)": {
-        "Holstein Kiel": 1.23,
-        "VfL Osnabrück": 16.0,
-        "Draw": 4.5
-      },
-      "Winamax (DE)": {
-        "Holstein Kiel": 1.24,
-        "VfL Osnabrück": 16.0,
-        "Draw": 4.5
-      },
-      "888sport": {
-        "Holstein Kiel": 1.22,
-        "VfL Osnabrück": 15.0,
-        "Draw": 4.6
-      },
-      "Pinnacle": {
-        "Holstein Kiel": 1.29,
-        "VfL Osnabrück": 16.18,
-        "Draw": 4.72
-      },
-      "Matchbook": {
-        "Holstein Kiel": 1.25,
-        "VfL Osnabrück": 26.0,
-        "Draw": 5.6
+        "IK Sirius": 1.0,
+        "Örgryte IS": 151.0,
+        "Draw": 66.0
       }
     }
   },
@@ -2813,26 +2738,281 @@
       "confidence": 13,
       "alert_type": "value",
       "alerted_at": "2026-09-19T12:27:44.102902+00:00"
+    },
+    {
+      "state_key": "e97da04f24f9e8aed1c053ff50a0a3e9:h2h",
+      "event_id": "e97da04f24f9e8aed1c053ff50a0a3e9",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "GKS Katowice",
+      "away_team": "Cracovia Kraków",
+      "commence_time": "2026-09-19T15:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "GKS Katowice",
+      "odds_at_alert": 4.7,
+      "stake_pct": 3.0,
+      "confidence": 15,
+      "alert_type": "value",
+      "alerted_at": "2026-09-19T17:13:41.381063+00:00"
+    },
+    {
+      "state_key": "e97da04f24f9e8aed1c053ff50a0a3e9:h2h",
+      "event_id": "e97da04f24f9e8aed1c053ff50a0a3e9",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "GKS Katowice",
+      "away_team": "Cracovia Kraków",
+      "commence_time": "2026-09-19T15:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "GKS Katowice",
+      "odds_at_alert": 4.4,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-09-19T17:13:41.905019+00:00"
+    },
+    {
+      "state_key": "e97da04f24f9e8aed1c053ff50a0a3e9:h2h",
+      "event_id": "e97da04f24f9e8aed1c053ff50a0a3e9",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "GKS Katowice",
+      "away_team": "Cracovia Kraków",
+      "commence_time": "2026-09-19T15:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "GKS Katowice",
+      "odds_at_alert": 4.7,
+      "stake_pct": 3.0,
+      "confidence": 15,
+      "alert_type": "value",
+      "alerted_at": "2026-09-19T17:13:42.398380+00:00"
+    },
+    {
+      "state_key": "e97da04f24f9e8aed1c053ff50a0a3e9:h2h",
+      "event_id": "e97da04f24f9e8aed1c053ff50a0a3e9",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "GKS Katowice",
+      "away_team": "Cracovia Kraków",
+      "commence_time": "2026-09-19T15:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cracovia Kraków",
+      "odds_at_alert": 7.0,
+      "stake_pct": 5.0,
+      "confidence": 22,
+      "alert_type": "value",
+      "alerted_at": "2026-09-19T17:13:43.007017+00:00"
+    },
+    {
+      "state_key": "e97da04f24f9e8aed1c053ff50a0a3e9:h2h",
+      "event_id": "e97da04f24f9e8aed1c053ff50a0a3e9",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "GKS Katowice",
+      "away_team": "Cracovia Kraków",
+      "commence_time": "2026-09-19T15:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "GKS Katowice",
+      "odds_at_alert": 5.0,
+      "stake_pct": 5.0,
+      "confidence": 22,
+      "alert_type": "value",
+      "alerted_at": "2026-09-19T17:13:43.545902+00:00"
+    },
+    {
+      "state_key": "e97da04f24f9e8aed1c053ff50a0a3e9:h2h",
+      "event_id": "e97da04f24f9e8aed1c053ff50a0a3e9",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "GKS Katowice",
+      "away_team": "Cracovia Kraków",
+      "commence_time": "2026-09-19T15:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "GKS Katowice",
+      "odds_at_alert": 4.4,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-09-19T17:13:44.069679+00:00"
+    },
+    {
+      "state_key": "e97da04f24f9e8aed1c053ff50a0a3e9:h2h",
+      "event_id": "e97da04f24f9e8aed1c053ff50a0a3e9",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "GKS Katowice",
+      "away_team": "Cracovia Kraków",
+      "commence_time": "2026-09-19T15:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "GKS Katowice",
+      "odds_at_alert": 4.4,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-09-19T17:13:44.637538+00:00"
+    },
+    {
+      "state_key": "e97da04f24f9e8aed1c053ff50a0a3e9:h2h",
+      "event_id": "e97da04f24f9e8aed1c053ff50a0a3e9",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "GKS Katowice",
+      "away_team": "Cracovia Kraków",
+      "commence_time": "2026-09-19T15:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "GKS Katowice",
+      "odds_at_alert": 4.4,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-09-19T17:13:45.276783+00:00"
+    },
+    {
+      "state_key": "e97da04f24f9e8aed1c053ff50a0a3e9:h2h",
+      "event_id": "e97da04f24f9e8aed1c053ff50a0a3e9",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "GKS Katowice",
+      "away_team": "Cracovia Kraków",
+      "commence_time": "2026-09-19T15:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cracovia Kraków",
+      "odds_at_alert": 6.5,
+      "stake_pct": 3.0,
+      "confidence": 13,
+      "alert_type": "value",
+      "alerted_at": "2026-09-19T17:13:45.841438+00:00"
+    },
+    {
+      "state_key": "e97da04f24f9e8aed1c053ff50a0a3e9:h2h",
+      "event_id": "e97da04f24f9e8aed1c053ff50a0a3e9",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "GKS Katowice",
+      "away_team": "Cracovia Kraków",
+      "commence_time": "2026-09-19T15:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "GKS Katowice",
+      "odds_at_alert": 4.8,
+      "stake_pct": 5.0,
+      "confidence": 17,
+      "alert_type": "value",
+      "alerted_at": "2026-09-19T17:13:46.335259+00:00"
+    },
+    {
+      "state_key": "e97da04f24f9e8aed1c053ff50a0a3e9:h2h",
+      "event_id": "e97da04f24f9e8aed1c053ff50a0a3e9",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "GKS Katowice",
+      "away_team": "Cracovia Kraków",
+      "commence_time": "2026-09-19T15:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cracovia Kraków",
+      "odds_at_alert": 7.0,
+      "stake_pct": 5.0,
+      "confidence": 22,
+      "alert_type": "value",
+      "alerted_at": "2026-09-19T17:13:46.852949+00:00"
+    },
+    {
+      "state_key": "e97da04f24f9e8aed1c053ff50a0a3e9:h2h",
+      "event_id": "e97da04f24f9e8aed1c053ff50a0a3e9",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "GKS Katowice",
+      "away_team": "Cracovia Kraków",
+      "commence_time": "2026-09-19T15:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "GKS Katowice",
+      "odds_at_alert": 4.7,
+      "stake_pct": 3.0,
+      "confidence": 15,
+      "alert_type": "value",
+      "alerted_at": "2026-09-19T17:13:47.352084+00:00"
+    },
+    {
+      "state_key": "e97da04f24f9e8aed1c053ff50a0a3e9:h2h",
+      "event_id": "e97da04f24f9e8aed1c053ff50a0a3e9",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "GKS Katowice",
+      "away_team": "Cracovia Kraków",
+      "commence_time": "2026-09-19T15:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cracovia Kraków",
+      "odds_at_alert": 6.6,
+      "stake_pct": 5.0,
+      "confidence": 15,
+      "alert_type": "value",
+      "alerted_at": "2026-09-19T17:13:47.893318+00:00"
+    },
+    {
+      "state_key": "e97da04f24f9e8aed1c053ff50a0a3e9:h2h",
+      "event_id": "e97da04f24f9e8aed1c053ff50a0a3e9",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "GKS Katowice",
+      "away_team": "Cracovia Kraków",
+      "commence_time": "2026-09-19T15:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "GKS Katowice",
+      "odds_at_alert": 4.8,
+      "stake_pct": 5.0,
+      "confidence": 17,
+      "alert_type": "value",
+      "alerted_at": "2026-09-19T17:13:48.403534+00:00"
+    },
+    {
+      "state_key": "e97da04f24f9e8aed1c053ff50a0a3e9:h2h",
+      "event_id": "e97da04f24f9e8aed1c053ff50a0a3e9",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "GKS Katowice",
+      "away_team": "Cracovia Kraków",
+      "commence_time": "2026-09-19T15:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cracovia Kraków",
+      "odds_at_alert": 7.4,
+      "stake_pct": 5.0,
+      "confidence": 29,
+      "alert_type": "value",
+      "alerted_at": "2026-09-19T17:13:48.920517+00:00"
+    },
+    {
+      "state_key": "e97da04f24f9e8aed1c053ff50a0a3e9:h2h",
+      "event_id": "e97da04f24f9e8aed1c053ff50a0a3e9",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "GKS Katowice",
+      "away_team": "Cracovia Kraków",
+      "commence_time": "2026-09-19T15:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "GKS Katowice",
+      "odds_at_alert": 5.3,
+      "stake_pct": 5.0,
+      "confidence": 29,
+      "alert_type": "value",
+      "alerted_at": "2026-09-19T17:13:49.432786+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "00dd319259d0bbb6eaada7cb84284346:h2h|Betfair|1. FC Kaiserslautern",
-    "00dd319259d0bbb6eaada7cb84284346:h2h|Coolbet|1. FC Kaiserslautern",
-    "00dd319259d0bbb6eaada7cb84284346:h2h|Matchbook|1. FC Kaiserslautern",
-    "00dd319259d0bbb6eaada7cb84284346:h2h|Nordic Bet|1. FC Kaiserslautern",
-    "00dd319259d0bbb6eaada7cb84284346:h2h|Unibet (NL)|1. FC Kaiserslautern",
-    "00dd319259d0bbb6eaada7cb84284346:h2h|Unibet (SE)|1. FC Kaiserslautern",
-    "870b3eb1032c91e5a4920920ae94038d:h2h|Betfair|Karlsruher SC",
-    "870b3eb1032c91e5a4920920ae94038d:h2h|Coolbet|Karlsruher SC",
-    "870b3eb1032c91e5a4920920ae94038d:h2h|Matchbook|Karlsruher SC",
-    "870b3eb1032c91e5a4920920ae94038d:h2h|Nordic Bet|Karlsruher SC",
-    "f1ab48c9882843b40b7cb4622f392f7c:h2h|Betfair|Draw",
-    "f1ab48c9882843b40b7cb4622f392f7c:h2h|Betfair|VfL Osnabrück",
-    "f1ab48c9882843b40b7cb4622f392f7c:h2h|Coolbet|VfL Osnabrück",
-    "f1ab48c9882843b40b7cb4622f392f7c:h2h|Matchbook|Draw",
-    "f1ab48c9882843b40b7cb4622f392f7c:h2h|Matchbook|VfL Osnabrück",
-    "f1ab48c9882843b40b7cb4622f392f7c:h2h|Tipico|Draw",
-    "f1ab48c9882843b40b7cb4622f392f7c:h2h|Tipico|VfL Osnabrück"
+    "e97da04f24f9e8aed1c053ff50a0a3e9:h2h|888sport|Cracovia Kraków",
+    "e97da04f24f9e8aed1c053ff50a0a3e9:h2h|888sport|GKS Katowice",
+    "e97da04f24f9e8aed1c053ff50a0a3e9:h2h|Betfair|Cracovia Kraków",
+    "e97da04f24f9e8aed1c053ff50a0a3e9:h2h|Betfair|GKS Katowice",
+    "e97da04f24f9e8aed1c053ff50a0a3e9:h2h|Betsson|GKS Katowice",
+    "e97da04f24f9e8aed1c053ff50a0a3e9:h2h|Coolbet|Cracovia Kraków",
+    "e97da04f24f9e8aed1c053ff50a0a3e9:h2h|Coolbet|GKS Katowice",
+    "e97da04f24f9e8aed1c053ff50a0a3e9:h2h|Matchbook|Cracovia Kraków",
+    "e97da04f24f9e8aed1c053ff50a0a3e9:h2h|Matchbook|GKS Katowice",
+    "e97da04f24f9e8aed1c053ff50a0a3e9:h2h|Nordic Bet|GKS Katowice",
+    "e97da04f24f9e8aed1c053ff50a0a3e9:h2h|Tipico|Cracovia Kraków",
+    "e97da04f24f9e8aed1c053ff50a0a3e9:h2h|Tipico|GKS Katowice",
+    "e97da04f24f9e8aed1c053ff50a0a3e9:h2h|Unibet (NL)|GKS Katowice",
+    "e97da04f24f9e8aed1c053ff50a0a3e9:h2h|Unibet (SE)|GKS Katowice",
+    "e97da04f24f9e8aed1c053ff50a0a3e9:h2h|Winamax (DE)|GKS Katowice",
+    "e97da04f24f9e8aed1c053ff50a0a3e9:h2h|Winamax (FR)|GKS Katowice"
   ]
 }
