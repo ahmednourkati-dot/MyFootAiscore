@@ -1,191 +1,261 @@
 {
   "snapshots": {
-    "d6abec8a7b45d5934db47b29d7a977ff:h2h": {
-      "Tipico": {
-        "Dynamo Dresden": 400.0,
-        "Hertha Berlin": 1.01,
-        "Draw": 25.0
-      },
-      "Betsson": {
-        "Dynamo Dresden": 100.0,
-        "Hertha Berlin": 1.03,
-        "Draw": 11.0
-      },
-      "Nordic Bet": {
-        "Dynamo Dresden": 100.0,
-        "Hertha Berlin": 1.03,
-        "Draw": 11.0
-      },
-      "Betclic (FR)": {
-        "Dynamo Dresden": 55.0,
-        "Hertha Berlin": 1.0,
-        "Draw": 9.5
-      },
-      "Coolbet": {
-        "Dynamo Dresden": 400.0,
-        "Hertha Berlin": 1.04,
-        "Draw": 13.0
-      },
-      "Winamax (FR)": {
-        "Dynamo Dresden": 160.0,
-        "Hertha Berlin": 1.05,
-        "Draw": 12.5
-      },
-      "Winamax (DE)": {
-        "Dynamo Dresden": 120.0,
-        "Hertha Berlin": 1.04,
-        "Draw": 12.5
-      },
-      "Suprabets": {
-        "Dynamo Dresden": 81.0,
-        "Hertha Berlin": 1.08,
-        "Draw": 6.6
-      },
-      "Betfair": {
-        "Dynamo Dresden": 1000.0,
-        "Hertha Berlin": 1.01,
-        "Draw": 12.0
-      },
-      "Pinnacle": {
-        "Dynamo Dresden": 5.39,
-        "Hertha Berlin": 3.98,
-        "Draw": 1.62
-      },
-      "888sport": {
-        "Dynamo Dresden": 126.0,
-        "Hertha Berlin": 1.04,
-        "Draw": 12.0
-      }
-    },
-    "5c7ef7a053385d1ba3098a7cf79beaf4:h2h": {
-      "Betclic (FR)": {
-        "Anderlecht": 1.0,
-        "SV Zulte-Waregem": 100.0,
-        "Draw": 40.0
-      },
-      "Betsson": {
-        "Anderlecht": 1.0,
-        "SV Zulte-Waregem": 34.0,
-        "Draw": 23.0
-      },
-      "Nordic Bet": {
-        "Anderlecht": 1.0,
-        "SV Zulte-Waregem": 34.0,
-        "Draw": 23.0
-      }
-    },
-    "d75761ac1879910b55bf4670bacc5f42:h2h": {
-      "Winamax (FR)": {
-        "Angers": 1.01,
-        "Troyes": 400.0,
-        "Draw": 42.0
-      },
-      "Winamax (DE)": {
-        "Angers": 1.01,
-        "Troyes": 450.0,
-        "Draw": 40.0
-      },
-      "Betclic (FR)": {
-        "Angers": 1.0,
-        "Troyes": 100.0,
-        "Draw": 40.0
-      },
-      "888sport": {
-        "Angers": 1.0,
-        "Troyes": 151.0,
-        "Draw": 61.0
-      },
-      "Betfair": {
-        "Angers": 1.01,
-        "Troyes": 1.3,
-        "Draw": 2.1
-      },
-      "Betsson": {
-        "Angers": 1.0,
-        "Troyes": 67.0,
-        "Draw": 21.0
-      },
-      "Nordic Bet": {
-        "Angers": 1.0,
-        "Troyes": 67.0,
-        "Draw": 21.0
-      }
-    },
-    "c3dc7c96928db735db0864dbf9d8e94f:h2h": {
+    "b4b8953d5ee5d62e07bb7a23fed5bcda:h2h": {
       "LeoVegas (SE)": {
-        "KV Mechelen": 12.0,
-        "Lommel SK": 16.0,
-        "Draw": 1.02
+        "Atlético Huracán": 1.01,
+        "River Plate": 111.0,
+        "Draw": 12.0
       },
-      "Unibet (NL)": {
-        "KV Mechelen": 23.0,
-        "Lommel SK": 21.0,
-        "Draw": 1.01
+      "Winamax (DE)": {
+        "Atlético Huracán": 1.02,
+        "River Plate": 1000.0,
+        "Draw": 14.5
       },
-      "PMU (FR)": {
-        "KV Mechelen": 8.0,
-        "Lommel SK": 12.0,
-        "Draw": 1.05
+      "Winamax (FR)": {
+        "Atlético Huracán": 1.04,
+        "River Plate": 1000.0,
+        "Draw": 13.5
       },
       "Unibet (SE)": {
-        "KV Mechelen": 17.0,
-        "Lommel SK": 21.0,
-        "Draw": 1.04
+        "Atlético Huracán": 1.02,
+        "River Plate": 251.0,
+        "Draw": 20.0
       },
       "Betclic (FR)": {
-        "KV Mechelen": 9.75,
-        "Lommel SK": 13.0,
-        "Draw": 1.04
+        "Atlético Huracán": 1.03,
+        "River Plate": 70.0,
+        "Draw": 9.0
       },
       "Pinnacle": {
-        "KV Mechelen": 4.31,
-        "Lommel SK": 6.69,
-        "Draw": 1.48
-      },
-      "Coolbet": {
-        "KV Mechelen": 14.0,
-        "Lommel SK": 20.0,
-        "Draw": 1.08
-      },
-      "Suprabets": {
-        "KV Mechelen": 5.6,
-        "Lommel SK": 10.0,
-        "Draw": 1.23
-      },
-      "Betsson": {
-        "KV Mechelen": 11.5,
-        "Lommel SK": 16.0,
-        "Draw": 1.05
-      },
-      "Nordic Bet": {
-        "KV Mechelen": 12.5,
-        "Lommel SK": 17.5,
-        "Draw": 1.04
-      },
-      "Winamax (FR)": {
-        "KV Mechelen": 14.0,
-        "Lommel SK": 22.0,
-        "Draw": 1.07
-      },
-      "Winamax (DE)": {
-        "KV Mechelen": 14.0,
-        "Lommel SK": 21.0,
-        "Draw": 1.04
+        "Atlético Huracán": 12.42,
+        "River Plate": 2.78,
+        "Draw": 1.62
       },
       "Betfair": {
-        "KV Mechelen": 5.2,
-        "Lommel SK": 8.2,
-        "Draw": 1.07
+        "Atlético Huracán": 1.04,
+        "River Plate": 70.0,
+        "Draw": 21.0
+      },
+      "Betsson": {
+        "Atlético Huracán": 1.04,
+        "River Plate": 130.0,
+        "Draw": 9.5
+      },
+      "Nordic Bet": {
+        "Atlético Huracán": 1.02,
+        "River Plate": 200.0,
+        "Draw": 11.0
+      }
+    },
+    "f6d141117f93ad9f1848c6e9fdf18229:h2h": {
+      "Unibet (SE)": {
+        "Atlas": 2.38,
+        "Pumas": 3.85,
+        "Draw": 2.48
+      },
+      "PMU (FR)": {
+        "Atlas": 2.14,
+        "Pumas": 3.45,
+        "Draw": 2.23
+      },
+      "Unibet (NL)": {
+        "Atlas": 2.38,
+        "Pumas": 3.85,
+        "Draw": 2.48
+      },
+      "LeoVegas (SE)": {
+        "Atlas": 2.25,
+        "Pumas": 3.6,
+        "Draw": 2.33
+      },
+      "Betclic (FR)": {
+        "Atlas": 2.4,
+        "Pumas": 3.2,
+        "Draw": 2.45
+      },
+      "Coolbet": {
+        "Atlas": 2.6,
+        "Pumas": 3.6,
+        "Draw": 2.63
+      },
+      "Pinnacle": {
+        "Atlas": 2.49,
+        "Pumas": 3.7,
+        "Draw": 2.58
+      },
+      "Nordic Bet": {
+        "Atlas": 2.45,
+        "Pumas": 3.4,
+        "Draw": 2.5
+      },
+      "Betsson": {
+        "Atlas": 2.45,
+        "Pumas": 3.4,
+        "Draw": 2.5
       },
       "888sport": {
-        "KV Mechelen": 13.0,
-        "Lommel SK": 19.0,
-        "Draw": 1.06
+        "Atlas": 2.3,
+        "Pumas": 3.2,
+        "Draw": 2.45
       },
       "Tipico": {
-        "KV Mechelen": 10.0,
-        "Lommel SK": 22.0,
-        "Draw": 1.06
+        "Atlas": 2.3,
+        "Pumas": 3.8,
+        "Draw": 2.5
+      },
+      "Betfair": {
+        "Atlas": 2.56,
+        "Pumas": 3.95,
+        "Draw": 2.68
+      },
+      "Matchbook": {
+        "Atlas": 2.56,
+        "Pumas": 3.95,
+        "Draw": 2.68
+      }
+    },
+    "7a71d4e383c185db614e5fa7fad6f765:h2h": {
+      "LeoVegas (SE)": {
+        "Atlético San Luis": 2.48,
+        "Necaxa": 3.15,
+        "Draw": 2.33
+      },
+      "Unibet (NL)": {
+        "Atlético San Luis": 2.63,
+        "Necaxa": 3.35,
+        "Draw": 2.48
+      },
+      "PMU (FR)": {
+        "Atlético San Luis": 2.35,
+        "Necaxa": 3.0,
+        "Draw": 2.23
+      },
+      "Unibet (SE)": {
+        "Atlético San Luis": 2.63,
+        "Necaxa": 3.35,
+        "Draw": 2.48
+      },
+      "Betclic (FR)": {
+        "Atlético San Luis": 2.45,
+        "Necaxa": 3.02,
+        "Draw": 2.57
+      },
+      "Betsson": {
+        "Atlético San Luis": 2.55,
+        "Necaxa": 3.2,
+        "Draw": 2.55
+      },
+      "Nordic Bet": {
+        "Atlético San Luis": 2.55,
+        "Necaxa": 3.2,
+        "Draw": 2.55
+      },
+      "888sport": {
+        "Atlético San Luis": 2.5,
+        "Necaxa": 3.0,
+        "Draw": 2.3
+      },
+      "Betfair": {
+        "Atlético San Luis": 2.82,
+        "Necaxa": 3.6,
+        "Draw": 2.64
+      },
+      "Pinnacle": {
+        "Atlético San Luis": 2.75,
+        "Necaxa": 3.43,
+        "Draw": 2.48
+      },
+      "Matchbook": {
+        "Atlético San Luis": 2.86,
+        "Necaxa": 3.6,
+        "Draw": 2.6
+      },
+      "Tipico": {
+        "Atlético San Luis": 2.5,
+        "Necaxa": 3.4,
+        "Draw": 2.5
+      },
+      "Coolbet": {
+        "Atlético San Luis": 2.63,
+        "Necaxa": 3.4,
+        "Draw": 2.75
+      }
+    },
+    "0ae449420feb683e72c921e83616aaf1:h2h": {
+      "Winamax (FR)": {
+        "Coritiba": 23.0,
+        "Vasco da Gama": 1.13,
+        "Draw": 7.0
+      },
+      "Winamax (DE)": {
+        "Coritiba": 23.0,
+        "Vasco da Gama": 1.1,
+        "Draw": 7.5
+      },
+      "MyBookie.ag": {
+        "Coritiba": 21.0,
+        "Vasco da Gama": 1.12,
+        "Draw": 7.0
+      },
+      "Betclic (FR)": {
+        "Coritiba": 15.0,
+        "Vasco da Gama": 1.08,
+        "Draw": 6.4
+      },
+      "Coolbet": {
+        "Coritiba": 28.0,
+        "Vasco da Gama": 1.14,
+        "Draw": 8.0
+      },
+      "888sport": {
+        "Coritiba": 19.0,
+        "Vasco da Gama": 1.12,
+        "Draw": 7.0
+      },
+      "Betsson": {
+        "Coritiba": 19.5,
+        "Vasco da Gama": 1.1,
+        "Draw": 7.2
+      },
+      "Nordic Bet": {
+        "Coritiba": 19.5,
+        "Vasco da Gama": 1.1,
+        "Draw": 7.2
+      },
+      "Unibet (SE)": {
+        "Coritiba": 23.0,
+        "Vasco da Gama": 1.11,
+        "Draw": 8.0
+      },
+      "PMU (FR)": {
+        "Coritiba": 21.0,
+        "Vasco da Gama": 1.03,
+        "Draw": 7.0
+      },
+      "LeoVegas (SE)": {
+        "Coritiba": 21.0,
+        "Vasco da Gama": 1.06,
+        "Draw": 7.5
+      },
+      "Unibet (NL)": {
+        "Coritiba": 21.0,
+        "Vasco da Gama": 1.07,
+        "Draw": 7.5
+      },
+      "Matchbook": {
+        "Coritiba": 30.0,
+        "Vasco da Gama": 1.15,
+        "Draw": 8.8
+      },
+      "Tipico": {
+        "Coritiba": 18.0,
+        "Vasco da Gama": 1.08,
+        "Draw": 8.5
+      },
+      "Betfair": {
+        "Coritiba": 32.0,
+        "Vasco da Gama": 1.15,
+        "Draw": 9.6
       }
     }
   },
@@ -3406,57 +3476,281 @@
       "confidence": 211,
       "alert_type": "value",
       "alerted_at": "2026-09-19T20:33:56.293804+00:00"
+    },
+    {
+      "state_key": "b4b8953d5ee5d62e07bb7a23fed5bcda:h2h",
+      "event_id": "b4b8953d5ee5d62e07bb7a23fed5bcda",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "River Plate",
+      "away_team": "Atlético Huracán",
+      "commence_time": "2026-09-19T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "River Plate",
+      "odds_at_alert": 111.0,
+      "stake_pct": 5.0,
+      "confidence": 3676,
+      "alert_type": "value",
+      "alerted_at": "2026-09-20T00:06:26.500046+00:00"
+    },
+    {
+      "state_key": "b4b8953d5ee5d62e07bb7a23fed5bcda:h2h",
+      "event_id": "b4b8953d5ee5d62e07bb7a23fed5bcda",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "River Plate",
+      "away_team": "Atlético Huracán",
+      "commence_time": "2026-09-19T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 600,
+      "alert_type": "value",
+      "alerted_at": "2026-09-20T00:06:26.850182+00:00"
+    },
+    {
+      "state_key": "b4b8953d5ee5d62e07bb7a23fed5bcda:h2h",
+      "event_id": "b4b8953d5ee5d62e07bb7a23fed5bcda",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "River Plate",
+      "away_team": "Atlético Huracán",
+      "commence_time": "2026-09-19T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "River Plate",
+      "odds_at_alert": 1000.0,
+      "stake_pct": 5.0,
+      "confidence": 33915,
+      "alert_type": "value",
+      "alerted_at": "2026-09-20T00:06:27.197817+00:00"
+    },
+    {
+      "state_key": "b4b8953d5ee5d62e07bb7a23fed5bcda:h2h",
+      "event_id": "b4b8953d5ee5d62e07bb7a23fed5bcda",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "River Plate",
+      "away_team": "Atlético Huracán",
+      "commence_time": "2026-09-19T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 14.5,
+      "stake_pct": 5.0,
+      "confidence": 746,
+      "alert_type": "value",
+      "alerted_at": "2026-09-20T00:06:27.592180+00:00"
+    },
+    {
+      "state_key": "b4b8953d5ee5d62e07bb7a23fed5bcda:h2h",
+      "event_id": "b4b8953d5ee5d62e07bb7a23fed5bcda",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "River Plate",
+      "away_team": "Atlético Huracán",
+      "commence_time": "2026-09-19T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "River Plate",
+      "odds_at_alert": 1000.0,
+      "stake_pct": 5.0,
+      "confidence": 33915,
+      "alert_type": "value",
+      "alerted_at": "2026-09-20T00:06:27.941962+00:00"
+    },
+    {
+      "state_key": "b4b8953d5ee5d62e07bb7a23fed5bcda:h2h",
+      "event_id": "b4b8953d5ee5d62e07bb7a23fed5bcda",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "River Plate",
+      "away_team": "Atlético Huracán",
+      "commence_time": "2026-09-19T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 13.5,
+      "stake_pct": 5.0,
+      "confidence": 688,
+      "alert_type": "value",
+      "alerted_at": "2026-09-20T00:06:28.312657+00:00"
+    },
+    {
+      "state_key": "b4b8953d5ee5d62e07bb7a23fed5bcda:h2h",
+      "event_id": "b4b8953d5ee5d62e07bb7a23fed5bcda",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "River Plate",
+      "away_team": "Atlético Huracán",
+      "commence_time": "2026-09-19T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "River Plate",
+      "odds_at_alert": 251.0,
+      "stake_pct": 5.0,
+      "confidence": 8438,
+      "alert_type": "value",
+      "alerted_at": "2026-09-20T00:06:28.691385+00:00"
+    },
+    {
+      "state_key": "b4b8953d5ee5d62e07bb7a23fed5bcda:h2h",
+      "event_id": "b4b8953d5ee5d62e07bb7a23fed5bcda",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "River Plate",
+      "away_team": "Atlético Huracán",
+      "commence_time": "2026-09-19T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 20.0,
+      "stake_pct": 5.0,
+      "confidence": 1067,
+      "alert_type": "value",
+      "alerted_at": "2026-09-20T00:06:29.147703+00:00"
+    },
+    {
+      "state_key": "b4b8953d5ee5d62e07bb7a23fed5bcda:h2h",
+      "event_id": "b4b8953d5ee5d62e07bb7a23fed5bcda",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "River Plate",
+      "away_team": "Atlético Huracán",
+      "commence_time": "2026-09-19T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "River Plate",
+      "odds_at_alert": 70.0,
+      "stake_pct": 5.0,
+      "confidence": 2281,
+      "alert_type": "value",
+      "alerted_at": "2026-09-20T00:06:29.496977+00:00"
+    },
+    {
+      "state_key": "b4b8953d5ee5d62e07bb7a23fed5bcda:h2h",
+      "event_id": "b4b8953d5ee5d62e07bb7a23fed5bcda",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "River Plate",
+      "away_team": "Atlético Huracán",
+      "commence_time": "2026-09-19T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 9.0,
+      "stake_pct": 5.0,
+      "confidence": 425,
+      "alert_type": "value",
+      "alerted_at": "2026-09-20T00:06:29.849191+00:00"
+    },
+    {
+      "state_key": "b4b8953d5ee5d62e07bb7a23fed5bcda:h2h",
+      "event_id": "b4b8953d5ee5d62e07bb7a23fed5bcda",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "River Plate",
+      "away_team": "Atlético Huracán",
+      "commence_time": "2026-09-19T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "River Plate",
+      "odds_at_alert": 70.0,
+      "stake_pct": 5.0,
+      "confidence": 2281,
+      "alert_type": "value",
+      "alerted_at": "2026-09-20T00:06:30.198832+00:00"
+    },
+    {
+      "state_key": "b4b8953d5ee5d62e07bb7a23fed5bcda:h2h",
+      "event_id": "b4b8953d5ee5d62e07bb7a23fed5bcda",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "River Plate",
+      "away_team": "Atlético Huracán",
+      "commence_time": "2026-09-19T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 21.0,
+      "stake_pct": 5.0,
+      "confidence": 1126,
+      "alert_type": "value",
+      "alerted_at": "2026-09-20T00:06:30.578803+00:00"
+    },
+    {
+      "state_key": "b4b8953d5ee5d62e07bb7a23fed5bcda:h2h",
+      "event_id": "b4b8953d5ee5d62e07bb7a23fed5bcda",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "River Plate",
+      "away_team": "Atlético Huracán",
+      "commence_time": "2026-09-19T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "River Plate",
+      "odds_at_alert": 130.0,
+      "stake_pct": 5.0,
+      "confidence": 4322,
+      "alert_type": "value",
+      "alerted_at": "2026-09-20T00:06:30.916912+00:00"
+    },
+    {
+      "state_key": "b4b8953d5ee5d62e07bb7a23fed5bcda:h2h",
+      "event_id": "b4b8953d5ee5d62e07bb7a23fed5bcda",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "River Plate",
+      "away_team": "Atlético Huracán",
+      "commence_time": "2026-09-19T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 9.5,
+      "stake_pct": 5.0,
+      "confidence": 455,
+      "alert_type": "value",
+      "alerted_at": "2026-09-20T00:06:31.275574+00:00"
+    },
+    {
+      "state_key": "b4b8953d5ee5d62e07bb7a23fed5bcda:h2h",
+      "event_id": "b4b8953d5ee5d62e07bb7a23fed5bcda",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "River Plate",
+      "away_team": "Atlético Huracán",
+      "commence_time": "2026-09-19T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "River Plate",
+      "odds_at_alert": 200.0,
+      "stake_pct": 5.0,
+      "confidence": 6703,
+      "alert_type": "value",
+      "alerted_at": "2026-09-20T00:06:31.637508+00:00"
+    },
+    {
+      "state_key": "b4b8953d5ee5d62e07bb7a23fed5bcda:h2h",
+      "event_id": "b4b8953d5ee5d62e07bb7a23fed5bcda",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "River Plate",
+      "away_team": "Atlético Huracán",
+      "commence_time": "2026-09-19T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 542,
+      "alert_type": "value",
+      "alerted_at": "2026-09-20T00:06:31.999294+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "c3dc7c96928db735db0864dbf9d8e94f:h2h|888sport|KV Mechelen",
-    "c3dc7c96928db735db0864dbf9d8e94f:h2h|888sport|Lommel SK",
-    "c3dc7c96928db735db0864dbf9d8e94f:h2h|Betclic (FR)|KV Mechelen",
-    "c3dc7c96928db735db0864dbf9d8e94f:h2h|Betclic (FR)|Lommel SK",
-    "c3dc7c96928db735db0864dbf9d8e94f:h2h|Betfair|KV Mechelen",
-    "c3dc7c96928db735db0864dbf9d8e94f:h2h|Betfair|Lommel SK",
-    "c3dc7c96928db735db0864dbf9d8e94f:h2h|Betsson|KV Mechelen",
-    "c3dc7c96928db735db0864dbf9d8e94f:h2h|Betsson|Lommel SK",
-    "c3dc7c96928db735db0864dbf9d8e94f:h2h|Coolbet|KV Mechelen",
-    "c3dc7c96928db735db0864dbf9d8e94f:h2h|Coolbet|Lommel SK",
-    "c3dc7c96928db735db0864dbf9d8e94f:h2h|LeoVegas (SE)|KV Mechelen",
-    "c3dc7c96928db735db0864dbf9d8e94f:h2h|LeoVegas (SE)|Lommel SK",
-    "c3dc7c96928db735db0864dbf9d8e94f:h2h|Nordic Bet|KV Mechelen",
-    "c3dc7c96928db735db0864dbf9d8e94f:h2h|Nordic Bet|Lommel SK",
-    "c3dc7c96928db735db0864dbf9d8e94f:h2h|PMU (FR)|KV Mechelen",
-    "c3dc7c96928db735db0864dbf9d8e94f:h2h|PMU (FR)|Lommel SK",
-    "c3dc7c96928db735db0864dbf9d8e94f:h2h|Suprabets|KV Mechelen",
-    "c3dc7c96928db735db0864dbf9d8e94f:h2h|Suprabets|Lommel SK",
-    "c3dc7c96928db735db0864dbf9d8e94f:h2h|Tipico|KV Mechelen",
-    "c3dc7c96928db735db0864dbf9d8e94f:h2h|Tipico|Lommel SK",
-    "c3dc7c96928db735db0864dbf9d8e94f:h2h|Unibet (NL)|KV Mechelen",
-    "c3dc7c96928db735db0864dbf9d8e94f:h2h|Unibet (NL)|Lommel SK",
-    "c3dc7c96928db735db0864dbf9d8e94f:h2h|Unibet (SE)|KV Mechelen",
-    "c3dc7c96928db735db0864dbf9d8e94f:h2h|Unibet (SE)|Lommel SK",
-    "c3dc7c96928db735db0864dbf9d8e94f:h2h|Winamax (DE)|KV Mechelen",
-    "c3dc7c96928db735db0864dbf9d8e94f:h2h|Winamax (DE)|Lommel SK",
-    "c3dc7c96928db735db0864dbf9d8e94f:h2h|Winamax (FR)|KV Mechelen",
-    "c3dc7c96928db735db0864dbf9d8e94f:h2h|Winamax (FR)|Lommel SK",
-    "d6abec8a7b45d5934db47b29d7a977ff:h2h|888sport|Draw",
-    "d6abec8a7b45d5934db47b29d7a977ff:h2h|888sport|Dynamo Dresden",
-    "d6abec8a7b45d5934db47b29d7a977ff:h2h|Betclic (FR)|Draw",
-    "d6abec8a7b45d5934db47b29d7a977ff:h2h|Betclic (FR)|Dynamo Dresden",
-    "d6abec8a7b45d5934db47b29d7a977ff:h2h|Betfair|Draw",
-    "d6abec8a7b45d5934db47b29d7a977ff:h2h|Betfair|Dynamo Dresden",
-    "d6abec8a7b45d5934db47b29d7a977ff:h2h|Betsson|Draw",
-    "d6abec8a7b45d5934db47b29d7a977ff:h2h|Betsson|Dynamo Dresden",
-    "d6abec8a7b45d5934db47b29d7a977ff:h2h|Coolbet|Draw",
-    "d6abec8a7b45d5934db47b29d7a977ff:h2h|Coolbet|Dynamo Dresden",
-    "d6abec8a7b45d5934db47b29d7a977ff:h2h|Nordic Bet|Draw",
-    "d6abec8a7b45d5934db47b29d7a977ff:h2h|Nordic Bet|Dynamo Dresden",
-    "d6abec8a7b45d5934db47b29d7a977ff:h2h|Suprabets|Draw",
-    "d6abec8a7b45d5934db47b29d7a977ff:h2h|Suprabets|Dynamo Dresden",
-    "d6abec8a7b45d5934db47b29d7a977ff:h2h|Tipico|Draw",
-    "d6abec8a7b45d5934db47b29d7a977ff:h2h|Tipico|Dynamo Dresden",
-    "d6abec8a7b45d5934db47b29d7a977ff:h2h|Winamax (DE)|Draw",
-    "d6abec8a7b45d5934db47b29d7a977ff:h2h|Winamax (DE)|Dynamo Dresden",
-    "d6abec8a7b45d5934db47b29d7a977ff:h2h|Winamax (FR)|Draw",
-    "d6abec8a7b45d5934db47b29d7a977ff:h2h|Winamax (FR)|Dynamo Dresden"
+    "b4b8953d5ee5d62e07bb7a23fed5bcda:h2h|Betclic (FR)|Draw",
+    "b4b8953d5ee5d62e07bb7a23fed5bcda:h2h|Betclic (FR)|River Plate",
+    "b4b8953d5ee5d62e07bb7a23fed5bcda:h2h|Betfair|Draw",
+    "b4b8953d5ee5d62e07bb7a23fed5bcda:h2h|Betfair|River Plate",
+    "b4b8953d5ee5d62e07bb7a23fed5bcda:h2h|Betsson|Draw",
+    "b4b8953d5ee5d62e07bb7a23fed5bcda:h2h|Betsson|River Plate",
+    "b4b8953d5ee5d62e07bb7a23fed5bcda:h2h|LeoVegas (SE)|Draw",
+    "b4b8953d5ee5d62e07bb7a23fed5bcda:h2h|LeoVegas (SE)|River Plate",
+    "b4b8953d5ee5d62e07bb7a23fed5bcda:h2h|Nordic Bet|Draw",
+    "b4b8953d5ee5d62e07bb7a23fed5bcda:h2h|Nordic Bet|River Plate",
+    "b4b8953d5ee5d62e07bb7a23fed5bcda:h2h|Unibet (SE)|Draw",
+    "b4b8953d5ee5d62e07bb7a23fed5bcda:h2h|Unibet (SE)|River Plate",
+    "b4b8953d5ee5d62e07bb7a23fed5bcda:h2h|Winamax (DE)|Draw",
+    "b4b8953d5ee5d62e07bb7a23fed5bcda:h2h|Winamax (DE)|River Plate",
+    "b4b8953d5ee5d62e07bb7a23fed5bcda:h2h|Winamax (FR)|Draw",
+    "b4b8953d5ee5d62e07bb7a23fed5bcda:h2h|Winamax (FR)|River Plate"
   ]
 }
