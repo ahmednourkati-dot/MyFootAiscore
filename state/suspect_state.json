@@ -1,241 +1,156 @@
 {
   "snapshots": {
-    "f882c79a6fefb6de14a608753fbbecfb:h2h": {
-      "Unibet (SE)": {
-        "Daejeon Citizen": 10.0,
-        "Incheon United": 1.38,
-        "Draw": 3.55
-      },
-      "Unibet (NL)": {
-        "Daejeon Citizen": 10.5,
-        "Incheon United": 1.36,
-        "Draw": 3.65
-      },
-      "PMU (FR)": {
-        "Daejeon Citizen": 9.5,
-        "Incheon United": 1.25,
-        "Draw": 3.35
-      },
-      "LeoVegas (SE)": {
-        "Daejeon Citizen": 9.5,
-        "Incheon United": 1.3,
-        "Draw": 3.4
-      },
-      "Betclic (FR)": {
-        "Daejeon Citizen": 8.25,
-        "Incheon United": 1.47,
-        "Draw": 3.3
-      },
-      "Nordic Bet": {
-        "Daejeon Citizen": 8.2,
-        "Incheon United": 1.45,
-        "Draw": 3.5
-      },
-      "Betsson": {
-        "Daejeon Citizen": 7.2,
-        "Incheon United": 1.47,
-        "Draw": 3.5
-      },
-      "Pinnacle": {
-        "Daejeon Citizen": 9.47,
-        "Incheon United": 1.5,
-        "Draw": 3.53
-      },
-      "Winamax (DE)": {
-        "Daejeon Citizen": 8.0,
-        "Incheon United": 1.46,
-        "Draw": 3.4
-      },
-      "Winamax (FR)": {
-        "Daejeon Citizen": 7.75,
-        "Incheon United": 1.45,
-        "Draw": 3.3
-      },
-      "Tipico": {
-        "Daejeon Citizen": 8.5,
-        "Incheon United": 1.4,
-        "Draw": 3.8
-      },
-      "Coolbet": {
-        "Daejeon Citizen": 8.0,
-        "Incheon United": 1.5,
-        "Draw": 3.6
-      },
+    "e13328115fb8cc604651090ff4ae6f0c:h2h": {
       "Betfair": {
-        "Daejeon Citizen": 10.0,
-        "Incheon United": 1.54,
-        "Draw": 3.65
-      },
-      "Matchbook": {
-        "Daejeon Citizen": 10.5,
-        "Incheon United": 1.53,
-        "Draw": 3.65
-      }
-    },
-    "0b39907e2c94a8e5bbfd763f5ce0a8d5:h2h": {
-      "LeoVegas (SE)": {
-        "FC Seoul": 4.8,
-        "Pohang Steelers": 1.68,
-        "Draw": 2.7
-      },
-      "PMU (FR)": {
-        "FC Seoul": 4.25,
-        "Pohang Steelers": 1.72,
-        "Draw": 2.55
-      },
-      "Unibet (NL)": {
-        "FC Seoul": 4.6,
-        "Pohang Steelers": 1.88,
-        "Draw": 2.8
-      },
-      "Unibet (SE)": {
-        "FC Seoul": 5.0,
-        "Pohang Steelers": 1.79,
-        "Draw": 2.88
-      },
-      "Betclic (FR)": {
-        "FC Seoul": 4.85,
-        "Pohang Steelers": 1.77,
-        "Draw": 2.98
+        "AC Horsens": 28.0,
+        "AGF Aarhus": 48.0,
+        "Draw": 1.03
       },
       "Nordic Bet": {
-        "FC Seoul": 4.85,
-        "Pohang Steelers": 1.78,
-        "Draw": 3.05
+        "AC Horsens": 301.0,
+        "AGF Aarhus": 1.0,
+        "Draw": 126.0
       },
       "Betsson": {
-        "FC Seoul": 4.6,
-        "Pohang Steelers": 1.82,
-        "Draw": 3.05
+        "AC Horsens": 301.0,
+        "AGF Aarhus": 1.0,
+        "Draw": 126.0
       },
-      "Pinnacle": {
-        "FC Seoul": 5.44,
-        "Pohang Steelers": 1.81,
-        "Draw": 3.09
+      "Betclic (FR)": {
+        "AC Horsens": 30.0,
+        "AGF Aarhus": 30.0,
+        "Draw": 1.0
       },
       "Winamax (DE)": {
-        "FC Seoul": 5.1,
-        "Pohang Steelers": 1.74,
-        "Draw": 3.0
+        "AC Horsens": 140.0,
+        "AGF Aarhus": 140.0,
+        "Draw": 1.0
       },
       "Winamax (FR)": {
-        "FC Seoul": 4.8,
-        "Pohang Steelers": 1.7,
-        "Draw": 2.9
+        "AC Horsens": 140.0,
+        "AGF Aarhus": 140.0,
+        "Draw": 1.0
       },
-      "Tipico": {
-        "FC Seoul": 4.5,
-        "Pohang Steelers": 1.8,
-        "Draw": 3.2
+      "Suprabets": {
+        "AC Horsens": 151.0,
+        "AGF Aarhus": 1.05,
+        "Draw": 7.5
       },
       "Coolbet": {
-        "FC Seoul": 5.0,
-        "Pohang Steelers": 1.8,
-        "Draw": 3.14
-      },
-      "Betfair": {
-        "FC Seoul": 6.0,
-        "Pohang Steelers": 1.88,
-        "Draw": 3.15
-      },
-      "Matchbook": {
-        "FC Seoul": 6.2,
-        "Pohang Steelers": 1.85,
-        "Draw": 3.2
+        "AC Horsens": 125.0,
+        "AGF Aarhus": 1.01,
+        "Draw": 13.0
       }
     },
-    "943ccf70b92b1561e7e0afb049c4acb6:h2h": {
-      "Betclic (FR)": {
-        "FC Utrecht": 85.0,
-        "Feyenoord": 1.0,
-        "Draw": 40.0
-      },
-      "Betsson": {
-        "FC Utrecht": 41.0,
-        "Feyenoord": 1.0,
-        "Draw": 19.0
-      },
-      "Nordic Bet": {
-        "FC Utrecht": 41.0,
-        "Feyenoord": 1.0,
-        "Draw": 19.0
-      }
-    },
-    "7e6d584e6b640cc07f14eddfd01a0235:h2h": {
-      "Unibet (NL)": {
-        "Piast Gliwice": 2.7,
-        "Pogoń Szczecin": 3.05,
-        "Draw": 2.43
+    "d379e5ad6a8372be1ec3c0222303592c:h2h": {
+      "Unibet (SE)": {
+        "Clube de Regatas Brasil": 251.0,
+        "Ponte Preta": 1.02,
+        "Draw": 20.0
       },
       "LeoVegas (SE)": {
-        "Piast Gliwice": 2.55,
-        "Pogoń Szczecin": 2.85,
-        "Draw": 2.28
-      },
-      "PMU (FR)": {
-        "Piast Gliwice": 2.48,
-        "Pogoń Szczecin": 2.8,
-        "Draw": 2.23
-      },
-      "Unibet (SE)": {
-        "Piast Gliwice": 2.7,
-        "Pogoń Szczecin": 3.05,
-        "Draw": 2.43
-      },
-      "Betclic (FR)": {
-        "Piast Gliwice": 2.53,
-        "Pogoń Szczecin": 3.02,
-        "Draw": 2.4
+        "Clube de Regatas Brasil": 101.0,
+        "Ponte Preta": 1.01,
+        "Draw": 10.5
       },
       "Coolbet": {
-        "Piast Gliwice": 2.75,
-        "Pogoń Szczecin": 3.25,
-        "Draw": 2.5
-      },
-      "Nordic Bet": {
-        "Piast Gliwice": 2.6,
-        "Pogoń Szczecin": 3.05,
-        "Draw": 2.5
+        "Clube de Regatas Brasil": 50.0,
+        "Ponte Preta": 1.01,
+        "Draw": 11.0
       },
       "Betsson": {
-        "Piast Gliwice": 2.6,
-        "Pogoń Szczecin": 3.05,
-        "Draw": 2.5
+        "Clube de Regatas Brasil": 150.0,
+        "Ponte Preta": 1.04,
+        "Draw": 9.5
       },
-      "Winamax (FR)": {
-        "Piast Gliwice": 2.55,
-        "Pogoń Szczecin": 2.95,
-        "Draw": 2.4
-      },
-      "Winamax (DE)": {
-        "Piast Gliwice": 2.65,
-        "Pogoń Szczecin": 3.05,
-        "Draw": 2.45
+      "Nordic Bet": {
+        "Clube de Regatas Brasil": 130.0,
+        "Ponte Preta": 1.04,
+        "Draw": 9.5
       },
       "Pinnacle": {
-        "Piast Gliwice": 2.71,
-        "Pogoń Szczecin": 3.27,
-        "Draw": 2.55
+        "Clube de Regatas Brasil": 18.32,
+        "Ponte Preta": 1.31,
+        "Draw": 4.04
       },
       "888sport": {
-        "Piast Gliwice": 2.5,
-        "Pogoń Szczecin": 3.1,
-        "Draw": 2.5
-      },
-      "Tipico": {
-        "Piast Gliwice": 2.5,
-        "Pogoń Szczecin": 3.4,
-        "Draw": 2.5
+        "Clube de Regatas Brasil": 26.0,
+        "Ponte Preta": 1.2,
+        "Draw": 4.6
       },
       "Betfair": {
-        "Piast Gliwice": 2.9,
-        "Pogoń Szczecin": 3.35,
-        "Draw": 2.64
+        "Clube de Regatas Brasil": 350.0,
+        "Ponte Preta": 1.06,
+        "Draw": 13.5
       },
-      "Matchbook": {
-        "Piast Gliwice": 2.9,
-        "Pogoń Szczecin": 3.35,
-        "Draw": 2.64
+      "Tipico": {
+        "Clube de Regatas Brasil": 400.0,
+        "Ponte Preta": 1.02,
+        "Draw": 15.0
+      }
+    },
+    "20e63a6495ac8fd1ff6a87e768529dbf:h2h": {
+      "Nordic Bet": {
+        "Erzurum BB": 1.0,
+        "Samsunspor": 101.0,
+        "Draw": 19.0
+      },
+      "Betsson": {
+        "Erzurum BB": 1.0,
+        "Samsunspor": 81.0,
+        "Draw": 19.0
+      },
+      "Winamax (DE)": {
+        "Erzurum BB": 1.01,
+        "Samsunspor": 1000.0,
+        "Draw": 25.0
+      },
+      "Winamax (FR)": {
+        "Erzurum BB": 1.02,
+        "Samsunspor": 1000.0,
+        "Draw": 21.0
+      },
+      "Betclic (FR)": {
+        "Erzurum BB": 1.0,
+        "Samsunspor": 100.0,
+        "Draw": 20.0
+      },
+      "Coolbet": {
+        "Erzurum BB": 1.01,
+        "Samsunspor": 500.0,
+        "Draw": 20.0
+      },
+      "888sport": {
+        "Erzurum BB": 1.03,
+        "Samsunspor": 151.0,
+        "Draw": 15.0
+      },
+      "Tipico": {
+        "Erzurum BB": 1.01,
+        "Samsunspor": 400.0,
+        "Draw": 25.0
+      },
+      "Betfair": {
+        "Erzurum BB": 1.02,
+        "Samsunspor": 120.0,
+        "Draw": 17.5
+      }
+    },
+    "d38c0e2611791132d034e65b0d479331:h2h": {
+      "Betsson": {
+        "Eyüpspor": 34.0,
+        "Fenerbahce": 1.0,
+        "Draw": 29.0
+      },
+      "Nordic Bet": {
+        "Eyüpspor": 34.0,
+        "Fenerbahce": 1.0,
+        "Draw": 29.0
+      },
+      "Betclic (FR)": {
+        "Eyüpspor": 100.0,
+        "Fenerbahce": 1.0,
+        "Draw": 40.0
       }
     }
   },
@@ -4064,12 +3979,281 @@
       "confidence": 8,
       "alert_type": "value",
       "alerted_at": "2026-09-20T11:14:48.921391+00:00"
+    },
+    {
+      "state_key": "d379e5ad6a8372be1ec3c0222303592c:h2h",
+      "event_id": "d379e5ad6a8372be1ec3c0222303592c",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ponte Preta",
+      "away_team": "Clube de Regatas Brasil",
+      "commence_time": "2026-09-20T14:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Clube de Regatas Brasil",
+      "odds_at_alert": 251.0,
+      "stake_pct": 5.0,
+      "confidence": 1186,
+      "alert_type": "value",
+      "alerted_at": "2026-09-20T15:59:07.480132+00:00"
+    },
+    {
+      "state_key": "d379e5ad6a8372be1ec3c0222303592c:h2h",
+      "event_id": "d379e5ad6a8372be1ec3c0222303592c",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ponte Preta",
+      "away_team": "Clube de Regatas Brasil",
+      "commence_time": "2026-09-20T14:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 20.0,
+      "stake_pct": 5.0,
+      "confidence": 365,
+      "alert_type": "value",
+      "alerted_at": "2026-09-20T15:59:07.896110+00:00"
+    },
+    {
+      "state_key": "d379e5ad6a8372be1ec3c0222303592c:h2h",
+      "event_id": "d379e5ad6a8372be1ec3c0222303592c",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ponte Preta",
+      "away_team": "Clube de Regatas Brasil",
+      "commence_time": "2026-09-20T14:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Clube de Regatas Brasil",
+      "odds_at_alert": 101.0,
+      "stake_pct": 5.0,
+      "confidence": 417,
+      "alert_type": "value",
+      "alerted_at": "2026-09-20T15:59:08.263125+00:00"
+    },
+    {
+      "state_key": "d379e5ad6a8372be1ec3c0222303592c:h2h",
+      "event_id": "d379e5ad6a8372be1ec3c0222303592c",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ponte Preta",
+      "away_team": "Clube de Regatas Brasil",
+      "commence_time": "2026-09-20T14:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 10.5,
+      "stake_pct": 5.0,
+      "confidence": 144,
+      "alert_type": "value",
+      "alerted_at": "2026-09-20T15:59:08.647809+00:00"
+    },
+    {
+      "state_key": "d379e5ad6a8372be1ec3c0222303592c:h2h",
+      "event_id": "d379e5ad6a8372be1ec3c0222303592c",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ponte Preta",
+      "away_team": "Clube de Regatas Brasil",
+      "commence_time": "2026-09-20T14:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Clube de Regatas Brasil",
+      "odds_at_alert": 50.0,
+      "stake_pct": 5.0,
+      "confidence": 156,
+      "alert_type": "value",
+      "alerted_at": "2026-09-20T15:59:09.059903+00:00"
+    },
+    {
+      "state_key": "d379e5ad6a8372be1ec3c0222303592c:h2h",
+      "event_id": "d379e5ad6a8372be1ec3c0222303592c",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ponte Preta",
+      "away_team": "Clube de Regatas Brasil",
+      "commence_time": "2026-09-20T14:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 156,
+      "alert_type": "value",
+      "alerted_at": "2026-09-20T15:59:09.449839+00:00"
+    },
+    {
+      "state_key": "d379e5ad6a8372be1ec3c0222303592c:h2h",
+      "event_id": "d379e5ad6a8372be1ec3c0222303592c",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ponte Preta",
+      "away_team": "Clube de Regatas Brasil",
+      "commence_time": "2026-09-20T14:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Clube de Regatas Brasil",
+      "odds_at_alert": 150.0,
+      "stake_pct": 5.0,
+      "confidence": 668,
+      "alert_type": "value",
+      "alerted_at": "2026-09-20T15:59:09.818119+00:00"
+    },
+    {
+      "state_key": "d379e5ad6a8372be1ec3c0222303592c:h2h",
+      "event_id": "d379e5ad6a8372be1ec3c0222303592c",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ponte Preta",
+      "away_team": "Clube de Regatas Brasil",
+      "commence_time": "2026-09-20T14:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 9.5,
+      "stake_pct": 5.0,
+      "confidence": 121,
+      "alert_type": "value",
+      "alerted_at": "2026-09-20T15:59:10.193379+00:00"
+    },
+    {
+      "state_key": "d379e5ad6a8372be1ec3c0222303592c:h2h",
+      "event_id": "d379e5ad6a8372be1ec3c0222303592c",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ponte Preta",
+      "away_team": "Clube de Regatas Brasil",
+      "commence_time": "2026-09-20T14:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Clube de Regatas Brasil",
+      "odds_at_alert": 130.0,
+      "stake_pct": 5.0,
+      "confidence": 566,
+      "alert_type": "value",
+      "alerted_at": "2026-09-20T15:59:10.592260+00:00"
+    },
+    {
+      "state_key": "d379e5ad6a8372be1ec3c0222303592c:h2h",
+      "event_id": "d379e5ad6a8372be1ec3c0222303592c",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ponte Preta",
+      "away_team": "Clube de Regatas Brasil",
+      "commence_time": "2026-09-20T14:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 9.5,
+      "stake_pct": 5.0,
+      "confidence": 121,
+      "alert_type": "value",
+      "alerted_at": "2026-09-20T15:59:10.964224+00:00"
+    },
+    {
+      "state_key": "d379e5ad6a8372be1ec3c0222303592c:h2h",
+      "event_id": "d379e5ad6a8372be1ec3c0222303592c",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ponte Preta",
+      "away_team": "Clube de Regatas Brasil",
+      "commence_time": "2026-09-20T14:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Clube de Regatas Brasil",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 33,
+      "alert_type": "value",
+      "alerted_at": "2026-09-20T15:59:11.355670+00:00"
+    },
+    {
+      "state_key": "d379e5ad6a8372be1ec3c0222303592c:h2h",
+      "event_id": "d379e5ad6a8372be1ec3c0222303592c",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ponte Preta",
+      "away_team": "Clube de Regatas Brasil",
+      "commence_time": "2026-09-20T14:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.6,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-09-20T15:59:11.747819+00:00"
+    },
+    {
+      "state_key": "d379e5ad6a8372be1ec3c0222303592c:h2h",
+      "event_id": "d379e5ad6a8372be1ec3c0222303592c",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ponte Preta",
+      "away_team": "Clube de Regatas Brasil",
+      "commence_time": "2026-09-20T14:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Clube de Regatas Brasil",
+      "odds_at_alert": 350.0,
+      "stake_pct": 5.0,
+      "confidence": 1693,
+      "alert_type": "value",
+      "alerted_at": "2026-09-20T15:59:12.175354+00:00"
+    },
+    {
+      "state_key": "d379e5ad6a8372be1ec3c0222303592c:h2h",
+      "event_id": "d379e5ad6a8372be1ec3c0222303592c",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ponte Preta",
+      "away_team": "Clube de Regatas Brasil",
+      "commence_time": "2026-09-20T14:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 13.5,
+      "stake_pct": 5.0,
+      "confidence": 214,
+      "alert_type": "value",
+      "alerted_at": "2026-09-20T15:59:12.553981+00:00"
+    },
+    {
+      "state_key": "d379e5ad6a8372be1ec3c0222303592c:h2h",
+      "event_id": "d379e5ad6a8372be1ec3c0222303592c",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ponte Preta",
+      "away_team": "Clube de Regatas Brasil",
+      "commence_time": "2026-09-20T14:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Clube de Regatas Brasil",
+      "odds_at_alert": 400.0,
+      "stake_pct": 5.0,
+      "confidence": 1949,
+      "alert_type": "value",
+      "alerted_at": "2026-09-20T15:59:12.923548+00:00"
+    },
+    {
+      "state_key": "d379e5ad6a8372be1ec3c0222303592c:h2h",
+      "event_id": "d379e5ad6a8372be1ec3c0222303592c",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ponte Preta",
+      "away_team": "Clube de Regatas Brasil",
+      "commence_time": "2026-09-20T14:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 248,
+      "alert_type": "value",
+      "alerted_at": "2026-09-20T15:59:13.289128+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "0b39907e2c94a8e5bbfd763f5ce0a8d5:h2h|Matchbook|FC Seoul",
-    "f882c79a6fefb6de14a608753fbbecfb:h2h|Matchbook|Daejeon Citizen",
-    "f882c79a6fefb6de14a608753fbbecfb:h2h|Unibet (NL)|Daejeon Citizen"
+    "d379e5ad6a8372be1ec3c0222303592c:h2h|888sport|Clube de Regatas Brasil",
+    "d379e5ad6a8372be1ec3c0222303592c:h2h|888sport|Draw",
+    "d379e5ad6a8372be1ec3c0222303592c:h2h|Betfair|Clube de Regatas Brasil",
+    "d379e5ad6a8372be1ec3c0222303592c:h2h|Betfair|Draw",
+    "d379e5ad6a8372be1ec3c0222303592c:h2h|Betsson|Clube de Regatas Brasil",
+    "d379e5ad6a8372be1ec3c0222303592c:h2h|Betsson|Draw",
+    "d379e5ad6a8372be1ec3c0222303592c:h2h|Coolbet|Clube de Regatas Brasil",
+    "d379e5ad6a8372be1ec3c0222303592c:h2h|Coolbet|Draw",
+    "d379e5ad6a8372be1ec3c0222303592c:h2h|LeoVegas (SE)|Clube de Regatas Brasil",
+    "d379e5ad6a8372be1ec3c0222303592c:h2h|LeoVegas (SE)|Draw",
+    "d379e5ad6a8372be1ec3c0222303592c:h2h|Nordic Bet|Clube de Regatas Brasil",
+    "d379e5ad6a8372be1ec3c0222303592c:h2h|Nordic Bet|Draw",
+    "d379e5ad6a8372be1ec3c0222303592c:h2h|Tipico|Clube de Regatas Brasil",
+    "d379e5ad6a8372be1ec3c0222303592c:h2h|Tipico|Draw",
+    "d379e5ad6a8372be1ec3c0222303592c:h2h|Unibet (SE)|Clube de Regatas Brasil",
+    "d379e5ad6a8372be1ec3c0222303592c:h2h|Unibet (SE)|Draw"
   ]
 }
