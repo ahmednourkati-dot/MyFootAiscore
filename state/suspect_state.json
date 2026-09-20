@@ -1,366 +1,241 @@
 {
   "snapshots": {
-    "fe5415aa1fd618d2d3b8f4efd0f8d8c7:h2h": {
-      "LeoVegas (SE)": {
-        "América": 34.0,
-        "Guadalajara": 1.02,
-        "Draw": 10.5
+    "f882c79a6fefb6de14a608753fbbecfb:h2h": {
+      "Unibet (SE)": {
+        "Daejeon Citizen": 10.0,
+        "Incheon United": 1.38,
+        "Draw": 3.55
       },
       "Unibet (NL)": {
-        "América": 36.0,
-        "Guadalajara": 1.06,
-        "Draw": 11.0
-      },
-      "Unibet (SE)": {
-        "América": 36.0,
-        "Guadalajara": 1.06,
-        "Draw": 11.0
-      },
-      "Betclic (FR)": {
-        "América": 19.25,
-        "Guadalajara": 1.05,
-        "Draw": 7.5
-      },
-      "Pinnacle": {
-        "América": 17.78,
-        "Guadalajara": 1.14,
-        "Draw": 8.68
-      },
-      "Coolbet": {
-        "América": 40.0,
-        "Guadalajara": 1.1,
-        "Draw": 10.0
-      },
-      "Nordic Bet": {
-        "América": 26.0,
-        "Guadalajara": 1.06,
-        "Draw": 8.2
-      },
-      "Betsson": {
-        "América": 26.0,
-        "Guadalajara": 1.06,
-        "Draw": 8.6
-      },
-      "Betfair": {
-        "América": 25.0,
-        "Guadalajara": 1.12,
-        "Draw": 10.5
-      },
-      "888sport": {
-        "América": 23.0,
-        "Guadalajara": 1.08,
-        "Draw": 8.0
-      },
-      "Tipico": {
-        "América": 22.0,
-        "Guadalajara": 1.05,
-        "Draw": 10.0
-      },
-      "Matchbook": {
-        "América": 32.0,
-        "Guadalajara": 1.12,
-        "Draw": 10.5
-      }
-    },
-    "d5a00beee3c346a2a2e3ecdbbaaed2fe:h2h": {
-      "LeoVegas (SE)": {
-        "Gangwon FC": 1.91,
-        "Jeju United FC": 3.55,
-        "Draw": 3.1
-      },
-      "Unibet (SE)": {
-        "Gangwon FC": 1.92,
-        "Jeju United FC": 3.6,
-        "Draw": 3.1
+        "Daejeon Citizen": 10.5,
+        "Incheon United": 1.36,
+        "Draw": 3.65
       },
       "PMU (FR)": {
-        "Gangwon FC": 1.83,
-        "Jeju United FC": 3.45,
-        "Draw": 3.0
-      },
-      "Unibet (NL)": {
-        "Gangwon FC": 1.92,
-        "Jeju United FC": 3.6,
-        "Draw": 3.1
-      },
-      "Betsson": {
-        "Gangwon FC": 2.18,
-        "Jeju United FC": 3.15,
-        "Draw": 3.05
-      },
-      "Winamax (FR)": {
-        "Gangwon FC": 2.1,
-        "Jeju United FC": 3.05,
-        "Draw": 3.15
-      },
-      "Winamax (DE)": {
-        "Gangwon FC": 2.15,
-        "Jeju United FC": 3.1,
-        "Draw": 3.2
-      },
-      "Unibet (FR)": {
-        "Gangwon FC": 2.0,
-        "Jeju United FC": 3.05,
-        "Draw": 3.0
-      },
-      "Betclic (FR)": {
-        "Gangwon FC": 2.12,
-        "Jeju United FC": 3.1,
-        "Draw": 3.08
-      },
-      "Nordic Bet": {
-        "Gangwon FC": 2.18,
-        "Jeju United FC": 3.15,
-        "Draw": 3.05
-      },
-      "Pinnacle": {
-        "Gangwon FC": 2.25,
-        "Jeju United FC": 3.53,
-        "Draw": 3.27
-      },
-      "1xBet": {
-        "Gangwon FC": 2.18,
-        "Jeju United FC": 3.35,
-        "Draw": 3.2
-      },
-      "Marathon Bet": {
-        "Gangwon FC": 2.16,
-        "Jeju United FC": 3.34,
-        "Draw": 3.2
-      },
-      "William Hill": {
-        "Gangwon FC": 2.2,
-        "Jeju United FC": 3.2,
-        "Draw": 3.0
-      },
-      "Tipico": {
-        "Gangwon FC": 2.05,
-        "Jeju United FC": 3.5,
-        "Draw": 3.2
-      },
-      "Coolbet": {
-        "Gangwon FC": 2.15,
-        "Jeju United FC": 3.4,
-        "Draw": 3.3
-      },
-      "Betfair": {
-        "Gangwon FC": 2.3,
-        "Jeju United FC": 3.6,
-        "Draw": 3.3
-      },
-      "BetOnline.ag": {
-        "Gangwon FC": 2.24,
-        "Jeju United FC": 3.45,
-        "Draw": 3.15
-      },
-      "Matchbook": {
-        "Gangwon FC": 2.3,
-        "Jeju United FC": 3.6,
+        "Daejeon Citizen": 9.5,
+        "Incheon United": 1.25,
         "Draw": 3.35
-      }
-    },
-    "9009d19260414656a0fb7f363111d8ef:h2h": {
-      "Unibet (SE)": {
-        "Gwangju FC": 6.75,
-        "Jeonbuk Hyundai Motors": 1.35,
-        "Draw": 4.35
-      },
-      "PMU (FR)": {
-        "Gwangju FC": 6.5,
-        "Jeonbuk Hyundai Motors": 1.3,
-        "Draw": 4.2
-      },
-      "Unibet (NL)": {
-        "Gwangju FC": 6.75,
-        "Jeonbuk Hyundai Motors": 1.35,
-        "Draw": 4.35
       },
       "LeoVegas (SE)": {
-        "Gwangju FC": 6.75,
-        "Jeonbuk Hyundai Motors": 1.34,
-        "Draw": 4.35
-      },
-      "Betclic (FR)": {
-        "Gwangju FC": 6.1,
-        "Jeonbuk Hyundai Motors": 1.39,
-        "Draw": 4.25
-      },
-      "Unibet (FR)": {
-        "Gwangju FC": 5.9,
-        "Jeonbuk Hyundai Motors": 1.34,
-        "Draw": 4.15
-      },
-      "Nordic Bet": {
-        "Gwangju FC": 6.2,
-        "Jeonbuk Hyundai Motors": 1.41,
-        "Draw": 4.3
-      },
-      "Betsson": {
-        "Gwangju FC": 6.2,
-        "Jeonbuk Hyundai Motors": 1.41,
-        "Draw": 4.3
-      },
-      "Pinnacle": {
-        "Gwangju FC": 7.26,
-        "Jeonbuk Hyundai Motors": 1.45,
-        "Draw": 4.73
-      },
-      "1xBet": {
-        "Gwangju FC": 6.86,
-        "Jeonbuk Hyundai Motors": 1.43,
-        "Draw": 4.45
-      },
-      "Marathon Bet": {
-        "Gwangju FC": 6.95,
-        "Jeonbuk Hyundai Motors": 1.41,
-        "Draw": 4.5
-      },
-      "Winamax (FR)": {
-        "Gwangju FC": 5.8,
-        "Jeonbuk Hyundai Motors": 1.39,
-        "Draw": 4.4
-      },
-      "Winamax (DE)": {
-        "Gwangju FC": 6.0,
-        "Jeonbuk Hyundai Motors": 1.41,
-        "Draw": 4.5
-      },
-      "William Hill": {
-        "Gwangju FC": 6.5,
-        "Jeonbuk Hyundai Motors": 1.4,
-        "Draw": 4.33
-      },
-      "Tipico": {
-        "Gwangju FC": 7.2,
-        "Jeonbuk Hyundai Motors": 1.37,
-        "Draw": 4.6
-      },
-      "Coolbet": {
-        "Gwangju FC": 7.25,
-        "Jeonbuk Hyundai Motors": 1.42,
-        "Draw": 4.5
-      },
-      "BetOnline.ag": {
-        "Gwangju FC": 7.0,
-        "Jeonbuk Hyundai Motors": 1.42,
-        "Draw": 4.6
-      },
-      "Betfair": {
-        "Gwangju FC": 8.0,
-        "Jeonbuk Hyundai Motors": 1.47,
-        "Draw": 4.8
-      },
-      "Matchbook": {
-        "Gwangju FC": 8.0,
-        "Jeonbuk Hyundai Motors": 1.47,
-        "Draw": 4.9
-      }
-    },
-    "671c610e8740a9e2e45392561c590c7a:h2h": {
-      "Coolbet": {
-        "FC Machida Zelvia": 2.45,
-        "Kashiwa Reysol": 2.85,
+        "Daejeon Citizen": 9.5,
+        "Incheon United": 1.3,
         "Draw": 3.4
       },
-      "Pinnacle": {
-        "FC Machida Zelvia": 2.49,
-        "Kashiwa Reysol": 2.9,
-        "Draw": 3.5
-      },
-      "Nordic Bet": {
-        "FC Machida Zelvia": 2.42,
-        "Kashiwa Reysol": 2.75,
-        "Draw": 3.2
-      },
-      "Betsson": {
-        "FC Machida Zelvia": 2.42,
-        "Kashiwa Reysol": 2.75,
-        "Draw": 3.2
-      },
       "Betclic (FR)": {
-        "FC Machida Zelvia": 2.35,
-        "Kashiwa Reysol": 2.73,
-        "Draw": 3.25
-      },
-      "Unibet (FR)": {
-        "FC Machida Zelvia": 2.25,
-        "Kashiwa Reysol": 2.7,
-        "Draw": 3.2
-      },
-      "1xBet": {
-        "FC Machida Zelvia": 2.48,
-        "Kashiwa Reysol": 2.85,
-        "Draw": 3.4
-      },
-      "Winamax (FR)": {
-        "FC Machida Zelvia": 2.3,
-        "Kashiwa Reysol": 2.6,
-        "Draw": 3.25
-      },
-      "Winamax (DE)": {
-        "FC Machida Zelvia": 2.35,
-        "Kashiwa Reysol": 2.65,
+        "Daejeon Citizen": 8.25,
+        "Incheon United": 1.47,
         "Draw": 3.3
       },
-      "Marathon Bet": {
-        "FC Machida Zelvia": 2.42,
-        "Kashiwa Reysol": 2.78,
-        "Draw": 3.32
+      "Nordic Bet": {
+        "Daejeon Citizen": 8.2,
+        "Incheon United": 1.45,
+        "Draw": 3.5
       },
-      "888sport": {
-        "FC Machida Zelvia": 2.4,
-        "Kashiwa Reysol": 2.75,
-        "Draw": 3.2
+      "Betsson": {
+        "Daejeon Citizen": 7.2,
+        "Incheon United": 1.47,
+        "Draw": 3.5
       },
-      "William Hill": {
-        "FC Machida Zelvia": 2.4,
-        "Kashiwa Reysol": 2.75,
-        "Draw": 3.2
+      "Pinnacle": {
+        "Daejeon Citizen": 9.47,
+        "Incheon United": 1.5,
+        "Draw": 3.53
+      },
+      "Winamax (DE)": {
+        "Daejeon Citizen": 8.0,
+        "Incheon United": 1.46,
+        "Draw": 3.4
+      },
+      "Winamax (FR)": {
+        "Daejeon Citizen": 7.75,
+        "Incheon United": 1.45,
+        "Draw": 3.3
       },
       "Tipico": {
-        "FC Machida Zelvia": 2.25,
-        "Kashiwa Reysol": 2.85,
-        "Draw": 3.4
+        "Daejeon Citizen": 8.5,
+        "Incheon United": 1.4,
+        "Draw": 3.8
       },
-      "PMU (FR)": {
-        "FC Machida Zelvia": 2.43,
-        "Kashiwa Reysol": 2.65,
-        "Draw": 3.2
-      },
-      "LeoVegas (SE)": {
-        "FC Machida Zelvia": 2.48,
-        "Kashiwa Reysol": 2.7,
-        "Draw": 3.25
-      },
-      "Unibet (NL)": {
-        "FC Machida Zelvia": 2.45,
-        "Kashiwa Reysol": 2.7,
-        "Draw": 3.2
-      },
-      "Unibet (SE)": {
-        "FC Machida Zelvia": 2.45,
-        "Kashiwa Reysol": 2.7,
-        "Draw": 3.2
+      "Coolbet": {
+        "Daejeon Citizen": 8.0,
+        "Incheon United": 1.5,
+        "Draw": 3.6
       },
       "Betfair": {
-        "FC Machida Zelvia": 2.54,
-        "Kashiwa Reysol": 2.96,
-        "Draw": 3.5
-      },
-      "BetAnything": {
-        "FC Machida Zelvia": 2.4,
-        "Kashiwa Reysol": 2.8,
-        "Draw": 3.4
-      },
-      "BetOnline.ag": {
-        "FC Machida Zelvia": 2.5,
-        "Kashiwa Reysol": 2.84,
-        "Draw": 3.4
+        "Daejeon Citizen": 10.0,
+        "Incheon United": 1.54,
+        "Draw": 3.65
       },
       "Matchbook": {
-        "FC Machida Zelvia": 2.54,
-        "Kashiwa Reysol": 2.96,
-        "Draw": 3.5
+        "Daejeon Citizen": 10.5,
+        "Incheon United": 1.53,
+        "Draw": 3.65
+      }
+    },
+    "0b39907e2c94a8e5bbfd763f5ce0a8d5:h2h": {
+      "LeoVegas (SE)": {
+        "FC Seoul": 4.8,
+        "Pohang Steelers": 1.68,
+        "Draw": 2.7
+      },
+      "PMU (FR)": {
+        "FC Seoul": 4.25,
+        "Pohang Steelers": 1.72,
+        "Draw": 2.55
+      },
+      "Unibet (NL)": {
+        "FC Seoul": 4.6,
+        "Pohang Steelers": 1.88,
+        "Draw": 2.8
+      },
+      "Unibet (SE)": {
+        "FC Seoul": 5.0,
+        "Pohang Steelers": 1.79,
+        "Draw": 2.88
+      },
+      "Betclic (FR)": {
+        "FC Seoul": 4.85,
+        "Pohang Steelers": 1.77,
+        "Draw": 2.98
+      },
+      "Nordic Bet": {
+        "FC Seoul": 4.85,
+        "Pohang Steelers": 1.78,
+        "Draw": 3.05
+      },
+      "Betsson": {
+        "FC Seoul": 4.6,
+        "Pohang Steelers": 1.82,
+        "Draw": 3.05
+      },
+      "Pinnacle": {
+        "FC Seoul": 5.44,
+        "Pohang Steelers": 1.81,
+        "Draw": 3.09
+      },
+      "Winamax (DE)": {
+        "FC Seoul": 5.1,
+        "Pohang Steelers": 1.74,
+        "Draw": 3.0
+      },
+      "Winamax (FR)": {
+        "FC Seoul": 4.8,
+        "Pohang Steelers": 1.7,
+        "Draw": 2.9
+      },
+      "Tipico": {
+        "FC Seoul": 4.5,
+        "Pohang Steelers": 1.8,
+        "Draw": 3.2
+      },
+      "Coolbet": {
+        "FC Seoul": 5.0,
+        "Pohang Steelers": 1.8,
+        "Draw": 3.14
+      },
+      "Betfair": {
+        "FC Seoul": 6.0,
+        "Pohang Steelers": 1.88,
+        "Draw": 3.15
+      },
+      "Matchbook": {
+        "FC Seoul": 6.2,
+        "Pohang Steelers": 1.85,
+        "Draw": 3.2
+      }
+    },
+    "943ccf70b92b1561e7e0afb049c4acb6:h2h": {
+      "Betclic (FR)": {
+        "FC Utrecht": 85.0,
+        "Feyenoord": 1.0,
+        "Draw": 40.0
+      },
+      "Betsson": {
+        "FC Utrecht": 41.0,
+        "Feyenoord": 1.0,
+        "Draw": 19.0
+      },
+      "Nordic Bet": {
+        "FC Utrecht": 41.0,
+        "Feyenoord": 1.0,
+        "Draw": 19.0
+      }
+    },
+    "7e6d584e6b640cc07f14eddfd01a0235:h2h": {
+      "Unibet (NL)": {
+        "Piast Gliwice": 2.7,
+        "Pogoń Szczecin": 3.05,
+        "Draw": 2.43
+      },
+      "LeoVegas (SE)": {
+        "Piast Gliwice": 2.55,
+        "Pogoń Szczecin": 2.85,
+        "Draw": 2.28
+      },
+      "PMU (FR)": {
+        "Piast Gliwice": 2.48,
+        "Pogoń Szczecin": 2.8,
+        "Draw": 2.23
+      },
+      "Unibet (SE)": {
+        "Piast Gliwice": 2.7,
+        "Pogoń Szczecin": 3.05,
+        "Draw": 2.43
+      },
+      "Betclic (FR)": {
+        "Piast Gliwice": 2.53,
+        "Pogoń Szczecin": 3.02,
+        "Draw": 2.4
+      },
+      "Coolbet": {
+        "Piast Gliwice": 2.75,
+        "Pogoń Szczecin": 3.25,
+        "Draw": 2.5
+      },
+      "Nordic Bet": {
+        "Piast Gliwice": 2.6,
+        "Pogoń Szczecin": 3.05,
+        "Draw": 2.5
+      },
+      "Betsson": {
+        "Piast Gliwice": 2.6,
+        "Pogoń Szczecin": 3.05,
+        "Draw": 2.5
+      },
+      "Winamax (FR)": {
+        "Piast Gliwice": 2.55,
+        "Pogoń Szczecin": 2.95,
+        "Draw": 2.4
+      },
+      "Winamax (DE)": {
+        "Piast Gliwice": 2.65,
+        "Pogoń Szczecin": 3.05,
+        "Draw": 2.45
+      },
+      "Pinnacle": {
+        "Piast Gliwice": 2.71,
+        "Pogoń Szczecin": 3.27,
+        "Draw": 2.55
+      },
+      "888sport": {
+        "Piast Gliwice": 2.5,
+        "Pogoń Szczecin": 3.1,
+        "Draw": 2.5
+      },
+      "Tipico": {
+        "Piast Gliwice": 2.5,
+        "Pogoń Szczecin": 3.4,
+        "Draw": 2.5
+      },
+      "Betfair": {
+        "Piast Gliwice": 2.9,
+        "Pogoń Szczecin": 3.35,
+        "Draw": 2.64
+      },
+      "Matchbook": {
+        "Piast Gliwice": 2.9,
+        "Pogoń Szczecin": 3.35,
+        "Draw": 2.64
       }
     }
   },
@@ -4141,28 +4016,60 @@
       "confidence": 6,
       "alert_type": "value",
       "alerted_at": "2026-09-20T04:50:44.905434+00:00"
+    },
+    {
+      "state_key": "f882c79a6fefb6de14a608753fbbecfb:h2h",
+      "event_id": "f882c79a6fefb6de14a608753fbbecfb",
+      "sport_key": "soccer",
+      "competition": "K League 1",
+      "home_team": "Incheon United",
+      "away_team": "Daejeon Citizen",
+      "commence_time": "2026-09-20T10:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Daejeon Citizen",
+      "odds_at_alert": 10.5,
+      "stake_pct": 2.0,
+      "confidence": 5,
+      "alert_type": "value",
+      "alerted_at": "2026-09-20T11:14:48.019689+00:00"
+    },
+    {
+      "state_key": "f882c79a6fefb6de14a608753fbbecfb:h2h",
+      "event_id": "f882c79a6fefb6de14a608753fbbecfb",
+      "sport_key": "soccer",
+      "competition": "K League 1",
+      "home_team": "Incheon United",
+      "away_team": "Daejeon Citizen",
+      "commence_time": "2026-09-20T10:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Daejeon Citizen",
+      "odds_at_alert": 10.5,
+      "stake_pct": 2.0,
+      "confidence": 5,
+      "alert_type": "value",
+      "alerted_at": "2026-09-20T11:14:48.465223+00:00"
+    },
+    {
+      "state_key": "0b39907e2c94a8e5bbfd763f5ce0a8d5:h2h",
+      "event_id": "0b39907e2c94a8e5bbfd763f5ce0a8d5",
+      "sport_key": "soccer",
+      "competition": "K League 1",
+      "home_team": "Pohang Steelers",
+      "away_team": "FC Seoul",
+      "commence_time": "2026-09-20T10:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Seoul",
+      "odds_at_alert": 6.2,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-09-20T11:14:48.921391+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "9009d19260414656a0fb7f363111d8ef:h2h|Betfair|Gwangju FC",
-    "9009d19260414656a0fb7f363111d8ef:h2h|Matchbook|Gwangju FC",
-    "fe5415aa1fd618d2d3b8f4efd0f8d8c7:h2h|888sport|América",
-    "fe5415aa1fd618d2d3b8f4efd0f8d8c7:h2h|Betfair|América",
-    "fe5415aa1fd618d2d3b8f4efd0f8d8c7:h2h|Betfair|Draw",
-    "fe5415aa1fd618d2d3b8f4efd0f8d8c7:h2h|Betsson|América",
-    "fe5415aa1fd618d2d3b8f4efd0f8d8c7:h2h|Coolbet|América",
-    "fe5415aa1fd618d2d3b8f4efd0f8d8c7:h2h|Coolbet|Draw",
-    "fe5415aa1fd618d2d3b8f4efd0f8d8c7:h2h|LeoVegas (SE)|América",
-    "fe5415aa1fd618d2d3b8f4efd0f8d8c7:h2h|LeoVegas (SE)|Draw",
-    "fe5415aa1fd618d2d3b8f4efd0f8d8c7:h2h|Matchbook|América",
-    "fe5415aa1fd618d2d3b8f4efd0f8d8c7:h2h|Matchbook|Draw",
-    "fe5415aa1fd618d2d3b8f4efd0f8d8c7:h2h|Nordic Bet|América",
-    "fe5415aa1fd618d2d3b8f4efd0f8d8c7:h2h|Tipico|América",
-    "fe5415aa1fd618d2d3b8f4efd0f8d8c7:h2h|Tipico|Draw",
-    "fe5415aa1fd618d2d3b8f4efd0f8d8c7:h2h|Unibet (NL)|América",
-    "fe5415aa1fd618d2d3b8f4efd0f8d8c7:h2h|Unibet (NL)|Draw",
-    "fe5415aa1fd618d2d3b8f4efd0f8d8c7:h2h|Unibet (SE)|América",
-    "fe5415aa1fd618d2d3b8f4efd0f8d8c7:h2h|Unibet (SE)|Draw"
+    "0b39907e2c94a8e5bbfd763f5ce0a8d5:h2h|Matchbook|FC Seoul",
+    "f882c79a6fefb6de14a608753fbbecfb:h2h|Matchbook|Daejeon Citizen",
+    "f882c79a6fefb6de14a608753fbbecfb:h2h|Unibet (NL)|Daejeon Citizen"
   ]
 }
