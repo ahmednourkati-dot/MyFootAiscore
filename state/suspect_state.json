@@ -1,281 +1,221 @@
 {
   "snapshots": {
-    "782730985e103bbd5004b00e1c2713c0:h2h": {
-      "Betclic (FR)": {
-        "Aldosivi Mar del Plata": 1.05,
-        "Atlético Tucuman": 38.0,
-        "Draw": 8.0
-      },
-      "Winamax (DE)": {
-        "Aldosivi Mar del Plata": 1.04,
-        "Atlético Tucuman": 110.0,
-        "Draw": 9.5
-      },
-      "Winamax (FR)": {
-        "Aldosivi Mar del Plata": 1.07,
-        "Atlético Tucuman": 110.0,
-        "Draw": 9.0
-      },
-      "Betsson": {
-        "Aldosivi Mar del Plata": 1.05,
-        "Atlético Tucuman": 80.0,
-        "Draw": 9.0
-      },
-      "Nordic Bet": {
-        "Aldosivi Mar del Plata": 1.05,
-        "Atlético Tucuman": 55.0,
-        "Draw": 7.7
-      },
-      "LeoVegas (SE)": {
-        "Aldosivi Mar del Plata": 1.04,
-        "Atlético Tucuman": 67.0,
-        "Draw": 8.5
-      },
-      "Unibet (SE)": {
-        "Aldosivi Mar del Plata": 1.07,
-        "Atlético Tucuman": 91.0,
-        "Draw": 9.0
-      },
-      "Betfair": {
-        "Aldosivi Mar del Plata": 1.11,
-        "Atlético Tucuman": 100.0,
-        "Draw": 10.0
-      }
-    },
     "54c1dc49525a7b5ef4f5ecc73babc144:h2h": {
-      "Codere (IT)": {
-        "Barracas Central": 3.35,
-        "Independiente Rivadavia": 2.39,
-        "Draw": 2.9
-      },
       "Winamax (FR)": {
-        "Barracas Central": 3.1,
-        "Independiente Rivadavia": 2.25,
-        "Draw": 2.85
+        "Barracas Central": 17.0,
+        "Independiente Rivadavia": 1.24,
+        "Draw": 4.3
       },
       "Winamax (DE)": {
-        "Barracas Central": 3.15,
-        "Independiente Rivadavia": 2.3,
-        "Draw": 2.9
-      },
-      "Unibet (FR)": {
-        "Barracas Central": 3.2,
-        "Independiente Rivadavia": 2.2,
-        "Draw": 2.8
+        "Barracas Central": 18.0,
+        "Independiente Rivadavia": 1.23,
+        "Draw": 4.5
       },
       "Betclic (FR)": {
-        "Barracas Central": 3.18,
-        "Independiente Rivadavia": 2.23,
-        "Draw": 2.78
-      },
-      "1xBet": {
-        "Barracas Central": 3.35,
-        "Independiente Rivadavia": 2.39,
-        "Draw": 2.98
-      },
-      "Marathon Bet": {
-        "Barracas Central": 3.28,
-        "Independiente Rivadavia": 2.34,
-        "Draw": 2.92
-      },
-      "Betsson": {
-        "Barracas Central": 3.45,
-        "Independiente Rivadavia": 2.35,
-        "Draw": 2.92
+        "Barracas Central": 14.0,
+        "Independiente Rivadavia": 1.21,
+        "Draw": 4.15
       },
       "Nordic Bet": {
-        "Barracas Central": 3.45,
-        "Independiente Rivadavia": 2.35,
-        "Draw": 2.92
+        "Barracas Central": 17.5,
+        "Independiente Rivadavia": 1.23,
+        "Draw": 4.4
       },
       "LeoVegas (SE)": {
-        "Barracas Central": 3.05,
-        "Independiente Rivadavia": 2.23,
-        "Draw": 2.75
+        "Barracas Central": 15.0,
+        "Independiente Rivadavia": 1.2,
+        "Draw": 4.25
       },
       "Unibet (SE)": {
-        "Barracas Central": 3.3,
-        "Independiente Rivadavia": 2.38,
-        "Draw": 2.95
+        "Barracas Central": 16.0,
+        "Independiente Rivadavia": 1.26,
+        "Draw": 4.5
       },
       "Pinnacle": {
-        "Barracas Central": 3.45,
-        "Independiente Rivadavia": 2.46,
-        "Draw": 2.97
-      },
-      "BetOnline.ag": {
-        "Barracas Central": 3.58,
-        "Independiente Rivadavia": 2.38,
-        "Draw": 2.98
+        "Barracas Central": 15.72,
+        "Independiente Rivadavia": 1.32,
+        "Draw": 4.33
       },
       "Betfair": {
-        "Barracas Central": 3.6,
-        "Independiente Rivadavia": 2.48,
-        "Draw": 3.05
-      },
-      "BetAnything": {
-        "Barracas Central": 3.57,
-        "Independiente Rivadavia": 2.38,
-        "Draw": 2.98
-      }
-    },
-    "78a21a3e1f67817812ae04f26b1b97c4:h2h": {
-      "LeoVegas (SE)": {
-        "Criciuma": 1.81,
-        "Operario PR": 4.1,
-        "Draw": 3.0
-      },
-      "Unibet (NL)": {
-        "Criciuma": 1.88,
-        "Operario PR": 4.35,
-        "Draw": 3.2
-      },
-      "Unibet (SE)": {
-        "Criciuma": 1.88,
-        "Operario PR": 4.35,
-        "Draw": 3.2
-      },
-      "BetOnline.ag": {
-        "Criciuma": 1.96,
-        "Operario PR": 4.3,
-        "Draw": 3.1
-      },
-      "Betsson": {
-        "Criciuma": 1.95,
-        "Operario PR": 3.95,
-        "Draw": 3.1
-      },
-      "Nordic Bet": {
-        "Criciuma": 1.95,
-        "Operario PR": 3.95,
-        "Draw": 3.1
-      },
-      "Coolbet": {
-        "Criciuma": 1.93,
-        "Operario PR": 4.0,
-        "Draw": 3.3
-      },
-      "1xBet": {
-        "Criciuma": 1.92,
-        "Operario PR": 4.21,
-        "Draw": 3.12
-      },
-      "Pinnacle": {
-        "Criciuma": 1.97,
-        "Operario PR": 4.51,
-        "Draw": 3.2
-      },
-      "Marathon Bet": {
-        "Criciuma": 1.9,
-        "Operario PR": 4.2,
-        "Draw": 3.12
-      },
-      "888sport": {
-        "Criciuma": 1.95,
-        "Operario PR": 4.0,
-        "Draw": 3.0
-      },
-      "William Hill": {
-        "Criciuma": 1.95,
-        "Operario PR": 4.0,
-        "Draw": 3.0
-      },
-      "Tipico": {
-        "Criciuma": 1.77,
-        "Operario PR": 4.4,
-        "Draw": 3.2
-      },
-      "Codere (IT)": {
-        "Criciuma": 1.94,
-        "Operario PR": 3.95,
-        "Draw": 3.15
-      },
-      "Matchbook": {
-        "Criciuma": 2.02,
-        "Operario PR": 4.7,
-        "Draw": 3.35
-      },
-      "Betfair": {
-        "Criciuma": 2.02,
-        "Operario PR": 4.8,
-        "Draw": 3.35
+        "Barracas Central": 21.0,
+        "Independiente Rivadavia": 1.31,
+        "Draw": 5.0
       }
     },
     "ec562b18ddb574adbc63c924dcff2ccb:h2h": {
       "Winamax (FR)": {
-        "Estudiantes": 3.35,
-        "Lanus": 2.1,
-        "Draw": 2.9
-      },
-      "Winamax (DE)": {
-        "Estudiantes": 3.45,
-        "Lanus": 2.15,
-        "Draw": 2.95
-      },
-      "Codere (IT)": {
-        "Estudiantes": 3.65,
-        "Lanus": 2.22,
-        "Draw": 2.95
-      },
-      "Unibet (FR)": {
-        "Estudiantes": 3.45,
+        "Estudiantes": 3.5,
         "Lanus": 2.05,
         "Draw": 2.85
       },
+      "Winamax (DE)": {
+        "Estudiantes": 3.55,
+        "Lanus": 2.1,
+        "Draw": 2.9
+      },
+      "Codere (IT)": {
+        "Estudiantes": 3.8,
+        "Lanus": 2.2,
+        "Draw": 2.95
+      },
+      "Unibet (FR)": {
+        "Estudiantes": 3.6,
+        "Lanus": 2.0,
+        "Draw": 2.8
+      },
       "Betclic (FR)": {
-        "Estudiantes": 3.47,
-        "Lanus": 2.08,
-        "Draw": 2.83
+        "Estudiantes": 3.58,
+        "Lanus": 2.07,
+        "Draw": 2.8
       },
       "1xBet": {
-        "Estudiantes": 3.9,
-        "Lanus": 2.27,
-        "Draw": 2.98
+        "Estudiantes": 4.0,
+        "Lanus": 2.22,
+        "Draw": 3.02
       },
       "Marathon Bet": {
-        "Estudiantes": 3.74,
-        "Lanus": 2.18,
-        "Draw": 2.86
-      },
-      "Betsson": {
-        "Estudiantes": 3.55,
-        "Lanus": 2.32,
-        "Draw": 2.92
+        "Estudiantes": 3.84,
+        "Lanus": 2.13,
+        "Draw": 2.9
       },
       "Nordic Bet": {
-        "Estudiantes": 3.55,
-        "Lanus": 2.32,
+        "Estudiantes": 3.95,
+        "Lanus": 2.15,
         "Draw": 2.92
       },
       "LeoVegas (SE)": {
-        "Estudiantes": 3.4,
-        "Lanus": 2.05,
-        "Draw": 2.75
+        "Estudiantes": 3.55,
+        "Lanus": 1.95,
+        "Draw": 2.8
       },
       "Unibet (SE)": {
-        "Estudiantes": 3.65,
-        "Lanus": 2.18,
-        "Draw": 2.95
-      },
-      "Pinnacle": {
-        "Estudiantes": 3.95,
-        "Lanus": 2.27,
-        "Draw": 2.94
-      },
-      "BetOnline.ag": {
-        "Estudiantes": 3.9,
-        "Lanus": 2.3,
-        "Draw": 2.91
-      },
-      "Betfair": {
-        "Estudiantes": 4.0,
-        "Lanus": 2.34,
+        "Estudiantes": 3.85,
+        "Lanus": 2.08,
         "Draw": 3.0
       },
+      "Pinnacle": {
+        "Estudiantes": 4.01,
+        "Lanus": 2.2,
+        "Draw": 3.03
+      },
+      "BetOnline.ag": {
+        "Estudiantes": 4.05,
+        "Lanus": 2.22,
+        "Draw": 2.96
+      },
+      "Betfair": {
+        "Estudiantes": 4.1,
+        "Lanus": 2.26,
+        "Draw": 3.05
+      },
       "BetAnything": {
-        "Estudiantes": 3.9,
-        "Lanus": 2.3,
-        "Draw": 2.91
+        "Estudiantes": 4.05,
+        "Lanus": 2.22,
+        "Draw": 2.96
+      }
+    },
+    "73f7807ab09d52cb221b0199bb3d93f9:h2h": {
+      "Unibet (SE)": {
+        "Cuiabá": 2.12,
+        "Nautico PE": 3.4,
+        "Draw": 3.25
+      },
+      "Unibet (NL)": {
+        "Cuiabá": 2.12,
+        "Nautico PE": 3.4,
+        "Draw": 3.25
+      },
+      "LeoVegas (SE)": {
+        "Cuiabá": 2.04,
+        "Nautico PE": 3.25,
+        "Draw": 3.1
+      },
+      "Coolbet": {
+        "Cuiabá": 2.12,
+        "Nautico PE": 3.4,
+        "Draw": 3.25
+      },
+      "BetOnline.ag": {
+        "Cuiabá": 2.1,
+        "Nautico PE": 3.7,
+        "Draw": 3.15
+      },
+      "Nordic Bet": {
+        "Cuiabá": 2.1,
+        "Nautico PE": 3.45,
+        "Draw": 3.1
+      },
+      "1xBet": {
+        "Cuiabá": 2.07,
+        "Nautico PE": 3.6,
+        "Draw": 3.14
+      },
+      "Pinnacle": {
+        "Cuiabá": 2.13,
+        "Nautico PE": 3.84,
+        "Draw": 3.23
+      },
+      "Marathon Bet": {
+        "Cuiabá": 2.05,
+        "Nautico PE": 3.58,
+        "Draw": 3.14
+      },
+      "888sport": {
+        "Cuiabá": 2.1,
+        "Nautico PE": 3.5,
+        "Draw": 3.0
+      },
+      "William Hill": {
+        "Cuiabá": 2.1,
+        "Nautico PE": 3.5,
+        "Draw": 3.0
+      },
+      "Codere (IT)": {
+        "Cuiabá": 2.09,
+        "Nautico PE": 3.45,
+        "Draw": 3.1
+      },
+      "Matchbook": {
+        "Cuiabá": 2.18,
+        "Nautico PE": 4.0,
+        "Draw": 3.3
+      },
+      "Betfair": {
+        "Cuiabá": 2.18,
+        "Nautico PE": 4.0,
+        "Draw": 3.3
+      }
+    },
+    "e3b2e1bc6a1e29253bc6848954a6efba:h2h": {
+      "Pinnacle": {
+        "BK Hacken": 2.95,
+        "Inter Milan": 2.23,
+        "Draw": 3.43
+      },
+      "Betfair": {
+        "BK Hacken": 3.1,
+        "Inter Milan": 2.24,
+        "Draw": 3.65
+      },
+      "Nordic Bet": {
+        "BK Hacken": 2.85,
+        "Inter Milan": 2.22,
+        "Draw": 3.3
+      },
+      "Unibet (FR)": {
+        "BK Hacken": 2.9,
+        "Inter Milan": 2.1,
+        "Draw": 3.4
+      },
+      "Betclic (FR)": {
+        "BK Hacken": 2.85,
+        "Inter Milan": 2.13,
+        "Draw": 3.32
+      },
+      "BetOnline.ag": {
+        "BK Hacken": 2.83,
+        "Inter Milan": 2.18,
+        "Draw": 3.32
       }
     }
   },
@@ -4360,8 +4300,77 @@
       "confidence": 7,
       "alert_type": "value",
       "alerted_at": "2026-09-20T22:23:25.949389+00:00"
+    },
+    {
+      "state_key": "54c1dc49525a7b5ef4f5ecc73babc144:h2h",
+      "event_id": "54c1dc49525a7b5ef4f5ecc73babc144",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Barracas Central",
+      "away_team": "Independiente Rivadavia",
+      "commence_time": "2026-09-21T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Barracas Central",
+      "odds_at_alert": 18.0,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-09-21T23:13:58.998157+00:00"
+    },
+    {
+      "state_key": "54c1dc49525a7b5ef4f5ecc73babc144:h2h",
+      "event_id": "54c1dc49525a7b5ef4f5ecc73babc144",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Barracas Central",
+      "away_team": "Independiente Rivadavia",
+      "commence_time": "2026-09-21T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Barracas Central",
+      "odds_at_alert": 17.5,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-09-21T23:13:59.508891+00:00"
+    },
+    {
+      "state_key": "54c1dc49525a7b5ef4f5ecc73babc144:h2h",
+      "event_id": "54c1dc49525a7b5ef4f5ecc73babc144",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Barracas Central",
+      "away_team": "Independiente Rivadavia",
+      "commence_time": "2026-09-21T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Barracas Central",
+      "odds_at_alert": 21.0,
+      "stake_pct": 5.0,
+      "confidence": 27,
+      "alert_type": "value",
+      "alerted_at": "2026-09-21T23:13:59.846846+00:00"
+    },
+    {
+      "state_key": "54c1dc49525a7b5ef4f5ecc73babc144:h2h",
+      "event_id": "54c1dc49525a7b5ef4f5ecc73babc144",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Barracas Central",
+      "away_team": "Independiente Rivadavia",
+      "commence_time": "2026-09-21T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.0,
+      "stake_pct": 2.0,
+      "confidence": 10,
+      "alert_type": "value",
+      "alerted_at": "2026-09-21T23:14:00.169761+00:00"
     }
   ],
   "results_history": [],
-  "value_alerted": []
+  "value_alerted": [
+    "54c1dc49525a7b5ef4f5ecc73babc144:h2h|Betfair|Barracas Central",
+    "54c1dc49525a7b5ef4f5ecc73babc144:h2h|Betfair|Draw",
+    "54c1dc49525a7b5ef4f5ecc73babc144:h2h|Nordic Bet|Barracas Central",
+    "54c1dc49525a7b5ef4f5ecc73babc144:h2h|Winamax (DE)|Barracas Central"
+  ]
 }
