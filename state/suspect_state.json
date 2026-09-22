@@ -1,191 +1,117 @@
 {
   "snapshots": {
-    "e3b2e1bc6a1e29253bc6848954a6efba:h2h": {
-      "Pinnacle": {
-        "BK Hacken": 3.37,
-        "Inter Milan": 2.0,
-        "Draw": 3.74
-      },
+    "8674c07c68197a031ffe5e208e162249:h2h": {
       "Betfair": {
-        "BK Hacken": 3.8,
-        "Inter Milan": 2.06,
-        "Draw": 3.85
+        "Criciuma": 2.18,
+        "Operario PR": 4.0,
+        "Draw": 3.3
       },
-      "Nordic Bet": {
-        "BK Hacken": 3.1,
-        "Inter Milan": 1.92,
-        "Draw": 3.4
+      "Codere (IT)": {
+        "Criciuma": 2.09,
+        "Operario PR": 3.55,
+        "Draw": 3.05
       },
-      "Betsson": {
-        "BK Hacken": 3.25,
-        "Inter Milan": 1.98,
-        "Draw": 3.4
-      },
-      "Unibet (FR)": {
-        "BK Hacken": 3.0,
-        "Inter Milan": 1.88,
-        "Draw": 3.2
-      },
-      "Betclic (FR)": {
-        "BK Hacken": 6.1,
-        "Inter Milan": 1.33,
-        "Draw": 4.25
+      "Tipico": {
+        "Criciuma": 1.93,
+        "Operario PR": 3.8,
+        "Draw": 3.1
       },
       "BetOnline.ag": {
-        "BK Hacken": 3.19,
-        "Inter Milan": 1.98,
-        "Draw": 3.41
+        "Criciuma": 2.12,
+        "Operario PR": 3.7,
+        "Draw": 3.1
+      },
+      "Coolbet": {
+        "Criciuma": 2.08,
+        "Operario PR": 3.75,
+        "Draw": 3.15
+      },
+      "Matchbook": {
+        "Criciuma": 2.16,
+        "Operario PR": 4.0,
+        "Draw": 3.3
+      },
+      "Marathon Bet": {
+        "Criciuma": 2.05,
+        "Operario PR": 3.74,
+        "Draw": 3.02
+      },
+      "1xBet": {
+        "Criciuma": 2.07,
+        "Operario PR": 3.77,
+        "Draw": 3.02
+      },
+      "Pinnacle": {
+        "Criciuma": 2.14,
+        "Operario PR": 3.86,
+        "Draw": 3.2
+      },
+      "Unibet (NL)": {
+        "Criciuma": 2.02,
+        "Operario PR": 3.9,
+        "Draw": 3.1
+      },
+      "LeoVegas (SE)": {
+        "Criciuma": 1.94,
+        "Operario PR": 3.7,
+        "Draw": 2.95
+      },
+      "Unibet (SE)": {
+        "Criciuma": 2.02,
+        "Operario PR": 3.9,
+        "Draw": 3.1
       }
     },
-    "15ca23c3e73a7b48f076c2d195eb198c:h2h": {
-      "Betfair": {
-        "Bayern Munich": 1.94,
-        "Manchester City": 3.7,
-        "Draw": 4.5
-      },
-      "Nordic Bet": {
-        "Bayern Munich": 1.8,
-        "Manchester City": 3.05,
-        "Draw": 4.1
-      },
-      "Betsson": {
-        "Bayern Munich": 1.88,
-        "Manchester City": 3.1,
-        "Draw": 4.05
-      },
-      "Unibet (FR)": {
-        "Bayern Munich": 1.82,
-        "Manchester City": 3.0,
-        "Draw": 4.3
-      },
+    "ed1e48c3198923dec3e3990c3c8b899a:h2h": {
       "888sport": {
-        "Bayern Munich": 1.85,
-        "Manchester City": 3.0,
+        "AS Roma": 1.61,
+        "Leuven": 4.4,
         "Draw": 3.6
       },
       "William Hill": {
-        "Bayern Munich": 1.85,
-        "Manchester City": 2.9,
-        "Draw": 3.9
-      },
-      "Betclic (FR)": {
-        "Bayern Munich": 1.78,
-        "Manchester City": 3.1,
-        "Draw": 3.75
+        "AS Roma": 1.62,
+        "Leuven": 4.4,
+        "Draw": 3.6
       },
       "Pinnacle": {
-        "Bayern Munich": 1.93,
-        "Manchester City": 3.11,
+        "AS Roma": 1.64,
+        "Leuven": 4.13,
         "Draw": 4.44
       },
       "BetOnline.ag": {
-        "Bayern Munich": 1.88,
-        "Manchester City": 3.1,
-        "Draw": 4.16
+        "AS Roma": 1.62,
+        "Leuven": 4.27,
+        "Draw": 4.02
+      },
+      "Betfair": {
+        "AS Roma": 1.67,
+        "Leuven": 4.7,
+        "Draw": 4.3
       },
       "Unibet (NL)": {
-        "Bayern Munich": 1.87,
-        "Manchester City": 3.3,
-        "Draw": 4.1
-      },
-      "PMU (FR)": {
-        "Bayern Munich": 1.67,
-        "Manchester City": 2.95,
-        "Draw": 3.65
-      },
-      "Coolbet": {
-        "Bayern Munich": 2.0,
-        "Manchester City": 3.0,
+        "AS Roma": 1.68,
+        "Leuven": 4.5,
         "Draw": 4.0
       },
-      "1xBet": {
-        "Bayern Munich": 1.74,
-        "Manchester City": 3.75,
-        "Draw": 4.4
-      }
-    },
-    "5a99ef18684426edb0cc36277f85f2b5:h2h": {
-      "LeoVegas (SE)": {
-        "AFC Telford United": 3.1,
-        "Worksop Town FC": 2.0,
-        "Draw": 3.45
+      "Unibet (FR)": {
+        "AS Roma": 1.6,
+        "Leuven": 4.2,
+        "Draw": 4.0
       },
-      "Unibet (SE)": {
-        "AFC Telford United": 3.1,
-        "Worksop Town FC": 2.0,
-        "Draw": 3.45
+      "Betclic (FR)": {
+        "AS Roma": 1.61,
+        "Leuven": 4.15,
+        "Draw": 3.9
       },
       "1xBet": {
-        "AFC Telford United": 2.94,
-        "Worksop Town FC": 2.03,
-        "Draw": 3.66
+        "AS Roma": 1.58,
+        "Leuven": 4.59,
+        "Draw": 3.92
       },
-      "Marathon Bet": {
-        "AFC Telford United": 2.88,
-        "Worksop Town FC": 2.01,
-        "Draw": 3.66
-      },
-      "Codere (IT)": {
-        "AFC Telford United": 3.1,
-        "Worksop Town FC": 2.09,
-        "Draw": 3.7
-      },
-      "Winamax (DE)": {
-        "AFC Telford United": 3.0,
-        "Worksop Town FC": 2.0,
-        "Draw": 3.7
-      },
-      "Betsson": {
-        "AFC Telford United": 3.2,
-        "Worksop Town FC": 2.02,
-        "Draw": 3.45
-      },
-      "Nordic Bet": {
-        "AFC Telford United": 3.2,
-        "Worksop Town FC": 2.02,
-        "Draw": 3.45
-      }
-    },
-    "b7689a7dd6f68038c8b93ca72ea59b89:h2h": {
-      "LeoVegas (SE)": {
-        "Chippenham Town FC": 2.07,
-        "Yate Town FC": 2.95,
-        "Draw": 3.35
-      },
-      "Winamax (DE)": {
-        "Chippenham Town FC": 2.25,
-        "Yate Town FC": 2.55,
-        "Draw": 3.75
-      },
-      "Codere (IT)": {
-        "Chippenham Town FC": 2.35,
-        "Yate Town FC": 2.65,
-        "Draw": 3.7
-      },
-      "Nordic Bet": {
-        "Chippenham Town FC": 2.22,
-        "Yate Town FC": 2.85,
-        "Draw": 3.45
-      },
-      "Unibet (SE)": {
-        "Chippenham Town FC": 2.07,
-        "Yate Town FC": 2.95,
-        "Draw": 3.35
-      },
-      "Marathon Bet": {
-        "Chippenham Town FC": 2.19,
-        "Yate Town FC": 2.62,
-        "Draw": 3.58
-      },
-      "1xBet": {
-        "Chippenham Town FC": 2.22,
-        "Yate Town FC": 2.67,
-        "Draw": 3.56
-      },
-      "Betsson": {
-        "Chippenham Town FC": 2.22,
-        "Yate Town FC": 2.85,
-        "Draw": 3.45
+      "Coolbet": {
+        "AS Roma": 1.67,
+        "Leuven": 4.75,
+        "Draw": 4.2
       }
     }
   },
@@ -4334,15 +4260,43 @@
       "confidence": 13,
       "alert_type": "value",
       "alerted_at": "2026-09-22T16:51:25.496626+00:00"
+    },
+    {
+      "state_key": "ed1e48c3198923dec3e3990c3c8b899a:h2h",
+      "event_id": "ed1e48c3198923dec3e3990c3c8b899a",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League Women",
+      "home_team": "Leuven",
+      "away_team": "AS Roma",
+      "commence_time": "2026-09-23T16:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Leuven",
+      "odds_at_alert": 4.7,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-09-22T21:13:40.181257+00:00"
+    },
+    {
+      "state_key": "ed1e48c3198923dec3e3990c3c8b899a:h2h",
+      "event_id": "ed1e48c3198923dec3e3990c3c8b899a",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League Women",
+      "home_team": "Leuven",
+      "away_team": "AS Roma",
+      "commence_time": "2026-09-23T16:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Leuven",
+      "odds_at_alert": 4.75,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-09-22T21:13:40.694936+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "15ca23c3e73a7b48f076c2d195eb198c:h2h|1xBet|Manchester City",
-    "15ca23c3e73a7b48f076c2d195eb198c:h2h|Betfair|Manchester City",
-    "15ca23c3e73a7b48f076c2d195eb198c:h2h|Unibet (NL)|Manchester City",
-    "e3b2e1bc6a1e29253bc6848954a6efba:h2h|Betclic (FR)|BK Hacken",
-    "e3b2e1bc6a1e29253bc6848954a6efba:h2h|Betclic (FR)|Draw",
-    "e3b2e1bc6a1e29253bc6848954a6efba:h2h|Betfair|BK Hacken"
+    "ed1e48c3198923dec3e3990c3c8b899a:h2h|Betfair|Leuven",
+    "ed1e48c3198923dec3e3990c3c8b899a:h2h|Coolbet|Leuven"
   ]
 }
