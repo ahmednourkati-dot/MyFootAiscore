@@ -2,170 +2,190 @@
   "snapshots": {
     "e3b2e1bc6a1e29253bc6848954a6efba:h2h": {
       "Pinnacle": {
-        "BK Hacken": 3.02,
-        "Inter Milan": 2.15,
-        "Draw": 3.55
+        "BK Hacken": 3.37,
+        "Inter Milan": 2.0,
+        "Draw": 3.74
       },
       "Betfair": {
-        "BK Hacken": 3.4,
-        "Inter Milan": 2.14,
-        "Draw": 3.95
+        "BK Hacken": 3.8,
+        "Inter Milan": 2.06,
+        "Draw": 3.85
       },
       "Nordic Bet": {
         "BK Hacken": 3.1,
-        "Inter Milan": 2.05,
+        "Inter Milan": 1.92,
+        "Draw": 3.4
+      },
+      "Betsson": {
+        "BK Hacken": 3.25,
+        "Inter Milan": 1.98,
         "Draw": 3.4
       },
       "Unibet (FR)": {
-        "BK Hacken": 2.9,
-        "Inter Milan": 1.96,
+        "BK Hacken": 3.0,
+        "Inter Milan": 1.88,
         "Draw": 3.2
       },
       "Betclic (FR)": {
-        "BK Hacken": 3.05,
-        "Inter Milan": 2.05,
-        "Draw": 3.4
+        "BK Hacken": 6.1,
+        "Inter Milan": 1.33,
+        "Draw": 4.25
       },
       "BetOnline.ag": {
-        "BK Hacken": 3.1,
-        "Inter Milan": 2.01,
-        "Draw": 3.45
+        "BK Hacken": 3.19,
+        "Inter Milan": 1.98,
+        "Draw": 3.41
       }
     },
     "15ca23c3e73a7b48f076c2d195eb198c:h2h": {
       "Betfair": {
-        "Bayern Munich": 2.14,
-        "Manchester City": 3.1,
-        "Draw": 4.2
+        "Bayern Munich": 1.94,
+        "Manchester City": 3.7,
+        "Draw": 4.5
       },
       "Nordic Bet": {
-        "Bayern Munich": 2.05,
-        "Manchester City": 2.8,
-        "Draw": 3.8
+        "Bayern Munich": 1.8,
+        "Manchester City": 3.05,
+        "Draw": 4.1
+      },
+      "Betsson": {
+        "Bayern Munich": 1.88,
+        "Manchester City": 3.1,
+        "Draw": 4.05
       },
       "Unibet (FR)": {
-        "Bayern Munich": 1.95,
-        "Manchester City": 2.9,
-        "Draw": 4.0
+        "Bayern Munich": 1.82,
+        "Manchester City": 3.0,
+        "Draw": 4.3
       },
       "888sport": {
-        "Bayern Munich": 2.05,
-        "Manchester City": 2.8,
+        "Bayern Munich": 1.85,
+        "Manchester City": 3.0,
         "Draw": 3.6
       },
       "William Hill": {
-        "Bayern Munich": 2.05,
-        "Manchester City": 2.8,
-        "Draw": 3.6
+        "Bayern Munich": 1.85,
+        "Manchester City": 2.9,
+        "Draw": 3.9
       },
       "Betclic (FR)": {
-        "Bayern Munich": 2.05,
-        "Manchester City": 2.78,
-        "Draw": 3.8
+        "Bayern Munich": 1.78,
+        "Manchester City": 3.1,
+        "Draw": 3.75
       },
       "Pinnacle": {
-        "Bayern Munich": 2.03,
-        "Manchester City": 2.77,
-        "Draw": 3.97
+        "Bayern Munich": 1.93,
+        "Manchester City": 3.11,
+        "Draw": 4.44
       },
       "BetOnline.ag": {
-        "Bayern Munich": 2.01,
-        "Manchester City": 2.82,
-        "Draw": 3.91
+        "Bayern Munich": 1.88,
+        "Manchester City": 3.1,
+        "Draw": 4.16
       },
       "Unibet (NL)": {
-        "Bayern Munich": 2.12,
-        "Manchester City": 2.85,
-        "Draw": 4.0
+        "Bayern Munich": 1.87,
+        "Manchester City": 3.3,
+        "Draw": 4.1
       },
       "PMU (FR)": {
-        "Bayern Munich": 1.95,
-        "Manchester City": 2.63,
+        "Bayern Munich": 1.67,
+        "Manchester City": 2.95,
         "Draw": 3.65
       },
       "Coolbet": {
-        "Bayern Munich": 2.03,
+        "Bayern Munich": 2.0,
         "Manchester City": 3.0,
-        "Draw": 4.1
+        "Draw": 4.0
       },
       "1xBet": {
-        "Bayern Munich": 2.03,
-        "Manchester City": 2.83,
-        "Draw": 3.84
+        "Bayern Munich": 1.74,
+        "Manchester City": 3.75,
+        "Draw": 4.4
       }
     },
     "5a99ef18684426edb0cc36277f85f2b5:h2h": {
       "LeoVegas (SE)": {
-        "AFC Telford United": 3.25,
-        "Worksop Town FC": 2.02,
-        "Draw": 3.2
+        "AFC Telford United": 3.1,
+        "Worksop Town FC": 2.0,
+        "Draw": 3.45
       },
       "Unibet (SE)": {
-        "AFC Telford United": 3.25,
-        "Worksop Town FC": 2.02,
-        "Draw": 3.2
+        "AFC Telford United": 3.1,
+        "Worksop Town FC": 2.0,
+        "Draw": 3.45
       },
       "1xBet": {
-        "AFC Telford United": 3.56,
-        "Worksop Town FC": 1.77,
-        "Draw": 3.85
+        "AFC Telford United": 2.94,
+        "Worksop Town FC": 2.03,
+        "Draw": 3.66
       },
       "Marathon Bet": {
-        "AFC Telford United": 3.34,
-        "Worksop Town FC": 1.78,
-        "Draw": 3.88
+        "AFC Telford United": 2.88,
+        "Worksop Town FC": 2.01,
+        "Draw": 3.66
       },
       "Codere (IT)": {
-        "AFC Telford United": 3.7,
-        "Worksop Town FC": 1.89,
+        "AFC Telford United": 3.1,
+        "Worksop Town FC": 2.09,
         "Draw": 3.7
       },
       "Winamax (DE)": {
-        "AFC Telford United": 3.5,
-        "Worksop Town FC": 1.84,
+        "AFC Telford United": 3.0,
+        "Worksop Town FC": 2.0,
         "Draw": 3.7
       },
+      "Betsson": {
+        "AFC Telford United": 3.2,
+        "Worksop Town FC": 2.02,
+        "Draw": 3.45
+      },
       "Nordic Bet": {
-        "AFC Telford United": 4.4,
-        "Worksop Town FC": 1.75,
-        "Draw": 3.4
+        "AFC Telford United": 3.2,
+        "Worksop Town FC": 2.02,
+        "Draw": 3.45
       }
     },
-    "8de05deeb30c51a937c443b306c7e857:h2h": {
+    "b7689a7dd6f68038c8b93ca72ea59b89:h2h": {
       "LeoVegas (SE)": {
-        "Dagenham and Redbridge FC": 1.33,
-        "Waltham Abbey FC": 6.1,
-        "Draw": 5.0
-      },
-      "Unibet (SE)": {
-        "Dagenham and Redbridge FC": 1.33,
-        "Waltham Abbey FC": 6.1,
-        "Draw": 5.0
-      },
-      "Codere (IT)": {
-        "Dagenham and Redbridge FC": 1.39,
-        "Waltham Abbey FC": 6.6,
-        "Draw": 5.0
-      },
-      "1xBet": {
-        "Dagenham and Redbridge FC": 1.36,
-        "Waltham Abbey FC": 6.15,
-        "Draw": 4.8
+        "Chippenham Town FC": 2.07,
+        "Yate Town FC": 2.95,
+        "Draw": 3.35
       },
       "Winamax (DE)": {
-        "Dagenham and Redbridge FC": 1.36,
-        "Waltham Abbey FC": 6.0,
-        "Draw": 5.1
+        "Chippenham Town FC": 2.25,
+        "Yate Town FC": 2.55,
+        "Draw": 3.75
       },
-      "Marathon Bet": {
-        "Dagenham and Redbridge FC": 1.35,
-        "Waltham Abbey FC": 5.9,
-        "Draw": 4.8
+      "Codere (IT)": {
+        "Chippenham Town FC": 2.35,
+        "Yate Town FC": 2.65,
+        "Draw": 3.7
       },
       "Nordic Bet": {
-        "Dagenham and Redbridge FC": 1.4,
-        "Waltham Abbey FC": 6.3,
-        "Draw": 4.55
+        "Chippenham Town FC": 2.22,
+        "Yate Town FC": 2.85,
+        "Draw": 3.45
+      },
+      "Unibet (SE)": {
+        "Chippenham Town FC": 2.07,
+        "Yate Town FC": 2.95,
+        "Draw": 3.35
+      },
+      "Marathon Bet": {
+        "Chippenham Town FC": 2.19,
+        "Yate Town FC": 2.62,
+        "Draw": 3.58
+      },
+      "1xBet": {
+        "Chippenham Town FC": 2.22,
+        "Yate Town FC": 2.67,
+        "Draw": 3.56
+      },
+      "Betsson": {
+        "Chippenham Town FC": 2.22,
+        "Yate Town FC": 2.85,
+        "Draw": 3.45
       }
     }
   },
@@ -4234,10 +4254,95 @@
       "confidence": 9,
       "alert_type": "value",
       "alerted_at": "2026-09-22T04:46:18.131993+00:00"
+    },
+    {
+      "state_key": "e3b2e1bc6a1e29253bc6848954a6efba:h2h",
+      "event_id": "e3b2e1bc6a1e29253bc6848954a6efba",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League Women",
+      "home_team": "Inter Milan",
+      "away_team": "BK Hacken",
+      "commence_time": "2026-09-22T16:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "BK Hacken",
+      "odds_at_alert": 3.8,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-09-22T16:51:24.134646+00:00"
+    },
+    {
+      "state_key": "e3b2e1bc6a1e29253bc6848954a6efba:h2h",
+      "event_id": "e3b2e1bc6a1e29253bc6848954a6efba",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League Women",
+      "home_team": "Inter Milan",
+      "away_team": "BK Hacken",
+      "commence_time": "2026-09-22T16:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "BK Hacken",
+      "odds_at_alert": 6.1,
+      "stake_pct": 5.0,
+      "confidence": 70,
+      "alert_type": "value",
+      "alerted_at": "2026-09-22T16:51:24.489091+00:00"
+    },
+    {
+      "state_key": "e3b2e1bc6a1e29253bc6848954a6efba:h2h",
+      "event_id": "e3b2e1bc6a1e29253bc6848954a6efba",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League Women",
+      "home_team": "Inter Milan",
+      "away_team": "BK Hacken",
+      "commence_time": "2026-09-22T16:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.25,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-09-22T16:51:24.851437+00:00"
+    },
+    {
+      "state_key": "15ca23c3e73a7b48f076c2d195eb198c:h2h",
+      "event_id": "15ca23c3e73a7b48f076c2d195eb198c",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League Women",
+      "home_team": "Bayern Munich",
+      "away_team": "Manchester City",
+      "commence_time": "2026-09-22T16:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Manchester City",
+      "odds_at_alert": 3.7,
+      "stake_pct": 3.0,
+      "confidence": 12,
+      "alert_type": "value",
+      "alerted_at": "2026-09-22T16:51:25.173777+00:00"
+    },
+    {
+      "state_key": "15ca23c3e73a7b48f076c2d195eb198c:h2h",
+      "event_id": "15ca23c3e73a7b48f076c2d195eb198c",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League Women",
+      "home_team": "Bayern Munich",
+      "away_team": "Manchester City",
+      "commence_time": "2026-09-22T16:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Manchester City",
+      "odds_at_alert": 3.75,
+      "stake_pct": 3.0,
+      "confidence": 13,
+      "alert_type": "value",
+      "alerted_at": "2026-09-22T16:51:25.496626+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "15ca23c3e73a7b48f076c2d195eb198c:h2h|Unibet (NL)|Manchester City"
+    "15ca23c3e73a7b48f076c2d195eb198c:h2h|1xBet|Manchester City",
+    "15ca23c3e73a7b48f076c2d195eb198c:h2h|Betfair|Manchester City",
+    "15ca23c3e73a7b48f076c2d195eb198c:h2h|Unibet (NL)|Manchester City",
+    "e3b2e1bc6a1e29253bc6848954a6efba:h2h|Betclic (FR)|BK Hacken",
+    "e3b2e1bc6a1e29253bc6848954a6efba:h2h|Betclic (FR)|Draw",
+    "e3b2e1bc6a1e29253bc6848954a6efba:h2h|Betfair|BK Hacken"
   ]
 }
