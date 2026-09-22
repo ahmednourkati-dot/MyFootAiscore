@@ -2,101 +2,96 @@
   "snapshots": {
     "e3b2e1bc6a1e29253bc6848954a6efba:h2h": {
       "Pinnacle": {
-        "BK Hacken": 2.95,
-        "Inter Milan": 2.21,
-        "Draw": 3.49
+        "BK Hacken": 3.02,
+        "Inter Milan": 2.15,
+        "Draw": 3.55
       },
       "Betfair": {
-        "BK Hacken": 3.15,
-        "Inter Milan": 2.26,
-        "Draw": 3.8
+        "BK Hacken": 3.4,
+        "Inter Milan": 2.14,
+        "Draw": 3.95
       },
       "Nordic Bet": {
-        "BK Hacken": 2.9,
-        "Inter Milan": 2.18,
-        "Draw": 3.3
-      },
-      "Betsson": {
-        "BK Hacken": 2.9,
-        "Inter Milan": 2.18,
-        "Draw": 3.3
+        "BK Hacken": 3.1,
+        "Inter Milan": 2.05,
+        "Draw": 3.4
       },
       "Unibet (FR)": {
-        "BK Hacken": 2.8,
-        "Inter Milan": 2.0,
+        "BK Hacken": 2.9,
+        "Inter Milan": 1.96,
         "Draw": 3.2
       },
       "Betclic (FR)": {
-        "BK Hacken": 2.92,
-        "Inter Milan": 2.08,
-        "Draw": 3.35
+        "BK Hacken": 3.05,
+        "Inter Milan": 2.05,
+        "Draw": 3.4
       },
       "BetOnline.ag": {
-        "BK Hacken": 2.88,
-        "Inter Milan": 2.14,
-        "Draw": 3.38
+        "BK Hacken": 3.1,
+        "Inter Milan": 2.01,
+        "Draw": 3.45
       }
     },
     "15ca23c3e73a7b48f076c2d195eb198c:h2h": {
       "Betfair": {
-        "Bayern Munich": 2.2,
-        "Manchester City": 3.05,
-        "Draw": 4.3
+        "Bayern Munich": 2.14,
+        "Manchester City": 3.1,
+        "Draw": 4.2
       },
       "Nordic Bet": {
-        "Bayern Munich": 2.02,
-        "Manchester City": 2.9,
-        "Draw": 3.75
-      },
-      "Betsson": {
-        "Bayern Munich": 2.02,
-        "Manchester City": 2.9,
-        "Draw": 3.75
+        "Bayern Munich": 2.05,
+        "Manchester City": 2.8,
+        "Draw": 3.8
       },
       "Unibet (FR)": {
-        "Bayern Munich": 1.86,
-        "Manchester City": 3.1,
-        "Draw": 3.9
+        "Bayern Munich": 1.95,
+        "Manchester City": 2.9,
+        "Draw": 4.0
       },
       "888sport": {
-        "Bayern Munich": 2.0,
-        "Manchester City": 2.88,
+        "Bayern Munich": 2.05,
+        "Manchester City": 2.8,
         "Draw": 3.6
       },
       "William Hill": {
-        "Bayern Munich": 2.0,
-        "Manchester City": 2.88,
+        "Bayern Munich": 2.05,
+        "Manchester City": 2.8,
         "Draw": 3.6
       },
       "Betclic (FR)": {
-        "Bayern Munich": 1.96,
-        "Manchester City": 2.9,
+        "Bayern Munich": 2.05,
+        "Manchester City": 2.78,
         "Draw": 3.8
       },
       "Pinnacle": {
-        "Bayern Munich": 2.17,
-        "Manchester City": 2.76,
-        "Draw": 3.93
+        "Bayern Munich": 2.03,
+        "Manchester City": 2.77,
+        "Draw": 3.97
       },
       "BetOnline.ag": {
-        "Bayern Munich": 2.06,
-        "Manchester City": 2.81,
-        "Draw": 3.84
+        "Bayern Munich": 2.01,
+        "Manchester City": 2.82,
+        "Draw": 3.91
       },
       "Unibet (NL)": {
-        "Bayern Munich": 1.95,
-        "Manchester City": 3.25,
-        "Draw": 4.1
+        "Bayern Munich": 2.12,
+        "Manchester City": 2.85,
+        "Draw": 4.0
       },
       "PMU (FR)": {
-        "Bayern Munich": 1.8,
-        "Manchester City": 2.95,
+        "Bayern Munich": 1.95,
+        "Manchester City": 2.63,
         "Draw": 3.65
       },
       "Coolbet": {
-        "Bayern Munich": 2.08,
-        "Manchester City": 3.1,
-        "Draw": 4.0
+        "Bayern Munich": 2.03,
+        "Manchester City": 3.0,
+        "Draw": 4.1
+      },
+      "1xBet": {
+        "Bayern Munich": 2.03,
+        "Manchester City": 2.83,
+        "Draw": 3.84
       }
     },
     "5a99ef18684426edb0cc36277f85f2b5:h2h": {
@@ -111,56 +106,66 @@
         "Draw": 3.2
       },
       "1xBet": {
-        "AFC Telford United": 3.12,
-        "Worksop Town FC": 2.01,
-        "Draw": 3.48
+        "AFC Telford United": 3.56,
+        "Worksop Town FC": 1.77,
+        "Draw": 3.85
       },
       "Marathon Bet": {
-        "AFC Telford United": 3.05,
-        "Worksop Town FC": 1.99,
-        "Draw": 3.48
+        "AFC Telford United": 3.34,
+        "Worksop Town FC": 1.78,
+        "Draw": 3.88
       },
       "Codere (IT)": {
-        "AFC Telford United": 3.15,
-        "Worksop Town FC": 2.06,
-        "Draw": 3.75
+        "AFC Telford United": 3.7,
+        "Worksop Town FC": 1.89,
+        "Draw": 3.7
       },
       "Winamax (DE)": {
-        "AFC Telford United": 2.95,
-        "Worksop Town FC": 2.0,
-        "Draw": 3.75
+        "AFC Telford United": 3.5,
+        "Worksop Town FC": 1.84,
+        "Draw": 3.7
+      },
+      "Nordic Bet": {
+        "AFC Telford United": 4.4,
+        "Worksop Town FC": 1.75,
+        "Draw": 3.4
       }
     },
     "8de05deeb30c51a937c443b306c7e857:h2h": {
       "LeoVegas (SE)": {
-        "Dagenham and Redbridge FC": 1.23,
-        "Waltham Abbey FC": 8.0,
-        "Draw": 5.75
+        "Dagenham and Redbridge FC": 1.33,
+        "Waltham Abbey FC": 6.1,
+        "Draw": 5.0
       },
       "Unibet (SE)": {
-        "Dagenham and Redbridge FC": 1.23,
-        "Waltham Abbey FC": 8.0,
-        "Draw": 5.75
+        "Dagenham and Redbridge FC": 1.33,
+        "Waltham Abbey FC": 6.1,
+        "Draw": 5.0
       },
       "Codere (IT)": {
-        "Dagenham and Redbridge FC": 1.3,
-        "Waltham Abbey FC": 8.0,
-        "Draw": 5.6
+        "Dagenham and Redbridge FC": 1.39,
+        "Waltham Abbey FC": 6.6,
+        "Draw": 5.0
       },
       "1xBet": {
-        "Dagenham and Redbridge FC": 1.27,
-        "Waltham Abbey FC": 8.15,
-        "Draw": 5.1
+        "Dagenham and Redbridge FC": 1.36,
+        "Waltham Abbey FC": 6.15,
+        "Draw": 4.8
       },
       "Winamax (DE)": {
-        "Dagenham and Redbridge FC": 1.28,
-        "Waltham Abbey FC": 7.25,
-        "Draw": 5.8
+        "Dagenham and Redbridge FC": 1.36,
+        "Waltham Abbey FC": 6.0,
+        "Draw": 5.1
       },
       "Marathon Bet": {
-        "Dagenham and Redbridge FC": 1.26,
-        "Waltham Abbey FC": 7.8,
-        "Draw": 5.1
+        "Dagenham and Redbridge FC": 1.35,
+        "Waltham Abbey FC": 5.9,
+        "Draw": 4.8
+      },
+      "Nordic Bet": {
+        "Dagenham and Redbridge FC": 1.4,
+        "Waltham Abbey FC": 6.3,
+        "Draw": 4.55
       }
     }
   },
