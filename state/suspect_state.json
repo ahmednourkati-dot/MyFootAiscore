@@ -1,77 +1,30 @@
 {
   "snapshots": {
-    "8674c07c68197a031ffe5e208e162249:h2h": {
-      "Betfair": {
-        "Criciuma": 55.0,
-        "Operario PR": 1.26,
-        "Draw": 5.0
-      },
-      "Tipico": {
-        "Criciuma": 40.0,
-        "Operario PR": 1.16,
-        "Draw": 4.7
-      },
-      "Coolbet": {
-        "Criciuma": 33.0,
-        "Operario PR": 1.18,
-        "Draw": 4.5
-      },
-      "Pinnacle": {
-        "Criciuma": 10.46,
-        "Operario PR": 1.53,
-        "Draw": 3.2
-      },
-      "Unibet (NL)": {
-        "Criciuma": 46.0,
-        "Operario PR": 1.07,
-        "Draw": 6.1
-      },
-      "LeoVegas (SE)": {
-        "Criciuma": 41.0,
-        "Operario PR": 1.11,
-        "Draw": 5.4
-      },
-      "Unibet (SE)": {
-        "Criciuma": 61.0,
-        "Operario PR": 1.12,
-        "Draw": 6.5
-      },
-      "Betsson": {
-        "Criciuma": 32.0,
-        "Operario PR": 1.18,
-        "Draw": 4.6
-      },
-      "Nordic Bet": {
-        "Criciuma": 32.0,
-        "Operario PR": 1.18,
-        "Draw": 4.6
-      }
-    },
     "ed1e48c3198923dec3e3990c3c8b899a:h2h": {
       "888sport": {
-        "AS Roma": 1.61,
-        "Leuven": 4.0,
-        "Draw": 3.75
+        "AS Roma": 1.6,
+        "Leuven": 4.2,
+        "Draw": 3.8
       },
       "William Hill": {
-        "AS Roma": 1.62,
-        "Leuven": 4.0,
-        "Draw": 3.75
+        "AS Roma": 1.6,
+        "Leuven": 4.2,
+        "Draw": 3.8
       },
       "Pinnacle": {
-        "AS Roma": 1.67,
-        "Leuven": 4.04,
-        "Draw": 4.16
+        "AS Roma": 1.63,
+        "Leuven": 4.31,
+        "Draw": 4.27
       },
       "BetOnline.ag": {
-        "AS Roma": 1.65,
-        "Leuven": 4.21,
-        "Draw": 3.9
+        "AS Roma": 1.63,
+        "Leuven": 4.3,
+        "Draw": 3.95
       },
       "Betfair": {
-        "AS Roma": 1.7,
-        "Leuven": 4.6,
-        "Draw": 4.3
+        "AS Roma": 1.63,
+        "Leuven": 5.1,
+        "Draw": 4.6
       },
       "Unibet (NL)": {
         "AS Roma": 1.68,
@@ -81,17 +34,17 @@
       "Unibet (FR)": {
         "AS Roma": 1.55,
         "Leuven": 4.3,
-        "Draw": 4.2
+        "Draw": 4.3
       },
       "Betclic (FR)": {
-        "AS Roma": 1.61,
-        "Leuven": 4.15,
+        "AS Roma": 1.6,
+        "Leuven": 4.3,
         "Draw": 3.9
       },
       "1xBet": {
-        "AS Roma": 1.61,
-        "Leuven": 4.49,
-        "Draw": 3.82
+        "AS Roma": 1.59,
+        "Leuven": 4.59,
+        "Draw": 3.86
       },
       "Coolbet": {
         "AS Roma": 1.7,
@@ -118,34 +71,76 @@
       "Betclic (FR)": {
         "Lyon": 1.01,
         "Servette FC": 30.0,
-        "Draw": 11.0
-      },
-      "BetOnline.ag": {
-        "Lyon": 1.01,
-        "Servette FC": 39.1,
-        "Draw": 13.3
+        "Draw": 15.0
       },
       "Betfair": {
-        "Lyon": 1.03,
-        "Servette FC": 110.0,
+        "Lyon": 1.04,
+        "Servette FC": 60.0,
         "Draw": 21.0
       }
     },
     "e6efaffaa764a10c373238fd4dd3ed86:h2h": {
       "Betfair": {
         "Austria Wien": 50.0,
-        "Chelsea": 1.05,
-        "Draw": 28.0
+        "Chelsea": 1.04,
+        "Draw": 32.0
       },
       "Unibet (FR)": {
-        "Austria Wien": 33.0,
+        "Austria Wien": 30.0,
         "Chelsea": 1.01,
         "Draw": 6.9
       },
       "Betclic (FR)": {
-        "Austria Wien": 35.0,
+        "Austria Wien": 33.0,
         "Chelsea": 1.01,
-        "Draw": 11.0
+        "Draw": 16.0
+      }
+    },
+    "da655cc5234b48ddb21f62aab11eeba6:h2h": {
+      "Betfair": {
+        "Barcelona": 1.03,
+        "Paris FC": 60.0,
+        "Draw": 36.0
+      },
+      "Nordic Bet": {
+        "Barcelona": 1.01,
+        "Paris FC": 50.0,
+        "Draw": 14.0
+      },
+      "Betsson": {
+        "Barcelona": 1.01,
+        "Paris FC": 50.0,
+        "Draw": 14.0
+      },
+      "Unibet (FR)": {
+        "Barcelona": 1.01,
+        "Paris FC": 27.0,
+        "Draw": 7.2
+      },
+      "Betclic (FR)": {
+        "Barcelona": 1.01,
+        "Paris FC": 30.0,
+        "Draw": 16.0
+      },
+      "888sport": {
+        "Barcelona": 1.03,
+        "Paris FC": 151.0,
+        "Draw": 13.0
+      },
+      "William Hill": {
+        "Barcelona": 1.03,
+        "Paris FC": 151.0,
+        "Draw": 13.0
+      },
+      "BetOnline.ag": {
+        "Barcelona": 1.02,
+        "Paris FC": 26.0,
+        "Draw": 12.3
+      },
+      "Coolbet": {
+        "Barcelona": 1.02,
+        "Paris FC": 60.0,
+        "Draw": 20.0
       }
     }
   },
@@ -4042,22 +4037,6 @@
   ],
   "results_history": [],
   "value_alerted": [
-    "8674c07c68197a031ffe5e208e162249:h2h|Betfair|Criciuma",
-    "8674c07c68197a031ffe5e208e162249:h2h|Betfair|Draw",
-    "8674c07c68197a031ffe5e208e162249:h2h|Betsson|Criciuma",
-    "8674c07c68197a031ffe5e208e162249:h2h|Betsson|Draw",
-    "8674c07c68197a031ffe5e208e162249:h2h|Coolbet|Criciuma",
-    "8674c07c68197a031ffe5e208e162249:h2h|Coolbet|Draw",
-    "8674c07c68197a031ffe5e208e162249:h2h|LeoVegas (SE)|Criciuma",
-    "8674c07c68197a031ffe5e208e162249:h2h|LeoVegas (SE)|Draw",
-    "8674c07c68197a031ffe5e208e162249:h2h|Nordic Bet|Criciuma",
-    "8674c07c68197a031ffe5e208e162249:h2h|Nordic Bet|Draw",
-    "8674c07c68197a031ffe5e208e162249:h2h|Tipico|Criciuma",
-    "8674c07c68197a031ffe5e208e162249:h2h|Tipico|Draw",
-    "8674c07c68197a031ffe5e208e162249:h2h|Unibet (NL)|Criciuma",
-    "8674c07c68197a031ffe5e208e162249:h2h|Unibet (NL)|Draw",
-    "8674c07c68197a031ffe5e208e162249:h2h|Unibet (SE)|Criciuma",
-    "8674c07c68197a031ffe5e208e162249:h2h|Unibet (SE)|Draw",
     "ed1e48c3198923dec3e3990c3c8b899a:h2h|Betfair|Leuven",
     "ed1e48c3198923dec3e3990c3c8b899a:h2h|Coolbet|Leuven"
   ]
