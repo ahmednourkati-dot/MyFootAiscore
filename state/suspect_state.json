@@ -2,134 +2,67 @@
   "snapshots": {
     "ed1e48c3198923dec3e3990c3c8b899a:h2h": {
       "888sport": {
-        "AS Roma": 1.6,
-        "Leuven": 4.33,
-        "Draw": 3.8
-      },
-      "William Hill": {
-        "AS Roma": 1.6,
-        "Leuven": 4.33,
-        "Draw": 3.8
+        "AS Roma": 3.0,
+        "Leuven": 6.5,
+        "Draw": 1.5
       },
       "Pinnacle": {
-        "AS Roma": 1.62,
-        "Leuven": 4.35,
-        "Draw": 4.28
-      },
-      "BetOnline.ag": {
-        "AS Roma": 1.6,
-        "Leuven": 4.46,
-        "Draw": 4.0
+        "AS Roma": 2.62,
+        "Leuven": 6.96,
+        "Draw": 1.86
       },
       "Betfair": {
-        "AS Roma": 1.68,
-        "Leuven": 5.0,
-        "Draw": 4.5
+        "AS Roma": 3.35,
+        "Leuven": 8.6,
+        "Draw": 1.68
       },
       "Unibet (NL)": {
-        "AS Roma": 1.68,
-        "Leuven": 4.5,
-        "Draw": 3.95
-      },
-      "Unibet (FR)": {
-        "AS Roma": 1.55,
-        "Leuven": 4.3,
-        "Draw": 4.3
-      },
-      "Betclic (FR)": {
-        "AS Roma": 1.58,
-        "Leuven": 4.35,
-        "Draw": 4.0
-      },
-      "1xBet": {
-        "AS Roma": 1.57,
-        "Leuven": 4.69,
-        "Draw": 3.92
+        "AS Roma": 3.6,
+        "Leuven": 8.0,
+        "Draw": 1.43
       },
       "Coolbet": {
-        "AS Roma": 1.65,
-        "Leuven": 4.7,
-        "Draw": 3.98
-      }
-    },
-    "991d2c4cdf265760e934411832b9e3c9:h2h": {
-      "Unibet (FR)": {
-        "Lyon": 1.01,
-        "Servette FC": 25.0,
-        "Draw": 8.0
-      },
-      "Betsson": {
-        "Lyon": 1.01,
-        "Servette FC": 45.0,
-        "Draw": 15.0
-      },
-      "Nordic Bet": {
-        "Lyon": 1.01,
-        "Servette FC": 45.0,
-        "Draw": 15.0
-      },
-      "Betclic (FR)": {
-        "Lyon": 1.01,
-        "Servette FC": 30.0,
-        "Draw": 15.0
-      },
-      "Betfair": {
-        "Lyon": 1.04,
-        "Servette FC": 42.0,
-        "Draw": 36.0
+        "AS Roma": 3.14,
+        "Leuven": 7.5,
+        "Draw": 1.57
       }
     },
     "e6efaffaa764a10c373238fd4dd3ed86:h2h": {
       "Betfair": {
         "Austria Wien": 50.0,
         "Chelsea": 1.04,
-        "Draw": 30.0
+        "Draw": 36.0
+      },
+      "BetOnline.ag": {
+        "Austria Wien": 34.4,
+        "Chelsea": 1.01,
+        "Draw": 13.4
       },
       "Unibet (FR)": {
-        "Austria Wien": 31.0,
+        "Austria Wien": 21.0,
         "Chelsea": 1.01,
-        "Draw": 7.0
-      },
-      "Betclic (FR)": {
-        "Austria Wien": 33.0,
-        "Chelsea": 1.01,
-        "Draw": 16.0
+        "Draw": 10.0
       }
     },
     "da655cc5234b48ddb21f62aab11eeba6:h2h": {
       "Betfair": {
         "Barcelona": 1.04,
-        "Paris FC": 65.0,
-        "Draw": 29.0
-      },
-      "Nordic Bet": {
-        "Barcelona": 1.02,
-        "Paris FC": 35.0,
-        "Draw": 15.0
-      },
-      "Betsson": {
-        "Barcelona": 1.02,
-        "Paris FC": 35.0,
-        "Draw": 15.0
+        "Paris FC": 60.0,
+        "Draw": 38.0
       },
       "Unibet (FR)": {
         "Barcelona": 1.01,
-        "Paris FC": 18.0,
-        "Draw": 8.0
-      },
-      "Betclic (FR)": {
-        "Barcelona": 1.01,
-        "Paris FC": 30.0,
-        "Draw": 16.0
+        "Paris FC": 20.0,
+        "Draw": 15.0
       },
       "888sport": {
         "Barcelona": 1.02,
-        "Paris FC": 51.0,
+        "Paris FC": 41.0,
         "Draw": 15.0
       },
       "William Hill": {
         "Barcelona": 1.02,
-        "Paris FC": 51.0,
+        "Paris FC": 41.0,
         "Draw": 15.0
       },
       "BetOnline.ag": {
@@ -4033,11 +3966,96 @@
       "confidence": 35,
       "alert_type": "value",
       "alerted_at": "2026-09-23T00:24:23.527334+00:00"
+    },
+    {
+      "state_key": "ed1e48c3198923dec3e3990c3c8b899a:h2h",
+      "event_id": "ed1e48c3198923dec3e3990c3c8b899a",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League Women",
+      "home_team": "Leuven",
+      "away_team": "AS Roma",
+      "commence_time": "2026-09-23T16:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "AS Roma",
+      "odds_at_alert": 3.0,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-09-23T18:22:08.496424+00:00"
+    },
+    {
+      "state_key": "ed1e48c3198923dec3e3990c3c8b899a:h2h",
+      "event_id": "ed1e48c3198923dec3e3990c3c8b899a",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League Women",
+      "home_team": "Leuven",
+      "away_team": "AS Roma",
+      "commence_time": "2026-09-23T16:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "AS Roma",
+      "odds_at_alert": 3.35,
+      "stake_pct": 5.0,
+      "confidence": 20,
+      "alert_type": "value",
+      "alerted_at": "2026-09-23T18:22:09.052052+00:00"
+    },
+    {
+      "state_key": "ed1e48c3198923dec3e3990c3c8b899a:h2h",
+      "event_id": "ed1e48c3198923dec3e3990c3c8b899a",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League Women",
+      "home_team": "Leuven",
+      "away_team": "AS Roma",
+      "commence_time": "2026-09-23T16:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "AS Roma",
+      "odds_at_alert": 3.6,
+      "stake_pct": 5.0,
+      "confidence": 29,
+      "alert_type": "value",
+      "alerted_at": "2026-09-23T18:22:09.592133+00:00"
+    },
+    {
+      "state_key": "ed1e48c3198923dec3e3990c3c8b899a:h2h",
+      "event_id": "ed1e48c3198923dec3e3990c3c8b899a",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League Women",
+      "home_team": "Leuven",
+      "away_team": "AS Roma",
+      "commence_time": "2026-09-23T16:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Leuven",
+      "odds_at_alert": 8.0,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-09-23T18:22:10.210902+00:00"
+    },
+    {
+      "state_key": "ed1e48c3198923dec3e3990c3c8b899a:h2h",
+      "event_id": "ed1e48c3198923dec3e3990c3c8b899a",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League Women",
+      "home_team": "Leuven",
+      "away_team": "AS Roma",
+      "commence_time": "2026-09-23T16:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "AS Roma",
+      "odds_at_alert": 3.14,
+      "stake_pct": 3.0,
+      "confidence": 13,
+      "alert_type": "value",
+      "alerted_at": "2026-09-23T18:22:10.748098+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
+    "ed1e48c3198923dec3e3990c3c8b899a:h2h|888sport|AS Roma",
+    "ed1e48c3198923dec3e3990c3c8b899a:h2h|Betfair|AS Roma",
     "ed1e48c3198923dec3e3990c3c8b899a:h2h|Betfair|Leuven",
-    "ed1e48c3198923dec3e3990c3c8b899a:h2h|Coolbet|Leuven"
+    "ed1e48c3198923dec3e3990c3c8b899a:h2h|Coolbet|AS Roma",
+    "ed1e48c3198923dec3e3990c3c8b899a:h2h|Coolbet|Leuven",
+    "ed1e48c3198923dec3e3990c3c8b899a:h2h|Unibet (NL)|AS Roma",
+    "ed1e48c3198923dec3e3990c3c8b899a:h2h|Unibet (NL)|Leuven"
   ]
 }
