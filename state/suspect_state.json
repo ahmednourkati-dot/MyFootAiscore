@@ -1,79 +1,276 @@
 {
   "snapshots": {
-    "ed1e48c3198923dec3e3990c3c8b899a:h2h": {
-      "888sport": {
-        "AS Roma": 3.0,
-        "Leuven": 6.5,
-        "Draw": 1.5
-      },
-      "Pinnacle": {
-        "AS Roma": 2.62,
-        "Leuven": 6.96,
-        "Draw": 1.86
-      },
-      "Betfair": {
-        "AS Roma": 3.35,
-        "Leuven": 8.6,
-        "Draw": 1.68
+    "721002a07455851d44ee87a608fbd3e3:h2h": {
+      "Unibet (SE)": {
+        "Real Salt Lake": 4.0,
+        "Seattle Sounders FC": 1.75,
+        "Draw": 3.95
       },
       "Unibet (NL)": {
-        "AS Roma": 3.6,
-        "Leuven": 8.0,
-        "Draw": 1.43
+        "Real Salt Lake": 4.0,
+        "Seattle Sounders FC": 1.75,
+        "Draw": 3.95
+      },
+      "PMU (FR)": {
+        "Real Salt Lake": 3.9,
+        "Seattle Sounders FC": 1.72,
+        "Draw": 3.75
+      },
+      "LeoVegas (SE)": {
+        "Real Salt Lake": 4.2,
+        "Seattle Sounders FC": 1.8,
+        "Draw": 4.1
+      },
+      "Unibet (FR)": {
+        "Real Salt Lake": 4.0,
+        "Seattle Sounders FC": 1.63,
+        "Draw": 3.9
+      },
+      "Nordic Bet": {
+        "Real Salt Lake": 4.1,
+        "Seattle Sounders FC": 1.78,
+        "Draw": 3.85
+      },
+      "MyBookie.ag": {
+        "Real Salt Lake": 4.2,
+        "Seattle Sounders FC": 1.74,
+        "Draw": 4.0
       },
       "Coolbet": {
-        "AS Roma": 3.14,
-        "Leuven": 7.5,
-        "Draw": 1.57
-      }
-    },
-    "e6efaffaa764a10c373238fd4dd3ed86:h2h": {
-      "Betfair": {
-        "Austria Wien": 50.0,
-        "Chelsea": 1.04,
-        "Draw": 36.0
+        "Real Salt Lake": 4.2,
+        "Seattle Sounders FC": 1.73,
+        "Draw": 4.2
       },
-      "BetOnline.ag": {
-        "Austria Wien": 34.4,
-        "Chelsea": 1.01,
-        "Draw": 13.4
+      "Betclic (FR)": {
+        "Real Salt Lake": 4.05,
+        "Seattle Sounders FC": 1.68,
+        "Draw": 3.88
       },
-      "Unibet (FR)": {
-        "Austria Wien": 21.0,
-        "Chelsea": 1.01,
-        "Draw": 10.0
-      }
-    },
-    "da655cc5234b48ddb21f62aab11eeba6:h2h": {
-      "Betfair": {
-        "Barcelona": 1.04,
-        "Paris FC": 60.0,
-        "Draw": 38.0
+      "1xBet": {
+        "Real Salt Lake": 4.38,
+        "Seattle Sounders FC": 1.79,
+        "Draw": 4.08
       },
-      "Unibet (FR)": {
-        "Barcelona": 1.01,
-        "Paris FC": 20.0,
-        "Draw": 15.0
+      "Winamax (FR)": {
+        "Real Salt Lake": 3.85,
+        "Seattle Sounders FC": 1.66,
+        "Draw": 3.9
+      },
+      "Winamax (DE)": {
+        "Real Salt Lake": 3.9,
+        "Seattle Sounders FC": 1.68,
+        "Draw": 4.0
+      },
+      "Marathon Bet": {
+        "Real Salt Lake": 4.2,
+        "Seattle Sounders FC": 1.72,
+        "Draw": 3.92
+      },
+      "Betsson": {
+        "Real Salt Lake": 4.1,
+        "Seattle Sounders FC": 1.78,
+        "Draw": 3.85
       },
       "888sport": {
-        "Barcelona": 1.02,
-        "Paris FC": 41.0,
-        "Draw": 15.0
+        "Real Salt Lake": 4.0,
+        "Seattle Sounders FC": 1.73,
+        "Draw": 3.8
       },
       "William Hill": {
-        "Barcelona": 1.02,
-        "Paris FC": 41.0,
-        "Draw": 15.0
+        "Real Salt Lake": 4.0,
+        "Seattle Sounders FC": 1.73,
+        "Draw": 3.8
       },
-      "BetOnline.ag": {
-        "Barcelona": 1.02,
-        "Paris FC": 26.0,
-        "Draw": 12.3
+      "GTbets": {
+        "Real Salt Lake": 4.25,
+        "Seattle Sounders FC": 1.78,
+        "Draw": 4.05
       },
-      "Coolbet": {
-        "Barcelona": 1.02,
-        "Paris FC": 37.0,
-        "Draw": 16.0
+      "Betfair": {
+        "Real Salt Lake": 4.5,
+        "Seattle Sounders FC": 1.83,
+        "Draw": 4.2
+      },
+      "Pinnacle": {
+        "Real Salt Lake": 4.5,
+        "Seattle Sounders FC": 1.76,
+        "Draw": 4.1
+      },
+      "Tipico": {
+        "Real Salt Lake": 4.4,
+        "Seattle Sounders FC": 1.65,
+        "Draw": 3.9
+      },
+      "BetAnything": {
+        "Real Salt Lake": 4.35,
+        "Seattle Sounders FC": 1.74,
+        "Draw": 4.05
+      },
+      "Matchbook": {
+        "Real Salt Lake": 4.6,
+        "Seattle Sounders FC": 1.83,
+        "Draw": 4.2
+      }
+    },
+    "8164f21d418a879733dd141cab8dfb14:h2h": {
+      "Betsson": {
+        "Andorra": 3.55,
+        "Malta": 2.32,
+        "Draw": 2.68
+      },
+      "Betfair": {
+        "Andorra": 3.8,
+        "Malta": 2.48,
+        "Draw": 2.94
+      },
+      "Marathon Bet": {
+        "Andorra": 3.76,
+        "Malta": 2.38,
+        "Draw": 2.8
+      },
+      "Nordic Bet": {
+        "Andorra": 3.55,
+        "Malta": 2.32,
+        "Draw": 2.68
+      },
+      "PMU (FR)": {
+        "Andorra": 3.3,
+        "Malta": 2.23,
+        "Draw": 2.6
+      },
+      "1xBet": {
+        "Andorra": 3.81,
+        "Malta": 2.41,
+        "Draw": 2.83
+      },
+      "Betclic (FR)": {
+        "Andorra": 3.55,
+        "Malta": 2.33,
+        "Draw": 2.7
+      },
+      "Winamax (FR)": {
+        "Andorra": 3.55,
+        "Malta": 2.3,
+        "Draw": 2.7
+      },
+      "Winamax (DE)": {
+        "Andorra": 3.55,
+        "Malta": 2.3,
+        "Draw": 2.7
+      },
+      "William Hill": {
+        "Andorra": 3.6,
+        "Malta": 2.38,
+        "Draw": 2.62
+      }
+    },
+    "4f880a226d6ab27f137ec39da877e68c:h2h": {
+      "Betsson": {
+        "Austria": 1.43,
+        "Israel": 6.8,
+        "Draw": 4.55
+      },
+      "Betfair": {
+        "Austria": 1.46,
+        "Israel": 7.6,
+        "Draw": 5.3
+      },
+      "Marathon Bet": {
+        "Austria": 1.41,
+        "Israel": 7.3,
+        "Draw": 5.1
+      },
+      "Nordic Bet": {
+        "Austria": 1.43,
+        "Israel": 6.8,
+        "Draw": 4.55
+      },
+      "PMU (FR)": {
+        "Austria": 1.33,
+        "Israel": 7.0,
+        "Draw": 4.7
+      },
+      "1xBet": {
+        "Austria": 1.43,
+        "Israel": 7.38,
+        "Draw": 5.15
+      },
+      "Betclic (FR)": {
+        "Austria": 1.39,
+        "Israel": 6.4,
+        "Draw": 4.9
+      },
+      "Winamax (FR)": {
+        "Austria": 1.38,
+        "Israel": 6.0,
+        "Draw": 5.1
+      },
+      "Winamax (DE)": {
+        "Austria": 1.39,
+        "Israel": 6.25,
+        "Draw": 5.2
+      },
+      "William Hill": {
+        "Austria": 1.4,
+        "Israel": 6.5,
+        "Draw": 4.75
+      }
+    },
+    "9352e6dce53be8e98217c70a28200e69:h2h": {
+      "1xBet": {
+        "Denmark": 4.55,
+        "Norway": 1.73,
+        "Draw": 4.29
+      },
+      "Betfair": {
+        "Denmark": 4.6,
+        "Norway": 1.8,
+        "Draw": 4.2
+      },
+      "Betsson": {
+        "Denmark": 4.25,
+        "Norway": 1.75,
+        "Draw": 3.85
+      },
+      "Nordic Bet": {
+        "Denmark": 4.25,
+        "Norway": 1.75,
+        "Draw": 3.85
+      },
+      "Marathon Bet": {
+        "Denmark": 4.5,
+        "Norway": 1.71,
+        "Draw": 4.25
+      },
+      "Winamax (FR)": {
+        "Denmark": 4.0,
+        "Norway": 1.7,
+        "Draw": 4.0
+      },
+      "PMU (FR)": {
+        "Denmark": 4.2,
+        "Norway": 1.64,
+        "Draw": 3.95
+      },
+      "Betclic (FR)": {
+        "Denmark": 4.15,
+        "Norway": 1.72,
+        "Draw": 3.85
+      },
+      "Winamax (DE)": {
+        "Denmark": 4.1,
+        "Norway": 1.72,
+        "Draw": 4.0
+      },
+      "William Hill": {
+        "Denmark": 4.2,
+        "Norway": 1.7,
+        "Draw": 3.8
+      },
+      "Pinnacle": {
+        "Denmark": 4.55,
+        "Norway": 1.73,
+        "Draw": 4.2
       }
     }
   },
@@ -4049,13 +4246,5 @@
     }
   ],
   "results_history": [],
-  "value_alerted": [
-    "ed1e48c3198923dec3e3990c3c8b899a:h2h|888sport|AS Roma",
-    "ed1e48c3198923dec3e3990c3c8b899a:h2h|Betfair|AS Roma",
-    "ed1e48c3198923dec3e3990c3c8b899a:h2h|Betfair|Leuven",
-    "ed1e48c3198923dec3e3990c3c8b899a:h2h|Coolbet|AS Roma",
-    "ed1e48c3198923dec3e3990c3c8b899a:h2h|Coolbet|Leuven",
-    "ed1e48c3198923dec3e3990c3c8b899a:h2h|Unibet (NL)|AS Roma",
-    "ed1e48c3198923dec3e3990c3c8b899a:h2h|Unibet (NL)|Leuven"
-  ]
+  "value_alerted": []
 }
