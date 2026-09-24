@@ -1,226 +1,301 @@
 {
   "snapshots": {
-    "8164f21d418a879733dd141cab8dfb14:h2h": {
+    "d559e0b2cc9b79504ad6d3e221ea050f:h2h": {
       "Betsson": {
-        "Andorra": 3.65,
-        "Malta": 2.65,
-        "Draw": 2.15
+        "Armenia": 1.75,
+        "Latvia": 4.65,
+        "Draw": 3.4
       },
       "Betfair": {
-        "Andorra": 4.2,
-        "Malta": 2.9,
-        "Draw": 2.34
-      },
-      "Nordic Bet": {
-        "Andorra": 3.65,
-        "Malta": 2.65,
-        "Draw": 2.15
-      },
-      "PMU (FR)": {
-        "Andorra": 4.1,
-        "Malta": 2.7,
-        "Draw": 2.02
-      },
-      "Suprabets": {
-        "Andorra": 3.8,
-        "Malta": 2.7,
-        "Draw": 2.3
-      },
-      "Betclic (FR)": {
-        "Andorra": 3.6,
-        "Malta": 2.4,
-        "Draw": 2.17
-      },
-      "Winamax (FR)": {
-        "Andorra": 3.65,
-        "Malta": 2.55,
-        "Draw": 2.1
-      },
-      "Winamax (DE)": {
-        "Andorra": 3.75,
-        "Malta": 2.6,
-        "Draw": 2.15
-      }
-    },
-    "4f880a226d6ab27f137ec39da877e68c:h2h": {
-      "Betsson": {
-        "Austria": 1.46,
-        "Israel": 6.3,
-        "Draw": 4.55
-      },
-      "Betfair": {
-        "Austria": 1.49,
-        "Israel": 7.6,
-        "Draw": 5.0
-      },
-      "Marathon Bet": {
-        "Austria": 1.45,
-        "Israel": 6.8,
-        "Draw": 4.85
-      },
-      "Nordic Bet": {
-        "Austria": 1.46,
-        "Israel": 6.8,
-        "Draw": 4.3
-      },
-      "PMU (FR)": {
-        "Austria": 1.38,
-        "Israel": 6.4,
-        "Draw": 4.6
-      },
-      "Suprabets": {
-        "Austria": 1.45,
-        "Israel": 6.3,
-        "Draw": 4.8
-      },
-      "1xBet": {
-        "Austria": 1.47,
-        "Israel": 6.87,
-        "Draw": 4.91
-      },
-      "Betclic (FR)": {
-        "Austria": 1.43,
-        "Israel": 6.1,
-        "Draw": 4.85
-      },
-      "Winamax (FR)": {
-        "Austria": 1.42,
-        "Israel": 5.9,
-        "Draw": 4.8
-      },
-      "Winamax (DE)": {
-        "Austria": 1.42,
-        "Israel": 6.0,
-        "Draw": 4.8
-      },
-      "William Hill": {
-        "Austria": 1.44,
-        "Israel": 6.0,
-        "Draw": 4.4
-      }
-    },
-    "9352e6dce53be8e98217c70a28200e69:h2h": {
-      "1xBet": {
-        "Denmark": 5.4,
-        "Norway": 1.6,
-        "Draw": 4.5
-      },
-      "Suprabets": {
-        "Denmark": 5.4,
-        "Norway": 1.57,
-        "Draw": 4.3
-      },
-      "Betfair": {
-        "Denmark": 5.8,
-        "Norway": 1.61,
-        "Draw": 4.7
-      },
-      "Betsson": {
-        "Denmark": 4.9,
-        "Norway": 1.58,
-        "Draw": 4.3
-      },
-      "Nordic Bet": {
-        "Denmark": 4.9,
-        "Norway": 1.58,
-        "Draw": 4.3
-      },
-      "Marathon Bet": {
-        "Denmark": 5.4,
-        "Norway": 1.6,
-        "Draw": 4.5
-      },
-      "Winamax (FR)": {
-        "Denmark": 4.7,
-        "Norway": 1.54,
-        "Draw": 4.4
-      },
-      "PMU (FR)": {
-        "Denmark": 5.4,
-        "Norway": 1.51,
-        "Draw": 4.2
-      },
-      "Betclic (FR)": {
-        "Denmark": 5.25,
-        "Norway": 1.55,
-        "Draw": 4.5
-      },
-      "Winamax (DE)": {
-        "Denmark": 4.7,
-        "Norway": 1.56,
-        "Draw": 4.4
-      },
-      "William Hill": {
-        "Denmark": 5.0,
-        "Norway": 1.55,
-        "Draw": 4.0
-      },
-      "Pinnacle": {
-        "Denmark": 5.58,
-        "Norway": 1.58,
-        "Draw": 4.41
-      }
-    },
-    "1b126f4039aa0e37f54d3142212702b7:h2h": {
-      "1xBet": {
-        "Germany": 2.52,
-        "Netherlands": 2.73,
-        "Draw": 3.88
-      },
-      "Betfair": {
-        "Germany": 2.52,
-        "Netherlands": 2.82,
-        "Draw": 3.9
-      },
-      "Suprabets": {
-        "Germany": 2.43,
-        "Netherlands": 2.67,
-        "Draw": 3.72
-      },
-      "Marathon Bet": {
-        "Germany": 2.5,
-        "Netherlands": 2.7,
-        "Draw": 3.84
-      },
-      "Betsson": {
-        "Germany": 2.42,
-        "Netherlands": 2.72,
-        "Draw": 3.6
-      },
-      "Nordic Bet": {
-        "Germany": 2.42,
-        "Netherlands": 2.72,
-        "Draw": 3.6
-      },
-      "PMU (FR)": {
-        "Germany": 2.38,
-        "Netherlands": 2.55,
-        "Draw": 3.55
-      },
-      "Betclic (FR)": {
-        "Germany": 2.45,
-        "Netherlands": 2.6,
-        "Draw": 3.8
-      },
-      "Winamax (FR)": {
-        "Germany": 2.35,
-        "Netherlands": 2.55,
+        "Armenia": 1.87,
+        "Latvia": 4.9,
         "Draw": 3.75
       },
+      "Marathon Bet": {
+        "Armenia": 1.8,
+        "Latvia": 4.7,
+        "Draw": 3.64
+      },
+      "Nordic Bet": {
+        "Armenia": 1.75,
+        "Latvia": 4.65,
+        "Draw": 3.4
+      },
+      "Suprabets": {
+        "Armenia": 1.77,
+        "Latvia": 4.4,
+        "Draw": 3.59
+      },
+      "1xBet": {
+        "Armenia": 1.82,
+        "Latvia": 4.75,
+        "Draw": 3.68
+      },
       "Winamax (DE)": {
-        "Germany": 2.4,
-        "Netherlands": 2.6,
+        "Armenia": 1.7,
+        "Latvia": 4.5,
         "Draw": 3.8
       },
+      "Winamax (FR)": {
+        "Armenia": 1.68,
+        "Latvia": 4.5,
+        "Draw": 3.75
+      },
+      "PMU (FR)": {
+        "Armenia": 1.65,
+        "Latvia": 4.3,
+        "Draw": 3.45
+      },
+      "Betclic (FR)": {
+        "Armenia": 1.68,
+        "Latvia": 4.7,
+        "Draw": 3.68
+      },
       "William Hill": {
-        "Germany": 2.38,
-        "Netherlands": 2.5,
-        "Draw": 3.5
+        "Armenia": 1.75,
+        "Latvia": 4.4,
+        "Draw": 3.4
+      }
+    },
+    "56e89688e8dcce4889162404c8290f50:h2h": {
+      "Betsson": {
+        "Georgia": 1.82,
+        "Northern Ireland": 4.4,
+        "Draw": 3.45
+      },
+      "Betfair": {
+        "Georgia": 1.98,
+        "Northern Ireland": 4.5,
+        "Draw": 3.55
+      },
+      "Marathon Bet": {
+        "Georgia": 1.85,
+        "Northern Ireland": 4.45,
+        "Draw": 3.6
+      },
+      "Nordic Bet": {
+        "Georgia": 1.82,
+        "Northern Ireland": 4.4,
+        "Draw": 3.45
+      },
+      "Suprabets": {
+        "Georgia": 1.83,
+        "Northern Ireland": 4.3,
+        "Draw": 3.45
+      },
+      "1xBet": {
+        "Georgia": 1.87,
+        "Northern Ireland": 4.5,
+        "Draw": 3.64
+      },
+      "Winamax (FR)": {
+        "Georgia": 1.76,
+        "Northern Ireland": 4.2,
+        "Draw": 3.55
+      },
+      "PMU (FR)": {
+        "Georgia": 1.7,
+        "Northern Ireland": 4.4,
+        "Draw": 3.45
+      },
+      "Winamax (DE)": {
+        "Georgia": 1.78,
+        "Northern Ireland": 4.2,
+        "Draw": 3.6
+      },
+      "Betclic (FR)": {
+        "Georgia": 1.81,
+        "Northern Ireland": 4.25,
+        "Draw": 3.4
+      },
+      "William Hill": {
+        "Georgia": 1.8,
+        "Northern Ireland": 4.0,
+        "Draw": 3.3
+      }
+    },
+    "b2e00a6bf19300777800e620e8af6115:h2h": {
+      "Tipico": {
+        "SC Fortuna Köln": 2.2,
+        "TSV Havelse": 3.1,
+        "Draw": 3.4
+      },
+      "Nordic Bet": {
+        "SC Fortuna Köln": 2.22,
+        "TSV Havelse": 2.9,
+        "Draw": 3.4
+      },
+      "Betsson": {
+        "SC Fortuna Köln": 2.22,
+        "TSV Havelse": 2.9,
+        "Draw": 3.4
+      },
+      "Suprabets": {
+        "SC Fortuna Köln": 2.16,
+        "TSV Havelse": 2.86,
+        "Draw": 3.27
+      },
+      "1xBet": {
+        "SC Fortuna Köln": 2.17,
+        "TSV Havelse": 2.91,
+        "Draw": 3.32
+      },
+      "Winamax (DE)": {
+        "SC Fortuna Köln": 2.15,
+        "TSV Havelse": 2.75,
+        "Draw": 3.4
       },
       "Pinnacle": {
-        "Germany": 2.49,
-        "Netherlands": 2.71,
-        "Draw": 3.82
+        "SC Fortuna Köln": 2.27,
+        "TSV Havelse": 3.03,
+        "Draw": 3.52
+      },
+      "888sport": {
+        "SC Fortuna Köln": 2.2,
+        "TSV Havelse": 2.9,
+        "Draw": 3.2
+      },
+      "BetOnline.ag": {
+        "SC Fortuna Köln": 2.26,
+        "TSV Havelse": 3.0,
+        "Draw": 3.45
+      },
+      "Codere (IT)": {
+        "SC Fortuna Köln": 2.18,
+        "TSV Havelse": 2.85,
+        "Draw": 3.35
+      },
+      "LeoVegas (SE)": {
+        "SC Fortuna Köln": 2.2,
+        "TSV Havelse": 2.63,
+        "Draw": 3.4
+      },
+      "Unibet (NL)": {
+        "SC Fortuna Köln": 2.28,
+        "TSV Havelse": 2.75,
+        "Draw": 3.5
+      },
+      "Unibet (SE)": {
+        "SC Fortuna Köln": 2.28,
+        "TSV Havelse": 2.75,
+        "Draw": 3.5
+      },
+      "Coolbet": {
+        "SC Fortuna Köln": 2.25,
+        "TSV Havelse": 2.85,
+        "Draw": 3.5
+      },
+      "Betfair": {
+        "SC Fortuna Köln": 2.28,
+        "TSV Havelse": 3.05,
+        "Draw": 3.6
+      }
+    },
+    "2b0afd76c5108b81ce762450d53ca18f:h2h": {
+      "PMU (FR)": {
+        "Albacete": 5.5,
+        "Girona FC": 1.35,
+        "Draw": 4.1
+      },
+      "LeoVegas (SE)": {
+        "Albacete": 5.75,
+        "Girona FC": 1.41,
+        "Draw": 4.3
+      },
+      "Unibet (NL)": {
+        "Albacete": 6.1,
+        "Girona FC": 1.45,
+        "Draw": 4.6
+      },
+      "Unibet (SE)": {
+        "Albacete": 6.1,
+        "Girona FC": 1.45,
+        "Draw": 4.6
+      },
+      "Coolbet": {
+        "Albacete": 5.75,
+        "Girona FC": 1.53,
+        "Draw": 4.5
+      },
+      "Nordic Bet": {
+        "Albacete": 5.3,
+        "Girona FC": 1.5,
+        "Draw": 4.15
+      },
+      "Unibet (FR)": {
+        "Albacete": 4.85,
+        "Girona FC": 1.41,
+        "Draw": 3.95
+      },
+      "Betsson": {
+        "Albacete": 5.3,
+        "Girona FC": 1.5,
+        "Draw": 4.15
+      },
+      "BetOnline.ag": {
+        "Albacete": 5.4,
+        "Girona FC": 1.54,
+        "Draw": 4.3
+      },
+      "Betclic (FR)": {
+        "Albacete": 5.1,
+        "Girona FC": 1.47,
+        "Draw": 4.1
+      },
+      "Codere (IT)": {
+        "Albacete": 5.2,
+        "Girona FC": 1.5,
+        "Draw": 4.2
+      },
+      "Pinnacle": {
+        "Albacete": 5.6,
+        "Girona FC": 1.56,
+        "Draw": 4.48
+      },
+      "Betfair": {
+        "Albacete": 6.2,
+        "Girona FC": 1.59,
+        "Draw": 4.4
+      },
+      "1xBet": {
+        "Albacete": 5.78,
+        "Girona FC": 1.55,
+        "Draw": 4.49
+      },
+      "Winamax (FR)": {
+        "Albacete": 4.8,
+        "Girona FC": 1.47,
+        "Draw": 4.2
+      },
+      "Winamax (DE)": {
+        "Albacete": 4.9,
+        "Girona FC": 1.49,
+        "Draw": 4.3
+      },
+      "William Hill": {
+        "Albacete": 5.0,
+        "Girona FC": 1.5,
+        "Draw": 4.0
+      },
+      "Marathon Bet": {
+        "Albacete": 5.6,
+        "Girona FC": 1.5,
+        "Draw": 4.35
+      },
+      "Tipico": {
+        "Albacete": 5.7,
+        "Girona FC": 1.47,
+        "Draw": 4.3
+      },
+      "BetAnything": {
+        "Albacete": 5.4,
+        "Girona FC": 1.54,
+        "Draw": 4.3
+      },
+      "Matchbook": {
+        "Albacete": 6.2,
+        "Girona FC": 1.58,
+        "Draw": 4.5
       }
     }
   },
@@ -3601,10 +3676,43 @@
       "confidence": 5,
       "alert_type": "value",
       "alerted_at": "2026-09-24T04:38:52.636850+00:00"
+    },
+    {
+      "state_key": "2b0afd76c5108b81ce762450d53ca18f:h2h",
+      "event_id": "2b0afd76c5108b81ce762450d53ca18f",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Girona FC",
+      "away_team": "Albacete",
+      "commence_time": "2026-09-25T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Albacete",
+      "odds_at_alert": 6.2,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-09-24T21:27:29.960318+00:00"
+    },
+    {
+      "state_key": "2b0afd76c5108b81ce762450d53ca18f:h2h",
+      "event_id": "2b0afd76c5108b81ce762450d53ca18f",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Girona FC",
+      "away_team": "Albacete",
+      "commence_time": "2026-09-25T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Albacete",
+      "odds_at_alert": 6.2,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-09-24T21:27:30.281583+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "9352e6dce53be8e98217c70a28200e69:h2h|Betfair|Denmark"
+    "2b0afd76c5108b81ce762450d53ca18f:h2h|Betfair|Albacete",
+    "2b0afd76c5108b81ce762450d53ca18f:h2h|Matchbook|Albacete"
   ]
 }
