@@ -2,59 +2,44 @@
   "snapshots": {
     "8164f21d418a879733dd141cab8dfb14:h2h": {
       "Betsson": {
-        "Andorra": 3.45,
-        "Malta": 2.42,
-        "Draw": 2.68
+        "Andorra": 3.65,
+        "Malta": 2.65,
+        "Draw": 2.15
       },
       "Betfair": {
-        "Andorra": 3.75,
-        "Malta": 2.62,
-        "Draw": 2.84
-      },
-      "Marathon Bet": {
-        "Andorra": 3.68,
-        "Malta": 2.5,
-        "Draw": 2.69
+        "Andorra": 4.2,
+        "Malta": 2.9,
+        "Draw": 2.34
       },
       "Nordic Bet": {
-        "Andorra": 3.45,
-        "Malta": 2.42,
-        "Draw": 2.68
+        "Andorra": 3.65,
+        "Malta": 2.65,
+        "Draw": 2.15
       },
       "PMU (FR)": {
-        "Andorra": 3.35,
-        "Malta": 2.25,
-        "Draw": 2.6
+        "Andorra": 4.1,
+        "Malta": 2.7,
+        "Draw": 2.02
       },
       "Suprabets": {
-        "Andorra": 3.66,
-        "Malta": 2.51,
-        "Draw": 2.61
-      },
-      "1xBet": {
-        "Andorra": 3.72,
-        "Malta": 2.54,
-        "Draw": 2.71
+        "Andorra": 3.8,
+        "Malta": 2.7,
+        "Draw": 2.3
       },
       "Betclic (FR)": {
-        "Andorra": 3.53,
+        "Andorra": 3.6,
         "Malta": 2.4,
-        "Draw": 2.7
+        "Draw": 2.17
       },
       "Winamax (FR)": {
-        "Andorra": 3.4,
-        "Malta": 2.45,
-        "Draw": 2.6
+        "Andorra": 3.65,
+        "Malta": 2.55,
+        "Draw": 2.1
       },
       "Winamax (DE)": {
-        "Andorra": 3.4,
-        "Malta": 2.45,
-        "Draw": 2.65
-      },
-      "William Hill": {
-        "Andorra": 3.4,
-        "Malta": 2.4,
-        "Draw": 2.5
+        "Andorra": 3.75,
+        "Malta": 2.6,
+        "Draw": 2.15
       }
     },
     "4f880a226d6ab27f137ec39da877e68c:h2h": {
@@ -65,7 +50,7 @@
       },
       "Betfair": {
         "Austria": 1.49,
-        "Israel": 7.4,
+        "Israel": 7.6,
         "Draw": 5.0
       },
       "Marathon Bet": {
@@ -75,17 +60,17 @@
       },
       "Nordic Bet": {
         "Austria": 1.46,
-        "Israel": 6.3,
-        "Draw": 4.55
+        "Israel": 6.8,
+        "Draw": 4.3
       },
       "PMU (FR)": {
-        "Austria": 1.4,
-        "Israel": 6.25,
+        "Austria": 1.38,
+        "Israel": 6.4,
         "Draw": 4.6
       },
       "Suprabets": {
-        "Austria": 1.46,
-        "Israel": 6.2,
+        "Austria": 1.45,
+        "Israel": 6.3,
         "Draw": 4.8
       },
       "1xBet": {
@@ -95,146 +80,146 @@
       },
       "Betclic (FR)": {
         "Austria": 1.43,
-        "Israel": 6.25,
-        "Draw": 4.8
+        "Israel": 6.1,
+        "Draw": 4.85
       },
       "Winamax (FR)": {
         "Austria": 1.42,
-        "Israel": 5.8,
+        "Israel": 5.9,
         "Draw": 4.8
       },
       "Winamax (DE)": {
-        "Austria": 1.43,
-        "Israel": 5.9,
-        "Draw": 4.9
+        "Austria": 1.42,
+        "Israel": 6.0,
+        "Draw": 4.8
       },
       "William Hill": {
-        "Austria": 1.4,
+        "Austria": 1.44,
         "Israel": 6.0,
-        "Draw": 4.5
+        "Draw": 4.4
       }
     },
     "9352e6dce53be8e98217c70a28200e69:h2h": {
       "1xBet": {
-        "Denmark": 4.2,
-        "Norway": 1.82,
-        "Draw": 4.1
+        "Denmark": 5.4,
+        "Norway": 1.6,
+        "Draw": 4.5
       },
       "Suprabets": {
-        "Denmark": 4.1,
-        "Norway": 1.8,
-        "Draw": 3.92
+        "Denmark": 5.4,
+        "Norway": 1.57,
+        "Draw": 4.3
       },
       "Betfair": {
-        "Denmark": 4.6,
-        "Norway": 1.86,
-        "Draw": 4.0
+        "Denmark": 5.8,
+        "Norway": 1.61,
+        "Draw": 4.7
       },
       "Betsson": {
-        "Denmark": 4.1,
-        "Norway": 1.8,
-        "Draw": 3.85
+        "Denmark": 4.9,
+        "Norway": 1.58,
+        "Draw": 4.3
       },
       "Nordic Bet": {
-        "Denmark": 4.1,
-        "Norway": 1.8,
-        "Draw": 3.85
+        "Denmark": 4.9,
+        "Norway": 1.58,
+        "Draw": 4.3
       },
       "Marathon Bet": {
-        "Denmark": 4.2,
-        "Norway": 1.82,
-        "Draw": 4.1
+        "Denmark": 5.4,
+        "Norway": 1.6,
+        "Draw": 4.5
       },
       "Winamax (FR)": {
-        "Denmark": 3.8,
-        "Norway": 1.78,
-        "Draw": 3.9
+        "Denmark": 4.7,
+        "Norway": 1.54,
+        "Draw": 4.4
       },
       "PMU (FR)": {
-        "Denmark": 3.95,
-        "Norway": 1.76,
-        "Draw": 3.7
+        "Denmark": 5.4,
+        "Norway": 1.51,
+        "Draw": 4.2
       },
       "Betclic (FR)": {
-        "Denmark": 4.0,
-        "Norway": 1.79,
-        "Draw": 3.95
+        "Denmark": 5.25,
+        "Norway": 1.55,
+        "Draw": 4.5
       },
       "Winamax (DE)": {
-        "Denmark": 3.85,
-        "Norway": 1.78,
-        "Draw": 3.95
+        "Denmark": 4.7,
+        "Norway": 1.56,
+        "Draw": 4.4
       },
       "William Hill": {
-        "Denmark": 3.9,
-        "Norway": 1.75,
-        "Draw": 3.7
+        "Denmark": 5.0,
+        "Norway": 1.55,
+        "Draw": 4.0
       },
       "Pinnacle": {
-        "Denmark": 4.15,
-        "Norway": 1.83,
-        "Draw": 4.02
+        "Denmark": 5.58,
+        "Norway": 1.58,
+        "Draw": 4.41
       }
     },
     "1b126f4039aa0e37f54d3142212702b7:h2h": {
       "1xBet": {
-        "Germany": 2.56,
-        "Netherlands": 2.7,
-        "Draw": 3.86
+        "Germany": 2.52,
+        "Netherlands": 2.73,
+        "Draw": 3.88
       },
       "Betfair": {
-        "Germany": 2.62,
-        "Netherlands": 2.74,
+        "Germany": 2.52,
+        "Netherlands": 2.82,
         "Draw": 3.9
       },
       "Suprabets": {
-        "Germany": 2.46,
-        "Netherlands": 2.63,
+        "Germany": 2.43,
+        "Netherlands": 2.67,
         "Draw": 3.72
       },
       "Marathon Bet": {
-        "Germany": 2.53,
-        "Netherlands": 2.67,
-        "Draw": 3.82
+        "Germany": 2.5,
+        "Netherlands": 2.7,
+        "Draw": 3.84
       },
       "Betsson": {
-        "Germany": 2.52,
-        "Netherlands": 2.62,
+        "Germany": 2.42,
+        "Netherlands": 2.72,
         "Draw": 3.6
       },
       "Nordic Bet": {
-        "Germany": 2.52,
-        "Netherlands": 2.62,
+        "Germany": 2.42,
+        "Netherlands": 2.72,
         "Draw": 3.6
       },
       "PMU (FR)": {
-        "Germany": 2.45,
-        "Netherlands": 2.45,
+        "Germany": 2.38,
+        "Netherlands": 2.55,
         "Draw": 3.55
       },
       "Betclic (FR)": {
         "Germany": 2.45,
-        "Netherlands": 2.55,
+        "Netherlands": 2.6,
         "Draw": 3.8
       },
       "Winamax (FR)": {
-        "Germany": 2.4,
-        "Netherlands": 2.45,
+        "Germany": 2.35,
+        "Netherlands": 2.55,
         "Draw": 3.75
       },
       "Winamax (DE)": {
-        "Germany": 2.45,
-        "Netherlands": 2.5,
-        "Draw": 3.85
+        "Germany": 2.4,
+        "Netherlands": 2.6,
+        "Draw": 3.8
       },
       "William Hill": {
-        "Germany": 2.45,
+        "Germany": 2.38,
         "Netherlands": 2.5,
-        "Draw": 3.4
+        "Draw": 3.5
       },
       "Pinnacle": {
-        "Germany": 2.51,
-        "Netherlands": 2.68,
+        "Germany": 2.49,
+        "Netherlands": 2.71,
         "Draw": 3.82
       }
     }
