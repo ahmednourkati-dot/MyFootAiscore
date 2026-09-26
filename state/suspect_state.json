@@ -1,241 +1,174 @@
 {
   "snapshots": {
-    "122267c39aa7c22d2654631087b55b39:h2h": {
-      "Unibet (SE)": {
-        "Atlas": 26.0,
-        "Tijuana": 1.2,
-        "Draw": 4.9
-      },
-      "Unibet (NL)": {
-        "Atlas": 26.0,
-        "Tijuana": 1.2,
-        "Draw": 4.9
-      },
-      "PMU (FR)": {
-        "Atlas": 21.0,
-        "Tijuana": 1.09,
-        "Draw": 4.25
-      },
-      "LeoVegas (SE)": {
-        "Atlas": 23.0,
-        "Tijuana": 1.15,
-        "Draw": 4.5
-      },
-      "Betclic (FR)": {
-        "Atlas": 15.75,
-        "Tijuana": 1.24,
-        "Draw": 3.8
-      },
-      "Pinnacle": {
-        "Atlas": 12.6,
-        "Tijuana": 1.42,
-        "Draw": 3.66
-      },
-      "Coolbet": {
-        "Atlas": 25.0,
-        "Tijuana": 1.29,
-        "Draw": 4.5
-      },
-      "Betsson": {
-        "Atlas": 17.5,
-        "Tijuana": 1.28,
-        "Draw": 3.9
-      },
-      "Nordic Bet": {
-        "Atlas": 19.5,
-        "Tijuana": 1.26,
-        "Draw": 4.1
-      },
-      "888sport": {
-        "Atlas": 15.0,
-        "Tijuana": 1.25,
-        "Draw": 3.9
-      },
-      "Betfair": {
-        "Atlas": 25.0,
-        "Tijuana": 1.33,
-        "Draw": 4.4
-      },
-      "Matchbook": {
-        "Atlas": 27.0,
-        "Tijuana": 1.31,
-        "Draw": 4.6
-      },
-      "Tipico": {
-        "Atlas": 16.0,
-        "Tijuana": 1.27,
-        "Draw": 4.0
-      }
-    },
     "48580f15885c0dcac1cecaafad5a2541:h2h": {
       "LeoVegas (SE)": {
-        "AD Ceuta FC": 2.28,
-        "Real Sociedad B": 2.6,
-        "Draw": 3.3
+        "AD Ceuta FC": 2.55,
+        "Real Sociedad B": 2.4,
+        "Draw": 3.2
       },
       "Unibet (SE)": {
-        "AD Ceuta FC": 2.4,
-        "Real Sociedad B": 2.75,
-        "Draw": 3.5
+        "AD Ceuta FC": 2.65,
+        "Real Sociedad B": 2.5,
+        "Draw": 3.4
       },
       "PMU (FR)": {
-        "AD Ceuta FC": 2.2,
-        "Real Sociedad B": 2.5,
-        "Draw": 3.2
+        "AD Ceuta FC": 2.43,
+        "Real Sociedad B": 2.3,
+        "Draw": 3.1
       },
       "Betsson": {
-        "AD Ceuta FC": 2.45,
-        "Real Sociedad B": 2.62,
-        "Draw": 3.35
+        "AD Ceuta FC": 2.85,
+        "Real Sociedad B": 2.32,
+        "Draw": 3.25
       },
       "Unibet (FR)": {
-        "AD Ceuta FC": 2.2,
-        "Real Sociedad B": 2.5,
-        "Draw": 3.2
+        "AD Ceuta FC": 2.7,
+        "Real Sociedad B": 2.1,
+        "Draw": 3.1
       },
       "Nordic Bet": {
-        "AD Ceuta FC": 2.45,
-        "Real Sociedad B": 2.62,
-        "Draw": 3.35
+        "AD Ceuta FC": 2.85,
+        "Real Sociedad B": 2.32,
+        "Draw": 3.25
       },
       "Betclic (FR)": {
-        "AD Ceuta FC": 2.38,
-        "Real Sociedad B": 2.6,
-        "Draw": 3.38
+        "AD Ceuta FC": 2.85,
+        "Real Sociedad B": 2.25,
+        "Draw": 3.3
       },
       "Pinnacle": {
-        "AD Ceuta FC": 2.58,
-        "Real Sociedad B": 2.74,
+        "AD Ceuta FC": 2.93,
+        "Real Sociedad B": 2.43,
         "Draw": 3.56
       },
       "BetOnline.ag": {
-        "AD Ceuta FC": 2.58,
-        "Real Sociedad B": 2.68,
-        "Draw": 3.3
-      },
-      "Codere (IT)": {
-        "AD Ceuta FC": 2.44,
-        "Real Sociedad B": 2.55,
-        "Draw": 3.3
-      },
-      "Coolbet": {
-        "AD Ceuta FC": 2.5,
-        "Real Sociedad B": 2.7,
-        "Draw": 3.6
-      },
-      "1xBet": {
-        "AD Ceuta FC": 2.52,
-        "Real Sociedad B": 2.72,
-        "Draw": 3.61
-      },
-      "Winamax (DE)": {
-        "AD Ceuta FC": 2.4,
-        "Real Sociedad B": 2.55,
-        "Draw": 3.45
-      },
-      "Winamax (FR)": {
-        "AD Ceuta FC": 2.35,
-        "Real Sociedad B": 2.5,
+        "AD Ceuta FC": 2.86,
+        "Real Sociedad B": 2.4,
         "Draw": 3.35
       },
+      "Codere (IT)": {
+        "AD Ceuta FC": 2.8,
+        "Real Sociedad B": 2.3,
+        "Draw": 3.25
+      },
+      "Coolbet": {
+        "AD Ceuta FC": 2.85,
+        "Real Sociedad B": 2.4,
+        "Draw": 3.5
+      },
+      "1xBet": {
+        "AD Ceuta FC": 2.83,
+        "Real Sociedad B": 2.49,
+        "Draw": 3.49
+      },
+      "Winamax (DE)": {
+        "AD Ceuta FC": 2.75,
+        "Real Sociedad B": 2.25,
+        "Draw": 3.35
+      },
+      "Winamax (FR)": {
+        "AD Ceuta FC": 2.7,
+        "Real Sociedad B": 2.25,
+        "Draw": 3.3
+      },
       "Betfair": {
-        "AD Ceuta FC": 2.76,
-        "Real Sociedad B": 2.74,
+        "AD Ceuta FC": 3.05,
+        "Real Sociedad B": 2.56,
         "Draw": 3.55
       },
       "William Hill": {
-        "AD Ceuta FC": 2.4,
-        "Real Sociedad B": 2.62,
-        "Draw": 3.3
+        "AD Ceuta FC": 2.75,
+        "Real Sociedad B": 2.3,
+        "Draw": 3.25
       },
       "Tipico": {
-        "AD Ceuta FC": 2.6,
-        "Real Sociedad B": 2.45,
+        "AD Ceuta FC": 2.85,
+        "Real Sociedad B": 2.25,
         "Draw": 3.4
       },
       "Marathon Bet": {
-        "AD Ceuta FC": 2.51,
-        "Real Sociedad B": 2.57,
-        "Draw": 3.48
+        "AD Ceuta FC": 2.74,
+        "Real Sociedad B": 2.41,
+        "Draw": 3.38
       },
       "BetAnything": {
-        "AD Ceuta FC": 2.58,
-        "Real Sociedad B": 2.68,
-        "Draw": 3.3
+        "AD Ceuta FC": 2.86,
+        "Real Sociedad B": 2.4,
+        "Draw": 3.35
       },
       "Matchbook": {
-        "AD Ceuta FC": 2.76,
-        "Real Sociedad B": 2.76,
-        "Draw": 3.55
+        "AD Ceuta FC": 2.96,
+        "Real Sociedad B": 2.56,
+        "Draw": 3.5
       }
     },
     "567186cbb46d455027b928c7204fa1e8:h2h": {
       "Betsson": {
-        "Scotland": 2.95,
-        "Slovenia": 2.52,
-        "Draw": 3.1
+        "Scotland": 2.85,
+        "Slovenia": 2.65,
+        "Draw": 3.0
       },
       "Betfair": {
-        "Scotland": 3.1,
-        "Slovenia": 2.66,
-        "Draw": 3.25
+        "Scotland": 3.0,
+        "Slovenia": 2.8,
+        "Draw": 3.2
       },
       "Marathon Bet": {
-        "Scotland": 2.97,
-        "Slovenia": 2.56,
-        "Draw": 3.16
+        "Scotland": 2.88,
+        "Slovenia": 2.67,
+        "Draw": 3.12
       },
       "Nordic Bet": {
-        "Scotland": 2.95,
-        "Slovenia": 2.52,
-        "Draw": 3.1
+        "Scotland": 2.85,
+        "Slovenia": 2.65,
+        "Draw": 3.0
       },
       "PMU (FR)": {
-        "Scotland": 2.85,
-        "Slovenia": 2.43,
-        "Draw": 2.95
+        "Scotland": 2.8,
+        "Slovenia": 2.5,
+        "Draw": 2.88
       },
       "Suprabets": {
-        "Scotland": 2.97,
-        "Slovenia": 2.5,
-        "Draw": 3.14
+        "Scotland": 2.84,
+        "Slovenia": 2.67,
+        "Draw": 3.04
       },
       "1xBet": {
-        "Scotland": 3.0,
-        "Slovenia": 2.59,
-        "Draw": 3.19
+        "Scotland": 2.91,
+        "Slovenia": 2.7,
+        "Draw": 3.16
       },
       "Betclic (FR)": {
-        "Scotland": 2.9,
-        "Slovenia": 2.43,
-        "Draw": 3.2
+        "Scotland": 2.82,
+        "Slovenia": 2.55,
+        "Draw": 3.1
       },
       "Winamax (FR)": {
-        "Scotland": 2.75,
-        "Slovenia": 2.4,
-        "Draw": 3.2
+        "Scotland": 2.7,
+        "Slovenia": 2.5,
+        "Draw": 3.1
       },
       "Winamax (DE)": {
-        "Scotland": 2.8,
-        "Slovenia": 2.45,
-        "Draw": 3.2
+        "Scotland": 2.75,
+        "Slovenia": 2.55,
+        "Draw": 3.1
       },
       "William Hill": {
-        "Scotland": 2.8,
-        "Slovenia": 2.45,
-        "Draw": 3.0
+        "Scotland": 2.75,
+        "Slovenia": 2.5,
+        "Draw": 2.9
       }
     },
     "6e782642059c671fc2f5ba689f25301f:h2h": {
       "Pinnacle": {
         "Accrington Stanley": 3.02,
-        "Swindon Town": 2.25,
-        "Draw": 3.66
+        "Swindon Town": 2.26,
+        "Draw": 3.64
       },
       "1xBet": {
-        "Accrington Stanley": 2.98,
+        "Accrington Stanley": 2.97,
         "Swindon Town": 2.19,
-        "Draw": 3.48
+        "Draw": 3.5
       },
       "Codere (IT)": {
         "Accrington Stanley": 3.0,
@@ -244,18 +177,18 @@
       },
       "Coolbet": {
         "Accrington Stanley": 3.1,
-        "Swindon Town": 2.17,
-        "Draw": 3.5
+        "Swindon Town": 2.12,
+        "Draw": 3.6
       },
       "Betfair": {
-        "Accrington Stanley": 3.2,
-        "Swindon Town": 2.3,
-        "Draw": 3.7
+        "Accrington Stanley": 3.25,
+        "Swindon Town": 2.26,
+        "Draw": 3.8
       },
       "Marathon Bet": {
-        "Accrington Stanley": 2.96,
+        "Accrington Stanley": 2.95,
         "Swindon Town": 2.17,
-        "Draw": 3.48
+        "Draw": 3.5
       },
       "888sport": {
         "Accrington Stanley": 2.9,
@@ -269,8 +202,8 @@
       },
       "Tipico": {
         "Accrington Stanley": 3.1,
-        "Swindon Town": 2.1,
-        "Draw": 3.5
+        "Swindon Town": 2.05,
+        "Draw": 3.6
       },
       "Unibet (NL)": {
         "Accrington Stanley": 3.15,
@@ -298,14 +231,96 @@
         "Draw": 3.4
       },
       "BetOnline.ag": {
-        "Accrington Stanley": 2.92,
-        "Swindon Town": 2.24,
-        "Draw": 3.55
+        "Accrington Stanley": 2.98,
+        "Swindon Town": 2.22,
+        "Draw": 3.5
       },
       "Matchbook": {
         "Accrington Stanley": 3.25,
-        "Swindon Town": 2.3,
-        "Draw": 3.7
+        "Swindon Town": 2.26,
+        "Draw": 3.8
+      }
+    },
+    "98d79d997fc534eb51e384e1236d9d04:h2h": {
+      "Pinnacle": {
+        "Bristol Rovers": 1.73,
+        "Exeter City": 4.64,
+        "Draw": 3.89
+      },
+      "1xBet": {
+        "Bristol Rovers": 1.74,
+        "Exeter City": 4.25,
+        "Draw": 3.72
+      },
+      "Codere (IT)": {
+        "Bristol Rovers": 1.71,
+        "Exeter City": 4.2,
+        "Draw": 3.6
+      },
+      "Coolbet": {
+        "Bristol Rovers": 1.75,
+        "Exeter City": 4.4,
+        "Draw": 3.75
+      },
+      "Betfair": {
+        "Bristol Rovers": 1.76,
+        "Exeter City": 5.1,
+        "Draw": 4.0
+      },
+      "Marathon Bet": {
+        "Bristol Rovers": 1.72,
+        "Exeter City": 4.25,
+        "Draw": 3.72
+      },
+      "888sport": {
+        "Bristol Rovers": 1.73,
+        "Exeter City": 4.4,
+        "Draw": 3.6
+      },
+      "William Hill": {
+        "Bristol Rovers": 1.73,
+        "Exeter City": 4.4,
+        "Draw": 3.6
+      },
+      "Tipico": {
+        "Bristol Rovers": 1.65,
+        "Exeter City": 4.6,
+        "Draw": 3.8
+      },
+      "LeoVegas (SE)": {
+        "Bristol Rovers": 1.67,
+        "Exeter City": 4.25,
+        "Draw": 3.55
+      },
+      "Unibet (SE)": {
+        "Bristol Rovers": 1.7,
+        "Exeter City": 4.3,
+        "Draw": 3.55
+      },
+      "Unibet (NL)": {
+        "Bristol Rovers": 1.7,
+        "Exeter City": 4.3,
+        "Draw": 3.55
+      },
+      "Nordic Bet": {
+        "Bristol Rovers": 1.75,
+        "Exeter City": 4.4,
+        "Draw": 3.45
+      },
+      "Betsson": {
+        "Bristol Rovers": 1.75,
+        "Exeter City": 4.4,
+        "Draw": 3.45
+      },
+      "BetOnline.ag": {
+        "Bristol Rovers": 1.72,
+        "Exeter City": 4.4,
+        "Draw": 3.75
+      },
+      "Matchbook": {
+        "Bristol Rovers": 1.77,
+        "Exeter City": 5.1,
+        "Draw": 4.0
       }
     }
   },
@@ -1369,26 +1384,5 @@
     }
   ],
   "results_history": [],
-  "value_alerted": [
-    "122267c39aa7c22d2654631087b55b39:h2h|888sport|Atlas",
-    "122267c39aa7c22d2654631087b55b39:h2h|Betclic (FR)|Atlas",
-    "122267c39aa7c22d2654631087b55b39:h2h|Betfair|Atlas",
-    "122267c39aa7c22d2654631087b55b39:h2h|Betfair|Draw",
-    "122267c39aa7c22d2654631087b55b39:h2h|Betsson|Atlas",
-    "122267c39aa7c22d2654631087b55b39:h2h|Coolbet|Atlas",
-    "122267c39aa7c22d2654631087b55b39:h2h|Coolbet|Draw",
-    "122267c39aa7c22d2654631087b55b39:h2h|LeoVegas (SE)|Atlas",
-    "122267c39aa7c22d2654631087b55b39:h2h|LeoVegas (SE)|Draw",
-    "122267c39aa7c22d2654631087b55b39:h2h|Matchbook|Atlas",
-    "122267c39aa7c22d2654631087b55b39:h2h|Matchbook|Draw",
-    "122267c39aa7c22d2654631087b55b39:h2h|Nordic Bet|Atlas",
-    "122267c39aa7c22d2654631087b55b39:h2h|Nordic Bet|Draw",
-    "122267c39aa7c22d2654631087b55b39:h2h|PMU (FR)|Atlas",
-    "122267c39aa7c22d2654631087b55b39:h2h|PMU (FR)|Draw",
-    "122267c39aa7c22d2654631087b55b39:h2h|Tipico|Atlas",
-    "122267c39aa7c22d2654631087b55b39:h2h|Unibet (NL)|Atlas",
-    "122267c39aa7c22d2654631087b55b39:h2h|Unibet (NL)|Draw",
-    "122267c39aa7c22d2654631087b55b39:h2h|Unibet (SE)|Atlas",
-    "122267c39aa7c22d2654631087b55b39:h2h|Unibet (SE)|Draw"
-  ]
+  "value_alerted": []
 }
