@@ -1,171 +1,261 @@
 {
   "snapshots": {
-    "3a8119a7913de6cce01fdc6c809918d8:h2h": {
-      "LeoVegas (SE)": {
-        "Andorra CF": 1.04,
-        "Granada CF": 81.0,
-        "Draw": 7.0
-      },
-      "Betsson": {
-        "Andorra CF": 1.03,
-        "Granada CF": 130.0,
-        "Draw": 10.0
+    "05b881a26c3e03cb419559c37f25ba29:h2h": {
+      "Unibet (SE)": {
+        "Ceará": 81.0,
+        "Operario PR": 1.02,
+        "Draw": 18.0
       },
       "Nordic Bet": {
-        "Andorra CF": 1.01,
-        "Granada CF": 150.0,
-        "Draw": 13.0
+        "Ceará": 80.0,
+        "Operario PR": 1.03,
+        "Draw": 19.0
       },
-      "Betclic (FR)": {
-        "Andorra CF": 1.11,
-        "Granada CF": 28.0,
-        "Draw": 4.8
+      "Betsson": {
+        "Ceará": 80.0,
+        "Operario PR": 1.03,
+        "Draw": 19.0
       },
       "Coolbet": {
-        "Andorra CF": 1.01,
-        "Granada CF": 150.0,
-        "Draw": 13.0
+        "Ceará": 40.0,
+        "Operario PR": 1.02,
+        "Draw": 12.5
       },
       "Pinnacle": {
-        "Andorra CF": 1.26,
-        "Granada CF": 20.5,
-        "Draw": 4.57
+        "Ceará": 15.04,
+        "Operario PR": 1.33,
+        "Draw": 4.12
       },
-      "Winamax (FR)": {
-        "Andorra CF": 1.04,
-        "Granada CF": 600.0,
-        "Draw": 14.5
-      },
-      "Winamax (DE)": {
-        "Andorra CF": 1.02,
-        "Granada CF": 1000.0,
+      "888sport": {
+        "Ceará": 81.0,
+        "Operario PR": 1.02,
         "Draw": 17.0
       },
       "Tipico": {
-        "Andorra CF": 1.01,
-        "Granada CF": 400.0,
-        "Draw": 20.0
+        "Ceará": 25.0,
+        "Operario PR": 1.25,
+        "Draw": 4.0
       },
       "Betfair": {
-        "Andorra CF": 1.06,
-        "Granada CF": 1000.0,
-        "Draw": 13.5
-      }
-    },
-    "c42d46144130858aea0b0c9ecd0dff1d:h2h": {
-      "Betsson": {
-        "Estonia": 10.5,
-        "Iceland": 1.28,
-        "Draw": 4.6
-      },
-      "Betfair": {
-        "Estonia": 13.0,
-        "Iceland": 1.35,
-        "Draw": 5.2
-      },
-      "Nordic Bet": {
-        "Estonia": 11.5,
-        "Iceland": 1.28,
-        "Draw": 4.4
-      },
-      "Suprabets": {
-        "Estonia": 11.0,
-        "Iceland": 1.33,
-        "Draw": 4.9
-      },
-      "Winamax (FR)": {
-        "Estonia": 9.0,
-        "Iceland": 1.29,
-        "Draw": 4.4
-      },
-      "PMU (FR)": {
-        "Estonia": 9.0,
-        "Iceland": 1.25,
-        "Draw": 4.5
-      },
-      "Betclic (FR)": {
-        "Estonia": 8.75,
-        "Iceland": 1.26,
-        "Draw": 4.35
-      }
-    },
-    "133c2380620459b6c4dcefe9ce9f16dd:h2h": {
-      "Betfair": {
-        "Finland": 1.02,
-        "San Marino": 120.0,
-        "Draw": 42.0
-      },
-      "Nordic Bet": {
-        "Finland": 1.0,
-        "San Marino": 36.0,
+        "Ceará": 120.0,
+        "Operario PR": 1.05,
         "Draw": 21.0
+      }
+    },
+    "8cc0a23818f4147d5c851761e45caefd:h2h": {
+      "Unibet (SE)": {
+        "Nautico PE": 1.05,
+        "Sport Recife": 35.0,
+        "Draw": 11.5
       },
-      "Suprabets": {
-        "Finland": 1.01,
-        "San Marino": 126.0,
-        "Draw": 19.0
+      "LeoVegas (SE)": {
+        "Nautico PE": 1.01,
+        "Sport Recife": 34.0,
+        "Draw": 10.5
       },
-      "Betclic (FR)": {
-        "Finland": 1.0,
-        "San Marino": 40.0,
-        "Draw": 7.75
+      "Unibet (NL)": {
+        "Nautico PE": 1.01,
+        "Sport Recife": 34.0,
+        "Draw": 10.5
       },
-      "Winamax (FR)": {
-        "Finland": 1.01,
-        "San Marino": 95.0,
-        "Draw": 34.0
+      "Coolbet": {
+        "Nautico PE": 1.03,
+        "Sport Recife": 35.0,
+        "Draw": 11.0
       },
-      "Winamax (DE)": {
-        "Finland": 1.01,
-        "San Marino": 90.0,
-        "Draw": 32.0
+      "Nordic Bet": {
+        "Nautico PE": 1.04,
+        "Sport Recife": 41.0,
+        "Draw": 11.0
+      },
+      "Betsson": {
+        "Nautico PE": 1.04,
+        "Sport Recife": 41.0,
+        "Draw": 11.0
+      },
+      "888sport": {
+        "Nautico PE": 1.05,
+        "Sport Recife": 46.0,
+        "Draw": 12.0
+      },
+      "Matchbook": {
+        "Nautico PE": 1.07,
+        "Sport Recife": 70.0,
+        "Draw": 14.5
+      },
+      "Betfair": {
+        "Nautico PE": 1.09,
+        "Sport Recife": 65.0,
+        "Draw": 13.0
+      }
+    },
+    "8d9185c24bc79d5a22b714afc6001ed2:h2h": {
+      "LeoVegas (SE)": {
+        "Atletico Goianiense": 2.85,
+        "Goiás": 2.48,
+        "Draw": 2.7
+      },
+      "Unibet (NL)": {
+        "Atletico Goianiense": 3.0,
+        "Goiás": 2.6,
+        "Draw": 2.85
+      },
+      "Unibet (SE)": {
+        "Atletico Goianiense": 3.0,
+        "Goiás": 2.6,
+        "Draw": 2.85
+      },
+      "Betsson": {
+        "Atletico Goianiense": 2.72,
+        "Goiás": 2.62,
+        "Draw": 2.92
+      },
+      "Nordic Bet": {
+        "Atletico Goianiense": 2.72,
+        "Goiás": 2.62,
+        "Draw": 2.92
+      },
+      "Coolbet": {
+        "Atletico Goianiense": 2.8,
+        "Goiás": 2.65,
+        "Draw": 3.0
+      },
+      "BetOnline.ag": {
+        "Atletico Goianiense": 2.9,
+        "Goiás": 2.68,
+        "Draw": 2.92
+      },
+      "Pinnacle": {
+        "Atletico Goianiense": 2.87,
+        "Goiás": 2.8,
+        "Draw": 3.01
+      },
+      "1xBet": {
+        "Atletico Goianiense": 2.79,
+        "Goiás": 2.6,
+        "Draw": 2.91
+      },
+      "888sport": {
+        "Atletico Goianiense": 2.8,
+        "Goiás": 2.6,
+        "Draw": 2.88
       },
       "William Hill": {
-        "Finland": 1.06,
-        "San Marino": 41.0,
-        "Draw": 11.0
-      }
-    },
-    "aa53f6f572fd2c1335f51cb641d885a0:h2h": {
-      "Betfair": {
-        "Bulgaria": 2.9,
-        "Luxembourg": 3.15,
+        "Atletico Goianiense": 2.8,
+        "Goiás": 2.6,
+        "Draw": 2.88
+      },
+      "Tipico": {
+        "Atletico Goianiense": 2.9,
+        "Goiás": 2.4,
         "Draw": 2.9
       },
-      "Nordic Bet": {
-        "Bulgaria": 2.6,
-        "Luxembourg": 3.05,
-        "Draw": 2.65
+      "Codere (IT)": {
+        "Atletico Goianiense": 2.7,
+        "Goiás": 2.6,
+        "Draw": 2.95
+      },
+      "Matchbook": {
+        "Atletico Goianiense": 3.1,
+        "Goiás": 2.76,
+        "Draw": 3.1
+      },
+      "Betfair": {
+        "Atletico Goianiense": 3.1,
+        "Goiás": 2.76,
+        "Draw": 3.1
+      }
+    },
+    "5e4afd22ace0d403c9f3f2facc8d3b0f:h2h": {
+      "Unibet (NL)": {
+        "Cruz Azul": 2.55,
+        "Toluca": 2.48,
+        "Draw": 3.45
       },
       "PMU (FR)": {
-        "Bulgaria": 2.45,
-        "Luxembourg": 3.1,
-        "Draw": 2.65
+        "Cruz Azul": 2.38,
+        "Toluca": 2.3,
+        "Draw": 3.2
       },
-      "Suprabets": {
-        "Bulgaria": 2.7,
-        "Luxembourg": 3.1,
-        "Draw": 2.8
+      "Unibet (SE)": {
+        "Cruz Azul": 2.55,
+        "Toluca": 2.48,
+        "Draw": 3.45
+      },
+      "LeoVegas (SE)": {
+        "Cruz Azul": 2.45,
+        "Toluca": 2.38,
+        "Draw": 3.3
       },
       "Betclic (FR)": {
-        "Bulgaria": 2.45,
-        "Luxembourg": 2.8,
-        "Draw": 2.65
+        "Cruz Azul": 2.52,
+        "Toluca": 2.38,
+        "Draw": 3.43
       },
-      "Winamax (FR)": {
-        "Bulgaria": 2.5,
-        "Luxembourg": 2.8,
-        "Draw": 2.55
+      "Coolbet": {
+        "Cruz Azul": 2.75,
+        "Toluca": 2.67,
+        "Draw": 3.2
       },
-      "Winamax (DE)": {
-        "Bulgaria": 2.65,
-        "Luxembourg": 2.85,
-        "Draw": 2.65
+      "Pinnacle": {
+        "Cruz Azul": 2.73,
+        "Toluca": 2.67,
+        "Draw": 3.43
+      },
+      "Betsson": {
+        "Cruz Azul": 2.55,
+        "Toluca": 2.55,
+        "Draw": 3.4
+      },
+      "1xBet": {
+        "Cruz Azul": 2.6,
+        "Toluca": 2.55,
+        "Draw": 3.24
+      },
+      "Nordic Bet": {
+        "Cruz Azul": 2.55,
+        "Toluca": 2.55,
+        "Draw": 3.4
+      },
+      "GTbets": {
+        "Cruz Azul": 2.71,
+        "Toluca": 2.61,
+        "Draw": 3.43
+      },
+      "Marathon Bet": {
+        "Cruz Azul": 2.6,
+        "Toluca": 2.55,
+        "Draw": 3.24
+      },
+      "888sport": {
+        "Cruz Azul": 2.5,
+        "Toluca": 2.45,
+        "Draw": 3.1
       },
       "William Hill": {
-        "Bulgaria": 2.5,
-        "Luxembourg": 3.0,
-        "Draw": 2.7
+        "Cruz Azul": 2.5,
+        "Toluca": 2.45,
+        "Draw": 3.1
+      },
+      "BetOnline.ag": {
+        "Cruz Azul": 2.7,
+        "Toluca": 2.68,
+        "Draw": 3.43
+      },
+      "Tipico": {
+        "Cruz Azul": 2.65,
+        "Toluca": 2.5,
+        "Draw": 3.2
+      },
+      "Betfair": {
+        "Cruz Azul": 2.74,
+        "Toluca": 2.7,
+        "Draw": 3.6
+      },
+      "Matchbook": {
+        "Cruz Azul": 2.74,
+        "Toluca": 2.72,
+        "Draw": 3.6
       }
     }
   },
@@ -1498,26 +1588,230 @@
       "confidence": 178,
       "alert_type": "value",
       "alerted_at": "2026-09-26T16:18:00.718808+00:00"
+    },
+    {
+      "state_key": "05b881a26c3e03cb419559c37f25ba29:h2h",
+      "event_id": "05b881a26c3e03cb419559c37f25ba29",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Operario PR",
+      "away_team": "Ceará",
+      "commence_time": "2026-09-26T19:31:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Ceará",
+      "odds_at_alert": 81.0,
+      "stake_pct": 5.0,
+      "confidence": 408,
+      "alert_type": "value",
+      "alerted_at": "2026-09-26T21:03:45.769599+00:00"
+    },
+    {
+      "state_key": "05b881a26c3e03cb419559c37f25ba29:h2h",
+      "event_id": "05b881a26c3e03cb419559c37f25ba29",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Operario PR",
+      "away_team": "Ceará",
+      "commence_time": "2026-09-26T19:31:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 18.0,
+      "stake_pct": 5.0,
+      "confidence": 312,
+      "alert_type": "value",
+      "alerted_at": "2026-09-26T21:03:46.126917+00:00"
+    },
+    {
+      "state_key": "05b881a26c3e03cb419559c37f25ba29:h2h",
+      "event_id": "05b881a26c3e03cb419559c37f25ba29",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Operario PR",
+      "away_team": "Ceará",
+      "commence_time": "2026-09-26T19:31:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Ceará",
+      "odds_at_alert": 80.0,
+      "stake_pct": 5.0,
+      "confidence": 401,
+      "alert_type": "value",
+      "alerted_at": "2026-09-26T21:03:46.497038+00:00"
+    },
+    {
+      "state_key": "05b881a26c3e03cb419559c37f25ba29:h2h",
+      "event_id": "05b881a26c3e03cb419559c37f25ba29",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Operario PR",
+      "away_team": "Ceará",
+      "commence_time": "2026-09-26T19:31:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 19.0,
+      "stake_pct": 5.0,
+      "confidence": 335,
+      "alert_type": "value",
+      "alerted_at": "2026-09-26T21:03:46.876511+00:00"
+    },
+    {
+      "state_key": "05b881a26c3e03cb419559c37f25ba29:h2h",
+      "event_id": "05b881a26c3e03cb419559c37f25ba29",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Operario PR",
+      "away_team": "Ceará",
+      "commence_time": "2026-09-26T19:31:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Ceará",
+      "odds_at_alert": 80.0,
+      "stake_pct": 5.0,
+      "confidence": 401,
+      "alert_type": "value",
+      "alerted_at": "2026-09-26T21:03:47.286228+00:00"
+    },
+    {
+      "state_key": "05b881a26c3e03cb419559c37f25ba29:h2h",
+      "event_id": "05b881a26c3e03cb419559c37f25ba29",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Operario PR",
+      "away_team": "Ceará",
+      "commence_time": "2026-09-26T19:31:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 19.0,
+      "stake_pct": 5.0,
+      "confidence": 335,
+      "alert_type": "value",
+      "alerted_at": "2026-09-26T21:03:47.664888+00:00"
+    },
+    {
+      "state_key": "05b881a26c3e03cb419559c37f25ba29:h2h",
+      "event_id": "05b881a26c3e03cb419559c37f25ba29",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Operario PR",
+      "away_team": "Ceará",
+      "commence_time": "2026-09-26T19:31:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Ceará",
+      "odds_at_alert": 40.0,
+      "stake_pct": 5.0,
+      "confidence": 151,
+      "alert_type": "value",
+      "alerted_at": "2026-09-26T21:03:48.076608+00:00"
+    },
+    {
+      "state_key": "05b881a26c3e03cb419559c37f25ba29:h2h",
+      "event_id": "05b881a26c3e03cb419559c37f25ba29",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Operario PR",
+      "away_team": "Ceará",
+      "commence_time": "2026-09-26T19:31:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 12.5,
+      "stake_pct": 5.0,
+      "confidence": 186,
+      "alert_type": "value",
+      "alerted_at": "2026-09-26T21:03:48.502896+00:00"
+    },
+    {
+      "state_key": "05b881a26c3e03cb419559c37f25ba29:h2h",
+      "event_id": "05b881a26c3e03cb419559c37f25ba29",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Operario PR",
+      "away_team": "Ceará",
+      "commence_time": "2026-09-26T19:31:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Ceará",
+      "odds_at_alert": 81.0,
+      "stake_pct": 5.0,
+      "confidence": 408,
+      "alert_type": "value",
+      "alerted_at": "2026-09-26T21:03:48.899550+00:00"
+    },
+    {
+      "state_key": "05b881a26c3e03cb419559c37f25ba29:h2h",
+      "event_id": "05b881a26c3e03cb419559c37f25ba29",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Operario PR",
+      "away_team": "Ceará",
+      "commence_time": "2026-09-26T19:31:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 289,
+      "alert_type": "value",
+      "alerted_at": "2026-09-26T21:03:49.256095+00:00"
+    },
+    {
+      "state_key": "05b881a26c3e03cb419559c37f25ba29:h2h",
+      "event_id": "05b881a26c3e03cb419559c37f25ba29",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Operario PR",
+      "away_team": "Ceará",
+      "commence_time": "2026-09-26T19:31:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Ceará",
+      "odds_at_alert": 25.0,
+      "stake_pct": 5.0,
+      "confidence": 57,
+      "alert_type": "value",
+      "alerted_at": "2026-09-26T21:03:49.624859+00:00"
+    },
+    {
+      "state_key": "05b881a26c3e03cb419559c37f25ba29:h2h",
+      "event_id": "05b881a26c3e03cb419559c37f25ba29",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Operario PR",
+      "away_team": "Ceará",
+      "commence_time": "2026-09-26T19:31:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Ceará",
+      "odds_at_alert": 120.0,
+      "stake_pct": 5.0,
+      "confidence": 652,
+      "alert_type": "value",
+      "alerted_at": "2026-09-26T21:03:49.953832+00:00"
+    },
+    {
+      "state_key": "05b881a26c3e03cb419559c37f25ba29:h2h",
+      "event_id": "05b881a26c3e03cb419559c37f25ba29",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Operario PR",
+      "away_team": "Ceará",
+      "commence_time": "2026-09-26T19:31:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 21.0,
+      "stake_pct": 5.0,
+      "confidence": 380,
+      "alert_type": "value",
+      "alerted_at": "2026-09-26T21:03:50.271106+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "3a8119a7913de6cce01fdc6c809918d8:h2h|Betclic (FR)|Granada CF",
-    "3a8119a7913de6cce01fdc6c809918d8:h2h|Betfair|Draw",
-    "3a8119a7913de6cce01fdc6c809918d8:h2h|Betfair|Granada CF",
-    "3a8119a7913de6cce01fdc6c809918d8:h2h|Betsson|Draw",
-    "3a8119a7913de6cce01fdc6c809918d8:h2h|Betsson|Granada CF",
-    "3a8119a7913de6cce01fdc6c809918d8:h2h|Coolbet|Draw",
-    "3a8119a7913de6cce01fdc6c809918d8:h2h|Coolbet|Granada CF",
-    "3a8119a7913de6cce01fdc6c809918d8:h2h|LeoVegas (SE)|Draw",
-    "3a8119a7913de6cce01fdc6c809918d8:h2h|LeoVegas (SE)|Granada CF",
-    "3a8119a7913de6cce01fdc6c809918d8:h2h|Nordic Bet|Draw",
-    "3a8119a7913de6cce01fdc6c809918d8:h2h|Nordic Bet|Granada CF",
-    "3a8119a7913de6cce01fdc6c809918d8:h2h|Tipico|Draw",
-    "3a8119a7913de6cce01fdc6c809918d8:h2h|Tipico|Granada CF",
-    "3a8119a7913de6cce01fdc6c809918d8:h2h|Winamax (DE)|Draw",
-    "3a8119a7913de6cce01fdc6c809918d8:h2h|Winamax (DE)|Granada CF",
-    "3a8119a7913de6cce01fdc6c809918d8:h2h|Winamax (FR)|Draw",
-    "3a8119a7913de6cce01fdc6c809918d8:h2h|Winamax (FR)|Granada CF"
+    "05b881a26c3e03cb419559c37f25ba29:h2h|888sport|Ceará",
+    "05b881a26c3e03cb419559c37f25ba29:h2h|888sport|Draw",
+    "05b881a26c3e03cb419559c37f25ba29:h2h|Betfair|Ceará",
+    "05b881a26c3e03cb419559c37f25ba29:h2h|Betfair|Draw",
+    "05b881a26c3e03cb419559c37f25ba29:h2h|Betsson|Ceará",
+    "05b881a26c3e03cb419559c37f25ba29:h2h|Betsson|Draw",
+    "05b881a26c3e03cb419559c37f25ba29:h2h|Coolbet|Ceará",
+    "05b881a26c3e03cb419559c37f25ba29:h2h|Coolbet|Draw",
+    "05b881a26c3e03cb419559c37f25ba29:h2h|Nordic Bet|Ceará",
+    "05b881a26c3e03cb419559c37f25ba29:h2h|Nordic Bet|Draw",
+    "05b881a26c3e03cb419559c37f25ba29:h2h|Tipico|Ceará",
+    "05b881a26c3e03cb419559c37f25ba29:h2h|Unibet (SE)|Ceará",
+    "05b881a26c3e03cb419559c37f25ba29:h2h|Unibet (SE)|Draw"
   ]
 }
