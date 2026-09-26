@@ -1,326 +1,311 @@
 {
   "snapshots": {
-    "580fc53eb7e9e19e813cab0bff6d08d8:h2h": {
-      "Unibet (NL)": {
-        "Grêmio Novorizontino": 1.73,
-        "São Bernardo": 6.0,
-        "Draw": 2.55
-      },
-      "LeoVegas (SE)": {
-        "Grêmio Novorizontino": 1.72,
-        "São Bernardo": 6.0,
-        "Draw": 2.55
-      },
+    "122267c39aa7c22d2654631087b55b39:h2h": {
       "Unibet (SE)": {
-        "Grêmio Novorizontino": 1.81,
-        "São Bernardo": 6.4,
-        "Draw": 2.7
+        "Atlas": 26.0,
+        "Tijuana": 1.2,
+        "Draw": 4.9
       },
-      "Nordic Bet": {
-        "Grêmio Novorizontino": 1.78,
-        "São Bernardo": 5.8,
-        "Draw": 2.6
-      },
-      "Pinnacle": {
-        "Grêmio Novorizontino": 1.84,
-        "São Bernardo": 6.77,
-        "Draw": 2.68
-      },
-      "Coolbet": {
-        "Grêmio Novorizontino": 1.85,
-        "São Bernardo": 5.5,
-        "Draw": 2.75
-      },
-      "Betsson": {
-        "Grêmio Novorizontino": 1.85,
-        "São Bernardo": 5.8,
-        "Draw": 2.45
-      },
-      "888sport": {
-        "Grêmio Novorizontino": 1.75,
-        "São Bernardo": 5.5,
-        "Draw": 2.8
-      },
-      "Tipico": {
-        "Grêmio Novorizontino": 1.75,
-        "São Bernardo": 6.5,
-        "Draw": 2.7
-      },
-      "Matchbook": {
-        "Grêmio Novorizontino": 2.0,
-        "São Bernardo": 7.2,
-        "Draw": 2.76
-      },
-      "Betfair": {
-        "Grêmio Novorizontino": 1.97,
-        "São Bernardo": 7.0,
-        "Draw": 2.82
-      }
-    },
-    "816858473c3fb5e5be9e89ea44099597:h2h": {
       "Unibet (NL)": {
-        "Londrina": 5.2,
-        "Vila Nova": 1.65,
-        "Draw": 3.65
-      },
-      "Unibet (SE)": {
-        "Londrina": 5.2,
-        "Vila Nova": 1.65,
-        "Draw": 3.65
-      },
-      "LeoVegas (SE)": {
-        "Londrina": 4.9,
-        "Vila Nova": 1.57,
-        "Draw": 3.45
-      },
-      "Coolbet": {
-        "Londrina": 5.0,
-        "Vila Nova": 1.68,
-        "Draw": 3.6
-      },
-      "BetOnline.ag": {
-        "Londrina": 5.2,
-        "Vila Nova": 1.68,
-        "Draw": 3.6
-      },
-      "Betsson": {
-        "Londrina": 5.1,
-        "Vila Nova": 1.62,
-        "Draw": 3.5
-      },
-      "Nordic Bet": {
-        "Londrina": 5.1,
-        "Vila Nova": 1.62,
-        "Draw": 3.5
-      },
-      "1xBet": {
-        "Londrina": 5.27,
-        "Vila Nova": 1.64,
-        "Draw": 3.6
-      },
-      "Pinnacle": {
-        "Londrina": 5.4,
-        "Vila Nova": 1.7,
-        "Draw": 3.71
-      },
-      "Marathon Bet": {
-        "Londrina": 5.05,
-        "Vila Nova": 1.65,
-        "Draw": 3.54
-      },
-      "888sport": {
-        "Londrina": 5.0,
-        "Vila Nova": 1.67,
-        "Draw": 3.4
-      },
-      "William Hill": {
-        "Londrina": 5.0,
-        "Vila Nova": 1.67,
-        "Draw": 3.4
-      },
-      "Codere (IT)": {
-        "Londrina": 5.0,
-        "Vila Nova": 1.63,
-        "Draw": 3.55
-      },
-      "Tipico": {
-        "Londrina": 5.2,
-        "Vila Nova": 1.55,
-        "Draw": 3.7
-      },
-      "Matchbook": {
-        "Londrina": 5.9,
-        "Vila Nova": 1.71,
-        "Draw": 3.95
-      },
-      "Betfair": {
-        "Londrina": 6.0,
-        "Vila Nova": 1.72,
-        "Draw": 3.95
-      }
-    },
-    "4fbefac3123d4ff451f2e10eb66e0371:h2h": {
-      "Unibet (NL)": {
-        "Atlante FC": 3.35,
-        "Monterrey": 1.96,
-        "Draw": 3.55
+        "Atlas": 26.0,
+        "Tijuana": 1.2,
+        "Draw": 4.9
       },
       "PMU (FR)": {
-        "Atlante FC": 3.1,
-        "Monterrey": 1.83,
+        "Atlas": 21.0,
+        "Tijuana": 1.09,
+        "Draw": 4.25
+      },
+      "LeoVegas (SE)": {
+        "Atlas": 23.0,
+        "Tijuana": 1.15,
+        "Draw": 4.5
+      },
+      "Betclic (FR)": {
+        "Atlas": 15.75,
+        "Tijuana": 1.24,
+        "Draw": 3.8
+      },
+      "Pinnacle": {
+        "Atlas": 12.6,
+        "Tijuana": 1.42,
+        "Draw": 3.66
+      },
+      "Coolbet": {
+        "Atlas": 25.0,
+        "Tijuana": 1.29,
+        "Draw": 4.5
+      },
+      "Betsson": {
+        "Atlas": 17.5,
+        "Tijuana": 1.28,
+        "Draw": 3.9
+      },
+      "Nordic Bet": {
+        "Atlas": 19.5,
+        "Tijuana": 1.26,
+        "Draw": 4.1
+      },
+      "888sport": {
+        "Atlas": 15.0,
+        "Tijuana": 1.25,
+        "Draw": 3.9
+      },
+      "Betfair": {
+        "Atlas": 25.0,
+        "Tijuana": 1.33,
+        "Draw": 4.4
+      },
+      "Matchbook": {
+        "Atlas": 27.0,
+        "Tijuana": 1.31,
+        "Draw": 4.6
+      },
+      "Tipico": {
+        "Atlas": 16.0,
+        "Tijuana": 1.27,
+        "Draw": 4.0
+      }
+    },
+    "48580f15885c0dcac1cecaafad5a2541:h2h": {
+      "LeoVegas (SE)": {
+        "AD Ceuta FC": 2.28,
+        "Real Sociedad B": 2.6,
         "Draw": 3.3
       },
       "Unibet (SE)": {
-        "Atlante FC": 3.35,
-        "Monterrey": 1.96,
-        "Draw": 3.55
-      },
-      "LeoVegas (SE)": {
-        "Atlante FC": 3.25,
-        "Monterrey": 1.91,
-        "Draw": 3.4
-      },
-      "Coolbet": {
-        "Atlante FC": 3.35,
-        "Monterrey": 2.15,
+        "AD Ceuta FC": 2.4,
+        "Real Sociedad B": 2.75,
         "Draw": 3.5
       },
-      "Nordic Bet": {
-        "Atlante FC": 3.25,
-        "Monterrey": 2.08,
-        "Draw": 3.45
-      },
-      "Betclic (FR)": {
-        "Atlante FC": 2.97,
-        "Monterrey": 2.1,
-        "Draw": 3.38
+      "PMU (FR)": {
+        "AD Ceuta FC": 2.2,
+        "Real Sociedad B": 2.5,
+        "Draw": 3.2
       },
       "Betsson": {
-        "Atlante FC": 3.25,
-        "Monterrey": 2.08,
-        "Draw": 3.45
+        "AD Ceuta FC": 2.45,
+        "Real Sociedad B": 2.62,
+        "Draw": 3.35
+      },
+      "Unibet (FR)": {
+        "AD Ceuta FC": 2.2,
+        "Real Sociedad B": 2.5,
+        "Draw": 3.2
+      },
+      "Nordic Bet": {
+        "AD Ceuta FC": 2.45,
+        "Real Sociedad B": 2.62,
+        "Draw": 3.35
+      },
+      "Betclic (FR)": {
+        "AD Ceuta FC": 2.38,
+        "Real Sociedad B": 2.6,
+        "Draw": 3.38
       },
       "Pinnacle": {
-        "Atlante FC": 3.27,
-        "Monterrey": 2.2,
+        "AD Ceuta FC": 2.58,
+        "Real Sociedad B": 2.74,
+        "Draw": 3.56
+      },
+      "BetOnline.ag": {
+        "AD Ceuta FC": 2.58,
+        "Real Sociedad B": 2.68,
+        "Draw": 3.3
+      },
+      "Codere (IT)": {
+        "AD Ceuta FC": 2.44,
+        "Real Sociedad B": 2.55,
+        "Draw": 3.3
+      },
+      "Coolbet": {
+        "AD Ceuta FC": 2.5,
+        "Real Sociedad B": 2.7,
+        "Draw": 3.6
+      },
+      "1xBet": {
+        "AD Ceuta FC": 2.52,
+        "Real Sociedad B": 2.72,
+        "Draw": 3.61
+      },
+      "Winamax (DE)": {
+        "AD Ceuta FC": 2.4,
+        "Real Sociedad B": 2.55,
+        "Draw": 3.45
+      },
+      "Winamax (FR)": {
+        "AD Ceuta FC": 2.35,
+        "Real Sociedad B": 2.5,
+        "Draw": 3.35
+      },
+      "Betfair": {
+        "AD Ceuta FC": 2.76,
+        "Real Sociedad B": 2.74,
+        "Draw": 3.55
+      },
+      "William Hill": {
+        "AD Ceuta FC": 2.4,
+        "Real Sociedad B": 2.62,
+        "Draw": 3.3
+      },
+      "Tipico": {
+        "AD Ceuta FC": 2.6,
+        "Real Sociedad B": 2.45,
+        "Draw": 3.4
+      },
+      "Marathon Bet": {
+        "AD Ceuta FC": 2.51,
+        "Real Sociedad B": 2.57,
+        "Draw": 3.48
+      },
+      "BetAnything": {
+        "AD Ceuta FC": 2.58,
+        "Real Sociedad B": 2.68,
+        "Draw": 3.3
+      },
+      "Matchbook": {
+        "AD Ceuta FC": 2.76,
+        "Real Sociedad B": 2.76,
+        "Draw": 3.55
+      }
+    },
+    "567186cbb46d455027b928c7204fa1e8:h2h": {
+      "Betsson": {
+        "Scotland": 2.95,
+        "Slovenia": 2.52,
+        "Draw": 3.1
+      },
+      "Betfair": {
+        "Scotland": 3.1,
+        "Slovenia": 2.66,
+        "Draw": 3.25
+      },
+      "Marathon Bet": {
+        "Scotland": 2.97,
+        "Slovenia": 2.56,
+        "Draw": 3.16
+      },
+      "Nordic Bet": {
+        "Scotland": 2.95,
+        "Slovenia": 2.52,
+        "Draw": 3.1
+      },
+      "PMU (FR)": {
+        "Scotland": 2.85,
+        "Slovenia": 2.43,
+        "Draw": 2.95
+      },
+      "Suprabets": {
+        "Scotland": 2.97,
+        "Slovenia": 2.5,
+        "Draw": 3.14
+      },
+      "1xBet": {
+        "Scotland": 3.0,
+        "Slovenia": 2.59,
+        "Draw": 3.19
+      },
+      "Betclic (FR)": {
+        "Scotland": 2.9,
+        "Slovenia": 2.43,
+        "Draw": 3.2
+      },
+      "Winamax (FR)": {
+        "Scotland": 2.75,
+        "Slovenia": 2.4,
+        "Draw": 3.2
+      },
+      "Winamax (DE)": {
+        "Scotland": 2.8,
+        "Slovenia": 2.45,
+        "Draw": 3.2
+      },
+      "William Hill": {
+        "Scotland": 2.8,
+        "Slovenia": 2.45,
+        "Draw": 3.0
+      }
+    },
+    "6e782642059c671fc2f5ba689f25301f:h2h": {
+      "Pinnacle": {
+        "Accrington Stanley": 3.02,
+        "Swindon Town": 2.25,
         "Draw": 3.66
       },
       "1xBet": {
-        "Atlante FC": 3.17,
-        "Monterrey": 2.09,
-        "Draw": 3.5
-      },
-      "GTbets": {
-        "Atlante FC": 3.27,
-        "Monterrey": 2.12,
-        "Draw": 3.58
-      },
-      "Marathon Bet": {
-        "Atlante FC": 3.15,
-        "Monterrey": 2.07,
-        "Draw": 3.5
-      },
-      "888sport": {
-        "Atlante FC": 2.9,
-        "Monterrey": 2.05,
-        "Draw": 3.25
-      },
-      "William Hill": {
-        "Atlante FC": 2.9,
-        "Monterrey": 2.05,
-        "Draw": 3.25
-      },
-      "BetOnline.ag": {
-        "Atlante FC": 3.25,
-        "Monterrey": 2.17,
-        "Draw": 3.76
-      },
-      "Matchbook": {
-        "Atlante FC": 3.35,
-        "Monterrey": 2.26,
-        "Draw": 3.75
-      },
-      "Betfair": {
-        "Atlante FC": 3.35,
-        "Monterrey": 2.24,
-        "Draw": 3.8
-      },
-      "Tipico": {
-        "Atlante FC": 3.2,
-        "Monterrey": 2.05,
-        "Draw": 3.5
-      }
-    },
-    "122267c39aa7c22d2654631087b55b39:h2h": {
-      "Unibet (SE)": {
-        "Atlas": 3.5,
-        "Tijuana": 1.97,
-        "Draw": 3.35
-      },
-      "Unibet (NL)": {
-        "Atlas": 3.5,
-        "Tijuana": 1.97,
-        "Draw": 3.35
-      },
-      "PMU (FR)": {
-        "Atlas": 3.25,
-        "Tijuana": 1.85,
-        "Draw": 3.15
-      },
-      "LeoVegas (SE)": {
-        "Atlas": 3.35,
-        "Tijuana": 1.91,
-        "Draw": 3.25
-      },
-      "Betclic (FR)": {
-        "Atlas": 3.33,
-        "Tijuana": 1.97,
-        "Draw": 3.3
-      },
-      "Pinnacle": {
-        "Atlas": 3.78,
-        "Tijuana": 2.08,
+        "Accrington Stanley": 2.98,
+        "Swindon Town": 2.19,
         "Draw": 3.48
       },
+      "Codere (IT)": {
+        "Accrington Stanley": 3.0,
+        "Swindon Town": 2.12,
+        "Draw": 3.4
+      },
       "Coolbet": {
-        "Atlas": 3.55,
-        "Tijuana": 2.1,
+        "Accrington Stanley": 3.1,
+        "Swindon Town": 2.17,
+        "Draw": 3.5
+      },
+      "Betfair": {
+        "Accrington Stanley": 3.2,
+        "Swindon Town": 2.3,
+        "Draw": 3.7
+      },
+      "Marathon Bet": {
+        "Accrington Stanley": 2.96,
+        "Swindon Town": 2.17,
+        "Draw": 3.48
+      },
+      "888sport": {
+        "Accrington Stanley": 2.9,
+        "Swindon Town": 2.2,
+        "Draw": 3.4
+      },
+      "William Hill": {
+        "Accrington Stanley": 2.9,
+        "Swindon Town": 2.2,
+        "Draw": 3.4
+      },
+      "Tipico": {
+        "Accrington Stanley": 3.1,
+        "Swindon Town": 2.1,
+        "Draw": 3.5
+      },
+      "Unibet (NL)": {
+        "Accrington Stanley": 3.15,
+        "Swindon Town": 2.08,
+        "Draw": 3.2
+      },
+      "LeoVegas (SE)": {
+        "Accrington Stanley": 3.15,
+        "Swindon Town": 2.05,
+        "Draw": 3.15
+      },
+      "Unibet (SE)": {
+        "Accrington Stanley": 3.15,
+        "Swindon Town": 2.08,
+        "Draw": 3.2
+      },
+      "Nordic Bet": {
+        "Accrington Stanley": 2.95,
+        "Swindon Town": 2.22,
         "Draw": 3.4
       },
       "Betsson": {
-        "Atlas": 3.45,
-        "Tijuana": 2.08,
-        "Draw": 3.3
-      },
-      "1xBet": {
-        "Atlas": 3.52,
-        "Tijuana": 2.01,
-        "Draw": 3.35
-      },
-      "Nordic Bet": {
-        "Atlas": 3.45,
-        "Tijuana": 2.08,
-        "Draw": 3.3
-      },
-      "GTbets": {
-        "Atlas": 3.68,
-        "Tijuana": 2.05,
-        "Draw": 3.45
-      },
-      "Marathon Bet": {
-        "Atlas": 3.5,
-        "Tijuana": 1.99,
-        "Draw": 3.35
-      },
-      "888sport": {
-        "Atlas": 3.4,
-        "Tijuana": 1.95,
-        "Draw": 3.1
-      },
-      "William Hill": {
-        "Atlas": 3.4,
-        "Tijuana": 1.95,
-        "Draw": 3.1
+        "Accrington Stanley": 2.95,
+        "Swindon Town": 2.22,
+        "Draw": 3.4
       },
       "BetOnline.ag": {
-        "Atlas": 3.67,
-        "Tijuana": 2.08,
+        "Accrington Stanley": 2.92,
+        "Swindon Town": 2.24,
         "Draw": 3.55
       },
-      "Betfair": {
-        "Atlas": 3.8,
-        "Tijuana": 2.14,
-        "Draw": 3.6
-      },
       "Matchbook": {
-        "Atlas": 3.8,
-        "Tijuana": 2.14,
-        "Draw": 3.6
-      },
-      "Tipico": {
-        "Atlas": 3.7,
-        "Tijuana": 1.93,
-        "Draw": 3.4
+        "Accrington Stanley": 3.25,
+        "Swindon Town": 2.3,
+        "Draw": 3.7
       }
     }
   },
@@ -1061,10 +1046,349 @@
       "confidence": 7,
       "alert_type": "value",
       "alerted_at": "2026-09-25T23:16:24.180724+00:00"
+    },
+    {
+      "state_key": "122267c39aa7c22d2654631087b55b39:h2h",
+      "event_id": "122267c39aa7c22d2654631087b55b39",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Tijuana",
+      "away_team": "Atlas",
+      "commence_time": "2026-09-26T03:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Atlas",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 95,
+      "alert_type": "value",
+      "alerted_at": "2026-09-26T04:49:48.486576+00:00"
+    },
+    {
+      "state_key": "122267c39aa7c22d2654631087b55b39:h2h",
+      "event_id": "122267c39aa7c22d2654631087b55b39",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Tijuana",
+      "away_team": "Atlas",
+      "commence_time": "2026-09-26T03:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.9,
+      "stake_pct": 5.0,
+      "confidence": 27,
+      "alert_type": "value",
+      "alerted_at": "2026-09-26T04:49:48.932650+00:00"
+    },
+    {
+      "state_key": "122267c39aa7c22d2654631087b55b39:h2h",
+      "event_id": "122267c39aa7c22d2654631087b55b39",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Tijuana",
+      "away_team": "Atlas",
+      "commence_time": "2026-09-26T03:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Atlas",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 95,
+      "alert_type": "value",
+      "alerted_at": "2026-09-26T04:49:49.369747+00:00"
+    },
+    {
+      "state_key": "122267c39aa7c22d2654631087b55b39:h2h",
+      "event_id": "122267c39aa7c22d2654631087b55b39",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Tijuana",
+      "away_team": "Atlas",
+      "commence_time": "2026-09-26T03:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.9,
+      "stake_pct": 5.0,
+      "confidence": 27,
+      "alert_type": "value",
+      "alerted_at": "2026-09-26T04:49:49.802577+00:00"
+    },
+    {
+      "state_key": "122267c39aa7c22d2654631087b55b39:h2h",
+      "event_id": "122267c39aa7c22d2654631087b55b39",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Tijuana",
+      "away_team": "Atlas",
+      "commence_time": "2026-09-26T03:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Atlas",
+      "odds_at_alert": 21.0,
+      "stake_pct": 5.0,
+      "confidence": 58,
+      "alert_type": "value",
+      "alerted_at": "2026-09-26T04:49:50.238287+00:00"
+    },
+    {
+      "state_key": "122267c39aa7c22d2654631087b55b39:h2h",
+      "event_id": "122267c39aa7c22d2654631087b55b39",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Tijuana",
+      "away_team": "Atlas",
+      "commence_time": "2026-09-26T03:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.25,
+      "stake_pct": 2.0,
+      "confidence": 10,
+      "alert_type": "value",
+      "alerted_at": "2026-09-26T04:49:50.679587+00:00"
+    },
+    {
+      "state_key": "122267c39aa7c22d2654631087b55b39:h2h",
+      "event_id": "122267c39aa7c22d2654631087b55b39",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Tijuana",
+      "away_team": "Atlas",
+      "commence_time": "2026-09-26T03:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Atlas",
+      "odds_at_alert": 23.0,
+      "stake_pct": 5.0,
+      "confidence": 73,
+      "alert_type": "value",
+      "alerted_at": "2026-09-26T04:49:51.121379+00:00"
+    },
+    {
+      "state_key": "122267c39aa7c22d2654631087b55b39:h2h",
+      "event_id": "122267c39aa7c22d2654631087b55b39",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Tijuana",
+      "away_team": "Atlas",
+      "commence_time": "2026-09-26T03:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.5,
+      "stake_pct": 5.0,
+      "confidence": 16,
+      "alert_type": "value",
+      "alerted_at": "2026-09-26T04:49:51.574673+00:00"
+    },
+    {
+      "state_key": "122267c39aa7c22d2654631087b55b39:h2h",
+      "event_id": "122267c39aa7c22d2654631087b55b39",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Tijuana",
+      "away_team": "Atlas",
+      "commence_time": "2026-09-26T03:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Atlas",
+      "odds_at_alert": 15.75,
+      "stake_pct": 5.0,
+      "confidence": 18,
+      "alert_type": "value",
+      "alerted_at": "2026-09-26T04:49:52.027860+00:00"
+    },
+    {
+      "state_key": "122267c39aa7c22d2654631087b55b39:h2h",
+      "event_id": "122267c39aa7c22d2654631087b55b39",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Tijuana",
+      "away_team": "Atlas",
+      "commence_time": "2026-09-26T03:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Atlas",
+      "odds_at_alert": 25.0,
+      "stake_pct": 5.0,
+      "confidence": 88,
+      "alert_type": "value",
+      "alerted_at": "2026-09-26T04:49:52.467987+00:00"
+    },
+    {
+      "state_key": "122267c39aa7c22d2654631087b55b39:h2h",
+      "event_id": "122267c39aa7c22d2654631087b55b39",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Tijuana",
+      "away_team": "Atlas",
+      "commence_time": "2026-09-26T03:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.5,
+      "stake_pct": 5.0,
+      "confidence": 16,
+      "alert_type": "value",
+      "alerted_at": "2026-09-26T04:49:52.906150+00:00"
+    },
+    {
+      "state_key": "122267c39aa7c22d2654631087b55b39:h2h",
+      "event_id": "122267c39aa7c22d2654631087b55b39",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Tijuana",
+      "away_team": "Atlas",
+      "commence_time": "2026-09-26T03:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Atlas",
+      "odds_at_alert": 17.5,
+      "stake_pct": 5.0,
+      "confidence": 31,
+      "alert_type": "value",
+      "alerted_at": "2026-09-26T04:49:53.368395+00:00"
+    },
+    {
+      "state_key": "122267c39aa7c22d2654631087b55b39:h2h",
+      "event_id": "122267c39aa7c22d2654631087b55b39",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Tijuana",
+      "away_team": "Atlas",
+      "commence_time": "2026-09-26T03:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Atlas",
+      "odds_at_alert": 19.5,
+      "stake_pct": 5.0,
+      "confidence": 46,
+      "alert_type": "value",
+      "alerted_at": "2026-09-26T04:49:53.813260+00:00"
+    },
+    {
+      "state_key": "122267c39aa7c22d2654631087b55b39:h2h",
+      "event_id": "122267c39aa7c22d2654631087b55b39",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Tijuana",
+      "away_team": "Atlas",
+      "commence_time": "2026-09-26T03:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.1,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-09-26T04:49:54.262780+00:00"
+    },
+    {
+      "state_key": "122267c39aa7c22d2654631087b55b39:h2h",
+      "event_id": "122267c39aa7c22d2654631087b55b39",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Tijuana",
+      "away_team": "Atlas",
+      "commence_time": "2026-09-26T03:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Atlas",
+      "odds_at_alert": 15.0,
+      "stake_pct": 3.0,
+      "confidence": 13,
+      "alert_type": "value",
+      "alerted_at": "2026-09-26T04:49:54.730361+00:00"
+    },
+    {
+      "state_key": "122267c39aa7c22d2654631087b55b39:h2h",
+      "event_id": "122267c39aa7c22d2654631087b55b39",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Tijuana",
+      "away_team": "Atlas",
+      "commence_time": "2026-09-26T03:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Atlas",
+      "odds_at_alert": 25.0,
+      "stake_pct": 5.0,
+      "confidence": 88,
+      "alert_type": "value",
+      "alerted_at": "2026-09-26T04:49:55.180857+00:00"
+    },
+    {
+      "state_key": "122267c39aa7c22d2654631087b55b39:h2h",
+      "event_id": "122267c39aa7c22d2654631087b55b39",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Tijuana",
+      "away_team": "Atlas",
+      "commence_time": "2026-09-26T03:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.4,
+      "stake_pct": 3.0,
+      "confidence": 14,
+      "alert_type": "value",
+      "alerted_at": "2026-09-26T04:49:55.668420+00:00"
+    },
+    {
+      "state_key": "122267c39aa7c22d2654631087b55b39:h2h",
+      "event_id": "122267c39aa7c22d2654631087b55b39",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Tijuana",
+      "away_team": "Atlas",
+      "commence_time": "2026-09-26T03:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Atlas",
+      "odds_at_alert": 27.0,
+      "stake_pct": 5.0,
+      "confidence": 103,
+      "alert_type": "value",
+      "alerted_at": "2026-09-26T04:49:56.133049+00:00"
+    },
+    {
+      "state_key": "122267c39aa7c22d2654631087b55b39:h2h",
+      "event_id": "122267c39aa7c22d2654631087b55b39",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Tijuana",
+      "away_team": "Atlas",
+      "commence_time": "2026-09-26T03:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.6,
+      "stake_pct": 5.0,
+      "confidence": 19,
+      "alert_type": "value",
+      "alerted_at": "2026-09-26T04:49:56.624784+00:00"
+    },
+    {
+      "state_key": "122267c39aa7c22d2654631087b55b39:h2h",
+      "event_id": "122267c39aa7c22d2654631087b55b39",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Tijuana",
+      "away_team": "Atlas",
+      "commence_time": "2026-09-26T03:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Atlas",
+      "odds_at_alert": 16.0,
+      "stake_pct": 5.0,
+      "confidence": 20,
+      "alert_type": "value",
+      "alerted_at": "2026-09-26T04:49:57.133251+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "816858473c3fb5e5be9e89ea44099597:h2h|Betfair|Londrina"
+    "122267c39aa7c22d2654631087b55b39:h2h|888sport|Atlas",
+    "122267c39aa7c22d2654631087b55b39:h2h|Betclic (FR)|Atlas",
+    "122267c39aa7c22d2654631087b55b39:h2h|Betfair|Atlas",
+    "122267c39aa7c22d2654631087b55b39:h2h|Betfair|Draw",
+    "122267c39aa7c22d2654631087b55b39:h2h|Betsson|Atlas",
+    "122267c39aa7c22d2654631087b55b39:h2h|Coolbet|Atlas",
+    "122267c39aa7c22d2654631087b55b39:h2h|Coolbet|Draw",
+    "122267c39aa7c22d2654631087b55b39:h2h|LeoVegas (SE)|Atlas",
+    "122267c39aa7c22d2654631087b55b39:h2h|LeoVegas (SE)|Draw",
+    "122267c39aa7c22d2654631087b55b39:h2h|Matchbook|Atlas",
+    "122267c39aa7c22d2654631087b55b39:h2h|Matchbook|Draw",
+    "122267c39aa7c22d2654631087b55b39:h2h|Nordic Bet|Atlas",
+    "122267c39aa7c22d2654631087b55b39:h2h|Nordic Bet|Draw",
+    "122267c39aa7c22d2654631087b55b39:h2h|PMU (FR)|Atlas",
+    "122267c39aa7c22d2654631087b55b39:h2h|PMU (FR)|Draw",
+    "122267c39aa7c22d2654631087b55b39:h2h|Tipico|Atlas",
+    "122267c39aa7c22d2654631087b55b39:h2h|Unibet (NL)|Atlas",
+    "122267c39aa7c22d2654631087b55b39:h2h|Unibet (NL)|Draw",
+    "122267c39aa7c22d2654631087b55b39:h2h|Unibet (SE)|Atlas",
+    "122267c39aa7c22d2654631087b55b39:h2h|Unibet (SE)|Draw"
   ]
 }
