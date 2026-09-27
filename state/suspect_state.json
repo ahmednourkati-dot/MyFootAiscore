@@ -1,261 +1,236 @@
 {
   "snapshots": {
-    "31c9147c10bf6e146d843c299784462e:h2h": {
-      "Betsson": {
-        "Córdoba": 46.0,
-        "Real Valladolid CF": 1.0,
-        "Draw": 19.0
-      },
+    "6f594d0104ab33dfafdd9ad62f39e439:h2h": {
       "Nordic Bet": {
-        "Córdoba": 46.0,
-        "Real Valladolid CF": 1.0,
-        "Draw": 19.0
+        "Burgos CF": 1.02,
+        "CD Eldense": 200.0,
+        "Draw": 11.0
+      },
+      "Betsson": {
+        "Burgos CF": 1.01,
+        "CD Eldense": 200.0,
+        "Draw": 12.0
       },
       "Betclic (FR)": {
-        "Córdoba": 60.0,
-        "Real Valladolid CF": 1.0,
-        "Draw": 20.0
+        "Burgos CF": 1.0,
+        "CD Eldense": 100.0,
+        "Draw": 11.0
+      },
+      "Winamax (FR)": {
+        "Burgos CF": 1.03,
+        "CD Eldense": 1000.0,
+        "Draw": 17.0
       },
       "Winamax (DE)": {
-        "Córdoba": 350.0,
-        "Real Valladolid CF": 1.0,
-        "Draw": 40.0
-      },
-      "Winamax (FR)": {
-        "Córdoba": 350.0,
-        "Real Valladolid CF": 1.01,
-        "Draw": 40.0
-      },
-      "Betfair": {
-        "Córdoba": 1000.0,
-        "Real Valladolid CF": 1.01,
-        "Draw": 55.0
-      }
-    },
-    "b6b917cb6ec3b496cb9d3263ede19b41:h2h": {
-      "PMU (FR)": {
-        "Azerbaijan": 4.25,
-        "Lithuania": 2.55,
-        "Draw": 2.08
-      },
-      "Suprabets": {
-        "Azerbaijan": 4.45,
-        "Lithuania": 2.45,
-        "Draw": 2.35
-      },
-      "Winamax (FR)": {
-        "Azerbaijan": 4.1,
-        "Lithuania": 2.3,
-        "Draw": 2.1
-      },
-      "Betclic (FR)": {
-        "Azerbaijan": 3.83,
-        "Lithuania": 2.22,
-        "Draw": 2.4
-      },
-      "Betfair": {
-        "Azerbaijan": 4.8,
-        "Lithuania": 2.56,
-        "Draw": 2.46
-      },
-      "Nordic Bet": {
-        "Azerbaijan": 4.1,
-        "Lithuania": 2.35,
-        "Draw": 2.25
-      },
-      "Betsson": {
-        "Azerbaijan": 4.1,
-        "Lithuania": 2.35,
-        "Draw": 2.25
-      }
-    },
-    "3d128b6082e24412252b6053bc3fb3f6:h2h": {
-      "LeoVegas (SE)": {
-        "Avai": 5.3,
-        "Criciuma": 1.57,
-        "Draw": 3.35
-      },
-      "Unibet (NL)": {
-        "Avai": 5.75,
-        "Criciuma": 1.64,
-        "Draw": 3.5
-      },
-      "Unibet (SE)": {
-        "Avai": 5.75,
-        "Criciuma": 1.64,
-        "Draw": 3.5
-      },
-      "Coolbet": {
-        "Avai": 6.25,
-        "Criciuma": 1.58,
-        "Draw": 3.6
-      },
-      "Nordic Bet": {
-        "Avai": 6.1,
-        "Criciuma": 1.55,
-        "Draw": 3.5
-      },
-      "Betsson": {
-        "Avai": 6.1,
-        "Criciuma": 1.55,
-        "Draw": 3.5
-      },
-      "BetOnline.ag": {
-        "Avai": 6.75,
-        "Criciuma": 1.59,
-        "Draw": 3.68
-      },
-      "Codere (IT)": {
-        "Avai": 6.0,
-        "Criciuma": 1.56,
-        "Draw": 3.55
-      },
-      "1xBet": {
-        "Avai": 6.48,
-        "Criciuma": 1.55,
-        "Draw": 3.55
-      },
-      "Pinnacle": {
-        "Avai": 7.02,
-        "Criciuma": 1.57,
-        "Draw": 3.78
-      },
-      "Marathon Bet": {
-        "Avai": 6.35,
-        "Criciuma": 1.55,
-        "Draw": 3.52
-      },
-      "888sport": {
-        "Avai": 6.0,
-        "Criciuma": 1.57,
-        "Draw": 3.5
-      },
-      "William Hill": {
-        "Avai": 6.0,
-        "Criciuma": 1.57,
-        "Draw": 3.5
+        "Burgos CF": 1.02,
+        "CD Eldense": 1000.0,
+        "Draw": 16.0
       },
       "Tipico": {
-        "Avai": 6.5,
-        "Criciuma": 1.47,
-        "Draw": 3.7
+        "Burgos CF": 1.02,
+        "CD Eldense": 250.0,
+        "Draw": 9.0
       },
-      "Matchbook": {
-        "Avai": 7.4,
-        "Criciuma": 1.61,
-        "Draw": 3.95
+      "Coolbet": {
+        "Burgos CF": 1.01,
+        "CD Eldense": 150.0,
+        "Draw": 13.0
       },
       "Betfair": {
-        "Avai": 7.4,
-        "Criciuma": 1.61,
-        "Draw": 3.95
+        "Burgos CF": 1.05,
+        "CD Eldense": 17.0,
+        "Draw": 13.5
       }
     },
-    "b71b08a1202472f5937397886ed5acf0:h2h": {
-      "Unibet (SE)": {
-        "Almería": 3.45,
-        "Mallorca": 2.08,
-        "Draw": 3.45
-      },
+    "7ea03016aafbabcdf9d0e5579562ea77:h2h": {
       "Unibet (NL)": {
-        "Almería": 3.45,
-        "Mallorca": 2.08,
-        "Draw": 3.45
+        "Las Palmas": 76.0,
+        "SD Eibar": 1.01,
+        "Draw": 9.5
+      },
+      "Unibet (SE)": {
+        "Las Palmas": 111.0,
+        "SD Eibar": 1.05,
+        "Draw": 9.5
       },
       "LeoVegas (SE)": {
-        "Almería": 3.25,
-        "Mallorca": 1.97,
+        "Las Palmas": 71.0,
+        "SD Eibar": 1.01,
+        "Draw": 9.5
+      },
+      "Nordic Bet": {
+        "Las Palmas": 65.0,
+        "SD Eibar": 1.05,
+        "Draw": 7.7
+      },
+      "Betsson": {
+        "Las Palmas": 55.0,
+        "SD Eibar": 1.06,
+        "Draw": 7.2
+      },
+      "Betclic (FR)": {
+        "Las Palmas": 35.0,
+        "SD Eibar": 1.05,
+        "Draw": 7.25
+      },
+      "Winamax (FR)": {
+        "Las Palmas": 95.0,
+        "SD Eibar": 1.08,
+        "Draw": 8.0
+      },
+      "Winamax (DE)": {
+        "Las Palmas": 90.0,
+        "SD Eibar": 1.06,
+        "Draw": 8.0
+      },
+      "Tipico": {
+        "Las Palmas": 100.0,
+        "SD Eibar": 1.06,
+        "Draw": 7.0
+      },
+      "Coolbet": {
+        "Las Palmas": 80.0,
+        "SD Eibar": 1.08,
+        "Draw": 7.5
+      },
+      "Betfair": {
+        "Las Palmas": 120.0,
+        "SD Eibar": 1.13,
+        "Draw": 9.0
+      }
+    },
+    "32dee807f2122f1d1eb09fb8652f39c5:h2h": {
+      "Pinnacle": {
+        "Atlético San Luis": 3.59,
+        "Pumas": 2.07,
+        "Draw": 3.35
+      },
+      "LeoVegas (SE)": {
+        "Atlético San Luis": 3.55,
+        "Pumas": 1.85,
+        "Draw": 3.05
+      },
+      "Unibet (NL)": {
+        "Atlético San Luis": 3.75,
+        "Pumas": 1.95,
         "Draw": 3.25
       },
       "PMU (FR)": {
-        "Almería": 3.1,
-        "Mallorca": 1.89,
-        "Draw": 3.1
+        "Atlético San Luis": 3.35,
+        "Pumas": 1.77,
+        "Draw": 2.9
       },
-      "Unibet (FR)": {
-        "Almería": 3.3,
-        "Mallorca": 1.86,
+      "Unibet (SE)": {
+        "Atlético San Luis": 3.75,
+        "Pumas": 1.96,
+        "Draw": 3.25
+      },
+      "Betclic (FR)": {
+        "Atlético San Luis": 3.28,
+        "Pumas": 2.02,
+        "Draw": 2.93
+      },
+      "Coolbet": {
+        "Atlético San Luis": 3.6,
+        "Pumas": 2.2,
+        "Draw": 3.25
+      },
+      "Nordic Bet": {
+        "Atlético San Luis": 3.4,
+        "Pumas": 2.1,
         "Draw": 3.05
       },
       "Betsson": {
-        "Almería": 3.5,
-        "Mallorca": 2.05,
-        "Draw": 3.2
+        "Atlético San Luis": 3.4,
+        "Pumas": 2.1,
+        "Draw": 3.05
       },
-      "Nordic Bet": {
-        "Almería": 3.5,
-        "Mallorca": 2.05,
-        "Draw": 3.2
-      },
-      "BetOnline.ag": {
-        "Almería": 3.7,
-        "Mallorca": 2.04,
-        "Draw": 3.3
-      },
-      "Codere (IT)": {
-        "Almería": 3.45,
-        "Mallorca": 2.02,
-        "Draw": 3.2
-      },
-      "Betclic (FR)": {
-        "Almería": 3.42,
-        "Mallorca": 2.02,
-        "Draw": 3.2
-      },
-      "Pinnacle": {
-        "Almería": 4.07,
-        "Mallorca": 2.06,
-        "Draw": 3.3
-      },
-      "Winamax (FR)": {
-        "Almería": 3.3,
-        "Mallorca": 1.98,
-        "Draw": 3.25
-      },
-      "Winamax (DE)": {
-        "Almería": 3.35,
-        "Mallorca": 2.0,
-        "Draw": 3.3
-      },
-      "1xBet": {
-        "Almería": 3.77,
-        "Mallorca": 2.08,
-        "Draw": 3.38
+      "888sport": {
+        "Atlético San Luis": 3.2,
+        "Pumas": 2.0,
+        "Draw": 2.9
       },
       "William Hill": {
-        "Almería": 3.4,
-        "Mallorca": 2.0,
-        "Draw": 3.2
-      },
-      "Marathon Bet": {
-        "Almería": 3.66,
-        "Mallorca": 2.01,
-        "Draw": 3.28
+        "Atlético San Luis": 3.1,
+        "Pumas": 2.0,
+        "Draw": 3.25
       },
       "Tipico": {
-        "Almería": 3.8,
-        "Mallorca": 1.93,
-        "Draw": 3.3
-      },
-      "Coolbet": {
-        "Almería": 3.6,
-        "Mallorca": 2.1,
-        "Draw": 3.4
+        "Atlético San Luis": 3.6,
+        "Pumas": 2.0,
+        "Draw": 3.2
       },
       "Betfair": {
-        "Almería": 4.0,
-        "Mallorca": 2.12,
-        "Draw": 3.45
-      },
-      "BetAnything": {
-        "Almería": 3.7,
-        "Mallorca": 2.04,
-        "Draw": 3.3
+        "Atlético San Luis": 3.7,
+        "Pumas": 2.28,
+        "Draw": 3.35
       },
       "Matchbook": {
-        "Almería": 4.0,
-        "Mallorca": 2.12,
-        "Draw": 3.45
+        "Atlético San Luis": 3.6,
+        "Pumas": 2.3,
+        "Draw": 3.35
+      }
+    },
+    "dc64003d7ab95aed0bd0f9d5a9f67a1f:h2h": {
+      "1xBet": {
+        "Germany": 1.48,
+        "Greece": 6.79,
+        "Draw": 4.93
+      },
+      "Suprabets": {
+        "Germany": 1.44,
+        "Greece": 6.6,
+        "Draw": 4.75
+      },
+      "Betfair": {
+        "Germany": 1.46,
+        "Greece": 7.8,
+        "Draw": 5.2
+      },
+      "Marathon Bet": {
+        "Germany": 1.47,
+        "Greece": 6.75,
+        "Draw": 4.9
+      },
+      "Betclic (FR)": {
+        "Germany": 1.43,
+        "Greece": 6.75,
+        "Draw": 4.75
+      },
+      "Winamax (FR)": {
+        "Germany": 1.42,
+        "Greece": 5.8,
+        "Draw": 4.7
+      },
+      "Winamax (DE)": {
+        "Germany": 1.43,
+        "Greece": 5.9,
+        "Draw": 4.8
+      },
+      "Nordic Bet": {
+        "Germany": 1.42,
+        "Greece": 6.8,
+        "Draw": 4.55
+      },
+      "Betsson": {
+        "Germany": 1.42,
+        "Greece": 6.8,
+        "Draw": 4.55
+      },
+      "William Hill": {
+        "Germany": 1.44,
+        "Greece": 6.0,
+        "Draw": 4.2
+      },
+      "PMU (FR)": {
+        "Germany": 1.34,
+        "Greece": 6.25,
+        "Draw": 4.6
+      },
+      "Pinnacle": {
+        "Germany": 1.45,
+        "Greece": 6.95,
+        "Draw": 4.88
       }
     }
   },
@@ -2084,8 +2059,26 @@
       "confidence": 9,
       "alert_type": "value",
       "alerted_at": "2026-09-27T00:30:28.641421+00:00"
+    },
+    {
+      "state_key": "dc64003d7ab95aed0bd0f9d5a9f67a1f:h2h",
+      "event_id": "dc64003d7ab95aed0bd0f9d5a9f67a1f",
+      "sport_key": "soccer",
+      "competition": "UEFA Nations League",
+      "home_team": "Germany",
+      "away_team": "Greece",
+      "commence_time": "2026-09-27T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Greece",
+      "odds_at_alert": 7.8,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-09-27T18:18:58.151750+00:00"
     }
   ],
   "results_history": [],
-  "value_alerted": []
+  "value_alerted": [
+    "dc64003d7ab95aed0bd0f9d5a9f67a1f:h2h|Betfair|Greece"
+  ]
 }
