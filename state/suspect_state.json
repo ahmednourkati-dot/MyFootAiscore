@@ -1,336 +1,261 @@
 {
   "snapshots": {
-    "b65746d83e387b502fe7265271abbd44:h2h": {
-      "Unibet (NL)": {
-        "Gangwon FC": 2.2,
-        "Incheon United": 3.05,
-        "Draw": 2.9
-      },
-      "PMU (FR)": {
-        "Gangwon FC": 2.12,
-        "Incheon United": 2.95,
-        "Draw": 2.8
-      },
-      "Unibet (SE)": {
-        "Gangwon FC": 2.2,
-        "Incheon United": 3.05,
-        "Draw": 2.9
-      },
-      "LeoVegas (SE)": {
-        "Gangwon FC": 2.2,
-        "Incheon United": 3.05,
-        "Draw": 2.9
-      },
-      "Unibet (FR)": {
-        "Gangwon FC": 2.05,
-        "Incheon United": 3.05,
-        "Draw": 2.9
-      },
-      "Nordic Bet": {
-        "Gangwon FC": 2.22,
-        "Incheon United": 3.2,
-        "Draw": 2.95
-      },
-      "Betsson": {
-        "Gangwon FC": 2.22,
-        "Incheon United": 3.2,
-        "Draw": 2.95
-      },
-      "Betclic (FR)": {
-        "Gangwon FC": 2.15,
-        "Incheon United": 3.13,
-        "Draw": 2.98
-      },
-      "1xBet": {
-        "Gangwon FC": 2.2,
-        "Incheon United": 3.36,
-        "Draw": 3.14
-      },
-      "Pinnacle": {
-        "Gangwon FC": 2.25,
-        "Incheon United": 3.55,
-        "Draw": 3.25
-      },
-      "Winamax (FR)": {
-        "Gangwon FC": 2.15,
-        "Incheon United": 3.05,
-        "Draw": 3.05
-      },
-      "Winamax (DE)": {
-        "Gangwon FC": 2.2,
-        "Incheon United": 3.1,
-        "Draw": 3.1
-      },
-      "Marathon Bet": {
-        "Gangwon FC": 2.18,
-        "Incheon United": 3.35,
-        "Draw": 3.14
-      },
-      "William Hill": {
-        "Gangwon FC": 2.2,
-        "Incheon United": 3.25,
-        "Draw": 3.0
-      },
-      "Tipico": {
-        "Gangwon FC": 2.1,
-        "Incheon United": 3.5,
-        "Draw": 3.1
-      },
-      "Coolbet": {
-        "Gangwon FC": 2.3,
-        "Incheon United": 3.3,
-        "Draw": 3.15
-      },
-      "Betfair": {
-        "Gangwon FC": 2.32,
-        "Incheon United": 3.65,
-        "Draw": 3.2
-      },
-      "Matchbook": {
-        "Gangwon FC": 2.32,
-        "Incheon United": 3.65,
-        "Draw": 3.2
-      }
-    },
     "31c9147c10bf6e146d843c299784462e:h2h": {
-      "Unibet (NL)": {
-        "Córdoba": 3.1,
-        "Real Valladolid CF": 2.23,
-        "Draw": 3.4
-      },
-      "LeoVegas (SE)": {
-        "Córdoba": 2.9,
-        "Real Valladolid CF": 2.14,
-        "Draw": 3.2
-      },
-      "PMU (FR)": {
-        "Córdoba": 2.8,
-        "Real Valladolid CF": 2.05,
-        "Draw": 3.1
-      },
-      "Unibet (SE)": {
-        "Córdoba": 3.1,
-        "Real Valladolid CF": 2.23,
-        "Draw": 3.4
-      },
       "Betsson": {
-        "Córdoba": 2.85,
-        "Real Valladolid CF": 2.3,
-        "Draw": 3.25
-      },
-      "Unibet (FR)": {
-        "Córdoba": 2.7,
-        "Real Valladolid CF": 2.05,
-        "Draw": 3.15
+        "Córdoba": 46.0,
+        "Real Valladolid CF": 1.0,
+        "Draw": 19.0
       },
       "Nordic Bet": {
-        "Córdoba": 2.85,
-        "Real Valladolid CF": 2.3,
-        "Draw": 3.25
+        "Córdoba": 46.0,
+        "Real Valladolid CF": 1.0,
+        "Draw": 19.0
       },
       "Betclic (FR)": {
-        "Córdoba": 2.87,
-        "Real Valladolid CF": 2.22,
-        "Draw": 3.32
-      },
-      "Pinnacle": {
-        "Córdoba": 2.99,
-        "Real Valladolid CF": 2.44,
-        "Draw": 3.46
-      },
-      "Codere (IT)": {
-        "Córdoba": 2.85,
-        "Real Valladolid CF": 2.27,
-        "Draw": 3.25
-      },
-      "1xBet": {
-        "Córdoba": 2.98,
-        "Real Valladolid CF": 2.4,
-        "Draw": 3.46
+        "Córdoba": 60.0,
+        "Real Valladolid CF": 1.0,
+        "Draw": 20.0
       },
       "Winamax (DE)": {
-        "Córdoba": 2.8,
-        "Real Valladolid CF": 2.25,
-        "Draw": 3.4
+        "Córdoba": 350.0,
+        "Real Valladolid CF": 1.0,
+        "Draw": 40.0
       },
       "Winamax (FR)": {
-        "Córdoba": 2.75,
-        "Real Valladolid CF": 2.2,
-        "Draw": 3.3
-      },
-      "BetOnline.ag": {
-        "Córdoba": 2.96,
-        "Real Valladolid CF": 2.4,
-        "Draw": 3.25
-      },
-      "William Hill": {
-        "Córdoba": 2.88,
-        "Real Valladolid CF": 2.3,
-        "Draw": 3.1
-      },
-      "Marathon Bet": {
-        "Córdoba": 2.89,
-        "Real Valladolid CF": 2.32,
-        "Draw": 3.35
-      },
-      "Tipico": {
-        "Córdoba": 2.95,
-        "Real Valladolid CF": 2.2,
-        "Draw": 3.4
-      },
-      "Coolbet": {
-        "Córdoba": 2.95,
-        "Real Valladolid CF": 2.35,
-        "Draw": 3.5
+        "Córdoba": 350.0,
+        "Real Valladolid CF": 1.01,
+        "Draw": 40.0
       },
       "Betfair": {
-        "Córdoba": 3.15,
-        "Real Valladolid CF": 2.46,
-        "Draw": 3.5
-      },
-      "Matchbook": {
-        "Córdoba": 3.15,
-        "Real Valladolid CF": 2.46,
-        "Draw": 3.5
-      },
-      "BetAnything": {
-        "Córdoba": 2.96,
-        "Real Valladolid CF": 2.4,
-        "Draw": 3.25
+        "Córdoba": 1000.0,
+        "Real Valladolid CF": 1.01,
+        "Draw": 55.0
       }
     },
     "b6b917cb6ec3b496cb9d3263ede19b41:h2h": {
       "PMU (FR)": {
-        "Azerbaijan": 3.05,
-        "Lithuania": 2.23,
-        "Draw": 2.85
+        "Azerbaijan": 4.25,
+        "Lithuania": 2.55,
+        "Draw": 2.08
       },
       "Suprabets": {
-        "Azerbaijan": 3.51,
-        "Lithuania": 2.28,
-        "Draw": 3.02
-      },
-      "1xBet": {
-        "Azerbaijan": 3.58,
-        "Lithuania": 2.35,
-        "Draw": 3.07
+        "Azerbaijan": 4.45,
+        "Lithuania": 2.45,
+        "Draw": 2.35
       },
       "Winamax (FR)": {
-        "Azerbaijan": 3.2,
-        "Lithuania": 2.25,
-        "Draw": 3.0
-      },
-      "Marathon Bet": {
-        "Azerbaijan": 3.54,
-        "Lithuania": 2.32,
-        "Draw": 3.04
+        "Azerbaijan": 4.1,
+        "Lithuania": 2.3,
+        "Draw": 2.1
       },
       "Betclic (FR)": {
-        "Azerbaijan": 3.45,
-        "Lithuania": 2.3,
-        "Draw": 2.9
+        "Azerbaijan": 3.83,
+        "Lithuania": 2.22,
+        "Draw": 2.4
       },
       "Betfair": {
-        "Azerbaijan": 3.75,
-        "Lithuania": 2.4,
-        "Draw": 3.1
+        "Azerbaijan": 4.8,
+        "Lithuania": 2.56,
+        "Draw": 2.46
       },
       "Nordic Bet": {
-        "Azerbaijan": 3.35,
-        "Lithuania": 2.22,
-        "Draw": 2.92
+        "Azerbaijan": 4.1,
+        "Lithuania": 2.35,
+        "Draw": 2.25
       },
       "Betsson": {
-        "Azerbaijan": 3.35,
-        "Lithuania": 2.22,
-        "Draw": 2.92
-      },
-      "William Hill": {
-        "Azerbaijan": 3.25,
-        "Lithuania": 2.25,
-        "Draw": 2.8
+        "Azerbaijan": 4.1,
+        "Lithuania": 2.35,
+        "Draw": 2.25
       }
     },
     "3d128b6082e24412252b6053bc3fb3f6:h2h": {
       "LeoVegas (SE)": {
-        "Avai": 5.2,
-        "Criciuma": 1.6,
-        "Draw": 3.3
+        "Avai": 5.3,
+        "Criciuma": 1.57,
+        "Draw": 3.35
       },
       "Unibet (NL)": {
-        "Avai": 5.5,
-        "Criciuma": 1.66,
-        "Draw": 3.45
+        "Avai": 5.75,
+        "Criciuma": 1.64,
+        "Draw": 3.5
       },
       "Unibet (SE)": {
-        "Avai": 5.5,
-        "Criciuma": 1.66,
-        "Draw": 3.45
+        "Avai": 5.75,
+        "Criciuma": 1.64,
+        "Draw": 3.5
       },
       "Coolbet": {
-        "Avai": 5.25,
-        "Criciuma": 1.7,
-        "Draw": 3.4
+        "Avai": 6.25,
+        "Criciuma": 1.58,
+        "Draw": 3.6
       },
       "Nordic Bet": {
-        "Avai": 5.1,
-        "Criciuma": 1.7,
-        "Draw": 3.25
+        "Avai": 6.1,
+        "Criciuma": 1.55,
+        "Draw": 3.5
       },
       "Betsson": {
-        "Avai": 5.1,
-        "Criciuma": 1.7,
-        "Draw": 3.25
+        "Avai": 6.1,
+        "Criciuma": 1.55,
+        "Draw": 3.5
       },
       "BetOnline.ag": {
-        "Avai": 5.8,
-        "Criciuma": 1.71,
-        "Draw": 3.4
+        "Avai": 6.75,
+        "Criciuma": 1.59,
+        "Draw": 3.68
       },
       "Codere (IT)": {
-        "Avai": 5.2,
-        "Criciuma": 1.7,
-        "Draw": 3.25
+        "Avai": 6.0,
+        "Criciuma": 1.56,
+        "Draw": 3.55
       },
       "1xBet": {
-        "Avai": 5.39,
-        "Criciuma": 1.7,
-        "Draw": 3.28
+        "Avai": 6.48,
+        "Criciuma": 1.55,
+        "Draw": 3.55
       },
       "Pinnacle": {
-        "Avai": 5.63,
-        "Criciuma": 1.75,
-        "Draw": 3.42
+        "Avai": 7.02,
+        "Criciuma": 1.57,
+        "Draw": 3.78
       },
       "Marathon Bet": {
-        "Avai": 5.4,
-        "Criciuma": 1.68,
-        "Draw": 3.28
+        "Avai": 6.35,
+        "Criciuma": 1.55,
+        "Draw": 3.52
       },
       "888sport": {
-        "Avai": 5.0,
-        "Criciuma": 1.7,
-        "Draw": 3.25
+        "Avai": 6.0,
+        "Criciuma": 1.57,
+        "Draw": 3.5
       },
       "William Hill": {
-        "Avai": 5.0,
-        "Criciuma": 1.7,
-        "Draw": 3.25
+        "Avai": 6.0,
+        "Criciuma": 1.57,
+        "Draw": 3.5
       },
       "Tipico": {
-        "Avai": 5.7,
-        "Criciuma": 1.57,
-        "Draw": 3.4
+        "Avai": 6.5,
+        "Criciuma": 1.47,
+        "Draw": 3.7
       },
       "Matchbook": {
-        "Avai": 6.0,
-        "Criciuma": 1.76,
-        "Draw": 3.5
+        "Avai": 7.4,
+        "Criciuma": 1.61,
+        "Draw": 3.95
       },
       "Betfair": {
-        "Avai": 6.0,
-        "Criciuma": 1.75,
-        "Draw": 3.5
+        "Avai": 7.4,
+        "Criciuma": 1.61,
+        "Draw": 3.95
+      }
+    },
+    "b71b08a1202472f5937397886ed5acf0:h2h": {
+      "Unibet (SE)": {
+        "Almería": 3.45,
+        "Mallorca": 2.08,
+        "Draw": 3.45
+      },
+      "Unibet (NL)": {
+        "Almería": 3.45,
+        "Mallorca": 2.08,
+        "Draw": 3.45
+      },
+      "LeoVegas (SE)": {
+        "Almería": 3.25,
+        "Mallorca": 1.97,
+        "Draw": 3.25
+      },
+      "PMU (FR)": {
+        "Almería": 3.1,
+        "Mallorca": 1.89,
+        "Draw": 3.1
+      },
+      "Unibet (FR)": {
+        "Almería": 3.3,
+        "Mallorca": 1.86,
+        "Draw": 3.05
+      },
+      "Betsson": {
+        "Almería": 3.5,
+        "Mallorca": 2.05,
+        "Draw": 3.2
+      },
+      "Nordic Bet": {
+        "Almería": 3.5,
+        "Mallorca": 2.05,
+        "Draw": 3.2
+      },
+      "BetOnline.ag": {
+        "Almería": 3.7,
+        "Mallorca": 2.04,
+        "Draw": 3.3
+      },
+      "Codere (IT)": {
+        "Almería": 3.45,
+        "Mallorca": 2.02,
+        "Draw": 3.2
+      },
+      "Betclic (FR)": {
+        "Almería": 3.42,
+        "Mallorca": 2.02,
+        "Draw": 3.2
+      },
+      "Pinnacle": {
+        "Almería": 4.07,
+        "Mallorca": 2.06,
+        "Draw": 3.3
+      },
+      "Winamax (FR)": {
+        "Almería": 3.3,
+        "Mallorca": 1.98,
+        "Draw": 3.25
+      },
+      "Winamax (DE)": {
+        "Almería": 3.35,
+        "Mallorca": 2.0,
+        "Draw": 3.3
+      },
+      "1xBet": {
+        "Almería": 3.77,
+        "Mallorca": 2.08,
+        "Draw": 3.38
+      },
+      "William Hill": {
+        "Almería": 3.4,
+        "Mallorca": 2.0,
+        "Draw": 3.2
+      },
+      "Marathon Bet": {
+        "Almería": 3.66,
+        "Mallorca": 2.01,
+        "Draw": 3.28
+      },
+      "Tipico": {
+        "Almería": 3.8,
+        "Mallorca": 1.93,
+        "Draw": 3.3
+      },
+      "Coolbet": {
+        "Almería": 3.6,
+        "Mallorca": 2.1,
+        "Draw": 3.4
+      },
+      "Betfair": {
+        "Almería": 4.0,
+        "Mallorca": 2.12,
+        "Draw": 3.45
+      },
+      "BetAnything": {
+        "Almería": 3.7,
+        "Mallorca": 2.04,
+        "Draw": 3.3
+      },
+      "Matchbook": {
+        "Almería": 4.0,
+        "Mallorca": 2.12,
+        "Draw": 3.45
       }
     }
   },
