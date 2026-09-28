@@ -1,144 +1,107 @@
 {
   "snapshots": {
-    "84024442d39419a738d8c2382d3ff73e:h2h": {
-      "Betclic (FR)": {
-        "América": 1.0,
-        "Necaxa": 100.0,
-        "Draw": 40.0
-      },
-      "Betsson": {
-        "América": 1.0,
-        "Necaxa": 26.0,
-        "Draw": 26.0
-      },
-      "Nordic Bet": {
-        "América": 1.0,
-        "Necaxa": 26.0,
-        "Draw": 26.0
-      },
-      "Betfair": {
-        "América": 1.01,
-        "Necaxa": 1000.0,
-        "Draw": 34.0
-      },
-      "888sport": {
-        "América": 1.0,
-        "Necaxa": 151.0,
-        "Draw": 46.0
-      }
-    },
     "0891f1ff09ec9c814d38c2465c9f53da:h2h": {
       "Betfair": {
-        "Armenia": 3.15,
-        "Montenegro": 2.6,
-        "Draw": 3.25
+        "Armenia": 3.0,
+        "Montenegro": 2.66,
+        "Draw": 3.35
       },
       "Betclic (FR)": {
-        "Armenia": 2.93,
-        "Montenegro": 2.42,
-        "Draw": 3.17
+        "Armenia": 2.9,
+        "Montenegro": 2.43,
+        "Draw": 3.2
       },
       "PMU (FR)": {
-        "Armenia": 2.65,
-        "Montenegro": 2.38,
+        "Armenia": 2.6,
+        "Montenegro": 2.4,
         "Draw": 3.0
       },
       "1xBet": {
         "Armenia": 2.94,
-        "Montenegro": 2.53,
-        "Draw": 3.38
+        "Montenegro": 2.5,
+        "Draw": 3.44
       },
       "Winamax (FR)": {
         "Armenia": 2.8,
-        "Montenegro": 2.4,
-        "Draw": 3.15
+        "Montenegro": 2.35,
+        "Draw": 3.25
       },
       "Winamax (DE)": {
-        "Armenia": 2.85,
+        "Armenia": 2.8,
         "Montenegro": 2.4,
-        "Draw": 3.2
+        "Draw": 3.25
       },
       "Betsson": {
-        "Armenia": 2.9,
+        "Armenia": 2.85,
         "Montenegro": 2.45,
-        "Draw": 3.0
+        "Draw": 3.1
       },
       "Nordic Bet": {
-        "Armenia": 2.9,
+        "Armenia": 2.85,
         "Montenegro": 2.45,
-        "Draw": 3.0
+        "Draw": 3.1
       },
       "Marathon Bet": {
         "Armenia": 2.91,
-        "Montenegro": 2.5,
-        "Draw": 3.34
-      },
-      "Suprabets": {
-        "Armenia": 2.94,
-        "Montenegro": 2.51,
-        "Draw": 3.16
+        "Montenegro": 2.47,
+        "Draw": 3.4
       },
       "William Hill": {
         "Armenia": 2.8,
         "Montenegro": 2.4,
-        "Draw": 3.0
+        "Draw": 3.1
       }
     },
     "e4b63f94de5a52095f9d94be94b2c4aa:h2h": {
       "Betfair": {
-        "Cyprus": 3.0,
-        "Latvia": 2.74,
-        "Draw": 3.2
+        "Cyprus": 3.05,
+        "Latvia": 2.84,
+        "Draw": 3.05
       },
       "PMU (FR)": {
         "Cyprus": 2.63,
-        "Latvia": 2.45,
-        "Draw": 2.9
+        "Latvia": 2.5,
+        "Draw": 2.85
       },
       "1xBet": {
-        "Cyprus": 2.87,
-        "Latvia": 2.69,
-        "Draw": 3.21
+        "Cyprus": 2.91,
+        "Latvia": 2.71,
+        "Draw": 3.13
       },
       "Betclic (FR)": {
         "Cyprus": 2.83,
-        "Latvia": 2.5,
-        "Draw": 3.17
+        "Latvia": 2.62,
+        "Draw": 3.0
       },
       "Winamax (FR)": {
-        "Cyprus": 2.7,
-        "Latvia": 2.45,
-        "Draw": 3.15
+        "Cyprus": 2.75,
+        "Latvia": 2.65,
+        "Draw": 2.85
       },
       "Winamax (DE)": {
-        "Cyprus": 2.75,
-        "Latvia": 2.5,
-        "Draw": 3.2
+        "Cyprus": 2.8,
+        "Latvia": 2.65,
+        "Draw": 2.9
       },
       "Betsson": {
-        "Cyprus": 2.8,
-        "Latvia": 2.55,
-        "Draw": 3.0
+        "Cyprus": 2.85,
+        "Latvia": 2.62,
+        "Draw": 2.85
       },
       "Nordic Bet": {
-        "Cyprus": 2.8,
-        "Latvia": 2.55,
-        "Draw": 3.0
+        "Cyprus": 2.85,
+        "Latvia": 2.62,
+        "Draw": 2.85
       },
       "Marathon Bet": {
-        "Cyprus": 2.84,
-        "Latvia": 2.66,
-        "Draw": 3.18
-      },
-      "Suprabets": {
-        "Cyprus": 2.9,
-        "Latvia": 2.69,
-        "Draw": 2.95
+        "Cyprus": 2.88,
+        "Latvia": 2.68,
+        "Draw": 3.1
       },
       "William Hill": {
-        "Cyprus": 2.7,
+        "Cyprus": 2.75,
         "Latvia": 2.5,
-        "Draw": 3.0
+        "Draw": 2.9
       }
     },
     "ede91daefcca16990379ab59f170ad5c:h2h": {
@@ -148,9 +111,9 @@
         "Draw": 3.15
       },
       "Marathon Bet": {
-        "Georgia": 2.74,
+        "Georgia": 2.78,
         "Ukraine": 2.75,
-        "Draw": 3.18
+        "Draw": 3.12
       },
       "William Hill": {
         "Georgia": 2.62,
@@ -158,44 +121,141 @@
         "Draw": 2.9
       },
       "1xBet": {
-        "Georgia": 2.77,
+        "Georgia": 2.81,
         "Ukraine": 2.78,
-        "Draw": 3.21
+        "Draw": 3.16
       },
       "Betfair": {
-        "Georgia": 2.84,
-        "Ukraine": 2.82,
-        "Draw": 3.35
+        "Georgia": 2.9,
+        "Ukraine": 2.84,
+        "Draw": 3.25
       },
       "PMU (FR)": {
-        "Georgia": 2.6,
-        "Ukraine": 2.5,
-        "Draw": 3.15
+        "Georgia": 2.65,
+        "Ukraine": 2.55,
+        "Draw": 3.0
       },
       "Winamax (FR)": {
         "Georgia": 2.55,
         "Ukraine": 2.6,
         "Draw": 3.15
       },
-      "Suprabets": {
-        "Georgia": 2.69,
-        "Ukraine": 2.74,
-        "Draw": 3.14
-      },
       "Betclic (FR)": {
-        "Georgia": 2.6,
-        "Ukraine": 2.73,
-        "Draw": 3.13
+        "Georgia": 2.63,
+        "Ukraine": 2.68,
+        "Draw": 3.15
       },
       "Nordic Bet": {
-        "Georgia": 2.72,
-        "Ukraine": 2.72,
-        "Draw": 3.1
+        "Georgia": 2.82,
+        "Ukraine": 2.65,
+        "Draw": 3.0
       },
       "Betsson": {
-        "Georgia": 2.72,
-        "Ukraine": 2.72,
+        "Georgia": 2.75,
+        "Ukraine": 2.65,
         "Draw": 3.1
+      }
+    },
+    "52ddb81b6601824c1444b86aac5f8902:h2h": {
+      "Betsson": {
+        "CD Castellón": 2.25,
+        "Leganés": 3.0,
+        "Draw": 3.2
+      },
+      "Codere (IT)": {
+        "CD Castellón": 2.22,
+        "Leganés": 2.95,
+        "Draw": 3.2
+      },
+      "Winamax (FR)": {
+        "CD Castellón": 2.15,
+        "Leganés": 2.85,
+        "Draw": 3.25
+      },
+      "Winamax (DE)": {
+        "CD Castellón": 2.2,
+        "Leganés": 2.9,
+        "Draw": 3.3
+      },
+      "Nordic Bet": {
+        "CD Castellón": 2.25,
+        "Leganés": 3.0,
+        "Draw": 3.2
+      },
+      "Betclic (FR)": {
+        "CD Castellón": 2.17,
+        "Leganés": 3.0,
+        "Draw": 3.27
+      },
+      "Unibet (FR)": {
+        "CD Castellón": 2.05,
+        "Leganés": 2.85,
+        "Draw": 3.1
+      },
+      "William Hill": {
+        "CD Castellón": 2.2,
+        "Leganés": 3.0,
+        "Draw": 3.1
+      },
+      "Pinnacle": {
+        "CD Castellón": 2.3,
+        "Leganés": 3.34,
+        "Draw": 3.33
+      },
+      "Marathon Bet": {
+        "CD Castellón": 2.21,
+        "Leganés": 3.1,
+        "Draw": 3.34
+      },
+      "Unibet (SE)": {
+        "CD Castellón": 2.38,
+        "Leganés": 2.88,
+        "Draw": 3.35
+      },
+      "LeoVegas (SE)": {
+        "CD Castellón": 2.28,
+        "Leganés": 2.7,
+        "Draw": 3.15
+      },
+      "Unibet (NL)": {
+        "CD Castellón": 2.38,
+        "Leganés": 2.88,
+        "Draw": 3.35
+      },
+      "PMU (FR)": {
+        "CD Castellón": 2.18,
+        "Leganés": 2.63,
+        "Draw": 3.05
+      },
+      "Tipico": {
+        "CD Castellón": 2.15,
+        "Leganés": 3.2,
+        "Draw": 3.3
+      },
+      "Coolbet": {
+        "CD Castellón": 2.35,
+        "Leganés": 3.0,
+        "Draw": 3.4
+      },
+      "Betfair": {
+        "CD Castellón": 2.34,
+        "Leganés": 3.4,
+        "Draw": 3.45
+      },
+      "BetOnline.ag": {
+        "CD Castellón": 2.26,
+        "Leganés": 3.15,
+        "Draw": 3.25
+      },
+      "Matchbook": {
+        "CD Castellón": 2.34,
+        "Leganés": 3.4,
+        "Draw": 3.45
+      },
+      "BetAnything": {
+        "CD Castellón": 2.21,
+        "Leganés": 3.15,
+        "Draw": 3.15
       }
     }
   },
