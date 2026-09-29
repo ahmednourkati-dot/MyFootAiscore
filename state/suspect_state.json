@@ -1,261 +1,236 @@
 {
   "snapshots": {
-    "75352e2bdf31bfcf2616e811ae07f927:h2h": {
-      "PMU (FR)": {
-        "Belarus": 7.0,
-        "Finland": 1.42,
-        "Draw": 3.45
-      },
-      "Betsson": {
-        "Belarus": 6.3,
-        "Finland": 1.55,
-        "Draw": 3.4
-      },
-      "Betfair": {
-        "Belarus": 7.4,
-        "Finland": 1.69,
-        "Draw": 3.6
-      },
-      "Winamax (FR)": {
-        "Belarus": 5.8,
-        "Finland": 1.54,
-        "Draw": 3.25
-      },
-      "Nordic Bet": {
-        "Belarus": 6.3,
-        "Finland": 1.55,
-        "Draw": 3.4
-      },
-      "Winamax (DE)": {
-        "Belarus": 6.0,
-        "Finland": 1.56,
-        "Draw": 3.35
-      },
-      "Betclic (FR)": {
-        "Belarus": 6.0,
-        "Finland": 1.49,
-        "Draw": 3.3
-      },
-      "Suprabets": {
-        "Belarus": 6.4,
-        "Finland": 1.58,
-        "Draw": 3.65
+    "955583952ce8b24ce50e44881e5f1023:h2h": {
+      "Unibet (SE)": {
+        "Botafogo-SP": 1.24,
+        "Ponte Preta": 11.5,
+        "Draw": 5.75
       },
       "LeoVegas (SE)": {
-        "Belarus": 7.0,
-        "Finland": 1.48,
-        "Draw": 3.55
+        "Botafogo-SP": 1.2,
+        "Ponte Preta": 10.5,
+        "Draw": 5.3
       },
-      "Unibet (SE)": {
-        "Belarus": 7.0,
-        "Finland": 1.48,
-        "Draw": 3.55
+      "Unibet (NL)": {
+        "Botafogo-SP": 1.24,
+        "Ponte Preta": 11.5,
+        "Draw": 5.75
       },
-      "MyBookie.ag": {
-        "Belarus": 6.0,
-        "Finland": 1.55,
-        "Draw": 3.45
-      },
-      "888sport": {
-        "Belarus": 6.0,
-        "Finland": 1.5,
-        "Draw": 3.7
-      }
-    },
-    "851baa7c5da067095d65eb9e15e369c6:h2h": {
       "Betsson": {
-        "Faroe Islands": 1.49,
-        "Moldova": 6.3,
-        "Draw": 3.65
-      },
-      "Betfair": {
-        "Faroe Islands": 1.6,
-        "Moldova": 3.25,
-        "Draw": 2.7
+        "Botafogo-SP": 1.24,
+        "Ponte Preta": 9.7,
+        "Draw": 5.35
       },
       "Nordic Bet": {
-        "Faroe Islands": 1.49,
-        "Moldova": 6.3,
-        "Draw": 3.65
+        "Botafogo-SP": 1.24,
+        "Ponte Preta": 9.7,
+        "Draw": 5.35
       },
-      "Suprabets": {
-        "Faroe Islands": 2.9,
-        "Moldova": 2.95,
-        "Draw": 2.65
+      "1xBet": {
+        "Botafogo-SP": 1.24,
+        "Ponte Preta": 12.5,
+        "Draw": 6.22
       },
-      "Winamax (FR)": {
-        "Faroe Islands": 1.5,
-        "Moldova": 5.8,
-        "Draw": 3.4
+      "Marathon Bet": {
+        "Botafogo-SP": 1.22,
+        "Ponte Preta": 12.0,
+        "Draw": 5.45
       },
-      "PMU (FR)": {
-        "Faroe Islands": 1.42,
-        "Moldova": 7.0,
-        "Draw": 3.4
+      "Coolbet": {
+        "Botafogo-SP": 1.23,
+        "Ponte Preta": 13.0,
+        "Draw": 5.5
       },
-      "Betclic (FR)": {
-        "Faroe Islands": 1.52,
-        "Moldova": 5.4,
-        "Draw": 3.25
-      },
-      "LeoVegas (SE)": {
-        "Faroe Islands": 1.48,
-        "Moldova": 7.0,
-        "Draw": 3.5
-      },
-      "Unibet (SE)": {
-        "Faroe Islands": 1.48,
-        "Moldova": 7.0,
-        "Draw": 3.5
-      },
-      "MyBookie.ag": {
-        "Faroe Islands": 2.65,
-        "Moldova": 2.95,
-        "Draw": 2.6
+      "Pinnacle": {
+        "Botafogo-SP": 1.26,
+        "Ponte Preta": 13.66,
+        "Draw": 5.67
       },
       "888sport": {
-        "Faroe Islands": 1.53,
-        "Moldova": 6.0,
-        "Draw": 3.5
+        "Botafogo-SP": 1.22,
+        "Ponte Preta": 12.0,
+        "Draw": 5.5
+      },
+      "William Hill": {
+        "Botafogo-SP": 1.22,
+        "Ponte Preta": 12.0,
+        "Draw": 5.5
+      },
+      "BetOnline.ag": {
+        "Botafogo-SP": 1.24,
+        "Ponte Preta": 12.0,
+        "Draw": 5.5
+      },
+      "Codere (IT)": {
+        "Botafogo-SP": 1.24,
+        "Ponte Preta": 9.8,
+        "Draw": 5.4
+      },
+      "Matchbook": {
+        "Botafogo-SP": 1.28,
+        "Ponte Preta": 14.5,
+        "Draw": 6.4
+      },
+      "Betfair": {
+        "Botafogo-SP": 1.28,
+        "Ponte Preta": 14.5,
+        "Draw": 6.4
+      },
+      "Tipico": {
+        "Botafogo-SP": 1.18,
+        "Ponte Preta": 12.0,
+        "Draw": 5.7
       }
     },
-    "d2ec606c3816938d5306b5f43c36dc55:h2h": {
-      "PMU (FR)": {
-        "Albania": 1.01,
-        "San Marino": 31.0,
+    "d15a54cd0e08b8b028fc493fd76fcf26:h2h": {
+      "Betfair": {
+        "AS Roma": 30.0,
+        "Barcelona": 1.09,
+        "Draw": 17.0
+      },
+      "Pinnacle": {
+        "AS Roma": 21.14,
+        "Barcelona": 1.05,
+        "Draw": 13.12
+      },
+      "888sport": {
+        "AS Roma": 41.0,
+        "Barcelona": 1.05,
         "Draw": 11.0
       },
+      "Unibet (FR)": {
+        "AS Roma": 15.0,
+        "Barcelona": 1.03,
+        "Draw": 7.7
+      },
       "William Hill": {
-        "Albania": 1.05,
-        "San Marino": 51.0,
-        "Draw": 13.0
-      },
-      "Winamax (DE)": {
-        "Albania": 1.01,
-        "San Marino": 29.0,
-        "Draw": 20.0
-      },
-      "Betfair": {
-        "Albania": 1.06,
-        "San Marino": 50.0,
-        "Draw": 23.0
-      },
-      "Winamax (FR)": {
-        "Albania": 1.01,
-        "San Marino": 27.0,
-        "Draw": 18.0
+        "AS Roma": 36.0,
+        "Barcelona": 1.05,
+        "Draw": 10.0
       },
       "1xBet": {
-        "Albania": 1.04,
-        "San Marino": 55.0,
-        "Draw": 17.5
-      },
-      "Suprabets": {
-        "Albania": 1.04,
-        "San Marino": 41.0,
-        "Draw": 14.0
-      },
-      "Marathon Bet": {
-        "Albania": 1.04,
-        "San Marino": 51.0,
-        "Draw": 16.0
+        "AS Roma": 34.0,
+        "Barcelona": 1.02,
+        "Draw": 11.5
       },
       "Betclic (FR)": {
-        "Albania": 1.03,
-        "San Marino": 35.0,
-        "Draw": 13.75
+        "AS Roma": 19.0,
+        "Barcelona": 1.04,
+        "Draw": 9.75
       },
-      "Nordic Bet": {
-        "Albania": 1.03,
-        "San Marino": 60.0,
-        "Draw": 15.0
+      "BetOnline.ag": {
+        "AS Roma": 20.8,
+        "Barcelona": 1.04,
+        "Draw": 11.6
       },
-      "Betsson": {
-        "Albania": 1.03,
-        "San Marino": 60.0,
-        "Draw": 15.0
-      },
-      "LeoVegas (SE)": {
-        "Albania": 1.04,
-        "San Marino": 35.0,
+      "Unibet (NL)": {
+        "AS Roma": 23.0,
+        "Barcelona": 1.07,
         "Draw": 12.0
       },
-      "Unibet (SE)": {
-        "Albania": 1.06,
-        "San Marino": 36.0,
-        "Draw": 13.0
-      },
-      "MyBookie.ag": {
-        "Albania": 1.04,
-        "San Marino": 30.0,
-        "Draw": 12.0
-      },
-      "888sport": {
-        "Albania": 1.05,
-        "San Marino": 51.0,
-        "Draw": 13.0
+      "Coolbet": {
+        "AS Roma": 21.0,
+        "Barcelona": 1.07,
+        "Draw": 11.25
       }
     },
-    "25729c523424cd79daafd14635c7ea12:h2h": {
-      "PMU (FR)": {
-        "Bulgaria": 1.7,
-        "Estonia": 4.7,
-        "Draw": 3.1
-      },
-      "William Hill": {
-        "Bulgaria": 1.7,
-        "Estonia": 4.8,
-        "Draw": 3.3
+    "6eb5303534d0b64ca7f11d09bd3d5e36:h2h": {
+      "Nordic Bet": {
+        "Arsenal": 1.39,
+        "Paris FC": 6.8,
+        "Draw": 4.25
       },
       "Betfair": {
-        "Bulgaria": 1.83,
-        "Estonia": 5.5,
-        "Draw": 3.6
+        "Arsenal": 1.41,
+        "Paris FC": 8.4,
+        "Draw": 4.8
       },
-      "Winamax (FR)": {
-        "Bulgaria": 1.72,
-        "Estonia": 4.7,
-        "Draw": 3.45
-      },
-      "1xBet": {
-        "Bulgaria": 1.78,
-        "Estonia": 5.16,
-        "Draw": 3.62
-      },
-      "Betclic (FR)": {
-        "Bulgaria": 1.73,
-        "Estonia": 4.9,
-        "Draw": 3.47
-      },
-      "Suprabets": {
-        "Bulgaria": 1.76,
-        "Estonia": 5.3,
-        "Draw": 3.38
-      },
-      "Marathon Bet": {
-        "Bulgaria": 1.76,
-        "Estonia": 5.1,
-        "Draw": 3.58
-      },
-      "Nordic Bet": {
-        "Bulgaria": 1.75,
-        "Estonia": 4.9,
-        "Draw": 3.3
+      "Pinnacle": {
+        "Arsenal": 1.36,
+        "Paris FC": 7.8,
+        "Draw": 4.66
       },
       "Betsson": {
-        "Bulgaria": 1.75,
-        "Estonia": 4.9,
-        "Draw": 3.3
-      },
-      "MyBookie.ag": {
-        "Bulgaria": 1.75,
-        "Estonia": 4.7,
-        "Draw": 3.38
+        "Arsenal": 1.39,
+        "Paris FC": 6.8,
+        "Draw": 4.25
       },
       "888sport": {
-        "Bulgaria": 1.73,
-        "Estonia": 4.8,
-        "Draw": 3.3
+        "Arsenal": 1.36,
+        "Paris FC": 6.5,
+        "Draw": 4.4
+      },
+      "Unibet (FR)": {
+        "Arsenal": 1.28,
+        "Paris FC": 8.1,
+        "Draw": 5.0
+      },
+      "William Hill": {
+        "Arsenal": 1.35,
+        "Paris FC": 6.5,
+        "Draw": 4.33
+      },
+      "Betclic (FR)": {
+        "Arsenal": 1.35,
+        "Paris FC": 6.75,
+        "Draw": 4.3
+      },
+      "BetOnline.ag": {
+        "Arsenal": 1.37,
+        "Paris FC": 7.04,
+        "Draw": 4.39
+      },
+      "PMU (FR)": {
+        "Arsenal": 1.28,
+        "Paris FC": 6.5,
+        "Draw": 4.35
+      },
+      "Unibet (NL)": {
+        "Arsenal": 1.38,
+        "Paris FC": 7.5,
+        "Draw": 4.9
+      },
+      "Coolbet": {
+        "Arsenal": 1.4,
+        "Paris FC": 7.25,
+        "Draw": 4.6
+      }
+    },
+    "2a39377453f4d72b2f9a8851e2fa75ff:h2h": {
+      "Nordic Bet": {
+        "BK Hacken": 2.35,
+        "Juventus": 2.65,
+        "Draw": 3.4
+      },
+      "Betfair": {
+        "BK Hacken": 2.46,
+        "Juventus": 2.74,
+        "Draw": 3.7
+      },
+      "Pinnacle": {
+        "BK Hacken": 2.34,
+        "Juventus": 2.67,
+        "Draw": 3.63
+      },
+      "Betsson": {
+        "BK Hacken": 2.35,
+        "Juventus": 2.65,
+        "Draw": 3.4
+      },
+      "Unibet (FR)": {
+        "BK Hacken": 2.1,
+        "Juventus": 2.55,
+        "Draw": 3.25
+      },
+      "Betclic (FR)": {
+        "BK Hacken": 2.3,
+        "Juventus": 2.55,
+        "Draw": 3.42
+      },
+      "BetOnline.ag": {
+        "BK Hacken": 2.31,
+        "Juventus": 2.63,
+        "Draw": 3.46
       }
     }
   },
@@ -1988,8 +1963,145 @@
       "confidence": 50,
       "alert_type": "value",
       "alerted_at": "2026-09-28T20:31:11.994046+00:00"
+    },
+    {
+      "state_key": "955583952ce8b24ce50e44881e5f1023:h2h",
+      "event_id": "955583952ce8b24ce50e44881e5f1023",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Botafogo-SP",
+      "away_team": "Ponte Preta",
+      "commence_time": "2026-09-29T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.22,
+      "stake_pct": 2.0,
+      "confidence": 5,
+      "alert_type": "value",
+      "alerted_at": "2026-09-29T22:10:37.022098+00:00"
+    },
+    {
+      "state_key": "955583952ce8b24ce50e44881e5f1023:h2h",
+      "event_id": "955583952ce8b24ce50e44881e5f1023",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Botafogo-SP",
+      "away_team": "Ponte Preta",
+      "commence_time": "2026-09-29T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.4,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-09-29T22:10:37.533066+00:00"
+    },
+    {
+      "state_key": "955583952ce8b24ce50e44881e5f1023:h2h",
+      "event_id": "955583952ce8b24ce50e44881e5f1023",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Botafogo-SP",
+      "away_team": "Ponte Preta",
+      "commence_time": "2026-09-29T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.4,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-09-29T22:10:38.036200+00:00"
+    },
+    {
+      "state_key": "d15a54cd0e08b8b028fc493fd76fcf26:h2h",
+      "event_id": "d15a54cd0e08b8b028fc493fd76fcf26",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League Women",
+      "home_team": "AS Roma",
+      "away_team": "Barcelona",
+      "commence_time": "2026-09-30T16:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "AS Roma",
+      "odds_at_alert": 30.0,
+      "stake_pct": 5.0,
+      "confidence": 32,
+      "alert_type": "value",
+      "alerted_at": "2026-09-29T22:10:38.559044+00:00"
+    },
+    {
+      "state_key": "d15a54cd0e08b8b028fc493fd76fcf26:h2h",
+      "event_id": "d15a54cd0e08b8b028fc493fd76fcf26",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League Women",
+      "home_team": "AS Roma",
+      "away_team": "Barcelona",
+      "commence_time": "2026-09-30T16:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 20,
+      "alert_type": "value",
+      "alerted_at": "2026-09-29T22:10:39.065252+00:00"
+    },
+    {
+      "state_key": "d15a54cd0e08b8b028fc493fd76fcf26:h2h",
+      "event_id": "d15a54cd0e08b8b028fc493fd76fcf26",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League Women",
+      "home_team": "AS Roma",
+      "away_team": "Barcelona",
+      "commence_time": "2026-09-30T16:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "AS Roma",
+      "odds_at_alert": 41.0,
+      "stake_pct": 5.0,
+      "confidence": 80,
+      "alert_type": "value",
+      "alerted_at": "2026-09-29T22:10:39.576888+00:00"
+    },
+    {
+      "state_key": "d15a54cd0e08b8b028fc493fd76fcf26:h2h",
+      "event_id": "d15a54cd0e08b8b028fc493fd76fcf26",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League Women",
+      "home_team": "AS Roma",
+      "away_team": "Barcelona",
+      "commence_time": "2026-09-30T16:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "AS Roma",
+      "odds_at_alert": 36.0,
+      "stake_pct": 5.0,
+      "confidence": 58,
+      "alert_type": "value",
+      "alerted_at": "2026-09-29T22:10:40.051645+00:00"
+    },
+    {
+      "state_key": "d15a54cd0e08b8b028fc493fd76fcf26:h2h",
+      "event_id": "d15a54cd0e08b8b028fc493fd76fcf26",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League Women",
+      "home_team": "AS Roma",
+      "away_team": "Barcelona",
+      "commence_time": "2026-09-30T16:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "AS Roma",
+      "odds_at_alert": 34.0,
+      "stake_pct": 5.0,
+      "confidence": 49,
+      "alert_type": "value",
+      "alerted_at": "2026-09-29T22:10:40.562714+00:00"
     }
   ],
   "results_history": [],
-  "value_alerted": []
+  "value_alerted": [
+    "955583952ce8b24ce50e44881e5f1023:h2h|1xBet|Draw",
+    "955583952ce8b24ce50e44881e5f1023:h2h|Betfair|Draw",
+    "955583952ce8b24ce50e44881e5f1023:h2h|Matchbook|Draw",
+    "d15a54cd0e08b8b028fc493fd76fcf26:h2h|1xBet|AS Roma",
+    "d15a54cd0e08b8b028fc493fd76fcf26:h2h|888sport|AS Roma",
+    "d15a54cd0e08b8b028fc493fd76fcf26:h2h|Betfair|AS Roma",
+    "d15a54cd0e08b8b028fc493fd76fcf26:h2h|Betfair|Draw",
+    "d15a54cd0e08b8b028fc493fd76fcf26:h2h|William Hill|AS Roma"
+  ]
 }
