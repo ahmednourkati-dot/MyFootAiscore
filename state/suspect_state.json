@@ -1,141 +1,271 @@
 {
   "snapshots": {
-    "52ddb81b6601824c1444b86aac5f8902:h2h": {
+    "75352e2bdf31bfcf2616e811ae07f927:h2h": {
+      "PMU (FR)": {
+        "Belarus": 5.8,
+        "Finland": 1.5,
+        "Draw": 3.45
+      },
       "Betsson": {
-        "CD Castellón": 1.0,
-        "Leganés": 36.0,
-        "Draw": 21.0
-      },
-      "Winamax (FR)": {
-        "CD Castellón": 1.01,
-        "Leganés": 500.0,
-        "Draw": 44.0
-      },
-      "Nordic Bet": {
-        "CD Castellón": 1.0,
-        "Leganés": 36.0,
-        "Draw": 21.0
-      },
-      "Betclic (FR)": {
-        "CD Castellón": 1.0,
-        "Leganés": 100.0,
-        "Draw": 40.0
+        "Belarus": 5.9,
+        "Finland": 1.58,
+        "Draw": 3.6
       },
       "Betfair": {
-        "CD Castellón": 1.01,
-        "Leganés": 110.0,
-        "Draw": 50.0
-      }
-    },
-    "bb8c6293badc2a09ec9d7994c4895a6e:h2h": {
-      "Betclic (FR)": {
-        "Belgium": 5.0,
-        "France": 3.3,
-        "Draw": 1.6
+        "Belarus": 6.8,
+        "Finland": 1.65,
+        "Draw": 3.95
+      },
+      "Winamax (FR)": {
+        "Belarus": 5.4,
+        "Finland": 1.56,
+        "Draw": 3.8
+      },
+      "1xBet": {
+        "Belarus": 6.32,
+        "Finland": 1.62,
+        "Draw": 3.92
+      },
+      "Nordic Bet": {
+        "Belarus": 5.9,
+        "Finland": 1.58,
+        "Draw": 3.6
+      },
+      "Marathon Bet": {
+        "Belarus": 6.25,
+        "Finland": 1.6,
+        "Draw": 3.88
+      },
+      "William Hill": {
+        "Belarus": 5.5,
+        "Finland": 1.57,
+        "Draw": 3.5
       },
       "Winamax (DE)": {
-        "Belgium": 5.3,
-        "France": 3.45,
-        "Draw": 1.6
+        "Belarus": 5.5,
+        "Finland": 1.56,
+        "Draw": 3.85
       },
-      "Winamax (FR)": {
-        "Belgium": 5.0,
-        "France": 3.3,
-        "Draw": 1.58
-      },
-      "Betfair": {
-        "Belgium": 6.2,
-        "France": 3.75,
-        "Draw": 1.73
-      },
-      "PMU (FR)": {
-        "Belgium": 6.5,
-        "France": 3.85,
-        "Draw": 1.38
+      "Betclic (FR)": {
+        "Belarus": 5.75,
+        "Finland": 1.55,
+        "Draw": 3.73
       },
       "Suprabets": {
-        "Belgium": 5.3,
-        "France": 2.95,
-        "Draw": 1.85
-      },
-      "Pinnacle": {
-        "Belgium": 5.85,
-        "France": 2.69,
-        "Draw": 1.95
-      },
-      "Betsson": {
-        "Belgium": 5.8,
-        "France": 3.2,
-        "Draw": 1.65
-      },
-      "Nordic Bet": {
-        "Belgium": 5.8,
-        "France": 3.4,
-        "Draw": 1.6
+        "Belarus": 6.0,
+        "Finland": 1.57,
+        "Draw": 3.72
       },
       "LeoVegas (SE)": {
-        "Belgium": 6.4,
-        "France": 4.1,
-        "Draw": 1.47
+        "Belarus": 6.5,
+        "Finland": 1.57,
+        "Draw": 3.7
       },
       "Unibet (SE)": {
-        "Belgium": 6.75,
-        "France": 4.25,
-        "Draw": 1.43
+        "Belarus": 6.5,
+        "Finland": 1.57,
+        "Draw": 3.7
+      },
+      "MyBookie.ag": {
+        "Belarus": 5.7,
+        "Finland": 1.57,
+        "Draw": 3.7
       }
     },
-    "f3f0913d41ae698f82c06ef5ff26187a:h2h": {
+    "851baa7c5da067095d65eb9e15e369c6:h2h": {
+      "Betsson": {
+        "Faroe Islands": 2.65,
+        "Moldova": 2.8,
+        "Draw": 2.85
+      },
       "Betfair": {
-        "Bosnia & Herzegovina": 1.01,
-        "Romania": 520.0,
-        "Draw": 50.0
+        "Faroe Islands": 2.9,
+        "Moldova": 3.0,
+        "Draw": 3.05
+      },
+      "1xBet": {
+        "Faroe Islands": 2.73,
+        "Moldova": 2.87,
+        "Draw": 3.16
+      },
+      "Nordic Bet": {
+        "Faroe Islands": 2.65,
+        "Moldova": 2.8,
+        "Draw": 2.85
+      },
+      "William Hill": {
+        "Faroe Islands": 2.5,
+        "Moldova": 2.75,
+        "Draw": 2.9
+      },
+      "Marathon Bet": {
+        "Faroe Islands": 2.7,
+        "Moldova": 2.84,
+        "Draw": 3.12
       },
       "Suprabets": {
-        "Bosnia & Herzegovina": 1.0,
-        "Romania": 151.0,
+        "Faroe Islands": 2.72,
+        "Moldova": 2.91,
+        "Draw": 2.79
+      },
+      "Winamax (FR)": {
+        "Faroe Islands": 2.65,
+        "Moldova": 2.7,
+        "Draw": 2.95
+      },
+      "PMU (FR)": {
+        "Faroe Islands": 2.63,
+        "Moldova": 2.6,
+        "Draw": 2.75
+      },
+      "Betclic (FR)": {
+        "Faroe Islands": 2.62,
+        "Moldova": 2.8,
+        "Draw": 2.85
+      },
+      "LeoVegas (SE)": {
+        "Faroe Islands": 2.8,
+        "Moldova": 2.75,
+        "Draw": 2.95
+      },
+      "Unibet (SE)": {
+        "Faroe Islands": 2.8,
+        "Moldova": 2.75,
+        "Draw": 2.95
+      },
+      "MyBookie.ag": {
+        "Faroe Islands": 2.71,
+        "Moldova": 2.76,
+        "Draw": 2.87
+      }
+    },
+    "d2ec606c3816938d5306b5f43c36dc55:h2h": {
+      "PMU (FR)": {
+        "Albania": 1.01,
+        "San Marino": 31.0,
+        "Draw": 11.0
+      },
+      "William Hill": {
+        "Albania": 1.04,
+        "San Marino": 41.0,
         "Draw": 15.0
       },
       "Winamax (DE)": {
-        "Bosnia & Herzegovina": 1.01,
-        "Romania": 160.0,
-        "Draw": 34.0
+        "Albania": 1.01,
+        "San Marino": 29.0,
+        "Draw": 20.0
+      },
+      "Betfair": {
+        "Albania": 1.06,
+        "San Marino": 55.0,
+        "Draw": 21.0
       },
       "Winamax (FR)": {
-        "Bosnia & Herzegovina": 1.01,
-        "Romania": 160.0,
-        "Draw": 36.0
+        "Albania": 1.01,
+        "San Marino": 27.0,
+        "Draw": 18.0
+      },
+      "1xBet": {
+        "Albania": 1.05,
+        "San Marino": 55.0,
+        "Draw": 15.5
+      },
+      "Suprabets": {
+        "Albania": 1.02,
+        "San Marino": 26.0,
+        "Draw": 13.0
+      },
+      "Marathon Bet": {
+        "Albania": 1.05,
+        "San Marino": 51.0,
+        "Draw": 14.5
       },
       "Betclic (FR)": {
-        "Bosnia & Herzegovina": 1.0,
-        "Romania": 175.0,
-        "Draw": 7.25
+        "Albania": 1.03,
+        "San Marino": 29.0,
+        "Draw": 11.75
       },
       "Nordic Bet": {
-        "Bosnia & Herzegovina": 1.0,
-        "Romania": 51.0,
-        "Draw": 23.0
+        "Albania": 1.03,
+        "San Marino": 55.0,
+        "Draw": 15.0
       },
       "Betsson": {
-        "Bosnia & Herzegovina": 1.0,
-        "Romania": 56.0,
-        "Draw": 21.0
+        "Albania": 1.03,
+        "San Marino": 55.0,
+        "Draw": 15.0
+      },
+      "LeoVegas (SE)": {
+        "Albania": 1.04,
+        "San Marino": 35.0,
+        "Draw": 12.0
+      },
+      "Unibet (SE)": {
+        "Albania": 1.06,
+        "San Marino": 36.0,
+        "Draw": 13.0
+      },
+      "MyBookie.ag": {
+        "Albania": 1.04,
+        "San Marino": 30.0,
+        "Draw": 12.0
       }
     },
-    "058603d04d090992dc3bbdf040e0f50c:h2h": {
-      "Betsson": {
-        "Italy": 1.0,
-        "Turkey": 36.0,
-        "Draw": 26.0
+    "25729c523424cd79daafd14635c7ea12:h2h": {
+      "PMU (FR)": {
+        "Bulgaria": 1.56,
+        "Estonia": 5.4,
+        "Draw": 3.35
       },
-      "Nordic Bet": {
-        "Italy": 1.0,
-        "Turkey": 34.0,
-        "Draw": 29.0
+      "William Hill": {
+        "Bulgaria": 1.65,
+        "Estonia": 5.0,
+        "Draw": 3.4
+      },
+      "Betfair": {
+        "Bulgaria": 1.76,
+        "Estonia": 5.9,
+        "Draw": 3.65
+      },
+      "Winamax (FR)": {
+        "Bulgaria": 1.64,
+        "Estonia": 5.0,
+        "Draw": 3.55
+      },
+      "1xBet": {
+        "Bulgaria": 1.71,
+        "Estonia": 5.71,
+        "Draw": 3.69
       },
       "Betclic (FR)": {
-        "Italy": 1.0,
-        "Turkey": 100.0,
-        "Draw": 75.0
+        "Bulgaria": 1.63,
+        "Estonia": 5.25,
+        "Draw": 3.47
+      },
+      "Suprabets": {
+        "Bulgaria": 1.69,
+        "Estonia": 5.5,
+        "Draw": 3.38
+      },
+      "Marathon Bet": {
+        "Bulgaria": 1.69,
+        "Estonia": 5.65,
+        "Draw": 3.65
+      },
+      "Nordic Bet": {
+        "Bulgaria": 1.68,
+        "Estonia": 5.4,
+        "Draw": 3.3
+      },
+      "Betsson": {
+        "Bulgaria": 1.68,
+        "Estonia": 5.4,
+        "Draw": 3.3
+      },
+      "MyBookie.ag": {
+        "Bulgaria": 1.66,
+        "Estonia": 5.3,
+        "Draw": 3.46
       }
     }
   },
@@ -1871,17 +2001,5 @@
     }
   ],
   "results_history": [],
-  "value_alerted": [
-    "bb8c6293badc2a09ec9d7994c4895a6e:h2h|Betclic (FR)|France",
-    "bb8c6293badc2a09ec9d7994c4895a6e:h2h|Betfair|France",
-    "bb8c6293badc2a09ec9d7994c4895a6e:h2h|Betsson|France",
-    "bb8c6293badc2a09ec9d7994c4895a6e:h2h|LeoVegas (SE)|France",
-    "bb8c6293badc2a09ec9d7994c4895a6e:h2h|Nordic Bet|France",
-    "bb8c6293badc2a09ec9d7994c4895a6e:h2h|PMU (FR)|Belgium",
-    "bb8c6293badc2a09ec9d7994c4895a6e:h2h|PMU (FR)|France",
-    "bb8c6293badc2a09ec9d7994c4895a6e:h2h|Unibet (SE)|Belgium",
-    "bb8c6293badc2a09ec9d7994c4895a6e:h2h|Unibet (SE)|France",
-    "bb8c6293badc2a09ec9d7994c4895a6e:h2h|Winamax (DE)|France",
-    "bb8c6293badc2a09ec9d7994c4895a6e:h2h|Winamax (FR)|France"
-  ]
+  "value_alerted": []
 }
