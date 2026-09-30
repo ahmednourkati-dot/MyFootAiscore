@@ -237,22 +237,6 @@
   "alerted": [],
   "pending_results": [
     {
-      "state_key": "9352e6dce53be8e98217c70a28200e69:h2h",
-      "event_id": "9352e6dce53be8e98217c70a28200e69",
-      "sport_key": "soccer",
-      "competition": "UEFA Nations League",
-      "home_team": "Norway",
-      "away_team": "Denmark",
-      "commence_time": "2026-09-24T18:45:00Z",
-      "market_label": "Cotes 1X2",
-      "selection": "Denmark",
-      "odds_at_alert": 5.0,
-      "stake_pct": 2.0,
-      "confidence": 5,
-      "alert_type": "value",
-      "alerted_at": "2026-09-24T04:38:52.636850+00:00"
-    },
-    {
       "state_key": "2b0afd76c5108b81ce762450d53ca18f:h2h",
       "event_id": "2b0afd76c5108b81ce762450d53ca18f",
       "sport_key": "soccer",
