@@ -1,249 +1,115 @@
 {
   "snapshots": {
-    "6380fc2b450afd4d9c580f1ef483bca1:h2h": {
-      "Nordic Bet": {
-        "Bayern Munich": 1.23,
-        "Benfica": 8.6,
-        "Draw": 5.35
-      },
-      "Betfair": {
-        "Bayern Munich": 1.3,
-        "Benfica": 12.0,
-        "Draw": 6.6
-      },
-      "Pinnacle": {
-        "Bayern Munich": 1.21,
-        "Benfica": 10.47,
-        "Draw": 6.95
-      },
-      "Betsson": {
-        "Bayern Munich": 1.23,
-        "Benfica": 8.2,
-        "Draw": 5.9
-      },
-      "888sport": {
-        "Bayern Munich": 1.22,
-        "Benfica": 8.5,
-        "Draw": 5.5
-      },
-      "Unibet (FR)": {
-        "Bayern Munich": 1.15,
-        "Benfica": 7.8,
-        "Draw": 5.5
-      },
-      "William Hill": {
-        "Bayern Munich": 1.22,
-        "Benfica": 9.5,
-        "Draw": 4.8
-      },
-      "Betclic (FR)": {
-        "Bayern Munich": 1.22,
-        "Benfica": 7.75,
-        "Draw": 4.85
-      },
-      "BetOnline.ag": {
-        "Bayern Munich": 1.21,
-        "Benfica": 9.92,
-        "Draw": 6.13
-      },
-      "PMU (FR)": {
-        "Bayern Munich": 1.13,
-        "Benfica": 8.0,
-        "Draw": 5.2
-      },
-      "Unibet (NL)": {
-        "Bayern Munich": 1.24,
-        "Benfica": 9.0,
-        "Draw": 5.6
-      },
-      "Coolbet": {
-        "Bayern Munich": 1.25,
-        "Benfica": 9.0,
-        "Draw": 5.5
-      },
-      "1xBet": {
-        "Bayern Munich": 1.27,
-        "Benfica": 8.52,
-        "Draw": 6.01
-      }
-    },
-    "c72252d0582902aebb8ac6cda65a9978:h2h": {
-      "Nordic Bet": {
-        "Chelsea": 5.35,
-        "Lyon": 1.42,
-        "Draw": 4.2
-      },
-      "Betfair": {
-        "Chelsea": 6.4,
-        "Lyon": 1.52,
-        "Draw": 5.1
-      },
-      "Pinnacle": {
-        "Chelsea": 5.83,
-        "Lyon": 1.45,
-        "Draw": 4.91
-      },
-      "Betsson": {
-        "Chelsea": 5.3,
-        "Lyon": 1.46,
-        "Draw": 4.4
-      },
-      "888sport": {
-        "Chelsea": 4.8,
-        "Lyon": 1.4,
-        "Draw": 4.33
-      },
-      "Unibet (FR)": {
-        "Chelsea": 6.4,
-        "Lyon": 1.32,
-        "Draw": 5.25
-      },
-      "William Hill": {
-        "Chelsea": 5.0,
-        "Lyon": 1.4,
-        "Draw": 4.2
-      },
-      "1xBet": {
-        "Chelsea": 5.19,
-        "Lyon": 1.49,
-        "Draw": 4.94
-      },
-      "Betclic (FR)": {
-        "Chelsea": 4.9,
-        "Lyon": 1.42,
-        "Draw": 4.2
-      },
-      "BetOnline.ag": {
-        "Chelsea": 5.27,
-        "Lyon": 1.47,
-        "Draw": 4.62
-      },
-      "Unibet (NL)": {
-        "Chelsea": 5.4,
-        "Lyon": 1.48,
-        "Draw": 4.1
-      },
-      "Coolbet": {
-        "Chelsea": 5.5,
-        "Lyon": 1.44,
-        "Draw": 4.5
-      },
-      "PMU (FR)": {
-        "Chelsea": 5.0,
-        "Lyon": 1.34,
-        "Draw": 3.85
-      }
-    },
     "49ef4ef7906ae352c937b46ce34a5493:h2h": {
       "Marathon Bet": {
-        "New York Red Bulls": 3.64,
-        "St. Louis City SC": 1.78,
+        "New York Red Bulls": 3.76,
+        "St. Louis City SC": 1.75,
         "Draw": 4.2
       },
       "Winamax (DE)": {
-        "New York Red Bulls": 3.45,
-        "St. Louis City SC": 1.78,
-        "Draw": 4.1
+        "New York Red Bulls": 3.6,
+        "St. Louis City SC": 1.74,
+        "Draw": 3.95
       },
       "BetOnline.ag": {
-        "New York Red Bulls": 3.85,
-        "St. Louis City SC": 1.83,
-        "Draw": 4.35
+        "New York Red Bulls": 3.97,
+        "St. Louis City SC": 1.8,
+        "Draw": 4.4
       },
       "Coolbet": {
-        "New York Red Bulls": 3.6,
-        "St. Louis City SC": 1.87,
-        "Draw": 4.0
+        "New York Red Bulls": 3.75,
+        "St. Louis City SC": 1.73,
+        "Draw": 4.33
       },
       "Winamax (FR)": {
-        "New York Red Bulls": 3.4,
-        "St. Louis City SC": 1.76,
-        "Draw": 4.0
+        "New York Red Bulls": 3.5,
+        "St. Louis City SC": 1.7,
+        "Draw": 3.8
       },
       "Unibet (FR)": {
         "New York Red Bulls": 3.5,
-        "St. Louis City SC": 1.72,
-        "Draw": 4.0
+        "St. Louis City SC": 1.69,
+        "Draw": 3.9
       },
       "MyBookie.ag": {
-        "New York Red Bulls": 3.7,
-        "St. Louis City SC": 1.83,
-        "Draw": 4.1
+        "New York Red Bulls": 3.6,
+        "St. Louis City SC": 1.75,
+        "Draw": 4.15
       },
       "1xBet": {
-        "New York Red Bulls": 3.79,
-        "St. Louis City SC": 1.85,
-        "Draw": 4.38
+        "New York Red Bulls": 3.85,
+        "St. Louis City SC": 1.77,
+        "Draw": 4.56
       },
       "Betfair": {
-        "New York Red Bulls": 3.9,
-        "St. Louis City SC": 1.92,
-        "Draw": 4.3
+        "New York Red Bulls": 4.1,
+        "St. Louis City SC": 1.85,
+        "Draw": 4.1
       },
       "888sport": {
         "New York Red Bulls": 3.6,
-        "St. Louis City SC": 1.8,
-        "Draw": 3.9
+        "St. Louis City SC": 1.73,
+        "Draw": 4.0
       },
       "William Hill": {
-        "New York Red Bulls": 3.5,
-        "St. Louis City SC": 1.75,
-        "Draw": 3.9
+        "New York Red Bulls": 3.7,
+        "St. Louis City SC": 1.73,
+        "Draw": 4.0
       },
       "Betclic (FR)": {
-        "New York Red Bulls": 3.55,
-        "St. Louis City SC": 1.77,
-        "Draw": 3.98
-      },
-      "Tipico": {
-        "New York Red Bulls": 3.7,
-        "St. Louis City SC": 1.75,
-        "Draw": 4.1
-      },
-      "Nordic Bet": {
-        "New York Red Bulls": 3.95,
-        "St. Louis City SC": 1.85,
-        "Draw": 3.85
-      },
-      "Betsson": {
-        "New York Red Bulls": 3.95,
-        "St. Louis City SC": 1.85,
-        "Draw": 3.85
-      },
-      "LeoVegas (SE)": {
-        "New York Red Bulls": 3.6,
-        "St. Louis City SC": 1.91,
-        "Draw": 4.2
-      },
-      "Unibet (SE)": {
-        "New York Red Bulls": 3.5,
-        "St. Louis City SC": 1.85,
-        "Draw": 4.0
-      },
-      "PMU (FR)": {
-        "New York Red Bulls": 3.35,
-        "St. Louis City SC": 1.82,
+        "New York Red Bulls": 3.4,
+        "St. Louis City SC": 1.69,
         "Draw": 3.9
       },
-      "Unibet (NL)": {
-        "New York Red Bulls": 3.5,
-        "St. Louis City SC": 1.85,
+      "Tipico": {
+        "New York Red Bulls": 3.4,
+        "St. Louis City SC": 1.8,
         "Draw": 4.0
       },
+      "Nordic Bet": {
+        "New York Red Bulls": 3.5,
+        "St. Louis City SC": 1.72,
+        "Draw": 4.2
+      },
+      "Betsson": {
+        "New York Red Bulls": 3.5,
+        "St. Louis City SC": 1.72,
+        "Draw": 4.2
+      },
+      "LeoVegas (SE)": {
+        "New York Red Bulls": 3.35,
+        "St. Louis City SC": 1.88,
+        "Draw": 3.95
+      },
+      "Unibet (SE)": {
+        "New York Red Bulls": 3.45,
+        "St. Louis City SC": 1.85,
+        "Draw": 3.95
+      },
+      "PMU (FR)": {
+        "New York Red Bulls": 3.1,
+        "St. Louis City SC": 1.74,
+        "Draw": 3.65
+      },
+      "Unibet (NL)": {
+        "New York Red Bulls": 3.45,
+        "St. Louis City SC": 1.85,
+        "Draw": 3.95
+      },
       "Matchbook": {
-        "New York Red Bulls": 3.9,
-        "St. Louis City SC": 1.92,
-        "Draw": 4.3
+        "New York Red Bulls": 4.1,
+        "St. Louis City SC": 1.89,
+        "Draw": 4.2
       },
       "Pinnacle": {
-        "New York Red Bulls": 3.85,
-        "St. Louis City SC": 1.83,
-        "Draw": 4.33
+        "New York Red Bulls": 4.01,
+        "St. Louis City SC": 1.8,
+        "Draw": 4.34
       },
       "BetAnything": {
-        "New York Red Bulls": 3.7,
-        "St. Louis City SC": 1.79,
-        "Draw": 4.2
+        "New York Red Bulls": 3.97,
+        "St. Louis City SC": 1.8,
+        "Draw": 4.4
       }
     },
     "0fc933670b2cf487a5ac2878f500492f:h2h": {
@@ -254,13 +120,13 @@
       },
       "Betsson": {
         "Azerbaijan": 1.14,
-        "Liechtenstein": 27.0,
-        "Draw": 5.7
+        "Liechtenstein": 22.0,
+        "Draw": 6.1
       },
       "Suprabets": {
         "Azerbaijan": 1.12,
-        "Liechtenstein": 15.0,
-        "Draw": 7.4
+        "Liechtenstein": 19.0,
+        "Draw": 7.9
       },
       "PMU (FR)": {
         "Azerbaijan": 1.08,
@@ -269,8 +135,8 @@
       },
       "Nordic Bet": {
         "Azerbaijan": 1.14,
-        "Liechtenstein": 27.0,
-        "Draw": 5.7
+        "Liechtenstein": 22.0,
+        "Draw": 6.1
       },
       "Marathon Bet": {
         "Azerbaijan": 1.14,
@@ -279,12 +145,12 @@
       },
       "Winamax (FR)": {
         "Azerbaijan": 1.11,
-        "Liechtenstein": 16.0,
-        "Draw": 7.75
+        "Liechtenstein": 15.0,
+        "Draw": 7.5
       },
       "Betclic (FR)": {
         "Azerbaijan": 1.11,
-        "Liechtenstein": 18.25,
+        "Liechtenstein": 17.5,
         "Draw": 7.5
       },
       "William Hill": {
@@ -294,7 +160,7 @@
       },
       "Winamax (DE)": {
         "Azerbaijan": 1.12,
-        "Liechtenstein": 17.0,
+        "Liechtenstein": 16.0,
         "Draw": 8.0
       },
       "LeoVegas (SE)": {
@@ -309,13 +175,142 @@
       },
       "MyBookie.ag": {
         "Azerbaijan": 1.12,
-        "Liechtenstein": 19.75,
-        "Draw": 7.3
+        "Liechtenstein": 19.0,
+        "Draw": 7.2
       },
       "888sport": {
         "Azerbaijan": 1.14,
         "Liechtenstein": 21.0,
         "Draw": 7.0
+      }
+    },
+    "695a3929e6554772a974fa98fecb48f0:h2h": {
+      "Betfair": {
+        "Austria Wien": 4.7,
+        "Inter Milan": 1.77,
+        "Draw": 4.0
+      },
+      "Pinnacle": {
+        "Austria Wien": 4.06,
+        "Inter Milan": 1.7,
+        "Draw": 4.07
+      },
+      "Unibet (FR)": {
+        "Austria Wien": 3.95,
+        "Inter Milan": 1.57,
+        "Draw": 3.6
+      },
+      "Betclic (FR)": {
+        "Austria Wien": 4.1,
+        "Inter Milan": 1.64,
+        "Draw": 3.73
+      },
+      "Unibet (NL)": {
+        "Austria Wien": 4.1,
+        "Inter Milan": 1.78,
+        "Draw": 3.8
+      },
+      "BetOnline.ag": {
+        "Austria Wien": 4.16,
+        "Inter Milan": 1.69,
+        "Draw": 3.74
+      },
+      "Betsson": {
+        "Austria Wien": 4.1,
+        "Inter Milan": 1.7,
+        "Draw": 3.65
+      },
+      "Nordic Bet": {
+        "Austria Wien": 4.1,
+        "Inter Milan": 1.7,
+        "Draw": 3.65
+      },
+      "PMU (FR)": {
+        "Austria Wien": 3.75,
+        "Inter Milan": 1.64,
+        "Draw": 3.45
+      },
+      "1xBet": {
+        "Austria Wien": 4.72,
+        "Inter Milan": 1.68,
+        "Draw": 4.15
+      },
+      "888sport": {
+        "Austria Wien": 4.2,
+        "Inter Milan": 1.65,
+        "Draw": 3.6
+      },
+      "William Hill": {
+        "Austria Wien": 4.2,
+        "Inter Milan": 1.62,
+        "Draw": 3.5
+      }
+    },
+    "569ba3f14347105c50c8164a0ecfe28e:h2h": {
+      "Betfair": {
+        "HB Køge": 1.33,
+        "Servette FC": 10.5,
+        "Draw": 5.6
+      },
+      "Pinnacle": {
+        "HB Køge": 1.28,
+        "Servette FC": 9.44,
+        "Draw": 5.31
+      },
+      "Unibet (FR)": {
+        "HB Køge": 1.16,
+        "Servette FC": 8.4,
+        "Draw": 5.3
+      },
+      "Betclic (FR)": {
+        "HB Køge": 1.25,
+        "Servette FC": 8.0,
+        "Draw": 5.1
+      },
+      "BetOnline.ag": {
+        "HB Køge": 1.27,
+        "Servette FC": 8.48,
+        "Draw": 5.01
+      },
+      "Unibet (NL)": {
+        "HB Køge": 1.25,
+        "Servette FC": 10.0,
+        "Draw": 5.5
+      },
+      "Betsson": {
+        "HB Køge": 1.28,
+        "Servette FC": 8.2,
+        "Draw": 4.95
+      },
+      "Nordic Bet": {
+        "HB Køge": 1.28,
+        "Servette FC": 8.2,
+        "Draw": 4.95
+      },
+      "William Hill": {
+        "HB Køge": 1.25,
+        "Servette FC": 8.0,
+        "Draw": 4.8
+      },
+      "888sport": {
+        "HB Køge": 1.25,
+        "Servette FC": 8.0,
+        "Draw": 5.0
+      },
+      "PMU (FR)": {
+        "HB Køge": 1.17,
+        "Servette FC": 9.0,
+        "Draw": 5.1
+      },
+      "1xBet": {
+        "HB Køge": 1.29,
+        "Servette FC": 9.5,
+        "Draw": 5.9
+      },
+      "Coolbet": {
+        "HB Køge": 1.3,
+        "Servette FC": 9.0,
+        "Draw": 5.25
       }
     }
   },
@@ -2208,11 +2203,43 @@
       "confidence": 10,
       "alert_type": "value",
       "alerted_at": "2026-09-30T12:27:05.760406+00:00"
+    },
+    {
+      "state_key": "695a3929e6554772a974fa98fecb48f0:h2h",
+      "event_id": "695a3929e6554772a974fa98fecb48f0",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League Women",
+      "home_team": "Austria Wien",
+      "away_team": "Inter Milan",
+      "commence_time": "2026-10-01T16:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Austria Wien",
+      "odds_at_alert": 4.7,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-09-30T23:42:52.244521+00:00"
+    },
+    {
+      "state_key": "695a3929e6554772a974fa98fecb48f0:h2h",
+      "event_id": "695a3929e6554772a974fa98fecb48f0",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League Women",
+      "home_team": "Austria Wien",
+      "away_team": "Inter Milan",
+      "commence_time": "2026-10-01T16:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Austria Wien",
+      "odds_at_alert": 4.72,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-09-30T23:42:52.728106+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "6380fc2b450afd4d9c580f1ef483bca1:h2h|Betfair|Benfica",
-    "6380fc2b450afd4d9c580f1ef483bca1:h2h|Coolbet|Benfica"
+    "695a3929e6554772a974fa98fecb48f0:h2h|1xBet|Austria Wien",
+    "695a3929e6554772a974fa98fecb48f0:h2h|Betfair|Austria Wien"
   ]
 }
