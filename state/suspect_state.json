@@ -1,216 +1,321 @@
 {
   "snapshots": {
-    "d15a54cd0e08b8b028fc493fd76fcf26:h2h": {
-      "Betfair": {
-        "AS Roma": 34.0,
-        "Barcelona": 1.08,
-        "Draw": 18.5
-      },
-      "Pinnacle": {
-        "AS Roma": 21.93,
-        "Barcelona": 1.04,
-        "Draw": 13.71
-      },
-      "888sport": {
-        "AS Roma": 36.0,
-        "Barcelona": 1.05,
-        "Draw": 11.0
-      },
-      "Unibet (FR)": {
-        "AS Roma": 14.0,
-        "Barcelona": 1.02,
-        "Draw": 8.4
-      },
-      "William Hill": {
-        "AS Roma": 34.0,
-        "Barcelona": 1.05,
-        "Draw": 11.0
-      },
-      "1xBet": {
-        "AS Roma": 33.0,
-        "Barcelona": 1.02,
-        "Draw": 11.5
-      },
-      "Betclic (FR)": {
-        "AS Roma": 19.75,
-        "Barcelona": 1.03,
-        "Draw": 11.0
-      },
-      "BetOnline.ag": {
-        "AS Roma": 20.4,
-        "Barcelona": 1.04,
-        "Draw": 11.5
-      },
-      "Unibet (NL)": {
-        "AS Roma": 26.0,
-        "Barcelona": 1.04,
-        "Draw": 13.0
-      },
-      "Coolbet": {
-        "AS Roma": 21.0,
-        "Barcelona": 1.07,
-        "Draw": 11.25
-      }
-    },
-    "6eb5303534d0b64ca7f11d09bd3d5e36:h2h": {
-      "Nordic Bet": {
-        "Arsenal": 1.35,
-        "Paris FC": 6.8,
-        "Draw": 4.6
-      },
-      "Betfair": {
-        "Arsenal": 1.38,
-        "Paris FC": 8.8,
-        "Draw": 5.4
-      },
-      "Pinnacle": {
-        "Arsenal": 1.34,
-        "Paris FC": 8.16,
-        "Draw": 4.85
-      },
-      "Betsson": {
-        "Arsenal": 1.35,
-        "Paris FC": 6.8,
-        "Draw": 4.6
-      },
-      "888sport": {
-        "Arsenal": 1.3,
-        "Paris FC": 7.0,
-        "Draw": 4.75
-      },
-      "Unibet (FR)": {
-        "Arsenal": 1.3,
-        "Paris FC": 7.0,
-        "Draw": 5.4
-      },
-      "William Hill": {
-        "Arsenal": 1.3,
-        "Paris FC": 6.5,
-        "Draw": 4.6
-      },
-      "Betclic (FR)": {
-        "Arsenal": 1.34,
-        "Paris FC": 7.0,
-        "Draw": 4.5
-      },
-      "BetOnline.ag": {
-        "Arsenal": 1.33,
-        "Paris FC": 7.41,
-        "Draw": 4.68
-      },
-      "PMU (FR)": {
-        "Arsenal": 1.28,
-        "Paris FC": 6.5,
-        "Draw": 4.35
-      },
-      "Unibet (NL)": {
-        "Arsenal": 1.38,
-        "Paris FC": 7.5,
-        "Draw": 4.8
-      },
-      "Coolbet": {
-        "Arsenal": 1.35,
-        "Paris FC": 8.4,
-        "Draw": 4.75
-      }
-    },
-    "2a39377453f4d72b2f9a8851e2fa75ff:h2h": {
-      "Nordic Bet": {
-        "BK Hacken": 2.3,
-        "Juventus": 2.72,
-        "Draw": 3.4
-      },
-      "Betfair": {
-        "BK Hacken": 2.48,
-        "Juventus": 2.8,
-        "Draw": 3.85
-      },
-      "Pinnacle": {
-        "BK Hacken": 2.39,
-        "Juventus": 2.57,
-        "Draw": 3.7
-      },
-      "Betsson": {
-        "BK Hacken": 2.3,
-        "Juventus": 2.72,
-        "Draw": 3.4
-      },
-      "Unibet (FR)": {
-        "BK Hacken": 2.2,
-        "Juventus": 2.35,
-        "Draw": 3.4
-      },
-      "Betclic (FR)": {
-        "BK Hacken": 2.35,
-        "Juventus": 2.5,
-        "Draw": 3.5
-      },
-      "BetOnline.ag": {
-        "BK Hacken": 2.35,
-        "Juventus": 2.57,
-        "Draw": 3.49
-      }
-    },
     "6380fc2b450afd4d9c580f1ef483bca1:h2h": {
       "Nordic Bet": {
-        "Bayern Munich": 1.26,
-        "Benfica": 8.2,
+        "Bayern Munich": 1.23,
+        "Benfica": 8.6,
         "Draw": 5.35
       },
       "Betfair": {
-        "Bayern Munich": 1.28,
-        "Benfica": 11.5,
+        "Bayern Munich": 1.3,
+        "Benfica": 12.0,
         "Draw": 6.6
       },
       "Pinnacle": {
-        "Bayern Munich": 1.25,
-        "Benfica": 9.03,
-        "Draw": 5.84
+        "Bayern Munich": 1.21,
+        "Benfica": 10.47,
+        "Draw": 6.95
       },
       "Betsson": {
-        "Bayern Munich": 1.26,
+        "Bayern Munich": 1.23,
         "Benfica": 8.2,
-        "Draw": 5.35
+        "Draw": 5.9
       },
       "888sport": {
-        "Bayern Munich": 1.25,
+        "Bayern Munich": 1.22,
         "Benfica": 8.5,
-        "Draw": 5.0
+        "Draw": 5.5
       },
       "Unibet (FR)": {
-        "Bayern Munich": 1.17,
+        "Bayern Munich": 1.15,
         "Benfica": 7.8,
-        "Draw": 5.4
+        "Draw": 5.5
       },
       "William Hill": {
         "Bayern Munich": 1.22,
-        "Benfica": 8.5,
-        "Draw": 5.0
+        "Benfica": 9.5,
+        "Draw": 4.8
       },
       "Betclic (FR)": {
-        "Bayern Munich": 1.26,
-        "Benfica": 8.0,
-        "Draw": 5.25
+        "Bayern Munich": 1.22,
+        "Benfica": 7.75,
+        "Draw": 4.85
       },
       "BetOnline.ag": {
-        "Bayern Munich": 1.25,
-        "Benfica": 8.7,
-        "Draw": 5.44
+        "Bayern Munich": 1.21,
+        "Benfica": 9.92,
+        "Draw": 6.13
       },
       "PMU (FR)": {
-        "Bayern Munich": 1.18,
+        "Bayern Munich": 1.13,
         "Benfica": 8.0,
-        "Draw": 5.4
+        "Draw": 5.2
       },
       "Unibet (NL)": {
-        "Bayern Munich": 1.27,
+        "Bayern Munich": 1.24,
         "Benfica": 9.0,
-        "Draw": 6.0
+        "Draw": 5.6
       },
       "Coolbet": {
-        "Bayern Munich": 1.3,
-        "Benfica": 8.75,
-        "Draw": 5.35
+        "Bayern Munich": 1.25,
+        "Benfica": 9.0,
+        "Draw": 5.5
+      },
+      "1xBet": {
+        "Bayern Munich": 1.27,
+        "Benfica": 8.52,
+        "Draw": 6.01
+      }
+    },
+    "c72252d0582902aebb8ac6cda65a9978:h2h": {
+      "Nordic Bet": {
+        "Chelsea": 5.35,
+        "Lyon": 1.42,
+        "Draw": 4.2
+      },
+      "Betfair": {
+        "Chelsea": 6.4,
+        "Lyon": 1.52,
+        "Draw": 5.1
+      },
+      "Pinnacle": {
+        "Chelsea": 5.83,
+        "Lyon": 1.45,
+        "Draw": 4.91
+      },
+      "Betsson": {
+        "Chelsea": 5.3,
+        "Lyon": 1.46,
+        "Draw": 4.4
+      },
+      "888sport": {
+        "Chelsea": 4.8,
+        "Lyon": 1.4,
+        "Draw": 4.33
+      },
+      "Unibet (FR)": {
+        "Chelsea": 6.4,
+        "Lyon": 1.32,
+        "Draw": 5.25
+      },
+      "William Hill": {
+        "Chelsea": 5.0,
+        "Lyon": 1.4,
+        "Draw": 4.2
+      },
+      "1xBet": {
+        "Chelsea": 5.19,
+        "Lyon": 1.49,
+        "Draw": 4.94
+      },
+      "Betclic (FR)": {
+        "Chelsea": 4.9,
+        "Lyon": 1.42,
+        "Draw": 4.2
+      },
+      "BetOnline.ag": {
+        "Chelsea": 5.27,
+        "Lyon": 1.47,
+        "Draw": 4.62
+      },
+      "Unibet (NL)": {
+        "Chelsea": 5.4,
+        "Lyon": 1.48,
+        "Draw": 4.1
+      },
+      "Coolbet": {
+        "Chelsea": 5.5,
+        "Lyon": 1.44,
+        "Draw": 4.5
+      },
+      "PMU (FR)": {
+        "Chelsea": 5.0,
+        "Lyon": 1.34,
+        "Draw": 3.85
+      }
+    },
+    "49ef4ef7906ae352c937b46ce34a5493:h2h": {
+      "Marathon Bet": {
+        "New York Red Bulls": 3.64,
+        "St. Louis City SC": 1.78,
+        "Draw": 4.2
+      },
+      "Winamax (DE)": {
+        "New York Red Bulls": 3.45,
+        "St. Louis City SC": 1.78,
+        "Draw": 4.1
+      },
+      "BetOnline.ag": {
+        "New York Red Bulls": 3.85,
+        "St. Louis City SC": 1.83,
+        "Draw": 4.35
+      },
+      "Coolbet": {
+        "New York Red Bulls": 3.6,
+        "St. Louis City SC": 1.87,
+        "Draw": 4.0
+      },
+      "Winamax (FR)": {
+        "New York Red Bulls": 3.4,
+        "St. Louis City SC": 1.76,
+        "Draw": 4.0
+      },
+      "Unibet (FR)": {
+        "New York Red Bulls": 3.5,
+        "St. Louis City SC": 1.72,
+        "Draw": 4.0
+      },
+      "MyBookie.ag": {
+        "New York Red Bulls": 3.7,
+        "St. Louis City SC": 1.83,
+        "Draw": 4.1
+      },
+      "1xBet": {
+        "New York Red Bulls": 3.79,
+        "St. Louis City SC": 1.85,
+        "Draw": 4.38
+      },
+      "Betfair": {
+        "New York Red Bulls": 3.9,
+        "St. Louis City SC": 1.92,
+        "Draw": 4.3
+      },
+      "888sport": {
+        "New York Red Bulls": 3.6,
+        "St. Louis City SC": 1.8,
+        "Draw": 3.9
+      },
+      "William Hill": {
+        "New York Red Bulls": 3.5,
+        "St. Louis City SC": 1.75,
+        "Draw": 3.9
+      },
+      "Betclic (FR)": {
+        "New York Red Bulls": 3.55,
+        "St. Louis City SC": 1.77,
+        "Draw": 3.98
+      },
+      "Tipico": {
+        "New York Red Bulls": 3.7,
+        "St. Louis City SC": 1.75,
+        "Draw": 4.1
+      },
+      "Nordic Bet": {
+        "New York Red Bulls": 3.95,
+        "St. Louis City SC": 1.85,
+        "Draw": 3.85
+      },
+      "Betsson": {
+        "New York Red Bulls": 3.95,
+        "St. Louis City SC": 1.85,
+        "Draw": 3.85
+      },
+      "LeoVegas (SE)": {
+        "New York Red Bulls": 3.6,
+        "St. Louis City SC": 1.91,
+        "Draw": 4.2
+      },
+      "Unibet (SE)": {
+        "New York Red Bulls": 3.5,
+        "St. Louis City SC": 1.85,
+        "Draw": 4.0
+      },
+      "PMU (FR)": {
+        "New York Red Bulls": 3.35,
+        "St. Louis City SC": 1.82,
+        "Draw": 3.9
+      },
+      "Unibet (NL)": {
+        "New York Red Bulls": 3.5,
+        "St. Louis City SC": 1.85,
+        "Draw": 4.0
+      },
+      "Matchbook": {
+        "New York Red Bulls": 3.9,
+        "St. Louis City SC": 1.92,
+        "Draw": 4.3
+      },
+      "Pinnacle": {
+        "New York Red Bulls": 3.85,
+        "St. Louis City SC": 1.83,
+        "Draw": 4.33
+      },
+      "BetAnything": {
+        "New York Red Bulls": 3.7,
+        "St. Louis City SC": 1.79,
+        "Draw": 4.2
+      }
+    },
+    "0fc933670b2cf487a5ac2878f500492f:h2h": {
+      "1xBet": {
+        "Azerbaijan": 1.16,
+        "Liechtenstein": 24.0,
+        "Draw": 7.95
+      },
+      "Betsson": {
+        "Azerbaijan": 1.14,
+        "Liechtenstein": 27.0,
+        "Draw": 5.7
+      },
+      "Suprabets": {
+        "Azerbaijan": 1.12,
+        "Liechtenstein": 15.0,
+        "Draw": 7.4
+      },
+      "PMU (FR)": {
+        "Azerbaijan": 1.08,
+        "Liechtenstein": 18.0,
+        "Draw": 7.5
+      },
+      "Nordic Bet": {
+        "Azerbaijan": 1.14,
+        "Liechtenstein": 27.0,
+        "Draw": 5.7
+      },
+      "Marathon Bet": {
+        "Azerbaijan": 1.14,
+        "Liechtenstein": 24.0,
+        "Draw": 7.9
+      },
+      "Winamax (FR)": {
+        "Azerbaijan": 1.11,
+        "Liechtenstein": 16.0,
+        "Draw": 7.75
+      },
+      "Betclic (FR)": {
+        "Azerbaijan": 1.11,
+        "Liechtenstein": 18.25,
+        "Draw": 7.5
+      },
+      "William Hill": {
+        "Azerbaijan": 1.12,
+        "Liechtenstein": 19.0,
+        "Draw": 7.0
+      },
+      "Winamax (DE)": {
+        "Azerbaijan": 1.12,
+        "Liechtenstein": 17.0,
+        "Draw": 8.0
+      },
+      "LeoVegas (SE)": {
+        "Azerbaijan": 1.12,
+        "Liechtenstein": 20.0,
+        "Draw": 8.0
+      },
+      "Unibet (SE)": {
+        "Azerbaijan": 1.12,
+        "Liechtenstein": 20.0,
+        "Draw": 8.0
+      },
+      "MyBookie.ag": {
+        "Azerbaijan": 1.12,
+        "Liechtenstein": 19.75,
+        "Draw": 7.3
+      },
+      "888sport": {
+        "Azerbaijan": 1.14,
+        "Liechtenstein": 21.0,
+        "Draw": 7.0
       }
     }
   },
@@ -2108,12 +2213,6 @@
   "results_history": [],
   "value_alerted": [
     "6380fc2b450afd4d9c580f1ef483bca1:h2h|Betfair|Benfica",
-    "6380fc2b450afd4d9c580f1ef483bca1:h2h|Coolbet|Benfica",
-    "d15a54cd0e08b8b028fc493fd76fcf26:h2h|1xBet|AS Roma",
-    "d15a54cd0e08b8b028fc493fd76fcf26:h2h|888sport|AS Roma",
-    "d15a54cd0e08b8b028fc493fd76fcf26:h2h|Betfair|AS Roma",
-    "d15a54cd0e08b8b028fc493fd76fcf26:h2h|Betfair|Draw",
-    "d15a54cd0e08b8b028fc493fd76fcf26:h2h|Unibet (NL)|AS Roma",
-    "d15a54cd0e08b8b028fc493fd76fcf26:h2h|William Hill|AS Roma"
+    "6380fc2b450afd4d9c580f1ef483bca1:h2h|Coolbet|Benfica"
   ]
 }
