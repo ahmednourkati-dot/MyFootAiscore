@@ -1,127 +1,45 @@
 {
   "snapshots": {
-    "955583952ce8b24ce50e44881e5f1023:h2h": {
-      "Unibet (SE)": {
-        "Botafogo-SP": 1.24,
-        "Ponte Preta": 11.5,
-        "Draw": 5.75
-      },
-      "LeoVegas (SE)": {
-        "Botafogo-SP": 1.2,
-        "Ponte Preta": 10.5,
-        "Draw": 5.3
-      },
-      "Unibet (NL)": {
-        "Botafogo-SP": 1.24,
-        "Ponte Preta": 11.5,
-        "Draw": 5.75
-      },
-      "Betsson": {
-        "Botafogo-SP": 1.24,
-        "Ponte Preta": 9.7,
-        "Draw": 5.35
-      },
-      "Nordic Bet": {
-        "Botafogo-SP": 1.24,
-        "Ponte Preta": 9.7,
-        "Draw": 5.35
-      },
-      "1xBet": {
-        "Botafogo-SP": 1.24,
-        "Ponte Preta": 12.5,
-        "Draw": 6.22
-      },
-      "Marathon Bet": {
-        "Botafogo-SP": 1.22,
-        "Ponte Preta": 12.0,
-        "Draw": 5.45
-      },
-      "Coolbet": {
-        "Botafogo-SP": 1.23,
-        "Ponte Preta": 13.0,
-        "Draw": 5.5
-      },
-      "Pinnacle": {
-        "Botafogo-SP": 1.26,
-        "Ponte Preta": 13.66,
-        "Draw": 5.67
-      },
-      "888sport": {
-        "Botafogo-SP": 1.22,
-        "Ponte Preta": 12.0,
-        "Draw": 5.5
-      },
-      "William Hill": {
-        "Botafogo-SP": 1.22,
-        "Ponte Preta": 12.0,
-        "Draw": 5.5
-      },
-      "BetOnline.ag": {
-        "Botafogo-SP": 1.24,
-        "Ponte Preta": 12.0,
-        "Draw": 5.5
-      },
-      "Codere (IT)": {
-        "Botafogo-SP": 1.24,
-        "Ponte Preta": 9.8,
-        "Draw": 5.4
-      },
-      "Matchbook": {
-        "Botafogo-SP": 1.28,
-        "Ponte Preta": 14.5,
-        "Draw": 6.4
-      },
-      "Betfair": {
-        "Botafogo-SP": 1.28,
-        "Ponte Preta": 14.5,
-        "Draw": 6.4
-      },
-      "Tipico": {
-        "Botafogo-SP": 1.18,
-        "Ponte Preta": 12.0,
-        "Draw": 5.7
-      }
-    },
     "d15a54cd0e08b8b028fc493fd76fcf26:h2h": {
       "Betfair": {
-        "AS Roma": 30.0,
+        "AS Roma": 26.0,
         "Barcelona": 1.09,
         "Draw": 17.0
       },
       "Pinnacle": {
-        "AS Roma": 21.14,
+        "AS Roma": 20.42,
         "Barcelona": 1.05,
-        "Draw": 13.12
+        "Draw": 12.96
       },
       "888sport": {
-        "AS Roma": 41.0,
-        "Barcelona": 1.05,
+        "AS Roma": 26.0,
+        "Barcelona": 1.06,
         "Draw": 11.0
       },
       "Unibet (FR)": {
-        "AS Roma": 15.0,
-        "Barcelona": 1.03,
-        "Draw": 7.7
+        "AS Roma": 13.0,
+        "Barcelona": 1.02,
+        "Draw": 8.5
       },
       "William Hill": {
-        "AS Roma": 36.0,
-        "Barcelona": 1.05,
-        "Draw": 10.0
+        "AS Roma": 23.0,
+        "Barcelona": 1.06,
+        "Draw": 11.0
       },
       "1xBet": {
-        "AS Roma": 34.0,
-        "Barcelona": 1.02,
-        "Draw": 11.5
+        "AS Roma": 23.0,
+        "Barcelona": 1.0,
+        "Draw": 12.7
       },
       "Betclic (FR)": {
-        "AS Roma": 19.0,
-        "Barcelona": 1.04,
-        "Draw": 9.75
+        "AS Roma": 18.0,
+        "Barcelona": 1.03,
+        "Draw": 11.5
       },
       "BetOnline.ag": {
-        "AS Roma": 20.8,
-        "Barcelona": 1.04,
-        "Draw": 11.6
+        "AS Roma": 19.6,
+        "Barcelona": 1.05,
+        "Draw": 10.8
       },
       "Unibet (NL)": {
         "AS Roma": 23.0,
@@ -137,48 +55,43 @@
     "6eb5303534d0b64ca7f11d09bd3d5e36:h2h": {
       "Nordic Bet": {
         "Arsenal": 1.39,
-        "Paris FC": 6.8,
-        "Draw": 4.25
+        "Paris FC": 6.4,
+        "Draw": 4.4
       },
       "Betfair": {
         "Arsenal": 1.41,
-        "Paris FC": 8.4,
-        "Draw": 4.8
+        "Paris FC": 8.2,
+        "Draw": 5.2
       },
       "Pinnacle": {
-        "Arsenal": 1.36,
-        "Paris FC": 7.8,
-        "Draw": 4.66
-      },
-      "Betsson": {
-        "Arsenal": 1.39,
-        "Paris FC": 6.8,
-        "Draw": 4.25
+        "Arsenal": 1.35,
+        "Paris FC": 7.83,
+        "Draw": 4.8
       },
       "888sport": {
         "Arsenal": 1.36,
         "Paris FC": 6.5,
-        "Draw": 4.4
+        "Draw": 4.2
       },
       "Unibet (FR)": {
         "Arsenal": 1.28,
-        "Paris FC": 8.1,
+        "Paris FC": 8.5,
         "Draw": 5.0
       },
       "William Hill": {
-        "Arsenal": 1.35,
+        "Arsenal": 1.36,
         "Paris FC": 6.5,
-        "Draw": 4.33
+        "Draw": 4.0
       },
       "Betclic (FR)": {
-        "Arsenal": 1.35,
-        "Paris FC": 6.75,
-        "Draw": 4.3
+        "Arsenal": 1.37,
+        "Paris FC": 6.4,
+        "Draw": 4.5
       },
       "BetOnline.ag": {
-        "Arsenal": 1.37,
-        "Paris FC": 7.04,
-        "Draw": 4.39
+        "Arsenal": 1.36,
+        "Paris FC": 6.9,
+        "Draw": 4.5
       },
       "PMU (FR)": {
         "Arsenal": 1.28,
@@ -199,38 +112,90 @@
     "2a39377453f4d72b2f9a8851e2fa75ff:h2h": {
       "Nordic Bet": {
         "BK Hacken": 2.35,
-        "Juventus": 2.65,
+        "Juventus": 2.62,
         "Draw": 3.4
       },
       "Betfair": {
-        "BK Hacken": 2.46,
-        "Juventus": 2.74,
-        "Draw": 3.7
+        "BK Hacken": 2.44,
+        "Juventus": 2.86,
+        "Draw": 3.75
       },
       "Pinnacle": {
-        "BK Hacken": 2.34,
-        "Juventus": 2.67,
-        "Draw": 3.63
-      },
-      "Betsson": {
-        "BK Hacken": 2.35,
-        "Juventus": 2.65,
-        "Draw": 3.4
+        "BK Hacken": 2.28,
+        "Juventus": 2.73,
+        "Draw": 3.66
       },
       "Unibet (FR)": {
-        "BK Hacken": 2.1,
-        "Juventus": 2.55,
-        "Draw": 3.25
+        "BK Hacken": 2.25,
+        "Juventus": 2.45,
+        "Draw": 3.15
       },
       "Betclic (FR)": {
-        "BK Hacken": 2.3,
+        "BK Hacken": 2.35,
         "Juventus": 2.55,
         "Draw": 3.42
       },
       "BetOnline.ag": {
-        "BK Hacken": 2.31,
-        "Juventus": 2.63,
-        "Draw": 3.46
+        "BK Hacken": 2.27,
+        "Juventus": 2.67,
+        "Draw": 3.49
+      }
+    },
+    "6380fc2b450afd4d9c580f1ef483bca1:h2h": {
+      "Nordic Bet": {
+        "Bayern Munich": 1.25,
+        "Benfica": 8.4,
+        "Draw": 5.35
+      },
+      "Betfair": {
+        "Bayern Munich": 1.3,
+        "Benfica": 10.5,
+        "Draw": 6.4
+      },
+      "Pinnacle": {
+        "Bayern Munich": 1.27,
+        "Benfica": 8.68,
+        "Draw": 5.82
+      },
+      "888sport": {
+        "Bayern Munich": 1.25,
+        "Benfica": 7.5,
+        "Draw": 5.5
+      },
+      "Unibet (FR)": {
+        "Bayern Munich": 1.16,
+        "Benfica": 8.2,
+        "Draw": 5.4
+      },
+      "William Hill": {
+        "Bayern Munich": 1.22,
+        "Benfica": 7.5,
+        "Draw": 5.5
+      },
+      "Betclic (FR)": {
+        "Bayern Munich": 1.23,
+        "Benfica": 8.25,
+        "Draw": 5.4
+      },
+      "BetOnline.ag": {
+        "Bayern Munich": 1.26,
+        "Benfica": 8.42,
+        "Draw": 5.4
+      },
+      "PMU (FR)": {
+        "Bayern Munich": 1.19,
+        "Benfica": 7.5,
+        "Draw": 5.2
+      },
+      "Unibet (NL)": {
+        "Bayern Munich": 1.29,
+        "Benfica": 8.5,
+        "Draw": 5.8
+      },
+      "Coolbet": {
+        "Bayern Munich": 1.26,
+        "Benfica": 10.0,
+        "Draw": 5.65
       }
     }
   },
@@ -2075,13 +2040,44 @@
       "confidence": 49,
       "alert_type": "value",
       "alerted_at": "2026-09-29T22:10:40.562714+00:00"
+    },
+    {
+      "state_key": "6380fc2b450afd4d9c580f1ef483bca1:h2h",
+      "event_id": "6380fc2b450afd4d9c580f1ef483bca1",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League Women",
+      "home_team": "Benfica",
+      "away_team": "Bayern Munich",
+      "commence_time": "2026-09-30T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Benfica",
+      "odds_at_alert": 10.5,
+      "stake_pct": 3.0,
+      "confidence": 13,
+      "alert_type": "value",
+      "alerted_at": "2026-09-30T05:25:21.998860+00:00"
+    },
+    {
+      "state_key": "6380fc2b450afd4d9c580f1ef483bca1:h2h",
+      "event_id": "6380fc2b450afd4d9c580f1ef483bca1",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League Women",
+      "home_team": "Benfica",
+      "away_team": "Bayern Munich",
+      "commence_time": "2026-09-30T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Benfica",
+      "odds_at_alert": 10.0,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-09-30T05:25:22.495593+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "955583952ce8b24ce50e44881e5f1023:h2h|1xBet|Draw",
-    "955583952ce8b24ce50e44881e5f1023:h2h|Betfair|Draw",
-    "955583952ce8b24ce50e44881e5f1023:h2h|Matchbook|Draw",
+    "6380fc2b450afd4d9c580f1ef483bca1:h2h|Betfair|Benfica",
+    "6380fc2b450afd4d9c580f1ef483bca1:h2h|Coolbet|Benfica",
     "d15a54cd0e08b8b028fc493fd76fcf26:h2h|1xBet|AS Roma",
     "d15a54cd0e08b8b028fc493fd76fcf26:h2h|888sport|AS Roma",
     "d15a54cd0e08b8b028fc493fd76fcf26:h2h|Betfair|AS Roma",
