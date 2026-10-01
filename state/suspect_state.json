@@ -2,198 +2,203 @@
   "snapshots": {
     "0fc933670b2cf487a5ac2878f500492f:h2h": {
       "1xBet": {
-        "Azerbaijan": 1.16,
-        "Liechtenstein": 25.0,
-        "Draw": 7.75
+        "Azerbaijan": 1.12,
+        "Liechtenstein": 36.0,
+        "Draw": 9.0
       },
       "Betsson": {
-        "Azerbaijan": 1.13,
-        "Liechtenstein": 24.0,
-        "Draw": 6.1
+        "Azerbaijan": 1.09,
+        "Liechtenstein": 38.0,
+        "Draw": 7.5
+      },
+      "Betfair": {
+        "Azerbaijan": 1.12,
+        "Liechtenstein": 36.0,
+        "Draw": 11.5
       },
       "Suprabets": {
-        "Azerbaijan": 1.14,
-        "Liechtenstein": 19.0,
-        "Draw": 7.9
+        "Azerbaijan": 1.1,
+        "Liechtenstein": 25.0,
+        "Draw": 9.6
       },
       "PMU (FR)": {
-        "Azerbaijan": 1.07,
-        "Liechtenstein": 20.0,
+        "Azerbaijan": 1.08,
+        "Liechtenstein": 19.0,
         "Draw": 7.5
       },
       "Nordic Bet": {
-        "Azerbaijan": 1.13,
-        "Liechtenstein": 24.0,
-        "Draw": 6.1
+        "Azerbaijan": 1.09,
+        "Liechtenstein": 38.0,
+        "Draw": 7.5
       },
       "Marathon Bet": {
-        "Azerbaijan": 1.15,
-        "Liechtenstein": 25.0,
-        "Draw": 7.7
+        "Azerbaijan": 1.11,
+        "Liechtenstein": 36.0,
+        "Draw": 8.8
       },
       "Winamax (FR)": {
-        "Azerbaijan": 1.11,
-        "Liechtenstein": 15.0,
-        "Draw": 7.75
+        "Azerbaijan": 1.07,
+        "Liechtenstein": 24.0,
+        "Draw": 8.5
       },
       "Betclic (FR)": {
-        "Azerbaijan": 1.14,
-        "Liechtenstein": 17.5,
-        "Draw": 7.5
+        "Azerbaijan": 1.09,
+        "Liechtenstein": 35.0,
+        "Draw": 8.25
       },
       "William Hill": {
-        "Azerbaijan": 1.12,
-        "Liechtenstein": 21.0,
-        "Draw": 7.0
-      },
-      "Winamax (DE)": {
-        "Azerbaijan": 1.12,
-        "Liechtenstein": 16.0,
+        "Azerbaijan": 1.1,
+        "Liechtenstein": 29.0,
         "Draw": 8.0
       },
+      "Winamax (DE)": {
+        "Azerbaijan": 1.08,
+        "Liechtenstein": 24.0,
+        "Draw": 9.0
+      },
       "LeoVegas (SE)": {
-        "Azerbaijan": 1.11,
+        "Azerbaijan": 1.12,
         "Liechtenstein": 21.0,
-        "Draw": 8.5
+        "Draw": 8.0
       },
       "Unibet (SE)": {
-        "Azerbaijan": 1.11,
+        "Azerbaijan": 1.12,
         "Liechtenstein": 21.0,
-        "Draw": 8.5
+        "Draw": 8.0
       },
       "MyBookie.ag": {
-        "Azerbaijan": 1.12,
-        "Liechtenstein": 19.0,
-        "Draw": 7.3
+        "Azerbaijan": 1.08,
+        "Liechtenstein": 33.0,
+        "Draw": 7.9
       },
       "888sport": {
-        "Azerbaijan": 1.14,
-        "Liechtenstein": 21.0,
-        "Draw": 7.5
+        "Azerbaijan": 1.1,
+        "Liechtenstein": 29.0,
+        "Draw": 8.5
       }
     },
     "695a3929e6554772a974fa98fecb48f0:h2h": {
       "Betfair": {
-        "Austria Wien": 5.3,
-        "Inter Milan": 1.68,
-        "Draw": 4.2
+        "Austria Wien": 4.2,
+        "Inter Milan": 1.85,
+        "Draw": 4.0
       },
       "Pinnacle": {
-        "Austria Wien": 4.43,
-        "Inter Milan": 1.62,
-        "Draw": 4.23
-      },
-      "Unibet (FR)": {
-        "Austria Wien": 4.4,
-        "Inter Milan": 1.49,
-        "Draw": 3.7
-      },
-      "Betclic (FR)": {
-        "Austria Wien": 4.65,
-        "Inter Milan": 1.57,
-        "Draw": 3.88
-      },
-      "Unibet (NL)": {
-        "Austria Wien": 4.4,
-        "Inter Milan": 1.73,
+        "Austria Wien": 3.78,
+        "Inter Milan": 1.81,
         "Draw": 3.85
       },
+      "Unibet (FR)": {
+        "Austria Wien": 3.65,
+        "Inter Milan": 1.65,
+        "Draw": 3.45
+      },
+      "Betclic (FR)": {
+        "Austria Wien": 3.83,
+        "Inter Milan": 1.75,
+        "Draw": 3.63
+      },
+      "Unibet (NL)": {
+        "Austria Wien": 4.35,
+        "Inter Milan": 1.73,
+        "Draw": 3.9
+      },
       "BetOnline.ag": {
-        "Austria Wien": 4.52,
-        "Inter Milan": 1.61,
-        "Draw": 3.88
+        "Austria Wien": 3.81,
+        "Inter Milan": 1.78,
+        "Draw": 3.62
       },
       "Betsson": {
-        "Austria Wien": 4.6,
-        "Inter Milan": 1.6,
-        "Draw": 3.8
+        "Austria Wien": 3.8,
+        "Inter Milan": 1.8,
+        "Draw": 3.5
       },
       "Nordic Bet": {
-        "Austria Wien": 4.6,
-        "Inter Milan": 1.6,
-        "Draw": 3.8
+        "Austria Wien": 3.8,
+        "Inter Milan": 1.8,
+        "Draw": 3.5
       },
       "PMU (FR)": {
         "Austria Wien": 3.95,
         "Inter Milan": 1.57,
-        "Draw": 3.5
+        "Draw": 3.55
       },
       "1xBet": {
-        "Austria Wien": 5.0,
-        "Inter Milan": 1.63,
-        "Draw": 4.26
+        "Austria Wien": 4.3,
+        "Inter Milan": 1.78,
+        "Draw": 3.96
       },
       "888sport": {
-        "Austria Wien": 4.5,
-        "Inter Milan": 1.57,
-        "Draw": 3.75
+        "Austria Wien": 3.9,
+        "Inter Milan": 1.7,
+        "Draw": 3.5
       },
       "William Hill": {
-        "Austria Wien": 4.4,
-        "Inter Milan": 1.57,
-        "Draw": 3.6
+        "Austria Wien": 3.8,
+        "Inter Milan": 1.7,
+        "Draw": 3.4
       }
     },
     "569ba3f14347105c50c8164a0ecfe28e:h2h": {
       "Betfair": {
-        "HB Køge": 1.33,
-        "Servette FC": 9.6,
-        "Draw": 5.6
+        "HB Køge": 1.34,
+        "Servette FC": 9.8,
+        "Draw": 5.9
       },
       "Pinnacle": {
-        "HB Køge": 1.28,
-        "Servette FC": 9.21,
-        "Draw": 5.38
+        "HB Køge": 1.29,
+        "Servette FC": 9.1,
+        "Draw": 5.25
       },
       "Unibet (FR)": {
         "HB Køge": 1.17,
-        "Servette FC": 8.2,
+        "Servette FC": 7.9,
         "Draw": 5.3
       },
       "Betclic (FR)": {
-        "HB Køge": 1.27,
-        "Servette FC": 7.75,
+        "HB Køge": 1.29,
+        "Servette FC": 7.25,
         "Draw": 5.1
       },
       "BetOnline.ag": {
-        "HB Køge": 1.28,
-        "Servette FC": 8.12,
-        "Draw": 5.04
+        "HB Køge": 1.29,
+        "Servette FC": 8.06,
+        "Draw": 4.96
       },
       "Unibet (NL)": {
-        "HB Køge": 1.25,
-        "Servette FC": 10.0,
-        "Draw": 5.5
+        "HB Køge": 1.32,
+        "Servette FC": 9.0,
+        "Draw": 5.1
       },
       "Betsson": {
         "HB Køge": 1.29,
-        "Servette FC": 7.8,
+        "Servette FC": 7.4,
         "Draw": 4.95
       },
       "Nordic Bet": {
         "HB Køge": 1.29,
-        "Servette FC": 7.8,
+        "Servette FC": 7.4,
         "Draw": 4.95
       },
       "William Hill": {
-        "HB Køge": 1.25,
+        "HB Køge": 1.29,
+        "Servette FC": 7.5,
+        "Draw": 4.75
+      },
+      "888sport": {
+        "HB Køge": 1.29,
         "Servette FC": 7.5,
         "Draw": 4.8
       },
-      "888sport": {
-        "HB Køge": 1.25,
-        "Servette FC": 8.0,
-        "Draw": 5.0
-      },
       "PMU (FR)": {
-        "HB Køge": 1.17,
-        "Servette FC": 9.0,
-        "Draw": 5.1
+        "HB Køge": 1.23,
+        "Servette FC": 8.0,
+        "Draw": 4.6
       },
       "1xBet": {
-        "HB Køge": 1.3,
-        "Servette FC": 9.0,
-        "Draw": 5.9
+        "HB Køge": 1.32,
+        "Servette FC": 8.6,
+        "Draw": 5.66
       },
       "Coolbet": {
         "HB Køge": 1.3,
@@ -204,8 +209,13 @@
     "0db832b7346f766521d9e67cd5ab1687:h2h": {
       "PMU (FR)": {
         "Austria": 2.06,
-        "Republic of Ireland": 3.4,
-        "Draw": 3.05
+        "Republic of Ireland": 3.5,
+        "Draw": 2.95
+      },
+      "Betfair": {
+        "Austria": 2.3,
+        "Republic of Ireland": 3.8,
+        "Draw": 3.25
       },
       "Winamax (DE)": {
         "Austria": 2.1,
@@ -220,17 +230,17 @@
       "Winamax (FR)": {
         "Austria": 2.05,
         "Republic of Ireland": 3.35,
-        "Draw": 3.2
+        "Draw": 3.25
       },
       "Suprabets": {
-        "Austria": 2.14,
-        "Republic of Ireland": 3.47,
-        "Draw": 3.18
+        "Austria": 2.18,
+        "Republic of Ireland": 3.6,
+        "Draw": 3.14
       },
       "Betclic (FR)": {
-        "Austria": 2.05,
-        "Republic of Ireland": 3.43,
-        "Draw": 3.17
+        "Austria": 2.18,
+        "Republic of Ireland": 3.4,
+        "Draw": 3.15
       },
       "1xBet": {
         "Austria": 2.2,
@@ -244,17 +254,17 @@
       },
       "LeoVegas (SE)": {
         "Austria": 2.1,
-        "Republic of Ireland": 3.45,
-        "Draw": 3.15
+        "Republic of Ireland": 3.55,
+        "Draw": 3.05
       },
       "Unibet (SE)": {
         "Austria": 2.18,
-        "Republic of Ireland": 3.65,
-        "Draw": 3.3
+        "Republic of Ireland": 3.7,
+        "Draw": 3.2
       },
       "888sport": {
-        "Austria": 2.1,
-        "Republic of Ireland": 3.5,
+        "Austria": 2.15,
+        "Republic of Ireland": 3.4,
         "Draw": 3.1
       }
     }
@@ -1988,11 +1998,28 @@
       "confidence": 8,
       "alert_type": "value",
       "alerted_at": "2026-09-30T23:42:52.728106+00:00"
+    },
+    {
+      "state_key": "695a3929e6554772a974fa98fecb48f0:h2h",
+      "event_id": "695a3929e6554772a974fa98fecb48f0",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League Women",
+      "home_team": "Austria Wien",
+      "away_team": "Inter Milan",
+      "commence_time": "2026-10-01T16:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Austria Wien",
+      "odds_at_alert": 4.35,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-10-01T13:03:43.976406+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
     "695a3929e6554772a974fa98fecb48f0:h2h|1xBet|Austria Wien",
-    "695a3929e6554772a974fa98fecb48f0:h2h|Betfair|Austria Wien"
+    "695a3929e6554772a974fa98fecb48f0:h2h|Betfair|Austria Wien",
+    "695a3929e6554772a974fa98fecb48f0:h2h|Unibet (NL)|Austria Wien"
   ]
 }
