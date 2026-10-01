@@ -1,271 +1,316 @@
 {
   "snapshots": {
-    "d4cee9aa708870095e23599afb35bce0:h2h": {
-      "Betclic (FR)": {
-        "Denmark": 7.5,
-        "Portugal": 1.3,
-        "Draw": 3.95
-      },
-      "Winamax (FR)": {
-        "Denmark": 7.0,
-        "Portugal": 1.36,
-        "Draw": 4.1
-      },
-      "Winamax (DE)": {
-        "Denmark": 7.5,
-        "Portugal": 1.36,
-        "Draw": 4.2
-      },
-      "Betfair": {
-        "Denmark": 9.2,
-        "Portugal": 1.45,
-        "Draw": 4.8
-      },
-      "Suprabets": {
-        "Denmark": 7.5,
-        "Portugal": 1.42,
-        "Draw": 4.6
-      },
-      "Pinnacle": {
-        "Denmark": 7.82,
-        "Portugal": 1.43,
-        "Draw": 4.28
-      },
-      "LeoVegas (SE)": {
-        "Denmark": 7.5,
-        "Portugal": 1.38,
-        "Draw": 4.1
-      },
-      "Unibet (SE)": {
-        "Denmark": 8.0,
-        "Portugal": 1.41,
-        "Draw": 4.25
-      },
-      "Betsson": {
-        "Denmark": 8.6,
-        "Portugal": 1.34,
-        "Draw": 4.4
-      },
-      "Nordic Bet": {
-        "Denmark": 8.6,
-        "Portugal": 1.34,
-        "Draw": 4.4
-      },
-      "Matchbook": {
-        "Denmark": 10.0,
-        "Portugal": 1.4,
-        "Draw": 5.0
-      },
-      "MyBookie.ag": {
-        "Denmark": 6.25,
-        "Portugal": 1.4,
-        "Draw": 4.35
-      },
-      "888sport": {
-        "Denmark": 7.5,
-        "Portugal": 1.36,
-        "Draw": 4.2
-      }
-    },
-    "546150d4747a3a5108c7e9860426bf36:h2h": {
-      "Betclic (FR)": {
-        "Germany": 1.21,
-        "Serbia": 16.25,
-        "Draw": 4.5
-      },
-      "Winamax (FR)": {
-        "Germany": 1.05,
-        "Serbia": 50.0,
-        "Draw": 13.0
-      },
-      "Winamax (DE)": {
-        "Germany": 1.03,
-        "Serbia": 50.0,
-        "Draw": 13.5
-      },
-      "Betfair": {
-        "Germany": 1.09,
-        "Serbia": 36.0,
-        "Draw": 13.5
-      },
-      "Suprabets": {
-        "Germany": 1.25,
-        "Serbia": 17.0,
-        "Draw": 4.9
-      },
-      "Pinnacle": {
-        "Germany": 1.22,
-        "Serbia": 20.23,
-        "Draw": 5.4
-      },
-      "Nordic Bet": {
-        "Germany": 1.03,
-        "Serbia": 50.0,
-        "Draw": 13.0
-      },
-      "Betsson": {
-        "Germany": 1.03,
-        "Serbia": 50.0,
-        "Draw": 13.0
-      },
-      "LeoVegas (SE)": {
-        "Germany": 1.02,
-        "Serbia": 36.0,
-        "Draw": 13.0
-      },
-      "Unibet (SE)": {
-        "Germany": 1.04,
-        "Serbia": 41.0,
-        "Draw": 14.0
-      },
-      "Matchbook": {
-        "Germany": 1.06,
-        "Serbia": 140.0,
-        "Draw": 16.5
-      },
-      "MyBookie.ag": {
-        "Germany": 1.22,
-        "Serbia": 15.75,
-        "Draw": 4.9
-      },
-      "888sport": {
-        "Germany": 1.04,
-        "Serbia": 56.0,
-        "Draw": 13.0
-      }
-    },
-    "6321b7d465a21274f0da7a5e50dbf5ef:h2h": {
-      "Winamax (FR)": {
-        "Greece": 1.76,
-        "Netherlands": 4.1,
-        "Draw": 3.1
-      },
-      "Betclic (FR)": {
-        "Greece": 1.85,
-        "Netherlands": 3.8,
-        "Draw": 3.2
-      },
-      "Winamax (DE)": {
-        "Greece": 1.8,
-        "Netherlands": 4.2,
-        "Draw": 3.2
-      },
-      "Suprabets": {
-        "Greece": 2.0,
-        "Netherlands": 3.75,
+    "e213f5e85eeab702dea9daa829698b6d:h2h": {
+      "Unibet (NL)": {
+        "Athletic Club (MG)": 4.6,
+        "Sport Recife": 1.62,
         "Draw": 3.35
       },
-      "Betfair": {
-        "Greece": 1.92,
-        "Netherlands": 4.7,
-        "Draw": 3.65
-      },
-      "Pinnacle": {
-        "Greece": 1.97,
-        "Netherlands": 4.1,
-        "Draw": 3.28
-      },
-      "Nordic Bet": {
-        "Greece": 1.82,
-        "Netherlands": 4.4,
-        "Draw": 3.2
-      },
-      "Betsson": {
-        "Greece": 1.8,
-        "Netherlands": 4.4,
-        "Draw": 3.3
+      "Unibet (SE)": {
+        "Athletic Club (MG)": 4.9,
+        "Sport Recife": 1.68,
+        "Draw": 3.5
       },
       "LeoVegas (SE)": {
-        "Greece": 1.91,
-        "Netherlands": 4.2,
-        "Draw": 3.2
-      },
-      "Unibet (SE)": {
-        "Greece": 1.91,
-        "Netherlands": 4.2,
-        "Draw": 3.2
-      },
-      "Matchbook": {
-        "Greece": 1.96,
-        "Netherlands": 4.3,
-        "Draw": 3.55
-      },
-      "MyBookie.ag": {
-        "Greece": 1.9,
-        "Netherlands": 3.55,
+        "Athletic Club (MG)": 4.5,
+        "Sport Recife": 1.6,
         "Draw": 3.3
       },
+      "Betsson": {
+        "Athletic Club (MG)": 4.85,
+        "Sport Recife": 1.55,
+        "Draw": 3.5
+      },
+      "Nordic Bet": {
+        "Athletic Club (MG)": 4.85,
+        "Sport Recife": 1.55,
+        "Draw": 3.5
+      },
+      "Coolbet": {
+        "Athletic Club (MG)": 5.5,
+        "Sport Recife": 1.6,
+        "Draw": 3.6
+      },
       "888sport": {
-        "Greece": 1.85,
-        "Netherlands": 4.0,
-        "Draw": 3.1
+        "Athletic Club (MG)": 5.0,
+        "Sport Recife": 1.57,
+        "Draw": 3.6
+      },
+      "Tipico": {
+        "Athletic Club (MG)": 5.5,
+        "Sport Recife": 1.5,
+        "Draw": 4.0
+      },
+      "Matchbook": {
+        "Athletic Club (MG)": 6.2,
+        "Sport Recife": 1.67,
+        "Draw": 3.95
+      },
+      "Betfair": {
+        "Athletic Club (MG)": 5.8,
+        "Sport Recife": 1.69,
+        "Draw": 4.0
       }
     },
-    "16d310e835713f3457023deb98fb9f74:h2h": {
-      "Betclic (FR)": {
-        "Norway": 1.74,
-        "Wales": 4.35,
-        "Draw": 3.1
-      },
-      "Winamax (FR)": {
-        "Norway": 1.82,
-        "Wales": 4.1,
-        "Draw": 2.85
-      },
-      "Winamax (DE)": {
-        "Norway": 1.88,
-        "Wales": 4.3,
-        "Draw": 2.95
-      },
-      "Betfair": {
-        "Norway": 2.08,
-        "Wales": 4.9,
-        "Draw": 3.1
-      },
-      "Suprabets": {
-        "Norway": 1.3,
-        "Wales": 10.0,
-        "Draw": 5.0
-      },
-      "Pinnacle": {
-        "Norway": 1.3,
-        "Wales": 12.46,
-        "Draw": 4.88
-      },
-      "LeoVegas (SE)": {
-        "Norway": 1.91,
-        "Wales": 4.6,
-        "Draw": 3.0
+    "2a42fc2dbde835ff11aa67b6f47c7fe8:h2h": {
+      "Unibet (NL)": {
+        "Goiás": 5.8,
+        "Grêmio Novorizontino": 1.56,
+        "Draw": 3.85
       },
       "Unibet (SE)": {
-        "Norway": 1.91,
-        "Wales": 4.6,
-        "Draw": 3.0
+        "Goiás": 5.8,
+        "Grêmio Novorizontino": 1.56,
+        "Draw": 3.85
       },
-      "Nordic Bet": {
-        "Norway": 1.85,
-        "Wales": 4.2,
-        "Draw": 3.15
+      "LeoVegas (SE)": {
+        "Goiás": 5.4,
+        "Grêmio Novorizontino": 1.51,
+        "Draw": 3.65
+      },
+      "Coolbet": {
+        "Goiás": 6.75,
+        "Grêmio Novorizontino": 1.48,
+        "Draw": 4.0
+      },
+      "BetOnline.ag": {
+        "Goiás": 7.0,
+        "Grêmio Novorizontino": 1.45,
+        "Draw": 4.2
       },
       "Betsson": {
-        "Norway": 1.85,
-        "Wales": 4.2,
-        "Draw": 3.15
+        "Goiás": 6.2,
+        "Grêmio Novorizontino": 1.47,
+        "Draw": 3.95
+      },
+      "Nordic Bet": {
+        "Goiás": 6.2,
+        "Grêmio Novorizontino": 1.47,
+        "Draw": 3.95
+      },
+      "Pinnacle": {
+        "Goiás": 7.32,
+        "Grêmio Novorizontino": 1.48,
+        "Draw": 4.32
+      },
+      "1xBet": {
+        "Goiás": 6.89,
+        "Grêmio Novorizontino": 1.48,
+        "Draw": 4.04
+      },
+      "Marathon Bet": {
+        "Goiás": 5.15,
+        "Grêmio Novorizontino": 1.6,
+        "Draw": 3.74
+      },
+      "888sport": {
+        "Goiás": 6.0,
+        "Grêmio Novorizontino": 1.44,
+        "Draw": 3.9
+      },
+      "William Hill": {
+        "Goiás": 6.0,
+        "Grêmio Novorizontino": 1.44,
+        "Draw": 3.9
+      },
+      "Codere (IT)": {
+        "Goiás": 6.2,
+        "Grêmio Novorizontino": 1.47,
+        "Draw": 4.0
+      },
+      "Tipico": {
+        "Goiás": 6.5,
+        "Grêmio Novorizontino": 1.4,
+        "Draw": 4.2
       },
       "Matchbook": {
-        "Norway": 2.0,
-        "Wales": 5.0,
+        "Goiás": 7.8,
+        "Grêmio Novorizontino": 1.53,
+        "Draw": 4.4
+      },
+      "Betfair": {
+        "Goiás": 7.8,
+        "Grêmio Novorizontino": 1.53,
+        "Draw": 4.4
+      }
+    },
+    "c68442e0bfc400d8e7ee97ec662e13e0:h2h": {
+      "Unibet (FR)": {
+        "Seattle Sounders FC": 1.44,
+        "Sporting Kansas City": 4.55,
+        "Draw": 4.55
+      },
+      "Winamax (FR)": {
+        "Seattle Sounders FC": 1.5,
+        "Sporting Kansas City": 4.2,
+        "Draw": 4.5
+      },
+      "Coolbet": {
+        "Seattle Sounders FC": 1.55,
+        "Sporting Kansas City": 5.0,
+        "Draw": 4.75
+      },
+      "Winamax (DE)": {
+        "Seattle Sounders FC": 1.52,
+        "Sporting Kansas City": 4.4,
+        "Draw": 4.7
+      },
+      "MyBookie.ag": {
+        "Seattle Sounders FC": 1.55,
+        "Sporting Kansas City": 4.9,
+        "Draw": 4.7
+      },
+      "Betclic (FR)": {
+        "Seattle Sounders FC": 1.52,
+        "Sporting Kansas City": 4.5,
+        "Draw": 4.5
+      },
+      "1xBet": {
+        "Seattle Sounders FC": 1.57,
+        "Sporting Kansas City": 5.26,
+        "Draw": 4.85
+      },
+      "888sport": {
+        "Seattle Sounders FC": 1.53,
+        "Sporting Kansas City": 4.8,
+        "Draw": 4.4
+      },
+      "Nordic Bet": {
+        "Seattle Sounders FC": 1.6,
+        "Sporting Kansas City": 4.9,
+        "Draw": 4.3
+      },
+      "William Hill": {
+        "Seattle Sounders FC": 1.53,
+        "Sporting Kansas City": 4.8,
+        "Draw": 4.33
+      },
+      "Marathon Bet": {
+        "Seattle Sounders FC": 1.51,
+        "Sporting Kansas City": 5.05,
+        "Draw": 4.65
+      },
+      "Betsson": {
+        "Seattle Sounders FC": 1.6,
+        "Sporting Kansas City": 4.9,
+        "Draw": 4.3
+      },
+      "Unibet (SE)": {
+        "Seattle Sounders FC": 1.48,
+        "Sporting Kansas City": 5.5,
+        "Draw": 4.75
+      },
+      "Unibet (NL)": {
+        "Seattle Sounders FC": 1.48,
+        "Sporting Kansas City": 5.5,
+        "Draw": 4.75
+      },
+      "LeoVegas (SE)": {
+        "Seattle Sounders FC": 1.5,
+        "Sporting Kansas City": 5.75,
+        "Draw": 5.0
+      },
+      "GTbets": {
+        "Seattle Sounders FC": 1.55,
+        "Sporting Kansas City": 5.02,
+        "Draw": 4.67
+      },
+      "Betfair": {
+        "Seattle Sounders FC": 1.62,
+        "Sporting Kansas City": 5.3,
+        "Draw": 4.8
+      },
+      "Pinnacle": {
+        "Seattle Sounders FC": 1.57,
+        "Sporting Kansas City": 5.18,
+        "Draw": 4.79
+      },
+      "BetOnline.ag": {
+        "Seattle Sounders FC": 1.58,
+        "Sporting Kansas City": 5.18,
+        "Draw": 4.77
+      },
+      "Tipico": {
+        "Seattle Sounders FC": 1.47,
+        "Sporting Kansas City": 5.0,
+        "Draw": 4.8
+      },
+      "Matchbook": {
+        "Seattle Sounders FC": 1.62,
+        "Sporting Kansas City": 5.3,
+        "Draw": 4.9
+      },
+      "BetAnything": {
+        "Seattle Sounders FC": 1.58,
+        "Sporting Kansas City": 5.18,
+        "Draw": 4.77
+      }
+    },
+    "7db202b104fa0b2c3efc16c9ab45dc1e:h2h": {
+      "Winamax (FR)": {
+        "Kazakhstan": 1.86,
+        "Moldova": 3.95,
+        "Draw": 3.3
+      },
+      "Betfair": {
+        "Kazakhstan": 1.96,
+        "Moldova": 4.7,
+        "Draw": 3.5
+      },
+      "Betclic (FR)": {
+        "Kazakhstan": 1.85,
+        "Moldova": 4.1,
+        "Draw": 3.27
+      },
+      "1xBet": {
+        "Kazakhstan": 1.88,
+        "Moldova": 4.65,
+        "Draw": 3.52
+      },
+      "Marathon Bet": {
+        "Kazakhstan": 1.86,
+        "Moldova": 4.6,
+        "Draw": 3.48
+      },
+      "Suprabets": {
+        "Kazakhstan": 1.9,
+        "Moldova": 4.3,
+        "Draw": 3.23
+      },
+      "LeoVegas (SE)": {
+        "Kazakhstan": 1.75,
+        "Moldova": 4.8,
+        "Draw": 3.55
+      },
+      "Unibet (SE)": {
+        "Kazakhstan": 1.75,
+        "Moldova": 4.8,
+        "Draw": 3.55
+      },
+      "Betsson": {
+        "Kazakhstan": 1.88,
+        "Moldova": 4.25,
+        "Draw": 3.2
+      },
+      "Nordic Bet": {
+        "Kazakhstan": 1.88,
+        "Moldova": 4.25,
         "Draw": 3.2
       },
       "MyBookie.ag": {
-        "Norway": 1.3,
-        "Wales": 8.0,
-        "Draw": 4.75
+        "Kazakhstan": 1.89,
+        "Moldova": 4.1,
+        "Draw": 3.24
       },
       "888sport": {
-        "Norway": 1.91,
-        "Wales": 4.2,
-        "Draw": 2.9
+        "Kazakhstan": 1.85,
+        "Moldova": 4.33,
+        "Draw": 3.25
+      },
+      "William Hill": {
+        "Kazakhstan": 1.83,
+        "Moldova": 4.2,
+        "Draw": 3.2
       }
     }
   },
@@ -2558,43 +2603,26 @@
       "confidence": 39,
       "alert_type": "value",
       "alerted_at": "2026-10-01T19:29:04.461971+00:00"
+    },
+    {
+      "state_key": "c68442e0bfc400d8e7ee97ec662e13e0:h2h",
+      "event_id": "c68442e0bfc400d8e7ee97ec662e13e0",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Seattle Sounders FC",
+      "away_team": "Sporting Kansas City",
+      "commence_time": "2026-10-02T01:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sporting Kansas City",
+      "odds_at_alert": 5.75,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-10-01T23:51:23.450595+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "16d310e835713f3457023deb98fb9f74:h2h|888sport|Norway",
-    "16d310e835713f3457023deb98fb9f74:h2h|Betclic (FR)|Norway",
-    "16d310e835713f3457023deb98fb9f74:h2h|Betfair|Norway",
-    "16d310e835713f3457023deb98fb9f74:h2h|Betsson|Norway",
-    "16d310e835713f3457023deb98fb9f74:h2h|LeoVegas (SE)|Norway",
-    "16d310e835713f3457023deb98fb9f74:h2h|Matchbook|Norway",
-    "16d310e835713f3457023deb98fb9f74:h2h|Nordic Bet|Norway",
-    "16d310e835713f3457023deb98fb9f74:h2h|Unibet (SE)|Norway",
-    "16d310e835713f3457023deb98fb9f74:h2h|Winamax (DE)|Norway",
-    "16d310e835713f3457023deb98fb9f74:h2h|Winamax (FR)|Norway",
-    "546150d4747a3a5108c7e9860426bf36:h2h|888sport|Draw",
-    "546150d4747a3a5108c7e9860426bf36:h2h|888sport|Serbia",
-    "546150d4747a3a5108c7e9860426bf36:h2h|Betfair|Draw",
-    "546150d4747a3a5108c7e9860426bf36:h2h|Betfair|Serbia",
-    "546150d4747a3a5108c7e9860426bf36:h2h|Betsson|Draw",
-    "546150d4747a3a5108c7e9860426bf36:h2h|Betsson|Serbia",
-    "546150d4747a3a5108c7e9860426bf36:h2h|LeoVegas (SE)|Draw",
-    "546150d4747a3a5108c7e9860426bf36:h2h|LeoVegas (SE)|Serbia",
-    "546150d4747a3a5108c7e9860426bf36:h2h|Matchbook|Draw",
-    "546150d4747a3a5108c7e9860426bf36:h2h|Matchbook|Serbia",
-    "546150d4747a3a5108c7e9860426bf36:h2h|Nordic Bet|Draw",
-    "546150d4747a3a5108c7e9860426bf36:h2h|Nordic Bet|Serbia",
-    "546150d4747a3a5108c7e9860426bf36:h2h|Unibet (SE)|Draw",
-    "546150d4747a3a5108c7e9860426bf36:h2h|Unibet (SE)|Serbia",
-    "546150d4747a3a5108c7e9860426bf36:h2h|Winamax (DE)|Draw",
-    "546150d4747a3a5108c7e9860426bf36:h2h|Winamax (DE)|Serbia",
-    "546150d4747a3a5108c7e9860426bf36:h2h|Winamax (FR)|Draw",
-    "546150d4747a3a5108c7e9860426bf36:h2h|Winamax (FR)|Serbia",
-    "6321b7d465a21274f0da7a5e50dbf5ef:h2h|Betfair|Draw",
-    "6321b7d465a21274f0da7a5e50dbf5ef:h2h|Betfair|Netherlands",
-    "d4cee9aa708870095e23599afb35bce0:h2h|Betfair|Denmark",
-    "d4cee9aa708870095e23599afb35bce0:h2h|Betfair|Draw",
-    "d4cee9aa708870095e23599afb35bce0:h2h|Matchbook|Denmark",
-    "d4cee9aa708870095e23599afb35bce0:h2h|Matchbook|Draw"
+    "c68442e0bfc400d8e7ee97ec662e13e0:h2h|LeoVegas (SE)|Sporting Kansas City"
   ]
 }
