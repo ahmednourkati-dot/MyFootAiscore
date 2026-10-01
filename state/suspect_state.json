@@ -1,271 +1,271 @@
 {
   "snapshots": {
-    "0fc933670b2cf487a5ac2878f500492f:h2h": {
-      "1xBet": {
-        "Azerbaijan": 1.12,
-        "Liechtenstein": 36.0,
-        "Draw": 9.0
-      },
-      "Betsson": {
-        "Azerbaijan": 1.09,
-        "Liechtenstein": 38.0,
-        "Draw": 7.5
-      },
-      "Betfair": {
-        "Azerbaijan": 1.12,
-        "Liechtenstein": 36.0,
-        "Draw": 11.5
-      },
-      "Suprabets": {
-        "Azerbaijan": 1.1,
-        "Liechtenstein": 25.0,
-        "Draw": 9.6
-      },
-      "PMU (FR)": {
-        "Azerbaijan": 1.08,
-        "Liechtenstein": 19.0,
-        "Draw": 7.5
-      },
-      "Nordic Bet": {
-        "Azerbaijan": 1.09,
-        "Liechtenstein": 38.0,
-        "Draw": 7.5
-      },
-      "Marathon Bet": {
-        "Azerbaijan": 1.11,
-        "Liechtenstein": 36.0,
-        "Draw": 8.8
+    "d4cee9aa708870095e23599afb35bce0:h2h": {
+      "Betclic (FR)": {
+        "Denmark": 7.5,
+        "Portugal": 1.3,
+        "Draw": 3.95
       },
       "Winamax (FR)": {
-        "Azerbaijan": 1.07,
-        "Liechtenstein": 24.0,
-        "Draw": 8.5
-      },
-      "Betclic (FR)": {
-        "Azerbaijan": 1.09,
-        "Liechtenstein": 35.0,
-        "Draw": 8.25
-      },
-      "William Hill": {
-        "Azerbaijan": 1.1,
-        "Liechtenstein": 29.0,
-        "Draw": 8.0
+        "Denmark": 7.0,
+        "Portugal": 1.36,
+        "Draw": 4.1
       },
       "Winamax (DE)": {
-        "Azerbaijan": 1.08,
-        "Liechtenstein": 24.0,
-        "Draw": 9.0
+        "Denmark": 7.5,
+        "Portugal": 1.36,
+        "Draw": 4.2
       },
-      "LeoVegas (SE)": {
-        "Azerbaijan": 1.12,
-        "Liechtenstein": 21.0,
-        "Draw": 8.0
-      },
-      "Unibet (SE)": {
-        "Azerbaijan": 1.12,
-        "Liechtenstein": 21.0,
-        "Draw": 8.0
-      },
-      "MyBookie.ag": {
-        "Azerbaijan": 1.08,
-        "Liechtenstein": 33.0,
-        "Draw": 7.9
-      },
-      "888sport": {
-        "Azerbaijan": 1.1,
-        "Liechtenstein": 29.0,
-        "Draw": 8.5
-      }
-    },
-    "695a3929e6554772a974fa98fecb48f0:h2h": {
       "Betfair": {
-        "Austria Wien": 4.2,
-        "Inter Milan": 1.85,
-        "Draw": 4.0
-      },
-      "Pinnacle": {
-        "Austria Wien": 3.78,
-        "Inter Milan": 1.81,
-        "Draw": 3.85
-      },
-      "Unibet (FR)": {
-        "Austria Wien": 3.65,
-        "Inter Milan": 1.65,
-        "Draw": 3.45
-      },
-      "Betclic (FR)": {
-        "Austria Wien": 3.83,
-        "Inter Milan": 1.75,
-        "Draw": 3.63
-      },
-      "Unibet (NL)": {
-        "Austria Wien": 4.35,
-        "Inter Milan": 1.73,
-        "Draw": 3.9
-      },
-      "BetOnline.ag": {
-        "Austria Wien": 3.81,
-        "Inter Milan": 1.78,
-        "Draw": 3.62
-      },
-      "Betsson": {
-        "Austria Wien": 3.8,
-        "Inter Milan": 1.8,
-        "Draw": 3.5
-      },
-      "Nordic Bet": {
-        "Austria Wien": 3.8,
-        "Inter Milan": 1.8,
-        "Draw": 3.5
-      },
-      "PMU (FR)": {
-        "Austria Wien": 3.95,
-        "Inter Milan": 1.57,
-        "Draw": 3.55
-      },
-      "1xBet": {
-        "Austria Wien": 4.3,
-        "Inter Milan": 1.78,
-        "Draw": 3.96
-      },
-      "888sport": {
-        "Austria Wien": 3.9,
-        "Inter Milan": 1.7,
-        "Draw": 3.5
-      },
-      "William Hill": {
-        "Austria Wien": 3.8,
-        "Inter Milan": 1.7,
-        "Draw": 3.4
-      }
-    },
-    "569ba3f14347105c50c8164a0ecfe28e:h2h": {
-      "Betfair": {
-        "HB Køge": 1.34,
-        "Servette FC": 9.8,
-        "Draw": 5.9
-      },
-      "Pinnacle": {
-        "HB Køge": 1.29,
-        "Servette FC": 9.1,
-        "Draw": 5.25
-      },
-      "Unibet (FR)": {
-        "HB Køge": 1.17,
-        "Servette FC": 7.9,
-        "Draw": 5.3
-      },
-      "Betclic (FR)": {
-        "HB Køge": 1.29,
-        "Servette FC": 7.25,
-        "Draw": 5.1
-      },
-      "BetOnline.ag": {
-        "HB Køge": 1.29,
-        "Servette FC": 8.06,
-        "Draw": 4.96
-      },
-      "Unibet (NL)": {
-        "HB Køge": 1.32,
-        "Servette FC": 9.0,
-        "Draw": 5.1
-      },
-      "Betsson": {
-        "HB Køge": 1.29,
-        "Servette FC": 7.4,
-        "Draw": 4.95
-      },
-      "Nordic Bet": {
-        "HB Køge": 1.29,
-        "Servette FC": 7.4,
-        "Draw": 4.95
-      },
-      "William Hill": {
-        "HB Køge": 1.29,
-        "Servette FC": 7.5,
-        "Draw": 4.75
-      },
-      "888sport": {
-        "HB Køge": 1.29,
-        "Servette FC": 7.5,
+        "Denmark": 9.2,
+        "Portugal": 1.45,
         "Draw": 4.8
       },
-      "PMU (FR)": {
-        "HB Køge": 1.23,
-        "Servette FC": 8.0,
+      "Suprabets": {
+        "Denmark": 7.5,
+        "Portugal": 1.42,
         "Draw": 4.6
       },
-      "1xBet": {
-        "HB Køge": 1.32,
-        "Servette FC": 8.6,
-        "Draw": 5.66
+      "Pinnacle": {
+        "Denmark": 7.82,
+        "Portugal": 1.43,
+        "Draw": 4.28
       },
-      "Coolbet": {
-        "HB Køge": 1.3,
-        "Servette FC": 9.0,
-        "Draw": 5.25
+      "LeoVegas (SE)": {
+        "Denmark": 7.5,
+        "Portugal": 1.38,
+        "Draw": 4.1
+      },
+      "Unibet (SE)": {
+        "Denmark": 8.0,
+        "Portugal": 1.41,
+        "Draw": 4.25
+      },
+      "Betsson": {
+        "Denmark": 8.6,
+        "Portugal": 1.34,
+        "Draw": 4.4
+      },
+      "Nordic Bet": {
+        "Denmark": 8.6,
+        "Portugal": 1.34,
+        "Draw": 4.4
+      },
+      "Matchbook": {
+        "Denmark": 10.0,
+        "Portugal": 1.4,
+        "Draw": 5.0
+      },
+      "MyBookie.ag": {
+        "Denmark": 6.25,
+        "Portugal": 1.4,
+        "Draw": 4.35
+      },
+      "888sport": {
+        "Denmark": 7.5,
+        "Portugal": 1.36,
+        "Draw": 4.2
       }
     },
-    "0db832b7346f766521d9e67cd5ab1687:h2h": {
-      "PMU (FR)": {
-        "Austria": 2.06,
-        "Republic of Ireland": 3.5,
-        "Draw": 2.95
-      },
-      "Betfair": {
-        "Austria": 2.3,
-        "Republic of Ireland": 3.8,
-        "Draw": 3.25
-      },
-      "Winamax (DE)": {
-        "Austria": 2.1,
-        "Republic of Ireland": 3.4,
-        "Draw": 3.25
-      },
-      "William Hill": {
-        "Austria": 2.1,
-        "Republic of Ireland": 3.4,
-        "Draw": 3.0
+    "546150d4747a3a5108c7e9860426bf36:h2h": {
+      "Betclic (FR)": {
+        "Germany": 1.21,
+        "Serbia": 16.25,
+        "Draw": 4.5
       },
       "Winamax (FR)": {
-        "Austria": 2.05,
-        "Republic of Ireland": 3.35,
-        "Draw": 3.25
+        "Germany": 1.05,
+        "Serbia": 50.0,
+        "Draw": 13.0
+      },
+      "Winamax (DE)": {
+        "Germany": 1.03,
+        "Serbia": 50.0,
+        "Draw": 13.5
+      },
+      "Betfair": {
+        "Germany": 1.09,
+        "Serbia": 36.0,
+        "Draw": 13.5
       },
       "Suprabets": {
-        "Austria": 2.18,
-        "Republic of Ireland": 3.6,
-        "Draw": 3.14
+        "Germany": 1.25,
+        "Serbia": 17.0,
+        "Draw": 4.9
+      },
+      "Pinnacle": {
+        "Germany": 1.22,
+        "Serbia": 20.23,
+        "Draw": 5.4
+      },
+      "Nordic Bet": {
+        "Germany": 1.03,
+        "Serbia": 50.0,
+        "Draw": 13.0
+      },
+      "Betsson": {
+        "Germany": 1.03,
+        "Serbia": 50.0,
+        "Draw": 13.0
+      },
+      "LeoVegas (SE)": {
+        "Germany": 1.02,
+        "Serbia": 36.0,
+        "Draw": 13.0
+      },
+      "Unibet (SE)": {
+        "Germany": 1.04,
+        "Serbia": 41.0,
+        "Draw": 14.0
+      },
+      "Matchbook": {
+        "Germany": 1.06,
+        "Serbia": 140.0,
+        "Draw": 16.5
+      },
+      "MyBookie.ag": {
+        "Germany": 1.22,
+        "Serbia": 15.75,
+        "Draw": 4.9
+      },
+      "888sport": {
+        "Germany": 1.04,
+        "Serbia": 56.0,
+        "Draw": 13.0
+      }
+    },
+    "6321b7d465a21274f0da7a5e50dbf5ef:h2h": {
+      "Winamax (FR)": {
+        "Greece": 1.76,
+        "Netherlands": 4.1,
+        "Draw": 3.1
       },
       "Betclic (FR)": {
-        "Austria": 2.18,
-        "Republic of Ireland": 3.4,
-        "Draw": 3.15
+        "Greece": 1.85,
+        "Netherlands": 3.8,
+        "Draw": 3.2
       },
-      "1xBet": {
-        "Austria": 2.2,
-        "Republic of Ireland": 3.62,
-        "Draw": 3.33
+      "Winamax (DE)": {
+        "Greece": 1.8,
+        "Netherlands": 4.2,
+        "Draw": 3.2
       },
-      "Marathon Bet": {
-        "Austria": 2.17,
-        "Republic of Ireland": 3.58,
+      "Suprabets": {
+        "Greece": 2.0,
+        "Netherlands": 3.75,
+        "Draw": 3.35
+      },
+      "Betfair": {
+        "Greece": 1.92,
+        "Netherlands": 4.7,
+        "Draw": 3.65
+      },
+      "Pinnacle": {
+        "Greece": 1.97,
+        "Netherlands": 4.1,
+        "Draw": 3.28
+      },
+      "Nordic Bet": {
+        "Greece": 1.82,
+        "Netherlands": 4.4,
+        "Draw": 3.2
+      },
+      "Betsson": {
+        "Greece": 1.8,
+        "Netherlands": 4.4,
         "Draw": 3.3
       },
       "LeoVegas (SE)": {
-        "Austria": 2.1,
-        "Republic of Ireland": 3.55,
-        "Draw": 3.05
-      },
-      "Unibet (SE)": {
-        "Austria": 2.18,
-        "Republic of Ireland": 3.7,
+        "Greece": 1.91,
+        "Netherlands": 4.2,
         "Draw": 3.2
       },
+      "Unibet (SE)": {
+        "Greece": 1.91,
+        "Netherlands": 4.2,
+        "Draw": 3.2
+      },
+      "Matchbook": {
+        "Greece": 1.96,
+        "Netherlands": 4.3,
+        "Draw": 3.55
+      },
+      "MyBookie.ag": {
+        "Greece": 1.9,
+        "Netherlands": 3.55,
+        "Draw": 3.3
+      },
       "888sport": {
-        "Austria": 2.15,
-        "Republic of Ireland": 3.4,
+        "Greece": 1.85,
+        "Netherlands": 4.0,
         "Draw": 3.1
+      }
+    },
+    "16d310e835713f3457023deb98fb9f74:h2h": {
+      "Betclic (FR)": {
+        "Norway": 1.74,
+        "Wales": 4.35,
+        "Draw": 3.1
+      },
+      "Winamax (FR)": {
+        "Norway": 1.82,
+        "Wales": 4.1,
+        "Draw": 2.85
+      },
+      "Winamax (DE)": {
+        "Norway": 1.88,
+        "Wales": 4.3,
+        "Draw": 2.95
+      },
+      "Betfair": {
+        "Norway": 2.08,
+        "Wales": 4.9,
+        "Draw": 3.1
+      },
+      "Suprabets": {
+        "Norway": 1.3,
+        "Wales": 10.0,
+        "Draw": 5.0
+      },
+      "Pinnacle": {
+        "Norway": 1.3,
+        "Wales": 12.46,
+        "Draw": 4.88
+      },
+      "LeoVegas (SE)": {
+        "Norway": 1.91,
+        "Wales": 4.6,
+        "Draw": 3.0
+      },
+      "Unibet (SE)": {
+        "Norway": 1.91,
+        "Wales": 4.6,
+        "Draw": 3.0
+      },
+      "Nordic Bet": {
+        "Norway": 1.85,
+        "Wales": 4.2,
+        "Draw": 3.15
+      },
+      "Betsson": {
+        "Norway": 1.85,
+        "Wales": 4.2,
+        "Draw": 3.15
+      },
+      "Matchbook": {
+        "Norway": 2.0,
+        "Wales": 5.0,
+        "Draw": 3.2
+      },
+      "MyBookie.ag": {
+        "Norway": 1.3,
+        "Wales": 8.0,
+        "Draw": 4.75
+      },
+      "888sport": {
+        "Norway": 1.91,
+        "Wales": 4.2,
+        "Draw": 2.9
       }
     }
   },
@@ -2014,12 +2014,587 @@
       "confidence": 7,
       "alert_type": "value",
       "alerted_at": "2026-10-01T13:03:43.976406+00:00"
+    },
+    {
+      "state_key": "d4cee9aa708870095e23599afb35bce0:h2h",
+      "event_id": "d4cee9aa708870095e23599afb35bce0",
+      "sport_key": "soccer",
+      "competition": "UEFA Nations League",
+      "home_team": "Denmark",
+      "away_team": "Portugal",
+      "commence_time": "2026-10-01T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Denmark",
+      "odds_at_alert": 9.2,
+      "stake_pct": 3.0,
+      "confidence": 11,
+      "alert_type": "value",
+      "alerted_at": "2026-10-01T19:28:52.794741+00:00"
+    },
+    {
+      "state_key": "d4cee9aa708870095e23599afb35bce0:h2h",
+      "event_id": "d4cee9aa708870095e23599afb35bce0",
+      "sport_key": "soccer",
+      "competition": "UEFA Nations League",
+      "home_team": "Denmark",
+      "away_team": "Portugal",
+      "commence_time": "2026-10-01T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.8,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-10-01T19:28:53.226267+00:00"
+    },
+    {
+      "state_key": "d4cee9aa708870095e23599afb35bce0:h2h",
+      "event_id": "d4cee9aa708870095e23599afb35bce0",
+      "sport_key": "soccer",
+      "competition": "UEFA Nations League",
+      "home_team": "Denmark",
+      "away_team": "Portugal",
+      "commence_time": "2026-10-01T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Denmark",
+      "odds_at_alert": 10.0,
+      "stake_pct": 5.0,
+      "confidence": 21,
+      "alert_type": "value",
+      "alerted_at": "2026-10-01T19:28:53.590087+00:00"
+    },
+    {
+      "state_key": "d4cee9aa708870095e23599afb35bce0:h2h",
+      "event_id": "d4cee9aa708870095e23599afb35bce0",
+      "sport_key": "soccer",
+      "competition": "UEFA Nations League",
+      "home_team": "Denmark",
+      "away_team": "Portugal",
+      "commence_time": "2026-10-01T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.0,
+      "stake_pct": 3.0,
+      "confidence": 10,
+      "alert_type": "value",
+      "alerted_at": "2026-10-01T19:28:53.909034+00:00"
+    },
+    {
+      "state_key": "546150d4747a3a5108c7e9860426bf36:h2h",
+      "event_id": "546150d4747a3a5108c7e9860426bf36",
+      "sport_key": "soccer",
+      "competition": "UEFA Nations League",
+      "home_team": "Germany",
+      "away_team": "Serbia",
+      "commence_time": "2026-10-01T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Serbia",
+      "odds_at_alert": 50.0,
+      "stake_pct": 5.0,
+      "confidence": 134,
+      "alert_type": "value",
+      "alerted_at": "2026-10-01T19:28:54.243596+00:00"
+    },
+    {
+      "state_key": "546150d4747a3a5108c7e9860426bf36:h2h",
+      "event_id": "546150d4747a3a5108c7e9860426bf36",
+      "sport_key": "soccer",
+      "competition": "UEFA Nations League",
+      "home_team": "Germany",
+      "away_team": "Serbia",
+      "commence_time": "2026-10-01T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 128,
+      "alert_type": "value",
+      "alerted_at": "2026-10-01T19:28:54.607965+00:00"
+    },
+    {
+      "state_key": "546150d4747a3a5108c7e9860426bf36:h2h",
+      "event_id": "546150d4747a3a5108c7e9860426bf36",
+      "sport_key": "soccer",
+      "competition": "UEFA Nations League",
+      "home_team": "Germany",
+      "away_team": "Serbia",
+      "commence_time": "2026-10-01T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Serbia",
+      "odds_at_alert": 50.0,
+      "stake_pct": 5.0,
+      "confidence": 134,
+      "alert_type": "value",
+      "alerted_at": "2026-10-01T19:28:54.948669+00:00"
+    },
+    {
+      "state_key": "546150d4747a3a5108c7e9860426bf36:h2h",
+      "event_id": "546150d4747a3a5108c7e9860426bf36",
+      "sport_key": "soccer",
+      "competition": "UEFA Nations League",
+      "home_team": "Germany",
+      "away_team": "Serbia",
+      "commence_time": "2026-10-01T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 13.5,
+      "stake_pct": 5.0,
+      "confidence": 137,
+      "alert_type": "value",
+      "alerted_at": "2026-10-01T19:28:55.294881+00:00"
+    },
+    {
+      "state_key": "546150d4747a3a5108c7e9860426bf36:h2h",
+      "event_id": "546150d4747a3a5108c7e9860426bf36",
+      "sport_key": "soccer",
+      "competition": "UEFA Nations League",
+      "home_team": "Germany",
+      "away_team": "Serbia",
+      "commence_time": "2026-10-01T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Serbia",
+      "odds_at_alert": 36.0,
+      "stake_pct": 5.0,
+      "confidence": 69,
+      "alert_type": "value",
+      "alerted_at": "2026-10-01T19:28:55.614657+00:00"
+    },
+    {
+      "state_key": "546150d4747a3a5108c7e9860426bf36:h2h",
+      "event_id": "546150d4747a3a5108c7e9860426bf36",
+      "sport_key": "soccer",
+      "competition": "UEFA Nations League",
+      "home_team": "Germany",
+      "away_team": "Serbia",
+      "commence_time": "2026-10-01T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 13.5,
+      "stake_pct": 5.0,
+      "confidence": 137,
+      "alert_type": "value",
+      "alerted_at": "2026-10-01T19:28:55.962305+00:00"
+    },
+    {
+      "state_key": "546150d4747a3a5108c7e9860426bf36:h2h",
+      "event_id": "546150d4747a3a5108c7e9860426bf36",
+      "sport_key": "soccer",
+      "competition": "UEFA Nations League",
+      "home_team": "Germany",
+      "away_team": "Serbia",
+      "commence_time": "2026-10-01T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Serbia",
+      "odds_at_alert": 50.0,
+      "stake_pct": 5.0,
+      "confidence": 134,
+      "alert_type": "value",
+      "alerted_at": "2026-10-01T19:28:56.290894+00:00"
+    },
+    {
+      "state_key": "546150d4747a3a5108c7e9860426bf36:h2h",
+      "event_id": "546150d4747a3a5108c7e9860426bf36",
+      "sport_key": "soccer",
+      "competition": "UEFA Nations League",
+      "home_team": "Germany",
+      "away_team": "Serbia",
+      "commence_time": "2026-10-01T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 128,
+      "alert_type": "value",
+      "alerted_at": "2026-10-01T19:28:56.631543+00:00"
+    },
+    {
+      "state_key": "546150d4747a3a5108c7e9860426bf36:h2h",
+      "event_id": "546150d4747a3a5108c7e9860426bf36",
+      "sport_key": "soccer",
+      "competition": "UEFA Nations League",
+      "home_team": "Germany",
+      "away_team": "Serbia",
+      "commence_time": "2026-10-01T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Serbia",
+      "odds_at_alert": 50.0,
+      "stake_pct": 5.0,
+      "confidence": 134,
+      "alert_type": "value",
+      "alerted_at": "2026-10-01T19:28:56.960339+00:00"
+    },
+    {
+      "state_key": "546150d4747a3a5108c7e9860426bf36:h2h",
+      "event_id": "546150d4747a3a5108c7e9860426bf36",
+      "sport_key": "soccer",
+      "competition": "UEFA Nations League",
+      "home_team": "Germany",
+      "away_team": "Serbia",
+      "commence_time": "2026-10-01T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 128,
+      "alert_type": "value",
+      "alerted_at": "2026-10-01T19:28:57.309844+00:00"
+    },
+    {
+      "state_key": "546150d4747a3a5108c7e9860426bf36:h2h",
+      "event_id": "546150d4747a3a5108c7e9860426bf36",
+      "sport_key": "soccer",
+      "competition": "UEFA Nations League",
+      "home_team": "Germany",
+      "away_team": "Serbia",
+      "commence_time": "2026-10-01T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Serbia",
+      "odds_at_alert": 36.0,
+      "stake_pct": 5.0,
+      "confidence": 69,
+      "alert_type": "value",
+      "alerted_at": "2026-10-01T19:28:57.658319+00:00"
+    },
+    {
+      "state_key": "546150d4747a3a5108c7e9860426bf36:h2h",
+      "event_id": "546150d4747a3a5108c7e9860426bf36",
+      "sport_key": "soccer",
+      "competition": "UEFA Nations League",
+      "home_team": "Germany",
+      "away_team": "Serbia",
+      "commence_time": "2026-10-01T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 128,
+      "alert_type": "value",
+      "alerted_at": "2026-10-01T19:28:58.039425+00:00"
+    },
+    {
+      "state_key": "546150d4747a3a5108c7e9860426bf36:h2h",
+      "event_id": "546150d4747a3a5108c7e9860426bf36",
+      "sport_key": "soccer",
+      "competition": "UEFA Nations League",
+      "home_team": "Germany",
+      "away_team": "Serbia",
+      "commence_time": "2026-10-01T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Serbia",
+      "odds_at_alert": 41.0,
+      "stake_pct": 5.0,
+      "confidence": 92,
+      "alert_type": "value",
+      "alerted_at": "2026-10-01T19:28:58.386823+00:00"
+    },
+    {
+      "state_key": "546150d4747a3a5108c7e9860426bf36:h2h",
+      "event_id": "546150d4747a3a5108c7e9860426bf36",
+      "sport_key": "soccer",
+      "competition": "UEFA Nations League",
+      "home_team": "Germany",
+      "away_team": "Serbia",
+      "commence_time": "2026-10-01T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 14.0,
+      "stake_pct": 5.0,
+      "confidence": 146,
+      "alert_type": "value",
+      "alerted_at": "2026-10-01T19:28:58.711343+00:00"
+    },
+    {
+      "state_key": "546150d4747a3a5108c7e9860426bf36:h2h",
+      "event_id": "546150d4747a3a5108c7e9860426bf36",
+      "sport_key": "soccer",
+      "competition": "UEFA Nations League",
+      "home_team": "Germany",
+      "away_team": "Serbia",
+      "commence_time": "2026-10-01T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Serbia",
+      "odds_at_alert": 140.0,
+      "stake_pct": 5.0,
+      "confidence": 556,
+      "alert_type": "value",
+      "alerted_at": "2026-10-01T19:28:59.029543+00:00"
+    },
+    {
+      "state_key": "546150d4747a3a5108c7e9860426bf36:h2h",
+      "event_id": "546150d4747a3a5108c7e9860426bf36",
+      "sport_key": "soccer",
+      "competition": "UEFA Nations League",
+      "home_team": "Germany",
+      "away_team": "Serbia",
+      "commence_time": "2026-10-01T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 16.5,
+      "stake_pct": 5.0,
+      "confidence": 190,
+      "alert_type": "value",
+      "alerted_at": "2026-10-01T19:28:59.370543+00:00"
+    },
+    {
+      "state_key": "546150d4747a3a5108c7e9860426bf36:h2h",
+      "event_id": "546150d4747a3a5108c7e9860426bf36",
+      "sport_key": "soccer",
+      "competition": "UEFA Nations League",
+      "home_team": "Germany",
+      "away_team": "Serbia",
+      "commence_time": "2026-10-01T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Serbia",
+      "odds_at_alert": 56.0,
+      "stake_pct": 5.0,
+      "confidence": 163,
+      "alert_type": "value",
+      "alerted_at": "2026-10-01T19:28:59.709396+00:00"
+    },
+    {
+      "state_key": "546150d4747a3a5108c7e9860426bf36:h2h",
+      "event_id": "546150d4747a3a5108c7e9860426bf36",
+      "sport_key": "soccer",
+      "competition": "UEFA Nations League",
+      "home_team": "Germany",
+      "away_team": "Serbia",
+      "commence_time": "2026-10-01T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 128,
+      "alert_type": "value",
+      "alerted_at": "2026-10-01T19:29:00.031037+00:00"
+    },
+    {
+      "state_key": "6321b7d465a21274f0da7a5e50dbf5ef:h2h",
+      "event_id": "6321b7d465a21274f0da7a5e50dbf5ef",
+      "sport_key": "soccer",
+      "competition": "UEFA Nations League",
+      "home_team": "Greece",
+      "away_team": "Netherlands",
+      "commence_time": "2026-10-01T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Netherlands",
+      "odds_at_alert": 4.7,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-10-01T19:29:00.379174+00:00"
+    },
+    {
+      "state_key": "6321b7d465a21274f0da7a5e50dbf5ef:h2h",
+      "event_id": "6321b7d465a21274f0da7a5e50dbf5ef",
+      "sport_key": "soccer",
+      "competition": "UEFA Nations League",
+      "home_team": "Greece",
+      "away_team": "Netherlands",
+      "commence_time": "2026-10-01T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.65,
+      "stake_pct": 2.0,
+      "confidence": 5,
+      "alert_type": "value",
+      "alerted_at": "2026-10-01T19:29:00.732282+00:00"
+    },
+    {
+      "state_key": "16d310e835713f3457023deb98fb9f74:h2h",
+      "event_id": "16d310e835713f3457023deb98fb9f74",
+      "sport_key": "soccer",
+      "competition": "UEFA Nations League",
+      "home_team": "Wales",
+      "away_team": "Norway",
+      "commence_time": "2026-10-01T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Norway",
+      "odds_at_alert": 1.74,
+      "stake_pct": 5.0,
+      "confidence": 27,
+      "alert_type": "value",
+      "alerted_at": "2026-10-01T19:29:01.072891+00:00"
+    },
+    {
+      "state_key": "16d310e835713f3457023deb98fb9f74:h2h",
+      "event_id": "16d310e835713f3457023deb98fb9f74",
+      "sport_key": "soccer",
+      "competition": "UEFA Nations League",
+      "home_team": "Wales",
+      "away_team": "Norway",
+      "commence_time": "2026-10-01T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Norway",
+      "odds_at_alert": 1.82,
+      "stake_pct": 5.0,
+      "confidence": 33,
+      "alert_type": "value",
+      "alerted_at": "2026-10-01T19:29:01.429387+00:00"
+    },
+    {
+      "state_key": "16d310e835713f3457023deb98fb9f74:h2h",
+      "event_id": "16d310e835713f3457023deb98fb9f74",
+      "sport_key": "soccer",
+      "competition": "UEFA Nations League",
+      "home_team": "Wales",
+      "away_team": "Norway",
+      "commence_time": "2026-10-01T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Norway",
+      "odds_at_alert": 1.88,
+      "stake_pct": 5.0,
+      "confidence": 37,
+      "alert_type": "value",
+      "alerted_at": "2026-10-01T19:29:01.805501+00:00"
+    },
+    {
+      "state_key": "16d310e835713f3457023deb98fb9f74:h2h",
+      "event_id": "16d310e835713f3457023deb98fb9f74",
+      "sport_key": "soccer",
+      "competition": "UEFA Nations League",
+      "home_team": "Wales",
+      "away_team": "Norway",
+      "commence_time": "2026-10-01T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Norway",
+      "odds_at_alert": 2.08,
+      "stake_pct": 5.0,
+      "confidence": 52,
+      "alert_type": "value",
+      "alerted_at": "2026-10-01T19:29:02.243086+00:00"
+    },
+    {
+      "state_key": "16d310e835713f3457023deb98fb9f74:h2h",
+      "event_id": "16d310e835713f3457023deb98fb9f74",
+      "sport_key": "soccer",
+      "competition": "UEFA Nations League",
+      "home_team": "Wales",
+      "away_team": "Norway",
+      "commence_time": "2026-10-01T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Norway",
+      "odds_at_alert": 1.91,
+      "stake_pct": 5.0,
+      "confidence": 39,
+      "alert_type": "value",
+      "alerted_at": "2026-10-01T19:29:02.618596+00:00"
+    },
+    {
+      "state_key": "16d310e835713f3457023deb98fb9f74:h2h",
+      "event_id": "16d310e835713f3457023deb98fb9f74",
+      "sport_key": "soccer",
+      "competition": "UEFA Nations League",
+      "home_team": "Wales",
+      "away_team": "Norway",
+      "commence_time": "2026-10-01T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Norway",
+      "odds_at_alert": 1.91,
+      "stake_pct": 5.0,
+      "confidence": 39,
+      "alert_type": "value",
+      "alerted_at": "2026-10-01T19:29:03.044795+00:00"
+    },
+    {
+      "state_key": "16d310e835713f3457023deb98fb9f74:h2h",
+      "event_id": "16d310e835713f3457023deb98fb9f74",
+      "sport_key": "soccer",
+      "competition": "UEFA Nations League",
+      "home_team": "Wales",
+      "away_team": "Norway",
+      "commence_time": "2026-10-01T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Norway",
+      "odds_at_alert": 1.85,
+      "stake_pct": 5.0,
+      "confidence": 35,
+      "alert_type": "value",
+      "alerted_at": "2026-10-01T19:29:03.411423+00:00"
+    },
+    {
+      "state_key": "16d310e835713f3457023deb98fb9f74:h2h",
+      "event_id": "16d310e835713f3457023deb98fb9f74",
+      "sport_key": "soccer",
+      "competition": "UEFA Nations League",
+      "home_team": "Wales",
+      "away_team": "Norway",
+      "commence_time": "2026-10-01T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Norway",
+      "odds_at_alert": 1.85,
+      "stake_pct": 5.0,
+      "confidence": 35,
+      "alert_type": "value",
+      "alerted_at": "2026-10-01T19:29:03.761997+00:00"
+    },
+    {
+      "state_key": "16d310e835713f3457023deb98fb9f74:h2h",
+      "event_id": "16d310e835713f3457023deb98fb9f74",
+      "sport_key": "soccer",
+      "competition": "UEFA Nations League",
+      "home_team": "Wales",
+      "away_team": "Norway",
+      "commence_time": "2026-10-01T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Norway",
+      "odds_at_alert": 2.0,
+      "stake_pct": 5.0,
+      "confidence": 46,
+      "alert_type": "value",
+      "alerted_at": "2026-10-01T19:29:04.102151+00:00"
+    },
+    {
+      "state_key": "16d310e835713f3457023deb98fb9f74:h2h",
+      "event_id": "16d310e835713f3457023deb98fb9f74",
+      "sport_key": "soccer",
+      "competition": "UEFA Nations League",
+      "home_team": "Wales",
+      "away_team": "Norway",
+      "commence_time": "2026-10-01T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Norway",
+      "odds_at_alert": 1.91,
+      "stake_pct": 5.0,
+      "confidence": 39,
+      "alert_type": "value",
+      "alerted_at": "2026-10-01T19:29:04.461971+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "695a3929e6554772a974fa98fecb48f0:h2h|1xBet|Austria Wien",
-    "695a3929e6554772a974fa98fecb48f0:h2h|Betfair|Austria Wien",
-    "695a3929e6554772a974fa98fecb48f0:h2h|Unibet (NL)|Austria Wien"
+    "16d310e835713f3457023deb98fb9f74:h2h|888sport|Norway",
+    "16d310e835713f3457023deb98fb9f74:h2h|Betclic (FR)|Norway",
+    "16d310e835713f3457023deb98fb9f74:h2h|Betfair|Norway",
+    "16d310e835713f3457023deb98fb9f74:h2h|Betsson|Norway",
+    "16d310e835713f3457023deb98fb9f74:h2h|LeoVegas (SE)|Norway",
+    "16d310e835713f3457023deb98fb9f74:h2h|Matchbook|Norway",
+    "16d310e835713f3457023deb98fb9f74:h2h|Nordic Bet|Norway",
+    "16d310e835713f3457023deb98fb9f74:h2h|Unibet (SE)|Norway",
+    "16d310e835713f3457023deb98fb9f74:h2h|Winamax (DE)|Norway",
+    "16d310e835713f3457023deb98fb9f74:h2h|Winamax (FR)|Norway",
+    "546150d4747a3a5108c7e9860426bf36:h2h|888sport|Draw",
+    "546150d4747a3a5108c7e9860426bf36:h2h|888sport|Serbia",
+    "546150d4747a3a5108c7e9860426bf36:h2h|Betfair|Draw",
+    "546150d4747a3a5108c7e9860426bf36:h2h|Betfair|Serbia",
+    "546150d4747a3a5108c7e9860426bf36:h2h|Betsson|Draw",
+    "546150d4747a3a5108c7e9860426bf36:h2h|Betsson|Serbia",
+    "546150d4747a3a5108c7e9860426bf36:h2h|LeoVegas (SE)|Draw",
+    "546150d4747a3a5108c7e9860426bf36:h2h|LeoVegas (SE)|Serbia",
+    "546150d4747a3a5108c7e9860426bf36:h2h|Matchbook|Draw",
+    "546150d4747a3a5108c7e9860426bf36:h2h|Matchbook|Serbia",
+    "546150d4747a3a5108c7e9860426bf36:h2h|Nordic Bet|Draw",
+    "546150d4747a3a5108c7e9860426bf36:h2h|Nordic Bet|Serbia",
+    "546150d4747a3a5108c7e9860426bf36:h2h|Unibet (SE)|Draw",
+    "546150d4747a3a5108c7e9860426bf36:h2h|Unibet (SE)|Serbia",
+    "546150d4747a3a5108c7e9860426bf36:h2h|Winamax (DE)|Draw",
+    "546150d4747a3a5108c7e9860426bf36:h2h|Winamax (DE)|Serbia",
+    "546150d4747a3a5108c7e9860426bf36:h2h|Winamax (FR)|Draw",
+    "546150d4747a3a5108c7e9860426bf36:h2h|Winamax (FR)|Serbia",
+    "6321b7d465a21274f0da7a5e50dbf5ef:h2h|Betfair|Draw",
+    "6321b7d465a21274f0da7a5e50dbf5ef:h2h|Betfair|Netherlands",
+    "d4cee9aa708870095e23599afb35bce0:h2h|Betfair|Denmark",
+    "d4cee9aa708870095e23599afb35bce0:h2h|Betfair|Draw",
+    "d4cee9aa708870095e23599afb35bce0:h2h|Matchbook|Denmark",
+    "d4cee9aa708870095e23599afb35bce0:h2h|Matchbook|Draw"
   ]
 }
