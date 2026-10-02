@@ -1,266 +1,231 @@
 {
   "snapshots": {
-    "4e80b0be6c8fc9acf52057d1d3baeb2b:h2h": {
-      "LeoVegas (SE)": {
-        "CD Eldense": 6.25,
-        "Oviedo": 1.41,
-        "Draw": 3.25
-      },
-      "Unibet (SE)": {
-        "CD Eldense": 7.0,
-        "Oviedo": 1.5,
-        "Draw": 3.4
-      },
-      "Unibet (NL)": {
-        "CD Eldense": 7.0,
-        "Oviedo": 1.5,
-        "Draw": 3.4
-      },
+    "8271594ff99b4850f5d30712ce212291:h2h": {
       "Nordic Bet": {
-        "CD Eldense": 4.85,
-        "Oviedo": 1.75,
-        "Draw": 3.15
-      },
-      "Betclic (FR)": {
-        "CD Eldense": 4.6,
-        "Oviedo": 1.7,
-        "Draw": 3.0
+        "Independiente": 51.0,
+        "Instituto de Córdoba": 1.0,
+        "Draw": 19.0
       },
       "Betsson": {
-        "CD Eldense": 5.35,
-        "Oviedo": 1.68,
-        "Draw": 3.2
+        "Independiente": 51.0,
+        "Instituto de Córdoba": 1.0,
+        "Draw": 19.0
       },
       "Winamax (FR)": {
-        "CD Eldense": 4.8,
-        "Oviedo": 1.64,
-        "Draw": 3.15
-      },
-      "Winamax (DE)": {
-        "CD Eldense": 5.1,
-        "Oviedo": 1.66,
-        "Draw": 3.25
-      },
-      "Coolbet": {
-        "CD Eldense": 5.5,
-        "Oviedo": 1.73,
-        "Draw": 3.25
-      },
-      "Pinnacle": {
-        "CD Eldense": 6.19,
-        "Oviedo": 1.66,
-        "Draw": 3.37
-      },
-      "Betfair": {
-        "CD Eldense": 6.2,
-        "Oviedo": 1.77,
-        "Draw": 3.5
-      },
-      "Tipico": {
-        "CD Eldense": 4.7,
-        "Oviedo": 1.7,
-        "Draw": 3.4
-      },
-      "Matchbook": {
-        "CD Eldense": 6.0,
-        "Oviedo": 1.68,
-        "Draw": 3.2
-      }
-    },
-    "429e47b7c49fba99d5cbcba70b9c48c5:h2h": {
-      "Betclic (FR)": {
-        "Belgium": 1.2,
-        "Turkey": 10.5,
-        "Draw": 5.25
-      },
-      "Winamax (DE)": {
-        "Belgium": 1.23,
-        "Turkey": 9.5,
-        "Draw": 5.5
-      },
-      "Winamax (FR)": {
-        "Belgium": 1.24,
-        "Turkey": 9.0,
-        "Draw": 5.4
-      },
-      "Betfair": {
-        "Belgium": 1.27,
-        "Turkey": 14.5,
-        "Draw": 6.8
-      },
-      "Suprabets": {
-        "Belgium": 1.25,
-        "Turkey": 11.0,
-        "Draw": 5.9
-      },
-      "Matchbook": {
-        "Belgium": 1.28,
-        "Turkey": 13.5,
-        "Draw": 6.4
-      },
-      "MyBookie.ag": {
-        "Belgium": 1.25,
-        "Turkey": 9.0,
-        "Draw": 5.5
-      },
-      "Pinnacle": {
-        "Belgium": 1.26,
-        "Turkey": 12.34,
-        "Draw": 5.61
-      },
-      "Unibet (SE)": {
-        "Belgium": 1.21,
-        "Turkey": 12.0,
-        "Draw": 6.25
-      },
-      "LeoVegas (SE)": {
-        "Belgium": 1.19,
-        "Turkey": 11.0,
+        "Independiente": 38.0,
+        "Instituto de Córdoba": 1.13,
         "Draw": 6.0
       },
-      "888sport": {
-        "Belgium": 1.25,
-        "Turkey": 9.0,
-        "Draw": 5.5
-      },
-      "Nordic Bet": {
-        "Belgium": 1.2,
-        "Turkey": 11.5,
-        "Draw": 5.8
-      },
-      "Betsson": {
-        "Belgium": 1.2,
-        "Turkey": 11.5,
-        "Draw": 5.8
-      }
-    },
-    "9395310b961bef64848d22603bbcb67f:h2h": {
-      "Betsson": {
-        "Bohemians": 1.28,
-        "Dundalk": 8.2,
-        "Draw": 4.6
-      },
       "Winamax (DE)": {
-        "Bohemians": 1.27,
-        "Dundalk": 9.0,
-        "Draw": 4.9
-      },
-      "Winamax (FR)": {
-        "Bohemians": 1.28,
-        "Dundalk": 8.5,
-        "Draw": 4.6
-      },
-      "Nordic Bet": {
-        "Bohemians": 1.28,
-        "Dundalk": 8.2,
-        "Draw": 4.6
-      },
-      "Tipico": {
-        "Bohemians": 1.25,
-        "Dundalk": 9.0,
-        "Draw": 5.2
-      },
-      "Pinnacle": {
-        "Bohemians": 1.86,
-        "Dundalk": 4.29,
-        "Draw": 3.38
-      },
-      "Unibet (SE)": {
-        "Bohemians": 1.25,
-        "Dundalk": 9.5,
-        "Draw": 5.2
-      },
-      "Unibet (NL)": {
-        "Bohemians": 1.24,
-        "Dundalk": 9.5,
-        "Draw": 5.25
-      },
-      "LeoVegas (SE)": {
-        "Bohemians": 1.17,
-        "Dundalk": 9.0,
-        "Draw": 5.0
-      },
-      "Coolbet": {
-        "Bohemians": 1.29,
-        "Dundalk": 9.0,
-        "Draw": 5.0
-      },
-      "Betfair": {
-        "Bohemians": 1.88,
-        "Dundalk": 4.9,
-        "Draw": 3.7
-      },
-      "Matchbook": {
-        "Bohemians": 1.31,
-        "Dundalk": 12.0,
-        "Draw": 5.8
-      }
-    },
-    "e5ef3c5aba98aed80abcb9eb0d592bff:h2h": {
-      "MyBookie.ag": {
-        "France": 1.55,
-        "Italy": 5.25,
-        "Draw": 3.7
+        "Independiente": 38.0,
+        "Instituto de Córdoba": 1.1,
+        "Draw": 6.5
       },
       "Betclic (FR)": {
-        "France": 1.52,
-        "Italy": 5.5,
-        "Draw": 3.6
-      },
-      "Winamax (FR)": {
-        "France": 1.5,
-        "Italy": 5.6,
-        "Draw": 3.55
-      },
-      "Winamax (DE)": {
-        "France": 1.52,
-        "Italy": 5.8,
-        "Draw": 3.65
-      },
-      "Suprabets": {
-        "France": 1.55,
-        "Italy": 6.0,
-        "Draw": 4.0
-      },
-      "Pinnacle": {
-        "France": 1.55,
-        "Italy": 6.37,
-        "Draw": 3.92
+        "Independiente": 50.0,
+        "Instituto de Córdoba": 1.0,
+        "Draw": 20.0
       },
       "Betfair": {
-        "France": 1.57,
-        "Italy": 7.4,
-        "Draw": 4.3
+        "Independiente": 60.0,
+        "Instituto de Córdoba": 1.02,
+        "Draw": 36.0
+      }
+    },
+    "93704173a25de24b2fbe254ba32f3a3a:h2h": {
+      "Unibet (SE)": {
+        "Clube de Regatas Brasil": 1.33,
+        "São Bernardo": 11.5,
+        "Draw": 4.1
       },
-      "Matchbook": {
-        "France": 1.56,
-        "Italy": 7.6,
+      "Unibet (NL)": {
+        "Clube de Regatas Brasil": 1.25,
+        "São Bernardo": 11.5,
         "Draw": 4.2
       },
       "LeoVegas (SE)": {
-        "France": 1.49,
-        "Italy": 6.1,
-        "Draw": 3.75
+        "Clube de Regatas Brasil": 1.26,
+        "São Bernardo": 11.0,
+        "Draw": 3.85
       },
-      "Unibet (SE)": {
-        "France": 1.51,
-        "Italy": 6.4,
-        "Draw": 3.9
+      "Nordic Bet": {
+        "Clube de Regatas Brasil": 1.28,
+        "São Bernardo": 11.5,
+        "Draw": 4.2
       },
-      "888sport": {
-        "France": 1.5,
-        "Italy": 5.5,
+      "Coolbet": {
+        "Clube de Regatas Brasil": 1.33,
+        "São Bernardo": 11.0,
         "Draw": 4.0
       },
       "Betsson": {
-        "France": 1.52,
-        "Italy": 6.3,
-        "Draw": 3.65
+        "Clube de Regatas Brasil": 1.31,
+        "São Bernardo": 10.5,
+        "Draw": 4.1
+      },
+      "Pinnacle": {
+        "Clube de Regatas Brasil": 2.56,
+        "São Bernardo": 3.99,
+        "Draw": 2.35
+      },
+      "888sport": {
+        "Clube de Regatas Brasil": 1.33,
+        "São Bernardo": 10.0,
+        "Draw": 4.0
+      },
+      "Tipico": {
+        "Clube de Regatas Brasil": 1.3,
+        "São Bernardo": 8.5,
+        "Draw": 4.7
+      },
+      "Betfair": {
+        "Clube de Regatas Brasil": 1.28,
+        "São Bernardo": 5.0,
+        "Draw": 3.1
+      },
+      "Matchbook": {
+        "Clube de Regatas Brasil": 1.36,
+        "São Bernardo": 14.5,
+        "Draw": 4.9
+      }
+    },
+    "3bcaaa1b3db67371a5ee3e731d2d2a8d:h2h": {
+      "Unibet (SE)": {
+        "Huachipato": 1.72,
+        "Universidad de Concepción": 4.8,
+        "Draw": 3.15
+      },
+      "LeoVegas (SE)": {
+        "Huachipato": 1.61,
+        "Universidad de Concepción": 4.6,
+        "Draw": 3.0
+      },
+      "888sport": {
+        "Huachipato": 1.7,
+        "Universidad de Concepción": 4.33,
+        "Draw": 3.3
+      },
+      "Pinnacle": {
+        "Huachipato": 1.74,
+        "Universidad de Concepción": 4.9,
+        "Draw": 3.4
+      },
+      "Winamax (FR)": {
+        "Huachipato": 1.64,
+        "Universidad de Concepción": 4.7,
+        "Draw": 3.15
+      },
+      "Winamax (DE)": {
+        "Huachipato": 1.68,
+        "Universidad de Concepción": 5.0,
+        "Draw": 3.25
+      },
+      "Tipico": {
+        "Huachipato": 1.6,
+        "Universidad de Concepción": 5.2,
+        "Draw": 3.4
       },
       "Nordic Bet": {
-        "France": 1.52,
-        "Italy": 6.3,
-        "Draw": 3.65
+        "Huachipato": 1.68,
+        "Universidad de Concepción": 4.85,
+        "Draw": 3.3
+      },
+      "Betsson": {
+        "Huachipato": 1.68,
+        "Universidad de Concepción": 4.85,
+        "Draw": 3.3
+      },
+      "Betfair": {
+        "Huachipato": 1.79,
+        "Universidad de Concepción": 5.4,
+        "Draw": 3.6
+      },
+      "Coolbet": {
+        "Huachipato": 1.73,
+        "Universidad de Concepción": 5.5,
+        "Draw": 3.5
+      },
+      "Matchbook": {
+        "Huachipato": 1.78,
+        "Universidad de Concepción": 5.6,
+        "Draw": 3.6
+      }
+    },
+    "bf5e804636b32bc84559397755275753:h2h": {
+      "MyBookie.ag": {
+        "Santos": 2.95,
+        "Sao Paulo": 2.5,
+        "Draw": 2.55
+      },
+      "Coolbet": {
+        "Santos": 3.4,
+        "Sao Paulo": 2.6,
+        "Draw": 2.8
+      },
+      "Winamax (FR)": {
+        "Santos": 3.05,
+        "Sao Paulo": 2.4,
+        "Draw": 2.55
+      },
+      "Betclic (FR)": {
+        "Santos": 3.0,
+        "Sao Paulo": 2.38,
+        "Draw": 2.6
+      },
+      "Winamax (DE)": {
+        "Santos": 3.1,
+        "Sao Paulo": 2.45,
+        "Draw": 2.6
+      },
+      "Pinnacle": {
+        "Santos": 4.16,
+        "Sao Paulo": 2.2,
+        "Draw": 2.76
+      },
+      "888sport": {
+        "Santos": 3.6,
+        "Sao Paulo": 2.3,
+        "Draw": 2.5
+      },
+      "Nordic Bet": {
+        "Santos": 3.2,
+        "Sao Paulo": 2.4,
+        "Draw": 2.75
+      },
+      "Betsson": {
+        "Santos": 3.2,
+        "Sao Paulo": 2.45,
+        "Draw": 2.7
+      },
+      "Tipico": {
+        "Santos": 3.1,
+        "Sao Paulo": 2.5,
+        "Draw": 2.7
+      },
+      "Unibet (SE)": {
+        "Santos": 4.0,
+        "Sao Paulo": 2.23,
+        "Draw": 2.63
+      },
+      "Unibet (NL)": {
+        "Santos": 3.8,
+        "Sao Paulo": 2.14,
+        "Draw": 2.5
+      },
+      "LeoVegas (SE)": {
+        "Santos": 3.75,
+        "Sao Paulo": 2.1,
+        "Draw": 2.48
+      },
+      "Matchbook": {
+        "Santos": 4.1,
+        "Sao Paulo": 2.52,
+        "Draw": 2.68
+      },
+      "Betfair": {
+        "Santos": 3.9,
+        "Sao Paulo": 2.42,
+        "Draw": 2.54
       }
     }
   },
@@ -1897,38 +1862,468 @@
       "confidence": 13,
       "alert_type": "value",
       "alerted_at": "2026-10-02T19:13:16.153771+00:00"
+    },
+    {
+      "state_key": "93704173a25de24b2fbe254ba32f3a3a:h2h",
+      "event_id": "93704173a25de24b2fbe254ba32f3a3a",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "São Bernardo",
+      "away_team": "Clube de Regatas Brasil",
+      "commence_time": "2026-10-02T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "São Bernardo",
+      "odds_at_alert": 11.5,
+      "stake_pct": 5.0,
+      "confidence": 170,
+      "alert_type": "value",
+      "alerted_at": "2026-10-02T23:43:55.908448+00:00"
+    },
+    {
+      "state_key": "93704173a25de24b2fbe254ba32f3a3a:h2h",
+      "event_id": "93704173a25de24b2fbe254ba32f3a3a",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "São Bernardo",
+      "away_team": "Clube de Regatas Brasil",
+      "commence_time": "2026-10-02T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.1,
+      "stake_pct": 5.0,
+      "confidence": 64,
+      "alert_type": "value",
+      "alerted_at": "2026-10-02T23:43:56.259261+00:00"
+    },
+    {
+      "state_key": "93704173a25de24b2fbe254ba32f3a3a:h2h",
+      "event_id": "93704173a25de24b2fbe254ba32f3a3a",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "São Bernardo",
+      "away_team": "Clube de Regatas Brasil",
+      "commence_time": "2026-10-02T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "São Bernardo",
+      "odds_at_alert": 11.5,
+      "stake_pct": 5.0,
+      "confidence": 170,
+      "alert_type": "value",
+      "alerted_at": "2026-10-02T23:43:56.617279+00:00"
+    },
+    {
+      "state_key": "93704173a25de24b2fbe254ba32f3a3a:h2h",
+      "event_id": "93704173a25de24b2fbe254ba32f3a3a",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "São Bernardo",
+      "away_team": "Clube de Regatas Brasil",
+      "commence_time": "2026-10-02T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.2,
+      "stake_pct": 5.0,
+      "confidence": 68,
+      "alert_type": "value",
+      "alerted_at": "2026-10-02T23:43:56.963914+00:00"
+    },
+    {
+      "state_key": "93704173a25de24b2fbe254ba32f3a3a:h2h",
+      "event_id": "93704173a25de24b2fbe254ba32f3a3a",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "São Bernardo",
+      "away_team": "Clube de Regatas Brasil",
+      "commence_time": "2026-10-02T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "São Bernardo",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 158,
+      "alert_type": "value",
+      "alerted_at": "2026-10-02T23:43:57.302174+00:00"
+    },
+    {
+      "state_key": "93704173a25de24b2fbe254ba32f3a3a:h2h",
+      "event_id": "93704173a25de24b2fbe254ba32f3a3a",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "São Bernardo",
+      "away_team": "Clube de Regatas Brasil",
+      "commence_time": "2026-10-02T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.85,
+      "stake_pct": 5.0,
+      "confidence": 54,
+      "alert_type": "value",
+      "alerted_at": "2026-10-02T23:43:57.652611+00:00"
+    },
+    {
+      "state_key": "93704173a25de24b2fbe254ba32f3a3a:h2h",
+      "event_id": "93704173a25de24b2fbe254ba32f3a3a",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "São Bernardo",
+      "away_team": "Clube de Regatas Brasil",
+      "commence_time": "2026-10-02T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "São Bernardo",
+      "odds_at_alert": 11.5,
+      "stake_pct": 5.0,
+      "confidence": 170,
+      "alert_type": "value",
+      "alerted_at": "2026-10-02T23:43:58.000725+00:00"
+    },
+    {
+      "state_key": "93704173a25de24b2fbe254ba32f3a3a:h2h",
+      "event_id": "93704173a25de24b2fbe254ba32f3a3a",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "São Bernardo",
+      "away_team": "Clube de Regatas Brasil",
+      "commence_time": "2026-10-02T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.2,
+      "stake_pct": 5.0,
+      "confidence": 68,
+      "alert_type": "value",
+      "alerted_at": "2026-10-02T23:43:58.348211+00:00"
+    },
+    {
+      "state_key": "93704173a25de24b2fbe254ba32f3a3a:h2h",
+      "event_id": "93704173a25de24b2fbe254ba32f3a3a",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "São Bernardo",
+      "away_team": "Clube de Regatas Brasil",
+      "commence_time": "2026-10-02T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "São Bernardo",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 158,
+      "alert_type": "value",
+      "alerted_at": "2026-10-02T23:43:58.693037+00:00"
+    },
+    {
+      "state_key": "93704173a25de24b2fbe254ba32f3a3a:h2h",
+      "event_id": "93704173a25de24b2fbe254ba32f3a3a",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "São Bernardo",
+      "away_team": "Clube de Regatas Brasil",
+      "commence_time": "2026-10-02T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.0,
+      "stake_pct": 5.0,
+      "confidence": 60,
+      "alert_type": "value",
+      "alerted_at": "2026-10-02T23:43:59.055278+00:00"
+    },
+    {
+      "state_key": "93704173a25de24b2fbe254ba32f3a3a:h2h",
+      "event_id": "93704173a25de24b2fbe254ba32f3a3a",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "São Bernardo",
+      "away_team": "Clube de Regatas Brasil",
+      "commence_time": "2026-10-02T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "São Bernardo",
+      "odds_at_alert": 10.5,
+      "stake_pct": 5.0,
+      "confidence": 147,
+      "alert_type": "value",
+      "alerted_at": "2026-10-02T23:43:59.410224+00:00"
+    },
+    {
+      "state_key": "93704173a25de24b2fbe254ba32f3a3a:h2h",
+      "event_id": "93704173a25de24b2fbe254ba32f3a3a",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "São Bernardo",
+      "away_team": "Clube de Regatas Brasil",
+      "commence_time": "2026-10-02T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.1,
+      "stake_pct": 5.0,
+      "confidence": 64,
+      "alert_type": "value",
+      "alerted_at": "2026-10-02T23:43:59.774439+00:00"
+    },
+    {
+      "state_key": "93704173a25de24b2fbe254ba32f3a3a:h2h",
+      "event_id": "93704173a25de24b2fbe254ba32f3a3a",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "São Bernardo",
+      "away_team": "Clube de Regatas Brasil",
+      "commence_time": "2026-10-02T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "São Bernardo",
+      "odds_at_alert": 10.0,
+      "stake_pct": 5.0,
+      "confidence": 135,
+      "alert_type": "value",
+      "alerted_at": "2026-10-02T23:44:00.172540+00:00"
+    },
+    {
+      "state_key": "93704173a25de24b2fbe254ba32f3a3a:h2h",
+      "event_id": "93704173a25de24b2fbe254ba32f3a3a",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "São Bernardo",
+      "away_team": "Clube de Regatas Brasil",
+      "commence_time": "2026-10-02T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.0,
+      "stake_pct": 5.0,
+      "confidence": 60,
+      "alert_type": "value",
+      "alerted_at": "2026-10-02T23:44:00.583734+00:00"
+    },
+    {
+      "state_key": "93704173a25de24b2fbe254ba32f3a3a:h2h",
+      "event_id": "93704173a25de24b2fbe254ba32f3a3a",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "São Bernardo",
+      "away_team": "Clube de Regatas Brasil",
+      "commence_time": "2026-10-02T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "São Bernardo",
+      "odds_at_alert": 8.5,
+      "stake_pct": 5.0,
+      "confidence": 100,
+      "alert_type": "value",
+      "alerted_at": "2026-10-02T23:44:00.948352+00:00"
+    },
+    {
+      "state_key": "93704173a25de24b2fbe254ba32f3a3a:h2h",
+      "event_id": "93704173a25de24b2fbe254ba32f3a3a",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "São Bernardo",
+      "away_team": "Clube de Regatas Brasil",
+      "commence_time": "2026-10-02T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.7,
+      "stake_pct": 5.0,
+      "confidence": 87,
+      "alert_type": "value",
+      "alerted_at": "2026-10-02T23:44:01.336264+00:00"
+    },
+    {
+      "state_key": "93704173a25de24b2fbe254ba32f3a3a:h2h",
+      "event_id": "93704173a25de24b2fbe254ba32f3a3a",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "São Bernardo",
+      "away_team": "Clube de Regatas Brasil",
+      "commence_time": "2026-10-02T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "São Bernardo",
+      "odds_at_alert": 5.0,
+      "stake_pct": 5.0,
+      "confidence": 17,
+      "alert_type": "value",
+      "alerted_at": "2026-10-02T23:44:01.691824+00:00"
+    },
+    {
+      "state_key": "93704173a25de24b2fbe254ba32f3a3a:h2h",
+      "event_id": "93704173a25de24b2fbe254ba32f3a3a",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "São Bernardo",
+      "away_team": "Clube de Regatas Brasil",
+      "commence_time": "2026-10-02T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.1,
+      "stake_pct": 5.0,
+      "confidence": 24,
+      "alert_type": "value",
+      "alerted_at": "2026-10-02T23:44:02.037117+00:00"
+    },
+    {
+      "state_key": "93704173a25de24b2fbe254ba32f3a3a:h2h",
+      "event_id": "93704173a25de24b2fbe254ba32f3a3a",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "São Bernardo",
+      "away_team": "Clube de Regatas Brasil",
+      "commence_time": "2026-10-02T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "São Bernardo",
+      "odds_at_alert": 14.5,
+      "stake_pct": 5.0,
+      "confidence": 241,
+      "alert_type": "value",
+      "alerted_at": "2026-10-02T23:44:02.505426+00:00"
+    },
+    {
+      "state_key": "93704173a25de24b2fbe254ba32f3a3a:h2h",
+      "event_id": "93704173a25de24b2fbe254ba32f3a3a",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "São Bernardo",
+      "away_team": "Clube de Regatas Brasil",
+      "commence_time": "2026-10-02T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.9,
+      "stake_pct": 5.0,
+      "confidence": 95,
+      "alert_type": "value",
+      "alerted_at": "2026-10-02T23:44:02.856797+00:00"
+    },
+    {
+      "state_key": "3bcaaa1b3db67371a5ee3e731d2d2a8d:h2h",
+      "event_id": "3bcaaa1b3db67371a5ee3e731d2d2a8d",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Universidad de Concepción",
+      "away_team": "Huachipato",
+      "commence_time": "2026-10-02T23:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Universidad de Concepción",
+      "odds_at_alert": 5.6,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-10-02T23:44:03.199749+00:00"
+    },
+    {
+      "state_key": "bf5e804636b32bc84559397755275753:h2h",
+      "event_id": "bf5e804636b32bc84559397755275753",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Sao Paulo",
+      "away_team": "Santos",
+      "commence_time": "2026-10-02T23:02:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sao Paulo",
+      "odds_at_alert": 2.5,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-10-02T23:44:03.540761+00:00"
+    },
+    {
+      "state_key": "bf5e804636b32bc84559397755275753:h2h",
+      "event_id": "bf5e804636b32bc84559397755275753",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Sao Paulo",
+      "away_team": "Santos",
+      "commence_time": "2026-10-02T23:02:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sao Paulo",
+      "odds_at_alert": 2.6,
+      "stake_pct": 3.0,
+      "confidence": 12,
+      "alert_type": "value",
+      "alerted_at": "2026-10-02T23:44:03.890719+00:00"
+    },
+    {
+      "state_key": "bf5e804636b32bc84559397755275753:h2h",
+      "event_id": "bf5e804636b32bc84559397755275753",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Sao Paulo",
+      "away_team": "Santos",
+      "commence_time": "2026-10-02T23:02:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sao Paulo",
+      "odds_at_alert": 2.45,
+      "stake_pct": 2.0,
+      "confidence": 5,
+      "alert_type": "value",
+      "alerted_at": "2026-10-02T23:44:04.240559+00:00"
+    },
+    {
+      "state_key": "bf5e804636b32bc84559397755275753:h2h",
+      "event_id": "bf5e804636b32bc84559397755275753",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Sao Paulo",
+      "away_team": "Santos",
+      "commence_time": "2026-10-02T23:02:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sao Paulo",
+      "odds_at_alert": 2.45,
+      "stake_pct": 2.0,
+      "confidence": 5,
+      "alert_type": "value",
+      "alerted_at": "2026-10-02T23:44:04.602148+00:00"
+    },
+    {
+      "state_key": "bf5e804636b32bc84559397755275753:h2h",
+      "event_id": "bf5e804636b32bc84559397755275753",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Sao Paulo",
+      "away_team": "Santos",
+      "commence_time": "2026-10-02T23:02:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sao Paulo",
+      "odds_at_alert": 2.5,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-10-02T23:44:04.943232+00:00"
+    },
+    {
+      "state_key": "bf5e804636b32bc84559397755275753:h2h",
+      "event_id": "bf5e804636b32bc84559397755275753",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Sao Paulo",
+      "away_team": "Santos",
+      "commence_time": "2026-10-02T23:02:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sao Paulo",
+      "odds_at_alert": 2.52,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-10-02T23:44:05.290924+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "429e47b7c49fba99d5cbcba70b9c48c5:h2h|Betfair|Draw",
-    "429e47b7c49fba99d5cbcba70b9c48c5:h2h|Betfair|Turkey",
-    "429e47b7c49fba99d5cbcba70b9c48c5:h2h|Matchbook|Draw",
-    "429e47b7c49fba99d5cbcba70b9c48c5:h2h|Unibet (SE)|Draw",
-    "4e80b0be6c8fc9acf52057d1d3baeb2b:h2h|Unibet (NL)|CD Eldense",
-    "4e80b0be6c8fc9acf52057d1d3baeb2b:h2h|Unibet (SE)|CD Eldense",
-    "9395310b961bef64848d22603bbcb67f:h2h|Betfair|Dundalk",
-    "9395310b961bef64848d22603bbcb67f:h2h|Betsson|Draw",
-    "9395310b961bef64848d22603bbcb67f:h2h|Betsson|Dundalk",
-    "9395310b961bef64848d22603bbcb67f:h2h|Coolbet|Draw",
-    "9395310b961bef64848d22603bbcb67f:h2h|Coolbet|Dundalk",
-    "9395310b961bef64848d22603bbcb67f:h2h|LeoVegas (SE)|Draw",
-    "9395310b961bef64848d22603bbcb67f:h2h|LeoVegas (SE)|Dundalk",
-    "9395310b961bef64848d22603bbcb67f:h2h|Matchbook|Draw",
-    "9395310b961bef64848d22603bbcb67f:h2h|Matchbook|Dundalk",
-    "9395310b961bef64848d22603bbcb67f:h2h|Nordic Bet|Draw",
-    "9395310b961bef64848d22603bbcb67f:h2h|Nordic Bet|Dundalk",
-    "9395310b961bef64848d22603bbcb67f:h2h|Tipico|Draw",
-    "9395310b961bef64848d22603bbcb67f:h2h|Tipico|Dundalk",
-    "9395310b961bef64848d22603bbcb67f:h2h|Unibet (NL)|Draw",
-    "9395310b961bef64848d22603bbcb67f:h2h|Unibet (NL)|Dundalk",
-    "9395310b961bef64848d22603bbcb67f:h2h|Unibet (SE)|Draw",
-    "9395310b961bef64848d22603bbcb67f:h2h|Unibet (SE)|Dundalk",
-    "9395310b961bef64848d22603bbcb67f:h2h|Winamax (DE)|Draw",
-    "9395310b961bef64848d22603bbcb67f:h2h|Winamax (DE)|Dundalk",
-    "9395310b961bef64848d22603bbcb67f:h2h|Winamax (FR)|Draw",
-    "9395310b961bef64848d22603bbcb67f:h2h|Winamax (FR)|Dundalk",
-    "e5ef3c5aba98aed80abcb9eb0d592bff:h2h|Betfair|Italy",
-    "e5ef3c5aba98aed80abcb9eb0d592bff:h2h|Matchbook|Italy"
+    "3bcaaa1b3db67371a5ee3e731d2d2a8d:h2h|Matchbook|Universidad de Concepción",
+    "93704173a25de24b2fbe254ba32f3a3a:h2h|888sport|Draw",
+    "93704173a25de24b2fbe254ba32f3a3a:h2h|888sport|São Bernardo",
+    "93704173a25de24b2fbe254ba32f3a3a:h2h|Betfair|Draw",
+    "93704173a25de24b2fbe254ba32f3a3a:h2h|Betfair|São Bernardo",
+    "93704173a25de24b2fbe254ba32f3a3a:h2h|Betsson|Draw",
+    "93704173a25de24b2fbe254ba32f3a3a:h2h|Betsson|São Bernardo",
+    "93704173a25de24b2fbe254ba32f3a3a:h2h|Coolbet|Draw",
+    "93704173a25de24b2fbe254ba32f3a3a:h2h|Coolbet|São Bernardo",
+    "93704173a25de24b2fbe254ba32f3a3a:h2h|LeoVegas (SE)|Draw",
+    "93704173a25de24b2fbe254ba32f3a3a:h2h|LeoVegas (SE)|São Bernardo",
+    "93704173a25de24b2fbe254ba32f3a3a:h2h|Matchbook|Draw",
+    "93704173a25de24b2fbe254ba32f3a3a:h2h|Matchbook|São Bernardo",
+    "93704173a25de24b2fbe254ba32f3a3a:h2h|Nordic Bet|Draw",
+    "93704173a25de24b2fbe254ba32f3a3a:h2h|Nordic Bet|São Bernardo",
+    "93704173a25de24b2fbe254ba32f3a3a:h2h|Tipico|Draw",
+    "93704173a25de24b2fbe254ba32f3a3a:h2h|Tipico|São Bernardo",
+    "93704173a25de24b2fbe254ba32f3a3a:h2h|Unibet (NL)|Draw",
+    "93704173a25de24b2fbe254ba32f3a3a:h2h|Unibet (NL)|São Bernardo",
+    "93704173a25de24b2fbe254ba32f3a3a:h2h|Unibet (SE)|Draw",
+    "93704173a25de24b2fbe254ba32f3a3a:h2h|Unibet (SE)|São Bernardo",
+    "bf5e804636b32bc84559397755275753:h2h|Betsson|Sao Paulo",
+    "bf5e804636b32bc84559397755275753:h2h|Coolbet|Sao Paulo",
+    "bf5e804636b32bc84559397755275753:h2h|Matchbook|Sao Paulo",
+    "bf5e804636b32bc84559397755275753:h2h|MyBookie.ag|Sao Paulo",
+    "bf5e804636b32bc84559397755275753:h2h|Tipico|Sao Paulo",
+    "bf5e804636b32bc84559397755275753:h2h|Winamax (DE)|Sao Paulo"
   ]
 }
