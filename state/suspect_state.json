@@ -1,256 +1,266 @@
 {
   "snapshots": {
-    "7db202b104fa0b2c3efc16c9ab45dc1e:h2h": {
-      "Winamax (FR)": {
-        "Kazakhstan": 1.82,
-        "Moldova": 4.3,
-        "Draw": 3.3
-      },
-      "Betfair": {
-        "Kazakhstan": 1.96,
-        "Moldova": 5.0,
-        "Draw": 3.4
-      },
-      "Betclic (FR)": {
-        "Kazakhstan": 1.84,
-        "Moldova": 4.55,
+    "4e80b0be6c8fc9acf52057d1d3baeb2b:h2h": {
+      "LeoVegas (SE)": {
+        "CD Eldense": 6.25,
+        "Oviedo": 1.41,
         "Draw": 3.25
       },
-      "1xBet": {
-        "Kazakhstan": 1.93,
-        "Moldova": 4.7,
-        "Draw": 3.33
-      },
-      "Marathon Bet": {
-        "Kazakhstan": 1.91,
-        "Moldova": 4.65,
-        "Draw": 3.3
-      },
-      "Suprabets": {
-        "Kazakhstan": 1.89,
-        "Moldova": 4.7,
-        "Draw": 3.23
-      },
-      "LeoVegas (SE)": {
-        "Kazakhstan": 1.89,
-        "Moldova": 4.6,
-        "Draw": 3.2
-      },
       "Unibet (SE)": {
-        "Kazakhstan": 1.89,
-        "Moldova": 4.6,
-        "Draw": 3.2
-      },
-      "Betsson": {
-        "Kazakhstan": 1.88,
-        "Moldova": 4.4,
-        "Draw": 3.1
-      },
-      "Nordic Bet": {
-        "Kazakhstan": 1.88,
-        "Moldova": 4.4,
-        "Draw": 3.1
-      },
-      "MyBookie.ag": {
-        "Kazakhstan": 1.85,
-        "Moldova": 4.4,
-        "Draw": 3.18
-      },
-      "888sport": {
-        "Kazakhstan": 1.85,
-        "Moldova": 4.4,
-        "Draw": 3.1
-      },
-      "William Hill": {
-        "Kazakhstan": 1.85,
-        "Moldova": 4.33,
-        "Draw": 3.0
-      }
-    },
-    "2752b34190caefe2813fa470ff2c01d4:h2h": {
-      "Unibet (SE)": {
-        "Armenia": 3.3,
-        "Cyprus": 2.2,
-        "Draw": 3.3
-      },
-      "William Hill": {
-        "Armenia": 3.25,
-        "Cyprus": 2.15,
-        "Draw": 3.1
-      },
-      "Winamax (FR)": {
-        "Armenia": 3.25,
-        "Cyprus": 2.1,
-        "Draw": 3.3
-      },
-      "Betfair": {
-        "Armenia": 3.55,
-        "Cyprus": 2.28,
-        "Draw": 3.5
-      },
-      "Suprabets": {
-        "Armenia": 3.4,
-        "Cyprus": 2.19,
-        "Draw": 3.29
-      },
-      "LeoVegas (SE)": {
-        "Armenia": 3.3,
-        "Cyprus": 2.2,
-        "Draw": 3.3
-      },
-      "MyBookie.ag": {
-        "Armenia": 3.2,
-        "Cyprus": 2.17,
-        "Draw": 3.26
-      },
-      "Winamax (DE)": {
-        "Armenia": 3.35,
-        "Cyprus": 2.1,
-        "Draw": 3.35
-      },
-      "Marathon Bet": {
-        "Armenia": 3.35,
-        "Cyprus": 2.24,
-        "Draw": 3.35
-      },
-      "Betclic (FR)": {
-        "Armenia": 3.28,
-        "Cyprus": 2.15,
-        "Draw": 3.33
-      },
-      "1xBet": {
-        "Armenia": 3.39,
-        "Cyprus": 2.27,
-        "Draw": 3.39
-      },
-      "888sport": {
-        "Armenia": 3.3,
-        "Cyprus": 2.15,
-        "Draw": 3.1
-      },
-      "Nordic Bet": {
-        "Armenia": 3.35,
-        "Cyprus": 2.12,
-        "Draw": 3.2
-      },
-      "Betsson": {
-        "Armenia": 3.35,
-        "Cyprus": 2.12,
-        "Draw": 3.2
-      }
-    },
-    "32c438139763280b8efb86423e5b911e:h2h": {
-      "Betfair": {
-        "Latvia": 5.3,
-        "Montenegro": 1.8,
-        "Draw": 3.85
-      },
-      "Winamax (DE)": {
-        "Latvia": 4.6,
-        "Montenegro": 1.7,
-        "Draw": 3.8
-      },
-      "Betclic (FR)": {
-        "Latvia": 4.55,
-        "Montenegro": 1.69,
-        "Draw": 3.65
-      },
-      "Winamax (FR)": {
-        "Latvia": 4.5,
-        "Montenegro": 1.68,
-        "Draw": 3.7
-      },
-      "1xBet": {
-        "Latvia": 5.11,
-        "Montenegro": 1.75,
-        "Draw": 3.79
-      },
-      "Marathon Bet": {
-        "Latvia": 5.05,
-        "Montenegro": 1.73,
-        "Draw": 3.74
-      },
-      "Suprabets": {
-        "Latvia": 5.0,
-        "Montenegro": 1.73,
-        "Draw": 3.65
-      },
-      "LeoVegas (SE)": {
-        "Latvia": 5.0,
-        "Montenegro": 1.72,
-        "Draw": 3.6
-      },
-      "William Hill": {
-        "Latvia": 4.6,
-        "Montenegro": 1.73,
-        "Draw": 3.3
-      },
-      "Unibet (SE)": {
-        "Latvia": 5.0,
-        "Montenegro": 1.72,
-        "Draw": 3.6
-      },
-      "Nordic Bet": {
-        "Latvia": 4.9,
-        "Montenegro": 1.7,
-        "Draw": 3.45
-      },
-      "Betsson": {
-        "Latvia": 4.9,
-        "Montenegro": 1.7,
-        "Draw": 3.45
-      },
-      "MyBookie.ag": {
-        "Latvia": 4.7,
-        "Montenegro": 1.71,
-        "Draw": 3.55
-      },
-      "888sport": {
-        "Latvia": 4.8,
-        "Montenegro": 1.73,
+        "CD Eldense": 7.0,
+        "Oviedo": 1.5,
         "Draw": 3.4
-      }
-    },
-    "7b21e6b9edc89f57ed31f77d5da39cb6:h2h": {
+      },
       "Unibet (NL)": {
-        "Bayer Leverkusen": 1.67,
-        "Werder Bremen": 3.9,
-        "Draw": 3.7
+        "CD Eldense": 7.0,
+        "Oviedo": 1.5,
+        "Draw": 3.4
       },
-      "Unibet (SE)": {
-        "Bayer Leverkusen": 1.67,
-        "Werder Bremen": 3.9,
-        "Draw": 3.7
+      "Nordic Bet": {
+        "CD Eldense": 4.85,
+        "Oviedo": 1.75,
+        "Draw": 3.15
       },
-      "LeoVegas (SE)": {
-        "Bayer Leverkusen": 1.67,
-        "Werder Bremen": 3.9,
-        "Draw": 3.7
+      "Betclic (FR)": {
+        "CD Eldense": 4.6,
+        "Oviedo": 1.7,
+        "Draw": 3.0
       },
-      "Tipico": {
-        "Bayer Leverkusen": 1.6,
-        "Werder Bremen": 4.3,
-        "Draw": 4.0
+      "Betsson": {
+        "CD Eldense": 5.35,
+        "Oviedo": 1.68,
+        "Draw": 3.2
       },
-      "888sport": {
-        "Bayer Leverkusen": 1.61,
-        "Werder Bremen": 3.9,
-        "Draw": 3.9
+      "Winamax (FR)": {
+        "CD Eldense": 4.8,
+        "Oviedo": 1.64,
+        "Draw": 3.15
       },
-      "1xBet": {
-        "Bayer Leverkusen": 1.69,
-        "Werder Bremen": 4.26,
-        "Draw": 4.5
+      "Winamax (DE)": {
+        "CD Eldense": 5.1,
+        "Oviedo": 1.66,
+        "Draw": 3.25
+      },
+      "Coolbet": {
+        "CD Eldense": 5.5,
+        "Oviedo": 1.73,
+        "Draw": 3.25
       },
       "Pinnacle": {
-        "Bayer Leverkusen": 1.7,
-        "Werder Bremen": 4.05,
-        "Draw": 3.88
+        "CD Eldense": 6.19,
+        "Oviedo": 1.66,
+        "Draw": 3.37
       },
-      "William Hill": {
-        "Bayer Leverkusen": 1.62,
-        "Werder Bremen": 3.9,
+      "Betfair": {
+        "CD Eldense": 6.2,
+        "Oviedo": 1.77,
+        "Draw": 3.5
+      },
+      "Tipico": {
+        "CD Eldense": 4.7,
+        "Oviedo": 1.7,
+        "Draw": 3.4
+      },
+      "Matchbook": {
+        "CD Eldense": 6.0,
+        "Oviedo": 1.68,
+        "Draw": 3.2
+      }
+    },
+    "429e47b7c49fba99d5cbcba70b9c48c5:h2h": {
+      "Betclic (FR)": {
+        "Belgium": 1.2,
+        "Turkey": 10.5,
+        "Draw": 5.25
+      },
+      "Winamax (DE)": {
+        "Belgium": 1.23,
+        "Turkey": 9.5,
+        "Draw": 5.5
+      },
+      "Winamax (FR)": {
+        "Belgium": 1.24,
+        "Turkey": 9.0,
+        "Draw": 5.4
+      },
+      "Betfair": {
+        "Belgium": 1.27,
+        "Turkey": 14.5,
+        "Draw": 6.8
+      },
+      "Suprabets": {
+        "Belgium": 1.25,
+        "Turkey": 11.0,
+        "Draw": 5.9
+      },
+      "Matchbook": {
+        "Belgium": 1.28,
+        "Turkey": 13.5,
+        "Draw": 6.4
+      },
+      "MyBookie.ag": {
+        "Belgium": 1.25,
+        "Turkey": 9.0,
+        "Draw": 5.5
+      },
+      "Pinnacle": {
+        "Belgium": 1.26,
+        "Turkey": 12.34,
+        "Draw": 5.61
+      },
+      "Unibet (SE)": {
+        "Belgium": 1.21,
+        "Turkey": 12.0,
+        "Draw": 6.25
+      },
+      "LeoVegas (SE)": {
+        "Belgium": 1.19,
+        "Turkey": 11.0,
+        "Draw": 6.0
+      },
+      "888sport": {
+        "Belgium": 1.25,
+        "Turkey": 9.0,
+        "Draw": 5.5
+      },
+      "Nordic Bet": {
+        "Belgium": 1.2,
+        "Turkey": 11.5,
+        "Draw": 5.8
+      },
+      "Betsson": {
+        "Belgium": 1.2,
+        "Turkey": 11.5,
+        "Draw": 5.8
+      }
+    },
+    "9395310b961bef64848d22603bbcb67f:h2h": {
+      "Betsson": {
+        "Bohemians": 1.28,
+        "Dundalk": 8.2,
+        "Draw": 4.6
+      },
+      "Winamax (DE)": {
+        "Bohemians": 1.27,
+        "Dundalk": 9.0,
+        "Draw": 4.9
+      },
+      "Winamax (FR)": {
+        "Bohemians": 1.28,
+        "Dundalk": 8.5,
+        "Draw": 4.6
+      },
+      "Nordic Bet": {
+        "Bohemians": 1.28,
+        "Dundalk": 8.2,
+        "Draw": 4.6
+      },
+      "Tipico": {
+        "Bohemians": 1.25,
+        "Dundalk": 9.0,
+        "Draw": 5.2
+      },
+      "Pinnacle": {
+        "Bohemians": 1.86,
+        "Dundalk": 4.29,
+        "Draw": 3.38
+      },
+      "Unibet (SE)": {
+        "Bohemians": 1.25,
+        "Dundalk": 9.5,
+        "Draw": 5.2
+      },
+      "Unibet (NL)": {
+        "Bohemians": 1.24,
+        "Dundalk": 9.5,
+        "Draw": 5.25
+      },
+      "LeoVegas (SE)": {
+        "Bohemians": 1.17,
+        "Dundalk": 9.0,
+        "Draw": 5.0
+      },
+      "Coolbet": {
+        "Bohemians": 1.29,
+        "Dundalk": 9.0,
+        "Draw": 5.0
+      },
+      "Betfair": {
+        "Bohemians": 1.88,
+        "Dundalk": 4.9,
+        "Draw": 3.7
+      },
+      "Matchbook": {
+        "Bohemians": 1.31,
+        "Dundalk": 12.0,
+        "Draw": 5.8
+      }
+    },
+    "e5ef3c5aba98aed80abcb9eb0d592bff:h2h": {
+      "MyBookie.ag": {
+        "France": 1.55,
+        "Italy": 5.25,
+        "Draw": 3.7
+      },
+      "Betclic (FR)": {
+        "France": 1.52,
+        "Italy": 5.5,
+        "Draw": 3.6
+      },
+      "Winamax (FR)": {
+        "France": 1.5,
+        "Italy": 5.6,
+        "Draw": 3.55
+      },
+      "Winamax (DE)": {
+        "France": 1.52,
+        "Italy": 5.8,
+        "Draw": 3.65
+      },
+      "Suprabets": {
+        "France": 1.55,
+        "Italy": 6.0,
+        "Draw": 4.0
+      },
+      "Pinnacle": {
+        "France": 1.55,
+        "Italy": 6.37,
+        "Draw": 3.92
+      },
+      "Betfair": {
+        "France": 1.57,
+        "Italy": 7.4,
+        "Draw": 4.3
+      },
+      "Matchbook": {
+        "France": 1.56,
+        "Italy": 7.6,
+        "Draw": 4.2
+      },
+      "LeoVegas (SE)": {
+        "France": 1.49,
+        "Italy": 6.1,
+        "Draw": 3.75
+      },
+      "Unibet (SE)": {
+        "France": 1.51,
+        "Italy": 6.4,
         "Draw": 3.9
+      },
+      "888sport": {
+        "France": 1.5,
+        "Italy": 5.5,
+        "Draw": 4.0
+      },
+      "Betsson": {
+        "France": 1.52,
+        "Italy": 6.3,
+        "Draw": 3.65
+      },
+      "Nordic Bet": {
+        "France": 1.52,
+        "Italy": 6.3,
+        "Draw": 3.65
       }
     }
   },
@@ -1423,10 +1433,502 @@
       "confidence": 7,
       "alert_type": "value",
       "alerted_at": "2026-10-02T05:27:17.738312+00:00"
+    },
+    {
+      "state_key": "4e80b0be6c8fc9acf52057d1d3baeb2b:h2h",
+      "event_id": "4e80b0be6c8fc9acf52057d1d3baeb2b",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "CD Eldense",
+      "away_team": "Oviedo",
+      "commence_time": "2026-10-02T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "CD Eldense",
+      "odds_at_alert": 7.0,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-10-02T19:13:05.810742+00:00"
+    },
+    {
+      "state_key": "4e80b0be6c8fc9acf52057d1d3baeb2b:h2h",
+      "event_id": "4e80b0be6c8fc9acf52057d1d3baeb2b",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "CD Eldense",
+      "away_team": "Oviedo",
+      "commence_time": "2026-10-02T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "CD Eldense",
+      "odds_at_alert": 7.0,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-10-02T19:13:06.175342+00:00"
+    },
+    {
+      "state_key": "429e47b7c49fba99d5cbcba70b9c48c5:h2h",
+      "event_id": "429e47b7c49fba99d5cbcba70b9c48c5",
+      "sport_key": "soccer",
+      "competition": "UEFA Nations League",
+      "home_team": "Belgium",
+      "away_team": "Turkey",
+      "commence_time": "2026-10-02T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Turkey",
+      "odds_at_alert": 14.5,
+      "stake_pct": 3.0,
+      "confidence": 12,
+      "alert_type": "value",
+      "alerted_at": "2026-10-02T19:13:06.670636+00:00"
+    },
+    {
+      "state_key": "429e47b7c49fba99d5cbcba70b9c48c5:h2h",
+      "event_id": "429e47b7c49fba99d5cbcba70b9c48c5",
+      "sport_key": "soccer",
+      "competition": "UEFA Nations League",
+      "home_team": "Belgium",
+      "away_team": "Turkey",
+      "commence_time": "2026-10-02T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.8,
+      "stake_pct": 5.0,
+      "confidence": 15,
+      "alert_type": "value",
+      "alerted_at": "2026-10-02T19:13:07.067363+00:00"
+    },
+    {
+      "state_key": "429e47b7c49fba99d5cbcba70b9c48c5:h2h",
+      "event_id": "429e47b7c49fba99d5cbcba70b9c48c5",
+      "sport_key": "soccer",
+      "competition": "UEFA Nations League",
+      "home_team": "Belgium",
+      "away_team": "Turkey",
+      "commence_time": "2026-10-02T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.4,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-10-02T19:13:07.403361+00:00"
+    },
+    {
+      "state_key": "429e47b7c49fba99d5cbcba70b9c48c5:h2h",
+      "event_id": "429e47b7c49fba99d5cbcba70b9c48c5",
+      "sport_key": "soccer",
+      "competition": "UEFA Nations League",
+      "home_team": "Belgium",
+      "away_team": "Turkey",
+      "commence_time": "2026-10-02T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.25,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-10-02T19:13:07.737339+00:00"
+    },
+    {
+      "state_key": "9395310b961bef64848d22603bbcb67f:h2h",
+      "event_id": "9395310b961bef64848d22603bbcb67f",
+      "sport_key": "soccer",
+      "competition": "League of Ireland",
+      "home_team": "Dundalk",
+      "away_team": "Bohemians",
+      "commence_time": "2026-10-02T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Dundalk",
+      "odds_at_alert": 8.2,
+      "stake_pct": 5.0,
+      "confidence": 79,
+      "alert_type": "value",
+      "alerted_at": "2026-10-02T19:13:08.117143+00:00"
+    },
+    {
+      "state_key": "9395310b961bef64848d22603bbcb67f:h2h",
+      "event_id": "9395310b961bef64848d22603bbcb67f",
+      "sport_key": "soccer",
+      "competition": "League of Ireland",
+      "home_team": "Dundalk",
+      "away_team": "Bohemians",
+      "commence_time": "2026-10-02T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.6,
+      "stake_pct": 5.0,
+      "confidence": 28,
+      "alert_type": "value",
+      "alerted_at": "2026-10-02T19:13:08.451926+00:00"
+    },
+    {
+      "state_key": "9395310b961bef64848d22603bbcb67f:h2h",
+      "event_id": "9395310b961bef64848d22603bbcb67f",
+      "sport_key": "soccer",
+      "competition": "League of Ireland",
+      "home_team": "Dundalk",
+      "away_team": "Bohemians",
+      "commence_time": "2026-10-02T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Dundalk",
+      "odds_at_alert": 9.0,
+      "stake_pct": 5.0,
+      "confidence": 97,
+      "alert_type": "value",
+      "alerted_at": "2026-10-02T19:13:08.796640+00:00"
+    },
+    {
+      "state_key": "9395310b961bef64848d22603bbcb67f:h2h",
+      "event_id": "9395310b961bef64848d22603bbcb67f",
+      "sport_key": "soccer",
+      "competition": "League of Ireland",
+      "home_team": "Dundalk",
+      "away_team": "Bohemians",
+      "commence_time": "2026-10-02T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.9,
+      "stake_pct": 5.0,
+      "confidence": 36,
+      "alert_type": "value",
+      "alerted_at": "2026-10-02T19:13:09.184626+00:00"
+    },
+    {
+      "state_key": "9395310b961bef64848d22603bbcb67f:h2h",
+      "event_id": "9395310b961bef64848d22603bbcb67f",
+      "sport_key": "soccer",
+      "competition": "League of Ireland",
+      "home_team": "Dundalk",
+      "away_team": "Bohemians",
+      "commence_time": "2026-10-02T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Dundalk",
+      "odds_at_alert": 8.5,
+      "stake_pct": 5.0,
+      "confidence": 86,
+      "alert_type": "value",
+      "alerted_at": "2026-10-02T19:13:09.546276+00:00"
+    },
+    {
+      "state_key": "9395310b961bef64848d22603bbcb67f:h2h",
+      "event_id": "9395310b961bef64848d22603bbcb67f",
+      "sport_key": "soccer",
+      "competition": "League of Ireland",
+      "home_team": "Dundalk",
+      "away_team": "Bohemians",
+      "commence_time": "2026-10-02T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.6,
+      "stake_pct": 5.0,
+      "confidence": 28,
+      "alert_type": "value",
+      "alerted_at": "2026-10-02T19:13:09.893403+00:00"
+    },
+    {
+      "state_key": "9395310b961bef64848d22603bbcb67f:h2h",
+      "event_id": "9395310b961bef64848d22603bbcb67f",
+      "sport_key": "soccer",
+      "competition": "League of Ireland",
+      "home_team": "Dundalk",
+      "away_team": "Bohemians",
+      "commence_time": "2026-10-02T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Dundalk",
+      "odds_at_alert": 8.2,
+      "stake_pct": 5.0,
+      "confidence": 79,
+      "alert_type": "value",
+      "alerted_at": "2026-10-02T19:13:10.300540+00:00"
+    },
+    {
+      "state_key": "9395310b961bef64848d22603bbcb67f:h2h",
+      "event_id": "9395310b961bef64848d22603bbcb67f",
+      "sport_key": "soccer",
+      "competition": "League of Ireland",
+      "home_team": "Dundalk",
+      "away_team": "Bohemians",
+      "commence_time": "2026-10-02T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.6,
+      "stake_pct": 5.0,
+      "confidence": 28,
+      "alert_type": "value",
+      "alerted_at": "2026-10-02T19:13:10.702860+00:00"
+    },
+    {
+      "state_key": "9395310b961bef64848d22603bbcb67f:h2h",
+      "event_id": "9395310b961bef64848d22603bbcb67f",
+      "sport_key": "soccer",
+      "competition": "League of Ireland",
+      "home_team": "Dundalk",
+      "away_team": "Bohemians",
+      "commence_time": "2026-10-02T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Dundalk",
+      "odds_at_alert": 9.0,
+      "stake_pct": 5.0,
+      "confidence": 97,
+      "alert_type": "value",
+      "alerted_at": "2026-10-02T19:13:11.077969+00:00"
+    },
+    {
+      "state_key": "9395310b961bef64848d22603bbcb67f:h2h",
+      "event_id": "9395310b961bef64848d22603bbcb67f",
+      "sport_key": "soccer",
+      "competition": "League of Ireland",
+      "home_team": "Dundalk",
+      "away_team": "Bohemians",
+      "commence_time": "2026-10-02T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.2,
+      "stake_pct": 5.0,
+      "confidence": 44,
+      "alert_type": "value",
+      "alerted_at": "2026-10-02T19:13:11.444047+00:00"
+    },
+    {
+      "state_key": "9395310b961bef64848d22603bbcb67f:h2h",
+      "event_id": "9395310b961bef64848d22603bbcb67f",
+      "sport_key": "soccer",
+      "competition": "League of Ireland",
+      "home_team": "Dundalk",
+      "away_team": "Bohemians",
+      "commence_time": "2026-10-02T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Dundalk",
+      "odds_at_alert": 9.5,
+      "stake_pct": 5.0,
+      "confidence": 108,
+      "alert_type": "value",
+      "alerted_at": "2026-10-02T19:13:11.791090+00:00"
+    },
+    {
+      "state_key": "9395310b961bef64848d22603bbcb67f:h2h",
+      "event_id": "9395310b961bef64848d22603bbcb67f",
+      "sport_key": "soccer",
+      "competition": "League of Ireland",
+      "home_team": "Dundalk",
+      "away_team": "Bohemians",
+      "commence_time": "2026-10-02T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.2,
+      "stake_pct": 5.0,
+      "confidence": 44,
+      "alert_type": "value",
+      "alerted_at": "2026-10-02T19:13:12.141950+00:00"
+    },
+    {
+      "state_key": "9395310b961bef64848d22603bbcb67f:h2h",
+      "event_id": "9395310b961bef64848d22603bbcb67f",
+      "sport_key": "soccer",
+      "competition": "League of Ireland",
+      "home_team": "Dundalk",
+      "away_team": "Bohemians",
+      "commence_time": "2026-10-02T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Dundalk",
+      "odds_at_alert": 9.5,
+      "stake_pct": 5.0,
+      "confidence": 108,
+      "alert_type": "value",
+      "alerted_at": "2026-10-02T19:13:12.497881+00:00"
+    },
+    {
+      "state_key": "9395310b961bef64848d22603bbcb67f:h2h",
+      "event_id": "9395310b961bef64848d22603bbcb67f",
+      "sport_key": "soccer",
+      "competition": "League of Ireland",
+      "home_team": "Dundalk",
+      "away_team": "Bohemians",
+      "commence_time": "2026-10-02T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.25,
+      "stake_pct": 5.0,
+      "confidence": 46,
+      "alert_type": "value",
+      "alerted_at": "2026-10-02T19:13:12.849166+00:00"
+    },
+    {
+      "state_key": "9395310b961bef64848d22603bbcb67f:h2h",
+      "event_id": "9395310b961bef64848d22603bbcb67f",
+      "sport_key": "soccer",
+      "competition": "League of Ireland",
+      "home_team": "Dundalk",
+      "away_team": "Bohemians",
+      "commence_time": "2026-10-02T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Dundalk",
+      "odds_at_alert": 9.0,
+      "stake_pct": 5.0,
+      "confidence": 97,
+      "alert_type": "value",
+      "alerted_at": "2026-10-02T19:13:13.178748+00:00"
+    },
+    {
+      "state_key": "9395310b961bef64848d22603bbcb67f:h2h",
+      "event_id": "9395310b961bef64848d22603bbcb67f",
+      "sport_key": "soccer",
+      "competition": "League of Ireland",
+      "home_team": "Dundalk",
+      "away_team": "Bohemians",
+      "commence_time": "2026-10-02T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.0,
+      "stake_pct": 5.0,
+      "confidence": 39,
+      "alert_type": "value",
+      "alerted_at": "2026-10-02T19:13:13.562093+00:00"
+    },
+    {
+      "state_key": "9395310b961bef64848d22603bbcb67f:h2h",
+      "event_id": "9395310b961bef64848d22603bbcb67f",
+      "sport_key": "soccer",
+      "competition": "League of Ireland",
+      "home_team": "Dundalk",
+      "away_team": "Bohemians",
+      "commence_time": "2026-10-02T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Dundalk",
+      "odds_at_alert": 9.0,
+      "stake_pct": 5.0,
+      "confidence": 97,
+      "alert_type": "value",
+      "alerted_at": "2026-10-02T19:13:13.991390+00:00"
+    },
+    {
+      "state_key": "9395310b961bef64848d22603bbcb67f:h2h",
+      "event_id": "9395310b961bef64848d22603bbcb67f",
+      "sport_key": "soccer",
+      "competition": "League of Ireland",
+      "home_team": "Dundalk",
+      "away_team": "Bohemians",
+      "commence_time": "2026-10-02T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.0,
+      "stake_pct": 5.0,
+      "confidence": 39,
+      "alert_type": "value",
+      "alerted_at": "2026-10-02T19:13:14.343642+00:00"
+    },
+    {
+      "state_key": "9395310b961bef64848d22603bbcb67f:h2h",
+      "event_id": "9395310b961bef64848d22603bbcb67f",
+      "sport_key": "soccer",
+      "competition": "League of Ireland",
+      "home_team": "Dundalk",
+      "away_team": "Bohemians",
+      "commence_time": "2026-10-02T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Dundalk",
+      "odds_at_alert": 4.9,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-10-02T19:13:14.724595+00:00"
+    },
+    {
+      "state_key": "9395310b961bef64848d22603bbcb67f:h2h",
+      "event_id": "9395310b961bef64848d22603bbcb67f",
+      "sport_key": "soccer",
+      "competition": "League of Ireland",
+      "home_team": "Dundalk",
+      "away_team": "Bohemians",
+      "commence_time": "2026-10-02T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Dundalk",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 162,
+      "alert_type": "value",
+      "alerted_at": "2026-10-02T19:13:15.090007+00:00"
+    },
+    {
+      "state_key": "9395310b961bef64848d22603bbcb67f:h2h",
+      "event_id": "9395310b961bef64848d22603bbcb67f",
+      "sport_key": "soccer",
+      "competition": "League of Ireland",
+      "home_team": "Dundalk",
+      "away_team": "Bohemians",
+      "commence_time": "2026-10-02T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.8,
+      "stake_pct": 5.0,
+      "confidence": 61,
+      "alert_type": "value",
+      "alerted_at": "2026-10-02T19:13:15.432864+00:00"
+    },
+    {
+      "state_key": "e5ef3c5aba98aed80abcb9eb0d592bff:h2h",
+      "event_id": "e5ef3c5aba98aed80abcb9eb0d592bff",
+      "sport_key": "soccer",
+      "competition": "UEFA Nations League",
+      "home_team": "France",
+      "away_team": "Italy",
+      "commence_time": "2026-10-02T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Italy",
+      "odds_at_alert": 7.4,
+      "stake_pct": 2.0,
+      "confidence": 10,
+      "alert_type": "value",
+      "alerted_at": "2026-10-02T19:13:15.823534+00:00"
+    },
+    {
+      "state_key": "e5ef3c5aba98aed80abcb9eb0d592bff:h2h",
+      "event_id": "e5ef3c5aba98aed80abcb9eb0d592bff",
+      "sport_key": "soccer",
+      "competition": "UEFA Nations League",
+      "home_team": "France",
+      "away_team": "Italy",
+      "commence_time": "2026-10-02T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Italy",
+      "odds_at_alert": 7.6,
+      "stake_pct": 3.0,
+      "confidence": 13,
+      "alert_type": "value",
+      "alerted_at": "2026-10-02T19:13:16.153771+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "7b21e6b9edc89f57ed31f77d5da39cb6:h2h|1xBet|Draw"
+    "429e47b7c49fba99d5cbcba70b9c48c5:h2h|Betfair|Draw",
+    "429e47b7c49fba99d5cbcba70b9c48c5:h2h|Betfair|Turkey",
+    "429e47b7c49fba99d5cbcba70b9c48c5:h2h|Matchbook|Draw",
+    "429e47b7c49fba99d5cbcba70b9c48c5:h2h|Unibet (SE)|Draw",
+    "4e80b0be6c8fc9acf52057d1d3baeb2b:h2h|Unibet (NL)|CD Eldense",
+    "4e80b0be6c8fc9acf52057d1d3baeb2b:h2h|Unibet (SE)|CD Eldense",
+    "9395310b961bef64848d22603bbcb67f:h2h|Betfair|Dundalk",
+    "9395310b961bef64848d22603bbcb67f:h2h|Betsson|Draw",
+    "9395310b961bef64848d22603bbcb67f:h2h|Betsson|Dundalk",
+    "9395310b961bef64848d22603bbcb67f:h2h|Coolbet|Draw",
+    "9395310b961bef64848d22603bbcb67f:h2h|Coolbet|Dundalk",
+    "9395310b961bef64848d22603bbcb67f:h2h|LeoVegas (SE)|Draw",
+    "9395310b961bef64848d22603bbcb67f:h2h|LeoVegas (SE)|Dundalk",
+    "9395310b961bef64848d22603bbcb67f:h2h|Matchbook|Draw",
+    "9395310b961bef64848d22603bbcb67f:h2h|Matchbook|Dundalk",
+    "9395310b961bef64848d22603bbcb67f:h2h|Nordic Bet|Draw",
+    "9395310b961bef64848d22603bbcb67f:h2h|Nordic Bet|Dundalk",
+    "9395310b961bef64848d22603bbcb67f:h2h|Tipico|Draw",
+    "9395310b961bef64848d22603bbcb67f:h2h|Tipico|Dundalk",
+    "9395310b961bef64848d22603bbcb67f:h2h|Unibet (NL)|Draw",
+    "9395310b961bef64848d22603bbcb67f:h2h|Unibet (NL)|Dundalk",
+    "9395310b961bef64848d22603bbcb67f:h2h|Unibet (SE)|Draw",
+    "9395310b961bef64848d22603bbcb67f:h2h|Unibet (SE)|Dundalk",
+    "9395310b961bef64848d22603bbcb67f:h2h|Winamax (DE)|Draw",
+    "9395310b961bef64848d22603bbcb67f:h2h|Winamax (DE)|Dundalk",
+    "9395310b961bef64848d22603bbcb67f:h2h|Winamax (FR)|Draw",
+    "9395310b961bef64848d22603bbcb67f:h2h|Winamax (FR)|Dundalk",
+    "e5ef3c5aba98aed80abcb9eb0d592bff:h2h|Betfair|Italy",
+    "e5ef3c5aba98aed80abcb9eb0d592bff:h2h|Matchbook|Italy"
   ]
 }
