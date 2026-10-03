@@ -1,72 +1,261 @@
 {
   "snapshots": {
-    "927cffe5b9e767db9ea09629ead4f944:h2h": {
-      "Unibet (NL)": {
-        "Avai": 13.0,
-        "Ceará": 12.5,
-        "Draw": 1.03
+    "d6d153e51e6a634e23ea438909779061:h2h": {
+      "Winamax (FR)": {
+        "Atlético Tucuman": 1.21,
+        "Barracas Central": 19.0,
+        "Draw": 4.8
       },
-      "LeoVegas (SE)": {
-        "Avai": 13.0,
-        "Ceará": 12.5,
-        "Draw": 1.03
+      "Winamax (DE)": {
+        "Atlético Tucuman": 1.19,
+        "Barracas Central": 19.0,
+        "Draw": 5.1
       },
-      "Coolbet": {
-        "Avai": 10.0,
-        "Ceará": 12.5,
-        "Draw": 1.1
-      },
-      "Pinnacle": {
-        "Avai": 4.77,
-        "Ceará": 6.86,
-        "Draw": 1.41
+      "Betclic (FR)": {
+        "Atlético Tucuman": 1.17,
+        "Barracas Central": 15.0,
+        "Draw": 4.5
       },
       "Nordic Bet": {
-        "Avai": 1.0,
-        "Ceará": 1.0,
-        "Draw": 1.0
+        "Atlético Tucuman": 1.18,
+        "Barracas Central": 17.5,
+        "Draw": 5.35
       },
       "Betsson": {
-        "Avai": 150.0,
-        "Ceará": 1.01,
-        "Draw": 13.0
+        "Atlético Tucuman": 1.2,
+        "Barracas Central": 17.5,
+        "Draw": 4.85
       },
-      "Tipico": {
-        "Avai": 300.0,
-        "Ceará": 1.01,
-        "Draw": 20.0
+      "LeoVegas (SE)": {
+        "Atlético Tucuman": 1.16,
+        "Barracas Central": 17.0,
+        "Draw": 4.7
       },
-      "Betfair": {
-        "Avai": 120.0,
-        "Ceará": 1.03,
-        "Draw": 15.0
-      }
-    },
-    "7be9430a9ed662defe81be045c2be501:h2h": {
-      "Coolbet": {
-        "Rochdale": 1.0,
-        "Swindon Town": 50.0,
-        "Draw": 16.0
-      },
-      "Codere (IT)": {
-        "Rochdale": 2.18,
-        "Swindon Town": 2.85,
-        "Draw": 3.45
+      "Unibet (SE)": {
+        "Atlético Tucuman": 1.21,
+        "Barracas Central": 18.0,
+        "Draw": 5.2
       },
       "Pinnacle": {
-        "Rochdale": 4.92,
-        "Swindon Town": 6.22,
-        "Draw": 1.41
+        "Atlético Tucuman": 1.24,
+        "Barracas Central": 21.98,
+        "Draw": 4.93
       },
       "Betfair": {
-        "Rochdale": 1.01,
-        "Swindon Town": 1.01,
-        "Draw": 1.3
+        "Atlético Tucuman": 1.27,
+        "Barracas Central": 25.0,
+        "Draw": 5.5
+      }
+    },
+    "650866b10c18149fc1b528c4f2e263a5:h2h": {
+      "Unibet (NL)": {
+        "Cuiabá": 1.01,
+        "Ponte Preta": 41.0,
+        "Draw": 10.5
+      },
+      "Unibet (SE)": {
+        "Cuiabá": 1.05,
+        "Ponte Preta": 46.0,
+        "Draw": 11.0
+      },
+      "LeoVegas (SE)": {
+        "Cuiabá": 1.01,
+        "Ponte Preta": 41.0,
+        "Draw": 10.5
+      },
+      "Nordic Bet": {
+        "Cuiabá": 1.04,
+        "Ponte Preta": 65.0,
+        "Draw": 10.0
+      },
+      "Coolbet": {
+        "Cuiabá": 1.03,
+        "Ponte Preta": 50.0,
+        "Draw": 10.0
+      },
+      "888sport": {
+        "Cuiabá": 1.04,
+        "Ponte Preta": 81.0,
+        "Draw": 13.0
+      },
+      "Betsson": {
+        "Cuiabá": 1.04,
+        "Ponte Preta": 60.0,
+        "Draw": 10.0
+      },
+      "Matchbook": {
+        "Cuiabá": 1.06,
+        "Ponte Preta": 130.0,
+        "Draw": 16.5
+      },
+      "Betfair": {
+        "Cuiabá": 1.06,
+        "Ponte Preta": 80.0,
+        "Draw": 15.5
+      }
+    },
+    "2af9d1ce2cc79e9caa358954abd751cf:h2h": {
+      "Winamax (FR)": {
+        "Lanus": 3.2,
+        "Newells Old Boys": 3.45,
+        "Draw": 1.88
+      },
+      "Winamax (DE)": {
+        "Lanus": 3.3,
+        "Newells Old Boys": 3.55,
+        "Draw": 1.92
+      },
+      "Betclic (FR)": {
+        "Lanus": 3.15,
+        "Newells Old Boys": 3.4,
+        "Draw": 1.9
+      },
+      "Nordic Bet": {
+        "Lanus": 3.3,
+        "Newells Old Boys": 3.65,
+        "Draw": 1.92
+      },
+      "Betsson": {
+        "Lanus": 3.3,
+        "Newells Old Boys": 3.5,
+        "Draw": 1.95
+      },
+      "Unibet (SE)": {
+        "Lanus": 3.25,
+        "Newells Old Boys": 3.5,
+        "Draw": 2.06
+      },
+      "LeoVegas (SE)": {
+        "Lanus": 3.0,
+        "Newells Old Boys": 3.3,
+        "Draw": 1.92
+      },
+      "Pinnacle": {
+        "Lanus": 3.57,
+        "Newells Old Boys": 3.93,
+        "Draw": 1.91
+      },
+      "Betfair": {
+        "Lanus": 3.55,
+        "Newells Old Boys": 4.2,
+        "Draw": 2.02
+      }
+    },
+    "06ec8fc327d7d28f601dc60796a20c65:h2h": {
+      "MyBookie.ag": {
+        "Atletico Mineiro": 2.14,
+        "Bragantino-SP": 3.3,
+        "Draw": 3.44
+      },
+      "Unibet (FR)": {
+        "Atletico Mineiro": 1.94,
+        "Bragantino-SP": 3.1,
+        "Draw": 3.3
+      },
+      "Codere (IT)": {
+        "Atletico Mineiro": 2.14,
+        "Bragantino-SP": 3.3,
+        "Draw": 3.45
+      },
+      "Coolbet": {
+        "Atletico Mineiro": 2.12,
+        "Bragantino-SP": 3.3,
+        "Draw": 3.6
+      },
+      "Winamax (FR)": {
+        "Atletico Mineiro": 2.0,
+        "Bragantino-SP": 3.05,
+        "Draw": 3.35
+      },
+      "Betclic (FR)": {
+        "Atletico Mineiro": 1.98,
+        "Bragantino-SP": 3.08,
+        "Draw": 3.2
+      },
+      "Winamax (DE)": {
+        "Atletico Mineiro": 2.05,
+        "Bragantino-SP": 3.1,
+        "Draw": 3.4
+      },
+      "1xBet": {
+        "Atletico Mineiro": 2.1,
+        "Bragantino-SP": 3.53,
+        "Draw": 3.55
+      },
+      "Pinnacle": {
+        "Atletico Mineiro": 2.16,
+        "Bragantino-SP": 3.48,
+        "Draw": 3.54
+      },
+      "888sport": {
+        "Atletico Mineiro": 2.1,
+        "Bragantino-SP": 3.3,
+        "Draw": 3.25
+      },
+      "William Hill": {
+        "Atletico Mineiro": 2.1,
+        "Bragantino-SP": 3.3,
+        "Draw": 3.25
+      },
+      "Marathon Bet": {
+        "Atletico Mineiro": 2.03,
+        "Bragantino-SP": 3.42,
+        "Draw": 3.44
+      },
+      "Nordic Bet": {
+        "Atletico Mineiro": 2.05,
+        "Bragantino-SP": 3.35,
+        "Draw": 3.3
+      },
+      "Betsson": {
+        "Atletico Mineiro": 2.08,
+        "Bragantino-SP": 3.35,
+        "Draw": 3.35
       },
       "Tipico": {
-        "Rochdale": 1.01,
-        "Swindon Town": 250.0,
-        "Draw": 20.0
+        "Atletico Mineiro": 1.97,
+        "Bragantino-SP": 3.5,
+        "Draw": 3.4
+      },
+      "Unibet (SE)": {
+        "Atletico Mineiro": 1.96,
+        "Bragantino-SP": 3.6,
+        "Draw": 3.45
+      },
+      "Unibet (NL)": {
+        "Atletico Mineiro": 1.96,
+        "Bragantino-SP": 3.6,
+        "Draw": 3.45
+      },
+      "LeoVegas (SE)": {
+        "Atletico Mineiro": 1.92,
+        "Bragantino-SP": 3.45,
+        "Draw": 3.3
+      },
+      "Matchbook": {
+        "Atletico Mineiro": 2.2,
+        "Bragantino-SP": 3.7,
+        "Draw": 3.55
+      },
+      "GTbets": {
+        "Atletico Mineiro": 2.08,
+        "Bragantino-SP": 3.49,
+        "Draw": 3.58
+      },
+      "BetOnline.ag": {
+        "Atletico Mineiro": 2.1,
+        "Bragantino-SP": 3.54,
+        "Draw": 3.6
+      },
+      "Betfair": {
+        "Atletico Mineiro": 2.2,
+        "Bragantino-SP": 3.7,
+        "Draw": 3.55
+      },
+      "BetAnything": {
+        "Atletico Mineiro": 2.1,
+        "Bragantino-SP": 3.45,
+        "Draw": 3.5
       }
     }
   },
@@ -2279,26 +2468,43 @@
       "confidence": 1222,
       "alert_type": "value",
       "alerted_at": "2026-10-03T16:11:00.539423+00:00"
+    },
+    {
+      "state_key": "d6d153e51e6a634e23ea438909779061:h2h",
+      "event_id": "d6d153e51e6a634e23ea438909779061",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Atlético Tucuman",
+      "away_team": "Barracas Central",
+      "commence_time": "2026-10-03T20:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Barracas Central",
+      "odds_at_alert": 25.0,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-10-03T21:09:15.826056+00:00"
+    },
+    {
+      "state_key": "d6d153e51e6a634e23ea438909779061:h2h",
+      "event_id": "d6d153e51e6a634e23ea438909779061",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Atlético Tucuman",
+      "away_team": "Barracas Central",
+      "commence_time": "2026-10-03T20:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.5,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-10-03T21:09:16.173750+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "7be9430a9ed662defe81be045c2be501:h2h|Codere (IT)|Draw",
-    "7be9430a9ed662defe81be045c2be501:h2h|Coolbet|Draw",
-    "7be9430a9ed662defe81be045c2be501:h2h|Coolbet|Swindon Town",
-    "7be9430a9ed662defe81be045c2be501:h2h|Tipico|Draw",
-    "7be9430a9ed662defe81be045c2be501:h2h|Tipico|Swindon Town",
-    "927cffe5b9e767db9ea09629ead4f944:h2h|Betfair|Avai",
-    "927cffe5b9e767db9ea09629ead4f944:h2h|Betfair|Draw",
-    "927cffe5b9e767db9ea09629ead4f944:h2h|Betsson|Avai",
-    "927cffe5b9e767db9ea09629ead4f944:h2h|Betsson|Draw",
-    "927cffe5b9e767db9ea09629ead4f944:h2h|Coolbet|Avai",
-    "927cffe5b9e767db9ea09629ead4f944:h2h|Coolbet|Ceará",
-    "927cffe5b9e767db9ea09629ead4f944:h2h|LeoVegas (SE)|Avai",
-    "927cffe5b9e767db9ea09629ead4f944:h2h|LeoVegas (SE)|Ceará",
-    "927cffe5b9e767db9ea09629ead4f944:h2h|Tipico|Avai",
-    "927cffe5b9e767db9ea09629ead4f944:h2h|Tipico|Draw",
-    "927cffe5b9e767db9ea09629ead4f944:h2h|Unibet (NL)|Avai",
-    "927cffe5b9e767db9ea09629ead4f944:h2h|Unibet (NL)|Ceará"
+    "d6d153e51e6a634e23ea438909779061:h2h|Betfair|Barracas Central",
+    "d6d153e51e6a634e23ea438909779061:h2h|Betfair|Draw"
   ]
 }
