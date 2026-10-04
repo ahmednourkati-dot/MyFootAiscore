@@ -1,251 +1,241 @@
 {
   "snapshots": {
-    "0252aa8aa288110875328f57c90ad534:h2h": {
-      "Tipico": {
-        "Union Berlin": 1.02,
-        "VfB Stuttgart": 30.0,
-        "Draw": 12.0
-      },
-      "Unibet (SE)": {
-        "Union Berlin": 1.08,
-        "VfB Stuttgart": 19.0,
-        "Draw": 8.0
-      },
-      "LeoVegas (SE)": {
-        "Union Berlin": 1.04,
-        "VfB Stuttgart": 20.0,
-        "Draw": 8.0
-      },
-      "William Hill": {
-        "Union Berlin": 1.04,
-        "VfB Stuttgart": 36.0,
-        "Draw": 11.0
-      },
-      "Unibet (NL)": {
-        "Union Berlin": 1.08,
-        "VfB Stuttgart": 19.0,
-        "Draw": 8.0
-      },
-      "888sport": {
-        "Union Berlin": 1.04,
-        "VfB Stuttgart": 41.0,
-        "Draw": 12.0
-      }
-    },
-    "429c16be4cc62dc2acb2799d91abd94a:h2h": {
-      "LeoVegas (SE)": {
-        "Celta Fortuna": 25.0,
-        "Sporting Gijón": 1.04,
-        "Draw": 7.0
-      },
-      "Unibet (SE)": {
-        "Celta Fortuna": 25.0,
-        "Sporting Gijón": 1.09,
-        "Draw": 7.5
-      },
-      "Betclic (FR)": {
-        "Celta Fortuna": 30.0,
-        "Sporting Gijón": 1.03,
-        "Draw": 9.0
-      },
-      "Nordic Bet": {
-        "Celta Fortuna": 30.0,
-        "Sporting Gijón": 1.08,
-        "Draw": 7.7
-      },
-      "Betsson": {
-        "Celta Fortuna": 36.0,
-        "Sporting Gijón": 1.07,
-        "Draw": 8.2
-      },
+    "aa690fd7e46982c83048052821dc9cc6:h2h": {
       "Winamax (FR)": {
-        "Celta Fortuna": 44.0,
-        "Sporting Gijón": 1.1,
-        "Draw": 7.75
+        "Aldosivi Mar del Plata": 450.0,
+        "Atlético Huracán": 1.03,
+        "Draw": 17.0
       },
       "Winamax (DE)": {
-        "Celta Fortuna": 44.0,
-        "Sporting Gijón": 1.06,
-        "Draw": 8.0
+        "Aldosivi Mar del Plata": 450.0,
+        "Atlético Huracán": 1.02,
+        "Draw": 18.0
       },
-      "Pinnacle": {
-        "Celta Fortuna": 4.86,
-        "Sporting Gijón": 2.32,
-        "Draw": 2.37
-      },
-      "Tipico": {
-        "Celta Fortuna": 35.0,
-        "Sporting Gijón": 1.03,
+      "Betclic (FR)": {
+        "Aldosivi Mar del Plata": 55.0,
+        "Atlético Huracán": 1.02,
         "Draw": 10.0
       },
-      "Coolbet": {
-        "Celta Fortuna": 40.0,
-        "Sporting Gijón": 1.08,
-        "Draw": 8.0
+      "Nordic Bet": {
+        "Aldosivi Mar del Plata": 130.0,
+        "Atlético Huracán": 1.02,
+        "Draw": 12.0
+      },
+      "Betsson": {
+        "Aldosivi Mar del Plata": 100.0,
+        "Atlético Huracán": 1.02,
+        "Draw": 12.0
+      },
+      "Unibet (SE)": {
+        "Aldosivi Mar del Plata": 201.0,
+        "Atlético Huracán": 1.03,
+        "Draw": 15.0
       },
       "Betfair": {
-        "Celta Fortuna": 60.0,
-        "Sporting Gijón": 1.12,
-        "Draw": 10.0
+        "Aldosivi Mar del Plata": 85.0,
+        "Atlético Huracán": 1.04,
+        "Draw": 21.0
+      }
+    },
+    "18c29d24c37e4fa9c5c2a12218c87944:h2h": {
+      "Winamax (DE)": {
+        "Denmark": 2.05,
+        "Wales": 4.2,
+        "Draw": 2.6
+      },
+      "Winamax (FR)": {
+        "Denmark": 2.0,
+        "Wales": 4.0,
+        "Draw": 2.5
+      },
+      "Betclic (FR)": {
+        "Denmark": 2.02,
+        "Wales": 4.0,
+        "Draw": 2.68
+      },
+      "Betfair": {
+        "Denmark": 2.22,
+        "Wales": 4.9,
+        "Draw": 2.82
       },
       "Matchbook": {
-        "Celta Fortuna": 75.0,
-        "Sporting Gijón": 1.12,
-        "Draw": 10.0
-      }
-    },
-    "048b8e582376b00f3acbaaf879ec05ec:h2h": {
-      "Winamax (DE)": {
-        "Andorra": 6.25,
-        "Malta": 1.64,
-        "Draw": 3.25
-      },
-      "Winamax (FR)": {
-        "Andorra": 6.25,
-        "Malta": 1.62,
-        "Draw": 3.15
-      },
-      "Unibet (SE)": {
-        "Andorra": 6.5,
-        "Malta": 1.63,
-        "Draw": 3.3
-      },
-      "LeoVegas (SE)": {
-        "Andorra": 6.5,
-        "Malta": 1.63,
-        "Draw": 3.3
+        "Denmark": 2.22,
+        "Wales": 4.8,
+        "Draw": 2.8
       },
       "MyBookie.ag": {
-        "Andorra": 6.2,
-        "Malta": 1.66,
-        "Draw": 3.18
+        "Denmark": 2.05,
+        "Wales": 4.05,
+        "Draw": 2.75
       },
-      "Betclic (FR)": {
-        "Andorra": 6.4,
-        "Malta": 1.65,
-        "Draw": 3.25
+      "Unibet (SE)": {
+        "Denmark": 2.12,
+        "Wales": 4.35,
+        "Draw": 2.6
       },
-      "1xBet": {
-        "Andorra": 6.67,
-        "Malta": 1.72,
-        "Draw": 3.33
-      },
-      "Marathon Bet": {
-        "Andorra": 6.6,
-        "Malta": 1.7,
-        "Draw": 3.3
-      },
-      "Suprabets": {
-        "Andorra": 6.3,
-        "Malta": 1.71,
-        "Draw": 3.19
+      "LeoVegas (SE)": {
+        "Denmark": 2.1,
+        "Wales": 4.3,
+        "Draw": 2.65
       },
       "888sport": {
-        "Andorra": 6.0,
-        "Malta": 1.67,
-        "Draw": 3.1
+        "Denmark": 2.05,
+        "Wales": 4.2,
+        "Draw": 2.62
       },
-      "William Hill": {
-        "Andorra": 6.0,
-        "Malta": 1.67,
+      "Suprabets": {
+        "Denmark": 2.13,
+        "Wales": 4.45,
+        "Draw": 2.7
+      },
+      "Pinnacle": {
+        "Denmark": 2.14,
+        "Wales": 4.72,
+        "Draw": 2.62
+      },
+      "Betsson": {
+        "Denmark": 2.1,
+        "Wales": 4.2,
+        "Draw": 2.7
+      },
+      "Nordic Bet": {
+        "Denmark": 2.1,
+        "Wales": 4.2,
+        "Draw": 2.7
+      }
+    },
+    "4a0c0e7aa93708ae03af18db691f750f:h2h": {
+      "Betclic (FR)": {
+        "Germany": 1.68,
+        "Greece": 5.25,
         "Draw": 3.0
       },
-      "Betfair": {
-        "Andorra": 7.4,
-        "Malta": 1.73,
-        "Draw": 3.4
-      },
-      "Nordic Bet": {
-        "Andorra": 5.9,
-        "Malta": 1.65,
-        "Draw": 3.15
-      },
-      "Betsson": {
-        "Andorra": 5.9,
-        "Malta": 1.68,
-        "Draw": 3.1
-      },
-      "BetAnything": {
-        "Andorra": 6.25,
-        "Malta": 1.69,
-        "Draw": 3.2
-      }
-    },
-    "76c94aa8dba79a4f021b4eecbf422753:h2h": {
-      "Winamax (FR)": {
-        "Austria": 1.92,
-        "Kosovo": 3.65,
-        "Draw": 3.45
-      },
-      "Nordic Bet": {
-        "Austria": 2.02,
-        "Kosovo": 3.7,
-        "Draw": 3.4
-      },
-      "Betsson": {
-        "Austria": 2.02,
-        "Kosovo": 3.7,
-        "Draw": 3.4
-      },
       "Winamax (DE)": {
-        "Austria": 1.94,
-        "Kosovo": 3.75,
-        "Draw": 3.5
+        "Germany": 1.76,
+        "Greece": 5.1,
+        "Draw": 2.9
       },
-      "Betclic (FR)": {
-        "Austria": 1.92,
-        "Kosovo": 3.85,
-        "Draw": 3.43
-      },
-      "Betfair": {
-        "Austria": 2.08,
-        "Kosovo": 4.1,
-        "Draw": 3.55
-      },
-      "William Hill": {
-        "Austria": 1.95,
-        "Kosovo": 3.6,
-        "Draw": 3.2
-      },
-      "Unibet (SE)": {
-        "Austria": 1.94,
-        "Kosovo": 4.1,
-        "Draw": 3.6
+      "Winamax (FR)": {
+        "Germany": 1.72,
+        "Greece": 4.8,
+        "Draw": 2.8
       },
       "Suprabets": {
-        "Austria": 1.97,
-        "Kosovo": 3.9,
-        "Draw": 3.45
+        "Germany": 1.77,
+        "Greece": 5.6,
+        "Draw": 3.15
       },
-      "888sport": {
-        "Austria": 2.0,
-        "Kosovo": 3.6,
+      "Betfair": {
+        "Germany": 1.86,
+        "Greece": 6.0,
         "Draw": 3.25
       },
+      "MyBookie.ag": {
+        "Germany": 1.75,
+        "Greece": 5.0,
+        "Draw": 3.1
+      },
+      "Matchbook": {
+        "Germany": 1.87,
+        "Greece": 6.0,
+        "Draw": 3.3
+      },
       "LeoVegas (SE)": {
-        "Austria": 1.88,
-        "Kosovo": 3.85,
-        "Draw": 3.4
+        "Germany": 1.73,
+        "Greece": 5.75,
+        "Draw": 3.05
       },
-      "Marathon Bet": {
-        "Austria": 2.02,
-        "Kosovo": 3.88,
-        "Draw": 3.44
+      "Unibet (SE)": {
+        "Germany": 1.71,
+        "Greece": 5.8,
+        "Draw": 3.1
       },
-      "1xBet": {
-        "Austria": 2.04,
-        "Kosovo": 3.92,
-        "Draw": 3.48
+      "888sport": {
+        "Germany": 1.73,
+        "Greece": 5.0,
+        "Draw": 3.0
+      },
+      "Betsson": {
+        "Germany": 1.75,
+        "Greece": 5.35,
+        "Draw": 3.05
+      },
+      "Nordic Bet": {
+        "Germany": 1.75,
+        "Greece": 5.35,
+        "Draw": 3.05
+      },
+      "Pinnacle": {
+        "Germany": 1.76,
+        "Greece": 6.14,
+        "Draw": 3.04
+      }
+    },
+    "8de611cbeea26af7bae8f076d9237fd4:h2h": {
+      "LeoVegas (SE)": {
+        "Netherlands": 1.33,
+        "Serbia": 10.5,
+        "Draw": 4.3
+      },
+      "Unibet (SE)": {
+        "Netherlands": 1.33,
+        "Serbia": 10.5,
+        "Draw": 4.3
+      },
+      "Betclic (FR)": {
+        "Netherlands": 1.34,
+        "Serbia": 8.75,
+        "Draw": 3.9
+      },
+      "Winamax (FR)": {
+        "Netherlands": 1.39,
+        "Serbia": 7.5,
+        "Draw": 3.75
+      },
+      "Winamax (DE)": {
+        "Netherlands": 1.39,
+        "Serbia": 8.0,
+        "Draw": 3.85
+      },
+      "888sport": {
+        "Netherlands": 1.44,
+        "Serbia": 8.0,
+        "Draw": 3.7
       },
       "MyBookie.ag": {
-        "Austria": 1.93,
-        "Kosovo": 3.75,
-        "Draw": 3.36
+        "Netherlands": 1.3,
+        "Serbia": 7.75,
+        "Draw": 4.0
       },
-      "BetAnything": {
-        "Austria": 2.0,
-        "Kosovo": 3.8,
-        "Draw": 3.4
+      "Suprabets": {
+        "Netherlands": 1.4,
+        "Serbia": 9.5,
+        "Draw": 4.1
+      },
+      "Nordic Bet": {
+        "Netherlands": 1.38,
+        "Serbia": 9.6,
+        "Draw": 3.9
+      },
+      "Betsson": {
+        "Netherlands": 1.38,
+        "Serbia": 9.6,
+        "Draw": 3.9
+      },
+      "Pinnacle": {
+        "Netherlands": 1.4,
+        "Serbia": 12.52,
+        "Draw": 3.82
+      },
+      "Matchbook": {
+        "Netherlands": 1.44,
+        "Serbia": 11.5,
+        "Draw": 4.4
+      },
+      "Betfair": {
+        "Netherlands": 1.45,
+        "Serbia": 11.5,
+        "Draw": 4.4
       }
     }
   },
@@ -2682,31 +2672,77 @@
       "confidence": 299,
       "alert_type": "value",
       "alerted_at": "2026-10-04T15:18:49.487547+00:00"
+    },
+    {
+      "state_key": "8de611cbeea26af7bae8f076d9237fd4:h2h",
+      "event_id": "8de611cbeea26af7bae8f076d9237fd4",
+      "sport_key": "soccer",
+      "competition": "UEFA Nations League",
+      "home_team": "Netherlands",
+      "away_team": "Serbia",
+      "commence_time": "2026-10-04T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.3,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-10-04T19:33:08.509269+00:00"
+    },
+    {
+      "state_key": "8de611cbeea26af7bae8f076d9237fd4:h2h",
+      "event_id": "8de611cbeea26af7bae8f076d9237fd4",
+      "sport_key": "soccer",
+      "competition": "UEFA Nations League",
+      "home_team": "Netherlands",
+      "away_team": "Serbia",
+      "commence_time": "2026-10-04T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.3,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-10-04T19:33:08.819270+00:00"
+    },
+    {
+      "state_key": "8de611cbeea26af7bae8f076d9237fd4:h2h",
+      "event_id": "8de611cbeea26af7bae8f076d9237fd4",
+      "sport_key": "soccer",
+      "competition": "UEFA Nations League",
+      "home_team": "Netherlands",
+      "away_team": "Serbia",
+      "commence_time": "2026-10-04T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.4,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-10-04T19:33:09.136939+00:00"
+    },
+    {
+      "state_key": "8de611cbeea26af7bae8f076d9237fd4:h2h",
+      "event_id": "8de611cbeea26af7bae8f076d9237fd4",
+      "sport_key": "soccer",
+      "competition": "UEFA Nations League",
+      "home_team": "Netherlands",
+      "away_team": "Serbia",
+      "commence_time": "2026-10-04T18:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.4,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-10-04T19:33:09.507413+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "429c16be4cc62dc2acb2799d91abd94a:h2h|Betclic (FR)|Celta Fortuna",
-    "429c16be4cc62dc2acb2799d91abd94a:h2h|Betclic (FR)|Draw",
-    "429c16be4cc62dc2acb2799d91abd94a:h2h|Betfair|Celta Fortuna",
-    "429c16be4cc62dc2acb2799d91abd94a:h2h|Betfair|Draw",
-    "429c16be4cc62dc2acb2799d91abd94a:h2h|Betsson|Celta Fortuna",
-    "429c16be4cc62dc2acb2799d91abd94a:h2h|Betsson|Draw",
-    "429c16be4cc62dc2acb2799d91abd94a:h2h|Coolbet|Celta Fortuna",
-    "429c16be4cc62dc2acb2799d91abd94a:h2h|Coolbet|Draw",
-    "429c16be4cc62dc2acb2799d91abd94a:h2h|LeoVegas (SE)|Celta Fortuna",
-    "429c16be4cc62dc2acb2799d91abd94a:h2h|LeoVegas (SE)|Draw",
-    "429c16be4cc62dc2acb2799d91abd94a:h2h|Matchbook|Celta Fortuna",
-    "429c16be4cc62dc2acb2799d91abd94a:h2h|Matchbook|Draw",
-    "429c16be4cc62dc2acb2799d91abd94a:h2h|Nordic Bet|Celta Fortuna",
-    "429c16be4cc62dc2acb2799d91abd94a:h2h|Nordic Bet|Draw",
-    "429c16be4cc62dc2acb2799d91abd94a:h2h|Tipico|Celta Fortuna",
-    "429c16be4cc62dc2acb2799d91abd94a:h2h|Tipico|Draw",
-    "429c16be4cc62dc2acb2799d91abd94a:h2h|Unibet (SE)|Celta Fortuna",
-    "429c16be4cc62dc2acb2799d91abd94a:h2h|Unibet (SE)|Draw",
-    "429c16be4cc62dc2acb2799d91abd94a:h2h|Winamax (DE)|Celta Fortuna",
-    "429c16be4cc62dc2acb2799d91abd94a:h2h|Winamax (DE)|Draw",
-    "429c16be4cc62dc2acb2799d91abd94a:h2h|Winamax (FR)|Celta Fortuna",
-    "429c16be4cc62dc2acb2799d91abd94a:h2h|Winamax (FR)|Draw"
+    "8de611cbeea26af7bae8f076d9237fd4:h2h|Betfair|Draw",
+    "8de611cbeea26af7bae8f076d9237fd4:h2h|LeoVegas (SE)|Draw",
+    "8de611cbeea26af7bae8f076d9237fd4:h2h|Matchbook|Draw",
+    "8de611cbeea26af7bae8f076d9237fd4:h2h|Unibet (SE)|Draw"
   ]
 }
