@@ -1,241 +1,286 @@
 {
   "snapshots": {
-    "aa690fd7e46982c83048052821dc9cc6:h2h": {
+    "fd73ff6279d08f38434fb0c4fca0f065:h2h": {
       "Winamax (FR)": {
-        "Aldosivi Mar del Plata": 450.0,
-        "Atlético Huracán": 1.03,
-        "Draw": 17.0
+        "Argentinos Juniors": 1.04,
+        "CA Tigre BA": 55.0,
+        "Draw": 14.5
       },
       "Winamax (DE)": {
-        "Aldosivi Mar del Plata": 450.0,
-        "Atlético Huracán": 1.02,
-        "Draw": 18.0
-      },
-      "Betclic (FR)": {
-        "Aldosivi Mar del Plata": 55.0,
-        "Atlético Huracán": 1.02,
-        "Draw": 10.0
-      },
-      "Nordic Bet": {
-        "Aldosivi Mar del Plata": 130.0,
-        "Atlético Huracán": 1.02,
-        "Draw": 12.0
-      },
-      "Betsson": {
-        "Aldosivi Mar del Plata": 100.0,
-        "Atlético Huracán": 1.02,
-        "Draw": 12.0
-      },
-      "Unibet (SE)": {
-        "Aldosivi Mar del Plata": 201.0,
-        "Atlético Huracán": 1.03,
+        "Argentinos Juniors": 1.03,
+        "CA Tigre BA": 55.0,
         "Draw": 15.0
       },
-      "Betfair": {
-        "Aldosivi Mar del Plata": 85.0,
-        "Atlético Huracán": 1.04,
-        "Draw": 21.0
-      }
-    },
-    "18c29d24c37e4fa9c5c2a12218c87944:h2h": {
-      "Winamax (DE)": {
-        "Denmark": 2.05,
-        "Wales": 4.2,
-        "Draw": 2.6
-      },
-      "Winamax (FR)": {
-        "Denmark": 2.0,
-        "Wales": 4.0,
-        "Draw": 2.5
-      },
       "Betclic (FR)": {
-        "Denmark": 2.02,
-        "Wales": 4.0,
-        "Draw": 2.68
-      },
-      "Betfair": {
-        "Denmark": 2.22,
-        "Wales": 4.9,
-        "Draw": 2.82
-      },
-      "Matchbook": {
-        "Denmark": 2.22,
-        "Wales": 4.8,
-        "Draw": 2.8
-      },
-      "MyBookie.ag": {
-        "Denmark": 2.05,
-        "Wales": 4.05,
-        "Draw": 2.75
-      },
-      "Unibet (SE)": {
-        "Denmark": 2.12,
-        "Wales": 4.35,
-        "Draw": 2.6
-      },
-      "LeoVegas (SE)": {
-        "Denmark": 2.1,
-        "Wales": 4.3,
-        "Draw": 2.65
-      },
-      "888sport": {
-        "Denmark": 2.05,
-        "Wales": 4.2,
-        "Draw": 2.62
-      },
-      "Suprabets": {
-        "Denmark": 2.13,
-        "Wales": 4.45,
-        "Draw": 2.7
-      },
-      "Pinnacle": {
-        "Denmark": 2.14,
-        "Wales": 4.72,
-        "Draw": 2.62
+        "Argentinos Juniors": 1.01,
+        "CA Tigre BA": 25.0,
+        "Draw": 10.0
       },
       "Betsson": {
-        "Denmark": 2.1,
-        "Wales": 4.2,
-        "Draw": 2.7
+        "Argentinos Juniors": 1.03,
+        "CA Tigre BA": 41.0,
+        "Draw": 13.0
       },
       "Nordic Bet": {
-        "Denmark": 2.1,
-        "Wales": 4.2,
-        "Draw": 2.7
+        "Argentinos Juniors": 1.03,
+        "CA Tigre BA": 41.0,
+        "Draw": 13.0
+      },
+      "Pinnacle": {
+        "Argentinos Juniors": 1.29,
+        "CA Tigre BA": 15.29,
+        "Draw": 4.71
+      },
+      "Unibet (SE)": {
+        "Argentinos Juniors": 1.04,
+        "CA Tigre BA": 41.0,
+        "Draw": 14.0
+      },
+      "Betfair": {
+        "Argentinos Juniors": 1.06,
+        "CA Tigre BA": 90.0,
+        "Draw": 17.0
       }
     },
-    "4a0c0e7aa93708ae03af18db691f750f:h2h": {
-      "Betclic (FR)": {
-        "Germany": 1.68,
-        "Greece": 5.25,
+    "82be231269013917c7649f4143004dde:h2h": {
+      "1xBet": {
+        "Estudiantes de Río Cuarto": 4.17,
+        "Racing Club": 2.04,
+        "Draw": 3.1
+      },
+      "Winamax (FR)": {
+        "Estudiantes de Río Cuarto": 3.55,
+        "Racing Club": 2.0,
         "Draw": 3.0
       },
       "Winamax (DE)": {
-        "Germany": 1.76,
-        "Greece": 5.1,
-        "Draw": 2.9
-      },
-      "Winamax (FR)": {
-        "Germany": 1.72,
-        "Greece": 4.8,
-        "Draw": 2.8
-      },
-      "Suprabets": {
-        "Germany": 1.77,
-        "Greece": 5.6,
-        "Draw": 3.15
-      },
-      "Betfair": {
-        "Germany": 1.86,
-        "Greece": 6.0,
-        "Draw": 3.25
-      },
-      "MyBookie.ag": {
-        "Germany": 1.75,
-        "Greece": 5.0,
-        "Draw": 3.1
-      },
-      "Matchbook": {
-        "Germany": 1.87,
-        "Greece": 6.0,
-        "Draw": 3.3
-      },
-      "LeoVegas (SE)": {
-        "Germany": 1.73,
-        "Greece": 5.75,
+        "Estudiantes de Río Cuarto": 3.65,
+        "Racing Club": 2.0,
         "Draw": 3.05
       },
-      "Unibet (SE)": {
-        "Germany": 1.71,
-        "Greece": 5.8,
-        "Draw": 3.1
+      "Betclic (FR)": {
+        "Estudiantes de Río Cuarto": 3.7,
+        "Racing Club": 2.0,
+        "Draw": 2.95
       },
-      "888sport": {
-        "Germany": 1.73,
-        "Greece": 5.0,
-        "Draw": 3.0
-      },
-      "Betsson": {
-        "Germany": 1.75,
-        "Greece": 5.35,
-        "Draw": 3.05
-      },
-      "Nordic Bet": {
-        "Germany": 1.75,
-        "Greece": 5.35,
-        "Draw": 3.05
-      },
-      "Pinnacle": {
-        "Germany": 1.76,
-        "Greece": 6.14,
+      "Marathon Bet": {
+        "Estudiantes de Río Cuarto": 4.1,
+        "Racing Club": 2.0,
         "Draw": 3.04
-      }
-    },
-    "8de611cbeea26af7bae8f076d9237fd4:h2h": {
-      "LeoVegas (SE)": {
-        "Netherlands": 1.33,
-        "Serbia": 10.5,
-        "Draw": 4.3
+      },
+      "Pinnacle": {
+        "Estudiantes de Río Cuarto": 4.28,
+        "Racing Club": 2.09,
+        "Draw": 3.1
       },
       "Unibet (SE)": {
-        "Netherlands": 1.33,
-        "Serbia": 10.5,
-        "Draw": 4.3
+        "Estudiantes de Río Cuarto": 4.2,
+        "Racing Club": 2.0,
+        "Draw": 3.05
       },
-      "Betclic (FR)": {
-        "Netherlands": 1.34,
-        "Serbia": 8.75,
+      "LeoVegas (SE)": {
+        "Estudiantes de Río Cuarto": 3.85,
+        "Racing Club": 1.88,
+        "Draw": 2.85
+      },
+      "Nordic Bet": {
+        "Estudiantes de Río Cuarto": 4.25,
+        "Racing Club": 2.02,
+        "Draw": 3.0
+      },
+      "Betsson": {
+        "Estudiantes de Río Cuarto": 4.25,
+        "Racing Club": 2.02,
+        "Draw": 3.0
+      },
+      "BetOnline.ag": {
+        "Estudiantes de Río Cuarto": 4.29,
+        "Racing Club": 2.08,
+        "Draw": 3.12
+      },
+      "Betfair": {
+        "Estudiantes de Río Cuarto": 4.4,
+        "Racing Club": 2.12,
+        "Draw": 3.2
+      },
+      "BetAnything": {
+        "Estudiantes de Río Cuarto": 4.29,
+        "Racing Club": 2.08,
+        "Draw": 3.12
+      }
+    },
+    "d25e4cefbf1b47ae2ee43f7c70f0c1f2:h2h": {
+      "Betsson": {
+        "Cyprus": 1.62,
+        "Latvia": 5.4,
+        "Draw": 3.45
+      },
+      "888sport": {
+        "Cyprus": 1.61,
+        "Latvia": 5.0,
+        "Draw": 3.6
+      },
+      "Betfair": {
+        "Cyprus": 1.7,
+        "Latvia": 6.0,
         "Draw": 3.9
       },
-      "Winamax (FR)": {
-        "Netherlands": 1.39,
-        "Serbia": 7.5,
+      "1xBet": {
+        "Cyprus": 1.67,
+        "Latvia": 5.66,
+        "Draw": 3.92
+      },
+      "Betclic (FR)": {
+        "Cyprus": 1.6,
+        "Latvia": 5.25,
+        "Draw": 3.63
+      },
+      "Marathon Bet": {
+        "Cyprus": 1.65,
+        "Latvia": 5.6,
+        "Draw": 3.88
+      },
+      "William Hill": {
+        "Cyprus": 1.62,
+        "Latvia": 5.0,
+        "Draw": 3.5
+      },
+      "LeoVegas (SE)": {
+        "Cyprus": 1.66,
+        "Latvia": 5.3,
+        "Draw": 3.75
+      },
+      "Nordic Bet": {
+        "Cyprus": 1.62,
+        "Latvia": 5.4,
+        "Draw": 3.45
+      },
+      "MyBookie.ag": {
+        "Cyprus": 1.63,
+        "Latvia": 5.3,
+        "Draw": 3.6
+      },
+      "Unibet (SE)": {
+        "Cyprus": 1.66,
+        "Latvia": 5.3,
         "Draw": 3.75
       },
       "Winamax (DE)": {
-        "Netherlands": 1.39,
-        "Serbia": 8.0,
-        "Draw": 3.85
+        "Cyprus": 1.64,
+        "Latvia": 5.1,
+        "Draw": 3.8
       },
-      "888sport": {
-        "Netherlands": 1.44,
-        "Serbia": 8.0,
-        "Draw": 3.7
+      "Winamax (FR)": {
+        "Cyprus": 1.62,
+        "Latvia": 5.0,
+        "Draw": 3.75
       },
-      "MyBookie.ag": {
-        "Netherlands": 1.3,
-        "Serbia": 7.75,
-        "Draw": 4.0
-      },
-      "Suprabets": {
-        "Netherlands": 1.4,
-        "Serbia": 9.5,
-        "Draw": 4.1
+      "BetAnything": {
+        "Cyprus": 1.61,
+        "Latvia": 5.7,
+        "Draw": 3.8
+      }
+    },
+    "87e6a3807e957e43bedb63ebeabdf76e:h2h": {
+      "Codere (IT)": {
+        "Córdoba": 1.93,
+        "Tenerife": 3.6,
+        "Draw": 3.3
       },
       "Nordic Bet": {
-        "Netherlands": 1.38,
-        "Serbia": 9.6,
-        "Draw": 3.9
+        "Córdoba": 1.95,
+        "Tenerife": 3.65,
+        "Draw": 3.35
       },
       "Betsson": {
-        "Netherlands": 1.38,
-        "Serbia": 9.6,
-        "Draw": 3.9
+        "Córdoba": 1.95,
+        "Tenerife": 3.65,
+        "Draw": 3.35
+      },
+      "Unibet (FR)": {
+        "Córdoba": 1.76,
+        "Tenerife": 3.45,
+        "Draw": 3.2
+      },
+      "Betclic (FR)": {
+        "Córdoba": 1.87,
+        "Tenerife": 3.55,
+        "Draw": 3.28
+      },
+      "1xBet": {
+        "Córdoba": 1.95,
+        "Tenerife": 3.96,
+        "Draw": 3.61
+      },
+      "Winamax (FR)": {
+        "Córdoba": 1.86,
+        "Tenerife": 3.35,
+        "Draw": 3.3
+      },
+      "Winamax (DE)": {
+        "Córdoba": 1.88,
+        "Tenerife": 3.45,
+        "Draw": 3.35
+      },
+      "Tipico": {
+        "Córdoba": 1.8,
+        "Tenerife": 3.9,
+        "Draw": 3.6
+      },
+      "Marathon Bet": {
+        "Córdoba": 1.89,
+        "Tenerife": 3.84,
+        "Draw": 3.5
+      },
+      "William Hill": {
+        "Córdoba": 1.85,
+        "Tenerife": 3.8,
+        "Draw": 3.3
       },
       "Pinnacle": {
-        "Netherlands": 1.4,
-        "Serbia": 12.52,
-        "Draw": 3.82
+        "Córdoba": 1.9,
+        "Tenerife": 4.16,
+        "Draw": 3.63
       },
-      "Matchbook": {
-        "Netherlands": 1.44,
-        "Serbia": 11.5,
-        "Draw": 4.4
+      "Unibet (SE)": {
+        "Córdoba": 2.0,
+        "Tenerife": 3.55,
+        "Draw": 3.5
+      },
+      "LeoVegas (SE)": {
+        "Córdoba": 1.91,
+        "Tenerife": 3.35,
+        "Draw": 3.3
+      },
+      "Unibet (NL)": {
+        "Córdoba": 2.0,
+        "Tenerife": 3.55,
+        "Draw": 3.5
+      },
+      "Coolbet": {
+        "Córdoba": 1.95,
+        "Tenerife": 3.75,
+        "Draw": 3.75
       },
       "Betfair": {
-        "Netherlands": 1.45,
-        "Serbia": 11.5,
-        "Draw": 4.4
+        "Córdoba": 1.97,
+        "Tenerife": 4.2,
+        "Draw": 3.75
+      },
+      "BetOnline.ag": {
+        "Córdoba": 1.9,
+        "Tenerife": 4.0,
+        "Draw": 3.45
+      },
+      "BetAnything": {
+        "Córdoba": 1.9,
+        "Tenerife": 4.0,
+        "Draw": 3.45
+      },
+      "Matchbook": {
+        "Córdoba": 1.97,
+        "Tenerife": 4.2,
+        "Draw": 3.75
       }
     }
   },
@@ -2736,13 +2781,247 @@
       "confidence": 9,
       "alert_type": "value",
       "alerted_at": "2026-10-04T19:33:09.507413+00:00"
+    },
+    {
+      "state_key": "fd73ff6279d08f38434fb0c4fca0f065:h2h",
+      "event_id": "fd73ff6279d08f38434fb0c4fca0f065",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Argentinos Juniors",
+      "away_team": "CA Tigre BA",
+      "commence_time": "2026-10-04T22:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "CA Tigre BA",
+      "odds_at_alert": 55.0,
+      "stake_pct": 5.0,
+      "confidence": 242,
+      "alert_type": "value",
+      "alerted_at": "2026-10-04T23:02:07.007453+00:00"
+    },
+    {
+      "state_key": "fd73ff6279d08f38434fb0c4fca0f065:h2h",
+      "event_id": "fd73ff6279d08f38434fb0c4fca0f065",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Argentinos Juniors",
+      "away_team": "CA Tigre BA",
+      "commence_time": "2026-10-04T22:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 14.5,
+      "stake_pct": 5.0,
+      "confidence": 192,
+      "alert_type": "value",
+      "alerted_at": "2026-10-04T23:02:07.337929+00:00"
+    },
+    {
+      "state_key": "fd73ff6279d08f38434fb0c4fca0f065:h2h",
+      "event_id": "fd73ff6279d08f38434fb0c4fca0f065",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Argentinos Juniors",
+      "away_team": "CA Tigre BA",
+      "commence_time": "2026-10-04T22:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "CA Tigre BA",
+      "odds_at_alert": 55.0,
+      "stake_pct": 5.0,
+      "confidence": 242,
+      "alert_type": "value",
+      "alerted_at": "2026-10-04T23:02:07.659464+00:00"
+    },
+    {
+      "state_key": "fd73ff6279d08f38434fb0c4fca0f065:h2h",
+      "event_id": "fd73ff6279d08f38434fb0c4fca0f065",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Argentinos Juniors",
+      "away_team": "CA Tigre BA",
+      "commence_time": "2026-10-04T22:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 202,
+      "alert_type": "value",
+      "alerted_at": "2026-10-04T23:02:07.978967+00:00"
+    },
+    {
+      "state_key": "fd73ff6279d08f38434fb0c4fca0f065:h2h",
+      "event_id": "fd73ff6279d08f38434fb0c4fca0f065",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Argentinos Juniors",
+      "away_team": "CA Tigre BA",
+      "commence_time": "2026-10-04T22:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "CA Tigre BA",
+      "odds_at_alert": 25.0,
+      "stake_pct": 5.0,
+      "confidence": 55,
+      "alert_type": "value",
+      "alerted_at": "2026-10-04T23:02:08.300817+00:00"
+    },
+    {
+      "state_key": "fd73ff6279d08f38434fb0c4fca0f065:h2h",
+      "event_id": "fd73ff6279d08f38434fb0c4fca0f065",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Argentinos Juniors",
+      "away_team": "CA Tigre BA",
+      "commence_time": "2026-10-04T22:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 10.0,
+      "stake_pct": 5.0,
+      "confidence": 102,
+      "alert_type": "value",
+      "alerted_at": "2026-10-04T23:02:08.606897+00:00"
+    },
+    {
+      "state_key": "fd73ff6279d08f38434fb0c4fca0f065:h2h",
+      "event_id": "fd73ff6279d08f38434fb0c4fca0f065",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Argentinos Juniors",
+      "away_team": "CA Tigre BA",
+      "commence_time": "2026-10-04T22:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "CA Tigre BA",
+      "odds_at_alert": 41.0,
+      "stake_pct": 5.0,
+      "confidence": 155,
+      "alert_type": "value",
+      "alerted_at": "2026-10-04T23:02:08.942118+00:00"
+    },
+    {
+      "state_key": "fd73ff6279d08f38434fb0c4fca0f065:h2h",
+      "event_id": "fd73ff6279d08f38434fb0c4fca0f065",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Argentinos Juniors",
+      "away_team": "CA Tigre BA",
+      "commence_time": "2026-10-04T22:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 162,
+      "alert_type": "value",
+      "alerted_at": "2026-10-04T23:02:09.268218+00:00"
+    },
+    {
+      "state_key": "fd73ff6279d08f38434fb0c4fca0f065:h2h",
+      "event_id": "fd73ff6279d08f38434fb0c4fca0f065",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Argentinos Juniors",
+      "away_team": "CA Tigre BA",
+      "commence_time": "2026-10-04T22:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "CA Tigre BA",
+      "odds_at_alert": 41.0,
+      "stake_pct": 5.0,
+      "confidence": 155,
+      "alert_type": "value",
+      "alerted_at": "2026-10-04T23:02:09.577867+00:00"
+    },
+    {
+      "state_key": "fd73ff6279d08f38434fb0c4fca0f065:h2h",
+      "event_id": "fd73ff6279d08f38434fb0c4fca0f065",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Argentinos Juniors",
+      "away_team": "CA Tigre BA",
+      "commence_time": "2026-10-04T22:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 162,
+      "alert_type": "value",
+      "alerted_at": "2026-10-04T23:02:09.908651+00:00"
+    },
+    {
+      "state_key": "fd73ff6279d08f38434fb0c4fca0f065:h2h",
+      "event_id": "fd73ff6279d08f38434fb0c4fca0f065",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Argentinos Juniors",
+      "away_team": "CA Tigre BA",
+      "commence_time": "2026-10-04T22:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "CA Tigre BA",
+      "odds_at_alert": 41.0,
+      "stake_pct": 5.0,
+      "confidence": 155,
+      "alert_type": "value",
+      "alerted_at": "2026-10-04T23:02:10.238657+00:00"
+    },
+    {
+      "state_key": "fd73ff6279d08f38434fb0c4fca0f065:h2h",
+      "event_id": "fd73ff6279d08f38434fb0c4fca0f065",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Argentinos Juniors",
+      "away_team": "CA Tigre BA",
+      "commence_time": "2026-10-04T22:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 14.0,
+      "stake_pct": 5.0,
+      "confidence": 182,
+      "alert_type": "value",
+      "alerted_at": "2026-10-04T23:02:10.565578+00:00"
+    },
+    {
+      "state_key": "fd73ff6279d08f38434fb0c4fca0f065:h2h",
+      "event_id": "fd73ff6279d08f38434fb0c4fca0f065",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Argentinos Juniors",
+      "away_team": "CA Tigre BA",
+      "commence_time": "2026-10-04T22:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "CA Tigre BA",
+      "odds_at_alert": 90.0,
+      "stake_pct": 5.0,
+      "confidence": 459,
+      "alert_type": "value",
+      "alerted_at": "2026-10-04T23:02:10.888896+00:00"
+    },
+    {
+      "state_key": "fd73ff6279d08f38434fb0c4fca0f065:h2h",
+      "event_id": "fd73ff6279d08f38434fb0c4fca0f065",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Argentinos Juniors",
+      "away_team": "CA Tigre BA",
+      "commence_time": "2026-10-04T22:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 243,
+      "alert_type": "value",
+      "alerted_at": "2026-10-04T23:02:11.211569+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "8de611cbeea26af7bae8f076d9237fd4:h2h|Betfair|Draw",
-    "8de611cbeea26af7bae8f076d9237fd4:h2h|LeoVegas (SE)|Draw",
-    "8de611cbeea26af7bae8f076d9237fd4:h2h|Matchbook|Draw",
-    "8de611cbeea26af7bae8f076d9237fd4:h2h|Unibet (SE)|Draw"
+    "fd73ff6279d08f38434fb0c4fca0f065:h2h|Betclic (FR)|CA Tigre BA",
+    "fd73ff6279d08f38434fb0c4fca0f065:h2h|Betclic (FR)|Draw",
+    "fd73ff6279d08f38434fb0c4fca0f065:h2h|Betfair|CA Tigre BA",
+    "fd73ff6279d08f38434fb0c4fca0f065:h2h|Betfair|Draw",
+    "fd73ff6279d08f38434fb0c4fca0f065:h2h|Betsson|CA Tigre BA",
+    "fd73ff6279d08f38434fb0c4fca0f065:h2h|Betsson|Draw",
+    "fd73ff6279d08f38434fb0c4fca0f065:h2h|Nordic Bet|CA Tigre BA",
+    "fd73ff6279d08f38434fb0c4fca0f065:h2h|Nordic Bet|Draw",
+    "fd73ff6279d08f38434fb0c4fca0f065:h2h|Unibet (SE)|CA Tigre BA",
+    "fd73ff6279d08f38434fb0c4fca0f065:h2h|Unibet (SE)|Draw",
+    "fd73ff6279d08f38434fb0c4fca0f065:h2h|Winamax (DE)|CA Tigre BA",
+    "fd73ff6279d08f38434fb0c4fca0f065:h2h|Winamax (DE)|Draw",
+    "fd73ff6279d08f38434fb0c4fca0f065:h2h|Winamax (FR)|CA Tigre BA",
+    "fd73ff6279d08f38434fb0c4fca0f065:h2h|Winamax (FR)|Draw"
   ]
 }
