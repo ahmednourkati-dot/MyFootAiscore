@@ -1,196 +1,25 @@
 {
   "snapshots": {
-    "570408816c1cec5681409e38c4d04f59:h2h": {
-      "Betsson": {
-        "Estudiantes": 2.1,
-        "Gimnasia Mendoza": 4.2,
-        "Draw": 2.6
-      },
-      "Nordic Bet": {
-        "Estudiantes": 2.1,
-        "Gimnasia Mendoza": 4.2,
-        "Draw": 2.6
-      },
-      "Winamax (FR)": {
-        "Estudiantes": 2.1,
-        "Gimnasia Mendoza": 3.75,
-        "Draw": 2.5
-      },
-      "Winamax (DE)": {
-        "Estudiantes": 2.15,
-        "Gimnasia Mendoza": 3.85,
-        "Draw": 2.55
-      },
-      "Betclic (FR)": {
-        "Estudiantes": 2.15,
-        "Gimnasia Mendoza": 3.5,
-        "Draw": 2.58
-      },
-      "Pinnacle": {
-        "Estudiantes": 2.17,
-        "Gimnasia Mendoza": 4.72,
-        "Draw": 2.58
-      },
-      "Unibet (SE)": {
-        "Estudiantes": 1.94,
-        "Gimnasia Mendoza": 5.0,
-        "Draw": 2.75
-      },
-      "LeoVegas (SE)": {
-        "Estudiantes": 1.85,
-        "Gimnasia Mendoza": 4.7,
-        "Draw": 2.6
-      },
-      "Betfair": {
-        "Estudiantes": 2.28,
-        "Gimnasia Mendoza": 4.9,
-        "Draw": 2.74
-      }
-    },
-    "a918e9889e7c0c7126a1d2bb437d1fbb:h2h": {
-      "Betsson": {
-        "Platense": 3.9,
-        "Velez Sarsfield BA": 2.25,
-        "Draw": 2.5
-      },
-      "Nordic Bet": {
-        "Platense": 3.9,
-        "Velez Sarsfield BA": 2.25,
-        "Draw": 2.5
-      },
-      "Winamax (FR)": {
-        "Platense": 3.75,
-        "Velez Sarsfield BA": 2.2,
-        "Draw": 2.35
-      },
-      "Winamax (DE)": {
-        "Platense": 3.9,
-        "Velez Sarsfield BA": 2.3,
-        "Draw": 2.4
-      },
-      "Betclic (FR)": {
-        "Platense": 3.8,
-        "Velez Sarsfield BA": 2.22,
-        "Draw": 2.4
-      },
-      "Pinnacle": {
-        "Platense": 4.18,
-        "Velez Sarsfield BA": 2.33,
-        "Draw": 2.56
-      },
-      "LeoVegas (SE)": {
-        "Platense": 4.0,
-        "Velez Sarsfield BA": 2.0,
-        "Draw": 2.5
-      },
-      "Unibet (SE)": {
-        "Platense": 4.25,
-        "Velez Sarsfield BA": 2.12,
-        "Draw": 2.65
-      },
-      "Betfair": {
-        "Platense": 4.3,
-        "Velez Sarsfield BA": 2.52,
-        "Draw": 2.66
-      }
-    },
-    "887722a9c77581f0bb94ffde30026253:h2h": {
-      "Marathon Bet": {
-        "Banfield": 4.2,
-        "Rosario Central": 1.89,
-        "Draw": 3.25
-      },
-      "1xBet": {
-        "Banfield": 4.29,
-        "Rosario Central": 1.93,
-        "Draw": 3.31
-      },
-      "Winamax (FR)": {
-        "Banfield": 3.8,
-        "Rosario Central": 1.84,
-        "Draw": 3.2
-      },
-      "Unibet (FR)": {
-        "Banfield": 3.95,
-        "Rosario Central": 1.76,
-        "Draw": 3.15
-      },
-      "Winamax (DE)": {
-        "Banfield": 3.9,
-        "Rosario Central": 1.86,
-        "Draw": 3.3
-      },
-      "Betclic (FR)": {
-        "Banfield": 3.98,
-        "Rosario Central": 1.84,
-        "Draw": 3.17
-      },
-      "Pinnacle": {
-        "Banfield": 4.43,
-        "Rosario Central": 1.94,
-        "Draw": 3.4
-      },
-      "LeoVegas (SE)": {
-        "Banfield": 3.95,
-        "Rosario Central": 1.74,
-        "Draw": 3.2
-      },
-      "Unibet (SE)": {
-        "Banfield": 4.3,
-        "Rosario Central": 1.83,
-        "Draw": 3.45
-      },
-      "BetOnline.ag": {
-        "Banfield": 4.2,
-        "Rosario Central": 1.92,
-        "Draw": 3.25
-      },
-      "Betfair": {
-        "Banfield": 4.5,
-        "Rosario Central": 1.97,
-        "Draw": 3.45
-      },
-      "BetAnything": {
-        "Banfield": 4.2,
-        "Rosario Central": 1.92,
-        "Draw": 3.25
-      },
-      "Codere (IT)": {
-        "Banfield": 4.2,
-        "Rosario Central": 1.93,
-        "Draw": 3.3
-      },
-      "Betsson": {
-        "Banfield": 4.25,
-        "Rosario Central": 1.95,
-        "Draw": 3.2
-      },
-      "Nordic Bet": {
-        "Banfield": 4.25,
-        "Rosario Central": 1.95,
-        "Draw": 3.2
-      }
-    },
     "2b8ee7414d7336408e155d4f35599d8e:h2h": {
       "Winamax (FR)": {
-        "Faroe Islands": 3.05,
-        "Kazakhstan": 2.3,
-        "Draw": 3.05
+        "Faroe Islands": 3.0,
+        "Kazakhstan": 2.45,
+        "Draw": 2.9
       },
       "Winamax (DE)": {
-        "Faroe Islands": 3.1,
-        "Kazakhstan": 2.35,
-        "Draw": 3.1
+        "Faroe Islands": 3.05,
+        "Kazakhstan": 2.5,
+        "Draw": 2.95
       },
       "Betfair": {
-        "Faroe Islands": 3.4,
-        "Kazakhstan": 2.5,
-        "Draw": 3.2
+        "Faroe Islands": 3.3,
+        "Kazakhstan": 2.62,
+        "Draw": 3.1
       },
       "1xBet": {
-        "Faroe Islands": 3.42,
-        "Kazakhstan": 2.4,
-        "Draw": 3.1
+        "Faroe Islands": 3.23,
+        "Kazakhstan": 2.52,
+        "Draw": 3.08
       },
       "LeoVegas (SE)": {
         "Faroe Islands": 3.3,
@@ -198,28 +27,28 @@
         "Draw": 3.1
       },
       "Nordic Bet": {
-        "Faroe Islands": 3.25,
-        "Kazakhstan": 2.32,
+        "Faroe Islands": 3.05,
+        "Kazakhstan": 2.45,
         "Draw": 2.92
       },
       "Marathon Bet": {
-        "Faroe Islands": 3.38,
-        "Kazakhstan": 2.38,
-        "Draw": 3.06
+        "Faroe Islands": 3.2,
+        "Kazakhstan": 2.49,
+        "Draw": 3.04
       },
       "William Hill": {
-        "Faroe Islands": 3.2,
-        "Kazakhstan": 2.3,
+        "Faroe Islands": 3.0,
+        "Kazakhstan": 2.4,
         "Draw": 2.8
       },
       "Betsson": {
-        "Faroe Islands": 3.25,
-        "Kazakhstan": 2.32,
+        "Faroe Islands": 3.05,
+        "Kazakhstan": 2.45,
         "Draw": 2.92
       },
       "888sport": {
-        "Faroe Islands": 3.25,
-        "Kazakhstan": 2.3,
+        "Faroe Islands": 3.1,
+        "Kazakhstan": 2.4,
         "Draw": 2.9
       },
       "Unibet (SE)": {
@@ -228,24 +57,150 @@
         "Draw": 3.1
       },
       "MyBookie.ag": {
-        "Faroe Islands": 3.12,
-        "Kazakhstan": 2.32,
-        "Draw": 3.04
+        "Faroe Islands": 2.98,
+        "Kazakhstan": 2.49,
+        "Draw": 2.92
       },
       "Betclic (FR)": {
-        "Faroe Islands": 3.1,
-        "Kazakhstan": 2.3,
-        "Draw": 3.05
-      },
-      "Suprabets": {
-        "Faroe Islands": 3.17,
-        "Kazakhstan": 2.35,
-        "Draw": 2.87
+        "Faroe Islands": 3.02,
+        "Kazakhstan": 2.5,
+        "Draw": 2.98
       },
       "BetAnything": {
-        "Faroe Islands": 3.2,
-        "Kazakhstan": 2.34,
-        "Draw": 2.9
+        "Faroe Islands": 3.05,
+        "Kazakhstan": 2.47,
+        "Draw": 2.83
+      }
+    },
+    "b482dc6936da27dfacadb83fdcaf898d:h2h": {
+      "Betfair": {
+        "Albania": 1.03,
+        "San Marino": 85.0,
+        "Draw": 38.0
+      },
+      "1xBet": {
+        "Albania": 1.03,
+        "San Marino": 55.0,
+        "Draw": 21.0
+      },
+      "888sport": {
+        "Albania": 1.03,
+        "San Marino": 56.0,
+        "Draw": 21.0
+      },
+      "LeoVegas (SE)": {
+        "Albania": 1.01,
+        "San Marino": 41.0,
+        "Draw": 19.0
+      },
+      "Unibet (SE)": {
+        "Albania": 1.03,
+        "San Marino": 46.0,
+        "Draw": 21.0
+      },
+      "William Hill": {
+        "Albania": 1.03,
+        "San Marino": 56.0,
+        "Draw": 21.0
+      },
+      "Marathon Bet": {
+        "Albania": 1.03,
+        "San Marino": 51.0,
+        "Draw": 19.25
+      },
+      "Betclic (FR)": {
+        "Albania": 1.01,
+        "San Marino": 43.0,
+        "Draw": 12.5
+      },
+      "Winamax (FR)": {
+        "Albania": 1.0,
+        "San Marino": 30.0,
+        "Draw": 17.0
+      },
+      "Winamax (DE)": {
+        "Albania": 1.01,
+        "San Marino": 34.0,
+        "Draw": 21.0
+      },
+      "Nordic Bet": {
+        "Albania": 1.0,
+        "San Marino": 51.0,
+        "Draw": 11.0
+      },
+      "Betsson": {
+        "Albania": 1.0,
+        "San Marino": 51.0,
+        "Draw": 11.0
+      }
+    },
+    "53be2cb5dd4f30170d2afc7471cce807:h2h": {
+      "Codere (IT)": {
+        "Atherton Collieries AFC": 1.92,
+        "Trafford FC": 3.25,
+        "Draw": 4.1
+      },
+      "Unibet (SE)": {
+        "Atherton Collieries AFC": 1.85,
+        "Trafford FC": 3.15,
+        "Draw": 3.85
+      },
+      "LeoVegas (SE)": {
+        "Atherton Collieries AFC": 1.85,
+        "Trafford FC": 3.15,
+        "Draw": 3.85
+      },
+      "Betsson": {
+        "Atherton Collieries AFC": 1.92,
+        "Trafford FC": 3.45,
+        "Draw": 3.6
+      },
+      "Winamax (DE)": {
+        "Atherton Collieries AFC": 1.86,
+        "Trafford FC": 3.1,
+        "Draw": 4.1
+      },
+      "Nordic Bet": {
+        "Atherton Collieries AFC": 1.92,
+        "Trafford FC": 3.45,
+        "Draw": 3.6
+      },
+      "1xBet": {
+        "Atherton Collieries AFC": 1.89,
+        "Trafford FC": 3.19,
+        "Draw": 3.9
+      },
+      "Marathon Bet": {
+        "Atherton Collieries AFC": 1.87,
+        "Trafford FC": 3.14,
+        "Draw": 3.9
+      }
+    },
+    "fb0966df4c5e0b1ac4afe14c6f17d08e:h2h": {
+      "Unibet (SE)": {
+        "Bedford Town FC": 2.18,
+        "Wingate and Finchley FC": 2.75,
+        "Draw": 3.4
+      },
+      "Winamax (DE)": {
+        "Bedford Town FC": 2.1,
+        "Wingate and Finchley FC": 2.75,
+        "Draw": 3.75
+      },
+      "LeoVegas (SE)": {
+        "Bedford Town FC": 2.18,
+        "Wingate and Finchley FC": 2.75,
+        "Draw": 3.4
+      },
+      "Marathon Bet": {
+        "Bedford Town FC": 2.09,
+        "Wingate and Finchley FC": 2.86,
+        "Draw": 3.44
+      },
+      "1xBet": {
+        "Bedford Town FC": 2.11,
+        "Wingate and Finchley FC": 2.93,
+        "Draw": 3.44
       }
     }
   },
