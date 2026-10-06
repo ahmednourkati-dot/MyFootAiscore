@@ -1,191 +1,176 @@
 {
   "snapshots": {
-    "2b8ee7414d7336408e155d4f35599d8e:h2h": {
-      "Winamax (FR)": {
-        "Faroe Islands": 1.52,
-        "Kazakhstan": 6.0,
-        "Draw": 3.3
-      },
-      "Winamax (DE)": {
-        "Faroe Islands": 1.52,
-        "Kazakhstan": 6.5,
-        "Draw": 3.4
-      },
-      "Betfair": {
-        "Faroe Islands": 1.61,
-        "Kazakhstan": 8.8,
-        "Draw": 3.7
-      },
-      "LeoVegas (SE)": {
-        "Faroe Islands": 1.63,
-        "Kazakhstan": 6.1,
-        "Draw": 3.05
-      },
-      "Nordic Bet": {
-        "Faroe Islands": 1.49,
-        "Kazakhstan": 7.2,
-        "Draw": 3.4
-      },
-      "Betsson": {
-        "Faroe Islands": 1.49,
-        "Kazakhstan": 7.2,
-        "Draw": 3.4
-      },
-      "888sport": {
-        "Faroe Islands": 1.57,
-        "Kazakhstan": 6.5,
-        "Draw": 3.3
-      },
-      "Unibet (SE)": {
-        "Faroe Islands": 1.63,
-        "Kazakhstan": 6.1,
-        "Draw": 3.05
-      },
-      "MyBookie.ag": {
-        "Faroe Islands": 1.55,
-        "Kazakhstan": 6.25,
-        "Draw": 3.4
-      },
-      "Betclic (FR)": {
-        "Faroe Islands": 1.45,
-        "Kazakhstan": 6.4,
-        "Draw": 3.4
-      },
-      "Suprabets": {
-        "Faroe Islands": 1.5,
-        "Kazakhstan": 7.8,
-        "Draw": 3.7
-      }
-    },
-    "53be2cb5dd4f30170d2afc7471cce807:h2h": {
-      "Codere (IT)": {
-        "Atherton Collieries AFC": 2.1,
-        "Trafford FC": 2.8,
-        "Draw": 4.3
-      },
-      "Unibet (SE)": {
-        "Atherton Collieries AFC": 1.88,
-        "Trafford FC": 2.88,
-        "Draw": 4.1
-      },
-      "LeoVegas (SE)": {
-        "Atherton Collieries AFC": 1.88,
-        "Trafford FC": 2.88,
-        "Draw": 4.1
-      },
-      "Betsson": {
-        "Atherton Collieries AFC": 2.12,
-        "Trafford FC": 2.75,
-        "Draw": 3.85
-      },
-      "Winamax (DE)": {
-        "Atherton Collieries AFC": 2.05,
-        "Trafford FC": 2.7,
-        "Draw": 4.3
-      },
-      "Nordic Bet": {
-        "Atherton Collieries AFC": 2.12,
-        "Trafford FC": 2.75,
-        "Draw": 3.85
-      },
-      "1xBet": {
-        "Atherton Collieries AFC": 2.08,
-        "Trafford FC": 2.71,
-        "Draw": 3.92
-      }
-    },
     "fb0966df4c5e0b1ac4afe14c6f17d08e:h2h": {
-      "Unibet (SE)": {
-        "Bedford Town FC": 1.97,
-        "Wingate and Finchley FC": 2.9,
-        "Draw": 3.7
-      },
-      "Winamax (DE)": {
-        "Bedford Town FC": 1.9,
-        "Wingate and Finchley FC": 2.95,
-        "Draw": 4.3
-      },
-      "LeoVegas (SE)": {
-        "Bedford Town FC": 1.97,
-        "Wingate and Finchley FC": 2.9,
-        "Draw": 3.7
-      },
-      "1xBet": {
-        "Bedford Town FC": 1.85,
-        "Wingate and Finchley FC": 3.14,
-        "Draw": 4.05
-      }
-    },
-    "47bd936e6a94ddd84a6ad08926d0379b:h2h": {
-      "William Hill": {
-        "Belarus": 4.0,
-        "Finland": 1.91,
-        "Draw": 3.0
-      },
-      "1xBet": {
-        "Belarus": 4.5,
-        "Finland": 1.98,
-        "Draw": 3.29
-      },
-      "Unibet (SE)": {
-        "Belarus": 3.85,
-        "Finland": 2.06,
-        "Draw": 3.15
-      },
-      "Winamax (DE)": {
-        "Belarus": 4.1,
-        "Finland": 1.94,
-        "Draw": 3.25
-      },
-      "LeoVegas (SE)": {
-        "Belarus": 3.85,
-        "Finland": 2.06,
-        "Draw": 3.15
-      },
-      "Betfair": {
-        "Belarus": 4.6,
-        "Finland": 2.06,
-        "Draw": 3.25
-      },
-      "Betclic (FR)": {
-        "Belarus": 4.2,
-        "Finland": 1.97,
-        "Draw": 3.1
-      },
-      "888sport": {
-        "Belarus": 4.2,
-        "Finland": 1.95,
-        "Draw": 3.0
-      },
-      "MyBookie.ag": {
-        "Belarus": 4.1,
-        "Finland": 1.95,
-        "Draw": 3.06
-      },
-      "Winamax (FR)": {
-        "Belarus": 4.0,
-        "Finland": 1.92,
-        "Draw": 3.15
-      },
-      "Suprabets": {
-        "Belarus": 4.4,
-        "Finland": 1.98,
-        "Draw": 3.08
-      },
       "Betsson": {
-        "Belarus": 4.1,
-        "Finland": 1.92,
-        "Draw": 3.1
+        "Bedford Town FC": 1.0,
+        "Wingate and Finchley FC": 51.0,
+        "Draw": 51.0
       },
       "Nordic Bet": {
-        "Belarus": 4.1,
-        "Finland": 1.92,
+        "Bedford Town FC": 1.0,
+        "Wingate and Finchley FC": 51.0,
+        "Draw": 51.0
+      }
+    },
+    "854eb35b0f5089043039c93530607b6a:h2h": {
+      "Unibet (SE)": {
+        "Macclesfield Town": 21.0,
+        "Scarborough Athletic FC": 51.0,
+        "Draw": 1.01
+      }
+    },
+    "d62c3962dd0138ee7f2274cac535eb37:h2h": {
+      "Unibet (NL)": {
+        "Sport Recife": 1.85,
+        "São Bernardo": 4.0,
+        "Draw": 3.55
+      },
+      "LeoVegas (SE)": {
+        "Sport Recife": 1.78,
+        "São Bernardo": 3.8,
+        "Draw": 3.35
+      },
+      "Unibet (SE)": {
+        "Sport Recife": 1.85,
+        "São Bernardo": 4.0,
+        "Draw": 3.55
+      },
+      "Nordic Bet": {
+        "Sport Recife": 1.75,
+        "São Bernardo": 4.3,
+        "Draw": 3.4
+      },
+      "Betsson": {
+        "Sport Recife": 1.75,
+        "São Bernardo": 4.3,
+        "Draw": 3.4
+      },
+      "Coolbet": {
+        "Sport Recife": 1.78,
+        "São Bernardo": 4.3,
+        "Draw": 3.6
+      },
+      "Codere (IT)": {
+        "Sport Recife": 1.75,
+        "São Bernardo": 4.3,
+        "Draw": 3.45
+      },
+      "BetOnline.ag": {
+        "Sport Recife": 1.77,
+        "São Bernardo": 4.5,
+        "Draw": 3.6
+      },
+      "1xBet": {
+        "Sport Recife": 1.76,
+        "São Bernardo": 4.25,
+        "Draw": 3.64
+      },
+      "888sport": {
+        "Sport Recife": 1.75,
+        "São Bernardo": 4.5,
+        "Draw": 3.4
+      },
+      "William Hill": {
+        "Sport Recife": 1.75,
+        "São Bernardo": 4.5,
+        "Draw": 3.4
+      },
+      "Pinnacle": {
+        "Sport Recife": 1.78,
+        "São Bernardo": 4.74,
+        "Draw": 3.73
+      },
+      "Matchbook": {
+        "Sport Recife": 1.84,
+        "São Bernardo": 5.0,
+        "Draw": 3.75
+      },
+      "Tipico": {
+        "Sport Recife": 1.62,
+        "São Bernardo": 4.7,
+        "Draw": 3.6
+      },
+      "Betfair": {
+        "Sport Recife": 1.82,
+        "São Bernardo": 4.9,
+        "Draw": 3.75
+      }
+    },
+    "f8c1c020db879bcbb74b47f9c7bc023a:h2h": {
+      "Unibet (NL)": {
+        "Athletic Club (MG)": 4.6,
+        "Goiás": 1.8,
+        "Draw": 3.35
+      },
+      "LeoVegas (SE)": {
+        "Athletic Club (MG)": 4.35,
+        "Goiás": 1.73,
+        "Draw": 3.15
+      },
+      "Unibet (SE)": {
+        "Athletic Club (MG)": 4.6,
+        "Goiás": 1.8,
+        "Draw": 3.35
+      },
+      "BetOnline.ag": {
+        "Athletic Club (MG)": 4.3,
+        "Goiás": 1.94,
+        "Draw": 3.2
+      },
+      "Nordic Bet": {
+        "Athletic Club (MG)": 3.95,
+        "Goiás": 1.92,
         "Draw": 3.1
       },
-      "BetAnything": {
-        "Belarus": 4.35,
-        "Finland": 1.95,
+      "Betsson": {
+        "Athletic Club (MG)": 3.95,
+        "Goiás": 1.92,
         "Draw": 3.1
+      },
+      "Codere (IT)": {
+        "Athletic Club (MG)": 3.95,
+        "Goiás": 1.92,
+        "Draw": 3.15
+      },
+      "Coolbet": {
+        "Athletic Club (MG)": 4.3,
+        "Goiás": 1.87,
+        "Draw": 3.3
+      },
+      "Pinnacle": {
+        "Athletic Club (MG)": 4.53,
+        "Goiás": 1.95,
+        "Draw": 3.26
+      },
+      "1xBet": {
+        "Athletic Club (MG)": 4.34,
+        "Goiás": 1.83,
+        "Draw": 3.3
+      },
+      "888sport": {
+        "Athletic Club (MG)": 4.0,
+        "Goiás": 1.91,
+        "Draw": 3.0
+      },
+      "William Hill": {
+        "Athletic Club (MG)": 4.0,
+        "Goiás": 1.91,
+        "Draw": 3.0
+      },
+      "Matchbook": {
+        "Athletic Club (MG)": 4.8,
+        "Goiás": 2.0,
+        "Draw": 3.35
+      },
+      "Tipico": {
+        "Athletic Club (MG)": 4.5,
+        "Goiás": 1.75,
+        "Draw": 3.2
+      },
+      "Betfair": {
+        "Athletic Club (MG)": 4.7,
+        "Goiás": 2.0,
+        "Draw": 3.35
       }
     }
   },
