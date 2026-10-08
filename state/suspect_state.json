@@ -1,331 +1,296 @@
 {
   "snapshots": {
-    "d75814f21cf0bf28560e38a646ae8fd2:h2h": {
-      "Pinnacle": {
-        "HJK Helsinki": 1.57,
-        "VPS Vaasa": 5.63,
-        "Draw": 4.45
-      },
-      "Unibet (FR)": {
-        "HJK Helsinki": 1.42,
-        "VPS Vaasa": 4.9,
-        "Draw": 3.85
-      },
-      "1xBet": {
-        "HJK Helsinki": 1.54,
-        "VPS Vaasa": 5.4,
-        "Draw": 4.25
-      },
-      "Betsson": {
-        "HJK Helsinki": 1.55,
-        "VPS Vaasa": 5.4,
-        "Draw": 4.05
-      },
-      "Nordic Bet": {
-        "HJK Helsinki": 1.55,
-        "VPS Vaasa": 5.4,
-        "Draw": 4.05
-      },
-      "Coolbet": {
-        "HJK Helsinki": 1.56,
-        "VPS Vaasa": 5.65,
-        "Draw": 4.5
-      },
-      "Unibet (SE)": {
-        "HJK Helsinki": 1.6,
-        "VPS Vaasa": 4.7,
-        "Draw": 3.85
-      },
-      "LeoVegas (SE)": {
-        "HJK Helsinki": 1.56,
-        "VPS Vaasa": 4.6,
-        "Draw": 3.8
-      },
-      "Unibet (NL)": {
-        "HJK Helsinki": 1.6,
-        "VPS Vaasa": 4.7,
-        "Draw": 3.85
-      },
-      "BetOnline.ag": {
-        "HJK Helsinki": 1.57,
-        "VPS Vaasa": 5.55,
-        "Draw": 4.27
-      },
-      "GTbets": {
-        "HJK Helsinki": 1.61,
-        "VPS Vaasa": 5.72,
-        "Draw": 4.08
-      },
-      "William Hill": {
-        "HJK Helsinki": 1.55,
-        "VPS Vaasa": 5.0,
-        "Draw": 4.0
-      },
-      "888sport": {
-        "HJK Helsinki": 1.53,
-        "VPS Vaasa": 5.0,
-        "Draw": 4.0
-      },
-      "Betfair": {
-        "HJK Helsinki": 1.62,
-        "VPS Vaasa": 5.9,
-        "Draw": 4.5
-      },
-      "BetAnything": {
-        "HJK Helsinki": 1.56,
-        "VPS Vaasa": 5.4,
-        "Draw": 4.2
-      },
-      "Matchbook": {
-        "HJK Helsinki": 1.62,
-        "VPS Vaasa": 5.9,
-        "Draw": 4.5
-      }
-    },
-    "65167d69030e2ecfb1f3b2c78ca2469b:h2h": {
-      "Pinnacle": {
-        "AC Oulu": 6.07,
-        "KuPS Kuopio": 1.58,
-        "Draw": 4.19
-      },
-      "Unibet (FR)": {
-        "AC Oulu": 5.2,
-        "KuPS Kuopio": 1.42,
-        "Draw": 3.65
-      },
-      "1xBet": {
-        "AC Oulu": 5.88,
-        "KuPS Kuopio": 1.53,
-        "Draw": 4.05
-      },
-      "Betsson": {
-        "AC Oulu": 5.9,
-        "KuPS Kuopio": 1.55,
-        "Draw": 3.85
-      },
-      "Nordic Bet": {
-        "AC Oulu": 5.9,
-        "KuPS Kuopio": 1.55,
-        "Draw": 3.85
-      },
-      "Coolbet": {
-        "AC Oulu": 6.0,
-        "KuPS Kuopio": 1.55,
-        "Draw": 4.35
-      },
-      "Unibet (NL)": {
-        "AC Oulu": 6.1,
-        "KuPS Kuopio": 1.45,
-        "Draw": 4.0
-      },
-      "Unibet (SE)": {
-        "AC Oulu": 6.1,
-        "KuPS Kuopio": 1.45,
-        "Draw": 4.0
-      },
-      "LeoVegas (SE)": {
-        "AC Oulu": 6.0,
-        "KuPS Kuopio": 1.43,
-        "Draw": 3.95
-      },
-      "GTbets": {
-        "AC Oulu": 5.92,
-        "KuPS Kuopio": 1.53,
-        "Draw": 3.99
-      },
-      "888sport": {
-        "AC Oulu": 5.75,
-        "KuPS Kuopio": 1.5,
-        "Draw": 3.8
-      },
-      "William Hill": {
-        "AC Oulu": 5.8,
-        "KuPS Kuopio": 1.5,
-        "Draw": 3.8
-      },
-      "Betfair": {
-        "AC Oulu": 6.6,
-        "KuPS Kuopio": 1.59,
-        "Draw": 4.4
-      },
-      "BetOnline.ag": {
-        "AC Oulu": 6.2,
-        "KuPS Kuopio": 1.54,
-        "Draw": 4.18
-      },
-      "BetAnything": {
-        "AC Oulu": 5.9,
-        "KuPS Kuopio": 1.54,
-        "Draw": 4.05
-      },
-      "Matchbook": {
-        "AC Oulu": 6.6,
-        "KuPS Kuopio": 1.6,
-        "Draw": 4.4
-      }
-    },
     "73589bfa5d97346dc0b833839589516c:h2h": {
-      "Pinnacle": {
-        "Drogheda United": 8.89,
-        "Shamrock Rovers": 1.36,
-        "Draw": 5.1
-      },
       "Betsson": {
-        "Drogheda United": 7.6,
-        "Shamrock Rovers": 1.34,
-        "Draw": 4.7
-      },
-      "Unibet (FR)": {
-        "Drogheda United": 7.0,
-        "Shamrock Rovers": 1.25,
-        "Draw": 4.4
+        "Drogheda United": 26.0,
+        "Shamrock Rovers": 1.0,
+        "Draw": 17.0
       },
       "Winamax (FR)": {
-        "Drogheda United": 6.75,
-        "Shamrock Rovers": 1.32,
-        "Draw": 4.7
-      },
-      "Tipico": {
-        "Drogheda United": 8.5,
-        "Shamrock Rovers": 1.3,
-        "Draw": 5.0
-      },
-      "William Hill": {
-        "Drogheda United": 8.0,
-        "Shamrock Rovers": 1.35,
-        "Draw": 4.6
+        "Drogheda United": 70.0,
+        "Shamrock Rovers": 1.02,
+        "Draw": 27.0
       },
       "Nordic Bet": {
-        "Drogheda United": 7.6,
-        "Shamrock Rovers": 1.34,
-        "Draw": 4.7
-      },
-      "1xBet": {
-        "Drogheda United": 8.25,
-        "Shamrock Rovers": 1.35,
-        "Draw": 4.8
+        "Drogheda United": 26.0,
+        "Shamrock Rovers": 1.0,
+        "Draw": 17.0
       },
       "Winamax (DE)": {
-        "Drogheda United": 7.0,
-        "Shamrock Rovers": 1.33,
-        "Draw": 4.9
-      },
-      "Unibet (SE)": {
-        "Drogheda United": 8.5,
-        "Shamrock Rovers": 1.34,
-        "Draw": 4.9
-      },
-      "LeoVegas (SE)": {
-        "Drogheda United": 7.5,
-        "Shamrock Rovers": 1.29,
-        "Draw": 4.6
-      },
-      "Unibet (NL)": {
-        "Drogheda United": 8.5,
-        "Shamrock Rovers": 1.34,
-        "Draw": 4.9
-      },
-      "Coolbet": {
-        "Drogheda United": 8.75,
-        "Shamrock Rovers": 1.35,
-        "Draw": 5.0
-      },
-      "BetOnline.ag": {
-        "Drogheda United": 8.6,
-        "Shamrock Rovers": 1.33,
-        "Draw": 4.9
-      },
-      "BetAnything": {
-        "Drogheda United": 8.3,
-        "Shamrock Rovers": 1.33,
-        "Draw": 4.75
+        "Drogheda United": 70.0,
+        "Shamrock Rovers": 1.01,
+        "Draw": 26.0
       },
       "Betfair": {
-        "Drogheda United": 10.0,
-        "Shamrock Rovers": 1.39,
-        "Draw": 5.3
-      },
-      "Matchbook": {
-        "Drogheda United": 10.0,
-        "Shamrock Rovers": 1.39,
-        "Draw": 5.4
+        "Drogheda United": 130.0,
+        "Shamrock Rovers": 1.03,
+        "Draw": 34.0
       }
     },
     "87416e0fc86513494d5993fb8bb340fe:h2h": {
       "Unibet (SE)": {
-        "Ceará": 2.35,
-        "Criciuma": 3.05,
+        "Ceará": 2.48,
+        "Criciuma": 2.88,
         "Draw": 3.1
       },
       "Unibet (NL)": {
-        "Ceará": 2.35,
-        "Criciuma": 3.05,
+        "Ceará": 2.48,
+        "Criciuma": 2.88,
         "Draw": 3.1
       },
       "LeoVegas (SE)": {
-        "Ceará": 2.25,
-        "Criciuma": 2.9,
+        "Ceará": 2.38,
+        "Criciuma": 2.75,
         "Draw": 2.95
       },
       "Nordic Bet": {
-        "Ceará": 2.45,
-        "Criciuma": 2.8,
+        "Ceará": 2.62,
+        "Criciuma": 2.62,
         "Draw": 3.05
       },
       "Betsson": {
-        "Ceará": 2.45,
-        "Criciuma": 2.8,
+        "Ceará": 2.62,
+        "Criciuma": 2.62,
         "Draw": 3.05
       },
       "BetOnline.ag": {
-        "Ceará": 2.56,
-        "Criciuma": 2.92,
+        "Ceará": 2.72,
+        "Criciuma": 2.74,
         "Draw": 3.05
       },
       "1xBet": {
-        "Ceará": 2.47,
-        "Criciuma": 2.79,
+        "Ceará": 2.6,
+        "Criciuma": 2.64,
         "Draw": 3.1
       },
       "Coolbet": {
-        "Ceará": 2.55,
-        "Criciuma": 2.8,
+        "Ceará": 2.65,
+        "Criciuma": 2.65,
         "Draw": 3.15
       },
       "888sport": {
-        "Ceará": 2.5,
-        "Criciuma": 2.8,
-        "Draw": 3.0
+        "Ceará": 2.7,
+        "Criciuma": 2.62,
+        "Draw": 2.9
       },
       "William Hill": {
-        "Ceará": 2.5,
-        "Criciuma": 2.8,
-        "Draw": 3.0
+        "Ceará": 2.7,
+        "Criciuma": 2.62,
+        "Draw": 2.9
       },
       "Pinnacle": {
-        "Ceará": 2.6,
-        "Criciuma": 2.95,
-        "Draw": 3.18
+        "Ceará": 2.83,
+        "Criciuma": 2.73,
+        "Draw": 3.14
       },
       "Codere (IT)": {
-        "Ceará": 2.44,
-        "Criciuma": 2.8,
-        "Draw": 3.1
+        "Ceará": 2.65,
+        "Criciuma": 2.6,
+        "Draw": 3.05
       },
       "Tipico": {
-        "Ceará": 2.45,
-        "Criciuma": 2.85,
-        "Draw": 2.85
+        "Ceará": 2.5,
+        "Criciuma": 2.7,
+        "Draw": 2.95
       },
       "Betfair": {
-        "Ceará": 2.66,
-        "Criciuma": 3.0,
-        "Draw": 3.25
+        "Ceará": 2.9,
+        "Criciuma": 2.88,
+        "Draw": 3.2
       },
       "Matchbook": {
-        "Ceará": 2.66,
-        "Criciuma": 3.05,
-        "Draw": 3.25
+        "Ceará": 2.9,
+        "Criciuma": 2.88,
+        "Draw": 3.2
+      }
+    },
+    "0730f5688a304703da1240d69f1e5cc4:h2h": {
+      "Betclic (FR)": {
+        "Flamengo": 1.68,
+        "Santos": 4.1,
+        "Draw": 3.7
+      },
+      "Unibet (FR)": {
+        "Flamengo": 1.62,
+        "Santos": 4.1,
+        "Draw": 3.7
+      },
+      "MyBookie.ag": {
+        "Flamengo": 1.78,
+        "Santos": 4.2,
+        "Draw": 3.85
+      },
+      "Winamax (FR)": {
+        "Flamengo": 1.68,
+        "Santos": 3.9,
+        "Draw": 3.75
+      },
+      "Winamax (DE)": {
+        "Flamengo": 1.7,
+        "Santos": 4.0,
+        "Draw": 3.85
+      },
+      "William Hill": {
+        "Flamengo": 1.75,
+        "Santos": 4.2,
+        "Draw": 3.6
+      },
+      "1xBet": {
+        "Flamengo": 1.81,
+        "Santos": 4.29,
+        "Draw": 3.92
+      },
+      "888sport": {
+        "Flamengo": 1.75,
+        "Santos": 4.2,
+        "Draw": 3.6
+      },
+      "Codere (IT)": {
+        "Flamengo": 1.78,
+        "Santos": 4.2,
+        "Draw": 3.85
+      },
+      "Betsson": {
+        "Flamengo": 1.75,
+        "Santos": 4.45,
+        "Draw": 3.55
+      },
+      "Nordic Bet": {
+        "Flamengo": 1.75,
+        "Santos": 4.4,
+        "Draw": 3.45
+      },
+      "Tipico": {
+        "Flamengo": 1.67,
+        "Santos": 4.3,
+        "Draw": 3.9
+      },
+      "Pinnacle": {
+        "Flamengo": 1.78,
+        "Santos": 4.51,
+        "Draw": 4.0
+      },
+      "Unibet (NL)": {
+        "Flamengo": 1.73,
+        "Santos": 4.35,
+        "Draw": 3.75
+      },
+      "Unibet (SE)": {
+        "Flamengo": 1.73,
+        "Santos": 4.35,
+        "Draw": 3.75
+      },
+      "LeoVegas (SE)": {
+        "Flamengo": 1.7,
+        "Santos": 4.1,
+        "Draw": 3.6
+      },
+      "Coolbet": {
+        "Flamengo": 1.79,
+        "Santos": 4.46,
+        "Draw": 3.75
+      },
+      "Matchbook": {
+        "Flamengo": 1.83,
+        "Santos": 4.5,
+        "Draw": 4.1
+      },
+      "GTbets": {
+        "Flamengo": 1.74,
+        "Santos": 4.21,
+        "Draw": 3.66
+      },
+      "BetOnline.ag": {
+        "Flamengo": 1.78,
+        "Santos": 4.47,
+        "Draw": 3.98
+      },
+      "Betfair": {
+        "Flamengo": 1.83,
+        "Santos": 4.6,
+        "Draw": 4.1
+      },
+      "BetAnything": {
+        "Flamengo": 1.78,
+        "Santos": 4.47,
+        "Draw": 3.98
+      }
+    },
+    "055608e42ed7fe0f48179452daa64b42:h2h": {
+      "LeoVegas (SE)": {
+        "Grêmio Novorizontino": 1.74,
+        "Nautico PE": 3.9,
+        "Draw": 3.45
+      },
+      "Unibet (NL)": {
+        "Grêmio Novorizontino": 1.8,
+        "Nautico PE": 4.1,
+        "Draw": 3.6
+      },
+      "Unibet (SE)": {
+        "Grêmio Novorizontino": 1.8,
+        "Nautico PE": 4.1,
+        "Draw": 3.6
+      },
+      "Betsson": {
+        "Grêmio Novorizontino": 1.7,
+        "Nautico PE": 4.5,
+        "Draw": 3.6
+      },
+      "Nordic Bet": {
+        "Grêmio Novorizontino": 1.7,
+        "Nautico PE": 4.5,
+        "Draw": 3.6
+      },
+      "BetOnline.ag": {
+        "Grêmio Novorizontino": 1.7,
+        "Nautico PE": 4.7,
+        "Draw": 3.75
+      },
+      "1xBet": {
+        "Grêmio Novorizontino": 1.67,
+        "Nautico PE": 4.54,
+        "Draw": 3.84
+      },
+      "Coolbet": {
+        "Grêmio Novorizontino": 1.7,
+        "Nautico PE": 4.5,
+        "Draw": 3.85
+      },
+      "888sport": {
+        "Grêmio Novorizontino": 1.7,
+        "Nautico PE": 4.5,
+        "Draw": 3.5
+      },
+      "William Hill": {
+        "Grêmio Novorizontino": 1.7,
+        "Nautico PE": 4.5,
+        "Draw": 3.5
+      },
+      "Pinnacle": {
+        "Grêmio Novorizontino": 1.72,
+        "Nautico PE": 4.89,
+        "Draw": 3.88
+      },
+      "Codere (IT)": {
+        "Grêmio Novorizontino": 1.69,
+        "Nautico PE": 4.4,
+        "Draw": 3.65
+      },
+      "Tipico": {
+        "Grêmio Novorizontino": 1.6,
+        "Nautico PE": 4.7,
+        "Draw": 3.7
+      },
+      "Betfair": {
+        "Grêmio Novorizontino": 1.79,
+        "Nautico PE": 5.1,
+        "Draw": 3.95
+      },
+      "Matchbook": {
+        "Grêmio Novorizontino": 1.79,
+        "Nautico PE": 5.1,
+        "Draw": 3.95
       }
     }
   },
