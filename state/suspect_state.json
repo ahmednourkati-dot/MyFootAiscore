@@ -1,296 +1,181 @@
 {
   "snapshots": {
-    "0fe903fa061cb3eaa26720ea1b471b9b:h2h": {
-      "Unibet (SE)": {
-        "Bucheon FC 1995": 5.75,
-        "Gangwon FC": 3.05,
-        "Draw": 1.66
-      },
-      "Unibet (NL)": {
-        "Bucheon FC 1995": 5.75,
-        "Gangwon FC": 3.05,
-        "Draw": 1.66
-      },
-      "LeoVegas (SE)": {
-        "Bucheon FC 1995": 5.5,
-        "Gangwon FC": 2.9,
-        "Draw": 1.55
-      },
-      "Betsson": {
-        "Bucheon FC 1995": 6.8,
-        "Gangwon FC": 2.78,
-        "Draw": 1.68
-      },
-      "Nordic Bet": {
-        "Bucheon FC 1995": 6.8,
-        "Gangwon FC": 2.85,
-        "Draw": 1.68
-      },
-      "Winamax (FR)": {
-        "Bucheon FC 1995": 6.5,
-        "Gangwon FC": 2.65,
-        "Draw": 1.64
-      },
-      "Winamax (DE)": {
-        "Bucheon FC 1995": 7.0,
-        "Gangwon FC": 2.75,
-        "Draw": 1.66
-      },
-      "Pinnacle": {
-        "Bucheon FC 1995": 6.35,
-        "Gangwon FC": 2.43,
-        "Draw": 2.05
-      },
-      "Betfair": {
-        "Bucheon FC 1995": 8.4,
-        "Gangwon FC": 3.2,
-        "Draw": 1.73
-      },
+    "da91766a88adfb770deac7eb54282b77:h2h": {
       "Betclic (FR)": {
-        "Bucheon FC 1995": 7.25,
-        "Gangwon FC": 2.53,
-        "Draw": 1.69
-      },
-      "Tipico": {
-        "Bucheon FC 1995": 8.5,
-        "Gangwon FC": 2.7,
-        "Draw": 1.65
-      },
-      "Coolbet": {
-        "Bucheon FC 1995": 7.0,
-        "Gangwon FC": 2.88,
-        "Draw": 1.73
-      },
-      "Matchbook": {
-        "Bucheon FC 1995": 8.4,
-        "Gangwon FC": 3.2,
-        "Draw": 1.72
+        "Al-Ahli": 1.0,
+        "Al-Fateh": 100.0,
+        "Draw": 40.0
       }
     },
-    "c2a24dc213a6921c6616790e1ec59857:h2h": {
+    "63703a31f1da139c8de9125917549a70:h2h": {
       "Betsson": {
-        "Incheon United": 1.0,
-        "Pohang Steelers": 46.0,
-        "Draw": 19.0
+        "FC Lahti": 200.0,
+        "SJK Seinäjoki": 1.01,
+        "Draw": 13.0
       },
       "Nordic Bet": {
-        "Incheon United": 1.0,
-        "Pohang Steelers": 46.0,
-        "Draw": 19.0
-      },
-      "Winamax (FR)": {
-        "Incheon United": 1.01,
-        "Pohang Steelers": 100.0,
-        "Draw": 38.0
-      },
-      "Winamax (DE)": {
-        "Incheon United": 1.01,
-        "Pohang Steelers": 100.0,
-        "Draw": 38.0
-      },
-      "Betfair": {
-        "Incheon United": 1.01,
-        "Pohang Steelers": 280.0,
-        "Draw": 15.5
-      },
-      "Betclic (FR)": {
-        "Incheon United": 1.02,
-        "Pohang Steelers": 70.0,
-        "Draw": 9.75
-      }
-    },
-    "12fdf684beaef6886c881097adc1bdf6:h2h": {
-      "Nordic Bet": {
-        "Gamba Osaka": 4.5,
-        "Kashima Antlers": 1.62,
-        "Draw": 3.85
-      },
-      "Winamax (FR)": {
-        "Gamba Osaka": 4.2,
-        "Kashima Antlers": 1.6,
-        "Draw": 3.95
+        "FC Lahti": 150.0,
+        "SJK Seinäjoki": 1.01,
+        "Draw": 13.0
       },
       "Coolbet": {
-        "Gamba Osaka": 4.75,
-        "Kashima Antlers": 1.68,
-        "Draw": 4.0
-      },
-      "Winamax (DE)": {
-        "Gamba Osaka": 4.3,
-        "Kashima Antlers": 1.62,
-        "Draw": 4.0
-      },
-      "Betclic (FR)": {
-        "Gamba Osaka": 4.5,
-        "Kashima Antlers": 1.61,
-        "Draw": 3.93
-      },
-      "BetOnline.ag": {
-        "Gamba Osaka": 4.6,
-        "Kashima Antlers": 1.71,
-        "Draw": 4.0
-      },
-      "Pinnacle": {
-        "Gamba Osaka": 4.67,
-        "Kashima Antlers": 1.71,
-        "Draw": 4.19
-      },
-      "Unibet (FR)": {
-        "Gamba Osaka": 4.5,
-        "Kashima Antlers": 1.53,
-        "Draw": 3.95
-      },
-      "William Hill": {
-        "Gamba Osaka": 4.4,
-        "Kashima Antlers": 1.7,
-        "Draw": 3.75
+        "FC Lahti": 1000.0,
+        "SJK Seinäjoki": 1.02,
+        "Draw": 17.0
       },
       "888sport": {
-        "Gamba Osaka": 4.4,
-        "Kashima Antlers": 1.7,
-        "Draw": 3.75
-      },
-      "Betsson": {
-        "Gamba Osaka": 4.5,
-        "Kashima Antlers": 1.62,
-        "Draw": 3.85
-      },
-      "1xBet": {
-        "Gamba Osaka": 4.72,
-        "Kashima Antlers": 1.69,
-        "Draw": 4.08
-      },
-      "LeoVegas (SE)": {
-        "Gamba Osaka": 4.6,
-        "Kashima Antlers": 1.63,
-        "Draw": 4.0
-      },
-      "Unibet (NL)": {
-        "Gamba Osaka": 4.6,
-        "Kashima Antlers": 1.62,
-        "Draw": 3.95
-      },
-      "Unibet (SE)": {
-        "Gamba Osaka": 4.6,
-        "Kashima Antlers": 1.62,
-        "Draw": 3.95
-      },
-      "Tipico": {
-        "Gamba Osaka": 4.7,
-        "Kashima Antlers": 1.6,
-        "Draw": 4.0
+        "FC Lahti": 71.0,
+        "SJK Seinäjoki": 1.08,
+        "Draw": 7.5
       },
       "Betfair": {
-        "Gamba Osaka": 4.8,
-        "Kashima Antlers": 1.74,
-        "Draw": 4.3
-      },
-      "BetAnything": {
-        "Gamba Osaka": 4.6,
-        "Kashima Antlers": 1.71,
-        "Draw": 4.0
-      },
-      "Matchbook": {
-        "Gamba Osaka": 4.8,
-        "Kashima Antlers": 1.74,
-        "Draw": 4.3
+        "FC Lahti": 5.5,
+        "SJK Seinäjoki": 1.01,
+        "Draw": 1.8
       }
     },
-    "831ac48414d7dad57b5a89c43819df32:h2h": {
-      "Nordic Bet": {
-        "Kashiwa Reysol": 2.18,
-        "Vissel Kobe": 3.05,
-        "Draw": 3.3
+    "f5264edfec1328ce555a05d3ffacc98d:h2h": {
+      "Pinnacle": {
+        "Wieczysta Kraków": 1.33,
+        "Wisła Płock": 10.97,
+        "Draw": 4.49
       },
-      "Winamax (FR)": {
-        "Kashiwa Reysol": 2.1,
-        "Vissel Kobe": 2.9,
-        "Draw": 3.3
+      "Nordic Bet": {
+        "Wieczysta Kraków": 1.36,
+        "Wisła Płock": 8.2,
+        "Draw": 4.1
+      },
+      "Betsson": {
+        "Wieczysta Kraków": 1.36,
+        "Wisła Płock": 8.2,
+        "Draw": 4.1
+      },
+      "Winamax (DE)": {
+        "Wieczysta Kraków": 1.34,
+        "Wisła Płock": 8.5,
+        "Draw": 4.2
+      },
+      "Betclic (FR)": {
+        "Wieczysta Kraków": 1.28,
+        "Wisła Płock": 9.25,
+        "Draw": 4.0
+      },
+      "888sport": {
+        "Wieczysta Kraków": 1.36,
+        "Wisła Płock": 8.5,
+        "Draw": 4.0
       },
       "Coolbet": {
-        "Kashiwa Reysol": 2.3,
-        "Vissel Kobe": 3.0,
+        "Wieczysta Kraków": 1.33,
+        "Wisła Płock": 11.0,
+        "Draw": 4.33
+      },
+      "Tipico": {
+        "Wieczysta Kraków": 1.35,
+        "Wisła Płock": 8.0,
+        "Draw": 4.3
+      },
+      "Winamax (FR)": {
+        "Wieczysta Kraków": 1.34,
+        "Wisła Płock": 8.0,
+        "Draw": 4.0
+      },
+      "LeoVegas (SE)": {
+        "Wieczysta Kraków": 1.32,
+        "Wisła Płock": 7.5,
+        "Draw": 3.7
+      },
+      "Unibet (SE)": {
+        "Wieczysta Kraków": 1.4,
+        "Wisła Płock": 8.0,
+        "Draw": 3.85
+      },
+      "Unibet (NL)": {
+        "Wieczysta Kraków": 1.4,
+        "Wisła Płock": 8.0,
+        "Draw": 3.85
+      },
+      "Betfair": {
+        "Wieczysta Kraków": 1.41,
+        "Wisła Płock": 11.5,
+        "Draw": 4.7
+      },
+      "Matchbook": {
+        "Wieczysta Kraków": 1.41,
+        "Wisła Płock": 11.5,
+        "Draw": 4.7
+      }
+    },
+    "78773ce49c803868efcc014fce7299c2:h2h": {
+      "Pinnacle": {
+        "1. FC Heidenheim": 2.35,
+        "1. FC Kaiserslautern": 3.17,
+        "Draw": 3.18
+      },
+      "Nordic Bet": {
+        "1. FC Heidenheim": 2.2,
+        "1. FC Kaiserslautern": 3.05,
+        "Draw": 3.2
+      },
+      "Betsson": {
+        "1. FC Heidenheim": 2.3,
+        "1. FC Kaiserslautern": 2.85,
+        "Draw": 3.2
+      },
+      "Winamax (FR)": {
+        "1. FC Heidenheim": 2.15,
+        "1. FC Kaiserslautern": 2.8,
+        "Draw": 3.1
+      },
+      "Winamax (DE)": {
+        "1. FC Heidenheim": 2.2,
+        "1. FC Kaiserslautern": 2.85,
+        "Draw": 3.1
+      },
+      "Tipico": {
+        "1. FC Heidenheim": 2.2,
+        "1. FC Kaiserslautern": 3.1,
+        "Draw": 3.2
+      },
+      "Betclic (FR)": {
+        "1. FC Heidenheim": 2.08,
+        "1. FC Kaiserslautern": 2.92,
+        "Draw": 3.08
+      },
+      "Coolbet": {
+        "1. FC Heidenheim": 2.25,
+        "1. FC Kaiserslautern": 3.25,
         "Draw": 3.5
       },
-      "Winamax (DE)": {
-        "Kashiwa Reysol": 2.15,
-        "Vissel Kobe": 3.0,
-        "Draw": 3.4
-      },
-      "Betclic (FR)": {
-        "Kashiwa Reysol": 2.12,
-        "Vissel Kobe": 3.05,
-        "Draw": 3.32
-      },
-      "BetOnline.ag": {
-        "Kashiwa Reysol": 2.26,
-        "Vissel Kobe": 3.2,
-        "Draw": 3.45
-      },
-      "Pinnacle": {
-        "Kashiwa Reysol": 2.25,
-        "Vissel Kobe": 3.28,
-        "Draw": 3.52
-      },
-      "Unibet (FR)": {
-        "Kashiwa Reysol": 1.99,
-        "Vissel Kobe": 3.05,
-        "Draw": 3.35
-      },
-      "William Hill": {
-        "Kashiwa Reysol": 2.2,
-        "Vissel Kobe": 3.0,
-        "Draw": 3.25
-      },
-      "888sport": {
-        "Kashiwa Reysol": 2.2,
-        "Vissel Kobe": 3.0,
-        "Draw": 3.25
-      },
-      "Betsson": {
-        "Kashiwa Reysol": 2.18,
-        "Vissel Kobe": 3.05,
-        "Draw": 3.3
-      },
-      "1xBet": {
-        "Kashiwa Reysol": 2.3,
-        "Vissel Kobe": 3.14,
-        "Draw": 3.4
+      "Betfair": {
+        "1. FC Heidenheim": 2.34,
+        "1. FC Kaiserslautern": 3.35,
+        "Draw": 3.55
       },
       "LeoVegas (SE)": {
-        "Kashiwa Reysol": 2.3,
-        "Vissel Kobe": 2.95,
-        "Draw": 3.25
+        "1. FC Heidenheim": 2.02,
+        "1. FC Kaiserslautern": 2.9,
+        "Draw": 2.95
       },
       "Unibet (NL)": {
-        "Kashiwa Reysol": 2.28,
-        "Vissel Kobe": 2.95,
-        "Draw": 3.25
+        "1. FC Heidenheim": 2.2,
+        "1. FC Kaiserslautern": 3.15,
+        "Draw": 3.0
       },
       "Unibet (SE)": {
-        "Kashiwa Reysol": 2.28,
-        "Vissel Kobe": 2.95,
-        "Draw": 3.25
+        "1. FC Heidenheim": 2.2,
+        "1. FC Kaiserslautern": 3.15,
+        "Draw": 3.0
       },
-      "Tipico": {
-        "Kashiwa Reysol": 2.2,
-        "Vissel Kobe": 2.95,
-        "Draw": 3.4
-      },
-      "Betfair": {
-        "Kashiwa Reysol": 2.26,
-        "Vissel Kobe": 3.35,
-        "Draw": 3.65
-      },
-      "BetAnything": {
-        "Kashiwa Reysol": 2.26,
-        "Vissel Kobe": 3.2,
-        "Draw": 3.45
+      "888sport": {
+        "1. FC Heidenheim": 2.2,
+        "1. FC Kaiserslautern": 2.9,
+        "Draw": 3.2
       },
       "Matchbook": {
-        "Kashiwa Reysol": 2.26,
-        "Vissel Kobe": 3.35,
-        "Draw": 3.65
+        "1. FC Heidenheim": 2.34,
+        "1. FC Kaiserslautern": 3.4,
+        "Draw": 3.5
       }
     }
   },
@@ -2039,23 +1924,26 @@
       "confidence": 25,
       "alert_type": "value",
       "alerted_at": "2026-10-09T08:55:49.019687+00:00"
+    },
+    {
+      "state_key": "78773ce49c803868efcc014fce7299c2:h2h",
+      "event_id": "78773ce49c803868efcc014fce7299c2",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "1. FC Heidenheim",
+      "away_team": "1. FC Kaiserslautern",
+      "commence_time": "2026-10-09T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.55,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-10-09T16:57:44.031183+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "0fe903fa061cb3eaa26720ea1b471b9b:h2h|Betclic (FR)|Bucheon FC 1995",
-    "0fe903fa061cb3eaa26720ea1b471b9b:h2h|Betfair|Bucheon FC 1995",
-    "0fe903fa061cb3eaa26720ea1b471b9b:h2h|Betfair|Gangwon FC",
-    "0fe903fa061cb3eaa26720ea1b471b9b:h2h|Betsson|Gangwon FC",
-    "0fe903fa061cb3eaa26720ea1b471b9b:h2h|Coolbet|Gangwon FC",
-    "0fe903fa061cb3eaa26720ea1b471b9b:h2h|LeoVegas (SE)|Gangwon FC",
-    "0fe903fa061cb3eaa26720ea1b471b9b:h2h|Matchbook|Bucheon FC 1995",
-    "0fe903fa061cb3eaa26720ea1b471b9b:h2h|Matchbook|Gangwon FC",
-    "0fe903fa061cb3eaa26720ea1b471b9b:h2h|Nordic Bet|Gangwon FC",
-    "0fe903fa061cb3eaa26720ea1b471b9b:h2h|Tipico|Bucheon FC 1995",
-    "0fe903fa061cb3eaa26720ea1b471b9b:h2h|Tipico|Gangwon FC",
-    "0fe903fa061cb3eaa26720ea1b471b9b:h2h|Unibet (NL)|Gangwon FC",
-    "0fe903fa061cb3eaa26720ea1b471b9b:h2h|Unibet (SE)|Gangwon FC",
-    "0fe903fa061cb3eaa26720ea1b471b9b:h2h|Winamax (DE)|Gangwon FC"
+    "78773ce49c803868efcc014fce7299c2:h2h|Betfair|Draw"
   ]
 }
