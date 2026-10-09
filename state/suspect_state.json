@@ -1,296 +1,226 @@
 {
   "snapshots": {
-    "73589bfa5d97346dc0b833839589516c:h2h": {
-      "Betsson": {
-        "Drogheda United": 26.0,
-        "Shamrock Rovers": 1.0,
-        "Draw": 17.0
-      },
-      "Winamax (FR)": {
-        "Drogheda United": 70.0,
-        "Shamrock Rovers": 1.02,
-        "Draw": 27.0
-      },
-      "Nordic Bet": {
-        "Drogheda United": 26.0,
-        "Shamrock Rovers": 1.0,
-        "Draw": 17.0
-      },
-      "Winamax (DE)": {
-        "Drogheda United": 70.0,
-        "Shamrock Rovers": 1.01,
-        "Draw": 26.0
-      },
-      "Betfair": {
-        "Drogheda United": 130.0,
-        "Shamrock Rovers": 1.03,
-        "Draw": 34.0
-      }
-    },
     "87416e0fc86513494d5993fb8bb340fe:h2h": {
       "Unibet (SE)": {
-        "Ceará": 2.48,
-        "Criciuma": 2.88,
-        "Draw": 3.1
+        "Ceará": 6.0,
+        "Criciuma": 7.0,
+        "Draw": 1.29
       },
       "Unibet (NL)": {
-        "Ceará": 2.48,
-        "Criciuma": 2.88,
-        "Draw": 3.1
+        "Ceará": 5.75,
+        "Criciuma": 6.75,
+        "Draw": 1.24
       },
       "LeoVegas (SE)": {
-        "Ceará": 2.38,
-        "Criciuma": 2.75,
-        "Draw": 2.95
+        "Ceará": 5.6,
+        "Criciuma": 6.25,
+        "Draw": 1.24
       },
       "Nordic Bet": {
-        "Ceará": 2.62,
-        "Criciuma": 2.62,
-        "Draw": 3.05
+        "Ceará": 5.35,
+        "Criciuma": 5.35,
+        "Draw": 1.36
       },
       "Betsson": {
-        "Ceará": 2.62,
-        "Criciuma": 2.62,
-        "Draw": 3.05
-      },
-      "BetOnline.ag": {
-        "Ceará": 2.72,
-        "Criciuma": 2.74,
-        "Draw": 3.05
-      },
-      "1xBet": {
-        "Ceará": 2.6,
-        "Criciuma": 2.64,
-        "Draw": 3.1
+        "Ceará": 5.35,
+        "Criciuma": 5.35,
+        "Draw": 1.36
       },
       "Coolbet": {
-        "Ceará": 2.65,
-        "Criciuma": 2.65,
-        "Draw": 3.15
+        "Ceará": 6.0,
+        "Criciuma": 6.5,
+        "Draw": 1.29
       },
       "888sport": {
-        "Ceará": 2.7,
-        "Criciuma": 2.62,
-        "Draw": 2.9
-      },
-      "William Hill": {
-        "Ceará": 2.7,
-        "Criciuma": 2.62,
-        "Draw": 2.9
+        "Ceará": 6.0,
+        "Criciuma": 6.5,
+        "Draw": 1.25
       },
       "Pinnacle": {
-        "Ceará": 2.83,
-        "Criciuma": 2.73,
-        "Draw": 3.14
-      },
-      "Codere (IT)": {
-        "Ceará": 2.65,
-        "Criciuma": 2.6,
-        "Draw": 3.05
+        "Ceará": 5.06,
+        "Criciuma": 5.86,
+        "Draw": 1.43
       },
       "Tipico": {
-        "Ceará": 2.5,
-        "Criciuma": 2.7,
-        "Draw": 2.95
+        "Ceará": 6.0,
+        "Criciuma": 5.2,
+        "Draw": 1.35
       },
       "Betfair": {
-        "Ceará": 2.9,
-        "Criciuma": 2.88,
-        "Draw": 3.2
+        "Ceará": 6.6,
+        "Criciuma": 6.8,
+        "Draw": 1.41
       },
       "Matchbook": {
-        "Ceará": 2.9,
-        "Criciuma": 2.88,
-        "Draw": 3.2
+        "Ceará": 6.2,
+        "Criciuma": 8.4,
+        "Draw": 1.35
       }
     },
     "0730f5688a304703da1240d69f1e5cc4:h2h": {
       "Betclic (FR)": {
-        "Flamengo": 1.68,
-        "Santos": 4.1,
-        "Draw": 3.7
-      },
-      "Unibet (FR)": {
-        "Flamengo": 1.62,
-        "Santos": 4.1,
-        "Draw": 3.7
+        "Flamengo": 1.31,
+        "Santos": 12.0,
+        "Draw": 3.45
       },
       "MyBookie.ag": {
-        "Flamengo": 1.78,
-        "Santos": 4.2,
-        "Draw": 3.85
+        "Flamengo": 1.03,
+        "Santos": 62.0,
+        "Draw": 11.25
       },
       "Winamax (FR)": {
-        "Flamengo": 1.68,
-        "Santos": 3.9,
-        "Draw": 3.75
+        "Flamengo": 1.27,
+        "Santos": 19.0,
+        "Draw": 3.95
       },
       "Winamax (DE)": {
-        "Flamengo": 1.7,
-        "Santos": 4.0,
-        "Draw": 3.85
-      },
-      "William Hill": {
-        "Flamengo": 1.75,
-        "Santos": 4.2,
-        "Draw": 3.6
-      },
-      "1xBet": {
-        "Flamengo": 1.81,
-        "Santos": 4.29,
-        "Draw": 3.92
+        "Flamengo": 1.25,
+        "Santos": 20.0,
+        "Draw": 4.1
       },
       "888sport": {
-        "Flamengo": 1.75,
-        "Santos": 4.2,
-        "Draw": 3.6
-      },
-      "Codere (IT)": {
-        "Flamengo": 1.78,
-        "Santos": 4.2,
-        "Draw": 3.85
-      },
-      "Betsson": {
-        "Flamengo": 1.75,
-        "Santos": 4.45,
-        "Draw": 3.55
-      },
-      "Nordic Bet": {
-        "Flamengo": 1.75,
-        "Santos": 4.4,
-        "Draw": 3.45
-      },
-      "Tipico": {
-        "Flamengo": 1.67,
-        "Santos": 4.3,
+        "Flamengo": 1.3,
+        "Santos": 15.0,
         "Draw": 3.9
       },
-      "Pinnacle": {
-        "Flamengo": 1.78,
-        "Santos": 4.51,
-        "Draw": 4.0
-      },
-      "Unibet (NL)": {
-        "Flamengo": 1.73,
-        "Santos": 4.35,
-        "Draw": 3.75
-      },
-      "Unibet (SE)": {
-        "Flamengo": 1.73,
-        "Santos": 4.35,
-        "Draw": 3.75
-      },
-      "LeoVegas (SE)": {
-        "Flamengo": 1.7,
-        "Santos": 4.1,
-        "Draw": 3.6
-      },
-      "Coolbet": {
-        "Flamengo": 1.79,
-        "Santos": 4.46,
-        "Draw": 3.75
-      },
-      "Matchbook": {
-        "Flamengo": 1.83,
-        "Santos": 4.5,
-        "Draw": 4.1
-      },
-      "GTbets": {
-        "Flamengo": 1.74,
-        "Santos": 4.21,
-        "Draw": 3.66
-      },
-      "BetOnline.ag": {
-        "Flamengo": 1.78,
-        "Santos": 4.47,
-        "Draw": 3.98
-      },
-      "Betfair": {
-        "Flamengo": 1.83,
-        "Santos": 4.6,
-        "Draw": 4.1
-      },
-      "BetAnything": {
-        "Flamengo": 1.78,
-        "Santos": 4.47,
-        "Draw": 3.98
-      }
-    },
-    "055608e42ed7fe0f48179452daa64b42:h2h": {
-      "LeoVegas (SE)": {
-        "Grêmio Novorizontino": 1.74,
-        "Nautico PE": 3.9,
-        "Draw": 3.45
-      },
-      "Unibet (NL)": {
-        "Grêmio Novorizontino": 1.8,
-        "Nautico PE": 4.1,
-        "Draw": 3.6
-      },
-      "Unibet (SE)": {
-        "Grêmio Novorizontino": 1.8,
-        "Nautico PE": 4.1,
-        "Draw": 3.6
-      },
       "Betsson": {
-        "Grêmio Novorizontino": 1.7,
-        "Nautico PE": 4.5,
-        "Draw": 3.6
+        "Flamengo": 1.28,
+        "Santos": 16.0,
+        "Draw": 3.9
       },
       "Nordic Bet": {
-        "Grêmio Novorizontino": 1.7,
-        "Nautico PE": 4.5,
-        "Draw": 3.6
-      },
-      "BetOnline.ag": {
-        "Grêmio Novorizontino": 1.7,
-        "Nautico PE": 4.7,
-        "Draw": 3.75
-      },
-      "1xBet": {
-        "Grêmio Novorizontino": 1.67,
-        "Nautico PE": 4.54,
-        "Draw": 3.84
-      },
-      "Coolbet": {
-        "Grêmio Novorizontino": 1.7,
-        "Nautico PE": 4.5,
-        "Draw": 3.85
-      },
-      "888sport": {
-        "Grêmio Novorizontino": 1.7,
-        "Nautico PE": 4.5,
-        "Draw": 3.5
-      },
-      "William Hill": {
-        "Grêmio Novorizontino": 1.7,
-        "Nautico PE": 4.5,
-        "Draw": 3.5
-      },
-      "Pinnacle": {
-        "Grêmio Novorizontino": 1.72,
-        "Nautico PE": 4.89,
-        "Draw": 3.88
-      },
-      "Codere (IT)": {
-        "Grêmio Novorizontino": 1.69,
-        "Nautico PE": 4.4,
+        "Flamengo": 1.31,
+        "Santos": 14.0,
         "Draw": 3.65
       },
       "Tipico": {
-        "Grêmio Novorizontino": 1.6,
-        "Nautico PE": 4.7,
-        "Draw": 3.7
+        "Flamengo": 1.27,
+        "Santos": 20.0,
+        "Draw": 4.0
+      },
+      "Unibet (NL)": {
+        "Flamengo": 1.23,
+        "Santos": 20.0,
+        "Draw": 3.85
+      },
+      "Unibet (SE)": {
+        "Flamengo": 1.27,
+        "Santos": 20.0,
+        "Draw": 4.1
+      },
+      "LeoVegas (SE)": {
+        "Flamengo": 1.21,
+        "Santos": 19.0,
+        "Draw": 3.85
+      },
+      "Coolbet": {
+        "Flamengo": 1.29,
+        "Santos": 25.0,
+        "Draw": 4.33
       },
       "Betfair": {
-        "Grêmio Novorizontino": 1.79,
-        "Nautico PE": 5.1,
-        "Draw": 3.95
+        "Flamengo": 1.34,
+        "Santos": 24.0,
+        "Draw": 2.92
+      }
+    },
+    "055608e42ed7fe0f48179452daa64b42:h2h": {
+      "Betsson": {
+        "Grêmio Novorizontino": 1.01,
+        "Nautico PE": 80.0,
+        "Draw": 34.0
+      },
+      "Nordic Bet": {
+        "Grêmio Novorizontino": 1.01,
+        "Nautico PE": 80.0,
+        "Draw": 34.0
+      },
+      "Coolbet": {
+        "Grêmio Novorizontino": 1.0,
+        "Nautico PE": 40.0,
+        "Draw": 16.0
+      },
+      "888sport": {
+        "Grêmio Novorizontino": 1.01,
+        "Nautico PE": 126.0,
+        "Draw": 29.0
+      },
+      "Betfair": {
+        "Grêmio Novorizontino": 1.02,
+        "Nautico PE": 110.0,
+        "Draw": 34.0
+      }
+    },
+    "61d9f8c88fe17a59b75af74b21f7e8c8:h2h": {
+      "Betclic (FR)": {
+        "Atletico Mineiro": 3.9,
+        "Atletico Paranaense": 2.33,
+        "Draw": 2.23
+      },
+      "Winamax (FR)": {
+        "Atletico Mineiro": 4.2,
+        "Atletico Paranaense": 2.2,
+        "Draw": 2.2
+      },
+      "Winamax (DE)": {
+        "Atletico Mineiro": 4.4,
+        "Atletico Paranaense": 2.25,
+        "Draw": 2.25
+      },
+      "888sport": {
+        "Atletico Mineiro": 4.2,
+        "Atletico Paranaense": 2.38,
+        "Draw": 2.25
+      },
+      "Betsson": {
+        "Atletico Mineiro": 4.6,
+        "Atletico Paranaense": 2.25,
+        "Draw": 2.3
+      },
+      "Nordic Bet": {
+        "Atletico Mineiro": 4.2,
+        "Atletico Paranaense": 2.35,
+        "Draw": 2.3
+      },
+      "Tipico": {
+        "Atletico Mineiro": 5.0,
+        "Atletico Paranaense": 2.2,
+        "Draw": 2.3
+      },
+      "Pinnacle": {
+        "Atletico Mineiro": 4.4,
+        "Atletico Paranaense": 2.43,
+        "Draw": 2.4
+      },
+      "Unibet (NL)": {
+        "Atletico Mineiro": 4.35,
+        "Atletico Paranaense": 2.33,
+        "Draw": 2.12
+      },
+      "LeoVegas (SE)": {
+        "Atletico Mineiro": 4.35,
+        "Atletico Paranaense": 2.2,
+        "Draw": 2.15
+      },
+      "Unibet (SE)": {
+        "Atletico Mineiro": 4.6,
+        "Atletico Paranaense": 2.35,
+        "Draw": 2.28
+      },
+      "Coolbet": {
+        "Atletico Mineiro": 5.0,
+        "Atletico Paranaense": 2.4,
+        "Draw": 2.4
       },
       "Matchbook": {
-        "Grêmio Novorizontino": 1.79,
-        "Nautico PE": 5.1,
-        "Draw": 3.95
+        "Atletico Mineiro": 4.7,
+        "Atletico Paranaense": 2.56,
+        "Draw": 2.48
+      },
+      "Betfair": {
+        "Atletico Mineiro": 4.7,
+        "Atletico Paranaense": 2.52,
+        "Draw": 2.54
       }
     }
   },
@@ -1975,11 +1905,230 @@
       "confidence": 6,
       "alert_type": "value",
       "alerted_at": "2026-10-08T05:54:07.855766+00:00"
+    },
+    {
+      "state_key": "87416e0fc86513494d5993fb8bb340fe:h2h",
+      "event_id": "87416e0fc86513494d5993fb8bb340fe",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ceará",
+      "away_team": "Criciuma",
+      "commence_time": "2026-10-08T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Ceará",
+      "odds_at_alert": 6.0,
+      "stake_pct": 3.0,
+      "confidence": 11,
+      "alert_type": "value",
+      "alerted_at": "2026-10-09T00:17:28.727223+00:00"
+    },
+    {
+      "state_key": "87416e0fc86513494d5993fb8bb340fe:h2h",
+      "event_id": "87416e0fc86513494d5993fb8bb340fe",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ceará",
+      "away_team": "Criciuma",
+      "commence_time": "2026-10-08T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Criciuma",
+      "odds_at_alert": 7.0,
+      "stake_pct": 3.0,
+      "confidence": 12,
+      "alert_type": "value",
+      "alerted_at": "2026-10-09T00:17:29.210762+00:00"
+    },
+    {
+      "state_key": "87416e0fc86513494d5993fb8bb340fe:h2h",
+      "event_id": "87416e0fc86513494d5993fb8bb340fe",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ceará",
+      "away_team": "Criciuma",
+      "commence_time": "2026-10-08T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Ceará",
+      "odds_at_alert": 5.75,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-10-09T00:17:29.652426+00:00"
+    },
+    {
+      "state_key": "87416e0fc86513494d5993fb8bb340fe:h2h",
+      "event_id": "87416e0fc86513494d5993fb8bb340fe",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ceará",
+      "away_team": "Criciuma",
+      "commence_time": "2026-10-08T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Criciuma",
+      "odds_at_alert": 6.75,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-10-09T00:17:30.137595+00:00"
+    },
+    {
+      "state_key": "87416e0fc86513494d5993fb8bb340fe:h2h",
+      "event_id": "87416e0fc86513494d5993fb8bb340fe",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ceará",
+      "away_team": "Criciuma",
+      "commence_time": "2026-10-08T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Ceará",
+      "odds_at_alert": 6.0,
+      "stake_pct": 3.0,
+      "confidence": 11,
+      "alert_type": "value",
+      "alerted_at": "2026-10-09T00:17:30.579442+00:00"
+    },
+    {
+      "state_key": "87416e0fc86513494d5993fb8bb340fe:h2h",
+      "event_id": "87416e0fc86513494d5993fb8bb340fe",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ceará",
+      "away_team": "Criciuma",
+      "commence_time": "2026-10-08T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Ceará",
+      "odds_at_alert": 6.0,
+      "stake_pct": 3.0,
+      "confidence": 11,
+      "alert_type": "value",
+      "alerted_at": "2026-10-09T00:17:31.041349+00:00"
+    },
+    {
+      "state_key": "87416e0fc86513494d5993fb8bb340fe:h2h",
+      "event_id": "87416e0fc86513494d5993fb8bb340fe",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ceará",
+      "away_team": "Criciuma",
+      "commence_time": "2026-10-08T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Ceará",
+      "odds_at_alert": 6.0,
+      "stake_pct": 3.0,
+      "confidence": 11,
+      "alert_type": "value",
+      "alerted_at": "2026-10-09T00:17:31.487539+00:00"
+    },
+    {
+      "state_key": "87416e0fc86513494d5993fb8bb340fe:h2h",
+      "event_id": "87416e0fc86513494d5993fb8bb340fe",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ceará",
+      "away_team": "Criciuma",
+      "commence_time": "2026-10-08T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Ceará",
+      "odds_at_alert": 6.6,
+      "stake_pct": 5.0,
+      "confidence": 22,
+      "alert_type": "value",
+      "alerted_at": "2026-10-09T00:17:31.923781+00:00"
+    },
+    {
+      "state_key": "87416e0fc86513494d5993fb8bb340fe:h2h",
+      "event_id": "87416e0fc86513494d5993fb8bb340fe",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ceará",
+      "away_team": "Criciuma",
+      "commence_time": "2026-10-08T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Criciuma",
+      "odds_at_alert": 6.8,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-10-09T00:17:32.366102+00:00"
+    },
+    {
+      "state_key": "87416e0fc86513494d5993fb8bb340fe:h2h",
+      "event_id": "87416e0fc86513494d5993fb8bb340fe",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ceará",
+      "away_team": "Criciuma",
+      "commence_time": "2026-10-08T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Ceará",
+      "odds_at_alert": 6.2,
+      "stake_pct": 3.0,
+      "confidence": 15,
+      "alert_type": "value",
+      "alerted_at": "2026-10-09T00:17:32.833087+00:00"
+    },
+    {
+      "state_key": "87416e0fc86513494d5993fb8bb340fe:h2h",
+      "event_id": "87416e0fc86513494d5993fb8bb340fe",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ceará",
+      "away_team": "Criciuma",
+      "commence_time": "2026-10-08T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Criciuma",
+      "odds_at_alert": 8.4,
+      "stake_pct": 5.0,
+      "confidence": 34,
+      "alert_type": "value",
+      "alerted_at": "2026-10-09T00:17:33.293248+00:00"
+    },
+    {
+      "state_key": "61d9f8c88fe17a59b75af74b21f7e8c8:h2h",
+      "event_id": "61d9f8c88fe17a59b75af74b21f7e8c8",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Atletico Paranaense",
+      "away_team": "Atletico Mineiro",
+      "commence_time": "2026-10-08T23:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Atletico Mineiro",
+      "odds_at_alert": 5.0,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-10-09T00:17:33.755197+00:00"
+    },
+    {
+      "state_key": "61d9f8c88fe17a59b75af74b21f7e8c8:h2h",
+      "event_id": "61d9f8c88fe17a59b75af74b21f7e8c8",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Atletico Paranaense",
+      "away_team": "Atletico Mineiro",
+      "commence_time": "2026-10-08T23:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Atletico Mineiro",
+      "odds_at_alert": 5.0,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-10-09T00:17:34.237405+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "73589bfa5d97346dc0b833839589516c:h2h|Betfair|Drogheda United",
-    "73589bfa5d97346dc0b833839589516c:h2h|Matchbook|Drogheda United"
+    "61d9f8c88fe17a59b75af74b21f7e8c8:h2h|Coolbet|Atletico Mineiro",
+    "61d9f8c88fe17a59b75af74b21f7e8c8:h2h|Tipico|Atletico Mineiro",
+    "87416e0fc86513494d5993fb8bb340fe:h2h|888sport|Ceará",
+    "87416e0fc86513494d5993fb8bb340fe:h2h|Betfair|Ceará",
+    "87416e0fc86513494d5993fb8bb340fe:h2h|Betfair|Criciuma",
+    "87416e0fc86513494d5993fb8bb340fe:h2h|Coolbet|Ceará",
+    "87416e0fc86513494d5993fb8bb340fe:h2h|Matchbook|Ceará",
+    "87416e0fc86513494d5993fb8bb340fe:h2h|Matchbook|Criciuma",
+    "87416e0fc86513494d5993fb8bb340fe:h2h|Tipico|Ceará",
+    "87416e0fc86513494d5993fb8bb340fe:h2h|Unibet (NL)|Ceará",
+    "87416e0fc86513494d5993fb8bb340fe:h2h|Unibet (NL)|Criciuma",
+    "87416e0fc86513494d5993fb8bb340fe:h2h|Unibet (SE)|Ceará",
+    "87416e0fc86513494d5993fb8bb340fe:h2h|Unibet (SE)|Criciuma"
   ]
 }
