@@ -1,276 +1,316 @@
 {
   "snapshots": {
-    "52782f7a9b6917268227ca65fec15528:h2h": {
-      "Betfair": {
-        "Atlético Tucuman": 8.2,
-        "Gimnasia La Plata": 3.8,
-        "Draw": 1.6
-      },
-      "Betsson": {
-        "Atlético Tucuman": 6.3,
-        "Gimnasia La Plata": 3.4,
-        "Draw": 1.55
+    "788a2119a53738450e6cda4ebdb756a0:h2h": {
+      "Coolbet": {
+        "Cerezo Osaka": 2.3,
+        "Yokohama F Marinos": 3.4,
+        "Draw": 2.88
       },
       "Nordic Bet": {
-        "Atlético Tucuman": 6.3,
-        "Gimnasia La Plata": 3.5,
-        "Draw": 1.52
-      },
-      "Winamax (DE)": {
-        "Atlético Tucuman": 6.25,
-        "Gimnasia La Plata": 3.55,
-        "Draw": 1.5
-      },
-      "Winamax (FR)": {
-        "Atlético Tucuman": 6.0,
-        "Gimnasia La Plata": 3.5,
-        "Draw": 1.48
+        "Cerezo Osaka": 2.25,
+        "Yokohama F Marinos": 3.2,
+        "Draw": 2.68
       },
       "Betclic (FR)": {
-        "Atlético Tucuman": 6.1,
-        "Gimnasia La Plata": 3.08,
-        "Draw": 1.56
-      },
-      "Unibet (SE)": {
-        "Atlético Tucuman": 6.5,
-        "Gimnasia La Plata": 4.1,
-        "Draw": 1.45
-      },
-      "LeoVegas (SE)": {
-        "Atlético Tucuman": 6.75,
-        "Gimnasia La Plata": 3.55,
-        "Draw": 1.41
-      },
-      "Pinnacle": {
-        "Atlético Tucuman": 6.14,
-        "Gimnasia La Plata": 3.31,
-        "Draw": 1.68
-      }
-    },
-    "f87773f0aca0cfaa154985be26336c21:h2h": {
-      "Betfair": {
-        "Boca Juniors": 2.5,
-        "Instituto de Córdoba": 3.35,
-        "Draw": 3.15
-      },
-      "1xBet": {
-        "Boca Juniors": 2.36,
-        "Instituto de Córdoba": 3.48,
-        "Draw": 3.02
-      },
-      "Winamax (FR)": {
-        "Boca Juniors": 2.25,
-        "Instituto de Córdoba": 2.9,
+        "Cerezo Osaka": 2.2,
+        "Yokohama F Marinos": 3.25,
         "Draw": 2.8
       },
-      "Unibet (FR)": {
-        "Boca Juniors": 2.1,
-        "Instituto de Córdoba": 3.0,
-        "Draw": 2.85
-      },
-      "Winamax (DE)": {
-        "Boca Juniors": 2.3,
-        "Instituto de Córdoba": 3.0,
-        "Draw": 2.9
-      },
-      "Betclic (FR)": {
-        "Boca Juniors": 2.25,
-        "Instituto de Córdoba": 2.9,
-        "Draw": 2.85
-      },
-      "Codere (IT)": {
-        "Boca Juniors": 2.4,
-        "Instituto de Córdoba": 3.15,
-        "Draw": 3.05
-      },
-      "Nordic Bet": {
-        "Boca Juniors": 2.42,
-        "Instituto de Córdoba": 3.2,
-        "Draw": 3.0
-      },
-      "LeoVegas (SE)": {
-        "Boca Juniors": 2.14,
-        "Instituto de Córdoba": 3.3,
-        "Draw": 3.0
-      },
-      "Unibet (SE)": {
-        "Boca Juniors": 2.25,
-        "Instituto de Córdoba": 3.55,
-        "Draw": 3.2
-      },
       "Pinnacle": {
-        "Boca Juniors": 2.5,
-        "Instituto de Córdoba": 3.29,
-        "Draw": 3.04
-      },
-      "BetOnline.ag": {
-        "Boca Juniors": 2.45,
-        "Instituto de Córdoba": 3.4,
-        "Draw": 3.0
-      },
-      "Betsson": {
-        "Boca Juniors": 2.42,
-        "Instituto de Córdoba": 3.2,
-        "Draw": 3.0
-      },
-      "BetAnything": {
-        "Boca Juniors": 2.45,
-        "Instituto de Córdoba": 3.4,
-        "Draw": 3.0
-      }
-    },
-    "9d0c5f56eef99d6301d547adde8ef368:h2h": {
-      "Betfair": {
-        "Defensa y Justicia": 3.5,
-        "Union Santa Fe": 2.4,
-        "Draw": 3.3
-      },
-      "Nordic Bet": {
-        "Defensa y Justicia": 3.25,
-        "Union Santa Fe": 2.32,
-        "Draw": 3.15
-      },
-      "Betsson": {
-        "Defensa y Justicia": 3.25,
-        "Union Santa Fe": 2.32,
-        "Draw": 3.15
-      },
-      "1xBet": {
-        "Defensa y Justicia": 3.37,
-        "Union Santa Fe": 2.27,
-        "Draw": 3.16
+        "Cerezo Osaka": 2.15,
+        "Yokohama F Marinos": 3.33,
+        "Draw": 3.37
       },
       "Winamax (DE)": {
-        "Defensa y Justicia": 3.1,
-        "Union Santa Fe": 2.15,
-        "Draw": 3.15
+        "Cerezo Osaka": 2.2,
+        "Yokohama F Marinos": 3.3,
+        "Draw": 2.8
       },
       "Winamax (FR)": {
-        "Defensa y Justicia": 3.0,
-        "Union Santa Fe": 2.15,
-        "Draw": 3.1
-      },
-      "Unibet (FR)": {
-        "Defensa y Justicia": 3.1,
-        "Union Santa Fe": 2.05,
-        "Draw": 3.05
-      },
-      "Betclic (FR)": {
-        "Defensa y Justicia": 3.13,
-        "Union Santa Fe": 2.15,
-        "Draw": 3.07
-      },
-      "Codere (IT)": {
-        "Defensa y Justicia": 3.25,
-        "Union Santa Fe": 2.27,
-        "Draw": 3.2
-      },
-      "Unibet (SE)": {
-        "Defensa y Justicia": 3.25,
-        "Union Santa Fe": 2.28,
-        "Draw": 3.15
-      },
-      "LeoVegas (SE)": {
-        "Defensa y Justicia": 3.0,
-        "Union Santa Fe": 2.14,
-        "Draw": 2.95
-      },
-      "Pinnacle": {
-        "Defensa y Justicia": 3.42,
-        "Union Santa Fe": 2.32,
-        "Draw": 3.23
-      },
-      "BetOnline.ag": {
-        "Defensa y Justicia": 3.48,
-        "Union Santa Fe": 2.27,
-        "Draw": 3.26
-      },
-      "BetAnything": {
-        "Defensa y Justicia": 3.48,
-        "Union Santa Fe": 2.27,
-        "Draw": 3.26
-      }
-    },
-    "1bc326fdb55e5f7e29c56a524e1ac0e1:h2h": {
-      "Betclic (FR)": {
-        "León": 2.28,
-        "Puebla": 2.77,
-        "Draw": 3.22
-      },
-      "William Hill": {
-        "León": 2.3,
-        "Puebla": 2.8,
-        "Draw": 3.0
+        "Cerezo Osaka": 2.15,
+        "Yokohama F Marinos": 3.25,
+        "Draw": 2.7
       },
       "888sport": {
-        "León": 2.3,
-        "Puebla": 2.8,
-        "Draw": 3.0
-      },
-      "1xBet": {
-        "León": 2.36,
-        "Puebla": 2.88,
-        "Draw": 3.24
-      },
-      "Betsson": {
-        "León": 2.32,
-        "Puebla": 2.9,
-        "Draw": 3.3
-      },
-      "Nordic Bet": {
-        "León": 2.32,
-        "Puebla": 2.9,
-        "Draw": 3.3
+        "Cerezo Osaka": 2.25,
+        "Yokohama F Marinos": 3.3,
+        "Draw": 2.75
       },
       "Tipico": {
-        "León": 2.25,
-        "Puebla": 2.95,
-        "Draw": 3.3
-      },
-      "Unibet (SE)": {
-        "León": 2.2,
-        "Puebla": 2.95,
-        "Draw": 3.35
-      },
-      "LeoVegas (SE)": {
-        "León": 2.14,
-        "Puebla": 2.85,
-        "Draw": 3.25
+        "Cerezo Osaka": 2.4,
+        "Yokohama F Marinos": 3.1,
+        "Draw": 2.8
       },
       "Unibet (NL)": {
-        "León": 2.2,
-        "Puebla": 2.95,
-        "Draw": 3.35
+        "Cerezo Osaka": 2.25,
+        "Yokohama F Marinos": 3.2,
+        "Draw": 2.85
       },
-      "Pinnacle": {
-        "León": 2.42,
-        "Puebla": 3.07,
-        "Draw": 3.39
+      "LeoVegas (SE)": {
+        "Cerezo Osaka": 2.2,
+        "Yokohama F Marinos": 3.1,
+        "Draw": 2.75
       },
-      "Coolbet": {
-        "León": 2.45,
-        "Puebla": 2.95,
-        "Draw": 3.3
-      },
-      "GTbets": {
-        "León": 2.35,
-        "Puebla": 2.98,
-        "Draw": 3.36
-      },
-      "BetOnline.ag": {
-        "León": 2.46,
-        "Puebla": 2.99,
-        "Draw": 3.4
+      "Unibet (SE)": {
+        "Cerezo Osaka": 2.3,
+        "Yokohama F Marinos": 3.05,
+        "Draw": 2.88
       },
       "Betfair": {
-        "León": 2.5,
-        "Puebla": 3.1,
-        "Draw": 3.45
+        "Cerezo Osaka": 2.38,
+        "Yokohama F Marinos": 3.55,
+        "Draw": 3.1
       },
       "Matchbook": {
-        "León": 2.5,
-        "Puebla": 3.1,
+        "Cerezo Osaka": 2.46,
+        "Yokohama F Marinos": 3.5,
+        "Draw": 3.05
+      }
+    },
+    "4e84245fa21eead45bbd8b5bf6f1b837:h2h": {
+      "Unibet (NL)": {
+        "FC Seoul": 1.87,
+        "Jeju United FC": 4.6,
+        "Draw": 2.85
+      },
+      "Betclic (FR)": {
+        "FC Seoul": 1.85,
+        "Jeju United FC": 4.5,
+        "Draw": 2.75
+      },
+      "LeoVegas (SE)": {
+        "FC Seoul": 1.72,
+        "Jeju United FC": 4.4,
+        "Draw": 2.75
+      },
+      "Unibet (SE)": {
+        "FC Seoul": 1.87,
+        "Jeju United FC": 4.6,
+        "Draw": 2.85
+      },
+      "Nordic Bet": {
+        "FC Seoul": 1.92,
+        "Jeju United FC": 4.6,
+        "Draw": 2.78
+      },
+      "Pinnacle": {
+        "FC Seoul": 1.95,
+        "Jeju United FC": 4.95,
+        "Draw": 2.91
+      },
+      "Winamax (DE)": {
+        "FC Seoul": 1.9,
+        "Jeju United FC": 4.5,
+        "Draw": 2.8
+      },
+      "Winamax (FR)": {
+        "FC Seoul": 1.86,
+        "Jeju United FC": 4.3,
+        "Draw": 2.7
+      },
+      "Tipico": {
+        "FC Seoul": 1.8,
+        "Jeju United FC": 5.2,
+        "Draw": 2.9
+      },
+      "Coolbet": {
+        "FC Seoul": 1.91,
+        "Jeju United FC": 5.0,
+        "Draw": 2.88
+      },
+      "Betfair": {
+        "FC Seoul": 2.06,
+        "Jeju United FC": 5.1,
+        "Draw": 3.0
+      },
+      "Matchbook": {
+        "FC Seoul": 2.1,
+        "Jeju United FC": 5.2,
+        "Draw": 2.96
+      }
+    },
+    "824d3fd1121c563080ca11702df84ea8:h2h": {
+      "Unibet (FR)": {
+        "Avispa Fukuoka": 2.95,
+        "Fagiano Okayama": 2.15,
+        "Draw": 2.95
+      },
+      "BetOnline.ag": {
+        "Avispa Fukuoka": 3.25,
+        "Fagiano Okayama": 2.48,
+        "Draw": 3.0
+      },
+      "Coolbet": {
+        "Avispa Fukuoka": 3.0,
+        "Fagiano Okayama": 2.5,
+        "Draw": 3.15
+      },
+      "Nordic Bet": {
+        "Avispa Fukuoka": 2.95,
+        "Fagiano Okayama": 2.42,
+        "Draw": 2.92
+      },
+      "Betclic (FR)": {
+        "Avispa Fukuoka": 2.9,
+        "Fagiano Okayama": 2.32,
+        "Draw": 2.92
+      },
+      "Pinnacle": {
+        "Avispa Fukuoka": 3.24,
+        "Fagiano Okayama": 2.51,
+        "Draw": 3.07
+      },
+      "Winamax (FR)": {
+        "Avispa Fukuoka": 2.85,
+        "Fagiano Okayama": 2.3,
+        "Draw": 2.95
+      },
+      "Winamax (DE)": {
+        "Avispa Fukuoka": 2.9,
+        "Fagiano Okayama": 2.35,
+        "Draw": 3.05
+      },
+      "1xBet": {
+        "Avispa Fukuoka": 3.16,
+        "Fagiano Okayama": 2.5,
+        "Draw": 3.02
+      },
+      "888sport": {
+        "Avispa Fukuoka": 3.0,
+        "Fagiano Okayama": 2.45,
+        "Draw": 2.8
+      },
+      "William Hill": {
+        "Avispa Fukuoka": 3.0,
+        "Fagiano Okayama": 2.45,
+        "Draw": 2.8
+      },
+      "Tipico": {
+        "Avispa Fukuoka": 3.2,
+        "Fagiano Okayama": 2.3,
+        "Draw": 2.95
+      },
+      "Unibet (SE)": {
+        "Avispa Fukuoka": 2.85,
+        "Fagiano Okayama": 2.48,
+        "Draw": 3.05
+      },
+      "LeoVegas (SE)": {
+        "Avispa Fukuoka": 2.85,
+        "Fagiano Okayama": 2.48,
+        "Draw": 3.05
+      },
+      "Unibet (NL)": {
+        "Avispa Fukuoka": 2.85,
+        "Fagiano Okayama": 2.48,
+        "Draw": 3.05
+      },
+      "Betfair": {
+        "Avispa Fukuoka": 3.35,
+        "Fagiano Okayama": 2.54,
+        "Draw": 3.1
+      },
+      "BetAnything": {
+        "Avispa Fukuoka": 3.25,
+        "Fagiano Okayama": 2.48,
+        "Draw": 3.0
+      },
+      "Matchbook": {
+        "Avispa Fukuoka": 3.3,
+        "Fagiano Okayama": 2.56,
+        "Draw": 3.1
+      }
+    },
+    "1551739c5d6eb0a66490912824d3ec89:h2h": {
+      "Unibet (FR)": {
+        "FC Tokyo": 1.78,
+        "Urawa Red Diamonds": 3.3,
+        "Draw": 3.5
+      },
+      "BetOnline.ag": {
+        "FC Tokyo": 2.06,
+        "Urawa Red Diamonds": 3.4,
+        "Draw": 3.75
+      },
+      "Nordic Bet": {
+        "FC Tokyo": 1.98,
+        "Urawa Red Diamonds": 3.4,
         "Draw": 3.45
+      },
+      "Coolbet": {
+        "FC Tokyo": 1.93,
+        "Urawa Red Diamonds": 3.75,
+        "Draw": 3.75
+      },
+      "Betclic (FR)": {
+        "FC Tokyo": 1.9,
+        "Urawa Red Diamonds": 3.28,
+        "Draw": 3.45
+      },
+      "Pinnacle": {
+        "FC Tokyo": 2.03,
+        "Urawa Red Diamonds": 3.52,
+        "Draw": 3.87
+      },
+      "Winamax (FR)": {
+        "FC Tokyo": 1.92,
+        "Urawa Red Diamonds": 3.2,
+        "Draw": 3.55
+      },
+      "Winamax (DE)": {
+        "FC Tokyo": 1.94,
+        "Urawa Red Diamonds": 3.25,
+        "Draw": 3.6
+      },
+      "1xBet": {
+        "FC Tokyo": 1.96,
+        "Urawa Red Diamonds": 3.69,
+        "Draw": 3.75
+      },
+      "888sport": {
+        "FC Tokyo": 1.95,
+        "Urawa Red Diamonds": 3.3,
+        "Draw": 3.5
+      },
+      "William Hill": {
+        "FC Tokyo": 1.95,
+        "Urawa Red Diamonds": 3.3,
+        "Draw": 3.5
+      },
+      "Tipico": {
+        "FC Tokyo": 1.85,
+        "Urawa Red Diamonds": 3.6,
+        "Draw": 3.7
+      },
+      "Unibet (SE)": {
+        "FC Tokyo": 1.85,
+        "Urawa Red Diamonds": 3.75,
+        "Draw": 3.55
+      },
+      "LeoVegas (SE)": {
+        "FC Tokyo": 1.85,
+        "Urawa Red Diamonds": 3.8,
+        "Draw": 3.6
+      },
+      "Unibet (NL)": {
+        "FC Tokyo": 1.85,
+        "Urawa Red Diamonds": 3.75,
+        "Draw": 3.55
+      },
+      "Betfair": {
+        "FC Tokyo": 2.08,
+        "Urawa Red Diamonds": 3.65,
+        "Draw": 3.9
+      },
+      "BetAnything": {
+        "FC Tokyo": 2.04,
+        "Urawa Red Diamonds": 3.4,
+        "Draw": 3.8
+      },
+      "Matchbook": {
+        "FC Tokyo": 2.08,
+        "Urawa Red Diamonds": 3.65,
+        "Draw": 3.9
       }
     }
   },
@@ -1427,12 +1467,43 @@
       "confidence": 17,
       "alert_type": "value",
       "alerted_at": "2026-10-09T22:34:00.074337+00:00"
+    },
+    {
+      "state_key": "788a2119a53738450e6cda4ebdb756a0:h2h",
+      "event_id": "788a2119a53738450e6cda4ebdb756a0",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Cerezo Osaka",
+      "away_team": "Yokohama F Marinos",
+      "commence_time": "2026-10-10T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cerezo Osaka",
+      "odds_at_alert": 2.4,
+      "stake_pct": 2.0,
+      "confidence": 5,
+      "alert_type": "value",
+      "alerted_at": "2026-10-10T05:42:56.735943+00:00"
+    },
+    {
+      "state_key": "788a2119a53738450e6cda4ebdb756a0:h2h",
+      "event_id": "788a2119a53738450e6cda4ebdb756a0",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Cerezo Osaka",
+      "away_team": "Yokohama F Marinos",
+      "commence_time": "2026-10-10T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cerezo Osaka",
+      "odds_at_alert": 2.46,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-10-10T05:42:57.166147+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "52782f7a9b6917268227ca65fec15528:h2h|Betfair|Atlético Tucuman",
-    "52782f7a9b6917268227ca65fec15528:h2h|Betfair|Gimnasia La Plata",
-    "52782f7a9b6917268227ca65fec15528:h2h|Unibet (SE)|Gimnasia La Plata"
+    "788a2119a53738450e6cda4ebdb756a0:h2h|Matchbook|Cerezo Osaka",
+    "788a2119a53738450e6cda4ebdb756a0:h2h|Tipico|Cerezo Osaka"
   ]
 }
