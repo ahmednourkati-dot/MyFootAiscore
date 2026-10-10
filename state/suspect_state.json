@@ -1,246 +1,114 @@
 {
   "snapshots": {
-    "847cbfc1b74322a3421142e62b54890f:h2h": {
-      "Winamax (FR)": {
-        "Amed SK": 11.5,
-        "Genclerbirligi SK": 14.0,
-        "Draw": 1.1
-      },
-      "Nordic Bet": {
-        "Amed SK": 1.04,
-        "Genclerbirligi SK": 100.0,
-        "Draw": 11.0
-      },
-      "Winamax (DE)": {
-        "Amed SK": 1.03,
-        "Genclerbirligi SK": 200.0,
-        "Draw": 13.0
+    "9f4ec9268f60113db2c80d6ac41b8ca4:h2h": {
+      "Betsson": {
+        "AEK Athens": 1.0,
+        "OFI Crete": 26.0,
+        "Draw": 26.0
       },
       "Betclic (FR)": {
-        "Amed SK": 1.0,
-        "Genclerbirligi SK": 50.0,
-        "Draw": 9.5
-      },
-      "888sport": {
-        "Amed SK": 1.05,
-        "Genclerbirligi SK": 101.0,
-        "Draw": 11.0
-      },
-      "Coolbet": {
-        "Amed SK": 1.04,
-        "Genclerbirligi SK": 200.0,
-        "Draw": 13.0
-      },
-      "Tipico": {
-        "Amed SK": 12.0,
-        "Genclerbirligi SK": 14.0,
-        "Draw": 1.08
-      },
-      "Betfair": {
-        "Amed SK": 1.08,
-        "Genclerbirligi SK": 200.0,
-        "Draw": 1.12
-      }
-    },
-    "3bb1d920fd29104775ac4f4878cbbf67:h2h": {
-      "Pinnacle": {
-        "1. FC Magdeburg": 1.1,
-        "Hannover 96": 30.4,
-        "Draw": 10.39
+        "AEK Athens": 1.0,
+        "OFI Crete": 100.0,
+        "Draw": 40.0
       },
       "Nordic Bet": {
-        "1. FC Magdeburg": 1.05,
-        "Hannover 96": 26.0,
+        "AEK Athens": 1.0,
+        "OFI Crete": 26.0,
+        "Draw": 26.0
+      }
+    },
+    "01cb7a67c8ae71201ec27297455fc0e8:h2h": {
+      "Betclic (FR)": {
+        "Eintracht Frankfurt": 100.0,
+        "RB Leipzig": 1.0,
+        "Draw": 75.0
+      },
+      "Betsson": {
+        "Eintracht Frankfurt": 34.0,
+        "RB Leipzig": 1.0,
+        "Draw": 29.0
+      },
+      "Nordic Bet": {
+        "Eintracht Frankfurt": 34.0,
+        "RB Leipzig": 1.0,
+        "Draw": 29.0
+      }
+    },
+    "22c9b2c43cbe1334381269550dab78e6:h2h": {
+      "Winamax (DE)": {
+        "Manchester United": 17.0,
+        "Tottenham Hotspur": 50.0,
+        "Draw": 1.03
+      },
+      "888sport": {
+        "Manchester United": 7.0,
+        "Tottenham Hotspur": 46.0,
+        "Draw": 1.11
+      },
+      "Betclic (FR)": {
+        "Manchester United": 12.0,
+        "Tottenham Hotspur": 23.0,
+        "Draw": 1.02
+      },
+      "MyBookie.ag": {
+        "Manchester United": 3.15,
+        "Tottenham Hotspur": 9.0,
+        "Draw": 1.35
+      },
+      "Winamax (FR)": {
+        "Manchester United": 14.5,
+        "Tottenham Hotspur": 46.0,
+        "Draw": 1.05
+      },
+      "Betfair": {
+        "Manchester United": 1.05,
+        "Tottenham Hotspur": 1.17,
+        "Draw": 1.01
+      },
+      "Tipico": {
+        "Manchester United": 15.0,
+        "Tottenham Hotspur": 50.0,
+        "Draw": 1.03
+      },
+      "Pinnacle": {
+        "Manchester United": 1.09,
+        "Tottenham Hotspur": 85.92,
         "Draw": 9.1
       },
-      "Winamax (FR)": {
-        "1. FC Magdeburg": 1.07,
-        "Hannover 96": 38.0,
-        "Draw": 10.0
-      },
-      "Winamax (DE)": {
-        "1. FC Magdeburg": 1.06,
-        "Hannover 96": 36.0,
-        "Draw": 10.5
-      },
-      "Tipico": {
-        "1. FC Magdeburg": 1.06,
-        "Hannover 96": 50.0,
-        "Draw": 8.0
-      },
-      "Betclic (FR)": {
-        "1. FC Magdeburg": 1.03,
-        "Hannover 96": 19.0,
-        "Draw": 8.5
-      },
-      "Coolbet": {
-        "1. FC Magdeburg": 1.08,
-        "Hannover 96": 40.0,
-        "Draw": 12.0
-      },
-      "888sport": {
-        "1. FC Magdeburg": 1.06,
-        "Hannover 96": 36.0,
-        "Draw": 11.0
+      "LeoVegas (SE)": {
+        "Manchester United": 7.0,
+        "Tottenham Hotspur": 13.0,
+        "Draw": 1.17
       },
       "Unibet (SE)": {
-        "1. FC Magdeburg": 1.08,
-        "Hannover 96": 25.0,
-        "Draw": 8.5
-      },
-      "LeoVegas (SE)": {
-        "1. FC Magdeburg": 1.03,
-        "Hannover 96": 25.0,
-        "Draw": 8.0
+        "Manchester United": 7.0,
+        "Tottenham Hotspur": 13.0,
+        "Draw": 1.17
       },
       "Unibet (NL)": {
-        "1. FC Magdeburg": 1.04,
-        "Hannover 96": 25.0,
-        "Draw": 8.5
-      },
-      "Betfair": {
-        "1. FC Magdeburg": 1.1,
-        "Hannover 96": 48.0,
-        "Draw": 12.5
-      },
-      "Matchbook": {
-        "1. FC Magdeburg": 1.08,
-        "Hannover 96": 60.0,
-        "Draw": 14.0
-      }
-    },
-    "43e906d3142b57365c8ea449630934f3:h2h": {
-      "Pinnacle": {
-        "Dynamo Dresden": 1.4,
-        "VfL Osnabrück": 10.93,
-        "Draw": 4.04
+        "Manchester United": 8.0,
+        "Tottenham Hotspur": 16.0,
+        "Draw": 1.14
       },
       "Nordic Bet": {
-        "Dynamo Dresden": 1.34,
-        "VfL Osnabrück": 11.5,
-        "Draw": 3.9
+        "Manchester United": 6.8,
+        "Tottenham Hotspur": 21.0,
+        "Draw": 1.12
       },
-      "Winamax (FR)": {
-        "Dynamo Dresden": 1.33,
-        "VfL Osnabrück": 10.5,
-        "Draw": 3.8
-      },
-      "Winamax (DE)": {
-        "Dynamo Dresden": 1.35,
-        "VfL Osnabrück": 11.0,
-        "Draw": 3.85
-      },
-      "Tipico": {
-        "Dynamo Dresden": 1.35,
-        "VfL Osnabrück": 12.0,
-        "Draw": 3.8
-      },
-      "Betclic (FR)": {
-        "Dynamo Dresden": 1.27,
-        "VfL Osnabrück": 11.0,
-        "Draw": 3.6
+      "Betsson": {
+        "Manchester United": 6.8,
+        "Tottenham Hotspur": 21.0,
+        "Draw": 1.12
       },
       "Coolbet": {
-        "Dynamo Dresden": 1.36,
-        "VfL Osnabrück": 13.0,
-        "Draw": 4.33
-      },
-      "Betfair": {
-        "Dynamo Dresden": 1.43,
-        "VfL Osnabrück": 13.5,
-        "Draw": 4.2
-      },
-      "LeoVegas (SE)": {
-        "Dynamo Dresden": 1.27,
-        "VfL Osnabrück": 10.5,
-        "Draw": 3.6
-      },
-      "Unibet (SE)": {
-        "Dynamo Dresden": 1.35,
-        "VfL Osnabrück": 10.5,
-        "Draw": 3.8
-      },
-      "Unibet (NL)": {
-        "Dynamo Dresden": 1.35,
-        "VfL Osnabrück": 10.5,
-        "Draw": 3.8
-      },
-      "888sport": {
-        "Dynamo Dresden": 1.33,
-        "VfL Osnabrück": 11.0,
-        "Draw": 3.9
+        "Manchester United": 11.0,
+        "Tottenham Hotspur": 40.0,
+        "Draw": 1.08
       },
       "Matchbook": {
-        "Dynamo Dresden": 1.42,
-        "VfL Osnabrück": 15.5,
-        "Draw": 4.2
-      }
-    },
-    "3c813baeb4f415e152409b8dafc46366:h2h": {
-      "Pinnacle": {
-        "FC Energie Cottbus": 3.31,
-        "SV Darmstadt 98": 2.79,
-        "Draw": 2.53
-      },
-      "Nordic Bet": {
-        "FC Energie Cottbus": 3.2,
-        "SV Darmstadt 98": 2.65,
-        "Draw": 2.45
-      },
-      "Winamax (FR)": {
-        "FC Energie Cottbus": 3.45,
-        "SV Darmstadt 98": 2.7,
-        "Draw": 2.05
-      },
-      "Winamax (DE)": {
-        "FC Energie Cottbus": 3.5,
-        "SV Darmstadt 98": 2.75,
-        "Draw": 2.1
-      },
-      "Tipico": {
-        "FC Energie Cottbus": 3.8,
-        "SV Darmstadt 98": 2.7,
-        "Draw": 2.2
-      },
-      "Betclic (FR)": {
-        "FC Energie Cottbus": 3.2,
-        "SV Darmstadt 98": 2.65,
-        "Draw": 2.27
-      },
-      "Coolbet": {
-        "FC Energie Cottbus": 3.75,
-        "SV Darmstadt 98": 3.0,
-        "Draw": 2.3
-      },
-      "Unibet (SE)": {
-        "FC Energie Cottbus": 3.35,
-        "SV Darmstadt 98": 2.7,
-        "Draw": 2.28
-      },
-      "LeoVegas (SE)": {
-        "FC Energie Cottbus": 3.15,
-        "SV Darmstadt 98": 2.55,
-        "Draw": 2.14
-      },
-      "Unibet (NL)": {
-        "FC Energie Cottbus": 3.35,
-        "SV Darmstadt 98": 2.7,
-        "Draw": 2.28
-      },
-      "Betfair": {
-        "FC Energie Cottbus": 3.95,
-        "SV Darmstadt 98": 3.15,
-        "Draw": 2.24
-      },
-      "888sport": {
-        "FC Energie Cottbus": 3.4,
-        "SV Darmstadt 98": 2.9,
-        "Draw": 2.1
-      },
-      "Matchbook": {
-        "FC Energie Cottbus": 4.0,
-        "SV Darmstadt 98": 3.2,
-        "Draw": 2.22
+        "Manchester United": 23.0,
+        "Tottenham Hotspur": 90.0,
+        "Draw": 1.02
       }
     }
   },
@@ -1733,28 +1601,230 @@
       "confidence": 9,
       "alert_type": "value",
       "alerted_at": "2026-10-10T12:23:42.302036+00:00"
+    },
+    {
+      "state_key": "22c9b2c43cbe1334381269550dab78e6:h2h",
+      "event_id": "22c9b2c43cbe1334381269550dab78e6",
+      "sport_key": "soccer",
+      "competition": "EPL",
+      "home_team": "Manchester United",
+      "away_team": "Tottenham Hotspur",
+      "commence_time": "2026-10-10T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Manchester United",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 1401,
+      "alert_type": "value",
+      "alerted_at": "2026-10-10T18:30:31.277066+00:00"
+    },
+    {
+      "state_key": "22c9b2c43cbe1334381269550dab78e6:h2h",
+      "event_id": "22c9b2c43cbe1334381269550dab78e6",
+      "sport_key": "soccer",
+      "competition": "EPL",
+      "home_team": "Manchester United",
+      "away_team": "Tottenham Hotspur",
+      "commence_time": "2026-10-10T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Manchester United",
+      "odds_at_alert": 7.0,
+      "stake_pct": 5.0,
+      "confidence": 518,
+      "alert_type": "value",
+      "alerted_at": "2026-10-10T18:30:31.730296+00:00"
+    },
+    {
+      "state_key": "22c9b2c43cbe1334381269550dab78e6:h2h",
+      "event_id": "22c9b2c43cbe1334381269550dab78e6",
+      "sport_key": "soccer",
+      "competition": "EPL",
+      "home_team": "Manchester United",
+      "away_team": "Tottenham Hotspur",
+      "commence_time": "2026-10-10T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Manchester United",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 960,
+      "alert_type": "value",
+      "alerted_at": "2026-10-10T18:30:32.205077+00:00"
+    },
+    {
+      "state_key": "22c9b2c43cbe1334381269550dab78e6:h2h",
+      "event_id": "22c9b2c43cbe1334381269550dab78e6",
+      "sport_key": "soccer",
+      "competition": "EPL",
+      "home_team": "Manchester United",
+      "away_team": "Tottenham Hotspur",
+      "commence_time": "2026-10-10T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Manchester United",
+      "odds_at_alert": 3.15,
+      "stake_pct": 5.0,
+      "confidence": 178,
+      "alert_type": "value",
+      "alerted_at": "2026-10-10T18:30:32.724665+00:00"
+    },
+    {
+      "state_key": "22c9b2c43cbe1334381269550dab78e6:h2h",
+      "event_id": "22c9b2c43cbe1334381269550dab78e6",
+      "sport_key": "soccer",
+      "competition": "EPL",
+      "home_team": "Manchester United",
+      "away_team": "Tottenham Hotspur",
+      "commence_time": "2026-10-10T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Manchester United",
+      "odds_at_alert": 14.5,
+      "stake_pct": 5.0,
+      "confidence": 1180,
+      "alert_type": "value",
+      "alerted_at": "2026-10-10T18:30:33.188562+00:00"
+    },
+    {
+      "state_key": "22c9b2c43cbe1334381269550dab78e6:h2h",
+      "event_id": "22c9b2c43cbe1334381269550dab78e6",
+      "sport_key": "soccer",
+      "competition": "EPL",
+      "home_team": "Manchester United",
+      "away_team": "Tottenham Hotspur",
+      "commence_time": "2026-10-10T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Manchester United",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 1225,
+      "alert_type": "value",
+      "alerted_at": "2026-10-10T18:30:33.646083+00:00"
+    },
+    {
+      "state_key": "22c9b2c43cbe1334381269550dab78e6:h2h",
+      "event_id": "22c9b2c43cbe1334381269550dab78e6",
+      "sport_key": "soccer",
+      "competition": "EPL",
+      "home_team": "Manchester United",
+      "away_team": "Tottenham Hotspur",
+      "commence_time": "2026-10-10T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Manchester United",
+      "odds_at_alert": 7.0,
+      "stake_pct": 5.0,
+      "confidence": 518,
+      "alert_type": "value",
+      "alerted_at": "2026-10-10T18:30:34.120497+00:00"
+    },
+    {
+      "state_key": "22c9b2c43cbe1334381269550dab78e6:h2h",
+      "event_id": "22c9b2c43cbe1334381269550dab78e6",
+      "sport_key": "soccer",
+      "competition": "EPL",
+      "home_team": "Manchester United",
+      "away_team": "Tottenham Hotspur",
+      "commence_time": "2026-10-10T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Manchester United",
+      "odds_at_alert": 7.0,
+      "stake_pct": 5.0,
+      "confidence": 518,
+      "alert_type": "value",
+      "alerted_at": "2026-10-10T18:30:34.588453+00:00"
+    },
+    {
+      "state_key": "22c9b2c43cbe1334381269550dab78e6:h2h",
+      "event_id": "22c9b2c43cbe1334381269550dab78e6",
+      "sport_key": "soccer",
+      "competition": "EPL",
+      "home_team": "Manchester United",
+      "away_team": "Tottenham Hotspur",
+      "commence_time": "2026-10-10T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Manchester United",
+      "odds_at_alert": 8.0,
+      "stake_pct": 5.0,
+      "confidence": 606,
+      "alert_type": "value",
+      "alerted_at": "2026-10-10T18:30:35.037493+00:00"
+    },
+    {
+      "state_key": "22c9b2c43cbe1334381269550dab78e6:h2h",
+      "event_id": "22c9b2c43cbe1334381269550dab78e6",
+      "sport_key": "soccer",
+      "competition": "EPL",
+      "home_team": "Manchester United",
+      "away_team": "Tottenham Hotspur",
+      "commence_time": "2026-10-10T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Manchester United",
+      "odds_at_alert": 6.8,
+      "stake_pct": 5.0,
+      "confidence": 500,
+      "alert_type": "value",
+      "alerted_at": "2026-10-10T18:30:35.633779+00:00"
+    },
+    {
+      "state_key": "22c9b2c43cbe1334381269550dab78e6:h2h",
+      "event_id": "22c9b2c43cbe1334381269550dab78e6",
+      "sport_key": "soccer",
+      "competition": "EPL",
+      "home_team": "Manchester United",
+      "away_team": "Tottenham Hotspur",
+      "commence_time": "2026-10-10T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Manchester United",
+      "odds_at_alert": 6.8,
+      "stake_pct": 5.0,
+      "confidence": 500,
+      "alert_type": "value",
+      "alerted_at": "2026-10-10T18:30:36.095210+00:00"
+    },
+    {
+      "state_key": "22c9b2c43cbe1334381269550dab78e6:h2h",
+      "event_id": "22c9b2c43cbe1334381269550dab78e6",
+      "sport_key": "soccer",
+      "competition": "EPL",
+      "home_team": "Manchester United",
+      "away_team": "Tottenham Hotspur",
+      "commence_time": "2026-10-10T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Manchester United",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 871,
+      "alert_type": "value",
+      "alerted_at": "2026-10-10T18:30:36.589916+00:00"
+    },
+    {
+      "state_key": "22c9b2c43cbe1334381269550dab78e6:h2h",
+      "event_id": "22c9b2c43cbe1334381269550dab78e6",
+      "sport_key": "soccer",
+      "competition": "EPL",
+      "home_team": "Manchester United",
+      "away_team": "Tottenham Hotspur",
+      "commence_time": "2026-10-10T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Manchester United",
+      "odds_at_alert": 23.0,
+      "stake_pct": 5.0,
+      "confidence": 1931,
+      "alert_type": "value",
+      "alerted_at": "2026-10-10T18:30:37.044091+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "3bb1d920fd29104775ac4f4878cbbf67:h2h|888sport|Hannover 96",
-    "3bb1d920fd29104775ac4f4878cbbf67:h2h|Betfair|Draw",
-    "3bb1d920fd29104775ac4f4878cbbf67:h2h|Betfair|Hannover 96",
-    "3bb1d920fd29104775ac4f4878cbbf67:h2h|Coolbet|Draw",
-    "3bb1d920fd29104775ac4f4878cbbf67:h2h|Coolbet|Hannover 96",
-    "3bb1d920fd29104775ac4f4878cbbf67:h2h|Matchbook|Draw",
-    "3bb1d920fd29104775ac4f4878cbbf67:h2h|Matchbook|Hannover 96",
-    "3bb1d920fd29104775ac4f4878cbbf67:h2h|Tipico|Hannover 96",
-    "3bb1d920fd29104775ac4f4878cbbf67:h2h|Winamax (DE)|Hannover 96",
-    "3bb1d920fd29104775ac4f4878cbbf67:h2h|Winamax (FR)|Hannover 96",
-    "3c813baeb4f415e152409b8dafc46366:h2h|Betfair|FC Energie Cottbus",
-    "3c813baeb4f415e152409b8dafc46366:h2h|Betfair|SV Darmstadt 98",
-    "3c813baeb4f415e152409b8dafc46366:h2h|Coolbet|FC Energie Cottbus",
-    "3c813baeb4f415e152409b8dafc46366:h2h|Matchbook|FC Energie Cottbus",
-    "3c813baeb4f415e152409b8dafc46366:h2h|Matchbook|SV Darmstadt 98",
-    "3c813baeb4f415e152409b8dafc46366:h2h|Tipico|FC Energie Cottbus",
-    "43e906d3142b57365c8ea449630934f3:h2h|Betfair|VfL Osnabrück",
-    "43e906d3142b57365c8ea449630934f3:h2h|Coolbet|VfL Osnabrück",
-    "43e906d3142b57365c8ea449630934f3:h2h|Matchbook|VfL Osnabrück"
+    "22c9b2c43cbe1334381269550dab78e6:h2h|888sport|Manchester United",
+    "22c9b2c43cbe1334381269550dab78e6:h2h|Betclic (FR)|Manchester United",
+    "22c9b2c43cbe1334381269550dab78e6:h2h|Betsson|Manchester United",
+    "22c9b2c43cbe1334381269550dab78e6:h2h|Coolbet|Manchester United",
+    "22c9b2c43cbe1334381269550dab78e6:h2h|LeoVegas (SE)|Manchester United",
+    "22c9b2c43cbe1334381269550dab78e6:h2h|Matchbook|Manchester United",
+    "22c9b2c43cbe1334381269550dab78e6:h2h|MyBookie.ag|Manchester United",
+    "22c9b2c43cbe1334381269550dab78e6:h2h|Nordic Bet|Manchester United",
+    "22c9b2c43cbe1334381269550dab78e6:h2h|Tipico|Manchester United",
+    "22c9b2c43cbe1334381269550dab78e6:h2h|Unibet (NL)|Manchester United",
+    "22c9b2c43cbe1334381269550dab78e6:h2h|Unibet (SE)|Manchester United",
+    "22c9b2c43cbe1334381269550dab78e6:h2h|Winamax (DE)|Manchester United",
+    "22c9b2c43cbe1334381269550dab78e6:h2h|Winamax (FR)|Manchester United"
   ]
 }
