@@ -1,130 +1,281 @@
 {
   "snapshots": {
-    "2547c0dbddd26d23fa532228e36348cb:h2h": {
-      "Unibet (NL)": {
-        "AS Roma": 126.0,
-        "Como": 26.0,
-        "Draw": 1.01
-      },
-      "PMU (FR)": {
-        "AS Roma": 35.0,
-        "Como": 7.5,
-        "Draw": 1.03
-      },
-      "Unibet (SE)": {
-        "AS Roma": 126.0,
-        "Como": 20.0,
-        "Draw": 1.01
-      },
-      "LeoVegas (SE)": {
-        "AS Roma": 41.0,
-        "Como": 9.0,
-        "Draw": 1.05
-      },
-      "Pinnacle": {
-        "AS Roma": 18.98,
-        "Como": 4.19,
-        "Draw": 1.3
-      },
-      "Winamax (FR)": {
-        "AS Roma": 60.0,
-        "Como": 13.5,
-        "Draw": 1.05
+    "5696ee371ba00ede3dc8a64d24ce79f1:h2h": {
+      "Betclic (FR)": {
+        "Benfica": 1.0,
+        "Vitória SC": 100.0,
+        "Draw": 50.0
       },
       "Winamax (DE)": {
-        "AS Roma": 60.0,
-        "Como": 14.0,
-        "Draw": 1.04
+        "Benfica": 1.05,
+        "Vitória SC": 60.0,
+        "Draw": 9.0
+      },
+      "Winamax (FR)": {
+        "Benfica": 1.04,
+        "Vitória SC": 60.0,
+        "Draw": 5.6
+      },
+      "888sport": {
+        "Benfica": 1.0,
+        "Vitória SC": 151.0,
+        "Draw": 67.0
+      },
+      "Nordic Bet": {
+        "Benfica": 1.0,
+        "Vitória SC": 36.0,
+        "Draw": 21.0
+      },
+      "Betsson": {
+        "Benfica": 1.0,
+        "Vitória SC": 36.0,
+        "Draw": 21.0
+      },
+      "Betfair": {
+        "Benfica": 1.01,
+        "Vitória SC": 110.0,
+        "Draw": 50.0
+      }
+    },
+    "ba91fa83a8fcaf68e14ea62ac0703b86:h2h": {
+      "Winamax (FR)": {
+        "Lillestrom": 14.0,
+        "Molde": 1.29,
+        "Draw": 4.0
+      },
+      "Winamax (DE)": {
+        "Lillestrom": 14.5,
+        "Molde": 1.28,
+        "Draw": 4.1
       },
       "Betclic (FR)": {
-        "AS Roma": 30.0,
-        "Como": 8.75,
-        "Draw": 1.04
-      },
-      "Nordic Bet": {
-        "AS Roma": 50.0,
-        "Como": 13.0,
-        "Draw": 1.03
-      },
-      "888sport": {
-        "AS Roma": 36.0,
-        "Como": 7.0,
-        "Draw": 1.11
-      },
-      "Tipico": {
-        "AS Roma": 60.0,
-        "Como": 9.0,
-        "Draw": 1.04
-      },
-      "Betsson": {
-        "AS Roma": 55.0,
-        "Como": 13.0,
-        "Draw": 1.03
-      },
-      "Betfair": {
-        "AS Roma": 1.01,
-        "Como": 1.01,
-        "Draw": 1.01
-      },
-      "Coolbet": {
-        "AS Roma": 50.0,
-        "Como": 10.0,
-        "Draw": 1.08
-      }
-    },
-    "6eb7e1f109e8398991596b4e4b9c940b:h2h": {
-      "Pinnacle": {
-        "Basaksehir": 6.99,
-        "Torku Konyaspor": 5.06,
-        "Draw": 1.39
-      },
-      "Nordic Bet": {
-        "Basaksehir": 1.0,
-        "Torku Konyaspor": 1.0,
-        "Draw": 1.0
-      },
-      "Betfair": {
-        "Basaksehir": 1.02,
-        "Torku Konyaspor": 1.02
-      }
-    },
-    "1a9cae480abd2c5e487d431ee1c331fb:h2h": {
-      "888sport": {
-        "Celtic": 1.0,
-        "Motherwell": 151.0,
-        "Draw": 51.0
-      },
-      "Nordic Bet": {
-        "Celtic": 1.0,
-        "Motherwell": 46.0,
-        "Draw": 19.0
-      },
-      "Betsson": {
-        "Celtic": 1.0,
-        "Motherwell": 46.0,
-        "Draw": 19.0
-      },
-      "Unibet (SE)": {
-        "Celtic": 1.01,
-        "Motherwell": 161.0,
-        "Draw": 31.0
-      },
-      "Betfair": {
-        "Celtic": 1.01,
-        "Motherwell": 1000.0,
-        "Draw": 60.0
-      }
-    },
-    "cb4ca9d6697966580e7508a14c9c2676:h2h": {
-      "Pinnacle": {
-        "FC Akhmat Grozny": 6.07,
-        "FC Baltika Kaliningrad": 6.39,
-        "Draw": 1.36
+        "Lillestrom": 12.0,
+        "Molde": 1.27,
+        "Draw": 3.8
       },
       "Marathon Bet": {
-        "FC Akhmat Grozny": 7.0,
-        "FC Baltika Kaliningrad": 8.0,
-        "Draw": 1.27
+        "Lillestrom": 14.25,
+        "Molde": 1.25,
+        "Draw": 4.3
+      },
+      "Pinnacle": {
+        "Lillestrom": 12.41,
+        "Molde": 1.37,
+        "Draw": 4.12
+      },
+      "Nordic Bet": {
+        "Lillestrom": 14.0,
+        "Molde": 1.28,
+        "Draw": 4.1
+      },
+      "Betsson": {
+        "Lillestrom": 14.0,
+        "Molde": 1.28,
+        "Draw": 4.1
+      },
+      "Tipico": {
+        "Lillestrom": 18.0,
+        "Molde": 1.22,
+        "Draw": 4.5
+      },
+      "Coolbet": {
+        "Lillestrom": 18.0,
+        "Molde": 1.33,
+        "Draw": 4.5
+      },
+      "Unibet (SE)": {
+        "Lillestrom": 15.0,
+        "Molde": 1.24,
+        "Draw": 4.4
+      },
+      "PMU (FR)": {
+        "Lillestrom": 15.0,
+        "Molde": 1.13,
+        "Draw": 4.0
+      },
+      "LeoVegas (SE)": {
+        "Lillestrom": 15.0,
+        "Molde": 1.17,
+        "Draw": 4.2
+      },
+      "Unibet (NL)": {
+        "Lillestrom": 15.0,
+        "Molde": 1.24,
+        "Draw": 4.4
+      },
+      "Betfair": {
+        "Lillestrom": 16.0,
+        "Molde": 1.4,
+        "Draw": 4.4
+      },
+      "Matchbook": {
+        "Lillestrom": 18.5,
+        "Molde": 1.35,
+        "Draw": 4.5
+      }
+    },
+    "be4f5fa775ae774256ec0909fa4702ed:h2h": {
+      "Unibet (SE)": {
+        "KV Mechelen": 1.43,
+        "Sint Truiden": 11.5,
+        "Draw": 3.45
+      },
+      "Unibet (NL)": {
+        "KV Mechelen": 1.43,
+        "Sint Truiden": 11.5,
+        "Draw": 3.45
+      },
+      "PMU (FR)": {
+        "KV Mechelen": 1.33,
+        "Sint Truiden": 10.5,
+        "Draw": 3.2
+      },
+      "LeoVegas (SE)": {
+        "KV Mechelen": 1.36,
+        "Sint Truiden": 10.5,
+        "Draw": 3.25
+      },
+      "Betclic (FR)": {
+        "KV Mechelen": 1.35,
+        "Sint Truiden": 10.0,
+        "Draw": 3.4
+      },
+      "Winamax (FR)": {
+        "KV Mechelen": 1.33,
+        "Sint Truiden": 11.0,
+        "Draw": 3.75
+      },
+      "Winamax (DE)": {
+        "KV Mechelen": 1.33,
+        "Sint Truiden": 12.0,
+        "Draw": 3.9
+      },
+      "Betfair": {
+        "KV Mechelen": 1.39,
+        "Sint Truiden": 14.5,
+        "Draw": 3.8
+      },
+      "Marathon Bet": {
+        "KV Mechelen": 1.32,
+        "Sint Truiden": 13.5,
+        "Draw": 4.05
+      },
+      "Tipico": {
+        "KV Mechelen": 1.35,
+        "Sint Truiden": 11.0,
+        "Draw": 4.0
+      },
+      "Betsson": {
+        "KV Mechelen": 1.31,
+        "Sint Truiden": 12.5,
+        "Draw": 3.9
+      },
+      "Nordic Bet": {
+        "KV Mechelen": 1.31,
+        "Sint Truiden": 12.5,
+        "Draw": 3.9
+      },
+      "888sport": {
+        "KV Mechelen": 1.33,
+        "Sint Truiden": 12.0,
+        "Draw": 3.75
+      },
+      "Pinnacle": {
+        "KV Mechelen": 1.57,
+        "Sint Truiden": 7.77,
+        "Draw": 3.39
+      },
+      "Coolbet": {
+        "KV Mechelen": 1.36,
+        "Sint Truiden": 14.0,
+        "Draw": 4.33
+      },
+      "Matchbook": {
+        "KV Mechelen": 1.42,
+        "Sint Truiden": 17.0,
+        "Draw": 4.1
+      }
+    },
+    "aba4d9883721a723252a252a86e1aa58:h2h": {
+      "Pinnacle": {
+        "Hellas Verona": 1.85,
+        "Modena": 5.4,
+        "Draw": 3.02
+      },
+      "Winamax (FR)": {
+        "Hellas Verona": 1.7,
+        "Modena": 4.8,
+        "Draw": 2.9
+      },
+      "Betclic (FR)": {
+        "Hellas Verona": 1.8,
+        "Modena": 4.3,
+        "Draw": 2.85
+      },
+      "Winamax (DE)": {
+        "Hellas Verona": 1.74,
+        "Modena": 5.0,
+        "Draw": 3.0
+      },
+      "Betsson": {
+        "Hellas Verona": 1.78,
+        "Modena": 4.85,
+        "Draw": 2.88
+      },
+      "Nordic Bet": {
+        "Hellas Verona": 1.78,
+        "Modena": 4.85,
+        "Draw": 2.88
+      },
+      "Coolbet": {
+        "Hellas Verona": 1.8,
+        "Modena": 5.5,
+        "Draw": 3.0
+      },
+      "888sport": {
+        "Hellas Verona": 1.83,
+        "Modena": 4.6,
+        "Draw": 2.9
+      },
+      "Marathon Bet": {
+        "Hellas Verona": 1.72,
+        "Modena": 5.2,
+        "Draw": 3.04
+      },
+      "Tipico": {
+        "Hellas Verona": 1.75,
+        "Modena": 4.7,
+        "Draw": 3.2
+      },
+      "LeoVegas (SE)": {
+        "Hellas Verona": 1.63,
+        "Modena": 5.1,
+        "Draw": 2.75
+      },
+      "PMU (FR)": {
+        "Hellas Verona": 1.57,
+        "Modena": 5.0,
+        "Draw": 2.7
+      },
+      "Unibet (NL)": {
+        "Hellas Verona": 1.74,
+        "Modena": 5.4,
+        "Draw": 2.9
+      },
+      "Unibet (SE)": {
+        "Hellas Verona": 1.74,
+        "Modena": 5.4,
+        "Draw": 2.9
+      },
+      "Betfair": {
+        "Hellas Verona": 1.88,
+        "Modena": 6.0,
+        "Draw": 3.25
+      },
+      "Matchbook": {
+        "Hellas Verona": 1.89,
+        "Modena": 6.0,
+        "Draw": 3.15
       }
     }
   },
@@ -2769,35 +2920,655 @@
       "confidence": 18,
       "alert_type": "value",
       "alerted_at": "2026-10-11T12:41:11.494341+00:00"
+    },
+    {
+      "state_key": "ba91fa83a8fcaf68e14ea62ac0703b86:h2h",
+      "event_id": "ba91fa83a8fcaf68e14ea62ac0703b86",
+      "sport_key": "soccer",
+      "competition": "Eliteserien - Norway",
+      "home_team": "Lillestrom",
+      "away_team": "Molde",
+      "commence_time": "2026-10-11T17:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Lillestrom",
+      "odds_at_alert": 14.0,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T18:48:32.875675+00:00"
+    },
+    {
+      "state_key": "ba91fa83a8fcaf68e14ea62ac0703b86:h2h",
+      "event_id": "ba91fa83a8fcaf68e14ea62ac0703b86",
+      "sport_key": "soccer",
+      "competition": "Eliteserien - Norway",
+      "home_team": "Lillestrom",
+      "away_team": "Molde",
+      "commence_time": "2026-10-11T17:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Lillestrom",
+      "odds_at_alert": 14.5,
+      "stake_pct": 3.0,
+      "confidence": 11,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T18:48:33.335616+00:00"
+    },
+    {
+      "state_key": "ba91fa83a8fcaf68e14ea62ac0703b86:h2h",
+      "event_id": "ba91fa83a8fcaf68e14ea62ac0703b86",
+      "sport_key": "soccer",
+      "competition": "Eliteserien - Norway",
+      "home_team": "Lillestrom",
+      "away_team": "Molde",
+      "commence_time": "2026-10-11T17:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Lillestrom",
+      "odds_at_alert": 14.25,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T18:48:33.841699+00:00"
+    },
+    {
+      "state_key": "ba91fa83a8fcaf68e14ea62ac0703b86:h2h",
+      "event_id": "ba91fa83a8fcaf68e14ea62ac0703b86",
+      "sport_key": "soccer",
+      "competition": "Eliteserien - Norway",
+      "home_team": "Lillestrom",
+      "away_team": "Molde",
+      "commence_time": "2026-10-11T17:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Lillestrom",
+      "odds_at_alert": 14.0,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T18:48:34.314817+00:00"
+    },
+    {
+      "state_key": "ba91fa83a8fcaf68e14ea62ac0703b86:h2h",
+      "event_id": "ba91fa83a8fcaf68e14ea62ac0703b86",
+      "sport_key": "soccer",
+      "competition": "Eliteserien - Norway",
+      "home_team": "Lillestrom",
+      "away_team": "Molde",
+      "commence_time": "2026-10-11T17:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Lillestrom",
+      "odds_at_alert": 14.0,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T18:48:34.777461+00:00"
+    },
+    {
+      "state_key": "ba91fa83a8fcaf68e14ea62ac0703b86:h2h",
+      "event_id": "ba91fa83a8fcaf68e14ea62ac0703b86",
+      "sport_key": "soccer",
+      "competition": "Eliteserien - Norway",
+      "home_team": "Lillestrom",
+      "away_team": "Molde",
+      "commence_time": "2026-10-11T17:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Lillestrom",
+      "odds_at_alert": 18.0,
+      "stake_pct": 5.0,
+      "confidence": 38,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T18:48:35.248144+00:00"
+    },
+    {
+      "state_key": "ba91fa83a8fcaf68e14ea62ac0703b86:h2h",
+      "event_id": "ba91fa83a8fcaf68e14ea62ac0703b86",
+      "sport_key": "soccer",
+      "competition": "Eliteserien - Norway",
+      "home_team": "Lillestrom",
+      "away_team": "Molde",
+      "commence_time": "2026-10-11T17:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Lillestrom",
+      "odds_at_alert": 18.0,
+      "stake_pct": 5.0,
+      "confidence": 38,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T18:48:35.729190+00:00"
+    },
+    {
+      "state_key": "ba91fa83a8fcaf68e14ea62ac0703b86:h2h",
+      "event_id": "ba91fa83a8fcaf68e14ea62ac0703b86",
+      "sport_key": "soccer",
+      "competition": "Eliteserien - Norway",
+      "home_team": "Lillestrom",
+      "away_team": "Molde",
+      "commence_time": "2026-10-11T17:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Lillestrom",
+      "odds_at_alert": 15.0,
+      "stake_pct": 3.0,
+      "confidence": 15,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T18:48:36.195853+00:00"
+    },
+    {
+      "state_key": "ba91fa83a8fcaf68e14ea62ac0703b86:h2h",
+      "event_id": "ba91fa83a8fcaf68e14ea62ac0703b86",
+      "sport_key": "soccer",
+      "competition": "Eliteserien - Norway",
+      "home_team": "Lillestrom",
+      "away_team": "Molde",
+      "commence_time": "2026-10-11T17:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Lillestrom",
+      "odds_at_alert": 15.0,
+      "stake_pct": 3.0,
+      "confidence": 15,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T18:48:36.687770+00:00"
+    },
+    {
+      "state_key": "ba91fa83a8fcaf68e14ea62ac0703b86:h2h",
+      "event_id": "ba91fa83a8fcaf68e14ea62ac0703b86",
+      "sport_key": "soccer",
+      "competition": "Eliteserien - Norway",
+      "home_team": "Lillestrom",
+      "away_team": "Molde",
+      "commence_time": "2026-10-11T17:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Lillestrom",
+      "odds_at_alert": 15.0,
+      "stake_pct": 3.0,
+      "confidence": 15,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T18:48:37.150656+00:00"
+    },
+    {
+      "state_key": "ba91fa83a8fcaf68e14ea62ac0703b86:h2h",
+      "event_id": "ba91fa83a8fcaf68e14ea62ac0703b86",
+      "sport_key": "soccer",
+      "competition": "Eliteserien - Norway",
+      "home_team": "Lillestrom",
+      "away_team": "Molde",
+      "commence_time": "2026-10-11T17:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Lillestrom",
+      "odds_at_alert": 15.0,
+      "stake_pct": 3.0,
+      "confidence": 15,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T18:48:37.603868+00:00"
+    },
+    {
+      "state_key": "ba91fa83a8fcaf68e14ea62ac0703b86:h2h",
+      "event_id": "ba91fa83a8fcaf68e14ea62ac0703b86",
+      "sport_key": "soccer",
+      "competition": "Eliteserien - Norway",
+      "home_team": "Lillestrom",
+      "away_team": "Molde",
+      "commence_time": "2026-10-11T17:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Lillestrom",
+      "odds_at_alert": 16.0,
+      "stake_pct": 5.0,
+      "confidence": 22,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T18:48:38.082888+00:00"
+    },
+    {
+      "state_key": "ba91fa83a8fcaf68e14ea62ac0703b86:h2h",
+      "event_id": "ba91fa83a8fcaf68e14ea62ac0703b86",
+      "sport_key": "soccer",
+      "competition": "Eliteserien - Norway",
+      "home_team": "Lillestrom",
+      "away_team": "Molde",
+      "commence_time": "2026-10-11T17:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Lillestrom",
+      "odds_at_alert": 18.5,
+      "stake_pct": 5.0,
+      "confidence": 42,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T18:48:38.581761+00:00"
+    },
+    {
+      "state_key": "be4f5fa775ae774256ec0909fa4702ed:h2h",
+      "event_id": "be4f5fa775ae774256ec0909fa4702ed",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "KV Mechelen",
+      "away_team": "Sint Truiden",
+      "commence_time": "2026-10-11T17:16:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sint Truiden",
+      "odds_at_alert": 11.5,
+      "stake_pct": 5.0,
+      "confidence": 40,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T18:48:39.060474+00:00"
+    },
+    {
+      "state_key": "be4f5fa775ae774256ec0909fa4702ed:h2h",
+      "event_id": "be4f5fa775ae774256ec0909fa4702ed",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "KV Mechelen",
+      "away_team": "Sint Truiden",
+      "commence_time": "2026-10-11T17:16:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sint Truiden",
+      "odds_at_alert": 11.5,
+      "stake_pct": 5.0,
+      "confidence": 40,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T18:48:39.524061+00:00"
+    },
+    {
+      "state_key": "be4f5fa775ae774256ec0909fa4702ed:h2h",
+      "event_id": "be4f5fa775ae774256ec0909fa4702ed",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "KV Mechelen",
+      "away_team": "Sint Truiden",
+      "commence_time": "2026-10-11T17:16:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sint Truiden",
+      "odds_at_alert": 10.5,
+      "stake_pct": 5.0,
+      "confidence": 27,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T18:48:39.986528+00:00"
+    },
+    {
+      "state_key": "be4f5fa775ae774256ec0909fa4702ed:h2h",
+      "event_id": "be4f5fa775ae774256ec0909fa4702ed",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "KV Mechelen",
+      "away_team": "Sint Truiden",
+      "commence_time": "2026-10-11T17:16:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sint Truiden",
+      "odds_at_alert": 10.5,
+      "stake_pct": 5.0,
+      "confidence": 27,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T18:48:40.452672+00:00"
+    },
+    {
+      "state_key": "be4f5fa775ae774256ec0909fa4702ed:h2h",
+      "event_id": "be4f5fa775ae774256ec0909fa4702ed",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "KV Mechelen",
+      "away_team": "Sint Truiden",
+      "commence_time": "2026-10-11T17:16:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sint Truiden",
+      "odds_at_alert": 10.0,
+      "stake_pct": 5.0,
+      "confidence": 21,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T18:48:40.946354+00:00"
+    },
+    {
+      "state_key": "be4f5fa775ae774256ec0909fa4702ed:h2h",
+      "event_id": "be4f5fa775ae774256ec0909fa4702ed",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "KV Mechelen",
+      "away_team": "Sint Truiden",
+      "commence_time": "2026-10-11T17:16:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sint Truiden",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 33,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T18:48:41.413436+00:00"
+    },
+    {
+      "state_key": "be4f5fa775ae774256ec0909fa4702ed:h2h",
+      "event_id": "be4f5fa775ae774256ec0909fa4702ed",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "KV Mechelen",
+      "away_team": "Sint Truiden",
+      "commence_time": "2026-10-11T17:16:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sint Truiden",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 46,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T18:48:41.879913+00:00"
+    },
+    {
+      "state_key": "be4f5fa775ae774256ec0909fa4702ed:h2h",
+      "event_id": "be4f5fa775ae774256ec0909fa4702ed",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "KV Mechelen",
+      "away_team": "Sint Truiden",
+      "commence_time": "2026-10-11T17:16:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.9,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T18:48:42.334736+00:00"
+    },
+    {
+      "state_key": "be4f5fa775ae774256ec0909fa4702ed:h2h",
+      "event_id": "be4f5fa775ae774256ec0909fa4702ed",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "KV Mechelen",
+      "away_team": "Sint Truiden",
+      "commence_time": "2026-10-11T17:16:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sint Truiden",
+      "odds_at_alert": 14.5,
+      "stake_pct": 5.0,
+      "confidence": 76,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T18:48:42.824388+00:00"
+    },
+    {
+      "state_key": "be4f5fa775ae774256ec0909fa4702ed:h2h",
+      "event_id": "be4f5fa775ae774256ec0909fa4702ed",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "KV Mechelen",
+      "away_team": "Sint Truiden",
+      "commence_time": "2026-10-11T17:16:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.8,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T18:48:43.337398+00:00"
+    },
+    {
+      "state_key": "be4f5fa775ae774256ec0909fa4702ed:h2h",
+      "event_id": "be4f5fa775ae774256ec0909fa4702ed",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "KV Mechelen",
+      "away_team": "Sint Truiden",
+      "commence_time": "2026-10-11T17:16:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sint Truiden",
+      "odds_at_alert": 13.5,
+      "stake_pct": 5.0,
+      "confidence": 64,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T18:48:43.872196+00:00"
+    },
+    {
+      "state_key": "be4f5fa775ae774256ec0909fa4702ed:h2h",
+      "event_id": "be4f5fa775ae774256ec0909fa4702ed",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "KV Mechelen",
+      "away_team": "Sint Truiden",
+      "commence_time": "2026-10-11T17:16:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.05,
+      "stake_pct": 3.0,
+      "confidence": 13,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T18:48:44.376689+00:00"
+    },
+    {
+      "state_key": "be4f5fa775ae774256ec0909fa4702ed:h2h",
+      "event_id": "be4f5fa775ae774256ec0909fa4702ed",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "KV Mechelen",
+      "away_team": "Sint Truiden",
+      "commence_time": "2026-10-11T17:16:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sint Truiden",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 33,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T18:48:44.832736+00:00"
+    },
+    {
+      "state_key": "be4f5fa775ae774256ec0909fa4702ed:h2h",
+      "event_id": "be4f5fa775ae774256ec0909fa4702ed",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "KV Mechelen",
+      "away_team": "Sint Truiden",
+      "commence_time": "2026-10-11T17:16:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.0,
+      "stake_pct": 3.0,
+      "confidence": 11,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T18:48:45.322638+00:00"
+    },
+    {
+      "state_key": "be4f5fa775ae774256ec0909fa4702ed:h2h",
+      "event_id": "be4f5fa775ae774256ec0909fa4702ed",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "KV Mechelen",
+      "away_team": "Sint Truiden",
+      "commence_time": "2026-10-11T17:16:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sint Truiden",
+      "odds_at_alert": 12.5,
+      "stake_pct": 5.0,
+      "confidence": 52,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T18:48:45.791117+00:00"
+    },
+    {
+      "state_key": "be4f5fa775ae774256ec0909fa4702ed:h2h",
+      "event_id": "be4f5fa775ae774256ec0909fa4702ed",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "KV Mechelen",
+      "away_team": "Sint Truiden",
+      "commence_time": "2026-10-11T17:16:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.9,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T18:48:46.257681+00:00"
+    },
+    {
+      "state_key": "be4f5fa775ae774256ec0909fa4702ed:h2h",
+      "event_id": "be4f5fa775ae774256ec0909fa4702ed",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "KV Mechelen",
+      "away_team": "Sint Truiden",
+      "commence_time": "2026-10-11T17:16:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sint Truiden",
+      "odds_at_alert": 12.5,
+      "stake_pct": 5.0,
+      "confidence": 52,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T18:48:46.734361+00:00"
+    },
+    {
+      "state_key": "be4f5fa775ae774256ec0909fa4702ed:h2h",
+      "event_id": "be4f5fa775ae774256ec0909fa4702ed",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "KV Mechelen",
+      "away_team": "Sint Truiden",
+      "commence_time": "2026-10-11T17:16:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.9,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T18:48:47.199719+00:00"
+    },
+    {
+      "state_key": "be4f5fa775ae774256ec0909fa4702ed:h2h",
+      "event_id": "be4f5fa775ae774256ec0909fa4702ed",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "KV Mechelen",
+      "away_team": "Sint Truiden",
+      "commence_time": "2026-10-11T17:16:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sint Truiden",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 46,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T18:48:47.660425+00:00"
+    },
+    {
+      "state_key": "be4f5fa775ae774256ec0909fa4702ed:h2h",
+      "event_id": "be4f5fa775ae774256ec0909fa4702ed",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "KV Mechelen",
+      "away_team": "Sint Truiden",
+      "commence_time": "2026-10-11T17:16:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sint Truiden",
+      "odds_at_alert": 14.0,
+      "stake_pct": 5.0,
+      "confidence": 70,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T18:48:48.155625+00:00"
+    },
+    {
+      "state_key": "be4f5fa775ae774256ec0909fa4702ed:h2h",
+      "event_id": "be4f5fa775ae774256ec0909fa4702ed",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "KV Mechelen",
+      "away_team": "Sint Truiden",
+      "commence_time": "2026-10-11T17:16:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.33,
+      "stake_pct": 5.0,
+      "confidence": 20,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T18:48:48.604796+00:00"
+    },
+    {
+      "state_key": "be4f5fa775ae774256ec0909fa4702ed:h2h",
+      "event_id": "be4f5fa775ae774256ec0909fa4702ed",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "KV Mechelen",
+      "away_team": "Sint Truiden",
+      "commence_time": "2026-10-11T17:16:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sint Truiden",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 106,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T18:48:49.131271+00:00"
+    },
+    {
+      "state_key": "be4f5fa775ae774256ec0909fa4702ed:h2h",
+      "event_id": "be4f5fa775ae774256ec0909fa4702ed",
+      "sport_key": "soccer",
+      "competition": "Belgium First Div",
+      "home_team": "KV Mechelen",
+      "away_team": "Sint Truiden",
+      "commence_time": "2026-10-11T17:16:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.1,
+      "stake_pct": 3.0,
+      "confidence": 14,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T18:48:49.595181+00:00"
+    },
+    {
+      "state_key": "aba4d9883721a723252a252a86e1aa58:h2h",
+      "event_id": "aba4d9883721a723252a252a86e1aa58",
+      "sport_key": "soccer",
+      "competition": "Serie B - Italy",
+      "home_team": "Modena",
+      "away_team": "Hellas Verona",
+      "commence_time": "2026-10-11T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Modena",
+      "odds_at_alert": 6.0,
+      "stake_pct": 2.0,
+      "confidence": 5,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T18:48:50.051479+00:00"
+    },
+    {
+      "state_key": "aba4d9883721a723252a252a86e1aa58:h2h",
+      "event_id": "aba4d9883721a723252a252a86e1aa58",
+      "sport_key": "soccer",
+      "competition": "Serie B - Italy",
+      "home_team": "Modena",
+      "away_team": "Hellas Verona",
+      "commence_time": "2026-10-11T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Modena",
+      "odds_at_alert": 6.0,
+      "stake_pct": 2.0,
+      "confidence": 5,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T18:48:50.545212+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "2547c0dbddd26d23fa532228e36348cb:h2h|888sport|AS Roma",
-    "2547c0dbddd26d23fa532228e36348cb:h2h|888sport|Como",
-    "2547c0dbddd26d23fa532228e36348cb:h2h|Betclic (FR)|AS Roma",
-    "2547c0dbddd26d23fa532228e36348cb:h2h|Betclic (FR)|Como",
-    "2547c0dbddd26d23fa532228e36348cb:h2h|Betsson|AS Roma",
-    "2547c0dbddd26d23fa532228e36348cb:h2h|Betsson|Como",
-    "2547c0dbddd26d23fa532228e36348cb:h2h|Coolbet|AS Roma",
-    "2547c0dbddd26d23fa532228e36348cb:h2h|Coolbet|Como",
-    "2547c0dbddd26d23fa532228e36348cb:h2h|LeoVegas (SE)|AS Roma",
-    "2547c0dbddd26d23fa532228e36348cb:h2h|LeoVegas (SE)|Como",
-    "2547c0dbddd26d23fa532228e36348cb:h2h|Nordic Bet|AS Roma",
-    "2547c0dbddd26d23fa532228e36348cb:h2h|Nordic Bet|Como",
-    "2547c0dbddd26d23fa532228e36348cb:h2h|PMU (FR)|AS Roma",
-    "2547c0dbddd26d23fa532228e36348cb:h2h|PMU (FR)|Como",
-    "2547c0dbddd26d23fa532228e36348cb:h2h|Tipico|AS Roma",
-    "2547c0dbddd26d23fa532228e36348cb:h2h|Tipico|Como",
-    "2547c0dbddd26d23fa532228e36348cb:h2h|Unibet (NL)|AS Roma",
-    "2547c0dbddd26d23fa532228e36348cb:h2h|Unibet (NL)|Como",
-    "2547c0dbddd26d23fa532228e36348cb:h2h|Unibet (SE)|AS Roma",
-    "2547c0dbddd26d23fa532228e36348cb:h2h|Unibet (SE)|Como",
-    "2547c0dbddd26d23fa532228e36348cb:h2h|Winamax (DE)|AS Roma",
-    "2547c0dbddd26d23fa532228e36348cb:h2h|Winamax (DE)|Como",
-    "2547c0dbddd26d23fa532228e36348cb:h2h|Winamax (FR)|AS Roma",
-    "2547c0dbddd26d23fa532228e36348cb:h2h|Winamax (FR)|Como",
-    "cb4ca9d6697966580e7508a14c9c2676:h2h|Marathon Bet|FC Akhmat Grozny",
-    "cb4ca9d6697966580e7508a14c9c2676:h2h|Marathon Bet|FC Baltika Kaliningrad"
+    "aba4d9883721a723252a252a86e1aa58:h2h|Betfair|Modena",
+    "aba4d9883721a723252a252a86e1aa58:h2h|Matchbook|Modena",
+    "ba91fa83a8fcaf68e14ea62ac0703b86:h2h|Betfair|Lillestrom",
+    "ba91fa83a8fcaf68e14ea62ac0703b86:h2h|Betsson|Lillestrom",
+    "ba91fa83a8fcaf68e14ea62ac0703b86:h2h|Coolbet|Lillestrom",
+    "ba91fa83a8fcaf68e14ea62ac0703b86:h2h|LeoVegas (SE)|Lillestrom",
+    "ba91fa83a8fcaf68e14ea62ac0703b86:h2h|Marathon Bet|Lillestrom",
+    "ba91fa83a8fcaf68e14ea62ac0703b86:h2h|Matchbook|Lillestrom",
+    "ba91fa83a8fcaf68e14ea62ac0703b86:h2h|Nordic Bet|Lillestrom",
+    "ba91fa83a8fcaf68e14ea62ac0703b86:h2h|PMU (FR)|Lillestrom",
+    "ba91fa83a8fcaf68e14ea62ac0703b86:h2h|Tipico|Lillestrom",
+    "ba91fa83a8fcaf68e14ea62ac0703b86:h2h|Unibet (NL)|Lillestrom",
+    "ba91fa83a8fcaf68e14ea62ac0703b86:h2h|Unibet (SE)|Lillestrom",
+    "ba91fa83a8fcaf68e14ea62ac0703b86:h2h|Winamax (DE)|Lillestrom",
+    "ba91fa83a8fcaf68e14ea62ac0703b86:h2h|Winamax (FR)|Lillestrom",
+    "be4f5fa775ae774256ec0909fa4702ed:h2h|888sport|Sint Truiden",
+    "be4f5fa775ae774256ec0909fa4702ed:h2h|Betclic (FR)|Sint Truiden",
+    "be4f5fa775ae774256ec0909fa4702ed:h2h|Betfair|Draw",
+    "be4f5fa775ae774256ec0909fa4702ed:h2h|Betfair|Sint Truiden",
+    "be4f5fa775ae774256ec0909fa4702ed:h2h|Betsson|Draw",
+    "be4f5fa775ae774256ec0909fa4702ed:h2h|Betsson|Sint Truiden",
+    "be4f5fa775ae774256ec0909fa4702ed:h2h|Coolbet|Draw",
+    "be4f5fa775ae774256ec0909fa4702ed:h2h|Coolbet|Sint Truiden",
+    "be4f5fa775ae774256ec0909fa4702ed:h2h|LeoVegas (SE)|Sint Truiden",
+    "be4f5fa775ae774256ec0909fa4702ed:h2h|Marathon Bet|Draw",
+    "be4f5fa775ae774256ec0909fa4702ed:h2h|Marathon Bet|Sint Truiden",
+    "be4f5fa775ae774256ec0909fa4702ed:h2h|Matchbook|Draw",
+    "be4f5fa775ae774256ec0909fa4702ed:h2h|Matchbook|Sint Truiden",
+    "be4f5fa775ae774256ec0909fa4702ed:h2h|Nordic Bet|Draw",
+    "be4f5fa775ae774256ec0909fa4702ed:h2h|Nordic Bet|Sint Truiden",
+    "be4f5fa775ae774256ec0909fa4702ed:h2h|PMU (FR)|Sint Truiden",
+    "be4f5fa775ae774256ec0909fa4702ed:h2h|Tipico|Draw",
+    "be4f5fa775ae774256ec0909fa4702ed:h2h|Tipico|Sint Truiden",
+    "be4f5fa775ae774256ec0909fa4702ed:h2h|Unibet (NL)|Sint Truiden",
+    "be4f5fa775ae774256ec0909fa4702ed:h2h|Unibet (SE)|Sint Truiden",
+    "be4f5fa775ae774256ec0909fa4702ed:h2h|Winamax (DE)|Draw",
+    "be4f5fa775ae774256ec0909fa4702ed:h2h|Winamax (DE)|Sint Truiden",
+    "be4f5fa775ae774256ec0909fa4702ed:h2h|Winamax (FR)|Sint Truiden"
   ]
 }
