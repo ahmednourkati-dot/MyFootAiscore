@@ -175,38 +175,6 @@
   "alerted": [],
   "pending_results": [
     {
-      "state_key": "6619e1fedfdf11ec54f2ff721efd209f:h2h",
-      "event_id": "6619e1fedfdf11ec54f2ff721efd209f",
-      "sport_key": "soccer",
-      "competition": "UEFA Nations League",
-      "home_team": "France",
-      "away_team": "Belgium",
-      "commence_time": "2026-10-05T18:45:00Z",
-      "market_label": "Cotes 1X2",
-      "selection": "Belgium",
-      "odds_at_alert": 6.6,
-      "stake_pct": 2.0,
-      "confidence": 6,
-      "alert_type": "value",
-      "alerted_at": "2026-10-05T05:28:09.176727+00:00"
-    },
-    {
-      "state_key": "6619e1fedfdf11ec54f2ff721efd209f:h2h",
-      "event_id": "6619e1fedfdf11ec54f2ff721efd209f",
-      "sport_key": "soccer",
-      "competition": "UEFA Nations League",
-      "home_team": "France",
-      "away_team": "Belgium",
-      "commence_time": "2026-10-05T18:45:00Z",
-      "market_label": "Cotes 1X2",
-      "selection": "Belgium",
-      "odds_at_alert": 6.6,
-      "stake_pct": 2.0,
-      "confidence": 6,
-      "alert_type": "value",
-      "alerted_at": "2026-10-05T05:28:09.562542+00:00"
-    },
-    {
       "state_key": "f8c1c020db879bcbb74b47f9c7bc023a:h2h",
       "event_id": "f8c1c020db879bcbb74b47f9c7bc023a",
       "sport_key": "soccer",
