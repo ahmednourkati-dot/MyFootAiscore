@@ -1,336 +1,130 @@
 {
   "snapshots": {
-    "cfe78156a1671b8d9816dfb5a69dc382:h2h": {
-      "LeoVegas (SE)": {
-        "Gwangju FC": 4.7,
-        "Ulsan Hyundai FC": 1.64,
-        "Draw": 2.85
-      },
+    "2547c0dbddd26d23fa532228e36348cb:h2h": {
       "Unibet (NL)": {
-        "Gwangju FC": 5.0,
-        "Ulsan Hyundai FC": 1.75,
-        "Draw": 3.0
+        "AS Roma": 126.0,
+        "Como": 26.0,
+        "Draw": 1.01
+      },
+      "PMU (FR)": {
+        "AS Roma": 35.0,
+        "Como": 7.5,
+        "Draw": 1.03
       },
       "Unibet (SE)": {
-        "Gwangju FC": 4.8,
-        "Ulsan Hyundai FC": 1.75,
-        "Draw": 3.1
+        "AS Roma": 126.0,
+        "Como": 20.0,
+        "Draw": 1.01
       },
-      "Nordic Bet": {
-        "Gwangju FC": 3.65,
-        "Ulsan Hyundai FC": 2.02,
-        "Draw": 3.05
-      },
-      "Betsson": {
-        "Gwangju FC": 3.65,
-        "Ulsan Hyundai FC": 2.02,
-        "Draw": 3.05
-      },
-      "Betclic (FR)": {
-        "Gwangju FC": 9.25,
-        "Ulsan Hyundai FC": 1.27,
-        "Draw": 4.5
+      "LeoVegas (SE)": {
+        "AS Roma": 41.0,
+        "Como": 9.0,
+        "Draw": 1.05
       },
       "Pinnacle": {
-        "Gwangju FC": 4.46,
-        "Ulsan Hyundai FC": 1.79,
-        "Draw": 3.63
-      },
-      "Winamax (DE)": {
-        "Gwangju FC": 4.0,
-        "Ulsan Hyundai FC": 1.92,
-        "Draw": 2.95
+        "AS Roma": 18.98,
+        "Como": 4.19,
+        "Draw": 1.3
       },
       "Winamax (FR)": {
-        "Gwangju FC": 3.9,
-        "Ulsan Hyundai FC": 1.88,
-        "Draw": 2.85
+        "AS Roma": 60.0,
+        "Como": 13.5,
+        "Draw": 1.05
       },
-      "Tipico": {
-        "Gwangju FC": 4.3,
-        "Ulsan Hyundai FC": 2.1,
-        "Draw": 2.6
-      },
-      "Coolbet": {
-        "Gwangju FC": 4.0,
-        "Ulsan Hyundai FC": 2.0,
-        "Draw": 3.14
-      },
-      "Betfair": {
-        "Gwangju FC": 2.98,
-        "Ulsan Hyundai FC": 1.74,
-        "Draw": 2.44
-      },
-      "Matchbook": {
-        "Gwangju FC": 3.95,
-        "Ulsan Hyundai FC": 2.06,
-        "Draw": 3.2
-      }
-    },
-    "96d486efb65ebecef9e31c8371b6c35e:h2h": {
-      "Betsson": {
-        "JEF United Chiba": 1.44,
-        "V-Varen Nagasaki": 6.3,
-        "Draw": 3.9
-      },
-      "Coolbet": {
-        "JEF United Chiba": 1.44,
-        "V-Varen Nagasaki": 7.5,
-        "Draw": 4.0
-      },
-      "Nordic Bet": {
-        "JEF United Chiba": 1.44,
-        "V-Varen Nagasaki": 6.3,
-        "Draw": 3.9
+      "Winamax (DE)": {
+        "AS Roma": 60.0,
+        "Como": 14.0,
+        "Draw": 1.04
       },
       "Betclic (FR)": {
-        "JEF United Chiba": 1.4,
-        "V-Varen Nagasaki": 6.75,
-        "Draw": 3.9
+        "AS Roma": 30.0,
+        "Como": 8.75,
+        "Draw": 1.04
       },
-      "Pinnacle": {
-        "JEF United Chiba": 1.51,
-        "V-Varen Nagasaki": 7.05,
-        "Draw": 3.92
-      },
-      "Winamax (DE)": {
-        "JEF United Chiba": 1.41,
-        "V-Varen Nagasaki": 6.75,
-        "Draw": 4.1
-      },
-      "Winamax (FR)": {
-        "JEF United Chiba": 1.41,
-        "V-Varen Nagasaki": 6.5,
-        "Draw": 3.9
+      "Nordic Bet": {
+        "AS Roma": 50.0,
+        "Como": 13.0,
+        "Draw": 1.03
       },
       "888sport": {
-        "JEF United Chiba": 1.44,
-        "V-Varen Nagasaki": 6.0,
-        "Draw": 3.8
+        "AS Roma": 36.0,
+        "Como": 7.0,
+        "Draw": 1.11
       },
       "Tipico": {
-        "JEF United Chiba": 1.4,
-        "V-Varen Nagasaki": 7.0,
-        "Draw": 4.3
-      },
-      "LeoVegas (SE)": {
-        "JEF United Chiba": 1.44,
-        "V-Varen Nagasaki": 6.0,
-        "Draw": 3.45
-      },
-      "Unibet (NL)": {
-        "JEF United Chiba": 1.5,
-        "V-Varen Nagasaki": 6.1,
-        "Draw": 3.6
-      },
-      "Unibet (SE)": {
-        "JEF United Chiba": 1.5,
-        "V-Varen Nagasaki": 6.1,
-        "Draw": 3.6
-      },
-      "Betfair": {
-        "JEF United Chiba": 1.52,
-        "V-Varen Nagasaki": 7.8,
-        "Draw": 4.3
-      },
-      "Matchbook": {
-        "JEF United Chiba": 1.51,
-        "V-Varen Nagasaki": 8.0,
-        "Draw": 4.3
-      }
-    },
-    "5e36b5eef2b372c38c69b9be03e8bfe2:h2h": {
-      "Coolbet": {
-        "Hiroshima Sanfrecce FC": 1.58,
-        "Tokyo Verdy": 5.75,
-        "Draw": 4.2
-      },
-      "Unibet (FR)": {
-        "Hiroshima Sanfrecce FC": 1.43,
-        "Tokyo Verdy": 5.3,
-        "Draw": 3.7
-      },
-      "BetOnline.ag": {
-        "Hiroshima Sanfrecce FC": 1.55,
-        "Tokyo Verdy": 6.2,
-        "Draw": 4.0
+        "AS Roma": 60.0,
+        "Como": 9.0,
+        "Draw": 1.04
       },
       "Betsson": {
-        "Hiroshima Sanfrecce FC": 1.52,
-        "Tokyo Verdy": 5.7,
-        "Draw": 3.75
-      },
-      "Nordic Bet": {
-        "Hiroshima Sanfrecce FC": 1.52,
-        "Tokyo Verdy": 5.7,
-        "Draw": 3.75
-      },
-      "1xBet": {
-        "Hiroshima Sanfrecce FC": 1.58,
-        "Tokyo Verdy": 6.0,
-        "Draw": 4.03
-      },
-      "Pinnacle": {
-        "Hiroshima Sanfrecce FC": 1.57,
-        "Tokyo Verdy": 6.41,
-        "Draw": 4.08
-      },
-      "Betclic (FR)": {
-        "Hiroshima Sanfrecce FC": 1.5,
-        "Tokyo Verdy": 5.4,
-        "Draw": 3.73
-      },
-      "Winamax (FR)": {
-        "Hiroshima Sanfrecce FC": 1.5,
-        "Tokyo Verdy": 5.1,
-        "Draw": 3.85
-      },
-      "Winamax (DE)": {
-        "Hiroshima Sanfrecce FC": 1.52,
-        "Tokyo Verdy": 5.3,
-        "Draw": 3.95
-      },
-      "888sport": {
-        "Hiroshima Sanfrecce FC": 1.57,
-        "Tokyo Verdy": 5.5,
-        "Draw": 3.7
-      },
-      "William Hill": {
-        "Hiroshima Sanfrecce FC": 1.57,
-        "Tokyo Verdy": 5.5,
-        "Draw": 3.7
-      },
-      "Tipico": {
-        "Hiroshima Sanfrecce FC": 1.47,
-        "Tokyo Verdy": 6.7,
-        "Draw": 3.9
-      },
-      "Unibet (SE)": {
-        "Hiroshima Sanfrecce FC": 1.49,
-        "Tokyo Verdy": 6.0,
-        "Draw": 4.0
-      },
-      "LeoVegas (SE)": {
-        "Hiroshima Sanfrecce FC": 1.5,
-        "Tokyo Verdy": 6.0,
-        "Draw": 4.0
-      },
-      "Unibet (NL)": {
-        "Hiroshima Sanfrecce FC": 1.49,
-        "Tokyo Verdy": 6.0,
-        "Draw": 4.0
+        "AS Roma": 55.0,
+        "Como": 13.0,
+        "Draw": 1.03
       },
       "Betfair": {
-        "Hiroshima Sanfrecce FC": 1.59,
-        "Tokyo Verdy": 7.0,
-        "Draw": 4.2
-      },
-      "BetAnything": {
-        "Hiroshima Sanfrecce FC": 1.55,
-        "Tokyo Verdy": 6.2,
-        "Draw": 4.0
-      },
-      "Matchbook": {
-        "Hiroshima Sanfrecce FC": 1.59,
-        "Tokyo Verdy": 7.0,
-        "Draw": 4.2
-      }
-    },
-    "162e19bdf81a78d3a9851cd1bad4f19b:h2h": {
-      "Betclic (FR)": {
-        "Mito HollyHock": 2.88,
-        "Shimizu S Pulse": 2.38,
-        "Draw": 2.83
+        "AS Roma": 1.01,
+        "Como": 1.01,
+        "Draw": 1.01
       },
       "Coolbet": {
-        "Mito HollyHock": 2.9,
-        "Shimizu S Pulse": 2.6,
-        "Draw": 3.1
-      },
-      "BetOnline.ag": {
-        "Mito HollyHock": 3.05,
-        "Shimizu S Pulse": 2.58,
-        "Draw": 3.0
-      },
-      "Unibet (FR)": {
-        "Mito HollyHock": 2.85,
-        "Shimizu S Pulse": 2.2,
-        "Draw": 2.8
+        "AS Roma": 50.0,
+        "Como": 10.0,
+        "Draw": 1.08
+      }
+    },
+    "6eb7e1f109e8398991596b4e4b9c940b:h2h": {
+      "Pinnacle": {
+        "Basaksehir": 6.99,
+        "Torku Konyaspor": 5.06,
+        "Draw": 1.39
       },
       "Nordic Bet": {
-        "Mito HollyHock": 2.95,
-        "Shimizu S Pulse": 2.45,
-        "Draw": 2.85
-      },
-      "Betsson": {
-        "Mito HollyHock": 2.95,
-        "Shimizu S Pulse": 2.45,
-        "Draw": 2.85
-      },
-      "1xBet": {
-        "Mito HollyHock": 2.95,
-        "Shimizu S Pulse": 2.62,
-        "Draw": 3.06
-      },
-      "Pinnacle": {
-        "Mito HollyHock": 3.09,
-        "Shimizu S Pulse": 2.62,
-        "Draw": 3.05
-      },
-      "Winamax (FR)": {
-        "Mito HollyHock": 2.8,
-        "Shimizu S Pulse": 2.4,
-        "Draw": 2.9
-      },
-      "Winamax (DE)": {
-        "Mito HollyHock": 2.85,
-        "Shimizu S Pulse": 2.4,
-        "Draw": 2.95
-      },
-      "888sport": {
-        "Mito HollyHock": 3.0,
-        "Shimizu S Pulse": 2.45,
-        "Draw": 2.8
-      },
-      "William Hill": {
-        "Mito HollyHock": 2.8,
-        "Shimizu S Pulse": 2.5,
-        "Draw": 2.9
-      },
-      "Tipico": {
-        "Mito HollyHock": 3.1,
-        "Shimizu S Pulse": 2.45,
-        "Draw": 2.8
-      },
-      "LeoVegas (SE)": {
-        "Mito HollyHock": 2.7,
-        "Shimizu S Pulse": 2.6,
-        "Draw": 3.05
-      },
-      "Unibet (NL)": {
-        "Mito HollyHock": 2.7,
-        "Shimizu S Pulse": 2.6,
-        "Draw": 3.0
-      },
-      "Unibet (SE)": {
-        "Mito HollyHock": 2.7,
-        "Shimizu S Pulse": 2.6,
-        "Draw": 3.0
+        "Basaksehir": 1.0,
+        "Torku Konyaspor": 1.0,
+        "Draw": 1.0
       },
       "Betfair": {
-        "Mito HollyHock": 3.2,
-        "Shimizu S Pulse": 2.6,
-        "Draw": 3.1
+        "Basaksehir": 1.02,
+        "Torku Konyaspor": 1.02
+      }
+    },
+    "1a9cae480abd2c5e487d431ee1c331fb:h2h": {
+      "888sport": {
+        "Celtic": 1.0,
+        "Motherwell": 151.0,
+        "Draw": 51.0
       },
-      "BetAnything": {
-        "Mito HollyHock": 3.05,
-        "Shimizu S Pulse": 2.58,
-        "Draw": 3.0
+      "Nordic Bet": {
+        "Celtic": 1.0,
+        "Motherwell": 46.0,
+        "Draw": 19.0
       },
-      "Matchbook": {
-        "Mito HollyHock": 3.25,
-        "Shimizu S Pulse": 2.6,
-        "Draw": 3.1
+      "Betsson": {
+        "Celtic": 1.0,
+        "Motherwell": 46.0,
+        "Draw": 19.0
+      },
+      "Unibet (SE)": {
+        "Celtic": 1.01,
+        "Motherwell": 161.0,
+        "Draw": 31.0
+      },
+      "Betfair": {
+        "Celtic": 1.01,
+        "Motherwell": 1000.0,
+        "Draw": 60.0
+      }
+    },
+    "cb4ca9d6697966580e7508a14c9c2676:h2h": {
+      "Pinnacle": {
+        "FC Akhmat Grozny": 6.07,
+        "FC Baltika Kaliningrad": 6.39,
+        "Draw": 1.36
+      },
+      "Marathon Bet": {
+        "FC Akhmat Grozny": 7.0,
+        "FC Baltika Kaliningrad": 8.0,
+        "Draw": 1.27
       }
     }
   },
@@ -2559,20 +2353,451 @@
       "confidence": 5,
       "alert_type": "value",
       "alerted_at": "2026-10-11T05:37:58.755708+00:00"
+    },
+    {
+      "state_key": "2547c0dbddd26d23fa532228e36348cb:h2h",
+      "event_id": "2547c0dbddd26d23fa532228e36348cb",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Como",
+      "away_team": "AS Roma",
+      "commence_time": "2026-10-11T10:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "AS Roma",
+      "odds_at_alert": 126.0,
+      "stake_pct": 5.0,
+      "confidence": 526,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T12:40:58.926898+00:00"
+    },
+    {
+      "state_key": "2547c0dbddd26d23fa532228e36348cb:h2h",
+      "event_id": "2547c0dbddd26d23fa532228e36348cb",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Como",
+      "away_team": "AS Roma",
+      "commence_time": "2026-10-11T10:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Como",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 485,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T12:40:59.421988+00:00"
+    },
+    {
+      "state_key": "2547c0dbddd26d23fa532228e36348cb:h2h",
+      "event_id": "2547c0dbddd26d23fa532228e36348cb",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Como",
+      "away_team": "AS Roma",
+      "commence_time": "2026-10-11T10:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "AS Roma",
+      "odds_at_alert": 35.0,
+      "stake_pct": 5.0,
+      "confidence": 74,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T12:40:59.901782+00:00"
+    },
+    {
+      "state_key": "2547c0dbddd26d23fa532228e36348cb:h2h",
+      "event_id": "2547c0dbddd26d23fa532228e36348cb",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Como",
+      "away_team": "AS Roma",
+      "commence_time": "2026-10-11T10:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Como",
+      "odds_at_alert": 7.5,
+      "stake_pct": 5.0,
+      "confidence": 69,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T12:41:00.423104+00:00"
+    },
+    {
+      "state_key": "2547c0dbddd26d23fa532228e36348cb:h2h",
+      "event_id": "2547c0dbddd26d23fa532228e36348cb",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Como",
+      "away_team": "AS Roma",
+      "commence_time": "2026-10-11T10:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "AS Roma",
+      "odds_at_alert": 126.0,
+      "stake_pct": 5.0,
+      "confidence": 526,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T12:41:00.920926+00:00"
+    },
+    {
+      "state_key": "2547c0dbddd26d23fa532228e36348cb:h2h",
+      "event_id": "2547c0dbddd26d23fa532228e36348cb",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Como",
+      "away_team": "AS Roma",
+      "commence_time": "2026-10-11T10:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Como",
+      "odds_at_alert": 20.0,
+      "stake_pct": 5.0,
+      "confidence": 350,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T12:41:01.412675+00:00"
+    },
+    {
+      "state_key": "2547c0dbddd26d23fa532228e36348cb:h2h",
+      "event_id": "2547c0dbddd26d23fa532228e36348cb",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Como",
+      "away_team": "AS Roma",
+      "commence_time": "2026-10-11T10:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "AS Roma",
+      "odds_at_alert": 41.0,
+      "stake_pct": 5.0,
+      "confidence": 104,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T12:41:01.910983+00:00"
+    },
+    {
+      "state_key": "2547c0dbddd26d23fa532228e36348cb:h2h",
+      "event_id": "2547c0dbddd26d23fa532228e36348cb",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Como",
+      "away_team": "AS Roma",
+      "commence_time": "2026-10-11T10:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Como",
+      "odds_at_alert": 9.0,
+      "stake_pct": 5.0,
+      "confidence": 103,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T12:41:02.432020+00:00"
+    },
+    {
+      "state_key": "2547c0dbddd26d23fa532228e36348cb:h2h",
+      "event_id": "2547c0dbddd26d23fa532228e36348cb",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Como",
+      "away_team": "AS Roma",
+      "commence_time": "2026-10-11T10:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "AS Roma",
+      "odds_at_alert": 60.0,
+      "stake_pct": 5.0,
+      "confidence": 198,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T12:41:02.917615+00:00"
+    },
+    {
+      "state_key": "2547c0dbddd26d23fa532228e36348cb:h2h",
+      "event_id": "2547c0dbddd26d23fa532228e36348cb",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Como",
+      "away_team": "AS Roma",
+      "commence_time": "2026-10-11T10:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Como",
+      "odds_at_alert": 13.5,
+      "stake_pct": 5.0,
+      "confidence": 204,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T12:41:03.410028+00:00"
+    },
+    {
+      "state_key": "2547c0dbddd26d23fa532228e36348cb:h2h",
+      "event_id": "2547c0dbddd26d23fa532228e36348cb",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Como",
+      "away_team": "AS Roma",
+      "commence_time": "2026-10-11T10:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "AS Roma",
+      "odds_at_alert": 60.0,
+      "stake_pct": 5.0,
+      "confidence": 198,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T12:41:03.930374+00:00"
+    },
+    {
+      "state_key": "2547c0dbddd26d23fa532228e36348cb:h2h",
+      "event_id": "2547c0dbddd26d23fa532228e36348cb",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Como",
+      "away_team": "AS Roma",
+      "commence_time": "2026-10-11T10:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Como",
+      "odds_at_alert": 14.0,
+      "stake_pct": 5.0,
+      "confidence": 215,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T12:41:04.452657+00:00"
+    },
+    {
+      "state_key": "2547c0dbddd26d23fa532228e36348cb:h2h",
+      "event_id": "2547c0dbddd26d23fa532228e36348cb",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Como",
+      "away_team": "AS Roma",
+      "commence_time": "2026-10-11T10:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "AS Roma",
+      "odds_at_alert": 30.0,
+      "stake_pct": 5.0,
+      "confidence": 49,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T12:41:04.947919+00:00"
+    },
+    {
+      "state_key": "2547c0dbddd26d23fa532228e36348cb:h2h",
+      "event_id": "2547c0dbddd26d23fa532228e36348cb",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Como",
+      "away_team": "AS Roma",
+      "commence_time": "2026-10-11T10:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Como",
+      "odds_at_alert": 8.75,
+      "stake_pct": 5.0,
+      "confidence": 97,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T12:41:05.466695+00:00"
+    },
+    {
+      "state_key": "2547c0dbddd26d23fa532228e36348cb:h2h",
+      "event_id": "2547c0dbddd26d23fa532228e36348cb",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Como",
+      "away_team": "AS Roma",
+      "commence_time": "2026-10-11T10:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "AS Roma",
+      "odds_at_alert": 50.0,
+      "stake_pct": 5.0,
+      "confidence": 148,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T12:41:05.977156+00:00"
+    },
+    {
+      "state_key": "2547c0dbddd26d23fa532228e36348cb:h2h",
+      "event_id": "2547c0dbddd26d23fa532228e36348cb",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Como",
+      "away_team": "AS Roma",
+      "commence_time": "2026-10-11T10:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Como",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 193,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T12:41:06.462101+00:00"
+    },
+    {
+      "state_key": "2547c0dbddd26d23fa532228e36348cb:h2h",
+      "event_id": "2547c0dbddd26d23fa532228e36348cb",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Como",
+      "away_team": "AS Roma",
+      "commence_time": "2026-10-11T10:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "AS Roma",
+      "odds_at_alert": 36.0,
+      "stake_pct": 5.0,
+      "confidence": 79,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T12:41:06.970108+00:00"
+    },
+    {
+      "state_key": "2547c0dbddd26d23fa532228e36348cb:h2h",
+      "event_id": "2547c0dbddd26d23fa532228e36348cb",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Como",
+      "away_team": "AS Roma",
+      "commence_time": "2026-10-11T10:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Como",
+      "odds_at_alert": 7.0,
+      "stake_pct": 5.0,
+      "confidence": 58,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T12:41:07.461485+00:00"
+    },
+    {
+      "state_key": "2547c0dbddd26d23fa532228e36348cb:h2h",
+      "event_id": "2547c0dbddd26d23fa532228e36348cb",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Como",
+      "away_team": "AS Roma",
+      "commence_time": "2026-10-11T10:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "AS Roma",
+      "odds_at_alert": 60.0,
+      "stake_pct": 5.0,
+      "confidence": 198,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T12:41:07.974691+00:00"
+    },
+    {
+      "state_key": "2547c0dbddd26d23fa532228e36348cb:h2h",
+      "event_id": "2547c0dbddd26d23fa532228e36348cb",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Como",
+      "away_team": "AS Roma",
+      "commence_time": "2026-10-11T10:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Como",
+      "odds_at_alert": 9.0,
+      "stake_pct": 5.0,
+      "confidence": 103,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T12:41:08.465044+00:00"
+    },
+    {
+      "state_key": "2547c0dbddd26d23fa532228e36348cb:h2h",
+      "event_id": "2547c0dbddd26d23fa532228e36348cb",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Como",
+      "away_team": "AS Roma",
+      "commence_time": "2026-10-11T10:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "AS Roma",
+      "odds_at_alert": 55.0,
+      "stake_pct": 5.0,
+      "confidence": 173,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T12:41:08.965888+00:00"
+    },
+    {
+      "state_key": "2547c0dbddd26d23fa532228e36348cb:h2h",
+      "event_id": "2547c0dbddd26d23fa532228e36348cb",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Como",
+      "away_team": "AS Roma",
+      "commence_time": "2026-10-11T10:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Como",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 193,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T12:41:09.454632+00:00"
+    },
+    {
+      "state_key": "2547c0dbddd26d23fa532228e36348cb:h2h",
+      "event_id": "2547c0dbddd26d23fa532228e36348cb",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Como",
+      "away_team": "AS Roma",
+      "commence_time": "2026-10-11T10:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "AS Roma",
+      "odds_at_alert": 50.0,
+      "stake_pct": 5.0,
+      "confidence": 148,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T12:41:09.948033+00:00"
+    },
+    {
+      "state_key": "2547c0dbddd26d23fa532228e36348cb:h2h",
+      "event_id": "2547c0dbddd26d23fa532228e36348cb",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Como",
+      "away_team": "AS Roma",
+      "commence_time": "2026-10-11T10:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Como",
+      "odds_at_alert": 10.0,
+      "stake_pct": 5.0,
+      "confidence": 125,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T12:41:10.458080+00:00"
+    },
+    {
+      "state_key": "cb4ca9d6697966580e7508a14c9c2676:h2h",
+      "event_id": "cb4ca9d6697966580e7508a14c9c2676",
+      "sport_key": "soccer",
+      "competition": "Premier League - Russia",
+      "home_team": "FC Akhmat Grozny",
+      "away_team": "FC Baltika Kaliningrad",
+      "commence_time": "2026-10-11T11:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Akhmat Grozny",
+      "odds_at_alert": 7.0,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T12:41:11.006341+00:00"
+    },
+    {
+      "state_key": "cb4ca9d6697966580e7508a14c9c2676:h2h",
+      "event_id": "cb4ca9d6697966580e7508a14c9c2676",
+      "sport_key": "soccer",
+      "competition": "Premier League - Russia",
+      "home_team": "FC Akhmat Grozny",
+      "away_team": "FC Baltika Kaliningrad",
+      "commence_time": "2026-10-11T11:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Baltika Kaliningrad",
+      "odds_at_alert": 8.0,
+      "stake_pct": 5.0,
+      "confidence": 18,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T12:41:11.494341+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "5e36b5eef2b372c38c69b9be03e8bfe2:h2h|Betfair|Tokyo Verdy",
-    "5e36b5eef2b372c38c69b9be03e8bfe2:h2h|Matchbook|Tokyo Verdy",
-    "96d486efb65ebecef9e31c8371b6c35e:h2h|Matchbook|V-Varen Nagasaki",
-    "cfe78156a1671b8d9816dfb5a69dc382:h2h|Betclic (FR)|Draw",
-    "cfe78156a1671b8d9816dfb5a69dc382:h2h|Betclic (FR)|Gwangju FC",
-    "cfe78156a1671b8d9816dfb5a69dc382:h2h|Betsson|Ulsan Hyundai FC",
-    "cfe78156a1671b8d9816dfb5a69dc382:h2h|Coolbet|Ulsan Hyundai FC",
-    "cfe78156a1671b8d9816dfb5a69dc382:h2h|Matchbook|Ulsan Hyundai FC",
-    "cfe78156a1671b8d9816dfb5a69dc382:h2h|Nordic Bet|Ulsan Hyundai FC",
-    "cfe78156a1671b8d9816dfb5a69dc382:h2h|Tipico|Ulsan Hyundai FC",
-    "cfe78156a1671b8d9816dfb5a69dc382:h2h|Unibet (NL)|Gwangju FC"
+    "2547c0dbddd26d23fa532228e36348cb:h2h|888sport|AS Roma",
+    "2547c0dbddd26d23fa532228e36348cb:h2h|888sport|Como",
+    "2547c0dbddd26d23fa532228e36348cb:h2h|Betclic (FR)|AS Roma",
+    "2547c0dbddd26d23fa532228e36348cb:h2h|Betclic (FR)|Como",
+    "2547c0dbddd26d23fa532228e36348cb:h2h|Betsson|AS Roma",
+    "2547c0dbddd26d23fa532228e36348cb:h2h|Betsson|Como",
+    "2547c0dbddd26d23fa532228e36348cb:h2h|Coolbet|AS Roma",
+    "2547c0dbddd26d23fa532228e36348cb:h2h|Coolbet|Como",
+    "2547c0dbddd26d23fa532228e36348cb:h2h|LeoVegas (SE)|AS Roma",
+    "2547c0dbddd26d23fa532228e36348cb:h2h|LeoVegas (SE)|Como",
+    "2547c0dbddd26d23fa532228e36348cb:h2h|Nordic Bet|AS Roma",
+    "2547c0dbddd26d23fa532228e36348cb:h2h|Nordic Bet|Como",
+    "2547c0dbddd26d23fa532228e36348cb:h2h|PMU (FR)|AS Roma",
+    "2547c0dbddd26d23fa532228e36348cb:h2h|PMU (FR)|Como",
+    "2547c0dbddd26d23fa532228e36348cb:h2h|Tipico|AS Roma",
+    "2547c0dbddd26d23fa532228e36348cb:h2h|Tipico|Como",
+    "2547c0dbddd26d23fa532228e36348cb:h2h|Unibet (NL)|AS Roma",
+    "2547c0dbddd26d23fa532228e36348cb:h2h|Unibet (NL)|Como",
+    "2547c0dbddd26d23fa532228e36348cb:h2h|Unibet (SE)|AS Roma",
+    "2547c0dbddd26d23fa532228e36348cb:h2h|Unibet (SE)|Como",
+    "2547c0dbddd26d23fa532228e36348cb:h2h|Winamax (DE)|AS Roma",
+    "2547c0dbddd26d23fa532228e36348cb:h2h|Winamax (DE)|Como",
+    "2547c0dbddd26d23fa532228e36348cb:h2h|Winamax (FR)|AS Roma",
+    "2547c0dbddd26d23fa532228e36348cb:h2h|Winamax (FR)|Como",
+    "cb4ca9d6697966580e7508a14c9c2676:h2h|Marathon Bet|FC Akhmat Grozny",
+    "cb4ca9d6697966580e7508a14c9c2676:h2h|Marathon Bet|FC Baltika Kaliningrad"
   ]
 }
