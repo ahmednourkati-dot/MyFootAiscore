@@ -1,281 +1,176 @@
 {
   "snapshots": {
-    "5696ee371ba00ede3dc8a64d24ce79f1:h2h": {
-      "Betclic (FR)": {
-        "Benfica": 1.0,
-        "Vitória SC": 100.0,
-        "Draw": 50.0
-      },
-      "Winamax (DE)": {
-        "Benfica": 1.05,
-        "Vitória SC": 60.0,
+    "c0e1b5f18d9862a73d938b23167ca2a0:h2h": {
+      "LeoVegas (SE)": {
+        "Avai": 1.03,
+        "Cuiabá": 81.0,
         "Draw": 9.0
       },
-      "Winamax (FR)": {
-        "Benfica": 1.04,
-        "Vitória SC": 60.0,
-        "Draw": 5.6
-      },
-      "888sport": {
-        "Benfica": 1.0,
-        "Vitória SC": 151.0,
-        "Draw": 67.0
+      "Betsson": {
+        "Avai": 1.02,
+        "Cuiabá": 200.0,
+        "Draw": 11.0
       },
       "Nordic Bet": {
-        "Benfica": 1.0,
-        "Vitória SC": 36.0,
-        "Draw": 21.0
+        "Avai": 1.01,
+        "Cuiabá": 200.0,
+        "Draw": 12.0
       },
-      "Betsson": {
-        "Benfica": 1.0,
-        "Vitória SC": 36.0,
-        "Draw": 21.0
+      "Coolbet": {
+        "Avai": 1.03,
+        "Cuiabá": 50.0,
+        "Draw": 9.0
+      },
+      "Pinnacle": {
+        "Avai": 1.26,
+        "Cuiabá": 22.68,
+        "Draw": 4.5
       },
       "Betfair": {
-        "Benfica": 1.01,
-        "Vitória SC": 110.0,
+        "Avai": 1.01,
+        "Cuiabá": 200.0,
         "Draw": 50.0
       }
     },
-    "ba91fa83a8fcaf68e14ea62ac0703b86:h2h": {
-      "Winamax (FR)": {
-        "Lillestrom": 14.0,
-        "Molde": 1.29,
-        "Draw": 4.0
-      },
-      "Winamax (DE)": {
-        "Lillestrom": 14.5,
-        "Molde": 1.28,
-        "Draw": 4.1
-      },
-      "Betclic (FR)": {
-        "Lillestrom": 12.0,
-        "Molde": 1.27,
-        "Draw": 3.8
-      },
-      "Marathon Bet": {
-        "Lillestrom": 14.25,
-        "Molde": 1.25,
-        "Draw": 4.3
-      },
-      "Pinnacle": {
-        "Lillestrom": 12.41,
-        "Molde": 1.37,
-        "Draw": 4.12
-      },
+    "e7f7d26d9e46556f0655d92d55126968:h2h": {
       "Nordic Bet": {
-        "Lillestrom": 14.0,
-        "Molde": 1.28,
-        "Draw": 4.1
+        "Goiás": 1.0,
+        "Operario PR": 26.0,
+        "Draw": 26.0
       },
       "Betsson": {
-        "Lillestrom": 14.0,
-        "Molde": 1.28,
-        "Draw": 4.1
-      },
-      "Tipico": {
-        "Lillestrom": 18.0,
-        "Molde": 1.22,
-        "Draw": 4.5
-      },
-      "Coolbet": {
-        "Lillestrom": 18.0,
-        "Molde": 1.33,
-        "Draw": 4.5
-      },
-      "Unibet (SE)": {
-        "Lillestrom": 15.0,
-        "Molde": 1.24,
-        "Draw": 4.4
-      },
-      "PMU (FR)": {
-        "Lillestrom": 15.0,
-        "Molde": 1.13,
-        "Draw": 4.0
-      },
-      "LeoVegas (SE)": {
-        "Lillestrom": 15.0,
-        "Molde": 1.17,
-        "Draw": 4.2
-      },
-      "Unibet (NL)": {
-        "Lillestrom": 15.0,
-        "Molde": 1.24,
-        "Draw": 4.4
-      },
-      "Betfair": {
-        "Lillestrom": 16.0,
-        "Molde": 1.4,
-        "Draw": 4.4
-      },
-      "Matchbook": {
-        "Lillestrom": 18.5,
-        "Molde": 1.35,
-        "Draw": 4.5
+        "Goiás": 1.0,
+        "Operario PR": 26.0,
+        "Draw": 26.0
       }
     },
-    "be4f5fa775ae774256ec0909fa4702ed:h2h": {
-      "Unibet (SE)": {
-        "KV Mechelen": 1.43,
-        "Sint Truiden": 11.5,
-        "Draw": 3.45
-      },
-      "Unibet (NL)": {
-        "KV Mechelen": 1.43,
-        "Sint Truiden": 11.5,
-        "Draw": 3.45
-      },
-      "PMU (FR)": {
-        "KV Mechelen": 1.33,
-        "Sint Truiden": 10.5,
-        "Draw": 3.2
-      },
-      "LeoVegas (SE)": {
-        "KV Mechelen": 1.36,
-        "Sint Truiden": 10.5,
-        "Draw": 3.25
-      },
-      "Betclic (FR)": {
-        "KV Mechelen": 1.35,
-        "Sint Truiden": 10.0,
+    "32c0c0e4d625e121749708d239ffe8a4:h2h": {
+      "Winamax (DE)": {
+        "Belgrano de Cordoba": 1.43,
+        "Racing Club": 9.0,
         "Draw": 3.4
       },
       "Winamax (FR)": {
-        "KV Mechelen": 1.33,
-        "Sint Truiden": 11.0,
-        "Draw": 3.75
-      },
-      "Winamax (DE)": {
-        "KV Mechelen": 1.33,
-        "Sint Truiden": 12.0,
-        "Draw": 3.9
-      },
-      "Betfair": {
-        "KV Mechelen": 1.39,
-        "Sint Truiden": 14.5,
-        "Draw": 3.8
-      },
-      "Marathon Bet": {
-        "KV Mechelen": 1.32,
-        "Sint Truiden": 13.5,
-        "Draw": 4.05
-      },
-      "Tipico": {
-        "KV Mechelen": 1.35,
-        "Sint Truiden": 11.0,
-        "Draw": 4.0
-      },
-      "Betsson": {
-        "KV Mechelen": 1.31,
-        "Sint Truiden": 12.5,
-        "Draw": 3.9
-      },
-      "Nordic Bet": {
-        "KV Mechelen": 1.31,
-        "Sint Truiden": 12.5,
-        "Draw": 3.9
-      },
-      "888sport": {
-        "KV Mechelen": 1.33,
-        "Sint Truiden": 12.0,
-        "Draw": 3.75
-      },
-      "Pinnacle": {
-        "KV Mechelen": 1.57,
-        "Sint Truiden": 7.77,
-        "Draw": 3.39
-      },
-      "Coolbet": {
-        "KV Mechelen": 1.36,
-        "Sint Truiden": 14.0,
-        "Draw": 4.33
-      },
-      "Matchbook": {
-        "KV Mechelen": 1.42,
-        "Sint Truiden": 17.0,
-        "Draw": 4.1
-      }
-    },
-    "aba4d9883721a723252a252a86e1aa58:h2h": {
-      "Pinnacle": {
-        "Hellas Verona": 1.85,
-        "Modena": 5.4,
-        "Draw": 3.02
-      },
-      "Winamax (FR)": {
-        "Hellas Verona": 1.7,
-        "Modena": 4.8,
-        "Draw": 2.9
+        "Belgrano de Cordoba": 1.42,
+        "Racing Club": 8.5,
+        "Draw": 3.3
       },
       "Betclic (FR)": {
-        "Hellas Verona": 1.8,
-        "Modena": 4.3,
-        "Draw": 2.85
-      },
-      "Winamax (DE)": {
-        "Hellas Verona": 1.74,
-        "Modena": 5.0,
-        "Draw": 3.0
-      },
-      "Betsson": {
-        "Hellas Verona": 1.78,
-        "Modena": 4.85,
-        "Draw": 2.88
-      },
-      "Nordic Bet": {
-        "Hellas Verona": 1.78,
-        "Modena": 4.85,
-        "Draw": 2.88
-      },
-      "Coolbet": {
-        "Hellas Verona": 1.8,
-        "Modena": 5.5,
-        "Draw": 3.0
-      },
-      "888sport": {
-        "Hellas Verona": 1.83,
-        "Modena": 4.6,
-        "Draw": 2.9
-      },
-      "Marathon Bet": {
-        "Hellas Verona": 1.72,
-        "Modena": 5.2,
-        "Draw": 3.04
-      },
-      "Tipico": {
-        "Hellas Verona": 1.75,
-        "Modena": 4.7,
+        "Belgrano de Cordoba": 1.42,
+        "Racing Club": 7.5,
         "Draw": 3.2
       },
-      "LeoVegas (SE)": {
-        "Hellas Verona": 1.63,
-        "Modena": 5.1,
-        "Draw": 2.75
+      "Betfair": {
+        "Belgrano de Cordoba": 1.64,
+        "Racing Club": 9.2,
+        "Draw": 3.3
       },
-      "PMU (FR)": {
-        "Hellas Verona": 1.57,
-        "Modena": 5.0,
-        "Draw": 2.7
+      "Marathon Bet": {
+        "Belgrano de Cordoba": 1.5,
+        "Racing Club": 8.5,
+        "Draw": 3.4
       },
-      "Unibet (NL)": {
-        "Hellas Verona": 1.74,
-        "Modena": 5.4,
-        "Draw": 2.9
+      "Nordic Bet": {
+        "Belgrano de Cordoba": 1.45,
+        "Racing Club": 9.1,
+        "Draw": 3.4
+      },
+      "Betsson": {
+        "Belgrano de Cordoba": 1.45,
+        "Racing Club": 9.1,
+        "Draw": 3.4
       },
       "Unibet (SE)": {
-        "Hellas Verona": 1.74,
-        "Modena": 5.4,
-        "Draw": 2.9
+        "Belgrano de Cordoba": 1.38,
+        "Racing Club": 12.0,
+        "Draw": 3.7
+      },
+      "LeoVegas (SE)": {
+        "Belgrano de Cordoba": 1.3,
+        "Racing Club": 10.5,
+        "Draw": 3.5
+      }
+    },
+    "b784be601500dd4744c5fc610d56fc96:h2h": {
+      "LeoVegas (SE)": {
+        "Bahia": 1.14,
+        "Mirassol": 14.0,
+        "Draw": 5.25
+      },
+      "Unibet (NL)": {
+        "Bahia": 1.16,
+        "Mirassol": 15.0,
+        "Draw": 5.3
+      },
+      "Unibet (SE)": {
+        "Bahia": 1.2,
+        "Mirassol": 16.0,
+        "Draw": 5.6
+      },
+      "PMU (FR)": {
+        "Bahia": 1.12,
+        "Mirassol": 14.0,
+        "Draw": 5.1
+      },
+      "Winamax (DE)": {
+        "Bahia": 1.21,
+        "Mirassol": 13.0,
+        "Draw": 5.2
+      },
+      "Winamax (FR)": {
+        "Bahia": 1.23,
+        "Mirassol": 12.0,
+        "Draw": 4.9
+      },
+      "MyBookie.ag": {
+        "Bahia": 1.25,
+        "Mirassol": 9.25,
+        "Draw": 5.0
+      },
+      "Coolbet": {
+        "Bahia": 1.25,
+        "Mirassol": 15.0,
+        "Draw": 6.0
+      },
+      "Nordic Bet": {
+        "Bahia": 1.2,
+        "Mirassol": 12.5,
+        "Draw": 5.35
+      },
+      "Betsson": {
+        "Bahia": 1.2,
+        "Mirassol": 12.5,
+        "Draw": 5.35
+      },
+      "Marathon Bet": {
+        "Bahia": 1.25,
+        "Mirassol": 12.0,
+        "Draw": 5.15
+      },
+      "888sport": {
+        "Bahia": 1.25,
+        "Mirassol": 11.0,
+        "Draw": 4.8
       },
       "Betfair": {
-        "Hellas Verona": 1.88,
-        "Modena": 6.0,
-        "Draw": 3.25
+        "Bahia": 1.28,
+        "Mirassol": 17.5,
+        "Draw": 5.9
       },
       "Matchbook": {
-        "Hellas Verona": 1.89,
-        "Modena": 6.0,
-        "Draw": 3.15
+        "Bahia": 1.28,
+        "Mirassol": 18.0,
+        "Draw": 5.9
+      },
+      "Pinnacle": {
+        "Bahia": 1.26,
+        "Mirassol": 15.81,
+        "Draw": 5.28
+      },
+      "Tipico": {
+        "Bahia": 1.16,
+        "Mirassol": 15.0,
+        "Draw": 6.0
       }
     }
   },
@@ -3528,47 +3423,281 @@
       "confidence": 5,
       "alert_type": "value",
       "alerted_at": "2026-10-11T18:48:50.545212+00:00"
+    },
+    {
+      "state_key": "c0e1b5f18d9862a73d938b23167ca2a0:h2h",
+      "event_id": "c0e1b5f18d9862a73d938b23167ca2a0",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Cuiabá",
+      "away_team": "Avai",
+      "commence_time": "2026-10-11T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cuiabá",
+      "odds_at_alert": 81.0,
+      "stake_pct": 5.0,
+      "confidence": 237,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T23:37:22.564938+00:00"
+    },
+    {
+      "state_key": "c0e1b5f18d9862a73d938b23167ca2a0:h2h",
+      "event_id": "c0e1b5f18d9862a73d938b23167ca2a0",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Cuiabá",
+      "away_team": "Avai",
+      "commence_time": "2026-10-11T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 9.0,
+      "stake_pct": 5.0,
+      "confidence": 89,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T23:37:23.016893+00:00"
+    },
+    {
+      "state_key": "c0e1b5f18d9862a73d938b23167ca2a0:h2h",
+      "event_id": "c0e1b5f18d9862a73d938b23167ca2a0",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Cuiabá",
+      "away_team": "Avai",
+      "commence_time": "2026-10-11T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cuiabá",
+      "odds_at_alert": 200.0,
+      "stake_pct": 5.0,
+      "confidence": 732,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T23:37:23.465942+00:00"
+    },
+    {
+      "state_key": "c0e1b5f18d9862a73d938b23167ca2a0:h2h",
+      "event_id": "c0e1b5f18d9862a73d938b23167ca2a0",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Cuiabá",
+      "away_team": "Avai",
+      "commence_time": "2026-10-11T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 131,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T23:37:23.919727+00:00"
+    },
+    {
+      "state_key": "c0e1b5f18d9862a73d938b23167ca2a0:h2h",
+      "event_id": "c0e1b5f18d9862a73d938b23167ca2a0",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Cuiabá",
+      "away_team": "Avai",
+      "commence_time": "2026-10-11T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cuiabá",
+      "odds_at_alert": 200.0,
+      "stake_pct": 5.0,
+      "confidence": 732,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T23:37:24.396474+00:00"
+    },
+    {
+      "state_key": "c0e1b5f18d9862a73d938b23167ca2a0:h2h",
+      "event_id": "c0e1b5f18d9862a73d938b23167ca2a0",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Cuiabá",
+      "away_team": "Avai",
+      "commence_time": "2026-10-11T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 152,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T23:37:24.877437+00:00"
+    },
+    {
+      "state_key": "c0e1b5f18d9862a73d938b23167ca2a0:h2h",
+      "event_id": "c0e1b5f18d9862a73d938b23167ca2a0",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Cuiabá",
+      "away_team": "Avai",
+      "commence_time": "2026-10-11T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cuiabá",
+      "odds_at_alert": 50.0,
+      "stake_pct": 5.0,
+      "confidence": 108,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T23:37:25.323132+00:00"
+    },
+    {
+      "state_key": "c0e1b5f18d9862a73d938b23167ca2a0:h2h",
+      "event_id": "c0e1b5f18d9862a73d938b23167ca2a0",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Cuiabá",
+      "away_team": "Avai",
+      "commence_time": "2026-10-11T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 9.0,
+      "stake_pct": 5.0,
+      "confidence": 89,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T23:37:25.783248+00:00"
+    },
+    {
+      "state_key": "c0e1b5f18d9862a73d938b23167ca2a0:h2h",
+      "event_id": "c0e1b5f18d9862a73d938b23167ca2a0",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Cuiabá",
+      "away_team": "Avai",
+      "commence_time": "2026-10-11T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cuiabá",
+      "odds_at_alert": 200.0,
+      "stake_pct": 5.0,
+      "confidence": 732,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T23:37:26.304280+00:00"
+    },
+    {
+      "state_key": "c0e1b5f18d9862a73d938b23167ca2a0:h2h",
+      "event_id": "c0e1b5f18d9862a73d938b23167ca2a0",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Cuiabá",
+      "away_team": "Avai",
+      "commence_time": "2026-10-11T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 50.0,
+      "stake_pct": 5.0,
+      "confidence": 948,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T23:37:26.812307+00:00"
+    },
+    {
+      "state_key": "b784be601500dd4744c5fc610d56fc96:h2h",
+      "event_id": "b784be601500dd4744c5fc610d56fc96",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Bahia",
+      "away_team": "Mirassol",
+      "commence_time": "2026-10-11T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.0,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T23:37:27.278624+00:00"
+    },
+    {
+      "state_key": "b784be601500dd4744c5fc610d56fc96:h2h",
+      "event_id": "b784be601500dd4744c5fc610d56fc96",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Bahia",
+      "away_team": "Mirassol",
+      "commence_time": "2026-10-11T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Mirassol",
+      "odds_at_alert": 17.5,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T23:37:27.726077+00:00"
+    },
+    {
+      "state_key": "b784be601500dd4744c5fc610d56fc96:h2h",
+      "event_id": "b784be601500dd4744c5fc610d56fc96",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Bahia",
+      "away_team": "Mirassol",
+      "commence_time": "2026-10-11T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.9,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T23:37:28.217001+00:00"
+    },
+    {
+      "state_key": "b784be601500dd4744c5fc610d56fc96:h2h",
+      "event_id": "b784be601500dd4744c5fc610d56fc96",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Bahia",
+      "away_team": "Mirassol",
+      "commence_time": "2026-10-11T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Mirassol",
+      "odds_at_alert": 18.0,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T23:37:28.662181+00:00"
+    },
+    {
+      "state_key": "b784be601500dd4744c5fc610d56fc96:h2h",
+      "event_id": "b784be601500dd4744c5fc610d56fc96",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Bahia",
+      "away_team": "Mirassol",
+      "commence_time": "2026-10-11T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.9,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T23:37:29.155258+00:00"
+    },
+    {
+      "state_key": "b784be601500dd4744c5fc610d56fc96:h2h",
+      "event_id": "b784be601500dd4744c5fc610d56fc96",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Bahia",
+      "away_team": "Mirassol",
+      "commence_time": "2026-10-11T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.0,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T23:37:29.604585+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "aba4d9883721a723252a252a86e1aa58:h2h|Betfair|Modena",
-    "aba4d9883721a723252a252a86e1aa58:h2h|Matchbook|Modena",
-    "ba91fa83a8fcaf68e14ea62ac0703b86:h2h|Betfair|Lillestrom",
-    "ba91fa83a8fcaf68e14ea62ac0703b86:h2h|Betsson|Lillestrom",
-    "ba91fa83a8fcaf68e14ea62ac0703b86:h2h|Coolbet|Lillestrom",
-    "ba91fa83a8fcaf68e14ea62ac0703b86:h2h|LeoVegas (SE)|Lillestrom",
-    "ba91fa83a8fcaf68e14ea62ac0703b86:h2h|Marathon Bet|Lillestrom",
-    "ba91fa83a8fcaf68e14ea62ac0703b86:h2h|Matchbook|Lillestrom",
-    "ba91fa83a8fcaf68e14ea62ac0703b86:h2h|Nordic Bet|Lillestrom",
-    "ba91fa83a8fcaf68e14ea62ac0703b86:h2h|PMU (FR)|Lillestrom",
-    "ba91fa83a8fcaf68e14ea62ac0703b86:h2h|Tipico|Lillestrom",
-    "ba91fa83a8fcaf68e14ea62ac0703b86:h2h|Unibet (NL)|Lillestrom",
-    "ba91fa83a8fcaf68e14ea62ac0703b86:h2h|Unibet (SE)|Lillestrom",
-    "ba91fa83a8fcaf68e14ea62ac0703b86:h2h|Winamax (DE)|Lillestrom",
-    "ba91fa83a8fcaf68e14ea62ac0703b86:h2h|Winamax (FR)|Lillestrom",
-    "be4f5fa775ae774256ec0909fa4702ed:h2h|888sport|Sint Truiden",
-    "be4f5fa775ae774256ec0909fa4702ed:h2h|Betclic (FR)|Sint Truiden",
-    "be4f5fa775ae774256ec0909fa4702ed:h2h|Betfair|Draw",
-    "be4f5fa775ae774256ec0909fa4702ed:h2h|Betfair|Sint Truiden",
-    "be4f5fa775ae774256ec0909fa4702ed:h2h|Betsson|Draw",
-    "be4f5fa775ae774256ec0909fa4702ed:h2h|Betsson|Sint Truiden",
-    "be4f5fa775ae774256ec0909fa4702ed:h2h|Coolbet|Draw",
-    "be4f5fa775ae774256ec0909fa4702ed:h2h|Coolbet|Sint Truiden",
-    "be4f5fa775ae774256ec0909fa4702ed:h2h|LeoVegas (SE)|Sint Truiden",
-    "be4f5fa775ae774256ec0909fa4702ed:h2h|Marathon Bet|Draw",
-    "be4f5fa775ae774256ec0909fa4702ed:h2h|Marathon Bet|Sint Truiden",
-    "be4f5fa775ae774256ec0909fa4702ed:h2h|Matchbook|Draw",
-    "be4f5fa775ae774256ec0909fa4702ed:h2h|Matchbook|Sint Truiden",
-    "be4f5fa775ae774256ec0909fa4702ed:h2h|Nordic Bet|Draw",
-    "be4f5fa775ae774256ec0909fa4702ed:h2h|Nordic Bet|Sint Truiden",
-    "be4f5fa775ae774256ec0909fa4702ed:h2h|PMU (FR)|Sint Truiden",
-    "be4f5fa775ae774256ec0909fa4702ed:h2h|Tipico|Draw",
-    "be4f5fa775ae774256ec0909fa4702ed:h2h|Tipico|Sint Truiden",
-    "be4f5fa775ae774256ec0909fa4702ed:h2h|Unibet (NL)|Sint Truiden",
-    "be4f5fa775ae774256ec0909fa4702ed:h2h|Unibet (SE)|Sint Truiden",
-    "be4f5fa775ae774256ec0909fa4702ed:h2h|Winamax (DE)|Draw",
-    "be4f5fa775ae774256ec0909fa4702ed:h2h|Winamax (DE)|Sint Truiden",
-    "be4f5fa775ae774256ec0909fa4702ed:h2h|Winamax (FR)|Sint Truiden"
+    "b784be601500dd4744c5fc610d56fc96:h2h|Betfair|Draw",
+    "b784be601500dd4744c5fc610d56fc96:h2h|Betfair|Mirassol",
+    "b784be601500dd4744c5fc610d56fc96:h2h|Coolbet|Draw",
+    "b784be601500dd4744c5fc610d56fc96:h2h|Matchbook|Draw",
+    "b784be601500dd4744c5fc610d56fc96:h2h|Matchbook|Mirassol",
+    "b784be601500dd4744c5fc610d56fc96:h2h|Tipico|Draw",
+    "c0e1b5f18d9862a73d938b23167ca2a0:h2h|Betfair|Cuiabá",
+    "c0e1b5f18d9862a73d938b23167ca2a0:h2h|Betfair|Draw",
+    "c0e1b5f18d9862a73d938b23167ca2a0:h2h|Betsson|Cuiabá",
+    "c0e1b5f18d9862a73d938b23167ca2a0:h2h|Betsson|Draw",
+    "c0e1b5f18d9862a73d938b23167ca2a0:h2h|Coolbet|Cuiabá",
+    "c0e1b5f18d9862a73d938b23167ca2a0:h2h|Coolbet|Draw",
+    "c0e1b5f18d9862a73d938b23167ca2a0:h2h|LeoVegas (SE)|Cuiabá",
+    "c0e1b5f18d9862a73d938b23167ca2a0:h2h|LeoVegas (SE)|Draw",
+    "c0e1b5f18d9862a73d938b23167ca2a0:h2h|Nordic Bet|Cuiabá",
+    "c0e1b5f18d9862a73d938b23167ca2a0:h2h|Nordic Bet|Draw"
   ]
 }
