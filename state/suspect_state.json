@@ -1,173 +1,335 @@
 {
   "snapshots": {
-    "ae0467d02e1e53bb0ebaba185b5917aa:h2h": {
+    "cfe78156a1671b8d9816dfb5a69dc382:h2h": {
+      "LeoVegas (SE)": {
+        "Gwangju FC": 4.7,
+        "Ulsan Hyundai FC": 1.64,
+        "Draw": 2.85
+      },
+      "Unibet (NL)": {
+        "Gwangju FC": 5.0,
+        "Ulsan Hyundai FC": 1.75,
+        "Draw": 3.0
+      },
+      "Unibet (SE)": {
+        "Gwangju FC": 4.8,
+        "Ulsan Hyundai FC": 1.75,
+        "Draw": 3.1
+      },
+      "Nordic Bet": {
+        "Gwangju FC": 3.65,
+        "Ulsan Hyundai FC": 2.02,
+        "Draw": 3.05
+      },
+      "Betsson": {
+        "Gwangju FC": 3.65,
+        "Ulsan Hyundai FC": 2.02,
+        "Draw": 3.05
+      },
+      "Betclic (FR)": {
+        "Gwangju FC": 9.25,
+        "Ulsan Hyundai FC": 1.27,
+        "Draw": 4.5
+      },
+      "Pinnacle": {
+        "Gwangju FC": 4.46,
+        "Ulsan Hyundai FC": 1.79,
+        "Draw": 3.63
+      },
       "Winamax (DE)": {
-        "Banfield": 1.66,
-        "CA Tigre BA": 5.8,
+        "Gwangju FC": 4.0,
+        "Ulsan Hyundai FC": 1.92,
+        "Draw": 2.95
+      },
+      "Winamax (FR)": {
+        "Gwangju FC": 3.9,
+        "Ulsan Hyundai FC": 1.88,
+        "Draw": 2.85
+      },
+      "Tipico": {
+        "Gwangju FC": 4.3,
+        "Ulsan Hyundai FC": 2.1,
+        "Draw": 2.6
+      },
+      "Coolbet": {
+        "Gwangju FC": 4.0,
+        "Ulsan Hyundai FC": 2.0,
+        "Draw": 3.14
+      },
+      "Betfair": {
+        "Gwangju FC": 2.98,
+        "Ulsan Hyundai FC": 1.74,
+        "Draw": 2.44
+      },
+      "Matchbook": {
+        "Gwangju FC": 3.95,
+        "Ulsan Hyundai FC": 2.06,
+        "Draw": 3.2
+      }
+    },
+    "96d486efb65ebecef9e31c8371b6c35e:h2h": {
+      "Betsson": {
+        "JEF United Chiba": 1.44,
+        "V-Varen Nagasaki": 6.3,
+        "Draw": 3.9
+      },
+      "Coolbet": {
+        "JEF United Chiba": 1.44,
+        "V-Varen Nagasaki": 7.5,
+        "Draw": 4.0
+      },
+      "Nordic Bet": {
+        "JEF United Chiba": 1.44,
+        "V-Varen Nagasaki": 6.3,
+        "Draw": 3.9
+      },
+      "Betclic (FR)": {
+        "JEF United Chiba": 1.4,
+        "V-Varen Nagasaki": 6.75,
+        "Draw": 3.9
+      },
+      "Pinnacle": {
+        "JEF United Chiba": 1.51,
+        "V-Varen Nagasaki": 7.05,
+        "Draw": 3.92
+      },
+      "Winamax (DE)": {
+        "JEF United Chiba": 1.41,
+        "V-Varen Nagasaki": 6.75,
+        "Draw": 4.1
+      },
+      "Winamax (FR)": {
+        "JEF United Chiba": 1.41,
+        "V-Varen Nagasaki": 6.5,
+        "Draw": 3.9
+      },
+      "888sport": {
+        "JEF United Chiba": 1.44,
+        "V-Varen Nagasaki": 6.0,
+        "Draw": 3.8
+      },
+      "Tipico": {
+        "JEF United Chiba": 1.4,
+        "V-Varen Nagasaki": 7.0,
+        "Draw": 4.3
+      },
+      "LeoVegas (SE)": {
+        "JEF United Chiba": 1.44,
+        "V-Varen Nagasaki": 6.0,
+        "Draw": 3.45
+      },
+      "Unibet (NL)": {
+        "JEF United Chiba": 1.5,
+        "V-Varen Nagasaki": 6.1,
+        "Draw": 3.6
+      },
+      "Unibet (SE)": {
+        "JEF United Chiba": 1.5,
+        "V-Varen Nagasaki": 6.1,
+        "Draw": 3.6
+      },
+      "Betfair": {
+        "JEF United Chiba": 1.52,
+        "V-Varen Nagasaki": 7.8,
+        "Draw": 4.3
+      },
+      "Matchbook": {
+        "JEF United Chiba": 1.51,
+        "V-Varen Nagasaki": 8.0,
+        "Draw": 4.3
+      }
+    },
+    "5e36b5eef2b372c38c69b9be03e8bfe2:h2h": {
+      "Coolbet": {
+        "Hiroshima Sanfrecce FC": 1.58,
+        "Tokyo Verdy": 5.75,
+        "Draw": 4.2
+      },
+      "Unibet (FR)": {
+        "Hiroshima Sanfrecce FC": 1.43,
+        "Tokyo Verdy": 5.3,
+        "Draw": 3.7
+      },
+      "BetOnline.ag": {
+        "Hiroshima Sanfrecce FC": 1.55,
+        "Tokyo Verdy": 6.2,
+        "Draw": 4.0
+      },
+      "Betsson": {
+        "Hiroshima Sanfrecce FC": 1.52,
+        "Tokyo Verdy": 5.7,
+        "Draw": 3.75
+      },
+      "Nordic Bet": {
+        "Hiroshima Sanfrecce FC": 1.52,
+        "Tokyo Verdy": 5.7,
+        "Draw": 3.75
+      },
+      "1xBet": {
+        "Hiroshima Sanfrecce FC": 1.58,
+        "Tokyo Verdy": 6.0,
+        "Draw": 4.03
+      },
+      "Pinnacle": {
+        "Hiroshima Sanfrecce FC": 1.57,
+        "Tokyo Verdy": 6.41,
+        "Draw": 4.08
+      },
+      "Betclic (FR)": {
+        "Hiroshima Sanfrecce FC": 1.5,
+        "Tokyo Verdy": 5.4,
+        "Draw": 3.73
+      },
+      "Winamax (FR)": {
+        "Hiroshima Sanfrecce FC": 1.5,
+        "Tokyo Verdy": 5.1,
+        "Draw": 3.85
+      },
+      "Winamax (DE)": {
+        "Hiroshima Sanfrecce FC": 1.52,
+        "Tokyo Verdy": 5.3,
+        "Draw": 3.95
+      },
+      "888sport": {
+        "Hiroshima Sanfrecce FC": 1.57,
+        "Tokyo Verdy": 5.5,
+        "Draw": 3.7
+      },
+      "William Hill": {
+        "Hiroshima Sanfrecce FC": 1.57,
+        "Tokyo Verdy": 5.5,
+        "Draw": 3.7
+      },
+      "Tipico": {
+        "Hiroshima Sanfrecce FC": 1.47,
+        "Tokyo Verdy": 6.7,
+        "Draw": 3.9
+      },
+      "Unibet (SE)": {
+        "Hiroshima Sanfrecce FC": 1.49,
+        "Tokyo Verdy": 6.0,
+        "Draw": 4.0
+      },
+      "LeoVegas (SE)": {
+        "Hiroshima Sanfrecce FC": 1.5,
+        "Tokyo Verdy": 6.0,
+        "Draw": 4.0
+      },
+      "Unibet (NL)": {
+        "Hiroshima Sanfrecce FC": 1.49,
+        "Tokyo Verdy": 6.0,
+        "Draw": 4.0
+      },
+      "Betfair": {
+        "Hiroshima Sanfrecce FC": 1.59,
+        "Tokyo Verdy": 7.0,
+        "Draw": 4.2
+      },
+      "BetAnything": {
+        "Hiroshima Sanfrecce FC": 1.55,
+        "Tokyo Verdy": 6.2,
+        "Draw": 4.0
+      },
+      "Matchbook": {
+        "Hiroshima Sanfrecce FC": 1.59,
+        "Tokyo Verdy": 7.0,
+        "Draw": 4.2
+      }
+    },
+    "162e19bdf81a78d3a9851cd1bad4f19b:h2h": {
+      "Betclic (FR)": {
+        "Mito HollyHock": 2.88,
+        "Shimizu S Pulse": 2.38,
+        "Draw": 2.83
+      },
+      "Coolbet": {
+        "Mito HollyHock": 2.9,
+        "Shimizu S Pulse": 2.6,
+        "Draw": 3.1
+      },
+      "BetOnline.ag": {
+        "Mito HollyHock": 3.05,
+        "Shimizu S Pulse": 2.58,
+        "Draw": 3.0
+      },
+      "Unibet (FR)": {
+        "Mito HollyHock": 2.85,
+        "Shimizu S Pulse": 2.2,
+        "Draw": 2.8
+      },
+      "Nordic Bet": {
+        "Mito HollyHock": 2.95,
+        "Shimizu S Pulse": 2.45,
+        "Draw": 2.85
+      },
+      "Betsson": {
+        "Mito HollyHock": 2.95,
+        "Shimizu S Pulse": 2.45,
+        "Draw": 2.85
+      },
+      "1xBet": {
+        "Mito HollyHock": 2.95,
+        "Shimizu S Pulse": 2.62,
+        "Draw": 3.06
+      },
+      "Pinnacle": {
+        "Mito HollyHock": 3.09,
+        "Shimizu S Pulse": 2.62,
         "Draw": 3.05
       },
       "Winamax (FR)": {
-        "Banfield": 1.62,
-        "CA Tigre BA": 5.5,
-        "Draw": 2.95
-      },
-      "Betclic (FR)": {
-        "Banfield": 1.65,
-        "CA Tigre BA": 5.1,
-        "Draw": 2.95
-      },
-      "Betfair": {
-        "Banfield": 1.85,
-        "CA Tigre BA": 6.2,
-        "Draw": 3.15
-      },
-      "Betsson": {
-        "Banfield": 1.68,
-        "CA Tigre BA": 5.8,
-        "Draw": 3.05
-      },
-      "Nordic Bet": {
-        "Banfield": 1.68,
-        "CA Tigre BA": 5.8,
-        "Draw": 3.05
-      },
-      "Unibet (SE)": {
-        "Banfield": 1.77,
-        "CA Tigre BA": 5.8,
+        "Mito HollyHock": 2.8,
+        "Shimizu S Pulse": 2.4,
         "Draw": 2.9
       },
-      "LeoVegas (SE)": {
-        "Banfield": 1.67,
-        "CA Tigre BA": 5.5,
-        "Draw": 2.75
-      },
-      "Pinnacle": {
-        "Banfield": 1.83,
-        "CA Tigre BA": 5.75,
-        "Draw": 2.97
-      }
-    },
-    "b4f0c2295ca3c4421a157ab112c057aa:h2h": {
-      "888sport": {
-        "Atlante FC": 6.0,
-        "Querétaro": 1.4,
-        "Draw": 4.0
-      },
-      "Betclic (FR)": {
-        "Atlante FC": 6.9,
-        "Querétaro": 1.34,
-        "Draw": 4.05
-      },
-      "Tipico": {
-        "Atlante FC": 7.0,
-        "Querétaro": 1.35,
-        "Draw": 4.7
-      },
-      "Unibet (SE)": {
-        "Atlante FC": 7.5,
-        "Querétaro": 1.4,
-        "Draw": 4.4
-      },
-      "LeoVegas (SE)": {
-        "Atlante FC": 7.0,
-        "Querétaro": 1.32,
-        "Draw": 4.1
-      },
-      "Unibet (NL)": {
-        "Atlante FC": 7.5,
-        "Querétaro": 1.4,
-        "Draw": 4.4
-      },
-      "Pinnacle": {
-        "Atlante FC": 3.56,
-        "Querétaro": 2.18,
-        "Draw": 3.13
-      },
-      "Coolbet": {
-        "Atlante FC": 8.0,
-        "Querétaro": 1.44,
-        "Draw": 4.5
-      },
-      "Betfair": {
-        "Atlante FC": 8.0,
-        "Querétaro": 1.45,
-        "Draw": 4.9
-      },
-      "Matchbook": {
-        "Atlante FC": 7.8,
-        "Querétaro": 1.48,
-        "Draw": 4.8
-      },
-      "Betsson": {
-        "Atlante FC": 7.2,
-        "Querétaro": 1.4,
-        "Draw": 4.1
-      },
-      "Nordic Bet": {
-        "Atlante FC": 7.2,
-        "Querétaro": 1.4,
-        "Draw": 4.1
-      }
-    },
-    "0d24bc055f77830d504dcde85fc07190:h2h": {
-      "Betclic (FR)": {
-        "FC Juárez": 3.05,
-        "Tijuana": 2.38,
-        "Draw": 2.6
-      },
-      "Betfair": {
-        "FC Juárez": 3.55,
-        "Tijuana": 2.48,
-        "Draw": 2.98
+      "Winamax (DE)": {
+        "Mito HollyHock": 2.85,
+        "Shimizu S Pulse": 2.4,
+        "Draw": 2.95
       },
       "888sport": {
-        "FC Juárez": 2.9,
-        "Tijuana": 2.3,
-        "Draw": 2.7
+        "Mito HollyHock": 3.0,
+        "Shimizu S Pulse": 2.45,
+        "Draw": 2.8
       },
-      "Betsson": {
-        "FC Juárez": 3.15,
-        "Tijuana": 2.45,
-        "Draw": 2.7
-      },
-      "Nordic Bet": {
-        "FC Juárez": 3.05,
-        "Tijuana": 2.5,
-        "Draw": 2.75
+      "William Hill": {
+        "Mito HollyHock": 2.8,
+        "Shimizu S Pulse": 2.5,
+        "Draw": 2.9
       },
       "Tipico": {
-        "FC Juárez": 3.4,
-        "Tijuana": 2.3,
-        "Draw": 2.7
-      },
-      "Unibet (SE)": {
-        "FC Juárez": 3.3,
-        "Tijuana": 2.32,
-        "Draw": 2.88
+        "Mito HollyHock": 3.1,
+        "Shimizu S Pulse": 2.45,
+        "Draw": 2.8
       },
       "LeoVegas (SE)": {
-        "FC Juárez": 3.0,
-        "Tijuana": 2.25,
-        "Draw": 2.7
+        "Mito HollyHock": 2.7,
+        "Shimizu S Pulse": 2.6,
+        "Draw": 3.05
       },
       "Unibet (NL)": {
-        "FC Juárez": 3.2,
-        "Tijuana": 2.38,
-        "Draw": 2.85
+        "Mito HollyHock": 2.7,
+        "Shimizu S Pulse": 2.6,
+        "Draw": 3.0
       },
-      "Pinnacle": {
-        "FC Juárez": 3.17,
-        "Tijuana": 2.52,
-        "Draw": 2.89
+      "Unibet (SE)": {
+        "Mito HollyHock": 2.7,
+        "Shimizu S Pulse": 2.6,
+        "Draw": 3.0
       },
-      "Coolbet": {
-        "FC Juárez": 3.5,
-        "Tijuana": 2.5,
-        "Draw": 2.88
+      "Betfair": {
+        "Mito HollyHock": 3.2,
+        "Shimizu S Pulse": 2.6,
+        "Draw": 3.1
+      },
+      "BetAnything": {
+        "Mito HollyHock": 3.05,
+        "Shimizu S Pulse": 2.58,
+        "Draw": 3.0
       },
       "Matchbook": {
-        "FC Juárez": 3.65,
-        "Tijuana": 2.34,
+        "Mito HollyHock": 3.25,
+        "Shimizu S Pulse": 2.6,
         "Draw": 3.1
       }
     }
@@ -2221,33 +2383,196 @@
       "confidence": 9,
       "alert_type": "value",
       "alerted_at": "2026-10-10T23:29:28.439070+00:00"
+    },
+    {
+      "state_key": "cfe78156a1671b8d9816dfb5a69dc382:h2h",
+      "event_id": "cfe78156a1671b8d9816dfb5a69dc382",
+      "sport_key": "soccer",
+      "competition": "K League 1",
+      "home_team": "Gwangju FC",
+      "away_team": "Ulsan Hyundai FC",
+      "commence_time": "2026-10-11T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gwangju FC",
+      "odds_at_alert": 5.0,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T05:37:55.453623+00:00"
+    },
+    {
+      "state_key": "cfe78156a1671b8d9816dfb5a69dc382:h2h",
+      "event_id": "cfe78156a1671b8d9816dfb5a69dc382",
+      "sport_key": "soccer",
+      "competition": "K League 1",
+      "home_team": "Gwangju FC",
+      "away_team": "Ulsan Hyundai FC",
+      "commence_time": "2026-10-11T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Ulsan Hyundai FC",
+      "odds_at_alert": 2.02,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T05:37:55.784570+00:00"
+    },
+    {
+      "state_key": "cfe78156a1671b8d9816dfb5a69dc382:h2h",
+      "event_id": "cfe78156a1671b8d9816dfb5a69dc382",
+      "sport_key": "soccer",
+      "competition": "K League 1",
+      "home_team": "Gwangju FC",
+      "away_team": "Ulsan Hyundai FC",
+      "commence_time": "2026-10-11T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Ulsan Hyundai FC",
+      "odds_at_alert": 2.02,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T05:37:56.103510+00:00"
+    },
+    {
+      "state_key": "cfe78156a1671b8d9816dfb5a69dc382:h2h",
+      "event_id": "cfe78156a1671b8d9816dfb5a69dc382",
+      "sport_key": "soccer",
+      "competition": "K League 1",
+      "home_team": "Gwangju FC",
+      "away_team": "Ulsan Hyundai FC",
+      "commence_time": "2026-10-11T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gwangju FC",
+      "odds_at_alert": 9.25,
+      "stake_pct": 5.0,
+      "confidence": 96,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T05:37:56.454281+00:00"
+    },
+    {
+      "state_key": "cfe78156a1671b8d9816dfb5a69dc382:h2h",
+      "event_id": "cfe78156a1671b8d9816dfb5a69dc382",
+      "sport_key": "soccer",
+      "competition": "K League 1",
+      "home_team": "Gwangju FC",
+      "away_team": "Ulsan Hyundai FC",
+      "commence_time": "2026-10-11T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.5,
+      "stake_pct": 5.0,
+      "confidence": 17,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T05:37:56.789877+00:00"
+    },
+    {
+      "state_key": "cfe78156a1671b8d9816dfb5a69dc382:h2h",
+      "event_id": "cfe78156a1671b8d9816dfb5a69dc382",
+      "sport_key": "soccer",
+      "competition": "K League 1",
+      "home_team": "Gwangju FC",
+      "away_team": "Ulsan Hyundai FC",
+      "commence_time": "2026-10-11T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Ulsan Hyundai FC",
+      "odds_at_alert": 2.1,
+      "stake_pct": 3.0,
+      "confidence": 11,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T05:37:57.113587+00:00"
+    },
+    {
+      "state_key": "cfe78156a1671b8d9816dfb5a69dc382:h2h",
+      "event_id": "cfe78156a1671b8d9816dfb5a69dc382",
+      "sport_key": "soccer",
+      "competition": "K League 1",
+      "home_team": "Gwangju FC",
+      "away_team": "Ulsan Hyundai FC",
+      "commence_time": "2026-10-11T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Ulsan Hyundai FC",
+      "odds_at_alert": 2.0,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T05:37:57.449887+00:00"
+    },
+    {
+      "state_key": "cfe78156a1671b8d9816dfb5a69dc382:h2h",
+      "event_id": "cfe78156a1671b8d9816dfb5a69dc382",
+      "sport_key": "soccer",
+      "competition": "K League 1",
+      "home_team": "Gwangju FC",
+      "away_team": "Ulsan Hyundai FC",
+      "commence_time": "2026-10-11T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Ulsan Hyundai FC",
+      "odds_at_alert": 2.06,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T05:37:57.779512+00:00"
+    },
+    {
+      "state_key": "96d486efb65ebecef9e31c8371b6c35e:h2h",
+      "event_id": "96d486efb65ebecef9e31c8371b6c35e",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "JEF United Chiba",
+      "away_team": "V-Varen Nagasaki",
+      "commence_time": "2026-10-11T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "V-Varen Nagasaki",
+      "odds_at_alert": 8.0,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T05:37:58.131269+00:00"
+    },
+    {
+      "state_key": "5e36b5eef2b372c38c69b9be03e8bfe2:h2h",
+      "event_id": "5e36b5eef2b372c38c69b9be03e8bfe2",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Tokyo Verdy",
+      "away_team": "Hiroshima Sanfrecce FC",
+      "commence_time": "2026-10-11T06:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Tokyo Verdy",
+      "odds_at_alert": 7.0,
+      "stake_pct": 2.0,
+      "confidence": 5,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T05:37:58.445631+00:00"
+    },
+    {
+      "state_key": "5e36b5eef2b372c38c69b9be03e8bfe2:h2h",
+      "event_id": "5e36b5eef2b372c38c69b9be03e8bfe2",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Tokyo Verdy",
+      "away_team": "Hiroshima Sanfrecce FC",
+      "commence_time": "2026-10-11T06:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Tokyo Verdy",
+      "odds_at_alert": 7.0,
+      "stake_pct": 2.0,
+      "confidence": 5,
+      "alert_type": "value",
+      "alerted_at": "2026-10-11T05:37:58.755708+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "0d24bc055f77830d504dcde85fc07190:h2h|Betfair|FC Juárez",
-    "0d24bc055f77830d504dcde85fc07190:h2h|Matchbook|FC Juárez",
-    "b4f0c2295ca3c4421a157ab112c057aa:h2h|888sport|Atlante FC",
-    "b4f0c2295ca3c4421a157ab112c057aa:h2h|888sport|Draw",
-    "b4f0c2295ca3c4421a157ab112c057aa:h2h|Betclic (FR)|Atlante FC",
-    "b4f0c2295ca3c4421a157ab112c057aa:h2h|Betclic (FR)|Draw",
-    "b4f0c2295ca3c4421a157ab112c057aa:h2h|Betfair|Atlante FC",
-    "b4f0c2295ca3c4421a157ab112c057aa:h2h|Betfair|Draw",
-    "b4f0c2295ca3c4421a157ab112c057aa:h2h|Betsson|Atlante FC",
-    "b4f0c2295ca3c4421a157ab112c057aa:h2h|Betsson|Draw",
-    "b4f0c2295ca3c4421a157ab112c057aa:h2h|Coolbet|Atlante FC",
-    "b4f0c2295ca3c4421a157ab112c057aa:h2h|Coolbet|Draw",
-    "b4f0c2295ca3c4421a157ab112c057aa:h2h|LeoVegas (SE)|Atlante FC",
-    "b4f0c2295ca3c4421a157ab112c057aa:h2h|LeoVegas (SE)|Draw",
-    "b4f0c2295ca3c4421a157ab112c057aa:h2h|Matchbook|Atlante FC",
-    "b4f0c2295ca3c4421a157ab112c057aa:h2h|Matchbook|Draw",
-    "b4f0c2295ca3c4421a157ab112c057aa:h2h|Nordic Bet|Atlante FC",
-    "b4f0c2295ca3c4421a157ab112c057aa:h2h|Nordic Bet|Draw",
-    "b4f0c2295ca3c4421a157ab112c057aa:h2h|Tipico|Atlante FC",
-    "b4f0c2295ca3c4421a157ab112c057aa:h2h|Tipico|Draw",
-    "b4f0c2295ca3c4421a157ab112c057aa:h2h|Unibet (NL)|Atlante FC",
-    "b4f0c2295ca3c4421a157ab112c057aa:h2h|Unibet (NL)|Draw",
-    "b4f0c2295ca3c4421a157ab112c057aa:h2h|Unibet (SE)|Atlante FC",
-    "b4f0c2295ca3c4421a157ab112c057aa:h2h|Unibet (SE)|Draw"
+    "5e36b5eef2b372c38c69b9be03e8bfe2:h2h|Betfair|Tokyo Verdy",
+    "5e36b5eef2b372c38c69b9be03e8bfe2:h2h|Matchbook|Tokyo Verdy",
+    "96d486efb65ebecef9e31c8371b6c35e:h2h|Matchbook|V-Varen Nagasaki",
+    "cfe78156a1671b8d9816dfb5a69dc382:h2h|Betclic (FR)|Draw",
+    "cfe78156a1671b8d9816dfb5a69dc382:h2h|Betclic (FR)|Gwangju FC",
+    "cfe78156a1671b8d9816dfb5a69dc382:h2h|Betsson|Ulsan Hyundai FC",
+    "cfe78156a1671b8d9816dfb5a69dc382:h2h|Coolbet|Ulsan Hyundai FC",
+    "cfe78156a1671b8d9816dfb5a69dc382:h2h|Matchbook|Ulsan Hyundai FC",
+    "cfe78156a1671b8d9816dfb5a69dc382:h2h|Nordic Bet|Ulsan Hyundai FC",
+    "cfe78156a1671b8d9816dfb5a69dc382:h2h|Tipico|Ulsan Hyundai FC",
+    "cfe78156a1671b8d9816dfb5a69dc382:h2h|Unibet (NL)|Gwangju FC"
   ]
 }
