@@ -1,356 +1,246 @@
 {
   "snapshots": {
-    "8a4e09b20dd89e2f756af1907269766f:h2h": {
-      "Betsson": {
-        "Burgos CF": 4.85,
-        "Granada CF": 1.78,
-        "Draw": 3.05
-      },
-      "Nordic Bet": {
-        "Burgos CF": 4.85,
-        "Granada CF": 1.78,
-        "Draw": 3.05
-      },
-      "Betclic (FR)": {
-        "Burgos CF": 4.55,
-        "Granada CF": 1.7,
-        "Draw": 3.0
-      },
-      "Winamax (FR)": {
-        "Burgos CF": 4.5,
-        "Granada CF": 1.72,
-        "Draw": 2.95
+    "6195812c615898d3c37e59c0e2689662:h2h": {
+      "Betfair": {
+        "Gimnasia Mendoza": 1.46,
+        "Newells Old Boys": 14.0,
+        "Draw": 3.75
       },
       "Winamax (DE)": {
-        "Burgos CF": 4.8,
-        "Granada CF": 1.74,
-        "Draw": 3.05
-      },
-      "Marathon Bet": {
-        "Burgos CF": 4.9,
-        "Granada CF": 1.74,
-        "Draw": 3.08
-      },
-      "Pinnacle": {
-        "Burgos CF": 5.65,
-        "Granada CF": 1.79,
-        "Draw": 3.1
-      },
-      "Unibet (NL)": {
-        "Burgos CF": 5.5,
-        "Granada CF": 1.65,
-        "Draw": 3.15
-      },
-      "Unibet (SE)": {
-        "Burgos CF": 5.5,
-        "Granada CF": 1.65,
-        "Draw": 3.15
-      },
-      "LeoVegas (SE)": {
-        "Burgos CF": 5.2,
-        "Granada CF": 1.55,
-        "Draw": 3.0
-      },
-      "PMU (FR)": {
-        "Burgos CF": 5.0,
-        "Granada CF": 1.5,
-        "Draw": 2.9
-      },
-      "Tipico": {
-        "Burgos CF": 4.3,
-        "Granada CF": 1.75,
-        "Draw": 3.4
-      },
-      "Coolbet": {
-        "Burgos CF": 5.0,
-        "Granada CF": 1.8,
-        "Draw": 3.14
-      },
-      "Betfair": {
-        "Burgos CF": 6.0,
-        "Granada CF": 1.87,
-        "Draw": 3.25
-      },
-      "Matchbook": {
-        "Burgos CF": 6.2,
-        "Granada CF": 1.87,
-        "Draw": 3.25
-      }
-    },
-    "24cd233a5844fcfd4a5b629f8ac40589:h2h": {
-      "Unibet (SE)": {
-        "IF Gnistan": 2.65,
-        "VPS Vaasa": 2.4,
-        "Draw": 3.15
-      },
-      "PMU (FR)": {
-        "IF Gnistan": 2.43,
-        "VPS Vaasa": 2.2,
-        "Draw": 2.9
-      },
-      "Unibet (NL)": {
-        "IF Gnistan": 2.65,
-        "VPS Vaasa": 2.4,
-        "Draw": 3.15
-      },
-      "LeoVegas (SE)": {
-        "IF Gnistan": 2.5,
-        "VPS Vaasa": 2.25,
-        "Draw": 2.95
-      },
-      "Unibet (FR)": {
-        "IF Gnistan": 2.65,
-        "VPS Vaasa": 2.05,
-        "Draw": 3.15
-      },
-      "GTbets": {
-        "IF Gnistan": 2.81,
-        "VPS Vaasa": 2.4,
-        "Draw": 3.4
-      },
-      "Nordic Bet": {
-        "IF Gnistan": 2.7,
-        "VPS Vaasa": 2.35,
-        "Draw": 3.3
-      },
-      "Betsson": {
-        "IF Gnistan": 2.7,
-        "VPS Vaasa": 2.4,
-        "Draw": 3.2
-      },
-      "BetOnline.ag": {
-        "IF Gnistan": 2.88,
-        "VPS Vaasa": 2.4,
-        "Draw": 3.45
-      },
-      "Pinnacle": {
-        "IF Gnistan": 2.77,
-        "VPS Vaasa": 2.5,
-        "Draw": 3.35
-      },
-      "Betfair": {
-        "IF Gnistan": 3.0,
-        "VPS Vaasa": 2.58,
-        "Draw": 3.5
-      },
-      "888sport": {
-        "IF Gnistan": 2.7,
-        "VPS Vaasa": 2.3,
-        "Draw": 3.25
-      },
-      "William Hill": {
-        "IF Gnistan": 2.75,
-        "VPS Vaasa": 2.38,
-        "Draw": 3.3
-      },
-      "Coolbet": {
-        "IF Gnistan": 2.8,
-        "VPS Vaasa": 2.5,
-        "Draw": 3.5
-      },
-      "BetAnything": {
-        "IF Gnistan": 2.9,
-        "VPS Vaasa": 2.4,
-        "Draw": 3.45
-      },
-      "Matchbook": {
-        "IF Gnistan": 3.0,
-        "VPS Vaasa": 2.62,
-        "Draw": 3.45
-      },
-      "Marathon Bet": {
-        "IF Gnistan": 2.71,
-        "VPS Vaasa": 2.35,
-        "Draw": 3.2
-      }
-    },
-    "f40ae071331963b9ec6978059989842b:h2h": {
-      "888sport": {
-        "Kalamata FC": 8.0,
-        "PAOK Thessaloniki": 1.3,
-        "Draw": 4.8
+        "Gimnasia Mendoza": 1.34,
+        "Newells Old Boys": 11.5,
+        "Draw": 3.75
       },
       "Winamax (FR)": {
-        "Kalamata FC": 7.25,
-        "PAOK Thessaloniki": 1.37,
-        "Draw": 4.0
-      },
-      "Winamax (DE)": {
-        "Kalamata FC": 8.5,
-        "PAOK Thessaloniki": 1.32,
-        "Draw": 4.4
-      },
-      "William Hill": {
-        "Kalamata FC": 10.0,
-        "PAOK Thessaloniki": 1.2,
-        "Draw": 6.5
-      },
-      "Tipico": {
-        "Kalamata FC": 9.0,
-        "PAOK Thessaloniki": 1.3,
-        "Draw": 4.7
-      },
-      "1xBet": {
-        "Kalamata FC": 10.9,
-        "PAOK Thessaloniki": 1.22,
-        "Draw": 6.46
-      },
-      "Codere (IT)": {
-        "Kalamata FC": 9.8,
-        "PAOK Thessaloniki": 1.21,
-        "Draw": 5.8
-      },
-      "Nordic Bet": {
-        "Kalamata FC": 7.78,
-        "PAOK Thessaloniki": 1.38,
-        "Draw": 4.25
+        "Gimnasia Mendoza": 1.35,
+        "Newells Old Boys": 11.0,
+        "Draw": 3.6
       },
       "Betclic (FR)": {
-        "Kalamata FC": 7.25,
-        "PAOK Thessaloniki": 1.34,
-        "Draw": 3.98
+        "Gimnasia Mendoza": 1.27,
+        "Newells Old Boys": 12.0,
+        "Draw": 3.65
       },
       "Betsson": {
-        "Kalamata FC": 7.95,
-        "PAOK Thessaloniki": 1.39,
-        "Draw": 4.3
+        "Gimnasia Mendoza": 1.34,
+        "Newells Old Boys": 12.5,
+        "Draw": 3.65
       },
-      "Pinnacle": {
-        "Kalamata FC": 9.05,
-        "PAOK Thessaloniki": 1.32,
-        "Draw": 5.06
-      },
-      "LeoVegas (SE)": {
-        "Kalamata FC": 9.5,
-        "PAOK Thessaloniki": 1.17,
-        "Draw": 4.9
-      },
-      "Unibet (NL)": {
-        "Kalamata FC": 10.0,
-        "PAOK Thessaloniki": 1.25,
-        "Draw": 5.1
-      },
-      "PMU (FR)": {
-        "Kalamata FC": 9.5,
-        "PAOK Thessaloniki": 1.15,
-        "Draw": 4.75
-      },
-      "Unibet (SE)": {
-        "Kalamata FC": 10.0,
-        "PAOK Thessaloniki": 1.24,
-        "Draw": 5.1
-      },
-      "BetOnline.ag": {
-        "Kalamata FC": 12.25,
-        "PAOK Thessaloniki": 1.2,
-        "Draw": 7.4
-      },
-      "Coolbet": {
-        "Kalamata FC": 8.0,
-        "PAOK Thessaloniki": 1.4,
-        "Draw": 4.33
-      },
-      "Unibet (FR)": {
-        "Kalamata FC": 9.0,
-        "PAOK Thessaloniki": 1.14,
-        "Draw": 5.4
-      },
-      "Betfair": {
-        "Kalamata FC": 10.5,
-        "PAOK Thessaloniki": 1.37,
-        "Draw": 5.3
-      }
-    },
-    "6f457791325c15b7bf3bc57309a64796:h2h": {
-      "PMU (FR)": {
-        "AC Oulu": 4.0,
-        "HJK Helsinki": 1.57,
-        "Draw": 3.5
-      },
-      "Unibet (NL)": {
-        "AC Oulu": 4.3,
-        "HJK Helsinki": 1.67,
-        "Draw": 3.7
-      },
-      "LeoVegas (SE)": {
-        "AC Oulu": 4.2,
-        "HJK Helsinki": 1.64,
+      "Nordic Bet": {
+        "Gimnasia Mendoza": 1.34,
+        "Newells Old Boys": 12.5,
         "Draw": 3.65
       },
       "Unibet (SE)": {
-        "AC Oulu": 4.3,
-        "HJK Helsinki": 1.67,
+        "Gimnasia Mendoza": 1.33,
+        "Newells Old Boys": 14.0,
+        "Draw": 3.9
+      },
+      "LeoVegas (SE)": {
+        "Gimnasia Mendoza": 1.26,
+        "Newells Old Boys": 13.0,
         "Draw": 3.7
       },
-      "Unibet (FR)": {
-        "AC Oulu": 4.15,
-        "HJK Helsinki": 1.53,
-        "Draw": 3.5
-      },
-      "1xBet": {
-        "AC Oulu": 4.46,
-        "HJK Helsinki": 1.7,
-        "Draw": 3.88
-      },
-      "GTbets": {
-        "AC Oulu": 4.59,
-        "HJK Helsinki": 1.68,
-        "Draw": 3.81
-      },
-      "Nordic Bet": {
-        "AC Oulu": 4.9,
-        "HJK Helsinki": 1.68,
-        "Draw": 3.6
-      },
-      "Betsson": {
-        "AC Oulu": 4.9,
-        "HJK Helsinki": 1.68,
-        "Draw": 3.6
-      },
-      "BetOnline.ag": {
-        "AC Oulu": 4.6,
-        "HJK Helsinki": 1.7,
-        "Draw": 3.95
-      },
-      "Betfair": {
-        "AC Oulu": 5.0,
-        "HJK Helsinki": 1.76,
-        "Draw": 4.1
-      },
       "Pinnacle": {
-        "AC Oulu": 4.39,
-        "HJK Helsinki": 1.8,
-        "Draw": 3.96
-      },
-      "888sport": {
-        "AC Oulu": 4.4,
-        "HJK Helsinki": 1.7,
-        "Draw": 3.75
-      },
-      "William Hill": {
-        "AC Oulu": 4.4,
-        "HJK Helsinki": 1.7,
-        "Draw": 3.75
-      },
-      "Coolbet": {
-        "AC Oulu": 4.45,
-        "HJK Helsinki": 1.73,
-        "Draw": 4.2
-      },
-      "BetAnything": {
-        "AC Oulu": 4.6,
-        "HJK Helsinki": 1.7,
-        "Draw": 3.95
-      },
-      "Matchbook": {
-        "AC Oulu": 5.0,
-        "HJK Helsinki": 1.76,
-        "Draw": 4.1
+        "Gimnasia Mendoza": 3.7,
+        "Newells Old Boys": 3.43,
+        "Draw": 2.02
       },
       "Marathon Bet": {
-        "AC Oulu": 4.5,
-        "HJK Helsinki": 1.68,
-        "Draw": 3.88
+        "Gimnasia Mendoza": 1.36,
+        "Newells Old Boys": 12.0,
+        "Draw": 3.84
+      }
+    },
+    "bd18eb3a33d08705db751fa26a809769:h2h": {
+      "Unibet (SE)": {
+        "Grêmio Novorizontino": 1.01,
+        "Ponte Preta": 91.0,
+        "Draw": 21.0
+      },
+      "Nordic Bet": {
+        "Grêmio Novorizontino": 1.02,
+        "Ponte Preta": 41.0,
+        "Draw": 15.0
+      },
+      "Betsson": {
+        "Grêmio Novorizontino": 1.02,
+        "Ponte Preta": 41.0,
+        "Draw": 15.0
+      },
+      "Coolbet": {
+        "Grêmio Novorizontino": 1.14,
+        "Ponte Preta": 20.0,
+        "Draw": 6.0
+      },
+      "888sport": {
+        "Grêmio Novorizontino": 1.02,
+        "Ponte Preta": 71.0,
+        "Draw": 21.0
+      },
+      "Matchbook": {
+        "Grêmio Novorizontino": 1.04,
+        "Ponte Preta": 48.0,
+        "Draw": 18.0
+      },
+      "Betfair": {
+        "Grêmio Novorizontino": 1.04,
+        "Ponte Preta": 13.0,
+        "Draw": 11.0
+      },
+      "Marathon Bet": {
+        "Grêmio Novorizontino": 1.1,
+        "Ponte Preta": 21.0,
+        "Draw": 6.7
+      },
+      "Tipico": {
+        "Grêmio Novorizontino": 1.01,
+        "Ponte Preta": 60.0,
+        "Draw": 12.0
+      }
+    },
+    "2d643e9113e7d929c27231e97e84f798:h2h": {
+      "LeoVegas (SE)": {
+        "Atletico Paranaense": 1.28,
+        "Chapecoense": 8.0,
+        "Draw": 4.4
+      },
+      "Unibet (SE)": {
+        "Atletico Paranaense": 1.35,
+        "Chapecoense": 8.5,
+        "Draw": 4.7
+      },
+      "Unibet (NL)": {
+        "Atletico Paranaense": 1.28,
+        "Chapecoense": 8.5,
+        "Draw": 4.4
+      },
+      "PMU (FR)": {
+        "Atletico Paranaense": 1.25,
+        "Chapecoense": 7.5,
+        "Draw": 4.3
+      },
+      "Betclic (FR)": {
+        "Atletico Paranaense": 1.26,
+        "Chapecoense": 7.75,
+        "Draw": 4.75
+      },
+      "Winamax (DE)": {
+        "Atletico Paranaense": 1.28,
+        "Chapecoense": 8.0,
+        "Draw": 5.0
+      },
+      "Winamax (FR)": {
+        "Atletico Paranaense": 1.29,
+        "Chapecoense": 8.0,
+        "Draw": 4.6
+      },
+      "888sport": {
+        "Atletico Paranaense": 1.3,
+        "Chapecoense": 8.5,
+        "Draw": 4.8
+      },
+      "Coolbet": {
+        "Atletico Paranaense": 1.33,
+        "Chapecoense": 10.0,
+        "Draw": 5.5
+      },
+      "Betsson": {
+        "Atletico Paranaense": 1.28,
+        "Chapecoense": 8.6,
+        "Draw": 4.85
+      },
+      "Nordic Bet": {
+        "Atletico Paranaense": 1.28,
+        "Chapecoense": 8.6,
+        "Draw": 4.85
+      },
+      "Marathon Bet": {
+        "Atletico Paranaense": 1.26,
+        "Chapecoense": 10.25,
+        "Draw": 5.4
+      },
+      "Pinnacle": {
+        "Atletico Paranaense": 1.32,
+        "Chapecoense": 10.35,
+        "Draw": 5.05
+      },
+      "Matchbook": {
+        "Atletico Paranaense": 1.27,
+        "Chapecoense": 10.5,
+        "Draw": 5.0
+      },
+      "Tipico": {
+        "Atletico Paranaense": 1.22,
+        "Chapecoense": 9.0,
+        "Draw": 6.0
+      },
+      "Betfair": {
+        "Atletico Paranaense": 1.11,
+        "Chapecoense": 4.2,
+        "Draw": 3.85
+      }
+    },
+    "652b53b341c7cbde5f5d355a73be6f34:h2h": {
+      "LeoVegas (SE)": {
+        "América Mineiro": 7.5,
+        "Criciuma": 1.32,
+        "Draw": 3.95
+      },
+      "Unibet (SE)": {
+        "América Mineiro": 8.0,
+        "Criciuma": 1.38,
+        "Draw": 4.2
+      },
+      "Unibet (NL)": {
+        "América Mineiro": 8.0,
+        "Criciuma": 1.32,
+        "Draw": 4.0
+      },
+      "Nordic Bet": {
+        "América Mineiro": 8.2,
+        "Criciuma": 1.4,
+        "Draw": 3.9
+      },
+      "Betsson": {
+        "América Mineiro": 8.2,
+        "Criciuma": 1.4,
+        "Draw": 3.9
+      },
+      "Coolbet": {
+        "América Mineiro": 8.0,
+        "Criciuma": 1.44,
+        "Draw": 3.75
+      },
+      "888sport": {
+        "América Mineiro": 7.5,
+        "Criciuma": 1.36,
+        "Draw": 4.0
+      },
+      "Pinnacle": {
+        "América Mineiro": 10.38,
+        "Criciuma": 1.35,
+        "Draw": 4.44
+      },
+      "Tipico": {
+        "América Mineiro": 8.0,
+        "Criciuma": 1.35,
+        "Draw": 4.3
+      },
+      "Matchbook": {
+        "América Mineiro": 11.5,
+        "Criciuma": 1.42,
+        "Draw": 4.6
+      },
+      "Betfair": {
+        "América Mineiro": 11.5,
+        "Criciuma": 1.41,
+        "Draw": 4.6
+      },
+      "Marathon Bet": {
+        "América Mineiro": 8.6,
+        "Criciuma": 1.36,
+        "Draw": 3.9
       }
     }
   },
@@ -3971,22 +3861,332 @@
       "confidence": 10,
       "alert_type": "value",
       "alerted_at": "2026-10-12T15:13:19.857489+00:00"
+    },
+    {
+      "state_key": "6195812c615898d3c37e59c0e2689662:h2h",
+      "event_id": "6195812c615898d3c37e59c0e2689662",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Gimnasia Mendoza",
+      "away_team": "Newells Old Boys",
+      "commence_time": "2026-10-12T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Newells Old Boys",
+      "odds_at_alert": 14.0,
+      "stake_pct": 5.0,
+      "confidence": 286,
+      "alert_type": "value",
+      "alerted_at": "2026-10-12T22:54:12.972144+00:00"
+    },
+    {
+      "state_key": "6195812c615898d3c37e59c0e2689662:h2h",
+      "event_id": "6195812c615898d3c37e59c0e2689662",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Gimnasia Mendoza",
+      "away_team": "Newells Old Boys",
+      "commence_time": "2026-10-12T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.75,
+      "stake_pct": 5.0,
+      "confidence": 76,
+      "alert_type": "value",
+      "alerted_at": "2026-10-12T22:54:13.389181+00:00"
+    },
+    {
+      "state_key": "6195812c615898d3c37e59c0e2689662:h2h",
+      "event_id": "6195812c615898d3c37e59c0e2689662",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Gimnasia Mendoza",
+      "away_team": "Newells Old Boys",
+      "commence_time": "2026-10-12T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Newells Old Boys",
+      "odds_at_alert": 11.5,
+      "stake_pct": 5.0,
+      "confidence": 217,
+      "alert_type": "value",
+      "alerted_at": "2026-10-12T22:54:13.783302+00:00"
+    },
+    {
+      "state_key": "6195812c615898d3c37e59c0e2689662:h2h",
+      "event_id": "6195812c615898d3c37e59c0e2689662",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Gimnasia Mendoza",
+      "away_team": "Newells Old Boys",
+      "commence_time": "2026-10-12T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.75,
+      "stake_pct": 5.0,
+      "confidence": 76,
+      "alert_type": "value",
+      "alerted_at": "2026-10-12T22:54:14.190754+00:00"
+    },
+    {
+      "state_key": "6195812c615898d3c37e59c0e2689662:h2h",
+      "event_id": "6195812c615898d3c37e59c0e2689662",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Gimnasia Mendoza",
+      "away_team": "Newells Old Boys",
+      "commence_time": "2026-10-12T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Newells Old Boys",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 203,
+      "alert_type": "value",
+      "alerted_at": "2026-10-12T22:54:14.625988+00:00"
+    },
+    {
+      "state_key": "6195812c615898d3c37e59c0e2689662:h2h",
+      "event_id": "6195812c615898d3c37e59c0e2689662",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Gimnasia Mendoza",
+      "away_team": "Newells Old Boys",
+      "commence_time": "2026-10-12T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.6,
+      "stake_pct": 5.0,
+      "confidence": 69,
+      "alert_type": "value",
+      "alerted_at": "2026-10-12T22:54:15.053785+00:00"
+    },
+    {
+      "state_key": "6195812c615898d3c37e59c0e2689662:h2h",
+      "event_id": "6195812c615898d3c37e59c0e2689662",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Gimnasia Mendoza",
+      "away_team": "Newells Old Boys",
+      "commence_time": "2026-10-12T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Newells Old Boys",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 231,
+      "alert_type": "value",
+      "alerted_at": "2026-10-12T22:54:15.469432+00:00"
+    },
+    {
+      "state_key": "6195812c615898d3c37e59c0e2689662:h2h",
+      "event_id": "6195812c615898d3c37e59c0e2689662",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Gimnasia Mendoza",
+      "away_team": "Newells Old Boys",
+      "commence_time": "2026-10-12T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.65,
+      "stake_pct": 5.0,
+      "confidence": 71,
+      "alert_type": "value",
+      "alerted_at": "2026-10-12T22:54:15.893140+00:00"
+    },
+    {
+      "state_key": "6195812c615898d3c37e59c0e2689662:h2h",
+      "event_id": "6195812c615898d3c37e59c0e2689662",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Gimnasia Mendoza",
+      "away_team": "Newells Old Boys",
+      "commence_time": "2026-10-12T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Newells Old Boys",
+      "odds_at_alert": 12.5,
+      "stake_pct": 5.0,
+      "confidence": 245,
+      "alert_type": "value",
+      "alerted_at": "2026-10-12T22:54:16.286550+00:00"
+    },
+    {
+      "state_key": "6195812c615898d3c37e59c0e2689662:h2h",
+      "event_id": "6195812c615898d3c37e59c0e2689662",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Gimnasia Mendoza",
+      "away_team": "Newells Old Boys",
+      "commence_time": "2026-10-12T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.65,
+      "stake_pct": 5.0,
+      "confidence": 71,
+      "alert_type": "value",
+      "alerted_at": "2026-10-12T22:54:16.700962+00:00"
+    },
+    {
+      "state_key": "6195812c615898d3c37e59c0e2689662:h2h",
+      "event_id": "6195812c615898d3c37e59c0e2689662",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Gimnasia Mendoza",
+      "away_team": "Newells Old Boys",
+      "commence_time": "2026-10-12T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Newells Old Boys",
+      "odds_at_alert": 12.5,
+      "stake_pct": 5.0,
+      "confidence": 245,
+      "alert_type": "value",
+      "alerted_at": "2026-10-12T22:54:17.124357+00:00"
+    },
+    {
+      "state_key": "6195812c615898d3c37e59c0e2689662:h2h",
+      "event_id": "6195812c615898d3c37e59c0e2689662",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Gimnasia Mendoza",
+      "away_team": "Newells Old Boys",
+      "commence_time": "2026-10-12T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.65,
+      "stake_pct": 5.0,
+      "confidence": 71,
+      "alert_type": "value",
+      "alerted_at": "2026-10-12T22:54:17.551990+00:00"
+    },
+    {
+      "state_key": "6195812c615898d3c37e59c0e2689662:h2h",
+      "event_id": "6195812c615898d3c37e59c0e2689662",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Gimnasia Mendoza",
+      "away_team": "Newells Old Boys",
+      "commence_time": "2026-10-12T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Newells Old Boys",
+      "odds_at_alert": 14.0,
+      "stake_pct": 5.0,
+      "confidence": 286,
+      "alert_type": "value",
+      "alerted_at": "2026-10-12T22:54:17.959833+00:00"
+    },
+    {
+      "state_key": "6195812c615898d3c37e59c0e2689662:h2h",
+      "event_id": "6195812c615898d3c37e59c0e2689662",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Gimnasia Mendoza",
+      "away_team": "Newells Old Boys",
+      "commence_time": "2026-10-12T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.9,
+      "stake_pct": 5.0,
+      "confidence": 83,
+      "alert_type": "value",
+      "alerted_at": "2026-10-12T22:54:18.361646+00:00"
+    },
+    {
+      "state_key": "6195812c615898d3c37e59c0e2689662:h2h",
+      "event_id": "6195812c615898d3c37e59c0e2689662",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Gimnasia Mendoza",
+      "away_team": "Newells Old Boys",
+      "commence_time": "2026-10-12T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Newells Old Boys",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 259,
+      "alert_type": "value",
+      "alerted_at": "2026-10-12T22:54:18.759238+00:00"
+    },
+    {
+      "state_key": "6195812c615898d3c37e59c0e2689662:h2h",
+      "event_id": "6195812c615898d3c37e59c0e2689662",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Gimnasia Mendoza",
+      "away_team": "Newells Old Boys",
+      "commence_time": "2026-10-12T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.7,
+      "stake_pct": 5.0,
+      "confidence": 73,
+      "alert_type": "value",
+      "alerted_at": "2026-10-12T22:54:19.178169+00:00"
+    },
+    {
+      "state_key": "6195812c615898d3c37e59c0e2689662:h2h",
+      "event_id": "6195812c615898d3c37e59c0e2689662",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Gimnasia Mendoza",
+      "away_team": "Newells Old Boys",
+      "commence_time": "2026-10-12T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Newells Old Boys",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 231,
+      "alert_type": "value",
+      "alerted_at": "2026-10-12T22:54:19.587486+00:00"
+    },
+    {
+      "state_key": "6195812c615898d3c37e59c0e2689662:h2h",
+      "event_id": "6195812c615898d3c37e59c0e2689662",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Gimnasia Mendoza",
+      "away_team": "Newells Old Boys",
+      "commence_time": "2026-10-12T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.84,
+      "stake_pct": 5.0,
+      "confidence": 80,
+      "alert_type": "value",
+      "alerted_at": "2026-10-12T22:54:19.983179+00:00"
+    },
+    {
+      "state_key": "2d643e9113e7d929c27231e97e84f798:h2h",
+      "event_id": "2d643e9113e7d929c27231e97e84f798",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Chapecoense",
+      "away_team": "Atletico Paranaense",
+      "commence_time": "2026-10-12T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.0,
+      "stake_pct": 3.0,
+      "confidence": 13,
+      "alert_type": "value",
+      "alerted_at": "2026-10-12T22:54:20.434844+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "6f457791325c15b7bf3bc57309a64796:h2h|Betfair|AC Oulu",
-    "6f457791325c15b7bf3bc57309a64796:h2h|Betsson|AC Oulu",
-    "6f457791325c15b7bf3bc57309a64796:h2h|Matchbook|AC Oulu",
-    "6f457791325c15b7bf3bc57309a64796:h2h|Nordic Bet|AC Oulu",
-    "f40ae071331963b9ec6978059989842b:h2h|1xBet|Draw",
-    "f40ae071331963b9ec6978059989842b:h2h|1xBet|Kalamata FC",
-    "f40ae071331963b9ec6978059989842b:h2h|BetOnline.ag|Draw",
-    "f40ae071331963b9ec6978059989842b:h2h|BetOnline.ag|Kalamata FC",
-    "f40ae071331963b9ec6978059989842b:h2h|Betfair|Kalamata FC",
-    "f40ae071331963b9ec6978059989842b:h2h|Codere (IT)|Draw",
-    "f40ae071331963b9ec6978059989842b:h2h|Coolbet|Kalamata FC",
-    "f40ae071331963b9ec6978059989842b:h2h|Tipico|Kalamata FC",
-    "f40ae071331963b9ec6978059989842b:h2h|William Hill|Draw"
+    "2d643e9113e7d929c27231e97e84f798:h2h|Tipico|Draw",
+    "6195812c615898d3c37e59c0e2689662:h2h|Betclic (FR)|Draw",
+    "6195812c615898d3c37e59c0e2689662:h2h|Betclic (FR)|Newells Old Boys",
+    "6195812c615898d3c37e59c0e2689662:h2h|Betfair|Draw",
+    "6195812c615898d3c37e59c0e2689662:h2h|Betfair|Newells Old Boys",
+    "6195812c615898d3c37e59c0e2689662:h2h|Betsson|Draw",
+    "6195812c615898d3c37e59c0e2689662:h2h|Betsson|Newells Old Boys",
+    "6195812c615898d3c37e59c0e2689662:h2h|LeoVegas (SE)|Draw",
+    "6195812c615898d3c37e59c0e2689662:h2h|LeoVegas (SE)|Newells Old Boys",
+    "6195812c615898d3c37e59c0e2689662:h2h|Marathon Bet|Draw",
+    "6195812c615898d3c37e59c0e2689662:h2h|Marathon Bet|Newells Old Boys",
+    "6195812c615898d3c37e59c0e2689662:h2h|Nordic Bet|Draw",
+    "6195812c615898d3c37e59c0e2689662:h2h|Nordic Bet|Newells Old Boys",
+    "6195812c615898d3c37e59c0e2689662:h2h|Unibet (SE)|Draw",
+    "6195812c615898d3c37e59c0e2689662:h2h|Unibet (SE)|Newells Old Boys",
+    "6195812c615898d3c37e59c0e2689662:h2h|Winamax (DE)|Draw",
+    "6195812c615898d3c37e59c0e2689662:h2h|Winamax (DE)|Newells Old Boys",
+    "6195812c615898d3c37e59c0e2689662:h2h|Winamax (FR)|Draw",
+    "6195812c615898d3c37e59c0e2689662:h2h|Winamax (FR)|Newells Old Boys"
   ]
 }
