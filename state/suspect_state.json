@@ -1,406 +1,356 @@
 {
   "snapshots": {
-    "8fd7558e7ee137b7c2df589a99585840:h2h": {
-      "Unibet (FR)": {
-        "Albacete": 3.45,
-        "Real Valladolid CF": 1.78,
-        "Draw": 3.15
+    "8a4e09b20dd89e2f756af1907269766f:h2h": {
+      "Betsson": {
+        "Burgos CF": 4.85,
+        "Granada CF": 1.78,
+        "Draw": 3.05
       },
       "Nordic Bet": {
-        "Albacete": 3.65,
-        "Real Valladolid CF": 1.95,
-        "Draw": 3.25
-      },
-      "Betsson": {
-        "Albacete": 3.65,
-        "Real Valladolid CF": 1.95,
-        "Draw": 3.25
+        "Burgos CF": 4.85,
+        "Granada CF": 1.78,
+        "Draw": 3.05
       },
       "Betclic (FR)": {
-        "Albacete": 3.65,
-        "Real Valladolid CF": 1.91,
-        "Draw": 3.3
+        "Burgos CF": 4.55,
+        "Granada CF": 1.7,
+        "Draw": 3.0
       },
       "Winamax (FR)": {
-        "Albacete": 3.45,
-        "Real Valladolid CF": 1.92,
-        "Draw": 3.3
+        "Burgos CF": 4.5,
+        "Granada CF": 1.72,
+        "Draw": 2.95
       },
       "Winamax (DE)": {
-        "Albacete": 3.55,
-        "Real Valladolid CF": 1.94,
-        "Draw": 3.35
-      },
-      "1xBet": {
-        "Albacete": 4.04,
-        "Real Valladolid CF": 2.0,
-        "Draw": 3.38
+        "Burgos CF": 4.8,
+        "Granada CF": 1.74,
+        "Draw": 3.05
       },
       "Marathon Bet": {
-        "Albacete": 3.92,
-        "Real Valladolid CF": 1.94,
-        "Draw": 3.28
+        "Burgos CF": 4.9,
+        "Granada CF": 1.74,
+        "Draw": 3.08
       },
-      "William Hill": {
-        "Albacete": 3.5,
-        "Real Valladolid CF": 1.95,
-        "Draw": 3.3
-      },
-      "Unibet (SE)": {
-        "Albacete": 3.55,
-        "Real Valladolid CF": 2.02,
-        "Draw": 3.45
+      "Pinnacle": {
+        "Burgos CF": 5.65,
+        "Granada CF": 1.79,
+        "Draw": 3.1
       },
       "Unibet (NL)": {
-        "Albacete": 3.55,
-        "Real Valladolid CF": 2.02,
-        "Draw": 3.45
+        "Burgos CF": 5.5,
+        "Granada CF": 1.65,
+        "Draw": 3.15
       },
-      "PMU (FR)": {
-        "Albacete": 3.25,
-        "Real Valladolid CF": 1.85,
+      "Unibet (SE)": {
+        "Burgos CF": 5.5,
+        "Granada CF": 1.65,
         "Draw": 3.15
       },
       "LeoVegas (SE)": {
-        "Albacete": 3.35,
-        "Real Valladolid CF": 1.92,
-        "Draw": 3.3
+        "Burgos CF": 5.2,
+        "Granada CF": 1.55,
+        "Draw": 3.0
       },
-      "Pinnacle": {
-        "Albacete": 4.15,
-        "Real Valladolid CF": 2.02,
-        "Draw": 3.34
-      },
-      "Codere (IT)": {
-        "Albacete": 3.6,
-        "Real Valladolid CF": 1.95,
-        "Draw": 3.25
-      },
-      "BetOnline.ag": {
-        "Albacete": 3.95,
-        "Real Valladolid CF": 2.0,
-        "Draw": 3.2
+      "PMU (FR)": {
+        "Burgos CF": 5.0,
+        "Granada CF": 1.5,
+        "Draw": 2.9
       },
       "Tipico": {
-        "Albacete": 4.0,
-        "Real Valladolid CF": 1.85,
+        "Burgos CF": 4.3,
+        "Granada CF": 1.75,
         "Draw": 3.4
       },
       "Coolbet": {
-        "Albacete": 3.75,
-        "Real Valladolid CF": 2.0,
-        "Draw": 3.5
+        "Burgos CF": 5.0,
+        "Granada CF": 1.8,
+        "Draw": 3.14
       },
       "Betfair": {
-        "Albacete": 4.2,
-        "Real Valladolid CF": 2.04,
-        "Draw": 3.5
-      },
-      "Matchbook": {
-        "Albacete": 4.2,
-        "Real Valladolid CF": 2.04,
-        "Draw": 3.55
-      },
-      "BetAnything": {
-        "Albacete": 3.95,
-        "Real Valladolid CF": 2.0,
-        "Draw": 3.2
-      }
-    },
-    "8a4e09b20dd89e2f756af1907269766f:h2h": {
-      "Unibet (FR)": {
-        "Burgos CF": 2.15,
-        "Granada CF": 2.75,
-        "Draw": 2.95
-      },
-      "Betsson": {
-        "Burgos CF": 2.42,
-        "Granada CF": 2.85,
-        "Draw": 3.05
-      },
-      "Nordic Bet": {
-        "Burgos CF": 2.42,
-        "Granada CF": 2.85,
-        "Draw": 3.05
-      },
-      "Betclic (FR)": {
-        "Burgos CF": 2.33,
-        "Granada CF": 2.85,
-        "Draw": 3.1
-      },
-      "Winamax (FR)": {
-        "Burgos CF": 2.3,
-        "Granada CF": 2.7,
-        "Draw": 3.1
-      },
-      "Winamax (DE)": {
-        "Burgos CF": 2.35,
-        "Granada CF": 2.75,
-        "Draw": 3.15
-      },
-      "1xBet": {
-        "Burgos CF": 2.49,
-        "Granada CF": 3.0,
-        "Draw": 3.26
-      },
-      "Marathon Bet": {
-        "Burgos CF": 2.41,
-        "Granada CF": 2.91,
-        "Draw": 3.16
-      },
-      "William Hill": {
-        "Burgos CF": 2.4,
-        "Granada CF": 2.8,
-        "Draw": 3.0
-      },
-      "Pinnacle": {
-        "Burgos CF": 2.58,
-        "Granada CF": 3.03,
-        "Draw": 3.17
-      },
-      "Codere (IT)": {
-        "Burgos CF": 2.39,
-        "Granada CF": 2.8,
-        "Draw": 3.05
-      },
-      "Unibet (NL)": {
-        "Burgos CF": 2.35,
-        "Granada CF": 3.05,
-        "Draw": 3.25
-      },
-      "Unibet (SE)": {
-        "Burgos CF": 2.35,
-        "Granada CF": 3.05,
-        "Draw": 3.25
-      },
-      "LeoVegas (SE)": {
-        "Burgos CF": 2.23,
-        "Granada CF": 2.88,
-        "Draw": 3.05
-      },
-      "PMU (FR)": {
-        "Burgos CF": 2.15,
-        "Granada CF": 2.75,
-        "Draw": 2.95
-      },
-      "BetOnline.ag": {
-        "Burgos CF": 2.5,
-        "Granada CF": 3.0,
-        "Draw": 3.05
-      },
-      "Tipico": {
-        "Burgos CF": 2.35,
-        "Granada CF": 2.95,
-        "Draw": 3.1
-      },
-      "Coolbet": {
-        "Burgos CF": 2.45,
-        "Granada CF": 3.0,
-        "Draw": 3.25
-      },
-      "Betfair": {
-        "Burgos CF": 2.62,
-        "Granada CF": 3.1,
+        "Burgos CF": 6.0,
+        "Granada CF": 1.87,
         "Draw": 3.25
       },
       "Matchbook": {
-        "Burgos CF": 2.64,
-        "Granada CF": 3.1,
-        "Draw": 3.3
-      },
-      "BetAnything": {
-        "Burgos CF": 2.5,
-        "Granada CF": 3.0,
-        "Draw": 3.05
+        "Burgos CF": 6.2,
+        "Granada CF": 1.87,
+        "Draw": 3.25
       }
     },
     "24cd233a5844fcfd4a5b629f8ac40589:h2h": {
       "Unibet (SE)": {
-        "IF Gnistan": 2.75,
-        "VPS Vaasa": 2.3,
-        "Draw": 3.3
+        "IF Gnistan": 2.65,
+        "VPS Vaasa": 2.4,
+        "Draw": 3.15
       },
       "PMU (FR)": {
-        "IF Gnistan": 2.6,
-        "VPS Vaasa": 2.17,
-        "Draw": 3.1
+        "IF Gnistan": 2.43,
+        "VPS Vaasa": 2.2,
+        "Draw": 2.9
       },
       "Unibet (NL)": {
-        "IF Gnistan": 2.75,
-        "VPS Vaasa": 2.3,
-        "Draw": 3.3
+        "IF Gnistan": 2.65,
+        "VPS Vaasa": 2.4,
+        "Draw": 3.15
       },
       "LeoVegas (SE)": {
-        "IF Gnistan": 2.7,
+        "IF Gnistan": 2.5,
         "VPS Vaasa": 2.25,
-        "Draw": 3.25
+        "Draw": 2.95
       },
       "Unibet (FR)": {
         "IF Gnistan": 2.65,
-        "VPS Vaasa": 2.1,
+        "VPS Vaasa": 2.05,
         "Draw": 3.15
       },
-      "1xBet": {
-        "IF Gnistan": 2.71,
-        "VPS Vaasa": 2.39,
-        "Draw": 3.48
-      },
       "GTbets": {
-        "IF Gnistan": 2.85,
-        "VPS Vaasa": 2.37,
+        "IF Gnistan": 2.81,
+        "VPS Vaasa": 2.4,
         "Draw": 3.4
       },
       "Nordic Bet": {
-        "IF Gnistan": 2.8,
+        "IF Gnistan": 2.7,
         "VPS Vaasa": 2.35,
         "Draw": 3.3
       },
       "Betsson": {
-        "IF Gnistan": 2.8,
-        "VPS Vaasa": 2.35,
-        "Draw": 3.3
+        "IF Gnistan": 2.7,
+        "VPS Vaasa": 2.4,
+        "Draw": 3.2
       },
       "BetOnline.ag": {
-        "IF Gnistan": 2.84,
+        "IF Gnistan": 2.88,
         "VPS Vaasa": 2.4,
-        "Draw": 3.5
+        "Draw": 3.45
       },
       "Pinnacle": {
-        "IF Gnistan": 2.9,
-        "VPS Vaasa": 2.43,
-        "Draw": 3.61
+        "IF Gnistan": 2.77,
+        "VPS Vaasa": 2.5,
+        "Draw": 3.35
       },
       "Betfair": {
-        "IF Gnistan": 2.96,
-        "VPS Vaasa": 2.48,
-        "Draw": 3.6
+        "IF Gnistan": 3.0,
+        "VPS Vaasa": 2.58,
+        "Draw": 3.5
       },
       "888sport": {
-        "IF Gnistan": 2.8,
+        "IF Gnistan": 2.7,
         "VPS Vaasa": 2.3,
-        "Draw": 3.3
+        "Draw": 3.25
       },
       "William Hill": {
-        "IF Gnistan": 2.8,
-        "VPS Vaasa": 2.3,
+        "IF Gnistan": 2.75,
+        "VPS Vaasa": 2.38,
         "Draw": 3.3
       },
       "Coolbet": {
-        "IF Gnistan": 2.75,
-        "VPS Vaasa": 2.53,
-        "Draw": 3.55
-      },
-      "BetAnything": {
-        "IF Gnistan": 2.84,
-        "VPS Vaasa": 2.4,
+        "IF Gnistan": 2.8,
+        "VPS Vaasa": 2.5,
         "Draw": 3.5
       },
+      "BetAnything": {
+        "IF Gnistan": 2.9,
+        "VPS Vaasa": 2.4,
+        "Draw": 3.45
+      },
       "Matchbook": {
-        "IF Gnistan": 2.98,
-        "VPS Vaasa": 2.5,
-        "Draw": 3.6
+        "IF Gnistan": 3.0,
+        "VPS Vaasa": 2.62,
+        "Draw": 3.45
       },
       "Marathon Bet": {
         "IF Gnistan": 2.71,
-        "VPS Vaasa": 2.39,
-        "Draw": 3.48
+        "VPS Vaasa": 2.35,
+        "Draw": 3.2
       }
     },
     "f40ae071331963b9ec6978059989842b:h2h": {
       "888sport": {
-        "Kalamata FC": 11.0,
-        "PAOK Thessaloniki": 1.2,
-        "Draw": 6.0
+        "Kalamata FC": 8.0,
+        "PAOK Thessaloniki": 1.3,
+        "Draw": 4.8
       },
       "Winamax (FR)": {
-        "Kalamata FC": 9.0,
-        "PAOK Thessaloniki": 1.19,
-        "Draw": 6.0
+        "Kalamata FC": 7.25,
+        "PAOK Thessaloniki": 1.37,
+        "Draw": 4.0
       },
       "Winamax (DE)": {
-        "Kalamata FC": 9.5,
-        "PAOK Thessaloniki": 1.2,
-        "Draw": 6.25
+        "Kalamata FC": 8.5,
+        "PAOK Thessaloniki": 1.32,
+        "Draw": 4.4
       },
       "William Hill": {
-        "Kalamata FC": 11.0,
-        "PAOK Thessaloniki": 1.2,
-        "Draw": 6.0
-      },
-      "Tipico": {
-        "Kalamata FC": 13.0,
-        "PAOK Thessaloniki": 1.15,
-        "Draw": 7.0
-      },
-      "1xBet": {
-        "Kalamata FC": 11.7,
+        "Kalamata FC": 10.0,
         "PAOK Thessaloniki": 1.2,
         "Draw": 6.5
       },
+      "Tipico": {
+        "Kalamata FC": 9.0,
+        "PAOK Thessaloniki": 1.3,
+        "Draw": 4.7
+      },
+      "1xBet": {
+        "Kalamata FC": 10.9,
+        "PAOK Thessaloniki": 1.22,
+        "Draw": 6.46
+      },
       "Codere (IT)": {
-        "Kalamata FC": 10.0,
-        "PAOK Thessaloniki": 1.2,
+        "Kalamata FC": 9.8,
+        "PAOK Thessaloniki": 1.21,
         "Draw": 5.8
       },
       "Nordic Bet": {
-        "Kalamata FC": 11.0,
-        "PAOK Thessaloniki": 1.2,
-        "Draw": 6.2
+        "Kalamata FC": 7.78,
+        "PAOK Thessaloniki": 1.38,
+        "Draw": 4.25
       },
       "Betclic (FR)": {
-        "Kalamata FC": 10.25,
-        "PAOK Thessaloniki": 1.17,
-        "Draw": 5.9
+        "Kalamata FC": 7.25,
+        "PAOK Thessaloniki": 1.34,
+        "Draw": 3.98
       },
       "Betsson": {
-        "Kalamata FC": 11.5,
-        "PAOK Thessaloniki": 1.2,
-        "Draw": 6.2
+        "Kalamata FC": 7.95,
+        "PAOK Thessaloniki": 1.39,
+        "Draw": 4.3
       },
       "Pinnacle": {
-        "Kalamata FC": 11.47,
-        "PAOK Thessaloniki": 1.22,
-        "Draw": 7.15
+        "Kalamata FC": 9.05,
+        "PAOK Thessaloniki": 1.32,
+        "Draw": 5.06
       },
       "LeoVegas (SE)": {
-        "Kalamata FC": 11.5,
-        "PAOK Thessaloniki": 1.16,
-        "Draw": 5.8
+        "Kalamata FC": 9.5,
+        "PAOK Thessaloniki": 1.17,
+        "Draw": 4.9
       },
       "Unibet (NL)": {
-        "Kalamata FC": 11.5,
-        "PAOK Thessaloniki": 1.19,
-        "Draw": 6.0
+        "Kalamata FC": 10.0,
+        "PAOK Thessaloniki": 1.25,
+        "Draw": 5.1
       },
       "PMU (FR)": {
-        "Kalamata FC": 11.0,
-        "PAOK Thessaloniki": 1.12,
-        "Draw": 5.6
+        "Kalamata FC": 9.5,
+        "PAOK Thessaloniki": 1.15,
+        "Draw": 4.75
       },
       "Unibet (SE)": {
-        "Kalamata FC": 11.5,
-        "PAOK Thessaloniki": 1.19,
-        "Draw": 6.0
+        "Kalamata FC": 10.0,
+        "PAOK Thessaloniki": 1.24,
+        "Draw": 5.1
       },
       "BetOnline.ag": {
-        "Kalamata FC": 10.0,
+        "Kalamata FC": 12.25,
         "PAOK Thessaloniki": 1.2,
-        "Draw": 6.8
+        "Draw": 7.4
       },
       "Coolbet": {
-        "Kalamata FC": 13.0,
-        "PAOK Thessaloniki": 1.22,
-        "Draw": 6.5
+        "Kalamata FC": 8.0,
+        "PAOK Thessaloniki": 1.4,
+        "Draw": 4.33
       },
       "Unibet (FR)": {
-        "Kalamata FC": 10.0,
+        "Kalamata FC": 9.0,
         "PAOK Thessaloniki": 1.14,
-        "Draw": 5.7
+        "Draw": 5.4
       },
       "Betfair": {
-        "Kalamata FC": 16.0,
-        "PAOK Thessaloniki": 1.24,
-        "Draw": 7.0
+        "Kalamata FC": 10.5,
+        "PAOK Thessaloniki": 1.37,
+        "Draw": 5.3
+      }
+    },
+    "6f457791325c15b7bf3bc57309a64796:h2h": {
+      "PMU (FR)": {
+        "AC Oulu": 4.0,
+        "HJK Helsinki": 1.57,
+        "Draw": 3.5
+      },
+      "Unibet (NL)": {
+        "AC Oulu": 4.3,
+        "HJK Helsinki": 1.67,
+        "Draw": 3.7
+      },
+      "LeoVegas (SE)": {
+        "AC Oulu": 4.2,
+        "HJK Helsinki": 1.64,
+        "Draw": 3.65
+      },
+      "Unibet (SE)": {
+        "AC Oulu": 4.3,
+        "HJK Helsinki": 1.67,
+        "Draw": 3.7
+      },
+      "Unibet (FR)": {
+        "AC Oulu": 4.15,
+        "HJK Helsinki": 1.53,
+        "Draw": 3.5
+      },
+      "1xBet": {
+        "AC Oulu": 4.46,
+        "HJK Helsinki": 1.7,
+        "Draw": 3.88
+      },
+      "GTbets": {
+        "AC Oulu": 4.59,
+        "HJK Helsinki": 1.68,
+        "Draw": 3.81
+      },
+      "Nordic Bet": {
+        "AC Oulu": 4.9,
+        "HJK Helsinki": 1.68,
+        "Draw": 3.6
+      },
+      "Betsson": {
+        "AC Oulu": 4.9,
+        "HJK Helsinki": 1.68,
+        "Draw": 3.6
+      },
+      "BetOnline.ag": {
+        "AC Oulu": 4.6,
+        "HJK Helsinki": 1.7,
+        "Draw": 3.95
+      },
+      "Betfair": {
+        "AC Oulu": 5.0,
+        "HJK Helsinki": 1.76,
+        "Draw": 4.1
+      },
+      "Pinnacle": {
+        "AC Oulu": 4.39,
+        "HJK Helsinki": 1.8,
+        "Draw": 3.96
+      },
+      "888sport": {
+        "AC Oulu": 4.4,
+        "HJK Helsinki": 1.7,
+        "Draw": 3.75
+      },
+      "William Hill": {
+        "AC Oulu": 4.4,
+        "HJK Helsinki": 1.7,
+        "Draw": 3.75
+      },
+      "Coolbet": {
+        "AC Oulu": 4.45,
+        "HJK Helsinki": 1.73,
+        "Draw": 4.2
+      },
+      "BetAnything": {
+        "AC Oulu": 4.6,
+        "HJK Helsinki": 1.7,
+        "Draw": 3.95
+      },
+      "Matchbook": {
+        "AC Oulu": 5.0,
+        "HJK Helsinki": 1.76,
+        "Draw": 4.1
+      },
+      "Marathon Bet": {
+        "AC Oulu": 4.5,
+        "HJK Helsinki": 1.68,
+        "Draw": 3.88
       }
     }
   },
@@ -3861,12 +3811,182 @@
       "confidence": 33,
       "alert_type": "value",
       "alerted_at": "2026-10-12T05:48:03.486379+00:00"
+    },
+    {
+      "state_key": "f40ae071331963b9ec6978059989842b:h2h",
+      "event_id": "f40ae071331963b9ec6978059989842b",
+      "sport_key": "soccer",
+      "competition": "Super League - Greece",
+      "home_team": "PAOK Thessaloniki",
+      "away_team": "Kalamata FC",
+      "commence_time": "2026-10-12T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.5,
+      "stake_pct": 5.0,
+      "confidence": 21,
+      "alert_type": "value",
+      "alerted_at": "2026-10-12T15:13:15.875807+00:00"
+    },
+    {
+      "state_key": "f40ae071331963b9ec6978059989842b:h2h",
+      "event_id": "f40ae071331963b9ec6978059989842b",
+      "sport_key": "soccer",
+      "competition": "Super League - Greece",
+      "home_team": "PAOK Thessaloniki",
+      "away_team": "Kalamata FC",
+      "commence_time": "2026-10-12T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Kalamata FC",
+      "odds_at_alert": 10.9,
+      "stake_pct": 3.0,
+      "confidence": 13,
+      "alert_type": "value",
+      "alerted_at": "2026-10-12T15:13:16.352785+00:00"
+    },
+    {
+      "state_key": "f40ae071331963b9ec6978059989842b:h2h",
+      "event_id": "f40ae071331963b9ec6978059989842b",
+      "sport_key": "soccer",
+      "competition": "Super League - Greece",
+      "home_team": "PAOK Thessaloniki",
+      "away_team": "Kalamata FC",
+      "commence_time": "2026-10-12T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.46,
+      "stake_pct": 5.0,
+      "confidence": 20,
+      "alert_type": "value",
+      "alerted_at": "2026-10-12T15:13:16.779026+00:00"
+    },
+    {
+      "state_key": "f40ae071331963b9ec6978059989842b:h2h",
+      "event_id": "f40ae071331963b9ec6978059989842b",
+      "sport_key": "soccer",
+      "competition": "Super League - Greece",
+      "home_team": "PAOK Thessaloniki",
+      "away_team": "Kalamata FC",
+      "commence_time": "2026-10-12T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.8,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-10-12T15:13:17.208208+00:00"
+    },
+    {
+      "state_key": "f40ae071331963b9ec6978059989842b:h2h",
+      "event_id": "f40ae071331963b9ec6978059989842b",
+      "sport_key": "soccer",
+      "competition": "Super League - Greece",
+      "home_team": "PAOK Thessaloniki",
+      "away_team": "Kalamata FC",
+      "commence_time": "2026-10-12T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Kalamata FC",
+      "odds_at_alert": 12.25,
+      "stake_pct": 5.0,
+      "confidence": 27,
+      "alert_type": "value",
+      "alerted_at": "2026-10-12T15:13:17.637075+00:00"
+    },
+    {
+      "state_key": "f40ae071331963b9ec6978059989842b:h2h",
+      "event_id": "f40ae071331963b9ec6978059989842b",
+      "sport_key": "soccer",
+      "competition": "Super League - Greece",
+      "home_team": "PAOK Thessaloniki",
+      "away_team": "Kalamata FC",
+      "commence_time": "2026-10-12T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 7.4,
+      "stake_pct": 5.0,
+      "confidence": 37,
+      "alert_type": "value",
+      "alerted_at": "2026-10-12T15:13:18.166902+00:00"
+    },
+    {
+      "state_key": "6f457791325c15b7bf3bc57309a64796:h2h",
+      "event_id": "6f457791325c15b7bf3bc57309a64796",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "AC Oulu",
+      "away_team": "HJK Helsinki",
+      "commence_time": "2026-10-12T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "AC Oulu",
+      "odds_at_alert": 4.9,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-10-12T15:13:18.611259+00:00"
+    },
+    {
+      "state_key": "6f457791325c15b7bf3bc57309a64796:h2h",
+      "event_id": "6f457791325c15b7bf3bc57309a64796",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "AC Oulu",
+      "away_team": "HJK Helsinki",
+      "commence_time": "2026-10-12T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "AC Oulu",
+      "odds_at_alert": 4.9,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-10-12T15:13:18.997598+00:00"
+    },
+    {
+      "state_key": "6f457791325c15b7bf3bc57309a64796:h2h",
+      "event_id": "6f457791325c15b7bf3bc57309a64796",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "AC Oulu",
+      "away_team": "HJK Helsinki",
+      "commence_time": "2026-10-12T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "AC Oulu",
+      "odds_at_alert": 5.0,
+      "stake_pct": 2.0,
+      "confidence": 10,
+      "alert_type": "value",
+      "alerted_at": "2026-10-12T15:13:19.399811+00:00"
+    },
+    {
+      "state_key": "6f457791325c15b7bf3bc57309a64796:h2h",
+      "event_id": "6f457791325c15b7bf3bc57309a64796",
+      "sport_key": "soccer",
+      "competition": "Veikkausliiga - Finland",
+      "home_team": "AC Oulu",
+      "away_team": "HJK Helsinki",
+      "commence_time": "2026-10-12T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "AC Oulu",
+      "odds_at_alert": 5.0,
+      "stake_pct": 2.0,
+      "confidence": 10,
+      "alert_type": "value",
+      "alerted_at": "2026-10-12T15:13:19.857489+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
+    "6f457791325c15b7bf3bc57309a64796:h2h|Betfair|AC Oulu",
+    "6f457791325c15b7bf3bc57309a64796:h2h|Betsson|AC Oulu",
+    "6f457791325c15b7bf3bc57309a64796:h2h|Matchbook|AC Oulu",
+    "6f457791325c15b7bf3bc57309a64796:h2h|Nordic Bet|AC Oulu",
+    "f40ae071331963b9ec6978059989842b:h2h|1xBet|Draw",
+    "f40ae071331963b9ec6978059989842b:h2h|1xBet|Kalamata FC",
+    "f40ae071331963b9ec6978059989842b:h2h|BetOnline.ag|Draw",
+    "f40ae071331963b9ec6978059989842b:h2h|BetOnline.ag|Kalamata FC",
     "f40ae071331963b9ec6978059989842b:h2h|Betfair|Kalamata FC",
+    "f40ae071331963b9ec6978059989842b:h2h|Codere (IT)|Draw",
     "f40ae071331963b9ec6978059989842b:h2h|Coolbet|Kalamata FC",
-    "f40ae071331963b9ec6978059989842b:h2h|Tipico|Kalamata FC"
+    "f40ae071331963b9ec6978059989842b:h2h|Tipico|Kalamata FC",
+    "f40ae071331963b9ec6978059989842b:h2h|William Hill|Draw"
   ]
 }
