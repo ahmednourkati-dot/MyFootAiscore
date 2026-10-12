@@ -1,176 +1,406 @@
 {
   "snapshots": {
-    "c0e1b5f18d9862a73d938b23167ca2a0:h2h": {
-      "LeoVegas (SE)": {
-        "Avai": 1.03,
-        "Cuiabá": 81.0,
-        "Draw": 9.0
-      },
-      "Betsson": {
-        "Avai": 1.02,
-        "Cuiabá": 200.0,
-        "Draw": 11.0
+    "8fd7558e7ee137b7c2df589a99585840:h2h": {
+      "Unibet (FR)": {
+        "Albacete": 3.45,
+        "Real Valladolid CF": 1.78,
+        "Draw": 3.15
       },
       "Nordic Bet": {
-        "Avai": 1.01,
-        "Cuiabá": 200.0,
-        "Draw": 12.0
-      },
-      "Coolbet": {
-        "Avai": 1.03,
-        "Cuiabá": 50.0,
-        "Draw": 9.0
-      },
-      "Pinnacle": {
-        "Avai": 1.26,
-        "Cuiabá": 22.68,
-        "Draw": 4.5
-      },
-      "Betfair": {
-        "Avai": 1.01,
-        "Cuiabá": 200.0,
-        "Draw": 50.0
-      }
-    },
-    "e7f7d26d9e46556f0655d92d55126968:h2h": {
-      "Nordic Bet": {
-        "Goiás": 1.0,
-        "Operario PR": 26.0,
-        "Draw": 26.0
+        "Albacete": 3.65,
+        "Real Valladolid CF": 1.95,
+        "Draw": 3.25
       },
       "Betsson": {
-        "Goiás": 1.0,
-        "Operario PR": 26.0,
-        "Draw": 26.0
-      }
-    },
-    "32c0c0e4d625e121749708d239ffe8a4:h2h": {
-      "Winamax (DE)": {
-        "Belgrano de Cordoba": 1.43,
-        "Racing Club": 9.0,
-        "Draw": 3.4
-      },
-      "Winamax (FR)": {
-        "Belgrano de Cordoba": 1.42,
-        "Racing Club": 8.5,
-        "Draw": 3.3
+        "Albacete": 3.65,
+        "Real Valladolid CF": 1.95,
+        "Draw": 3.25
       },
       "Betclic (FR)": {
-        "Belgrano de Cordoba": 1.42,
-        "Racing Club": 7.5,
-        "Draw": 3.2
-      },
-      "Betfair": {
-        "Belgrano de Cordoba": 1.64,
-        "Racing Club": 9.2,
+        "Albacete": 3.65,
+        "Real Valladolid CF": 1.91,
         "Draw": 3.3
       },
-      "Marathon Bet": {
-        "Belgrano de Cordoba": 1.5,
-        "Racing Club": 8.5,
-        "Draw": 3.4
-      },
-      "Nordic Bet": {
-        "Belgrano de Cordoba": 1.45,
-        "Racing Club": 9.1,
-        "Draw": 3.4
-      },
-      "Betsson": {
-        "Belgrano de Cordoba": 1.45,
-        "Racing Club": 9.1,
-        "Draw": 3.4
-      },
-      "Unibet (SE)": {
-        "Belgrano de Cordoba": 1.38,
-        "Racing Club": 12.0,
-        "Draw": 3.7
-      },
-      "LeoVegas (SE)": {
-        "Belgrano de Cordoba": 1.3,
-        "Racing Club": 10.5,
-        "Draw": 3.5
-      }
-    },
-    "b784be601500dd4744c5fc610d56fc96:h2h": {
-      "LeoVegas (SE)": {
-        "Bahia": 1.14,
-        "Mirassol": 14.0,
-        "Draw": 5.25
-      },
-      "Unibet (NL)": {
-        "Bahia": 1.16,
-        "Mirassol": 15.0,
-        "Draw": 5.3
-      },
-      "Unibet (SE)": {
-        "Bahia": 1.2,
-        "Mirassol": 16.0,
-        "Draw": 5.6
-      },
-      "PMU (FR)": {
-        "Bahia": 1.12,
-        "Mirassol": 14.0,
-        "Draw": 5.1
+      "Winamax (FR)": {
+        "Albacete": 3.45,
+        "Real Valladolid CF": 1.92,
+        "Draw": 3.3
       },
       "Winamax (DE)": {
-        "Bahia": 1.21,
-        "Mirassol": 13.0,
-        "Draw": 5.2
+        "Albacete": 3.55,
+        "Real Valladolid CF": 1.94,
+        "Draw": 3.35
       },
-      "Winamax (FR)": {
-        "Bahia": 1.23,
-        "Mirassol": 12.0,
-        "Draw": 4.9
-      },
-      "MyBookie.ag": {
-        "Bahia": 1.25,
-        "Mirassol": 9.25,
-        "Draw": 5.0
-      },
-      "Coolbet": {
-        "Bahia": 1.25,
-        "Mirassol": 15.0,
-        "Draw": 6.0
-      },
-      "Nordic Bet": {
-        "Bahia": 1.2,
-        "Mirassol": 12.5,
-        "Draw": 5.35
-      },
-      "Betsson": {
-        "Bahia": 1.2,
-        "Mirassol": 12.5,
-        "Draw": 5.35
+      "1xBet": {
+        "Albacete": 4.04,
+        "Real Valladolid CF": 2.0,
+        "Draw": 3.38
       },
       "Marathon Bet": {
-        "Bahia": 1.25,
-        "Mirassol": 12.0,
-        "Draw": 5.15
+        "Albacete": 3.92,
+        "Real Valladolid CF": 1.94,
+        "Draw": 3.28
       },
-      "888sport": {
-        "Bahia": 1.25,
-        "Mirassol": 11.0,
-        "Draw": 4.8
+      "William Hill": {
+        "Albacete": 3.5,
+        "Real Valladolid CF": 1.95,
+        "Draw": 3.3
       },
-      "Betfair": {
-        "Bahia": 1.28,
-        "Mirassol": 17.5,
-        "Draw": 5.9
+      "Unibet (SE)": {
+        "Albacete": 3.55,
+        "Real Valladolid CF": 2.02,
+        "Draw": 3.45
       },
-      "Matchbook": {
-        "Bahia": 1.28,
-        "Mirassol": 18.0,
-        "Draw": 5.9
+      "Unibet (NL)": {
+        "Albacete": 3.55,
+        "Real Valladolid CF": 2.02,
+        "Draw": 3.45
+      },
+      "PMU (FR)": {
+        "Albacete": 3.25,
+        "Real Valladolid CF": 1.85,
+        "Draw": 3.15
+      },
+      "LeoVegas (SE)": {
+        "Albacete": 3.35,
+        "Real Valladolid CF": 1.92,
+        "Draw": 3.3
       },
       "Pinnacle": {
-        "Bahia": 1.26,
-        "Mirassol": 15.81,
-        "Draw": 5.28
+        "Albacete": 4.15,
+        "Real Valladolid CF": 2.02,
+        "Draw": 3.34
+      },
+      "Codere (IT)": {
+        "Albacete": 3.6,
+        "Real Valladolid CF": 1.95,
+        "Draw": 3.25
+      },
+      "BetOnline.ag": {
+        "Albacete": 3.95,
+        "Real Valladolid CF": 2.0,
+        "Draw": 3.2
       },
       "Tipico": {
-        "Bahia": 1.16,
-        "Mirassol": 15.0,
+        "Albacete": 4.0,
+        "Real Valladolid CF": 1.85,
+        "Draw": 3.4
+      },
+      "Coolbet": {
+        "Albacete": 3.75,
+        "Real Valladolid CF": 2.0,
+        "Draw": 3.5
+      },
+      "Betfair": {
+        "Albacete": 4.2,
+        "Real Valladolid CF": 2.04,
+        "Draw": 3.5
+      },
+      "Matchbook": {
+        "Albacete": 4.2,
+        "Real Valladolid CF": 2.04,
+        "Draw": 3.55
+      },
+      "BetAnything": {
+        "Albacete": 3.95,
+        "Real Valladolid CF": 2.0,
+        "Draw": 3.2
+      }
+    },
+    "8a4e09b20dd89e2f756af1907269766f:h2h": {
+      "Unibet (FR)": {
+        "Burgos CF": 2.15,
+        "Granada CF": 2.75,
+        "Draw": 2.95
+      },
+      "Betsson": {
+        "Burgos CF": 2.42,
+        "Granada CF": 2.85,
+        "Draw": 3.05
+      },
+      "Nordic Bet": {
+        "Burgos CF": 2.42,
+        "Granada CF": 2.85,
+        "Draw": 3.05
+      },
+      "Betclic (FR)": {
+        "Burgos CF": 2.33,
+        "Granada CF": 2.85,
+        "Draw": 3.1
+      },
+      "Winamax (FR)": {
+        "Burgos CF": 2.3,
+        "Granada CF": 2.7,
+        "Draw": 3.1
+      },
+      "Winamax (DE)": {
+        "Burgos CF": 2.35,
+        "Granada CF": 2.75,
+        "Draw": 3.15
+      },
+      "1xBet": {
+        "Burgos CF": 2.49,
+        "Granada CF": 3.0,
+        "Draw": 3.26
+      },
+      "Marathon Bet": {
+        "Burgos CF": 2.41,
+        "Granada CF": 2.91,
+        "Draw": 3.16
+      },
+      "William Hill": {
+        "Burgos CF": 2.4,
+        "Granada CF": 2.8,
+        "Draw": 3.0
+      },
+      "Pinnacle": {
+        "Burgos CF": 2.58,
+        "Granada CF": 3.03,
+        "Draw": 3.17
+      },
+      "Codere (IT)": {
+        "Burgos CF": 2.39,
+        "Granada CF": 2.8,
+        "Draw": 3.05
+      },
+      "Unibet (NL)": {
+        "Burgos CF": 2.35,
+        "Granada CF": 3.05,
+        "Draw": 3.25
+      },
+      "Unibet (SE)": {
+        "Burgos CF": 2.35,
+        "Granada CF": 3.05,
+        "Draw": 3.25
+      },
+      "LeoVegas (SE)": {
+        "Burgos CF": 2.23,
+        "Granada CF": 2.88,
+        "Draw": 3.05
+      },
+      "PMU (FR)": {
+        "Burgos CF": 2.15,
+        "Granada CF": 2.75,
+        "Draw": 2.95
+      },
+      "BetOnline.ag": {
+        "Burgos CF": 2.5,
+        "Granada CF": 3.0,
+        "Draw": 3.05
+      },
+      "Tipico": {
+        "Burgos CF": 2.35,
+        "Granada CF": 2.95,
+        "Draw": 3.1
+      },
+      "Coolbet": {
+        "Burgos CF": 2.45,
+        "Granada CF": 3.0,
+        "Draw": 3.25
+      },
+      "Betfair": {
+        "Burgos CF": 2.62,
+        "Granada CF": 3.1,
+        "Draw": 3.25
+      },
+      "Matchbook": {
+        "Burgos CF": 2.64,
+        "Granada CF": 3.1,
+        "Draw": 3.3
+      },
+      "BetAnything": {
+        "Burgos CF": 2.5,
+        "Granada CF": 3.0,
+        "Draw": 3.05
+      }
+    },
+    "24cd233a5844fcfd4a5b629f8ac40589:h2h": {
+      "Unibet (SE)": {
+        "IF Gnistan": 2.75,
+        "VPS Vaasa": 2.3,
+        "Draw": 3.3
+      },
+      "PMU (FR)": {
+        "IF Gnistan": 2.6,
+        "VPS Vaasa": 2.17,
+        "Draw": 3.1
+      },
+      "Unibet (NL)": {
+        "IF Gnistan": 2.75,
+        "VPS Vaasa": 2.3,
+        "Draw": 3.3
+      },
+      "LeoVegas (SE)": {
+        "IF Gnistan": 2.7,
+        "VPS Vaasa": 2.25,
+        "Draw": 3.25
+      },
+      "Unibet (FR)": {
+        "IF Gnistan": 2.65,
+        "VPS Vaasa": 2.1,
+        "Draw": 3.15
+      },
+      "1xBet": {
+        "IF Gnistan": 2.71,
+        "VPS Vaasa": 2.39,
+        "Draw": 3.48
+      },
+      "GTbets": {
+        "IF Gnistan": 2.85,
+        "VPS Vaasa": 2.37,
+        "Draw": 3.4
+      },
+      "Nordic Bet": {
+        "IF Gnistan": 2.8,
+        "VPS Vaasa": 2.35,
+        "Draw": 3.3
+      },
+      "Betsson": {
+        "IF Gnistan": 2.8,
+        "VPS Vaasa": 2.35,
+        "Draw": 3.3
+      },
+      "BetOnline.ag": {
+        "IF Gnistan": 2.84,
+        "VPS Vaasa": 2.4,
+        "Draw": 3.5
+      },
+      "Pinnacle": {
+        "IF Gnistan": 2.9,
+        "VPS Vaasa": 2.43,
+        "Draw": 3.61
+      },
+      "Betfair": {
+        "IF Gnistan": 2.96,
+        "VPS Vaasa": 2.48,
+        "Draw": 3.6
+      },
+      "888sport": {
+        "IF Gnistan": 2.8,
+        "VPS Vaasa": 2.3,
+        "Draw": 3.3
+      },
+      "William Hill": {
+        "IF Gnistan": 2.8,
+        "VPS Vaasa": 2.3,
+        "Draw": 3.3
+      },
+      "Coolbet": {
+        "IF Gnistan": 2.75,
+        "VPS Vaasa": 2.53,
+        "Draw": 3.55
+      },
+      "BetAnything": {
+        "IF Gnistan": 2.84,
+        "VPS Vaasa": 2.4,
+        "Draw": 3.5
+      },
+      "Matchbook": {
+        "IF Gnistan": 2.98,
+        "VPS Vaasa": 2.5,
+        "Draw": 3.6
+      },
+      "Marathon Bet": {
+        "IF Gnistan": 2.71,
+        "VPS Vaasa": 2.39,
+        "Draw": 3.48
+      }
+    },
+    "f40ae071331963b9ec6978059989842b:h2h": {
+      "888sport": {
+        "Kalamata FC": 11.0,
+        "PAOK Thessaloniki": 1.2,
         "Draw": 6.0
+      },
+      "Winamax (FR)": {
+        "Kalamata FC": 9.0,
+        "PAOK Thessaloniki": 1.19,
+        "Draw": 6.0
+      },
+      "Winamax (DE)": {
+        "Kalamata FC": 9.5,
+        "PAOK Thessaloniki": 1.2,
+        "Draw": 6.25
+      },
+      "William Hill": {
+        "Kalamata FC": 11.0,
+        "PAOK Thessaloniki": 1.2,
+        "Draw": 6.0
+      },
+      "Tipico": {
+        "Kalamata FC": 13.0,
+        "PAOK Thessaloniki": 1.15,
+        "Draw": 7.0
+      },
+      "1xBet": {
+        "Kalamata FC": 11.7,
+        "PAOK Thessaloniki": 1.2,
+        "Draw": 6.5
+      },
+      "Codere (IT)": {
+        "Kalamata FC": 10.0,
+        "PAOK Thessaloniki": 1.2,
+        "Draw": 5.8
+      },
+      "Nordic Bet": {
+        "Kalamata FC": 11.0,
+        "PAOK Thessaloniki": 1.2,
+        "Draw": 6.2
+      },
+      "Betclic (FR)": {
+        "Kalamata FC": 10.25,
+        "PAOK Thessaloniki": 1.17,
+        "Draw": 5.9
+      },
+      "Betsson": {
+        "Kalamata FC": 11.5,
+        "PAOK Thessaloniki": 1.2,
+        "Draw": 6.2
+      },
+      "Pinnacle": {
+        "Kalamata FC": 11.47,
+        "PAOK Thessaloniki": 1.22,
+        "Draw": 7.15
+      },
+      "LeoVegas (SE)": {
+        "Kalamata FC": 11.5,
+        "PAOK Thessaloniki": 1.16,
+        "Draw": 5.8
+      },
+      "Unibet (NL)": {
+        "Kalamata FC": 11.5,
+        "PAOK Thessaloniki": 1.19,
+        "Draw": 6.0
+      },
+      "PMU (FR)": {
+        "Kalamata FC": 11.0,
+        "PAOK Thessaloniki": 1.12,
+        "Draw": 5.6
+      },
+      "Unibet (SE)": {
+        "Kalamata FC": 11.5,
+        "PAOK Thessaloniki": 1.19,
+        "Draw": 6.0
+      },
+      "BetOnline.ag": {
+        "Kalamata FC": 10.0,
+        "PAOK Thessaloniki": 1.2,
+        "Draw": 6.8
+      },
+      "Coolbet": {
+        "Kalamata FC": 13.0,
+        "PAOK Thessaloniki": 1.22,
+        "Draw": 6.5
+      },
+      "Unibet (FR)": {
+        "Kalamata FC": 10.0,
+        "PAOK Thessaloniki": 1.14,
+        "Draw": 5.7
+      },
+      "Betfair": {
+        "Kalamata FC": 16.0,
+        "PAOK Thessaloniki": 1.24,
+        "Draw": 7.0
       }
     }
   },
@@ -3583,25 +3813,60 @@
       "confidence": 9,
       "alert_type": "value",
       "alerted_at": "2026-10-11T23:37:29.604585+00:00"
+    },
+    {
+      "state_key": "f40ae071331963b9ec6978059989842b:h2h",
+      "event_id": "f40ae071331963b9ec6978059989842b",
+      "sport_key": "soccer",
+      "competition": "Super League - Greece",
+      "home_team": "PAOK Thessaloniki",
+      "away_team": "Kalamata FC",
+      "commence_time": "2026-10-12T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Kalamata FC",
+      "odds_at_alert": 13.0,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-10-12T05:48:02.644224+00:00"
+    },
+    {
+      "state_key": "f40ae071331963b9ec6978059989842b:h2h",
+      "event_id": "f40ae071331963b9ec6978059989842b",
+      "sport_key": "soccer",
+      "competition": "Super League - Greece",
+      "home_team": "PAOK Thessaloniki",
+      "away_team": "Kalamata FC",
+      "commence_time": "2026-10-12T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Kalamata FC",
+      "odds_at_alert": 13.0,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-10-12T05:48:03.072744+00:00"
+    },
+    {
+      "state_key": "f40ae071331963b9ec6978059989842b:h2h",
+      "event_id": "f40ae071331963b9ec6978059989842b",
+      "sport_key": "soccer",
+      "competition": "Super League - Greece",
+      "home_team": "PAOK Thessaloniki",
+      "away_team": "Kalamata FC",
+      "commence_time": "2026-10-12T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Kalamata FC",
+      "odds_at_alert": 16.0,
+      "stake_pct": 5.0,
+      "confidence": 33,
+      "alert_type": "value",
+      "alerted_at": "2026-10-12T05:48:03.486379+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "b784be601500dd4744c5fc610d56fc96:h2h|Betfair|Draw",
-    "b784be601500dd4744c5fc610d56fc96:h2h|Betfair|Mirassol",
-    "b784be601500dd4744c5fc610d56fc96:h2h|Coolbet|Draw",
-    "b784be601500dd4744c5fc610d56fc96:h2h|Matchbook|Draw",
-    "b784be601500dd4744c5fc610d56fc96:h2h|Matchbook|Mirassol",
-    "b784be601500dd4744c5fc610d56fc96:h2h|Tipico|Draw",
-    "c0e1b5f18d9862a73d938b23167ca2a0:h2h|Betfair|Cuiabá",
-    "c0e1b5f18d9862a73d938b23167ca2a0:h2h|Betfair|Draw",
-    "c0e1b5f18d9862a73d938b23167ca2a0:h2h|Betsson|Cuiabá",
-    "c0e1b5f18d9862a73d938b23167ca2a0:h2h|Betsson|Draw",
-    "c0e1b5f18d9862a73d938b23167ca2a0:h2h|Coolbet|Cuiabá",
-    "c0e1b5f18d9862a73d938b23167ca2a0:h2h|Coolbet|Draw",
-    "c0e1b5f18d9862a73d938b23167ca2a0:h2h|LeoVegas (SE)|Cuiabá",
-    "c0e1b5f18d9862a73d938b23167ca2a0:h2h|LeoVegas (SE)|Draw",
-    "c0e1b5f18d9862a73d938b23167ca2a0:h2h|Nordic Bet|Cuiabá",
-    "c0e1b5f18d9862a73d938b23167ca2a0:h2h|Nordic Bet|Draw"
+    "f40ae071331963b9ec6978059989842b:h2h|Betfair|Kalamata FC",
+    "f40ae071331963b9ec6978059989842b:h2h|Coolbet|Kalamata FC",
+    "f40ae071331963b9ec6978059989842b:h2h|Tipico|Kalamata FC"
   ]
 }
