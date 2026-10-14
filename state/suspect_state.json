@@ -1,171 +1,296 @@
 {
   "snapshots": {
-    "5d6f9accd6f79ae4216dfd29ccc342b2:h2h": {
-      "Betfair": {
-        "Como": 400.0,
-        "Feyenoord": 1.02,
-        "Draw": 46.0
-      },
-      "Pinnacle": {
-        "Como": 26.01,
-        "Feyenoord": 1.26,
-        "Draw": 4.66
-      },
-      "Unibet (SE)": {
-        "Como": 181.0,
-        "Feyenoord": 1.01,
-        "Draw": 26.0
+    "8d77dc41ad9775cc840dba0a026fd3ca:h2h": {
+      "Nordic Bet": {
+        "Clube Atlético Mineiro": 1.01,
+        "Montevideo City Torque": 55.0,
+        "Draw": 19.0
       },
       "Unibet (NL)": {
-        "Como": 181.0,
-        "Feyenoord": 1.01,
-        "Draw": 26.0
-      },
-      "Betsson": {
-        "Como": 61.0,
-        "Feyenoord": 1.0,
-        "Draw": 21.0
-      },
-      "Nordic Bet": {
-        "Como": 61.0,
-        "Feyenoord": 1.0,
-        "Draw": 21.0
-      },
-      "888sport": {
-        "Como": 151.0,
-        "Feyenoord": 1.0,
-        "Draw": 36.0
-      },
-      "Coolbet": {
-        "Como": 150.0,
-        "Feyenoord": 1.01,
-        "Draw": 19.5
-      },
-      "Winamax (DE)": {
-        "Como": 160.0,
-        "Feyenoord": 1.01,
-        "Draw": 34.0
-      },
-      "Winamax (FR)": {
-        "Como": 160.0,
-        "Feyenoord": 1.01,
-        "Draw": 34.0
-      },
-      "Betclic (FR)": {
-        "Como": 65.0,
-        "Feyenoord": 1.05,
-        "Draw": 20.0
-      }
-    },
-    "2903ee092f7e08c549b130a3d394ac3c:h2h": {
-      "Betclic (FR)": {
-        "LASK": 250.0,
-        "Liverpool": 1.0,
-        "Draw": 8.5
-      },
-      "Betsson": {
-        "LASK": 34.0,
-        "Liverpool": 1.0,
-        "Draw": 29.0
-      },
-      "Nordic Bet": {
-        "LASK": 34.0,
-        "Liverpool": 1.0,
-        "Draw": 29.0
-      }
-    },
-    "53662d1de96e5adecc29ae6c3bc5e652:h2h": {
-      "Tipico": {
-        "Alemannia Aachen": 45.0,
-        "Wehen Wiesbaden": 1.01,
-        "Draw": 13.0
-      },
-      "Winamax (DE)": {
-        "Alemannia Aachen": 110.0,
-        "Wehen Wiesbaden": 1.02,
+        "Clube Atlético Mineiro": 1.01,
+        "Montevideo City Torque": 121.0,
         "Draw": 25.0
       },
-      "Nordic Bet": {
-        "Alemannia Aachen": 41.0,
-        "Wehen Wiesbaden": 1.0,
-        "Draw": 15.0
-      },
-      "Betsson": {
-        "Alemannia Aachen": 41.0,
-        "Wehen Wiesbaden": 1.0,
-        "Draw": 15.0
+      "Coolbet": {
+        "Clube Atlético Mineiro": 1.01,
+        "Montevideo City Torque": 50.0,
+        "Draw": 18.0
       },
       "888sport": {
-        "Alemannia Aachen": 101.0,
-        "Wehen Wiesbaden": 1.01,
-        "Draw": 23.0
-      },
-      "Coolbet": {
-        "Alemannia Aachen": 40.0,
-        "Wehen Wiesbaden": 1.0,
-        "Draw": 16.0
+        "Clube Atlético Mineiro": 1.01,
+        "Montevideo City Torque": 101.0,
+        "Draw": 29.0
       },
       "Betfair": {
-        "Alemannia Aachen": 11.5,
-        "Wehen Wiesbaden": 1.03,
-        "Draw": 27.0
+        "Clube Atlético Mineiro": 1.02,
+        "Montevideo City Torque": 300.0,
+        "Draw": 44.0
       }
     },
-    "8ad777c4923ef3461062a88575a8cba5:h2h": {
-      "Tipico": {
-        "FC Viktoria Köln 1904": 1.15,
-        "SG Sonnenhof Großaspach": 30.0,
-        "Draw": 5.5
-      },
-      "Unibet (NL)": {
-        "FC Viktoria Köln 1904": 1.13,
-        "SG Sonnenhof Großaspach": 25.0,
-        "Draw": 6.25
-      },
-      "LeoVegas (SE)": {
-        "FC Viktoria Köln 1904": 1.07,
-        "SG Sonnenhof Großaspach": 25.0,
-        "Draw": 5.8
-      },
-      "Unibet (SE)": {
-        "FC Viktoria Köln 1904": 1.13,
-        "SG Sonnenhof Großaspach": 25.0,
-        "Draw": 6.1
-      },
+    "63d4f2a7f1d59c91f4431f0349f573bb:h2h": {
       "Winamax (DE)": {
-        "FC Viktoria Köln 1904": 1.15,
-        "SG Sonnenhof Großaspach": 30.0,
-        "Draw": 5.5
+        "River Plate": 3.65,
+        "Sarmiento de Junin": 2.05,
+        "Draw": 2.9
       },
-      "Nordic Bet": {
-        "FC Viktoria Köln 1904": 1.1,
-        "SG Sonnenhof Großaspach": 26.0,
-        "Draw": 5.8
+      "Winamax (FR)": {
+        "River Plate": 3.45,
+        "Sarmiento de Junin": 2.0,
+        "Draw": 2.8
       },
-      "Betsson": {
-        "FC Viktoria Köln 1904": 1.12,
-        "SG Sonnenhof Großaspach": 24.0,
-        "Draw": 5.35
+      "Betclic (FR)": {
+        "River Plate": 3.28,
+        "Sarmiento de Junin": 2.05,
+        "Draw": 2.88
       },
-      "Pinnacle": {
-        "FC Viktoria Köln 1904": 1.18,
-        "SG Sonnenhof Großaspach": 26.85,
-        "Draw": 5.87
-      },
-      "888sport": {
-        "FC Viktoria Köln 1904": 1.14,
-        "SG Sonnenhof Großaspach": 26.0,
-        "Draw": 5.5
-      },
-      "Coolbet": {
-        "FC Viktoria Köln 1904": 1.14,
-        "SG Sonnenhof Großaspach": 28.0,
-        "Draw": 5.5
+      "Marathon Bet": {
+        "River Plate": 3.6,
+        "Sarmiento de Junin": 2.16,
+        "Draw": 2.97
       },
       "Betfair": {
-        "FC Viktoria Köln 1904": 1.2,
-        "SG Sonnenhof Großaspach": 46.0,
-        "Draw": 6.6
+        "River Plate": 4.0,
+        "Sarmiento de Junin": 2.34,
+        "Draw": 3.05
+      },
+      "LeoVegas (SE)": {
+        "River Plate": 3.75,
+        "Sarmiento de Junin": 1.97,
+        "Draw": 2.65
+      },
+      "Unibet (SE)": {
+        "River Plate": 4.0,
+        "Sarmiento de Junin": 2.1,
+        "Draw": 2.85
+      },
+      "Pinnacle": {
+        "River Plate": 3.9,
+        "Sarmiento de Junin": 2.2,
+        "Draw": 2.87
+      },
+      "Betsson": {
+        "River Plate": 3.5,
+        "Sarmiento de Junin": 2.1,
+        "Draw": 2.92
+      },
+      "Nordic Bet": {
+        "River Plate": 3.5,
+        "Sarmiento de Junin": 2.1,
+        "Draw": 2.92
+      }
+    },
+    "dd7940be5e7a6885a2ceb2e697719e43:h2h": {
+      "1xBet": {
+        "Atlanta United FC": 2.64,
+        "CF Montreal": 2.58,
+        "Draw": 3.77
+      },
+      "Unibet (FR)": {
+        "Atlanta United FC": 2.25,
+        "CF Montreal": 2.45,
+        "Draw": 3.4
+      },
+      "Winamax (FR)": {
+        "Atlanta United FC": 2.35,
+        "CF Montreal": 2.4,
+        "Draw": 3.55
+      },
+      "Winamax (DE)": {
+        "Atlanta United FC": 2.4,
+        "CF Montreal": 2.45,
+        "Draw": 3.6
+      },
+      "MyBookie.ag": {
+        "Atlanta United FC": 2.52,
+        "CF Montreal": 2.57,
+        "Draw": 3.65
+      },
+      "Betclic (FR)": {
+        "Atlanta United FC": 2.35,
+        "CF Montreal": 2.47,
+        "Draw": 3.45
+      },
+      "Betsson": {
+        "Atlanta United FC": 2.55,
+        "CF Montreal": 2.55,
+        "Draw": 3.6
+      },
+      "Marathon Bet": {
+        "Atlanta United FC": 2.53,
+        "CF Montreal": 2.48,
+        "Draw": 3.62
+      },
+      "Nordic Bet": {
+        "Atlanta United FC": 2.55,
+        "CF Montreal": 2.55,
+        "Draw": 3.6
+      },
+      "Coolbet": {
+        "Atlanta United FC": 2.55,
+        "CF Montreal": 2.55,
+        "Draw": 3.6
+      },
+      "Unibet (SE)": {
+        "Atlanta United FC": 2.7,
+        "CF Montreal": 2.33,
+        "Draw": 3.65
+      },
+      "LeoVegas (SE)": {
+        "Atlanta United FC": 2.8,
+        "CF Montreal": 2.4,
+        "Draw": 3.8
+      },
+      "PMU (FR)": {
+        "Atlanta United FC": 2.6,
+        "CF Montreal": 2.25,
+        "Draw": 3.5
+      },
+      "Unibet (NL)": {
+        "Atlanta United FC": 2.7,
+        "CF Montreal": 2.33,
+        "Draw": 3.65
+      },
+      "GTbets": {
+        "Atlanta United FC": 2.59,
+        "CF Montreal": 2.54,
+        "Draw": 3.78
+      },
+      "Betfair": {
+        "Atlanta United FC": 2.6,
+        "CF Montreal": 2.74,
+        "Draw": 3.8
+      },
+      "Pinnacle": {
+        "Atlanta United FC": 2.63,
+        "CF Montreal": 2.61,
+        "Draw": 3.71
+      },
+      "BetOnline.ag": {
+        "Atlanta United FC": 2.56,
+        "CF Montreal": 2.63,
+        "Draw": 3.79
+      },
+      "Tipico": {
+        "Atlanta United FC": 2.6,
+        "CF Montreal": 2.35,
+        "Draw": 3.6
+      },
+      "BetAnything": {
+        "Atlanta United FC": 2.53,
+        "CF Montreal": 2.67,
+        "Draw": 3.78
+      },
+      "Matchbook": {
+        "Atlanta United FC": 2.6,
+        "CF Montreal": 2.74,
+        "Draw": 3.85
+      }
+    },
+    "bf7a7ed3d6a32894ba17fc133a6d90ac:h2h": {
+      "1xBet": {
+        "Charlotte FC": 4.01,
+        "Columbus Crew SC": 1.82,
+        "Draw": 4.28
+      },
+      "Unibet (FR)": {
+        "Charlotte FC": 3.7,
+        "Columbus Crew SC": 1.58,
+        "Draw": 4.0
+      },
+      "Winamax (FR)": {
+        "Charlotte FC": 3.65,
+        "Columbus Crew SC": 1.66,
+        "Draw": 4.2
+      },
+      "Winamax (DE)": {
+        "Charlotte FC": 3.7,
+        "Columbus Crew SC": 1.68,
+        "Draw": 4.3
+      },
+      "MyBookie.ag": {
+        "Charlotte FC": 3.95,
+        "Columbus Crew SC": 1.74,
+        "Draw": 4.3
+      },
+      "Betclic (FR)": {
+        "Charlotte FC": 3.73,
+        "Columbus Crew SC": 1.65,
+        "Draw": 4.05
+      },
+      "Nordic Bet": {
+        "Charlotte FC": 4.1,
+        "Columbus Crew SC": 1.72,
+        "Draw": 4.15
+      },
+      "Betsson": {
+        "Charlotte FC": 4.1,
+        "Columbus Crew SC": 1.72,
+        "Draw": 4.15
+      },
+      "Marathon Bet": {
+        "Charlotte FC": 3.85,
+        "Columbus Crew SC": 1.75,
+        "Draw": 4.1
+      },
+      "Coolbet": {
+        "Charlotte FC": 3.75,
+        "Columbus Crew SC": 1.79,
+        "Draw": 4.25
+      },
+      "Unibet (SE)": {
+        "Charlotte FC": 3.55,
+        "Columbus Crew SC": 1.83,
+        "Draw": 4.0
+      },
+      "LeoVegas (SE)": {
+        "Charlotte FC": 3.7,
+        "Columbus Crew SC": 1.88,
+        "Draw": 4.2
+      },
+      "PMU (FR)": {
+        "Charlotte FC": 3.4,
+        "Columbus Crew SC": 1.78,
+        "Draw": 3.8
+      },
+      "Unibet (NL)": {
+        "Charlotte FC": 3.55,
+        "Columbus Crew SC": 1.83,
+        "Draw": 4.0
+      },
+      "GTbets": {
+        "Charlotte FC": 3.95,
+        "Columbus Crew SC": 1.81,
+        "Draw": 4.21
+      },
+      "Betfair": {
+        "Charlotte FC": 4.3,
+        "Columbus Crew SC": 1.81,
+        "Draw": 4.4
+      },
+      "Pinnacle": {
+        "Charlotte FC": 4.17,
+        "Columbus Crew SC": 1.76,
+        "Draw": 4.35
+      },
+      "BetOnline.ag": {
+        "Charlotte FC": 4.21,
+        "Columbus Crew SC": 1.75,
+        "Draw": 4.42
+      },
+      "Tipico": {
+        "Charlotte FC": 3.9,
+        "Columbus Crew SC": 1.67,
+        "Draw": 4.3
+      },
+      "BetAnything": {
+        "Charlotte FC": 4.21,
+        "Columbus Crew SC": 1.75,
+        "Draw": 4.42
+      },
+      "Matchbook": {
+        "Charlotte FC": 4.3,
+        "Columbus Crew SC": 1.8,
+        "Draw": 4.4
       }
     }
   },
@@ -3869,37 +3994,5 @@
     }
   ],
   "results_history": [],
-  "value_alerted": [
-    "2903ee092f7e08c549b130a3d394ac3c:h2h|BetAnything|LASK",
-    "2903ee092f7e08c549b130a3d394ac3c:h2h|BetOnline.ag|LASK",
-    "2903ee092f7e08c549b130a3d394ac3c:h2h|Betfair|LASK",
-    "2903ee092f7e08c549b130a3d394ac3c:h2h|Coolbet|LASK",
-    "2903ee092f7e08c549b130a3d394ac3c:h2h|Matchbook|LASK",
-    "2903ee092f7e08c549b130a3d394ac3c:h2h|Unibet (NL)|LASK",
-    "2903ee092f7e08c549b130a3d394ac3c:h2h|Unibet (SE)|LASK",
-    "5d6f9accd6f79ae4216dfd29ccc342b2:h2h|888sport|Como",
-    "5d6f9accd6f79ae4216dfd29ccc342b2:h2h|888sport|Draw",
-    "5d6f9accd6f79ae4216dfd29ccc342b2:h2h|Betclic (FR)|Como",
-    "5d6f9accd6f79ae4216dfd29ccc342b2:h2h|Betclic (FR)|Draw",
-    "5d6f9accd6f79ae4216dfd29ccc342b2:h2h|Betfair|Como",
-    "5d6f9accd6f79ae4216dfd29ccc342b2:h2h|Betfair|Draw",
-    "5d6f9accd6f79ae4216dfd29ccc342b2:h2h|Betsson|Como",
-    "5d6f9accd6f79ae4216dfd29ccc342b2:h2h|Betsson|Draw",
-    "5d6f9accd6f79ae4216dfd29ccc342b2:h2h|Coolbet|Como",
-    "5d6f9accd6f79ae4216dfd29ccc342b2:h2h|Coolbet|Draw",
-    "5d6f9accd6f79ae4216dfd29ccc342b2:h2h|Nordic Bet|Como",
-    "5d6f9accd6f79ae4216dfd29ccc342b2:h2h|Nordic Bet|Draw",
-    "5d6f9accd6f79ae4216dfd29ccc342b2:h2h|Unibet (NL)|Como",
-    "5d6f9accd6f79ae4216dfd29ccc342b2:h2h|Unibet (NL)|Draw",
-    "5d6f9accd6f79ae4216dfd29ccc342b2:h2h|Unibet (SE)|Como",
-    "5d6f9accd6f79ae4216dfd29ccc342b2:h2h|Unibet (SE)|Draw",
-    "5d6f9accd6f79ae4216dfd29ccc342b2:h2h|Winamax (DE)|Como",
-    "5d6f9accd6f79ae4216dfd29ccc342b2:h2h|Winamax (DE)|Draw",
-    "5d6f9accd6f79ae4216dfd29ccc342b2:h2h|Winamax (FR)|Como",
-    "5d6f9accd6f79ae4216dfd29ccc342b2:h2h|Winamax (FR)|Draw",
-    "8ad777c4923ef3461062a88575a8cba5:h2h|Betfair|Draw",
-    "8ad777c4923ef3461062a88575a8cba5:h2h|Betfair|SG Sonnenhof Großaspach",
-    "8ad777c4923ef3461062a88575a8cba5:h2h|Tipico|SG Sonnenhof Großaspach",
-    "8ad777c4923ef3461062a88575a8cba5:h2h|Winamax (DE)|SG Sonnenhof Großaspach"
-  ]
+  "value_alerted": []
 }
