@@ -1,371 +1,171 @@
 {
   "snapshots": {
     "5d6f9accd6f79ae4216dfd29ccc342b2:h2h": {
-      "1xBet": {
-        "Como": 2.19,
-        "Feyenoord": 3.27,
-        "Draw": 3.96
-      },
-      "Marathon Bet": {
-        "Como": 2.13,
-        "Feyenoord": 3.18,
-        "Draw": 3.85
-      },
       "Betfair": {
-        "Como": 2.24,
-        "Feyenoord": 3.25,
-        "Draw": 3.95
+        "Como": 400.0,
+        "Feyenoord": 1.02,
+        "Draw": 46.0
       },
       "Pinnacle": {
-        "Como": 2.19,
-        "Feyenoord": 3.2,
-        "Draw": 3.86
-      },
-      "Unibet (FR)": {
-        "Como": 2.0,
-        "Feyenoord": 3.0,
-        "Draw": 3.7
-      },
-      "Codere (IT)": {
-        "Como": 2.16,
-        "Feyenoord": 3.1,
-        "Draw": 3.8
-      },
-      "LeoVegas (SE)": {
-        "Como": 2.1,
-        "Feyenoord": 3.15,
-        "Draw": 3.7
+        "Como": 26.01,
+        "Feyenoord": 1.26,
+        "Draw": 4.66
       },
       "Unibet (SE)": {
-        "Como": 2.16,
-        "Feyenoord": 3.25,
-        "Draw": 3.85
+        "Como": 181.0,
+        "Feyenoord": 1.01,
+        "Draw": 26.0
       },
       "Unibet (NL)": {
-        "Como": 2.16,
-        "Feyenoord": 3.25,
-        "Draw": 3.85
+        "Como": 181.0,
+        "Feyenoord": 1.01,
+        "Draw": 26.0
       },
       "Betsson": {
-        "Como": 2.2,
-        "Feyenoord": 3.1,
-        "Draw": 3.65
+        "Como": 61.0,
+        "Feyenoord": 1.0,
+        "Draw": 21.0
       },
       "Nordic Bet": {
-        "Como": 2.22,
-        "Feyenoord": 3.15,
-        "Draw": 3.7
+        "Como": 61.0,
+        "Feyenoord": 1.0,
+        "Draw": 21.0
       },
       "888sport": {
-        "Como": 2.1,
-        "Feyenoord": 3.1,
-        "Draw": 3.6
-      },
-      "William Hill": {
-        "Como": 2.1,
-        "Feyenoord": 3.1,
-        "Draw": 3.6
+        "Como": 151.0,
+        "Feyenoord": 1.0,
+        "Draw": 36.0
       },
       "Coolbet": {
-        "Como": 2.17,
-        "Feyenoord": 3.27,
-        "Draw": 3.88
-      },
-      "GTbets": {
-        "Como": 2.07,
-        "Feyenoord": 3.15,
-        "Draw": 3.82
+        "Como": 150.0,
+        "Feyenoord": 1.01,
+        "Draw": 19.5
       },
       "Winamax (DE)": {
-        "Como": 2.05,
-        "Feyenoord": 3.0,
-        "Draw": 3.95
+        "Como": 160.0,
+        "Feyenoord": 1.01,
+        "Draw": 34.0
       },
       "Winamax (FR)": {
-        "Como": 2.05,
-        "Feyenoord": 2.95,
-        "Draw": 3.85
-      },
-      "PMU (FR)": {
-        "Como": 2.04,
-        "Feyenoord": 3.0,
-        "Draw": 3.55
+        "Como": 160.0,
+        "Feyenoord": 1.01,
+        "Draw": 34.0
       },
       "Betclic (FR)": {
-        "Como": 2.08,
-        "Feyenoord": 3.05,
-        "Draw": 3.83
-      },
-      "Matchbook": {
-        "Como": 2.24,
-        "Feyenoord": 3.25,
-        "Draw": 3.9
-      },
-      "BetOnline.ag": {
-        "Como": 2.15,
-        "Feyenoord": 3.23,
-        "Draw": 3.85
-      },
-      "BetAnything": {
-        "Como": 2.15,
-        "Feyenoord": 3.23,
-        "Draw": 3.85
+        "Como": 65.0,
+        "Feyenoord": 1.05,
+        "Draw": 20.0
       }
     },
     "2903ee092f7e08c549b130a3d394ac3c:h2h": {
-      "Marathon Bet": {
-        "LASK": 7.6,
-        "Liverpool": 1.41,
-        "Draw": 5.25
-      },
-      "1xBet": {
-        "LASK": 7.7,
-        "Liverpool": 1.43,
-        "Draw": 5.33
-      },
-      "Betfair": {
-        "LASK": 8.6,
-        "Liverpool": 1.41,
-        "Draw": 5.5
-      },
-      "Pinnacle": {
-        "LASK": 7.87,
-        "Liverpool": 1.38,
-        "Draw": 5.24
-      },
       "Betclic (FR)": {
-        "LASK": 7.25,
-        "Liverpool": 1.34,
-        "Draw": 5.25
-      },
-      "Unibet (FR)": {
-        "LASK": 7.0,
-        "Liverpool": 1.33,
-        "Draw": 5.0
-      },
-      "Codere (IT)": {
-        "LASK": 7.4,
-        "Liverpool": 1.39,
-        "Draw": 5.2
-      },
-      "Winamax (FR)": {
-        "LASK": 6.75,
-        "Liverpool": 1.33,
-        "Draw": 5.2
-      },
-      "Winamax (DE)": {
-        "LASK": 7.0,
-        "Liverpool": 1.35,
-        "Draw": 5.4
-      },
-      "PMU (FR)": {
-        "LASK": 7.0,
-        "Liverpool": 1.33,
-        "Draw": 4.75
-      },
-      "LeoVegas (SE)": {
-        "LASK": 7.5,
-        "Liverpool": 1.36,
-        "Draw": 5.0
-      },
-      "Unibet (SE)": {
-        "LASK": 8.0,
-        "Liverpool": 1.38,
-        "Draw": 5.3
-      },
-      "Unibet (NL)": {
-        "LASK": 8.0,
-        "Liverpool": 1.38,
-        "Draw": 5.3
+        "LASK": 250.0,
+        "Liverpool": 1.0,
+        "Draw": 8.5
       },
       "Betsson": {
-        "LASK": 7.8,
-        "Liverpool": 1.39,
-        "Draw": 4.85
+        "LASK": 34.0,
+        "Liverpool": 1.0,
+        "Draw": 29.0
       },
       "Nordic Bet": {
-        "LASK": 7.9,
-        "Liverpool": 1.4,
-        "Draw": 4.95
-      },
-      "888sport": {
-        "LASK": 7.0,
-        "Liverpool": 1.4,
-        "Draw": 4.8
-      },
-      "William Hill": {
-        "LASK": 7.0,
-        "Liverpool": 1.4,
-        "Draw": 4.8
-      },
-      "Coolbet": {
-        "LASK": 8.2,
-        "Liverpool": 1.4,
-        "Draw": 5.35
-      },
-      "GTbets": {
-        "LASK": 7.29,
-        "Liverpool": 1.39,
-        "Draw": 4.99
-      },
-      "Matchbook": {
-        "LASK": 8.6,
-        "Liverpool": 1.41,
-        "Draw": 5.5
-      },
-      "BetOnline.ag": {
-        "LASK": 8.0,
-        "Liverpool": 1.39,
-        "Draw": 5.2
-      },
-      "BetAnything": {
-        "LASK": 8.21,
-        "Liverpool": 1.37,
-        "Draw": 5.32
+        "LASK": 34.0,
+        "Liverpool": 1.0,
+        "Draw": 29.0
       }
     },
     "53662d1de96e5adecc29ae6c3bc5e652:h2h": {
       "Tipico": {
-        "Alemannia Aachen": 2.6,
-        "Wehen Wiesbaden": 2.45,
-        "Draw": 3.6
-      },
-      "Unibet (NL)": {
-        "Alemannia Aachen": 2.7,
-        "Wehen Wiesbaden": 2.28,
-        "Draw": 3.55
-      },
-      "LeoVegas (SE)": {
-        "Alemannia Aachen": 2.6,
-        "Wehen Wiesbaden": 2.18,
-        "Draw": 3.4
-      },
-      "Unibet (SE)": {
-        "Alemannia Aachen": 2.7,
-        "Wehen Wiesbaden": 2.28,
-        "Draw": 3.55
+        "Alemannia Aachen": 45.0,
+        "Wehen Wiesbaden": 1.01,
+        "Draw": 13.0
       },
       "Winamax (DE)": {
-        "Alemannia Aachen": 2.55,
-        "Wehen Wiesbaden": 2.4,
-        "Draw": 3.65
+        "Alemannia Aachen": 110.0,
+        "Wehen Wiesbaden": 1.02,
+        "Draw": 25.0
       },
       "Nordic Bet": {
-        "Alemannia Aachen": 2.55,
-        "Wehen Wiesbaden": 2.42,
-        "Draw": 3.4
+        "Alemannia Aachen": 41.0,
+        "Wehen Wiesbaden": 1.0,
+        "Draw": 15.0
       },
       "Betsson": {
-        "Alemannia Aachen": 2.55,
-        "Wehen Wiesbaden": 2.42,
-        "Draw": 3.4
-      },
-      "BetOnline.ag": {
-        "Alemannia Aachen": 2.64,
-        "Wehen Wiesbaden": 2.46,
-        "Draw": 3.65
-      },
-      "Codere (IT)": {
-        "Alemannia Aachen": 2.55,
-        "Wehen Wiesbaden": 2.43,
-        "Draw": 3.5
-      },
-      "1xBet": {
-        "Alemannia Aachen": 2.51,
-        "Wehen Wiesbaden": 2.32,
-        "Draw": 3.46
-      },
-      "Pinnacle": {
-        "Alemannia Aachen": 2.65,
-        "Wehen Wiesbaden": 2.47,
-        "Draw": 3.73
+        "Alemannia Aachen": 41.0,
+        "Wehen Wiesbaden": 1.0,
+        "Draw": 15.0
       },
       "888sport": {
-        "Alemannia Aachen": 2.5,
-        "Wehen Wiesbaden": 2.38,
-        "Draw": 3.3
+        "Alemannia Aachen": 101.0,
+        "Wehen Wiesbaden": 1.01,
+        "Draw": 23.0
       },
       "Coolbet": {
-        "Alemannia Aachen": 2.65,
-        "Wehen Wiesbaden": 2.35,
-        "Draw": 3.6
+        "Alemannia Aachen": 40.0,
+        "Wehen Wiesbaden": 1.0,
+        "Draw": 16.0
       },
       "Betfair": {
-        "Alemannia Aachen": 2.76,
-        "Wehen Wiesbaden": 2.54,
-        "Draw": 3.75
+        "Alemannia Aachen": 11.5,
+        "Wehen Wiesbaden": 1.03,
+        "Draw": 27.0
       }
     },
-    "ce8f9e56366ffb0bec82ad3cb12ead16:h2h": {
+    "8ad777c4923ef3461062a88575a8cba5:h2h": {
       "Tipico": {
-        "FC Ingolstadt 04": 3.9,
-        "Waldhof Mannheim": 1.75,
-        "Draw": 4.1
-      },
-      "LeoVegas (SE)": {
-        "FC Ingolstadt 04": 3.4,
-        "Waldhof Mannheim": 1.78,
-        "Draw": 3.55
+        "FC Viktoria Köln 1904": 1.15,
+        "SG Sonnenhof Großaspach": 30.0,
+        "Draw": 5.5
       },
       "Unibet (NL)": {
-        "FC Ingolstadt 04": 3.55,
-        "Waldhof Mannheim": 1.85,
-        "Draw": 3.65
+        "FC Viktoria Köln 1904": 1.13,
+        "SG Sonnenhof Großaspach": 25.0,
+        "Draw": 6.25
+      },
+      "LeoVegas (SE)": {
+        "FC Viktoria Köln 1904": 1.07,
+        "SG Sonnenhof Großaspach": 25.0,
+        "Draw": 5.8
       },
       "Unibet (SE)": {
-        "FC Ingolstadt 04": 3.55,
-        "Waldhof Mannheim": 1.85,
-        "Draw": 3.65
-      },
-      "Nordic Bet": {
-        "FC Ingolstadt 04": 3.55,
-        "Waldhof Mannheim": 1.85,
-        "Draw": 3.75
-      },
-      "Betsson": {
-        "FC Ingolstadt 04": 3.55,
-        "Waldhof Mannheim": 1.85,
-        "Draw": 3.75
+        "FC Viktoria Köln 1904": 1.13,
+        "SG Sonnenhof Großaspach": 25.0,
+        "Draw": 6.1
       },
       "Winamax (DE)": {
-        "FC Ingolstadt 04": 3.5,
-        "Waldhof Mannheim": 1.84,
-        "Draw": 4.0
+        "FC Viktoria Köln 1904": 1.15,
+        "SG Sonnenhof Großaspach": 30.0,
+        "Draw": 5.5
       },
-      "1xBet": {
-        "FC Ingolstadt 04": 3.58,
-        "Waldhof Mannheim": 1.78,
-        "Draw": 3.78
+      "Nordic Bet": {
+        "FC Viktoria Köln 1904": 1.1,
+        "SG Sonnenhof Großaspach": 26.0,
+        "Draw": 5.8
       },
-      "BetOnline.ag": {
-        "FC Ingolstadt 04": 3.7,
-        "Waldhof Mannheim": 1.82,
-        "Draw": 4.1
-      },
-      "Codere (IT)": {
-        "FC Ingolstadt 04": 3.5,
-        "Waldhof Mannheim": 1.84,
-        "Draw": 3.8
+      "Betsson": {
+        "FC Viktoria Köln 1904": 1.12,
+        "SG Sonnenhof Großaspach": 24.0,
+        "Draw": 5.35
       },
       "Pinnacle": {
-        "FC Ingolstadt 04": 3.68,
-        "Waldhof Mannheim": 1.84,
-        "Draw": 4.21
+        "FC Viktoria Köln 1904": 1.18,
+        "SG Sonnenhof Großaspach": 26.85,
+        "Draw": 5.87
       },
       "888sport": {
-        "FC Ingolstadt 04": 3.5,
-        "Waldhof Mannheim": 1.8,
-        "Draw": 3.8
+        "FC Viktoria Köln 1904": 1.14,
+        "SG Sonnenhof Großaspach": 26.0,
+        "Draw": 5.5
       },
       "Coolbet": {
-        "FC Ingolstadt 04": 3.5,
-        "Waldhof Mannheim": 1.85,
-        "Draw": 4.0
+        "FC Viktoria Köln 1904": 1.14,
+        "SG Sonnenhof Großaspach": 28.0,
+        "Draw": 5.5
       },
       "Betfair": {
-        "FC Ingolstadt 04": 3.95,
-        "Waldhof Mannheim": 1.87,
-        "Draw": 4.3
+        "FC Viktoria Köln 1904": 1.2,
+        "SG Sonnenhof Großaspach": 46.0,
+        "Draw": 6.6
       }
     }
   },
@@ -3682,6 +3482,390 @@
       "confidence": 6,
       "alert_type": "value",
       "alerted_at": "2026-10-14T07:30:22.234747+00:00"
+    },
+    {
+      "state_key": "5d6f9accd6f79ae4216dfd29ccc342b2:h2h",
+      "event_id": "5d6f9accd6f79ae4216dfd29ccc342b2",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League",
+      "home_team": "Feyenoord",
+      "away_team": "Como",
+      "commence_time": "2026-10-14T16:46:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Como",
+      "odds_at_alert": 400.0,
+      "stake_pct": 5.0,
+      "confidence": 1369,
+      "alert_type": "value",
+      "alerted_at": "2026-10-14T18:31:42.986918+00:00"
+    },
+    {
+      "state_key": "5d6f9accd6f79ae4216dfd29ccc342b2:h2h",
+      "event_id": "5d6f9accd6f79ae4216dfd29ccc342b2",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League",
+      "home_team": "Feyenoord",
+      "away_team": "Como",
+      "commence_time": "2026-10-14T16:46:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 46.0,
+      "stake_pct": 5.0,
+      "confidence": 843,
+      "alert_type": "value",
+      "alerted_at": "2026-10-14T18:31:43.407121+00:00"
+    },
+    {
+      "state_key": "5d6f9accd6f79ae4216dfd29ccc342b2:h2h",
+      "event_id": "5d6f9accd6f79ae4216dfd29ccc342b2",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League",
+      "home_team": "Feyenoord",
+      "away_team": "Como",
+      "commence_time": "2026-10-14T16:46:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Como",
+      "odds_at_alert": 181.0,
+      "stake_pct": 5.0,
+      "confidence": 565,
+      "alert_type": "value",
+      "alerted_at": "2026-10-14T18:31:43.845423+00:00"
+    },
+    {
+      "state_key": "5d6f9accd6f79ae4216dfd29ccc342b2:h2h",
+      "event_id": "5d6f9accd6f79ae4216dfd29ccc342b2",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League",
+      "home_team": "Feyenoord",
+      "away_team": "Como",
+      "commence_time": "2026-10-14T16:46:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 433,
+      "alert_type": "value",
+      "alerted_at": "2026-10-14T18:31:44.269406+00:00"
+    },
+    {
+      "state_key": "5d6f9accd6f79ae4216dfd29ccc342b2:h2h",
+      "event_id": "5d6f9accd6f79ae4216dfd29ccc342b2",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League",
+      "home_team": "Feyenoord",
+      "away_team": "Como",
+      "commence_time": "2026-10-14T16:46:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Como",
+      "odds_at_alert": 181.0,
+      "stake_pct": 5.0,
+      "confidence": 565,
+      "alert_type": "value",
+      "alerted_at": "2026-10-14T18:31:44.713160+00:00"
+    },
+    {
+      "state_key": "5d6f9accd6f79ae4216dfd29ccc342b2:h2h",
+      "event_id": "5d6f9accd6f79ae4216dfd29ccc342b2",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League",
+      "home_team": "Feyenoord",
+      "away_team": "Como",
+      "commence_time": "2026-10-14T16:46:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 433,
+      "alert_type": "value",
+      "alerted_at": "2026-10-14T18:31:45.146612+00:00"
+    },
+    {
+      "state_key": "5d6f9accd6f79ae4216dfd29ccc342b2:h2h",
+      "event_id": "5d6f9accd6f79ae4216dfd29ccc342b2",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League",
+      "home_team": "Feyenoord",
+      "away_team": "Como",
+      "commence_time": "2026-10-14T16:46:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Como",
+      "odds_at_alert": 61.0,
+      "stake_pct": 5.0,
+      "confidence": 124,
+      "alert_type": "value",
+      "alerted_at": "2026-10-14T18:31:45.589887+00:00"
+    },
+    {
+      "state_key": "5d6f9accd6f79ae4216dfd29ccc342b2:h2h",
+      "event_id": "5d6f9accd6f79ae4216dfd29ccc342b2",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League",
+      "home_team": "Feyenoord",
+      "away_team": "Como",
+      "commence_time": "2026-10-14T16:46:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 21.0,
+      "stake_pct": 5.0,
+      "confidence": 331,
+      "alert_type": "value",
+      "alerted_at": "2026-10-14T18:31:46.031832+00:00"
+    },
+    {
+      "state_key": "5d6f9accd6f79ae4216dfd29ccc342b2:h2h",
+      "event_id": "5d6f9accd6f79ae4216dfd29ccc342b2",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League",
+      "home_team": "Feyenoord",
+      "away_team": "Como",
+      "commence_time": "2026-10-14T16:46:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Como",
+      "odds_at_alert": 61.0,
+      "stake_pct": 5.0,
+      "confidence": 124,
+      "alert_type": "value",
+      "alerted_at": "2026-10-14T18:31:46.555293+00:00"
+    },
+    {
+      "state_key": "5d6f9accd6f79ae4216dfd29ccc342b2:h2h",
+      "event_id": "5d6f9accd6f79ae4216dfd29ccc342b2",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League",
+      "home_team": "Feyenoord",
+      "away_team": "Como",
+      "commence_time": "2026-10-14T16:46:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 21.0,
+      "stake_pct": 5.0,
+      "confidence": 331,
+      "alert_type": "value",
+      "alerted_at": "2026-10-14T18:31:47.078150+00:00"
+    },
+    {
+      "state_key": "5d6f9accd6f79ae4216dfd29ccc342b2:h2h",
+      "event_id": "5d6f9accd6f79ae4216dfd29ccc342b2",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League",
+      "home_team": "Feyenoord",
+      "away_team": "Como",
+      "commence_time": "2026-10-14T16:46:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Como",
+      "odds_at_alert": 151.0,
+      "stake_pct": 5.0,
+      "confidence": 455,
+      "alert_type": "value",
+      "alerted_at": "2026-10-14T18:31:47.525566+00:00"
+    },
+    {
+      "state_key": "5d6f9accd6f79ae4216dfd29ccc342b2:h2h",
+      "event_id": "5d6f9accd6f79ae4216dfd29ccc342b2",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League",
+      "home_team": "Feyenoord",
+      "away_team": "Como",
+      "commence_time": "2026-10-14T16:46:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 36.0,
+      "stake_pct": 5.0,
+      "confidence": 638,
+      "alert_type": "value",
+      "alerted_at": "2026-10-14T18:31:47.961267+00:00"
+    },
+    {
+      "state_key": "5d6f9accd6f79ae4216dfd29ccc342b2:h2h",
+      "event_id": "5d6f9accd6f79ae4216dfd29ccc342b2",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League",
+      "home_team": "Feyenoord",
+      "away_team": "Como",
+      "commence_time": "2026-10-14T16:46:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Como",
+      "odds_at_alert": 150.0,
+      "stake_pct": 5.0,
+      "confidence": 451,
+      "alert_type": "value",
+      "alerted_at": "2026-10-14T18:31:48.402306+00:00"
+    },
+    {
+      "state_key": "5d6f9accd6f79ae4216dfd29ccc342b2:h2h",
+      "event_id": "5d6f9accd6f79ae4216dfd29ccc342b2",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League",
+      "home_team": "Feyenoord",
+      "away_team": "Como",
+      "commence_time": "2026-10-14T16:46:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 19.5,
+      "stake_pct": 5.0,
+      "confidence": 300,
+      "alert_type": "value",
+      "alerted_at": "2026-10-14T18:31:48.844349+00:00"
+    },
+    {
+      "state_key": "5d6f9accd6f79ae4216dfd29ccc342b2:h2h",
+      "event_id": "5d6f9accd6f79ae4216dfd29ccc342b2",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League",
+      "home_team": "Feyenoord",
+      "away_team": "Como",
+      "commence_time": "2026-10-14T16:46:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Como",
+      "odds_at_alert": 160.0,
+      "stake_pct": 5.0,
+      "confidence": 488,
+      "alert_type": "value",
+      "alerted_at": "2026-10-14T18:31:49.312432+00:00"
+    },
+    {
+      "state_key": "5d6f9accd6f79ae4216dfd29ccc342b2:h2h",
+      "event_id": "5d6f9accd6f79ae4216dfd29ccc342b2",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League",
+      "home_team": "Feyenoord",
+      "away_team": "Como",
+      "commence_time": "2026-10-14T16:46:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 34.0,
+      "stake_pct": 5.0,
+      "confidence": 597,
+      "alert_type": "value",
+      "alerted_at": "2026-10-14T18:31:49.748417+00:00"
+    },
+    {
+      "state_key": "5d6f9accd6f79ae4216dfd29ccc342b2:h2h",
+      "event_id": "5d6f9accd6f79ae4216dfd29ccc342b2",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League",
+      "home_team": "Feyenoord",
+      "away_team": "Como",
+      "commence_time": "2026-10-14T16:46:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Como",
+      "odds_at_alert": 160.0,
+      "stake_pct": 5.0,
+      "confidence": 488,
+      "alert_type": "value",
+      "alerted_at": "2026-10-14T18:31:50.251731+00:00"
+    },
+    {
+      "state_key": "5d6f9accd6f79ae4216dfd29ccc342b2:h2h",
+      "event_id": "5d6f9accd6f79ae4216dfd29ccc342b2",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League",
+      "home_team": "Feyenoord",
+      "away_team": "Como",
+      "commence_time": "2026-10-14T16:46:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 34.0,
+      "stake_pct": 5.0,
+      "confidence": 597,
+      "alert_type": "value",
+      "alerted_at": "2026-10-14T18:31:50.666031+00:00"
+    },
+    {
+      "state_key": "5d6f9accd6f79ae4216dfd29ccc342b2:h2h",
+      "event_id": "5d6f9accd6f79ae4216dfd29ccc342b2",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League",
+      "home_team": "Feyenoord",
+      "away_team": "Como",
+      "commence_time": "2026-10-14T16:46:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Como",
+      "odds_at_alert": 65.0,
+      "stake_pct": 5.0,
+      "confidence": 139,
+      "alert_type": "value",
+      "alerted_at": "2026-10-14T18:31:51.097175+00:00"
+    },
+    {
+      "state_key": "5d6f9accd6f79ae4216dfd29ccc342b2:h2h",
+      "event_id": "5d6f9accd6f79ae4216dfd29ccc342b2",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League",
+      "home_team": "Feyenoord",
+      "away_team": "Como",
+      "commence_time": "2026-10-14T16:46:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 20.0,
+      "stake_pct": 5.0,
+      "confidence": 310,
+      "alert_type": "value",
+      "alerted_at": "2026-10-14T18:31:51.573734+00:00"
+    },
+    {
+      "state_key": "8ad777c4923ef3461062a88575a8cba5:h2h",
+      "event_id": "8ad777c4923ef3461062a88575a8cba5",
+      "sport_key": "soccer",
+      "competition": "3. Liga - Germany",
+      "home_team": "FC Viktoria Köln 1904",
+      "away_team": "SG Sonnenhof Großaspach",
+      "commence_time": "2026-10-14T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "SG Sonnenhof Großaspach",
+      "odds_at_alert": 30.0,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-10-14T18:31:52.051235+00:00"
+    },
+    {
+      "state_key": "8ad777c4923ef3461062a88575a8cba5:h2h",
+      "event_id": "8ad777c4923ef3461062a88575a8cba5",
+      "sport_key": "soccer",
+      "competition": "3. Liga - Germany",
+      "home_team": "FC Viktoria Köln 1904",
+      "away_team": "SG Sonnenhof Großaspach",
+      "commence_time": "2026-10-14T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "SG Sonnenhof Großaspach",
+      "odds_at_alert": 30.0,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-10-14T18:31:52.575577+00:00"
+    },
+    {
+      "state_key": "8ad777c4923ef3461062a88575a8cba5:h2h",
+      "event_id": "8ad777c4923ef3461062a88575a8cba5",
+      "sport_key": "soccer",
+      "competition": "3. Liga - Germany",
+      "home_team": "FC Viktoria Köln 1904",
+      "away_team": "SG Sonnenhof Großaspach",
+      "commence_time": "2026-10-14T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "SG Sonnenhof Großaspach",
+      "odds_at_alert": 46.0,
+      "stake_pct": 5.0,
+      "confidence": 62,
+      "alert_type": "value",
+      "alerted_at": "2026-10-14T18:31:53.036455+00:00"
+    },
+    {
+      "state_key": "8ad777c4923ef3461062a88575a8cba5:h2h",
+      "event_id": "8ad777c4923ef3461062a88575a8cba5",
+      "sport_key": "soccer",
+      "competition": "3. Liga - Germany",
+      "home_team": "FC Viktoria Köln 1904",
+      "away_team": "SG Sonnenhof Großaspach",
+      "commence_time": "2026-10-14T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.6,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-10-14T18:31:53.494547+00:00"
     }
   ],
   "results_history": [],
@@ -3692,6 +3876,30 @@
     "2903ee092f7e08c549b130a3d394ac3c:h2h|Coolbet|LASK",
     "2903ee092f7e08c549b130a3d394ac3c:h2h|Matchbook|LASK",
     "2903ee092f7e08c549b130a3d394ac3c:h2h|Unibet (NL)|LASK",
-    "2903ee092f7e08c549b130a3d394ac3c:h2h|Unibet (SE)|LASK"
+    "2903ee092f7e08c549b130a3d394ac3c:h2h|Unibet (SE)|LASK",
+    "5d6f9accd6f79ae4216dfd29ccc342b2:h2h|888sport|Como",
+    "5d6f9accd6f79ae4216dfd29ccc342b2:h2h|888sport|Draw",
+    "5d6f9accd6f79ae4216dfd29ccc342b2:h2h|Betclic (FR)|Como",
+    "5d6f9accd6f79ae4216dfd29ccc342b2:h2h|Betclic (FR)|Draw",
+    "5d6f9accd6f79ae4216dfd29ccc342b2:h2h|Betfair|Como",
+    "5d6f9accd6f79ae4216dfd29ccc342b2:h2h|Betfair|Draw",
+    "5d6f9accd6f79ae4216dfd29ccc342b2:h2h|Betsson|Como",
+    "5d6f9accd6f79ae4216dfd29ccc342b2:h2h|Betsson|Draw",
+    "5d6f9accd6f79ae4216dfd29ccc342b2:h2h|Coolbet|Como",
+    "5d6f9accd6f79ae4216dfd29ccc342b2:h2h|Coolbet|Draw",
+    "5d6f9accd6f79ae4216dfd29ccc342b2:h2h|Nordic Bet|Como",
+    "5d6f9accd6f79ae4216dfd29ccc342b2:h2h|Nordic Bet|Draw",
+    "5d6f9accd6f79ae4216dfd29ccc342b2:h2h|Unibet (NL)|Como",
+    "5d6f9accd6f79ae4216dfd29ccc342b2:h2h|Unibet (NL)|Draw",
+    "5d6f9accd6f79ae4216dfd29ccc342b2:h2h|Unibet (SE)|Como",
+    "5d6f9accd6f79ae4216dfd29ccc342b2:h2h|Unibet (SE)|Draw",
+    "5d6f9accd6f79ae4216dfd29ccc342b2:h2h|Winamax (DE)|Como",
+    "5d6f9accd6f79ae4216dfd29ccc342b2:h2h|Winamax (DE)|Draw",
+    "5d6f9accd6f79ae4216dfd29ccc342b2:h2h|Winamax (FR)|Como",
+    "5d6f9accd6f79ae4216dfd29ccc342b2:h2h|Winamax (FR)|Draw",
+    "8ad777c4923ef3461062a88575a8cba5:h2h|Betfair|Draw",
+    "8ad777c4923ef3461062a88575a8cba5:h2h|Betfair|SG Sonnenhof Großaspach",
+    "8ad777c4923ef3461062a88575a8cba5:h2h|Tipico|SG Sonnenhof Großaspach",
+    "8ad777c4923ef3461062a88575a8cba5:h2h|Winamax (DE)|SG Sonnenhof Großaspach"
   ]
 }
