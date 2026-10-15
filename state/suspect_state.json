@@ -1,256 +1,376 @@
 {
   "snapshots": {
-    "73c2bda7c98562287112d911624d7526:h2h": {
-      "Betclic (FR)": {
-        "Al-Fayha": 100.0,
-        "Al-Khaleej": 1.0,
-        "Draw": 40.0
-      },
-      "888sport": {
-        "Al-Fayha": 151.0,
-        "Al-Khaleej": 1.0,
-        "Draw": 46.0
-      },
-      "William Hill": {
-        "Al-Fayha": 151.0,
-        "Al-Khaleej": 1.0,
-        "Draw": 61.0
-      },
-      "Betfair": {
-        "Al-Fayha": 110.0,
-        "Al-Khaleej": 1.01,
-        "Draw": 50.0
-      }
-    },
-    "26f75682caf19e87d42ec5ab55019b2a:h2h": {
-      "Unibet (NL)": {
-        "Al-Fateh": 16.0,
-        "Al-Hazem": 1.24,
-        "Draw": 3.95
-      },
-      "PMU (FR)": {
-        "Al-Fateh": 15.0,
-        "Al-Hazem": 1.16,
-        "Draw": 3.7
+    "314b3d8f825f3886ce4a2187d693d720:h2h": {
+      "Winamax (DE)": {
+        "Atlético Huracán": 2.3,
+        "Gimnasia La Plata": 3.0,
+        "Draw": 3.05
       },
       "LeoVegas (SE)": {
-        "Al-Fateh": 16.0,
-        "Al-Hazem": 1.22,
-        "Draw": 3.95
+        "Atlético Huracán": 2.25,
+        "Gimnasia La Plata": 2.9,
+        "Draw": 2.8
       },
-      "Unibet (SE)": {
-        "Al-Fateh": 17.0,
-        "Al-Hazem": 1.28,
-        "Draw": 4.2
+      "Unibet (FR)": {
+        "Atlético Huracán": 2.15,
+        "Gimnasia La Plata": 3.0,
+        "Draw": 2.95
       },
-      "Betclic (FR)": {
-        "Al-Fateh": 13.0,
-        "Al-Hazem": 1.25,
-        "Draw": 3.75
+      "Nordic Bet": {
+        "Atlético Huracán": 2.35,
+        "Gimnasia La Plata": 3.2,
+        "Draw": 2.92
       },
-      "Pinnacle": {
-        "Al-Fateh": 13.59,
-        "Al-Hazem": 1.34,
-        "Draw": 4.04
-      },
-      "Winamax (DE)": {
-        "Al-Fateh": 15.0,
-        "Al-Hazem": 1.28,
-        "Draw": 4.0
+      "Betsson": {
+        "Atlético Huracán": 2.35,
+        "Gimnasia La Plata": 3.2,
+        "Draw": 2.92
       },
       "Winamax (FR)": {
-        "Al-Fateh": 14.5,
-        "Al-Hazem": 1.27,
-        "Draw": 3.85
+        "Atlético Huracán": 2.25,
+        "Gimnasia La Plata": 2.95,
+        "Draw": 3.0
       },
-      "888sport": {
-        "Al-Fateh": 13.0,
-        "Al-Hazem": 1.25,
-        "Draw": 3.9
+      "Unibet (SE)": {
+        "Atlético Huracán": 2.4,
+        "Gimnasia La Plata": 3.1,
+        "Draw": 3.0
       },
-      "William Hill": {
-        "Al-Fateh": 12.0,
-        "Al-Hazem": 1.29,
-        "Draw": 3.8
+      "Betclic (FR)": {
+        "Atlético Huracán": 2.27,
+        "Gimnasia La Plata": 3.03,
+        "Draw": 2.95
       },
-      "Betfair": {
-        "Al-Fateh": 23.0,
-        "Al-Hazem": 1.3,
-        "Draw": 4.6
-      },
-      "Tipico": {
-        "Al-Fateh": 15.0,
-        "Al-Hazem": 1.25,
-        "Draw": 4.3
-      }
-    },
-    "431fc65e67cd737bceb5827118d3f7eb:h2h": {
-      "Pinnacle": {
-        "AC Milan": 1.94,
-        "Salzburg": 4.14,
-        "Draw": 3.58
-      },
-      "Winamax (DE)": {
-        "AC Milan": 1.88,
-        "Salzburg": 4.0,
-        "Draw": 3.3
+      "1xBet": {
+        "Atlético Huracán": 2.41,
+        "Gimnasia La Plata": 3.29,
+        "Draw": 3.0
       },
       "Codere (IT)": {
-        "AC Milan": 1.95,
-        "Salzburg": 3.8,
-        "Draw": 3.65
+        "Atlético Huracán": 2.39,
+        "Gimnasia La Plata": 3.15,
+        "Draw": 3.05
       },
-      "Unibet (FR)": {
-        "AC Milan": 1.83,
-        "Salzburg": 3.4,
-        "Draw": 3.3
+      "Pinnacle": {
+        "Atlético Huracán": 2.41,
+        "Gimnasia La Plata": 3.39,
+        "Draw": 3.09
       },
-      "Winamax (FR)": {
-        "AC Milan": 1.8,
-        "Salzburg": 3.85,
-        "Draw": 3.2
-      },
-      "1xBet": {
-        "AC Milan": 1.9,
-        "Salzburg": 4.17,
-        "Draw": 3.66
-      },
-      "Betclic (FR)": {
-        "AC Milan": 1.87,
-        "Salzburg": 3.4,
-        "Draw": 3.35
+      "BetOnline.ag": {
+        "Atlético Huracán": 2.41,
+        "Gimnasia La Plata": 3.35,
+        "Draw": 3.12
       },
       "Marathon Bet": {
-        "AC Milan": 1.87,
-        "Salzburg": 3.98,
-        "Draw": 3.42
+        "Atlético Huracán": 2.36,
+        "Gimnasia La Plata": 3.22,
+        "Draw": 2.94
+      },
+      "Betfair": {
+        "Atlético Huracán": 2.46,
+        "Gimnasia La Plata": 3.45,
+        "Draw": 3.2
+      }
+    },
+    "d02dc730313f4d3454742acf7971179b:h2h": {
+      "Unibet (FR)": {
+        "Estudiantes La Plata": 3.65,
+        "Flamengo-RJ": 1.97,
+        "Draw": 2.85
+      },
+      "Betclic (FR)": {
+        "Estudiantes La Plata": 3.68,
+        "Flamengo-RJ": 2.1,
+        "Draw": 2.85
+      },
+      "1xBet": {
+        "Estudiantes La Plata": 4.11,
+        "Flamengo-RJ": 2.15,
+        "Draw": 3.0
+      },
+      "Codere (IT)": {
+        "Estudiantes La Plata": 3.75,
+        "Flamengo-RJ": 2.17,
+        "Draw": 2.9
+      },
+      "Betfair": {
+        "Estudiantes La Plata": 4.4,
+        "Flamengo-RJ": 2.2,
+        "Draw": 3.0
+      },
+      "Coolbet": {
+        "Estudiantes La Plata": 4.15,
+        "Flamengo-RJ": 2.2,
+        "Draw": 2.97
+      },
+      "Winamax (FR)": {
+        "Estudiantes La Plata": 3.5,
+        "Flamengo-RJ": 2.05,
+        "Draw": 2.85
+      },
+      "Winamax (DE)": {
+        "Estudiantes La Plata": 3.55,
+        "Flamengo-RJ": 2.1,
+        "Draw": 2.9
+      },
+      "Nordic Bet": {
+        "Estudiantes La Plata": 3.95,
+        "Flamengo-RJ": 2.12,
+        "Draw": 2.82
+      },
+      "Betsson": {
+        "Estudiantes La Plata": 3.95,
+        "Flamengo-RJ": 2.12,
+        "Draw": 2.82
+      },
+      "Unibet (NL)": {
+        "Estudiantes La Plata": 3.75,
+        "Flamengo-RJ": 2.15,
+        "Draw": 2.9
+      },
+      "LeoVegas (SE)": {
+        "Estudiantes La Plata": 3.65,
+        "Flamengo-RJ": 2.12,
+        "Draw": 2.85
+      },
+      "PMU (FR)": {
+        "Estudiantes La Plata": 3.55,
+        "Flamengo-RJ": 2.06,
+        "Draw": 2.75
+      },
+      "Marathon Bet": {
+        "Estudiantes La Plata": 3.98,
+        "Flamengo-RJ": 2.08,
+        "Draw": 2.91
+      },
+      "Pinnacle": {
+        "Estudiantes La Plata": 4.12,
+        "Flamengo-RJ": 2.18,
+        "Draw": 2.95
+      },
+      "Tipico": {
+        "Estudiantes La Plata": 4.2,
+        "Flamengo-RJ": 2.05,
+        "Draw": 2.9
       },
       "888sport": {
-        "AC Milan": 1.8,
-        "Salzburg": 4.0,
+        "Estudiantes La Plata": 3.8,
+        "Flamengo-RJ": 2.1,
+        "Draw": 2.8
+      },
+      "William Hill": {
+        "Estudiantes La Plata": 3.8,
+        "Flamengo-RJ": 2.1,
+        "Draw": 2.8
+      },
+      "GTbets": {
+        "Estudiantes La Plata": 3.86,
+        "Flamengo-RJ": 2.13,
+        "Draw": 3.1
+      },
+      "BetOnline.ag": {
+        "Estudiantes La Plata": 4.47,
+        "Flamengo-RJ": 2.12,
+        "Draw": 2.95
+      }
+    },
+    "f3b6d9ee5669fbf72d965f8ce83a908a:h2h": {
+      "William Hill": {
+        "Sydney FC": 2.2,
+        "Western Sydney Wanderers": 2.9,
+        "Draw": 3.4
+      },
+      "Unibet (FR)": {
+        "Sydney FC": 1.96,
+        "Western Sydney Wanderers": 2.9,
+        "Draw": 3.4
+      },
+      "888sport": {
+        "Sydney FC": 2.2,
+        "Western Sydney Wanderers": 2.9,
+        "Draw": 3.4
+      },
+      "Winamax (FR)": {
+        "Sydney FC": 2.05,
+        "Western Sydney Wanderers": 2.8,
+        "Draw": 3.45
+      },
+      "Winamax (DE)": {
+        "Sydney FC": 2.1,
+        "Western Sydney Wanderers": 2.85,
+        "Draw": 3.5
+      },
+      "Codere (IT)": {
+        "Sydney FC": 2.21,
+        "Western Sydney Wanderers": 3.05,
+        "Draw": 3.55
+      },
+      "Betsson": {
+        "Sydney FC": 2.22,
+        "Western Sydney Wanderers": 2.95,
+        "Draw": 3.45
+      },
+      "Nordic Bet": {
+        "Sydney FC": 2.22,
+        "Western Sydney Wanderers": 2.95,
+        "Draw": 3.45
+      },
+      "Marathon Bet": {
+        "Sydney FC": 2.18,
+        "Western Sydney Wanderers": 2.97,
+        "Draw": 3.58
+      },
+      "Pinnacle": {
+        "Sydney FC": 2.24,
+        "Western Sydney Wanderers": 3.03,
+        "Draw": 3.81
+      },
+      "Betfair": {
+        "Sydney FC": 2.36,
+        "Western Sydney Wanderers": 3.1,
+        "Draw": 3.8
+      },
+      "Coolbet": {
+        "Sydney FC": 2.26,
+        "Western Sydney Wanderers": 2.95,
+        "Draw": 3.75
+      },
+      "GTbets": {
+        "Sydney FC": 2.19,
+        "Western Sydney Wanderers": 3.09,
+        "Draw": 3.7
+      },
+      "LeoVegas (SE)": {
+        "Sydney FC": 2.07,
+        "Western Sydney Wanderers": 3.1,
+        "Draw": 3.55
+      },
+      "Unibet (SE)": {
+        "Sydney FC": 2.08,
+        "Western Sydney Wanderers": 3.1,
+        "Draw": 3.55
+      },
+      "PMU (FR)": {
+        "Sydney FC": 2.0,
+        "Western Sydney Wanderers": 3.0,
+        "Draw": 3.4
+      },
+      "Unibet (NL)": {
+        "Sydney FC": 2.08,
+        "Western Sydney Wanderers": 3.1,
+        "Draw": 3.55
+      },
+      "BetOnline.ag": {
+        "Sydney FC": 2.25,
+        "Western Sydney Wanderers": 3.05,
+        "Draw": 3.8
+      },
+      "Matchbook": {
+        "Sydney FC": 2.3,
+        "Western Sydney Wanderers": 3.0,
+        "Draw": 3.65
+      }
+    },
+    "c80bf049e66d05c1a83afb980fd36d0e:h2h": {
+      "BetOnline.ag": {
+        "Henan FC": 1.86,
+        "Tianjin Jinmen Tiger FC": 4.4,
+        "Draw": 3.45
+      },
+      "Winamax (DE)": {
+        "Henan FC": 1.74,
+        "Tianjin Jinmen Tiger FC": 4.1,
+        "Draw": 3.6
+      },
+      "Winamax (FR)": {
+        "Henan FC": 1.72,
+        "Tianjin Jinmen Tiger FC": 4.0,
+        "Draw": 3.5
+      },
+      "Coolbet": {
+        "Henan FC": 1.78,
+        "Tianjin Jinmen Tiger FC": 4.4,
+        "Draw": 3.75
+      },
+      "Betsson": {
+        "Henan FC": 1.75,
+        "Tianjin Jinmen Tiger FC": 4.2,
+        "Draw": 3.45
+      },
+      "Nordic Bet": {
+        "Henan FC": 1.75,
+        "Tianjin Jinmen Tiger FC": 4.2,
+        "Draw": 3.45
+      },
+      "Unibet (FR)": {
+        "Henan FC": 1.61,
+        "Tianjin Jinmen Tiger FC": 4.0,
+        "Draw": 3.4
+      },
+      "1xBet": {
+        "Henan FC": 1.81,
+        "Tianjin Jinmen Tiger FC": 4.36,
+        "Draw": 3.75
+      },
+      "GTbets": {
+        "Henan FC": 1.72,
+        "Tianjin Jinmen Tiger FC": 4.34,
+        "Draw": 3.74
+      },
+      "Pinnacle": {
+        "Henan FC": 1.83,
+        "Tianjin Jinmen Tiger FC": 4.62,
+        "Draw": 3.51
+      },
+      "888sport": {
+        "Henan FC": 1.8,
+        "Tianjin Jinmen Tiger FC": 4.0,
         "Draw": 3.4
       },
       "William Hill": {
-        "AC Milan": 1.91,
-        "Salzburg": 3.8,
+        "Henan FC": 1.8,
+        "Tianjin Jinmen Tiger FC": 4.0,
         "Draw": 3.4
       },
-      "Betfair": {
-        "AC Milan": 1.91,
-        "Salzburg": 4.4,
-        "Draw": 3.8
-      },
-      "Betsson": {
-        "AC Milan": 1.95,
-        "Salzburg": 3.95,
-        "Draw": 3.5
-      },
-      "Nordic Bet": {
-        "AC Milan": 1.92,
-        "Salzburg": 3.5,
-        "Draw": 3.5
-      },
-      "PMU (FR)": {
-        "AC Milan": 1.81,
-        "Salzburg": 3.65,
-        "Draw": 3.2
-      },
       "LeoVegas (SE)": {
-        "AC Milan": 1.91,
-        "Salzburg": 3.85,
-        "Draw": 3.35
+        "Henan FC": 1.7,
+        "Tianjin Jinmen Tiger FC": 4.0,
+        "Draw": 3.5
       },
       "Unibet (SE)": {
-        "AC Milan": 1.91,
-        "Salzburg": 3.85,
-        "Draw": 3.35
+        "Henan FC": 1.77,
+        "Tianjin Jinmen Tiger FC": 4.25,
+        "Draw": 3.7
       },
       "Unibet (NL)": {
-        "AC Milan": 1.91,
-        "Salzburg": 3.85,
-        "Draw": 3.35
-      },
-      "Coolbet": {
-        "AC Milan": 1.9,
-        "Salzburg": 4.3,
-        "Draw": 3.55
-      },
-      "Matchbook": {
-        "AC Milan": 1.9,
-        "Salzburg": 4.6,
-        "Draw": 3.8
-      },
-      "BetOnline.ag": {
-        "AC Milan": 1.96,
-        "Salzburg": 3.92,
+        "Henan FC": 1.77,
+        "Tianjin Jinmen Tiger FC": 4.25,
         "Draw": 3.7
-      }
-    },
-    "c88779b8088f864930fe423c5e0523ce:h2h": {
-      "Coolbet": {
-        "AGF Aarhus": 5.5,
-        "Gent": 1.65,
-        "Draw": 3.85
-      },
-      "Betfair": {
-        "AGF Aarhus": 6.0,
-        "Gent": 1.68,
-        "Draw": 4.1
-      },
-      "1xBet": {
-        "AGF Aarhus": 4.82,
-        "Gent": 1.64,
-        "Draw": 4.26
-      },
-      "Betclic (FR)": {
-        "AGF Aarhus": 4.9,
-        "Gent": 1.55,
-        "Draw": 3.4
-      },
-      "888sport": {
-        "AGF Aarhus": 5.0,
-        "Gent": 1.6,
-        "Draw": 3.8
       },
       "Marathon Bet": {
-        "AGF Aarhus": 5.15,
-        "Gent": 1.57,
-        "Draw": 3.68
+        "Henan FC": 1.75,
+        "Tianjin Jinmen Tiger FC": 4.2,
+        "Draw": 3.62
       },
-      "Unibet (NL)": {
-        "AGF Aarhus": 4.9,
-        "Gent": 1.66,
-        "Draw": 3.6
-      },
-      "Betsson": {
-        "AGF Aarhus": 5.35,
-        "Gent": 1.6,
+      "Tipico": {
+        "Henan FC": 1.72,
+        "Tianjin Jinmen Tiger FC": 4.5,
         "Draw": 3.5
       },
-      "Nordic Bet": {
-        "AGF Aarhus": 5.35,
-        "Gent": 1.6,
-        "Draw": 3.5
+      "Betfair": {
+        "Henan FC": 1.86,
+        "Tianjin Jinmen Tiger FC": 4.7,
+        "Draw": 3.55
       },
-      "Pinnacle": {
-        "AGF Aarhus": 5.34,
-        "Gent": 1.64,
-        "Draw": 4.09
+      "Codere (IT)": {
+        "Henan FC": 1.74,
+        "Tianjin Jinmen Tiger FC": 4.1,
+        "Draw": 3.4
       },
-      "LeoVegas (SE)": {
-        "AGF Aarhus": 5.0,
-        "Gent": 1.63,
-        "Draw": 3.7
-      },
-      "Unibet (FR)": {
-        "AGF Aarhus": 4.4,
-        "Gent": 1.56,
-        "Draw": 3.6
-      },
-      "BetOnline.ag": {
-        "AGF Aarhus": 5.25,
-        "Gent": 1.6,
-        "Draw": 4.3
+      "Matchbook": {
+        "Henan FC": 1.86,
+        "Tianjin Jinmen Tiger FC": 4.7,
+        "Draw": 3.55
       }
     }
   },
@@ -4386,13 +4506,5 @@
     }
   ],
   "results_history": [],
-  "value_alerted": [
-    "26f75682caf19e87d42ec5ab55019b2a:h2h|Betfair|Al-Fateh",
-    "26f75682caf19e87d42ec5ab55019b2a:h2h|Betfair|Draw",
-    "26f75682caf19e87d42ec5ab55019b2a:h2h|LeoVegas (SE)|Al-Fateh",
-    "26f75682caf19e87d42ec5ab55019b2a:h2h|Unibet (NL)|Al-Fateh",
-    "26f75682caf19e87d42ec5ab55019b2a:h2h|Unibet (SE)|Al-Fateh",
-    "431fc65e67cd737bceb5827118d3f7eb:h2h|Matchbook|Salzburg",
-    "c88779b8088f864930fe423c5e0523ce:h2h|Betfair|AGF Aarhus"
-  ]
+  "value_alerted": []
 }
