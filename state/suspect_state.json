@@ -1,306 +1,256 @@
 {
   "snapshots": {
-    "a74e4129359ca0b7f38d00565c792c8a:h2h": {
-      "Unibet (NL)": {
-        "Al-Faisaly KSA FC": 3.1,
-        "Al-Kholood": 2.12,
-        "Draw": 3.2
-      },
-      "Unibet (SE)": {
-        "Al-Faisaly KSA FC": 3.1,
-        "Al-Kholood": 2.12,
-        "Draw": 3.2
-      },
-      "LeoVegas (SE)": {
-        "Al-Faisaly KSA FC": 3.05,
-        "Al-Kholood": 2.07,
-        "Draw": 3.15
-      },
-      "PMU (FR)": {
-        "Al-Faisaly KSA FC": 2.95,
-        "Al-Kholood": 2.0,
-        "Draw": 3.05
-      },
-      "Unibet (FR)": {
-        "Al-Faisaly KSA FC": 2.85,
-        "Al-Kholood": 2.05,
-        "Draw": 3.05
-      },
-      "1xBet": {
-        "Al-Faisaly KSA FC": 3.1,
-        "Al-Kholood": 2.23,
-        "Draw": 3.35
-      },
-      "Pinnacle": {
-        "Al-Faisaly KSA FC": 3.06,
-        "Al-Kholood": 2.37,
-        "Draw": 3.33
-      },
-      "Winamax (DE)": {
-        "Al-Faisaly KSA FC": 2.9,
-        "Al-Kholood": 2.2,
-        "Draw": 3.25
-      },
-      "Winamax (FR)": {
-        "Al-Faisaly KSA FC": 2.85,
-        "Al-Kholood": 2.2,
-        "Draw": 3.2
-      },
-      "William Hill": {
-        "Al-Faisaly KSA FC": 2.9,
-        "Al-Kholood": 2.2,
-        "Draw": 3.0
-      },
-      "888sport": {
-        "Al-Faisaly KSA FC": 2.9,
-        "Al-Kholood": 2.2,
-        "Draw": 3.0
-      },
-      "Betfair": {
-        "Al-Faisaly KSA FC": 3.25,
-        "Al-Kholood": 2.42,
-        "Draw": 3.4
-      },
-      "Tipico": {
-        "Al-Faisaly KSA FC": 3.1,
-        "Al-Kholood": 2.2,
-        "Draw": 3.2
-      }
-    },
     "73c2bda7c98562287112d911624d7526:h2h": {
-      "Unibet (NL)": {
-        "Al-Fayha": 3.25,
-        "Al-Khaleej": 2.05,
-        "Draw": 3.25
-      },
-      "Unibet (SE)": {
-        "Al-Fayha": 3.25,
-        "Al-Khaleej": 2.05,
-        "Draw": 3.25
-      },
-      "LeoVegas (SE)": {
-        "Al-Fayha": 3.2,
-        "Al-Khaleej": 2.0,
-        "Draw": 3.15
-      },
-      "PMU (FR)": {
-        "Al-Fayha": 3.05,
-        "Al-Khaleej": 1.93,
-        "Draw": 3.05
-      },
-      "Unibet (FR)": {
-        "Al-Fayha": 3.0,
-        "Al-Khaleej": 1.91,
-        "Draw": 3.2
-      },
-      "Winamax (FR)": {
-        "Al-Fayha": 3.0,
-        "Al-Khaleej": 2.05,
-        "Draw": 3.35
-      },
-      "Winamax (DE)": {
-        "Al-Fayha": 3.05,
-        "Al-Khaleej": 2.1,
-        "Draw": 3.4
-      },
-      "Pinnacle": {
-        "Al-Fayha": 3.27,
-        "Al-Khaleej": 2.2,
-        "Draw": 3.45
-      },
-      "1xBet": {
-        "Al-Fayha": 3.27,
-        "Al-Khaleej": 2.1,
-        "Draw": 3.47
+      "Betclic (FR)": {
+        "Al-Fayha": 100.0,
+        "Al-Khaleej": 1.0,
+        "Draw": 40.0
       },
       "888sport": {
-        "Al-Fayha": 3.0,
-        "Al-Khaleej": 2.1,
-        "Draw": 3.1
+        "Al-Fayha": 151.0,
+        "Al-Khaleej": 1.0,
+        "Draw": 46.0
       },
       "William Hill": {
-        "Al-Fayha": 3.0,
-        "Al-Khaleej": 2.1,
-        "Draw": 3.1
+        "Al-Fayha": 151.0,
+        "Al-Khaleej": 1.0,
+        "Draw": 61.0
       },
       "Betfair": {
-        "Al-Fayha": 3.45,
-        "Al-Khaleej": 2.26,
-        "Draw": 3.55
-      },
-      "Tipico": {
-        "Al-Fayha": 3.3,
-        "Al-Khaleej": 2.05,
-        "Draw": 3.4
+        "Al-Fayha": 110.0,
+        "Al-Khaleej": 1.01,
+        "Draw": 50.0
       }
     },
     "26f75682caf19e87d42ec5ab55019b2a:h2h": {
       "Unibet (NL)": {
-        "Al-Fateh": 2.8,
-        "Al-Hazem": 2.25,
-        "Draw": 3.3
+        "Al-Fateh": 16.0,
+        "Al-Hazem": 1.24,
+        "Draw": 3.95
       },
       "PMU (FR)": {
-        "Al-Fateh": 2.63,
-        "Al-Hazem": 2.12,
-        "Draw": 3.15
+        "Al-Fateh": 15.0,
+        "Al-Hazem": 1.16,
+        "Draw": 3.7
       },
       "LeoVegas (SE)": {
-        "Al-Fateh": 2.7,
-        "Al-Hazem": 2.2,
-        "Draw": 3.25
+        "Al-Fateh": 16.0,
+        "Al-Hazem": 1.22,
+        "Draw": 3.95
       },
       "Unibet (SE)": {
-        "Al-Fateh": 2.8,
-        "Al-Hazem": 2.25,
-        "Draw": 3.3
+        "Al-Fateh": 17.0,
+        "Al-Hazem": 1.28,
+        "Draw": 4.2
       },
-      "Unibet (FR)": {
-        "Al-Fateh": 2.9,
-        "Al-Hazem": 1.89,
-        "Draw": 3.4
+      "Betclic (FR)": {
+        "Al-Fateh": 13.0,
+        "Al-Hazem": 1.25,
+        "Draw": 3.75
       },
       "Pinnacle": {
-        "Al-Fateh": 3.18,
-        "Al-Hazem": 2.12,
-        "Draw": 3.79
+        "Al-Fateh": 13.59,
+        "Al-Hazem": 1.34,
+        "Draw": 4.04
       },
       "Winamax (DE)": {
-        "Al-Fateh": 2.95,
-        "Al-Hazem": 2.05,
-        "Draw": 3.65
+        "Al-Fateh": 15.0,
+        "Al-Hazem": 1.28,
+        "Draw": 4.0
       },
       "Winamax (FR)": {
-        "Al-Fateh": 2.9,
-        "Al-Hazem": 2.05,
-        "Draw": 3.55
-      },
-      "1xBet": {
-        "Al-Fateh": 2.98,
-        "Al-Hazem": 2.19,
-        "Draw": 3.6
-      },
-      "888sport": {
-        "Al-Fateh": 2.88,
-        "Al-Hazem": 2.05,
-        "Draw": 3.4
-      },
-      "William Hill": {
-        "Al-Fateh": 2.88,
-        "Al-Hazem": 2.05,
-        "Draw": 3.4
-      },
-      "Betfair": {
-        "Al-Fateh": 3.25,
-        "Al-Hazem": 2.24,
+        "Al-Fateh": 14.5,
+        "Al-Hazem": 1.27,
         "Draw": 3.85
       },
+      "888sport": {
+        "Al-Fateh": 13.0,
+        "Al-Hazem": 1.25,
+        "Draw": 3.9
+      },
+      "William Hill": {
+        "Al-Fateh": 12.0,
+        "Al-Hazem": 1.29,
+        "Draw": 3.8
+      },
+      "Betfair": {
+        "Al-Fateh": 23.0,
+        "Al-Hazem": 1.3,
+        "Draw": 4.6
+      },
       "Tipico": {
-        "Al-Fateh": 3.1,
-        "Al-Hazem": 2.05,
-        "Draw": 3.6
+        "Al-Fateh": 15.0,
+        "Al-Hazem": 1.25,
+        "Draw": 4.3
       }
     },
     "431fc65e67cd737bceb5827118d3f7eb:h2h": {
       "Pinnacle": {
         "AC Milan": 1.94,
-        "Salzburg": 3.81,
-        "Draw": 3.87
+        "Salzburg": 4.14,
+        "Draw": 3.58
       },
       "Winamax (DE)": {
-        "AC Milan": 1.9,
-        "Salzburg": 3.65,
-        "Draw": 3.75
+        "AC Milan": 1.88,
+        "Salzburg": 4.0,
+        "Draw": 3.3
       },
       "Codere (IT)": {
-        "AC Milan": 1.98,
-        "Salzburg": 3.55,
-        "Draw": 3.8
+        "AC Milan": 1.95,
+        "Salzburg": 3.8,
+        "Draw": 3.65
       },
       "Unibet (FR)": {
-        "AC Milan": 1.88,
-        "Salzburg": 3.3,
-        "Draw": 3.5
+        "AC Milan": 1.83,
+        "Salzburg": 3.4,
+        "Draw": 3.3
       },
       "Winamax (FR)": {
-        "AC Milan": 1.86,
-        "Salzburg": 3.5,
-        "Draw": 3.6
+        "AC Milan": 1.8,
+        "Salzburg": 3.85,
+        "Draw": 3.2
       },
       "1xBet": {
-        "AC Milan": 2.02,
-        "Salzburg": 3.68,
-        "Draw": 3.78
+        "AC Milan": 1.9,
+        "Salzburg": 4.17,
+        "Draw": 3.66
       },
       "Betclic (FR)": {
-        "AC Milan": 1.9,
-        "Salzburg": 3.45,
-        "Draw": 3.65
+        "AC Milan": 1.87,
+        "Salzburg": 3.4,
+        "Draw": 3.35
       },
       "Marathon Bet": {
-        "AC Milan": 2.02,
-        "Salzburg": 3.68,
-        "Draw": 3.78
+        "AC Milan": 1.87,
+        "Salzburg": 3.98,
+        "Draw": 3.42
       },
       "888sport": {
-        "AC Milan": 1.95,
-        "Salzburg": 3.5,
-        "Draw": 3.5
+        "AC Milan": 1.8,
+        "Salzburg": 4.0,
+        "Draw": 3.4
       },
       "William Hill": {
+        "AC Milan": 1.91,
+        "Salzburg": 3.8,
+        "Draw": 3.4
+      },
+      "Betfair": {
+        "AC Milan": 1.91,
+        "Salzburg": 4.4,
+        "Draw": 3.8
+      },
+      "Betsson": {
         "AC Milan": 1.95,
+        "Salzburg": 3.95,
+        "Draw": 3.5
+      },
+      "Nordic Bet": {
+        "AC Milan": 1.92,
         "Salzburg": 3.5,
         "Draw": 3.5
       },
-      "Betfair": {
-        "AC Milan": 2.0,
-        "Salzburg": 3.95,
-        "Draw": 4.0
-      },
-      "Betsson": {
-        "AC Milan": 1.98,
-        "Salzburg": 3.7,
-        "Draw": 3.65
-      },
-      "Nordic Bet": {
-        "AC Milan": 1.98,
-        "Salzburg": 3.75,
-        "Draw": 3.7
-      },
       "PMU (FR)": {
-        "AC Milan": 1.92,
-        "Salzburg": 3.3,
-        "Draw": 3.55
+        "AC Milan": 1.81,
+        "Salzburg": 3.65,
+        "Draw": 3.2
       },
       "LeoVegas (SE)": {
-        "AC Milan": 1.94,
-        "Salzburg": 3.4,
-        "Draw": 3.6
+        "AC Milan": 1.91,
+        "Salzburg": 3.85,
+        "Draw": 3.35
       },
       "Unibet (SE)": {
-        "AC Milan": 2.02,
-        "Salzburg": 3.6,
-        "Draw": 3.85
+        "AC Milan": 1.91,
+        "Salzburg": 3.85,
+        "Draw": 3.35
       },
       "Unibet (NL)": {
-        "AC Milan": 2.02,
-        "Salzburg": 3.6,
-        "Draw": 3.85
+        "AC Milan": 1.91,
+        "Salzburg": 3.85,
+        "Draw": 3.35
       },
       "Coolbet": {
-        "AC Milan": 2.05,
-        "Salzburg": 3.63,
-        "Draw": 3.75
+        "AC Milan": 1.9,
+        "Salzburg": 4.3,
+        "Draw": 3.55
       },
       "Matchbook": {
-        "AC Milan": 2.0,
-        "Salzburg": 3.95,
-        "Draw": 4.0
+        "AC Milan": 1.9,
+        "Salzburg": 4.6,
+        "Draw": 3.8
       },
       "BetOnline.ag": {
-        "AC Milan": 1.97,
-        "Salzburg": 3.73,
+        "AC Milan": 1.96,
+        "Salzburg": 3.92,
+        "Draw": 3.7
+      }
+    },
+    "c88779b8088f864930fe423c5e0523ce:h2h": {
+      "Coolbet": {
+        "AGF Aarhus": 5.5,
+        "Gent": 1.65,
         "Draw": 3.85
+      },
+      "Betfair": {
+        "AGF Aarhus": 6.0,
+        "Gent": 1.68,
+        "Draw": 4.1
+      },
+      "1xBet": {
+        "AGF Aarhus": 4.82,
+        "Gent": 1.64,
+        "Draw": 4.26
+      },
+      "Betclic (FR)": {
+        "AGF Aarhus": 4.9,
+        "Gent": 1.55,
+        "Draw": 3.4
+      },
+      "888sport": {
+        "AGF Aarhus": 5.0,
+        "Gent": 1.6,
+        "Draw": 3.8
+      },
+      "Marathon Bet": {
+        "AGF Aarhus": 5.15,
+        "Gent": 1.57,
+        "Draw": 3.68
+      },
+      "Unibet (NL)": {
+        "AGF Aarhus": 4.9,
+        "Gent": 1.66,
+        "Draw": 3.6
+      },
+      "Betsson": {
+        "AGF Aarhus": 5.35,
+        "Gent": 1.6,
+        "Draw": 3.5
+      },
+      "Nordic Bet": {
+        "AGF Aarhus": 5.35,
+        "Gent": 1.6,
+        "Draw": 3.5
+      },
+      "Pinnacle": {
+        "AGF Aarhus": 5.34,
+        "Gent": 1.64,
+        "Draw": 4.09
+      },
+      "LeoVegas (SE)": {
+        "AGF Aarhus": 5.0,
+        "Gent": 1.63,
+        "Draw": 3.7
+      },
+      "Unibet (FR)": {
+        "AGF Aarhus": 4.4,
+        "Gent": 1.56,
+        "Draw": 3.6
+      },
+      "BetOnline.ag": {
+        "AGF Aarhus": 5.25,
+        "Gent": 1.6,
+        "Draw": 4.3
       }
     }
   },
@@ -4321,8 +4271,128 @@
       "confidence": 275,
       "alert_type": "value",
       "alerted_at": "2026-10-15T04:28:18.897377+00:00"
+    },
+    {
+      "state_key": "26f75682caf19e87d42ec5ab55019b2a:h2h",
+      "event_id": "26f75682caf19e87d42ec5ab55019b2a",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Hazem",
+      "away_team": "Al-Fateh",
+      "commence_time": "2026-10-15T15:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Fateh",
+      "odds_at_alert": 16.0,
+      "stake_pct": 3.0,
+      "confidence": 10,
+      "alert_type": "value",
+      "alerted_at": "2026-10-15T16:52:50.728492+00:00"
+    },
+    {
+      "state_key": "26f75682caf19e87d42ec5ab55019b2a:h2h",
+      "event_id": "26f75682caf19e87d42ec5ab55019b2a",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Hazem",
+      "away_team": "Al-Fateh",
+      "commence_time": "2026-10-15T15:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Fateh",
+      "odds_at_alert": 16.0,
+      "stake_pct": 3.0,
+      "confidence": 10,
+      "alert_type": "value",
+      "alerted_at": "2026-10-15T16:52:51.189362+00:00"
+    },
+    {
+      "state_key": "26f75682caf19e87d42ec5ab55019b2a:h2h",
+      "event_id": "26f75682caf19e87d42ec5ab55019b2a",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Hazem",
+      "away_team": "Al-Fateh",
+      "commence_time": "2026-10-15T15:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Fateh",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 17,
+      "alert_type": "value",
+      "alerted_at": "2026-10-15T16:52:51.656593+00:00"
+    },
+    {
+      "state_key": "26f75682caf19e87d42ec5ab55019b2a:h2h",
+      "event_id": "26f75682caf19e87d42ec5ab55019b2a",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Hazem",
+      "away_team": "Al-Fateh",
+      "commence_time": "2026-10-15T15:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Fateh",
+      "odds_at_alert": 23.0,
+      "stake_pct": 5.0,
+      "confidence": 59,
+      "alert_type": "value",
+      "alerted_at": "2026-10-15T16:52:52.173252+00:00"
+    },
+    {
+      "state_key": "26f75682caf19e87d42ec5ab55019b2a:h2h",
+      "event_id": "26f75682caf19e87d42ec5ab55019b2a",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Hazem",
+      "away_team": "Al-Fateh",
+      "commence_time": "2026-10-15T15:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.6,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-10-15T16:52:52.636758+00:00"
+    },
+    {
+      "state_key": "431fc65e67cd737bceb5827118d3f7eb:h2h",
+      "event_id": "431fc65e67cd737bceb5827118d3f7eb",
+      "sport_key": "soccer",
+      "competition": "UEFA Europa League",
+      "home_team": "Salzburg",
+      "away_team": "AC Milan",
+      "commence_time": "2026-10-15T16:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Salzburg",
+      "odds_at_alert": 4.6,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-10-15T16:52:53.103681+00:00"
+    },
+    {
+      "state_key": "c88779b8088f864930fe423c5e0523ce:h2h",
+      "event_id": "c88779b8088f864930fe423c5e0523ce",
+      "sport_key": "soccer",
+      "competition": "UEFA Europa Conference League",
+      "home_team": "Gent",
+      "away_team": "AGF Aarhus",
+      "commence_time": "2026-10-15T16:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "AGF Aarhus",
+      "odds_at_alert": 6.0,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-10-15T16:52:53.555409+00:00"
     }
   ],
   "results_history": [],
-  "value_alerted": []
+  "value_alerted": [
+    "26f75682caf19e87d42ec5ab55019b2a:h2h|Betfair|Al-Fateh",
+    "26f75682caf19e87d42ec5ab55019b2a:h2h|Betfair|Draw",
+    "26f75682caf19e87d42ec5ab55019b2a:h2h|LeoVegas (SE)|Al-Fateh",
+    "26f75682caf19e87d42ec5ab55019b2a:h2h|Unibet (NL)|Al-Fateh",
+    "26f75682caf19e87d42ec5ab55019b2a:h2h|Unibet (SE)|Al-Fateh",
+    "431fc65e67cd737bceb5827118d3f7eb:h2h|Matchbook|Salzburg",
+    "c88779b8088f864930fe423c5e0523ce:h2h|Betfair|AGF Aarhus"
+  ]
 }
