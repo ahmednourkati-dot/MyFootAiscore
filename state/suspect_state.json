@@ -1,256 +1,251 @@
 {
   "snapshots": {
-    "bd1d717f949f57694664f9ba11139851:h2h": {
-      "Betclic (FR)": {
-        "Raków Częstochowa": 1.02,
-        "Wieczysta Kraków": 100.0,
-        "Draw": 10.0
-      },
-      "Nordic Bet": {
-        "Raków Częstochowa": 6.3,
-        "Wieczysta Kraków": 5.8,
-        "Draw": 1.28
-      },
-      "Winamax (FR)": {
-        "Raków Częstochowa": 1.05,
-        "Wieczysta Kraków": 160.0,
-        "Draw": 12.5
-      },
-      "Winamax (DE)": {
-        "Raków Częstochowa": 1.03,
-        "Wieczysta Kraków": 160.0,
-        "Draw": 13.0
-      },
-      "Betsson": {
-        "Raków Częstochowa": 6.8,
-        "Wieczysta Kraków": 5.35,
-        "Draw": 1.28
-      },
-      "Coolbet": {
-        "Raków Częstochowa": 1.01,
-        "Wieczysta Kraków": 200.0,
-        "Draw": 13.0
-      },
-      "Pinnacle": {
-        "Raków Częstochowa": 7.16,
-        "Wieczysta Kraków": 5.6,
-        "Draw": 1.32
-      },
-      "888sport": {
-        "Raków Częstochowa": 1.04,
-        "Wieczysta Kraków": 126.0,
-        "Draw": 12.0
-      },
-      "Tipico": {
-        "Raków Częstochowa": 1.01,
-        "Wieczysta Kraków": 400.0,
-        "Draw": 25.0
-      },
-      "Betfair": {
-        "Raków Częstochowa": 1.03,
-        "Wieczysta Kraków": 5.5,
-        "Draw": 17.5
-      }
-    },
-    "f6efe77542b7ee5bfb4ee3bc1e7368c4:h2h": {
-      "Tipico": {
-        "1. FC Nürnberg": 6.0,
-        "FC Energie Cottbus": 1.55,
-        "Draw": 3.6
-      },
-      "PMU (FR)": {
-        "1. FC Nürnberg": 6.25,
-        "FC Energie Cottbus": 1.42,
-        "Draw": 2.95
-      },
-      "Unibet (SE)": {
-        "1. FC Nürnberg": 6.75,
-        "FC Energie Cottbus": 1.56,
-        "Draw": 3.2
+    "5fc1c0491dc2f2c13afce1b5d0172165:h2h": {
+      "LeoVegas (SE)": {
+        "Shelbourne Dublin": 1.03,
+        "St Patricks Athletic": 76.0,
+        "Draw": 7.5
       },
       "Unibet (NL)": {
-        "1. FC Nürnberg": 6.75,
-        "FC Energie Cottbus": 1.56,
-        "Draw": 3.2
-      },
-      "LeoVegas (SE)": {
-        "1. FC Nürnberg": 6.4,
-        "FC Energie Cottbus": 1.45,
-        "Draw": 3.05
-      },
-      "Nordic Bet": {
-        "1. FC Nürnberg": 6.8,
-        "FC Energie Cottbus": 1.55,
-        "Draw": 3.3
-      },
-      "Betclic (FR)": {
-        "1. FC Nürnberg": 6.1,
-        "FC Energie Cottbus": 1.53,
-        "Draw": 3.15
-      },
-      "Winamax (DE)": {
-        "1. FC Nürnberg": 7.25,
-        "FC Energie Cottbus": 1.56,
-        "Draw": 3.1
-      },
-      "Betsson": {
-        "1. FC Nürnberg": 6.8,
-        "FC Energie Cottbus": 1.55,
-        "Draw": 3.3
-      },
-      "Winamax (FR)": {
-        "1. FC Nürnberg": 6.0,
-        "FC Energie Cottbus": 1.52,
-        "Draw": 3.3
-      },
-      "Coolbet": {
-        "1. FC Nürnberg": 7.5,
-        "FC Energie Cottbus": 1.6,
-        "Draw": 3.6
-      },
-      "Pinnacle": {
-        "1. FC Nürnberg": 6.2,
-        "FC Energie Cottbus": 1.7,
-        "Draw": 3.27
-      },
-      "Betfair": {
-        "1. FC Nürnberg": 8.6,
-        "FC Energie Cottbus": 1.63,
-        "Draw": 3.65
-      },
-      "888sport": {
-        "1. FC Nürnberg": 6.0,
-        "FC Energie Cottbus": 1.57,
-        "Draw": 3.25
-      },
-      "Marathon Bet": {
-        "1. FC Nürnberg": 6.65,
-        "FC Energie Cottbus": 1.54,
-        "Draw": 3.3
-      },
-      "Matchbook": {
-        "1. FC Nürnberg": 8.6,
-        "FC Energie Cottbus": 1.63,
-        "Draw": 3.65
-      }
-    },
-    "150f424b7931458d08430ddeb256692f:h2h": {
-      "Unibet (NL)": {
-        "Hertha Berlin": 2.8,
-        "Holstein Kiel": 4.25,
-        "Draw": 1.93
-      },
-      "Betclic (FR)": {
-        "Hertha Berlin": 2.47,
-        "Holstein Kiel": 4.4,
-        "Draw": 1.97
-      },
-      "LeoVegas (SE)": {
-        "Hertha Berlin": 2.65,
-        "Holstein Kiel": 4.0,
-        "Draw": 1.81
-      },
-      "PMU (FR)": {
-        "Hertha Berlin": 2.6,
-        "Holstein Kiel": 3.95,
-        "Draw": 1.76
-      },
-      "Tipico": {
-        "Hertha Berlin": 2.5,
-        "Holstein Kiel": 5.2,
-        "Draw": 2.0
-      },
-      "Unibet (SE)": {
-        "Hertha Berlin": 2.8,
-        "Holstein Kiel": 4.25,
-        "Draw": 1.93
-      },
-      "Nordic Bet": {
-        "Hertha Berlin": 2.6,
-        "Holstein Kiel": 4.6,
-        "Draw": 2.02
-      },
-      "Betsson": {
-        "Hertha Berlin": 2.6,
-        "Holstein Kiel": 4.6,
-        "Draw": 2.02
-      },
-      "Winamax (DE)": {
-        "Hertha Berlin": 2.5,
-        "Holstein Kiel": 4.7,
-        "Draw": 2.0
-      },
-      "Winamax (FR)": {
-        "Hertha Berlin": 2.45,
-        "Holstein Kiel": 4.6,
-        "Draw": 1.92
-      },
-      "Coolbet": {
-        "Hertha Berlin": 2.75,
-        "Holstein Kiel": 5.0,
-        "Draw": 2.1
-      },
-      "Pinnacle": {
-        "Hertha Berlin": 2.5,
-        "Holstein Kiel": 4.44,
-        "Draw": 2.32
-      },
-      "Marathon Bet": {
-        "Hertha Berlin": 2.49,
-        "Holstein Kiel": 5.25,
-        "Draw": 1.96
-      },
-      "888sport": {
-        "Hertha Berlin": 2.6,
-        "Holstein Kiel": 4.8,
-        "Draw": 1.95
-      },
-      "Betfair": {
-        "Hertha Berlin": 2.8,
-        "Holstein Kiel": 5.7,
-        "Draw": 2.12
-      },
-      "Matchbook": {
-        "Hertha Berlin": 2.86,
-        "Holstein Kiel": 5.7,
-        "Draw": 2.06
-      }
-    },
-    "746a33a6adb903a87105ebb91efe324a:h2h": {
-      "Tipico": {
-        "RB Leipzig": 1.04,
-        "SC Freiburg": 45.0,
+        "Shelbourne Dublin": 1.07,
+        "St Patricks Athletic": 121.0,
         "Draw": 8.0
       },
-      "888sport": {
-        "RB Leipzig": 1.11,
-        "SC Freiburg": 29.0,
-        "Draw": 6.0
-      },
-      "William Hill": {
-        "RB Leipzig": 1.1,
-        "SC Freiburg": 34.0,
-        "Draw": 6.5
-      },
-      "Pinnacle": {
-        "RB Leipzig": 1.69,
-        "SC Freiburg": 7.08,
-        "Draw": 2.81
-      },
-      "LeoVegas (SE)": {
-        "RB Leipzig": 1.09,
-        "SC Freiburg": 21.0,
-        "Draw": 5.75
+      "PMU (FR)": {
+        "Shelbourne Dublin": 1.02,
+        "St Patricks Athletic": 46.0,
+        "Draw": 5.4
       },
       "Unibet (SE)": {
-        "RB Leipzig": 1.12,
-        "SC Freiburg": 23.0,
-        "Draw": 6.1
+        "Shelbourne Dublin": 1.12,
+        "St Patricks Athletic": 67.0,
+        "Draw": 6.0
+      },
+      "Winamax (FR)": {
+        "Shelbourne Dublin": 1.09,
+        "St Patricks Athletic": 500.0,
+        "Draw": 7.25
+      },
+      "Winamax (DE)": {
+        "Shelbourne Dublin": 1.09,
+        "St Patricks Athletic": 130.0,
+        "Draw": 6.25
+      },
+      "Pinnacle": {
+        "Shelbourne Dublin": 7.35,
+        "St Patricks Athletic": 2.89,
+        "Draw": 1.71
+      },
+      "Coolbet": {
+        "Shelbourne Dublin": 1.04,
+        "St Patricks Athletic": 50.0,
+        "Draw": 8.5
+      },
+      "Tipico": {
+        "Shelbourne Dublin": 1.04,
+        "St Patricks Athletic": 400.0,
+        "Draw": 9.0
+      },
+      "Betfair": {
+        "Shelbourne Dublin": 1.01,
+        "St Patricks Athletic": 1.01,
+        "Draw": 1.01
+      }
+    },
+    "33ca3a3f8d14ad19340c32dff45c749e:h2h": {
+      "Betclic (FR)": {
+        "Burnley": 100.0,
+        "Wolverhampton Wanderers": 1.0,
+        "Draw": 18.25
+      },
+      "Winamax (DE)": {
+        "Burnley": 450.0,
+        "Wolverhampton Wanderers": 1.03,
+        "Draw": 13.5
+      },
+      "Winamax (FR)": {
+        "Burnley": 450.0,
+        "Wolverhampton Wanderers": 1.04,
+        "Draw": 12.5
+      },
+      "Betfair": {
+        "Burnley": 1000.0,
+        "Wolverhampton Wanderers": 1.01,
+        "Draw": 55.0
+      },
+      "Betsson": {
+        "Burnley": 150.0,
+        "Wolverhampton Wanderers": 1.02,
+        "Draw": 12.0
+      },
+      "Nordic Bet": {
+        "Burnley": 100.0,
+        "Wolverhampton Wanderers": 1.04,
+        "Draw": 10.0
+      },
+      "888sport": {
+        "Burnley": 126.0,
+        "Wolverhampton Wanderers": 1.04,
+        "Draw": 13.0
+      },
+      "Pinnacle": {
+        "Burnley": 43.82,
+        "Wolverhampton Wanderers": 1.17,
+        "Draw": 5.77
+      },
+      "Tipico": {
+        "Burnley": 500.0,
+        "Wolverhampton Wanderers": 1.01,
+        "Draw": 8.5
+      },
+      "Coolbet": {
+        "Burnley": 1000.0,
+        "Wolverhampton Wanderers": 1.02,
+        "Draw": 17.0
+      }
+    },
+    "19ee731602634e5c9e3106630e087464:h2h": {
+      "Pinnacle": {
+        "Deportivo La Coruña": 1.21,
+        "Levante": 31.16,
+        "Draw": 5.33
+      },
+      "Nordic Bet": {
+        "Deportivo La Coruña": 15.0,
+        "Levante": 21.0,
+        "Draw": 1.05
+      },
+      "Coolbet": {
+        "Deportivo La Coruña": 1.0,
+        "Levante": 1.0,
+        "Draw": 1.0
+      },
+      "Tipico": {
+        "Deportivo La Coruña": 14.0,
+        "Levante": 22.0,
+        "Draw": 1.03
+      },
+      "Winamax (DE)": {
+        "Deportivo La Coruña": 29.0,
+        "Levante": 36.0,
+        "Draw": 1.02
+      },
+      "Winamax (FR)": {
+        "Deportivo La Coruña": 29.0,
+        "Levante": 36.0,
+        "Draw": 1.03
+      },
+      "Betsson": {
+        "Deportivo La Coruña": 10.5,
+        "Levante": 12.5,
+        "Draw": 1.09
+      },
+      "Betfair": {
+        "Deportivo La Coruña": 24.0,
+        "Levante": 29.0,
+        "Draw": 1.06
+      },
+      "LeoVegas (SE)": {
+        "Deportivo La Coruña": 17.0,
+        "Levante": 16.0,
+        "Draw": 1.03
+      },
+      "PMU (FR)": {
+        "Deportivo La Coruña": 13.0,
+        "Levante": 16.0,
+        "Draw": 1.01
       },
       "Unibet (NL)": {
-        "RB Leipzig": 1.12,
-        "SC Freiburg": 23.0,
-        "Draw": 6.1
+        "Deportivo La Coruña": 18.0,
+        "Levante": 17.0,
+        "Draw": 1.05
+      },
+      "Unibet (SE)": {
+        "Deportivo La Coruña": 18.0,
+        "Levante": 17.0,
+        "Draw": 1.05
+      },
+      "Betclic (FR)": {
+        "Deportivo La Coruña": 10.25,
+        "Levante": 14.25,
+        "Draw": 1.07
+      }
+    },
+    "c2dd732203e813d69d4ecbe07206788c:h2h": {
+      "Betfair": {
+        "Defensa y Justicia": 2.58,
+        "Instituto de Córdoba": 3.25,
+        "Draw": 3.2
+      },
+      "Betsson": {
+        "Defensa y Justicia": 2.42,
+        "Instituto de Córdoba": 3.05,
+        "Draw": 2.92
+      },
+      "Nordic Bet": {
+        "Defensa y Justicia": 2.45,
+        "Instituto de Córdoba": 2.95,
+        "Draw": 3.0
+      },
+      "1xBet": {
+        "Defensa y Justicia": 2.51,
+        "Instituto de Córdoba": 3.02,
+        "Draw": 3.08
+      },
+      "Winamax (DE)": {
+        "Defensa y Justicia": 2.35,
+        "Instituto de Córdoba": 2.9,
+        "Draw": 3.05
+      },
+      "Unibet (FR)": {
+        "Defensa y Justicia": 2.2,
+        "Instituto de Córdoba": 2.9,
+        "Draw": 2.9
+      },
+      "Winamax (FR)": {
+        "Defensa y Justicia": 2.3,
+        "Instituto de Córdoba": 2.85,
+        "Draw": 2.95
+      },
+      "Betclic (FR)": {
+        "Defensa y Justicia": 2.33,
+        "Instituto de Córdoba": 2.93,
+        "Draw": 2.93
+      },
+      "Unibet (SE)": {
+        "Defensa y Justicia": 2.55,
+        "Instituto de Córdoba": 2.9,
+        "Draw": 3.0
+      },
+      "LeoVegas (SE)": {
+        "Defensa y Justicia": 2.38,
+        "Instituto de Córdoba": 2.7,
+        "Draw": 2.8
+      },
+      "Pinnacle": {
+        "Defensa y Justicia": 2.5,
+        "Instituto de Córdoba": 3.26,
+        "Draw": 3.06
+      },
+      "Codere (IT)": {
+        "Defensa y Justicia": 2.47,
+        "Instituto de Córdoba": 3.05,
+        "Draw": 3.05
+      },
+      "BetOnline.ag": {
+        "Defensa y Justicia": 2.58,
+        "Instituto de Córdoba": 3.12,
+        "Draw": 3.07
+      },
+      "Marathon Bet": {
+        "Defensa y Justicia": 2.46,
+        "Instituto de Córdoba": 2.96,
+        "Draw": 3.02
+      },
+      "BetAnything": {
+        "Defensa y Justicia": 2.58,
+        "Instituto de Córdoba": 3.12,
+        "Draw": 3.07
       }
     }
   },
@@ -4431,49 +4426,808 @@
       "confidence": 99,
       "alert_type": "value",
       "alerted_at": "2026-10-16T17:59:00.194743+00:00"
+    },
+    {
+      "state_key": "5fc1c0491dc2f2c13afce1b5d0172165:h2h",
+      "event_id": "5fc1c0491dc2f2c13afce1b5d0172165",
+      "sport_key": "soccer",
+      "competition": "League of Ireland",
+      "home_team": "St Patricks Athletic",
+      "away_team": "Shelbourne Dublin",
+      "commence_time": "2026-10-16T18:59:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "St Patricks Athletic",
+      "odds_at_alert": 76.0,
+      "stake_pct": 5.0,
+      "confidence": 2365,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T20:59:42.730152+00:00"
+    },
+    {
+      "state_key": "5fc1c0491dc2f2c13afce1b5d0172165:h2h",
+      "event_id": "5fc1c0491dc2f2c13afce1b5d0172165",
+      "sport_key": "soccer",
+      "competition": "League of Ireland",
+      "home_team": "St Patricks Athletic",
+      "away_team": "Shelbourne Dublin",
+      "commence_time": "2026-10-16T18:59:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 7.5,
+      "stake_pct": 5.0,
+      "confidence": 311,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T20:59:43.220663+00:00"
+    },
+    {
+      "state_key": "5fc1c0491dc2f2c13afce1b5d0172165:h2h",
+      "event_id": "5fc1c0491dc2f2c13afce1b5d0172165",
+      "sport_key": "soccer",
+      "competition": "League of Ireland",
+      "home_team": "St Patricks Athletic",
+      "away_team": "Shelbourne Dublin",
+      "commence_time": "2026-10-16T18:59:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "St Patricks Athletic",
+      "odds_at_alert": 121.0,
+      "stake_pct": 5.0,
+      "confidence": 3824,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T20:59:43.698355+00:00"
+    },
+    {
+      "state_key": "5fc1c0491dc2f2c13afce1b5d0172165:h2h",
+      "event_id": "5fc1c0491dc2f2c13afce1b5d0172165",
+      "sport_key": "soccer",
+      "competition": "League of Ireland",
+      "home_team": "St Patricks Athletic",
+      "away_team": "Shelbourne Dublin",
+      "commence_time": "2026-10-16T18:59:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 8.0,
+      "stake_pct": 5.0,
+      "confidence": 339,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T20:59:44.210305+00:00"
+    },
+    {
+      "state_key": "5fc1c0491dc2f2c13afce1b5d0172165:h2h",
+      "event_id": "5fc1c0491dc2f2c13afce1b5d0172165",
+      "sport_key": "soccer",
+      "competition": "League of Ireland",
+      "home_team": "St Patricks Athletic",
+      "away_team": "Shelbourne Dublin",
+      "commence_time": "2026-10-16T18:59:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "St Patricks Athletic",
+      "odds_at_alert": 46.0,
+      "stake_pct": 5.0,
+      "confidence": 1392,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T20:59:44.666496+00:00"
+    },
+    {
+      "state_key": "5fc1c0491dc2f2c13afce1b5d0172165:h2h",
+      "event_id": "5fc1c0491dc2f2c13afce1b5d0172165",
+      "sport_key": "soccer",
+      "competition": "League of Ireland",
+      "home_team": "St Patricks Athletic",
+      "away_team": "Shelbourne Dublin",
+      "commence_time": "2026-10-16T18:59:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.4,
+      "stake_pct": 5.0,
+      "confidence": 196,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T20:59:45.170198+00:00"
+    },
+    {
+      "state_key": "5fc1c0491dc2f2c13afce1b5d0172165:h2h",
+      "event_id": "5fc1c0491dc2f2c13afce1b5d0172165",
+      "sport_key": "soccer",
+      "competition": "League of Ireland",
+      "home_team": "St Patricks Athletic",
+      "away_team": "Shelbourne Dublin",
+      "commence_time": "2026-10-16T18:59:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "St Patricks Athletic",
+      "odds_at_alert": 67.0,
+      "stake_pct": 5.0,
+      "confidence": 2073,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T20:59:45.645190+00:00"
+    },
+    {
+      "state_key": "5fc1c0491dc2f2c13afce1b5d0172165:h2h",
+      "event_id": "5fc1c0491dc2f2c13afce1b5d0172165",
+      "sport_key": "soccer",
+      "competition": "League of Ireland",
+      "home_team": "St Patricks Athletic",
+      "away_team": "Shelbourne Dublin",
+      "commence_time": "2026-10-16T18:59:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.0,
+      "stake_pct": 5.0,
+      "confidence": 229,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T20:59:46.111319+00:00"
+    },
+    {
+      "state_key": "5fc1c0491dc2f2c13afce1b5d0172165:h2h",
+      "event_id": "5fc1c0491dc2f2c13afce1b5d0172165",
+      "sport_key": "soccer",
+      "competition": "League of Ireland",
+      "home_team": "St Patricks Athletic",
+      "away_team": "Shelbourne Dublin",
+      "commence_time": "2026-10-16T18:59:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "St Patricks Athletic",
+      "odds_at_alert": 500.0,
+      "stake_pct": 5.0,
+      "confidence": 16117,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T20:59:46.584070+00:00"
+    },
+    {
+      "state_key": "5fc1c0491dc2f2c13afce1b5d0172165:h2h",
+      "event_id": "5fc1c0491dc2f2c13afce1b5d0172165",
+      "sport_key": "soccer",
+      "competition": "League of Ireland",
+      "home_team": "St Patricks Athletic",
+      "away_team": "Shelbourne Dublin",
+      "commence_time": "2026-10-16T18:59:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 7.25,
+      "stake_pct": 5.0,
+      "confidence": 297,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T20:59:47.053304+00:00"
+    },
+    {
+      "state_key": "5fc1c0491dc2f2c13afce1b5d0172165:h2h",
+      "event_id": "5fc1c0491dc2f2c13afce1b5d0172165",
+      "sport_key": "soccer",
+      "competition": "League of Ireland",
+      "home_team": "St Patricks Athletic",
+      "away_team": "Shelbourne Dublin",
+      "commence_time": "2026-10-16T18:59:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "St Patricks Athletic",
+      "odds_at_alert": 130.0,
+      "stake_pct": 5.0,
+      "confidence": 4116,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T20:59:47.541569+00:00"
+    },
+    {
+      "state_key": "5fc1c0491dc2f2c13afce1b5d0172165:h2h",
+      "event_id": "5fc1c0491dc2f2c13afce1b5d0172165",
+      "sport_key": "soccer",
+      "competition": "League of Ireland",
+      "home_team": "St Patricks Athletic",
+      "away_team": "Shelbourne Dublin",
+      "commence_time": "2026-10-16T18:59:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.25,
+      "stake_pct": 5.0,
+      "confidence": 243,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T20:59:48.016618+00:00"
+    },
+    {
+      "state_key": "5fc1c0491dc2f2c13afce1b5d0172165:h2h",
+      "event_id": "5fc1c0491dc2f2c13afce1b5d0172165",
+      "sport_key": "soccer",
+      "competition": "League of Ireland",
+      "home_team": "St Patricks Athletic",
+      "away_team": "Shelbourne Dublin",
+      "commence_time": "2026-10-16T18:59:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "St Patricks Athletic",
+      "odds_at_alert": 50.0,
+      "stake_pct": 5.0,
+      "confidence": 1522,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T20:59:48.477200+00:00"
+    },
+    {
+      "state_key": "5fc1c0491dc2f2c13afce1b5d0172165:h2h",
+      "event_id": "5fc1c0491dc2f2c13afce1b5d0172165",
+      "sport_key": "soccer",
+      "competition": "League of Ireland",
+      "home_team": "St Patricks Athletic",
+      "away_team": "Shelbourne Dublin",
+      "commence_time": "2026-10-16T18:59:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 8.5,
+      "stake_pct": 5.0,
+      "confidence": 366,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T20:59:48.930340+00:00"
+    },
+    {
+      "state_key": "5fc1c0491dc2f2c13afce1b5d0172165:h2h",
+      "event_id": "5fc1c0491dc2f2c13afce1b5d0172165",
+      "sport_key": "soccer",
+      "competition": "League of Ireland",
+      "home_team": "St Patricks Athletic",
+      "away_team": "Shelbourne Dublin",
+      "commence_time": "2026-10-16T18:59:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "St Patricks Athletic",
+      "odds_at_alert": 400.0,
+      "stake_pct": 5.0,
+      "confidence": 12873,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T20:59:49.391204+00:00"
+    },
+    {
+      "state_key": "5fc1c0491dc2f2c13afce1b5d0172165:h2h",
+      "event_id": "5fc1c0491dc2f2c13afce1b5d0172165",
+      "sport_key": "soccer",
+      "competition": "League of Ireland",
+      "home_team": "St Patricks Athletic",
+      "away_team": "Shelbourne Dublin",
+      "commence_time": "2026-10-16T18:59:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 9.0,
+      "stake_pct": 5.0,
+      "confidence": 393,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T20:59:49.858558+00:00"
+    },
+    {
+      "state_key": "33ca3a3f8d14ad19340c32dff45c749e:h2h",
+      "event_id": "33ca3a3f8d14ad19340c32dff45c749e",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Burnley",
+      "away_team": "Wolverhampton Wanderers",
+      "commence_time": "2026-10-16T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Burnley",
+      "odds_at_alert": 100.0,
+      "stake_pct": 5.0,
+      "confidence": 117,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T20:59:50.323622+00:00"
+    },
+    {
+      "state_key": "33ca3a3f8d14ad19340c32dff45c749e:h2h",
+      "event_id": "33ca3a3f8d14ad19340c32dff45c749e",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Burnley",
+      "away_team": "Wolverhampton Wanderers",
+      "commence_time": "2026-10-16T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 18.25,
+      "stake_pct": 5.0,
+      "confidence": 201,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T20:59:50.789133+00:00"
+    },
+    {
+      "state_key": "33ca3a3f8d14ad19340c32dff45c749e:h2h",
+      "event_id": "33ca3a3f8d14ad19340c32dff45c749e",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Burnley",
+      "away_team": "Wolverhampton Wanderers",
+      "commence_time": "2026-10-16T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Burnley",
+      "odds_at_alert": 450.0,
+      "stake_pct": 5.0,
+      "confidence": 877,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T20:59:51.255720+00:00"
+    },
+    {
+      "state_key": "33ca3a3f8d14ad19340c32dff45c749e:h2h",
+      "event_id": "33ca3a3f8d14ad19340c32dff45c749e",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Burnley",
+      "away_team": "Wolverhampton Wanderers",
+      "commence_time": "2026-10-16T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 13.5,
+      "stake_pct": 5.0,
+      "confidence": 123,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T20:59:51.705255+00:00"
+    },
+    {
+      "state_key": "33ca3a3f8d14ad19340c32dff45c749e:h2h",
+      "event_id": "33ca3a3f8d14ad19340c32dff45c749e",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Burnley",
+      "away_team": "Wolverhampton Wanderers",
+      "commence_time": "2026-10-16T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Burnley",
+      "odds_at_alert": 450.0,
+      "stake_pct": 5.0,
+      "confidence": 877,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T20:59:52.192270+00:00"
+    },
+    {
+      "state_key": "33ca3a3f8d14ad19340c32dff45c749e:h2h",
+      "event_id": "33ca3a3f8d14ad19340c32dff45c749e",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Burnley",
+      "away_team": "Wolverhampton Wanderers",
+      "commence_time": "2026-10-16T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 12.5,
+      "stake_pct": 5.0,
+      "confidence": 106,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T20:59:52.667887+00:00"
+    },
+    {
+      "state_key": "33ca3a3f8d14ad19340c32dff45c749e:h2h",
+      "event_id": "33ca3a3f8d14ad19340c32dff45c749e",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Burnley",
+      "away_team": "Wolverhampton Wanderers",
+      "commence_time": "2026-10-16T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Burnley",
+      "odds_at_alert": 1000.0,
+      "stake_pct": 5.0,
+      "confidence": 2072,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T20:59:53.160462+00:00"
+    },
+    {
+      "state_key": "33ca3a3f8d14ad19340c32dff45c749e:h2h",
+      "event_id": "33ca3a3f8d14ad19340c32dff45c749e",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Burnley",
+      "away_team": "Wolverhampton Wanderers",
+      "commence_time": "2026-10-16T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 55.0,
+      "stake_pct": 5.0,
+      "confidence": 807,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T20:59:53.637667+00:00"
+    },
+    {
+      "state_key": "33ca3a3f8d14ad19340c32dff45c749e:h2h",
+      "event_id": "33ca3a3f8d14ad19340c32dff45c749e",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Burnley",
+      "away_team": "Wolverhampton Wanderers",
+      "commence_time": "2026-10-16T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Burnley",
+      "odds_at_alert": 150.0,
+      "stake_pct": 5.0,
+      "confidence": 226,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T20:59:54.142689+00:00"
+    },
+    {
+      "state_key": "33ca3a3f8d14ad19340c32dff45c749e:h2h",
+      "event_id": "33ca3a3f8d14ad19340c32dff45c749e",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Burnley",
+      "away_team": "Wolverhampton Wanderers",
+      "commence_time": "2026-10-16T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 98,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T20:59:54.648820+00:00"
+    },
+    {
+      "state_key": "33ca3a3f8d14ad19340c32dff45c749e:h2h",
+      "event_id": "33ca3a3f8d14ad19340c32dff45c749e",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Burnley",
+      "away_team": "Wolverhampton Wanderers",
+      "commence_time": "2026-10-16T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Burnley",
+      "odds_at_alert": 100.0,
+      "stake_pct": 5.0,
+      "confidence": 117,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T20:59:55.172710+00:00"
+    },
+    {
+      "state_key": "33ca3a3f8d14ad19340c32dff45c749e:h2h",
+      "event_id": "33ca3a3f8d14ad19340c32dff45c749e",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Burnley",
+      "away_team": "Wolverhampton Wanderers",
+      "commence_time": "2026-10-16T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 10.0,
+      "stake_pct": 5.0,
+      "confidence": 65,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T20:59:55.679224+00:00"
+    },
+    {
+      "state_key": "33ca3a3f8d14ad19340c32dff45c749e:h2h",
+      "event_id": "33ca3a3f8d14ad19340c32dff45c749e",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Burnley",
+      "away_team": "Wolverhampton Wanderers",
+      "commence_time": "2026-10-16T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Burnley",
+      "odds_at_alert": 126.0,
+      "stake_pct": 5.0,
+      "confidence": 174,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T20:59:56.160741+00:00"
+    },
+    {
+      "state_key": "33ca3a3f8d14ad19340c32dff45c749e:h2h",
+      "event_id": "33ca3a3f8d14ad19340c32dff45c749e",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Burnley",
+      "away_team": "Wolverhampton Wanderers",
+      "commence_time": "2026-10-16T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 114,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T20:59:56.640644+00:00"
+    },
+    {
+      "state_key": "33ca3a3f8d14ad19340c32dff45c749e:h2h",
+      "event_id": "33ca3a3f8d14ad19340c32dff45c749e",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Burnley",
+      "away_team": "Wolverhampton Wanderers",
+      "commence_time": "2026-10-16T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Burnley",
+      "odds_at_alert": 500.0,
+      "stake_pct": 5.0,
+      "confidence": 986,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T20:59:57.201650+00:00"
+    },
+    {
+      "state_key": "33ca3a3f8d14ad19340c32dff45c749e:h2h",
+      "event_id": "33ca3a3f8d14ad19340c32dff45c749e",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Burnley",
+      "away_team": "Wolverhampton Wanderers",
+      "commence_time": "2026-10-16T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 8.5,
+      "stake_pct": 5.0,
+      "confidence": 40,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T20:59:57.656242+00:00"
+    },
+    {
+      "state_key": "33ca3a3f8d14ad19340c32dff45c749e:h2h",
+      "event_id": "33ca3a3f8d14ad19340c32dff45c749e",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Burnley",
+      "away_team": "Wolverhampton Wanderers",
+      "commence_time": "2026-10-16T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Burnley",
+      "odds_at_alert": 1000.0,
+      "stake_pct": 5.0,
+      "confidence": 2072,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T20:59:58.125672+00:00"
+    },
+    {
+      "state_key": "33ca3a3f8d14ad19340c32dff45c749e:h2h",
+      "event_id": "33ca3a3f8d14ad19340c32dff45c749e",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Burnley",
+      "away_team": "Wolverhampton Wanderers",
+      "commence_time": "2026-10-16T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 180,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T20:59:58.604026+00:00"
+    },
+    {
+      "state_key": "19ee731602634e5c9e3106630e087464:h2h",
+      "event_id": "19ee731602634e5c9e3106630e087464",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Deportivo La Coruña",
+      "away_team": "Levante",
+      "commence_time": "2026-10-16T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Deportivo La Coruña",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 1085,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T20:59:59.080457+00:00"
+    },
+    {
+      "state_key": "19ee731602634e5c9e3106630e087464:h2h",
+      "event_id": "19ee731602634e5c9e3106630e087464",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Deportivo La Coruña",
+      "away_team": "Levante",
+      "commence_time": "2026-10-16T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Deportivo La Coruña",
+      "odds_at_alert": 14.0,
+      "stake_pct": 5.0,
+      "confidence": 1006,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T20:59:59.550832+00:00"
+    },
+    {
+      "state_key": "19ee731602634e5c9e3106630e087464:h2h",
+      "event_id": "19ee731602634e5c9e3106630e087464",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Deportivo La Coruña",
+      "away_team": "Levante",
+      "commence_time": "2026-10-16T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Deportivo La Coruña",
+      "odds_at_alert": 29.0,
+      "stake_pct": 5.0,
+      "confidence": 2191,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T21:00:00.006220+00:00"
+    },
+    {
+      "state_key": "19ee731602634e5c9e3106630e087464:h2h",
+      "event_id": "19ee731602634e5c9e3106630e087464",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Deportivo La Coruña",
+      "away_team": "Levante",
+      "commence_time": "2026-10-16T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Levante",
+      "odds_at_alert": 36.0,
+      "stake_pct": 3.0,
+      "confidence": 10,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T21:00:00.533107+00:00"
+    },
+    {
+      "state_key": "19ee731602634e5c9e3106630e087464:h2h",
+      "event_id": "19ee731602634e5c9e3106630e087464",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Deportivo La Coruña",
+      "away_team": "Levante",
+      "commence_time": "2026-10-16T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Deportivo La Coruña",
+      "odds_at_alert": 29.0,
+      "stake_pct": 5.0,
+      "confidence": 2191,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T21:00:01.005193+00:00"
+    },
+    {
+      "state_key": "19ee731602634e5c9e3106630e087464:h2h",
+      "event_id": "19ee731602634e5c9e3106630e087464",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Deportivo La Coruña",
+      "away_team": "Levante",
+      "commence_time": "2026-10-16T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Levante",
+      "odds_at_alert": 36.0,
+      "stake_pct": 3.0,
+      "confidence": 10,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T21:00:01.465839+00:00"
+    },
+    {
+      "state_key": "19ee731602634e5c9e3106630e087464:h2h",
+      "event_id": "19ee731602634e5c9e3106630e087464",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Deportivo La Coruña",
+      "away_team": "Levante",
+      "commence_time": "2026-10-16T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Deportivo La Coruña",
+      "odds_at_alert": 10.5,
+      "stake_pct": 5.0,
+      "confidence": 729,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T21:00:01.951631+00:00"
+    },
+    {
+      "state_key": "19ee731602634e5c9e3106630e087464:h2h",
+      "event_id": "19ee731602634e5c9e3106630e087464",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Deportivo La Coruña",
+      "away_team": "Levante",
+      "commence_time": "2026-10-16T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Deportivo La Coruña",
+      "odds_at_alert": 24.0,
+      "stake_pct": 5.0,
+      "confidence": 1796,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T21:00:02.435275+00:00"
+    },
+    {
+      "state_key": "19ee731602634e5c9e3106630e087464:h2h",
+      "event_id": "19ee731602634e5c9e3106630e087464",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Deportivo La Coruña",
+      "away_team": "Levante",
+      "commence_time": "2026-10-16T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Deportivo La Coruña",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 1243,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T21:00:02.908524+00:00"
+    },
+    {
+      "state_key": "19ee731602634e5c9e3106630e087464:h2h",
+      "event_id": "19ee731602634e5c9e3106630e087464",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Deportivo La Coruña",
+      "away_team": "Levante",
+      "commence_time": "2026-10-16T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Deportivo La Coruña",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 927,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T21:00:03.429857+00:00"
+    },
+    {
+      "state_key": "19ee731602634e5c9e3106630e087464:h2h",
+      "event_id": "19ee731602634e5c9e3106630e087464",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Deportivo La Coruña",
+      "away_team": "Levante",
+      "commence_time": "2026-10-16T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Deportivo La Coruña",
+      "odds_at_alert": 18.0,
+      "stake_pct": 5.0,
+      "confidence": 1322,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T21:00:03.938260+00:00"
+    },
+    {
+      "state_key": "19ee731602634e5c9e3106630e087464:h2h",
+      "event_id": "19ee731602634e5c9e3106630e087464",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Deportivo La Coruña",
+      "away_team": "Levante",
+      "commence_time": "2026-10-16T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Deportivo La Coruña",
+      "odds_at_alert": 18.0,
+      "stake_pct": 5.0,
+      "confidence": 1322,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T21:00:04.514215+00:00"
+    },
+    {
+      "state_key": "19ee731602634e5c9e3106630e087464:h2h",
+      "event_id": "19ee731602634e5c9e3106630e087464",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Deportivo La Coruña",
+      "away_team": "Levante",
+      "commence_time": "2026-10-16T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Deportivo La Coruña",
+      "odds_at_alert": 10.25,
+      "stake_pct": 5.0,
+      "confidence": 710,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T21:00:04.962167+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "150f424b7931458d08430ddeb256692f:h2h|Betfair|Hertha Berlin",
-    "150f424b7931458d08430ddeb256692f:h2h|Betfair|Holstein Kiel",
-    "150f424b7931458d08430ddeb256692f:h2h|Coolbet|Holstein Kiel",
-    "150f424b7931458d08430ddeb256692f:h2h|Marathon Bet|Holstein Kiel",
-    "150f424b7931458d08430ddeb256692f:h2h|Matchbook|Hertha Berlin",
-    "150f424b7931458d08430ddeb256692f:h2h|Matchbook|Holstein Kiel",
-    "150f424b7931458d08430ddeb256692f:h2h|Tipico|Holstein Kiel",
-    "150f424b7931458d08430ddeb256692f:h2h|Unibet (NL)|Hertha Berlin",
-    "150f424b7931458d08430ddeb256692f:h2h|Unibet (SE)|Hertha Berlin",
-    "746a33a6adb903a87105ebb91efe324a:h2h|888sport|Draw",
-    "746a33a6adb903a87105ebb91efe324a:h2h|888sport|SC Freiburg",
-    "746a33a6adb903a87105ebb91efe324a:h2h|LeoVegas (SE)|Draw",
-    "746a33a6adb903a87105ebb91efe324a:h2h|LeoVegas (SE)|SC Freiburg",
-    "746a33a6adb903a87105ebb91efe324a:h2h|Tipico|Draw",
-    "746a33a6adb903a87105ebb91efe324a:h2h|Tipico|SC Freiburg",
-    "746a33a6adb903a87105ebb91efe324a:h2h|Unibet (NL)|Draw",
-    "746a33a6adb903a87105ebb91efe324a:h2h|Unibet (NL)|SC Freiburg",
-    "746a33a6adb903a87105ebb91efe324a:h2h|Unibet (SE)|Draw",
-    "746a33a6adb903a87105ebb91efe324a:h2h|Unibet (SE)|SC Freiburg",
-    "746a33a6adb903a87105ebb91efe324a:h2h|William Hill|Draw",
-    "746a33a6adb903a87105ebb91efe324a:h2h|William Hill|SC Freiburg",
-    "bd1d717f949f57694664f9ba11139851:h2h|888sport|Draw",
-    "bd1d717f949f57694664f9ba11139851:h2h|888sport|Wieczysta Kraków",
-    "bd1d717f949f57694664f9ba11139851:h2h|Betclic (FR)|Draw",
-    "bd1d717f949f57694664f9ba11139851:h2h|Betclic (FR)|Wieczysta Kraków",
-    "bd1d717f949f57694664f9ba11139851:h2h|Betfair|Draw",
-    "bd1d717f949f57694664f9ba11139851:h2h|Coolbet|Draw",
-    "bd1d717f949f57694664f9ba11139851:h2h|Coolbet|Wieczysta Kraków",
-    "bd1d717f949f57694664f9ba11139851:h2h|Tipico|Draw",
-    "bd1d717f949f57694664f9ba11139851:h2h|Tipico|Wieczysta Kraków",
-    "bd1d717f949f57694664f9ba11139851:h2h|Winamax (DE)|Draw",
-    "bd1d717f949f57694664f9ba11139851:h2h|Winamax (DE)|Wieczysta Kraków",
-    "bd1d717f949f57694664f9ba11139851:h2h|Winamax (FR)|Draw",
-    "bd1d717f949f57694664f9ba11139851:h2h|Winamax (FR)|Wieczysta Kraków",
-    "f6efe77542b7ee5bfb4ee3bc1e7368c4:h2h|Betfair|1. FC Nürnberg",
-    "f6efe77542b7ee5bfb4ee3bc1e7368c4:h2h|Betfair|Draw",
-    "f6efe77542b7ee5bfb4ee3bc1e7368c4:h2h|Coolbet|1. FC Nürnberg",
-    "f6efe77542b7ee5bfb4ee3bc1e7368c4:h2h|Matchbook|1. FC Nürnberg",
-    "f6efe77542b7ee5bfb4ee3bc1e7368c4:h2h|Matchbook|Draw",
-    "f6efe77542b7ee5bfb4ee3bc1e7368c4:h2h|Winamax (DE)|1. FC Nürnberg"
+    "19ee731602634e5c9e3106630e087464:h2h|Betclic (FR)|Deportivo La Coruña",
+    "19ee731602634e5c9e3106630e087464:h2h|Betfair|Deportivo La Coruña",
+    "19ee731602634e5c9e3106630e087464:h2h|Betsson|Deportivo La Coruña",
+    "19ee731602634e5c9e3106630e087464:h2h|LeoVegas (SE)|Deportivo La Coruña",
+    "19ee731602634e5c9e3106630e087464:h2h|Nordic Bet|Deportivo La Coruña",
+    "19ee731602634e5c9e3106630e087464:h2h|PMU (FR)|Deportivo La Coruña",
+    "19ee731602634e5c9e3106630e087464:h2h|Tipico|Deportivo La Coruña",
+    "19ee731602634e5c9e3106630e087464:h2h|Unibet (NL)|Deportivo La Coruña",
+    "19ee731602634e5c9e3106630e087464:h2h|Unibet (SE)|Deportivo La Coruña",
+    "19ee731602634e5c9e3106630e087464:h2h|Winamax (DE)|Deportivo La Coruña",
+    "19ee731602634e5c9e3106630e087464:h2h|Winamax (DE)|Levante",
+    "19ee731602634e5c9e3106630e087464:h2h|Winamax (FR)|Deportivo La Coruña",
+    "19ee731602634e5c9e3106630e087464:h2h|Winamax (FR)|Levante",
+    "33ca3a3f8d14ad19340c32dff45c749e:h2h|888sport|Burnley",
+    "33ca3a3f8d14ad19340c32dff45c749e:h2h|888sport|Draw",
+    "33ca3a3f8d14ad19340c32dff45c749e:h2h|Betclic (FR)|Burnley",
+    "33ca3a3f8d14ad19340c32dff45c749e:h2h|Betclic (FR)|Draw",
+    "33ca3a3f8d14ad19340c32dff45c749e:h2h|Betfair|Burnley",
+    "33ca3a3f8d14ad19340c32dff45c749e:h2h|Betfair|Draw",
+    "33ca3a3f8d14ad19340c32dff45c749e:h2h|Betsson|Burnley",
+    "33ca3a3f8d14ad19340c32dff45c749e:h2h|Betsson|Draw",
+    "33ca3a3f8d14ad19340c32dff45c749e:h2h|Coolbet|Burnley",
+    "33ca3a3f8d14ad19340c32dff45c749e:h2h|Coolbet|Draw",
+    "33ca3a3f8d14ad19340c32dff45c749e:h2h|Nordic Bet|Burnley",
+    "33ca3a3f8d14ad19340c32dff45c749e:h2h|Nordic Bet|Draw",
+    "33ca3a3f8d14ad19340c32dff45c749e:h2h|Tipico|Burnley",
+    "33ca3a3f8d14ad19340c32dff45c749e:h2h|Tipico|Draw",
+    "33ca3a3f8d14ad19340c32dff45c749e:h2h|Winamax (DE)|Burnley",
+    "33ca3a3f8d14ad19340c32dff45c749e:h2h|Winamax (DE)|Draw",
+    "33ca3a3f8d14ad19340c32dff45c749e:h2h|Winamax (FR)|Burnley",
+    "33ca3a3f8d14ad19340c32dff45c749e:h2h|Winamax (FR)|Draw",
+    "5fc1c0491dc2f2c13afce1b5d0172165:h2h|Coolbet|Draw",
+    "5fc1c0491dc2f2c13afce1b5d0172165:h2h|Coolbet|St Patricks Athletic",
+    "5fc1c0491dc2f2c13afce1b5d0172165:h2h|LeoVegas (SE)|Draw",
+    "5fc1c0491dc2f2c13afce1b5d0172165:h2h|LeoVegas (SE)|St Patricks Athletic",
+    "5fc1c0491dc2f2c13afce1b5d0172165:h2h|PMU (FR)|Draw",
+    "5fc1c0491dc2f2c13afce1b5d0172165:h2h|PMU (FR)|St Patricks Athletic",
+    "5fc1c0491dc2f2c13afce1b5d0172165:h2h|Tipico|Draw",
+    "5fc1c0491dc2f2c13afce1b5d0172165:h2h|Tipico|St Patricks Athletic",
+    "5fc1c0491dc2f2c13afce1b5d0172165:h2h|Unibet (NL)|Draw",
+    "5fc1c0491dc2f2c13afce1b5d0172165:h2h|Unibet (NL)|St Patricks Athletic",
+    "5fc1c0491dc2f2c13afce1b5d0172165:h2h|Unibet (SE)|Draw",
+    "5fc1c0491dc2f2c13afce1b5d0172165:h2h|Unibet (SE)|St Patricks Athletic",
+    "5fc1c0491dc2f2c13afce1b5d0172165:h2h|Winamax (DE)|Draw",
+    "5fc1c0491dc2f2c13afce1b5d0172165:h2h|Winamax (DE)|St Patricks Athletic",
+    "5fc1c0491dc2f2c13afce1b5d0172165:h2h|Winamax (FR)|Draw",
+    "5fc1c0491dc2f2c13afce1b5d0172165:h2h|Winamax (FR)|St Patricks Athletic"
   ]
 }
