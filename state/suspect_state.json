@@ -1,174 +1,20 @@
 {
   "snapshots": {
-    "314b3d8f825f3886ce4a2187d693d720:h2h": {
-      "Winamax (DE)": {
-        "Atlético Huracán": 7.0,
-        "Gimnasia La Plata": 1.58,
-        "Draw": 3.05
-      },
-      "LeoVegas (SE)": {
-        "Atlético Huracán": 6.5,
-        "Gimnasia La Plata": 1.5,
-        "Draw": 3.05
-      },
-      "Nordic Bet": {
-        "Atlético Huracán": 6.8,
-        "Gimnasia La Plata": 1.58,
-        "Draw": 3.2
-      },
-      "Betsson": {
-        "Atlético Huracán": 7.2,
-        "Gimnasia La Plata": 1.55,
-        "Draw": 3.2
-      },
-      "Winamax (FR)": {
-        "Atlético Huracán": 6.25,
-        "Gimnasia La Plata": 1.58,
-        "Draw": 2.95
-      },
-      "Unibet (SE)": {
-        "Atlético Huracán": 7.0,
-        "Gimnasia La Plata": 1.57,
-        "Draw": 3.25
-      },
-      "Betclic (FR)": {
-        "Atlético Huracán": 6.1,
-        "Gimnasia La Plata": 1.52,
-        "Draw": 3.1
-      },
-      "Pinnacle": {
-        "Atlético Huracán": 6.54,
-        "Gimnasia La Plata": 1.64,
-        "Draw": 3.39
-      },
-      "Marathon Bet": {
-        "Atlético Huracán": 6.85,
-        "Gimnasia La Plata": 1.6,
-        "Draw": 3.26
-      },
-      "Betfair": {
-        "Atlético Huracán": 6.4,
-        "Gimnasia La Plata": 1.76,
-        "Draw": 3.5
-      }
-    },
-    "d02dc730313f4d3454742acf7971179b:h2h": {
-      "Unibet (FR)": {
-        "Estudiantes La Plata": 3.6,
-        "Flamengo-RJ": 1.91,
-        "Draw": 2.85
-      },
-      "Betclic (FR)": {
-        "Estudiantes La Plata": 3.6,
-        "Flamengo-RJ": 2.03,
-        "Draw": 2.85
-      },
-      "1xBet": {
-        "Estudiantes La Plata": 4.03,
-        "Flamengo-RJ": 2.06,
-        "Draw": 3.14
-      },
-      "Codere (IT)": {
-        "Estudiantes La Plata": 3.75,
-        "Flamengo-RJ": 2.14,
-        "Draw": 2.95
-      },
-      "Betfair": {
-        "Estudiantes La Plata": 4.2,
-        "Flamengo-RJ": 2.2,
-        "Draw": 3.15
-      },
-      "Coolbet": {
-        "Estudiantes La Plata": 4.2,
-        "Flamengo-RJ": 2.13,
-        "Draw": 3.0
-      },
-      "Winamax (FR)": {
-        "Estudiantes La Plata": 3.5,
-        "Flamengo-RJ": 2.05,
-        "Draw": 2.9
-      },
-      "Winamax (DE)": {
-        "Estudiantes La Plata": 3.6,
-        "Flamengo-RJ": 2.05,
-        "Draw": 3.0
-      },
-      "Nordic Bet": {
-        "Estudiantes La Plata": 3.95,
-        "Flamengo-RJ": 2.08,
-        "Draw": 2.92
-      },
-      "Betsson": {
-        "Estudiantes La Plata": 3.95,
-        "Flamengo-RJ": 2.08,
-        "Draw": 2.92
-      },
-      "Unibet (NL)": {
-        "Estudiantes La Plata": 4.1,
-        "Flamengo-RJ": 2.04,
-        "Draw": 3.0
-      },
-      "LeoVegas (SE)": {
-        "Estudiantes La Plata": 3.95,
-        "Flamengo-RJ": 2.0,
-        "Draw": 2.9
-      },
-      "PMU (FR)": {
-        "Estudiantes La Plata": 3.85,
-        "Flamengo-RJ": 1.93,
-        "Draw": 2.85
-      },
-      "Marathon Bet": {
-        "Estudiantes La Plata": 3.88,
-        "Flamengo-RJ": 2.09,
-        "Draw": 2.95
-      },
-      "Pinnacle": {
-        "Estudiantes La Plata": 3.95,
-        "Flamengo-RJ": 2.17,
-        "Draw": 3.08
-      },
-      "Tipico": {
-        "Estudiantes La Plata": 4.1,
-        "Flamengo-RJ": 2.05,
-        "Draw": 2.95
-      },
-      "888sport": {
-        "Estudiantes La Plata": 3.75,
-        "Flamengo-RJ": 2.1,
-        "Draw": 2.88
-      },
-      "William Hill": {
-        "Estudiantes La Plata": 3.75,
-        "Flamengo-RJ": 2.1,
-        "Draw": 2.88
-      },
-      "GTbets": {
-        "Estudiantes La Plata": 3.89,
-        "Flamengo-RJ": 2.02,
-        "Draw": 3.1
-      },
-      "BetOnline.ag": {
-        "Estudiantes La Plata": 3.95,
-        "Flamengo-RJ": 2.19,
-        "Draw": 3.08
-      }
-    },
     "f3b6d9ee5669fbf72d965f8ce83a908a:h2h": {
       "William Hill": {
         "Sydney FC": 2.2,
         "Western Sydney Wanderers": 2.9,
-        "Draw": 3.4
+        "Draw": 3.5
       },
       "Unibet (FR)": {
-        "Sydney FC": 1.99,
-        "Western Sydney Wanderers": 2.85,
-        "Draw": 3.4
+        "Sydney FC": 2.0,
+        "Western Sydney Wanderers": 2.9,
+        "Draw": 3.5
       },
       "888sport": {
         "Sydney FC": 2.2,
         "Western Sydney Wanderers": 2.9,
-        "Draw": 3.4
+        "Draw": 3.5
       },
       "Winamax (FR)": {
         "Sydney FC": 2.1,
@@ -187,32 +33,32 @@
       },
       "Betsson": {
         "Sydney FC": 2.22,
-        "Western Sydney Wanderers": 2.9,
+        "Western Sydney Wanderers": 2.95,
         "Draw": 3.45
       },
       "Nordic Bet": {
         "Sydney FC": 2.22,
-        "Western Sydney Wanderers": 2.9,
+        "Western Sydney Wanderers": 2.95,
         "Draw": 3.45
       },
       "Marathon Bet": {
         "Sydney FC": 2.18,
-        "Western Sydney Wanderers": 2.97,
-        "Draw": 3.58
+        "Western Sydney Wanderers": 2.93,
+        "Draw": 3.64
       },
       "Pinnacle": {
-        "Sydney FC": 2.32,
-        "Western Sydney Wanderers": 2.97,
-        "Draw": 3.77
+        "Sydney FC": 2.26,
+        "Western Sydney Wanderers": 3.02,
+        "Draw": 3.84
       },
       "Betfair": {
-        "Sydney FC": 2.38,
-        "Western Sydney Wanderers": 3.1,
-        "Draw": 3.8
+        "Sydney FC": 2.28,
+        "Western Sydney Wanderers": 3.15,
+        "Draw": 3.9
       },
       "Coolbet": {
-        "Sydney FC": 2.26,
-        "Western Sydney Wanderers": 2.95,
+        "Sydney FC": 2.28,
+        "Western Sydney Wanderers": 2.9,
         "Draw": 3.75
       },
       "GTbets": {
@@ -221,136 +67,240 @@
         "Draw": 3.7
       },
       "LeoVegas (SE)": {
-        "Sydney FC": 2.07,
-        "Western Sydney Wanderers": 3.1,
-        "Draw": 3.55
+        "Sydney FC": 2.08,
+        "Western Sydney Wanderers": 3.0,
+        "Draw": 3.65
       },
       "Unibet (SE)": {
-        "Sydney FC": 2.08,
-        "Western Sydney Wanderers": 3.1,
-        "Draw": 3.55
+        "Sydney FC": 2.1,
+        "Western Sydney Wanderers": 3.0,
+        "Draw": 3.65
       },
       "PMU (FR)": {
-        "Sydney FC": 2.0,
-        "Western Sydney Wanderers": 3.0,
-        "Draw": 3.4
+        "Sydney FC": 2.02,
+        "Western Sydney Wanderers": 2.88,
+        "Draw": 3.5
       },
       "Unibet (NL)": {
-        "Sydney FC": 2.08,
-        "Western Sydney Wanderers": 3.1,
-        "Draw": 3.55
+        "Sydney FC": 2.1,
+        "Western Sydney Wanderers": 3.0,
+        "Draw": 3.65
       },
       "BetOnline.ag": {
-        "Sydney FC": 2.32,
-        "Western Sydney Wanderers": 2.97,
-        "Draw": 3.75
+        "Sydney FC": 2.25,
+        "Western Sydney Wanderers": 3.05,
+        "Draw": 3.8
       },
       "Matchbook": {
-        "Sydney FC": 2.32,
-        "Western Sydney Wanderers": 2.98,
-        "Draw": 3.65
+        "Sydney FC": 2.28,
+        "Western Sydney Wanderers": 3.1,
+        "Draw": 3.9
       }
     },
     "c80bf049e66d05c1a83afb980fd36d0e:h2h": {
       "BetOnline.ag": {
-        "Henan FC": 1.86,
-        "Tianjin Jinmen Tiger FC": 4.4,
-        "Draw": 3.45
+        "Henan FC": 2.08,
+        "Tianjin Jinmen Tiger FC": 3.85,
+        "Draw": 3.2
       },
       "Winamax (DE)": {
-        "Henan FC": 1.74,
-        "Tianjin Jinmen Tiger FC": 4.1,
-        "Draw": 3.6
+        "Henan FC": 2.0,
+        "Tianjin Jinmen Tiger FC": 3.35,
+        "Draw": 3.35
       },
       "Winamax (FR)": {
-        "Henan FC": 1.72,
-        "Tianjin Jinmen Tiger FC": 4.0,
-        "Draw": 3.5
+        "Henan FC": 1.96,
+        "Tianjin Jinmen Tiger FC": 3.3,
+        "Draw": 3.3
       },
       "Coolbet": {
-        "Henan FC": 1.78,
-        "Tianjin Jinmen Tiger FC": 4.4,
-        "Draw": 3.75
+        "Henan FC": 2.02,
+        "Tianjin Jinmen Tiger FC": 3.6,
+        "Draw": 3.5
       },
       "Betsson": {
-        "Henan FC": 1.75,
-        "Tianjin Jinmen Tiger FC": 4.2,
-        "Draw": 3.45
+        "Henan FC": 2.02,
+        "Tianjin Jinmen Tiger FC": 3.45,
+        "Draw": 3.25
       },
       "Nordic Bet": {
-        "Henan FC": 1.75,
-        "Tianjin Jinmen Tiger FC": 4.2,
-        "Draw": 3.45
+        "Henan FC": 2.02,
+        "Tianjin Jinmen Tiger FC": 3.45,
+        "Draw": 3.25
       },
       "Unibet (FR)": {
-        "Henan FC": 1.61,
-        "Tianjin Jinmen Tiger FC": 4.0,
-        "Draw": 3.4
+        "Henan FC": 1.92,
+        "Tianjin Jinmen Tiger FC": 3.1,
+        "Draw": 3.1
       },
       "1xBet": {
-        "Henan FC": 1.81,
-        "Tianjin Jinmen Tiger FC": 4.36,
-        "Draw": 3.75
+        "Henan FC": 2.06,
+        "Tianjin Jinmen Tiger FC": 3.56,
+        "Draw": 3.56
       },
       "GTbets": {
-        "Henan FC": 1.72,
-        "Tianjin Jinmen Tiger FC": 4.34,
-        "Draw": 3.74
+        "Henan FC": 2.03,
+        "Tianjin Jinmen Tiger FC": 3.69,
+        "Draw": 3.55
       },
       "Pinnacle": {
-        "Henan FC": 1.84,
-        "Tianjin Jinmen Tiger FC": 4.65,
-        "Draw": 3.53
+        "Henan FC": 2.12,
+        "Tianjin Jinmen Tiger FC": 3.76,
+        "Draw": 3.3
       },
       "888sport": {
-        "Henan FC": 1.75,
-        "Tianjin Jinmen Tiger FC": 4.2,
-        "Draw": 3.4
+        "Henan FC": 2.05,
+        "Tianjin Jinmen Tiger FC": 3.3,
+        "Draw": 3.3
       },
       "William Hill": {
-        "Henan FC": 1.75,
-        "Tianjin Jinmen Tiger FC": 4.2,
-        "Draw": 3.4
+        "Henan FC": 2.05,
+        "Tianjin Jinmen Tiger FC": 3.3,
+        "Draw": 3.3
       },
       "LeoVegas (SE)": {
-        "Henan FC": 1.7,
-        "Tianjin Jinmen Tiger FC": 4.0,
-        "Draw": 3.5
+        "Henan FC": 1.79,
+        "Tianjin Jinmen Tiger FC": 3.7,
+        "Draw": 3.4
       },
       "Unibet (SE)": {
-        "Henan FC": 1.77,
-        "Tianjin Jinmen Tiger FC": 4.25,
-        "Draw": 3.7
+        "Henan FC": 1.87,
+        "Tianjin Jinmen Tiger FC": 3.9,
+        "Draw": 3.6
       },
       "Unibet (NL)": {
-        "Henan FC": 1.77,
-        "Tianjin Jinmen Tiger FC": 4.25,
-        "Draw": 3.7
+        "Henan FC": 1.87,
+        "Tianjin Jinmen Tiger FC": 3.9,
+        "Draw": 3.6
       },
       "Marathon Bet": {
-        "Henan FC": 1.75,
-        "Tianjin Jinmen Tiger FC": 4.2,
-        "Draw": 3.62
+        "Henan FC": 1.99,
+        "Tianjin Jinmen Tiger FC": 3.44,
+        "Draw": 3.42
       },
       "Tipico": {
-        "Henan FC": 1.72,
-        "Tianjin Jinmen Tiger FC": 4.5,
-        "Draw": 3.5
+        "Henan FC": 1.95,
+        "Tianjin Jinmen Tiger FC": 3.8,
+        "Draw": 3.2
       },
       "Betfair": {
-        "Henan FC": 1.89,
-        "Tianjin Jinmen Tiger FC": 4.7,
-        "Draw": 3.6
+        "Henan FC": 2.16,
+        "Tianjin Jinmen Tiger FC": 3.9,
+        "Draw": 3.4
       },
       "Codere (IT)": {
-        "Henan FC": 1.76,
-        "Tianjin Jinmen Tiger FC": 4.2,
-        "Draw": 3.5
+        "Henan FC": 2.02,
+        "Tianjin Jinmen Tiger FC": 3.45,
+        "Draw": 3.3
       },
       "Matchbook": {
-        "Henan FC": 1.89,
-        "Tianjin Jinmen Tiger FC": 4.7,
-        "Draw": 3.6
+        "Henan FC": 2.14,
+        "Tianjin Jinmen Tiger FC": 4.0,
+        "Draw": 3.4
+      }
+    },
+    "d3cb30f50aa61db885478401eb68001e:h2h": {
+      "Unibet (SE)": {
+        "Abha Club": 14.0,
+        "Al-Qadsiah": 1.12,
+        "Draw": 7.5
+      },
+      "PMU (FR)": {
+        "Abha Club": 14.0,
+        "Al-Qadsiah": 1.06,
+        "Draw": 7.0
+      },
+      "LeoVegas (SE)": {
+        "Abha Club": 14.0,
+        "Al-Qadsiah": 1.09,
+        "Draw": 7.5
+      },
+      "Unibet (NL)": {
+        "Abha Club": 14.0,
+        "Al-Qadsiah": 1.12,
+        "Draw": 7.5
+      },
+      "Unibet (FR)": {
+        "Abha Club": 12.0,
+        "Al-Qadsiah": 1.07,
+        "Draw": 6.7
+      },
+      "Betclic (FR)": {
+        "Abha Club": 13.75,
+        "Al-Qadsiah": 1.09,
+        "Draw": 7.5
+      },
+      "1xBet": {
+        "Abha Club": 23.0,
+        "Al-Qadsiah": 1.07,
+        "Draw": 11.3
+      },
+      "Pinnacle": {
+        "Abha Club": 18.35,
+        "Al-Qadsiah": 1.13,
+        "Draw": 9.66
+      },
+      "888sport": {
+        "Abha Club": 17.0,
+        "Al-Qadsiah": 1.1,
+        "Draw": 8.5
+      },
+      "William Hill": {
+        "Abha Club": 17.0,
+        "Al-Qadsiah": 1.1,
+        "Draw": 8.5
+      },
+      "Winamax (DE)": {
+        "Abha Club": 12.5,
+        "Al-Qadsiah": 1.11,
+        "Draw": 8.5
+      },
+      "Winamax (FR)": {
+        "Abha Club": 12.0,
+        "Al-Qadsiah": 1.1,
+        "Draw": 8.0
+      },
+      "Tipico": {
+        "Abha Club": 19.0,
+        "Al-Qadsiah": 1.08,
+        "Draw": 9.0
+      },
+      "Betfair": {
+        "Abha Club": 25.0,
+        "Al-Qadsiah": 1.14,
+        "Draw": 11.0
+      }
+    },
+    "a41bcc7673e58c512b8117615bbc9385:h2h": {
+      "LeoVegas (SE)": {
+        "Al-Hilal": 1.11,
+        "Al-Riyadh": 13.0,
+        "Draw": 7.0
+      },
+      "Unibet (NL)": {
+        "Al-Hilal": 1.13,
+        "Al-Riyadh": 13.0,
+        "Draw": 7.0
+      },
+      "PMU (FR)": {
+        "Al-Hilal": 1.07,
+        "Al-Riyadh": 12.5,
+        "Draw": 6.75
+      },
+      "Unibet (SE)": {
+        "Al-Hilal": 1.13,
+        "Al-Riyadh": 13.0,
+        "Draw": 7.0
+      },
+      "888sport": {
+        "Al-Hilal": 1.11,
+        "Al-Riyadh": 15.0,
+        "Draw": 8.0
+      },
+      "William Hill": {
+        "Al-Hilal": 1.11,
+        "Al-Riyadh": 15.0,
+        "Draw": 8.0
       }
     }
   },
@@ -3555,8 +3505,77 @@
       "confidence": 8,
       "alert_type": "value",
       "alerted_at": "2026-10-15T16:52:53.555409+00:00"
+    },
+    {
+      "state_key": "d3cb30f50aa61db885478401eb68001e:h2h",
+      "event_id": "d3cb30f50aa61db885478401eb68001e",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Qadsiah",
+      "away_team": "Abha Club",
+      "commence_time": "2026-10-16T13:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Abha Club",
+      "odds_at_alert": 23.0,
+      "stake_pct": 5.0,
+      "confidence": 20,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T07:04:20.985367+00:00"
+    },
+    {
+      "state_key": "d3cb30f50aa61db885478401eb68001e:h2h",
+      "event_id": "d3cb30f50aa61db885478401eb68001e",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Qadsiah",
+      "away_team": "Abha Club",
+      "commence_time": "2026-10-16T13:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 11.3,
+      "stake_pct": 3.0,
+      "confidence": 12,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T07:04:21.342654+00:00"
+    },
+    {
+      "state_key": "d3cb30f50aa61db885478401eb68001e:h2h",
+      "event_id": "d3cb30f50aa61db885478401eb68001e",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Qadsiah",
+      "away_team": "Abha Club",
+      "commence_time": "2026-10-16T13:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Abha Club",
+      "odds_at_alert": 25.0,
+      "stake_pct": 5.0,
+      "confidence": 31,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T07:04:21.665516+00:00"
+    },
+    {
+      "state_key": "d3cb30f50aa61db885478401eb68001e:h2h",
+      "event_id": "d3cb30f50aa61db885478401eb68001e",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Qadsiah",
+      "away_team": "Abha Club",
+      "commence_time": "2026-10-16T13:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 11.0,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T07:04:21.977203+00:00"
     }
   ],
   "results_history": [],
-  "value_alerted": []
+  "value_alerted": [
+    "d3cb30f50aa61db885478401eb68001e:h2h|1xBet|Abha Club",
+    "d3cb30f50aa61db885478401eb68001e:h2h|1xBet|Draw",
+    "d3cb30f50aa61db885478401eb68001e:h2h|Betfair|Abha Club",
+    "d3cb30f50aa61db885478401eb68001e:h2h|Betfair|Draw"
+  ]
 }
