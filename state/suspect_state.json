@@ -1,281 +1,256 @@
 {
   "snapshots": {
-    "c80bf049e66d05c1a83afb980fd36d0e:h2h": {
-      "Winamax (DE)": {
-        "Henan FC": 11.5,
-        "Tianjin Jinmen Tiger FC": 1.4,
-        "Draw": 3.4
+    "bd1d717f949f57694664f9ba11139851:h2h": {
+      "Betclic (FR)": {
+        "Raków Częstochowa": 1.02,
+        "Wieczysta Kraków": 100.0,
+        "Draw": 10.0
+      },
+      "Nordic Bet": {
+        "Raków Częstochowa": 6.3,
+        "Wieczysta Kraków": 5.8,
+        "Draw": 1.28
       },
       "Winamax (FR)": {
-        "Henan FC": 11.0,
-        "Tianjin Jinmen Tiger FC": 1.38,
+        "Raków Częstochowa": 1.05,
+        "Wieczysta Kraków": 160.0,
+        "Draw": 12.5
+      },
+      "Winamax (DE)": {
+        "Raków Częstochowa": 1.03,
+        "Wieczysta Kraków": 160.0,
+        "Draw": 13.0
+      },
+      "Betsson": {
+        "Raków Częstochowa": 6.8,
+        "Wieczysta Kraków": 5.35,
+        "Draw": 1.28
+      },
+      "Coolbet": {
+        "Raków Częstochowa": 1.01,
+        "Wieczysta Kraków": 200.0,
+        "Draw": 13.0
+      },
+      "Pinnacle": {
+        "Raków Częstochowa": 7.16,
+        "Wieczysta Kraków": 5.6,
+        "Draw": 1.32
+      },
+      "888sport": {
+        "Raków Częstochowa": 1.04,
+        "Wieczysta Kraków": 126.0,
+        "Draw": 12.0
+      },
+      "Tipico": {
+        "Raków Częstochowa": 1.01,
+        "Wieczysta Kraków": 400.0,
+        "Draw": 25.0
+      },
+      "Betfair": {
+        "Raków Częstochowa": 1.03,
+        "Wieczysta Kraków": 5.5,
+        "Draw": 17.5
+      }
+    },
+    "f6efe77542b7ee5bfb4ee3bc1e7368c4:h2h": {
+      "Tipico": {
+        "1. FC Nürnberg": 6.0,
+        "FC Energie Cottbus": 1.55,
+        "Draw": 3.6
+      },
+      "PMU (FR)": {
+        "1. FC Nürnberg": 6.25,
+        "FC Energie Cottbus": 1.42,
+        "Draw": 2.95
+      },
+      "Unibet (SE)": {
+        "1. FC Nürnberg": 6.75,
+        "FC Energie Cottbus": 1.56,
+        "Draw": 3.2
+      },
+      "Unibet (NL)": {
+        "1. FC Nürnberg": 6.75,
+        "FC Energie Cottbus": 1.56,
+        "Draw": 3.2
+      },
+      "LeoVegas (SE)": {
+        "1. FC Nürnberg": 6.4,
+        "FC Energie Cottbus": 1.45,
+        "Draw": 3.05
+      },
+      "Nordic Bet": {
+        "1. FC Nürnberg": 6.8,
+        "FC Energie Cottbus": 1.55,
+        "Draw": 3.3
+      },
+      "Betclic (FR)": {
+        "1. FC Nürnberg": 6.1,
+        "FC Energie Cottbus": 1.53,
+        "Draw": 3.15
+      },
+      "Winamax (DE)": {
+        "1. FC Nürnberg": 7.25,
+        "FC Energie Cottbus": 1.56,
+        "Draw": 3.1
+      },
+      "Betsson": {
+        "1. FC Nürnberg": 6.8,
+        "FC Energie Cottbus": 1.55,
+        "Draw": 3.3
+      },
+      "Winamax (FR)": {
+        "1. FC Nürnberg": 6.0,
+        "FC Energie Cottbus": 1.52,
         "Draw": 3.3
       },
       "Coolbet": {
-        "Henan FC": 12.5,
-        "Tianjin Jinmen Tiger FC": 1.4,
-        "Draw": 3.5
-      },
-      "Betsson": {
-        "Henan FC": 12.5,
-        "Tianjin Jinmen Tiger FC": 1.38,
-        "Draw": 3.4
-      },
-      "Nordic Bet": {
-        "Henan FC": 12.5,
-        "Tianjin Jinmen Tiger FC": 1.38,
-        "Draw": 3.4
-      },
-      "Pinnacle": {
-        "Henan FC": 8.85,
-        "Tianjin Jinmen Tiger FC": 1.55,
-        "Draw": 3.26
-      },
-      "888sport": {
-        "Henan FC": 10.0,
-        "Tianjin Jinmen Tiger FC": 1.4,
-        "Draw": 3.4
-      },
-      "LeoVegas (SE)": {
-        "Henan FC": 15.0,
-        "Tianjin Jinmen Tiger FC": 1.23,
-        "Draw": 3.5
-      },
-      "Unibet (SE)": {
-        "Henan FC": 15.0,
-        "Tianjin Jinmen Tiger FC": 1.3,
-        "Draw": 3.7
-      },
-      "Unibet (NL)": {
-        "Henan FC": 15.0,
-        "Tianjin Jinmen Tiger FC": 1.3,
-        "Draw": 3.7
-      },
-      "Marathon Bet": {
-        "Henan FC": 11.5,
-        "Tianjin Jinmen Tiger FC": 1.37,
-        "Draw": 3.5
-      },
-      "Tipico": {
-        "Henan FC": 13.0,
-        "Tianjin Jinmen Tiger FC": 1.35,
+        "1. FC Nürnberg": 7.5,
+        "FC Energie Cottbus": 1.6,
         "Draw": 3.6
       },
-      "Betfair": {
-        "Henan FC": 16.0,
-        "Tianjin Jinmen Tiger FC": 1.46,
-        "Draw": 3.9
-      },
-      "Matchbook": {
-        "Henan FC": 15.0,
-        "Tianjin Jinmen Tiger FC": 1.45,
-        "Draw": 3.7
-      }
-    },
-    "d3cb30f50aa61db885478401eb68001e:h2h": {
-      "Unibet (SE)": {
-        "Abha Club": 15.0,
-        "Al-Qadsiah": 1.1,
-        "Draw": 8.5
-      },
-      "PMU (FR)": {
-        "Abha Club": 14.0,
-        "Al-Qadsiah": 1.04,
-        "Draw": 8.0
-      },
-      "LeoVegas (SE)": {
-        "Abha Club": 15.0,
-        "Al-Qadsiah": 1.08,
-        "Draw": 8.0
-      },
-      "Unibet (NL)": {
-        "Abha Club": 15.0,
-        "Al-Qadsiah": 1.1,
-        "Draw": 8.5
-      },
-      "Unibet (FR)": {
-        "Abha Club": 11.0,
-        "Al-Qadsiah": 1.06,
-        "Draw": 6.4
-      },
-      "Betclic (FR)": {
-        "Abha Club": 13.5,
-        "Al-Qadsiah": 1.07,
-        "Draw": 7.75
-      },
-      "1xBet": {
-        "Abha Club": 23.0,
-        "Al-Qadsiah": 1.06,
-        "Draw": 11.9
-      },
       "Pinnacle": {
-        "Abha Club": 17.76,
-        "Al-Qadsiah": 1.13,
-        "Draw": 9.76
-      },
-      "888sport": {
-        "Abha Club": 17.0,
-        "Al-Qadsiah": 1.08,
-        "Draw": 9.0
-      },
-      "William Hill": {
-        "Abha Club": 17.0,
-        "Al-Qadsiah": 1.08,
-        "Draw": 9.0
-      },
-      "Winamax (DE)": {
-        "Abha Club": 13.0,
-        "Al-Qadsiah": 1.1,
-        "Draw": 9.0
-      },
-      "Winamax (FR)": {
-        "Abha Club": 12.0,
-        "Al-Qadsiah": 1.09,
-        "Draw": 8.5
-      },
-      "Tipico": {
-        "Abha Club": 16.0,
-        "Al-Qadsiah": 1.08,
-        "Draw": 10.0
+        "1. FC Nürnberg": 6.2,
+        "FC Energie Cottbus": 1.7,
+        "Draw": 3.27
       },
       "Betfair": {
-        "Abha Club": 21.0,
-        "Al-Qadsiah": 1.14,
-        "Draw": 11.5
-      }
-    },
-    "a41bcc7673e58c512b8117615bbc9385:h2h": {
-      "LeoVegas (SE)": {
-        "Al-Hilal": 1.11,
-        "Al-Riyadh": 13.0,
-        "Draw": 7.0
-      },
-      "Unibet (NL)": {
-        "Al-Hilal": 1.13,
-        "Al-Riyadh": 13.0,
-        "Draw": 7.0
-      },
-      "PMU (FR)": {
-        "Al-Hilal": 1.07,
-        "Al-Riyadh": 12.5,
-        "Draw": 6.75
-      },
-      "Unibet (SE)": {
-        "Al-Hilal": 1.13,
-        "Al-Riyadh": 13.0,
-        "Draw": 7.0
-      },
-      "888sport": {
-        "Al-Hilal": 1.11,
-        "Al-Riyadh": 15.0,
-        "Draw": 8.0
-      },
-      "William Hill": {
-        "Al-Hilal": 1.11,
-        "Al-Riyadh": 15.0,
-        "Draw": 8.0
-      }
-    },
-    "bd1d717f949f57694664f9ba11139851:h2h": {
-      "LeoVegas (SE)": {
-        "Raków Częstochowa": 2.95,
-        "Wieczysta Kraków": 1.96,
-        "Draw": 3.5
-      },
-      "Unibet (NL)": {
-        "Raków Częstochowa": 3.15,
-        "Wieczysta Kraków": 2.08,
-        "Draw": 3.75
-      },
-      "PMU (FR)": {
-        "Raków Częstochowa": 2.95,
-        "Wieczysta Kraków": 1.96,
-        "Draw": 3.5
-      },
-      "Unibet (SE)": {
-        "Raków Częstochowa": 3.15,
-        "Wieczysta Kraków": 2.08,
-        "Draw": 3.75
-      },
-      "Betclic (FR)": {
-        "Raków Częstochowa": 3.12,
-        "Wieczysta Kraków": 1.93,
-        "Draw": 3.55
-      },
-      "Unibet (FR)": {
-        "Raków Częstochowa": 3.15,
-        "Wieczysta Kraków": 1.85,
-        "Draw": 3.6
-      },
-      "Nordic Bet": {
-        "Raków Częstochowa": 3.2,
-        "Wieczysta Kraków": 2.0,
-        "Draw": 3.55
-      },
-      "Winamax (FR)": {
-        "Raków Częstochowa": 3.05,
-        "Wieczysta Kraków": 1.92,
-        "Draw": 3.7
-      },
-      "Winamax (DE)": {
-        "Raków Częstochowa": 3.1,
-        "Wieczysta Kraków": 1.96,
-        "Draw": 3.75
-      },
-      "Betsson": {
-        "Raków Częstochowa": 3.2,
-        "Wieczysta Kraków": 2.0,
-        "Draw": 3.55
-      },
-      "Coolbet": {
-        "Raków Częstochowa": 3.2,
-        "Wieczysta Kraków": 2.05,
-        "Draw": 4.0
-      },
-      "1xBet": {
-        "Raków Częstochowa": 3.27,
-        "Wieczysta Kraków": 1.96,
-        "Draw": 3.8
-      },
-      "BetOnline.ag": {
-        "Raków Częstochowa": 3.4,
-        "Wieczysta Kraków": 1.98,
-        "Draw": 3.8
-      },
-      "Marathon Bet": {
-        "Raków Częstochowa": 3.25,
-        "Wieczysta Kraków": 1.94,
-        "Draw": 3.8
-      },
-      "Codere (IT)": {
-        "Raków Częstochowa": 3.2,
-        "Wieczysta Kraków": 2.0,
+        "1. FC Nürnberg": 8.6,
+        "FC Energie Cottbus": 1.63,
         "Draw": 3.65
       },
-      "Pinnacle": {
-        "Raków Częstochowa": 3.55,
-        "Wieczysta Kraków": 1.99,
-        "Draw": 3.91
-      },
       "888sport": {
-        "Raków Częstochowa": 3.2,
-        "Wieczysta Kraków": 2.0,
-        "Draw": 3.6
+        "1. FC Nürnberg": 6.0,
+        "FC Energie Cottbus": 1.57,
+        "Draw": 3.25
       },
-      "Tipico": {
-        "Raków Częstochowa": 3.5,
-        "Wieczysta Kraków": 1.9,
-        "Draw": 3.6
-      },
-      "Betfair": {
-        "Raków Częstochowa": 3.65,
-        "Wieczysta Kraków": 2.06,
-        "Draw": 4.0
+      "Marathon Bet": {
+        "1. FC Nürnberg": 6.65,
+        "FC Energie Cottbus": 1.54,
+        "Draw": 3.3
       },
       "Matchbook": {
-        "Raków Częstochowa": 3.65,
-        "Wieczysta Kraków": 2.06,
-        "Draw": 4.0
+        "1. FC Nürnberg": 8.6,
+        "FC Energie Cottbus": 1.63,
+        "Draw": 3.65
+      }
+    },
+    "150f424b7931458d08430ddeb256692f:h2h": {
+      "Unibet (NL)": {
+        "Hertha Berlin": 2.8,
+        "Holstein Kiel": 4.25,
+        "Draw": 1.93
+      },
+      "Betclic (FR)": {
+        "Hertha Berlin": 2.47,
+        "Holstein Kiel": 4.4,
+        "Draw": 1.97
+      },
+      "LeoVegas (SE)": {
+        "Hertha Berlin": 2.65,
+        "Holstein Kiel": 4.0,
+        "Draw": 1.81
+      },
+      "PMU (FR)": {
+        "Hertha Berlin": 2.6,
+        "Holstein Kiel": 3.95,
+        "Draw": 1.76
+      },
+      "Tipico": {
+        "Hertha Berlin": 2.5,
+        "Holstein Kiel": 5.2,
+        "Draw": 2.0
+      },
+      "Unibet (SE)": {
+        "Hertha Berlin": 2.8,
+        "Holstein Kiel": 4.25,
+        "Draw": 1.93
+      },
+      "Nordic Bet": {
+        "Hertha Berlin": 2.6,
+        "Holstein Kiel": 4.6,
+        "Draw": 2.02
+      },
+      "Betsson": {
+        "Hertha Berlin": 2.6,
+        "Holstein Kiel": 4.6,
+        "Draw": 2.02
+      },
+      "Winamax (DE)": {
+        "Hertha Berlin": 2.5,
+        "Holstein Kiel": 4.7,
+        "Draw": 2.0
+      },
+      "Winamax (FR)": {
+        "Hertha Berlin": 2.45,
+        "Holstein Kiel": 4.6,
+        "Draw": 1.92
+      },
+      "Coolbet": {
+        "Hertha Berlin": 2.75,
+        "Holstein Kiel": 5.0,
+        "Draw": 2.1
+      },
+      "Pinnacle": {
+        "Hertha Berlin": 2.5,
+        "Holstein Kiel": 4.44,
+        "Draw": 2.32
+      },
+      "Marathon Bet": {
+        "Hertha Berlin": 2.49,
+        "Holstein Kiel": 5.25,
+        "Draw": 1.96
+      },
+      "888sport": {
+        "Hertha Berlin": 2.6,
+        "Holstein Kiel": 4.8,
+        "Draw": 1.95
+      },
+      "Betfair": {
+        "Hertha Berlin": 2.8,
+        "Holstein Kiel": 5.7,
+        "Draw": 2.12
+      },
+      "Matchbook": {
+        "Hertha Berlin": 2.86,
+        "Holstein Kiel": 5.7,
+        "Draw": 2.06
+      }
+    },
+    "746a33a6adb903a87105ebb91efe324a:h2h": {
+      "Tipico": {
+        "RB Leipzig": 1.04,
+        "SC Freiburg": 45.0,
+        "Draw": 8.0
+      },
+      "888sport": {
+        "RB Leipzig": 1.11,
+        "SC Freiburg": 29.0,
+        "Draw": 6.0
+      },
+      "William Hill": {
+        "RB Leipzig": 1.1,
+        "SC Freiburg": 34.0,
+        "Draw": 6.5
+      },
+      "Pinnacle": {
+        "RB Leipzig": 1.69,
+        "SC Freiburg": 7.08,
+        "Draw": 2.81
+      },
+      "LeoVegas (SE)": {
+        "RB Leipzig": 1.09,
+        "SC Freiburg": 21.0,
+        "Draw": 5.75
+      },
+      "Unibet (SE)": {
+        "RB Leipzig": 1.12,
+        "SC Freiburg": 23.0,
+        "Draw": 6.1
+      },
+      "Unibet (NL)": {
+        "RB Leipzig": 1.12,
+        "SC Freiburg": 23.0,
+        "Draw": 6.1
       }
     }
   },
@@ -3816,30 +3791,689 @@
       "confidence": 7,
       "alert_type": "value",
       "alerted_at": "2026-10-16T13:11:55.426596+00:00"
+    },
+    {
+      "state_key": "bd1d717f949f57694664f9ba11139851:h2h",
+      "event_id": "bd1d717f949f57694664f9ba11139851",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Wieczysta Kraków",
+      "away_team": "Raków Częstochowa",
+      "commence_time": "2026-10-16T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Wieczysta Kraków",
+      "odds_at_alert": 100.0,
+      "stake_pct": 5.0,
+      "confidence": 1560,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T17:58:39.015956+00:00"
+    },
+    {
+      "state_key": "bd1d717f949f57694664f9ba11139851:h2h",
+      "event_id": "bd1d717f949f57694664f9ba11139851",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Wieczysta Kraków",
+      "away_team": "Raków Częstochowa",
+      "commence_time": "2026-10-16T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 10.0,
+      "stake_pct": 5.0,
+      "confidence": 604,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T17:58:39.561508+00:00"
+    },
+    {
+      "state_key": "bd1d717f949f57694664f9ba11139851:h2h",
+      "event_id": "bd1d717f949f57694664f9ba11139851",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Wieczysta Kraków",
+      "away_team": "Raków Częstochowa",
+      "commence_time": "2026-10-16T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Wieczysta Kraków",
+      "odds_at_alert": 160.0,
+      "stake_pct": 5.0,
+      "confidence": 2556,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T17:58:40.084645+00:00"
+    },
+    {
+      "state_key": "bd1d717f949f57694664f9ba11139851:h2h",
+      "event_id": "bd1d717f949f57694664f9ba11139851",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Wieczysta Kraków",
+      "away_team": "Raków Częstochowa",
+      "commence_time": "2026-10-16T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 12.5,
+      "stake_pct": 5.0,
+      "confidence": 780,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T17:58:40.625810+00:00"
+    },
+    {
+      "state_key": "bd1d717f949f57694664f9ba11139851:h2h",
+      "event_id": "bd1d717f949f57694664f9ba11139851",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Wieczysta Kraków",
+      "away_team": "Raków Częstochowa",
+      "commence_time": "2026-10-16T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Wieczysta Kraków",
+      "odds_at_alert": 160.0,
+      "stake_pct": 5.0,
+      "confidence": 2556,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T17:58:41.187947+00:00"
+    },
+    {
+      "state_key": "bd1d717f949f57694664f9ba11139851:h2h",
+      "event_id": "bd1d717f949f57694664f9ba11139851",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Wieczysta Kraków",
+      "away_team": "Raków Częstochowa",
+      "commence_time": "2026-10-16T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 815,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T17:58:41.683137+00:00"
+    },
+    {
+      "state_key": "bd1d717f949f57694664f9ba11139851:h2h",
+      "event_id": "bd1d717f949f57694664f9ba11139851",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Wieczysta Kraków",
+      "away_team": "Raków Częstochowa",
+      "commence_time": "2026-10-16T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Wieczysta Kraków",
+      "odds_at_alert": 200.0,
+      "stake_pct": 5.0,
+      "confidence": 3220,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T17:58:42.236588+00:00"
+    },
+    {
+      "state_key": "bd1d717f949f57694664f9ba11139851:h2h",
+      "event_id": "bd1d717f949f57694664f9ba11139851",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Wieczysta Kraków",
+      "away_team": "Raków Częstochowa",
+      "commence_time": "2026-10-16T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 815,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T17:58:42.763390+00:00"
+    },
+    {
+      "state_key": "bd1d717f949f57694664f9ba11139851:h2h",
+      "event_id": "bd1d717f949f57694664f9ba11139851",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Wieczysta Kraków",
+      "away_team": "Raków Częstochowa",
+      "commence_time": "2026-10-16T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Wieczysta Kraków",
+      "odds_at_alert": 126.0,
+      "stake_pct": 5.0,
+      "confidence": 1991,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T17:58:43.308389+00:00"
+    },
+    {
+      "state_key": "bd1d717f949f57694664f9ba11139851:h2h",
+      "event_id": "bd1d717f949f57694664f9ba11139851",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Wieczysta Kraków",
+      "away_team": "Raków Częstochowa",
+      "commence_time": "2026-10-16T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 745,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T17:58:43.829159+00:00"
+    },
+    {
+      "state_key": "bd1d717f949f57694664f9ba11139851:h2h",
+      "event_id": "bd1d717f949f57694664f9ba11139851",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Wieczysta Kraków",
+      "away_team": "Raków Częstochowa",
+      "commence_time": "2026-10-16T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Wieczysta Kraków",
+      "odds_at_alert": 400.0,
+      "stake_pct": 5.0,
+      "confidence": 6540,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T17:58:44.340315+00:00"
+    },
+    {
+      "state_key": "bd1d717f949f57694664f9ba11139851:h2h",
+      "event_id": "bd1d717f949f57694664f9ba11139851",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Wieczysta Kraków",
+      "away_team": "Raków Częstochowa",
+      "commence_time": "2026-10-16T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 25.0,
+      "stake_pct": 5.0,
+      "confidence": 1660,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T17:58:44.866232+00:00"
+    },
+    {
+      "state_key": "bd1d717f949f57694664f9ba11139851:h2h",
+      "event_id": "bd1d717f949f57694664f9ba11139851",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Wieczysta Kraków",
+      "away_team": "Raków Częstochowa",
+      "commence_time": "2026-10-16T16:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 17.5,
+      "stake_pct": 5.0,
+      "confidence": 1132,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T17:58:45.467086+00:00"
+    },
+    {
+      "state_key": "f6efe77542b7ee5bfb4ee3bc1e7368c4:h2h",
+      "event_id": "f6efe77542b7ee5bfb4ee3bc1e7368c4",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "FC Energie Cottbus",
+      "away_team": "1. FC Nürnberg",
+      "commence_time": "2026-10-16T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "1. FC Nürnberg",
+      "odds_at_alert": 7.25,
+      "stake_pct": 3.0,
+      "confidence": 11,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T17:58:46.022147+00:00"
+    },
+    {
+      "state_key": "f6efe77542b7ee5bfb4ee3bc1e7368c4:h2h",
+      "event_id": "f6efe77542b7ee5bfb4ee3bc1e7368c4",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "FC Energie Cottbus",
+      "away_team": "1. FC Nürnberg",
+      "commence_time": "2026-10-16T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "1. FC Nürnberg",
+      "odds_at_alert": 7.5,
+      "stake_pct": 3.0,
+      "confidence": 15,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T17:58:46.524286+00:00"
+    },
+    {
+      "state_key": "f6efe77542b7ee5bfb4ee3bc1e7368c4:h2h",
+      "event_id": "f6efe77542b7ee5bfb4ee3bc1e7368c4",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "FC Energie Cottbus",
+      "away_team": "1. FC Nürnberg",
+      "commence_time": "2026-10-16T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "1. FC Nürnberg",
+      "odds_at_alert": 8.6,
+      "stake_pct": 5.0,
+      "confidence": 31,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T17:58:47.104937+00:00"
+    },
+    {
+      "state_key": "f6efe77542b7ee5bfb4ee3bc1e7368c4:h2h",
+      "event_id": "f6efe77542b7ee5bfb4ee3bc1e7368c4",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "FC Energie Cottbus",
+      "away_team": "1. FC Nürnberg",
+      "commence_time": "2026-10-16T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.65,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T17:58:47.630995+00:00"
+    },
+    {
+      "state_key": "f6efe77542b7ee5bfb4ee3bc1e7368c4:h2h",
+      "event_id": "f6efe77542b7ee5bfb4ee3bc1e7368c4",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "FC Energie Cottbus",
+      "away_team": "1. FC Nürnberg",
+      "commence_time": "2026-10-16T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "1. FC Nürnberg",
+      "odds_at_alert": 8.6,
+      "stake_pct": 5.0,
+      "confidence": 31,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T17:58:48.170228+00:00"
+    },
+    {
+      "state_key": "f6efe77542b7ee5bfb4ee3bc1e7368c4:h2h",
+      "event_id": "f6efe77542b7ee5bfb4ee3bc1e7368c4",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "FC Energie Cottbus",
+      "away_team": "1. FC Nürnberg",
+      "commence_time": "2026-10-16T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.65,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T17:58:48.749607+00:00"
+    },
+    {
+      "state_key": "150f424b7931458d08430ddeb256692f:h2h",
+      "event_id": "150f424b7931458d08430ddeb256692f",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "Holstein Kiel",
+      "away_team": "Hertha Berlin",
+      "commence_time": "2026-10-16T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Hertha Berlin",
+      "odds_at_alert": 2.8,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T17:58:49.307415+00:00"
+    },
+    {
+      "state_key": "150f424b7931458d08430ddeb256692f:h2h",
+      "event_id": "150f424b7931458d08430ddeb256692f",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "Holstein Kiel",
+      "away_team": "Hertha Berlin",
+      "commence_time": "2026-10-16T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Holstein Kiel",
+      "odds_at_alert": 5.2,
+      "stake_pct": 3.0,
+      "confidence": 11,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T17:58:49.835364+00:00"
+    },
+    {
+      "state_key": "150f424b7931458d08430ddeb256692f:h2h",
+      "event_id": "150f424b7931458d08430ddeb256692f",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "Holstein Kiel",
+      "away_team": "Hertha Berlin",
+      "commence_time": "2026-10-16T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Hertha Berlin",
+      "odds_at_alert": 2.8,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T17:58:50.443854+00:00"
+    },
+    {
+      "state_key": "150f424b7931458d08430ddeb256692f:h2h",
+      "event_id": "150f424b7931458d08430ddeb256692f",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "Holstein Kiel",
+      "away_team": "Hertha Berlin",
+      "commence_time": "2026-10-16T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Holstein Kiel",
+      "odds_at_alert": 5.0,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T17:58:50.970928+00:00"
+    },
+    {
+      "state_key": "150f424b7931458d08430ddeb256692f:h2h",
+      "event_id": "150f424b7931458d08430ddeb256692f",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "Holstein Kiel",
+      "away_team": "Hertha Berlin",
+      "commence_time": "2026-10-16T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Holstein Kiel",
+      "odds_at_alert": 5.25,
+      "stake_pct": 3.0,
+      "confidence": 12,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T17:58:51.500417+00:00"
+    },
+    {
+      "state_key": "150f424b7931458d08430ddeb256692f:h2h",
+      "event_id": "150f424b7931458d08430ddeb256692f",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "Holstein Kiel",
+      "away_team": "Hertha Berlin",
+      "commence_time": "2026-10-16T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Hertha Berlin",
+      "odds_at_alert": 2.8,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T17:58:52.048632+00:00"
+    },
+    {
+      "state_key": "150f424b7931458d08430ddeb256692f:h2h",
+      "event_id": "150f424b7931458d08430ddeb256692f",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "Holstein Kiel",
+      "away_team": "Hertha Berlin",
+      "commence_time": "2026-10-16T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Holstein Kiel",
+      "odds_at_alert": 5.7,
+      "stake_pct": 5.0,
+      "confidence": 22,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T17:58:52.591152+00:00"
+    },
+    {
+      "state_key": "150f424b7931458d08430ddeb256692f:h2h",
+      "event_id": "150f424b7931458d08430ddeb256692f",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "Holstein Kiel",
+      "away_team": "Hertha Berlin",
+      "commence_time": "2026-10-16T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Hertha Berlin",
+      "odds_at_alert": 2.86,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T17:58:53.085961+00:00"
+    },
+    {
+      "state_key": "150f424b7931458d08430ddeb256692f:h2h",
+      "event_id": "150f424b7931458d08430ddeb256692f",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "Holstein Kiel",
+      "away_team": "Hertha Berlin",
+      "commence_time": "2026-10-16T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Holstein Kiel",
+      "odds_at_alert": 5.7,
+      "stake_pct": 5.0,
+      "confidence": 22,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T17:58:53.609380+00:00"
+    },
+    {
+      "state_key": "746a33a6adb903a87105ebb91efe324a:h2h",
+      "event_id": "746a33a6adb903a87105ebb91efe324a",
+      "sport_key": "soccer",
+      "competition": "Frauen-Bundesliga",
+      "home_team": "SC Freiburg",
+      "away_team": "RB Leipzig",
+      "commence_time": "2026-10-16T16:30:06Z",
+      "market_label": "Cotes 1X2",
+      "selection": "SC Freiburg",
+      "odds_at_alert": 45.0,
+      "stake_pct": 5.0,
+      "confidence": 484,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T17:58:54.167668+00:00"
+    },
+    {
+      "state_key": "746a33a6adb903a87105ebb91efe324a:h2h",
+      "event_id": "746a33a6adb903a87105ebb91efe324a",
+      "sport_key": "soccer",
+      "competition": "Frauen-Bundesliga",
+      "home_team": "SC Freiburg",
+      "away_team": "RB Leipzig",
+      "commence_time": "2026-10-16T16:30:06Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 8.0,
+      "stake_pct": 5.0,
+      "confidence": 161,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T17:58:54.677404+00:00"
+    },
+    {
+      "state_key": "746a33a6adb903a87105ebb91efe324a:h2h",
+      "event_id": "746a33a6adb903a87105ebb91efe324a",
+      "sport_key": "soccer",
+      "competition": "Frauen-Bundesliga",
+      "home_team": "SC Freiburg",
+      "away_team": "RB Leipzig",
+      "commence_time": "2026-10-16T16:30:06Z",
+      "market_label": "Cotes 1X2",
+      "selection": "SC Freiburg",
+      "odds_at_alert": 29.0,
+      "stake_pct": 5.0,
+      "confidence": 276,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T17:58:55.219246+00:00"
+    },
+    {
+      "state_key": "746a33a6adb903a87105ebb91efe324a:h2h",
+      "event_id": "746a33a6adb903a87105ebb91efe324a",
+      "sport_key": "soccer",
+      "competition": "Frauen-Bundesliga",
+      "home_team": "SC Freiburg",
+      "away_team": "RB Leipzig",
+      "commence_time": "2026-10-16T16:30:06Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.0,
+      "stake_pct": 5.0,
+      "confidence": 96,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T17:58:55.735595+00:00"
+    },
+    {
+      "state_key": "746a33a6adb903a87105ebb91efe324a:h2h",
+      "event_id": "746a33a6adb903a87105ebb91efe324a",
+      "sport_key": "soccer",
+      "competition": "Frauen-Bundesliga",
+      "home_team": "SC Freiburg",
+      "away_team": "RB Leipzig",
+      "commence_time": "2026-10-16T16:30:06Z",
+      "market_label": "Cotes 1X2",
+      "selection": "SC Freiburg",
+      "odds_at_alert": 34.0,
+      "stake_pct": 5.0,
+      "confidence": 341,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T17:58:56.298131+00:00"
+    },
+    {
+      "state_key": "746a33a6adb903a87105ebb91efe324a:h2h",
+      "event_id": "746a33a6adb903a87105ebb91efe324a",
+      "sport_key": "soccer",
+      "competition": "Frauen-Bundesliga",
+      "home_team": "SC Freiburg",
+      "away_team": "RB Leipzig",
+      "commence_time": "2026-10-16T16:30:06Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.5,
+      "stake_pct": 5.0,
+      "confidence": 112,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T17:58:56.865259+00:00"
+    },
+    {
+      "state_key": "746a33a6adb903a87105ebb91efe324a:h2h",
+      "event_id": "746a33a6adb903a87105ebb91efe324a",
+      "sport_key": "soccer",
+      "competition": "Frauen-Bundesliga",
+      "home_team": "SC Freiburg",
+      "away_team": "RB Leipzig",
+      "commence_time": "2026-10-16T16:30:06Z",
+      "market_label": "Cotes 1X2",
+      "selection": "SC Freiburg",
+      "odds_at_alert": 21.0,
+      "stake_pct": 5.0,
+      "confidence": 172,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T17:58:57.419400+00:00"
+    },
+    {
+      "state_key": "746a33a6adb903a87105ebb91efe324a:h2h",
+      "event_id": "746a33a6adb903a87105ebb91efe324a",
+      "sport_key": "soccer",
+      "competition": "Frauen-Bundesliga",
+      "home_team": "SC Freiburg",
+      "away_team": "RB Leipzig",
+      "commence_time": "2026-10-16T16:30:06Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.75,
+      "stake_pct": 5.0,
+      "confidence": 88,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T17:58:57.973496+00:00"
+    },
+    {
+      "state_key": "746a33a6adb903a87105ebb91efe324a:h2h",
+      "event_id": "746a33a6adb903a87105ebb91efe324a",
+      "sport_key": "soccer",
+      "competition": "Frauen-Bundesliga",
+      "home_team": "SC Freiburg",
+      "away_team": "RB Leipzig",
+      "commence_time": "2026-10-16T16:30:06Z",
+      "market_label": "Cotes 1X2",
+      "selection": "SC Freiburg",
+      "odds_at_alert": 23.0,
+      "stake_pct": 5.0,
+      "confidence": 198,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T17:58:58.499661+00:00"
+    },
+    {
+      "state_key": "746a33a6adb903a87105ebb91efe324a:h2h",
+      "event_id": "746a33a6adb903a87105ebb91efe324a",
+      "sport_key": "soccer",
+      "competition": "Frauen-Bundesliga",
+      "home_team": "SC Freiburg",
+      "away_team": "RB Leipzig",
+      "commence_time": "2026-10-16T16:30:06Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.1,
+      "stake_pct": 5.0,
+      "confidence": 99,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T17:58:59.114388+00:00"
+    },
+    {
+      "state_key": "746a33a6adb903a87105ebb91efe324a:h2h",
+      "event_id": "746a33a6adb903a87105ebb91efe324a",
+      "sport_key": "soccer",
+      "competition": "Frauen-Bundesliga",
+      "home_team": "SC Freiburg",
+      "away_team": "RB Leipzig",
+      "commence_time": "2026-10-16T16:30:06Z",
+      "market_label": "Cotes 1X2",
+      "selection": "SC Freiburg",
+      "odds_at_alert": 23.0,
+      "stake_pct": 5.0,
+      "confidence": 198,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T17:58:59.652450+00:00"
+    },
+    {
+      "state_key": "746a33a6adb903a87105ebb91efe324a:h2h",
+      "event_id": "746a33a6adb903a87105ebb91efe324a",
+      "sport_key": "soccer",
+      "competition": "Frauen-Bundesliga",
+      "home_team": "SC Freiburg",
+      "away_team": "RB Leipzig",
+      "commence_time": "2026-10-16T16:30:06Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.1,
+      "stake_pct": 5.0,
+      "confidence": 99,
+      "alert_type": "value",
+      "alerted_at": "2026-10-16T17:59:00.194743+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "c80bf049e66d05c1a83afb980fd36d0e:h2h|888sport|Henan FC",
-    "c80bf049e66d05c1a83afb980fd36d0e:h2h|Betfair|Draw",
-    "c80bf049e66d05c1a83afb980fd36d0e:h2h|Betfair|Henan FC",
-    "c80bf049e66d05c1a83afb980fd36d0e:h2h|Betsson|Henan FC",
-    "c80bf049e66d05c1a83afb980fd36d0e:h2h|Coolbet|Henan FC",
-    "c80bf049e66d05c1a83afb980fd36d0e:h2h|LeoVegas (SE)|Henan FC",
-    "c80bf049e66d05c1a83afb980fd36d0e:h2h|Marathon Bet|Henan FC",
-    "c80bf049e66d05c1a83afb980fd36d0e:h2h|Matchbook|Draw",
-    "c80bf049e66d05c1a83afb980fd36d0e:h2h|Matchbook|Henan FC",
-    "c80bf049e66d05c1a83afb980fd36d0e:h2h|Nordic Bet|Henan FC",
-    "c80bf049e66d05c1a83afb980fd36d0e:h2h|Tipico|Henan FC",
-    "c80bf049e66d05c1a83afb980fd36d0e:h2h|Unibet (NL)|Draw",
-    "c80bf049e66d05c1a83afb980fd36d0e:h2h|Unibet (NL)|Henan FC",
-    "c80bf049e66d05c1a83afb980fd36d0e:h2h|Unibet (SE)|Draw",
-    "c80bf049e66d05c1a83afb980fd36d0e:h2h|Unibet (SE)|Henan FC",
-    "c80bf049e66d05c1a83afb980fd36d0e:h2h|Winamax (DE)|Henan FC",
-    "c80bf049e66d05c1a83afb980fd36d0e:h2h|Winamax (FR)|Henan FC",
-    "d3cb30f50aa61db885478401eb68001e:h2h|1xBet|Abha Club",
-    "d3cb30f50aa61db885478401eb68001e:h2h|1xBet|Draw",
-    "d3cb30f50aa61db885478401eb68001e:h2h|Betfair|Abha Club",
-    "d3cb30f50aa61db885478401eb68001e:h2h|Betfair|Draw"
+    "150f424b7931458d08430ddeb256692f:h2h|Betfair|Hertha Berlin",
+    "150f424b7931458d08430ddeb256692f:h2h|Betfair|Holstein Kiel",
+    "150f424b7931458d08430ddeb256692f:h2h|Coolbet|Holstein Kiel",
+    "150f424b7931458d08430ddeb256692f:h2h|Marathon Bet|Holstein Kiel",
+    "150f424b7931458d08430ddeb256692f:h2h|Matchbook|Hertha Berlin",
+    "150f424b7931458d08430ddeb256692f:h2h|Matchbook|Holstein Kiel",
+    "150f424b7931458d08430ddeb256692f:h2h|Tipico|Holstein Kiel",
+    "150f424b7931458d08430ddeb256692f:h2h|Unibet (NL)|Hertha Berlin",
+    "150f424b7931458d08430ddeb256692f:h2h|Unibet (SE)|Hertha Berlin",
+    "746a33a6adb903a87105ebb91efe324a:h2h|888sport|Draw",
+    "746a33a6adb903a87105ebb91efe324a:h2h|888sport|SC Freiburg",
+    "746a33a6adb903a87105ebb91efe324a:h2h|LeoVegas (SE)|Draw",
+    "746a33a6adb903a87105ebb91efe324a:h2h|LeoVegas (SE)|SC Freiburg",
+    "746a33a6adb903a87105ebb91efe324a:h2h|Tipico|Draw",
+    "746a33a6adb903a87105ebb91efe324a:h2h|Tipico|SC Freiburg",
+    "746a33a6adb903a87105ebb91efe324a:h2h|Unibet (NL)|Draw",
+    "746a33a6adb903a87105ebb91efe324a:h2h|Unibet (NL)|SC Freiburg",
+    "746a33a6adb903a87105ebb91efe324a:h2h|Unibet (SE)|Draw",
+    "746a33a6adb903a87105ebb91efe324a:h2h|Unibet (SE)|SC Freiburg",
+    "746a33a6adb903a87105ebb91efe324a:h2h|William Hill|Draw",
+    "746a33a6adb903a87105ebb91efe324a:h2h|William Hill|SC Freiburg",
+    "bd1d717f949f57694664f9ba11139851:h2h|888sport|Draw",
+    "bd1d717f949f57694664f9ba11139851:h2h|888sport|Wieczysta Kraków",
+    "bd1d717f949f57694664f9ba11139851:h2h|Betclic (FR)|Draw",
+    "bd1d717f949f57694664f9ba11139851:h2h|Betclic (FR)|Wieczysta Kraków",
+    "bd1d717f949f57694664f9ba11139851:h2h|Betfair|Draw",
+    "bd1d717f949f57694664f9ba11139851:h2h|Coolbet|Draw",
+    "bd1d717f949f57694664f9ba11139851:h2h|Coolbet|Wieczysta Kraków",
+    "bd1d717f949f57694664f9ba11139851:h2h|Tipico|Draw",
+    "bd1d717f949f57694664f9ba11139851:h2h|Tipico|Wieczysta Kraków",
+    "bd1d717f949f57694664f9ba11139851:h2h|Winamax (DE)|Draw",
+    "bd1d717f949f57694664f9ba11139851:h2h|Winamax (DE)|Wieczysta Kraków",
+    "bd1d717f949f57694664f9ba11139851:h2h|Winamax (FR)|Draw",
+    "bd1d717f949f57694664f9ba11139851:h2h|Winamax (FR)|Wieczysta Kraków",
+    "f6efe77542b7ee5bfb4ee3bc1e7368c4:h2h|Betfair|1. FC Nürnberg",
+    "f6efe77542b7ee5bfb4ee3bc1e7368c4:h2h|Betfair|Draw",
+    "f6efe77542b7ee5bfb4ee3bc1e7368c4:h2h|Coolbet|1. FC Nürnberg",
+    "f6efe77542b7ee5bfb4ee3bc1e7368c4:h2h|Matchbook|1. FC Nürnberg",
+    "f6efe77542b7ee5bfb4ee3bc1e7368c4:h2h|Matchbook|Draw",
+    "f6efe77542b7ee5bfb4ee3bc1e7368c4:h2h|Winamax (DE)|1. FC Nürnberg"
   ]
 }
