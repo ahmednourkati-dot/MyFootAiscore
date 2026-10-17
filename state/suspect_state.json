@@ -1,286 +1,216 @@
 {
   "snapshots": {
-    "e441779f9fb6304f9e29ac5de3416df2:h2h": {
-      "Unibet (NL)": {
-        "Atletico Goianiense": 8.0,
-        "Ponte Preta": 46.0,
-        "Draw": 1.03
-      },
-      "Unibet (SE)": {
-        "Atletico Goianiense": 9.5,
-        "Ponte Preta": 67.0,
-        "Draw": 1.07
-      },
-      "LeoVegas (SE)": {
-        "Atletico Goianiense": 8.0,
-        "Ponte Preta": 51.0,
-        "Draw": 1.04
-      },
+    "55e66255890212d1fce8fd673181992f:h2h": {
       "Nordic Bet": {
-        "Atletico Goianiense": 6.3,
-        "Ponte Preta": 36.0,
-        "Draw": 1.1
+        "FC Tokyo": 1.0,
+        "Tokyo Verdy": 81.0,
+        "Draw": 81.0
+      },
+      "Betclic (FR)": {
+        "FC Tokyo": 1.0,
+        "Tokyo Verdy": 100.0,
+        "Draw": 75.0
       },
       "Betsson": {
-        "Atletico Goianiense": 6.3,
-        "Ponte Preta": 36.0,
-        "Draw": 1.1
-      },
-      "Coolbet": {
-        "Atletico Goianiense": 6.0,
-        "Ponte Preta": 35.0,
-        "Draw": 1.11
-      },
-      "Marathon Bet": {
-        "Atletico Goianiense": 5.3,
-        "Ponte Preta": 20.5,
-        "Draw": 1.15
-      },
-      "888sport": {
-        "Atletico Goianiense": 3.75,
-        "Ponte Preta": 17.0,
-        "Draw": 1.3
-      },
-      "Pinnacle": {
-        "Atletico Goianiense": 7.15,
-        "Ponte Preta": 1.67,
-        "Draw": 3.05
-      },
-      "Betfair": {
-        "Atletico Goianiense": 4.5,
-        "Ponte Preta": 18.0,
-        "Draw": 1.32
-      },
-      "Tipico": {
-        "Atletico Goianiense": 5.0,
-        "Ponte Preta": 40.0,
-        "Draw": 1.13
+        "FC Tokyo": 1.0,
+        "Tokyo Verdy": 81.0,
+        "Draw": 81.0
       }
     },
-    "fec4e2923c04c3fd3ba03c73dbef09f1:h2h": {
-      "PMU (FR)": {
-        "Internacional": 26.0,
-        "Mirassol": 1.03,
-        "Draw": 7.0
+    "258423cfe8d21ceccd01954595aaed8c:h2h": {
+      "Winamax (DE)": {
+        "Hiroshima Sanfrecce FC": 1.1,
+        "Kyoto Purple Sanga": 46.0,
+        "Draw": 6.5
+      },
+      "Betclic (FR)": {
+        "Hiroshima Sanfrecce FC": 1.0,
+        "Kyoto Purple Sanga": 100.0,
+        "Draw": 75.0
+      },
+      "Nordic Bet": {
+        "Hiroshima Sanfrecce FC": 1.0,
+        "Kyoto Purple Sanga": 81.0,
+        "Draw": 81.0
+      },
+      "Winamax (FR)": {
+        "Hiroshima Sanfrecce FC": 1.13,
+        "Kyoto Purple Sanga": 46.0,
+        "Draw": 6.25
+      },
+      "Betsson": {
+        "Hiroshima Sanfrecce FC": 1.0,
+        "Kyoto Purple Sanga": 81.0,
+        "Draw": 81.0
+      },
+      "888sport": {
+        "Hiroshima Sanfrecce FC": 1.0,
+        "Kyoto Purple Sanga": 151.0,
+        "Draw": 51.0
+      },
+      "Betfair": {
+        "Hiroshima Sanfrecce FC": 1.01,
+        "Kyoto Purple Sanga": 1.5,
+        "Draw": 55.0
+      }
+    },
+    "1b96761f07feb5bfc7c5af72548886b8:h2h": {
+      "Betsson": {
+        "JEF United Chiba": 8.2,
+        "Yokohama F Marinos": 7.7,
+        "Draw": 1.16
+      },
+      "Coolbet": {
+        "JEF United Chiba": 8.5,
+        "Yokohama F Marinos": 8.0,
+        "Draw": 1.2
+      },
+      "Nordic Bet": {
+        "JEF United Chiba": 7.7,
+        "Yokohama F Marinos": 7.2,
+        "Draw": 1.18
+      },
+      "Betclic (FR)": {
+        "JEF United Chiba": 7.5,
+        "Yokohama F Marinos": 7.0,
+        "Draw": 1.19
+      },
+      "Pinnacle": {
+        "JEF United Chiba": 4.4,
+        "Yokohama F Marinos": 4.31,
+        "Draw": 1.67
+      },
+      "Winamax (DE)": {
+        "JEF United Chiba": 8.0,
+        "Yokohama F Marinos": 8.0,
+        "Draw": 1.17
+      },
+      "Winamax (FR)": {
+        "JEF United Chiba": 7.75,
+        "Yokohama F Marinos": 7.5,
+        "Draw": 1.2
+      },
+      "888sport": {
+        "JEF United Chiba": 10.0,
+        "Yokohama F Marinos": 10.0,
+        "Draw": 1.12
+      },
+      "Marathon Bet": {
+        "JEF United Chiba": 9.2,
+        "Yokohama F Marinos": 8.5,
+        "Draw": 1.14
+      },
+      "Tipico": {
+        "JEF United Chiba": 8.5,
+        "Yokohama F Marinos": 6.5,
+        "Draw": 1.2
       },
       "Unibet (SE)": {
-        "Internacional": 26.0,
-        "Mirassol": 1.12,
-        "Draw": 7.0
+        "JEF United Chiba": 8.0,
+        "Yokohama F Marinos": 7.5,
+        "Draw": 1.19
+      },
+      "PMU (FR)": {
+        "JEF United Chiba": 7.5,
+        "Yokohama F Marinos": 6.75,
+        "Draw": 1.12
       },
       "LeoVegas (SE)": {
-        "Internacional": 26.0,
-        "Mirassol": 1.06,
+        "JEF United Chiba": 6.0,
+        "Yokohama F Marinos": 10.5,
+        "Draw": 1.15
+      },
+      "Unibet (NL)": {
+        "JEF United Chiba": 6.1,
+        "Yokohama F Marinos": 11.0,
+        "Draw": 1.17
+      },
+      "Betfair": {
+        "JEF United Chiba": 8.2,
+        "Yokohama F Marinos": 9.8,
+        "Draw": 1.25
+      },
+      "Matchbook": {
+        "JEF United Chiba": 7.0,
+        "Yokohama F Marinos": 9.6,
+        "Draw": 1.25
+      }
+    },
+    "250360a01977413700e423479ed9537a:h2h": {
+      "Coolbet": {
+        "Cerezo Osaka": 8.5,
+        "Kawasaki Frontale": 1.44,
+        "Draw": 3.8
+      },
+      "Betclic (FR)": {
+        "Cerezo Osaka": 21.0,
+        "Kawasaki Frontale": 1.07,
+        "Draw": 7.25
+      },
+      "Nordic Bet": {
+        "Cerezo Osaka": 21.0,
+        "Kawasaki Frontale": 1.09,
+        "Draw": 7.2
+      },
+      "Winamax (FR)": {
+        "Cerezo Osaka": 28.0,
+        "Kawasaki Frontale": 1.11,
+        "Draw": 7.5
+      },
+      "Winamax (DE)": {
+        "Cerezo Osaka": 27.0,
+        "Kawasaki Frontale": 1.08,
+        "Draw": 8.0
+      },
+      "Pinnacle": {
+        "Cerezo Osaka": 25.5,
+        "Kawasaki Frontale": 1.11,
+        "Draw": 8.66
+      },
+      "Betsson": {
+        "Cerezo Osaka": 21.0,
+        "Kawasaki Frontale": 1.09,
+        "Draw": 6.8
+      },
+      "888sport": {
+        "Cerezo Osaka": 23.0,
+        "Kawasaki Frontale": 1.11,
+        "Draw": 7.5
+      },
+      "Marathon Bet": {
+        "Cerezo Osaka": 23.0,
+        "Kawasaki Frontale": 1.07,
+        "Draw": 8.1
+      },
+      "Tipico": {
+        "Cerezo Osaka": 16.0,
+        "Kawasaki Frontale": 1.07,
+        "Draw": 9.0
+      },
+      "PMU (FR)": {
+        "Cerezo Osaka": 19.0,
+        "Kawasaki Frontale": 1.03,
+        "Draw": 6.5
+      },
+      "LeoVegas (SE)": {
+        "Cerezo Osaka": 19.0,
+        "Kawasaki Frontale": 1.06,
         "Draw": 7.5
       },
       "Unibet (NL)": {
-        "Internacional": 26.0,
-        "Mirassol": 1.07,
-        "Draw": 7.0
-      },
-      "888sport": {
-        "Internacional": 29.0,
-        "Mirassol": 1.12,
-        "Draw": 7.0
-      },
-      "Coolbet": {
-        "Internacional": 30.0,
-        "Mirassol": 1.11,
-        "Draw": 7.0
-      },
-      "Winamax (FR)": {
-        "Internacional": 34.0,
-        "Mirassol": 1.12,
-        "Draw": 6.75
-      },
-      "Winamax (DE)": {
-        "Internacional": 32.0,
-        "Mirassol": 1.09,
-        "Draw": 7.0
-      },
-      "Betclic (FR)": {
-        "Internacional": 20.0,
-        "Mirassol": 1.08,
-        "Draw": 5.9
-      },
-      "Betfair": {
-        "Internacional": 46.0,
-        "Mirassol": 1.15,
-        "Draw": 8.8
-      },
-      "MyBookie.ag": {
-        "Internacional": 33.0,
-        "Mirassol": 1.12,
-        "Draw": 6.75
-      },
-      "Nordic Bet": {
-        "Internacional": 26.0,
-        "Mirassol": 1.09,
-        "Draw": 6.8
-      },
-      "Betsson": {
-        "Internacional": 26.0,
-        "Mirassol": 1.09,
-        "Draw": 6.8
-      },
-      "Marathon Bet": {
-        "Internacional": 31.0,
-        "Mirassol": 1.08,
-        "Draw": 8.1
-      },
-      "Pinnacle": {
-        "Internacional": 11.01,
-        "Mirassol": 1.55,
-        "Draw": 3.1
-      },
-      "Matchbook": {
-        "Internacional": 42.0,
-        "Mirassol": 1.15,
-        "Draw": 8.0
-      },
-      "Tipico": {
-        "Internacional": 45.0,
-        "Mirassol": 1.06,
-        "Draw": 7.0
-      }
-    },
-    "456f084c4d939f6906fc7ca18d63870e:h2h": {
-      "LeoVegas (SE)": {
-        "Fortaleza": 3.0,
-        "Sport Recife": 2.75,
-        "Draw": 2.23
-      },
-      "Unibet (NL)": {
-        "Fortaleza": 3.0,
-        "Sport Recife": 2.75,
-        "Draw": 2.25
+        "Cerezo Osaka": 19.0,
+        "Kawasaki Frontale": 1.08,
+        "Draw": 7.5
       },
       "Unibet (SE)": {
-        "Fortaleza": 3.3,
-        "Sport Recife": 2.75,
-        "Draw": 2.4
-      },
-      "Betsson": {
-        "Fortaleza": 3.4,
-        "Sport Recife": 2.5,
-        "Draw": 2.45
-      },
-      "Nordic Bet": {
-        "Fortaleza": 3.4,
-        "Sport Recife": 2.5,
-        "Draw": 2.45
-      },
-      "Coolbet": {
-        "Fortaleza": 3.5,
-        "Sport Recife": 2.6,
-        "Draw": 2.4
-      },
-      "Marathon Bet": {
-        "Fortaleza": 3.48,
-        "Sport Recife": 2.47,
-        "Draw": 2.41
-      },
-      "888sport": {
-        "Fortaleza": 3.4,
-        "Sport Recife": 2.4,
-        "Draw": 2.45
-      },
-      "Pinnacle": {
-        "Fortaleza": 3.62,
-        "Sport Recife": 2.34,
-        "Draw": 2.76
-      },
-      "Tipico": {
-        "Fortaleza": 2.2,
-        "Sport Recife": 4.3,
-        "Draw": 2.5
-      },
-      "Matchbook": {
-        "Fortaleza": 4.0,
-        "Sport Recife": 2.66,
-        "Draw": 2.64
+        "Cerezo Osaka": 20.0,
+        "Kawasaki Frontale": 1.1,
+        "Draw": 7.5
       },
       "Betfair": {
-        "Fortaleza": 4.0,
-        "Sport Recife": 2.62,
-        "Draw": 2.66
-      }
-    },
-    "f790decc9e73ba69db2d636a70afc110:h2h": {
-      "Betsson": {
-        "Boca Juniors": 1.4,
-        "Talleres": 7.8,
-        "Draw": 4.15
-      },
-      "Betfair": {
-        "Boca Juniors": 1.48,
-        "Talleres": 9.2,
-        "Draw": 4.5
-      },
-      "Nordic Bet": {
-        "Boca Juniors": 1.4,
-        "Talleres": 7.8,
-        "Draw": 4.15
-      },
-      "1xBet": {
-        "Boca Juniors": 1.44,
-        "Talleres": 8.63,
-        "Draw": 4.3
-      },
-      "Winamax (DE)": {
-        "Boca Juniors": 1.41,
-        "Talleres": 6.75,
-        "Draw": 4.2
-      },
-      "Unibet (FR)": {
-        "Boca Juniors": 1.32,
-        "Talleres": 6.9,
-        "Draw": 3.85
-      },
-      "Winamax (FR)": {
-        "Boca Juniors": 1.39,
-        "Talleres": 6.5,
-        "Draw": 4.1
-      },
-      "Betclic (FR)": {
-        "Boca Juniors": 1.36,
-        "Talleres": 6.9,
-        "Draw": 3.83
-      },
-      "Unibet (SE)": {
-        "Boca Juniors": 1.43,
-        "Talleres": 8.5,
-        "Draw": 4.0
-      },
-      "LeoVegas (SE)": {
-        "Boca Juniors": 1.36,
-        "Talleres": 7.5,
-        "Draw": 3.7
-      },
-      "Codere (IT)": {
-        "Boca Juniors": 1.46,
-        "Talleres": 7.4,
-        "Draw": 4.2
-      },
-      "Marathon Bet": {
-        "Boca Juniors": 1.42,
-        "Talleres": 7.7,
-        "Draw": 4.15
-      },
-      "Pinnacle": {
-        "Boca Juniors": 1.46,
-        "Talleres": 9.28,
-        "Draw": 4.06
-      },
-      "BetOnline.ag": {
-        "Boca Juniors": 1.47,
-        "Talleres": 9.25,
-        "Draw": 4.1
-      },
-      "BetAnything": {
-        "Boca Juniors": 1.47,
-        "Talleres": 9.25,
-        "Draw": 4.1
+        "Cerezo Osaka": 3.2,
+        "Kawasaki Frontale": 1.05,
+        "Draw": 2.72
       }
     }
   },
@@ -4557,59 +4487,536 @@
       "confidence": 7,
       "alert_type": "value",
       "alerted_at": "2026-10-17T00:23:29.806100+00:00"
+    },
+    {
+      "state_key": "1b96761f07feb5bfc7c5af72548886b8:h2h",
+      "event_id": "1b96761f07feb5bfc7c5af72548886b8",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "JEF United Chiba",
+      "away_team": "Yokohama F Marinos",
+      "commence_time": "2026-10-17T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "JEF United Chiba",
+      "odds_at_alert": 8.2,
+      "stake_pct": 5.0,
+      "confidence": 76,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T06:52:14.401399+00:00"
+    },
+    {
+      "state_key": "1b96761f07feb5bfc7c5af72548886b8:h2h",
+      "event_id": "1b96761f07feb5bfc7c5af72548886b8",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "JEF United Chiba",
+      "away_team": "Yokohama F Marinos",
+      "commence_time": "2026-10-17T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Yokohama F Marinos",
+      "odds_at_alert": 7.7,
+      "stake_pct": 5.0,
+      "confidence": 69,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T06:52:14.850205+00:00"
+    },
+    {
+      "state_key": "1b96761f07feb5bfc7c5af72548886b8:h2h",
+      "event_id": "1b96761f07feb5bfc7c5af72548886b8",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "JEF United Chiba",
+      "away_team": "Yokohama F Marinos",
+      "commence_time": "2026-10-17T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "JEF United Chiba",
+      "odds_at_alert": 8.5,
+      "stake_pct": 5.0,
+      "confidence": 83,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T06:52:15.286198+00:00"
+    },
+    {
+      "state_key": "1b96761f07feb5bfc7c5af72548886b8:h2h",
+      "event_id": "1b96761f07feb5bfc7c5af72548886b8",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "JEF United Chiba",
+      "away_team": "Yokohama F Marinos",
+      "commence_time": "2026-10-17T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Yokohama F Marinos",
+      "odds_at_alert": 8.0,
+      "stake_pct": 5.0,
+      "confidence": 75,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T06:52:15.763129+00:00"
+    },
+    {
+      "state_key": "1b96761f07feb5bfc7c5af72548886b8:h2h",
+      "event_id": "1b96761f07feb5bfc7c5af72548886b8",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "JEF United Chiba",
+      "away_team": "Yokohama F Marinos",
+      "commence_time": "2026-10-17T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "JEF United Chiba",
+      "odds_at_alert": 7.7,
+      "stake_pct": 5.0,
+      "confidence": 65,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T06:52:16.196192+00:00"
+    },
+    {
+      "state_key": "1b96761f07feb5bfc7c5af72548886b8:h2h",
+      "event_id": "1b96761f07feb5bfc7c5af72548886b8",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "JEF United Chiba",
+      "away_team": "Yokohama F Marinos",
+      "commence_time": "2026-10-17T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Yokohama F Marinos",
+      "odds_at_alert": 7.2,
+      "stake_pct": 5.0,
+      "confidence": 58,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T06:52:16.613984+00:00"
+    },
+    {
+      "state_key": "1b96761f07feb5bfc7c5af72548886b8:h2h",
+      "event_id": "1b96761f07feb5bfc7c5af72548886b8",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "JEF United Chiba",
+      "away_team": "Yokohama F Marinos",
+      "commence_time": "2026-10-17T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "JEF United Chiba",
+      "odds_at_alert": 7.5,
+      "stake_pct": 5.0,
+      "confidence": 61,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T06:52:17.064498+00:00"
+    },
+    {
+      "state_key": "1b96761f07feb5bfc7c5af72548886b8:h2h",
+      "event_id": "1b96761f07feb5bfc7c5af72548886b8",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "JEF United Chiba",
+      "away_team": "Yokohama F Marinos",
+      "commence_time": "2026-10-17T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Yokohama F Marinos",
+      "odds_at_alert": 7.0,
+      "stake_pct": 5.0,
+      "confidence": 53,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T06:52:17.535137+00:00"
+    },
+    {
+      "state_key": "1b96761f07feb5bfc7c5af72548886b8:h2h",
+      "event_id": "1b96761f07feb5bfc7c5af72548886b8",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "JEF United Chiba",
+      "away_team": "Yokohama F Marinos",
+      "commence_time": "2026-10-17T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "JEF United Chiba",
+      "odds_at_alert": 8.0,
+      "stake_pct": 5.0,
+      "confidence": 72,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T06:52:18.041685+00:00"
+    },
+    {
+      "state_key": "1b96761f07feb5bfc7c5af72548886b8:h2h",
+      "event_id": "1b96761f07feb5bfc7c5af72548886b8",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "JEF United Chiba",
+      "away_team": "Yokohama F Marinos",
+      "commence_time": "2026-10-17T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Yokohama F Marinos",
+      "odds_at_alert": 8.0,
+      "stake_pct": 5.0,
+      "confidence": 75,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T06:52:18.483400+00:00"
+    },
+    {
+      "state_key": "1b96761f07feb5bfc7c5af72548886b8:h2h",
+      "event_id": "1b96761f07feb5bfc7c5af72548886b8",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "JEF United Chiba",
+      "away_team": "Yokohama F Marinos",
+      "commence_time": "2026-10-17T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "JEF United Chiba",
+      "odds_at_alert": 7.75,
+      "stake_pct": 5.0,
+      "confidence": 66,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T06:52:18.910091+00:00"
+    },
+    {
+      "state_key": "1b96761f07feb5bfc7c5af72548886b8:h2h",
+      "event_id": "1b96761f07feb5bfc7c5af72548886b8",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "JEF United Chiba",
+      "away_team": "Yokohama F Marinos",
+      "commence_time": "2026-10-17T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Yokohama F Marinos",
+      "odds_at_alert": 7.5,
+      "stake_pct": 5.0,
+      "confidence": 64,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T06:52:19.317437+00:00"
+    },
+    {
+      "state_key": "1b96761f07feb5bfc7c5af72548886b8:h2h",
+      "event_id": "1b96761f07feb5bfc7c5af72548886b8",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "JEF United Chiba",
+      "away_team": "Yokohama F Marinos",
+      "commence_time": "2026-10-17T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "JEF United Chiba",
+      "odds_at_alert": 10.0,
+      "stake_pct": 5.0,
+      "confidence": 115,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T06:52:19.740978+00:00"
+    },
+    {
+      "state_key": "1b96761f07feb5bfc7c5af72548886b8:h2h",
+      "event_id": "1b96761f07feb5bfc7c5af72548886b8",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "JEF United Chiba",
+      "away_team": "Yokohama F Marinos",
+      "commence_time": "2026-10-17T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Yokohama F Marinos",
+      "odds_at_alert": 10.0,
+      "stake_pct": 5.0,
+      "confidence": 119,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T06:52:20.176096+00:00"
+    },
+    {
+      "state_key": "1b96761f07feb5bfc7c5af72548886b8:h2h",
+      "event_id": "1b96761f07feb5bfc7c5af72548886b8",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "JEF United Chiba",
+      "away_team": "Yokohama F Marinos",
+      "commence_time": "2026-10-17T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "JEF United Chiba",
+      "odds_at_alert": 9.2,
+      "stake_pct": 5.0,
+      "confidence": 98,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T06:52:20.606217+00:00"
+    },
+    {
+      "state_key": "1b96761f07feb5bfc7c5af72548886b8:h2h",
+      "event_id": "1b96761f07feb5bfc7c5af72548886b8",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "JEF United Chiba",
+      "away_team": "Yokohama F Marinos",
+      "commence_time": "2026-10-17T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Yokohama F Marinos",
+      "odds_at_alert": 8.5,
+      "stake_pct": 5.0,
+      "confidence": 86,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T06:52:21.173129+00:00"
+    },
+    {
+      "state_key": "1b96761f07feb5bfc7c5af72548886b8:h2h",
+      "event_id": "1b96761f07feb5bfc7c5af72548886b8",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "JEF United Chiba",
+      "away_team": "Yokohama F Marinos",
+      "commence_time": "2026-10-17T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "JEF United Chiba",
+      "odds_at_alert": 8.5,
+      "stake_pct": 5.0,
+      "confidence": 83,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T06:52:21.579639+00:00"
+    },
+    {
+      "state_key": "1b96761f07feb5bfc7c5af72548886b8:h2h",
+      "event_id": "1b96761f07feb5bfc7c5af72548886b8",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "JEF United Chiba",
+      "away_team": "Yokohama F Marinos",
+      "commence_time": "2026-10-17T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Yokohama F Marinos",
+      "odds_at_alert": 6.5,
+      "stake_pct": 5.0,
+      "confidence": 43,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T06:52:22.005972+00:00"
+    },
+    {
+      "state_key": "1b96761f07feb5bfc7c5af72548886b8:h2h",
+      "event_id": "1b96761f07feb5bfc7c5af72548886b8",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "JEF United Chiba",
+      "away_team": "Yokohama F Marinos",
+      "commence_time": "2026-10-17T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "JEF United Chiba",
+      "odds_at_alert": 8.0,
+      "stake_pct": 5.0,
+      "confidence": 72,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T06:52:22.408146+00:00"
+    },
+    {
+      "state_key": "1b96761f07feb5bfc7c5af72548886b8:h2h",
+      "event_id": "1b96761f07feb5bfc7c5af72548886b8",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "JEF United Chiba",
+      "away_team": "Yokohama F Marinos",
+      "commence_time": "2026-10-17T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Yokohama F Marinos",
+      "odds_at_alert": 7.5,
+      "stake_pct": 5.0,
+      "confidence": 64,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T06:52:22.849049+00:00"
+    },
+    {
+      "state_key": "1b96761f07feb5bfc7c5af72548886b8:h2h",
+      "event_id": "1b96761f07feb5bfc7c5af72548886b8",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "JEF United Chiba",
+      "away_team": "Yokohama F Marinos",
+      "commence_time": "2026-10-17T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "JEF United Chiba",
+      "odds_at_alert": 7.5,
+      "stake_pct": 5.0,
+      "confidence": 61,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T06:52:23.275902+00:00"
+    },
+    {
+      "state_key": "1b96761f07feb5bfc7c5af72548886b8:h2h",
+      "event_id": "1b96761f07feb5bfc7c5af72548886b8",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "JEF United Chiba",
+      "away_team": "Yokohama F Marinos",
+      "commence_time": "2026-10-17T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Yokohama F Marinos",
+      "odds_at_alert": 6.75,
+      "stake_pct": 5.0,
+      "confidence": 48,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T06:52:23.693364+00:00"
+    },
+    {
+      "state_key": "1b96761f07feb5bfc7c5af72548886b8:h2h",
+      "event_id": "1b96761f07feb5bfc7c5af72548886b8",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "JEF United Chiba",
+      "away_team": "Yokohama F Marinos",
+      "commence_time": "2026-10-17T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "JEF United Chiba",
+      "odds_at_alert": 6.0,
+      "stake_pct": 5.0,
+      "confidence": 29,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T06:52:24.141741+00:00"
+    },
+    {
+      "state_key": "1b96761f07feb5bfc7c5af72548886b8:h2h",
+      "event_id": "1b96761f07feb5bfc7c5af72548886b8",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "JEF United Chiba",
+      "away_team": "Yokohama F Marinos",
+      "commence_time": "2026-10-17T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Yokohama F Marinos",
+      "odds_at_alert": 10.5,
+      "stake_pct": 5.0,
+      "confidence": 130,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T06:52:24.574937+00:00"
+    },
+    {
+      "state_key": "1b96761f07feb5bfc7c5af72548886b8:h2h",
+      "event_id": "1b96761f07feb5bfc7c5af72548886b8",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "JEF United Chiba",
+      "away_team": "Yokohama F Marinos",
+      "commence_time": "2026-10-17T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "JEF United Chiba",
+      "odds_at_alert": 6.1,
+      "stake_pct": 5.0,
+      "confidence": 31,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T06:52:25.028992+00:00"
+    },
+    {
+      "state_key": "1b96761f07feb5bfc7c5af72548886b8:h2h",
+      "event_id": "1b96761f07feb5bfc7c5af72548886b8",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "JEF United Chiba",
+      "away_team": "Yokohama F Marinos",
+      "commence_time": "2026-10-17T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Yokohama F Marinos",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 141,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T06:52:25.442677+00:00"
+    },
+    {
+      "state_key": "1b96761f07feb5bfc7c5af72548886b8:h2h",
+      "event_id": "1b96761f07feb5bfc7c5af72548886b8",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "JEF United Chiba",
+      "away_team": "Yokohama F Marinos",
+      "commence_time": "2026-10-17T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "JEF United Chiba",
+      "odds_at_alert": 8.2,
+      "stake_pct": 5.0,
+      "confidence": 76,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T06:52:25.897073+00:00"
+    },
+    {
+      "state_key": "1b96761f07feb5bfc7c5af72548886b8:h2h",
+      "event_id": "1b96761f07feb5bfc7c5af72548886b8",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "JEF United Chiba",
+      "away_team": "Yokohama F Marinos",
+      "commence_time": "2026-10-17T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Yokohama F Marinos",
+      "odds_at_alert": 9.8,
+      "stake_pct": 5.0,
+      "confidence": 115,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T06:52:26.316412+00:00"
+    },
+    {
+      "state_key": "1b96761f07feb5bfc7c5af72548886b8:h2h",
+      "event_id": "1b96761f07feb5bfc7c5af72548886b8",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "JEF United Chiba",
+      "away_team": "Yokohama F Marinos",
+      "commence_time": "2026-10-17T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "JEF United Chiba",
+      "odds_at_alert": 7.0,
+      "stake_pct": 5.0,
+      "confidence": 50,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T06:52:26.792352+00:00"
+    },
+    {
+      "state_key": "1b96761f07feb5bfc7c5af72548886b8:h2h",
+      "event_id": "1b96761f07feb5bfc7c5af72548886b8",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "JEF United Chiba",
+      "away_team": "Yokohama F Marinos",
+      "commence_time": "2026-10-17T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Yokohama F Marinos",
+      "odds_at_alert": 9.6,
+      "stake_pct": 5.0,
+      "confidence": 111,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T06:52:27.230634+00:00"
+    },
+    {
+      "state_key": "250360a01977413700e423479ed9537a:h2h",
+      "event_id": "250360a01977413700e423479ed9537a",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Cerezo Osaka",
+      "away_team": "Kawasaki Frontale",
+      "commence_time": "2026-10-17T06:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Kawasaki Frontale",
+      "odds_at_alert": 1.44,
+      "stake_pct": 5.0,
+      "confidence": 23,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T06:52:27.702470+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "456f084c4d939f6906fc7ca18d63870e:h2h|Betfair|Sport Recife",
-    "456f084c4d939f6906fc7ca18d63870e:h2h|LeoVegas (SE)|Sport Recife",
-    "456f084c4d939f6906fc7ca18d63870e:h2h|Matchbook|Sport Recife",
-    "456f084c4d939f6906fc7ca18d63870e:h2h|Tipico|Sport Recife",
-    "456f084c4d939f6906fc7ca18d63870e:h2h|Unibet (NL)|Sport Recife",
-    "456f084c4d939f6906fc7ca18d63870e:h2h|Unibet (SE)|Sport Recife",
-    "e441779f9fb6304f9e29ac5de3416df2:h2h|888sport|Ponte Preta",
-    "e441779f9fb6304f9e29ac5de3416df2:h2h|Betfair|Ponte Preta",
-    "e441779f9fb6304f9e29ac5de3416df2:h2h|Betsson|Ponte Preta",
-    "e441779f9fb6304f9e29ac5de3416df2:h2h|Coolbet|Ponte Preta",
-    "e441779f9fb6304f9e29ac5de3416df2:h2h|LeoVegas (SE)|Ponte Preta",
-    "e441779f9fb6304f9e29ac5de3416df2:h2h|Marathon Bet|Ponte Preta",
-    "e441779f9fb6304f9e29ac5de3416df2:h2h|Nordic Bet|Ponte Preta",
-    "e441779f9fb6304f9e29ac5de3416df2:h2h|Tipico|Ponte Preta",
-    "e441779f9fb6304f9e29ac5de3416df2:h2h|Unibet (NL)|Ponte Preta",
-    "e441779f9fb6304f9e29ac5de3416df2:h2h|Unibet (SE)|Atletico Goianiense",
-    "e441779f9fb6304f9e29ac5de3416df2:h2h|Unibet (SE)|Ponte Preta",
-    "f790decc9e73ba69db2d636a70afc110:h2h|Betfair|Draw",
-    "fec4e2923c04c3fd3ba03c73dbef09f1:h2h|888sport|Draw",
-    "fec4e2923c04c3fd3ba03c73dbef09f1:h2h|888sport|Internacional",
-    "fec4e2923c04c3fd3ba03c73dbef09f1:h2h|Betclic (FR)|Draw",
-    "fec4e2923c04c3fd3ba03c73dbef09f1:h2h|Betclic (FR)|Internacional",
-    "fec4e2923c04c3fd3ba03c73dbef09f1:h2h|Betfair|Draw",
-    "fec4e2923c04c3fd3ba03c73dbef09f1:h2h|Betfair|Internacional",
-    "fec4e2923c04c3fd3ba03c73dbef09f1:h2h|Betsson|Draw",
-    "fec4e2923c04c3fd3ba03c73dbef09f1:h2h|Betsson|Internacional",
-    "fec4e2923c04c3fd3ba03c73dbef09f1:h2h|Coolbet|Draw",
-    "fec4e2923c04c3fd3ba03c73dbef09f1:h2h|Coolbet|Internacional",
-    "fec4e2923c04c3fd3ba03c73dbef09f1:h2h|LeoVegas (SE)|Draw",
-    "fec4e2923c04c3fd3ba03c73dbef09f1:h2h|LeoVegas (SE)|Internacional",
-    "fec4e2923c04c3fd3ba03c73dbef09f1:h2h|Marathon Bet|Draw",
-    "fec4e2923c04c3fd3ba03c73dbef09f1:h2h|Marathon Bet|Internacional",
-    "fec4e2923c04c3fd3ba03c73dbef09f1:h2h|Matchbook|Draw",
-    "fec4e2923c04c3fd3ba03c73dbef09f1:h2h|Matchbook|Internacional",
-    "fec4e2923c04c3fd3ba03c73dbef09f1:h2h|MyBookie.ag|Draw",
-    "fec4e2923c04c3fd3ba03c73dbef09f1:h2h|MyBookie.ag|Internacional",
-    "fec4e2923c04c3fd3ba03c73dbef09f1:h2h|Nordic Bet|Draw",
-    "fec4e2923c04c3fd3ba03c73dbef09f1:h2h|Nordic Bet|Internacional",
-    "fec4e2923c04c3fd3ba03c73dbef09f1:h2h|PMU (FR)|Draw",
-    "fec4e2923c04c3fd3ba03c73dbef09f1:h2h|PMU (FR)|Internacional",
-    "fec4e2923c04c3fd3ba03c73dbef09f1:h2h|Tipico|Draw",
-    "fec4e2923c04c3fd3ba03c73dbef09f1:h2h|Tipico|Internacional",
-    "fec4e2923c04c3fd3ba03c73dbef09f1:h2h|Unibet (NL)|Draw",
-    "fec4e2923c04c3fd3ba03c73dbef09f1:h2h|Unibet (NL)|Internacional",
-    "fec4e2923c04c3fd3ba03c73dbef09f1:h2h|Unibet (SE)|Draw",
-    "fec4e2923c04c3fd3ba03c73dbef09f1:h2h|Unibet (SE)|Internacional",
-    "fec4e2923c04c3fd3ba03c73dbef09f1:h2h|Winamax (DE)|Draw",
-    "fec4e2923c04c3fd3ba03c73dbef09f1:h2h|Winamax (DE)|Internacional",
-    "fec4e2923c04c3fd3ba03c73dbef09f1:h2h|Winamax (FR)|Draw",
-    "fec4e2923c04c3fd3ba03c73dbef09f1:h2h|Winamax (FR)|Internacional"
+    "1b96761f07feb5bfc7c5af72548886b8:h2h|888sport|JEF United Chiba",
+    "1b96761f07feb5bfc7c5af72548886b8:h2h|888sport|Yokohama F Marinos",
+    "1b96761f07feb5bfc7c5af72548886b8:h2h|Betclic (FR)|JEF United Chiba",
+    "1b96761f07feb5bfc7c5af72548886b8:h2h|Betclic (FR)|Yokohama F Marinos",
+    "1b96761f07feb5bfc7c5af72548886b8:h2h|Betfair|JEF United Chiba",
+    "1b96761f07feb5bfc7c5af72548886b8:h2h|Betfair|Yokohama F Marinos",
+    "1b96761f07feb5bfc7c5af72548886b8:h2h|Betsson|JEF United Chiba",
+    "1b96761f07feb5bfc7c5af72548886b8:h2h|Betsson|Yokohama F Marinos",
+    "1b96761f07feb5bfc7c5af72548886b8:h2h|Coolbet|JEF United Chiba",
+    "1b96761f07feb5bfc7c5af72548886b8:h2h|Coolbet|Yokohama F Marinos",
+    "1b96761f07feb5bfc7c5af72548886b8:h2h|LeoVegas (SE)|JEF United Chiba",
+    "1b96761f07feb5bfc7c5af72548886b8:h2h|LeoVegas (SE)|Yokohama F Marinos",
+    "1b96761f07feb5bfc7c5af72548886b8:h2h|Marathon Bet|JEF United Chiba",
+    "1b96761f07feb5bfc7c5af72548886b8:h2h|Marathon Bet|Yokohama F Marinos",
+    "1b96761f07feb5bfc7c5af72548886b8:h2h|Matchbook|JEF United Chiba",
+    "1b96761f07feb5bfc7c5af72548886b8:h2h|Matchbook|Yokohama F Marinos",
+    "1b96761f07feb5bfc7c5af72548886b8:h2h|Nordic Bet|JEF United Chiba",
+    "1b96761f07feb5bfc7c5af72548886b8:h2h|Nordic Bet|Yokohama F Marinos",
+    "1b96761f07feb5bfc7c5af72548886b8:h2h|PMU (FR)|JEF United Chiba",
+    "1b96761f07feb5bfc7c5af72548886b8:h2h|PMU (FR)|Yokohama F Marinos",
+    "1b96761f07feb5bfc7c5af72548886b8:h2h|Tipico|JEF United Chiba",
+    "1b96761f07feb5bfc7c5af72548886b8:h2h|Tipico|Yokohama F Marinos",
+    "1b96761f07feb5bfc7c5af72548886b8:h2h|Unibet (NL)|JEF United Chiba",
+    "1b96761f07feb5bfc7c5af72548886b8:h2h|Unibet (NL)|Yokohama F Marinos",
+    "1b96761f07feb5bfc7c5af72548886b8:h2h|Unibet (SE)|JEF United Chiba",
+    "1b96761f07feb5bfc7c5af72548886b8:h2h|Unibet (SE)|Yokohama F Marinos",
+    "1b96761f07feb5bfc7c5af72548886b8:h2h|Winamax (DE)|JEF United Chiba",
+    "1b96761f07feb5bfc7c5af72548886b8:h2h|Winamax (DE)|Yokohama F Marinos",
+    "1b96761f07feb5bfc7c5af72548886b8:h2h|Winamax (FR)|JEF United Chiba",
+    "1b96761f07feb5bfc7c5af72548886b8:h2h|Winamax (FR)|Yokohama F Marinos",
+    "250360a01977413700e423479ed9537a:h2h|Coolbet|Kawasaki Frontale"
   ]
 }
