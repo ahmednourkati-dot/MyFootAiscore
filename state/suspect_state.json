@@ -1,216 +1,159 @@
 {
   "snapshots": {
-    "55e66255890212d1fce8fd673181992f:h2h": {
-      "Nordic Bet": {
-        "FC Tokyo": 1.0,
-        "Tokyo Verdy": 81.0,
-        "Draw": 81.0
-      },
+    "9fc8921981e5390c009be92520468591:h2h": {
       "Betclic (FR)": {
-        "FC Tokyo": 1.0,
-        "Tokyo Verdy": 100.0,
-        "Draw": 75.0
-      },
-      "Betsson": {
-        "FC Tokyo": 1.0,
-        "Tokyo Verdy": 81.0,
-        "Draw": 81.0
-      }
-    },
-    "258423cfe8d21ceccd01954595aaed8c:h2h": {
-      "Winamax (DE)": {
-        "Hiroshima Sanfrecce FC": 1.1,
-        "Kyoto Purple Sanga": 46.0,
-        "Draw": 6.5
-      },
-      "Betclic (FR)": {
-        "Hiroshima Sanfrecce FC": 1.0,
-        "Kyoto Purple Sanga": 100.0,
+        "Kashiwa Reysol": 100.0,
+        "Nagoya Grampus": 1.01,
         "Draw": 75.0
       },
       "Nordic Bet": {
-        "Hiroshima Sanfrecce FC": 1.0,
-        "Kyoto Purple Sanga": 81.0,
-        "Draw": 81.0
+        "Kashiwa Reysol": 81.0,
+        "Nagoya Grampus": 1.0,
+        "Draw": 67.0
       },
       "Winamax (FR)": {
-        "Hiroshima Sanfrecce FC": 1.13,
-        "Kyoto Purple Sanga": 46.0,
-        "Draw": 6.25
+        "Kashiwa Reysol": 300.0,
+        "Nagoya Grampus": 1.01,
+        "Draw": 34.0
+      },
+      "Winamax (DE)": {
+        "Kashiwa Reysol": 300.0,
+        "Nagoya Grampus": 1.01,
+        "Draw": 32.0
       },
       "Betsson": {
-        "Hiroshima Sanfrecce FC": 1.0,
-        "Kyoto Purple Sanga": 81.0,
+        "Kashiwa Reysol": 81.0,
+        "Nagoya Grampus": 1.0,
         "Draw": 81.0
       },
       "888sport": {
-        "Hiroshima Sanfrecce FC": 1.0,
-        "Kyoto Purple Sanga": 151.0,
-        "Draw": 51.0
+        "Kashiwa Reysol": 151.0,
+        "Nagoya Grampus": 1.0,
+        "Draw": 56.0
       },
       "Betfair": {
-        "Hiroshima Sanfrecce FC": 1.01,
-        "Kyoto Purple Sanga": 1.5,
-        "Draw": 55.0
+        "Kashiwa Reysol": 1000.0,
+        "Nagoya Grampus": 1.01,
+        "Draw": 50.0
       }
     },
-    "1b96761f07feb5bfc7c5af72548886b8:h2h": {
-      "Betsson": {
-        "JEF United Chiba": 8.2,
-        "Yokohama F Marinos": 7.7,
-        "Draw": 1.16
-      },
-      "Coolbet": {
-        "JEF United Chiba": 8.5,
-        "Yokohama F Marinos": 8.0,
-        "Draw": 1.2
-      },
+    "238e0ce50751d29b3c7220019cbcdf40:h2h": {
       "Nordic Bet": {
-        "JEF United Chiba": 7.7,
-        "Yokohama F Marinos": 7.2,
-        "Draw": 1.18
+        "Erzurum BB": 1.0,
+        "Eyüpspor": 56.0,
+        "Draw": 21.0
+      },
+      "Betsson": {
+        "Erzurum BB": 1.0,
+        "Eyüpspor": 56.0,
+        "Draw": 21.0
       },
       "Betclic (FR)": {
-        "JEF United Chiba": 7.5,
-        "Yokohama F Marinos": 7.0,
-        "Draw": 1.19
-      },
-      "Pinnacle": {
-        "JEF United Chiba": 4.4,
-        "Yokohama F Marinos": 4.31,
-        "Draw": 1.67
-      },
-      "Winamax (DE)": {
-        "JEF United Chiba": 8.0,
-        "Yokohama F Marinos": 8.0,
-        "Draw": 1.17
+        "Erzurum BB": 1.0,
+        "Eyüpspor": 85.0,
+        "Draw": 25.0
       },
       "Winamax (FR)": {
-        "JEF United Chiba": 7.75,
-        "Yokohama F Marinos": 7.5,
-        "Draw": 1.2
+        "Erzurum BB": 1.01,
+        "Eyüpspor": 150.0,
+        "Draw": 34.0
+      },
+      "Winamax (DE)": {
+        "Erzurum BB": 1.01,
+        "Eyüpspor": 150.0,
+        "Draw": 32.0
       },
       "888sport": {
-        "JEF United Chiba": 10.0,
-        "Yokohama F Marinos": 10.0,
-        "Draw": 1.12
+        "Erzurum BB": 1.0,
+        "Eyüpspor": 151.0,
+        "Draw": 46.0
       },
-      "Marathon Bet": {
-        "JEF United Chiba": 9.2,
-        "Yokohama F Marinos": 8.5,
-        "Draw": 1.14
-      },
+      "Betfair": {
+        "Erzurum BB": 1.01,
+        "Eyüpspor": 110.0,
+        "Draw": 70.0
+      }
+    },
+    "aece3794e426af574c642f4d21892f9a:h2h": {
       "Tipico": {
-        "JEF United Chiba": 8.5,
-        "Yokohama F Marinos": 6.5,
-        "Draw": 1.2
-      },
-      "Unibet (SE)": {
-        "JEF United Chiba": 8.0,
-        "Yokohama F Marinos": 7.5,
-        "Draw": 1.19
-      },
-      "PMU (FR)": {
-        "JEF United Chiba": 7.5,
-        "Yokohama F Marinos": 6.75,
-        "Draw": 1.12
+        "1. FC Heidenheim": 9.0,
+        "VfL Wolfsburg": 1.35,
+        "Draw": 4.3
       },
       "LeoVegas (SE)": {
-        "JEF United Chiba": 6.0,
-        "Yokohama F Marinos": 10.5,
-        "Draw": 1.15
-      },
-      "Unibet (NL)": {
-        "JEF United Chiba": 6.1,
-        "Yokohama F Marinos": 11.0,
-        "Draw": 1.17
-      },
-      "Betfair": {
-        "JEF United Chiba": 8.2,
-        "Yokohama F Marinos": 9.8,
-        "Draw": 1.25
-      },
-      "Matchbook": {
-        "JEF United Chiba": 7.0,
-        "Yokohama F Marinos": 9.6,
-        "Draw": 1.25
-      }
-    },
-    "250360a01977413700e423479ed9537a:h2h": {
-      "Coolbet": {
-        "Cerezo Osaka": 8.5,
-        "Kawasaki Frontale": 1.44,
+        "1. FC Heidenheim": 7.0,
+        "VfL Wolfsburg": 1.3,
         "Draw": 3.8
       },
-      "Betclic (FR)": {
-        "Cerezo Osaka": 21.0,
-        "Kawasaki Frontale": 1.07,
-        "Draw": 7.25
-      },
-      "Nordic Bet": {
-        "Cerezo Osaka": 21.0,
-        "Kawasaki Frontale": 1.09,
-        "Draw": 7.2
-      },
-      "Winamax (FR)": {
-        "Cerezo Osaka": 28.0,
-        "Kawasaki Frontale": 1.11,
-        "Draw": 7.5
-      },
-      "Winamax (DE)": {
-        "Cerezo Osaka": 27.0,
-        "Kawasaki Frontale": 1.08,
-        "Draw": 8.0
-      },
-      "Pinnacle": {
-        "Cerezo Osaka": 25.5,
-        "Kawasaki Frontale": 1.11,
-        "Draw": 8.66
-      },
-      "Betsson": {
-        "Cerezo Osaka": 21.0,
-        "Kawasaki Frontale": 1.09,
-        "Draw": 6.8
-      },
-      "888sport": {
-        "Cerezo Osaka": 23.0,
-        "Kawasaki Frontale": 1.11,
-        "Draw": 7.5
-      },
-      "Marathon Bet": {
-        "Cerezo Osaka": 23.0,
-        "Kawasaki Frontale": 1.07,
-        "Draw": 8.1
-      },
-      "Tipico": {
-        "Cerezo Osaka": 16.0,
-        "Kawasaki Frontale": 1.07,
-        "Draw": 9.0
-      },
       "PMU (FR)": {
-        "Cerezo Osaka": 19.0,
-        "Kawasaki Frontale": 1.03,
-        "Draw": 6.5
-      },
-      "LeoVegas (SE)": {
-        "Cerezo Osaka": 19.0,
-        "Kawasaki Frontale": 1.06,
-        "Draw": 7.5
-      },
-      "Unibet (NL)": {
-        "Cerezo Osaka": 19.0,
-        "Kawasaki Frontale": 1.08,
-        "Draw": 7.5
+        "1. FC Heidenheim": 6.75,
+        "VfL Wolfsburg": 1.27,
+        "Draw": 3.7
       },
       "Unibet (SE)": {
-        "Cerezo Osaka": 20.0,
-        "Kawasaki Frontale": 1.1,
-        "Draw": 7.5
+        "1. FC Heidenheim": 7.5,
+        "VfL Wolfsburg": 1.38,
+        "Draw": 4.0
+      },
+      "Unibet (NL)": {
+        "1. FC Heidenheim": 7.5,
+        "VfL Wolfsburg": 1.38,
+        "Draw": 4.0
+      },
+      "Nordic Bet": {
+        "1. FC Heidenheim": 9.1,
+        "VfL Wolfsburg": 1.31,
+        "Draw": 4.4
+      },
+      "Winamax (FR)": {
+        "1. FC Heidenheim": 7.75,
+        "VfL Wolfsburg": 1.34,
+        "Draw": 4.2
+      },
+      "Winamax (DE)": {
+        "1. FC Heidenheim": 8.5,
+        "VfL Wolfsburg": 1.35,
+        "Draw": 4.2
+      },
+      "Betclic (FR)": {
+        "1. FC Heidenheim": 8.5,
+        "VfL Wolfsburg": 1.26,
+        "Draw": 4.55
+      },
+      "Betsson": {
+        "1. FC Heidenheim": 9.1,
+        "VfL Wolfsburg": 1.31,
+        "Draw": 4.4
+      },
+      "Coolbet": {
+        "1. FC Heidenheim": 10.0,
+        "VfL Wolfsburg": 1.36,
+        "Draw": 5.0
+      },
+      "Pinnacle": {
+        "1. FC Heidenheim": 10.5,
+        "VfL Wolfsburg": 1.33,
+        "Draw": 4.83
       },
       "Betfair": {
-        "Cerezo Osaka": 3.2,
-        "Kawasaki Frontale": 1.05,
-        "Draw": 2.72
+        "1. FC Heidenheim": 10.0,
+        "VfL Wolfsburg": 1.4,
+        "Draw": 5.0
+      },
+      "888sport": {
+        "1. FC Heidenheim": 8.0,
+        "VfL Wolfsburg": 1.33,
+        "Draw": 4.4
+      },
+      "Marathon Bet": {
+        "1. FC Heidenheim": 8.9,
+        "VfL Wolfsburg": 1.29,
+        "Draw": 4.65
+      },
+      "Matchbook": {
+        "1. FC Heidenheim": 10.5,
+        "VfL Wolfsburg": 1.39,
+        "Draw": 5.1
       }
     }
   },
@@ -4986,37 +4929,5 @@
     }
   ],
   "results_history": [],
-  "value_alerted": [
-    "1b96761f07feb5bfc7c5af72548886b8:h2h|888sport|JEF United Chiba",
-    "1b96761f07feb5bfc7c5af72548886b8:h2h|888sport|Yokohama F Marinos",
-    "1b96761f07feb5bfc7c5af72548886b8:h2h|Betclic (FR)|JEF United Chiba",
-    "1b96761f07feb5bfc7c5af72548886b8:h2h|Betclic (FR)|Yokohama F Marinos",
-    "1b96761f07feb5bfc7c5af72548886b8:h2h|Betfair|JEF United Chiba",
-    "1b96761f07feb5bfc7c5af72548886b8:h2h|Betfair|Yokohama F Marinos",
-    "1b96761f07feb5bfc7c5af72548886b8:h2h|Betsson|JEF United Chiba",
-    "1b96761f07feb5bfc7c5af72548886b8:h2h|Betsson|Yokohama F Marinos",
-    "1b96761f07feb5bfc7c5af72548886b8:h2h|Coolbet|JEF United Chiba",
-    "1b96761f07feb5bfc7c5af72548886b8:h2h|Coolbet|Yokohama F Marinos",
-    "1b96761f07feb5bfc7c5af72548886b8:h2h|LeoVegas (SE)|JEF United Chiba",
-    "1b96761f07feb5bfc7c5af72548886b8:h2h|LeoVegas (SE)|Yokohama F Marinos",
-    "1b96761f07feb5bfc7c5af72548886b8:h2h|Marathon Bet|JEF United Chiba",
-    "1b96761f07feb5bfc7c5af72548886b8:h2h|Marathon Bet|Yokohama F Marinos",
-    "1b96761f07feb5bfc7c5af72548886b8:h2h|Matchbook|JEF United Chiba",
-    "1b96761f07feb5bfc7c5af72548886b8:h2h|Matchbook|Yokohama F Marinos",
-    "1b96761f07feb5bfc7c5af72548886b8:h2h|Nordic Bet|JEF United Chiba",
-    "1b96761f07feb5bfc7c5af72548886b8:h2h|Nordic Bet|Yokohama F Marinos",
-    "1b96761f07feb5bfc7c5af72548886b8:h2h|PMU (FR)|JEF United Chiba",
-    "1b96761f07feb5bfc7c5af72548886b8:h2h|PMU (FR)|Yokohama F Marinos",
-    "1b96761f07feb5bfc7c5af72548886b8:h2h|Tipico|JEF United Chiba",
-    "1b96761f07feb5bfc7c5af72548886b8:h2h|Tipico|Yokohama F Marinos",
-    "1b96761f07feb5bfc7c5af72548886b8:h2h|Unibet (NL)|JEF United Chiba",
-    "1b96761f07feb5bfc7c5af72548886b8:h2h|Unibet (NL)|Yokohama F Marinos",
-    "1b96761f07feb5bfc7c5af72548886b8:h2h|Unibet (SE)|JEF United Chiba",
-    "1b96761f07feb5bfc7c5af72548886b8:h2h|Unibet (SE)|Yokohama F Marinos",
-    "1b96761f07feb5bfc7c5af72548886b8:h2h|Winamax (DE)|JEF United Chiba",
-    "1b96761f07feb5bfc7c5af72548886b8:h2h|Winamax (DE)|Yokohama F Marinos",
-    "1b96761f07feb5bfc7c5af72548886b8:h2h|Winamax (FR)|JEF United Chiba",
-    "1b96761f07feb5bfc7c5af72548886b8:h2h|Winamax (FR)|Yokohama F Marinos",
-    "250360a01977413700e423479ed9537a:h2h|Coolbet|Kawasaki Frontale"
-  ]
+  "value_alerted": []
 }
