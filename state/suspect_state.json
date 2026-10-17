@@ -1,251 +1,286 @@
 {
   "snapshots": {
-    "5fc1c0491dc2f2c13afce1b5d0172165:h2h": {
+    "e441779f9fb6304f9e29ac5de3416df2:h2h": {
+      "Unibet (NL)": {
+        "Atletico Goianiense": 8.0,
+        "Ponte Preta": 46.0,
+        "Draw": 1.03
+      },
+      "Unibet (SE)": {
+        "Atletico Goianiense": 9.5,
+        "Ponte Preta": 67.0,
+        "Draw": 1.07
+      },
       "LeoVegas (SE)": {
-        "Shelbourne Dublin": 1.03,
-        "St Patricks Athletic": 76.0,
+        "Atletico Goianiense": 8.0,
+        "Ponte Preta": 51.0,
+        "Draw": 1.04
+      },
+      "Nordic Bet": {
+        "Atletico Goianiense": 6.3,
+        "Ponte Preta": 36.0,
+        "Draw": 1.1
+      },
+      "Betsson": {
+        "Atletico Goianiense": 6.3,
+        "Ponte Preta": 36.0,
+        "Draw": 1.1
+      },
+      "Coolbet": {
+        "Atletico Goianiense": 6.0,
+        "Ponte Preta": 35.0,
+        "Draw": 1.11
+      },
+      "Marathon Bet": {
+        "Atletico Goianiense": 5.3,
+        "Ponte Preta": 20.5,
+        "Draw": 1.15
+      },
+      "888sport": {
+        "Atletico Goianiense": 3.75,
+        "Ponte Preta": 17.0,
+        "Draw": 1.3
+      },
+      "Pinnacle": {
+        "Atletico Goianiense": 7.15,
+        "Ponte Preta": 1.67,
+        "Draw": 3.05
+      },
+      "Betfair": {
+        "Atletico Goianiense": 4.5,
+        "Ponte Preta": 18.0,
+        "Draw": 1.32
+      },
+      "Tipico": {
+        "Atletico Goianiense": 5.0,
+        "Ponte Preta": 40.0,
+        "Draw": 1.13
+      }
+    },
+    "fec4e2923c04c3fd3ba03c73dbef09f1:h2h": {
+      "PMU (FR)": {
+        "Internacional": 26.0,
+        "Mirassol": 1.03,
+        "Draw": 7.0
+      },
+      "Unibet (SE)": {
+        "Internacional": 26.0,
+        "Mirassol": 1.12,
+        "Draw": 7.0
+      },
+      "LeoVegas (SE)": {
+        "Internacional": 26.0,
+        "Mirassol": 1.06,
         "Draw": 7.5
       },
       "Unibet (NL)": {
-        "Shelbourne Dublin": 1.07,
-        "St Patricks Athletic": 121.0,
-        "Draw": 8.0
-      },
-      "PMU (FR)": {
-        "Shelbourne Dublin": 1.02,
-        "St Patricks Athletic": 46.0,
-        "Draw": 5.4
-      },
-      "Unibet (SE)": {
-        "Shelbourne Dublin": 1.12,
-        "St Patricks Athletic": 67.0,
-        "Draw": 6.0
-      },
-      "Winamax (FR)": {
-        "Shelbourne Dublin": 1.09,
-        "St Patricks Athletic": 500.0,
-        "Draw": 7.25
-      },
-      "Winamax (DE)": {
-        "Shelbourne Dublin": 1.09,
-        "St Patricks Athletic": 130.0,
-        "Draw": 6.25
-      },
-      "Pinnacle": {
-        "Shelbourne Dublin": 7.35,
-        "St Patricks Athletic": 2.89,
-        "Draw": 1.71
-      },
-      "Coolbet": {
-        "Shelbourne Dublin": 1.04,
-        "St Patricks Athletic": 50.0,
-        "Draw": 8.5
-      },
-      "Tipico": {
-        "Shelbourne Dublin": 1.04,
-        "St Patricks Athletic": 400.0,
-        "Draw": 9.0
-      },
-      "Betfair": {
-        "Shelbourne Dublin": 1.01,
-        "St Patricks Athletic": 1.01,
-        "Draw": 1.01
-      }
-    },
-    "33ca3a3f8d14ad19340c32dff45c749e:h2h": {
-      "Betclic (FR)": {
-        "Burnley": 100.0,
-        "Wolverhampton Wanderers": 1.0,
-        "Draw": 18.25
-      },
-      "Winamax (DE)": {
-        "Burnley": 450.0,
-        "Wolverhampton Wanderers": 1.03,
-        "Draw": 13.5
-      },
-      "Winamax (FR)": {
-        "Burnley": 450.0,
-        "Wolverhampton Wanderers": 1.04,
-        "Draw": 12.5
-      },
-      "Betfair": {
-        "Burnley": 1000.0,
-        "Wolverhampton Wanderers": 1.01,
-        "Draw": 55.0
-      },
-      "Betsson": {
-        "Burnley": 150.0,
-        "Wolverhampton Wanderers": 1.02,
-        "Draw": 12.0
-      },
-      "Nordic Bet": {
-        "Burnley": 100.0,
-        "Wolverhampton Wanderers": 1.04,
-        "Draw": 10.0
+        "Internacional": 26.0,
+        "Mirassol": 1.07,
+        "Draw": 7.0
       },
       "888sport": {
-        "Burnley": 126.0,
-        "Wolverhampton Wanderers": 1.04,
-        "Draw": 13.0
-      },
-      "Pinnacle": {
-        "Burnley": 43.82,
-        "Wolverhampton Wanderers": 1.17,
-        "Draw": 5.77
-      },
-      "Tipico": {
-        "Burnley": 500.0,
-        "Wolverhampton Wanderers": 1.01,
-        "Draw": 8.5
+        "Internacional": 29.0,
+        "Mirassol": 1.12,
+        "Draw": 7.0
       },
       "Coolbet": {
-        "Burnley": 1000.0,
-        "Wolverhampton Wanderers": 1.02,
-        "Draw": 17.0
-      }
-    },
-    "19ee731602634e5c9e3106630e087464:h2h": {
-      "Pinnacle": {
-        "Deportivo La Coruña": 1.21,
-        "Levante": 31.16,
-        "Draw": 5.33
-      },
-      "Nordic Bet": {
-        "Deportivo La Coruña": 15.0,
-        "Levante": 21.0,
-        "Draw": 1.05
-      },
-      "Coolbet": {
-        "Deportivo La Coruña": 1.0,
-        "Levante": 1.0,
-        "Draw": 1.0
-      },
-      "Tipico": {
-        "Deportivo La Coruña": 14.0,
-        "Levante": 22.0,
-        "Draw": 1.03
-      },
-      "Winamax (DE)": {
-        "Deportivo La Coruña": 29.0,
-        "Levante": 36.0,
-        "Draw": 1.02
+        "Internacional": 30.0,
+        "Mirassol": 1.11,
+        "Draw": 7.0
       },
       "Winamax (FR)": {
-        "Deportivo La Coruña": 29.0,
-        "Levante": 36.0,
-        "Draw": 1.03
-      },
-      "Betsson": {
-        "Deportivo La Coruña": 10.5,
-        "Levante": 12.5,
-        "Draw": 1.09
-      },
-      "Betfair": {
-        "Deportivo La Coruña": 24.0,
-        "Levante": 29.0,
-        "Draw": 1.06
-      },
-      "LeoVegas (SE)": {
-        "Deportivo La Coruña": 17.0,
-        "Levante": 16.0,
-        "Draw": 1.03
-      },
-      "PMU (FR)": {
-        "Deportivo La Coruña": 13.0,
-        "Levante": 16.0,
-        "Draw": 1.01
-      },
-      "Unibet (NL)": {
-        "Deportivo La Coruña": 18.0,
-        "Levante": 17.0,
-        "Draw": 1.05
-      },
-      "Unibet (SE)": {
-        "Deportivo La Coruña": 18.0,
-        "Levante": 17.0,
-        "Draw": 1.05
-      },
-      "Betclic (FR)": {
-        "Deportivo La Coruña": 10.25,
-        "Levante": 14.25,
-        "Draw": 1.07
-      }
-    },
-    "c2dd732203e813d69d4ecbe07206788c:h2h": {
-      "Betfair": {
-        "Defensa y Justicia": 2.58,
-        "Instituto de Córdoba": 3.25,
-        "Draw": 3.2
-      },
-      "Betsson": {
-        "Defensa y Justicia": 2.42,
-        "Instituto de Córdoba": 3.05,
-        "Draw": 2.92
-      },
-      "Nordic Bet": {
-        "Defensa y Justicia": 2.45,
-        "Instituto de Córdoba": 2.95,
-        "Draw": 3.0
-      },
-      "1xBet": {
-        "Defensa y Justicia": 2.51,
-        "Instituto de Córdoba": 3.02,
-        "Draw": 3.08
+        "Internacional": 34.0,
+        "Mirassol": 1.12,
+        "Draw": 6.75
       },
       "Winamax (DE)": {
-        "Defensa y Justicia": 2.35,
-        "Instituto de Córdoba": 2.9,
-        "Draw": 3.05
-      },
-      "Unibet (FR)": {
-        "Defensa y Justicia": 2.2,
-        "Instituto de Córdoba": 2.9,
-        "Draw": 2.9
-      },
-      "Winamax (FR)": {
-        "Defensa y Justicia": 2.3,
-        "Instituto de Córdoba": 2.85,
-        "Draw": 2.95
+        "Internacional": 32.0,
+        "Mirassol": 1.09,
+        "Draw": 7.0
       },
       "Betclic (FR)": {
-        "Defensa y Justicia": 2.33,
-        "Instituto de Córdoba": 2.93,
-        "Draw": 2.93
+        "Internacional": 20.0,
+        "Mirassol": 1.08,
+        "Draw": 5.9
       },
-      "Unibet (SE)": {
-        "Defensa y Justicia": 2.55,
-        "Instituto de Córdoba": 2.9,
-        "Draw": 3.0
+      "Betfair": {
+        "Internacional": 46.0,
+        "Mirassol": 1.15,
+        "Draw": 8.8
       },
-      "LeoVegas (SE)": {
-        "Defensa y Justicia": 2.38,
-        "Instituto de Córdoba": 2.7,
-        "Draw": 2.8
+      "MyBookie.ag": {
+        "Internacional": 33.0,
+        "Mirassol": 1.12,
+        "Draw": 6.75
       },
-      "Pinnacle": {
-        "Defensa y Justicia": 2.5,
-        "Instituto de Córdoba": 3.26,
-        "Draw": 3.06
+      "Nordic Bet": {
+        "Internacional": 26.0,
+        "Mirassol": 1.09,
+        "Draw": 6.8
       },
-      "Codere (IT)": {
-        "Defensa y Justicia": 2.47,
-        "Instituto de Córdoba": 3.05,
-        "Draw": 3.05
-      },
-      "BetOnline.ag": {
-        "Defensa y Justicia": 2.58,
-        "Instituto de Córdoba": 3.12,
-        "Draw": 3.07
+      "Betsson": {
+        "Internacional": 26.0,
+        "Mirassol": 1.09,
+        "Draw": 6.8
       },
       "Marathon Bet": {
-        "Defensa y Justicia": 2.46,
-        "Instituto de Córdoba": 2.96,
-        "Draw": 3.02
+        "Internacional": 31.0,
+        "Mirassol": 1.08,
+        "Draw": 8.1
+      },
+      "Pinnacle": {
+        "Internacional": 11.01,
+        "Mirassol": 1.55,
+        "Draw": 3.1
+      },
+      "Matchbook": {
+        "Internacional": 42.0,
+        "Mirassol": 1.15,
+        "Draw": 8.0
+      },
+      "Tipico": {
+        "Internacional": 45.0,
+        "Mirassol": 1.06,
+        "Draw": 7.0
+      }
+    },
+    "456f084c4d939f6906fc7ca18d63870e:h2h": {
+      "LeoVegas (SE)": {
+        "Fortaleza": 3.0,
+        "Sport Recife": 2.75,
+        "Draw": 2.23
+      },
+      "Unibet (NL)": {
+        "Fortaleza": 3.0,
+        "Sport Recife": 2.75,
+        "Draw": 2.25
+      },
+      "Unibet (SE)": {
+        "Fortaleza": 3.3,
+        "Sport Recife": 2.75,
+        "Draw": 2.4
+      },
+      "Betsson": {
+        "Fortaleza": 3.4,
+        "Sport Recife": 2.5,
+        "Draw": 2.45
+      },
+      "Nordic Bet": {
+        "Fortaleza": 3.4,
+        "Sport Recife": 2.5,
+        "Draw": 2.45
+      },
+      "Coolbet": {
+        "Fortaleza": 3.5,
+        "Sport Recife": 2.6,
+        "Draw": 2.4
+      },
+      "Marathon Bet": {
+        "Fortaleza": 3.48,
+        "Sport Recife": 2.47,
+        "Draw": 2.41
+      },
+      "888sport": {
+        "Fortaleza": 3.4,
+        "Sport Recife": 2.4,
+        "Draw": 2.45
+      },
+      "Pinnacle": {
+        "Fortaleza": 3.62,
+        "Sport Recife": 2.34,
+        "Draw": 2.76
+      },
+      "Tipico": {
+        "Fortaleza": 2.2,
+        "Sport Recife": 4.3,
+        "Draw": 2.5
+      },
+      "Matchbook": {
+        "Fortaleza": 4.0,
+        "Sport Recife": 2.66,
+        "Draw": 2.64
+      },
+      "Betfair": {
+        "Fortaleza": 4.0,
+        "Sport Recife": 2.62,
+        "Draw": 2.66
+      }
+    },
+    "f790decc9e73ba69db2d636a70afc110:h2h": {
+      "Betsson": {
+        "Boca Juniors": 1.4,
+        "Talleres": 7.8,
+        "Draw": 4.15
+      },
+      "Betfair": {
+        "Boca Juniors": 1.48,
+        "Talleres": 9.2,
+        "Draw": 4.5
+      },
+      "Nordic Bet": {
+        "Boca Juniors": 1.4,
+        "Talleres": 7.8,
+        "Draw": 4.15
+      },
+      "1xBet": {
+        "Boca Juniors": 1.44,
+        "Talleres": 8.63,
+        "Draw": 4.3
+      },
+      "Winamax (DE)": {
+        "Boca Juniors": 1.41,
+        "Talleres": 6.75,
+        "Draw": 4.2
+      },
+      "Unibet (FR)": {
+        "Boca Juniors": 1.32,
+        "Talleres": 6.9,
+        "Draw": 3.85
+      },
+      "Winamax (FR)": {
+        "Boca Juniors": 1.39,
+        "Talleres": 6.5,
+        "Draw": 4.1
+      },
+      "Betclic (FR)": {
+        "Boca Juniors": 1.36,
+        "Talleres": 6.9,
+        "Draw": 3.83
+      },
+      "Unibet (SE)": {
+        "Boca Juniors": 1.43,
+        "Talleres": 8.5,
+        "Draw": 4.0
+      },
+      "LeoVegas (SE)": {
+        "Boca Juniors": 1.36,
+        "Talleres": 7.5,
+        "Draw": 3.7
+      },
+      "Codere (IT)": {
+        "Boca Juniors": 1.46,
+        "Talleres": 7.4,
+        "Draw": 4.2
+      },
+      "Marathon Bet": {
+        "Boca Juniors": 1.42,
+        "Talleres": 7.7,
+        "Draw": 4.15
+      },
+      "Pinnacle": {
+        "Boca Juniors": 1.46,
+        "Talleres": 9.28,
+        "Draw": 4.06
+      },
+      "BetOnline.ag": {
+        "Boca Juniors": 1.47,
+        "Talleres": 9.25,
+        "Draw": 4.1
       },
       "BetAnything": {
-        "Defensa y Justicia": 2.58,
-        "Instituto de Córdoba": 3.12,
-        "Draw": 3.07
+        "Boca Juniors": 1.47,
+        "Talleres": 9.25,
+        "Draw": 4.1
       }
     }
   },
@@ -3722,56 +3757,859 @@
       "confidence": 710,
       "alert_type": "value",
       "alerted_at": "2026-10-16T21:00:04.962167+00:00"
+    },
+    {
+      "state_key": "e441779f9fb6304f9e29ac5de3416df2:h2h",
+      "event_id": "e441779f9fb6304f9e29ac5de3416df2",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ponte Preta",
+      "away_team": "Atletico Goianiense",
+      "commence_time": "2026-10-16T22:29:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Ponte Preta",
+      "odds_at_alert": 46.0,
+      "stake_pct": 5.0,
+      "confidence": 2483,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T00:23:12.888068+00:00"
+    },
+    {
+      "state_key": "e441779f9fb6304f9e29ac5de3416df2:h2h",
+      "event_id": "e441779f9fb6304f9e29ac5de3416df2",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ponte Preta",
+      "away_team": "Atletico Goianiense",
+      "commence_time": "2026-10-16T22:29:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Atletico Goianiense",
+      "odds_at_alert": 9.5,
+      "stake_pct": 5.0,
+      "confidence": 25,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T00:23:13.234023+00:00"
+    },
+    {
+      "state_key": "e441779f9fb6304f9e29ac5de3416df2:h2h",
+      "event_id": "e441779f9fb6304f9e29ac5de3416df2",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ponte Preta",
+      "away_team": "Atletico Goianiense",
+      "commence_time": "2026-10-16T22:29:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Ponte Preta",
+      "odds_at_alert": 67.0,
+      "stake_pct": 5.0,
+      "confidence": 3662,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T00:23:13.551968+00:00"
+    },
+    {
+      "state_key": "e441779f9fb6304f9e29ac5de3416df2:h2h",
+      "event_id": "e441779f9fb6304f9e29ac5de3416df2",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ponte Preta",
+      "away_team": "Atletico Goianiense",
+      "commence_time": "2026-10-16T22:29:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Ponte Preta",
+      "odds_at_alert": 51.0,
+      "stake_pct": 5.0,
+      "confidence": 2763,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T00:23:13.869642+00:00"
+    },
+    {
+      "state_key": "e441779f9fb6304f9e29ac5de3416df2:h2h",
+      "event_id": "e441779f9fb6304f9e29ac5de3416df2",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ponte Preta",
+      "away_team": "Atletico Goianiense",
+      "commence_time": "2026-10-16T22:29:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Ponte Preta",
+      "odds_at_alert": 36.0,
+      "stake_pct": 5.0,
+      "confidence": 1921,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T00:23:14.214361+00:00"
+    },
+    {
+      "state_key": "e441779f9fb6304f9e29ac5de3416df2:h2h",
+      "event_id": "e441779f9fb6304f9e29ac5de3416df2",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ponte Preta",
+      "away_team": "Atletico Goianiense",
+      "commence_time": "2026-10-16T22:29:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Ponte Preta",
+      "odds_at_alert": 36.0,
+      "stake_pct": 5.0,
+      "confidence": 1921,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T00:23:14.545033+00:00"
+    },
+    {
+      "state_key": "e441779f9fb6304f9e29ac5de3416df2:h2h",
+      "event_id": "e441779f9fb6304f9e29ac5de3416df2",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ponte Preta",
+      "away_team": "Atletico Goianiense",
+      "commence_time": "2026-10-16T22:29:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Ponte Preta",
+      "odds_at_alert": 35.0,
+      "stake_pct": 5.0,
+      "confidence": 1865,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T00:23:14.908804+00:00"
+    },
+    {
+      "state_key": "e441779f9fb6304f9e29ac5de3416df2:h2h",
+      "event_id": "e441779f9fb6304f9e29ac5de3416df2",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ponte Preta",
+      "away_team": "Atletico Goianiense",
+      "commence_time": "2026-10-16T22:29:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Ponte Preta",
+      "odds_at_alert": 20.5,
+      "stake_pct": 5.0,
+      "confidence": 1051,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T00:23:15.243763+00:00"
+    },
+    {
+      "state_key": "e441779f9fb6304f9e29ac5de3416df2:h2h",
+      "event_id": "e441779f9fb6304f9e29ac5de3416df2",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ponte Preta",
+      "away_team": "Atletico Goianiense",
+      "commence_time": "2026-10-16T22:29:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Ponte Preta",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 854,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T00:23:15.587863+00:00"
+    },
+    {
+      "state_key": "e441779f9fb6304f9e29ac5de3416df2:h2h",
+      "event_id": "e441779f9fb6304f9e29ac5de3416df2",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ponte Preta",
+      "away_team": "Atletico Goianiense",
+      "commence_time": "2026-10-16T22:29:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Ponte Preta",
+      "odds_at_alert": 18.0,
+      "stake_pct": 5.0,
+      "confidence": 911,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T00:23:15.918037+00:00"
+    },
+    {
+      "state_key": "e441779f9fb6304f9e29ac5de3416df2:h2h",
+      "event_id": "e441779f9fb6304f9e29ac5de3416df2",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ponte Preta",
+      "away_team": "Atletico Goianiense",
+      "commence_time": "2026-10-16T22:29:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Ponte Preta",
+      "odds_at_alert": 40.0,
+      "stake_pct": 5.0,
+      "confidence": 2146,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T00:23:16.330118+00:00"
+    },
+    {
+      "state_key": "fec4e2923c04c3fd3ba03c73dbef09f1:h2h",
+      "event_id": "fec4e2923c04c3fd3ba03c73dbef09f1",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Mirassol",
+      "away_team": "Internacional",
+      "commence_time": "2026-10-16T23:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Internacional",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 123,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T00:23:16.654798+00:00"
+    },
+    {
+      "state_key": "fec4e2923c04c3fd3ba03c73dbef09f1:h2h",
+      "event_id": "fec4e2923c04c3fd3ba03c73dbef09f1",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Mirassol",
+      "away_team": "Internacional",
+      "commence_time": "2026-10-16T23:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 7.0,
+      "stake_pct": 5.0,
+      "confidence": 113,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T00:23:16.976751+00:00"
+    },
+    {
+      "state_key": "fec4e2923c04c3fd3ba03c73dbef09f1:h2h",
+      "event_id": "fec4e2923c04c3fd3ba03c73dbef09f1",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Mirassol",
+      "away_team": "Internacional",
+      "commence_time": "2026-10-16T23:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Internacional",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 123,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T00:23:17.311046+00:00"
+    },
+    {
+      "state_key": "fec4e2923c04c3fd3ba03c73dbef09f1:h2h",
+      "event_id": "fec4e2923c04c3fd3ba03c73dbef09f1",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Mirassol",
+      "away_team": "Internacional",
+      "commence_time": "2026-10-16T23:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 7.0,
+      "stake_pct": 5.0,
+      "confidence": 113,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T00:23:17.667327+00:00"
+    },
+    {
+      "state_key": "fec4e2923c04c3fd3ba03c73dbef09f1:h2h",
+      "event_id": "fec4e2923c04c3fd3ba03c73dbef09f1",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Mirassol",
+      "away_team": "Internacional",
+      "commence_time": "2026-10-16T23:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Internacional",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 123,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T00:23:17.989042+00:00"
+    },
+    {
+      "state_key": "fec4e2923c04c3fd3ba03c73dbef09f1:h2h",
+      "event_id": "fec4e2923c04c3fd3ba03c73dbef09f1",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Mirassol",
+      "away_team": "Internacional",
+      "commence_time": "2026-10-16T23:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 7.5,
+      "stake_pct": 5.0,
+      "confidence": 129,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T00:23:18.337134+00:00"
+    },
+    {
+      "state_key": "fec4e2923c04c3fd3ba03c73dbef09f1:h2h",
+      "event_id": "fec4e2923c04c3fd3ba03c73dbef09f1",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Mirassol",
+      "away_team": "Internacional",
+      "commence_time": "2026-10-16T23:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Internacional",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 123,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T00:23:18.675593+00:00"
+    },
+    {
+      "state_key": "fec4e2923c04c3fd3ba03c73dbef09f1:h2h",
+      "event_id": "fec4e2923c04c3fd3ba03c73dbef09f1",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Mirassol",
+      "away_team": "Internacional",
+      "commence_time": "2026-10-16T23:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 7.0,
+      "stake_pct": 5.0,
+      "confidence": 113,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T00:23:18.997714+00:00"
+    },
+    {
+      "state_key": "fec4e2923c04c3fd3ba03c73dbef09f1:h2h",
+      "event_id": "fec4e2923c04c3fd3ba03c73dbef09f1",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Mirassol",
+      "away_team": "Internacional",
+      "commence_time": "2026-10-16T23:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Internacional",
+      "odds_at_alert": 29.0,
+      "stake_pct": 5.0,
+      "confidence": 149,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T00:23:19.356092+00:00"
+    },
+    {
+      "state_key": "fec4e2923c04c3fd3ba03c73dbef09f1:h2h",
+      "event_id": "fec4e2923c04c3fd3ba03c73dbef09f1",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Mirassol",
+      "away_team": "Internacional",
+      "commence_time": "2026-10-16T23:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 7.0,
+      "stake_pct": 5.0,
+      "confidence": 113,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T00:23:19.681880+00:00"
+    },
+    {
+      "state_key": "fec4e2923c04c3fd3ba03c73dbef09f1:h2h",
+      "event_id": "fec4e2923c04c3fd3ba03c73dbef09f1",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Mirassol",
+      "away_team": "Internacional",
+      "commence_time": "2026-10-16T23:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Internacional",
+      "odds_at_alert": 30.0,
+      "stake_pct": 5.0,
+      "confidence": 157,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T00:23:20.166103+00:00"
+    },
+    {
+      "state_key": "fec4e2923c04c3fd3ba03c73dbef09f1:h2h",
+      "event_id": "fec4e2923c04c3fd3ba03c73dbef09f1",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Mirassol",
+      "away_team": "Internacional",
+      "commence_time": "2026-10-16T23:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 7.0,
+      "stake_pct": 5.0,
+      "confidence": 113,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T00:23:20.510564+00:00"
+    },
+    {
+      "state_key": "fec4e2923c04c3fd3ba03c73dbef09f1:h2h",
+      "event_id": "fec4e2923c04c3fd3ba03c73dbef09f1",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Mirassol",
+      "away_team": "Internacional",
+      "commence_time": "2026-10-16T23:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Internacional",
+      "odds_at_alert": 34.0,
+      "stake_pct": 5.0,
+      "confidence": 192,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T00:23:20.841885+00:00"
+    },
+    {
+      "state_key": "fec4e2923c04c3fd3ba03c73dbef09f1:h2h",
+      "event_id": "fec4e2923c04c3fd3ba03c73dbef09f1",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Mirassol",
+      "away_team": "Internacional",
+      "commence_time": "2026-10-16T23:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.75,
+      "stake_pct": 5.0,
+      "confidence": 106,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T00:23:21.181303+00:00"
+    },
+    {
+      "state_key": "fec4e2923c04c3fd3ba03c73dbef09f1:h2h",
+      "event_id": "fec4e2923c04c3fd3ba03c73dbef09f1",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Mirassol",
+      "away_team": "Internacional",
+      "commence_time": "2026-10-16T23:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Internacional",
+      "odds_at_alert": 32.0,
+      "stake_pct": 5.0,
+      "confidence": 175,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T00:23:21.500101+00:00"
+    },
+    {
+      "state_key": "fec4e2923c04c3fd3ba03c73dbef09f1:h2h",
+      "event_id": "fec4e2923c04c3fd3ba03c73dbef09f1",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Mirassol",
+      "away_team": "Internacional",
+      "commence_time": "2026-10-16T23:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 7.0,
+      "stake_pct": 5.0,
+      "confidence": 113,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T00:23:21.826143+00:00"
+    },
+    {
+      "state_key": "fec4e2923c04c3fd3ba03c73dbef09f1:h2h",
+      "event_id": "fec4e2923c04c3fd3ba03c73dbef09f1",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Mirassol",
+      "away_team": "Internacional",
+      "commence_time": "2026-10-16T23:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Internacional",
+      "odds_at_alert": 20.0,
+      "stake_pct": 5.0,
+      "confidence": 72,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T00:23:22.179107+00:00"
+    },
+    {
+      "state_key": "fec4e2923c04c3fd3ba03c73dbef09f1:h2h",
+      "event_id": "fec4e2923c04c3fd3ba03c73dbef09f1",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Mirassol",
+      "away_team": "Internacional",
+      "commence_time": "2026-10-16T23:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.9,
+      "stake_pct": 5.0,
+      "confidence": 80,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T00:23:22.508265+00:00"
+    },
+    {
+      "state_key": "fec4e2923c04c3fd3ba03c73dbef09f1:h2h",
+      "event_id": "fec4e2923c04c3fd3ba03c73dbef09f1",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Mirassol",
+      "away_team": "Internacional",
+      "commence_time": "2026-10-16T23:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Internacional",
+      "odds_at_alert": 46.0,
+      "stake_pct": 5.0,
+      "confidence": 295,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T00:23:22.838671+00:00"
+    },
+    {
+      "state_key": "fec4e2923c04c3fd3ba03c73dbef09f1:h2h",
+      "event_id": "fec4e2923c04c3fd3ba03c73dbef09f1",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Mirassol",
+      "away_team": "Internacional",
+      "commence_time": "2026-10-16T23:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 8.8,
+      "stake_pct": 5.0,
+      "confidence": 168,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T00:23:23.187732+00:00"
+    },
+    {
+      "state_key": "fec4e2923c04c3fd3ba03c73dbef09f1:h2h",
+      "event_id": "fec4e2923c04c3fd3ba03c73dbef09f1",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Mirassol",
+      "away_team": "Internacional",
+      "commence_time": "2026-10-16T23:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Internacional",
+      "odds_at_alert": 33.0,
+      "stake_pct": 5.0,
+      "confidence": 183,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T00:23:23.567990+00:00"
+    },
+    {
+      "state_key": "fec4e2923c04c3fd3ba03c73dbef09f1:h2h",
+      "event_id": "fec4e2923c04c3fd3ba03c73dbef09f1",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Mirassol",
+      "away_team": "Internacional",
+      "commence_time": "2026-10-16T23:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.75,
+      "stake_pct": 5.0,
+      "confidence": 106,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T00:23:23.901376+00:00"
+    },
+    {
+      "state_key": "fec4e2923c04c3fd3ba03c73dbef09f1:h2h",
+      "event_id": "fec4e2923c04c3fd3ba03c73dbef09f1",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Mirassol",
+      "away_team": "Internacional",
+      "commence_time": "2026-10-16T23:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Internacional",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 123,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T00:23:24.238115+00:00"
+    },
+    {
+      "state_key": "fec4e2923c04c3fd3ba03c73dbef09f1:h2h",
+      "event_id": "fec4e2923c04c3fd3ba03c73dbef09f1",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Mirassol",
+      "away_team": "Internacional",
+      "commence_time": "2026-10-16T23:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.8,
+      "stake_pct": 5.0,
+      "confidence": 107,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T00:23:24.637172+00:00"
+    },
+    {
+      "state_key": "fec4e2923c04c3fd3ba03c73dbef09f1:h2h",
+      "event_id": "fec4e2923c04c3fd3ba03c73dbef09f1",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Mirassol",
+      "away_team": "Internacional",
+      "commence_time": "2026-10-16T23:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Internacional",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 123,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T00:23:24.974322+00:00"
+    },
+    {
+      "state_key": "fec4e2923c04c3fd3ba03c73dbef09f1:h2h",
+      "event_id": "fec4e2923c04c3fd3ba03c73dbef09f1",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Mirassol",
+      "away_team": "Internacional",
+      "commence_time": "2026-10-16T23:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.8,
+      "stake_pct": 5.0,
+      "confidence": 107,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T00:23:25.361883+00:00"
+    },
+    {
+      "state_key": "fec4e2923c04c3fd3ba03c73dbef09f1:h2h",
+      "event_id": "fec4e2923c04c3fd3ba03c73dbef09f1",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Mirassol",
+      "away_team": "Internacional",
+      "commence_time": "2026-10-16T23:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Internacional",
+      "odds_at_alert": 31.0,
+      "stake_pct": 5.0,
+      "confidence": 166,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T00:23:25.704704+00:00"
+    },
+    {
+      "state_key": "fec4e2923c04c3fd3ba03c73dbef09f1:h2h",
+      "event_id": "fec4e2923c04c3fd3ba03c73dbef09f1",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Mirassol",
+      "away_team": "Internacional",
+      "commence_time": "2026-10-16T23:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 8.1,
+      "stake_pct": 5.0,
+      "confidence": 147,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T00:23:26.039589+00:00"
+    },
+    {
+      "state_key": "fec4e2923c04c3fd3ba03c73dbef09f1:h2h",
+      "event_id": "fec4e2923c04c3fd3ba03c73dbef09f1",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Mirassol",
+      "away_team": "Internacional",
+      "commence_time": "2026-10-16T23:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Internacional",
+      "odds_at_alert": 42.0,
+      "stake_pct": 5.0,
+      "confidence": 260,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T00:23:26.396880+00:00"
+    },
+    {
+      "state_key": "fec4e2923c04c3fd3ba03c73dbef09f1:h2h",
+      "event_id": "fec4e2923c04c3fd3ba03c73dbef09f1",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Mirassol",
+      "away_team": "Internacional",
+      "commence_time": "2026-10-16T23:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 8.0,
+      "stake_pct": 5.0,
+      "confidence": 144,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T00:23:26.786906+00:00"
+    },
+    {
+      "state_key": "fec4e2923c04c3fd3ba03c73dbef09f1:h2h",
+      "event_id": "fec4e2923c04c3fd3ba03c73dbef09f1",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Mirassol",
+      "away_team": "Internacional",
+      "commence_time": "2026-10-16T23:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Internacional",
+      "odds_at_alert": 45.0,
+      "stake_pct": 5.0,
+      "confidence": 286,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T00:23:27.124635+00:00"
+    },
+    {
+      "state_key": "fec4e2923c04c3fd3ba03c73dbef09f1:h2h",
+      "event_id": "fec4e2923c04c3fd3ba03c73dbef09f1",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Mirassol",
+      "away_team": "Internacional",
+      "commence_time": "2026-10-16T23:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 7.0,
+      "stake_pct": 5.0,
+      "confidence": 113,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T00:23:27.460996+00:00"
+    },
+    {
+      "state_key": "456f084c4d939f6906fc7ca18d63870e:h2h",
+      "event_id": "456f084c4d939f6906fc7ca18d63870e",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Sport Recife",
+      "away_team": "Fortaleza",
+      "commence_time": "2026-10-16T23:36:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sport Recife",
+      "odds_at_alert": 2.75,
+      "stake_pct": 3.0,
+      "confidence": 10,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T00:23:27.791156+00:00"
+    },
+    {
+      "state_key": "456f084c4d939f6906fc7ca18d63870e:h2h",
+      "event_id": "456f084c4d939f6906fc7ca18d63870e",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Sport Recife",
+      "away_team": "Fortaleza",
+      "commence_time": "2026-10-16T23:36:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sport Recife",
+      "odds_at_alert": 2.75,
+      "stake_pct": 3.0,
+      "confidence": 10,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T00:23:28.136420+00:00"
+    },
+    {
+      "state_key": "456f084c4d939f6906fc7ca18d63870e:h2h",
+      "event_id": "456f084c4d939f6906fc7ca18d63870e",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Sport Recife",
+      "away_team": "Fortaleza",
+      "commence_time": "2026-10-16T23:36:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sport Recife",
+      "odds_at_alert": 2.75,
+      "stake_pct": 3.0,
+      "confidence": 10,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T00:23:28.490466+00:00"
+    },
+    {
+      "state_key": "456f084c4d939f6906fc7ca18d63870e:h2h",
+      "event_id": "456f084c4d939f6906fc7ca18d63870e",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Sport Recife",
+      "away_team": "Fortaleza",
+      "commence_time": "2026-10-16T23:36:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sport Recife",
+      "odds_at_alert": 4.3,
+      "stake_pct": 5.0,
+      "confidence": 72,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T00:23:28.831402+00:00"
+    },
+    {
+      "state_key": "456f084c4d939f6906fc7ca18d63870e:h2h",
+      "event_id": "456f084c4d939f6906fc7ca18d63870e",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Sport Recife",
+      "away_team": "Fortaleza",
+      "commence_time": "2026-10-16T23:36:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sport Recife",
+      "odds_at_alert": 2.66,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T00:23:29.168089+00:00"
+    },
+    {
+      "state_key": "456f084c4d939f6906fc7ca18d63870e:h2h",
+      "event_id": "456f084c4d939f6906fc7ca18d63870e",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Sport Recife",
+      "away_team": "Fortaleza",
+      "commence_time": "2026-10-16T23:36:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sport Recife",
+      "odds_at_alert": 2.62,
+      "stake_pct": 2.0,
+      "confidence": 5,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T00:23:29.483025+00:00"
+    },
+    {
+      "state_key": "f790decc9e73ba69db2d636a70afc110:h2h",
+      "event_id": "f790decc9e73ba69db2d636a70afc110",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Boca Juniors",
+      "away_team": "Talleres",
+      "commence_time": "2026-10-17T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.5,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-10-17T00:23:29.806100+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "19ee731602634e5c9e3106630e087464:h2h|Betclic (FR)|Deportivo La Coruña",
-    "19ee731602634e5c9e3106630e087464:h2h|Betfair|Deportivo La Coruña",
-    "19ee731602634e5c9e3106630e087464:h2h|Betsson|Deportivo La Coruña",
-    "19ee731602634e5c9e3106630e087464:h2h|LeoVegas (SE)|Deportivo La Coruña",
-    "19ee731602634e5c9e3106630e087464:h2h|Nordic Bet|Deportivo La Coruña",
-    "19ee731602634e5c9e3106630e087464:h2h|PMU (FR)|Deportivo La Coruña",
-    "19ee731602634e5c9e3106630e087464:h2h|Tipico|Deportivo La Coruña",
-    "19ee731602634e5c9e3106630e087464:h2h|Unibet (NL)|Deportivo La Coruña",
-    "19ee731602634e5c9e3106630e087464:h2h|Unibet (SE)|Deportivo La Coruña",
-    "19ee731602634e5c9e3106630e087464:h2h|Winamax (DE)|Deportivo La Coruña",
-    "19ee731602634e5c9e3106630e087464:h2h|Winamax (DE)|Levante",
-    "19ee731602634e5c9e3106630e087464:h2h|Winamax (FR)|Deportivo La Coruña",
-    "19ee731602634e5c9e3106630e087464:h2h|Winamax (FR)|Levante",
-    "33ca3a3f8d14ad19340c32dff45c749e:h2h|888sport|Burnley",
-    "33ca3a3f8d14ad19340c32dff45c749e:h2h|888sport|Draw",
-    "33ca3a3f8d14ad19340c32dff45c749e:h2h|Betclic (FR)|Burnley",
-    "33ca3a3f8d14ad19340c32dff45c749e:h2h|Betclic (FR)|Draw",
-    "33ca3a3f8d14ad19340c32dff45c749e:h2h|Betfair|Burnley",
-    "33ca3a3f8d14ad19340c32dff45c749e:h2h|Betfair|Draw",
-    "33ca3a3f8d14ad19340c32dff45c749e:h2h|Betsson|Burnley",
-    "33ca3a3f8d14ad19340c32dff45c749e:h2h|Betsson|Draw",
-    "33ca3a3f8d14ad19340c32dff45c749e:h2h|Coolbet|Burnley",
-    "33ca3a3f8d14ad19340c32dff45c749e:h2h|Coolbet|Draw",
-    "33ca3a3f8d14ad19340c32dff45c749e:h2h|Nordic Bet|Burnley",
-    "33ca3a3f8d14ad19340c32dff45c749e:h2h|Nordic Bet|Draw",
-    "33ca3a3f8d14ad19340c32dff45c749e:h2h|Tipico|Burnley",
-    "33ca3a3f8d14ad19340c32dff45c749e:h2h|Tipico|Draw",
-    "33ca3a3f8d14ad19340c32dff45c749e:h2h|Winamax (DE)|Burnley",
-    "33ca3a3f8d14ad19340c32dff45c749e:h2h|Winamax (DE)|Draw",
-    "33ca3a3f8d14ad19340c32dff45c749e:h2h|Winamax (FR)|Burnley",
-    "33ca3a3f8d14ad19340c32dff45c749e:h2h|Winamax (FR)|Draw",
-    "5fc1c0491dc2f2c13afce1b5d0172165:h2h|Coolbet|Draw",
-    "5fc1c0491dc2f2c13afce1b5d0172165:h2h|Coolbet|St Patricks Athletic",
-    "5fc1c0491dc2f2c13afce1b5d0172165:h2h|LeoVegas (SE)|Draw",
-    "5fc1c0491dc2f2c13afce1b5d0172165:h2h|LeoVegas (SE)|St Patricks Athletic",
-    "5fc1c0491dc2f2c13afce1b5d0172165:h2h|PMU (FR)|Draw",
-    "5fc1c0491dc2f2c13afce1b5d0172165:h2h|PMU (FR)|St Patricks Athletic",
-    "5fc1c0491dc2f2c13afce1b5d0172165:h2h|Tipico|Draw",
-    "5fc1c0491dc2f2c13afce1b5d0172165:h2h|Tipico|St Patricks Athletic",
-    "5fc1c0491dc2f2c13afce1b5d0172165:h2h|Unibet (NL)|Draw",
-    "5fc1c0491dc2f2c13afce1b5d0172165:h2h|Unibet (NL)|St Patricks Athletic",
-    "5fc1c0491dc2f2c13afce1b5d0172165:h2h|Unibet (SE)|Draw",
-    "5fc1c0491dc2f2c13afce1b5d0172165:h2h|Unibet (SE)|St Patricks Athletic",
-    "5fc1c0491dc2f2c13afce1b5d0172165:h2h|Winamax (DE)|Draw",
-    "5fc1c0491dc2f2c13afce1b5d0172165:h2h|Winamax (DE)|St Patricks Athletic",
-    "5fc1c0491dc2f2c13afce1b5d0172165:h2h|Winamax (FR)|Draw",
-    "5fc1c0491dc2f2c13afce1b5d0172165:h2h|Winamax (FR)|St Patricks Athletic"
+    "456f084c4d939f6906fc7ca18d63870e:h2h|Betfair|Sport Recife",
+    "456f084c4d939f6906fc7ca18d63870e:h2h|LeoVegas (SE)|Sport Recife",
+    "456f084c4d939f6906fc7ca18d63870e:h2h|Matchbook|Sport Recife",
+    "456f084c4d939f6906fc7ca18d63870e:h2h|Tipico|Sport Recife",
+    "456f084c4d939f6906fc7ca18d63870e:h2h|Unibet (NL)|Sport Recife",
+    "456f084c4d939f6906fc7ca18d63870e:h2h|Unibet (SE)|Sport Recife",
+    "e441779f9fb6304f9e29ac5de3416df2:h2h|888sport|Ponte Preta",
+    "e441779f9fb6304f9e29ac5de3416df2:h2h|Betfair|Ponte Preta",
+    "e441779f9fb6304f9e29ac5de3416df2:h2h|Betsson|Ponte Preta",
+    "e441779f9fb6304f9e29ac5de3416df2:h2h|Coolbet|Ponte Preta",
+    "e441779f9fb6304f9e29ac5de3416df2:h2h|LeoVegas (SE)|Ponte Preta",
+    "e441779f9fb6304f9e29ac5de3416df2:h2h|Marathon Bet|Ponte Preta",
+    "e441779f9fb6304f9e29ac5de3416df2:h2h|Nordic Bet|Ponte Preta",
+    "e441779f9fb6304f9e29ac5de3416df2:h2h|Tipico|Ponte Preta",
+    "e441779f9fb6304f9e29ac5de3416df2:h2h|Unibet (NL)|Ponte Preta",
+    "e441779f9fb6304f9e29ac5de3416df2:h2h|Unibet (SE)|Atletico Goianiense",
+    "e441779f9fb6304f9e29ac5de3416df2:h2h|Unibet (SE)|Ponte Preta",
+    "f790decc9e73ba69db2d636a70afc110:h2h|Betfair|Draw",
+    "fec4e2923c04c3fd3ba03c73dbef09f1:h2h|888sport|Draw",
+    "fec4e2923c04c3fd3ba03c73dbef09f1:h2h|888sport|Internacional",
+    "fec4e2923c04c3fd3ba03c73dbef09f1:h2h|Betclic (FR)|Draw",
+    "fec4e2923c04c3fd3ba03c73dbef09f1:h2h|Betclic (FR)|Internacional",
+    "fec4e2923c04c3fd3ba03c73dbef09f1:h2h|Betfair|Draw",
+    "fec4e2923c04c3fd3ba03c73dbef09f1:h2h|Betfair|Internacional",
+    "fec4e2923c04c3fd3ba03c73dbef09f1:h2h|Betsson|Draw",
+    "fec4e2923c04c3fd3ba03c73dbef09f1:h2h|Betsson|Internacional",
+    "fec4e2923c04c3fd3ba03c73dbef09f1:h2h|Coolbet|Draw",
+    "fec4e2923c04c3fd3ba03c73dbef09f1:h2h|Coolbet|Internacional",
+    "fec4e2923c04c3fd3ba03c73dbef09f1:h2h|LeoVegas (SE)|Draw",
+    "fec4e2923c04c3fd3ba03c73dbef09f1:h2h|LeoVegas (SE)|Internacional",
+    "fec4e2923c04c3fd3ba03c73dbef09f1:h2h|Marathon Bet|Draw",
+    "fec4e2923c04c3fd3ba03c73dbef09f1:h2h|Marathon Bet|Internacional",
+    "fec4e2923c04c3fd3ba03c73dbef09f1:h2h|Matchbook|Draw",
+    "fec4e2923c04c3fd3ba03c73dbef09f1:h2h|Matchbook|Internacional",
+    "fec4e2923c04c3fd3ba03c73dbef09f1:h2h|MyBookie.ag|Draw",
+    "fec4e2923c04c3fd3ba03c73dbef09f1:h2h|MyBookie.ag|Internacional",
+    "fec4e2923c04c3fd3ba03c73dbef09f1:h2h|Nordic Bet|Draw",
+    "fec4e2923c04c3fd3ba03c73dbef09f1:h2h|Nordic Bet|Internacional",
+    "fec4e2923c04c3fd3ba03c73dbef09f1:h2h|PMU (FR)|Draw",
+    "fec4e2923c04c3fd3ba03c73dbef09f1:h2h|PMU (FR)|Internacional",
+    "fec4e2923c04c3fd3ba03c73dbef09f1:h2h|Tipico|Draw",
+    "fec4e2923c04c3fd3ba03c73dbef09f1:h2h|Tipico|Internacional",
+    "fec4e2923c04c3fd3ba03c73dbef09f1:h2h|Unibet (NL)|Draw",
+    "fec4e2923c04c3fd3ba03c73dbef09f1:h2h|Unibet (NL)|Internacional",
+    "fec4e2923c04c3fd3ba03c73dbef09f1:h2h|Unibet (SE)|Draw",
+    "fec4e2923c04c3fd3ba03c73dbef09f1:h2h|Unibet (SE)|Internacional",
+    "fec4e2923c04c3fd3ba03c73dbef09f1:h2h|Winamax (DE)|Draw",
+    "fec4e2923c04c3fd3ba03c73dbef09f1:h2h|Winamax (DE)|Internacional",
+    "fec4e2923c04c3fd3ba03c73dbef09f1:h2h|Winamax (FR)|Draw",
+    "fec4e2923c04c3fd3ba03c73dbef09f1:h2h|Winamax (FR)|Internacional"
   ]
 }
