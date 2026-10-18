@@ -1,176 +1,176 @@
 {
   "snapshots": {
-    "f0153980fbafeb84f5bcdb2780fbf8f2:h2h": {
-      "Nordic Bet": {
-        "Celtic": 1.0,
-        "Hearts": 26.0,
-        "Draw": 26.0
-      },
-      "Betsson": {
-        "Celtic": 1.0,
-        "Hearts": 26.0,
-        "Draw": 26.0
-      }
-    },
-    "14ad0630cf9b666642fab04814ff793f:h2h": {
-      "Nordic Bet": {
-        "Olympiakos Piraeus": 1.0,
-        "Panetolikos Agrinio": 41.0,
-        "Draw": 19.0
-      },
-      "Betsson": {
-        "Olympiakos Piraeus": 1.0,
-        "Panetolikos Agrinio": 41.0,
-        "Draw": 19.0
-      },
+    "c3ca0a75fea2e2f768322e7be4c42977:h2h": {
       "Betclic (FR)": {
-        "Olympiakos Piraeus": 1.0,
-        "Panetolikos Agrinio": 100.0,
+        "Andorra CF": 100.0,
+        "Girona FC": 1.0,
         "Draw": 40.0
       },
-      "888sport": {
-        "Olympiakos Piraeus": 1.0,
-        "Panetolikos Agrinio": 151.0,
-        "Draw": 56.0
-      },
-      "Betfair": {
-        "Olympiakos Piraeus": 1.01,
-        "Panetolikos Agrinio": 80.0,
-        "Draw": 55.0
-      }
-    },
-    "f3b3f19156e3fc265edf016ffca37dd3:h2h": {
-      "Unibet (SE)": {
-        "Brondby IF": 41.0,
-        "OB Odense BK": 1.17,
-        "Draw": 5.3
-      },
-      "LeoVegas (SE)": {
-        "Brondby IF": 35.0,
-        "OB Odense BK": 1.13,
-        "Draw": 5.1
-      },
-      "PMU (FR)": {
-        "Brondby IF": 30.0,
-        "OB Odense BK": 1.07,
-        "Draw": 4.5
-      },
-      "Unibet (NL)": {
-        "Brondby IF": 36.0,
-        "OB Odense BK": 1.15,
-        "Draw": 5.2
-      },
-      "Betclic (FR)": {
-        "Brondby IF": 26.0,
-        "OB Odense BK": 1.13,
-        "Draw": 4.65
-      },
-      "Winamax (FR)": {
-        "Brondby IF": 46.0,
-        "OB Odense BK": 1.17,
-        "Draw": 5.0
-      },
-      "Winamax (DE)": {
-        "Brondby IF": 42.0,
-        "OB Odense BK": 1.15,
-        "Draw": 5.2
-      },
-      "Betfair": {
-        "Brondby IF": 34.0,
-        "OB Odense BK": 1.22,
-        "Draw": 5.5
-      },
-      "Marathon Bet": {
-        "Brondby IF": 30.0,
-        "OB Odense BK": 1.15,
-        "Draw": 5.6
-      },
-      "Tipico": {
-        "Brondby IF": 40.0,
-        "OB Odense BK": 1.16,
-        "Draw": 4.5
-      },
-      "888sport": {
-        "Brondby IF": 36.0,
-        "OB Odense BK": 1.15,
-        "Draw": 5.5
-      },
       "Betsson": {
-        "Brondby IF": 36.0,
-        "OB Odense BK": 1.16,
-        "Draw": 4.85
-      },
-      "Nordic Bet": {
-        "Brondby IF": 40.0,
-        "OB Odense BK": 1.14,
-        "Draw": 4.85
-      },
-      "Coolbet": {
-        "Brondby IF": 40.0,
-        "OB Odense BK": 1.18,
-        "Draw": 5.0
-      }
-    },
-    "aabe899ecc4c19a1fafe5440151b62e4:h2h": {
-      "Pinnacle": {
-        "Alavés": 23.49,
-        "Celta Vigo": 1.26,
-        "Draw": 4.72
-      },
-      "Nordic Bet": {
-        "Alavés": 65.0,
-        "Celta Vigo": 1.01,
-        "Draw": 17.0
-      },
-      "Coolbet": {
-        "Alavés": 100.0,
-        "Celta Vigo": 1.02,
-        "Draw": 22.0
-      },
-      "Tipico": {
-        "Alavés": 20.0,
-        "Celta Vigo": 1.01,
-        "Draw": 22.0
-      },
-      "Betclic (FR)": {
-        "Alavés": 45.0,
-        "Celta Vigo": 1.0,
-        "Draw": 15.75
-      },
-      "Winamax (DE)": {
-        "Alavés": 150.0,
-        "Celta Vigo": 1.01,
-        "Draw": 27.0
-      },
-      "Winamax (FR)": {
-        "Alavés": 160.0,
-        "Celta Vigo": 1.02,
+        "Andorra CF": 26.0,
+        "Girona FC": 1.0,
         "Draw": 26.0
       },
-      "Betsson": {
-        "Alavés": 65.0,
-        "Celta Vigo": 1.01,
-        "Draw": 17.0
-      },
+      "Nordic Bet": {
+        "Andorra CF": 26.0,
+        "Girona FC": 1.0,
+        "Draw": 26.0
+      }
+    },
+    "280311305282b3288f5d8f19a722058b:h2h": {
       "Unibet (SE)": {
-        "Alavés": 131.0,
-        "Celta Vigo": 1.02,
-        "Draw": 21.0
+        "CD Eldense": 41.0,
+        "Real Valladolid CF": 36.0,
+        "Draw": 1.01
       },
       "Unibet (NL)": {
-        "Alavés": 131.0,
-        "Celta Vigo": 1.02,
-        "Draw": 21.0
+        "CD Eldense": 15.0,
+        "Real Valladolid CF": 14.0,
+        "Draw": 1.02
+      },
+      "PMU (FR)": {
+        "CD Eldense": 9.0,
+        "Real Valladolid CF": 10.0,
+        "Draw": 1.02
+      },
+      "LeoVegas (SE)": {
+        "CD Eldense": 9.5,
+        "Real Valladolid CF": 12.0,
+        "Draw": 1.03
+      },
+      "Betsson": {
+        "CD Eldense": 17.0,
+        "Real Valladolid CF": 23.0,
+        "Draw": 1.03
+      },
+      "Betclic (FR)": {
+        "CD Eldense": 1.01,
+        "Real Valladolid CF": 100.0,
+        "Draw": 25.0
+      },
+      "Nordic Bet": {
+        "CD Eldense": 1.0,
+        "Real Valladolid CF": 46.0,
+        "Draw": 19.0
+      },
+      "Winamax (FR)": {
+        "CD Eldense": 26.0,
+        "Real Valladolid CF": 40.0,
+        "Draw": 1.03
+      },
+      "Winamax (DE)": {
+        "CD Eldense": 21.0,
+        "Real Valladolid CF": 32.0,
+        "Draw": 1.02
+      },
+      "Tipico": {
+        "CD Eldense": 12.0,
+        "Real Valladolid CF": 22.0,
+        "Draw": 1.02
+      },
+      "Pinnacle": {
+        "CD Eldense": 5.21,
+        "Real Valladolid CF": 7.94,
+        "Draw": 1.32
+      },
+      "Coolbet": {
+        "CD Eldense": 20.0,
+        "Real Valladolid CF": 28.0,
+        "Draw": 1.01
       },
       "Betfair": {
-        "Alavés": 250.0,
-        "Celta Vigo": 1.02,
-        "Draw": 36.0
+        "CD Eldense": 21.0,
+        "Real Valladolid CF": 24.0,
+        "Draw": 1.04
+      }
+    },
+    "1051298b4aca6f07113309bff598a5c1:h2h": {
+      "Nordic Bet": {
+        "Málaga": 34.0,
+        "Real Sociedad": 1.0,
+        "Draw": 29.0
       },
-      "Matchbook": {
-        "Alavés": 240.0,
-        "Celta Vigo": 1.02,
-        "Draw": 38.0
+      "Betclic (FR)": {
+        "Málaga": 100.0,
+        "Real Sociedad": 1.0,
+        "Draw": 75.0
+      },
+      "Betsson": {
+        "Málaga": 34.0,
+        "Real Sociedad": 1.0,
+        "Draw": 29.0
+      }
+    },
+    "47fbe9bebfe6fc6d7071a257461f5186:h2h": {
+      "Winamax (DE)": {
+        "AE Kifisia FC": 4.6,
+        "Aris Thessaloniki": 3.55,
+        "Draw": 1.64
+      },
+      "888sport": {
+        "AE Kifisia FC": 4.75,
+        "Aris Thessaloniki": 3.6,
+        "Draw": 1.61
+      },
+      "Nordic Bet": {
+        "AE Kifisia FC": 4.69,
+        "Aris Thessaloniki": 3.56,
+        "Draw": 1.69
+      },
+      "Betsson": {
+        "AE Kifisia FC": 4.7,
+        "Aris Thessaloniki": 3.7,
+        "Draw": 1.68
+      },
+      "Winamax (FR)": {
+        "AE Kifisia FC": 4.5,
+        "Aris Thessaloniki": 3.5,
+        "Draw": 1.6
+      },
+      "Betclic (FR)": {
+        "AE Kifisia FC": 4.55,
+        "Aris Thessaloniki": 3.08,
+        "Draw": 1.65
+      },
+      "Pinnacle": {
+        "AE Kifisia FC": 4.79,
+        "Aris Thessaloniki": 3.64,
+        "Draw": 1.71
+      },
+      "PMU (FR)": {
+        "AE Kifisia FC": 3.75,
+        "Aris Thessaloniki": 3.6,
+        "Draw": 1.51
+      },
+      "Unibet (NL)": {
+        "AE Kifisia FC": 4.0,
+        "Aris Thessaloniki": 3.9,
+        "Draw": 1.66
+      },
+      "Unibet (SE)": {
+        "AE Kifisia FC": 4.0,
+        "Aris Thessaloniki": 3.9,
+        "Draw": 1.66
+      },
+      "LeoVegas (SE)": {
+        "AE Kifisia FC": 3.8,
+        "Aris Thessaloniki": 3.7,
+        "Draw": 1.55
+      },
+      "Tipico": {
+        "AE Kifisia FC": 5.2,
+        "Aris Thessaloniki": 3.2,
+        "Draw": 1.65
+      },
+      "Coolbet": {
+        "AE Kifisia FC": 5.0,
+        "Aris Thessaloniki": 3.6,
+        "Draw": 1.67
+      },
+      "Betfair": {
+        "AE Kifisia FC": 5.3,
+        "Aris Thessaloniki": 3.95,
+        "Draw": 1.72
       }
     }
   },
@@ -8319,30 +8319,417 @@
       "confidence": 668,
       "alert_type": "value",
       "alerted_at": "2026-10-18T15:47:41.920362+00:00"
+    },
+    {
+      "state_key": "280311305282b3288f5d8f19a722058b:h2h",
+      "event_id": "280311305282b3288f5d8f19a722058b",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Real Valladolid CF",
+      "away_team": "CD Eldense",
+      "commence_time": "2026-10-18T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "CD Eldense",
+      "odds_at_alert": 41.0,
+      "stake_pct": 5.0,
+      "confidence": 632,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T18:35:25.358367+00:00"
+    },
+    {
+      "state_key": "280311305282b3288f5d8f19a722058b:h2h",
+      "event_id": "280311305282b3288f5d8f19a722058b",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Real Valladolid CF",
+      "away_team": "CD Eldense",
+      "commence_time": "2026-10-18T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Real Valladolid CF",
+      "odds_at_alert": 36.0,
+      "stake_pct": 5.0,
+      "confidence": 322,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T18:35:25.698342+00:00"
+    },
+    {
+      "state_key": "280311305282b3288f5d8f19a722058b:h2h",
+      "event_id": "280311305282b3288f5d8f19a722058b",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Real Valladolid CF",
+      "away_team": "CD Eldense",
+      "commence_time": "2026-10-18T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "CD Eldense",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 168,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T18:35:26.015509+00:00"
+    },
+    {
+      "state_key": "280311305282b3288f5d8f19a722058b:h2h",
+      "event_id": "280311305282b3288f5d8f19a722058b",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Real Valladolid CF",
+      "away_team": "CD Eldense",
+      "commence_time": "2026-10-18T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Real Valladolid CF",
+      "odds_at_alert": 14.0,
+      "stake_pct": 5.0,
+      "confidence": 64,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T18:35:26.334032+00:00"
+    },
+    {
+      "state_key": "280311305282b3288f5d8f19a722058b:h2h",
+      "event_id": "280311305282b3288f5d8f19a722058b",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Real Valladolid CF",
+      "away_team": "CD Eldense",
+      "commence_time": "2026-10-18T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "CD Eldense",
+      "odds_at_alert": 9.0,
+      "stake_pct": 5.0,
+      "confidence": 61,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T18:35:26.654511+00:00"
+    },
+    {
+      "state_key": "280311305282b3288f5d8f19a722058b:h2h",
+      "event_id": "280311305282b3288f5d8f19a722058b",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Real Valladolid CF",
+      "away_team": "CD Eldense",
+      "commence_time": "2026-10-18T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Real Valladolid CF",
+      "odds_at_alert": 10.0,
+      "stake_pct": 5.0,
+      "confidence": 17,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T18:35:26.989075+00:00"
+    },
+    {
+      "state_key": "280311305282b3288f5d8f19a722058b:h2h",
+      "event_id": "280311305282b3288f5d8f19a722058b",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Real Valladolid CF",
+      "away_team": "CD Eldense",
+      "commence_time": "2026-10-18T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "CD Eldense",
+      "odds_at_alert": 9.5,
+      "stake_pct": 5.0,
+      "confidence": 70,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T18:35:27.333659+00:00"
+    },
+    {
+      "state_key": "280311305282b3288f5d8f19a722058b:h2h",
+      "event_id": "280311305282b3288f5d8f19a722058b",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Real Valladolid CF",
+      "away_team": "CD Eldense",
+      "commence_time": "2026-10-18T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Real Valladolid CF",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 41,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T18:35:27.679450+00:00"
+    },
+    {
+      "state_key": "280311305282b3288f5d8f19a722058b:h2h",
+      "event_id": "280311305282b3288f5d8f19a722058b",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Real Valladolid CF",
+      "away_team": "CD Eldense",
+      "commence_time": "2026-10-18T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "CD Eldense",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 203,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T18:35:28.032655+00:00"
+    },
+    {
+      "state_key": "280311305282b3288f5d8f19a722058b:h2h",
+      "event_id": "280311305282b3288f5d8f19a722058b",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Real Valladolid CF",
+      "away_team": "CD Eldense",
+      "commence_time": "2026-10-18T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Real Valladolid CF",
+      "odds_at_alert": 23.0,
+      "stake_pct": 5.0,
+      "confidence": 169,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T18:35:28.358584+00:00"
+    },
+    {
+      "state_key": "280311305282b3288f5d8f19a722058b:h2h",
+      "event_id": "280311305282b3288f5d8f19a722058b",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Real Valladolid CF",
+      "away_team": "CD Eldense",
+      "commence_time": "2026-10-18T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Real Valladolid CF",
+      "odds_at_alert": 100.0,
+      "stake_pct": 5.0,
+      "confidence": 1071,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T18:35:28.734617+00:00"
+    },
+    {
+      "state_key": "280311305282b3288f5d8f19a722058b:h2h",
+      "event_id": "280311305282b3288f5d8f19a722058b",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Real Valladolid CF",
+      "away_team": "CD Eldense",
+      "commence_time": "2026-10-18T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 25.0,
+      "stake_pct": 5.0,
+      "confidence": 1661,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T18:35:29.067239+00:00"
+    },
+    {
+      "state_key": "280311305282b3288f5d8f19a722058b:h2h",
+      "event_id": "280311305282b3288f5d8f19a722058b",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Real Valladolid CF",
+      "away_team": "CD Eldense",
+      "commence_time": "2026-10-18T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Real Valladolid CF",
+      "odds_at_alert": 46.0,
+      "stake_pct": 5.0,
+      "confidence": 439,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T18:35:29.485660+00:00"
+    },
+    {
+      "state_key": "280311305282b3288f5d8f19a722058b:h2h",
+      "event_id": "280311305282b3288f5d8f19a722058b",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Real Valladolid CF",
+      "away_team": "CD Eldense",
+      "commence_time": "2026-10-18T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 19.0,
+      "stake_pct": 5.0,
+      "confidence": 1238,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T18:35:29.823563+00:00"
+    },
+    {
+      "state_key": "280311305282b3288f5d8f19a722058b:h2h",
+      "event_id": "280311305282b3288f5d8f19a722058b",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Real Valladolid CF",
+      "away_team": "CD Eldense",
+      "commence_time": "2026-10-18T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "CD Eldense",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 364,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T18:35:30.201646+00:00"
+    },
+    {
+      "state_key": "280311305282b3288f5d8f19a722058b:h2h",
+      "event_id": "280311305282b3288f5d8f19a722058b",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Real Valladolid CF",
+      "away_team": "CD Eldense",
+      "commence_time": "2026-10-18T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Real Valladolid CF",
+      "odds_at_alert": 40.0,
+      "stake_pct": 5.0,
+      "confidence": 368,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T18:35:30.519595+00:00"
+    },
+    {
+      "state_key": "280311305282b3288f5d8f19a722058b:h2h",
+      "event_id": "280311305282b3288f5d8f19a722058b",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Real Valladolid CF",
+      "away_team": "CD Eldense",
+      "commence_time": "2026-10-18T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "CD Eldense",
+      "odds_at_alert": 21.0,
+      "stake_pct": 5.0,
+      "confidence": 275,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T18:35:30.836483+00:00"
+    },
+    {
+      "state_key": "280311305282b3288f5d8f19a722058b:h2h",
+      "event_id": "280311305282b3288f5d8f19a722058b",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Real Valladolid CF",
+      "away_team": "CD Eldense",
+      "commence_time": "2026-10-18T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Real Valladolid CF",
+      "odds_at_alert": 32.0,
+      "stake_pct": 5.0,
+      "confidence": 275,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T18:35:31.157645+00:00"
+    },
+    {
+      "state_key": "280311305282b3288f5d8f19a722058b:h2h",
+      "event_id": "280311305282b3288f5d8f19a722058b",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Real Valladolid CF",
+      "away_team": "CD Eldense",
+      "commence_time": "2026-10-18T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "CD Eldense",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 114,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T18:35:31.493304+00:00"
+    },
+    {
+      "state_key": "280311305282b3288f5d8f19a722058b:h2h",
+      "event_id": "280311305282b3288f5d8f19a722058b",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Real Valladolid CF",
+      "away_team": "CD Eldense",
+      "commence_time": "2026-10-18T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Real Valladolid CF",
+      "odds_at_alert": 22.0,
+      "stake_pct": 5.0,
+      "confidence": 158,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T18:35:31.813316+00:00"
+    },
+    {
+      "state_key": "280311305282b3288f5d8f19a722058b:h2h",
+      "event_id": "280311305282b3288f5d8f19a722058b",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Real Valladolid CF",
+      "away_team": "CD Eldense",
+      "commence_time": "2026-10-18T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "CD Eldense",
+      "odds_at_alert": 20.0,
+      "stake_pct": 5.0,
+      "confidence": 257,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T18:35:32.155744+00:00"
+    },
+    {
+      "state_key": "280311305282b3288f5d8f19a722058b:h2h",
+      "event_id": "280311305282b3288f5d8f19a722058b",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Real Valladolid CF",
+      "away_team": "CD Eldense",
+      "commence_time": "2026-10-18T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Real Valladolid CF",
+      "odds_at_alert": 28.0,
+      "stake_pct": 5.0,
+      "confidence": 228,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T18:35:32.471917+00:00"
+    },
+    {
+      "state_key": "280311305282b3288f5d8f19a722058b:h2h",
+      "event_id": "280311305282b3288f5d8f19a722058b",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Real Valladolid CF",
+      "away_team": "CD Eldense",
+      "commence_time": "2026-10-18T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "CD Eldense",
+      "odds_at_alert": 21.0,
+      "stake_pct": 5.0,
+      "confidence": 275,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T18:35:32.907876+00:00"
+    },
+    {
+      "state_key": "280311305282b3288f5d8f19a722058b:h2h",
+      "event_id": "280311305282b3288f5d8f19a722058b",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Real Valladolid CF",
+      "away_team": "CD Eldense",
+      "commence_time": "2026-10-18T16:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Real Valladolid CF",
+      "odds_at_alert": 24.0,
+      "stake_pct": 5.0,
+      "confidence": 181,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T18:35:33.238729+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "aabe899ecc4c19a1fafe5440151b62e4:h2h|Betclic (FR)|Alavés",
-    "aabe899ecc4c19a1fafe5440151b62e4:h2h|Betclic (FR)|Draw",
-    "aabe899ecc4c19a1fafe5440151b62e4:h2h|Betfair|Alavés",
-    "aabe899ecc4c19a1fafe5440151b62e4:h2h|Betfair|Draw",
-    "aabe899ecc4c19a1fafe5440151b62e4:h2h|Betsson|Alavés",
-    "aabe899ecc4c19a1fafe5440151b62e4:h2h|Betsson|Draw",
-    "aabe899ecc4c19a1fafe5440151b62e4:h2h|Coolbet|Alavés",
-    "aabe899ecc4c19a1fafe5440151b62e4:h2h|Coolbet|Draw",
-    "aabe899ecc4c19a1fafe5440151b62e4:h2h|Matchbook|Alavés",
-    "aabe899ecc4c19a1fafe5440151b62e4:h2h|Matchbook|Draw",
-    "aabe899ecc4c19a1fafe5440151b62e4:h2h|Nordic Bet|Alavés",
-    "aabe899ecc4c19a1fafe5440151b62e4:h2h|Nordic Bet|Draw",
-    "aabe899ecc4c19a1fafe5440151b62e4:h2h|Tipico|Draw",
-    "aabe899ecc4c19a1fafe5440151b62e4:h2h|Unibet (NL)|Alavés",
-    "aabe899ecc4c19a1fafe5440151b62e4:h2h|Unibet (NL)|Draw",
-    "aabe899ecc4c19a1fafe5440151b62e4:h2h|Unibet (SE)|Alavés",
-    "aabe899ecc4c19a1fafe5440151b62e4:h2h|Unibet (SE)|Draw",
-    "aabe899ecc4c19a1fafe5440151b62e4:h2h|Winamax (DE)|Alavés",
-    "aabe899ecc4c19a1fafe5440151b62e4:h2h|Winamax (DE)|Draw",
-    "aabe899ecc4c19a1fafe5440151b62e4:h2h|Winamax (FR)|Alavés",
-    "aabe899ecc4c19a1fafe5440151b62e4:h2h|Winamax (FR)|Draw"
+    "280311305282b3288f5d8f19a722058b:h2h|Betclic (FR)|Draw",
+    "280311305282b3288f5d8f19a722058b:h2h|Betclic (FR)|Real Valladolid CF",
+    "280311305282b3288f5d8f19a722058b:h2h|Betfair|CD Eldense",
+    "280311305282b3288f5d8f19a722058b:h2h|Betfair|Real Valladolid CF",
+    "280311305282b3288f5d8f19a722058b:h2h|Betsson|CD Eldense",
+    "280311305282b3288f5d8f19a722058b:h2h|Betsson|Real Valladolid CF",
+    "280311305282b3288f5d8f19a722058b:h2h|Coolbet|CD Eldense",
+    "280311305282b3288f5d8f19a722058b:h2h|Coolbet|Real Valladolid CF",
+    "280311305282b3288f5d8f19a722058b:h2h|LeoVegas (SE)|CD Eldense",
+    "280311305282b3288f5d8f19a722058b:h2h|LeoVegas (SE)|Real Valladolid CF",
+    "280311305282b3288f5d8f19a722058b:h2h|Nordic Bet|Draw",
+    "280311305282b3288f5d8f19a722058b:h2h|Nordic Bet|Real Valladolid CF",
+    "280311305282b3288f5d8f19a722058b:h2h|PMU (FR)|CD Eldense",
+    "280311305282b3288f5d8f19a722058b:h2h|PMU (FR)|Real Valladolid CF",
+    "280311305282b3288f5d8f19a722058b:h2h|Tipico|CD Eldense",
+    "280311305282b3288f5d8f19a722058b:h2h|Tipico|Real Valladolid CF",
+    "280311305282b3288f5d8f19a722058b:h2h|Unibet (NL)|CD Eldense",
+    "280311305282b3288f5d8f19a722058b:h2h|Unibet (NL)|Real Valladolid CF",
+    "280311305282b3288f5d8f19a722058b:h2h|Unibet (SE)|CD Eldense",
+    "280311305282b3288f5d8f19a722058b:h2h|Unibet (SE)|Real Valladolid CF",
+    "280311305282b3288f5d8f19a722058b:h2h|Winamax (DE)|CD Eldense",
+    "280311305282b3288f5d8f19a722058b:h2h|Winamax (DE)|Real Valladolid CF",
+    "280311305282b3288f5d8f19a722058b:h2h|Winamax (FR)|CD Eldense",
+    "280311305282b3288f5d8f19a722058b:h2h|Winamax (FR)|Real Valladolid CF"
   ]
 }
