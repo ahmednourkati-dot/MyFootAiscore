@@ -1,321 +1,176 @@
 {
   "snapshots": {
-    "d1e4b206ed6b847d891b59f206d58255:h2h": {
-      "Coolbet": {
-        "Shanghai Shenhua FC": 1.36,
-        "Wuhan Three Towns": 9.0,
-        "Draw": 4.5
+    "f0153980fbafeb84f5bcdb2780fbf8f2:h2h": {
+      "Nordic Bet": {
+        "Celtic": 1.0,
+        "Hearts": 26.0,
+        "Draw": 26.0
       },
       "Betsson": {
-        "Shanghai Shenhua FC": 1.34,
-        "Wuhan Three Towns": 8.6,
-        "Draw": 4.4
-      },
-      "Winamax (DE)": {
-        "Shanghai Shenhua FC": 1.32,
-        "Wuhan Three Towns": 8.5,
-        "Draw": 4.4
-      },
-      "Winamax (FR)": {
-        "Shanghai Shenhua FC": 1.33,
-        "Wuhan Three Towns": 8.0,
-        "Draw": 4.2
-      },
+        "Celtic": 1.0,
+        "Hearts": 26.0,
+        "Draw": 26.0
+      }
+    },
+    "14ad0630cf9b666642fab04814ff793f:h2h": {
       "Nordic Bet": {
-        "Shanghai Shenhua FC": 1.34,
-        "Wuhan Three Towns": 8.6,
-        "Draw": 4.4
+        "Olympiakos Piraeus": 1.0,
+        "Panetolikos Agrinio": 41.0,
+        "Draw": 19.0
       },
-      "Pinnacle": {
-        "Shanghai Shenhua FC": 1.39,
-        "Wuhan Three Towns": 8.82,
-        "Draw": 4.32
+      "Betsson": {
+        "Olympiakos Piraeus": 1.0,
+        "Panetolikos Agrinio": 41.0,
+        "Draw": 19.0
+      },
+      "Betclic (FR)": {
+        "Olympiakos Piraeus": 1.0,
+        "Panetolikos Agrinio": 100.0,
+        "Draw": 40.0
       },
       "888sport": {
-        "Shanghai Shenhua FC": 1.36,
-        "Wuhan Three Towns": 7.5,
-        "Draw": 4.2
-      },
-      "Marathon Bet": {
-        "Shanghai Shenhua FC": 1.31,
-        "Wuhan Three Towns": 8.5,
-        "Draw": 4.5
-      },
-      "Tipico": {
-        "Shanghai Shenhua FC": 1.27,
-        "Wuhan Three Towns": 8.5,
-        "Draw": 5.0
-      },
-      "Unibet (NL)": {
-        "Shanghai Shenhua FC": 1.27,
-        "Wuhan Three Towns": 9.0,
-        "Draw": 4.9
-      },
-      "LeoVegas (SE)": {
-        "Shanghai Shenhua FC": 1.19,
-        "Wuhan Three Towns": 9.0,
-        "Draw": 4.7
-      },
-      "Unibet (SE)": {
-        "Shanghai Shenhua FC": 1.27,
-        "Wuhan Three Towns": 9.0,
-        "Draw": 4.9
+        "Olympiakos Piraeus": 1.0,
+        "Panetolikos Agrinio": 151.0,
+        "Draw": 56.0
       },
       "Betfair": {
-        "Shanghai Shenhua FC": 1.43,
-        "Wuhan Three Towns": 9.4,
+        "Olympiakos Piraeus": 1.01,
+        "Panetolikos Agrinio": 80.0,
+        "Draw": 55.0
+      }
+    },
+    "f3b3f19156e3fc265edf016ffca37dd3:h2h": {
+      "Unibet (SE)": {
+        "Brondby IF": 41.0,
+        "OB Odense BK": 1.17,
+        "Draw": 5.3
+      },
+      "LeoVegas (SE)": {
+        "Brondby IF": 35.0,
+        "OB Odense BK": 1.13,
+        "Draw": 5.1
+      },
+      "PMU (FR)": {
+        "Brondby IF": 30.0,
+        "OB Odense BK": 1.07,
+        "Draw": 4.5
+      },
+      "Unibet (NL)": {
+        "Brondby IF": 36.0,
+        "OB Odense BK": 1.15,
+        "Draw": 5.2
+      },
+      "Betclic (FR)": {
+        "Brondby IF": 26.0,
+        "OB Odense BK": 1.13,
+        "Draw": 4.65
+      },
+      "Winamax (FR)": {
+        "Brondby IF": 46.0,
+        "OB Odense BK": 1.17,
         "Draw": 5.0
       },
-      "Matchbook": {
-        "Shanghai Shenhua FC": 1.43,
-        "Wuhan Three Towns": 9.4,
+      "Winamax (DE)": {
+        "Brondby IF": 42.0,
+        "OB Odense BK": 1.15,
+        "Draw": 5.2
+      },
+      "Betfair": {
+        "Brondby IF": 34.0,
+        "OB Odense BK": 1.22,
+        "Draw": 5.5
+      },
+      "Marathon Bet": {
+        "Brondby IF": 30.0,
+        "OB Odense BK": 1.15,
+        "Draw": 5.6
+      },
+      "Tipico": {
+        "Brondby IF": 40.0,
+        "OB Odense BK": 1.16,
+        "Draw": 4.5
+      },
+      "888sport": {
+        "Brondby IF": 36.0,
+        "OB Odense BK": 1.15,
+        "Draw": 5.5
+      },
+      "Betsson": {
+        "Brondby IF": 36.0,
+        "OB Odense BK": 1.16,
+        "Draw": 4.85
+      },
+      "Nordic Bet": {
+        "Brondby IF": 40.0,
+        "OB Odense BK": 1.14,
+        "Draw": 4.85
+      },
+      "Coolbet": {
+        "Brondby IF": 40.0,
+        "OB Odense BK": 1.18,
         "Draw": 5.0
       }
     },
-    "4568ee08a32d34347100042cc7868839:h2h": {
-      "Winamax (DE)": {
-        "FC Zwolle": 5.8,
-        "Go Ahead Eagles": 1.49,
-        "Draw": 3.9
-      },
-      "888sport": {
-        "FC Zwolle": 5.75,
-        "Go Ahead Eagles": 1.5,
-        "Draw": 3.7
+    "aabe899ecc4c19a1fafe5440151b62e4:h2h": {
+      "Pinnacle": {
+        "Alavés": 23.49,
+        "Celta Vigo": 1.26,
+        "Draw": 4.72
       },
       "Nordic Bet": {
-        "FC Zwolle": 6.3,
-        "Go Ahead Eagles": 1.47,
-        "Draw": 3.9
+        "Alavés": 65.0,
+        "Celta Vigo": 1.01,
+        "Draw": 17.0
       },
       "Coolbet": {
-        "FC Zwolle": 6.5,
-        "Go Ahead Eagles": 1.53,
-        "Draw": 4.33
-      },
-      "Winamax (FR)": {
-        "FC Zwolle": 5.5,
-        "Go Ahead Eagles": 1.47,
-        "Draw": 3.75
-      },
-      "Betclic (FR)": {
-        "FC Zwolle": 6.0,
-        "Go Ahead Eagles": 1.46,
-        "Draw": 3.8
-      },
-      "Betsson": {
-        "FC Zwolle": 6.3,
-        "Go Ahead Eagles": 1.47,
-        "Draw": 3.9
-      },
-      "LeoVegas (SE)": {
-        "FC Zwolle": 7.0,
-        "Go Ahead Eagles": 1.38,
-        "Draw": 3.8
-      },
-      "PMU (FR)": {
-        "FC Zwolle": 7.0,
-        "Go Ahead Eagles": 1.33,
-        "Draw": 3.7
-      },
-      "Unibet (SE)": {
-        "FC Zwolle": 7.5,
-        "Go Ahead Eagles": 1.43,
-        "Draw": 4.0
-      },
-      "Unibet (NL)": {
-        "FC Zwolle": 7.5,
-        "Go Ahead Eagles": 1.43,
-        "Draw": 4.0
-      },
-      "Marathon Bet": {
-        "FC Zwolle": 6.2,
-        "Go Ahead Eagles": 1.5,
-        "Draw": 4.0
-      },
-      "Betfair": {
-        "FC Zwolle": 7.2,
-        "Go Ahead Eagles": 1.61,
-        "Draw": 4.1
-      },
-      "Pinnacle": {
-        "FC Zwolle": 6.52,
-        "Go Ahead Eagles": 1.53,
-        "Draw": 3.93
+        "Alavés": 100.0,
+        "Celta Vigo": 1.02,
+        "Draw": 22.0
       },
       "Tipico": {
-        "FC Zwolle": 6.0,
-        "Go Ahead Eagles": 1.45,
-        "Draw": 4.3
-      },
-      "Matchbook": {
-        "FC Zwolle": 7.2,
-        "Go Ahead Eagles": 1.6,
-        "Draw": 4.1
-      }
-    },
-    "ad8f3a3e1a79f430845f456a96799c1b:h2h": {
-      "PMU (FR)": {
-        "Górnik Zabrze": 1.62,
-        "Piast Gliwice": 4.5,
-        "Draw": 2.7
-      },
-      "Unibet (SE)": {
-        "Górnik Zabrze": 1.78,
-        "Piast Gliwice": 4.9,
-        "Draw": 2.95
-      },
-      "Unibet (NL)": {
-        "Górnik Zabrze": 1.78,
-        "Piast Gliwice": 4.9,
-        "Draw": 2.95
-      },
-      "LeoVegas (SE)": {
-        "Górnik Zabrze": 1.64,
-        "Piast Gliwice": 4.9,
-        "Draw": 2.8
+        "Alavés": 20.0,
+        "Celta Vigo": 1.01,
+        "Draw": 22.0
       },
       "Betclic (FR)": {
-        "Górnik Zabrze": 1.59,
-        "Piast Gliwice": 5.1,
-        "Draw": 3.1
-      },
-      "Betsson": {
-        "Górnik Zabrze": 1.62,
-        "Piast Gliwice": 5.35,
-        "Draw": 3.15
-      },
-      "Nordic Bet": {
-        "Górnik Zabrze": 1.62,
-        "Piast Gliwice": 5.35,
-        "Draw": 3.15
-      },
-      "Coolbet": {
-        "Górnik Zabrze": 1.67,
-        "Piast Gliwice": 5.5,
-        "Draw": 3.4
+        "Alavés": 45.0,
+        "Celta Vigo": 1.0,
+        "Draw": 15.75
       },
       "Winamax (DE)": {
-        "Górnik Zabrze": 1.66,
-        "Piast Gliwice": 5.4,
-        "Draw": 3.15
+        "Alavés": 150.0,
+        "Celta Vigo": 1.01,
+        "Draw": 27.0
       },
       "Winamax (FR)": {
-        "Górnik Zabrze": 1.62,
-        "Piast Gliwice": 5.3,
-        "Draw": 3.05
-      },
-      "Pinnacle": {
-        "Górnik Zabrze": 1.64,
-        "Piast Gliwice": 6.6,
-        "Draw": 3.29
-      },
-      "888sport": {
-        "Górnik Zabrze": 1.73,
-        "Piast Gliwice": 5.0,
-        "Draw": 3.0
-      },
-      "Marathon Bet": {
-        "Górnik Zabrze": 1.56,
-        "Piast Gliwice": 6.1,
-        "Draw": 3.3
-      },
-      "Tipico": {
-        "Górnik Zabrze": 1.6,
-        "Piast Gliwice": 6.0,
-        "Draw": 3.2
-      },
-      "Betfair": {
-        "Górnik Zabrze": 1.73,
-        "Piast Gliwice": 6.8,
-        "Draw": 3.4
-      },
-      "Matchbook": {
-        "Górnik Zabrze": 1.73,
-        "Piast Gliwice": 6.6,
-        "Draw": 3.4
-      }
-    },
-    "6a74a22a3f836259b1799b2495719759:h2h": {
-      "Unibet (SE)": {
-        "Kasimpasa SK": 2.4,
-        "Samsunspor": 3.05,
-        "Draw": 2.75
-      },
-      "Nordic Bet": {
-        "Kasimpasa SK": 2.25,
-        "Samsunspor": 3.3,
-        "Draw": 2.88
+        "Alavés": 160.0,
+        "Celta Vigo": 1.02,
+        "Draw": 26.0
       },
       "Betsson": {
-        "Kasimpasa SK": 2.25,
-        "Samsunspor": 3.3,
-        "Draw": 2.92
+        "Alavés": 65.0,
+        "Celta Vigo": 1.01,
+        "Draw": 17.0
       },
-      "LeoVegas (SE)": {
-        "Kasimpasa SK": 2.25,
-        "Samsunspor": 2.88,
-        "Draw": 2.6
-      },
-      "PMU (FR)": {
-        "Kasimpasa SK": 2.28,
-        "Samsunspor": 2.9,
-        "Draw": 2.63
+      "Unibet (SE)": {
+        "Alavés": 131.0,
+        "Celta Vigo": 1.02,
+        "Draw": 21.0
       },
       "Unibet (NL)": {
-        "Kasimpasa SK": 2.4,
-        "Samsunspor": 3.05,
-        "Draw": 2.75
-      },
-      "Betclic (FR)": {
-        "Kasimpasa SK": 2.1,
-        "Samsunspor": 3.25,
-        "Draw": 2.8
-      },
-      "Coolbet": {
-        "Kasimpasa SK": 2.3,
-        "Samsunspor": 3.5,
-        "Draw": 3.14
-      },
-      "Winamax (FR)": {
-        "Kasimpasa SK": 1.29,
-        "Samsunspor": 8.5,
-        "Draw": 4.5
-      },
-      "Winamax (DE)": {
-        "Kasimpasa SK": 1.28,
-        "Samsunspor": 9.0,
-        "Draw": 4.8
-      },
-      "Pinnacle": {
-        "Kasimpasa SK": 2.35,
-        "Samsunspor": 3.57,
-        "Draw": 2.83
+        "Alavés": 131.0,
+        "Celta Vigo": 1.02,
+        "Draw": 21.0
       },
       "Betfair": {
-        "Kasimpasa SK": 2.34,
-        "Samsunspor": 4.0,
-        "Draw": 3.0
-      },
-      "888sport": {
-        "Kasimpasa SK": 2.2,
-        "Samsunspor": 3.5,
-        "Draw": 2.7
-      },
-      "Marathon Bet": {
-        "Kasimpasa SK": 2.24,
-        "Samsunspor": 3.54,
-        "Draw": 2.86
-      },
-      "Tipico": {
-        "Kasimpasa SK": 2.2,
-        "Samsunspor": 3.6,
-        "Draw": 2.8
+        "Alavés": 250.0,
+        "Celta Vigo": 1.02,
+        "Draw": 36.0
       },
       "Matchbook": {
-        "Kasimpasa SK": 2.34,
-        "Samsunspor": 4.1,
-        "Draw": 3.0
+        "Alavés": 240.0,
+        "Celta Vigo": 1.02,
+        "Draw": 38.0
       }
     }
   },
@@ -8128,22 +7983,366 @@
       "confidence": 8,
       "alert_type": "value",
       "alerted_at": "2026-10-18T10:56:32.182101+00:00"
+    },
+    {
+      "state_key": "aabe899ecc4c19a1fafe5440151b62e4:h2h",
+      "event_id": "aabe899ecc4c19a1fafe5440151b62e4",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Celta Vigo",
+      "away_team": "Alavés",
+      "commence_time": "2026-10-18T14:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Alavés",
+      "odds_at_alert": 65.0,
+      "stake_pct": 5.0,
+      "confidence": 164,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T15:47:30.929618+00:00"
+    },
+    {
+      "state_key": "aabe899ecc4c19a1fafe5440151b62e4:h2h",
+      "event_id": "aabe899ecc4c19a1fafe5440151b62e4",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Celta Vigo",
+      "away_team": "Alavés",
+      "commence_time": "2026-10-18T14:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 244,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T15:47:31.489755+00:00"
+    },
+    {
+      "state_key": "aabe899ecc4c19a1fafe5440151b62e4:h2h",
+      "event_id": "aabe899ecc4c19a1fafe5440151b62e4",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Celta Vigo",
+      "away_team": "Alavés",
+      "commence_time": "2026-10-18T14:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Alavés",
+      "odds_at_alert": 100.0,
+      "stake_pct": 5.0,
+      "confidence": 306,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T15:47:32.067294+00:00"
+    },
+    {
+      "state_key": "aabe899ecc4c19a1fafe5440151b62e4:h2h",
+      "event_id": "aabe899ecc4c19a1fafe5440151b62e4",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Celta Vigo",
+      "away_team": "Alavés",
+      "commence_time": "2026-10-18T14:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 22.0,
+      "stake_pct": 5.0,
+      "confidence": 345,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T15:47:32.633313+00:00"
+    },
+    {
+      "state_key": "aabe899ecc4c19a1fafe5440151b62e4:h2h",
+      "event_id": "aabe899ecc4c19a1fafe5440151b62e4",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Celta Vigo",
+      "away_team": "Alavés",
+      "commence_time": "2026-10-18T14:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 22.0,
+      "stake_pct": 5.0,
+      "confidence": 345,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T15:47:33.117219+00:00"
+    },
+    {
+      "state_key": "aabe899ecc4c19a1fafe5440151b62e4:h2h",
+      "event_id": "aabe899ecc4c19a1fafe5440151b62e4",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Celta Vigo",
+      "away_team": "Alavés",
+      "commence_time": "2026-10-18T14:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Alavés",
+      "odds_at_alert": 45.0,
+      "stake_pct": 5.0,
+      "confidence": 83,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T15:47:33.721043+00:00"
+    },
+    {
+      "state_key": "aabe899ecc4c19a1fafe5440151b62e4:h2h",
+      "event_id": "aabe899ecc4c19a1fafe5440151b62e4",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Celta Vigo",
+      "away_team": "Alavés",
+      "commence_time": "2026-10-18T14:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 15.75,
+      "stake_pct": 5.0,
+      "confidence": 218,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T15:47:34.250151+00:00"
+    },
+    {
+      "state_key": "aabe899ecc4c19a1fafe5440151b62e4:h2h",
+      "event_id": "aabe899ecc4c19a1fafe5440151b62e4",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Celta Vigo",
+      "away_team": "Alavés",
+      "commence_time": "2026-10-18T14:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Alavés",
+      "odds_at_alert": 150.0,
+      "stake_pct": 5.0,
+      "confidence": 509,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T15:47:34.751090+00:00"
+    },
+    {
+      "state_key": "aabe899ecc4c19a1fafe5440151b62e4:h2h",
+      "event_id": "aabe899ecc4c19a1fafe5440151b62e4",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Celta Vigo",
+      "away_team": "Alavés",
+      "commence_time": "2026-10-18T14:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 27.0,
+      "stake_pct": 5.0,
+      "confidence": 446,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T15:47:35.302671+00:00"
+    },
+    {
+      "state_key": "aabe899ecc4c19a1fafe5440151b62e4:h2h",
+      "event_id": "aabe899ecc4c19a1fafe5440151b62e4",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Celta Vigo",
+      "away_team": "Alavés",
+      "commence_time": "2026-10-18T14:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Alavés",
+      "odds_at_alert": 160.0,
+      "stake_pct": 5.0,
+      "confidence": 550,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T15:47:35.881944+00:00"
+    },
+    {
+      "state_key": "aabe899ecc4c19a1fafe5440151b62e4:h2h",
+      "event_id": "aabe899ecc4c19a1fafe5440151b62e4",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Celta Vigo",
+      "away_team": "Alavés",
+      "commence_time": "2026-10-18T14:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 426,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T15:47:36.423089+00:00"
+    },
+    {
+      "state_key": "aabe899ecc4c19a1fafe5440151b62e4:h2h",
+      "event_id": "aabe899ecc4c19a1fafe5440151b62e4",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Celta Vigo",
+      "away_team": "Alavés",
+      "commence_time": "2026-10-18T14:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Alavés",
+      "odds_at_alert": 65.0,
+      "stake_pct": 5.0,
+      "confidence": 164,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T15:47:36.902044+00:00"
+    },
+    {
+      "state_key": "aabe899ecc4c19a1fafe5440151b62e4:h2h",
+      "event_id": "aabe899ecc4c19a1fafe5440151b62e4",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Celta Vigo",
+      "away_team": "Alavés",
+      "commence_time": "2026-10-18T14:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 244,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T15:47:37.474736+00:00"
+    },
+    {
+      "state_key": "aabe899ecc4c19a1fafe5440151b62e4:h2h",
+      "event_id": "aabe899ecc4c19a1fafe5440151b62e4",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Celta Vigo",
+      "away_team": "Alavés",
+      "commence_time": "2026-10-18T14:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Alavés",
+      "odds_at_alert": 131.0,
+      "stake_pct": 5.0,
+      "confidence": 432,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T15:47:38.059526+00:00"
+    },
+    {
+      "state_key": "aabe899ecc4c19a1fafe5440151b62e4:h2h",
+      "event_id": "aabe899ecc4c19a1fafe5440151b62e4",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Celta Vigo",
+      "away_team": "Alavés",
+      "commence_time": "2026-10-18T14:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 21.0,
+      "stake_pct": 5.0,
+      "confidence": 325,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T15:47:38.618378+00:00"
+    },
+    {
+      "state_key": "aabe899ecc4c19a1fafe5440151b62e4:h2h",
+      "event_id": "aabe899ecc4c19a1fafe5440151b62e4",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Celta Vigo",
+      "away_team": "Alavés",
+      "commence_time": "2026-10-18T14:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Alavés",
+      "odds_at_alert": 131.0,
+      "stake_pct": 5.0,
+      "confidence": 432,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T15:47:39.292934+00:00"
+    },
+    {
+      "state_key": "aabe899ecc4c19a1fafe5440151b62e4:h2h",
+      "event_id": "aabe899ecc4c19a1fafe5440151b62e4",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Celta Vigo",
+      "away_team": "Alavés",
+      "commence_time": "2026-10-18T14:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 21.0,
+      "stake_pct": 5.0,
+      "confidence": 325,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T15:47:39.772090+00:00"
+    },
+    {
+      "state_key": "aabe899ecc4c19a1fafe5440151b62e4:h2h",
+      "event_id": "aabe899ecc4c19a1fafe5440151b62e4",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Celta Vigo",
+      "away_team": "Alavés",
+      "commence_time": "2026-10-18T14:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Alavés",
+      "odds_at_alert": 250.0,
+      "stake_pct": 5.0,
+      "confidence": 915,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T15:47:40.352771+00:00"
+    },
+    {
+      "state_key": "aabe899ecc4c19a1fafe5440151b62e4:h2h",
+      "event_id": "aabe899ecc4c19a1fafe5440151b62e4",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Celta Vigo",
+      "away_team": "Alavés",
+      "commence_time": "2026-10-18T14:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 36.0,
+      "stake_pct": 5.0,
+      "confidence": 628,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T15:47:40.862016+00:00"
+    },
+    {
+      "state_key": "aabe899ecc4c19a1fafe5440151b62e4:h2h",
+      "event_id": "aabe899ecc4c19a1fafe5440151b62e4",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Celta Vigo",
+      "away_team": "Alavés",
+      "commence_time": "2026-10-18T14:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Alavés",
+      "odds_at_alert": 240.0,
+      "stake_pct": 5.0,
+      "confidence": 875,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T15:47:41.359810+00:00"
+    },
+    {
+      "state_key": "aabe899ecc4c19a1fafe5440151b62e4:h2h",
+      "event_id": "aabe899ecc4c19a1fafe5440151b62e4",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Celta Vigo",
+      "away_team": "Alavés",
+      "commence_time": "2026-10-18T14:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 38.0,
+      "stake_pct": 5.0,
+      "confidence": 668,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T15:47:41.920362+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "4568ee08a32d34347100042cc7868839:h2h|Unibet (NL)|FC Zwolle",
-    "4568ee08a32d34347100042cc7868839:h2h|Unibet (SE)|FC Zwolle",
-    "6a74a22a3f836259b1799b2495719759:h2h|Betfair|Samsunspor",
-    "6a74a22a3f836259b1799b2495719759:h2h|Matchbook|Samsunspor",
-    "6a74a22a3f836259b1799b2495719759:h2h|Winamax (DE)|Draw",
-    "6a74a22a3f836259b1799b2495719759:h2h|Winamax (DE)|Samsunspor",
-    "6a74a22a3f836259b1799b2495719759:h2h|Winamax (FR)|Draw",
-    "6a74a22a3f836259b1799b2495719759:h2h|Winamax (FR)|Samsunspor",
-    "d1e4b206ed6b847d891b59f206d58255:h2h|Betfair|Draw",
-    "d1e4b206ed6b847d891b59f206d58255:h2h|Matchbook|Draw",
-    "d1e4b206ed6b847d891b59f206d58255:h2h|Tipico|Draw",
-    "d1e4b206ed6b847d891b59f206d58255:h2h|Unibet (NL)|Draw",
-    "d1e4b206ed6b847d891b59f206d58255:h2h|Unibet (SE)|Draw"
+    "aabe899ecc4c19a1fafe5440151b62e4:h2h|Betclic (FR)|Alavés",
+    "aabe899ecc4c19a1fafe5440151b62e4:h2h|Betclic (FR)|Draw",
+    "aabe899ecc4c19a1fafe5440151b62e4:h2h|Betfair|Alavés",
+    "aabe899ecc4c19a1fafe5440151b62e4:h2h|Betfair|Draw",
+    "aabe899ecc4c19a1fafe5440151b62e4:h2h|Betsson|Alavés",
+    "aabe899ecc4c19a1fafe5440151b62e4:h2h|Betsson|Draw",
+    "aabe899ecc4c19a1fafe5440151b62e4:h2h|Coolbet|Alavés",
+    "aabe899ecc4c19a1fafe5440151b62e4:h2h|Coolbet|Draw",
+    "aabe899ecc4c19a1fafe5440151b62e4:h2h|Matchbook|Alavés",
+    "aabe899ecc4c19a1fafe5440151b62e4:h2h|Matchbook|Draw",
+    "aabe899ecc4c19a1fafe5440151b62e4:h2h|Nordic Bet|Alavés",
+    "aabe899ecc4c19a1fafe5440151b62e4:h2h|Nordic Bet|Draw",
+    "aabe899ecc4c19a1fafe5440151b62e4:h2h|Tipico|Draw",
+    "aabe899ecc4c19a1fafe5440151b62e4:h2h|Unibet (NL)|Alavés",
+    "aabe899ecc4c19a1fafe5440151b62e4:h2h|Unibet (NL)|Draw",
+    "aabe899ecc4c19a1fafe5440151b62e4:h2h|Unibet (SE)|Alavés",
+    "aabe899ecc4c19a1fafe5440151b62e4:h2h|Unibet (SE)|Draw",
+    "aabe899ecc4c19a1fafe5440151b62e4:h2h|Winamax (DE)|Alavés",
+    "aabe899ecc4c19a1fafe5440151b62e4:h2h|Winamax (DE)|Draw",
+    "aabe899ecc4c19a1fafe5440151b62e4:h2h|Winamax (FR)|Alavés",
+    "aabe899ecc4c19a1fafe5440151b62e4:h2h|Winamax (FR)|Draw"
   ]
 }
