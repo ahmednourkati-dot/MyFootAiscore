@@ -1,256 +1,351 @@
 {
   "snapshots": {
-    "0e1fb1dc3fd0c2731f58346a269ca782:h2h": {
-      "LeoVegas (SE)": {
-        "Atletico Paranaense": 18.0,
-        "Palmeiras": 1.09,
-        "Draw": 6.5
+    "93c303e0d0b14f9b8d598a6e8862f171:h2h": {
+      "Unibet (SE)": {
+        "CF Montreal": 8.5,
+        "Seattle Sounders FC": 3.1,
+        "Draw": 1.56
       },
       "PMU (FR)": {
-        "Atletico Paranaense": 17.0,
-        "Palmeiras": 1.06,
-        "Draw": 6.5
-      },
-      "Unibet (SE)": {
-        "Atletico Paranaense": 19.0,
-        "Palmeiras": 1.14,
-        "Draw": 7.0
+        "CF Montreal": 8.0,
+        "Seattle Sounders FC": 2.88,
+        "Draw": 1.44
       },
       "Unibet (NL)": {
-        "Atletico Paranaense": 19.0,
-        "Palmeiras": 1.1,
-        "Draw": 6.5
+        "CF Montreal": 9.0,
+        "Seattle Sounders FC": 3.25,
+        "Draw": 1.51
+      },
+      "LeoVegas (SE)": {
+        "CF Montreal": 8.0,
+        "Seattle Sounders FC": 3.0,
+        "Draw": 1.51
+      },
+      "MyBookie.ag": {
+        "CF Montreal": 6.75,
+        "Seattle Sounders FC": 2.35,
+        "Draw": 1.7
       },
       "Betclic (FR)": {
-        "Atletico Paranaense": 13.0,
-        "Palmeiras": 1.15,
-        "Draw": 5.25
-      },
-      "Winamax (FR)": {
-        "Atletico Paranaense": 16.0,
-        "Palmeiras": 1.18,
-        "Draw": 5.7
-      },
-      "Winamax (DE)": {
-        "Atletico Paranaense": 17.0,
-        "Palmeiras": 1.16,
-        "Draw": 6.0
-      },
-      "888sport": {
-        "Atletico Paranaense": 13.0,
-        "Palmeiras": 1.2,
-        "Draw": 5.5
+        "CF Montreal": 8.75,
+        "Seattle Sounders FC": 2.62,
+        "Draw": 1.56
       },
       "Coolbet": {
-        "Atletico Paranaense": 16.0,
-        "Palmeiras": 1.18,
-        "Draw": 6.0
+        "CF Montreal": 10.0,
+        "Seattle Sounders FC": 3.4,
+        "Draw": 1.5
       },
-      "Betsson": {
-        "Atletico Paranaense": 16.0,
-        "Palmeiras": 1.16,
-        "Draw": 5.8
+      "Winamax (FR)": {
+        "CF Montreal": 8.0,
+        "Seattle Sounders FC": 2.9,
+        "Draw": 1.5
       },
-      "Nordic Bet": {
-        "Atletico Paranaense": 16.0,
-        "Palmeiras": 1.16,
-        "Draw": 5.8
+      "Winamax (DE)": {
+        "CF Montreal": 8.5,
+        "Seattle Sounders FC": 3.0,
+        "Draw": 1.52
       },
       "Marathon Bet": {
-        "Atletico Paranaense": 15.0,
-        "Palmeiras": 1.17,
-        "Draw": 6.3
+        "CF Montreal": 9.2,
+        "Seattle Sounders FC": 3.1,
+        "Draw": 1.55
+      },
+      "888sport": {
+        "CF Montreal": 10.0,
+        "Seattle Sounders FC": 3.1,
+        "Draw": 1.44
+      },
+      "Betfair": {
+        "CF Montreal": 10.5,
+        "Seattle Sounders FC": 3.05,
+        "Draw": 1.7
+      },
+      "Pinnacle": {
+        "CF Montreal": 8.2,
+        "Seattle Sounders FC": 2.58,
+        "Draw": 1.83
+      },
+      "Nordic Bet": {
+        "CF Montreal": 9.6,
+        "Seattle Sounders FC": 3.2,
+        "Draw": 1.47
+      },
+      "Betsson": {
+        "CF Montreal": 9.1,
+        "Seattle Sounders FC": 3.05,
+        "Draw": 1.52
       },
       "Tipico": {
-        "Atletico Paranaense": 11.0,
-        "Palmeiras": 1.16,
-        "Draw": 6.5
+        "CF Montreal": 11.0,
+        "Seattle Sounders FC": 2.7,
+        "Draw": 1.55
       },
       "Matchbook": {
-        "Atletico Paranaense": 20.0,
-        "Palmeiras": 1.2,
-        "Draw": 7.2
-      },
-      "Pinnacle": {
-        "Atletico Paranaense": 13.31,
-        "Palmeiras": 1.26,
-        "Draw": 5.42
-      },
-      "Betfair": {
-        "Atletico Paranaense": 18.5,
-        "Palmeiras": 1.25,
-        "Draw": 6.4
+        "CF Montreal": 12.0,
+        "Seattle Sounders FC": 3.55,
+        "Draw": 1.56
       }
     },
-    "77da9d57f8682e024e36434435d1567c:h2h": {
-      "Winamax (FR)": {
-        "Atlético Tucuman": 2.9,
-        "Rosario Central": 2.7,
-        "Draw": 2.3
-      },
-      "Winamax (DE)": {
-        "Atlético Tucuman": 3.0,
-        "Rosario Central": 2.8,
-        "Draw": 2.4
-      },
-      "Betclic (FR)": {
-        "Atlético Tucuman": 2.9,
-        "Rosario Central": 2.7,
-        "Draw": 2.35
-      },
-      "Marathon Bet": {
-        "Atlético Tucuman": 3.12,
-        "Rosario Central": 2.97,
-        "Draw": 2.38
-      },
-      "Betfair": {
-        "Atlético Tucuman": 3.5,
-        "Rosario Central": 3.15,
-        "Draw": 2.46
-      },
-      "Nordic Bet": {
-        "Atlético Tucuman": 3.05,
-        "Rosario Central": 2.85,
-        "Draw": 2.4
-      },
-      "Betsson": {
-        "Atlético Tucuman": 3.05,
-        "Rosario Central": 2.85,
-        "Draw": 2.4
-      },
-      "LeoVegas (SE)": {
-        "Atlético Tucuman": 3.25,
-        "Rosario Central": 2.5,
-        "Draw": 2.25
-      },
-      "Unibet (SE)": {
-        "Atlético Tucuman": 3.45,
-        "Rosario Central": 2.7,
-        "Draw": 2.38
-      },
-      "Pinnacle": {
-        "Atlético Tucuman": 3.32,
-        "Rosario Central": 3.12,
-        "Draw": 2.29
-      }
-    },
-    "c1f0a59e7193dc4e3cfba20f0c6087b3:h2h": {
-      "Winamax (FR)": {
-        "Gimnasia Mendoza": 4.7,
-        "Velez Sarsfield BA": 1.96,
-        "Draw": 2.35
-      },
-      "Winamax (DE)": {
-        "Gimnasia Mendoza": 5.0,
-        "Velez Sarsfield BA": 2.0,
-        "Draw": 2.45
-      },
-      "Betclic (FR)": {
-        "Gimnasia Mendoza": 4.8,
-        "Velez Sarsfield BA": 1.98,
-        "Draw": 2.37
-      },
-      "Betfair": {
-        "Gimnasia Mendoza": 5.8,
-        "Velez Sarsfield BA": 2.1,
-        "Draw": 2.74
-      },
-      "Marathon Bet": {
-        "Gimnasia Mendoza": 5.0,
-        "Velez Sarsfield BA": 2.03,
-        "Draw": 2.6
-      },
-      "Betsson": {
-        "Gimnasia Mendoza": 5.35,
-        "Velez Sarsfield BA": 2.05,
-        "Draw": 2.4
-      },
-      "Nordic Bet": {
-        "Gimnasia Mendoza": 5.35,
-        "Velez Sarsfield BA": 2.05,
-        "Draw": 2.4
-      },
-      "Unibet (SE)": {
-        "Gimnasia Mendoza": 5.1,
-        "Velez Sarsfield BA": 2.02,
-        "Draw": 2.55
-      },
-      "LeoVegas (SE)": {
-        "Gimnasia Mendoza": 4.8,
-        "Velez Sarsfield BA": 1.89,
-        "Draw": 2.4
-      },
-      "Pinnacle": {
-        "Gimnasia Mendoza": 5.35,
-        "Velez Sarsfield BA": 2.06,
-        "Draw": 2.59
-      }
-    },
-    "c6a315628d73f0f9ac146b3be0c78c54:h2h": {
-      "Unibet (SE)": {
-        "Querétaro": 21.0,
-        "Santos Laguna": 1.09,
-        "Draw": 9.5
-      },
-      "LeoVegas (SE)": {
-        "Querétaro": 21.0,
-        "Santos Laguna": 1.03,
-        "Draw": 9.0
+    "7c066a49be3077c15db3730910b35933:h2h": {
+      "PMU (FR)": {
+        "LA Galaxy": 3.3,
+        "San Diego FC": 3.55,
+        "Draw": 1.71
       },
       "Unibet (NL)": {
-        "Querétaro": 21.0,
-        "Santos Laguna": 1.08,
-        "Draw": 10.0
+        "LA Galaxy": 3.7,
+        "San Diego FC": 3.8,
+        "Draw": 1.83
+      },
+      "Unibet (SE)": {
+        "LA Galaxy": 3.6,
+        "San Diego FC": 3.85,
+        "Draw": 1.83
+      },
+      "LeoVegas (SE)": {
+        "LA Galaxy": 3.45,
+        "San Diego FC": 3.75,
+        "Draw": 1.79
       },
       "Betclic (FR)": {
-        "Querétaro": 16.0,
-        "Santos Laguna": 1.05,
-        "Draw": 7.5
+        "LA Galaxy": 3.37,
+        "San Diego FC": 3.53,
+        "Draw": 1.77
       },
-      "Pinnacle": {
-        "Querétaro": 24.23,
-        "Santos Laguna": 1.12,
-        "Draw": 8.82
-      },
-      "Marathon Bet": {
-        "Querétaro": 19.5,
-        "Santos Laguna": 1.07,
-        "Draw": 8.7
-      },
-      "888sport": {
-        "Querétaro": 19.0,
-        "Santos Laguna": 1.1,
-        "Draw": 7.5
-      },
-      "Betsson": {
-        "Querétaro": 21.0,
-        "Santos Laguna": 1.07,
-        "Draw": 8.6
-      },
-      "Nordic Bet": {
-        "Querétaro": 21.0,
-        "Santos Laguna": 1.07,
-        "Draw": 8.6
+      "MyBookie.ag": {
+        "LA Galaxy": 3.4,
+        "San Diego FC": 3.35,
+        "Draw": 1.95
       },
       "Coolbet": {
-        "Querétaro": 30.0,
-        "Santos Laguna": 1.1,
-        "Draw": 10.0
+        "LA Galaxy": 4.0,
+        "San Diego FC": 4.0,
+        "Draw": 1.73
       },
-      "Tipico": {
-        "Querétaro": 30.0,
-        "Santos Laguna": 1.03,
-        "Draw": 10.0
+      "Winamax (FR)": {
+        "LA Galaxy": 3.9,
+        "San Diego FC": 3.9,
+        "Draw": 1.6
+      },
+      "Winamax (DE)": {
+        "LA Galaxy": 4.0,
+        "San Diego FC": 4.1,
+        "Draw": 1.64
+      },
+      "Marathon Bet": {
+        "LA Galaxy": 4.15,
+        "San Diego FC": 4.15,
+        "Draw": 1.69
+      },
+      "888sport": {
+        "LA Galaxy": 3.8,
+        "San Diego FC": 3.7,
+        "Draw": 1.75
       },
       "Betfair": {
-        "Querétaro": 29.0,
-        "Santos Laguna": 1.14,
-        "Draw": 10.0
+        "LA Galaxy": 3.75,
+        "San Diego FC": 4.3,
+        "Draw": 1.94
+      },
+      "Betsson": {
+        "LA Galaxy": 3.65,
+        "San Diego FC": 3.65,
+        "Draw": 1.8
+      },
+      "Nordic Bet": {
+        "LA Galaxy": 3.65,
+        "San Diego FC": 3.9,
+        "Draw": 1.75
+      },
+      "Pinnacle": {
+        "LA Galaxy": 3.41,
+        "San Diego FC": 3.58,
+        "Draw": 2.06
+      },
+      "Tipico": {
+        "LA Galaxy": 4.0,
+        "San Diego FC": 4.3,
+        "Draw": 1.6
       },
       "Matchbook": {
-        "Querétaro": 30.0,
-        "Santos Laguna": 1.14,
-        "Draw": 9.0
+        "LA Galaxy": 4.5,
+        "San Diego FC": 4.4,
+        "Draw": 1.79
+      }
+    },
+    "35a1545b7aff33ec55254043939b0207:h2h": {
+      "PMU (FR)": {
+        "Nashville SC": 3.65,
+        "San Jose Earthquakes": 5.1,
+        "Draw": 1.43
+      },
+      "Unibet (SE)": {
+        "Nashville SC": 3.95,
+        "San Jose Earthquakes": 5.6,
+        "Draw": 1.54
+      },
+      "Unibet (NL)": {
+        "Nashville SC": 4.0,
+        "San Jose Earthquakes": 5.8,
+        "Draw": 1.51
+      },
+      "LeoVegas (SE)": {
+        "Nashville SC": 3.8,
+        "San Jose Earthquakes": 5.3,
+        "Draw": 1.5
+      },
+      "MyBookie.ag": {
+        "Nashville SC": 2.9,
+        "San Jose Earthquakes": 4.95,
+        "Draw": 1.7
+      },
+      "Betclic (FR)": {
+        "Nashville SC": 3.12,
+        "San Jose Earthquakes": 6.1,
+        "Draw": 1.52
+      },
+      "Coolbet": {
+        "Nashville SC": 3.75,
+        "San Jose Earthquakes": 6.5,
+        "Draw": 1.53
+      },
+      "Winamax (FR)": {
+        "Nashville SC": 3.45,
+        "San Jose Earthquakes": 6.0,
+        "Draw": 1.49
+      },
+      "Winamax (DE)": {
+        "Nashville SC": 3.55,
+        "San Jose Earthquakes": 6.25,
+        "Draw": 1.5
+      },
+      "Marathon Bet": {
+        "Nashville SC": 3.62,
+        "San Jose Earthquakes": 7.2,
+        "Draw": 1.51
+      },
+      "888sport": {
+        "Nashville SC": 3.75,
+        "San Jose Earthquakes": 6.0,
+        "Draw": 1.5
+      },
+      "Betfair": {
+        "Nashville SC": 4.0,
+        "San Jose Earthquakes": 7.0,
+        "Draw": 1.62
+      },
+      "Pinnacle": {
+        "Nashville SC": 3.38,
+        "San Jose Earthquakes": 4.64,
+        "Draw": 1.8
+      },
+      "Betsson": {
+        "Nashville SC": 3.4,
+        "San Jose Earthquakes": 5.8,
+        "Draw": 1.58
+      },
+      "Nordic Bet": {
+        "Nashville SC": 3.5,
+        "San Jose Earthquakes": 5.8,
+        "Draw": 1.55
+      },
+      "Tipico": {
+        "Nashville SC": 3.3,
+        "San Jose Earthquakes": 7.5,
+        "Draw": 1.5
+      },
+      "Matchbook": {
+        "Nashville SC": 3.95,
+        "San Jose Earthquakes": 8.4,
+        "Draw": 1.58
+      }
+    },
+    "4f73f9a292842d2143b6012a5278ef4c:h2h": {
+      "Unibet (SE)": {
+        "Colorado Rapids": 4.9,
+        "Portland Timbers": 4.1,
+        "Draw": 1.57
+      },
+      "Unibet (NL)": {
+        "Colorado Rapids": 4.9,
+        "Portland Timbers": 4.1,
+        "Draw": 1.57
+      },
+      "PMU (FR)": {
+        "Colorado Rapids": 4.6,
+        "Portland Timbers": 3.8,
+        "Draw": 1.45
+      },
+      "LeoVegas (SE)": {
+        "Colorado Rapids": 4.75,
+        "Portland Timbers": 3.95,
+        "Draw": 1.53
+      },
+      "Betclic (FR)": {
+        "Colorado Rapids": 4.95,
+        "Portland Timbers": 3.23,
+        "Draw": 1.57
+      },
+      "MyBookie.ag": {
+        "Colorado Rapids": 4.8,
+        "Portland Timbers": 3.05,
+        "Draw": 1.75
+      },
+      "Coolbet": {
+        "Colorado Rapids": 5.5,
+        "Portland Timbers": 3.75,
+        "Draw": 1.62
+      },
+      "Winamax (FR)": {
+        "Colorado Rapids": 5.2,
+        "Portland Timbers": 3.3,
+        "Draw": 1.56
+      },
+      "Winamax (DE)": {
+        "Colorado Rapids": 5.5,
+        "Portland Timbers": 3.4,
+        "Draw": 1.58
+      },
+      "Marathon Bet": {
+        "Colorado Rapids": 6.15,
+        "Portland Timbers": 3.5,
+        "Draw": 1.59
+      },
+      "888sport": {
+        "Colorado Rapids": 6.0,
+        "Portland Timbers": 3.5,
+        "Draw": 1.53
+      },
+      "Betfair": {
+        "Colorado Rapids": 6.4,
+        "Portland Timbers": 3.85,
+        "Draw": 1.68
+      },
+      "Nordic Bet": {
+        "Colorado Rapids": 5.35,
+        "Portland Timbers": 3.5,
+        "Draw": 1.6
+      },
+      "Betsson": {
+        "Colorado Rapids": 5.35,
+        "Portland Timbers": 3.4,
+        "Draw": 1.62
+      },
+      "Pinnacle": {
+        "Colorado Rapids": 4.93,
+        "Portland Timbers": 3.11,
+        "Draw": 1.88
+      },
+      "Tipico": {
+        "Colorado Rapids": 6.0,
+        "Portland Timbers": 3.4,
+        "Draw": 1.55
+      },
+      "Matchbook": {
+        "Colorado Rapids": 6.6,
+        "Portland Timbers": 4.1,
+        "Draw": 1.62
       }
     }
   },
@@ -6735,39 +6830,1199 @@
       "confidence": 18,
       "alert_type": "value",
       "alerted_at": "2026-10-17T23:59:21.858535+00:00"
+    },
+    {
+      "state_key": "93c303e0d0b14f9b8d598a6e8862f171:h2h",
+      "event_id": "93c303e0d0b14f9b8d598a6e8862f171",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Seattle Sounders FC",
+      "away_team": "CF Montreal",
+      "commence_time": "2026-10-18T02:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Seattle Sounders FC",
+      "odds_at_alert": 3.1,
+      "stake_pct": 3.0,
+      "confidence": 14,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T04:21:16.535571+00:00"
+    },
+    {
+      "state_key": "93c303e0d0b14f9b8d598a6e8862f171:h2h",
+      "event_id": "93c303e0d0b14f9b8d598a6e8862f171",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Seattle Sounders FC",
+      "away_team": "CF Montreal",
+      "commence_time": "2026-10-18T02:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Seattle Sounders FC",
+      "odds_at_alert": 2.88,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T04:21:16.881322+00:00"
+    },
+    {
+      "state_key": "93c303e0d0b14f9b8d598a6e8862f171:h2h",
+      "event_id": "93c303e0d0b14f9b8d598a6e8862f171",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Seattle Sounders FC",
+      "away_team": "CF Montreal",
+      "commence_time": "2026-10-18T02:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Seattle Sounders FC",
+      "odds_at_alert": 3.25,
+      "stake_pct": 5.0,
+      "confidence": 19,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T04:21:17.197329+00:00"
+    },
+    {
+      "state_key": "93c303e0d0b14f9b8d598a6e8862f171:h2h",
+      "event_id": "93c303e0d0b14f9b8d598a6e8862f171",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Seattle Sounders FC",
+      "away_team": "CF Montreal",
+      "commence_time": "2026-10-18T02:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Seattle Sounders FC",
+      "odds_at_alert": 3.0,
+      "stake_pct": 3.0,
+      "confidence": 10,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T04:21:17.512174+00:00"
+    },
+    {
+      "state_key": "93c303e0d0b14f9b8d598a6e8862f171:h2h",
+      "event_id": "93c303e0d0b14f9b8d598a6e8862f171",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Seattle Sounders FC",
+      "away_team": "CF Montreal",
+      "commence_time": "2026-10-18T02:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "CF Montreal",
+      "odds_at_alert": 10.0,
+      "stake_pct": 5.0,
+      "confidence": 15,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T04:21:17.838148+00:00"
+    },
+    {
+      "state_key": "93c303e0d0b14f9b8d598a6e8862f171:h2h",
+      "event_id": "93c303e0d0b14f9b8d598a6e8862f171",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Seattle Sounders FC",
+      "away_team": "CF Montreal",
+      "commence_time": "2026-10-18T02:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Seattle Sounders FC",
+      "odds_at_alert": 3.4,
+      "stake_pct": 5.0,
+      "confidence": 25,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T04:21:18.162239+00:00"
+    },
+    {
+      "state_key": "93c303e0d0b14f9b8d598a6e8862f171:h2h",
+      "event_id": "93c303e0d0b14f9b8d598a6e8862f171",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Seattle Sounders FC",
+      "away_team": "CF Montreal",
+      "commence_time": "2026-10-18T02:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Seattle Sounders FC",
+      "odds_at_alert": 2.9,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T04:21:18.519749+00:00"
+    },
+    {
+      "state_key": "93c303e0d0b14f9b8d598a6e8862f171:h2h",
+      "event_id": "93c303e0d0b14f9b8d598a6e8862f171",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Seattle Sounders FC",
+      "away_team": "CF Montreal",
+      "commence_time": "2026-10-18T02:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Seattle Sounders FC",
+      "odds_at_alert": 3.0,
+      "stake_pct": 3.0,
+      "confidence": 10,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T04:21:18.851421+00:00"
+    },
+    {
+      "state_key": "93c303e0d0b14f9b8d598a6e8862f171:h2h",
+      "event_id": "93c303e0d0b14f9b8d598a6e8862f171",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Seattle Sounders FC",
+      "away_team": "CF Montreal",
+      "commence_time": "2026-10-18T02:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "CF Montreal",
+      "odds_at_alert": 9.2,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T04:21:19.179313+00:00"
+    },
+    {
+      "state_key": "93c303e0d0b14f9b8d598a6e8862f171:h2h",
+      "event_id": "93c303e0d0b14f9b8d598a6e8862f171",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Seattle Sounders FC",
+      "away_team": "CF Montreal",
+      "commence_time": "2026-10-18T02:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Seattle Sounders FC",
+      "odds_at_alert": 3.1,
+      "stake_pct": 3.0,
+      "confidence": 14,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T04:21:19.525883+00:00"
+    },
+    {
+      "state_key": "93c303e0d0b14f9b8d598a6e8862f171:h2h",
+      "event_id": "93c303e0d0b14f9b8d598a6e8862f171",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Seattle Sounders FC",
+      "away_team": "CF Montreal",
+      "commence_time": "2026-10-18T02:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "CF Montreal",
+      "odds_at_alert": 10.0,
+      "stake_pct": 5.0,
+      "confidence": 15,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T04:21:19.858899+00:00"
+    },
+    {
+      "state_key": "93c303e0d0b14f9b8d598a6e8862f171:h2h",
+      "event_id": "93c303e0d0b14f9b8d598a6e8862f171",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Seattle Sounders FC",
+      "away_team": "CF Montreal",
+      "commence_time": "2026-10-18T02:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Seattle Sounders FC",
+      "odds_at_alert": 3.1,
+      "stake_pct": 3.0,
+      "confidence": 14,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T04:21:20.224479+00:00"
+    },
+    {
+      "state_key": "93c303e0d0b14f9b8d598a6e8862f171:h2h",
+      "event_id": "93c303e0d0b14f9b8d598a6e8862f171",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Seattle Sounders FC",
+      "away_team": "CF Montreal",
+      "commence_time": "2026-10-18T02:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "CF Montreal",
+      "odds_at_alert": 10.5,
+      "stake_pct": 5.0,
+      "confidence": 21,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T04:21:20.789854+00:00"
+    },
+    {
+      "state_key": "93c303e0d0b14f9b8d598a6e8862f171:h2h",
+      "event_id": "93c303e0d0b14f9b8d598a6e8862f171",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Seattle Sounders FC",
+      "away_team": "CF Montreal",
+      "commence_time": "2026-10-18T02:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Seattle Sounders FC",
+      "odds_at_alert": 3.05,
+      "stake_pct": 3.0,
+      "confidence": 12,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T04:21:21.184328+00:00"
+    },
+    {
+      "state_key": "93c303e0d0b14f9b8d598a6e8862f171:h2h",
+      "event_id": "93c303e0d0b14f9b8d598a6e8862f171",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Seattle Sounders FC",
+      "away_team": "CF Montreal",
+      "commence_time": "2026-10-18T02:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "CF Montreal",
+      "odds_at_alert": 9.6,
+      "stake_pct": 3.0,
+      "confidence": 11,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T04:21:21.556097+00:00"
+    },
+    {
+      "state_key": "93c303e0d0b14f9b8d598a6e8862f171:h2h",
+      "event_id": "93c303e0d0b14f9b8d598a6e8862f171",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Seattle Sounders FC",
+      "away_team": "CF Montreal",
+      "commence_time": "2026-10-18T02:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Seattle Sounders FC",
+      "odds_at_alert": 3.2,
+      "stake_pct": 5.0,
+      "confidence": 17,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T04:21:21.865432+00:00"
+    },
+    {
+      "state_key": "93c303e0d0b14f9b8d598a6e8862f171:h2h",
+      "event_id": "93c303e0d0b14f9b8d598a6e8862f171",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Seattle Sounders FC",
+      "away_team": "CF Montreal",
+      "commence_time": "2026-10-18T02:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "CF Montreal",
+      "odds_at_alert": 9.1,
+      "stake_pct": 2.0,
+      "confidence": 5,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T04:21:22.178753+00:00"
+    },
+    {
+      "state_key": "93c303e0d0b14f9b8d598a6e8862f171:h2h",
+      "event_id": "93c303e0d0b14f9b8d598a6e8862f171",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Seattle Sounders FC",
+      "away_team": "CF Montreal",
+      "commence_time": "2026-10-18T02:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Seattle Sounders FC",
+      "odds_at_alert": 3.05,
+      "stake_pct": 3.0,
+      "confidence": 12,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T04:21:22.486287+00:00"
+    },
+    {
+      "state_key": "93c303e0d0b14f9b8d598a6e8862f171:h2h",
+      "event_id": "93c303e0d0b14f9b8d598a6e8862f171",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Seattle Sounders FC",
+      "away_team": "CF Montreal",
+      "commence_time": "2026-10-18T02:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "CF Montreal",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 27,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T04:21:22.791312+00:00"
+    },
+    {
+      "state_key": "93c303e0d0b14f9b8d598a6e8862f171:h2h",
+      "event_id": "93c303e0d0b14f9b8d598a6e8862f171",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Seattle Sounders FC",
+      "away_team": "CF Montreal",
+      "commence_time": "2026-10-18T02:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "CF Montreal",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 39,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T04:21:23.102200+00:00"
+    },
+    {
+      "state_key": "93c303e0d0b14f9b8d598a6e8862f171:h2h",
+      "event_id": "93c303e0d0b14f9b8d598a6e8862f171",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Seattle Sounders FC",
+      "away_team": "CF Montreal",
+      "commence_time": "2026-10-18T02:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Seattle Sounders FC",
+      "odds_at_alert": 3.55,
+      "stake_pct": 5.0,
+      "confidence": 30,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T04:21:23.415647+00:00"
+    },
+    {
+      "state_key": "7c066a49be3077c15db3730910b35933:h2h",
+      "event_id": "7c066a49be3077c15db3730910b35933",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "LA Galaxy",
+      "away_team": "San Diego FC",
+      "commence_time": "2026-10-18T02:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "LA Galaxy",
+      "odds_at_alert": 4.0,
+      "stake_pct": 3.0,
+      "confidence": 11,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T04:21:23.728033+00:00"
+    },
+    {
+      "state_key": "7c066a49be3077c15db3730910b35933:h2h",
+      "event_id": "7c066a49be3077c15db3730910b35933",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "LA Galaxy",
+      "away_team": "San Diego FC",
+      "commence_time": "2026-10-18T02:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "San Diego FC",
+      "odds_at_alert": 4.0,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T04:21:24.032177+00:00"
+    },
+    {
+      "state_key": "7c066a49be3077c15db3730910b35933:h2h",
+      "event_id": "7c066a49be3077c15db3730910b35933",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "LA Galaxy",
+      "away_team": "San Diego FC",
+      "commence_time": "2026-10-18T02:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "LA Galaxy",
+      "odds_at_alert": 3.9,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T04:21:24.341713+00:00"
+    },
+    {
+      "state_key": "7c066a49be3077c15db3730910b35933:h2h",
+      "event_id": "7c066a49be3077c15db3730910b35933",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "LA Galaxy",
+      "away_team": "San Diego FC",
+      "commence_time": "2026-10-18T02:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "LA Galaxy",
+      "odds_at_alert": 4.0,
+      "stake_pct": 3.0,
+      "confidence": 11,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T04:21:24.674300+00:00"
+    },
+    {
+      "state_key": "7c066a49be3077c15db3730910b35933:h2h",
+      "event_id": "7c066a49be3077c15db3730910b35933",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "LA Galaxy",
+      "away_team": "San Diego FC",
+      "commence_time": "2026-10-18T02:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "San Diego FC",
+      "odds_at_alert": 4.1,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T04:21:24.989618+00:00"
+    },
+    {
+      "state_key": "7c066a49be3077c15db3730910b35933:h2h",
+      "event_id": "7c066a49be3077c15db3730910b35933",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "LA Galaxy",
+      "away_team": "San Diego FC",
+      "commence_time": "2026-10-18T02:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "LA Galaxy",
+      "odds_at_alert": 4.15,
+      "stake_pct": 5.0,
+      "confidence": 15,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T04:21:25.299795+00:00"
+    },
+    {
+      "state_key": "7c066a49be3077c15db3730910b35933:h2h",
+      "event_id": "7c066a49be3077c15db3730910b35933",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "LA Galaxy",
+      "away_team": "San Diego FC",
+      "commence_time": "2026-10-18T02:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "San Diego FC",
+      "odds_at_alert": 4.15,
+      "stake_pct": 2.0,
+      "confidence": 10,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T04:21:25.609992+00:00"
+    },
+    {
+      "state_key": "7c066a49be3077c15db3730910b35933:h2h",
+      "event_id": "7c066a49be3077c15db3730910b35933",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "LA Galaxy",
+      "away_team": "San Diego FC",
+      "commence_time": "2026-10-18T02:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "LA Galaxy",
+      "odds_at_alert": 3.8,
+      "stake_pct": 2.0,
+      "confidence": 5,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T04:21:25.914824+00:00"
+    },
+    {
+      "state_key": "7c066a49be3077c15db3730910b35933:h2h",
+      "event_id": "7c066a49be3077c15db3730910b35933",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "LA Galaxy",
+      "away_team": "San Diego FC",
+      "commence_time": "2026-10-18T02:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "San Diego FC",
+      "odds_at_alert": 4.3,
+      "stake_pct": 3.0,
+      "confidence": 14,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T04:21:26.225226+00:00"
+    },
+    {
+      "state_key": "7c066a49be3077c15db3730910b35933:h2h",
+      "event_id": "7c066a49be3077c15db3730910b35933",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "LA Galaxy",
+      "away_team": "San Diego FC",
+      "commence_time": "2026-10-18T02:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "LA Galaxy",
+      "odds_at_alert": 4.0,
+      "stake_pct": 3.0,
+      "confidence": 11,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T04:21:26.538442+00:00"
+    },
+    {
+      "state_key": "7c066a49be3077c15db3730910b35933:h2h",
+      "event_id": "7c066a49be3077c15db3730910b35933",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "LA Galaxy",
+      "away_team": "San Diego FC",
+      "commence_time": "2026-10-18T02:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "San Diego FC",
+      "odds_at_alert": 4.3,
+      "stake_pct": 3.0,
+      "confidence": 14,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T04:21:26.848178+00:00"
+    },
+    {
+      "state_key": "7c066a49be3077c15db3730910b35933:h2h",
+      "event_id": "7c066a49be3077c15db3730910b35933",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "LA Galaxy",
+      "away_team": "San Diego FC",
+      "commence_time": "2026-10-18T02:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "LA Galaxy",
+      "odds_at_alert": 4.5,
+      "stake_pct": 5.0,
+      "confidence": 25,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T04:21:27.178404+00:00"
+    },
+    {
+      "state_key": "7c066a49be3077c15db3730910b35933:h2h",
+      "event_id": "7c066a49be3077c15db3730910b35933",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "LA Galaxy",
+      "away_team": "San Diego FC",
+      "commence_time": "2026-10-18T02:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "San Diego FC",
+      "odds_at_alert": 4.4,
+      "stake_pct": 5.0,
+      "confidence": 16,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T04:21:27.509125+00:00"
+    },
+    {
+      "state_key": "35a1545b7aff33ec55254043939b0207:h2h",
+      "event_id": "35a1545b7aff33ec55254043939b0207",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "San Jose Earthquakes",
+      "away_team": "Nashville SC",
+      "commence_time": "2026-10-18T02:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Nashville SC",
+      "odds_at_alert": 3.95,
+      "stake_pct": 2.0,
+      "confidence": 10,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T04:21:27.822256+00:00"
+    },
+    {
+      "state_key": "35a1545b7aff33ec55254043939b0207:h2h",
+      "event_id": "35a1545b7aff33ec55254043939b0207",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "San Jose Earthquakes",
+      "away_team": "Nashville SC",
+      "commence_time": "2026-10-18T02:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "San Jose Earthquakes",
+      "odds_at_alert": 5.6,
+      "stake_pct": 3.0,
+      "confidence": 13,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T04:21:28.150628+00:00"
+    },
+    {
+      "state_key": "35a1545b7aff33ec55254043939b0207:h2h",
+      "event_id": "35a1545b7aff33ec55254043939b0207",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "San Jose Earthquakes",
+      "away_team": "Nashville SC",
+      "commence_time": "2026-10-18T02:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Nashville SC",
+      "odds_at_alert": 4.0,
+      "stake_pct": 3.0,
+      "confidence": 11,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T04:21:28.461154+00:00"
+    },
+    {
+      "state_key": "35a1545b7aff33ec55254043939b0207:h2h",
+      "event_id": "35a1545b7aff33ec55254043939b0207",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "San Jose Earthquakes",
+      "away_team": "Nashville SC",
+      "commence_time": "2026-10-18T02:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "San Jose Earthquakes",
+      "odds_at_alert": 5.8,
+      "stake_pct": 5.0,
+      "confidence": 17,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T04:21:28.769789+00:00"
+    },
+    {
+      "state_key": "35a1545b7aff33ec55254043939b0207:h2h",
+      "event_id": "35a1545b7aff33ec55254043939b0207",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "San Jose Earthquakes",
+      "away_team": "Nashville SC",
+      "commence_time": "2026-10-18T02:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Nashville SC",
+      "odds_at_alert": 3.8,
+      "stake_pct": 2.0,
+      "confidence": 5,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T04:21:29.079695+00:00"
+    },
+    {
+      "state_key": "35a1545b7aff33ec55254043939b0207:h2h",
+      "event_id": "35a1545b7aff33ec55254043939b0207",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "San Jose Earthquakes",
+      "away_team": "Nashville SC",
+      "commence_time": "2026-10-18T02:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "San Jose Earthquakes",
+      "odds_at_alert": 5.3,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T04:21:29.388956+00:00"
+    },
+    {
+      "state_key": "35a1545b7aff33ec55254043939b0207:h2h",
+      "event_id": "35a1545b7aff33ec55254043939b0207",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "San Jose Earthquakes",
+      "away_team": "Nashville SC",
+      "commence_time": "2026-10-18T02:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "San Jose Earthquakes",
+      "odds_at_alert": 6.1,
+      "stake_pct": 5.0,
+      "confidence": 23,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T04:21:29.703293+00:00"
+    },
+    {
+      "state_key": "35a1545b7aff33ec55254043939b0207:h2h",
+      "event_id": "35a1545b7aff33ec55254043939b0207",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "San Jose Earthquakes",
+      "away_team": "Nashville SC",
+      "commence_time": "2026-10-18T02:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "San Jose Earthquakes",
+      "odds_at_alert": 6.5,
+      "stake_pct": 5.0,
+      "confidence": 31,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T04:21:30.003590+00:00"
+    },
+    {
+      "state_key": "35a1545b7aff33ec55254043939b0207:h2h",
+      "event_id": "35a1545b7aff33ec55254043939b0207",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "San Jose Earthquakes",
+      "away_team": "Nashville SC",
+      "commence_time": "2026-10-18T02:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "San Jose Earthquakes",
+      "odds_at_alert": 6.0,
+      "stake_pct": 5.0,
+      "confidence": 21,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T04:21:30.311440+00:00"
+    },
+    {
+      "state_key": "35a1545b7aff33ec55254043939b0207:h2h",
+      "event_id": "35a1545b7aff33ec55254043939b0207",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "San Jose Earthquakes",
+      "away_team": "Nashville SC",
+      "commence_time": "2026-10-18T02:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "San Jose Earthquakes",
+      "odds_at_alert": 6.25,
+      "stake_pct": 5.0,
+      "confidence": 26,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T04:21:30.624163+00:00"
+    },
+    {
+      "state_key": "35a1545b7aff33ec55254043939b0207:h2h",
+      "event_id": "35a1545b7aff33ec55254043939b0207",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "San Jose Earthquakes",
+      "away_team": "Nashville SC",
+      "commence_time": "2026-10-18T02:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "San Jose Earthquakes",
+      "odds_at_alert": 7.2,
+      "stake_pct": 5.0,
+      "confidence": 45,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T04:21:30.934334+00:00"
+    },
+    {
+      "state_key": "35a1545b7aff33ec55254043939b0207:h2h",
+      "event_id": "35a1545b7aff33ec55254043939b0207",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "San Jose Earthquakes",
+      "away_team": "Nashville SC",
+      "commence_time": "2026-10-18T02:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "San Jose Earthquakes",
+      "odds_at_alert": 6.0,
+      "stake_pct": 5.0,
+      "confidence": 21,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T04:21:31.240609+00:00"
+    },
+    {
+      "state_key": "35a1545b7aff33ec55254043939b0207:h2h",
+      "event_id": "35a1545b7aff33ec55254043939b0207",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "San Jose Earthquakes",
+      "away_team": "Nashville SC",
+      "commence_time": "2026-10-18T02:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Nashville SC",
+      "odds_at_alert": 4.0,
+      "stake_pct": 3.0,
+      "confidence": 11,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T04:21:31.560839+00:00"
+    },
+    {
+      "state_key": "35a1545b7aff33ec55254043939b0207:h2h",
+      "event_id": "35a1545b7aff33ec55254043939b0207",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "San Jose Earthquakes",
+      "away_team": "Nashville SC",
+      "commence_time": "2026-10-18T02:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "San Jose Earthquakes",
+      "odds_at_alert": 7.0,
+      "stake_pct": 5.0,
+      "confidence": 41,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T04:21:31.868552+00:00"
+    },
+    {
+      "state_key": "35a1545b7aff33ec55254043939b0207:h2h",
+      "event_id": "35a1545b7aff33ec55254043939b0207",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "San Jose Earthquakes",
+      "away_team": "Nashville SC",
+      "commence_time": "2026-10-18T02:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "San Jose Earthquakes",
+      "odds_at_alert": 5.8,
+      "stake_pct": 5.0,
+      "confidence": 17,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T04:21:32.176639+00:00"
+    },
+    {
+      "state_key": "35a1545b7aff33ec55254043939b0207:h2h",
+      "event_id": "35a1545b7aff33ec55254043939b0207",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "San Jose Earthquakes",
+      "away_team": "Nashville SC",
+      "commence_time": "2026-10-18T02:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "San Jose Earthquakes",
+      "odds_at_alert": 5.8,
+      "stake_pct": 5.0,
+      "confidence": 17,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T04:21:32.480200+00:00"
+    },
+    {
+      "state_key": "35a1545b7aff33ec55254043939b0207:h2h",
+      "event_id": "35a1545b7aff33ec55254043939b0207",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "San Jose Earthquakes",
+      "away_team": "Nashville SC",
+      "commence_time": "2026-10-18T02:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "San Jose Earthquakes",
+      "odds_at_alert": 7.5,
+      "stake_pct": 5.0,
+      "confidence": 51,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T04:21:32.797855+00:00"
+    },
+    {
+      "state_key": "35a1545b7aff33ec55254043939b0207:h2h",
+      "event_id": "35a1545b7aff33ec55254043939b0207",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "San Jose Earthquakes",
+      "away_team": "Nashville SC",
+      "commence_time": "2026-10-18T02:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Nashville SC",
+      "odds_at_alert": 3.95,
+      "stake_pct": 2.0,
+      "confidence": 10,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T04:21:33.104972+00:00"
+    },
+    {
+      "state_key": "35a1545b7aff33ec55254043939b0207:h2h",
+      "event_id": "35a1545b7aff33ec55254043939b0207",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "San Jose Earthquakes",
+      "away_team": "Nashville SC",
+      "commence_time": "2026-10-18T02:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "San Jose Earthquakes",
+      "odds_at_alert": 8.4,
+      "stake_pct": 5.0,
+      "confidence": 70,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T04:21:33.422389+00:00"
+    },
+    {
+      "state_key": "4f73f9a292842d2143b6012a5278ef4c:h2h",
+      "event_id": "4f73f9a292842d2143b6012a5278ef4c",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Portland Timbers",
+      "away_team": "Colorado Rapids",
+      "commence_time": "2026-10-18T02:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Portland Timbers",
+      "odds_at_alert": 4.1,
+      "stake_pct": 5.0,
+      "confidence": 25,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T04:21:33.725804+00:00"
+    },
+    {
+      "state_key": "4f73f9a292842d2143b6012a5278ef4c:h2h",
+      "event_id": "4f73f9a292842d2143b6012a5278ef4c",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Portland Timbers",
+      "away_team": "Colorado Rapids",
+      "commence_time": "2026-10-18T02:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Portland Timbers",
+      "odds_at_alert": 4.1,
+      "stake_pct": 5.0,
+      "confidence": 25,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T04:21:34.049058+00:00"
+    },
+    {
+      "state_key": "4f73f9a292842d2143b6012a5278ef4c:h2h",
+      "event_id": "4f73f9a292842d2143b6012a5278ef4c",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Portland Timbers",
+      "away_team": "Colorado Rapids",
+      "commence_time": "2026-10-18T02:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Portland Timbers",
+      "odds_at_alert": 3.8,
+      "stake_pct": 5.0,
+      "confidence": 16,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T04:21:34.370268+00:00"
+    },
+    {
+      "state_key": "4f73f9a292842d2143b6012a5278ef4c:h2h",
+      "event_id": "4f73f9a292842d2143b6012a5278ef4c",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Portland Timbers",
+      "away_team": "Colorado Rapids",
+      "commence_time": "2026-10-18T02:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Portland Timbers",
+      "odds_at_alert": 3.95,
+      "stake_pct": 5.0,
+      "confidence": 20,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T04:21:34.681116+00:00"
+    },
+    {
+      "state_key": "4f73f9a292842d2143b6012a5278ef4c:h2h",
+      "event_id": "4f73f9a292842d2143b6012a5278ef4c",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Portland Timbers",
+      "away_team": "Colorado Rapids",
+      "commence_time": "2026-10-18T02:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Colorado Rapids",
+      "odds_at_alert": 5.5,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T04:21:35.002240+00:00"
+    },
+    {
+      "state_key": "4f73f9a292842d2143b6012a5278ef4c:h2h",
+      "event_id": "4f73f9a292842d2143b6012a5278ef4c",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Portland Timbers",
+      "away_team": "Colorado Rapids",
+      "commence_time": "2026-10-18T02:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Portland Timbers",
+      "odds_at_alert": 3.75,
+      "stake_pct": 3.0,
+      "confidence": 14,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T04:21:35.313281+00:00"
+    },
+    {
+      "state_key": "4f73f9a292842d2143b6012a5278ef4c:h2h",
+      "event_id": "4f73f9a292842d2143b6012a5278ef4c",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Portland Timbers",
+      "away_team": "Colorado Rapids",
+      "commence_time": "2026-10-18T02:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Colorado Rapids",
+      "odds_at_alert": 5.5,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T04:21:35.638249+00:00"
+    },
+    {
+      "state_key": "4f73f9a292842d2143b6012a5278ef4c:h2h",
+      "event_id": "4f73f9a292842d2143b6012a5278ef4c",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Portland Timbers",
+      "away_team": "Colorado Rapids",
+      "commence_time": "2026-10-18T02:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Colorado Rapids",
+      "odds_at_alert": 6.15,
+      "stake_pct": 5.0,
+      "confidence": 18,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T04:21:35.951431+00:00"
+    },
+    {
+      "state_key": "4f73f9a292842d2143b6012a5278ef4c:h2h",
+      "event_id": "4f73f9a292842d2143b6012a5278ef4c",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Portland Timbers",
+      "away_team": "Colorado Rapids",
+      "commence_time": "2026-10-18T02:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Portland Timbers",
+      "odds_at_alert": 3.5,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T04:21:36.261553+00:00"
+    },
+    {
+      "state_key": "4f73f9a292842d2143b6012a5278ef4c:h2h",
+      "event_id": "4f73f9a292842d2143b6012a5278ef4c",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Portland Timbers",
+      "away_team": "Colorado Rapids",
+      "commence_time": "2026-10-18T02:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Colorado Rapids",
+      "odds_at_alert": 6.0,
+      "stake_pct": 5.0,
+      "confidence": 15,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T04:21:36.586093+00:00"
+    },
+    {
+      "state_key": "4f73f9a292842d2143b6012a5278ef4c:h2h",
+      "event_id": "4f73f9a292842d2143b6012a5278ef4c",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Portland Timbers",
+      "away_team": "Colorado Rapids",
+      "commence_time": "2026-10-18T02:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Portland Timbers",
+      "odds_at_alert": 3.5,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T04:21:36.900276+00:00"
+    },
+    {
+      "state_key": "4f73f9a292842d2143b6012a5278ef4c:h2h",
+      "event_id": "4f73f9a292842d2143b6012a5278ef4c",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Portland Timbers",
+      "away_team": "Colorado Rapids",
+      "commence_time": "2026-10-18T02:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Colorado Rapids",
+      "odds_at_alert": 6.4,
+      "stake_pct": 5.0,
+      "confidence": 23,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T04:21:37.206441+00:00"
+    },
+    {
+      "state_key": "4f73f9a292842d2143b6012a5278ef4c:h2h",
+      "event_id": "4f73f9a292842d2143b6012a5278ef4c",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Portland Timbers",
+      "away_team": "Colorado Rapids",
+      "commence_time": "2026-10-18T02:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Portland Timbers",
+      "odds_at_alert": 3.85,
+      "stake_pct": 5.0,
+      "confidence": 17,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T04:21:37.518881+00:00"
+    },
+    {
+      "state_key": "4f73f9a292842d2143b6012a5278ef4c:h2h",
+      "event_id": "4f73f9a292842d2143b6012a5278ef4c",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Portland Timbers",
+      "away_team": "Colorado Rapids",
+      "commence_time": "2026-10-18T02:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Portland Timbers",
+      "odds_at_alert": 3.5,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T04:21:37.835773+00:00"
+    },
+    {
+      "state_key": "4f73f9a292842d2143b6012a5278ef4c:h2h",
+      "event_id": "4f73f9a292842d2143b6012a5278ef4c",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Portland Timbers",
+      "away_team": "Colorado Rapids",
+      "commence_time": "2026-10-18T02:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Colorado Rapids",
+      "odds_at_alert": 6.0,
+      "stake_pct": 5.0,
+      "confidence": 15,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T04:21:38.150585+00:00"
+    },
+    {
+      "state_key": "4f73f9a292842d2143b6012a5278ef4c:h2h",
+      "event_id": "4f73f9a292842d2143b6012a5278ef4c",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Portland Timbers",
+      "away_team": "Colorado Rapids",
+      "commence_time": "2026-10-18T02:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Colorado Rapids",
+      "odds_at_alert": 6.6,
+      "stake_pct": 5.0,
+      "confidence": 27,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T04:21:38.451335+00:00"
+    },
+    {
+      "state_key": "4f73f9a292842d2143b6012a5278ef4c:h2h",
+      "event_id": "4f73f9a292842d2143b6012a5278ef4c",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Portland Timbers",
+      "away_team": "Colorado Rapids",
+      "commence_time": "2026-10-18T02:40:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Portland Timbers",
+      "odds_at_alert": 4.1,
+      "stake_pct": 5.0,
+      "confidence": 25,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T04:21:38.761582+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "0e1fb1dc3fd0c2731f58346a269ca782:h2h|Betfair|Atletico Paranaense",
-    "0e1fb1dc3fd0c2731f58346a269ca782:h2h|Betfair|Draw",
-    "0e1fb1dc3fd0c2731f58346a269ca782:h2h|Betsson|Atletico Paranaense",
-    "0e1fb1dc3fd0c2731f58346a269ca782:h2h|Coolbet|Atletico Paranaense",
-    "0e1fb1dc3fd0c2731f58346a269ca782:h2h|Coolbet|Draw",
-    "0e1fb1dc3fd0c2731f58346a269ca782:h2h|LeoVegas (SE)|Atletico Paranaense",
-    "0e1fb1dc3fd0c2731f58346a269ca782:h2h|LeoVegas (SE)|Draw",
-    "0e1fb1dc3fd0c2731f58346a269ca782:h2h|Marathon Bet|Atletico Paranaense",
-    "0e1fb1dc3fd0c2731f58346a269ca782:h2h|Marathon Bet|Draw",
-    "0e1fb1dc3fd0c2731f58346a269ca782:h2h|Matchbook|Atletico Paranaense",
-    "0e1fb1dc3fd0c2731f58346a269ca782:h2h|Matchbook|Draw",
-    "0e1fb1dc3fd0c2731f58346a269ca782:h2h|Nordic Bet|Atletico Paranaense",
-    "0e1fb1dc3fd0c2731f58346a269ca782:h2h|PMU (FR)|Atletico Paranaense",
-    "0e1fb1dc3fd0c2731f58346a269ca782:h2h|PMU (FR)|Draw",
-    "0e1fb1dc3fd0c2731f58346a269ca782:h2h|Tipico|Draw",
-    "0e1fb1dc3fd0c2731f58346a269ca782:h2h|Unibet (NL)|Atletico Paranaense",
-    "0e1fb1dc3fd0c2731f58346a269ca782:h2h|Unibet (NL)|Draw",
-    "0e1fb1dc3fd0c2731f58346a269ca782:h2h|Unibet (SE)|Atletico Paranaense",
-    "0e1fb1dc3fd0c2731f58346a269ca782:h2h|Unibet (SE)|Draw",
-    "0e1fb1dc3fd0c2731f58346a269ca782:h2h|Winamax (DE)|Atletico Paranaense",
-    "0e1fb1dc3fd0c2731f58346a269ca782:h2h|Winamax (DE)|Draw",
-    "0e1fb1dc3fd0c2731f58346a269ca782:h2h|Winamax (FR)|Atletico Paranaense",
-    "c6a315628d73f0f9ac146b3be0c78c54:h2h|Betfair|Draw",
-    "c6a315628d73f0f9ac146b3be0c78c54:h2h|Betfair|Querétaro",
-    "c6a315628d73f0f9ac146b3be0c78c54:h2h|Coolbet|Draw",
-    "c6a315628d73f0f9ac146b3be0c78c54:h2h|Coolbet|Querétaro",
-    "c6a315628d73f0f9ac146b3be0c78c54:h2h|Matchbook|Querétaro",
-    "c6a315628d73f0f9ac146b3be0c78c54:h2h|Tipico|Draw",
-    "c6a315628d73f0f9ac146b3be0c78c54:h2h|Tipico|Querétaro",
-    "c6a315628d73f0f9ac146b3be0c78c54:h2h|Unibet (NL)|Draw"
+    "35a1545b7aff33ec55254043939b0207:h2h|888sport|San Jose Earthquakes",
+    "35a1545b7aff33ec55254043939b0207:h2h|Betclic (FR)|San Jose Earthquakes",
+    "35a1545b7aff33ec55254043939b0207:h2h|Betfair|Nashville SC",
+    "35a1545b7aff33ec55254043939b0207:h2h|Betfair|San Jose Earthquakes",
+    "35a1545b7aff33ec55254043939b0207:h2h|Betsson|San Jose Earthquakes",
+    "35a1545b7aff33ec55254043939b0207:h2h|Coolbet|San Jose Earthquakes",
+    "35a1545b7aff33ec55254043939b0207:h2h|LeoVegas (SE)|Nashville SC",
+    "35a1545b7aff33ec55254043939b0207:h2h|LeoVegas (SE)|San Jose Earthquakes",
+    "35a1545b7aff33ec55254043939b0207:h2h|Marathon Bet|San Jose Earthquakes",
+    "35a1545b7aff33ec55254043939b0207:h2h|Matchbook|Nashville SC",
+    "35a1545b7aff33ec55254043939b0207:h2h|Matchbook|San Jose Earthquakes",
+    "35a1545b7aff33ec55254043939b0207:h2h|Nordic Bet|San Jose Earthquakes",
+    "35a1545b7aff33ec55254043939b0207:h2h|Tipico|San Jose Earthquakes",
+    "35a1545b7aff33ec55254043939b0207:h2h|Unibet (NL)|Nashville SC",
+    "35a1545b7aff33ec55254043939b0207:h2h|Unibet (NL)|San Jose Earthquakes",
+    "35a1545b7aff33ec55254043939b0207:h2h|Unibet (SE)|Nashville SC",
+    "35a1545b7aff33ec55254043939b0207:h2h|Unibet (SE)|San Jose Earthquakes",
+    "35a1545b7aff33ec55254043939b0207:h2h|Winamax (DE)|San Jose Earthquakes",
+    "35a1545b7aff33ec55254043939b0207:h2h|Winamax (FR)|San Jose Earthquakes",
+    "4f73f9a292842d2143b6012a5278ef4c:h2h|888sport|Colorado Rapids",
+    "4f73f9a292842d2143b6012a5278ef4c:h2h|888sport|Portland Timbers",
+    "4f73f9a292842d2143b6012a5278ef4c:h2h|Betfair|Colorado Rapids",
+    "4f73f9a292842d2143b6012a5278ef4c:h2h|Betfair|Portland Timbers",
+    "4f73f9a292842d2143b6012a5278ef4c:h2h|Coolbet|Colorado Rapids",
+    "4f73f9a292842d2143b6012a5278ef4c:h2h|Coolbet|Portland Timbers",
+    "4f73f9a292842d2143b6012a5278ef4c:h2h|LeoVegas (SE)|Portland Timbers",
+    "4f73f9a292842d2143b6012a5278ef4c:h2h|Marathon Bet|Colorado Rapids",
+    "4f73f9a292842d2143b6012a5278ef4c:h2h|Marathon Bet|Portland Timbers",
+    "4f73f9a292842d2143b6012a5278ef4c:h2h|Matchbook|Colorado Rapids",
+    "4f73f9a292842d2143b6012a5278ef4c:h2h|Matchbook|Portland Timbers",
+    "4f73f9a292842d2143b6012a5278ef4c:h2h|Nordic Bet|Portland Timbers",
+    "4f73f9a292842d2143b6012a5278ef4c:h2h|PMU (FR)|Portland Timbers",
+    "4f73f9a292842d2143b6012a5278ef4c:h2h|Tipico|Colorado Rapids",
+    "4f73f9a292842d2143b6012a5278ef4c:h2h|Unibet (NL)|Portland Timbers",
+    "4f73f9a292842d2143b6012a5278ef4c:h2h|Unibet (SE)|Portland Timbers",
+    "4f73f9a292842d2143b6012a5278ef4c:h2h|Winamax (DE)|Colorado Rapids",
+    "7c066a49be3077c15db3730910b35933:h2h|888sport|LA Galaxy",
+    "7c066a49be3077c15db3730910b35933:h2h|Betfair|San Diego FC",
+    "7c066a49be3077c15db3730910b35933:h2h|Coolbet|LA Galaxy",
+    "7c066a49be3077c15db3730910b35933:h2h|Coolbet|San Diego FC",
+    "7c066a49be3077c15db3730910b35933:h2h|Marathon Bet|LA Galaxy",
+    "7c066a49be3077c15db3730910b35933:h2h|Marathon Bet|San Diego FC",
+    "7c066a49be3077c15db3730910b35933:h2h|Matchbook|LA Galaxy",
+    "7c066a49be3077c15db3730910b35933:h2h|Matchbook|San Diego FC",
+    "7c066a49be3077c15db3730910b35933:h2h|Tipico|LA Galaxy",
+    "7c066a49be3077c15db3730910b35933:h2h|Tipico|San Diego FC",
+    "7c066a49be3077c15db3730910b35933:h2h|Winamax (DE)|LA Galaxy",
+    "7c066a49be3077c15db3730910b35933:h2h|Winamax (DE)|San Diego FC",
+    "7c066a49be3077c15db3730910b35933:h2h|Winamax (FR)|LA Galaxy",
+    "93c303e0d0b14f9b8d598a6e8862f171:h2h|888sport|CF Montreal",
+    "93c303e0d0b14f9b8d598a6e8862f171:h2h|888sport|Seattle Sounders FC",
+    "93c303e0d0b14f9b8d598a6e8862f171:h2h|Betfair|CF Montreal",
+    "93c303e0d0b14f9b8d598a6e8862f171:h2h|Betfair|Seattle Sounders FC",
+    "93c303e0d0b14f9b8d598a6e8862f171:h2h|Betsson|CF Montreal",
+    "93c303e0d0b14f9b8d598a6e8862f171:h2h|Betsson|Seattle Sounders FC",
+    "93c303e0d0b14f9b8d598a6e8862f171:h2h|Coolbet|CF Montreal",
+    "93c303e0d0b14f9b8d598a6e8862f171:h2h|Coolbet|Seattle Sounders FC",
+    "93c303e0d0b14f9b8d598a6e8862f171:h2h|LeoVegas (SE)|Seattle Sounders FC",
+    "93c303e0d0b14f9b8d598a6e8862f171:h2h|Marathon Bet|CF Montreal",
+    "93c303e0d0b14f9b8d598a6e8862f171:h2h|Marathon Bet|Seattle Sounders FC",
+    "93c303e0d0b14f9b8d598a6e8862f171:h2h|Matchbook|CF Montreal",
+    "93c303e0d0b14f9b8d598a6e8862f171:h2h|Matchbook|Seattle Sounders FC",
+    "93c303e0d0b14f9b8d598a6e8862f171:h2h|Nordic Bet|CF Montreal",
+    "93c303e0d0b14f9b8d598a6e8862f171:h2h|Nordic Bet|Seattle Sounders FC",
+    "93c303e0d0b14f9b8d598a6e8862f171:h2h|PMU (FR)|Seattle Sounders FC",
+    "93c303e0d0b14f9b8d598a6e8862f171:h2h|Tipico|CF Montreal",
+    "93c303e0d0b14f9b8d598a6e8862f171:h2h|Unibet (NL)|Seattle Sounders FC",
+    "93c303e0d0b14f9b8d598a6e8862f171:h2h|Unibet (SE)|Seattle Sounders FC",
+    "93c303e0d0b14f9b8d598a6e8862f171:h2h|Winamax (DE)|Seattle Sounders FC",
+    "93c303e0d0b14f9b8d598a6e8862f171:h2h|Winamax (FR)|Seattle Sounders FC"
   ]
 }
