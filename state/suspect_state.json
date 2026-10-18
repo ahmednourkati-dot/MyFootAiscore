@@ -1,176 +1,256 @@
 {
   "snapshots": {
-    "c3ca0a75fea2e2f768322e7be4c42977:h2h": {
-      "Betclic (FR)": {
-        "Andorra CF": 100.0,
-        "Girona FC": 1.0,
-        "Draw": 40.0
-      },
-      "Betsson": {
-        "Andorra CF": 26.0,
-        "Girona FC": 1.0,
-        "Draw": 26.0
-      },
-      "Nordic Bet": {
-        "Andorra CF": 26.0,
-        "Girona FC": 1.0,
-        "Draw": 26.0
-      }
-    },
-    "280311305282b3288f5d8f19a722058b:h2h": {
-      "Unibet (SE)": {
-        "CD Eldense": 41.0,
-        "Real Valladolid CF": 36.0,
-        "Draw": 1.01
-      },
-      "Unibet (NL)": {
-        "CD Eldense": 15.0,
-        "Real Valladolid CF": 14.0,
-        "Draw": 1.02
-      },
-      "PMU (FR)": {
-        "CD Eldense": 9.0,
-        "Real Valladolid CF": 10.0,
-        "Draw": 1.02
-      },
-      "LeoVegas (SE)": {
-        "CD Eldense": 9.5,
-        "Real Valladolid CF": 12.0,
-        "Draw": 1.03
-      },
-      "Betsson": {
-        "CD Eldense": 17.0,
-        "Real Valladolid CF": 23.0,
-        "Draw": 1.03
-      },
-      "Betclic (FR)": {
-        "CD Eldense": 1.01,
-        "Real Valladolid CF": 100.0,
-        "Draw": 25.0
-      },
-      "Nordic Bet": {
-        "CD Eldense": 1.0,
-        "Real Valladolid CF": 46.0,
-        "Draw": 19.0
-      },
+    "98b44cda0bb21e6412fd8c8e68905d6d:h2h": {
       "Winamax (FR)": {
-        "CD Eldense": 26.0,
-        "Real Valladolid CF": 40.0,
-        "Draw": 1.03
+        "Aldosivi Mar del Plata": 4.5,
+        "Estudiantes de Río Cuarto": 3.25,
+        "Draw": 1.66
       },
       "Winamax (DE)": {
-        "CD Eldense": 21.0,
-        "Real Valladolid CF": 32.0,
-        "Draw": 1.02
-      },
-      "Tipico": {
-        "CD Eldense": 12.0,
-        "Real Valladolid CF": 22.0,
-        "Draw": 1.02
-      },
-      "Pinnacle": {
-        "CD Eldense": 5.21,
-        "Real Valladolid CF": 7.94,
-        "Draw": 1.32
-      },
-      "Coolbet": {
-        "CD Eldense": 20.0,
-        "Real Valladolid CF": 28.0,
-        "Draw": 1.01
-      },
-      "Betfair": {
-        "CD Eldense": 21.0,
-        "Real Valladolid CF": 24.0,
-        "Draw": 1.04
-      }
-    },
-    "1051298b4aca6f07113309bff598a5c1:h2h": {
-      "Nordic Bet": {
-        "Málaga": 34.0,
-        "Real Sociedad": 1.0,
-        "Draw": 29.0
-      },
-      "Betclic (FR)": {
-        "Málaga": 100.0,
-        "Real Sociedad": 1.0,
-        "Draw": 75.0
-      },
-      "Betsson": {
-        "Málaga": 34.0,
-        "Real Sociedad": 1.0,
-        "Draw": 29.0
-      }
-    },
-    "47fbe9bebfe6fc6d7071a257461f5186:h2h": {
-      "Winamax (DE)": {
-        "AE Kifisia FC": 4.6,
-        "Aris Thessaloniki": 3.55,
-        "Draw": 1.64
-      },
-      "888sport": {
-        "AE Kifisia FC": 4.75,
-        "Aris Thessaloniki": 3.6,
-        "Draw": 1.61
-      },
-      "Nordic Bet": {
-        "AE Kifisia FC": 4.69,
-        "Aris Thessaloniki": 3.56,
-        "Draw": 1.69
-      },
-      "Betsson": {
-        "AE Kifisia FC": 4.7,
-        "Aris Thessaloniki": 3.7,
+        "Aldosivi Mar del Plata": 4.7,
+        "Estudiantes de Río Cuarto": 3.35,
         "Draw": 1.68
       },
-      "Winamax (FR)": {
-        "AE Kifisia FC": 4.5,
-        "Aris Thessaloniki": 3.5,
-        "Draw": 1.6
-      },
       "Betclic (FR)": {
-        "AE Kifisia FC": 4.55,
-        "Aris Thessaloniki": 3.08,
-        "Draw": 1.65
-      },
-      "Pinnacle": {
-        "AE Kifisia FC": 4.79,
-        "Aris Thessaloniki": 3.64,
+        "Aldosivi Mar del Plata": 4.6,
+        "Estudiantes de Río Cuarto": 3.05,
         "Draw": 1.71
       },
-      "PMU (FR)": {
-        "AE Kifisia FC": 3.75,
-        "Aris Thessaloniki": 3.6,
-        "Draw": 1.51
+      "Betfair": {
+        "Aldosivi Mar del Plata": 4.9,
+        "Estudiantes de Río Cuarto": 3.6,
+        "Draw": 1.89
       },
-      "Unibet (NL)": {
-        "AE Kifisia FC": 4.0,
-        "Aris Thessaloniki": 3.9,
-        "Draw": 1.66
+      "Marathon Bet": {
+        "Aldosivi Mar del Plata": 5.2,
+        "Estudiantes de Río Cuarto": 3.34,
+        "Draw": 1.71
       },
-      "Unibet (SE)": {
-        "AE Kifisia FC": 4.0,
-        "Aris Thessaloniki": 3.9,
-        "Draw": 1.66
+      "Betsson": {
+        "Aldosivi Mar del Plata": 4.85,
+        "Estudiantes de Río Cuarto": 3.3,
+        "Draw": 1.68
+      },
+      "Nordic Bet": {
+        "Aldosivi Mar del Plata": 4.85,
+        "Estudiantes de Río Cuarto": 3.3,
+        "Draw": 1.68
+      },
+      "Pinnacle": {
+        "Aldosivi Mar del Plata": 4.38,
+        "Estudiantes de Río Cuarto": 3.01,
+        "Draw": 2.01
       },
       "LeoVegas (SE)": {
-        "AE Kifisia FC": 3.8,
-        "Aris Thessaloniki": 3.7,
-        "Draw": 1.55
+        "Aldosivi Mar del Plata": 4.25,
+        "Estudiantes de Río Cuarto": 3.35,
+        "Draw": 1.62
       },
-      "Tipico": {
-        "AE Kifisia FC": 5.2,
-        "Aris Thessaloniki": 3.2,
-        "Draw": 1.65
+      "Unibet (SE)": {
+        "Aldosivi Mar del Plata": 4.5,
+        "Estudiantes de Río Cuarto": 3.55,
+        "Draw": 1.72
+      }
+    },
+    "0da2ffa4d8be320c5bad2afda7687b60:h2h": {
+      "Betclic (FR)": {
+        "Columbus Crew SC": 1.65,
+        "FC Cincinnati": 4.15,
+        "Draw": 3.3
       },
-      "Coolbet": {
-        "AE Kifisia FC": 5.0,
-        "Aris Thessaloniki": 3.6,
-        "Draw": 1.67
+      "Winamax (FR)": {
+        "Columbus Crew SC": 1.66,
+        "FC Cincinnati": 4.3,
+        "Draw": 3.3
+      },
+      "MyBookie.ag": {
+        "Columbus Crew SC": 1.7,
+        "FC Cincinnati": 4.35,
+        "Draw": 3.5
+      },
+      "Winamax (DE)": {
+        "Columbus Crew SC": 1.7,
+        "FC Cincinnati": 4.5,
+        "Draw": 3.4
+      },
+      "Marathon Bet": {
+        "Columbus Crew SC": 1.69,
+        "FC Cincinnati": 4.8,
+        "Draw": 3.6
+      },
+      "888sport": {
+        "Columbus Crew SC": 1.67,
+        "FC Cincinnati": 4.6,
+        "Draw": 3.4
       },
       "Betfair": {
-        "AE Kifisia FC": 5.3,
-        "Aris Thessaloniki": 3.95,
+        "Columbus Crew SC": 1.84,
+        "FC Cincinnati": 5.0,
+        "Draw": 3.85
+      },
+      "PMU (FR)": {
+        "Columbus Crew SC": 1.6,
+        "FC Cincinnati": 4.35,
+        "Draw": 3.25
+      },
+      "Unibet (NL)": {
+        "Columbus Crew SC": 1.72,
+        "FC Cincinnati": 4.75,
+        "Draw": 3.45
+      },
+      "Unibet (SE)": {
+        "Columbus Crew SC": 1.72,
+        "FC Cincinnati": 4.75,
+        "Draw": 3.45
+      },
+      "LeoVegas (SE)": {
+        "Columbus Crew SC": 1.67,
+        "FC Cincinnati": 4.5,
+        "Draw": 3.4
+      },
+      "Coolbet": {
+        "Columbus Crew SC": 1.67,
+        "FC Cincinnati": 5.0,
+        "Draw": 3.6
+      },
+      "Pinnacle": {
+        "Columbus Crew SC": 1.74,
+        "FC Cincinnati": 4.93,
+        "Draw": 3.55
+      },
+      "Nordic Bet": {
+        "Columbus Crew SC": 1.68,
+        "FC Cincinnati": 4.6,
+        "Draw": 3.5
+      },
+      "Betsson": {
+        "Columbus Crew SC": 1.68,
+        "FC Cincinnati": 4.6,
+        "Draw": 3.5
+      },
+      "Tipico": {
+        "Columbus Crew SC": 1.75,
+        "FC Cincinnati": 4.0,
+        "Draw": 3.6
+      },
+      "Matchbook": {
+        "Columbus Crew SC": 1.89,
+        "FC Cincinnati": 4.9,
+        "Draw": 3.6
+      }
+    },
+    "dd7b53a2fac297a4882221bbf2b5befe:h2h": {
+      "Winamax (DE)": {
+        "Estudiantes": 3.15,
+        "San Lorenzo": 5.0,
+        "Draw": 1.7
+      },
+      "Winamax (FR)": {
+        "Estudiantes": 3.05,
+        "San Lorenzo": 4.7,
+        "Draw": 1.66
+      },
+      "Betclic (FR)": {
+        "Estudiantes": 3.0,
+        "San Lorenzo": 4.6,
         "Draw": 1.72
+      },
+      "Betfair": {
+        "Estudiantes": 3.1,
+        "San Lorenzo": 6.4,
+        "Draw": 1.9
+      },
+      "Marathon Bet": {
+        "Estudiantes": 3.05,
+        "San Lorenzo": 5.4,
+        "Draw": 1.77
+      },
+      "Betsson": {
+        "Estudiantes": 3.2,
+        "San Lorenzo": 4.85,
+        "Draw": 1.72
+      },
+      "Nordic Bet": {
+        "Estudiantes": 3.2,
+        "San Lorenzo": 4.85,
+        "Draw": 1.72
+      },
+      "Pinnacle": {
+        "Estudiantes": 2.84,
+        "San Lorenzo": 4.62,
+        "Draw": 2.04
+      },
+      "LeoVegas (SE)": {
+        "Estudiantes": 3.3,
+        "San Lorenzo": 3.9,
+        "Draw": 1.7
+      },
+      "Unibet (SE)": {
+        "Estudiantes": 3.55,
+        "San Lorenzo": 4.1,
+        "Draw": 1.8
+      }
+    },
+    "dec0e27285836644cc311e2c3813ff1f:h2h": {
+      "LeoVegas (SE)": {
+        "Grêmio Novorizontino": 1.28,
+        "Vila Nova": 12.0,
+        "Draw": 3.65
+      },
+      "Unibet (SE)": {
+        "Grêmio Novorizontino": 1.35,
+        "Vila Nova": 13.0,
+        "Draw": 3.85
+      },
+      "Unibet (NL)": {
+        "Grêmio Novorizontino": 1.29,
+        "Vila Nova": 12.5,
+        "Draw": 3.65
+      },
+      "Betsson": {
+        "Grêmio Novorizontino": 1.4,
+        "Vila Nova": 10.5,
+        "Draw": 3.5
+      },
+      "Nordic Bet": {
+        "Grêmio Novorizontino": 1.4,
+        "Vila Nova": 10.5,
+        "Draw": 3.5
+      },
+      "Coolbet": {
+        "Grêmio Novorizontino": 1.4,
+        "Vila Nova": 10.0,
+        "Draw": 3.6
+      },
+      "Marathon Bet": {
+        "Grêmio Novorizontino": 1.34,
+        "Vila Nova": 11.0,
+        "Draw": 3.7
+      },
+      "888sport": {
+        "Grêmio Novorizontino": 1.4,
+        "Vila Nova": 10.0,
+        "Draw": 3.6
+      },
+      "Pinnacle": {
+        "Grêmio Novorizontino": 1.44,
+        "Vila Nova": 10.35,
+        "Draw": 3.65
+      },
+      "Tipico": {
+        "Grêmio Novorizontino": 1.4,
+        "Vila Nova": 8.0,
+        "Draw": 3.8
+      },
+      "Matchbook": {
+        "Grêmio Novorizontino": 1.45,
+        "Vila Nova": 13.5,
+        "Draw": 4.0
+      },
+      "Betfair": {
+        "Grêmio Novorizontino": 1.42,
+        "Vila Nova": 10.5,
+        "Draw": 4.0
       }
     }
   },
@@ -8703,33 +8783,281 @@
       "confidence": 181,
       "alert_type": "value",
       "alerted_at": "2026-10-18T18:35:33.238729+00:00"
+    },
+    {
+      "state_key": "98b44cda0bb21e6412fd8c8e68905d6d:h2h",
+      "event_id": "98b44cda0bb21e6412fd8c8e68905d6d",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Estudiantes de Río Cuarto",
+      "away_team": "Aldosivi Mar del Plata",
+      "commence_time": "2026-10-18T21:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Estudiantes de Río Cuarto",
+      "odds_at_alert": 3.35,
+      "stake_pct": 2.0,
+      "confidence": 5,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T22:23:08.627409+00:00"
+    },
+    {
+      "state_key": "98b44cda0bb21e6412fd8c8e68905d6d:h2h",
+      "event_id": "98b44cda0bb21e6412fd8c8e68905d6d",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Estudiantes de Río Cuarto",
+      "away_team": "Aldosivi Mar del Plata",
+      "commence_time": "2026-10-18T21:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Aldosivi Mar del Plata",
+      "odds_at_alert": 4.9,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T22:23:09.090541+00:00"
+    },
+    {
+      "state_key": "98b44cda0bb21e6412fd8c8e68905d6d:h2h",
+      "event_id": "98b44cda0bb21e6412fd8c8e68905d6d",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Estudiantes de Río Cuarto",
+      "away_team": "Aldosivi Mar del Plata",
+      "commence_time": "2026-10-18T21:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Estudiantes de Río Cuarto",
+      "odds_at_alert": 3.6,
+      "stake_pct": 3.0,
+      "confidence": 13,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T22:23:09.543687+00:00"
+    },
+    {
+      "state_key": "98b44cda0bb21e6412fd8c8e68905d6d:h2h",
+      "event_id": "98b44cda0bb21e6412fd8c8e68905d6d",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Estudiantes de Río Cuarto",
+      "away_team": "Aldosivi Mar del Plata",
+      "commence_time": "2026-10-18T21:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Aldosivi Mar del Plata",
+      "odds_at_alert": 5.2,
+      "stake_pct": 3.0,
+      "confidence": 12,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T22:23:10.034198+00:00"
+    },
+    {
+      "state_key": "98b44cda0bb21e6412fd8c8e68905d6d:h2h",
+      "event_id": "98b44cda0bb21e6412fd8c8e68905d6d",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Estudiantes de Río Cuarto",
+      "away_team": "Aldosivi Mar del Plata",
+      "commence_time": "2026-10-18T21:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Estudiantes de Río Cuarto",
+      "odds_at_alert": 3.35,
+      "stake_pct": 2.0,
+      "confidence": 5,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T22:23:10.473008+00:00"
+    },
+    {
+      "state_key": "98b44cda0bb21e6412fd8c8e68905d6d:h2h",
+      "event_id": "98b44cda0bb21e6412fd8c8e68905d6d",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Estudiantes de Río Cuarto",
+      "away_team": "Aldosivi Mar del Plata",
+      "commence_time": "2026-10-18T21:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Estudiantes de Río Cuarto",
+      "odds_at_alert": 3.55,
+      "stake_pct": 3.0,
+      "confidence": 11,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T22:23:10.914599+00:00"
+    },
+    {
+      "state_key": "dd7b53a2fac297a4882221bbf2b5befe:h2h",
+      "event_id": "dd7b53a2fac297a4882221bbf2b5befe",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Estudiantes",
+      "away_team": "San Lorenzo",
+      "commence_time": "2026-10-18T21:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "San Lorenzo",
+      "odds_at_alert": 6.4,
+      "stake_pct": 5.0,
+      "confidence": 31,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T22:23:11.349623+00:00"
+    },
+    {
+      "state_key": "dd7b53a2fac297a4882221bbf2b5befe:h2h",
+      "event_id": "dd7b53a2fac297a4882221bbf2b5befe",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Estudiantes",
+      "away_team": "San Lorenzo",
+      "commence_time": "2026-10-18T21:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "San Lorenzo",
+      "odds_at_alert": 5.4,
+      "stake_pct": 3.0,
+      "confidence": 10,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T22:23:11.789935+00:00"
+    },
+    {
+      "state_key": "dd7b53a2fac297a4882221bbf2b5befe:h2h",
+      "event_id": "dd7b53a2fac297a4882221bbf2b5befe",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Estudiantes",
+      "away_team": "San Lorenzo",
+      "commence_time": "2026-10-18T21:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Estudiantes",
+      "odds_at_alert": 3.2,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T22:23:12.231203+00:00"
+    },
+    {
+      "state_key": "dd7b53a2fac297a4882221bbf2b5befe:h2h",
+      "event_id": "dd7b53a2fac297a4882221bbf2b5befe",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Estudiantes",
+      "away_team": "San Lorenzo",
+      "commence_time": "2026-10-18T21:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Estudiantes",
+      "odds_at_alert": 3.2,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T22:23:12.671944+00:00"
+    },
+    {
+      "state_key": "dd7b53a2fac297a4882221bbf2b5befe:h2h",
+      "event_id": "dd7b53a2fac297a4882221bbf2b5befe",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Estudiantes",
+      "away_team": "San Lorenzo",
+      "commence_time": "2026-10-18T21:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Estudiantes",
+      "odds_at_alert": 3.3,
+      "stake_pct": 2.0,
+      "confidence": 10,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T22:23:13.115439+00:00"
+    },
+    {
+      "state_key": "dd7b53a2fac297a4882221bbf2b5befe:h2h",
+      "event_id": "dd7b53a2fac297a4882221bbf2b5befe",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Estudiantes",
+      "away_team": "San Lorenzo",
+      "commence_time": "2026-10-18T21:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Estudiantes",
+      "odds_at_alert": 3.55,
+      "stake_pct": 5.0,
+      "confidence": 18,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T22:23:13.562786+00:00"
+    },
+    {
+      "state_key": "dec0e27285836644cc311e2c3813ff1f:h2h",
+      "event_id": "dec0e27285836644cc311e2c3813ff1f",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Vila Nova",
+      "away_team": "Grêmio Novorizontino",
+      "commence_time": "2026-10-18T21:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Vila Nova",
+      "odds_at_alert": 12.0,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T22:23:14.012163+00:00"
+    },
+    {
+      "state_key": "dec0e27285836644cc311e2c3813ff1f:h2h",
+      "event_id": "dec0e27285836644cc311e2c3813ff1f",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Vila Nova",
+      "away_team": "Grêmio Novorizontino",
+      "commence_time": "2026-10-18T21:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Vila Nova",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 18,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T22:23:14.482580+00:00"
+    },
+    {
+      "state_key": "dec0e27285836644cc311e2c3813ff1f:h2h",
+      "event_id": "dec0e27285836644cc311e2c3813ff1f",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Vila Nova",
+      "away_team": "Grêmio Novorizontino",
+      "commence_time": "2026-10-18T21:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Vila Nova",
+      "odds_at_alert": 12.5,
+      "stake_pct": 3.0,
+      "confidence": 13,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T22:23:14.918103+00:00"
+    },
+    {
+      "state_key": "dec0e27285836644cc311e2c3813ff1f:h2h",
+      "event_id": "dec0e27285836644cc311e2c3813ff1f",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Vila Nova",
+      "away_team": "Grêmio Novorizontino",
+      "commence_time": "2026-10-18T21:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Vila Nova",
+      "odds_at_alert": 13.5,
+      "stake_pct": 5.0,
+      "confidence": 22,
+      "alert_type": "value",
+      "alerted_at": "2026-10-18T22:23:15.359440+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "280311305282b3288f5d8f19a722058b:h2h|Betclic (FR)|Draw",
-    "280311305282b3288f5d8f19a722058b:h2h|Betclic (FR)|Real Valladolid CF",
-    "280311305282b3288f5d8f19a722058b:h2h|Betfair|CD Eldense",
-    "280311305282b3288f5d8f19a722058b:h2h|Betfair|Real Valladolid CF",
-    "280311305282b3288f5d8f19a722058b:h2h|Betsson|CD Eldense",
-    "280311305282b3288f5d8f19a722058b:h2h|Betsson|Real Valladolid CF",
-    "280311305282b3288f5d8f19a722058b:h2h|Coolbet|CD Eldense",
-    "280311305282b3288f5d8f19a722058b:h2h|Coolbet|Real Valladolid CF",
-    "280311305282b3288f5d8f19a722058b:h2h|LeoVegas (SE)|CD Eldense",
-    "280311305282b3288f5d8f19a722058b:h2h|LeoVegas (SE)|Real Valladolid CF",
-    "280311305282b3288f5d8f19a722058b:h2h|Nordic Bet|Draw",
-    "280311305282b3288f5d8f19a722058b:h2h|Nordic Bet|Real Valladolid CF",
-    "280311305282b3288f5d8f19a722058b:h2h|PMU (FR)|CD Eldense",
-    "280311305282b3288f5d8f19a722058b:h2h|PMU (FR)|Real Valladolid CF",
-    "280311305282b3288f5d8f19a722058b:h2h|Tipico|CD Eldense",
-    "280311305282b3288f5d8f19a722058b:h2h|Tipico|Real Valladolid CF",
-    "280311305282b3288f5d8f19a722058b:h2h|Unibet (NL)|CD Eldense",
-    "280311305282b3288f5d8f19a722058b:h2h|Unibet (NL)|Real Valladolid CF",
-    "280311305282b3288f5d8f19a722058b:h2h|Unibet (SE)|CD Eldense",
-    "280311305282b3288f5d8f19a722058b:h2h|Unibet (SE)|Real Valladolid CF",
-    "280311305282b3288f5d8f19a722058b:h2h|Winamax (DE)|CD Eldense",
-    "280311305282b3288f5d8f19a722058b:h2h|Winamax (DE)|Real Valladolid CF",
-    "280311305282b3288f5d8f19a722058b:h2h|Winamax (FR)|CD Eldense",
-    "280311305282b3288f5d8f19a722058b:h2h|Winamax (FR)|Real Valladolid CF"
+    "98b44cda0bb21e6412fd8c8e68905d6d:h2h|Betfair|Aldosivi Mar del Plata",
+    "98b44cda0bb21e6412fd8c8e68905d6d:h2h|Betfair|Estudiantes de Río Cuarto",
+    "98b44cda0bb21e6412fd8c8e68905d6d:h2h|LeoVegas (SE)|Estudiantes de Río Cuarto",
+    "98b44cda0bb21e6412fd8c8e68905d6d:h2h|Marathon Bet|Aldosivi Mar del Plata",
+    "98b44cda0bb21e6412fd8c8e68905d6d:h2h|Unibet (SE)|Estudiantes de Río Cuarto",
+    "98b44cda0bb21e6412fd8c8e68905d6d:h2h|Winamax (DE)|Estudiantes de Río Cuarto",
+    "dd7b53a2fac297a4882221bbf2b5befe:h2h|Betfair|San Lorenzo",
+    "dd7b53a2fac297a4882221bbf2b5befe:h2h|Betsson|Estudiantes",
+    "dd7b53a2fac297a4882221bbf2b5befe:h2h|LeoVegas (SE)|Estudiantes",
+    "dd7b53a2fac297a4882221bbf2b5befe:h2h|Marathon Bet|San Lorenzo",
+    "dd7b53a2fac297a4882221bbf2b5befe:h2h|Nordic Bet|Estudiantes",
+    "dd7b53a2fac297a4882221bbf2b5befe:h2h|Unibet (SE)|Estudiantes",
+    "dec0e27285836644cc311e2c3813ff1f:h2h|LeoVegas (SE)|Vila Nova",
+    "dec0e27285836644cc311e2c3813ff1f:h2h|Matchbook|Vila Nova",
+    "dec0e27285836644cc311e2c3813ff1f:h2h|Unibet (NL)|Vila Nova",
+    "dec0e27285836644cc311e2c3813ff1f:h2h|Unibet (SE)|Vila Nova"
   ]
 }
