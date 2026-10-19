@@ -1,321 +1,246 @@
 {
   "snapshots": {
-    "dd6d325730c2d5eec2651f7e14d193b2:h2h": {
-      "LeoVegas (SE)": {
-        "Al-Ahli": 1.32,
-        "Al-Fayha": 6.75,
-        "Draw": 4.6
-      },
-      "Unibet (NL)": {
-        "Al-Ahli": 1.35,
-        "Al-Fayha": 7.0,
-        "Draw": 4.7
-      },
+    "8f0664f036984ca8585a3d3bb88ebc0f:h2h": {
       "Unibet (SE)": {
-        "Al-Ahli": 1.35,
-        "Al-Fayha": 7.0,
-        "Draw": 4.7
+        "Al-Faisaly KSA FC": 11.0,
+        "Al-Shabab": 7.0,
+        "Draw": 1.19
       },
       "PMU (FR)": {
-        "Al-Ahli": 1.27,
-        "Al-Fayha": 6.5,
-        "Draw": 4.4
+        "Al-Faisaly KSA FC": 9.5,
+        "Al-Shabab": 6.25,
+        "Draw": 1.07
       },
-      "Unibet (FR)": {
-        "Al-Ahli": 1.26,
-        "Al-Fayha": 6.4,
-        "Draw": 4.55
-      },
-      "Betfair": {
-        "Al-Ahli": 1.4,
-        "Al-Fayha": 8.8,
-        "Draw": 5.6
-      },
-      "1xBet": {
-        "Al-Ahli": 1.33,
-        "Al-Fayha": 7.8,
-        "Draw": 5.27
-      },
-      "Winamax (FR)": {
-        "Al-Ahli": 1.33,
-        "Al-Fayha": 6.25,
-        "Draw": 4.9
-      },
-      "Winamax (DE)": {
-        "Al-Ahli": 1.34,
-        "Al-Fayha": 6.5,
-        "Draw": 5.1
-      },
-      "888sport": {
-        "Al-Ahli": 1.33,
-        "Al-Fayha": 6.5,
-        "Draw": 4.6
-      },
-      "William Hill": {
-        "Al-Ahli": 1.33,
-        "Al-Fayha": 6.5,
-        "Draw": 4.6
-      },
-      "Tipico": {
-        "Al-Ahli": 1.3,
-        "Al-Fayha": 7.8,
-        "Draw": 5.0
-      }
-    },
-    "4cbda86aafabc3623d81ce3e1db89bac:h2h": {
       "LeoVegas (SE)": {
-        "Bayern Munich": 1.01,
-        "VfB Stuttgart": 23.0,
-        "Draw": 11.0
-      },
-      "Unibet (SE)": {
-        "Bayern Munich": 1.01,
-        "VfB Stuttgart": 23.0,
-        "Draw": 11.0
+        "Al-Faisaly KSA FC": 10.0,
+        "Al-Shabab": 6.75,
+        "Draw": 1.13
       },
       "Unibet (NL)": {
-        "Bayern Munich": 1.01,
-        "VfB Stuttgart": 23.0,
-        "Draw": 11.0
+        "Al-Faisaly KSA FC": 10.0,
+        "Al-Shabab": 6.75,
+        "Draw": 1.14
       },
-      "1xBet": {
-        "Bayern Munich": 1.05,
-        "VfB Stuttgart": 26.0,
-        "Draw": 13.0
+      "Pinnacle": {
+        "Al-Faisaly KSA FC": 5.99,
+        "Al-Shabab": 4.37,
+        "Draw": 1.47
       },
-      "Tipico": {
-        "Bayern Munich": 1.01,
-        "VfB Stuttgart": 16.0,
-        "Draw": 15.0
+      "Winamax (FR)": {
+        "Al-Faisaly KSA FC": 9.5,
+        "Al-Shabab": 7.25,
+        "Draw": 1.15
       },
-      "William Hill": {
-        "Bayern Munich": 1.05,
-        "VfB Stuttgart": 26.0,
-        "Draw": 13.0
+      "Winamax (DE)": {
+        "Al-Faisaly KSA FC": 9.0,
+        "Al-Shabab": 7.0,
+        "Draw": 1.18
       },
       "888sport": {
-        "Bayern Munich": 1.05,
-        "VfB Stuttgart": 26.0,
-        "Draw": 13.0
-      }
-    },
-    "ce94aca384a20f6af459366da6e1dd21:h2h": {
-      "Codere (IT)": {
-        "Cagliari": 3.2,
-        "Monza": 2.33,
-        "Draw": 3.25
+        "Al-Faisaly KSA FC": 10.0,
+        "Al-Shabab": 7.0,
+        "Draw": 1.14
       },
-      "Unibet (FR)": {
-        "Cagliari": 2.85,
-        "Monza": 2.3,
-        "Draw": 3.1
-      },
-      "1xBet": {
-        "Cagliari": 3.29,
-        "Monza": 2.45,
-        "Draw": 3.29
+      "William Hill": {
+        "Al-Faisaly KSA FC": 8.0,
+        "Al-Shabab": 6.0,
+        "Draw": 1.2
       },
       "Betclic (FR)": {
-        "Cagliari": 3.1,
-        "Monza": 2.23,
-        "Draw": 3.13
+        "Al-Faisaly KSA FC": 7.75,
+        "Al-Shabab": 5.75,
+        "Draw": 1.19
       },
       "Tipico": {
-        "Cagliari": 3.0,
-        "Monza": 2.35,
-        "Draw": 3.3
-      },
-      "Winamax (DE)": {
-        "Cagliari": 3.1,
-        "Monza": 2.25,
-        "Draw": 3.3
-      },
-      "Winamax (FR)": {
-        "Cagliari": 3.0,
-        "Monza": 2.2,
-        "Draw": 3.2
-      },
-      "Marathon Bet": {
-        "Cagliari": 3.2,
-        "Monza": 2.38,
-        "Draw": 3.2
-      },
-      "888sport": {
-        "Cagliari": 3.1,
-        "Monza": 2.3,
-        "Draw": 3.1
-      },
-      "William Hill": {
-        "Cagliari": 3.1,
-        "Monza": 2.3,
-        "Draw": 3.1
+        "Al-Faisaly KSA FC": 10.0,
+        "Al-Shabab": 6.0,
+        "Draw": 1.2
       },
       "Betfair": {
-        "Cagliari": 3.4,
-        "Monza": 2.44,
-        "Draw": 3.35
-      },
-      "Nordic Bet": {
-        "Cagliari": 3.15,
-        "Monza": 2.32,
-        "Draw": 3.25
-      },
-      "Betsson": {
-        "Cagliari": 3.15,
-        "Monza": 2.32,
-        "Draw": 3.25
-      },
-      "PMU (FR)": {
-        "Cagliari": 3.05,
-        "Monza": 2.2,
-        "Draw": 3.05
-      },
-      "Unibet (NL)": {
-        "Cagliari": 3.25,
-        "Monza": 2.32,
-        "Draw": 3.25
-      },
-      "LeoVegas (SE)": {
-        "Cagliari": 3.15,
-        "Monza": 2.25,
-        "Draw": 3.1
-      },
-      "Unibet (SE)": {
-        "Cagliari": 3.35,
-        "Monza": 2.38,
-        "Draw": 3.35
-      },
-      "Everygame": {
-        "Cagliari": 3.3,
-        "Monza": 2.25,
-        "Draw": 3.2
-      },
-      "Matchbook": {
-        "Cagliari": 3.4,
-        "Monza": 2.44,
-        "Draw": 3.35
-      },
-      "GTbets": {
-        "Cagliari": 3.23,
-        "Monza": 2.33,
-        "Draw": 3.2
-      },
-      "Coolbet": {
-        "Cagliari": 3.33,
-        "Monza": 2.36,
-        "Draw": 3.3
-      },
-      "BetOnline.ag": {
-        "Cagliari": 3.35,
-        "Monza": 2.32,
-        "Draw": 3.28
-      },
-      "BetAnything": {
-        "Cagliari": 3.35,
-        "Monza": 2.32,
-        "Draw": 3.28
+        "Al-Faisaly KSA FC": 10.0,
+        "Al-Shabab": 5.8,
+        "Draw": 1.31
       }
     },
-    "112b2db1da65ca0968d2c126edd6887e:h2h": {
-      "Marathon Bet": {
-        "Besiktas JK": 2.48,
-        "Trabzonspor": 2.47,
-        "Draw": 3.74
-      },
-      "Nordic Bet": {
-        "Besiktas JK": 2.6,
-        "Trabzonspor": 2.37,
-        "Draw": 3.67
-      },
-      "Winamax (DE)": {
-        "Besiktas JK": 2.5,
-        "Trabzonspor": 2.35,
-        "Draw": 3.7
-      },
-      "Unibet (FR)": {
-        "Besiktas JK": 2.35,
-        "Trabzonspor": 2.35,
-        "Draw": 3.6
-      },
-      "Coolbet": {
-        "Besiktas JK": 2.5,
-        "Trabzonspor": 2.5,
-        "Draw": 4.0
-      },
-      "Winamax (FR)": {
-        "Besiktas JK": 2.45,
-        "Trabzonspor": 2.3,
-        "Draw": 3.6
-      },
-      "1xBet": {
-        "Besiktas JK": 2.59,
-        "Trabzonspor": 2.58,
-        "Draw": 3.9
-      },
-      "Betsson": {
-        "Besiktas JK": 2.62,
-        "Trabzonspor": 2.38,
-        "Draw": 3.7
-      },
-      "Betclic (FR)": {
-        "Besiktas JK": 2.55,
-        "Trabzonspor": 2.33,
-        "Draw": 3.6
-      },
-      "888sport": {
-        "Besiktas JK": 2.5,
-        "Trabzonspor": 2.45,
-        "Draw": 3.5
-      },
-      "Codere (IT)": {
-        "Besiktas JK": 2.6,
-        "Trabzonspor": 2.44,
-        "Draw": 3.7
-      },
-      "Tipico": {
-        "Besiktas JK": 2.65,
-        "Trabzonspor": 2.4,
-        "Draw": 3.8
+    "e29baa6875ed873e0d4c0eda72999cd2:h2h": {
+      "Unibet (SE)": {
+        "Al-Hazem": 19.0,
+        "Al-Hilal": 2.65,
+        "Draw": 1.55
       },
       "LeoVegas (SE)": {
-        "Besiktas JK": 2.43,
-        "Trabzonspor": 2.45,
-        "Draw": 3.5
-      },
-      "Unibet (NL)": {
-        "Besiktas JK": 2.48,
-        "Trabzonspor": 2.48,
-        "Draw": 3.55
+        "Al-Hazem": 18.0,
+        "Al-Hilal": 2.5,
+        "Draw": 1.47
       },
       "PMU (FR)": {
-        "Besiktas JK": 2.4,
-        "Trabzonspor": 2.43,
-        "Draw": 3.45
+        "Al-Hazem": 17.0,
+        "Al-Hilal": 2.38,
+        "Draw": 1.38
       },
-      "Unibet (SE)": {
-        "Besiktas JK": 2.48,
-        "Trabzonspor": 2.48,
-        "Draw": 3.55
+      "Unibet (NL)": {
+        "Al-Hazem": 18.0,
+        "Al-Hilal": 2.55,
+        "Draw": 1.49
       },
-      "GTbets": {
-        "Besiktas JK": 2.45,
-        "Trabzonspor": 2.56,
-        "Draw": 3.63
+      "Pinnacle": {
+        "Al-Hazem": 14.97,
+        "Al-Hilal": 1.74,
+        "Draw": 2.36
       },
-      "BetOnline.ag": {
-        "Besiktas JK": 2.62,
-        "Trabzonspor": 2.53,
-        "Draw": 3.8
+      "Betclic (FR)": {
+        "Al-Hazem": 14.25,
+        "Al-Hilal": 2.23,
+        "Draw": 1.67
+      },
+      "Winamax (FR)": {
+        "Al-Hazem": 19.0,
+        "Al-Hilal": 2.45,
+        "Draw": 1.48
+      },
+      "Winamax (DE)": {
+        "Al-Hazem": 20.0,
+        "Al-Hilal": 2.4,
+        "Draw": 1.58
+      },
+      "888sport": {
+        "Al-Hazem": 17.0,
+        "Al-Hilal": 2.38,
+        "Draw": 1.53
+      },
+      "William Hill": {
+        "Al-Hazem": 19.0,
+        "Al-Hilal": 2.15,
+        "Draw": 1.62
+      },
+      "Tipico": {
+        "Al-Hazem": 22.0,
+        "Al-Hilal": 2.2,
+        "Draw": 1.65
       },
       "Betfair": {
-        "Besiktas JK": 2.78,
-        "Trabzonspor": 2.54,
-        "Draw": 3.95
+        "Al-Hazem": 26.0,
+        "Al-Hilal": 2.7,
+        "Draw": 1.66
+      }
+    },
+    "d851ff25af980dc2572dec1a9b95a1b2:h2h": {
+      "Betclic (FR)": {
+        "Celta Fortuna": 3.4,
+        "Tenerife": 2.6,
+        "Draw": 2.07
+      },
+      "Betsson": {
+        "Celta Fortuna": 3.65,
+        "Tenerife": 2.88,
+        "Draw": 2.1
+      },
+      "Nordic Bet": {
+        "Celta Fortuna": 3.65,
+        "Tenerife": 2.88,
+        "Draw": 2.1
+      },
+      "Marathon Bet": {
+        "Celta Fortuna": 3.72,
+        "Tenerife": 2.99,
+        "Draw": 2.0
+      },
+      "Winamax (FR)": {
+        "Celta Fortuna": 3.45,
+        "Tenerife": 2.75,
+        "Draw": 2.05
+      },
+      "Winamax (DE)": {
+        "Celta Fortuna": 3.75,
+        "Tenerife": 2.75,
+        "Draw": 2.1
+      },
+      "PMU (FR)": {
+        "Celta Fortuna": 2.9,
+        "Tenerife": 3.1,
+        "Draw": 1.85
+      },
+      "LeoVegas (SE)": {
+        "Celta Fortuna": 2.95,
+        "Tenerife": 3.15,
+        "Draw": 1.88
+      },
+      "Unibet (SE)": {
+        "Celta Fortuna": 3.15,
+        "Tenerife": 3.35,
+        "Draw": 2.02
+      },
+      "Pinnacle": {
+        "Celta Fortuna": 1.55,
+        "Tenerife": 7.82,
+        "Draw": 3.51
+      },
+      "Tipico": {
+        "Celta Fortuna": 4.0,
+        "Tenerife": 3.0,
+        "Draw": 1.9
+      },
+      "Coolbet": {
+        "Celta Fortuna": 3.8,
+        "Tenerife": 2.88,
+        "Draw": 2.2
+      },
+      "Betfair": {
+        "Celta Fortuna": 4.2,
+        "Tenerife": 3.35,
+        "Draw": 2.14
       },
       "Matchbook": {
-        "Besiktas JK": 2.78,
-        "Trabzonspor": 2.56,
-        "Draw": 3.95
+        "Celta Fortuna": 4.4,
+        "Tenerife": 3.15,
+        "Draw": 2.14
+      }
+    },
+    "5a031cb149bb7763d342b977c6126ff5:h2h": {
+      "Nordic Bet": {
+        "Galway United": 29.0,
+        "Waterford FC": 1.02,
+        "Draw": 12.0
+      },
+      "Betsson": {
+        "Galway United": 29.0,
+        "Waterford FC": 1.02,
+        "Draw": 12.0
+      },
+      "Winamax (DE)": {
+        "Galway United": 48.0,
+        "Waterford FC": 1.03,
+        "Draw": 14.5
+      },
+      "Winamax (FR)": {
+        "Galway United": 50.0,
+        "Waterford FC": 1.05,
+        "Draw": 14.0
+      },
+      "Unibet (SE)": {
+        "Galway United": 31.0,
+        "Waterford FC": 1.04,
+        "Draw": 12.0
+      },
+      "Unibet (NL)": {
+        "Galway United": 31.0,
+        "Waterford FC": 1.04,
+        "Draw": 12.5
+      },
+      "Coolbet": {
+        "Galway United": 32.5,
+        "Waterford FC": 1.02,
+        "Draw": 12.0
+      },
+      "Betfair": {
+        "Galway United": 70.0,
+        "Waterford FC": 1.07,
+        "Draw": 17.0
+      },
+      "Matchbook": {
+        "Galway United": 55.0,
+        "Waterford FC": 1.07,
+        "Draw": 16.5
       }
     }
   },
@@ -9152,12 +9077,961 @@
       "confidence": 6,
       "alert_type": "value",
       "alerted_at": "2026-10-19T04:31:05.945556+00:00"
+    },
+    {
+      "state_key": "8f0664f036984ca8585a3d3bb88ebc0f:h2h",
+      "event_id": "8f0664f036984ca8585a3d3bb88ebc0f",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Shabab",
+      "away_team": "Al-Faisaly KSA FC",
+      "commence_time": "2026-10-19T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Faisaly KSA FC",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 71,
+      "alert_type": "value",
+      "alerted_at": "2026-10-19T19:50:07.443734+00:00"
+    },
+    {
+      "state_key": "8f0664f036984ca8585a3d3bb88ebc0f:h2h",
+      "event_id": "8f0664f036984ca8585a3d3bb88ebc0f",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Shabab",
+      "away_team": "Al-Faisaly KSA FC",
+      "commence_time": "2026-10-19T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Shabab",
+      "odds_at_alert": 7.0,
+      "stake_pct": 5.0,
+      "confidence": 49,
+      "alert_type": "value",
+      "alerted_at": "2026-10-19T19:50:08.005694+00:00"
+    },
+    {
+      "state_key": "8f0664f036984ca8585a3d3bb88ebc0f:h2h",
+      "event_id": "8f0664f036984ca8585a3d3bb88ebc0f",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Shabab",
+      "away_team": "Al-Faisaly KSA FC",
+      "commence_time": "2026-10-19T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Faisaly KSA FC",
+      "odds_at_alert": 9.5,
+      "stake_pct": 5.0,
+      "confidence": 47,
+      "alert_type": "value",
+      "alerted_at": "2026-10-19T19:50:08.500165+00:00"
+    },
+    {
+      "state_key": "8f0664f036984ca8585a3d3bb88ebc0f:h2h",
+      "event_id": "8f0664f036984ca8585a3d3bb88ebc0f",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Shabab",
+      "away_team": "Al-Faisaly KSA FC",
+      "commence_time": "2026-10-19T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Shabab",
+      "odds_at_alert": 6.25,
+      "stake_pct": 5.0,
+      "confidence": 33,
+      "alert_type": "value",
+      "alerted_at": "2026-10-19T19:50:09.004513+00:00"
+    },
+    {
+      "state_key": "8f0664f036984ca8585a3d3bb88ebc0f:h2h",
+      "event_id": "8f0664f036984ca8585a3d3bb88ebc0f",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Shabab",
+      "away_team": "Al-Faisaly KSA FC",
+      "commence_time": "2026-10-19T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Faisaly KSA FC",
+      "odds_at_alert": 10.0,
+      "stake_pct": 5.0,
+      "confidence": 55,
+      "alert_type": "value",
+      "alerted_at": "2026-10-19T19:50:09.575900+00:00"
+    },
+    {
+      "state_key": "8f0664f036984ca8585a3d3bb88ebc0f:h2h",
+      "event_id": "8f0664f036984ca8585a3d3bb88ebc0f",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Shabab",
+      "away_team": "Al-Faisaly KSA FC",
+      "commence_time": "2026-10-19T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Shabab",
+      "odds_at_alert": 6.75,
+      "stake_pct": 5.0,
+      "confidence": 44,
+      "alert_type": "value",
+      "alerted_at": "2026-10-19T19:50:10.153042+00:00"
+    },
+    {
+      "state_key": "8f0664f036984ca8585a3d3bb88ebc0f:h2h",
+      "event_id": "8f0664f036984ca8585a3d3bb88ebc0f",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Shabab",
+      "away_team": "Al-Faisaly KSA FC",
+      "commence_time": "2026-10-19T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Faisaly KSA FC",
+      "odds_at_alert": 10.0,
+      "stake_pct": 5.0,
+      "confidence": 55,
+      "alert_type": "value",
+      "alerted_at": "2026-10-19T19:50:10.685718+00:00"
+    },
+    {
+      "state_key": "8f0664f036984ca8585a3d3bb88ebc0f:h2h",
+      "event_id": "8f0664f036984ca8585a3d3bb88ebc0f",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Shabab",
+      "away_team": "Al-Faisaly KSA FC",
+      "commence_time": "2026-10-19T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Shabab",
+      "odds_at_alert": 6.75,
+      "stake_pct": 5.0,
+      "confidence": 44,
+      "alert_type": "value",
+      "alerted_at": "2026-10-19T19:50:11.206578+00:00"
+    },
+    {
+      "state_key": "8f0664f036984ca8585a3d3bb88ebc0f:h2h",
+      "event_id": "8f0664f036984ca8585a3d3bb88ebc0f",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Shabab",
+      "away_team": "Al-Faisaly KSA FC",
+      "commence_time": "2026-10-19T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Faisaly KSA FC",
+      "odds_at_alert": 9.5,
+      "stake_pct": 5.0,
+      "confidence": 47,
+      "alert_type": "value",
+      "alerted_at": "2026-10-19T19:50:11.815216+00:00"
+    },
+    {
+      "state_key": "8f0664f036984ca8585a3d3bb88ebc0f:h2h",
+      "event_id": "8f0664f036984ca8585a3d3bb88ebc0f",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Shabab",
+      "away_team": "Al-Faisaly KSA FC",
+      "commence_time": "2026-10-19T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Shabab",
+      "odds_at_alert": 7.25,
+      "stake_pct": 5.0,
+      "confidence": 54,
+      "alert_type": "value",
+      "alerted_at": "2026-10-19T19:50:12.394037+00:00"
+    },
+    {
+      "state_key": "8f0664f036984ca8585a3d3bb88ebc0f:h2h",
+      "event_id": "8f0664f036984ca8585a3d3bb88ebc0f",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Shabab",
+      "away_team": "Al-Faisaly KSA FC",
+      "commence_time": "2026-10-19T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Faisaly KSA FC",
+      "odds_at_alert": 9.0,
+      "stake_pct": 5.0,
+      "confidence": 40,
+      "alert_type": "value",
+      "alerted_at": "2026-10-19T19:50:12.934667+00:00"
+    },
+    {
+      "state_key": "8f0664f036984ca8585a3d3bb88ebc0f:h2h",
+      "event_id": "8f0664f036984ca8585a3d3bb88ebc0f",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Shabab",
+      "away_team": "Al-Faisaly KSA FC",
+      "commence_time": "2026-10-19T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Shabab",
+      "odds_at_alert": 7.0,
+      "stake_pct": 5.0,
+      "confidence": 49,
+      "alert_type": "value",
+      "alerted_at": "2026-10-19T19:50:13.492831+00:00"
+    },
+    {
+      "state_key": "8f0664f036984ca8585a3d3bb88ebc0f:h2h",
+      "event_id": "8f0664f036984ca8585a3d3bb88ebc0f",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Shabab",
+      "away_team": "Al-Faisaly KSA FC",
+      "commence_time": "2026-10-19T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Faisaly KSA FC",
+      "odds_at_alert": 10.0,
+      "stake_pct": 5.0,
+      "confidence": 55,
+      "alert_type": "value",
+      "alerted_at": "2026-10-19T19:50:14.002583+00:00"
+    },
+    {
+      "state_key": "8f0664f036984ca8585a3d3bb88ebc0f:h2h",
+      "event_id": "8f0664f036984ca8585a3d3bb88ebc0f",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Shabab",
+      "away_team": "Al-Faisaly KSA FC",
+      "commence_time": "2026-10-19T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Shabab",
+      "odds_at_alert": 7.0,
+      "stake_pct": 5.0,
+      "confidence": 49,
+      "alert_type": "value",
+      "alerted_at": "2026-10-19T19:50:14.520366+00:00"
+    },
+    {
+      "state_key": "8f0664f036984ca8585a3d3bb88ebc0f:h2h",
+      "event_id": "8f0664f036984ca8585a3d3bb88ebc0f",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Shabab",
+      "away_team": "Al-Faisaly KSA FC",
+      "commence_time": "2026-10-19T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Faisaly KSA FC",
+      "odds_at_alert": 8.0,
+      "stake_pct": 5.0,
+      "confidence": 24,
+      "alert_type": "value",
+      "alerted_at": "2026-10-19T19:50:15.017260+00:00"
+    },
+    {
+      "state_key": "8f0664f036984ca8585a3d3bb88ebc0f:h2h",
+      "event_id": "8f0664f036984ca8585a3d3bb88ebc0f",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Shabab",
+      "away_team": "Al-Faisaly KSA FC",
+      "commence_time": "2026-10-19T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Shabab",
+      "odds_at_alert": 6.0,
+      "stake_pct": 5.0,
+      "confidence": 28,
+      "alert_type": "value",
+      "alerted_at": "2026-10-19T19:50:15.513174+00:00"
+    },
+    {
+      "state_key": "8f0664f036984ca8585a3d3bb88ebc0f:h2h",
+      "event_id": "8f0664f036984ca8585a3d3bb88ebc0f",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Shabab",
+      "away_team": "Al-Faisaly KSA FC",
+      "commence_time": "2026-10-19T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Faisaly KSA FC",
+      "odds_at_alert": 7.75,
+      "stake_pct": 5.0,
+      "confidence": 20,
+      "alert_type": "value",
+      "alerted_at": "2026-10-19T19:50:16.133686+00:00"
+    },
+    {
+      "state_key": "8f0664f036984ca8585a3d3bb88ebc0f:h2h",
+      "event_id": "8f0664f036984ca8585a3d3bb88ebc0f",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Shabab",
+      "away_team": "Al-Faisaly KSA FC",
+      "commence_time": "2026-10-19T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Shabab",
+      "odds_at_alert": 5.75,
+      "stake_pct": 5.0,
+      "confidence": 22,
+      "alert_type": "value",
+      "alerted_at": "2026-10-19T19:50:16.655656+00:00"
+    },
+    {
+      "state_key": "8f0664f036984ca8585a3d3bb88ebc0f:h2h",
+      "event_id": "8f0664f036984ca8585a3d3bb88ebc0f",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Shabab",
+      "away_team": "Al-Faisaly KSA FC",
+      "commence_time": "2026-10-19T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Faisaly KSA FC",
+      "odds_at_alert": 10.0,
+      "stake_pct": 5.0,
+      "confidence": 55,
+      "alert_type": "value",
+      "alerted_at": "2026-10-19T19:50:17.184256+00:00"
+    },
+    {
+      "state_key": "8f0664f036984ca8585a3d3bb88ebc0f:h2h",
+      "event_id": "8f0664f036984ca8585a3d3bb88ebc0f",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Shabab",
+      "away_team": "Al-Faisaly KSA FC",
+      "commence_time": "2026-10-19T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Shabab",
+      "odds_at_alert": 6.0,
+      "stake_pct": 5.0,
+      "confidence": 28,
+      "alert_type": "value",
+      "alerted_at": "2026-10-19T19:50:17.710198+00:00"
+    },
+    {
+      "state_key": "8f0664f036984ca8585a3d3bb88ebc0f:h2h",
+      "event_id": "8f0664f036984ca8585a3d3bb88ebc0f",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Shabab",
+      "away_team": "Al-Faisaly KSA FC",
+      "commence_time": "2026-10-19T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Faisaly KSA FC",
+      "odds_at_alert": 10.0,
+      "stake_pct": 5.0,
+      "confidence": 55,
+      "alert_type": "value",
+      "alerted_at": "2026-10-19T19:50:18.267428+00:00"
+    },
+    {
+      "state_key": "8f0664f036984ca8585a3d3bb88ebc0f:h2h",
+      "event_id": "8f0664f036984ca8585a3d3bb88ebc0f",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Shabab",
+      "away_team": "Al-Faisaly KSA FC",
+      "commence_time": "2026-10-19T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Shabab",
+      "odds_at_alert": 5.8,
+      "stake_pct": 5.0,
+      "confidence": 23,
+      "alert_type": "value",
+      "alerted_at": "2026-10-19T19:50:18.791803+00:00"
+    },
+    {
+      "state_key": "e29baa6875ed873e0d4c0eda72999cd2:h2h",
+      "event_id": "e29baa6875ed873e0d4c0eda72999cd2",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Hilal",
+      "away_team": "Al-Hazem",
+      "commence_time": "2026-10-19T18:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Hazem",
+      "odds_at_alert": 19.0,
+      "stake_pct": 5.0,
+      "confidence": 19,
+      "alert_type": "value",
+      "alerted_at": "2026-10-19T19:50:19.348252+00:00"
+    },
+    {
+      "state_key": "e29baa6875ed873e0d4c0eda72999cd2:h2h",
+      "event_id": "e29baa6875ed873e0d4c0eda72999cd2",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Hilal",
+      "away_team": "Al-Hazem",
+      "commence_time": "2026-10-19T18:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Hilal",
+      "odds_at_alert": 2.65,
+      "stake_pct": 5.0,
+      "confidence": 43,
+      "alert_type": "value",
+      "alerted_at": "2026-10-19T19:50:19.932290+00:00"
+    },
+    {
+      "state_key": "e29baa6875ed873e0d4c0eda72999cd2:h2h",
+      "event_id": "e29baa6875ed873e0d4c0eda72999cd2",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Hilal",
+      "away_team": "Al-Hazem",
+      "commence_time": "2026-10-19T18:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Hazem",
+      "odds_at_alert": 18.0,
+      "stake_pct": 3.0,
+      "confidence": 13,
+      "alert_type": "value",
+      "alerted_at": "2026-10-19T19:50:20.469080+00:00"
+    },
+    {
+      "state_key": "e29baa6875ed873e0d4c0eda72999cd2:h2h",
+      "event_id": "e29baa6875ed873e0d4c0eda72999cd2",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Hilal",
+      "away_team": "Al-Hazem",
+      "commence_time": "2026-10-19T18:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Hilal",
+      "odds_at_alert": 2.5,
+      "stake_pct": 5.0,
+      "confidence": 35,
+      "alert_type": "value",
+      "alerted_at": "2026-10-19T19:50:21.049773+00:00"
+    },
+    {
+      "state_key": "e29baa6875ed873e0d4c0eda72999cd2:h2h",
+      "event_id": "e29baa6875ed873e0d4c0eda72999cd2",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Hilal",
+      "away_team": "Al-Hazem",
+      "commence_time": "2026-10-19T18:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Hazem",
+      "odds_at_alert": 17.0,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-10-19T19:50:21.650201+00:00"
+    },
+    {
+      "state_key": "e29baa6875ed873e0d4c0eda72999cd2:h2h",
+      "event_id": "e29baa6875ed873e0d4c0eda72999cd2",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Hilal",
+      "away_team": "Al-Hazem",
+      "commence_time": "2026-10-19T18:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Hilal",
+      "odds_at_alert": 2.38,
+      "stake_pct": 5.0,
+      "confidence": 28,
+      "alert_type": "value",
+      "alerted_at": "2026-10-19T19:50:22.180052+00:00"
+    },
+    {
+      "state_key": "e29baa6875ed873e0d4c0eda72999cd2:h2h",
+      "event_id": "e29baa6875ed873e0d4c0eda72999cd2",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Hilal",
+      "away_team": "Al-Hazem",
+      "commence_time": "2026-10-19T18:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Hazem",
+      "odds_at_alert": 18.0,
+      "stake_pct": 3.0,
+      "confidence": 13,
+      "alert_type": "value",
+      "alerted_at": "2026-10-19T19:50:22.804060+00:00"
+    },
+    {
+      "state_key": "e29baa6875ed873e0d4c0eda72999cd2:h2h",
+      "event_id": "e29baa6875ed873e0d4c0eda72999cd2",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Hilal",
+      "away_team": "Al-Hazem",
+      "commence_time": "2026-10-19T18:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Hilal",
+      "odds_at_alert": 2.55,
+      "stake_pct": 5.0,
+      "confidence": 38,
+      "alert_type": "value",
+      "alerted_at": "2026-10-19T19:50:23.456878+00:00"
+    },
+    {
+      "state_key": "e29baa6875ed873e0d4c0eda72999cd2:h2h",
+      "event_id": "e29baa6875ed873e0d4c0eda72999cd2",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Hilal",
+      "away_team": "Al-Hazem",
+      "commence_time": "2026-10-19T18:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Hilal",
+      "odds_at_alert": 2.23,
+      "stake_pct": 5.0,
+      "confidence": 20,
+      "alert_type": "value",
+      "alerted_at": "2026-10-19T19:50:24.014843+00:00"
+    },
+    {
+      "state_key": "e29baa6875ed873e0d4c0eda72999cd2:h2h",
+      "event_id": "e29baa6875ed873e0d4c0eda72999cd2",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Hilal",
+      "away_team": "Al-Hazem",
+      "commence_time": "2026-10-19T18:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Hazem",
+      "odds_at_alert": 19.0,
+      "stake_pct": 5.0,
+      "confidence": 19,
+      "alert_type": "value",
+      "alerted_at": "2026-10-19T19:50:24.535485+00:00"
+    },
+    {
+      "state_key": "e29baa6875ed873e0d4c0eda72999cd2:h2h",
+      "event_id": "e29baa6875ed873e0d4c0eda72999cd2",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Hilal",
+      "away_team": "Al-Hazem",
+      "commence_time": "2026-10-19T18:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Hilal",
+      "odds_at_alert": 2.45,
+      "stake_pct": 5.0,
+      "confidence": 32,
+      "alert_type": "value",
+      "alerted_at": "2026-10-19T19:50:25.137190+00:00"
+    },
+    {
+      "state_key": "e29baa6875ed873e0d4c0eda72999cd2:h2h",
+      "event_id": "e29baa6875ed873e0d4c0eda72999cd2",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Hilal",
+      "away_team": "Al-Hazem",
+      "commence_time": "2026-10-19T18:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Hazem",
+      "odds_at_alert": 20.0,
+      "stake_pct": 5.0,
+      "confidence": 25,
+      "alert_type": "value",
+      "alerted_at": "2026-10-19T19:50:25.717847+00:00"
+    },
+    {
+      "state_key": "e29baa6875ed873e0d4c0eda72999cd2:h2h",
+      "event_id": "e29baa6875ed873e0d4c0eda72999cd2",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Hilal",
+      "away_team": "Al-Hazem",
+      "commence_time": "2026-10-19T18:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Hilal",
+      "odds_at_alert": 2.4,
+      "stake_pct": 5.0,
+      "confidence": 29,
+      "alert_type": "value",
+      "alerted_at": "2026-10-19T19:50:26.264718+00:00"
+    },
+    {
+      "state_key": "e29baa6875ed873e0d4c0eda72999cd2:h2h",
+      "event_id": "e29baa6875ed873e0d4c0eda72999cd2",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Hilal",
+      "away_team": "Al-Hazem",
+      "commence_time": "2026-10-19T18:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Hazem",
+      "odds_at_alert": 17.0,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-10-19T19:50:26.815914+00:00"
+    },
+    {
+      "state_key": "e29baa6875ed873e0d4c0eda72999cd2:h2h",
+      "event_id": "e29baa6875ed873e0d4c0eda72999cd2",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Hilal",
+      "away_team": "Al-Hazem",
+      "commence_time": "2026-10-19T18:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Hilal",
+      "odds_at_alert": 2.38,
+      "stake_pct": 5.0,
+      "confidence": 28,
+      "alert_type": "value",
+      "alerted_at": "2026-10-19T19:50:27.375088+00:00"
+    },
+    {
+      "state_key": "e29baa6875ed873e0d4c0eda72999cd2:h2h",
+      "event_id": "e29baa6875ed873e0d4c0eda72999cd2",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Hilal",
+      "away_team": "Al-Hazem",
+      "commence_time": "2026-10-19T18:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Hazem",
+      "odds_at_alert": 19.0,
+      "stake_pct": 5.0,
+      "confidence": 19,
+      "alert_type": "value",
+      "alerted_at": "2026-10-19T19:50:28.010331+00:00"
+    },
+    {
+      "state_key": "e29baa6875ed873e0d4c0eda72999cd2:h2h",
+      "event_id": "e29baa6875ed873e0d4c0eda72999cd2",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Hilal",
+      "away_team": "Al-Hazem",
+      "commence_time": "2026-10-19T18:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Hilal",
+      "odds_at_alert": 2.15,
+      "stake_pct": 5.0,
+      "confidence": 16,
+      "alert_type": "value",
+      "alerted_at": "2026-10-19T19:50:28.548721+00:00"
+    },
+    {
+      "state_key": "e29baa6875ed873e0d4c0eda72999cd2:h2h",
+      "event_id": "e29baa6875ed873e0d4c0eda72999cd2",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Hilal",
+      "away_team": "Al-Hazem",
+      "commence_time": "2026-10-19T18:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Hazem",
+      "odds_at_alert": 22.0,
+      "stake_pct": 5.0,
+      "confidence": 38,
+      "alert_type": "value",
+      "alerted_at": "2026-10-19T19:50:29.122829+00:00"
+    },
+    {
+      "state_key": "e29baa6875ed873e0d4c0eda72999cd2:h2h",
+      "event_id": "e29baa6875ed873e0d4c0eda72999cd2",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Hilal",
+      "away_team": "Al-Hazem",
+      "commence_time": "2026-10-19T18:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Hilal",
+      "odds_at_alert": 2.2,
+      "stake_pct": 5.0,
+      "confidence": 19,
+      "alert_type": "value",
+      "alerted_at": "2026-10-19T19:50:29.669608+00:00"
+    },
+    {
+      "state_key": "e29baa6875ed873e0d4c0eda72999cd2:h2h",
+      "event_id": "e29baa6875ed873e0d4c0eda72999cd2",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Hilal",
+      "away_team": "Al-Hazem",
+      "commence_time": "2026-10-19T18:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Hazem",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 63,
+      "alert_type": "value",
+      "alerted_at": "2026-10-19T19:50:30.356625+00:00"
+    },
+    {
+      "state_key": "e29baa6875ed873e0d4c0eda72999cd2:h2h",
+      "event_id": "e29baa6875ed873e0d4c0eda72999cd2",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Hilal",
+      "away_team": "Al-Hazem",
+      "commence_time": "2026-10-19T18:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Hilal",
+      "odds_at_alert": 2.7,
+      "stake_pct": 5.0,
+      "confidence": 46,
+      "alert_type": "value",
+      "alerted_at": "2026-10-19T19:50:30.884290+00:00"
+    },
+    {
+      "state_key": "d851ff25af980dc2572dec1a9b95a1b2:h2h",
+      "event_id": "d851ff25af980dc2572dec1a9b95a1b2",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Celta Fortuna",
+      "away_team": "Tenerife",
+      "commence_time": "2026-10-19T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Celta Fortuna",
+      "odds_at_alert": 3.4,
+      "stake_pct": 5.0,
+      "confidence": 107,
+      "alert_type": "value",
+      "alerted_at": "2026-10-19T19:50:31.417109+00:00"
+    },
+    {
+      "state_key": "d851ff25af980dc2572dec1a9b95a1b2:h2h",
+      "event_id": "d851ff25af980dc2572dec1a9b95a1b2",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Celta Fortuna",
+      "away_team": "Tenerife",
+      "commence_time": "2026-10-19T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Celta Fortuna",
+      "odds_at_alert": 3.65,
+      "stake_pct": 5.0,
+      "confidence": 123,
+      "alert_type": "value",
+      "alerted_at": "2026-10-19T19:50:31.939504+00:00"
+    },
+    {
+      "state_key": "d851ff25af980dc2572dec1a9b95a1b2:h2h",
+      "event_id": "d851ff25af980dc2572dec1a9b95a1b2",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Celta Fortuna",
+      "away_team": "Tenerife",
+      "commence_time": "2026-10-19T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Celta Fortuna",
+      "odds_at_alert": 3.65,
+      "stake_pct": 5.0,
+      "confidence": 123,
+      "alert_type": "value",
+      "alerted_at": "2026-10-19T19:50:32.460680+00:00"
+    },
+    {
+      "state_key": "d851ff25af980dc2572dec1a9b95a1b2:h2h",
+      "event_id": "d851ff25af980dc2572dec1a9b95a1b2",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Celta Fortuna",
+      "away_team": "Tenerife",
+      "commence_time": "2026-10-19T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Celta Fortuna",
+      "odds_at_alert": 3.72,
+      "stake_pct": 5.0,
+      "confidence": 127,
+      "alert_type": "value",
+      "alerted_at": "2026-10-19T19:50:33.013799+00:00"
+    },
+    {
+      "state_key": "d851ff25af980dc2572dec1a9b95a1b2:h2h",
+      "event_id": "d851ff25af980dc2572dec1a9b95a1b2",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Celta Fortuna",
+      "away_team": "Tenerife",
+      "commence_time": "2026-10-19T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Celta Fortuna",
+      "odds_at_alert": 3.45,
+      "stake_pct": 5.0,
+      "confidence": 110,
+      "alert_type": "value",
+      "alerted_at": "2026-10-19T19:50:33.531269+00:00"
+    },
+    {
+      "state_key": "d851ff25af980dc2572dec1a9b95a1b2:h2h",
+      "event_id": "d851ff25af980dc2572dec1a9b95a1b2",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Celta Fortuna",
+      "away_team": "Tenerife",
+      "commence_time": "2026-10-19T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Celta Fortuna",
+      "odds_at_alert": 3.75,
+      "stake_pct": 5.0,
+      "confidence": 129,
+      "alert_type": "value",
+      "alerted_at": "2026-10-19T19:50:34.048039+00:00"
+    },
+    {
+      "state_key": "d851ff25af980dc2572dec1a9b95a1b2:h2h",
+      "event_id": "d851ff25af980dc2572dec1a9b95a1b2",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Celta Fortuna",
+      "away_team": "Tenerife",
+      "commence_time": "2026-10-19T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Celta Fortuna",
+      "odds_at_alert": 2.9,
+      "stake_pct": 5.0,
+      "confidence": 77,
+      "alert_type": "value",
+      "alerted_at": "2026-10-19T19:50:34.611964+00:00"
+    },
+    {
+      "state_key": "d851ff25af980dc2572dec1a9b95a1b2:h2h",
+      "event_id": "d851ff25af980dc2572dec1a9b95a1b2",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Celta Fortuna",
+      "away_team": "Tenerife",
+      "commence_time": "2026-10-19T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Celta Fortuna",
+      "odds_at_alert": 2.95,
+      "stake_pct": 5.0,
+      "confidence": 80,
+      "alert_type": "value",
+      "alerted_at": "2026-10-19T19:50:35.138876+00:00"
+    },
+    {
+      "state_key": "d851ff25af980dc2572dec1a9b95a1b2:h2h",
+      "event_id": "d851ff25af980dc2572dec1a9b95a1b2",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Celta Fortuna",
+      "away_team": "Tenerife",
+      "commence_time": "2026-10-19T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Celta Fortuna",
+      "odds_at_alert": 3.15,
+      "stake_pct": 5.0,
+      "confidence": 92,
+      "alert_type": "value",
+      "alerted_at": "2026-10-19T19:50:35.637177+00:00"
+    },
+    {
+      "state_key": "d851ff25af980dc2572dec1a9b95a1b2:h2h",
+      "event_id": "d851ff25af980dc2572dec1a9b95a1b2",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Celta Fortuna",
+      "away_team": "Tenerife",
+      "commence_time": "2026-10-19T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Celta Fortuna",
+      "odds_at_alert": 4.0,
+      "stake_pct": 5.0,
+      "confidence": 144,
+      "alert_type": "value",
+      "alerted_at": "2026-10-19T19:50:36.230123+00:00"
+    },
+    {
+      "state_key": "d851ff25af980dc2572dec1a9b95a1b2:h2h",
+      "event_id": "d851ff25af980dc2572dec1a9b95a1b2",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Celta Fortuna",
+      "away_team": "Tenerife",
+      "commence_time": "2026-10-19T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Celta Fortuna",
+      "odds_at_alert": 3.8,
+      "stake_pct": 5.0,
+      "confidence": 132,
+      "alert_type": "value",
+      "alerted_at": "2026-10-19T19:50:36.881414+00:00"
+    },
+    {
+      "state_key": "d851ff25af980dc2572dec1a9b95a1b2:h2h",
+      "event_id": "d851ff25af980dc2572dec1a9b95a1b2",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Celta Fortuna",
+      "away_team": "Tenerife",
+      "commence_time": "2026-10-19T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Celta Fortuna",
+      "odds_at_alert": 4.2,
+      "stake_pct": 5.0,
+      "confidence": 156,
+      "alert_type": "value",
+      "alerted_at": "2026-10-19T19:50:37.433038+00:00"
+    },
+    {
+      "state_key": "d851ff25af980dc2572dec1a9b95a1b2:h2h",
+      "event_id": "d851ff25af980dc2572dec1a9b95a1b2",
+      "sport_key": "soccer",
+      "competition": "La Liga 2 - Spain",
+      "home_team": "Celta Fortuna",
+      "away_team": "Tenerife",
+      "commence_time": "2026-10-19T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Celta Fortuna",
+      "odds_at_alert": 4.4,
+      "stake_pct": 5.0,
+      "confidence": 168,
+      "alert_type": "value",
+      "alerted_at": "2026-10-19T19:50:38.004702+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "dd6d325730c2d5eec2651f7e14d193b2:h2h|1xBet|Al-Fayha",
-    "dd6d325730c2d5eec2651f7e14d193b2:h2h|Betfair|Al-Fayha",
-    "dd6d325730c2d5eec2651f7e14d193b2:h2h|Tipico|Al-Fayha"
+    "8f0664f036984ca8585a3d3bb88ebc0f:h2h|888sport|Al-Faisaly KSA FC",
+    "8f0664f036984ca8585a3d3bb88ebc0f:h2h|888sport|Al-Shabab",
+    "8f0664f036984ca8585a3d3bb88ebc0f:h2h|Betclic (FR)|Al-Faisaly KSA FC",
+    "8f0664f036984ca8585a3d3bb88ebc0f:h2h|Betclic (FR)|Al-Shabab",
+    "8f0664f036984ca8585a3d3bb88ebc0f:h2h|Betfair|Al-Faisaly KSA FC",
+    "8f0664f036984ca8585a3d3bb88ebc0f:h2h|Betfair|Al-Shabab",
+    "8f0664f036984ca8585a3d3bb88ebc0f:h2h|LeoVegas (SE)|Al-Faisaly KSA FC",
+    "8f0664f036984ca8585a3d3bb88ebc0f:h2h|LeoVegas (SE)|Al-Shabab",
+    "8f0664f036984ca8585a3d3bb88ebc0f:h2h|PMU (FR)|Al-Faisaly KSA FC",
+    "8f0664f036984ca8585a3d3bb88ebc0f:h2h|PMU (FR)|Al-Shabab",
+    "8f0664f036984ca8585a3d3bb88ebc0f:h2h|Tipico|Al-Faisaly KSA FC",
+    "8f0664f036984ca8585a3d3bb88ebc0f:h2h|Tipico|Al-Shabab",
+    "8f0664f036984ca8585a3d3bb88ebc0f:h2h|Unibet (NL)|Al-Faisaly KSA FC",
+    "8f0664f036984ca8585a3d3bb88ebc0f:h2h|Unibet (NL)|Al-Shabab",
+    "8f0664f036984ca8585a3d3bb88ebc0f:h2h|Unibet (SE)|Al-Faisaly KSA FC",
+    "8f0664f036984ca8585a3d3bb88ebc0f:h2h|Unibet (SE)|Al-Shabab",
+    "8f0664f036984ca8585a3d3bb88ebc0f:h2h|William Hill|Al-Faisaly KSA FC",
+    "8f0664f036984ca8585a3d3bb88ebc0f:h2h|William Hill|Al-Shabab",
+    "8f0664f036984ca8585a3d3bb88ebc0f:h2h|Winamax (DE)|Al-Faisaly KSA FC",
+    "8f0664f036984ca8585a3d3bb88ebc0f:h2h|Winamax (DE)|Al-Shabab",
+    "8f0664f036984ca8585a3d3bb88ebc0f:h2h|Winamax (FR)|Al-Faisaly KSA FC",
+    "8f0664f036984ca8585a3d3bb88ebc0f:h2h|Winamax (FR)|Al-Shabab",
+    "d851ff25af980dc2572dec1a9b95a1b2:h2h|Betclic (FR)|Celta Fortuna",
+    "d851ff25af980dc2572dec1a9b95a1b2:h2h|Betfair|Celta Fortuna",
+    "d851ff25af980dc2572dec1a9b95a1b2:h2h|Betsson|Celta Fortuna",
+    "d851ff25af980dc2572dec1a9b95a1b2:h2h|Coolbet|Celta Fortuna",
+    "d851ff25af980dc2572dec1a9b95a1b2:h2h|LeoVegas (SE)|Celta Fortuna",
+    "d851ff25af980dc2572dec1a9b95a1b2:h2h|Marathon Bet|Celta Fortuna",
+    "d851ff25af980dc2572dec1a9b95a1b2:h2h|Matchbook|Celta Fortuna",
+    "d851ff25af980dc2572dec1a9b95a1b2:h2h|Nordic Bet|Celta Fortuna",
+    "d851ff25af980dc2572dec1a9b95a1b2:h2h|PMU (FR)|Celta Fortuna",
+    "d851ff25af980dc2572dec1a9b95a1b2:h2h|Tipico|Celta Fortuna",
+    "d851ff25af980dc2572dec1a9b95a1b2:h2h|Unibet (SE)|Celta Fortuna",
+    "d851ff25af980dc2572dec1a9b95a1b2:h2h|Winamax (DE)|Celta Fortuna",
+    "d851ff25af980dc2572dec1a9b95a1b2:h2h|Winamax (FR)|Celta Fortuna",
+    "e29baa6875ed873e0d4c0eda72999cd2:h2h|888sport|Al-Hazem",
+    "e29baa6875ed873e0d4c0eda72999cd2:h2h|888sport|Al-Hilal",
+    "e29baa6875ed873e0d4c0eda72999cd2:h2h|Betclic (FR)|Al-Hilal",
+    "e29baa6875ed873e0d4c0eda72999cd2:h2h|Betfair|Al-Hazem",
+    "e29baa6875ed873e0d4c0eda72999cd2:h2h|Betfair|Al-Hilal",
+    "e29baa6875ed873e0d4c0eda72999cd2:h2h|LeoVegas (SE)|Al-Hazem",
+    "e29baa6875ed873e0d4c0eda72999cd2:h2h|LeoVegas (SE)|Al-Hilal",
+    "e29baa6875ed873e0d4c0eda72999cd2:h2h|PMU (FR)|Al-Hazem",
+    "e29baa6875ed873e0d4c0eda72999cd2:h2h|PMU (FR)|Al-Hilal",
+    "e29baa6875ed873e0d4c0eda72999cd2:h2h|Tipico|Al-Hazem",
+    "e29baa6875ed873e0d4c0eda72999cd2:h2h|Tipico|Al-Hilal",
+    "e29baa6875ed873e0d4c0eda72999cd2:h2h|Unibet (NL)|Al-Hazem",
+    "e29baa6875ed873e0d4c0eda72999cd2:h2h|Unibet (NL)|Al-Hilal",
+    "e29baa6875ed873e0d4c0eda72999cd2:h2h|Unibet (SE)|Al-Hazem",
+    "e29baa6875ed873e0d4c0eda72999cd2:h2h|Unibet (SE)|Al-Hilal",
+    "e29baa6875ed873e0d4c0eda72999cd2:h2h|William Hill|Al-Hazem",
+    "e29baa6875ed873e0d4c0eda72999cd2:h2h|William Hill|Al-Hilal",
+    "e29baa6875ed873e0d4c0eda72999cd2:h2h|Winamax (DE)|Al-Hazem",
+    "e29baa6875ed873e0d4c0eda72999cd2:h2h|Winamax (DE)|Al-Hilal",
+    "e29baa6875ed873e0d4c0eda72999cd2:h2h|Winamax (FR)|Al-Hazem",
+    "e29baa6875ed873e0d4c0eda72999cd2:h2h|Winamax (FR)|Al-Hilal"
   ]
 }
