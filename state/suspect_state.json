@@ -1,246 +1,236 @@
 {
   "snapshots": {
-    "8f0664f036984ca8585a3d3bb88ebc0f:h2h": {
-      "Unibet (SE)": {
-        "Al-Faisaly KSA FC": 11.0,
-        "Al-Shabab": 7.0,
-        "Draw": 1.19
-      },
-      "PMU (FR)": {
-        "Al-Faisaly KSA FC": 9.5,
-        "Al-Shabab": 6.25,
-        "Draw": 1.07
-      },
-      "LeoVegas (SE)": {
-        "Al-Faisaly KSA FC": 10.0,
-        "Al-Shabab": 6.75,
-        "Draw": 1.13
-      },
-      "Unibet (NL)": {
-        "Al-Faisaly KSA FC": 10.0,
-        "Al-Shabab": 6.75,
-        "Draw": 1.14
-      },
-      "Pinnacle": {
-        "Al-Faisaly KSA FC": 5.99,
-        "Al-Shabab": 4.37,
-        "Draw": 1.47
-      },
-      "Winamax (FR)": {
-        "Al-Faisaly KSA FC": 9.5,
-        "Al-Shabab": 7.25,
-        "Draw": 1.15
+    "fc9525fc58447ad3dc2b45a1d27347a0:h2h": {
+      "Betfair": {
+        "Barracas Central": 29.0,
+        "Sarmiento de Junin": 1.29,
+        "Draw": 5.1
       },
       "Winamax (DE)": {
-        "Al-Faisaly KSA FC": 9.0,
-        "Al-Shabab": 7.0,
-        "Draw": 1.18
-      },
-      "888sport": {
-        "Al-Faisaly KSA FC": 10.0,
-        "Al-Shabab": 7.0,
-        "Draw": 1.14
-      },
-      "William Hill": {
-        "Al-Faisaly KSA FC": 8.0,
-        "Al-Shabab": 6.0,
-        "Draw": 1.2
-      },
-      "Betclic (FR)": {
-        "Al-Faisaly KSA FC": 7.75,
-        "Al-Shabab": 5.75,
-        "Draw": 1.19
-      },
-      "Tipico": {
-        "Al-Faisaly KSA FC": 10.0,
-        "Al-Shabab": 6.0,
-        "Draw": 1.2
-      },
-      "Betfair": {
-        "Al-Faisaly KSA FC": 10.0,
-        "Al-Shabab": 5.8,
-        "Draw": 1.31
-      }
-    },
-    "e29baa6875ed873e0d4c0eda72999cd2:h2h": {
-      "Unibet (SE)": {
-        "Al-Hazem": 19.0,
-        "Al-Hilal": 2.65,
-        "Draw": 1.55
-      },
-      "LeoVegas (SE)": {
-        "Al-Hazem": 18.0,
-        "Al-Hilal": 2.5,
-        "Draw": 1.47
-      },
-      "PMU (FR)": {
-        "Al-Hazem": 17.0,
-        "Al-Hilal": 2.38,
-        "Draw": 1.38
-      },
-      "Unibet (NL)": {
-        "Al-Hazem": 18.0,
-        "Al-Hilal": 2.55,
-        "Draw": 1.49
-      },
-      "Pinnacle": {
-        "Al-Hazem": 14.97,
-        "Al-Hilal": 1.74,
-        "Draw": 2.36
-      },
-      "Betclic (FR)": {
-        "Al-Hazem": 14.25,
-        "Al-Hilal": 2.23,
-        "Draw": 1.67
+        "Barracas Central": 26.0,
+        "Sarmiento de Junin": 1.21,
+        "Draw": 4.4
       },
       "Winamax (FR)": {
-        "Al-Hazem": 19.0,
-        "Al-Hilal": 2.45,
-        "Draw": 1.48
+        "Barracas Central": 23.0,
+        "Sarmiento de Junin": 1.24,
+        "Draw": 4.2
       },
-      "Winamax (DE)": {
-        "Al-Hazem": 20.0,
-        "Al-Hilal": 2.4,
-        "Draw": 1.58
-      },
-      "888sport": {
-        "Al-Hazem": 17.0,
-        "Al-Hilal": 2.38,
-        "Draw": 1.53
-      },
-      "William Hill": {
-        "Al-Hazem": 19.0,
-        "Al-Hilal": 2.15,
-        "Draw": 1.62
-      },
-      "Tipico": {
-        "Al-Hazem": 22.0,
-        "Al-Hilal": 2.2,
-        "Draw": 1.65
-      },
-      "Betfair": {
-        "Al-Hazem": 26.0,
-        "Al-Hilal": 2.7,
-        "Draw": 1.66
-      }
-    },
-    "d851ff25af980dc2572dec1a9b95a1b2:h2h": {
       "Betclic (FR)": {
-        "Celta Fortuna": 3.4,
-        "Tenerife": 2.6,
-        "Draw": 2.07
-      },
-      "Betsson": {
-        "Celta Fortuna": 3.65,
-        "Tenerife": 2.88,
-        "Draw": 2.1
+        "Barracas Central": 18.75,
+        "Sarmiento de Junin": 1.19,
+        "Draw": 4.05
       },
       "Nordic Bet": {
-        "Celta Fortuna": 3.65,
-        "Tenerife": 2.88,
-        "Draw": 2.1
+        "Barracas Central": 24.0,
+        "Sarmiento de Junin": 1.2,
+        "Draw": 4.4
+      },
+      "Betsson": {
+        "Barracas Central": 24.0,
+        "Sarmiento de Junin": 1.2,
+        "Draw": 4.4
       },
       "Marathon Bet": {
-        "Celta Fortuna": 3.72,
-        "Tenerife": 2.99,
-        "Draw": 2.0
-      },
-      "Winamax (FR)": {
-        "Celta Fortuna": 3.45,
-        "Tenerife": 2.75,
-        "Draw": 2.05
-      },
-      "Winamax (DE)": {
-        "Celta Fortuna": 3.75,
-        "Tenerife": 2.75,
-        "Draw": 2.1
-      },
-      "PMU (FR)": {
-        "Celta Fortuna": 2.9,
-        "Tenerife": 3.1,
-        "Draw": 1.85
+        "Barracas Central": 21.0,
+        "Sarmiento de Junin": 1.21,
+        "Draw": 4.9
       },
       "LeoVegas (SE)": {
-        "Celta Fortuna": 2.95,
-        "Tenerife": 3.15,
-        "Draw": 1.88
+        "Barracas Central": 18.0,
+        "Sarmiento de Junin": 1.19,
+        "Draw": 4.1
       },
       "Unibet (SE)": {
-        "Celta Fortuna": 3.15,
-        "Tenerife": 3.35,
-        "Draw": 2.02
+        "Barracas Central": 20.0,
+        "Sarmiento de Junin": 1.24,
+        "Draw": 4.5
       },
       "Pinnacle": {
-        "Celta Fortuna": 1.55,
-        "Tenerife": 7.82,
-        "Draw": 3.51
-      },
-      "Tipico": {
-        "Celta Fortuna": 4.0,
-        "Tenerife": 3.0,
-        "Draw": 1.9
-      },
-      "Coolbet": {
-        "Celta Fortuna": 3.8,
-        "Tenerife": 2.88,
-        "Draw": 2.2
-      },
-      "Betfair": {
-        "Celta Fortuna": 4.2,
-        "Tenerife": 3.35,
-        "Draw": 2.14
-      },
-      "Matchbook": {
-        "Celta Fortuna": 4.4,
-        "Tenerife": 3.15,
-        "Draw": 2.14
+        "Barracas Central": 17.44,
+        "Sarmiento de Junin": 1.29,
+        "Draw": 4.47
       }
     },
-    "5a031cb149bb7763d342b977c6126ff5:h2h": {
-      "Nordic Bet": {
-        "Galway United": 29.0,
-        "Waterford FC": 1.02,
-        "Draw": 12.0
-      },
-      "Betsson": {
-        "Galway United": 29.0,
-        "Waterford FC": 1.02,
-        "Draw": 12.0
+    "276cd3e5d938af3e99fe25654b770e52:h2h": {
+      "Betfair": {
+        "Central Córdoba": 2.1,
+        "Newells Old Boys": 1.12,
+        "Draw": 4.9
       },
       "Winamax (DE)": {
-        "Galway United": 48.0,
-        "Waterford FC": 1.03,
-        "Draw": 14.5
+        "Central Córdoba": 48.0,
+        "Newells Old Boys": 1.09,
+        "Draw": 6.75
       },
       "Winamax (FR)": {
-        "Galway United": 50.0,
-        "Waterford FC": 1.05,
-        "Draw": 14.0
+        "Central Córdoba": 46.0,
+        "Newells Old Boys": 1.13,
+        "Draw": 6.25
       },
-      "Unibet (SE)": {
-        "Galway United": 31.0,
-        "Waterford FC": 1.04,
-        "Draw": 12.0
+      "Betclic (FR)": {
+        "Central Córdoba": 75.0,
+        "Newells Old Boys": 1.04,
+        "Draw": 20.0
       },
-      "Unibet (NL)": {
-        "Galway United": 31.0,
-        "Waterford FC": 1.04,
-        "Draw": 12.5
-      },
-      "Coolbet": {
-        "Galway United": 32.5,
-        "Waterford FC": 1.02,
-        "Draw": 12.0
-      },
-      "Betfair": {
-        "Galway United": 70.0,
-        "Waterford FC": 1.07,
+      "Betsson": {
+        "Central Córdoba": 56.0,
+        "Newells Old Boys": 1.0,
         "Draw": 17.0
       },
+      "Nordic Bet": {
+        "Central Córdoba": 56.0,
+        "Newells Old Boys": 1.0,
+        "Draw": 17.0
+      },
+      "Unibet (SE)": {
+        "Central Córdoba": 161.0,
+        "Newells Old Boys": 1.01,
+        "Draw": 29.0
+      }
+    },
+    "d723febf29697d2e3fff924d6f7bc813:h2h": {
+      "888sport": {
+        "Goiás": 1.73,
+        "Nautico PE": 5.75,
+        "Draw": 2.8
+      },
+      "Nordic Bet": {
+        "Goiás": 1.8,
+        "Nautico PE": 6.3,
+        "Draw": 2.65
+      },
+      "Betsson": {
+        "Goiás": 1.8,
+        "Nautico PE": 6.3,
+        "Draw": 2.65
+      },
+      "Marathon Bet": {
+        "Goiás": 1.76,
+        "Nautico PE": 6.2,
+        "Draw": 2.64
+      },
+      "Coolbet": {
+        "Goiás": 1.8,
+        "Nautico PE": 6.0,
+        "Draw": 2.75
+      },
+      "Unibet (SE)": {
+        "Goiás": 1.89,
+        "Nautico PE": 5.75,
+        "Draw": 2.65
+      },
+      "Unibet (NL)": {
+        "Goiás": 1.81,
+        "Nautico PE": 5.4,
+        "Draw": 2.5
+      },
+      "LeoVegas (SE)": {
+        "Goiás": 1.8,
+        "Nautico PE": 5.3,
+        "Draw": 2.5
+      },
+      "Pinnacle": {
+        "Goiás": 1.84,
+        "Nautico PE": 6.58,
+        "Draw": 2.7
+      },
+      "Tipico": {
+        "Goiás": 1.7,
+        "Nautico PE": 7.0,
+        "Draw": 2.7
+      },
       "Matchbook": {
-        "Galway United": 55.0,
-        "Waterford FC": 1.07,
-        "Draw": 16.5
+        "Goiás": 1.91,
+        "Nautico PE": 7.2,
+        "Draw": 2.92
+      },
+      "Betfair": {
+        "Goiás": 1.91,
+        "Nautico PE": 7.2,
+        "Draw": 2.9
+      }
+    },
+    "b348b67b1ba8fee3dd512c4205554604:h2h": {
+      "Winamax (FR)": {
+        "Corinthians": 1.6,
+        "Vitoria": 6.25,
+        "Draw": 2.9
+      },
+      "888sport": {
+        "Corinthians": 1.57,
+        "Vitoria": 5.75,
+        "Draw": 3.4
+      },
+      "Coolbet": {
+        "Corinthians": 1.62,
+        "Vitoria": 7.0,
+        "Draw": 3.14
+      },
+      "MyBookie.ag": {
+        "Corinthians": 1.65,
+        "Vitoria": 5.5,
+        "Draw": 3.25
+      },
+      "Winamax (DE)": {
+        "Corinthians": 1.62,
+        "Vitoria": 6.5,
+        "Draw": 3.0
+      },
+      "Unibet (NL)": {
+        "Corinthians": 1.64,
+        "Vitoria": 5.8,
+        "Draw": 2.88
+      },
+      "PMU (FR)": {
+        "Corinthians": 1.57,
+        "Vitoria": 5.75,
+        "Draw": 2.8
+      },
+      "LeoVegas (SE)": {
+        "Corinthians": 1.61,
+        "Vitoria": 5.8,
+        "Draw": 2.85
+      },
+      "Unibet (SE)": {
+        "Corinthians": 1.68,
+        "Vitoria": 6.25,
+        "Draw": 3.05
+      },
+      "Betsson": {
+        "Corinthians": 1.62,
+        "Vitoria": 6.8,
+        "Draw": 3.05
+      },
+      "Nordic Bet": {
+        "Corinthians": 1.6,
+        "Vitoria": 6.8,
+        "Draw": 3.15
+      },
+      "Pinnacle": {
+        "Corinthians": 1.68,
+        "Vitoria": 6.4,
+        "Draw": 3.31
+      },
+      "Marathon Bet": {
+        "Corinthians": 1.63,
+        "Vitoria": 6.35,
+        "Draw": 3.25
+      },
+      "Tipico": {
+        "Corinthians": 1.55,
+        "Vitoria": 7.0,
+        "Draw": 3.2
+      },
+      "Matchbook": {
+        "Corinthians": 1.69,
+        "Vitoria": 7.4,
+        "Draw": 3.5
+      },
+      "Betfair": {
+        "Corinthians": 1.71,
+        "Vitoria": 7.2,
+        "Draw": 3.55
       }
     }
   },
@@ -9973,65 +9963,179 @@
       "confidence": 168,
       "alert_type": "value",
       "alerted_at": "2026-10-19T19:50:38.004702+00:00"
+    },
+    {
+      "state_key": "fc9525fc58447ad3dc2b45a1d27347a0:h2h",
+      "event_id": "fc9525fc58447ad3dc2b45a1d27347a0",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Sarmiento de Junin",
+      "away_team": "Barracas Central",
+      "commence_time": "2026-10-19T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Barracas Central",
+      "odds_at_alert": 29.0,
+      "stake_pct": 5.0,
+      "confidence": 57,
+      "alert_type": "value",
+      "alerted_at": "2026-10-19T23:33:58.786808+00:00"
+    },
+    {
+      "state_key": "fc9525fc58447ad3dc2b45a1d27347a0:h2h",
+      "event_id": "fc9525fc58447ad3dc2b45a1d27347a0",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Sarmiento de Junin",
+      "away_team": "Barracas Central",
+      "commence_time": "2026-10-19T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.1,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-10-19T23:33:59.101240+00:00"
+    },
+    {
+      "state_key": "fc9525fc58447ad3dc2b45a1d27347a0:h2h",
+      "event_id": "fc9525fc58447ad3dc2b45a1d27347a0",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Sarmiento de Junin",
+      "away_team": "Barracas Central",
+      "commence_time": "2026-10-19T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Barracas Central",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 41,
+      "alert_type": "value",
+      "alerted_at": "2026-10-19T23:33:59.459205+00:00"
+    },
+    {
+      "state_key": "fc9525fc58447ad3dc2b45a1d27347a0:h2h",
+      "event_id": "fc9525fc58447ad3dc2b45a1d27347a0",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Sarmiento de Junin",
+      "away_team": "Barracas Central",
+      "commence_time": "2026-10-19T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Barracas Central",
+      "odds_at_alert": 23.0,
+      "stake_pct": 5.0,
+      "confidence": 25,
+      "alert_type": "value",
+      "alerted_at": "2026-10-19T23:33:59.772791+00:00"
+    },
+    {
+      "state_key": "fc9525fc58447ad3dc2b45a1d27347a0:h2h",
+      "event_id": "fc9525fc58447ad3dc2b45a1d27347a0",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Sarmiento de Junin",
+      "away_team": "Barracas Central",
+      "commence_time": "2026-10-19T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Barracas Central",
+      "odds_at_alert": 24.0,
+      "stake_pct": 5.0,
+      "confidence": 30,
+      "alert_type": "value",
+      "alerted_at": "2026-10-19T23:34:00.117197+00:00"
+    },
+    {
+      "state_key": "fc9525fc58447ad3dc2b45a1d27347a0:h2h",
+      "event_id": "fc9525fc58447ad3dc2b45a1d27347a0",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Sarmiento de Junin",
+      "away_team": "Barracas Central",
+      "commence_time": "2026-10-19T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Barracas Central",
+      "odds_at_alert": 24.0,
+      "stake_pct": 5.0,
+      "confidence": 30,
+      "alert_type": "value",
+      "alerted_at": "2026-10-19T23:34:00.443884+00:00"
+    },
+    {
+      "state_key": "fc9525fc58447ad3dc2b45a1d27347a0:h2h",
+      "event_id": "fc9525fc58447ad3dc2b45a1d27347a0",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Sarmiento de Junin",
+      "away_team": "Barracas Central",
+      "commence_time": "2026-10-19T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Barracas Central",
+      "odds_at_alert": 21.0,
+      "stake_pct": 3.0,
+      "confidence": 14,
+      "alert_type": "value",
+      "alerted_at": "2026-10-19T23:34:00.768095+00:00"
+    },
+    {
+      "state_key": "fc9525fc58447ad3dc2b45a1d27347a0:h2h",
+      "event_id": "fc9525fc58447ad3dc2b45a1d27347a0",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Sarmiento de Junin",
+      "away_team": "Barracas Central",
+      "commence_time": "2026-10-19T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Barracas Central",
+      "odds_at_alert": 20.0,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-10-19T23:34:01.097158+00:00"
+    },
+    {
+      "state_key": "b348b67b1ba8fee3dd512c4205554604:h2h",
+      "event_id": "b348b67b1ba8fee3dd512c4205554604",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Corinthians",
+      "away_team": "Vitoria",
+      "commence_time": "2026-10-19T23:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Vitoria",
+      "odds_at_alert": 7.4,
+      "stake_pct": 2.0,
+      "confidence": 10,
+      "alert_type": "value",
+      "alerted_at": "2026-10-19T23:34:01.410307+00:00"
+    },
+    {
+      "state_key": "b348b67b1ba8fee3dd512c4205554604:h2h",
+      "event_id": "b348b67b1ba8fee3dd512c4205554604",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Corinthians",
+      "away_team": "Vitoria",
+      "commence_time": "2026-10-19T23:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Vitoria",
+      "odds_at_alert": 7.2,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-10-19T23:34:01.738891+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "8f0664f036984ca8585a3d3bb88ebc0f:h2h|888sport|Al-Faisaly KSA FC",
-    "8f0664f036984ca8585a3d3bb88ebc0f:h2h|888sport|Al-Shabab",
-    "8f0664f036984ca8585a3d3bb88ebc0f:h2h|Betclic (FR)|Al-Faisaly KSA FC",
-    "8f0664f036984ca8585a3d3bb88ebc0f:h2h|Betclic (FR)|Al-Shabab",
-    "8f0664f036984ca8585a3d3bb88ebc0f:h2h|Betfair|Al-Faisaly KSA FC",
-    "8f0664f036984ca8585a3d3bb88ebc0f:h2h|Betfair|Al-Shabab",
-    "8f0664f036984ca8585a3d3bb88ebc0f:h2h|LeoVegas (SE)|Al-Faisaly KSA FC",
-    "8f0664f036984ca8585a3d3bb88ebc0f:h2h|LeoVegas (SE)|Al-Shabab",
-    "8f0664f036984ca8585a3d3bb88ebc0f:h2h|PMU (FR)|Al-Faisaly KSA FC",
-    "8f0664f036984ca8585a3d3bb88ebc0f:h2h|PMU (FR)|Al-Shabab",
-    "8f0664f036984ca8585a3d3bb88ebc0f:h2h|Tipico|Al-Faisaly KSA FC",
-    "8f0664f036984ca8585a3d3bb88ebc0f:h2h|Tipico|Al-Shabab",
-    "8f0664f036984ca8585a3d3bb88ebc0f:h2h|Unibet (NL)|Al-Faisaly KSA FC",
-    "8f0664f036984ca8585a3d3bb88ebc0f:h2h|Unibet (NL)|Al-Shabab",
-    "8f0664f036984ca8585a3d3bb88ebc0f:h2h|Unibet (SE)|Al-Faisaly KSA FC",
-    "8f0664f036984ca8585a3d3bb88ebc0f:h2h|Unibet (SE)|Al-Shabab",
-    "8f0664f036984ca8585a3d3bb88ebc0f:h2h|William Hill|Al-Faisaly KSA FC",
-    "8f0664f036984ca8585a3d3bb88ebc0f:h2h|William Hill|Al-Shabab",
-    "8f0664f036984ca8585a3d3bb88ebc0f:h2h|Winamax (DE)|Al-Faisaly KSA FC",
-    "8f0664f036984ca8585a3d3bb88ebc0f:h2h|Winamax (DE)|Al-Shabab",
-    "8f0664f036984ca8585a3d3bb88ebc0f:h2h|Winamax (FR)|Al-Faisaly KSA FC",
-    "8f0664f036984ca8585a3d3bb88ebc0f:h2h|Winamax (FR)|Al-Shabab",
-    "d851ff25af980dc2572dec1a9b95a1b2:h2h|Betclic (FR)|Celta Fortuna",
-    "d851ff25af980dc2572dec1a9b95a1b2:h2h|Betfair|Celta Fortuna",
-    "d851ff25af980dc2572dec1a9b95a1b2:h2h|Betsson|Celta Fortuna",
-    "d851ff25af980dc2572dec1a9b95a1b2:h2h|Coolbet|Celta Fortuna",
-    "d851ff25af980dc2572dec1a9b95a1b2:h2h|LeoVegas (SE)|Celta Fortuna",
-    "d851ff25af980dc2572dec1a9b95a1b2:h2h|Marathon Bet|Celta Fortuna",
-    "d851ff25af980dc2572dec1a9b95a1b2:h2h|Matchbook|Celta Fortuna",
-    "d851ff25af980dc2572dec1a9b95a1b2:h2h|Nordic Bet|Celta Fortuna",
-    "d851ff25af980dc2572dec1a9b95a1b2:h2h|PMU (FR)|Celta Fortuna",
-    "d851ff25af980dc2572dec1a9b95a1b2:h2h|Tipico|Celta Fortuna",
-    "d851ff25af980dc2572dec1a9b95a1b2:h2h|Unibet (SE)|Celta Fortuna",
-    "d851ff25af980dc2572dec1a9b95a1b2:h2h|Winamax (DE)|Celta Fortuna",
-    "d851ff25af980dc2572dec1a9b95a1b2:h2h|Winamax (FR)|Celta Fortuna",
-    "e29baa6875ed873e0d4c0eda72999cd2:h2h|888sport|Al-Hazem",
-    "e29baa6875ed873e0d4c0eda72999cd2:h2h|888sport|Al-Hilal",
-    "e29baa6875ed873e0d4c0eda72999cd2:h2h|Betclic (FR)|Al-Hilal",
-    "e29baa6875ed873e0d4c0eda72999cd2:h2h|Betfair|Al-Hazem",
-    "e29baa6875ed873e0d4c0eda72999cd2:h2h|Betfair|Al-Hilal",
-    "e29baa6875ed873e0d4c0eda72999cd2:h2h|LeoVegas (SE)|Al-Hazem",
-    "e29baa6875ed873e0d4c0eda72999cd2:h2h|LeoVegas (SE)|Al-Hilal",
-    "e29baa6875ed873e0d4c0eda72999cd2:h2h|PMU (FR)|Al-Hazem",
-    "e29baa6875ed873e0d4c0eda72999cd2:h2h|PMU (FR)|Al-Hilal",
-    "e29baa6875ed873e0d4c0eda72999cd2:h2h|Tipico|Al-Hazem",
-    "e29baa6875ed873e0d4c0eda72999cd2:h2h|Tipico|Al-Hilal",
-    "e29baa6875ed873e0d4c0eda72999cd2:h2h|Unibet (NL)|Al-Hazem",
-    "e29baa6875ed873e0d4c0eda72999cd2:h2h|Unibet (NL)|Al-Hilal",
-    "e29baa6875ed873e0d4c0eda72999cd2:h2h|Unibet (SE)|Al-Hazem",
-    "e29baa6875ed873e0d4c0eda72999cd2:h2h|Unibet (SE)|Al-Hilal",
-    "e29baa6875ed873e0d4c0eda72999cd2:h2h|William Hill|Al-Hazem",
-    "e29baa6875ed873e0d4c0eda72999cd2:h2h|William Hill|Al-Hilal",
-    "e29baa6875ed873e0d4c0eda72999cd2:h2h|Winamax (DE)|Al-Hazem",
-    "e29baa6875ed873e0d4c0eda72999cd2:h2h|Winamax (DE)|Al-Hilal",
-    "e29baa6875ed873e0d4c0eda72999cd2:h2h|Winamax (FR)|Al-Hazem",
-    "e29baa6875ed873e0d4c0eda72999cd2:h2h|Winamax (FR)|Al-Hilal"
+    "b348b67b1ba8fee3dd512c4205554604:h2h|Betfair|Vitoria",
+    "b348b67b1ba8fee3dd512c4205554604:h2h|Matchbook|Vitoria",
+    "fc9525fc58447ad3dc2b45a1d27347a0:h2h|Betfair|Barracas Central",
+    "fc9525fc58447ad3dc2b45a1d27347a0:h2h|Betfair|Draw",
+    "fc9525fc58447ad3dc2b45a1d27347a0:h2h|Betsson|Barracas Central",
+    "fc9525fc58447ad3dc2b45a1d27347a0:h2h|Marathon Bet|Barracas Central",
+    "fc9525fc58447ad3dc2b45a1d27347a0:h2h|Nordic Bet|Barracas Central",
+    "fc9525fc58447ad3dc2b45a1d27347a0:h2h|Unibet (SE)|Barracas Central",
+    "fc9525fc58447ad3dc2b45a1d27347a0:h2h|Winamax (DE)|Barracas Central",
+    "fc9525fc58447ad3dc2b45a1d27347a0:h2h|Winamax (FR)|Barracas Central"
   ]
 }
