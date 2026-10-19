@@ -24,47 +24,42 @@
       "Unibet (FR)": {
         "Al-Ahli": 1.26,
         "Al-Fayha": 6.4,
-        "Draw": 4.6
-      },
-      "Pinnacle": {
-        "Al-Ahli": 1.37,
-        "Al-Fayha": 7.1,
-        "Draw": 5.34
+        "Draw": 4.55
       },
       "Betfair": {
-        "Al-Ahli": 1.39,
+        "Al-Ahli": 1.4,
         "Al-Fayha": 8.8,
         "Draw": 5.6
       },
       "1xBet": {
-        "Al-Ahli": 1.31,
-        "Al-Fayha": 8.15,
-        "Draw": 5.47
+        "Al-Ahli": 1.33,
+        "Al-Fayha": 7.8,
+        "Draw": 5.27
       },
       "Winamax (FR)": {
-        "Al-Ahli": 1.3,
-        "Al-Fayha": 6.0,
-        "Draw": 4.7
-      },
-      "Winamax (DE)": {
         "Al-Ahli": 1.33,
         "Al-Fayha": 6.25,
+        "Draw": 4.9
+      },
+      "Winamax (DE)": {
+        "Al-Ahli": 1.34,
+        "Al-Fayha": 6.5,
         "Draw": 5.1
       },
       "888sport": {
-        "Al-Ahli": 1.3,
-        "Al-Fayha": 7.0,
-        "Draw": 4.75
+        "Al-Ahli": 1.33,
+        "Al-Fayha": 6.5,
+        "Draw": 4.6
       },
       "William Hill": {
-        "Al-Ahli": 1.3,
-        "Al-Fayha": 7.0,
-        "Draw": 4.75
+        "Al-Ahli": 1.33,
+        "Al-Fayha": 6.5,
+        "Draw": 4.6
       },
       "Tipico": {
         "Al-Ahli": 1.3,
-        "Al-Fayha": 8.0,
-        "Draw": 4.9
+        "Al-Fayha": 7.8,
+        "Draw": 5.0
       }
     },
     "4cbda86aafabc3623d81ce3e1db89bac:h2h": {
@@ -88,10 +83,10 @@
         "VfB Stuttgart": 26.0,
         "Draw": 13.0
       },
-      "Pinnacle": {
-        "Bayern Munich": 1.03,
-        "VfB Stuttgart": 25.94,
-        "Draw": 15.76
+      "Tipico": {
+        "Bayern Munich": 1.01,
+        "VfB Stuttgart": 16.0,
+        "Draw": 15.0
       },
       "William Hill": {
         "Bayern Munich": 1.05,
@@ -105,15 +100,10 @@
       }
     },
     "ce94aca384a20f6af459366da6e1dd21:h2h": {
-      "Pinnacle": {
-        "Cagliari": 3.15,
-        "Monza": 2.51,
-        "Draw": 3.14
-      },
       "Codere (IT)": {
-        "Cagliari": 3.0,
-        "Monza": 2.49,
-        "Draw": 3.2
+        "Cagliari": 3.2,
+        "Monza": 2.33,
+        "Draw": 3.25
       },
       "Unibet (FR)": {
         "Cagliari": 2.85,
@@ -121,136 +111,211 @@
         "Draw": 3.1
       },
       "1xBet": {
-        "Cagliari": 3.25,
-        "Monza": 2.49,
-        "Draw": 3.25
+        "Cagliari": 3.29,
+        "Monza": 2.45,
+        "Draw": 3.29
       },
       "Betclic (FR)": {
-        "Cagliari": 2.93,
-        "Monza": 2.4,
-        "Draw": 3.12
+        "Cagliari": 3.1,
+        "Monza": 2.23,
+        "Draw": 3.13
       },
       "Tipico": {
-        "Cagliari": 2.8,
-        "Monza": 2.55,
-        "Draw": 3.2
-      },
-      "Winamax (DE)": {
-        "Cagliari": 2.9,
-        "Monza": 2.4,
-        "Draw": 3.2
-      },
-      "Winamax (FR)": {
-        "Cagliari": 2.8,
+        "Cagliari": 3.0,
         "Monza": 2.35,
-        "Draw": 3.1
-      },
-      "Marathon Bet": {
-        "Cagliari": 3.16,
-        "Monza": 2.42,
-        "Draw": 3.16
-      },
-      "888sport": {
-        "Cagliari": 2.9,
-        "Monza": 2.4,
-        "Draw": 3.0
-      },
-      "William Hill": {
-        "Cagliari": 2.9,
-        "Monza": 2.4,
-        "Draw": 3.0
-      },
-      "Betfair": {
-        "Cagliari": 3.15,
-        "Monza": 2.58,
         "Draw": 3.3
       },
-      "Nordic Bet": {
+      "Winamax (DE)": {
+        "Cagliari": 3.1,
+        "Monza": 2.25,
+        "Draw": 3.3
+      },
+      "Winamax (FR)": {
         "Cagliari": 3.0,
-        "Monza": 2.45,
+        "Monza": 2.2,
+        "Draw": 3.2
+      },
+      "Marathon Bet": {
+        "Cagliari": 3.2,
+        "Monza": 2.38,
+        "Draw": 3.2
+      },
+      "888sport": {
+        "Cagliari": 3.1,
+        "Monza": 2.3,
         "Draw": 3.1
       },
+      "William Hill": {
+        "Cagliari": 3.1,
+        "Monza": 2.3,
+        "Draw": 3.1
+      },
+      "Betfair": {
+        "Cagliari": 3.4,
+        "Monza": 2.44,
+        "Draw": 3.35
+      },
+      "Nordic Bet": {
+        "Cagliari": 3.15,
+        "Monza": 2.32,
+        "Draw": 3.25
+      },
       "Betsson": {
-        "Cagliari": 3.05,
-        "Monza": 2.48,
-        "Draw": 3.15
+        "Cagliari": 3.15,
+        "Monza": 2.32,
+        "Draw": 3.25
       },
       "PMU (FR)": {
         "Cagliari": 3.05,
-        "Monza": 2.38,
-        "Draw": 3.0
-      },
-      "Unibet (NL)": {
-        "Cagliari": 3.15,
-        "Monza": 2.45,
-        "Draw": 3.1
-      },
-      "LeoVegas (SE)": {
-        "Cagliari": 3.05,
-        "Monza": 2.38,
-        "Draw": 3.0
-      },
-      "Unibet (SE)": {
-        "Cagliari": 3.25,
-        "Monza": 2.5,
-        "Draw": 3.2
-      },
-      "Everygame": {
-        "Cagliari": 3.05,
-        "Monza": 2.4,
+        "Monza": 2.2,
         "Draw": 3.05
       },
-      "Matchbook": {
+      "Unibet (NL)": {
+        "Cagliari": 3.25,
+        "Monza": 2.32,
+        "Draw": 3.25
+      },
+      "LeoVegas (SE)": {
         "Cagliari": 3.15,
-        "Monza": 2.58,
-        "Draw": 3.3
+        "Monza": 2.25,
+        "Draw": 3.1
+      },
+      "Unibet (SE)": {
+        "Cagliari": 3.35,
+        "Monza": 2.38,
+        "Draw": 3.35
+      },
+      "Everygame": {
+        "Cagliari": 3.3,
+        "Monza": 2.25,
+        "Draw": 3.2
+      },
+      "Matchbook": {
+        "Cagliari": 3.4,
+        "Monza": 2.44,
+        "Draw": 3.35
       },
       "GTbets": {
-        "Cagliari": 3.25,
+        "Cagliari": 3.23,
         "Monza": 2.33,
         "Draw": 3.2
       },
       "Coolbet": {
-        "Cagliari": 3.15,
-        "Monza": 2.5,
-        "Draw": 3.2
-      },
-      "BetOnline.ag": {
-        "Cagliari": 3.05,
-        "Monza": 2.52,
-        "Draw": 3.23
-      },
-      "BetAnything": {
-        "Cagliari": 3.05,
-        "Monza": 2.52,
-        "Draw": 3.23
-      }
-    },
-    "5e888a8c2300740c80dca76b9a382dc4:h2h": {
-      "Pinnacle": {
-        "Gazovik Orenburg": 2.36,
-        "Rodina Moscow": 3.11,
-        "Draw": 3.41
-      },
-      "BetOnline.ag": {
-        "Gazovik Orenburg": 2.34,
-        "Rodina Moscow": 3.0,
+        "Cagliari": 3.33,
+        "Monza": 2.36,
         "Draw": 3.3
       },
-      "1xBet": {
-        "Gazovik Orenburg": 2.4,
-        "Rodina Moscow": 3.17,
-        "Draw": 3.52
+      "BetOnline.ag": {
+        "Cagliari": 3.35,
+        "Monza": 2.32,
+        "Draw": 3.28
       },
+      "BetAnything": {
+        "Cagliari": 3.35,
+        "Monza": 2.32,
+        "Draw": 3.28
+      }
+    },
+    "112b2db1da65ca0968d2c126edd6887e:h2h": {
       "Marathon Bet": {
-        "Gazovik Orenburg": 2.34,
-        "Rodina Moscow": 3.1,
-        "Draw": 3.44
+        "Besiktas JK": 2.48,
+        "Trabzonspor": 2.47,
+        "Draw": 3.74
+      },
+      "Nordic Bet": {
+        "Besiktas JK": 2.6,
+        "Trabzonspor": 2.37,
+        "Draw": 3.67
+      },
+      "Winamax (DE)": {
+        "Besiktas JK": 2.5,
+        "Trabzonspor": 2.35,
+        "Draw": 3.7
+      },
+      "Unibet (FR)": {
+        "Besiktas JK": 2.35,
+        "Trabzonspor": 2.35,
+        "Draw": 3.6
+      },
+      "Coolbet": {
+        "Besiktas JK": 2.5,
+        "Trabzonspor": 2.5,
+        "Draw": 4.0
+      },
+      "Winamax (FR)": {
+        "Besiktas JK": 2.45,
+        "Trabzonspor": 2.3,
+        "Draw": 3.6
+      },
+      "1xBet": {
+        "Besiktas JK": 2.59,
+        "Trabzonspor": 2.58,
+        "Draw": 3.9
+      },
+      "Betsson": {
+        "Besiktas JK": 2.62,
+        "Trabzonspor": 2.38,
+        "Draw": 3.7
+      },
+      "Betclic (FR)": {
+        "Besiktas JK": 2.55,
+        "Trabzonspor": 2.33,
+        "Draw": 3.6
+      },
+      "888sport": {
+        "Besiktas JK": 2.5,
+        "Trabzonspor": 2.45,
+        "Draw": 3.5
       },
       "Codere (IT)": {
-        "Gazovik Orenburg": 2.28,
-        "Rodina Moscow": 2.75,
-        "Draw": 3.25
+        "Besiktas JK": 2.6,
+        "Trabzonspor": 2.44,
+        "Draw": 3.7
+      },
+      "Tipico": {
+        "Besiktas JK": 2.65,
+        "Trabzonspor": 2.4,
+        "Draw": 3.8
+      },
+      "LeoVegas (SE)": {
+        "Besiktas JK": 2.43,
+        "Trabzonspor": 2.45,
+        "Draw": 3.5
+      },
+      "Unibet (NL)": {
+        "Besiktas JK": 2.48,
+        "Trabzonspor": 2.48,
+        "Draw": 3.55
+      },
+      "PMU (FR)": {
+        "Besiktas JK": 2.4,
+        "Trabzonspor": 2.43,
+        "Draw": 3.45
+      },
+      "Unibet (SE)": {
+        "Besiktas JK": 2.48,
+        "Trabzonspor": 2.48,
+        "Draw": 3.55
+      },
+      "GTbets": {
+        "Besiktas JK": 2.45,
+        "Trabzonspor": 2.56,
+        "Draw": 3.63
+      },
+      "BetOnline.ag": {
+        "Besiktas JK": 2.62,
+        "Trabzonspor": 2.53,
+        "Draw": 3.8
+      },
+      "Betfair": {
+        "Besiktas JK": 2.78,
+        "Trabzonspor": 2.54,
+        "Draw": 3.95
+      },
+      "Matchbook": {
+        "Besiktas JK": 2.78,
+        "Trabzonspor": 2.56,
+        "Draw": 3.95
       }
     }
   },
