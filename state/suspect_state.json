@@ -1,236 +1,371 @@
 {
   "snapshots": {
-    "fc9525fc58447ad3dc2b45a1d27347a0:h2h": {
-      "Betfair": {
-        "Barracas Central": 29.0,
-        "Sarmiento de Junin": 1.29,
-        "Draw": 5.1
+    "874be9dac6395131abd6442defbe2e80:h2h": {
+      "Unibet (SE)": {
+        "Al-Riyadh": 5.75,
+        "Diriyah Club": 1.45,
+        "Draw": 4.2
       },
-      "Winamax (DE)": {
-        "Barracas Central": 26.0,
-        "Sarmiento de Junin": 1.21,
-        "Draw": 4.4
+      "LeoVegas (SE)": {
+        "Al-Riyadh": 5.6,
+        "Diriyah Club": 1.42,
+        "Draw": 4.1
+      },
+      "PMU (FR)": {
+        "Al-Riyadh": 5.4,
+        "Diriyah Club": 1.38,
+        "Draw": 3.95
+      },
+      "Unibet (NL)": {
+        "Al-Riyadh": 5.75,
+        "Diriyah Club": 1.45,
+        "Draw": 4.2
+      },
+      "Unibet (FR)": {
+        "Al-Riyadh": 4.95,
+        "Diriyah Club": 1.41,
+        "Draw": 3.9
+      },
+      "Betclic (FR)": {
+        "Al-Riyadh": 5.1,
+        "Diriyah Club": 1.47,
+        "Draw": 4.05
+      },
+      "Pinnacle": {
+        "Al-Riyadh": 5.33,
+        "Diriyah Club": 1.57,
+        "Draw": 4.32
+      },
+      "1xBet": {
+        "Al-Riyadh": 5.54,
+        "Diriyah Club": 1.54,
+        "Draw": 4.18
       },
       "Winamax (FR)": {
-        "Barracas Central": 23.0,
-        "Sarmiento de Junin": 1.24,
+        "Al-Riyadh": 4.9,
+        "Diriyah Club": 1.5,
+        "Draw": 4.1
+      },
+      "Winamax (DE)": {
+        "Al-Riyadh": 5.0,
+        "Diriyah Club": 1.5,
+        "Draw": 4.2
+      },
+      "888sport": {
+        "Al-Riyadh": 5.0,
+        "Diriyah Club": 1.5,
+        "Draw": 3.8
+      },
+      "William Hill": {
+        "Al-Riyadh": 5.0,
+        "Diriyah Club": 1.5,
+        "Draw": 3.8
+      },
+      "Betfair": {
+        "Al-Riyadh": 6.0,
+        "Diriyah Club": 1.6,
+        "Draw": 4.4
+      },
+      "Tipico": {
+        "Al-Riyadh": 5.7,
+        "Diriyah Club": 1.45,
+        "Draw": 4.3
+      }
+    },
+    "21f2ca5f676d5d7b30ba37221d9f399a:h2h": {
+      "LeoVegas (SE)": {
+        "Al-Qadsiah": 1.41,
+        "Al-Taawoun": 5.5,
+        "Draw": 4.2
+      },
+      "Unibet (SE)": {
+        "Al-Qadsiah": 1.44,
+        "Al-Taawoun": 5.6,
+        "Draw": 4.3
+      },
+      "PMU (FR)": {
+        "Al-Qadsiah": 1.36,
+        "Al-Taawoun": 5.3,
+        "Draw": 4.1
+      },
+      "Unibet (NL)": {
+        "Al-Qadsiah": 1.44,
+        "Al-Taawoun": 5.6,
+        "Draw": 4.3
+      },
+      "Unibet (FR)": {
+        "Al-Qadsiah": 1.32,
+        "Al-Taawoun": 5.3,
+        "Draw": 4.5
+      },
+      "Betclic (FR)": {
+        "Al-Qadsiah": 1.37,
+        "Al-Taawoun": 5.6,
+        "Draw": 4.75
+      },
+      "Pinnacle": {
+        "Al-Qadsiah": 1.44,
+        "Al-Taawoun": 5.93,
+        "Draw": 5.17
+      },
+      "1xBet": {
+        "Al-Qadsiah": 1.44,
+        "Al-Taawoun": 5.98,
+        "Draw": 4.87
+      },
+      "Winamax (FR)": {
+        "Al-Qadsiah": 1.39,
+        "Al-Taawoun": 5.2,
+        "Draw": 4.8
+      },
+      "Winamax (DE)": {
+        "Al-Qadsiah": 1.41,
+        "Al-Taawoun": 5.4,
+        "Draw": 5.0
+      },
+      "888sport": {
+        "Al-Qadsiah": 1.4,
+        "Al-Taawoun": 5.0,
+        "Draw": 4.5
+      },
+      "William Hill": {
+        "Al-Qadsiah": 1.4,
+        "Al-Taawoun": 5.0,
+        "Draw": 4.5
+      },
+      "Betfair": {
+        "Al-Qadsiah": 1.47,
+        "Al-Taawoun": 6.6,
+        "Draw": 5.6
+      },
+      "Tipico": {
+        "Al-Qadsiah": 1.37,
+        "Al-Taawoun": 6.0,
+        "Draw": 5.0
+      }
+    },
+    "464c74a35c648d4910cc16976ce2f7cd:h2h": {
+      "Coolbet": {
+        "Borussia Dortmund": 1.32,
+        "Sabah FK": 9.75,
+        "Draw": 6.1
+      },
+      "Betclic (FR)": {
+        "Borussia Dortmund": 1.28,
+        "Sabah FK": 8.0,
+        "Draw": 5.6
+      },
+      "Codere (IT)": {
+        "Borussia Dortmund": 1.33,
+        "Sabah FK": 8.2,
+        "Draw": 5.8
+      },
+      "GTbets": {
+        "Borussia Dortmund": 1.33,
+        "Sabah FK": 8.73,
+        "Draw": 6.08
+      },
+      "Unibet (FR)": {
+        "Borussia Dortmund": 1.25,
+        "Sabah FK": 8.1,
+        "Draw": 5.7
+      },
+      "1xBet": {
+        "Borussia Dortmund": 1.33,
+        "Sabah FK": 9.85,
+        "Draw": 6.14
+      },
+      "Betfair": {
+        "Borussia Dortmund": 1.33,
+        "Sabah FK": 10.0,
+        "Draw": 6.4
+      },
+      "Matchbook": {
+        "Borussia Dortmund": 1.33,
+        "Sabah FK": 10.0,
+        "Draw": 6.4
+      },
+      "Pinnacle": {
+        "Borussia Dortmund": 1.33,
+        "Sabah FK": 8.85,
+        "Draw": 5.85
+      },
+      "BetOnline.ag": {
+        "Borussia Dortmund": 1.32,
+        "Sabah FK": 9.3,
+        "Draw": 5.95
+      },
+      "Marathon Bet": {
+        "Borussia Dortmund": 1.31,
+        "Sabah FK": 9.7,
+        "Draw": 6.05
+      },
+      "888sport": {
+        "Borussia Dortmund": 1.3,
+        "Sabah FK": 8.5,
+        "Draw": 5.5
+      },
+      "William Hill": {
+        "Borussia Dortmund": 1.3,
+        "Sabah FK": 8.5,
+        "Draw": 5.5
+      },
+      "Winamax (FR)": {
+        "Borussia Dortmund": 1.28,
+        "Sabah FK": 7.25,
+        "Draw": 5.6
+      },
+      "Winamax (DE)": {
+        "Borussia Dortmund": 1.3,
+        "Sabah FK": 7.75,
+        "Draw": 5.9
+      },
+      "Betsson": {
+        "Borussia Dortmund": 1.3,
+        "Sabah FK": 8.9,
+        "Draw": 5.85
+      },
+      "Nordic Bet": {
+        "Borussia Dortmund": 1.31,
+        "Sabah FK": 9.0,
+        "Draw": 5.95
+      },
+      "LeoVegas (SE)": {
+        "Borussia Dortmund": 1.27,
+        "Sabah FK": 9.0,
+        "Draw": 6.0
+      },
+      "PMU (FR)": {
+        "Borussia Dortmund": 1.23,
+        "Sabah FK": 8.5,
+        "Draw": 5.5
+      },
+      "Unibet (SE)": {
+        "Borussia Dortmund": 1.3,
+        "Sabah FK": 10.0,
+        "Draw": 6.5
+      },
+      "Unibet (NL)": {
+        "Borussia Dortmund": 1.29,
+        "Sabah FK": 10.0,
+        "Draw": 6.5
+      },
+      "BetAnything": {
+        "Borussia Dortmund": 1.32,
+        "Sabah FK": 9.3,
+        "Draw": 5.95
+      }
+    },
+    "16e237246e9bef441e69998d1ef9536d:h2h": {
+      "Codere (IT)": {
+        "Fenerbahce": 1.59,
+        "Slavia Praha": 5.2,
+        "Draw": 4.5
+      },
+      "Coolbet": {
+        "Fenerbahce": 1.63,
+        "Slavia Praha": 5.5,
+        "Draw": 4.45
+      },
+      "GTbets": {
+        "Fenerbahce": 1.57,
+        "Slavia Praha": 5.16,
+        "Draw": 4.29
+      },
+      "Unibet (FR)": {
+        "Fenerbahce": 1.52,
+        "Slavia Praha": 4.9,
         "Draw": 4.2
       },
       "Betclic (FR)": {
-        "Barracas Central": 18.75,
-        "Sarmiento de Junin": 1.19,
-        "Draw": 4.05
+        "Fenerbahce": 1.55,
+        "Slavia Praha": 5.1,
+        "Draw": 4.2
       },
-      "Nordic Bet": {
-        "Barracas Central": 24.0,
-        "Sarmiento de Junin": 1.2,
-        "Draw": 4.4
+      "1xBet": {
+        "Fenerbahce": 1.61,
+        "Slavia Praha": 5.5,
+        "Draw": 4.67
       },
-      "Betsson": {
-        "Barracas Central": 24.0,
-        "Sarmiento de Junin": 1.2,
-        "Draw": 4.4
+      "Pinnacle": {
+        "Fenerbahce": 1.58,
+        "Slavia Praha": 5.35,
+        "Draw": 4.61
+      },
+      "Matchbook": {
+        "Fenerbahce": 1.61,
+        "Slavia Praha": 5.7,
+        "Draw": 4.7
+      },
+      "Betfair": {
+        "Fenerbahce": 1.61,
+        "Slavia Praha": 5.7,
+        "Draw": 4.7
       },
       "Marathon Bet": {
-        "Barracas Central": 21.0,
-        "Sarmiento de Junin": 1.21,
-        "Draw": 4.9
+        "Fenerbahce": 1.57,
+        "Slavia Praha": 5.35,
+        "Draw": 4.55
       },
-      "LeoVegas (SE)": {
-        "Barracas Central": 18.0,
-        "Sarmiento de Junin": 1.19,
-        "Draw": 4.1
+      "BetOnline.ag": {
+        "Fenerbahce": 1.58,
+        "Slavia Praha": 5.35,
+        "Draw": 4.62
       },
-      "Unibet (SE)": {
-        "Barracas Central": 20.0,
-        "Sarmiento de Junin": 1.24,
+      "888sport": {
+        "Fenerbahce": 1.57,
+        "Slavia Praha": 4.8,
+        "Draw": 4.2
+      },
+      "William Hill": {
+        "Fenerbahce": 1.57,
+        "Slavia Praha": 4.8,
+        "Draw": 4.2
+      },
+      "Betsson": {
+        "Fenerbahce": 1.55,
+        "Slavia Praha": 5.4,
         "Draw": 4.5
       },
-      "Pinnacle": {
-        "Barracas Central": 17.44,
-        "Sarmiento de Junin": 1.29,
-        "Draw": 4.47
-      }
-    },
-    "276cd3e5d938af3e99fe25654b770e52:h2h": {
-      "Betfair": {
-        "Central Córdoba": 2.1,
-        "Newells Old Boys": 1.12,
-        "Draw": 4.9
-      },
-      "Winamax (DE)": {
-        "Central Córdoba": 48.0,
-        "Newells Old Boys": 1.09,
-        "Draw": 6.75
+      "Nordic Bet": {
+        "Fenerbahce": 1.55,
+        "Slavia Praha": 5.45,
+        "Draw": 4.55
       },
       "Winamax (FR)": {
-        "Central Córdoba": 46.0,
-        "Newells Old Boys": 1.13,
-        "Draw": 6.25
+        "Fenerbahce": 1.52,
+        "Slavia Praha": 4.7,
+        "Draw": 4.3
       },
-      "Betclic (FR)": {
-        "Central Córdoba": 75.0,
-        "Newells Old Boys": 1.04,
-        "Draw": 20.0
-      },
-      "Betsson": {
-        "Central Córdoba": 56.0,
-        "Newells Old Boys": 1.0,
-        "Draw": 17.0
-      },
-      "Nordic Bet": {
-        "Central Córdoba": 56.0,
-        "Newells Old Boys": 1.0,
-        "Draw": 17.0
-      },
-      "Unibet (SE)": {
-        "Central Córdoba": 161.0,
-        "Newells Old Boys": 1.01,
-        "Draw": 29.0
-      }
-    },
-    "d723febf29697d2e3fff924d6f7bc813:h2h": {
-      "888sport": {
-        "Goiás": 1.73,
-        "Nautico PE": 5.75,
-        "Draw": 2.8
-      },
-      "Nordic Bet": {
-        "Goiás": 1.8,
-        "Nautico PE": 6.3,
-        "Draw": 2.65
-      },
-      "Betsson": {
-        "Goiás": 1.8,
-        "Nautico PE": 6.3,
-        "Draw": 2.65
-      },
-      "Marathon Bet": {
-        "Goiás": 1.76,
-        "Nautico PE": 6.2,
-        "Draw": 2.64
-      },
-      "Coolbet": {
-        "Goiás": 1.8,
-        "Nautico PE": 6.0,
-        "Draw": 2.75
-      },
-      "Unibet (SE)": {
-        "Goiás": 1.89,
-        "Nautico PE": 5.75,
-        "Draw": 2.65
-      },
-      "Unibet (NL)": {
-        "Goiás": 1.81,
-        "Nautico PE": 5.4,
-        "Draw": 2.5
+      "Winamax (DE)": {
+        "Fenerbahce": 1.56,
+        "Slavia Praha": 4.8,
+        "Draw": 4.5
       },
       "LeoVegas (SE)": {
-        "Goiás": 1.8,
-        "Nautico PE": 5.3,
-        "Draw": 2.5
-      },
-      "Pinnacle": {
-        "Goiás": 1.84,
-        "Nautico PE": 6.58,
-        "Draw": 2.7
-      },
-      "Tipico": {
-        "Goiás": 1.7,
-        "Nautico PE": 7.0,
-        "Draw": 2.7
-      },
-      "Matchbook": {
-        "Goiás": 1.91,
-        "Nautico PE": 7.2,
-        "Draw": 2.92
-      },
-      "Betfair": {
-        "Goiás": 1.91,
-        "Nautico PE": 7.2,
-        "Draw": 2.9
-      }
-    },
-    "b348b67b1ba8fee3dd512c4205554604:h2h": {
-      "Winamax (FR)": {
-        "Corinthians": 1.6,
-        "Vitoria": 6.25,
-        "Draw": 2.9
-      },
-      "888sport": {
-        "Corinthians": 1.57,
-        "Vitoria": 5.75,
-        "Draw": 3.4
-      },
-      "Coolbet": {
-        "Corinthians": 1.62,
-        "Vitoria": 7.0,
-        "Draw": 3.14
-      },
-      "MyBookie.ag": {
-        "Corinthians": 1.65,
-        "Vitoria": 5.5,
-        "Draw": 3.25
-      },
-      "Winamax (DE)": {
-        "Corinthians": 1.62,
-        "Vitoria": 6.5,
-        "Draw": 3.0
-      },
-      "Unibet (NL)": {
-        "Corinthians": 1.64,
-        "Vitoria": 5.8,
-        "Draw": 2.88
+        "Fenerbahce": 1.61,
+        "Slavia Praha": 5.0,
+        "Draw": 4.1
       },
       "PMU (FR)": {
-        "Corinthians": 1.57,
-        "Vitoria": 5.75,
-        "Draw": 2.8
-      },
-      "LeoVegas (SE)": {
-        "Corinthians": 1.61,
-        "Vitoria": 5.8,
-        "Draw": 2.85
+        "Fenerbahce": 1.55,
+        "Slavia Praha": 4.7,
+        "Draw": 3.85
       },
       "Unibet (SE)": {
-        "Corinthians": 1.68,
-        "Vitoria": 6.25,
-        "Draw": 3.05
+        "Fenerbahce": 1.65,
+        "Slavia Praha": 5.4,
+        "Draw": 4.35
       },
-      "Betsson": {
-        "Corinthians": 1.62,
-        "Vitoria": 6.8,
-        "Draw": 3.05
+      "Unibet (NL)": {
+        "Fenerbahce": 1.65,
+        "Slavia Praha": 5.4,
+        "Draw": 4.35
       },
-      "Nordic Bet": {
-        "Corinthians": 1.6,
-        "Vitoria": 6.8,
-        "Draw": 3.15
-      },
-      "Pinnacle": {
-        "Corinthians": 1.68,
-        "Vitoria": 6.4,
-        "Draw": 3.31
-      },
-      "Marathon Bet": {
-        "Corinthians": 1.63,
-        "Vitoria": 6.35,
-        "Draw": 3.25
-      },
-      "Tipico": {
-        "Corinthians": 1.55,
-        "Vitoria": 7.0,
-        "Draw": 3.2
-      },
-      "Matchbook": {
-        "Corinthians": 1.69,
-        "Vitoria": 7.4,
-        "Draw": 3.5
-      },
-      "Betfair": {
-        "Corinthians": 1.71,
-        "Vitoria": 7.2,
-        "Draw": 3.55
+      "BetAnything": {
+        "Fenerbahce": 1.59,
+        "Slavia Praha": 5.2,
+        "Draw": 4.45
       }
     }
   },
@@ -9611,19 +9746,230 @@
       "confidence": 7,
       "alert_type": "value",
       "alerted_at": "2026-10-19T23:34:01.738891+00:00"
+    },
+    {
+      "state_key": "874be9dac6395131abd6442defbe2e80:h2h",
+      "event_id": "874be9dac6395131abd6442defbe2e80",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Diriyah Club",
+      "away_team": "Al-Riyadh",
+      "commence_time": "2026-10-20T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Riyadh",
+      "odds_at_alert": 6.0,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-10-20T04:40:20.129724+00:00"
+    },
+    {
+      "state_key": "21f2ca5f676d5d7b30ba37221d9f399a:h2h",
+      "event_id": "21f2ca5f676d5d7b30ba37221d9f399a",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Taawoun",
+      "away_team": "Al-Qadsiah",
+      "commence_time": "2026-10-20T15:10:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Taawoun",
+      "odds_at_alert": 6.6,
+      "stake_pct": 2.0,
+      "confidence": 5,
+      "alert_type": "value",
+      "alerted_at": "2026-10-20T04:40:20.606999+00:00"
+    },
+    {
+      "state_key": "464c74a35c648d4910cc16976ce2f7cd:h2h",
+      "event_id": "464c74a35c648d4910cc16976ce2f7cd",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League",
+      "home_team": "Sabah FK",
+      "away_team": "Borussia Dortmund",
+      "commence_time": "2026-10-20T16:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sabah FK",
+      "odds_at_alert": 9.75,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-10-20T04:40:21.079104+00:00"
+    },
+    {
+      "state_key": "464c74a35c648d4910cc16976ce2f7cd:h2h",
+      "event_id": "464c74a35c648d4910cc16976ce2f7cd",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League",
+      "home_team": "Sabah FK",
+      "away_team": "Borussia Dortmund",
+      "commence_time": "2026-10-20T16:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sabah FK",
+      "odds_at_alert": 9.85,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-10-20T04:40:21.565528+00:00"
+    },
+    {
+      "state_key": "464c74a35c648d4910cc16976ce2f7cd:h2h",
+      "event_id": "464c74a35c648d4910cc16976ce2f7cd",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League",
+      "home_team": "Sabah FK",
+      "away_team": "Borussia Dortmund",
+      "commence_time": "2026-10-20T16:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sabah FK",
+      "odds_at_alert": 10.0,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-10-20T04:40:22.016360+00:00"
+    },
+    {
+      "state_key": "464c74a35c648d4910cc16976ce2f7cd:h2h",
+      "event_id": "464c74a35c648d4910cc16976ce2f7cd",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League",
+      "home_team": "Sabah FK",
+      "away_team": "Borussia Dortmund",
+      "commence_time": "2026-10-20T16:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.4,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-10-20T04:40:22.444389+00:00"
+    },
+    {
+      "state_key": "464c74a35c648d4910cc16976ce2f7cd:h2h",
+      "event_id": "464c74a35c648d4910cc16976ce2f7cd",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League",
+      "home_team": "Sabah FK",
+      "away_team": "Borussia Dortmund",
+      "commence_time": "2026-10-20T16:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sabah FK",
+      "odds_at_alert": 10.0,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-10-20T04:40:22.873141+00:00"
+    },
+    {
+      "state_key": "464c74a35c648d4910cc16976ce2f7cd:h2h",
+      "event_id": "464c74a35c648d4910cc16976ce2f7cd",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League",
+      "home_team": "Sabah FK",
+      "away_team": "Borussia Dortmund",
+      "commence_time": "2026-10-20T16:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.4,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-10-20T04:40:23.364923+00:00"
+    },
+    {
+      "state_key": "464c74a35c648d4910cc16976ce2f7cd:h2h",
+      "event_id": "464c74a35c648d4910cc16976ce2f7cd",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League",
+      "home_team": "Sabah FK",
+      "away_team": "Borussia Dortmund",
+      "commence_time": "2026-10-20T16:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sabah FK",
+      "odds_at_alert": 9.7,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-10-20T04:40:23.871801+00:00"
+    },
+    {
+      "state_key": "464c74a35c648d4910cc16976ce2f7cd:h2h",
+      "event_id": "464c74a35c648d4910cc16976ce2f7cd",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League",
+      "home_team": "Sabah FK",
+      "away_team": "Borussia Dortmund",
+      "commence_time": "2026-10-20T16:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sabah FK",
+      "odds_at_alert": 10.0,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-10-20T04:40:24.348121+00:00"
+    },
+    {
+      "state_key": "464c74a35c648d4910cc16976ce2f7cd:h2h",
+      "event_id": "464c74a35c648d4910cc16976ce2f7cd",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League",
+      "home_team": "Sabah FK",
+      "away_team": "Borussia Dortmund",
+      "commence_time": "2026-10-20T16:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.5,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-10-20T04:40:24.824886+00:00"
+    },
+    {
+      "state_key": "464c74a35c648d4910cc16976ce2f7cd:h2h",
+      "event_id": "464c74a35c648d4910cc16976ce2f7cd",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League",
+      "home_team": "Sabah FK",
+      "away_team": "Borussia Dortmund",
+      "commence_time": "2026-10-20T16:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sabah FK",
+      "odds_at_alert": 10.0,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-10-20T04:40:25.302877+00:00"
+    },
+    {
+      "state_key": "464c74a35c648d4910cc16976ce2f7cd:h2h",
+      "event_id": "464c74a35c648d4910cc16976ce2f7cd",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League",
+      "home_team": "Sabah FK",
+      "away_team": "Borussia Dortmund",
+      "commence_time": "2026-10-20T16:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.5,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-10-20T04:40:25.767614+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "b348b67b1ba8fee3dd512c4205554604:h2h|Betfair|Vitoria",
-    "b348b67b1ba8fee3dd512c4205554604:h2h|Matchbook|Vitoria",
-    "fc9525fc58447ad3dc2b45a1d27347a0:h2h|Betfair|Barracas Central",
-    "fc9525fc58447ad3dc2b45a1d27347a0:h2h|Betfair|Draw",
-    "fc9525fc58447ad3dc2b45a1d27347a0:h2h|Betsson|Barracas Central",
-    "fc9525fc58447ad3dc2b45a1d27347a0:h2h|Marathon Bet|Barracas Central",
-    "fc9525fc58447ad3dc2b45a1d27347a0:h2h|Nordic Bet|Barracas Central",
-    "fc9525fc58447ad3dc2b45a1d27347a0:h2h|Unibet (SE)|Barracas Central",
-    "fc9525fc58447ad3dc2b45a1d27347a0:h2h|Winamax (DE)|Barracas Central",
-    "fc9525fc58447ad3dc2b45a1d27347a0:h2h|Winamax (FR)|Barracas Central"
+    "21f2ca5f676d5d7b30ba37221d9f399a:h2h|Betfair|Al-Taawoun",
+    "464c74a35c648d4910cc16976ce2f7cd:h2h|1xBet|Sabah FK",
+    "464c74a35c648d4910cc16976ce2f7cd:h2h|Betfair|Draw",
+    "464c74a35c648d4910cc16976ce2f7cd:h2h|Betfair|Sabah FK",
+    "464c74a35c648d4910cc16976ce2f7cd:h2h|Coolbet|Sabah FK",
+    "464c74a35c648d4910cc16976ce2f7cd:h2h|Marathon Bet|Sabah FK",
+    "464c74a35c648d4910cc16976ce2f7cd:h2h|Matchbook|Draw",
+    "464c74a35c648d4910cc16976ce2f7cd:h2h|Matchbook|Sabah FK",
+    "464c74a35c648d4910cc16976ce2f7cd:h2h|Unibet (NL)|Draw",
+    "464c74a35c648d4910cc16976ce2f7cd:h2h|Unibet (NL)|Sabah FK",
+    "464c74a35c648d4910cc16976ce2f7cd:h2h|Unibet (SE)|Draw",
+    "464c74a35c648d4910cc16976ce2f7cd:h2h|Unibet (SE)|Sabah FK",
+    "874be9dac6395131abd6442defbe2e80:h2h|Betfair|Al-Riyadh"
   ]
 }
