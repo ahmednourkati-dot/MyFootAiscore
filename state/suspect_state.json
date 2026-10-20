@@ -1,341 +1,326 @@
 {
   "snapshots": {
-    "874be9dac6395131abd6442defbe2e80:h2h": {
-      "Unibet (SE)": {
-        "Al-Riyadh": 111.0,
-        "Diriyah Club": 1.06,
-        "Draw": 10.0
-      },
-      "LeoVegas (SE)": {
-        "Al-Riyadh": 71.0,
-        "Diriyah Club": 1.03,
-        "Draw": 9.5
-      },
-      "Unibet (NL)": {
-        "Al-Riyadh": 71.0,
-        "Diriyah Club": 1.02,
-        "Draw": 9.5
-      },
-      "Betclic (FR)": {
-        "Al-Riyadh": 43.0,
-        "Diriyah Club": 1.05,
-        "Draw": 7.0
-      },
-      "Winamax (FR)": {
-        "Al-Riyadh": 90.0,
-        "Diriyah Club": 1.07,
-        "Draw": 7.75
-      },
-      "Winamax (DE)": {
-        "Al-Riyadh": 110.0,
-        "Diriyah Club": 1.05,
-        "Draw": 9.0
-      },
-      "888sport": {
-        "Al-Riyadh": 71.0,
-        "Diriyah Club": 1.06,
-        "Draw": 7.5
-      },
-      "William Hill": {
-        "Al-Riyadh": 56.0,
-        "Diriyah Club": 1.08,
-        "Draw": 6.5
-      },
-      "Betfair": {
-        "Al-Riyadh": 5.1,
-        "Diriyah Club": 1.1,
-        "Draw": 9.0
-      },
-      "Tipico": {
-        "Al-Riyadh": 250.0,
-        "Diriyah Club": 1.02,
-        "Draw": 8.0
-      }
-    },
-    "21f2ca5f676d5d7b30ba37221d9f399a:h2h": {
-      "LeoVegas (SE)": {
-        "Al-Qadsiah": 2.2,
-        "Al-Taawoun": 10.0,
-        "Draw": 1.72
-      },
-      "Unibet (SE)": {
-        "Al-Qadsiah": 2.32,
-        "Al-Taawoun": 10.5,
-        "Draw": 1.82
-      },
-      "PMU (FR)": {
-        "Al-Qadsiah": 2.07,
-        "Al-Taawoun": 9.5,
-        "Draw": 1.63
-      },
-      "Unibet (NL)": {
-        "Al-Qadsiah": 2.23,
-        "Al-Taawoun": 10.0,
-        "Draw": 1.74
-      },
-      "Betclic (FR)": {
-        "Al-Qadsiah": 2.2,
-        "Al-Taawoun": 10.5,
-        "Draw": 1.76
-      },
-      "Pinnacle": {
-        "Al-Qadsiah": 2.19,
-        "Al-Taawoun": 9.62,
-        "Draw": 1.97
-      },
-      "Winamax (FR)": {
-        "Al-Qadsiah": 2.3,
-        "Al-Taawoun": 10.0,
-        "Draw": 1.6
-      },
-      "Winamax (DE)": {
-        "Al-Qadsiah": 2.5,
-        "Al-Taawoun": 11.0,
-        "Draw": 1.64
-      },
-      "888sport": {
-        "Al-Qadsiah": 2.3,
-        "Al-Taawoun": 10.0,
-        "Draw": 1.67
-      },
-      "William Hill": {
-        "Al-Qadsiah": 2.2,
-        "Al-Taawoun": 10.0,
-        "Draw": 1.75
-      },
-      "Betfair": {
-        "Al-Qadsiah": 2.42,
-        "Al-Taawoun": 14.0,
-        "Draw": 1.9
-      },
-      "Tipico": {
-        "Al-Qadsiah": 2.3,
-        "Al-Taawoun": 15.0,
-        "Draw": 1.65
-      }
-    },
-    "464c74a35c648d4910cc16976ce2f7cd:h2h": {
-      "Coolbet": {
-        "Borussia Dortmund": 1.3,
-        "Sabah FK": 10.25,
-        "Draw": 6.25
-      },
-      "Betclic (FR)": {
-        "Borussia Dortmund": 1.2,
-        "Sabah FK": 9.5,
-        "Draw": 5.5
-      },
-      "Codere (IT)": {
-        "Borussia Dortmund": 1.28,
-        "Sabah FK": 9.2,
-        "Draw": 6.2
-      },
-      "GTbets": {
-        "Borussia Dortmund": 1.26,
-        "Sabah FK": 9.3,
-        "Draw": 6.44
-      },
-      "Unibet (FR)": {
-        "Borussia Dortmund": 1.22,
-        "Sabah FK": 8.2,
-        "Draw": 5.6
-      },
-      "1xBet": {
-        "Borussia Dortmund": 1.3,
-        "Sabah FK": 8.61,
-        "Draw": 6.33
-      },
-      "Betfair": {
-        "Borussia Dortmund": 1.28,
-        "Sabah FK": 12.5,
-        "Draw": 6.6
-      },
-      "Matchbook": {
-        "Borussia Dortmund": 1.28,
-        "Sabah FK": 12.5,
-        "Draw": 6.8
-      },
-      "Pinnacle": {
-        "Borussia Dortmund": 1.28,
-        "Sabah FK": 9.46,
-        "Draw": 6.18
-      },
-      "BetOnline.ag": {
-        "Borussia Dortmund": 1.28,
-        "Sabah FK": 10.2,
-        "Draw": 6.5
-      },
-      "Marathon Bet": {
-        "Borussia Dortmund": 1.25,
-        "Sabah FK": 11.0,
-        "Draw": 6.05
-      },
-      "888sport": {
-        "Borussia Dortmund": 1.22,
-        "Sabah FK": 9.5,
-        "Draw": 6.0
-      },
-      "William Hill": {
-        "Borussia Dortmund": 1.25,
-        "Sabah FK": 10.0,
-        "Draw": 5.5
-      },
-      "Winamax (FR)": {
-        "Borussia Dortmund": 1.27,
-        "Sabah FK": 8.0,
-        "Draw": 5.3
-      },
-      "Winamax (DE)": {
-        "Borussia Dortmund": 1.27,
-        "Sabah FK": 8.5,
-        "Draw": 5.7
-      },
+    "466351f5d45fb0933717a4dbd97cc7d7:h2h": {
       "Betsson": {
-        "Borussia Dortmund": 1.23,
-        "Sabah FK": 10.5,
-        "Draw": 5.8
+        "Cuiabá": 2.4,
+        "Londrina": 2.9,
+        "Draw": 3.05
       },
       "Nordic Bet": {
-        "Borussia Dortmund": 1.23,
-        "Sabah FK": 10.5,
-        "Draw": 5.8
+        "Cuiabá": 2.4,
+        "Londrina": 2.9,
+        "Draw": 3.05
       },
-      "LeoVegas (SE)": {
-        "Borussia Dortmund": 1.23,
-        "Sabah FK": 11.0,
-        "Draw": 6.1
+      "1xBet": {
+        "Cuiabá": 2.43,
+        "Londrina": 2.91,
+        "Draw": 3.08
       },
-      "PMU (FR)": {
-        "Borussia Dortmund": 1.17,
-        "Sabah FK": 10.0,
-        "Draw": 5.5
+      "Marathon Bet": {
+        "Cuiabá": 2.41,
+        "Londrina": 2.88,
+        "Draw": 3.08
+      },
+      "Coolbet": {
+        "Cuiabá": 2.45,
+        "Londrina": 2.85,
+        "Draw": 3.2
       },
       "Unibet (SE)": {
-        "Borussia Dortmund": 1.23,
-        "Sabah FK": 11.0,
-        "Draw": 6.1
+        "Cuiabá": 2.55,
+        "Londrina": 2.8,
+        "Draw": 3.1
       },
       "Unibet (NL)": {
-        "Borussia Dortmund": 1.23,
-        "Sabah FK": 11.0,
-        "Draw": 6.1
+        "Cuiabá": 2.55,
+        "Londrina": 2.8,
+        "Draw": 3.1
       },
-      "BetAnything": {
-        "Borussia Dortmund": 1.28,
-        "Sabah FK": 10.2,
-        "Draw": 6.5
+      "LeoVegas (SE)": {
+        "Cuiabá": 2.45,
+        "Londrina": 2.65,
+        "Draw": 2.95
+      },
+      "Pinnacle": {
+        "Cuiabá": 2.45,
+        "Londrina": 3.08,
+        "Draw": 3.27
+      },
+      "888sport": {
+        "Cuiabá": 2.38,
+        "Londrina": 2.9,
+        "Draw": 3.0
+      },
+      "William Hill": {
+        "Cuiabá": 2.38,
+        "Londrina": 2.9,
+        "Draw": 3.0
+      },
+      "BetOnline.ag": {
+        "Cuiabá": 2.42,
+        "Londrina": 3.0,
+        "Draw": 3.1
+      },
+      "Codere (IT)": {
+        "Cuiabá": 2.39,
+        "Londrina": 2.9,
+        "Draw": 3.1
+      },
+      "Matchbook": {
+        "Cuiabá": 2.5,
+        "Londrina": 3.2,
+        "Draw": 3.25
+      },
+      "Betfair": {
+        "Cuiabá": 2.5,
+        "Londrina": 3.2,
+        "Draw": 3.25
       }
     },
-    "16e237246e9bef441e69998d1ef9536d:h2h": {
-      "Codere (IT)": {
-        "Fenerbahce": 1.41,
-        "Slavia Praha": 6.8,
+    "bc48d00379f8fbc8a9404b831adaed3f:h2h": {
+      "PMU (FR)": {
+        "Guadalajara": 1.27,
+        "Necaxa": 6.25,
+        "Draw": 4.7
+      },
+      "LeoVegas (SE)": {
+        "Guadalajara": 1.32,
+        "Necaxa": 6.4,
+        "Draw": 4.8
+      },
+      "Unibet (NL)": {
+        "Guadalajara": 1.35,
+        "Necaxa": 6.75,
+        "Draw": 5.0
+      },
+      "Unibet (SE)": {
+        "Guadalajara": 1.35,
+        "Necaxa": 6.75,
+        "Draw": 5.0
+      },
+      "Betclic (FR)": {
+        "Guadalajara": 1.32,
+        "Necaxa": 6.25,
+        "Draw": 5.0
+      },
+      "Pinnacle": {
+        "Guadalajara": 1.38,
+        "Necaxa": 7.38,
+        "Draw": 5.65
+      },
+      "1xBet": {
+        "Guadalajara": 1.34,
+        "Necaxa": 7.15,
         "Draw": 5.2
       },
-      "Coolbet": {
-        "Fenerbahce": 1.18,
-        "Slavia Praha": 13.75,
-        "Draw": 8.0
+      "Marathon Bet": {
+        "Guadalajara": 1.33,
+        "Necaxa": 6.95,
+        "Draw": 5.25
       },
       "GTbets": {
-        "Fenerbahce": 1.42,
-        "Slavia Praha": 6.44,
-        "Draw": 4.99
+        "Guadalajara": 1.42,
+        "Necaxa": 6.99,
+        "Draw": 5.25
       },
-      "Unibet (FR)": {
-        "Fenerbahce": 1.36,
-        "Slavia Praha": 6.1,
-        "Draw": 4.8
-      },
-      "Betclic (FR)": {
-        "Fenerbahce": 1.11,
-        "Slavia Praha": 12.0,
-        "Draw": 7.25
-      },
-      "1xBet": {
-        "Fenerbahce": 1.41,
-        "Slavia Praha": 7.04,
-        "Draw": 5.28
-      },
-      "Pinnacle": {
-        "Fenerbahce": 1.4,
-        "Slavia Praha": 7.49,
-        "Draw": 4.94
+      "Coolbet": {
+        "Guadalajara": 1.37,
+        "Necaxa": 7.6,
+        "Draw": 5.2
       },
       "Matchbook": {
-        "Fenerbahce": 1.2,
-        "Slavia Praha": 17.0,
-        "Draw": 8.6
-      },
-      "Betfair": {
-        "Fenerbahce": 1.19,
-        "Slavia Praha": 17.5,
-        "Draw": 9.2
-      },
-      "Marathon Bet": {
-        "Fenerbahce": 1.18,
-        "Slavia Praha": 14.0,
-        "Draw": 7.4
-      },
-      "BetOnline.ag": {
-        "Fenerbahce": 1.38,
-        "Slavia Praha": 7.66,
-        "Draw": 5.5
+        "Guadalajara": 1.4,
+        "Necaxa": 8.0,
+        "Draw": 5.8
       },
       "888sport": {
-        "Fenerbahce": 1.18,
-        "Slavia Praha": 13.0,
-        "Draw": 7.0
+        "Guadalajara": 1.33,
+        "Necaxa": 6.0,
+        "Draw": 4.8
       },
       "William Hill": {
-        "Fenerbahce": 1.4,
-        "Slavia Praha": 6.5,
+        "Guadalajara": 1.33,
+        "Necaxa": 6.0,
+        "Draw": 4.8
+      },
+      "Betfair": {
+        "Guadalajara": 1.4,
+        "Necaxa": 7.8,
+        "Draw": 5.8
+      },
+      "BetOnline.ag": {
+        "Guadalajara": 1.38,
+        "Necaxa": 7.3,
+        "Draw": 5.8
+      },
+      "Nordic Bet": {
+        "Guadalajara": 1.34,
+        "Necaxa": 7.3,
         "Draw": 4.8
       },
       "Betsson": {
-        "Fenerbahce": 1.12,
-        "Slavia Praha": 14.0,
-        "Draw": 8.2
+        "Guadalajara": 1.34,
+        "Necaxa": 7.3,
+        "Draw": 4.8
       },
-      "Nordic Bet": {
-        "Fenerbahce": 1.12,
-        "Slavia Praha": 14.0,
-        "Draw": 8.2
-      },
-      "Winamax (FR)": {
-        "Fenerbahce": 1.18,
-        "Slavia Praha": 11.0,
-        "Draw": 6.75
-      },
-      "Winamax (DE)": {
-        "Fenerbahce": 1.16,
-        "Slavia Praha": 12.5,
-        "Draw": 7.5
+      "Tipico": {
+        "Guadalajara": 1.3,
+        "Necaxa": 7.2,
+        "Draw": 5.3
+      }
+    },
+    "39a221cfe7d64b0271661d100e1ecf86:h2h": {
+      "Unibet (NL)": {
+        "Boca Juniors": 2.75,
+        "Vasco da Gama": 2.7,
+        "Draw": 2.95
       },
       "LeoVegas (SE)": {
-        "Fenerbahce": 1.14,
-        "Slavia Praha": 14.0,
-        "Draw": 8.5
+        "Boca Juniors": 2.63,
+        "Vasco da Gama": 2.55,
+        "Draw": 2.75
       },
       "PMU (FR)": {
-        "Fenerbahce": 1.08,
-        "Slavia Praha": 13.0,
-        "Draw": 7.5
+        "Boca Juniors": 2.63,
+        "Vasco da Gama": 2.55,
+        "Draw": 2.75
+      },
+      "Unibet (FR)": {
+        "Boca Juniors": 2.75,
+        "Vasco da Gama": 2.4,
+        "Draw": 2.9
+      },
+      "Coolbet": {
+        "Boca Juniors": 2.78,
+        "Vasco da Gama": 2.8,
+        "Draw": 3.15
+      },
+      "1xBet": {
+        "Boca Juniors": 2.94,
+        "Vasco da Gama": 2.79,
+        "Draw": 3.1
+      },
+      "William Hill": {
+        "Boca Juniors": 2.75,
+        "Vasco da Gama": 2.62,
+        "Draw": 2.88
+      },
+      "888sport": {
+        "Boca Juniors": 2.75,
+        "Vasco da Gama": 2.62,
+        "Draw": 2.88
+      },
+      "Codere (IT)": {
+        "Boca Juniors": 2.8,
+        "Vasco da Gama": 2.7,
+        "Draw": 2.95
+      },
+      "Pinnacle": {
+        "Boca Juniors": 2.86,
+        "Vasco da Gama": 2.81,
+        "Draw": 3.01
+      },
+      "Nordic Bet": {
+        "Boca Juniors": 2.8,
+        "Vasco da Gama": 2.65,
+        "Draw": 2.85
+      },
+      "Betfair": {
+        "Boca Juniors": 2.96,
+        "Vasco da Gama": 2.86,
+        "Draw": 3.1
+      }
+    },
+    "a6a1e32b51c56230e97d999dc404e52c:h2h": {
+      "Unibet (NL)": {
+        "Atlante FC": 2.14,
+        "FC Juárez": 3.0,
+        "Draw": 3.4
+      },
+      "PMU (FR)": {
+        "Atlante FC": 2.0,
+        "FC Juárez": 2.8,
+        "Draw": 3.2
+      },
+      "LeoVegas (SE)": {
+        "Atlante FC": 2.07,
+        "FC Juárez": 2.88,
+        "Draw": 3.3
       },
       "Unibet (SE)": {
-        "Fenerbahce": 1.14,
-        "Slavia Praha": 14.0,
-        "Draw": 8.5
+        "Atlante FC": 2.14,
+        "FC Juárez": 3.0,
+        "Draw": 3.4
       },
-      "Unibet (NL)": {
-        "Fenerbahce": 1.14,
-        "Slavia Praha": 14.0,
-        "Draw": 8.5
+      "Betclic (FR)": {
+        "Atlante FC": 2.03,
+        "FC Juárez": 3.02,
+        "Draw": 3.35
       },
-      "BetAnything": {
-        "Fenerbahce": 1.38,
-        "Slavia Praha": 7.15,
-        "Draw": 5.25
+      "Coolbet": {
+        "Atlante FC": 2.26,
+        "FC Juárez": 3.23,
+        "Draw": 3.36
+      },
+      "Pinnacle": {
+        "Atlante FC": 2.19,
+        "FC Juárez": 3.35,
+        "Draw": 3.6
+      },
+      "GTbets": {
+        "Atlante FC": 2.18,
+        "FC Juárez": 3.17,
+        "Draw": 3.38
+      },
+      "1xBet": {
+        "Atlante FC": 2.1,
+        "FC Juárez": 3.2,
+        "Draw": 3.44
+      },
+      "Betfair": {
+        "Atlante FC": 2.24,
+        "FC Juárez": 3.4,
+        "Draw": 3.7
+      },
+      "Marathon Bet": {
+        "Atlante FC": 2.08,
+        "FC Juárez": 3.18,
+        "Draw": 3.44
+      },
+      "Matchbook": {
+        "Atlante FC": 2.24,
+        "FC Juárez": 3.4,
+        "Draw": 3.7
+      },
+      "888sport": {
+        "Atlante FC": 2.05,
+        "FC Juárez": 3.0,
+        "Draw": 3.1
+      },
+      "William Hill": {
+        "Atlante FC": 2.05,
+        "FC Juárez": 3.0,
+        "Draw": 3.1
+      },
+      "BetOnline.ag": {
+        "Atlante FC": 2.17,
+        "FC Juárez": 3.35,
+        "Draw": 3.62
+      },
+      "Tipico": {
+        "Atlante FC": 2.0,
+        "FC Juárez": 3.2,
+        "Draw": 3.5
+      },
+      "Nordic Bet": {
+        "Atlante FC": 2.12,
+        "FC Juárez": 3.25,
+        "Draw": 3.3
+      },
+      "Betsson": {
+        "Atlante FC": 2.12,
+        "FC Juárez": 3.25,
+        "Draw": 3.3
       }
     }
   },
@@ -10487,54 +10472,5 @@
     }
   ],
   "results_history": [],
-  "value_alerted": [
-    "16e237246e9bef441e69998d1ef9536d:h2h|888sport|Draw",
-    "16e237246e9bef441e69998d1ef9536d:h2h|888sport|Slavia Praha",
-    "16e237246e9bef441e69998d1ef9536d:h2h|BetOnline.ag|Draw",
-    "16e237246e9bef441e69998d1ef9536d:h2h|Betclic (FR)|Draw",
-    "16e237246e9bef441e69998d1ef9536d:h2h|Betclic (FR)|Slavia Praha",
-    "16e237246e9bef441e69998d1ef9536d:h2h|Betfair|Draw",
-    "16e237246e9bef441e69998d1ef9536d:h2h|Betfair|Slavia Praha",
-    "16e237246e9bef441e69998d1ef9536d:h2h|Betsson|Draw",
-    "16e237246e9bef441e69998d1ef9536d:h2h|Betsson|Slavia Praha",
-    "16e237246e9bef441e69998d1ef9536d:h2h|Coolbet|Draw",
-    "16e237246e9bef441e69998d1ef9536d:h2h|Coolbet|Slavia Praha",
-    "16e237246e9bef441e69998d1ef9536d:h2h|LeoVegas (SE)|Draw",
-    "16e237246e9bef441e69998d1ef9536d:h2h|LeoVegas (SE)|Slavia Praha",
-    "16e237246e9bef441e69998d1ef9536d:h2h|Marathon Bet|Draw",
-    "16e237246e9bef441e69998d1ef9536d:h2h|Marathon Bet|Slavia Praha",
-    "16e237246e9bef441e69998d1ef9536d:h2h|Matchbook|Draw",
-    "16e237246e9bef441e69998d1ef9536d:h2h|Matchbook|Slavia Praha",
-    "16e237246e9bef441e69998d1ef9536d:h2h|Nordic Bet|Draw",
-    "16e237246e9bef441e69998d1ef9536d:h2h|Nordic Bet|Slavia Praha",
-    "16e237246e9bef441e69998d1ef9536d:h2h|PMU (FR)|Draw",
-    "16e237246e9bef441e69998d1ef9536d:h2h|PMU (FR)|Slavia Praha",
-    "16e237246e9bef441e69998d1ef9536d:h2h|Unibet (NL)|Draw",
-    "16e237246e9bef441e69998d1ef9536d:h2h|Unibet (NL)|Slavia Praha",
-    "16e237246e9bef441e69998d1ef9536d:h2h|Unibet (SE)|Draw",
-    "16e237246e9bef441e69998d1ef9536d:h2h|Unibet (SE)|Slavia Praha",
-    "16e237246e9bef441e69998d1ef9536d:h2h|Winamax (DE)|Draw",
-    "16e237246e9bef441e69998d1ef9536d:h2h|Winamax (DE)|Slavia Praha",
-    "16e237246e9bef441e69998d1ef9536d:h2h|Winamax (FR)|Draw",
-    "16e237246e9bef441e69998d1ef9536d:h2h|Winamax (FR)|Slavia Praha",
-    "21f2ca5f676d5d7b30ba37221d9f399a:h2h|Betfair|Al-Taawoun",
-    "21f2ca5f676d5d7b30ba37221d9f399a:h2h|Tipico|Al-Taawoun",
-    "21f2ca5f676d5d7b30ba37221d9f399a:h2h|Winamax (DE)|Al-Qadsiah",
-    "21f2ca5f676d5d7b30ba37221d9f399a:h2h|Winamax (DE)|Al-Taawoun",
-    "464c74a35c648d4910cc16976ce2f7cd:h2h|1xBet|Sabah FK",
-    "464c74a35c648d4910cc16976ce2f7cd:h2h|Betfair|Draw",
-    "464c74a35c648d4910cc16976ce2f7cd:h2h|Betfair|Sabah FK",
-    "464c74a35c648d4910cc16976ce2f7cd:h2h|Betsson|Sabah FK",
-    "464c74a35c648d4910cc16976ce2f7cd:h2h|Coolbet|Sabah FK",
-    "464c74a35c648d4910cc16976ce2f7cd:h2h|LeoVegas (SE)|Sabah FK",
-    "464c74a35c648d4910cc16976ce2f7cd:h2h|Marathon Bet|Sabah FK",
-    "464c74a35c648d4910cc16976ce2f7cd:h2h|Matchbook|Draw",
-    "464c74a35c648d4910cc16976ce2f7cd:h2h|Matchbook|Sabah FK",
-    "464c74a35c648d4910cc16976ce2f7cd:h2h|Nordic Bet|Sabah FK",
-    "464c74a35c648d4910cc16976ce2f7cd:h2h|Unibet (NL)|Draw",
-    "464c74a35c648d4910cc16976ce2f7cd:h2h|Unibet (NL)|Sabah FK",
-    "464c74a35c648d4910cc16976ce2f7cd:h2h|Unibet (SE)|Draw",
-    "464c74a35c648d4910cc16976ce2f7cd:h2h|Unibet (SE)|Sabah FK",
-    "874be9dac6395131abd6442defbe2e80:h2h|Betfair|Al-Riyadh"
-  ]
+  "value_alerted": []
 }
