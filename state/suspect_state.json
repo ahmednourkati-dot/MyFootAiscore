@@ -1,431 +1,391 @@
 {
   "snapshots": {
-    "5ca1df2713a649c7c7972920fd8fd48f:h2h": {
-      "LeoVegas (SE)": {
-        "Avispa Fukuoka": 2.48,
-        "Gamba Osaka": 2.7,
-        "Draw": 3.25
-      },
-      "Unibet (SE)": {
-        "Avispa Fukuoka": 2.45,
-        "Gamba Osaka": 2.7,
-        "Draw": 3.25
-      },
-      "PMU (FR)": {
-        "Avispa Fukuoka": 2.35,
-        "Gamba Osaka": 2.6,
-        "Draw": 3.1
-      },
-      "Unibet (NL)": {
-        "Avispa Fukuoka": 2.45,
-        "Gamba Osaka": 2.7,
-        "Draw": 3.25
-      },
-      "Unibet (FR)": {
-        "Avispa Fukuoka": 2.25,
-        "Gamba Osaka": 2.6,
-        "Draw": 3.15
-      },
-      "BetOnline.ag": {
-        "Avispa Fukuoka": 2.6,
-        "Gamba Osaka": 2.78,
-        "Draw": 3.3
-      },
-      "Betsson": {
-        "Avispa Fukuoka": 2.52,
-        "Gamba Osaka": 2.65,
-        "Draw": 3.2
-      },
-      "Coolbet": {
-        "Avispa Fukuoka": 2.55,
-        "Gamba Osaka": 2.75,
-        "Draw": 3.4
-      },
-      "Betclic (FR)": {
-        "Avispa Fukuoka": 2.38,
-        "Gamba Osaka": 2.6,
-        "Draw": 3.17
-      },
-      "Nordic Bet": {
-        "Avispa Fukuoka": 2.52,
-        "Gamba Osaka": 2.65,
-        "Draw": 3.2
-      },
-      "Winamax (DE)": {
-        "Avispa Fukuoka": 2.45,
-        "Gamba Osaka": 2.6,
-        "Draw": 3.3
-      },
-      "Winamax (FR)": {
-        "Avispa Fukuoka": 2.4,
-        "Gamba Osaka": 2.55,
-        "Draw": 3.25
-      },
+    "fd9ea3727e8600db3389a06d64f26e60:h2h": {
       "Pinnacle": {
-        "Avispa Fukuoka": 2.65,
-        "Gamba Osaka": 2.77,
-        "Draw": 3.39
-      },
-      "1xBet": {
-        "Avispa Fukuoka": 2.6,
-        "Gamba Osaka": 2.73,
-        "Draw": 3.38
-      },
-      "Marathon Bet": {
-        "Avispa Fukuoka": 2.53,
-        "Gamba Osaka": 2.66,
-        "Draw": 3.3
+        "Jaro": 2.43,
+        "PK-35": 3.28,
+        "Draw": 3.01
       },
       "888sport": {
-        "Avispa Fukuoka": 2.5,
-        "Gamba Osaka": 2.7,
-        "Draw": 3.1
+        "Jaro": 2.3,
+        "PK-35": 3.2,
+        "Draw": 2.8
       },
       "William Hill": {
-        "Avispa Fukuoka": 2.5,
-        "Gamba Osaka": 2.7,
-        "Draw": 3.1
+        "Jaro": 2.3,
+        "PK-35": 3.2,
+        "Draw": 2.8
+      },
+      "Marathon Bet": {
+        "Jaro": 2.4,
+        "PK-35": 3.14,
+        "Draw": 2.94
+      },
+      "PMU (FR)": {
+        "Jaro": 2.14,
+        "PK-35": 2.85,
+        "Draw": 2.8
+      },
+      "LeoVegas (SE)": {
+        "Jaro": 2.23,
+        "PK-35": 2.95,
+        "Draw": 2.9
+      },
+      "Unibet (NL)": {
+        "Jaro": 2.25,
+        "PK-35": 3.0,
+        "Draw": 2.95
+      },
+      "GTbets": {
+        "Jaro": 2.4,
+        "PK-35": 3.26,
+        "Draw": 2.92
+      },
+      "Unibet (SE)": {
+        "Jaro": 2.25,
+        "PK-35": 3.0,
+        "Draw": 2.95
       },
       "Betfair": {
-        "Avispa Fukuoka": 2.72,
-        "Gamba Osaka": 2.84,
-        "Draw": 3.4
+        "Jaro": 2.48,
+        "PK-35": 3.45,
+        "Draw": 3.1
       },
-      "Tipico": {
-        "Avispa Fukuoka": 2.4,
-        "Gamba Osaka": 2.7,
-        "Draw": 3.2
+      "Betsson": {
+        "Jaro": 2.32,
+        "PK-35": 3.2,
+        "Draw": 3.05
       },
-      "BetAnything": {
-        "Avispa Fukuoka": 2.6,
-        "Gamba Osaka": 2.78,
-        "Draw": 3.3
-      },
-      "Matchbook": {
-        "Avispa Fukuoka": 2.72,
-        "Gamba Osaka": 2.84,
-        "Draw": 3.4
+      "Nordic Bet": {
+        "Jaro": 2.32,
+        "PK-35": 3.2,
+        "Draw": 3.0
       }
     },
-    "a11803741fa829ba293e599f809232f8:h2h": {
+    "8af9379136075f45b290208b35a706c8:h2h": {
+      "1xBet": {
+        "Como": 2.5,
+        "Manchester United": 2.77,
+        "Draw": 3.92
+      },
+      "Codere (IT)": {
+        "Como": 2.42,
+        "Manchester United": 2.7,
+        "Draw": 3.75
+      },
+      "Unibet (FR)": {
+        "Como": 2.2,
+        "Manchester United": 2.65,
+        "Draw": 3.7
+      },
+      "Coolbet": {
+        "Como": 2.5,
+        "Manchester United": 2.75,
+        "Draw": 3.85
+      },
+      "Pinnacle": {
+        "Como": 2.5,
+        "Manchester United": 2.74,
+        "Draw": 3.8
+      },
+      "Betclic (FR)": {
+        "Como": 2.27,
+        "Manchester United": 2.65,
+        "Draw": 3.7
+      },
+      "Matchbook": {
+        "Como": 2.54,
+        "Manchester United": 2.82,
+        "Draw": 3.9
+      },
+      "888sport": {
+        "Como": 2.4,
+        "Manchester United": 2.62,
+        "Draw": 3.6
+      },
+      "William Hill": {
+        "Como": 2.4,
+        "Manchester United": 2.62,
+        "Draw": 3.6
+      },
+      "Marathon Bet": {
+        "Como": 2.45,
+        "Manchester United": 2.71,
+        "Draw": 3.84
+      },
+      "Betfair": {
+        "Como": 2.54,
+        "Manchester United": 2.82,
+        "Draw": 3.9
+      },
+      "Winamax (FR)": {
+        "Como": 2.3,
+        "Manchester United": 2.55,
+        "Draw": 3.7
+      },
+      "Winamax (DE)": {
+        "Como": 2.35,
+        "Manchester United": 2.6,
+        "Draw": 3.75
+      },
+      "Betsson": {
+        "Como": 2.45,
+        "Manchester United": 2.68,
+        "Draw": 3.65
+      },
       "LeoVegas (SE)": {
-        "Cerezo Osaka": 2.7,
-        "Nagoya Grampus": 2.33,
+        "Como": 2.38,
+        "Manchester United": 2.7,
+        "Draw": 3.7
+      },
+      "Nordic Bet": {
+        "Como": 2.48,
+        "Manchester United": 2.7,
+        "Draw": 3.7
+      },
+      "PMU (FR)": {
+        "Como": 2.3,
+        "Manchester United": 2.6,
         "Draw": 3.5
       },
       "Unibet (SE)": {
-        "Cerezo Osaka": 2.7,
-        "Nagoya Grampus": 2.32,
-        "Draw": 3.5
-      },
-      "PMU (FR)": {
-        "Cerezo Osaka": 2.6,
-        "Nagoya Grampus": 2.23,
-        "Draw": 3.35
+        "Como": 2.45,
+        "Manchester United": 2.8,
+        "Draw": 3.9
       },
       "Unibet (NL)": {
-        "Cerezo Osaka": 2.7,
-        "Nagoya Grampus": 2.32,
-        "Draw": 3.5
+        "Como": 2.45,
+        "Manchester United": 2.8,
+        "Draw": 3.9
       },
-      "Coolbet": {
-        "Cerezo Osaka": 2.95,
-        "Nagoya Grampus": 2.25,
-        "Draw": 3.75
+      "GTbets": {
+        "Como": 2.28,
+        "Manchester United": 2.8,
+        "Draw": 3.68
       },
       "BetOnline.ag": {
-        "Cerezo Osaka": 3.2,
-        "Nagoya Grampus": 2.18,
-        "Draw": 3.6
+        "Como": 2.43,
+        "Manchester United": 2.77,
+        "Draw": 3.81
       },
-      "Nordic Bet": {
-        "Cerezo Osaka": 2.95,
-        "Nagoya Grampus": 2.15,
-        "Draw": 3.4
+      "BetAnything": {
+        "Como": 2.43,
+        "Manchester United": 2.73,
+        "Draw": 3.81
+      }
+    },
+    "015d619d774655965e17ba67a025634e:h2h": {
+      "Pinnacle": {
+        "Galatasaray": 3.21,
+        "Lille": 2.27,
+        "Draw": 3.62
+      },
+      "1xBet": {
+        "Galatasaray": 3.25,
+        "Lille": 2.26,
+        "Draw": 3.78
+      },
+      "Codere (IT)": {
+        "Galatasaray": 3.05,
+        "Lille": 2.24,
+        "Draw": 3.65
       },
       "Unibet (FR)": {
-        "Cerezo Osaka": 2.9,
-        "Nagoya Grampus": 1.96,
+        "Galatasaray": 2.9,
+        "Lille": 2.15,
         "Draw": 3.4
       },
-      "Betsson": {
-        "Cerezo Osaka": 2.95,
-        "Nagoya Grampus": 2.15,
-        "Draw": 3.4
+      "Coolbet": {
+        "Galatasaray": 3.2,
+        "Lille": 2.25,
+        "Draw": 3.75
+      },
+      "GTbets": {
+        "Galatasaray": 3.16,
+        "Lille": 2.17,
+        "Draw": 3.66
       },
       "Betclic (FR)": {
-        "Cerezo Osaka": 2.92,
-        "Nagoya Grampus": 2.07,
-        "Draw": 3.42
-      },
-      "Winamax (FR)": {
-        "Cerezo Osaka": 2.85,
-        "Nagoya Grampus": 2.1,
+        "Galatasaray": 2.95,
+        "Lille": 2.15,
         "Draw": 3.5
       },
-      "Winamax (DE)": {
-        "Cerezo Osaka": 2.9,
-        "Nagoya Grampus": 2.1,
-        "Draw": 3.55
+      "888sport": {
+        "Galatasaray": 3.0,
+        "Lille": 2.15,
+        "Draw": 3.5
       },
-      "Pinnacle": {
-        "Cerezo Osaka": 3.2,
-        "Nagoya Grampus": 2.21,
+      "Matchbook": {
+        "Galatasaray": 3.25,
+        "Lille": 2.32,
+        "Draw": 3.75
+      },
+      "William Hill": {
+        "Galatasaray": 3.0,
+        "Lille": 2.15,
+        "Draw": 3.5
+      },
+      "Marathon Bet": {
+        "Galatasaray": 3.2,
+        "Lille": 2.22,
         "Draw": 3.72
       },
-      "Marathon Bet": {
-        "Cerezo Osaka": 2.94,
-        "Nagoya Grampus": 2.22,
-        "Draw": 3.52
-      },
-      "1xBet": {
-        "Cerezo Osaka": 3.02,
-        "Nagoya Grampus": 2.28,
-        "Draw": 3.61
-      },
-      "888sport": {
-        "Cerezo Osaka": 3.0,
-        "Nagoya Grampus": 2.15,
-        "Draw": 3.4
-      },
-      "William Hill": {
-        "Cerezo Osaka": 3.0,
-        "Nagoya Grampus": 2.15,
-        "Draw": 3.4
-      },
       "Betfair": {
-        "Cerezo Osaka": 3.25,
-        "Nagoya Grampus": 2.24,
-        "Draw": 3.85
-      },
-      "Tipico": {
-        "Cerezo Osaka": 3.0,
-        "Nagoya Grampus": 2.05,
-        "Draw": 3.6
-      },
-      "BetAnything": {
-        "Cerezo Osaka": 3.2,
-        "Nagoya Grampus": 2.18,
-        "Draw": 3.6
-      },
-      "Matchbook": {
-        "Cerezo Osaka": 3.25,
-        "Nagoya Grampus": 2.24,
-        "Draw": 3.85
-      }
-    },
-    "084b6701b62a8c61b1e6738ff727e9e1:h2h": {
-      "LeoVegas (SE)": {
-        "FC Machida Zelvia": 1.97,
-        "Shimizu S Pulse": 3.7,
-        "Draw": 3.25
-      },
-      "Unibet (SE)": {
-        "FC Machida Zelvia": 1.96,
-        "Shimizu S Pulse": 3.7,
-        "Draw": 3.25
-      },
-      "PMU (FR)": {
-        "FC Machida Zelvia": 1.88,
-        "Shimizu S Pulse": 3.55,
-        "Draw": 3.1
-      },
-      "Unibet (NL)": {
-        "FC Machida Zelvia": 1.96,
-        "Shimizu S Pulse": 3.7,
-        "Draw": 3.25
-      },
-      "Coolbet": {
-        "FC Machida Zelvia": 2.0,
-        "Shimizu S Pulse": 3.85,
-        "Draw": 3.4
-      },
-      "Unibet (FR)": {
-        "FC Machida Zelvia": 1.79,
-        "Shimizu S Pulse": 3.65,
-        "Draw": 3.15
-      },
-      "BetOnline.ag": {
-        "FC Machida Zelvia": 2.08,
-        "Shimizu S Pulse": 3.8,
-        "Draw": 3.3
-      },
-      "Betsson": {
-        "FC Machida Zelvia": 1.95,
-        "Shimizu S Pulse": 3.75,
-        "Draw": 3.15
-      },
-      "Betclic (FR)": {
-        "FC Machida Zelvia": 1.88,
-        "Shimizu S Pulse": 3.68,
-        "Draw": 3.15
-      },
-      "Nordic Bet": {
-        "FC Machida Zelvia": 1.95,
-        "Shimizu S Pulse": 3.75,
-        "Draw": 3.15
-      },
-      "Winamax (DE)": {
-        "FC Machida Zelvia": 1.94,
-        "Shimizu S Pulse": 3.6,
-        "Draw": 3.3
-      },
-      "Winamax (FR)": {
-        "FC Machida Zelvia": 1.9,
-        "Shimizu S Pulse": 3.55,
-        "Draw": 3.2
-      },
-      "Pinnacle": {
-        "FC Machida Zelvia": 2.06,
-        "Shimizu S Pulse": 3.96,
-        "Draw": 3.37
-      },
-      "1xBet": {
-        "FC Machida Zelvia": 2.03,
-        "Shimizu S Pulse": 3.81,
-        "Draw": 3.4
-      },
-      "Marathon Bet": {
-        "FC Machida Zelvia": 1.98,
-        "Shimizu S Pulse": 3.72,
-        "Draw": 3.32
-      },
-      "888sport": {
-        "FC Machida Zelvia": 1.95,
-        "Shimizu S Pulse": 3.7,
-        "Draw": 3.2
-      },
-      "William Hill": {
-        "FC Machida Zelvia": 1.95,
-        "Shimizu S Pulse": 3.7,
-        "Draw": 3.2
-      },
-      "Betfair": {
-        "FC Machida Zelvia": 2.1,
-        "Shimizu S Pulse": 4.2,
-        "Draw": 3.35
-      },
-      "Tipico": {
-        "FC Machida Zelvia": 1.87,
-        "Shimizu S Pulse": 4.0,
-        "Draw": 3.2
-      },
-      "BetAnything": {
-        "FC Machida Zelvia": 2.08,
-        "Shimizu S Pulse": 3.8,
-        "Draw": 3.3
-      },
-      "Matchbook": {
-        "FC Machida Zelvia": 2.12,
-        "Shimizu S Pulse": 4.2,
-        "Draw": 3.4
-      }
-    },
-    "4acff3a58097413ca39f1e824cdc4479:h2h": {
-      "LeoVegas (SE)": {
-        "FC Tokyo": 2.04,
-        "Kashiwa Reysol": 3.2,
-        "Draw": 3.5
-      },
-      "Unibet (SE)": {
-        "FC Tokyo": 2.02,
-        "Kashiwa Reysol": 3.2,
-        "Draw": 3.5
-      },
-      "PMU (FR)": {
-        "FC Tokyo": 1.93,
-        "Kashiwa Reysol": 3.05,
-        "Draw": 3.35
-      },
-      "Unibet (NL)": {
-        "FC Tokyo": 2.02,
-        "Kashiwa Reysol": 3.2,
-        "Draw": 3.5
-      },
-      "BetOnline.ag": {
-        "FC Tokyo": 2.0,
-        "Kashiwa Reysol": 3.65,
-        "Draw": 3.7
-      },
-      "Coolbet": {
-        "FC Tokyo": 2.02,
-        "Kashiwa Reysol": 3.5,
+        "Galatasaray": 3.2,
+        "Lille": 2.34,
         "Draw": 3.75
       },
-      "Nordic Bet": {
-        "FC Tokyo": 1.95,
-        "Kashiwa Reysol": 3.45,
-        "Draw": 3.4
-      },
-      "Unibet (FR)": {
-        "FC Tokyo": 1.79,
-        "Kashiwa Reysol": 3.35,
-        "Draw": 3.4
-      },
-      "Betsson": {
-        "FC Tokyo": 1.95,
-        "Kashiwa Reysol": 3.45,
-        "Draw": 3.4
-      },
-      "Betclic (FR)": {
-        "FC Tokyo": 1.88,
-        "Kashiwa Reysol": 3.4,
-        "Draw": 3.4
-      },
       "Winamax (FR)": {
-        "FC Tokyo": 1.9,
-        "Kashiwa Reysol": 3.3,
-        "Draw": 3.45
+        "Galatasaray": 2.9,
+        "Lille": 2.15,
+        "Draw": 3.6
       },
       "Winamax (DE)": {
-        "FC Tokyo": 1.94,
-        "Kashiwa Reysol": 3.35,
+        "Galatasaray": 2.95,
+        "Lille": 2.15,
+        "Draw": 3.65
+      },
+      "LeoVegas (SE)": {
+        "Galatasaray": 3.1,
+        "Lille": 2.12,
+        "Draw": 3.65
+      },
+      "PMU (FR)": {
+        "Galatasaray": 3.0,
+        "Lille": 2.06,
+        "Draw": 3.5
+      },
+      "Unibet (SE)": {
+        "Galatasaray": 3.25,
+        "Lille": 2.18,
+        "Draw": 3.85
+      },
+      "Unibet (NL)": {
+        "Galatasaray": 3.25,
+        "Lille": 2.18,
+        "Draw": 3.85
+      },
+      "Betsson": {
+        "Galatasaray": 3.15,
+        "Lille": 2.2,
         "Draw": 3.55
       },
-      "Pinnacle": {
-        "FC Tokyo": 2.02,
-        "Kashiwa Reysol": 3.68,
-        "Draw": 3.75
+      "Nordic Bet": {
+        "Galatasaray": 3.2,
+        "Lille": 2.22,
+        "Draw": 3.6
       },
-      "Marathon Bet": {
-        "FC Tokyo": 1.99,
-        "Kashiwa Reysol": 3.5,
-        "Draw": 3.48
-      },
-      "1xBet": {
-        "FC Tokyo": 2.04,
-        "Kashiwa Reysol": 3.6,
-        "Draw": 3.58
-      },
-      "888sport": {
-        "FC Tokyo": 1.95,
-        "Kashiwa Reysol": 3.4,
-        "Draw": 3.4
-      },
-      "William Hill": {
-        "FC Tokyo": 1.95,
-        "Kashiwa Reysol": 3.4,
-        "Draw": 3.4
-      },
-      "Betfair": {
-        "FC Tokyo": 2.04,
-        "Kashiwa Reysol": 3.8,
-        "Draw": 3.75
-      },
-      "Tipico": {
-        "FC Tokyo": 1.83,
-        "Kashiwa Reysol": 3.7,
+      "BetOnline.ag": {
+        "Galatasaray": 3.2,
+        "Lille": 2.25,
         "Draw": 3.6
       },
       "BetAnything": {
-        "FC Tokyo": 2.0,
-        "Kashiwa Reysol": 3.65,
-        "Draw": 3.7
+        "Galatasaray": 3.17,
+        "Lille": 2.22,
+        "Draw": 3.71
+      }
+    },
+    "a362cccad837f1ffae61ff43a3536688:h2h": {
+      "Winamax (DE)": {
+        "Athletic Bilbao": 2.05,
+        "Levante": 3.5,
+        "Draw": 3.4
+      },
+      "Tipico": {
+        "Athletic Bilbao": 2.1,
+        "Levante": 3.7,
+        "Draw": 3.2
+      },
+      "Winamax (FR)": {
+        "Athletic Bilbao": 2.0,
+        "Levante": 3.35,
+        "Draw": 3.25
+      },
+      "1xBet": {
+        "Athletic Bilbao": 2.19,
+        "Levante": 3.73,
+        "Draw": 3.44
+      },
+      "Unibet (FR)": {
+        "Athletic Bilbao": 1.98,
+        "Levante": 3.5,
+        "Draw": 3.1
+      },
+      "William Hill": {
+        "Athletic Bilbao": 2.1,
+        "Levante": 3.4,
+        "Draw": 3.2
+      },
+      "Coolbet": {
+        "Athletic Bilbao": 2.2,
+        "Levante": 3.7,
+        "Draw": 3.25
+      },
+      "Betclic (FR)": {
+        "Athletic Bilbao": 2.0,
+        "Levante": 3.7,
+        "Draw": 3.13
+      },
+      "Betfair": {
+        "Athletic Bilbao": 2.2,
+        "Levante": 3.85,
+        "Draw": 3.45
+      },
+      "Marathon Bet": {
+        "Athletic Bilbao": 2.13,
+        "Levante": 3.64,
+        "Draw": 3.35
+      },
+      "Pinnacle": {
+        "Athletic Bilbao": 2.15,
+        "Levante": 3.8,
+        "Draw": 3.32
+      },
+      "Unibet (SE)": {
+        "Athletic Bilbao": 2.18,
+        "Levante": 3.75,
+        "Draw": 3.35
+      },
+      "Unibet (NL)": {
+        "Athletic Bilbao": 2.16,
+        "Levante": 3.75,
+        "Draw": 3.35
+      },
+      "LeoVegas (SE)": {
+        "Athletic Bilbao": 2.07,
+        "Levante": 3.45,
+        "Draw": 3.15
+      },
+      "PMU (FR)": {
+        "Athletic Bilbao": 2.04,
+        "Levante": 3.4,
+        "Draw": 3.05
       },
       "Matchbook": {
-        "FC Tokyo": 2.06,
-        "Kashiwa Reysol": 3.8,
-        "Draw": 3.8
+        "Athletic Bilbao": 2.2,
+        "Levante": 3.85,
+        "Draw": 3.45
+      },
+      "Codere (IT)": {
+        "Athletic Bilbao": 2.14,
+        "Levante": 3.6,
+        "Draw": 3.3
+      },
+      "BetOnline.ag": {
+        "Athletic Bilbao": 2.12,
+        "Levante": 3.8,
+        "Draw": 3.35
+      },
+      "Betsson": {
+        "Athletic Bilbao": 2.1,
+        "Levante": 3.65,
+        "Draw": 3.25
+      },
+      "Nordic Bet": {
+        "Athletic Bilbao": 2.1,
+        "Levante": 3.65,
+        "Draw": 3.25
       }
     }
   },
