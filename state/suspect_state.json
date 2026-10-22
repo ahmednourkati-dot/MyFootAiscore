@@ -1,295 +1,345 @@
 {
   "snapshots": {
-    "0c104f64573962dd1a690f53ba969caa:h2h": {
-      "Winamax (FR)": {
-        "AZ Alkmaar": 1.43,
-        "FC Ararat-Armenia": 6.75,
-        "Draw": 3.8
+    "3fd77104fe7fadd096c167edafffb43e:h2h": {
+      "Unibet (NL)": {
+        "Estudiantes La Plata": 8.0,
+        "Flamengo-RJ": 1.42,
+        "Draw": 4.1
       },
-      "Coolbet": {
-        "AZ Alkmaar": 1.45,
-        "FC Ararat-Armenia": 8.25,
-        "Draw": 4.25
-      },
-      "Betclic (FR)": {
-        "AZ Alkmaar": 1.38,
-        "FC Ararat-Armenia": 7.25,
-        "Draw": 3.8
-      },
-      "Unibet (FR)": {
-        "AZ Alkmaar": 1.37,
-        "FC Ararat-Armenia": 7.0,
-        "Draw": 3.65
-      },
-      "Winamax (DE)": {
-        "AZ Alkmaar": 1.45,
-        "FC Ararat-Armenia": 7.0,
+      "LeoVegas (SE)": {
+        "Estudiantes La Plata": 7.5,
+        "Flamengo-RJ": 1.4,
         "Draw": 4.0
       },
-      "Betfair": {
-        "AZ Alkmaar": 1.48,
-        "FC Ararat-Armenia": 9.0,
-        "Draw": 4.4
-      },
-      "Marathon Bet": {
-        "AZ Alkmaar": 1.43,
-        "FC Ararat-Armenia": 8.1,
-        "Draw": 3.92
-      },
-      "Nordic Bet": {
-        "AZ Alkmaar": 1.43,
-        "FC Ararat-Armenia": 7.7,
+      "PMU (FR)": {
+        "Estudiantes La Plata": 7.5,
+        "Flamengo-RJ": 1.36,
         "Draw": 3.9
       },
-      "Unibet (SE)": {
-        "AZ Alkmaar": 1.5,
-        "FC Ararat-Armenia": 6.75,
-        "Draw": 3.8
-      },
-      "PMU (FR)": {
-        "AZ Alkmaar": 1.42,
-        "FC Ararat-Armenia": 6.4,
-        "Draw": 3.6
-      },
-      "Unibet (NL)": {
-        "AZ Alkmaar": 1.5,
-        "FC Ararat-Armenia": 6.75,
-        "Draw": 3.8
-      },
-      "LeoVegas (SE)": {
-        "AZ Alkmaar": 1.5,
-        "FC Ararat-Armenia": 6.75,
-        "Draw": 3.8
-      },
-      "Matchbook": {
-        "AZ Alkmaar": 1.49,
-        "FC Ararat-Armenia": 8.8,
-        "Draw": 4.5
-      },
-      "Pinnacle": {
-        "AZ Alkmaar": 1.44,
-        "FC Ararat-Armenia": 8.21,
-        "Draw": 4.13
-      },
-      "888sport": {
-        "AZ Alkmaar": 1.4,
-        "FC Ararat-Armenia": 6.5,
-        "Draw": 4.33
-      }
-    },
-    "ffcb32a8a5597aacba7b654852d47b67:h2h": {
-      "Coolbet": {
-        "Bayer Leverkusen": 1.3,
-        "OFI Crete": 10.0,
-        "Draw": 5.5
-      },
-      "Winamax (DE)": {
-        "Bayer Leverkusen": 1.31,
-        "OFI Crete": 8.5,
-        "Draw": 5.0
-      },
       "Unibet (FR)": {
-        "Bayer Leverkusen": 1.25,
-        "OFI Crete": 8.0,
-        "Draw": 4.6
+        "Estudiantes La Plata": 6.5,
+        "Flamengo-RJ": 1.4,
+        "Draw": 3.85
+      },
+      "Betclic (FR)": {
+        "Estudiantes La Plata": 6.5,
+        "Flamengo-RJ": 1.46,
+        "Draw": 3.85
+      },
+      "Codere (IT)": {
+        "Estudiantes La Plata": 6.8,
+        "Flamengo-RJ": 1.49,
+        "Draw": 3.95
+      },
+      "1xBet": {
+        "Estudiantes La Plata": 7.9,
+        "Flamengo-RJ": 1.49,
+        "Draw": 4.12
+      },
+      "Marathon Bet": {
+        "Estudiantes La Plata": 7.7,
+        "Flamengo-RJ": 1.44,
+        "Draw": 4.0
       },
       "Winamax (FR)": {
-        "Bayer Leverkusen": 1.31,
-        "OFI Crete": 8.0,
-        "Draw": 4.7
+        "Estudiantes La Plata": 6.0,
+        "Flamengo-RJ": 1.46,
+        "Draw": 3.95
       },
-      "Betclic (FR)": {
-        "Bayer Leverkusen": 1.22,
-        "OFI Crete": 9.75,
-        "Draw": 4.9
-      },
-      "Betfair": {
-        "Bayer Leverkusen": 1.31,
-        "OFI Crete": 12.0,
-        "Draw": 6.0
-      },
-      "Marathon Bet": {
-        "Bayer Leverkusen": 1.26,
-        "OFI Crete": 10.5,
-        "Draw": 5.3
-      },
-      "Matchbook": {
-        "Bayer Leverkusen": 1.3,
-        "OFI Crete": 12.5,
-        "Draw": 6.2
-      },
-      "Nordic Bet": {
-        "Bayer Leverkusen": 1.28,
-        "OFI Crete": 9.1,
-        "Draw": 4.85
-      },
-      "Unibet (NL)": {
-        "Bayer Leverkusen": 1.24,
-        "OFI Crete": 10.5,
-        "Draw": 5.75
-      },
-      "LeoVegas (SE)": {
-        "Bayer Leverkusen": 1.25,
-        "OFI Crete": 10.5,
-        "Draw": 5.5
-      },
-      "Unibet (SE)": {
-        "Bayer Leverkusen": 1.24,
-        "OFI Crete": 10.5,
-        "Draw": 5.75
-      },
-      "PMU (FR)": {
-        "Bayer Leverkusen": 1.19,
-        "OFI Crete": 9.5,
-        "Draw": 5.2
-      },
-      "Pinnacle": {
-        "Bayer Leverkusen": 1.22,
-        "OFI Crete": 11.49,
-        "Draw": 6.83
+      "Winamax (DE)": {
+        "Estudiantes La Plata": 6.25,
+        "Flamengo-RJ": 1.47,
+        "Draw": 4.0
       },
       "888sport": {
-        "Bayer Leverkusen": 1.25,
-        "OFI Crete": 9.0,
-        "Draw": 5.5
-      }
-    },
-    "aa68244bf5096be895007004fab71a05:h2h": {
-      "Betclic (FR)": {
-        "Brighton and Hove Albion": 1.11,
-        "FK Jablonec": 14.0,
-        "Draw": 6.0
+        "Estudiantes La Plata": 7.0,
+        "Flamengo-RJ": 1.44,
+        "Draw": 3.8
+      },
+      "William Hill": {
+        "Estudiantes La Plata": 7.0,
+        "Flamengo-RJ": 1.44,
+        "Draw": 3.8
       },
       "Coolbet": {
-        "Brighton and Hove Albion": 1.16,
-        "FK Jablonec": 24.0,
-        "Draw": 7.25
+        "Estudiantes La Plata": 7.5,
+        "Flamengo-RJ": 1.54,
+        "Draw": 4.0
       },
-      "Unibet (FR)": {
-        "Brighton and Hove Albion": 1.12,
-        "FK Jablonec": 17.0,
-        "Draw": 5.4
-      },
-      "Marathon Bet": {
-        "Brighton and Hove Albion": 1.08,
-        "FK Jablonec": 19.0,
-        "Draw": 7.8
-      },
-      "Unibet (NL)": {
-        "Brighton and Hove Albion": 1.21,
-        "FK Jablonec": 12.5,
-        "Draw": 5.8
-      },
-      "LeoVegas (SE)": {
-        "Brighton and Hove Albion": 1.17,
-        "FK Jablonec": 11.5,
-        "Draw": 5.8
-      },
-      "Betfair": {
-        "Brighton and Hove Albion": 1.14,
-        "FK Jablonec": 32.0,
-        "Draw": 10.0
-      },
-      "Nordic Bet": {
-        "Brighton and Hove Albion": 1.12,
-        "FK Jablonec": 17.5,
-        "Draw": 6.8
+      "Pinnacle": {
+        "Estudiantes La Plata": 7.7,
+        "Flamengo-RJ": 1.51,
+        "Draw": 3.95
       },
       "Betsson": {
-        "Brighton and Hove Albion": 1.1,
-        "FK Jablonec": 21.0,
-        "Draw": 6.8
-      },
-      "888sport": {
-        "Brighton and Hove Albion": 1.11,
-        "FK Jablonec": 17.0,
-        "Draw": 8.5
-      },
-      "Pinnacle": {
-        "Brighton and Hove Albion": 1.15,
-        "FK Jablonec": 17.1,
-        "Draw": 7.74
-      },
-      "Matchbook": {
-        "Brighton and Hove Albion": 1.15,
-        "FK Jablonec": 32.0,
-        "Draw": 9.8
-      }
-    },
-    "13c0a92ee5159d2f1d2e0368811c9421:h2h": {
-      "Winamax (DE)": {
-        "Dinamo Zagreb": 1.64,
-        "NEC Nijmegen": 5.1,
-        "Draw": 3.55
-      },
-      "Coolbet": {
-        "Dinamo Zagreb": 1.7,
-        "NEC Nijmegen": 5.5,
-        "Draw": 3.75
-      },
-      "Winamax (FR)": {
-        "Dinamo Zagreb": 1.6,
-        "NEC Nijmegen": 4.8,
-        "Draw": 3.45
-      },
-      "Unibet (FR)": {
-        "Dinamo Zagreb": 1.57,
-        "NEC Nijmegen": 4.9,
-        "Draw": 3.3
-      },
-      "Betclic (FR)": {
-        "Dinamo Zagreb": 1.58,
-        "NEC Nijmegen": 4.8,
-        "Draw": 3.58
-      },
-      "Marathon Bet": {
-        "Dinamo Zagreb": 1.61,
-        "NEC Nijmegen": 5.3,
-        "Draw": 3.74
-      },
-      "Betfair": {
-        "Dinamo Zagreb": 1.69,
-        "NEC Nijmegen": 6.0,
-        "Draw": 4.0
+        "Estudiantes La Plata": 6.8,
+        "Flamengo-RJ": 1.48,
+        "Draw": 3.85
       },
       "Nordic Bet": {
-        "Dinamo Zagreb": 1.62,
-        "NEC Nijmegen": 4.85,
+        "Estudiantes La Plata": 6.8,
+        "Flamengo-RJ": 1.48,
+        "Draw": 3.85
+      },
+      "Tipico": {
+        "Estudiantes La Plata": 7.8,
+        "Flamengo-RJ": 1.42,
+        "Draw": 4.2
+      },
+      "GTbets": {
+        "Estudiantes La Plata": 7.48,
+        "Flamengo-RJ": 1.41,
+        "Draw": 4.2
+      },
+      "BetOnline.ag": {
+        "Estudiantes La Plata": 8.0,
+        "Flamengo-RJ": 1.48,
+        "Draw": 4.25
+      },
+      "Betfair": {
+        "Estudiantes La Plata": 8.2,
+        "Flamengo-RJ": 1.54,
+        "Draw": 4.3
+      }
+    },
+    "5e77ee16efd0edd49a9b41f083d5226f:h2h": {
+      "Codere (IT)": {
+        "Brisbane Roar": 2.17,
+        "Perth Glory": 3.2,
+        "Draw": 3.45
+      },
+      "Winamax (FR)": {
+        "Brisbane Roar": 2.05,
+        "Perth Glory": 3.0,
+        "Draw": 3.35
+      },
+      "William Hill": {
+        "Brisbane Roar": 2.15,
+        "Perth Glory": 3.1,
+        "Draw": 3.3
+      },
+      "Unibet (FR)": {
+        "Brisbane Roar": 1.96,
+        "Perth Glory": 3.1,
+        "Draw": 3.35
+      },
+      "888sport": {
+        "Brisbane Roar": 2.15,
+        "Perth Glory": 3.1,
+        "Draw": 3.3
+      },
+      "Winamax (DE)": {
+        "Brisbane Roar": 2.1,
+        "Perth Glory": 3.05,
+        "Draw": 3.45
+      },
+      "Betsson": {
+        "Brisbane Roar": 2.15,
+        "Perth Glory": 3.05,
+        "Draw": 3.4
+      },
+      "Nordic Bet": {
+        "Brisbane Roar": 2.15,
+        "Perth Glory": 3.05,
+        "Draw": 3.4
+      },
+      "Marathon Bet": {
+        "Brisbane Roar": 2.11,
+        "Perth Glory": 3.2,
+        "Draw": 3.46
+      },
+      "Betfair": {
+        "Brisbane Roar": 2.32,
+        "Perth Glory": 3.25,
         "Draw": 3.65
       },
       "LeoVegas (SE)": {
-        "Dinamo Zagreb": 1.56,
-        "NEC Nijmegen": 5.6,
-        "Draw": 3.85
+        "Brisbane Roar": 2.05,
+        "Perth Glory": 3.3,
+        "Draw": 3.4
       },
       "Unibet (SE)": {
-        "Dinamo Zagreb": 1.56,
-        "NEC Nijmegen": 5.6,
-        "Draw": 3.85
+        "Brisbane Roar": 2.06,
+        "Perth Glory": 3.3,
+        "Draw": 3.4
       },
       "PMU (FR)": {
-        "Dinamo Zagreb": 1.48,
-        "NEC Nijmegen": 5.25,
-        "Draw": 3.65
+        "Brisbane Roar": 1.97,
+        "Perth Glory": 3.15,
+        "Draw": 3.25
       },
       "Unibet (NL)": {
-        "Dinamo Zagreb": 1.56,
-        "NEC Nijmegen": 5.6,
-        "Draw": 3.85
+        "Brisbane Roar": 2.06,
+        "Perth Glory": 3.3,
+        "Draw": 3.4
       },
-      "Matchbook": {
-        "Dinamo Zagreb": 1.69,
-        "NEC Nijmegen": 6.0,
-        "Draw": 4.0
+      "GTbets": {
+        "Brisbane Roar": 2.13,
+        "Perth Glory": 3.26,
+        "Draw": 3.52
       },
       "Pinnacle": {
-        "Dinamo Zagreb": 1.56,
-        "NEC Nijmegen": 5.65,
-        "Draw": 4.16
+        "Brisbane Roar": 2.28,
+        "Perth Glory": 3.21,
+        "Draw": 3.53
+      },
+      "Coolbet": {
+        "Brisbane Roar": 2.09,
+        "Perth Glory": 3.4,
+        "Draw": 3.6
+      },
+      "BetOnline.ag": {
+        "Brisbane Roar": 2.26,
+        "Perth Glory": 3.23,
+        "Draw": 3.53
+      },
+      "Matchbook": {
+        "Brisbane Roar": 2.32,
+        "Perth Glory": 3.3,
+        "Draw": 3.65
+      }
+    },
+    "36a4afa90eb6e89631efac2705206fa5:h2h": {
+      "LeoVegas (SE)": {
+        "Al-Faisaly KSA FC": 9.5,
+        "Al-Nassr": 1.18,
+        "Draw": 5.8
+      },
+      "Unibet (SE)": {
+        "Al-Faisaly KSA FC": 10.0,
+        "Al-Nassr": 1.21,
+        "Draw": 6.0
+      },
+      "PMU (FR)": {
+        "Al-Faisaly KSA FC": 9.5,
+        "Al-Nassr": 1.14,
+        "Draw": 5.6
+      },
+      "Unibet (NL)": {
+        "Al-Faisaly KSA FC": 10.0,
+        "Al-Nassr": 1.21,
+        "Draw": 6.0
+      },
+      "Unibet (FR)": {
+        "Al-Faisaly KSA FC": 7.9,
+        "Al-Nassr": 1.16,
+        "Draw": 5.4
+      },
+      "Betclic (FR)": {
+        "Al-Faisaly KSA FC": 8.25,
+        "Al-Nassr": 1.19,
+        "Draw": 5.75
+      },
+      "Winamax (DE)": {
+        "Al-Faisaly KSA FC": 7.75,
+        "Al-Nassr": 1.23,
+        "Draw": 6.0
+      },
+      "Winamax (FR)": {
+        "Al-Faisaly KSA FC": 7.25,
+        "Al-Nassr": 1.2,
+        "Draw": 5.6
+      },
+      "1xBet": {
+        "Al-Faisaly KSA FC": 10.8,
+        "Al-Nassr": 1.2,
+        "Draw": 6.97
+      },
+      "Betfair": {
+        "Al-Faisaly KSA FC": 10.5,
+        "Al-Nassr": 1.27,
+        "Draw": 6.8
+      },
+      "William Hill": {
+        "Al-Faisaly KSA FC": 9.0,
+        "Al-Nassr": 1.22,
+        "Draw": 5.8
       },
       "888sport": {
-        "Dinamo Zagreb": 1.6,
-        "NEC Nijmegen": 4.8,
+        "Al-Faisaly KSA FC": 9.0,
+        "Al-Nassr": 1.22,
+        "Draw": 5.75
+      },
+      "Pinnacle": {
+        "Al-Faisaly KSA FC": 8.59,
+        "Al-Nassr": 1.24,
+        "Draw": 6.93
+      },
+      "Tipico": {
+        "Al-Faisaly KSA FC": 9.5,
+        "Al-Nassr": 1.2,
+        "Draw": 6.2
+      }
+    },
+    "4b149cdf49f5d677fe57fed9173b28fe:h2h": {
+      "Unibet (SE)": {
+        "Al-Ittihad": 1.95,
+        "Diriyah Club": 3.15,
+        "Draw": 3.65
+      },
+      "PMU (FR)": {
+        "Al-Ittihad": 1.83,
+        "Diriyah Club": 3.0,
+        "Draw": 3.45
+      },
+      "LeoVegas (SE)": {
+        "Al-Ittihad": 1.91,
+        "Diriyah Club": 3.1,
+        "Draw": 3.55
+      },
+      "Unibet (NL)": {
+        "Al-Ittihad": 1.95,
+        "Diriyah Club": 3.15,
+        "Draw": 3.65
+      },
+      "Betclic (FR)": {
+        "Al-Ittihad": 1.8,
+        "Diriyah Club": 3.15,
+        "Draw": 3.73
+      },
+      "Unibet (FR)": {
+        "Al-Ittihad": 1.75,
+        "Diriyah Club": 3.1,
+        "Draw": 3.65
+      },
+      "Winamax (DE)": {
+        "Al-Ittihad": 1.9,
+        "Diriyah Club": 3.1,
+        "Draw": 3.9
+      },
+      "Winamax (FR)": {
+        "Al-Ittihad": 1.84,
+        "Diriyah Club": 3.0,
+        "Draw": 3.7
+      },
+      "1xBet": {
+        "Al-Ittihad": 1.98,
+        "Diriyah Club": 3.27,
+        "Draw": 3.88
+      },
+      "Betfair": {
+        "Al-Ittihad": 1.91,
+        "Diriyah Club": 3.75,
+        "Draw": 4.1
+      },
+      "888sport": {
+        "Al-Ittihad": 1.91,
+        "Diriyah Club": 3.2,
+        "Draw": 3.4
+      },
+      "William Hill": {
+        "Al-Ittihad": 1.91,
+        "Diriyah Club": 3.2,
+        "Draw": 3.4
+      },
+      "Pinnacle": {
+        "Al-Ittihad": 1.9,
+        "Diriyah Club": 3.45,
+        "Draw": 4.15
+      },
+      "Tipico": {
+        "Al-Ittihad": 1.8,
+        "Diriyah Club": 3.5,
         "Draw": 3.9
       }
     }
@@ -7623,18 +7673,77 @@
       "confidence": 20,
       "alert_type": "value",
       "alerted_at": "2026-10-22T17:04:56.019321+00:00"
+    },
+    {
+      "state_key": "36a4afa90eb6e89631efac2705206fa5:h2h",
+      "event_id": "36a4afa90eb6e89631efac2705206fa5",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Faisaly KSA FC",
+      "away_team": "Al-Nassr",
+      "commence_time": "2026-10-23T13:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Faisaly KSA FC",
+      "odds_at_alert": 10.0,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-10-22T21:29:20.112773+00:00"
+    },
+    {
+      "state_key": "36a4afa90eb6e89631efac2705206fa5:h2h",
+      "event_id": "36a4afa90eb6e89631efac2705206fa5",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Faisaly KSA FC",
+      "away_team": "Al-Nassr",
+      "commence_time": "2026-10-23T13:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Faisaly KSA FC",
+      "odds_at_alert": 10.0,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-10-22T21:29:20.458539+00:00"
+    },
+    {
+      "state_key": "36a4afa90eb6e89631efac2705206fa5:h2h",
+      "event_id": "36a4afa90eb6e89631efac2705206fa5",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Faisaly KSA FC",
+      "away_team": "Al-Nassr",
+      "commence_time": "2026-10-23T13:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Faisaly KSA FC",
+      "odds_at_alert": 10.8,
+      "stake_pct": 5.0,
+      "confidence": 18,
+      "alert_type": "value",
+      "alerted_at": "2026-10-22T21:29:20.781278+00:00"
+    },
+    {
+      "state_key": "36a4afa90eb6e89631efac2705206fa5:h2h",
+      "event_id": "36a4afa90eb6e89631efac2705206fa5",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Al-Faisaly KSA FC",
+      "away_team": "Al-Nassr",
+      "commence_time": "2026-10-23T13:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Al-Faisaly KSA FC",
+      "odds_at_alert": 10.5,
+      "stake_pct": 3.0,
+      "confidence": 15,
+      "alert_type": "value",
+      "alerted_at": "2026-10-22T21:29:21.117768+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "0c104f64573962dd1a690f53ba969caa:h2h|Betfair|FC Ararat-Armenia",
-    "0c104f64573962dd1a690f53ba969caa:h2h|Matchbook|FC Ararat-Armenia",
-    "aa68244bf5096be895007004fab71a05:h2h|Betfair|Draw",
-    "aa68244bf5096be895007004fab71a05:h2h|Betfair|FK Jablonec",
-    "aa68244bf5096be895007004fab71a05:h2h|Betsson|FK Jablonec",
-    "aa68244bf5096be895007004fab71a05:h2h|Coolbet|FK Jablonec",
-    "aa68244bf5096be895007004fab71a05:h2h|Marathon Bet|FK Jablonec",
-    "aa68244bf5096be895007004fab71a05:h2h|Matchbook|Draw",
-    "aa68244bf5096be895007004fab71a05:h2h|Matchbook|FK Jablonec"
+    "36a4afa90eb6e89631efac2705206fa5:h2h|1xBet|Al-Faisaly KSA FC",
+    "36a4afa90eb6e89631efac2705206fa5:h2h|Betfair|Al-Faisaly KSA FC",
+    "36a4afa90eb6e89631efac2705206fa5:h2h|Unibet (NL)|Al-Faisaly KSA FC",
+    "36a4afa90eb6e89631efac2705206fa5:h2h|Unibet (SE)|Al-Faisaly KSA FC"
   ]
 }
