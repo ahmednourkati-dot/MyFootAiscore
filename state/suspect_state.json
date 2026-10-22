@@ -1,149 +1,5 @@
 {
   "snapshots": {
-    "d31e02db07844bb9404170edf4e33d63:h2h": {
-      "Unibet (NL)": {
-        "Cruz Azul": 2.43,
-        "Pachuca": 4.25,
-        "Draw": 2.28
-      },
-      "LeoVegas (SE)": {
-        "Cruz Azul": 2.35,
-        "Pachuca": 3.95,
-        "Draw": 2.14
-      },
-      "Unibet (SE)": {
-        "Cruz Azul": 2.43,
-        "Pachuca": 4.25,
-        "Draw": 2.28
-      },
-      "PMU (FR)": {
-        "Cruz Azul": 2.18,
-        "Pachuca": 3.8,
-        "Draw": 2.04
-      },
-      "Betclic (FR)": {
-        "Cruz Azul": 2.38,
-        "Pachuca": 3.47,
-        "Draw": 2.37
-      },
-      "Coolbet": {
-        "Cruz Azul": 2.6,
-        "Pachuca": 4.33,
-        "Draw": 2.38
-      },
-      "Betfair": {
-        "Cruz Azul": 2.62,
-        "Pachuca": 4.4,
-        "Draw": 2.54
-      },
-      "888sport": {
-        "Cruz Azul": 2.4,
-        "Pachuca": 3.6,
-        "Draw": 2.2
-      },
-      "Marathon Bet": {
-        "Cruz Azul": 2.48,
-        "Pachuca": 4.33,
-        "Draw": 2.13
-      },
-      "Tipico": {
-        "Cruz Azul": 2.4,
-        "Pachuca": 4.0,
-        "Draw": 2.3
-      },
-      "Nordic Bet": {
-        "Cruz Azul": 2.45,
-        "Pachuca": 4.1,
-        "Draw": 2.25
-      },
-      "Betsson": {
-        "Cruz Azul": 2.45,
-        "Pachuca": 4.1,
-        "Draw": 2.25
-      },
-      "Pinnacle": {
-        "Cruz Azul": 2.44,
-        "Pachuca": 3.62,
-        "Draw": 2.68
-      },
-      "Matchbook": {
-        "Cruz Azul": 2.66,
-        "Pachuca": 4.5,
-        "Draw": 2.42
-      }
-    },
-    "24e76350fbe9f35cb57c93e72bc2a0cf:h2h": {
-      "Unibet (SE)": {
-        "Pumas": 21.0,
-        "Santos Laguna": 1.15,
-        "Draw": 6.4
-      },
-      "LeoVegas (SE)": {
-        "Pumas": 20.0,
-        "Santos Laguna": 1.09,
-        "Draw": 6.0
-      },
-      "PMU (FR)": {
-        "Pumas": 19.0,
-        "Santos Laguna": 1.03,
-        "Draw": 5.75
-      },
-      "Unibet (NL)": {
-        "Pumas": 21.0,
-        "Santos Laguna": 1.15,
-        "Draw": 6.4
-      },
-      "Betclic (FR)": {
-        "Pumas": 14.75,
-        "Santos Laguna": 1.14,
-        "Draw": 5.1
-      },
-      "Coolbet": {
-        "Pumas": 25.0,
-        "Santos Laguna": 1.18,
-        "Draw": 6.5
-      },
-      "Pinnacle": {
-        "Pumas": 20.71,
-        "Santos Laguna": 1.18,
-        "Draw": 6.22
-      },
-      "Betfair": {
-        "Pumas": 23.0,
-        "Santos Laguna": 1.23,
-        "Draw": 6.4
-      },
-      "Marathon Bet": {
-        "Pumas": 19.75,
-        "Santos Laguna": 1.12,
-        "Draw": 6.1
-      },
-      "Matchbook": {
-        "Pumas": 24.0,
-        "Santos Laguna": 1.24,
-        "Draw": 6.0
-      },
-      "888sport": {
-        "Pumas": 15.0,
-        "Santos Laguna": 1.17,
-        "Draw": 5.0
-      },
-      "Nordic Bet": {
-        "Pumas": 19.5,
-        "Santos Laguna": 1.15,
-        "Draw": 5.8
-      },
-      "Betsson": {
-        "Pumas": 19.5,
-        "Santos Laguna": 1.15,
-        "Draw": 5.8
-      },
-      "Tipico": {
-        "Pumas": 20.0,
-        "Santos Laguna": 1.12,
-        "Draw": 6.0
-      }
-    },
     "567d75cc7053d4333358c028fcfd1af8:h2h": {
       "Unibet (SE)": {
         "Al-Fayha": 2.8,
@@ -166,131 +22,295 @@
         "Draw": 3.25
       },
       "Unibet (FR)": {
-        "Al-Fayha": 2.85,
-        "Al-Hazem": 2.0,
-        "Draw": 3.1
-      },
-      "Betclic (FR)": {
-        "Al-Fayha": 2.92,
-        "Al-Hazem": 2.13,
-        "Draw": 3.22
+        "Al-Fayha": 2.9,
+        "Al-Hazem": 1.97,
+        "Draw": 3.15
       },
       "Winamax (DE)": {
-        "Al-Fayha": 2.9,
-        "Al-Hazem": 2.2,
-        "Draw": 3.35
+        "Al-Fayha": 2.95,
+        "Al-Hazem": 2.15,
+        "Draw": 3.4
       },
       "Winamax (FR)": {
         "Al-Fayha": 2.85,
-        "Al-Hazem": 2.15,
-        "Draw": 3.25
+        "Al-Hazem": 2.1,
+        "Draw": 3.3
       },
       "Pinnacle": {
-        "Al-Fayha": 3.05,
-        "Al-Hazem": 2.39,
-        "Draw": 3.31
+        "Al-Fayha": 3.22,
+        "Al-Hazem": 2.21,
+        "Draw": 3.48
       },
       "1xBet": {
-        "Al-Fayha": 3.1,
-        "Al-Hazem": 2.26,
-        "Draw": 3.28
+        "Al-Fayha": 3.07,
+        "Al-Hazem": 2.25,
+        "Draw": 3.34
       },
       "888sport": {
         "Al-Fayha": 2.9,
-        "Al-Hazem": 2.2,
+        "Al-Hazem": 2.15,
         "Draw": 3.0
       },
       "William Hill": {
         "Al-Fayha": 2.9,
-        "Al-Hazem": 2.2,
+        "Al-Hazem": 2.15,
         "Draw": 3.0
       },
       "Betfair": {
-        "Al-Fayha": 3.15,
-        "Al-Hazem": 2.44,
-        "Draw": 3.4
+        "Al-Fayha": 3.35,
+        "Al-Hazem": 2.26,
+        "Draw": 3.55
       },
       "Tipico": {
-        "Al-Fayha": 3.1,
-        "Al-Hazem": 2.15,
-        "Draw": 3.3
+        "Al-Fayha": 3.2,
+        "Al-Hazem": 2.05,
+        "Draw": 3.4
       }
     },
     "8afa92b39d83c062090730e884a9d726:h2h": {
       "Unibet (FR)": {
-        "FC Kairat": 4.5,
-        "Panathinaikos FC": 1.57,
+        "FC Kairat": 4.6,
+        "Panathinaikos FC": 1.54,
         "Draw": 3.6
       },
       "Coolbet": {
-        "FC Kairat": 5.25,
-        "Panathinaikos FC": 1.64,
+        "FC Kairat": 5.5,
+        "Panathinaikos FC": 1.63,
         "Draw": 4.0
       },
       "1xBet": {
-        "FC Kairat": 5.08,
-        "Panathinaikos FC": 1.69,
+        "FC Kairat": 5.18,
+        "Panathinaikos FC": 1.68,
         "Draw": 4.03
       },
       "Betclic (FR)": {
-        "FC Kairat": 4.7,
-        "Panathinaikos FC": 1.6,
-        "Draw": 3.8
+        "FC Kairat": 5.0,
+        "Panathinaikos FC": 1.56,
+        "Draw": 3.9
       },
       "Marathon Bet": {
-        "FC Kairat": 4.9,
-        "Panathinaikos FC": 1.63,
+        "FC Kairat": 5.0,
+        "Panathinaikos FC": 1.62,
         "Draw": 3.88
       },
       "LeoVegas (SE)": {
         "FC Kairat": 4.8,
-        "Panathinaikos FC": 1.57,
+        "Panathinaikos FC": 1.6,
         "Draw": 3.75
       },
       "Unibet (NL)": {
-        "FC Kairat": 5.2,
+        "FC Kairat": 5.1,
         "Panathinaikos FC": 1.64,
-        "Draw": 3.9
+        "Draw": 3.95
       },
       "Betfair": {
-        "FC Kairat": 5.6,
-        "Panathinaikos FC": 1.69,
-        "Draw": 4.1
+        "FC Kairat": 6.0,
+        "Panathinaikos FC": 1.66,
+        "Draw": 4.2
       },
       "Nordic Bet": {
-        "FC Kairat": 4.9,
-        "Panathinaikos FC": 1.62,
+        "FC Kairat": 5.4,
+        "Panathinaikos FC": 1.58,
         "Draw": 3.85
       },
       "Betsson": {
-        "FC Kairat": 4.9,
-        "Panathinaikos FC": 1.62,
+        "FC Kairat": 5.4,
+        "Panathinaikos FC": 1.58,
         "Draw": 3.85
       },
       "888sport": {
         "FC Kairat": 5.0,
-        "Panathinaikos FC": 1.65,
-        "Draw": 3.75
+        "Panathinaikos FC": 1.61,
+        "Draw": 3.7
       },
       "Pinnacle": {
-        "FC Kairat": 5.12,
-        "Panathinaikos FC": 1.68,
-        "Draw": 3.99
+        "FC Kairat": 5.59,
+        "Panathinaikos FC": 1.62,
+        "Draw": 4.07
       },
       "William Hill": {
         "FC Kairat": 5.0,
-        "Panathinaikos FC": 1.65,
-        "Draw": 3.75
+        "Panathinaikos FC": 1.62,
+        "Draw": 3.7
       },
       "BetOnline.ag": {
-        "FC Kairat": 5.3,
+        "FC Kairat": 5.55,
         "Panathinaikos FC": 1.62,
-        "Draw": 4.1
+        "Draw": 3.94
       },
       "Matchbook": {
-        "FC Kairat": 5.7,
-        "Panathinaikos FC": 1.69,
-        "Draw": 4.1
+        "FC Kairat": 6.0,
+        "Panathinaikos FC": 1.66,
+        "Draw": 4.2
+      }
+    },
+    "027232b18e95f59b4f093b979833f5d7:h2h": {
+      "LeoVegas (SE)": {
+        "Al-Fateh": 2.75,
+        "Al-Shabab": 2.08,
+        "Draw": 3.5
+      },
+      "PMU (FR)": {
+        "Al-Fateh": 2.65,
+        "Al-Shabab": 2.02,
+        "Draw": 3.35
+      },
+      "Unibet (NL)": {
+        "Al-Fateh": 2.8,
+        "Al-Shabab": 2.15,
+        "Draw": 3.6
+      },
+      "Unibet (SE)": {
+        "Al-Fateh": 2.8,
+        "Al-Shabab": 2.15,
+        "Draw": 3.6
+      },
+      "Unibet (FR)": {
+        "Al-Fateh": 2.8,
+        "Al-Shabab": 1.92,
+        "Draw": 3.45
+      },
+      "Winamax (DE)": {
+        "Al-Fateh": 2.85,
+        "Al-Shabab": 2.1,
+        "Draw": 3.7
+      },
+      "Winamax (FR)": {
+        "Al-Fateh": 2.8,
+        "Al-Shabab": 2.05,
+        "Draw": 3.6
+      },
+      "Betfair": {
+        "Al-Fateh": 3.25,
+        "Al-Shabab": 2.18,
+        "Draw": 3.9
+      },
+      "1xBet": {
+        "Al-Fateh": 3.06,
+        "Al-Shabab": 2.09,
+        "Draw": 3.77
+      },
+      "Pinnacle": {
+        "Al-Fateh": 3.15,
+        "Al-Shabab": 2.13,
+        "Draw": 3.81
+      },
+      "888sport": {
+        "Al-Fateh": 2.88,
+        "Al-Shabab": 2.05,
+        "Draw": 3.4
+      },
+      "William Hill": {
+        "Al-Fateh": 2.88,
+        "Al-Shabab": 2.05,
+        "Draw": 3.4
+      },
+      "Tipico": {
+        "Al-Fateh": 3.1,
+        "Al-Shabab": 1.95,
+        "Draw": 3.8
+      }
+    },
+    "0c104f64573962dd1a690f53ba969caa:h2h": {
+      "Winamax (FR)": {
+        "AZ Alkmaar": 1.33,
+        "FC Ararat-Armenia": 6.25,
+        "Draw": 5.0
+      },
+      "Coolbet": {
+        "AZ Alkmaar": 1.4,
+        "FC Ararat-Armenia": 7.5,
+        "Draw": 5.25
+      },
+      "Betclic (FR)": {
+        "AZ Alkmaar": 1.33,
+        "FC Ararat-Armenia": 6.9,
+        "Draw": 4.95
+      },
+      "Unibet (FR)": {
+        "AZ Alkmaar": 1.32,
+        "FC Ararat-Armenia": 6.6,
+        "Draw": 4.7
+      },
+      "Winamax (DE)": {
+        "AZ Alkmaar": 1.35,
+        "FC Ararat-Armenia": 6.75,
+        "Draw": 5.3
+      },
+      "Betfair": {
+        "AZ Alkmaar": 1.42,
+        "FC Ararat-Armenia": 8.8,
+        "Draw": 5.4
+      },
+      "Marathon Bet": {
+        "AZ Alkmaar": 1.4,
+        "FC Ararat-Armenia": 7.5,
+        "Draw": 5.05
+      },
+      "1xBet": {
+        "AZ Alkmaar": 1.42,
+        "FC Ararat-Armenia": 7.6,
+        "Draw": 5.12
+      },
+      "Nordic Bet": {
+        "AZ Alkmaar": 1.38,
+        "FC Ararat-Armenia": 7.9,
+        "Draw": 5.3
+      },
+      "Betsson": {
+        "AZ Alkmaar": 1.36,
+        "FC Ararat-Armenia": 7.8,
+        "Draw": 5.25
+      },
+      "Unibet (SE)": {
+        "AZ Alkmaar": 1.41,
+        "FC Ararat-Armenia": 8.0,
+        "Draw": 5.0
+      },
+      "PMU (FR)": {
+        "AZ Alkmaar": 1.33,
+        "FC Ararat-Armenia": 6.75,
+        "Draw": 4.5
+      },
+      "Unibet (NL)": {
+        "AZ Alkmaar": 1.41,
+        "FC Ararat-Armenia": 8.0,
+        "Draw": 5.0
+      },
+      "LeoVegas (SE)": {
+        "AZ Alkmaar": 1.36,
+        "FC Ararat-Armenia": 7.0,
+        "Draw": 4.7
+      },
+      "Matchbook": {
+        "AZ Alkmaar": 1.42,
+        "FC Ararat-Armenia": 8.8,
+        "Draw": 5.4
+      },
+      "Pinnacle": {
+        "AZ Alkmaar": 1.39,
+        "FC Ararat-Armenia": 7.66,
+        "Draw": 5.34
+      },
+      "William Hill": {
+        "AZ Alkmaar": 1.36,
+        "FC Ararat-Armenia": 7.0,
+        "Draw": 4.8
+      },
+      "888sport": {
+        "AZ Alkmaar": 1.36,
+        "FC Ararat-Armenia": 7.0,
+        "Draw": 4.8
+      },
+      "Codere (IT)": {
+        "AZ Alkmaar": 1.38,
+        "FC Ararat-Armenia": 7.4,
+        "Draw": 5.2
+      },
+      "BetOnline.ag": {
+        "AZ Alkmaar": 1.4,
+        "FC Ararat-Armenia": 7.65,
+        "Draw": 5.2
       }
     }
   },
@@ -7479,22 +7499,45 @@
       "confidence": 7,
       "alert_type": "value",
       "alerted_at": "2026-10-22T04:33:32.848900+00:00"
+    },
+    {
+      "state_key": "0c104f64573962dd1a690f53ba969caa:h2h",
+      "event_id": "0c104f64573962dd1a690f53ba969caa",
+      "sport_key": "soccer",
+      "competition": "UEFA Europa League",
+      "home_team": "FC Ararat-Armenia",
+      "away_team": "AZ Alkmaar",
+      "commence_time": "2026-10-22T16:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Ararat-Armenia",
+      "odds_at_alert": 8.8,
+      "stake_pct": 3.0,
+      "confidence": 11,
+      "alert_type": "value",
+      "alerted_at": "2026-10-22T11:41:58.320905+00:00"
+    },
+    {
+      "state_key": "0c104f64573962dd1a690f53ba969caa:h2h",
+      "event_id": "0c104f64573962dd1a690f53ba969caa",
+      "sport_key": "soccer",
+      "competition": "UEFA Europa League",
+      "home_team": "FC Ararat-Armenia",
+      "away_team": "AZ Alkmaar",
+      "commence_time": "2026-10-22T16:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Ararat-Armenia",
+      "odds_at_alert": 8.8,
+      "stake_pct": 3.0,
+      "confidence": 11,
+      "alert_type": "value",
+      "alerted_at": "2026-10-22T11:41:58.704916+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "24e76350fbe9f35cb57c93e72bc2a0cf:h2h|Betfair|Pumas",
-    "24e76350fbe9f35cb57c93e72bc2a0cf:h2h|Coolbet|Pumas",
-    "24e76350fbe9f35cb57c93e72bc2a0cf:h2h|Matchbook|Pumas",
+    "0c104f64573962dd1a690f53ba969caa:h2h|Betfair|FC Ararat-Armenia",
+    "0c104f64573962dd1a690f53ba969caa:h2h|Matchbook|FC Ararat-Armenia",
     "8afa92b39d83c062090730e884a9d726:h2h|Betfair|FC Kairat",
-    "8afa92b39d83c062090730e884a9d726:h2h|Matchbook|FC Kairat",
-    "d31e02db07844bb9404170edf4e33d63:h2h|Betfair|Pachuca",
-    "d31e02db07844bb9404170edf4e33d63:h2h|Betsson|Pachuca",
-    "d31e02db07844bb9404170edf4e33d63:h2h|Coolbet|Pachuca",
-    "d31e02db07844bb9404170edf4e33d63:h2h|Marathon Bet|Pachuca",
-    "d31e02db07844bb9404170edf4e33d63:h2h|Matchbook|Pachuca",
-    "d31e02db07844bb9404170edf4e33d63:h2h|Nordic Bet|Pachuca",
-    "d31e02db07844bb9404170edf4e33d63:h2h|Unibet (NL)|Pachuca",
-    "d31e02db07844bb9404170edf4e33d63:h2h|Unibet (SE)|Pachuca"
+    "8afa92b39d83c062090730e884a9d726:h2h|Matchbook|FC Kairat"
   ]
 }
