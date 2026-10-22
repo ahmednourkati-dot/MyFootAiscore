@@ -1,356 +1,296 @@
 {
   "snapshots": {
-    "040b0ac2a1fcd80ee1b1ef3b4eedbdb5:h2h": {
-      "LeoVegas (SE)": {
-        "Clube Atlético Mineiro": 3.65,
-        "Montevideo City Torque": 2.8,
-        "Draw": 1.94
-      },
+    "d31e02db07844bb9404170edf4e33d63:h2h": {
       "Unibet (NL)": {
-        "Clube Atlético Mineiro": 3.9,
-        "Montevideo City Torque": 2.95,
-        "Draw": 2.07
+        "Cruz Azul": 2.43,
+        "Pachuca": 4.25,
+        "Draw": 2.28
+      },
+      "LeoVegas (SE)": {
+        "Cruz Azul": 2.35,
+        "Pachuca": 3.95,
+        "Draw": 2.14
+      },
+      "Unibet (SE)": {
+        "Cruz Azul": 2.43,
+        "Pachuca": 4.25,
+        "Draw": 2.28
       },
       "PMU (FR)": {
-        "Clube Atlético Mineiro": 3.6,
-        "Montevideo City Torque": 2.7,
-        "Draw": 1.91
+        "Cruz Azul": 2.18,
+        "Pachuca": 3.8,
+        "Draw": 2.04
+      },
+      "Betclic (FR)": {
+        "Cruz Azul": 2.38,
+        "Pachuca": 3.47,
+        "Draw": 2.37
       },
       "Coolbet": {
-        "Clube Atlético Mineiro": 4.0,
-        "Montevideo City Torque": 2.75,
-        "Draw": 2.2
-      },
-      "888sport": {
-        "Clube Atlético Mineiro": 4.0,
-        "Montevideo City Torque": 2.5,
-        "Draw": 2.15
+        "Cruz Azul": 2.6,
+        "Pachuca": 4.33,
+        "Draw": 2.38
       },
       "Betfair": {
-        "Clube Atlético Mineiro": 4.6,
-        "Montevideo City Torque": 2.86,
+        "Cruz Azul": 2.62,
+        "Pachuca": 4.4,
+        "Draw": 2.54
+      },
+      "888sport": {
+        "Cruz Azul": 2.4,
+        "Pachuca": 3.6,
+        "Draw": 2.2
+      },
+      "Marathon Bet": {
+        "Cruz Azul": 2.48,
+        "Pachuca": 4.33,
+        "Draw": 2.13
+      },
+      "Tipico": {
+        "Cruz Azul": 2.4,
+        "Pachuca": 4.0,
         "Draw": 2.3
       },
       "Nordic Bet": {
-        "Clube Atlético Mineiro": 4.4,
-        "Montevideo City Torque": 2.6,
-        "Draw": 2.1
-      },
-      "Pinnacle": {
-        "Clube Atlético Mineiro": 4.09,
-        "Montevideo City Torque": 2.58,
-        "Draw": 2.31
-      }
-    },
-    "eb9b6b1d4a1918ae1172224f4a551b76:h2h": {
-      "LeoVegas (SE)": {
-        "D.C. United": 4.8,
-        "FC Cincinnati": 1.62,
-        "Draw": 4.9
-      },
-      "Unibet (SE)": {
-        "D.C. United": 4.5,
-        "FC Cincinnati": 1.57,
-        "Draw": 4.6
-      },
-      "PMU (FR)": {
-        "D.C. United": 4.2,
-        "FC Cincinnati": 1.5,
-        "Draw": 4.25
-      },
-      "Unibet (NL)": {
-        "D.C. United": 4.5,
-        "FC Cincinnati": 1.57,
-        "Draw": 4.6
-      },
-      "Unibet (FR)": {
-        "D.C. United": 4.6,
-        "FC Cincinnati": 1.4,
-        "Draw": 4.5
-      },
-      "Betclic (FR)": {
-        "D.C. United": 3.95,
-        "FC Cincinnati": 1.54,
-        "Draw": 4.15
-      },
-      "GTbets": {
-        "D.C. United": 4.91,
-        "FC Cincinnati": 1.6,
-        "Draw": 4.94
-      },
-      "MyBookie.ag": {
-        "D.C. United": 4.1,
-        "FC Cincinnati": 1.6,
-        "Draw": 4.35
-      },
-      "Pinnacle": {
-        "D.C. United": 5.3,
-        "FC Cincinnati": 1.56,
-        "Draw": 4.86
-      },
-      "1xBet": {
-        "D.C. United": 5.05,
-        "FC Cincinnati": 1.55,
-        "Draw": 5.05
-      },
-      "Coolbet": {
-        "D.C. United": 5.1,
-        "FC Cincinnati": 1.56,
-        "Draw": 4.95
-      },
-      "Betfair": {
-        "D.C. United": 5.0,
-        "FC Cincinnati": 1.63,
-        "Draw": 5.0
-      },
-      "Winamax (DE)": {
-        "D.C. United": 4.2,
-        "FC Cincinnati": 1.6,
-        "Draw": 4.2
-      },
-      "Winamax (FR)": {
-        "D.C. United": 3.95,
-        "FC Cincinnati": 1.54,
-        "Draw": 3.95
-      },
-      "Marathon Bet": {
-        "D.C. United": 4.45,
-        "FC Cincinnati": 1.58,
-        "Draw": 4.55
-      },
-      "888sport": {
-        "D.C. United": 4.8,
-        "FC Cincinnati": 1.5,
-        "Draw": 4.5
-      },
-      "William Hill": {
-        "D.C. United": 4.5,
-        "FC Cincinnati": 1.57,
-        "Draw": 4.33
-      },
-      "BetOnline.ag": {
-        "D.C. United": 5.2,
-        "FC Cincinnati": 1.53,
-        "Draw": 5.23
+        "Cruz Azul": 2.45,
+        "Pachuca": 4.1,
+        "Draw": 2.25
       },
       "Betsson": {
-        "D.C. United": 5.4,
-        "FC Cincinnati": 1.5,
-        "Draw": 4.8
+        "Cruz Azul": 2.45,
+        "Pachuca": 4.1,
+        "Draw": 2.25
       },
-      "Nordic Bet": {
-        "D.C. United": 4.9,
-        "FC Cincinnati": 1.5,
-        "Draw": 4.8
-      },
-      "Tipico": {
-        "D.C. United": 5.2,
-        "FC Cincinnati": 1.42,
-        "Draw": 5.0
-      },
-      "BetAnything": {
-        "D.C. United": 5.25,
-        "FC Cincinnati": 1.54,
-        "Draw": 4.95
+      "Pinnacle": {
+        "Cruz Azul": 2.44,
+        "Pachuca": 3.62,
+        "Draw": 2.68
       },
       "Matchbook": {
-        "D.C. United": 4.9,
-        "FC Cincinnati": 1.6,
-        "Draw": 4.9
+        "Cruz Azul": 2.66,
+        "Pachuca": 4.5,
+        "Draw": 2.42
       }
     },
-    "6ea8303865913d6648ecb5710ea39fbf:h2h": {
+    "24e76350fbe9f35cb57c93e72bc2a0cf:h2h": {
+      "Unibet (SE)": {
+        "Pumas": 21.0,
+        "Santos Laguna": 1.15,
+        "Draw": 6.4
+      },
       "LeoVegas (SE)": {
-        "Fluminense-RJ": 5.25,
-        "Palmeiras-SP": 1.64,
-        "Draw": 3.35
+        "Pumas": 20.0,
+        "Santos Laguna": 1.09,
+        "Draw": 6.0
       },
       "PMU (FR)": {
-        "Fluminense-RJ": 5.1,
-        "Palmeiras-SP": 1.6,
-        "Draw": 3.3
+        "Pumas": 19.0,
+        "Santos Laguna": 1.03,
+        "Draw": 5.75
       },
       "Unibet (NL)": {
-        "Fluminense-RJ": 5.5,
-        "Palmeiras-SP": 1.66,
-        "Draw": 3.5
-      },
-      "Unibet (FR)": {
-        "Fluminense-RJ": 5.3,
-        "Palmeiras-SP": 1.55,
-        "Draw": 3.35
+        "Pumas": 21.0,
+        "Santos Laguna": 1.15,
+        "Draw": 6.4
       },
       "Betclic (FR)": {
-        "Fluminense-RJ": 5.4,
-        "Palmeiras-SP": 1.63,
-        "Draw": 3.35
-      },
-      "Winamax (DE)": {
-        "Fluminense-RJ": 5.7,
-        "Palmeiras-SP": 1.64,
-        "Draw": 3.3
-      },
-      "Winamax (FR)": {
-        "Fluminense-RJ": 5.6,
-        "Palmeiras-SP": 1.62,
-        "Draw": 3.2
-      },
-      "Marathon Bet": {
-        "Fluminense-RJ": 5.7,
-        "Palmeiras-SP": 1.68,
-        "Draw": 3.28
+        "Pumas": 14.75,
+        "Santos Laguna": 1.14,
+        "Draw": 5.1
       },
       "Coolbet": {
-        "Fluminense-RJ": 6.0,
-        "Palmeiras-SP": 1.73,
-        "Draw": 3.5
-      },
-      "1xBet": {
-        "Fluminense-RJ": 5.88,
-        "Palmeiras-SP": 1.74,
-        "Draw": 3.38
+        "Pumas": 25.0,
+        "Santos Laguna": 1.18,
+        "Draw": 6.5
       },
       "Pinnacle": {
-        "Fluminense-RJ": 6.15,
-        "Palmeiras-SP": 1.7,
-        "Draw": 3.41
+        "Pumas": 20.71,
+        "Santos Laguna": 1.18,
+        "Draw": 6.22
       },
       "Betfair": {
-        "Fluminense-RJ": 6.2,
-        "Palmeiras-SP": 1.76,
-        "Draw": 3.55
+        "Pumas": 23.0,
+        "Santos Laguna": 1.23,
+        "Draw": 6.4
+      },
+      "Marathon Bet": {
+        "Pumas": 19.75,
+        "Santos Laguna": 1.12,
+        "Draw": 6.1
+      },
+      "Matchbook": {
+        "Pumas": 24.0,
+        "Santos Laguna": 1.24,
+        "Draw": 6.0
       },
       "888sport": {
-        "Fluminense-RJ": 5.5,
-        "Palmeiras-SP": 1.67,
-        "Draw": 3.2
-      },
-      "William Hill": {
-        "Fluminense-RJ": 5.5,
-        "Palmeiras-SP": 1.67,
-        "Draw": 3.2
-      },
-      "Codere (IT)": {
-        "Fluminense-RJ": 5.4,
-        "Palmeiras-SP": 1.68,
-        "Draw": 3.45
-      },
-      "BetOnline.ag": {
-        "Fluminense-RJ": 6.35,
-        "Palmeiras-SP": 1.71,
-        "Draw": 3.39
+        "Pumas": 15.0,
+        "Santos Laguna": 1.17,
+        "Draw": 5.0
       },
       "Nordic Bet": {
-        "Fluminense-RJ": 5.4,
-        "Palmeiras-SP": 1.65,
-        "Draw": 3.4
+        "Pumas": 19.5,
+        "Santos Laguna": 1.15,
+        "Draw": 5.8
       },
       "Betsson": {
-        "Fluminense-RJ": 5.4,
-        "Palmeiras-SP": 1.65,
-        "Draw": 3.4
-      },
-      "GTbets": {
-        "Fluminense-RJ": 5.5,
-        "Palmeiras-SP": 1.73,
-        "Draw": 3.5
+        "Pumas": 19.5,
+        "Santos Laguna": 1.15,
+        "Draw": 5.8
       },
       "Tipico": {
-        "Fluminense-RJ": 6.0,
-        "Palmeiras-SP": 1.62,
-        "Draw": 3.5
+        "Pumas": 20.0,
+        "Santos Laguna": 1.12,
+        "Draw": 6.0
       }
     },
-    "03cd9aab53293d44e78489ce0ab707e3:h2h": {
-      "LeoVegas (SE)": {
-        "América": 1.91,
-        "Atlas": 3.25,
-        "Draw": 3.35
-      },
+    "567d75cc7053d4333358c028fcfd1af8:h2h": {
       "Unibet (SE)": {
-        "América": 1.97,
-        "Atlas": 3.35,
-        "Draw": 3.5
-      },
-      "PMU (FR)": {
-        "América": 1.85,
-        "Atlas": 3.15,
+        "Al-Fayha": 2.8,
+        "Al-Hazem": 2.33,
         "Draw": 3.25
       },
+      "LeoVegas (SE)": {
+        "Al-Fayha": 2.7,
+        "Al-Hazem": 2.25,
+        "Draw": 3.15
+      },
+      "PMU (FR)": {
+        "Al-Fayha": 2.6,
+        "Al-Hazem": 2.18,
+        "Draw": 3.05
+      },
       "Unibet (NL)": {
-        "América": 1.97,
-        "Atlas": 3.35,
-        "Draw": 3.5
+        "Al-Fayha": 2.8,
+        "Al-Hazem": 2.33,
+        "Draw": 3.25
+      },
+      "Unibet (FR)": {
+        "Al-Fayha": 2.85,
+        "Al-Hazem": 2.0,
+        "Draw": 3.1
       },
       "Betclic (FR)": {
-        "América": 1.92,
-        "Atlas": 3.22,
-        "Draw": 3.48
+        "Al-Fayha": 2.92,
+        "Al-Hazem": 2.13,
+        "Draw": 3.22
       },
-      "Coolbet": {
-        "América": 2.06,
-        "Atlas": 3.48,
-        "Draw": 3.6
+      "Winamax (DE)": {
+        "Al-Fayha": 2.9,
+        "Al-Hazem": 2.2,
+        "Draw": 3.35
+      },
+      "Winamax (FR)": {
+        "Al-Fayha": 2.85,
+        "Al-Hazem": 2.15,
+        "Draw": 3.25
       },
       "Pinnacle": {
-        "América": 2.07,
-        "Atlas": 3.49,
-        "Draw": 3.79
-      },
-      "BetOnline.ag": {
-        "América": 2.07,
-        "Atlas": 3.43,
-        "Draw": 3.81
-      },
-      "GTbets": {
-        "América": 2.0,
-        "Atlas": 3.54,
-        "Draw": 3.63
-      },
-      "Marathon Bet": {
-        "América": 1.97,
-        "Atlas": 3.32,
-        "Draw": 3.6
+        "Al-Fayha": 3.05,
+        "Al-Hazem": 2.39,
+        "Draw": 3.31
       },
       "1xBet": {
-        "América": 1.99,
-        "Atlas": 3.34,
-        "Draw": 3.6
-      },
-      "Matchbook": {
-        "América": 2.1,
-        "Atlas": 3.65,
-        "Draw": 3.9
+        "Al-Fayha": 3.1,
+        "Al-Hazem": 2.26,
+        "Draw": 3.28
       },
       "888sport": {
-        "América": 1.95,
-        "Atlas": 3.1,
-        "Draw": 3.4
+        "Al-Fayha": 2.9,
+        "Al-Hazem": 2.2,
+        "Draw": 3.0
       },
       "William Hill": {
-        "América": 1.95,
-        "Atlas": 3.1,
-        "Draw": 3.4
+        "Al-Fayha": 2.9,
+        "Al-Hazem": 2.2,
+        "Draw": 3.0
       },
       "Betfair": {
-        "América": 2.1,
-        "Atlas": 3.6,
-        "Draw": 3.9
-      },
-      "Nordic Bet": {
-        "América": 2.02,
-        "Atlas": 3.35,
-        "Draw": 3.45
-      },
-      "Betsson": {
-        "América": 2.02,
-        "Atlas": 3.35,
-        "Draw": 3.45
+        "Al-Fayha": 3.15,
+        "Al-Hazem": 2.44,
+        "Draw": 3.4
       },
       "Tipico": {
-        "América": 1.87,
-        "Atlas": 3.4,
-        "Draw": 3.7
+        "Al-Fayha": 3.1,
+        "Al-Hazem": 2.15,
+        "Draw": 3.3
+      }
+    },
+    "8afa92b39d83c062090730e884a9d726:h2h": {
+      "Unibet (FR)": {
+        "FC Kairat": 4.5,
+        "Panathinaikos FC": 1.57,
+        "Draw": 3.6
+      },
+      "Coolbet": {
+        "FC Kairat": 5.25,
+        "Panathinaikos FC": 1.64,
+        "Draw": 4.0
+      },
+      "1xBet": {
+        "FC Kairat": 5.08,
+        "Panathinaikos FC": 1.69,
+        "Draw": 4.03
+      },
+      "Betclic (FR)": {
+        "FC Kairat": 4.7,
+        "Panathinaikos FC": 1.6,
+        "Draw": 3.8
+      },
+      "Marathon Bet": {
+        "FC Kairat": 4.9,
+        "Panathinaikos FC": 1.63,
+        "Draw": 3.88
+      },
+      "LeoVegas (SE)": {
+        "FC Kairat": 4.8,
+        "Panathinaikos FC": 1.57,
+        "Draw": 3.75
+      },
+      "Unibet (NL)": {
+        "FC Kairat": 5.2,
+        "Panathinaikos FC": 1.64,
+        "Draw": 3.9
+      },
+      "Betfair": {
+        "FC Kairat": 5.6,
+        "Panathinaikos FC": 1.69,
+        "Draw": 4.1
+      },
+      "Nordic Bet": {
+        "FC Kairat": 4.9,
+        "Panathinaikos FC": 1.62,
+        "Draw": 3.85
+      },
+      "Betsson": {
+        "FC Kairat": 4.9,
+        "Panathinaikos FC": 1.62,
+        "Draw": 3.85
+      },
+      "888sport": {
+        "FC Kairat": 5.0,
+        "Panathinaikos FC": 1.65,
+        "Draw": 3.75
+      },
+      "Pinnacle": {
+        "FC Kairat": 5.12,
+        "Panathinaikos FC": 1.68,
+        "Draw": 3.99
+      },
+      "William Hill": {
+        "FC Kairat": 5.0,
+        "Panathinaikos FC": 1.65,
+        "Draw": 3.75
+      },
+      "BetOnline.ag": {
+        "FC Kairat": 5.3,
+        "Panathinaikos FC": 1.62,
+        "Draw": 4.1
+      },
+      "Matchbook": {
+        "FC Kairat": 5.7,
+        "Panathinaikos FC": 1.69,
+        "Draw": 4.1
       }
     }
   },
@@ -7331,11 +7271,230 @@
       "confidence": 6,
       "alert_type": "value",
       "alerted_at": "2026-10-21T23:13:35.385482+00:00"
+    },
+    {
+      "state_key": "d31e02db07844bb9404170edf4e33d63:h2h",
+      "event_id": "d31e02db07844bb9404170edf4e33d63",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Pachuca",
+      "away_team": "Cruz Azul",
+      "commence_time": "2026-10-22T03:10:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Pachuca",
+      "odds_at_alert": 4.25,
+      "stake_pct": 3.0,
+      "confidence": 11,
+      "alert_type": "value",
+      "alerted_at": "2026-10-22T04:33:26.199892+00:00"
+    },
+    {
+      "state_key": "d31e02db07844bb9404170edf4e33d63:h2h",
+      "event_id": "d31e02db07844bb9404170edf4e33d63",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Pachuca",
+      "away_team": "Cruz Azul",
+      "commence_time": "2026-10-22T03:10:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Pachuca",
+      "odds_at_alert": 4.25,
+      "stake_pct": 3.0,
+      "confidence": 11,
+      "alert_type": "value",
+      "alerted_at": "2026-10-22T04:33:26.824786+00:00"
+    },
+    {
+      "state_key": "d31e02db07844bb9404170edf4e33d63:h2h",
+      "event_id": "d31e02db07844bb9404170edf4e33d63",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Pachuca",
+      "away_team": "Cruz Azul",
+      "commence_time": "2026-10-22T03:10:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Pachuca",
+      "odds_at_alert": 4.33,
+      "stake_pct": 3.0,
+      "confidence": 13,
+      "alert_type": "value",
+      "alerted_at": "2026-10-22T04:33:27.324347+00:00"
+    },
+    {
+      "state_key": "d31e02db07844bb9404170edf4e33d63:h2h",
+      "event_id": "d31e02db07844bb9404170edf4e33d63",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Pachuca",
+      "away_team": "Cruz Azul",
+      "commence_time": "2026-10-22T03:10:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Pachuca",
+      "odds_at_alert": 4.4,
+      "stake_pct": 3.0,
+      "confidence": 15,
+      "alert_type": "value",
+      "alerted_at": "2026-10-22T04:33:27.839350+00:00"
+    },
+    {
+      "state_key": "d31e02db07844bb9404170edf4e33d63:h2h",
+      "event_id": "d31e02db07844bb9404170edf4e33d63",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Pachuca",
+      "away_team": "Cruz Azul",
+      "commence_time": "2026-10-22T03:10:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Pachuca",
+      "odds_at_alert": 4.33,
+      "stake_pct": 3.0,
+      "confidence": 13,
+      "alert_type": "value",
+      "alerted_at": "2026-10-22T04:33:28.451665+00:00"
+    },
+    {
+      "state_key": "d31e02db07844bb9404170edf4e33d63:h2h",
+      "event_id": "d31e02db07844bb9404170edf4e33d63",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Pachuca",
+      "away_team": "Cruz Azul",
+      "commence_time": "2026-10-22T03:10:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Pachuca",
+      "odds_at_alert": 4.1,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-10-22T04:33:28.981140+00:00"
+    },
+    {
+      "state_key": "d31e02db07844bb9404170edf4e33d63:h2h",
+      "event_id": "d31e02db07844bb9404170edf4e33d63",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Pachuca",
+      "away_team": "Cruz Azul",
+      "commence_time": "2026-10-22T03:10:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Pachuca",
+      "odds_at_alert": 4.1,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-10-22T04:33:29.518203+00:00"
+    },
+    {
+      "state_key": "d31e02db07844bb9404170edf4e33d63:h2h",
+      "event_id": "d31e02db07844bb9404170edf4e33d63",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Pachuca",
+      "away_team": "Cruz Azul",
+      "commence_time": "2026-10-22T03:10:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Pachuca",
+      "odds_at_alert": 4.5,
+      "stake_pct": 5.0,
+      "confidence": 17,
+      "alert_type": "value",
+      "alerted_at": "2026-10-22T04:33:30.097563+00:00"
+    },
+    {
+      "state_key": "24e76350fbe9f35cb57c93e72bc2a0cf:h2h",
+      "event_id": "24e76350fbe9f35cb57c93e72bc2a0cf",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Santos Laguna",
+      "away_team": "Pumas",
+      "commence_time": "2026-10-22T03:10:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Pumas",
+      "odds_at_alert": 25.0,
+      "stake_pct": 3.0,
+      "confidence": 14,
+      "alert_type": "value",
+      "alerted_at": "2026-10-22T04:33:30.697175+00:00"
+    },
+    {
+      "state_key": "24e76350fbe9f35cb57c93e72bc2a0cf:h2h",
+      "event_id": "24e76350fbe9f35cb57c93e72bc2a0cf",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Santos Laguna",
+      "away_team": "Pumas",
+      "commence_time": "2026-10-22T03:10:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Pumas",
+      "odds_at_alert": 23.0,
+      "stake_pct": 2.0,
+      "confidence": 5,
+      "alert_type": "value",
+      "alerted_at": "2026-10-22T04:33:31.258387+00:00"
+    },
+    {
+      "state_key": "24e76350fbe9f35cb57c93e72bc2a0cf:h2h",
+      "event_id": "24e76350fbe9f35cb57c93e72bc2a0cf",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Santos Laguna",
+      "away_team": "Pumas",
+      "commence_time": "2026-10-22T03:10:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Pumas",
+      "odds_at_alert": 24.0,
+      "stake_pct": 2.0,
+      "confidence": 10,
+      "alert_type": "value",
+      "alerted_at": "2026-10-22T04:33:31.793225+00:00"
+    },
+    {
+      "state_key": "8afa92b39d83c062090730e884a9d726:h2h",
+      "event_id": "8afa92b39d83c062090730e884a9d726",
+      "sport_key": "soccer",
+      "competition": "UEFA Europa Conference League",
+      "home_team": "FC Kairat",
+      "away_team": "Panathinaikos FC",
+      "commence_time": "2026-10-22T14:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Kairat",
+      "odds_at_alert": 5.6,
+      "stake_pct": 2.0,
+      "confidence": 5,
+      "alert_type": "value",
+      "alerted_at": "2026-10-22T04:33:32.292199+00:00"
+    },
+    {
+      "state_key": "8afa92b39d83c062090730e884a9d726:h2h",
+      "event_id": "8afa92b39d83c062090730e884a9d726",
+      "sport_key": "soccer",
+      "competition": "UEFA Europa Conference League",
+      "home_team": "FC Kairat",
+      "away_team": "Panathinaikos FC",
+      "commence_time": "2026-10-22T14:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Kairat",
+      "odds_at_alert": 5.7,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-10-22T04:33:32.848900+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "040b0ac2a1fcd80ee1b1ef3b4eedbdb5:h2h|Betfair|Clube Atlético Mineiro",
-    "040b0ac2a1fcd80ee1b1ef3b4eedbdb5:h2h|Unibet (NL)|Montevideo City Torque"
+    "24e76350fbe9f35cb57c93e72bc2a0cf:h2h|Betfair|Pumas",
+    "24e76350fbe9f35cb57c93e72bc2a0cf:h2h|Coolbet|Pumas",
+    "24e76350fbe9f35cb57c93e72bc2a0cf:h2h|Matchbook|Pumas",
+    "8afa92b39d83c062090730e884a9d726:h2h|Betfair|FC Kairat",
+    "8afa92b39d83c062090730e884a9d726:h2h|Matchbook|FC Kairat",
+    "d31e02db07844bb9404170edf4e33d63:h2h|Betfair|Pachuca",
+    "d31e02db07844bb9404170edf4e33d63:h2h|Betsson|Pachuca",
+    "d31e02db07844bb9404170edf4e33d63:h2h|Coolbet|Pachuca",
+    "d31e02db07844bb9404170edf4e33d63:h2h|Marathon Bet|Pachuca",
+    "d31e02db07844bb9404170edf4e33d63:h2h|Matchbook|Pachuca",
+    "d31e02db07844bb9404170edf4e33d63:h2h|Nordic Bet|Pachuca",
+    "d31e02db07844bb9404170edf4e33d63:h2h|Unibet (NL)|Pachuca",
+    "d31e02db07844bb9404170edf4e33d63:h2h|Unibet (SE)|Pachuca"
   ]
 }
