@@ -1,189 +1,226 @@
 {
   "snapshots": {
-    "edea485611c425ca763354e33b8441ba:h2h": {
-      "Pinnacle": {
-        "FC Akhmat Grozny": 17.58,
-        "Gazovik Orenburg": 1.35,
-        "Draw": 3.88
-      },
-      "Marathon Bet": {
-        "FC Akhmat Grozny": 29.0,
-        "Gazovik Orenburg": 1.24,
-        "Draw": 4.65
-      }
-    },
-    "618df9a8c3b34ce0ec2c309deccb92c8:h2h": {
-      "LeoVegas (SE)": {
-        "VfL Bochum": 5.8,
-        "VfL Wolfsburg": 4.5,
-        "Draw": 1.3
-      },
-      "Tipico": {
-        "VfL Bochum": 6.5,
-        "VfL Wolfsburg": 6.0,
-        "Draw": 1.3
-      },
-      "Unibet (NL)": {
-        "VfL Bochum": 6.1,
-        "VfL Wolfsburg": 4.7,
-        "Draw": 1.38
-      },
-      "PMU (FR)": {
-        "VfL Bochum": 5.6,
-        "VfL Wolfsburg": 4.35,
-        "Draw": 1.25
-      },
-      "Unibet (SE)": {
-        "VfL Bochum": 6.1,
-        "VfL Wolfsburg": 4.7,
-        "Draw": 1.38
+    "044eafce5b8bbfda39e7390aebdeaad0:h2h": {
+      "Betclic (FR)": {
+        "Gimnasia La Plata": 1.01,
+        "Sarmiento de Junin": 95.0,
+        "Draw": 40.0
       },
       "Betsson": {
-        "VfL Bochum": 5.8,
-        "VfL Wolfsburg": 6.3,
-        "Draw": 1.31
+        "Gimnasia La Plata": 1.0,
+        "Sarmiento de Junin": 26.0,
+        "Draw": 26.0
       },
       "Nordic Bet": {
-        "VfL Bochum": 5.8,
-        "VfL Wolfsburg": 6.3,
-        "Draw": 1.31
-      },
-      "Betclic (FR)": {
-        "VfL Bochum": 4.95,
-        "VfL Wolfsburg": 5.1,
-        "Draw": 1.35
-      },
-      "Unibet (FR)": {
-        "VfL Bochum": 4.8,
-        "VfL Wolfsburg": 5.5,
-        "Draw": 1.27
-      },
-      "Winamax (FR)": {
-        "VfL Bochum": 5.7,
-        "VfL Wolfsburg": 6.0,
-        "Draw": 1.29
-      },
-      "Winamax (DE)": {
-        "VfL Bochum": 5.4,
-        "VfL Wolfsburg": 6.0,
-        "Draw": 1.35
-      },
-      "Coolbet": {
-        "VfL Bochum": 6.5,
-        "VfL Wolfsburg": 7.0,
-        "Draw": 1.33
-      },
-      "Betfair": {
-        "VfL Bochum": 6.2,
-        "VfL Wolfsburg": 6.6,
-        "Draw": 1.43
-      },
-      "Pinnacle": {
-        "VfL Bochum": 4.23,
-        "VfL Wolfsburg": 5.01,
-        "Draw": 1.62
-      },
-      "888sport": {
-        "VfL Bochum": 5.75,
-        "VfL Wolfsburg": 6.0,
-        "Draw": 1.3
-      },
-      "Marathon Bet": {
-        "VfL Bochum": 6.2,
-        "VfL Wolfsburg": 7.1,
-        "Draw": 1.25
-      },
-      "Matchbook": {
-        "VfL Bochum": 7.0,
-        "VfL Wolfsburg": 7.6,
-        "Draw": 1.35
+        "Gimnasia La Plata": 1.0,
+        "Sarmiento de Junin": 26.0,
+        "Draw": 26.0
       }
     },
-    "ed6da0ed9e5d0c24d1c6f689d9f4b440:h2h": {
-      "LeoVegas (SE)": {
-        "FC St. Pauli": 5.25,
-        "SV Darmstadt 98": 5.1,
-        "Draw": 1.28
-      },
-      "Unibet (SE)": {
-        "FC St. Pauli": 5.5,
-        "SV Darmstadt 98": 5.3,
-        "Draw": 1.36
-      },
-      "Unibet (NL)": {
-        "FC St. Pauli": 5.5,
-        "SV Darmstadt 98": 5.3,
-        "Draw": 1.36
-      },
-      "PMU (FR)": {
-        "FC St. Pauli": 5.1,
-        "SV Darmstadt 98": 4.9,
-        "Draw": 1.24
-      },
-      "Tipico": {
-        "FC St. Pauli": 6.0,
-        "SV Darmstadt 98": 6.5,
-        "Draw": 1.3
-      },
-      "Nordic Bet": {
-        "FC St. Pauli": 6.3,
-        "SV Darmstadt 98": 5.8,
-        "Draw": 1.31
-      },
-      "Betsson": {
-        "FC St. Pauli": 6.3,
-        "SV Darmstadt 98": 5.8,
-        "Draw": 1.31
-      },
-      "Unibet (FR)": {
-        "FC St. Pauli": 4.85,
-        "SV Darmstadt 98": 6.0,
-        "Draw": 1.25
-      },
-      "Betclic (FR)": {
-        "FC St. Pauli": 4.7,
-        "SV Darmstadt 98": 6.4,
-        "Draw": 1.32
-      },
+    "e51a462181b592440c9020fad6ad8a90:h2h": {
       "Winamax (FR)": {
-        "FC St. Pauli": 5.5,
-        "SV Darmstadt 98": 6.5,
-        "Draw": 1.28
+        "Gimnasia Mendoza": 1.24,
+        "Platense": 21.0,
+        "Draw": 4.2
       },
       "Winamax (DE)": {
-        "FC St. Pauli": 5.5,
-        "SV Darmstadt 98": 7.0,
-        "Draw": 1.31
+        "Gimnasia Mendoza": 1.24,
+        "Platense": 20.0,
+        "Draw": 4.3
       },
-      "Coolbet": {
-        "FC St. Pauli": 7.0,
-        "SV Darmstadt 98": 6.0,
-        "Draw": 1.36
+      "Betclic (FR)": {
+        "Gimnasia Mendoza": 1.19,
+        "Platense": 17.0,
+        "Draw": 4.05
       },
       "Betfair": {
-        "FC St. Pauli": 6.4,
-        "SV Darmstadt 98": 8.4,
-        "Draw": 1.36
-      },
-      "Pinnacle": {
-        "FC St. Pauli": 4.87,
-        "SV Darmstadt 98": 5.73,
-        "Draw": 1.48
-      },
-      "888sport": {
-        "FC St. Pauli": 6.5,
-        "SV Darmstadt 98": 7.5,
-        "Draw": 1.22
+        "Gimnasia Mendoza": 1.33,
+        "Platense": 18.0,
+        "Draw": 4.6
       },
       "Marathon Bet": {
-        "FC St. Pauli": 5.85,
-        "SV Darmstadt 98": 7.6,
-        "Draw": 1.25
+        "Gimnasia Mendoza": 1.24,
+        "Platense": 18.25,
+        "Draw": 4.6
+      },
+      "Betsson": {
+        "Gimnasia Mendoza": 1.23,
+        "Platense": 19.5,
+        "Draw": 4.2
+      },
+      "Nordic Bet": {
+        "Gimnasia Mendoza": 1.23,
+        "Platense": 19.5,
+        "Draw": 4.2
+      },
+      "LeoVegas (SE)": {
+        "Gimnasia Mendoza": 1.2,
+        "Platense": 19.0,
+        "Draw": 4.1
+      },
+      "Unibet (SE)": {
+        "Gimnasia Mendoza": 1.27,
+        "Platense": 19.0,
+        "Draw": 4.2
+      },
+      "Pinnacle": {
+        "Gimnasia Mendoza": 1.39,
+        "Platense": 12.83,
+        "Draw": 3.9
+      }
+    },
+    "069dbdae0f3460dacc1aa1bae1df555b:h2h": {
+      "Unibet (SE)": {
+        "Athletic Club (MG)": 10.0,
+        "Operario PR": 1.3,
+        "Draw": 4.25
+      },
+      "Unibet (NL)": {
+        "Athletic Club (MG)": 9.5,
+        "Operario PR": 1.3,
+        "Draw": 4.35
+      },
+      "LeoVegas (SE)": {
+        "Athletic Club (MG)": 9.0,
+        "Operario PR": 1.25,
+        "Draw": 4.0
+      },
+      "Betsson": {
+        "Athletic Club (MG)": 3.65,
+        "Operario PR": 2.2,
+        "Draw": 2.55
+      },
+      "Coolbet": {
+        "Athletic Club (MG)": 9.0,
+        "Operario PR": 1.33,
+        "Draw": 4.33
+      },
+      "Nordic Bet": {
+        "Athletic Club (MG)": 3.65,
+        "Operario PR": 2.2,
+        "Draw": 2.55
+      },
+      "Pinnacle": {
+        "Athletic Club (MG)": 3.88,
+        "Operario PR": 2.25,
+        "Draw": 2.75
+      },
+      "888sport": {
+        "Athletic Club (MG)": 8.5,
+        "Operario PR": 1.36,
+        "Draw": 4.0
+      },
+      "Tipico": {
+        "Athletic Club (MG)": 6.5,
+        "Operario PR": 1.35,
+        "Draw": 4.7
       },
       "Matchbook": {
-        "FC St. Pauli": 7.6,
-        "SV Darmstadt 98": 5.5,
-        "Draw": 1.43
+        "Athletic Club (MG)": 11.5,
+        "Operario PR": 1.42,
+        "Draw": 4.6
+      },
+      "Betfair": {
+        "Athletic Club (MG)": 11.5,
+        "Operario PR": 1.42,
+        "Draw": 4.6
+      }
+    },
+    "821ebfa9892a3d4e3945a9ecd9536374:h2h": {
+      "888sport": {
+        "Audax Italiano": 1.95,
+        "Huachipato": 3.1,
+        "Draw": 3.25
+      },
+      "1xBet": {
+        "Audax Italiano": 2.12,
+        "Huachipato": 3.51,
+        "Draw": 3.51
+      },
+      "Coolbet": {
+        "Audax Italiano": 2.1,
+        "Huachipato": 3.5,
+        "Draw": 3.6
+      },
+      "Winamax (DE)": {
+        "Audax Italiano": 1.98,
+        "Huachipato": 3.2,
+        "Draw": 3.45
+      },
+      "Winamax (FR)": {
+        "Audax Italiano": 1.92,
+        "Huachipato": 3.15,
+        "Draw": 3.35
+      },
+      "Betsson": {
+        "Audax Italiano": 1.95,
+        "Huachipato": 3.2,
+        "Draw": 3.5
+      },
+      "Nordic Bet": {
+        "Audax Italiano": 1.95,
+        "Huachipato": 3.2,
+        "Draw": 3.5
+      },
+      "Marathon Bet": {
+        "Audax Italiano": 1.94,
+        "Huachipato": 3.28,
+        "Draw": 3.48
+      },
+      "Pinnacle": {
+        "Audax Italiano": 2.05,
+        "Huachipato": 3.53,
+        "Draw": 3.71
+      },
+      "Tipico": {
+        "Audax Italiano": 1.9,
+        "Huachipato": 3.2,
+        "Draw": 3.6
+      },
+      "LeoVegas (SE)": {
+        "Audax Italiano": 1.85,
+        "Huachipato": 3.3,
+        "Draw": 3.4
+      },
+      "Unibet (SE)": {
+        "Audax Italiano": 1.95,
+        "Huachipato": 3.5,
+        "Draw": 3.65
+      },
+      "GTbets": {
+        "Audax Italiano": 2.06,
+        "Huachipato": 3.49,
+        "Draw": 3.48
+      },
+      "Unibet (FR)": {
+        "Audax Italiano": 1.9,
+        "Huachipato": 3.25,
+        "Draw": 3.1
+      },
+      "BetOnline.ag": {
+        "Audax Italiano": 2.02,
+        "Huachipato": 3.5,
+        "Draw": 3.55
+      },
+      "Codere (IT)": {
+        "Audax Italiano": 2.04,
+        "Huachipato": 3.3,
+        "Draw": 3.4
+      },
+      "Betfair": {
+        "Audax Italiano": 2.12,
+        "Huachipato": 3.65,
+        "Draw": 3.7
+      },
+      "Matchbook": {
+        "Audax Italiano": 2.1,
+        "Huachipato": 3.65,
+        "Draw": 3.7
+      },
+      "BetAnything": {
+        "Audax Italiano": 2.02,
+        "Huachipato": 3.5,
+        "Draw": 3.55
       }
     }
   },
@@ -5612,56 +5649,468 @@
       "confidence": 48,
       "alert_type": "value",
       "alerted_at": "2026-10-23T18:15:55.840509+00:00"
+    },
+    {
+      "state_key": "e51a462181b592440c9020fad6ad8a90:h2h",
+      "event_id": "e51a462181b592440c9020fad6ad8a90",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Gimnasia Mendoza",
+      "away_team": "Platense",
+      "commence_time": "2026-10-23T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Platense",
+      "odds_at_alert": 21.0,
+      "stake_pct": 5.0,
+      "confidence": 55,
+      "alert_type": "value",
+      "alerted_at": "2026-10-23T23:05:00.664527+00:00"
+    },
+    {
+      "state_key": "e51a462181b592440c9020fad6ad8a90:h2h",
+      "event_id": "e51a462181b592440c9020fad6ad8a90",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Gimnasia Mendoza",
+      "away_team": "Platense",
+      "commence_time": "2026-10-23T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Platense",
+      "odds_at_alert": 20.0,
+      "stake_pct": 5.0,
+      "confidence": 48,
+      "alert_type": "value",
+      "alerted_at": "2026-10-23T23:05:01.168263+00:00"
+    },
+    {
+      "state_key": "e51a462181b592440c9020fad6ad8a90:h2h",
+      "event_id": "e51a462181b592440c9020fad6ad8a90",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Gimnasia Mendoza",
+      "away_team": "Platense",
+      "commence_time": "2026-10-23T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Platense",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 26,
+      "alert_type": "value",
+      "alerted_at": "2026-10-23T23:05:01.600358+00:00"
+    },
+    {
+      "state_key": "e51a462181b592440c9020fad6ad8a90:h2h",
+      "event_id": "e51a462181b592440c9020fad6ad8a90",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Gimnasia Mendoza",
+      "away_team": "Platense",
+      "commence_time": "2026-10-23T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Platense",
+      "odds_at_alert": 18.0,
+      "stake_pct": 5.0,
+      "confidence": 33,
+      "alert_type": "value",
+      "alerted_at": "2026-10-23T23:05:03.208532+00:00"
+    },
+    {
+      "state_key": "e51a462181b592440c9020fad6ad8a90:h2h",
+      "event_id": "e51a462181b592440c9020fad6ad8a90",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Gimnasia Mendoza",
+      "away_team": "Platense",
+      "commence_time": "2026-10-23T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.6,
+      "stake_pct": 3.0,
+      "confidence": 12,
+      "alert_type": "value",
+      "alerted_at": "2026-10-23T23:05:03.654390+00:00"
+    },
+    {
+      "state_key": "e51a462181b592440c9020fad6ad8a90:h2h",
+      "event_id": "e51a462181b592440c9020fad6ad8a90",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Gimnasia Mendoza",
+      "away_team": "Platense",
+      "commence_time": "2026-10-23T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Platense",
+      "odds_at_alert": 18.25,
+      "stake_pct": 5.0,
+      "confidence": 35,
+      "alert_type": "value",
+      "alerted_at": "2026-10-23T23:05:04.074803+00:00"
+    },
+    {
+      "state_key": "e51a462181b592440c9020fad6ad8a90:h2h",
+      "event_id": "e51a462181b592440c9020fad6ad8a90",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Gimnasia Mendoza",
+      "away_team": "Platense",
+      "commence_time": "2026-10-23T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.6,
+      "stake_pct": 3.0,
+      "confidence": 12,
+      "alert_type": "value",
+      "alerted_at": "2026-10-23T23:05:04.500688+00:00"
+    },
+    {
+      "state_key": "e51a462181b592440c9020fad6ad8a90:h2h",
+      "event_id": "e51a462181b592440c9020fad6ad8a90",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Gimnasia Mendoza",
+      "away_team": "Platense",
+      "commence_time": "2026-10-23T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Platense",
+      "odds_at_alert": 19.5,
+      "stake_pct": 5.0,
+      "confidence": 44,
+      "alert_type": "value",
+      "alerted_at": "2026-10-23T23:05:04.908020+00:00"
+    },
+    {
+      "state_key": "e51a462181b592440c9020fad6ad8a90:h2h",
+      "event_id": "e51a462181b592440c9020fad6ad8a90",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Gimnasia Mendoza",
+      "away_team": "Platense",
+      "commence_time": "2026-10-23T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Platense",
+      "odds_at_alert": 19.5,
+      "stake_pct": 5.0,
+      "confidence": 44,
+      "alert_type": "value",
+      "alerted_at": "2026-10-23T23:05:05.326861+00:00"
+    },
+    {
+      "state_key": "e51a462181b592440c9020fad6ad8a90:h2h",
+      "event_id": "e51a462181b592440c9020fad6ad8a90",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Gimnasia Mendoza",
+      "away_team": "Platense",
+      "commence_time": "2026-10-23T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Platense",
+      "odds_at_alert": 19.0,
+      "stake_pct": 5.0,
+      "confidence": 41,
+      "alert_type": "value",
+      "alerted_at": "2026-10-23T23:05:05.808010+00:00"
+    },
+    {
+      "state_key": "e51a462181b592440c9020fad6ad8a90:h2h",
+      "event_id": "e51a462181b592440c9020fad6ad8a90",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Gimnasia Mendoza",
+      "away_team": "Platense",
+      "commence_time": "2026-10-23T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Platense",
+      "odds_at_alert": 19.0,
+      "stake_pct": 5.0,
+      "confidence": 41,
+      "alert_type": "value",
+      "alerted_at": "2026-10-23T23:05:06.244001+00:00"
+    },
+    {
+      "state_key": "069dbdae0f3460dacc1aa1bae1df555b:h2h",
+      "event_id": "069dbdae0f3460dacc1aa1bae1df555b",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Operario PR",
+      "away_team": "Athletic Club (MG)",
+      "commence_time": "2026-10-23T22:31:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Athletic Club (MG)",
+      "odds_at_alert": 10.0,
+      "stake_pct": 5.0,
+      "confidence": 142,
+      "alert_type": "value",
+      "alerted_at": "2026-10-23T23:05:06.661823+00:00"
+    },
+    {
+      "state_key": "069dbdae0f3460dacc1aa1bae1df555b:h2h",
+      "event_id": "069dbdae0f3460dacc1aa1bae1df555b",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Operario PR",
+      "away_team": "Athletic Club (MG)",
+      "commence_time": "2026-10-23T22:31:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.25,
+      "stake_pct": 5.0,
+      "confidence": 45,
+      "alert_type": "value",
+      "alerted_at": "2026-10-23T23:05:07.104907+00:00"
+    },
+    {
+      "state_key": "069dbdae0f3460dacc1aa1bae1df555b:h2h",
+      "event_id": "069dbdae0f3460dacc1aa1bae1df555b",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Operario PR",
+      "away_team": "Athletic Club (MG)",
+      "commence_time": "2026-10-23T22:31:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Athletic Club (MG)",
+      "odds_at_alert": 9.5,
+      "stake_pct": 5.0,
+      "confidence": 130,
+      "alert_type": "value",
+      "alerted_at": "2026-10-23T23:05:07.626073+00:00"
+    },
+    {
+      "state_key": "069dbdae0f3460dacc1aa1bae1df555b:h2h",
+      "event_id": "069dbdae0f3460dacc1aa1bae1df555b",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Operario PR",
+      "away_team": "Athletic Club (MG)",
+      "commence_time": "2026-10-23T22:31:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.35,
+      "stake_pct": 5.0,
+      "confidence": 48,
+      "alert_type": "value",
+      "alerted_at": "2026-10-23T23:05:08.084821+00:00"
+    },
+    {
+      "state_key": "069dbdae0f3460dacc1aa1bae1df555b:h2h",
+      "event_id": "069dbdae0f3460dacc1aa1bae1df555b",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Operario PR",
+      "away_team": "Athletic Club (MG)",
+      "commence_time": "2026-10-23T22:31:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Athletic Club (MG)",
+      "odds_at_alert": 9.0,
+      "stake_pct": 5.0,
+      "confidence": 118,
+      "alert_type": "value",
+      "alerted_at": "2026-10-23T23:05:08.507310+00:00"
+    },
+    {
+      "state_key": "069dbdae0f3460dacc1aa1bae1df555b:h2h",
+      "event_id": "069dbdae0f3460dacc1aa1bae1df555b",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Operario PR",
+      "away_team": "Athletic Club (MG)",
+      "commence_time": "2026-10-23T22:31:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.0,
+      "stake_pct": 5.0,
+      "confidence": 36,
+      "alert_type": "value",
+      "alerted_at": "2026-10-23T23:05:08.911000+00:00"
+    },
+    {
+      "state_key": "069dbdae0f3460dacc1aa1bae1df555b:h2h",
+      "event_id": "069dbdae0f3460dacc1aa1bae1df555b",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Operario PR",
+      "away_team": "Athletic Club (MG)",
+      "commence_time": "2026-10-23T22:31:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Athletic Club (MG)",
+      "odds_at_alert": 9.0,
+      "stake_pct": 5.0,
+      "confidence": 118,
+      "alert_type": "value",
+      "alerted_at": "2026-10-23T23:05:09.367959+00:00"
+    },
+    {
+      "state_key": "069dbdae0f3460dacc1aa1bae1df555b:h2h",
+      "event_id": "069dbdae0f3460dacc1aa1bae1df555b",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Operario PR",
+      "away_team": "Athletic Club (MG)",
+      "commence_time": "2026-10-23T22:31:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.33,
+      "stake_pct": 5.0,
+      "confidence": 48,
+      "alert_type": "value",
+      "alerted_at": "2026-10-23T23:05:09.780221+00:00"
+    },
+    {
+      "state_key": "069dbdae0f3460dacc1aa1bae1df555b:h2h",
+      "event_id": "069dbdae0f3460dacc1aa1bae1df555b",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Operario PR",
+      "away_team": "Athletic Club (MG)",
+      "commence_time": "2026-10-23T22:31:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Athletic Club (MG)",
+      "odds_at_alert": 8.5,
+      "stake_pct": 5.0,
+      "confidence": 106,
+      "alert_type": "value",
+      "alerted_at": "2026-10-23T23:05:10.199576+00:00"
+    },
+    {
+      "state_key": "069dbdae0f3460dacc1aa1bae1df555b:h2h",
+      "event_id": "069dbdae0f3460dacc1aa1bae1df555b",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Operario PR",
+      "away_team": "Athletic Club (MG)",
+      "commence_time": "2026-10-23T22:31:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.0,
+      "stake_pct": 5.0,
+      "confidence": 36,
+      "alert_type": "value",
+      "alerted_at": "2026-10-23T23:05:10.642204+00:00"
+    },
+    {
+      "state_key": "069dbdae0f3460dacc1aa1bae1df555b:h2h",
+      "event_id": "069dbdae0f3460dacc1aa1bae1df555b",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Operario PR",
+      "away_team": "Athletic Club (MG)",
+      "commence_time": "2026-10-23T22:31:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Athletic Club (MG)",
+      "odds_at_alert": 6.5,
+      "stake_pct": 5.0,
+      "confidence": 57,
+      "alert_type": "value",
+      "alerted_at": "2026-10-23T23:05:11.094764+00:00"
+    },
+    {
+      "state_key": "069dbdae0f3460dacc1aa1bae1df555b:h2h",
+      "event_id": "069dbdae0f3460dacc1aa1bae1df555b",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Operario PR",
+      "away_team": "Athletic Club (MG)",
+      "commence_time": "2026-10-23T22:31:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.7,
+      "stake_pct": 5.0,
+      "confidence": 60,
+      "alert_type": "value",
+      "alerted_at": "2026-10-23T23:05:11.547621+00:00"
+    },
+    {
+      "state_key": "069dbdae0f3460dacc1aa1bae1df555b:h2h",
+      "event_id": "069dbdae0f3460dacc1aa1bae1df555b",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Operario PR",
+      "away_team": "Athletic Club (MG)",
+      "commence_time": "2026-10-23T22:31:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Athletic Club (MG)",
+      "odds_at_alert": 11.5,
+      "stake_pct": 5.0,
+      "confidence": 178,
+      "alert_type": "value",
+      "alerted_at": "2026-10-23T23:05:11.985619+00:00"
+    },
+    {
+      "state_key": "069dbdae0f3460dacc1aa1bae1df555b:h2h",
+      "event_id": "069dbdae0f3460dacc1aa1bae1df555b",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Operario PR",
+      "away_team": "Athletic Club (MG)",
+      "commence_time": "2026-10-23T22:31:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.6,
+      "stake_pct": 5.0,
+      "confidence": 57,
+      "alert_type": "value",
+      "alerted_at": "2026-10-23T23:05:12.462675+00:00"
+    },
+    {
+      "state_key": "069dbdae0f3460dacc1aa1bae1df555b:h2h",
+      "event_id": "069dbdae0f3460dacc1aa1bae1df555b",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Operario PR",
+      "away_team": "Athletic Club (MG)",
+      "commence_time": "2026-10-23T22:31:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Athletic Club (MG)",
+      "odds_at_alert": 11.5,
+      "stake_pct": 5.0,
+      "confidence": 178,
+      "alert_type": "value",
+      "alerted_at": "2026-10-23T23:05:12.881614+00:00"
+    },
+    {
+      "state_key": "069dbdae0f3460dacc1aa1bae1df555b:h2h",
+      "event_id": "069dbdae0f3460dacc1aa1bae1df555b",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Operario PR",
+      "away_team": "Athletic Club (MG)",
+      "commence_time": "2026-10-23T22:31:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.6,
+      "stake_pct": 5.0,
+      "confidence": 57,
+      "alert_type": "value",
+      "alerted_at": "2026-10-23T23:05:13.363263+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "618df9a8c3b34ce0ec2c309deccb92c8:h2h|888sport|VfL Bochum",
-    "618df9a8c3b34ce0ec2c309deccb92c8:h2h|888sport|VfL Wolfsburg",
-    "618df9a8c3b34ce0ec2c309deccb92c8:h2h|Betclic (FR)|VfL Bochum",
-    "618df9a8c3b34ce0ec2c309deccb92c8:h2h|Betfair|VfL Bochum",
-    "618df9a8c3b34ce0ec2c309deccb92c8:h2h|Betfair|VfL Wolfsburg",
-    "618df9a8c3b34ce0ec2c309deccb92c8:h2h|Betsson|VfL Bochum",
-    "618df9a8c3b34ce0ec2c309deccb92c8:h2h|Betsson|VfL Wolfsburg",
-    "618df9a8c3b34ce0ec2c309deccb92c8:h2h|Coolbet|VfL Bochum",
-    "618df9a8c3b34ce0ec2c309deccb92c8:h2h|Coolbet|VfL Wolfsburg",
-    "618df9a8c3b34ce0ec2c309deccb92c8:h2h|LeoVegas (SE)|VfL Bochum",
-    "618df9a8c3b34ce0ec2c309deccb92c8:h2h|Marathon Bet|VfL Bochum",
-    "618df9a8c3b34ce0ec2c309deccb92c8:h2h|Marathon Bet|VfL Wolfsburg",
-    "618df9a8c3b34ce0ec2c309deccb92c8:h2h|Matchbook|VfL Bochum",
-    "618df9a8c3b34ce0ec2c309deccb92c8:h2h|Matchbook|VfL Wolfsburg",
-    "618df9a8c3b34ce0ec2c309deccb92c8:h2h|Nordic Bet|VfL Bochum",
-    "618df9a8c3b34ce0ec2c309deccb92c8:h2h|Nordic Bet|VfL Wolfsburg",
-    "618df9a8c3b34ce0ec2c309deccb92c8:h2h|PMU (FR)|VfL Bochum",
-    "618df9a8c3b34ce0ec2c309deccb92c8:h2h|Tipico|VfL Bochum",
-    "618df9a8c3b34ce0ec2c309deccb92c8:h2h|Tipico|VfL Wolfsburg",
-    "618df9a8c3b34ce0ec2c309deccb92c8:h2h|Unibet (FR)|VfL Bochum",
-    "618df9a8c3b34ce0ec2c309deccb92c8:h2h|Unibet (NL)|VfL Bochum",
-    "618df9a8c3b34ce0ec2c309deccb92c8:h2h|Unibet (SE)|VfL Bochum",
-    "618df9a8c3b34ce0ec2c309deccb92c8:h2h|Winamax (DE)|VfL Bochum",
-    "618df9a8c3b34ce0ec2c309deccb92c8:h2h|Winamax (DE)|VfL Wolfsburg",
-    "618df9a8c3b34ce0ec2c309deccb92c8:h2h|Winamax (FR)|VfL Bochum",
-    "618df9a8c3b34ce0ec2c309deccb92c8:h2h|Winamax (FR)|VfL Wolfsburg",
-    "ed6da0ed9e5d0c24d1c6f689d9f4b440:h2h|888sport|FC St. Pauli",
-    "ed6da0ed9e5d0c24d1c6f689d9f4b440:h2h|888sport|SV Darmstadt 98",
-    "ed6da0ed9e5d0c24d1c6f689d9f4b440:h2h|Betclic (FR)|SV Darmstadt 98",
-    "ed6da0ed9e5d0c24d1c6f689d9f4b440:h2h|Betfair|FC St. Pauli",
-    "ed6da0ed9e5d0c24d1c6f689d9f4b440:h2h|Betfair|SV Darmstadt 98",
-    "ed6da0ed9e5d0c24d1c6f689d9f4b440:h2h|Betsson|FC St. Pauli",
-    "ed6da0ed9e5d0c24d1c6f689d9f4b440:h2h|Coolbet|FC St. Pauli",
-    "ed6da0ed9e5d0c24d1c6f689d9f4b440:h2h|Marathon Bet|FC St. Pauli",
-    "ed6da0ed9e5d0c24d1c6f689d9f4b440:h2h|Marathon Bet|SV Darmstadt 98",
-    "ed6da0ed9e5d0c24d1c6f689d9f4b440:h2h|Matchbook|FC St. Pauli",
-    "ed6da0ed9e5d0c24d1c6f689d9f4b440:h2h|Nordic Bet|FC St. Pauli",
-    "ed6da0ed9e5d0c24d1c6f689d9f4b440:h2h|Tipico|FC St. Pauli",
-    "ed6da0ed9e5d0c24d1c6f689d9f4b440:h2h|Tipico|SV Darmstadt 98",
-    "ed6da0ed9e5d0c24d1c6f689d9f4b440:h2h|Unibet (NL)|FC St. Pauli",
-    "ed6da0ed9e5d0c24d1c6f689d9f4b440:h2h|Unibet (SE)|FC St. Pauli",
-    "ed6da0ed9e5d0c24d1c6f689d9f4b440:h2h|Winamax (DE)|FC St. Pauli",
-    "ed6da0ed9e5d0c24d1c6f689d9f4b440:h2h|Winamax (DE)|SV Darmstadt 98",
-    "ed6da0ed9e5d0c24d1c6f689d9f4b440:h2h|Winamax (FR)|FC St. Pauli",
-    "ed6da0ed9e5d0c24d1c6f689d9f4b440:h2h|Winamax (FR)|SV Darmstadt 98",
-    "edea485611c425ca763354e33b8441ba:h2h|Marathon Bet|Draw",
-    "edea485611c425ca763354e33b8441ba:h2h|Marathon Bet|FC Akhmat Grozny"
+    "069dbdae0f3460dacc1aa1bae1df555b:h2h|888sport|Athletic Club (MG)",
+    "069dbdae0f3460dacc1aa1bae1df555b:h2h|888sport|Draw",
+    "069dbdae0f3460dacc1aa1bae1df555b:h2h|Betfair|Athletic Club (MG)",
+    "069dbdae0f3460dacc1aa1bae1df555b:h2h|Betfair|Draw",
+    "069dbdae0f3460dacc1aa1bae1df555b:h2h|Coolbet|Athletic Club (MG)",
+    "069dbdae0f3460dacc1aa1bae1df555b:h2h|Coolbet|Draw",
+    "069dbdae0f3460dacc1aa1bae1df555b:h2h|LeoVegas (SE)|Athletic Club (MG)",
+    "069dbdae0f3460dacc1aa1bae1df555b:h2h|LeoVegas (SE)|Draw",
+    "069dbdae0f3460dacc1aa1bae1df555b:h2h|Matchbook|Athletic Club (MG)",
+    "069dbdae0f3460dacc1aa1bae1df555b:h2h|Matchbook|Draw",
+    "069dbdae0f3460dacc1aa1bae1df555b:h2h|Tipico|Athletic Club (MG)",
+    "069dbdae0f3460dacc1aa1bae1df555b:h2h|Tipico|Draw",
+    "069dbdae0f3460dacc1aa1bae1df555b:h2h|Unibet (NL)|Athletic Club (MG)",
+    "069dbdae0f3460dacc1aa1bae1df555b:h2h|Unibet (NL)|Draw",
+    "069dbdae0f3460dacc1aa1bae1df555b:h2h|Unibet (SE)|Athletic Club (MG)",
+    "069dbdae0f3460dacc1aa1bae1df555b:h2h|Unibet (SE)|Draw",
+    "e51a462181b592440c9020fad6ad8a90:h2h|Betclic (FR)|Platense",
+    "e51a462181b592440c9020fad6ad8a90:h2h|Betfair|Draw",
+    "e51a462181b592440c9020fad6ad8a90:h2h|Betfair|Platense",
+    "e51a462181b592440c9020fad6ad8a90:h2h|Betsson|Platense",
+    "e51a462181b592440c9020fad6ad8a90:h2h|LeoVegas (SE)|Platense",
+    "e51a462181b592440c9020fad6ad8a90:h2h|Marathon Bet|Draw",
+    "e51a462181b592440c9020fad6ad8a90:h2h|Marathon Bet|Platense",
+    "e51a462181b592440c9020fad6ad8a90:h2h|Nordic Bet|Platense",
+    "e51a462181b592440c9020fad6ad8a90:h2h|Unibet (SE)|Platense",
+    "e51a462181b592440c9020fad6ad8a90:h2h|Winamax (DE)|Platense",
+    "e51a462181b592440c9020fad6ad8a90:h2h|Winamax (FR)|Platense"
   ]
 }
