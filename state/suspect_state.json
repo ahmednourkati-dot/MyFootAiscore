@@ -1,157 +1,55 @@
 {
   "snapshots": {
-    "3fd77104fe7fadd096c167edafffb43e:h2h": {
-      "Unibet (NL)": {
-        "Estudiantes La Plata": 7.0,
-        "Flamengo-RJ": 1.5,
-        "Draw": 3.7
-      },
-      "LeoVegas (SE)": {
-        "Estudiantes La Plata": 6.25,
-        "Flamengo-RJ": 1.43,
-        "Draw": 3.5
-      },
-      "PMU (FR)": {
-        "Estudiantes La Plata": 6.25,
-        "Flamengo-RJ": 1.4,
-        "Draw": 3.4
-      },
-      "Unibet (FR)": {
-        "Estudiantes La Plata": 6.6,
-        "Flamengo-RJ": 1.36,
-        "Draw": 3.8
-      },
-      "Betclic (FR)": {
-        "Estudiantes La Plata": 6.0,
-        "Flamengo-RJ": 1.47,
-        "Draw": 3.6
-      },
-      "Codere (IT)": {
-        "Estudiantes La Plata": 7.0,
-        "Flamengo-RJ": 1.47,
-        "Draw": 4.0
-      },
-      "1xBet": {
-        "Estudiantes La Plata": 7.03,
-        "Flamengo-RJ": 1.5,
-        "Draw": 4.07
-      },
-      "Marathon Bet": {
-        "Estudiantes La Plata": 7.3,
-        "Flamengo-RJ": 1.47,
-        "Draw": 3.84
-      },
-      "Winamax (FR)": {
-        "Estudiantes La Plata": 5.9,
-        "Flamengo-RJ": 1.52,
-        "Draw": 3.35
-      },
-      "Winamax (DE)": {
-        "Estudiantes La Plata": 6.0,
-        "Flamengo-RJ": 1.54,
-        "Draw": 3.4
-      },
-      "888sport": {
-        "Estudiantes La Plata": 6.5,
-        "Flamengo-RJ": 1.5,
-        "Draw": 3.5
-      },
-      "William Hill": {
-        "Estudiantes La Plata": 7.5,
-        "Flamengo-RJ": 1.44,
-        "Draw": 3.7
-      },
-      "Coolbet": {
-        "Estudiantes La Plata": 7.5,
-        "Flamengo-RJ": 1.57,
-        "Draw": 3.8
-      },
-      "Pinnacle": {
-        "Estudiantes La Plata": 8.39,
-        "Flamengo-RJ": 1.47,
-        "Draw": 4.12
-      },
-      "Betsson": {
-        "Estudiantes La Plata": 6.8,
-        "Flamengo-RJ": 1.49,
-        "Draw": 3.65
-      },
-      "Nordic Bet": {
-        "Estudiantes La Plata": 6.8,
-        "Flamengo-RJ": 1.49,
-        "Draw": 3.65
-      },
-      "Tipico": {
-        "Estudiantes La Plata": 6.5,
-        "Flamengo-RJ": 1.5,
-        "Draw": 3.6
-      },
-      "GTbets": {
-        "Estudiantes La Plata": 7.08,
-        "Flamengo-RJ": 1.49,
-        "Draw": 3.99
-      },
-      "BetOnline.ag": {
-        "Estudiantes La Plata": 8.7,
-        "Flamengo-RJ": 1.47,
-        "Draw": 4.22
-      },
-      "Betfair": {
-        "Estudiantes La Plata": 8.4,
-        "Flamengo-RJ": 1.54,
-        "Draw": 4.0
-      }
-    },
     "5e77ee16efd0edd49a9b41f083d5226f:h2h": {
       "Codere (IT)": {
-        "Brisbane Roar": 2.17,
-        "Perth Glory": 3.2,
-        "Draw": 3.45
+        "Brisbane Roar": 2.21,
+        "Perth Glory": 3.0,
+        "Draw": 3.6
       },
       "Winamax (FR)": {
-        "Brisbane Roar": 2.05,
-        "Perth Glory": 3.0,
-        "Draw": 3.35
+        "Brisbane Roar": 2.1,
+        "Perth Glory": 2.8,
+        "Draw": 3.5
       },
       "William Hill": {
         "Brisbane Roar": 2.15,
-        "Perth Glory": 3.1,
+        "Perth Glory": 3.0,
         "Draw": 3.3
       },
       "Unibet (FR)": {
-        "Brisbane Roar": 1.96,
-        "Perth Glory": 3.1,
-        "Draw": 3.35
+        "Brisbane Roar": 2.0,
+        "Perth Glory": 2.95,
+        "Draw": 3.5
       },
       "888sport": {
         "Brisbane Roar": 2.15,
-        "Perth Glory": 3.1,
+        "Perth Glory": 3.0,
         "Draw": 3.3
       },
       "Winamax (DE)": {
         "Brisbane Roar": 2.1,
-        "Perth Glory": 3.05,
-        "Draw": 3.45
+        "Perth Glory": 2.85,
+        "Draw": 3.6
       },
       "Betsson": {
-        "Brisbane Roar": 2.15,
-        "Perth Glory": 3.05,
+        "Brisbane Roar": 2.22,
+        "Perth Glory": 2.95,
         "Draw": 3.4
       },
       "Nordic Bet": {
-        "Brisbane Roar": 2.15,
-        "Perth Glory": 3.05,
+        "Brisbane Roar": 2.22,
+        "Perth Glory": 2.95,
         "Draw": 3.4
       },
       "Marathon Bet": {
-        "Brisbane Roar": 2.11,
-        "Perth Glory": 3.2,
-        "Draw": 3.46
+        "Brisbane Roar": 2.18,
+        "Perth Glory": 3.08,
+        "Draw": 3.42
       },
       "Betfair": {
-        "Brisbane Roar": 2.36,
-        "Perth Glory": 3.2,
-        "Draw": 3.6
+        "Brisbane Roar": 2.26,
+        "Perth Glory": 3.35,
+        "Draw": 3.75
       },
       "LeoVegas (SE)": {
         "Brisbane Roar": 2.05,
@@ -174,29 +72,29 @@
         "Draw": 3.4
       },
       "GTbets": {
-        "Brisbane Roar": 2.13,
-        "Perth Glory": 3.26,
+        "Brisbane Roar": 2.25,
+        "Perth Glory": 3.08,
         "Draw": 3.52
       },
       "Pinnacle": {
-        "Brisbane Roar": 2.28,
-        "Perth Glory": 3.19,
-        "Draw": 3.54
+        "Brisbane Roar": 2.26,
+        "Perth Glory": 3.18,
+        "Draw": 3.62
       },
       "Coolbet": {
         "Brisbane Roar": 2.2,
-        "Perth Glory": 3.21,
-        "Draw": 3.53
+        "Perth Glory": 3.25,
+        "Draw": 3.55
       },
       "BetOnline.ag": {
         "Brisbane Roar": 2.26,
-        "Perth Glory": 3.23,
-        "Draw": 3.53
+        "Perth Glory": 3.14,
+        "Draw": 3.63
       },
       "Matchbook": {
-        "Brisbane Roar": 2.36,
-        "Perth Glory": 3.25,
-        "Draw": 3.6
+        "Brisbane Roar": 2.28,
+        "Perth Glory": 3.3,
+        "Draw": 3.75
       }
     },
     "36a4afa90eb6e89631efac2705206fa5:h2h": {
@@ -222,23 +120,23 @@
       },
       "Unibet (FR)": {
         "Al-Faisaly KSA FC": 7.9,
-        "Al-Nassr": 1.16,
-        "Draw": 5.4
+        "Al-Nassr": 1.17,
+        "Draw": 5.3
       },
       "Betclic (FR)": {
-        "Al-Faisaly KSA FC": 8.25,
-        "Al-Nassr": 1.19,
-        "Draw": 5.75
+        "Al-Faisaly KSA FC": 8.5,
+        "Al-Nassr": 1.21,
+        "Draw": 5.6
       },
       "Winamax (DE)": {
-        "Al-Faisaly KSA FC": 7.75,
-        "Al-Nassr": 1.23,
+        "Al-Faisaly KSA FC": 8.0,
+        "Al-Nassr": 1.24,
         "Draw": 6.0
       },
       "Winamax (FR)": {
-        "Al-Faisaly KSA FC": 7.25,
-        "Al-Nassr": 1.2,
-        "Draw": 5.6
+        "Al-Faisaly KSA FC": 7.75,
+        "Al-Nassr": 1.23,
+        "Draw": 5.8
       },
       "1xBet": {
         "Al-Faisaly KSA FC": 10.8,
@@ -247,8 +145,8 @@
       },
       "Betfair": {
         "Al-Faisaly KSA FC": 12.0,
-        "Al-Nassr": 1.24,
-        "Draw": 7.6
+        "Al-Nassr": 1.25,
+        "Draw": 7.8
       },
       "William Hill": {
         "Al-Faisaly KSA FC": 9.0,
@@ -261,86 +159,188 @@
         "Draw": 5.75
       },
       "Pinnacle": {
-        "Al-Faisaly KSA FC": 8.72,
-        "Al-Nassr": 1.23,
-        "Draw": 6.93
+        "Al-Faisaly KSA FC": 8.99,
+        "Al-Nassr": 1.24,
+        "Draw": 7.02
       },
       "Tipico": {
-        "Al-Faisaly KSA FC": 10.0,
+        "Al-Faisaly KSA FC": 10.5,
         "Al-Nassr": 1.18,
-        "Draw": 6.7
+        "Draw": 6.5
       }
     },
     "4b149cdf49f5d677fe57fed9173b28fe:h2h": {
       "Unibet (SE)": {
-        "Al-Ittihad": 1.96,
-        "Diriyah Club": 3.15,
-        "Draw": 3.65
-      },
-      "PMU (FR)": {
-        "Al-Ittihad": 1.85,
-        "Diriyah Club": 3.0,
-        "Draw": 3.4
-      },
-      "LeoVegas (SE)": {
-        "Al-Ittihad": 1.92,
-        "Diriyah Club": 3.1,
-        "Draw": 3.55
-      },
-      "Unibet (NL)": {
-        "Al-Ittihad": 1.96,
-        "Diriyah Club": 3.15,
-        "Draw": 3.65
-      },
-      "Betclic (FR)": {
-        "Al-Ittihad": 1.8,
-        "Diriyah Club": 3.15,
-        "Draw": 3.73
-      },
-      "Unibet (FR)": {
-        "Al-Ittihad": 1.75,
-        "Diriyah Club": 3.1,
-        "Draw": 3.65
-      },
-      "Winamax (DE)": {
-        "Al-Ittihad": 1.9,
-        "Diriyah Club": 3.1,
-        "Draw": 3.9
-      },
-      "Winamax (FR)": {
-        "Al-Ittihad": 1.84,
-        "Diriyah Club": 3.0,
+        "Al-Ittihad": 1.87,
+        "Diriyah Club": 3.4,
         "Draw": 3.7
       },
+      "PMU (FR)": {
+        "Al-Ittihad": 1.76,
+        "Diriyah Club": 3.2,
+        "Draw": 3.45
+      },
+      "LeoVegas (SE)": {
+        "Al-Ittihad": 1.82,
+        "Diriyah Club": 3.3,
+        "Draw": 3.6
+      },
+      "Unibet (NL)": {
+        "Al-Ittihad": 1.87,
+        "Diriyah Club": 3.4,
+        "Draw": 3.7
+      },
+      "Betclic (FR)": {
+        "Al-Ittihad": 1.74,
+        "Diriyah Club": 3.53,
+        "Draw": 3.83
+      },
+      "Unibet (FR)": {
+        "Al-Ittihad": 1.65,
+        "Diriyah Club": 3.4,
+        "Draw": 3.7
+      },
+      "Winamax (DE)": {
+        "Al-Ittihad": 1.78,
+        "Diriyah Club": 3.5,
+        "Draw": 4.0
+      },
+      "Winamax (FR)": {
+        "Al-Ittihad": 1.76,
+        "Diriyah Club": 3.4,
+        "Draw": 3.9
+      },
       "1xBet": {
-        "Al-Ittihad": 1.98,
-        "Diriyah Club": 3.27,
-        "Draw": 3.88
+        "Al-Ittihad": 1.86,
+        "Diriyah Club": 3.56,
+        "Draw": 3.98
       },
       "Betfair": {
-        "Al-Ittihad": 1.9,
-        "Diriyah Club": 3.75,
-        "Draw": 4.1
+        "Al-Ittihad": 1.82,
+        "Diriyah Club": 4.1,
+        "Draw": 4.4
       },
       "888sport": {
-        "Al-Ittihad": 1.91,
-        "Diriyah Club": 3.2,
-        "Draw": 3.4
+        "Al-Ittihad": 1.75,
+        "Diriyah Club": 3.4,
+        "Draw": 3.8
       },
       "William Hill": {
-        "Al-Ittihad": 1.91,
-        "Diriyah Club": 3.2,
+        "Al-Ittihad": 1.75,
+        "Diriyah Club": 3.4,
+        "Draw": 3.8
+      },
+      "Pinnacle": {
+        "Al-Ittihad": 1.78,
+        "Diriyah Club": 3.76,
+        "Draw": 4.42
+      },
+      "Tipico": {
+        "Al-Ittihad": 1.67,
+        "Diriyah Club": 3.9,
+        "Draw": 4.1
+      }
+    },
+    "e1765b5a17803e17f06b9a6dde9201d7:h2h": {
+      "Unibet (SE)": {
+        "Motor Lublin": 2.05,
+        "Zagłębie Lubin": 3.4,
+        "Draw": 3.55
+      },
+      "LeoVegas (SE)": {
+        "Motor Lublin": 1.93,
+        "Zagłębie Lubin": 3.2,
+        "Draw": 3.3
+      },
+      "PMU (FR)": {
+        "Motor Lublin": 1.93,
+        "Zagłębie Lubin": 3.2,
+        "Draw": 3.3
+      },
+      "Unibet (NL)": {
+        "Motor Lublin": 2.05,
+        "Zagłębie Lubin": 3.4,
+        "Draw": 3.55
+      },
+      "Betsson": {
+        "Motor Lublin": 1.95,
+        "Zagłębie Lubin": 3.55,
+        "Draw": 3.35
+      },
+      "Nordic Bet": {
+        "Motor Lublin": 1.95,
+        "Zagłębie Lubin": 3.55,
+        "Draw": 3.35
+      },
+      "Betclic (FR)": {
+        "Motor Lublin": 1.88,
+        "Zagłębie Lubin": 3.47,
+        "Draw": 3.33
+      },
+      "Unibet (FR)": {
+        "Motor Lublin": 1.81,
+        "Zagłębie Lubin": 3.5,
+        "Draw": 3.35
+      },
+      "Coolbet": {
+        "Motor Lublin": 2.0,
+        "Zagłębie Lubin": 3.6,
+        "Draw": 3.6
+      },
+      "Winamax (DE)": {
+        "Motor Lublin": 1.92,
+        "Zagłębie Lubin": 3.45,
+        "Draw": 3.5
+      },
+      "Winamax (FR)": {
+        "Motor Lublin": 1.9,
+        "Zagłębie Lubin": 3.35,
+        "Draw": 3.4
+      },
+      "Marathon Bet": {
+        "Motor Lublin": 1.9,
+        "Zagłębie Lubin": 3.66,
+        "Draw": 3.48
+      },
+      "1xBet": {
+        "Motor Lublin": 1.92,
+        "Zagłębie Lubin": 3.68,
+        "Draw": 3.48
+      },
+      "BetOnline.ag": {
+        "Motor Lublin": 2.0,
+        "Zagłębie Lubin": 3.7,
         "Draw": 3.4
       },
       "Pinnacle": {
-        "Al-Ittihad": 1.9,
-        "Diriyah Club": 3.45,
-        "Draw": 4.15
+        "Motor Lublin": 2.0,
+        "Zagłębie Lubin": 3.9,
+        "Draw": 3.53
+      },
+      "888sport": {
+        "Motor Lublin": 1.95,
+        "Zagłębie Lubin": 3.6,
+        "Draw": 3.3
       },
       "Tipico": {
-        "Al-Ittihad": 1.8,
-        "Diriyah Club": 3.5,
-        "Draw": 3.9
+        "Motor Lublin": 1.93,
+        "Zagłębie Lubin": 3.8,
+        "Draw": 3.1
+      },
+      "Codere (IT)": {
+        "Motor Lublin": 1.95,
+        "Zagłębie Lubin": 3.55,
+        "Draw": 3.4
+      },
+      "Betfair": {
+        "Motor Lublin": 2.02,
+        "Zagłębie Lubin": 3.95,
+        "Draw": 3.65
+      },
+      "Matchbook": {
+        "Motor Lublin": 2.02,
+        "Zagłębie Lubin": 4.0,
+        "Draw": 3.65
       }
     }
   },
