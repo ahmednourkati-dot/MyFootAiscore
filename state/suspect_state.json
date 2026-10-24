@@ -1,121 +1,64 @@
 {
   "snapshots": {
-    "698b49f4f4aa4d8486e987c6e77fb3df:h2h": {
-      "Unibet (NL)": {
-        "Bradford City": 15.0,
-        "Oxford United": 13.0,
-        "Draw": 1.05
-      },
-      "LeoVegas (SE)": {
-        "Bradford City": 12.0,
-        "Oxford United": 14.0,
-        "Draw": 1.01
-      },
-      "Unibet (SE)": {
-        "Bradford City": 21.0,
-        "Oxford United": 21.0,
-        "Draw": 1.02
-      },
-      "888sport": {
-        "Bradford City": 17.0,
-        "Oxford United": 15.0,
-        "Draw": 1.06
-      },
-      "Betfair": {
-        "Bradford City": 1.01,
-        "Oxford United": 1.01,
-        "Draw": 1.12
-      },
+    "0dae715cc56fe201f9e667917c126691:h2h": {
       "Coolbet": {
-        "Bradford City": 15.0,
-        "Oxford United": 15.0,
-        "Draw": 1.06
+        "Valencia": 750.0,
+        "Villarreal": 1.01,
+        "Draw": 20.0
       },
-      "Pinnacle": {
-        "Bradford City": 9.79,
-        "Oxford United": 9.01,
-        "Draw": 1.17
-      },
-      "Betsson": {
-        "Bradford City": 9.6,
-        "Oxford United": 8.6,
-        "Draw": 1.12
+      "Tipico": {
+        "Valencia": 400.0,
+        "Villarreal": 1.01,
+        "Draw": 20.0
       },
       "Nordic Bet": {
-        "Bradford City": 9.6,
-        "Oxford United": 8.6,
-        "Draw": 1.12
-      }
-    },
-    "4f696763d168bbf047c9da37c6b282b8:h2h": {
-      "Unibet (FR)": {
-        "AC Oulu": 1.15,
-        "IF Gnistan": 27.0,
-        "Draw": 3.7
-      },
-      "Marathon Bet": {
-        "AC Oulu": 1.02,
-        "IF Gnistan": 51.0,
-        "Draw": 9.5
-      },
-      "888sport": {
-        "AC Oulu": 1.0,
-        "IF Gnistan": 151.0,
-        "Draw": 56.0
-      },
-      "Nordic Bet": {
-        "AC Oulu": 1.05,
-        "IF Gnistan": 80.0,
-        "Draw": 9.0
+        "Valencia": 180.0,
+        "Villarreal": 1.01,
+        "Draw": 15.0
       },
       "Betsson": {
-        "AC Oulu": 1.05,
-        "IF Gnistan": 80.0,
-        "Draw": 9.0
+        "Valencia": 180.0,
+        "Villarreal": 1.01,
+        "Draw": 15.0
       },
       "Betfair": {
-        "AC Oulu": 1.01,
-        "IF Gnistan": 19.5,
-        "Draw": 26.0
-      }
-    },
-    "9f30ac01fb4eda644b68100880afd9ec:h2h": {
-      "Betclic (FR)": {
-        "Abha Club": 90.0,
-        "Neom": 1.0,
-        "Draw": 35.0
-      },
-      "888sport": {
-        "Abha Club": 151.0,
-        "Neom": 1.0,
-        "Draw": 46.0
-      },
-      "William Hill": {
-        "Abha Club": 151.0,
-        "Neom": 1.0,
-        "Draw": 61.0
-      },
-      "Betfair": {
-        "Abha Club": 50.0,
-        "Neom": 1.01,
+        "Valencia": 1000.0,
+        "Villarreal": 1.01,
         "Draw": 50.0
       }
     },
-    "6ecdeb45c4d5002ef3c85fa3151bf085:h2h": {
-      "Betfair": {
-        "Accrington Stanley": 1.01,
-        "Rochdale": 270.0,
-        "Draw": 80.0
+    "d962e99711c241eb444793ef2e07098b:h2h": {
+      "Betclic (FR)": {
+        "SC Cambuur": 1.0,
+        "Willem II": 100.0,
+        "Draw": 75.0
       },
       "Nordic Bet": {
-        "Accrington Stanley": 1.0,
-        "Rochdale": 21.0,
-        "Draw": 21.0
+        "SC Cambuur": 1.0,
+        "Willem II": 26.0,
+        "Draw": 26.0
       },
       "Betsson": {
-        "Accrington Stanley": 1.0,
-        "Rochdale": 21.0,
-        "Draw": 21.0
+        "SC Cambuur": 1.0,
+        "Willem II": 26.0,
+        "Draw": 26.0
+      }
+    },
+    "35a5ac1fb9cd77d3a814f13b7e6fda8b:h2h": {
+      "Betsson": {
+        "AEK Athens": 1.0,
+        "Panetolikos Agrinio": 26.0,
+        "Draw": 26.0
+      },
+      "Nordic Bet": {
+        "AEK Athens": 1.0,
+        "Panetolikos Agrinio": 26.0,
+        "Draw": 26.0
+      },
+      "Betclic (FR)": {
+        "AEK Athens": 1.0,
+        "Panetolikos Agrinio": 100.0,
+        "Draw": 40.0
       }
     }
   },
@@ -4155,16 +4098,5 @@
     }
   ],
   "results_history": [],
-  "value_alerted": [
-    "698b49f4f4aa4d8486e987c6e77fb3df:h2h|888sport|Bradford City",
-    "698b49f4f4aa4d8486e987c6e77fb3df:h2h|888sport|Oxford United",
-    "698b49f4f4aa4d8486e987c6e77fb3df:h2h|Coolbet|Bradford City",
-    "698b49f4f4aa4d8486e987c6e77fb3df:h2h|Coolbet|Oxford United",
-    "698b49f4f4aa4d8486e987c6e77fb3df:h2h|LeoVegas (SE)|Bradford City",
-    "698b49f4f4aa4d8486e987c6e77fb3df:h2h|LeoVegas (SE)|Oxford United",
-    "698b49f4f4aa4d8486e987c6e77fb3df:h2h|Unibet (NL)|Bradford City",
-    "698b49f4f4aa4d8486e987c6e77fb3df:h2h|Unibet (NL)|Oxford United",
-    "698b49f4f4aa4d8486e987c6e77fb3df:h2h|Unibet (SE)|Bradford City",
-    "698b49f4f4aa4d8486e987c6e77fb3df:h2h|Unibet (SE)|Oxford United"
-  ]
+  "value_alerted": []
 }
