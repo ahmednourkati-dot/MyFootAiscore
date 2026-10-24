@@ -1,64 +1,276 @@
 {
   "snapshots": {
-    "0dae715cc56fe201f9e667917c126691:h2h": {
+    "3af98fe88777637c2fab07982de5f067:h2h": {
+      "MyBookie.ag": {
+        "Bragantino-SP": 5.5,
+        "Palmeiras": 1.65,
+        "Draw": 3.2
+      },
+      "Unibet (FR)": {
+        "Bragantino-SP": 12.0,
+        "Palmeiras": 1.2,
+        "Draw": 4.25
+      },
+      "Winamax (FR)": {
+        "Bragantino-SP": 13.5,
+        "Palmeiras": 1.22,
+        "Draw": 5.0
+      },
+      "Winamax (DE)": {
+        "Bragantino-SP": 14.0,
+        "Palmeiras": 1.2,
+        "Draw": 5.3
+      },
+      "Marathon Bet": {
+        "Bragantino-SP": 6.05,
+        "Palmeiras": 1.67,
+        "Draw": 3.18
+      },
+      "888sport": {
+        "Bragantino-SP": 5.0,
+        "Palmeiras": 1.61,
+        "Draw": 3.5
+      },
+      "PMU (FR)": {
+        "Bragantino-SP": 10.5,
+        "Palmeiras": 1.16,
+        "Draw": 4.9
+      },
+      "LeoVegas (SE)": {
+        "Bragantino-SP": 11.0,
+        "Palmeiras": 1.18,
+        "Draw": 5.0
+      },
+      "Unibet (NL)": {
+        "Bragantino-SP": 11.0,
+        "Palmeiras": 1.2,
+        "Draw": 5.1
+      },
+      "Unibet (SE)": {
+        "Bragantino-SP": 12.0,
+        "Palmeiras": 1.24,
+        "Draw": 5.4
+      },
+      "Nordic Bet": {
+        "Bragantino-SP": 5.8,
+        "Palmeiras": 1.68,
+        "Draw": 3.2
+      },
+      "Betsson": {
+        "Bragantino-SP": 5.8,
+        "Palmeiras": 1.72,
+        "Draw": 3.05
+      },
       "Coolbet": {
-        "Valencia": 750.0,
-        "Villarreal": 1.01,
-        "Draw": 20.0
+        "Bragantino-SP": 6.0,
+        "Palmeiras": 1.67,
+        "Draw": 3.25
+      },
+      "Matchbook": {
+        "Bragantino-SP": 6.2,
+        "Palmeiras": 1.7,
+        "Draw": 3.25
+      },
+      "Pinnacle": {
+        "Bragantino-SP": 6.3,
+        "Palmeiras": 1.72,
+        "Draw": 3.19
       },
       "Tipico": {
-        "Valencia": 400.0,
-        "Villarreal": 1.01,
-        "Draw": 20.0
-      },
-      "Nordic Bet": {
-        "Valencia": 180.0,
-        "Villarreal": 1.01,
-        "Draw": 15.0
-      },
-      "Betsson": {
-        "Valencia": 180.0,
-        "Villarreal": 1.01,
-        "Draw": 15.0
+        "Bragantino-SP": 14.0,
+        "Palmeiras": 1.15,
+        "Draw": 6.0
       },
       "Betfair": {
-        "Valencia": 1000.0,
-        "Villarreal": 1.01,
-        "Draw": 50.0
+        "Bragantino-SP": 7.0,
+        "Palmeiras": 1.34,
+        "Draw": 3.3
       }
     },
-    "d962e99711c241eb444793ef2e07098b:h2h": {
-      "Betclic (FR)": {
-        "SC Cambuur": 1.0,
-        "Willem II": 100.0,
-        "Draw": 75.0
-      },
-      "Nordic Bet": {
-        "SC Cambuur": 1.0,
-        "Willem II": 26.0,
-        "Draw": 26.0
+    "d7dc908ab91fc4627bd95a87454904ba:h2h": {
+      "Unibet (SE)": {
+        "Clube de Regatas Brasil": 1.02,
+        "Londrina": 61.0,
+        "Draw": 18.0
       },
       "Betsson": {
-        "SC Cambuur": 1.0,
-        "Willem II": 26.0,
-        "Draw": 26.0
+        "Clube de Regatas Brasil": 1.01,
+        "Londrina": 80.0,
+        "Draw": 34.0
+      },
+      "Coolbet": {
+        "Clube de Regatas Brasil": 1.01,
+        "Londrina": 35.0,
+        "Draw": 16.0
+      },
+      "Nordic Bet": {
+        "Clube de Regatas Brasil": 1.01,
+        "Londrina": 80.0,
+        "Draw": 34.0
+      },
+      "888sport": {
+        "Clube de Regatas Brasil": 1.02,
+        "Londrina": 81.0,
+        "Draw": 23.0
+      },
+      "Betfair": {
+        "Clube de Regatas Brasil": 1.02,
+        "Londrina": 180.0,
+        "Draw": 38.0
+      },
+      "Matchbook": {
+        "Clube de Regatas Brasil": 1.03,
+        "Londrina": 210.0,
+        "Draw": 36.0
       }
     },
-    "35a5ac1fb9cd77d3a814f13b7e6fda8b:h2h": {
+    "ea1d5c807c706a00c35d4c867727d968:h2h": {
+      "Winamax (FR)": {
+        "Corinthians": 16.0,
+        "Vasco da Gama": 1.21,
+        "Draw": 4.9
+      },
+      "Marathon Bet": {
+        "Corinthians": 16.75,
+        "Vasco da Gama": 1.19,
+        "Draw": 5.65
+      },
+      "Winamax (DE)": {
+        "Corinthians": 17.0,
+        "Vasco da Gama": 1.19,
+        "Draw": 5.2
+      },
+      "Unibet (FR)": {
+        "Corinthians": 14.5,
+        "Vasco da Gama": 1.18,
+        "Draw": 4.3
+      },
+      "MyBookie.ag": {
+        "Corinthians": 15.75,
+        "Vasco da Gama": 1.2,
+        "Draw": 5.25
+      },
+      "888sport": {
+        "Corinthians": 13.0,
+        "Vasco da Gama": 1.22,
+        "Draw": 5.0
+      },
+      "LeoVegas (SE)": {
+        "Corinthians": 14.0,
+        "Vasco da Gama": 1.15,
+        "Draw": 5.0
+      },
+      "Unibet (NL)": {
+        "Corinthians": 14.0,
+        "Vasco da Gama": 1.17,
+        "Draw": 5.1
+      },
+      "Unibet (SE)": {
+        "Corinthians": 15.0,
+        "Vasco da Gama": 1.21,
+        "Draw": 5.3
+      },
+      "PMU (FR)": {
+        "Corinthians": 14.0,
+        "Vasco da Gama": 1.13,
+        "Draw": 4.9
+      },
       "Betsson": {
-        "AEK Athens": 1.0,
-        "Panetolikos Agrinio": 26.0,
-        "Draw": 26.0
+        "Corinthians": 16.0,
+        "Vasco da Gama": 1.2,
+        "Draw": 5.35
       },
       "Nordic Bet": {
-        "AEK Athens": 1.0,
-        "Panetolikos Agrinio": 26.0,
-        "Draw": 26.0
+        "Corinthians": 16.0,
+        "Vasco da Gama": 1.2,
+        "Draw": 5.35
       },
-      "Betclic (FR)": {
-        "AEK Athens": 1.0,
-        "Panetolikos Agrinio": 100.0,
-        "Draw": 40.0
+      "Coolbet": {
+        "Corinthians": 18.0,
+        "Vasco da Gama": 1.2,
+        "Draw": 5.5
+      },
+      "Matchbook": {
+        "Corinthians": 20.0,
+        "Vasco da Gama": 1.27,
+        "Draw": 5.9
+      },
+      "Pinnacle": {
+        "Corinthians": 18.94,
+        "Vasco da Gama": 1.23,
+        "Draw": 5.48
+      },
+      "Tipico": {
+        "Corinthians": 18.0,
+        "Vasco da Gama": 1.15,
+        "Draw": 5.5
+      },
+      "Betfair": {
+        "Corinthians": 20.0,
+        "Vasco da Gama": 1.27,
+        "Draw": 5.9
+      }
+    },
+    "e7f7170180dd1a419bf4cad63644f669:h2h": {
+      "LeoVegas (SE)": {
+        "Fortaleza": 2.55,
+        "Ponte Preta": 2.63,
+        "Draw": 2.5
+      },
+      "Unibet (NL)": {
+        "Fortaleza": 2.7,
+        "Ponte Preta": 2.8,
+        "Draw": 2.65
+      },
+      "Unibet (SE)": {
+        "Fortaleza": 2.7,
+        "Ponte Preta": 2.8,
+        "Draw": 2.65
+      },
+      "Betsson": {
+        "Fortaleza": 1.08,
+        "Ponte Preta": 30.0,
+        "Draw": 6.8
+      },
+      "Coolbet": {
+        "Fortaleza": 2.88,
+        "Ponte Preta": 2.5,
+        "Draw": 2.88
+      },
+      "Nordic Bet": {
+        "Fortaleza": 1.08,
+        "Ponte Preta": 30.0,
+        "Draw": 6.8
+      },
+      "Pinnacle": {
+        "Fortaleza": 3.17,
+        "Ponte Preta": 2.62,
+        "Draw": 2.66
+      },
+      "Marathon Bet": {
+        "Fortaleza": 2.81,
+        "Ponte Preta": 2.53,
+        "Draw": 2.8
+      },
+      "888sport": {
+        "Fortaleza": 2.9,
+        "Ponte Preta": 2.45,
+        "Draw": 2.75
+      },
+      "Betfair": {
+        "Fortaleza": 3.1,
+        "Ponte Preta": 2.86,
+        "Draw": 2.94
+      },
+      "Matchbook": {
+        "Fortaleza": 3.1,
+        "Ponte Preta": 2.86,
+        "Draw": 2.94
+      },
+      "Tipico": {
+        "Fortaleza": 2.6,
+        "Ponte Preta": 2.5,
+        "Draw": 3.1
       }
     }
   },
@@ -4095,8 +4307,383 @@
       "confidence": 56,
       "alert_type": "value",
       "alerted_at": "2026-10-24T15:50:58.244726+00:00"
+    },
+    {
+      "state_key": "3af98fe88777637c2fab07982de5f067:h2h",
+      "event_id": "3af98fe88777637c2fab07982de5f067",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Palmeiras",
+      "away_team": "Bragantino-SP",
+      "commence_time": "2026-10-24T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Bragantino-SP",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 81,
+      "alert_type": "value",
+      "alerted_at": "2026-10-24T22:25:32.498009+00:00"
+    },
+    {
+      "state_key": "3af98fe88777637c2fab07982de5f067:h2h",
+      "event_id": "3af98fe88777637c2fab07982de5f067",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Palmeiras",
+      "away_team": "Bragantino-SP",
+      "commence_time": "2026-10-24T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.25,
+      "stake_pct": 5.0,
+      "confidence": 26,
+      "alert_type": "value",
+      "alerted_at": "2026-10-24T22:25:32.850768+00:00"
+    },
+    {
+      "state_key": "3af98fe88777637c2fab07982de5f067:h2h",
+      "event_id": "3af98fe88777637c2fab07982de5f067",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Palmeiras",
+      "away_team": "Bragantino-SP",
+      "commence_time": "2026-10-24T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Bragantino-SP",
+      "odds_at_alert": 13.5,
+      "stake_pct": 5.0,
+      "confidence": 103,
+      "alert_type": "value",
+      "alerted_at": "2026-10-24T22:25:33.205275+00:00"
+    },
+    {
+      "state_key": "3af98fe88777637c2fab07982de5f067:h2h",
+      "event_id": "3af98fe88777637c2fab07982de5f067",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Palmeiras",
+      "away_team": "Bragantino-SP",
+      "commence_time": "2026-10-24T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.0,
+      "stake_pct": 5.0,
+      "confidence": 49,
+      "alert_type": "value",
+      "alerted_at": "2026-10-24T22:25:33.558729+00:00"
+    },
+    {
+      "state_key": "3af98fe88777637c2fab07982de5f067:h2h",
+      "event_id": "3af98fe88777637c2fab07982de5f067",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Palmeiras",
+      "away_team": "Bragantino-SP",
+      "commence_time": "2026-10-24T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Bragantino-SP",
+      "odds_at_alert": 14.0,
+      "stake_pct": 5.0,
+      "confidence": 111,
+      "alert_type": "value",
+      "alerted_at": "2026-10-24T22:25:33.915082+00:00"
+    },
+    {
+      "state_key": "3af98fe88777637c2fab07982de5f067:h2h",
+      "event_id": "3af98fe88777637c2fab07982de5f067",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Palmeiras",
+      "away_team": "Bragantino-SP",
+      "commence_time": "2026-10-24T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.3,
+      "stake_pct": 5.0,
+      "confidence": 58,
+      "alert_type": "value",
+      "alerted_at": "2026-10-24T22:25:34.279408+00:00"
+    },
+    {
+      "state_key": "3af98fe88777637c2fab07982de5f067:h2h",
+      "event_id": "3af98fe88777637c2fab07982de5f067",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Palmeiras",
+      "away_team": "Bragantino-SP",
+      "commence_time": "2026-10-24T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Bragantino-SP",
+      "odds_at_alert": 10.5,
+      "stake_pct": 5.0,
+      "confidence": 58,
+      "alert_type": "value",
+      "alerted_at": "2026-10-24T22:25:34.633256+00:00"
+    },
+    {
+      "state_key": "3af98fe88777637c2fab07982de5f067:h2h",
+      "event_id": "3af98fe88777637c2fab07982de5f067",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Palmeiras",
+      "away_team": "Bragantino-SP",
+      "commence_time": "2026-10-24T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.9,
+      "stake_pct": 5.0,
+      "confidence": 46,
+      "alert_type": "value",
+      "alerted_at": "2026-10-24T22:25:34.985472+00:00"
+    },
+    {
+      "state_key": "3af98fe88777637c2fab07982de5f067:h2h",
+      "event_id": "3af98fe88777637c2fab07982de5f067",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Palmeiras",
+      "away_team": "Bragantino-SP",
+      "commence_time": "2026-10-24T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Bragantino-SP",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 66,
+      "alert_type": "value",
+      "alerted_at": "2026-10-24T22:25:35.372260+00:00"
+    },
+    {
+      "state_key": "3af98fe88777637c2fab07982de5f067:h2h",
+      "event_id": "3af98fe88777637c2fab07982de5f067",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Palmeiras",
+      "away_team": "Bragantino-SP",
+      "commence_time": "2026-10-24T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.0,
+      "stake_pct": 5.0,
+      "confidence": 49,
+      "alert_type": "value",
+      "alerted_at": "2026-10-24T22:25:35.749952+00:00"
+    },
+    {
+      "state_key": "3af98fe88777637c2fab07982de5f067:h2h",
+      "event_id": "3af98fe88777637c2fab07982de5f067",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Palmeiras",
+      "away_team": "Bragantino-SP",
+      "commence_time": "2026-10-24T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Bragantino-SP",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 66,
+      "alert_type": "value",
+      "alerted_at": "2026-10-24T22:25:36.167670+00:00"
+    },
+    {
+      "state_key": "3af98fe88777637c2fab07982de5f067:h2h",
+      "event_id": "3af98fe88777637c2fab07982de5f067",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Palmeiras",
+      "away_team": "Bragantino-SP",
+      "commence_time": "2026-10-24T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.1,
+      "stake_pct": 5.0,
+      "confidence": 52,
+      "alert_type": "value",
+      "alerted_at": "2026-10-24T22:25:36.549420+00:00"
+    },
+    {
+      "state_key": "3af98fe88777637c2fab07982de5f067:h2h",
+      "event_id": "3af98fe88777637c2fab07982de5f067",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Palmeiras",
+      "away_team": "Bragantino-SP",
+      "commence_time": "2026-10-24T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Bragantino-SP",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 81,
+      "alert_type": "value",
+      "alerted_at": "2026-10-24T22:25:37.004140+00:00"
+    },
+    {
+      "state_key": "3af98fe88777637c2fab07982de5f067:h2h",
+      "event_id": "3af98fe88777637c2fab07982de5f067",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Palmeiras",
+      "away_team": "Bragantino-SP",
+      "commence_time": "2026-10-24T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.4,
+      "stake_pct": 5.0,
+      "confidence": 61,
+      "alert_type": "value",
+      "alerted_at": "2026-10-24T22:25:37.369107+00:00"
+    },
+    {
+      "state_key": "3af98fe88777637c2fab07982de5f067:h2h",
+      "event_id": "3af98fe88777637c2fab07982de5f067",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Palmeiras",
+      "away_team": "Bragantino-SP",
+      "commence_time": "2026-10-24T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Bragantino-SP",
+      "odds_at_alert": 14.0,
+      "stake_pct": 5.0,
+      "confidence": 111,
+      "alert_type": "value",
+      "alerted_at": "2026-10-24T22:25:37.724927+00:00"
+    },
+    {
+      "state_key": "3af98fe88777637c2fab07982de5f067:h2h",
+      "event_id": "3af98fe88777637c2fab07982de5f067",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Palmeiras",
+      "away_team": "Bragantino-SP",
+      "commence_time": "2026-10-24T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.0,
+      "stake_pct": 5.0,
+      "confidence": 79,
+      "alert_type": "value",
+      "alerted_at": "2026-10-24T22:25:38.080463+00:00"
+    },
+    {
+      "state_key": "3af98fe88777637c2fab07982de5f067:h2h",
+      "event_id": "3af98fe88777637c2fab07982de5f067",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Palmeiras",
+      "away_team": "Bragantino-SP",
+      "commence_time": "2026-10-24T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Bragantino-SP",
+      "odds_at_alert": 7.0,
+      "stake_pct": 2.0,
+      "confidence": 5,
+      "alert_type": "value",
+      "alerted_at": "2026-10-24T22:25:38.438197+00:00"
+    },
+    {
+      "state_key": "e7f7170180dd1a419bf4cad63644f669:h2h",
+      "event_id": "e7f7170180dd1a419bf4cad63644f669",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ponte Preta",
+      "away_team": "Fortaleza",
+      "commence_time": "2026-10-24T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Ponte Preta",
+      "odds_at_alert": 30.0,
+      "stake_pct": 5.0,
+      "confidence": 967,
+      "alert_type": "value",
+      "alerted_at": "2026-10-24T22:25:38.803093+00:00"
+    },
+    {
+      "state_key": "e7f7170180dd1a419bf4cad63644f669:h2h",
+      "event_id": "e7f7170180dd1a419bf4cad63644f669",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ponte Preta",
+      "away_team": "Fortaleza",
+      "commence_time": "2026-10-24T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.8,
+      "stake_pct": 5.0,
+      "confidence": 138,
+      "alert_type": "value",
+      "alerted_at": "2026-10-24T22:25:39.177866+00:00"
+    },
+    {
+      "state_key": "e7f7170180dd1a419bf4cad63644f669:h2h",
+      "event_id": "e7f7170180dd1a419bf4cad63644f669",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ponte Preta",
+      "away_team": "Fortaleza",
+      "commence_time": "2026-10-24T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Ponte Preta",
+      "odds_at_alert": 30.0,
+      "stake_pct": 5.0,
+      "confidence": 967,
+      "alert_type": "value",
+      "alerted_at": "2026-10-24T22:25:39.561758+00:00"
+    },
+    {
+      "state_key": "e7f7170180dd1a419bf4cad63644f669:h2h",
+      "event_id": "e7f7170180dd1a419bf4cad63644f669",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ponte Preta",
+      "away_team": "Fortaleza",
+      "commence_time": "2026-10-24T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.8,
+      "stake_pct": 5.0,
+      "confidence": 138,
+      "alert_type": "value",
+      "alerted_at": "2026-10-24T22:25:39.912354+00:00"
+    },
+    {
+      "state_key": "e7f7170180dd1a419bf4cad63644f669:h2h",
+      "event_id": "e7f7170180dd1a419bf4cad63644f669",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Ponte Preta",
+      "away_team": "Fortaleza",
+      "commence_time": "2026-10-24T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.1,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-10-24T22:25:40.264154+00:00"
     }
   ],
   "results_history": [],
-  "value_alerted": []
+  "value_alerted": [
+    "3af98fe88777637c2fab07982de5f067:h2h|Betfair|Bragantino-SP",
+    "3af98fe88777637c2fab07982de5f067:h2h|LeoVegas (SE)|Bragantino-SP",
+    "3af98fe88777637c2fab07982de5f067:h2h|LeoVegas (SE)|Draw",
+    "3af98fe88777637c2fab07982de5f067:h2h|PMU (FR)|Bragantino-SP",
+    "3af98fe88777637c2fab07982de5f067:h2h|PMU (FR)|Draw",
+    "3af98fe88777637c2fab07982de5f067:h2h|Tipico|Bragantino-SP",
+    "3af98fe88777637c2fab07982de5f067:h2h|Tipico|Draw",
+    "3af98fe88777637c2fab07982de5f067:h2h|Unibet (FR)|Bragantino-SP",
+    "3af98fe88777637c2fab07982de5f067:h2h|Unibet (FR)|Draw",
+    "3af98fe88777637c2fab07982de5f067:h2h|Unibet (NL)|Bragantino-SP",
+    "3af98fe88777637c2fab07982de5f067:h2h|Unibet (NL)|Draw",
+    "3af98fe88777637c2fab07982de5f067:h2h|Unibet (SE)|Bragantino-SP",
+    "3af98fe88777637c2fab07982de5f067:h2h|Unibet (SE)|Draw",
+    "3af98fe88777637c2fab07982de5f067:h2h|Winamax (DE)|Bragantino-SP",
+    "3af98fe88777637c2fab07982de5f067:h2h|Winamax (DE)|Draw",
+    "3af98fe88777637c2fab07982de5f067:h2h|Winamax (FR)|Bragantino-SP",
+    "3af98fe88777637c2fab07982de5f067:h2h|Winamax (FR)|Draw",
+    "e7f7170180dd1a419bf4cad63644f669:h2h|Betsson|Draw",
+    "e7f7170180dd1a419bf4cad63644f669:h2h|Betsson|Ponte Preta",
+    "e7f7170180dd1a419bf4cad63644f669:h2h|Nordic Bet|Draw",
+    "e7f7170180dd1a419bf4cad63644f669:h2h|Nordic Bet|Ponte Preta",
+    "e7f7170180dd1a419bf4cad63644f669:h2h|Tipico|Draw"
+  ]
 }
