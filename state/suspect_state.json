@@ -1,216 +1,121 @@
 {
   "snapshots": {
-    "e0e0791995927a8af1bbef4c724cff03:h2h": {
-      "Pinnacle": {
-        "Dinamo Moscow": 4.1,
-        "FC Akron Tolyatti": 2.09,
-        "Draw": 2.96
-      },
-      "Marathon Bet": {
-        "Dinamo Moscow": 3.62,
-        "FC Akron Tolyatti": 2.24,
-        "Draw": 3.0
-      }
-    },
-    "c0057c0d145a594f23f17da92bd6deb6:h2h": {
-      "LeoVegas (SE)": {
-        "1. FC Köln": 16.0,
-        "VfL Wolfsburg": 1.09,
-        "Draw": 6.0
-      },
+    "698b49f4f4aa4d8486e987c6e77fb3df:h2h": {
       "Unibet (NL)": {
-        "1. FC Köln": 16.0,
-        "VfL Wolfsburg": 1.12,
-        "Draw": 6.5
-      },
-      "Unibet (SE)": {
-        "1. FC Köln": 16.0,
-        "VfL Wolfsburg": 1.12,
-        "Draw": 6.5
-      },
-      "Tipico": {
-        "1. FC Köln": 25.0,
-        "VfL Wolfsburg": 1.07,
-        "Draw": 7.5
-      },
-      "Pinnacle": {
-        "1. FC Köln": 7.08,
-        "VfL Wolfsburg": 1.47,
-        "Draw": 3.86
-      }
-    },
-    "ab75ba9f53a6c47fe587e78913948d13:h2h": {
-      "Unibet (NL)": {
-        "Cracovia Kraków": 13.0,
-        "Piast Gliwice": 1.14,
-        "Draw": 6.75
+        "Bradford City": 15.0,
+        "Oxford United": 13.0,
+        "Draw": 1.05
       },
       "LeoVegas (SE)": {
-        "Cracovia Kraków": 13.0,
-        "Piast Gliwice": 1.07,
-        "Draw": 6.5
-      },
-      "PMU (FR)": {
-        "Cracovia Kraków": 13.0,
-        "Piast Gliwice": 1.03,
-        "Draw": 6.5
+        "Bradford City": 12.0,
+        "Oxford United": 14.0,
+        "Draw": 1.01
       },
       "Unibet (SE)": {
-        "Cracovia Kraków": 13.0,
-        "Piast Gliwice": 1.14,
-        "Draw": 6.75
-      },
-      "Betsson": {
-        "Cracovia Kraków": 19.5,
-        "Piast Gliwice": 1.09,
-        "Draw": 7.7
-      },
-      "Betclic (FR)": {
-        "Cracovia Kraków": 14.5,
-        "Piast Gliwice": 1.07,
-        "Draw": 7.0
-      },
-      "Nordic Bet": {
-        "Cracovia Kraków": 19.5,
-        "Piast Gliwice": 1.09,
-        "Draw": 8.2
-      },
-      "Unibet (FR)": {
-        "Cracovia Kraków": 18.0,
-        "Piast Gliwice": 1.1,
-        "Draw": 6.75
-      },
-      "Coolbet": {
-        "Cracovia Kraków": 16.0,
-        "Piast Gliwice": 1.13,
-        "Draw": 8.0
-      },
-      "Winamax (DE)": {
-        "Cracovia Kraków": 17.0,
-        "Piast Gliwice": 1.1,
-        "Draw": 8.0
-      },
-      "Winamax (FR)": {
-        "Cracovia Kraków": 16.0,
-        "Piast Gliwice": 1.13,
-        "Draw": 7.5
-      },
-      "Marathon Bet": {
-        "Cracovia Kraków": 16.5,
-        "Piast Gliwice": 1.07,
-        "Draw": 8.6
-      },
-      "Pinnacle": {
-        "Cracovia Kraków": 18.25,
-        "Piast Gliwice": 1.13,
-        "Draw": 8.34
+        "Bradford City": 21.0,
+        "Oxford United": 21.0,
+        "Draw": 1.02
       },
       "888sport": {
-        "Cracovia Kraków": 15.0,
-        "Piast Gliwice": 1.12,
-        "Draw": 7.5
+        "Bradford City": 17.0,
+        "Oxford United": 15.0,
+        "Draw": 1.06
       },
-      "Tipico": {
-        "Cracovia Kraków": 22.0,
-        "Piast Gliwice": 1.05,
+      "Betfair": {
+        "Bradford City": 1.01,
+        "Oxford United": 1.01,
+        "Draw": 1.12
+      },
+      "Coolbet": {
+        "Bradford City": 15.0,
+        "Oxford United": 15.0,
+        "Draw": 1.06
+      },
+      "Pinnacle": {
+        "Bradford City": 9.79,
+        "Oxford United": 9.01,
+        "Draw": 1.17
+      },
+      "Betsson": {
+        "Bradford City": 9.6,
+        "Oxford United": 8.6,
+        "Draw": 1.12
+      },
+      "Nordic Bet": {
+        "Bradford City": 9.6,
+        "Oxford United": 8.6,
+        "Draw": 1.12
+      }
+    },
+    "4f696763d168bbf047c9da37c6b282b8:h2h": {
+      "Unibet (FR)": {
+        "AC Oulu": 1.15,
+        "IF Gnistan": 27.0,
+        "Draw": 3.7
+      },
+      "Marathon Bet": {
+        "AC Oulu": 1.02,
+        "IF Gnistan": 51.0,
+        "Draw": 9.5
+      },
+      "888sport": {
+        "AC Oulu": 1.0,
+        "IF Gnistan": 151.0,
+        "Draw": 56.0
+      },
+      "Nordic Bet": {
+        "AC Oulu": 1.05,
+        "IF Gnistan": 80.0,
+        "Draw": 9.0
+      },
+      "Betsson": {
+        "AC Oulu": 1.05,
+        "IF Gnistan": 80.0,
         "Draw": 9.0
       },
       "Betfair": {
-        "Cracovia Kraków": 25.0,
-        "Piast Gliwice": 1.15,
-        "Draw": 9.6
-      },
-      "Matchbook": {
-        "Cracovia Kraków": 23.0,
-        "Piast Gliwice": 1.15,
-        "Draw": 9.4
+        "AC Oulu": 1.01,
+        "IF Gnistan": 19.5,
+        "Draw": 26.0
       }
     },
-    "dc96970d397d25e8cf9b68ad9eacebc6:h2h": {
-      "Unibet (SE)": {
-        "Eyüpspor": 4.4,
-        "Kasimpasa SK": 1.75,
-        "Draw": 3.25
-      },
-      "Unibet (NL)": {
-        "Eyüpspor": 4.4,
-        "Kasimpasa SK": 1.75,
-        "Draw": 3.25
-      },
-      "Betsson": {
-        "Eyüpspor": 4.4,
-        "Kasimpasa SK": 1.85,
-        "Draw": 3.15
-      },
-      "Nordic Bet": {
-        "Eyüpspor": 4.4,
-        "Kasimpasa SK": 1.85,
-        "Draw": 3.15
-      },
-      "PMU (FR)": {
-        "Eyüpspor": 4.2,
-        "Kasimpasa SK": 1.65,
-        "Draw": 3.1
-      },
-      "LeoVegas (SE)": {
-        "Eyüpspor": 4.2,
-        "Kasimpasa SK": 1.64,
-        "Draw": 3.1
-      },
+    "9f30ac01fb4eda644b68100880afd9ec:h2h": {
       "Betclic (FR)": {
-        "Eyüpspor": 3.8,
-        "Kasimpasa SK": 1.87,
-        "Draw": 2.95
-      },
-      "Unibet (FR)": {
-        "Eyüpspor": 4.0,
-        "Kasimpasa SK": 1.8,
-        "Draw": 2.95
-      },
-      "Winamax (FR)": {
-        "Eyüpspor": 4.1,
-        "Kasimpasa SK": 1.76,
-        "Draw": 3.0
-      },
-      "Winamax (DE)": {
-        "Eyüpspor": 4.3,
-        "Kasimpasa SK": 1.82,
-        "Draw": 3.1
-      },
-      "Coolbet": {
-        "Eyüpspor": 5.0,
-        "Kasimpasa SK": 1.91,
-        "Draw": 3.25
-      },
-      "Pinnacle": {
-        "Eyüpspor": 4.64,
-        "Kasimpasa SK": 1.94,
-        "Draw": 3.06
-      },
-      "Betfair": {
-        "Eyüpspor": 5.3,
-        "Kasimpasa SK": 1.89,
-        "Draw": 3.45
-      },
-      "Marathon Bet": {
-        "Eyüpspor": 4.45,
-        "Kasimpasa SK": 1.84,
-        "Draw": 3.24
+        "Abha Club": 90.0,
+        "Neom": 1.0,
+        "Draw": 35.0
       },
       "888sport": {
-        "Eyüpspor": 3.9,
-        "Kasimpasa SK": 1.85,
-        "Draw": 3.1
+        "Abha Club": 151.0,
+        "Neom": 1.0,
+        "Draw": 46.0
       },
-      "Tipico": {
-        "Eyüpspor": 4.7,
-        "Kasimpasa SK": 1.85,
-        "Draw": 3.0
+      "William Hill": {
+        "Abha Club": 151.0,
+        "Neom": 1.0,
+        "Draw": 61.0
       },
-      "Matchbook": {
-        "Eyüpspor": 5.0,
-        "Kasimpasa SK": 1.95,
-        "Draw": 3.35
+      "Betfair": {
+        "Abha Club": 50.0,
+        "Neom": 1.01,
+        "Draw": 50.0
+      }
+    },
+    "6ecdeb45c4d5002ef3c85fa3151bf085:h2h": {
+      "Betfair": {
+        "Accrington Stanley": 1.01,
+        "Rochdale": 270.0,
+        "Draw": 80.0
+      },
+      "Nordic Bet": {
+        "Accrington Stanley": 1.0,
+        "Rochdale": 21.0,
+        "Draw": 21.0
+      },
+      "Betsson": {
+        "Accrington Stanley": 1.0,
+        "Rochdale": 21.0,
+        "Draw": 21.0
       }
     }
   },
@@ -4087,24 +3992,179 @@
       "confidence": 7,
       "alert_type": "value",
       "alerted_at": "2026-10-24T10:50:12.958703+00:00"
+    },
+    {
+      "state_key": "698b49f4f4aa4d8486e987c6e77fb3df:h2h",
+      "event_id": "698b49f4f4aa4d8486e987c6e77fb3df",
+      "sport_key": "soccer",
+      "competition": "League 1",
+      "home_team": "Oxford United",
+      "away_team": "Bradford City",
+      "commence_time": "2026-10-24T13:59:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Bradford City",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 43,
+      "alert_type": "value",
+      "alerted_at": "2026-10-24T15:50:54.355734+00:00"
+    },
+    {
+      "state_key": "698b49f4f4aa4d8486e987c6e77fb3df:h2h",
+      "event_id": "698b49f4f4aa4d8486e987c6e77fb3df",
+      "sport_key": "soccer",
+      "competition": "League 1",
+      "home_team": "Oxford United",
+      "away_team": "Bradford City",
+      "commence_time": "2026-10-24T13:59:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Oxford United",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 35,
+      "alert_type": "value",
+      "alerted_at": "2026-10-24T15:50:54.822964+00:00"
+    },
+    {
+      "state_key": "698b49f4f4aa4d8486e987c6e77fb3df:h2h",
+      "event_id": "698b49f4f4aa4d8486e987c6e77fb3df",
+      "sport_key": "soccer",
+      "competition": "League 1",
+      "home_team": "Oxford United",
+      "away_team": "Bradford City",
+      "commence_time": "2026-10-24T13:59:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Bradford City",
+      "odds_at_alert": 12.0,
+      "stake_pct": 3.0,
+      "confidence": 15,
+      "alert_type": "value",
+      "alerted_at": "2026-10-24T15:50:55.243210+00:00"
+    },
+    {
+      "state_key": "698b49f4f4aa4d8486e987c6e77fb3df:h2h",
+      "event_id": "698b49f4f4aa4d8486e987c6e77fb3df",
+      "sport_key": "soccer",
+      "competition": "League 1",
+      "home_team": "Oxford United",
+      "away_team": "Bradford City",
+      "commence_time": "2026-10-24T13:59:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Oxford United",
+      "odds_at_alert": 14.0,
+      "stake_pct": 5.0,
+      "confidence": 46,
+      "alert_type": "value",
+      "alerted_at": "2026-10-24T15:50:55.649419+00:00"
+    },
+    {
+      "state_key": "698b49f4f4aa4d8486e987c6e77fb3df:h2h",
+      "event_id": "698b49f4f4aa4d8486e987c6e77fb3df",
+      "sport_key": "soccer",
+      "competition": "League 1",
+      "home_team": "Oxford United",
+      "away_team": "Bradford City",
+      "commence_time": "2026-10-24T13:59:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Bradford City",
+      "odds_at_alert": 21.0,
+      "stake_pct": 5.0,
+      "confidence": 101,
+      "alert_type": "value",
+      "alerted_at": "2026-10-24T15:50:56.073273+00:00"
+    },
+    {
+      "state_key": "698b49f4f4aa4d8486e987c6e77fb3df:h2h",
+      "event_id": "698b49f4f4aa4d8486e987c6e77fb3df",
+      "sport_key": "soccer",
+      "competition": "League 1",
+      "home_team": "Oxford United",
+      "away_team": "Bradford City",
+      "commence_time": "2026-10-24T13:59:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Oxford United",
+      "odds_at_alert": 21.0,
+      "stake_pct": 5.0,
+      "confidence": 118,
+      "alert_type": "value",
+      "alerted_at": "2026-10-24T15:50:56.479942+00:00"
+    },
+    {
+      "state_key": "698b49f4f4aa4d8486e987c6e77fb3df:h2h",
+      "event_id": "698b49f4f4aa4d8486e987c6e77fb3df",
+      "sport_key": "soccer",
+      "competition": "League 1",
+      "home_team": "Oxford United",
+      "away_team": "Bradford City",
+      "commence_time": "2026-10-24T13:59:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Bradford City",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 63,
+      "alert_type": "value",
+      "alerted_at": "2026-10-24T15:50:56.897762+00:00"
+    },
+    {
+      "state_key": "698b49f4f4aa4d8486e987c6e77fb3df:h2h",
+      "event_id": "698b49f4f4aa4d8486e987c6e77fb3df",
+      "sport_key": "soccer",
+      "competition": "League 1",
+      "home_team": "Oxford United",
+      "away_team": "Bradford City",
+      "commence_time": "2026-10-24T13:59:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Oxford United",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 56,
+      "alert_type": "value",
+      "alerted_at": "2026-10-24T15:50:57.314447+00:00"
+    },
+    {
+      "state_key": "698b49f4f4aa4d8486e987c6e77fb3df:h2h",
+      "event_id": "698b49f4f4aa4d8486e987c6e77fb3df",
+      "sport_key": "soccer",
+      "competition": "League 1",
+      "home_team": "Oxford United",
+      "away_team": "Bradford City",
+      "commence_time": "2026-10-24T13:59:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Bradford City",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 43,
+      "alert_type": "value",
+      "alerted_at": "2026-10-24T15:50:57.820650+00:00"
+    },
+    {
+      "state_key": "698b49f4f4aa4d8486e987c6e77fb3df:h2h",
+      "event_id": "698b49f4f4aa4d8486e987c6e77fb3df",
+      "sport_key": "soccer",
+      "competition": "League 1",
+      "home_team": "Oxford United",
+      "away_team": "Bradford City",
+      "commence_time": "2026-10-24T13:59:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Oxford United",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 56,
+      "alert_type": "value",
+      "alerted_at": "2026-10-24T15:50:58.244726+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "ab75ba9f53a6c47fe587e78913948d13:h2h|Betfair|Cracovia Kraków",
-    "ab75ba9f53a6c47fe587e78913948d13:h2h|Betfair|Draw",
-    "ab75ba9f53a6c47fe587e78913948d13:h2h|Matchbook|Cracovia Kraków",
-    "ab75ba9f53a6c47fe587e78913948d13:h2h|Matchbook|Draw",
-    "ab75ba9f53a6c47fe587e78913948d13:h2h|Tipico|Cracovia Kraków",
-    "c0057c0d145a594f23f17da92bd6deb6:h2h|LeoVegas (SE)|1. FC Köln",
-    "c0057c0d145a594f23f17da92bd6deb6:h2h|LeoVegas (SE)|Draw",
-    "c0057c0d145a594f23f17da92bd6deb6:h2h|Tipico|1. FC Köln",
-    "c0057c0d145a594f23f17da92bd6deb6:h2h|Tipico|Draw",
-    "c0057c0d145a594f23f17da92bd6deb6:h2h|Unibet (NL)|1. FC Köln",
-    "c0057c0d145a594f23f17da92bd6deb6:h2h|Unibet (NL)|Draw",
-    "c0057c0d145a594f23f17da92bd6deb6:h2h|Unibet (SE)|1. FC Köln",
-    "c0057c0d145a594f23f17da92bd6deb6:h2h|Unibet (SE)|Draw",
-    "dc96970d397d25e8cf9b68ad9eacebc6:h2h|Betfair|Draw",
-    "dc96970d397d25e8cf9b68ad9eacebc6:h2h|Betfair|Eyüpspor"
+    "698b49f4f4aa4d8486e987c6e77fb3df:h2h|888sport|Bradford City",
+    "698b49f4f4aa4d8486e987c6e77fb3df:h2h|888sport|Oxford United",
+    "698b49f4f4aa4d8486e987c6e77fb3df:h2h|Coolbet|Bradford City",
+    "698b49f4f4aa4d8486e987c6e77fb3df:h2h|Coolbet|Oxford United",
+    "698b49f4f4aa4d8486e987c6e77fb3df:h2h|LeoVegas (SE)|Bradford City",
+    "698b49f4f4aa4d8486e987c6e77fb3df:h2h|LeoVegas (SE)|Oxford United",
+    "698b49f4f4aa4d8486e987c6e77fb3df:h2h|Unibet (NL)|Bradford City",
+    "698b49f4f4aa4d8486e987c6e77fb3df:h2h|Unibet (NL)|Oxford United",
+    "698b49f4f4aa4d8486e987c6e77fb3df:h2h|Unibet (SE)|Bradford City",
+    "698b49f4f4aa4d8486e987c6e77fb3df:h2h|Unibet (SE)|Oxford United"
   ]
 }
