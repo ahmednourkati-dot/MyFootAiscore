@@ -1,156 +1,296 @@
 {
   "snapshots": {
-    "42d9cb76081eef7fe999b394fea6afb5:h2h": {
-      "Unibet (FR)": {
-        "AGF Aarhus": 1.01,
-        "Viborg FF": 100.0,
-        "Draw": 6.0
-      },
-      "Betclic (FR)": {
-        "AGF Aarhus": 1.01,
-        "Viborg FF": 100.0,
-        "Draw": 12.0
-      },
-      "Betfair": {
-        "AGF Aarhus": 1.01,
-        "Viborg FF": 34.0,
-        "Draw": 34.0
+    "9b60d2e564e8761e9ec267bd7baf6998:h2h": {
+      "Winamax (FR)": {
+        "Académico de Viseu": 1.24,
+        "Sporting Lisbon": 38.0,
+        "Draw": 4.0
       },
       "Winamax (DE)": {
-        "AGF Aarhus": 1.01,
-        "Viborg FF": 1000.0,
-        "Draw": 21.0
-      },
-      "Winamax (FR)": {
-        "AGF Aarhus": 1.02,
-        "Viborg FF": 1000.0,
-        "Draw": 20.0
-      },
-      "Nordic Bet": {
-        "AGF Aarhus": 1.01,
-        "Viborg FF": 150.0,
-        "Draw": 13.0
-      },
-      "Betsson": {
-        "AGF Aarhus": 1.0,
-        "Viborg FF": 81.0,
-        "Draw": 17.0
-      },
-      "888sport": {
-        "AGF Aarhus": 1.08,
-        "Viborg FF": 71.0,
-        "Draw": 8.0
-      },
-      "Coolbet": {
-        "AGF Aarhus": 1.0,
-        "Viborg FF": 100.0,
-        "Draw": 16.0
-      }
-    },
-    "63af660d4d0d52f8ac7685172ef939c4:h2h": {
-      "Betclic (FR)": {
-        "Juventus": 1.0,
-        "Lecce": 100.0,
-        "Draw": 75.0
-      },
-      "Winamax (FR)": {
-        "Juventus": 1.01,
-        "Lecce": 350.0,
-        "Draw": 42.0
-      },
-      "Winamax (DE)": {
-        "Juventus": 1.01,
-        "Lecce": 350.0,
-        "Draw": 42.0
-      },
-      "888sport": {
-        "Juventus": 1.0,
-        "Lecce": 151.0,
-        "Draw": 61.0
-      },
-      "Nordic Bet": {
-        "Juventus": 1.0,
-        "Lecce": 34.0,
-        "Draw": 29.0
-      },
-      "Betsson": {
-        "Juventus": 1.0,
-        "Lecce": 34.0,
-        "Draw": 29.0
-      },
-      "Betfair": {
-        "Juventus": 1.01,
-        "Lecce": 1000.0,
-        "Draw": 50.0
-      }
-    },
-    "7da4e4e9cc508df1421dc9d4b2618056:h2h": {
-      "Winamax (DE)": {
-        "Aris Thessaloniki": 1.01,
-        "Atromitos Athens": 130.0,
-        "Draw": 28.0
-      },
-      "Nordic Bet": {
-        "Aris Thessaloniki": 1.0,
-        "Atromitos Athens": 51.0,
-        "Draw": 17.0
-      },
-      "Betsson": {
-        "Aris Thessaloniki": 1.0,
-        "Atromitos Athens": 51.0,
-        "Draw": 17.0
-      },
-      "Betclic (FR)": {
-        "Aris Thessaloniki": 1.0,
-        "Atromitos Athens": 40.0,
-        "Draw": 15.0
-      },
-      "Winamax (FR)": {
-        "Aris Thessaloniki": 1.02,
-        "Atromitos Athens": 130.0,
-        "Draw": 29.0
-      },
-      "888sport": {
-        "Aris Thessaloniki": 1.01,
-        "Atromitos Athens": 101.0,
-        "Draw": 29.0
-      },
-      "Coolbet": {
-        "Aris Thessaloniki": 1.0,
-        "Atromitos Athens": 50.0,
-        "Draw": 18.0
+        "Académico de Viseu": 1.24,
+        "Sporting Lisbon": 32.0,
+        "Draw": 3.95
       },
       "Unibet (FR)": {
-        "Aris Thessaloniki": 1.01,
-        "Atromitos Athens": 45.0,
-        "Draw": 7.0
-      },
-      "Betfair": {
-        "Aris Thessaloniki": 1.02,
-        "Atromitos Athens": 11.5,
-        "Draw": 38.0
-      }
-    },
-    "0911f42b66dd1f6544db407bccaeed07:h2h": {
-      "Nordic Bet": {
-        "CD Castellón": 1.0,
-        "Sporting Gijón": 36.0,
-        "Draw": 21.0
-      },
-      "Betsson": {
-        "CD Castellón": 1.0,
-        "Sporting Gijón": 36.0,
-        "Draw": 21.0
+        "Académico de Viseu": 1.22,
+        "Sporting Lisbon": 23.0,
+        "Draw": 3.4
       },
       "Betclic (FR)": {
-        "CD Castellón": 1.0,
-        "Sporting Gijón": 90.0,
-        "Draw": 40.0
+        "Académico de Viseu": 1.31,
+        "Sporting Lisbon": 15.75,
+        "Draw": 3.5
+      },
+      "Coolbet": {
+        "Académico de Viseu": 1.33,
+        "Sporting Lisbon": 35.0,
+        "Draw": 4.0
+      },
+      "Nordic Bet": {
+        "Académico de Viseu": 1.2,
+        "Sporting Lisbon": 36.0,
+        "Draw": 4.1
+      },
+      "Betsson": {
+        "Académico de Viseu": 1.2,
+        "Sporting Lisbon": 36.0,
+        "Draw": 4.1
+      },
+      "888sport": {
+        "Académico de Viseu": 1.29,
+        "Sporting Lisbon": 19.0,
+        "Draw": 4.0
+      },
+      "Marathon Bet": {
+        "Académico de Viseu": 1.15,
+        "Sporting Lisbon": 26.0,
+        "Draw": 5.05
+      },
+      "Tipico": {
+        "Académico de Viseu": 1.27,
+        "Sporting Lisbon": 20.0,
+        "Draw": 4.0
+      },
+      "Pinnacle": {
+        "Académico de Viseu": 1.55,
+        "Sporting Lisbon": 9.78,
+        "Draw": 3.16
+      },
+      "PMU (FR)": {
+        "Académico de Viseu": 1.07,
+        "Sporting Lisbon": 46.0,
+        "Draw": 5.1
+      },
+      "LeoVegas (SE)": {
+        "Académico de Viseu": 1.09,
+        "Sporting Lisbon": 41.0,
+        "Draw": 5.1
+      },
+      "Unibet (SE)": {
+        "Académico de Viseu": 1.14,
+        "Sporting Lisbon": 56.0,
+        "Draw": 5.4
+      },
+      "Unibet (NL)": {
+        "Académico de Viseu": 1.14,
+        "Sporting Lisbon": 56.0,
+        "Draw": 5.4
       },
       "Betfair": {
-        "CD Castellón": 1.01,
-        "Sporting Gijón": 170.0,
-        "Draw": 95.0
+        "Académico de Viseu": 1.39,
+        "Sporting Lisbon": 22.0,
+        "Draw": 4.0
+      }
+    },
+    "fe7e1d3a0c8e54ace77465741970e1dd:h2h": {
+      "888sport": {
+        "Colo Colo": 5.0,
+        "Palestino": 7.0,
+        "Draw": 1.25
+      },
+      "Coolbet": {
+        "Colo Colo": 14.0,
+        "Palestino": 35.0,
+        "Draw": 1.06
+      },
+      "Winamax (DE)": {
+        "Colo Colo": 22.0,
+        "Palestino": 48.0,
+        "Draw": 1.02
+      },
+      "Winamax (FR)": {
+        "Colo Colo": 20.0,
+        "Palestino": 44.0,
+        "Draw": 1.03
+      },
+      "Betfair": {
+        "Colo Colo": 10.5,
+        "Palestino": 10.0,
+        "Draw": 1.07
+      },
+      "Betsson": {
+        "Colo Colo": 12.0,
+        "Palestino": 26.0,
+        "Draw": 1.05
+      },
+      "Nordic Bet": {
+        "Colo Colo": 12.0,
+        "Palestino": 26.0,
+        "Draw": 1.05
+      },
+      "Pinnacle": {
+        "Colo Colo": 7.01,
+        "Palestino": 10.83,
+        "Draw": 1.19
+      },
+      "Tipico": {
+        "Colo Colo": 15.0,
+        "Palestino": 30.0,
+        "Draw": 1.02
+      },
+      "Unibet (SE)": {
+        "Colo Colo": 17.0,
+        "Palestino": 23.0,
+        "Draw": 1.03
+      },
+      "LeoVegas (SE)": {
+        "Colo Colo": 9.5,
+        "Palestino": 23.0,
+        "Draw": 1.01
+      },
+      "Unibet (FR)": {
+        "Colo Colo": 6.5,
+        "Palestino": 16.5,
+        "Draw": 1.04
+      }
+    },
+    "c3b2630a9d2384e21a1c171f49f2517e:h2h": {
+      "Winamax (FR)": {
+        "Racing Club": 6.5,
+        "River Plate": 1.45,
+        "Draw": 3.6
+      },
+      "Winamax (DE)": {
+        "Racing Club": 6.75,
+        "River Plate": 1.46,
+        "Draw": 3.7
+      },
+      "Betclic (FR)": {
+        "Racing Club": 6.5,
+        "River Plate": 1.42,
+        "Draw": 3.5
+      },
+      "Marathon Bet": {
+        "Racing Club": 7.0,
+        "River Plate": 1.47,
+        "Draw": 3.92
+      },
+      "Betfair": {
+        "Racing Club": 8.4,
+        "River Plate": 1.51,
+        "Draw": 4.3
+      },
+      "Betsson": {
+        "Racing Club": 7.2,
+        "River Plate": 1.44,
+        "Draw": 3.65
+      },
+      "Nordic Bet": {
+        "Racing Club": 7.2,
+        "River Plate": 1.44,
+        "Draw": 3.65
+      },
+      "Unibet (SE)": {
+        "Racing Club": 7.5,
+        "River Plate": 1.43,
+        "Draw": 4.0
+      },
+      "LeoVegas (SE)": {
+        "Racing Club": 7.0,
+        "River Plate": 1.36,
+        "Draw": 3.75
+      },
+      "Pinnacle": {
+        "Racing Club": 7.98,
+        "River Plate": 1.49,
+        "Draw": 3.85
+      },
+      "BetOnline.ag": {
+        "Racing Club": 7.67,
+        "River Plate": 1.45,
+        "Draw": 4.6
+      }
+    },
+    "9b9e417e9f0852376d7766dae13ad74c:h2h": {
+      "PMU (FR)": {
+        "Atlas": 1.6,
+        "Puebla": 4.0,
+        "Draw": 3.45
+      },
+      "Unibet (NL)": {
+        "Atlas": 1.7,
+        "Puebla": 4.35,
+        "Draw": 3.75
+      },
+      "LeoVegas (SE)": {
+        "Atlas": 1.64,
+        "Puebla": 4.2,
+        "Draw": 3.6
+      },
+      "Unibet (SE)": {
+        "Atlas": 1.7,
+        "Puebla": 4.35,
+        "Draw": 3.75
+      },
+      "Betclic (FR)": {
+        "Atlas": 1.57,
+        "Puebla": 4.6,
+        "Draw": 3.75
+      },
+      "1xBet": {
+        "Atlas": 1.64,
+        "Puebla": 4.88,
+        "Draw": 3.8
+      },
+      "GTbets": {
+        "Atlas": 1.73,
+        "Puebla": 4.85,
+        "Draw": 3.91
+      },
+      "888sport": {
+        "Atlas": 1.57,
+        "Puebla": 4.6,
+        "Draw": 3.6
+      },
+      "William Hill": {
+        "Atlas": 1.6,
+        "Puebla": 4.6,
+        "Draw": 3.6
+      },
+      "Marathon Bet": {
+        "Atlas": 1.62,
+        "Puebla": 4.9,
+        "Draw": 3.8
+      },
+      "Betfair": {
+        "Atlas": 1.67,
+        "Puebla": 5.5,
+        "Draw": 4.2
+      },
+      "Betsson": {
+        "Atlas": 1.6,
+        "Puebla": 4.9,
+        "Draw": 3.85
+      },
+      "Nordic Bet": {
+        "Atlas": 1.6,
+        "Puebla": 4.9,
+        "Draw": 3.85
+      },
+      "Pinnacle": {
+        "Atlas": 1.66,
+        "Puebla": 5.28,
+        "Draw": 4.08
+      },
+      "Matchbook": {
+        "Atlas": 1.67,
+        "Puebla": 5.5,
+        "Draw": 4.3
+      },
+      "BetOnline.ag": {
+        "Atlas": 1.69,
+        "Puebla": 5.17,
+        "Draw": 4.0
+      },
+      "Tipico": {
+        "Atlas": 1.52,
+        "Puebla": 5.3,
+        "Draw": 4.0
+      },
+      "Coolbet": {
+        "Atlas": 1.68,
+        "Puebla": 4.88,
+        "Draw": 3.95
       }
     }
   },
@@ -4875,8 +5015,825 @@
       "confidence": 60,
       "alert_type": "value",
       "alerted_at": "2026-10-25T16:05:47.511205+00:00"
+    },
+    {
+      "state_key": "9b60d2e564e8761e9ec267bd7baf6998:h2h",
+      "event_id": "9b60d2e564e8761e9ec267bd7baf6998",
+      "sport_key": "soccer",
+      "competition": "Primeira Liga - Portugal",
+      "home_team": "Sporting Lisbon",
+      "away_team": "Académico de Viseu",
+      "commence_time": "2026-10-25T20:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sporting Lisbon",
+      "odds_at_alert": 38.0,
+      "stake_pct": 5.0,
+      "confidence": 265,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T22:30:19.005452+00:00"
+    },
+    {
+      "state_key": "9b60d2e564e8761e9ec267bd7baf6998:h2h",
+      "event_id": "9b60d2e564e8761e9ec267bd7baf6998",
+      "sport_key": "soccer",
+      "competition": "Primeira Liga - Portugal",
+      "home_team": "Sporting Lisbon",
+      "away_team": "Académico de Viseu",
+      "commence_time": "2026-10-25T20:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.0,
+      "stake_pct": 5.0,
+      "confidence": 19,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T22:30:19.379327+00:00"
+    },
+    {
+      "state_key": "9b60d2e564e8761e9ec267bd7baf6998:h2h",
+      "event_id": "9b60d2e564e8761e9ec267bd7baf6998",
+      "sport_key": "soccer",
+      "competition": "Primeira Liga - Portugal",
+      "home_team": "Sporting Lisbon",
+      "away_team": "Académico de Viseu",
+      "commence_time": "2026-10-25T20:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sporting Lisbon",
+      "odds_at_alert": 32.0,
+      "stake_pct": 5.0,
+      "confidence": 208,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T22:30:19.753428+00:00"
+    },
+    {
+      "state_key": "9b60d2e564e8761e9ec267bd7baf6998:h2h",
+      "event_id": "9b60d2e564e8761e9ec267bd7baf6998",
+      "sport_key": "soccer",
+      "competition": "Primeira Liga - Portugal",
+      "home_team": "Sporting Lisbon",
+      "away_team": "Académico de Viseu",
+      "commence_time": "2026-10-25T20:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.95,
+      "stake_pct": 5.0,
+      "confidence": 17,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T22:30:20.152216+00:00"
+    },
+    {
+      "state_key": "9b60d2e564e8761e9ec267bd7baf6998:h2h",
+      "event_id": "9b60d2e564e8761e9ec267bd7baf6998",
+      "sport_key": "soccer",
+      "competition": "Primeira Liga - Portugal",
+      "home_team": "Sporting Lisbon",
+      "away_team": "Académico de Viseu",
+      "commence_time": "2026-10-25T20:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sporting Lisbon",
+      "odds_at_alert": 23.0,
+      "stake_pct": 5.0,
+      "confidence": 121,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T22:30:20.555435+00:00"
+    },
+    {
+      "state_key": "9b60d2e564e8761e9ec267bd7baf6998:h2h",
+      "event_id": "9b60d2e564e8761e9ec267bd7baf6998",
+      "sport_key": "soccer",
+      "competition": "Primeira Liga - Portugal",
+      "home_team": "Sporting Lisbon",
+      "away_team": "Académico de Viseu",
+      "commence_time": "2026-10-25T20:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sporting Lisbon",
+      "odds_at_alert": 15.75,
+      "stake_pct": 5.0,
+      "confidence": 51,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T22:30:20.915628+00:00"
+    },
+    {
+      "state_key": "9b60d2e564e8761e9ec267bd7baf6998:h2h",
+      "event_id": "9b60d2e564e8761e9ec267bd7baf6998",
+      "sport_key": "soccer",
+      "competition": "Primeira Liga - Portugal",
+      "home_team": "Sporting Lisbon",
+      "away_team": "Académico de Viseu",
+      "commence_time": "2026-10-25T20:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sporting Lisbon",
+      "odds_at_alert": 35.0,
+      "stake_pct": 5.0,
+      "confidence": 236,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T22:30:21.282344+00:00"
+    },
+    {
+      "state_key": "9b60d2e564e8761e9ec267bd7baf6998:h2h",
+      "event_id": "9b60d2e564e8761e9ec267bd7baf6998",
+      "sport_key": "soccer",
+      "competition": "Primeira Liga - Portugal",
+      "home_team": "Sporting Lisbon",
+      "away_team": "Académico de Viseu",
+      "commence_time": "2026-10-25T20:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.0,
+      "stake_pct": 5.0,
+      "confidence": 19,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T22:30:21.691220+00:00"
+    },
+    {
+      "state_key": "9b60d2e564e8761e9ec267bd7baf6998:h2h",
+      "event_id": "9b60d2e564e8761e9ec267bd7baf6998",
+      "sport_key": "soccer",
+      "competition": "Primeira Liga - Portugal",
+      "home_team": "Sporting Lisbon",
+      "away_team": "Académico de Viseu",
+      "commence_time": "2026-10-25T20:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sporting Lisbon",
+      "odds_at_alert": 36.0,
+      "stake_pct": 5.0,
+      "confidence": 246,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T22:30:22.075300+00:00"
+    },
+    {
+      "state_key": "9b60d2e564e8761e9ec267bd7baf6998:h2h",
+      "event_id": "9b60d2e564e8761e9ec267bd7baf6998",
+      "sport_key": "soccer",
+      "competition": "Primeira Liga - Portugal",
+      "home_team": "Sporting Lisbon",
+      "away_team": "Académico de Viseu",
+      "commence_time": "2026-10-25T20:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.1,
+      "stake_pct": 5.0,
+      "confidence": 22,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T22:30:22.442074+00:00"
+    },
+    {
+      "state_key": "9b60d2e564e8761e9ec267bd7baf6998:h2h",
+      "event_id": "9b60d2e564e8761e9ec267bd7baf6998",
+      "sport_key": "soccer",
+      "competition": "Primeira Liga - Portugal",
+      "home_team": "Sporting Lisbon",
+      "away_team": "Académico de Viseu",
+      "commence_time": "2026-10-25T20:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sporting Lisbon",
+      "odds_at_alert": 36.0,
+      "stake_pct": 5.0,
+      "confidence": 246,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T22:30:22.831233+00:00"
+    },
+    {
+      "state_key": "9b60d2e564e8761e9ec267bd7baf6998:h2h",
+      "event_id": "9b60d2e564e8761e9ec267bd7baf6998",
+      "sport_key": "soccer",
+      "competition": "Primeira Liga - Portugal",
+      "home_team": "Sporting Lisbon",
+      "away_team": "Académico de Viseu",
+      "commence_time": "2026-10-25T20:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.1,
+      "stake_pct": 5.0,
+      "confidence": 22,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T22:30:23.205630+00:00"
+    },
+    {
+      "state_key": "9b60d2e564e8761e9ec267bd7baf6998:h2h",
+      "event_id": "9b60d2e564e8761e9ec267bd7baf6998",
+      "sport_key": "soccer",
+      "competition": "Primeira Liga - Portugal",
+      "home_team": "Sporting Lisbon",
+      "away_team": "Académico de Viseu",
+      "commence_time": "2026-10-25T20:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sporting Lisbon",
+      "odds_at_alert": 19.0,
+      "stake_pct": 5.0,
+      "confidence": 83,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T22:30:23.576539+00:00"
+    },
+    {
+      "state_key": "9b60d2e564e8761e9ec267bd7baf6998:h2h",
+      "event_id": "9b60d2e564e8761e9ec267bd7baf6998",
+      "sport_key": "soccer",
+      "competition": "Primeira Liga - Portugal",
+      "home_team": "Sporting Lisbon",
+      "away_team": "Académico de Viseu",
+      "commence_time": "2026-10-25T20:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.0,
+      "stake_pct": 5.0,
+      "confidence": 19,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T22:30:23.946655+00:00"
+    },
+    {
+      "state_key": "9b60d2e564e8761e9ec267bd7baf6998:h2h",
+      "event_id": "9b60d2e564e8761e9ec267bd7baf6998",
+      "sport_key": "soccer",
+      "competition": "Primeira Liga - Portugal",
+      "home_team": "Sporting Lisbon",
+      "away_team": "Académico de Viseu",
+      "commence_time": "2026-10-25T20:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sporting Lisbon",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 150,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T22:30:24.319694+00:00"
+    },
+    {
+      "state_key": "9b60d2e564e8761e9ec267bd7baf6998:h2h",
+      "event_id": "9b60d2e564e8761e9ec267bd7baf6998",
+      "sport_key": "soccer",
+      "competition": "Primeira Liga - Portugal",
+      "home_team": "Sporting Lisbon",
+      "away_team": "Académico de Viseu",
+      "commence_time": "2026-10-25T20:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.05,
+      "stake_pct": 5.0,
+      "confidence": 50,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T22:30:24.701403+00:00"
+    },
+    {
+      "state_key": "9b60d2e564e8761e9ec267bd7baf6998:h2h",
+      "event_id": "9b60d2e564e8761e9ec267bd7baf6998",
+      "sport_key": "soccer",
+      "competition": "Primeira Liga - Portugal",
+      "home_team": "Sporting Lisbon",
+      "away_team": "Académico de Viseu",
+      "commence_time": "2026-10-25T20:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sporting Lisbon",
+      "odds_at_alert": 20.0,
+      "stake_pct": 5.0,
+      "confidence": 92,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T22:30:25.086304+00:00"
+    },
+    {
+      "state_key": "9b60d2e564e8761e9ec267bd7baf6998:h2h",
+      "event_id": "9b60d2e564e8761e9ec267bd7baf6998",
+      "sport_key": "soccer",
+      "competition": "Primeira Liga - Portugal",
+      "home_team": "Sporting Lisbon",
+      "away_team": "Académico de Viseu",
+      "commence_time": "2026-10-25T20:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.0,
+      "stake_pct": 5.0,
+      "confidence": 19,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T22:30:25.510201+00:00"
+    },
+    {
+      "state_key": "9b60d2e564e8761e9ec267bd7baf6998:h2h",
+      "event_id": "9b60d2e564e8761e9ec267bd7baf6998",
+      "sport_key": "soccer",
+      "competition": "Primeira Liga - Portugal",
+      "home_team": "Sporting Lisbon",
+      "away_team": "Académico de Viseu",
+      "commence_time": "2026-10-25T20:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sporting Lisbon",
+      "odds_at_alert": 46.0,
+      "stake_pct": 5.0,
+      "confidence": 342,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T22:30:25.882004+00:00"
+    },
+    {
+      "state_key": "9b60d2e564e8761e9ec267bd7baf6998:h2h",
+      "event_id": "9b60d2e564e8761e9ec267bd7baf6998",
+      "sport_key": "soccer",
+      "competition": "Primeira Liga - Portugal",
+      "home_team": "Sporting Lisbon",
+      "away_team": "Académico de Viseu",
+      "commence_time": "2026-10-25T20:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.1,
+      "stake_pct": 5.0,
+      "confidence": 52,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T22:30:26.266661+00:00"
+    },
+    {
+      "state_key": "9b60d2e564e8761e9ec267bd7baf6998:h2h",
+      "event_id": "9b60d2e564e8761e9ec267bd7baf6998",
+      "sport_key": "soccer",
+      "competition": "Primeira Liga - Portugal",
+      "home_team": "Sporting Lisbon",
+      "away_team": "Académico de Viseu",
+      "commence_time": "2026-10-25T20:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sporting Lisbon",
+      "odds_at_alert": 41.0,
+      "stake_pct": 5.0,
+      "confidence": 294,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T22:30:26.669272+00:00"
+    },
+    {
+      "state_key": "9b60d2e564e8761e9ec267bd7baf6998:h2h",
+      "event_id": "9b60d2e564e8761e9ec267bd7baf6998",
+      "sport_key": "soccer",
+      "competition": "Primeira Liga - Portugal",
+      "home_team": "Sporting Lisbon",
+      "away_team": "Académico de Viseu",
+      "commence_time": "2026-10-25T20:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.1,
+      "stake_pct": 5.0,
+      "confidence": 52,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T22:30:27.041591+00:00"
+    },
+    {
+      "state_key": "9b60d2e564e8761e9ec267bd7baf6998:h2h",
+      "event_id": "9b60d2e564e8761e9ec267bd7baf6998",
+      "sport_key": "soccer",
+      "competition": "Primeira Liga - Portugal",
+      "home_team": "Sporting Lisbon",
+      "away_team": "Académico de Viseu",
+      "commence_time": "2026-10-25T20:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sporting Lisbon",
+      "odds_at_alert": 56.0,
+      "stake_pct": 5.0,
+      "confidence": 438,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T22:30:27.435902+00:00"
+    },
+    {
+      "state_key": "9b60d2e564e8761e9ec267bd7baf6998:h2h",
+      "event_id": "9b60d2e564e8761e9ec267bd7baf6998",
+      "sport_key": "soccer",
+      "competition": "Primeira Liga - Portugal",
+      "home_team": "Sporting Lisbon",
+      "away_team": "Académico de Viseu",
+      "commence_time": "2026-10-25T20:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.4,
+      "stake_pct": 5.0,
+      "confidence": 61,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T22:30:27.799899+00:00"
+    },
+    {
+      "state_key": "9b60d2e564e8761e9ec267bd7baf6998:h2h",
+      "event_id": "9b60d2e564e8761e9ec267bd7baf6998",
+      "sport_key": "soccer",
+      "competition": "Primeira Liga - Portugal",
+      "home_team": "Sporting Lisbon",
+      "away_team": "Académico de Viseu",
+      "commence_time": "2026-10-25T20:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sporting Lisbon",
+      "odds_at_alert": 56.0,
+      "stake_pct": 5.0,
+      "confidence": 438,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T22:30:28.187743+00:00"
+    },
+    {
+      "state_key": "9b60d2e564e8761e9ec267bd7baf6998:h2h",
+      "event_id": "9b60d2e564e8761e9ec267bd7baf6998",
+      "sport_key": "soccer",
+      "competition": "Primeira Liga - Portugal",
+      "home_team": "Sporting Lisbon",
+      "away_team": "Académico de Viseu",
+      "commence_time": "2026-10-25T20:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.4,
+      "stake_pct": 5.0,
+      "confidence": 61,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T22:30:28.556712+00:00"
+    },
+    {
+      "state_key": "9b60d2e564e8761e9ec267bd7baf6998:h2h",
+      "event_id": "9b60d2e564e8761e9ec267bd7baf6998",
+      "sport_key": "soccer",
+      "competition": "Primeira Liga - Portugal",
+      "home_team": "Sporting Lisbon",
+      "away_team": "Académico de Viseu",
+      "commence_time": "2026-10-25T20:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sporting Lisbon",
+      "odds_at_alert": 22.0,
+      "stake_pct": 5.0,
+      "confidence": 111,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T22:30:28.944024+00:00"
+    },
+    {
+      "state_key": "9b60d2e564e8761e9ec267bd7baf6998:h2h",
+      "event_id": "9b60d2e564e8761e9ec267bd7baf6998",
+      "sport_key": "soccer",
+      "competition": "Primeira Liga - Portugal",
+      "home_team": "Sporting Lisbon",
+      "away_team": "Académico de Viseu",
+      "commence_time": "2026-10-25T20:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.0,
+      "stake_pct": 5.0,
+      "confidence": 19,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T22:30:29.327027+00:00"
+    },
+    {
+      "state_key": "fe7e1d3a0c8e54ace77465741970e1dd:h2h",
+      "event_id": "fe7e1d3a0c8e54ace77465741970e1dd",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Palestino",
+      "away_team": "Colo Colo",
+      "commence_time": "2026-10-25T20:32:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Colo Colo",
+      "odds_at_alert": 14.0,
+      "stake_pct": 5.0,
+      "confidence": 86,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T22:30:29.701836+00:00"
+    },
+    {
+      "state_key": "fe7e1d3a0c8e54ace77465741970e1dd:h2h",
+      "event_id": "fe7e1d3a0c8e54ace77465741970e1dd",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Palestino",
+      "away_team": "Colo Colo",
+      "commence_time": "2026-10-25T20:32:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Palestino",
+      "odds_at_alert": 35.0,
+      "stake_pct": 5.0,
+      "confidence": 201,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T22:30:30.086563+00:00"
+    },
+    {
+      "state_key": "fe7e1d3a0c8e54ace77465741970e1dd:h2h",
+      "event_id": "fe7e1d3a0c8e54ace77465741970e1dd",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Palestino",
+      "away_team": "Colo Colo",
+      "commence_time": "2026-10-25T20:32:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Colo Colo",
+      "odds_at_alert": 22.0,
+      "stake_pct": 5.0,
+      "confidence": 192,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T22:30:30.472771+00:00"
+    },
+    {
+      "state_key": "fe7e1d3a0c8e54ace77465741970e1dd:h2h",
+      "event_id": "fe7e1d3a0c8e54ace77465741970e1dd",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Palestino",
+      "away_team": "Colo Colo",
+      "commence_time": "2026-10-25T20:32:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Palestino",
+      "odds_at_alert": 48.0,
+      "stake_pct": 5.0,
+      "confidence": 312,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T22:30:30.835191+00:00"
+    },
+    {
+      "state_key": "fe7e1d3a0c8e54ace77465741970e1dd:h2h",
+      "event_id": "fe7e1d3a0c8e54ace77465741970e1dd",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Palestino",
+      "away_team": "Colo Colo",
+      "commence_time": "2026-10-25T20:32:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Colo Colo",
+      "odds_at_alert": 20.0,
+      "stake_pct": 5.0,
+      "confidence": 165,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T22:30:31.219146+00:00"
+    },
+    {
+      "state_key": "fe7e1d3a0c8e54ace77465741970e1dd:h2h",
+      "event_id": "fe7e1d3a0c8e54ace77465741970e1dd",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Palestino",
+      "away_team": "Colo Colo",
+      "commence_time": "2026-10-25T20:32:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Palestino",
+      "odds_at_alert": 44.0,
+      "stake_pct": 5.0,
+      "confidence": 278,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T22:30:31.596145+00:00"
+    },
+    {
+      "state_key": "fe7e1d3a0c8e54ace77465741970e1dd:h2h",
+      "event_id": "fe7e1d3a0c8e54ace77465741970e1dd",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Palestino",
+      "away_team": "Colo Colo",
+      "commence_time": "2026-10-25T20:32:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Colo Colo",
+      "odds_at_alert": 10.5,
+      "stake_pct": 5.0,
+      "confidence": 39,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T22:30:31.973954+00:00"
+    },
+    {
+      "state_key": "fe7e1d3a0c8e54ace77465741970e1dd:h2h",
+      "event_id": "fe7e1d3a0c8e54ace77465741970e1dd",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Palestino",
+      "away_team": "Colo Colo",
+      "commence_time": "2026-10-25T20:32:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Colo Colo",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 59,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T22:30:32.413979+00:00"
+    },
+    {
+      "state_key": "fe7e1d3a0c8e54ace77465741970e1dd:h2h",
+      "event_id": "fe7e1d3a0c8e54ace77465741970e1dd",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Palestino",
+      "away_team": "Colo Colo",
+      "commence_time": "2026-10-25T20:32:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Palestino",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 123,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T22:30:32.834914+00:00"
+    },
+    {
+      "state_key": "fe7e1d3a0c8e54ace77465741970e1dd:h2h",
+      "event_id": "fe7e1d3a0c8e54ace77465741970e1dd",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Palestino",
+      "away_team": "Colo Colo",
+      "commence_time": "2026-10-25T20:32:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Colo Colo",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 59,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T22:30:33.265812+00:00"
+    },
+    {
+      "state_key": "fe7e1d3a0c8e54ace77465741970e1dd:h2h",
+      "event_id": "fe7e1d3a0c8e54ace77465741970e1dd",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Palestino",
+      "away_team": "Colo Colo",
+      "commence_time": "2026-10-25T20:32:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Palestino",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 123,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T22:30:33.693643+00:00"
+    },
+    {
+      "state_key": "fe7e1d3a0c8e54ace77465741970e1dd:h2h",
+      "event_id": "fe7e1d3a0c8e54ace77465741970e1dd",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Palestino",
+      "away_team": "Colo Colo",
+      "commence_time": "2026-10-25T20:32:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Colo Colo",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 99,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T22:30:34.085132+00:00"
+    },
+    {
+      "state_key": "fe7e1d3a0c8e54ace77465741970e1dd:h2h",
+      "event_id": "fe7e1d3a0c8e54ace77465741970e1dd",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Palestino",
+      "away_team": "Colo Colo",
+      "commence_time": "2026-10-25T20:32:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Palestino",
+      "odds_at_alert": 30.0,
+      "stake_pct": 5.0,
+      "confidence": 158,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T22:30:34.456868+00:00"
+    },
+    {
+      "state_key": "fe7e1d3a0c8e54ace77465741970e1dd:h2h",
+      "event_id": "fe7e1d3a0c8e54ace77465741970e1dd",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Palestino",
+      "away_team": "Colo Colo",
+      "commence_time": "2026-10-25T20:32:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Colo Colo",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 126,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T22:30:34.855636+00:00"
+    },
+    {
+      "state_key": "fe7e1d3a0c8e54ace77465741970e1dd:h2h",
+      "event_id": "fe7e1d3a0c8e54ace77465741970e1dd",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Palestino",
+      "away_team": "Colo Colo",
+      "commence_time": "2026-10-25T20:32:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Palestino",
+      "odds_at_alert": 23.0,
+      "stake_pct": 5.0,
+      "confidence": 97,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T22:30:35.235261+00:00"
+    },
+    {
+      "state_key": "fe7e1d3a0c8e54ace77465741970e1dd:h2h",
+      "event_id": "fe7e1d3a0c8e54ace77465741970e1dd",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Palestino",
+      "away_team": "Colo Colo",
+      "commence_time": "2026-10-25T20:32:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Colo Colo",
+      "odds_at_alert": 9.5,
+      "stake_pct": 5.0,
+      "confidence": 26,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T22:30:35.596744+00:00"
+    },
+    {
+      "state_key": "fe7e1d3a0c8e54ace77465741970e1dd:h2h",
+      "event_id": "fe7e1d3a0c8e54ace77465741970e1dd",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Palestino",
+      "away_team": "Colo Colo",
+      "commence_time": "2026-10-25T20:32:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Palestino",
+      "odds_at_alert": 23.0,
+      "stake_pct": 5.0,
+      "confidence": 97,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T22:30:35.992597+00:00"
+    },
+    {
+      "state_key": "fe7e1d3a0c8e54ace77465741970e1dd:h2h",
+      "event_id": "fe7e1d3a0c8e54ace77465741970e1dd",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Palestino",
+      "away_team": "Colo Colo",
+      "commence_time": "2026-10-25T20:32:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Palestino",
+      "odds_at_alert": 16.5,
+      "stake_pct": 5.0,
+      "confidence": 42,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T22:30:36.364096+00:00"
+    },
+    {
+      "state_key": "c3b2630a9d2384e21a1c171f49f2517e:h2h",
+      "event_id": "c3b2630a9d2384e21a1c171f49f2517e",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "River Plate",
+      "away_team": "Racing Club",
+      "commence_time": "2026-10-25T22:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.3,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T22:30:36.747709+00:00"
+    },
+    {
+      "state_key": "c3b2630a9d2384e21a1c171f49f2517e:h2h",
+      "event_id": "c3b2630a9d2384e21a1c171f49f2517e",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "River Plate",
+      "away_team": "Racing Club",
+      "commence_time": "2026-10-25T22:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.6,
+      "stake_pct": 3.0,
+      "confidence": 13,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T22:30:37.119649+00:00"
     }
   ],
   "results_history": [],
-  "value_alerted": []
+  "value_alerted": [
+    "9b60d2e564e8761e9ec267bd7baf6998:h2h|888sport|Draw",
+    "9b60d2e564e8761e9ec267bd7baf6998:h2h|888sport|Sporting Lisbon",
+    "9b60d2e564e8761e9ec267bd7baf6998:h2h|Betclic (FR)|Sporting Lisbon",
+    "9b60d2e564e8761e9ec267bd7baf6998:h2h|Betfair|Draw",
+    "9b60d2e564e8761e9ec267bd7baf6998:h2h|Betfair|Sporting Lisbon",
+    "9b60d2e564e8761e9ec267bd7baf6998:h2h|Betsson|Draw",
+    "9b60d2e564e8761e9ec267bd7baf6998:h2h|Betsson|Sporting Lisbon",
+    "9b60d2e564e8761e9ec267bd7baf6998:h2h|Coolbet|Draw",
+    "9b60d2e564e8761e9ec267bd7baf6998:h2h|Coolbet|Sporting Lisbon",
+    "9b60d2e564e8761e9ec267bd7baf6998:h2h|LeoVegas (SE)|Draw",
+    "9b60d2e564e8761e9ec267bd7baf6998:h2h|LeoVegas (SE)|Sporting Lisbon",
+    "9b60d2e564e8761e9ec267bd7baf6998:h2h|Marathon Bet|Draw",
+    "9b60d2e564e8761e9ec267bd7baf6998:h2h|Marathon Bet|Sporting Lisbon",
+    "9b60d2e564e8761e9ec267bd7baf6998:h2h|Nordic Bet|Draw",
+    "9b60d2e564e8761e9ec267bd7baf6998:h2h|Nordic Bet|Sporting Lisbon",
+    "9b60d2e564e8761e9ec267bd7baf6998:h2h|PMU (FR)|Draw",
+    "9b60d2e564e8761e9ec267bd7baf6998:h2h|PMU (FR)|Sporting Lisbon",
+    "9b60d2e564e8761e9ec267bd7baf6998:h2h|Tipico|Draw",
+    "9b60d2e564e8761e9ec267bd7baf6998:h2h|Tipico|Sporting Lisbon",
+    "9b60d2e564e8761e9ec267bd7baf6998:h2h|Unibet (FR)|Sporting Lisbon",
+    "9b60d2e564e8761e9ec267bd7baf6998:h2h|Unibet (NL)|Draw",
+    "9b60d2e564e8761e9ec267bd7baf6998:h2h|Unibet (NL)|Sporting Lisbon",
+    "9b60d2e564e8761e9ec267bd7baf6998:h2h|Unibet (SE)|Draw",
+    "9b60d2e564e8761e9ec267bd7baf6998:h2h|Unibet (SE)|Sporting Lisbon",
+    "9b60d2e564e8761e9ec267bd7baf6998:h2h|Winamax (DE)|Draw",
+    "9b60d2e564e8761e9ec267bd7baf6998:h2h|Winamax (DE)|Sporting Lisbon",
+    "9b60d2e564e8761e9ec267bd7baf6998:h2h|Winamax (FR)|Draw",
+    "9b60d2e564e8761e9ec267bd7baf6998:h2h|Winamax (FR)|Sporting Lisbon",
+    "c3b2630a9d2384e21a1c171f49f2517e:h2h|BetOnline.ag|Draw",
+    "c3b2630a9d2384e21a1c171f49f2517e:h2h|Betfair|Draw",
+    "fe7e1d3a0c8e54ace77465741970e1dd:h2h|Betfair|Colo Colo",
+    "fe7e1d3a0c8e54ace77465741970e1dd:h2h|Betsson|Colo Colo",
+    "fe7e1d3a0c8e54ace77465741970e1dd:h2h|Betsson|Palestino",
+    "fe7e1d3a0c8e54ace77465741970e1dd:h2h|Coolbet|Colo Colo",
+    "fe7e1d3a0c8e54ace77465741970e1dd:h2h|Coolbet|Palestino",
+    "fe7e1d3a0c8e54ace77465741970e1dd:h2h|LeoVegas (SE)|Colo Colo",
+    "fe7e1d3a0c8e54ace77465741970e1dd:h2h|LeoVegas (SE)|Palestino",
+    "fe7e1d3a0c8e54ace77465741970e1dd:h2h|Nordic Bet|Colo Colo",
+    "fe7e1d3a0c8e54ace77465741970e1dd:h2h|Nordic Bet|Palestino",
+    "fe7e1d3a0c8e54ace77465741970e1dd:h2h|Tipico|Colo Colo",
+    "fe7e1d3a0c8e54ace77465741970e1dd:h2h|Tipico|Palestino",
+    "fe7e1d3a0c8e54ace77465741970e1dd:h2h|Unibet (FR)|Palestino",
+    "fe7e1d3a0c8e54ace77465741970e1dd:h2h|Unibet (SE)|Colo Colo",
+    "fe7e1d3a0c8e54ace77465741970e1dd:h2h|Unibet (SE)|Palestino",
+    "fe7e1d3a0c8e54ace77465741970e1dd:h2h|Winamax (DE)|Colo Colo",
+    "fe7e1d3a0c8e54ace77465741970e1dd:h2h|Winamax (DE)|Palestino",
+    "fe7e1d3a0c8e54ace77465741970e1dd:h2h|Winamax (FR)|Colo Colo",
+    "fe7e1d3a0c8e54ace77465741970e1dd:h2h|Winamax (FR)|Palestino"
+  ]
 }
