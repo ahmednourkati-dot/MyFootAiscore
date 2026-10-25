@@ -1,351 +1,210 @@
 {
   "snapshots": {
-    "da3753d6380deada02ed04ab49cb230f:h2h": {
-      "Pinnacle": {
-        "FK Rostov": 2.29,
-        "Lokomotiv Moscow": 3.31,
-        "Draw": 3.12
-      },
-      "Marathon Bet": {
-        "FK Rostov": 1.12,
-        "Lokomotiv Moscow": 23.0,
-        "Draw": 8.5
-      }
-    },
-    "f168373343a58c07d02f40538d04b404:h2h": {
-      "Winamax (DE)": {
-        "Excelsior": 2.35,
-        "Fortuna Sittard": 2.55,
-        "Draw": 3.4
-      },
+    "c177a3c900d7febf9870ca8de90a9e35:h2h": {
       "Winamax (FR)": {
-        "Excelsior": 2.3,
-        "Fortuna Sittard": 2.45,
-        "Draw": 3.3
-      },
-      "888sport": {
-        "Excelsior": 2.5,
-        "Fortuna Sittard": 2.62,
-        "Draw": 3.25
-      },
-      "Unibet (FR)": {
-        "Excelsior": 2.3,
-        "Fortuna Sittard": 2.5,
-        "Draw": 3.05
-      },
-      "William Hill": {
-        "Excelsior": 2.5,
-        "Fortuna Sittard": 2.62,
-        "Draw": 3.25
-      },
-      "Coolbet": {
-        "Excelsior": 2.5,
-        "Fortuna Sittard": 2.7,
-        "Draw": 3.6
-      },
-      "Betclic (FR)": {
-        "Excelsior": 2.32,
-        "Fortuna Sittard": 2.58,
-        "Draw": 3.32
-      },
-      "1xBet": {
-        "Excelsior": 2.61,
-        "Fortuna Sittard": 2.71,
-        "Draw": 3.46
-      },
-      "Marathon Bet": {
-        "Excelsior": 2.46,
-        "Fortuna Sittard": 2.68,
-        "Draw": 3.38
-      },
-      "Betfair": {
-        "Excelsior": 2.66,
-        "Fortuna Sittard": 2.88,
-        "Draw": 3.5
-      },
-      "Betsson": {
-        "Excelsior": 2.48,
-        "Fortuna Sittard": 2.73,
-        "Draw": 3.34
-      },
-      "Nordic Bet": {
-        "Excelsior": 2.5,
-        "Fortuna Sittard": 2.75,
-        "Draw": 3.4
-      },
-      "LeoVegas (SE)": {
-        "Excelsior": 2.48,
-        "Fortuna Sittard": 2.45,
-        "Draw": 3.25
-      },
-      "Unibet (NL)": {
-        "Excelsior": 2.7,
-        "Fortuna Sittard": 2.65,
-        "Draw": 3.6
-      },
-      "Unibet (SE)": {
-        "Excelsior": 2.6,
-        "Fortuna Sittard": 2.55,
-        "Draw": 3.4
-      },
-      "PMU (FR)": {
-        "Excelsior": 2.45,
-        "Fortuna Sittard": 2.43,
-        "Draw": 3.2
-      },
-      "Codere (IT)": {
-        "Excelsior": 2.55,
-        "Fortuna Sittard": 2.65,
-        "Draw": 3.45
-      },
-      "Tipico": {
-        "Excelsior": 2.5,
-        "Fortuna Sittard": 2.8,
-        "Draw": 3.2
-      },
-      "Pinnacle": {
-        "Excelsior": 2.59,
-        "Fortuna Sittard": 2.75,
-        "Draw": 3.51
-      },
-      "BetOnline.ag": {
-        "Excelsior": 2.56,
-        "Fortuna Sittard": 2.73,
-        "Draw": 3.41
-      },
-      "BetAnything": {
-        "Excelsior": 2.56,
-        "Fortuna Sittard": 2.73,
-        "Draw": 3.41
-      },
-      "Matchbook": {
-        "Excelsior": 2.66,
-        "Fortuna Sittard": 2.86,
-        "Draw": 3.5
-      }
-    },
-    "081acf0f093e5c83d3b272bf80e8cd4f:h2h": {
-      "PMU (FR)": {
-        "Wieczysta Kraków": 2.1,
-        "Śląsk Wrocław": 2.8,
-        "Draw": 3.4
-      },
-      "Unibet (NL)": {
-        "Wieczysta Kraków": 2.12,
-        "Śląsk Wrocław": 2.88,
-        "Draw": 3.45
-      },
-      "LeoVegas (SE)": {
-        "Wieczysta Kraków": 2.1,
-        "Śląsk Wrocław": 2.8,
-        "Draw": 3.4
-      },
-      "Unibet (SE)": {
-        "Wieczysta Kraków": 2.23,
-        "Śląsk Wrocław": 2.95,
-        "Draw": 3.6
-      },
-      "Betsson": {
-        "Wieczysta Kraków": 2.15,
-        "Śląsk Wrocław": 2.9,
-        "Draw": 3.55
-      },
-      "Betclic (FR)": {
-        "Wieczysta Kraków": 2.03,
-        "Śląsk Wrocław": 2.78,
-        "Draw": 3.47
-      },
-      "Unibet (FR)": {
-        "Wieczysta Kraków": 1.94,
-        "Śląsk Wrocław": 2.8,
-        "Draw": 3.5
-      },
-      "Nordic Bet": {
-        "Wieczysta Kraków": 2.15,
-        "Śląsk Wrocław": 2.9,
-        "Draw": 3.55
+        "AS Monaco": 13.0,
+        "Lille": 50.0,
+        "Draw": 1.05
       },
       "Winamax (DE)": {
-        "Wieczysta Kraków": 2.15,
-        "Śląsk Wrocław": 2.7,
-        "Draw": 3.65
-      },
-      "Winamax (FR)": {
-        "Wieczysta Kraków": 2.1,
-        "Śląsk Wrocław": 2.6,
-        "Draw": 3.55
-      },
-      "Coolbet": {
-        "Wieczysta Kraków": 2.1,
-        "Śląsk Wrocław": 3.0,
-        "Draw": 3.8
-      },
-      "Marathon Bet": {
-        "Wieczysta Kraków": 2.08,
-        "Śląsk Wrocław": 2.81,
-        "Draw": 3.68
-      },
-      "Pinnacle": {
-        "Wieczysta Kraków": 2.19,
-        "Śląsk Wrocław": 3.11,
-        "Draw": 3.83
-      },
-      "1xBet": {
-        "Wieczysta Kraków": 2.23,
-        "Śląsk Wrocław": 2.98,
-        "Draw": 3.73
+        "AS Monaco": 14.0,
+        "Lille": 50.0,
+        "Draw": 1.05
       },
       "888sport": {
-        "Wieczysta Kraków": 2.15,
-        "Śląsk Wrocław": 2.9,
-        "Draw": 3.3
-      },
-      "Tipico": {
-        "Wieczysta Kraków": 2.1,
-        "Śląsk Wrocław": 3.0,
-        "Draw": 3.4
-      },
-      "Codere (IT)": {
-        "Wieczysta Kraków": 2.14,
-        "Śląsk Wrocław": 2.9,
-        "Draw": 3.6
-      },
-      "BetOnline.ag": {
-        "Wieczysta Kraków": 2.18,
-        "Śląsk Wrocław": 3.0,
-        "Draw": 3.7
-      },
-      "Betfair": {
-        "Wieczysta Kraków": 2.22,
-        "Śląsk Wrocław": 3.15,
-        "Draw": 4.1
-      },
-      "Matchbook": {
-        "Wieczysta Kraków": 2.18,
-        "Śląsk Wrocław": 3.25,
-        "Draw": 4.1
-      }
-    },
-    "c9b6c7048d8dc33dae618f67f462f67a:h2h": {
-      "Pinnacle": {
-        "Fiorentina": 7.75,
-        "Inter Milan": 1.38,
-        "Draw": 5.6
-      },
-      "Winamax (DE)": {
-        "Fiorentina": 7.25,
-        "Inter Milan": 1.33,
-        "Draw": 5.7
-      },
-      "Winamax (FR)": {
-        "Fiorentina": 6.75,
-        "Inter Milan": 1.3,
-        "Draw": 5.3
+        "AS Monaco": 7.0,
+        "Lille": 23.0,
+        "Draw": 1.12
       },
       "Unibet (FR)": {
-        "Fiorentina": 6.0,
-        "Inter Milan": 1.33,
-        "Draw": 5.0
-      },
-      "Betclic (FR)": {
-        "Fiorentina": 7.0,
-        "Inter Milan": 1.29,
-        "Draw": 5.5
-      },
-      "1xBet": {
-        "Fiorentina": 7.22,
-        "Inter Milan": 1.43,
-        "Draw": 5.62
+        "AS Monaco": 10.0,
+        "Lille": 35.0,
+        "Draw": 1.03
       },
       "Tipico": {
-        "Fiorentina": 7.5,
-        "Inter Milan": 1.33,
-        "Draw": 5.7
+        "AS Monaco": 7.5,
+        "Lille": 35.0,
+        "Draw": 1.08
       },
-      "Marathon Bet": {
-        "Fiorentina": 7.0,
-        "Inter Milan": 1.39,
-        "Draw": 5.45
-      },
-      "888sport": {
-        "Fiorentina": 7.0,
-        "Inter Milan": 1.33,
-        "Draw": 5.0
-      },
-      "William Hill": {
-        "Fiorentina": 7.0,
-        "Inter Milan": 1.35,
-        "Draw": 5.0
-      },
-      "PMU (FR)": {
-        "Fiorentina": 7.5,
-        "Inter Milan": 1.3,
-        "Draw": 5.0
-      },
-      "Unibet (NL)": {
-        "Fiorentina": 8.0,
-        "Inter Milan": 1.34,
-        "Draw": 5.5
-      },
-      "Unibet (SE)": {
-        "Fiorentina": 8.5,
-        "Inter Milan": 1.36,
-        "Draw": 5.75
-      },
-      "LeoVegas (SE)": {
-        "Fiorentina": 7.5,
-        "Inter Milan": 1.32,
-        "Draw": 5.2
-      },
-      "Nordic Bet": {
-        "Fiorentina": 6.9,
-        "Inter Milan": 1.37,
-        "Draw": 5.35
-      },
-      "Betsson": {
-        "Fiorentina": 7.3,
-        "Inter Milan": 1.36,
-        "Draw": 5.55
-      },
-      "Codere (IT)": {
-        "Fiorentina": 6.6,
-        "Inter Milan": 1.4,
-        "Draw": 5.4
-      },
-      "Everygame": {
-        "Fiorentina": 7.25,
-        "Inter Milan": 1.36,
-        "Draw": 5.5
-      },
-      "Matchbook": {
-        "Fiorentina": 8.2,
-        "Inter Milan": 1.39,
-        "Draw": 6.0
+      "Betclic (FR)": {
+        "AS Monaco": 10.0,
+        "Lille": 26.0,
+        "Draw": 1.03
       },
       "Betfair": {
-        "Fiorentina": 8.4,
-        "Inter Milan": 1.39,
-        "Draw": 5.9
+        "AS Monaco": 110.0,
+        "Lille": 110.0
       },
-      "GTbets": {
-        "Fiorentina": 7.04,
-        "Inter Milan": 1.36,
-        "Draw": 5.59
+      "Pinnacle": {
+        "AS Monaco": 4.12,
+        "Lille": 35.93,
+        "Draw": 1.27
       },
-      "BetOnline.ag": {
-        "Fiorentina": 8.0,
-        "Inter Milan": 1.37,
-        "Draw": 5.55
+      "LeoVegas (SE)": {
+        "AS Monaco": 7.0,
+        "Lille": 41.0,
+        "Draw": 1.08
+      },
+      "PMU (FR)": {
+        "AS Monaco": 7.5,
+        "Lille": 41.0,
+        "Draw": 1.03
+      },
+      "Unibet (NL)": {
+        "AS Monaco": 8.0,
+        "Lille": 51.0,
+        "Draw": 1.09
+      },
+      "Unibet (SE)": {
+        "AS Monaco": 7.5,
+        "Lille": 51.0,
+        "Draw": 1.1
       },
       "Coolbet": {
-        "Fiorentina": 7.5,
-        "Inter Milan": 1.39,
-        "Draw": 5.6
+        "AS Monaco": 12.0,
+        "Lille": 66.0,
+        "Draw": 1.06
       },
-      "BetAnything": {
-        "Fiorentina": 8.0,
-        "Inter Milan": 1.37,
-        "Draw": 5.55
+      "Nordic Bet": {
+        "AS Monaco": 9.1,
+        "Lille": 39.0,
+        "Draw": 1.05
+      },
+      "Betsson": {
+        "AS Monaco": 13.0,
+        "Lille": 41.0,
+        "Draw": 1.04
+      }
+    },
+    "63aa6e3f679ee4c68de5b4bd8d3361bb:h2h": {
+      "Pinnacle": {
+        "Atalanta BC": 1.27,
+        "Frosinone": 20.53,
+        "Draw": 4.75
+      },
+      "Winamax (DE)": {
+        "Atalanta BC": 24.0,
+        "Frosinone": 27.0,
+        "Draw": 1.04
+      },
+      "Winamax (FR)": {
+        "Atalanta BC": 16.0,
+        "Frosinone": 18.0,
+        "Draw": 1.07
+      },
+      "Unibet (FR)": {
+        "Atalanta BC": 11.0,
+        "Frosinone": 14.5,
+        "Draw": 1.02
+      },
+      "Betclic (FR)": {
+        "Atalanta BC": 9.0,
+        "Frosinone": 10.75,
+        "Draw": 1.09
+      },
+      "Tipico": {
+        "Atalanta BC": 13.0,
+        "Frosinone": 20.0,
+        "Draw": 1.04
+      },
+      "LeoVegas (SE)": {
+        "Atalanta BC": 35.0,
+        "Frosinone": 13.0,
+        "Draw": 1.02
+      },
+      "PMU (FR)": {
+        "Atalanta BC": 13.0,
+        "Frosinone": 15.0,
+        "Draw": 1.02
+      },
+      "Unibet (NL)": {
+        "Atalanta BC": 36.0,
+        "Frosinone": 14.0,
+        "Draw": 1.04
+      },
+      "Unibet (SE)": {
+        "Atalanta BC": 36.0,
+        "Frosinone": 14.0,
+        "Draw": 1.04
+      },
+      "Nordic Bet": {
+        "Atalanta BC": 16.0,
+        "Frosinone": 14.0,
+        "Draw": 1.04
+      },
+      "Betsson": {
+        "Atalanta BC": 11.5,
+        "Frosinone": 14.0,
+        "Draw": 1.07
+      },
+      "Betfair": {
+        "Atalanta BC": 1.2,
+        "Frosinone": 1.2,
+        "Draw": 1.01
+      },
+      "Coolbet": {
+        "Atalanta BC": 20.0,
+        "Frosinone": 18.0,
+        "Draw": 1.06
+      }
+    },
+    "33fb7467b23c91d57dc976d9ab05ea97:h2h": {
+      "Betclic (FR)": {
+        "Bournemouth": 1.0,
+        "Manchester United": 100.0,
+        "Draw": 75.0
+      },
+      "Betsson": {
+        "Bournemouth": 1.0,
+        "Manchester United": 34.0,
+        "Draw": 29.0
+      },
+      "Nordic Bet": {
+        "Bournemouth": 1.0,
+        "Manchester United": 34.0,
+        "Draw": 29.0
+      }
+    },
+    "69493b5ebb84f24ab1d6023a30ee89f0:h2h": {
+      "Winamax (DE)": {
+        "Brentford": 21.0,
+        "Hull City": 38.0,
+        "Draw": 1.03
+      },
+      "Betclic (FR)": {
+        "Brentford": 12.0,
+        "Hull City": 19.0,
+        "Draw": 1.02
+      },
+      "Winamax (FR)": {
+        "Brentford": 20.0,
+        "Hull City": 38.0,
+        "Draw": 1.04
+      },
+      "MyBookie.ag": {
+        "Brentford": 6.0,
+        "Hull City": 11.75,
+        "Draw": 1.06
+      },
+      "Betfair": {
+        "Brentford": 25.0,
+        "Hull City": 50.0,
+        "Draw": 1.04
+      },
+      "Tipico": {
+        "Brentford": 12.0,
+        "Hull City": 30.0,
+        "Draw": 1.03
+      },
+      "Pinnacle": {
+        "Brentford": 8.68,
+        "Hull City": 20.12,
+        "Draw": 1.12
+      },
+      "Betsson": {
+        "Brentford": 19.0,
+        "Hull City": 34.0,
+        "Draw": 1.02
       }
     }
   },
@@ -4318,13 +4177,808 @@
       "confidence": 5,
       "alert_type": "value",
       "alerted_at": "2026-10-25T11:16:04.658374+00:00"
+    },
+    {
+      "state_key": "c177a3c900d7febf9870ca8de90a9e35:h2h",
+      "event_id": "c177a3c900d7febf9870ca8de90a9e35",
+      "sport_key": "soccer",
+      "competition": "Ligue 1 - France",
+      "home_team": "AS Monaco",
+      "away_team": "Lille",
+      "commence_time": "2026-10-25T14:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "AS Monaco",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 198,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T16:05:21.197002+00:00"
+    },
+    {
+      "state_key": "c177a3c900d7febf9870ca8de90a9e35:h2h",
+      "event_id": "c177a3c900d7febf9870ca8de90a9e35",
+      "sport_key": "soccer",
+      "competition": "Ligue 1 - France",
+      "home_team": "AS Monaco",
+      "away_team": "Lille",
+      "commence_time": "2026-10-25T14:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Lille",
+      "odds_at_alert": 50.0,
+      "stake_pct": 5.0,
+      "confidence": 32,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T16:05:21.699898+00:00"
+    },
+    {
+      "state_key": "c177a3c900d7febf9870ca8de90a9e35:h2h",
+      "event_id": "c177a3c900d7febf9870ca8de90a9e35",
+      "sport_key": "soccer",
+      "competition": "Ligue 1 - France",
+      "home_team": "AS Monaco",
+      "away_team": "Lille",
+      "commence_time": "2026-10-25T14:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "AS Monaco",
+      "odds_at_alert": 14.0,
+      "stake_pct": 5.0,
+      "confidence": 221,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T16:05:22.201871+00:00"
+    },
+    {
+      "state_key": "c177a3c900d7febf9870ca8de90a9e35:h2h",
+      "event_id": "c177a3c900d7febf9870ca8de90a9e35",
+      "sport_key": "soccer",
+      "competition": "Ligue 1 - France",
+      "home_team": "AS Monaco",
+      "away_team": "Lille",
+      "commence_time": "2026-10-25T14:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Lille",
+      "odds_at_alert": 50.0,
+      "stake_pct": 5.0,
+      "confidence": 32,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T16:05:22.767137+00:00"
+    },
+    {
+      "state_key": "c177a3c900d7febf9870ca8de90a9e35:h2h",
+      "event_id": "c177a3c900d7febf9870ca8de90a9e35",
+      "sport_key": "soccer",
+      "competition": "Ligue 1 - France",
+      "home_team": "AS Monaco",
+      "away_team": "Lille",
+      "commence_time": "2026-10-25T14:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "AS Monaco",
+      "odds_at_alert": 7.0,
+      "stake_pct": 5.0,
+      "confidence": 61,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T16:05:23.283155+00:00"
+    },
+    {
+      "state_key": "c177a3c900d7febf9870ca8de90a9e35:h2h",
+      "event_id": "c177a3c900d7febf9870ca8de90a9e35",
+      "sport_key": "soccer",
+      "competition": "Ligue 1 - France",
+      "home_team": "AS Monaco",
+      "away_team": "Lille",
+      "commence_time": "2026-10-25T14:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "AS Monaco",
+      "odds_at_alert": 10.0,
+      "stake_pct": 5.0,
+      "confidence": 129,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T16:05:24.978081+00:00"
+    },
+    {
+      "state_key": "c177a3c900d7febf9870ca8de90a9e35:h2h",
+      "event_id": "c177a3c900d7febf9870ca8de90a9e35",
+      "sport_key": "soccer",
+      "competition": "Ligue 1 - France",
+      "home_team": "AS Monaco",
+      "away_team": "Lille",
+      "commence_time": "2026-10-25T14:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "AS Monaco",
+      "odds_at_alert": 7.5,
+      "stake_pct": 5.0,
+      "confidence": 72,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T16:05:25.567072+00:00"
+    },
+    {
+      "state_key": "c177a3c900d7febf9870ca8de90a9e35:h2h",
+      "event_id": "c177a3c900d7febf9870ca8de90a9e35",
+      "sport_key": "soccer",
+      "competition": "Ligue 1 - France",
+      "home_team": "AS Monaco",
+      "away_team": "Lille",
+      "commence_time": "2026-10-25T14:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "AS Monaco",
+      "odds_at_alert": 10.0,
+      "stake_pct": 5.0,
+      "confidence": 129,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T16:05:26.080250+00:00"
+    },
+    {
+      "state_key": "c177a3c900d7febf9870ca8de90a9e35:h2h",
+      "event_id": "c177a3c900d7febf9870ca8de90a9e35",
+      "sport_key": "soccer",
+      "competition": "Ligue 1 - France",
+      "home_team": "AS Monaco",
+      "away_team": "Lille",
+      "commence_time": "2026-10-25T14:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "AS Monaco",
+      "odds_at_alert": 110.0,
+      "stake_pct": 5.0,
+      "confidence": 2424,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T16:05:26.629221+00:00"
+    },
+    {
+      "state_key": "c177a3c900d7febf9870ca8de90a9e35:h2h",
+      "event_id": "c177a3c900d7febf9870ca8de90a9e35",
+      "sport_key": "soccer",
+      "competition": "Ligue 1 - France",
+      "home_team": "AS Monaco",
+      "away_team": "Lille",
+      "commence_time": "2026-10-25T14:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Lille",
+      "odds_at_alert": 110.0,
+      "stake_pct": 5.0,
+      "confidence": 189,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T16:05:27.136986+00:00"
+    },
+    {
+      "state_key": "c177a3c900d7febf9870ca8de90a9e35:h2h",
+      "event_id": "c177a3c900d7febf9870ca8de90a9e35",
+      "sport_key": "soccer",
+      "competition": "Ligue 1 - France",
+      "home_team": "AS Monaco",
+      "away_team": "Lille",
+      "commence_time": "2026-10-25T14:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "AS Monaco",
+      "odds_at_alert": 7.0,
+      "stake_pct": 5.0,
+      "confidence": 61,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T16:05:27.774183+00:00"
+    },
+    {
+      "state_key": "c177a3c900d7febf9870ca8de90a9e35:h2h",
+      "event_id": "c177a3c900d7febf9870ca8de90a9e35",
+      "sport_key": "soccer",
+      "competition": "Ligue 1 - France",
+      "home_team": "AS Monaco",
+      "away_team": "Lille",
+      "commence_time": "2026-10-25T14:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Lille",
+      "odds_at_alert": 41.0,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T16:05:28.353518+00:00"
+    },
+    {
+      "state_key": "c177a3c900d7febf9870ca8de90a9e35:h2h",
+      "event_id": "c177a3c900d7febf9870ca8de90a9e35",
+      "sport_key": "soccer",
+      "competition": "Ligue 1 - France",
+      "home_team": "AS Monaco",
+      "away_team": "Lille",
+      "commence_time": "2026-10-25T14:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "AS Monaco",
+      "odds_at_alert": 7.5,
+      "stake_pct": 5.0,
+      "confidence": 72,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T16:05:28.872098+00:00"
+    },
+    {
+      "state_key": "c177a3c900d7febf9870ca8de90a9e35:h2h",
+      "event_id": "c177a3c900d7febf9870ca8de90a9e35",
+      "sport_key": "soccer",
+      "competition": "Ligue 1 - France",
+      "home_team": "AS Monaco",
+      "away_team": "Lille",
+      "commence_time": "2026-10-25T14:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Lille",
+      "odds_at_alert": 41.0,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T16:05:29.359427+00:00"
+    },
+    {
+      "state_key": "c177a3c900d7febf9870ca8de90a9e35:h2h",
+      "event_id": "c177a3c900d7febf9870ca8de90a9e35",
+      "sport_key": "soccer",
+      "competition": "Ligue 1 - France",
+      "home_team": "AS Monaco",
+      "away_team": "Lille",
+      "commence_time": "2026-10-25T14:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "AS Monaco",
+      "odds_at_alert": 8.0,
+      "stake_pct": 5.0,
+      "confidence": 84,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T16:05:29.877324+00:00"
+    },
+    {
+      "state_key": "c177a3c900d7febf9870ca8de90a9e35:h2h",
+      "event_id": "c177a3c900d7febf9870ca8de90a9e35",
+      "sport_key": "soccer",
+      "competition": "Ligue 1 - France",
+      "home_team": "AS Monaco",
+      "away_team": "Lille",
+      "commence_time": "2026-10-25T14:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Lille",
+      "odds_at_alert": 51.0,
+      "stake_pct": 5.0,
+      "confidence": 34,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T16:05:30.385665+00:00"
+    },
+    {
+      "state_key": "c177a3c900d7febf9870ca8de90a9e35:h2h",
+      "event_id": "c177a3c900d7febf9870ca8de90a9e35",
+      "sport_key": "soccer",
+      "competition": "Ligue 1 - France",
+      "home_team": "AS Monaco",
+      "away_team": "Lille",
+      "commence_time": "2026-10-25T14:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "AS Monaco",
+      "odds_at_alert": 7.5,
+      "stake_pct": 5.0,
+      "confidence": 72,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T16:05:30.881932+00:00"
+    },
+    {
+      "state_key": "c177a3c900d7febf9870ca8de90a9e35:h2h",
+      "event_id": "c177a3c900d7febf9870ca8de90a9e35",
+      "sport_key": "soccer",
+      "competition": "Ligue 1 - France",
+      "home_team": "AS Monaco",
+      "away_team": "Lille",
+      "commence_time": "2026-10-25T14:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Lille",
+      "odds_at_alert": 51.0,
+      "stake_pct": 5.0,
+      "confidence": 34,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T16:05:31.554227+00:00"
+    },
+    {
+      "state_key": "c177a3c900d7febf9870ca8de90a9e35:h2h",
+      "event_id": "c177a3c900d7febf9870ca8de90a9e35",
+      "sport_key": "soccer",
+      "competition": "Ligue 1 - France",
+      "home_team": "AS Monaco",
+      "away_team": "Lille",
+      "commence_time": "2026-10-25T14:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "AS Monaco",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 175,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T16:05:32.128436+00:00"
+    },
+    {
+      "state_key": "c177a3c900d7febf9870ca8de90a9e35:h2h",
+      "event_id": "c177a3c900d7febf9870ca8de90a9e35",
+      "sport_key": "soccer",
+      "competition": "Ligue 1 - France",
+      "home_team": "AS Monaco",
+      "away_team": "Lille",
+      "commence_time": "2026-10-25T14:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Lille",
+      "odds_at_alert": 66.0,
+      "stake_pct": 5.0,
+      "confidence": 74,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T16:05:32.644902+00:00"
+    },
+    {
+      "state_key": "c177a3c900d7febf9870ca8de90a9e35:h2h",
+      "event_id": "c177a3c900d7febf9870ca8de90a9e35",
+      "sport_key": "soccer",
+      "competition": "Ligue 1 - France",
+      "home_team": "AS Monaco",
+      "away_team": "Lille",
+      "commence_time": "2026-10-25T14:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "AS Monaco",
+      "odds_at_alert": 9.1,
+      "stake_pct": 5.0,
+      "confidence": 109,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T16:05:33.212653+00:00"
+    },
+    {
+      "state_key": "c177a3c900d7febf9870ca8de90a9e35:h2h",
+      "event_id": "c177a3c900d7febf9870ca8de90a9e35",
+      "sport_key": "soccer",
+      "competition": "Ligue 1 - France",
+      "home_team": "AS Monaco",
+      "away_team": "Lille",
+      "commence_time": "2026-10-25T14:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "AS Monaco",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 198,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T16:05:33.698203+00:00"
+    },
+    {
+      "state_key": "c177a3c900d7febf9870ca8de90a9e35:h2h",
+      "event_id": "c177a3c900d7febf9870ca8de90a9e35",
+      "sport_key": "soccer",
+      "competition": "Ligue 1 - France",
+      "home_team": "AS Monaco",
+      "away_team": "Lille",
+      "commence_time": "2026-10-25T14:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Lille",
+      "odds_at_alert": 41.0,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T16:05:34.287604+00:00"
+    },
+    {
+      "state_key": "63aa6e3f679ee4c68de5b4bd8d3361bb:h2h",
+      "event_id": "63aa6e3f679ee4c68de5b4bd8d3361bb",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Atalanta BC",
+      "away_team": "Frosinone",
+      "commence_time": "2026-10-25T14:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Atalanta BC",
+      "odds_at_alert": 24.0,
+      "stake_pct": 5.0,
+      "confidence": 1706,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T16:05:34.870934+00:00"
+    },
+    {
+      "state_key": "63aa6e3f679ee4c68de5b4bd8d3361bb:h2h",
+      "event_id": "63aa6e3f679ee4c68de5b4bd8d3361bb",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Atalanta BC",
+      "away_team": "Frosinone",
+      "commence_time": "2026-10-25T14:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Frosinone",
+      "odds_at_alert": 27.0,
+      "stake_pct": 5.0,
+      "confidence": 26,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T16:05:35.422727+00:00"
+    },
+    {
+      "state_key": "63aa6e3f679ee4c68de5b4bd8d3361bb:h2h",
+      "event_id": "63aa6e3f679ee4c68de5b4bd8d3361bb",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Atalanta BC",
+      "away_team": "Frosinone",
+      "commence_time": "2026-10-25T14:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Atalanta BC",
+      "odds_at_alert": 16.0,
+      "stake_pct": 5.0,
+      "confidence": 1104,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T16:05:35.970634+00:00"
+    },
+    {
+      "state_key": "63aa6e3f679ee4c68de5b4bd8d3361bb:h2h",
+      "event_id": "63aa6e3f679ee4c68de5b4bd8d3361bb",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Atalanta BC",
+      "away_team": "Frosinone",
+      "commence_time": "2026-10-25T14:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Atalanta BC",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 728,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T16:05:36.498501+00:00"
+    },
+    {
+      "state_key": "63aa6e3f679ee4c68de5b4bd8d3361bb:h2h",
+      "event_id": "63aa6e3f679ee4c68de5b4bd8d3361bb",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Atalanta BC",
+      "away_team": "Frosinone",
+      "commence_time": "2026-10-25T14:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Atalanta BC",
+      "odds_at_alert": 9.0,
+      "stake_pct": 5.0,
+      "confidence": 577,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T16:05:37.060239+00:00"
+    },
+    {
+      "state_key": "63aa6e3f679ee4c68de5b4bd8d3361bb:h2h",
+      "event_id": "63aa6e3f679ee4c68de5b4bd8d3361bb",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Atalanta BC",
+      "away_team": "Frosinone",
+      "commence_time": "2026-10-25T14:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Atalanta BC",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 878,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T16:05:37.631227+00:00"
+    },
+    {
+      "state_key": "63aa6e3f679ee4c68de5b4bd8d3361bb:h2h",
+      "event_id": "63aa6e3f679ee4c68de5b4bd8d3361bb",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Atalanta BC",
+      "away_team": "Frosinone",
+      "commence_time": "2026-10-25T14:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Atalanta BC",
+      "odds_at_alert": 35.0,
+      "stake_pct": 5.0,
+      "confidence": 2533,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T16:05:38.278516+00:00"
+    },
+    {
+      "state_key": "63aa6e3f679ee4c68de5b4bd8d3361bb:h2h",
+      "event_id": "63aa6e3f679ee4c68de5b4bd8d3361bb",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Atalanta BC",
+      "away_team": "Frosinone",
+      "commence_time": "2026-10-25T14:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Atalanta BC",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 878,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T16:05:38.946627+00:00"
+    },
+    {
+      "state_key": "63aa6e3f679ee4c68de5b4bd8d3361bb:h2h",
+      "event_id": "63aa6e3f679ee4c68de5b4bd8d3361bb",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Atalanta BC",
+      "away_team": "Frosinone",
+      "commence_time": "2026-10-25T14:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Atalanta BC",
+      "odds_at_alert": 36.0,
+      "stake_pct": 5.0,
+      "confidence": 2608,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T16:05:39.507258+00:00"
+    },
+    {
+      "state_key": "63aa6e3f679ee4c68de5b4bd8d3361bb:h2h",
+      "event_id": "63aa6e3f679ee4c68de5b4bd8d3361bb",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Atalanta BC",
+      "away_team": "Frosinone",
+      "commence_time": "2026-10-25T14:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Atalanta BC",
+      "odds_at_alert": 36.0,
+      "stake_pct": 5.0,
+      "confidence": 2608,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T16:05:40.059777+00:00"
+    },
+    {
+      "state_key": "63aa6e3f679ee4c68de5b4bd8d3361bb:h2h",
+      "event_id": "63aa6e3f679ee4c68de5b4bd8d3361bb",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Atalanta BC",
+      "away_team": "Frosinone",
+      "commence_time": "2026-10-25T14:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Atalanta BC",
+      "odds_at_alert": 16.0,
+      "stake_pct": 5.0,
+      "confidence": 1104,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T16:05:40.567901+00:00"
+    },
+    {
+      "state_key": "63aa6e3f679ee4c68de5b4bd8d3361bb:h2h",
+      "event_id": "63aa6e3f679ee4c68de5b4bd8d3361bb",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Atalanta BC",
+      "away_team": "Frosinone",
+      "commence_time": "2026-10-25T14:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Atalanta BC",
+      "odds_at_alert": 11.5,
+      "stake_pct": 5.0,
+      "confidence": 765,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T16:05:41.129950+00:00"
+    },
+    {
+      "state_key": "63aa6e3f679ee4c68de5b4bd8d3361bb:h2h",
+      "event_id": "63aa6e3f679ee4c68de5b4bd8d3361bb",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Atalanta BC",
+      "away_team": "Frosinone",
+      "commence_time": "2026-10-25T14:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Atalanta BC",
+      "odds_at_alert": 20.0,
+      "stake_pct": 5.0,
+      "confidence": 1405,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T16:05:41.605125+00:00"
+    },
+    {
+      "state_key": "69493b5ebb84f24ab1d6023a30ee89f0:h2h",
+      "event_id": "69493b5ebb84f24ab1d6023a30ee89f0",
+      "sport_key": "soccer",
+      "competition": "EPL",
+      "home_team": "Hull City",
+      "away_team": "Brentford",
+      "commence_time": "2026-10-25T14:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Brentford",
+      "odds_at_alert": 21.0,
+      "stake_pct": 5.0,
+      "confidence": 129,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T16:05:42.148345+00:00"
+    },
+    {
+      "state_key": "69493b5ebb84f24ab1d6023a30ee89f0:h2h",
+      "event_id": "69493b5ebb84f24ab1d6023a30ee89f0",
+      "sport_key": "soccer",
+      "competition": "EPL",
+      "home_team": "Hull City",
+      "away_team": "Brentford",
+      "commence_time": "2026-10-25T14:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Hull City",
+      "odds_at_alert": 38.0,
+      "stake_pct": 5.0,
+      "confidence": 79,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T16:05:42.633848+00:00"
+    },
+    {
+      "state_key": "69493b5ebb84f24ab1d6023a30ee89f0:h2h",
+      "event_id": "69493b5ebb84f24ab1d6023a30ee89f0",
+      "sport_key": "soccer",
+      "competition": "EPL",
+      "home_team": "Hull City",
+      "away_team": "Brentford",
+      "commence_time": "2026-10-25T14:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Brentford",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 31,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T16:05:43.144110+00:00"
+    },
+    {
+      "state_key": "69493b5ebb84f24ab1d6023a30ee89f0:h2h",
+      "event_id": "69493b5ebb84f24ab1d6023a30ee89f0",
+      "sport_key": "soccer",
+      "competition": "EPL",
+      "home_team": "Hull City",
+      "away_team": "Brentford",
+      "commence_time": "2026-10-25T14:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Brentford",
+      "odds_at_alert": 20.0,
+      "stake_pct": 5.0,
+      "confidence": 118,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T16:05:43.653656+00:00"
+    },
+    {
+      "state_key": "69493b5ebb84f24ab1d6023a30ee89f0:h2h",
+      "event_id": "69493b5ebb84f24ab1d6023a30ee89f0",
+      "sport_key": "soccer",
+      "competition": "EPL",
+      "home_team": "Hull City",
+      "away_team": "Brentford",
+      "commence_time": "2026-10-25T14:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Hull City",
+      "odds_at_alert": 38.0,
+      "stake_pct": 5.0,
+      "confidence": 79,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T16:05:44.154433+00:00"
+    },
+    {
+      "state_key": "69493b5ebb84f24ab1d6023a30ee89f0:h2h",
+      "event_id": "69493b5ebb84f24ab1d6023a30ee89f0",
+      "sport_key": "soccer",
+      "competition": "EPL",
+      "home_team": "Hull City",
+      "away_team": "Brentford",
+      "commence_time": "2026-10-25T14:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Brentford",
+      "odds_at_alert": 25.0,
+      "stake_pct": 5.0,
+      "confidence": 172,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T16:05:44.823369+00:00"
+    },
+    {
+      "state_key": "69493b5ebb84f24ab1d6023a30ee89f0:h2h",
+      "event_id": "69493b5ebb84f24ab1d6023a30ee89f0",
+      "sport_key": "soccer",
+      "competition": "EPL",
+      "home_team": "Hull City",
+      "away_team": "Brentford",
+      "commence_time": "2026-10-25T14:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Hull City",
+      "odds_at_alert": 50.0,
+      "stake_pct": 5.0,
+      "confidence": 135,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T16:05:45.379548+00:00"
+    },
+    {
+      "state_key": "69493b5ebb84f24ab1d6023a30ee89f0:h2h",
+      "event_id": "69493b5ebb84f24ab1d6023a30ee89f0",
+      "sport_key": "soccer",
+      "competition": "EPL",
+      "home_team": "Hull City",
+      "away_team": "Brentford",
+      "commence_time": "2026-10-25T14:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Brentford",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 31,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T16:05:45.936179+00:00"
+    },
+    {
+      "state_key": "69493b5ebb84f24ab1d6023a30ee89f0:h2h",
+      "event_id": "69493b5ebb84f24ab1d6023a30ee89f0",
+      "sport_key": "soccer",
+      "competition": "EPL",
+      "home_team": "Hull City",
+      "away_team": "Brentford",
+      "commence_time": "2026-10-25T14:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Hull City",
+      "odds_at_alert": 30.0,
+      "stake_pct": 5.0,
+      "confidence": 41,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T16:05:46.484996+00:00"
+    },
+    {
+      "state_key": "69493b5ebb84f24ab1d6023a30ee89f0:h2h",
+      "event_id": "69493b5ebb84f24ab1d6023a30ee89f0",
+      "sport_key": "soccer",
+      "competition": "EPL",
+      "home_team": "Hull City",
+      "away_team": "Brentford",
+      "commence_time": "2026-10-25T14:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Brentford",
+      "odds_at_alert": 19.0,
+      "stake_pct": 5.0,
+      "confidence": 107,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T16:05:46.970266+00:00"
+    },
+    {
+      "state_key": "69493b5ebb84f24ab1d6023a30ee89f0:h2h",
+      "event_id": "69493b5ebb84f24ab1d6023a30ee89f0",
+      "sport_key": "soccer",
+      "competition": "EPL",
+      "home_team": "Hull City",
+      "away_team": "Brentford",
+      "commence_time": "2026-10-25T14:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Hull City",
+      "odds_at_alert": 34.0,
+      "stake_pct": 5.0,
+      "confidence": 60,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T16:05:47.511205+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "c9b6c7048d8dc33dae618f67f462f67a:h2h|Betfair|Fiorentina",
-    "c9b6c7048d8dc33dae618f67f462f67a:h2h|Unibet (SE)|Fiorentina",
-    "da3753d6380deada02ed04ab49cb230f:h2h|Marathon Bet|Draw",
-    "da3753d6380deada02ed04ab49cb230f:h2h|Marathon Bet|Lokomotiv Moscow"
+    "63aa6e3f679ee4c68de5b4bd8d3361bb:h2h|Betclic (FR)|Atalanta BC",
+    "63aa6e3f679ee4c68de5b4bd8d3361bb:h2h|Betsson|Atalanta BC",
+    "63aa6e3f679ee4c68de5b4bd8d3361bb:h2h|Coolbet|Atalanta BC",
+    "63aa6e3f679ee4c68de5b4bd8d3361bb:h2h|LeoVegas (SE)|Atalanta BC",
+    "63aa6e3f679ee4c68de5b4bd8d3361bb:h2h|Nordic Bet|Atalanta BC",
+    "63aa6e3f679ee4c68de5b4bd8d3361bb:h2h|PMU (FR)|Atalanta BC",
+    "63aa6e3f679ee4c68de5b4bd8d3361bb:h2h|Tipico|Atalanta BC",
+    "63aa6e3f679ee4c68de5b4bd8d3361bb:h2h|Unibet (FR)|Atalanta BC",
+    "63aa6e3f679ee4c68de5b4bd8d3361bb:h2h|Unibet (NL)|Atalanta BC",
+    "63aa6e3f679ee4c68de5b4bd8d3361bb:h2h|Unibet (SE)|Atalanta BC",
+    "63aa6e3f679ee4c68de5b4bd8d3361bb:h2h|Winamax (DE)|Atalanta BC",
+    "63aa6e3f679ee4c68de5b4bd8d3361bb:h2h|Winamax (DE)|Frosinone",
+    "63aa6e3f679ee4c68de5b4bd8d3361bb:h2h|Winamax (FR)|Atalanta BC",
+    "69493b5ebb84f24ab1d6023a30ee89f0:h2h|Betclic (FR)|Brentford",
+    "69493b5ebb84f24ab1d6023a30ee89f0:h2h|Betfair|Brentford",
+    "69493b5ebb84f24ab1d6023a30ee89f0:h2h|Betfair|Hull City",
+    "69493b5ebb84f24ab1d6023a30ee89f0:h2h|Betsson|Brentford",
+    "69493b5ebb84f24ab1d6023a30ee89f0:h2h|Betsson|Hull City",
+    "69493b5ebb84f24ab1d6023a30ee89f0:h2h|Tipico|Brentford",
+    "69493b5ebb84f24ab1d6023a30ee89f0:h2h|Tipico|Hull City",
+    "69493b5ebb84f24ab1d6023a30ee89f0:h2h|Winamax (DE)|Brentford",
+    "69493b5ebb84f24ab1d6023a30ee89f0:h2h|Winamax (DE)|Hull City",
+    "69493b5ebb84f24ab1d6023a30ee89f0:h2h|Winamax (FR)|Brentford",
+    "69493b5ebb84f24ab1d6023a30ee89f0:h2h|Winamax (FR)|Hull City",
+    "c177a3c900d7febf9870ca8de90a9e35:h2h|888sport|AS Monaco",
+    "c177a3c900d7febf9870ca8de90a9e35:h2h|Betclic (FR)|AS Monaco",
+    "c177a3c900d7febf9870ca8de90a9e35:h2h|Betfair|AS Monaco",
+    "c177a3c900d7febf9870ca8de90a9e35:h2h|Betfair|Lille",
+    "c177a3c900d7febf9870ca8de90a9e35:h2h|Betsson|AS Monaco",
+    "c177a3c900d7febf9870ca8de90a9e35:h2h|Betsson|Lille",
+    "c177a3c900d7febf9870ca8de90a9e35:h2h|Coolbet|AS Monaco",
+    "c177a3c900d7febf9870ca8de90a9e35:h2h|Coolbet|Lille",
+    "c177a3c900d7febf9870ca8de90a9e35:h2h|LeoVegas (SE)|AS Monaco",
+    "c177a3c900d7febf9870ca8de90a9e35:h2h|LeoVegas (SE)|Lille",
+    "c177a3c900d7febf9870ca8de90a9e35:h2h|Nordic Bet|AS Monaco",
+    "c177a3c900d7febf9870ca8de90a9e35:h2h|PMU (FR)|AS Monaco",
+    "c177a3c900d7febf9870ca8de90a9e35:h2h|PMU (FR)|Lille",
+    "c177a3c900d7febf9870ca8de90a9e35:h2h|Tipico|AS Monaco",
+    "c177a3c900d7febf9870ca8de90a9e35:h2h|Unibet (FR)|AS Monaco",
+    "c177a3c900d7febf9870ca8de90a9e35:h2h|Unibet (NL)|AS Monaco",
+    "c177a3c900d7febf9870ca8de90a9e35:h2h|Unibet (NL)|Lille",
+    "c177a3c900d7febf9870ca8de90a9e35:h2h|Unibet (SE)|AS Monaco",
+    "c177a3c900d7febf9870ca8de90a9e35:h2h|Unibet (SE)|Lille",
+    "c177a3c900d7febf9870ca8de90a9e35:h2h|Winamax (DE)|AS Monaco",
+    "c177a3c900d7febf9870ca8de90a9e35:h2h|Winamax (DE)|Lille",
+    "c177a3c900d7febf9870ca8de90a9e35:h2h|Winamax (FR)|AS Monaco",
+    "c177a3c900d7febf9870ca8de90a9e35:h2h|Winamax (FR)|Lille"
   ]
 }
