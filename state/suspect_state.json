@@ -1,316 +1,351 @@
 {
   "snapshots": {
-    "1acbabd3fd01b5ec9a9bdc1b8cca438a:h2h": {
-      "PMU (FR)": {
-        "Charlotte FC": 9.0,
-        "Portland Timbers": 5.8,
-        "Draw": 1.13
-      },
-      "Unibet (NL)": {
-        "Charlotte FC": 11.5,
-        "Portland Timbers": 7.5,
-        "Draw": 1.17
-      },
-      "Unibet (SE)": {
-        "Charlotte FC": 9.5,
-        "Portland Timbers": 6.1,
-        "Draw": 1.24
-      },
-      "LeoVegas (SE)": {
-        "Charlotte FC": 11.0,
-        "Portland Timbers": 7.0,
-        "Draw": 1.14
-      },
-      "Coolbet": {
-        "Charlotte FC": 10.0,
-        "Portland Timbers": 5.0,
-        "Draw": 1.29
-      },
-      "Betclic (FR)": {
-        "Charlotte FC": 7.5,
-        "Portland Timbers": 4.0,
-        "Draw": 1.3
-      },
-      "Unibet (FR)": {
-        "Charlotte FC": 8.5,
-        "Portland Timbers": 4.35,
-        "Draw": 1.22
-      },
-      "MyBookie.ag": {
-        "Charlotte FC": 5.5,
-        "Portland Timbers": 3.15,
-        "Draw": 1.6
-      },
+    "da3753d6380deada02ed04ab49cb230f:h2h": {
       "Pinnacle": {
-        "Charlotte FC": 9.14,
-        "Portland Timbers": 4.98,
-        "Draw": 1.32
-      },
-      "Winamax (DE)": {
-        "Charlotte FC": 9.5,
-        "Portland Timbers": 5.1,
-        "Draw": 1.25
-      },
-      "Winamax (FR)": {
-        "Charlotte FC": 9.0,
-        "Portland Timbers": 4.8,
-        "Draw": 1.26
+        "FK Rostov": 2.29,
+        "Lokomotiv Moscow": 3.31,
+        "Draw": 3.12
       },
       "Marathon Bet": {
-        "Charlotte FC": 10.0,
-        "Portland Timbers": 5.0,
-        "Draw": 1.29
-      },
-      "888sport": {
-        "Charlotte FC": 11.0,
-        "Portland Timbers": 6.0,
-        "Draw": 1.2
-      },
-      "Nordic Bet": {
-        "Charlotte FC": 10.5,
-        "Portland Timbers": 5.8,
-        "Draw": 1.2
-      },
-      "Betsson": {
-        "Charlotte FC": 10.5,
-        "Portland Timbers": 5.8,
-        "Draw": 1.2
-      },
-      "Tipico": {
-        "Charlotte FC": 8.5,
-        "Portland Timbers": 4.5,
-        "Draw": 1.3
-      },
-      "Betfair": {
-        "Charlotte FC": 7.6,
-        "Portland Timbers": 1.04,
-        "Draw": 1.44
+        "FK Rostov": 1.12,
+        "Lokomotiv Moscow": 23.0,
+        "Draw": 8.5
       }
     },
-    "838268124a23a1f338204e37b2f6c4e5:h2h": {
-      "LeoVegas (SE)": {
-        "San Diego FC": 16.0,
-        "Seattle Sounders FC": 3.95,
-        "Draw": 1.3
-      },
-      "PMU (FR)": {
-        "San Diego FC": 15.0,
-        "Seattle Sounders FC": 3.65,
-        "Draw": 1.22
-      },
-      "Unibet (NL)": {
-        "San Diego FC": 16.0,
-        "Seattle Sounders FC": 3.95,
-        "Draw": 1.3
-      },
-      "Unibet (SE)": {
-        "San Diego FC": 16.0,
-        "Seattle Sounders FC": 3.95,
-        "Draw": 1.3
-      },
-      "Betclic (FR)": {
-        "San Diego FC": 80.0,
-        "Seattle Sounders FC": 1.08,
-        "Draw": 5.1
-      },
-      "Unibet (FR)": {
-        "San Diego FC": 26.0,
-        "Seattle Sounders FC": 3.05,
-        "Draw": 1.27
-      },
-      "Coolbet": {
-        "San Diego FC": 40.0,
-        "Seattle Sounders FC": 1.14,
-        "Draw": 5.0
-      },
-      "MyBookie.ag": {
-        "San Diego FC": 12.25,
-        "Seattle Sounders FC": 1.1,
-        "Draw": 6.0
-      },
+    "f168373343a58c07d02f40538d04b404:h2h": {
       "Winamax (DE)": {
-        "San Diego FC": 26.0,
-        "Seattle Sounders FC": 3.5,
-        "Draw": 1.3
+        "Excelsior": 2.35,
+        "Fortuna Sittard": 2.55,
+        "Draw": 3.4
       },
       "Winamax (FR)": {
-        "San Diego FC": 27.0,
-        "Seattle Sounders FC": 3.45,
-        "Draw": 1.31
-      },
-      "Marathon Bet": {
-        "San Diego FC": 53.0,
-        "Seattle Sounders FC": 1.06,
-        "Draw": 8.7
+        "Excelsior": 2.3,
+        "Fortuna Sittard": 2.45,
+        "Draw": 3.3
       },
       "888sport": {
-        "San Diego FC": 91.0,
-        "Seattle Sounders FC": 1.06,
-        "Draw": 9.0
+        "Excelsior": 2.5,
+        "Fortuna Sittard": 2.62,
+        "Draw": 3.25
+      },
+      "Unibet (FR)": {
+        "Excelsior": 2.3,
+        "Fortuna Sittard": 2.5,
+        "Draw": 3.05
+      },
+      "William Hill": {
+        "Excelsior": 2.5,
+        "Fortuna Sittard": 2.62,
+        "Draw": 3.25
+      },
+      "Coolbet": {
+        "Excelsior": 2.5,
+        "Fortuna Sittard": 2.7,
+        "Draw": 3.6
+      },
+      "Betclic (FR)": {
+        "Excelsior": 2.32,
+        "Fortuna Sittard": 2.58,
+        "Draw": 3.32
+      },
+      "1xBet": {
+        "Excelsior": 2.61,
+        "Fortuna Sittard": 2.71,
+        "Draw": 3.46
+      },
+      "Marathon Bet": {
+        "Excelsior": 2.46,
+        "Fortuna Sittard": 2.68,
+        "Draw": 3.38
       },
       "Betfair": {
-        "San Diego FC": 200.0,
-        "Seattle Sounders FC": 1.11,
-        "Draw": 7.8
+        "Excelsior": 2.66,
+        "Fortuna Sittard": 2.88,
+        "Draw": 3.5
+      },
+      "Betsson": {
+        "Excelsior": 2.48,
+        "Fortuna Sittard": 2.73,
+        "Draw": 3.34
       },
       "Nordic Bet": {
-        "San Diego FC": 40.0,
-        "Seattle Sounders FC": 1.12,
+        "Excelsior": 2.5,
+        "Fortuna Sittard": 2.75,
+        "Draw": 3.4
+      },
+      "LeoVegas (SE)": {
+        "Excelsior": 2.48,
+        "Fortuna Sittard": 2.45,
+        "Draw": 3.25
+      },
+      "Unibet (NL)": {
+        "Excelsior": 2.7,
+        "Fortuna Sittard": 2.65,
+        "Draw": 3.6
+      },
+      "Unibet (SE)": {
+        "Excelsior": 2.6,
+        "Fortuna Sittard": 2.55,
+        "Draw": 3.4
+      },
+      "PMU (FR)": {
+        "Excelsior": 2.45,
+        "Fortuna Sittard": 2.43,
+        "Draw": 3.2
+      },
+      "Codere (IT)": {
+        "Excelsior": 2.55,
+        "Fortuna Sittard": 2.65,
+        "Draw": 3.45
+      },
+      "Tipico": {
+        "Excelsior": 2.5,
+        "Fortuna Sittard": 2.8,
+        "Draw": 3.2
+      },
+      "Pinnacle": {
+        "Excelsior": 2.59,
+        "Fortuna Sittard": 2.75,
+        "Draw": 3.51
+      },
+      "BetOnline.ag": {
+        "Excelsior": 2.56,
+        "Fortuna Sittard": 2.73,
+        "Draw": 3.41
+      },
+      "BetAnything": {
+        "Excelsior": 2.56,
+        "Fortuna Sittard": 2.73,
+        "Draw": 3.41
+      },
+      "Matchbook": {
+        "Excelsior": 2.66,
+        "Fortuna Sittard": 2.86,
+        "Draw": 3.5
+      }
+    },
+    "081acf0f093e5c83d3b272bf80e8cd4f:h2h": {
+      "PMU (FR)": {
+        "Wieczysta Kraków": 2.1,
+        "Śląsk Wrocław": 2.8,
+        "Draw": 3.4
+      },
+      "Unibet (NL)": {
+        "Wieczysta Kraków": 2.12,
+        "Śląsk Wrocław": 2.88,
+        "Draw": 3.45
+      },
+      "LeoVegas (SE)": {
+        "Wieczysta Kraków": 2.1,
+        "Śląsk Wrocław": 2.8,
+        "Draw": 3.4
+      },
+      "Unibet (SE)": {
+        "Wieczysta Kraków": 2.23,
+        "Śląsk Wrocław": 2.95,
+        "Draw": 3.6
+      },
+      "Betsson": {
+        "Wieczysta Kraków": 2.15,
+        "Śląsk Wrocław": 2.9,
+        "Draw": 3.55
+      },
+      "Betclic (FR)": {
+        "Wieczysta Kraków": 2.03,
+        "Śląsk Wrocław": 2.78,
+        "Draw": 3.47
+      },
+      "Unibet (FR)": {
+        "Wieczysta Kraków": 1.94,
+        "Śląsk Wrocław": 2.8,
+        "Draw": 3.5
+      },
+      "Nordic Bet": {
+        "Wieczysta Kraków": 2.15,
+        "Śląsk Wrocław": 2.9,
+        "Draw": 3.55
+      },
+      "Winamax (DE)": {
+        "Wieczysta Kraków": 2.15,
+        "Śląsk Wrocław": 2.7,
+        "Draw": 3.65
+      },
+      "Winamax (FR)": {
+        "Wieczysta Kraków": 2.1,
+        "Śląsk Wrocław": 2.6,
+        "Draw": 3.55
+      },
+      "Coolbet": {
+        "Wieczysta Kraków": 2.1,
+        "Śląsk Wrocław": 3.0,
+        "Draw": 3.8
+      },
+      "Marathon Bet": {
+        "Wieczysta Kraków": 2.08,
+        "Śląsk Wrocław": 2.81,
+        "Draw": 3.68
+      },
+      "Pinnacle": {
+        "Wieczysta Kraków": 2.19,
+        "Śląsk Wrocław": 3.11,
+        "Draw": 3.83
+      },
+      "1xBet": {
+        "Wieczysta Kraków": 2.23,
+        "Śląsk Wrocław": 2.98,
+        "Draw": 3.73
+      },
+      "888sport": {
+        "Wieczysta Kraków": 2.15,
+        "Śląsk Wrocław": 2.9,
+        "Draw": 3.3
+      },
+      "Tipico": {
+        "Wieczysta Kraków": 2.1,
+        "Śląsk Wrocław": 3.0,
+        "Draw": 3.4
+      },
+      "Codere (IT)": {
+        "Wieczysta Kraków": 2.14,
+        "Śląsk Wrocław": 2.9,
+        "Draw": 3.6
+      },
+      "BetOnline.ag": {
+        "Wieczysta Kraków": 2.18,
+        "Śląsk Wrocław": 3.0,
+        "Draw": 3.7
+      },
+      "Betfair": {
+        "Wieczysta Kraków": 2.22,
+        "Śląsk Wrocław": 3.15,
+        "Draw": 4.1
+      },
+      "Matchbook": {
+        "Wieczysta Kraków": 2.18,
+        "Śląsk Wrocław": 3.25,
+        "Draw": 4.1
+      }
+    },
+    "c9b6c7048d8dc33dae618f67f462f67a:h2h": {
+      "Pinnacle": {
+        "Fiorentina": 7.75,
+        "Inter Milan": 1.38,
+        "Draw": 5.6
+      },
+      "Winamax (DE)": {
+        "Fiorentina": 7.25,
+        "Inter Milan": 1.33,
+        "Draw": 5.7
+      },
+      "Winamax (FR)": {
+        "Fiorentina": 6.75,
+        "Inter Milan": 1.3,
+        "Draw": 5.3
+      },
+      "Unibet (FR)": {
+        "Fiorentina": 6.0,
+        "Inter Milan": 1.33,
+        "Draw": 5.0
+      },
+      "Betclic (FR)": {
+        "Fiorentina": 7.0,
+        "Inter Milan": 1.29,
+        "Draw": 5.5
+      },
+      "1xBet": {
+        "Fiorentina": 7.22,
+        "Inter Milan": 1.43,
+        "Draw": 5.62
+      },
+      "Tipico": {
+        "Fiorentina": 7.5,
+        "Inter Milan": 1.33,
+        "Draw": 5.7
+      },
+      "Marathon Bet": {
+        "Fiorentina": 7.0,
+        "Inter Milan": 1.39,
+        "Draw": 5.45
+      },
+      "888sport": {
+        "Fiorentina": 7.0,
+        "Inter Milan": 1.33,
+        "Draw": 5.0
+      },
+      "William Hill": {
+        "Fiorentina": 7.0,
+        "Inter Milan": 1.35,
+        "Draw": 5.0
+      },
+      "PMU (FR)": {
+        "Fiorentina": 7.5,
+        "Inter Milan": 1.3,
+        "Draw": 5.0
+      },
+      "Unibet (NL)": {
+        "Fiorentina": 8.0,
+        "Inter Milan": 1.34,
+        "Draw": 5.5
+      },
+      "Unibet (SE)": {
+        "Fiorentina": 8.5,
+        "Inter Milan": 1.36,
+        "Draw": 5.75
+      },
+      "LeoVegas (SE)": {
+        "Fiorentina": 7.5,
+        "Inter Milan": 1.32,
+        "Draw": 5.2
+      },
+      "Nordic Bet": {
+        "Fiorentina": 6.9,
+        "Inter Milan": 1.37,
         "Draw": 5.35
       },
       "Betsson": {
-        "San Diego FC": 32.0,
-        "Seattle Sounders FC": 1.18,
-        "Draw": 4.6
+        "Fiorentina": 7.3,
+        "Inter Milan": 1.36,
+        "Draw": 5.55
       },
-      "Tipico": {
-        "San Diego FC": 22.0,
-        "Seattle Sounders FC": 3.1,
-        "Draw": 1.35
-      }
-    },
-    "5e009bd6c0a10ead492bc214f637512c:h2h": {
-      "Unibet (SE)": {
-        "Pumas": 1.28,
-        "Tigres": 15.0,
-        "Draw": 4.4
+      "Codere (IT)": {
+        "Fiorentina": 6.6,
+        "Inter Milan": 1.4,
+        "Draw": 5.4
       },
-      "PMU (FR)": {
-        "Pumas": 1.17,
-        "Tigres": 11.5,
-        "Draw": 3.8
-      },
-      "Unibet (NL)": {
-        "Pumas": 1.28,
-        "Tigres": 15.0,
-        "Draw": 4.4
-      },
-      "LeoVegas (SE)": {
-        "Pumas": 1.24,
-        "Tigres": 12.0,
-        "Draw": 4.0
-      },
-      "Betclic (FR)": {
-        "Pumas": 1.28,
-        "Tigres": 10.25,
-        "Draw": 3.9
-      },
-      "888sport": {
-        "Pumas": 1.29,
-        "Tigres": 10.0,
-        "Draw": 3.9
-      },
-      "Marathon Bet": {
-        "Pumas": 1.26,
-        "Tigres": 12.25,
-        "Draw": 4.4
-      },
-      "Betfair": {
-        "Pumas": 1.37,
-        "Tigres": 14.0,
-        "Draw": 4.7
-      },
-      "Nordic Bet": {
-        "Pumas": 1.28,
-        "Tigres": 12.5,
-        "Draw": 4.2
-      },
-      "Betsson": {
-        "Pumas": 1.28,
-        "Tigres": 12.5,
-        "Draw": 4.2
-      },
-      "Coolbet": {
-        "Pumas": 1.33,
-        "Tigres": 15.0,
-        "Draw": 4.5
+      "Everygame": {
+        "Fiorentina": 7.25,
+        "Inter Milan": 1.36,
+        "Draw": 5.5
       },
       "Matchbook": {
-        "Pumas": 1.4,
-        "Tigres": 12.5,
-        "Draw": 4.4
-      },
-      "Pinnacle": {
-        "Pumas": 2.53,
-        "Tigres": 3.59,
-        "Draw": 2.6
-      },
-      "Tipico": {
-        "Pumas": 1.22,
-        "Tigres": 15.0,
-        "Draw": 4.5
-      }
-    },
-    "d689d6bfb9e37c6a3d64bf2a2026e52f:h2h": {
-      "Winamax (DE)": {
-        "Adelaide United": 1.84,
-        "Sydney FC": 3.85,
-        "Draw": 3.3
-      },
-      "Winamax (FR)": {
-        "Adelaide United": 1.8,
-        "Sydney FC": 3.7,
-        "Draw": 3.2
-      },
-      "Unibet (FR)": {
-        "Adelaide United": 1.8,
-        "Sydney FC": 3.7,
-        "Draw": 3.15
-      },
-      "Nordic Bet": {
-        "Adelaide United": 1.85,
-        "Sydney FC": 3.9,
-        "Draw": 3.4
-      },
-      "Betsson": {
-        "Adelaide United": 1.85,
-        "Sydney FC": 3.9,
-        "Draw": 3.4
-      },
-      "Marathon Bet": {
-        "Adelaide United": 1.89,
-        "Sydney FC": 3.9,
-        "Draw": 3.42
+        "Fiorentina": 8.2,
+        "Inter Milan": 1.39,
+        "Draw": 6.0
       },
       "Betfair": {
-        "Adelaide United": 1.99,
-        "Sydney FC": 4.4,
-        "Draw": 3.5
+        "Fiorentina": 8.4,
+        "Inter Milan": 1.39,
+        "Draw": 5.9
       },
-      "LeoVegas (SE)": {
-        "Adelaide United": 1.82,
-        "Sydney FC": 3.85,
-        "Draw": 3.25
+      "GTbets": {
+        "Fiorentina": 7.04,
+        "Inter Milan": 1.36,
+        "Draw": 5.59
       },
-      "Unibet (SE)": {
-        "Adelaide United": 1.93,
-        "Sydney FC": 4.25,
-        "Draw": 3.5
-      },
-      "PMU (FR)": {
-        "Adelaide United": 1.68,
-        "Sydney FC": 3.6,
-        "Draw": 3.0
-      },
-      "Unibet (NL)": {
-        "Adelaide United": 1.83,
-        "Sydney FC": 3.9,
-        "Draw": 3.3
-      },
-      "Pinnacle": {
-        "Adelaide United": 1.93,
-        "Sydney FC": 4.12,
-        "Draw": 3.4
+      "BetOnline.ag": {
+        "Fiorentina": 8.0,
+        "Inter Milan": 1.37,
+        "Draw": 5.55
       },
       "Coolbet": {
-        "Adelaide United": 1.91,
-        "Sydney FC": 4.0,
-        "Draw": 3.6
+        "Fiorentina": 7.5,
+        "Inter Milan": 1.39,
+        "Draw": 5.6
       },
-      "Matchbook": {
-        "Adelaide United": 2.0,
-        "Sydney FC": 4.5,
-        "Draw": 3.4
+      "BetAnything": {
+        "Fiorentina": 8.0,
+        "Inter Milan": 1.37,
+        "Draw": 5.55
       }
     }
   },
@@ -4219,48 +4254,77 @@
       "confidence": 64,
       "alert_type": "value",
       "alerted_at": "2026-10-25T04:32:04.520016+00:00"
+    },
+    {
+      "state_key": "da3753d6380deada02ed04ab49cb230f:h2h",
+      "event_id": "da3753d6380deada02ed04ab49cb230f",
+      "sport_key": "soccer",
+      "competition": "Premier League - Russia",
+      "home_team": "FK Rostov",
+      "away_team": "Lokomotiv Moscow",
+      "commence_time": "2026-10-25T10:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Lokomotiv Moscow",
+      "odds_at_alert": 23.0,
+      "stake_pct": 5.0,
+      "confidence": 556,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T11:16:03.489252+00:00"
+    },
+    {
+      "state_key": "da3753d6380deada02ed04ab49cb230f:h2h",
+      "event_id": "da3753d6380deada02ed04ab49cb230f",
+      "sport_key": "soccer",
+      "competition": "Premier League - Russia",
+      "home_team": "FK Rostov",
+      "away_team": "Lokomotiv Moscow",
+      "commence_time": "2026-10-25T10:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 8.5,
+      "stake_pct": 5.0,
+      "confidence": 157,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T11:16:03.864779+00:00"
+    },
+    {
+      "state_key": "c9b6c7048d8dc33dae618f67f462f67a:h2h",
+      "event_id": "c9b6c7048d8dc33dae618f67f462f67a",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Inter Milan",
+      "away_team": "Fiorentina",
+      "commence_time": "2026-10-25T11:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Fiorentina",
+      "odds_at_alert": 8.5,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T11:16:04.217337+00:00"
+    },
+    {
+      "state_key": "c9b6c7048d8dc33dae618f67f462f67a:h2h",
+      "event_id": "c9b6c7048d8dc33dae618f67f462f67a",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Inter Milan",
+      "away_team": "Fiorentina",
+      "commence_time": "2026-10-25T11:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Fiorentina",
+      "odds_at_alert": 8.4,
+      "stake_pct": 2.0,
+      "confidence": 5,
+      "alert_type": "value",
+      "alerted_at": "2026-10-25T11:16:04.658374+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "1acbabd3fd01b5ec9a9bdc1b8cca438a:h2h|888sport|Charlotte FC",
-    "1acbabd3fd01b5ec9a9bdc1b8cca438a:h2h|888sport|Portland Timbers",
-    "1acbabd3fd01b5ec9a9bdc1b8cca438a:h2h|Betsson|Charlotte FC",
-    "1acbabd3fd01b5ec9a9bdc1b8cca438a:h2h|Betsson|Portland Timbers",
-    "1acbabd3fd01b5ec9a9bdc1b8cca438a:h2h|LeoVegas (SE)|Charlotte FC",
-    "1acbabd3fd01b5ec9a9bdc1b8cca438a:h2h|LeoVegas (SE)|Portland Timbers",
-    "1acbabd3fd01b5ec9a9bdc1b8cca438a:h2h|MyBookie.ag|Draw",
-    "1acbabd3fd01b5ec9a9bdc1b8cca438a:h2h|Nordic Bet|Charlotte FC",
-    "1acbabd3fd01b5ec9a9bdc1b8cca438a:h2h|Nordic Bet|Portland Timbers",
-    "1acbabd3fd01b5ec9a9bdc1b8cca438a:h2h|PMU (FR)|Portland Timbers",
-    "1acbabd3fd01b5ec9a9bdc1b8cca438a:h2h|Unibet (NL)|Charlotte FC",
-    "1acbabd3fd01b5ec9a9bdc1b8cca438a:h2h|Unibet (NL)|Portland Timbers",
-    "1acbabd3fd01b5ec9a9bdc1b8cca438a:h2h|Unibet (SE)|Portland Timbers",
-    "5e009bd6c0a10ead492bc214f637512c:h2h|888sport|Draw",
-    "5e009bd6c0a10ead492bc214f637512c:h2h|888sport|Tigres",
-    "5e009bd6c0a10ead492bc214f637512c:h2h|Betclic (FR)|Draw",
-    "5e009bd6c0a10ead492bc214f637512c:h2h|Betclic (FR)|Tigres",
-    "5e009bd6c0a10ead492bc214f637512c:h2h|Betfair|Draw",
-    "5e009bd6c0a10ead492bc214f637512c:h2h|Betfair|Tigres",
-    "5e009bd6c0a10ead492bc214f637512c:h2h|Betsson|Draw",
-    "5e009bd6c0a10ead492bc214f637512c:h2h|Betsson|Tigres",
-    "5e009bd6c0a10ead492bc214f637512c:h2h|Coolbet|Draw",
-    "5e009bd6c0a10ead492bc214f637512c:h2h|Coolbet|Tigres",
-    "5e009bd6c0a10ead492bc214f637512c:h2h|LeoVegas (SE)|Draw",
-    "5e009bd6c0a10ead492bc214f637512c:h2h|LeoVegas (SE)|Tigres",
-    "5e009bd6c0a10ead492bc214f637512c:h2h|Marathon Bet|Draw",
-    "5e009bd6c0a10ead492bc214f637512c:h2h|Marathon Bet|Tigres",
-    "5e009bd6c0a10ead492bc214f637512c:h2h|Matchbook|Draw",
-    "5e009bd6c0a10ead492bc214f637512c:h2h|Matchbook|Tigres",
-    "5e009bd6c0a10ead492bc214f637512c:h2h|Nordic Bet|Draw",
-    "5e009bd6c0a10ead492bc214f637512c:h2h|Nordic Bet|Tigres",
-    "5e009bd6c0a10ead492bc214f637512c:h2h|PMU (FR)|Draw",
-    "5e009bd6c0a10ead492bc214f637512c:h2h|PMU (FR)|Tigres",
-    "5e009bd6c0a10ead492bc214f637512c:h2h|Tipico|Draw",
-    "5e009bd6c0a10ead492bc214f637512c:h2h|Tipico|Tigres",
-    "5e009bd6c0a10ead492bc214f637512c:h2h|Unibet (NL)|Draw",
-    "5e009bd6c0a10ead492bc214f637512c:h2h|Unibet (NL)|Tigres",
-    "5e009bd6c0a10ead492bc214f637512c:h2h|Unibet (SE)|Draw",
-    "5e009bd6c0a10ead492bc214f637512c:h2h|Unibet (SE)|Tigres"
+    "c9b6c7048d8dc33dae618f67f462f67a:h2h|Betfair|Fiorentina",
+    "c9b6c7048d8dc33dae618f67f462f67a:h2h|Unibet (SE)|Fiorentina",
+    "da3753d6380deada02ed04ab49cb230f:h2h|Marathon Bet|Draw",
+    "da3753d6380deada02ed04ab49cb230f:h2h|Marathon Bet|Lokomotiv Moscow"
   ]
 }
