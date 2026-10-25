@@ -1,210 +1,156 @@
 {
   "snapshots": {
-    "c177a3c900d7febf9870ca8de90a9e35:h2h": {
-      "Winamax (FR)": {
-        "AS Monaco": 13.0,
-        "Lille": 50.0,
-        "Draw": 1.05
+    "42d9cb76081eef7fe999b394fea6afb5:h2h": {
+      "Unibet (FR)": {
+        "AGF Aarhus": 1.01,
+        "Viborg FF": 100.0,
+        "Draw": 6.0
+      },
+      "Betclic (FR)": {
+        "AGF Aarhus": 1.01,
+        "Viborg FF": 100.0,
+        "Draw": 12.0
+      },
+      "Betfair": {
+        "AGF Aarhus": 1.01,
+        "Viborg FF": 34.0,
+        "Draw": 34.0
       },
       "Winamax (DE)": {
-        "AS Monaco": 14.0,
-        "Lille": 50.0,
-        "Draw": 1.05
+        "AGF Aarhus": 1.01,
+        "Viborg FF": 1000.0,
+        "Draw": 21.0
+      },
+      "Winamax (FR)": {
+        "AGF Aarhus": 1.02,
+        "Viborg FF": 1000.0,
+        "Draw": 20.0
+      },
+      "Nordic Bet": {
+        "AGF Aarhus": 1.01,
+        "Viborg FF": 150.0,
+        "Draw": 13.0
+      },
+      "Betsson": {
+        "AGF Aarhus": 1.0,
+        "Viborg FF": 81.0,
+        "Draw": 17.0
       },
       "888sport": {
-        "AS Monaco": 7.0,
-        "Lille": 23.0,
-        "Draw": 1.12
-      },
-      "Unibet (FR)": {
-        "AS Monaco": 10.0,
-        "Lille": 35.0,
-        "Draw": 1.03
-      },
-      "Tipico": {
-        "AS Monaco": 7.5,
-        "Lille": 35.0,
-        "Draw": 1.08
-      },
-      "Betclic (FR)": {
-        "AS Monaco": 10.0,
-        "Lille": 26.0,
-        "Draw": 1.03
-      },
-      "Betfair": {
-        "AS Monaco": 110.0,
-        "Lille": 110.0
-      },
-      "Pinnacle": {
-        "AS Monaco": 4.12,
-        "Lille": 35.93,
-        "Draw": 1.27
-      },
-      "LeoVegas (SE)": {
-        "AS Monaco": 7.0,
-        "Lille": 41.0,
-        "Draw": 1.08
-      },
-      "PMU (FR)": {
-        "AS Monaco": 7.5,
-        "Lille": 41.0,
-        "Draw": 1.03
-      },
-      "Unibet (NL)": {
-        "AS Monaco": 8.0,
-        "Lille": 51.0,
-        "Draw": 1.09
-      },
-      "Unibet (SE)": {
-        "AS Monaco": 7.5,
-        "Lille": 51.0,
-        "Draw": 1.1
+        "AGF Aarhus": 1.08,
+        "Viborg FF": 71.0,
+        "Draw": 8.0
       },
       "Coolbet": {
-        "AS Monaco": 12.0,
-        "Lille": 66.0,
-        "Draw": 1.06
-      },
-      "Nordic Bet": {
-        "AS Monaco": 9.1,
-        "Lille": 39.0,
-        "Draw": 1.05
-      },
-      "Betsson": {
-        "AS Monaco": 13.0,
-        "Lille": 41.0,
-        "Draw": 1.04
+        "AGF Aarhus": 1.0,
+        "Viborg FF": 100.0,
+        "Draw": 16.0
       }
     },
-    "63aa6e3f679ee4c68de5b4bd8d3361bb:h2h": {
-      "Pinnacle": {
-        "Atalanta BC": 1.27,
-        "Frosinone": 20.53,
-        "Draw": 4.75
-      },
-      "Winamax (DE)": {
-        "Atalanta BC": 24.0,
-        "Frosinone": 27.0,
-        "Draw": 1.04
-      },
-      "Winamax (FR)": {
-        "Atalanta BC": 16.0,
-        "Frosinone": 18.0,
-        "Draw": 1.07
-      },
-      "Unibet (FR)": {
-        "Atalanta BC": 11.0,
-        "Frosinone": 14.5,
-        "Draw": 1.02
-      },
+    "63af660d4d0d52f8ac7685172ef939c4:h2h": {
       "Betclic (FR)": {
-        "Atalanta BC": 9.0,
-        "Frosinone": 10.75,
-        "Draw": 1.09
-      },
-      "Tipico": {
-        "Atalanta BC": 13.0,
-        "Frosinone": 20.0,
-        "Draw": 1.04
-      },
-      "LeoVegas (SE)": {
-        "Atalanta BC": 35.0,
-        "Frosinone": 13.0,
-        "Draw": 1.02
-      },
-      "PMU (FR)": {
-        "Atalanta BC": 13.0,
-        "Frosinone": 15.0,
-        "Draw": 1.02
-      },
-      "Unibet (NL)": {
-        "Atalanta BC": 36.0,
-        "Frosinone": 14.0,
-        "Draw": 1.04
-      },
-      "Unibet (SE)": {
-        "Atalanta BC": 36.0,
-        "Frosinone": 14.0,
-        "Draw": 1.04
-      },
-      "Nordic Bet": {
-        "Atalanta BC": 16.0,
-        "Frosinone": 14.0,
-        "Draw": 1.04
-      },
-      "Betsson": {
-        "Atalanta BC": 11.5,
-        "Frosinone": 14.0,
-        "Draw": 1.07
-      },
-      "Betfair": {
-        "Atalanta BC": 1.2,
-        "Frosinone": 1.2,
-        "Draw": 1.01
-      },
-      "Coolbet": {
-        "Atalanta BC": 20.0,
-        "Frosinone": 18.0,
-        "Draw": 1.06
-      }
-    },
-    "33fb7467b23c91d57dc976d9ab05ea97:h2h": {
-      "Betclic (FR)": {
-        "Bournemouth": 1.0,
-        "Manchester United": 100.0,
+        "Juventus": 1.0,
+        "Lecce": 100.0,
         "Draw": 75.0
       },
-      "Betsson": {
-        "Bournemouth": 1.0,
-        "Manchester United": 34.0,
-        "Draw": 29.0
+      "Winamax (FR)": {
+        "Juventus": 1.01,
+        "Lecce": 350.0,
+        "Draw": 42.0
+      },
+      "Winamax (DE)": {
+        "Juventus": 1.01,
+        "Lecce": 350.0,
+        "Draw": 42.0
+      },
+      "888sport": {
+        "Juventus": 1.0,
+        "Lecce": 151.0,
+        "Draw": 61.0
       },
       "Nordic Bet": {
-        "Bournemouth": 1.0,
-        "Manchester United": 34.0,
+        "Juventus": 1.0,
+        "Lecce": 34.0,
         "Draw": 29.0
-      }
-    },
-    "69493b5ebb84f24ab1d6023a30ee89f0:h2h": {
-      "Winamax (DE)": {
-        "Brentford": 21.0,
-        "Hull City": 38.0,
-        "Draw": 1.03
-      },
-      "Betclic (FR)": {
-        "Brentford": 12.0,
-        "Hull City": 19.0,
-        "Draw": 1.02
-      },
-      "Winamax (FR)": {
-        "Brentford": 20.0,
-        "Hull City": 38.0,
-        "Draw": 1.04
-      },
-      "MyBookie.ag": {
-        "Brentford": 6.0,
-        "Hull City": 11.75,
-        "Draw": 1.06
-      },
-      "Betfair": {
-        "Brentford": 25.0,
-        "Hull City": 50.0,
-        "Draw": 1.04
-      },
-      "Tipico": {
-        "Brentford": 12.0,
-        "Hull City": 30.0,
-        "Draw": 1.03
-      },
-      "Pinnacle": {
-        "Brentford": 8.68,
-        "Hull City": 20.12,
-        "Draw": 1.12
       },
       "Betsson": {
-        "Brentford": 19.0,
-        "Hull City": 34.0,
-        "Draw": 1.02
+        "Juventus": 1.0,
+        "Lecce": 34.0,
+        "Draw": 29.0
+      },
+      "Betfair": {
+        "Juventus": 1.01,
+        "Lecce": 1000.0,
+        "Draw": 50.0
+      }
+    },
+    "7da4e4e9cc508df1421dc9d4b2618056:h2h": {
+      "Winamax (DE)": {
+        "Aris Thessaloniki": 1.01,
+        "Atromitos Athens": 130.0,
+        "Draw": 28.0
+      },
+      "Nordic Bet": {
+        "Aris Thessaloniki": 1.0,
+        "Atromitos Athens": 51.0,
+        "Draw": 17.0
+      },
+      "Betsson": {
+        "Aris Thessaloniki": 1.0,
+        "Atromitos Athens": 51.0,
+        "Draw": 17.0
+      },
+      "Betclic (FR)": {
+        "Aris Thessaloniki": 1.0,
+        "Atromitos Athens": 40.0,
+        "Draw": 15.0
+      },
+      "Winamax (FR)": {
+        "Aris Thessaloniki": 1.02,
+        "Atromitos Athens": 130.0,
+        "Draw": 29.0
+      },
+      "888sport": {
+        "Aris Thessaloniki": 1.01,
+        "Atromitos Athens": 101.0,
+        "Draw": 29.0
+      },
+      "Coolbet": {
+        "Aris Thessaloniki": 1.0,
+        "Atromitos Athens": 50.0,
+        "Draw": 18.0
+      },
+      "Unibet (FR)": {
+        "Aris Thessaloniki": 1.01,
+        "Atromitos Athens": 45.0,
+        "Draw": 7.0
+      },
+      "Betfair": {
+        "Aris Thessaloniki": 1.02,
+        "Atromitos Athens": 11.5,
+        "Draw": 38.0
+      }
+    },
+    "0911f42b66dd1f6544db407bccaeed07:h2h": {
+      "Nordic Bet": {
+        "CD Castellón": 1.0,
+        "Sporting Gijón": 36.0,
+        "Draw": 21.0
+      },
+      "Betsson": {
+        "CD Castellón": 1.0,
+        "Sporting Gijón": 36.0,
+        "Draw": 21.0
+      },
+      "Betclic (FR)": {
+        "CD Castellón": 1.0,
+        "Sporting Gijón": 90.0,
+        "Draw": 40.0
+      },
+      "Betfair": {
+        "CD Castellón": 1.01,
+        "Sporting Gijón": 170.0,
+        "Draw": 95.0
       }
     }
   },
@@ -4932,53 +4878,5 @@
     }
   ],
   "results_history": [],
-  "value_alerted": [
-    "63aa6e3f679ee4c68de5b4bd8d3361bb:h2h|Betclic (FR)|Atalanta BC",
-    "63aa6e3f679ee4c68de5b4bd8d3361bb:h2h|Betsson|Atalanta BC",
-    "63aa6e3f679ee4c68de5b4bd8d3361bb:h2h|Coolbet|Atalanta BC",
-    "63aa6e3f679ee4c68de5b4bd8d3361bb:h2h|LeoVegas (SE)|Atalanta BC",
-    "63aa6e3f679ee4c68de5b4bd8d3361bb:h2h|Nordic Bet|Atalanta BC",
-    "63aa6e3f679ee4c68de5b4bd8d3361bb:h2h|PMU (FR)|Atalanta BC",
-    "63aa6e3f679ee4c68de5b4bd8d3361bb:h2h|Tipico|Atalanta BC",
-    "63aa6e3f679ee4c68de5b4bd8d3361bb:h2h|Unibet (FR)|Atalanta BC",
-    "63aa6e3f679ee4c68de5b4bd8d3361bb:h2h|Unibet (NL)|Atalanta BC",
-    "63aa6e3f679ee4c68de5b4bd8d3361bb:h2h|Unibet (SE)|Atalanta BC",
-    "63aa6e3f679ee4c68de5b4bd8d3361bb:h2h|Winamax (DE)|Atalanta BC",
-    "63aa6e3f679ee4c68de5b4bd8d3361bb:h2h|Winamax (DE)|Frosinone",
-    "63aa6e3f679ee4c68de5b4bd8d3361bb:h2h|Winamax (FR)|Atalanta BC",
-    "69493b5ebb84f24ab1d6023a30ee89f0:h2h|Betclic (FR)|Brentford",
-    "69493b5ebb84f24ab1d6023a30ee89f0:h2h|Betfair|Brentford",
-    "69493b5ebb84f24ab1d6023a30ee89f0:h2h|Betfair|Hull City",
-    "69493b5ebb84f24ab1d6023a30ee89f0:h2h|Betsson|Brentford",
-    "69493b5ebb84f24ab1d6023a30ee89f0:h2h|Betsson|Hull City",
-    "69493b5ebb84f24ab1d6023a30ee89f0:h2h|Tipico|Brentford",
-    "69493b5ebb84f24ab1d6023a30ee89f0:h2h|Tipico|Hull City",
-    "69493b5ebb84f24ab1d6023a30ee89f0:h2h|Winamax (DE)|Brentford",
-    "69493b5ebb84f24ab1d6023a30ee89f0:h2h|Winamax (DE)|Hull City",
-    "69493b5ebb84f24ab1d6023a30ee89f0:h2h|Winamax (FR)|Brentford",
-    "69493b5ebb84f24ab1d6023a30ee89f0:h2h|Winamax (FR)|Hull City",
-    "c177a3c900d7febf9870ca8de90a9e35:h2h|888sport|AS Monaco",
-    "c177a3c900d7febf9870ca8de90a9e35:h2h|Betclic (FR)|AS Monaco",
-    "c177a3c900d7febf9870ca8de90a9e35:h2h|Betfair|AS Monaco",
-    "c177a3c900d7febf9870ca8de90a9e35:h2h|Betfair|Lille",
-    "c177a3c900d7febf9870ca8de90a9e35:h2h|Betsson|AS Monaco",
-    "c177a3c900d7febf9870ca8de90a9e35:h2h|Betsson|Lille",
-    "c177a3c900d7febf9870ca8de90a9e35:h2h|Coolbet|AS Monaco",
-    "c177a3c900d7febf9870ca8de90a9e35:h2h|Coolbet|Lille",
-    "c177a3c900d7febf9870ca8de90a9e35:h2h|LeoVegas (SE)|AS Monaco",
-    "c177a3c900d7febf9870ca8de90a9e35:h2h|LeoVegas (SE)|Lille",
-    "c177a3c900d7febf9870ca8de90a9e35:h2h|Nordic Bet|AS Monaco",
-    "c177a3c900d7febf9870ca8de90a9e35:h2h|PMU (FR)|AS Monaco",
-    "c177a3c900d7febf9870ca8de90a9e35:h2h|PMU (FR)|Lille",
-    "c177a3c900d7febf9870ca8de90a9e35:h2h|Tipico|AS Monaco",
-    "c177a3c900d7febf9870ca8de90a9e35:h2h|Unibet (FR)|AS Monaco",
-    "c177a3c900d7febf9870ca8de90a9e35:h2h|Unibet (NL)|AS Monaco",
-    "c177a3c900d7febf9870ca8de90a9e35:h2h|Unibet (NL)|Lille",
-    "c177a3c900d7febf9870ca8de90a9e35:h2h|Unibet (SE)|AS Monaco",
-    "c177a3c900d7febf9870ca8de90a9e35:h2h|Unibet (SE)|Lille",
-    "c177a3c900d7febf9870ca8de90a9e35:h2h|Winamax (DE)|AS Monaco",
-    "c177a3c900d7febf9870ca8de90a9e35:h2h|Winamax (DE)|Lille",
-    "c177a3c900d7febf9870ca8de90a9e35:h2h|Winamax (FR)|AS Monaco",
-    "c177a3c900d7febf9870ca8de90a9e35:h2h|Winamax (FR)|Lille"
-  ]
+  "value_alerted": []
 }
