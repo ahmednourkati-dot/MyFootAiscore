@@ -1,72 +1,5 @@
 {
   "snapshots": {
-    "ee46435bae186edae24ac42d46c055d0:h2h": {
-      "LeoVegas (SE)": {
-        "Santos Laguna": 26.0,
-        "Tijuana": 1.02,
-        "Draw": 10.0
-      },
-      "Unibet (SE)": {
-        "Santos Laguna": 26.0,
-        "Tijuana": 1.07,
-        "Draw": 10.5
-      },
-      "Unibet (NL)": {
-        "Santos Laguna": 26.0,
-        "Tijuana": 1.07,
-        "Draw": 10.5
-      },
-      "Betclic (FR)": {
-        "Santos Laguna": 18.75,
-        "Tijuana": 1.05,
-        "Draw": 8.5
-      },
-      "Coolbet": {
-        "Santos Laguna": 40.0,
-        "Tijuana": 1.08,
-        "Draw": 12.0
-      },
-      "888sport": {
-        "Santos Laguna": 26.0,
-        "Tijuana": 1.06,
-        "Draw": 9.0
-      },
-      "Marathon Bet": {
-        "Santos Laguna": 27.0,
-        "Tijuana": 1.03,
-        "Draw": 10.25
-      },
-      "Betfair": {
-        "Santos Laguna": 38.0,
-        "Tijuana": 1.1,
-        "Draw": 12.0
-      },
-      "Betsson": {
-        "Santos Laguna": 30.0,
-        "Tijuana": 1.04,
-        "Draw": 9.6
-      },
-      "Nordic Bet": {
-        "Santos Laguna": 30.0,
-        "Tijuana": 1.04,
-        "Draw": 9.6
-      },
-      "Pinnacle": {
-        "Santos Laguna": 30.76,
-        "Tijuana": 1.1,
-        "Draw": 9.89
-      },
-      "Matchbook": {
-        "Santos Laguna": 38.0,
-        "Tijuana": 1.1,
-        "Draw": 13.0
-      },
-      "Tipico": {
-        "Santos Laguna": 18.0,
-        "Tijuana": 1.03,
-        "Draw": 12.0
-      }
-    },
     "54ecd2cf77168d62e84f2fd5ccc54a82:h2h": {
       "Unibet (FR)": {
         "Basaksehir": 6.5,
@@ -79,12 +12,12 @@
         "Draw": 5.05
       },
       "Winamax (DE)": {
-        "Basaksehir": 6.0,
-        "Besiktas JK": 1.33,
-        "Draw": 5.3
+        "Basaksehir": 6.5,
+        "Besiktas JK": 1.32,
+        "Draw": 5.4
       },
       "Betclic (FR)": {
-        "Basaksehir": 6.5,
+        "Basaksehir": 6.6,
         "Besiktas JK": 1.33,
         "Draw": 5.1
       },
@@ -94,9 +27,9 @@
         "Draw": 5.0
       },
       "Winamax (FR)": {
-        "Basaksehir": 5.6,
-        "Besiktas JK": 1.29,
-        "Draw": 4.9
+        "Basaksehir": 6.25,
+        "Besiktas JK": 1.31,
+        "Draw": 5.2
       },
       "Marathon Bet": {
         "Basaksehir": 7.5,
@@ -119,9 +52,9 @@
         "Draw": 5.7
       },
       "Coolbet": {
-        "Basaksehir": 7.5,
-        "Besiktas JK": 1.37,
-        "Draw": 5.25
+        "Basaksehir": 7.75,
+        "Besiktas JK": 1.35,
+        "Draw": 5.5
       },
       "Unibet (NL)": {
         "Basaksehir": 7.5,
@@ -149,61 +82,61 @@
         "Draw": 5.4
       },
       "Pinnacle": {
-        "Basaksehir": 7.43,
+        "Basaksehir": 7.35,
         "Besiktas JK": 1.38,
-        "Draw": 5.5
+        "Draw": 5.59
       },
       "GTbets": {
-        "Basaksehir": 7.85,
+        "Basaksehir": 7.35,
         "Besiktas JK": 1.37,
         "Draw": 5.19
       },
       "BetOnline.ag": {
         "Basaksehir": 6.95,
-        "Besiktas JK": 1.39,
-        "Draw": 5.35
+        "Besiktas JK": 1.38,
+        "Draw": 5.55
       },
       "Betfair": {
-        "Basaksehir": 8.6,
+        "Basaksehir": 8.2,
         "Besiktas JK": 1.39,
-        "Draw": 5.6
+        "Draw": 6.0
       },
       "Matchbook": {
-        "Basaksehir": 8.6,
+        "Basaksehir": 8.4,
         "Besiktas JK": 1.39,
-        "Draw": 5.5
+        "Draw": 6.0
       }
     },
     "e1c9aa56abe5e911eb57403d78376270:h2h": {
       "Betsson": {
-        "Trabzonspor": 1.92,
-        "Çaykur Rizespor": 3.55,
-        "Draw": 3.7
+        "Trabzonspor": 1.82,
+        "Çaykur Rizespor": 3.75,
+        "Draw": 3.85
       },
       "Unibet (FR)": {
-        "Trabzonspor": 1.79,
-        "Çaykur Rizespor": 3.4,
-        "Draw": 3.65
-      },
-      "Winamax (DE)": {
-        "Trabzonspor": 1.9,
-        "Çaykur Rizespor": 3.3,
+        "Trabzonspor": 1.7,
+        "Çaykur Rizespor": 3.65,
         "Draw": 3.75
       },
+      "Winamax (DE)": {
+        "Trabzonspor": 1.8,
+        "Çaykur Rizespor": 3.55,
+        "Draw": 3.9
+      },
       "Winamax (FR)": {
-        "Trabzonspor": 1.86,
-        "Çaykur Rizespor": 3.25,
-        "Draw": 3.7
+        "Trabzonspor": 1.76,
+        "Çaykur Rizespor": 3.45,
+        "Draw": 3.8
       },
       "Nordic Bet": {
-        "Trabzonspor": 1.91,
-        "Çaykur Rizespor": 3.52,
-        "Draw": 3.68
+        "Trabzonspor": 1.81,
+        "Çaykur Rizespor": 3.74,
+        "Draw": 3.84
       },
       "Betclic (FR)": {
-        "Trabzonspor": 1.88,
-        "Çaykur Rizespor": 3.38,
-        "Draw": 3.65
+        "Trabzonspor": 1.78,
+        "Çaykur Rizespor": 3.68,
+        "Draw": 3.75
       },
       "Marathon Bet": {
         "Trabzonspor": 1.9,
@@ -216,49 +149,49 @@
         "Draw": 3.98
       },
       "888sport": {
-        "Trabzonspor": 1.91,
-        "Çaykur Rizespor": 3.4,
-        "Draw": 3.6
+        "Trabzonspor": 1.85,
+        "Çaykur Rizespor": 3.5,
+        "Draw": 3.75
       },
       "Tipico": {
-        "Trabzonspor": 1.87,
-        "Çaykur Rizespor": 3.7,
-        "Draw": 3.8
+        "Trabzonspor": 1.8,
+        "Çaykur Rizespor": 3.9,
+        "Draw": 3.9
       },
       "Codere (IT)": {
-        "Trabzonspor": 1.96,
-        "Çaykur Rizespor": 3.5,
-        "Draw": 3.8
+        "Trabzonspor": 1.86,
+        "Çaykur Rizespor": 3.8,
+        "Draw": 3.9
       },
       "Coolbet": {
-        "Trabzonspor": 1.98,
-        "Çaykur Rizespor": 3.4,
-        "Draw": 4.0
+        "Trabzonspor": 1.9,
+        "Çaykur Rizespor": 3.75,
+        "Draw": 3.85
       },
       "PMU (FR)": {
         "Trabzonspor": 1.76,
         "Çaykur Rizespor": 3.55,
-        "Draw": 3.5
+        "Draw": 3.55
       },
       "Unibet (NL)": {
         "Trabzonspor": 1.85,
-        "Çaykur Rizespor": 3.8,
-        "Draw": 3.75
+        "Çaykur Rizespor": 3.75,
+        "Draw": 3.8
       },
       "Unibet (SE)": {
         "Trabzonspor": 1.85,
-        "Çaykur Rizespor": 3.8,
-        "Draw": 3.75
+        "Çaykur Rizespor": 3.75,
+        "Draw": 3.8
       },
       "LeoVegas (SE)": {
         "Trabzonspor": 1.8,
         "Çaykur Rizespor": 3.6,
-        "Draw": 3.6
+        "Draw": 3.65
       },
       "Pinnacle": {
-        "Trabzonspor": 1.96,
-        "Çaykur Rizespor": 3.63,
-        "Draw": 4.02
+        "Trabzonspor": 1.88,
+        "Çaykur Rizespor": 3.82,
+        "Draw": 4.14
       },
       "GTbets": {
         "Trabzonspor": 1.97,
@@ -266,91 +199,91 @@
         "Draw": 3.74
       },
       "BetOnline.ag": {
-        "Trabzonspor": 1.97,
-        "Çaykur Rizespor": 3.45,
+        "Trabzonspor": 1.93,
+        "Çaykur Rizespor": 3.6,
         "Draw": 3.96
       },
       "Betfair": {
-        "Trabzonspor": 2.0,
-        "Çaykur Rizespor": 3.85,
-        "Draw": 4.0
+        "Trabzonspor": 1.92,
+        "Çaykur Rizespor": 4.0,
+        "Draw": 4.2
       },
       "Matchbook": {
-        "Trabzonspor": 2.0,
-        "Çaykur Rizespor": 3.75,
-        "Draw": 4.0
+        "Trabzonspor": 1.91,
+        "Çaykur Rizespor": 4.0,
+        "Draw": 4.2
       }
     },
     "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h": {
       "Tipico": {
-        "FC Copenhagen": 1.4,
-        "OB Odense BK": 6.2,
-        "Draw": 4.5
+        "FC Copenhagen": 1.35,
+        "OB Odense BK": 6.7,
+        "Draw": 4.8
       },
       "Winamax (DE)": {
-        "FC Copenhagen": 1.43,
-        "OB Odense BK": 5.4,
-        "Draw": 4.7
+        "FC Copenhagen": 1.38,
+        "OB Odense BK": 6.0,
+        "Draw": 4.9
       },
       "Winamax (FR)": {
-        "FC Copenhagen": 1.41,
-        "OB Odense BK": 5.3,
-        "Draw": 4.5
+        "FC Copenhagen": 1.37,
+        "OB Odense BK": 5.8,
+        "Draw": 4.7
       },
       "1xBet": {
-        "FC Copenhagen": 1.45,
-        "OB Odense BK": 5.91,
-        "Draw": 4.7
+        "FC Copenhagen": 1.41,
+        "OB Odense BK": 6.46,
+        "Draw": 4.85
       },
       "Unibet (FR)": {
-        "FC Copenhagen": 1.37,
-        "OB Odense BK": 5.7,
-        "Draw": 4.5
-      },
-      "Betclic (FR)": {
-        "FC Copenhagen": 1.4,
-        "OB Odense BK": 5.6,
+        "FC Copenhagen": 1.36,
+        "OB Odense BK": 5.9,
         "Draw": 4.4
       },
+      "Betclic (FR)": {
+        "FC Copenhagen": 1.37,
+        "OB Odense BK": 6.4,
+        "Draw": 4.7
+      },
       "Betfair": {
-        "FC Copenhagen": 1.51,
-        "OB Odense BK": 6.8,
-        "Draw": 5.1
+        "FC Copenhagen": 1.45,
+        "OB Odense BK": 7.8,
+        "Draw": 5.3
       },
       "Marathon Bet": {
-        "FC Copenhagen": 1.44,
-        "OB Odense BK": 5.9,
-        "Draw": 4.7
+        "FC Copenhagen": 1.4,
+        "OB Odense BK": 6.45,
+        "Draw": 4.85
       },
       "Nordic Bet": {
-        "FC Copenhagen": 1.46,
-        "OB Odense BK": 5.95,
-        "Draw": 4.6
-      },
-      "Betsson": {
-        "FC Copenhagen": 1.48,
-        "OB Odense BK": 6.1,
+        "FC Copenhagen": 1.41,
+        "OB Odense BK": 6.7,
         "Draw": 4.7
       },
+      "Betsson": {
+        "FC Copenhagen": 1.43,
+        "OB Odense BK": 6.9,
+        "Draw": 4.8
+      },
       "888sport": {
-        "FC Copenhagen": 1.44,
-        "OB Odense BK": 5.75,
-        "Draw": 4.5
+        "FC Copenhagen": 1.4,
+        "OB Odense BK": 6.0,
+        "Draw": 4.6
       },
       "William Hill": {
-        "FC Copenhagen": 1.44,
-        "OB Odense BK": 5.5,
-        "Draw": 4.5
+        "FC Copenhagen": 1.4,
+        "OB Odense BK": 6.0,
+        "Draw": 4.6
       },
       "Pinnacle": {
-        "FC Copenhagen": 1.48,
-        "OB Odense BK": 6.0,
-        "Draw": 4.93
+        "FC Copenhagen": 1.45,
+        "OB Odense BK": 6.54,
+        "Draw": 5.15
       },
       "PMU (FR)": {
         "FC Copenhagen": 1.36,
         "OB Odense BK": 6.1,
-        "Draw": 4.35
+        "Draw": 4.4
       },
       "Unibet (SE)": {
         "FC Copenhagen": 1.41,
@@ -358,7 +291,7 @@
         "Draw": 4.7
       },
       "LeoVegas (SE)": {
-        "FC Copenhagen": 1.38,
+        "FC Copenhagen": 1.36,
         "OB Odense BK": 6.25,
         "Draw": 4.4
       },
@@ -369,28 +302,110 @@
       },
       "GTbets": {
         "FC Copenhagen": 1.44,
-        "OB Odense BK": 6.18,
+        "OB Odense BK": 6.5,
         "Draw": 4.68
       },
       "Coolbet": {
-        "FC Copenhagen": 1.44,
+        "FC Copenhagen": 1.43,
         "OB Odense BK": 7.0,
         "Draw": 4.75
       },
       "BetOnline.ag": {
-        "FC Copenhagen": 1.46,
-        "OB Odense BK": 5.9,
-        "Draw": 4.8
+        "FC Copenhagen": 1.43,
+        "OB Odense BK": 6.5,
+        "Draw": 5.05
       },
       "BetAnything": {
-        "FC Copenhagen": 1.46,
-        "OB Odense BK": 5.9,
-        "Draw": 4.8
+        "FC Copenhagen": 1.43,
+        "OB Odense BK": 6.5,
+        "Draw": 5.05
       },
       "Matchbook": {
-        "FC Copenhagen": 1.51,
-        "OB Odense BK": 6.8,
-        "Draw": 5.1
+        "FC Copenhagen": 1.45,
+        "OB Odense BK": 7.8,
+        "Draw": 5.3
+      }
+    },
+    "1890564c20db109024daf7095a8b8ee0:h2h": {
+      "LeoVegas (SE)": {
+        "Falkenbergs FF": 2.43,
+        "Örebro SK": 2.7,
+        "Draw": 3.5
+      },
+      "Unibet (SE)": {
+        "Falkenbergs FF": 2.43,
+        "Örebro SK": 2.7,
+        "Draw": 3.5
+      },
+      "Unibet (NL)": {
+        "Falkenbergs FF": 2.35,
+        "Örebro SK": 2.63,
+        "Draw": 3.35
+      },
+      "Nordic Bet": {
+        "Falkenbergs FF": 2.32,
+        "Örebro SK": 2.8,
+        "Draw": 3.4
+      },
+      "Betsson": {
+        "Falkenbergs FF": 2.36,
+        "Örebro SK": 2.86,
+        "Draw": 3.45
+      },
+      "1xBet": {
+        "Falkenbergs FF": 2.31,
+        "Örebro SK": 2.78,
+        "Draw": 3.48
+      },
+      "BetOnline.ag": {
+        "Falkenbergs FF": 2.3,
+        "Örebro SK": 2.74,
+        "Draw": 3.7
+      },
+      "Pinnacle": {
+        "Falkenbergs FF": 2.31,
+        "Örebro SK": 2.83,
+        "Draw": 3.8
+      },
+      "Betfair": {
+        "Falkenbergs FF": 2.44,
+        "Örebro SK": 2.94,
+        "Draw": 3.8
+      },
+      "Marathon Bet": {
+        "Falkenbergs FF": 2.29,
+        "Örebro SK": 2.76,
+        "Draw": 3.48
+      },
+      "888sport": {
+        "Falkenbergs FF": 2.2,
+        "Örebro SK": 2.62,
+        "Draw": 3.4
+      },
+      "William Hill": {
+        "Falkenbergs FF": 2.2,
+        "Örebro SK": 2.62,
+        "Draw": 3.4
+      },
+      "Tipico": {
+        "Falkenbergs FF": 2.1,
+        "Örebro SK": 2.8,
+        "Draw": 3.5
+      },
+      "Coolbet": {
+        "Falkenbergs FF": 2.28,
+        "Örebro SK": 2.9,
+        "Draw": 3.7
+      },
+      "BetAnything": {
+        "Falkenbergs FF": 2.3,
+        "Örebro SK": 2.74,
+        "Draw": 3.7
+      },
+      "Matchbook": {
+        "Falkenbergs FF": 2.44,
+        "Örebro SK": 2.96,
+        "Draw": 3.8
       }
     }
   },
@@ -5366,13 +5381,6 @@
     "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h|Unibet (SE)|OB Odense BK",
     "54ecd2cf77168d62e84f2fd5ccc54a82:h2h|1xBet|Basaksehir",
     "54ecd2cf77168d62e84f2fd5ccc54a82:h2h|Betfair|Basaksehir",
-    "54ecd2cf77168d62e84f2fd5ccc54a82:h2h|Matchbook|Basaksehir",
-    "ee46435bae186edae24ac42d46c055d0:h2h|Betfair|Draw",
-    "ee46435bae186edae24ac42d46c055d0:h2h|Betfair|Santos Laguna",
-    "ee46435bae186edae24ac42d46c055d0:h2h|Coolbet|Draw",
-    "ee46435bae186edae24ac42d46c055d0:h2h|Coolbet|Santos Laguna",
-    "ee46435bae186edae24ac42d46c055d0:h2h|Matchbook|Draw",
-    "ee46435bae186edae24ac42d46c055d0:h2h|Matchbook|Santos Laguna",
-    "ee46435bae186edae24ac42d46c055d0:h2h|Tipico|Draw"
+    "54ecd2cf77168d62e84f2fd5ccc54a82:h2h|Matchbook|Basaksehir"
   ]
 }
