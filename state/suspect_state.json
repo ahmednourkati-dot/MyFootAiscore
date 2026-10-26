@@ -1,411 +1,281 @@
 {
   "snapshots": {
-    "54ecd2cf77168d62e84f2fd5ccc54a82:h2h": {
-      "Unibet (FR)": {
-        "Basaksehir": 6.5,
-        "Besiktas JK": 1.28,
-        "Draw": 5.1
-      },
-      "Betsson": {
-        "Basaksehir": 7.8,
-        "Besiktas JK": 1.34,
-        "Draw": 5.05
-      },
-      "Winamax (DE)": {
-        "Basaksehir": 6.5,
-        "Besiktas JK": 1.32,
-        "Draw": 5.4
-      },
-      "Betclic (FR)": {
-        "Basaksehir": 6.6,
-        "Besiktas JK": 1.33,
-        "Draw": 5.1
-      },
-      "Nordic Bet": {
-        "Basaksehir": 7.75,
-        "Besiktas JK": 1.33,
-        "Draw": 5.0
-      },
-      "Winamax (FR)": {
-        "Basaksehir": 6.25,
-        "Besiktas JK": 1.31,
-        "Draw": 5.2
-      },
-      "Marathon Bet": {
-        "Basaksehir": 7.5,
-        "Besiktas JK": 1.34,
-        "Draw": 5.1
-      },
-      "1xBet": {
-        "Basaksehir": 8.15,
-        "Besiktas JK": 1.37,
-        "Draw": 5.54
-      },
-      "888sport": {
-        "Basaksehir": 7.0,
-        "Besiktas JK": 1.36,
-        "Draw": 4.8
-      },
-      "Tipico": {
-        "Basaksehir": 7.5,
-        "Besiktas JK": 1.33,
-        "Draw": 5.7
-      },
-      "Coolbet": {
-        "Basaksehir": 7.75,
-        "Besiktas JK": 1.35,
-        "Draw": 5.5
-      },
-      "Unibet (NL)": {
-        "Basaksehir": 7.5,
-        "Besiktas JK": 1.35,
-        "Draw": 5.3
-      },
-      "LeoVegas (SE)": {
-        "Basaksehir": 6.75,
-        "Besiktas JK": 1.32,
-        "Draw": 5.0
-      },
-      "PMU (FR)": {
-        "Basaksehir": 6.75,
-        "Besiktas JK": 1.29,
-        "Draw": 4.9
-      },
-      "Unibet (SE)": {
-        "Basaksehir": 7.5,
-        "Besiktas JK": 1.35,
-        "Draw": 5.3
-      },
-      "Codere (IT)": {
-        "Basaksehir": 7.0,
-        "Besiktas JK": 1.37,
-        "Draw": 5.4
-      },
-      "Pinnacle": {
-        "Basaksehir": 7.35,
-        "Besiktas JK": 1.38,
-        "Draw": 5.59
-      },
-      "GTbets": {
-        "Basaksehir": 7.35,
-        "Besiktas JK": 1.37,
-        "Draw": 5.19
-      },
-      "BetOnline.ag": {
-        "Basaksehir": 6.95,
-        "Besiktas JK": 1.38,
-        "Draw": 5.55
-      },
-      "Betfair": {
-        "Basaksehir": 8.2,
-        "Besiktas JK": 1.39,
-        "Draw": 6.0
-      },
-      "Matchbook": {
-        "Basaksehir": 8.4,
-        "Besiktas JK": 1.39,
-        "Draw": 6.0
-      }
-    },
-    "e1c9aa56abe5e911eb57403d78376270:h2h": {
-      "Betsson": {
-        "Trabzonspor": 1.82,
-        "Çaykur Rizespor": 3.75,
-        "Draw": 3.85
-      },
-      "Unibet (FR)": {
-        "Trabzonspor": 1.7,
-        "Çaykur Rizespor": 3.65,
-        "Draw": 3.75
-      },
-      "Winamax (DE)": {
-        "Trabzonspor": 1.8,
-        "Çaykur Rizespor": 3.55,
-        "Draw": 3.9
-      },
-      "Winamax (FR)": {
-        "Trabzonspor": 1.76,
-        "Çaykur Rizespor": 3.45,
-        "Draw": 3.8
-      },
-      "Nordic Bet": {
-        "Trabzonspor": 1.81,
-        "Çaykur Rizespor": 3.74,
-        "Draw": 3.84
-      },
-      "Betclic (FR)": {
-        "Trabzonspor": 1.78,
-        "Çaykur Rizespor": 3.68,
-        "Draw": 3.75
-      },
-      "Marathon Bet": {
-        "Trabzonspor": 1.9,
-        "Çaykur Rizespor": 3.48,
-        "Draw": 3.82
-      },
-      "1xBet": {
-        "Trabzonspor": 1.98,
-        "Çaykur Rizespor": 3.63,
-        "Draw": 3.98
-      },
-      "888sport": {
-        "Trabzonspor": 1.85,
-        "Çaykur Rizespor": 3.5,
-        "Draw": 3.75
-      },
-      "Tipico": {
-        "Trabzonspor": 1.8,
-        "Çaykur Rizespor": 3.9,
-        "Draw": 3.9
-      },
-      "Codere (IT)": {
-        "Trabzonspor": 1.86,
-        "Çaykur Rizespor": 3.8,
-        "Draw": 3.9
-      },
-      "Coolbet": {
-        "Trabzonspor": 1.9,
-        "Çaykur Rizespor": 3.75,
-        "Draw": 3.85
-      },
-      "PMU (FR)": {
-        "Trabzonspor": 1.76,
-        "Çaykur Rizespor": 3.55,
-        "Draw": 3.55
-      },
-      "Unibet (NL)": {
-        "Trabzonspor": 1.85,
-        "Çaykur Rizespor": 3.75,
-        "Draw": 3.8
-      },
-      "Unibet (SE)": {
-        "Trabzonspor": 1.85,
-        "Çaykur Rizespor": 3.75,
-        "Draw": 3.8
-      },
-      "LeoVegas (SE)": {
-        "Trabzonspor": 1.8,
-        "Çaykur Rizespor": 3.6,
-        "Draw": 3.65
-      },
-      "Pinnacle": {
-        "Trabzonspor": 1.88,
-        "Çaykur Rizespor": 3.82,
-        "Draw": 4.14
-      },
-      "GTbets": {
-        "Trabzonspor": 1.97,
-        "Çaykur Rizespor": 3.6,
-        "Draw": 3.74
-      },
-      "BetOnline.ag": {
-        "Trabzonspor": 1.93,
-        "Çaykur Rizespor": 3.6,
-        "Draw": 3.96
-      },
-      "Betfair": {
-        "Trabzonspor": 1.92,
-        "Çaykur Rizespor": 4.0,
-        "Draw": 4.2
-      },
-      "Matchbook": {
-        "Trabzonspor": 1.91,
-        "Çaykur Rizespor": 4.0,
-        "Draw": 4.2
-      }
-    },
     "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h": {
       "Tipico": {
-        "FC Copenhagen": 1.35,
-        "OB Odense BK": 6.7,
-        "Draw": 4.8
+        "FC Copenhagen": 8.0,
+        "OB Odense BK": 25.0,
+        "Draw": 1.06
       },
       "Winamax (DE)": {
-        "FC Copenhagen": 1.38,
-        "OB Odense BK": 6.0,
-        "Draw": 4.9
+        "FC Copenhagen": 12.0,
+        "OB Odense BK": 36.0,
+        "Draw": 1.04
       },
       "Winamax (FR)": {
-        "FC Copenhagen": 1.37,
-        "OB Odense BK": 5.8,
-        "Draw": 4.7
-      },
-      "1xBet": {
-        "FC Copenhagen": 1.41,
-        "OB Odense BK": 6.46,
-        "Draw": 4.85
+        "FC Copenhagen": 16.0,
+        "OB Odense BK": 50.0,
+        "Draw": 1.04
       },
       "Unibet (FR)": {
-        "FC Copenhagen": 1.36,
-        "OB Odense BK": 5.9,
-        "Draw": 4.4
+        "FC Copenhagen": 5.1,
+        "OB Odense BK": 21.0,
+        "Draw": 1.04
       },
       "Betclic (FR)": {
-        "FC Copenhagen": 1.37,
-        "OB Odense BK": 6.4,
-        "Draw": 4.7
+        "FC Copenhagen": 9.0,
+        "OB Odense BK": 17.0,
+        "Draw": 1.03
       },
       "Betfair": {
-        "FC Copenhagen": 1.45,
-        "OB Odense BK": 7.8,
-        "Draw": 5.3
-      },
-      "Marathon Bet": {
-        "FC Copenhagen": 1.4,
-        "OB Odense BK": 6.45,
-        "Draw": 4.85
+        "FC Copenhagen": 9.4,
+        "OB Odense BK": 19.5,
+        "Draw": 1.13
       },
       "Nordic Bet": {
-        "FC Copenhagen": 1.41,
-        "OB Odense BK": 6.7,
-        "Draw": 4.7
+        "FC Copenhagen": 15.0,
+        "OB Odense BK": 34.0,
+        "Draw": 1.02
       },
       "Betsson": {
-        "FC Copenhagen": 1.43,
-        "OB Odense BK": 6.9,
-        "Draw": 4.8
+        "FC Copenhagen": 9.1,
+        "OB Odense BK": 24.0,
+        "Draw": 1.05
       },
       "888sport": {
-        "FC Copenhagen": 1.4,
-        "OB Odense BK": 6.0,
-        "Draw": 4.6
-      },
-      "William Hill": {
-        "FC Copenhagen": 1.4,
-        "OB Odense BK": 6.0,
-        "Draw": 4.6
+        "FC Copenhagen": 5.0,
+        "OB Odense BK": 17.0,
+        "Draw": 1.22
       },
       "Pinnacle": {
-        "FC Copenhagen": 1.45,
-        "OB Odense BK": 6.54,
-        "Draw": 5.15
+        "FC Copenhagen": 2.87,
+        "OB Odense BK": 8.86,
+        "Draw": 1.66
       },
       "PMU (FR)": {
-        "FC Copenhagen": 1.36,
-        "OB Odense BK": 6.1,
-        "Draw": 4.4
+        "FC Copenhagen": 4.9,
+        "OB Odense BK": 11.5,
+        "Draw": 1.1
       },
       "Unibet (SE)": {
-        "FC Copenhagen": 1.41,
-        "OB Odense BK": 6.75,
-        "Draw": 4.7
+        "FC Copenhagen": 20.0,
+        "OB Odense BK": 29.0,
+        "Draw": 1.03
       },
       "LeoVegas (SE)": {
-        "FC Copenhagen": 1.36,
-        "OB Odense BK": 6.25,
-        "Draw": 4.4
+        "FC Copenhagen": 10.5,
+        "OB Odense BK": 23.0,
+        "Draw": 1.03
       },
       "Unibet (NL)": {
-        "FC Copenhagen": 1.41,
-        "OB Odense BK": 6.75,
-        "Draw": 4.7
-      },
-      "GTbets": {
-        "FC Copenhagen": 1.44,
-        "OB Odense BK": 6.5,
-        "Draw": 4.68
+        "FC Copenhagen": 10.5,
+        "OB Odense BK": 23.0,
+        "Draw": 1.05
       },
       "Coolbet": {
-        "FC Copenhagen": 1.43,
-        "OB Odense BK": 7.0,
-        "Draw": 4.75
-      },
-      "BetOnline.ag": {
-        "FC Copenhagen": 1.43,
-        "OB Odense BK": 6.5,
-        "Draw": 5.05
-      },
-      "BetAnything": {
-        "FC Copenhagen": 1.43,
-        "OB Odense BK": 6.5,
-        "Draw": 5.05
-      },
-      "Matchbook": {
-        "FC Copenhagen": 1.45,
-        "OB Odense BK": 7.8,
-        "Draw": 5.3
+        "FC Copenhagen": 16.0,
+        "OB Odense BK": 35.0,
+        "Draw": 1.02
       }
     },
     "1890564c20db109024daf7095a8b8ee0:h2h": {
-      "LeoVegas (SE)": {
-        "Falkenbergs FF": 2.43,
-        "Örebro SK": 2.7,
-        "Draw": 3.5
-      },
-      "Unibet (SE)": {
-        "Falkenbergs FF": 2.43,
-        "Örebro SK": 2.7,
-        "Draw": 3.5
-      },
-      "Unibet (NL)": {
-        "Falkenbergs FF": 2.35,
-        "Örebro SK": 2.63,
-        "Draw": 3.35
-      },
       "Nordic Bet": {
-        "Falkenbergs FF": 2.32,
-        "Örebro SK": 2.8,
-        "Draw": 3.4
+        "Falkenbergs FF": 200.0,
+        "Örebro SK": 1.01,
+        "Draw": 12.0
       },
       "Betsson": {
-        "Falkenbergs FF": 2.36,
-        "Örebro SK": 2.86,
-        "Draw": 3.45
-      },
-      "1xBet": {
-        "Falkenbergs FF": 2.31,
-        "Örebro SK": 2.78,
-        "Draw": 3.48
-      },
-      "BetOnline.ag": {
-        "Falkenbergs FF": 2.3,
-        "Örebro SK": 2.74,
-        "Draw": 3.7
-      },
-      "Pinnacle": {
-        "Falkenbergs FF": 2.31,
-        "Örebro SK": 2.83,
-        "Draw": 3.8
+        "Falkenbergs FF": 130.0,
+        "Örebro SK": 1.01,
+        "Draw": 13.0
       },
       "Betfair": {
-        "Falkenbergs FF": 2.44,
-        "Örebro SK": 2.94,
-        "Draw": 3.8
-      },
-      "Marathon Bet": {
-        "Falkenbergs FF": 2.29,
-        "Örebro SK": 2.76,
-        "Draw": 3.48
+        "Falkenbergs FF": 6.0,
+        "Örebro SK": 1.02,
+        "Draw": 9.4
       },
       "888sport": {
-        "Falkenbergs FF": 2.2,
-        "Örebro SK": 2.62,
-        "Draw": 3.4
-      },
-      "William Hill": {
-        "Falkenbergs FF": 2.2,
-        "Örebro SK": 2.62,
-        "Draw": 3.4
-      },
-      "Tipico": {
-        "Falkenbergs FF": 2.1,
-        "Örebro SK": 2.8,
-        "Draw": 3.5
+        "Falkenbergs FF": 101.0,
+        "Örebro SK": 1.04,
+        "Draw": 12.0
       },
       "Coolbet": {
-        "Falkenbergs FF": 2.28,
-        "Örebro SK": 2.9,
-        "Draw": 3.7
+        "Falkenbergs FF": 150.0,
+        "Örebro SK": 1.01,
+        "Draw": 13.0
+      }
+    },
+    "a05d15a5f230d25da72b18dc92084f8f:h2h": {
+      "Unibet (FR)": {
+        "Fenerbahce": 10.5,
+        "Galatasaray": 1.18,
+        "Draw": 3.75
       },
-      "BetAnything": {
-        "Falkenbergs FF": 2.3,
-        "Örebro SK": 2.74,
-        "Draw": 3.7
+      "Betsson": {
+        "Fenerbahce": 16.0,
+        "Galatasaray": 1.23,
+        "Draw": 4.85
+      },
+      "Winamax (DE)": {
+        "Fenerbahce": 15.0,
+        "Galatasaray": 1.22,
+        "Draw": 4.8
+      },
+      "Betclic (FR)": {
+        "Fenerbahce": 26.0,
+        "Galatasaray": 1.01,
+        "Draw": 10.0
+      },
+      "Nordic Bet": {
+        "Fenerbahce": 46.0,
+        "Galatasaray": 1.03,
+        "Draw": 13.0
+      },
+      "Winamax (FR)": {
+        "Fenerbahce": 14.0,
+        "Galatasaray": 1.24,
+        "Draw": 4.5
+      },
+      "Marathon Bet": {
+        "Fenerbahce": 13.5,
+        "Galatasaray": 1.24,
+        "Draw": 5.05
+      },
+      "888sport": {
+        "Fenerbahce": 13.0,
+        "Galatasaray": 1.25,
+        "Draw": 4.6
+      },
+      "Tipico": {
+        "Fenerbahce": 12.0,
+        "Galatasaray": 1.22,
+        "Draw": 5.5
+      },
+      "Pinnacle": {
+        "Fenerbahce": 15.79,
+        "Galatasaray": 1.25,
+        "Draw": 5.11
+      },
+      "Coolbet": {
+        "Fenerbahce": 18.0,
+        "Galatasaray": 1.25,
+        "Draw": 5.5
+      },
+      "Unibet (SE)": {
+        "Fenerbahce": 13.0,
+        "Galatasaray": 1.29,
+        "Draw": 4.35
+      },
+      "LeoVegas (SE)": {
+        "Fenerbahce": 12.0,
+        "Galatasaray": 1.23,
+        "Draw": 4.1
+      },
+      "Unibet (NL)": {
+        "Fenerbahce": 13.0,
+        "Galatasaray": 1.29,
+        "Draw": 4.35
+      },
+      "PMU (FR)": {
+        "Fenerbahce": 11.5,
+        "Galatasaray": 1.21,
+        "Draw": 4.0
+      },
+      "Betfair": {
+        "Fenerbahce": 22.0,
+        "Galatasaray": 1.28,
+        "Draw": 5.5
       },
       "Matchbook": {
-        "Falkenbergs FF": 2.44,
-        "Örebro SK": 2.96,
-        "Draw": 3.8
+        "Fenerbahce": 21.0,
+        "Galatasaray": 1.27,
+        "Draw": 5.6
+      }
+    },
+    "7f4d1fc269584543a305935a2d3552fd:h2h": {
+      "Winamax (FR)": {
+        "Benfica": 2.5,
+        "Santa Clara": 2.5,
+        "Draw": 2.9
+      },
+      "Betclic (FR)": {
+        "Benfica": 2.55,
+        "Santa Clara": 2.55,
+        "Draw": 2.95
+      },
+      "888sport": {
+        "Benfica": 2.5,
+        "Santa Clara": 2.75,
+        "Draw": 2.9
+      },
+      "Winamax (DE)": {
+        "Benfica": 2.6,
+        "Santa Clara": 2.55,
+        "Draw": 3.0
+      },
+      "Unibet (FR)": {
+        "Benfica": 2.4,
+        "Santa Clara": 2.45,
+        "Draw": 2.65
+      },
+      "Coolbet": {
+        "Benfica": 2.75,
+        "Santa Clara": 2.75,
+        "Draw": 3.25
+      },
+      "Betsson": {
+        "Benfica": 2.6,
+        "Santa Clara": 2.6,
+        "Draw": 3.05
+      },
+      "Nordic Bet": {
+        "Benfica": 2.6,
+        "Santa Clara": 2.6,
+        "Draw": 3.05
+      },
+      "Marathon Bet": {
+        "Benfica": 2.7,
+        "Santa Clara": 2.55,
+        "Draw": 2.89
+      },
+      "Betfair": {
+        "Benfica": 2.84,
+        "Santa Clara": 2.96,
+        "Draw": 3.2
+      },
+      "Tipico": {
+        "Benfica": 2.5,
+        "Santa Clara": 2.7,
+        "Draw": 3.2
+      },
+      "Pinnacle": {
+        "Benfica": 2.71,
+        "Santa Clara": 2.79,
+        "Draw": 3.02
+      },
+      "PMU (FR)": {
+        "Benfica": 2.65,
+        "Santa Clara": 2.33,
+        "Draw": 2.75
+      },
+      "LeoVegas (SE)": {
+        "Benfica": 2.63,
+        "Santa Clara": 2.32,
+        "Draw": 2.75
+      },
+      "Unibet (SE)": {
+        "Benfica": 2.85,
+        "Santa Clara": 2.48,
+        "Draw": 2.85
+      },
+      "Unibet (NL)": {
+        "Benfica": 2.85,
+        "Santa Clara": 2.48,
+        "Draw": 2.85
+      },
+      "Matchbook": {
+        "Benfica": 2.94,
+        "Santa Clara": 2.78,
+        "Draw": 3.15
       }
     }
   },
@@ -5370,17 +5240,541 @@
       "confidence": 8,
       "alert_type": "value",
       "alerted_at": "2026-10-26T04:36:46.508104+00:00"
+    },
+    {
+      "state_key": "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h",
+      "event_id": "3f5faa947bf77ec3cb0c5555a0e0ced4",
+      "sport_key": "soccer",
+      "competition": "Denmark Superliga",
+      "home_team": "FC Copenhagen",
+      "away_team": "OB Odense BK",
+      "commence_time": "2026-10-26T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Copenhagen",
+      "odds_at_alert": 8.0,
+      "stake_pct": 5.0,
+      "confidence": 162,
+      "alert_type": "value",
+      "alerted_at": "2026-10-26T19:52:22.490273+00:00"
+    },
+    {
+      "state_key": "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h",
+      "event_id": "3f5faa947bf77ec3cb0c5555a0e0ced4",
+      "sport_key": "soccer",
+      "competition": "Denmark Superliga",
+      "home_team": "FC Copenhagen",
+      "away_team": "OB Odense BK",
+      "commence_time": "2026-10-26T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "OB Odense BK",
+      "odds_at_alert": 25.0,
+      "stake_pct": 5.0,
+      "confidence": 165,
+      "alert_type": "value",
+      "alerted_at": "2026-10-26T19:52:22.924306+00:00"
+    },
+    {
+      "state_key": "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h",
+      "event_id": "3f5faa947bf77ec3cb0c5555a0e0ced4",
+      "sport_key": "soccer",
+      "competition": "Denmark Superliga",
+      "home_team": "FC Copenhagen",
+      "away_team": "OB Odense BK",
+      "commence_time": "2026-10-26T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Copenhagen",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 293,
+      "alert_type": "value",
+      "alerted_at": "2026-10-26T19:52:23.357922+00:00"
+    },
+    {
+      "state_key": "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h",
+      "event_id": "3f5faa947bf77ec3cb0c5555a0e0ced4",
+      "sport_key": "soccer",
+      "competition": "Denmark Superliga",
+      "home_team": "FC Copenhagen",
+      "away_team": "OB Odense BK",
+      "commence_time": "2026-10-26T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "OB Odense BK",
+      "odds_at_alert": 36.0,
+      "stake_pct": 5.0,
+      "confidence": 282,
+      "alert_type": "value",
+      "alerted_at": "2026-10-26T19:52:23.795169+00:00"
+    },
+    {
+      "state_key": "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h",
+      "event_id": "3f5faa947bf77ec3cb0c5555a0e0ced4",
+      "sport_key": "soccer",
+      "competition": "Denmark Superliga",
+      "home_team": "FC Copenhagen",
+      "away_team": "OB Odense BK",
+      "commence_time": "2026-10-26T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Copenhagen",
+      "odds_at_alert": 16.0,
+      "stake_pct": 5.0,
+      "confidence": 424,
+      "alert_type": "value",
+      "alerted_at": "2026-10-26T19:52:24.273575+00:00"
+    },
+    {
+      "state_key": "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h",
+      "event_id": "3f5faa947bf77ec3cb0c5555a0e0ced4",
+      "sport_key": "soccer",
+      "competition": "Denmark Superliga",
+      "home_team": "FC Copenhagen",
+      "away_team": "OB Odense BK",
+      "commence_time": "2026-10-26T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "OB Odense BK",
+      "odds_at_alert": 50.0,
+      "stake_pct": 5.0,
+      "confidence": 431,
+      "alert_type": "value",
+      "alerted_at": "2026-10-26T19:52:24.701998+00:00"
+    },
+    {
+      "state_key": "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h",
+      "event_id": "3f5faa947bf77ec3cb0c5555a0e0ced4",
+      "sport_key": "soccer",
+      "competition": "Denmark Superliga",
+      "home_team": "FC Copenhagen",
+      "away_team": "OB Odense BK",
+      "commence_time": "2026-10-26T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Copenhagen",
+      "odds_at_alert": 5.1,
+      "stake_pct": 5.0,
+      "confidence": 67,
+      "alert_type": "value",
+      "alerted_at": "2026-10-26T19:52:25.154027+00:00"
+    },
+    {
+      "state_key": "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h",
+      "event_id": "3f5faa947bf77ec3cb0c5555a0e0ced4",
+      "sport_key": "soccer",
+      "competition": "Denmark Superliga",
+      "home_team": "FC Copenhagen",
+      "away_team": "OB Odense BK",
+      "commence_time": "2026-10-26T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "OB Odense BK",
+      "odds_at_alert": 21.0,
+      "stake_pct": 5.0,
+      "confidence": 123,
+      "alert_type": "value",
+      "alerted_at": "2026-10-26T19:52:25.579536+00:00"
+    },
+    {
+      "state_key": "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h",
+      "event_id": "3f5faa947bf77ec3cb0c5555a0e0ced4",
+      "sport_key": "soccer",
+      "competition": "Denmark Superliga",
+      "home_team": "FC Copenhagen",
+      "away_team": "OB Odense BK",
+      "commence_time": "2026-10-26T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Copenhagen",
+      "odds_at_alert": 9.0,
+      "stake_pct": 5.0,
+      "confidence": 195,
+      "alert_type": "value",
+      "alerted_at": "2026-10-26T19:52:26.020503+00:00"
+    },
+    {
+      "state_key": "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h",
+      "event_id": "3f5faa947bf77ec3cb0c5555a0e0ced4",
+      "sport_key": "soccer",
+      "competition": "Denmark Superliga",
+      "home_team": "FC Copenhagen",
+      "away_team": "OB Odense BK",
+      "commence_time": "2026-10-26T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "OB Odense BK",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 80,
+      "alert_type": "value",
+      "alerted_at": "2026-10-26T19:52:26.449361+00:00"
+    },
+    {
+      "state_key": "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h",
+      "event_id": "3f5faa947bf77ec3cb0c5555a0e0ced4",
+      "sport_key": "soccer",
+      "competition": "Denmark Superliga",
+      "home_team": "FC Copenhagen",
+      "away_team": "OB Odense BK",
+      "commence_time": "2026-10-26T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Copenhagen",
+      "odds_at_alert": 9.4,
+      "stake_pct": 5.0,
+      "confidence": 208,
+      "alert_type": "value",
+      "alerted_at": "2026-10-26T19:52:26.910571+00:00"
+    },
+    {
+      "state_key": "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h",
+      "event_id": "3f5faa947bf77ec3cb0c5555a0e0ced4",
+      "sport_key": "soccer",
+      "competition": "Denmark Superliga",
+      "home_team": "FC Copenhagen",
+      "away_team": "OB Odense BK",
+      "commence_time": "2026-10-26T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Copenhagen",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 391,
+      "alert_type": "value",
+      "alerted_at": "2026-10-26T19:52:27.349246+00:00"
+    },
+    {
+      "state_key": "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h",
+      "event_id": "3f5faa947bf77ec3cb0c5555a0e0ced4",
+      "sport_key": "soccer",
+      "competition": "Denmark Superliga",
+      "home_team": "FC Copenhagen",
+      "away_team": "OB Odense BK",
+      "commence_time": "2026-10-26T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "OB Odense BK",
+      "odds_at_alert": 34.0,
+      "stake_pct": 5.0,
+      "confidence": 261,
+      "alert_type": "value",
+      "alerted_at": "2026-10-26T19:52:27.837531+00:00"
+    },
+    {
+      "state_key": "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h",
+      "event_id": "3f5faa947bf77ec3cb0c5555a0e0ced4",
+      "sport_key": "soccer",
+      "competition": "Denmark Superliga",
+      "home_team": "FC Copenhagen",
+      "away_team": "OB Odense BK",
+      "commence_time": "2026-10-26T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Copenhagen",
+      "odds_at_alert": 9.1,
+      "stake_pct": 5.0,
+      "confidence": 198,
+      "alert_type": "value",
+      "alerted_at": "2026-10-26T19:52:28.283127+00:00"
+    },
+    {
+      "state_key": "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h",
+      "event_id": "3f5faa947bf77ec3cb0c5555a0e0ced4",
+      "sport_key": "soccer",
+      "competition": "Denmark Superliga",
+      "home_team": "FC Copenhagen",
+      "away_team": "OB Odense BK",
+      "commence_time": "2026-10-26T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "OB Odense BK",
+      "odds_at_alert": 24.0,
+      "stake_pct": 5.0,
+      "confidence": 155,
+      "alert_type": "value",
+      "alerted_at": "2026-10-26T19:52:28.756268+00:00"
+    },
+    {
+      "state_key": "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h",
+      "event_id": "3f5faa947bf77ec3cb0c5555a0e0ced4",
+      "sport_key": "soccer",
+      "competition": "Denmark Superliga",
+      "home_team": "FC Copenhagen",
+      "away_team": "OB Odense BK",
+      "commence_time": "2026-10-26T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Copenhagen",
+      "odds_at_alert": 5.0,
+      "stake_pct": 5.0,
+      "confidence": 64,
+      "alert_type": "value",
+      "alerted_at": "2026-10-26T19:52:29.295818+00:00"
+    },
+    {
+      "state_key": "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h",
+      "event_id": "3f5faa947bf77ec3cb0c5555a0e0ced4",
+      "sport_key": "soccer",
+      "competition": "Denmark Superliga",
+      "home_team": "FC Copenhagen",
+      "away_team": "OB Odense BK",
+      "commence_time": "2026-10-26T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "OB Odense BK",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 80,
+      "alert_type": "value",
+      "alerted_at": "2026-10-26T19:52:29.741908+00:00"
+    },
+    {
+      "state_key": "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h",
+      "event_id": "3f5faa947bf77ec3cb0c5555a0e0ced4",
+      "sport_key": "soccer",
+      "competition": "Denmark Superliga",
+      "home_team": "FC Copenhagen",
+      "away_team": "OB Odense BK",
+      "commence_time": "2026-10-26T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Copenhagen",
+      "odds_at_alert": 4.9,
+      "stake_pct": 5.0,
+      "confidence": 61,
+      "alert_type": "value",
+      "alerted_at": "2026-10-26T19:52:30.155615+00:00"
+    },
+    {
+      "state_key": "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h",
+      "event_id": "3f5faa947bf77ec3cb0c5555a0e0ced4",
+      "sport_key": "soccer",
+      "competition": "Denmark Superliga",
+      "home_team": "FC Copenhagen",
+      "away_team": "OB Odense BK",
+      "commence_time": "2026-10-26T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "OB Odense BK",
+      "odds_at_alert": 11.5,
+      "stake_pct": 5.0,
+      "confidence": 22,
+      "alert_type": "value",
+      "alerted_at": "2026-10-26T19:52:30.588067+00:00"
+    },
+    {
+      "state_key": "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h",
+      "event_id": "3f5faa947bf77ec3cb0c5555a0e0ced4",
+      "sport_key": "soccer",
+      "competition": "Denmark Superliga",
+      "home_team": "FC Copenhagen",
+      "away_team": "OB Odense BK",
+      "commence_time": "2026-10-26T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Copenhagen",
+      "odds_at_alert": 20.0,
+      "stake_pct": 5.0,
+      "confidence": 555,
+      "alert_type": "value",
+      "alerted_at": "2026-10-26T19:52:31.027242+00:00"
+    },
+    {
+      "state_key": "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h",
+      "event_id": "3f5faa947bf77ec3cb0c5555a0e0ced4",
+      "sport_key": "soccer",
+      "competition": "Denmark Superliga",
+      "home_team": "FC Copenhagen",
+      "away_team": "OB Odense BK",
+      "commence_time": "2026-10-26T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Copenhagen",
+      "odds_at_alert": 10.5,
+      "stake_pct": 5.0,
+      "confidence": 244,
+      "alert_type": "value",
+      "alerted_at": "2026-10-26T19:52:31.463835+00:00"
+    },
+    {
+      "state_key": "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h",
+      "event_id": "3f5faa947bf77ec3cb0c5555a0e0ced4",
+      "sport_key": "soccer",
+      "competition": "Denmark Superliga",
+      "home_team": "FC Copenhagen",
+      "away_team": "OB Odense BK",
+      "commence_time": "2026-10-26T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "OB Odense BK",
+      "odds_at_alert": 23.0,
+      "stake_pct": 5.0,
+      "confidence": 144,
+      "alert_type": "value",
+      "alerted_at": "2026-10-26T19:52:31.881684+00:00"
+    },
+    {
+      "state_key": "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h",
+      "event_id": "3f5faa947bf77ec3cb0c5555a0e0ced4",
+      "sport_key": "soccer",
+      "competition": "Denmark Superliga",
+      "home_team": "FC Copenhagen",
+      "away_team": "OB Odense BK",
+      "commence_time": "2026-10-26T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Copenhagen",
+      "odds_at_alert": 10.5,
+      "stake_pct": 5.0,
+      "confidence": 244,
+      "alert_type": "value",
+      "alerted_at": "2026-10-26T19:52:32.296346+00:00"
+    },
+    {
+      "state_key": "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h",
+      "event_id": "3f5faa947bf77ec3cb0c5555a0e0ced4",
+      "sport_key": "soccer",
+      "competition": "Denmark Superliga",
+      "home_team": "FC Copenhagen",
+      "away_team": "OB Odense BK",
+      "commence_time": "2026-10-26T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Copenhagen",
+      "odds_at_alert": 16.0,
+      "stake_pct": 5.0,
+      "confidence": 424,
+      "alert_type": "value",
+      "alerted_at": "2026-10-26T19:52:32.721058+00:00"
+    },
+    {
+      "state_key": "a05d15a5f230d25da72b18dc92084f8f:h2h",
+      "event_id": "a05d15a5f230d25da72b18dc92084f8f",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Galatasaray",
+      "away_team": "Fenerbahce",
+      "commence_time": "2026-10-26T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Fenerbahce",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 55,
+      "alert_type": "value",
+      "alerted_at": "2026-10-26T19:52:33.172416+00:00"
+    },
+    {
+      "state_key": "a05d15a5f230d25da72b18dc92084f8f:h2h",
+      "event_id": "a05d15a5f230d25da72b18dc92084f8f",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Galatasaray",
+      "away_team": "Fenerbahce",
+      "commence_time": "2026-10-26T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 10.0,
+      "stake_pct": 5.0,
+      "confidence": 85,
+      "alert_type": "value",
+      "alerted_at": "2026-10-26T19:52:33.604663+00:00"
+    },
+    {
+      "state_key": "a05d15a5f230d25da72b18dc92084f8f:h2h",
+      "event_id": "a05d15a5f230d25da72b18dc92084f8f",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Galatasaray",
+      "away_team": "Fenerbahce",
+      "commence_time": "2026-10-26T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Fenerbahce",
+      "odds_at_alert": 46.0,
+      "stake_pct": 5.0,
+      "confidence": 175,
+      "alert_type": "value",
+      "alerted_at": "2026-10-26T19:52:34.029845+00:00"
+    },
+    {
+      "state_key": "a05d15a5f230d25da72b18dc92084f8f:h2h",
+      "event_id": "a05d15a5f230d25da72b18dc92084f8f",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Galatasaray",
+      "away_team": "Fenerbahce",
+      "commence_time": "2026-10-26T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 140,
+      "alert_type": "value",
+      "alerted_at": "2026-10-26T19:52:34.520498+00:00"
+    },
+    {
+      "state_key": "a05d15a5f230d25da72b18dc92084f8f:h2h",
+      "event_id": "a05d15a5f230d25da72b18dc92084f8f",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Galatasaray",
+      "away_team": "Fenerbahce",
+      "commence_time": "2026-10-26T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Fenerbahce",
+      "odds_at_alert": 18.0,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-10-26T19:52:35.045230+00:00"
+    },
+    {
+      "state_key": "a05d15a5f230d25da72b18dc92084f8f:h2h",
+      "event_id": "a05d15a5f230d25da72b18dc92084f8f",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Galatasaray",
+      "away_team": "Fenerbahce",
+      "commence_time": "2026-10-26T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Fenerbahce",
+      "odds_at_alert": 22.0,
+      "stake_pct": 5.0,
+      "confidence": 32,
+      "alert_type": "value",
+      "alerted_at": "2026-10-26T19:52:35.471869+00:00"
+    },
+    {
+      "state_key": "a05d15a5f230d25da72b18dc92084f8f:h2h",
+      "event_id": "a05d15a5f230d25da72b18dc92084f8f",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Galatasaray",
+      "away_team": "Fenerbahce",
+      "commence_time": "2026-10-26T18:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Fenerbahce",
+      "odds_at_alert": 21.0,
+      "stake_pct": 5.0,
+      "confidence": 26,
+      "alert_type": "value",
+      "alerted_at": "2026-10-26T19:52:35.892794+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
+    "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h|888sport|FC Copenhagen",
+    "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h|888sport|OB Odense BK",
+    "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h|Betclic (FR)|FC Copenhagen",
+    "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h|Betclic (FR)|OB Odense BK",
+    "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h|Betfair|FC Copenhagen",
     "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h|Betfair|OB Odense BK",
+    "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h|Betsson|FC Copenhagen",
+    "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h|Betsson|OB Odense BK",
+    "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h|Coolbet|FC Copenhagen",
     "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h|Coolbet|OB Odense BK",
+    "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h|LeoVegas (SE)|FC Copenhagen",
+    "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h|LeoVegas (SE)|OB Odense BK",
     "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h|Matchbook|OB Odense BK",
+    "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h|Nordic Bet|FC Copenhagen",
+    "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h|Nordic Bet|OB Odense BK",
+    "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h|PMU (FR)|FC Copenhagen",
+    "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h|PMU (FR)|OB Odense BK",
+    "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h|Tipico|FC Copenhagen",
+    "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h|Tipico|OB Odense BK",
+    "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h|Unibet (FR)|FC Copenhagen",
+    "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h|Unibet (FR)|OB Odense BK",
+    "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h|Unibet (NL)|FC Copenhagen",
     "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h|Unibet (NL)|OB Odense BK",
+    "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h|Unibet (SE)|FC Copenhagen",
     "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h|Unibet (SE)|OB Odense BK",
-    "54ecd2cf77168d62e84f2fd5ccc54a82:h2h|1xBet|Basaksehir",
-    "54ecd2cf77168d62e84f2fd5ccc54a82:h2h|Betfair|Basaksehir",
-    "54ecd2cf77168d62e84f2fd5ccc54a82:h2h|Matchbook|Basaksehir"
+    "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h|Winamax (DE)|FC Copenhagen",
+    "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h|Winamax (DE)|OB Odense BK",
+    "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h|Winamax (FR)|FC Copenhagen",
+    "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h|Winamax (FR)|OB Odense BK",
+    "a05d15a5f230d25da72b18dc92084f8f:h2h|Betclic (FR)|Draw",
+    "a05d15a5f230d25da72b18dc92084f8f:h2h|Betclic (FR)|Fenerbahce",
+    "a05d15a5f230d25da72b18dc92084f8f:h2h|Betfair|Fenerbahce",
+    "a05d15a5f230d25da72b18dc92084f8f:h2h|Coolbet|Fenerbahce",
+    "a05d15a5f230d25da72b18dc92084f8f:h2h|Matchbook|Fenerbahce",
+    "a05d15a5f230d25da72b18dc92084f8f:h2h|Nordic Bet|Draw",
+    "a05d15a5f230d25da72b18dc92084f8f:h2h|Nordic Bet|Fenerbahce"
   ]
 }
