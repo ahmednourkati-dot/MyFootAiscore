@@ -1,281 +1,281 @@
 {
   "snapshots": {
-    "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h": {
-      "Tipico": {
-        "FC Copenhagen": 8.0,
-        "OB Odense BK": 25.0,
-        "Draw": 1.06
-      },
-      "Winamax (DE)": {
-        "FC Copenhagen": 12.0,
-        "OB Odense BK": 36.0,
-        "Draw": 1.04
+    "641e3cd84dcb88e2b9e0a95cc498e7c8:h2h": {
+      "Unibet (FR)": {
+        "Estudiantes": 65.0,
+        "Union Santa Fe": 1.04,
+        "Draw": 4.2
       },
       "Winamax (FR)": {
-        "FC Copenhagen": 16.0,
-        "OB Odense BK": 50.0,
-        "Draw": 1.04
-      },
-      "Unibet (FR)": {
-        "FC Copenhagen": 5.1,
-        "OB Odense BK": 21.0,
-        "Draw": 1.04
-      },
-      "Betclic (FR)": {
-        "FC Copenhagen": 9.0,
-        "OB Odense BK": 17.0,
-        "Draw": 1.03
-      },
-      "Betfair": {
-        "FC Copenhagen": 9.4,
-        "OB Odense BK": 19.5,
-        "Draw": 1.13
-      },
-      "Nordic Bet": {
-        "FC Copenhagen": 15.0,
-        "OB Odense BK": 34.0,
-        "Draw": 1.02
-      },
-      "Betsson": {
-        "FC Copenhagen": 9.1,
-        "OB Odense BK": 24.0,
-        "Draw": 1.05
-      },
-      "888sport": {
-        "FC Copenhagen": 5.0,
-        "OB Odense BK": 17.0,
-        "Draw": 1.22
-      },
-      "Pinnacle": {
-        "FC Copenhagen": 2.87,
-        "OB Odense BK": 8.86,
-        "Draw": 1.66
-      },
-      "PMU (FR)": {
-        "FC Copenhagen": 4.9,
-        "OB Odense BK": 11.5,
-        "Draw": 1.1
-      },
-      "Unibet (SE)": {
-        "FC Copenhagen": 20.0,
-        "OB Odense BK": 29.0,
-        "Draw": 1.03
-      },
-      "LeoVegas (SE)": {
-        "FC Copenhagen": 10.5,
-        "OB Odense BK": 23.0,
-        "Draw": 1.03
-      },
-      "Unibet (NL)": {
-        "FC Copenhagen": 10.5,
-        "OB Odense BK": 23.0,
-        "Draw": 1.05
-      },
-      "Coolbet": {
-        "FC Copenhagen": 16.0,
-        "OB Odense BK": 35.0,
-        "Draw": 1.02
-      }
-    },
-    "1890564c20db109024daf7095a8b8ee0:h2h": {
-      "Nordic Bet": {
-        "Falkenbergs FF": 200.0,
-        "Örebro SK": 1.01,
-        "Draw": 12.0
-      },
-      "Betsson": {
-        "Falkenbergs FF": 130.0,
-        "Örebro SK": 1.01,
-        "Draw": 13.0
-      },
-      "Betfair": {
-        "Falkenbergs FF": 6.0,
-        "Örebro SK": 1.02,
-        "Draw": 9.4
-      },
-      "888sport": {
-        "Falkenbergs FF": 101.0,
-        "Örebro SK": 1.04,
-        "Draw": 12.0
-      },
-      "Coolbet": {
-        "Falkenbergs FF": 150.0,
-        "Örebro SK": 1.01,
-        "Draw": 13.0
-      }
-    },
-    "a05d15a5f230d25da72b18dc92084f8f:h2h": {
-      "Unibet (FR)": {
-        "Fenerbahce": 10.5,
-        "Galatasaray": 1.18,
-        "Draw": 3.75
-      },
-      "Betsson": {
-        "Fenerbahce": 16.0,
-        "Galatasaray": 1.23,
-        "Draw": 4.85
+        "Estudiantes": 75.0,
+        "Union Santa Fe": 1.1,
+        "Draw": 7.25
       },
       "Winamax (DE)": {
-        "Fenerbahce": 15.0,
-        "Galatasaray": 1.22,
-        "Draw": 4.8
+        "Estudiantes": 75.0,
+        "Union Santa Fe": 1.07,
+        "Draw": 7.75
       },
       "Betclic (FR)": {
-        "Fenerbahce": 26.0,
-        "Galatasaray": 1.01,
+        "Estudiantes": 35.0,
+        "Union Santa Fe": 1.06,
+        "Draw": 6.4
+      },
+      "Betfair": {
+        "Estudiantes": 50.0,
+        "Union Santa Fe": 1.15,
+        "Draw": 7.6
+      },
+      "Marathon Bet": {
+        "Estudiantes": 51.0,
+        "Union Santa Fe": 1.07,
+        "Draw": 8.1
+      },
+      "Nordic Bet": {
+        "Estudiantes": 50.0,
+        "Union Santa Fe": 1.07,
+        "Draw": 6.8
+      },
+      "Betsson": {
+        "Estudiantes": 55.0,
+        "Union Santa Fe": 1.07,
+        "Draw": 6.8
+      },
+      "LeoVegas (SE)": {
+        "Estudiantes": 51.0,
+        "Union Santa Fe": 1.05,
+        "Draw": 7.0
+      },
+      "Unibet (SE)": {
+        "Estudiantes": 61.0,
+        "Union Santa Fe": 1.09,
+        "Draw": 7.5
+      }
+    },
+    "0244ca5849fa2f67287a6481666cad30:h2h": {
+      "Betsson": {
+        "América Mineiro": 4.1,
+        "Cuiabá": 2.88,
+        "Draw": 1.95
+      },
+      "Coolbet": {
+        "América Mineiro": 4.0,
+        "Cuiabá": 2.88,
+        "Draw": 2.0
+      },
+      "Nordic Bet": {
+        "América Mineiro": 4.1,
+        "Cuiabá": 2.88,
+        "Draw": 1.95
+      },
+      "Pinnacle": {
+        "América Mineiro": 4.09,
+        "Cuiabá": 2.77,
+        "Draw": 2.17
+      },
+      "Marathon Bet": {
+        "América Mineiro": 4.3,
+        "Cuiabá": 2.81,
+        "Draw": 1.93
+      },
+      "888sport": {
+        "América Mineiro": 4.0,
+        "Cuiabá": 2.8,
+        "Draw": 2.0
+      },
+      "Unibet (SE)": {
+        "América Mineiro": 4.0,
+        "Cuiabá": 2.63,
+        "Draw": 2.1
+      },
+      "Unibet (NL)": {
+        "América Mineiro": 4.0,
+        "Cuiabá": 2.6,
+        "Draw": 2.12
+      },
+      "LeoVegas (SE)": {
+        "América Mineiro": 3.85,
+        "Cuiabá": 2.45,
+        "Draw": 1.96
+      },
+      "Matchbook": {
+        "América Mineiro": 4.8,
+        "Cuiabá": 3.1,
+        "Draw": 2.08
+      },
+      "Betfair": {
+        "América Mineiro": 4.7,
+        "Cuiabá": 3.0,
+        "Draw": 2.14
+      }
+    },
+    "51f2cea4f466d0df8335ff12dab72dd4:h2h": {
+      "Winamax (FR)": {
+        "Coritiba": 2.75,
+        "Grêmio": 3.25,
+        "Draw": 2.1
+      },
+      "Betfair": {
+        "Coritiba": 3.05,
+        "Grêmio": 3.85,
+        "Draw": 2.4
+      },
+      "Winamax (DE)": {
+        "Coritiba": 2.85,
+        "Grêmio": 3.35,
+        "Draw": 2.15
+      },
+      "Unibet (FR)": {
+        "Coritiba": 2.6,
+        "Grêmio": 3.05,
+        "Draw": 2.0
+      },
+      "Betclic (FR)": {
+        "Coritiba": 2.73,
+        "Grêmio": 3.18,
+        "Draw": 2.2
+      },
+      "Marathon Bet": {
+        "Coritiba": 2.9,
+        "Grêmio": 3.5,
+        "Draw": 2.24
+      },
+      "888sport": {
+        "Coritiba": 2.8,
+        "Grêmio": 3.4,
+        "Draw": 2.2
+      },
+      "Unibet (NL)": {
+        "Coritiba": 2.75,
+        "Grêmio": 3.2,
+        "Draw": 2.2
+      },
+      "Unibet (SE)": {
+        "Coritiba": 2.9,
+        "Grêmio": 3.35,
+        "Draw": 2.28
+      },
+      "LeoVegas (SE)": {
+        "Coritiba": 2.7,
+        "Grêmio": 3.15,
+        "Draw": 2.15
+      },
+      "PMU (FR)": {
+        "Coritiba": 2.65,
+        "Grêmio": 3.1,
+        "Draw": 2.12
+      },
+      "Nordic Bet": {
+        "Coritiba": 2.88,
+        "Grêmio": 3.5,
+        "Draw": 2.2
+      },
+      "Betsson": {
+        "Coritiba": 2.88,
+        "Grêmio": 3.4,
+        "Draw": 2.2
+      },
+      "Pinnacle": {
+        "Coritiba": 3.05,
+        "Grêmio": 3.58,
+        "Draw": 2.23
+      },
+      "Tipico": {
+        "Coritiba": 2.7,
+        "Grêmio": 3.6,
+        "Draw": 2.2
+      },
+      "Coolbet": {
+        "Coritiba": 2.88,
+        "Grêmio": 3.5,
+        "Draw": 2.25
+      },
+      "Matchbook": {
+        "Coritiba": 3.3,
+        "Grêmio": 3.65,
+        "Draw": 2.32
+      }
+    },
+    "9d5238c50f04d24ae92e556a438e188e:h2h": {
+      "Betclic (FR)": {
+        "Atletico Mineiro": 22.0,
+        "Flamengo": 1.03,
+        "Draw": 8.75
+      },
+      "MyBookie.ag": {
+        "Atletico Mineiro": 39.0,
+        "Flamengo": 1.07,
+        "Draw": 8.5
+      },
+      "Unibet (FR)": {
+        "Atletico Mineiro": 22.0,
+        "Flamengo": 1.04,
+        "Draw": 5.0
+      },
+      "Winamax (FR)": {
+        "Atletico Mineiro": 44.0,
+        "Flamengo": 1.07,
         "Draw": 10.0
       },
-      "Nordic Bet": {
-        "Fenerbahce": 46.0,
-        "Galatasaray": 1.03,
-        "Draw": 13.0
-      },
-      "Winamax (FR)": {
-        "Fenerbahce": 14.0,
-        "Galatasaray": 1.24,
-        "Draw": 4.5
-      },
-      "Marathon Bet": {
-        "Fenerbahce": 13.5,
-        "Galatasaray": 1.24,
-        "Draw": 5.05
-      },
-      "888sport": {
-        "Fenerbahce": 13.0,
-        "Galatasaray": 1.25,
-        "Draw": 4.6
-      },
-      "Tipico": {
-        "Fenerbahce": 12.0,
-        "Galatasaray": 1.22,
-        "Draw": 5.5
-      },
-      "Pinnacle": {
-        "Fenerbahce": 15.79,
-        "Galatasaray": 1.25,
-        "Draw": 5.11
-      },
-      "Coolbet": {
-        "Fenerbahce": 18.0,
-        "Galatasaray": 1.25,
-        "Draw": 5.5
-      },
-      "Unibet (SE)": {
-        "Fenerbahce": 13.0,
-        "Galatasaray": 1.29,
-        "Draw": 4.35
-      },
-      "LeoVegas (SE)": {
-        "Fenerbahce": 12.0,
-        "Galatasaray": 1.23,
-        "Draw": 4.1
-      },
-      "Unibet (NL)": {
-        "Fenerbahce": 13.0,
-        "Galatasaray": 1.29,
-        "Draw": 4.35
-      },
-      "PMU (FR)": {
-        "Fenerbahce": 11.5,
-        "Galatasaray": 1.21,
-        "Draw": 4.0
+      "Winamax (DE)": {
+        "Atletico Mineiro": 44.0,
+        "Flamengo": 1.04,
+        "Draw": 10.5
       },
       "Betfair": {
-        "Fenerbahce": 22.0,
-        "Galatasaray": 1.28,
-        "Draw": 5.5
+        "Atletico Mineiro": 60.0,
+        "Flamengo": 1.1,
+        "Draw": 12.0
       },
-      "Matchbook": {
-        "Fenerbahce": 21.0,
-        "Galatasaray": 1.27,
-        "Draw": 5.6
-      }
-    },
-    "7f4d1fc269584543a305935a2d3552fd:h2h": {
-      "Winamax (FR)": {
-        "Benfica": 2.5,
-        "Santa Clara": 2.5,
-        "Draw": 2.9
-      },
-      "Betclic (FR)": {
-        "Benfica": 2.55,
-        "Santa Clara": 2.55,
-        "Draw": 2.95
+      "Marathon Bet": {
+        "Atletico Mineiro": 38.0,
+        "Flamengo": 1.04,
+        "Draw": 11.25
       },
       "888sport": {
-        "Benfica": 2.5,
-        "Santa Clara": 2.75,
-        "Draw": 2.9
+        "Atletico Mineiro": 41.0,
+        "Flamengo": 1.06,
+        "Draw": 9.5
       },
-      "Winamax (DE)": {
-        "Benfica": 2.6,
-        "Santa Clara": 2.55,
-        "Draw": 3.0
+      "Unibet (NL)": {
+        "Atletico Mineiro": 30.0,
+        "Flamengo": 1.03,
+        "Draw": 9.0
       },
-      "Unibet (FR)": {
-        "Benfica": 2.4,
-        "Santa Clara": 2.45,
-        "Draw": 2.65
+      "Unibet (SE)": {
+        "Atletico Mineiro": 31.0,
+        "Flamengo": 1.07,
+        "Draw": 10.0
       },
-      "Coolbet": {
-        "Benfica": 2.75,
-        "Santa Clara": 2.75,
-        "Draw": 3.25
+      "LeoVegas (SE)": {
+        "Atletico Mineiro": 30.0,
+        "Flamengo": 1.02,
+        "Draw": 9.0
+      },
+      "Nordic Bet": {
+        "Atletico Mineiro": 36.0,
+        "Flamengo": 1.04,
+        "Draw": 9.6
       },
       "Betsson": {
-        "Benfica": 2.6,
-        "Santa Clara": 2.6,
-        "Draw": 3.05
-      },
-      "Nordic Bet": {
-        "Benfica": 2.6,
-        "Santa Clara": 2.6,
-        "Draw": 3.05
-      },
-      "Marathon Bet": {
-        "Benfica": 2.7,
-        "Santa Clara": 2.55,
-        "Draw": 2.89
-      },
-      "Betfair": {
-        "Benfica": 2.84,
-        "Santa Clara": 2.96,
-        "Draw": 3.2
+        "Atletico Mineiro": 36.0,
+        "Flamengo": 1.04,
+        "Draw": 9.6
       },
       "Tipico": {
-        "Benfica": 2.5,
-        "Santa Clara": 2.7,
-        "Draw": 3.2
+        "Atletico Mineiro": 35.0,
+        "Flamengo": 1.01,
+        "Draw": 11.0
       },
-      "Pinnacle": {
-        "Benfica": 2.71,
-        "Santa Clara": 2.79,
-        "Draw": 3.02
-      },
-      "PMU (FR)": {
-        "Benfica": 2.65,
-        "Santa Clara": 2.33,
-        "Draw": 2.75
-      },
-      "LeoVegas (SE)": {
-        "Benfica": 2.63,
-        "Santa Clara": 2.32,
-        "Draw": 2.75
-      },
-      "Unibet (SE)": {
-        "Benfica": 2.85,
-        "Santa Clara": 2.48,
-        "Draw": 2.85
-      },
-      "Unibet (NL)": {
-        "Benfica": 2.85,
-        "Santa Clara": 2.48,
-        "Draw": 2.85
+      "Coolbet": {
+        "Atletico Mineiro": 35.0,
+        "Flamengo": 1.06,
+        "Draw": 10.0
       },
       "Matchbook": {
-        "Benfica": 2.94,
-        "Santa Clara": 2.78,
-        "Draw": 3.15
+        "Atletico Mineiro": 55.0,
+        "Flamengo": 1.1,
+        "Draw": 12.0
       }
     }
   },
@@ -5736,45 +5736,43 @@
       "confidence": 26,
       "alert_type": "value",
       "alerted_at": "2026-10-26T19:52:35.892794+00:00"
+    },
+    {
+      "state_key": "0244ca5849fa2f67287a6481666cad30:h2h",
+      "event_id": "0244ca5849fa2f67287a6481666cad30",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "América Mineiro",
+      "away_team": "Cuiabá",
+      "commence_time": "2026-10-26T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "América Mineiro",
+      "odds_at_alert": 4.8,
+      "stake_pct": 3.0,
+      "confidence": 10,
+      "alert_type": "value",
+      "alerted_at": "2026-10-26T23:48:14.567323+00:00"
+    },
+    {
+      "state_key": "0244ca5849fa2f67287a6481666cad30:h2h",
+      "event_id": "0244ca5849fa2f67287a6481666cad30",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "América Mineiro",
+      "away_team": "Cuiabá",
+      "commence_time": "2026-10-26T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "América Mineiro",
+      "odds_at_alert": 4.7,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-10-26T23:48:14.882574+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h|888sport|FC Copenhagen",
-    "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h|888sport|OB Odense BK",
-    "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h|Betclic (FR)|FC Copenhagen",
-    "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h|Betclic (FR)|OB Odense BK",
-    "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h|Betfair|FC Copenhagen",
-    "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h|Betfair|OB Odense BK",
-    "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h|Betsson|FC Copenhagen",
-    "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h|Betsson|OB Odense BK",
-    "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h|Coolbet|FC Copenhagen",
-    "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h|Coolbet|OB Odense BK",
-    "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h|LeoVegas (SE)|FC Copenhagen",
-    "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h|LeoVegas (SE)|OB Odense BK",
-    "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h|Matchbook|OB Odense BK",
-    "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h|Nordic Bet|FC Copenhagen",
-    "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h|Nordic Bet|OB Odense BK",
-    "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h|PMU (FR)|FC Copenhagen",
-    "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h|PMU (FR)|OB Odense BK",
-    "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h|Tipico|FC Copenhagen",
-    "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h|Tipico|OB Odense BK",
-    "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h|Unibet (FR)|FC Copenhagen",
-    "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h|Unibet (FR)|OB Odense BK",
-    "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h|Unibet (NL)|FC Copenhagen",
-    "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h|Unibet (NL)|OB Odense BK",
-    "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h|Unibet (SE)|FC Copenhagen",
-    "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h|Unibet (SE)|OB Odense BK",
-    "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h|Winamax (DE)|FC Copenhagen",
-    "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h|Winamax (DE)|OB Odense BK",
-    "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h|Winamax (FR)|FC Copenhagen",
-    "3f5faa947bf77ec3cb0c5555a0e0ced4:h2h|Winamax (FR)|OB Odense BK",
-    "a05d15a5f230d25da72b18dc92084f8f:h2h|Betclic (FR)|Draw",
-    "a05d15a5f230d25da72b18dc92084f8f:h2h|Betclic (FR)|Fenerbahce",
-    "a05d15a5f230d25da72b18dc92084f8f:h2h|Betfair|Fenerbahce",
-    "a05d15a5f230d25da72b18dc92084f8f:h2h|Coolbet|Fenerbahce",
-    "a05d15a5f230d25da72b18dc92084f8f:h2h|Matchbook|Fenerbahce",
-    "a05d15a5f230d25da72b18dc92084f8f:h2h|Nordic Bet|Draw",
-    "a05d15a5f230d25da72b18dc92084f8f:h2h|Nordic Bet|Fenerbahce"
+    "0244ca5849fa2f67287a6481666cad30:h2h|Betfair|América Mineiro",
+    "0244ca5849fa2f67287a6481666cad30:h2h|Matchbook|América Mineiro"
   ]
 }
