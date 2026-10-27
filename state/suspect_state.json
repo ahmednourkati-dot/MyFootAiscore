@@ -1,231 +1,81 @@
 {
   "snapshots": {
-    "72aa6d55a32872d89279c98d0b8714d8:h2h": {
+    "b377b9a852dad0f45fc037753cb4da28:h2h": {
       "Tipico": {
-        "Augsburg": 1.1,
-        "SG Sonnenhof Großaspach": 18.0,
-        "Draw": 8.0
-      },
-      "Winamax (FR)": {
-        "Augsburg": 1.15,
-        "SG Sonnenhof Großaspach": 16.0,
-        "Draw": 6.75
-      },
-      "Winamax (DE)": {
-        "Augsburg": 1.14,
-        "SG Sonnenhof Großaspach": 16.0,
-        "Draw": 7.25
-      },
-      "Betclic (FR)": {
-        "Augsburg": 1.08,
-        "SG Sonnenhof Großaspach": 15.25,
-        "Draw": 5.9
-      },
-      "Unibet (FR)": {
-        "Augsburg": 1.09,
-        "SG Sonnenhof Großaspach": 12.0,
-        "Draw": 4.85
-      },
-      "888sport": {
-        "Augsburg": 1.15,
-        "SG Sonnenhof Großaspach": 17.0,
-        "Draw": 6.5
-      },
-      "Unibet (SE)": {
-        "Augsburg": 1.12,
-        "SG Sonnenhof Großaspach": 16.0,
-        "Draw": 7.0
-      },
-      "PMU (FR)": {
-        "Augsburg": 1.05,
-        "SG Sonnenhof Großaspach": 16.0,
-        "Draw": 7.0
-      },
-      "LeoVegas (SE)": {
-        "Augsburg": 1.05,
-        "SG Sonnenhof Großaspach": 16.0,
-        "Draw": 7.0
-      },
-      "Unibet (NL)": {
-        "Augsburg": 1.12,
-        "SG Sonnenhof Großaspach": 16.0,
-        "Draw": 7.0
-      },
-      "Pinnacle": {
-        "Augsburg": 1.13,
-        "SG Sonnenhof Großaspach": 25.85,
-        "Draw": 7.5
+        "Don Benito": 18.0,
+        "Extremadura": 1.03,
+        "Draw": 11.0
       }
     },
-    "838c0dbeda49ce3f98455934313c5bb1:h2h": {
+    "0b6eb07c9db487bffca16f724239e9b5:h2h": {
       "Tipico": {
-        "Eintracht Frankfurt": 2.3,
-        "Hamburger SV": 3.6,
-        "Draw": 2.7
-      },
-      "Winamax (DE)": {
-        "Eintracht Frankfurt": 2.35,
-        "Hamburger SV": 3.35,
-        "Draw": 2.5
-      },
-      "Winamax (FR)": {
-        "Eintracht Frankfurt": 2.25,
-        "Hamburger SV": 3.3,
-        "Draw": 2.5
-      },
-      "Unibet (FR)": {
-        "Eintracht Frankfurt": 2.15,
-        "Hamburger SV": 3.1,
-        "Draw": 2.35
-      },
-      "Betclic (FR)": {
-        "Eintracht Frankfurt": 2.25,
-        "Hamburger SV": 3.27,
-        "Draw": 2.52
-      },
-      "888sport": {
-        "Eintracht Frankfurt": 2.4,
-        "Hamburger SV": 3.3,
-        "Draw": 2.5
-      },
-      "Unibet (SE)": {
-        "Eintracht Frankfurt": 2.25,
-        "Hamburger SV": 3.4,
-        "Draw": 2.7
-      },
-      "PMU (FR)": {
-        "Eintracht Frankfurt": 2.14,
-        "Hamburger SV": 3.25,
-        "Draw": 2.55
-      },
-      "LeoVegas (SE)": {
-        "Eintracht Frankfurt": 2.12,
-        "Hamburger SV": 3.2,
-        "Draw": 2.55
-      },
-      "Unibet (NL)": {
-        "Eintracht Frankfurt": 2.25,
-        "Hamburger SV": 3.4,
-        "Draw": 2.7
-      },
-      "Pinnacle": {
-        "Eintracht Frankfurt": 2.33,
-        "Hamburger SV": 3.64,
-        "Draw": 2.75
+        "Manresa": 1.8,
+        "UE Sant Andreu": 1.9
       }
     },
-    "8fbf46f1db5270fe3cfa7c639906565c:h2h": {
-      "Tipico": {
-        "FSV Mainz 05": 2.3,
-        "VfL Bochum": 4.0,
-        "Draw": 2.5
+    "29d04f0dddd5b30cd51de9acb7925795:h2h": {
+      "Winamax (FR)": {
+        "Arsenal": 16.0,
+        "Fleetwood Town": 42.0,
+        "Draw": 1.04
       },
       "Winamax (DE)": {
-        "FSV Mainz 05": 2.35,
-        "VfL Bochum": 3.5,
-        "Draw": 2.45
+        "Arsenal": 17.0,
+        "Fleetwood Town": 42.0,
+        "Draw": 1.03
       },
-      "Winamax (FR)": {
-        "FSV Mainz 05": 2.25,
-        "VfL Bochum": 3.5,
-        "Draw": 2.4
+      "Betfair": {
+        "Arsenal": 1.06,
+        "Fleetwood Town": 2.5
       },
-      "Unibet (FR)": {
-        "FSV Mainz 05": 2.15,
-        "VfL Bochum": 3.3,
-        "Draw": 2.25
-      },
-      "Betclic (FR)": {
-        "FSV Mainz 05": 2.23,
-        "VfL Bochum": 3.53,
-        "Draw": 2.37
-      },
-      "888sport": {
-        "FSV Mainz 05": 2.4,
-        "VfL Bochum": 3.6,
-        "Draw": 2.4
-      },
-      "Unibet (SE)": {
-        "FSV Mainz 05": 2.38,
-        "VfL Bochum": 3.45,
-        "Draw": 2.55
-      },
-      "PMU (FR)": {
-        "FSV Mainz 05": 2.25,
-        "VfL Bochum": 3.3,
-        "Draw": 2.4
-      },
-      "LeoVegas (SE)": {
-        "FSV Mainz 05": 2.23,
-        "VfL Bochum": 3.25,
-        "Draw": 2.38
-      },
-      "Unibet (NL)": {
-        "FSV Mainz 05": 2.38,
-        "VfL Bochum": 3.45,
-        "Draw": 2.55
-      },
-      "Pinnacle": {
-        "FSV Mainz 05": 2.42,
-        "VfL Bochum": 3.95,
-        "Draw": 2.5
-      }
-    },
-    "ee1ff41f6c90f1e5f37b1b4e7426b935:h2h": {
       "Tipico": {
-        "RB Leipzig": 6.0,
-        "Rot-Weiss Essen": 1.55,
-        "Draw": 3.6
-      },
-      "Unibet (FR)": {
-        "RB Leipzig": 6.0,
-        "Rot-Weiss Essen": 1.45,
-        "Draw": 2.95
-      },
-      "Winamax (FR)": {
-        "RB Leipzig": 6.0,
-        "Rot-Weiss Essen": 1.52,
-        "Draw": 3.3
-      },
-      "Winamax (DE)": {
-        "RB Leipzig": 6.25,
-        "Rot-Weiss Essen": 1.56,
-        "Draw": 3.35
-      },
-      "Betclic (FR)": {
-        "RB Leipzig": 6.25,
-        "Rot-Weiss Essen": 1.47,
-        "Draw": 3.2
-      },
-      "888sport": {
-        "RB Leipzig": 5.5,
-        "Rot-Weiss Essen": 1.6,
-        "Draw": 3.4
-      },
-      "Unibet (SE)": {
-        "RB Leipzig": 5.0,
-        "Rot-Weiss Essen": 1.67,
-        "Draw": 3.3
-      },
-      "PMU (FR)": {
-        "RB Leipzig": 4.75,
-        "Rot-Weiss Essen": 1.56,
-        "Draw": 3.15
-      },
-      "LeoVegas (SE)": {
-        "RB Leipzig": 4.75,
-        "Rot-Weiss Essen": 1.56,
-        "Draw": 3.1
-      },
-      "Unibet (NL)": {
-        "RB Leipzig": 5.0,
-        "Rot-Weiss Essen": 1.67,
-        "Draw": 3.3
+        "Arsenal": 1.65,
+        "Fleetwood Town": 2.1
       },
       "Pinnacle": {
-        "RB Leipzig": 2.73,
-        "Rot-Weiss Essen": 2.7,
-        "Draw": 3.04
+        "Arsenal": 1.69,
+        "Fleetwood Town": 23.98,
+        "Draw": 2.32
+      },
+      "Betsson": {
+        "Arsenal": 12.0,
+        "Fleetwood Town": 29.0,
+        "Draw": 1.04
+      },
+      "Nordic Bet": {
+        "Arsenal": 15.0,
+        "Fleetwood Town": 29.0,
+        "Draw": 1.03
+      },
+      "888sport": {
+        "Arsenal": 11.0,
+        "Fleetwood Town": 29.0,
+        "Draw": 1.06
+      },
+      "Coolbet": {
+        "Arsenal": 12.0,
+        "Fleetwood Town": 28.0,
+        "Draw": 1.06
+      },
+      "PMU (FR)": {
+        "Arsenal": 8.0,
+        "Fleetwood Town": 35.0,
+        "Draw": 1.01
+      },
+      "Unibet (NL)": {
+        "Arsenal": 8.5,
+        "Fleetwood Town": 36.0,
+        "Draw": 1.06
+      },
+      "LeoVegas (SE)": {
+        "Arsenal": 8.5,
+        "Fleetwood Town": 36.0,
+        "Draw": 1.06
+      },
+      "Unibet (SE)": {
+        "Arsenal": 41.0,
+        "Fleetwood Town": 23.0,
+        "Draw": 1.02
       }
     }
   },
@@ -5830,20 +5680,332 @@
       "confidence": 72,
       "alert_type": "value",
       "alerted_at": "2026-10-27T17:55:38.881350+00:00"
+    },
+    {
+      "state_key": "29d04f0dddd5b30cd51de9acb7925795:h2h",
+      "event_id": "29d04f0dddd5b30cd51de9acb7925795",
+      "sport_key": "soccer",
+      "competition": "EFL Cup",
+      "home_team": "Fleetwood Town",
+      "away_team": "Arsenal",
+      "commence_time": "2026-10-27T20:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Arsenal",
+      "odds_at_alert": 16.0,
+      "stake_pct": 5.0,
+      "confidence": 789,
+      "alert_type": "value",
+      "alerted_at": "2026-10-27T22:07:01.134663+00:00"
+    },
+    {
+      "state_key": "29d04f0dddd5b30cd51de9acb7925795:h2h",
+      "event_id": "29d04f0dddd5b30cd51de9acb7925795",
+      "sport_key": "soccer",
+      "competition": "EFL Cup",
+      "home_team": "Fleetwood Town",
+      "away_team": "Arsenal",
+      "commence_time": "2026-10-27T20:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Fleetwood Town",
+      "odds_at_alert": 42.0,
+      "stake_pct": 5.0,
+      "confidence": 65,
+      "alert_type": "value",
+      "alerted_at": "2026-10-27T22:07:01.500378+00:00"
+    },
+    {
+      "state_key": "29d04f0dddd5b30cd51de9acb7925795:h2h",
+      "event_id": "29d04f0dddd5b30cd51de9acb7925795",
+      "sport_key": "soccer",
+      "competition": "EFL Cup",
+      "home_team": "Fleetwood Town",
+      "away_team": "Arsenal",
+      "commence_time": "2026-10-27T20:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Arsenal",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 845,
+      "alert_type": "value",
+      "alerted_at": "2026-10-27T22:07:01.957024+00:00"
+    },
+    {
+      "state_key": "29d04f0dddd5b30cd51de9acb7925795:h2h",
+      "event_id": "29d04f0dddd5b30cd51de9acb7925795",
+      "sport_key": "soccer",
+      "competition": "EFL Cup",
+      "home_team": "Fleetwood Town",
+      "away_team": "Arsenal",
+      "commence_time": "2026-10-27T20:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Fleetwood Town",
+      "odds_at_alert": 42.0,
+      "stake_pct": 5.0,
+      "confidence": 65,
+      "alert_type": "value",
+      "alerted_at": "2026-10-27T22:07:02.289589+00:00"
+    },
+    {
+      "state_key": "29d04f0dddd5b30cd51de9acb7925795:h2h",
+      "event_id": "29d04f0dddd5b30cd51de9acb7925795",
+      "sport_key": "soccer",
+      "competition": "EFL Cup",
+      "home_team": "Fleetwood Town",
+      "away_team": "Arsenal",
+      "commence_time": "2026-10-27T20:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Arsenal",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 567,
+      "alert_type": "value",
+      "alerted_at": "2026-10-27T22:07:02.603285+00:00"
+    },
+    {
+      "state_key": "29d04f0dddd5b30cd51de9acb7925795:h2h",
+      "event_id": "29d04f0dddd5b30cd51de9acb7925795",
+      "sport_key": "soccer",
+      "competition": "EFL Cup",
+      "home_team": "Fleetwood Town",
+      "away_team": "Arsenal",
+      "commence_time": "2026-10-27T20:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Fleetwood Town",
+      "odds_at_alert": 29.0,
+      "stake_pct": 3.0,
+      "confidence": 14,
+      "alert_type": "value",
+      "alerted_at": "2026-10-27T22:07:02.924754+00:00"
+    },
+    {
+      "state_key": "29d04f0dddd5b30cd51de9acb7925795:h2h",
+      "event_id": "29d04f0dddd5b30cd51de9acb7925795",
+      "sport_key": "soccer",
+      "competition": "EFL Cup",
+      "home_team": "Fleetwood Town",
+      "away_team": "Arsenal",
+      "commence_time": "2026-10-27T20:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Arsenal",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 734,
+      "alert_type": "value",
+      "alerted_at": "2026-10-27T22:07:03.258341+00:00"
+    },
+    {
+      "state_key": "29d04f0dddd5b30cd51de9acb7925795:h2h",
+      "event_id": "29d04f0dddd5b30cd51de9acb7925795",
+      "sport_key": "soccer",
+      "competition": "EFL Cup",
+      "home_team": "Fleetwood Town",
+      "away_team": "Arsenal",
+      "commence_time": "2026-10-27T20:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Fleetwood Town",
+      "odds_at_alert": 29.0,
+      "stake_pct": 3.0,
+      "confidence": 14,
+      "alert_type": "value",
+      "alerted_at": "2026-10-27T22:07:03.578759+00:00"
+    },
+    {
+      "state_key": "29d04f0dddd5b30cd51de9acb7925795:h2h",
+      "event_id": "29d04f0dddd5b30cd51de9acb7925795",
+      "sport_key": "soccer",
+      "competition": "EFL Cup",
+      "home_team": "Fleetwood Town",
+      "away_team": "Arsenal",
+      "commence_time": "2026-10-27T20:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Arsenal",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 511,
+      "alert_type": "value",
+      "alerted_at": "2026-10-27T22:07:03.892607+00:00"
+    },
+    {
+      "state_key": "29d04f0dddd5b30cd51de9acb7925795:h2h",
+      "event_id": "29d04f0dddd5b30cd51de9acb7925795",
+      "sport_key": "soccer",
+      "competition": "EFL Cup",
+      "home_team": "Fleetwood Town",
+      "away_team": "Arsenal",
+      "commence_time": "2026-10-27T20:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Fleetwood Town",
+      "odds_at_alert": 29.0,
+      "stake_pct": 3.0,
+      "confidence": 14,
+      "alert_type": "value",
+      "alerted_at": "2026-10-27T22:07:04.216270+00:00"
+    },
+    {
+      "state_key": "29d04f0dddd5b30cd51de9acb7925795:h2h",
+      "event_id": "29d04f0dddd5b30cd51de9acb7925795",
+      "sport_key": "soccer",
+      "competition": "EFL Cup",
+      "home_team": "Fleetwood Town",
+      "away_team": "Arsenal",
+      "commence_time": "2026-10-27T20:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Arsenal",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 567,
+      "alert_type": "value",
+      "alerted_at": "2026-10-27T22:07:04.582558+00:00"
+    },
+    {
+      "state_key": "29d04f0dddd5b30cd51de9acb7925795:h2h",
+      "event_id": "29d04f0dddd5b30cd51de9acb7925795",
+      "sport_key": "soccer",
+      "competition": "EFL Cup",
+      "home_team": "Fleetwood Town",
+      "away_team": "Arsenal",
+      "commence_time": "2026-10-27T20:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Fleetwood Town",
+      "odds_at_alert": 28.0,
+      "stake_pct": 2.0,
+      "confidence": 10,
+      "alert_type": "value",
+      "alerted_at": "2026-10-27T22:07:04.942761+00:00"
+    },
+    {
+      "state_key": "29d04f0dddd5b30cd51de9acb7925795:h2h",
+      "event_id": "29d04f0dddd5b30cd51de9acb7925795",
+      "sport_key": "soccer",
+      "competition": "EFL Cup",
+      "home_team": "Fleetwood Town",
+      "away_team": "Arsenal",
+      "commence_time": "2026-10-27T20:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Arsenal",
+      "odds_at_alert": 8.0,
+      "stake_pct": 5.0,
+      "confidence": 345,
+      "alert_type": "value",
+      "alerted_at": "2026-10-27T22:07:05.353226+00:00"
+    },
+    {
+      "state_key": "29d04f0dddd5b30cd51de9acb7925795:h2h",
+      "event_id": "29d04f0dddd5b30cd51de9acb7925795",
+      "sport_key": "soccer",
+      "competition": "EFL Cup",
+      "home_team": "Fleetwood Town",
+      "away_team": "Arsenal",
+      "commence_time": "2026-10-27T20:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Fleetwood Town",
+      "odds_at_alert": 35.0,
+      "stake_pct": 5.0,
+      "confidence": 37,
+      "alert_type": "value",
+      "alerted_at": "2026-10-27T22:07:05.674069+00:00"
+    },
+    {
+      "state_key": "29d04f0dddd5b30cd51de9acb7925795:h2h",
+      "event_id": "29d04f0dddd5b30cd51de9acb7925795",
+      "sport_key": "soccer",
+      "competition": "EFL Cup",
+      "home_team": "Fleetwood Town",
+      "away_team": "Arsenal",
+      "commence_time": "2026-10-27T20:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Arsenal",
+      "odds_at_alert": 8.5,
+      "stake_pct": 5.0,
+      "confidence": 373,
+      "alert_type": "value",
+      "alerted_at": "2026-10-27T22:07:06.011956+00:00"
+    },
+    {
+      "state_key": "29d04f0dddd5b30cd51de9acb7925795:h2h",
+      "event_id": "29d04f0dddd5b30cd51de9acb7925795",
+      "sport_key": "soccer",
+      "competition": "EFL Cup",
+      "home_team": "Fleetwood Town",
+      "away_team": "Arsenal",
+      "commence_time": "2026-10-27T20:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Fleetwood Town",
+      "odds_at_alert": 36.0,
+      "stake_pct": 5.0,
+      "confidence": 41,
+      "alert_type": "value",
+      "alerted_at": "2026-10-27T22:07:06.329283+00:00"
+    },
+    {
+      "state_key": "29d04f0dddd5b30cd51de9acb7925795:h2h",
+      "event_id": "29d04f0dddd5b30cd51de9acb7925795",
+      "sport_key": "soccer",
+      "competition": "EFL Cup",
+      "home_team": "Fleetwood Town",
+      "away_team": "Arsenal",
+      "commence_time": "2026-10-27T20:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Arsenal",
+      "odds_at_alert": 8.5,
+      "stake_pct": 5.0,
+      "confidence": 373,
+      "alert_type": "value",
+      "alerted_at": "2026-10-27T22:07:06.662064+00:00"
+    },
+    {
+      "state_key": "29d04f0dddd5b30cd51de9acb7925795:h2h",
+      "event_id": "29d04f0dddd5b30cd51de9acb7925795",
+      "sport_key": "soccer",
+      "competition": "EFL Cup",
+      "home_team": "Fleetwood Town",
+      "away_team": "Arsenal",
+      "commence_time": "2026-10-27T20:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Fleetwood Town",
+      "odds_at_alert": 36.0,
+      "stake_pct": 5.0,
+      "confidence": 41,
+      "alert_type": "value",
+      "alerted_at": "2026-10-27T22:07:06.979496+00:00"
+    },
+    {
+      "state_key": "29d04f0dddd5b30cd51de9acb7925795:h2h",
+      "event_id": "29d04f0dddd5b30cd51de9acb7925795",
+      "sport_key": "soccer",
+      "competition": "EFL Cup",
+      "home_team": "Fleetwood Town",
+      "away_team": "Arsenal",
+      "commence_time": "2026-10-27T20:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Arsenal",
+      "odds_at_alert": 41.0,
+      "stake_pct": 5.0,
+      "confidence": 2179,
+      "alert_type": "value",
+      "alerted_at": "2026-10-27T22:07:07.294262+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "ee1ff41f6c90f1e5f37b1b4e7426b935:h2h|888sport|RB Leipzig",
-    "ee1ff41f6c90f1e5f37b1b4e7426b935:h2h|Betclic (FR)|RB Leipzig",
-    "ee1ff41f6c90f1e5f37b1b4e7426b935:h2h|LeoVegas (SE)|RB Leipzig",
-    "ee1ff41f6c90f1e5f37b1b4e7426b935:h2h|PMU (FR)|RB Leipzig",
-    "ee1ff41f6c90f1e5f37b1b4e7426b935:h2h|Tipico|Draw",
-    "ee1ff41f6c90f1e5f37b1b4e7426b935:h2h|Tipico|RB Leipzig",
-    "ee1ff41f6c90f1e5f37b1b4e7426b935:h2h|Unibet (FR)|RB Leipzig",
-    "ee1ff41f6c90f1e5f37b1b4e7426b935:h2h|Unibet (NL)|RB Leipzig",
-    "ee1ff41f6c90f1e5f37b1b4e7426b935:h2h|Unibet (SE)|RB Leipzig",
-    "ee1ff41f6c90f1e5f37b1b4e7426b935:h2h|Winamax (DE)|RB Leipzig",
-    "ee1ff41f6c90f1e5f37b1b4e7426b935:h2h|Winamax (FR)|RB Leipzig"
+    "29d04f0dddd5b30cd51de9acb7925795:h2h|888sport|Arsenal",
+    "29d04f0dddd5b30cd51de9acb7925795:h2h|888sport|Fleetwood Town",
+    "29d04f0dddd5b30cd51de9acb7925795:h2h|Betsson|Arsenal",
+    "29d04f0dddd5b30cd51de9acb7925795:h2h|Betsson|Fleetwood Town",
+    "29d04f0dddd5b30cd51de9acb7925795:h2h|Coolbet|Arsenal",
+    "29d04f0dddd5b30cd51de9acb7925795:h2h|Coolbet|Fleetwood Town",
+    "29d04f0dddd5b30cd51de9acb7925795:h2h|LeoVegas (SE)|Arsenal",
+    "29d04f0dddd5b30cd51de9acb7925795:h2h|LeoVegas (SE)|Fleetwood Town",
+    "29d04f0dddd5b30cd51de9acb7925795:h2h|Nordic Bet|Arsenal",
+    "29d04f0dddd5b30cd51de9acb7925795:h2h|Nordic Bet|Fleetwood Town",
+    "29d04f0dddd5b30cd51de9acb7925795:h2h|PMU (FR)|Arsenal",
+    "29d04f0dddd5b30cd51de9acb7925795:h2h|PMU (FR)|Fleetwood Town",
+    "29d04f0dddd5b30cd51de9acb7925795:h2h|Unibet (NL)|Arsenal",
+    "29d04f0dddd5b30cd51de9acb7925795:h2h|Unibet (NL)|Fleetwood Town",
+    "29d04f0dddd5b30cd51de9acb7925795:h2h|Unibet (SE)|Arsenal",
+    "29d04f0dddd5b30cd51de9acb7925795:h2h|Winamax (DE)|Arsenal",
+    "29d04f0dddd5b30cd51de9acb7925795:h2h|Winamax (DE)|Fleetwood Town",
+    "29d04f0dddd5b30cd51de9acb7925795:h2h|Winamax (FR)|Arsenal",
+    "29d04f0dddd5b30cd51de9acb7925795:h2h|Winamax (FR)|Fleetwood Town"
   ]
 }
