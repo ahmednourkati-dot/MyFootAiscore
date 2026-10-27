@@ -1,246 +1,231 @@
 {
   "snapshots": {
-    "a42f82d7816ede536681c5c86da0e480:h2h": {
-      "Pinnacle": {
-        "Abha Club": 2.54,
-        "Al-Faisaly KSA FC": 2.77,
-        "Draw": 3.41
-      },
-      "1xBet": {
-        "Abha Club": 2.49,
-        "Al-Faisaly KSA FC": 2.66,
-        "Draw": 3.43
-      },
-      "LeoVegas (SE)": {
-        "Abha Club": 2.33,
-        "Al-Faisaly KSA FC": 2.65,
-        "Draw": 3.1
-      },
-      "Unibet (NL)": {
-        "Abha Club": 2.4,
-        "Al-Faisaly KSA FC": 2.7,
-        "Draw": 3.2
-      },
-      "Unibet (SE)": {
-        "Abha Club": 2.4,
-        "Al-Faisaly KSA FC": 2.7,
-        "Draw": 3.2
-      },
-      "Tipico": {
-        "Abha Club": 2.5,
-        "Al-Faisaly KSA FC": 2.55,
-        "Draw": 3.3
-      },
-      "Winamax (DE)": {
-        "Abha Club": 2.35,
-        "Al-Faisaly KSA FC": 2.65,
-        "Draw": 3.35
-      },
-      "888sport": {
-        "Abha Club": 2.4,
-        "Al-Faisaly KSA FC": 2.62,
-        "Draw": 3.0
-      },
-      "PMU (FR)": {
-        "Abha Club": 2.25,
-        "Al-Faisaly KSA FC": 2.55,
-        "Draw": 3.0
-      },
-      "William Hill": {
-        "Abha Club": 2.4,
-        "Al-Faisaly KSA FC": 2.62,
-        "Draw": 3.0
-      },
-      "Unibet (FR)": {
-        "Abha Club": 2.15,
-        "Al-Faisaly KSA FC": 2.55,
-        "Draw": 3.1
-      },
-      "Winamax (FR)": {
-        "Abha Club": 2.35,
-        "Al-Faisaly KSA FC": 2.6,
-        "Draw": 3.25
-      },
-      "Betclic (FR)": {
-        "Abha Club": 2.3,
-        "Al-Faisaly KSA FC": 2.67,
-        "Draw": 3.23
-      },
-      "Betfair": {
-        "Abha Club": 2.52,
-        "Al-Faisaly KSA FC": 3.0,
-        "Draw": 3.5
-      }
-    },
     "72aa6d55a32872d89279c98d0b8714d8:h2h": {
       "Tipico": {
-        "Augsburg": 1.22,
-        "SG Sonnenhof Großaspach": 10.5,
-        "Draw": 6.8
+        "Augsburg": 1.1,
+        "SG Sonnenhof Großaspach": 18.0,
+        "Draw": 8.0
       },
       "Winamax (FR)": {
-        "Augsburg": 1.21,
-        "SG Sonnenhof Großaspach": 7.75,
-        "Draw": 6.0
-      },
-      "Winamax (DE)": {
-        "Augsburg": 1.24,
-        "SG Sonnenhof Großaspach": 8.5,
+        "Augsburg": 1.15,
+        "SG Sonnenhof Großaspach": 16.0,
         "Draw": 6.75
       },
+      "Winamax (DE)": {
+        "Augsburg": 1.14,
+        "SG Sonnenhof Großaspach": 16.0,
+        "Draw": 7.25
+      },
       "Betclic (FR)": {
-        "Augsburg": 1.23,
-        "SG Sonnenhof Großaspach": 8.75,
+        "Augsburg": 1.08,
+        "SG Sonnenhof Großaspach": 15.25,
         "Draw": 5.9
       },
       "Unibet (FR)": {
-        "Augsburg": 1.2,
-        "SG Sonnenhof Großaspach": 8.4,
-        "Draw": 5.6
+        "Augsburg": 1.09,
+        "SG Sonnenhof Großaspach": 12.0,
+        "Draw": 4.85
       },
       "888sport": {
-        "Augsburg": 1.25,
-        "SG Sonnenhof Großaspach": 8.5,
-        "Draw": 6.0
-      },
-      "Codere (IT)": {
-        "Augsburg": 1.25,
-        "SG Sonnenhof Großaspach": 9.4,
-        "Draw": 6.2
+        "Augsburg": 1.15,
+        "SG Sonnenhof Großaspach": 17.0,
+        "Draw": 6.5
       },
       "Unibet (SE)": {
-        "Augsburg": 1.25,
-        "SG Sonnenhof Großaspach": 9.5,
-        "Draw": 6.4
+        "Augsburg": 1.12,
+        "SG Sonnenhof Großaspach": 16.0,
+        "Draw": 7.0
       },
       "PMU (FR)": {
-        "Augsburg": 1.21,
-        "SG Sonnenhof Großaspach": 8.5,
-        "Draw": 6.0
+        "Augsburg": 1.05,
+        "SG Sonnenhof Großaspach": 16.0,
+        "Draw": 7.0
       },
       "LeoVegas (SE)": {
-        "Augsburg": 1.19,
-        "SG Sonnenhof Großaspach": 8.5,
-        "Draw": 5.8
+        "Augsburg": 1.05,
+        "SG Sonnenhof Großaspach": 16.0,
+        "Draw": 7.0
       },
       "Unibet (NL)": {
-        "Augsburg": 1.25,
-        "SG Sonnenhof Großaspach": 9.5,
-        "Draw": 6.4
+        "Augsburg": 1.12,
+        "SG Sonnenhof Großaspach": 16.0,
+        "Draw": 7.0
+      },
+      "Pinnacle": {
+        "Augsburg": 1.13,
+        "SG Sonnenhof Großaspach": 25.85,
+        "Draw": 7.5
       }
     },
     "838c0dbeda49ce3f98455934313c5bb1:h2h": {
       "Tipico": {
-        "Eintracht Frankfurt": 2.0,
-        "Hamburger SV": 3.4,
-        "Draw": 3.8
+        "Eintracht Frankfurt": 2.3,
+        "Hamburger SV": 3.6,
+        "Draw": 2.7
       },
       "Winamax (DE)": {
-        "Eintracht Frankfurt": 2.0,
-        "Hamburger SV": 3.25,
-        "Draw": 3.8
+        "Eintracht Frankfurt": 2.35,
+        "Hamburger SV": 3.35,
+        "Draw": 2.5
       },
       "Winamax (FR)": {
-        "Eintracht Frankfurt": 1.96,
-        "Hamburger SV": 3.1,
-        "Draw": 3.65
+        "Eintracht Frankfurt": 2.25,
+        "Hamburger SV": 3.3,
+        "Draw": 2.5
       },
       "Unibet (FR)": {
-        "Eintracht Frankfurt": 1.95,
-        "Hamburger SV": 3.0,
-        "Draw": 3.5
+        "Eintracht Frankfurt": 2.15,
+        "Hamburger SV": 3.1,
+        "Draw": 2.35
       },
       "Betclic (FR)": {
-        "Eintracht Frankfurt": 1.98,
-        "Hamburger SV": 3.13,
-        "Draw": 3.63
+        "Eintracht Frankfurt": 2.25,
+        "Hamburger SV": 3.27,
+        "Draw": 2.52
       },
       "888sport": {
-        "Eintracht Frankfurt": 2.05,
-        "Hamburger SV": 3.1,
-        "Draw": 3.5
-      },
-      "Codere (IT)": {
-        "Eintracht Frankfurt": 2.05,
-        "Hamburger SV": 3.2,
-        "Draw": 3.7
+        "Eintracht Frankfurt": 2.4,
+        "Hamburger SV": 3.3,
+        "Draw": 2.5
       },
       "Unibet (SE)": {
-        "Eintracht Frankfurt": 2.08,
-        "Hamburger SV": 3.15,
-        "Draw": 3.8
+        "Eintracht Frankfurt": 2.25,
+        "Hamburger SV": 3.4,
+        "Draw": 2.7
       },
       "PMU (FR)": {
-        "Eintracht Frankfurt": 2.0,
-        "Hamburger SV": 3.0,
-        "Draw": 3.6
+        "Eintracht Frankfurt": 2.14,
+        "Hamburger SV": 3.25,
+        "Draw": 2.55
       },
       "LeoVegas (SE)": {
-        "Eintracht Frankfurt": 1.95,
-        "Hamburger SV": 2.95,
-        "Draw": 3.55
+        "Eintracht Frankfurt": 2.12,
+        "Hamburger SV": 3.2,
+        "Draw": 2.55
       },
       "Unibet (NL)": {
-        "Eintracht Frankfurt": 2.08,
-        "Hamburger SV": 3.15,
-        "Draw": 3.8
+        "Eintracht Frankfurt": 2.25,
+        "Hamburger SV": 3.4,
+        "Draw": 2.7
+      },
+      "Pinnacle": {
+        "Eintracht Frankfurt": 2.33,
+        "Hamburger SV": 3.64,
+        "Draw": 2.75
       }
     },
     "8fbf46f1db5270fe3cfa7c639906565c:h2h": {
       "Tipico": {
-        "FSV Mainz 05": 1.57,
-        "VfL Bochum": 5.2,
-        "Draw": 4.3
+        "FSV Mainz 05": 2.3,
+        "VfL Bochum": 4.0,
+        "Draw": 2.5
       },
       "Winamax (DE)": {
-        "FSV Mainz 05": 1.58,
-        "VfL Bochum": 4.8,
-        "Draw": 4.4
+        "FSV Mainz 05": 2.35,
+        "VfL Bochum": 3.5,
+        "Draw": 2.45
       },
       "Winamax (FR)": {
-        "FSV Mainz 05": 1.54,
-        "VfL Bochum": 4.5,
-        "Draw": 4.2
+        "FSV Mainz 05": 2.25,
+        "VfL Bochum": 3.5,
+        "Draw": 2.4
       },
       "Unibet (FR)": {
-        "FSV Mainz 05": 1.5,
-        "VfL Bochum": 4.6,
-        "Draw": 4.0
+        "FSV Mainz 05": 2.15,
+        "VfL Bochum": 3.3,
+        "Draw": 2.25
       },
       "Betclic (FR)": {
-        "FSV Mainz 05": 1.54,
-        "VfL Bochum": 4.8,
-        "Draw": 4.15
+        "FSV Mainz 05": 2.23,
+        "VfL Bochum": 3.53,
+        "Draw": 2.37
       },
       "888sport": {
-        "FSV Mainz 05": 1.61,
-        "VfL Bochum": 4.8,
-        "Draw": 3.9
-      },
-      "Codere (IT)": {
-        "FSV Mainz 05": 1.59,
-        "VfL Bochum": 4.9,
-        "Draw": 4.3
+        "FSV Mainz 05": 2.4,
+        "VfL Bochum": 3.6,
+        "Draw": 2.4
       },
       "Unibet (SE)": {
-        "FSV Mainz 05": 1.6,
-        "VfL Bochum": 5.0,
-        "Draw": 4.25
+        "FSV Mainz 05": 2.38,
+        "VfL Bochum": 3.45,
+        "Draw": 2.55
       },
       "PMU (FR)": {
-        "FSV Mainz 05": 1.54,
-        "VfL Bochum": 4.7,
-        "Draw": 4.0
+        "FSV Mainz 05": 2.25,
+        "VfL Bochum": 3.3,
+        "Draw": 2.4
       },
       "LeoVegas (SE)": {
-        "FSV Mainz 05": 1.51,
-        "VfL Bochum": 4.6,
-        "Draw": 3.95
+        "FSV Mainz 05": 2.23,
+        "VfL Bochum": 3.25,
+        "Draw": 2.38
       },
       "Unibet (NL)": {
-        "FSV Mainz 05": 1.6,
-        "VfL Bochum": 5.0,
-        "Draw": 4.25
+        "FSV Mainz 05": 2.38,
+        "VfL Bochum": 3.45,
+        "Draw": 2.55
+      },
+      "Pinnacle": {
+        "FSV Mainz 05": 2.42,
+        "VfL Bochum": 3.95,
+        "Draw": 2.5
+      }
+    },
+    "ee1ff41f6c90f1e5f37b1b4e7426b935:h2h": {
+      "Tipico": {
+        "RB Leipzig": 6.0,
+        "Rot-Weiss Essen": 1.55,
+        "Draw": 3.6
+      },
+      "Unibet (FR)": {
+        "RB Leipzig": 6.0,
+        "Rot-Weiss Essen": 1.45,
+        "Draw": 2.95
+      },
+      "Winamax (FR)": {
+        "RB Leipzig": 6.0,
+        "Rot-Weiss Essen": 1.52,
+        "Draw": 3.3
+      },
+      "Winamax (DE)": {
+        "RB Leipzig": 6.25,
+        "Rot-Weiss Essen": 1.56,
+        "Draw": 3.35
+      },
+      "Betclic (FR)": {
+        "RB Leipzig": 6.25,
+        "Rot-Weiss Essen": 1.47,
+        "Draw": 3.2
+      },
+      "888sport": {
+        "RB Leipzig": 5.5,
+        "Rot-Weiss Essen": 1.6,
+        "Draw": 3.4
+      },
+      "Unibet (SE)": {
+        "RB Leipzig": 5.0,
+        "Rot-Weiss Essen": 1.67,
+        "Draw": 3.3
+      },
+      "PMU (FR)": {
+        "RB Leipzig": 4.75,
+        "Rot-Weiss Essen": 1.56,
+        "Draw": 3.15
+      },
+      "LeoVegas (SE)": {
+        "RB Leipzig": 4.75,
+        "Rot-Weiss Essen": 1.56,
+        "Draw": 3.1
+      },
+      "Unibet (NL)": {
+        "RB Leipzig": 5.0,
+        "Rot-Weiss Essen": 1.67,
+        "Draw": 3.3
+      },
+      "Pinnacle": {
+        "RB Leipzig": 2.73,
+        "Rot-Weiss Essen": 2.7,
+        "Draw": 3.04
       }
     }
   },
@@ -5669,8 +5654,196 @@
       "confidence": 8,
       "alert_type": "value",
       "alerted_at": "2026-10-26T23:48:14.882574+00:00"
+    },
+    {
+      "state_key": "ee1ff41f6c90f1e5f37b1b4e7426b935:h2h",
+      "event_id": "ee1ff41f6c90f1e5f37b1b4e7426b935",
+      "sport_key": "soccer",
+      "competition": "DFB-Pokal",
+      "home_team": "Rot-Weiss Essen",
+      "away_team": "RB Leipzig",
+      "commence_time": "2026-10-27T17:00:01Z",
+      "market_label": "Cotes 1X2",
+      "selection": "RB Leipzig",
+      "odds_at_alert": 6.0,
+      "stake_pct": 5.0,
+      "confidence": 106,
+      "alert_type": "value",
+      "alerted_at": "2026-10-27T17:55:35.149536+00:00"
+    },
+    {
+      "state_key": "ee1ff41f6c90f1e5f37b1b4e7426b935:h2h",
+      "event_id": "ee1ff41f6c90f1e5f37b1b4e7426b935",
+      "sport_key": "soccer",
+      "competition": "DFB-Pokal",
+      "home_team": "Rot-Weiss Essen",
+      "away_team": "RB Leipzig",
+      "commence_time": "2026-10-27T17:00:01Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.6,
+      "stake_pct": 3.0,
+      "confidence": 11,
+      "alert_type": "value",
+      "alerted_at": "2026-10-27T17:55:35.492837+00:00"
+    },
+    {
+      "state_key": "ee1ff41f6c90f1e5f37b1b4e7426b935:h2h",
+      "event_id": "ee1ff41f6c90f1e5f37b1b4e7426b935",
+      "sport_key": "soccer",
+      "competition": "DFB-Pokal",
+      "home_team": "Rot-Weiss Essen",
+      "away_team": "RB Leipzig",
+      "commence_time": "2026-10-27T17:00:01Z",
+      "market_label": "Cotes 1X2",
+      "selection": "RB Leipzig",
+      "odds_at_alert": 6.0,
+      "stake_pct": 5.0,
+      "confidence": 106,
+      "alert_type": "value",
+      "alerted_at": "2026-10-27T17:55:35.866431+00:00"
+    },
+    {
+      "state_key": "ee1ff41f6c90f1e5f37b1b4e7426b935:h2h",
+      "event_id": "ee1ff41f6c90f1e5f37b1b4e7426b935",
+      "sport_key": "soccer",
+      "competition": "DFB-Pokal",
+      "home_team": "Rot-Weiss Essen",
+      "away_team": "RB Leipzig",
+      "commence_time": "2026-10-27T17:00:01Z",
+      "market_label": "Cotes 1X2",
+      "selection": "RB Leipzig",
+      "odds_at_alert": 6.0,
+      "stake_pct": 5.0,
+      "confidence": 106,
+      "alert_type": "value",
+      "alerted_at": "2026-10-27T17:55:36.288826+00:00"
+    },
+    {
+      "state_key": "ee1ff41f6c90f1e5f37b1b4e7426b935:h2h",
+      "event_id": "ee1ff41f6c90f1e5f37b1b4e7426b935",
+      "sport_key": "soccer",
+      "competition": "DFB-Pokal",
+      "home_team": "Rot-Weiss Essen",
+      "away_team": "RB Leipzig",
+      "commence_time": "2026-10-27T17:00:01Z",
+      "market_label": "Cotes 1X2",
+      "selection": "RB Leipzig",
+      "odds_at_alert": 6.25,
+      "stake_pct": 5.0,
+      "confidence": 115,
+      "alert_type": "value",
+      "alerted_at": "2026-10-27T17:55:36.649314+00:00"
+    },
+    {
+      "state_key": "ee1ff41f6c90f1e5f37b1b4e7426b935:h2h",
+      "event_id": "ee1ff41f6c90f1e5f37b1b4e7426b935",
+      "sport_key": "soccer",
+      "competition": "DFB-Pokal",
+      "home_team": "Rot-Weiss Essen",
+      "away_team": "RB Leipzig",
+      "commence_time": "2026-10-27T17:00:01Z",
+      "market_label": "Cotes 1X2",
+      "selection": "RB Leipzig",
+      "odds_at_alert": 6.25,
+      "stake_pct": 5.0,
+      "confidence": 115,
+      "alert_type": "value",
+      "alerted_at": "2026-10-27T17:55:37.025642+00:00"
+    },
+    {
+      "state_key": "ee1ff41f6c90f1e5f37b1b4e7426b935:h2h",
+      "event_id": "ee1ff41f6c90f1e5f37b1b4e7426b935",
+      "sport_key": "soccer",
+      "competition": "DFB-Pokal",
+      "home_team": "Rot-Weiss Essen",
+      "away_team": "RB Leipzig",
+      "commence_time": "2026-10-27T17:00:01Z",
+      "market_label": "Cotes 1X2",
+      "selection": "RB Leipzig",
+      "odds_at_alert": 5.5,
+      "stake_pct": 5.0,
+      "confidence": 89,
+      "alert_type": "value",
+      "alerted_at": "2026-10-27T17:55:37.374071+00:00"
+    },
+    {
+      "state_key": "ee1ff41f6c90f1e5f37b1b4e7426b935:h2h",
+      "event_id": "ee1ff41f6c90f1e5f37b1b4e7426b935",
+      "sport_key": "soccer",
+      "competition": "DFB-Pokal",
+      "home_team": "Rot-Weiss Essen",
+      "away_team": "RB Leipzig",
+      "commence_time": "2026-10-27T17:00:01Z",
+      "market_label": "Cotes 1X2",
+      "selection": "RB Leipzig",
+      "odds_at_alert": 5.0,
+      "stake_pct": 5.0,
+      "confidence": 72,
+      "alert_type": "value",
+      "alerted_at": "2026-10-27T17:55:37.754001+00:00"
+    },
+    {
+      "state_key": "ee1ff41f6c90f1e5f37b1b4e7426b935:h2h",
+      "event_id": "ee1ff41f6c90f1e5f37b1b4e7426b935",
+      "sport_key": "soccer",
+      "competition": "DFB-Pokal",
+      "home_team": "Rot-Weiss Essen",
+      "away_team": "RB Leipzig",
+      "commence_time": "2026-10-27T17:00:01Z",
+      "market_label": "Cotes 1X2",
+      "selection": "RB Leipzig",
+      "odds_at_alert": 4.75,
+      "stake_pct": 5.0,
+      "confidence": 63,
+      "alert_type": "value",
+      "alerted_at": "2026-10-27T17:55:38.166816+00:00"
+    },
+    {
+      "state_key": "ee1ff41f6c90f1e5f37b1b4e7426b935:h2h",
+      "event_id": "ee1ff41f6c90f1e5f37b1b4e7426b935",
+      "sport_key": "soccer",
+      "competition": "DFB-Pokal",
+      "home_team": "Rot-Weiss Essen",
+      "away_team": "RB Leipzig",
+      "commence_time": "2026-10-27T17:00:01Z",
+      "market_label": "Cotes 1X2",
+      "selection": "RB Leipzig",
+      "odds_at_alert": 4.75,
+      "stake_pct": 5.0,
+      "confidence": 63,
+      "alert_type": "value",
+      "alerted_at": "2026-10-27T17:55:38.530059+00:00"
+    },
+    {
+      "state_key": "ee1ff41f6c90f1e5f37b1b4e7426b935:h2h",
+      "event_id": "ee1ff41f6c90f1e5f37b1b4e7426b935",
+      "sport_key": "soccer",
+      "competition": "DFB-Pokal",
+      "home_team": "Rot-Weiss Essen",
+      "away_team": "RB Leipzig",
+      "commence_time": "2026-10-27T17:00:01Z",
+      "market_label": "Cotes 1X2",
+      "selection": "RB Leipzig",
+      "odds_at_alert": 5.0,
+      "stake_pct": 5.0,
+      "confidence": 72,
+      "alert_type": "value",
+      "alerted_at": "2026-10-27T17:55:38.881350+00:00"
     }
   ],
   "results_history": [],
-  "value_alerted": []
+  "value_alerted": [
+    "ee1ff41f6c90f1e5f37b1b4e7426b935:h2h|888sport|RB Leipzig",
+    "ee1ff41f6c90f1e5f37b1b4e7426b935:h2h|Betclic (FR)|RB Leipzig",
+    "ee1ff41f6c90f1e5f37b1b4e7426b935:h2h|LeoVegas (SE)|RB Leipzig",
+    "ee1ff41f6c90f1e5f37b1b4e7426b935:h2h|PMU (FR)|RB Leipzig",
+    "ee1ff41f6c90f1e5f37b1b4e7426b935:h2h|Tipico|Draw",
+    "ee1ff41f6c90f1e5f37b1b4e7426b935:h2h|Tipico|RB Leipzig",
+    "ee1ff41f6c90f1e5f37b1b4e7426b935:h2h|Unibet (FR)|RB Leipzig",
+    "ee1ff41f6c90f1e5f37b1b4e7426b935:h2h|Unibet (NL)|RB Leipzig",
+    "ee1ff41f6c90f1e5f37b1b4e7426b935:h2h|Unibet (SE)|RB Leipzig",
+    "ee1ff41f6c90f1e5f37b1b4e7426b935:h2h|Winamax (DE)|RB Leipzig",
+    "ee1ff41f6c90f1e5f37b1b4e7426b935:h2h|Winamax (FR)|RB Leipzig"
+  ]
 }
