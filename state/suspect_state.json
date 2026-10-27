@@ -1,281 +1,246 @@
 {
   "snapshots": {
-    "641e3cd84dcb88e2b9e0a95cc498e7c8:h2h": {
+    "a42f82d7816ede536681c5c86da0e480:h2h": {
+      "Pinnacle": {
+        "Abha Club": 2.61,
+        "Al-Faisaly KSA FC": 2.7,
+        "Draw": 3.38
+      },
+      "1xBet": {
+        "Abha Club": 2.5,
+        "Al-Faisaly KSA FC": 2.69,
+        "Draw": 3.37
+      },
+      "LeoVegas (SE)": {
+        "Abha Club": 2.32,
+        "Al-Faisaly KSA FC": 2.65,
+        "Draw": 3.1
+      },
+      "Unibet (NL)": {
+        "Abha Club": 2.38,
+        "Al-Faisaly KSA FC": 2.7,
+        "Draw": 3.2
+      },
+      "Unibet (SE)": {
+        "Abha Club": 2.38,
+        "Al-Faisaly KSA FC": 2.7,
+        "Draw": 3.2
+      },
+      "Tipico": {
+        "Abha Club": 2.6,
+        "Al-Faisaly KSA FC": 2.45,
+        "Draw": 3.3
+      },
+      "Winamax (DE)": {
+        "Abha Club": 2.4,
+        "Al-Faisaly KSA FC": 2.6,
+        "Draw": 3.35
+      },
+      "888sport": {
+        "Abha Club": 2.45,
+        "Al-Faisaly KSA FC": 2.5,
+        "Draw": 3.0
+      },
+      "PMU (FR)": {
+        "Abha Club": 2.25,
+        "Al-Faisaly KSA FC": 2.55,
+        "Draw": 3.0
+      },
+      "William Hill": {
+        "Abha Club": 2.45,
+        "Al-Faisaly KSA FC": 2.5,
+        "Draw": 3.0
+      },
       "Unibet (FR)": {
-        "Estudiantes": 65.0,
-        "Union Santa Fe": 1.04,
+        "Abha Club": 2.2,
+        "Al-Faisaly KSA FC": 2.55,
+        "Draw": 3.1
+      },
+      "Winamax (FR)": {
+        "Abha Club": 2.4,
+        "Al-Faisaly KSA FC": 2.55,
+        "Draw": 3.25
+      },
+      "Betclic (FR)": {
+        "Abha Club": 2.33,
+        "Al-Faisaly KSA FC": 2.62,
+        "Draw": 3.22
+      },
+      "Betfair": {
+        "Abha Club": 2.68,
+        "Al-Faisaly KSA FC": 2.78,
+        "Draw": 3.45
+      }
+    },
+    "72aa6d55a32872d89279c98d0b8714d8:h2h": {
+      "Tipico": {
+        "Augsburg": 1.27,
+        "SG Sonnenhof Großaspach": 9.0,
+        "Draw": 6.2
+      },
+      "Winamax (FR)": {
+        "Augsburg": 1.24,
+        "SG Sonnenhof Großaspach": 7.25,
+        "Draw": 5.7
+      },
+      "Winamax (DE)": {
+        "Augsburg": 1.26,
+        "SG Sonnenhof Großaspach": 7.75,
+        "Draw": 6.0
+      },
+      "Betclic (FR)": {
+        "Augsburg": 1.24,
+        "SG Sonnenhof Großaspach": 7.75,
+        "Draw": 5.4
+      },
+      "Unibet (FR)": {
+        "Augsburg": 1.21,
+        "SG Sonnenhof Großaspach": 8.1,
+        "Draw": 5.6
+      },
+      "888sport": {
+        "Augsburg": 1.29,
+        "SG Sonnenhof Großaspach": 8.0,
+        "Draw": 5.5
+      },
+      "Codere (IT)": {
+        "Augsburg": 1.28,
+        "SG Sonnenhof Großaspach": 8.6,
+        "Draw": 5.8
+      },
+      "Unibet (SE)": {
+        "Augsburg": 1.3,
+        "SG Sonnenhof Großaspach": 8.5,
+        "Draw": 5.8
+      },
+      "PMU (FR)": {
+        "Augsburg": 1.26,
+        "SG Sonnenhof Großaspach": 7.5,
+        "Draw": 5.4
+      },
+      "LeoVegas (SE)": {
+        "Augsburg": 1.24,
+        "SG Sonnenhof Großaspach": 7.5,
+        "Draw": 5.4
+      },
+      "Unibet (NL)": {
+        "Augsburg": 1.3,
+        "SG Sonnenhof Großaspach": 8.5,
+        "Draw": 5.8
+      }
+    },
+    "838c0dbeda49ce3f98455934313c5bb1:h2h": {
+      "Tipico": {
+        "Eintracht Frankfurt": 2.05,
+        "Hamburger SV": 3.3,
+        "Draw": 3.7
+      },
+      "Winamax (DE)": {
+        "Eintracht Frankfurt": 2.05,
+        "Hamburger SV": 3.0,
+        "Draw": 3.8
+      },
+      "Winamax (FR)": {
+        "Eintracht Frankfurt": 2.0,
+        "Hamburger SV": 2.9,
+        "Draw": 3.65
+      },
+      "Unibet (FR)": {
+        "Eintracht Frankfurt": 1.9,
+        "Hamburger SV": 3.05,
+        "Draw": 3.65
+      },
+      "Betclic (FR)": {
+        "Eintracht Frankfurt": 1.98,
+        "Hamburger SV": 2.98,
+        "Draw": 3.58
+      },
+      "888sport": {
+        "Eintracht Frankfurt": 2.05,
+        "Hamburger SV": 3.1,
+        "Draw": 3.5
+      },
+      "Codere (IT)": {
+        "Eintracht Frankfurt": 2.08,
+        "Hamburger SV": 3.1,
+        "Draw": 3.75
+      },
+      "Unibet (SE)": {
+        "Eintracht Frankfurt": 2.18,
+        "Hamburger SV": 2.95,
+        "Draw": 3.8
+      },
+      "PMU (FR)": {
+        "Eintracht Frankfurt": 2.1,
+        "Hamburger SV": 2.8,
+        "Draw": 3.6
+      },
+      "LeoVegas (SE)": {
+        "Eintracht Frankfurt": 2.07,
+        "Hamburger SV": 2.75,
+        "Draw": 3.55
+      },
+      "Unibet (NL)": {
+        "Eintracht Frankfurt": 2.18,
+        "Hamburger SV": 2.95,
+        "Draw": 3.8
+      }
+    },
+    "8fbf46f1db5270fe3cfa7c639906565c:h2h": {
+      "Tipico": {
+        "FSV Mainz 05": 1.6,
+        "VfL Bochum": 5.2,
+        "Draw": 4.1
+      },
+      "Winamax (DE)": {
+        "FSV Mainz 05": 1.58,
+        "VfL Bochum": 4.6,
         "Draw": 4.2
       },
       "Winamax (FR)": {
-        "Estudiantes": 75.0,
-        "Union Santa Fe": 1.1,
-        "Draw": 7.25
-      },
-      "Winamax (DE)": {
-        "Estudiantes": 75.0,
-        "Union Santa Fe": 1.07,
-        "Draw": 7.75
-      },
-      "Betclic (FR)": {
-        "Estudiantes": 35.0,
-        "Union Santa Fe": 1.06,
-        "Draw": 6.4
-      },
-      "Betfair": {
-        "Estudiantes": 50.0,
-        "Union Santa Fe": 1.15,
-        "Draw": 7.6
-      },
-      "Marathon Bet": {
-        "Estudiantes": 51.0,
-        "Union Santa Fe": 1.07,
-        "Draw": 8.1
-      },
-      "Nordic Bet": {
-        "Estudiantes": 50.0,
-        "Union Santa Fe": 1.07,
-        "Draw": 6.8
-      },
-      "Betsson": {
-        "Estudiantes": 55.0,
-        "Union Santa Fe": 1.07,
-        "Draw": 6.8
-      },
-      "LeoVegas (SE)": {
-        "Estudiantes": 51.0,
-        "Union Santa Fe": 1.05,
-        "Draw": 7.0
-      },
-      "Unibet (SE)": {
-        "Estudiantes": 61.0,
-        "Union Santa Fe": 1.09,
-        "Draw": 7.5
-      }
-    },
-    "0244ca5849fa2f67287a6481666cad30:h2h": {
-      "Betsson": {
-        "América Mineiro": 4.1,
-        "Cuiabá": 2.88,
-        "Draw": 1.95
-      },
-      "Coolbet": {
-        "América Mineiro": 4.0,
-        "Cuiabá": 2.88,
-        "Draw": 2.0
-      },
-      "Nordic Bet": {
-        "América Mineiro": 4.1,
-        "Cuiabá": 2.88,
-        "Draw": 1.95
-      },
-      "Pinnacle": {
-        "América Mineiro": 4.09,
-        "Cuiabá": 2.77,
-        "Draw": 2.17
-      },
-      "Marathon Bet": {
-        "América Mineiro": 4.3,
-        "Cuiabá": 2.81,
-        "Draw": 1.93
-      },
-      "888sport": {
-        "América Mineiro": 4.0,
-        "Cuiabá": 2.8,
-        "Draw": 2.0
-      },
-      "Unibet (SE)": {
-        "América Mineiro": 4.0,
-        "Cuiabá": 2.63,
-        "Draw": 2.1
-      },
-      "Unibet (NL)": {
-        "América Mineiro": 4.0,
-        "Cuiabá": 2.6,
-        "Draw": 2.12
-      },
-      "LeoVegas (SE)": {
-        "América Mineiro": 3.85,
-        "Cuiabá": 2.45,
-        "Draw": 1.96
-      },
-      "Matchbook": {
-        "América Mineiro": 4.8,
-        "Cuiabá": 3.1,
-        "Draw": 2.08
-      },
-      "Betfair": {
-        "América Mineiro": 4.7,
-        "Cuiabá": 3.0,
-        "Draw": 2.14
-      }
-    },
-    "51f2cea4f466d0df8335ff12dab72dd4:h2h": {
-      "Winamax (FR)": {
-        "Coritiba": 2.75,
-        "Grêmio": 3.25,
-        "Draw": 2.1
-      },
-      "Betfair": {
-        "Coritiba": 3.05,
-        "Grêmio": 3.85,
-        "Draw": 2.4
-      },
-      "Winamax (DE)": {
-        "Coritiba": 2.85,
-        "Grêmio": 3.35,
-        "Draw": 2.15
+        "FSV Mainz 05": 1.56,
+        "VfL Bochum": 4.4,
+        "Draw": 4.0
       },
       "Unibet (FR)": {
-        "Coritiba": 2.6,
-        "Grêmio": 3.05,
-        "Draw": 2.0
+        "FSV Mainz 05": 1.5,
+        "VfL Bochum": 4.65,
+        "Draw": 4.05
       },
       "Betclic (FR)": {
-        "Coritiba": 2.73,
-        "Grêmio": 3.18,
-        "Draw": 2.2
-      },
-      "Marathon Bet": {
-        "Coritiba": 2.9,
-        "Grêmio": 3.5,
-        "Draw": 2.24
+        "FSV Mainz 05": 1.54,
+        "VfL Bochum": 4.55,
+        "Draw": 3.93
       },
       "888sport": {
-        "Coritiba": 2.8,
-        "Grêmio": 3.4,
-        "Draw": 2.2
+        "FSV Mainz 05": 1.61,
+        "VfL Bochum": 4.6,
+        "Draw": 3.8
       },
-      "Unibet (NL)": {
-        "Coritiba": 2.75,
-        "Grêmio": 3.2,
-        "Draw": 2.2
+      "Codere (IT)": {
+        "FSV Mainz 05": 1.61,
+        "VfL Bochum": 4.8,
+        "Draw": 4.1
       },
       "Unibet (SE)": {
-        "Coritiba": 2.9,
-        "Grêmio": 3.35,
-        "Draw": 2.28
-      },
-      "LeoVegas (SE)": {
-        "Coritiba": 2.7,
-        "Grêmio": 3.15,
-        "Draw": 2.15
+        "FSV Mainz 05": 1.72,
+        "VfL Bochum": 4.35,
+        "Draw": 4.0
       },
       "PMU (FR)": {
-        "Coritiba": 2.65,
-        "Grêmio": 3.1,
-        "Draw": 2.12
-      },
-      "Nordic Bet": {
-        "Coritiba": 2.88,
-        "Grêmio": 3.5,
-        "Draw": 2.2
-      },
-      "Betsson": {
-        "Coritiba": 2.88,
-        "Grêmio": 3.4,
-        "Draw": 2.2
-      },
-      "Pinnacle": {
-        "Coritiba": 3.05,
-        "Grêmio": 3.58,
-        "Draw": 2.23
-      },
-      "Tipico": {
-        "Coritiba": 2.7,
-        "Grêmio": 3.6,
-        "Draw": 2.2
-      },
-      "Coolbet": {
-        "Coritiba": 2.88,
-        "Grêmio": 3.5,
-        "Draw": 2.25
-      },
-      "Matchbook": {
-        "Coritiba": 3.3,
-        "Grêmio": 3.65,
-        "Draw": 2.32
-      }
-    },
-    "9d5238c50f04d24ae92e556a438e188e:h2h": {
-      "Betclic (FR)": {
-        "Atletico Mineiro": 22.0,
-        "Flamengo": 1.03,
-        "Draw": 8.75
-      },
-      "MyBookie.ag": {
-        "Atletico Mineiro": 39.0,
-        "Flamengo": 1.07,
-        "Draw": 8.5
-      },
-      "Unibet (FR)": {
-        "Atletico Mineiro": 22.0,
-        "Flamengo": 1.04,
-        "Draw": 5.0
-      },
-      "Winamax (FR)": {
-        "Atletico Mineiro": 44.0,
-        "Flamengo": 1.07,
-        "Draw": 10.0
-      },
-      "Winamax (DE)": {
-        "Atletico Mineiro": 44.0,
-        "Flamengo": 1.04,
-        "Draw": 10.5
-      },
-      "Betfair": {
-        "Atletico Mineiro": 60.0,
-        "Flamengo": 1.1,
-        "Draw": 12.0
-      },
-      "Marathon Bet": {
-        "Atletico Mineiro": 38.0,
-        "Flamengo": 1.04,
-        "Draw": 11.25
-      },
-      "888sport": {
-        "Atletico Mineiro": 41.0,
-        "Flamengo": 1.06,
-        "Draw": 9.5
-      },
-      "Unibet (NL)": {
-        "Atletico Mineiro": 30.0,
-        "Flamengo": 1.03,
-        "Draw": 9.0
-      },
-      "Unibet (SE)": {
-        "Atletico Mineiro": 31.0,
-        "Flamengo": 1.07,
-        "Draw": 10.0
+        "FSV Mainz 05": 1.65,
+        "VfL Bochum": 4.1,
+        "Draw": 3.8
       },
       "LeoVegas (SE)": {
-        "Atletico Mineiro": 30.0,
-        "Flamengo": 1.02,
-        "Draw": 9.0
+        "FSV Mainz 05": 1.63,
+        "VfL Bochum": 4.0,
+        "Draw": 3.75
       },
-      "Nordic Bet": {
-        "Atletico Mineiro": 36.0,
-        "Flamengo": 1.04,
-        "Draw": 9.6
-      },
-      "Betsson": {
-        "Atletico Mineiro": 36.0,
-        "Flamengo": 1.04,
-        "Draw": 9.6
-      },
-      "Tipico": {
-        "Atletico Mineiro": 35.0,
-        "Flamengo": 1.01,
-        "Draw": 11.0
-      },
-      "Coolbet": {
-        "Atletico Mineiro": 35.0,
-        "Flamengo": 1.06,
-        "Draw": 10.0
-      },
-      "Matchbook": {
-        "Atletico Mineiro": 55.0,
-        "Flamengo": 1.1,
-        "Draw": 12.0
+      "Unibet (NL)": {
+        "FSV Mainz 05": 1.72,
+        "VfL Bochum": 4.35,
+        "Draw": 4.0
       }
     }
   },
@@ -5707,8 +5672,5 @@
     }
   ],
   "results_history": [],
-  "value_alerted": [
-    "0244ca5849fa2f67287a6481666cad30:h2h|Betfair|América Mineiro",
-    "0244ca5849fa2f67287a6481666cad30:h2h|Matchbook|América Mineiro"
-  ]
+  "value_alerted": []
 }
