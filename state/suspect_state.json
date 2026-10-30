@@ -1,251 +1,196 @@
 {
   "snapshots": {
-    "317d363207bc2f45566787c1009fe41d:h2h": {
-      "Nordic Bet": {
-        "Arminia Bielefeld": 1.0,
-        "Eintracht Braunschweig": 46.0,
-        "Draw": 19.0
-      },
-      "Unibet (FR)": {
-        "Arminia Bielefeld": 1.01,
-        "Eintracht Braunschweig": 34.0,
-        "Draw": 5.4
-      },
-      "Betsson": {
-        "Arminia Bielefeld": 1.0,
-        "Eintracht Braunschweig": 46.0,
-        "Draw": 19.0
-      },
-      "Betclic (FR)": {
-        "Arminia Bielefeld": 1.0,
-        "Eintracht Braunschweig": 90.0,
-        "Draw": 30.0
-      },
-      "Winamax (FR)": {
-        "Arminia Bielefeld": 1.0,
-        "Eintracht Braunschweig": 100.0,
-        "Draw": 30.0
-      },
-      "Winamax (DE)": {
-        "Arminia Bielefeld": 1.01,
-        "Eintracht Braunschweig": 100.0,
-        "Draw": 30.0
-      },
-      "888sport": {
-        "Arminia Bielefeld": 1.0,
-        "Eintracht Braunschweig": 151.0,
-        "Draw": 61.0
-      },
+    "594095fdd4de5da29dc0103b192e782c:h2h": {
       "Betfair": {
-        "Arminia Bielefeld": 1.01,
-        "Eintracht Braunschweig": 300.0,
-        "Draw": 80.0
-      }
-    },
-    "b19bd164126ff5704efbad2a57562ec7:h2h": {
-      "Unibet (SE)": {
-        "FC Energie Cottbus": 6.1,
-        "VfL Bochum": 5.25,
-        "Draw": 1.33
-      },
-      "Unibet (NL)": {
-        "FC Energie Cottbus": 6.25,
-        "VfL Bochum": 5.0,
-        "Draw": 1.35
-      },
-      "LeoVegas (SE)": {
-        "FC Energie Cottbus": 6.0,
-        "VfL Bochum": 4.8,
-        "Draw": 1.27
-      },
-      "PMU (FR)": {
-        "FC Energie Cottbus": 5.75,
-        "VfL Bochum": 4.9,
-        "Draw": 1.21
-      },
-      "Tipico": {
-        "FC Energie Cottbus": 6.5,
-        "VfL Bochum": 5.2,
-        "Draw": 1.35
-      },
-      "Nordic Bet": {
-        "FC Energie Cottbus": 6.8,
-        "VfL Bochum": 4.85,
-        "Draw": 1.34
-      },
-      "Betsson": {
-        "FC Energie Cottbus": 6.8,
-        "VfL Bochum": 4.85,
-        "Draw": 1.34
+        "Atlético Huracán": 21.0,
+        "CA Tigre BA": 1.36,
+        "Draw": 4.3
       },
       "Unibet (FR)": {
-        "FC Energie Cottbus": 5.5,
-        "VfL Bochum": 4.3,
-        "Draw": 1.27
+        "Atlético Huracán": 17.5,
+        "CA Tigre BA": 1.2,
+        "Draw": 3.15
       },
       "Betclic (FR)": {
-        "FC Energie Cottbus": 5.6,
-        "VfL Bochum": 4.05,
-        "Draw": 1.4
-      },
-      "Winamax (FR)": {
-        "FC Energie Cottbus": 5.5,
-        "VfL Bochum": 4.4,
-        "Draw": 1.31
+        "Atlético Huracán": 15.75,
+        "CA Tigre BA": 1.22,
+        "Draw": 3.8
       },
       "Winamax (DE)": {
-        "FC Energie Cottbus": 6.25,
-        "VfL Bochum": 4.9,
-        "Draw": 1.37
+        "Atlético Huracán": 18.0,
+        "CA Tigre BA": 1.25,
+        "Draw": 3.75
       },
-      "Coolbet": {
-        "FC Energie Cottbus": 6.5,
-        "VfL Bochum": 4.5,
-        "Draw": 1.5
-      },
-      "Pinnacle": {
-        "FC Energie Cottbus": 5.7,
-        "VfL Bochum": 3.72,
-        "Draw": 1.64
-      },
-      "888sport": {
-        "FC Energie Cottbus": 6.5,
-        "VfL Bochum": 5.0,
-        "Draw": 1.33
+      "Winamax (FR)": {
+        "Atlético Huracán": 18.0,
+        "CA Tigre BA": 1.22,
+        "Draw": 3.6
       },
       "Marathon Bet": {
-        "FC Energie Cottbus": 6.6,
-        "VfL Bochum": 5.2,
-        "Draw": 1.32
-      },
-      "Betfair": {
-        "FC Energie Cottbus": 7.6,
-        "VfL Bochum": 6.2,
-        "Draw": 1.39
-      },
-      "Matchbook": {
-        "FC Energie Cottbus": 7.0,
-        "VfL Bochum": 6.2,
-        "Draw": 1.38
-      }
-    },
-    "ec202258ff131de49ed83577a3c48bcd:h2h": {
-      "Unibet (FR)": {
-        "Al-Ahli": 20.0,
-        "Al-Shabab": 1.01,
-        "Draw": 5.7
-      },
-      "Betclic (FR)": {
-        "Al-Ahli": 45.0,
-        "Al-Shabab": 1.0,
-        "Draw": 25.0
-      },
-      "Winamax (FR)": {
-        "Al-Ahli": 42.0,
-        "Al-Shabab": 1.04,
-        "Draw": 12.5
-      },
-      "Winamax (DE)": {
-        "Al-Ahli": 38.0,
-        "Al-Shabab": 1.03,
-        "Draw": 12.5
-      },
-      "888sport": {
-        "Al-Ahli": 126.0,
-        "Al-Shabab": 1.0,
-        "Draw": 51.0
-      },
-      "William Hill": {
-        "Al-Ahli": 126.0,
-        "Al-Shabab": 1.0,
-        "Draw": 51.0
-      },
-      "Betfair": {
-        "Al-Ahli": 70.0,
-        "Al-Shabab": 1.01,
-        "Draw": 46.0
-      }
-    },
-    "563a904fd0ef1e2ad35ea9915ed1572f:h2h": {
-      "Betclic (FR)": {
-        "Bodø/Glimt": 1.18,
-        "Viking FK": 11.0,
-        "Draw": 4.9
-      },
-      "Unibet (NL)": {
-        "Bodø/Glimt": 1.19,
-        "Viking FK": 12.5,
-        "Draw": 5.5
-      },
-      "Unibet (FR)": {
-        "Bodø/Glimt": 1.14,
-        "Viking FK": 9.75,
+        "Atlético Huracán": 18.25,
+        "CA Tigre BA": 1.26,
         "Draw": 4.35
       },
-      "PMU (FR)": {
-        "Bodø/Glimt": 1.09,
-        "Viking FK": 12.0,
-        "Draw": 5.1
-      },
-      "Unibet (SE)": {
-        "Bodø/Glimt": 1.19,
-        "Viking FK": 12.5,
-        "Draw": 5.5
-      },
-      "LeoVegas (SE)": {
-        "Bodø/Glimt": 1.12,
-        "Viking FK": 12.5,
-        "Draw": 5.25
-      },
-      "Winamax (DE)": {
-        "Bodø/Glimt": 1.17,
-        "Viking FK": 11.5,
-        "Draw": 5.5
-      },
-      "Winamax (FR)": {
-        "Bodø/Glimt": 1.14,
-        "Viking FK": 11.0,
-        "Draw": 5.2
-      },
-      "Pinnacle": {
-        "Bodø/Glimt": 1.2,
-        "Viking FK": 16.83,
-        "Draw": 6.38
-      },
       "Betsson": {
-        "Bodø/Glimt": 1.16,
-        "Viking FK": 14.0,
-        "Draw": 5.8
+        "Atlético Huracán": 17.5,
+        "CA Tigre BA": 1.28,
+        "Draw": 3.9
       },
       "Nordic Bet": {
-        "Bodø/Glimt": 1.2,
-        "Viking FK": 12.5,
-        "Draw": 5.35
+        "Atlético Huracán": 19.5,
+        "CA Tigre BA": 1.26,
+        "Draw": 3.9
+      },
+      "LeoVegas (SE)": {
+        "Atlético Huracán": 17.0,
+        "CA Tigre BA": 1.23,
+        "Draw": 3.85
+      },
+      "Unibet (SE)": {
+        "Atlético Huracán": 18.0,
+        "CA Tigre BA": 1.29,
+        "Draw": 4.1
+      },
+      "Pinnacle": {
+        "Atlético Huracán": 14.37,
+        "CA Tigre BA": 1.39,
+        "Draw": 3.78
+      }
+    },
+    "0a8c6d235ae8747328098c0fed47f4c4:h2h": {
+      "Betfair": {
+        "Estudiantes de Río Cuarto": 26.0,
+        "Gimnasia La Plata": 1.32,
+        "Draw": 4.6
+      },
+      "Betclic (FR)": {
+        "Estudiantes de Río Cuarto": 18.0,
+        "Gimnasia La Plata": 1.22,
+        "Draw": 3.8
+      },
+      "Winamax (FR)": {
+        "Estudiantes de Río Cuarto": 17.0,
+        "Gimnasia La Plata": 1.21,
+        "Draw": 3.75
+      },
+      "Winamax (DE)": {
+        "Estudiantes de Río Cuarto": 17.0,
+        "Gimnasia La Plata": 1.24,
+        "Draw": 3.95
+      },
+      "Nordic Bet": {
+        "Estudiantes de Río Cuarto": 21.0,
+        "Gimnasia La Plata": 1.23,
+        "Draw": 4.2
+      },
+      "Betsson": {
+        "Estudiantes de Río Cuarto": 21.0,
+        "Gimnasia La Plata": 1.23,
+        "Draw": 4.1
       },
       "Marathon Bet": {
-        "Bodø/Glimt": 1.13,
-        "Viking FK": 15.25,
-        "Draw": 6.4
+        "Estudiantes de Río Cuarto": 18.0,
+        "Gimnasia La Plata": 1.27,
+        "Draw": 4.25
       },
-      "Tipico": {
-        "Bodø/Glimt": 1.22,
-        "Viking FK": 8.5,
-        "Draw": 6.0
+      "Unibet (SE)": {
+        "Estudiantes de Río Cuarto": 21.0,
+        "Gimnasia La Plata": 1.23,
+        "Draw": 4.5
+      },
+      "LeoVegas (SE)": {
+        "Estudiantes de Río Cuarto": 21.0,
+        "Gimnasia La Plata": 1.17,
+        "Draw": 4.25
+      },
+      "Pinnacle": {
+        "Estudiantes de Río Cuarto": 14.43,
+        "Gimnasia La Plata": 1.39,
+        "Draw": 3.65
+      }
+    },
+    "3131beea0e47af2cb8028481a13234e8:h2h": {
+      "Nordic Bet": {
+        "Colo Colo": 1.0,
+        "Universidad de Concepción": 26.0,
+        "Draw": 26.0
+      },
+      "Betsson": {
+        "Colo Colo": 1.0,
+        "Universidad de Concepción": 26.0,
+        "Draw": 26.0
+      }
+    },
+    "363155fd3319106789fc32afa161f411:h2h": {
+      "Unibet (SE)": {
+        "Coquimbo Unido": 1.27,
+        "Union La Calera": 17.0,
+        "Draw": 3.95
+      },
+      "LeoVegas (SE)": {
+        "Coquimbo Unido": 1.19,
+        "Union La Calera": 17.0,
+        "Draw": 3.8
+      },
+      "Winamax (FR)": {
+        "Coquimbo Unido": 1.22,
+        "Union La Calera": 16.0,
+        "Draw": 3.6
+      },
+      "Winamax (DE)": {
+        "Coquimbo Unido": 1.26,
+        "Union La Calera": 17.0,
+        "Draw": 3.75
       },
       "Coolbet": {
-        "Bodø/Glimt": 1.2,
-        "Viking FK": 18.0,
-        "Draw": 6.5
+        "Coquimbo Unido": 1.33,
+        "Union La Calera": 22.0,
+        "Draw": 4.33
+      },
+      "Marathon Bet": {
+        "Coquimbo Unido": 1.24,
+        "Union La Calera": 15.75,
+        "Draw": 4.2
+      },
+      "Unibet (FR)": {
+        "Coquimbo Unido": 1.22,
+        "Union La Calera": 13.5,
+        "Draw": 3.15
       },
       "Betfair": {
-        "Bodø/Glimt": 1.26,
-        "Viking FK": 14.5,
-        "Draw": 6.2
+        "Coquimbo Unido": 1.37,
+        "Union La Calera": 22.0,
+        "Draw": 4.2
+      },
+      "Pinnacle": {
+        "Coquimbo Unido": 1.41,
+        "Union La Calera": 11.08,
+        "Draw": 3.61
+      },
+      "888sport": {
+        "Coquimbo Unido": 1.25,
+        "Union La Calera": 15.0,
+        "Draw": 3.9
+      },
+      "Tipico": {
+        "Coquimbo Unido": 1.3,
+        "Union La Calera": 10.0,
+        "Draw": 4.0
+      },
+      "Nordic Bet": {
+        "Coquimbo Unido": 1.28,
+        "Union La Calera": 16.0,
+        "Draw": 3.9
+      },
+      "Betsson": {
+        "Coquimbo Unido": 1.28,
+        "Union La Calera": 16.0,
+        "Draw": 3.9
       },
       "Matchbook": {
-        "Bodø/Glimt": 1.25,
-        "Viking FK": 14.0,
-        "Draw": 6.4
+        "Coquimbo Unido": 1.34,
+        "Union La Calera": 24.0,
+        "Draw": 4.5
       }
     }
   },
@@ -4570,32 +4515,723 @@
       "confidence": 58,
       "alert_type": "value",
       "alerted_at": "2026-10-30T19:15:34.397727+00:00"
+    },
+    {
+      "state_key": "594095fdd4de5da29dc0103b192e782c:h2h",
+      "event_id": "594095fdd4de5da29dc0103b192e782c",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Atlético Huracán",
+      "away_team": "CA Tigre BA",
+      "commence_time": "2026-10-30T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Atlético Huracán",
+      "odds_at_alert": 21.0,
+      "stake_pct": 5.0,
+      "confidence": 39,
+      "alert_type": "value",
+      "alerted_at": "2026-10-30T23:39:56.246768+00:00"
+    },
+    {
+      "state_key": "594095fdd4de5da29dc0103b192e782c:h2h",
+      "event_id": "594095fdd4de5da29dc0103b192e782c",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Atlético Huracán",
+      "away_team": "CA Tigre BA",
+      "commence_time": "2026-10-30T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.3,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-10-30T23:39:56.541393+00:00"
+    },
+    {
+      "state_key": "594095fdd4de5da29dc0103b192e782c:h2h",
+      "event_id": "594095fdd4de5da29dc0103b192e782c",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Atlético Huracán",
+      "away_team": "CA Tigre BA",
+      "commence_time": "2026-10-30T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Atlético Huracán",
+      "odds_at_alert": 17.5,
+      "stake_pct": 5.0,
+      "confidence": 16,
+      "alert_type": "value",
+      "alerted_at": "2026-10-30T23:39:56.843904+00:00"
+    },
+    {
+      "state_key": "594095fdd4de5da29dc0103b192e782c:h2h",
+      "event_id": "594095fdd4de5da29dc0103b192e782c",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Atlético Huracán",
+      "away_team": "CA Tigre BA",
+      "commence_time": "2026-10-30T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Atlético Huracán",
+      "odds_at_alert": 18.0,
+      "stake_pct": 5.0,
+      "confidence": 19,
+      "alert_type": "value",
+      "alerted_at": "2026-10-30T23:39:57.149536+00:00"
+    },
+    {
+      "state_key": "594095fdd4de5da29dc0103b192e782c:h2h",
+      "event_id": "594095fdd4de5da29dc0103b192e782c",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Atlético Huracán",
+      "away_team": "CA Tigre BA",
+      "commence_time": "2026-10-30T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Atlético Huracán",
+      "odds_at_alert": 18.0,
+      "stake_pct": 5.0,
+      "confidence": 19,
+      "alert_type": "value",
+      "alerted_at": "2026-10-30T23:39:57.454252+00:00"
+    },
+    {
+      "state_key": "594095fdd4de5da29dc0103b192e782c:h2h",
+      "event_id": "594095fdd4de5da29dc0103b192e782c",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Atlético Huracán",
+      "away_team": "CA Tigre BA",
+      "commence_time": "2026-10-30T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Atlético Huracán",
+      "odds_at_alert": 18.25,
+      "stake_pct": 5.0,
+      "confidence": 21,
+      "alert_type": "value",
+      "alerted_at": "2026-10-30T23:39:57.759893+00:00"
+    },
+    {
+      "state_key": "594095fdd4de5da29dc0103b192e782c:h2h",
+      "event_id": "594095fdd4de5da29dc0103b192e782c",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Atlético Huracán",
+      "away_team": "CA Tigre BA",
+      "commence_time": "2026-10-30T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.35,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-10-30T23:39:58.057393+00:00"
+    },
+    {
+      "state_key": "594095fdd4de5da29dc0103b192e782c:h2h",
+      "event_id": "594095fdd4de5da29dc0103b192e782c",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Atlético Huracán",
+      "away_team": "CA Tigre BA",
+      "commence_time": "2026-10-30T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Atlético Huracán",
+      "odds_at_alert": 17.5,
+      "stake_pct": 5.0,
+      "confidence": 16,
+      "alert_type": "value",
+      "alerted_at": "2026-10-30T23:39:58.355562+00:00"
+    },
+    {
+      "state_key": "594095fdd4de5da29dc0103b192e782c:h2h",
+      "event_id": "594095fdd4de5da29dc0103b192e782c",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Atlético Huracán",
+      "away_team": "CA Tigre BA",
+      "commence_time": "2026-10-30T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Atlético Huracán",
+      "odds_at_alert": 19.5,
+      "stake_pct": 5.0,
+      "confidence": 29,
+      "alert_type": "value",
+      "alerted_at": "2026-10-30T23:39:58.662474+00:00"
+    },
+    {
+      "state_key": "594095fdd4de5da29dc0103b192e782c:h2h",
+      "event_id": "594095fdd4de5da29dc0103b192e782c",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Atlético Huracán",
+      "away_team": "CA Tigre BA",
+      "commence_time": "2026-10-30T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Atlético Huracán",
+      "odds_at_alert": 17.0,
+      "stake_pct": 3.0,
+      "confidence": 12,
+      "alert_type": "value",
+      "alerted_at": "2026-10-30T23:39:58.969792+00:00"
+    },
+    {
+      "state_key": "594095fdd4de5da29dc0103b192e782c:h2h",
+      "event_id": "594095fdd4de5da29dc0103b192e782c",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Atlético Huracán",
+      "away_team": "CA Tigre BA",
+      "commence_time": "2026-10-30T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Atlético Huracán",
+      "odds_at_alert": 18.0,
+      "stake_pct": 5.0,
+      "confidence": 19,
+      "alert_type": "value",
+      "alerted_at": "2026-10-30T23:39:59.256576+00:00"
+    },
+    {
+      "state_key": "0a8c6d235ae8747328098c0fed47f4c4:h2h",
+      "event_id": "0a8c6d235ae8747328098c0fed47f4c4",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Estudiantes de Río Cuarto",
+      "away_team": "Gimnasia La Plata",
+      "commence_time": "2026-10-30T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Estudiantes de Río Cuarto",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 70,
+      "alert_type": "value",
+      "alerted_at": "2026-10-30T23:39:59.571596+00:00"
+    },
+    {
+      "state_key": "0a8c6d235ae8747328098c0fed47f4c4:h2h",
+      "event_id": "0a8c6d235ae8747328098c0fed47f4c4",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Estudiantes de Río Cuarto",
+      "away_team": "Gimnasia La Plata",
+      "commence_time": "2026-10-30T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.6,
+      "stake_pct": 5.0,
+      "confidence": 19,
+      "alert_type": "value",
+      "alerted_at": "2026-10-30T23:39:59.864354+00:00"
+    },
+    {
+      "state_key": "0a8c6d235ae8747328098c0fed47f4c4:h2h",
+      "event_id": "0a8c6d235ae8747328098c0fed47f4c4",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Estudiantes de Río Cuarto",
+      "away_team": "Gimnasia La Plata",
+      "commence_time": "2026-10-30T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Estudiantes de Río Cuarto",
+      "odds_at_alert": 18.0,
+      "stake_pct": 5.0,
+      "confidence": 17,
+      "alert_type": "value",
+      "alerted_at": "2026-10-30T23:40:00.154054+00:00"
+    },
+    {
+      "state_key": "0a8c6d235ae8747328098c0fed47f4c4:h2h",
+      "event_id": "0a8c6d235ae8747328098c0fed47f4c4",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Estudiantes de Río Cuarto",
+      "away_team": "Gimnasia La Plata",
+      "commence_time": "2026-10-30T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Estudiantes de Río Cuarto",
+      "odds_at_alert": 17.0,
+      "stake_pct": 3.0,
+      "confidence": 11,
+      "alert_type": "value",
+      "alerted_at": "2026-10-30T23:40:00.448817+00:00"
+    },
+    {
+      "state_key": "0a8c6d235ae8747328098c0fed47f4c4:h2h",
+      "event_id": "0a8c6d235ae8747328098c0fed47f4c4",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Estudiantes de Río Cuarto",
+      "away_team": "Gimnasia La Plata",
+      "commence_time": "2026-10-30T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Estudiantes de Río Cuarto",
+      "odds_at_alert": 17.0,
+      "stake_pct": 3.0,
+      "confidence": 11,
+      "alert_type": "value",
+      "alerted_at": "2026-10-30T23:40:00.754272+00:00"
+    },
+    {
+      "state_key": "0a8c6d235ae8747328098c0fed47f4c4:h2h",
+      "event_id": "0a8c6d235ae8747328098c0fed47f4c4",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Estudiantes de Río Cuarto",
+      "away_team": "Gimnasia La Plata",
+      "commence_time": "2026-10-30T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Estudiantes de Río Cuarto",
+      "odds_at_alert": 21.0,
+      "stake_pct": 5.0,
+      "confidence": 37,
+      "alert_type": "value",
+      "alerted_at": "2026-10-30T23:40:01.078024+00:00"
+    },
+    {
+      "state_key": "0a8c6d235ae8747328098c0fed47f4c4:h2h",
+      "event_id": "0a8c6d235ae8747328098c0fed47f4c4",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Estudiantes de Río Cuarto",
+      "away_team": "Gimnasia La Plata",
+      "commence_time": "2026-10-30T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.2,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-10-30T23:40:01.376483+00:00"
+    },
+    {
+      "state_key": "0a8c6d235ae8747328098c0fed47f4c4:h2h",
+      "event_id": "0a8c6d235ae8747328098c0fed47f4c4",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Estudiantes de Río Cuarto",
+      "away_team": "Gimnasia La Plata",
+      "commence_time": "2026-10-30T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Estudiantes de Río Cuarto",
+      "odds_at_alert": 21.0,
+      "stake_pct": 5.0,
+      "confidence": 37,
+      "alert_type": "value",
+      "alerted_at": "2026-10-30T23:40:01.671025+00:00"
+    },
+    {
+      "state_key": "0a8c6d235ae8747328098c0fed47f4c4:h2h",
+      "event_id": "0a8c6d235ae8747328098c0fed47f4c4",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Estudiantes de Río Cuarto",
+      "away_team": "Gimnasia La Plata",
+      "commence_time": "2026-10-30T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.1,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-10-30T23:40:01.997299+00:00"
+    },
+    {
+      "state_key": "0a8c6d235ae8747328098c0fed47f4c4:h2h",
+      "event_id": "0a8c6d235ae8747328098c0fed47f4c4",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Estudiantes de Río Cuarto",
+      "away_team": "Gimnasia La Plata",
+      "commence_time": "2026-10-30T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Estudiantes de Río Cuarto",
+      "odds_at_alert": 18.0,
+      "stake_pct": 5.0,
+      "confidence": 17,
+      "alert_type": "value",
+      "alerted_at": "2026-10-30T23:40:02.305376+00:00"
+    },
+    {
+      "state_key": "0a8c6d235ae8747328098c0fed47f4c4:h2h",
+      "event_id": "0a8c6d235ae8747328098c0fed47f4c4",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Estudiantes de Río Cuarto",
+      "away_team": "Gimnasia La Plata",
+      "commence_time": "2026-10-30T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.25,
+      "stake_pct": 2.0,
+      "confidence": 10,
+      "alert_type": "value",
+      "alerted_at": "2026-10-30T23:40:02.591597+00:00"
+    },
+    {
+      "state_key": "0a8c6d235ae8747328098c0fed47f4c4:h2h",
+      "event_id": "0a8c6d235ae8747328098c0fed47f4c4",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Estudiantes de Río Cuarto",
+      "away_team": "Gimnasia La Plata",
+      "commence_time": "2026-10-30T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Estudiantes de Río Cuarto",
+      "odds_at_alert": 21.0,
+      "stake_pct": 5.0,
+      "confidence": 37,
+      "alert_type": "value",
+      "alerted_at": "2026-10-30T23:40:02.891024+00:00"
+    },
+    {
+      "state_key": "0a8c6d235ae8747328098c0fed47f4c4:h2h",
+      "event_id": "0a8c6d235ae8747328098c0fed47f4c4",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Estudiantes de Río Cuarto",
+      "away_team": "Gimnasia La Plata",
+      "commence_time": "2026-10-30T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.5,
+      "stake_pct": 5.0,
+      "confidence": 16,
+      "alert_type": "value",
+      "alerted_at": "2026-10-30T23:40:03.190843+00:00"
+    },
+    {
+      "state_key": "0a8c6d235ae8747328098c0fed47f4c4:h2h",
+      "event_id": "0a8c6d235ae8747328098c0fed47f4c4",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Estudiantes de Río Cuarto",
+      "away_team": "Gimnasia La Plata",
+      "commence_time": "2026-10-30T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Estudiantes de Río Cuarto",
+      "odds_at_alert": 21.0,
+      "stake_pct": 5.0,
+      "confidence": 37,
+      "alert_type": "value",
+      "alerted_at": "2026-10-30T23:40:03.489231+00:00"
+    },
+    {
+      "state_key": "0a8c6d235ae8747328098c0fed47f4c4:h2h",
+      "event_id": "0a8c6d235ae8747328098c0fed47f4c4",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Estudiantes de Río Cuarto",
+      "away_team": "Gimnasia La Plata",
+      "commence_time": "2026-10-30T22:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.25,
+      "stake_pct": 2.0,
+      "confidence": 10,
+      "alert_type": "value",
+      "alerted_at": "2026-10-30T23:40:03.795145+00:00"
+    },
+    {
+      "state_key": "363155fd3319106789fc32afa161f411:h2h",
+      "event_id": "363155fd3319106789fc32afa161f411",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Coquimbo Unido",
+      "away_team": "Union La Calera",
+      "commence_time": "2026-10-30T22:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Union La Calera",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 43,
+      "alert_type": "value",
+      "alerted_at": "2026-10-30T23:40:04.086905+00:00"
+    },
+    {
+      "state_key": "363155fd3319106789fc32afa161f411:h2h",
+      "event_id": "363155fd3319106789fc32afa161f411",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Coquimbo Unido",
+      "away_team": "Union La Calera",
+      "commence_time": "2026-10-30T22:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Union La Calera",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 43,
+      "alert_type": "value",
+      "alerted_at": "2026-10-30T23:40:04.377170+00:00"
+    },
+    {
+      "state_key": "363155fd3319106789fc32afa161f411:h2h",
+      "event_id": "363155fd3319106789fc32afa161f411",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Coquimbo Unido",
+      "away_team": "Union La Calera",
+      "commence_time": "2026-10-30T22:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Union La Calera",
+      "odds_at_alert": 16.0,
+      "stake_pct": 5.0,
+      "confidence": 34,
+      "alert_type": "value",
+      "alerted_at": "2026-10-30T23:40:04.681255+00:00"
+    },
+    {
+      "state_key": "363155fd3319106789fc32afa161f411:h2h",
+      "event_id": "363155fd3319106789fc32afa161f411",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Coquimbo Unido",
+      "away_team": "Union La Calera",
+      "commence_time": "2026-10-30T22:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Union La Calera",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 43,
+      "alert_type": "value",
+      "alerted_at": "2026-10-30T23:40:04.975117+00:00"
+    },
+    {
+      "state_key": "363155fd3319106789fc32afa161f411:h2h",
+      "event_id": "363155fd3319106789fc32afa161f411",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Coquimbo Unido",
+      "away_team": "Union La Calera",
+      "commence_time": "2026-10-30T22:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Union La Calera",
+      "odds_at_alert": 22.0,
+      "stake_pct": 5.0,
+      "confidence": 84,
+      "alert_type": "value",
+      "alerted_at": "2026-10-30T23:40:05.261859+00:00"
+    },
+    {
+      "state_key": "363155fd3319106789fc32afa161f411:h2h",
+      "event_id": "363155fd3319106789fc32afa161f411",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Coquimbo Unido",
+      "away_team": "Union La Calera",
+      "commence_time": "2026-10-30T22:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.33,
+      "stake_pct": 3.0,
+      "confidence": 11,
+      "alert_type": "value",
+      "alerted_at": "2026-10-30T23:40:05.559432+00:00"
+    },
+    {
+      "state_key": "363155fd3319106789fc32afa161f411:h2h",
+      "event_id": "363155fd3319106789fc32afa161f411",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Coquimbo Unido",
+      "away_team": "Union La Calera",
+      "commence_time": "2026-10-30T22:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Union La Calera",
+      "odds_at_alert": 15.75,
+      "stake_pct": 5.0,
+      "confidence": 32,
+      "alert_type": "value",
+      "alerted_at": "2026-10-30T23:40:05.876040+00:00"
+    },
+    {
+      "state_key": "363155fd3319106789fc32afa161f411:h2h",
+      "event_id": "363155fd3319106789fc32afa161f411",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Coquimbo Unido",
+      "away_team": "Union La Calera",
+      "commence_time": "2026-10-30T22:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.2,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-10-30T23:40:06.165508+00:00"
+    },
+    {
+      "state_key": "363155fd3319106789fc32afa161f411:h2h",
+      "event_id": "363155fd3319106789fc32afa161f411",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Coquimbo Unido",
+      "away_team": "Union La Calera",
+      "commence_time": "2026-10-30T22:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Union La Calera",
+      "odds_at_alert": 13.5,
+      "stake_pct": 3.0,
+      "confidence": 13,
+      "alert_type": "value",
+      "alerted_at": "2026-10-30T23:40:06.451115+00:00"
+    },
+    {
+      "state_key": "363155fd3319106789fc32afa161f411:h2h",
+      "event_id": "363155fd3319106789fc32afa161f411",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Coquimbo Unido",
+      "away_team": "Union La Calera",
+      "commence_time": "2026-10-30T22:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Union La Calera",
+      "odds_at_alert": 22.0,
+      "stake_pct": 5.0,
+      "confidence": 84,
+      "alert_type": "value",
+      "alerted_at": "2026-10-30T23:40:06.750614+00:00"
+    },
+    {
+      "state_key": "363155fd3319106789fc32afa161f411:h2h",
+      "event_id": "363155fd3319106789fc32afa161f411",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Coquimbo Unido",
+      "away_team": "Union La Calera",
+      "commence_time": "2026-10-30T22:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.2,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-10-30T23:40:07.056805+00:00"
+    },
+    {
+      "state_key": "363155fd3319106789fc32afa161f411:h2h",
+      "event_id": "363155fd3319106789fc32afa161f411",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Coquimbo Unido",
+      "away_team": "Union La Calera",
+      "commence_time": "2026-10-30T22:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Union La Calera",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 26,
+      "alert_type": "value",
+      "alerted_at": "2026-10-30T23:40:07.378265+00:00"
+    },
+    {
+      "state_key": "363155fd3319106789fc32afa161f411:h2h",
+      "event_id": "363155fd3319106789fc32afa161f411",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Coquimbo Unido",
+      "away_team": "Union La Calera",
+      "commence_time": "2026-10-30T22:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Union La Calera",
+      "odds_at_alert": 16.0,
+      "stake_pct": 5.0,
+      "confidence": 34,
+      "alert_type": "value",
+      "alerted_at": "2026-10-30T23:40:07.668160+00:00"
+    },
+    {
+      "state_key": "363155fd3319106789fc32afa161f411:h2h",
+      "event_id": "363155fd3319106789fc32afa161f411",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Coquimbo Unido",
+      "away_team": "Union La Calera",
+      "commence_time": "2026-10-30T22:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Union La Calera",
+      "odds_at_alert": 16.0,
+      "stake_pct": 5.0,
+      "confidence": 34,
+      "alert_type": "value",
+      "alerted_at": "2026-10-30T23:40:07.980886+00:00"
+    },
+    {
+      "state_key": "363155fd3319106789fc32afa161f411:h2h",
+      "event_id": "363155fd3319106789fc32afa161f411",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Coquimbo Unido",
+      "away_team": "Union La Calera",
+      "commence_time": "2026-10-30T22:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Union La Calera",
+      "odds_at_alert": 24.0,
+      "stake_pct": 5.0,
+      "confidence": 101,
+      "alert_type": "value",
+      "alerted_at": "2026-10-30T23:40:08.283147+00:00"
+    },
+    {
+      "state_key": "363155fd3319106789fc32afa161f411:h2h",
+      "event_id": "363155fd3319106789fc32afa161f411",
+      "sport_key": "soccer",
+      "competition": "Primera División - Chile",
+      "home_team": "Coquimbo Unido",
+      "away_team": "Union La Calera",
+      "commence_time": "2026-10-30T22:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.5,
+      "stake_pct": 5.0,
+      "confidence": 16,
+      "alert_type": "value",
+      "alerted_at": "2026-10-30T23:40:08.572880+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "b19bd164126ff5704efbad2a57562ec7:h2h|888sport|FC Energie Cottbus",
-    "b19bd164126ff5704efbad2a57562ec7:h2h|888sport|VfL Bochum",
-    "b19bd164126ff5704efbad2a57562ec7:h2h|Betfair|FC Energie Cottbus",
-    "b19bd164126ff5704efbad2a57562ec7:h2h|Betfair|VfL Bochum",
-    "b19bd164126ff5704efbad2a57562ec7:h2h|Betsson|FC Energie Cottbus",
-    "b19bd164126ff5704efbad2a57562ec7:h2h|Betsson|VfL Bochum",
-    "b19bd164126ff5704efbad2a57562ec7:h2h|Coolbet|FC Energie Cottbus",
-    "b19bd164126ff5704efbad2a57562ec7:h2h|Coolbet|VfL Bochum",
-    "b19bd164126ff5704efbad2a57562ec7:h2h|LeoVegas (SE)|VfL Bochum",
-    "b19bd164126ff5704efbad2a57562ec7:h2h|Marathon Bet|FC Energie Cottbus",
-    "b19bd164126ff5704efbad2a57562ec7:h2h|Marathon Bet|VfL Bochum",
-    "b19bd164126ff5704efbad2a57562ec7:h2h|Matchbook|FC Energie Cottbus",
-    "b19bd164126ff5704efbad2a57562ec7:h2h|Matchbook|VfL Bochum",
-    "b19bd164126ff5704efbad2a57562ec7:h2h|Nordic Bet|FC Energie Cottbus",
-    "b19bd164126ff5704efbad2a57562ec7:h2h|Nordic Bet|VfL Bochum",
-    "b19bd164126ff5704efbad2a57562ec7:h2h|PMU (FR)|VfL Bochum",
-    "b19bd164126ff5704efbad2a57562ec7:h2h|Tipico|FC Energie Cottbus",
-    "b19bd164126ff5704efbad2a57562ec7:h2h|Tipico|VfL Bochum",
-    "b19bd164126ff5704efbad2a57562ec7:h2h|Unibet (FR)|VfL Bochum",
-    "b19bd164126ff5704efbad2a57562ec7:h2h|Unibet (NL)|VfL Bochum",
-    "b19bd164126ff5704efbad2a57562ec7:h2h|Unibet (SE)|VfL Bochum",
-    "b19bd164126ff5704efbad2a57562ec7:h2h|Winamax (DE)|VfL Bochum",
-    "b19bd164126ff5704efbad2a57562ec7:h2h|Winamax (FR)|VfL Bochum"
+    "0a8c6d235ae8747328098c0fed47f4c4:h2h|Betclic (FR)|Estudiantes de Río Cuarto",
+    "0a8c6d235ae8747328098c0fed47f4c4:h2h|Betfair|Draw",
+    "0a8c6d235ae8747328098c0fed47f4c4:h2h|Betfair|Estudiantes de Río Cuarto",
+    "0a8c6d235ae8747328098c0fed47f4c4:h2h|Betsson|Draw",
+    "0a8c6d235ae8747328098c0fed47f4c4:h2h|Betsson|Estudiantes de Río Cuarto",
+    "0a8c6d235ae8747328098c0fed47f4c4:h2h|LeoVegas (SE)|Draw",
+    "0a8c6d235ae8747328098c0fed47f4c4:h2h|LeoVegas (SE)|Estudiantes de Río Cuarto",
+    "0a8c6d235ae8747328098c0fed47f4c4:h2h|Marathon Bet|Draw",
+    "0a8c6d235ae8747328098c0fed47f4c4:h2h|Marathon Bet|Estudiantes de Río Cuarto",
+    "0a8c6d235ae8747328098c0fed47f4c4:h2h|Nordic Bet|Draw",
+    "0a8c6d235ae8747328098c0fed47f4c4:h2h|Nordic Bet|Estudiantes de Río Cuarto",
+    "0a8c6d235ae8747328098c0fed47f4c4:h2h|Unibet (SE)|Draw",
+    "0a8c6d235ae8747328098c0fed47f4c4:h2h|Unibet (SE)|Estudiantes de Río Cuarto",
+    "0a8c6d235ae8747328098c0fed47f4c4:h2h|Winamax (DE)|Estudiantes de Río Cuarto",
+    "0a8c6d235ae8747328098c0fed47f4c4:h2h|Winamax (FR)|Estudiantes de Río Cuarto",
+    "363155fd3319106789fc32afa161f411:h2h|888sport|Union La Calera",
+    "363155fd3319106789fc32afa161f411:h2h|Betfair|Draw",
+    "363155fd3319106789fc32afa161f411:h2h|Betfair|Union La Calera",
+    "363155fd3319106789fc32afa161f411:h2h|Betsson|Union La Calera",
+    "363155fd3319106789fc32afa161f411:h2h|Coolbet|Draw",
+    "363155fd3319106789fc32afa161f411:h2h|Coolbet|Union La Calera",
+    "363155fd3319106789fc32afa161f411:h2h|LeoVegas (SE)|Union La Calera",
+    "363155fd3319106789fc32afa161f411:h2h|Marathon Bet|Draw",
+    "363155fd3319106789fc32afa161f411:h2h|Marathon Bet|Union La Calera",
+    "363155fd3319106789fc32afa161f411:h2h|Matchbook|Draw",
+    "363155fd3319106789fc32afa161f411:h2h|Matchbook|Union La Calera",
+    "363155fd3319106789fc32afa161f411:h2h|Nordic Bet|Union La Calera",
+    "363155fd3319106789fc32afa161f411:h2h|Unibet (FR)|Union La Calera",
+    "363155fd3319106789fc32afa161f411:h2h|Unibet (SE)|Union La Calera",
+    "363155fd3319106789fc32afa161f411:h2h|Winamax (DE)|Union La Calera",
+    "363155fd3319106789fc32afa161f411:h2h|Winamax (FR)|Union La Calera",
+    "594095fdd4de5da29dc0103b192e782c:h2h|Betfair|Atlético Huracán",
+    "594095fdd4de5da29dc0103b192e782c:h2h|Betfair|Draw",
+    "594095fdd4de5da29dc0103b192e782c:h2h|Betsson|Atlético Huracán",
+    "594095fdd4de5da29dc0103b192e782c:h2h|LeoVegas (SE)|Atlético Huracán",
+    "594095fdd4de5da29dc0103b192e782c:h2h|Marathon Bet|Atlético Huracán",
+    "594095fdd4de5da29dc0103b192e782c:h2h|Marathon Bet|Draw",
+    "594095fdd4de5da29dc0103b192e782c:h2h|Nordic Bet|Atlético Huracán",
+    "594095fdd4de5da29dc0103b192e782c:h2h|Unibet (FR)|Atlético Huracán",
+    "594095fdd4de5da29dc0103b192e782c:h2h|Unibet (SE)|Atlético Huracán",
+    "594095fdd4de5da29dc0103b192e782c:h2h|Winamax (DE)|Atlético Huracán",
+    "594095fdd4de5da29dc0103b192e782c:h2h|Winamax (FR)|Atlético Huracán"
   ]
 }
