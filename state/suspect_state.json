@@ -1,331 +1,234 @@
 {
   "snapshots": {
-    "716ddf40807b2e733c6cc43fa101bc7b:h2h": {
-      "Marathon Bet": {
-        "Auckland FC": 2.51,
-        "Brisbane Roar": 2.61,
-        "Draw": 3.4
-      },
-      "888sport": {
-        "Auckland FC": 2.5,
-        "Brisbane Roar": 2.5,
-        "Draw": 3.25
-      },
-      "Winamax (FR)": {
-        "Auckland FC": 2.3,
-        "Brisbane Roar": 2.45,
-        "Draw": 3.2
-      },
-      "Winamax (DE)": {
-        "Auckland FC": 2.4,
-        "Brisbane Roar": 2.55,
-        "Draw": 3.4
-      },
-      "Unibet (FR)": {
-        "Auckland FC": 2.25,
-        "Brisbane Roar": 2.6,
-        "Draw": 3.3
-      },
-      "William Hill": {
-        "Auckland FC": 2.5,
-        "Brisbane Roar": 2.5,
-        "Draw": 3.25
-      },
-      "Nordic Bet": {
-        "Auckland FC": 2.52,
-        "Brisbane Roar": 2.65,
-        "Draw": 3.3
-      },
-      "Betsson": {
-        "Auckland FC": 2.52,
-        "Brisbane Roar": 2.65,
-        "Draw": 3.3
-      },
-      "GTbets": {
-        "Auckland FC": 2.5,
-        "Brisbane Roar": 2.78,
-        "Draw": 3.53
-      },
-      "Pinnacle": {
-        "Auckland FC": 2.61,
-        "Brisbane Roar": 2.72,
-        "Draw": 3.58
-      },
-      "Codere (IT)": {
-        "Auckland FC": 2.55,
-        "Brisbane Roar": 2.7,
-        "Draw": 3.4
-      },
-      "Coolbet": {
-        "Auckland FC": 2.55,
-        "Brisbane Roar": 2.7,
-        "Draw": 3.5
-      },
-      "BetOnline.ag": {
-        "Auckland FC": 2.64,
-        "Brisbane Roar": 2.71,
-        "Draw": 3.48
-      },
-      "Unibet (SE)": {
-        "Auckland FC": 2.38,
-        "Brisbane Roar": 2.75,
-        "Draw": 3.3
-      },
-      "PMU (FR)": {
-        "Auckland FC": 2.28,
-        "Brisbane Roar": 2.65,
-        "Draw": 3.2
-      },
-      "Unibet (NL)": {
-        "Auckland FC": 2.38,
-        "Brisbane Roar": 2.75,
-        "Draw": 3.3
-      },
-      "LeoVegas (SE)": {
-        "Auckland FC": 2.35,
-        "Brisbane Roar": 2.75,
-        "Draw": 3.3
-      },
-      "Betfair": {
-        "Auckland FC": 2.7,
-        "Brisbane Roar": 2.78,
-        "Draw": 3.6
-      },
-      "Matchbook": {
-        "Auckland FC": 2.68,
-        "Brisbane Roar": 2.78,
-        "Draw": 3.6
-      }
-    },
     "e9d6671ca0dae9d0e4d0aa73f8a29453:h2h": {
       "Unibet (SE)": {
-        "Abha Club": 5.25,
+        "Abha Club": 5.75,
         "Al-Ittihad": 1.5,
-        "Draw": 4.1
+        "Draw": 4.2
       },
       "LeoVegas (SE)": {
-        "Abha Club": 5.1,
-        "Al-Ittihad": 1.45,
-        "Draw": 4.0
+        "Abha Club": 5.4,
+        "Al-Ittihad": 1.42,
+        "Draw": 3.95
       },
       "PMU (FR)": {
-        "Abha Club": 4.9,
-        "Al-Ittihad": 1.41,
-        "Draw": 3.9
+        "Abha Club": 5.1,
+        "Al-Ittihad": 1.35,
+        "Draw": 3.75
       },
       "Unibet (NL)": {
-        "Abha Club": 5.25,
-        "Al-Ittihad": 1.5,
-        "Draw": 4.1
+        "Abha Club": 5.4,
+        "Al-Ittihad": 1.43,
+        "Draw": 4.0
       },
       "Unibet (FR)": {
-        "Abha Club": 4.8,
+        "Abha Club": 5.0,
         "Al-Ittihad": 1.4,
-        "Draw": 4.1
+        "Draw": 3.4
       },
       "Betclic (FR)": {
-        "Abha Club": 5.0,
-        "Al-Ittihad": 1.46,
-        "Draw": 4.25
+        "Abha Club": 5.5,
+        "Al-Ittihad": 1.42,
+        "Draw": 3.9
       },
       "Winamax (DE)": {
-        "Abha Club": 4.9,
-        "Al-Ittihad": 1.5,
-        "Draw": 4.4
+        "Abha Club": 5.2,
+        "Al-Ittihad": 1.47,
+        "Draw": 3.7
       },
       "Winamax (FR)": {
-        "Abha Club": 4.7,
-        "Al-Ittihad": 1.48,
-        "Draw": 4.3
+        "Abha Club": 5.2,
+        "Al-Ittihad": 1.45,
+        "Draw": 3.75
       },
       "Pinnacle": {
-        "Abha Club": 5.44,
-        "Al-Ittihad": 1.53,
-        "Draw": 4.68
+        "Abha Club": 6.33,
+        "Al-Ittihad": 1.46,
+        "Draw": 4.34
       },
       "1xBet": {
-        "Abha Club": 5.28,
-        "Al-Ittihad": 1.53,
-        "Draw": 4.44
+        "Abha Club": 7.64,
+        "Al-Ittihad": 1.41,
+        "Draw": 5.03
       },
       "888sport": {
-        "Abha Club": 5.0,
-        "Al-Ittihad": 1.44,
+        "Abha Club": 5.5,
+        "Al-Ittihad": 1.4,
         "Draw": 4.0
       },
       "William Hill": {
-        "Abha Club": 5.0,
-        "Al-Ittihad": 1.44,
+        "Abha Club": 5.5,
+        "Al-Ittihad": 1.4,
         "Draw": 4.0
       },
       "Betfair": {
-        "Abha Club": 6.0,
+        "Abha Club": 6.6,
         "Al-Ittihad": 1.54,
-        "Draw": 4.9
+        "Draw": 4.7
       },
       "Tipico": {
-        "Abha Club": 5.5,
+        "Abha Club": 6.5,
         "Al-Ittihad": 1.45,
-        "Draw": 4.4
+        "Draw": 3.8
       }
     },
     "d3f191e80293435929486b204fb98473:h2h": {
       "LeoVegas (SE)": {
-        "Diriyah Club": 2.32,
-        "Neom": 2.55,
-        "Draw": 3.25
+        "Diriyah Club": 2.3,
+        "Neom": 2.6,
+        "Draw": 3.2
       },
       "PMU (FR)": {
         "Diriyah Club": 2.23,
-        "Neom": 2.48,
-        "Draw": 3.15
+        "Neom": 2.5,
+        "Draw": 3.1
       },
       "Unibet (SE)": {
         "Diriyah Club": 2.38,
-        "Neom": 2.63,
-        "Draw": 3.35
+        "Neom": 2.65,
+        "Draw": 3.25
       },
       "Unibet (NL)": {
         "Diriyah Club": 2.38,
-        "Neom": 2.63,
-        "Draw": 3.35
+        "Neom": 2.65,
+        "Draw": 3.25
       },
       "Unibet (FR)": {
-        "Diriyah Club": 2.45,
-        "Neom": 2.25,
+        "Diriyah Club": 2.2,
+        "Neom": 2.5,
         "Draw": 3.2
       },
       "Winamax (FR)": {
-        "Diriyah Club": 2.45,
-        "Neom": 2.45,
+        "Diriyah Club": 2.4,
+        "Neom": 2.5,
         "Draw": 3.35
       },
       "Winamax (DE)": {
-        "Diriyah Club": 2.5,
-        "Neom": 2.5,
+        "Diriyah Club": 2.45,
+        "Neom": 2.55,
         "Draw": 3.4
       },
       "Betclic (FR)": {
-        "Diriyah Club": 2.52,
-        "Neom": 2.4,
-        "Draw": 3.28
+        "Diriyah Club": 2.35,
+        "Neom": 2.55,
+        "Draw": 3.3
       },
       "Pinnacle": {
-        "Diriyah Club": 2.65,
-        "Neom": 2.58,
-        "Draw": 3.55
+        "Diriyah Club": 2.47,
+        "Neom": 2.71,
+        "Draw": 3.66
       },
       "1xBet": {
-        "Diriyah Club": 2.59,
-        "Neom": 2.55,
-        "Draw": 3.42
+        "Diriyah Club": 2.48,
+        "Neom": 2.65,
+        "Draw": 3.44
       },
       "Betfair": {
-        "Diriyah Club": 2.74,
-        "Neom": 2.66,
+        "Diriyah Club": 2.58,
+        "Neom": 2.84,
         "Draw": 3.6
       },
       "888sport": {
-        "Diriyah Club": 2.5,
-        "Neom": 2.4,
-        "Draw": 3.1
+        "Diriyah Club": 2.4,
+        "Neom": 2.5,
+        "Draw": 3.2
       },
       "William Hill": {
-        "Diriyah Club": 2.5,
-        "Neom": 2.4,
-        "Draw": 3.1
+        "Diriyah Club": 2.4,
+        "Neom": 2.5,
+        "Draw": 3.2
       },
       "Tipico": {
-        "Diriyah Club": 2.65,
-        "Neom": 2.35,
-        "Draw": 3.4
+        "Diriyah Club": 2.5,
+        "Neom": 2.45,
+        "Draw": 3.5
       }
     },
     "c8cf2ed1973923e6b97dba3de7e202d3:h2h": {
       "Unibet (NL)": {
-        "Cracovia Kraków": 2.07,
-        "Motor Lublin": 3.3,
-        "Draw": 3.6
+        "Cracovia Kraków": 2.14,
+        "Motor Lublin": 3.15,
+        "Draw": 3.55
       },
       "LeoVegas (SE)": {
-        "Cracovia Kraków": 1.95,
-        "Motor Lublin": 3.1,
+        "Cracovia Kraków": 2.02,
+        "Motor Lublin": 2.95,
         "Draw": 3.35
       },
       "Unibet (SE)": {
-        "Cracovia Kraków": 2.07,
-        "Motor Lublin": 3.3,
-        "Draw": 3.6
+        "Cracovia Kraków": 2.14,
+        "Motor Lublin": 3.15,
+        "Draw": 3.55
       },
       "PMU (FR)": {
-        "Cracovia Kraków": 1.95,
-        "Motor Lublin": 3.1,
+        "Cracovia Kraków": 2.02,
+        "Motor Lublin": 2.95,
         "Draw": 3.35
       },
       "Unibet (FR)": {
         "Cracovia Kraków": 2.05,
-        "Motor Lublin": 2.85,
-        "Draw": 3.35
+        "Motor Lublin": 2.9,
+        "Draw": 3.25
       },
       "Betclic (FR)": {
-        "Cracovia Kraków": 2.13,
-        "Motor Lublin": 2.85,
-        "Draw": 3.33
+        "Cracovia Kraków": 2.15,
+        "Motor Lublin": 2.87,
+        "Draw": 3.23
       },
       "Betsson": {
-        "Cracovia Kraków": 2.22,
-        "Motor Lublin": 2.9,
-        "Draw": 3.35
+        "Cracovia Kraków": 2.25,
+        "Motor Lublin": 2.95,
+        "Draw": 3.25
       },
       "Winamax (FR)": {
         "Cracovia Kraków": 2.1,
-        "Motor Lublin": 2.7,
-        "Draw": 3.3
+        "Motor Lublin": 2.75,
+        "Draw": 3.2
       },
       "Winamax (DE)": {
         "Cracovia Kraków": 2.2,
         "Motor Lublin": 2.85,
-        "Draw": 3.5
+        "Draw": 3.4
       },
       "Nordic Bet": {
-        "Cracovia Kraków": 2.22,
-        "Motor Lublin": 2.9,
-        "Draw": 3.35
+        "Cracovia Kraków": 2.25,
+        "Motor Lublin": 2.95,
+        "Draw": 3.25
       },
       "Coolbet": {
         "Cracovia Kraków": 2.25,
         "Motor Lublin": 3.0,
-        "Draw": 3.6
+        "Draw": 3.5
       },
       "1xBet": {
-        "Cracovia Kraków": 2.14,
-        "Motor Lublin": 3.02,
-        "Draw": 3.55
+        "Cracovia Kraków": 2.21,
+        "Motor Lublin": 2.96,
+        "Draw": 3.45
       },
       "Marathon Bet": {
-        "Cracovia Kraków": 2.12,
-        "Motor Lublin": 3.0,
-        "Draw": 3.55
+        "Cracovia Kraków": 2.19,
+        "Motor Lublin": 2.94,
+        "Draw": 3.45
       },
       "BetOnline.ag": {
-        "Cracovia Kraków": 2.25,
-        "Motor Lublin": 3.1,
-        "Draw": 3.4
+        "Cracovia Kraków": 2.3,
+        "Motor Lublin": 3.05,
+        "Draw": 3.35
       },
       "Pinnacle": {
-        "Cracovia Kraków": 2.28,
-        "Motor Lublin": 3.16,
-        "Draw": 3.56
+        "Cracovia Kraków": 2.36,
+        "Motor Lublin": 3.11,
+        "Draw": 3.44
       },
       "888sport": {
-        "Cracovia Kraków": 2.2,
-        "Motor Lublin": 3.0,
-        "Draw": 3.3
+        "Cracovia Kraków": 2.25,
+        "Motor Lublin": 2.9,
+        "Draw": 3.25
       },
       "Codere (IT)": {
-        "Cracovia Kraków": 2.19,
+        "Cracovia Kraków": 2.21,
         "Motor Lublin": 2.85,
-        "Draw": 3.3
+        "Draw": 3.25
       },
       "Tipico": {
         "Cracovia Kraków": 2.1,
@@ -333,9 +236,121 @@
         "Draw": 3.4
       },
       "Matchbook": {
-        "Cracovia Kraków": 2.32,
-        "Motor Lublin": 3.2,
-        "Draw": 3.65
+        "Cracovia Kraków": 2.36,
+        "Motor Lublin": 3.15,
+        "Draw": 3.5
+      },
+      "Betfair": {
+        "Cracovia Kraków": 2.36,
+        "Motor Lublin": 3.15,
+        "Draw": 3.5
+      }
+    },
+    "feb03ec355aa5c94e0d7ae612a59b813:h2h": {
+      "Unibet (FR)": {
+        "Galatasaray": 1.49,
+        "Torku Konyaspor": 4.55,
+        "Draw": 4.0
+      },
+      "Betsson": {
+        "Galatasaray": 1.58,
+        "Torku Konyaspor": 5.15,
+        "Draw": 4.15
+      },
+      "Unibet (SE)": {
+        "Galatasaray": 1.57,
+        "Torku Konyaspor": 5.1,
+        "Draw": 4.1
+      },
+      "LeoVegas (SE)": {
+        "Galatasaray": 1.55,
+        "Torku Konyaspor": 4.9,
+        "Draw": 3.95
+      },
+      "Nordic Bet": {
+        "Galatasaray": 1.56,
+        "Torku Konyaspor": 5.09,
+        "Draw": 4.11
+      },
+      "Betclic (FR)": {
+        "Galatasaray": 1.51,
+        "Torku Konyaspor": 4.7,
+        "Draw": 4.1
+      },
+      "PMU (FR)": {
+        "Galatasaray": 1.51,
+        "Torku Konyaspor": 4.75,
+        "Draw": 3.9
+      },
+      "Unibet (NL)": {
+        "Galatasaray": 1.57,
+        "Torku Konyaspor": 5.1,
+        "Draw": 4.1
+      },
+      "Coolbet": {
+        "Galatasaray": 1.62,
+        "Torku Konyaspor": 5.0,
+        "Draw": 4.2
+      },
+      "Winamax (DE)": {
+        "Galatasaray": 1.54,
+        "Torku Konyaspor": 4.6,
+        "Draw": 4.3
+      },
+      "Winamax (FR)": {
+        "Galatasaray": 1.5,
+        "Torku Konyaspor": 4.4,
+        "Draw": 4.2
+      },
+      "1xBet": {
+        "Galatasaray": 1.65,
+        "Torku Konyaspor": 5.11,
+        "Draw": 4.38
+      },
+      "Marathon Bet": {
+        "Galatasaray": 1.58,
+        "Torku Konyaspor": 4.9,
+        "Draw": 4.2
+      },
+      "GTbets": {
+        "Galatasaray": 1.63,
+        "Torku Konyaspor": 4.8,
+        "Draw": 4.38
+      },
+      "Tipico": {
+        "Galatasaray": 1.55,
+        "Torku Konyaspor": 5.2,
+        "Draw": 4.5
+      },
+      "888sport": {
+        "Galatasaray": 1.61,
+        "Torku Konyaspor": 4.6,
+        "Draw": 4.0
+      },
+      "Betfair": {
+        "Galatasaray": 1.65,
+        "Torku Konyaspor": 5.6,
+        "Draw": 4.5
+      },
+      "Codere (IT)": {
+        "Galatasaray": 1.62,
+        "Torku Konyaspor": 4.8,
+        "Draw": 4.2
+      },
+      "Pinnacle": {
+        "Galatasaray": 1.64,
+        "Torku Konyaspor": 5.02,
+        "Draw": 4.47
+      },
+      "BetOnline.ag": {
+        "Galatasaray": 1.6,
+        "Torku Konyaspor": 5.2,
+        "Draw": 4.3
+      },
+      "Matchbook": {
+        "Galatasaray": 1.65,
+        "Torku Konyaspor": 5.6,
+        "Draw": 4.5
       }
     }
   },
@@ -4228,8 +4243,77 @@
       "confidence": 17,
       "alert_type": "value",
       "alerted_at": "2026-10-29T23:54:20.354139+00:00"
+    },
+    {
+      "state_key": "e9d6671ca0dae9d0e4d0aa73f8a29453:h2h",
+      "event_id": "e9d6671ca0dae9d0e4d0aa73f8a29453",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Abha Club",
+      "away_team": "Al-Ittihad",
+      "commence_time": "2026-10-30T12:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Abha Club",
+      "odds_at_alert": 7.64,
+      "stake_pct": 3.0,
+      "confidence": 12,
+      "alert_type": "value",
+      "alerted_at": "2026-10-30T12:43:42.253342+00:00"
+    },
+    {
+      "state_key": "e9d6671ca0dae9d0e4d0aa73f8a29453:h2h",
+      "event_id": "e9d6671ca0dae9d0e4d0aa73f8a29453",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Abha Club",
+      "away_team": "Al-Ittihad",
+      "commence_time": "2026-10-30T12:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.03,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-10-30T12:43:42.598633+00:00"
+    },
+    {
+      "state_key": "feb03ec355aa5c94e0d7ae612a59b813:h2h",
+      "event_id": "feb03ec355aa5c94e0d7ae612a59b813",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Torku Konyaspor",
+      "away_team": "Galatasaray",
+      "commence_time": "2026-10-30T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Torku Konyaspor",
+      "odds_at_alert": 5.6,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-10-30T12:43:43.005865+00:00"
+    },
+    {
+      "state_key": "feb03ec355aa5c94e0d7ae612a59b813:h2h",
+      "event_id": "feb03ec355aa5c94e0d7ae612a59b813",
+      "sport_key": "soccer",
+      "competition": "Turkey Super League",
+      "home_team": "Torku Konyaspor",
+      "away_team": "Galatasaray",
+      "commence_time": "2026-10-30T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Torku Konyaspor",
+      "odds_at_alert": 5.6,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-10-30T12:43:43.372858+00:00"
     }
   ],
   "results_history": [],
-  "value_alerted": []
+  "value_alerted": [
+    "e9d6671ca0dae9d0e4d0aa73f8a29453:h2h|1xBet|Abha Club",
+    "e9d6671ca0dae9d0e4d0aa73f8a29453:h2h|1xBet|Draw",
+    "feb03ec355aa5c94e0d7ae612a59b813:h2h|Betfair|Torku Konyaspor",
+    "feb03ec355aa5c94e0d7ae612a59b813:h2h|Matchbook|Torku Konyaspor"
+  ]
 }
