@@ -1,321 +1,136 @@
 {
   "snapshots": {
-    "7ef8c62daf5d4e448691625fb8c2de1b:h2h": {
-      "Unibet (FR)": {
-        "Erzurum BB": 12.0,
-        "Çorum FK": 1.25,
-        "Draw": 3.15
+    "55a61ae1aee69a4ca67122ab05872cfe:h2h": {
+      "Betsson": {
+        "Lech Poznań": 1.0,
+        "Wisła Kraków": 34.0,
+        "Draw": 15.0
       },
       "Nordic Bet": {
-        "Erzurum BB": 67.0,
-        "Çorum FK": 1.0,
-        "Draw": 21.0
-      },
-      "Betsson": {
-        "Erzurum BB": 67.0,
-        "Çorum FK": 1.0,
-        "Draw": 21.0
+        "Lech Poznań": 1.0,
+        "Wisła Kraków": 29.0,
+        "Draw": 17.0
       },
       "Betclic (FR)": {
-        "Erzurum BB": 70.0,
-        "Çorum FK": 1.0,
-        "Draw": 20.0
-      },
-      "Coolbet": {
-        "Erzurum BB": 150.0,
-        "Çorum FK": 1.0,
-        "Draw": 30.0
-      },
-      "Winamax (FR)": {
-        "Erzurum BB": 160.0,
-        "Çorum FK": 1.01,
-        "Draw": 32.0
-      },
-      "Winamax (DE)": {
-        "Erzurum BB": 120.0,
-        "Çorum FK": 1.01,
-        "Draw": 30.0
+        "Lech Poznań": 1.0,
+        "Wisła Kraków": 100.0,
+        "Draw": 40.0
       },
       "Betfair": {
-        "Erzurum BB": 190.0,
-        "Çorum FK": 1.01,
-        "Draw": 60.0
-      },
-      "888sport": {
-        "Erzurum BB": 151.0,
-        "Çorum FK": 1.0,
-        "Draw": 41.0
+        "Lech Poznań": 1.01,
+        "Wisła Kraków": 11.5,
+        "Draw": 55.0
       }
     },
-    "ddd725d18afbaf45baf4db45703281df:h2h": {
-      "Unibet (SE)": {
-        "Piast Gliwice": 1.16,
-        "Wisła Płock": 14.0,
-        "Draw": 6.25
-      },
-      "Unibet (NL)": {
-        "Piast Gliwice": 1.16,
-        "Wisła Płock": 14.0,
-        "Draw": 6.25
-      },
-      "LeoVegas (SE)": {
-        "Piast Gliwice": 1.09,
-        "Wisła Płock": 14.0,
-        "Draw": 6.0
-      },
-      "PMU (FR)": {
-        "Piast Gliwice": 1.05,
-        "Wisła Płock": 13.0,
-        "Draw": 5.75
-      },
-      "Betsson": {
-        "Piast Gliwice": 1.12,
-        "Wisła Płock": 14.0,
-        "Draw": 6.3
-      },
-      "Nordic Bet": {
-        "Piast Gliwice": 1.12,
-        "Wisła Płock": 14.0,
-        "Draw": 6.3
-      },
-      "Unibet (FR)": {
-        "Piast Gliwice": 1.1,
-        "Wisła Płock": 15.0,
-        "Draw": 6.0
-      },
-      "Betclic (FR)": {
-        "Piast Gliwice": 1.14,
-        "Wisła Płock": 11.75,
-        "Draw": 5.75
-      },
-      "Winamax (FR)": {
-        "Piast Gliwice": 1.11,
-        "Wisła Płock": 13.0,
-        "Draw": 6.0
-      },
-      "Winamax (DE)": {
-        "Piast Gliwice": 1.13,
-        "Wisła Płock": 13.5,
-        "Draw": 6.5
-      },
-      "Coolbet": {
-        "Piast Gliwice": 1.16,
-        "Wisła Płock": 15.0,
-        "Draw": 7.0
+    "6669cec1fb228de4b1cbb665696a18b2:h2h": {
+      "Pinnacle": {
+        "FC Krasnodar": 2.42,
+        "Rodina Moscow": 4.62,
+        "Draw": 2.32
       },
       "Marathon Bet": {
-        "Piast Gliwice": 1.12,
-        "Wisła Płock": 13.75,
-        "Draw": 6.85
+        "FC Krasnodar": 3.28,
+        "Rodina Moscow": 6.75,
+        "Draw": 1.66
+      }
+    },
+    "a4fba95f526ee3358bbfb4bc068da479:h2h": {
+      "Betclic (FR)": {
+        "AE Kifisia FC": 20.0,
+        "Olympiakos Piraeus": 1.12,
+        "Draw": 4.85
+      },
+      "Betsson": {
+        "AE Kifisia FC": 29.0,
+        "Olympiakos Piraeus": 1.16,
+        "Draw": 5.5
+      },
+      "Nordic Bet": {
+        "AE Kifisia FC": 27.08,
+        "Olympiakos Piraeus": 1.16,
+        "Draw": 5.39
+      },
+      "Winamax (FR)": {
+        "AE Kifisia FC": 24.0,
+        "Olympiakos Piraeus": 1.12,
+        "Draw": 4.9
+      },
+      "Winamax (DE)": {
+        "AE Kifisia FC": 25.0,
+        "Olympiakos Piraeus": 1.14,
+        "Draw": 5.2
+      },
+      "888sport": {
+        "AE Kifisia FC": 23.0,
+        "Olympiakos Piraeus": 1.17,
+        "Draw": 5.5
+      },
+      "Unibet (SE)": {
+        "AE Kifisia FC": 23.0,
+        "Olympiakos Piraeus": 1.16,
+        "Draw": 5.4
+      },
+      "LeoVegas (SE)": {
+        "AE Kifisia FC": 23.0,
+        "Olympiakos Piraeus": 1.1,
+        "Draw": 5.2
+      },
+      "PMU (FR)": {
+        "AE Kifisia FC": 23.0,
+        "Olympiakos Piraeus": 1.07,
+        "Draw": 5.1
+      },
+      "Unibet (NL)": {
+        "AE Kifisia FC": 23.0,
+        "Olympiakos Piraeus": 1.16,
+        "Draw": 5.4
       },
       "Pinnacle": {
-        "Piast Gliwice": 1.17,
-        "Wisła Płock": 16.26,
-        "Draw": 7.03
-      },
-      "888sport": {
-        "Piast Gliwice": 1.17,
-        "Wisła Płock": 13.0,
-        "Draw": 6.5
-      },
-      "Tipico": {
-        "Piast Gliwice": 1.1,
-        "Wisła Płock": 15.0,
-        "Draw": 7.5
-      },
-      "Betfair": {
-        "Piast Gliwice": 1.2,
-        "Wisła Płock": 19.5,
-        "Draw": 7.6
-      },
-      "Matchbook": {
-        "Piast Gliwice": 1.21,
-        "Wisła Płock": 19.5,
-        "Draw": 7.8
-      }
-    },
-    "4b9f1f092566a24bda67fb53a4a9abdc:h2h": {
-      "Unibet (SE)": {
-        "1. FC Kaiserslautern": 2.63,
-        "Hertha Berlin": 2.33,
-        "Draw": 3.35
-      },
-      "PMU (FR)": {
-        "1. FC Kaiserslautern": 2.38,
-        "Hertha Berlin": 2.14,
-        "Draw": 3.1
-      },
-      "LeoVegas (SE)": {
-        "1. FC Kaiserslautern": 2.45,
-        "Hertha Berlin": 2.2,
-        "Draw": 3.15
-      },
-      "Unibet (NL)": {
-        "1. FC Kaiserslautern": 2.6,
-        "Hertha Berlin": 2.35,
-        "Draw": 3.35
-      },
-      "Tipico": {
-        "1. FC Kaiserslautern": 2.8,
-        "Hertha Berlin": 2.3,
-        "Draw": 3.4
-      },
-      "Betclic (FR)": {
-        "1. FC Kaiserslautern": 2.7,
-        "Hertha Berlin": 2.15,
-        "Draw": 3.25
-      },
-      "Unibet (FR)": {
-        "1. FC Kaiserslautern": 2.55,
-        "Hertha Berlin": 2.05,
-        "Draw": 3.05
-      },
-      "Winamax (DE)": {
-        "1. FC Kaiserslautern": 2.75,
-        "Hertha Berlin": 2.2,
-        "Draw": 3.25
-      },
-      "Winamax (FR)": {
-        "1. FC Kaiserslautern": 2.5,
-        "Hertha Berlin": 2.0,
-        "Draw": 2.95
-      },
-      "Nordic Bet": {
-        "1. FC Kaiserslautern": 2.85,
-        "Hertha Berlin": 2.2,
-        "Draw": 3.4
-      },
-      "Betsson": {
-        "1. FC Kaiserslautern": 2.85,
-        "Hertha Berlin": 2.2,
-        "Draw": 3.4
+        "AE Kifisia FC": 26.37,
+        "Olympiakos Piraeus": 1.19,
+        "Draw": 5.58
       },
       "Coolbet": {
-        "1. FC Kaiserslautern": 3.0,
-        "Hertha Berlin": 2.3,
-        "Draw": 3.6
-      },
-      "Codere (IT)": {
-        "1. FC Kaiserslautern": 2.85,
-        "Hertha Berlin": 2.32,
-        "Draw": 3.6
-      },
-      "888sport": {
-        "1. FC Kaiserslautern": 2.8,
-        "Hertha Berlin": 2.25,
-        "Draw": 3.3
-      },
-      "William Hill": {
-        "1. FC Kaiserslautern": 2.8,
-        "Hertha Berlin": 2.2,
-        "Draw": 3.5
-      },
-      "Marathon Bet": {
-        "1. FC Kaiserslautern": 2.82,
-        "Hertha Berlin": 2.19,
-        "Draw": 3.42
-      },
-      "Betfair": {
-        "1. FC Kaiserslautern": 3.1,
-        "Hertha Berlin": 2.38,
-        "Draw": 3.75
-      },
-      "Matchbook": {
-        "1. FC Kaiserslautern": 3.1,
-        "Hertha Berlin": 2.4,
-        "Draw": 3.75
-      }
-    },
-    "12d828d419288eb7705807015c3547d1:h2h": {
-      "Unibet (SE)": {
-        "1. FC Magdeburg": 1.48,
-        "SV Darmstadt 98": 5.5,
-        "Draw": 4.1
-      },
-      "LeoVegas (SE)": {
-        "1. FC Magdeburg": 1.36,
-        "SV Darmstadt 98": 5.3,
-        "Draw": 3.85
-      },
-      "PMU (FR)": {
-        "1. FC Magdeburg": 1.34,
-        "SV Darmstadt 98": 5.2,
-        "Draw": 3.75
-      },
-      "Unibet (NL)": {
-        "1. FC Magdeburg": 1.47,
-        "SV Darmstadt 98": 5.6,
-        "Draw": 4.0
-      },
-      "Tipico": {
-        "1. FC Magdeburg": 1.45,
-        "SV Darmstadt 98": 5.5,
-        "Draw": 4.7
-      },
-      "Nordic Bet": {
-        "1. FC Magdeburg": 1.52,
-        "SV Darmstadt 98": 4.85,
-        "Draw": 4.1
-      },
-      "Betsson": {
-        "1. FC Magdeburg": 1.52,
-        "SV Darmstadt 98": 4.85,
-        "Draw": 4.1
-      },
-      "Betclic (FR)": {
-        "1. FC Magdeburg": 1.42,
-        "SV Darmstadt 98": 5.25,
-        "Draw": 4.1
+        "AE Kifisia FC": 28.0,
+        "Olympiakos Piraeus": 1.16,
+        "Draw": 5.5
       },
       "Unibet (FR)": {
-        "1. FC Magdeburg": 1.45,
-        "SV Darmstadt 98": 4.85,
-        "Draw": 3.45
-      },
-      "Coolbet": {
-        "1. FC Magdeburg": 1.57,
-        "SV Darmstadt 98": 5.5,
-        "Draw": 4.5
-      },
-      "Winamax (FR)": {
-        "1. FC Magdeburg": 1.45,
-        "SV Darmstadt 98": 4.7,
-        "Draw": 3.45
-      },
-      "Winamax (DE)": {
-        "1. FC Magdeburg": 1.52,
-        "SV Darmstadt 98": 5.4,
+        "AE Kifisia FC": 26.0,
+        "Olympiakos Piraeus": 1.1,
         "Draw": 3.9
       },
-      "888sport": {
-        "1. FC Magdeburg": 1.57,
-        "SV Darmstadt 98": 5.0,
-        "Draw": 3.8
-      },
-      "William Hill": {
-        "1. FC Magdeburg": 2.25,
-        "SV Darmstadt 98": 2.8,
-        "Draw": 3.5
-      },
-      "Marathon Bet": {
-        "1. FC Magdeburg": 1.42,
-        "SV Darmstadt 98": 5.9,
-        "Draw": 4.35
+      "Tipico": {
+        "AE Kifisia FC": 30.0,
+        "Olympiakos Piraeus": 1.1,
+        "Draw": 6.0
       },
       "Betfair": {
-        "1. FC Magdeburg": 1.56,
-        "SV Darmstadt 98": 5.5,
-        "Draw": 4.6
+        "AE Kifisia FC": 38.0,
+        "Olympiakos Piraeus": 1.2,
+        "Draw": 6.4
+      }
+    },
+    "34cd26b96f78bd7aa3dbff3d1daca7a7:h2h": {
+      "888sport": {
+        "AS Roma": 1.0,
+        "Udinese": 151.0,
+        "Draw": 71.0
       },
-      "Codere (IT)": {
-        "1. FC Magdeburg": 2.3,
-        "SV Darmstadt 98": 2.85,
-        "Draw": 3.65
+      "Betclic (FR)": {
+        "AS Roma": 1.0,
+        "Udinese": 100.0,
+        "Draw": 50.0
       },
-      "Matchbook": {
-        "1. FC Magdeburg": 1.61,
-        "SV Darmstadt 98": 6.0,
-        "Draw": 4.4
+      "Nordic Bet": {
+        "AS Roma": 1.0,
+        "Udinese": 46.0,
+        "Draw": 23.0
+      },
+      "Betsson": {
+        "AS Roma": 1.0,
+        "Udinese": 46.0,
+        "Draw": 23.0
       }
     }
   },
@@ -3616,11 +3431,94 @@
       "confidence": 13,
       "alert_type": "value",
       "alerted_at": "2026-10-31T12:15:40.443923+00:00"
+    },
+    {
+      "state_key": "6669cec1fb228de4b1cbb665696a18b2:h2h",
+      "event_id": "6669cec1fb228de4b1cbb665696a18b2",
+      "sport_key": "soccer",
+      "competition": "Premier League - Russia",
+      "home_team": "Rodina Moscow",
+      "away_team": "FC Krasnodar",
+      "commence_time": "2026-10-31T16:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Krasnodar",
+      "odds_at_alert": 3.28,
+      "stake_pct": 5.0,
+      "confidence": 28,
+      "alert_type": "value",
+      "alerted_at": "2026-10-31T18:28:28.254256+00:00"
+    },
+    {
+      "state_key": "6669cec1fb228de4b1cbb665696a18b2:h2h",
+      "event_id": "6669cec1fb228de4b1cbb665696a18b2",
+      "sport_key": "soccer",
+      "competition": "Premier League - Russia",
+      "home_team": "Rodina Moscow",
+      "away_team": "FC Krasnodar",
+      "commence_time": "2026-10-31T16:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Rodina Moscow",
+      "odds_at_alert": 6.75,
+      "stake_pct": 5.0,
+      "confidence": 38,
+      "alert_type": "value",
+      "alerted_at": "2026-10-31T18:28:28.693708+00:00"
+    },
+    {
+      "state_key": "a4fba95f526ee3358bbfb4bc068da479:h2h",
+      "event_id": "a4fba95f526ee3358bbfb4bc068da479",
+      "sport_key": "soccer",
+      "competition": "Super League - Greece",
+      "home_team": "AE Kifisia FC",
+      "away_team": "Olympiakos Piraeus",
+      "commence_time": "2026-10-31T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "AE Kifisia FC",
+      "odds_at_alert": 30.0,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-10-31T18:28:29.130048+00:00"
+    },
+    {
+      "state_key": "a4fba95f526ee3358bbfb4bc068da479:h2h",
+      "event_id": "a4fba95f526ee3358bbfb4bc068da479",
+      "sport_key": "soccer",
+      "competition": "Super League - Greece",
+      "home_team": "AE Kifisia FC",
+      "away_team": "Olympiakos Piraeus",
+      "commence_time": "2026-10-31T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "AE Kifisia FC",
+      "odds_at_alert": 38.0,
+      "stake_pct": 5.0,
+      "confidence": 36,
+      "alert_type": "value",
+      "alerted_at": "2026-10-31T18:28:29.562395+00:00"
+    },
+    {
+      "state_key": "a4fba95f526ee3358bbfb4bc068da479:h2h",
+      "event_id": "a4fba95f526ee3358bbfb4bc068da479",
+      "sport_key": "soccer",
+      "competition": "Super League - Greece",
+      "home_team": "AE Kifisia FC",
+      "away_team": "Olympiakos Piraeus",
+      "commence_time": "2026-10-31T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.4,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-10-31T18:28:29.994453+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "ddd725d18afbaf45baf4db45703281df:h2h|Betfair|Wisła Płock",
-    "ddd725d18afbaf45baf4db45703281df:h2h|Matchbook|Wisła Płock"
+    "6669cec1fb228de4b1cbb665696a18b2:h2h|Marathon Bet|FC Krasnodar",
+    "6669cec1fb228de4b1cbb665696a18b2:h2h|Marathon Bet|Rodina Moscow",
+    "a4fba95f526ee3358bbfb4bc068da479:h2h|Betfair|AE Kifisia FC",
+    "a4fba95f526ee3358bbfb4bc068da479:h2h|Betfair|Draw",
+    "a4fba95f526ee3358bbfb4bc068da479:h2h|Tipico|AE Kifisia FC"
   ]
 }
