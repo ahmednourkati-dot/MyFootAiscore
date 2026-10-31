@@ -1,136 +1,246 @@
 {
   "snapshots": {
-    "55a61ae1aee69a4ca67122ab05872cfe:h2h": {
-      "Betsson": {
-        "Lech Poznań": 1.0,
-        "Wisła Kraków": 34.0,
-        "Draw": 15.0
-      },
-      "Nordic Bet": {
-        "Lech Poznań": 1.0,
-        "Wisła Kraków": 29.0,
-        "Draw": 17.0
-      },
-      "Betclic (FR)": {
-        "Lech Poznań": 1.0,
-        "Wisła Kraków": 100.0,
-        "Draw": 40.0
-      },
-      "Betfair": {
-        "Lech Poznań": 1.01,
-        "Wisła Kraków": 11.5,
-        "Draw": 55.0
-      }
-    },
-    "6669cec1fb228de4b1cbb665696a18b2:h2h": {
-      "Pinnacle": {
-        "FC Krasnodar": 2.42,
-        "Rodina Moscow": 4.62,
-        "Draw": 2.32
-      },
-      "Marathon Bet": {
-        "FC Krasnodar": 3.28,
-        "Rodina Moscow": 6.75,
-        "Draw": 1.66
-      }
-    },
-    "a4fba95f526ee3358bbfb4bc068da479:h2h": {
-      "Betclic (FR)": {
-        "AE Kifisia FC": 20.0,
-        "Olympiakos Piraeus": 1.12,
-        "Draw": 4.85
-      },
-      "Betsson": {
-        "AE Kifisia FC": 29.0,
-        "Olympiakos Piraeus": 1.16,
-        "Draw": 5.5
-      },
-      "Nordic Bet": {
-        "AE Kifisia FC": 27.08,
-        "Olympiakos Piraeus": 1.16,
-        "Draw": 5.39
-      },
-      "Winamax (FR)": {
-        "AE Kifisia FC": 24.0,
-        "Olympiakos Piraeus": 1.12,
-        "Draw": 4.9
-      },
-      "Winamax (DE)": {
-        "AE Kifisia FC": 25.0,
-        "Olympiakos Piraeus": 1.14,
-        "Draw": 5.2
-      },
-      "888sport": {
-        "AE Kifisia FC": 23.0,
-        "Olympiakos Piraeus": 1.17,
-        "Draw": 5.5
-      },
-      "Unibet (SE)": {
-        "AE Kifisia FC": 23.0,
-        "Olympiakos Piraeus": 1.16,
-        "Draw": 5.4
-      },
-      "LeoVegas (SE)": {
-        "AE Kifisia FC": 23.0,
-        "Olympiakos Piraeus": 1.1,
-        "Draw": 5.2
-      },
-      "PMU (FR)": {
-        "AE Kifisia FC": 23.0,
-        "Olympiakos Piraeus": 1.07,
-        "Draw": 5.1
-      },
-      "Unibet (NL)": {
-        "AE Kifisia FC": 23.0,
-        "Olympiakos Piraeus": 1.16,
-        "Draw": 5.4
-      },
-      "Pinnacle": {
-        "AE Kifisia FC": 26.37,
-        "Olympiakos Piraeus": 1.19,
-        "Draw": 5.58
+    "0bb39a80a74794aacf8c9be367cc46d8:h2h": {
+      "Unibet (FR)": {
+        "Real Salt Lake": 100.0,
+        "San Jose Earthquakes": 1.01,
+        "Draw": 4.65
       },
       "Coolbet": {
-        "AE Kifisia FC": 28.0,
-        "Olympiakos Piraeus": 1.16,
-        "Draw": 5.5
+        "Real Salt Lake": 150.0,
+        "San Jose Earthquakes": 1.01,
+        "Draw": 13.0
       },
-      "Unibet (FR)": {
-        "AE Kifisia FC": 26.0,
-        "Olympiakos Piraeus": 1.1,
-        "Draw": 3.9
+      "MyBookie.ag": {
+        "Real Salt Lake": 12.5,
+        "San Jose Earthquakes": 1.08,
+        "Draw": 6.75
       },
-      "Tipico": {
-        "AE Kifisia FC": 30.0,
-        "Olympiakos Piraeus": 1.1,
-        "Draw": 6.0
-      },
-      "Betfair": {
-        "AE Kifisia FC": 38.0,
-        "Olympiakos Piraeus": 1.2,
-        "Draw": 6.4
-      }
-    },
-    "34cd26b96f78bd7aa3dbff3d1daca7a7:h2h": {
-      "888sport": {
-        "AS Roma": 1.0,
-        "Udinese": 151.0,
-        "Draw": 71.0
-      },
-      "Betclic (FR)": {
-        "AS Roma": 1.0,
-        "Udinese": 100.0,
-        "Draw": 50.0
+      "Pinnacle": {
+        "Real Salt Lake": 19.56,
+        "San Jose Earthquakes": 1.26,
+        "Draw": 4.66
       },
       "Nordic Bet": {
-        "AS Roma": 1.0,
-        "Udinese": 46.0,
-        "Draw": 23.0
+        "Real Salt Lake": 150.0,
+        "San Jose Earthquakes": 1.01,
+        "Draw": 13.0
       },
       "Betsson": {
-        "AS Roma": 1.0,
-        "Udinese": 46.0,
-        "Draw": 23.0
+        "Real Salt Lake": 126.0,
+        "San Jose Earthquakes": 1.0,
+        "Draw": 15.0
+      },
+      "Betfair": {
+        "Real Salt Lake": 6.0,
+        "San Jose Earthquakes": 1.01,
+        "Draw": 1.01
+      },
+      "Winamax (DE)": {
+        "Real Salt Lake": 140.0,
+        "San Jose Earthquakes": 1.02,
+        "Draw": 13.0
+      },
+      "888sport": {
+        "Real Salt Lake": 126.0,
+        "San Jose Earthquakes": 1.04,
+        "Draw": 12.0
+      },
+      "Winamax (FR)": {
+        "Real Salt Lake": 140.0,
+        "San Jose Earthquakes": 1.01,
+        "Draw": 13.0
+      },
+      "Tipico": {
+        "Real Salt Lake": 500.0,
+        "San Jose Earthquakes": 1.01,
+        "Draw": 9.5
+      }
+    },
+    "5ab9452c52a1a3d99c1a35e98968edaf:h2h": {
+      "Winamax (DE)": {
+        "San Lorenzo": 17.0,
+        "Velez Sarsfield BA": 1.16,
+        "Draw": 5.0
+      },
+      "Unibet (FR)": {
+        "San Lorenzo": 14.5,
+        "Velez Sarsfield BA": 1.14,
+        "Draw": 3.85
+      },
+      "Winamax (FR)": {
+        "San Lorenzo": 17.0,
+        "Velez Sarsfield BA": 1.13,
+        "Draw": 4.7
+      },
+      "Betclic (FR)": {
+        "San Lorenzo": 14.0,
+        "Velez Sarsfield BA": 1.15,
+        "Draw": 4.9
+      },
+      "Marathon Bet": {
+        "San Lorenzo": 17.5,
+        "Velez Sarsfield BA": 1.18,
+        "Draw": 5.8
+      },
+      "Betfair": {
+        "San Lorenzo": 27.0,
+        "Velez Sarsfield BA": 1.22,
+        "Draw": 6.4
+      },
+      "Nordic Bet": {
+        "San Lorenzo": 17.5,
+        "Velez Sarsfield BA": 1.16,
+        "Draw": 5.35
+      },
+      "Betsson": {
+        "San Lorenzo": 17.5,
+        "Velez Sarsfield BA": 1.16,
+        "Draw": 5.35
+      },
+      "LeoVegas (SE)": {
+        "San Lorenzo": 12.5,
+        "Velez Sarsfield BA": 1.17,
+        "Draw": 4.9
+      },
+      "Unibet (SE)": {
+        "San Lorenzo": 14.0,
+        "Velez Sarsfield BA": 1.23,
+        "Draw": 5.2
+      },
+      "Pinnacle": {
+        "San Lorenzo": 21.21,
+        "Velez Sarsfield BA": 1.21,
+        "Draw": 5.51
+      }
+    },
+    "6a8e5e43793e3e4e798b6ed53a405861:h2h": {
+      "Pinnacle": {
+        "Avai": 13.64,
+        "Nautico PE": 1.29,
+        "Draw": 4.64
+      },
+      "Betsson": {
+        "Avai": 11.5,
+        "Nautico PE": 1.26,
+        "Draw": 4.6
+      },
+      "Nordic Bet": {
+        "Avai": 11.5,
+        "Nautico PE": 1.26,
+        "Draw": 4.6
+      },
+      "Coolbet": {
+        "Avai": 12.0,
+        "Nautico PE": 1.29,
+        "Draw": 4.5
+      },
+      "Marathon Bet": {
+        "Avai": 11.5,
+        "Nautico PE": 1.23,
+        "Draw": 4.8
+      },
+      "888sport": {
+        "Avai": 11.0,
+        "Nautico PE": 1.29,
+        "Draw": 4.5
+      },
+      "Tipico": {
+        "Avai": 12.0,
+        "Nautico PE": 1.2,
+        "Draw": 5.2
+      },
+      "Unibet (NL)": {
+        "Avai": 11.0,
+        "Nautico PE": 1.28,
+        "Draw": 4.35
+      },
+      "LeoVegas (SE)": {
+        "Avai": 11.0,
+        "Nautico PE": 1.2,
+        "Draw": 4.1
+      },
+      "Unibet (SE)": {
+        "Avai": 11.0,
+        "Nautico PE": 1.29,
+        "Draw": 4.3
+      },
+      "Matchbook": {
+        "Avai": 15.0,
+        "Nautico PE": 1.27,
+        "Draw": 5.0
+      }
+    },
+    "83dce11e1a742d6d45830321ba1bf4f5:h2h": {
+      "Unibet (NL)": {
+        "Pachuca": 2.04,
+        "Tigres": 3.45,
+        "Draw": 3.35
+      },
+      "PMU (FR)": {
+        "Pachuca": 1.83,
+        "Tigres": 3.05,
+        "Draw": 3.0
+      },
+      "LeoVegas (SE)": {
+        "Pachuca": 1.93,
+        "Tigres": 3.25,
+        "Draw": 3.15
+      },
+      "Unibet (SE)": {
+        "Pachuca": 2.04,
+        "Tigres": 3.45,
+        "Draw": 3.35
+      },
+      "Betclic (FR)": {
+        "Pachuca": 1.94,
+        "Tigres": 3.23,
+        "Draw": 3.2
+      },
+      "Pinnacle": {
+        "Pachuca": 1.95,
+        "Tigres": 3.75,
+        "Draw": 3.58
+      },
+      "Marathon Bet": {
+        "Pachuca": 1.8,
+        "Tigres": 3.78,
+        "Draw": 3.54
+      },
+      "888sport": {
+        "Pachuca": 1.8,
+        "Tigres": 3.5,
+        "Draw": 3.25
+      },
+      "Betsson": {
+        "Pachuca": 1.95,
+        "Tigres": 3.4,
+        "Draw": 3.3
+      },
+      "Nordic Bet": {
+        "Pachuca": 1.95,
+        "Tigres": 3.4,
+        "Draw": 3.3
+      },
+      "Tipico": {
+        "Pachuca": 1.85,
+        "Tigres": 3.6,
+        "Draw": 3.6
+      },
+      "Betfair": {
+        "Pachuca": 1.96,
+        "Tigres": 4.1,
+        "Draw": 3.85
+      },
+      "Matchbook": {
+        "Pachuca": 2.04,
+        "Tigres": 3.95,
+        "Draw": 3.75
+      },
+      "Coolbet": {
+        "Pachuca": 2.1,
+        "Tigres": 3.6,
+        "Draw": 3.6
       }
     }
   },
@@ -3511,14 +3621,332 @@
       "confidence": 8,
       "alert_type": "value",
       "alerted_at": "2026-10-31T18:28:29.994453+00:00"
+    },
+    {
+      "state_key": "0bb39a80a74794aacf8c9be367cc46d8:h2h",
+      "event_id": "0bb39a80a74794aacf8c9be367cc46d8",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "San Jose Earthquakes",
+      "away_team": "Real Salt Lake",
+      "commence_time": "2026-10-31T21:10:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Real Salt Lake",
+      "odds_at_alert": 100.0,
+      "stake_pct": 5.0,
+      "confidence": 383,
+      "alert_type": "value",
+      "alerted_at": "2026-10-31T23:18:52.247716+00:00"
+    },
+    {
+      "state_key": "0bb39a80a74794aacf8c9be367cc46d8:h2h",
+      "event_id": "0bb39a80a74794aacf8c9be367cc46d8",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "San Jose Earthquakes",
+      "away_team": "Real Salt Lake",
+      "commence_time": "2026-10-31T21:10:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Real Salt Lake",
+      "odds_at_alert": 150.0,
+      "stake_pct": 5.0,
+      "confidence": 624,
+      "alert_type": "value",
+      "alerted_at": "2026-10-31T23:18:52.608982+00:00"
+    },
+    {
+      "state_key": "0bb39a80a74794aacf8c9be367cc46d8:h2h",
+      "event_id": "0bb39a80a74794aacf8c9be367cc46d8",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "San Jose Earthquakes",
+      "away_team": "Real Salt Lake",
+      "commence_time": "2026-10-31T21:10:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 163,
+      "alert_type": "value",
+      "alerted_at": "2026-10-31T23:18:52.975298+00:00"
+    },
+    {
+      "state_key": "0bb39a80a74794aacf8c9be367cc46d8:h2h",
+      "event_id": "0bb39a80a74794aacf8c9be367cc46d8",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "San Jose Earthquakes",
+      "away_team": "Real Salt Lake",
+      "commence_time": "2026-10-31T21:10:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.75,
+      "stake_pct": 5.0,
+      "confidence": 37,
+      "alert_type": "value",
+      "alerted_at": "2026-10-31T23:18:53.377299+00:00"
+    },
+    {
+      "state_key": "0bb39a80a74794aacf8c9be367cc46d8:h2h",
+      "event_id": "0bb39a80a74794aacf8c9be367cc46d8",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "San Jose Earthquakes",
+      "away_team": "Real Salt Lake",
+      "commence_time": "2026-10-31T21:10:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Real Salt Lake",
+      "odds_at_alert": 150.0,
+      "stake_pct": 5.0,
+      "confidence": 624,
+      "alert_type": "value",
+      "alerted_at": "2026-10-31T23:18:53.799058+00:00"
+    },
+    {
+      "state_key": "0bb39a80a74794aacf8c9be367cc46d8:h2h",
+      "event_id": "0bb39a80a74794aacf8c9be367cc46d8",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "San Jose Earthquakes",
+      "away_team": "Real Salt Lake",
+      "commence_time": "2026-10-31T21:10:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 163,
+      "alert_type": "value",
+      "alerted_at": "2026-10-31T23:18:54.244639+00:00"
+    },
+    {
+      "state_key": "0bb39a80a74794aacf8c9be367cc46d8:h2h",
+      "event_id": "0bb39a80a74794aacf8c9be367cc46d8",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "San Jose Earthquakes",
+      "away_team": "Real Salt Lake",
+      "commence_time": "2026-10-31T21:10:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Real Salt Lake",
+      "odds_at_alert": 126.0,
+      "stake_pct": 5.0,
+      "confidence": 508,
+      "alert_type": "value",
+      "alerted_at": "2026-10-31T23:18:54.625920+00:00"
+    },
+    {
+      "state_key": "0bb39a80a74794aacf8c9be367cc46d8:h2h",
+      "event_id": "0bb39a80a74794aacf8c9be367cc46d8",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "San Jose Earthquakes",
+      "away_team": "Real Salt Lake",
+      "commence_time": "2026-10-31T21:10:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 204,
+      "alert_type": "value",
+      "alerted_at": "2026-10-31T23:18:54.993402+00:00"
+    },
+    {
+      "state_key": "0bb39a80a74794aacf8c9be367cc46d8:h2h",
+      "event_id": "0bb39a80a74794aacf8c9be367cc46d8",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "San Jose Earthquakes",
+      "away_team": "Real Salt Lake",
+      "commence_time": "2026-10-31T21:10:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Real Salt Lake",
+      "odds_at_alert": 140.0,
+      "stake_pct": 5.0,
+      "confidence": 576,
+      "alert_type": "value",
+      "alerted_at": "2026-10-31T23:18:55.358587+00:00"
+    },
+    {
+      "state_key": "0bb39a80a74794aacf8c9be367cc46d8:h2h",
+      "event_id": "0bb39a80a74794aacf8c9be367cc46d8",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "San Jose Earthquakes",
+      "away_team": "Real Salt Lake",
+      "commence_time": "2026-10-31T21:10:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 163,
+      "alert_type": "value",
+      "alerted_at": "2026-10-31T23:18:55.734125+00:00"
+    },
+    {
+      "state_key": "0bb39a80a74794aacf8c9be367cc46d8:h2h",
+      "event_id": "0bb39a80a74794aacf8c9be367cc46d8",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "San Jose Earthquakes",
+      "away_team": "Real Salt Lake",
+      "commence_time": "2026-10-31T21:10:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Real Salt Lake",
+      "odds_at_alert": 126.0,
+      "stake_pct": 5.0,
+      "confidence": 508,
+      "alert_type": "value",
+      "alerted_at": "2026-10-31T23:18:56.101188+00:00"
+    },
+    {
+      "state_key": "0bb39a80a74794aacf8c9be367cc46d8:h2h",
+      "event_id": "0bb39a80a74794aacf8c9be367cc46d8",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "San Jose Earthquakes",
+      "away_team": "Real Salt Lake",
+      "commence_time": "2026-10-31T21:10:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 143,
+      "alert_type": "value",
+      "alerted_at": "2026-10-31T23:18:56.466509+00:00"
+    },
+    {
+      "state_key": "0bb39a80a74794aacf8c9be367cc46d8:h2h",
+      "event_id": "0bb39a80a74794aacf8c9be367cc46d8",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "San Jose Earthquakes",
+      "away_team": "Real Salt Lake",
+      "commence_time": "2026-10-31T21:10:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Real Salt Lake",
+      "odds_at_alert": 140.0,
+      "stake_pct": 5.0,
+      "confidence": 576,
+      "alert_type": "value",
+      "alerted_at": "2026-10-31T23:18:56.838340+00:00"
+    },
+    {
+      "state_key": "0bb39a80a74794aacf8c9be367cc46d8:h2h",
+      "event_id": "0bb39a80a74794aacf8c9be367cc46d8",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "San Jose Earthquakes",
+      "away_team": "Real Salt Lake",
+      "commence_time": "2026-10-31T21:10:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 163,
+      "alert_type": "value",
+      "alerted_at": "2026-10-31T23:18:57.211818+00:00"
+    },
+    {
+      "state_key": "0bb39a80a74794aacf8c9be367cc46d8:h2h",
+      "event_id": "0bb39a80a74794aacf8c9be367cc46d8",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "San Jose Earthquakes",
+      "away_team": "Real Salt Lake",
+      "commence_time": "2026-10-31T21:10:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Real Salt Lake",
+      "odds_at_alert": 500.0,
+      "stake_pct": 5.0,
+      "confidence": 2313,
+      "alert_type": "value",
+      "alerted_at": "2026-10-31T23:18:57.572276+00:00"
+    },
+    {
+      "state_key": "0bb39a80a74794aacf8c9be367cc46d8:h2h",
+      "event_id": "0bb39a80a74794aacf8c9be367cc46d8",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "San Jose Earthquakes",
+      "away_team": "Real Salt Lake",
+      "commence_time": "2026-10-31T21:10:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 9.5,
+      "stake_pct": 5.0,
+      "confidence": 92,
+      "alert_type": "value",
+      "alerted_at": "2026-10-31T23:18:57.952630+00:00"
+    },
+    {
+      "state_key": "5ab9452c52a1a3d99c1a35e98968edaf:h2h",
+      "event_id": "5ab9452c52a1a3d99c1a35e98968edaf",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Velez Sarsfield BA",
+      "away_team": "San Lorenzo",
+      "commence_time": "2026-10-31T22:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "San Lorenzo",
+      "odds_at_alert": 27.0,
+      "stake_pct": 5.0,
+      "confidence": 21,
+      "alert_type": "value",
+      "alerted_at": "2026-10-31T23:18:58.327021+00:00"
+    },
+    {
+      "state_key": "5ab9452c52a1a3d99c1a35e98968edaf:h2h",
+      "event_id": "5ab9452c52a1a3d99c1a35e98968edaf",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Velez Sarsfield BA",
+      "away_team": "San Lorenzo",
+      "commence_time": "2026-10-31T22:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.4,
+      "stake_pct": 3.0,
+      "confidence": 10,
+      "alert_type": "value",
+      "alerted_at": "2026-10-31T23:18:58.696465+00:00"
+    },
+    {
+      "state_key": "6a8e5e43793e3e4e798b6ed53a405861:h2h",
+      "event_id": "6a8e5e43793e3e4e798b6ed53a405861",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Nautico PE",
+      "away_team": "Avai",
+      "commence_time": "2026-10-31T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.2,
+      "stake_pct": 2.0,
+      "confidence": 5,
+      "alert_type": "value",
+      "alerted_at": "2026-10-31T23:18:59.046698+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "6669cec1fb228de4b1cbb665696a18b2:h2h|Marathon Bet|FC Krasnodar",
-    "6669cec1fb228de4b1cbb665696a18b2:h2h|Marathon Bet|Rodina Moscow",
-    "a4fba95f526ee3358bbfb4bc068da479:h2h|Betfair|AE Kifisia FC",
-    "a4fba95f526ee3358bbfb4bc068da479:h2h|Betfair|Draw",
-    "a4fba95f526ee3358bbfb4bc068da479:h2h|Tipico|AE Kifisia FC"
+    "0bb39a80a74794aacf8c9be367cc46d8:h2h|888sport|Draw",
+    "0bb39a80a74794aacf8c9be367cc46d8:h2h|888sport|Real Salt Lake",
+    "0bb39a80a74794aacf8c9be367cc46d8:h2h|Betsson|Draw",
+    "0bb39a80a74794aacf8c9be367cc46d8:h2h|Betsson|Real Salt Lake",
+    "0bb39a80a74794aacf8c9be367cc46d8:h2h|Coolbet|Draw",
+    "0bb39a80a74794aacf8c9be367cc46d8:h2h|Coolbet|Real Salt Lake",
+    "0bb39a80a74794aacf8c9be367cc46d8:h2h|MyBookie.ag|Draw",
+    "0bb39a80a74794aacf8c9be367cc46d8:h2h|Nordic Bet|Draw",
+    "0bb39a80a74794aacf8c9be367cc46d8:h2h|Nordic Bet|Real Salt Lake",
+    "0bb39a80a74794aacf8c9be367cc46d8:h2h|Tipico|Draw",
+    "0bb39a80a74794aacf8c9be367cc46d8:h2h|Tipico|Real Salt Lake",
+    "0bb39a80a74794aacf8c9be367cc46d8:h2h|Unibet (FR)|Real Salt Lake",
+    "0bb39a80a74794aacf8c9be367cc46d8:h2h|Winamax (DE)|Draw",
+    "0bb39a80a74794aacf8c9be367cc46d8:h2h|Winamax (DE)|Real Salt Lake",
+    "0bb39a80a74794aacf8c9be367cc46d8:h2h|Winamax (FR)|Draw",
+    "0bb39a80a74794aacf8c9be367cc46d8:h2h|Winamax (FR)|Real Salt Lake",
+    "5ab9452c52a1a3d99c1a35e98968edaf:h2h|Betfair|Draw",
+    "5ab9452c52a1a3d99c1a35e98968edaf:h2h|Betfair|San Lorenzo",
+    "6a8e5e43793e3e4e798b6ed53a405861:h2h|Tipico|Draw"
   ]
 }
