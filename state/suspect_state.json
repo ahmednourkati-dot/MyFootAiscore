@@ -1,261 +1,301 @@
 {
   "snapshots": {
-    "67842b47bcc11eb37b984360c48402bc:h2h": {
-      "888sport": {
-        "Central Coast Mariners": 9.0,
-        "Melbourne Victory": 12.0,
-        "Draw": 1.12
-      },
+    "016bdfefaa570d0fcaeffc5a1cb3625f:h2h": {
       "Unibet (FR)": {
-        "Central Coast Mariners": 8.5,
-        "Melbourne Victory": 8.25,
-        "Draw": 1.03
-      },
-      "Winamax (FR)": {
-        "Central Coast Mariners": 13.0,
-        "Melbourne Victory": 15.0,
-        "Draw": 1.03
+        "ADO Den Haag": 100.0,
+        "FC Zwolle": 1.01,
+        "Draw": 4.65
       },
       "Winamax (DE)": {
-        "Central Coast Mariners": 16.0,
-        "Melbourne Victory": 15.0,
-        "Draw": 1.04
+        "ADO Den Haag": 1000.0,
+        "FC Zwolle": 1.02,
+        "Draw": 16.0
+      },
+      "888sport": {
+        "ADO Den Haag": 91.0,
+        "FC Zwolle": 1.06,
+        "Draw": 9.0
+      },
+      "Winamax (FR)": {
+        "ADO Den Haag": 1000.0,
+        "FC Zwolle": 1.01,
+        "Draw": 15.0
+      },
+      "Betclic (FR)": {
+        "ADO Den Haag": 100.0,
+        "FC Zwolle": 1.02,
+        "Draw": 12.0
       },
       "Nordic Bet": {
-        "Central Coast Mariners": 21.0,
-        "Melbourne Victory": 23.0,
-        "Draw": 1.02
+        "ADO Den Haag": 101.0,
+        "FC Zwolle": 1.0,
+        "Draw": 15.0
       },
       "Betsson": {
-        "Central Coast Mariners": 19.0,
-        "Melbourne Victory": 21.0,
-        "Draw": 1.03
-      },
-      "Pinnacle": {
-        "Central Coast Mariners": 4.11,
-        "Melbourne Victory": 5.41,
-        "Draw": 1.56
-      },
-      "Coolbet": {
-        "Central Coast Mariners": 14.0,
-        "Melbourne Victory": 20.0,
-        "Draw": 1.08
-      },
-      "Betfair": {
-        "Central Coast Mariners": 42.0,
-        "Melbourne Victory": 1.18,
-        "Draw": 1.07
-      },
-      "Unibet (NL)": {
-        "Central Coast Mariners": 10.0,
-        "Melbourne Victory": 11.0,
-        "Draw": 1.13
+        "ADO Den Haag": 126.0,
+        "FC Zwolle": 1.0,
+        "Draw": 15.0
       },
       "LeoVegas (SE)": {
-        "Central Coast Mariners": 9.5,
-        "Melbourne Victory": 10.5,
-        "Draw": 1.1
-      },
-      "Unibet (SE)": {
-        "Central Coast Mariners": 26.0,
-        "Melbourne Victory": 26.0,
-        "Draw": 1.02
-      },
-      "PMU (FR)": {
-        "Central Coast Mariners": 8.5,
-        "Melbourne Victory": 10.0,
-        "Draw": 1.02
-      }
-    },
-    "7be482bac60aed6742f4379b983d003a:h2h": {
-      "Nordic Bet": {
-        "Kawasaki Frontale": 81.0,
-        "Yokohama F Marinos": 1.0,
-        "Draw": 81.0
-      },
-      "Betsson": {
-        "Kawasaki Frontale": 81.0,
-        "Yokohama F Marinos": 1.0,
-        "Draw": 81.0
-      },
-      "Betclic (FR)": {
-        "Kawasaki Frontale": 100.0,
-        "Yokohama F Marinos": 1.02,
-        "Draw": 75.0
-      },
-      "888sport": {
-        "Kawasaki Frontale": 151.0,
-        "Yokohama F Marinos": 1.0,
-        "Draw": 67.0
-      },
-      "Betfair": {
-        "Kawasaki Frontale": 90.0,
-        "Yokohama F Marinos": 1.01,
-        "Draw": 65.0
-      }
-    },
-    "828466624476a6e0df89d1a9a25abc5e:h2h": {
-      "Nordic Bet": {
-        "Avispa Fukuoka": 9.1,
-        "JEF United Chiba": 1.38,
-        "Draw": 3.65
-      },
-      "Betsson": {
-        "Avispa Fukuoka": 9.1,
-        "JEF United Chiba": 1.38,
-        "Draw": 3.65
-      },
-      "Unibet (FR)": {
-        "Avispa Fukuoka": 9.25,
-        "JEF United Chiba": 1.3,
-        "Draw": 3.1
-      },
-      "Coolbet": {
-        "Avispa Fukuoka": 11.0,
-        "JEF United Chiba": 1.36,
-        "Draw": 4.0
+        "ADO Den Haag": 67.0,
+        "FC Zwolle": 1.03,
+        "Draw": 8.0
       },
       "Pinnacle": {
-        "Avispa Fukuoka": 10.71,
-        "JEF United Chiba": 1.43,
-        "Draw": 3.77
+        "ADO Den Haag": 19.84,
+        "FC Zwolle": 1.28,
+        "Draw": 4.55
       },
-      "Betclic (FR)": {
-        "Avispa Fukuoka": 9.0,
-        "JEF United Chiba": 1.38,
-        "Draw": 3.85
+      "Coolbet": {
+        "ADO Den Haag": 400.0,
+        "FC Zwolle": 1.01,
+        "Draw": 24.0
       },
-      "Winamax (FR)": {
-        "Avispa Fukuoka": 9.0,
-        "JEF United Chiba": 1.3,
-        "Draw": 3.45
-      },
-      "Winamax (DE)": {
-        "Avispa Fukuoka": 9.0,
-        "JEF United Chiba": 1.34,
-        "Draw": 3.65
-      },
-      "Marathon Bet": {
-        "Avispa Fukuoka": 9.4,
-        "JEF United Chiba": 1.36,
-        "Draw": 3.82
-      },
-      "888sport": {
-        "Avispa Fukuoka": 8.5,
-        "JEF United Chiba": 1.4,
-        "Draw": 3.7
+      "Betfair": {
+        "ADO Den Haag": 1000.0,
+        "FC Zwolle": 1.01,
+        "Draw": 26.0
       },
       "Tipico": {
-        "Avispa Fukuoka": 6.5,
-        "JEF United Chiba": 1.45,
-        "Draw": 3.8
-      },
-      "LeoVegas (SE)": {
-        "Avispa Fukuoka": 9.0,
-        "JEF United Chiba": 1.33,
-        "Draw": 3.6
-      },
-      "PMU (FR)": {
-        "Avispa Fukuoka": 9.0,
-        "JEF United Chiba": 1.29,
-        "Draw": 3.5
-      },
-      "Unibet (SE)": {
-        "Avispa Fukuoka": 9.5,
-        "JEF United Chiba": 1.38,
-        "Draw": 3.7
-      },
-      "Unibet (NL)": {
-        "Avispa Fukuoka": 9.5,
-        "JEF United Chiba": 1.36,
-        "Draw": 3.7
-      },
-      "Betfair": {
-        "Avispa Fukuoka": 12.5,
-        "JEF United Chiba": 1.44,
-        "Draw": 4.1
-      },
-      "Matchbook": {
-        "Avispa Fukuoka": 11.5,
-        "JEF United Chiba": 1.47,
-        "Draw": 4.0
+        "ADO Den Haag": 400.0,
+        "FC Zwolle": 1.01,
+        "Draw": 25.0
       }
     },
-    "88b1b42523e8985c15362bb6416bd2d3:h2h": {
+    "9507f4bcbcfd4e4953720628a2b86a17:h2h": {
       "Pinnacle": {
-        "Gangwon FC": 2.57,
-        "Ulsan Hyundai FC": 3.24,
-        "Draw": 2.77
-      },
-      "Marathon Bet": {
-        "Gangwon FC": 1.41,
-        "Ulsan Hyundai FC": 7.6,
-        "Draw": 3.74
-      },
-      "Nordic Bet": {
-        "Gangwon FC": 1.42,
-        "Ulsan Hyundai FC": 7.7,
-        "Draw": 3.65
-      },
-      "Winamax (FR)": {
-        "Gangwon FC": 1.38,
-        "Ulsan Hyundai FC": 6.75,
-        "Draw": 3.25
+        "Como": 1.1,
+        "Venezia": 77.99,
+        "Draw": 8.64
       },
       "Unibet (FR)": {
-        "Gangwon FC": 1.35,
-        "Ulsan Hyundai FC": 7.25,
-        "Draw": 3.15
+        "Como": 1.04,
+        "Venezia": 80.0,
+        "Draw": 4.95
+      },
+      "Winamax (FR)": {
+        "Como": 1.03,
+        "Venezia": 60.0,
+        "Draw": 8.0
       },
       "Winamax (DE)": {
-        "Gangwon FC": 1.43,
-        "Ulsan Hyundai FC": 7.25,
-        "Draw": 3.45
+        "Como": 1.07,
+        "Venezia": 70.0,
+        "Draw": 8.5
       },
-      "Betsson": {
-        "Gangwon FC": 1.42,
-        "Ulsan Hyundai FC": 7.7,
-        "Draw": 3.65
+      "Marathon Bet": {
+        "Como": 1.07,
+        "Venezia": 56.0,
+        "Draw": 9.3
+      },
+      "888sport": {
+        "Como": 1.08,
+        "Venezia": 61.0,
+        "Draw": 8.5
       },
       "Betclic (FR)": {
-        "Gangwon FC": 1.45,
-        "Ulsan Hyundai FC": 7.25,
-        "Draw": 3.5
+        "Como": 1.05,
+        "Venezia": 40.0,
+        "Draw": 7.5
       },
-      "Coolbet": {
-        "Gangwon FC": 1.44,
-        "Ulsan Hyundai FC": 8.0,
-        "Draw": 3.8
-      },
-      "PMU (FR)": {
-        "Gangwon FC": 1.23,
-        "Ulsan Hyundai FC": 9.0,
-        "Draw": 3.6
-      },
-      "Unibet (SE)": {
-        "Gangwon FC": 1.35,
-        "Ulsan Hyundai FC": 9.5,
-        "Draw": 3.9
-      },
-      "LeoVegas (SE)": {
-        "Gangwon FC": 1.27,
-        "Ulsan Hyundai FC": 9.0,
-        "Draw": 3.7
+      "Tipico": {
+        "Como": 1.05,
+        "Venezia": 80.0,
+        "Draw": 8.0
       },
       "Unibet (NL)": {
-        "Gangwon FC": 1.35,
-        "Ulsan Hyundai FC": 9.5,
-        "Draw": 3.9
+        "Como": 1.07,
+        "Venezia": 67.0,
+        "Draw": 9.0
       },
-      "Betfair": {
-        "Gangwon FC": 1.47,
-        "Ulsan Hyundai FC": 5.0,
-        "Draw": 3.35
+      "Unibet (SE)": {
+        "Como": 1.07,
+        "Venezia": 61.0,
+        "Draw": 9.0
+      },
+      "LeoVegas (SE)": {
+        "Como": 1.05,
+        "Venezia": 46.0,
+        "Draw": 8.5
+      },
+      "PMU (FR)": {
+        "Como": 1.02,
+        "Venezia": 46.0,
+        "Draw": 8.0
       },
       "Matchbook": {
-        "Gangwon FC": 1.51,
-        "Ulsan Hyundai FC": 9.6,
-        "Draw": 3.9
+        "Como": 1.1,
+        "Venezia": 190.0,
+        "Draw": 10.5
+      },
+      "Nordic Bet": {
+        "Como": 1.05,
+        "Venezia": 55.0,
+        "Draw": 8.2
+      },
+      "Betsson": {
+        "Como": 1.05,
+        "Venezia": 55.0,
+        "Draw": 8.2
+      },
+      "Betfair": {
+        "Como": 1.12,
+        "Venezia": 150.0,
+        "Draw": 9.6
+      },
+      "Coolbet": {
+        "Como": 1.08,
+        "Venezia": 100.0,
+        "Draw": 9.0
+      }
+    },
+    "28795de394d5f3dc6e9d9fce1e7887e7:h2h": {
+      "Betsson": {
+        "Ljungskile SK": 3.9,
+        "Varbergs BoIS": 1.95,
+        "Draw": 2.6
+      },
+      "Nordic Bet": {
+        "Ljungskile SK": 3.9,
+        "Varbergs BoIS": 1.95,
+        "Draw": 2.6
+      },
+      "Unibet (SE)": {
+        "Ljungskile SK": 4.2,
+        "Varbergs BoIS": 2.07,
+        "Draw": 2.6
+      },
+      "Unibet (NL)": {
+        "Ljungskile SK": 4.2,
+        "Varbergs BoIS": 2.07,
+        "Draw": 2.6
+      },
+      "LeoVegas (SE)": {
+        "Ljungskile SK": 4.0,
+        "Varbergs BoIS": 1.93,
+        "Draw": 2.45
+      },
+      "Betfair": {
+        "Ljungskile SK": 5.1,
+        "Varbergs BoIS": 2.18,
+        "Draw": 2.8
+      },
+      "Marathon Bet": {
+        "Ljungskile SK": 4.25,
+        "Varbergs BoIS": 2.06,
+        "Draw": 2.52
+      },
+      "888sport": {
+        "Ljungskile SK": 4.0,
+        "Varbergs BoIS": 2.05,
+        "Draw": 2.5
+      },
+      "Pinnacle": {
+        "Ljungskile SK": 4.66,
+        "Varbergs BoIS": 2.11,
+        "Draw": 2.6
+      },
+      "Tipico": {
+        "Ljungskile SK": 4.5,
+        "Varbergs BoIS": 1.9,
+        "Draw": 2.7
+      },
+      "Coolbet": {
+        "Ljungskile SK": 4.33,
+        "Varbergs BoIS": 2.1,
+        "Draw": 2.8
+      },
+      "Matchbook": {
+        "Ljungskile SK": 5.1,
+        "Varbergs BoIS": 2.06,
+        "Draw": 2.72
+      }
+    },
+    "39d0820cd44e82da9ed3b84313b0cd7a:h2h": {
+      "PMU (FR)": {
+        "1. FC Nürnberg": 1.64,
+        "FC St. Pauli": 3.9,
+        "Draw": 2.95
+      },
+      "LeoVegas (SE)": {
+        "1. FC Nürnberg": 1.7,
+        "FC St. Pauli": 4.0,
+        "Draw": 3.05
+      },
+      "Unibet (NL)": {
+        "1. FC Nürnberg": 1.87,
+        "FC St. Pauli": 4.0,
+        "Draw": 3.15
+      },
+      "Tipico": {
+        "1. FC Nürnberg": 1.85,
+        "FC St. Pauli": 4.0,
+        "Draw": 3.4
+      },
+      "Unibet (SE)": {
+        "1. FC Nürnberg": 1.87,
+        "FC St. Pauli": 4.0,
+        "Draw": 3.15
+      },
+      "Betsson": {
+        "1. FC Nürnberg": 1.92,
+        "FC St. Pauli": 3.65,
+        "Draw": 3.3
+      },
+      "Unibet (FR)": {
+        "1. FC Nürnberg": 1.75,
+        "FC St. Pauli": 3.45,
+        "Draw": 2.9
+      },
+      "Nordic Bet": {
+        "1. FC Nürnberg": 1.92,
+        "FC St. Pauli": 3.65,
+        "Draw": 3.3
+      },
+      "Betclic (FR)": {
+        "1. FC Nürnberg": 1.82,
+        "FC St. Pauli": 3.6,
+        "Draw": 3.15
+      },
+      "Coolbet": {
+        "1. FC Nürnberg": 2.0,
+        "FC St. Pauli": 4.0,
+        "Draw": 3.5
+      },
+      "Winamax (FR)": {
+        "1. FC Nürnberg": 1.8,
+        "FC St. Pauli": 3.35,
+        "Draw": 2.85
+      },
+      "Winamax (DE)": {
+        "1. FC Nürnberg": 1.96,
+        "FC St. Pauli": 3.65,
+        "Draw": 3.1
+      },
+      "Pinnacle": {
+        "1. FC Nürnberg": 2.07,
+        "FC St. Pauli": 3.78,
+        "Draw": 3.24
+      },
+      "Marathon Bet": {
+        "1. FC Nürnberg": 1.9,
+        "FC St. Pauli": 3.68,
+        "Draw": 3.28
+      },
+      "888sport": {
+        "1. FC Nürnberg": 1.95,
+        "FC St. Pauli": 3.6,
+        "Draw": 3.1
+      },
+      "Betfair": {
+        "1. FC Nürnberg": 2.08,
+        "FC St. Pauli": 4.0,
+        "Draw": 3.55
+      },
+      "Matchbook": {
+        "1. FC Nürnberg": 2.0,
+        "FC St. Pauli": 4.3,
+        "Draw": 3.55
       }
     }
   },
@@ -4004,61 +4044,468 @@
       "confidence": 33,
       "alert_type": "value",
       "alerted_at": "2026-11-01T05:53:43.187232+00:00"
+    },
+    {
+      "state_key": "016bdfefaa570d0fcaeffc5a1cb3625f:h2h",
+      "event_id": "016bdfefaa570d0fcaeffc5a1cb3625f",
+      "sport_key": "soccer",
+      "competition": "Dutch Eredivisie",
+      "home_team": "FC Zwolle",
+      "away_team": "ADO Den Haag",
+      "commence_time": "2026-11-01T11:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "ADO Den Haag",
+      "odds_at_alert": 100.0,
+      "stake_pct": 5.0,
+      "confidence": 379,
+      "alert_type": "value",
+      "alerted_at": "2026-11-01T13:12:50.700990+00:00"
+    },
+    {
+      "state_key": "016bdfefaa570d0fcaeffc5a1cb3625f:h2h",
+      "event_id": "016bdfefaa570d0fcaeffc5a1cb3625f",
+      "sport_key": "soccer",
+      "competition": "Dutch Eredivisie",
+      "home_team": "FC Zwolle",
+      "away_team": "ADO Den Haag",
+      "commence_time": "2026-11-01T11:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "ADO Den Haag",
+      "odds_at_alert": 1000.0,
+      "stake_pct": 5.0,
+      "confidence": 4694,
+      "alert_type": "value",
+      "alerted_at": "2026-11-01T13:12:51.145094+00:00"
+    },
+    {
+      "state_key": "016bdfefaa570d0fcaeffc5a1cb3625f:h2h",
+      "event_id": "016bdfefaa570d0fcaeffc5a1cb3625f",
+      "sport_key": "soccer",
+      "competition": "Dutch Eredivisie",
+      "home_team": "FC Zwolle",
+      "away_team": "ADO Den Haag",
+      "commence_time": "2026-11-01T11:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 16.0,
+      "stake_pct": 5.0,
+      "confidence": 234,
+      "alert_type": "value",
+      "alerted_at": "2026-11-01T13:12:51.638235+00:00"
+    },
+    {
+      "state_key": "016bdfefaa570d0fcaeffc5a1cb3625f:h2h",
+      "event_id": "016bdfefaa570d0fcaeffc5a1cb3625f",
+      "sport_key": "soccer",
+      "competition": "Dutch Eredivisie",
+      "home_team": "FC Zwolle",
+      "away_team": "ADO Den Haag",
+      "commence_time": "2026-11-01T11:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "ADO Den Haag",
+      "odds_at_alert": 91.0,
+      "stake_pct": 5.0,
+      "confidence": 336,
+      "alert_type": "value",
+      "alerted_at": "2026-11-01T13:12:52.162356+00:00"
+    },
+    {
+      "state_key": "016bdfefaa570d0fcaeffc5a1cb3625f:h2h",
+      "event_id": "016bdfefaa570d0fcaeffc5a1cb3625f",
+      "sport_key": "soccer",
+      "competition": "Dutch Eredivisie",
+      "home_team": "FC Zwolle",
+      "away_team": "ADO Den Haag",
+      "commence_time": "2026-11-01T11:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 9.0,
+      "stake_pct": 5.0,
+      "confidence": 88,
+      "alert_type": "value",
+      "alerted_at": "2026-11-01T13:12:52.615927+00:00"
+    },
+    {
+      "state_key": "016bdfefaa570d0fcaeffc5a1cb3625f:h2h",
+      "event_id": "016bdfefaa570d0fcaeffc5a1cb3625f",
+      "sport_key": "soccer",
+      "competition": "Dutch Eredivisie",
+      "home_team": "FC Zwolle",
+      "away_team": "ADO Den Haag",
+      "commence_time": "2026-11-01T11:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "ADO Den Haag",
+      "odds_at_alert": 1000.0,
+      "stake_pct": 5.0,
+      "confidence": 4694,
+      "alert_type": "value",
+      "alerted_at": "2026-11-01T13:12:53.109834+00:00"
+    },
+    {
+      "state_key": "016bdfefaa570d0fcaeffc5a1cb3625f:h2h",
+      "event_id": "016bdfefaa570d0fcaeffc5a1cb3625f",
+      "sport_key": "soccer",
+      "competition": "Dutch Eredivisie",
+      "home_team": "FC Zwolle",
+      "away_team": "ADO Den Haag",
+      "commence_time": "2026-11-01T11:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 214,
+      "alert_type": "value",
+      "alerted_at": "2026-11-01T13:12:53.549651+00:00"
+    },
+    {
+      "state_key": "016bdfefaa570d0fcaeffc5a1cb3625f:h2h",
+      "event_id": "016bdfefaa570d0fcaeffc5a1cb3625f",
+      "sport_key": "soccer",
+      "competition": "Dutch Eredivisie",
+      "home_team": "FC Zwolle",
+      "away_team": "ADO Den Haag",
+      "commence_time": "2026-11-01T11:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "ADO Den Haag",
+      "odds_at_alert": 100.0,
+      "stake_pct": 5.0,
+      "confidence": 379,
+      "alert_type": "value",
+      "alerted_at": "2026-11-01T13:12:54.016931+00:00"
+    },
+    {
+      "state_key": "016bdfefaa570d0fcaeffc5a1cb3625f:h2h",
+      "event_id": "016bdfefaa570d0fcaeffc5a1cb3625f",
+      "sport_key": "soccer",
+      "competition": "Dutch Eredivisie",
+      "home_team": "FC Zwolle",
+      "away_team": "ADO Den Haag",
+      "commence_time": "2026-11-01T11:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 151,
+      "alert_type": "value",
+      "alerted_at": "2026-11-01T13:12:54.446380+00:00"
+    },
+    {
+      "state_key": "016bdfefaa570d0fcaeffc5a1cb3625f:h2h",
+      "event_id": "016bdfefaa570d0fcaeffc5a1cb3625f",
+      "sport_key": "soccer",
+      "competition": "Dutch Eredivisie",
+      "home_team": "FC Zwolle",
+      "away_team": "ADO Den Haag",
+      "commence_time": "2026-11-01T11:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "ADO Den Haag",
+      "odds_at_alert": 101.0,
+      "stake_pct": 5.0,
+      "confidence": 384,
+      "alert_type": "value",
+      "alerted_at": "2026-11-01T13:12:54.878890+00:00"
+    },
+    {
+      "state_key": "016bdfefaa570d0fcaeffc5a1cb3625f:h2h",
+      "event_id": "016bdfefaa570d0fcaeffc5a1cb3625f",
+      "sport_key": "soccer",
+      "competition": "Dutch Eredivisie",
+      "home_team": "FC Zwolle",
+      "away_team": "ADO Den Haag",
+      "commence_time": "2026-11-01T11:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 214,
+      "alert_type": "value",
+      "alerted_at": "2026-11-01T13:12:55.310328+00:00"
+    },
+    {
+      "state_key": "016bdfefaa570d0fcaeffc5a1cb3625f:h2h",
+      "event_id": "016bdfefaa570d0fcaeffc5a1cb3625f",
+      "sport_key": "soccer",
+      "competition": "Dutch Eredivisie",
+      "home_team": "FC Zwolle",
+      "away_team": "ADO Den Haag",
+      "commence_time": "2026-11-01T11:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "ADO Den Haag",
+      "odds_at_alert": 126.0,
+      "stake_pct": 5.0,
+      "confidence": 504,
+      "alert_type": "value",
+      "alerted_at": "2026-11-01T13:12:55.746375+00:00"
+    },
+    {
+      "state_key": "016bdfefaa570d0fcaeffc5a1cb3625f:h2h",
+      "event_id": "016bdfefaa570d0fcaeffc5a1cb3625f",
+      "sport_key": "soccer",
+      "competition": "Dutch Eredivisie",
+      "home_team": "FC Zwolle",
+      "away_team": "ADO Den Haag",
+      "commence_time": "2026-11-01T11:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 214,
+      "alert_type": "value",
+      "alerted_at": "2026-11-01T13:12:56.180302+00:00"
+    },
+    {
+      "state_key": "016bdfefaa570d0fcaeffc5a1cb3625f:h2h",
+      "event_id": "016bdfefaa570d0fcaeffc5a1cb3625f",
+      "sport_key": "soccer",
+      "competition": "Dutch Eredivisie",
+      "home_team": "FC Zwolle",
+      "away_team": "ADO Den Haag",
+      "commence_time": "2026-11-01T11:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "ADO Den Haag",
+      "odds_at_alert": 67.0,
+      "stake_pct": 5.0,
+      "confidence": 221,
+      "alert_type": "value",
+      "alerted_at": "2026-11-01T13:12:56.619995+00:00"
+    },
+    {
+      "state_key": "016bdfefaa570d0fcaeffc5a1cb3625f:h2h",
+      "event_id": "016bdfefaa570d0fcaeffc5a1cb3625f",
+      "sport_key": "soccer",
+      "competition": "Dutch Eredivisie",
+      "home_team": "FC Zwolle",
+      "away_team": "ADO Den Haag",
+      "commence_time": "2026-11-01T11:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 8.0,
+      "stake_pct": 5.0,
+      "confidence": 67,
+      "alert_type": "value",
+      "alerted_at": "2026-11-01T13:12:57.063920+00:00"
+    },
+    {
+      "state_key": "016bdfefaa570d0fcaeffc5a1cb3625f:h2h",
+      "event_id": "016bdfefaa570d0fcaeffc5a1cb3625f",
+      "sport_key": "soccer",
+      "competition": "Dutch Eredivisie",
+      "home_team": "FC Zwolle",
+      "away_team": "ADO Den Haag",
+      "commence_time": "2026-11-01T11:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "ADO Den Haag",
+      "odds_at_alert": 400.0,
+      "stake_pct": 5.0,
+      "confidence": 1818,
+      "alert_type": "value",
+      "alerted_at": "2026-11-01T13:12:57.500113+00:00"
+    },
+    {
+      "state_key": "016bdfefaa570d0fcaeffc5a1cb3625f:h2h",
+      "event_id": "016bdfefaa570d0fcaeffc5a1cb3625f",
+      "sport_key": "soccer",
+      "competition": "Dutch Eredivisie",
+      "home_team": "FC Zwolle",
+      "away_team": "ADO Den Haag",
+      "commence_time": "2026-11-01T11:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 24.0,
+      "stake_pct": 5.0,
+      "confidence": 402,
+      "alert_type": "value",
+      "alerted_at": "2026-11-01T13:12:57.932070+00:00"
+    },
+    {
+      "state_key": "016bdfefaa570d0fcaeffc5a1cb3625f:h2h",
+      "event_id": "016bdfefaa570d0fcaeffc5a1cb3625f",
+      "sport_key": "soccer",
+      "competition": "Dutch Eredivisie",
+      "home_team": "FC Zwolle",
+      "away_team": "ADO Den Haag",
+      "commence_time": "2026-11-01T11:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "ADO Den Haag",
+      "odds_at_alert": 1000.0,
+      "stake_pct": 5.0,
+      "confidence": 4694,
+      "alert_type": "value",
+      "alerted_at": "2026-11-01T13:12:58.383813+00:00"
+    },
+    {
+      "state_key": "016bdfefaa570d0fcaeffc5a1cb3625f:h2h",
+      "event_id": "016bdfefaa570d0fcaeffc5a1cb3625f",
+      "sport_key": "soccer",
+      "competition": "Dutch Eredivisie",
+      "home_team": "FC Zwolle",
+      "away_team": "ADO Den Haag",
+      "commence_time": "2026-11-01T11:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 443,
+      "alert_type": "value",
+      "alerted_at": "2026-11-01T13:12:58.824386+00:00"
+    },
+    {
+      "state_key": "016bdfefaa570d0fcaeffc5a1cb3625f:h2h",
+      "event_id": "016bdfefaa570d0fcaeffc5a1cb3625f",
+      "sport_key": "soccer",
+      "competition": "Dutch Eredivisie",
+      "home_team": "FC Zwolle",
+      "away_team": "ADO Den Haag",
+      "commence_time": "2026-11-01T11:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "ADO Den Haag",
+      "odds_at_alert": 400.0,
+      "stake_pct": 5.0,
+      "confidence": 1818,
+      "alert_type": "value",
+      "alerted_at": "2026-11-01T13:12:59.333806+00:00"
+    },
+    {
+      "state_key": "016bdfefaa570d0fcaeffc5a1cb3625f:h2h",
+      "event_id": "016bdfefaa570d0fcaeffc5a1cb3625f",
+      "sport_key": "soccer",
+      "competition": "Dutch Eredivisie",
+      "home_team": "FC Zwolle",
+      "away_team": "ADO Den Haag",
+      "commence_time": "2026-11-01T11:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 25.0,
+      "stake_pct": 5.0,
+      "confidence": 423,
+      "alert_type": "value",
+      "alerted_at": "2026-11-01T13:12:59.780566+00:00"
+    },
+    {
+      "state_key": "9507f4bcbcfd4e4953720628a2b86a17:h2h",
+      "event_id": "9507f4bcbcfd4e4953720628a2b86a17",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Como",
+      "away_team": "Venezia",
+      "commence_time": "2026-11-01T11:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Venezia",
+      "odds_at_alert": 190.0,
+      "stake_pct": 5.0,
+      "confidence": 135,
+      "alert_type": "value",
+      "alerted_at": "2026-11-01T13:13:00.217484+00:00"
+    },
+    {
+      "state_key": "9507f4bcbcfd4e4953720628a2b86a17:h2h",
+      "event_id": "9507f4bcbcfd4e4953720628a2b86a17",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Como",
+      "away_team": "Venezia",
+      "commence_time": "2026-11-01T11:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 10.5,
+      "stake_pct": 5.0,
+      "confidence": 17,
+      "alert_type": "value",
+      "alerted_at": "2026-11-01T13:13:00.691205+00:00"
+    },
+    {
+      "state_key": "9507f4bcbcfd4e4953720628a2b86a17:h2h",
+      "event_id": "9507f4bcbcfd4e4953720628a2b86a17",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Como",
+      "away_team": "Venezia",
+      "commence_time": "2026-11-01T11:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Venezia",
+      "odds_at_alert": 150.0,
+      "stake_pct": 5.0,
+      "confidence": 85,
+      "alert_type": "value",
+      "alerted_at": "2026-11-01T13:13:01.135538+00:00"
+    },
+    {
+      "state_key": "9507f4bcbcfd4e4953720628a2b86a17:h2h",
+      "event_id": "9507f4bcbcfd4e4953720628a2b86a17",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Como",
+      "away_team": "Venezia",
+      "commence_time": "2026-11-01T11:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 9.6,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-11-01T13:13:01.573365+00:00"
+    },
+    {
+      "state_key": "9507f4bcbcfd4e4953720628a2b86a17:h2h",
+      "event_id": "9507f4bcbcfd4e4953720628a2b86a17",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Como",
+      "away_team": "Venezia",
+      "commence_time": "2026-11-01T11:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Venezia",
+      "odds_at_alert": 100.0,
+      "stake_pct": 5.0,
+      "confidence": 24,
+      "alert_type": "value",
+      "alerted_at": "2026-11-01T13:13:02.040933+00:00"
+    },
+    {
+      "state_key": "39d0820cd44e82da9ed3b84313b0cd7a:h2h",
+      "event_id": "39d0820cd44e82da9ed3b84313b0cd7a",
+      "sport_key": "soccer",
+      "competition": "Bundesliga 2 - Germany",
+      "home_team": "FC St. Pauli",
+      "away_team": "1. FC Nürnberg",
+      "commence_time": "2026-11-01T12:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC St. Pauli",
+      "odds_at_alert": 4.3,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-11-01T13:13:02.495018+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "67842b47bcc11eb37b984360c48402bc:h2h|888sport|Central Coast Mariners",
-    "67842b47bcc11eb37b984360c48402bc:h2h|888sport|Melbourne Victory",
-    "67842b47bcc11eb37b984360c48402bc:h2h|Betfair|Central Coast Mariners",
-    "67842b47bcc11eb37b984360c48402bc:h2h|Betsson|Central Coast Mariners",
-    "67842b47bcc11eb37b984360c48402bc:h2h|Betsson|Melbourne Victory",
-    "67842b47bcc11eb37b984360c48402bc:h2h|Coolbet|Central Coast Mariners",
-    "67842b47bcc11eb37b984360c48402bc:h2h|Coolbet|Melbourne Victory",
-    "67842b47bcc11eb37b984360c48402bc:h2h|LeoVegas (SE)|Central Coast Mariners",
-    "67842b47bcc11eb37b984360c48402bc:h2h|LeoVegas (SE)|Melbourne Victory",
-    "67842b47bcc11eb37b984360c48402bc:h2h|Nordic Bet|Central Coast Mariners",
-    "67842b47bcc11eb37b984360c48402bc:h2h|Nordic Bet|Melbourne Victory",
-    "67842b47bcc11eb37b984360c48402bc:h2h|PMU (FR)|Central Coast Mariners",
-    "67842b47bcc11eb37b984360c48402bc:h2h|PMU (FR)|Melbourne Victory",
-    "67842b47bcc11eb37b984360c48402bc:h2h|Unibet (FR)|Central Coast Mariners",
-    "67842b47bcc11eb37b984360c48402bc:h2h|Unibet (FR)|Melbourne Victory",
-    "67842b47bcc11eb37b984360c48402bc:h2h|Unibet (NL)|Central Coast Mariners",
-    "67842b47bcc11eb37b984360c48402bc:h2h|Unibet (NL)|Melbourne Victory",
-    "67842b47bcc11eb37b984360c48402bc:h2h|Unibet (SE)|Central Coast Mariners",
-    "67842b47bcc11eb37b984360c48402bc:h2h|Unibet (SE)|Melbourne Victory",
-    "67842b47bcc11eb37b984360c48402bc:h2h|Winamax (DE)|Central Coast Mariners",
-    "67842b47bcc11eb37b984360c48402bc:h2h|Winamax (DE)|Melbourne Victory",
-    "67842b47bcc11eb37b984360c48402bc:h2h|Winamax (FR)|Central Coast Mariners",
-    "67842b47bcc11eb37b984360c48402bc:h2h|Winamax (FR)|Melbourne Victory",
-    "828466624476a6e0df89d1a9a25abc5e:h2h|Betfair|Avispa Fukuoka",
-    "88b1b42523e8985c15362bb6416bd2d3:h2h|Betclic (FR)|Draw",
-    "88b1b42523e8985c15362bb6416bd2d3:h2h|Betclic (FR)|Ulsan Hyundai FC",
-    "88b1b42523e8985c15362bb6416bd2d3:h2h|Betfair|Draw",
-    "88b1b42523e8985c15362bb6416bd2d3:h2h|Betfair|Ulsan Hyundai FC",
-    "88b1b42523e8985c15362bb6416bd2d3:h2h|Betsson|Draw",
-    "88b1b42523e8985c15362bb6416bd2d3:h2h|Betsson|Ulsan Hyundai FC",
-    "88b1b42523e8985c15362bb6416bd2d3:h2h|Coolbet|Draw",
-    "88b1b42523e8985c15362bb6416bd2d3:h2h|Coolbet|Ulsan Hyundai FC",
-    "88b1b42523e8985c15362bb6416bd2d3:h2h|LeoVegas (SE)|Draw",
-    "88b1b42523e8985c15362bb6416bd2d3:h2h|LeoVegas (SE)|Ulsan Hyundai FC",
-    "88b1b42523e8985c15362bb6416bd2d3:h2h|Marathon Bet|Draw",
-    "88b1b42523e8985c15362bb6416bd2d3:h2h|Marathon Bet|Ulsan Hyundai FC",
-    "88b1b42523e8985c15362bb6416bd2d3:h2h|Matchbook|Draw",
-    "88b1b42523e8985c15362bb6416bd2d3:h2h|Matchbook|Ulsan Hyundai FC",
-    "88b1b42523e8985c15362bb6416bd2d3:h2h|Nordic Bet|Draw",
-    "88b1b42523e8985c15362bb6416bd2d3:h2h|Nordic Bet|Ulsan Hyundai FC",
-    "88b1b42523e8985c15362bb6416bd2d3:h2h|PMU (FR)|Draw",
-    "88b1b42523e8985c15362bb6416bd2d3:h2h|PMU (FR)|Ulsan Hyundai FC",
-    "88b1b42523e8985c15362bb6416bd2d3:h2h|Unibet (FR)|Draw",
-    "88b1b42523e8985c15362bb6416bd2d3:h2h|Unibet (FR)|Ulsan Hyundai FC",
-    "88b1b42523e8985c15362bb6416bd2d3:h2h|Unibet (NL)|Draw",
-    "88b1b42523e8985c15362bb6416bd2d3:h2h|Unibet (NL)|Ulsan Hyundai FC",
-    "88b1b42523e8985c15362bb6416bd2d3:h2h|Unibet (SE)|Draw",
-    "88b1b42523e8985c15362bb6416bd2d3:h2h|Unibet (SE)|Ulsan Hyundai FC",
-    "88b1b42523e8985c15362bb6416bd2d3:h2h|Winamax (DE)|Draw",
-    "88b1b42523e8985c15362bb6416bd2d3:h2h|Winamax (DE)|Ulsan Hyundai FC",
-    "88b1b42523e8985c15362bb6416bd2d3:h2h|Winamax (FR)|Draw",
-    "88b1b42523e8985c15362bb6416bd2d3:h2h|Winamax (FR)|Ulsan Hyundai FC"
+    "016bdfefaa570d0fcaeffc5a1cb3625f:h2h|888sport|ADO Den Haag",
+    "016bdfefaa570d0fcaeffc5a1cb3625f:h2h|888sport|Draw",
+    "016bdfefaa570d0fcaeffc5a1cb3625f:h2h|Betclic (FR)|ADO Den Haag",
+    "016bdfefaa570d0fcaeffc5a1cb3625f:h2h|Betclic (FR)|Draw",
+    "016bdfefaa570d0fcaeffc5a1cb3625f:h2h|Betfair|ADO Den Haag",
+    "016bdfefaa570d0fcaeffc5a1cb3625f:h2h|Betfair|Draw",
+    "016bdfefaa570d0fcaeffc5a1cb3625f:h2h|Betsson|ADO Den Haag",
+    "016bdfefaa570d0fcaeffc5a1cb3625f:h2h|Betsson|Draw",
+    "016bdfefaa570d0fcaeffc5a1cb3625f:h2h|Coolbet|ADO Den Haag",
+    "016bdfefaa570d0fcaeffc5a1cb3625f:h2h|Coolbet|Draw",
+    "016bdfefaa570d0fcaeffc5a1cb3625f:h2h|LeoVegas (SE)|ADO Den Haag",
+    "016bdfefaa570d0fcaeffc5a1cb3625f:h2h|LeoVegas (SE)|Draw",
+    "016bdfefaa570d0fcaeffc5a1cb3625f:h2h|Nordic Bet|ADO Den Haag",
+    "016bdfefaa570d0fcaeffc5a1cb3625f:h2h|Nordic Bet|Draw",
+    "016bdfefaa570d0fcaeffc5a1cb3625f:h2h|Tipico|ADO Den Haag",
+    "016bdfefaa570d0fcaeffc5a1cb3625f:h2h|Tipico|Draw",
+    "016bdfefaa570d0fcaeffc5a1cb3625f:h2h|Unibet (FR)|ADO Den Haag",
+    "016bdfefaa570d0fcaeffc5a1cb3625f:h2h|Winamax (DE)|ADO Den Haag",
+    "016bdfefaa570d0fcaeffc5a1cb3625f:h2h|Winamax (DE)|Draw",
+    "016bdfefaa570d0fcaeffc5a1cb3625f:h2h|Winamax (FR)|ADO Den Haag",
+    "016bdfefaa570d0fcaeffc5a1cb3625f:h2h|Winamax (FR)|Draw",
+    "39d0820cd44e82da9ed3b84313b0cd7a:h2h|Matchbook|FC St. Pauli",
+    "9507f4bcbcfd4e4953720628a2b86a17:h2h|Betfair|Draw",
+    "9507f4bcbcfd4e4953720628a2b86a17:h2h|Betfair|Venezia",
+    "9507f4bcbcfd4e4953720628a2b86a17:h2h|Coolbet|Venezia",
+    "9507f4bcbcfd4e4953720628a2b86a17:h2h|Matchbook|Draw",
+    "9507f4bcbcfd4e4953720628a2b86a17:h2h|Matchbook|Venezia"
   ]
 }
