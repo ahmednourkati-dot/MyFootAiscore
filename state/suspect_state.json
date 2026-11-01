@@ -1,194 +1,160 @@
 {
   "snapshots": {
-    "f2f601e4aadfa7a17fed04f219c96299:h2h": {
+    "36f6f36650046236bd0c864c56022567:h2h": {
       "Winamax (DE)": {
-        "AGF Aarhus": 32.0,
-        "Brondby IF": 1.14,
-        "Draw": 4.9
-      },
-      "Winamax (FR)": {
-        "AGF Aarhus": 150.0,
-        "Brondby IF": 1.0,
-        "Draw": 32.0
+        "Barracas Central": 225.0,
+        "Belgrano de Cordoba": 1.01,
+        "Draw": 20.0
       },
       "Unibet (FR)": {
-        "AGF Aarhus": 29.0,
-        "Brondby IF": 1.12,
-        "Draw": 3.65
-      },
-      "Betclic (FR)": {
-        "AGF Aarhus": 100.0,
-        "Brondby IF": 1.0,
-        "Draw": 40.0
-      },
-      "Pinnacle": {
-        "AGF Aarhus": 15.53,
-        "Brondby IF": 1.31,
-        "Draw": 4.41
-      },
-      "888sport": {
-        "AGF Aarhus": 151.0,
-        "Brondby IF": 1.0,
-        "Draw": 67.0
-      },
-      "Betsson": {
-        "AGF Aarhus": 34.0,
-        "Brondby IF": 1.0,
-        "Draw": 23.0
-      },
-      "Nordic Bet": {
-        "AGF Aarhus": 34.0,
-        "Brondby IF": 1.0,
-        "Draw": 23.0
-      },
-      "Betfair": {
-        "AGF Aarhus": 170.0,
-        "Brondby IF": 1.01,
-        "Draw": 60.0
-      }
-    },
-    "d667b5fde5f4b69438bcb625ffa1d6f9:h2h": {
-      "Betclic (FR)": {
-        "Asteras Tripolis": 100.0,
-        "PAOK Thessaloniki": 1.0,
-        "Draw": 18.25
-      },
-      "Betsson": {
-        "Asteras Tripolis": 101.0,
-        "PAOK Thessaloniki": 1.0,
-        "Draw": 15.0
-      },
-      "Nordic Bet": {
-        "Asteras Tripolis": 126.0,
-        "PAOK Thessaloniki": 1.0,
-        "Draw": 15.0
-      },
-      "Winamax (FR)": {
-        "Asteras Tripolis": 300.0,
-        "PAOK Thessaloniki": 1.01,
-        "Draw": 16.0
-      },
-      "Winamax (DE)": {
-        "Asteras Tripolis": 300.0,
-        "PAOK Thessaloniki": 1.02,
-        "Draw": 17.0
-      },
-      "888sport": {
-        "Asteras Tripolis": 126.0,
-        "PAOK Thessaloniki": 1.03,
-        "Draw": 13.0
-      },
-      "Betfair": {
-        "Asteras Tripolis": 180.0,
-        "PAOK Thessaloniki": 1.01,
-        "Draw": 50.0
-      },
-      "Pinnacle": {
-        "Asteras Tripolis": 10.29,
-        "PAOK Thessaloniki": 3.39,
-        "Draw": 1.47
-      },
-      "Tipico": {
-        "Asteras Tripolis": 400.0,
-        "PAOK Thessaloniki": 1.01,
-        "Draw": 25.0
-      },
-      "Unibet (FR)": {
-        "Asteras Tripolis": 100.0,
-        "PAOK Thessaloniki": 1.01,
-        "Draw": 4.7
-      },
-      "Coolbet": {
-        "Asteras Tripolis": 100.0,
-        "PAOK Thessaloniki": 1.0,
-        "Draw": 16.0
-      }
-    },
-    "940b9e69539033539039f9af694e2925:h2h": {
-      "Pinnacle": {
-        "Genoa": 1.24,
-        "Lecce": 28.55,
-        "Draw": 5.0
-      },
-      "Unibet (FR)": {
-        "Genoa": 1.05,
-        "Lecce": 75.0,
+        "Barracas Central": 100.0,
+        "Belgrano de Cordoba": 1.01,
         "Draw": 4.65
       },
       "Winamax (FR)": {
-        "Genoa": 1.04,
-        "Lecce": 80.0,
-        "Draw": 7.5
-      },
-      "Winamax (DE)": {
-        "Genoa": 1.09,
-        "Lecce": 85.0,
-        "Draw": 7.75
-      },
-      "Marathon Bet": {
-        "Genoa": 1.08,
-        "Lecce": 61.0,
-        "Draw": 8.5
-      },
-      "888sport": {
-        "Genoa": 1.08,
-        "Lecce": 71.0,
-        "Draw": 8.0
+        "Barracas Central": 225.0,
+        "Belgrano de Cordoba": 1.01,
+        "Draw": 20.0
       },
       "Betclic (FR)": {
-        "Genoa": 1.06,
-        "Lecce": 48.0,
-        "Draw": 6.5
+        "Barracas Central": 38.0,
+        "Belgrano de Cordoba": 30.0,
+        "Draw": 1.01
       },
-      "Tipico": {
-        "Genoa": 1.08,
-        "Lecce": 100.0,
-        "Draw": 6.5
+      "Betfair": {
+        "Barracas Central": 17.5,
+        "Belgrano de Cordoba": 1.26,
+        "Draw": 1.05
       },
-      "LeoVegas (SE)": {
-        "Genoa": 1.06,
-        "Lecce": 61.0,
-        "Draw": 8.0
-      },
-      "Unibet (NL)": {
-        "Genoa": 1.08,
-        "Lecce": 91.0,
-        "Draw": 8.0
-      },
-      "Unibet (SE)": {
-        "Genoa": 1.07,
-        "Lecce": 121.0,
-        "Draw": 9.0
-      },
-      "PMU (FR)": {
-        "Genoa": 1.03,
-        "Lecce": 61.0,
-        "Draw": 7.5
-      },
-      "Matchbook": {
-        "Genoa": 1.07,
-        "Lecce": 170.0,
+      "Betsson": {
+        "Barracas Central": 100.0,
+        "Belgrano de Cordoba": 1.03,
         "Draw": 11.0
       },
       "Nordic Bet": {
-        "Genoa": 1.07,
-        "Lecce": 65.0,
-        "Draw": 7.2
+        "Barracas Central": 150.0,
+        "Belgrano de Cordoba": 1.01,
+        "Draw": 13.0
       },
+      "LeoVegas (SE)": {
+        "Barracas Central": 91.0,
+        "Belgrano de Cordoba": 1.02,
+        "Draw": 10.5
+      }
+    },
+    "1cdb00cb80774ae0925047b37ab60a08:h2h": {
       "Betsson": {
-        "Genoa": 1.06,
-        "Lecce": 65.0,
-        "Draw": 7.7
+        "Cuiabá": 150.0,
+        "São Bernardo": 1.01,
+        "Draw": 13.0
       },
-      "Betfair": {
-        "Genoa": 1.11,
-        "Lecce": 130.0,
-        "Draw": 9.6
+      "888sport": {
+        "Cuiabá": 26.0,
+        "São Bernardo": 1.2,
+        "Draw": 4.6
       },
       "Coolbet": {
-        "Genoa": 1.08,
-        "Lecce": 125.0,
-        "Draw": 9.0
+        "Cuiabá": 50.0,
+        "São Bernardo": 1.01,
+        "Draw": 11.0
+      },
+      "Nordic Bet": {
+        "Cuiabá": 130.0,
+        "São Bernardo": 1.03,
+        "Draw": 10.0
+      },
+      "Pinnacle": {
+        "Cuiabá": 13.92,
+        "São Bernardo": 1.4,
+        "Draw": 3.64
+      },
+      "LeoVegas (SE)": {
+        "Cuiabá": 91.0,
+        "São Bernardo": 1.02,
+        "Draw": 8.5
+      },
+      "Betfair": {
+        "Cuiabá": 200.0,
+        "São Bernardo": 1.07,
+        "Draw": 11.0
+      }
+    },
+    "43b7685b9bcd90193dd9b4f68ef7e229:h2h": {
+      "Coolbet": {
+        "Grêmio Novorizontino": 1.0,
+        "Operario PR": 50.0,
+        "Draw": 16.0
+      },
+      "Nordic Bet": {
+        "Grêmio Novorizontino": 1.0,
+        "Operario PR": 67.0,
+        "Draw": 17.0
+      },
+      "Betsson": {
+        "Grêmio Novorizontino": 1.0,
+        "Operario PR": 81.0,
+        "Draw": 17.0
+      },
+      "888sport": {
+        "Grêmio Novorizontino": 1.03,
+        "Operario PR": 126.0,
+        "Draw": 15.0
+      },
+      "Betfair": {
+        "Grêmio Novorizontino": 1.01,
+        "Operario PR": 6.0,
+        "Draw": 34.0
+      }
+    },
+    "bbf63c9655db106dd50c8c05f81c730e:h2h": {
+      "Winamax (FR)": {
+        "Newells Old Boys": 55.0,
+        "Union Santa Fe": 70.0,
+        "Draw": 1.0
+      },
+      "Winamax (DE)": {
+        "Newells Old Boys": 55.0,
+        "Union Santa Fe": 70.0,
+        "Draw": 1.0
+      },
+      "Betclic (FR)": {
+        "Newells Old Boys": 15.75,
+        "Union Santa Fe": 20.0,
+        "Draw": 1.03
+      },
+      "Unibet (FR)": {
+        "Newells Old Boys": 7.0,
+        "Union Santa Fe": 9.25,
+        "Draw": 1.04
+      },
+      "Betfair": {
+        "Newells Old Boys": 100.0,
+        "Union Santa Fe": 100.0
+      },
+      "Betsson": {
+        "Newells Old Boys": 26.0,
+        "Union Santa Fe": 29.0,
+        "Draw": 1.0
+      },
+      "Nordic Bet": {
+        "Newells Old Boys": 26.0,
+        "Union Santa Fe": 29.0,
+        "Draw": 1.0
+      },
+      "Unibet (SE)": {
+        "Newells Old Boys": 14.0,
+        "Union Santa Fe": 35.0,
+        "Draw": 1.04
+      },
+      "LeoVegas (SE)": {
+        "Newells Old Boys": 18.0,
+        "Union Santa Fe": 13.0,
+        "Draw": 1.01
+      },
+      "Pinnacle": {
+        "Newells Old Boys": 5.06,
+        "Union Santa Fe": 6.95,
+        "Draw": 1.38
       }
     }
   },
@@ -5425,75 +5391,519 @@
       "confidence": 73,
       "alert_type": "value",
       "alerted_at": "2026-11-01T18:53:05.217270+00:00"
+    },
+    {
+      "state_key": "1cdb00cb80774ae0925047b37ab60a08:h2h",
+      "event_id": "1cdb00cb80774ae0925047b37ab60a08",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Cuiabá",
+      "away_team": "São Bernardo",
+      "commence_time": "2026-11-01T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cuiabá",
+      "odds_at_alert": 150.0,
+      "stake_pct": 5.0,
+      "confidence": 916,
+      "alert_type": "value",
+      "alerted_at": "2026-11-01T23:31:32.127872+00:00"
+    },
+    {
+      "state_key": "1cdb00cb80774ae0925047b37ab60a08:h2h",
+      "event_id": "1cdb00cb80774ae0925047b37ab60a08",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Cuiabá",
+      "away_team": "São Bernardo",
+      "commence_time": "2026-11-01T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 237,
+      "alert_type": "value",
+      "alerted_at": "2026-11-01T23:31:32.542425+00:00"
+    },
+    {
+      "state_key": "1cdb00cb80774ae0925047b37ab60a08:h2h",
+      "event_id": "1cdb00cb80774ae0925047b37ab60a08",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Cuiabá",
+      "away_team": "São Bernardo",
+      "commence_time": "2026-11-01T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cuiabá",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 76,
+      "alert_type": "value",
+      "alerted_at": "2026-11-01T23:31:32.912835+00:00"
+    },
+    {
+      "state_key": "1cdb00cb80774ae0925047b37ab60a08:h2h",
+      "event_id": "1cdb00cb80774ae0925047b37ab60a08",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Cuiabá",
+      "away_team": "São Bernardo",
+      "commence_time": "2026-11-01T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.6,
+      "stake_pct": 5.0,
+      "confidence": 19,
+      "alert_type": "value",
+      "alerted_at": "2026-11-01T23:31:33.270353+00:00"
+    },
+    {
+      "state_key": "1cdb00cb80774ae0925047b37ab60a08:h2h",
+      "event_id": "1cdb00cb80774ae0925047b37ab60a08",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Cuiabá",
+      "away_team": "São Bernardo",
+      "commence_time": "2026-11-01T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cuiabá",
+      "odds_at_alert": 50.0,
+      "stake_pct": 5.0,
+      "confidence": 239,
+      "alert_type": "value",
+      "alerted_at": "2026-11-01T23:31:33.639584+00:00"
+    },
+    {
+      "state_key": "1cdb00cb80774ae0925047b37ab60a08:h2h",
+      "event_id": "1cdb00cb80774ae0925047b37ab60a08",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Cuiabá",
+      "away_team": "São Bernardo",
+      "commence_time": "2026-11-01T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 185,
+      "alert_type": "value",
+      "alerted_at": "2026-11-01T23:31:34.012392+00:00"
+    },
+    {
+      "state_key": "1cdb00cb80774ae0925047b37ab60a08:h2h",
+      "event_id": "1cdb00cb80774ae0925047b37ab60a08",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Cuiabá",
+      "away_team": "São Bernardo",
+      "commence_time": "2026-11-01T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cuiabá",
+      "odds_at_alert": 130.0,
+      "stake_pct": 5.0,
+      "confidence": 780,
+      "alert_type": "value",
+      "alerted_at": "2026-11-01T23:31:34.385040+00:00"
+    },
+    {
+      "state_key": "1cdb00cb80774ae0925047b37ab60a08:h2h",
+      "event_id": "1cdb00cb80774ae0925047b37ab60a08",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Cuiabá",
+      "away_team": "São Bernardo",
+      "commence_time": "2026-11-01T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 10.0,
+      "stake_pct": 5.0,
+      "confidence": 159,
+      "alert_type": "value",
+      "alerted_at": "2026-11-01T23:31:34.748741+00:00"
+    },
+    {
+      "state_key": "1cdb00cb80774ae0925047b37ab60a08:h2h",
+      "event_id": "1cdb00cb80774ae0925047b37ab60a08",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Cuiabá",
+      "away_team": "São Bernardo",
+      "commence_time": "2026-11-01T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cuiabá",
+      "odds_at_alert": 91.0,
+      "stake_pct": 5.0,
+      "confidence": 516,
+      "alert_type": "value",
+      "alerted_at": "2026-11-01T23:31:35.111335+00:00"
+    },
+    {
+      "state_key": "1cdb00cb80774ae0925047b37ab60a08:h2h",
+      "event_id": "1cdb00cb80774ae0925047b37ab60a08",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Cuiabá",
+      "away_team": "São Bernardo",
+      "commence_time": "2026-11-01T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 8.5,
+      "stake_pct": 5.0,
+      "confidence": 120,
+      "alert_type": "value",
+      "alerted_at": "2026-11-01T23:31:35.483215+00:00"
+    },
+    {
+      "state_key": "1cdb00cb80774ae0925047b37ab60a08:h2h",
+      "event_id": "1cdb00cb80774ae0925047b37ab60a08",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Cuiabá",
+      "away_team": "São Bernardo",
+      "commence_time": "2026-11-01T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cuiabá",
+      "odds_at_alert": 200.0,
+      "stake_pct": 5.0,
+      "confidence": 1254,
+      "alert_type": "value",
+      "alerted_at": "2026-11-01T23:31:35.837390+00:00"
+    },
+    {
+      "state_key": "1cdb00cb80774ae0925047b37ab60a08:h2h",
+      "event_id": "1cdb00cb80774ae0925047b37ab60a08",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Cuiabá",
+      "away_team": "São Bernardo",
+      "commence_time": "2026-11-01T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 185,
+      "alert_type": "value",
+      "alerted_at": "2026-11-01T23:31:36.196964+00:00"
+    },
+    {
+      "state_key": "bbf63c9655db106dd50c8c05f81c730e:h2h",
+      "event_id": "bbf63c9655db106dd50c8c05f81c730e",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Newells Old Boys",
+      "away_team": "Union Santa Fe",
+      "commence_time": "2026-11-01T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Newells Old Boys",
+      "odds_at_alert": 55.0,
+      "stake_pct": 5.0,
+      "confidence": 920,
+      "alert_type": "value",
+      "alerted_at": "2026-11-01T23:31:36.580675+00:00"
+    },
+    {
+      "state_key": "bbf63c9655db106dd50c8c05f81c730e:h2h",
+      "event_id": "bbf63c9655db106dd50c8c05f81c730e",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Newells Old Boys",
+      "away_team": "Union Santa Fe",
+      "commence_time": "2026-11-01T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Union Santa Fe",
+      "odds_at_alert": 70.0,
+      "stake_pct": 5.0,
+      "confidence": 845,
+      "alert_type": "value",
+      "alerted_at": "2026-11-01T23:31:36.944257+00:00"
+    },
+    {
+      "state_key": "bbf63c9655db106dd50c8c05f81c730e:h2h",
+      "event_id": "bbf63c9655db106dd50c8c05f81c730e",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Newells Old Boys",
+      "away_team": "Union Santa Fe",
+      "commence_time": "2026-11-01T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Newells Old Boys",
+      "odds_at_alert": 55.0,
+      "stake_pct": 5.0,
+      "confidence": 920,
+      "alert_type": "value",
+      "alerted_at": "2026-11-01T23:31:37.312671+00:00"
+    },
+    {
+      "state_key": "bbf63c9655db106dd50c8c05f81c730e:h2h",
+      "event_id": "bbf63c9655db106dd50c8c05f81c730e",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Newells Old Boys",
+      "away_team": "Union Santa Fe",
+      "commence_time": "2026-11-01T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Union Santa Fe",
+      "odds_at_alert": 70.0,
+      "stake_pct": 5.0,
+      "confidence": 845,
+      "alert_type": "value",
+      "alerted_at": "2026-11-01T23:31:37.685833+00:00"
+    },
+    {
+      "state_key": "bbf63c9655db106dd50c8c05f81c730e:h2h",
+      "event_id": "bbf63c9655db106dd50c8c05f81c730e",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Newells Old Boys",
+      "away_team": "Union Santa Fe",
+      "commence_time": "2026-11-01T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Newells Old Boys",
+      "odds_at_alert": 15.75,
+      "stake_pct": 5.0,
+      "confidence": 192,
+      "alert_type": "value",
+      "alerted_at": "2026-11-01T23:31:38.051449+00:00"
+    },
+    {
+      "state_key": "bbf63c9655db106dd50c8c05f81c730e:h2h",
+      "event_id": "bbf63c9655db106dd50c8c05f81c730e",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Newells Old Boys",
+      "away_team": "Union Santa Fe",
+      "commence_time": "2026-11-01T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Union Santa Fe",
+      "odds_at_alert": 20.0,
+      "stake_pct": 5.0,
+      "confidence": 170,
+      "alert_type": "value",
+      "alerted_at": "2026-11-01T23:31:38.413210+00:00"
+    },
+    {
+      "state_key": "bbf63c9655db106dd50c8c05f81c730e:h2h",
+      "event_id": "bbf63c9655db106dd50c8c05f81c730e",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Newells Old Boys",
+      "away_team": "Union Santa Fe",
+      "commence_time": "2026-11-01T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Newells Old Boys",
+      "odds_at_alert": 7.0,
+      "stake_pct": 5.0,
+      "confidence": 30,
+      "alert_type": "value",
+      "alerted_at": "2026-11-01T23:31:38.859321+00:00"
+    },
+    {
+      "state_key": "bbf63c9655db106dd50c8c05f81c730e:h2h",
+      "event_id": "bbf63c9655db106dd50c8c05f81c730e",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Newells Old Boys",
+      "away_team": "Union Santa Fe",
+      "commence_time": "2026-11-01T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Union Santa Fe",
+      "odds_at_alert": 9.25,
+      "stake_pct": 5.0,
+      "confidence": 25,
+      "alert_type": "value",
+      "alerted_at": "2026-11-01T23:31:39.219592+00:00"
+    },
+    {
+      "state_key": "bbf63c9655db106dd50c8c05f81c730e:h2h",
+      "event_id": "bbf63c9655db106dd50c8c05f81c730e",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Newells Old Boys",
+      "away_team": "Union Santa Fe",
+      "commence_time": "2026-11-01T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Newells Old Boys",
+      "odds_at_alert": 100.0,
+      "stake_pct": 5.0,
+      "confidence": 1754,
+      "alert_type": "value",
+      "alerted_at": "2026-11-01T23:31:39.583642+00:00"
+    },
+    {
+      "state_key": "bbf63c9655db106dd50c8c05f81c730e:h2h",
+      "event_id": "bbf63c9655db106dd50c8c05f81c730e",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Newells Old Boys",
+      "away_team": "Union Santa Fe",
+      "commence_time": "2026-11-01T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Union Santa Fe",
+      "odds_at_alert": 100.0,
+      "stake_pct": 5.0,
+      "confidence": 1250,
+      "alert_type": "value",
+      "alerted_at": "2026-11-01T23:31:39.935190+00:00"
+    },
+    {
+      "state_key": "bbf63c9655db106dd50c8c05f81c730e:h2h",
+      "event_id": "bbf63c9655db106dd50c8c05f81c730e",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Newells Old Boys",
+      "away_team": "Union Santa Fe",
+      "commence_time": "2026-11-01T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Newells Old Boys",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 382,
+      "alert_type": "value",
+      "alerted_at": "2026-11-01T23:31:40.339594+00:00"
+    },
+    {
+      "state_key": "bbf63c9655db106dd50c8c05f81c730e:h2h",
+      "event_id": "bbf63c9655db106dd50c8c05f81c730e",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Newells Old Boys",
+      "away_team": "Union Santa Fe",
+      "commence_time": "2026-11-01T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Union Santa Fe",
+      "odds_at_alert": 29.0,
+      "stake_pct": 5.0,
+      "confidence": 291,
+      "alert_type": "value",
+      "alerted_at": "2026-11-01T23:31:40.686317+00:00"
+    },
+    {
+      "state_key": "bbf63c9655db106dd50c8c05f81c730e:h2h",
+      "event_id": "bbf63c9655db106dd50c8c05f81c730e",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Newells Old Boys",
+      "away_team": "Union Santa Fe",
+      "commence_time": "2026-11-01T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Newells Old Boys",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 382,
+      "alert_type": "value",
+      "alerted_at": "2026-11-01T23:31:41.049966+00:00"
+    },
+    {
+      "state_key": "bbf63c9655db106dd50c8c05f81c730e:h2h",
+      "event_id": "bbf63c9655db106dd50c8c05f81c730e",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Newells Old Boys",
+      "away_team": "Union Santa Fe",
+      "commence_time": "2026-11-01T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Union Santa Fe",
+      "odds_at_alert": 29.0,
+      "stake_pct": 5.0,
+      "confidence": 291,
+      "alert_type": "value",
+      "alerted_at": "2026-11-01T23:31:41.416530+00:00"
+    },
+    {
+      "state_key": "bbf63c9655db106dd50c8c05f81c730e:h2h",
+      "event_id": "bbf63c9655db106dd50c8c05f81c730e",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Newells Old Boys",
+      "away_team": "Union Santa Fe",
+      "commence_time": "2026-11-01T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Newells Old Boys",
+      "odds_at_alert": 14.0,
+      "stake_pct": 5.0,
+      "confidence": 160,
+      "alert_type": "value",
+      "alerted_at": "2026-11-01T23:31:41.777898+00:00"
+    },
+    {
+      "state_key": "bbf63c9655db106dd50c8c05f81c730e:h2h",
+      "event_id": "bbf63c9655db106dd50c8c05f81c730e",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Newells Old Boys",
+      "away_team": "Union Santa Fe",
+      "commence_time": "2026-11-01T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Union Santa Fe",
+      "odds_at_alert": 35.0,
+      "stake_pct": 5.0,
+      "confidence": 372,
+      "alert_type": "value",
+      "alerted_at": "2026-11-01T23:31:42.150656+00:00"
+    },
+    {
+      "state_key": "bbf63c9655db106dd50c8c05f81c730e:h2h",
+      "event_id": "bbf63c9655db106dd50c8c05f81c730e",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Newells Old Boys",
+      "away_team": "Union Santa Fe",
+      "commence_time": "2026-11-01T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Newells Old Boys",
+      "odds_at_alert": 18.0,
+      "stake_pct": 5.0,
+      "confidence": 234,
+      "alert_type": "value",
+      "alerted_at": "2026-11-01T23:31:42.513084+00:00"
+    },
+    {
+      "state_key": "bbf63c9655db106dd50c8c05f81c730e:h2h",
+      "event_id": "bbf63c9655db106dd50c8c05f81c730e",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Newells Old Boys",
+      "away_team": "Union Santa Fe",
+      "commence_time": "2026-11-01T21:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Union Santa Fe",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 75,
+      "alert_type": "value",
+      "alerted_at": "2026-11-01T23:31:42.877963+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "940b9e69539033539039f9af694e2925:h2h|888sport|Draw",
-    "940b9e69539033539039f9af694e2925:h2h|888sport|Lecce",
-    "940b9e69539033539039f9af694e2925:h2h|Betclic (FR)|Draw",
-    "940b9e69539033539039f9af694e2925:h2h|Betclic (FR)|Lecce",
-    "940b9e69539033539039f9af694e2925:h2h|Betfair|Draw",
-    "940b9e69539033539039f9af694e2925:h2h|Betfair|Lecce",
-    "940b9e69539033539039f9af694e2925:h2h|Betsson|Draw",
-    "940b9e69539033539039f9af694e2925:h2h|Betsson|Lecce",
-    "940b9e69539033539039f9af694e2925:h2h|Coolbet|Draw",
-    "940b9e69539033539039f9af694e2925:h2h|Coolbet|Lecce",
-    "940b9e69539033539039f9af694e2925:h2h|LeoVegas (SE)|Draw",
-    "940b9e69539033539039f9af694e2925:h2h|LeoVegas (SE)|Lecce",
-    "940b9e69539033539039f9af694e2925:h2h|Marathon Bet|Draw",
-    "940b9e69539033539039f9af694e2925:h2h|Marathon Bet|Lecce",
-    "940b9e69539033539039f9af694e2925:h2h|Matchbook|Draw",
-    "940b9e69539033539039f9af694e2925:h2h|Matchbook|Lecce",
-    "940b9e69539033539039f9af694e2925:h2h|Nordic Bet|Draw",
-    "940b9e69539033539039f9af694e2925:h2h|Nordic Bet|Lecce",
-    "940b9e69539033539039f9af694e2925:h2h|PMU (FR)|Draw",
-    "940b9e69539033539039f9af694e2925:h2h|PMU (FR)|Lecce",
-    "940b9e69539033539039f9af694e2925:h2h|Tipico|Draw",
-    "940b9e69539033539039f9af694e2925:h2h|Tipico|Lecce",
-    "940b9e69539033539039f9af694e2925:h2h|Unibet (FR)|Lecce",
-    "940b9e69539033539039f9af694e2925:h2h|Unibet (NL)|Draw",
-    "940b9e69539033539039f9af694e2925:h2h|Unibet (NL)|Lecce",
-    "940b9e69539033539039f9af694e2925:h2h|Unibet (SE)|Draw",
-    "940b9e69539033539039f9af694e2925:h2h|Unibet (SE)|Lecce",
-    "940b9e69539033539039f9af694e2925:h2h|Winamax (DE)|Draw",
-    "940b9e69539033539039f9af694e2925:h2h|Winamax (DE)|Lecce",
-    "940b9e69539033539039f9af694e2925:h2h|Winamax (FR)|Draw",
-    "940b9e69539033539039f9af694e2925:h2h|Winamax (FR)|Lecce",
-    "d667b5fde5f4b69438bcb625ffa1d6f9:h2h|888sport|Asteras Tripolis",
-    "d667b5fde5f4b69438bcb625ffa1d6f9:h2h|888sport|Draw",
-    "d667b5fde5f4b69438bcb625ffa1d6f9:h2h|Betclic (FR)|Asteras Tripolis",
-    "d667b5fde5f4b69438bcb625ffa1d6f9:h2h|Betclic (FR)|Draw",
-    "d667b5fde5f4b69438bcb625ffa1d6f9:h2h|Betfair|Asteras Tripolis",
-    "d667b5fde5f4b69438bcb625ffa1d6f9:h2h|Betfair|Draw",
-    "d667b5fde5f4b69438bcb625ffa1d6f9:h2h|Betsson|Asteras Tripolis",
-    "d667b5fde5f4b69438bcb625ffa1d6f9:h2h|Betsson|Draw",
-    "d667b5fde5f4b69438bcb625ffa1d6f9:h2h|Coolbet|Asteras Tripolis",
-    "d667b5fde5f4b69438bcb625ffa1d6f9:h2h|Coolbet|Draw",
-    "d667b5fde5f4b69438bcb625ffa1d6f9:h2h|Nordic Bet|Asteras Tripolis",
-    "d667b5fde5f4b69438bcb625ffa1d6f9:h2h|Nordic Bet|Draw",
-    "d667b5fde5f4b69438bcb625ffa1d6f9:h2h|Tipico|Asteras Tripolis",
-    "d667b5fde5f4b69438bcb625ffa1d6f9:h2h|Tipico|Draw",
-    "d667b5fde5f4b69438bcb625ffa1d6f9:h2h|Unibet (FR)|Asteras Tripolis",
-    "d667b5fde5f4b69438bcb625ffa1d6f9:h2h|Unibet (FR)|Draw",
-    "d667b5fde5f4b69438bcb625ffa1d6f9:h2h|Winamax (DE)|Asteras Tripolis",
-    "d667b5fde5f4b69438bcb625ffa1d6f9:h2h|Winamax (DE)|Draw",
-    "d667b5fde5f4b69438bcb625ffa1d6f9:h2h|Winamax (FR)|Asteras Tripolis",
-    "d667b5fde5f4b69438bcb625ffa1d6f9:h2h|Winamax (FR)|Draw",
-    "f2f601e4aadfa7a17fed04f219c96299:h2h|888sport|AGF Aarhus",
-    "f2f601e4aadfa7a17fed04f219c96299:h2h|888sport|Draw",
-    "f2f601e4aadfa7a17fed04f219c96299:h2h|Betclic (FR)|AGF Aarhus",
-    "f2f601e4aadfa7a17fed04f219c96299:h2h|Betclic (FR)|Draw",
-    "f2f601e4aadfa7a17fed04f219c96299:h2h|Betfair|AGF Aarhus",
-    "f2f601e4aadfa7a17fed04f219c96299:h2h|Betfair|Draw",
-    "f2f601e4aadfa7a17fed04f219c96299:h2h|Betsson|AGF Aarhus",
-    "f2f601e4aadfa7a17fed04f219c96299:h2h|Betsson|Draw",
-    "f2f601e4aadfa7a17fed04f219c96299:h2h|Nordic Bet|AGF Aarhus",
-    "f2f601e4aadfa7a17fed04f219c96299:h2h|Nordic Bet|Draw",
-    "f2f601e4aadfa7a17fed04f219c96299:h2h|Unibet (FR)|AGF Aarhus",
-    "f2f601e4aadfa7a17fed04f219c96299:h2h|Winamax (DE)|AGF Aarhus",
-    "f2f601e4aadfa7a17fed04f219c96299:h2h|Winamax (DE)|Draw",
-    "f2f601e4aadfa7a17fed04f219c96299:h2h|Winamax (FR)|AGF Aarhus",
-    "f2f601e4aadfa7a17fed04f219c96299:h2h|Winamax (FR)|Draw"
+    "1cdb00cb80774ae0925047b37ab60a08:h2h|888sport|Cuiabá",
+    "1cdb00cb80774ae0925047b37ab60a08:h2h|888sport|Draw",
+    "1cdb00cb80774ae0925047b37ab60a08:h2h|Betfair|Cuiabá",
+    "1cdb00cb80774ae0925047b37ab60a08:h2h|Betfair|Draw",
+    "1cdb00cb80774ae0925047b37ab60a08:h2h|Betsson|Cuiabá",
+    "1cdb00cb80774ae0925047b37ab60a08:h2h|Betsson|Draw",
+    "1cdb00cb80774ae0925047b37ab60a08:h2h|Coolbet|Cuiabá",
+    "1cdb00cb80774ae0925047b37ab60a08:h2h|Coolbet|Draw",
+    "1cdb00cb80774ae0925047b37ab60a08:h2h|LeoVegas (SE)|Cuiabá",
+    "1cdb00cb80774ae0925047b37ab60a08:h2h|LeoVegas (SE)|Draw",
+    "1cdb00cb80774ae0925047b37ab60a08:h2h|Nordic Bet|Cuiabá",
+    "1cdb00cb80774ae0925047b37ab60a08:h2h|Nordic Bet|Draw",
+    "bbf63c9655db106dd50c8c05f81c730e:h2h|Betclic (FR)|Newells Old Boys",
+    "bbf63c9655db106dd50c8c05f81c730e:h2h|Betclic (FR)|Union Santa Fe",
+    "bbf63c9655db106dd50c8c05f81c730e:h2h|Betfair|Newells Old Boys",
+    "bbf63c9655db106dd50c8c05f81c730e:h2h|Betfair|Union Santa Fe",
+    "bbf63c9655db106dd50c8c05f81c730e:h2h|Betsson|Newells Old Boys",
+    "bbf63c9655db106dd50c8c05f81c730e:h2h|Betsson|Union Santa Fe",
+    "bbf63c9655db106dd50c8c05f81c730e:h2h|LeoVegas (SE)|Newells Old Boys",
+    "bbf63c9655db106dd50c8c05f81c730e:h2h|LeoVegas (SE)|Union Santa Fe",
+    "bbf63c9655db106dd50c8c05f81c730e:h2h|Nordic Bet|Newells Old Boys",
+    "bbf63c9655db106dd50c8c05f81c730e:h2h|Nordic Bet|Union Santa Fe",
+    "bbf63c9655db106dd50c8c05f81c730e:h2h|Unibet (FR)|Newells Old Boys",
+    "bbf63c9655db106dd50c8c05f81c730e:h2h|Unibet (FR)|Union Santa Fe",
+    "bbf63c9655db106dd50c8c05f81c730e:h2h|Unibet (SE)|Newells Old Boys",
+    "bbf63c9655db106dd50c8c05f81c730e:h2h|Unibet (SE)|Union Santa Fe",
+    "bbf63c9655db106dd50c8c05f81c730e:h2h|Winamax (DE)|Newells Old Boys",
+    "bbf63c9655db106dd50c8c05f81c730e:h2h|Winamax (DE)|Union Santa Fe",
+    "bbf63c9655db106dd50c8c05f81c730e:h2h|Winamax (FR)|Newells Old Boys",
+    "bbf63c9655db106dd50c8c05f81c730e:h2h|Winamax (FR)|Union Santa Fe"
   ]
 }
