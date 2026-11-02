@@ -1,160 +1,301 @@
 {
   "snapshots": {
-    "36f6f36650046236bd0c864c56022567:h2h": {
-      "Winamax (DE)": {
-        "Barracas Central": 225.0,
-        "Belgrano de Cordoba": 1.01,
-        "Draw": 20.0
+    "f89b9247af7cc118faae54ec9f0934ee:h2h": {
+      "Codere (IT)": {
+        "Andorra CF": 3.2,
+        "Tenerife": 2.18,
+        "Draw": 3.05
       },
-      "Unibet (FR)": {
-        "Barracas Central": 100.0,
-        "Belgrano de Cordoba": 1.01,
-        "Draw": 4.65
+      "Tipico": {
+        "Andorra CF": 3.4,
+        "Tenerife": 2.05,
+        "Draw": 3.1
       },
       "Winamax (FR)": {
-        "Barracas Central": 225.0,
-        "Belgrano de Cordoba": 1.01,
-        "Draw": 20.0
+        "Andorra CF": 3.0,
+        "Tenerife": 2.05,
+        "Draw": 3.0
       },
-      "Betclic (FR)": {
-        "Barracas Central": 38.0,
-        "Belgrano de Cordoba": 30.0,
-        "Draw": 1.01
-      },
-      "Betfair": {
-        "Barracas Central": 17.5,
-        "Belgrano de Cordoba": 1.26,
-        "Draw": 1.05
-      },
-      "Betsson": {
-        "Barracas Central": 100.0,
-        "Belgrano de Cordoba": 1.03,
-        "Draw": 11.0
-      },
-      "Nordic Bet": {
-        "Barracas Central": 150.0,
-        "Belgrano de Cordoba": 1.01,
-        "Draw": 13.0
-      },
-      "LeoVegas (SE)": {
-        "Barracas Central": 91.0,
-        "Belgrano de Cordoba": 1.02,
-        "Draw": 10.5
-      }
-    },
-    "1cdb00cb80774ae0925047b37ab60a08:h2h": {
-      "Betsson": {
-        "Cuiabá": 150.0,
-        "São Bernardo": 1.01,
-        "Draw": 13.0
-      },
-      "888sport": {
-        "Cuiabá": 26.0,
-        "São Bernardo": 1.2,
-        "Draw": 4.6
+      "Winamax (DE)": {
+        "Andorra CF": 3.15,
+        "Tenerife": 2.15,
+        "Draw": 3.15
       },
       "Coolbet": {
-        "Cuiabá": 50.0,
-        "São Bernardo": 1.01,
-        "Draw": 11.0
+        "Andorra CF": 3.3,
+        "Tenerife": 2.25,
+        "Draw": 3.3
       },
-      "Nordic Bet": {
-        "Cuiabá": 130.0,
-        "São Bernardo": 1.03,
-        "Draw": 10.0
+      "Matchbook": {
+        "Andorra CF": 3.55,
+        "Tenerife": 2.28,
+        "Draw": 3.3
+      },
+      "Unibet (FR)": {
+        "Andorra CF": 3.05,
+        "Tenerife": 1.95,
+        "Draw": 2.95
+      },
+      "Betclic (FR)": {
+        "Andorra CF": 3.23,
+        "Tenerife": 2.13,
+        "Draw": 3.1
+      },
+      "Betfair": {
+        "Andorra CF": 3.6,
+        "Tenerife": 2.3,
+        "Draw": 3.3
+      },
+      "William Hill": {
+        "Andorra CF": 3.25,
+        "Tenerife": 2.2,
+        "Draw": 3.0
+      },
+      "BetOnline.ag": {
+        "Andorra CF": 3.15,
+        "Tenerife": 2.32,
+        "Draw": 3.0
+      },
+      "1xBet": {
+        "Andorra CF": 3.27,
+        "Tenerife": 2.32,
+        "Draw": 3.27
+      },
+      "Marathon Bet": {
+        "Andorra CF": 3.18,
+        "Tenerife": 2.25,
+        "Draw": 3.18
       },
       "Pinnacle": {
-        "Cuiabá": 13.92,
-        "São Bernardo": 1.4,
-        "Draw": 3.64
-      },
-      "LeoVegas (SE)": {
-        "Cuiabá": 91.0,
-        "São Bernardo": 1.02,
-        "Draw": 8.5
-      },
-      "Betfair": {
-        "Cuiabá": 200.0,
-        "São Bernardo": 1.07,
-        "Draw": 11.0
+        "Andorra CF": 3.49,
+        "Tenerife": 2.3,
+        "Draw": 3.23
       }
     },
-    "43b7685b9bcd90193dd9b4f68ef7e229:h2h": {
-      "Coolbet": {
-        "Grêmio Novorizontino": 1.0,
-        "Operario PR": 50.0,
-        "Draw": 16.0
+    "6427e4ec579967b3a80259bfc2a27c9f:h2h": {
+      "Pinnacle": {
+        "Kryliya Sovetov": 5.75,
+        "Zenit St Petersburg": 1.57,
+        "Draw": 4.49
       },
-      "Nordic Bet": {
-        "Grêmio Novorizontino": 1.0,
-        "Operario PR": 67.0,
-        "Draw": 17.0
+      "1xBet": {
+        "Kryliya Sovetov": 5.84,
+        "Zenit St Petersburg": 1.6,
+        "Draw": 4.56
+      },
+      "Marathon Bet": {
+        "Kryliya Sovetov": 5.7,
+        "Zenit St Petersburg": 1.56,
+        "Draw": 4.45
+      },
+      "BetOnline.ag": {
+        "Kryliya Sovetov": 5.3,
+        "Zenit St Petersburg": 1.55,
+        "Draw": 4.2
+      }
+    },
+    "6891a7ee06d4118eba6fb1ea59026099:h2h": {
+      "Unibet (FR)": {
+        "Las Palmas": 4.3,
+        "Oviedo": 1.52,
+        "Draw": 3.45
       },
       "Betsson": {
-        "Grêmio Novorizontino": 1.0,
-        "Operario PR": 81.0,
-        "Draw": 17.0
-      },
-      "888sport": {
-        "Grêmio Novorizontino": 1.03,
-        "Operario PR": 126.0,
-        "Draw": 15.0
-      },
-      "Betfair": {
-        "Grêmio Novorizontino": 1.01,
-        "Operario PR": 6.0,
-        "Draw": 34.0
-      }
-    },
-    "bbf63c9655db106dd50c8c05f81c730e:h2h": {
-      "Winamax (FR)": {
-        "Newells Old Boys": 55.0,
-        "Union Santa Fe": 70.0,
-        "Draw": 1.0
-      },
-      "Winamax (DE)": {
-        "Newells Old Boys": 55.0,
-        "Union Santa Fe": 70.0,
-        "Draw": 1.0
+        "Las Palmas": 4.6,
+        "Oviedo": 1.68,
+        "Draw": 3.6
       },
       "Betclic (FR)": {
-        "Newells Old Boys": 15.75,
-        "Union Santa Fe": 20.0,
-        "Draw": 1.03
-      },
-      "Unibet (FR)": {
-        "Newells Old Boys": 7.0,
-        "Union Santa Fe": 9.25,
-        "Draw": 1.04
-      },
-      "Betfair": {
-        "Newells Old Boys": 100.0,
-        "Union Santa Fe": 100.0
-      },
-      "Betsson": {
-        "Newells Old Boys": 26.0,
-        "Union Santa Fe": 29.0,
-        "Draw": 1.0
+        "Las Palmas": 4.6,
+        "Oviedo": 1.64,
+        "Draw": 3.68
       },
       "Nordic Bet": {
-        "Newells Old Boys": 26.0,
-        "Union Santa Fe": 29.0,
-        "Draw": 1.0
+        "Las Palmas": 4.6,
+        "Oviedo": 1.68,
+        "Draw": 3.6
+      },
+      "1xBet": {
+        "Las Palmas": 4.9,
+        "Oviedo": 1.71,
+        "Draw": 3.94
+      },
+      "Marathon Bet": {
+        "Las Palmas": 4.75,
+        "Oviedo": 1.66,
+        "Draw": 3.82
+      },
+      "Winamax (FR)": {
+        "Las Palmas": 4.1,
+        "Oviedo": 1.6,
+        "Draw": 3.55
+      },
+      "Winamax (DE)": {
+        "Las Palmas": 4.4,
+        "Oviedo": 1.66,
+        "Draw": 3.75
+      },
+      "William Hill": {
+        "Las Palmas": 4.5,
+        "Oviedo": 1.67,
+        "Draw": 3.6
+      },
+      "Pinnacle": {
+        "Las Palmas": 5.01,
+        "Oviedo": 1.72,
+        "Draw": 3.95
+      },
+      "Codere (IT)": {
+        "Las Palmas": 4.5,
+        "Oviedo": 1.67,
+        "Draw": 3.6
+      },
+      "Tipico": {
+        "Las Palmas": 4.8,
+        "Oviedo": 1.57,
+        "Draw": 3.8
+      },
+      "PMU (FR)": {
+        "Las Palmas": 3.95,
+        "Oviedo": 1.65,
+        "Draw": 3.25
       },
       "Unibet (SE)": {
-        "Newells Old Boys": 14.0,
-        "Union Santa Fe": 35.0,
-        "Draw": 1.04
+        "Las Palmas": 4.4,
+        "Oviedo": 1.79,
+        "Draw": 3.6
       },
       "LeoVegas (SE)": {
-        "Newells Old Boys": 18.0,
-        "Union Santa Fe": 13.0,
-        "Draw": 1.01
+        "Las Palmas": 4.1,
+        "Oviedo": 1.71,
+        "Draw": 3.4
+      },
+      "Unibet (NL)": {
+        "Las Palmas": 4.4,
+        "Oviedo": 1.79,
+        "Draw": 3.6
+      },
+      "Coolbet": {
+        "Las Palmas": 4.5,
+        "Oviedo": 1.75,
+        "Draw": 3.85
+      },
+      "Betfair": {
+        "Las Palmas": 5.2,
+        "Oviedo": 1.77,
+        "Draw": 3.95
+      },
+      "BetOnline.ag": {
+        "Las Palmas": 4.7,
+        "Oviedo": 1.7,
+        "Draw": 3.8
+      },
+      "Matchbook": {
+        "Las Palmas": 5.3,
+        "Oviedo": 1.77,
+        "Draw": 3.95
+      },
+      "BetAnything": {
+        "Las Palmas": 4.7,
+        "Oviedo": 1.7,
+        "Draw": 3.8
+      }
+    },
+    "67ce5949d5197dc17df95d618bff185b:h2h": {
+      "Winamax (FR)": {
+        "Atromitos Athens": 1.78,
+        "Volos FC": 3.5,
+        "Draw": 3.3
+      },
+      "Winamax (DE)": {
+        "Atromitos Athens": 1.86,
+        "Volos FC": 3.7,
+        "Draw": 3.45
+      },
+      "1xBet": {
+        "Atromitos Athens": 1.84,
+        "Volos FC": 4.08,
+        "Draw": 3.55
+      },
+      "Betsson": {
+        "Atromitos Athens": 1.92,
+        "Volos FC": 3.95,
+        "Draw": 3.5
+      },
+      "Nordic Bet": {
+        "Atromitos Athens": 1.88,
+        "Volos FC": 3.85,
+        "Draw": 3.35
+      },
+      "Betclic (FR)": {
+        "Atromitos Athens": 1.79,
+        "Volos FC": 3.8,
+        "Draw": 3.35
+      },
+      "888sport": {
+        "Atromitos Athens": 1.85,
+        "Volos FC": 3.9,
+        "Draw": 3.3
+      },
+      "William Hill": {
+        "Atromitos Athens": 1.85,
+        "Volos FC": 3.9,
+        "Draw": 3.3
+      },
+      "Betfair": {
+        "Atromitos Athens": 1.94,
+        "Volos FC": 4.4,
+        "Draw": 3.6
       },
       "Pinnacle": {
-        "Newells Old Boys": 5.06,
-        "Union Santa Fe": 6.95,
-        "Draw": 1.38
+        "Atromitos Athens": 1.91,
+        "Volos FC": 4.18,
+        "Draw": 3.63
+      },
+      "Codere (IT)": {
+        "Atromitos Athens": 1.86,
+        "Volos FC": 3.8,
+        "Draw": 3.35
+      },
+      "Tipico": {
+        "Atromitos Athens": 1.75,
+        "Volos FC": 4.2,
+        "Draw": 3.5
+      },
+      "PMU (FR)": {
+        "Atromitos Athens": 1.75,
+        "Volos FC": 3.55,
+        "Draw": 3.15
+      },
+      "Unibet (NL)": {
+        "Atromitos Athens": 1.91,
+        "Volos FC": 3.9,
+        "Draw": 3.45
+      },
+      "LeoVegas (SE)": {
+        "Atromitos Athens": 1.81,
+        "Volos FC": 3.65,
+        "Draw": 3.3
+      },
+      "Unibet (SE)": {
+        "Atromitos Athens": 1.91,
+        "Volos FC": 3.9,
+        "Draw": 3.45
+      },
+      "BetOnline.ag": {
+        "Atromitos Athens": 1.9,
+        "Volos FC": 4.0,
+        "Draw": 3.5
+      },
+      "Unibet (FR)": {
+        "Atromitos Athens": 1.7,
+        "Volos FC": 3.65,
+        "Draw": 3.25
+      },
+      "Coolbet": {
+        "Atromitos Athens": 1.9,
+        "Volos FC": 4.0,
+        "Draw": 3.6
       }
     }
   },
@@ -5394,36 +5535,5 @@
     }
   ],
   "results_history": [],
-  "value_alerted": [
-    "1cdb00cb80774ae0925047b37ab60a08:h2h|888sport|Cuiabá",
-    "1cdb00cb80774ae0925047b37ab60a08:h2h|888sport|Draw",
-    "1cdb00cb80774ae0925047b37ab60a08:h2h|Betfair|Cuiabá",
-    "1cdb00cb80774ae0925047b37ab60a08:h2h|Betfair|Draw",
-    "1cdb00cb80774ae0925047b37ab60a08:h2h|Betsson|Cuiabá",
-    "1cdb00cb80774ae0925047b37ab60a08:h2h|Betsson|Draw",
-    "1cdb00cb80774ae0925047b37ab60a08:h2h|Coolbet|Cuiabá",
-    "1cdb00cb80774ae0925047b37ab60a08:h2h|Coolbet|Draw",
-    "1cdb00cb80774ae0925047b37ab60a08:h2h|LeoVegas (SE)|Cuiabá",
-    "1cdb00cb80774ae0925047b37ab60a08:h2h|LeoVegas (SE)|Draw",
-    "1cdb00cb80774ae0925047b37ab60a08:h2h|Nordic Bet|Cuiabá",
-    "1cdb00cb80774ae0925047b37ab60a08:h2h|Nordic Bet|Draw",
-    "bbf63c9655db106dd50c8c05f81c730e:h2h|Betclic (FR)|Newells Old Boys",
-    "bbf63c9655db106dd50c8c05f81c730e:h2h|Betclic (FR)|Union Santa Fe",
-    "bbf63c9655db106dd50c8c05f81c730e:h2h|Betfair|Newells Old Boys",
-    "bbf63c9655db106dd50c8c05f81c730e:h2h|Betfair|Union Santa Fe",
-    "bbf63c9655db106dd50c8c05f81c730e:h2h|Betsson|Newells Old Boys",
-    "bbf63c9655db106dd50c8c05f81c730e:h2h|Betsson|Union Santa Fe",
-    "bbf63c9655db106dd50c8c05f81c730e:h2h|LeoVegas (SE)|Newells Old Boys",
-    "bbf63c9655db106dd50c8c05f81c730e:h2h|LeoVegas (SE)|Union Santa Fe",
-    "bbf63c9655db106dd50c8c05f81c730e:h2h|Nordic Bet|Newells Old Boys",
-    "bbf63c9655db106dd50c8c05f81c730e:h2h|Nordic Bet|Union Santa Fe",
-    "bbf63c9655db106dd50c8c05f81c730e:h2h|Unibet (FR)|Newells Old Boys",
-    "bbf63c9655db106dd50c8c05f81c730e:h2h|Unibet (FR)|Union Santa Fe",
-    "bbf63c9655db106dd50c8c05f81c730e:h2h|Unibet (SE)|Newells Old Boys",
-    "bbf63c9655db106dd50c8c05f81c730e:h2h|Unibet (SE)|Union Santa Fe",
-    "bbf63c9655db106dd50c8c05f81c730e:h2h|Winamax (DE)|Newells Old Boys",
-    "bbf63c9655db106dd50c8c05f81c730e:h2h|Winamax (DE)|Union Santa Fe",
-    "bbf63c9655db106dd50c8c05f81c730e:h2h|Winamax (FR)|Newells Old Boys",
-    "bbf63c9655db106dd50c8c05f81c730e:h2h|Winamax (FR)|Union Santa Fe"
-  ]
+  "value_alerted": []
 }
