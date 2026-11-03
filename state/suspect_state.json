@@ -1,334 +1,431 @@
 {
   "snapshots": {
-    "9b8076d3ffa027df6f6cb3189de46706:h2h": {
-      "Winamax (FR)": {
-        "Galatasaray": 1.88,
-        "VfB Stuttgart": 2.95,
-        "Draw": 4.1
-      },
-      "1xBet": {
-        "Galatasaray": 2.02,
-        "VfB Stuttgart": 3.37,
-        "Draw": 4.46
-      },
-      "Winamax (DE)": {
-        "Galatasaray": 1.94,
-        "VfB Stuttgart": 3.05,
-        "Draw": 4.3
-      },
-      "Marathon Bet": {
-        "Galatasaray": 1.99,
-        "VfB Stuttgart": 3.32,
-        "Draw": 4.4
-      },
-      "Betclic (FR)": {
-        "Galatasaray": 1.92,
-        "VfB Stuttgart": 3.05,
-        "Draw": 4.15
-      },
-      "Unibet (FR)": {
-        "Galatasaray": 1.86,
-        "VfB Stuttgart": 2.9,
-        "Draw": 3.9
-      },
+    "cb4f135234ed7236aca2b93f47ab4739:h2h": {
       "Unibet (SE)": {
-        "Galatasaray": 2.02,
-        "VfB Stuttgart": 3.35,
-        "Draw": 4.35
-      },
-      "Unibet (NL)": {
-        "Galatasaray": 2.02,
-        "VfB Stuttgart": 3.35,
-        "Draw": 4.35
+        "Chapecoense": 1.88,
+        "Mirassol": 4.3,
+        "Draw": 3.1
       },
       "LeoVegas (SE)": {
-        "Galatasaray": 1.94,
-        "VfB Stuttgart": 3.2,
-        "Draw": 4.1
+        "Chapecoense": 1.78,
+        "Mirassol": 4.0,
+        "Draw": 3.0
       },
       "PMU (FR)": {
-        "Galatasaray": 1.88,
-        "VfB Stuttgart": 3.0,
-        "Draw": 3.9
+        "Chapecoense": 1.75,
+        "Mirassol": 3.95,
+        "Draw": 2.95
       },
-      "Nordic Bet": {
-        "Galatasaray": 1.98,
-        "VfB Stuttgart": 3.35,
-        "Draw": 4.25
+      "Unibet (NL)": {
+        "Chapecoense": 1.79,
+        "Mirassol": 4.2,
+        "Draw": 3.0
       },
-      "Betsson": {
-        "Galatasaray": 1.95,
-        "VfB Stuttgart": 3.3,
-        "Draw": 4.2
+      "Unibet (FR)": {
+        "Chapecoense": 1.75,
+        "Mirassol": 3.65,
+        "Draw": 2.8
       },
-      "Betfair": {
-        "Galatasaray": 2.02,
-        "VfB Stuttgart": 3.45,
-        "Draw": 4.5
+      "Betclic (FR)": {
+        "Chapecoense": 1.8,
+        "Mirassol": 3.6,
+        "Draw": 3.1
       },
-      "Coolbet": {
-        "Galatasaray": 2.0,
-        "VfB Stuttgart": 3.4,
-        "Draw": 4.35
+      "MyBookie.ag": {
+        "Chapecoense": 2.0,
+        "Mirassol": 3.45,
+        "Draw": 3.2
+      },
+      "Winamax (DE)": {
+        "Chapecoense": 1.84,
+        "Mirassol": 3.75,
+        "Draw": 2.95
+      },
+      "Winamax (FR)": {
+        "Chapecoense": 1.76,
+        "Mirassol": 3.5,
+        "Draw": 2.75
+      },
+      "Marathon Bet": {
+        "Chapecoense": 1.9,
+        "Mirassol": 4.2,
+        "Draw": 3.2
       },
       "888sport": {
-        "Galatasaray": 1.95,
-        "VfB Stuttgart": 3.2,
-        "Draw": 4.0
-      },
-      "William Hill": {
-        "Galatasaray": 1.95,
-        "VfB Stuttgart": 3.1,
-        "Draw": 4.0
-      },
-      "GTbets": {
-        "Galatasaray": 2.04,
-        "VfB Stuttgart": 3.17,
-        "Draw": 4.16
-      },
-      "Pinnacle": {
-        "Galatasaray": 1.99,
-        "VfB Stuttgart": 3.4,
-        "Draw": 4.36
-      },
-      "Codere (IT)": {
-        "Galatasaray": 2.0,
-        "VfB Stuttgart": 3.2,
-        "Draw": 4.2
-      },
-      "Matchbook": {
-        "Galatasaray": 2.02,
-        "VfB Stuttgart": 3.45,
-        "Draw": 4.5
-      },
-      "BetOnline.ag": {
-        "Galatasaray": 1.94,
-        "VfB Stuttgart": 3.4,
-        "Draw": 4.42
-      },
-      "BetAnything": {
-        "Galatasaray": 1.94,
-        "VfB Stuttgart": 3.4,
-        "Draw": 4.42
-      }
-    },
-    "55e0f74a61f7d72defa7ea0c83532ea5:h2h": {
-      "Winamax (DE)": {
-        "Shakhtar Donetsk": 3.3,
-        "Sporting Lisbon": 1.96,
-        "Draw": 3.85
-      },
-      "Unibet (FR)": {
-        "Shakhtar Donetsk": 3.2,
-        "Sporting Lisbon": 1.88,
-        "Draw": 3.4
-      },
-      "Codere (IT)": {
-        "Shakhtar Donetsk": 3.45,
-        "Sporting Lisbon": 2.07,
-        "Draw": 3.6
-      },
-      "Winamax (FR)": {
-        "Shakhtar Donetsk": 3.2,
-        "Sporting Lisbon": 1.9,
-        "Draw": 3.7
-      },
-      "Coolbet": {
-        "Shakhtar Donetsk": 3.52,
-        "Sporting Lisbon": 2.08,
-        "Draw": 3.86
-      },
-      "Betclic (FR)": {
-        "Shakhtar Donetsk": 3.3,
-        "Sporting Lisbon": 1.92,
-        "Draw": 3.75
-      },
-      "GTbets": {
-        "Shakhtar Donetsk": 3.55,
-        "Sporting Lisbon": 2.04,
-        "Draw": 3.66
-      },
-      "1xBet": {
-        "Shakhtar Donetsk": 3.63,
-        "Sporting Lisbon": 2.08,
-        "Draw": 3.87
-      },
-      "Marathon Bet": {
-        "Shakhtar Donetsk": 3.54,
-        "Sporting Lisbon": 2.02,
-        "Draw": 3.76
-      },
-      "Unibet (SE)": {
-        "Shakhtar Donetsk": 3.65,
-        "Sporting Lisbon": 2.06,
-        "Draw": 3.8
+        "Chapecoense": 1.95,
+        "Mirassol": 3.75,
+        "Draw": 3.0
       },
       "Betsson": {
-        "Shakhtar Donetsk": 3.45,
-        "Sporting Lisbon": 2.05,
-        "Draw": 3.65
+        "Chapecoense": 1.85,
+        "Mirassol": 4.1,
+        "Draw": 3.2
       },
-      "LeoVegas (SE)": {
-        "Shakhtar Donetsk": 3.45,
-        "Sporting Lisbon": 2.0,
-        "Draw": 3.6
+      "Nordic Bet": {
+        "Chapecoense": 1.85,
+        "Mirassol": 4.1,
+        "Draw": 3.2
       },
-      "Unibet (NL)": {
-        "Shakhtar Donetsk": 3.65,
-        "Sporting Lisbon": 2.06,
-        "Draw": 3.8
+      "Coolbet": {
+        "Chapecoense": 1.91,
+        "Mirassol": 4.0,
+        "Draw": 3.25
       },
-      "PMU (FR)": {
-        "Shakhtar Donetsk": 3.3,
-        "Sporting Lisbon": 1.92,
+      "Matchbook": {
+        "Chapecoense": 2.02,
+        "Mirassol": 4.4,
         "Draw": 3.45
       },
-      "Nordic Bet": {
-        "Shakhtar Donetsk": 3.5,
-        "Sporting Lisbon": 2.05,
-        "Draw": 3.7
-      },
-      "Betfair": {
-        "Shakhtar Donetsk": 3.65,
-        "Sporting Lisbon": 2.12,
-        "Draw": 3.85
-      },
-      "888sport": {
-        "Shakhtar Donetsk": 3.4,
-        "Sporting Lisbon": 2.0,
-        "Draw": 3.5
-      },
-      "William Hill": {
-        "Shakhtar Donetsk": 3.3,
-        "Sporting Lisbon": 2.0,
-        "Draw": 3.5
-      },
       "Pinnacle": {
-        "Shakhtar Donetsk": 3.5,
-        "Sporting Lisbon": 2.09,
-        "Draw": 3.81
-      },
-      "Matchbook": {
-        "Shakhtar Donetsk": 3.65,
-        "Sporting Lisbon": 2.12,
-        "Draw": 3.85
-      },
-      "BetOnline.ag": {
-        "Shakhtar Donetsk": 3.52,
-        "Sporting Lisbon": 2.05,
-        "Draw": 3.8
-      },
-      "BetAnything": {
-        "Shakhtar Donetsk": 3.52,
-        "Sporting Lisbon": 2.05,
-        "Draw": 3.8
-      }
-    },
-    "815fdc608bcf774718dd7722624817c7:h2h": {
-      "LeoVegas (SE)": {
-        "Halmstads BK": 9.5,
-        "IK Sirius": 1.25,
-        "Draw": 6.0
-      },
-      "Unibet (NL)": {
-        "Halmstads BK": 9.5,
-        "IK Sirius": 1.25,
-        "Draw": 6.0
-      },
-      "Unibet (SE)": {
-        "Halmstads BK": 10.5,
-        "IK Sirius": 1.28,
-        "Draw": 6.25
-      },
-      "PMU (FR)": {
-        "Halmstads BK": 8.5,
-        "IK Sirius": 1.21,
-        "Draw": 5.5
-      },
-      "Betclic (FR)": {
-        "Halmstads BK": 8.0,
-        "IK Sirius": 1.26,
-        "Draw": 5.5
-      },
-      "Unibet (FR)": {
-        "Halmstads BK": 6.6,
-        "IK Sirius": 1.19,
-        "Draw": 4.65
-      },
-      "Winamax (FR)": {
-        "Halmstads BK": 6.75,
-        "IK Sirius": 1.23,
-        "Draw": 5.3
-      },
-      "Winamax (DE)": {
-        "Halmstads BK": 7.5,
-        "IK Sirius": 1.27,
-        "Draw": 5.8
-      },
-      "1xBet": {
-        "Halmstads BK": 8.5,
-        "IK Sirius": 1.29,
-        "Draw": 5.55
-      },
-      "Betsson": {
-        "Halmstads BK": 9.39,
-        "IK Sirius": 1.29,
-        "Draw": 5.78
-      },
-      "Nordic Bet": {
-        "Halmstads BK": 9.0,
-        "IK Sirius": 1.27,
-        "Draw": 5.6
-      },
-      "BetOnline.ag": {
-        "Halmstads BK": 7.6,
-        "IK Sirius": 1.31,
-        "Draw": 6.0
-      },
-      "GTbets": {
-        "Halmstads BK": 8.43,
-        "IK Sirius": 1.27,
-        "Draw": 5.65
-      },
-      "Betfair": {
-        "Halmstads BK": 10.0,
-        "IK Sirius": 1.32,
-        "Draw": 6.2
-      },
-      "888sport": {
-        "Halmstads BK": 8.0,
-        "IK Sirius": 1.3,
-        "Draw": 5.0
-      },
-      "William Hill": {
-        "Halmstads BK": 8.0,
-        "IK Sirius": 1.3,
-        "Draw": 5.0
+        "Chapecoense": 2.09,
+        "Mirassol": 3.53,
+        "Draw": 3.4
       },
       "Tipico": {
-        "Halmstads BK": 7.8,
-        "IK Sirius": 1.25,
-        "Draw": 6.0
+        "Chapecoense": 1.95,
+        "Mirassol": 3.3,
+        "Draw": 3.4
       },
-      "Pinnacle": {
-        "Halmstads BK": 8.43,
-        "IK Sirius": 1.31,
-        "Draw": 6.11
+      "Betfair": {
+        "Chapecoense": 2.0,
+        "Mirassol": 4.6,
+        "Draw": 3.45
+      }
+    },
+    "6df174307762408f41f44f1cd145c542:h2h": {
+      "Unibet (NL)": {
+        "Coritiba": 5.75,
+        "Internacional": 1.53,
+        "Draw": 4.2
+      },
+      "Unibet (SE)": {
+        "Coritiba": 5.75,
+        "Internacional": 1.53,
+        "Draw": 4.2
+      },
+      "PMU (FR)": {
+        "Coritiba": 5.3,
+        "Internacional": 1.47,
+        "Draw": 3.9
+      },
+      "LeoVegas (SE)": {
+        "Coritiba": 5.4,
+        "Internacional": 1.49,
+        "Draw": 3.95
+      },
+      "Betclic (FR)": {
+        "Coritiba": 5.25,
+        "Internacional": 1.47,
+        "Draw": 3.98
+      },
+      "Unibet (FR)": {
+        "Coritiba": 4.7,
+        "Internacional": 1.4,
+        "Draw": 3.55
+      },
+      "Codere (IT)": {
+        "Coritiba": 5.6,
+        "Internacional": 1.57,
+        "Draw": 4.1
+      },
+      "Winamax (DE)": {
+        "Coritiba": 5.1,
+        "Internacional": 1.52,
+        "Draw": 4.1
+      },
+      "Winamax (FR)": {
+        "Coritiba": 4.8,
+        "Internacional": 1.48,
+        "Draw": 3.85
+      },
+      "MyBookie.ag": {
+        "Coritiba": 5.6,
+        "Internacional": 1.56,
+        "Draw": 4.2
+      },
+      "1xBet": {
+        "Coritiba": 5.72,
+        "Internacional": 1.58,
+        "Draw": 4.28
+      },
+      "Marathon Bet": {
+        "Coritiba": 5.55,
+        "Internacional": 1.53,
+        "Draw": 4.15
+      },
+      "888sport": {
+        "Coritiba": 5.0,
+        "Internacional": 1.53,
+        "Draw": 3.9
+      },
+      "William Hill": {
+        "Coritiba": 5.0,
+        "Internacional": 1.55,
+        "Draw": 3.9
+      },
+      "Nordic Bet": {
+        "Coritiba": 5.4,
+        "Internacional": 1.55,
+        "Draw": 4.05
+      },
+      "Betsson": {
+        "Coritiba": 5.35,
+        "Internacional": 1.55,
+        "Draw": 4.1
       },
       "Coolbet": {
-        "Halmstads BK": 9.1,
-        "IK Sirius": 1.31,
-        "Draw": 5.9
+        "Coritiba": 5.8,
+        "Internacional": 1.58,
+        "Draw": 4.05
+      },
+      "GTbets": {
+        "Coritiba": 5.69,
+        "Internacional": 1.6,
+        "Draw": 4.05
+      },
+      "Pinnacle": {
+        "Coritiba": 6.06,
+        "Internacional": 1.57,
+        "Draw": 4.32
       },
       "Matchbook": {
-        "Halmstads BK": 10.0,
-        "IK Sirius": 1.32,
-        "Draw": 6.2
+        "Coritiba": 6.2,
+        "Internacional": 1.6,
+        "Draw": 4.4
+      },
+      "Betfair": {
+        "Coritiba": 6.2,
+        "Internacional": 1.6,
+        "Draw": 4.4
+      },
+      "Tipico": {
+        "Coritiba": 5.5,
+        "Internacional": 1.45,
+        "Draw": 4.2
+      },
+      "BetOnline.ag": {
+        "Coritiba": 5.9,
+        "Internacional": 1.59,
+        "Draw": 4.23
       },
       "BetAnything": {
-        "Halmstads BK": 7.6,
-        "IK Sirius": 1.31,
-        "Draw": 6.0
+        "Coritiba": 5.9,
+        "Internacional": 1.59,
+        "Draw": 4.23
+      }
+    },
+    "29ebc4d234c1c6e86ebea07ab9174818:h2h": {
+      "Pinnacle": {
+        "Olympiakos Piraeus": 3.13,
+        "Rennes": 2.26,
+        "Draw": 3.65
+      },
+      "Codere (IT)": {
+        "Olympiakos Piraeus": 3.1,
+        "Rennes": 2.28,
+        "Draw": 3.45
+      },
+      "Unibet (FR)": {
+        "Olympiakos Piraeus": 2.85,
+        "Rennes": 2.05,
+        "Draw": 3.3
+      },
+      "Winamax (DE)": {
+        "Olympiakos Piraeus": 2.95,
+        "Rennes": 2.2,
+        "Draw": 3.55
+      },
+      "Winamax (FR)": {
+        "Olympiakos Piraeus": 2.85,
+        "Rennes": 2.15,
+        "Draw": 3.45
+      },
+      "Marathon Bet": {
+        "Olympiakos Piraeus": 3.14,
+        "Rennes": 2.22,
+        "Draw": 3.62
+      },
+      "Betclic (FR)": {
+        "Olympiakos Piraeus": 2.87,
+        "Rennes": 2.03,
+        "Draw": 3.32
+      },
+      "1xBet": {
+        "Olympiakos Piraeus": 3.18,
+        "Rennes": 2.25,
+        "Draw": 3.67
+      },
+      "Unibet (SE)": {
+        "Olympiakos Piraeus": 3.2,
+        "Rennes": 2.28,
+        "Draw": 3.55
+      },
+      "PMU (FR)": {
+        "Olympiakos Piraeus": 2.88,
+        "Rennes": 2.08,
+        "Draw": 3.2
+      },
+      "LeoVegas (SE)": {
+        "Olympiakos Piraeus": 3.05,
+        "Rennes": 2.2,
+        "Draw": 3.35
+      },
+      "Unibet (NL)": {
+        "Olympiakos Piraeus": 3.2,
+        "Rennes": 2.28,
+        "Draw": 3.55
+      },
+      "Betfair": {
+        "Olympiakos Piraeus": 3.35,
+        "Rennes": 2.26,
+        "Draw": 3.7
+      },
+      "Betsson": {
+        "Olympiakos Piraeus": 3.15,
+        "Rennes": 2.22,
+        "Draw": 3.5
+      },
+      "Nordic Bet": {
+        "Olympiakos Piraeus": 3.2,
+        "Rennes": 2.25,
+        "Draw": 3.55
+      },
+      "Matchbook": {
+        "Olympiakos Piraeus": 3.35,
+        "Rennes": 2.26,
+        "Draw": 3.7
+      },
+      "Coolbet": {
+        "Olympiakos Piraeus": 3.1,
+        "Rennes": 2.25,
+        "Draw": 3.6
+      },
+      "BetOnline.ag": {
+        "Olympiakos Piraeus": 3.06,
+        "Rennes": 2.25,
+        "Draw": 3.58
+      },
+      "888sport": {
+        "Olympiakos Piraeus": 3.0,
+        "Rennes": 2.2,
+        "Draw": 3.3
+      },
+      "William Hill": {
+        "Olympiakos Piraeus": 3.0,
+        "Rennes": 2.2,
+        "Draw": 3.3
+      }
+    },
+    "f43ef699c987e112e115f7035114854e:h2h": {
+      "Unibet (FR)": {
+        "AEK Athens": 9.0,
+        "Real Madrid": 1.16,
+        "Draw": 7.4
+      },
+      "Betclic (FR)": {
+        "AEK Athens": 9.5,
+        "Real Madrid": 1.16,
+        "Draw": 6.5
+      },
+      "Winamax (DE)": {
+        "AEK Athens": 9.0,
+        "Real Madrid": 1.2,
+        "Draw": 7.25
+      },
+      "Winamax (FR)": {
+        "AEK Athens": 8.5,
+        "Real Madrid": 1.18,
+        "Draw": 6.5
+      },
+      "Marathon Bet": {
+        "AEK Athens": 11.25,
+        "Real Madrid": 1.24,
+        "Draw": 7.3
+      },
+      "1xBet": {
+        "AEK Athens": 11.4,
+        "Real Madrid": 1.26,
+        "Draw": 7.42
+      },
+      "Betfair": {
+        "AEK Athens": 13.5,
+        "Real Madrid": 1.23,
+        "Draw": 8.0
+      },
+      "GTbets": {
+        "AEK Athens": 10.77,
+        "Real Madrid": 1.23,
+        "Draw": 6.84
+      },
+      "Betsson": {
+        "AEK Athens": 12.5,
+        "Real Madrid": 1.2,
+        "Draw": 7.1
+      },
+      "Nordic Bet": {
+        "AEK Athens": 12.5,
+        "Real Madrid": 1.21,
+        "Draw": 7.2
+      },
+      "LeoVegas (SE)": {
+        "AEK Athens": 12.0,
+        "Real Madrid": 1.2,
+        "Draw": 6.75
+      },
+      "PMU (FR)": {
+        "AEK Athens": 10.5,
+        "Real Madrid": 1.17,
+        "Draw": 6.4
+      },
+      "Unibet (NL)": {
+        "AEK Athens": 14.0,
+        "Real Madrid": 1.22,
+        "Draw": 7.5
+      },
+      "Unibet (SE)": {
+        "AEK Athens": 14.0,
+        "Real Madrid": 1.23,
+        "Draw": 7.5
+      },
+      "888sport": {
+        "AEK Athens": 9.5,
+        "Real Madrid": 1.22,
+        "Draw": 6.5
+      },
+      "William Hill": {
+        "AEK Athens": 9.5,
+        "Real Madrid": 1.22,
+        "Draw": 6.5
+      },
+      "Pinnacle": {
+        "AEK Athens": 11.56,
+        "Real Madrid": 1.22,
+        "Draw": 7.52
+      },
+      "Coolbet": {
+        "AEK Athens": 11.5,
+        "Real Madrid": 1.25,
+        "Draw": 7.35
+      },
+      "Codere (IT)": {
+        "AEK Athens": 11.0,
+        "Real Madrid": 1.23,
+        "Draw": 6.8
+      },
+      "Matchbook": {
+        "AEK Athens": 14.0,
+        "Real Madrid": 1.23,
+        "Draw": 8.0
+      },
+      "BetOnline.ag": {
+        "AEK Athens": 11.5,
+        "Real Madrid": 1.23,
+        "Draw": 7.53
+      },
+      "BetAnything": {
+        "AEK Athens": 11.5,
+        "Real Madrid": 1.23,
+        "Draw": 7.53
       }
     }
   },
@@ -5789,15 +5886,247 @@
       "confidence": 13,
       "alert_type": "value",
       "alerted_at": "2026-11-03T16:08:19.199613+00:00"
+    },
+    {
+      "state_key": "cb4f135234ed7236aca2b93f47ab4739:h2h",
+      "event_id": "cb4f135234ed7236aca2b93f47ab4739",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Chapecoense",
+      "away_team": "Mirassol",
+      "commence_time": "2026-11-03T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Mirassol",
+      "odds_at_alert": 4.3,
+      "stake_pct": 5.0,
+      "confidence": 15,
+      "alert_type": "value",
+      "alerted_at": "2026-11-03T23:14:33.103104+00:00"
+    },
+    {
+      "state_key": "cb4f135234ed7236aca2b93f47ab4739:h2h",
+      "event_id": "cb4f135234ed7236aca2b93f47ab4739",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Chapecoense",
+      "away_team": "Mirassol",
+      "commence_time": "2026-11-03T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Mirassol",
+      "odds_at_alert": 4.0,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-11-03T23:14:33.401327+00:00"
+    },
+    {
+      "state_key": "cb4f135234ed7236aca2b93f47ab4739:h2h",
+      "event_id": "cb4f135234ed7236aca2b93f47ab4739",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Chapecoense",
+      "away_team": "Mirassol",
+      "commence_time": "2026-11-03T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Mirassol",
+      "odds_at_alert": 3.95,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-11-03T23:14:33.699557+00:00"
+    },
+    {
+      "state_key": "cb4f135234ed7236aca2b93f47ab4739:h2h",
+      "event_id": "cb4f135234ed7236aca2b93f47ab4739",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Chapecoense",
+      "away_team": "Mirassol",
+      "commence_time": "2026-11-03T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Mirassol",
+      "odds_at_alert": 4.2,
+      "stake_pct": 3.0,
+      "confidence": 13,
+      "alert_type": "value",
+      "alerted_at": "2026-11-03T23:14:33.988767+00:00"
+    },
+    {
+      "state_key": "cb4f135234ed7236aca2b93f47ab4739:h2h",
+      "event_id": "cb4f135234ed7236aca2b93f47ab4739",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Chapecoense",
+      "away_team": "Mirassol",
+      "commence_time": "2026-11-03T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Mirassol",
+      "odds_at_alert": 4.2,
+      "stake_pct": 3.0,
+      "confidence": 13,
+      "alert_type": "value",
+      "alerted_at": "2026-11-03T23:14:34.296502+00:00"
+    },
+    {
+      "state_key": "cb4f135234ed7236aca2b93f47ab4739:h2h",
+      "event_id": "cb4f135234ed7236aca2b93f47ab4739",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Chapecoense",
+      "away_team": "Mirassol",
+      "commence_time": "2026-11-03T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Mirassol",
+      "odds_at_alert": 4.1,
+      "stake_pct": 3.0,
+      "confidence": 10,
+      "alert_type": "value",
+      "alerted_at": "2026-11-03T23:14:34.585199+00:00"
+    },
+    {
+      "state_key": "cb4f135234ed7236aca2b93f47ab4739:h2h",
+      "event_id": "cb4f135234ed7236aca2b93f47ab4739",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Chapecoense",
+      "away_team": "Mirassol",
+      "commence_time": "2026-11-03T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Mirassol",
+      "odds_at_alert": 4.1,
+      "stake_pct": 3.0,
+      "confidence": 10,
+      "alert_type": "value",
+      "alerted_at": "2026-11-03T23:14:34.879581+00:00"
+    },
+    {
+      "state_key": "cb4f135234ed7236aca2b93f47ab4739:h2h",
+      "event_id": "cb4f135234ed7236aca2b93f47ab4739",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Chapecoense",
+      "away_team": "Mirassol",
+      "commence_time": "2026-11-03T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Mirassol",
+      "odds_at_alert": 4.0,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-11-03T23:14:35.171861+00:00"
+    },
+    {
+      "state_key": "cb4f135234ed7236aca2b93f47ab4739:h2h",
+      "event_id": "cb4f135234ed7236aca2b93f47ab4739",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Chapecoense",
+      "away_team": "Mirassol",
+      "commence_time": "2026-11-03T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Mirassol",
+      "odds_at_alert": 4.4,
+      "stake_pct": 5.0,
+      "confidence": 18,
+      "alert_type": "value",
+      "alerted_at": "2026-11-03T23:14:35.475436+00:00"
+    },
+    {
+      "state_key": "cb4f135234ed7236aca2b93f47ab4739:h2h",
+      "event_id": "cb4f135234ed7236aca2b93f47ab4739",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Chapecoense",
+      "away_team": "Mirassol",
+      "commence_time": "2026-11-03T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Mirassol",
+      "odds_at_alert": 4.6,
+      "stake_pct": 5.0,
+      "confidence": 23,
+      "alert_type": "value",
+      "alerted_at": "2026-11-03T23:14:35.765883+00:00"
+    },
+    {
+      "state_key": "f43ef699c987e112e115f7035114854e:h2h",
+      "event_id": "f43ef699c987e112e115f7035114854e",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League",
+      "home_team": "AEK Athens",
+      "away_team": "Real Madrid",
+      "commence_time": "2026-11-04T17:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "AEK Athens",
+      "odds_at_alert": 13.5,
+      "stake_pct": 3.0,
+      "confidence": 12,
+      "alert_type": "value",
+      "alerted_at": "2026-11-03T23:14:36.060995+00:00"
+    },
+    {
+      "state_key": "f43ef699c987e112e115f7035114854e:h2h",
+      "event_id": "f43ef699c987e112e115f7035114854e",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League",
+      "home_team": "AEK Athens",
+      "away_team": "Real Madrid",
+      "commence_time": "2026-11-04T17:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "AEK Athens",
+      "odds_at_alert": 14.0,
+      "stake_pct": 5.0,
+      "confidence": 17,
+      "alert_type": "value",
+      "alerted_at": "2026-11-03T23:14:36.355915+00:00"
+    },
+    {
+      "state_key": "f43ef699c987e112e115f7035114854e:h2h",
+      "event_id": "f43ef699c987e112e115f7035114854e",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League",
+      "home_team": "AEK Athens",
+      "away_team": "Real Madrid",
+      "commence_time": "2026-11-04T17:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "AEK Athens",
+      "odds_at_alert": 14.0,
+      "stake_pct": 5.0,
+      "confidence": 17,
+      "alert_type": "value",
+      "alerted_at": "2026-11-03T23:14:36.641713+00:00"
+    },
+    {
+      "state_key": "f43ef699c987e112e115f7035114854e:h2h",
+      "event_id": "f43ef699c987e112e115f7035114854e",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League",
+      "home_team": "AEK Athens",
+      "away_team": "Real Madrid",
+      "commence_time": "2026-11-04T17:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "AEK Athens",
+      "odds_at_alert": 14.0,
+      "stake_pct": 5.0,
+      "confidence": 17,
+      "alert_type": "value",
+      "alerted_at": "2026-11-03T23:14:36.946749+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "815fdc608bcf774718dd7722624817c7:h2h|Betfair|Halmstads BK",
-    "815fdc608bcf774718dd7722624817c7:h2h|Betsson|Halmstads BK",
-    "815fdc608bcf774718dd7722624817c7:h2h|LeoVegas (SE)|Halmstads BK",
-    "815fdc608bcf774718dd7722624817c7:h2h|Matchbook|Halmstads BK",
-    "815fdc608bcf774718dd7722624817c7:h2h|Unibet (NL)|Halmstads BK",
-    "815fdc608bcf774718dd7722624817c7:h2h|Unibet (SE)|Halmstads BK"
+    "cb4f135234ed7236aca2b93f47ab4739:h2h|Betfair|Mirassol",
+    "cb4f135234ed7236aca2b93f47ab4739:h2h|Betsson|Mirassol",
+    "cb4f135234ed7236aca2b93f47ab4739:h2h|Coolbet|Mirassol",
+    "cb4f135234ed7236aca2b93f47ab4739:h2h|LeoVegas (SE)|Mirassol",
+    "cb4f135234ed7236aca2b93f47ab4739:h2h|Marathon Bet|Mirassol",
+    "cb4f135234ed7236aca2b93f47ab4739:h2h|Matchbook|Mirassol",
+    "cb4f135234ed7236aca2b93f47ab4739:h2h|Nordic Bet|Mirassol",
+    "cb4f135234ed7236aca2b93f47ab4739:h2h|PMU (FR)|Mirassol",
+    "cb4f135234ed7236aca2b93f47ab4739:h2h|Unibet (NL)|Mirassol",
+    "cb4f135234ed7236aca2b93f47ab4739:h2h|Unibet (SE)|Mirassol",
+    "f43ef699c987e112e115f7035114854e:h2h|Betfair|AEK Athens",
+    "f43ef699c987e112e115f7035114854e:h2h|Matchbook|AEK Athens",
+    "f43ef699c987e112e115f7035114854e:h2h|Unibet (NL)|AEK Athens",
+    "f43ef699c987e112e115f7035114854e:h2h|Unibet (SE)|AEK Athens"
   ]
 }
