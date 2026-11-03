@@ -1,286 +1,316 @@
 {
   "snapshots": {
-    "0f4c1bb9206c94533a556d79b57713f2:h2h": {
-      "Winamax (DE)": {
-        "Central Córdoba": 38.0,
-        "Platense": 1.09,
-        "Draw": 6.75
-      },
-      "Unibet (FR)": {
-        "Central Córdoba": 30.0,
-        "Platense": 1.07,
-        "Draw": 4.2
-      },
+    "9b8076d3ffa027df6f6cb3189de46706:h2h": {
       "Winamax (FR)": {
-        "Central Córdoba": 38.0,
-        "Platense": 1.07,
-        "Draw": 6.25
-      },
-      "Betclic (FR)": {
-        "Central Córdoba": 22.0,
-        "Platense": 1.08,
-        "Draw": 5.9
-      },
-      "Marathon Bet": {
-        "Central Córdoba": 35.0,
-        "Platense": 1.1,
-        "Draw": 7.3
-      },
-      "Unibet (SE)": {
-        "Central Córdoba": 41.0,
-        "Platense": 1.1,
-        "Draw": 7.5
-      },
-      "LeoVegas (SE)": {
-        "Central Córdoba": 36.0,
-        "Platense": 1.05,
-        "Draw": 7.0
-      },
-      "Betsson": {
-        "Central Córdoba": 32.0,
-        "Platense": 1.09,
-        "Draw": 6.8
-      },
-      "Nordic Bet": {
-        "Central Córdoba": 32.0,
-        "Platense": 1.09,
-        "Draw": 6.8
-      },
-      "Betfair": {
-        "Central Córdoba": 38.0,
-        "Platense": 1.16,
-        "Draw": 7.4
-      }
-    },
-    "502836f56485f98d79663395227c4b25:h2h": {
-      "Marathon Bet": {
-        "Defensa y Justicia": 3.04,
-        "Independiente": 3.94,
-        "Draw": 2.02
-      },
-      "Betclic (FR)": {
-        "Defensa y Justicia": 2.68,
-        "Independiente": 3.47,
-        "Draw": 2.07
-      },
-      "Unibet (FR)": {
-        "Defensa y Justicia": 2.65,
-        "Independiente": 3.4,
-        "Draw": 1.85
-      },
-      "Unibet (SE)": {
-        "Defensa y Justicia": 3.3,
-        "Independiente": 3.65,
-        "Draw": 1.97
-      },
-      "Winamax (DE)": {
-        "Defensa y Justicia": 2.75,
-        "Independiente": 3.5,
-        "Draw": 1.96
-      },
-      "LeoVegas (SE)": {
-        "Defensa y Justicia": 3.1,
-        "Independiente": 3.45,
-        "Draw": 1.87
-      },
-      "Winamax (FR)": {
-        "Defensa y Justicia": 2.6,
-        "Independiente": 3.25,
-        "Draw": 1.86
-      },
-      "Pinnacle": {
-        "Defensa y Justicia": 3.09,
-        "Independiente": 3.77,
-        "Draw": 2.13
-      },
-      "Betfair": {
-        "Defensa y Justicia": 3.2,
-        "Independiente": 4.1,
-        "Draw": 2.08
-      },
-      "Nordic Bet": {
-        "Defensa y Justicia": 2.88,
-        "Independiente": 3.65,
-        "Draw": 2.1
-      },
-      "Betsson": {
-        "Defensa y Justicia": 2.88,
-        "Independiente": 3.65,
-        "Draw": 2.1
-      }
-    },
-    "5bab6fa1aa508d533a40f86e0b82605e:h2h": {
-      "PMU (FR)": {
-        "Bragantino-SP": 1.3,
-        "Santos": 6.25,
-        "Draw": 4.2
-      },
-      "LeoVegas (SE)": {
-        "Bragantino-SP": 1.33,
-        "Santos": 6.25,
-        "Draw": 4.25
-      },
-      "Unibet (NL)": {
-        "Bragantino-SP": 1.35,
-        "Santos": 6.4,
-        "Draw": 4.3
-      },
-      "Unibet (SE)": {
-        "Bragantino-SP": 1.4,
-        "Santos": 6.75,
-        "Draw": 4.5
-      },
-      "Unibet (FR)": {
-        "Bragantino-SP": 1.45,
-        "Santos": 4.5,
-        "Draw": 3.4
-      },
-      "Betclic (FR)": {
-        "Bragantino-SP": 1.5,
-        "Santos": 4.6,
+        "Galatasaray": 2.0,
+        "VfB Stuttgart": 2.8,
         "Draw": 3.95
       },
-      "Winamax (FR)": {
-        "Bragantino-SP": 1.48,
-        "Santos": 4.2,
-        "Draw": 3.6
+      "1xBet": {
+        "Galatasaray": 2.18,
+        "VfB Stuttgart": 3.06,
+        "Draw": 4.32
       },
       "Winamax (DE)": {
-        "Bragantino-SP": 1.54,
-        "Santos": 4.4,
-        "Draw": 3.75
-      },
-      "MyBookie.ag": {
-        "Bragantino-SP": 1.55,
-        "Santos": 4.85,
-        "Draw": 4.05
+        "Galatasaray": 2.05,
+        "VfB Stuttgart": 2.9,
+        "Draw": 4.0
       },
       "Marathon Bet": {
-        "Bragantino-SP": 1.56,
-        "Santos": 5.05,
+        "Galatasaray": 2.15,
+        "VfB Stuttgart": 3.02,
+        "Draw": 4.25
+      },
+      "Betclic (FR)": {
+        "Galatasaray": 2.0,
+        "VfB Stuttgart": 2.95,
+        "Draw": 3.98
+      },
+      "Unibet (FR)": {
+        "Galatasaray": 1.98,
+        "VfB Stuttgart": 2.75,
+        "Draw": 3.7
+      },
+      "Unibet (SE)": {
+        "Galatasaray": 2.2,
+        "VfB Stuttgart": 3.0,
+        "Draw": 4.3
+      },
+      "Unibet (NL)": {
+        "Galatasaray": 2.2,
+        "VfB Stuttgart": 3.0,
+        "Draw": 4.3
+      },
+      "LeoVegas (SE)": {
+        "Galatasaray": 2.14,
+        "VfB Stuttgart": 2.88,
+        "Draw": 4.1
+      },
+      "PMU (FR)": {
+        "Galatasaray": 2.05,
+        "VfB Stuttgart": 2.75,
+        "Draw": 3.85
+      },
+      "Nordic Bet": {
+        "Galatasaray": 2.1,
+        "VfB Stuttgart": 3.1,
+        "Draw": 4.15
+      },
+      "Betsson": {
+        "Galatasaray": 2.08,
+        "VfB Stuttgart": 3.05,
+        "Draw": 4.1
+      },
+      "Betfair": {
+        "Galatasaray": 2.14,
+        "VfB Stuttgart": 3.25,
+        "Draw": 4.3
+      },
+      "Coolbet": {
+        "Galatasaray": 2.14,
+        "VfB Stuttgart": 3.18,
         "Draw": 4.2
       },
       "888sport": {
-        "Bragantino-SP": 1.6,
-        "Santos": 4.6,
-        "Draw": 3.8
-      },
-      "Coolbet": {
-        "Bragantino-SP": 1.57,
-        "Santos": 5.0,
-        "Draw": 4.33
-      },
-      "Betsson": {
-        "Bragantino-SP": 1.55,
-        "Santos": 4.85,
-        "Draw": 4.1
-      },
-      "Nordic Bet": {
-        "Bragantino-SP": 1.55,
-        "Santos": 4.85,
-        "Draw": 4.1
-      },
-      "Pinnacle": {
-        "Bragantino-SP": 1.61,
-        "Santos": 5.36,
-        "Draw": 4.05
-      },
-      "Matchbook": {
-        "Bragantino-SP": 1.65,
-        "Santos": 5.6,
-        "Draw": 4.5
-      },
-      "Tipico": {
-        "Bragantino-SP": 1.6,
-        "Santos": 4.0,
-        "Draw": 4.3
-      },
-      "Betfair": {
-        "Bragantino-SP": 1.65,
-        "Santos": 5.6,
-        "Draw": 4.5
-      }
-    },
-    "36706899518f639c53d5d56f4278dcbd:h2h": {
-      "Coolbet": {
-        "Clube de Regatas Brasil": 3.15,
-        "Goiás": 2.12,
-        "Draw": 3.6
-      },
-      "BetOnline.ag": {
-        "Clube de Regatas Brasil": 3.2,
-        "Goiás": 2.1,
-        "Draw": 3.5
-      },
-      "Nordic Bet": {
-        "Clube de Regatas Brasil": 3.15,
-        "Goiás": 2.12,
-        "Draw": 3.3
-      },
-      "Betsson": {
-        "Clube de Regatas Brasil": 3.15,
-        "Goiás": 2.12,
-        "Draw": 3.3
-      },
-      "Pinnacle": {
-        "Clube de Regatas Brasil": 3.39,
-        "Goiás": 2.13,
-        "Draw": 3.68
-      },
-      "Marathon Bet": {
-        "Clube de Regatas Brasil": 3.18,
-        "Goiás": 2.08,
-        "Draw": 3.44
-      },
-      "1xBet": {
-        "Clube de Regatas Brasil": 3.48,
-        "Goiás": 2.08,
-        "Draw": 3.3
-      },
-      "888sport": {
-        "Clube de Regatas Brasil": 3.1,
-        "Goiás": 2.1,
-        "Draw": 3.3
+        "Galatasaray": 2.1,
+        "VfB Stuttgart": 2.9,
+        "Draw": 3.9
       },
       "William Hill": {
-        "Clube de Regatas Brasil": 3.1,
-        "Goiás": 2.1,
-        "Draw": 3.4
+        "Galatasaray": 2.1,
+        "VfB Stuttgart": 2.9,
+        "Draw": 3.9
       },
-      "Tipico": {
-        "Clube de Regatas Brasil": 3.3,
-        "Goiás": 1.83,
-        "Draw": 3.6
+      "GTbets": {
+        "Galatasaray": 2.15,
+        "VfB Stuttgart": 2.99,
+        "Draw": 3.95
+      },
+      "Pinnacle": {
+        "Galatasaray": 2.11,
+        "VfB Stuttgart": 3.12,
+        "Draw": 4.21
       },
       "Codere (IT)": {
-        "Clube de Regatas Brasil": 3.15,
-        "Goiás": 2.13,
-        "Draw": 3.3
-      },
-      "LeoVegas (SE)": {
-        "Clube de Regatas Brasil": 2.85,
-        "Goiás": 2.15,
-        "Draw": 3.25
-      },
-      "Unibet (NL)": {
-        "Clube de Regatas Brasil": 3.0,
-        "Goiás": 2.23,
-        "Draw": 3.5
-      },
-      "Unibet (SE)": {
-        "Clube de Regatas Brasil": 3.0,
-        "Goiás": 2.25,
-        "Draw": 3.45
+        "Galatasaray": 2.14,
+        "VfB Stuttgart": 3.05,
+        "Draw": 3.95
       },
       "Matchbook": {
-        "Clube de Regatas Brasil": 3.3,
-        "Goiás": 2.3,
+        "Galatasaray": 2.14,
+        "VfB Stuttgart": 3.25,
+        "Draw": 4.3
+      },
+      "BetOnline.ag": {
+        "Galatasaray": 2.1,
+        "VfB Stuttgart": 3.11,
+        "Draw": 4.22
+      },
+      "BetAnything": {
+        "Galatasaray": 2.1,
+        "VfB Stuttgart": 3.11,
+        "Draw": 4.22
+      }
+    },
+    "55e0f74a61f7d72defa7ea0c83532ea5:h2h": {
+      "Winamax (DE)": {
+        "Shakhtar Donetsk": 3.45,
+        "Sporting Lisbon": 1.92,
+        "Draw": 3.8
+      },
+      "Unibet (FR)": {
+        "Shakhtar Donetsk": 3.3,
+        "Sporting Lisbon": 1.85,
+        "Draw": 3.4
+      },
+      "Codere (IT)": {
+        "Shakhtar Donetsk": 3.65,
+        "Sporting Lisbon": 1.98,
         "Draw": 3.7
       },
-      "Betfair": {
-        "Clube de Regatas Brasil": 3.55,
-        "Goiás": 2.16,
+      "Winamax (FR)": {
+        "Shakhtar Donetsk": 3.35,
+        "Sporting Lisbon": 1.86,
+        "Draw": 3.65
+      },
+      "Coolbet": {
+        "Shakhtar Donetsk": 3.75,
+        "Sporting Lisbon": 2.02,
+        "Draw": 3.85
+      },
+      "Betclic (FR)": {
+        "Shakhtar Donetsk": 3.55,
+        "Sporting Lisbon": 1.86,
+        "Draw": 3.68
+      },
+      "GTbets": {
+        "Shakhtar Donetsk": 3.74,
+        "Sporting Lisbon": 1.93,
+        "Draw": 3.66
+      },
+      "1xBet": {
+        "Shakhtar Donetsk": 3.82,
+        "Sporting Lisbon": 2.0,
+        "Draw": 3.92
+      },
+      "Marathon Bet": {
+        "Shakhtar Donetsk": 3.72,
+        "Sporting Lisbon": 1.95,
+        "Draw": 3.82
+      },
+      "Unibet (SE)": {
+        "Shakhtar Donetsk": 3.8,
+        "Sporting Lisbon": 2.02,
+        "Draw": 3.8
+      },
+      "Betsson": {
+        "Shakhtar Donetsk": 3.6,
+        "Sporting Lisbon": 1.98,
+        "Draw": 3.7
+      },
+      "LeoVegas (SE)": {
+        "Shakhtar Donetsk": 3.6,
+        "Sporting Lisbon": 1.94,
+        "Draw": 3.6
+      },
+      "Unibet (NL)": {
+        "Shakhtar Donetsk": 3.8,
+        "Sporting Lisbon": 2.02,
+        "Draw": 3.8
+      },
+      "PMU (FR)": {
+        "Shakhtar Donetsk": 3.4,
+        "Sporting Lisbon": 1.88,
+        "Draw": 3.4
+      },
+      "Nordic Bet": {
+        "Shakhtar Donetsk": 3.6,
+        "Sporting Lisbon": 2.0,
         "Draw": 3.75
+      },
+      "Betfair": {
+        "Shakhtar Donetsk": 3.7,
+        "Sporting Lisbon": 2.1,
+        "Draw": 3.85
+      },
+      "888sport": {
+        "Shakhtar Donetsk": 3.5,
+        "Sporting Lisbon": 1.95,
+        "Draw": 3.6
+      },
+      "William Hill": {
+        "Shakhtar Donetsk": 3.5,
+        "Sporting Lisbon": 1.95,
+        "Draw": 3.6
+      },
+      "Pinnacle": {
+        "Shakhtar Donetsk": 3.66,
+        "Sporting Lisbon": 2.02,
+        "Draw": 3.8
+      },
+      "Matchbook": {
+        "Shakhtar Donetsk": 3.7,
+        "Sporting Lisbon": 2.1,
+        "Draw": 3.85
+      },
+      "BetOnline.ag": {
+        "Shakhtar Donetsk": 3.63,
+        "Sporting Lisbon": 2.01,
+        "Draw": 3.82
+      },
+      "BetAnything": {
+        "Shakhtar Donetsk": 3.63,
+        "Sporting Lisbon": 2.01,
+        "Draw": 3.82
+      }
+    },
+    "0f9d7f44240788cb669e5b0c5e046b87:h2h": {
+      "1xBet": {
+        "Alavés": 1.02,
+        "Anaitasuna": 32.0,
+        "Draw": 15.5
+      },
+      "Winamax (DE)": {
+        "Alavés": 1.01,
+        "Anaitasuna": 25.0,
+        "Draw": 15.0
+      },
+      "Codere (IT)": {
+        "Alavés": 1.03,
+        "Anaitasuna": 40.0,
+        "Draw": 13.0
+      },
+      "888sport": {
+        "Alavés": 1.04,
+        "Anaitasuna": 36.0,
+        "Draw": 15.0
+      },
+      "William Hill": {
+        "Alavés": 1.04,
+        "Anaitasuna": 36.0,
+        "Draw": 15.0
+      },
+      "Betfair": {
+        "Alavés": 1.06,
+        "Anaitasuna": 50.0,
+        "Draw": 16.0
+      },
+      "Unibet (SE)": {
+        "Alavés": 1.03,
+        "Anaitasuna": 31.0,
+        "Draw": 20.0
+      }
+    },
+    "f7363863fa63e9c319bfde5390986826:h2h": {
+      "Pinnacle": {
+        "CD Pamplona": 9.47,
+        "SD Eibar": 1.2,
+        "Draw": 5.21
+      },
+      "1xBet": {
+        "CD Pamplona": 12.5,
+        "SD Eibar": 1.24,
+        "Draw": 5.45
+      },
+      "Winamax (DE)": {
+        "CD Pamplona": 10.5,
+        "SD Eibar": 1.19,
+        "Draw": 6.0
+      },
+      "LeoVegas (SE)": {
+        "CD Pamplona": 10.5,
+        "SD Eibar": 1.22,
+        "Draw": 5.2
+      },
+      "Unibet (SE)": {
+        "CD Pamplona": 10.5,
+        "SD Eibar": 1.22,
+        "Draw": 5.2
+      },
+      "Tipico": {
+        "CD Pamplona": 13.0,
+        "SD Eibar": 1.13,
+        "Draw": 5.5
+      },
+      "Codere (IT)": {
+        "CD Pamplona": 13.0,
+        "SD Eibar": 1.22,
+        "Draw": 5.8
+      },
+      "William Hill": {
+        "CD Pamplona": 12.0,
+        "SD Eibar": 1.22,
+        "Draw": 5.0
+      },
+      "888sport": {
+        "CD Pamplona": 12.0,
+        "SD Eibar": 1.22,
+        "Draw": 5.0
+      },
+      "Betfair": {
+        "CD Pamplona": 19.5,
+        "SD Eibar": 1.25,
+        "Draw": 5.7
       }
     }
   },
@@ -5549,16 +5579,111 @@
       "confidence": 5,
       "alert_type": "value",
       "alerted_at": "2026-11-02T23:27:09.188100+00:00"
+    },
+    {
+      "state_key": "f7363863fa63e9c319bfde5390986826:h2h",
+      "event_id": "f7363863fa63e9c319bfde5390986826",
+      "sport_key": "soccer",
+      "competition": "Copa del Rey",
+      "home_team": "CD Pamplona",
+      "away_team": "SD Eibar",
+      "commence_time": "2026-11-03T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "CD Pamplona",
+      "odds_at_alert": 12.5,
+      "stake_pct": 5.0,
+      "confidence": 17,
+      "alert_type": "value",
+      "alerted_at": "2026-11-03T06:37:59.539109+00:00"
+    },
+    {
+      "state_key": "f7363863fa63e9c319bfde5390986826:h2h",
+      "event_id": "f7363863fa63e9c319bfde5390986826",
+      "sport_key": "soccer",
+      "competition": "Copa del Rey",
+      "home_team": "CD Pamplona",
+      "away_team": "SD Eibar",
+      "commence_time": "2026-11-03T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "CD Pamplona",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 21,
+      "alert_type": "value",
+      "alerted_at": "2026-11-03T06:37:59.909039+00:00"
+    },
+    {
+      "state_key": "f7363863fa63e9c319bfde5390986826:h2h",
+      "event_id": "f7363863fa63e9c319bfde5390986826",
+      "sport_key": "soccer",
+      "competition": "Copa del Rey",
+      "home_team": "CD Pamplona",
+      "away_team": "SD Eibar",
+      "commence_time": "2026-11-03T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "CD Pamplona",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 21,
+      "alert_type": "value",
+      "alerted_at": "2026-11-03T06:38:00.293716+00:00"
+    },
+    {
+      "state_key": "f7363863fa63e9c319bfde5390986826:h2h",
+      "event_id": "f7363863fa63e9c319bfde5390986826",
+      "sport_key": "soccer",
+      "competition": "Copa del Rey",
+      "home_team": "CD Pamplona",
+      "away_team": "SD Eibar",
+      "commence_time": "2026-11-03T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "CD Pamplona",
+      "odds_at_alert": 12.0,
+      "stake_pct": 3.0,
+      "confidence": 12,
+      "alert_type": "value",
+      "alerted_at": "2026-11-03T06:38:00.715591+00:00"
+    },
+    {
+      "state_key": "f7363863fa63e9c319bfde5390986826:h2h",
+      "event_id": "f7363863fa63e9c319bfde5390986826",
+      "sport_key": "soccer",
+      "competition": "Copa del Rey",
+      "home_team": "CD Pamplona",
+      "away_team": "SD Eibar",
+      "commence_time": "2026-11-03T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "CD Pamplona",
+      "odds_at_alert": 12.0,
+      "stake_pct": 3.0,
+      "confidence": 12,
+      "alert_type": "value",
+      "alerted_at": "2026-11-03T06:38:01.113547+00:00"
+    },
+    {
+      "state_key": "f7363863fa63e9c319bfde5390986826:h2h",
+      "event_id": "f7363863fa63e9c319bfde5390986826",
+      "sport_key": "soccer",
+      "competition": "Copa del Rey",
+      "home_team": "CD Pamplona",
+      "away_team": "SD Eibar",
+      "commence_time": "2026-11-03T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "CD Pamplona",
+      "odds_at_alert": 19.5,
+      "stake_pct": 5.0,
+      "confidence": 82,
+      "alert_type": "value",
+      "alerted_at": "2026-11-03T06:38:01.485001+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "5bab6fa1aa508d533a40f86e0b82605e:h2h|Betfair|Draw",
-    "5bab6fa1aa508d533a40f86e0b82605e:h2h|LeoVegas (SE)|Santos",
-    "5bab6fa1aa508d533a40f86e0b82605e:h2h|Matchbook|Draw",
-    "5bab6fa1aa508d533a40f86e0b82605e:h2h|PMU (FR)|Santos",
-    "5bab6fa1aa508d533a40f86e0b82605e:h2h|Unibet (NL)|Santos",
-    "5bab6fa1aa508d533a40f86e0b82605e:h2h|Unibet (SE)|Draw",
-    "5bab6fa1aa508d533a40f86e0b82605e:h2h|Unibet (SE)|Santos"
+    "f7363863fa63e9c319bfde5390986826:h2h|1xBet|CD Pamplona",
+    "f7363863fa63e9c319bfde5390986826:h2h|888sport|CD Pamplona",
+    "f7363863fa63e9c319bfde5390986826:h2h|Betfair|CD Pamplona",
+    "f7363863fa63e9c319bfde5390986826:h2h|Codere (IT)|CD Pamplona",
+    "f7363863fa63e9c319bfde5390986826:h2h|Tipico|CD Pamplona",
+    "f7363863fa63e9c319bfde5390986826:h2h|William Hill|CD Pamplona"
   ]
 }
