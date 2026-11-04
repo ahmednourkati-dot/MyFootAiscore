@@ -1,341 +1,164 @@
 {
   "snapshots": {
-    "29ebc4d234c1c6e86ebea07ab9174818:h2h": {
-      "Pinnacle": {
-        "Olympiakos Piraeus": 3.19,
-        "Rennes": 2.27,
-        "Draw": 3.6
-      },
-      "Codere (IT)": {
-        "Olympiakos Piraeus": 3.1,
-        "Rennes": 2.28,
-        "Draw": 3.45
-      },
-      "Unibet (FR)": {
-        "Olympiakos Piraeus": 2.85,
-        "Rennes": 2.05,
-        "Draw": 3.3
-      },
-      "Winamax (DE)": {
-        "Olympiakos Piraeus": 2.95,
-        "Rennes": 2.2,
-        "Draw": 3.55
-      },
-      "Winamax (FR)": {
-        "Olympiakos Piraeus": 2.85,
-        "Rennes": 2.15,
-        "Draw": 3.45
-      },
-      "Marathon Bet": {
-        "Olympiakos Piraeus": 3.14,
-        "Rennes": 2.22,
-        "Draw": 3.62
-      },
-      "Betclic (FR)": {
-        "Olympiakos Piraeus": 2.92,
-        "Rennes": 2.08,
-        "Draw": 3.37
-      },
-      "1xBet": {
-        "Olympiakos Piraeus": 3.18,
-        "Rennes": 2.25,
-        "Draw": 3.67
-      },
-      "Unibet (SE)": {
-        "Olympiakos Piraeus": 3.2,
-        "Rennes": 2.28,
-        "Draw": 3.55
+    "47523374e8d8cdd5b43677e358317587:h2h": {
+      "LeoVegas (SE)": {
+        "Cardiff City": 23.0,
+        "West Ham United": 10.5,
+        "Draw": 1.01
       },
       "PMU (FR)": {
-        "Olympiakos Piraeus": 2.88,
-        "Rennes": 2.08,
-        "Draw": 3.2
-      },
-      "LeoVegas (SE)": {
-        "Olympiakos Piraeus": 3.05,
-        "Rennes": 2.2,
-        "Draw": 3.35
+        "Cardiff City": 16.0,
+        "West Ham United": 8.0,
+        "Draw": 1.03
       },
       "Unibet (NL)": {
-        "Olympiakos Piraeus": 3.2,
-        "Rennes": 2.28,
-        "Draw": 3.55
+        "Cardiff City": 20.0,
+        "West Ham United": 20.0,
+        "Draw": 1.03
       },
-      "Betfair": {
-        "Olympiakos Piraeus": 3.35,
-        "Rennes": 2.28,
-        "Draw": 3.75
-      },
-      "Betsson": {
-        "Olympiakos Piraeus": 3.05,
-        "Rennes": 2.28,
-        "Draw": 3.5
-      },
-      "Nordic Bet": {
-        "Olympiakos Piraeus": 3.1,
-        "Rennes": 2.3,
-        "Draw": 3.55
-      },
-      "Matchbook": {
-        "Olympiakos Piraeus": 3.35,
-        "Rennes": 2.28,
-        "Draw": 3.75
-      },
-      "Coolbet": {
-        "Olympiakos Piraeus": 3.1,
-        "Rennes": 2.25,
-        "Draw": 3.6
-      },
-      "BetOnline.ag": {
-        "Olympiakos Piraeus": 3.16,
-        "Rennes": 2.27,
-        "Draw": 3.6
-      },
-      "888sport": {
-        "Olympiakos Piraeus": 3.0,
-        "Rennes": 2.2,
-        "Draw": 3.3
-      },
-      "William Hill": {
-        "Olympiakos Piraeus": 3.0,
-        "Rennes": 2.2,
-        "Draw": 3.3
-      }
-    },
-    "f43ef699c987e112e115f7035114854e:h2h": {
-      "Unibet (FR)": {
-        "AEK Athens": 10.0,
-        "Real Madrid": 1.15,
-        "Draw": 7.5
-      },
-      "Betclic (FR)": {
-        "AEK Athens": 10.0,
-        "Real Madrid": 1.18,
-        "Draw": 7.0
+      "Unibet (SE)": {
+        "Cardiff City": 20.0,
+        "West Ham United": 20.0,
+        "Draw": 1.03
       },
       "Winamax (DE)": {
-        "AEK Athens": 9.0,
-        "Real Madrid": 1.2,
-        "Draw": 7.25
-      },
-      "Winamax (FR)": {
-        "AEK Athens": 8.5,
-        "Real Madrid": 1.18,
-        "Draw": 6.5
-      },
-      "Marathon Bet": {
-        "AEK Athens": 10.75,
-        "Real Madrid": 1.25,
-        "Draw": 7.2
-      },
-      "1xBet": {
-        "AEK Athens": 12.4,
-        "Real Madrid": 1.24,
-        "Draw": 7.8
-      },
-      "Betfair": {
-        "AEK Athens": 14.0,
-        "Real Madrid": 1.24,
-        "Draw": 7.8
-      },
-      "GTbets": {
-        "AEK Athens": 11.43,
-        "Real Madrid": 1.23,
-        "Draw": 7.21
-      },
-      "Betsson": {
-        "AEK Athens": 11.5,
-        "Real Madrid": 1.21,
-        "Draw": 7.3
-      },
-      "Nordic Bet": {
-        "AEK Athens": 12.0,
-        "Real Madrid": 1.22,
-        "Draw": 7.4
-      },
-      "LeoVegas (SE)": {
-        "AEK Athens": 12.5,
-        "Real Madrid": 1.18,
-        "Draw": 7.5
-      },
-      "PMU (FR)": {
-        "AEK Athens": 11.0,
-        "Real Madrid": 1.15,
-        "Draw": 6.75
-      },
-      "Unibet (NL)": {
-        "AEK Athens": 14.0,
-        "Real Madrid": 1.2,
-        "Draw": 8.0
-      },
-      "Unibet (SE)": {
-        "AEK Athens": 14.0,
-        "Real Madrid": 1.21,
-        "Draw": 8.0
-      },
-      "888sport": {
-        "AEK Athens": 10.0,
-        "Real Madrid": 1.2,
-        "Draw": 6.5
-      },
-      "William Hill": {
-        "AEK Athens": 10.0,
-        "Real Madrid": 1.2,
-        "Draw": 6.5
-      },
-      "Pinnacle": {
-        "AEK Athens": 10.86,
-        "Real Madrid": 1.23,
-        "Draw": 7.37
-      },
-      "Coolbet": {
-        "AEK Athens": 14.0,
-        "Real Madrid": 1.22,
-        "Draw": 7.65
-      },
-      "Codere (IT)": {
-        "AEK Athens": 11.0,
-        "Real Madrid": 1.23,
-        "Draw": 7.0
-      },
-      "Matchbook": {
-        "AEK Athens": 13.5,
-        "Real Madrid": 1.24,
-        "Draw": 7.8
-      },
-      "BetOnline.ag": {
-        "AEK Athens": 12.0,
-        "Real Madrid": 1.22,
-        "Draw": 7.7
-      },
-      "BetAnything": {
-        "AEK Athens": 10.79,
-        "Real Madrid": 1.23,
-        "Draw": 7.4
-      }
-    },
-    "e901dbcdd6e2255fb24d84032b9d437a:h2h": {
-      "Winamax (FR)": {
-        "Fenerbahce": 5.2,
-        "Liverpool": 1.39,
-        "Draw": 4.9
+        "Cardiff City": 15.0,
+        "West Ham United": 11.5,
+        "Draw": 1.08
       },
       "Unibet (FR)": {
-        "Fenerbahce": 5.3,
-        "Liverpool": 1.36,
-        "Draw": 4.6
+        "Cardiff City": 15.5,
+        "West Ham United": 5.7,
+        "Draw": 1.03
       },
-      "Winamax (DE)": {
-        "Fenerbahce": 5.5,
-        "Liverpool": 1.43,
-        "Draw": 5.2
-      },
-      "Coolbet": {
-        "Fenerbahce": 6.25,
-        "Liverpool": 1.51,
-        "Draw": 5.05
+      "Winamax (FR)": {
+        "Cardiff City": 23.0,
+        "West Ham United": 14.0,
+        "Draw": 1.07
       },
       "Betclic (FR)": {
-        "Fenerbahce": 5.75,
-        "Liverpool": 1.4,
-        "Draw": 4.95
+        "Cardiff City": 11.0,
+        "West Ham United": 8.5,
+        "Draw": 1.08
       },
-      "1xBet": {
-        "Fenerbahce": 6.35,
-        "Liverpool": 1.5,
-        "Draw": 5.18
-      },
-      "Marathon Bet": {
-        "Fenerbahce": 6.25,
-        "Liverpool": 1.48,
-        "Draw": 5.1
-      },
-      "Betsson": {
-        "Fenerbahce": 6.8,
-        "Liverpool": 1.4,
-        "Draw": 5.15
-      },
-      "Nordic Bet": {
-        "Fenerbahce": 7.0,
-        "Liverpool": 1.42,
-        "Draw": 5.25
-      },
-      "888sport": {
-        "Fenerbahce": 5.75,
-        "Liverpool": 1.44,
-        "Draw": 4.6
+      "Coolbet": {
+        "Cardiff City": 16.0,
+        "West Ham United": 12.5,
+        "Draw": 1.11
       },
       "Betfair": {
-        "Fenerbahce": 7.0,
-        "Liverpool": 1.48,
-        "Draw": 5.3
+        "Cardiff City": 44.0,
+        "West Ham United": 28.0,
+        "Draw": 1.04
       },
-      "William Hill": {
-        "Fenerbahce": 5.8,
-        "Liverpool": 1.44,
-        "Draw": 4.6
+      "Marathon Bet": {
+        "Cardiff City": 17.75,
+        "West Ham United": 12.25,
+        "Draw": 1.06
       },
-      "LeoVegas (SE)": {
-        "Fenerbahce": 6.1,
-        "Liverpool": 1.43,
-        "Draw": 4.9
+      "Betsson": {
+        "Cardiff City": 16.0,
+        "West Ham United": 10.5,
+        "Draw": 1.06
       },
-      "Unibet (NL)": {
-        "Fenerbahce": 6.5,
-        "Liverpool": 1.45,
-        "Draw": 5.25
-      },
-      "PMU (FR)": {
-        "Fenerbahce": 5.6,
-        "Liverpool": 1.38,
-        "Draw": 4.6
-      },
-      "Unibet (SE)": {
-        "Fenerbahce": 6.5,
-        "Liverpool": 1.47,
-        "Draw": 5.25
-      },
-      "GTbets": {
-        "Fenerbahce": 5.78,
-        "Liverpool": 1.51,
-        "Draw": 5.04
+      "Nordic Bet": {
+        "Cardiff City": 14.0,
+        "West Ham United": 9.6,
+        "Draw": 1.08
       },
       "Pinnacle": {
-        "Fenerbahce": 6.64,
-        "Liverpool": 1.44,
-        "Draw": 5.23
+        "Cardiff City": 1.43,
+        "West Ham United": 12.66,
+        "Draw": 3.57
       },
-      "Codere (IT)": {
-        "Fenerbahce": 6.0,
-        "Liverpool": 1.46,
-        "Draw": 5.0
+      "888sport": {
+        "Cardiff City": 15.0,
+        "West Ham United": 8.0,
+        "Draw": 1.12
       },
-      "Matchbook": {
-        "Fenerbahce": 7.0,
-        "Liverpool": 1.48,
-        "Draw": 5.3
-      },
-      "BetOnline.ag": {
-        "Fenerbahce": 6.7,
-        "Liverpool": 1.43,
-        "Draw": 5.25
-      },
-      "BetAnything": {
-        "Fenerbahce": 6.7,
-        "Liverpool": 1.43,
-        "Draw": 5.25
+      "Tipico": {
+        "Cardiff City": 25.0,
+        "West Ham United": 8.0,
+        "Draw": 1.06
       }
     },
-    "618cada68f129deb888e940c08f2ad03:h2h": {
-      "LeoVegas (SE)": {
-        "Club Portugalete": 2.85,
-        "Real Unión": 2.25,
-        "Draw": 3.05
+    "e35b42924a5fe785a52709c4d17c14c2:h2h": {
+      "Betclic (FR)": {
+        "Middlesbrough": 95.0,
+        "Wrexham AFC": 1.01,
+        "Draw": 40.0
+      },
+      "Betsson": {
+        "Middlesbrough": 26.0,
+        "Wrexham AFC": 1.0,
+        "Draw": 26.0
+      },
+      "Nordic Bet": {
+        "Middlesbrough": 26.0,
+        "Wrexham AFC": 1.0,
+        "Draw": 26.0
+      },
+      "Pinnacle": {
+        "Middlesbrough": 29.71,
+        "Wrexham AFC": 1.23,
+        "Draw": 4.97
+      }
+    },
+    "a5910ae3b314876faea7f5c03b8aeaad:h2h": {
+      "Winamax (DE)": {
+        "Arsenal": 1.03,
+        "Slavia Praha": 200.0,
+        "Draw": 16.0
+      },
+      "Betclic (FR)": {
+        "Arsenal": 1.0,
+        "Slavia Praha": 100.0,
+        "Draw": 75.0
+      },
+      "Coolbet": {
+        "Arsenal": 1.03,
+        "Slavia Praha": 150.0,
+        "Draw": 17.25
+      },
+      "Winamax (FR)": {
+        "Arsenal": 1.02,
+        "Slavia Praha": 110.0,
+        "Draw": 11.5
+      },
+      "Marathon Bet": {
+        "Arsenal": 1.01,
+        "Slavia Praha": 151.0,
+        "Draw": 18.25
+      },
+      "Betsson": {
+        "Arsenal": 1.03,
+        "Slavia Praha": 100.0,
+        "Draw": 12.0
+      },
+      "Nordic Bet": {
+        "Arsenal": 1.02,
+        "Slavia Praha": 130.0,
+        "Draw": 13.0
+      },
+      "Betfair": {
+        "Arsenal": 1.04,
+        "Slavia Praha": 19.0,
+        "Draw": 21.0
+      },
+      "Unibet (NL)": {
+        "Arsenal": 1.02,
+        "Slavia Praha": 251.0,
+        "Draw": 20.0
       },
       "Unibet (SE)": {
-        "Club Portugalete": 2.85,
-        "Real Unión": 2.25,
-        "Draw": 3.05
+        "Arsenal": 1.02,
+        "Slavia Praha": 251.0,
+        "Draw": 20.0
+      },
+      "888sport": {
+        "Arsenal": 1.03,
+        "Slavia Praha": 151.0,
+        "Draw": 15.0
       }
     }
   },
@@ -5908,18 +5731,383 @@
       "confidence": 6,
       "alert_type": "value",
       "alerted_at": "2026-11-04T06:05:35.461422+00:00"
+    },
+    {
+      "state_key": "47523374e8d8cdd5b43677e358317587:h2h",
+      "event_id": "47523374e8d8cdd5b43677e358317587",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Cardiff City",
+      "away_team": "West Ham United",
+      "commence_time": "2026-11-04T19:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cardiff City",
+      "odds_at_alert": 23.0,
+      "stake_pct": 5.0,
+      "confidence": 1420,
+      "alert_type": "value",
+      "alerted_at": "2026-11-04T21:49:42.890265+00:00"
+    },
+    {
+      "state_key": "47523374e8d8cdd5b43677e358317587:h2h",
+      "event_id": "47523374e8d8cdd5b43677e358317587",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Cardiff City",
+      "away_team": "West Ham United",
+      "commence_time": "2026-11-04T19:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cardiff City",
+      "odds_at_alert": 16.0,
+      "stake_pct": 5.0,
+      "confidence": 957,
+      "alert_type": "value",
+      "alerted_at": "2026-11-04T21:49:43.354182+00:00"
+    },
+    {
+      "state_key": "47523374e8d8cdd5b43677e358317587:h2h",
+      "event_id": "47523374e8d8cdd5b43677e358317587",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Cardiff City",
+      "away_team": "West Ham United",
+      "commence_time": "2026-11-04T19:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cardiff City",
+      "odds_at_alert": 20.0,
+      "stake_pct": 5.0,
+      "confidence": 1221,
+      "alert_type": "value",
+      "alerted_at": "2026-11-04T21:49:43.789736+00:00"
+    },
+    {
+      "state_key": "47523374e8d8cdd5b43677e358317587:h2h",
+      "event_id": "47523374e8d8cdd5b43677e358317587",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Cardiff City",
+      "away_team": "West Ham United",
+      "commence_time": "2026-11-04T19:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "West Ham United",
+      "odds_at_alert": 20.0,
+      "stake_pct": 5.0,
+      "confidence": 49,
+      "alert_type": "value",
+      "alerted_at": "2026-11-04T21:49:44.217549+00:00"
+    },
+    {
+      "state_key": "47523374e8d8cdd5b43677e358317587:h2h",
+      "event_id": "47523374e8d8cdd5b43677e358317587",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Cardiff City",
+      "away_team": "West Ham United",
+      "commence_time": "2026-11-04T19:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cardiff City",
+      "odds_at_alert": 20.0,
+      "stake_pct": 5.0,
+      "confidence": 1221,
+      "alert_type": "value",
+      "alerted_at": "2026-11-04T21:49:44.683514+00:00"
+    },
+    {
+      "state_key": "47523374e8d8cdd5b43677e358317587:h2h",
+      "event_id": "47523374e8d8cdd5b43677e358317587",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Cardiff City",
+      "away_team": "West Ham United",
+      "commence_time": "2026-11-04T19:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "West Ham United",
+      "odds_at_alert": 20.0,
+      "stake_pct": 5.0,
+      "confidence": 49,
+      "alert_type": "value",
+      "alerted_at": "2026-11-04T21:49:45.122451+00:00"
+    },
+    {
+      "state_key": "47523374e8d8cdd5b43677e358317587:h2h",
+      "event_id": "47523374e8d8cdd5b43677e358317587",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Cardiff City",
+      "away_team": "West Ham United",
+      "commence_time": "2026-11-04T19:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cardiff City",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 891,
+      "alert_type": "value",
+      "alerted_at": "2026-11-04T21:49:45.551277+00:00"
+    },
+    {
+      "state_key": "47523374e8d8cdd5b43677e358317587:h2h",
+      "event_id": "47523374e8d8cdd5b43677e358317587",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Cardiff City",
+      "away_team": "West Ham United",
+      "commence_time": "2026-11-04T19:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cardiff City",
+      "odds_at_alert": 15.5,
+      "stake_pct": 5.0,
+      "confidence": 924,
+      "alert_type": "value",
+      "alerted_at": "2026-11-04T21:49:45.977973+00:00"
+    },
+    {
+      "state_key": "47523374e8d8cdd5b43677e358317587:h2h",
+      "event_id": "47523374e8d8cdd5b43677e358317587",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Cardiff City",
+      "away_team": "West Ham United",
+      "commence_time": "2026-11-04T19:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cardiff City",
+      "odds_at_alert": 23.0,
+      "stake_pct": 5.0,
+      "confidence": 1420,
+      "alert_type": "value",
+      "alerted_at": "2026-11-04T21:49:46.447325+00:00"
+    },
+    {
+      "state_key": "47523374e8d8cdd5b43677e358317587:h2h",
+      "event_id": "47523374e8d8cdd5b43677e358317587",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Cardiff City",
+      "away_team": "West Ham United",
+      "commence_time": "2026-11-04T19:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cardiff City",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 627,
+      "alert_type": "value",
+      "alerted_at": "2026-11-04T21:49:46.909702+00:00"
+    },
+    {
+      "state_key": "47523374e8d8cdd5b43677e358317587:h2h",
+      "event_id": "47523374e8d8cdd5b43677e358317587",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Cardiff City",
+      "away_team": "West Ham United",
+      "commence_time": "2026-11-04T19:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cardiff City",
+      "odds_at_alert": 16.0,
+      "stake_pct": 5.0,
+      "confidence": 957,
+      "alert_type": "value",
+      "alerted_at": "2026-11-04T21:49:47.400358+00:00"
+    },
+    {
+      "state_key": "47523374e8d8cdd5b43677e358317587:h2h",
+      "event_id": "47523374e8d8cdd5b43677e358317587",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Cardiff City",
+      "away_team": "West Ham United",
+      "commence_time": "2026-11-04T19:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cardiff City",
+      "odds_at_alert": 44.0,
+      "stake_pct": 5.0,
+      "confidence": 2807,
+      "alert_type": "value",
+      "alerted_at": "2026-11-04T21:49:47.825390+00:00"
+    },
+    {
+      "state_key": "47523374e8d8cdd5b43677e358317587:h2h",
+      "event_id": "47523374e8d8cdd5b43677e358317587",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Cardiff City",
+      "away_team": "West Ham United",
+      "commence_time": "2026-11-04T19:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "West Ham United",
+      "odds_at_alert": 28.0,
+      "stake_pct": 5.0,
+      "confidence": 109,
+      "alert_type": "value",
+      "alerted_at": "2026-11-04T21:49:48.286706+00:00"
+    },
+    {
+      "state_key": "47523374e8d8cdd5b43677e358317587:h2h",
+      "event_id": "47523374e8d8cdd5b43677e358317587",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Cardiff City",
+      "away_team": "West Ham United",
+      "commence_time": "2026-11-04T19:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cardiff City",
+      "odds_at_alert": 17.75,
+      "stake_pct": 5.0,
+      "confidence": 1073,
+      "alert_type": "value",
+      "alerted_at": "2026-11-04T21:49:48.723826+00:00"
+    },
+    {
+      "state_key": "47523374e8d8cdd5b43677e358317587:h2h",
+      "event_id": "47523374e8d8cdd5b43677e358317587",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Cardiff City",
+      "away_team": "West Ham United",
+      "commence_time": "2026-11-04T19:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cardiff City",
+      "odds_at_alert": 16.0,
+      "stake_pct": 5.0,
+      "confidence": 957,
+      "alert_type": "value",
+      "alerted_at": "2026-11-04T21:49:49.188941+00:00"
+    },
+    {
+      "state_key": "47523374e8d8cdd5b43677e358317587:h2h",
+      "event_id": "47523374e8d8cdd5b43677e358317587",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Cardiff City",
+      "away_team": "West Ham United",
+      "commence_time": "2026-11-04T19:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cardiff City",
+      "odds_at_alert": 14.0,
+      "stake_pct": 5.0,
+      "confidence": 825,
+      "alert_type": "value",
+      "alerted_at": "2026-11-04T21:49:49.626414+00:00"
+    },
+    {
+      "state_key": "47523374e8d8cdd5b43677e358317587:h2h",
+      "event_id": "47523374e8d8cdd5b43677e358317587",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Cardiff City",
+      "away_team": "West Ham United",
+      "commence_time": "2026-11-04T19:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cardiff City",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 891,
+      "alert_type": "value",
+      "alerted_at": "2026-11-04T21:49:50.055961+00:00"
+    },
+    {
+      "state_key": "47523374e8d8cdd5b43677e358317587:h2h",
+      "event_id": "47523374e8d8cdd5b43677e358317587",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Cardiff City",
+      "away_team": "West Ham United",
+      "commence_time": "2026-11-04T19:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Cardiff City",
+      "odds_at_alert": 25.0,
+      "stake_pct": 5.0,
+      "confidence": 1552,
+      "alert_type": "value",
+      "alerted_at": "2026-11-04T21:49:50.487076+00:00"
+    },
+    {
+      "state_key": "e35b42924a5fe785a52709c4d17c14c2:h2h",
+      "event_id": "e35b42924a5fe785a52709c4d17c14c2",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Wrexham AFC",
+      "away_team": "Middlesbrough",
+      "commence_time": "2026-11-04T19:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Middlesbrough",
+      "odds_at_alert": 95.0,
+      "stake_pct": 5.0,
+      "confidence": 205,
+      "alert_type": "value",
+      "alerted_at": "2026-11-04T21:49:50.927408+00:00"
+    },
+    {
+      "state_key": "e35b42924a5fe785a52709c4d17c14c2:h2h",
+      "event_id": "e35b42924a5fe785a52709c4d17c14c2",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Wrexham AFC",
+      "away_team": "Middlesbrough",
+      "commence_time": "2026-11-04T19:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 40.0,
+      "stake_pct": 5.0,
+      "confidence": 668,
+      "alert_type": "value",
+      "alerted_at": "2026-11-04T21:49:51.450731+00:00"
+    },
+    {
+      "state_key": "e35b42924a5fe785a52709c4d17c14c2:h2h",
+      "event_id": "e35b42924a5fe785a52709c4d17c14c2",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Wrexham AFC",
+      "away_team": "Middlesbrough",
+      "commence_time": "2026-11-04T19:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 399,
+      "alert_type": "value",
+      "alerted_at": "2026-11-04T21:49:51.897562+00:00"
+    },
+    {
+      "state_key": "e35b42924a5fe785a52709c4d17c14c2:h2h",
+      "event_id": "e35b42924a5fe785a52709c4d17c14c2",
+      "sport_key": "soccer",
+      "competition": "Championship",
+      "home_team": "Wrexham AFC",
+      "away_team": "Middlesbrough",
+      "commence_time": "2026-11-04T19:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 399,
+      "alert_type": "value",
+      "alerted_at": "2026-11-04T21:49:52.326148+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "f43ef699c987e112e115f7035114854e:h2h|1xBet|AEK Athens",
-    "f43ef699c987e112e115f7035114854e:h2h|BetOnline.ag|AEK Athens",
-    "f43ef699c987e112e115f7035114854e:h2h|Betfair|AEK Athens",
-    "f43ef699c987e112e115f7035114854e:h2h|Coolbet|AEK Athens",
-    "f43ef699c987e112e115f7035114854e:h2h|LeoVegas (SE)|AEK Athens",
-    "f43ef699c987e112e115f7035114854e:h2h|Matchbook|AEK Athens",
-    "f43ef699c987e112e115f7035114854e:h2h|Nordic Bet|AEK Athens",
-    "f43ef699c987e112e115f7035114854e:h2h|Unibet (NL)|AEK Athens",
-    "f43ef699c987e112e115f7035114854e:h2h|Unibet (SE)|AEK Athens"
+    "47523374e8d8cdd5b43677e358317587:h2h|888sport|Cardiff City",
+    "47523374e8d8cdd5b43677e358317587:h2h|Betclic (FR)|Cardiff City",
+    "47523374e8d8cdd5b43677e358317587:h2h|Betfair|Cardiff City",
+    "47523374e8d8cdd5b43677e358317587:h2h|Betfair|West Ham United",
+    "47523374e8d8cdd5b43677e358317587:h2h|Betsson|Cardiff City",
+    "47523374e8d8cdd5b43677e358317587:h2h|Coolbet|Cardiff City",
+    "47523374e8d8cdd5b43677e358317587:h2h|LeoVegas (SE)|Cardiff City",
+    "47523374e8d8cdd5b43677e358317587:h2h|Marathon Bet|Cardiff City",
+    "47523374e8d8cdd5b43677e358317587:h2h|Nordic Bet|Cardiff City",
+    "47523374e8d8cdd5b43677e358317587:h2h|PMU (FR)|Cardiff City",
+    "47523374e8d8cdd5b43677e358317587:h2h|Tipico|Cardiff City",
+    "47523374e8d8cdd5b43677e358317587:h2h|Unibet (FR)|Cardiff City",
+    "47523374e8d8cdd5b43677e358317587:h2h|Unibet (NL)|Cardiff City",
+    "47523374e8d8cdd5b43677e358317587:h2h|Unibet (NL)|West Ham United",
+    "47523374e8d8cdd5b43677e358317587:h2h|Unibet (SE)|Cardiff City",
+    "47523374e8d8cdd5b43677e358317587:h2h|Unibet (SE)|West Ham United",
+    "47523374e8d8cdd5b43677e358317587:h2h|Winamax (DE)|Cardiff City",
+    "47523374e8d8cdd5b43677e358317587:h2h|Winamax (FR)|Cardiff City",
+    "e35b42924a5fe785a52709c4d17c14c2:h2h|Betclic (FR)|Draw",
+    "e35b42924a5fe785a52709c4d17c14c2:h2h|Betclic (FR)|Middlesbrough",
+    "e35b42924a5fe785a52709c4d17c14c2:h2h|Betsson|Draw",
+    "e35b42924a5fe785a52709c4d17c14c2:h2h|Nordic Bet|Draw"
   ]
 }
