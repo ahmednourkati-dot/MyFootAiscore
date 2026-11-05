@@ -1,361 +1,276 @@
 {
   "snapshots": {
-    "cb7170b1b0e68a09be62b7a0fcb8d268:h2h": {
-      "Winamax (DE)": {
-        "AC Milan": 1.3,
-        "Ferencváros TC": 7.75,
-        "Draw": 5.7
-      },
-      "Winamax (FR)": {
-        "AC Milan": 1.22,
-        "Ferencváros TC": 7.5,
-        "Draw": 5.5
+    "35d4f8b2b7ec249fd22afd235c31ef2d:h2h": {
+      "Nordic Bet": {
+        "AS Monaco": 1.14,
+        "FC Nordsjaelland": 17.5,
+        "Draw": 5.8
       },
       "Betclic (FR)": {
-        "AC Milan": 1.23,
-        "Ferencváros TC": 7.5,
-        "Draw": 5.5
-      },
-      "Unibet (FR)": {
-        "AC Milan": 1.22,
-        "Ferencváros TC": 7.5,
-        "Draw": 5.1
-      },
-      "1xBet": {
-        "AC Milan": 1.35,
-        "Ferencváros TC": 9.3,
-        "Draw": 5.45
-      },
-      "Pinnacle": {
-        "AC Milan": 1.34,
-        "Ferencváros TC": 8.87,
-        "Draw": 5.74
-      },
-      "Betsson": {
-        "AC Milan": 1.31,
-        "Ferencváros TC": 8.8,
-        "Draw": 5.75
-      },
-      "Marathon Bet": {
-        "AC Milan": 1.35,
-        "Ferencváros TC": 9.3,
-        "Draw": 5.45
-      },
-      "Nordic Bet": {
-        "AC Milan": 1.32,
-        "Ferencváros TC": 9.0,
-        "Draw": 5.8
-      },
-      "Betfair": {
-        "AC Milan": 1.35,
-        "Ferencváros TC": 10.5,
-        "Draw": 6.0
-      },
-      "888sport": {
-        "AC Milan": 1.3,
-        "Ferencváros TC": 8.0,
-        "Draw": 5.0
-      },
-      "William Hill": {
-        "AC Milan": 1.3,
-        "Ferencváros TC": 8.0,
-        "Draw": 5.0
+        "AS Monaco": 1.11,
+        "FC Nordsjaelland": 14.75,
+        "Draw": 4.65
       },
       "LeoVegas (SE)": {
-        "AC Milan": 1.3,
-        "Ferencváros TC": 8.5,
-        "Draw": 5.3
+        "AS Monaco": 1.16,
+        "FC Nordsjaelland": 15.0,
+        "Draw": 5.4
+      },
+      "Betsson": {
+        "AS Monaco": 1.14,
+        "FC Nordsjaelland": 17.5,
+        "Draw": 5.8
       },
       "Unibet (NL)": {
-        "AC Milan": 1.34,
-        "Ferencváros TC": 10.0,
-        "Draw": 5.8
-      },
-      "PMU (FR)": {
-        "AC Milan": 1.24,
-        "Ferencváros TC": 8.0,
-        "Draw": 5.0
-      },
-      "Unibet (SE)": {
-        "AC Milan": 1.34,
-        "Ferencváros TC": 10.0,
-        "Draw": 5.8
-      },
-      "Codere (IT)": {
-        "AC Milan": 1.33,
-        "Ferencváros TC": 8.6,
+        "AS Monaco": 1.19,
+        "FC Nordsjaelland": 16.0,
         "Draw": 5.6
       },
-      "Matchbook": {
-        "AC Milan": 1.35,
-        "Ferencváros TC": 10.5,
+      "Marathon Bet": {
+        "AS Monaco": 1.12,
+        "FC Nordsjaelland": 18.25,
+        "Draw": 6.35
+      },
+      "Betfair": {
+        "AS Monaco": 1.21,
+        "FC Nordsjaelland": 26.0,
+        "Draw": 7.0
+      },
+      "Pinnacle": {
+        "AS Monaco": 1.18,
+        "FC Nordsjaelland": 21.5,
+        "Draw": 5.98
+      },
+      "888sport": {
+        "AS Monaco": 1.17,
+        "FC Nordsjaelland": 17.0,
         "Draw": 6.0
       },
       "Coolbet": {
-        "AC Milan": 1.33,
-        "Ferencváros TC": 9.5,
-        "Draw": 5.5
-      },
-      "BetOnline.ag": {
-        "AC Milan": 1.33,
-        "Ferencváros TC": 9.3,
-        "Draw": 5.65
-      }
-    },
-    "e2bb1ddf148879e8fc2aabaed0357eb9:h2h": {
-      "Nordic Bet": {
-        "AGF Aarhus": 4.3,
-        "SC Braga": 1.88,
-        "Draw": 3.5
-      },
-      "Betclic (FR)": {
-        "AGF Aarhus": 3.85,
-        "SC Braga": 1.79,
-        "Draw": 3.43
-      },
-      "LeoVegas (SE)": {
-        "AGF Aarhus": 3.85,
-        "SC Braga": 1.85,
-        "Draw": 3.3
-      },
-      "Unibet (FR)": {
-        "AGF Aarhus": 3.8,
-        "SC Braga": 1.69,
-        "Draw": 3.4
-      },
-      "1xBet": {
-        "AGF Aarhus": 4.25,
-        "SC Braga": 1.92,
-        "Draw": 3.56
-      },
-      "Betsson": {
-        "AGF Aarhus": 4.25,
-        "SC Braga": 1.85,
-        "Draw": 3.45
-      },
-      "Unibet (NL)": {
-        "AGF Aarhus": 4.2,
-        "SC Braga": 1.93,
-        "Draw": 3.55
-      },
-      "Marathon Bet": {
-        "AGF Aarhus": 4.1,
-        "SC Braga": 1.85,
-        "Draw": 3.44
-      },
-      "Betfair": {
-        "AGF Aarhus": 4.3,
-        "SC Braga": 1.98,
-        "Draw": 3.75
-      },
-      "Pinnacle": {
-        "AGF Aarhus": 4.36,
-        "SC Braga": 1.88,
-        "Draw": 3.6
-      },
-      "William Hill": {
-        "AGF Aarhus": 4.0,
-        "SC Braga": 1.85,
-        "Draw": 3.3
-      },
-      "888sport": {
-        "AGF Aarhus": 4.0,
-        "SC Braga": 1.85,
-        "Draw": 3.3
-      },
-      "Coolbet": {
-        "AGF Aarhus": 4.0,
-        "SC Braga": 1.87,
-        "Draw": 3.75
-      },
-      "BetOnline.ag": {
-        "AGF Aarhus": 4.3,
-        "SC Braga": 1.86,
-        "Draw": 3.57
+        "AS Monaco": 1.18,
+        "FC Nordsjaelland": 22.0,
+        "Draw": 6.5
       },
       "Matchbook": {
-        "AGF Aarhus": 4.3,
-        "SC Braga": 1.98,
-        "Draw": 3.75
+        "AS Monaco": 1.21,
+        "FC Nordsjaelland": 26.0,
+        "Draw": 7.0
       }
     },
-    "6d5c68c79565ce4d215e25592e18ce5e:h2h": {
-      "Nordic Bet": {
-        "Ajax": 2.22,
-        "FC Midtjylland": 2.95,
-        "Draw": 3.6
-      },
-      "Betclic (FR)": {
-        "Ajax": 2.05,
-        "FC Midtjylland": 2.85,
-        "Draw": 3.7
-      },
-      "LeoVegas (SE)": {
-        "Ajax": 2.1,
-        "FC Midtjylland": 2.85,
-        "Draw": 3.6
-      },
-      "Unibet (FR)": {
-        "Ajax": 1.92,
-        "FC Midtjylland": 2.8,
-        "Draw": 3.7
-      },
-      "1xBet": {
-        "Ajax": 2.29,
-        "FC Midtjylland": 2.92,
-        "Draw": 3.88
-      },
-      "Betsson": {
-        "Ajax": 2.22,
-        "FC Midtjylland": 2.95,
-        "Draw": 3.6
-      },
-      "Unibet (NL)": {
-        "Ajax": 2.23,
-        "FC Midtjylland": 3.05,
-        "Draw": 3.95
-      },
-      "Marathon Bet": {
-        "Ajax": 2.21,
-        "FC Midtjylland": 2.81,
-        "Draw": 3.74
-      },
-      "Betfair": {
-        "Ajax": 2.32,
-        "FC Midtjylland": 3.05,
-        "Draw": 4.0
-      },
+    "c91f4c9744f6ca502b7986a564e858df:h2h": {
       "Pinnacle": {
-        "Ajax": 2.21,
-        "FC Midtjylland": 2.95,
-        "Draw": 4.08
+        "AZ Alkmaar": 41.69,
+        "Juventus": 1.07,
+        "Draw": 11.8
       },
-      "William Hill": {
-        "Ajax": 2.15,
-        "FC Midtjylland": 2.8,
-        "Draw": 3.6
-      },
-      "888sport": {
-        "Ajax": 2.15,
-        "FC Midtjylland": 2.8,
-        "Draw": 3.7
-      },
-      "Coolbet": {
-        "Ajax": 2.25,
-        "FC Midtjylland": 2.9,
-        "Draw": 3.95
-      },
-      "BetOnline.ag": {
-        "Ajax": 2.2,
-        "FC Midtjylland": 2.9,
-        "Draw": 4.0
-      },
-      "Matchbook": {
-        "Ajax": 2.32,
-        "FC Midtjylland": 3.05,
-        "Draw": 4.0
-      }
-    },
-    "9604c5b1c465435911e038db95ab2a7b:h2h": {
       "Winamax (DE)": {
-        "Anderlecht": 1.96,
-        "Salzburg": 3.3,
-        "Draw": 3.85
+        "AZ Alkmaar": 32.0,
+        "Juventus": 1.07,
+        "Draw": 11.0
       },
       "Winamax (FR)": {
-        "Anderlecht": 1.88,
-        "Salzburg": 3.15,
-        "Draw": 3.6
-      },
-      "Betclic (FR)": {
-        "Anderlecht": 1.88,
-        "Salzburg": 3.3,
-        "Draw": 3.63
-      },
-      "1xBet": {
-        "Anderlecht": 1.99,
-        "Salzburg": 3.67,
-        "Draw": 3.9
-      },
-      "Unibet (FR)": {
-        "Anderlecht": 1.78,
-        "Salzburg": 3.2,
-        "Draw": 3.6
-      },
-      "Pinnacle": {
-        "Anderlecht": 2.01,
-        "Salzburg": 3.6,
-        "Draw": 3.9
-      },
-      "Betsson": {
-        "Anderlecht": 2.0,
-        "Salzburg": 3.6,
-        "Draw": 3.65
-      },
-      "Marathon Bet": {
-        "Anderlecht": 1.96,
-        "Salzburg": 3.62,
-        "Draw": 3.85
+        "AZ Alkmaar": 30.0,
+        "Juventus": 1.03,
+        "Draw": 9.5
       },
       "Nordic Bet": {
-        "Anderlecht": 2.02,
-        "Salzburg": 3.65,
-        "Draw": 3.7
+        "AZ Alkmaar": 30.0,
+        "Juventus": 1.04,
+        "Draw": 10.5
       },
-      "Betfair": {
-        "Anderlecht": 2.06,
-        "Salzburg": 3.7,
-        "Draw": 3.95
+      "Marathon Bet": {
+        "AZ Alkmaar": 31.0,
+        "Juventus": 1.04,
+        "Draw": 11.5
       },
       "888sport": {
-        "Anderlecht": 1.91,
-        "Salzburg": 3.5,
-        "Draw": 3.6
+        "AZ Alkmaar": 29.0,
+        "Juventus": 1.06,
+        "Draw": 10.0
       },
-      "William Hill": {
-        "Anderlecht": 1.91,
-        "Salzburg": 3.4,
-        "Draw": 3.6
+      "Betfair": {
+        "AZ Alkmaar": 55.0,
+        "Juventus": 1.1,
+        "Draw": 13.0
+      },
+      "Betclic (FR)": {
+        "AZ Alkmaar": 19.0,
+        "Juventus": 1.04,
+        "Draw": 9.0
       },
       "LeoVegas (SE)": {
-        "Anderlecht": 2.0,
-        "Salzburg": 3.3,
-        "Draw": 3.55
+        "AZ Alkmaar": 31.0,
+        "Juventus": 1.04,
+        "Draw": 10.5
       },
       "Unibet (NL)": {
-        "Anderlecht": 2.1,
-        "Salzburg": 3.5,
-        "Draw": 3.85
+        "AZ Alkmaar": 31.0,
+        "Juventus": 1.06,
+        "Draw": 11.5
       },
       "PMU (FR)": {
-        "Anderlecht": 1.91,
-        "Salzburg": 3.1,
-        "Draw": 3.35
+        "AZ Alkmaar": 30.0,
+        "Juventus": 1.01,
+        "Draw": 10.5
       },
       "Unibet (SE)": {
-        "Anderlecht": 2.1,
-        "Salzburg": 3.5,
-        "Draw": 3.85
-      },
-      "Codere (IT)": {
-        "Anderlecht": 2.03,
-        "Salzburg": 3.5,
-        "Draw": 3.7
+        "AZ Alkmaar": 31.0,
+        "Juventus": 1.06,
+        "Draw": 11.5
       },
       "Matchbook": {
-        "Anderlecht": 2.06,
-        "Salzburg": 3.7,
-        "Draw": 3.95
+        "AZ Alkmaar": 55.0,
+        "Juventus": 1.09,
+        "Draw": 12.5
       },
       "Coolbet": {
-        "Anderlecht": 2.0,
-        "Salzburg": 3.6,
-        "Draw": 3.85
+        "AZ Alkmaar": 45.0,
+        "Juventus": 1.07,
+        "Draw": 12.0
+      }
+    },
+    "e1c3625feeebcd65317e17a4e9a38c4f:h2h": {
+      "Winamax (FR)": {
+        "Bayer Leverkusen": 1.54,
+        "Marseille": 6.25,
+        "Draw": 2.7
       },
-      "BetOnline.ag": {
-        "Anderlecht": 2.0,
-        "Salzburg": 3.64,
-        "Draw": 3.85
+      "Winamax (DE)": {
+        "Bayer Leverkusen": 1.64,
+        "Marseille": 6.75,
+        "Draw": 3.05
+      },
+      "Pinnacle": {
+        "Bayer Leverkusen": 1.65,
+        "Marseille": 7.08,
+        "Draw": 3.16
+      },
+      "Nordic Bet": {
+        "Bayer Leverkusen": 1.62,
+        "Marseille": 7.2,
+        "Draw": 3.05
+      },
+      "Marathon Bet": {
+        "Bayer Leverkusen": 1.62,
+        "Marseille": 6.85,
+        "Draw": 3.18
+      },
+      "888sport": {
+        "Bayer Leverkusen": 1.57,
+        "Marseille": 5.75,
+        "Draw": 3.4
+      },
+      "Betfair": {
+        "Bayer Leverkusen": 1.71,
+        "Marseille": 7.6,
+        "Draw": 3.45
+      },
+      "Betclic (FR)": {
+        "Bayer Leverkusen": 1.65,
+        "Marseille": 4.9,
+        "Draw": 2.85
+      },
+      "LeoVegas (SE)": {
+        "Bayer Leverkusen": 1.66,
+        "Marseille": 6.1,
+        "Draw": 3.2
+      },
+      "Unibet (NL)": {
+        "Bayer Leverkusen": 1.66,
+        "Marseille": 6.1,
+        "Draw": 3.2
+      },
+      "PMU (FR)": {
+        "Bayer Leverkusen": 1.56,
+        "Marseille": 5.6,
+        "Draw": 3.05
+      },
+      "Unibet (SE)": {
+        "Bayer Leverkusen": 1.66,
+        "Marseille": 6.1,
+        "Draw": 3.2
+      },
+      "Matchbook": {
+        "Bayer Leverkusen": 1.73,
+        "Marseille": 7.4,
+        "Draw": 3.45
+      },
+      "Coolbet": {
+        "Bayer Leverkusen": 1.65,
+        "Marseille": 8.0,
+        "Draw": 3.2
+      }
+    },
+    "bc4a4cc34a2219d9564b7b0c17ba2934:h2h": {
+      "Pinnacle": {
+        "Benfica": 1.1,
+        "Lech Poznań": 37.87,
+        "Draw": 8.87
+      },
+      "Nordic Bet": {
+        "Benfica": 1.07,
+        "Lech Poznań": 26.0,
+        "Draw": 8.6
+      },
+      "Marathon Bet": {
+        "Benfica": 1.07,
+        "Lech Poznań": 29.0,
+        "Draw": 8.9
+      },
+      "Winamax (DE)": {
+        "Benfica": 1.08,
+        "Lech Poznań": 30.0,
+        "Draw": 9.5
+      },
+      "Winamax (FR)": {
+        "Benfica": 1.04,
+        "Lech Poznań": 28.0,
+        "Draw": 8.5
+      },
+      "888sport": {
+        "Benfica": 1.08,
+        "Lech Poznań": 29.0,
+        "Draw": 9.0
+      },
+      "Betfair": {
+        "Benfica": 1.12,
+        "Lech Poznań": 42.0,
+        "Draw": 11.0
+      },
+      "Betclic (FR)": {
+        "Benfica": 1.06,
+        "Lech Poznań": 16.0,
+        "Draw": 7.5
+      },
+      "LeoVegas (SE)": {
+        "Benfica": 1.07,
+        "Lech Poznań": 23.0,
+        "Draw": 10.5
+      },
+      "Unibet (NL)": {
+        "Benfica": 1.07,
+        "Lech Poznań": 23.0,
+        "Draw": 10.5
+      },
+      "PMU (FR)": {
+        "Benfica": 1.02,
+        "Lech Poznań": 23.0,
+        "Draw": 9.5
+      },
+      "Unibet (SE)": {
+        "Benfica": 1.07,
+        "Lech Poznań": 23.0,
+        "Draw": 10.5
+      },
+      "Matchbook": {
+        "Benfica": 1.12,
+        "Lech Poznań": 44.0,
+        "Draw": 11.0
+      },
+      "Coolbet": {
+        "Benfica": 1.09,
+        "Lech Poznań": 39.0,
+        "Draw": 10.25
       }
     }
   },
@@ -5576,18 +5491,281 @@
       "confidence": 12,
       "alert_type": "value",
       "alerted_at": "2026-11-05T02:19:12.392364+00:00"
+    },
+    {
+      "state_key": "35d4f8b2b7ec249fd22afd235c31ef2d:h2h",
+      "event_id": "35d4f8b2b7ec249fd22afd235c31ef2d",
+      "sport_key": "soccer",
+      "competition": "UEFA Europa Conference League",
+      "home_team": "AS Monaco",
+      "away_team": "FC Nordsjaelland",
+      "commence_time": "2026-11-05T20:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Nordsjaelland",
+      "odds_at_alert": 26.0,
+      "stake_pct": 3.0,
+      "confidence": 14,
+      "alert_type": "value",
+      "alerted_at": "2026-11-05T21:02:06.361624+00:00"
+    },
+    {
+      "state_key": "35d4f8b2b7ec249fd22afd235c31ef2d:h2h",
+      "event_id": "35d4f8b2b7ec249fd22afd235c31ef2d",
+      "sport_key": "soccer",
+      "competition": "UEFA Europa Conference League",
+      "home_team": "AS Monaco",
+      "away_team": "FC Nordsjaelland",
+      "commence_time": "2026-11-05T20:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 7.0,
+      "stake_pct": 3.0,
+      "confidence": 10,
+      "alert_type": "value",
+      "alerted_at": "2026-11-05T21:02:06.757507+00:00"
+    },
+    {
+      "state_key": "35d4f8b2b7ec249fd22afd235c31ef2d:h2h",
+      "event_id": "35d4f8b2b7ec249fd22afd235c31ef2d",
+      "sport_key": "soccer",
+      "competition": "UEFA Europa Conference League",
+      "home_team": "AS Monaco",
+      "away_team": "FC Nordsjaelland",
+      "commence_time": "2026-11-05T20:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Nordsjaelland",
+      "odds_at_alert": 26.0,
+      "stake_pct": 3.0,
+      "confidence": 14,
+      "alert_type": "value",
+      "alerted_at": "2026-11-05T21:02:07.109444+00:00"
+    },
+    {
+      "state_key": "35d4f8b2b7ec249fd22afd235c31ef2d:h2h",
+      "event_id": "35d4f8b2b7ec249fd22afd235c31ef2d",
+      "sport_key": "soccer",
+      "competition": "UEFA Europa Conference League",
+      "home_team": "AS Monaco",
+      "away_team": "FC Nordsjaelland",
+      "commence_time": "2026-11-05T20:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 7.0,
+      "stake_pct": 3.0,
+      "confidence": 10,
+      "alert_type": "value",
+      "alerted_at": "2026-11-05T21:02:07.520785+00:00"
+    },
+    {
+      "state_key": "c91f4c9744f6ca502b7986a564e858df:h2h",
+      "event_id": "c91f4c9744f6ca502b7986a564e858df",
+      "sport_key": "soccer",
+      "competition": "UEFA Europa League",
+      "home_team": "AZ Alkmaar",
+      "away_team": "Juventus",
+      "commence_time": "2026-11-05T20:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "AZ Alkmaar",
+      "odds_at_alert": 55.0,
+      "stake_pct": 5.0,
+      "confidence": 26,
+      "alert_type": "value",
+      "alerted_at": "2026-11-05T21:02:07.924874+00:00"
+    },
+    {
+      "state_key": "c91f4c9744f6ca502b7986a564e858df:h2h",
+      "event_id": "c91f4c9744f6ca502b7986a564e858df",
+      "sport_key": "soccer",
+      "competition": "UEFA Europa League",
+      "home_team": "AZ Alkmaar",
+      "away_team": "Juventus",
+      "commence_time": "2026-11-05T20:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 13.0,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-11-05T21:02:08.289295+00:00"
+    },
+    {
+      "state_key": "c91f4c9744f6ca502b7986a564e858df:h2h",
+      "event_id": "c91f4c9744f6ca502b7986a564e858df",
+      "sport_key": "soccer",
+      "competition": "UEFA Europa League",
+      "home_team": "AZ Alkmaar",
+      "away_team": "Juventus",
+      "commence_time": "2026-11-05T20:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "AZ Alkmaar",
+      "odds_at_alert": 55.0,
+      "stake_pct": 5.0,
+      "confidence": 26,
+      "alert_type": "value",
+      "alerted_at": "2026-11-05T21:02:08.654208+00:00"
+    },
+    {
+      "state_key": "e1c3625feeebcd65317e17a4e9a38c4f:h2h",
+      "event_id": "e1c3625feeebcd65317e17a4e9a38c4f",
+      "sport_key": "soccer",
+      "competition": "UEFA Europa League",
+      "home_team": "Bayer Leverkusen",
+      "away_team": "Marseille",
+      "commence_time": "2026-11-05T20:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Marseille",
+      "odds_at_alert": 8.0,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-11-05T21:02:09.073954+00:00"
+    },
+    {
+      "state_key": "bc4a4cc34a2219d9564b7b0c17ba2934:h2h",
+      "event_id": "bc4a4cc34a2219d9564b7b0c17ba2934",
+      "sport_key": "soccer",
+      "competition": "UEFA Europa League",
+      "home_team": "Benfica",
+      "away_team": "Lech Poznań",
+      "commence_time": "2026-11-05T20:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Lech Poznań",
+      "odds_at_alert": 42.0,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-11-05T21:02:09.449492+00:00"
+    },
+    {
+      "state_key": "bc4a4cc34a2219d9564b7b0c17ba2934:h2h",
+      "event_id": "bc4a4cc34a2219d9564b7b0c17ba2934",
+      "sport_key": "soccer",
+      "competition": "UEFA Europa League",
+      "home_team": "Benfica",
+      "away_team": "Lech Poznań",
+      "commence_time": "2026-11-05T20:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 18,
+      "alert_type": "value",
+      "alerted_at": "2026-11-05T21:02:09.814797+00:00"
+    },
+    {
+      "state_key": "bc4a4cc34a2219d9564b7b0c17ba2934:h2h",
+      "event_id": "bc4a4cc34a2219d9564b7b0c17ba2934",
+      "sport_key": "soccer",
+      "competition": "UEFA Europa League",
+      "home_team": "Benfica",
+      "away_team": "Lech Poznań",
+      "commence_time": "2026-11-05T20:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 10.5,
+      "stake_pct": 3.0,
+      "confidence": 13,
+      "alert_type": "value",
+      "alerted_at": "2026-11-05T21:02:10.200999+00:00"
+    },
+    {
+      "state_key": "bc4a4cc34a2219d9564b7b0c17ba2934:h2h",
+      "event_id": "bc4a4cc34a2219d9564b7b0c17ba2934",
+      "sport_key": "soccer",
+      "competition": "UEFA Europa League",
+      "home_team": "Benfica",
+      "away_team": "Lech Poznań",
+      "commence_time": "2026-11-05T20:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 10.5,
+      "stake_pct": 3.0,
+      "confidence": 13,
+      "alert_type": "value",
+      "alerted_at": "2026-11-05T21:02:10.570719+00:00"
+    },
+    {
+      "state_key": "bc4a4cc34a2219d9564b7b0c17ba2934:h2h",
+      "event_id": "bc4a4cc34a2219d9564b7b0c17ba2934",
+      "sport_key": "soccer",
+      "competition": "UEFA Europa League",
+      "home_team": "Benfica",
+      "away_team": "Lech Poznań",
+      "commence_time": "2026-11-05T20:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 10.5,
+      "stake_pct": 3.0,
+      "confidence": 13,
+      "alert_type": "value",
+      "alerted_at": "2026-11-05T21:02:10.953712+00:00"
+    },
+    {
+      "state_key": "bc4a4cc34a2219d9564b7b0c17ba2934:h2h",
+      "event_id": "bc4a4cc34a2219d9564b7b0c17ba2934",
+      "sport_key": "soccer",
+      "competition": "UEFA Europa League",
+      "home_team": "Benfica",
+      "away_team": "Lech Poznań",
+      "commence_time": "2026-11-05T20:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Lech Poznań",
+      "odds_at_alert": 44.0,
+      "stake_pct": 3.0,
+      "confidence": 11,
+      "alert_type": "value",
+      "alerted_at": "2026-11-05T21:02:11.318587+00:00"
+    },
+    {
+      "state_key": "bc4a4cc34a2219d9564b7b0c17ba2934:h2h",
+      "event_id": "bc4a4cc34a2219d9564b7b0c17ba2934",
+      "sport_key": "soccer",
+      "competition": "UEFA Europa League",
+      "home_team": "Benfica",
+      "away_team": "Lech Poznań",
+      "commence_time": "2026-11-05T20:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 18,
+      "alert_type": "value",
+      "alerted_at": "2026-11-05T21:02:11.739957+00:00"
+    },
+    {
+      "state_key": "bc4a4cc34a2219d9564b7b0c17ba2934:h2h",
+      "event_id": "bc4a4cc34a2219d9564b7b0c17ba2934",
+      "sport_key": "soccer",
+      "competition": "UEFA Europa League",
+      "home_team": "Benfica",
+      "away_team": "Lech Poznań",
+      "commence_time": "2026-11-05T20:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 10.25,
+      "stake_pct": 3.0,
+      "confidence": 10,
+      "alert_type": "value",
+      "alerted_at": "2026-11-05T21:02:12.107206+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "cb7170b1b0e68a09be62b7a0fcb8d268:h2h|1xBet|Ferencváros TC",
-    "cb7170b1b0e68a09be62b7a0fcb8d268:h2h|Betfair|Ferencváros TC",
-    "cb7170b1b0e68a09be62b7a0fcb8d268:h2h|Betsson|Ferencváros TC",
-    "cb7170b1b0e68a09be62b7a0fcb8d268:h2h|Coolbet|Ferencváros TC",
-    "cb7170b1b0e68a09be62b7a0fcb8d268:h2h|Marathon Bet|Ferencváros TC",
-    "cb7170b1b0e68a09be62b7a0fcb8d268:h2h|Matchbook|Ferencváros TC",
-    "cb7170b1b0e68a09be62b7a0fcb8d268:h2h|Nordic Bet|Ferencváros TC",
-    "cb7170b1b0e68a09be62b7a0fcb8d268:h2h|Unibet (NL)|Ferencváros TC",
-    "cb7170b1b0e68a09be62b7a0fcb8d268:h2h|Unibet (SE)|Ferencváros TC"
+    "35d4f8b2b7ec249fd22afd235c31ef2d:h2h|Betfair|Draw",
+    "35d4f8b2b7ec249fd22afd235c31ef2d:h2h|Betfair|FC Nordsjaelland",
+    "35d4f8b2b7ec249fd22afd235c31ef2d:h2h|Matchbook|Draw",
+    "35d4f8b2b7ec249fd22afd235c31ef2d:h2h|Matchbook|FC Nordsjaelland",
+    "bc4a4cc34a2219d9564b7b0c17ba2934:h2h|Betfair|Draw",
+    "bc4a4cc34a2219d9564b7b0c17ba2934:h2h|Betfair|Lech Poznań",
+    "bc4a4cc34a2219d9564b7b0c17ba2934:h2h|Coolbet|Draw",
+    "bc4a4cc34a2219d9564b7b0c17ba2934:h2h|LeoVegas (SE)|Draw",
+    "bc4a4cc34a2219d9564b7b0c17ba2934:h2h|Matchbook|Draw",
+    "bc4a4cc34a2219d9564b7b0c17ba2934:h2h|Matchbook|Lech Poznań",
+    "bc4a4cc34a2219d9564b7b0c17ba2934:h2h|Unibet (NL)|Draw",
+    "bc4a4cc34a2219d9564b7b0c17ba2934:h2h|Unibet (SE)|Draw",
+    "c91f4c9744f6ca502b7986a564e858df:h2h|Betfair|AZ Alkmaar",
+    "c91f4c9744f6ca502b7986a564e858df:h2h|Betfair|Draw",
+    "c91f4c9744f6ca502b7986a564e858df:h2h|Matchbook|AZ Alkmaar",
+    "e1c3625feeebcd65317e17a4e9a38c4f:h2h|Coolbet|Marseille"
   ]
 }
