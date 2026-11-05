@@ -1,164 +1,346 @@
 {
   "snapshots": {
-    "47523374e8d8cdd5b43677e358317587:h2h": {
-      "LeoVegas (SE)": {
-        "Cardiff City": 23.0,
-        "West Ham United": 10.5,
-        "Draw": 1.01
-      },
-      "PMU (FR)": {
-        "Cardiff City": 16.0,
-        "West Ham United": 8.0,
-        "Draw": 1.03
-      },
-      "Unibet (NL)": {
-        "Cardiff City": 20.0,
-        "West Ham United": 20.0,
-        "Draw": 1.03
-      },
-      "Unibet (SE)": {
-        "Cardiff City": 20.0,
-        "West Ham United": 20.0,
-        "Draw": 1.03
-      },
-      "Winamax (DE)": {
-        "Cardiff City": 15.0,
-        "West Ham United": 11.5,
-        "Draw": 1.08
+    "e766824cd38eb33865f45b707c35467e:h2h": {
+      "Marathon Bet": {
+        "Atletico Mineiro": 43.0,
+        "Botafogo": 1.1,
+        "Draw": 7.0
       },
       "Unibet (FR)": {
-        "Cardiff City": 15.5,
-        "West Ham United": 5.7,
-        "Draw": 1.03
+        "Atletico Mineiro": 65.0,
+        "Botafogo": 1.04,
+        "Draw": 4.25
       },
       "Winamax (FR)": {
-        "Cardiff City": 23.0,
-        "West Ham United": 14.0,
-        "Draw": 1.07
-      },
-      "Betclic (FR)": {
-        "Cardiff City": 11.0,
-        "West Ham United": 8.5,
-        "Draw": 1.08
-      },
-      "Coolbet": {
-        "Cardiff City": 16.0,
-        "West Ham United": 12.5,
-        "Draw": 1.11
-      },
-      "Betfair": {
-        "Cardiff City": 44.0,
-        "West Ham United": 28.0,
-        "Draw": 1.04
-      },
-      "Marathon Bet": {
-        "Cardiff City": 17.75,
-        "West Ham United": 12.25,
-        "Draw": 1.06
-      },
-      "Betsson": {
-        "Cardiff City": 16.0,
-        "West Ham United": 10.5,
-        "Draw": 1.06
-      },
-      "Nordic Bet": {
-        "Cardiff City": 14.0,
-        "West Ham United": 9.6,
-        "Draw": 1.08
-      },
-      "Pinnacle": {
-        "Cardiff City": 1.43,
-        "West Ham United": 12.66,
-        "Draw": 3.57
+        "Atletico Mineiro": 60.0,
+        "Botafogo": 1.05,
+        "Draw": 6.5
       },
       "888sport": {
-        "Cardiff City": 15.0,
-        "West Ham United": 8.0,
-        "Draw": 1.12
+        "Atletico Mineiro": 81.0,
+        "Botafogo": 1.06,
+        "Draw": 8.5
       },
-      "Tipico": {
-        "Cardiff City": 25.0,
-        "West Ham United": 8.0,
-        "Draw": 1.06
-      }
-    },
-    "e35b42924a5fe785a52709c4d17c14c2:h2h": {
-      "Betclic (FR)": {
-        "Middlesbrough": 95.0,
-        "Wrexham AFC": 1.01,
-        "Draw": 40.0
-      },
-      "Betsson": {
-        "Middlesbrough": 26.0,
-        "Wrexham AFC": 1.0,
-        "Draw": 26.0
-      },
-      "Nordic Bet": {
-        "Middlesbrough": 26.0,
-        "Wrexham AFC": 1.0,
-        "Draw": 26.0
-      },
-      "Pinnacle": {
-        "Middlesbrough": 29.71,
-        "Wrexham AFC": 1.23,
-        "Draw": 4.97
-      }
-    },
-    "a5910ae3b314876faea7f5c03b8aeaad:h2h": {
       "Winamax (DE)": {
-        "Arsenal": 1.03,
-        "Slavia Praha": 200.0,
-        "Draw": 16.0
+        "Atletico Mineiro": 55.0,
+        "Botafogo": 1.08,
+        "Draw": 6.75
       },
       "Betclic (FR)": {
-        "Arsenal": 1.0,
-        "Slavia Praha": 100.0,
-        "Draw": 75.0
+        "Atletico Mineiro": 75.0,
+        "Botafogo": 1.06,
+        "Draw": 5.4
       },
-      "Coolbet": {
-        "Arsenal": 1.03,
-        "Slavia Praha": 150.0,
-        "Draw": 17.25
+      "MyBookie.ag": {
+        "Atletico Mineiro": 12.25,
+        "Botafogo": 1.1,
+        "Draw": 6.25
       },
-      "Winamax (FR)": {
-        "Arsenal": 1.02,
-        "Slavia Praha": 110.0,
-        "Draw": 11.5
-      },
-      "Marathon Bet": {
-        "Arsenal": 1.01,
-        "Slavia Praha": 151.0,
-        "Draw": 18.25
-      },
-      "Betsson": {
-        "Arsenal": 1.03,
-        "Slavia Praha": 100.0,
-        "Draw": 12.0
-      },
-      "Nordic Bet": {
-        "Arsenal": 1.02,
-        "Slavia Praha": 130.0,
-        "Draw": 13.0
-      },
-      "Betfair": {
-        "Arsenal": 1.04,
-        "Slavia Praha": 19.0,
-        "Draw": 21.0
-      },
-      "Unibet (NL)": {
-        "Arsenal": 1.02,
-        "Slavia Praha": 251.0,
-        "Draw": 20.0
+      "LeoVegas (SE)": {
+        "Atletico Mineiro": 76.0,
+        "Botafogo": 1.01,
+        "Draw": 10.5
       },
       "Unibet (SE)": {
-        "Arsenal": 1.02,
-        "Slavia Praha": 251.0,
-        "Draw": 20.0
+        "Atletico Mineiro": 121.0,
+        "Botafogo": 1.05,
+        "Draw": 10.0
+      },
+      "Betsson": {
+        "Atletico Mineiro": 55.0,
+        "Botafogo": 1.06,
+        "Draw": 7.2
+      },
+      "Nordic Bet": {
+        "Atletico Mineiro": 55.0,
+        "Botafogo": 1.06,
+        "Draw": 7.2
+      },
+      "Coolbet": {
+        "Atletico Mineiro": 66.0,
+        "Botafogo": 1.1,
+        "Draw": 7.0
+      },
+      "Tipico": {
+        "Atletico Mineiro": 45.0,
+        "Botafogo": 1.04,
+        "Draw": 8.0
+      },
+      "Betfair": {
+        "Atletico Mineiro": 150.0,
+        "Botafogo": 1.1,
+        "Draw": 10.0
+      }
+    },
+    "6e6ddd0046e27c40f5b67c96cc16d5fd:h2h": {
+      "Marathon Bet": {
+        "Corinthians": 10.25,
+        "Sao Paulo": 3.64,
+        "Draw": 1.42
+      },
+      "Unibet (FR)": {
+        "Corinthians": 7.75,
+        "Sao Paulo": 2.95,
+        "Draw": 1.35
+      },
+      "Winamax (FR)": {
+        "Corinthians": 9.0,
+        "Sao Paulo": 3.1,
+        "Draw": 1.35
       },
       "888sport": {
-        "Arsenal": 1.03,
-        "Slavia Praha": 151.0,
-        "Draw": 15.0
+        "Corinthians": 10.0,
+        "Sao Paulo": 3.3,
+        "Draw": 1.44
+      },
+      "Winamax (DE)": {
+        "Corinthians": 9.5,
+        "Sao Paulo": 3.25,
+        "Draw": 1.39
+      },
+      "Betclic (FR)": {
+        "Corinthians": 9.5,
+        "Sao Paulo": 3.25,
+        "Draw": 1.39
+      },
+      "MyBookie.ag": {
+        "Corinthians": 5.25,
+        "Sao Paulo": 3.95,
+        "Draw": 1.5
+      },
+      "Unibet (SE)": {
+        "Corinthians": 10.5,
+        "Sao Paulo": 4.35,
+        "Draw": 1.33
+      },
+      "LeoVegas (SE)": {
+        "Corinthians": 9.5,
+        "Sao Paulo": 4.5,
+        "Draw": 1.23
+      },
+      "PMU (FR)": {
+        "Corinthians": 9.5,
+        "Sao Paulo": 4.0,
+        "Draw": 1.24
+      },
+      "Unibet (NL)": {
+        "Corinthians": 10.0,
+        "Sao Paulo": 4.5,
+        "Draw": 1.25
+      },
+      "Betsson": {
+        "Corinthians": 10.5,
+        "Sao Paulo": 3.3,
+        "Draw": 1.43
+      },
+      "Nordic Bet": {
+        "Corinthians": 10.5,
+        "Sao Paulo": 3.3,
+        "Draw": 1.43
+      },
+      "Coolbet": {
+        "Corinthians": 11.0,
+        "Sao Paulo": 3.4,
+        "Draw": 1.44
+      },
+      "Matchbook": {
+        "Corinthians": 12.0,
+        "Sao Paulo": 3.8,
+        "Draw": 1.49
+      },
+      "Pinnacle": {
+        "Corinthians": 5.55,
+        "Sao Paulo": 4.1,
+        "Draw": 1.59
+      },
+      "Tipico": {
+        "Corinthians": 12.0,
+        "Sao Paulo": 3.0,
+        "Draw": 1.45
+      },
+      "Betfair": {
+        "Corinthians": 12.0,
+        "Sao Paulo": 3.65,
+        "Draw": 1.53
+      }
+    },
+    "cb7170b1b0e68a09be62b7a0fcb8d268:h2h": {
+      "Winamax (DE)": {
+        "AC Milan": 1.29,
+        "Ferencváros TC": 8.0,
+        "Draw": 5.5
+      },
+      "Winamax (FR)": {
+        "AC Milan": 1.27,
+        "Ferencváros TC": 7.5,
+        "Draw": 5.1
+      },
+      "Betclic (FR)": {
+        "AC Milan": 1.28,
+        "Ferencváros TC": 6.9,
+        "Draw": 4.7
+      },
+      "Unibet (FR)": {
+        "AC Milan": 1.23,
+        "Ferencváros TC": 7.4,
+        "Draw": 4.9
+      },
+      "1xBet": {
+        "AC Milan": 1.37,
+        "Ferencváros TC": 9.1,
+        "Draw": 5.2
+      },
+      "Pinnacle": {
+        "AC Milan": 1.32,
+        "Ferencváros TC": 7.07,
+        "Draw": 4.84
+      },
+      "Betsson": {
+        "AC Milan": 1.34,
+        "Ferencváros TC": 8.4,
+        "Draw": 5.3
+      },
+      "Marathon Bet": {
+        "AC Milan": 1.37,
+        "Ferencváros TC": 9.1,
+        "Draw": 5.2
+      },
+      "Nordic Bet": {
+        "AC Milan": 1.35,
+        "Ferencváros TC": 8.6,
+        "Draw": 5.4
+      },
+      "Betfair": {
+        "AC Milan": 1.39,
+        "Ferencváros TC": 10.0,
+        "Draw": 5.5
+      },
+      "888sport": {
+        "AC Milan": 1.33,
+        "Ferencváros TC": 8.0,
+        "Draw": 5.0
+      },
+      "William Hill": {
+        "AC Milan": 1.33,
+        "Ferencváros TC": 8.0,
+        "Draw": 5.0
+      },
+      "LeoVegas (SE)": {
+        "AC Milan": 1.32,
+        "Ferencváros TC": 8.0,
+        "Draw": 5.0
+      },
+      "Unibet (NL)": {
+        "AC Milan": 1.35,
+        "Ferencváros TC": 9.0,
+        "Draw": 5.4
+      },
+      "PMU (FR)": {
+        "AC Milan": 1.26,
+        "Ferencváros TC": 7.5,
+        "Draw": 4.7
+      },
+      "Unibet (SE)": {
+        "AC Milan": 1.35,
+        "Ferencváros TC": 9.0,
+        "Draw": 5.4
+      },
+      "Codere (IT)": {
+        "AC Milan": 1.36,
+        "Ferencváros TC": 8.2,
+        "Draw": 5.2
+      },
+      "Matchbook": {
+        "AC Milan": 1.39,
+        "Ferencváros TC": 10.0,
+        "Draw": 5.5
+      },
+      "Coolbet": {
+        "AC Milan": 1.37,
+        "Ferencváros TC": 8.75,
+        "Draw": 5.25
+      },
+      "BetOnline.ag": {
+        "AC Milan": 1.34,
+        "Ferencváros TC": 7.0,
+        "Draw": 4.75
+      }
+    },
+    "e2bb1ddf148879e8fc2aabaed0357eb9:h2h": {
+      "Nordic Bet": {
+        "AGF Aarhus": 3.7,
+        "SC Braga": 1.92,
+        "Draw": 3.4
+      },
+      "Betclic (FR)": {
+        "AGF Aarhus": 3.6,
+        "SC Braga": 1.79,
+        "Draw": 3.3
+      },
+      "LeoVegas (SE)": {
+        "AGF Aarhus": 3.8,
+        "SC Braga": 1.85,
+        "Draw": 3.3
+      },
+      "Unibet (FR)": {
+        "AGF Aarhus": 3.6,
+        "SC Braga": 1.78,
+        "Draw": 3.3
+      },
+      "1xBet": {
+        "AGF Aarhus": 3.88,
+        "SC Braga": 2.06,
+        "Draw": 3.42
+      },
+      "Betsson": {
+        "AGF Aarhus": 3.7,
+        "SC Braga": 1.92,
+        "Draw": 3.4
+      },
+      "Unibet (NL)": {
+        "AGF Aarhus": 4.1,
+        "SC Braga": 1.94,
+        "Draw": 3.55
+      },
+      "Marathon Bet": {
+        "AGF Aarhus": 3.74,
+        "SC Braga": 1.98,
+        "Draw": 3.3
+      },
+      "Betfair": {
+        "AGF Aarhus": 4.0,
+        "SC Braga": 2.1,
+        "Draw": 3.5
+      },
+      "Pinnacle": {
+        "AGF Aarhus": 4.03,
+        "SC Braga": 1.97,
+        "Draw": 3.46
+      },
+      "William Hill": {
+        "AGF Aarhus": 3.6,
+        "SC Braga": 1.95,
+        "Draw": 3.25
+      },
+      "888sport": {
+        "AGF Aarhus": 3.6,
+        "SC Braga": 1.95,
+        "Draw": 3.25
+      },
+      "Coolbet": {
+        "AGF Aarhus": 3.75,
+        "SC Braga": 2.0,
+        "Draw": 3.5
+      },
+      "BetOnline.ag": {
+        "AGF Aarhus": 3.92,
+        "SC Braga": 2.02,
+        "Draw": 3.33
+      },
+      "Matchbook": {
+        "AGF Aarhus": 4.0,
+        "SC Braga": 2.1,
+        "Draw": 3.5
       }
     }
   },
@@ -4979,31 +5161,434 @@
       "confidence": 399,
       "alert_type": "value",
       "alerted_at": "2026-11-04T21:49:52.326148+00:00"
+    },
+    {
+      "state_key": "6e6ddd0046e27c40f5b67c96cc16d5fd:h2h",
+      "event_id": "6e6ddd0046e27c40f5b67c96cc16d5fd",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Sao Paulo",
+      "away_team": "Corinthians",
+      "commence_time": "2026-11-05T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Corinthians",
+      "odds_at_alert": 10.25,
+      "stake_pct": 5.0,
+      "confidence": 75,
+      "alert_type": "value",
+      "alerted_at": "2026-11-05T02:19:04.222496+00:00"
+    },
+    {
+      "state_key": "6e6ddd0046e27c40f5b67c96cc16d5fd:h2h",
+      "event_id": "6e6ddd0046e27c40f5b67c96cc16d5fd",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Sao Paulo",
+      "away_team": "Corinthians",
+      "commence_time": "2026-11-05T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Corinthians",
+      "odds_at_alert": 7.75,
+      "stake_pct": 5.0,
+      "confidence": 33,
+      "alert_type": "value",
+      "alerted_at": "2026-11-05T02:19:04.563053+00:00"
+    },
+    {
+      "state_key": "6e6ddd0046e27c40f5b67c96cc16d5fd:h2h",
+      "event_id": "6e6ddd0046e27c40f5b67c96cc16d5fd",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Sao Paulo",
+      "away_team": "Corinthians",
+      "commence_time": "2026-11-05T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Corinthians",
+      "odds_at_alert": 9.0,
+      "stake_pct": 5.0,
+      "confidence": 54,
+      "alert_type": "value",
+      "alerted_at": "2026-11-05T02:19:04.898890+00:00"
+    },
+    {
+      "state_key": "6e6ddd0046e27c40f5b67c96cc16d5fd:h2h",
+      "event_id": "6e6ddd0046e27c40f5b67c96cc16d5fd",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Sao Paulo",
+      "away_team": "Corinthians",
+      "commence_time": "2026-11-05T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Corinthians",
+      "odds_at_alert": 10.0,
+      "stake_pct": 5.0,
+      "confidence": 71,
+      "alert_type": "value",
+      "alerted_at": "2026-11-05T02:19:05.233462+00:00"
+    },
+    {
+      "state_key": "6e6ddd0046e27c40f5b67c96cc16d5fd:h2h",
+      "event_id": "6e6ddd0046e27c40f5b67c96cc16d5fd",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Sao Paulo",
+      "away_team": "Corinthians",
+      "commence_time": "2026-11-05T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Corinthians",
+      "odds_at_alert": 9.5,
+      "stake_pct": 5.0,
+      "confidence": 63,
+      "alert_type": "value",
+      "alerted_at": "2026-11-05T02:19:05.574159+00:00"
+    },
+    {
+      "state_key": "6e6ddd0046e27c40f5b67c96cc16d5fd:h2h",
+      "event_id": "6e6ddd0046e27c40f5b67c96cc16d5fd",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Sao Paulo",
+      "away_team": "Corinthians",
+      "commence_time": "2026-11-05T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Corinthians",
+      "odds_at_alert": 9.5,
+      "stake_pct": 5.0,
+      "confidence": 63,
+      "alert_type": "value",
+      "alerted_at": "2026-11-05T02:19:05.906683+00:00"
+    },
+    {
+      "state_key": "6e6ddd0046e27c40f5b67c96cc16d5fd:h2h",
+      "event_id": "6e6ddd0046e27c40f5b67c96cc16d5fd",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Sao Paulo",
+      "away_team": "Corinthians",
+      "commence_time": "2026-11-05T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Corinthians",
+      "odds_at_alert": 10.5,
+      "stake_pct": 5.0,
+      "confidence": 80,
+      "alert_type": "value",
+      "alerted_at": "2026-11-05T02:19:06.236278+00:00"
+    },
+    {
+      "state_key": "6e6ddd0046e27c40f5b67c96cc16d5fd:h2h",
+      "event_id": "6e6ddd0046e27c40f5b67c96cc16d5fd",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Sao Paulo",
+      "away_team": "Corinthians",
+      "commence_time": "2026-11-05T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Corinthians",
+      "odds_at_alert": 9.5,
+      "stake_pct": 5.0,
+      "confidence": 63,
+      "alert_type": "value",
+      "alerted_at": "2026-11-05T02:19:06.562902+00:00"
+    },
+    {
+      "state_key": "6e6ddd0046e27c40f5b67c96cc16d5fd:h2h",
+      "event_id": "6e6ddd0046e27c40f5b67c96cc16d5fd",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Sao Paulo",
+      "away_team": "Corinthians",
+      "commence_time": "2026-11-05T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Corinthians",
+      "odds_at_alert": 9.5,
+      "stake_pct": 5.0,
+      "confidence": 63,
+      "alert_type": "value",
+      "alerted_at": "2026-11-05T02:19:06.895569+00:00"
+    },
+    {
+      "state_key": "6e6ddd0046e27c40f5b67c96cc16d5fd:h2h",
+      "event_id": "6e6ddd0046e27c40f5b67c96cc16d5fd",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Sao Paulo",
+      "away_team": "Corinthians",
+      "commence_time": "2026-11-05T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Corinthians",
+      "odds_at_alert": 10.0,
+      "stake_pct": 5.0,
+      "confidence": 71,
+      "alert_type": "value",
+      "alerted_at": "2026-11-05T02:19:07.241872+00:00"
+    },
+    {
+      "state_key": "6e6ddd0046e27c40f5b67c96cc16d5fd:h2h",
+      "event_id": "6e6ddd0046e27c40f5b67c96cc16d5fd",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Sao Paulo",
+      "away_team": "Corinthians",
+      "commence_time": "2026-11-05T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Corinthians",
+      "odds_at_alert": 10.5,
+      "stake_pct": 5.0,
+      "confidence": 80,
+      "alert_type": "value",
+      "alerted_at": "2026-11-05T02:19:07.576520+00:00"
+    },
+    {
+      "state_key": "6e6ddd0046e27c40f5b67c96cc16d5fd:h2h",
+      "event_id": "6e6ddd0046e27c40f5b67c96cc16d5fd",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Sao Paulo",
+      "away_team": "Corinthians",
+      "commence_time": "2026-11-05T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Corinthians",
+      "odds_at_alert": 10.5,
+      "stake_pct": 5.0,
+      "confidence": 80,
+      "alert_type": "value",
+      "alerted_at": "2026-11-05T02:19:07.902259+00:00"
+    },
+    {
+      "state_key": "6e6ddd0046e27c40f5b67c96cc16d5fd:h2h",
+      "event_id": "6e6ddd0046e27c40f5b67c96cc16d5fd",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Sao Paulo",
+      "away_team": "Corinthians",
+      "commence_time": "2026-11-05T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Corinthians",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 88,
+      "alert_type": "value",
+      "alerted_at": "2026-11-05T02:19:08.254843+00:00"
+    },
+    {
+      "state_key": "6e6ddd0046e27c40f5b67c96cc16d5fd:h2h",
+      "event_id": "6e6ddd0046e27c40f5b67c96cc16d5fd",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Sao Paulo",
+      "away_team": "Corinthians",
+      "commence_time": "2026-11-05T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Corinthians",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 105,
+      "alert_type": "value",
+      "alerted_at": "2026-11-05T02:19:08.581427+00:00"
+    },
+    {
+      "state_key": "6e6ddd0046e27c40f5b67c96cc16d5fd:h2h",
+      "event_id": "6e6ddd0046e27c40f5b67c96cc16d5fd",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Sao Paulo",
+      "away_team": "Corinthians",
+      "commence_time": "2026-11-05T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Corinthians",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 105,
+      "alert_type": "value",
+      "alerted_at": "2026-11-05T02:19:08.944459+00:00"
+    },
+    {
+      "state_key": "6e6ddd0046e27c40f5b67c96cc16d5fd:h2h",
+      "event_id": "6e6ddd0046e27c40f5b67c96cc16d5fd",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Sao Paulo",
+      "away_team": "Corinthians",
+      "commence_time": "2026-11-05T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Corinthians",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 105,
+      "alert_type": "value",
+      "alerted_at": "2026-11-05T02:19:09.314357+00:00"
+    },
+    {
+      "state_key": "cb7170b1b0e68a09be62b7a0fcb8d268:h2h",
+      "event_id": "cb7170b1b0e68a09be62b7a0fcb8d268",
+      "sport_key": "soccer",
+      "competition": "UEFA Europa League",
+      "home_team": "AC Milan",
+      "away_team": "Ferencváros TC",
+      "commence_time": "2026-11-05T17:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Ferencváros TC",
+      "odds_at_alert": 9.1,
+      "stake_pct": 5.0,
+      "confidence": 16,
+      "alert_type": "value",
+      "alerted_at": "2026-11-05T02:19:09.639433+00:00"
+    },
+    {
+      "state_key": "cb7170b1b0e68a09be62b7a0fcb8d268:h2h",
+      "event_id": "cb7170b1b0e68a09be62b7a0fcb8d268",
+      "sport_key": "soccer",
+      "competition": "UEFA Europa League",
+      "home_team": "AC Milan",
+      "away_team": "Ferencváros TC",
+      "commence_time": "2026-11-05T17:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Ferencváros TC",
+      "odds_at_alert": 8.4,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-11-05T02:19:09.971798+00:00"
+    },
+    {
+      "state_key": "cb7170b1b0e68a09be62b7a0fcb8d268:h2h",
+      "event_id": "cb7170b1b0e68a09be62b7a0fcb8d268",
+      "sport_key": "soccer",
+      "competition": "UEFA Europa League",
+      "home_team": "AC Milan",
+      "away_team": "Ferencváros TC",
+      "commence_time": "2026-11-05T17:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Ferencváros TC",
+      "odds_at_alert": 9.1,
+      "stake_pct": 5.0,
+      "confidence": 16,
+      "alert_type": "value",
+      "alerted_at": "2026-11-05T02:19:10.319087+00:00"
+    },
+    {
+      "state_key": "cb7170b1b0e68a09be62b7a0fcb8d268:h2h",
+      "event_id": "cb7170b1b0e68a09be62b7a0fcb8d268",
+      "sport_key": "soccer",
+      "competition": "UEFA Europa League",
+      "home_team": "AC Milan",
+      "away_team": "Ferencváros TC",
+      "commence_time": "2026-11-05T17:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Ferencváros TC",
+      "odds_at_alert": 8.6,
+      "stake_pct": 3.0,
+      "confidence": 10,
+      "alert_type": "value",
+      "alerted_at": "2026-11-05T02:19:10.652689+00:00"
+    },
+    {
+      "state_key": "cb7170b1b0e68a09be62b7a0fcb8d268:h2h",
+      "event_id": "cb7170b1b0e68a09be62b7a0fcb8d268",
+      "sport_key": "soccer",
+      "competition": "UEFA Europa League",
+      "home_team": "AC Milan",
+      "away_team": "Ferencváros TC",
+      "commence_time": "2026-11-05T17:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Ferencváros TC",
+      "odds_at_alert": 10.0,
+      "stake_pct": 5.0,
+      "confidence": 28,
+      "alert_type": "value",
+      "alerted_at": "2026-11-05T02:19:10.991122+00:00"
+    },
+    {
+      "state_key": "cb7170b1b0e68a09be62b7a0fcb8d268:h2h",
+      "event_id": "cb7170b1b0e68a09be62b7a0fcb8d268",
+      "sport_key": "soccer",
+      "competition": "UEFA Europa League",
+      "home_team": "AC Milan",
+      "away_team": "Ferencváros TC",
+      "commence_time": "2026-11-05T17:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Ferencváros TC",
+      "odds_at_alert": 9.0,
+      "stake_pct": 5.0,
+      "confidence": 15,
+      "alert_type": "value",
+      "alerted_at": "2026-11-05T02:19:11.343629+00:00"
+    },
+    {
+      "state_key": "cb7170b1b0e68a09be62b7a0fcb8d268:h2h",
+      "event_id": "cb7170b1b0e68a09be62b7a0fcb8d268",
+      "sport_key": "soccer",
+      "competition": "UEFA Europa League",
+      "home_team": "AC Milan",
+      "away_team": "Ferencváros TC",
+      "commence_time": "2026-11-05T17:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Ferencváros TC",
+      "odds_at_alert": 9.0,
+      "stake_pct": 5.0,
+      "confidence": 15,
+      "alert_type": "value",
+      "alerted_at": "2026-11-05T02:19:11.669115+00:00"
+    },
+    {
+      "state_key": "cb7170b1b0e68a09be62b7a0fcb8d268:h2h",
+      "event_id": "cb7170b1b0e68a09be62b7a0fcb8d268",
+      "sport_key": "soccer",
+      "competition": "UEFA Europa League",
+      "home_team": "AC Milan",
+      "away_team": "Ferencváros TC",
+      "commence_time": "2026-11-05T17:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Ferencváros TC",
+      "odds_at_alert": 10.0,
+      "stake_pct": 5.0,
+      "confidence": 28,
+      "alert_type": "value",
+      "alerted_at": "2026-11-05T02:19:12.067663+00:00"
+    },
+    {
+      "state_key": "cb7170b1b0e68a09be62b7a0fcb8d268:h2h",
+      "event_id": "cb7170b1b0e68a09be62b7a0fcb8d268",
+      "sport_key": "soccer",
+      "competition": "UEFA Europa League",
+      "home_team": "AC Milan",
+      "away_team": "Ferencváros TC",
+      "commence_time": "2026-11-05T17:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Ferencváros TC",
+      "odds_at_alert": 8.75,
+      "stake_pct": 3.0,
+      "confidence": 12,
+      "alert_type": "value",
+      "alerted_at": "2026-11-05T02:19:12.392364+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "47523374e8d8cdd5b43677e358317587:h2h|888sport|Cardiff City",
-    "47523374e8d8cdd5b43677e358317587:h2h|Betclic (FR)|Cardiff City",
-    "47523374e8d8cdd5b43677e358317587:h2h|Betfair|Cardiff City",
-    "47523374e8d8cdd5b43677e358317587:h2h|Betfair|West Ham United",
-    "47523374e8d8cdd5b43677e358317587:h2h|Betsson|Cardiff City",
-    "47523374e8d8cdd5b43677e358317587:h2h|Coolbet|Cardiff City",
-    "47523374e8d8cdd5b43677e358317587:h2h|LeoVegas (SE)|Cardiff City",
-    "47523374e8d8cdd5b43677e358317587:h2h|Marathon Bet|Cardiff City",
-    "47523374e8d8cdd5b43677e358317587:h2h|Nordic Bet|Cardiff City",
-    "47523374e8d8cdd5b43677e358317587:h2h|PMU (FR)|Cardiff City",
-    "47523374e8d8cdd5b43677e358317587:h2h|Tipico|Cardiff City",
-    "47523374e8d8cdd5b43677e358317587:h2h|Unibet (FR)|Cardiff City",
-    "47523374e8d8cdd5b43677e358317587:h2h|Unibet (NL)|Cardiff City",
-    "47523374e8d8cdd5b43677e358317587:h2h|Unibet (NL)|West Ham United",
-    "47523374e8d8cdd5b43677e358317587:h2h|Unibet (SE)|Cardiff City",
-    "47523374e8d8cdd5b43677e358317587:h2h|Unibet (SE)|West Ham United",
-    "47523374e8d8cdd5b43677e358317587:h2h|Winamax (DE)|Cardiff City",
-    "47523374e8d8cdd5b43677e358317587:h2h|Winamax (FR)|Cardiff City",
-    "e35b42924a5fe785a52709c4d17c14c2:h2h|Betclic (FR)|Draw",
-    "e35b42924a5fe785a52709c4d17c14c2:h2h|Betclic (FR)|Middlesbrough",
-    "e35b42924a5fe785a52709c4d17c14c2:h2h|Betsson|Draw",
-    "e35b42924a5fe785a52709c4d17c14c2:h2h|Nordic Bet|Draw"
+    "6e6ddd0046e27c40f5b67c96cc16d5fd:h2h|888sport|Corinthians",
+    "6e6ddd0046e27c40f5b67c96cc16d5fd:h2h|Betclic (FR)|Corinthians",
+    "6e6ddd0046e27c40f5b67c96cc16d5fd:h2h|Betfair|Corinthians",
+    "6e6ddd0046e27c40f5b67c96cc16d5fd:h2h|Betsson|Corinthians",
+    "6e6ddd0046e27c40f5b67c96cc16d5fd:h2h|Coolbet|Corinthians",
+    "6e6ddd0046e27c40f5b67c96cc16d5fd:h2h|LeoVegas (SE)|Corinthians",
+    "6e6ddd0046e27c40f5b67c96cc16d5fd:h2h|Marathon Bet|Corinthians",
+    "6e6ddd0046e27c40f5b67c96cc16d5fd:h2h|Matchbook|Corinthians",
+    "6e6ddd0046e27c40f5b67c96cc16d5fd:h2h|Nordic Bet|Corinthians",
+    "6e6ddd0046e27c40f5b67c96cc16d5fd:h2h|PMU (FR)|Corinthians",
+    "6e6ddd0046e27c40f5b67c96cc16d5fd:h2h|Tipico|Corinthians",
+    "6e6ddd0046e27c40f5b67c96cc16d5fd:h2h|Unibet (FR)|Corinthians",
+    "6e6ddd0046e27c40f5b67c96cc16d5fd:h2h|Unibet (NL)|Corinthians",
+    "6e6ddd0046e27c40f5b67c96cc16d5fd:h2h|Unibet (SE)|Corinthians",
+    "6e6ddd0046e27c40f5b67c96cc16d5fd:h2h|Winamax (DE)|Corinthians",
+    "6e6ddd0046e27c40f5b67c96cc16d5fd:h2h|Winamax (FR)|Corinthians",
+    "cb7170b1b0e68a09be62b7a0fcb8d268:h2h|1xBet|Ferencváros TC",
+    "cb7170b1b0e68a09be62b7a0fcb8d268:h2h|Betfair|Ferencváros TC",
+    "cb7170b1b0e68a09be62b7a0fcb8d268:h2h|Betsson|Ferencváros TC",
+    "cb7170b1b0e68a09be62b7a0fcb8d268:h2h|Coolbet|Ferencváros TC",
+    "cb7170b1b0e68a09be62b7a0fcb8d268:h2h|Marathon Bet|Ferencváros TC",
+    "cb7170b1b0e68a09be62b7a0fcb8d268:h2h|Matchbook|Ferencváros TC",
+    "cb7170b1b0e68a09be62b7a0fcb8d268:h2h|Nordic Bet|Ferencváros TC",
+    "cb7170b1b0e68a09be62b7a0fcb8d268:h2h|Unibet (NL)|Ferencváros TC",
+    "cb7170b1b0e68a09be62b7a0fcb8d268:h2h|Unibet (SE)|Ferencváros TC"
   ]
 }
