@@ -1,276 +1,281 @@
 {
   "snapshots": {
-    "35d4f8b2b7ec249fd22afd235c31ef2d:h2h": {
-      "Nordic Bet": {
-        "AS Monaco": 1.14,
-        "FC Nordsjaelland": 17.5,
-        "Draw": 5.8
+    "754fd36ffe7b5a7fcd922576da8b0c8a:h2h": {
+      "Unibet (FR)": {
+        "Bahia": 30.0,
+        "Cruzeiro": 1.1,
+        "Draw": 3.75
+      },
+      "888sport": {
+        "Bahia": 151.0,
+        "Cruzeiro": 1.0,
+        "Draw": 41.0
+      },
+      "Winamax (DE)": {
+        "Bahia": 38.0,
+        "Cruzeiro": 1.12,
+        "Draw": 5.2
+      },
+      "Winamax (FR)": {
+        "Bahia": 34.0,
+        "Cruzeiro": 1.11,
+        "Draw": 4.7
+      },
+      "MyBookie.ag": {
+        "Bahia": 11.75,
+        "Cruzeiro": 1.18,
+        "Draw": 4.9
       },
       "Betclic (FR)": {
-        "AS Monaco": 1.11,
-        "FC Nordsjaelland": 14.75,
-        "Draw": 4.65
+        "Bahia": 27.0,
+        "Cruzeiro": 1.11,
+        "Draw": 4.8
       },
-      "LeoVegas (SE)": {
-        "AS Monaco": 1.16,
-        "FC Nordsjaelland": 15.0,
-        "Draw": 5.4
+      "Nordic Bet": {
+        "Bahia": 51.0,
+        "Cruzeiro": 1.0,
+        "Draw": 19.0
       },
       "Betsson": {
-        "AS Monaco": 1.14,
-        "FC Nordsjaelland": 17.5,
-        "Draw": 5.8
-      },
-      "Unibet (NL)": {
-        "AS Monaco": 1.19,
-        "FC Nordsjaelland": 16.0,
-        "Draw": 5.6
-      },
-      "Marathon Bet": {
-        "AS Monaco": 1.12,
-        "FC Nordsjaelland": 18.25,
-        "Draw": 6.35
-      },
-      "Betfair": {
-        "AS Monaco": 1.21,
-        "FC Nordsjaelland": 26.0,
-        "Draw": 7.0
+        "Bahia": 51.0,
+        "Cruzeiro": 1.0,
+        "Draw": 19.0
       },
       "Pinnacle": {
-        "AS Monaco": 1.18,
-        "FC Nordsjaelland": 21.5,
-        "Draw": 5.98
+        "Bahia": 26.66,
+        "Cruzeiro": 1.22,
+        "Draw": 5.37
       },
-      "888sport": {
-        "AS Monaco": 1.17,
-        "FC Nordsjaelland": 17.0,
-        "Draw": 6.0
-      },
-      "Coolbet": {
-        "AS Monaco": 1.18,
-        "FC Nordsjaelland": 22.0,
-        "Draw": 6.5
-      },
-      "Matchbook": {
-        "AS Monaco": 1.21,
-        "FC Nordsjaelland": 26.0,
-        "Draw": 7.0
+      "Betfair": {
+        "Bahia": 55.0,
+        "Cruzeiro": 1.19,
+        "Draw": 6.6
       }
     },
-    "c91f4c9744f6ca502b7986a564e858df:h2h": {
-      "Pinnacle": {
-        "AZ Alkmaar": 41.69,
-        "Juventus": 1.07,
-        "Draw": 11.8
+    "53b2ad715a00ea769556e3f7a4583ecd:h2h": {
+      "Winamax (FR)": {
+        "Central Coast Mariners": 4.9,
+        "Sydney FC": 1.44,
+        "Draw": 4.1
       },
       "Winamax (DE)": {
-        "AZ Alkmaar": 32.0,
-        "Juventus": 1.07,
-        "Draw": 11.0
+        "Central Coast Mariners": 5.2,
+        "Sydney FC": 1.48,
+        "Draw": 4.3
       },
-      "Winamax (FR)": {
-        "AZ Alkmaar": 30.0,
-        "Juventus": 1.03,
-        "Draw": 9.5
+      "William Hill": {
+        "Central Coast Mariners": 5.5,
+        "Sydney FC": 1.5,
+        "Draw": 4.0
       },
-      "Nordic Bet": {
-        "AZ Alkmaar": 30.0,
-        "Juventus": 1.04,
-        "Draw": 10.5
-      },
-      "Marathon Bet": {
-        "AZ Alkmaar": 31.0,
-        "Juventus": 1.04,
-        "Draw": 11.5
+      "Unibet (FR)": {
+        "Central Coast Mariners": 4.8,
+        "Sydney FC": 1.37,
+        "Draw": 3.75
       },
       "888sport": {
-        "AZ Alkmaar": 29.0,
-        "Juventus": 1.06,
-        "Draw": 10.0
+        "Central Coast Mariners": 5.5,
+        "Sydney FC": 1.5,
+        "Draw": 4.0
+      },
+      "Marathon Bet": {
+        "Central Coast Mariners": 5.95,
+        "Sydney FC": 1.49,
+        "Draw": 4.25
+      },
+      "Nordic Bet": {
+        "Central Coast Mariners": 5.4,
+        "Sydney FC": 1.5,
+        "Draw": 4.15
+      },
+      "Betsson": {
+        "Central Coast Mariners": 5.4,
+        "Sydney FC": 1.5,
+        "Draw": 4.15
+      },
+      "Codere (IT)": {
+        "Central Coast Mariners": 5.8,
+        "Sydney FC": 1.53,
+        "Draw": 4.3
+      },
+      "Coolbet": {
+        "Central Coast Mariners": 6.25,
+        "Sydney FC": 1.52,
+        "Draw": 4.4
+      },
+      "GTbets": {
+        "Central Coast Mariners": 5.93,
+        "Sydney FC": 1.52,
+        "Draw": 4.35
+      },
+      "Pinnacle": {
+        "Central Coast Mariners": 6.15,
+        "Sydney FC": 1.53,
+        "Draw": 4.54
+      },
+      "BetOnline.ag": {
+        "Central Coast Mariners": 5.95,
+        "Sydney FC": 1.52,
+        "Draw": 4.73
       },
       "Betfair": {
-        "AZ Alkmaar": 55.0,
-        "Juventus": 1.1,
-        "Draw": 13.0
-      },
-      "Betclic (FR)": {
-        "AZ Alkmaar": 19.0,
-        "Juventus": 1.04,
-        "Draw": 9.0
-      },
-      "LeoVegas (SE)": {
-        "AZ Alkmaar": 31.0,
-        "Juventus": 1.04,
-        "Draw": 10.5
-      },
-      "Unibet (NL)": {
-        "AZ Alkmaar": 31.0,
-        "Juventus": 1.06,
-        "Draw": 11.5
-      },
-      "PMU (FR)": {
-        "AZ Alkmaar": 30.0,
-        "Juventus": 1.01,
-        "Draw": 10.5
+        "Central Coast Mariners": 6.4,
+        "Sydney FC": 1.56,
+        "Draw": 4.6
       },
       "Unibet (SE)": {
-        "AZ Alkmaar": 31.0,
-        "Juventus": 1.06,
-        "Draw": 11.5
+        "Central Coast Mariners": 5.8,
+        "Sydney FC": 1.48,
+        "Draw": 4.3
+      },
+      "Unibet (NL)": {
+        "Central Coast Mariners": 5.8,
+        "Sydney FC": 1.48,
+        "Draw": 4.3
+      },
+      "PMU (FR)": {
+        "Central Coast Mariners": 5.5,
+        "Sydney FC": 1.42,
+        "Draw": 4.1
+      },
+      "LeoVegas (SE)": {
+        "Central Coast Mariners": 5.8,
+        "Sydney FC": 1.47,
+        "Draw": 4.3
       },
       "Matchbook": {
-        "AZ Alkmaar": 55.0,
-        "Juventus": 1.09,
-        "Draw": 12.5
-      },
-      "Coolbet": {
-        "AZ Alkmaar": 45.0,
-        "Juventus": 1.07,
-        "Draw": 12.0
+        "Central Coast Mariners": 6.4,
+        "Sydney FC": 1.56,
+        "Draw": 4.6
       }
     },
-    "e1c3625feeebcd65317e17a4e9a38c4f:h2h": {
-      "Winamax (FR)": {
-        "Bayer Leverkusen": 1.54,
-        "Marseille": 6.25,
-        "Draw": 2.7
-      },
-      "Winamax (DE)": {
-        "Bayer Leverkusen": 1.64,
-        "Marseille": 6.75,
-        "Draw": 3.05
-      },
+    "633a84a4c257683d4cd50f87566e052d:h2h": {
       "Pinnacle": {
-        "Bayer Leverkusen": 1.65,
-        "Marseille": 7.08,
-        "Draw": 3.16
+        "Lokomotiv Moscow": 2.18,
+        "Rubin Kazan": 3.34,
+        "Draw": 3.59
       },
-      "Nordic Bet": {
-        "Bayer Leverkusen": 1.62,
-        "Marseille": 7.2,
-        "Draw": 3.05
+      "BetOnline.ag": {
+        "Lokomotiv Moscow": 2.14,
+        "Rubin Kazan": 3.25,
+        "Draw": 3.45
+      },
+      "1xBet": {
+        "Lokomotiv Moscow": 2.17,
+        "Rubin Kazan": 3.61,
+        "Draw": 3.59
       },
       "Marathon Bet": {
-        "Bayer Leverkusen": 1.62,
-        "Marseille": 6.85,
-        "Draw": 3.18
+        "Lokomotiv Moscow": 2.12,
+        "Rubin Kazan": 3.52,
+        "Draw": 3.5
+      }
+    },
+    "51baab3ec98943f452377895491bfd6a:h2h": {
+      "LeoVegas (SE)": {
+        "Gazişehir Gaziantep": 2.5,
+        "Kasimpasa SK": 2.55,
+        "Draw": 3.15
+      },
+      "Codere (IT)": {
+        "Gazişehir Gaziantep": 2.5,
+        "Kasimpasa SK": 2.75,
+        "Draw": 3.3
+      },
+      "Winamax (FR)": {
+        "Gazişehir Gaziantep": 2.25,
+        "Kasimpasa SK": 2.45,
+        "Draw": 3.1
+      },
+      "PMU (FR)": {
+        "Gazişehir Gaziantep": 2.45,
+        "Kasimpasa SK": 2.5,
+        "Draw": 3.05
+      },
+      "Unibet (NL)": {
+        "Gazişehir Gaziantep": 2.6,
+        "Kasimpasa SK": 2.65,
+        "Draw": 3.25
+      },
+      "Unibet (SE)": {
+        "Gazişehir Gaziantep": 2.6,
+        "Kasimpasa SK": 2.65,
+        "Draw": 3.25
+      },
+      "Winamax (DE)": {
+        "Gazişehir Gaziantep": 2.35,
+        "Kasimpasa SK": 2.55,
+        "Draw": 3.3
+      },
+      "Betsson": {
+        "Gazişehir Gaziantep": 2.48,
+        "Kasimpasa SK": 2.72,
+        "Draw": 3.25
+      },
+      "Nordic Bet": {
+        "Gazişehir Gaziantep": 2.48,
+        "Kasimpasa SK": 2.71,
+        "Draw": 3.25
+      },
+      "Unibet (FR)": {
+        "Gazişehir Gaziantep": 2.1,
+        "Kasimpasa SK": 2.45,
+        "Draw": 3.0
+      },
+      "Betclic (FR)": {
+        "Gazişehir Gaziantep": 2.28,
+        "Kasimpasa SK": 2.63,
+        "Draw": 3.22
+      },
+      "Coolbet": {
+        "Gazişehir Gaziantep": 2.5,
+        "Kasimpasa SK": 2.65,
+        "Draw": 3.5
+      },
+      "1xBet": {
+        "Gazişehir Gaziantep": 2.61,
+        "Kasimpasa SK": 2.79,
+        "Draw": 3.46
+      },
+      "Marathon Bet": {
+        "Gazişehir Gaziantep": 2.5,
+        "Kasimpasa SK": 2.67,
+        "Draw": 3.32
+      },
+      "GTbets": {
+        "Gazişehir Gaziantep": 2.53,
+        "Kasimpasa SK": 2.68,
+        "Draw": 3.44
+      },
+      "Betfair": {
+        "Gazişehir Gaziantep": 2.64,
+        "Kasimpasa SK": 2.9,
+        "Draw": 3.5
+      },
+      "Tipico": {
+        "Gazişehir Gaziantep": 2.45,
+        "Kasimpasa SK": 2.8,
+        "Draw": 3.3
+      },
+      "Pinnacle": {
+        "Gazişehir Gaziantep": 2.62,
+        "Kasimpasa SK": 2.75,
+        "Draw": 3.44
       },
       "888sport": {
-        "Bayer Leverkusen": 1.57,
-        "Marseille": 5.75,
+        "Gazişehir Gaziantep": 2.45,
+        "Kasimpasa SK": 2.62,
+        "Draw": 3.25
+      },
+      "BetOnline.ag": {
+        "Gazişehir Gaziantep": 2.55,
+        "Kasimpasa SK": 2.77,
+        "Draw": 3.37
+      },
+      "Matchbook": {
+        "Gazişehir Gaziantep": 2.66,
+        "Kasimpasa SK": 2.76,
         "Draw": 3.4
-      },
-      "Betfair": {
-        "Bayer Leverkusen": 1.71,
-        "Marseille": 7.6,
-        "Draw": 3.45
-      },
-      "Betclic (FR)": {
-        "Bayer Leverkusen": 1.65,
-        "Marseille": 4.9,
-        "Draw": 2.85
-      },
-      "LeoVegas (SE)": {
-        "Bayer Leverkusen": 1.66,
-        "Marseille": 6.1,
-        "Draw": 3.2
-      },
-      "Unibet (NL)": {
-        "Bayer Leverkusen": 1.66,
-        "Marseille": 6.1,
-        "Draw": 3.2
-      },
-      "PMU (FR)": {
-        "Bayer Leverkusen": 1.56,
-        "Marseille": 5.6,
-        "Draw": 3.05
-      },
-      "Unibet (SE)": {
-        "Bayer Leverkusen": 1.66,
-        "Marseille": 6.1,
-        "Draw": 3.2
-      },
-      "Matchbook": {
-        "Bayer Leverkusen": 1.73,
-        "Marseille": 7.4,
-        "Draw": 3.45
-      },
-      "Coolbet": {
-        "Bayer Leverkusen": 1.65,
-        "Marseille": 8.0,
-        "Draw": 3.2
-      }
-    },
-    "bc4a4cc34a2219d9564b7b0c17ba2934:h2h": {
-      "Pinnacle": {
-        "Benfica": 1.1,
-        "Lech Poznań": 37.87,
-        "Draw": 8.87
-      },
-      "Nordic Bet": {
-        "Benfica": 1.07,
-        "Lech Poznań": 26.0,
-        "Draw": 8.6
-      },
-      "Marathon Bet": {
-        "Benfica": 1.07,
-        "Lech Poznań": 29.0,
-        "Draw": 8.9
-      },
-      "Winamax (DE)": {
-        "Benfica": 1.08,
-        "Lech Poznań": 30.0,
-        "Draw": 9.5
-      },
-      "Winamax (FR)": {
-        "Benfica": 1.04,
-        "Lech Poznań": 28.0,
-        "Draw": 8.5
-      },
-      "888sport": {
-        "Benfica": 1.08,
-        "Lech Poznań": 29.0,
-        "Draw": 9.0
-      },
-      "Betfair": {
-        "Benfica": 1.12,
-        "Lech Poznań": 42.0,
-        "Draw": 11.0
-      },
-      "Betclic (FR)": {
-        "Benfica": 1.06,
-        "Lech Poznań": 16.0,
-        "Draw": 7.5
-      },
-      "LeoVegas (SE)": {
-        "Benfica": 1.07,
-        "Lech Poznań": 23.0,
-        "Draw": 10.5
-      },
-      "Unibet (NL)": {
-        "Benfica": 1.07,
-        "Lech Poznań": 23.0,
-        "Draw": 10.5
-      },
-      "PMU (FR)": {
-        "Benfica": 1.02,
-        "Lech Poznań": 23.0,
-        "Draw": 9.5
-      },
-      "Unibet (SE)": {
-        "Benfica": 1.07,
-        "Lech Poznań": 23.0,
-        "Draw": 10.5
-      },
-      "Matchbook": {
-        "Benfica": 1.12,
-        "Lech Poznań": 44.0,
-        "Draw": 11.0
-      },
-      "Coolbet": {
-        "Benfica": 1.09,
-        "Lech Poznań": 39.0,
-        "Draw": 10.25
       }
     }
   },
@@ -4851,25 +4856,196 @@
       "confidence": 10,
       "alert_type": "value",
       "alerted_at": "2026-11-05T21:02:12.107206+00:00"
+    },
+    {
+      "state_key": "754fd36ffe7b5a7fcd922576da8b0c8a:h2h",
+      "event_id": "754fd36ffe7b5a7fcd922576da8b0c8a",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Cruzeiro",
+      "away_team": "Bahia",
+      "commence_time": "2026-11-06T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Bahia",
+      "odds_at_alert": 30.0,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-11-06T02:19:31.430484+00:00"
+    },
+    {
+      "state_key": "754fd36ffe7b5a7fcd922576da8b0c8a:h2h",
+      "event_id": "754fd36ffe7b5a7fcd922576da8b0c8a",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Cruzeiro",
+      "away_team": "Bahia",
+      "commence_time": "2026-11-06T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Bahia",
+      "odds_at_alert": 151.0,
+      "stake_pct": 5.0,
+      "confidence": 443,
+      "alert_type": "value",
+      "alerted_at": "2026-11-06T02:19:31.720322+00:00"
+    },
+    {
+      "state_key": "754fd36ffe7b5a7fcd922576da8b0c8a:h2h",
+      "event_id": "754fd36ffe7b5a7fcd922576da8b0c8a",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Cruzeiro",
+      "away_team": "Bahia",
+      "commence_time": "2026-11-06T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 41.0,
+      "stake_pct": 5.0,
+      "confidence": 632,
+      "alert_type": "value",
+      "alerted_at": "2026-11-06T02:19:32.020488+00:00"
+    },
+    {
+      "state_key": "754fd36ffe7b5a7fcd922576da8b0c8a:h2h",
+      "event_id": "754fd36ffe7b5a7fcd922576da8b0c8a",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Cruzeiro",
+      "away_team": "Bahia",
+      "commence_time": "2026-11-06T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Bahia",
+      "odds_at_alert": 38.0,
+      "stake_pct": 5.0,
+      "confidence": 37,
+      "alert_type": "value",
+      "alerted_at": "2026-11-06T02:19:32.321034+00:00"
+    },
+    {
+      "state_key": "754fd36ffe7b5a7fcd922576da8b0c8a:h2h",
+      "event_id": "754fd36ffe7b5a7fcd922576da8b0c8a",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Cruzeiro",
+      "away_team": "Bahia",
+      "commence_time": "2026-11-06T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Bahia",
+      "odds_at_alert": 34.0,
+      "stake_pct": 5.0,
+      "confidence": 22,
+      "alert_type": "value",
+      "alerted_at": "2026-11-06T02:19:32.628037+00:00"
+    },
+    {
+      "state_key": "754fd36ffe7b5a7fcd922576da8b0c8a:h2h",
+      "event_id": "754fd36ffe7b5a7fcd922576da8b0c8a",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Cruzeiro",
+      "away_team": "Bahia",
+      "commence_time": "2026-11-06T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Bahia",
+      "odds_at_alert": 51.0,
+      "stake_pct": 5.0,
+      "confidence": 83,
+      "alert_type": "value",
+      "alerted_at": "2026-11-06T02:19:32.973858+00:00"
+    },
+    {
+      "state_key": "754fd36ffe7b5a7fcd922576da8b0c8a:h2h",
+      "event_id": "754fd36ffe7b5a7fcd922576da8b0c8a",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Cruzeiro",
+      "away_team": "Bahia",
+      "commence_time": "2026-11-06T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 19.0,
+      "stake_pct": 5.0,
+      "confidence": 239,
+      "alert_type": "value",
+      "alerted_at": "2026-11-06T02:19:33.267933+00:00"
+    },
+    {
+      "state_key": "754fd36ffe7b5a7fcd922576da8b0c8a:h2h",
+      "event_id": "754fd36ffe7b5a7fcd922576da8b0c8a",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Cruzeiro",
+      "away_team": "Bahia",
+      "commence_time": "2026-11-06T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Bahia",
+      "odds_at_alert": 51.0,
+      "stake_pct": 5.0,
+      "confidence": 83,
+      "alert_type": "value",
+      "alerted_at": "2026-11-06T02:19:33.599726+00:00"
+    },
+    {
+      "state_key": "754fd36ffe7b5a7fcd922576da8b0c8a:h2h",
+      "event_id": "754fd36ffe7b5a7fcd922576da8b0c8a",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Cruzeiro",
+      "away_team": "Bahia",
+      "commence_time": "2026-11-06T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 19.0,
+      "stake_pct": 5.0,
+      "confidence": 239,
+      "alert_type": "value",
+      "alerted_at": "2026-11-06T02:19:33.887839+00:00"
+    },
+    {
+      "state_key": "754fd36ffe7b5a7fcd922576da8b0c8a:h2h",
+      "event_id": "754fd36ffe7b5a7fcd922576da8b0c8a",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Cruzeiro",
+      "away_team": "Bahia",
+      "commence_time": "2026-11-06T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Bahia",
+      "odds_at_alert": 55.0,
+      "stake_pct": 5.0,
+      "confidence": 98,
+      "alert_type": "value",
+      "alerted_at": "2026-11-06T02:19:34.197171+00:00"
+    },
+    {
+      "state_key": "754fd36ffe7b5a7fcd922576da8b0c8a:h2h",
+      "event_id": "754fd36ffe7b5a7fcd922576da8b0c8a",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Cruzeiro",
+      "away_team": "Bahia",
+      "commence_time": "2026-11-06T00:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.6,
+      "stake_pct": 5.0,
+      "confidence": 18,
+      "alert_type": "value",
+      "alerted_at": "2026-11-06T02:19:34.487805+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "35d4f8b2b7ec249fd22afd235c31ef2d:h2h|Betfair|Draw",
-    "35d4f8b2b7ec249fd22afd235c31ef2d:h2h|Betfair|FC Nordsjaelland",
-    "35d4f8b2b7ec249fd22afd235c31ef2d:h2h|Matchbook|Draw",
-    "35d4f8b2b7ec249fd22afd235c31ef2d:h2h|Matchbook|FC Nordsjaelland",
-    "bc4a4cc34a2219d9564b7b0c17ba2934:h2h|Betfair|Draw",
-    "bc4a4cc34a2219d9564b7b0c17ba2934:h2h|Betfair|Lech Poznań",
-    "bc4a4cc34a2219d9564b7b0c17ba2934:h2h|Coolbet|Draw",
-    "bc4a4cc34a2219d9564b7b0c17ba2934:h2h|LeoVegas (SE)|Draw",
-    "bc4a4cc34a2219d9564b7b0c17ba2934:h2h|Matchbook|Draw",
-    "bc4a4cc34a2219d9564b7b0c17ba2934:h2h|Matchbook|Lech Poznań",
-    "bc4a4cc34a2219d9564b7b0c17ba2934:h2h|Unibet (NL)|Draw",
-    "bc4a4cc34a2219d9564b7b0c17ba2934:h2h|Unibet (SE)|Draw",
-    "c91f4c9744f6ca502b7986a564e858df:h2h|Betfair|AZ Alkmaar",
-    "c91f4c9744f6ca502b7986a564e858df:h2h|Betfair|Draw",
-    "c91f4c9744f6ca502b7986a564e858df:h2h|Matchbook|AZ Alkmaar",
-    "e1c3625feeebcd65317e17a4e9a38c4f:h2h|Coolbet|Marseille"
+    "754fd36ffe7b5a7fcd922576da8b0c8a:h2h|888sport|Bahia",
+    "754fd36ffe7b5a7fcd922576da8b0c8a:h2h|888sport|Draw",
+    "754fd36ffe7b5a7fcd922576da8b0c8a:h2h|Betfair|Bahia",
+    "754fd36ffe7b5a7fcd922576da8b0c8a:h2h|Betfair|Draw",
+    "754fd36ffe7b5a7fcd922576da8b0c8a:h2h|Betsson|Bahia",
+    "754fd36ffe7b5a7fcd922576da8b0c8a:h2h|Betsson|Draw",
+    "754fd36ffe7b5a7fcd922576da8b0c8a:h2h|Nordic Bet|Bahia",
+    "754fd36ffe7b5a7fcd922576da8b0c8a:h2h|Nordic Bet|Draw",
+    "754fd36ffe7b5a7fcd922576da8b0c8a:h2h|Unibet (FR)|Bahia",
+    "754fd36ffe7b5a7fcd922576da8b0c8a:h2h|Winamax (DE)|Bahia",
+    "754fd36ffe7b5a7fcd922576da8b0c8a:h2h|Winamax (FR)|Bahia"
   ]
 }
