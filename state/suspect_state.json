@@ -1,276 +1,191 @@
 {
   "snapshots": {
-    "633a84a4c257683d4cd50f87566e052d:h2h": {
-      "Pinnacle": {
-        "Lokomotiv Moscow": 2.14,
-        "Rubin Kazan": 3.52,
-        "Draw": 3.58
-      },
-      "BetOnline.ag": {
-        "Lokomotiv Moscow": 2.1,
-        "Rubin Kazan": 3.35,
-        "Draw": 3.45
-      },
-      "1xBet": {
-        "Lokomotiv Moscow": 2.17,
-        "Rubin Kazan": 3.57,
-        "Draw": 3.63
-      },
-      "Marathon Bet": {
-        "Lokomotiv Moscow": 2.12,
-        "Rubin Kazan": 3.48,
-        "Draw": 3.54
-      }
-    },
-    "51baab3ec98943f452377895491bfd6a:h2h": {
-      "LeoVegas (SE)": {
-        "Gazişehir Gaziantep": 2.5,
-        "Kasimpasa SK": 2.55,
-        "Draw": 3.2
-      },
-      "Codere (IT)": {
-        "Gazişehir Gaziantep": 2.6,
-        "Kasimpasa SK": 2.7,
-        "Draw": 3.35
-      },
-      "Winamax (FR)": {
-        "Gazişehir Gaziantep": 2.4,
-        "Kasimpasa SK": 2.45,
-        "Draw": 3.35
-      },
-      "PMU (FR)": {
-        "Gazişehir Gaziantep": 2.45,
-        "Kasimpasa SK": 2.5,
-        "Draw": 3.1
-      },
-      "Unibet (NL)": {
-        "Gazişehir Gaziantep": 2.6,
-        "Kasimpasa SK": 2.65,
-        "Draw": 3.3
-      },
-      "Unibet (SE)": {
-        "Gazişehir Gaziantep": 2.6,
-        "Kasimpasa SK": 2.65,
-        "Draw": 3.3
-      },
-      "Winamax (DE)": {
-        "Gazişehir Gaziantep": 2.45,
-        "Kasimpasa SK": 2.5,
-        "Draw": 3.45
+    "c664e36e2d2856fcbd3b637422d7a8dc:h2h": {
+      "Nordic Bet": {
+        "Deportivo Riestra": 47.0,
+        "Independiente": 1.07,
+        "Draw": 6.8
       },
       "Betsson": {
-        "Gazişehir Gaziantep": 2.58,
-        "Kasimpasa SK": 2.58,
-        "Draw": 3.35
+        "Deportivo Riestra": 47.0,
+        "Independiente": 1.07,
+        "Draw": 6.8
       },
-      "Nordic Bet": {
-        "Gazişehir Gaziantep": 2.56,
-        "Kasimpasa SK": 2.56,
-        "Draw": 3.33
+      "LeoVegas (SE)": {
+        "Deportivo Riestra": 46.0,
+        "Independiente": 1.05,
+        "Draw": 7.0
       },
-      "Unibet (FR)": {
-        "Gazişehir Gaziantep": 2.15,
-        "Kasimpasa SK": 2.4,
-        "Draw": 3.0
-      },
-      "Betclic (FR)": {
-        "Gazişehir Gaziantep": 2.38,
-        "Kasimpasa SK": 2.55,
-        "Draw": 3.25
-      },
-      "Coolbet": {
-        "Gazişehir Gaziantep": 2.5,
-        "Kasimpasa SK": 2.7,
-        "Draw": 3.4
-      },
-      "1xBet": {
-        "Gazişehir Gaziantep": 2.67,
-        "Kasimpasa SK": 2.71,
-        "Draw": 3.48
-      },
-      "Marathon Bet": {
-        "Gazişehir Gaziantep": 2.56,
-        "Kasimpasa SK": 2.6,
-        "Draw": 3.34
-      },
-      "GTbets": {
-        "Gazişehir Gaziantep": 2.53,
-        "Kasimpasa SK": 2.68,
-        "Draw": 3.44
+      "Unibet (SE)": {
+        "Deportivo Riestra": 61.0,
+        "Independiente": 1.09,
+        "Draw": 7.5
       },
       "Betfair": {
-        "Gazişehir Gaziantep": 2.72,
-        "Kasimpasa SK": 2.8,
-        "Draw": 3.5
+        "Deportivo Riestra": 110.0,
+        "Independiente": 1.15,
+        "Draw": 7.6
       },
-      "Tipico": {
-        "Gazişehir Gaziantep": 2.5,
-        "Kasimpasa SK": 2.65,
-        "Draw": 3.4
+      "Marathon Bet": {
+        "Deportivo Riestra": 51.0,
+        "Independiente": 1.07,
+        "Draw": 8.2
       },
-      "Pinnacle": {
-        "Gazişehir Gaziantep": 2.67,
-        "Kasimpasa SK": 2.68,
-        "Draw": 3.55
+      "Winamax (FR)": {
+        "Deportivo Riestra": 55.0,
+        "Independiente": 1.05,
+        "Draw": 7.0
       },
-      "888sport": {
-        "Gazişehir Gaziantep": 2.5,
-        "Kasimpasa SK": 2.5,
-        "Draw": 3.25
-      },
-      "BetOnline.ag": {
-        "Gazişehir Gaziantep": 2.58,
-        "Kasimpasa SK": 2.7,
-        "Draw": 3.41
-      },
-      "Matchbook": {
-        "Gazişehir Gaziantep": 2.7,
-        "Kasimpasa SK": 2.76,
-        "Draw": 3.55
-      }
-    },
-    "a9744d3e7f47f5ab2e8daa9e205bb8cb:h2h": {
-      "LeoVegas (SE)": {
-        "Motor Lublin": 1.81,
-        "Wisła Płock": 3.45,
-        "Draw": 3.35
-      },
-      "Unibet (SE)": {
-        "Motor Lublin": 1.91,
-        "Wisła Płock": 3.7,
-        "Draw": 3.6
-      },
-      "PMU (FR)": {
-        "Motor Lublin": 1.81,
-        "Wisła Płock": 3.45,
-        "Draw": 3.35
-      },
-      "Unibet (NL)": {
-        "Motor Lublin": 1.91,
-        "Wisła Płock": 3.7,
-        "Draw": 3.6
-      },
-      "Unibet (FR)": {
-        "Motor Lublin": 1.72,
-        "Wisła Płock": 3.1,
-        "Draw": 3.25
+      "Winamax (DE)": {
+        "Deportivo Riestra": 55.0,
+        "Independiente": 1.07,
+        "Draw": 7.25
       },
       "Betclic (FR)": {
-        "Motor Lublin": 1.86,
-        "Wisła Płock": 3.35,
-        "Draw": 3.5
+        "Deportivo Riestra": 30.0,
+        "Independiente": 1.07,
+        "Draw": 6.1
+      },
+      "Unibet (FR)": {
+        "Deportivo Riestra": 55.0,
+        "Independiente": 1.05,
+        "Draw": 4.2
+      }
+    },
+    "d2b023e1f4716513148b17f8e486964b:h2h": {
+      "Nordic Bet": {
+        "Platense": 1.0,
+        "San Lorenzo": 41.0,
+        "Draw": 19.0
       },
       "Betsson": {
-        "Motor Lublin": 1.92,
-        "Wisła Płock": 3.45,
+        "Platense": 1.0,
+        "San Lorenzo": 41.0,
+        "Draw": 19.0
+      },
+      "Winamax (FR)": {
+        "Platense": 1.01,
+        "San Lorenzo": 85.0,
+        "Draw": 22.0
+      },
+      "Winamax (DE)": {
+        "Platense": 1.01,
+        "San Lorenzo": 85.0,
+        "Draw": 22.0
+      },
+      "Betclic (FR)": {
+        "Platense": 1.0,
+        "San Lorenzo": 100.0,
+        "Draw": 40.0
+      },
+      "Unibet (FR)": {
+        "Platense": 1.01,
+        "San Lorenzo": 35.0,
+        "Draw": 5.3
+      },
+      "Betfair": {
+        "Platense": 1.01,
+        "San Lorenzo": 80.0,
+        "Draw": 55.0
+      }
+    },
+    "e50c3b5d28caa718fe5211de892d5a02:h2h": {
+      "Winamax (FR)": {
+        "Union Santa Fe": 1.0,
+        "Velez Sarsfield BA": 120.0,
+        "Draw": 32.0
+      },
+      "Winamax (DE)": {
+        "Union Santa Fe": 1.0,
+        "Velez Sarsfield BA": 120.0,
+        "Draw": 32.0
+      },
+      "Betclic (FR)": {
+        "Union Santa Fe": 1.0,
+        "Velez Sarsfield BA": 100.0,
+        "Draw": 40.0
+      },
+      "Unibet (FR)": {
+        "Union Santa Fe": 1.01,
+        "Velez Sarsfield BA": 31.0,
+        "Draw": 5.4
+      },
+      "Betsson": {
+        "Union Santa Fe": 1.0,
+        "Velez Sarsfield BA": 46.0,
+        "Draw": 19.0
+      },
+      "Nordic Bet": {
+        "Union Santa Fe": 1.0,
+        "Velez Sarsfield BA": 46.0,
+        "Draw": 19.0
+      },
+      "Betfair": {
+        "Union Santa Fe": 1.01,
+        "Velez Sarsfield BA": 1000.0,
+        "Draw": 50.0
+      }
+    },
+    "e388778c13b68bbbfdd41fc0adbf69ee:h2h": {
+      "Pinnacle": {
+        "Operario PR": 1.53,
+        "Sport Recife": 8.28,
+        "Draw": 3.43
+      },
+      "Betsson": {
+        "Operario PR": 1.4,
+        "Sport Recife": 10.5,
         "Draw": 3.5
       },
       "Nordic Bet": {
-        "Motor Lublin": 1.92,
-        "Wisła Płock": 3.45,
-        "Draw": 3.5
-      },
-      "Coolbet": {
-        "Motor Lublin": 1.93,
-        "Wisła Płock": 3.6,
-        "Draw": 3.75
-      },
-      "Winamax (DE)": {
-        "Motor Lublin": 1.9,
-        "Wisła Płock": 3.3,
+        "Operario PR": 1.36,
+        "Sport Recife": 11.5,
         "Draw": 3.65
       },
-      "Winamax (FR)": {
-        "Motor Lublin": 1.84,
-        "Wisła Płock": 3.15,
-        "Draw": 3.5
+      "Coolbet": {
+        "Operario PR": 1.36,
+        "Sport Recife": 12.0,
+        "Draw": 3.6
       },
       "Marathon Bet": {
-        "Motor Lublin": 1.92,
-        "Wisła Płock": 3.4,
-        "Draw": 3.68
-      },
-      "1xBet": {
-        "Motor Lublin": 1.94,
-        "Wisła Płock": 3.42,
-        "Draw": 3.68
-      },
-      "BetOnline.ag": {
-        "Motor Lublin": 1.94,
-        "Wisła Płock": 3.55,
-        "Draw": 3.75
-      },
-      "Pinnacle": {
-        "Motor Lublin": 1.95,
-        "Wisła Płock": 3.73,
-        "Draw": 3.9
+        "Operario PR": 1.32,
+        "Sport Recife": 11.75,
+        "Draw": 3.78
       },
       "888sport": {
-        "Motor Lublin": 1.91,
-        "Wisła Płock": 3.4,
-        "Draw": 3.6
-      },
-      "Codere (IT)": {
-        "Motor Lublin": 1.93,
-        "Wisła Płock": 3.4,
-        "Draw": 3.6
-      },
-      "Betfair": {
-        "Motor Lublin": 1.99,
-        "Wisła Płock": 3.8,
-        "Draw": 3.9
-      },
-      "Tipico": {
-        "Motor Lublin": 1.77,
-        "Wisła Płock": 3.6,
+        "Operario PR": 1.33,
+        "Sport Recife": 12.0,
         "Draw": 3.8
       },
-      "Matchbook": {
-        "Motor Lublin": 2.0,
-        "Wisła Płock": 3.8,
-        "Draw": 3.9
-      }
-    },
-    "f69182938da239d8f245e995bef7a1cd:h2h": {
-      "Unibet (SE)": {
-        "Bayern Munich": 1.12,
-        "Werder Bremen": 12.5,
-        "Draw": 6.75
-      },
       "Unibet (NL)": {
-        "Bayern Munich": 1.12,
-        "Werder Bremen": 12.5,
-        "Draw": 6.75
+        "Operario PR": 1.28,
+        "Sport Recife": 13.0,
+        "Draw": 3.7
       },
       "LeoVegas (SE)": {
-        "Bayern Munich": 1.12,
-        "Werder Bremen": 12.5,
-        "Draw": 6.75
+        "Operario PR": 1.24,
+        "Sport Recife": 13.0,
+        "Draw": 3.55
       },
-      "Pinnacle": {
-        "Bayern Munich": 1.12,
-        "Werder Bremen": 12.32,
-        "Draw": 9.46
+      "Unibet (SE)": {
+        "Operario PR": 1.32,
+        "Sport Recife": 13.0,
+        "Draw": 3.75
       },
-      "1xBet": {
-        "Bayern Munich": 1.08,
-        "Werder Bremen": 14.2,
-        "Draw": 7.8
+      "Matchbook": {
+        "Operario PR": 1.32,
+        "Sport Recife": 16.5,
+        "Draw": 4.0
       },
-      "888sport": {
-        "Bayern Munich": 1.12,
-        "Werder Bremen": 13.0,
-        "Draw": 8.0
-      },
-      "William Hill": {
-        "Bayern Munich": 1.12,
-        "Werder Bremen": 13.0,
-        "Draw": 8.0
+      "Betfair": {
+        "Operario PR": 1.34,
+        "Sport Recife": 15.0,
+        "Draw": 4.2
       },
       "Tipico": {
-        "Bayern Munich": 1.07,
-        "Werder Bremen": 13.0,
-        "Draw": 9.5
+        "Operario PR": 1.4,
+        "Sport Recife": 8.0,
+        "Draw": 3.8
       }
     }
   },
@@ -5043,10 +4958,213 @@
       "confidence": 7,
       "alert_type": "value",
       "alerted_at": "2026-11-06T11:59:54.294324+00:00"
+    },
+    {
+      "state_key": "e388778c13b68bbbfdd41fc0adbf69ee:h2h",
+      "event_id": "e388778c13b68bbbfdd41fc0adbf69ee",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Operario PR",
+      "away_team": "Sport Recife",
+      "commence_time": "2026-11-06T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sport Recife",
+      "odds_at_alert": 10.5,
+      "stake_pct": 5.0,
+      "confidence": 19,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T00:03:59.990219+00:00"
+    },
+    {
+      "state_key": "e388778c13b68bbbfdd41fc0adbf69ee:h2h",
+      "event_id": "e388778c13b68bbbfdd41fc0adbf69ee",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Operario PR",
+      "away_team": "Sport Recife",
+      "commence_time": "2026-11-06T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sport Recife",
+      "odds_at_alert": 11.5,
+      "stake_pct": 5.0,
+      "confidence": 30,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T00:04:00.513372+00:00"
+    },
+    {
+      "state_key": "e388778c13b68bbbfdd41fc0adbf69ee:h2h",
+      "event_id": "e388778c13b68bbbfdd41fc0adbf69ee",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Operario PR",
+      "away_team": "Sport Recife",
+      "commence_time": "2026-11-06T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sport Recife",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 36,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T00:04:00.984993+00:00"
+    },
+    {
+      "state_key": "e388778c13b68bbbfdd41fc0adbf69ee:h2h",
+      "event_id": "e388778c13b68bbbfdd41fc0adbf69ee",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Operario PR",
+      "away_team": "Sport Recife",
+      "commence_time": "2026-11-06T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sport Recife",
+      "odds_at_alert": 11.75,
+      "stake_pct": 5.0,
+      "confidence": 33,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T00:04:01.466570+00:00"
+    },
+    {
+      "state_key": "e388778c13b68bbbfdd41fc0adbf69ee:h2h",
+      "event_id": "e388778c13b68bbbfdd41fc0adbf69ee",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Operario PR",
+      "away_team": "Sport Recife",
+      "commence_time": "2026-11-06T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sport Recife",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 36,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T00:04:02.058460+00:00"
+    },
+    {
+      "state_key": "e388778c13b68bbbfdd41fc0adbf69ee:h2h",
+      "event_id": "e388778c13b68bbbfdd41fc0adbf69ee",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Operario PR",
+      "away_team": "Sport Recife",
+      "commence_time": "2026-11-06T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sport Recife",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 47,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T00:04:02.516515+00:00"
+    },
+    {
+      "state_key": "e388778c13b68bbbfdd41fc0adbf69ee:h2h",
+      "event_id": "e388778c13b68bbbfdd41fc0adbf69ee",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Operario PR",
+      "away_team": "Sport Recife",
+      "commence_time": "2026-11-06T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sport Recife",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 47,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T00:04:03.050546+00:00"
+    },
+    {
+      "state_key": "e388778c13b68bbbfdd41fc0adbf69ee:h2h",
+      "event_id": "e388778c13b68bbbfdd41fc0adbf69ee",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Operario PR",
+      "away_team": "Sport Recife",
+      "commence_time": "2026-11-06T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sport Recife",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 47,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T00:04:03.563718+00:00"
+    },
+    {
+      "state_key": "e388778c13b68bbbfdd41fc0adbf69ee:h2h",
+      "event_id": "e388778c13b68bbbfdd41fc0adbf69ee",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Operario PR",
+      "away_team": "Sport Recife",
+      "commence_time": "2026-11-06T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sport Recife",
+      "odds_at_alert": 16.5,
+      "stake_pct": 5.0,
+      "confidence": 87,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T00:04:04.175439+00:00"
+    },
+    {
+      "state_key": "e388778c13b68bbbfdd41fc0adbf69ee:h2h",
+      "event_id": "e388778c13b68bbbfdd41fc0adbf69ee",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Operario PR",
+      "away_team": "Sport Recife",
+      "commence_time": "2026-11-06T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.0,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T00:04:04.715090+00:00"
+    },
+    {
+      "state_key": "e388778c13b68bbbfdd41fc0adbf69ee:h2h",
+      "event_id": "e388778c13b68bbbfdd41fc0adbf69ee",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Operario PR",
+      "away_team": "Sport Recife",
+      "commence_time": "2026-11-06T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sport Recife",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 70,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T00:04:05.176250+00:00"
+    },
+    {
+      "state_key": "e388778c13b68bbbfdd41fc0adbf69ee:h2h",
+      "event_id": "e388778c13b68bbbfdd41fc0adbf69ee",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Operario PR",
+      "away_team": "Sport Recife",
+      "commence_time": "2026-11-06T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.2,
+      "stake_pct": 3.0,
+      "confidence": 15,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T00:04:05.639698+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "f69182938da239d8f245e995bef7a1cd:h2h|1xBet|Werder Bremen"
+    "e388778c13b68bbbfdd41fc0adbf69ee:h2h|888sport|Sport Recife",
+    "e388778c13b68bbbfdd41fc0adbf69ee:h2h|Betfair|Draw",
+    "e388778c13b68bbbfdd41fc0adbf69ee:h2h|Betfair|Sport Recife",
+    "e388778c13b68bbbfdd41fc0adbf69ee:h2h|Betsson|Sport Recife",
+    "e388778c13b68bbbfdd41fc0adbf69ee:h2h|Coolbet|Sport Recife",
+    "e388778c13b68bbbfdd41fc0adbf69ee:h2h|LeoVegas (SE)|Sport Recife",
+    "e388778c13b68bbbfdd41fc0adbf69ee:h2h|Marathon Bet|Sport Recife",
+    "e388778c13b68bbbfdd41fc0adbf69ee:h2h|Matchbook|Draw",
+    "e388778c13b68bbbfdd41fc0adbf69ee:h2h|Matchbook|Sport Recife",
+    "e388778c13b68bbbfdd41fc0adbf69ee:h2h|Nordic Bet|Sport Recife",
+    "e388778c13b68bbbfdd41fc0adbf69ee:h2h|Unibet (NL)|Sport Recife",
+    "e388778c13b68bbbfdd41fc0adbf69ee:h2h|Unibet (SE)|Sport Recife"
   ]
 }
