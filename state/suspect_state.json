@@ -1,321 +1,184 @@
 {
   "snapshots": {
-    "a082ac7bce86febea0e4015e6f274811:h2h": {
-      "Coolbet": {
-        "Shimizu S Pulse": 40.0,
-        "Tokyo Verdy": 1.16,
-        "Draw": 5.5
-      },
-      "Unibet (FR)": {
-        "Shimizu S Pulse": 35.0,
-        "Tokyo Verdy": 1.09,
-        "Draw": 3.7
-      },
-      "Betclic (FR)": {
-        "Shimizu S Pulse": 29.0,
-        "Tokyo Verdy": 1.15,
-        "Draw": 4.75
-      },
-      "Nordic Bet": {
-        "Shimizu S Pulse": 47.0,
-        "Tokyo Verdy": 1.12,
-        "Draw": 5.8
-      },
-      "Betsson": {
-        "Shimizu S Pulse": 50.0,
-        "Tokyo Verdy": 1.12,
-        "Draw": 5.8
-      },
+    "b98b880e4929bd2faea0b9caa886ea34:h2h": {
       "Pinnacle": {
-        "Shimizu S Pulse": 19.13,
-        "Tokyo Verdy": 1.31,
-        "Draw": 4.16
-      },
-      "Winamax (DE)": {
-        "Shimizu S Pulse": 40.0,
-        "Tokyo Verdy": 1.12,
-        "Draw": 5.2
-      },
-      "Winamax (FR)": {
-        "Shimizu S Pulse": 44.0,
-        "Tokyo Verdy": 1.1,
-        "Draw": 5.0
-      },
-      "Marathon Bet": {
-        "Shimizu S Pulse": 28.0,
-        "Tokyo Verdy": 1.13,
-        "Draw": 5.4
-      },
-      "888sport": {
-        "Shimizu S Pulse": 36.0,
-        "Tokyo Verdy": 1.15,
-        "Draw": 5.5
-      },
-      "Tipico": {
-        "Shimizu S Pulse": 60.0,
-        "Tokyo Verdy": 1.1,
-        "Draw": 5.5
-      },
-      "PMU (FR)": {
-        "Shimizu S Pulse": 41.0,
-        "Tokyo Verdy": 1.01,
-        "Draw": 6.1
-      },
-      "LeoVegas (SE)": {
-        "Shimizu S Pulse": 46.0,
-        "Tokyo Verdy": 1.08,
-        "Draw": 6.0
-      },
-      "Unibet (NL)": {
-        "Shimizu S Pulse": 46.0,
-        "Tokyo Verdy": 1.06,
-        "Draw": 6.75
-      },
-      "Unibet (SE)": {
-        "Shimizu S Pulse": 61.0,
-        "Tokyo Verdy": 1.11,
-        "Draw": 6.25
-      },
-      "Betfair": {
-        "Shimizu S Pulse": 42.0,
-        "Tokyo Verdy": 1.21,
-        "Draw": 5.9
+        "Dinamo Moscow": 4.88,
+        "FC Fakel Voronezh": 9.02,
+        "Draw": 1.33
       }
     },
-    "deb167291e30fad7203968083b27bfb6:h2h": {
-      "Winamax (FR)": {
-        "Auckland FC": 2.85,
-        "Wellington Phoenix FC": 2.35,
-        "Draw": 2.1
-      },
-      "888sport": {
-        "Auckland FC": 3.3,
-        "Wellington Phoenix FC": 2.62,
-        "Draw": 2.3
-      },
-      "Unibet (FR)": {
-        "Auckland FC": 2.95,
-        "Wellington Phoenix FC": 2.45,
-        "Draw": 2.15
-      },
-      "Winamax (DE)": {
-        "Auckland FC": 3.0,
-        "Wellington Phoenix FC": 2.5,
-        "Draw": 2.25
-      },
-      "Marathon Bet": {
-        "Auckland FC": 3.3,
-        "Wellington Phoenix FC": 2.71,
-        "Draw": 2.47
-      },
-      "Nordic Bet": {
-        "Auckland FC": 3.3,
-        "Wellington Phoenix FC": 2.65,
-        "Draw": 2.4
-      },
-      "Betsson": {
-        "Auckland FC": 3.3,
-        "Wellington Phoenix FC": 2.65,
-        "Draw": 2.4
-      },
-      "Pinnacle": {
-        "Auckland FC": 3.23,
-        "Wellington Phoenix FC": 2.66,
-        "Draw": 2.68
-      },
-      "Coolbet": {
-        "Auckland FC": 3.5,
-        "Wellington Phoenix FC": 2.8,
-        "Draw": 2.5
-      },
-      "Betfair": {
-        "Auckland FC": 3.6,
-        "Wellington Phoenix FC": 2.88,
-        "Draw": 2.58
-      },
-      "Unibet (SE)": {
-        "Auckland FC": 3.05,
-        "Wellington Phoenix FC": 2.8,
-        "Draw": 2.55
-      },
-      "PMU (FR)": {
-        "Auckland FC": 2.75,
-        "Wellington Phoenix FC": 2.5,
-        "Draw": 2.25
-      },
+    "d212cc4c7707bbc11eea293ee861be61:h2h": {
       "Unibet (NL)": {
-        "Auckland FC": 3.05,
-        "Wellington Phoenix FC": 2.8,
-        "Draw": 2.55
-      },
-      "LeoVegas (SE)": {
-        "Auckland FC": 2.95,
-        "Wellington Phoenix FC": 2.7,
-        "Draw": 2.45
-      },
-      "Matchbook": {
-        "Auckland FC": 2.9,
-        "Wellington Phoenix FC": 2.46,
-        "Draw": 2.44
-      }
-    },
-    "119d76b1e1352db6dcdd502373978ab4:h2h": {
-      "Coolbet": {
-        "Fagiano Okayama": 1.8,
-        "Yokohama F Marinos": 5.0,
-        "Draw": 3.25
-      },
-      "Unibet (FR)": {
-        "Fagiano Okayama": 1.6,
-        "Yokohama F Marinos": 4.1,
-        "Draw": 2.9
-      },
-      "Betclic (FR)": {
-        "Fagiano Okayama": 1.75,
-        "Yokohama F Marinos": 4.4,
+        "Korona Kielce": 11.0,
+        "Radomiak Radom": 1.43,
         "Draw": 3.2
       },
-      "Nordic Bet": {
-        "Fagiano Okayama": 1.68,
-        "Yokohama F Marinos": 4.85,
-        "Draw": 3.2
-      },
-      "Betsson": {
-        "Fagiano Okayama": 1.72,
-        "Yokohama F Marinos": 4.4,
-        "Draw": 3.15
-      },
-      "Pinnacle": {
-        "Fagiano Okayama": 3.74,
-        "Yokohama F Marinos": 2.24,
-        "Draw": 2.89
-      },
-      "Marathon Bet": {
-        "Fagiano Okayama": 1.64,
-        "Yokohama F Marinos": 5.1,
-        "Draw": 3.36
-      },
-      "Winamax (DE)": {
-        "Fagiano Okayama": 1.76,
-        "Yokohama F Marinos": 4.0,
-        "Draw": 3.0
-      },
-      "Winamax (FR)": {
-        "Fagiano Okayama": 1.68,
-        "Yokohama F Marinos": 3.95,
-        "Draw": 2.85
-      },
-      "Tipico": {
-        "Fagiano Okayama": 1.65,
-        "Yokohama F Marinos": 5.0,
-        "Draw": 3.3
-      },
-      "Unibet (NL)": {
-        "Fagiano Okayama": 1.6,
-        "Yokohama F Marinos": 5.5,
-        "Draw": 3.3
-      },
       "PMU (FR)": {
-        "Fagiano Okayama": 1.5,
-        "Yokohama F Marinos": 5.2,
-        "Draw": 3.15
-      },
-      "LeoVegas (SE)": {
-        "Fagiano Okayama": 1.5,
-        "Yokohama F Marinos": 5.6,
-        "Draw": 3.35
+        "Korona Kielce": 10.0,
+        "Radomiak Radom": 1.3,
+        "Draw": 2.95
       },
       "Unibet (SE)": {
-        "Fagiano Okayama": 1.56,
-        "Yokohama F Marinos": 5.8,
-        "Draw": 3.45
-      },
-      "Betfair": {
-        "Fagiano Okayama": 1.82,
-        "Yokohama F Marinos": 5.4,
-        "Draw": 3.6
-      },
-      "Matchbook": {
-        "Fagiano Okayama": 1.69,
-        "Yokohama F Marinos": 4.9,
-        "Draw": 3.3
-      }
-    },
-    "7c7ac4bb1a60c27d4ecb72cb444ac84b:h2h": {
-      "Unibet (SE)": {
-        "Gwangju FC": 4.2,
-        "Jeju United FC": 1.97,
-        "Draw": 2.75
+        "Korona Kielce": 9.5,
+        "Radomiak Radom": 1.5,
+        "Draw": 3.05
       },
       "LeoVegas (SE)": {
-        "Gwangju FC": 3.95,
-        "Jeju United FC": 1.85,
-        "Draw": 2.6
-      },
-      "Unibet (NL)": {
-        "Gwangju FC": 4.2,
-        "Jeju United FC": 1.97,
-        "Draw": 2.75
-      },
-      "PMU (FR)": {
-        "Gwangju FC": 3.85,
-        "Jeju United FC": 1.8,
-        "Draw": 2.55
-      },
-      "Unibet (FR)": {
-        "Gwangju FC": 3.35,
-        "Jeju United FC": 2.0,
-        "Draw": 2.45
-      },
-      "Nordic Bet": {
-        "Gwangju FC": 3.55,
-        "Jeju United FC": 2.2,
-        "Draw": 2.5
-      },
-      "Betclic (FR)": {
-        "Gwangju FC": 3.88,
-        "Jeju United FC": 2.07,
-        "Draw": 2.65
-      },
-      "Winamax (DE)": {
-        "Gwangju FC": 3.5,
-        "Jeju United FC": 2.1,
-        "Draw": 2.5
-      },
-      "Winamax (FR)": {
-        "Gwangju FC": 3.35,
-        "Jeju United FC": 2.0,
-        "Draw": 2.35
-      },
-      "Betsson": {
-        "Gwangju FC": 3.55,
-        "Jeju United FC": 2.2,
-        "Draw": 2.5
-      },
-      "Pinnacle": {
-        "Gwangju FC": 1.96,
-        "Jeju United FC": 4.22,
-        "Draw": 3.23
-      },
-      "Marathon Bet": {
-        "Gwangju FC": 3.78,
-        "Jeju United FC": 2.13,
-        "Draw": 2.67
-      },
-      "Betfair": {
-        "Gwangju FC": 3.2,
-        "Jeju United FC": 2.2,
-        "Draw": 2.6
-      },
-      "Coolbet": {
-        "Gwangju FC": 3.75,
-        "Jeju United FC": 2.2,
+        "Korona Kielce": 9.0,
+        "Radomiak Radom": 1.42,
         "Draw": 2.88
       },
+      "Betclic (FR)": {
+        "Korona Kielce": 7.25,
+        "Radomiak Radom": 1.55,
+        "Draw": 2.85
+      },
+      "Betsson": {
+        "Korona Kielce": 8.2,
+        "Radomiak Radom": 1.52,
+        "Draw": 2.92
+      },
+      "Unibet (FR)": {
+        "Korona Kielce": 8.25,
+        "Radomiak Radom": 1.4,
+        "Draw": 2.65
+      },
+      "Nordic Bet": {
+        "Korona Kielce": 7.7,
+        "Radomiak Radom": 1.55,
+        "Draw": 2.92
+      },
+      "Winamax (FR)": {
+        "Korona Kielce": 7.75,
+        "Radomiak Radom": 1.45,
+        "Draw": 2.75
+      },
+      "Winamax (DE)": {
+        "Korona Kielce": 8.0,
+        "Radomiak Radom": 1.52,
+        "Draw": 2.85
+      },
+      "Coolbet": {
+        "Korona Kielce": 9.0,
+        "Radomiak Radom": 1.57,
+        "Draw": 3.14
+      },
+      "Marathon Bet": {
+        "Korona Kielce": 8.6,
+        "Radomiak Radom": 1.48,
+        "Draw": 3.16
+      },
+      "Tipico": {
+        "Korona Kielce": 8.5,
+        "Radomiak Radom": 1.55,
+        "Draw": 2.9
+      },
+      "Pinnacle": {
+        "Korona Kielce": 2.4,
+        "Radomiak Radom": 6.07,
+        "Draw": 2.07
+      },
+      "888sport": {
+        "Korona Kielce": 7.5,
+        "Radomiak Radom": 1.57,
+        "Draw": 3.0
+      },
+      "Betfair": {
+        "Korona Kielce": 9.8,
+        "Radomiak Radom": 1.65,
+        "Draw": 3.35
+      },
       "Matchbook": {
-        "Gwangju FC": 4.2,
-        "Jeju United FC": 2.16,
-        "Draw": 2.72
+        "Korona Kielce": 10.0,
+        "Radomiak Radom": 1.56,
+        "Draw": 2.9
+      }
+    },
+    "9957e59c3f91aa76310383308e1d87bf:h2h": {
+      "PMU (FR)": {
+        "1. FC Kaiserslautern": 2.85,
+        "VfL Osnabrück": 2.4,
+        "Draw": 2.28
+      },
+      "Unibet (NL)": {
+        "1. FC Kaiserslautern": 3.1,
+        "VfL Osnabrück": 2.63,
+        "Draw": 2.48
+      },
+      "LeoVegas (SE)": {
+        "1. FC Kaiserslautern": 2.95,
+        "VfL Osnabrück": 2.45,
+        "Draw": 2.33
+      },
+      "Unibet (SE)": {
+        "1. FC Kaiserslautern": 3.1,
+        "VfL Osnabrück": 2.63,
+        "Draw": 2.48
+      },
+      "Tipico": {
+        "1. FC Kaiserslautern": 3.1,
+        "VfL Osnabrück": 2.8,
+        "Draw": 2.5
+      },
+      "Unibet (FR)": {
+        "1. FC Kaiserslautern": 2.85,
+        "VfL Osnabrück": 2.45,
+        "Draw": 2.2
+      },
+      "Nordic Bet": {
+        "1. FC Kaiserslautern": 3.05,
+        "VfL Osnabrück": 2.7,
+        "Draw": 2.5
+      },
+      "Betsson": {
+        "1. FC Kaiserslautern": 3.05,
+        "VfL Osnabrück": 2.7,
+        "Draw": 2.5
+      },
+      "Betclic (FR)": {
+        "1. FC Kaiserslautern": 2.87,
+        "VfL Osnabrück": 2.57,
+        "Draw": 2.5
+      },
+      "Coolbet": {
+        "1. FC Kaiserslautern": 3.25,
+        "VfL Osnabrück": 2.88,
+        "Draw": 2.63
+      },
+      "Winamax (DE)": {
+        "1. FC Kaiserslautern": 3.1,
+        "VfL Osnabrück": 2.6,
+        "Draw": 2.35
+      },
+      "Winamax (FR)": {
+        "1. FC Kaiserslautern": 2.75,
+        "VfL Osnabrück": 2.45,
+        "Draw": 2.1
+      },
+      "Pinnacle": {
+        "1. FC Kaiserslautern": 3.19,
+        "VfL Osnabrück": 2.76,
+        "Draw": 2.63
+      },
+      "Marathon Bet": {
+        "1. FC Kaiserslautern": 3.08,
+        "VfL Osnabrück": 2.66,
+        "Draw": 2.49
+      },
+      "888sport": {
+        "1. FC Kaiserslautern": 3.2,
+        "VfL Osnabrück": 2.75,
+        "Draw": 2.3
+      },
+      "Betfair": {
+        "1. FC Kaiserslautern": 3.45,
+        "VfL Osnabrück": 3.05,
+        "Draw": 2.58
+      },
+      "Matchbook": {
+        "1. FC Kaiserslautern": 3.35,
+        "VfL Osnabrück": 2.86,
+        "Draw": 2.5
       }
     }
   },
@@ -3552,76 +3415,553 @@
       "confidence": 103,
       "alert_type": "value",
       "alerted_at": "2026-11-07T05:51:25.702240+00:00"
+    },
+    {
+      "state_key": "d212cc4c7707bbc11eea293ee861be61:h2h",
+      "event_id": "d212cc4c7707bbc11eea293ee861be61",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Korona Kielce",
+      "away_team": "Radomiak Radom",
+      "commence_time": "2026-11-07T11:17:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Korona Kielce",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 331,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T12:52:22.281094+00:00"
+    },
+    {
+      "state_key": "d212cc4c7707bbc11eea293ee861be61:h2h",
+      "event_id": "d212cc4c7707bbc11eea293ee861be61",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Korona Kielce",
+      "away_team": "Radomiak Radom",
+      "commence_time": "2026-11-07T11:17:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.2,
+      "stake_pct": 5.0,
+      "confidence": 45,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T12:52:22.579096+00:00"
+    },
+    {
+      "state_key": "d212cc4c7707bbc11eea293ee861be61:h2h",
+      "event_id": "d212cc4c7707bbc11eea293ee861be61",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Korona Kielce",
+      "away_team": "Radomiak Radom",
+      "commence_time": "2026-11-07T11:17:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Korona Kielce",
+      "odds_at_alert": 10.0,
+      "stake_pct": 5.0,
+      "confidence": 291,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T12:52:22.942824+00:00"
+    },
+    {
+      "state_key": "d212cc4c7707bbc11eea293ee861be61:h2h",
+      "event_id": "d212cc4c7707bbc11eea293ee861be61",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Korona Kielce",
+      "away_team": "Radomiak Radom",
+      "commence_time": "2026-11-07T11:17:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 2.95,
+      "stake_pct": 5.0,
+      "confidence": 34,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T12:52:23.299555+00:00"
+    },
+    {
+      "state_key": "d212cc4c7707bbc11eea293ee861be61:h2h",
+      "event_id": "d212cc4c7707bbc11eea293ee861be61",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Korona Kielce",
+      "away_team": "Radomiak Radom",
+      "commence_time": "2026-11-07T11:17:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Korona Kielce",
+      "odds_at_alert": 9.5,
+      "stake_pct": 5.0,
+      "confidence": 272,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T12:52:23.644044+00:00"
+    },
+    {
+      "state_key": "d212cc4c7707bbc11eea293ee861be61:h2h",
+      "event_id": "d212cc4c7707bbc11eea293ee861be61",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Korona Kielce",
+      "away_team": "Radomiak Radom",
+      "commence_time": "2026-11-07T11:17:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.05,
+      "stake_pct": 5.0,
+      "confidence": 38,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T12:52:24.021174+00:00"
+    },
+    {
+      "state_key": "d212cc4c7707bbc11eea293ee861be61:h2h",
+      "event_id": "d212cc4c7707bbc11eea293ee861be61",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Korona Kielce",
+      "away_team": "Radomiak Radom",
+      "commence_time": "2026-11-07T11:17:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Korona Kielce",
+      "odds_at_alert": 9.0,
+      "stake_pct": 5.0,
+      "confidence": 252,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T12:52:24.361388+00:00"
+    },
+    {
+      "state_key": "d212cc4c7707bbc11eea293ee861be61:h2h",
+      "event_id": "d212cc4c7707bbc11eea293ee861be61",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Korona Kielce",
+      "away_team": "Radomiak Radom",
+      "commence_time": "2026-11-07T11:17:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 2.88,
+      "stake_pct": 5.0,
+      "confidence": 31,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T12:52:24.683849+00:00"
+    },
+    {
+      "state_key": "d212cc4c7707bbc11eea293ee861be61:h2h",
+      "event_id": "d212cc4c7707bbc11eea293ee861be61",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Korona Kielce",
+      "away_team": "Radomiak Radom",
+      "commence_time": "2026-11-07T11:17:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Korona Kielce",
+      "odds_at_alert": 7.25,
+      "stake_pct": 5.0,
+      "confidence": 184,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T12:52:25.030280+00:00"
+    },
+    {
+      "state_key": "d212cc4c7707bbc11eea293ee861be61:h2h",
+      "event_id": "d212cc4c7707bbc11eea293ee861be61",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Korona Kielce",
+      "away_team": "Radomiak Radom",
+      "commence_time": "2026-11-07T11:17:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 2.85,
+      "stake_pct": 5.0,
+      "confidence": 29,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T12:52:25.411167+00:00"
+    },
+    {
+      "state_key": "d212cc4c7707bbc11eea293ee861be61:h2h",
+      "event_id": "d212cc4c7707bbc11eea293ee861be61",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Korona Kielce",
+      "away_team": "Radomiak Radom",
+      "commence_time": "2026-11-07T11:17:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Korona Kielce",
+      "odds_at_alert": 8.2,
+      "stake_pct": 5.0,
+      "confidence": 221,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T12:52:25.828205+00:00"
+    },
+    {
+      "state_key": "d212cc4c7707bbc11eea293ee861be61:h2h",
+      "event_id": "d212cc4c7707bbc11eea293ee861be61",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Korona Kielce",
+      "away_team": "Radomiak Radom",
+      "commence_time": "2026-11-07T11:17:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 2.92,
+      "stake_pct": 5.0,
+      "confidence": 33,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T12:52:26.133581+00:00"
+    },
+    {
+      "state_key": "d212cc4c7707bbc11eea293ee861be61:h2h",
+      "event_id": "d212cc4c7707bbc11eea293ee861be61",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Korona Kielce",
+      "away_team": "Radomiak Radom",
+      "commence_time": "2026-11-07T11:17:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Korona Kielce",
+      "odds_at_alert": 8.25,
+      "stake_pct": 5.0,
+      "confidence": 223,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T12:52:26.437882+00:00"
+    },
+    {
+      "state_key": "d212cc4c7707bbc11eea293ee861be61:h2h",
+      "event_id": "d212cc4c7707bbc11eea293ee861be61",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Korona Kielce",
+      "away_team": "Radomiak Radom",
+      "commence_time": "2026-11-07T11:17:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 2.65,
+      "stake_pct": 5.0,
+      "confidence": 20,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T12:52:26.731777+00:00"
+    },
+    {
+      "state_key": "d212cc4c7707bbc11eea293ee861be61:h2h",
+      "event_id": "d212cc4c7707bbc11eea293ee861be61",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Korona Kielce",
+      "away_team": "Radomiak Radom",
+      "commence_time": "2026-11-07T11:17:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Korona Kielce",
+      "odds_at_alert": 7.7,
+      "stake_pct": 5.0,
+      "confidence": 201,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T12:52:27.040635+00:00"
+    },
+    {
+      "state_key": "d212cc4c7707bbc11eea293ee861be61:h2h",
+      "event_id": "d212cc4c7707bbc11eea293ee861be61",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Korona Kielce",
+      "away_team": "Radomiak Radom",
+      "commence_time": "2026-11-07T11:17:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 2.92,
+      "stake_pct": 5.0,
+      "confidence": 33,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T12:52:27.334969+00:00"
+    },
+    {
+      "state_key": "d212cc4c7707bbc11eea293ee861be61:h2h",
+      "event_id": "d212cc4c7707bbc11eea293ee861be61",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Korona Kielce",
+      "away_team": "Radomiak Radom",
+      "commence_time": "2026-11-07T11:17:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Korona Kielce",
+      "odds_at_alert": 7.75,
+      "stake_pct": 5.0,
+      "confidence": 203,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T12:52:27.634740+00:00"
+    },
+    {
+      "state_key": "d212cc4c7707bbc11eea293ee861be61:h2h",
+      "event_id": "d212cc4c7707bbc11eea293ee861be61",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Korona Kielce",
+      "away_team": "Radomiak Radom",
+      "commence_time": "2026-11-07T11:17:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 2.75,
+      "stake_pct": 5.0,
+      "confidence": 25,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T12:52:27.949277+00:00"
+    },
+    {
+      "state_key": "d212cc4c7707bbc11eea293ee861be61:h2h",
+      "event_id": "d212cc4c7707bbc11eea293ee861be61",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Korona Kielce",
+      "away_team": "Radomiak Radom",
+      "commence_time": "2026-11-07T11:17:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Korona Kielce",
+      "odds_at_alert": 8.0,
+      "stake_pct": 5.0,
+      "confidence": 213,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T12:52:28.252763+00:00"
+    },
+    {
+      "state_key": "d212cc4c7707bbc11eea293ee861be61:h2h",
+      "event_id": "d212cc4c7707bbc11eea293ee861be61",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Korona Kielce",
+      "away_team": "Radomiak Radom",
+      "commence_time": "2026-11-07T11:17:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 2.85,
+      "stake_pct": 5.0,
+      "confidence": 29,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T12:52:28.555221+00:00"
+    },
+    {
+      "state_key": "d212cc4c7707bbc11eea293ee861be61:h2h",
+      "event_id": "d212cc4c7707bbc11eea293ee861be61",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Korona Kielce",
+      "away_team": "Radomiak Radom",
+      "commence_time": "2026-11-07T11:17:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Korona Kielce",
+      "odds_at_alert": 9.0,
+      "stake_pct": 5.0,
+      "confidence": 252,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T12:52:28.849383+00:00"
+    },
+    {
+      "state_key": "d212cc4c7707bbc11eea293ee861be61:h2h",
+      "event_id": "d212cc4c7707bbc11eea293ee861be61",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Korona Kielce",
+      "away_team": "Radomiak Radom",
+      "commence_time": "2026-11-07T11:17:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.14,
+      "stake_pct": 5.0,
+      "confidence": 42,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T12:52:29.142755+00:00"
+    },
+    {
+      "state_key": "d212cc4c7707bbc11eea293ee861be61:h2h",
+      "event_id": "d212cc4c7707bbc11eea293ee861be61",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Korona Kielce",
+      "away_team": "Radomiak Radom",
+      "commence_time": "2026-11-07T11:17:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Korona Kielce",
+      "odds_at_alert": 8.6,
+      "stake_pct": 5.0,
+      "confidence": 237,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T12:52:29.442689+00:00"
+    },
+    {
+      "state_key": "d212cc4c7707bbc11eea293ee861be61:h2h",
+      "event_id": "d212cc4c7707bbc11eea293ee861be61",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Korona Kielce",
+      "away_team": "Radomiak Radom",
+      "commence_time": "2026-11-07T11:17:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.16,
+      "stake_pct": 5.0,
+      "confidence": 43,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T12:52:29.752676+00:00"
+    },
+    {
+      "state_key": "d212cc4c7707bbc11eea293ee861be61:h2h",
+      "event_id": "d212cc4c7707bbc11eea293ee861be61",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Korona Kielce",
+      "away_team": "Radomiak Radom",
+      "commence_time": "2026-11-07T11:17:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Korona Kielce",
+      "odds_at_alert": 8.5,
+      "stake_pct": 5.0,
+      "confidence": 233,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T12:52:30.114087+00:00"
+    },
+    {
+      "state_key": "d212cc4c7707bbc11eea293ee861be61:h2h",
+      "event_id": "d212cc4c7707bbc11eea293ee861be61",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Korona Kielce",
+      "away_team": "Radomiak Radom",
+      "commence_time": "2026-11-07T11:17:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 2.9,
+      "stake_pct": 5.0,
+      "confidence": 32,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T12:52:30.430189+00:00"
+    },
+    {
+      "state_key": "d212cc4c7707bbc11eea293ee861be61:h2h",
+      "event_id": "d212cc4c7707bbc11eea293ee861be61",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Korona Kielce",
+      "away_team": "Radomiak Radom",
+      "commence_time": "2026-11-07T11:17:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Korona Kielce",
+      "odds_at_alert": 7.5,
+      "stake_pct": 5.0,
+      "confidence": 194,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T12:52:30.730256+00:00"
+    },
+    {
+      "state_key": "d212cc4c7707bbc11eea293ee861be61:h2h",
+      "event_id": "d212cc4c7707bbc11eea293ee861be61",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Korona Kielce",
+      "away_team": "Radomiak Radom",
+      "commence_time": "2026-11-07T11:17:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.0,
+      "stake_pct": 5.0,
+      "confidence": 36,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T12:52:31.032502+00:00"
+    },
+    {
+      "state_key": "d212cc4c7707bbc11eea293ee861be61:h2h",
+      "event_id": "d212cc4c7707bbc11eea293ee861be61",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Korona Kielce",
+      "away_team": "Radomiak Radom",
+      "commence_time": "2026-11-07T11:17:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Korona Kielce",
+      "odds_at_alert": 9.8,
+      "stake_pct": 5.0,
+      "confidence": 284,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T12:52:31.354635+00:00"
+    },
+    {
+      "state_key": "d212cc4c7707bbc11eea293ee861be61:h2h",
+      "event_id": "d212cc4c7707bbc11eea293ee861be61",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Korona Kielce",
+      "away_team": "Radomiak Radom",
+      "commence_time": "2026-11-07T11:17:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.35,
+      "stake_pct": 5.0,
+      "confidence": 52,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T12:52:31.676280+00:00"
+    },
+    {
+      "state_key": "d212cc4c7707bbc11eea293ee861be61:h2h",
+      "event_id": "d212cc4c7707bbc11eea293ee861be61",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Korona Kielce",
+      "away_team": "Radomiak Radom",
+      "commence_time": "2026-11-07T11:17:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Korona Kielce",
+      "odds_at_alert": 10.0,
+      "stake_pct": 5.0,
+      "confidence": 291,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T12:52:31.975815+00:00"
+    },
+    {
+      "state_key": "d212cc4c7707bbc11eea293ee861be61:h2h",
+      "event_id": "d212cc4c7707bbc11eea293ee861be61",
+      "sport_key": "soccer",
+      "competition": "Ekstraklasa - Poland",
+      "home_team": "Korona Kielce",
+      "away_team": "Radomiak Radom",
+      "commence_time": "2026-11-07T11:17:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 2.9,
+      "stake_pct": 5.0,
+      "confidence": 32,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T12:52:32.282619+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "119d76b1e1352db6dcdd502373978ab4:h2h|Betclic (FR)|Yokohama F Marinos",
-    "119d76b1e1352db6dcdd502373978ab4:h2h|Betfair|Draw",
-    "119d76b1e1352db6dcdd502373978ab4:h2h|Betfair|Yokohama F Marinos",
-    "119d76b1e1352db6dcdd502373978ab4:h2h|Betsson|Yokohama F Marinos",
-    "119d76b1e1352db6dcdd502373978ab4:h2h|Coolbet|Draw",
-    "119d76b1e1352db6dcdd502373978ab4:h2h|Coolbet|Yokohama F Marinos",
-    "119d76b1e1352db6dcdd502373978ab4:h2h|LeoVegas (SE)|Draw",
-    "119d76b1e1352db6dcdd502373978ab4:h2h|LeoVegas (SE)|Yokohama F Marinos",
-    "119d76b1e1352db6dcdd502373978ab4:h2h|Marathon Bet|Draw",
-    "119d76b1e1352db6dcdd502373978ab4:h2h|Marathon Bet|Yokohama F Marinos",
-    "119d76b1e1352db6dcdd502373978ab4:h2h|Matchbook|Draw",
-    "119d76b1e1352db6dcdd502373978ab4:h2h|Matchbook|Yokohama F Marinos",
-    "119d76b1e1352db6dcdd502373978ab4:h2h|Nordic Bet|Yokohama F Marinos",
-    "119d76b1e1352db6dcdd502373978ab4:h2h|PMU (FR)|Yokohama F Marinos",
-    "119d76b1e1352db6dcdd502373978ab4:h2h|Tipico|Draw",
-    "119d76b1e1352db6dcdd502373978ab4:h2h|Tipico|Yokohama F Marinos",
-    "119d76b1e1352db6dcdd502373978ab4:h2h|Unibet (FR)|Yokohama F Marinos",
-    "119d76b1e1352db6dcdd502373978ab4:h2h|Unibet (NL)|Draw",
-    "119d76b1e1352db6dcdd502373978ab4:h2h|Unibet (NL)|Yokohama F Marinos",
-    "119d76b1e1352db6dcdd502373978ab4:h2h|Unibet (SE)|Draw",
-    "119d76b1e1352db6dcdd502373978ab4:h2h|Unibet (SE)|Yokohama F Marinos",
-    "119d76b1e1352db6dcdd502373978ab4:h2h|Winamax (DE)|Yokohama F Marinos",
-    "119d76b1e1352db6dcdd502373978ab4:h2h|Winamax (FR)|Yokohama F Marinos",
-    "7c7ac4bb1a60c27d4ecb72cb444ac84b:h2h|Betclic (FR)|Gwangju FC",
-    "7c7ac4bb1a60c27d4ecb72cb444ac84b:h2h|Betfair|Gwangju FC",
-    "7c7ac4bb1a60c27d4ecb72cb444ac84b:h2h|Betsson|Gwangju FC",
-    "7c7ac4bb1a60c27d4ecb72cb444ac84b:h2h|Coolbet|Gwangju FC",
-    "7c7ac4bb1a60c27d4ecb72cb444ac84b:h2h|LeoVegas (SE)|Gwangju FC",
-    "7c7ac4bb1a60c27d4ecb72cb444ac84b:h2h|Marathon Bet|Gwangju FC",
-    "7c7ac4bb1a60c27d4ecb72cb444ac84b:h2h|Matchbook|Gwangju FC",
-    "7c7ac4bb1a60c27d4ecb72cb444ac84b:h2h|Nordic Bet|Gwangju FC",
-    "7c7ac4bb1a60c27d4ecb72cb444ac84b:h2h|PMU (FR)|Gwangju FC",
-    "7c7ac4bb1a60c27d4ecb72cb444ac84b:h2h|Unibet (FR)|Gwangju FC",
-    "7c7ac4bb1a60c27d4ecb72cb444ac84b:h2h|Unibet (NL)|Gwangju FC",
-    "7c7ac4bb1a60c27d4ecb72cb444ac84b:h2h|Unibet (SE)|Gwangju FC",
-    "7c7ac4bb1a60c27d4ecb72cb444ac84b:h2h|Winamax (DE)|Gwangju FC",
-    "7c7ac4bb1a60c27d4ecb72cb444ac84b:h2h|Winamax (FR)|Gwangju FC",
-    "a082ac7bce86febea0e4015e6f274811:h2h|888sport|Draw",
-    "a082ac7bce86febea0e4015e6f274811:h2h|888sport|Shimizu S Pulse",
-    "a082ac7bce86febea0e4015e6f274811:h2h|Betclic (FR)|Draw",
-    "a082ac7bce86febea0e4015e6f274811:h2h|Betclic (FR)|Shimizu S Pulse",
-    "a082ac7bce86febea0e4015e6f274811:h2h|Betfair|Draw",
-    "a082ac7bce86febea0e4015e6f274811:h2h|Betfair|Shimizu S Pulse",
-    "a082ac7bce86febea0e4015e6f274811:h2h|Betsson|Draw",
-    "a082ac7bce86febea0e4015e6f274811:h2h|Betsson|Shimizu S Pulse",
-    "a082ac7bce86febea0e4015e6f274811:h2h|Coolbet|Draw",
-    "a082ac7bce86febea0e4015e6f274811:h2h|Coolbet|Shimizu S Pulse",
-    "a082ac7bce86febea0e4015e6f274811:h2h|LeoVegas (SE)|Draw",
-    "a082ac7bce86febea0e4015e6f274811:h2h|LeoVegas (SE)|Shimizu S Pulse",
-    "a082ac7bce86febea0e4015e6f274811:h2h|Marathon Bet|Draw",
-    "a082ac7bce86febea0e4015e6f274811:h2h|Marathon Bet|Shimizu S Pulse",
-    "a082ac7bce86febea0e4015e6f274811:h2h|Nordic Bet|Draw",
-    "a082ac7bce86febea0e4015e6f274811:h2h|Nordic Bet|Shimizu S Pulse",
-    "a082ac7bce86febea0e4015e6f274811:h2h|PMU (FR)|Draw",
-    "a082ac7bce86febea0e4015e6f274811:h2h|PMU (FR)|Shimizu S Pulse",
-    "a082ac7bce86febea0e4015e6f274811:h2h|Tipico|Draw",
-    "a082ac7bce86febea0e4015e6f274811:h2h|Tipico|Shimizu S Pulse",
-    "a082ac7bce86febea0e4015e6f274811:h2h|Unibet (FR)|Shimizu S Pulse",
-    "a082ac7bce86febea0e4015e6f274811:h2h|Unibet (NL)|Draw",
-    "a082ac7bce86febea0e4015e6f274811:h2h|Unibet (NL)|Shimizu S Pulse",
-    "a082ac7bce86febea0e4015e6f274811:h2h|Unibet (SE)|Draw",
-    "a082ac7bce86febea0e4015e6f274811:h2h|Unibet (SE)|Shimizu S Pulse",
-    "a082ac7bce86febea0e4015e6f274811:h2h|Winamax (DE)|Draw",
-    "a082ac7bce86febea0e4015e6f274811:h2h|Winamax (DE)|Shimizu S Pulse",
-    "a082ac7bce86febea0e4015e6f274811:h2h|Winamax (FR)|Draw",
-    "a082ac7bce86febea0e4015e6f274811:h2h|Winamax (FR)|Shimizu S Pulse",
-    "deb167291e30fad7203968083b27bfb6:h2h|Betfair|Auckland FC"
+    "d212cc4c7707bbc11eea293ee861be61:h2h|888sport|Draw",
+    "d212cc4c7707bbc11eea293ee861be61:h2h|888sport|Korona Kielce",
+    "d212cc4c7707bbc11eea293ee861be61:h2h|Betclic (FR)|Draw",
+    "d212cc4c7707bbc11eea293ee861be61:h2h|Betclic (FR)|Korona Kielce",
+    "d212cc4c7707bbc11eea293ee861be61:h2h|Betfair|Draw",
+    "d212cc4c7707bbc11eea293ee861be61:h2h|Betfair|Korona Kielce",
+    "d212cc4c7707bbc11eea293ee861be61:h2h|Betsson|Draw",
+    "d212cc4c7707bbc11eea293ee861be61:h2h|Betsson|Korona Kielce",
+    "d212cc4c7707bbc11eea293ee861be61:h2h|Coolbet|Draw",
+    "d212cc4c7707bbc11eea293ee861be61:h2h|Coolbet|Korona Kielce",
+    "d212cc4c7707bbc11eea293ee861be61:h2h|LeoVegas (SE)|Draw",
+    "d212cc4c7707bbc11eea293ee861be61:h2h|LeoVegas (SE)|Korona Kielce",
+    "d212cc4c7707bbc11eea293ee861be61:h2h|Marathon Bet|Draw",
+    "d212cc4c7707bbc11eea293ee861be61:h2h|Marathon Bet|Korona Kielce",
+    "d212cc4c7707bbc11eea293ee861be61:h2h|Matchbook|Draw",
+    "d212cc4c7707bbc11eea293ee861be61:h2h|Matchbook|Korona Kielce",
+    "d212cc4c7707bbc11eea293ee861be61:h2h|Nordic Bet|Draw",
+    "d212cc4c7707bbc11eea293ee861be61:h2h|Nordic Bet|Korona Kielce",
+    "d212cc4c7707bbc11eea293ee861be61:h2h|PMU (FR)|Draw",
+    "d212cc4c7707bbc11eea293ee861be61:h2h|PMU (FR)|Korona Kielce",
+    "d212cc4c7707bbc11eea293ee861be61:h2h|Tipico|Draw",
+    "d212cc4c7707bbc11eea293ee861be61:h2h|Tipico|Korona Kielce",
+    "d212cc4c7707bbc11eea293ee861be61:h2h|Unibet (FR)|Draw",
+    "d212cc4c7707bbc11eea293ee861be61:h2h|Unibet (FR)|Korona Kielce",
+    "d212cc4c7707bbc11eea293ee861be61:h2h|Unibet (NL)|Draw",
+    "d212cc4c7707bbc11eea293ee861be61:h2h|Unibet (NL)|Korona Kielce",
+    "d212cc4c7707bbc11eea293ee861be61:h2h|Unibet (SE)|Draw",
+    "d212cc4c7707bbc11eea293ee861be61:h2h|Unibet (SE)|Korona Kielce",
+    "d212cc4c7707bbc11eea293ee861be61:h2h|Winamax (DE)|Draw",
+    "d212cc4c7707bbc11eea293ee861be61:h2h|Winamax (DE)|Korona Kielce",
+    "d212cc4c7707bbc11eea293ee861be61:h2h|Winamax (FR)|Draw",
+    "d212cc4c7707bbc11eea293ee861be61:h2h|Winamax (FR)|Korona Kielce"
   ]
 }
