@@ -1,191 +1,321 @@
 {
   "snapshots": {
-    "c664e36e2d2856fcbd3b637422d7a8dc:h2h": {
-      "Nordic Bet": {
-        "Deportivo Riestra": 47.0,
-        "Independiente": 1.07,
-        "Draw": 6.8
-      },
-      "Betsson": {
-        "Deportivo Riestra": 47.0,
-        "Independiente": 1.07,
-        "Draw": 6.8
-      },
-      "LeoVegas (SE)": {
-        "Deportivo Riestra": 46.0,
-        "Independiente": 1.05,
-        "Draw": 7.0
-      },
-      "Unibet (SE)": {
-        "Deportivo Riestra": 61.0,
-        "Independiente": 1.09,
-        "Draw": 7.5
-      },
-      "Betfair": {
-        "Deportivo Riestra": 110.0,
-        "Independiente": 1.15,
-        "Draw": 7.6
-      },
-      "Marathon Bet": {
-        "Deportivo Riestra": 51.0,
-        "Independiente": 1.07,
-        "Draw": 8.2
-      },
-      "Winamax (FR)": {
-        "Deportivo Riestra": 55.0,
-        "Independiente": 1.05,
-        "Draw": 7.0
-      },
-      "Winamax (DE)": {
-        "Deportivo Riestra": 55.0,
-        "Independiente": 1.07,
-        "Draw": 7.25
-      },
-      "Betclic (FR)": {
-        "Deportivo Riestra": 30.0,
-        "Independiente": 1.07,
-        "Draw": 6.1
-      },
-      "Unibet (FR)": {
-        "Deportivo Riestra": 55.0,
-        "Independiente": 1.05,
-        "Draw": 4.2
-      }
-    },
-    "d2b023e1f4716513148b17f8e486964b:h2h": {
-      "Nordic Bet": {
-        "Platense": 1.0,
-        "San Lorenzo": 41.0,
-        "Draw": 19.0
-      },
-      "Betsson": {
-        "Platense": 1.0,
-        "San Lorenzo": 41.0,
-        "Draw": 19.0
-      },
-      "Winamax (FR)": {
-        "Platense": 1.01,
-        "San Lorenzo": 85.0,
-        "Draw": 22.0
-      },
-      "Winamax (DE)": {
-        "Platense": 1.01,
-        "San Lorenzo": 85.0,
-        "Draw": 22.0
-      },
-      "Betclic (FR)": {
-        "Platense": 1.0,
-        "San Lorenzo": 100.0,
-        "Draw": 40.0
-      },
-      "Unibet (FR)": {
-        "Platense": 1.01,
-        "San Lorenzo": 35.0,
-        "Draw": 5.3
-      },
-      "Betfair": {
-        "Platense": 1.01,
-        "San Lorenzo": 80.0,
-        "Draw": 55.0
-      }
-    },
-    "e50c3b5d28caa718fe5211de892d5a02:h2h": {
-      "Winamax (FR)": {
-        "Union Santa Fe": 1.0,
-        "Velez Sarsfield BA": 120.0,
-        "Draw": 32.0
-      },
-      "Winamax (DE)": {
-        "Union Santa Fe": 1.0,
-        "Velez Sarsfield BA": 120.0,
-        "Draw": 32.0
-      },
-      "Betclic (FR)": {
-        "Union Santa Fe": 1.0,
-        "Velez Sarsfield BA": 100.0,
-        "Draw": 40.0
-      },
-      "Unibet (FR)": {
-        "Union Santa Fe": 1.01,
-        "Velez Sarsfield BA": 31.0,
-        "Draw": 5.4
-      },
-      "Betsson": {
-        "Union Santa Fe": 1.0,
-        "Velez Sarsfield BA": 46.0,
-        "Draw": 19.0
-      },
-      "Nordic Bet": {
-        "Union Santa Fe": 1.0,
-        "Velez Sarsfield BA": 46.0,
-        "Draw": 19.0
-      },
-      "Betfair": {
-        "Union Santa Fe": 1.01,
-        "Velez Sarsfield BA": 1000.0,
-        "Draw": 50.0
-      }
-    },
-    "e388778c13b68bbbfdd41fc0adbf69ee:h2h": {
-      "Pinnacle": {
-        "Operario PR": 1.53,
-        "Sport Recife": 8.28,
-        "Draw": 3.43
-      },
-      "Betsson": {
-        "Operario PR": 1.4,
-        "Sport Recife": 10.5,
-        "Draw": 3.5
-      },
-      "Nordic Bet": {
-        "Operario PR": 1.36,
-        "Sport Recife": 11.5,
-        "Draw": 3.65
-      },
+    "a082ac7bce86febea0e4015e6f274811:h2h": {
       "Coolbet": {
-        "Operario PR": 1.36,
-        "Sport Recife": 12.0,
-        "Draw": 3.6
+        "Shimizu S Pulse": 40.0,
+        "Tokyo Verdy": 1.16,
+        "Draw": 5.5
       },
-      "Marathon Bet": {
-        "Operario PR": 1.32,
-        "Sport Recife": 11.75,
-        "Draw": 3.78
-      },
-      "888sport": {
-        "Operario PR": 1.33,
-        "Sport Recife": 12.0,
-        "Draw": 3.8
-      },
-      "Unibet (NL)": {
-        "Operario PR": 1.28,
-        "Sport Recife": 13.0,
+      "Unibet (FR)": {
+        "Shimizu S Pulse": 35.0,
+        "Tokyo Verdy": 1.09,
         "Draw": 3.7
       },
-      "LeoVegas (SE)": {
-        "Operario PR": 1.24,
-        "Sport Recife": 13.0,
-        "Draw": 3.55
+      "Betclic (FR)": {
+        "Shimizu S Pulse": 29.0,
+        "Tokyo Verdy": 1.15,
+        "Draw": 4.75
       },
-      "Unibet (SE)": {
-        "Operario PR": 1.32,
-        "Sport Recife": 13.0,
-        "Draw": 3.75
+      "Nordic Bet": {
+        "Shimizu S Pulse": 47.0,
+        "Tokyo Verdy": 1.12,
+        "Draw": 5.8
       },
-      "Matchbook": {
-        "Operario PR": 1.32,
-        "Sport Recife": 16.5,
-        "Draw": 4.0
+      "Betsson": {
+        "Shimizu S Pulse": 50.0,
+        "Tokyo Verdy": 1.12,
+        "Draw": 5.8
       },
-      "Betfair": {
-        "Operario PR": 1.34,
-        "Sport Recife": 15.0,
-        "Draw": 4.2
+      "Pinnacle": {
+        "Shimizu S Pulse": 19.13,
+        "Tokyo Verdy": 1.31,
+        "Draw": 4.16
+      },
+      "Winamax (DE)": {
+        "Shimizu S Pulse": 40.0,
+        "Tokyo Verdy": 1.12,
+        "Draw": 5.2
+      },
+      "Winamax (FR)": {
+        "Shimizu S Pulse": 44.0,
+        "Tokyo Verdy": 1.1,
+        "Draw": 5.0
+      },
+      "Marathon Bet": {
+        "Shimizu S Pulse": 28.0,
+        "Tokyo Verdy": 1.13,
+        "Draw": 5.4
+      },
+      "888sport": {
+        "Shimizu S Pulse": 36.0,
+        "Tokyo Verdy": 1.15,
+        "Draw": 5.5
       },
       "Tipico": {
-        "Operario PR": 1.4,
-        "Sport Recife": 8.0,
-        "Draw": 3.8
+        "Shimizu S Pulse": 60.0,
+        "Tokyo Verdy": 1.1,
+        "Draw": 5.5
+      },
+      "PMU (FR)": {
+        "Shimizu S Pulse": 41.0,
+        "Tokyo Verdy": 1.01,
+        "Draw": 6.1
+      },
+      "LeoVegas (SE)": {
+        "Shimizu S Pulse": 46.0,
+        "Tokyo Verdy": 1.08,
+        "Draw": 6.0
+      },
+      "Unibet (NL)": {
+        "Shimizu S Pulse": 46.0,
+        "Tokyo Verdy": 1.06,
+        "Draw": 6.75
+      },
+      "Unibet (SE)": {
+        "Shimizu S Pulse": 61.0,
+        "Tokyo Verdy": 1.11,
+        "Draw": 6.25
+      },
+      "Betfair": {
+        "Shimizu S Pulse": 42.0,
+        "Tokyo Verdy": 1.21,
+        "Draw": 5.9
+      }
+    },
+    "deb167291e30fad7203968083b27bfb6:h2h": {
+      "Winamax (FR)": {
+        "Auckland FC": 2.85,
+        "Wellington Phoenix FC": 2.35,
+        "Draw": 2.1
+      },
+      "888sport": {
+        "Auckland FC": 3.3,
+        "Wellington Phoenix FC": 2.62,
+        "Draw": 2.3
+      },
+      "Unibet (FR)": {
+        "Auckland FC": 2.95,
+        "Wellington Phoenix FC": 2.45,
+        "Draw": 2.15
+      },
+      "Winamax (DE)": {
+        "Auckland FC": 3.0,
+        "Wellington Phoenix FC": 2.5,
+        "Draw": 2.25
+      },
+      "Marathon Bet": {
+        "Auckland FC": 3.3,
+        "Wellington Phoenix FC": 2.71,
+        "Draw": 2.47
+      },
+      "Nordic Bet": {
+        "Auckland FC": 3.3,
+        "Wellington Phoenix FC": 2.65,
+        "Draw": 2.4
+      },
+      "Betsson": {
+        "Auckland FC": 3.3,
+        "Wellington Phoenix FC": 2.65,
+        "Draw": 2.4
+      },
+      "Pinnacle": {
+        "Auckland FC": 3.23,
+        "Wellington Phoenix FC": 2.66,
+        "Draw": 2.68
+      },
+      "Coolbet": {
+        "Auckland FC": 3.5,
+        "Wellington Phoenix FC": 2.8,
+        "Draw": 2.5
+      },
+      "Betfair": {
+        "Auckland FC": 3.6,
+        "Wellington Phoenix FC": 2.88,
+        "Draw": 2.58
+      },
+      "Unibet (SE)": {
+        "Auckland FC": 3.05,
+        "Wellington Phoenix FC": 2.8,
+        "Draw": 2.55
+      },
+      "PMU (FR)": {
+        "Auckland FC": 2.75,
+        "Wellington Phoenix FC": 2.5,
+        "Draw": 2.25
+      },
+      "Unibet (NL)": {
+        "Auckland FC": 3.05,
+        "Wellington Phoenix FC": 2.8,
+        "Draw": 2.55
+      },
+      "LeoVegas (SE)": {
+        "Auckland FC": 2.95,
+        "Wellington Phoenix FC": 2.7,
+        "Draw": 2.45
+      },
+      "Matchbook": {
+        "Auckland FC": 2.9,
+        "Wellington Phoenix FC": 2.46,
+        "Draw": 2.44
+      }
+    },
+    "119d76b1e1352db6dcdd502373978ab4:h2h": {
+      "Coolbet": {
+        "Fagiano Okayama": 1.8,
+        "Yokohama F Marinos": 5.0,
+        "Draw": 3.25
+      },
+      "Unibet (FR)": {
+        "Fagiano Okayama": 1.6,
+        "Yokohama F Marinos": 4.1,
+        "Draw": 2.9
+      },
+      "Betclic (FR)": {
+        "Fagiano Okayama": 1.75,
+        "Yokohama F Marinos": 4.4,
+        "Draw": 3.2
+      },
+      "Nordic Bet": {
+        "Fagiano Okayama": 1.68,
+        "Yokohama F Marinos": 4.85,
+        "Draw": 3.2
+      },
+      "Betsson": {
+        "Fagiano Okayama": 1.72,
+        "Yokohama F Marinos": 4.4,
+        "Draw": 3.15
+      },
+      "Pinnacle": {
+        "Fagiano Okayama": 3.74,
+        "Yokohama F Marinos": 2.24,
+        "Draw": 2.89
+      },
+      "Marathon Bet": {
+        "Fagiano Okayama": 1.64,
+        "Yokohama F Marinos": 5.1,
+        "Draw": 3.36
+      },
+      "Winamax (DE)": {
+        "Fagiano Okayama": 1.76,
+        "Yokohama F Marinos": 4.0,
+        "Draw": 3.0
+      },
+      "Winamax (FR)": {
+        "Fagiano Okayama": 1.68,
+        "Yokohama F Marinos": 3.95,
+        "Draw": 2.85
+      },
+      "Tipico": {
+        "Fagiano Okayama": 1.65,
+        "Yokohama F Marinos": 5.0,
+        "Draw": 3.3
+      },
+      "Unibet (NL)": {
+        "Fagiano Okayama": 1.6,
+        "Yokohama F Marinos": 5.5,
+        "Draw": 3.3
+      },
+      "PMU (FR)": {
+        "Fagiano Okayama": 1.5,
+        "Yokohama F Marinos": 5.2,
+        "Draw": 3.15
+      },
+      "LeoVegas (SE)": {
+        "Fagiano Okayama": 1.5,
+        "Yokohama F Marinos": 5.6,
+        "Draw": 3.35
+      },
+      "Unibet (SE)": {
+        "Fagiano Okayama": 1.56,
+        "Yokohama F Marinos": 5.8,
+        "Draw": 3.45
+      },
+      "Betfair": {
+        "Fagiano Okayama": 1.82,
+        "Yokohama F Marinos": 5.4,
+        "Draw": 3.6
+      },
+      "Matchbook": {
+        "Fagiano Okayama": 1.69,
+        "Yokohama F Marinos": 4.9,
+        "Draw": 3.3
+      }
+    },
+    "7c7ac4bb1a60c27d4ecb72cb444ac84b:h2h": {
+      "Unibet (SE)": {
+        "Gwangju FC": 4.2,
+        "Jeju United FC": 1.97,
+        "Draw": 2.75
+      },
+      "LeoVegas (SE)": {
+        "Gwangju FC": 3.95,
+        "Jeju United FC": 1.85,
+        "Draw": 2.6
+      },
+      "Unibet (NL)": {
+        "Gwangju FC": 4.2,
+        "Jeju United FC": 1.97,
+        "Draw": 2.75
+      },
+      "PMU (FR)": {
+        "Gwangju FC": 3.85,
+        "Jeju United FC": 1.8,
+        "Draw": 2.55
+      },
+      "Unibet (FR)": {
+        "Gwangju FC": 3.35,
+        "Jeju United FC": 2.0,
+        "Draw": 2.45
+      },
+      "Nordic Bet": {
+        "Gwangju FC": 3.55,
+        "Jeju United FC": 2.2,
+        "Draw": 2.5
+      },
+      "Betclic (FR)": {
+        "Gwangju FC": 3.88,
+        "Jeju United FC": 2.07,
+        "Draw": 2.65
+      },
+      "Winamax (DE)": {
+        "Gwangju FC": 3.5,
+        "Jeju United FC": 2.1,
+        "Draw": 2.5
+      },
+      "Winamax (FR)": {
+        "Gwangju FC": 3.35,
+        "Jeju United FC": 2.0,
+        "Draw": 2.35
+      },
+      "Betsson": {
+        "Gwangju FC": 3.55,
+        "Jeju United FC": 2.2,
+        "Draw": 2.5
+      },
+      "Pinnacle": {
+        "Gwangju FC": 1.96,
+        "Jeju United FC": 4.22,
+        "Draw": 3.23
+      },
+      "Marathon Bet": {
+        "Gwangju FC": 3.78,
+        "Jeju United FC": 2.13,
+        "Draw": 2.67
+      },
+      "Betfair": {
+        "Gwangju FC": 3.2,
+        "Jeju United FC": 2.2,
+        "Draw": 2.6
+      },
+      "Coolbet": {
+        "Gwangju FC": 3.75,
+        "Jeju United FC": 2.2,
+        "Draw": 2.88
+      },
+      "Matchbook": {
+        "Gwangju FC": 4.2,
+        "Jeju United FC": 2.16,
+        "Draw": 2.72
       }
     }
   },
@@ -2350,21 +2480,1148 @@
       "confidence": 15,
       "alert_type": "value",
       "alerted_at": "2026-11-07T00:04:05.639698+00:00"
+    },
+    {
+      "state_key": "a082ac7bce86febea0e4015e6f274811:h2h",
+      "event_id": "a082ac7bce86febea0e4015e6f274811",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Shimizu S Pulse",
+      "away_team": "Tokyo Verdy",
+      "commence_time": "2026-11-07T04:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Shimizu S Pulse",
+      "odds_at_alert": 40.0,
+      "stake_pct": 5.0,
+      "confidence": 98,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T05:51:00.649468+00:00"
+    },
+    {
+      "state_key": "a082ac7bce86febea0e4015e6f274811:h2h",
+      "event_id": "a082ac7bce86febea0e4015e6f274811",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Shimizu S Pulse",
+      "away_team": "Tokyo Verdy",
+      "commence_time": "2026-11-07T04:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.5,
+      "stake_pct": 5.0,
+      "confidence": 25,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T05:51:00.999377+00:00"
+    },
+    {
+      "state_key": "a082ac7bce86febea0e4015e6f274811:h2h",
+      "event_id": "a082ac7bce86febea0e4015e6f274811",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Shimizu S Pulse",
+      "away_team": "Tokyo Verdy",
+      "commence_time": "2026-11-07T04:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Shimizu S Pulse",
+      "odds_at_alert": 35.0,
+      "stake_pct": 5.0,
+      "confidence": 73,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T05:51:01.389902+00:00"
+    },
+    {
+      "state_key": "a082ac7bce86febea0e4015e6f274811:h2h",
+      "event_id": "a082ac7bce86febea0e4015e6f274811",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Shimizu S Pulse",
+      "away_team": "Tokyo Verdy",
+      "commence_time": "2026-11-07T04:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Shimizu S Pulse",
+      "odds_at_alert": 29.0,
+      "stake_pct": 5.0,
+      "confidence": 44,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T05:51:01.744438+00:00"
+    },
+    {
+      "state_key": "a082ac7bce86febea0e4015e6f274811:h2h",
+      "event_id": "a082ac7bce86febea0e4015e6f274811",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Shimizu S Pulse",
+      "away_team": "Tokyo Verdy",
+      "commence_time": "2026-11-07T04:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.75,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T05:51:02.135971+00:00"
+    },
+    {
+      "state_key": "a082ac7bce86febea0e4015e6f274811:h2h",
+      "event_id": "a082ac7bce86febea0e4015e6f274811",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Shimizu S Pulse",
+      "away_team": "Tokyo Verdy",
+      "commence_time": "2026-11-07T04:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Shimizu S Pulse",
+      "odds_at_alert": 47.0,
+      "stake_pct": 5.0,
+      "confidence": 133,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T05:51:02.526429+00:00"
+    },
+    {
+      "state_key": "a082ac7bce86febea0e4015e6f274811:h2h",
+      "event_id": "a082ac7bce86febea0e4015e6f274811",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Shimizu S Pulse",
+      "away_team": "Tokyo Verdy",
+      "commence_time": "2026-11-07T04:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.8,
+      "stake_pct": 5.0,
+      "confidence": 32,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T05:51:02.889625+00:00"
+    },
+    {
+      "state_key": "a082ac7bce86febea0e4015e6f274811:h2h",
+      "event_id": "a082ac7bce86febea0e4015e6f274811",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Shimizu S Pulse",
+      "away_team": "Tokyo Verdy",
+      "commence_time": "2026-11-07T04:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Shimizu S Pulse",
+      "odds_at_alert": 50.0,
+      "stake_pct": 5.0,
+      "confidence": 148,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T05:51:03.241164+00:00"
+    },
+    {
+      "state_key": "a082ac7bce86febea0e4015e6f274811:h2h",
+      "event_id": "a082ac7bce86febea0e4015e6f274811",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Shimizu S Pulse",
+      "away_team": "Tokyo Verdy",
+      "commence_time": "2026-11-07T04:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.8,
+      "stake_pct": 5.0,
+      "confidence": 32,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T05:51:03.599432+00:00"
+    },
+    {
+      "state_key": "a082ac7bce86febea0e4015e6f274811:h2h",
+      "event_id": "a082ac7bce86febea0e4015e6f274811",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Shimizu S Pulse",
+      "away_team": "Tokyo Verdy",
+      "commence_time": "2026-11-07T04:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Shimizu S Pulse",
+      "odds_at_alert": 40.0,
+      "stake_pct": 5.0,
+      "confidence": 98,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T05:51:03.954551+00:00"
+    },
+    {
+      "state_key": "a082ac7bce86febea0e4015e6f274811:h2h",
+      "event_id": "a082ac7bce86febea0e4015e6f274811",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Shimizu S Pulse",
+      "away_team": "Tokyo Verdy",
+      "commence_time": "2026-11-07T04:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.2,
+      "stake_pct": 5.0,
+      "confidence": 18,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T05:51:04.333585+00:00"
+    },
+    {
+      "state_key": "a082ac7bce86febea0e4015e6f274811:h2h",
+      "event_id": "a082ac7bce86febea0e4015e6f274811",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Shimizu S Pulse",
+      "away_team": "Tokyo Verdy",
+      "commence_time": "2026-11-07T04:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Shimizu S Pulse",
+      "odds_at_alert": 44.0,
+      "stake_pct": 5.0,
+      "confidence": 118,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T05:51:04.739233+00:00"
+    },
+    {
+      "state_key": "a082ac7bce86febea0e4015e6f274811:h2h",
+      "event_id": "a082ac7bce86febea0e4015e6f274811",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Shimizu S Pulse",
+      "away_team": "Tokyo Verdy",
+      "commence_time": "2026-11-07T04:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.0,
+      "stake_pct": 3.0,
+      "confidence": 14,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T05:51:05.133957+00:00"
+    },
+    {
+      "state_key": "a082ac7bce86febea0e4015e6f274811:h2h",
+      "event_id": "a082ac7bce86febea0e4015e6f274811",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Shimizu S Pulse",
+      "away_team": "Tokyo Verdy",
+      "commence_time": "2026-11-07T04:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Shimizu S Pulse",
+      "odds_at_alert": 28.0,
+      "stake_pct": 5.0,
+      "confidence": 39,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T05:51:05.507079+00:00"
+    },
+    {
+      "state_key": "a082ac7bce86febea0e4015e6f274811:h2h",
+      "event_id": "a082ac7bce86febea0e4015e6f274811",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Shimizu S Pulse",
+      "away_team": "Tokyo Verdy",
+      "commence_time": "2026-11-07T04:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.4,
+      "stake_pct": 5.0,
+      "confidence": 23,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T05:51:05.860740+00:00"
+    },
+    {
+      "state_key": "a082ac7bce86febea0e4015e6f274811:h2h",
+      "event_id": "a082ac7bce86febea0e4015e6f274811",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Shimizu S Pulse",
+      "away_team": "Tokyo Verdy",
+      "commence_time": "2026-11-07T04:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Shimizu S Pulse",
+      "odds_at_alert": 36.0,
+      "stake_pct": 5.0,
+      "confidence": 78,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T05:51:06.225831+00:00"
+    },
+    {
+      "state_key": "a082ac7bce86febea0e4015e6f274811:h2h",
+      "event_id": "a082ac7bce86febea0e4015e6f274811",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Shimizu S Pulse",
+      "away_team": "Tokyo Verdy",
+      "commence_time": "2026-11-07T04:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.5,
+      "stake_pct": 5.0,
+      "confidence": 25,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T05:51:06.588531+00:00"
+    },
+    {
+      "state_key": "a082ac7bce86febea0e4015e6f274811:h2h",
+      "event_id": "a082ac7bce86febea0e4015e6f274811",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Shimizu S Pulse",
+      "away_team": "Tokyo Verdy",
+      "commence_time": "2026-11-07T04:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Shimizu S Pulse",
+      "odds_at_alert": 60.0,
+      "stake_pct": 5.0,
+      "confidence": 197,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T05:51:06.946703+00:00"
+    },
+    {
+      "state_key": "a082ac7bce86febea0e4015e6f274811:h2h",
+      "event_id": "a082ac7bce86febea0e4015e6f274811",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Shimizu S Pulse",
+      "away_team": "Tokyo Verdy",
+      "commence_time": "2026-11-07T04:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.5,
+      "stake_pct": 5.0,
+      "confidence": 25,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T05:51:07.307346+00:00"
+    },
+    {
+      "state_key": "a082ac7bce86febea0e4015e6f274811:h2h",
+      "event_id": "a082ac7bce86febea0e4015e6f274811",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Shimizu S Pulse",
+      "away_team": "Tokyo Verdy",
+      "commence_time": "2026-11-07T04:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Shimizu S Pulse",
+      "odds_at_alert": 41.0,
+      "stake_pct": 5.0,
+      "confidence": 103,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T05:51:07.671821+00:00"
+    },
+    {
+      "state_key": "a082ac7bce86febea0e4015e6f274811:h2h",
+      "event_id": "a082ac7bce86febea0e4015e6f274811",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Shimizu S Pulse",
+      "away_team": "Tokyo Verdy",
+      "commence_time": "2026-11-07T04:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.1,
+      "stake_pct": 5.0,
+      "confidence": 39,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T05:51:08.060030+00:00"
+    },
+    {
+      "state_key": "a082ac7bce86febea0e4015e6f274811:h2h",
+      "event_id": "a082ac7bce86febea0e4015e6f274811",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Shimizu S Pulse",
+      "away_team": "Tokyo Verdy",
+      "commence_time": "2026-11-07T04:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Shimizu S Pulse",
+      "odds_at_alert": 46.0,
+      "stake_pct": 5.0,
+      "confidence": 128,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T05:51:08.415223+00:00"
+    },
+    {
+      "state_key": "a082ac7bce86febea0e4015e6f274811:h2h",
+      "event_id": "a082ac7bce86febea0e4015e6f274811",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Shimizu S Pulse",
+      "away_team": "Tokyo Verdy",
+      "commence_time": "2026-11-07T04:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.0,
+      "stake_pct": 5.0,
+      "confidence": 37,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T05:51:08.838438+00:00"
+    },
+    {
+      "state_key": "a082ac7bce86febea0e4015e6f274811:h2h",
+      "event_id": "a082ac7bce86febea0e4015e6f274811",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Shimizu S Pulse",
+      "away_team": "Tokyo Verdy",
+      "commence_time": "2026-11-07T04:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Shimizu S Pulse",
+      "odds_at_alert": 46.0,
+      "stake_pct": 5.0,
+      "confidence": 128,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T05:51:09.229287+00:00"
+    },
+    {
+      "state_key": "a082ac7bce86febea0e4015e6f274811:h2h",
+      "event_id": "a082ac7bce86febea0e4015e6f274811",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Shimizu S Pulse",
+      "away_team": "Tokyo Verdy",
+      "commence_time": "2026-11-07T04:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.75,
+      "stake_pct": 5.0,
+      "confidence": 54,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T05:51:09.616684+00:00"
+    },
+    {
+      "state_key": "a082ac7bce86febea0e4015e6f274811:h2h",
+      "event_id": "a082ac7bce86febea0e4015e6f274811",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Shimizu S Pulse",
+      "away_team": "Tokyo Verdy",
+      "commence_time": "2026-11-07T04:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Shimizu S Pulse",
+      "odds_at_alert": 61.0,
+      "stake_pct": 5.0,
+      "confidence": 202,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T05:51:09.985417+00:00"
+    },
+    {
+      "state_key": "a082ac7bce86febea0e4015e6f274811:h2h",
+      "event_id": "a082ac7bce86febea0e4015e6f274811",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Shimizu S Pulse",
+      "away_team": "Tokyo Verdy",
+      "commence_time": "2026-11-07T04:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.25,
+      "stake_pct": 5.0,
+      "confidence": 42,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T05:51:10.363301+00:00"
+    },
+    {
+      "state_key": "a082ac7bce86febea0e4015e6f274811:h2h",
+      "event_id": "a082ac7bce86febea0e4015e6f274811",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Shimizu S Pulse",
+      "away_team": "Tokyo Verdy",
+      "commence_time": "2026-11-07T04:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Shimizu S Pulse",
+      "odds_at_alert": 42.0,
+      "stake_pct": 5.0,
+      "confidence": 108,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T05:51:10.727056+00:00"
+    },
+    {
+      "state_key": "a082ac7bce86febea0e4015e6f274811:h2h",
+      "event_id": "a082ac7bce86febea0e4015e6f274811",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Shimizu S Pulse",
+      "away_team": "Tokyo Verdy",
+      "commence_time": "2026-11-07T04:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.9,
+      "stake_pct": 5.0,
+      "confidence": 34,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T05:51:11.098153+00:00"
+    },
+    {
+      "state_key": "deb167291e30fad7203968083b27bfb6:h2h",
+      "event_id": "deb167291e30fad7203968083b27bfb6",
+      "sport_key": "soccer",
+      "competition": "A-League",
+      "home_team": "Auckland FC",
+      "away_team": "Wellington Phoenix FC",
+      "commence_time": "2026-11-07T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Auckland FC",
+      "odds_at_alert": 3.6,
+      "stake_pct": 2.0,
+      "confidence": 5,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T05:51:11.459847+00:00"
+    },
+    {
+      "state_key": "119d76b1e1352db6dcdd502373978ab4:h2h",
+      "event_id": "119d76b1e1352db6dcdd502373978ab4",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Yokohama F Marinos",
+      "away_team": "Fagiano Okayama",
+      "commence_time": "2026-11-07T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Yokohama F Marinos",
+      "odds_at_alert": 5.0,
+      "stake_pct": 5.0,
+      "confidence": 111,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T05:51:11.829208+00:00"
+    },
+    {
+      "state_key": "119d76b1e1352db6dcdd502373978ab4:h2h",
+      "event_id": "119d76b1e1352db6dcdd502373978ab4",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Yokohama F Marinos",
+      "away_team": "Fagiano Okayama",
+      "commence_time": "2026-11-07T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.25,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T05:51:12.219638+00:00"
+    },
+    {
+      "state_key": "119d76b1e1352db6dcdd502373978ab4:h2h",
+      "event_id": "119d76b1e1352db6dcdd502373978ab4",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Yokohama F Marinos",
+      "away_team": "Fagiano Okayama",
+      "commence_time": "2026-11-07T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Yokohama F Marinos",
+      "odds_at_alert": 4.1,
+      "stake_pct": 5.0,
+      "confidence": 73,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T05:51:12.603498+00:00"
+    },
+    {
+      "state_key": "119d76b1e1352db6dcdd502373978ab4:h2h",
+      "event_id": "119d76b1e1352db6dcdd502373978ab4",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Yokohama F Marinos",
+      "away_team": "Fagiano Okayama",
+      "commence_time": "2026-11-07T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Yokohama F Marinos",
+      "odds_at_alert": 4.4,
+      "stake_pct": 5.0,
+      "confidence": 85,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T05:51:13.005831+00:00"
+    },
+    {
+      "state_key": "119d76b1e1352db6dcdd502373978ab4:h2h",
+      "event_id": "119d76b1e1352db6dcdd502373978ab4",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Yokohama F Marinos",
+      "away_team": "Fagiano Okayama",
+      "commence_time": "2026-11-07T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Yokohama F Marinos",
+      "odds_at_alert": 4.85,
+      "stake_pct": 5.0,
+      "confidence": 104,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T05:51:13.633713+00:00"
+    },
+    {
+      "state_key": "119d76b1e1352db6dcdd502373978ab4:h2h",
+      "event_id": "119d76b1e1352db6dcdd502373978ab4",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Yokohama F Marinos",
+      "away_team": "Fagiano Okayama",
+      "commence_time": "2026-11-07T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Yokohama F Marinos",
+      "odds_at_alert": 4.4,
+      "stake_pct": 5.0,
+      "confidence": 85,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T05:51:14.169385+00:00"
+    },
+    {
+      "state_key": "119d76b1e1352db6dcdd502373978ab4:h2h",
+      "event_id": "119d76b1e1352db6dcdd502373978ab4",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Yokohama F Marinos",
+      "away_team": "Fagiano Okayama",
+      "commence_time": "2026-11-07T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Yokohama F Marinos",
+      "odds_at_alert": 5.1,
+      "stake_pct": 5.0,
+      "confidence": 115,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T05:51:14.536764+00:00"
+    },
+    {
+      "state_key": "119d76b1e1352db6dcdd502373978ab4:h2h",
+      "event_id": "119d76b1e1352db6dcdd502373978ab4",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Yokohama F Marinos",
+      "away_team": "Fagiano Okayama",
+      "commence_time": "2026-11-07T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.36,
+      "stake_pct": 2.0,
+      "confidence": 10,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T05:51:14.896905+00:00"
+    },
+    {
+      "state_key": "119d76b1e1352db6dcdd502373978ab4:h2h",
+      "event_id": "119d76b1e1352db6dcdd502373978ab4",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Yokohama F Marinos",
+      "away_team": "Fagiano Okayama",
+      "commence_time": "2026-11-07T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Yokohama F Marinos",
+      "odds_at_alert": 4.0,
+      "stake_pct": 5.0,
+      "confidence": 68,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T05:51:15.278045+00:00"
+    },
+    {
+      "state_key": "119d76b1e1352db6dcdd502373978ab4:h2h",
+      "event_id": "119d76b1e1352db6dcdd502373978ab4",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Yokohama F Marinos",
+      "away_team": "Fagiano Okayama",
+      "commence_time": "2026-11-07T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Yokohama F Marinos",
+      "odds_at_alert": 3.95,
+      "stake_pct": 5.0,
+      "confidence": 66,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T05:51:15.653052+00:00"
+    },
+    {
+      "state_key": "119d76b1e1352db6dcdd502373978ab4:h2h",
+      "event_id": "119d76b1e1352db6dcdd502373978ab4",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Yokohama F Marinos",
+      "away_team": "Fagiano Okayama",
+      "commence_time": "2026-11-07T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Yokohama F Marinos",
+      "odds_at_alert": 5.0,
+      "stake_pct": 5.0,
+      "confidence": 111,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T05:51:16.001098+00:00"
+    },
+    {
+      "state_key": "119d76b1e1352db6dcdd502373978ab4:h2h",
+      "event_id": "119d76b1e1352db6dcdd502373978ab4",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Yokohama F Marinos",
+      "away_team": "Fagiano Okayama",
+      "commence_time": "2026-11-07T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.3,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T05:51:16.414040+00:00"
+    },
+    {
+      "state_key": "119d76b1e1352db6dcdd502373978ab4:h2h",
+      "event_id": "119d76b1e1352db6dcdd502373978ab4",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Yokohama F Marinos",
+      "away_team": "Fagiano Okayama",
+      "commence_time": "2026-11-07T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Yokohama F Marinos",
+      "odds_at_alert": 5.5,
+      "stake_pct": 5.0,
+      "confidence": 132,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T05:51:16.770694+00:00"
+    },
+    {
+      "state_key": "119d76b1e1352db6dcdd502373978ab4:h2h",
+      "event_id": "119d76b1e1352db6dcdd502373978ab4",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Yokohama F Marinos",
+      "away_team": "Fagiano Okayama",
+      "commence_time": "2026-11-07T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.3,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T05:51:17.128168+00:00"
+    },
+    {
+      "state_key": "119d76b1e1352db6dcdd502373978ab4:h2h",
+      "event_id": "119d76b1e1352db6dcdd502373978ab4",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Yokohama F Marinos",
+      "away_team": "Fagiano Okayama",
+      "commence_time": "2026-11-07T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Yokohama F Marinos",
+      "odds_at_alert": 5.2,
+      "stake_pct": 5.0,
+      "confidence": 119,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T05:51:17.499849+00:00"
+    },
+    {
+      "state_key": "119d76b1e1352db6dcdd502373978ab4:h2h",
+      "event_id": "119d76b1e1352db6dcdd502373978ab4",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Yokohama F Marinos",
+      "away_team": "Fagiano Okayama",
+      "commence_time": "2026-11-07T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Yokohama F Marinos",
+      "odds_at_alert": 5.6,
+      "stake_pct": 5.0,
+      "confidence": 136,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T05:51:17.854937+00:00"
+    },
+    {
+      "state_key": "119d76b1e1352db6dcdd502373978ab4:h2h",
+      "event_id": "119d76b1e1352db6dcdd502373978ab4",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Yokohama F Marinos",
+      "away_team": "Fagiano Okayama",
+      "commence_time": "2026-11-07T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.35,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T05:51:18.224068+00:00"
+    },
+    {
+      "state_key": "119d76b1e1352db6dcdd502373978ab4:h2h",
+      "event_id": "119d76b1e1352db6dcdd502373978ab4",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Yokohama F Marinos",
+      "away_team": "Fagiano Okayama",
+      "commence_time": "2026-11-07T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Yokohama F Marinos",
+      "odds_at_alert": 5.8,
+      "stake_pct": 5.0,
+      "confidence": 144,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T05:51:18.587062+00:00"
+    },
+    {
+      "state_key": "119d76b1e1352db6dcdd502373978ab4:h2h",
+      "event_id": "119d76b1e1352db6dcdd502373978ab4",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Yokohama F Marinos",
+      "away_team": "Fagiano Okayama",
+      "commence_time": "2026-11-07T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.45,
+      "stake_pct": 3.0,
+      "confidence": 13,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T05:51:18.939983+00:00"
+    },
+    {
+      "state_key": "119d76b1e1352db6dcdd502373978ab4:h2h",
+      "event_id": "119d76b1e1352db6dcdd502373978ab4",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Yokohama F Marinos",
+      "away_team": "Fagiano Okayama",
+      "commence_time": "2026-11-07T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Yokohama F Marinos",
+      "odds_at_alert": 5.4,
+      "stake_pct": 5.0,
+      "confidence": 127,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T05:51:19.291289+00:00"
+    },
+    {
+      "state_key": "119d76b1e1352db6dcdd502373978ab4:h2h",
+      "event_id": "119d76b1e1352db6dcdd502373978ab4",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Yokohama F Marinos",
+      "away_team": "Fagiano Okayama",
+      "commence_time": "2026-11-07T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.6,
+      "stake_pct": 5.0,
+      "confidence": 18,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T05:51:19.652640+00:00"
+    },
+    {
+      "state_key": "119d76b1e1352db6dcdd502373978ab4:h2h",
+      "event_id": "119d76b1e1352db6dcdd502373978ab4",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Yokohama F Marinos",
+      "away_team": "Fagiano Okayama",
+      "commence_time": "2026-11-07T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Yokohama F Marinos",
+      "odds_at_alert": 4.9,
+      "stake_pct": 5.0,
+      "confidence": 106,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T05:51:20.010945+00:00"
+    },
+    {
+      "state_key": "119d76b1e1352db6dcdd502373978ab4:h2h",
+      "event_id": "119d76b1e1352db6dcdd502373978ab4",
+      "sport_key": "soccer",
+      "competition": "J League",
+      "home_team": "Yokohama F Marinos",
+      "away_team": "Fagiano Okayama",
+      "commence_time": "2026-11-07T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.3,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T05:51:20.367665+00:00"
+    },
+    {
+      "state_key": "7c7ac4bb1a60c27d4ecb72cb444ac84b:h2h",
+      "event_id": "7c7ac4bb1a60c27d4ecb72cb444ac84b",
+      "sport_key": "soccer",
+      "competition": "K League 1",
+      "home_team": "Jeju United FC",
+      "away_team": "Gwangju FC",
+      "commence_time": "2026-11-07T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gwangju FC",
+      "odds_at_alert": 4.2,
+      "stake_pct": 5.0,
+      "confidence": 103,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T05:51:20.732000+00:00"
+    },
+    {
+      "state_key": "7c7ac4bb1a60c27d4ecb72cb444ac84b:h2h",
+      "event_id": "7c7ac4bb1a60c27d4ecb72cb444ac84b",
+      "sport_key": "soccer",
+      "competition": "K League 1",
+      "home_team": "Jeju United FC",
+      "away_team": "Gwangju FC",
+      "commence_time": "2026-11-07T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gwangju FC",
+      "odds_at_alert": 3.95,
+      "stake_pct": 5.0,
+      "confidence": 91,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T05:51:21.105776+00:00"
+    },
+    {
+      "state_key": "7c7ac4bb1a60c27d4ecb72cb444ac84b:h2h",
+      "event_id": "7c7ac4bb1a60c27d4ecb72cb444ac84b",
+      "sport_key": "soccer",
+      "competition": "K League 1",
+      "home_team": "Jeju United FC",
+      "away_team": "Gwangju FC",
+      "commence_time": "2026-11-07T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gwangju FC",
+      "odds_at_alert": 4.2,
+      "stake_pct": 5.0,
+      "confidence": 103,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T05:51:21.627182+00:00"
+    },
+    {
+      "state_key": "7c7ac4bb1a60c27d4ecb72cb444ac84b:h2h",
+      "event_id": "7c7ac4bb1a60c27d4ecb72cb444ac84b",
+      "sport_key": "soccer",
+      "competition": "K League 1",
+      "home_team": "Jeju United FC",
+      "away_team": "Gwangju FC",
+      "commence_time": "2026-11-07T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gwangju FC",
+      "odds_at_alert": 3.85,
+      "stake_pct": 5.0,
+      "confidence": 86,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T05:51:21.998630+00:00"
+    },
+    {
+      "state_key": "7c7ac4bb1a60c27d4ecb72cb444ac84b:h2h",
+      "event_id": "7c7ac4bb1a60c27d4ecb72cb444ac84b",
+      "sport_key": "soccer",
+      "competition": "K League 1",
+      "home_team": "Jeju United FC",
+      "away_team": "Gwangju FC",
+      "commence_time": "2026-11-07T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gwangju FC",
+      "odds_at_alert": 3.35,
+      "stake_pct": 5.0,
+      "confidence": 62,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T05:51:22.369326+00:00"
+    },
+    {
+      "state_key": "7c7ac4bb1a60c27d4ecb72cb444ac84b:h2h",
+      "event_id": "7c7ac4bb1a60c27d4ecb72cb444ac84b",
+      "sport_key": "soccer",
+      "competition": "K League 1",
+      "home_team": "Jeju United FC",
+      "away_team": "Gwangju FC",
+      "commence_time": "2026-11-07T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gwangju FC",
+      "odds_at_alert": 3.55,
+      "stake_pct": 5.0,
+      "confidence": 71,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T05:51:22.739057+00:00"
+    },
+    {
+      "state_key": "7c7ac4bb1a60c27d4ecb72cb444ac84b:h2h",
+      "event_id": "7c7ac4bb1a60c27d4ecb72cb444ac84b",
+      "sport_key": "soccer",
+      "competition": "K League 1",
+      "home_team": "Jeju United FC",
+      "away_team": "Gwangju FC",
+      "commence_time": "2026-11-07T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gwangju FC",
+      "odds_at_alert": 3.88,
+      "stake_pct": 5.0,
+      "confidence": 87,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T05:51:23.094608+00:00"
+    },
+    {
+      "state_key": "7c7ac4bb1a60c27d4ecb72cb444ac84b:h2h",
+      "event_id": "7c7ac4bb1a60c27d4ecb72cb444ac84b",
+      "sport_key": "soccer",
+      "competition": "K League 1",
+      "home_team": "Jeju United FC",
+      "away_team": "Gwangju FC",
+      "commence_time": "2026-11-07T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gwangju FC",
+      "odds_at_alert": 3.5,
+      "stake_pct": 5.0,
+      "confidence": 69,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T05:51:23.470340+00:00"
+    },
+    {
+      "state_key": "7c7ac4bb1a60c27d4ecb72cb444ac84b:h2h",
+      "event_id": "7c7ac4bb1a60c27d4ecb72cb444ac84b",
+      "sport_key": "soccer",
+      "competition": "K League 1",
+      "home_team": "Jeju United FC",
+      "away_team": "Gwangju FC",
+      "commence_time": "2026-11-07T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gwangju FC",
+      "odds_at_alert": 3.35,
+      "stake_pct": 5.0,
+      "confidence": 62,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T05:51:23.857012+00:00"
+    },
+    {
+      "state_key": "7c7ac4bb1a60c27d4ecb72cb444ac84b:h2h",
+      "event_id": "7c7ac4bb1a60c27d4ecb72cb444ac84b",
+      "sport_key": "soccer",
+      "competition": "K League 1",
+      "home_team": "Jeju United FC",
+      "away_team": "Gwangju FC",
+      "commence_time": "2026-11-07T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gwangju FC",
+      "odds_at_alert": 3.55,
+      "stake_pct": 5.0,
+      "confidence": 71,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T05:51:24.230263+00:00"
+    },
+    {
+      "state_key": "7c7ac4bb1a60c27d4ecb72cb444ac84b:h2h",
+      "event_id": "7c7ac4bb1a60c27d4ecb72cb444ac84b",
+      "sport_key": "soccer",
+      "competition": "K League 1",
+      "home_team": "Jeju United FC",
+      "away_team": "Gwangju FC",
+      "commence_time": "2026-11-07T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gwangju FC",
+      "odds_at_alert": 3.78,
+      "stake_pct": 5.0,
+      "confidence": 82,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T05:51:24.601934+00:00"
+    },
+    {
+      "state_key": "7c7ac4bb1a60c27d4ecb72cb444ac84b:h2h",
+      "event_id": "7c7ac4bb1a60c27d4ecb72cb444ac84b",
+      "sport_key": "soccer",
+      "competition": "K League 1",
+      "home_team": "Jeju United FC",
+      "away_team": "Gwangju FC",
+      "commence_time": "2026-11-07T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gwangju FC",
+      "odds_at_alert": 3.2,
+      "stake_pct": 5.0,
+      "confidence": 54,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T05:51:24.967376+00:00"
+    },
+    {
+      "state_key": "7c7ac4bb1a60c27d4ecb72cb444ac84b:h2h",
+      "event_id": "7c7ac4bb1a60c27d4ecb72cb444ac84b",
+      "sport_key": "soccer",
+      "competition": "K League 1",
+      "home_team": "Jeju United FC",
+      "away_team": "Gwangju FC",
+      "commence_time": "2026-11-07T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gwangju FC",
+      "odds_at_alert": 3.75,
+      "stake_pct": 5.0,
+      "confidence": 81,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T05:51:25.340455+00:00"
+    },
+    {
+      "state_key": "7c7ac4bb1a60c27d4ecb72cb444ac84b:h2h",
+      "event_id": "7c7ac4bb1a60c27d4ecb72cb444ac84b",
+      "sport_key": "soccer",
+      "competition": "K League 1",
+      "home_team": "Jeju United FC",
+      "away_team": "Gwangju FC",
+      "commence_time": "2026-11-07T05:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Gwangju FC",
+      "odds_at_alert": 4.2,
+      "stake_pct": 5.0,
+      "confidence": 103,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T05:51:25.702240+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "e388778c13b68bbbfdd41fc0adbf69ee:h2h|888sport|Sport Recife",
-    "e388778c13b68bbbfdd41fc0adbf69ee:h2h|Betfair|Draw",
-    "e388778c13b68bbbfdd41fc0adbf69ee:h2h|Betfair|Sport Recife",
-    "e388778c13b68bbbfdd41fc0adbf69ee:h2h|Betsson|Sport Recife",
-    "e388778c13b68bbbfdd41fc0adbf69ee:h2h|Coolbet|Sport Recife",
-    "e388778c13b68bbbfdd41fc0adbf69ee:h2h|LeoVegas (SE)|Sport Recife",
-    "e388778c13b68bbbfdd41fc0adbf69ee:h2h|Marathon Bet|Sport Recife",
-    "e388778c13b68bbbfdd41fc0adbf69ee:h2h|Matchbook|Draw",
-    "e388778c13b68bbbfdd41fc0adbf69ee:h2h|Matchbook|Sport Recife",
-    "e388778c13b68bbbfdd41fc0adbf69ee:h2h|Nordic Bet|Sport Recife",
-    "e388778c13b68bbbfdd41fc0adbf69ee:h2h|Unibet (NL)|Sport Recife",
-    "e388778c13b68bbbfdd41fc0adbf69ee:h2h|Unibet (SE)|Sport Recife"
+    "119d76b1e1352db6dcdd502373978ab4:h2h|Betclic (FR)|Yokohama F Marinos",
+    "119d76b1e1352db6dcdd502373978ab4:h2h|Betfair|Draw",
+    "119d76b1e1352db6dcdd502373978ab4:h2h|Betfair|Yokohama F Marinos",
+    "119d76b1e1352db6dcdd502373978ab4:h2h|Betsson|Yokohama F Marinos",
+    "119d76b1e1352db6dcdd502373978ab4:h2h|Coolbet|Draw",
+    "119d76b1e1352db6dcdd502373978ab4:h2h|Coolbet|Yokohama F Marinos",
+    "119d76b1e1352db6dcdd502373978ab4:h2h|LeoVegas (SE)|Draw",
+    "119d76b1e1352db6dcdd502373978ab4:h2h|LeoVegas (SE)|Yokohama F Marinos",
+    "119d76b1e1352db6dcdd502373978ab4:h2h|Marathon Bet|Draw",
+    "119d76b1e1352db6dcdd502373978ab4:h2h|Marathon Bet|Yokohama F Marinos",
+    "119d76b1e1352db6dcdd502373978ab4:h2h|Matchbook|Draw",
+    "119d76b1e1352db6dcdd502373978ab4:h2h|Matchbook|Yokohama F Marinos",
+    "119d76b1e1352db6dcdd502373978ab4:h2h|Nordic Bet|Yokohama F Marinos",
+    "119d76b1e1352db6dcdd502373978ab4:h2h|PMU (FR)|Yokohama F Marinos",
+    "119d76b1e1352db6dcdd502373978ab4:h2h|Tipico|Draw",
+    "119d76b1e1352db6dcdd502373978ab4:h2h|Tipico|Yokohama F Marinos",
+    "119d76b1e1352db6dcdd502373978ab4:h2h|Unibet (FR)|Yokohama F Marinos",
+    "119d76b1e1352db6dcdd502373978ab4:h2h|Unibet (NL)|Draw",
+    "119d76b1e1352db6dcdd502373978ab4:h2h|Unibet (NL)|Yokohama F Marinos",
+    "119d76b1e1352db6dcdd502373978ab4:h2h|Unibet (SE)|Draw",
+    "119d76b1e1352db6dcdd502373978ab4:h2h|Unibet (SE)|Yokohama F Marinos",
+    "119d76b1e1352db6dcdd502373978ab4:h2h|Winamax (DE)|Yokohama F Marinos",
+    "119d76b1e1352db6dcdd502373978ab4:h2h|Winamax (FR)|Yokohama F Marinos",
+    "7c7ac4bb1a60c27d4ecb72cb444ac84b:h2h|Betclic (FR)|Gwangju FC",
+    "7c7ac4bb1a60c27d4ecb72cb444ac84b:h2h|Betfair|Gwangju FC",
+    "7c7ac4bb1a60c27d4ecb72cb444ac84b:h2h|Betsson|Gwangju FC",
+    "7c7ac4bb1a60c27d4ecb72cb444ac84b:h2h|Coolbet|Gwangju FC",
+    "7c7ac4bb1a60c27d4ecb72cb444ac84b:h2h|LeoVegas (SE)|Gwangju FC",
+    "7c7ac4bb1a60c27d4ecb72cb444ac84b:h2h|Marathon Bet|Gwangju FC",
+    "7c7ac4bb1a60c27d4ecb72cb444ac84b:h2h|Matchbook|Gwangju FC",
+    "7c7ac4bb1a60c27d4ecb72cb444ac84b:h2h|Nordic Bet|Gwangju FC",
+    "7c7ac4bb1a60c27d4ecb72cb444ac84b:h2h|PMU (FR)|Gwangju FC",
+    "7c7ac4bb1a60c27d4ecb72cb444ac84b:h2h|Unibet (FR)|Gwangju FC",
+    "7c7ac4bb1a60c27d4ecb72cb444ac84b:h2h|Unibet (NL)|Gwangju FC",
+    "7c7ac4bb1a60c27d4ecb72cb444ac84b:h2h|Unibet (SE)|Gwangju FC",
+    "7c7ac4bb1a60c27d4ecb72cb444ac84b:h2h|Winamax (DE)|Gwangju FC",
+    "7c7ac4bb1a60c27d4ecb72cb444ac84b:h2h|Winamax (FR)|Gwangju FC",
+    "a082ac7bce86febea0e4015e6f274811:h2h|888sport|Draw",
+    "a082ac7bce86febea0e4015e6f274811:h2h|888sport|Shimizu S Pulse",
+    "a082ac7bce86febea0e4015e6f274811:h2h|Betclic (FR)|Draw",
+    "a082ac7bce86febea0e4015e6f274811:h2h|Betclic (FR)|Shimizu S Pulse",
+    "a082ac7bce86febea0e4015e6f274811:h2h|Betfair|Draw",
+    "a082ac7bce86febea0e4015e6f274811:h2h|Betfair|Shimizu S Pulse",
+    "a082ac7bce86febea0e4015e6f274811:h2h|Betsson|Draw",
+    "a082ac7bce86febea0e4015e6f274811:h2h|Betsson|Shimizu S Pulse",
+    "a082ac7bce86febea0e4015e6f274811:h2h|Coolbet|Draw",
+    "a082ac7bce86febea0e4015e6f274811:h2h|Coolbet|Shimizu S Pulse",
+    "a082ac7bce86febea0e4015e6f274811:h2h|LeoVegas (SE)|Draw",
+    "a082ac7bce86febea0e4015e6f274811:h2h|LeoVegas (SE)|Shimizu S Pulse",
+    "a082ac7bce86febea0e4015e6f274811:h2h|Marathon Bet|Draw",
+    "a082ac7bce86febea0e4015e6f274811:h2h|Marathon Bet|Shimizu S Pulse",
+    "a082ac7bce86febea0e4015e6f274811:h2h|Nordic Bet|Draw",
+    "a082ac7bce86febea0e4015e6f274811:h2h|Nordic Bet|Shimizu S Pulse",
+    "a082ac7bce86febea0e4015e6f274811:h2h|PMU (FR)|Draw",
+    "a082ac7bce86febea0e4015e6f274811:h2h|PMU (FR)|Shimizu S Pulse",
+    "a082ac7bce86febea0e4015e6f274811:h2h|Tipico|Draw",
+    "a082ac7bce86febea0e4015e6f274811:h2h|Tipico|Shimizu S Pulse",
+    "a082ac7bce86febea0e4015e6f274811:h2h|Unibet (FR)|Shimizu S Pulse",
+    "a082ac7bce86febea0e4015e6f274811:h2h|Unibet (NL)|Draw",
+    "a082ac7bce86febea0e4015e6f274811:h2h|Unibet (NL)|Shimizu S Pulse",
+    "a082ac7bce86febea0e4015e6f274811:h2h|Unibet (SE)|Draw",
+    "a082ac7bce86febea0e4015e6f274811:h2h|Unibet (SE)|Shimizu S Pulse",
+    "a082ac7bce86febea0e4015e6f274811:h2h|Winamax (DE)|Draw",
+    "a082ac7bce86febea0e4015e6f274811:h2h|Winamax (DE)|Shimizu S Pulse",
+    "a082ac7bce86febea0e4015e6f274811:h2h|Winamax (FR)|Draw",
+    "a082ac7bce86febea0e4015e6f274811:h2h|Winamax (FR)|Shimizu S Pulse",
+    "deb167291e30fad7203968083b27bfb6:h2h|Betfair|Auckland FC"
   ]
 }
