@@ -1,211 +1,306 @@
 {
   "snapshots": {
-    "0b2d4e8e9b2bd4df8d782f6c34f21624:h2h": {
-      "LeoVegas (SE)": {
-        "BSC Young Boys": 3.95,
-        "FC Luzern": 4.9,
-        "Draw": 1.41
-      },
-      "Unibet (SE)": {
-        "BSC Young Boys": 4.25,
-        "FC Luzern": 5.0,
-        "Draw": 1.5
-      },
-      "PMU (FR)": {
-        "BSC Young Boys": 4.0,
-        "FC Luzern": 4.75,
-        "Draw": 1.41
-      },
-      "Unibet (NL)": {
-        "BSC Young Boys": 4.2,
-        "FC Luzern": 5.1,
-        "Draw": 1.5
+    "9dcf8fb969f03209c256131c17ff87f1:h2h": {
+      "Coolbet": {
+        "Criciuma": 8.0,
+        "Vila Nova": 1.4,
+        "Draw": 4.0
       },
       "Nordic Bet": {
-        "BSC Young Boys": 1.23,
-        "FC Luzern": 19.5,
-        "Draw": 4.2
+        "Criciuma": 7.7,
+        "Vila Nova": 1.4,
+        "Draw": 3.9
+      },
+      "Pinnacle": {
+        "Criciuma": 9.35,
+        "Vila Nova": 1.4,
+        "Draw": 4.11
       },
       "Betsson": {
-        "BSC Young Boys": 1.2,
-        "FC Luzern": 21.0,
+        "Criciuma": 7.7,
+        "Vila Nova": 1.4,
+        "Draw": 3.9
+      },
+      "888sport": {
+        "Criciuma": 7.5,
+        "Vila Nova": 1.4,
+        "Draw": 4.0
+      },
+      "Marathon Bet": {
+        "Criciuma": 8.0,
+        "Vila Nova": 1.36,
+        "Draw": 4.05
+      },
+      "Betfair": {
+        "Criciuma": 10.0,
+        "Vila Nova": 1.45,
+        "Draw": 4.4
+      },
+      "Matchbook": {
+        "Criciuma": 9.6,
+        "Vila Nova": 1.4,
+        "Draw": 4.4
+      },
+      "Unibet (SE)": {
+        "Criciuma": 9.0,
+        "Vila Nova": 1.34,
+        "Draw": 4.1
+      },
+      "Unibet (NL)": {
+        "Criciuma": 9.0,
+        "Vila Nova": 1.34,
+        "Draw": 4.1
+      },
+      "LeoVegas (SE)": {
+        "Criciuma": 8.5,
+        "Vila Nova": 1.26,
+        "Draw": 3.85
+      },
+      "Tipico": {
+        "Criciuma": 7.5,
+        "Vila Nova": 1.35,
+        "Draw": 4.3
+      }
+    },
+    "e6cd4f60d455d26b22be262f1b0ef661:h2h": {
+      "Pinnacle": {
+        "Cuiabá": 3.47,
+        "Juventude": 2.68,
+        "Draw": 2.46
+      },
+      "Marathon Bet": {
+        "Cuiabá": 3.5,
+        "Juventude": 2.5,
+        "Draw": 2.38
+      },
+      "888sport": {
+        "Cuiabá": 3.4,
+        "Juventude": 2.5,
+        "Draw": 2.4
+      },
+      "Betsson": {
+        "Cuiabá": 3.4,
+        "Juventude": 2.6,
+        "Draw": 2.4
+      },
+      "Nordic Bet": {
+        "Cuiabá": 3.4,
+        "Juventude": 2.6,
+        "Draw": 2.4
+      },
+      "Coolbet": {
+        "Cuiabá": 3.4,
+        "Juventude": 2.63,
+        "Draw": 2.4
+      },
+      "Betfair": {
+        "Cuiabá": 3.8,
+        "Juventude": 2.68,
+        "Draw": 2.68
+      },
+      "Matchbook": {
+        "Cuiabá": 3.7,
+        "Juventude": 2.6,
+        "Draw": 2.58
+      },
+      "Unibet (NL)": {
+        "Cuiabá": 3.65,
+        "Juventude": 2.38,
+        "Draw": 2.43
+      },
+      "LeoVegas (SE)": {
+        "Cuiabá": 3.5,
+        "Juventude": 2.2,
+        "Draw": 2.3
+      },
+      "Unibet (SE)": {
+        "Cuiabá": 3.7,
+        "Juventude": 2.33,
+        "Draw": 2.45
+      }
+    },
+    "28607ad26e44b8c72a8033ca39e6babe:h2h": {
+      "Pinnacle": {
+        "Atlas": 15.53,
+        "Pachuca": 1.17,
+        "Draw": 7.34
+      },
+      "Nordic Bet": {
+        "Atlas": 14.0,
+        "Pachuca": 1.12,
+        "Draw": 7.7
+      },
+      "Unibet (SE)": {
+        "Atlas": 16.0,
+        "Pachuca": 1.14,
+        "Draw": 7.5
+      },
+      "Unibet (NL)": {
+        "Atlas": 16.0,
+        "Pachuca": 1.14,
+        "Draw": 7.5
+      },
+      "Coolbet": {
+        "Atlas": 20.0,
+        "Pachuca": 1.14,
+        "Draw": 8.5
+      },
+      "888sport": {
+        "Atlas": 13.0,
+        "Pachuca": 1.14,
+        "Draw": 6.5
+      },
+      "Betclic (FR)": {
+        "Atlas": 10.75,
+        "Pachuca": 1.09,
+        "Draw": 5.9
+      },
+      "PMU (FR)": {
+        "Atlas": 14.0,
+        "Pachuca": 1.03,
+        "Draw": 6.5
+      },
+      "LeoVegas (SE)": {
+        "Atlas": 15.0,
+        "Pachuca": 1.09,
+        "Draw": 7.0
+      },
+      "Betsson": {
+        "Atlas": 14.0,
+        "Pachuca": 1.12,
+        "Draw": 7.7
+      },
+      "Marathon Bet": {
+        "Atlas": 15.5,
+        "Pachuca": 1.1,
+        "Draw": 7.9
+      },
+      "Tipico": {
+        "Atlas": 16.0,
+        "Pachuca": 1.07,
+        "Draw": 9.0
+      },
+      "Betfair": {
+        "Atlas": 20.0,
+        "Pachuca": 1.17,
+        "Draw": 8.8
+      }
+    },
+    "21a304be611df436b73802b3a5d9995a:h2h": {
+      "LeoVegas (SE)": {
+        "Austin FC": 4.5,
+        "Portland Timbers": 1.68,
+        "Draw": 4.6
+      },
+      "PMU (FR)": {
+        "Austin FC": 4.0,
+        "Portland Timbers": 1.55,
+        "Draw": 4.1
+      },
+      "Unibet (NL)": {
+        "Austin FC": 4.3,
+        "Portland Timbers": 1.64,
+        "Draw": 4.4
+      },
+      "Unibet (SE)": {
+        "Austin FC": 4.3,
+        "Portland Timbers": 1.64,
         "Draw": 4.4
       },
       "Betclic (FR)": {
-        "BSC Young Boys": 1.22,
-        "FC Luzern": 13.0,
-        "Draw": 3.7
-      },
-      "Winamax (DE)": {
-        "BSC Young Boys": 3.1,
-        "FC Luzern": 4.4,
-        "Draw": 1.68
-      },
-      "Winamax (FR)": {
-        "BSC Young Boys": 2.95,
-        "FC Luzern": 4.0,
-        "Draw": 1.62
-      },
-      "Pinnacle": {
-        "BSC Young Boys": 2.35,
-        "FC Luzern": 3.62,
-        "Draw": 2.8
-      },
-      "Tipico": {
-        "BSC Young Boys": 3.1,
-        "FC Luzern": 5.2,
-        "Draw": 1.7
-      },
-      "Marathon Bet": {
-        "BSC Young Boys": 1.19,
-        "FC Luzern": 18.25,
-        "Draw": 4.75
-      },
-      "888sport": {
-        "BSC Young Boys": 3.8,
-        "FC Luzern": 4.6,
-        "Draw": 1.61
-      },
-      "Coolbet": {
-        "BSC Young Boys": 1.25,
-        "FC Luzern": 20.0,
-        "Draw": 4.33
+        "Austin FC": 3.78,
+        "Portland Timbers": 1.6,
+        "Draw": 4.0
       },
       "Unibet (FR)": {
-        "BSC Young Boys": 3.2,
-        "FC Luzern": 3.7,
-        "Draw": 1.6
+        "Austin FC": 3.55,
+        "Portland Timbers": 1.51,
+        "Draw": 3.75
       },
-      "Betfair": {
-        "BSC Young Boys": 1.31,
-        "FC Luzern": 25.0,
-        "Draw": 4.9
-      },
-      "Matchbook": {
-        "BSC Young Boys": 3.85,
-        "FC Luzern": 4.8,
-        "Draw": 1.63
-      }
-    },
-    "d0bfb3d1fddac90bd55d6765643bddb7:h2h": {
-      "Nordic Bet": {
-        "FC Sion": 1.0,
-        "FC Vaduz": 26.0,
-        "Draw": 26.0
-      },
-      "Betclic (FR)": {
-        "FC Sion": 1.0,
-        "FC Vaduz": 100.0,
-        "Draw": 40.0
-      },
-      "Betsson": {
-        "FC Sion": 1.0,
-        "FC Vaduz": 26.0,
-        "Draw": 26.0
-      }
-    },
-    "110f0c14909249dee819119e3affbab5:h2h": {
-      "Betsson": {
-        "IK Start": 51.0,
-        "Rosenborg": 1.0,
-        "Draw": 19.0
-      },
-      "Nordic Bet": {
-        "IK Start": 46.0,
-        "Rosenborg": 1.0,
-        "Draw": 19.0
-      },
-      "Betfair": {
-        "IK Start": 370.0,
-        "Rosenborg": 1.01,
-        "Draw": 65.0
-      }
-    },
-    "cd0f54c279bd5c8ae623a339067f8492:h2h": {
-      "PMU (FR)": {
-        "OB Odense BK": 36.0,
-        "Viborg FF": 1.01,
-        "Draw": 5.6
-      },
-      "Unibet (NL)": {
-        "OB Odense BK": 41.0,
-        "Viborg FF": 1.11,
-        "Draw": 6.1
-      },
-      "Unibet (SE)": {
-        "OB Odense BK": 61.0,
-        "Viborg FF": 1.09,
-        "Draw": 7.5
-      },
-      "LeoVegas (SE)": {
-        "OB Odense BK": 41.0,
-        "Viborg FF": 1.09,
-        "Draw": 6.0
-      },
-      "Unibet (FR)": {
-        "OB Odense BK": 40.0,
-        "Viborg FF": 1.07,
-        "Draw": 3.95
-      },
-      "Betclic (FR)": {
-        "OB Odense BK": 25.0,
-        "Viborg FF": 1.1,
-        "Draw": 5.0
-      },
-      "Winamax (FR)": {
-        "OB Odense BK": 46.0,
-        "Viborg FF": 1.09,
-        "Draw": 5.4
-      },
-      "Winamax (DE)": {
-        "OB Odense BK": 46.0,
-        "Viborg FF": 1.11,
-        "Draw": 5.7
-      },
-      "Betsson": {
-        "OB Odense BK": 40.0,
-        "Viborg FF": 1.12,
-        "Draw": 5.35
-      },
-      "Nordic Bet": {
-        "OB Odense BK": 43.0,
-        "Viborg FF": 1.1,
-        "Draw": 5.8
-      },
-      "Pinnacle": {
-        "OB Odense BK": 17.89,
-        "Viborg FF": 1.27,
-        "Draw": 4.72
-      },
-      "Marathon Bet": {
-        "OB Odense BK": 34.0,
-        "Viborg FF": 1.13,
-        "Draw": 6.2
-      },
-      "888sport": {
-        "OB Odense BK": 51.0,
-        "Viborg FF": 1.11,
-        "Draw": 6.5
+      "MyBookie.ag": {
+        "Austin FC": 4.1,
+        "Portland Timbers": 1.7,
+        "Draw": 4.4
       },
       "Coolbet": {
-        "OB Odense BK": 50.0,
-        "Viborg FF": 1.13,
-        "Draw": 6.0
+        "Austin FC": 4.0,
+        "Portland Timbers": 1.7,
+        "Draw": 4.5
+      },
+      "1xBet": {
+        "Austin FC": 4.33,
+        "Portland Timbers": 1.74,
+        "Draw": 4.43
+      },
+      "Marathon Bet": {
+        "Austin FC": 4.15,
+        "Portland Timbers": 1.67,
+        "Draw": 4.25
+      },
+      "888sport": {
+        "Austin FC": 3.9,
+        "Portland Timbers": 1.7,
+        "Draw": 4.0
+      },
+      "William Hill": {
+        "Austin FC": 3.9,
+        "Portland Timbers": 1.7,
+        "Draw": 4.0
+      },
+      "Winamax (DE)": {
+        "Austin FC": 3.85,
+        "Portland Timbers": 1.66,
+        "Draw": 4.3
+      },
+      "Winamax (FR)": {
+        "Austin FC": 3.6,
+        "Portland Timbers": 1.6,
+        "Draw": 4.0
       },
       "Betfair": {
-        "OB Odense BK": 55.0,
-        "Viborg FF": 1.2,
-        "Draw": 6.4
+        "Austin FC": 4.3,
+        "Portland Timbers": 1.78,
+        "Draw": 4.7
+      },
+      "Pinnacle": {
+        "Austin FC": 4.25,
+        "Portland Timbers": 1.72,
+        "Draw": 4.44
+      },
+      "BetOnline.ag": {
+        "Austin FC": 4.34,
+        "Portland Timbers": 1.71,
+        "Draw": 4.51
+      },
+      "GTbets": {
+        "Austin FC": 4.15,
+        "Portland Timbers": 1.7,
+        "Draw": 4.19
       },
       "Tipico": {
-        "OB Odense BK": 60.0,
-        "Viborg FF": 1.08,
-        "Draw": 6.0
+        "Austin FC": 4.1,
+        "Portland Timbers": 1.6,
+        "Draw": 4.4
+      },
+      "Betsson": {
+        "Austin FC": 4.1,
+        "Portland Timbers": 1.7,
+        "Draw": 4.3
+      },
+      "Nordic Bet": {
+        "Austin FC": 4.25,
+        "Portland Timbers": 1.68,
+        "Draw": 4.3
+      },
+      "BetAnything": {
+        "Austin FC": 4.2,
+        "Portland Timbers": 1.71,
+        "Draw": 4.35
       },
       "Matchbook": {
-        "OB Odense BK": 55.0,
-        "Viborg FF": 1.13,
-        "Draw": 7.4
+        "Austin FC": 4.3,
+        "Portland Timbers": 1.78,
+        "Draw": 4.8
       }
     }
   },
@@ -4914,69 +5009,94 @@
       "confidence": 49,
       "alert_type": "value",
       "alerted_at": "2026-11-07T18:42:40.273733+00:00"
+    },
+    {
+      "state_key": "28607ad26e44b8c72a8033ca39e6babe:h2h",
+      "event_id": "28607ad26e44b8c72a8033ca39e6babe",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Atlas",
+      "away_team": "Pachuca",
+      "commence_time": "2026-11-07T23:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Atlas",
+      "odds_at_alert": 20.0,
+      "stake_pct": 5.0,
+      "confidence": 22,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T23:36:48.745221+00:00"
+    },
+    {
+      "state_key": "28607ad26e44b8c72a8033ca39e6babe:h2h",
+      "event_id": "28607ad26e44b8c72a8033ca39e6babe",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Atlas",
+      "away_team": "Pachuca",
+      "commence_time": "2026-11-07T23:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 8.5,
+      "stake_pct": 2.0,
+      "confidence": 10,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T23:36:49.196440+00:00"
+    },
+    {
+      "state_key": "28607ad26e44b8c72a8033ca39e6babe:h2h",
+      "event_id": "28607ad26e44b8c72a8033ca39e6babe",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Atlas",
+      "away_team": "Pachuca",
+      "commence_time": "2026-11-07T23:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 9.0,
+      "stake_pct": 5.0,
+      "confidence": 16,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T23:36:49.624183+00:00"
+    },
+    {
+      "state_key": "28607ad26e44b8c72a8033ca39e6babe:h2h",
+      "event_id": "28607ad26e44b8c72a8033ca39e6babe",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Atlas",
+      "away_team": "Pachuca",
+      "commence_time": "2026-11-07T23:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Atlas",
+      "odds_at_alert": 20.0,
+      "stake_pct": 5.0,
+      "confidence": 22,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T23:36:50.055491+00:00"
+    },
+    {
+      "state_key": "28607ad26e44b8c72a8033ca39e6babe:h2h",
+      "event_id": "28607ad26e44b8c72a8033ca39e6babe",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Atlas",
+      "away_team": "Pachuca",
+      "commence_time": "2026-11-07T23:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 8.8,
+      "stake_pct": 3.0,
+      "confidence": 14,
+      "alert_type": "value",
+      "alerted_at": "2026-11-07T23:36:50.485010+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "0b2d4e8e9b2bd4df8d782f6c34f21624:h2h|888sport|BSC Young Boys",
-    "0b2d4e8e9b2bd4df8d782f6c34f21624:h2h|888sport|FC Luzern",
-    "0b2d4e8e9b2bd4df8d782f6c34f21624:h2h|Betclic (FR)|Draw",
-    "0b2d4e8e9b2bd4df8d782f6c34f21624:h2h|Betclic (FR)|FC Luzern",
-    "0b2d4e8e9b2bd4df8d782f6c34f21624:h2h|Betfair|Draw",
-    "0b2d4e8e9b2bd4df8d782f6c34f21624:h2h|Betfair|FC Luzern",
-    "0b2d4e8e9b2bd4df8d782f6c34f21624:h2h|Betsson|Draw",
-    "0b2d4e8e9b2bd4df8d782f6c34f21624:h2h|Betsson|FC Luzern",
-    "0b2d4e8e9b2bd4df8d782f6c34f21624:h2h|Coolbet|Draw",
-    "0b2d4e8e9b2bd4df8d782f6c34f21624:h2h|Coolbet|FC Luzern",
-    "0b2d4e8e9b2bd4df8d782f6c34f21624:h2h|LeoVegas (SE)|BSC Young Boys",
-    "0b2d4e8e9b2bd4df8d782f6c34f21624:h2h|LeoVegas (SE)|FC Luzern",
-    "0b2d4e8e9b2bd4df8d782f6c34f21624:h2h|Marathon Bet|Draw",
-    "0b2d4e8e9b2bd4df8d782f6c34f21624:h2h|Marathon Bet|FC Luzern",
-    "0b2d4e8e9b2bd4df8d782f6c34f21624:h2h|Matchbook|BSC Young Boys",
-    "0b2d4e8e9b2bd4df8d782f6c34f21624:h2h|Matchbook|FC Luzern",
-    "0b2d4e8e9b2bd4df8d782f6c34f21624:h2h|Nordic Bet|Draw",
-    "0b2d4e8e9b2bd4df8d782f6c34f21624:h2h|Nordic Bet|FC Luzern",
-    "0b2d4e8e9b2bd4df8d782f6c34f21624:h2h|PMU (FR)|BSC Young Boys",
-    "0b2d4e8e9b2bd4df8d782f6c34f21624:h2h|PMU (FR)|FC Luzern",
-    "0b2d4e8e9b2bd4df8d782f6c34f21624:h2h|Tipico|BSC Young Boys",
-    "0b2d4e8e9b2bd4df8d782f6c34f21624:h2h|Tipico|FC Luzern",
-    "0b2d4e8e9b2bd4df8d782f6c34f21624:h2h|Unibet (FR)|BSC Young Boys",
-    "0b2d4e8e9b2bd4df8d782f6c34f21624:h2h|Unibet (NL)|BSC Young Boys",
-    "0b2d4e8e9b2bd4df8d782f6c34f21624:h2h|Unibet (NL)|FC Luzern",
-    "0b2d4e8e9b2bd4df8d782f6c34f21624:h2h|Unibet (SE)|BSC Young Boys",
-    "0b2d4e8e9b2bd4df8d782f6c34f21624:h2h|Unibet (SE)|FC Luzern",
-    "0b2d4e8e9b2bd4df8d782f6c34f21624:h2h|Winamax (DE)|BSC Young Boys",
-    "0b2d4e8e9b2bd4df8d782f6c34f21624:h2h|Winamax (DE)|FC Luzern",
-    "0b2d4e8e9b2bd4df8d782f6c34f21624:h2h|Winamax (FR)|BSC Young Boys",
-    "cd0f54c279bd5c8ae623a339067f8492:h2h|888sport|Draw",
-    "cd0f54c279bd5c8ae623a339067f8492:h2h|888sport|OB Odense BK",
-    "cd0f54c279bd5c8ae623a339067f8492:h2h|Betclic (FR)|OB Odense BK",
-    "cd0f54c279bd5c8ae623a339067f8492:h2h|Betfair|Draw",
-    "cd0f54c279bd5c8ae623a339067f8492:h2h|Betfair|OB Odense BK",
-    "cd0f54c279bd5c8ae623a339067f8492:h2h|Betsson|Draw",
-    "cd0f54c279bd5c8ae623a339067f8492:h2h|Betsson|OB Odense BK",
-    "cd0f54c279bd5c8ae623a339067f8492:h2h|Coolbet|Draw",
-    "cd0f54c279bd5c8ae623a339067f8492:h2h|Coolbet|OB Odense BK",
-    "cd0f54c279bd5c8ae623a339067f8492:h2h|LeoVegas (SE)|Draw",
-    "cd0f54c279bd5c8ae623a339067f8492:h2h|LeoVegas (SE)|OB Odense BK",
-    "cd0f54c279bd5c8ae623a339067f8492:h2h|Marathon Bet|Draw",
-    "cd0f54c279bd5c8ae623a339067f8492:h2h|Marathon Bet|OB Odense BK",
-    "cd0f54c279bd5c8ae623a339067f8492:h2h|Matchbook|Draw",
-    "cd0f54c279bd5c8ae623a339067f8492:h2h|Matchbook|OB Odense BK",
-    "cd0f54c279bd5c8ae623a339067f8492:h2h|Nordic Bet|Draw",
-    "cd0f54c279bd5c8ae623a339067f8492:h2h|Nordic Bet|OB Odense BK",
-    "cd0f54c279bd5c8ae623a339067f8492:h2h|PMU (FR)|Draw",
-    "cd0f54c279bd5c8ae623a339067f8492:h2h|PMU (FR)|OB Odense BK",
-    "cd0f54c279bd5c8ae623a339067f8492:h2h|Tipico|Draw",
-    "cd0f54c279bd5c8ae623a339067f8492:h2h|Tipico|OB Odense BK",
-    "cd0f54c279bd5c8ae623a339067f8492:h2h|Unibet (FR)|OB Odense BK",
-    "cd0f54c279bd5c8ae623a339067f8492:h2h|Unibet (NL)|Draw",
-    "cd0f54c279bd5c8ae623a339067f8492:h2h|Unibet (NL)|OB Odense BK",
-    "cd0f54c279bd5c8ae623a339067f8492:h2h|Unibet (SE)|Draw",
-    "cd0f54c279bd5c8ae623a339067f8492:h2h|Unibet (SE)|OB Odense BK",
-    "cd0f54c279bd5c8ae623a339067f8492:h2h|Winamax (DE)|Draw",
-    "cd0f54c279bd5c8ae623a339067f8492:h2h|Winamax (DE)|OB Odense BK",
-    "cd0f54c279bd5c8ae623a339067f8492:h2h|Winamax (FR)|Draw",
-    "cd0f54c279bd5c8ae623a339067f8492:h2h|Winamax (FR)|OB Odense BK"
+    "28607ad26e44b8c72a8033ca39e6babe:h2h|Betfair|Atlas",
+    "28607ad26e44b8c72a8033ca39e6babe:h2h|Betfair|Draw",
+    "28607ad26e44b8c72a8033ca39e6babe:h2h|Coolbet|Atlas",
+    "28607ad26e44b8c72a8033ca39e6babe:h2h|Coolbet|Draw",
+    "28607ad26e44b8c72a8033ca39e6babe:h2h|Tipico|Draw"
   ]
 }
