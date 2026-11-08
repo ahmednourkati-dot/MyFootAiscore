@@ -1,211 +1,251 @@
 {
   "snapshots": {
-    "76b8d2047cea0309b144b134e22f4743:h2h": {
-      "Nordic Bet": {
-        "Brondby IF": 101.0,
-        "FC Copenhagen": 1.0,
-        "Draw": 15.0
-      },
-      "Betsson": {
-        "Brondby IF": 81.0,
-        "FC Copenhagen": 1.0,
-        "Draw": 17.0
-      },
-      "Betfair": {
-        "Brondby IF": 110.0,
-        "FC Copenhagen": 1.01,
-        "Draw": 50.0
-      }
-    },
-    "019e9d824f3f2251e5b777623d34a9df:h2h": {
-      "Winamax (FR)": {
-        "Feyenoord": 1000.0,
-        "Heerenveen": 1.01,
-        "Draw": 17.0
-      },
-      "Winamax (DE)": {
-        "Feyenoord": 500.0,
-        "Heerenveen": 1.02,
-        "Draw": 15.0
-      },
-      "888sport": {
-        "Feyenoord": 81.0,
-        "Heerenveen": 1.06,
-        "Draw": 9.0
-      },
+    "657fd1ac35832f65fcc6feba93970e10:h2h": {
       "Unibet (FR)": {
-        "Feyenoord": 100.0,
-        "Heerenveen": 1.01,
-        "Draw": 4.7
+        "Como": 40.0,
+        "Inter Milan": 1.01,
+        "Draw": 6.25
       },
       "Betclic (FR)": {
-        "Feyenoord": 100.0,
-        "Heerenveen": 1.02,
-        "Draw": 40.0
-      },
-      "Nordic Bet": {
-        "Feyenoord": 150.0,
-        "Heerenveen": 1.01,
-        "Draw": 13.0
-      },
-      "Betsson": {
-        "Feyenoord": 150.0,
-        "Heerenveen": 1.02,
-        "Draw": 11.0
-      },
-      "PMU (FR)": {
-        "Feyenoord": 41.0,
-        "Heerenveen": 1.06,
-        "Draw": 5.4
-      },
-      "Coolbet": {
-        "Feyenoord": 1000.0,
-        "Heerenveen": 1.02,
-        "Draw": 20.0
-      },
-      "Betfair": {
-        "Feyenoord": 1000.0,
-        "Heerenveen": 1.03,
+        "Como": 65.0,
+        "Inter Milan": 1.0,
         "Draw": 26.0
       },
-      "Tipico": {
-        "Feyenoord": 250.0,
-        "Heerenveen": 1.02,
-        "Draw": 10.0
-      }
-    },
-    "23bf8ea47358ef82f65aa7398a2b3921:h2h": {
-      "Pinnacle": {
-        "Lazio": 6.15,
-        "Napoli": 5.0,
-        "Draw": 1.45
-      },
-      "Unibet (FR)": {
-        "Lazio": 5.0,
-        "Napoli": 4.2,
-        "Draw": 1.35
-      },
-      "Betclic (FR)": {
-        "Lazio": 5.0,
-        "Napoli": 4.1,
-        "Draw": 1.4
-      },
-      "Marathon Bet": {
-        "Lazio": 6.15,
-        "Napoli": 5.2,
-        "Draw": 1.43
-      },
-      "Unibet (NL)": {
-        "Lazio": 7.5,
-        "Napoli": 4.4,
-        "Draw": 1.41
-      },
-      "LeoVegas (SE)": {
-        "Lazio": 6.4,
-        "Napoli": 5.2,
-        "Draw": 1.38
-      },
-      "PMU (FR)": {
-        "Lazio": 5.8,
-        "Napoli": 4.8,
-        "Draw": 1.32
-      },
-      "Unibet (SE)": {
-        "Lazio": 7.5,
-        "Napoli": 4.4,
-        "Draw": 1.41
-      },
       "Winamax (DE)": {
-        "Lazio": 5.7,
-        "Napoli": 4.8,
-        "Draw": 1.43
+        "Como": 350.0,
+        "Inter Milan": 1.01,
+        "Draw": 42.0
       },
       "Winamax (FR)": {
-        "Lazio": 5.0,
-        "Napoli": 4.0,
-        "Draw": 1.36
-      },
-      "Matchbook": {
-        "Lazio": 7.4,
-        "Napoli": 4.8,
-        "Draw": 1.45
+        "Como": 190.0,
+        "Inter Milan": 1.0,
+        "Draw": 38.0
       },
       "888sport": {
-        "Lazio": 5.75,
-        "Napoli": 4.8,
+        "Como": 151.0,
+        "Inter Milan": 1.0,
+        "Draw": 46.0
+      },
+      "Betfair": {
+        "Como": 200.0,
+        "Inter Milan": 1.01,
+        "Draw": 55.0
+      },
+      "Betsson": {
+        "Como": 61.0,
+        "Inter Milan": 1.0,
+        "Draw": 21.0
+      },
+      "Nordic Bet": {
+        "Como": 67.0,
+        "Inter Milan": 1.0,
+        "Draw": 21.0
+      }
+    },
+    "0c2ed692b4ae41d5c8d1a9474f3192f8:h2h": {
+      "Betclic (FR)": {
+        "FC Midtjylland": 3.93,
+        "SonderjyskE": 11.5,
+        "Draw": 1.21
+      },
+      "LeoVegas (SE)": {
+        "FC Midtjylland": 3.85,
+        "SonderjyskE": 12.0,
+        "Draw": 1.28
+      },
+      "Unibet (NL)": {
+        "FC Midtjylland": 4.0,
+        "SonderjyskE": 13.0,
+        "Draw": 1.33
+      },
+      "PMU (FR)": {
+        "FC Midtjylland": 3.6,
+        "SonderjyskE": 11.5,
+        "Draw": 1.2
+      },
+      "Unibet (SE)": {
+        "FC Midtjylland": 4.0,
+        "SonderjyskE": 13.0,
+        "Draw": 1.33
+      },
+      "Winamax (FR)": {
+        "FC Midtjylland": 4.2,
+        "SonderjyskE": 13.0,
+        "Draw": 1.18
+      },
+      "Winamax (DE)": {
+        "FC Midtjylland": 4.5,
+        "SonderjyskE": 13.5,
+        "Draw": 1.22
+      },
+      "Marathon Bet": {
+        "FC Midtjylland": 4.65,
+        "SonderjyskE": 14.5,
+        "Draw": 1.26
+      },
+      "Nordic Bet": {
+        "FC Midtjylland": 4.6,
+        "SonderjyskE": 16.0,
+        "Draw": 1.23
+      },
+      "Betsson": {
+        "FC Midtjylland": 4.6,
+        "SonderjyskE": 16.0,
+        "Draw": 1.23
+      },
+      "Coolbet": {
+        "FC Midtjylland": 5.0,
+        "SonderjyskE": 15.0,
+        "Draw": 1.25
+      },
+      "Betfair": {
+        "FC Midtjylland": 4.3,
+        "SonderjyskE": 16.5,
         "Draw": 1.4
       },
       "Tipico": {
-        "Lazio": 6.0,
-        "Napoli": 5.0,
-        "Draw": 1.4
+        "FC Midtjylland": 4.0,
+        "SonderjyskE": 18.0,
+        "Draw": 1.25
       },
-      "Betfair": {
-        "Lazio": 7.6,
-        "Napoli": 4.9,
-        "Draw": 1.48
+      "888sport": {
+        "FC Midtjylland": 4.4,
+        "SonderjyskE": 17.0,
+        "Draw": 1.25
       },
-      "Coolbet": {
-        "Lazio": 6.5,
-        "Napoli": 5.0,
-        "Draw": 1.44
-      },
-      "Nordic Bet": {
-        "Lazio": 5.35,
-        "Napoli": 4.4,
-        "Draw": 1.47
-      },
-      "Betsson": {
-        "Lazio": 5.8,
-        "Napoli": 4.6,
-        "Draw": 1.43
+      "Pinnacle": {
+        "FC Midtjylland": 2.45,
+        "SonderjyskE": 7.59,
+        "Draw": 1.92
       }
     },
-    "c9e63cacd0dd6905393db92fe2a98672:h2h": {
+    "1564b836c58a5d41b3b07681dcda2a45:h2h": {
       "Pinnacle": {
-        "Grimsby Town": 7.43,
-        "Stafford Rangers FC": 1.4,
-        "Draw": 4.35
-      },
-      "Winamax (DE)": {
-        "Grimsby Town": 7.0,
-        "Stafford Rangers FC": 1.35,
-        "Draw": 4.0
+        "Oldham Athletic": 1.28,
+        "Sheffield Wednesday": 17.7,
+        "Draw": 4.42
       },
       "Coolbet": {
-        "Grimsby Town": 8.5,
-        "Stafford Rangers FC": 1.36,
-        "Draw": 4.5
+        "Oldham Athletic": 1.25,
+        "Sheffield Wednesday": 20.0,
+        "Draw": 4.33
+      },
+      "888sport": {
+        "Oldham Athletic": 4.8,
+        "Sheffield Wednesday": 3.8,
+        "Draw": 1.57
+      },
+      "Winamax (DE)": {
+        "Oldham Athletic": 3.75,
+        "Sheffield Wednesday": 5.0,
+        "Draw": 1.48
       },
       "Betfair": {
-        "Grimsby Town": 10.0,
-        "Stafford Rangers FC": 1.41,
-        "Draw": 4.9
-      },
-      "LeoVegas (SE)": {
-        "Grimsby Town": 6.4,
-        "Stafford Rangers FC": 1.43,
-        "Draw": 4.1
+        "Oldham Athletic": 1.32,
+        "Sheffield Wednesday": 26.0,
+        "Draw": 4.8
       },
       "Unibet (SE)": {
-        "Grimsby Town": 6.4,
-        "Stafford Rangers FC": 1.43,
-        "Draw": 4.1
+        "Oldham Athletic": 1.29,
+        "Sheffield Wednesday": 16.0,
+        "Draw": 3.85
+      },
+      "Unibet (NL)": {
+        "Oldham Athletic": 5.5,
+        "Sheffield Wednesday": 4.1,
+        "Draw": 1.47
+      },
+      "LeoVegas (SE)": {
+        "Oldham Athletic": 1.29,
+        "Sheffield Wednesday": 16.0,
+        "Draw": 3.85
       },
       "Matchbook": {
-        "Grimsby Town": 9.8,
-        "Stafford Rangers FC": 1.36,
-        "Draw": 4.5
+        "Oldham Athletic": 4.7,
+        "Sheffield Wednesday": 4.2,
+        "Draw": 1.57
+      }
+    },
+    "0d2e199bfba0db42871696c10037bad3:h2h": {
+      "Pinnacle": {
+        "Celta Vigo": 2.0,
+        "Levante": 6.78,
+        "Draw": 2.48
+      },
+      "Unibet (FR)": {
+        "Celta Vigo": 1.8,
+        "Levante": 6.0,
+        "Draw": 2.15
+      },
+      "Winamax (DE)": {
+        "Celta Vigo": 1.98,
+        "Levante": 6.25,
+        "Draw": 2.35
+      },
+      "Winamax (FR)": {
+        "Celta Vigo": 1.8,
+        "Levante": 5.5,
+        "Draw": 2.1
+      },
+      "Marathon Bet": {
+        "Celta Vigo": 1.98,
+        "Levante": 7.0,
+        "Draw": 2.45
+      },
+      "Betclic (FR)": {
+        "Celta Vigo": 1.82,
+        "Levante": 5.75,
+        "Draw": 2.3
+      },
+      "Tipico": {
+        "Celta Vigo": 1.9,
+        "Levante": 7.5,
+        "Draw": 2.4
       },
       "Betsson": {
-        "Grimsby Town": 8.2,
-        "Stafford Rangers FC": 1.34,
-        "Draw": 4.4
+        "Celta Vigo": 1.95,
+        "Levante": 6.8,
+        "Draw": 2.35
       },
       "Nordic Bet": {
-        "Grimsby Town": 8.2,
-        "Stafford Rangers FC": 1.34,
-        "Draw": 4.4
+        "Celta Vigo": 1.95,
+        "Levante": 6.8,
+        "Draw": 2.35
+      },
+      "Unibet (SE)": {
+        "Celta Vigo": 2.04,
+        "Levante": 5.8,
+        "Draw": 2.43
+      },
+      "PMU (FR)": {
+        "Celta Vigo": 1.92,
+        "Levante": 5.4,
+        "Draw": 2.3
+      },
+      "Unibet (NL)": {
+        "Celta Vigo": 2.04,
+        "Levante": 5.8,
+        "Draw": 2.43
+      },
+      "LeoVegas (SE)": {
+        "Celta Vigo": 2.04,
+        "Levante": 5.8,
+        "Draw": 2.43
+      },
+      "Betfair": {
+        "Celta Vigo": 2.08,
+        "Levante": 7.2,
+        "Draw": 2.6
+      },
+      "Matchbook": {
+        "Celta Vigo": 2.02,
+        "Levante": 7.2,
+        "Draw": 2.54
+      },
+      "Coolbet": {
+        "Celta Vigo": 2.0,
+        "Levante": 7.0,
+        "Draw": 2.5
       }
     }
   },
@@ -5154,16 +5194,604 @@
       "confidence": 22,
       "alert_type": "value",
       "alerted_at": "2026-11-08T13:14:41.377020+00:00"
+    },
+    {
+      "state_key": "0c2ed692b4ae41d5c8d1a9474f3192f8:h2h",
+      "event_id": "0c2ed692b4ae41d5c8d1a9474f3192f8",
+      "sport_key": "soccer",
+      "competition": "Denmark Superliga",
+      "home_team": "FC Midtjylland",
+      "away_team": "SonderjyskE",
+      "commence_time": "2026-11-08T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Midtjylland",
+      "odds_at_alert": 3.93,
+      "stake_pct": 5.0,
+      "confidence": 51,
+      "alert_type": "value",
+      "alerted_at": "2026-11-08T18:47:58.576726+00:00"
+    },
+    {
+      "state_key": "0c2ed692b4ae41d5c8d1a9474f3192f8:h2h",
+      "event_id": "0c2ed692b4ae41d5c8d1a9474f3192f8",
+      "sport_key": "soccer",
+      "competition": "Denmark Superliga",
+      "home_team": "FC Midtjylland",
+      "away_team": "SonderjyskE",
+      "commence_time": "2026-11-08T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "SonderjyskE",
+      "odds_at_alert": 11.5,
+      "stake_pct": 5.0,
+      "confidence": 43,
+      "alert_type": "value",
+      "alerted_at": "2026-11-08T18:47:58.875934+00:00"
+    },
+    {
+      "state_key": "0c2ed692b4ae41d5c8d1a9474f3192f8:h2h",
+      "event_id": "0c2ed692b4ae41d5c8d1a9474f3192f8",
+      "sport_key": "soccer",
+      "competition": "Denmark Superliga",
+      "home_team": "FC Midtjylland",
+      "away_team": "SonderjyskE",
+      "commence_time": "2026-11-08T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Midtjylland",
+      "odds_at_alert": 3.85,
+      "stake_pct": 5.0,
+      "confidence": 48,
+      "alert_type": "value",
+      "alerted_at": "2026-11-08T18:47:59.197650+00:00"
+    },
+    {
+      "state_key": "0c2ed692b4ae41d5c8d1a9474f3192f8:h2h",
+      "event_id": "0c2ed692b4ae41d5c8d1a9474f3192f8",
+      "sport_key": "soccer",
+      "competition": "Denmark Superliga",
+      "home_team": "FC Midtjylland",
+      "away_team": "SonderjyskE",
+      "commence_time": "2026-11-08T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "SonderjyskE",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 49,
+      "alert_type": "value",
+      "alerted_at": "2026-11-08T18:47:59.548497+00:00"
+    },
+    {
+      "state_key": "0c2ed692b4ae41d5c8d1a9474f3192f8:h2h",
+      "event_id": "0c2ed692b4ae41d5c8d1a9474f3192f8",
+      "sport_key": "soccer",
+      "competition": "Denmark Superliga",
+      "home_team": "FC Midtjylland",
+      "away_team": "SonderjyskE",
+      "commence_time": "2026-11-08T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Midtjylland",
+      "odds_at_alert": 4.0,
+      "stake_pct": 5.0,
+      "confidence": 54,
+      "alert_type": "value",
+      "alerted_at": "2026-11-08T18:48:00.020914+00:00"
+    },
+    {
+      "state_key": "0c2ed692b4ae41d5c8d1a9474f3192f8:h2h",
+      "event_id": "0c2ed692b4ae41d5c8d1a9474f3192f8",
+      "sport_key": "soccer",
+      "competition": "Denmark Superliga",
+      "home_team": "FC Midtjylland",
+      "away_team": "SonderjyskE",
+      "commence_time": "2026-11-08T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "SonderjyskE",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 61,
+      "alert_type": "value",
+      "alerted_at": "2026-11-08T18:48:00.321999+00:00"
+    },
+    {
+      "state_key": "0c2ed692b4ae41d5c8d1a9474f3192f8:h2h",
+      "event_id": "0c2ed692b4ae41d5c8d1a9474f3192f8",
+      "sport_key": "soccer",
+      "competition": "Denmark Superliga",
+      "home_team": "FC Midtjylland",
+      "away_team": "SonderjyskE",
+      "commence_time": "2026-11-08T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Midtjylland",
+      "odds_at_alert": 3.6,
+      "stake_pct": 5.0,
+      "confidence": 39,
+      "alert_type": "value",
+      "alerted_at": "2026-11-08T18:48:00.695451+00:00"
+    },
+    {
+      "state_key": "0c2ed692b4ae41d5c8d1a9474f3192f8:h2h",
+      "event_id": "0c2ed692b4ae41d5c8d1a9474f3192f8",
+      "sport_key": "soccer",
+      "competition": "Denmark Superliga",
+      "home_team": "FC Midtjylland",
+      "away_team": "SonderjyskE",
+      "commence_time": "2026-11-08T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "SonderjyskE",
+      "odds_at_alert": 11.5,
+      "stake_pct": 5.0,
+      "confidence": 43,
+      "alert_type": "value",
+      "alerted_at": "2026-11-08T18:48:01.067806+00:00"
+    },
+    {
+      "state_key": "0c2ed692b4ae41d5c8d1a9474f3192f8:h2h",
+      "event_id": "0c2ed692b4ae41d5c8d1a9474f3192f8",
+      "sport_key": "soccer",
+      "competition": "Denmark Superliga",
+      "home_team": "FC Midtjylland",
+      "away_team": "SonderjyskE",
+      "commence_time": "2026-11-08T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Midtjylland",
+      "odds_at_alert": 4.0,
+      "stake_pct": 5.0,
+      "confidence": 54,
+      "alert_type": "value",
+      "alerted_at": "2026-11-08T18:48:01.426640+00:00"
+    },
+    {
+      "state_key": "0c2ed692b4ae41d5c8d1a9474f3192f8:h2h",
+      "event_id": "0c2ed692b4ae41d5c8d1a9474f3192f8",
+      "sport_key": "soccer",
+      "competition": "Denmark Superliga",
+      "home_team": "FC Midtjylland",
+      "away_team": "SonderjyskE",
+      "commence_time": "2026-11-08T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "SonderjyskE",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 61,
+      "alert_type": "value",
+      "alerted_at": "2026-11-08T18:48:01.725037+00:00"
+    },
+    {
+      "state_key": "0c2ed692b4ae41d5c8d1a9474f3192f8:h2h",
+      "event_id": "0c2ed692b4ae41d5c8d1a9474f3192f8",
+      "sport_key": "soccer",
+      "competition": "Denmark Superliga",
+      "home_team": "FC Midtjylland",
+      "away_team": "SonderjyskE",
+      "commence_time": "2026-11-08T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Midtjylland",
+      "odds_at_alert": 4.2,
+      "stake_pct": 5.0,
+      "confidence": 62,
+      "alert_type": "value",
+      "alerted_at": "2026-11-08T18:48:02.057388+00:00"
+    },
+    {
+      "state_key": "0c2ed692b4ae41d5c8d1a9474f3192f8:h2h",
+      "event_id": "0c2ed692b4ae41d5c8d1a9474f3192f8",
+      "sport_key": "soccer",
+      "competition": "Denmark Superliga",
+      "home_team": "FC Midtjylland",
+      "away_team": "SonderjyskE",
+      "commence_time": "2026-11-08T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "SonderjyskE",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 61,
+      "alert_type": "value",
+      "alerted_at": "2026-11-08T18:48:02.364497+00:00"
+    },
+    {
+      "state_key": "0c2ed692b4ae41d5c8d1a9474f3192f8:h2h",
+      "event_id": "0c2ed692b4ae41d5c8d1a9474f3192f8",
+      "sport_key": "soccer",
+      "competition": "Denmark Superliga",
+      "home_team": "FC Midtjylland",
+      "away_team": "SonderjyskE",
+      "commence_time": "2026-11-08T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Midtjylland",
+      "odds_at_alert": 4.5,
+      "stake_pct": 5.0,
+      "confidence": 73,
+      "alert_type": "value",
+      "alerted_at": "2026-11-08T18:48:02.676468+00:00"
+    },
+    {
+      "state_key": "0c2ed692b4ae41d5c8d1a9474f3192f8:h2h",
+      "event_id": "0c2ed692b4ae41d5c8d1a9474f3192f8",
+      "sport_key": "soccer",
+      "competition": "Denmark Superliga",
+      "home_team": "FC Midtjylland",
+      "away_team": "SonderjyskE",
+      "commence_time": "2026-11-08T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "SonderjyskE",
+      "odds_at_alert": 13.5,
+      "stake_pct": 5.0,
+      "confidence": 68,
+      "alert_type": "value",
+      "alerted_at": "2026-11-08T18:48:02.977299+00:00"
+    },
+    {
+      "state_key": "0c2ed692b4ae41d5c8d1a9474f3192f8:h2h",
+      "event_id": "0c2ed692b4ae41d5c8d1a9474f3192f8",
+      "sport_key": "soccer",
+      "competition": "Denmark Superliga",
+      "home_team": "FC Midtjylland",
+      "away_team": "SonderjyskE",
+      "commence_time": "2026-11-08T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Midtjylland",
+      "odds_at_alert": 4.65,
+      "stake_pct": 5.0,
+      "confidence": 79,
+      "alert_type": "value",
+      "alerted_at": "2026-11-08T18:48:03.291823+00:00"
+    },
+    {
+      "state_key": "0c2ed692b4ae41d5c8d1a9474f3192f8:h2h",
+      "event_id": "0c2ed692b4ae41d5c8d1a9474f3192f8",
+      "sport_key": "soccer",
+      "competition": "Denmark Superliga",
+      "home_team": "FC Midtjylland",
+      "away_team": "SonderjyskE",
+      "commence_time": "2026-11-08T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "SonderjyskE",
+      "odds_at_alert": 14.5,
+      "stake_pct": 5.0,
+      "confidence": 80,
+      "alert_type": "value",
+      "alerted_at": "2026-11-08T18:48:03.632478+00:00"
+    },
+    {
+      "state_key": "0c2ed692b4ae41d5c8d1a9474f3192f8:h2h",
+      "event_id": "0c2ed692b4ae41d5c8d1a9474f3192f8",
+      "sport_key": "soccer",
+      "competition": "Denmark Superliga",
+      "home_team": "FC Midtjylland",
+      "away_team": "SonderjyskE",
+      "commence_time": "2026-11-08T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Midtjylland",
+      "odds_at_alert": 4.6,
+      "stake_pct": 5.0,
+      "confidence": 77,
+      "alert_type": "value",
+      "alerted_at": "2026-11-08T18:48:03.927496+00:00"
+    },
+    {
+      "state_key": "0c2ed692b4ae41d5c8d1a9474f3192f8:h2h",
+      "event_id": "0c2ed692b4ae41d5c8d1a9474f3192f8",
+      "sport_key": "soccer",
+      "competition": "Denmark Superliga",
+      "home_team": "FC Midtjylland",
+      "away_team": "SonderjyskE",
+      "commence_time": "2026-11-08T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "SonderjyskE",
+      "odds_at_alert": 16.0,
+      "stake_pct": 5.0,
+      "confidence": 99,
+      "alert_type": "value",
+      "alerted_at": "2026-11-08T18:48:04.222895+00:00"
+    },
+    {
+      "state_key": "0c2ed692b4ae41d5c8d1a9474f3192f8:h2h",
+      "event_id": "0c2ed692b4ae41d5c8d1a9474f3192f8",
+      "sport_key": "soccer",
+      "competition": "Denmark Superliga",
+      "home_team": "FC Midtjylland",
+      "away_team": "SonderjyskE",
+      "commence_time": "2026-11-08T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Midtjylland",
+      "odds_at_alert": 4.6,
+      "stake_pct": 5.0,
+      "confidence": 77,
+      "alert_type": "value",
+      "alerted_at": "2026-11-08T18:48:04.532828+00:00"
+    },
+    {
+      "state_key": "0c2ed692b4ae41d5c8d1a9474f3192f8:h2h",
+      "event_id": "0c2ed692b4ae41d5c8d1a9474f3192f8",
+      "sport_key": "soccer",
+      "competition": "Denmark Superliga",
+      "home_team": "FC Midtjylland",
+      "away_team": "SonderjyskE",
+      "commence_time": "2026-11-08T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "SonderjyskE",
+      "odds_at_alert": 16.0,
+      "stake_pct": 5.0,
+      "confidence": 99,
+      "alert_type": "value",
+      "alerted_at": "2026-11-08T18:48:04.855472+00:00"
+    },
+    {
+      "state_key": "0c2ed692b4ae41d5c8d1a9474f3192f8:h2h",
+      "event_id": "0c2ed692b4ae41d5c8d1a9474f3192f8",
+      "sport_key": "soccer",
+      "competition": "Denmark Superliga",
+      "home_team": "FC Midtjylland",
+      "away_team": "SonderjyskE",
+      "commence_time": "2026-11-08T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Midtjylland",
+      "odds_at_alert": 5.0,
+      "stake_pct": 5.0,
+      "confidence": 92,
+      "alert_type": "value",
+      "alerted_at": "2026-11-08T18:48:05.198774+00:00"
+    },
+    {
+      "state_key": "0c2ed692b4ae41d5c8d1a9474f3192f8:h2h",
+      "event_id": "0c2ed692b4ae41d5c8d1a9474f3192f8",
+      "sport_key": "soccer",
+      "competition": "Denmark Superliga",
+      "home_team": "FC Midtjylland",
+      "away_team": "SonderjyskE",
+      "commence_time": "2026-11-08T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "SonderjyskE",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 86,
+      "alert_type": "value",
+      "alerted_at": "2026-11-08T18:48:05.518101+00:00"
+    },
+    {
+      "state_key": "0c2ed692b4ae41d5c8d1a9474f3192f8:h2h",
+      "event_id": "0c2ed692b4ae41d5c8d1a9474f3192f8",
+      "sport_key": "soccer",
+      "competition": "Denmark Superliga",
+      "home_team": "FC Midtjylland",
+      "away_team": "SonderjyskE",
+      "commence_time": "2026-11-08T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Midtjylland",
+      "odds_at_alert": 4.3,
+      "stake_pct": 5.0,
+      "confidence": 65,
+      "alert_type": "value",
+      "alerted_at": "2026-11-08T18:48:05.836692+00:00"
+    },
+    {
+      "state_key": "0c2ed692b4ae41d5c8d1a9474f3192f8:h2h",
+      "event_id": "0c2ed692b4ae41d5c8d1a9474f3192f8",
+      "sport_key": "soccer",
+      "competition": "Denmark Superliga",
+      "home_team": "FC Midtjylland",
+      "away_team": "SonderjyskE",
+      "commence_time": "2026-11-08T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "SonderjyskE",
+      "odds_at_alert": 16.5,
+      "stake_pct": 5.0,
+      "confidence": 105,
+      "alert_type": "value",
+      "alerted_at": "2026-11-08T18:48:06.137363+00:00"
+    },
+    {
+      "state_key": "0c2ed692b4ae41d5c8d1a9474f3192f8:h2h",
+      "event_id": "0c2ed692b4ae41d5c8d1a9474f3192f8",
+      "sport_key": "soccer",
+      "competition": "Denmark Superliga",
+      "home_team": "FC Midtjylland",
+      "away_team": "SonderjyskE",
+      "commence_time": "2026-11-08T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Midtjylland",
+      "odds_at_alert": 4.0,
+      "stake_pct": 5.0,
+      "confidence": 54,
+      "alert_type": "value",
+      "alerted_at": "2026-11-08T18:48:06.452125+00:00"
+    },
+    {
+      "state_key": "0c2ed692b4ae41d5c8d1a9474f3192f8:h2h",
+      "event_id": "0c2ed692b4ae41d5c8d1a9474f3192f8",
+      "sport_key": "soccer",
+      "competition": "Denmark Superliga",
+      "home_team": "FC Midtjylland",
+      "away_team": "SonderjyskE",
+      "commence_time": "2026-11-08T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "SonderjyskE",
+      "odds_at_alert": 18.0,
+      "stake_pct": 5.0,
+      "confidence": 124,
+      "alert_type": "value",
+      "alerted_at": "2026-11-08T18:48:06.776907+00:00"
+    },
+    {
+      "state_key": "0c2ed692b4ae41d5c8d1a9474f3192f8:h2h",
+      "event_id": "0c2ed692b4ae41d5c8d1a9474f3192f8",
+      "sport_key": "soccer",
+      "competition": "Denmark Superliga",
+      "home_team": "FC Midtjylland",
+      "away_team": "SonderjyskE",
+      "commence_time": "2026-11-08T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FC Midtjylland",
+      "odds_at_alert": 4.4,
+      "stake_pct": 5.0,
+      "confidence": 69,
+      "alert_type": "value",
+      "alerted_at": "2026-11-08T18:48:07.095951+00:00"
+    },
+    {
+      "state_key": "0c2ed692b4ae41d5c8d1a9474f3192f8:h2h",
+      "event_id": "0c2ed692b4ae41d5c8d1a9474f3192f8",
+      "sport_key": "soccer",
+      "competition": "Denmark Superliga",
+      "home_team": "FC Midtjylland",
+      "away_team": "SonderjyskE",
+      "commence_time": "2026-11-08T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "SonderjyskE",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 111,
+      "alert_type": "value",
+      "alerted_at": "2026-11-08T18:48:07.417354+00:00"
+    },
+    {
+      "state_key": "1564b836c58a5d41b3b07681dcda2a45:h2h",
+      "event_id": "1564b836c58a5d41b3b07681dcda2a45",
+      "sport_key": "soccer",
+      "competition": "FA Cup",
+      "home_team": "Oldham Athletic",
+      "away_team": "Sheffield Wednesday",
+      "commence_time": "2026-11-08T17:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sheffield Wednesday",
+      "odds_at_alert": 20.0,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-11-08T18:48:07.731631+00:00"
+    },
+    {
+      "state_key": "1564b836c58a5d41b3b07681dcda2a45:h2h",
+      "event_id": "1564b836c58a5d41b3b07681dcda2a45",
+      "sport_key": "soccer",
+      "competition": "FA Cup",
+      "home_team": "Oldham Athletic",
+      "away_team": "Sheffield Wednesday",
+      "commence_time": "2026-11-08T17:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Oldham Athletic",
+      "odds_at_alert": 4.8,
+      "stake_pct": 5.0,
+      "confidence": 252,
+      "alert_type": "value",
+      "alerted_at": "2026-11-08T18:48:08.057202+00:00"
+    },
+    {
+      "state_key": "1564b836c58a5d41b3b07681dcda2a45:h2h",
+      "event_id": "1564b836c58a5d41b3b07681dcda2a45",
+      "sport_key": "soccer",
+      "competition": "FA Cup",
+      "home_team": "Oldham Athletic",
+      "away_team": "Sheffield Wednesday",
+      "commence_time": "2026-11-08T17:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Oldham Athletic",
+      "odds_at_alert": 3.75,
+      "stake_pct": 5.0,
+      "confidence": 175,
+      "alert_type": "value",
+      "alerted_at": "2026-11-08T18:48:08.381804+00:00"
+    },
+    {
+      "state_key": "1564b836c58a5d41b3b07681dcda2a45:h2h",
+      "event_id": "1564b836c58a5d41b3b07681dcda2a45",
+      "sport_key": "soccer",
+      "competition": "FA Cup",
+      "home_team": "Oldham Athletic",
+      "away_team": "Sheffield Wednesday",
+      "commence_time": "2026-11-08T17:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Sheffield Wednesday",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 38,
+      "alert_type": "value",
+      "alerted_at": "2026-11-08T18:48:08.680489+00:00"
+    },
+    {
+      "state_key": "1564b836c58a5d41b3b07681dcda2a45:h2h",
+      "event_id": "1564b836c58a5d41b3b07681dcda2a45",
+      "sport_key": "soccer",
+      "competition": "FA Cup",
+      "home_team": "Oldham Athletic",
+      "away_team": "Sheffield Wednesday",
+      "commence_time": "2026-11-08T17:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Oldham Athletic",
+      "odds_at_alert": 5.5,
+      "stake_pct": 5.0,
+      "confidence": 304,
+      "alert_type": "value",
+      "alerted_at": "2026-11-08T18:48:09.003589+00:00"
+    },
+    {
+      "state_key": "1564b836c58a5d41b3b07681dcda2a45:h2h",
+      "event_id": "1564b836c58a5d41b3b07681dcda2a45",
+      "sport_key": "soccer",
+      "competition": "FA Cup",
+      "home_team": "Oldham Athletic",
+      "away_team": "Sheffield Wednesday",
+      "commence_time": "2026-11-08T17:15:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Oldham Athletic",
+      "odds_at_alert": 4.7,
+      "stake_pct": 5.0,
+      "confidence": 245,
+      "alert_type": "value",
+      "alerted_at": "2026-11-08T18:48:09.337016+00:00"
+    },
+    {
+      "state_key": "0d2e199bfba0db42871696c10037bad3:h2h",
+      "event_id": "0d2e199bfba0db42871696c10037bad3",
+      "sport_key": "soccer",
+      "competition": "La Liga - Spain",
+      "home_team": "Celta Vigo",
+      "away_team": "Levante",
+      "commence_time": "2026-11-08T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Levante",
+      "odds_at_alert": 7.5,
+      "stake_pct": 2.0,
+      "confidence": 5,
+      "alert_type": "value",
+      "alerted_at": "2026-11-08T18:48:09.653775+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "23bf8ea47358ef82f65aa7398a2b3921:h2h|Betfair|Lazio",
-    "23bf8ea47358ef82f65aa7398a2b3921:h2h|Matchbook|Lazio",
-    "23bf8ea47358ef82f65aa7398a2b3921:h2h|Unibet (NL)|Lazio",
-    "23bf8ea47358ef82f65aa7398a2b3921:h2h|Unibet (SE)|Lazio",
-    "c9e63cacd0dd6905393db92fe2a98672:h2h|Betfair|Grimsby Town",
-    "c9e63cacd0dd6905393db92fe2a98672:h2h|Coolbet|Grimsby Town",
-    "c9e63cacd0dd6905393db92fe2a98672:h2h|Matchbook|Grimsby Town"
+    "0c2ed692b4ae41d5c8d1a9474f3192f8:h2h|888sport|FC Midtjylland",
+    "0c2ed692b4ae41d5c8d1a9474f3192f8:h2h|888sport|SonderjyskE",
+    "0c2ed692b4ae41d5c8d1a9474f3192f8:h2h|Betclic (FR)|FC Midtjylland",
+    "0c2ed692b4ae41d5c8d1a9474f3192f8:h2h|Betclic (FR)|SonderjyskE",
+    "0c2ed692b4ae41d5c8d1a9474f3192f8:h2h|Betfair|FC Midtjylland",
+    "0c2ed692b4ae41d5c8d1a9474f3192f8:h2h|Betfair|SonderjyskE",
+    "0c2ed692b4ae41d5c8d1a9474f3192f8:h2h|Betsson|FC Midtjylland",
+    "0c2ed692b4ae41d5c8d1a9474f3192f8:h2h|Betsson|SonderjyskE",
+    "0c2ed692b4ae41d5c8d1a9474f3192f8:h2h|Coolbet|FC Midtjylland",
+    "0c2ed692b4ae41d5c8d1a9474f3192f8:h2h|Coolbet|SonderjyskE",
+    "0c2ed692b4ae41d5c8d1a9474f3192f8:h2h|LeoVegas (SE)|FC Midtjylland",
+    "0c2ed692b4ae41d5c8d1a9474f3192f8:h2h|LeoVegas (SE)|SonderjyskE",
+    "0c2ed692b4ae41d5c8d1a9474f3192f8:h2h|Marathon Bet|FC Midtjylland",
+    "0c2ed692b4ae41d5c8d1a9474f3192f8:h2h|Marathon Bet|SonderjyskE",
+    "0c2ed692b4ae41d5c8d1a9474f3192f8:h2h|Nordic Bet|FC Midtjylland",
+    "0c2ed692b4ae41d5c8d1a9474f3192f8:h2h|Nordic Bet|SonderjyskE",
+    "0c2ed692b4ae41d5c8d1a9474f3192f8:h2h|PMU (FR)|FC Midtjylland",
+    "0c2ed692b4ae41d5c8d1a9474f3192f8:h2h|PMU (FR)|SonderjyskE",
+    "0c2ed692b4ae41d5c8d1a9474f3192f8:h2h|Tipico|FC Midtjylland",
+    "0c2ed692b4ae41d5c8d1a9474f3192f8:h2h|Tipico|SonderjyskE",
+    "0c2ed692b4ae41d5c8d1a9474f3192f8:h2h|Unibet (NL)|FC Midtjylland",
+    "0c2ed692b4ae41d5c8d1a9474f3192f8:h2h|Unibet (NL)|SonderjyskE",
+    "0c2ed692b4ae41d5c8d1a9474f3192f8:h2h|Unibet (SE)|FC Midtjylland",
+    "0c2ed692b4ae41d5c8d1a9474f3192f8:h2h|Unibet (SE)|SonderjyskE",
+    "0c2ed692b4ae41d5c8d1a9474f3192f8:h2h|Winamax (DE)|FC Midtjylland",
+    "0c2ed692b4ae41d5c8d1a9474f3192f8:h2h|Winamax (DE)|SonderjyskE",
+    "0c2ed692b4ae41d5c8d1a9474f3192f8:h2h|Winamax (FR)|FC Midtjylland",
+    "0c2ed692b4ae41d5c8d1a9474f3192f8:h2h|Winamax (FR)|SonderjyskE",
+    "0d2e199bfba0db42871696c10037bad3:h2h|Tipico|Levante",
+    "1564b836c58a5d41b3b07681dcda2a45:h2h|888sport|Oldham Athletic",
+    "1564b836c58a5d41b3b07681dcda2a45:h2h|Betfair|Sheffield Wednesday",
+    "1564b836c58a5d41b3b07681dcda2a45:h2h|Coolbet|Sheffield Wednesday",
+    "1564b836c58a5d41b3b07681dcda2a45:h2h|Matchbook|Oldham Athletic",
+    "1564b836c58a5d41b3b07681dcda2a45:h2h|Unibet (NL)|Oldham Athletic",
+    "1564b836c58a5d41b3b07681dcda2a45:h2h|Winamax (DE)|Oldham Athletic"
   ]
 }
