@@ -1,316 +1,211 @@
 {
   "snapshots": {
-    "db10ab093c4c8244f2b4719e11266d0b:h2h": {
-      "888sport": {
-        "Brisbane Roar": 11.0,
-        "Macarthur FC": 7.5,
-        "Draw": 1.17
-      },
-      "Winamax (DE)": {
-        "Brisbane Roar": 9.5,
-        "Macarthur FC": 7.0,
-        "Draw": 1.14
-      },
-      "Unibet (FR)": {
-        "Brisbane Roar": 7.75,
-        "Macarthur FC": 5.4,
-        "Draw": 1.12
-      },
-      "Winamax (FR)": {
-        "Brisbane Roar": 10.0,
-        "Macarthur FC": 7.25,
-        "Draw": 1.11
-      },
-      "Marathon Bet": {
-        "Brisbane Roar": 11.75,
-        "Macarthur FC": 8.4,
-        "Draw": 1.15
-      },
+    "76b8d2047cea0309b144b134e22f4743:h2h": {
       "Nordic Bet": {
-        "Brisbane Roar": 8.6,
-        "Macarthur FC": 6.8,
-        "Draw": 1.2
+        "Brondby IF": 101.0,
+        "FC Copenhagen": 1.0,
+        "Draw": 15.0
       },
       "Betsson": {
-        "Brisbane Roar": 10.5,
-        "Macarthur FC": 7.7,
-        "Draw": 1.14
-      },
-      "Pinnacle": {
-        "Brisbane Roar": 7.7,
-        "Macarthur FC": 5.87,
-        "Draw": 1.31
-      },
-      "Coolbet": {
-        "Brisbane Roar": 12.0,
-        "Macarthur FC": 8.0,
-        "Draw": 1.2
+        "Brondby IF": 81.0,
+        "FC Copenhagen": 1.0,
+        "Draw": 17.0
       },
       "Betfair": {
-        "Brisbane Roar": 11.5,
-        "Macarthur FC": 7.8,
-        "Draw": 1.26
-      },
-      "PMU (FR)": {
-        "Brisbane Roar": 7.5,
-        "Macarthur FC": 8.5,
-        "Draw": 1.05
-      },
-      "Unibet (SE)": {
-        "Brisbane Roar": 8.5,
-        "Macarthur FC": 9.5,
-        "Draw": 1.17
-      },
-      "Unibet (NL)": {
-        "Brisbane Roar": 8.5,
-        "Macarthur FC": 10.0,
-        "Draw": 1.17
-      },
-      "LeoVegas (SE)": {
-        "Brisbane Roar": 8.0,
-        "Macarthur FC": 9.0,
-        "Draw": 1.14
+        "Brondby IF": 110.0,
+        "FC Copenhagen": 1.01,
+        "Draw": 50.0
       }
     },
-    "432b805f222ec1092a627984af4ef39b:h2h": {
-      "PMU (FR)": {
-        "Daejeon Citizen": 2.2,
-        "Incheon United": 3.5,
-        "Draw": 2.14
-      },
-      "LeoVegas (SE)": {
-        "Daejeon Citizen": 2.25,
-        "Incheon United": 3.6,
-        "Draw": 2.18
-      },
-      "Unibet (NL)": {
-        "Daejeon Citizen": 2.4,
-        "Incheon United": 3.8,
-        "Draw": 2.33
-      },
-      "Unibet (SE)": {
-        "Daejeon Citizen": 2.4,
-        "Incheon United": 3.8,
-        "Draw": 2.33
-      },
-      "Unibet (FR)": {
-        "Daejeon Citizen": 2.0,
-        "Incheon United": 4.0,
-        "Draw": 2.2
-      },
-      "Betclic (FR)": {
-        "Daejeon Citizen": 2.13,
-        "Incheon United": 4.2,
-        "Draw": 2.43
-      },
-      "Nordic Bet": {
-        "Daejeon Citizen": 2.15,
-        "Incheon United": 4.6,
-        "Draw": 2.4
-      },
-      "Betsson": {
-        "Daejeon Citizen": 2.15,
-        "Incheon United": 4.6,
-        "Draw": 2.4
-      },
-      "Pinnacle": {
-        "Daejeon Citizen": 2.28,
-        "Incheon United": 4.7,
-        "Draw": 2.46
-      },
+    "019e9d824f3f2251e5b777623d34a9df:h2h": {
       "Winamax (FR)": {
-        "Daejeon Citizen": 2.0,
-        "Incheon United": 3.9,
-        "Draw": 2.2
+        "Feyenoord": 1000.0,
+        "Heerenveen": 1.01,
+        "Draw": 17.0
       },
       "Winamax (DE)": {
-        "Daejeon Citizen": 2.1,
-        "Incheon United": 4.0,
-        "Draw": 2.25
-      },
-      "Marathon Bet": {
-        "Daejeon Citizen": 2.19,
-        "Incheon United": 4.2,
-        "Draw": 2.43
-      },
-      "Betfair": {
-        "Daejeon Citizen": 2.24,
-        "Incheon United": 4.8,
-        "Draw": 2.56
-      },
-      "Coolbet": {
-        "Daejeon Citizen": 2.25,
-        "Incheon United": 4.5,
-        "Draw": 2.4
-      },
-      "Matchbook": {
-        "Daejeon Citizen": 2.22,
-        "Incheon United": 4.7,
-        "Draw": 2.44
-      }
-    },
-    "5853742c8f496ef5458945e912a40359:h2h": {
-      "Unibet (FR)": {
-        "FC Machida Zelvia": 2.85,
-        "Hiroshima Sanfrecce FC": 2.25,
-        "Draw": 2.4
-      },
-      "Coolbet": {
-        "FC Machida Zelvia": 3.4,
-        "Hiroshima Sanfrecce FC": 2.5,
-        "Draw": 2.63
-      },
-      "Betclic (FR)": {
-        "FC Machida Zelvia": 3.25,
-        "Hiroshima Sanfrecce FC": 2.38,
-        "Draw": 2.6
-      },
-      "Betsson": {
-        "FC Machida Zelvia": 3.2,
-        "Hiroshima Sanfrecce FC": 2.45,
-        "Draw": 2.65
-      },
-      "Nordic Bet": {
-        "FC Machida Zelvia": 3.2,
-        "Hiroshima Sanfrecce FC": 2.5,
-        "Draw": 2.6
-      },
-      "Pinnacle": {
-        "FC Machida Zelvia": 3.18,
-        "Hiroshima Sanfrecce FC": 2.52,
-        "Draw": 2.85
-      },
-      "Marathon Bet": {
-        "FC Machida Zelvia": 3.22,
-        "Hiroshima Sanfrecce FC": 2.39,
-        "Draw": 2.68
-      },
-      "Winamax (FR)": {
-        "FC Machida Zelvia": 2.85,
-        "Hiroshima Sanfrecce FC": 2.25,
-        "Draw": 2.35
-      },
-      "Winamax (DE)": {
-        "FC Machida Zelvia": 3.0,
-        "Hiroshima Sanfrecce FC": 2.35,
-        "Draw": 2.45
+        "Feyenoord": 500.0,
+        "Heerenveen": 1.02,
+        "Draw": 15.0
       },
       "888sport": {
-        "FC Machida Zelvia": 3.3,
-        "Hiroshima Sanfrecce FC": 2.45,
-        "Draw": 2.5
+        "Feyenoord": 81.0,
+        "Heerenveen": 1.06,
+        "Draw": 9.0
+      },
+      "Unibet (FR)": {
+        "Feyenoord": 100.0,
+        "Heerenveen": 1.01,
+        "Draw": 4.7
+      },
+      "Betclic (FR)": {
+        "Feyenoord": 100.0,
+        "Heerenveen": 1.02,
+        "Draw": 40.0
+      },
+      "Nordic Bet": {
+        "Feyenoord": 150.0,
+        "Heerenveen": 1.01,
+        "Draw": 13.0
+      },
+      "Betsson": {
+        "Feyenoord": 150.0,
+        "Heerenveen": 1.02,
+        "Draw": 11.0
+      },
+      "PMU (FR)": {
+        "Feyenoord": 41.0,
+        "Heerenveen": 1.06,
+        "Draw": 5.4
+      },
+      "Coolbet": {
+        "Feyenoord": 1000.0,
+        "Heerenveen": 1.02,
+        "Draw": 20.0
+      },
+      "Betfair": {
+        "Feyenoord": 1000.0,
+        "Heerenveen": 1.03,
+        "Draw": 26.0
       },
       "Tipico": {
-        "FC Machida Zelvia": 3.3,
-        "Hiroshima Sanfrecce FC": 2.3,
-        "Draw": 2.7
-      },
-      "LeoVegas (SE)": {
-        "FC Machida Zelvia": 2.9,
-        "Hiroshima Sanfrecce FC": 2.4,
-        "Draw": 2.55
-      },
-      "Unibet (NL)": {
-        "FC Machida Zelvia": 2.95,
-        "Hiroshima Sanfrecce FC": 2.5,
-        "Draw": 2.65
-      },
-      "Unibet (SE)": {
-        "FC Machida Zelvia": 3.0,
-        "Hiroshima Sanfrecce FC": 2.5,
-        "Draw": 2.65
-      },
-      "PMU (FR)": {
-        "FC Machida Zelvia": 2.8,
-        "Hiroshima Sanfrecce FC": 2.38,
-        "Draw": 2.5
-      },
-      "Betfair": {
-        "FC Machida Zelvia": 3.4,
-        "Hiroshima Sanfrecce FC": 2.56,
-        "Draw": 3.05
-      },
-      "Matchbook": {
-        "FC Machida Zelvia": 3.35,
-        "Hiroshima Sanfrecce FC": 2.36,
-        "Draw": 2.9
+        "Feyenoord": 250.0,
+        "Heerenveen": 1.02,
+        "Draw": 10.0
       }
     },
-    "3d0c38d5fc8b4336913a71c989d3a2c5:h2h": {
-      "LeoVegas (SE)": {
-        "FC Seoul": 5.2,
-        "Ulsan Hyundai FC": 1.51,
-        "Draw": 3.15
-      },
-      "PMU (FR)": {
-        "FC Seoul": 5.0,
-        "Ulsan Hyundai FC": 1.47,
-        "Draw": 3.05
-      },
-      "Unibet (NL)": {
-        "FC Seoul": 5.4,
-        "Ulsan Hyundai FC": 1.62,
-        "Draw": 3.3
-      },
-      "Unibet (SE)": {
-        "FC Seoul": 5.4,
-        "Ulsan Hyundai FC": 1.62,
-        "Draw": 3.3
-      },
-      "Betclic (FR)": {
-        "FC Seoul": 5.6,
-        "Ulsan Hyundai FC": 1.63,
-        "Draw": 3.2
-      },
-      "Nordic Bet": {
-        "FC Seoul": 5.35,
-        "Ulsan Hyundai FC": 1.62,
-        "Draw": 3.3
+    "23bf8ea47358ef82f65aa7398a2b3921:h2h": {
+      "Pinnacle": {
+        "Lazio": 6.15,
+        "Napoli": 5.0,
+        "Draw": 1.45
       },
       "Unibet (FR)": {
-        "FC Seoul": 5.0,
-        "Ulsan Hyundai FC": 1.52,
-        "Draw": 2.85
+        "Lazio": 5.0,
+        "Napoli": 4.2,
+        "Draw": 1.35
       },
-      "Betsson": {
-        "FC Seoul": 5.35,
-        "Ulsan Hyundai FC": 1.62,
-        "Draw": 3.3
-      },
-      "Pinnacle": {
-        "FC Seoul": 5.96,
-        "Ulsan Hyundai FC": 1.67,
-        "Draw": 3.44
-      },
-      "Winamax (FR)": {
-        "FC Seoul": 5.0,
-        "Ulsan Hyundai FC": 1.54,
-        "Draw": 2.85
-      },
-      "Winamax (DE)": {
-        "FC Seoul": 5.2,
-        "Ulsan Hyundai FC": 1.6,
-        "Draw": 3.0
+      "Betclic (FR)": {
+        "Lazio": 5.0,
+        "Napoli": 4.1,
+        "Draw": 1.4
       },
       "Marathon Bet": {
-        "FC Seoul": 5.4,
-        "Ulsan Hyundai FC": 1.6,
-        "Draw": 3.36
+        "Lazio": 6.15,
+        "Napoli": 5.2,
+        "Draw": 1.43
       },
-      "Betfair": {
-        "FC Seoul": 6.4,
-        "Ulsan Hyundai FC": 1.73,
-        "Draw": 3.6
+      "Unibet (NL)": {
+        "Lazio": 7.5,
+        "Napoli": 4.4,
+        "Draw": 1.41
       },
-      "Coolbet": {
-        "FC Seoul": 5.5,
-        "Ulsan Hyundai FC": 1.67,
-        "Draw": 3.5
+      "LeoVegas (SE)": {
+        "Lazio": 6.4,
+        "Napoli": 5.2,
+        "Draw": 1.38
+      },
+      "PMU (FR)": {
+        "Lazio": 5.8,
+        "Napoli": 4.8,
+        "Draw": 1.32
+      },
+      "Unibet (SE)": {
+        "Lazio": 7.5,
+        "Napoli": 4.4,
+        "Draw": 1.41
+      },
+      "Winamax (DE)": {
+        "Lazio": 5.7,
+        "Napoli": 4.8,
+        "Draw": 1.43
+      },
+      "Winamax (FR)": {
+        "Lazio": 5.0,
+        "Napoli": 4.0,
+        "Draw": 1.36
       },
       "Matchbook": {
-        "FC Seoul": 6.2,
-        "Ulsan Hyundai FC": 1.7,
-        "Draw": 3.5
+        "Lazio": 7.4,
+        "Napoli": 4.8,
+        "Draw": 1.45
+      },
+      "888sport": {
+        "Lazio": 5.75,
+        "Napoli": 4.8,
+        "Draw": 1.4
+      },
+      "Tipico": {
+        "Lazio": 6.0,
+        "Napoli": 5.0,
+        "Draw": 1.4
+      },
+      "Betfair": {
+        "Lazio": 7.6,
+        "Napoli": 4.9,
+        "Draw": 1.48
+      },
+      "Coolbet": {
+        "Lazio": 6.5,
+        "Napoli": 5.0,
+        "Draw": 1.44
+      },
+      "Nordic Bet": {
+        "Lazio": 5.35,
+        "Napoli": 4.4,
+        "Draw": 1.47
+      },
+      "Betsson": {
+        "Lazio": 5.8,
+        "Napoli": 4.6,
+        "Draw": 1.43
+      }
+    },
+    "c9e63cacd0dd6905393db92fe2a98672:h2h": {
+      "Pinnacle": {
+        "Grimsby Town": 7.43,
+        "Stafford Rangers FC": 1.4,
+        "Draw": 4.35
+      },
+      "Winamax (DE)": {
+        "Grimsby Town": 7.0,
+        "Stafford Rangers FC": 1.35,
+        "Draw": 4.0
+      },
+      "Coolbet": {
+        "Grimsby Town": 8.5,
+        "Stafford Rangers FC": 1.36,
+        "Draw": 4.5
+      },
+      "Betfair": {
+        "Grimsby Town": 10.0,
+        "Stafford Rangers FC": 1.41,
+        "Draw": 4.9
+      },
+      "LeoVegas (SE)": {
+        "Grimsby Town": 6.4,
+        "Stafford Rangers FC": 1.43,
+        "Draw": 4.1
+      },
+      "Unibet (SE)": {
+        "Grimsby Town": 6.4,
+        "Stafford Rangers FC": 1.43,
+        "Draw": 4.1
+      },
+      "Matchbook": {
+        "Grimsby Town": 9.8,
+        "Stafford Rangers FC": 1.36,
+        "Draw": 4.5
+      },
+      "Betsson": {
+        "Grimsby Town": 8.2,
+        "Stafford Rangers FC": 1.34,
+        "Draw": 4.4
+      },
+      "Nordic Bet": {
+        "Grimsby Town": 8.2,
+        "Stafford Rangers FC": 1.34,
+        "Draw": 4.4
       }
     }
   },
@@ -5147,29 +5042,128 @@
       "confidence": 44,
       "alert_type": "value",
       "alerted_at": "2026-11-08T05:52:47.443138+00:00"
+    },
+    {
+      "state_key": "23bf8ea47358ef82f65aa7398a2b3921:h2h",
+      "event_id": "23bf8ea47358ef82f65aa7398a2b3921",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Napoli",
+      "away_team": "Lazio",
+      "commence_time": "2026-11-08T11:32:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Lazio",
+      "odds_at_alert": 7.5,
+      "stake_pct": 5.0,
+      "confidence": 16,
+      "alert_type": "value",
+      "alerted_at": "2026-11-08T13:14:38.396801+00:00"
+    },
+    {
+      "state_key": "23bf8ea47358ef82f65aa7398a2b3921:h2h",
+      "event_id": "23bf8ea47358ef82f65aa7398a2b3921",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Napoli",
+      "away_team": "Lazio",
+      "commence_time": "2026-11-08T11:32:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Lazio",
+      "odds_at_alert": 7.5,
+      "stake_pct": 5.0,
+      "confidence": 16,
+      "alert_type": "value",
+      "alerted_at": "2026-11-08T13:14:38.857718+00:00"
+    },
+    {
+      "state_key": "23bf8ea47358ef82f65aa7398a2b3921:h2h",
+      "event_id": "23bf8ea47358ef82f65aa7398a2b3921",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Napoli",
+      "away_team": "Lazio",
+      "commence_time": "2026-11-08T11:32:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Lazio",
+      "odds_at_alert": 7.4,
+      "stake_pct": 3.0,
+      "confidence": 14,
+      "alert_type": "value",
+      "alerted_at": "2026-11-08T13:14:39.349066+00:00"
+    },
+    {
+      "state_key": "23bf8ea47358ef82f65aa7398a2b3921:h2h",
+      "event_id": "23bf8ea47358ef82f65aa7398a2b3921",
+      "sport_key": "soccer",
+      "competition": "Serie A - Italy",
+      "home_team": "Napoli",
+      "away_team": "Lazio",
+      "commence_time": "2026-11-08T11:32:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Lazio",
+      "odds_at_alert": 7.6,
+      "stake_pct": 5.0,
+      "confidence": 17,
+      "alert_type": "value",
+      "alerted_at": "2026-11-08T13:14:39.877884+00:00"
+    },
+    {
+      "state_key": "c9e63cacd0dd6905393db92fe2a98672:h2h",
+      "event_id": "c9e63cacd0dd6905393db92fe2a98672",
+      "sport_key": "soccer",
+      "competition": "FA Cup",
+      "home_team": "Stafford Rangers FC",
+      "away_team": "Grimsby Town",
+      "commence_time": "2026-11-08T12:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Grimsby Town",
+      "odds_at_alert": 8.5,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-11-08T13:14:40.352922+00:00"
+    },
+    {
+      "state_key": "c9e63cacd0dd6905393db92fe2a98672:h2h",
+      "event_id": "c9e63cacd0dd6905393db92fe2a98672",
+      "sport_key": "soccer",
+      "competition": "FA Cup",
+      "home_team": "Stafford Rangers FC",
+      "away_team": "Grimsby Town",
+      "commence_time": "2026-11-08T12:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Grimsby Town",
+      "odds_at_alert": 10.0,
+      "stake_pct": 5.0,
+      "confidence": 25,
+      "alert_type": "value",
+      "alerted_at": "2026-11-08T13:14:40.896533+00:00"
+    },
+    {
+      "state_key": "c9e63cacd0dd6905393db92fe2a98672:h2h",
+      "event_id": "c9e63cacd0dd6905393db92fe2a98672",
+      "sport_key": "soccer",
+      "competition": "FA Cup",
+      "home_team": "Stafford Rangers FC",
+      "away_team": "Grimsby Town",
+      "commence_time": "2026-11-08T12:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Grimsby Town",
+      "odds_at_alert": 9.8,
+      "stake_pct": 5.0,
+      "confidence": 22,
+      "alert_type": "value",
+      "alerted_at": "2026-11-08T13:14:41.377020+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "db10ab093c4c8244f2b4719e11266d0b:h2h|888sport|Brisbane Roar",
-    "db10ab093c4c8244f2b4719e11266d0b:h2h|888sport|Macarthur FC",
-    "db10ab093c4c8244f2b4719e11266d0b:h2h|Betfair|Brisbane Roar",
-    "db10ab093c4c8244f2b4719e11266d0b:h2h|Betfair|Macarthur FC",
-    "db10ab093c4c8244f2b4719e11266d0b:h2h|Betsson|Brisbane Roar",
-    "db10ab093c4c8244f2b4719e11266d0b:h2h|Betsson|Macarthur FC",
-    "db10ab093c4c8244f2b4719e11266d0b:h2h|Coolbet|Brisbane Roar",
-    "db10ab093c4c8244f2b4719e11266d0b:h2h|Coolbet|Macarthur FC",
-    "db10ab093c4c8244f2b4719e11266d0b:h2h|LeoVegas (SE)|Macarthur FC",
-    "db10ab093c4c8244f2b4719e11266d0b:h2h|Marathon Bet|Brisbane Roar",
-    "db10ab093c4c8244f2b4719e11266d0b:h2h|Marathon Bet|Macarthur FC",
-    "db10ab093c4c8244f2b4719e11266d0b:h2h|Nordic Bet|Brisbane Roar",
-    "db10ab093c4c8244f2b4719e11266d0b:h2h|Nordic Bet|Macarthur FC",
-    "db10ab093c4c8244f2b4719e11266d0b:h2h|PMU (FR)|Macarthur FC",
-    "db10ab093c4c8244f2b4719e11266d0b:h2h|Unibet (NL)|Macarthur FC",
-    "db10ab093c4c8244f2b4719e11266d0b:h2h|Unibet (SE)|Macarthur FC",
-    "db10ab093c4c8244f2b4719e11266d0b:h2h|Winamax (DE)|Brisbane Roar",
-    "db10ab093c4c8244f2b4719e11266d0b:h2h|Winamax (DE)|Macarthur FC",
-    "db10ab093c4c8244f2b4719e11266d0b:h2h|Winamax (FR)|Brisbane Roar",
-    "db10ab093c4c8244f2b4719e11266d0b:h2h|Winamax (FR)|Macarthur FC"
+    "23bf8ea47358ef82f65aa7398a2b3921:h2h|Betfair|Lazio",
+    "23bf8ea47358ef82f65aa7398a2b3921:h2h|Matchbook|Lazio",
+    "23bf8ea47358ef82f65aa7398a2b3921:h2h|Unibet (NL)|Lazio",
+    "23bf8ea47358ef82f65aa7398a2b3921:h2h|Unibet (SE)|Lazio",
+    "c9e63cacd0dd6905393db92fe2a98672:h2h|Betfair|Grimsby Town",
+    "c9e63cacd0dd6905393db92fe2a98672:h2h|Coolbet|Grimsby Town",
+    "c9e63cacd0dd6905393db92fe2a98672:h2h|Matchbook|Grimsby Town"
   ]
 }
