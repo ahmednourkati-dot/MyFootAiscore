@@ -1,231 +1,101 @@
 {
   "snapshots": {
-    "0080a654687b1e349e6ecb26324f396b:h2h": {
-      "Pinnacle": {
-        "BK Hacken": 12.21,
-        "Chelsea": 1.17,
-        "Draw": 7.47
-      },
-      "Betsson": {
-        "BK Hacken": 10.5,
-        "Chelsea": 1.18,
-        "Draw": 6.1
-      },
-      "1xBet": {
-        "BK Hacken": 11.9,
-        "Chelsea": 1.17,
-        "Draw": 6.1
-      },
-      "888sport": {
-        "BK Hacken": 10.0,
-        "Chelsea": 1.18,
-        "Draw": 6.0
-      },
+    "3d20399e053c2333f06d0867c17f8e11:h2h": {
       "William Hill": {
-        "BK Hacken": 10.0,
-        "Chelsea": 1.17,
-        "Draw": 6.0
-      },
-      "Nordic Bet": {
-        "BK Hacken": 10.5,
-        "Chelsea": 1.18,
-        "Draw": 6.1
-      },
-      "Unibet (FR)": {
-        "BK Hacken": 8.8,
-        "Chelsea": 1.09,
-        "Draw": 5.3
-      },
-      "Betclic (FR)": {
-        "BK Hacken": 11.0,
-        "Chelsea": 1.14,
-        "Draw": 6.6
-      },
-      "PMU (FR)": {
-        "BK Hacken": 11.5,
-        "Chelsea": 1.1,
-        "Draw": 6.0
-      },
-      "Unibet (NL)": {
-        "BK Hacken": 12.5,
-        "Chelsea": 1.17,
-        "Draw": 6.5
-      },
-      "Betfair": {
-        "BK Hacken": 14.5,
-        "Chelsea": 1.24,
-        "Draw": 7.8
-      },
-      "BetOnline.ag": {
-        "BK Hacken": 10.8,
-        "Chelsea": 1.18,
-        "Draw": 6.2
-      },
-      "Coolbet": {
-        "BK Hacken": 12.5,
-        "Chelsea": 1.18,
-        "Draw": 7.0
+        "Barnet": 1.0,
+        "Leyton Orient": 151.0,
+        "Draw": 67.0
       }
     },
-    "603765f32acd9adad5599d186ba379be:h2h": {
-      "William Hill": {
-        "Paris FC": 5.8,
-        "Real Madrid": 1.35,
-        "Draw": 4.6
-      },
-      "Nordic Bet": {
-        "Paris FC": 6.3,
-        "Real Madrid": 1.36,
-        "Draw": 4.8
-      },
-      "Unibet (FR)": {
-        "Paris FC": 6.0,
-        "Real Madrid": 1.25,
-        "Draw": 5.5
-      },
-      "888sport": {
-        "Paris FC": 5.75,
-        "Real Madrid": 1.36,
-        "Draw": 4.8
-      },
-      "1xBet": {
-        "Paris FC": 6.74,
-        "Real Madrid": 1.34,
-        "Draw": 4.7
-      },
-      "Betsson": {
-        "Paris FC": 6.3,
-        "Real Madrid": 1.36,
-        "Draw": 4.8
-      },
-      "Betclic (FR)": {
-        "Paris FC": 5.25,
-        "Real Madrid": 1.35,
-        "Draw": 5.25
-      },
+    "b65b9c662ba50d27984f34b45f2bcf72:h2h": {
       "Pinnacle": {
-        "Paris FC": 5.76,
-        "Real Madrid": 1.4,
-        "Draw": 5.55
-      },
-      "PMU (FR)": {
-        "Paris FC": 5.75,
-        "Real Madrid": 1.25,
-        "Draw": 5.25
-      },
-      "Unibet (NL)": {
-        "Paris FC": 6.5,
-        "Real Madrid": 1.35,
-        "Draw": 6.0
+        "Bristol Rovers": 4.43,
+        "Reading": 4.79,
+        "Draw": 1.58
       },
       "Betfair": {
-        "Paris FC": 7.0,
-        "Real Madrid": 1.41,
-        "Draw": 6.0
+        "Bristol Rovers": 6.6,
+        "Reading": 8.0,
+        "Draw": 1.35
       },
-      "BetOnline.ag": {
-        "Paris FC": 6.16,
-        "Real Madrid": 1.35,
-        "Draw": 4.94
+      "Unibet (SE)": {
+        "Bristol Rovers": 7.5,
+        "Reading": 6.5,
+        "Draw": 1.23
       },
-      "Coolbet": {
-        "Paris FC": 5.6,
-        "Real Madrid": 1.43,
-        "Draw": 5.2
-      }
-    },
-    "898db1fbf4d87a3fb67f2d9994e68d93:h2h": {
-      "Pinnacle": {
-        "CD Pamplona": 10.97,
-        "SD Eibar": 1.15,
-        "Draw": 6.46
+      "Unibet (NL)": {
+        "Bristol Rovers": 7.5,
+        "Reading": 6.5,
+        "Draw": 1.23
+      },
+      "LeoVegas (SE)": {
+        "Bristol Rovers": 7.0,
+        "Reading": 6.25,
+        "Draw": 1.19
+      },
+      "William Hill": {
+        "Bristol Rovers": 5.0,
+        "Reading": 5.8,
+        "Draw": 1.29
+      },
+      "888sport": {
+        "Bristol Rovers": 6.0,
+        "Reading": 6.0,
+        "Draw": 1.22
       },
       "Tipico": {
-        "CD Pamplona": 15.0,
-        "SD Eibar": 1.06,
-        "Draw": 7.2
+        "Bristol Rovers": 7.0,
+        "Reading": 5.5,
+        "Draw": 1.27
       },
-      "Betfair": {
-        "CD Pamplona": 18.0,
-        "SD Eibar": 1.17,
-        "Draw": 8.0
+      "Marathon Bet": {
+        "Bristol Rovers": 6.35,
+        "Reading": 7.1,
+        "Draw": 1.26
       },
-      "Winamax (DE)": {
-        "CD Pamplona": 12.0,
-        "SD Eibar": 1.14,
-        "Draw": 7.25
-      },
-      "888sport": {
-        "CD Pamplona": 15.0,
-        "SD Eibar": 1.17,
-        "Draw": 6.5
-      },
-      "William Hill": {
-        "CD Pamplona": 15.0,
-        "SD Eibar": 1.17,
-        "Draw": 6.5
-      },
-      "1xBet": {
-        "CD Pamplona": 15.0,
-        "SD Eibar": 1.17,
-        "Draw": 6.85
-      },
-      "Codere (IT)": {
-        "CD Pamplona": 15.0,
-        "SD Eibar": 1.17,
-        "Draw": 7.0
-      },
-      "Unibet (SE)": {
-        "CD Pamplona": 16.0,
-        "SD Eibar": 1.14,
-        "Draw": 8.0
-      },
-      "LeoVegas (SE)": {
-        "CD Pamplona": 15.0,
-        "SD Eibar": 1.12,
-        "Draw": 7.5
+      "Matchbook": {
+        "Bristol Rovers": 7.8,
+        "Reading": 7.6,
+        "Draw": 1.26
       }
     },
-    "9197843871cd15337bb9d55934cf1432:h2h": {
-      "Winamax (DE)": {
-        "Alavés": 1.01,
-        "Anaitasuna": 20.0,
-        "Draw": 16.0
-      },
-      "888sport": {
-        "Alavés": 1.05,
-        "Anaitasuna": 29.0,
-        "Draw": 13.0
-      },
+    "15f6b2aba5e8a0e8540f70227a7afee0:h2h": {
       "Betfair": {
-        "Alavés": 1.07,
-        "Anaitasuna": 34.0,
-        "Draw": 17.0
+        "Burton Albion": 85.0,
+        "Notts County": 1.01,
+        "Draw": 55.0
       },
       "William Hill": {
-        "Alavés": 1.05,
-        "Anaitasuna": 29.0,
-        "Draw": 13.0
+        "Burton Albion": 151.0,
+        "Notts County": 1.0,
+        "Draw": 46.0
       },
-      "LeoVegas (SE)": {
-        "Alavés": 1.02,
-        "Anaitasuna": 21.0,
-        "Draw": 11.5
+      "888sport": {
+        "Burton Albion": 151.0,
+        "Notts County": 1.0,
+        "Draw": 46.0
+      }
+    },
+    "92c4ab5c733ce03586c70f195c70134b:h2h": {
+      "Betfair": {
+        "CF Trival Valderas": 6.0,
+        "Leganés": 1.04,
+        "Draw": 20.0
       },
-      "Unibet (SE)": {
-        "Alavés": 1.02,
-        "Anaitasuna": 21.0,
-        "Draw": 11.5
+      "William Hill": {
+        "CF Trival Valderas": 151.0,
+        "Leganés": 1.01,
+        "Draw": 26.0
       },
-      "1xBet": {
-        "Alavés": 1.05,
-        "Anaitasuna": 24.0,
-        "Draw": 16.5
+      "Winamax (DE)": {
+        "CF Trival Valderas": 400.0,
+        "Leganés": 1.01,
+        "Draw": 20.0
       },
-      "Codere (IT)": {
-        "Alavés": 1.03,
-        "Anaitasuna": 29.0,
-        "Draw": 15.0
+      "888sport": {
+        "CF Trival Valderas": 151.0,
+        "Leganés": 1.01,
+        "Draw": 23.0
       }
     }
   },
@@ -5574,25 +5444,315 @@
       "confidence": 23,
       "alert_type": "value",
       "alerted_at": "2026-11-10T12:30:34.766840+00:00"
+    },
+    {
+      "state_key": "b65b9c662ba50d27984f34b45f2bcf72:h2h",
+      "event_id": "b65b9c662ba50d27984f34b45f2bcf72",
+      "sport_key": "soccer",
+      "competition": "EFL Trophy",
+      "home_team": "Bristol Rovers",
+      "away_team": "Reading",
+      "commence_time": "2026-11-10T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Bristol Rovers",
+      "odds_at_alert": 6.6,
+      "stake_pct": 5.0,
+      "confidence": 40,
+      "alert_type": "value",
+      "alerted_at": "2026-11-10T20:46:18.407544+00:00"
+    },
+    {
+      "state_key": "b65b9c662ba50d27984f34b45f2bcf72:h2h",
+      "event_id": "b65b9c662ba50d27984f34b45f2bcf72",
+      "sport_key": "soccer",
+      "competition": "EFL Trophy",
+      "home_team": "Bristol Rovers",
+      "away_team": "Reading",
+      "commence_time": "2026-11-10T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Reading",
+      "odds_at_alert": 8.0,
+      "stake_pct": 5.0,
+      "confidence": 56,
+      "alert_type": "value",
+      "alerted_at": "2026-11-10T20:46:18.790758+00:00"
+    },
+    {
+      "state_key": "b65b9c662ba50d27984f34b45f2bcf72:h2h",
+      "event_id": "b65b9c662ba50d27984f34b45f2bcf72",
+      "sport_key": "soccer",
+      "competition": "EFL Trophy",
+      "home_team": "Bristol Rovers",
+      "away_team": "Reading",
+      "commence_time": "2026-11-10T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Bristol Rovers",
+      "odds_at_alert": 7.5,
+      "stake_pct": 5.0,
+      "confidence": 59,
+      "alert_type": "value",
+      "alerted_at": "2026-11-10T20:46:19.157652+00:00"
+    },
+    {
+      "state_key": "b65b9c662ba50d27984f34b45f2bcf72:h2h",
+      "event_id": "b65b9c662ba50d27984f34b45f2bcf72",
+      "sport_key": "soccer",
+      "competition": "EFL Trophy",
+      "home_team": "Bristol Rovers",
+      "away_team": "Reading",
+      "commence_time": "2026-11-10T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Reading",
+      "odds_at_alert": 6.5,
+      "stake_pct": 5.0,
+      "confidence": 27,
+      "alert_type": "value",
+      "alerted_at": "2026-11-10T20:46:19.529945+00:00"
+    },
+    {
+      "state_key": "b65b9c662ba50d27984f34b45f2bcf72:h2h",
+      "event_id": "b65b9c662ba50d27984f34b45f2bcf72",
+      "sport_key": "soccer",
+      "competition": "EFL Trophy",
+      "home_team": "Bristol Rovers",
+      "away_team": "Reading",
+      "commence_time": "2026-11-10T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Bristol Rovers",
+      "odds_at_alert": 7.5,
+      "stake_pct": 5.0,
+      "confidence": 59,
+      "alert_type": "value",
+      "alerted_at": "2026-11-10T20:46:19.935164+00:00"
+    },
+    {
+      "state_key": "b65b9c662ba50d27984f34b45f2bcf72:h2h",
+      "event_id": "b65b9c662ba50d27984f34b45f2bcf72",
+      "sport_key": "soccer",
+      "competition": "EFL Trophy",
+      "home_team": "Bristol Rovers",
+      "away_team": "Reading",
+      "commence_time": "2026-11-10T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Reading",
+      "odds_at_alert": 6.5,
+      "stake_pct": 5.0,
+      "confidence": 27,
+      "alert_type": "value",
+      "alerted_at": "2026-11-10T20:46:20.337851+00:00"
+    },
+    {
+      "state_key": "b65b9c662ba50d27984f34b45f2bcf72:h2h",
+      "event_id": "b65b9c662ba50d27984f34b45f2bcf72",
+      "sport_key": "soccer",
+      "competition": "EFL Trophy",
+      "home_team": "Bristol Rovers",
+      "away_team": "Reading",
+      "commence_time": "2026-11-10T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Bristol Rovers",
+      "odds_at_alert": 7.0,
+      "stake_pct": 5.0,
+      "confidence": 48,
+      "alert_type": "value",
+      "alerted_at": "2026-11-10T20:46:20.726950+00:00"
+    },
+    {
+      "state_key": "b65b9c662ba50d27984f34b45f2bcf72:h2h",
+      "event_id": "b65b9c662ba50d27984f34b45f2bcf72",
+      "sport_key": "soccer",
+      "competition": "EFL Trophy",
+      "home_team": "Bristol Rovers",
+      "away_team": "Reading",
+      "commence_time": "2026-11-10T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Reading",
+      "odds_at_alert": 6.25,
+      "stake_pct": 5.0,
+      "confidence": 22,
+      "alert_type": "value",
+      "alerted_at": "2026-11-10T20:46:21.119588+00:00"
+    },
+    {
+      "state_key": "b65b9c662ba50d27984f34b45f2bcf72:h2h",
+      "event_id": "b65b9c662ba50d27984f34b45f2bcf72",
+      "sport_key": "soccer",
+      "competition": "EFL Trophy",
+      "home_team": "Bristol Rovers",
+      "away_team": "Reading",
+      "commence_time": "2026-11-10T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Bristol Rovers",
+      "odds_at_alert": 5.0,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-11-10T20:46:21.540586+00:00"
+    },
+    {
+      "state_key": "b65b9c662ba50d27984f34b45f2bcf72:h2h",
+      "event_id": "b65b9c662ba50d27984f34b45f2bcf72",
+      "sport_key": "soccer",
+      "competition": "EFL Trophy",
+      "home_team": "Bristol Rovers",
+      "away_team": "Reading",
+      "commence_time": "2026-11-10T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Reading",
+      "odds_at_alert": 5.8,
+      "stake_pct": 3.0,
+      "confidence": 13,
+      "alert_type": "value",
+      "alerted_at": "2026-11-10T20:46:21.924107+00:00"
+    },
+    {
+      "state_key": "b65b9c662ba50d27984f34b45f2bcf72:h2h",
+      "event_id": "b65b9c662ba50d27984f34b45f2bcf72",
+      "sport_key": "soccer",
+      "competition": "EFL Trophy",
+      "home_team": "Bristol Rovers",
+      "away_team": "Reading",
+      "commence_time": "2026-11-10T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Bristol Rovers",
+      "odds_at_alert": 6.0,
+      "stake_pct": 5.0,
+      "confidence": 27,
+      "alert_type": "value",
+      "alerted_at": "2026-11-10T20:46:22.327636+00:00"
+    },
+    {
+      "state_key": "b65b9c662ba50d27984f34b45f2bcf72:h2h",
+      "event_id": "b65b9c662ba50d27984f34b45f2bcf72",
+      "sport_key": "soccer",
+      "competition": "EFL Trophy",
+      "home_team": "Bristol Rovers",
+      "away_team": "Reading",
+      "commence_time": "2026-11-10T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Reading",
+      "odds_at_alert": 6.0,
+      "stake_pct": 5.0,
+      "confidence": 17,
+      "alert_type": "value",
+      "alerted_at": "2026-11-10T20:46:22.710200+00:00"
+    },
+    {
+      "state_key": "b65b9c662ba50d27984f34b45f2bcf72:h2h",
+      "event_id": "b65b9c662ba50d27984f34b45f2bcf72",
+      "sport_key": "soccer",
+      "competition": "EFL Trophy",
+      "home_team": "Bristol Rovers",
+      "away_team": "Reading",
+      "commence_time": "2026-11-10T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Bristol Rovers",
+      "odds_at_alert": 7.0,
+      "stake_pct": 5.0,
+      "confidence": 48,
+      "alert_type": "value",
+      "alerted_at": "2026-11-10T20:46:23.122225+00:00"
+    },
+    {
+      "state_key": "b65b9c662ba50d27984f34b45f2bcf72:h2h",
+      "event_id": "b65b9c662ba50d27984f34b45f2bcf72",
+      "sport_key": "soccer",
+      "competition": "EFL Trophy",
+      "home_team": "Bristol Rovers",
+      "away_team": "Reading",
+      "commence_time": "2026-11-10T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Reading",
+      "odds_at_alert": 5.5,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-11-10T20:46:23.560200+00:00"
+    },
+    {
+      "state_key": "b65b9c662ba50d27984f34b45f2bcf72:h2h",
+      "event_id": "b65b9c662ba50d27984f34b45f2bcf72",
+      "sport_key": "soccer",
+      "competition": "EFL Trophy",
+      "home_team": "Bristol Rovers",
+      "away_team": "Reading",
+      "commence_time": "2026-11-10T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Bristol Rovers",
+      "odds_at_alert": 6.35,
+      "stake_pct": 5.0,
+      "confidence": 34,
+      "alert_type": "value",
+      "alerted_at": "2026-11-10T20:46:23.993574+00:00"
+    },
+    {
+      "state_key": "b65b9c662ba50d27984f34b45f2bcf72:h2h",
+      "event_id": "b65b9c662ba50d27984f34b45f2bcf72",
+      "sport_key": "soccer",
+      "competition": "EFL Trophy",
+      "home_team": "Bristol Rovers",
+      "away_team": "Reading",
+      "commence_time": "2026-11-10T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Reading",
+      "odds_at_alert": 7.1,
+      "stake_pct": 5.0,
+      "confidence": 39,
+      "alert_type": "value",
+      "alerted_at": "2026-11-10T20:46:24.366360+00:00"
+    },
+    {
+      "state_key": "b65b9c662ba50d27984f34b45f2bcf72:h2h",
+      "event_id": "b65b9c662ba50d27984f34b45f2bcf72",
+      "sport_key": "soccer",
+      "competition": "EFL Trophy",
+      "home_team": "Bristol Rovers",
+      "away_team": "Reading",
+      "commence_time": "2026-11-10T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Bristol Rovers",
+      "odds_at_alert": 7.8,
+      "stake_pct": 5.0,
+      "confidence": 65,
+      "alert_type": "value",
+      "alerted_at": "2026-11-10T20:46:24.814657+00:00"
+    },
+    {
+      "state_key": "b65b9c662ba50d27984f34b45f2bcf72:h2h",
+      "event_id": "b65b9c662ba50d27984f34b45f2bcf72",
+      "sport_key": "soccer",
+      "competition": "EFL Trophy",
+      "home_team": "Bristol Rovers",
+      "away_team": "Reading",
+      "commence_time": "2026-11-10T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Reading",
+      "odds_at_alert": 7.6,
+      "stake_pct": 5.0,
+      "confidence": 49,
+      "alert_type": "value",
+      "alerted_at": "2026-11-10T20:46:25.199898+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "0080a654687b1e349e6ecb26324f396b:h2h|Betfair|BK Hacken",
-    "603765f32acd9adad5599d186ba379be:h2h|1xBet|Paris FC",
-    "603765f32acd9adad5599d186ba379be:h2h|Betfair|Paris FC",
-    "603765f32acd9adad5599d186ba379be:h2h|Unibet (FR)|Paris FC",
-    "603765f32acd9adad5599d186ba379be:h2h|Unibet (NL)|Draw",
-    "603765f32acd9adad5599d186ba379be:h2h|Unibet (NL)|Paris FC",
-    "898db1fbf4d87a3fb67f2d9994e68d93:h2h|1xBet|CD Pamplona",
-    "898db1fbf4d87a3fb67f2d9994e68d93:h2h|888sport|CD Pamplona",
-    "898db1fbf4d87a3fb67f2d9994e68d93:h2h|Betfair|CD Pamplona",
-    "898db1fbf4d87a3fb67f2d9994e68d93:h2h|Betfair|Draw",
-    "898db1fbf4d87a3fb67f2d9994e68d93:h2h|Codere (IT)|CD Pamplona",
-    "898db1fbf4d87a3fb67f2d9994e68d93:h2h|LeoVegas (SE)|CD Pamplona",
-    "898db1fbf4d87a3fb67f2d9994e68d93:h2h|Tipico|CD Pamplona",
-    "898db1fbf4d87a3fb67f2d9994e68d93:h2h|Unibet (SE)|CD Pamplona",
-    "898db1fbf4d87a3fb67f2d9994e68d93:h2h|Unibet (SE)|Draw",
-    "898db1fbf4d87a3fb67f2d9994e68d93:h2h|William Hill|CD Pamplona"
+    "b65b9c662ba50d27984f34b45f2bcf72:h2h|888sport|Bristol Rovers",
+    "b65b9c662ba50d27984f34b45f2bcf72:h2h|888sport|Reading",
+    "b65b9c662ba50d27984f34b45f2bcf72:h2h|Betfair|Bristol Rovers",
+    "b65b9c662ba50d27984f34b45f2bcf72:h2h|Betfair|Reading",
+    "b65b9c662ba50d27984f34b45f2bcf72:h2h|LeoVegas (SE)|Bristol Rovers",
+    "b65b9c662ba50d27984f34b45f2bcf72:h2h|LeoVegas (SE)|Reading",
+    "b65b9c662ba50d27984f34b45f2bcf72:h2h|Marathon Bet|Bristol Rovers",
+    "b65b9c662ba50d27984f34b45f2bcf72:h2h|Marathon Bet|Reading",
+    "b65b9c662ba50d27984f34b45f2bcf72:h2h|Matchbook|Bristol Rovers",
+    "b65b9c662ba50d27984f34b45f2bcf72:h2h|Matchbook|Reading",
+    "b65b9c662ba50d27984f34b45f2bcf72:h2h|Tipico|Bristol Rovers",
+    "b65b9c662ba50d27984f34b45f2bcf72:h2h|Tipico|Reading",
+    "b65b9c662ba50d27984f34b45f2bcf72:h2h|Unibet (NL)|Bristol Rovers",
+    "b65b9c662ba50d27984f34b45f2bcf72:h2h|Unibet (NL)|Reading",
+    "b65b9c662ba50d27984f34b45f2bcf72:h2h|Unibet (SE)|Bristol Rovers",
+    "b65b9c662ba50d27984f34b45f2bcf72:h2h|Unibet (SE)|Reading",
+    "b65b9c662ba50d27984f34b45f2bcf72:h2h|William Hill|Bristol Rovers",
+    "b65b9c662ba50d27984f34b45f2bcf72:h2h|William Hill|Reading"
   ]
 }
