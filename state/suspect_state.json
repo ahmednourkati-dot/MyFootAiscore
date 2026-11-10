@@ -1,259 +1,221 @@
 {
   "snapshots": {
-    "a878bfc5e7eae6808debf217c23c93f5:h2h": {
-      "Unibet (NL)": {
-        "Kristiansund BK": 1.66,
-        "Vålerenga": 4.4,
-        "Draw": 3.65
-      },
-      "LeoVegas (SE)": {
-        "Kristiansund BK": 1.55,
-        "Vålerenga": 4.1,
-        "Draw": 3.55
-      },
-      "Unibet (SE)": {
-        "Kristiansund BK": 1.64,
-        "Vålerenga": 4.5,
-        "Draw": 3.7
-      },
-      "PMU (FR)": {
-        "Kristiansund BK": 1.5,
-        "Vålerenga": 4.0,
-        "Draw": 3.35
-      },
-      "Betfair": {
-        "Kristiansund BK": 1.73,
-        "Vålerenga": 5.3,
-        "Draw": 4.1
-      },
-      "Unibet (FR)": {
-        "Kristiansund BK": 1.55,
-        "Vålerenga": 4.15,
-        "Draw": 3.1
-      },
-      "Marathon Bet": {
-        "Kristiansund BK": 1.68,
-        "Vålerenga": 4.3,
-        "Draw": 3.64
-      },
-      "Winamax (DE)": {
-        "Kristiansund BK": 1.68,
-        "Vålerenga": 4.2,
-        "Draw": 3.2
-      },
-      "Winamax (FR)": {
-        "Kristiansund BK": 1.6,
-        "Vålerenga": 4.0,
-        "Draw": 3.0
-      },
-      "Tipico": {
-        "Kristiansund BK": 1.65,
-        "Vålerenga": 4.3,
-        "Draw": 3.8
-      },
-      "Betclic (FR)": {
-        "Kristiansund BK": 1.62,
-        "Vålerenga": 3.95,
-        "Draw": 3.25
-      },
+    "0080a654687b1e349e6ecb26324f396b:h2h": {
       "Pinnacle": {
-        "Kristiansund BK": 1.83,
-        "Vålerenga": 4.21,
-        "Draw": 3.68
-      },
-      "Nordic Bet": {
-        "Kristiansund BK": 1.68,
-        "Vålerenga": 4.6,
-        "Draw": 3.4
+        "BK Hacken": 11.37,
+        "Chelsea": 1.18,
+        "Draw": 7.17
       },
       "Betsson": {
-        "Kristiansund BK": 1.68,
-        "Vålerenga": 4.6,
-        "Draw": 3.4
-      },
-      "Matchbook": {
-        "Kristiansund BK": 1.64,
-        "Vålerenga": 5.6,
-        "Draw": 4.1
-      },
-      "Coolbet": {
-        "Kristiansund BK": 1.73,
-        "Vålerenga": 5.0,
-        "Draw": 3.75
-      }
-    },
-    "8b3289c2c6ddd9b85f95e1d569aea292:h2h": {
-      "Pinnacle": {
-        "Berkhamsted FC": 4.4,
-        "Plymouth Parkway FC": 1.61,
-        "Draw": 4.55
-      },
-      "Coolbet": {
-        "Berkhamsted FC": 4.75,
-        "Plymouth Parkway FC": 1.62,
-        "Draw": 4.2
-      },
-      "Winamax (DE)": {
-        "Berkhamsted FC": 4.4,
-        "Plymouth Parkway FC": 1.58,
-        "Draw": 4.2
+        "BK Hacken": 10.5,
+        "Chelsea": 1.18,
+        "Draw": 6.1
       },
       "1xBet": {
-        "Berkhamsted FC": 4.41,
-        "Plymouth Parkway FC": 1.66,
-        "Draw": 4.15
+        "BK Hacken": 11.9,
+        "Chelsea": 1.17,
+        "Draw": 6.1
       },
       "888sport": {
-        "Berkhamsted FC": 4.2,
-        "Plymouth Parkway FC": 1.61,
-        "Draw": 4.0
+        "BK Hacken": 10.0,
+        "Chelsea": 1.18,
+        "Draw": 6.0
       },
       "William Hill": {
-        "Berkhamsted FC": 4.0,
-        "Plymouth Parkway FC": 1.62,
-        "Draw": 4.0
-      },
-      "Codere (IT)": {
-        "Berkhamsted FC": 4.7,
-        "Plymouth Parkway FC": 1.64,
-        "Draw": 4.1
-      },
-      "Betfair": {
-        "Berkhamsted FC": 5.1,
-        "Plymouth Parkway FC": 1.66,
-        "Draw": 4.7
-      },
-      "Unibet (SE)": {
-        "Berkhamsted FC": 4.25,
-        "Plymouth Parkway FC": 1.72,
-        "Draw": 3.9
-      },
-      "LeoVegas (SE)": {
-        "Berkhamsted FC": 4.25,
-        "Plymouth Parkway FC": 1.72,
-        "Draw": 3.9
-      },
-      "BetOnline.ag": {
-        "Berkhamsted FC": 4.4,
-        "Plymouth Parkway FC": 1.61,
-        "Draw": 4.6
+        "BK Hacken": 10.0,
+        "Chelsea": 1.18,
+        "Draw": 5.8
       },
       "Nordic Bet": {
-        "Berkhamsted FC": 4.4,
-        "Plymouth Parkway FC": 1.6,
-        "Draw": 4.05
-      },
-      "Betsson": {
-        "Berkhamsted FC": 4.4,
-        "Plymouth Parkway FC": 1.6,
-        "Draw": 4.05
-      },
-      "Matchbook": {
-        "Berkhamsted FC": 5.1,
-        "Plymouth Parkway FC": 1.66,
-        "Draw": 4.7
-      }
-    },
-    "7bfc2afc162934f011a8425159e340da:h2h": {
-      "LeoVegas (SE)": {
-        "CD Eldense": 3.3,
-        "Las Palmas": 1.91,
-        "Draw": 3.35
-      },
-      "Unibet (NL)": {
-        "CD Eldense": 3.5,
-        "Las Palmas": 2.0,
-        "Draw": 3.55
+        "BK Hacken": 10.5,
+        "Chelsea": 1.18,
+        "Draw": 6.1
       },
       "Unibet (FR)": {
-        "CD Eldense": 3.3,
-        "Las Palmas": 1.85,
-        "Draw": 3.25
-      },
-      "Matchbook": {
-        "CD Eldense": 3.65,
-        "Las Palmas": 2.12,
-        "Draw": 3.65
-      },
-      "Tipico": {
-        "CD Eldense": 3.6,
-        "Las Palmas": 1.83,
-        "Draw": 3.5
-      },
-      "1xBet": {
-        "CD Eldense": 3.77,
-        "Las Palmas": 2.0,
-        "Draw": 3.61
-      },
-      "Codere (IT)": {
-        "CD Eldense": 3.3,
-        "Las Palmas": 2.0,
-        "Draw": 3.35
-      },
-      "Winamax (DE)": {
-        "CD Eldense": 3.3,
-        "Las Palmas": 1.98,
-        "Draw": 3.45
-      },
-      "PMU (FR)": {
-        "CD Eldense": 3.2,
-        "Las Palmas": 1.83,
-        "Draw": 3.25
-      },
-      "Unibet (SE)": {
-        "CD Eldense": 3.5,
-        "Las Palmas": 2.0,
-        "Draw": 3.55
-      },
-      "Winamax (FR)": {
-        "CD Eldense": 3.15,
-        "Las Palmas": 1.9,
-        "Draw": 3.25
-      },
-      "Marathon Bet": {
-        "CD Eldense": 3.65,
-        "Las Palmas": 1.94,
-        "Draw": 3.5
+        "BK Hacken": 8.7,
+        "Chelsea": 1.09,
+        "Draw": 5.4
       },
       "Betclic (FR)": {
-        "CD Eldense": 3.22,
-        "Las Palmas": 1.89,
-        "Draw": 3.32
+        "BK Hacken": 10.0,
+        "Chelsea": 1.14,
+        "Draw": 6.1
       },
-      "Coolbet": {
-        "CD Eldense": 3.6,
-        "Las Palmas": 2.03,
-        "Draw": 3.6
+      "PMU (FR)": {
+        "BK Hacken": 11.5,
+        "Chelsea": 1.1,
+        "Draw": 6.0
       },
-      "Pinnacle": {
-        "CD Eldense": 3.67,
-        "Las Palmas": 2.09,
-        "Draw": 3.58
+      "Unibet (NL)": {
+        "BK Hacken": 12.5,
+        "Chelsea": 1.17,
+        "Draw": 6.5
       },
       "Betfair": {
-        "CD Eldense": 3.75,
-        "Las Palmas": 2.14,
-        "Draw": 3.65
+        "BK Hacken": 13.5,
+        "Chelsea": 1.22,
+        "Draw": 7.8
+      },
+      "BetOnline.ag": {
+        "BK Hacken": 10.4,
+        "Chelsea": 1.19,
+        "Draw": 5.98
+      }
+    },
+    "603765f32acd9adad5599d186ba379be:h2h": {
+      "William Hill": {
+        "Paris FC": 5.5,
+        "Real Madrid": 1.36,
+        "Draw": 4.5
       },
       "Nordic Bet": {
-        "CD Eldense": 3.35,
-        "Las Palmas": 2.02,
-        "Draw": 3.4
+        "Paris FC": 6.1,
+        "Real Madrid": 1.38,
+        "Draw": 4.7
+      },
+      "Unibet (FR)": {
+        "Paris FC": 6.3,
+        "Real Madrid": 1.25,
+        "Draw": 5.4
+      },
+      "888sport": {
+        "Paris FC": 5.5,
+        "Real Madrid": 1.36,
+        "Draw": 4.6
+      },
+      "1xBet": {
+        "Paris FC": 6.53,
+        "Real Madrid": 1.36,
+        "Draw": 4.6
       },
       "Betsson": {
-        "CD Eldense": 3.35,
-        "Las Palmas": 2.02,
-        "Draw": 3.4
+        "Paris FC": 6.1,
+        "Real Madrid": 1.38,
+        "Draw": 4.7
+      },
+      "Betclic (FR)": {
+        "Paris FC": 5.4,
+        "Real Madrid": 1.35,
+        "Draw": 4.7
+      },
+      "Pinnacle": {
+        "Paris FC": 5.44,
+        "Real Madrid": 1.43,
+        "Draw": 5.3
+      },
+      "PMU (FR)": {
+        "Paris FC": 5.75,
+        "Real Madrid": 1.25,
+        "Draw": 5.25
+      },
+      "Unibet (NL)": {
+        "Paris FC": 6.5,
+        "Real Madrid": 1.35,
+        "Draw": 6.0
+      },
+      "Betfair": {
+        "Paris FC": 6.4,
+        "Real Madrid": 1.44,
+        "Draw": 5.7
+      },
+      "BetOnline.ag": {
+        "Paris FC": 5.78,
+        "Real Madrid": 1.39,
+        "Draw": 4.74
+      }
+    },
+    "898db1fbf4d87a3fb67f2d9994e68d93:h2h": {
+      "Pinnacle": {
+        "CD Pamplona": 13.07,
+        "SD Eibar": 1.11,
+        "Draw": 7.19
+      },
+      "Tipico": {
+        "CD Pamplona": 13.0,
+        "SD Eibar": 1.07,
+        "Draw": 7.5
+      },
+      "Winamax (DE)": {
+        "CD Pamplona": 11.0,
+        "SD Eibar": 1.16,
+        "Draw": 7.0
+      },
+      "888sport": {
+        "CD Pamplona": 15.0,
+        "SD Eibar": 1.17,
+        "Draw": 6.5
       },
       "William Hill": {
-        "CD Eldense": 3.2,
-        "Las Palmas": 2.0,
-        "Draw": 3.4
+        "CD Pamplona": 15.0,
+        "SD Eibar": 1.17,
+        "Draw": 6.5
       },
-      "BetAnything": {
-        "CD Eldense": 3.35,
-        "Las Palmas": 2.0,
-        "Draw": 3.45
+      "1xBet": {
+        "CD Pamplona": 15.0,
+        "SD Eibar": 1.17,
+        "Draw": 6.85
+      },
+      "Codere (IT)": {
+        "CD Pamplona": 13.0,
+        "SD Eibar": 1.18,
+        "Draw": 6.8
+      },
+      "Unibet (SE)": {
+        "CD Pamplona": 12.5,
+        "SD Eibar": 1.13,
+        "Draw": 6.75
+      },
+      "LeoVegas (SE)": {
+        "CD Pamplona": 12.5,
+        "SD Eibar": 1.13,
+        "Draw": 6.75
+      }
+    },
+    "92c4ab5c733ce03586c70f195c70134b:h2h": {
+      "Pinnacle": {
+        "CF Trival Valderas": 15.3,
+        "Leganés": 1.1,
+        "Draw": 7.54
+      },
+      "Betfair": {
+        "CF Trival Valderas": 17.0,
+        "Leganés": 1.18,
+        "Draw": 8.8
+      },
+      "William Hill": {
+        "CF Trival Valderas": 21.0,
+        "Leganés": 1.14,
+        "Draw": 7.0
+      },
+      "Tipico": {
+        "CF Trival Valderas": 14.0,
+        "Leganés": 1.05,
+        "Draw": 8.0
+      },
+      "Winamax (DE)": {
+        "CF Trival Valderas": 14.5,
+        "Leganés": 1.11,
+        "Draw": 7.75
+      },
+      "888sport": {
+        "CF Trival Valderas": 21.0,
+        "Leganés": 1.14,
+        "Draw": 7.0
+      },
+      "1xBet": {
+        "CF Trival Valderas": 22.0,
+        "Leganés": 1.1,
+        "Draw": 8.0
+      },
+      "Unibet (SE)": {
+        "CF Trival Valderas": 13.0,
+        "Leganés": 1.11,
+        "Draw": 7.5
+      },
+      "LeoVegas (SE)": {
+        "CF Trival Valderas": 13.0,
+        "Leganés": 1.11,
+        "Draw": 7.5
       }
     }
   },
@@ -6034,16 +5996,179 @@
       "confidence": 9,
       "alert_type": "value",
       "alerted_at": "2026-11-09T18:41:59.450462+00:00"
+    },
+    {
+      "state_key": "0080a654687b1e349e6ecb26324f396b:h2h",
+      "event_id": "0080a654687b1e349e6ecb26324f396b",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League Women",
+      "home_team": "BK Hacken",
+      "away_team": "Chelsea",
+      "commence_time": "2026-11-10T17:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "BK Hacken",
+      "odds_at_alert": 13.5,
+      "stake_pct": 3.0,
+      "confidence": 10,
+      "alert_type": "value",
+      "alerted_at": "2026-11-10T02:40:40.824237+00:00"
+    },
+    {
+      "state_key": "603765f32acd9adad5599d186ba379be:h2h",
+      "event_id": "603765f32acd9adad5599d186ba379be",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League Women",
+      "home_team": "Real Madrid",
+      "away_team": "Paris FC",
+      "commence_time": "2026-11-10T17:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Paris FC",
+      "odds_at_alert": 6.3,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-11-10T02:40:41.308055+00:00"
+    },
+    {
+      "state_key": "603765f32acd9adad5599d186ba379be:h2h",
+      "event_id": "603765f32acd9adad5599d186ba379be",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League Women",
+      "home_team": "Real Madrid",
+      "away_team": "Paris FC",
+      "commence_time": "2026-11-10T17:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Paris FC",
+      "odds_at_alert": 6.53,
+      "stake_pct": 3.0,
+      "confidence": 12,
+      "alert_type": "value",
+      "alerted_at": "2026-11-10T02:40:41.780895+00:00"
+    },
+    {
+      "state_key": "603765f32acd9adad5599d186ba379be:h2h",
+      "event_id": "603765f32acd9adad5599d186ba379be",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League Women",
+      "home_team": "Real Madrid",
+      "away_team": "Paris FC",
+      "commence_time": "2026-11-10T17:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Paris FC",
+      "odds_at_alert": 6.5,
+      "stake_pct": 3.0,
+      "confidence": 11,
+      "alert_type": "value",
+      "alerted_at": "2026-11-10T02:40:42.270011+00:00"
+    },
+    {
+      "state_key": "603765f32acd9adad5599d186ba379be:h2h",
+      "event_id": "603765f32acd9adad5599d186ba379be",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League Women",
+      "home_team": "Real Madrid",
+      "away_team": "Paris FC",
+      "commence_time": "2026-11-10T17:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.0,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-11-10T02:40:42.744149+00:00"
+    },
+    {
+      "state_key": "603765f32acd9adad5599d186ba379be:h2h",
+      "event_id": "603765f32acd9adad5599d186ba379be",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League Women",
+      "home_team": "Real Madrid",
+      "away_team": "Paris FC",
+      "commence_time": "2026-11-10T17:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Paris FC",
+      "odds_at_alert": 6.4,
+      "stake_pct": 2.0,
+      "confidence": 10,
+      "alert_type": "value",
+      "alerted_at": "2026-11-10T02:40:43.259889+00:00"
+    },
+    {
+      "state_key": "92c4ab5c733ce03586c70f195c70134b:h2h",
+      "event_id": "92c4ab5c733ce03586c70f195c70134b",
+      "sport_key": "soccer",
+      "competition": "Copa del Rey",
+      "home_team": "CF Trival Valderas",
+      "away_team": "Leganés",
+      "commence_time": "2026-11-10T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 8.8,
+      "stake_pct": 2.0,
+      "confidence": 5,
+      "alert_type": "value",
+      "alerted_at": "2026-11-10T02:40:43.740074+00:00"
+    },
+    {
+      "state_key": "92c4ab5c733ce03586c70f195c70134b:h2h",
+      "event_id": "92c4ab5c733ce03586c70f195c70134b",
+      "sport_key": "soccer",
+      "competition": "Copa del Rey",
+      "home_team": "CF Trival Valderas",
+      "away_team": "Leganés",
+      "commence_time": "2026-11-10T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "CF Trival Valderas",
+      "odds_at_alert": 21.0,
+      "stake_pct": 5.0,
+      "confidence": 24,
+      "alert_type": "value",
+      "alerted_at": "2026-11-10T02:40:44.211887+00:00"
+    },
+    {
+      "state_key": "92c4ab5c733ce03586c70f195c70134b:h2h",
+      "event_id": "92c4ab5c733ce03586c70f195c70134b",
+      "sport_key": "soccer",
+      "competition": "Copa del Rey",
+      "home_team": "CF Trival Valderas",
+      "away_team": "Leganés",
+      "commence_time": "2026-11-10T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "CF Trival Valderas",
+      "odds_at_alert": 21.0,
+      "stake_pct": 5.0,
+      "confidence": 24,
+      "alert_type": "value",
+      "alerted_at": "2026-11-10T02:40:44.711088+00:00"
+    },
+    {
+      "state_key": "92c4ab5c733ce03586c70f195c70134b:h2h",
+      "event_id": "92c4ab5c733ce03586c70f195c70134b",
+      "sport_key": "soccer",
+      "competition": "Copa del Rey",
+      "home_team": "CF Trival Valderas",
+      "away_team": "Leganés",
+      "commence_time": "2026-11-10T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "CF Trival Valderas",
+      "odds_at_alert": 22.0,
+      "stake_pct": 5.0,
+      "confidence": 30,
+      "alert_type": "value",
+      "alerted_at": "2026-11-10T02:40:45.178261+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "8b3289c2c6ddd9b85f95e1d569aea292:h2h|Betfair|Berkhamsted FC",
-    "8b3289c2c6ddd9b85f95e1d569aea292:h2h|Matchbook|Berkhamsted FC",
-    "a878bfc5e7eae6808debf217c23c93f5:h2h|Betfair|Draw",
-    "a878bfc5e7eae6808debf217c23c93f5:h2h|Betfair|Vålerenga",
-    "a878bfc5e7eae6808debf217c23c93f5:h2h|Coolbet|Vålerenga",
-    "a878bfc5e7eae6808debf217c23c93f5:h2h|Matchbook|Draw",
-    "a878bfc5e7eae6808debf217c23c93f5:h2h|Matchbook|Vålerenga"
+    "0080a654687b1e349e6ecb26324f396b:h2h|Betfair|BK Hacken",
+    "603765f32acd9adad5599d186ba379be:h2h|1xBet|Paris FC",
+    "603765f32acd9adad5599d186ba379be:h2h|Betfair|Paris FC",
+    "603765f32acd9adad5599d186ba379be:h2h|Unibet (FR)|Paris FC",
+    "603765f32acd9adad5599d186ba379be:h2h|Unibet (NL)|Draw",
+    "603765f32acd9adad5599d186ba379be:h2h|Unibet (NL)|Paris FC",
+    "92c4ab5c733ce03586c70f195c70134b:h2h|1xBet|CF Trival Valderas",
+    "92c4ab5c733ce03586c70f195c70134b:h2h|888sport|CF Trival Valderas",
+    "92c4ab5c733ce03586c70f195c70134b:h2h|Betfair|Draw",
+    "92c4ab5c733ce03586c70f195c70134b:h2h|William Hill|CF Trival Valderas"
   ]
 }
