@@ -2,14 +2,14 @@
   "snapshots": {
     "56014ed7ac2ab4cb60ae573d58c4526f:h2h": {
       "William Hill": {
-        "HB Køge": 1.6,
+        "HB Køge": 1.62,
         "Leuven": 4.2,
-        "Draw": 3.6
+        "Draw": 3.5
       },
       "Nordic Bet": {
-        "HB Køge": 1.6,
-        "Leuven": 4.5,
-        "Draw": 3.95
+        "HB Køge": 1.62,
+        "Leuven": 4.4,
+        "Draw": 3.75
       },
       "Unibet (FR)": {
         "HB Køge": 1.53,
@@ -18,95 +18,95 @@
       },
       "888sport": {
         "HB Køge": 1.61,
-        "Leuven": 4.33,
-        "Draw": 3.7
+        "Leuven": 4.4,
+        "Draw": 3.5
       },
       "1xBet": {
-        "HB Køge": 1.59,
-        "Leuven": 4.49,
-        "Draw": 3.94
+        "HB Køge": 1.6,
+        "Leuven": 4.58,
+        "Draw": 3.82
       },
       "Betsson": {
-        "HB Køge": 1.6,
-        "Leuven": 4.5,
-        "Draw": 3.95
-      },
-      "Betclic (FR)": {
-        "HB Køge": 1.52,
-        "Leuven": 4.4,
-        "Draw": 3.9
-      },
-      "Pinnacle": {
         "HB Køge": 1.62,
-        "Leuven": 4.69,
-        "Draw": 4.15
-      },
-      "Betfair": {
-        "HB Køge": 1.64,
-        "Leuven": 5.0,
-        "Draw": 4.3
-      },
-      "PMU (FR)": {
-        "HB Køge": 1.54,
-        "Leuven": 4.0,
+        "Leuven": 4.4,
         "Draw": 3.75
       },
+      "Betclic (FR)": {
+        "HB Køge": 1.59,
+        "Leuven": 4.4,
+        "Draw": 3.8
+      },
+      "Pinnacle": {
+        "HB Køge": 1.65,
+        "Leuven": 4.68,
+        "Draw": 3.94
+      },
+      "Betfair": {
+        "HB Køge": 1.72,
+        "Leuven": 5.2,
+        "Draw": 4.4
+      },
+      "PMU (FR)": {
+        "HB Køge": 1.55,
+        "Leuven": 4.0,
+        "Draw": 3.7
+      },
       "Unibet (NL)": {
-        "HB Køge": 1.67,
+        "HB Køge": 1.68,
         "Leuven": 4.5,
         "Draw": 4.1
       },
       "BetOnline.ag": {
-        "HB Køge": 1.6,
-        "Leuven": 4.48,
-        "Draw": 3.95
+        "HB Køge": 1.67,
+        "Leuven": 4.8,
+        "Draw": 4.15
       },
       "Coolbet": {
         "HB Køge": 1.65,
-        "Leuven": 4.5,
-        "Draw": 4.15
+        "Leuven": 4.55,
+        "Draw": 4.1
       }
     },
     "ad246e4257e09b67a9de5118cc600a0c:h2h": {
       "Pinnacle": {
-        "Accrington Stanley": 5.27,
-        "Sheffield Wednesday": 1.52,
-        "Draw": 4.44
+        "Accrington Stanley": 5.53,
+        "Sheffield Wednesday": 1.48,
+        "Draw": 4.49
       },
       "Betfair": {
-        "Accrington Stanley": 5.9,
+        "Accrington Stanley": 6.2,
         "Sheffield Wednesday": 1.56,
-        "Draw": 4.8
+        "Draw": 4.9
       },
       "Unibet (NL)": {
-        "Accrington Stanley": 4.8,
+        "Accrington Stanley": 4.9,
         "Sheffield Wednesday": 1.49,
         "Draw": 4.5
       },
       "Unibet (SE)": {
-        "Accrington Stanley": 4.8,
+        "Accrington Stanley": 4.9,
         "Sheffield Wednesday": 1.49,
         "Draw": 4.5
       },
       "LeoVegas (SE)": {
-        "Accrington Stanley": 4.8,
+        "Accrington Stanley": 4.9,
         "Sheffield Wednesday": 1.49,
         "Draw": 4.5
       },
       "William Hill": {
-        "Accrington Stanley": 4.8,
-        "Sheffield Wednesday": 1.5,
-        "Draw": 3.9
+        "Accrington Stanley": 5.0,
+        "Sheffield Wednesday": 1.44,
+        "Draw": 4.0
       },
       "888sport": {
-        "Accrington Stanley": 4.8,
-        "Sheffield Wednesday": 1.5,
-        "Draw": 3.9
+        "Accrington Stanley": 5.0,
+        "Sheffield Wednesday": 1.44,
+        "Draw": 4.0
       },
       "1xBet": {
-        "Accrington Stanley": 5.38,
-        "Sheffield Wednesday": 1.48,
-        "Draw": 4.2
+        "Accrington Stanley": 5.58,
+        "Sheffield Wednesday": 1.46,
+        "Draw": 4.25
       },
       "Tipico": {
         "Accrington Stanley": 5.5,
@@ -114,82 +114,82 @@
         "Draw": 4.5
       },
       "Marathon Bet": {
-        "Accrington Stanley": 5.2,
-        "Sheffield Wednesday": 1.47,
-        "Draw": 4.2
+        "Accrington Stanley": 5.4,
+        "Sheffield Wednesday": 1.45,
+        "Draw": 4.25
       },
       "Matchbook": {
-        "Accrington Stanley": 5.5,
+        "Accrington Stanley": 5.9,
         "Sheffield Wednesday": 1.53,
-        "Draw": 4.8
+        "Draw": 5.0
       }
     },
     "412eb64cbef60d8d64fc9db9b4fc6c29:h2h": {
       "Pinnacle": {
-        "Barnsley": 1.79,
-        "Oldham Athletic": 3.54,
-        "Draw": 4.33
+        "Barnsley": 1.69,
+        "Oldham Athletic": 3.77,
+        "Draw": 4.68
       },
       "Betfair": {
-        "Barnsley": 1.82,
-        "Oldham Athletic": 3.8,
-        "Draw": 4.7
+        "Barnsley": 1.75,
+        "Oldham Athletic": 3.95,
+        "Draw": 5.1
       },
       "Unibet (NL)": {
-        "Barnsley": 1.74,
-        "Oldham Athletic": 3.65,
-        "Draw": 4.0
+        "Barnsley": 1.66,
+        "Oldham Athletic": 3.75,
+        "Draw": 4.25
       },
       "Unibet (SE)": {
-        "Barnsley": 1.74,
-        "Oldham Athletic": 3.65,
-        "Draw": 4.0
+        "Barnsley": 1.66,
+        "Oldham Athletic": 3.75,
+        "Draw": 4.25
       },
       "LeoVegas (SE)": {
-        "Barnsley": 1.74,
-        "Oldham Athletic": 3.65,
-        "Draw": 4.0
+        "Barnsley": 1.66,
+        "Oldham Athletic": 3.75,
+        "Draw": 4.25
       },
       "William Hill": {
-        "Barnsley": 1.8,
+        "Barnsley": 1.7,
         "Oldham Athletic": 3.4,
-        "Draw": 3.6
+        "Draw": 4.0
       },
       "888sport": {
-        "Barnsley": 1.8,
+        "Barnsley": 1.7,
         "Oldham Athletic": 3.4,
-        "Draw": 3.6
+        "Draw": 4.0
       },
       "1xBet": {
-        "Barnsley": 1.8,
-        "Oldham Athletic": 3.44,
-        "Draw": 3.95
+        "Barnsley": 1.74,
+        "Oldham Athletic": 3.45,
+        "Draw": 4.25
       },
       "Tipico": {
-        "Barnsley": 1.65,
-        "Oldham Athletic": 3.5,
-        "Draw": 4.4
+        "Barnsley": 1.57,
+        "Oldham Athletic": 3.7,
+        "Draw": 4.7
       },
       "Marathon Bet": {
-        "Barnsley": 1.78,
-        "Oldham Athletic": 3.38,
-        "Draw": 3.95
+        "Barnsley": 1.67,
+        "Oldham Athletic": 3.58,
+        "Draw": 4.33
       },
       "Matchbook": {
-        "Barnsley": 1.8,
-        "Oldham Athletic": 3.75,
-        "Draw": 4.7
+        "Barnsley": 1.74,
+        "Oldham Athletic": 3.85,
+        "Draw": 5.0
       }
     },
     "1a399de4304b787f2816244d5255cb6a:h2h": {
       "William Hill": {
-        "Austria Wien": 4.75,
-        "Benfica": 1.57,
-        "Draw": 3.4
+        "Austria Wien": 4.5,
+        "Benfica": 1.6,
+        "Draw": 3.5
       },
       "888sport": {
-        "Austria Wien": 4.8,
-        "Benfica": 1.57,
+        "Austria Wien": 4.6,
+        "Benfica": 1.61,
         "Draw": 3.5
       },
       "1xBet": {
@@ -198,18 +198,18 @@
         "Draw": 3.96
       },
       "PMU (FR)": {
-        "Austria Wien": 4.5,
-        "Benfica": 1.53,
-        "Draw": 3.4
+        "Austria Wien": 4.3,
+        "Benfica": 1.57,
+        "Draw": 3.3
       },
       "Unibet (NL)": {
-        "Austria Wien": 5.0,
-        "Benfica": 1.67,
-        "Draw": 3.75
+        "Austria Wien": 4.8,
+        "Benfica": 1.71,
+        "Draw": 3.65
       },
       "BetOnline.ag": {
         "Austria Wien": 5.5,
-        "Benfica": 1.74,
+        "Benfica": 1.71,
         "Draw": 2.95
       }
     }
