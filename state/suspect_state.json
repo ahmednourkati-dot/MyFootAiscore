@@ -1,101 +1,216 @@
 {
   "snapshots": {
-    "3d20399e053c2333f06d0867c17f8e11:h2h": {
+    "56014ed7ac2ab4cb60ae573d58c4526f:h2h": {
       "William Hill": {
-        "Barnet": 1.0,
-        "Leyton Orient": 151.0,
-        "Draw": 67.0
-      }
-    },
-    "b65b9c662ba50d27984f34b45f2bcf72:h2h": {
+        "HB Køge": 1.6,
+        "Leuven": 4.2,
+        "Draw": 3.6
+      },
+      "Nordic Bet": {
+        "HB Køge": 1.6,
+        "Leuven": 4.5,
+        "Draw": 3.95
+      },
+      "Unibet (FR)": {
+        "HB Køge": 1.53,
+        "Leuven": 4.1,
+        "Draw": 4.0
+      },
+      "888sport": {
+        "HB Køge": 1.61,
+        "Leuven": 4.33,
+        "Draw": 3.7
+      },
+      "1xBet": {
+        "HB Køge": 1.59,
+        "Leuven": 4.49,
+        "Draw": 3.94
+      },
+      "Betsson": {
+        "HB Køge": 1.6,
+        "Leuven": 4.5,
+        "Draw": 3.95
+      },
+      "Betclic (FR)": {
+        "HB Køge": 1.52,
+        "Leuven": 4.4,
+        "Draw": 3.9
+      },
       "Pinnacle": {
-        "Bristol Rovers": 4.43,
-        "Reading": 4.79,
-        "Draw": 1.58
+        "HB Køge": 1.62,
+        "Leuven": 4.69,
+        "Draw": 4.15
       },
       "Betfair": {
-        "Bristol Rovers": 6.6,
-        "Reading": 8.0,
-        "Draw": 1.35
+        "HB Køge": 1.64,
+        "Leuven": 5.0,
+        "Draw": 4.3
       },
-      "Unibet (SE)": {
-        "Bristol Rovers": 7.5,
-        "Reading": 6.5,
-        "Draw": 1.23
+      "PMU (FR)": {
+        "HB Køge": 1.54,
+        "Leuven": 4.0,
+        "Draw": 3.75
       },
       "Unibet (NL)": {
-        "Bristol Rovers": 7.5,
-        "Reading": 6.5,
-        "Draw": 1.23
+        "HB Køge": 1.67,
+        "Leuven": 4.5,
+        "Draw": 4.1
+      },
+      "BetOnline.ag": {
+        "HB Køge": 1.6,
+        "Leuven": 4.48,
+        "Draw": 3.95
+      },
+      "Coolbet": {
+        "HB Køge": 1.65,
+        "Leuven": 4.5,
+        "Draw": 4.15
+      }
+    },
+    "ad246e4257e09b67a9de5118cc600a0c:h2h": {
+      "Pinnacle": {
+        "Accrington Stanley": 5.27,
+        "Sheffield Wednesday": 1.52,
+        "Draw": 4.44
+      },
+      "Betfair": {
+        "Accrington Stanley": 5.9,
+        "Sheffield Wednesday": 1.56,
+        "Draw": 4.8
+      },
+      "Unibet (NL)": {
+        "Accrington Stanley": 4.8,
+        "Sheffield Wednesday": 1.49,
+        "Draw": 4.5
+      },
+      "Unibet (SE)": {
+        "Accrington Stanley": 4.8,
+        "Sheffield Wednesday": 1.49,
+        "Draw": 4.5
       },
       "LeoVegas (SE)": {
-        "Bristol Rovers": 7.0,
-        "Reading": 6.25,
-        "Draw": 1.19
+        "Accrington Stanley": 4.8,
+        "Sheffield Wednesday": 1.49,
+        "Draw": 4.5
       },
       "William Hill": {
-        "Bristol Rovers": 5.0,
-        "Reading": 5.8,
-        "Draw": 1.29
+        "Accrington Stanley": 4.8,
+        "Sheffield Wednesday": 1.5,
+        "Draw": 3.9
       },
       "888sport": {
-        "Bristol Rovers": 6.0,
-        "Reading": 6.0,
-        "Draw": 1.22
+        "Accrington Stanley": 4.8,
+        "Sheffield Wednesday": 1.5,
+        "Draw": 3.9
+      },
+      "1xBet": {
+        "Accrington Stanley": 5.38,
+        "Sheffield Wednesday": 1.48,
+        "Draw": 4.2
       },
       "Tipico": {
-        "Bristol Rovers": 7.0,
-        "Reading": 5.5,
-        "Draw": 1.27
+        "Accrington Stanley": 5.5,
+        "Sheffield Wednesday": 1.4,
+        "Draw": 4.5
       },
       "Marathon Bet": {
-        "Bristol Rovers": 6.35,
-        "Reading": 7.1,
-        "Draw": 1.26
+        "Accrington Stanley": 5.2,
+        "Sheffield Wednesday": 1.47,
+        "Draw": 4.2
       },
       "Matchbook": {
-        "Bristol Rovers": 7.8,
-        "Reading": 7.6,
-        "Draw": 1.26
+        "Accrington Stanley": 5.5,
+        "Sheffield Wednesday": 1.53,
+        "Draw": 4.8
       }
     },
-    "15f6b2aba5e8a0e8540f70227a7afee0:h2h": {
+    "412eb64cbef60d8d64fc9db9b4fc6c29:h2h": {
+      "Pinnacle": {
+        "Barnsley": 1.79,
+        "Oldham Athletic": 3.54,
+        "Draw": 4.33
+      },
       "Betfair": {
-        "Burton Albion": 85.0,
-        "Notts County": 1.01,
-        "Draw": 55.0
+        "Barnsley": 1.82,
+        "Oldham Athletic": 3.8,
+        "Draw": 4.7
+      },
+      "Unibet (NL)": {
+        "Barnsley": 1.74,
+        "Oldham Athletic": 3.65,
+        "Draw": 4.0
+      },
+      "Unibet (SE)": {
+        "Barnsley": 1.74,
+        "Oldham Athletic": 3.65,
+        "Draw": 4.0
+      },
+      "LeoVegas (SE)": {
+        "Barnsley": 1.74,
+        "Oldham Athletic": 3.65,
+        "Draw": 4.0
       },
       "William Hill": {
-        "Burton Albion": 151.0,
-        "Notts County": 1.0,
-        "Draw": 46.0
+        "Barnsley": 1.8,
+        "Oldham Athletic": 3.4,
+        "Draw": 3.6
       },
       "888sport": {
-        "Burton Albion": 151.0,
-        "Notts County": 1.0,
-        "Draw": 46.0
+        "Barnsley": 1.8,
+        "Oldham Athletic": 3.4,
+        "Draw": 3.6
+      },
+      "1xBet": {
+        "Barnsley": 1.8,
+        "Oldham Athletic": 3.44,
+        "Draw": 3.95
+      },
+      "Tipico": {
+        "Barnsley": 1.65,
+        "Oldham Athletic": 3.5,
+        "Draw": 4.4
+      },
+      "Marathon Bet": {
+        "Barnsley": 1.78,
+        "Oldham Athletic": 3.38,
+        "Draw": 3.95
+      },
+      "Matchbook": {
+        "Barnsley": 1.8,
+        "Oldham Athletic": 3.75,
+        "Draw": 4.7
       }
     },
-    "92c4ab5c733ce03586c70f195c70134b:h2h": {
-      "Betfair": {
-        "CF Trival Valderas": 6.0,
-        "Leganés": 1.04,
-        "Draw": 20.0
-      },
+    "1a399de4304b787f2816244d5255cb6a:h2h": {
       "William Hill": {
-        "CF Trival Valderas": 151.0,
-        "Leganés": 1.01,
-        "Draw": 26.0
-      },
-      "Winamax (DE)": {
-        "CF Trival Valderas": 400.0,
-        "Leganés": 1.01,
-        "Draw": 20.0
+        "Austria Wien": 4.75,
+        "Benfica": 1.57,
+        "Draw": 3.4
       },
       "888sport": {
-        "CF Trival Valderas": 151.0,
-        "Leganés": 1.01,
-        "Draw": 23.0
+        "Austria Wien": 4.8,
+        "Benfica": 1.57,
+        "Draw": 3.5
+      },
+      "1xBet": {
+        "Austria Wien": 4.54,
+        "Benfica": 1.58,
+        "Draw": 3.96
+      },
+      "PMU (FR)": {
+        "Austria Wien": 4.5,
+        "Benfica": 1.53,
+        "Draw": 3.4
+      },
+      "Unibet (NL)": {
+        "Austria Wien": 5.0,
+        "Benfica": 1.67,
+        "Draw": 3.75
+      },
+      "BetOnline.ag": {
+        "Austria Wien": 5.5,
+        "Benfica": 1.74,
+        "Draw": 2.95
       }
     }
   },
@@ -5159,24 +5274,5 @@
     }
   ],
   "results_history": [],
-  "value_alerted": [
-    "b65b9c662ba50d27984f34b45f2bcf72:h2h|888sport|Bristol Rovers",
-    "b65b9c662ba50d27984f34b45f2bcf72:h2h|888sport|Reading",
-    "b65b9c662ba50d27984f34b45f2bcf72:h2h|Betfair|Bristol Rovers",
-    "b65b9c662ba50d27984f34b45f2bcf72:h2h|Betfair|Reading",
-    "b65b9c662ba50d27984f34b45f2bcf72:h2h|LeoVegas (SE)|Bristol Rovers",
-    "b65b9c662ba50d27984f34b45f2bcf72:h2h|LeoVegas (SE)|Reading",
-    "b65b9c662ba50d27984f34b45f2bcf72:h2h|Marathon Bet|Bristol Rovers",
-    "b65b9c662ba50d27984f34b45f2bcf72:h2h|Marathon Bet|Reading",
-    "b65b9c662ba50d27984f34b45f2bcf72:h2h|Matchbook|Bristol Rovers",
-    "b65b9c662ba50d27984f34b45f2bcf72:h2h|Matchbook|Reading",
-    "b65b9c662ba50d27984f34b45f2bcf72:h2h|Tipico|Bristol Rovers",
-    "b65b9c662ba50d27984f34b45f2bcf72:h2h|Tipico|Reading",
-    "b65b9c662ba50d27984f34b45f2bcf72:h2h|Unibet (NL)|Bristol Rovers",
-    "b65b9c662ba50d27984f34b45f2bcf72:h2h|Unibet (NL)|Reading",
-    "b65b9c662ba50d27984f34b45f2bcf72:h2h|Unibet (SE)|Bristol Rovers",
-    "b65b9c662ba50d27984f34b45f2bcf72:h2h|Unibet (SE)|Reading",
-    "b65b9c662ba50d27984f34b45f2bcf72:h2h|William Hill|Bristol Rovers",
-    "b65b9c662ba50d27984f34b45f2bcf72:h2h|William Hill|Reading"
-  ]
+  "value_alerted": []
 }
