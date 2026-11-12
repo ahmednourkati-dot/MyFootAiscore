@@ -1,246 +1,256 @@
 {
   "snapshots": {
-    "56014ed7ac2ab4cb60ae573d58c4526f:h2h": {
-      "Nordic Bet": {
-        "HB Køge": 1.41,
-        "Leuven": 5.8,
-        "Draw": 3.9
+    "c25477408b57267248b491fa5eab2572:h2h": {
+      "PMU (FR)": {
+        "Armenia": 2.18,
+        "Cyprus": 2.85,
+        "Draw": 3.0
       },
-      "Unibet (FR)": {
-        "HB Køge": 1.4,
-        "Leuven": 4.5,
-        "Draw": 3.6
+      "Betfair": {
+        "Armenia": 2.54,
+        "Cyprus": 3.2,
+        "Draw": 3.35
       },
-      "888sport": {
-        "HB Køge": 1.4,
-        "Leuven": 5.5,
-        "Draw": 4.0
+      "Winamax (FR)": {
+        "Armenia": 2.2,
+        "Cyprus": 2.8,
+        "Draw": 3.15
+      },
+      "Unibet (SE)": {
+        "Armenia": 2.35,
+        "Cyprus": 3.1,
+        "Draw": 3.25
+      },
+      "Winamax (DE)": {
+        "Armenia": 2.25,
+        "Cyprus": 2.95,
+        "Draw": 3.3
+      },
+      "LeoVegas (SE)": {
+        "Armenia": 2.35,
+        "Cyprus": 3.1,
+        "Draw": 3.25
       },
       "1xBet": {
-        "HB Køge": 1.53,
-        "Leuven": 5.19,
-        "Draw": 4.45
+        "Armenia": 2.51,
+        "Cyprus": 3.16,
+        "Draw": 3.16
+      },
+      "Nordic Bet": {
+        "Armenia": 2.35,
+        "Cyprus": 2.95,
+        "Draw": 3.15
       },
       "Betsson": {
-        "HB Køge": 1.52,
-        "Leuven": 5.1,
+        "Armenia": 2.35,
+        "Cyprus": 2.95,
+        "Draw": 3.15
+      },
+      "Betclic (FR)": {
+        "Armenia": 2.2,
+        "Cyprus": 2.97,
+        "Draw": 3.15
+      },
+      "888sport": {
+        "Armenia": 2.3,
+        "Cyprus": 2.9,
+        "Draw": 3.1
+      },
+      "William Hill": {
+        "Armenia": 2.3,
+        "Cyprus": 2.9,
+        "Draw": 3.0
+      },
+      "MyBookie.ag": {
+        "Armenia": 2.3,
+        "Cyprus": 3.0,
+        "Draw": 3.2
+      },
+      "Marathon Bet": {
+        "Armenia": 2.48,
+        "Cyprus": 3.12,
+        "Draw": 3.12
+      },
+      "BetAnything": {
+        "Armenia": 2.32,
+        "Cyprus": 3.01,
+        "Draw": 3.15
+      }
+    },
+    "d598d5e914a905ef70b01fd1b444aecb:h2h": {
+      "1xBet": {
+        "Belgium": 1.85,
+        "Turkey": 4.0,
+        "Draw": 4.15
+      },
+      "Nordic Bet": {
+        "Belgium": 1.82,
+        "Turkey": 3.7,
+        "Draw": 4.05
+      },
+      "Betsson": {
+        "Belgium": 1.82,
+        "Turkey": 3.7,
         "Draw": 4.05
       },
       "Betclic (FR)": {
-        "HB Køge": 1.42,
-        "Leuven": 5.25,
-        "Draw": 3.8
+        "Belgium": 1.74,
+        "Turkey": 3.7,
+        "Draw": 3.75
       },
-      "Pinnacle": {
-        "HB Køge": 1.54,
-        "Leuven": 5.56,
-        "Draw": 4.37
+      "Winamax (FR)": {
+        "Belgium": 1.7,
+        "Turkey": 3.6,
+        "Draw": 4.1
       },
-      "Betfair": {
-        "HB Køge": 1.55,
-        "Leuven": 6.6,
-        "Draw": 4.7
-      },
-      "PMU (FR)": {
-        "HB Køge": 1.41,
-        "Leuven": 4.5,
-        "Draw": 3.65
-      },
-      "Unibet (NL)": {
-        "HB Køge": 1.55,
-        "Leuven": 4.9,
-        "Draw": 3.95
-      },
-      "BetOnline.ag": {
-        "HB Køge": 1.54,
-        "Leuven": 5.55,
-        "Draw": 4.33
-      },
-      "Coolbet": {
-        "HB Køge": 1.44,
-        "Leuven": 6.0,
-        "Draw": 4.33
-      }
-    },
-    "ad246e4257e09b67a9de5118cc600a0c:h2h": {
-      "Pinnacle": {
-        "Accrington Stanley": 2.67,
-        "Sheffield Wednesday": 2.21,
-        "Draw": 3.88
+      "Winamax (DE)": {
+        "Belgium": 1.8,
+        "Turkey": 3.65,
+        "Draw": 4.0
       },
       "Betfair": {
-        "Accrington Stanley": 2.66,
-        "Sheffield Wednesday": 2.64,
-        "Draw": 3.95
-      },
-      "Unibet (NL)": {
-        "Accrington Stanley": 2.65,
-        "Sheffield Wednesday": 2.2,
-        "Draw": 3.7
-      },
-      "Unibet (SE)": {
-        "Accrington Stanley": 2.65,
-        "Sheffield Wednesday": 2.2,
-        "Draw": 3.7
-      },
-      "LeoVegas (SE)": {
-        "Accrington Stanley": 2.65,
-        "Sheffield Wednesday": 2.2,
-        "Draw": 3.7
+        "Belgium": 1.89,
+        "Turkey": 4.1,
+        "Draw": 4.3
       },
       "William Hill": {
-        "Accrington Stanley": 2.45,
-        "Sheffield Wednesday": 2.25,
-        "Draw": 3.6
+        "Belgium": 1.8,
+        "Turkey": 3.8,
+        "Draw": 3.9
       },
       "888sport": {
-        "Accrington Stanley": 2.5,
-        "Sheffield Wednesday": 2.25,
-        "Draw": 3.5
-      },
-      "1xBet": {
-        "Accrington Stanley": 2.88,
-        "Sheffield Wednesday": 2.04,
-        "Draw": 3.82
-      },
-      "Tipico": {
-        "Accrington Stanley": 2.65,
-        "Sheffield Wednesday": 2.1,
-        "Draw": 3.8
+        "Belgium": 1.8,
+        "Turkey": 3.8,
+        "Draw": 3.9
       },
       "Marathon Bet": {
-        "Accrington Stanley": 2.46,
-        "Sheffield Wednesday": 2.28,
-        "Draw": 3.76
+        "Belgium": 1.85,
+        "Turkey": 4.0,
+        "Draw": 4.15
+      },
+      "Pinnacle": {
+        "Belgium": 1.88,
+        "Turkey": 3.89,
+        "Draw": 4.13
+      },
+      "PMU (FR)": {
+        "Belgium": 1.7,
+        "Turkey": 3.8,
+        "Draw": 3.8
+      },
+      "Unibet (SE)": {
+        "Belgium": 1.8,
+        "Turkey": 4.2,
+        "Draw": 4.1
+      },
+      "LeoVegas (SE)": {
+        "Belgium": 1.75,
+        "Turkey": 3.95,
+        "Draw": 3.9
       },
       "Matchbook": {
-        "Accrington Stanley": 2.34,
-        "Sheffield Wednesday": 2.78,
+        "Belgium": 1.89,
+        "Turkey": 4.1,
+        "Draw": 4.3
+      },
+      "MyBookie.ag": {
+        "Belgium": 1.81,
+        "Turkey": 3.7,
+        "Draw": 3.85
+      },
+      "BetOnline.ag": {
+        "Belgium": 1.87,
+        "Turkey": 3.89,
+        "Draw": 4.12
+      },
+      "BetAnything": {
+        "Belgium": 1.87,
+        "Turkey": 3.89,
+        "Draw": 4.12
+      }
+    },
+    "c9cc536dc7a65c792381e54b431b50ee:h2h": {
+      "Pinnacle": {
+        "Albacete": 1.54,
+        "CD Puertollano": 5.31,
+        "Draw": 4.07
+      },
+      "Winamax (DE)": {
+        "Albacete": 1.49,
+        "CD Puertollano": 5.1,
+        "Draw": 4.2
+      },
+      "Codere (IT)": {
+        "Albacete": 1.54,
+        "CD Puertollano": 5.6,
         "Draw": 4.1
       }
     },
-    "412eb64cbef60d8d64fc9db9b4fc6c29:h2h": {
+    "c3716b6adacbddc5e04bba2baba450aa:h2h": {
       "Pinnacle": {
-        "Barnsley": 1.58,
-        "Oldham Athletic": 4.24,
-        "Draw": 5.31
-      },
-      "Betfair": {
-        "Barnsley": 1.61,
-        "Oldham Athletic": 4.5,
-        "Draw": 5.7
-      },
-      "Unibet (NL)": {
-        "Barnsley": 1.57,
-        "Oldham Athletic": 4.1,
-        "Draw": 4.5
-      },
-      "Unibet (SE)": {
-        "Barnsley": 1.57,
-        "Oldham Athletic": 4.1,
-        "Draw": 4.5
-      },
-      "LeoVegas (SE)": {
-        "Barnsley": 1.57,
-        "Oldham Athletic": 4.1,
-        "Draw": 4.5
-      },
-      "William Hill": {
-        "Barnsley": 1.57,
-        "Oldham Athletic": 3.75,
-        "Draw": 4.5
-      },
-      "888sport": {
-        "Barnsley": 1.57,
-        "Oldham Athletic": 3.75,
-        "Draw": 4.5
-      },
-      "1xBet": {
-        "Barnsley": 1.58,
-        "Oldham Athletic": 3.9,
-        "Draw": 4.75
-      },
-      "Tipico": {
-        "Barnsley": 1.45,
-        "Oldham Athletic": 4.2,
-        "Draw": 5.3
-      },
-      "Marathon Bet": {
-        "Barnsley": 1.56,
-        "Oldham Athletic": 3.86,
-        "Draw": 4.75
-      },
-      "Matchbook": {
-        "Barnsley": 1.6,
-        "Oldham Athletic": 4.6,
-        "Draw": 5.5
-      }
-    },
-    "9293d78b9ee8f1ad0a05e826c311d759:h2h": {
-      "Pinnacle": {
-        "Juventus": 12.63,
-        "Lyon": 1.12,
-        "Draw": 10.72
+        "Arsenal": 11.05,
+        "Barcelona": 1.17,
+        "Draw": 7.28
       },
       "Betsson": {
-        "Juventus": 13.5,
-        "Lyon": 1.11,
-        "Draw": 8.0
+        "Arsenal": 11.5,
+        "Barcelona": 1.14,
+        "Draw": 7.0
       },
       "1xBet": {
-        "Juventus": 14.1,
-        "Lyon": 1.06,
-        "Draw": 9.55
+        "Arsenal": 10.7,
+        "Barcelona": 1.13,
+        "Draw": 7.1
       },
       "888sport": {
-        "Juventus": 17.0,
-        "Lyon": 1.1,
-        "Draw": 8.5
+        "Arsenal": 10.0,
+        "Barcelona": 1.18,
+        "Draw": 6.0
       },
       "William Hill": {
-        "Juventus": 15.0,
-        "Lyon": 1.08,
-        "Draw": 8.5
+        "Arsenal": 10.0,
+        "Barcelona": 1.17,
+        "Draw": 6.0
       },
       "Nordic Bet": {
-        "Juventus": 13.5,
-        "Lyon": 1.11,
-        "Draw": 8.0
+        "Arsenal": 11.5,
+        "Barcelona": 1.14,
+        "Draw": 7.0
       },
       "Unibet (FR)": {
-        "Juventus": 10.0,
-        "Lyon": 1.08,
-        "Draw": 9.0
+        "Arsenal": 8.4,
+        "Barcelona": 1.11,
+        "Draw": 5.3
       },
       "Betclic (FR)": {
-        "Juventus": 13.0,
-        "Lyon": 1.09,
-        "Draw": 8.25
+        "Arsenal": 10.75,
+        "Barcelona": 1.11,
+        "Draw": 6.6
       },
       "PMU (FR)": {
-        "Juventus": 14.0,
-        "Lyon": 1.05,
+        "Arsenal": 12.0,
+        "Barcelona": 1.07,
         "Draw": 7.5
       },
       "Unibet (NL)": {
-        "Juventus": 15.0,
-        "Lyon": 1.12,
+        "Arsenal": 13.0,
+        "Barcelona": 1.13,
         "Draw": 8.0
       },
       "Betfair": {
-        "Juventus": 13.0,
-        "Lyon": 1.16,
-        "Draw": 12.5
-      },
-      "BetOnline.ag": {
-        "Juventus": 13.5,
-        "Lyon": 1.12,
-        "Draw": 11.0
+        "Arsenal": 12.5,
+        "Barcelona": 1.19,
+        "Draw": 10.0
       },
       "Coolbet": {
-        "Juventus": 15.5,
-        "Lyon": 1.11,
-        "Draw": 9.5
+        "Arsenal": 10.5,
+        "Barcelona": 1.2,
+        "Draw": 6.45
+      },
+      "BetOnline.ag": {
+        "Arsenal": 11.2,
+        "Barcelona": 1.15,
+        "Draw": 7.07
       }
     }
   },
@@ -5429,17 +5439,43 @@
       "confidence": 15,
       "alert_type": "value",
       "alerted_at": "2026-11-11T17:51:18.182731+00:00"
+    },
+    {
+      "state_key": "c3716b6adacbddc5e04bba2baba450aa:h2h",
+      "event_id": "c3716b6adacbddc5e04bba2baba450aa",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League Women",
+      "home_team": "Barcelona",
+      "away_team": "Arsenal",
+      "commence_time": "2026-11-12T17:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Arsenal",
+      "odds_at_alert": 13.0,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-11-12T00:33:00.947865+00:00"
+    },
+    {
+      "state_key": "c3716b6adacbddc5e04bba2baba450aa:h2h",
+      "event_id": "c3716b6adacbddc5e04bba2baba450aa",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League Women",
+      "home_team": "Barcelona",
+      "away_team": "Arsenal",
+      "commence_time": "2026-11-12T17:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 10.0,
+      "stake_pct": 5.0,
+      "confidence": 27,
+      "alert_type": "value",
+      "alerted_at": "2026-11-12T00:33:01.337241+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "56014ed7ac2ab4cb60ae573d58c4526f:h2h|Betfair|Leuven",
-    "9293d78b9ee8f1ad0a05e826c311d759:h2h|888sport|Juventus",
-    "9293d78b9ee8f1ad0a05e826c311d759:h2h|Betfair|Draw",
-    "9293d78b9ee8f1ad0a05e826c311d759:h2h|Coolbet|Juventus",
-    "9293d78b9ee8f1ad0a05e826c311d759:h2h|Unibet (NL)|Juventus",
-    "9293d78b9ee8f1ad0a05e826c311d759:h2h|William Hill|Juventus",
-    "ad246e4257e09b67a9de5118cc600a0c:h2h|Betfair|Sheffield Wednesday",
-    "ad246e4257e09b67a9de5118cc600a0c:h2h|Matchbook|Sheffield Wednesday"
+    "c3716b6adacbddc5e04bba2baba450aa:h2h|Betfair|Draw",
+    "c3716b6adacbddc5e04bba2baba450aa:h2h|Unibet (NL)|Arsenal"
   ]
 }
