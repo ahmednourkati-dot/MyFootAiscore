@@ -1,166 +1,281 @@
 {
   "snapshots": {
-    "cc1ca0aea8a9aa6ad2e1537834fe0d04:h2h": {
-      "Winamax (FR)": {
-        "Kazakhstan": 2.85,
-        "Moldova": 2.25,
-        "Draw": 2.25
-      },
-      "Betfair": {
-        "Kazakhstan": 3.95,
-        "Moldova": 2.64,
-        "Draw": 2.7
-      },
-      "Betsson": {
-        "Kazakhstan": 3.2,
-        "Moldova": 2.6,
-        "Draw": 2.5
-      },
-      "Nordic Bet": {
-        "Kazakhstan": 3.2,
-        "Moldova": 2.6,
-        "Draw": 2.5
+    "9f6c807a9e4b430966a54b8f0a3bccc1:h2h": {
+      "LeoVegas (SE)": {
+        "SC Freiburg": 3.65,
+        "TSG Hoffenheim": 1.74,
+        "Draw": 3.65
       },
       "Unibet (SE)": {
-        "Kazakhstan": 3.35,
-        "Moldova": 2.43,
-        "Draw": 2.45
+        "SC Freiburg": 3.65,
+        "TSG Hoffenheim": 1.74,
+        "Draw": 3.65
       },
-      "LeoVegas (SE)": {
-        "Kazakhstan": 3.4,
-        "Moldova": 2.38,
-        "Draw": 2.48
-      },
-      "PMU (FR)": {
-        "Kazakhstan": 3.25,
-        "Moldova": 2.35,
-        "Draw": 2.38
-      },
-      "Betclic (FR)": {
-        "Kazakhstan": 3.0,
-        "Moldova": 2.35,
-        "Draw": 2.35
-      },
-      "888sport": {
-        "Kazakhstan": 3.3,
-        "Moldova": 2.5,
-        "Draw": 2.5
-      },
-      "MyBookie.ag": {
-        "Kazakhstan": 3.15,
-        "Moldova": 2.55,
-        "Draw": 2.6
-      },
-      "Marathon Bet": {
-        "Kazakhstan": 3.25,
-        "Moldova": 2.68,
-        "Draw": 2.67
-      },
-      "Pinnacle": {
-        "Kazakhstan": 3.44,
-        "Moldova": 2.72,
-        "Draw": 2.45
-      }
-    },
-    "3f6c83a8118b5443871a7eb83e1fa183:h2h": {
       "Unibet (NL)": {
-        "FSV Mainz 05": 9.0,
-        "Hamburger SV": 1.22,
-        "Draw": 5.75
-      },
-      "LeoVegas (SE)": {
-        "FSV Mainz 05": 8.5,
-        "Hamburger SV": 1.18,
-        "Draw": 5.6
-      },
-      "Unibet (SE)": {
-        "FSV Mainz 05": 9.0,
-        "Hamburger SV": 1.22,
-        "Draw": 5.75
-      },
-      "888sport": {
-        "FSV Mainz 05": 8.5,
-        "Hamburger SV": 1.2,
-        "Draw": 5.5
-      },
-      "William Hill": {
-        "FSV Mainz 05": 8.5,
-        "Hamburger SV": 1.2,
-        "Draw": 5.5
+        "SC Freiburg": 3.65,
+        "TSG Hoffenheim": 1.74,
+        "Draw": 3.65
       },
       "Tipico": {
-        "FSV Mainz 05": 11.0,
-        "Hamburger SV": 1.15,
-        "Draw": 7.0
-      },
-      "Pinnacle": {
-        "FSV Mainz 05": 4.68,
-        "Hamburger SV": 1.57,
-        "Draw": 4.56
-      },
-      "1xBet": {
-        "FSV Mainz 05": 4.54,
-        "Hamburger SV": 1.61,
-        "Draw": 4.4
-      }
-    },
-    "511f714403615d006239801523f6ae0a:h2h": {
-      "Pinnacle": {
-        "Dijon": 1.65,
-        "Orléans": 4.51,
-        "Draw": 4.11
-      },
-      "Unibet (SE)": {
-        "Dijon": 1.51,
-        "Orléans": 5.3,
-        "Draw": 4.2
-      },
-      "Betfair": {
-        "Dijon": 1.69,
-        "Orléans": 5.0,
-        "Draw": 4.3
-      },
-      "LeoVegas (SE)": {
-        "Dijon": 1.51,
-        "Orléans": 5.3,
-        "Draw": 4.2
+        "SC Freiburg": 3.8,
+        "TSG Hoffenheim": 1.65,
+        "Draw": 4.0
       },
       "888sport": {
-        "Dijon": 1.65,
-        "Orléans": 4.4,
-        "Draw": 3.9
+        "SC Freiburg": 3.6,
+        "TSG Hoffenheim": 1.73,
+        "Draw": 3.7
       },
       "William Hill": {
-        "Dijon": 1.65,
-        "Orléans": 4.4,
+        "SC Freiburg": 3.6,
+        "TSG Hoffenheim": 1.73,
+        "Draw": 3.7
+      },
+      "Pinnacle": {
+        "SC Freiburg": 3.87,
+        "TSG Hoffenheim": 1.71,
+        "Draw": 4.11
+      },
+      "1xBet": {
+        "SC Freiburg": 3.83,
+        "TSG Hoffenheim": 1.69,
         "Draw": 3.9
-      },
-      "Unibet (NL)": {
-        "Dijon": 1.51,
-        "Orléans": 5.3,
-        "Draw": 4.2
-      },
-      "Winamax (DE)": {
-        "Dijon": 1.62,
-        "Orléans": 4.2,
-        "Draw": 4.1
-      },
-      "Codere (IT)": {
-        "Dijon": 1.67,
-        "Orléans": 4.5,
-        "Draw": 4.0
       }
     },
-    "4ef748da4ec5cf634d2c27ba8a406fe0:h2h": {
-      "LeoVegas (SE)": {
-        "FCF La Neuvillette-Jamin": 3.25,
-        "Valenciennes": 2.18,
-        "Draw": 3.1
+    "7bf0d1f95bb9b2b6003386c82ba96b6a:h2h": {
+      "Pinnacle": {
+        "Cheltenham Town": 3.98,
+        "Exeter City": 1.86,
+        "Draw": 3.78
+      },
+      "William Hill": {
+        "Cheltenham Town": 3.7,
+        "Exeter City": 1.91,
+        "Draw": 3.4
+      },
+      "Marathon Bet": {
+        "Cheltenham Town": 3.82,
+        "Exeter City": 1.85,
+        "Draw": 3.52
+      },
+      "Nordic Bet": {
+        "Cheltenham Town": 3.95,
+        "Exeter City": 1.85,
+        "Draw": 3.45
+      },
+      "888sport": {
+        "Cheltenham Town": 3.7,
+        "Exeter City": 1.91,
+        "Draw": 3.4
+      },
+      "1xBet": {
+        "Cheltenham Town": 3.83,
+        "Exeter City": 1.87,
+        "Draw": 3.52
+      },
+      "Betsson": {
+        "Cheltenham Town": 3.95,
+        "Exeter City": 1.85,
+        "Draw": 3.45
+      },
+      "Tipico": {
+        "Cheltenham Town": 4.0,
+        "Exeter City": 1.75,
+        "Draw": 3.5
+      },
+      "Coolbet": {
+        "Cheltenham Town": 3.85,
+        "Exeter City": 1.9,
+        "Draw": 3.5
+      },
+      "Codere (IT)": {
+        "Cheltenham Town": 3.7,
+        "Exeter City": 1.87,
+        "Draw": 3.4
+      },
+      "Unibet (NL)": {
+        "Cheltenham Town": 3.8,
+        "Exeter City": 1.81,
+        "Draw": 3.45
       },
       "Unibet (SE)": {
-        "FCF La Neuvillette-Jamin": 3.25,
-        "Valenciennes": 2.18,
-        "Draw": 3.1
+        "Cheltenham Town": 3.8,
+        "Exeter City": 1.81,
+        "Draw": 3.45
+      },
+      "LeoVegas (SE)": {
+        "Cheltenham Town": 3.75,
+        "Exeter City": 1.79,
+        "Draw": 3.4
+      },
+      "Betfair": {
+        "Cheltenham Town": 4.3,
+        "Exeter City": 1.9,
+        "Draw": 3.95
+      },
+      "Matchbook": {
+        "Cheltenham Town": 4.3,
+        "Exeter City": 1.91,
+        "Draw": 3.95
+      },
+      "BetOnline.ag": {
+        "Cheltenham Town": 4.0,
+        "Exeter City": 1.74,
+        "Draw": 3.7
+      }
+    },
+    "908247d5d5cd714de37956edf865668b:h2h": {
+      "PMU (FR)": {
+        "CD Castellón": 2.08,
+        "Real Valladolid CF": 2.7,
+        "Draw": 3.15
+      },
+      "LeoVegas (SE)": {
+        "CD Castellón": 2.16,
+        "Real Valladolid CF": 2.8,
+        "Draw": 3.3
+      },
+      "Unibet (NL)": {
+        "CD Castellón": 2.28,
+        "Real Valladolid CF": 2.95,
+        "Draw": 3.45
+      },
+      "Unibet (SE)": {
+        "CD Castellón": 2.28,
+        "Real Valladolid CF": 2.95,
+        "Draw": 3.45
+      },
+      "Unibet (FR)": {
+        "CD Castellón": 1.93,
+        "Real Valladolid CF": 2.65,
+        "Draw": 3.15
+      },
+      "Nordic Bet": {
+        "CD Castellón": 2.2,
+        "Real Valladolid CF": 2.9,
+        "Draw": 3.4
+      },
+      "Betsson": {
+        "CD Castellón": 2.2,
+        "Real Valladolid CF": 2.9,
+        "Draw": 3.4
+      },
+      "Betclic (FR)": {
+        "CD Castellón": 2.03,
+        "Real Valladolid CF": 2.75,
+        "Draw": 3.25
+      },
+      "Codere (IT)": {
+        "CD Castellón": 2.17,
+        "Real Valladolid CF": 2.9,
+        "Draw": 3.4
+      },
+      "Winamax (FR)": {
+        "CD Castellón": 2.05,
+        "Real Valladolid CF": 2.7,
+        "Draw": 3.35
+      },
+      "Winamax (DE)": {
+        "CD Castellón": 2.15,
+        "Real Valladolid CF": 2.8,
+        "Draw": 3.5
+      },
+      "1xBet": {
+        "CD Castellón": 2.27,
+        "Real Valladolid CF": 3.0,
+        "Draw": 3.73
+      },
+      "Coolbet": {
+        "CD Castellón": 2.25,
+        "Real Valladolid CF": 3.1,
+        "Draw": 3.6
+      },
+      "BetOnline.ag": {
+        "CD Castellón": 2.26,
+        "Real Valladolid CF": 2.9,
+        "Draw": 3.65
+      },
+      "Pinnacle": {
+        "CD Castellón": 2.29,
+        "Real Valladolid CF": 2.98,
+        "Draw": 3.79
+      },
+      "Marathon Bet": {
+        "CD Castellón": 2.2,
+        "Real Valladolid CF": 2.91,
+        "Draw": 3.62
+      },
+      "William Hill": {
+        "CD Castellón": 2.2,
+        "Real Valladolid CF": 2.88,
+        "Draw": 3.4
+      },
+      "Tipico": {
+        "CD Castellón": 2.05,
+        "Real Valladolid CF": 3.0,
+        "Draw": 3.5
+      },
+      "Matchbook": {
+        "CD Castellón": 2.32,
+        "Real Valladolid CF": 3.05,
+        "Draw": 3.7
+      },
+      "Betfair": {
+        "CD Castellón": 2.32,
+        "Real Valladolid CF": 3.05,
+        "Draw": 3.7
+      },
+      "BetAnything": {
+        "CD Castellón": 2.26,
+        "Real Valladolid CF": 2.9,
+        "Draw": 3.65
+      }
+    },
+    "c71ec197d7d313cb6b78b2b8cdeaf2ba:h2h": {
+      "Pinnacle": {
+        "FC Versailles": 3.06,
+        "Rodez AF": 2.22,
+        "Draw": 3.24
+      },
+      "LeoVegas (SE)": {
+        "FC Versailles": 3.0,
+        "Rodez AF": 2.2,
+        "Draw": 3.3
+      },
+      "Unibet (SE)": {
+        "FC Versailles": 3.0,
+        "Rodez AF": 2.2,
+        "Draw": 3.3
+      },
+      "Unibet (NL)": {
+        "FC Versailles": 3.0,
+        "Rodez AF": 2.2,
+        "Draw": 3.3
+      },
+      "William Hill": {
+        "FC Versailles": 3.0,
+        "Rodez AF": 2.15,
+        "Draw": 3.3
+      },
+      "Winamax (DE)": {
+        "FC Versailles": 3.0,
+        "Rodez AF": 2.1,
+        "Draw": 3.5
+      },
+      "888sport": {
+        "FC Versailles": 3.0,
+        "Rodez AF": 2.15,
+        "Draw": 3.3
+      },
+      "Codere (IT)": {
+        "FC Versailles": 3.15,
+        "Rodez AF": 2.18,
+        "Draw": 3.4
+      },
+      "Betfair": {
+        "FC Versailles": 3.1,
+        "Rodez AF": 2.24,
+        "Draw": 3.35
       }
     }
   },
@@ -3352,23 +3467,5 @@
     }
   ],
   "results_history": [],
-  "value_alerted": [
-    "3f6c83a8118b5443871a7eb83e1fa183:h2h|888sport|Draw",
-    "3f6c83a8118b5443871a7eb83e1fa183:h2h|888sport|FSV Mainz 05",
-    "3f6c83a8118b5443871a7eb83e1fa183:h2h|LeoVegas (SE)|Draw",
-    "3f6c83a8118b5443871a7eb83e1fa183:h2h|LeoVegas (SE)|FSV Mainz 05",
-    "3f6c83a8118b5443871a7eb83e1fa183:h2h|Tipico|Draw",
-    "3f6c83a8118b5443871a7eb83e1fa183:h2h|Tipico|FSV Mainz 05",
-    "3f6c83a8118b5443871a7eb83e1fa183:h2h|Unibet (NL)|Draw",
-    "3f6c83a8118b5443871a7eb83e1fa183:h2h|Unibet (NL)|FSV Mainz 05",
-    "3f6c83a8118b5443871a7eb83e1fa183:h2h|Unibet (SE)|Draw",
-    "3f6c83a8118b5443871a7eb83e1fa183:h2h|Unibet (SE)|FSV Mainz 05",
-    "3f6c83a8118b5443871a7eb83e1fa183:h2h|William Hill|Draw",
-    "3f6c83a8118b5443871a7eb83e1fa183:h2h|William Hill|FSV Mainz 05",
-    "511f714403615d006239801523f6ae0a:h2h|Betfair|Orléans",
-    "511f714403615d006239801523f6ae0a:h2h|LeoVegas (SE)|Orléans",
-    "511f714403615d006239801523f6ae0a:h2h|Unibet (NL)|Orléans",
-    "511f714403615d006239801523f6ae0a:h2h|Unibet (SE)|Orléans",
-    "cc1ca0aea8a9aa6ad2e1537834fe0d04:h2h|Betfair|Kazakhstan"
-  ]
+  "value_alerted": []
 }
