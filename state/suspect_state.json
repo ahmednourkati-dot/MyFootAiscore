@@ -1,206 +1,221 @@
 {
   "snapshots": {
-    "c25477408b57267248b491fa5eab2572:h2h": {
-      "PMU (FR)": {
-        "Armenia": 6.75,
-        "Cyprus": 1.44,
-        "Draw": 3.2
-      },
-      "Betfair": {
-        "Armenia": 7.0,
-        "Cyprus": 1.63,
-        "Draw": 3.9
-      },
-      "Winamax (FR)": {
-        "Armenia": 6.25,
-        "Cyprus": 1.46,
-        "Draw": 2.95
-      },
-      "Unibet (SE)": {
-        "Armenia": 7.0,
-        "Cyprus": 1.51,
-        "Draw": 3.3
-      },
-      "Winamax (DE)": {
-        "Armenia": 6.5,
-        "Cyprus": 1.5,
-        "Draw": 3.1
-      },
-      "LeoVegas (SE)": {
-        "Armenia": 7.0,
-        "Cyprus": 1.51,
-        "Draw": 3.3
+    "a80b8039c1be1afcae279ca9207cf49c:h2h": {
+      "Pinnacle": {
+        "Athletic Club (MG)": 5.18,
+        "São Bernardo": 7.83,
+        "Draw": 1.3
       },
       "Nordic Bet": {
-        "Armenia": 7.2,
-        "Cyprus": 1.52,
-        "Draw": 3.3
+        "Athletic Club (MG)": 11.5,
+        "São Bernardo": 16.0,
+        "Draw": 1.05
+      },
+      "Tipico": {
+        "Athletic Club (MG)": 20.0,
+        "São Bernardo": 30.0,
+        "Draw": 1.02
       },
       "Betsson": {
-        "Armenia": 6.8,
-        "Cyprus": 1.55,
-        "Draw": 3.3
-      },
-      "Betclic (FR)": {
-        "Armenia": 6.25,
-        "Cyprus": 1.43,
-        "Draw": 3.15
+        "Athletic Club (MG)": 10.5,
+        "São Bernardo": 14.0,
+        "Draw": 1.07
       },
       "888sport": {
-        "Armenia": 6.0,
-        "Cyprus": 1.53,
-        "Draw": 3.6
-      },
-      "MyBookie.ag": {
-        "Armenia": 6.25,
-        "Cyprus": 1.5,
-        "Draw": 3.5
-      },
-      "Marathon Bet": {
-        "Armenia": 6.95,
-        "Cyprus": 1.57,
-        "Draw": 3.64
-      },
-      "Pinnacle": {
-        "Armenia": 6.78,
-        "Cyprus": 1.54,
-        "Draw": 3.72
-      }
-    },
-    "d598d5e914a905ef70b01fd1b444aecb:h2h": {
-      "Nordic Bet": {
-        "Belgium": 1.31,
-        "Turkey": 11.5,
-        "Draw": 4.4
-      },
-      "Betsson": {
-        "Belgium": 1.31,
-        "Turkey": 10.5,
-        "Draw": 4.4
-      },
-      "Betclic (FR)": {
-        "Belgium": 1.26,
-        "Turkey": 8.5,
-        "Draw": 3.85
-      },
-      "Winamax (FR)": {
-        "Belgium": 1.25,
-        "Turkey": 9.5,
-        "Draw": 3.85
-      },
-      "Winamax (DE)": {
-        "Belgium": 1.29,
-        "Turkey": 10.0,
-        "Draw": 4.0
-      },
-      "Betfair": {
-        "Belgium": 1.36,
-        "Turkey": 14.0,
-        "Draw": 5.0
-      },
-      "888sport": {
-        "Belgium": 1.3,
-        "Turkey": 10.0,
-        "Draw": 4.4
-      },
-      "Marathon Bet": {
-        "Belgium": 1.32,
-        "Turkey": 11.25,
-        "Draw": 4.8
-      },
-      "Pinnacle": {
-        "Belgium": 1.39,
-        "Turkey": 9.33,
-        "Draw": 4.34
-      },
-      "PMU (FR)": {
-        "Belgium": 1.22,
-        "Turkey": 10.5,
-        "Draw": 4.3
-      },
-      "Unibet (SE)": {
-        "Belgium": 1.3,
-        "Turkey": 11.5,
-        "Draw": 4.7
-      },
-      "LeoVegas (SE)": {
-        "Belgium": 1.27,
-        "Turkey": 11.0,
-        "Draw": 4.5
-      },
-      "Matchbook": {
-        "Belgium": 1.35,
-        "Turkey": 15.0,
-        "Draw": 5.0
-      },
-      "MyBookie.ag": {
-        "Belgium": 1.35,
-        "Turkey": 7.75,
-        "Draw": 4.4
-      }
-    },
-    "c9cc536dc7a65c792381e54b431b50ee:h2h": {
-      "Winamax (DE)": {
-        "Albacete": 1.03,
-        "CD Puertollano": 38.0,
-        "Draw": 12.0
-      },
-      "Unibet (SE)": {
-        "Albacete": 1.03,
-        "CD Puertollano": 41.0,
-        "Draw": 14.0
-      },
-      "LeoVegas (SE)": {
-        "Albacete": 1.01,
-        "CD Puertollano": 41.0,
-        "Draw": 14.0
-      }
-    },
-    "c3716b6adacbddc5e04bba2baba450aa:h2h": {
-      "Pinnacle": {
-        "Arsenal": 13.09,
-        "Barcelona": 1.19,
-        "Draw": 6.87
-      },
-      "888sport": {
-        "Arsenal": 4.5,
-        "Barcelona": 1.5,
-        "Draw": 3.9
-      },
-      "Nordic Bet": {
-        "Arsenal": 11.0,
-        "Barcelona": 1.16,
-        "Draw": 6.0
-      },
-      "Unibet (FR)": {
-        "Arsenal": 4.3,
-        "Barcelona": 1.42,
-        "Draw": 3.6
-      },
-      "Betclic (FR)": {
-        "Arsenal": 4.8,
-        "Barcelona": 1.45,
-        "Draw": 4.1
-      },
-      "PMU (FR)": {
-        "Arsenal": 4.7,
-        "Barcelona": 1.32,
-        "Draw": 4.3
-      },
-      "Unibet (NL)": {
-        "Arsenal": 5.4,
-        "Barcelona": 1.44,
-        "Draw": 4.8
-      },
-      "Betfair": {
-        "Arsenal": 5.9,
-        "Barcelona": 1.53,
-        "Draw": 5.4
+        "Athletic Club (MG)": 4.4,
+        "São Bernardo": 7.5,
+        "Draw": 1.36
       },
       "Coolbet": {
-        "Arsenal": 5.0,
-        "Barcelona": 1.53,
-        "Draw": 4.33
+        "Athletic Club (MG)": 12.5,
+        "São Bernardo": 16.0,
+        "Draw": 1.06
+      },
+      "Betfair": {
+        "Athletic Club (MG)": 12.0,
+        "São Bernardo": 17.0,
+        "Draw": 1.14
+      },
+      "Unibet (SE)": {
+        "Athletic Club (MG)": 19.0,
+        "São Bernardo": 26.0,
+        "Draw": 1.02
+      },
+      "Unibet (NL)": {
+        "Athletic Club (MG)": 11.0,
+        "São Bernardo": 17.0,
+        "Draw": 1.02
+      },
+      "LeoVegas (SE)": {
+        "Athletic Club (MG)": 9.0,
+        "São Bernardo": 13.0,
+        "Draw": 1.03
+      }
+    },
+    "cc1ca0aea8a9aa6ad2e1537834fe0d04:h2h": {
+      "Winamax (FR)": {
+        "Kazakhstan": 2.65,
+        "Moldova": 2.5,
+        "Draw": 2.9
+      },
+      "Betfair": {
+        "Kazakhstan": 2.9,
+        "Moldova": 2.86,
+        "Draw": 3.15
+      },
+      "1xBet": {
+        "Kazakhstan": 2.91,
+        "Moldova": 2.75,
+        "Draw": 3.08
+      },
+      "Betsson": {
+        "Kazakhstan": 2.75,
+        "Moldova": 2.65,
+        "Draw": 2.92
+      },
+      "Nordic Bet": {
+        "Kazakhstan": 2.75,
+        "Moldova": 2.65,
+        "Draw": 2.92
+      },
+      "Unibet (SE)": {
+        "Kazakhstan": 2.75,
+        "Moldova": 2.85,
+        "Draw": 2.9
+      },
+      "LeoVegas (SE)": {
+        "Kazakhstan": 2.75,
+        "Moldova": 2.85,
+        "Draw": 2.9
+      },
+      "PMU (FR)": {
+        "Kazakhstan": 2.55,
+        "Moldova": 2.63,
+        "Draw": 2.7
+      },
+      "Betclic (FR)": {
+        "Kazakhstan": 2.75,
+        "Moldova": 2.48,
+        "Draw": 2.9
+      },
+      "888sport": {
+        "Kazakhstan": 2.8,
+        "Moldova": 2.62,
+        "Draw": 2.9
+      },
+      "William Hill": {
+        "Kazakhstan": 2.7,
+        "Moldova": 2.6,
+        "Draw": 2.8
+      },
+      "MyBookie.ag": {
+        "Kazakhstan": 2.8,
+        "Moldova": 2.61,
+        "Draw": 2.94
+      },
+      "Marathon Bet": {
+        "Kazakhstan": 2.88,
+        "Moldova": 2.72,
+        "Draw": 3.05
+      },
+      "BetAnything": {
+        "Kazakhstan": 2.81,
+        "Moldova": 2.63,
+        "Draw": 2.92
+      },
+      "Pinnacle": {
+        "Kazakhstan": 2.87,
+        "Moldova": 2.81,
+        "Draw": 2.97
+      }
+    },
+    "3f6c83a8118b5443871a7eb83e1fa183:h2h": {
+      "Unibet (NL)": {
+        "FSV Mainz 05": 4.6,
+        "Hamburger SV": 1.56,
+        "Draw": 3.8
+      },
+      "LeoVegas (SE)": {
+        "FSV Mainz 05": 4.6,
+        "Hamburger SV": 1.56,
+        "Draw": 3.8
+      },
+      "Unibet (SE)": {
+        "FSV Mainz 05": 4.6,
+        "Hamburger SV": 1.56,
+        "Draw": 3.8
+      },
+      "888sport": {
+        "FSV Mainz 05": 4.0,
+        "Hamburger SV": 1.67,
+        "Draw": 3.6
+      },
+      "William Hill": {
+        "FSV Mainz 05": 4.0,
+        "Hamburger SV": 1.67,
+        "Draw": 3.6
+      },
+      "Tipico": {
+        "FSV Mainz 05": 4.1,
+        "Hamburger SV": 1.6,
+        "Draw": 4.0
+      },
+      "Pinnacle": {
+        "FSV Mainz 05": 4.06,
+        "Hamburger SV": 1.69,
+        "Draw": 4.05
+      },
+      "1xBet": {
+        "FSV Mainz 05": 4.2,
+        "Hamburger SV": 1.61,
+        "Draw": 4.0
+      }
+    },
+    "511f714403615d006239801523f6ae0a:h2h": {
+      "Pinnacle": {
+        "Dijon": 1.52,
+        "Orléans": 5.15,
+        "Draw": 4.28
+      },
+      "Unibet (SE)": {
+        "Dijon": 1.51,
+        "Orléans": 5.3,
+        "Draw": 4.2
+      },
+      "Betfair": {
+        "Dijon": 1.53,
+        "Orléans": 6.0,
+        "Draw": 4.4
+      },
+      "LeoVegas (SE)": {
+        "Dijon": 1.51,
+        "Orléans": 5.3,
+        "Draw": 4.2
+      },
+      "888sport": {
+        "Dijon": 1.5,
+        "Orléans": 5.0,
+        "Draw": 4.0
+      },
+      "William Hill": {
+        "Dijon": 1.5,
+        "Orléans": 5.0,
+        "Draw": 4.0
+      },
+      "Unibet (NL)": {
+        "Dijon": 1.51,
+        "Orléans": 5.3,
+        "Draw": 4.2
+      },
+      "Winamax (DE)": {
+        "Dijon": 1.48,
+        "Orléans": 4.9,
+        "Draw": 4.5
+      },
+      "Codere (IT)": {
+        "Dijon": 1.52,
+        "Orléans": 5.4,
+        "Draw": 4.4
       }
     }
   },
@@ -5485,28 +5500,298 @@
       "confidence": 21,
       "alert_type": "value",
       "alerted_at": "2026-11-12T18:12:09.167098+00:00"
+    },
+    {
+      "state_key": "a80b8039c1be1afcae279ca9207cf49c:h2h",
+      "event_id": "a80b8039c1be1afcae279ca9207cf49c",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "São Bernardo",
+      "away_team": "Athletic Club (MG)",
+      "commence_time": "2026-11-12T23:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Athletic Club (MG)",
+      "odds_at_alert": 11.5,
+      "stake_pct": 5.0,
+      "confidence": 104,
+      "alert_type": "value",
+      "alerted_at": "2026-11-13T01:01:07.436409+00:00"
+    },
+    {
+      "state_key": "a80b8039c1be1afcae279ca9207cf49c:h2h",
+      "event_id": "a80b8039c1be1afcae279ca9207cf49c",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "São Bernardo",
+      "away_team": "Athletic Club (MG)",
+      "commence_time": "2026-11-12T23:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "São Bernardo",
+      "odds_at_alert": 16.0,
+      "stake_pct": 5.0,
+      "confidence": 87,
+      "alert_type": "value",
+      "alerted_at": "2026-11-13T01:01:07.873351+00:00"
+    },
+    {
+      "state_key": "a80b8039c1be1afcae279ca9207cf49c:h2h",
+      "event_id": "a80b8039c1be1afcae279ca9207cf49c",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "São Bernardo",
+      "away_team": "Athletic Club (MG)",
+      "commence_time": "2026-11-12T23:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Athletic Club (MG)",
+      "odds_at_alert": 20.0,
+      "stake_pct": 5.0,
+      "confidence": 254,
+      "alert_type": "value",
+      "alerted_at": "2026-11-13T01:01:08.300079+00:00"
+    },
+    {
+      "state_key": "a80b8039c1be1afcae279ca9207cf49c:h2h",
+      "event_id": "a80b8039c1be1afcae279ca9207cf49c",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "São Bernardo",
+      "away_team": "Athletic Club (MG)",
+      "commence_time": "2026-11-12T23:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "São Bernardo",
+      "odds_at_alert": 30.0,
+      "stake_pct": 5.0,
+      "confidence": 252,
+      "alert_type": "value",
+      "alerted_at": "2026-11-13T01:01:08.755764+00:00"
+    },
+    {
+      "state_key": "a80b8039c1be1afcae279ca9207cf49c:h2h",
+      "event_id": "a80b8039c1be1afcae279ca9207cf49c",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "São Bernardo",
+      "away_team": "Athletic Club (MG)",
+      "commence_time": "2026-11-12T23:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Athletic Club (MG)",
+      "odds_at_alert": 10.5,
+      "stake_pct": 5.0,
+      "confidence": 86,
+      "alert_type": "value",
+      "alerted_at": "2026-11-13T01:01:09.179670+00:00"
+    },
+    {
+      "state_key": "a80b8039c1be1afcae279ca9207cf49c:h2h",
+      "event_id": "a80b8039c1be1afcae279ca9207cf49c",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "São Bernardo",
+      "away_team": "Athletic Club (MG)",
+      "commence_time": "2026-11-12T23:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "São Bernardo",
+      "odds_at_alert": 14.0,
+      "stake_pct": 5.0,
+      "confidence": 64,
+      "alert_type": "value",
+      "alerted_at": "2026-11-13T01:01:09.617209+00:00"
+    },
+    {
+      "state_key": "a80b8039c1be1afcae279ca9207cf49c:h2h",
+      "event_id": "a80b8039c1be1afcae279ca9207cf49c",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "São Bernardo",
+      "away_team": "Athletic Club (MG)",
+      "commence_time": "2026-11-12T23:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Athletic Club (MG)",
+      "odds_at_alert": 12.5,
+      "stake_pct": 5.0,
+      "confidence": 121,
+      "alert_type": "value",
+      "alerted_at": "2026-11-13T01:01:10.066268+00:00"
+    },
+    {
+      "state_key": "a80b8039c1be1afcae279ca9207cf49c:h2h",
+      "event_id": "a80b8039c1be1afcae279ca9207cf49c",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "São Bernardo",
+      "away_team": "Athletic Club (MG)",
+      "commence_time": "2026-11-12T23:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "São Bernardo",
+      "odds_at_alert": 16.0,
+      "stake_pct": 5.0,
+      "confidence": 87,
+      "alert_type": "value",
+      "alerted_at": "2026-11-13T01:01:10.524466+00:00"
+    },
+    {
+      "state_key": "a80b8039c1be1afcae279ca9207cf49c:h2h",
+      "event_id": "a80b8039c1be1afcae279ca9207cf49c",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "São Bernardo",
+      "away_team": "Athletic Club (MG)",
+      "commence_time": "2026-11-12T23:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Athletic Club (MG)",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 113,
+      "alert_type": "value",
+      "alerted_at": "2026-11-13T01:01:10.963579+00:00"
+    },
+    {
+      "state_key": "a80b8039c1be1afcae279ca9207cf49c:h2h",
+      "event_id": "a80b8039c1be1afcae279ca9207cf49c",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "São Bernardo",
+      "away_team": "Athletic Club (MG)",
+      "commence_time": "2026-11-12T23:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "São Bernardo",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 99,
+      "alert_type": "value",
+      "alerted_at": "2026-11-13T01:01:11.402401+00:00"
+    },
+    {
+      "state_key": "a80b8039c1be1afcae279ca9207cf49c:h2h",
+      "event_id": "a80b8039c1be1afcae279ca9207cf49c",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "São Bernardo",
+      "away_team": "Athletic Club (MG)",
+      "commence_time": "2026-11-12T23:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Athletic Club (MG)",
+      "odds_at_alert": 19.0,
+      "stake_pct": 5.0,
+      "confidence": 237,
+      "alert_type": "value",
+      "alerted_at": "2026-11-13T01:01:11.827515+00:00"
+    },
+    {
+      "state_key": "a80b8039c1be1afcae279ca9207cf49c:h2h",
+      "event_id": "a80b8039c1be1afcae279ca9207cf49c",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "São Bernardo",
+      "away_team": "Athletic Club (MG)",
+      "commence_time": "2026-11-12T23:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "São Bernardo",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 205,
+      "alert_type": "value",
+      "alerted_at": "2026-11-13T01:01:12.286844+00:00"
+    },
+    {
+      "state_key": "a80b8039c1be1afcae279ca9207cf49c:h2h",
+      "event_id": "a80b8039c1be1afcae279ca9207cf49c",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "São Bernardo",
+      "away_team": "Athletic Club (MG)",
+      "commence_time": "2026-11-12T23:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Athletic Club (MG)",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 95,
+      "alert_type": "value",
+      "alerted_at": "2026-11-13T01:01:12.721865+00:00"
+    },
+    {
+      "state_key": "a80b8039c1be1afcae279ca9207cf49c:h2h",
+      "event_id": "a80b8039c1be1afcae279ca9207cf49c",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "São Bernardo",
+      "away_team": "Athletic Club (MG)",
+      "commence_time": "2026-11-12T23:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "São Bernardo",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 99,
+      "alert_type": "value",
+      "alerted_at": "2026-11-13T01:01:13.145562+00:00"
+    },
+    {
+      "state_key": "a80b8039c1be1afcae279ca9207cf49c:h2h",
+      "event_id": "a80b8039c1be1afcae279ca9207cf49c",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "São Bernardo",
+      "away_team": "Athletic Club (MG)",
+      "commence_time": "2026-11-12T23:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Athletic Club (MG)",
+      "odds_at_alert": 9.0,
+      "stake_pct": 5.0,
+      "confidence": 59,
+      "alert_type": "value",
+      "alerted_at": "2026-11-13T01:01:13.571347+00:00"
+    },
+    {
+      "state_key": "a80b8039c1be1afcae279ca9207cf49c:h2h",
+      "event_id": "a80b8039c1be1afcae279ca9207cf49c",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "São Bernardo",
+      "away_team": "Athletic Club (MG)",
+      "commence_time": "2026-11-12T23:01:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "São Bernardo",
+      "odds_at_alert": 13.0,
+      "stake_pct": 5.0,
+      "confidence": 52,
+      "alert_type": "value",
+      "alerted_at": "2026-11-13T01:01:14.020635+00:00"
+    },
+    {
+      "state_key": "511f714403615d006239801523f6ae0a:h2h",
+      "event_id": "511f714403615d006239801523f6ae0a",
+      "sport_key": "soccer",
+      "competition": "Coupe de France",
+      "home_team": "Dijon",
+      "away_team": "Orléans",
+      "commence_time": "2026-11-13T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Orléans",
+      "odds_at_alert": 6.0,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-11-13T01:01:14.453909+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "c3716b6adacbddc5e04bba2baba450aa:h2h|888sport|Barcelona",
-    "c3716b6adacbddc5e04bba2baba450aa:h2h|Betclic (FR)|Barcelona",
-    "c3716b6adacbddc5e04bba2baba450aa:h2h|Betfair|Arsenal",
-    "c3716b6adacbddc5e04bba2baba450aa:h2h|Betfair|Barcelona",
-    "c3716b6adacbddc5e04bba2baba450aa:h2h|Betfair|Draw",
-    "c3716b6adacbddc5e04bba2baba450aa:h2h|Coolbet|Barcelona",
-    "c3716b6adacbddc5e04bba2baba450aa:h2h|Unibet (FR)|Barcelona",
-    "c3716b6adacbddc5e04bba2baba450aa:h2h|Unibet (NL)|Arsenal",
-    "c3716b6adacbddc5e04bba2baba450aa:h2h|Unibet (NL)|Barcelona",
-    "d598d5e914a905ef70b01fd1b444aecb:h2h|Betfair|Draw",
-    "d598d5e914a905ef70b01fd1b444aecb:h2h|Betfair|Turkey",
-    "d598d5e914a905ef70b01fd1b444aecb:h2h|Betsson|Turkey",
-    "d598d5e914a905ef70b01fd1b444aecb:h2h|LeoVegas (SE)|Turkey",
-    "d598d5e914a905ef70b01fd1b444aecb:h2h|Marathon Bet|Turkey",
-    "d598d5e914a905ef70b01fd1b444aecb:h2h|Matchbook|Draw",
-    "d598d5e914a905ef70b01fd1b444aecb:h2h|Matchbook|Turkey",
-    "d598d5e914a905ef70b01fd1b444aecb:h2h|Nordic Bet|Turkey",
-    "d598d5e914a905ef70b01fd1b444aecb:h2h|PMU (FR)|Turkey",
-    "d598d5e914a905ef70b01fd1b444aecb:h2h|Unibet (SE)|Turkey"
+    "511f714403615d006239801523f6ae0a:h2h|Betfair|Orléans",
+    "a80b8039c1be1afcae279ca9207cf49c:h2h|Betfair|Athletic Club (MG)",
+    "a80b8039c1be1afcae279ca9207cf49c:h2h|Betfair|São Bernardo",
+    "a80b8039c1be1afcae279ca9207cf49c:h2h|Betsson|Athletic Club (MG)",
+    "a80b8039c1be1afcae279ca9207cf49c:h2h|Betsson|São Bernardo",
+    "a80b8039c1be1afcae279ca9207cf49c:h2h|Coolbet|Athletic Club (MG)",
+    "a80b8039c1be1afcae279ca9207cf49c:h2h|Coolbet|São Bernardo",
+    "a80b8039c1be1afcae279ca9207cf49c:h2h|LeoVegas (SE)|Athletic Club (MG)",
+    "a80b8039c1be1afcae279ca9207cf49c:h2h|LeoVegas (SE)|São Bernardo",
+    "a80b8039c1be1afcae279ca9207cf49c:h2h|Nordic Bet|Athletic Club (MG)",
+    "a80b8039c1be1afcae279ca9207cf49c:h2h|Nordic Bet|São Bernardo",
+    "a80b8039c1be1afcae279ca9207cf49c:h2h|Tipico|Athletic Club (MG)",
+    "a80b8039c1be1afcae279ca9207cf49c:h2h|Tipico|São Bernardo",
+    "a80b8039c1be1afcae279ca9207cf49c:h2h|Unibet (NL)|Athletic Club (MG)",
+    "a80b8039c1be1afcae279ca9207cf49c:h2h|Unibet (NL)|São Bernardo",
+    "a80b8039c1be1afcae279ca9207cf49c:h2h|Unibet (SE)|Athletic Club (MG)",
+    "a80b8039c1be1afcae279ca9207cf49c:h2h|Unibet (SE)|São Bernardo"
   ]
 }
