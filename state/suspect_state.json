@@ -2,128 +2,113 @@
   "snapshots": {
     "cc1ca0aea8a9aa6ad2e1537834fe0d04:h2h": {
       "Winamax (FR)": {
-        "Kazakhstan": 2.7,
-        "Moldova": 2.5,
-        "Draw": 2.9
+        "Kazakhstan": 2.85,
+        "Moldova": 2.25,
+        "Draw": 2.25
       },
       "Betfair": {
-        "Kazakhstan": 3.05,
-        "Moldova": 2.76,
-        "Draw": 3.15
-      },
-      "1xBet": {
-        "Kazakhstan": 2.96,
-        "Moldova": 2.76,
-        "Draw": 3.02
+        "Kazakhstan": 3.95,
+        "Moldova": 2.64,
+        "Draw": 2.7
       },
       "Betsson": {
-        "Kazakhstan": 2.85,
-        "Moldova": 2.55,
-        "Draw": 2.92
+        "Kazakhstan": 3.2,
+        "Moldova": 2.6,
+        "Draw": 2.5
       },
       "Nordic Bet": {
-        "Kazakhstan": 2.85,
-        "Moldova": 2.55,
-        "Draw": 2.92
+        "Kazakhstan": 3.2,
+        "Moldova": 2.6,
+        "Draw": 2.5
       },
       "Unibet (SE)": {
-        "Kazakhstan": 2.75,
-        "Moldova": 2.85,
-        "Draw": 2.88
+        "Kazakhstan": 3.35,
+        "Moldova": 2.43,
+        "Draw": 2.45
       },
       "LeoVegas (SE)": {
-        "Kazakhstan": 2.75,
-        "Moldova": 2.85,
-        "Draw": 2.88
+        "Kazakhstan": 3.4,
+        "Moldova": 2.38,
+        "Draw": 2.48
       },
       "PMU (FR)": {
-        "Kazakhstan": 2.55,
-        "Moldova": 2.65,
-        "Draw": 2.65
+        "Kazakhstan": 3.25,
+        "Moldova": 2.35,
+        "Draw": 2.38
       },
       "Betclic (FR)": {
-        "Kazakhstan": 2.8,
-        "Moldova": 2.52,
-        "Draw": 2.88
+        "Kazakhstan": 3.0,
+        "Moldova": 2.35,
+        "Draw": 2.35
       },
       "888sport": {
-        "Kazakhstan": 2.8,
-        "Moldova": 2.62,
-        "Draw": 2.9
-      },
-      "William Hill": {
-        "Kazakhstan": 2.75,
-        "Moldova": 2.6,
-        "Draw": 2.8
+        "Kazakhstan": 3.3,
+        "Moldova": 2.5,
+        "Draw": 2.5
       },
       "MyBookie.ag": {
-        "Kazakhstan": 2.82,
-        "Moldova": 2.63,
-        "Draw": 2.9
+        "Kazakhstan": 3.15,
+        "Moldova": 2.55,
+        "Draw": 2.6
       },
       "Marathon Bet": {
-        "Kazakhstan": 2.93,
-        "Moldova": 2.73,
-        "Draw": 2.98
-      },
-      "BetAnything": {
-        "Kazakhstan": 2.88,
-        "Moldova": 2.58,
-        "Draw": 2.9
+        "Kazakhstan": 3.25,
+        "Moldova": 2.68,
+        "Draw": 2.67
       },
       "Pinnacle": {
-        "Kazakhstan": 2.99,
-        "Moldova": 2.71,
-        "Draw": 3.01
+        "Kazakhstan": 3.44,
+        "Moldova": 2.72,
+        "Draw": 2.45
       }
     },
     "3f6c83a8118b5443871a7eb83e1fa183:h2h": {
       "Unibet (NL)": {
-        "FSV Mainz 05": 4.6,
-        "Hamburger SV": 1.56,
-        "Draw": 3.8
+        "FSV Mainz 05": 9.0,
+        "Hamburger SV": 1.22,
+        "Draw": 5.75
       },
       "LeoVegas (SE)": {
-        "FSV Mainz 05": 4.6,
-        "Hamburger SV": 1.56,
-        "Draw": 3.8
+        "FSV Mainz 05": 8.5,
+        "Hamburger SV": 1.18,
+        "Draw": 5.6
       },
       "Unibet (SE)": {
-        "FSV Mainz 05": 4.6,
-        "Hamburger SV": 1.56,
-        "Draw": 3.8
+        "FSV Mainz 05": 9.0,
+        "Hamburger SV": 1.22,
+        "Draw": 5.75
       },
       "888sport": {
-        "FSV Mainz 05": 4.0,
-        "Hamburger SV": 1.67,
-        "Draw": 3.6
+        "FSV Mainz 05": 8.5,
+        "Hamburger SV": 1.2,
+        "Draw": 5.5
       },
       "William Hill": {
-        "FSV Mainz 05": 4.0,
-        "Hamburger SV": 1.67,
-        "Draw": 3.6
+        "FSV Mainz 05": 8.5,
+        "Hamburger SV": 1.2,
+        "Draw": 5.5
       },
       "Tipico": {
-        "FSV Mainz 05": 4.2,
-        "Hamburger SV": 1.6,
-        "Draw": 3.9
+        "FSV Mainz 05": 11.0,
+        "Hamburger SV": 1.15,
+        "Draw": 7.0
       },
       "Pinnacle": {
-        "FSV Mainz 05": 4.06,
-        "Hamburger SV": 1.69,
-        "Draw": 4.05
+        "FSV Mainz 05": 4.68,
+        "Hamburger SV": 1.57,
+        "Draw": 4.56
       },
       "1xBet": {
-        "FSV Mainz 05": 4.2,
+        "FSV Mainz 05": 4.54,
         "Hamburger SV": 1.61,
-        "Draw": 4.0
+        "Draw": 4.4
       }
     },
     "511f714403615d006239801523f6ae0a:h2h": {
       "Pinnacle": {
-        "Dijon": 1.49,
-        "Orléans": 5.32,
-        "Draw": 4.41
+        "Dijon": 1.65,
+        "Orléans": 4.51,
+        "Draw": 4.11
       },
       "Unibet (SE)": {
         "Dijon": 1.51,
@@ -131,9 +116,9 @@
         "Draw": 4.2
       },
       "Betfair": {
-        "Dijon": 1.54,
-        "Orléans": 6.2,
-        "Draw": 4.6
+        "Dijon": 1.69,
+        "Orléans": 5.0,
+        "Draw": 4.3
       },
       "LeoVegas (SE)": {
         "Dijon": 1.51,
@@ -141,14 +126,14 @@
         "Draw": 4.2
       },
       "888sport": {
-        "Dijon": 1.5,
-        "Orléans": 5.5,
-        "Draw": 4.2
+        "Dijon": 1.65,
+        "Orléans": 4.4,
+        "Draw": 3.9
       },
       "William Hill": {
-        "Dijon": 1.5,
-        "Orléans": 5.5,
-        "Draw": 4.2
+        "Dijon": 1.65,
+        "Orléans": 4.4,
+        "Draw": 3.9
       },
       "Unibet (NL)": {
         "Dijon": 1.51,
@@ -156,121 +141,26 @@
         "Draw": 4.2
       },
       "Winamax (DE)": {
-        "Dijon": 1.47,
-        "Orléans": 5.2,
-        "Draw": 4.5
+        "Dijon": 1.62,
+        "Orléans": 4.2,
+        "Draw": 4.1
       },
       "Codere (IT)": {
-        "Dijon": 1.51,
-        "Orléans": 5.6,
-        "Draw": 4.4
+        "Dijon": 1.67,
+        "Orléans": 4.5,
+        "Draw": 4.0
       }
     },
-    "fed29050dc7e99c7dd6b3b4580f142b7:h2h": {
-      "Unibet (NL)": {
-        "Burgos CF": 3.05,
-        "Leganés": 2.35,
-        "Draw": 3.2
-      },
-      "PMU (FR)": {
-        "Burgos CF": 2.8,
-        "Leganés": 2.15,
-        "Draw": 2.9
+    "4ef748da4ec5cf634d2c27ba8a406fe0:h2h": {
+      "LeoVegas (SE)": {
+        "FCF La Neuvillette-Jamin": 3.25,
+        "Valenciennes": 2.18,
+        "Draw": 3.1
       },
       "Unibet (SE)": {
-        "Burgos CF": 3.05,
-        "Leganés": 2.35,
-        "Draw": 3.2
-      },
-      "LeoVegas (SE)": {
-        "Burgos CF": 2.9,
-        "Leganés": 2.23,
-        "Draw": 3.0
-      },
-      "Unibet (FR)": {
-        "Burgos CF": 2.65,
-        "Leganés": 2.1,
-        "Draw": 2.8
-      },
-      "Betclic (FR)": {
-        "Burgos CF": 2.82,
-        "Leganés": 2.25,
-        "Draw": 2.95
-      },
-      "Nordic Bet": {
-        "Burgos CF": 2.9,
-        "Leganés": 2.42,
-        "Draw": 3.0
-      },
-      "Betsson": {
-        "Burgos CF": 2.9,
-        "Leganés": 2.42,
-        "Draw": 3.0
-      },
-      "1xBet": {
-        "Burgos CF": 3.18,
-        "Leganés": 2.4,
-        "Draw": 3.23
-      },
-      "Winamax (FR)": {
-        "Burgos CF": 2.7,
-        "Leganés": 2.25,
-        "Draw": 2.95
-      },
-      "Winamax (DE)": {
-        "Burgos CF": 2.85,
-        "Leganés": 2.35,
+        "FCF La Neuvillette-Jamin": 3.25,
+        "Valenciennes": 2.18,
         "Draw": 3.1
-      },
-      "BetOnline.ag": {
-        "Burgos CF": 3.05,
-        "Leganés": 2.46,
-        "Draw": 3.05
-      },
-      "Pinnacle": {
-        "Burgos CF": 3.17,
-        "Leganés": 2.49,
-        "Draw": 3.19
-      },
-      "Marathon Bet": {
-        "Burgos CF": 3.08,
-        "Leganés": 2.32,
-        "Draw": 3.12
-      },
-      "William Hill": {
-        "Burgos CF": 3.0,
-        "Leganés": 2.3,
-        "Draw": 2.9
-      },
-      "Coolbet": {
-        "Burgos CF": 3.1,
-        "Leganés": 2.4,
-        "Draw": 3.25
-      },
-      "Betfair": {
-        "Burgos CF": 3.3,
-        "Leganés": 2.5,
-        "Draw": 3.25
-      },
-      "Tipico": {
-        "Burgos CF": 2.7,
-        "Leganés": 2.4,
-        "Draw": 3.1
-      },
-      "Codere (IT)": {
-        "Burgos CF": 2.85,
-        "Leganés": 2.39,
-        "Draw": 3.0
-      },
-      "Matchbook": {
-        "Burgos CF": 3.3,
-        "Leganés": 2.5,
-        "Draw": 3.25
-      },
-      "BetAnything": {
-        "Burgos CF": 3.05,
-        "Leganés": 2.46,
-        "Draw": 3.05
       }
     }
   },
@@ -3203,10 +3093,282 @@
       "confidence": 7,
       "alert_type": "value",
       "alerted_at": "2026-11-13T01:01:14.453909+00:00"
+    },
+    {
+      "state_key": "cc1ca0aea8a9aa6ad2e1537834fe0d04:h2h",
+      "event_id": "cc1ca0aea8a9aa6ad2e1537834fe0d04",
+      "sport_key": "soccer",
+      "competition": "UEFA Nations League",
+      "home_team": "Moldova",
+      "away_team": "Kazakhstan",
+      "commence_time": "2026-11-13T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Kazakhstan",
+      "odds_at_alert": 3.95,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-11-13T17:39:38.415891+00:00"
+    },
+    {
+      "state_key": "3f6c83a8118b5443871a7eb83e1fa183:h2h",
+      "event_id": "3f6c83a8118b5443871a7eb83e1fa183",
+      "sport_key": "soccer",
+      "competition": "Frauen-Bundesliga",
+      "home_team": "Hamburger SV",
+      "away_team": "FSV Mainz 05",
+      "commence_time": "2026-11-13T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FSV Mainz 05",
+      "odds_at_alert": 9.0,
+      "stake_pct": 5.0,
+      "confidence": 80,
+      "alert_type": "value",
+      "alerted_at": "2026-11-13T17:39:38.717623+00:00"
+    },
+    {
+      "state_key": "3f6c83a8118b5443871a7eb83e1fa183:h2h",
+      "event_id": "3f6c83a8118b5443871a7eb83e1fa183",
+      "sport_key": "soccer",
+      "competition": "Frauen-Bundesliga",
+      "home_team": "Hamburger SV",
+      "away_team": "FSV Mainz 05",
+      "commence_time": "2026-11-13T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.75,
+      "stake_pct": 5.0,
+      "confidence": 18,
+      "alert_type": "value",
+      "alerted_at": "2026-11-13T17:39:39.021387+00:00"
+    },
+    {
+      "state_key": "3f6c83a8118b5443871a7eb83e1fa183:h2h",
+      "event_id": "3f6c83a8118b5443871a7eb83e1fa183",
+      "sport_key": "soccer",
+      "competition": "Frauen-Bundesliga",
+      "home_team": "Hamburger SV",
+      "away_team": "FSV Mainz 05",
+      "commence_time": "2026-11-13T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FSV Mainz 05",
+      "odds_at_alert": 8.5,
+      "stake_pct": 5.0,
+      "confidence": 70,
+      "alert_type": "value",
+      "alerted_at": "2026-11-13T17:39:39.316746+00:00"
+    },
+    {
+      "state_key": "3f6c83a8118b5443871a7eb83e1fa183:h2h",
+      "event_id": "3f6c83a8118b5443871a7eb83e1fa183",
+      "sport_key": "soccer",
+      "competition": "Frauen-Bundesliga",
+      "home_team": "Hamburger SV",
+      "away_team": "FSV Mainz 05",
+      "commence_time": "2026-11-13T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.6,
+      "stake_pct": 3.0,
+      "confidence": 15,
+      "alert_type": "value",
+      "alerted_at": "2026-11-13T17:39:39.673571+00:00"
+    },
+    {
+      "state_key": "3f6c83a8118b5443871a7eb83e1fa183:h2h",
+      "event_id": "3f6c83a8118b5443871a7eb83e1fa183",
+      "sport_key": "soccer",
+      "competition": "Frauen-Bundesliga",
+      "home_team": "Hamburger SV",
+      "away_team": "FSV Mainz 05",
+      "commence_time": "2026-11-13T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FSV Mainz 05",
+      "odds_at_alert": 9.0,
+      "stake_pct": 5.0,
+      "confidence": 80,
+      "alert_type": "value",
+      "alerted_at": "2026-11-13T17:39:40.012577+00:00"
+    },
+    {
+      "state_key": "3f6c83a8118b5443871a7eb83e1fa183:h2h",
+      "event_id": "3f6c83a8118b5443871a7eb83e1fa183",
+      "sport_key": "soccer",
+      "competition": "Frauen-Bundesliga",
+      "home_team": "Hamburger SV",
+      "away_team": "FSV Mainz 05",
+      "commence_time": "2026-11-13T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.75,
+      "stake_pct": 5.0,
+      "confidence": 18,
+      "alert_type": "value",
+      "alerted_at": "2026-11-13T17:39:40.341640+00:00"
+    },
+    {
+      "state_key": "3f6c83a8118b5443871a7eb83e1fa183:h2h",
+      "event_id": "3f6c83a8118b5443871a7eb83e1fa183",
+      "sport_key": "soccer",
+      "competition": "Frauen-Bundesliga",
+      "home_team": "Hamburger SV",
+      "away_team": "FSV Mainz 05",
+      "commence_time": "2026-11-13T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FSV Mainz 05",
+      "odds_at_alert": 8.5,
+      "stake_pct": 5.0,
+      "confidence": 70,
+      "alert_type": "value",
+      "alerted_at": "2026-11-13T17:39:40.654643+00:00"
+    },
+    {
+      "state_key": "3f6c83a8118b5443871a7eb83e1fa183:h2h",
+      "event_id": "3f6c83a8118b5443871a7eb83e1fa183",
+      "sport_key": "soccer",
+      "competition": "Frauen-Bundesliga",
+      "home_team": "Hamburger SV",
+      "away_team": "FSV Mainz 05",
+      "commence_time": "2026-11-13T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.5,
+      "stake_pct": 3.0,
+      "confidence": 13,
+      "alert_type": "value",
+      "alerted_at": "2026-11-13T17:39:40.955965+00:00"
+    },
+    {
+      "state_key": "3f6c83a8118b5443871a7eb83e1fa183:h2h",
+      "event_id": "3f6c83a8118b5443871a7eb83e1fa183",
+      "sport_key": "soccer",
+      "competition": "Frauen-Bundesliga",
+      "home_team": "Hamburger SV",
+      "away_team": "FSV Mainz 05",
+      "commence_time": "2026-11-13T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FSV Mainz 05",
+      "odds_at_alert": 8.5,
+      "stake_pct": 5.0,
+      "confidence": 70,
+      "alert_type": "value",
+      "alerted_at": "2026-11-13T17:39:41.373298+00:00"
+    },
+    {
+      "state_key": "3f6c83a8118b5443871a7eb83e1fa183:h2h",
+      "event_id": "3f6c83a8118b5443871a7eb83e1fa183",
+      "sport_key": "soccer",
+      "competition": "Frauen-Bundesliga",
+      "home_team": "Hamburger SV",
+      "away_team": "FSV Mainz 05",
+      "commence_time": "2026-11-13T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.5,
+      "stake_pct": 3.0,
+      "confidence": 13,
+      "alert_type": "value",
+      "alerted_at": "2026-11-13T17:39:41.690376+00:00"
+    },
+    {
+      "state_key": "3f6c83a8118b5443871a7eb83e1fa183:h2h",
+      "event_id": "3f6c83a8118b5443871a7eb83e1fa183",
+      "sport_key": "soccer",
+      "competition": "Frauen-Bundesliga",
+      "home_team": "Hamburger SV",
+      "away_team": "FSV Mainz 05",
+      "commence_time": "2026-11-13T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "FSV Mainz 05",
+      "odds_at_alert": 11.0,
+      "stake_pct": 5.0,
+      "confidence": 120,
+      "alert_type": "value",
+      "alerted_at": "2026-11-13T17:39:42.007358+00:00"
+    },
+    {
+      "state_key": "3f6c83a8118b5443871a7eb83e1fa183:h2h",
+      "event_id": "3f6c83a8118b5443871a7eb83e1fa183",
+      "sport_key": "soccer",
+      "competition": "Frauen-Bundesliga",
+      "home_team": "Hamburger SV",
+      "away_team": "FSV Mainz 05",
+      "commence_time": "2026-11-13T17:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 7.0,
+      "stake_pct": 5.0,
+      "confidence": 43,
+      "alert_type": "value",
+      "alerted_at": "2026-11-13T17:39:42.361053+00:00"
+    },
+    {
+      "state_key": "511f714403615d006239801523f6ae0a:h2h",
+      "event_id": "511f714403615d006239801523f6ae0a",
+      "sport_key": "soccer",
+      "competition": "Coupe de France",
+      "home_team": "Dijon",
+      "away_team": "Orléans",
+      "commence_time": "2026-11-13T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Orléans",
+      "odds_at_alert": 5.3,
+      "stake_pct": 2.0,
+      "confidence": 10,
+      "alert_type": "value",
+      "alerted_at": "2026-11-13T17:39:42.726228+00:00"
+    },
+    {
+      "state_key": "511f714403615d006239801523f6ae0a:h2h",
+      "event_id": "511f714403615d006239801523f6ae0a",
+      "sport_key": "soccer",
+      "competition": "Coupe de France",
+      "home_team": "Dijon",
+      "away_team": "Orléans",
+      "commence_time": "2026-11-13T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Orléans",
+      "odds_at_alert": 5.3,
+      "stake_pct": 2.0,
+      "confidence": 10,
+      "alert_type": "value",
+      "alerted_at": "2026-11-13T17:39:43.165126+00:00"
+    },
+    {
+      "state_key": "511f714403615d006239801523f6ae0a:h2h",
+      "event_id": "511f714403615d006239801523f6ae0a",
+      "sport_key": "soccer",
+      "competition": "Coupe de France",
+      "home_team": "Dijon",
+      "away_team": "Orléans",
+      "commence_time": "2026-11-13T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Orléans",
+      "odds_at_alert": 5.3,
+      "stake_pct": 2.0,
+      "confidence": 10,
+      "alert_type": "value",
+      "alerted_at": "2026-11-13T17:39:43.560753+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "511f714403615d006239801523f6ae0a:h2h|Betfair|Orléans"
+    "3f6c83a8118b5443871a7eb83e1fa183:h2h|888sport|Draw",
+    "3f6c83a8118b5443871a7eb83e1fa183:h2h|888sport|FSV Mainz 05",
+    "3f6c83a8118b5443871a7eb83e1fa183:h2h|LeoVegas (SE)|Draw",
+    "3f6c83a8118b5443871a7eb83e1fa183:h2h|LeoVegas (SE)|FSV Mainz 05",
+    "3f6c83a8118b5443871a7eb83e1fa183:h2h|Tipico|Draw",
+    "3f6c83a8118b5443871a7eb83e1fa183:h2h|Tipico|FSV Mainz 05",
+    "3f6c83a8118b5443871a7eb83e1fa183:h2h|Unibet (NL)|Draw",
+    "3f6c83a8118b5443871a7eb83e1fa183:h2h|Unibet (NL)|FSV Mainz 05",
+    "3f6c83a8118b5443871a7eb83e1fa183:h2h|Unibet (SE)|Draw",
+    "3f6c83a8118b5443871a7eb83e1fa183:h2h|Unibet (SE)|FSV Mainz 05",
+    "3f6c83a8118b5443871a7eb83e1fa183:h2h|William Hill|Draw",
+    "3f6c83a8118b5443871a7eb83e1fa183:h2h|William Hill|FSV Mainz 05",
+    "511f714403615d006239801523f6ae0a:h2h|Betfair|Orléans",
+    "511f714403615d006239801523f6ae0a:h2h|LeoVegas (SE)|Orléans",
+    "511f714403615d006239801523f6ae0a:h2h|Unibet (NL)|Orléans",
+    "511f714403615d006239801523f6ae0a:h2h|Unibet (SE)|Orléans",
+    "cc1ca0aea8a9aa6ad2e1537834fe0d04:h2h|Betfair|Kazakhstan"
   ]
 }
