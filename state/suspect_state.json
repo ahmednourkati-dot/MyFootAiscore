@@ -1,102 +1,50 @@
 {
   "snapshots": {
-    "a80b8039c1be1afcae279ca9207cf49c:h2h": {
-      "Pinnacle": {
-        "Athletic Club (MG)": 5.18,
-        "São Bernardo": 7.83,
-        "Draw": 1.3
-      },
-      "Nordic Bet": {
-        "Athletic Club (MG)": 11.5,
-        "São Bernardo": 16.0,
-        "Draw": 1.05
-      },
-      "Tipico": {
-        "Athletic Club (MG)": 20.0,
-        "São Bernardo": 30.0,
-        "Draw": 1.02
-      },
-      "Betsson": {
-        "Athletic Club (MG)": 10.5,
-        "São Bernardo": 14.0,
-        "Draw": 1.07
-      },
-      "888sport": {
-        "Athletic Club (MG)": 4.4,
-        "São Bernardo": 7.5,
-        "Draw": 1.36
-      },
-      "Coolbet": {
-        "Athletic Club (MG)": 12.5,
-        "São Bernardo": 16.0,
-        "Draw": 1.06
-      },
-      "Betfair": {
-        "Athletic Club (MG)": 12.0,
-        "São Bernardo": 17.0,
-        "Draw": 1.14
-      },
-      "Unibet (SE)": {
-        "Athletic Club (MG)": 19.0,
-        "São Bernardo": 26.0,
-        "Draw": 1.02
-      },
-      "Unibet (NL)": {
-        "Athletic Club (MG)": 11.0,
-        "São Bernardo": 17.0,
-        "Draw": 1.02
-      },
-      "LeoVegas (SE)": {
-        "Athletic Club (MG)": 9.0,
-        "São Bernardo": 13.0,
-        "Draw": 1.03
-      }
-    },
     "cc1ca0aea8a9aa6ad2e1537834fe0d04:h2h": {
       "Winamax (FR)": {
-        "Kazakhstan": 2.65,
+        "Kazakhstan": 2.7,
         "Moldova": 2.5,
         "Draw": 2.9
       },
       "Betfair": {
-        "Kazakhstan": 2.9,
-        "Moldova": 2.86,
+        "Kazakhstan": 3.05,
+        "Moldova": 2.76,
         "Draw": 3.15
       },
       "1xBet": {
-        "Kazakhstan": 2.91,
-        "Moldova": 2.75,
-        "Draw": 3.08
+        "Kazakhstan": 2.96,
+        "Moldova": 2.76,
+        "Draw": 3.02
       },
       "Betsson": {
-        "Kazakhstan": 2.75,
-        "Moldova": 2.65,
+        "Kazakhstan": 2.85,
+        "Moldova": 2.55,
         "Draw": 2.92
       },
       "Nordic Bet": {
-        "Kazakhstan": 2.75,
-        "Moldova": 2.65,
+        "Kazakhstan": 2.85,
+        "Moldova": 2.55,
         "Draw": 2.92
       },
       "Unibet (SE)": {
         "Kazakhstan": 2.75,
         "Moldova": 2.85,
-        "Draw": 2.9
+        "Draw": 2.88
       },
       "LeoVegas (SE)": {
         "Kazakhstan": 2.75,
         "Moldova": 2.85,
-        "Draw": 2.9
+        "Draw": 2.88
       },
       "PMU (FR)": {
         "Kazakhstan": 2.55,
-        "Moldova": 2.63,
-        "Draw": 2.7
+        "Moldova": 2.65,
+        "Draw": 2.65
       },
       "Betclic (FR)": {
-        "Kazakhstan": 2.75,
-        "Moldova": 2.48,
-        "Draw": 2.9
+        "Kazakhstan": 2.8,
+        "Moldova": 2.52,
+        "Draw": 2.88
       },
       "888sport": {
         "Kazakhstan": 2.8,
@@ -104,29 +52,29 @@
         "Draw": 2.9
       },
       "William Hill": {
-        "Kazakhstan": 2.7,
+        "Kazakhstan": 2.75,
         "Moldova": 2.6,
         "Draw": 2.8
       },
       "MyBookie.ag": {
-        "Kazakhstan": 2.8,
-        "Moldova": 2.61,
-        "Draw": 2.94
+        "Kazakhstan": 2.82,
+        "Moldova": 2.63,
+        "Draw": 2.9
       },
       "Marathon Bet": {
-        "Kazakhstan": 2.88,
-        "Moldova": 2.72,
-        "Draw": 3.05
+        "Kazakhstan": 2.93,
+        "Moldova": 2.73,
+        "Draw": 2.98
       },
       "BetAnything": {
-        "Kazakhstan": 2.81,
-        "Moldova": 2.63,
-        "Draw": 2.92
+        "Kazakhstan": 2.88,
+        "Moldova": 2.58,
+        "Draw": 2.9
       },
       "Pinnacle": {
-        "Kazakhstan": 2.87,
-        "Moldova": 2.81,
-        "Draw": 2.97
+        "Kazakhstan": 2.99,
+        "Moldova": 2.71,
+        "Draw": 3.01
       }
     },
     "3f6c83a8118b5443871a7eb83e1fa183:h2h": {
@@ -156,9 +104,9 @@
         "Draw": 3.6
       },
       "Tipico": {
-        "FSV Mainz 05": 4.1,
+        "FSV Mainz 05": 4.2,
         "Hamburger SV": 1.6,
-        "Draw": 4.0
+        "Draw": 3.9
       },
       "Pinnacle": {
         "FSV Mainz 05": 4.06,
@@ -173,9 +121,9 @@
     },
     "511f714403615d006239801523f6ae0a:h2h": {
       "Pinnacle": {
-        "Dijon": 1.52,
-        "Orléans": 5.15,
-        "Draw": 4.28
+        "Dijon": 1.49,
+        "Orléans": 5.32,
+        "Draw": 4.41
       },
       "Unibet (SE)": {
         "Dijon": 1.51,
@@ -183,9 +131,9 @@
         "Draw": 4.2
       },
       "Betfair": {
-        "Dijon": 1.53,
-        "Orléans": 6.0,
-        "Draw": 4.4
+        "Dijon": 1.54,
+        "Orléans": 6.2,
+        "Draw": 4.6
       },
       "LeoVegas (SE)": {
         "Dijon": 1.51,
@@ -194,13 +142,13 @@
       },
       "888sport": {
         "Dijon": 1.5,
-        "Orléans": 5.0,
-        "Draw": 4.0
+        "Orléans": 5.5,
+        "Draw": 4.2
       },
       "William Hill": {
         "Dijon": 1.5,
-        "Orléans": 5.0,
-        "Draw": 4.0
+        "Orléans": 5.5,
+        "Draw": 4.2
       },
       "Unibet (NL)": {
         "Dijon": 1.51,
@@ -208,14 +156,121 @@
         "Draw": 4.2
       },
       "Winamax (DE)": {
-        "Dijon": 1.48,
-        "Orléans": 4.9,
+        "Dijon": 1.47,
+        "Orléans": 5.2,
         "Draw": 4.5
       },
       "Codere (IT)": {
-        "Dijon": 1.52,
-        "Orléans": 5.4,
+        "Dijon": 1.51,
+        "Orléans": 5.6,
         "Draw": 4.4
+      }
+    },
+    "fed29050dc7e99c7dd6b3b4580f142b7:h2h": {
+      "Unibet (NL)": {
+        "Burgos CF": 3.05,
+        "Leganés": 2.35,
+        "Draw": 3.2
+      },
+      "PMU (FR)": {
+        "Burgos CF": 2.8,
+        "Leganés": 2.15,
+        "Draw": 2.9
+      },
+      "Unibet (SE)": {
+        "Burgos CF": 3.05,
+        "Leganés": 2.35,
+        "Draw": 3.2
+      },
+      "LeoVegas (SE)": {
+        "Burgos CF": 2.9,
+        "Leganés": 2.23,
+        "Draw": 3.0
+      },
+      "Unibet (FR)": {
+        "Burgos CF": 2.65,
+        "Leganés": 2.1,
+        "Draw": 2.8
+      },
+      "Betclic (FR)": {
+        "Burgos CF": 2.82,
+        "Leganés": 2.25,
+        "Draw": 2.95
+      },
+      "Nordic Bet": {
+        "Burgos CF": 2.9,
+        "Leganés": 2.42,
+        "Draw": 3.0
+      },
+      "Betsson": {
+        "Burgos CF": 2.9,
+        "Leganés": 2.42,
+        "Draw": 3.0
+      },
+      "1xBet": {
+        "Burgos CF": 3.18,
+        "Leganés": 2.4,
+        "Draw": 3.23
+      },
+      "Winamax (FR)": {
+        "Burgos CF": 2.7,
+        "Leganés": 2.25,
+        "Draw": 2.95
+      },
+      "Winamax (DE)": {
+        "Burgos CF": 2.85,
+        "Leganés": 2.35,
+        "Draw": 3.1
+      },
+      "BetOnline.ag": {
+        "Burgos CF": 3.05,
+        "Leganés": 2.46,
+        "Draw": 3.05
+      },
+      "Pinnacle": {
+        "Burgos CF": 3.17,
+        "Leganés": 2.49,
+        "Draw": 3.19
+      },
+      "Marathon Bet": {
+        "Burgos CF": 3.08,
+        "Leganés": 2.32,
+        "Draw": 3.12
+      },
+      "William Hill": {
+        "Burgos CF": 3.0,
+        "Leganés": 2.3,
+        "Draw": 2.9
+      },
+      "Coolbet": {
+        "Burgos CF": 3.1,
+        "Leganés": 2.4,
+        "Draw": 3.25
+      },
+      "Betfair": {
+        "Burgos CF": 3.3,
+        "Leganés": 2.5,
+        "Draw": 3.25
+      },
+      "Tipico": {
+        "Burgos CF": 2.7,
+        "Leganés": 2.4,
+        "Draw": 3.1
+      },
+      "Codere (IT)": {
+        "Burgos CF": 2.85,
+        "Leganés": 2.39,
+        "Draw": 3.0
+      },
+      "Matchbook": {
+        "Burgos CF": 3.3,
+        "Leganés": 2.5,
+        "Draw": 3.25
+      },
+      "BetAnything": {
+        "Burgos CF": 3.05,
+        "Leganés": 2.46,
+        "Draw": 3.05
       }
     }
   },
@@ -3152,22 +3207,6 @@
   ],
   "results_history": [],
   "value_alerted": [
-    "511f714403615d006239801523f6ae0a:h2h|Betfair|Orléans",
-    "a80b8039c1be1afcae279ca9207cf49c:h2h|Betfair|Athletic Club (MG)",
-    "a80b8039c1be1afcae279ca9207cf49c:h2h|Betfair|São Bernardo",
-    "a80b8039c1be1afcae279ca9207cf49c:h2h|Betsson|Athletic Club (MG)",
-    "a80b8039c1be1afcae279ca9207cf49c:h2h|Betsson|São Bernardo",
-    "a80b8039c1be1afcae279ca9207cf49c:h2h|Coolbet|Athletic Club (MG)",
-    "a80b8039c1be1afcae279ca9207cf49c:h2h|Coolbet|São Bernardo",
-    "a80b8039c1be1afcae279ca9207cf49c:h2h|LeoVegas (SE)|Athletic Club (MG)",
-    "a80b8039c1be1afcae279ca9207cf49c:h2h|LeoVegas (SE)|São Bernardo",
-    "a80b8039c1be1afcae279ca9207cf49c:h2h|Nordic Bet|Athletic Club (MG)",
-    "a80b8039c1be1afcae279ca9207cf49c:h2h|Nordic Bet|São Bernardo",
-    "a80b8039c1be1afcae279ca9207cf49c:h2h|Tipico|Athletic Club (MG)",
-    "a80b8039c1be1afcae279ca9207cf49c:h2h|Tipico|São Bernardo",
-    "a80b8039c1be1afcae279ca9207cf49c:h2h|Unibet (NL)|Athletic Club (MG)",
-    "a80b8039c1be1afcae279ca9207cf49c:h2h|Unibet (NL)|São Bernardo",
-    "a80b8039c1be1afcae279ca9207cf49c:h2h|Unibet (SE)|Athletic Club (MG)",
-    "a80b8039c1be1afcae279ca9207cf49c:h2h|Unibet (SE)|São Bernardo"
+    "511f714403615d006239801523f6ae0a:h2h|Betfair|Orléans"
   ]
 }
