@@ -1,281 +1,111 @@
 {
   "snapshots": {
-    "9f6c807a9e4b430966a54b8f0a3bccc1:h2h": {
-      "LeoVegas (SE)": {
-        "SC Freiburg": 3.65,
-        "TSG Hoffenheim": 1.74,
-        "Draw": 3.65
-      },
-      "Unibet (SE)": {
-        "SC Freiburg": 3.65,
-        "TSG Hoffenheim": 1.74,
-        "Draw": 3.65
-      },
-      "Unibet (NL)": {
-        "SC Freiburg": 3.65,
-        "TSG Hoffenheim": 1.74,
-        "Draw": 3.65
-      },
-      "Tipico": {
-        "SC Freiburg": 3.8,
-        "TSG Hoffenheim": 1.62,
-        "Draw": 4.2
-      },
-      "888sport": {
-        "SC Freiburg": 3.6,
-        "TSG Hoffenheim": 1.73,
-        "Draw": 3.7
-      },
-      "William Hill": {
-        "SC Freiburg": 3.6,
-        "TSG Hoffenheim": 1.73,
-        "Draw": 3.7
-      },
-      "Pinnacle": {
-        "SC Freiburg": 3.87,
-        "TSG Hoffenheim": 1.71,
-        "Draw": 4.11
-      },
-      "1xBet": {
-        "SC Freiburg": 3.83,
-        "TSG Hoffenheim": 1.69,
-        "Draw": 3.9
-      }
-    },
-    "7bf0d1f95bb9b2b6003386c82ba96b6a:h2h": {
-      "Pinnacle": {
-        "Cheltenham Town": 4.0,
-        "Exeter City": 1.87,
-        "Draw": 3.79
-      },
-      "William Hill": {
-        "Cheltenham Town": 3.8,
-        "Exeter City": 1.85,
-        "Draw": 3.3
-      },
-      "Marathon Bet": {
-        "Cheltenham Town": 3.82,
-        "Exeter City": 1.85,
-        "Draw": 3.52
-      },
-      "Nordic Bet": {
-        "Cheltenham Town": 3.95,
-        "Exeter City": 1.85,
-        "Draw": 3.45
-      },
-      "888sport": {
-        "Cheltenham Town": 3.8,
-        "Exeter City": 1.85,
-        "Draw": 3.3
-      },
-      "1xBet": {
-        "Cheltenham Town": 3.83,
-        "Exeter City": 1.87,
-        "Draw": 3.52
-      },
-      "Betsson": {
-        "Cheltenham Town": 3.95,
-        "Exeter City": 1.85,
-        "Draw": 3.45
-      },
-      "Tipico": {
-        "Cheltenham Town": 4.0,
-        "Exeter City": 1.72,
-        "Draw": 3.6
-      },
-      "Coolbet": {
-        "Cheltenham Town": 3.85,
-        "Exeter City": 1.9,
-        "Draw": 3.5
-      },
-      "Codere (IT)": {
-        "Cheltenham Town": 3.8,
-        "Exeter City": 1.84,
-        "Draw": 3.4
-      },
-      "Unibet (NL)": {
-        "Cheltenham Town": 3.8,
-        "Exeter City": 1.81,
-        "Draw": 3.45
-      },
-      "Unibet (SE)": {
-        "Cheltenham Town": 3.8,
-        "Exeter City": 1.81,
-        "Draw": 3.45
-      },
-      "LeoVegas (SE)": {
-        "Cheltenham Town": 3.75,
-        "Exeter City": 1.79,
-        "Draw": 3.4
-      },
-      "Betfair": {
-        "Cheltenham Town": 4.3,
-        "Exeter City": 1.91,
-        "Draw": 4.0
-      },
-      "Matchbook": {
-        "Cheltenham Town": 4.3,
-        "Exeter City": 1.91,
-        "Draw": 4.0
-      },
-      "BetOnline.ag": {
-        "Cheltenham Town": 4.0,
-        "Exeter City": 1.74,
-        "Draw": 3.7
-      }
-    },
     "908247d5d5cd714de37956edf865668b:h2h": {
-      "PMU (FR)": {
-        "CD Castellón": 2.08,
-        "Real Valladolid CF": 2.7,
-        "Draw": 3.15
-      },
-      "LeoVegas (SE)": {
-        "CD Castellón": 2.16,
-        "Real Valladolid CF": 2.8,
-        "Draw": 3.3
-      },
-      "Unibet (NL)": {
-        "CD Castellón": 2.28,
-        "Real Valladolid CF": 2.95,
-        "Draw": 3.45
-      },
-      "Unibet (SE)": {
-        "CD Castellón": 2.28,
-        "Real Valladolid CF": 2.95,
-        "Draw": 3.45
-      },
       "Unibet (FR)": {
-        "CD Castellón": 1.96,
-        "Real Valladolid CF": 2.6,
-        "Draw": 3.15
+        "CD Castellón": 1.01,
+        "Real Valladolid CF": 100.0,
+        "Draw": 4.75
       },
       "Nordic Bet": {
-        "CD Castellón": 2.22,
-        "Real Valladolid CF": 2.85,
-        "Draw": 3.4
+        "CD Castellón": 1.0,
+        "Real Valladolid CF": 81.0,
+        "Draw": 17.0
       },
       "Betsson": {
-        "CD Castellón": 2.22,
-        "Real Valladolid CF": 2.85,
-        "Draw": 3.4
+        "CD Castellón": 1.0,
+        "Real Valladolid CF": 101.0,
+        "Draw": 15.0
       },
       "Betclic (FR)": {
-        "CD Castellón": 2.08,
-        "Real Valladolid CF": 2.75,
-        "Draw": 3.37
-      },
-      "Codere (IT)": {
-        "CD Castellón": 2.21,
-        "Real Valladolid CF": 2.8,
-        "Draw": 3.45
+        "CD Castellón": 1.0,
+        "Real Valladolid CF": 100.0,
+        "Draw": 16.25
       },
       "Winamax (FR)": {
-        "CD Castellón": 2.1,
-        "Real Valladolid CF": 2.65,
-        "Draw": 3.4
+        "CD Castellón": 1.01,
+        "Real Valladolid CF": 400.0,
+        "Draw": 19.0
       },
       "Winamax (DE)": {
-        "CD Castellón": 2.2,
-        "Real Valladolid CF": 2.75,
-        "Draw": 3.55
-      },
-      "1xBet": {
-        "CD Castellón": 2.27,
-        "Real Valladolid CF": 3.0,
-        "Draw": 3.73
+        "CD Castellón": 1.01,
+        "Real Valladolid CF": 1000.0,
+        "Draw": 25.0
       },
       "Coolbet": {
-        "CD Castellón": 2.3,
-        "Real Valladolid CF": 3.0,
-        "Draw": 3.6
-      },
-      "BetOnline.ag": {
-        "CD Castellón": 2.26,
-        "Real Valladolid CF": 2.92,
-        "Draw": 3.6
-      },
-      "Pinnacle": {
-        "CD Castellón": 2.31,
-        "Real Valladolid CF": 3.01,
-        "Draw": 3.78
-      },
-      "Marathon Bet": {
-        "CD Castellón": 2.2,
-        "Real Valladolid CF": 2.91,
-        "Draw": 3.62
-      },
-      "William Hill": {
-        "CD Castellón": 2.2,
-        "Real Valladolid CF": 2.88,
-        "Draw": 3.4
+        "CD Castellón": 1.0,
+        "Real Valladolid CF": 100.0,
+        "Draw": 16.0
       },
       "Tipico": {
-        "CD Castellón": 2.05,
-        "Real Valladolid CF": 3.0,
-        "Draw": 3.5
-      },
-      "Matchbook": {
-        "CD Castellón": 2.32,
-        "Real Valladolid CF": 3.15,
-        "Draw": 3.75
+        "CD Castellón": 1.01,
+        "Real Valladolid CF": 400.0,
+        "Draw": 25.0
       },
       "Betfair": {
-        "CD Castellón": 2.32,
-        "Real Valladolid CF": 3.15,
-        "Draw": 3.75
-      },
-      "BetAnything": {
-        "CD Castellón": 2.26,
-        "Real Valladolid CF": 2.92,
-        "Draw": 3.6
+        "CD Castellón": 1.02,
+        "Real Valladolid CF": 1000.0,
+        "Draw": 34.0
       }
     },
     "c71ec197d7d313cb6b78b2b8cdeaf2ba:h2h": {
       "Pinnacle": {
-        "FC Versailles": 3.06,
-        "Rodez AF": 2.22,
-        "Draw": 3.24
-      },
-      "LeoVegas (SE)": {
-        "FC Versailles": 3.0,
-        "Rodez AF": 2.2,
-        "Draw": 3.3
-      },
-      "Unibet (SE)": {
-        "FC Versailles": 3.0,
-        "Rodez AF": 2.2,
-        "Draw": 3.3
-      },
-      "Unibet (NL)": {
-        "FC Versailles": 3.0,
-        "Rodez AF": 2.2,
-        "Draw": 3.3
+        "FC Versailles": 7.14,
+        "Rodez AF": 6.13,
+        "Draw": 1.27
       },
       "William Hill": {
-        "FC Versailles": 3.0,
-        "Rodez AF": 2.15,
-        "Draw": 3.3
+        "FC Versailles": 1.06,
+        "Rodez AF": 91.0,
+        "Draw": 9.5
       },
       "Winamax (DE)": {
-        "FC Versailles": 3.0,
-        "Rodez AF": 2.1,
-        "Draw": 3.5
+        "FC Versailles": 1.02,
+        "Rodez AF": 900.0,
+        "Draw": 12.0
       },
       "888sport": {
-        "FC Versailles": 3.0,
-        "Rodez AF": 2.15,
-        "Draw": 3.3
-      },
-      "Codere (IT)": {
-        "FC Versailles": 3.15,
-        "Rodez AF": 2.18,
-        "Draw": 3.4
+        "FC Versailles": 1.06,
+        "Rodez AF": 101.0,
+        "Draw": 10.0
       },
       "Betfair": {
-        "FC Versailles": 3.2,
-        "Rodez AF": 2.32,
-        "Draw": 3.45
+        "FC Versailles": 1.03,
+        "Rodez AF": 150.0,
+        "Draw": 1.1
+      }
+    },
+    "70a86351579df10acdcfbb36fca0c7ac:h2h": {
+      "888sport": {
+        "Stade de Reims": 1.0,
+        "Tourcoing": 151.0,
+        "Draw": 41.0
+      },
+      "William Hill": {
+        "Stade de Reims": 1.01,
+        "Tourcoing": 151.0,
+        "Draw": 29.0
+      },
+      "Winamax (DE)": {
+        "Stade de Reims": 1.01,
+        "Tourcoing": 400.0,
+        "Draw": 18.0
+      },
+      "Pinnacle": {
+        "Stade de Reims": 3.35,
+        "Tourcoing": 12.67,
+        "Draw": 1.35
+      }
+    },
+    "9e46febc61a5c6c6fc99114fb2c1beec:h2h": {
+      "888sport": {
+        "Union Berlin": 151.0,
+        "Werder Bremen": 1.0,
+        "Draw": 46.0
+      },
+      "William Hill": {
+        "Union Berlin": 151.0,
+        "Werder Bremen": 1.0,
+        "Draw": 56.0
       }
     }
   },
@@ -1960,8 +1790,230 @@
       "confidence": 10,
       "alert_type": "value",
       "alerted_at": "2026-11-13T17:39:43.560753+00:00"
+    },
+    {
+      "state_key": "70a86351579df10acdcfbb36fca0c7ac:h2h",
+      "event_id": "70a86351579df10acdcfbb36fca0c7ac",
+      "sport_key": "soccer",
+      "competition": "Coupe de France",
+      "home_team": "Tourcoing",
+      "away_team": "Stade de Reims",
+      "commence_time": "2026-11-14T12:59:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Tourcoing",
+      "odds_at_alert": 151.0,
+      "stake_pct": 5.0,
+      "confidence": 966,
+      "alert_type": "value",
+      "alerted_at": "2026-11-14T14:58:45.909068+00:00"
+    },
+    {
+      "state_key": "70a86351579df10acdcfbb36fca0c7ac:h2h",
+      "event_id": "70a86351579df10acdcfbb36fca0c7ac",
+      "sport_key": "soccer",
+      "competition": "Coupe de France",
+      "home_team": "Tourcoing",
+      "away_team": "Stade de Reims",
+      "commence_time": "2026-11-14T12:59:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 41.0,
+      "stake_pct": 5.0,
+      "confidence": 2616,
+      "alert_type": "value",
+      "alerted_at": "2026-11-14T14:58:46.291933+00:00"
+    },
+    {
+      "state_key": "70a86351579df10acdcfbb36fca0c7ac:h2h",
+      "event_id": "70a86351579df10acdcfbb36fca0c7ac",
+      "sport_key": "soccer",
+      "competition": "Coupe de France",
+      "home_team": "Tourcoing",
+      "away_team": "Stade de Reims",
+      "commence_time": "2026-11-14T12:59:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Tourcoing",
+      "odds_at_alert": 151.0,
+      "stake_pct": 5.0,
+      "confidence": 966,
+      "alert_type": "value",
+      "alerted_at": "2026-11-14T14:58:46.792545+00:00"
+    },
+    {
+      "state_key": "70a86351579df10acdcfbb36fca0c7ac:h2h",
+      "event_id": "70a86351579df10acdcfbb36fca0c7ac",
+      "sport_key": "soccer",
+      "competition": "Coupe de France",
+      "home_team": "Tourcoing",
+      "away_team": "Stade de Reims",
+      "commence_time": "2026-11-14T12:59:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 29.0,
+      "stake_pct": 5.0,
+      "confidence": 1821,
+      "alert_type": "value",
+      "alerted_at": "2026-11-14T14:58:47.423210+00:00"
+    },
+    {
+      "state_key": "70a86351579df10acdcfbb36fca0c7ac:h2h",
+      "event_id": "70a86351579df10acdcfbb36fca0c7ac",
+      "sport_key": "soccer",
+      "competition": "Coupe de France",
+      "home_team": "Tourcoing",
+      "away_team": "Stade de Reims",
+      "commence_time": "2026-11-14T12:59:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Tourcoing",
+      "odds_at_alert": 400.0,
+      "stake_pct": 5.0,
+      "confidence": 2723,
+      "alert_type": "value",
+      "alerted_at": "2026-11-14T14:58:47.805934+00:00"
+    },
+    {
+      "state_key": "70a86351579df10acdcfbb36fca0c7ac:h2h",
+      "event_id": "70a86351579df10acdcfbb36fca0c7ac",
+      "sport_key": "soccer",
+      "competition": "Coupe de France",
+      "home_team": "Tourcoing",
+      "away_team": "Stade de Reims",
+      "commence_time": "2026-11-14T12:59:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 18.0,
+      "stake_pct": 5.0,
+      "confidence": 1092,
+      "alert_type": "value",
+      "alerted_at": "2026-11-14T14:58:48.211176+00:00"
+    },
+    {
+      "state_key": "c71ec197d7d313cb6b78b2b8cdeaf2ba:h2h",
+      "event_id": "c71ec197d7d313cb6b78b2b8cdeaf2ba",
+      "sport_key": "soccer",
+      "competition": "Coupe de France",
+      "home_team": "FC Versailles",
+      "away_team": "Rodez AF",
+      "commence_time": "2026-11-14T13:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Rodez AF",
+      "odds_at_alert": 91.0,
+      "stake_pct": 5.0,
+      "confidence": 1261,
+      "alert_type": "value",
+      "alerted_at": "2026-11-14T14:58:48.660498+00:00"
+    },
+    {
+      "state_key": "c71ec197d7d313cb6b78b2b8cdeaf2ba:h2h",
+      "event_id": "c71ec197d7d313cb6b78b2b8cdeaf2ba",
+      "sport_key": "soccer",
+      "competition": "Coupe de France",
+      "home_team": "FC Versailles",
+      "away_team": "Rodez AF",
+      "commence_time": "2026-11-14T13:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 9.5,
+      "stake_pct": 5.0,
+      "confidence": 586,
+      "alert_type": "value",
+      "alerted_at": "2026-11-14T14:58:49.056972+00:00"
+    },
+    {
+      "state_key": "c71ec197d7d313cb6b78b2b8cdeaf2ba:h2h",
+      "event_id": "c71ec197d7d313cb6b78b2b8cdeaf2ba",
+      "sport_key": "soccer",
+      "competition": "Coupe de France",
+      "home_team": "FC Versailles",
+      "away_team": "Rodez AF",
+      "commence_time": "2026-11-14T13:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Rodez AF",
+      "odds_at_alert": 900.0,
+      "stake_pct": 5.0,
+      "confidence": 13362,
+      "alert_type": "value",
+      "alerted_at": "2026-11-14T14:58:49.486072+00:00"
+    },
+    {
+      "state_key": "c71ec197d7d313cb6b78b2b8cdeaf2ba:h2h",
+      "event_id": "c71ec197d7d313cb6b78b2b8cdeaf2ba",
+      "sport_key": "soccer",
+      "competition": "Coupe de France",
+      "home_team": "FC Versailles",
+      "away_team": "Rodez AF",
+      "commence_time": "2026-11-14T13:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 12.0,
+      "stake_pct": 5.0,
+      "confidence": 766,
+      "alert_type": "value",
+      "alerted_at": "2026-11-14T14:58:49.981937+00:00"
+    },
+    {
+      "state_key": "c71ec197d7d313cb6b78b2b8cdeaf2ba:h2h",
+      "event_id": "c71ec197d7d313cb6b78b2b8cdeaf2ba",
+      "sport_key": "soccer",
+      "competition": "Coupe de France",
+      "home_team": "FC Versailles",
+      "away_team": "Rodez AF",
+      "commence_time": "2026-11-14T13:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Rodez AF",
+      "odds_at_alert": 101.0,
+      "stake_pct": 5.0,
+      "confidence": 1411,
+      "alert_type": "value",
+      "alerted_at": "2026-11-14T14:58:50.432519+00:00"
+    },
+    {
+      "state_key": "c71ec197d7d313cb6b78b2b8cdeaf2ba:h2h",
+      "event_id": "c71ec197d7d313cb6b78b2b8cdeaf2ba",
+      "sport_key": "soccer",
+      "competition": "Coupe de France",
+      "home_team": "FC Versailles",
+      "away_team": "Rodez AF",
+      "commence_time": "2026-11-14T13:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 10.0,
+      "stake_pct": 5.0,
+      "confidence": 622,
+      "alert_type": "value",
+      "alerted_at": "2026-11-14T14:58:50.823456+00:00"
+    },
+    {
+      "state_key": "c71ec197d7d313cb6b78b2b8cdeaf2ba:h2h",
+      "event_id": "c71ec197d7d313cb6b78b2b8cdeaf2ba",
+      "sport_key": "soccer",
+      "competition": "Coupe de France",
+      "home_team": "FC Versailles",
+      "away_team": "Rodez AF",
+      "commence_time": "2026-11-14T13:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Rodez AF",
+      "odds_at_alert": 150.0,
+      "stake_pct": 5.0,
+      "confidence": 2144,
+      "alert_type": "value",
+      "alerted_at": "2026-11-14T14:58:51.251406+00:00"
     }
   ],
   "results_history": [],
-  "value_alerted": []
+  "value_alerted": [
+    "70a86351579df10acdcfbb36fca0c7ac:h2h|888sport|Draw",
+    "70a86351579df10acdcfbb36fca0c7ac:h2h|888sport|Tourcoing",
+    "70a86351579df10acdcfbb36fca0c7ac:h2h|William Hill|Draw",
+    "70a86351579df10acdcfbb36fca0c7ac:h2h|William Hill|Tourcoing",
+    "70a86351579df10acdcfbb36fca0c7ac:h2h|Winamax (DE)|Draw",
+    "70a86351579df10acdcfbb36fca0c7ac:h2h|Winamax (DE)|Tourcoing",
+    "c71ec197d7d313cb6b78b2b8cdeaf2ba:h2h|888sport|Draw",
+    "c71ec197d7d313cb6b78b2b8cdeaf2ba:h2h|888sport|Rodez AF",
+    "c71ec197d7d313cb6b78b2b8cdeaf2ba:h2h|Betfair|Rodez AF",
+    "c71ec197d7d313cb6b78b2b8cdeaf2ba:h2h|William Hill|Draw",
+    "c71ec197d7d313cb6b78b2b8cdeaf2ba:h2h|William Hill|Rodez AF",
+    "c71ec197d7d313cb6b78b2b8cdeaf2ba:h2h|Winamax (DE)|Draw",
+    "c71ec197d7d313cb6b78b2b8cdeaf2ba:h2h|Winamax (DE)|Rodez AF"
+  ]
 }
