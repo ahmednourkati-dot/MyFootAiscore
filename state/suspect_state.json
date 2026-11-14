@@ -1,111 +1,246 @@
 {
   "snapshots": {
-    "908247d5d5cd714de37956edf865668b:h2h": {
-      "Unibet (FR)": {
-        "CD Castellón": 1.01,
-        "Real Valladolid CF": 100.0,
-        "Draw": 4.75
-      },
+    "eeb952a7f25f742844e0cc782171b7c2:h2h": {
       "Nordic Bet": {
-        "CD Castellón": 1.0,
-        "Real Valladolid CF": 81.0,
-        "Draw": 17.0
+        "América Mineiro": 3.05,
+        "Avai": 2.88,
+        "Draw": 2.4
       },
       "Betsson": {
-        "CD Castellón": 1.0,
-        "Real Valladolid CF": 101.0,
-        "Draw": 15.0
-      },
-      "Betclic (FR)": {
-        "CD Castellón": 1.0,
-        "Real Valladolid CF": 100.0,
-        "Draw": 16.25
-      },
-      "Winamax (FR)": {
-        "CD Castellón": 1.01,
-        "Real Valladolid CF": 400.0,
-        "Draw": 19.0
-      },
-      "Winamax (DE)": {
-        "CD Castellón": 1.01,
-        "Real Valladolid CF": 1000.0,
-        "Draw": 25.0
+        "América Mineiro": 3.05,
+        "Avai": 2.88,
+        "Draw": 2.4
       },
       "Coolbet": {
-        "CD Castellón": 1.0,
-        "Real Valladolid CF": 100.0,
-        "Draw": 16.0
+        "América Mineiro": 3.0,
+        "Avai": 2.88,
+        "Draw": 2.4
+      },
+      "Pinnacle": {
+        "América Mineiro": 3.04,
+        "Avai": 2.95,
+        "Draw": 2.5
+      },
+      "Marathon Bet": {
+        "América Mineiro": 2.88,
+        "Avai": 2.8,
+        "Draw": 2.49
+      },
+      "888sport": {
+        "América Mineiro": 2.88,
+        "Avai": 2.8,
+        "Draw": 2.45
+      },
+      "Betfair": {
+        "América Mineiro": 3.2,
+        "Avai": 3.1,
+        "Draw": 2.7
+      },
+      "Matchbook": {
+        "América Mineiro": 3.2,
+        "Avai": 3.1,
+        "Draw": 2.7
+      },
+      "LeoVegas (SE)": {
+        "América Mineiro": 2.88,
+        "Avai": 2.63,
+        "Draw": 2.23
+      },
+      "Unibet (NL)": {
+        "América Mineiro": 3.05,
+        "Avai": 2.8,
+        "Draw": 2.38
+      },
+      "Unibet (SE)": {
+        "América Mineiro": 3.05,
+        "Avai": 2.8,
+        "Draw": 2.38
       },
       "Tipico": {
-        "CD Castellón": 1.01,
-        "Real Valladolid CF": 400.0,
-        "Draw": 25.0
-      },
-      "Betfair": {
-        "CD Castellón": 1.02,
-        "Real Valladolid CF": 1000.0,
-        "Draw": 34.0
+        "América Mineiro": 3.2,
+        "Avai": 3.0,
+        "Draw": 2.2
       }
     },
-    "c71ec197d7d313cb6b78b2b8cdeaf2ba:h2h": {
-      "Pinnacle": {
-        "FC Versailles": 7.14,
-        "Rodez AF": 6.13,
-        "Draw": 1.27
+    "723c8d0784b320e822758afe4aed508e:h2h": {
+      "Coolbet": {
+        "Atletico Goianiense": 1.57,
+        "Cuiabá": 9.0,
+        "Draw": 2.88
       },
-      "William Hill": {
-        "FC Versailles": 1.06,
-        "Rodez AF": 91.0,
-        "Draw": 9.5
+      "Nordic Bet": {
+        "Atletico Goianiense": 1.6,
+        "Cuiabá": 7.7,
+        "Draw": 2.92
       },
-      "Winamax (DE)": {
-        "FC Versailles": 1.02,
-        "Rodez AF": 900.0,
-        "Draw": 12.0
-      },
-      "888sport": {
-        "FC Versailles": 1.06,
-        "Rodez AF": 101.0,
-        "Draw": 10.0
-      },
-      "Betfair": {
-        "FC Versailles": 1.03,
-        "Rodez AF": 150.0,
-        "Draw": 1.1
-      }
-    },
-    "70a86351579df10acdcfbb36fca0c7ac:h2h": {
-      "888sport": {
-        "Stade de Reims": 1.0,
-        "Tourcoing": 151.0,
-        "Draw": 41.0
-      },
-      "William Hill": {
-        "Stade de Reims": 1.01,
-        "Tourcoing": 151.0,
-        "Draw": 29.0
-      },
-      "Winamax (DE)": {
-        "Stade de Reims": 1.01,
-        "Tourcoing": 400.0,
-        "Draw": 18.0
+      "Betsson": {
+        "Atletico Goianiense": 1.6,
+        "Cuiabá": 7.7,
+        "Draw": 2.92
       },
       "Pinnacle": {
-        "Stade de Reims": 3.35,
-        "Tourcoing": 12.67,
-        "Draw": 1.35
+        "Atletico Goianiense": 1.62,
+        "Cuiabá": 8.28,
+        "Draw": 3.07
+      },
+      "Marathon Bet": {
+        "Atletico Goianiense": 1.56,
+        "Cuiabá": 8.0,
+        "Draw": 2.92
+      },
+      "888sport": {
+        "Atletico Goianiense": 1.57,
+        "Cuiabá": 7.0,
+        "Draw": 3.1
+      },
+      "Betfair": {
+        "Atletico Goianiense": 1.7,
+        "Cuiabá": 8.8,
+        "Draw": 3.25
+      },
+      "Matchbook": {
+        "Atletico Goianiense": 1.7,
+        "Cuiabá": 9.0,
+        "Draw": 3.25
+      },
+      "Unibet (SE)": {
+        "Atletico Goianiense": 1.57,
+        "Cuiabá": 6.5,
+        "Draw": 3.15
+      },
+      "Unibet (NL)": {
+        "Atletico Goianiense": 1.57,
+        "Cuiabá": 6.5,
+        "Draw": 3.15
+      },
+      "LeoVegas (SE)": {
+        "Atletico Goianiense": 1.48,
+        "Cuiabá": 6.25,
+        "Draw": 2.95
       }
     },
-    "9e46febc61a5c6c6fc99114fb2c1beec:h2h": {
-      "888sport": {
-        "Union Berlin": 151.0,
-        "Werder Bremen": 1.0,
-        "Draw": 46.0
+    "749c2aafcf5747d10a75076776143d7b:h2h": {
+      "Coolbet": {
+        "Botafogo-SP": 9.0,
+        "Juventude": 1.62,
+        "Draw": 2.75
       },
-      "William Hill": {
-        "Union Berlin": 151.0,
-        "Werder Bremen": 1.0,
-        "Draw": 56.0
+      "Betsson": {
+        "Botafogo-SP": 9.1,
+        "Juventude": 1.6,
+        "Draw": 2.75
+      },
+      "Nordic Bet": {
+        "Botafogo-SP": 9.1,
+        "Juventude": 1.6,
+        "Draw": 2.75
+      },
+      "Pinnacle": {
+        "Botafogo-SP": 10.11,
+        "Juventude": 1.59,
+        "Draw": 2.98
+      },
+      "Marathon Bet": {
+        "Botafogo-SP": 8.9,
+        "Juventude": 1.53,
+        "Draw": 2.92
+      },
+      "888sport": {
+        "Botafogo-SP": 9.5,
+        "Juventude": 1.44,
+        "Draw": 3.1
+      },
+      "Tipico": {
+        "Botafogo-SP": 10.0,
+        "Juventude": 1.5,
+        "Draw": 3.0
+      },
+      "Betfair": {
+        "Botafogo-SP": 11.5,
+        "Juventude": 1.61,
+        "Draw": 3.3
+      },
+      "Matchbook": {
+        "Botafogo-SP": 11.5,
+        "Juventude": 1.61,
+        "Draw": 3.3
+      },
+      "Unibet (NL)": {
+        "Botafogo-SP": 8.0,
+        "Juventude": 1.56,
+        "Draw": 2.9
+      },
+      "LeoVegas (SE)": {
+        "Botafogo-SP": 7.5,
+        "Juventude": 1.47,
+        "Draw": 2.75
+      },
+      "Unibet (SE)": {
+        "Botafogo-SP": 8.0,
+        "Juventude": 1.56,
+        "Draw": 2.9
+      }
+    },
+    "a00233591a3a1d7da4c7ca82c8f8d931:h2h": {
+      "Pinnacle": {
+        "Ceará": 2.74,
+        "Clube de Regatas Brasil": 2.73,
+        "Draw": 2.98
+      },
+      "Nordic Bet": {
+        "Ceará": 2.55,
+        "Clube de Regatas Brasil": 2.75,
+        "Draw": 2.92
+      },
+      "Coolbet": {
+        "Ceará": 2.6,
+        "Clube de Regatas Brasil": 2.75,
+        "Draw": 2.88
+      },
+      "Betsson": {
+        "Ceará": 2.55,
+        "Clube de Regatas Brasil": 2.75,
+        "Draw": 2.92
+      },
+      "Marathon Bet": {
+        "Ceará": 2.59,
+        "Clube de Regatas Brasil": 2.65,
+        "Draw": 2.9
+      },
+      "888sport": {
+        "Ceará": 2.5,
+        "Clube de Regatas Brasil": 2.7,
+        "Draw": 2.88
+      },
+      "Tipico": {
+        "Ceará": 2.5,
+        "Clube de Regatas Brasil": 2.6,
+        "Draw": 3.1
+      },
+      "Matchbook": {
+        "Ceará": 2.8,
+        "Clube de Regatas Brasil": 2.9,
+        "Draw": 3.1
+      },
+      "Unibet (NL)": {
+        "Ceará": 2.8,
+        "Clube de Regatas Brasil": 2.48,
+        "Draw": 2.88
+      },
+      "LeoVegas (SE)": {
+        "Ceará": 2.63,
+        "Clube de Regatas Brasil": 2.33,
+        "Draw": 2.7
+      },
+      "Unibet (SE)": {
+        "Ceará": 2.8,
+        "Clube de Regatas Brasil": 2.48,
+        "Draw": 2.88
+      },
+      "Betfair": {
+        "Ceará": 2.8,
+        "Clube de Regatas Brasil": 2.9,
+        "Draw": 3.1
       }
     }
   },
@@ -1998,22 +2133,43 @@
       "confidence": 2144,
       "alert_type": "value",
       "alerted_at": "2026-11-14T14:58:51.251406+00:00"
+    },
+    {
+      "state_key": "749c2aafcf5747d10a75076776143d7b:h2h",
+      "event_id": "749c2aafcf5747d10a75076776143d7b",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Juventude",
+      "away_team": "Botafogo-SP",
+      "commence_time": "2026-11-14T19:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Botafogo-SP",
+      "odds_at_alert": 11.5,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-11-14T20:39:22.214922+00:00"
+    },
+    {
+      "state_key": "749c2aafcf5747d10a75076776143d7b:h2h",
+      "event_id": "749c2aafcf5747d10a75076776143d7b",
+      "sport_key": "soccer",
+      "competition": "Brazil Série B",
+      "home_team": "Juventude",
+      "away_team": "Botafogo-SP",
+      "commence_time": "2026-11-14T19:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Botafogo-SP",
+      "odds_at_alert": 11.5,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-11-14T20:39:22.612817+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "70a86351579df10acdcfbb36fca0c7ac:h2h|888sport|Draw",
-    "70a86351579df10acdcfbb36fca0c7ac:h2h|888sport|Tourcoing",
-    "70a86351579df10acdcfbb36fca0c7ac:h2h|William Hill|Draw",
-    "70a86351579df10acdcfbb36fca0c7ac:h2h|William Hill|Tourcoing",
-    "70a86351579df10acdcfbb36fca0c7ac:h2h|Winamax (DE)|Draw",
-    "70a86351579df10acdcfbb36fca0c7ac:h2h|Winamax (DE)|Tourcoing",
-    "c71ec197d7d313cb6b78b2b8cdeaf2ba:h2h|888sport|Draw",
-    "c71ec197d7d313cb6b78b2b8cdeaf2ba:h2h|888sport|Rodez AF",
-    "c71ec197d7d313cb6b78b2b8cdeaf2ba:h2h|Betfair|Rodez AF",
-    "c71ec197d7d313cb6b78b2b8cdeaf2ba:h2h|William Hill|Draw",
-    "c71ec197d7d313cb6b78b2b8cdeaf2ba:h2h|William Hill|Rodez AF",
-    "c71ec197d7d313cb6b78b2b8cdeaf2ba:h2h|Winamax (DE)|Draw",
-    "c71ec197d7d313cb6b78b2b8cdeaf2ba:h2h|Winamax (DE)|Rodez AF"
+    "749c2aafcf5747d10a75076776143d7b:h2h|Betfair|Botafogo-SP",
+    "749c2aafcf5747d10a75076776143d7b:h2h|Matchbook|Botafogo-SP"
   ]
 }
