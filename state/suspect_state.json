@@ -1,139 +1,286 @@
 {
   "snapshots": {
-    "81fa502a09faf261c1aaf2a33eb7db07:h2h": {
-      "Tipico": {
-        "1. FC Köln": 1.01,
-        "1. FC Nürnberg": 400.0,
-        "Draw": 25.0
-      },
-      "Pinnacle": {
-        "1. FC Köln": 1.19,
-        "1. FC Nürnberg": 24.8,
-        "Draw": 5.34
-      }
-    },
-    "b8308c8150f5ad55e242d7671adaffbd:h2h": {
+    "5ae7a0b002778fc547ce96abf6bf8547:h2h": {
       "Unibet (SE)": {
-        "Granada CF": 1.09,
-        "Las Palmas": 61.0,
-        "Draw": 7.0
+        "Faroe Islands": 1.78,
+        "Moldova": 4.9,
+        "Draw": 3.45
       },
-      "Unibet (NL)": {
-        "Granada CF": 1.07,
-        "Las Palmas": 41.0,
-        "Draw": 6.4
+      "PMU (FR)": {
+        "Faroe Islands": 1.67,
+        "Moldova": 4.4,
+        "Draw": 3.15
       },
-      "Unibet (FR)": {
-        "Granada CF": 1.03,
-        "Las Palmas": 80.0,
-        "Draw": 4.5
+      "Betclic (FR)": {
+        "Faroe Islands": 1.71,
+        "Moldova": 4.5,
+        "Draw": 3.32
       },
-      "Nordic Bet": {
-        "Granada CF": 1.1,
-        "Las Palmas": 40.0,
-        "Draw": 5.8
-      },
-      "Winamax (DE)": {
-        "Granada CF": 1.06,
-        "Las Palmas": 60.0,
-        "Draw": 7.75
+      "LeoVegas (SE)": {
+        "Faroe Islands": 1.78,
+        "Moldova": 4.9,
+        "Draw": 3.45
       },
       "Winamax (FR)": {
-        "Granada CF": 1.02,
-        "Las Palmas": 100.0,
-        "Draw": 10.5
-      },
-      "Betsson": {
-        "Granada CF": 1.04,
-        "Las Palmas": 80.0,
-        "Draw": 10.0
-      },
-      "Betclic (FR)": {
-        "Granada CF": 1.07,
-        "Las Palmas": 26.0,
-        "Draw": 5.25
-      },
-      "Marathon Bet": {
-        "Granada CF": 1.04,
-        "Las Palmas": 46.0,
-        "Draw": 8.5
-      },
-      "Coolbet": {
-        "Granada CF": 1.13,
-        "Las Palmas": 50.0,
-        "Draw": 6.0
-      },
-      "Betfair": {
-        "Granada CF": 1.15,
-        "Las Palmas": 85.0,
-        "Draw": 7.6
-      },
-      "Tipico": {
-        "Granada CF": 1.04,
-        "Las Palmas": 80.0,
-        "Draw": 11.0
-      }
-    },
-    "b37cfed1f792e0804c4f1e6a1c951f65:h2h": {
-      "Unibet (SE)": {
-        "Finland": 1.02,
-        "San Marino": 71.0,
-        "Draw": 25.0
-      },
-      "Betclic (FR)": {
-        "Finland": 1.01,
-        "San Marino": 35.0,
-        "Draw": 11.0
+        "Faroe Islands": 1.68,
+        "Moldova": 4.1,
+        "Draw": 3.25
       },
       "1xBet": {
-        "Finland": 1.02,
-        "San Marino": 39.0,
-        "Draw": 21.0
+        "Faroe Islands": 1.85,
+        "Moldova": 4.8,
+        "Draw": 3.54
+      },
+      "MyBookie.ag": {
+        "Faroe Islands": 1.78,
+        "Moldova": 4.6,
+        "Draw": 3.36
       },
       "Betsson": {
-        "Finland": 1.0,
-        "San Marino": 67.0,
-        "Draw": 36.0
+        "Faroe Islands": 1.78,
+        "Moldova": 4.65,
+        "Draw": 3.3
       },
       "Nordic Bet": {
-        "Finland": 1.0,
-        "San Marino": 67.0,
-        "Draw": 36.0
-      },
-      "Marathon Bet": {
-        "Finland": 1.03,
-        "San Marino": 51.0,
-        "Draw": 18.0
+        "Faroe Islands": 1.78,
+        "Moldova": 4.65,
+        "Draw": 3.3
       },
       "888sport": {
-        "Finland": 1.03,
-        "San Marino": 67.0,
-        "Draw": 21.0
+        "Faroe Islands": 1.8,
+        "Moldova": 4.5,
+        "Draw": 3.3
       },
       "William Hill": {
-        "Finland": 1.02,
-        "San Marino": 66.0,
-        "Draw": 19.0
+        "Faroe Islands": 1.75,
+        "Moldova": 4.33,
+        "Draw": 3.2
       },
       "Betfair": {
-        "Finland": 1.02,
-        "San Marino": 95.0,
-        "Draw": 50.0
+        "Faroe Islands": 1.83,
+        "Moldova": 5.2,
+        "Draw": 3.65
       },
       "Pinnacle": {
-        "Finland": 1.03,
-        "San Marino": 51.0,
-        "Draw": 20.0
+        "Faroe Islands": 1.81,
+        "Moldova": 4.85,
+        "Draw": 3.49
       },
       "BetOnline.ag": {
-        "Finland": 1.03,
-        "San Marino": 46.0,
-        "Draw": 18.25
+        "Faroe Islands": 1.81,
+        "Moldova": 4.8,
+        "Draw": 3.45
+      },
+      "Marathon Bet": {
+        "Faroe Islands": 1.83,
+        "Moldova": 4.75,
+        "Draw": 3.5
       },
       "BetAnything": {
-        "Finland": 1.03,
-        "San Marino": 46.0,
-        "Draw": 18.25
+        "Faroe Islands": 1.81,
+        "Moldova": 4.8,
+        "Draw": 3.45
+      }
+    },
+    "624805725e5cd075b0c5d77eb755bded:h2h": {
+      "Unibet (SE)": {
+        "Kazakhstan": 4.1,
+        "Slovakia": 1.93,
+        "Draw": 3.3
+      },
+      "PMU (FR)": {
+        "Kazakhstan": 3.75,
+        "Slovakia": 1.82,
+        "Draw": 3.05
+      },
+      "LeoVegas (SE)": {
+        "Kazakhstan": 4.1,
+        "Slovakia": 1.93,
+        "Draw": 3.3
+      },
+      "Betclic (FR)": {
+        "Kazakhstan": 3.47,
+        "Slovakia": 1.93,
+        "Draw": 3.28
+      },
+      "Winamax (FR)": {
+        "Kazakhstan": 3.2,
+        "Slovakia": 1.9,
+        "Draw": 3.2
+      },
+      "Winamax (DE)": {
+        "Kazakhstan": 3.4,
+        "Slovakia": 1.98,
+        "Draw": 3.4
+      },
+      "1xBet": {
+        "Kazakhstan": 3.87,
+        "Slovakia": 2.03,
+        "Draw": 3.56
+      },
+      "MyBookie.ag": {
+        "Kazakhstan": 3.5,
+        "Slovakia": 2.01,
+        "Draw": 3.34
+      },
+      "Nordic Bet": {
+        "Kazakhstan": 3.55,
+        "Slovakia": 2.02,
+        "Draw": 3.3
+      },
+      "Betsson": {
+        "Kazakhstan": 3.55,
+        "Slovakia": 2.02,
+        "Draw": 3.3
+      },
+      "888sport": {
+        "Kazakhstan": 3.6,
+        "Slovakia": 2.0,
+        "Draw": 3.3
+      },
+      "William Hill": {
+        "Kazakhstan": 3.5,
+        "Slovakia": 1.95,
+        "Draw": 3.25
+      },
+      "Pinnacle": {
+        "Kazakhstan": 3.69,
+        "Slovakia": 2.07,
+        "Draw": 3.47
+      },
+      "BetOnline.ag": {
+        "Kazakhstan": 3.67,
+        "Slovakia": 2.05,
+        "Draw": 3.45
+      },
+      "Betfair": {
+        "Kazakhstan": 3.9,
+        "Slovakia": 2.12,
+        "Draw": 3.5
+      },
+      "Marathon Bet": {
+        "Kazakhstan": 3.82,
+        "Slovakia": 2.01,
+        "Draw": 3.52
+      },
+      "BetAnything": {
+        "Kazakhstan": 3.67,
+        "Slovakia": 2.05,
+        "Draw": 3.45
+      }
+    },
+    "ecd230f843c9072eb58a4527ec50f9f1:h2h": {
+      "Tipico": {
+        "Bayer Leverkusen": 1.45,
+        "VfB Stuttgart": 5.2,
+        "Draw": 4.3
+      },
+      "888sport": {
+        "Bayer Leverkusen": 1.5,
+        "VfB Stuttgart": 5.0,
+        "Draw": 3.8
+      },
+      "William Hill": {
+        "Bayer Leverkusen": 1.5,
+        "VfB Stuttgart": 5.0,
+        "Draw": 3.8
+      },
+      "Pinnacle": {
+        "Bayer Leverkusen": 1.51,
+        "VfB Stuttgart": 5.33,
+        "Draw": 4.29
+      },
+      "1xBet": {
+        "Bayer Leverkusen": 1.47,
+        "VfB Stuttgart": 5.17,
+        "Draw": 4.25
+      },
+      "Unibet (NL)": {
+        "Bayer Leverkusen": 1.54,
+        "VfB Stuttgart": 4.5,
+        "Draw": 3.95
+      },
+      "Unibet (SE)": {
+        "Bayer Leverkusen": 1.54,
+        "VfB Stuttgart": 4.5,
+        "Draw": 3.95
+      },
+      "LeoVegas (SE)": {
+        "Bayer Leverkusen": 1.54,
+        "VfB Stuttgart": 4.5,
+        "Draw": 3.95
+      }
+    },
+    "916289ed44f8362ac93035147b7c7fce:h2h": {
+      "PMU (FR)": {
+        "Bulgaria": 3.45,
+        "Estonia": 1.94,
+        "Draw": 2.9
+      },
+      "Betclic (FR)": {
+        "Bulgaria": 3.6,
+        "Estonia": 1.98,
+        "Draw": 3.03
+      },
+      "Winamax (FR)": {
+        "Bulgaria": 3.35,
+        "Estonia": 1.96,
+        "Draw": 2.95
+      },
+      "1xBet": {
+        "Bulgaria": 3.82,
+        "Estonia": 2.15,
+        "Draw": 3.27
+      },
+      "MyBookie.ag": {
+        "Bulgaria": 3.65,
+        "Estonia": 2.07,
+        "Draw": 3.08
+      },
+      "Betsson": {
+        "Bulgaria": 3.7,
+        "Estonia": 2.02,
+        "Draw": 3.15
+      },
+      "Nordic Bet": {
+        "Bulgaria": 3.7,
+        "Estonia": 2.02,
+        "Draw": 3.15
+      },
+      "888sport": {
+        "Bulgaria": 3.6,
+        "Estonia": 2.05,
+        "Draw": 3.0
+      },
+      "William Hill": {
+        "Bulgaria": 3.5,
+        "Estonia": 2.05,
+        "Draw": 3.0
+      },
+      "Marathon Bet": {
+        "Bulgaria": 3.78,
+        "Estonia": 2.13,
+        "Draw": 3.24
+      },
+      "Betfair": {
+        "Bulgaria": 3.95,
+        "Estonia": 2.16,
+        "Draw": 3.4
+      },
+      "Pinnacle": {
+        "Bulgaria": 3.97,
+        "Estonia": 2.09,
+        "Draw": 3.21
+      },
+      "BetOnline.ag": {
+        "Bulgaria": 3.93,
+        "Estonia": 2.07,
+        "Draw": 3.2
+      },
+      "BetAnything": {
+        "Bulgaria": 3.93,
+        "Estonia": 2.07,
+        "Draw": 3.2
       }
     }
   },
@@ -2458,21 +2605,43 @@
       "confidence": 140,
       "alert_type": "value",
       "alerted_at": "2026-11-15T17:00:21.270111+00:00"
+    },
+    {
+      "state_key": "624805725e5cd075b0c5d77eb755bded:h2h",
+      "event_id": "624805725e5cd075b0c5d77eb755bded",
+      "sport_key": "soccer",
+      "competition": "UEFA Nations League",
+      "home_team": "Kazakhstan",
+      "away_team": "Slovakia",
+      "commence_time": "2026-11-16T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Kazakhstan",
+      "odds_at_alert": 4.1,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-11-15T22:44:43.088403+00:00"
+    },
+    {
+      "state_key": "624805725e5cd075b0c5d77eb755bded:h2h",
+      "event_id": "624805725e5cd075b0c5d77eb755bded",
+      "sport_key": "soccer",
+      "competition": "UEFA Nations League",
+      "home_team": "Kazakhstan",
+      "away_team": "Slovakia",
+      "commence_time": "2026-11-16T15:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Kazakhstan",
+      "odds_at_alert": 4.1,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-11-15T22:44:43.378508+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "81fa502a09faf261c1aaf2a33eb7db07:h2h|Tipico|1. FC Nürnberg",
-    "81fa502a09faf261c1aaf2a33eb7db07:h2h|Tipico|Draw",
-    "b37cfed1f792e0804c4f1e6a1c951f65:h2h|888sport|San Marino",
-    "b37cfed1f792e0804c4f1e6a1c951f65:h2h|Betfair|Draw",
-    "b37cfed1f792e0804c4f1e6a1c951f65:h2h|Betfair|San Marino",
-    "b37cfed1f792e0804c4f1e6a1c951f65:h2h|Betsson|Draw",
-    "b37cfed1f792e0804c4f1e6a1c951f65:h2h|Betsson|San Marino",
-    "b37cfed1f792e0804c4f1e6a1c951f65:h2h|Nordic Bet|Draw",
-    "b37cfed1f792e0804c4f1e6a1c951f65:h2h|Nordic Bet|San Marino",
-    "b37cfed1f792e0804c4f1e6a1c951f65:h2h|Unibet (SE)|Draw",
-    "b37cfed1f792e0804c4f1e6a1c951f65:h2h|Unibet (SE)|San Marino",
-    "b37cfed1f792e0804c4f1e6a1c951f65:h2h|William Hill|San Marino"
+    "624805725e5cd075b0c5d77eb755bded:h2h|LeoVegas (SE)|Kazakhstan",
+    "624805725e5cd075b0c5d77eb755bded:h2h|Unibet (SE)|Kazakhstan"
   ]
 }
