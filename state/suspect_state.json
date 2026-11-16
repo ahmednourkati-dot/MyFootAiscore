@@ -1,286 +1,156 @@
 {
   "snapshots": {
-    "5ae7a0b002778fc547ce96abf6bf8547:h2h": {
-      "Unibet (SE)": {
-        "Faroe Islands": 1.78,
-        "Moldova": 4.9,
-        "Draw": 3.45
-      },
-      "PMU (FR)": {
-        "Faroe Islands": 1.67,
-        "Moldova": 4.4,
-        "Draw": 3.15
-      },
-      "Betclic (FR)": {
-        "Faroe Islands": 1.72,
-        "Moldova": 4.55,
-        "Draw": 3.35
-      },
-      "LeoVegas (SE)": {
-        "Faroe Islands": 1.78,
-        "Moldova": 4.9,
-        "Draw": 3.45
-      },
-      "Winamax (FR)": {
-        "Faroe Islands": 1.68,
-        "Moldova": 4.1,
-        "Draw": 3.25
-      },
-      "1xBet": {
-        "Faroe Islands": 1.85,
-        "Moldova": 4.8,
-        "Draw": 3.54
-      },
-      "MyBookie.ag": {
-        "Faroe Islands": 1.78,
-        "Moldova": 4.6,
-        "Draw": 3.36
-      },
-      "Betsson": {
-        "Faroe Islands": 1.78,
-        "Moldova": 4.65,
-        "Draw": 3.3
-      },
-      "Nordic Bet": {
-        "Faroe Islands": 1.78,
-        "Moldova": 4.65,
-        "Draw": 3.3
-      },
-      "888sport": {
-        "Faroe Islands": 1.8,
-        "Moldova": 4.6,
-        "Draw": 3.3
-      },
-      "William Hill": {
-        "Faroe Islands": 1.75,
-        "Moldova": 4.4,
-        "Draw": 3.2
-      },
-      "Betfair": {
-        "Faroe Islands": 1.86,
-        "Moldova": 5.2,
-        "Draw": 3.6
-      },
-      "Pinnacle": {
-        "Faroe Islands": 1.81,
-        "Moldova": 4.99,
-        "Draw": 3.48
-      },
-      "BetOnline.ag": {
-        "Faroe Islands": 1.81,
-        "Moldova": 4.8,
-        "Draw": 3.45
-      },
-      "Marathon Bet": {
-        "Faroe Islands": 1.83,
-        "Moldova": 4.75,
-        "Draw": 3.5
-      },
-      "BetAnything": {
-        "Faroe Islands": 1.81,
-        "Moldova": 4.8,
-        "Draw": 3.45
-      }
-    },
-    "624805725e5cd075b0c5d77eb755bded:h2h": {
-      "Unibet (SE)": {
-        "Kazakhstan": 4.1,
-        "Slovakia": 1.91,
-        "Draw": 3.4
-      },
-      "PMU (FR)": {
-        "Kazakhstan": 3.8,
-        "Slovakia": 1.79,
-        "Draw": 3.15
-      },
-      "LeoVegas (SE)": {
-        "Kazakhstan": 4.1,
-        "Slovakia": 1.91,
-        "Draw": 3.4
-      },
-      "Betclic (FR)": {
-        "Kazakhstan": 3.95,
-        "Slovakia": 1.8,
-        "Draw": 3.42
-      },
-      "Winamax (FR)": {
-        "Kazakhstan": 3.6,
-        "Slovakia": 1.76,
-        "Draw": 3.3
-      },
-      "Winamax (DE)": {
-        "Kazakhstan": 3.8,
-        "Slovakia": 1.82,
-        "Draw": 3.5
-      },
-      "1xBet": {
-        "Kazakhstan": 4.19,
-        "Slovakia": 1.94,
-        "Draw": 3.62
-      },
-      "MyBookie.ag": {
-        "Kazakhstan": 3.95,
-        "Slovakia": 1.86,
-        "Draw": 3.44
-      },
-      "Nordic Bet": {
-        "Kazakhstan": 4.1,
-        "Slovakia": 1.85,
-        "Draw": 3.4
-      },
-      "Betsson": {
-        "Kazakhstan": 4.1,
-        "Slovakia": 1.85,
-        "Draw": 3.4
-      },
-      "888sport": {
-        "Kazakhstan": 4.0,
-        "Slovakia": 1.85,
-        "Draw": 3.3
-      },
-      "William Hill": {
-        "Kazakhstan": 3.9,
-        "Slovakia": 1.85,
-        "Draw": 3.3
-      },
-      "Pinnacle": {
-        "Kazakhstan": 4.36,
-        "Slovakia": 1.86,
-        "Draw": 3.68
-      },
-      "BetOnline.ag": {
-        "Kazakhstan": 4.25,
-        "Slovakia": 1.86,
-        "Draw": 3.6
-      },
-      "Betfair": {
-        "Kazakhstan": 4.5,
-        "Slovakia": 1.93,
-        "Draw": 3.7
-      },
-      "Marathon Bet": {
-        "Kazakhstan": 4.15,
-        "Slovakia": 1.92,
-        "Draw": 3.58
-      },
-      "BetAnything": {
-        "Kazakhstan": 4.25,
-        "Slovakia": 1.86,
-        "Draw": 3.6
-      }
-    },
     "ecd230f843c9072eb58a4527ec50f9f1:h2h": {
       "Tipico": {
-        "Bayer Leverkusen": 1.5,
-        "VfB Stuttgart": 4.8,
-        "Draw": 4.1
+        "Bayer Leverkusen": 1.13,
+        "VfB Stuttgart": 25.0,
+        "Draw": 5.5
       },
       "888sport": {
-        "Bayer Leverkusen": 1.57,
-        "VfB Stuttgart": 4.5,
-        "Draw": 3.7
+        "Bayer Leverkusen": 1.17,
+        "VfB Stuttgart": 19.0,
+        "Draw": 5.0
       },
       "William Hill": {
-        "Bayer Leverkusen": 1.57,
-        "VfB Stuttgart": 4.5,
-        "Draw": 3.7
+        "Bayer Leverkusen": 1.17,
+        "VfB Stuttgart": 19.0,
+        "Draw": 5.0
       },
       "Pinnacle": {
-        "Bayer Leverkusen": 1.57,
-        "VfB Stuttgart": 4.81,
-        "Draw": 4.15
-      },
-      "1xBet": {
-        "Bayer Leverkusen": 1.55,
-        "VfB Stuttgart": 4.54,
-        "Draw": 4.1
+        "Bayer Leverkusen": 2.27,
+        "VfB Stuttgart": 4.57,
+        "Draw": 2.37
       },
       "Unibet (NL)": {
-        "Bayer Leverkusen": 1.54,
-        "VfB Stuttgart": 4.5,
-        "Draw": 3.95
+        "Bayer Leverkusen": 1.18,
+        "VfB Stuttgart": 15.0,
+        "Draw": 4.9
       },
       "Unibet (SE)": {
-        "Bayer Leverkusen": 1.54,
-        "VfB Stuttgart": 4.5,
-        "Draw": 3.95
+        "Bayer Leverkusen": 1.18,
+        "VfB Stuttgart": 15.0,
+        "Draw": 4.9
       },
       "LeoVegas (SE)": {
-        "Bayer Leverkusen": 1.54,
-        "VfB Stuttgart": 4.5,
-        "Draw": 3.95
+        "Bayer Leverkusen": 1.14,
+        "VfB Stuttgart": 15.0,
+        "Draw": 4.6
       }
     },
     "916289ed44f8362ac93035147b7c7fce:h2h": {
       "PMU (FR)": {
-        "Bulgaria": 3.55,
-        "Estonia": 1.95,
-        "Draw": 2.85
+        "Bulgaria": 15.0,
+        "Estonia": 1.18,
+        "Draw": 4.25
       },
       "Betclic (FR)": {
-        "Bulgaria": 3.6,
-        "Estonia": 1.98,
-        "Draw": 3.15
+        "Bulgaria": 11.5,
+        "Estonia": 1.25,
+        "Draw": 3.43
       },
       "Winamax (FR)": {
-        "Bulgaria": 3.3,
-        "Estonia": 1.94,
-        "Draw": 3.05
-      },
-      "1xBet": {
-        "Bulgaria": 3.88,
-        "Estonia": 2.09,
-        "Draw": 3.38
+        "Bulgaria": 13.0,
+        "Estonia": 1.24,
+        "Draw": 3.5
       },
       "MyBookie.ag": {
-        "Bulgaria": 3.6,
-        "Estonia": 2.05,
-        "Draw": 3.16
+        "Bulgaria": 10.5,
+        "Estonia": 1.3,
+        "Draw": 3.8
       },
       "Betsson": {
-        "Bulgaria": 3.7,
-        "Estonia": 2.02,
-        "Draw": 3.15
+        "Bulgaria": 14.0,
+        "Estonia": 1.31,
+        "Draw": 3.9
       },
       "Nordic Bet": {
-        "Bulgaria": 3.7,
-        "Estonia": 2.02,
-        "Draw": 3.15
+        "Bulgaria": 16.0,
+        "Estonia": 1.28,
+        "Draw": 3.9
       },
       "888sport": {
-        "Bulgaria": 3.6,
-        "Estonia": 2.05,
-        "Draw": 3.1
-      },
-      "William Hill": {
-        "Bulgaria": 3.5,
-        "Estonia": 2.05,
-        "Draw": 3.0
+        "Bulgaria": 13.0,
+        "Estonia": 1.3,
+        "Draw": 4.0
       },
       "Marathon Bet": {
-        "Bulgaria": 3.84,
-        "Estonia": 2.07,
-        "Draw": 3.34
+        "Bulgaria": 15.25,
+        "Estonia": 1.32,
+        "Draw": 4.3
       },
       "Betfair": {
-        "Bulgaria": 4.1,
-        "Estonia": 2.12,
-        "Draw": 3.4
+        "Bulgaria": 24.0,
+        "Estonia": 1.36,
+        "Draw": 4.4
       },
       "Pinnacle": {
-        "Bulgaria": 3.93,
-        "Estonia": 2.1,
-        "Draw": 3.27
+        "Bulgaria": 16.47,
+        "Estonia": 1.33,
+        "Draw": 3.9
+      }
+    },
+    "ac7d106a75439c4ad8a33b2668bd68df:h2h": {
+      "Betclic (FR)": {
+        "Iceland": 1.0,
+        "Luxembourg": 100.0,
+        "Draw": 40.0
       },
-      "BetOnline.ag": {
-        "Bulgaria": 3.85,
-        "Estonia": 2.04,
-        "Draw": 3.33
+      "Nordic Bet": {
+        "Iceland": 1.0,
+        "Luxembourg": 29.0,
+        "Draw": 26.0
       },
-      "BetAnything": {
-        "Bulgaria": 3.85,
-        "Estonia": 2.04,
-        "Draw": 3.33
+      "Betsson": {
+        "Iceland": 1.0,
+        "Luxembourg": 29.0,
+        "Draw": 26.0
+      }
+    },
+    "13eb6e805b513e9d1fbad120c68cd1a0:h2h": {
+      "Unibet (SE)": {
+        "Liechtenstein": 121.0,
+        "Lithuania": 1.02,
+        "Draw": 17.0
+      },
+      "888sport": {
+        "Liechtenstein": 126.0,
+        "Lithuania": 1.02,
+        "Draw": 21.0
+      },
+      "Marathon Bet": {
+        "Liechtenstein": 73.0,
+        "Lithuania": 1.0,
+        "Draw": 21.0
+      },
+      "Betsson": {
+        "Liechtenstein": 46.0,
+        "Lithuania": 1.01,
+        "Draw": 12.0
+      },
+      "Nordic Bet": {
+        "Liechtenstein": 46.0,
+        "Lithuania": 1.01,
+        "Draw": 12.0
+      },
+      "Betfair": {
+        "Liechtenstein": 120.0,
+        "Lithuania": 1.03,
+        "Draw": 32.0
+      },
+      "Winamax (DE)": {
+        "Liechtenstein": 130.0,
+        "Lithuania": 1.01,
+        "Draw": 22.0
+      },
+      "Winamax (FR)": {
+        "Liechtenstein": 130.0,
+        "Lithuania": 1.01,
+        "Draw": 21.0
+      },
+      "Betclic (FR)": {
+        "Liechtenstein": 45.0,
+        "Lithuania": 1.01,
+        "Draw": 12.0
       }
     }
   },
@@ -2029,11 +1899,247 @@
       "confidence": 7,
       "alert_type": "value",
       "alerted_at": "2026-11-15T22:44:43.378508+00:00"
+    },
+    {
+      "state_key": "916289ed44f8362ac93035147b7c7fce:h2h",
+      "event_id": "916289ed44f8362ac93035147b7c7fce",
+      "sport_key": "soccer",
+      "competition": "UEFA Nations League",
+      "home_team": "Estonia",
+      "away_team": "Bulgaria",
+      "commence_time": "2026-11-16T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Bulgaria",
+      "odds_at_alert": 24.0,
+      "stake_pct": 5.0,
+      "confidence": 36,
+      "alert_type": "value",
+      "alerted_at": "2026-11-16T18:23:48.708862+00:00"
+    },
+    {
+      "state_key": "916289ed44f8362ac93035147b7c7fce:h2h",
+      "event_id": "916289ed44f8362ac93035147b7c7fce",
+      "sport_key": "soccer",
+      "competition": "UEFA Nations League",
+      "home_team": "Estonia",
+      "away_team": "Bulgaria",
+      "commence_time": "2026-11-16T17:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.4,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-11-16T18:23:49.074776+00:00"
+    },
+    {
+      "state_key": "ecd230f843c9072eb58a4527ec50f9f1:h2h",
+      "event_id": "ecd230f843c9072eb58a4527ec50f9f1",
+      "sport_key": "soccer",
+      "competition": "Frauen-Bundesliga",
+      "home_team": "VfB Stuttgart",
+      "away_team": "Bayer Leverkusen",
+      "commence_time": "2026-11-16T17:00:03Z",
+      "market_label": "Cotes 1X2",
+      "selection": "VfB Stuttgart",
+      "odds_at_alert": 25.0,
+      "stake_pct": 5.0,
+      "confidence": 406,
+      "alert_type": "value",
+      "alerted_at": "2026-11-16T18:23:49.403864+00:00"
+    },
+    {
+      "state_key": "ecd230f843c9072eb58a4527ec50f9f1:h2h",
+      "event_id": "ecd230f843c9072eb58a4527ec50f9f1",
+      "sport_key": "soccer",
+      "competition": "Frauen-Bundesliga",
+      "home_team": "VfB Stuttgart",
+      "away_team": "Bayer Leverkusen",
+      "commence_time": "2026-11-16T17:00:03Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.5,
+      "stake_pct": 5.0,
+      "confidence": 115,
+      "alert_type": "value",
+      "alerted_at": "2026-11-16T18:23:49.753905+00:00"
+    },
+    {
+      "state_key": "ecd230f843c9072eb58a4527ec50f9f1:h2h",
+      "event_id": "ecd230f843c9072eb58a4527ec50f9f1",
+      "sport_key": "soccer",
+      "competition": "Frauen-Bundesliga",
+      "home_team": "VfB Stuttgart",
+      "away_team": "Bayer Leverkusen",
+      "commence_time": "2026-11-16T17:00:03Z",
+      "market_label": "Cotes 1X2",
+      "selection": "VfB Stuttgart",
+      "odds_at_alert": 19.0,
+      "stake_pct": 5.0,
+      "confidence": 284,
+      "alert_type": "value",
+      "alerted_at": "2026-11-16T18:23:50.107652+00:00"
+    },
+    {
+      "state_key": "ecd230f843c9072eb58a4527ec50f9f1:h2h",
+      "event_id": "ecd230f843c9072eb58a4527ec50f9f1",
+      "sport_key": "soccer",
+      "competition": "Frauen-Bundesliga",
+      "home_team": "VfB Stuttgart",
+      "away_team": "Bayer Leverkusen",
+      "commence_time": "2026-11-16T17:00:03Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.0,
+      "stake_pct": 5.0,
+      "confidence": 95,
+      "alert_type": "value",
+      "alerted_at": "2026-11-16T18:23:50.440256+00:00"
+    },
+    {
+      "state_key": "ecd230f843c9072eb58a4527ec50f9f1:h2h",
+      "event_id": "ecd230f843c9072eb58a4527ec50f9f1",
+      "sport_key": "soccer",
+      "competition": "Frauen-Bundesliga",
+      "home_team": "VfB Stuttgart",
+      "away_team": "Bayer Leverkusen",
+      "commence_time": "2026-11-16T17:00:03Z",
+      "market_label": "Cotes 1X2",
+      "selection": "VfB Stuttgart",
+      "odds_at_alert": 19.0,
+      "stake_pct": 5.0,
+      "confidence": 284,
+      "alert_type": "value",
+      "alerted_at": "2026-11-16T18:23:50.795815+00:00"
+    },
+    {
+      "state_key": "ecd230f843c9072eb58a4527ec50f9f1:h2h",
+      "event_id": "ecd230f843c9072eb58a4527ec50f9f1",
+      "sport_key": "soccer",
+      "competition": "Frauen-Bundesliga",
+      "home_team": "VfB Stuttgart",
+      "away_team": "Bayer Leverkusen",
+      "commence_time": "2026-11-16T17:00:03Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.0,
+      "stake_pct": 5.0,
+      "confidence": 95,
+      "alert_type": "value",
+      "alerted_at": "2026-11-16T18:23:51.129975+00:00"
+    },
+    {
+      "state_key": "ecd230f843c9072eb58a4527ec50f9f1:h2h",
+      "event_id": "ecd230f843c9072eb58a4527ec50f9f1",
+      "sport_key": "soccer",
+      "competition": "Frauen-Bundesliga",
+      "home_team": "VfB Stuttgart",
+      "away_team": "Bayer Leverkusen",
+      "commence_time": "2026-11-16T17:00:03Z",
+      "market_label": "Cotes 1X2",
+      "selection": "VfB Stuttgart",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 204,
+      "alert_type": "value",
+      "alerted_at": "2026-11-16T18:23:51.494794+00:00"
+    },
+    {
+      "state_key": "ecd230f843c9072eb58a4527ec50f9f1:h2h",
+      "event_id": "ecd230f843c9072eb58a4527ec50f9f1",
+      "sport_key": "soccer",
+      "competition": "Frauen-Bundesliga",
+      "home_team": "VfB Stuttgart",
+      "away_team": "Bayer Leverkusen",
+      "commence_time": "2026-11-16T17:00:03Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.9,
+      "stake_pct": 5.0,
+      "confidence": 91,
+      "alert_type": "value",
+      "alerted_at": "2026-11-16T18:23:51.873606+00:00"
+    },
+    {
+      "state_key": "ecd230f843c9072eb58a4527ec50f9f1:h2h",
+      "event_id": "ecd230f843c9072eb58a4527ec50f9f1",
+      "sport_key": "soccer",
+      "competition": "Frauen-Bundesliga",
+      "home_team": "VfB Stuttgart",
+      "away_team": "Bayer Leverkusen",
+      "commence_time": "2026-11-16T17:00:03Z",
+      "market_label": "Cotes 1X2",
+      "selection": "VfB Stuttgart",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 204,
+      "alert_type": "value",
+      "alerted_at": "2026-11-16T18:23:52.264550+00:00"
+    },
+    {
+      "state_key": "ecd230f843c9072eb58a4527ec50f9f1:h2h",
+      "event_id": "ecd230f843c9072eb58a4527ec50f9f1",
+      "sport_key": "soccer",
+      "competition": "Frauen-Bundesliga",
+      "home_team": "VfB Stuttgart",
+      "away_team": "Bayer Leverkusen",
+      "commence_time": "2026-11-16T17:00:03Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.9,
+      "stake_pct": 5.0,
+      "confidence": 91,
+      "alert_type": "value",
+      "alerted_at": "2026-11-16T18:23:52.624076+00:00"
+    },
+    {
+      "state_key": "ecd230f843c9072eb58a4527ec50f9f1:h2h",
+      "event_id": "ecd230f843c9072eb58a4527ec50f9f1",
+      "sport_key": "soccer",
+      "competition": "Frauen-Bundesliga",
+      "home_team": "VfB Stuttgart",
+      "away_team": "Bayer Leverkusen",
+      "commence_time": "2026-11-16T17:00:03Z",
+      "market_label": "Cotes 1X2",
+      "selection": "VfB Stuttgart",
+      "odds_at_alert": 15.0,
+      "stake_pct": 5.0,
+      "confidence": 204,
+      "alert_type": "value",
+      "alerted_at": "2026-11-16T18:23:52.963961+00:00"
+    },
+    {
+      "state_key": "ecd230f843c9072eb58a4527ec50f9f1:h2h",
+      "event_id": "ecd230f843c9072eb58a4527ec50f9f1",
+      "sport_key": "soccer",
+      "competition": "Frauen-Bundesliga",
+      "home_team": "VfB Stuttgart",
+      "away_team": "Bayer Leverkusen",
+      "commence_time": "2026-11-16T17:00:03Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 4.6,
+      "stake_pct": 5.0,
+      "confidence": 80,
+      "alert_type": "value",
+      "alerted_at": "2026-11-16T18:23:53.313890+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "624805725e5cd075b0c5d77eb755bded:h2h|LeoVegas (SE)|Kazakhstan",
-    "624805725e5cd075b0c5d77eb755bded:h2h|Unibet (SE)|Kazakhstan"
+    "916289ed44f8362ac93035147b7c7fce:h2h|Betfair|Bulgaria",
+    "916289ed44f8362ac93035147b7c7fce:h2h|Betfair|Draw",
+    "ecd230f843c9072eb58a4527ec50f9f1:h2h|888sport|Draw",
+    "ecd230f843c9072eb58a4527ec50f9f1:h2h|888sport|VfB Stuttgart",
+    "ecd230f843c9072eb58a4527ec50f9f1:h2h|LeoVegas (SE)|Draw",
+    "ecd230f843c9072eb58a4527ec50f9f1:h2h|LeoVegas (SE)|VfB Stuttgart",
+    "ecd230f843c9072eb58a4527ec50f9f1:h2h|Tipico|Draw",
+    "ecd230f843c9072eb58a4527ec50f9f1:h2h|Tipico|VfB Stuttgart",
+    "ecd230f843c9072eb58a4527ec50f9f1:h2h|Unibet (NL)|Draw",
+    "ecd230f843c9072eb58a4527ec50f9f1:h2h|Unibet (NL)|VfB Stuttgart",
+    "ecd230f843c9072eb58a4527ec50f9f1:h2h|Unibet (SE)|Draw",
+    "ecd230f843c9072eb58a4527ec50f9f1:h2h|Unibet (SE)|VfB Stuttgart",
+    "ecd230f843c9072eb58a4527ec50f9f1:h2h|William Hill|Draw",
+    "ecd230f843c9072eb58a4527ec50f9f1:h2h|William Hill|VfB Stuttgart"
   ]
 }
