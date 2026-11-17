@@ -1,156 +1,326 @@
 {
   "snapshots": {
-    "ecd230f843c9072eb58a4527ec50f9f1:h2h": {
-      "Tipico": {
-        "Bayer Leverkusen": 1.13,
-        "VfB Stuttgart": 25.0,
-        "Draw": 5.5
+    "90db407c8de9079c354e857f9953c38c:h2h": {
+      "Pinnacle": {
+        "Luton": 1.53,
+        "Peterborough United": 4.88,
+        "Draw": 4.74
+      },
+      "Betfair": {
+        "Luton": 1.59,
+        "Peterborough United": 5.1,
+        "Draw": 5.1
+      },
+      "Marathon Bet": {
+        "Luton": 1.48,
+        "Peterborough United": 4.85,
+        "Draw": 4.4
+      },
+      "1xBet": {
+        "Luton": 1.49,
+        "Peterborough United": 5.0,
+        "Draw": 4.4
       },
       "888sport": {
-        "Bayer Leverkusen": 1.17,
-        "VfB Stuttgart": 19.0,
-        "Draw": 5.0
+        "Luton": 1.5,
+        "Peterborough United": 4.6,
+        "Draw": 4.2
       },
       "William Hill": {
-        "Bayer Leverkusen": 1.17,
-        "VfB Stuttgart": 19.0,
-        "Draw": 5.0
-      },
-      "Pinnacle": {
-        "Bayer Leverkusen": 2.27,
-        "VfB Stuttgart": 4.57,
-        "Draw": 2.37
+        "Luton": 1.5,
+        "Peterborough United": 4.6,
+        "Draw": 4.2
       },
       "Unibet (NL)": {
-        "Bayer Leverkusen": 1.18,
-        "VfB Stuttgart": 15.0,
-        "Draw": 4.9
-      },
-      "Unibet (SE)": {
-        "Bayer Leverkusen": 1.18,
-        "VfB Stuttgart": 15.0,
-        "Draw": 4.9
-      },
-      "LeoVegas (SE)": {
-        "Bayer Leverkusen": 1.14,
-        "VfB Stuttgart": 15.0,
-        "Draw": 4.6
-      }
-    },
-    "916289ed44f8362ac93035147b7c7fce:h2h": {
-      "PMU (FR)": {
-        "Bulgaria": 15.0,
-        "Estonia": 1.18,
+        "Luton": 1.54,
+        "Peterborough United": 4.35,
         "Draw": 4.25
       },
+      "LeoVegas (SE)": {
+        "Luton": 1.54,
+        "Peterborough United": 4.35,
+        "Draw": 4.25
+      },
+      "Unibet (SE)": {
+        "Luton": 1.54,
+        "Peterborough United": 4.35,
+        "Draw": 4.25
+      },
+      "Tipico": {
+        "Luton": 1.42,
+        "Peterborough United": 5.0,
+        "Draw": 4.7
+      },
+      "Matchbook": {
+        "Luton": 1.5,
+        "Peterborough United": 4.7,
+        "Draw": 4.7
+      }
+    },
+    "e71a4a4fea03d00873c285c5b55a9864:h2h": {
+      "Betfair": {
+        "Austria": 1.9,
+        "Israel": 4.5,
+        "Draw": 3.85
+      },
+      "Marathon Bet": {
+        "Austria": 1.82,
+        "Israel": 4.3,
+        "Draw": 3.82
+      },
+      "888sport": {
+        "Austria": 1.8,
+        "Israel": 4.0,
+        "Draw": 3.6
+      },
       "Betclic (FR)": {
-        "Bulgaria": 11.5,
-        "Estonia": 1.25,
-        "Draw": 3.43
+        "Austria": 1.76,
+        "Israel": 3.8,
+        "Draw": 3.58
+      },
+      "PMU (FR)": {
+        "Austria": 1.61,
+        "Israel": 4.1,
+        "Draw": 3.65
+      },
+      "MyBookie.ag": {
+        "Austria": 1.83,
+        "Israel": 3.85,
+        "Draw": 3.65
+      },
+      "LeoVegas (SE)": {
+        "Austria": 1.7,
+        "Israel": 4.35,
+        "Draw": 3.85
+      },
+      "William Hill": {
+        "Austria": 1.75,
+        "Israel": 3.9,
+        "Draw": 3.5
+      },
+      "Unibet (SE)": {
+        "Austria": 1.75,
+        "Israel": 4.6,
+        "Draw": 4.1
       },
       "Winamax (FR)": {
-        "Bulgaria": 13.0,
-        "Estonia": 1.24,
+        "Austria": 1.76,
+        "Israel": 3.6,
+        "Draw": 3.55
+      },
+      "Winamax (DE)": {
+        "Austria": 1.82,
+        "Israel": 3.8,
+        "Draw": 3.8
+      },
+      "1xBet": {
+        "Austria": 1.84,
+        "Israel": 4.35,
+        "Draw": 3.87
+      },
+      "Pinnacle": {
+        "Austria": 1.86,
+        "Israel": 4.16,
+        "Draw": 3.85
+      },
+      "BetOnline.ag": {
+        "Austria": 1.85,
+        "Israel": 4.15,
+        "Draw": 3.75
+      },
+      "Betsson": {
+        "Austria": 1.85,
+        "Israel": 4.1,
+        "Draw": 3.6
+      },
+      "Nordic Bet": {
+        "Austria": 1.85,
+        "Israel": 4.1,
+        "Draw": 3.6
+      },
+      "BetAnything": {
+        "Austria": 1.85,
+        "Israel": 4.15,
+        "Draw": 3.75
+      }
+    },
+    "3eb1d15a190bb1be8c32a020365dc7c2:h2h": {
+      "Unibet (SE)": {
+        "Bosnia & Herzegovina": 1.92,
+        "Romania": 4.2,
+        "Draw": 3.7
+      },
+      "888sport": {
+        "Bosnia & Herzegovina": 1.85,
+        "Romania": 3.75,
+        "Draw": 3.5
+      },
+      "Betfair": {
+        "Bosnia & Herzegovina": 2.04,
+        "Romania": 4.0,
+        "Draw": 3.8
+      },
+      "Marathon Bet": {
+        "Bosnia & Herzegovina": 1.92,
+        "Romania": 3.92,
+        "Draw": 3.74
+      },
+      "PMU (FR)": {
+        "Bosnia & Herzegovina": 1.76,
+        "Romania": 3.75,
+        "Draw": 3.3
+      },
+      "LeoVegas (SE)": {
+        "Bosnia & Herzegovina": 1.85,
+        "Romania": 3.95,
         "Draw": 3.5
       },
       "MyBookie.ag": {
-        "Bulgaria": 10.5,
-        "Estonia": 1.3,
-        "Draw": 3.8
+        "Bosnia & Herzegovina": 1.91,
+        "Romania": 3.65,
+        "Draw": 3.55
       },
-      "Betsson": {
-        "Bulgaria": 14.0,
-        "Estonia": 1.31,
-        "Draw": 3.9
-      },
-      "Nordic Bet": {
-        "Bulgaria": 16.0,
-        "Estonia": 1.28,
-        "Draw": 3.9
-      },
-      "888sport": {
-        "Bulgaria": 13.0,
-        "Estonia": 1.3,
-        "Draw": 4.0
-      },
-      "Marathon Bet": {
-        "Bulgaria": 15.25,
-        "Estonia": 1.32,
-        "Draw": 4.3
-      },
-      "Betfair": {
-        "Bulgaria": 24.0,
-        "Estonia": 1.36,
-        "Draw": 4.4
-      },
-      "Pinnacle": {
-        "Bulgaria": 16.47,
-        "Estonia": 1.33,
-        "Draw": 3.9
-      }
-    },
-    "ac7d106a75439c4ad8a33b2668bd68df:h2h": {
-      "Betclic (FR)": {
-        "Iceland": 1.0,
-        "Luxembourg": 100.0,
-        "Draw": 40.0
-      },
-      "Nordic Bet": {
-        "Iceland": 1.0,
-        "Luxembourg": 29.0,
-        "Draw": 26.0
-      },
-      "Betsson": {
-        "Iceland": 1.0,
-        "Luxembourg": 29.0,
-        "Draw": 26.0
-      }
-    },
-    "13eb6e805b513e9d1fbad120c68cd1a0:h2h": {
-      "Unibet (SE)": {
-        "Liechtenstein": 121.0,
-        "Lithuania": 1.02,
-        "Draw": 17.0
-      },
-      "888sport": {
-        "Liechtenstein": 126.0,
-        "Lithuania": 1.02,
-        "Draw": 21.0
-      },
-      "Marathon Bet": {
-        "Liechtenstein": 73.0,
-        "Lithuania": 1.0,
-        "Draw": 21.0
-      },
-      "Betsson": {
-        "Liechtenstein": 46.0,
-        "Lithuania": 1.01,
-        "Draw": 12.0
-      },
-      "Nordic Bet": {
-        "Liechtenstein": 46.0,
-        "Lithuania": 1.01,
-        "Draw": 12.0
-      },
-      "Betfair": {
-        "Liechtenstein": 120.0,
-        "Lithuania": 1.03,
-        "Draw": 32.0
+      "William Hill": {
+        "Bosnia & Herzegovina": 1.85,
+        "Romania": 3.6,
+        "Draw": 3.4
       },
       "Winamax (DE)": {
-        "Liechtenstein": 130.0,
-        "Lithuania": 1.01,
-        "Draw": 22.0
+        "Bosnia & Herzegovina": 1.9,
+        "Romania": 3.6,
+        "Draw": 3.65
       },
       "Winamax (FR)": {
-        "Liechtenstein": 130.0,
-        "Lithuania": 1.01,
-        "Draw": 21.0
+        "Bosnia & Herzegovina": 1.84,
+        "Romania": 3.4,
+        "Draw": 3.45
       },
       "Betclic (FR)": {
-        "Liechtenstein": 45.0,
-        "Lithuania": 1.01,
-        "Draw": 12.0
+        "Bosnia & Herzegovina": 1.84,
+        "Romania": 3.6,
+        "Draw": 3.47
+      },
+      "1xBet": {
+        "Bosnia & Herzegovina": 1.94,
+        "Romania": 3.96,
+        "Draw": 3.79
+      },
+      "Pinnacle": {
+        "Bosnia & Herzegovina": 1.94,
+        "Romania": 3.88,
+        "Draw": 3.76
+      },
+      "BetOnline.ag": {
+        "Bosnia & Herzegovina": 1.94,
+        "Romania": 3.75,
+        "Draw": 3.72
+      },
+      "Nordic Bet": {
+        "Bosnia & Herzegovina": 1.92,
+        "Romania": 3.7,
+        "Draw": 3.6
+      },
+      "Betsson": {
+        "Bosnia & Herzegovina": 1.92,
+        "Romania": 3.7,
+        "Draw": 3.6
+      },
+      "BetAnything": {
+        "Bosnia & Herzegovina": 1.94,
+        "Romania": 3.75,
+        "Draw": 3.72
+      }
+    },
+    "770e80269ec2ffddc826bc50330c475b:h2h": {
+      "Betfair": {
+        "Denmark": 2.4,
+        "Norway": 2.88,
+        "Draw": 4.2
+      },
+      "Matchbook": {
+        "Denmark": 2.4,
+        "Norway": 2.88,
+        "Draw": 4.2
+      },
+      "1xBet": {
+        "Denmark": 2.35,
+        "Norway": 2.83,
+        "Draw": 3.95
+      },
+      "Betclic (FR)": {
+        "Denmark": 2.25,
+        "Norway": 2.57,
+        "Draw": 3.65
+      },
+      "Winamax (FR)": {
+        "Denmark": 2.25,
+        "Norway": 2.45,
+        "Draw": 3.7
+      },
+      "Winamax (DE)": {
+        "Denmark": 2.2,
+        "Norway": 2.7,
+        "Draw": 3.85
+      },
+      "888sport": {
+        "Denmark": 2.3,
+        "Norway": 2.62,
+        "Draw": 3.7
+      },
+      "William Hill": {
+        "Denmark": 2.3,
+        "Norway": 2.62,
+        "Draw": 3.7
+      },
+      "MyBookie.ag": {
+        "Denmark": 2.28,
+        "Norway": 2.7,
+        "Draw": 3.7
+      },
+      "Marathon Bet": {
+        "Denmark": 2.35,
+        "Norway": 2.83,
+        "Draw": 3.95
+      },
+      "Unibet (SE)": {
+        "Denmark": 2.38,
+        "Norway": 2.75,
+        "Draw": 3.9
+      },
+      "LeoVegas (SE)": {
+        "Denmark": 2.3,
+        "Norway": 2.63,
+        "Draw": 3.7
+      },
+      "PMU (FR)": {
+        "Denmark": 2.2,
+        "Norway": 2.5,
+        "Draw": 3.5
+      },
+      "Betsson": {
+        "Denmark": 2.32,
+        "Norway": 2.85,
+        "Draw": 3.6
+      },
+      "Nordic Bet": {
+        "Denmark": 2.32,
+        "Norway": 2.85,
+        "Draw": 3.6
+      },
+      "Pinnacle": {
+        "Denmark": 2.32,
+        "Norway": 2.82,
+        "Draw": 4.1
+      },
+      "BetOnline.ag": {
+        "Denmark": 2.31,
+        "Norway": 2.82,
+        "Draw": 4.05
+      },
+      "BetAnything": {
+        "Denmark": 2.31,
+        "Norway": 2.82,
+        "Draw": 4.05
       }
     }
   },
@@ -2123,23 +2293,26 @@
       "confidence": 80,
       "alert_type": "value",
       "alerted_at": "2026-11-16T18:23:53.313890+00:00"
+    },
+    {
+      "state_key": "e71a4a4fea03d00873c285c5b55a9864:h2h",
+      "event_id": "e71a4a4fea03d00873c285c5b55a9864",
+      "sport_key": "soccer",
+      "competition": "UEFA Nations League",
+      "home_team": "Israel",
+      "away_team": "Austria",
+      "commence_time": "2026-11-17T19:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Israel",
+      "odds_at_alert": 4.6,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-11-17T02:53:42.033254+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "916289ed44f8362ac93035147b7c7fce:h2h|Betfair|Bulgaria",
-    "916289ed44f8362ac93035147b7c7fce:h2h|Betfair|Draw",
-    "ecd230f843c9072eb58a4527ec50f9f1:h2h|888sport|Draw",
-    "ecd230f843c9072eb58a4527ec50f9f1:h2h|888sport|VfB Stuttgart",
-    "ecd230f843c9072eb58a4527ec50f9f1:h2h|LeoVegas (SE)|Draw",
-    "ecd230f843c9072eb58a4527ec50f9f1:h2h|LeoVegas (SE)|VfB Stuttgart",
-    "ecd230f843c9072eb58a4527ec50f9f1:h2h|Tipico|Draw",
-    "ecd230f843c9072eb58a4527ec50f9f1:h2h|Tipico|VfB Stuttgart",
-    "ecd230f843c9072eb58a4527ec50f9f1:h2h|Unibet (NL)|Draw",
-    "ecd230f843c9072eb58a4527ec50f9f1:h2h|Unibet (NL)|VfB Stuttgart",
-    "ecd230f843c9072eb58a4527ec50f9f1:h2h|Unibet (SE)|Draw",
-    "ecd230f843c9072eb58a4527ec50f9f1:h2h|Unibet (SE)|VfB Stuttgart",
-    "ecd230f843c9072eb58a4527ec50f9f1:h2h|William Hill|Draw",
-    "ecd230f843c9072eb58a4527ec50f9f1:h2h|William Hill|VfB Stuttgart"
+    "e71a4a4fea03d00873c285c5b55a9864:h2h|Unibet (SE)|Israel"
   ]
 }
