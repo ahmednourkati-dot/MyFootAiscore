@@ -1,326 +1,216 @@
 {
   "snapshots": {
-    "90db407c8de9079c354e857f9953c38c:h2h": {
-      "Pinnacle": {
-        "Luton": 1.53,
-        "Peterborough United": 4.88,
-        "Draw": 4.74
-      },
-      "Betfair": {
-        "Luton": 1.59,
-        "Peterborough United": 5.1,
-        "Draw": 5.1
-      },
-      "Marathon Bet": {
-        "Luton": 1.48,
-        "Peterborough United": 4.85,
-        "Draw": 4.4
-      },
-      "1xBet": {
-        "Luton": 1.49,
-        "Peterborough United": 5.0,
-        "Draw": 4.4
+    "8d017c6bef33aa894ea91e1c1f3a5299:h2h": {
+      "Unibet (FR)": {
+        "BK Hacken": 6.9,
+        "Manchester City": 1.18,
+        "Draw": 4.65
       },
       "888sport": {
-        "Luton": 1.5,
-        "Peterborough United": 4.6,
-        "Draw": 4.2
+        "BK Hacken": 8.0,
+        "Manchester City": 1.25,
+        "Draw": 4.8
+      },
+      "Nordic Bet": {
+        "BK Hacken": 8.2,
+        "Manchester City": 1.25,
+        "Draw": 5.35
+      },
+      "Betsson": {
+        "BK Hacken": 8.2,
+        "Manchester City": 1.25,
+        "Draw": 5.35
+      },
+      "Betfair": {
+        "BK Hacken": 10.0,
+        "Manchester City": 1.32,
+        "Draw": 5.9
+      },
+      "Pinnacle": {
+        "BK Hacken": 8.55,
+        "Manchester City": 1.28,
+        "Draw": 5.63
+      },
+      "1xBet": {
+        "BK Hacken": 9.05,
+        "Manchester City": 1.24,
+        "Draw": 5.3
+      },
+      "Betclic (FR)": {
+        "BK Hacken": 7.75,
+        "Manchester City": 1.22,
+        "Draw": 5.25
       },
       "William Hill": {
-        "Luton": 1.5,
-        "Peterborough United": 4.6,
-        "Draw": 4.2
+        "BK Hacken": 8.0,
+        "Manchester City": 1.25,
+        "Draw": 4.75
+      },
+      "BetOnline.ag": {
+        "BK Hacken": 8.27,
+        "Manchester City": 1.26,
+        "Draw": 5.3
+      },
+      "Coolbet": {
+        "BK Hacken": 9.4,
+        "Manchester City": 1.27,
+        "Draw": 5.7
+      },
+      "PMU (FR)": {
+        "BK Hacken": 7.5,
+        "Manchester City": 1.21,
+        "Draw": 4.8
       },
       "Unibet (NL)": {
-        "Luton": 1.54,
-        "Peterborough United": 4.35,
-        "Draw": 4.25
-      },
-      "LeoVegas (SE)": {
-        "Luton": 1.54,
-        "Peterborough United": 4.35,
-        "Draw": 4.25
-      },
-      "Unibet (SE)": {
-        "Luton": 1.54,
-        "Peterborough United": 4.35,
-        "Draw": 4.25
-      },
-      "Tipico": {
-        "Luton": 1.42,
-        "Peterborough United": 5.0,
-        "Draw": 4.7
-      },
-      "Matchbook": {
-        "Luton": 1.5,
-        "Peterborough United": 4.7,
-        "Draw": 4.7
+        "BK Hacken": 9.0,
+        "Manchester City": 1.3,
+        "Draw": 5.4
       }
     },
-    "e71a4a4fea03d00873c285c5b55a9864:h2h": {
-      "Betfair": {
-        "Austria": 1.9,
-        "Israel": 4.5,
-        "Draw": 3.85
-      },
-      "Marathon Bet": {
-        "Austria": 1.82,
-        "Israel": 4.3,
-        "Draw": 3.82
-      },
-      "888sport": {
-        "Austria": 1.8,
-        "Israel": 4.0,
-        "Draw": 3.6
-      },
-      "Betclic (FR)": {
-        "Austria": 1.76,
-        "Israel": 3.8,
-        "Draw": 3.58
-      },
-      "PMU (FR)": {
-        "Austria": 1.61,
-        "Israel": 4.1,
-        "Draw": 3.65
-      },
-      "MyBookie.ag": {
-        "Austria": 1.83,
-        "Israel": 3.85,
-        "Draw": 3.65
-      },
-      "LeoVegas (SE)": {
-        "Austria": 1.7,
-        "Israel": 4.35,
-        "Draw": 3.85
-      },
-      "William Hill": {
-        "Austria": 1.75,
-        "Israel": 3.9,
-        "Draw": 3.5
-      },
-      "Unibet (SE)": {
-        "Austria": 1.75,
-        "Israel": 4.6,
-        "Draw": 4.1
-      },
-      "Winamax (FR)": {
-        "Austria": 1.76,
-        "Israel": 3.6,
-        "Draw": 3.55
-      },
-      "Winamax (DE)": {
-        "Austria": 1.82,
-        "Israel": 3.8,
-        "Draw": 3.8
-      },
-      "1xBet": {
-        "Austria": 1.84,
-        "Israel": 4.35,
-        "Draw": 3.87
-      },
-      "Pinnacle": {
-        "Austria": 1.86,
-        "Israel": 4.16,
-        "Draw": 3.85
-      },
-      "BetOnline.ag": {
-        "Austria": 1.85,
-        "Israel": 4.15,
-        "Draw": 3.75
-      },
-      "Betsson": {
-        "Austria": 1.85,
-        "Israel": 4.1,
-        "Draw": 3.6
+    "2ff809e70c96071b20b2ad3f6123fe8f:h2h": {
+      "Unibet (FR)": {
+        "Inter Milan": 9.0,
+        "Real Madrid": 1.15,
+        "Draw": 6.25
       },
       "Nordic Bet": {
-        "Austria": 1.85,
-        "Israel": 4.1,
-        "Draw": 3.6
-      },
-      "BetAnything": {
-        "Austria": 1.85,
-        "Israel": 4.15,
-        "Draw": 3.75
-      }
-    },
-    "3eb1d15a190bb1be8c32a020365dc7c2:h2h": {
-      "Unibet (SE)": {
-        "Bosnia & Herzegovina": 1.92,
-        "Romania": 4.2,
-        "Draw": 3.7
-      },
-      "888sport": {
-        "Bosnia & Herzegovina": 1.85,
-        "Romania": 3.75,
-        "Draw": 3.5
-      },
-      "Betfair": {
-        "Bosnia & Herzegovina": 2.04,
-        "Romania": 4.0,
-        "Draw": 3.8
-      },
-      "Marathon Bet": {
-        "Bosnia & Herzegovina": 1.92,
-        "Romania": 3.92,
-        "Draw": 3.74
-      },
-      "PMU (FR)": {
-        "Bosnia & Herzegovina": 1.76,
-        "Romania": 3.75,
-        "Draw": 3.3
-      },
-      "LeoVegas (SE)": {
-        "Bosnia & Herzegovina": 1.85,
-        "Romania": 3.95,
-        "Draw": 3.5
-      },
-      "MyBookie.ag": {
-        "Bosnia & Herzegovina": 1.91,
-        "Romania": 3.65,
-        "Draw": 3.55
-      },
-      "William Hill": {
-        "Bosnia & Herzegovina": 1.85,
-        "Romania": 3.6,
-        "Draw": 3.4
-      },
-      "Winamax (DE)": {
-        "Bosnia & Herzegovina": 1.9,
-        "Romania": 3.6,
-        "Draw": 3.65
-      },
-      "Winamax (FR)": {
-        "Bosnia & Herzegovina": 1.84,
-        "Romania": 3.4,
-        "Draw": 3.45
-      },
-      "Betclic (FR)": {
-        "Bosnia & Herzegovina": 1.84,
-        "Romania": 3.6,
-        "Draw": 3.47
-      },
-      "1xBet": {
-        "Bosnia & Herzegovina": 1.94,
-        "Romania": 3.96,
-        "Draw": 3.79
-      },
-      "Pinnacle": {
-        "Bosnia & Herzegovina": 1.94,
-        "Romania": 3.88,
-        "Draw": 3.76
-      },
-      "BetOnline.ag": {
-        "Bosnia & Herzegovina": 1.94,
-        "Romania": 3.75,
-        "Draw": 3.72
-      },
-      "Nordic Bet": {
-        "Bosnia & Herzegovina": 1.92,
-        "Romania": 3.7,
-        "Draw": 3.6
+        "Inter Milan": 9.7,
+        "Real Madrid": 1.19,
+        "Draw": 6.1
       },
       "Betsson": {
-        "Bosnia & Herzegovina": 1.92,
-        "Romania": 3.7,
-        "Draw": 3.6
+        "Inter Milan": 9.7,
+        "Real Madrid": 1.19,
+        "Draw": 6.1
       },
-      "BetAnything": {
-        "Bosnia & Herzegovina": 1.94,
-        "Romania": 3.75,
-        "Draw": 3.72
-      }
-    },
-    "770e80269ec2ffddc826bc50330c475b:h2h": {
       "Betfair": {
-        "Denmark": 2.4,
-        "Norway": 2.88,
-        "Draw": 4.2
+        "Inter Milan": 11.5,
+        "Real Madrid": 1.26,
+        "Draw": 6.6
       },
-      "Matchbook": {
-        "Denmark": 2.4,
-        "Norway": 2.88,
-        "Draw": 4.2
+      "Pinnacle": {
+        "Inter Milan": 10.0,
+        "Real Madrid": 1.23,
+        "Draw": 6.3
       },
       "1xBet": {
-        "Denmark": 2.35,
-        "Norway": 2.83,
-        "Draw": 3.95
+        "Inter Milan": 9.95,
+        "Real Madrid": 1.2,
+        "Draw": 5.75
       },
       "Betclic (FR)": {
-        "Denmark": 2.25,
-        "Norway": 2.57,
-        "Draw": 3.65
-      },
-      "Winamax (FR)": {
-        "Denmark": 2.25,
-        "Norway": 2.45,
-        "Draw": 3.7
-      },
-      "Winamax (DE)": {
-        "Denmark": 2.2,
-        "Norway": 2.7,
-        "Draw": 3.85
+        "Inter Milan": 9.0,
+        "Real Madrid": 1.16,
+        "Draw": 5.9
       },
       "888sport": {
-        "Denmark": 2.3,
-        "Norway": 2.62,
-        "Draw": 3.7
+        "Inter Milan": 9.0,
+        "Real Madrid": 1.22,
+        "Draw": 5.0
       },
       "William Hill": {
-        "Denmark": 2.3,
-        "Norway": 2.62,
-        "Draw": 3.7
+        "Inter Milan": 8.5,
+        "Real Madrid": 1.22,
+        "Draw": 5.0
       },
-      "MyBookie.ag": {
-        "Denmark": 2.28,
-        "Norway": 2.7,
-        "Draw": 3.7
+      "BetOnline.ag": {
+        "Inter Milan": 9.62,
+        "Real Madrid": 1.21,
+        "Draw": 5.89
       },
-      "Marathon Bet": {
-        "Denmark": 2.35,
-        "Norway": 2.83,
-        "Draw": 3.95
+      "PMU (FR)": {
+        "Inter Milan": 8.5,
+        "Real Madrid": 1.16,
+        "Draw": 5.4
+      },
+      "Unibet (NL)": {
+        "Inter Milan": 9.5,
+        "Real Madrid": 1.23,
+        "Draw": 5.8
+      },
+      "Coolbet": {
+        "Inter Milan": 9.5,
+        "Real Madrid": 1.25,
+        "Draw": 6.1
+      }
+    },
+    "90f8b0cc39333f9495d5507b005a1d5d:h2h": {
+      "Pinnacle": {
+        "Club Portugalete": 2.96,
+        "Real Unión": 2.36,
+        "Draw": 3.09
+      },
+      "888sport": {
+        "Club Portugalete": 3.0,
+        "Real Unión": 2.3,
+        "Draw": 3.1
+      },
+      "1xBet": {
+        "Club Portugalete": 3.06,
+        "Real Unión": 2.38,
+        "Draw": 3.1
+      },
+      "William Hill": {
+        "Club Portugalete": 3.0,
+        "Real Unión": 2.3,
+        "Draw": 3.1
+      },
+      "Winamax (DE)": {
+        "Club Portugalete": 2.9,
+        "Real Unión": 2.2,
+        "Draw": 3.2
+      },
+      "Codere (IT)": {
+        "Club Portugalete": 3.1,
+        "Real Unión": 2.32,
+        "Draw": 3.15
       },
       "Unibet (SE)": {
-        "Denmark": 2.38,
-        "Norway": 2.75,
+        "Club Portugalete": 2.9,
+        "Real Unión": 2.23,
+        "Draw": 3.1
+      },
+      "LeoVegas (SE)": {
+        "Club Portugalete": 2.9,
+        "Real Unión": 2.23,
+        "Draw": 3.1
+      }
+    },
+    "2b6edd0ce77667187ed7df286abdbee1:h2h": {
+      "Pinnacle": {
+        "Sabadell FC": 1.59,
+        "Utebo FC": 5.49,
+        "Draw": 3.66
+      },
+      "888sport": {
+        "Sabadell FC": 1.57,
+        "Utebo FC": 5.75,
+        "Draw": 3.6
+      },
+      "1xBet": {
+        "Sabadell FC": 1.56,
+        "Utebo FC": 6.37,
+        "Draw": 3.68
+      },
+      "William Hill": {
+        "Sabadell FC": 1.57,
+        "Utebo FC": 5.8,
+        "Draw": 3.6
+      },
+      "Codere (IT)": {
+        "Sabadell FC": 1.55,
+        "Utebo FC": 6.0,
         "Draw": 3.9
       },
+      "Unibet (SE)": {
+        "Sabadell FC": 1.5,
+        "Utebo FC": 5.3,
+        "Draw": 3.75
+      },
       "LeoVegas (SE)": {
-        "Denmark": 2.3,
-        "Norway": 2.63,
-        "Draw": 3.7
-      },
-      "PMU (FR)": {
-        "Denmark": 2.2,
-        "Norway": 2.5,
-        "Draw": 3.5
-      },
-      "Betsson": {
-        "Denmark": 2.32,
-        "Norway": 2.85,
-        "Draw": 3.6
-      },
-      "Nordic Bet": {
-        "Denmark": 2.32,
-        "Norway": 2.85,
-        "Draw": 3.6
-      },
-      "Pinnacle": {
-        "Denmark": 2.32,
-        "Norway": 2.82,
-        "Draw": 4.1
-      },
-      "BetOnline.ag": {
-        "Denmark": 2.31,
-        "Norway": 2.82,
-        "Draw": 4.05
-      },
-      "BetAnything": {
-        "Denmark": 2.31,
-        "Norway": 2.82,
-        "Draw": 4.05
+        "Sabadell FC": 1.5,
+        "Utebo FC": 5.3,
+        "Draw": 3.75
       }
     }
   },
@@ -2181,10 +2071,60 @@
       "confidence": 7,
       "alert_type": "value",
       "alerted_at": "2026-11-17T02:53:42.033254+00:00"
+    },
+    {
+      "state_key": "8d017c6bef33aa894ea91e1c1f3a5299:h2h",
+      "event_id": "8d017c6bef33aa894ea91e1c1f3a5299",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League Women",
+      "home_team": "BK Hacken",
+      "away_team": "Manchester City",
+      "commence_time": "2026-11-18T17:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "BK Hacken",
+      "odds_at_alert": 10.0,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-11-17T22:14:06.443512+00:00"
+    },
+    {
+      "state_key": "2ff809e70c96071b20b2ad3f6123fe8f:h2h",
+      "event_id": "2ff809e70c96071b20b2ad3f6123fe8f",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League Women",
+      "home_team": "Real Madrid",
+      "away_team": "Inter Milan",
+      "commence_time": "2026-11-18T17:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Inter Milan",
+      "odds_at_alert": 11.5,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-11-17T22:14:06.908891+00:00"
+    },
+    {
+      "state_key": "2b6edd0ce77667187ed7df286abdbee1:h2h",
+      "event_id": "2b6edd0ce77667187ed7df286abdbee1",
+      "sport_key": "soccer",
+      "competition": "Copa del Rey",
+      "home_team": "Utebo FC",
+      "away_team": "Sabadell FC",
+      "commence_time": "2026-11-18T18:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Utebo FC",
+      "odds_at_alert": 6.37,
+      "stake_pct": 2.0,
+      "confidence": 7,
+      "alert_type": "value",
+      "alerted_at": "2026-11-17T22:14:07.461376+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "e71a4a4fea03d00873c285c5b55a9864:h2h|Unibet (SE)|Israel"
+    "2b6edd0ce77667187ed7df286abdbee1:h2h|1xBet|Utebo FC",
+    "2ff809e70c96071b20b2ad3f6123fe8f:h2h|Betfair|Inter Milan",
+    "8d017c6bef33aa894ea91e1c1f3a5299:h2h|Betfair|BK Hacken"
   ]
 }
