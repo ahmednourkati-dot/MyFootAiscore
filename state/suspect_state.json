@@ -1,226 +1,336 @@
 {
   "snapshots": {
-    "8d017c6bef33aa894ea91e1c1f3a5299:h2h": {
-      "Unibet (FR)": {
-        "BK Hacken": 6.3,
-        "Manchester City": 1.17,
-        "Draw": 5.1
+    "34b8d9b2a641392b592e1dc5470e7622:h2h": {
+      "Winamax (FR)": {
+        "Coritiba": 4.7,
+        "Santos": 3.25,
+        "Draw": 1.48
       },
-      "888sport": {
-        "BK Hacken": 6.5,
-        "Manchester City": 1.3,
-        "Draw": 5.0
+      "Unibet (FR)": {
+        "Coritiba": 4.75,
+        "Santos": 3.3,
+        "Draw": 1.45
       },
       "Nordic Bet": {
-        "BK Hacken": 6.8,
-        "Manchester City": 1.29,
-        "Draw": 5.55
+        "Coritiba": 5.8,
+        "Santos": 3.65,
+        "Draw": 1.52
       },
       "Betsson": {
-        "BK Hacken": 6.8,
-        "Manchester City": 1.29,
-        "Draw": 5.55
-      },
-      "Betfair": {
-        "BK Hacken": 9.0,
-        "Manchester City": 1.36,
-        "Draw": 6.4
-      },
-      "Pinnacle": {
-        "BK Hacken": 7.79,
-        "Manchester City": 1.32,
-        "Draw": 5.89
-      },
-      "1xBet": {
-        "BK Hacken": 7.75,
-        "Manchester City": 1.26,
-        "Draw": 5.45
-      },
-      "Betclic (FR)": {
-        "BK Hacken": 6.75,
-        "Manchester City": 1.26,
-        "Draw": 5.5
-      },
-      "William Hill": {
-        "BK Hacken": 6.5,
-        "Manchester City": 1.3,
-        "Draw": 4.8
-      },
-      "BetOnline.ag": {
-        "BK Hacken": 7.5,
-        "Manchester City": 1.32,
-        "Draw": 5.65
-      },
-      "Coolbet": {
-        "BK Hacken": 9.1,
-        "Manchester City": 1.24,
-        "Draw": 6.4
-      },
-      "PMU (FR)": {
-        "BK Hacken": 7.5,
-        "Manchester City": 1.21,
-        "Draw": 5.0
-      },
-      "Unibet (NL)": {
-        "BK Hacken": 8.5,
-        "Manchester City": 1.3,
-        "Draw": 5.6
-      }
-    },
-    "2ff809e70c96071b20b2ad3f6123fe8f:h2h": {
-      "Unibet (FR)": {
-        "Inter Milan": 9.0,
-        "Real Madrid": 1.12,
-        "Draw": 7.0
-      },
-      "Nordic Bet": {
-        "Inter Milan": 9.7,
-        "Real Madrid": 1.17,
-        "Draw": 6.6
-      },
-      "Betsson": {
-        "Inter Milan": 9.7,
-        "Real Madrid": 1.17,
-        "Draw": 6.6
-      },
-      "Betfair": {
-        "Inter Milan": 12.5,
-        "Real Madrid": 1.23,
-        "Draw": 8.4
-      },
-      "Pinnacle": {
-        "Inter Milan": 11.76,
-        "Real Madrid": 1.19,
-        "Draw": 7.23
-      },
-      "1xBet": {
-        "Inter Milan": 10.5,
-        "Real Madrid": 1.15,
-        "Draw": 6.7
-      },
-      "Betclic (FR)": {
-        "Inter Milan": 10.0,
-        "Real Madrid": 1.15,
-        "Draw": 6.75
-      },
-      "888sport": {
-        "Inter Milan": 10.0,
-        "Real Madrid": 1.18,
-        "Draw": 6.0
-      },
-      "William Hill": {
-        "Inter Milan": 11.0,
-        "Real Madrid": 1.18,
-        "Draw": 6.0
-      },
-      "BetOnline.ag": {
-        "Inter Milan": 11.0,
-        "Real Madrid": 1.19,
-        "Draw": 7.0
-      },
-      "PMU (FR)": {
-        "Inter Milan": 9.5,
-        "Real Madrid": 1.13,
-        "Draw": 5.8
-      },
-      "Unibet (NL)": {
-        "Inter Milan": 10.5,
-        "Real Madrid": 1.2,
-        "Draw": 6.4
-      },
-      "Coolbet": {
-        "Inter Milan": 11.5,
-        "Real Madrid": 1.19,
-        "Draw": 7.0
-      }
-    },
-    "90f8b0cc39333f9495d5507b005a1d5d:h2h": {
-      "Pinnacle": {
-        "Club Portugalete": 2.93,
-        "Real Unión": 2.41,
-        "Draw": 3.17
-      },
-      "888sport": {
-        "Club Portugalete": 3.0,
-        "Real Unión": 2.3,
-        "Draw": 3.0
-      },
-      "1xBet": {
-        "Club Portugalete": 3.06,
-        "Real Unión": 2.38,
-        "Draw": 3.1
-      },
-      "William Hill": {
-        "Club Portugalete": 3.0,
-        "Real Unión": 2.3,
-        "Draw": 3.0
+        "Coritiba": 5.8,
+        "Santos": 3.65,
+        "Draw": 1.55
       },
       "Winamax (DE)": {
-        "Club Portugalete": 2.85,
-        "Real Unión": 2.3,
-        "Draw": 3.2
-      },
-      "Codere (IT)": {
-        "Club Portugalete": 3.0,
-        "Real Unión": 2.4,
-        "Draw": 3.1
-      },
-      "Unibet (SE)": {
-        "Club Portugalete": 2.95,
-        "Real Unión": 2.28,
-        "Draw": 3.2
-      },
-      "LeoVegas (SE)": {
-        "Club Portugalete": 2.95,
-        "Real Unión": 2.28,
-        "Draw": 3.2
-      },
-      "Betfair": {
-        "Club Portugalete": 3.15,
-        "Real Unión": 2.5,
-        "Draw": 3.25
-      }
-    },
-    "2b6edd0ce77667187ed7df286abdbee1:h2h": {
-      "Pinnacle": {
-        "Sabadell FC": 1.72,
-        "Utebo FC": 4.97,
-        "Draw": 3.46
+        "Coritiba": 5.0,
+        "Santos": 3.5,
+        "Draw": 1.52
       },
       "888sport": {
-        "Sabadell FC": 1.67,
-        "Utebo FC": 5.0,
-        "Draw": 3.4
+        "Coritiba": 5.75,
+        "Santos": 3.9,
+        "Draw": 1.5
       },
-      "1xBet": {
-        "Sabadell FC": 1.67,
-        "Utebo FC": 5.39,
-        "Draw": 3.5
+      "Marathon Bet": {
+        "Coritiba": 5.5,
+        "Santos": 3.85,
+        "Draw": 1.57
       },
-      "William Hill": {
-        "Sabadell FC": 1.67,
-        "Utebo FC": 5.0,
-        "Draw": 3.4
+      "MyBookie.ag": {
+        "Coritiba": 4.55,
+        "Santos": 3.4,
+        "Draw": 1.7
       },
-      "Codere (IT)": {
-        "Sabadell FC": 1.65,
-        "Utebo FC": 5.2,
-        "Draw": 3.65
+      "Betclic (FR)": {
+        "Coritiba": 4.8,
+        "Santos": 3.35,
+        "Draw": 1.53
+      },
+      "Pinnacle": {
+        "Coritiba": 4.92,
+        "Santos": 3.88,
+        "Draw": 1.68
       },
       "Unibet (SE)": {
-        "Sabadell FC": 1.54,
-        "Utebo FC": 5.6,
-        "Draw": 3.85
+        "Coritiba": 5.0,
+        "Santos": 4.25,
+        "Draw": 1.55
+      },
+      "PMU (FR)": {
+        "Coritiba": 4.6,
+        "Santos": 3.9,
+        "Draw": 1.43
+      },
+      "Unibet (NL)": {
+        "Coritiba": 4.8,
+        "Santos": 4.0,
+        "Draw": 1.49
       },
       "LeoVegas (SE)": {
-        "Sabadell FC": 1.54,
-        "Utebo FC": 5.6,
-        "Draw": 3.85
+        "Coritiba": 4.7,
+        "Santos": 4.0,
+        "Draw": 1.45
+      },
+      "Tipico": {
+        "Coritiba": 5.2,
+        "Santos": 3.4,
+        "Draw": 1.6
+      },
+      "Coolbet": {
+        "Coritiba": 6.0,
+        "Santos": 4.0,
+        "Draw": 1.53
+      },
+      "Codere (IT)": {
+        "Coritiba": 3.4,
+        "Santos": 2.06,
+        "Draw": 3.4
+      },
+      "Matchbook": {
+        "Coritiba": 6.0,
+        "Santos": 4.6,
+        "Draw": 1.6
       },
       "Betfair": {
-        "Sabadell FC": 1.74,
-        "Utebo FC": 5.4,
-        "Draw": 3.9
+        "Coritiba": 6.0,
+        "Santos": 4.3,
+        "Draw": 1.63
+      }
+    },
+    "a96fe59de916f1d378f3dcce6733dd20:h2h": {
+      "Unibet (FR)": {
+        "Chapecoense": 26.0,
+        "Remo": 1.01,
+        "Draw": 8.5
+      },
+      "Nordic Bet": {
+        "Chapecoense": 46.0,
+        "Remo": 1.02,
+        "Draw": 13.0
+      },
+      "Unibet (SE)": {
+        "Chapecoense": 41.0,
+        "Remo": 1.04,
+        "Draw": 15.0
+      },
+      "Betsson": {
+        "Chapecoense": 41.0,
+        "Remo": 1.03,
+        "Draw": 13.0
+      },
+      "MyBookie.ag": {
+        "Chapecoense": 46.0,
+        "Remo": 1.03,
+        "Draw": 11.0
+      },
+      "888sport": {
+        "Chapecoense": 61.0,
+        "Remo": 1.03,
+        "Draw": 17.0
+      },
+      "LeoVegas (SE)": {
+        "Chapecoense": 29.0,
+        "Remo": 1.01,
+        "Draw": 12.5
+      },
+      "Winamax (DE)": {
+        "Chapecoense": 48.0,
+        "Remo": 1.02,
+        "Draw": 16.0
+      },
+      "Winamax (FR)": {
+        "Chapecoense": 48.0,
+        "Remo": 1.01,
+        "Draw": 16.0
+      },
+      "Betclic (FR)": {
+        "Chapecoense": 27.0,
+        "Remo": 1.0,
+        "Draw": 11.25
+      },
+      "Coolbet": {
+        "Chapecoense": 50.0,
+        "Remo": 1.02,
+        "Draw": 13.0
+      },
+      "Matchbook": {
+        "Chapecoense": 110.0,
+        "Remo": 1.05,
+        "Draw": 22.0
+      },
+      "Betfair": {
+        "Chapecoense": 100.0,
+        "Remo": 1.05,
+        "Draw": 22.0
+      }
+    },
+    "4ffeab0ae6c6a76e96262104d3a1d6e7:h2h": {
+      "888sport": {
+        "Atletico Paranaense": 36.0,
+        "Flamengo": 1.06,
+        "Draw": 9.5
+      },
+      "Winamax (DE)": {
+        "Atletico Paranaense": 34.0,
+        "Flamengo": 1.04,
+        "Draw": 9.5
+      },
+      "Marathon Bet": {
+        "Atletico Paranaense": 38.0,
+        "Flamengo": 1.04,
+        "Draw": 11.0
+      },
+      "Winamax (FR)": {
+        "Atletico Paranaense": 34.0,
+        "Flamengo": 1.03,
+        "Draw": 9.0
+      },
+      "Unibet (FR)": {
+        "Atletico Paranaense": 26.0,
+        "Flamengo": 1.03,
+        "Draw": 6.5
+      },
+      "Betsson": {
+        "Atletico Paranaense": 41.0,
+        "Flamengo": 1.05,
+        "Draw": 10.0
+      },
+      "Nordic Bet": {
+        "Atletico Paranaense": 32.0,
+        "Flamengo": 1.04,
+        "Draw": 9.1
+      },
+      "Betclic (FR)": {
+        "Atletico Paranaense": 20.0,
+        "Flamengo": 1.04,
+        "Draw": 8.5
+      },
+      "Tipico": {
+        "Atletico Paranaense": 20.0,
+        "Flamengo": 1.07,
+        "Draw": 8.0
+      },
+      "Unibet (SE)": {
+        "Atletico Paranaense": 31.0,
+        "Flamengo": 1.07,
+        "Draw": 10.0
+      },
+      "LeoVegas (SE)": {
+        "Atletico Paranaense": 31.0,
+        "Flamengo": 1.03,
+        "Draw": 9.5
+      },
+      "Unibet (NL)": {
+        "Atletico Paranaense": 31.0,
+        "Flamengo": 1.03,
+        "Draw": 9.5
+      },
+      "Coolbet": {
+        "Atletico Paranaense": 35.0,
+        "Flamengo": 1.06,
+        "Draw": 10.0
+      },
+      "Matchbook": {
+        "Atletico Paranaense": 75.0,
+        "Flamengo": 1.08,
+        "Draw": 14.5
+      },
+      "Betfair": {
+        "Atletico Paranaense": 75.0,
+        "Flamengo": 1.08,
+        "Draw": 14.0
+      }
+    },
+    "8c090da10644d01073571175eb7a7426:h2h": {
+      "Nordic Bet": {
+        "Cruzeiro": 2.4,
+        "Palmeiras": 3.5,
+        "Draw": 2.5
+      },
+      "Marathon Bet": {
+        "Cruzeiro": 2.47,
+        "Palmeiras": 3.42,
+        "Draw": 2.62
+      },
+      "Winamax (DE)": {
+        "Cruzeiro": 2.25,
+        "Palmeiras": 3.1,
+        "Draw": 2.45
+      },
+      "Winamax (FR)": {
+        "Cruzeiro": 2.2,
+        "Palmeiras": 2.95,
+        "Draw": 2.35
+      },
+      "Unibet (FR)": {
+        "Cruzeiro": 2.2,
+        "Palmeiras": 3.1,
+        "Draw": 2.3
+      },
+      "888sport": {
+        "Cruzeiro": 2.45,
+        "Palmeiras": 3.4,
+        "Draw": 2.45
+      },
+      "MyBookie.ag": {
+        "Cruzeiro": 2.35,
+        "Palmeiras": 3.25,
+        "Draw": 2.7
+      },
+      "Betsson": {
+        "Cruzeiro": 2.4,
+        "Palmeiras": 3.4,
+        "Draw": 2.55
+      },
+      "Betclic (FR)": {
+        "Cruzeiro": 2.2,
+        "Palmeiras": 3.15,
+        "Draw": 2.48
+      },
+      "Pinnacle": {
+        "Cruzeiro": 2.56,
+        "Palmeiras": 3.4,
+        "Draw": 2.7
+      },
+      "Tipico": {
+        "Cruzeiro": 2.6,
+        "Palmeiras": 3.0,
+        "Draw": 2.6
+      },
+      "Unibet (NL)": {
+        "Cruzeiro": 2.55,
+        "Palmeiras": 2.95,
+        "Draw": 2.5
+      },
+      "Unibet (SE)": {
+        "Cruzeiro": 2.65,
+        "Palmeiras": 3.05,
+        "Draw": 2.63
+      },
+      "PMU (FR)": {
+        "Cruzeiro": 2.48,
+        "Palmeiras": 2.85,
+        "Draw": 2.45
+      },
+      "LeoVegas (SE)": {
+        "Cruzeiro": 2.48,
+        "Palmeiras": 2.9,
+        "Draw": 2.5
+      },
+      "Coolbet": {
+        "Cruzeiro": 2.5,
+        "Palmeiras": 3.6,
+        "Draw": 2.5
+      },
+      "Matchbook": {
+        "Cruzeiro": 2.66,
+        "Palmeiras": 3.7,
+        "Draw": 2.76
+      },
+      "Betfair": {
+        "Cruzeiro": 2.56,
+        "Palmeiras": 3.7,
+        "Draw": 2.88
       }
     }
   },
@@ -1665,18 +1775,162 @@
       "confidence": 5,
       "alert_type": "value",
       "alerted_at": "2026-11-18T17:11:02.750594+00:00"
+    },
+    {
+      "state_key": "34b8d9b2a641392b592e1dc5470e7622:h2h",
+      "event_id": "34b8d9b2a641392b592e1dc5470e7622",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Coritiba",
+      "away_team": "Santos",
+      "commence_time": "2026-11-18T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Coritiba",
+      "odds_at_alert": 5.8,
+      "stake_pct": 3.0,
+      "confidence": 12,
+      "alert_type": "value",
+      "alerted_at": "2026-11-19T00:16:29.546469+00:00"
+    },
+    {
+      "state_key": "34b8d9b2a641392b592e1dc5470e7622:h2h",
+      "event_id": "34b8d9b2a641392b592e1dc5470e7622",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Coritiba",
+      "away_team": "Santos",
+      "commence_time": "2026-11-18T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Coritiba",
+      "odds_at_alert": 5.8,
+      "stake_pct": 3.0,
+      "confidence": 12,
+      "alert_type": "value",
+      "alerted_at": "2026-11-19T00:16:29.902826+00:00"
+    },
+    {
+      "state_key": "34b8d9b2a641392b592e1dc5470e7622:h2h",
+      "event_id": "34b8d9b2a641392b592e1dc5470e7622",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Coritiba",
+      "away_team": "Santos",
+      "commence_time": "2026-11-18T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Coritiba",
+      "odds_at_alert": 5.75,
+      "stake_pct": 3.0,
+      "confidence": 11,
+      "alert_type": "value",
+      "alerted_at": "2026-11-19T00:16:30.257853+00:00"
+    },
+    {
+      "state_key": "34b8d9b2a641392b592e1dc5470e7622:h2h",
+      "event_id": "34b8d9b2a641392b592e1dc5470e7622",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Coritiba",
+      "away_team": "Santos",
+      "commence_time": "2026-11-18T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Coritiba",
+      "odds_at_alert": 5.5,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-11-19T00:16:30.634565+00:00"
+    },
+    {
+      "state_key": "34b8d9b2a641392b592e1dc5470e7622:h2h",
+      "event_id": "34b8d9b2a641392b592e1dc5470e7622",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Coritiba",
+      "away_team": "Santos",
+      "commence_time": "2026-11-18T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Coritiba",
+      "odds_at_alert": 6.0,
+      "stake_pct": 5.0,
+      "confidence": 15,
+      "alert_type": "value",
+      "alerted_at": "2026-11-19T00:16:31.006639+00:00"
+    },
+    {
+      "state_key": "34b8d9b2a641392b592e1dc5470e7622:h2h",
+      "event_id": "34b8d9b2a641392b592e1dc5470e7622",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Coritiba",
+      "away_team": "Santos",
+      "commence_time": "2026-11-18T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 3.4,
+      "stake_pct": 5.0,
+      "confidence": 92,
+      "alert_type": "value",
+      "alerted_at": "2026-11-19T00:16:31.378053+00:00"
+    },
+    {
+      "state_key": "34b8d9b2a641392b592e1dc5470e7622:h2h",
+      "event_id": "34b8d9b2a641392b592e1dc5470e7622",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Coritiba",
+      "away_team": "Santos",
+      "commence_time": "2026-11-18T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Coritiba",
+      "odds_at_alert": 6.0,
+      "stake_pct": 5.0,
+      "confidence": 15,
+      "alert_type": "value",
+      "alerted_at": "2026-11-19T00:16:31.773566+00:00"
+    },
+    {
+      "state_key": "34b8d9b2a641392b592e1dc5470e7622:h2h",
+      "event_id": "34b8d9b2a641392b592e1dc5470e7622",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Coritiba",
+      "away_team": "Santos",
+      "commence_time": "2026-11-18T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Santos",
+      "odds_at_alert": 4.6,
+      "stake_pct": 3.0,
+      "confidence": 12,
+      "alert_type": "value",
+      "alerted_at": "2026-11-19T00:16:32.158709+00:00"
+    },
+    {
+      "state_key": "34b8d9b2a641392b592e1dc5470e7622:h2h",
+      "event_id": "34b8d9b2a641392b592e1dc5470e7622",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Coritiba",
+      "away_team": "Santos",
+      "commence_time": "2026-11-18T22:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Coritiba",
+      "odds_at_alert": 6.0,
+      "stake_pct": 5.0,
+      "confidence": 15,
+      "alert_type": "value",
+      "alerted_at": "2026-11-19T00:16:32.558612+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "2b6edd0ce77667187ed7df286abdbee1:h2h|1xBet|Utebo FC",
-    "2b6edd0ce77667187ed7df286abdbee1:h2h|Betfair|Draw",
-    "2b6edd0ce77667187ed7df286abdbee1:h2h|LeoVegas (SE)|Utebo FC",
-    "2b6edd0ce77667187ed7df286abdbee1:h2h|Unibet (SE)|Utebo FC",
-    "2ff809e70c96071b20b2ad3f6123fe8f:h2h|Betfair|Draw",
-    "2ff809e70c96071b20b2ad3f6123fe8f:h2h|Betfair|Inter Milan",
-    "8d017c6bef33aa894ea91e1c1f3a5299:h2h|Betfair|BK Hacken",
-    "8d017c6bef33aa894ea91e1c1f3a5299:h2h|Coolbet|BK Hacken",
-    "8d017c6bef33aa894ea91e1c1f3a5299:h2h|Unibet (NL)|BK Hacken"
+    "34b8d9b2a641392b592e1dc5470e7622:h2h|888sport|Coritiba",
+    "34b8d9b2a641392b592e1dc5470e7622:h2h|Betfair|Coritiba",
+    "34b8d9b2a641392b592e1dc5470e7622:h2h|Betsson|Coritiba",
+    "34b8d9b2a641392b592e1dc5470e7622:h2h|Codere (IT)|Draw",
+    "34b8d9b2a641392b592e1dc5470e7622:h2h|Coolbet|Coritiba",
+    "34b8d9b2a641392b592e1dc5470e7622:h2h|Marathon Bet|Coritiba",
+    "34b8d9b2a641392b592e1dc5470e7622:h2h|Matchbook|Coritiba",
+    "34b8d9b2a641392b592e1dc5470e7622:h2h|Matchbook|Santos",
+    "34b8d9b2a641392b592e1dc5470e7622:h2h|Nordic Bet|Coritiba"
   ]
 }
