@@ -1,406 +1,341 @@
 {
   "snapshots": {
-    "d8eca71d848497deda0c022c1c27e3bc:h2h": {
+    "03a1ad22bba5384565fc8a60cb546a04:h2h": {
       "Pinnacle": {
-        "Real Salt Lake": 3.43,
-        "Seattle Sounders FC": 2.1,
-        "Draw": 3.8
+        "FK Rostov": 2.37,
+        "Kryliya Sovetov": 3.39,
+        "Draw": 3.19
+      },
+      "Marathon Bet": {
+        "FK Rostov": 2.31,
+        "Kryliya Sovetov": 3.26,
+        "Draw": 3.32
+      },
+      "1xBet": {
+        "FK Rostov": 2.37,
+        "Kryliya Sovetov": 3.34,
+        "Draw": 3.4
+      },
+      "BetOnline.ag": {
+        "FK Rostov": 2.34,
+        "Kryliya Sovetov": 3.2,
+        "Draw": 3.05
+      }
+    },
+    "214b7c2e2f0df56989c78c6b2005c658:h2h": {
+      "Pinnacle": {
+        "Korona Kielce": 2.63,
+        "Piast Gliwice": 2.6,
+        "Draw": 3.68
+      },
+      "Betsson": {
+        "Korona Kielce": 2.52,
+        "Piast Gliwice": 2.45,
+        "Draw": 3.4
+      },
+      "Winamax (DE)": {
+        "Korona Kielce": 2.45,
+        "Piast Gliwice": 2.4,
+        "Draw": 3.55
+      },
+      "Nordic Bet": {
+        "Korona Kielce": 2.52,
+        "Piast Gliwice": 2.45,
+        "Draw": 3.4
       },
       "Unibet (FR)": {
-        "Real Salt Lake": 2.9,
-        "Seattle Sounders FC": 1.85,
+        "Korona Kielce": 2.35,
+        "Piast Gliwice": 2.15,
         "Draw": 3.15
       },
-      "Nordic Bet": {
-        "Real Salt Lake": 3.45,
-        "Seattle Sounders FC": 2.02,
-        "Draw": 3.6
+      "Betclic (FR)": {
+        "Korona Kielce": 2.48,
+        "Piast Gliwice": 2.37,
+        "Draw": 3.4
       },
       "1xBet": {
-        "Real Salt Lake": 3.61,
-        "Seattle Sounders FC": 2.01,
-        "Draw": 3.74
-      },
-      "Winamax (DE)": {
-        "Real Salt Lake": 3.0,
-        "Seattle Sounders FC": 1.94,
-        "Draw": 3.25
+        "Korona Kielce": 2.5,
+        "Piast Gliwice": 2.51,
+        "Draw": 3.48
       },
       "Winamax (FR)": {
-        "Real Salt Lake": 2.85,
-        "Seattle Sounders FC": 1.86,
-        "Draw": 3.1
+        "Korona Kielce": 2.35,
+        "Piast Gliwice": 2.3,
+        "Draw": 3.35
       },
       "Marathon Bet": {
-        "Real Salt Lake": 3.3,
-        "Seattle Sounders FC": 1.97,
-        "Draw": 3.74
-      },
-      "Betsson": {
-        "Real Salt Lake": 3.45,
-        "Seattle Sounders FC": 2.02,
-        "Draw": 3.6
-      },
-      "Betclic (FR)": {
-        "Real Salt Lake": 2.95,
-        "Seattle Sounders FC": 1.9,
-        "Draw": 3.2
+        "Korona Kielce": 2.5,
+        "Piast Gliwice": 2.51,
+        "Draw": 3.48
       },
       "888sport": {
-        "Real Salt Lake": 3.3,
-        "Seattle Sounders FC": 2.0,
+        "Korona Kielce": 2.45,
+        "Piast Gliwice": 2.5,
         "Draw": 3.4
       },
-      "William Hill": {
-        "Real Salt Lake": 3.2,
-        "Seattle Sounders FC": 2.05,
-        "Draw": 3.4
-      },
-      "Betfair": {
-        "Real Salt Lake": 3.45,
-        "Seattle Sounders FC": 2.1,
-        "Draw": 3.85
-      },
-      "MyBookie.ag": {
-        "Real Salt Lake": 3.2,
-        "Seattle Sounders FC": 2.0,
-        "Draw": 3.6
-      },
-      "Codere (IT)": {
-        "Real Salt Lake": 3.3,
-        "Seattle Sounders FC": 2.09,
+      "Tipico": {
+        "Korona Kielce": 2.6,
+        "Piast Gliwice": 2.3,
         "Draw": 3.5
       },
-      "PMU (FR)": {
-        "Real Salt Lake": 3.25,
-        "Seattle Sounders FC": 1.75,
-        "Draw": 3.45
-      },
-      "Unibet (NL)": {
-        "Real Salt Lake": 3.4,
-        "Seattle Sounders FC": 1.85,
-        "Draw": 3.65
+      "Coolbet": {
+        "Korona Kielce": 2.6,
+        "Piast Gliwice": 2.55,
+        "Draw": 3.5
       },
       "Unibet (SE)": {
-        "Real Salt Lake": 3.7,
-        "Seattle Sounders FC": 1.94,
-        "Draw": 4.0
+        "Korona Kielce": 2.55,
+        "Piast Gliwice": 2.55,
+        "Draw": 3.5
       },
       "LeoVegas (SE)": {
-        "Real Salt Lake": 3.4,
-        "Seattle Sounders FC": 1.83,
-        "Draw": 3.6
+        "Korona Kielce": 2.43,
+        "Piast Gliwice": 2.43,
+        "Draw": 3.3
       },
-      "Coolbet": {
-        "Real Salt Lake": 3.4,
-        "Seattle Sounders FC": 2.0,
-        "Draw": 3.75
-      },
-      "GTbets": {
-        "Real Salt Lake": 3.51,
-        "Seattle Sounders FC": 1.98,
-        "Draw": 3.79
-      },
-      "BetAnything": {
-        "Real Salt Lake": 3.4,
-        "Seattle Sounders FC": 2.0,
-        "Draw": 3.7
-      },
-      "Matchbook": {
-        "Real Salt Lake": 3.55,
-        "Seattle Sounders FC": 2.08,
-        "Draw": 3.85
-      }
-    },
-    "68cfa1aec1d5f4115ca07e6237dfa6fd:h2h": {
-      "Pinnacle": {
-        "Adelaide United": 4.46,
-        "Western Sydney Wanderers": 1.7,
-        "Draw": 4.54
-      },
-      "Winamax (FR)": {
-        "Adelaide United": 3.85,
-        "Western Sydney Wanderers": 1.56,
-        "Draw": 4.0
-      },
-      "888sport": {
-        "Adelaide United": 4.2,
-        "Western Sydney Wanderers": 1.65,
-        "Draw": 4.0
-      },
-      "Winamax (DE)": {
-        "Adelaide United": 4.0,
-        "Western Sydney Wanderers": 1.62,
-        "Draw": 4.3
-      },
-      "Marathon Bet": {
-        "Adelaide United": 4.45,
-        "Western Sydney Wanderers": 1.62,
-        "Draw": 4.33
-      },
-      "William Hill": {
-        "Adelaide United": 4.2,
-        "Western Sydney Wanderers": 1.65,
-        "Draw": 4.0
-      },
-      "Unibet (FR)": {
-        "Adelaide United": 3.75,
-        "Western Sydney Wanderers": 1.48,
-        "Draw": 3.75
-      },
-      "Coolbet": {
-        "Adelaide United": 4.5,
-        "Western Sydney Wanderers": 1.68,
-        "Draw": 4.3
-      },
-      "Betsson": {
-        "Adelaide United": 4.25,
-        "Western Sydney Wanderers": 1.65,
-        "Draw": 4.15
-      },
-      "Nordic Bet": {
-        "Adelaide United": 4.25,
-        "Western Sydney Wanderers": 1.65,
-        "Draw": 4.15
+      "Unibet (NL)": {
+        "Korona Kielce": 2.55,
+        "Piast Gliwice": 2.55,
+        "Draw": 3.5
       },
       "Codere (IT)": {
-        "Adelaide United": 4.4,
-        "Western Sydney Wanderers": 1.66,
-        "Draw": 4.2
-      },
-      "Unibet (NL)": {
-        "Adelaide United": 4.2,
-        "Western Sydney Wanderers": 1.67,
-        "Draw": 4.0
-      },
-      "LeoVegas (SE)": {
-        "Adelaide United": 4.2,
-        "Western Sydney Wanderers": 1.67,
-        "Draw": 4.0
-      },
-      "Unibet (SE)": {
-        "Adelaide United": 4.2,
-        "Western Sydney Wanderers": 1.67,
-        "Draw": 4.0
-      },
-      "GTbets": {
-        "Adelaide United": 4.34,
-        "Western Sydney Wanderers": 1.69,
-        "Draw": 4.19
+        "Korona Kielce": 2.55,
+        "Piast Gliwice": 2.46,
+        "Draw": 3.45
       },
       "BetOnline.ag": {
-        "Adelaide United": 4.7,
-        "Western Sydney Wanderers": 1.69,
-        "Draw": 4.34
+        "Korona Kielce": 2.56,
+        "Piast Gliwice": 2.58,
+        "Draw": 3.55
       },
       "Betfair": {
-        "Adelaide United": 4.6,
-        "Western Sydney Wanderers": 1.7,
-        "Draw": 4.6
+        "Korona Kielce": 2.74,
+        "Piast Gliwice": 2.64,
+        "Draw": 3.75
       },
       "Matchbook": {
-        "Adelaide United": 4.7,
-        "Western Sydney Wanderers": 1.71,
-        "Draw": 4.6
+        "Korona Kielce": 2.72,
+        "Piast Gliwice": 2.62,
+        "Draw": 3.75
+      },
+      "PMU (FR)": {
+        "Korona Kielce": 2.43,
+        "Piast Gliwice": 2.43,
+        "Draw": 3.3
       }
     },
-    "c030e04e8ad2891f3a32a74ad9860e56:h2h": {
-      "Betsson": {
-        "JEF United Chiba": 5.5,
-        "Kashiwa Reysol": 1.47,
-        "Draw": 4.3
-      },
-      "Marathon Bet": {
-        "JEF United Chiba": 5.9,
-        "Kashiwa Reysol": 1.47,
-        "Draw": 4.45
+    "ef781f0860aada044d19e475791ba835:h2h": {
+      "Pinnacle": {
+        "1. FC Heidenheim": 2.03,
+        "SV Darmstadt 98": 3.43,
+        "Draw": 4.05
       },
       "Winamax (FR)": {
-        "JEF United Chiba": 4.9,
-        "Kashiwa Reysol": 1.42,
-        "Draw": 4.2
+        "1. FC Heidenheim": 1.88,
+        "SV Darmstadt 98": 3.0,
+        "Draw": 3.55
       },
       "Winamax (DE)": {
-        "JEF United Chiba": 5.3,
-        "Kashiwa Reysol": 1.46,
-        "Draw": 4.5
-      },
-      "Coolbet": {
-        "JEF United Chiba": 6.0,
-        "Kashiwa Reysol": 1.5,
-        "Draw": 4.5
-      },
-      "Pinnacle": {
-        "JEF United Chiba": 6.37,
-        "Kashiwa Reysol": 1.49,
-        "Draw": 4.9
-      },
-      "1xBet": {
-        "JEF United Chiba": 6.05,
-        "Kashiwa Reysol": 1.51,
-        "Draw": 4.57
-      },
-      "Unibet (FR)": {
-        "JEF United Chiba": 4.8,
-        "Kashiwa Reysol": 1.35,
+        "1. FC Heidenheim": 1.98,
+        "SV Darmstadt 98": 3.2,
         "Draw": 3.85
       },
-      "William Hill": {
-        "JEF United Chiba": 5.5,
-        "Kashiwa Reysol": 1.44,
-        "Draw": 4.4
-      },
-      "Betclic (FR)": {
-        "JEF United Chiba": 5.4,
-        "Kashiwa Reysol": 1.43,
-        "Draw": 4.25
-      },
-      "Nordic Bet": {
-        "JEF United Chiba": 5.5,
-        "Kashiwa Reysol": 1.47,
-        "Draw": 4.3
-      },
-      "888sport": {
-        "JEF United Chiba": 5.5,
-        "Kashiwa Reysol": 1.44,
-        "Draw": 4.4
-      },
-      "Tipico": {
-        "JEF United Chiba": 6.2,
-        "Kashiwa Reysol": 1.4,
-        "Draw": 4.5
-      },
-      "Unibet (SE)": {
-        "JEF United Chiba": 5.6,
-        "Kashiwa Reysol": 1.51,
-        "Draw": 4.0
-      },
-      "LeoVegas (SE)": {
-        "JEF United Chiba": 5.6,
-        "Kashiwa Reysol": 1.53,
-        "Draw": 4.0
-      },
-      "Unibet (NL)": {
-        "JEF United Chiba": 5.6,
-        "Kashiwa Reysol": 1.51,
-        "Draw": 4.0
-      },
-      "BetOnline.ag": {
-        "JEF United Chiba": 6.2,
-        "Kashiwa Reysol": 1.47,
-        "Draw": 4.7
-      },
-      "Betfair": {
-        "JEF United Chiba": 6.8,
-        "Kashiwa Reysol": 1.5,
-        "Draw": 4.8
-      },
-      "Matchbook": {
-        "JEF United Chiba": 6.6,
-        "Kashiwa Reysol": 1.5,
-        "Draw": 4.9
-      }
-    },
-    "8eda6b8ed5927037bc464f3f017b2f75:h2h": {
-      "Betsson": {
-        "Kashima Antlers": 1.46,
-        "Shimizu S Pulse": 6.1,
-        "Draw": 4.15
-      },
-      "Marathon Bet": {
-        "Kashima Antlers": 1.48,
-        "Shimizu S Pulse": 6.1,
-        "Draw": 4.25
-      },
-      "Winamax (FR)": {
-        "Kashima Antlers": 1.41,
-        "Shimizu S Pulse": 5.3,
-        "Draw": 4.1
-      },
-      "Winamax (DE)": {
-        "Kashima Antlers": 1.45,
-        "Shimizu S Pulse": 5.7,
-        "Draw": 4.4
-      },
-      "Coolbet": {
-        "Kashima Antlers": 1.5,
-        "Shimizu S Pulse": 6.5,
-        "Draw": 4.3
-      },
-      "Pinnacle": {
-        "Kashima Antlers": 1.51,
-        "Shimizu S Pulse": 6.64,
-        "Draw": 4.54
-      },
       "1xBet": {
-        "Kashima Antlers": 1.52,
-        "Shimizu S Pulse": 6.26,
-        "Draw": 4.36
+        "1. FC Heidenheim": 2.0,
+        "SV Darmstadt 98": 3.28,
+        "Draw": 3.78
+      },
+      "Betsson": {
+        "1. FC Heidenheim": 1.98,
+        "SV Darmstadt 98": 3.25,
+        "Draw": 3.6
       },
       "Unibet (FR)": {
-        "Kashima Antlers": 1.34,
-        "Shimizu S Pulse": 5.2,
-        "Draw": 3.7
-      },
-      "William Hill": {
-        "Kashima Antlers": 1.44,
-        "Shimizu S Pulse": 6.0,
-        "Draw": 4.0
-      },
-      "Betclic (FR)": {
-        "Kashima Antlers": 1.42,
-        "Shimizu S Pulse": 5.9,
-        "Draw": 4.15
+        "1. FC Heidenheim": 1.76,
+        "SV Darmstadt 98": 2.95,
+        "Draw": 3.3
       },
       "Nordic Bet": {
-        "Kashima Antlers": 1.46,
-        "Shimizu S Pulse": 6.1,
-        "Draw": 4.15
-      },
-      "888sport": {
-        "Kashima Antlers": 1.44,
-        "Shimizu S Pulse": 6.0,
-        "Draw": 4.0
+        "1. FC Heidenheim": 1.98,
+        "SV Darmstadt 98": 3.25,
+        "Draw": 3.6
       },
       "Tipico": {
-        "Kashima Antlers": 1.4,
-        "Shimizu S Pulse": 6.8,
-        "Draw": 4.2
+        "1. FC Heidenheim": 1.95,
+        "SV Darmstadt 98": 3.5,
+        "Draw": 3.8
       },
-      "Unibet (SE)": {
-        "Kashima Antlers": 1.49,
-        "Shimizu S Pulse": 5.8,
-        "Draw": 4.0
+      "Betclic (FR)": {
+        "1. FC Heidenheim": 1.88,
+        "SV Darmstadt 98": 3.2,
+        "Draw": 3.6
+      },
+      "Marathon Bet": {
+        "1. FC Heidenheim": 1.98,
+        "SV Darmstadt 98": 3.28,
+        "Draw": 3.78
+      },
+      "Codere (IT)": {
+        "1. FC Heidenheim": 2.02,
+        "SV Darmstadt 98": 3.35,
+        "Draw": 3.65
       },
       "LeoVegas (SE)": {
-        "Kashima Antlers": 1.5,
-        "Shimizu S Pulse": 5.8,
-        "Draw": 4.1
+        "1. FC Heidenheim": 1.93,
+        "SV Darmstadt 98": 3.15,
+        "Draw": 3.55
       },
       "Unibet (NL)": {
-        "Kashima Antlers": 1.49,
-        "Shimizu S Pulse": 5.8,
-        "Draw": 4.0
+        "1. FC Heidenheim": 2.02,
+        "SV Darmstadt 98": 3.3,
+        "Draw": 3.75
       },
-      "BetOnline.ag": {
-        "Kashima Antlers": 1.51,
-        "Shimizu S Pulse": 6.2,
-        "Draw": 4.4
-      },
-      "BetAnything": {
-        "Kashima Antlers": 1.51,
-        "Shimizu S Pulse": 6.2,
-        "Draw": 4.4
+      "Unibet (SE)": {
+        "1. FC Heidenheim": 2.02,
+        "SV Darmstadt 98": 3.3,
+        "Draw": 3.75
       },
       "Betfair": {
-        "Kashima Antlers": 1.5,
-        "Shimizu S Pulse": 7.2,
-        "Draw": 4.6
+        "1. FC Heidenheim": 2.08,
+        "SV Darmstadt 98": 3.5,
+        "Draw": 4.0
+      },
+      "Coolbet": {
+        "1. FC Heidenheim": 2.02,
+        "SV Darmstadt 98": 3.4,
+        "Draw": 3.75
+      },
+      "BetOnline.ag": {
+        "1. FC Heidenheim": 2.03,
+        "SV Darmstadt 98": 3.42,
+        "Draw": 3.77
+      },
+      "888sport": {
+        "1. FC Heidenheim": 1.95,
+        "SV Darmstadt 98": 3.2,
+        "Draw": 3.6
+      },
+      "William Hill": {
+        "1. FC Heidenheim": 1.95,
+        "SV Darmstadt 98": 3.2,
+        "Draw": 3.6
       },
       "Matchbook": {
-        "Kashima Antlers": 1.5,
-        "Shimizu S Pulse": 7.2,
-        "Draw": 4.6
+        "1. FC Heidenheim": 2.08,
+        "SV Darmstadt 98": 3.5,
+        "Draw": 4.0
+      },
+      "PMU (FR)": {
+        "1. FC Heidenheim": 1.91,
+        "SV Darmstadt 98": 3.1,
+        "Draw": 3.5
+      }
+    },
+    "f742b5c50da25075d7f354d08e83dfa4:h2h": {
+      "Pinnacle": {
+        "1. FC Magdeburg": 3.33,
+        "Arminia Bielefeld": 2.21,
+        "Draw": 3.6
+      },
+      "Winamax (FR)": {
+        "1. FC Magdeburg": 2.8,
+        "Arminia Bielefeld": 2.05,
+        "Draw": 3.3
+      },
+      "Winamax (DE)": {
+        "1. FC Magdeburg": 3.0,
+        "Arminia Bielefeld": 2.15,
+        "Draw": 3.55
+      },
+      "1xBet": {
+        "1. FC Magdeburg": 3.1,
+        "Arminia Bielefeld": 2.17,
+        "Draw": 3.48
+      },
+      "Betsson": {
+        "1. FC Magdeburg": 3.0,
+        "Arminia Bielefeld": 2.15,
+        "Draw": 3.35
+      },
+      "Unibet (FR)": {
+        "1. FC Magdeburg": 2.75,
+        "Arminia Bielefeld": 1.91,
+        "Draw": 3.1
+      },
+      "Nordic Bet": {
+        "1. FC Magdeburg": 3.0,
+        "Arminia Bielefeld": 2.15,
+        "Draw": 3.35
+      },
+      "Tipico": {
+        "1. FC Magdeburg": 3.3,
+        "Arminia Bielefeld": 2.1,
+        "Draw": 3.6
+      },
+      "Betclic (FR)": {
+        "1. FC Magdeburg": 2.98,
+        "Arminia Bielefeld": 2.05,
+        "Draw": 3.35
+      },
+      "Marathon Bet": {
+        "1. FC Magdeburg": 3.1,
+        "Arminia Bielefeld": 2.15,
+        "Draw": 3.48
+      },
+      "Codere (IT)": {
+        "1. FC Magdeburg": 3.1,
+        "Arminia Bielefeld": 2.22,
+        "Draw": 3.35
+      },
+      "LeoVegas (SE)": {
+        "1. FC Magdeburg": 2.8,
+        "Arminia Bielefeld": 2.18,
+        "Draw": 3.4
+      },
+      "Unibet (NL)": {
+        "1. FC Magdeburg": 2.9,
+        "Arminia Bielefeld": 2.28,
+        "Draw": 3.55
+      },
+      "Unibet (SE)": {
+        "1. FC Magdeburg": 2.9,
+        "Arminia Bielefeld": 2.28,
+        "Draw": 3.55
+      },
+      "Betfair": {
+        "1. FC Magdeburg": 3.35,
+        "Arminia Bielefeld": 2.26,
+        "Draw": 3.7
+      },
+      "Coolbet": {
+        "1. FC Magdeburg": 3.2,
+        "Arminia Bielefeld": 2.17,
+        "Draw": 3.5
+      },
+      "William Hill": {
+        "1. FC Magdeburg": 3.0,
+        "Arminia Bielefeld": 2.15,
+        "Draw": 3.3
+      },
+      "888sport": {
+        "1. FC Magdeburg": 3.0,
+        "Arminia Bielefeld": 2.15,
+        "Draw": 3.3
+      },
+      "BetOnline.ag": {
+        "1. FC Magdeburg": 3.2,
+        "Arminia Bielefeld": 2.18,
+        "Draw": 3.6
+      },
+      "Matchbook": {
+        "1. FC Magdeburg": 3.4,
+        "Arminia Bielefeld": 2.26,
+        "Draw": 3.7
+      },
+      "PMU (FR)": {
+        "1. FC Magdeburg": 2.75,
+        "Arminia Bielefeld": 2.14,
+        "Draw": 3.35
       }
     }
   },
