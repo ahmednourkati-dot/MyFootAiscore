@@ -1,261 +1,236 @@
 {
   "snapshots": {
-    "bc405017f004bace7b944216134e1660:h2h": {
-      "Pinnacle": {
-        "Gazişehir Gaziantep": 28.05,
-        "Genclerbirligi SK": 1.21,
-        "Draw": 5.11
-      },
-      "Winamax (DE)": {
-        "Gazişehir Gaziantep": 1000.0,
-        "Genclerbirligi SK": 1.01,
-        "Draw": 22.0
-      },
-      "Betsson": {
-        "Gazişehir Gaziantep": 126.0,
-        "Genclerbirligi SK": 1.0,
-        "Draw": 17.0
-      },
-      "Unibet (FR)": {
-        "Gazişehir Gaziantep": 100.0,
-        "Genclerbirligi SK": 1.01,
-        "Draw": 4.65
-      },
-      "Winamax (FR)": {
-        "Gazişehir Gaziantep": 600.0,
-        "Genclerbirligi SK": 1.03,
-        "Draw": 17.0
-      },
-      "Betclic (FR)": {
-        "Gazişehir Gaziantep": 100.0,
-        "Genclerbirligi SK": 1.0,
+    "66b0c66f449a35afd5be6038234deaa0:h2h": {
+      "Nordic Bet": {
+        "Grazer AK": 21.0,
+        "Rapid Wien": 1.0,
         "Draw": 21.0
       },
-      "Nordic Bet": {
-        "Gazişehir Gaziantep": 151.0,
-        "Genclerbirligi SK": 1.0,
-        "Draw": 17.0
-      },
-      "888sport": {
-        "Gazişehir Gaziantep": 101.0,
-        "Genclerbirligi SK": 1.04,
-        "Draw": 12.0
-      },
-      "Coolbet": {
-        "Gazişehir Gaziantep": 300.0,
-        "Genclerbirligi SK": 1.01,
-        "Draw": 20.0
-      },
-      "Betfair": {
-        "Gazişehir Gaziantep": 50.0,
-        "Genclerbirligi SK": 1.03,
-        "Draw": 13.5
-      }
-    },
-    "292bb5a50a3712fe2c6851b8d34fa1d9:h2h": {
-      "Unibet (NL)": {
-        "Eintracht Frankfurt": 1.95,
-        "Hamburger SV": 8.0,
-        "Draw": 2.1
-      },
-      "LeoVegas (SE)": {
-        "Eintracht Frankfurt": 1.8,
-        "Hamburger SV": 8.0,
-        "Draw": 2.12
-      },
-      "Unibet (SE)": {
-        "Eintracht Frankfurt": 1.87,
-        "Hamburger SV": 8.0,
-        "Draw": 2.2
-      },
-      "Tipico": {
-        "Eintracht Frankfurt": 1.8,
-        "Hamburger SV": 11.0,
-        "Draw": 2.2
-      },
-      "Pinnacle": {
-        "Eintracht Frankfurt": 1.95,
-        "Hamburger SV": 8.02,
-        "Draw": 2.27
-      },
-      "888sport": {
-        "Eintracht Frankfurt": 1.91,
-        "Hamburger SV": 6.5,
-        "Draw": 2.15
-      },
-      "William Hill": {
-        "Eintracht Frankfurt": 1.91,
-        "Hamburger SV": 6.5,
-        "Draw": 2.15
-      }
-    },
-    "d86ecaee759e888a3ecd2e72e734d14f:h2h": {
-      "Winamax (FR)": {
-        "1. FC Nürnberg": 1.33,
-        "Eintracht Braunschweig": 6.0,
-        "Draw": 3.85
-      },
-      "Winamax (DE)": {
-        "1. FC Nürnberg": 1.41,
-        "Eintracht Braunschweig": 7.0,
-        "Draw": 4.2
+      "Betclic (FR)": {
+        "Grazer AK": 100.0,
+        "Rapid Wien": 1.0,
+        "Draw": 40.0
       },
       "Betsson": {
-        "1. FC Nürnberg": 1.36,
-        "Eintracht Braunschweig": 7.7,
-        "Draw": 4.4
-      },
-      "Unibet (FR)": {
-        "1. FC Nürnberg": 1.3,
-        "Eintracht Braunschweig": 5.9,
-        "Draw": 3.65
+        "Grazer AK": 21.0,
+        "Rapid Wien": 1.0,
+        "Draw": 21.0
+      }
+    },
+    "ff32d41dd08acf21dc6b8fefa660e94a:h2h": {
+      "Winamax (FR)": {
+        "Empoli": 700.0,
+        "Pisa": 1.01,
+        "Draw": 18.0
       },
       "Nordic Bet": {
-        "1. FC Nürnberg": 1.36,
-        "Eintracht Braunschweig": 7.7,
-        "Draw": 4.4
-      },
-      "Tipico": {
-        "1. FC Nürnberg": 1.35,
-        "Eintracht Braunschweig": 7.5,
-        "Draw": 4.7
+        "Empoli": 80.0,
+        "Pisa": 1.04,
+        "Draw": 13.0
       },
       "Betclic (FR)": {
-        "1. FC Nürnberg": 1.3,
-        "Eintracht Braunschweig": 6.5,
-        "Draw": 3.9
-      },
-      "Marathon Bet": {
-        "1. FC Nürnberg": 1.35,
-        "Eintracht Braunschweig": 7.2,
-        "Draw": 4.5
-      },
-      "PMU (FR)": {
-        "1. FC Nürnberg": 1.24,
-        "Eintracht Braunschweig": 6.75,
-        "Draw": 4.0
-      },
-      "LeoVegas (SE)": {
-        "1. FC Nürnberg": 1.25,
-        "Eintracht Braunschweig": 7.0,
-        "Draw": 4.5
-      },
-      "Unibet (NL)": {
-        "1. FC Nürnberg": 1.33,
-        "Eintracht Braunschweig": 7.5,
-        "Draw": 4.7
-      },
-      "Unibet (SE)": {
-        "1. FC Nürnberg": 1.36,
-        "Eintracht Braunschweig": 7.5,
-        "Draw": 4.35
-      },
-      "Betfair": {
-        "1. FC Nürnberg": 1.42,
-        "Eintracht Braunschweig": 9.2,
-        "Draw": 5.1
-      },
-      "Coolbet": {
-        "1. FC Nürnberg": 1.4,
-        "Eintracht Braunschweig": 8.5,
-        "Draw": 5.0
+        "Empoli": 100.0,
+        "Pisa": 1.01,
+        "Draw": 13.0
       },
       "888sport": {
-        "1. FC Nürnberg": 1.36,
-        "Eintracht Braunschweig": 7.0,
+        "Empoli": 151.0,
+        "Pisa": 1.03,
+        "Draw": 15.0
+      },
+      "Betsson": {
+        "Empoli": 80.0,
+        "Pisa": 1.04,
+        "Draw": 13.0
+      },
+      "Winamax (DE)": {
+        "Empoli": 700.0,
+        "Pisa": 1.01,
+        "Draw": 19.0
+      },
+      "Unibet (FR)": {
+        "Empoli": 100.0,
+        "Pisa": 1.01,
+        "Draw": 4.7
+      },
+      "Betfair": {
+        "Empoli": 6.0,
+        "Pisa": 1.01,
+        "Draw": 1.01
+      },
+      "Coolbet": {
+        "Empoli": 150.0,
+        "Pisa": 1.01,
+        "Draw": 13.0
+      }
+    },
+    "67037ebf2ce5b3dd7e7cd6b30d5fbacb:h2h": {
+      "Pinnacle": {
+        "Saint Etienne": 1.28,
+        "Stade de Reims": 16.8,
+        "Draw": 4.48
+      },
+      "Nordic Bet": {
+        "Saint Etienne": 1.23,
+        "Stade de Reims": 19.5,
+        "Draw": 4.2
+      },
+      "Winamax (DE)": {
+        "Saint Etienne": 1.21,
+        "Stade de Reims": 21.0,
+        "Draw": 4.0
+      },
+      "Winamax (FR)": {
+        "Saint Etienne": 1.17,
+        "Stade de Reims": 21.0,
+        "Draw": 3.9
+      },
+      "Unibet (FR)": {
+        "Saint Etienne": 1.18,
+        "Stade de Reims": 15.5,
+        "Draw": 3.45
+      },
+      "Betsson": {
+        "Saint Etienne": 1.23,
+        "Stade de Reims": 19.5,
+        "Draw": 4.2
+      },
+      "888sport": {
+        "Saint Etienne": 1.22,
+        "Stade de Reims": 19.0,
         "Draw": 4.6
       },
+      "Marathon Bet": {
+        "Saint Etienne": 1.21,
+        "Stade de Reims": 16.75,
+        "Draw": 4.6
+      },
+      "Tipico": {
+        "Saint Etienne": 1.18,
+        "Stade de Reims": 22.0,
+        "Draw": 4.7
+      },
+      "Coolbet": {
+        "Saint Etienne": 1.25,
+        "Stade de Reims": 20.0,
+        "Draw": 4.33
+      },
+      "PMU (FR)": {
+        "Saint Etienne": 1.15,
+        "Stade de Reims": 17.0,
+        "Draw": 4.5
+      },
+      "Unibet (SE)": {
+        "Saint Etienne": 1.22,
+        "Stade de Reims": 17.0,
+        "Draw": 4.5
+      },
+      "LeoVegas (SE)": {
+        "Saint Etienne": 1.14,
+        "Stade de Reims": 17.0,
+        "Draw": 4.4
+      },
+      "Unibet (NL)": {
+        "Saint Etienne": 1.21,
+        "Stade de Reims": 18.0,
+        "Draw": 4.5
+      },
+      "Betfair": {
+        "Saint Etienne": 1.3,
+        "Stade de Reims": 25.0,
+        "Draw": 4.9
+      },
       "Matchbook": {
-        "1. FC Nürnberg": 1.42,
-        "Eintracht Braunschweig": 9.2,
+        "Saint Etienne": 1.28,
+        "Stade de Reims": 30.0,
         "Draw": 5.0
       }
     },
-    "3885e90049f2430c338ff29a68c0bb47:h2h": {
+    "b7ca8ba1c5ab8138e04db89aeb91b98a:h2h": {
       "Pinnacle": {
-        "Greuther Fürth": 5.62,
-        "Hannover 96": 1.64,
-        "Draw": 3.74
+        "New England Revolution": 1.68,
+        "Philadelphia Union": 5.76,
+        "Draw": 3.43
       },
       "Winamax (FR)": {
-        "Greuther Fürth": 4.0,
-        "Hannover 96": 1.64,
+        "New England Revolution": 1.5,
+        "Philadelphia Union": 5.7,
         "Draw": 2.85
       },
       "Winamax (DE)": {
-        "Greuther Fürth": 4.5,
-        "Hannover 96": 1.8,
-        "Draw": 3.1
-      },
-      "Betsson": {
-        "Greuther Fürth": 4.85,
-        "Hannover 96": 1.72,
-        "Draw": 3.2
+        "New England Revolution": 1.56,
+        "Philadelphia Union": 6.0,
+        "Draw": 3.0
       },
       "Unibet (FR)": {
-        "Greuther Fürth": 4.2,
-        "Hannover 96": 1.6,
-        "Draw": 2.9
-      },
-      "Nordic Bet": {
-        "Greuther Fürth": 4.85,
-        "Hannover 96": 1.72,
-        "Draw": 3.2
-      },
-      "Tipico": {
-        "Greuther Fürth": 5.2,
-        "Hannover 96": 1.65,
-        "Draw": 3.4
+        "New England Revolution": 1.47,
+        "Philadelphia Union": 5.7,
+        "Draw": 2.8
       },
       "Betclic (FR)": {
-        "Greuther Fürth": 4.3,
-        "Hannover 96": 1.63,
-        "Draw": 3.03
-      },
-      "Marathon Bet": {
-        "Greuther Fürth": 4.75,
-        "Hannover 96": 1.71,
-        "Draw": 3.25
-      },
-      "PMU (FR)": {
-        "Greuther Fürth": 4.0,
-        "Hannover 96": 1.61,
-        "Draw": 2.95
-      },
-      "LeoVegas (SE)": {
-        "Greuther Fürth": 4.1,
-        "Hannover 96": 1.66,
-        "Draw": 3.05
-      },
-      "Unibet (NL)": {
-        "Greuther Fürth": 4.35,
-        "Hannover 96": 1.77,
-        "Draw": 3.25
-      },
-      "Unibet (SE)": {
-        "Greuther Fürth": 4.35,
-        "Hannover 96": 1.77,
-        "Draw": 3.25
-      },
-      "Coolbet": {
-        "Greuther Fürth": 5.5,
-        "Hannover 96": 1.8,
-        "Draw": 3.4
-      },
-      "Betfair": {
-        "Greuther Fürth": 5.4,
-        "Hannover 96": 1.84,
-        "Draw": 3.55
+        "New England Revolution": 1.5,
+        "Philadelphia Union": 5.8,
+        "Draw": 2.9
       },
       "888sport": {
-        "Greuther Fürth": 4.5,
-        "Hannover 96": 1.75,
-        "Draw": 3.1
+        "New England Revolution": 1.65,
+        "Philadelphia Union": 5.5,
+        "Draw": 3.2
+      },
+      "Betfair": {
+        "New England Revolution": 1.68,
+        "Philadelphia Union": 7.4,
+        "Draw": 3.55
+      },
+      "MyBookie.ag": {
+        "New England Revolution": 1.6,
+        "Philadelphia Union": 5.5,
+        "Draw": 3.3
+      },
+      "Marathon Bet": {
+        "New England Revolution": 1.59,
+        "Philadelphia Union": 6.65,
+        "Draw": 3.34
+      },
+      "Betsson": {
+        "New England Revolution": 1.6,
+        "Philadelphia Union": 6.8,
+        "Draw": 3.15
+      },
+      "Nordic Bet": {
+        "New England Revolution": 1.6,
+        "Philadelphia Union": 6.8,
+        "Draw": 3.15
+      },
+      "Coolbet": {
+        "New England Revolution": 1.53,
+        "Philadelphia Union": 8.0,
+        "Draw": 3.4
+      },
+      "Unibet (SE)": {
+        "New England Revolution": 1.66,
+        "Philadelphia Union": 6.25,
+        "Draw": 3.15
+      },
+      "LeoVegas (SE)": {
+        "New England Revolution": 1.61,
+        "Philadelphia Union": 6.1,
+        "Draw": 3.0
+      },
+      "Unibet (NL)": {
+        "New England Revolution": 1.68,
+        "Philadelphia Union": 6.25,
+        "Draw": 3.05
+      },
+      "PMU (FR)": {
+        "New England Revolution": 1.54,
+        "Philadelphia Union": 5.8,
+        "Draw": 2.88
       },
       "Matchbook": {
-        "Greuther Fürth": 5.4,
-        "Hannover 96": 1.86,
-        "Draw": 3.55
+        "New England Revolution": 1.64,
+        "Philadelphia Union": 7.8,
+        "Draw": 3.65
       }
     }
   },
@@ -2356,29 +2331,264 @@
       "confidence": 7,
       "alert_type": "value",
       "alerted_at": "2026-11-21T12:31:36.630884+00:00"
+    },
+    {
+      "state_key": "67037ebf2ce5b3dd7e7cd6b30d5fbacb:h2h",
+      "event_id": "67037ebf2ce5b3dd7e7cd6b30d5fbacb",
+      "sport_key": "soccer",
+      "competition": "Ligue 2 - France",
+      "home_team": "Stade de Reims",
+      "away_team": "Saint Etienne",
+      "commence_time": "2026-11-21T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Stade de Reims",
+      "odds_at_alert": 19.5,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-11-21T20:28:50.796819+00:00"
+    },
+    {
+      "state_key": "67037ebf2ce5b3dd7e7cd6b30d5fbacb:h2h",
+      "event_id": "67037ebf2ce5b3dd7e7cd6b30d5fbacb",
+      "sport_key": "soccer",
+      "competition": "Ligue 2 - France",
+      "home_team": "Stade de Reims",
+      "away_team": "Saint Etienne",
+      "commence_time": "2026-11-21T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Stade de Reims",
+      "odds_at_alert": 21.0,
+      "stake_pct": 5.0,
+      "confidence": 17,
+      "alert_type": "value",
+      "alerted_at": "2026-11-21T20:28:51.138126+00:00"
+    },
+    {
+      "state_key": "67037ebf2ce5b3dd7e7cd6b30d5fbacb:h2h",
+      "event_id": "67037ebf2ce5b3dd7e7cd6b30d5fbacb",
+      "sport_key": "soccer",
+      "competition": "Ligue 2 - France",
+      "home_team": "Stade de Reims",
+      "away_team": "Saint Etienne",
+      "commence_time": "2026-11-21T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Stade de Reims",
+      "odds_at_alert": 21.0,
+      "stake_pct": 5.0,
+      "confidence": 17,
+      "alert_type": "value",
+      "alerted_at": "2026-11-21T20:28:51.510666+00:00"
+    },
+    {
+      "state_key": "67037ebf2ce5b3dd7e7cd6b30d5fbacb:h2h",
+      "event_id": "67037ebf2ce5b3dd7e7cd6b30d5fbacb",
+      "sport_key": "soccer",
+      "competition": "Ligue 2 - France",
+      "home_team": "Stade de Reims",
+      "away_team": "Saint Etienne",
+      "commence_time": "2026-11-21T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Stade de Reims",
+      "odds_at_alert": 19.5,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-11-21T20:28:51.855219+00:00"
+    },
+    {
+      "state_key": "67037ebf2ce5b3dd7e7cd6b30d5fbacb:h2h",
+      "event_id": "67037ebf2ce5b3dd7e7cd6b30d5fbacb",
+      "sport_key": "soccer",
+      "competition": "Ligue 2 - France",
+      "home_team": "Stade de Reims",
+      "away_team": "Saint Etienne",
+      "commence_time": "2026-11-21T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Stade de Reims",
+      "odds_at_alert": 19.0,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-11-21T20:28:52.187543+00:00"
+    },
+    {
+      "state_key": "67037ebf2ce5b3dd7e7cd6b30d5fbacb:h2h",
+      "event_id": "67037ebf2ce5b3dd7e7cd6b30d5fbacb",
+      "sport_key": "soccer",
+      "competition": "Ligue 2 - France",
+      "home_team": "Stade de Reims",
+      "away_team": "Saint Etienne",
+      "commence_time": "2026-11-21T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Stade de Reims",
+      "odds_at_alert": 22.0,
+      "stake_pct": 5.0,
+      "confidence": 23,
+      "alert_type": "value",
+      "alerted_at": "2026-11-21T20:28:52.548738+00:00"
+    },
+    {
+      "state_key": "67037ebf2ce5b3dd7e7cd6b30d5fbacb:h2h",
+      "event_id": "67037ebf2ce5b3dd7e7cd6b30d5fbacb",
+      "sport_key": "soccer",
+      "competition": "Ligue 2 - France",
+      "home_team": "Stade de Reims",
+      "away_team": "Saint Etienne",
+      "commence_time": "2026-11-21T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Stade de Reims",
+      "odds_at_alert": 20.0,
+      "stake_pct": 3.0,
+      "confidence": 12,
+      "alert_type": "value",
+      "alerted_at": "2026-11-21T20:28:52.907817+00:00"
+    },
+    {
+      "state_key": "67037ebf2ce5b3dd7e7cd6b30d5fbacb:h2h",
+      "event_id": "67037ebf2ce5b3dd7e7cd6b30d5fbacb",
+      "sport_key": "soccer",
+      "competition": "Ligue 2 - France",
+      "home_team": "Stade de Reims",
+      "away_team": "Saint Etienne",
+      "commence_time": "2026-11-21T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Stade de Reims",
+      "odds_at_alert": 25.0,
+      "stake_pct": 5.0,
+      "confidence": 40,
+      "alert_type": "value",
+      "alerted_at": "2026-11-21T20:28:53.294437+00:00"
+    },
+    {
+      "state_key": "67037ebf2ce5b3dd7e7cd6b30d5fbacb:h2h",
+      "event_id": "67037ebf2ce5b3dd7e7cd6b30d5fbacb",
+      "sport_key": "soccer",
+      "competition": "Ligue 2 - France",
+      "home_team": "Stade de Reims",
+      "away_team": "Saint Etienne",
+      "commence_time": "2026-11-21T19:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Stade de Reims",
+      "odds_at_alert": 30.0,
+      "stake_pct": 5.0,
+      "confidence": 68,
+      "alert_type": "value",
+      "alerted_at": "2026-11-21T20:28:53.620261+00:00"
+    },
+    {
+      "state_key": "b7ca8ba1c5ab8138e04db89aeb91b98a:h2h",
+      "event_id": "b7ca8ba1c5ab8138e04db89aeb91b98a",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "New England Revolution",
+      "away_team": "Philadelphia Union",
+      "commence_time": "2026-11-21T19:10:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Philadelphia Union",
+      "odds_at_alert": 7.4,
+      "stake_pct": 5.0,
+      "confidence": 21,
+      "alert_type": "value",
+      "alerted_at": "2026-11-21T20:28:53.962210+00:00"
+    },
+    {
+      "state_key": "b7ca8ba1c5ab8138e04db89aeb91b98a:h2h",
+      "event_id": "b7ca8ba1c5ab8138e04db89aeb91b98a",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "New England Revolution",
+      "away_team": "Philadelphia Union",
+      "commence_time": "2026-11-21T19:10:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Philadelphia Union",
+      "odds_at_alert": 6.65,
+      "stake_pct": 2.0,
+      "confidence": 9,
+      "alert_type": "value",
+      "alerted_at": "2026-11-21T20:28:54.304911+00:00"
+    },
+    {
+      "state_key": "b7ca8ba1c5ab8138e04db89aeb91b98a:h2h",
+      "event_id": "b7ca8ba1c5ab8138e04db89aeb91b98a",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "New England Revolution",
+      "away_team": "Philadelphia Union",
+      "commence_time": "2026-11-21T19:10:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Philadelphia Union",
+      "odds_at_alert": 6.8,
+      "stake_pct": 3.0,
+      "confidence": 11,
+      "alert_type": "value",
+      "alerted_at": "2026-11-21T20:28:54.644637+00:00"
+    },
+    {
+      "state_key": "b7ca8ba1c5ab8138e04db89aeb91b98a:h2h",
+      "event_id": "b7ca8ba1c5ab8138e04db89aeb91b98a",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "New England Revolution",
+      "away_team": "Philadelphia Union",
+      "commence_time": "2026-11-21T19:10:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Philadelphia Union",
+      "odds_at_alert": 6.8,
+      "stake_pct": 3.0,
+      "confidence": 11,
+      "alert_type": "value",
+      "alerted_at": "2026-11-21T20:28:54.993302+00:00"
+    },
+    {
+      "state_key": "b7ca8ba1c5ab8138e04db89aeb91b98a:h2h",
+      "event_id": "b7ca8ba1c5ab8138e04db89aeb91b98a",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "New England Revolution",
+      "away_team": "Philadelphia Union",
+      "commence_time": "2026-11-21T19:10:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Philadelphia Union",
+      "odds_at_alert": 8.0,
+      "stake_pct": 5.0,
+      "confidence": 31,
+      "alert_type": "value",
+      "alerted_at": "2026-11-21T20:28:55.320282+00:00"
+    },
+    {
+      "state_key": "b7ca8ba1c5ab8138e04db89aeb91b98a:h2h",
+      "event_id": "b7ca8ba1c5ab8138e04db89aeb91b98a",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "New England Revolution",
+      "away_team": "Philadelphia Union",
+      "commence_time": "2026-11-21T19:10:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Philadelphia Union",
+      "odds_at_alert": 7.8,
+      "stake_pct": 5.0,
+      "confidence": 28,
+      "alert_type": "value",
+      "alerted_at": "2026-11-21T20:28:55.657345+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "292bb5a50a3712fe2c6851b8d34fa1d9:h2h|Tipico|Hamburger SV",
-    "3885e90049f2430c338ff29a68c0bb47:h2h|Betfair|Hannover 96",
-    "3885e90049f2430c338ff29a68c0bb47:h2h|Matchbook|Hannover 96",
-    "bc405017f004bace7b944216134e1660:h2h|888sport|Draw",
-    "bc405017f004bace7b944216134e1660:h2h|888sport|Gazişehir Gaziantep",
-    "bc405017f004bace7b944216134e1660:h2h|Betclic (FR)|Draw",
-    "bc405017f004bace7b944216134e1660:h2h|Betclic (FR)|Gazişehir Gaziantep",
-    "bc405017f004bace7b944216134e1660:h2h|Betfair|Draw",
-    "bc405017f004bace7b944216134e1660:h2h|Betfair|Gazişehir Gaziantep",
-    "bc405017f004bace7b944216134e1660:h2h|Betsson|Draw",
-    "bc405017f004bace7b944216134e1660:h2h|Betsson|Gazişehir Gaziantep",
-    "bc405017f004bace7b944216134e1660:h2h|Coolbet|Draw",
-    "bc405017f004bace7b944216134e1660:h2h|Coolbet|Gazişehir Gaziantep",
-    "bc405017f004bace7b944216134e1660:h2h|Nordic Bet|Draw",
-    "bc405017f004bace7b944216134e1660:h2h|Nordic Bet|Gazişehir Gaziantep",
-    "bc405017f004bace7b944216134e1660:h2h|Unibet (FR)|Gazişehir Gaziantep",
-    "bc405017f004bace7b944216134e1660:h2h|Winamax (DE)|Draw",
-    "bc405017f004bace7b944216134e1660:h2h|Winamax (DE)|Gazişehir Gaziantep",
-    "bc405017f004bace7b944216134e1660:h2h|Winamax (FR)|Draw",
-    "bc405017f004bace7b944216134e1660:h2h|Winamax (FR)|Gazişehir Gaziantep"
+    "67037ebf2ce5b3dd7e7cd6b30d5fbacb:h2h|888sport|Stade de Reims",
+    "67037ebf2ce5b3dd7e7cd6b30d5fbacb:h2h|Betfair|Stade de Reims",
+    "67037ebf2ce5b3dd7e7cd6b30d5fbacb:h2h|Betsson|Stade de Reims",
+    "67037ebf2ce5b3dd7e7cd6b30d5fbacb:h2h|Coolbet|Stade de Reims",
+    "67037ebf2ce5b3dd7e7cd6b30d5fbacb:h2h|Matchbook|Stade de Reims",
+    "67037ebf2ce5b3dd7e7cd6b30d5fbacb:h2h|Nordic Bet|Stade de Reims",
+    "67037ebf2ce5b3dd7e7cd6b30d5fbacb:h2h|Tipico|Stade de Reims",
+    "67037ebf2ce5b3dd7e7cd6b30d5fbacb:h2h|Winamax (DE)|Stade de Reims",
+    "67037ebf2ce5b3dd7e7cd6b30d5fbacb:h2h|Winamax (FR)|Stade de Reims",
+    "b7ca8ba1c5ab8138e04db89aeb91b98a:h2h|Betfair|Philadelphia Union",
+    "b7ca8ba1c5ab8138e04db89aeb91b98a:h2h|Betsson|Philadelphia Union",
+    "b7ca8ba1c5ab8138e04db89aeb91b98a:h2h|Coolbet|Philadelphia Union",
+    "b7ca8ba1c5ab8138e04db89aeb91b98a:h2h|Marathon Bet|Philadelphia Union",
+    "b7ca8ba1c5ab8138e04db89aeb91b98a:h2h|Matchbook|Philadelphia Union",
+    "b7ca8ba1c5ab8138e04db89aeb91b98a:h2h|Nordic Bet|Philadelphia Union"
   ]
 }
