@@ -1,236 +1,286 @@
 {
   "snapshots": {
-    "66b0c66f449a35afd5be6038234deaa0:h2h": {
-      "Nordic Bet": {
-        "Grazer AK": 21.0,
-        "Rapid Wien": 1.0,
-        "Draw": 21.0
-      },
-      "Betclic (FR)": {
-        "Grazer AK": 100.0,
-        "Rapid Wien": 1.0,
-        "Draw": 40.0
+    "5f2cf96318bd595404b995c80d5f14a5:h2h": {
+      "Pinnacle": {
+        "Chapecoense": 11.03,
+        "Cruzeiro": 3.23,
+        "Draw": 1.53
       },
       "Betsson": {
-        "Grazer AK": 21.0,
-        "Rapid Wien": 1.0,
-        "Draw": 21.0
-      }
-    },
-    "ff32d41dd08acf21dc6b8fefa660e94a:h2h": {
-      "Winamax (FR)": {
-        "Empoli": 700.0,
-        "Pisa": 1.01,
-        "Draw": 18.0
+        "Chapecoense": 81.0,
+        "Cruzeiro": 1.0,
+        "Draw": 17.0
       },
-      "Nordic Bet": {
-        "Empoli": 80.0,
-        "Pisa": 1.04,
-        "Draw": 13.0
-      },
-      "Betclic (FR)": {
-        "Empoli": 100.0,
-        "Pisa": 1.01,
-        "Draw": 13.0
-      },
-      "888sport": {
-        "Empoli": 151.0,
-        "Pisa": 1.03,
-        "Draw": 15.0
-      },
-      "Betsson": {
-        "Empoli": 80.0,
-        "Pisa": 1.04,
-        "Draw": 13.0
-      },
-      "Winamax (DE)": {
-        "Empoli": 700.0,
-        "Pisa": 1.01,
-        "Draw": 19.0
-      },
-      "Unibet (FR)": {
-        "Empoli": 100.0,
-        "Pisa": 1.01,
-        "Draw": 4.7
+      "MyBookie.ag": {
+        "Chapecoense": 12.5,
+        "Cruzeiro": 1.03,
+        "Draw": 9.0
       },
       "Betfair": {
-        "Empoli": 6.0,
-        "Pisa": 1.01,
-        "Draw": 1.01
-      },
-      "Coolbet": {
-        "Empoli": 150.0,
-        "Pisa": 1.01,
-        "Draw": 13.0
+        "Chapecoense": 6.0,
+        "Cruzeiro": 1.02,
+        "Draw": 26.0
       }
     },
-    "67037ebf2ce5b3dd7e7cd6b30d5fbacb:h2h": {
-      "Pinnacle": {
-        "Saint Etienne": 1.28,
-        "Stade de Reims": 16.8,
-        "Draw": 4.48
+    "10363d7b08803670823c324d46e1d454:h2h": {
+      "PMU (FR)": {
+        "Monterrey": 2.6,
+        "Pumas": 2.6,
+        "Draw": 2.25
+      },
+      "Unibet (NL)": {
+        "Monterrey": 2.9,
+        "Pumas": 2.9,
+        "Draw": 2.5
+      },
+      "Marathon Bet": {
+        "Monterrey": 2.79,
+        "Pumas": 2.99,
+        "Draw": 2.44
+      },
+      "LeoVegas (SE)": {
+        "Monterrey": 2.75,
+        "Pumas": 2.7,
+        "Draw": 2.35
+      },
+      "888sport": {
+        "Monterrey": 2.7,
+        "Pumas": 2.9,
+        "Draw": 2.25
+      },
+      "Unibet (SE)": {
+        "Monterrey": 2.9,
+        "Pumas": 2.9,
+        "Draw": 2.5
+      },
+      "Betsson": {
+        "Monterrey": 2.92,
+        "Pumas": 3.05,
+        "Draw": 2.35
       },
       "Nordic Bet": {
-        "Saint Etienne": 1.23,
-        "Stade de Reims": 19.5,
-        "Draw": 4.2
+        "Monterrey": 2.92,
+        "Pumas": 3.05,
+        "Draw": 2.35
+      },
+      "Betclic (FR)": {
+        "Monterrey": 2.65,
+        "Pumas": 2.85,
+        "Draw": 2.23
+      },
+      "Tipico": {
+        "Monterrey": 2.7,
+        "Pumas": 3.1,
+        "Draw": 2.4
+      },
+      "Pinnacle": {
+        "Monterrey": 2.95,
+        "Pumas": 3.06,
+        "Draw": 2.5
+      },
+      "Coolbet": {
+        "Monterrey": 3.14,
+        "Pumas": 3.25,
+        "Draw": 2.4
+      },
+      "Matchbook": {
+        "Monterrey": 2.98,
+        "Pumas": 3.2,
+        "Draw": 2.72
+      },
+      "Betfair": {
+        "Monterrey": 2.98,
+        "Pumas": 3.2,
+        "Draw": 2.72
+      }
+    },
+    "89a9e84b79ee5ae92a3863868a7a11f2:h2h": {
+      "Pinnacle": {
+        "Macarthur FC": 4.13,
+        "Wellington Phoenix FC": 1.88,
+        "Draw": 3.87
+      },
+      "888sport": {
+        "Macarthur FC": 2.15,
+        "Wellington Phoenix FC": 2.88,
+        "Draw": 3.4
       },
       "Winamax (DE)": {
-        "Saint Etienne": 1.21,
-        "Stade de Reims": 21.0,
-        "Draw": 4.0
+        "Macarthur FC": 2.0,
+        "Wellington Phoenix FC": 2.75,
+        "Draw": 3.25
       },
-      "Winamax (FR)": {
-        "Saint Etienne": 1.17,
-        "Stade de Reims": 21.0,
-        "Draw": 3.9
+      "Marathon Bet": {
+        "Macarthur FC": 2.12,
+        "Wellington Phoenix FC": 2.99,
+        "Draw": 3.68
       },
       "Unibet (FR)": {
-        "Saint Etienne": 1.18,
-        "Stade de Reims": 15.5,
+        "Macarthur FC": 3.45,
+        "Wellington Phoenix FC": 1.65,
+        "Draw": 3.15
+      },
+      "William Hill": {
+        "Macarthur FC": 3.8,
+        "Wellington Phoenix FC": 1.8,
+        "Draw": 3.6
+      },
+      "Winamax (FR)": {
+        "Macarthur FC": 1.98,
+        "Wellington Phoenix FC": 2.6,
+        "Draw": 3.0
+      },
+      "Coolbet": {
+        "Macarthur FC": 4.0,
+        "Wellington Phoenix FC": 1.91,
+        "Draw": 3.8
+      },
+      "Nordic Bet": {
+        "Macarthur FC": 2.15,
+        "Wellington Phoenix FC": 2.88,
+        "Draw": 3.5
+      },
+      "Betsson": {
+        "Macarthur FC": 3.9,
+        "Wellington Phoenix FC": 1.82,
+        "Draw": 3.5
+      },
+      "Codere (IT)": {
+        "Macarthur FC": 3.9,
+        "Wellington Phoenix FC": 1.84,
+        "Draw": 3.7
+      },
+      "PMU (FR)": {
+        "Macarthur FC": 1.8,
+        "Wellington Phoenix FC": 2.95,
+        "Draw": 3.2
+      },
+      "Unibet (NL)": {
+        "Macarthur FC": 2.02,
+        "Wellington Phoenix FC": 3.25,
+        "Draw": 3.55
+      },
+      "LeoVegas (SE)": {
+        "Macarthur FC": 1.95,
+        "Wellington Phoenix FC": 3.1,
+        "Draw": 3.5
+      },
+      "Unibet (SE)": {
+        "Macarthur FC": 2.02,
+        "Wellington Phoenix FC": 3.25,
+        "Draw": 3.55
+      },
+      "BetOnline.ag": {
+        "Macarthur FC": 3.95,
+        "Wellington Phoenix FC": 1.89,
+        "Draw": 3.94
+      },
+      "GTbets": {
+        "Macarthur FC": 3.84,
+        "Wellington Phoenix FC": 1.88,
+        "Draw": 3.72
+      },
+      "Matchbook": {
+        "Macarthur FC": 2.3,
+        "Wellington Phoenix FC": 3.1,
+        "Draw": 3.9
+      },
+      "Betfair": {
+        "Macarthur FC": 1.93,
+        "Wellington Phoenix FC": 2.78,
+        "Draw": 3.6
+      }
+    },
+    "20ba73922508d05d2403100ca78199d5:h2h": {
+      "LeoVegas (SE)": {
+        "América": 1.93,
+        "Tigres": 3.15,
+        "Draw": 3.4
+      },
+      "PMU (FR)": {
+        "América": 1.87,
+        "Tigres": 3.05,
+        "Draw": 3.3
+      },
+      "Unibet (NL)": {
+        "América": 2.0,
+        "Tigres": 3.25,
+        "Draw": 3.55
+      },
+      "Marathon Bet": {
+        "América": 1.96,
+        "Tigres": 3.44,
+        "Draw": 3.5
+      },
+      "Pinnacle": {
+        "América": 1.97,
+        "Tigres": 3.84,
+        "Draw": 3.71
+      },
+      "1xBet": {
+        "América": 1.98,
+        "Tigres": 3.46,
+        "Draw": 3.5
+      },
+      "888sport": {
+        "América": 1.91,
+        "Tigres": 3.4,
+        "Draw": 3.25
+      },
+      "Tipico": {
+        "América": 1.8,
+        "Tigres": 3.7,
+        "Draw": 3.7
+      },
+      "Unibet (SE)": {
+        "América": 2.0,
+        "Tigres": 3.25,
+        "Draw": 3.55
+      },
+      "Nordic Bet": {
+        "América": 1.92,
+        "Tigres": 3.7,
         "Draw": 3.45
       },
       "Betsson": {
-        "Saint Etienne": 1.23,
-        "Stade de Reims": 19.5,
-        "Draw": 4.2
+        "América": 1.92,
+        "Tigres": 3.7,
+        "Draw": 3.45
       },
-      "888sport": {
-        "Saint Etienne": 1.22,
-        "Stade de Reims": 19.0,
-        "Draw": 4.6
-      },
-      "Marathon Bet": {
-        "Saint Etienne": 1.21,
-        "Stade de Reims": 16.75,
-        "Draw": 4.6
-      },
-      "Tipico": {
-        "Saint Etienne": 1.18,
-        "Stade de Reims": 22.0,
-        "Draw": 4.7
-      },
-      "Coolbet": {
-        "Saint Etienne": 1.25,
-        "Stade de Reims": 20.0,
-        "Draw": 4.33
-      },
-      "PMU (FR)": {
-        "Saint Etienne": 1.15,
-        "Stade de Reims": 17.0,
-        "Draw": 4.5
-      },
-      "Unibet (SE)": {
-        "Saint Etienne": 1.22,
-        "Stade de Reims": 17.0,
-        "Draw": 4.5
-      },
-      "LeoVegas (SE)": {
-        "Saint Etienne": 1.14,
-        "Stade de Reims": 17.0,
-        "Draw": 4.4
-      },
-      "Unibet (NL)": {
-        "Saint Etienne": 1.21,
-        "Stade de Reims": 18.0,
-        "Draw": 4.5
-      },
-      "Betfair": {
-        "Saint Etienne": 1.3,
-        "Stade de Reims": 25.0,
-        "Draw": 4.9
-      },
-      "Matchbook": {
-        "Saint Etienne": 1.28,
-        "Stade de Reims": 30.0,
-        "Draw": 5.0
-      }
-    },
-    "b7ca8ba1c5ab8138e04db89aeb91b98a:h2h": {
-      "Pinnacle": {
-        "New England Revolution": 1.68,
-        "Philadelphia Union": 5.76,
-        "Draw": 3.43
-      },
-      "Winamax (FR)": {
-        "New England Revolution": 1.5,
-        "Philadelphia Union": 5.7,
-        "Draw": 2.85
-      },
-      "Winamax (DE)": {
-        "New England Revolution": 1.56,
-        "Philadelphia Union": 6.0,
-        "Draw": 3.0
-      },
-      "Unibet (FR)": {
-        "New England Revolution": 1.47,
-        "Philadelphia Union": 5.7,
-        "Draw": 2.8
+      "William Hill": {
+        "América": 1.91,
+        "Tigres": 3.4,
+        "Draw": 3.25
       },
       "Betclic (FR)": {
-        "New England Revolution": 1.5,
-        "Philadelphia Union": 5.8,
-        "Draw": 2.9
-      },
-      "888sport": {
-        "New England Revolution": 1.65,
-        "Philadelphia Union": 5.5,
-        "Draw": 3.2
-      },
-      "Betfair": {
-        "New England Revolution": 1.68,
-        "Philadelphia Union": 7.4,
-        "Draw": 3.55
-      },
-      "MyBookie.ag": {
-        "New England Revolution": 1.6,
-        "Philadelphia Union": 5.5,
-        "Draw": 3.3
-      },
-      "Marathon Bet": {
-        "New England Revolution": 1.59,
-        "Philadelphia Union": 6.65,
-        "Draw": 3.34
-      },
-      "Betsson": {
-        "New England Revolution": 1.6,
-        "Philadelphia Union": 6.8,
-        "Draw": 3.15
-      },
-      "Nordic Bet": {
-        "New England Revolution": 1.6,
-        "Philadelphia Union": 6.8,
-        "Draw": 3.15
+        "América": 1.86,
+        "Tigres": 3.37,
+        "Draw": 3.48
       },
       "Coolbet": {
-        "New England Revolution": 1.53,
-        "Philadelphia Union": 8.0,
-        "Draw": 3.4
+        "América": 2.08,
+        "Tigres": 3.4,
+        "Draw": 3.5
       },
-      "Unibet (SE)": {
-        "New England Revolution": 1.66,
-        "Philadelphia Union": 6.25,
-        "Draw": 3.15
+      "BetOnline.ag": {
+        "América": 1.96,
+        "Tigres": 3.87,
+        "Draw": 3.75
       },
-      "LeoVegas (SE)": {
-        "New England Revolution": 1.61,
-        "Philadelphia Union": 6.1,
-        "Draw": 3.0
+      "GTbets": {
+        "América": 1.99,
+        "Tigres": 3.48,
+        "Draw": 3.6
       },
-      "Unibet (NL)": {
-        "New England Revolution": 1.68,
-        "Philadelphia Union": 6.25,
-        "Draw": 3.05
-      },
-      "PMU (FR)": {
-        "New England Revolution": 1.54,
-        "Philadelphia Union": 5.8,
-        "Draw": 2.88
+      "Betfair": {
+        "América": 2.0,
+        "Tigres": 3.85,
+        "Draw": 3.9
       },
       "Matchbook": {
-        "New England Revolution": 1.64,
-        "Philadelphia Union": 7.8,
-        "Draw": 3.65
+        "América": 2.0,
+        "Tigres": 3.85,
+        "Draw": 3.9
       }
     }
   },
@@ -2315,24 +2365,281 @@
       "confidence": 28,
       "alert_type": "value",
       "alerted_at": "2026-11-21T20:28:55.657345+00:00"
+    },
+    {
+      "state_key": "5f2cf96318bd595404b995c80d5f14a5:h2h",
+      "event_id": "5f2cf96318bd595404b995c80d5f14a5",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Chapecoense",
+      "away_team": "Cruzeiro",
+      "commence_time": "2026-11-22T00:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Chapecoense",
+      "odds_at_alert": 81.0,
+      "stake_pct": 5.0,
+      "confidence": 597,
+      "alert_type": "value",
+      "alerted_at": "2026-11-22T02:08:03.429699+00:00"
+    },
+    {
+      "state_key": "5f2cf96318bd595404b995c80d5f14a5:h2h",
+      "event_id": "5f2cf96318bd595404b995c80d5f14a5",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Chapecoense",
+      "away_team": "Cruzeiro",
+      "commence_time": "2026-11-22T00:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 17.0,
+      "stake_pct": 5.0,
+      "confidence": 954,
+      "alert_type": "value",
+      "alerted_at": "2026-11-22T02:08:03.825673+00:00"
+    },
+    {
+      "state_key": "5f2cf96318bd595404b995c80d5f14a5:h2h",
+      "event_id": "5f2cf96318bd595404b995c80d5f14a5",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Chapecoense",
+      "away_team": "Cruzeiro",
+      "commence_time": "2026-11-22T00:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Chapecoense",
+      "odds_at_alert": 12.5,
+      "stake_pct": 2.0,
+      "confidence": 8,
+      "alert_type": "value",
+      "alerted_at": "2026-11-22T02:08:04.219973+00:00"
+    },
+    {
+      "state_key": "5f2cf96318bd595404b995c80d5f14a5:h2h",
+      "event_id": "5f2cf96318bd595404b995c80d5f14a5",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Chapecoense",
+      "away_team": "Cruzeiro",
+      "commence_time": "2026-11-22T00:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 9.0,
+      "stake_pct": 5.0,
+      "confidence": 458,
+      "alert_type": "value",
+      "alerted_at": "2026-11-22T02:08:04.613625+00:00"
+    },
+    {
+      "state_key": "5f2cf96318bd595404b995c80d5f14a5:h2h",
+      "event_id": "5f2cf96318bd595404b995c80d5f14a5",
+      "sport_key": "soccer",
+      "competition": "Brazil Série A",
+      "home_team": "Chapecoense",
+      "away_team": "Cruzeiro",
+      "commence_time": "2026-11-22T00:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 26.0,
+      "stake_pct": 5.0,
+      "confidence": 1513,
+      "alert_type": "value",
+      "alerted_at": "2026-11-22T02:08:04.993620+00:00"
+    },
+    {
+      "state_key": "89a9e84b79ee5ae92a3863868a7a11f2:h2h",
+      "event_id": "89a9e84b79ee5ae92a3863868a7a11f2",
+      "sport_key": "soccer",
+      "competition": "A-League",
+      "home_team": "Wellington Phoenix FC",
+      "away_team": "Macarthur FC",
+      "commence_time": "2026-11-22T02:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Wellington Phoenix FC",
+      "odds_at_alert": 2.88,
+      "stake_pct": 5.0,
+      "confidence": 48,
+      "alert_type": "value",
+      "alerted_at": "2026-11-22T02:08:05.392439+00:00"
+    },
+    {
+      "state_key": "89a9e84b79ee5ae92a3863868a7a11f2:h2h",
+      "event_id": "89a9e84b79ee5ae92a3863868a7a11f2",
+      "sport_key": "soccer",
+      "competition": "A-League",
+      "home_team": "Wellington Phoenix FC",
+      "away_team": "Macarthur FC",
+      "commence_time": "2026-11-22T02:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Wellington Phoenix FC",
+      "odds_at_alert": 2.75,
+      "stake_pct": 5.0,
+      "confidence": 42,
+      "alert_type": "value",
+      "alerted_at": "2026-11-22T02:08:05.801536+00:00"
+    },
+    {
+      "state_key": "89a9e84b79ee5ae92a3863868a7a11f2:h2h",
+      "event_id": "89a9e84b79ee5ae92a3863868a7a11f2",
+      "sport_key": "soccer",
+      "competition": "A-League",
+      "home_team": "Wellington Phoenix FC",
+      "away_team": "Macarthur FC",
+      "commence_time": "2026-11-22T02:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Wellington Phoenix FC",
+      "odds_at_alert": 2.99,
+      "stake_pct": 5.0,
+      "confidence": 54,
+      "alert_type": "value",
+      "alerted_at": "2026-11-22T02:08:06.216999+00:00"
+    },
+    {
+      "state_key": "89a9e84b79ee5ae92a3863868a7a11f2:h2h",
+      "event_id": "89a9e84b79ee5ae92a3863868a7a11f2",
+      "sport_key": "soccer",
+      "competition": "A-League",
+      "home_team": "Wellington Phoenix FC",
+      "away_team": "Macarthur FC",
+      "commence_time": "2026-11-22T02:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Wellington Phoenix FC",
+      "odds_at_alert": 2.6,
+      "stake_pct": 5.0,
+      "confidence": 34,
+      "alert_type": "value",
+      "alerted_at": "2026-11-22T02:08:06.715941+00:00"
+    },
+    {
+      "state_key": "89a9e84b79ee5ae92a3863868a7a11f2:h2h",
+      "event_id": "89a9e84b79ee5ae92a3863868a7a11f2",
+      "sport_key": "soccer",
+      "competition": "A-League",
+      "home_team": "Wellington Phoenix FC",
+      "away_team": "Macarthur FC",
+      "commence_time": "2026-11-22T02:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Wellington Phoenix FC",
+      "odds_at_alert": 2.88,
+      "stake_pct": 5.0,
+      "confidence": 48,
+      "alert_type": "value",
+      "alerted_at": "2026-11-22T02:08:07.111217+00:00"
+    },
+    {
+      "state_key": "89a9e84b79ee5ae92a3863868a7a11f2:h2h",
+      "event_id": "89a9e84b79ee5ae92a3863868a7a11f2",
+      "sport_key": "soccer",
+      "competition": "A-League",
+      "home_team": "Wellington Phoenix FC",
+      "away_team": "Macarthur FC",
+      "commence_time": "2026-11-22T02:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Wellington Phoenix FC",
+      "odds_at_alert": 2.95,
+      "stake_pct": 5.0,
+      "confidence": 52,
+      "alert_type": "value",
+      "alerted_at": "2026-11-22T02:08:07.503580+00:00"
+    },
+    {
+      "state_key": "89a9e84b79ee5ae92a3863868a7a11f2:h2h",
+      "event_id": "89a9e84b79ee5ae92a3863868a7a11f2",
+      "sport_key": "soccer",
+      "competition": "A-League",
+      "home_team": "Wellington Phoenix FC",
+      "away_team": "Macarthur FC",
+      "commence_time": "2026-11-22T02:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Wellington Phoenix FC",
+      "odds_at_alert": 3.25,
+      "stake_pct": 5.0,
+      "confidence": 67,
+      "alert_type": "value",
+      "alerted_at": "2026-11-22T02:08:07.883062+00:00"
+    },
+    {
+      "state_key": "89a9e84b79ee5ae92a3863868a7a11f2:h2h",
+      "event_id": "89a9e84b79ee5ae92a3863868a7a11f2",
+      "sport_key": "soccer",
+      "competition": "A-League",
+      "home_team": "Wellington Phoenix FC",
+      "away_team": "Macarthur FC",
+      "commence_time": "2026-11-22T02:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Wellington Phoenix FC",
+      "odds_at_alert": 3.1,
+      "stake_pct": 5.0,
+      "confidence": 60,
+      "alert_type": "value",
+      "alerted_at": "2026-11-22T02:08:08.325698+00:00"
+    },
+    {
+      "state_key": "89a9e84b79ee5ae92a3863868a7a11f2:h2h",
+      "event_id": "89a9e84b79ee5ae92a3863868a7a11f2",
+      "sport_key": "soccer",
+      "competition": "A-League",
+      "home_team": "Wellington Phoenix FC",
+      "away_team": "Macarthur FC",
+      "commence_time": "2026-11-22T02:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Wellington Phoenix FC",
+      "odds_at_alert": 3.25,
+      "stake_pct": 5.0,
+      "confidence": 67,
+      "alert_type": "value",
+      "alerted_at": "2026-11-22T02:08:08.708839+00:00"
+    },
+    {
+      "state_key": "89a9e84b79ee5ae92a3863868a7a11f2:h2h",
+      "event_id": "89a9e84b79ee5ae92a3863868a7a11f2",
+      "sport_key": "soccer",
+      "competition": "A-League",
+      "home_team": "Wellington Phoenix FC",
+      "away_team": "Macarthur FC",
+      "commence_time": "2026-11-22T02:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Wellington Phoenix FC",
+      "odds_at_alert": 3.1,
+      "stake_pct": 5.0,
+      "confidence": 60,
+      "alert_type": "value",
+      "alerted_at": "2026-11-22T02:08:09.101972+00:00"
+    },
+    {
+      "state_key": "89a9e84b79ee5ae92a3863868a7a11f2:h2h",
+      "event_id": "89a9e84b79ee5ae92a3863868a7a11f2",
+      "sport_key": "soccer",
+      "competition": "A-League",
+      "home_team": "Wellington Phoenix FC",
+      "away_team": "Macarthur FC",
+      "commence_time": "2026-11-22T02:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Wellington Phoenix FC",
+      "odds_at_alert": 2.78,
+      "stake_pct": 5.0,
+      "confidence": 43,
+      "alert_type": "value",
+      "alerted_at": "2026-11-22T02:08:09.481006+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "67037ebf2ce5b3dd7e7cd6b30d5fbacb:h2h|888sport|Stade de Reims",
-    "67037ebf2ce5b3dd7e7cd6b30d5fbacb:h2h|Betfair|Stade de Reims",
-    "67037ebf2ce5b3dd7e7cd6b30d5fbacb:h2h|Betsson|Stade de Reims",
-    "67037ebf2ce5b3dd7e7cd6b30d5fbacb:h2h|Coolbet|Stade de Reims",
-    "67037ebf2ce5b3dd7e7cd6b30d5fbacb:h2h|Matchbook|Stade de Reims",
-    "67037ebf2ce5b3dd7e7cd6b30d5fbacb:h2h|Nordic Bet|Stade de Reims",
-    "67037ebf2ce5b3dd7e7cd6b30d5fbacb:h2h|Tipico|Stade de Reims",
-    "67037ebf2ce5b3dd7e7cd6b30d5fbacb:h2h|Winamax (DE)|Stade de Reims",
-    "67037ebf2ce5b3dd7e7cd6b30d5fbacb:h2h|Winamax (FR)|Stade de Reims",
-    "b7ca8ba1c5ab8138e04db89aeb91b98a:h2h|Betfair|Philadelphia Union",
-    "b7ca8ba1c5ab8138e04db89aeb91b98a:h2h|Betsson|Philadelphia Union",
-    "b7ca8ba1c5ab8138e04db89aeb91b98a:h2h|Coolbet|Philadelphia Union",
-    "b7ca8ba1c5ab8138e04db89aeb91b98a:h2h|Marathon Bet|Philadelphia Union",
-    "b7ca8ba1c5ab8138e04db89aeb91b98a:h2h|Matchbook|Philadelphia Union",
-    "b7ca8ba1c5ab8138e04db89aeb91b98a:h2h|Nordic Bet|Philadelphia Union"
+    "5f2cf96318bd595404b995c80d5f14a5:h2h|Betfair|Draw",
+    "5f2cf96318bd595404b995c80d5f14a5:h2h|Betsson|Chapecoense",
+    "5f2cf96318bd595404b995c80d5f14a5:h2h|Betsson|Draw",
+    "5f2cf96318bd595404b995c80d5f14a5:h2h|MyBookie.ag|Chapecoense",
+    "5f2cf96318bd595404b995c80d5f14a5:h2h|MyBookie.ag|Draw",
+    "89a9e84b79ee5ae92a3863868a7a11f2:h2h|888sport|Wellington Phoenix FC",
+    "89a9e84b79ee5ae92a3863868a7a11f2:h2h|Betfair|Wellington Phoenix FC",
+    "89a9e84b79ee5ae92a3863868a7a11f2:h2h|LeoVegas (SE)|Wellington Phoenix FC",
+    "89a9e84b79ee5ae92a3863868a7a11f2:h2h|Marathon Bet|Wellington Phoenix FC",
+    "89a9e84b79ee5ae92a3863868a7a11f2:h2h|Matchbook|Wellington Phoenix FC",
+    "89a9e84b79ee5ae92a3863868a7a11f2:h2h|Nordic Bet|Wellington Phoenix FC",
+    "89a9e84b79ee5ae92a3863868a7a11f2:h2h|PMU (FR)|Wellington Phoenix FC",
+    "89a9e84b79ee5ae92a3863868a7a11f2:h2h|Unibet (NL)|Wellington Phoenix FC",
+    "89a9e84b79ee5ae92a3863868a7a11f2:h2h|Unibet (SE)|Wellington Phoenix FC",
+    "89a9e84b79ee5ae92a3863868a7a11f2:h2h|Winamax (DE)|Wellington Phoenix FC",
+    "89a9e84b79ee5ae92a3863868a7a11f2:h2h|Winamax (FR)|Wellington Phoenix FC"
   ]
 }
