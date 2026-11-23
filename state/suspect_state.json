@@ -147,22 +147,6 @@
   "alerted": [],
   "pending_results": [
     {
-      "state_key": "e71a4a4fea03d00873c285c5b55a9864:h2h",
-      "event_id": "e71a4a4fea03d00873c285c5b55a9864",
-      "sport_key": "soccer",
-      "competition": "UEFA Nations League",
-      "home_team": "Israel",
-      "away_team": "Austria",
-      "commence_time": "2026-11-17T19:45:00Z",
-      "market_label": "Cotes 1X2",
-      "selection": "Israel",
-      "odds_at_alert": 4.6,
-      "stake_pct": 2.0,
-      "confidence": 7,
-      "alert_type": "value",
-      "alerted_at": "2026-11-17T02:53:42.033254+00:00"
-    },
-    {
       "state_key": "8d017c6bef33aa894ea91e1c1f3a5299:h2h",
       "event_id": "8d017c6bef33aa894ea91e1c1f3a5299",
       "sport_key": "soccer",
