@@ -1,146 +1,326 @@
 {
   "snapshots": {
-    "1b747368a8cd2fbe384d22f6d3ec425e:h2h": {
+    "7e78da68a53d24cbdcb7d19860b74374:h2h": {
+      "LeoVegas (SE)": {
+        "Atlético Huracán": 26.0,
+        "Instituto de Córdoba": 1.12,
+        "Draw": 5.2
+      },
       "Betsson": {
-        "Hansa Rostock": 29.0,
-        "MSV Duisburg": 1.0,
-        "Draw": 17.0
+        "Atlético Huracán": 17.5,
+        "Instituto de Córdoba": 1.26,
+        "Draw": 4.1
       },
-      "Nordic Bet": {
-        "Hansa Rostock": 29.0,
-        "MSV Duisburg": 1.0,
-        "Draw": 17.0
-      },
-      "Winamax (DE)": {
-        "Hansa Rostock": 100.0,
-        "MSV Duisburg": 1.05,
-        "Draw": 10.0
-      },
-      "888sport": {
-        "Hansa Rostock": 91.0,
-        "MSV Duisburg": 1.05,
-        "Draw": 9.5
-      },
-      "Betfair": {
-        "Hansa Rostock": 95.0,
-        "MSV Duisburg": 1.09,
-        "Draw": 9.4
-      }
-    },
-    "dddc911eddfe6a3943d037b9494921be:h2h": {
-      "Unibet (SE)": {
-        "Atletico Paranaense": 1.01,
-        "Remo": 131.0,
-        "Draw": 29.0
-      },
-      "Coolbet": {
-        "Atletico Paranaense": 1.0,
-        "Remo": 50.0,
-        "Draw": 18.0
+      "Unibet (FR)": {
+        "Atlético Huracán": 25.0,
+        "Instituto de Córdoba": 1.17,
+        "Draw": 4.0
       },
       "Betclic (FR)": {
-        "Atletico Paranaense": 1.0,
-        "Remo": 60.0,
-        "Draw": 20.0
+        "Atlético Huracán": 18.0,
+        "Instituto de Córdoba": 1.16,
+        "Draw": 4.05
       },
       "Nordic Bet": {
-        "Atletico Paranaense": 1.0,
-        "Remo": 51.0,
-        "Draw": 19.0
+        "Atlético Huracán": 26.0,
+        "Instituto de Córdoba": 1.18,
+        "Draw": 4.6
       },
-      "Betsson": {
-        "Atletico Paranaense": 1.0,
-        "Remo": 46.0,
-        "Draw": 19.0
+      "Unibet (SE)": {
+        "Atlético Huracán": 26.0,
+        "Instituto de Córdoba": 1.17,
+        "Draw": 5.5
+      },
+      "Pinnacle": {
+        "Atlético Huracán": 25.13,
+        "Instituto de Córdoba": 1.25,
+        "Draw": 4.68
+      },
+      "Winamax (DE)": {
+        "Atlético Huracán": 30.0,
+        "Instituto de Córdoba": 1.17,
+        "Draw": 4.4
       },
       "Winamax (FR)": {
-        "Atletico Paranaense": 1.0,
-        "Remo": 120.0,
-        "Draw": 30.0
-      },
-      "Winamax (DE)": {
-        "Atletico Paranaense": 1.01,
-        "Remo": 120.0,
-        "Draw": 30.0
-      },
-      "888sport": {
-        "Atletico Paranaense": 1.0,
-        "Remo": 126.0,
-        "Draw": 36.0
-      },
-      "Betfair": {
-        "Atletico Paranaense": 1.01,
-        "Remo": 140.0,
-        "Draw": 65.0
-      }
-    },
-    "462703729e3d6e2860d4993a1fb7ca06:h2h": {
-      "Coolbet": {
-        "Criciuma": 1.1,
-        "Fortaleza": 40.0,
-        "Draw": 6.5
-      },
-      "Unibet (NL)": {
-        "Criciuma": 1.05,
-        "Fortaleza": 46.0,
-        "Draw": 7.0
-      },
-      "Unibet (SE)": {
-        "Criciuma": 1.08,
-        "Fortaleza": 51.0,
-        "Draw": 7.5
-      },
-      "LeoVegas (SE)": {
-        "Criciuma": 1.04,
-        "Fortaleza": 41.0,
-        "Draw": 7.0
-      },
-      "888sport": {
-        "Criciuma": 1.11,
-        "Fortaleza": 51.0,
-        "Draw": 7.0
+        "Atlético Huracán": 30.0,
+        "Instituto de Córdoba": 1.14,
+        "Draw": 4.2
       },
       "Marathon Bet": {
-        "Criciuma": 1.07,
-        "Fortaleza": 34.0,
-        "Draw": 6.85
+        "Atlético Huracán": 26.0,
+        "Instituto de Córdoba": 1.18,
+        "Draw": 5.2
+      },
+      "PMU (FR)": {
+        "Atlético Huracán": 25.0,
+        "Instituto de Córdoba": 1.06,
+        "Draw": 4.7
+      },
+      "Unibet (NL)": {
+        "Atlético Huracán": 26.0,
+        "Instituto de Córdoba": 1.13,
+        "Draw": 5.2
       },
       "Betfair": {
-        "Criciuma": 1.16,
-        "Fortaleza": 70.0,
-        "Draw": 7.6
-      },
-      "Matchbook": {
-        "Criciuma": 1.16,
-        "Fortaleza": 75.0,
-        "Draw": 7.4
-      },
-      "Betsson": {
-        "Criciuma": 1.09,
-        "Fortaleza": 39.0,
-        "Draw": 6.3
-      },
-      "Nordic Bet": {
-        "Criciuma": 1.1,
-        "Fortaleza": 36.0,
-        "Draw": 6.3
+        "Atlético Huracán": 40.0,
+        "Instituto de Córdoba": 1.25,
+        "Draw": 5.2
       }
     },
-    "77a009ce637f0b9d8ffbdb5f81d194ba:h2h": {
-      "Betsson": {
-        "Gimnasia Mendoza": 26.0,
-        "Rosario Central": 1.0,
-        "Draw": 26.0
+    "3030284e28d18889f35f9c419d8b0fee:h2h": {
+      "LeoVegas (SE)": {
+        "Necaxa": 3.2,
+        "Querétaro": 3.15,
+        "Draw": 1.93
       },
-      "Betclic (FR)": {
-        "Gimnasia Mendoza": 100.0,
-        "Rosario Central": 1.0,
-        "Draw": 40.0
+      "Unibet (NL)": {
+        "Necaxa": 3.3,
+        "Querétaro": 3.4,
+        "Draw": 2.06
+      },
+      "PMU (FR)": {
+        "Necaxa": 3.05,
+        "Querétaro": 2.95,
+        "Draw": 1.83
+      },
+      "Marathon Bet": {
+        "Necaxa": 3.64,
+        "Querétaro": 3.45,
+        "Draw": 1.86
+      },
+      "Unibet (SE)": {
+        "Necaxa": 3.4,
+        "Querétaro": 3.35,
+        "Draw": 2.05
+      },
+      "Betsson": {
+        "Necaxa": 3.3,
+        "Querétaro": 3.15,
+        "Draw": 2.1
       },
       "Nordic Bet": {
-        "Gimnasia Mendoza": 26.0,
-        "Rosario Central": 1.0,
-        "Draw": 26.0
+        "Necaxa": 3.65,
+        "Querétaro": 3.5,
+        "Draw": 1.85
+      },
+      "Betclic (FR)": {
+        "Necaxa": 3.43,
+        "Querétaro": 3.17,
+        "Draw": 1.78
+      },
+      "Tipico": {
+        "Necaxa": 3.3,
+        "Querétaro": 3.8,
+        "Draw": 1.85
+      },
+      "Pinnacle": {
+        "Necaxa": 3.55,
+        "Querétaro": 3.17,
+        "Draw": 2.13
+      },
+      "888sport": {
+        "Necaxa": 3.5,
+        "Querétaro": 3.2,
+        "Draw": 1.83
+      },
+      "Coolbet": {
+        "Necaxa": 4.0,
+        "Querétaro": 3.6,
+        "Draw": 1.91
+      },
+      "Betfair": {
+        "Necaxa": 4.0,
+        "Querétaro": 3.5,
+        "Draw": 2.06
+      },
+      "Matchbook": {
+        "Necaxa": 4.0,
+        "Querétaro": 3.75,
+        "Draw": 2.02
+      }
+    },
+    "78c0145b05f2691b49576d6d5b8a0eb3:h2h": {
+      "Pinnacle": {
+        "Real Salt Lake": 18.29,
+        "Vancouver Whitecaps FC": 1.21,
+        "Draw": 5.71
+      },
+      "Unibet (FR)": {
+        "Real Salt Lake": 10.5,
+        "Vancouver Whitecaps FC": 1.14,
+        "Draw": 4.3
+      },
+      "Coolbet": {
+        "Real Salt Lake": 16.0,
+        "Vancouver Whitecaps FC": 1.2,
+        "Draw": 5.5
+      },
+      "Winamax (DE)": {
+        "Real Salt Lake": 12.0,
+        "Vancouver Whitecaps FC": 1.16,
+        "Draw": 5.5
+      },
+      "Winamax (FR)": {
+        "Real Salt Lake": 11.5,
+        "Vancouver Whitecaps FC": 1.14,
+        "Draw": 5.2
+      },
+      "Betclic (FR)": {
+        "Real Salt Lake": 11.0,
+        "Vancouver Whitecaps FC": 1.13,
+        "Draw": 4.65
+      },
+      "888sport": {
+        "Real Salt Lake": 15.0,
+        "Vancouver Whitecaps FC": 1.18,
+        "Draw": 5.75
+      },
+      "Marathon Bet": {
+        "Real Salt Lake": 16.5,
+        "Vancouver Whitecaps FC": 1.16,
+        "Draw": 6.35
+      },
+      "MyBookie.ag": {
+        "Real Salt Lake": 14.0,
+        "Vancouver Whitecaps FC": 1.2,
+        "Draw": 5.75
+      },
+      "LeoVegas (SE)": {
+        "Real Salt Lake": 13.0,
+        "Vancouver Whitecaps FC": 1.16,
+        "Draw": 5.75
+      },
+      "PMU (FR)": {
+        "Real Salt Lake": 13.0,
+        "Vancouver Whitecaps FC": 1.11,
+        "Draw": 5.4
+      },
+      "Unibet (NL)": {
+        "Real Salt Lake": 14.0,
+        "Vancouver Whitecaps FC": 1.19,
+        "Draw": 6.0
+      },
+      "Unibet (SE)": {
+        "Real Salt Lake": 14.0,
+        "Vancouver Whitecaps FC": 1.19,
+        "Draw": 6.0
+      },
+      "Betfair": {
+        "Real Salt Lake": 18.0,
+        "Vancouver Whitecaps FC": 1.26,
+        "Draw": 6.2
+      },
+      "Nordic Bet": {
+        "Real Salt Lake": 14.0,
+        "Vancouver Whitecaps FC": 1.18,
+        "Draw": 5.35
+      },
+      "Betsson": {
+        "Real Salt Lake": 16.0,
+        "Vancouver Whitecaps FC": 1.16,
+        "Draw": 5.8
+      },
+      "Matchbook": {
+        "Real Salt Lake": 18.5,
+        "Vancouver Whitecaps FC": 1.26,
+        "Draw": 6.2
+      }
+    },
+    "0fb066b5cf1107b140d0aea5e6b2e682:h2h": {
+      "Pinnacle": {
+        "Aris Thessaloniki": 2.28,
+        "Asteras Tripolis": 3.71,
+        "Draw": 2.99
+      },
+      "Winamax (DE)": {
+        "Aris Thessaloniki": 2.1,
+        "Asteras Tripolis": 3.2,
+        "Draw": 3.15
+      },
+      "Winamax (FR)": {
+        "Aris Thessaloniki": 2.05,
+        "Asteras Tripolis": 3.05,
+        "Draw": 3.0
+      },
+      "Betsson": {
+        "Aris Thessaloniki": 2.22,
+        "Asteras Tripolis": 3.4,
+        "Draw": 3.2
+      },
+      "1xBet": {
+        "Aris Thessaloniki": 2.21,
+        "Asteras Tripolis": 3.52,
+        "Draw": 3.0
+      },
+      "Nordic Bet": {
+        "Aris Thessaloniki": 2.18,
+        "Asteras Tripolis": 3.3,
+        "Draw": 3.05
+      },
+      "Unibet (FR)": {
+        "Aris Thessaloniki": 1.91,
+        "Asteras Tripolis": 3.0,
+        "Draw": 2.85
+      },
+      "Betclic (FR)": {
+        "Aris Thessaloniki": 2.02,
+        "Asteras Tripolis": 3.18,
+        "Draw": 3.02
+      },
+      "Tipico": {
+        "Aris Thessaloniki": 2.05,
+        "Asteras Tripolis": 3.5,
+        "Draw": 3.1
+      },
+      "Betfair": {
+        "Aris Thessaloniki": 2.3,
+        "Asteras Tripolis": 3.7,
+        "Draw": 3.25
+      },
+      "Codere (IT)": {
+        "Aris Thessaloniki": 2.15,
+        "Asteras Tripolis": 3.25,
+        "Draw": 3.05
+      },
+      "Unibet (NL)": {
+        "Aris Thessaloniki": 2.18,
+        "Asteras Tripolis": 3.35,
+        "Draw": 3.15
+      },
+      "Unibet (SE)": {
+        "Aris Thessaloniki": 2.18,
+        "Asteras Tripolis": 3.35,
+        "Draw": 3.15
+      },
+      "PMU (FR)": {
+        "Aris Thessaloniki": 2.0,
+        "Asteras Tripolis": 3.05,
+        "Draw": 2.9
+      },
+      "LeoVegas (SE)": {
+        "Aris Thessaloniki": 2.08,
+        "Asteras Tripolis": 3.2,
+        "Draw": 3.0
+      },
+      "BetOnline.ag": {
+        "Aris Thessaloniki": 2.26,
+        "Asteras Tripolis": 3.6,
+        "Draw": 2.94
+      },
+      "Coolbet": {
+        "Aris Thessaloniki": 2.25,
+        "Asteras Tripolis": 3.4,
+        "Draw": 3.25
+      },
+      "888sport": {
+        "Aris Thessaloniki": 2.2,
+        "Asteras Tripolis": 3.3,
+        "Draw": 3.0
+      },
+      "William Hill": {
+        "Aris Thessaloniki": 2.2,
+        "Asteras Tripolis": 3.3,
+        "Draw": 3.0
       }
     }
   },
@@ -3025,8 +3205,264 @@
       "confidence": 74,
       "alert_type": "value",
       "alerted_at": "2026-11-22T12:29:06.370511+00:00"
+    },
+    {
+      "state_key": "7e78da68a53d24cbdcb7d19860b74374:h2h",
+      "event_id": "7e78da68a53d24cbdcb7d19860b74374",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Instituto de Córdoba",
+      "away_team": "Atlético Huracán",
+      "commence_time": "2026-11-23T01:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.2,
+      "stake_pct": 2.0,
+      "confidence": 5,
+      "alert_type": "value",
+      "alerted_at": "2026-11-23T02:37:09.150024+00:00"
+    },
+    {
+      "state_key": "7e78da68a53d24cbdcb7d19860b74374:h2h",
+      "event_id": "7e78da68a53d24cbdcb7d19860b74374",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Instituto de Córdoba",
+      "away_team": "Atlético Huracán",
+      "commence_time": "2026-11-23T01:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.5,
+      "stake_pct": 3.0,
+      "confidence": 12,
+      "alert_type": "value",
+      "alerted_at": "2026-11-23T02:37:09.514129+00:00"
+    },
+    {
+      "state_key": "7e78da68a53d24cbdcb7d19860b74374:h2h",
+      "event_id": "7e78da68a53d24cbdcb7d19860b74374",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Instituto de Córdoba",
+      "away_team": "Atlético Huracán",
+      "commence_time": "2026-11-23T01:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Atlético Huracán",
+      "odds_at_alert": 30.0,
+      "stake_pct": 3.0,
+      "confidence": 13,
+      "alert_type": "value",
+      "alerted_at": "2026-11-23T02:37:09.874388+00:00"
+    },
+    {
+      "state_key": "7e78da68a53d24cbdcb7d19860b74374:h2h",
+      "event_id": "7e78da68a53d24cbdcb7d19860b74374",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Instituto de Córdoba",
+      "away_team": "Atlético Huracán",
+      "commence_time": "2026-11-23T01:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Atlético Huracán",
+      "odds_at_alert": 30.0,
+      "stake_pct": 3.0,
+      "confidence": 13,
+      "alert_type": "value",
+      "alerted_at": "2026-11-23T02:37:10.222300+00:00"
+    },
+    {
+      "state_key": "7e78da68a53d24cbdcb7d19860b74374:h2h",
+      "event_id": "7e78da68a53d24cbdcb7d19860b74374",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Instituto de Córdoba",
+      "away_team": "Atlético Huracán",
+      "commence_time": "2026-11-23T01:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.2,
+      "stake_pct": 2.0,
+      "confidence": 5,
+      "alert_type": "value",
+      "alerted_at": "2026-11-23T02:37:10.594190+00:00"
+    },
+    {
+      "state_key": "7e78da68a53d24cbdcb7d19860b74374:h2h",
+      "event_id": "7e78da68a53d24cbdcb7d19860b74374",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Instituto de Córdoba",
+      "away_team": "Atlético Huracán",
+      "commence_time": "2026-11-23T01:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.2,
+      "stake_pct": 2.0,
+      "confidence": 5,
+      "alert_type": "value",
+      "alerted_at": "2026-11-23T02:37:10.974874+00:00"
+    },
+    {
+      "state_key": "7e78da68a53d24cbdcb7d19860b74374:h2h",
+      "event_id": "7e78da68a53d24cbdcb7d19860b74374",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Instituto de Córdoba",
+      "away_team": "Atlético Huracán",
+      "commence_time": "2026-11-23T01:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Atlético Huracán",
+      "odds_at_alert": 40.0,
+      "stake_pct": 5.0,
+      "confidence": 51,
+      "alert_type": "value",
+      "alerted_at": "2026-11-23T02:37:11.345927+00:00"
+    },
+    {
+      "state_key": "7e78da68a53d24cbdcb7d19860b74374:h2h",
+      "event_id": "7e78da68a53d24cbdcb7d19860b74374",
+      "sport_key": "soccer",
+      "competition": "Primera División - Argentina",
+      "home_team": "Instituto de Córdoba",
+      "away_team": "Atlético Huracán",
+      "commence_time": "2026-11-23T01:00:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 5.2,
+      "stake_pct": 2.0,
+      "confidence": 5,
+      "alert_type": "value",
+      "alerted_at": "2026-11-23T02:37:11.702794+00:00"
+    },
+    {
+      "state_key": "3030284e28d18889f35f9c419d8b0fee:h2h",
+      "event_id": "3030284e28d18889f35f9c419d8b0fee",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Querétaro",
+      "away_team": "Necaxa",
+      "commence_time": "2026-11-23T01:10:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Querétaro",
+      "odds_at_alert": 3.8,
+      "stake_pct": 3.0,
+      "confidence": 12,
+      "alert_type": "value",
+      "alerted_at": "2026-11-23T02:37:12.075543+00:00"
+    },
+    {
+      "state_key": "3030284e28d18889f35f9c419d8b0fee:h2h",
+      "event_id": "3030284e28d18889f35f9c419d8b0fee",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Querétaro",
+      "away_team": "Necaxa",
+      "commence_time": "2026-11-23T01:10:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Necaxa",
+      "odds_at_alert": 4.0,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-11-23T02:37:12.448360+00:00"
+    },
+    {
+      "state_key": "3030284e28d18889f35f9c419d8b0fee:h2h",
+      "event_id": "3030284e28d18889f35f9c419d8b0fee",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Querétaro",
+      "away_team": "Necaxa",
+      "commence_time": "2026-11-23T01:10:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Querétaro",
+      "odds_at_alert": 3.6,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-11-23T02:37:12.823257+00:00"
+    },
+    {
+      "state_key": "3030284e28d18889f35f9c419d8b0fee:h2h",
+      "event_id": "3030284e28d18889f35f9c419d8b0fee",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Querétaro",
+      "away_team": "Necaxa",
+      "commence_time": "2026-11-23T01:10:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Necaxa",
+      "odds_at_alert": 4.0,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-11-23T02:37:13.199833+00:00"
+    },
+    {
+      "state_key": "3030284e28d18889f35f9c419d8b0fee:h2h",
+      "event_id": "3030284e28d18889f35f9c419d8b0fee",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Querétaro",
+      "away_team": "Necaxa",
+      "commence_time": "2026-11-23T01:10:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Necaxa",
+      "odds_at_alert": 4.0,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-11-23T02:37:13.561715+00:00"
+    },
+    {
+      "state_key": "3030284e28d18889f35f9c419d8b0fee:h2h",
+      "event_id": "3030284e28d18889f35f9c419d8b0fee",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Querétaro",
+      "away_team": "Necaxa",
+      "commence_time": "2026-11-23T01:10:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Querétaro",
+      "odds_at_alert": 3.75,
+      "stake_pct": 3.0,
+      "confidence": 11,
+      "alert_type": "value",
+      "alerted_at": "2026-11-23T02:37:13.945368+00:00"
+    },
+    {
+      "state_key": "78c0145b05f2691b49576d6d5b8a0eb3:h2h",
+      "event_id": "78c0145b05f2691b49576d6d5b8a0eb3",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Vancouver Whitecaps FC",
+      "away_team": "Real Salt Lake",
+      "commence_time": "2026-11-23T01:30:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Draw",
+      "odds_at_alert": 6.35,
+      "stake_pct": 2.0,
+      "confidence": 5,
+      "alert_type": "value",
+      "alerted_at": "2026-11-23T02:37:14.308139+00:00"
     }
   ],
   "results_history": [],
-  "value_alerted": []
+  "value_alerted": [
+    "3030284e28d18889f35f9c419d8b0fee:h2h|Betfair|Necaxa",
+    "3030284e28d18889f35f9c419d8b0fee:h2h|Coolbet|Necaxa",
+    "3030284e28d18889f35f9c419d8b0fee:h2h|Coolbet|Querétaro",
+    "3030284e28d18889f35f9c419d8b0fee:h2h|Matchbook|Necaxa",
+    "3030284e28d18889f35f9c419d8b0fee:h2h|Matchbook|Querétaro",
+    "3030284e28d18889f35f9c419d8b0fee:h2h|Tipico|Querétaro",
+    "78c0145b05f2691b49576d6d5b8a0eb3:h2h|Marathon Bet|Draw",
+    "7e78da68a53d24cbdcb7d19860b74374:h2h|Betfair|Atlético Huracán",
+    "7e78da68a53d24cbdcb7d19860b74374:h2h|Betfair|Draw",
+    "7e78da68a53d24cbdcb7d19860b74374:h2h|LeoVegas (SE)|Draw",
+    "7e78da68a53d24cbdcb7d19860b74374:h2h|Marathon Bet|Draw",
+    "7e78da68a53d24cbdcb7d19860b74374:h2h|Unibet (NL)|Draw",
+    "7e78da68a53d24cbdcb7d19860b74374:h2h|Unibet (SE)|Draw",
+    "7e78da68a53d24cbdcb7d19860b74374:h2h|Winamax (DE)|Atlético Huracán",
+    "7e78da68a53d24cbdcb7d19860b74374:h2h|Winamax (FR)|Atlético Huracán"
+  ]
 }
