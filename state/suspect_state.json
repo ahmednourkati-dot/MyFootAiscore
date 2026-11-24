@@ -1,319 +1,237 @@
 {
   "snapshots": {
-    "2d37be0044ea6b01ba17464efd59a99e:h2h": {
-      "Unibet (FR)": {
-        "Los Angeles FC": 10.0,
-        "St. Louis City SC": 1.25,
-        "Draw": 3.3
-      },
-      "Betclic (FR)": {
-        "Los Angeles FC": 10.0,
-        "St. Louis City SC": 1.31,
-        "Draw": 3.22
-      },
-      "888sport": {
-        "Los Angeles FC": 12.0,
-        "St. Louis City SC": 1.33,
-        "Draw": 3.8
-      },
-      "Betfair": {
-        "Los Angeles FC": 13.0,
-        "St. Louis City SC": 1.43,
-        "Draw": 4.2
-      },
-      "Winamax (FR)": {
-        "Los Angeles FC": 10.5,
-        "St. Louis City SC": 1.25,
-        "Draw": 3.65
-      },
-      "Winamax (DE)": {
-        "Los Angeles FC": 11.0,
-        "St. Louis City SC": 1.29,
-        "Draw": 3.85
-      },
-      "MyBookie.ag": {
-        "Los Angeles FC": 9.0,
-        "St. Louis City SC": 1.35,
-        "Draw": 3.75
-      },
-      "Marathon Bet": {
-        "Los Angeles FC": 12.5,
-        "St. Louis City SC": 1.34,
-        "Draw": 3.98
-      },
-      "Nordic Bet": {
-        "Los Angeles FC": 12.5,
-        "St. Louis City SC": 1.34,
-        "Draw": 3.65
-      },
-      "Betsson": {
-        "Los Angeles FC": 12.5,
-        "St. Louis City SC": 1.34,
-        "Draw": 3.65
-      },
-      "PMU (FR)": {
-        "Los Angeles FC": 11.5,
-        "St. Louis City SC": 1.27,
-        "Draw": 3.5
-      },
-      "LeoVegas (SE)": {
-        "Los Angeles FC": 12.0,
-        "St. Louis City SC": 1.32,
-        "Draw": 3.7
-      },
-      "Unibet (SE)": {
-        "Los Angeles FC": 10.5,
-        "St. Louis City SC": 1.42,
-        "Draw": 3.6
-      },
-      "Unibet (NL)": {
-        "Los Angeles FC": 10.5,
-        "St. Louis City SC": 1.42,
-        "Draw": 3.6
-      },
-      "Coolbet": {
-        "Los Angeles FC": 14.0,
-        "St. Louis City SC": 1.36,
-        "Draw": 3.75
-      },
-      "Matchbook": {
-        "Los Angeles FC": 16.5,
-        "St. Louis City SC": 1.37,
-        "Draw": 4.5
-      }
-    },
     "e422af92d1fc06c0a330838c1c2f2e08:h2h": {
       "GTbets": {
         "Aston Villa": 2.29,
-        "Galatasaray": 2.78,
+        "Galatasaray": 2.93,
         "Draw": 3.91
       },
       "Unibet (SE)": {
-        "Aston Villa": 2.3,
-        "Galatasaray": 2.9,
-        "Draw": 4.1
+        "Aston Villa": 2.25,
+        "Galatasaray": 3.05,
+        "Draw": 4.0
       },
       "Unibet (FR)": {
         "Aston Villa": 2.05,
-        "Galatasaray": 2.65,
-        "Draw": 3.7
+        "Galatasaray": 2.7,
+        "Draw": 3.6
       },
       "Betsson": {
         "Aston Villa": 2.22,
-        "Galatasaray": 2.95,
-        "Draw": 3.85
+        "Galatasaray": 3.0,
+        "Draw": 3.7
       },
       "Pinnacle": {
-        "Aston Villa": 2.24,
-        "Galatasaray": 3.04,
-        "Draw": 3.9
+        "Aston Villa": 2.29,
+        "Galatasaray": 3.08,
+        "Draw": 3.78
       },
       "Winamax (FR)": {
-        "Aston Villa": 2.1,
-        "Galatasaray": 2.6,
+        "Aston Villa": 2.05,
+        "Galatasaray": 2.75,
         "Draw": 3.75
       },
       "Nordic Bet": {
         "Aston Villa": 2.25,
-        "Galatasaray": 2.98,
-        "Draw": 3.9
+        "Galatasaray": 3.05,
+        "Draw": 3.75
       },
       "Marathon Bet": {
-        "Aston Villa": 2.28,
-        "Galatasaray": 2.96,
-        "Draw": 3.92
-      },
-      "LeoVegas (SE)": {
-        "Aston Villa": 2.23,
-        "Galatasaray": 2.8,
-        "Draw": 3.85
-      },
-      "1xBet": {
-        "Aston Villa": 2.32,
-        "Galatasaray": 3.0,
-        "Draw": 3.98
-      },
-      "PMU (FR)": {
-        "Aston Villa": 2.14,
-        "Galatasaray": 2.65,
-        "Draw": 3.65
-      },
-      "Unibet (NL)": {
-        "Aston Villa": 2.3,
-        "Galatasaray": 2.9,
-        "Draw": 4.1
-      },
-      "Winamax (DE)": {
-        "Aston Villa": 2.15,
-        "Galatasaray": 2.7,
-        "Draw": 3.9
-      },
-      "Betclic (FR)": {
-        "Aston Villa": 2.23,
-        "Galatasaray": 2.63,
+        "Aston Villa": 2.25,
+        "Galatasaray": 3.08,
         "Draw": 3.8
       },
-      "Coolbet": {
-        "Aston Villa": 2.26,
+      "LeoVegas (SE)": {
+        "Aston Villa": 2.18,
+        "Galatasaray": 2.9,
+        "Draw": 3.8
+      },
+      "1xBet": {
+        "Aston Villa": 2.29,
+        "Galatasaray": 3.13,
+        "Draw": 3.86
+      },
+      "PMU (FR)": {
+        "Aston Villa": 2.1,
+        "Galatasaray": 2.75,
+        "Draw": 3.6
+      },
+      "Unibet (NL)": {
+        "Aston Villa": 2.25,
         "Galatasaray": 3.05,
         "Draw": 4.0
       },
+      "Winamax (DE)": {
+        "Aston Villa": 2.15,
+        "Galatasaray": 2.8,
+        "Draw": 3.75
+      },
+      "Betclic (FR)": {
+        "Aston Villa": 2.13,
+        "Galatasaray": 2.82,
+        "Draw": 3.75
+      },
+      "Coolbet": {
+        "Aston Villa": 2.25,
+        "Galatasaray": 3.09,
+        "Draw": 3.9
+      },
       "Betfair": {
-        "Aston Villa": 2.26,
-        "Galatasaray": 3.05,
-        "Draw": 4.1
+        "Aston Villa": 2.32,
+        "Galatasaray": 3.15,
+        "Draw": 3.9
       },
       "William Hill": {
-        "Aston Villa": 2.2,
-        "Galatasaray": 2.8,
-        "Draw": 3.7
+        "Aston Villa": 2.15,
+        "Galatasaray": 2.9,
+        "Draw": 3.5
       },
       "888sport": {
-        "Aston Villa": 2.2,
-        "Galatasaray": 2.8,
-        "Draw": 3.6
+        "Aston Villa": 2.15,
+        "Galatasaray": 2.9,
+        "Draw": 3.5
       },
       "Codere (IT)": {
-        "Aston Villa": 2.25,
-        "Galatasaray": 2.9,
-        "Draw": 3.7
+        "Aston Villa": 2.26,
+        "Galatasaray": 2.95,
+        "Draw": 3.65
       },
       "MyBookie.ag": {
-        "Aston Villa": 2.23,
-        "Galatasaray": 2.86,
-        "Draw": 3.8
+        "Aston Villa": 2.24,
+        "Galatasaray": 2.9,
+        "Draw": 3.75
       },
       "Matchbook": {
-        "Aston Villa": 2.26,
-        "Galatasaray": 3.05,
-        "Draw": 4.1
+        "Aston Villa": 2.32,
+        "Galatasaray": 3.15,
+        "Draw": 3.9
       },
       "BetOnline.ag": {
         "Aston Villa": 2.22,
-        "Galatasaray": 3.05,
-        "Draw": 3.89
+        "Galatasaray": 3.03,
+        "Draw": 3.9
       },
       "BetAnything": {
         "Aston Villa": 2.27,
-        "Galatasaray": 2.93,
-        "Draw": 3.87
+        "Galatasaray": 2.97,
+        "Draw": 3.8
       }
     },
     "50b80f3ebd38bf63663b11ae0afc575b:h2h": {
       "Nordic Bet": {
-        "Bodø/Glimt": 1.49,
-        "LASK": 5.65,
-        "Draw": 5.15
+        "Bodø/Glimt": 1.36,
+        "LASK": 7.1,
+        "Draw": 5.95
       },
       "Winamax (FR)": {
-        "Bodø/Glimt": 1.43,
-        "LASK": 4.8,
-        "Draw": 4.8
+        "Bodø/Glimt": 1.3,
+        "LASK": 5.75,
+        "Draw": 5.75
       },
       "Unibet (FR)": {
-        "Bodø/Glimt": 1.42,
-        "LASK": 4.9,
-        "Draw": 4.5
+        "Bodø/Glimt": 1.29,
+        "LASK": 6.5,
+        "Draw": 5.0
       },
       "Pinnacle": {
-        "Bodø/Glimt": 1.5,
-        "LASK": 5.69,
-        "Draw": 5.24
+        "Bodø/Glimt": 1.37,
+        "LASK": 7.07,
+        "Draw": 5.9
       },
       "Betsson": {
-        "Bodø/Glimt": 1.48,
-        "LASK": 5.55,
-        "Draw": 5.05
+        "Bodø/Glimt": 1.35,
+        "LASK": 7.0,
+        "Draw": 5.85
       },
       "1xBet": {
-        "Bodø/Glimt": 1.53,
-        "LASK": 5.8,
-        "Draw": 5.28
+        "Bodø/Glimt": 1.43,
+        "LASK": 6.98,
+        "Draw": 5.8
       },
       "GTbets": {
-        "Bodø/Glimt": 1.5,
-        "LASK": 5.41,
-        "Draw": 5.05
+        "Bodø/Glimt": 1.42,
+        "LASK": 6.33,
+        "Draw": 5.63
       },
       "Marathon Bet": {
-        "Bodø/Glimt": 1.49,
-        "LASK": 5.65,
-        "Draw": 5.15
+        "Bodø/Glimt": 1.39,
+        "LASK": 6.8,
+        "Draw": 5.65
       },
       "Winamax (DE)": {
-        "Bodø/Glimt": 1.45,
-        "LASK": 5.0,
-        "Draw": 5.0
+        "Bodø/Glimt": 1.33,
+        "LASK": 6.0,
+        "Draw": 5.8
       },
       "Betclic (FR)": {
-        "Bodø/Glimt": 1.44,
-        "LASK": 5.25,
-        "Draw": 4.9
+        "Bodø/Glimt": 1.33,
+        "LASK": 6.25,
+        "Draw": 5.6
       },
       "Unibet (SE)": {
-        "Bodø/Glimt": 1.51,
-        "LASK": 5.8,
-        "Draw": 5.2
+        "Bodø/Glimt": 1.41,
+        "LASK": 7.0,
+        "Draw": 5.75
       },
       "Unibet (NL)": {
-        "Bodø/Glimt": 1.5,
-        "LASK": 5.8,
-        "Draw": 5.2
+        "Bodø/Glimt": 1.4,
+        "LASK": 7.0,
+        "Draw": 5.75
       },
       "LeoVegas (SE)": {
-        "Bodø/Glimt": 1.48,
-        "LASK": 5.5,
-        "Draw": 4.8
+        "Bodø/Glimt": 1.36,
+        "LASK": 6.75,
+        "Draw": 5.4
       },
       "PMU (FR)": {
-        "Bodø/Glimt": 1.43,
-        "LASK": 5.1,
-        "Draw": 4.5
-      },
-      "Coolbet": {
-        "Bodø/Glimt": 1.53,
-        "LASK": 5.6,
-        "Draw": 5.25
-      },
-      "Betfair": {
-        "Bodø/Glimt": 1.53,
-        "LASK": 6.0,
-        "Draw": 5.4
-      },
-      "William Hill": {
-        "Bodø/Glimt": 1.44,
-        "LASK": 5.0,
-        "Draw": 4.75
-      },
-      "888sport": {
-        "Bodø/Glimt": 1.44,
-        "LASK": 5.0,
-        "Draw": 4.75
-      },
-      "Codere (IT)": {
-        "Bodø/Glimt": 1.49,
-        "LASK": 5.4,
-        "Draw": 4.8
-      },
-      "MyBookie.ag": {
-        "Bodø/Glimt": 1.48,
-        "LASK": 5.4,
+        "Bodø/Glimt": 1.33,
+        "LASK": 6.1,
         "Draw": 5.0
       },
-      "Matchbook": {
-        "Bodø/Glimt": 1.53,
+      "Coolbet": {
+        "Bodø/Glimt": 1.39,
+        "LASK": 7.6,
+        "Draw": 5.9
+      },
+      "Betfair": {
+        "Bodø/Glimt": 1.4,
+        "LASK": 7.6,
+        "Draw": 6.0
+      },
+      "William Hill": {
+        "Bodø/Glimt": 1.36,
         "LASK": 6.0,
-        "Draw": 5.4
+        "Draw": 5.0
+      },
+      "888sport": {
+        "Bodø/Glimt": 1.36,
+        "LASK": 6.0,
+        "Draw": 5.0
+      },
+      "Codere (IT)": {
+        "Bodø/Glimt": 1.36,
+        "LASK": 6.8,
+        "Draw": 5.6
+      },
+      "MyBookie.ag": {
+        "Bodø/Glimt": 1.36,
+        "LASK": 6.6,
+        "Draw": 5.8
+      },
+      "Matchbook": {
+        "Bodø/Glimt": 1.4,
+        "LASK": 7.6,
+        "Draw": 6.2
       },
       "BetOnline.ag": {
-        "Bodø/Glimt": 1.48,
-        "LASK": 5.75,
-        "Draw": 5.4
+        "Bodø/Glimt": 1.38,
+        "LASK": 7.1,
+        "Draw": 5.9
       },
       "BetAnything": {
-        "Bodø/Glimt": 1.49,
-        "LASK": 5.47,
-        "Draw": 5.42
+        "Bodø/Glimt": 1.37,
+        "LASK": 8.24,
+        "Draw": 5.24
       }
     },
     "9bd0adf3b04503ead04425bca117973f:h2h": {
@@ -323,9 +241,9 @@
         "Draw": 3.55
       },
       "Betsson": {
-        "Juve Stabia": 1.9,
-        "US Catanzaro 1929": 3.75,
-        "Draw": 3.4
+        "Juve Stabia": 1.98,
+        "US Catanzaro 1929": 3.55,
+        "Draw": 3.35
       },
       "Unibet (NL)": {
         "Juve Stabia": 1.93,
@@ -333,9 +251,9 @@
         "Draw": 3.55
       },
       "Unibet (FR)": {
-        "Juve Stabia": 1.69,
-        "US Catanzaro 1929": 3.35,
-        "Draw": 3.1
+        "Juve Stabia": 1.75,
+        "US Catanzaro 1929": 3.2,
+        "Draw": 3.05
       },
       "LeoVegas (SE)": {
         "Juve Stabia": 1.85,
@@ -343,9 +261,9 @@
         "Draw": 3.4
       },
       "Nordic Bet": {
-        "Juve Stabia": 1.9,
-        "US Catanzaro 1929": 3.75,
-        "Draw": 3.4
+        "Juve Stabia": 1.98,
+        "US Catanzaro 1929": 3.55,
+        "Draw": 3.35
       },
       "PMU (FR)": {
         "Juve Stabia": 1.78,
@@ -353,74 +271,176 @@
         "Draw": 3.25
       },
       "Winamax (DE)": {
-        "Juve Stabia": 1.86,
-        "US Catanzaro 1929": 3.55,
-        "Draw": 3.5
+        "Juve Stabia": 1.94,
+        "US Catanzaro 1929": 3.45,
+        "Draw": 3.45
       },
       "Winamax (FR)": {
-        "Juve Stabia": 1.8,
-        "US Catanzaro 1929": 3.4,
-        "Draw": 3.35
+        "Juve Stabia": 1.88,
+        "US Catanzaro 1929": 3.25,
+        "Draw": 3.25
       },
       "Betclic (FR)": {
-        "Juve Stabia": 1.8,
-        "US Catanzaro 1929": 3.55,
-        "Draw": 3.3
+        "Juve Stabia": 1.88,
+        "US Catanzaro 1929": 3.5,
+        "Draw": 3.32
       },
       "1xBet": {
-        "Juve Stabia": 1.87,
-        "US Catanzaro 1929": 3.95,
-        "Draw": 3.54
+        "Juve Stabia": 1.94,
+        "US Catanzaro 1929": 3.73,
+        "Draw": 3.48
       },
       "Coolbet": {
-        "Juve Stabia": 1.93,
-        "US Catanzaro 1929": 3.85,
+        "Juve Stabia": 2.0,
+        "US Catanzaro 1929": 3.75,
         "Draw": 3.5
       },
       "BetOnline.ag": {
-        "Juve Stabia": 1.95,
-        "US Catanzaro 1929": 4.0,
-        "Draw": 3.35
+        "Juve Stabia": 2.0,
+        "US Catanzaro 1929": 3.85,
+        "Draw": 3.3
       },
       "Pinnacle": {
-        "Juve Stabia": 1.95,
-        "US Catanzaro 1929": 4.23,
-        "Draw": 3.46
+        "Juve Stabia": 2.06,
+        "US Catanzaro 1929": 3.99,
+        "Draw": 3.39
       },
       "Marathon Bet": {
-        "Juve Stabia": 1.85,
-        "US Catanzaro 1929": 3.96,
-        "Draw": 3.54
+        "Juve Stabia": 1.92,
+        "US Catanzaro 1929": 3.74,
+        "Draw": 3.48
       },
       "888sport": {
-        "Juve Stabia": 1.91,
-        "US Catanzaro 1929": 3.5,
-        "Draw": 3.5
+        "Juve Stabia": 2.0,
+        "US Catanzaro 1929": 3.3,
+        "Draw": 3.4
       },
       "William Hill": {
-        "Juve Stabia": 1.91,
-        "US Catanzaro 1929": 3.5,
-        "Draw": 3.5
+        "Juve Stabia": 2.0,
+        "US Catanzaro 1929": 3.3,
+        "Draw": 3.4
       },
       "Matchbook": {
-        "Juve Stabia": 1.99,
-        "US Catanzaro 1929": 4.2,
-        "Draw": 3.55
+        "Juve Stabia": 2.08,
+        "US Catanzaro 1929": 4.1,
+        "Draw": 3.5
       },
       "Betfair": {
-        "Juve Stabia": 1.99,
-        "US Catanzaro 1929": 4.2,
-        "Draw": 3.55
+        "Juve Stabia": 2.08,
+        "US Catanzaro 1929": 4.1,
+        "Draw": 3.5
       },
       "Tipico": {
-        "Juve Stabia": 1.77,
-        "US Catanzaro 1929": 4.0,
+        "Juve Stabia": 1.83,
+        "US Catanzaro 1929": 3.8,
         "Draw": 3.4
       },
       "Codere (IT)": {
-        "Juve Stabia": 1.95,
-        "US Catanzaro 1929": 3.9,
-        "Draw": 3.45
+        "Juve Stabia": 2.03,
+        "US Catanzaro 1929": 3.7,
+        "Draw": 3.4
+      }
+    },
+    "1266361213aa65b3a2f950e194f93351:h2h": {
+      "Unibet (NL)": {
+        "Ascoli": 2.63,
+        "Cesena FC": 2.6,
+        "Draw": 3.25
+      },
+      "Unibet (FR)": {
+        "Ascoli": 2.4,
+        "Cesena FC": 2.25,
+        "Draw": 2.9
+      },
+      "LeoVegas (SE)": {
+        "Ascoli": 2.5,
+        "Cesena FC": 2.48,
+        "Draw": 3.1
+      },
+      "Unibet (SE)": {
+        "Ascoli": 2.63,
+        "Cesena FC": 2.6,
+        "Draw": 3.25
+      },
+      "PMU (FR)": {
+        "Ascoli": 2.43,
+        "Cesena FC": 2.38,
+        "Draw": 3.0
+      },
+      "Winamax (DE)": {
+        "Ascoli": 2.55,
+        "Cesena FC": 2.5,
+        "Draw": 3.25
+      },
+      "Winamax (FR)": {
+        "Ascoli": 2.45,
+        "Cesena FC": 2.4,
+        "Draw": 3.1
+      },
+      "Betclic (FR)": {
+        "Ascoli": 2.57,
+        "Cesena FC": 2.42,
+        "Draw": 3.17
+      },
+      "Codere (IT)": {
+        "Ascoli": 2.7,
+        "Cesena FC": 2.65,
+        "Draw": 3.2
+      },
+      "Nordic Bet": {
+        "Ascoli": 2.62,
+        "Cesena FC": 2.55,
+        "Draw": 3.15
+      },
+      "Betsson": {
+        "Ascoli": 2.62,
+        "Cesena FC": 2.55,
+        "Draw": 3.15
+      },
+      "1xBet": {
+        "Ascoli": 2.6,
+        "Cesena FC": 2.57,
+        "Draw": 3.32
+      },
+      "Coolbet": {
+        "Ascoli": 2.65,
+        "Cesena FC": 2.65,
+        "Draw": 3.3
+      },
+      "BetOnline.ag": {
+        "Ascoli": 2.68,
+        "Cesena FC": 2.7,
+        "Draw": 3.15
+      },
+      "Pinnacle": {
+        "Ascoli": 2.74,
+        "Cesena FC": 2.79,
+        "Draw": 3.26
+      },
+      "888sport": {
+        "Ascoli": 2.62,
+        "Cesena FC": 2.6,
+        "Draw": 3.0
+      },
+      "William Hill": {
+        "Ascoli": 2.62,
+        "Cesena FC": 2.6,
+        "Draw": 3.0
+      },
+      "Matchbook": {
+        "Ascoli": 2.8,
+        "Cesena FC": 2.84,
+        "Draw": 3.3
+      },
+      "Betfair": {
+        "Ascoli": 2.78,
+        "Cesena FC": 2.84,
+        "Draw": 3.25
+      },
+      "Tipico": {
+        "Ascoli": 2.5,
+        "Cesena FC": 2.7,
+        "Draw": 2.95
       }
     }
   },
@@ -3257,8 +3277,26 @@
       "confidence": 5,
       "alert_type": "value",
       "alerted_at": "2026-11-23T02:37:14.308139+00:00"
+    },
+    {
+      "state_key": "50b80f3ebd38bf63663b11ae0afc575b:h2h",
+      "event_id": "50b80f3ebd38bf63663b11ae0afc575b",
+      "sport_key": "soccer",
+      "competition": "UEFA Champions League",
+      "home_team": "Bodø/Glimt",
+      "away_team": "LASK",
+      "commence_time": "2026-11-24T17:45:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "LASK",
+      "odds_at_alert": 8.24,
+      "stake_pct": 3.0,
+      "confidence": 12,
+      "alert_type": "value",
+      "alerted_at": "2026-11-24T14:45:31.520988+00:00"
     }
   ],
   "results_history": [],
-  "value_alerted": []
+  "value_alerted": [
+    "50b80f3ebd38bf63663b11ae0afc575b:h2h|BetAnything|LASK"
+  ]
 }
