@@ -1,351 +1,176 @@
 {
   "snapshots": {
-    "454c104860f5430572b1d2ce372694c6:h2h": {
-      "LeoVegas (SE)": {
-        "Avispa Fukuoka": 1.51,
-        "Yokohama F Marinos": 6.4,
-        "Draw": 3.1
-      },
-      "Unibet (SE)": {
-        "Avispa Fukuoka": 1.56,
-        "Yokohama F Marinos": 6.5,
-        "Draw": 3.2
-      },
-      "Unibet (NL)": {
-        "Avispa Fukuoka": 1.55,
-        "Yokohama F Marinos": 6.5,
-        "Draw": 3.2
-      },
-      "PMU (FR)": {
-        "Avispa Fukuoka": 1.47,
-        "Yokohama F Marinos": 6.1,
-        "Draw": 3.0
-      },
-      "Coolbet": {
-        "Avispa Fukuoka": 1.53,
-        "Yokohama F Marinos": 7.5,
-        "Draw": 3.4
-      },
+    "9dfe9df3ad88c453e3572872bf500488:h2h": {
       "Unibet (FR)": {
-        "Avispa Fukuoka": 1.4,
-        "Yokohama F Marinos": 6.25,
-        "Draw": 2.95
-      },
-      "Betclic (FR)": {
-        "Avispa Fukuoka": 1.52,
-        "Yokohama F Marinos": 6.75,
-        "Draw": 3.2
-      },
-      "Betsson": {
-        "Avispa Fukuoka": 1.47,
-        "Yokohama F Marinos": 7.2,
-        "Draw": 3.4
-      },
-      "Nordic Bet": {
-        "Avispa Fukuoka": 1.47,
-        "Yokohama F Marinos": 7.2,
-        "Draw": 3.3
-      },
-      "Winamax (DE)": {
-        "Avispa Fukuoka": 1.5,
-        "Yokohama F Marinos": 6.75,
-        "Draw": 3.1
-      },
-      "Winamax (FR)": {
-        "Avispa Fukuoka": 1.46,
-        "Yokohama F Marinos": 6.25,
-        "Draw": 2.95
-      },
-      "Pinnacle": {
-        "Avispa Fukuoka": 1.55,
-        "Yokohama F Marinos": 7.81,
-        "Draw": 3.51
-      },
-      "Marathon Bet": {
-        "Avispa Fukuoka": 1.47,
-        "Yokohama F Marinos": 7.3,
-        "Draw": 3.5
-      },
-      "888sport": {
-        "Avispa Fukuoka": 1.5,
-        "Yokohama F Marinos": 6.5,
-        "Draw": 3.4
-      },
-      "Tipico": {
-        "Avispa Fukuoka": 1.5,
-        "Yokohama F Marinos": 7.0,
-        "Draw": 3.4
-      },
-      "Betfair": {
-        "Avispa Fukuoka": 1.61,
-        "Yokohama F Marinos": 8.8,
+        "Bolton Wanderers": 29.0,
+        "West Bromwich Albion": 1.1,
         "Draw": 3.7
       },
-      "Matchbook": {
-        "Avispa Fukuoka": 1.56,
-        "Yokohama F Marinos": 9.4,
-        "Draw": 3.85
-      }
-    },
-    "e82083c75de6b9266b27142b9e045087:h2h": {
-      "LeoVegas (SE)": {
-        "FC Tokyo": 5.0,
-        "Hiroshima Sanfrecce FC": 1.65,
-        "Draw": 2.95
-      },
-      "Unibet (SE)": {
-        "FC Tokyo": 5.2,
-        "Hiroshima Sanfrecce FC": 1.71,
-        "Draw": 3.05
-      },
-      "Unibet (NL)": {
-        "FC Tokyo": 5.2,
-        "Hiroshima Sanfrecce FC": 1.7,
-        "Draw": 3.05
-      },
-      "PMU (FR)": {
-        "FC Tokyo": 4.9,
-        "Hiroshima Sanfrecce FC": 1.6,
-        "Draw": 2.88
-      },
-      "Coolbet": {
-        "FC Tokyo": 5.0,
-        "Hiroshima Sanfrecce FC": 1.85,
-        "Draw": 3.0
-      },
-      "Unibet (FR)": {
-        "FC Tokyo": 4.05,
-        "Hiroshima Sanfrecce FC": 1.65,
-        "Draw": 2.75
-      },
       "Betclic (FR)": {
-        "FC Tokyo": 4.4,
-        "Hiroshima Sanfrecce FC": 1.82,
-        "Draw": 2.9
-      },
-      "Betsson": {
-        "FC Tokyo": 4.4,
-        "Hiroshima Sanfrecce FC": 1.8,
-        "Draw": 3.05
-      },
-      "Nordic Bet": {
-        "FC Tokyo": 4.4,
-        "Hiroshima Sanfrecce FC": 1.8,
-        "Draw": 3.05
-      },
-      "Winamax (DE)": {
-        "FC Tokyo": 4.2,
-        "Hiroshima Sanfrecce FC": 1.8,
-        "Draw": 2.75
+        "Bolton Wanderers": 100.0,
+        "West Bromwich Albion": 1.0,
+        "Draw": 40.0
       },
       "Winamax (FR)": {
-        "FC Tokyo": 4.0,
-        "Hiroshima Sanfrecce FC": 1.72,
-        "Draw": 2.6
-      },
-      "Pinnacle": {
-        "FC Tokyo": 4.5,
-        "Hiroshima Sanfrecce FC": 1.93,
-        "Draw": 3.14
-      },
-      "Marathon Bet": {
-        "FC Tokyo": 4.5,
-        "Hiroshima Sanfrecce FC": 1.81,
-        "Draw": 3.05
-      },
-      "888sport": {
-        "FC Tokyo": 4.2,
-        "Hiroshima Sanfrecce FC": 1.85,
-        "Draw": 3.0
-      },
-      "Tipico": {
-        "FC Tokyo": 4.5,
-        "Hiroshima Sanfrecce FC": 1.75,
-        "Draw": 3.2
-      },
-      "Betfair": {
-        "FC Tokyo": 5.1,
-        "Hiroshima Sanfrecce FC": 1.94,
-        "Draw": 3.35
-      },
-      "Matchbook": {
-        "FC Tokyo": 5.1,
-        "Hiroshima Sanfrecce FC": 1.94,
-        "Draw": 3.35
-      }
-    },
-    "fadcd788d19ce04ae2ac8f56edf60336:h2h": {
-      "LeoVegas (SE)": {
-        "Fagiano Okayama": 2.0,
-        "Shimizu S Pulse": 4.9,
-        "Draw": 2.28
-      },
-      "Unibet (SE)": {
-        "Fagiano Okayama": 2.08,
-        "Shimizu S Pulse": 5.0,
-        "Draw": 2.35
-      },
-      "Unibet (NL)": {
-        "Fagiano Okayama": 2.06,
-        "Shimizu S Pulse": 5.0,
-        "Draw": 2.35
-      },
-      "PMU (FR)": {
-        "Fagiano Okayama": 1.94,
-        "Shimizu S Pulse": 4.75,
-        "Draw": 2.2
-      },
-      "Unibet (FR)": {
-        "Fagiano Okayama": 4.65,
-        "Shimizu S Pulse": 1.6,
-        "Draw": 2.65
-      },
-      "Betsson": {
-        "Fagiano Okayama": 2.35,
-        "Shimizu S Pulse": 4.6,
-        "Draw": 2.05
-      },
-      "Coolbet": {
-        "Fagiano Okayama": 2.4,
-        "Shimizu S Pulse": 5.0,
-        "Draw": 2.2
-      },
-      "Nordic Bet": {
-        "Fagiano Okayama": 2.35,
-        "Shimizu S Pulse": 4.6,
-        "Draw": 2.05
-      },
-      "Winamax (FR)": {
-        "Fagiano Okayama": 6.0,
-        "Shimizu S Pulse": 1.5,
-        "Draw": 2.75
+        "Bolton Wanderers": 100.0,
+        "West Bromwich Albion": 1.04,
+        "Draw": 15.0
       },
       "Winamax (DE)": {
-        "Fagiano Okayama": 6.5,
-        "Shimizu S Pulse": 1.54,
-        "Draw": 2.95
-      },
-      "Betclic (FR)": {
-        "Fagiano Okayama": 2.3,
-        "Shimizu S Pulse": 4.5,
-        "Draw": 2.15
-      },
-      "Pinnacle": {
-        "Fagiano Okayama": 2.41,
-        "Shimizu S Pulse": 4.93,
-        "Draw": 2.25
-      },
-      "Marathon Bet": {
-        "Fagiano Okayama": 2.36,
-        "Shimizu S Pulse": 4.75,
-        "Draw": 2.14
-      },
-      "888sport": {
-        "Fagiano Okayama": 2.3,
-        "Shimizu S Pulse": 4.5,
-        "Draw": 2.2
-      },
-      "Tipico": {
-        "Fagiano Okayama": 7.0,
-        "Shimizu S Pulse": 1.6,
-        "Draw": 3.1
-      },
-      "Betfair": {
-        "Fagiano Okayama": 2.64,
-        "Shimizu S Pulse": 5.2,
-        "Draw": 2.28
-      },
-      "Matchbook": {
-        "Fagiano Okayama": 2.62,
-        "Shimizu S Pulse": 5.5,
-        "Draw": 2.26
-      }
-    },
-    "56ce614c797d9691f61a0aab5a4fdc7a:h2h": {
-      "LeoVegas (SE)": {
-        "JEF United Chiba": 3.65,
-        "Nagoya Grampus": 2.2,
-        "Draw": 2.43
-      },
-      "Unibet (SE)": {
-        "JEF United Chiba": 3.9,
-        "Nagoya Grampus": 2.17,
-        "Draw": 2.6
-      },
-      "Unibet (NL)": {
-        "JEF United Chiba": 3.75,
-        "Nagoya Grampus": 2.25,
-        "Draw": 2.48
-      },
-      "PMU (FR)": {
-        "JEF United Chiba": 3.65,
-        "Nagoya Grampus": 2.04,
-        "Draw": 2.43
-      },
-      "Coolbet": {
-        "JEF United Chiba": 3.75,
-        "Nagoya Grampus": 2.5,
-        "Draw": 2.5
-      },
-      "Betsson": {
-        "JEF United Chiba": 3.5,
-        "Nagoya Grampus": 2.4,
-        "Draw": 2.4
-      },
-      "Betclic (FR)": {
-        "JEF United Chiba": 3.5,
-        "Nagoya Grampus": 2.35,
-        "Draw": 2.45
-      },
-      "Unibet (FR)": {
-        "JEF United Chiba": 3.35,
-        "Nagoya Grampus": 2.15,
-        "Draw": 2.25
+        "Bolton Wanderers": 100.0,
+        "West Bromwich Albion": 1.02,
+        "Draw": 16.0
       },
       "Nordic Bet": {
-        "JEF United Chiba": 3.5,
-        "Nagoya Grampus": 2.4,
-        "Draw": 2.4
+        "Bolton Wanderers": 26.0,
+        "West Bromwich Albion": 1.0,
+        "Draw": 26.0
       },
-      "Pinnacle": {
-        "JEF United Chiba": 3.58,
-        "Nagoya Grampus": 2.54,
-        "Draw": 2.58
-      },
-      "Marathon Bet": {
-        "JEF United Chiba": 3.7,
-        "Nagoya Grampus": 2.38,
-        "Draw": 2.43
-      },
-      "Winamax (FR)": {
-        "JEF United Chiba": 3.2,
-        "Nagoya Grampus": 2.2,
-        "Draw": 2.2
-      },
-      "Winamax (DE)": {
-        "JEF United Chiba": 3.4,
-        "Nagoya Grampus": 2.25,
-        "Draw": 2.25
+      "Betsson": {
+        "Bolton Wanderers": 26.0,
+        "West Bromwich Albion": 1.0,
+        "Draw": 26.0
       },
       "888sport": {
-        "JEF United Chiba": 3.7,
-        "Nagoya Grampus": 2.4,
-        "Draw": 2.4
-      },
-      "Tipico": {
-        "JEF United Chiba": 3.8,
-        "Nagoya Grampus": 2.55,
-        "Draw": 2.2
+        "Bolton Wanderers": 151.0,
+        "West Bromwich Albion": 1.0,
+        "Draw": 61.0
       },
       "Betfair": {
-        "JEF United Chiba": 4.1,
-        "Nagoya Grampus": 2.48,
-        "Draw": 2.7
+        "Bolton Wanderers": 1000.0,
+        "West Bromwich Albion": 1.01,
+        "Draw": 80.0
+      }
+    },
+    "0eb7f35d744c1cebeb53be32f50e1e2d:h2h": {
+      "Unibet (NL)": {
+        "Blackburn Rovers": 1.03,
+        "Watford": 201.0,
+        "Draw": 14.0
       },
-      "Matchbook": {
-        "JEF United Chiba": 4.2,
-        "Nagoya Grampus": 2.46,
-        "Draw": 2.66
+      "Unibet (SE)": {
+        "Blackburn Rovers": 1.03,
+        "Watford": 201.0,
+        "Draw": 14.0
+      },
+      "Unibet (FR)": {
+        "Blackburn Rovers": 1.01,
+        "Watford": 100.0,
+        "Draw": 4.65
+      },
+      "Betclic (FR)": {
+        "Blackburn Rovers": 1.02,
+        "Watford": 45.0,
+        "Draw": 10.0
+      },
+      "Winamax (FR)": {
+        "Blackburn Rovers": 1.04,
+        "Watford": 400.0,
+        "Draw": 15.0
+      },
+      "Nordic Bet": {
+        "Blackburn Rovers": 1.02,
+        "Watford": 130.0,
+        "Draw": 12.0
+      },
+      "Betsson": {
+        "Blackburn Rovers": 1.02,
+        "Watford": 130.0,
+        "Draw": 12.0
+      },
+      "Coolbet": {
+        "Blackburn Rovers": 1.06,
+        "Watford": 125.0,
+        "Draw": 11.5
+      },
+      "Betfair": {
+        "Blackburn Rovers": 1.04,
+        "Watford": 46.0,
+        "Draw": 13.5
+      },
+      "888sport": {
+        "Blackburn Rovers": 1.03,
+        "Watford": 126.0,
+        "Draw": 13.0
+      }
+    },
+    "61d1126751ba67227ac2819624e98342:h2h": {
+      "Betclic (FR)": {
+        "Birmingham City": 1.0,
+        "Burnley": 100.0,
+        "Draw": 40.0
+      },
+      "Winamax (FR)": {
+        "Birmingham City": 1.01,
+        "Burnley": 200.0,
+        "Draw": 34.0
+      },
+      "Winamax (DE)": {
+        "Birmingham City": 1.01,
+        "Burnley": 200.0,
+        "Draw": 34.0
+      },
+      "Betsson": {
+        "Birmingham City": 1.0,
+        "Burnley": 41.0,
+        "Draw": 19.0
+      },
+      "Nordic Bet": {
+        "Birmingham City": 1.0,
+        "Burnley": 41.0,
+        "Draw": 19.0
+      },
+      "Coolbet": {
+        "Birmingham City": 1.01,
+        "Burnley": 100.0,
+        "Draw": 24.0
+      },
+      "Betfair": {
+        "Birmingham City": 1.01,
+        "Burnley": 90.0,
+        "Draw": 48.0
+      },
+      "888sport": {
+        "Birmingham City": 1.0,
+        "Burnley": 151.0,
+        "Draw": 51.0
+      }
+    },
+    "b1af6789fe6db7aab18a2945ce56f035:h2h": {
+      "Winamax (DE)": {
+        "Atlético Madrid": 1.0,
+        "Viking FK": 200.0,
+        "Draw": 46.0
+      },
+      "Winamax (FR)": {
+        "Atlético Madrid": 1.0,
+        "Viking FK": 160.0,
+        "Draw": 44.0
+      },
+      "Betsson": {
+        "Atlético Madrid": 1.0,
+        "Viking FK": 51.0,
+        "Draw": 23.0
+      },
+      "Nordic Bet": {
+        "Atlético Madrid": 1.0,
+        "Viking FK": 51.0,
+        "Draw": 23.0
+      },
+      "Betclic (FR)": {
+        "Atlético Madrid": 1.0,
+        "Viking FK": 85.0,
+        "Draw": 35.0
+      },
+      "888sport": {
+        "Atlético Madrid": 1.0,
+        "Viking FK": 151.0,
+        "Draw": 67.0
+      },
+      "Betfair": {
+        "Atlético Madrid": 1.01,
+        "Viking FK": 95.0,
+        "Draw": 95.0
       }
     }
   },
@@ -3153,23 +2978,5 @@
     }
   ],
   "results_history": [],
-  "value_alerted": [
-    "454c104860f5430572b1d2ce372694c6:h2h|Betfair|Yokohama F Marinos",
-    "454c104860f5430572b1d2ce372694c6:h2h|Matchbook|Yokohama F Marinos",
-    "56ce614c797d9691f61a0aab5a4fdc7a:h2h|Betfair|JEF United Chiba",
-    "56ce614c797d9691f61a0aab5a4fdc7a:h2h|Matchbook|JEF United Chiba",
-    "e82083c75de6b9266b27142b9e045087:h2h|Betfair|FC Tokyo",
-    "e82083c75de6b9266b27142b9e045087:h2h|Matchbook|FC Tokyo",
-    "e82083c75de6b9266b27142b9e045087:h2h|Unibet (NL)|FC Tokyo",
-    "e82083c75de6b9266b27142b9e045087:h2h|Unibet (SE)|FC Tokyo",
-    "fadcd788d19ce04ae2ac8f56edf60336:h2h|Matchbook|Shimizu S Pulse",
-    "fadcd788d19ce04ae2ac8f56edf60336:h2h|Tipico|Draw",
-    "fadcd788d19ce04ae2ac8f56edf60336:h2h|Tipico|Fagiano Okayama",
-    "fadcd788d19ce04ae2ac8f56edf60336:h2h|Unibet (FR)|Draw",
-    "fadcd788d19ce04ae2ac8f56edf60336:h2h|Unibet (FR)|Fagiano Okayama",
-    "fadcd788d19ce04ae2ac8f56edf60336:h2h|Winamax (DE)|Draw",
-    "fadcd788d19ce04ae2ac8f56edf60336:h2h|Winamax (DE)|Fagiano Okayama",
-    "fadcd788d19ce04ae2ac8f56edf60336:h2h|Winamax (FR)|Draw",
-    "fadcd788d19ce04ae2ac8f56edf60336:h2h|Winamax (FR)|Fagiano Okayama"
-  ]
+  "value_alerted": []
 }
