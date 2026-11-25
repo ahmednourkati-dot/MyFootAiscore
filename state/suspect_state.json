@@ -1,446 +1,426 @@
 {
   "snapshots": {
-    "e422af92d1fc06c0a330838c1c2f2e08:h2h": {
-      "GTbets": {
-        "Aston Villa": 2.29,
-        "Galatasaray": 2.93,
-        "Draw": 3.91
-      },
-      "Unibet (SE)": {
-        "Aston Villa": 2.25,
-        "Galatasaray": 3.05,
-        "Draw": 4.0
-      },
-      "Unibet (FR)": {
-        "Aston Villa": 2.05,
-        "Galatasaray": 2.7,
-        "Draw": 3.6
-      },
-      "Betsson": {
-        "Aston Villa": 2.22,
-        "Galatasaray": 3.0,
-        "Draw": 3.7
-      },
+    "8149dd94fc35019447c45a6a00b246f0:h2h": {
       "Pinnacle": {
-        "Aston Villa": 2.29,
-        "Galatasaray": 3.08,
+        "Houston Dynamo": 3.83,
+        "San Jose Earthquakes": 1.97,
         "Draw": 3.78
       },
+      "888sport": {
+        "Houston Dynamo": 3.7,
+        "San Jose Earthquakes": 1.85,
+        "Draw": 3.5
+      },
+      "William Hill": {
+        "Houston Dynamo": 3.6,
+        "San Jose Earthquakes": 1.85,
+        "Draw": 3.5
+      },
       "Winamax (FR)": {
-        "Aston Villa": 2.05,
-        "Galatasaray": 2.75,
-        "Draw": 3.75
+        "Houston Dynamo": 3.25,
+        "San Jose Earthquakes": 1.82,
+        "Draw": 3.45
       },
-      "Nordic Bet": {
-        "Aston Villa": 2.25,
-        "Galatasaray": 3.05,
-        "Draw": 3.75
-      },
-      "Marathon Bet": {
-        "Aston Villa": 2.25,
-        "Galatasaray": 3.08,
-        "Draw": 3.8
-      },
-      "LeoVegas (SE)": {
-        "Aston Villa": 2.18,
-        "Galatasaray": 2.9,
-        "Draw": 3.8
+      "Winamax (DE)": {
+        "Houston Dynamo": 3.45,
+        "San Jose Earthquakes": 1.88,
+        "Draw": 3.65
       },
       "1xBet": {
-        "Aston Villa": 2.29,
-        "Galatasaray": 3.13,
-        "Draw": 3.86
+        "Houston Dynamo": 3.9,
+        "San Jose Earthquakes": 1.95,
+        "Draw": 3.81
       },
-      "PMU (FR)": {
-        "Aston Villa": 2.1,
-        "Galatasaray": 2.75,
+      "Unibet (FR)": {
+        "Houston Dynamo": 3.2,
+        "San Jose Earthquakes": 1.7,
+        "Draw": 3.2
+      },
+      "Marathon Bet": {
+        "Houston Dynamo": 3.74,
+        "San Jose Earthquakes": 1.87,
+        "Draw": 3.66
+      },
+      "Betclic (FR)": {
+        "Houston Dynamo": 3.45,
+        "San Jose Earthquakes": 1.84,
+        "Draw": 3.47
+      },
+      "MyBookie.ag": {
+        "Houston Dynamo": 3.65,
+        "San Jose Earthquakes": 1.94,
+        "Draw": 3.65
+      },
+      "Betfair": {
+        "Houston Dynamo": 3.95,
+        "San Jose Earthquakes": 2.0,
+        "Draw": 3.9
+      },
+      "BetOnline.ag": {
+        "Houston Dynamo": 3.95,
+        "San Jose Earthquakes": 1.9,
+        "Draw": 3.9
+      },
+      "Nordic Bet": {
+        "Houston Dynamo": 3.7,
+        "San Jose Earthquakes": 1.95,
+        "Draw": 3.6
+      },
+      "Betsson": {
+        "Houston Dynamo": 3.7,
+        "San Jose Earthquakes": 1.95,
+        "Draw": 3.6
+      },
+      "LeoVegas (SE)": {
+        "Houston Dynamo": 3.85,
+        "San Jose Earthquakes": 1.95,
+        "Draw": 3.75
+      },
+      "Unibet (SE)": {
+        "Houston Dynamo": 3.65,
+        "San Jose Earthquakes": 1.89,
         "Draw": 3.6
       },
       "Unibet (NL)": {
-        "Aston Villa": 2.25,
-        "Galatasaray": 3.05,
-        "Draw": 4.0
+        "Houston Dynamo": 3.65,
+        "San Jose Earthquakes": 1.89,
+        "Draw": 3.6
       },
-      "Winamax (DE)": {
-        "Aston Villa": 2.15,
-        "Galatasaray": 2.8,
-        "Draw": 3.75
-      },
-      "Betclic (FR)": {
-        "Aston Villa": 2.13,
-        "Galatasaray": 2.82,
-        "Draw": 3.75
+      "PMU (FR)": {
+        "Houston Dynamo": 3.4,
+        "San Jose Earthquakes": 1.8,
+        "Draw": 3.35
       },
       "Coolbet": {
-        "Aston Villa": 2.25,
-        "Galatasaray": 3.09,
-        "Draw": 3.9
-      },
-      "Betfair": {
-        "Aston Villa": 2.32,
-        "Galatasaray": 3.15,
-        "Draw": 3.9
-      },
-      "William Hill": {
-        "Aston Villa": 2.15,
-        "Galatasaray": 2.9,
-        "Draw": 3.5
-      },
-      "888sport": {
-        "Aston Villa": 2.15,
-        "Galatasaray": 2.9,
-        "Draw": 3.5
-      },
-      "Codere (IT)": {
-        "Aston Villa": 2.26,
-        "Galatasaray": 2.95,
-        "Draw": 3.65
-      },
-      "MyBookie.ag": {
-        "Aston Villa": 2.24,
-        "Galatasaray": 2.9,
+        "Houston Dynamo": 3.75,
+        "San Jose Earthquakes": 1.92,
         "Draw": 3.75
       },
-      "Matchbook": {
-        "Aston Villa": 2.32,
-        "Galatasaray": 3.15,
-        "Draw": 3.9
-      },
-      "BetOnline.ag": {
-        "Aston Villa": 2.22,
-        "Galatasaray": 3.03,
-        "Draw": 3.9
-      },
-      "BetAnything": {
-        "Aston Villa": 2.27,
-        "Galatasaray": 2.97,
-        "Draw": 3.8
-      }
-    },
-    "50b80f3ebd38bf63663b11ae0afc575b:h2h": {
-      "Nordic Bet": {
-        "Bodø/Glimt": 1.36,
-        "LASK": 7.1,
-        "Draw": 5.95
-      },
-      "Winamax (FR)": {
-        "Bodø/Glimt": 1.3,
-        "LASK": 5.75,
-        "Draw": 5.75
-      },
-      "Unibet (FR)": {
-        "Bodø/Glimt": 1.29,
-        "LASK": 6.5,
-        "Draw": 5.0
-      },
-      "Pinnacle": {
-        "Bodø/Glimt": 1.37,
-        "LASK": 7.07,
-        "Draw": 5.9
-      },
-      "Betsson": {
-        "Bodø/Glimt": 1.35,
-        "LASK": 7.0,
-        "Draw": 5.85
-      },
-      "1xBet": {
-        "Bodø/Glimt": 1.43,
-        "LASK": 6.98,
-        "Draw": 5.8
+      "Codere (IT)": {
+        "Houston Dynamo": 3.65,
+        "San Jose Earthquakes": 1.95,
+        "Draw": 3.55
       },
       "GTbets": {
-        "Bodø/Glimt": 1.42,
-        "LASK": 6.33,
-        "Draw": 5.63
-      },
-      "Marathon Bet": {
-        "Bodø/Glimt": 1.39,
-        "LASK": 6.8,
-        "Draw": 5.65
-      },
-      "Winamax (DE)": {
-        "Bodø/Glimt": 1.33,
-        "LASK": 6.0,
-        "Draw": 5.8
-      },
-      "Betclic (FR)": {
-        "Bodø/Glimt": 1.33,
-        "LASK": 6.25,
-        "Draw": 5.6
-      },
-      "Unibet (SE)": {
-        "Bodø/Glimt": 1.41,
-        "LASK": 7.0,
-        "Draw": 5.75
-      },
-      "Unibet (NL)": {
-        "Bodø/Glimt": 1.4,
-        "LASK": 7.0,
-        "Draw": 5.75
-      },
-      "LeoVegas (SE)": {
-        "Bodø/Glimt": 1.36,
-        "LASK": 6.75,
-        "Draw": 5.4
-      },
-      "PMU (FR)": {
-        "Bodø/Glimt": 1.33,
-        "LASK": 6.1,
-        "Draw": 5.0
-      },
-      "Coolbet": {
-        "Bodø/Glimt": 1.39,
-        "LASK": 7.6,
-        "Draw": 5.9
-      },
-      "Betfair": {
-        "Bodø/Glimt": 1.4,
-        "LASK": 7.6,
-        "Draw": 6.0
-      },
-      "William Hill": {
-        "Bodø/Glimt": 1.36,
-        "LASK": 6.0,
-        "Draw": 5.0
-      },
-      "888sport": {
-        "Bodø/Glimt": 1.36,
-        "LASK": 6.0,
-        "Draw": 5.0
-      },
-      "Codere (IT)": {
-        "Bodø/Glimt": 1.36,
-        "LASK": 6.8,
-        "Draw": 5.6
-      },
-      "MyBookie.ag": {
-        "Bodø/Glimt": 1.36,
-        "LASK": 6.6,
-        "Draw": 5.8
-      },
-      "Matchbook": {
-        "Bodø/Glimt": 1.4,
-        "LASK": 7.6,
-        "Draw": 6.2
-      },
-      "BetOnline.ag": {
-        "Bodø/Glimt": 1.38,
-        "LASK": 7.1,
-        "Draw": 5.9
+        "Houston Dynamo": 3.81,
+        "San Jose Earthquakes": 1.93,
+        "Draw": 3.62
       },
       "BetAnything": {
-        "Bodø/Glimt": 1.37,
-        "LASK": 8.24,
-        "Draw": 5.24
-      }
-    },
-    "9bd0adf3b04503ead04425bca117973f:h2h": {
-      "Unibet (SE)": {
-        "Juve Stabia": 1.93,
-        "US Catanzaro 1929": 3.7,
-        "Draw": 3.55
-      },
-      "Betsson": {
-        "Juve Stabia": 1.98,
-        "US Catanzaro 1929": 3.55,
-        "Draw": 3.35
-      },
-      "Unibet (NL)": {
-        "Juve Stabia": 1.93,
-        "US Catanzaro 1929": 3.7,
-        "Draw": 3.55
-      },
-      "Unibet (FR)": {
-        "Juve Stabia": 1.75,
-        "US Catanzaro 1929": 3.2,
-        "Draw": 3.05
-      },
-      "LeoVegas (SE)": {
-        "Juve Stabia": 1.85,
-        "US Catanzaro 1929": 3.5,
-        "Draw": 3.4
-      },
-      "Nordic Bet": {
-        "Juve Stabia": 1.98,
-        "US Catanzaro 1929": 3.55,
-        "Draw": 3.35
-      },
-      "PMU (FR)": {
-        "Juve Stabia": 1.78,
-        "US Catanzaro 1929": 3.35,
-        "Draw": 3.25
-      },
-      "Winamax (DE)": {
-        "Juve Stabia": 1.94,
-        "US Catanzaro 1929": 3.45,
-        "Draw": 3.45
-      },
-      "Winamax (FR)": {
-        "Juve Stabia": 1.88,
-        "US Catanzaro 1929": 3.25,
-        "Draw": 3.25
-      },
-      "Betclic (FR)": {
-        "Juve Stabia": 1.88,
-        "US Catanzaro 1929": 3.5,
-        "Draw": 3.32
-      },
-      "1xBet": {
-        "Juve Stabia": 1.94,
-        "US Catanzaro 1929": 3.73,
-        "Draw": 3.48
-      },
-      "Coolbet": {
-        "Juve Stabia": 2.0,
-        "US Catanzaro 1929": 3.75,
-        "Draw": 3.5
-      },
-      "BetOnline.ag": {
-        "Juve Stabia": 2.0,
-        "US Catanzaro 1929": 3.85,
-        "Draw": 3.3
-      },
-      "Pinnacle": {
-        "Juve Stabia": 2.06,
-        "US Catanzaro 1929": 3.99,
-        "Draw": 3.39
-      },
-      "Marathon Bet": {
-        "Juve Stabia": 1.92,
-        "US Catanzaro 1929": 3.74,
-        "Draw": 3.48
-      },
-      "888sport": {
-        "Juve Stabia": 2.0,
-        "US Catanzaro 1929": 3.3,
-        "Draw": 3.4
-      },
-      "William Hill": {
-        "Juve Stabia": 2.0,
-        "US Catanzaro 1929": 3.3,
-        "Draw": 3.4
+        "Houston Dynamo": 3.95,
+        "San Jose Earthquakes": 1.9,
+        "Draw": 3.9
       },
       "Matchbook": {
-        "Juve Stabia": 2.08,
-        "US Catanzaro 1929": 4.1,
-        "Draw": 3.5
-      },
-      "Betfair": {
-        "Juve Stabia": 2.08,
-        "US Catanzaro 1929": 4.1,
-        "Draw": 3.5
-      },
-      "Tipico": {
-        "Juve Stabia": 1.83,
-        "US Catanzaro 1929": 3.8,
-        "Draw": 3.4
-      },
-      "Codere (IT)": {
-        "Juve Stabia": 2.03,
-        "US Catanzaro 1929": 3.7,
-        "Draw": 3.4
+        "Houston Dynamo": 3.95,
+        "San Jose Earthquakes": 2.0,
+        "Draw": 3.9
       }
     },
-    "1266361213aa65b3a2f950e194f93351:h2h": {
-      "Unibet (NL)": {
-        "Ascoli": 2.63,
-        "Cesena FC": 2.6,
-        "Draw": 3.25
-      },
-      "Unibet (FR)": {
-        "Ascoli": 2.4,
-        "Cesena FC": 2.25,
-        "Draw": 2.9
-      },
+    "454c104860f5430572b1d2ce372694c6:h2h": {
       "LeoVegas (SE)": {
-        "Ascoli": 2.5,
-        "Cesena FC": 2.48,
-        "Draw": 3.1
+        "Avispa Fukuoka": 2.88,
+        "Yokohama F Marinos": 2.35,
+        "Draw": 3.2
       },
       "Unibet (SE)": {
-        "Ascoli": 2.63,
-        "Cesena FC": 2.6,
+        "Avispa Fukuoka": 2.88,
+        "Yokohama F Marinos": 2.35,
+        "Draw": 3.2
+      },
+      "Unibet (NL)": {
+        "Avispa Fukuoka": 2.88,
+        "Yokohama F Marinos": 2.35,
+        "Draw": 3.2
+      },
+      "PMU (FR)": {
+        "Avispa Fukuoka": 2.75,
+        "Yokohama F Marinos": 2.25,
+        "Draw": 3.05
+      },
+      "Coolbet": {
+        "Avispa Fukuoka": 3.1,
+        "Yokohama F Marinos": 2.3,
+        "Draw": 3.4
+      },
+      "Unibet (FR)": {
+        "Avispa Fukuoka": 2.7,
+        "Yokohama F Marinos": 1.97,
+        "Draw": 3.0
+      },
+      "BetOnline.ag": {
+        "Avispa Fukuoka": 3.15,
+        "Yokohama F Marinos": 2.28,
+        "Draw": 3.45
+      },
+      "Betclic (FR)": {
+        "Avispa Fukuoka": 2.93,
+        "Yokohama F Marinos": 2.13,
+        "Draw": 3.23
+      },
+      "Betsson": {
+        "Avispa Fukuoka": 3.0,
+        "Yokohama F Marinos": 2.22,
+        "Draw": 3.25
+      },
+      "Nordic Bet": {
+        "Avispa Fukuoka": 3.0,
+        "Yokohama F Marinos": 2.22,
+        "Draw": 3.25
+      },
+      "Winamax (DE)": {
+        "Avispa Fukuoka": 2.85,
+        "Yokohama F Marinos": 2.15,
+        "Draw": 3.3
+      },
+      "Winamax (FR)": {
+        "Avispa Fukuoka": 2.75,
+        "Yokohama F Marinos": 2.1,
+        "Draw": 3.2
+      },
+      "Pinnacle": {
+        "Avispa Fukuoka": 3.17,
+        "Yokohama F Marinos": 2.31,
+        "Draw": 3.55
+      },
+      "1xBet": {
+        "Avispa Fukuoka": 3.12,
+        "Yokohama F Marinos": 2.29,
+        "Draw": 3.44
+      },
+      "Marathon Bet": {
+        "Avispa Fukuoka": 3.04,
+        "Yokohama F Marinos": 2.23,
+        "Draw": 3.36
+      },
+      "888sport": {
+        "Avispa Fukuoka": 3.0,
+        "Yokohama F Marinos": 2.2,
+        "Draw": 3.25
+      },
+      "William Hill": {
+        "Avispa Fukuoka": 3.0,
+        "Yokohama F Marinos": 2.2,
+        "Draw": 3.25
+      },
+      "Tipico": {
+        "Avispa Fukuoka": 3.1,
+        "Yokohama F Marinos": 2.1,
+        "Draw": 3.4
+      },
+      "Betfair": {
+        "Avispa Fukuoka": 3.2,
+        "Yokohama F Marinos": 2.34,
+        "Draw": 3.55
+      },
+      "Matchbook": {
+        "Avispa Fukuoka": 3.2,
+        "Yokohama F Marinos": 2.32,
+        "Draw": 3.55
+      }
+    },
+    "e82083c75de6b9266b27142b9e045087:h2h": {
+      "LeoVegas (SE)": {
+        "FC Tokyo": 2.45,
+        "Hiroshima Sanfrecce FC": 2.55,
+        "Draw": 3.55
+      },
+      "Unibet (SE)": {
+        "FC Tokyo": 2.45,
+        "Hiroshima Sanfrecce FC": 2.55,
+        "Draw": 3.5
+      },
+      "Unibet (NL)": {
+        "FC Tokyo": 2.45,
+        "Hiroshima Sanfrecce FC": 2.55,
+        "Draw": 3.5
+      },
+      "PMU (FR)": {
+        "FC Tokyo": 2.33,
+        "Hiroshima Sanfrecce FC": 2.45,
+        "Draw": 3.35
+      },
+      "Coolbet": {
+        "FC Tokyo": 2.4,
+        "Hiroshima Sanfrecce FC": 2.9,
+        "Draw": 3.5
+      },
+      "Unibet (FR)": {
+        "FC Tokyo": 1.98,
+        "Hiroshima Sanfrecce FC": 2.6,
+        "Draw": 3.1
+      },
+      "BetOnline.ag": {
+        "FC Tokyo": 2.3,
+        "Hiroshima Sanfrecce FC": 3.05,
+        "Draw": 3.5
+      },
+      "Betclic (FR)": {
+        "FC Tokyo": 2.15,
+        "Hiroshima Sanfrecce FC": 2.8,
+        "Draw": 3.37
+      },
+      "Betsson": {
+        "FC Tokyo": 2.25,
+        "Hiroshima Sanfrecce FC": 2.85,
+        "Draw": 3.4
+      },
+      "Nordic Bet": {
+        "FC Tokyo": 2.25,
+        "Hiroshima Sanfrecce FC": 2.85,
+        "Draw": 3.4
+      },
+      "Winamax (DE)": {
+        "FC Tokyo": 2.2,
+        "Hiroshima Sanfrecce FC": 2.75,
+        "Draw": 3.5
+      },
+      "Winamax (FR)": {
+        "FC Tokyo": 2.1,
+        "Hiroshima Sanfrecce FC": 2.65,
+        "Draw": 3.3
+      },
+      "Pinnacle": {
+        "FC Tokyo": 2.35,
+        "Hiroshima Sanfrecce FC": 3.06,
+        "Draw": 3.6
+      },
+      "1xBet": {
+        "FC Tokyo": 2.38,
+        "Hiroshima Sanfrecce FC": 2.95,
+        "Draw": 3.46
+      },
+      "Marathon Bet": {
+        "FC Tokyo": 2.32,
+        "Hiroshima Sanfrecce FC": 2.88,
+        "Draw": 3.38
+      },
+      "888sport": {
+        "FC Tokyo": 2.3,
+        "Hiroshima Sanfrecce FC": 2.88,
+        "Draw": 3.3
+      },
+      "William Hill": {
+        "FC Tokyo": 2.3,
+        "Hiroshima Sanfrecce FC": 2.88,
+        "Draw": 3.3
+      },
+      "Tipico": {
+        "FC Tokyo": 2.15,
+        "Hiroshima Sanfrecce FC": 2.95,
+        "Draw": 3.4
+      },
+      "Betfair": {
+        "FC Tokyo": 2.38,
+        "Hiroshima Sanfrecce FC": 3.05,
+        "Draw": 3.7
+      },
+      "Matchbook": {
+        "FC Tokyo": 2.32,
+        "Hiroshima Sanfrecce FC": 3.05,
+        "Draw": 3.7
+      }
+    },
+    "fadcd788d19ce04ae2ac8f56edf60336:h2h": {
+      "LeoVegas (SE)": {
+        "Fagiano Okayama": 1.94,
+        "Shimizu S Pulse": 3.75,
+        "Draw": 3.3
+      },
+      "Unibet (SE)": {
+        "Fagiano Okayama": 1.93,
+        "Shimizu S Pulse": 3.75,
+        "Draw": 3.25
+      },
+      "Unibet (NL)": {
+        "Fagiano Okayama": 1.93,
+        "Shimizu S Pulse": 3.75,
         "Draw": 3.25
       },
       "PMU (FR)": {
-        "Ascoli": 2.43,
-        "Cesena FC": 2.38,
-        "Draw": 3.0
-      },
-      "Winamax (DE)": {
-        "Ascoli": 2.55,
-        "Cesena FC": 2.5,
-        "Draw": 3.25
-      },
-      "Winamax (FR)": {
-        "Ascoli": 2.45,
-        "Cesena FC": 2.4,
+        "Fagiano Okayama": 1.85,
+        "Shimizu S Pulse": 3.6,
         "Draw": 3.1
       },
-      "Betclic (FR)": {
-        "Ascoli": 2.57,
-        "Cesena FC": 2.42,
-        "Draw": 3.17
-      },
-      "Codere (IT)": {
-        "Ascoli": 2.7,
-        "Cesena FC": 2.65,
-        "Draw": 3.2
-      },
-      "Nordic Bet": {
-        "Ascoli": 2.62,
-        "Cesena FC": 2.55,
-        "Draw": 3.15
+      "Unibet (FR)": {
+        "Fagiano Okayama": 1.79,
+        "Shimizu S Pulse": 3.25,
+        "Draw": 2.9
       },
       "Betsson": {
-        "Ascoli": 2.62,
-        "Cesena FC": 2.55,
+        "Fagiano Okayama": 2.02,
+        "Shimizu S Pulse": 3.65,
         "Draw": 3.15
-      },
-      "1xBet": {
-        "Ascoli": 2.6,
-        "Cesena FC": 2.57,
-        "Draw": 3.32
-      },
-      "Coolbet": {
-        "Ascoli": 2.65,
-        "Cesena FC": 2.65,
-        "Draw": 3.3
       },
       "BetOnline.ag": {
-        "Ascoli": 2.68,
-        "Cesena FC": 2.7,
+        "Fagiano Okayama": 2.06,
+        "Shimizu S Pulse": 3.9,
+        "Draw": 3.25
+      },
+      "Coolbet": {
+        "Fagiano Okayama": 2.05,
+        "Shimizu S Pulse": 3.75,
+        "Draw": 3.4
+      },
+      "Nordic Bet": {
+        "Fagiano Okayama": 2.02,
+        "Shimizu S Pulse": 3.65,
         "Draw": 3.15
       },
+      "Winamax (FR)": {
+        "Fagiano Okayama": 1.92,
+        "Shimizu S Pulse": 3.3,
+        "Draw": 3.1
+      },
+      "Winamax (DE)": {
+        "Fagiano Okayama": 2.0,
+        "Shimizu S Pulse": 3.5,
+        "Draw": 3.25
+      },
+      "Betclic (FR)": {
+        "Fagiano Okayama": 1.94,
+        "Shimizu S Pulse": 3.53,
+        "Draw": 3.12
+      },
+      "1xBet": {
+        "Fagiano Okayama": 2.06,
+        "Shimizu S Pulse": 3.79,
+        "Draw": 3.35
+      },
       "Pinnacle": {
-        "Ascoli": 2.74,
-        "Cesena FC": 2.79,
+        "Fagiano Okayama": 2.1,
+        "Shimizu S Pulse": 3.94,
+        "Draw": 3.33
+      },
+      "Marathon Bet": {
+        "Fagiano Okayama": 2.01,
+        "Shimizu S Pulse": 3.7,
         "Draw": 3.26
       },
       "888sport": {
-        "Ascoli": 2.62,
-        "Cesena FC": 2.6,
-        "Draw": 3.0
+        "Fagiano Okayama": 2.0,
+        "Shimizu S Pulse": 3.7,
+        "Draw": 3.1
       },
       "William Hill": {
-        "Ascoli": 2.62,
-        "Cesena FC": 2.6,
-        "Draw": 3.0
-      },
-      "Matchbook": {
-        "Ascoli": 2.8,
-        "Cesena FC": 2.84,
-        "Draw": 3.3
-      },
-      "Betfair": {
-        "Ascoli": 2.78,
-        "Cesena FC": 2.84,
-        "Draw": 3.25
+        "Fagiano Okayama": 2.0,
+        "Shimizu S Pulse": 3.7,
+        "Draw": 3.1
       },
       "Tipico": {
-        "Ascoli": 2.5,
-        "Cesena FC": 2.7,
-        "Draw": 2.95
+        "Fagiano Okayama": 1.9,
+        "Shimizu S Pulse": 3.9,
+        "Draw": 3.2
+      },
+      "Betfair": {
+        "Fagiano Okayama": 2.14,
+        "Shimizu S Pulse": 4.0,
+        "Draw": 3.3
+      },
+      "Matchbook": {
+        "Fagiano Okayama": 2.12,
+        "Shimizu S Pulse": 4.0,
+        "Draw": 3.25
       }
     }
   },
@@ -3296,7 +3276,5 @@
     }
   ],
   "results_history": [],
-  "value_alerted": [
-    "50b80f3ebd38bf63663b11ae0afc575b:h2h|BetAnything|LASK"
-  ]
+  "value_alerted": []
 }
