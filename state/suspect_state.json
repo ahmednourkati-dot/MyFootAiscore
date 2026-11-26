@@ -1,176 +1,286 @@
 {
   "snapshots": {
-    "9dfe9df3ad88c453e3572872bf500488:h2h": {
-      "Unibet (FR)": {
-        "Bolton Wanderers": 29.0,
-        "West Bromwich Albion": 1.1,
-        "Draw": 3.7
+    "62616fc8a07a92e905749968501d260d:h2h": {
+      "Matchbook": {
+        "América": 1.81,
+        "Monterrey": 7.0,
+        "Draw": 3.0
       },
-      "Betclic (FR)": {
-        "Bolton Wanderers": 100.0,
-        "West Bromwich Albion": 1.0,
-        "Draw": 40.0
-      },
-      "Winamax (FR)": {
-        "Bolton Wanderers": 100.0,
-        "West Bromwich Albion": 1.04,
-        "Draw": 15.0
-      },
-      "Winamax (DE)": {
-        "Bolton Wanderers": 100.0,
-        "West Bromwich Albion": 1.02,
-        "Draw": 16.0
-      },
-      "Nordic Bet": {
-        "Bolton Wanderers": 26.0,
-        "West Bromwich Albion": 1.0,
-        "Draw": 26.0
-      },
-      "Betsson": {
-        "Bolton Wanderers": 26.0,
-        "West Bromwich Albion": 1.0,
-        "Draw": 26.0
-      },
-      "888sport": {
-        "Bolton Wanderers": 151.0,
-        "West Bromwich Albion": 1.0,
-        "Draw": 61.0
-      },
-      "Betfair": {
-        "Bolton Wanderers": 1000.0,
-        "West Bromwich Albion": 1.01,
-        "Draw": 80.0
-      }
-    },
-    "0eb7f35d744c1cebeb53be32f50e1e2d:h2h": {
       "Unibet (NL)": {
-        "Blackburn Rovers": 1.03,
-        "Watford": 201.0,
-        "Draw": 14.0
+        "América": 1.73,
+        "Monterrey": 7.0,
+        "Draw": 2.75
       },
       "Unibet (SE)": {
-        "Blackburn Rovers": 1.03,
-        "Watford": 201.0,
-        "Draw": 14.0
+        "América": 1.73,
+        "Monterrey": 7.0,
+        "Draw": 2.75
+      },
+      "LeoVegas (SE)": {
+        "América": 1.63,
+        "Monterrey": 6.5,
+        "Draw": 2.6
+      },
+      "888sport": {
+        "América": 1.7,
+        "Monterrey": 6.0,
+        "Draw": 2.5
+      },
+      "PMU (FR)": {
+        "América": 1.56,
+        "Monterrey": 6.25,
+        "Draw": 2.48
+      },
+      "Betclic (FR)": {
+        "América": 1.57,
+        "Monterrey": 6.25,
+        "Draw": 2.63
+      },
+      "Coolbet": {
+        "América": 1.8,
+        "Monterrey": 8.0,
+        "Draw": 2.8
+      },
+      "Pinnacle": {
+        "América": 1.75,
+        "Monterrey": 6.67,
+        "Draw": 2.91
+      },
+      "Betsson": {
+        "América": 1.78,
+        "Monterrey": 7.2,
+        "Draw": 2.55
+      },
+      "Nordic Bet": {
+        "América": 1.78,
+        "Monterrey": 7.2,
+        "Draw": 2.55
+      },
+      "Betfair": {
+        "América": 1.83,
+        "Monterrey": 7.0,
+        "Draw": 3.1
+      },
+      "Marathon Bet": {
+        "América": 1.71,
+        "Monterrey": 6.5,
+        "Draw": 2.74
+      }
+    },
+    "69b4603433d0eed91383cbee4456157b:h2h": {
+      "Pinnacle": {
+        "Al-Fateh": 2.26,
+        "Al-Riyadh": 2.94,
+        "Draw": 3.76
+      },
+      "888sport": {
+        "Al-Fateh": 2.15,
+        "Al-Riyadh": 2.8,
+        "Draw": 3.3
+      },
+      "Betfair": {
+        "Al-Fateh": 2.34,
+        "Al-Riyadh": 3.0,
+        "Draw": 3.7
+      },
+      "Tipico": {
+        "Al-Fateh": 2.05,
+        "Al-Riyadh": 3.0,
+        "Draw": 3.6
+      },
+      "PMU (FR)": {
+        "Al-Fateh": 2.02,
+        "Al-Riyadh": 2.75,
+        "Draw": 3.25
       },
       "Unibet (FR)": {
-        "Blackburn Rovers": 1.01,
-        "Watford": 100.0,
-        "Draw": 4.65
+        "Al-Fateh": 1.89,
+        "Al-Riyadh": 2.75,
+        "Draw": 3.15
       },
-      "Betclic (FR)": {
-        "Blackburn Rovers": 1.02,
-        "Watford": 45.0,
-        "Draw": 10.0
+      "Unibet (SE)": {
+        "Al-Fateh": 2.15,
+        "Al-Riyadh": 2.9,
+        "Draw": 3.45
       },
-      "Winamax (FR)": {
-        "Blackburn Rovers": 1.04,
-        "Watford": 400.0,
-        "Draw": 15.0
+      "Unibet (NL)": {
+        "Al-Fateh": 2.15,
+        "Al-Riyadh": 2.9,
+        "Draw": 3.45
       },
-      "Nordic Bet": {
-        "Blackburn Rovers": 1.02,
-        "Watford": 130.0,
-        "Draw": 12.0
+      "William Hill": {
+        "Al-Fateh": 2.15,
+        "Al-Riyadh": 2.8,
+        "Draw": 3.3
       },
-      "Betsson": {
-        "Blackburn Rovers": 1.02,
-        "Watford": 130.0,
-        "Draw": 12.0
-      },
-      "Coolbet": {
-        "Blackburn Rovers": 1.06,
-        "Watford": 125.0,
-        "Draw": 11.5
-      },
-      "Betfair": {
-        "Blackburn Rovers": 1.04,
-        "Watford": 46.0,
-        "Draw": 13.5
-      },
-      "888sport": {
-        "Blackburn Rovers": 1.03,
-        "Watford": 126.0,
-        "Draw": 13.0
-      }
-    },
-    "61d1126751ba67227ac2819624e98342:h2h": {
-      "Betclic (FR)": {
-        "Birmingham City": 1.0,
-        "Burnley": 100.0,
-        "Draw": 40.0
-      },
-      "Winamax (FR)": {
-        "Birmingham City": 1.01,
-        "Burnley": 200.0,
-        "Draw": 34.0
+      "LeoVegas (SE)": {
+        "Al-Fateh": 2.1,
+        "Al-Riyadh": 2.85,
+        "Draw": 3.35
       },
       "Winamax (DE)": {
-        "Birmingham City": 1.01,
-        "Burnley": 200.0,
-        "Draw": 34.0
+        "Al-Fateh": 2.1,
+        "Al-Riyadh": 2.9,
+        "Draw": 3.55
       },
-      "Betsson": {
-        "Birmingham City": 1.0,
-        "Burnley": 41.0,
-        "Draw": 19.0
-      },
-      "Nordic Bet": {
-        "Birmingham City": 1.0,
-        "Burnley": 41.0,
-        "Draw": 19.0
-      },
-      "Coolbet": {
-        "Birmingham City": 1.01,
-        "Burnley": 100.0,
-        "Draw": 24.0
-      },
-      "Betfair": {
-        "Birmingham City": 1.01,
-        "Burnley": 90.0,
-        "Draw": 48.0
-      },
-      "888sport": {
-        "Birmingham City": 1.0,
-        "Burnley": 151.0,
-        "Draw": 51.0
-      }
-    },
-    "b1af6789fe6db7aab18a2945ce56f035:h2h": {
-      "Winamax (DE)": {
-        "Atlético Madrid": 1.0,
-        "Viking FK": 200.0,
-        "Draw": 46.0
+      "1xBet": {
+        "Al-Fateh": 2.22,
+        "Al-Riyadh": 2.97,
+        "Draw": 3.55
       },
       "Winamax (FR)": {
-        "Atlético Madrid": 1.0,
-        "Viking FK": 160.0,
-        "Draw": 44.0
-      },
-      "Betsson": {
-        "Atlético Madrid": 1.0,
-        "Viking FK": 51.0,
-        "Draw": 23.0
-      },
-      "Nordic Bet": {
-        "Atlético Madrid": 1.0,
-        "Viking FK": 51.0,
-        "Draw": 23.0
+        "Al-Fateh": 2.0,
+        "Al-Riyadh": 2.75,
+        "Draw": 3.4
       },
       "Betclic (FR)": {
-        "Atlético Madrid": 1.0,
-        "Viking FK": 85.0,
-        "Draw": 35.0
-      },
+        "Al-Fateh": 2.05,
+        "Al-Riyadh": 2.97,
+        "Draw": 3.47
+      }
+    },
+    "1b5eb3275c0bdc0eb75a4446f869a309:h2h": {
       "888sport": {
-        "Atlético Madrid": 1.0,
-        "Viking FK": 151.0,
-        "Draw": 67.0
+        "Abha Club": 3.5,
+        "Al-Shabab": 1.8,
+        "Draw": 3.4
+      },
+      "PMU (FR)": {
+        "Abha Club": 3.45,
+        "Al-Shabab": 1.72,
+        "Draw": 3.4
+      },
+      "Unibet (SE)": {
+        "Abha Club": 3.65,
+        "Al-Shabab": 1.83,
+        "Draw": 3.6
+      },
+      "Unibet (FR)": {
+        "Abha Club": 3.45,
+        "Al-Shabab": 1.61,
+        "Draw": 3.35
       },
       "Betfair": {
-        "Atlético Madrid": 1.01,
-        "Viking FK": 95.0,
-        "Draw": 95.0
+        "Abha Club": 4.2,
+        "Al-Shabab": 1.88,
+        "Draw": 3.9
+      },
+      "Unibet (NL)": {
+        "Abha Club": 3.65,
+        "Al-Shabab": 1.83,
+        "Draw": 3.6
+      },
+      "Tipico": {
+        "Abha Club": 4.1,
+        "Al-Shabab": 1.72,
+        "Draw": 3.7
+      },
+      "Pinnacle": {
+        "Abha Club": 3.9,
+        "Al-Shabab": 1.87,
+        "Draw": 3.88
+      },
+      "Winamax (DE)": {
+        "Abha Club": 3.65,
+        "Al-Shabab": 1.76,
+        "Draw": 3.8
+      },
+      "LeoVegas (SE)": {
+        "Abha Club": 3.55,
+        "Al-Shabab": 1.78,
+        "Draw": 3.5
+      },
+      "1xBet": {
+        "Abha Club": 3.84,
+        "Al-Shabab": 1.82,
+        "Draw": 3.86
+      },
+      "Winamax (FR)": {
+        "Abha Club": 3.5,
+        "Al-Shabab": 1.72,
+        "Draw": 3.6
+      },
+      "Betclic (FR)": {
+        "Abha Club": 3.8,
+        "Al-Shabab": 1.73,
+        "Draw": 3.7
+      },
+      "William Hill": {
+        "Abha Club": 3.5,
+        "Al-Shabab": 1.8,
+        "Draw": 3.4
+      }
+    },
+    "b11e430b1d8052d0c718bcee69145f7a:h2h": {
+      "1xBet": {
+        "FC Kairat": 2.21,
+        "Mjällby AIF": 3.38,
+        "Draw": 3.46
+      },
+      "Unibet (FR)": {
+        "FC Kairat": 1.98,
+        "Mjällby AIF": 3.2,
+        "Draw": 3.2
+      },
+      "Nordic Bet": {
+        "FC Kairat": 2.2,
+        "Mjällby AIF": 3.3,
+        "Draw": 3.45
+      },
+      "Betclic (FR)": {
+        "FC Kairat": 2.12,
+        "Mjällby AIF": 2.95,
+        "Draw": 3.38
+      },
+      "Betsson": {
+        "FC Kairat": 2.18,
+        "Mjällby AIF": 3.25,
+        "Draw": 3.4
+      },
+      "Marathon Bet": {
+        "FC Kairat": 2.13,
+        "Mjällby AIF": 3.26,
+        "Draw": 3.34
+      },
+      "Betfair": {
+        "FC Kairat": 2.2,
+        "Mjällby AIF": 3.55,
+        "Draw": 3.6
+      },
+      "LeoVegas (SE)": {
+        "FC Kairat": 2.14,
+        "Mjällby AIF": 3.0,
+        "Draw": 3.3
+      },
+      "Unibet (NL)": {
+        "FC Kairat": 2.25,
+        "Mjällby AIF": 3.2,
+        "Draw": 3.6
+      },
+      "888sport": {
+        "FC Kairat": 2.1,
+        "Mjällby AIF": 3.25,
+        "Draw": 3.25
+      },
+      "William Hill": {
+        "FC Kairat": 2.1,
+        "Mjällby AIF": 3.2,
+        "Draw": 3.2
+      },
+      "Pinnacle": {
+        "FC Kairat": 2.2,
+        "Mjällby AIF": 3.38,
+        "Draw": 3.49
+      },
+      "BetOnline.ag": {
+        "FC Kairat": 2.16,
+        "Mjällby AIF": 3.35,
+        "Draw": 3.46
+      },
+      "Matchbook": {
+        "FC Kairat": 2.2,
+        "Mjällby AIF": 3.55,
+        "Draw": 3.6
       }
     }
   },
@@ -2079,8 +2189,26 @@
       "confidence": 11,
       "alert_type": "value",
       "alerted_at": "2026-11-25T11:10:28.336441+00:00"
+    },
+    {
+      "state_key": "62616fc8a07a92e905749968501d260d:h2h",
+      "event_id": "62616fc8a07a92e905749968501d260d",
+      "sport_key": "soccer",
+      "competition": "Liga MX",
+      "home_team": "Monterrey",
+      "away_team": "América",
+      "commence_time": "2026-11-26T03:12:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Monterrey",
+      "odds_at_alert": 8.0,
+      "stake_pct": 3.0,
+      "confidence": 13,
+      "alert_type": "value",
+      "alerted_at": "2026-11-26T04:06:00.477172+00:00"
     }
   ],
   "results_history": [],
-  "value_alerted": []
+  "value_alerted": [
+    "62616fc8a07a92e905749968501d260d:h2h|Coolbet|Monterrey"
+  ]
 }
