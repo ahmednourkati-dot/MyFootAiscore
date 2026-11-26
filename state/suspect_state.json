@@ -1,296 +1,396 @@
 {
   "snapshots": {
-    "69b4603433d0eed91383cbee4456157b:h2h": {
-      "Pinnacle": {
-        "Al-Fateh": 2.37,
-        "Al-Riyadh": 2.77,
-        "Draw": 3.78
-      },
-      "888sport": {
-        "Al-Fateh": 2.25,
-        "Al-Riyadh": 2.62,
-        "Draw": 3.3
-      },
-      "Betfair": {
-        "Al-Fateh": 2.52,
-        "Al-Riyadh": 2.86,
-        "Draw": 3.75
-      },
-      "Tipico": {
-        "Al-Fateh": 2.25,
-        "Al-Riyadh": 2.65,
-        "Draw": 3.6
+    "908ac2d3341c0dd5d86e300affa06f15:h2h": {
+      "Unibet (SE)": {
+        "Remo": 8.5,
+        "Sao Paulo": 1.36,
+        "Draw": 4.6
       },
       "PMU (FR)": {
-        "Al-Fateh": 2.15,
-        "Al-Riyadh": 2.6,
+        "Remo": 7.5,
+        "Sao Paulo": 1.32,
+        "Draw": 4.25
+      },
+      "Unibet (NL)": {
+        "Remo": 8.5,
+        "Sao Paulo": 1.36,
+        "Draw": 4.6
+      },
+      "LeoVegas (SE)": {
+        "Remo": 7.5,
+        "Sao Paulo": 1.34,
+        "Draw": 4.35
+      },
+      "Betclic (FR)": {
+        "Remo": 6.4,
+        "Sao Paulo": 1.33,
+        "Draw": 3.98
+      },
+      "Unibet (FR)": {
+        "Remo": 6.1,
+        "Sao Paulo": 1.28,
+        "Draw": 3.8
+      },
+      "Nordic Bet": {
+        "Remo": 7.3,
+        "Sao Paulo": 1.4,
+        "Draw": 4.3
+      },
+      "Betsson": {
+        "Remo": 7.3,
+        "Sao Paulo": 1.4,
+        "Draw": 4.4
+      },
+      "Pinnacle": {
+        "Remo": 8.92,
+        "Sao Paulo": 1.38,
+        "Draw": 4.79
+      },
+      "Codere (IT)": {
+        "Remo": 7.4,
+        "Sao Paulo": 1.42,
+        "Draw": 4.3
+      },
+      "Coolbet": {
+        "Remo": 9.0,
+        "Sao Paulo": 1.39,
+        "Draw": 4.65
+      },
+      "GTbets": {
+        "Remo": 8.32,
+        "Sao Paulo": 1.37,
+        "Draw": 4.56
+      },
+      "1xBet": {
+        "Remo": 9.03,
+        "Sao Paulo": 1.45,
+        "Draw": 4.14
+      },
+      "Betfair": {
+        "Remo": 9.0,
+        "Sao Paulo": 1.44,
+        "Draw": 5.0
+      },
+      "MyBookie.ag": {
+        "Remo": 8.7,
+        "Sao Paulo": 1.36,
+        "Draw": 4.8
+      },
+      "Marathon Bet": {
+        "Remo": 8.3,
+        "Sao Paulo": 1.36,
+        "Draw": 4.55
+      },
+      "Matchbook": {
+        "Remo": 9.0,
+        "Sao Paulo": 1.44,
+        "Draw": 5.0
+      },
+      "Winamax (DE)": {
+        "Remo": 6.5,
+        "Sao Paulo": 1.38,
+        "Draw": 4.5
+      },
+      "Winamax (FR)": {
+        "Remo": 6.0,
+        "Sao Paulo": 1.35,
+        "Draw": 4.1
+      },
+      "888sport": {
+        "Remo": 7.5,
+        "Sao Paulo": 1.4,
+        "Draw": 4.0
+      },
+      "William Hill": {
+        "Remo": 7.5,
+        "Sao Paulo": 1.4,
+        "Draw": 4.0
+      },
+      "BetOnline.ag": {
+        "Remo": 8.85,
+        "Sao Paulo": 1.4,
+        "Draw": 4.85
+      },
+      "Tipico": {
+        "Remo": 8.5,
+        "Sao Paulo": 1.28,
+        "Draw": 4.8
+      },
+      "BetAnything": {
+        "Remo": 7.25,
+        "Sao Paulo": 1.41,
+        "Draw": 4.4
+      }
+    },
+    "a648e84f07617a98535305954fc21467:h2h": {
+      "Unibet (SE)": {
+        "Guadalajara": 2.4,
+        "Pachuca": 2.7,
+        "Draw": 3.3
+      },
+      "LeoVegas (SE)": {
+        "Guadalajara": 2.33,
+        "Pachuca": 2.6,
         "Draw": 3.15
       },
-      "Unibet (FR)": {
-        "Al-Fateh": 2.0,
-        "Al-Riyadh": 2.5,
-        "Draw": 3.2
-      },
-      "Unibet (SE)": {
-        "Al-Fateh": 2.28,
-        "Al-Riyadh": 2.75,
-        "Draw": 3.35
+      "PMU (FR)": {
+        "Guadalajara": 2.25,
+        "Pachuca": 2.5,
+        "Draw": 3.05
       },
       "Unibet (NL)": {
-        "Al-Fateh": 2.28,
-        "Al-Riyadh": 2.75,
-        "Draw": 3.35
-      },
-      "William Hill": {
-        "Al-Fateh": 2.25,
-        "Al-Riyadh": 2.62,
+        "Guadalajara": 2.4,
+        "Pachuca": 2.7,
         "Draw": 3.3
       },
-      "LeoVegas (SE)": {
-        "Al-Fateh": 2.23,
-        "Al-Riyadh": 2.65,
-        "Draw": 3.25
-      },
-      "Winamax (DE)": {
-        "Al-Fateh": 2.25,
-        "Al-Riyadh": 2.65,
-        "Draw": 3.6
-      },
-      "1xBet": {
-        "Al-Fateh": 2.29,
-        "Al-Riyadh": 2.81,
-        "Draw": 3.6
-      },
-      "Winamax (FR)": {
-        "Al-Fateh": 2.2,
-        "Al-Riyadh": 2.6,
-        "Draw": 3.55
-      },
       "Betclic (FR)": {
-        "Al-Fateh": 2.2,
-        "Al-Riyadh": 2.7,
-        "Draw": 3.5
-      }
-    },
-    "1b5eb3275c0bdc0eb75a4446f869a309:h2h": {
-      "888sport": {
-        "Abha Club": 3.8,
-        "Al-Shabab": 1.75,
-        "Draw": 3.4
+        "Guadalajara": 2.27,
+        "Pachuca": 2.77,
+        "Draw": 3.17
       },
-      "PMU (FR)": {
-        "Abha Club": 3.75,
-        "Al-Shabab": 1.63,
-        "Draw": 3.5
-      },
-      "Unibet (SE)": {
-        "Abha Club": 4.0,
-        "Al-Shabab": 1.73,
-        "Draw": 3.75
-      },
-      "Unibet (FR)": {
-        "Abha Club": 3.55,
-        "Al-Shabab": 1.58,
-        "Draw": 3.4
-      },
-      "Betfair": {
-        "Abha Club": 4.6,
-        "Al-Shabab": 1.86,
-        "Draw": 3.85
-      },
-      "Unibet (NL)": {
-        "Abha Club": 4.0,
-        "Al-Shabab": 1.73,
-        "Draw": 3.75
-      },
-      "Tipico": {
-        "Abha Club": 4.4,
-        "Al-Shabab": 1.67,
-        "Draw": 3.7
+      "GTbets": {
+        "Guadalajara": 2.47,
+        "Pachuca": 2.82,
+        "Draw": 3.41
       },
       "Pinnacle": {
-        "Abha Club": 4.12,
-        "Al-Shabab": 1.86,
-        "Draw": 3.71
-      },
-      "Winamax (DE)": {
-        "Abha Club": 3.8,
-        "Al-Shabab": 1.74,
-        "Draw": 3.85
-      },
-      "LeoVegas (SE)": {
-        "Abha Club": 3.85,
-        "Al-Shabab": 1.68,
-        "Draw": 3.65
-      },
-      "1xBet": {
-        "Abha Club": 4.0,
-        "Al-Shabab": 1.82,
-        "Draw": 3.7
-      },
-      "Winamax (FR)": {
-        "Abha Club": 3.75,
-        "Al-Shabab": 1.72,
-        "Draw": 3.75
-      },
-      "Betclic (FR)": {
-        "Abha Club": 3.93,
-        "Al-Shabab": 1.7,
-        "Draw": 3.73
+        "Guadalajara": 2.47,
+        "Pachuca": 3.14,
+        "Draw": 3.26
       },
       "William Hill": {
-        "Abha Club": 3.8,
-        "Al-Shabab": 1.75,
-        "Draw": 3.4
-      }
-    },
-    "b11e430b1d8052d0c718bcee69145f7a:h2h": {
-      "1xBet": {
-        "FC Kairat": 2.23,
-        "Mjällby AIF": 3.38,
-        "Draw": 3.42
+        "Guadalajara": 2.3,
+        "Pachuca": 2.8,
+        "Draw": 2.9
       },
-      "Unibet (FR)": {
-        "FC Kairat": 2.05,
-        "Mjällby AIF": 3.1,
+      "888sport": {
+        "Guadalajara": 2.3,
+        "Pachuca": 2.8,
+        "Draw": 2.9
+      },
+      "BetOnline.ag": {
+        "Guadalajara": 2.5,
+        "Pachuca": 3.09,
+        "Draw": 3.22
+      },
+      "Matchbook": {
+        "Guadalajara": 2.5,
+        "Pachuca": 3.2,
+        "Draw": 3.35
+      },
+      "1xBet": {
+        "Guadalajara": 2.38,
+        "Pachuca": 2.98,
+        "Draw": 3.1
+      },
+      "Coolbet": {
+        "Guadalajara": 2.5,
+        "Pachuca": 3.15,
+        "Draw": 3.0
+      },
+      "Betsson": {
+        "Guadalajara": 2.35,
+        "Pachuca": 2.9,
         "Draw": 3.2
       },
       "Nordic Bet": {
-        "FC Kairat": 2.25,
-        "Mjällby AIF": 3.3,
-        "Draw": 3.3
+        "Guadalajara": 2.35,
+        "Pachuca": 2.9,
+        "Draw": 3.2
+      },
+      "Marathon Bet": {
+        "Guadalajara": 2.36,
+        "Pachuca": 2.95,
+        "Draw": 3.1
+      },
+      "Betfair": {
+        "Guadalajara": 2.52,
+        "Pachuca": 3.2,
+        "Draw": 3.35
+      }
+    },
+    "6a6e4753173f8db212cb4b448a892c6f:h2h": {
+      "Unibet (SE)": {
+        "Cruz Azul": 2.04,
+        "León": 3.2,
+        "Draw": 3.5
+      },
+      "LeoVegas (SE)": {
+        "Cruz Azul": 1.97,
+        "León": 3.05,
+        "Draw": 3.35
+      },
+      "PMU (FR)": {
+        "Cruz Azul": 1.91,
+        "León": 2.95,
+        "Draw": 3.25
+      },
+      "Unibet (NL)": {
+        "Cruz Azul": 2.04,
+        "León": 3.2,
+        "Draw": 3.5
       },
       "Betclic (FR)": {
-        "FC Kairat": 2.13,
-        "Mjällby AIF": 3.15,
+        "Cruz Azul": 2.03,
+        "León": 3.05,
+        "Draw": 3.33
+      },
+      "GTbets": {
+        "Cruz Azul": 2.13,
+        "León": 3.24,
+        "Draw": 3.55
+      },
+      "Pinnacle": {
+        "Cruz Azul": 2.15,
+        "León": 3.38,
+        "Draw": 3.71
+      },
+      "William Hill": {
+        "Cruz Azul": 2.05,
+        "León": 3.0,
+        "Draw": 3.25
+      },
+      "888sport": {
+        "Cruz Azul": 2.05,
+        "León": 3.0,
+        "Draw": 3.25
+      },
+      "BetOnline.ag": {
+        "Cruz Azul": 2.18,
+        "León": 3.28,
+        "Draw": 3.69
+      },
+      "Betfair": {
+        "Cruz Azul": 2.22,
+        "León": 3.4,
+        "Draw": 3.75
+      },
+      "Matchbook": {
+        "Cruz Azul": 2.22,
+        "León": 3.45,
+        "Draw": 3.75
+      },
+      "1xBet": {
+        "Cruz Azul": 2.13,
+        "León": 3.12,
+        "Draw": 3.45
+      },
+      "Coolbet": {
+        "Cruz Azul": 2.15,
+        "León": 3.3,
+        "Draw": 3.55
+      },
+      "Nordic Bet": {
+        "Cruz Azul": 2.12,
+        "León": 3.15,
         "Draw": 3.4
       },
       "Betsson": {
-        "FC Kairat": 2.22,
-        "Mjällby AIF": 3.25,
-        "Draw": 3.3
-      },
-      "Marathon Bet": {
-        "FC Kairat": 2.15,
-        "Mjällby AIF": 3.26,
-        "Draw": 3.3
-      },
-      "Betfair": {
-        "FC Kairat": 2.28,
-        "Mjällby AIF": 3.5,
-        "Draw": 3.5
-      },
-      "LeoVegas (SE)": {
-        "FC Kairat": 2.08,
-        "Mjällby AIF": 3.1,
-        "Draw": 3.3
-      },
-      "Unibet (NL)": {
-        "FC Kairat": 2.2,
-        "Mjällby AIF": 3.35,
-        "Draw": 3.55
-      },
-      "888sport": {
-        "FC Kairat": 2.1,
-        "Mjällby AIF": 3.25,
-        "Draw": 3.25
-      },
-      "William Hill": {
-        "FC Kairat": 2.1,
-        "Mjällby AIF": 3.25,
-        "Draw": 3.25
-      },
-      "Pinnacle": {
-        "FC Kairat": 2.23,
-        "Mjällby AIF": 3.41,
-        "Draw": 3.41
-      },
-      "Coolbet": {
-        "FC Kairat": 2.23,
-        "Mjällby AIF": 3.4,
-        "Draw": 3.45
-      },
-      "BetOnline.ag": {
-        "FC Kairat": 2.16,
-        "Mjällby AIF": 3.36,
-        "Draw": 3.46
-      },
-      "Matchbook": {
-        "FC Kairat": 2.28,
-        "Mjällby AIF": 3.5,
-        "Draw": 3.5
-      }
-    },
-    "d5a117bed84a37bc36e3f68a7396ec4e:h2h": {
-      "Pinnacle": {
-        "Al-Faisaly KSA FC": 3.75,
-        "Diriyah Club": 1.88,
-        "Draw": 3.96
-      },
-      "888sport": {
-        "Al-Faisaly KSA FC": 3.4,
-        "Diriyah Club": 1.83,
-        "Draw": 3.5
-      },
-      "Betfair": {
-        "Al-Faisaly KSA FC": 4.0,
-        "Diriyah Club": 1.95,
-        "Draw": 3.95
-      },
-      "PMU (FR)": {
-        "Al-Faisaly KSA FC": 3.35,
-        "Diriyah Club": 1.75,
+        "Cruz Azul": 2.12,
+        "León": 3.15,
         "Draw": 3.4
       },
-      "Unibet (SE)": {
-        "Al-Faisaly KSA FC": 3.55,
-        "Diriyah Club": 1.85,
-        "Draw": 3.6
+      "Marathon Bet": {
+        "Cruz Azul": 2.11,
+        "León": 3.1,
+        "Draw": 3.45
+      }
+    },
+    "acbf7c0545986cd60dd4e4cb0152bd41:h2h": {
+      "Marathon Bet": {
+        "Macarthur FC": 3.24,
+        "Melbourne City": 2.04,
+        "Draw": 3.62
       },
-      "Tipico": {
-        "Al-Faisaly KSA FC": 3.8,
-        "Diriyah Club": 1.75,
-        "Draw": 3.8
+      "Betsson": {
+        "Macarthur FC": 3.2,
+        "Melbourne City": 2.05,
+        "Draw": 3.45
       },
-      "Unibet (NL)": {
-        "Al-Faisaly KSA FC": 3.55,
-        "Diriyah Club": 1.85,
+      "Winamax (DE)": {
+        "Macarthur FC": 3.05,
+        "Melbourne City": 2.0,
         "Draw": 3.6
       },
       "Unibet (FR)": {
-        "Al-Faisaly KSA FC": 3.15,
-        "Diriyah Club": 1.69,
-        "Draw": 3.35
+        "Macarthur FC": 2.85,
+        "Melbourne City": 1.81,
+        "Draw": 3.25
       },
-      "Betclic (FR)": {
-        "Al-Faisaly KSA FC": 3.45,
-        "Diriyah Club": 1.82,
-        "Draw": 3.7
-      },
-      "LeoVegas (SE)": {
-        "Al-Faisaly KSA FC": 3.5,
-        "Diriyah Club": 1.81,
-        "Draw": 3.5
-      },
-      "1xBet": {
-        "Al-Faisaly KSA FC": 3.71,
-        "Diriyah Club": 1.85,
-        "Draw": 3.85
+      "Nordic Bet": {
+        "Macarthur FC": 3.2,
+        "Melbourne City": 2.05,
+        "Draw": 3.45
       },
       "Winamax (FR)": {
-        "Al-Faisaly KSA FC": 3.45,
-        "Diriyah Club": 1.78,
-        "Draw": 3.75
+        "Macarthur FC": 2.9,
+        "Melbourne City": 1.94,
+        "Draw": 3.45
+      },
+      "Unibet (SE)": {
+        "Macarthur FC": 3.05,
+        "Melbourne City": 2.15,
+        "Draw": 3.4
+      },
+      "PMU (FR)": {
+        "Macarthur FC": 2.95,
+        "Melbourne City": 2.07,
+        "Draw": 3.25
+      },
+      "LeoVegas (SE)": {
+        "Macarthur FC": 3.05,
+        "Melbourne City": 2.14,
+        "Draw": 3.4
+      },
+      "Unibet (NL)": {
+        "Macarthur FC": 3.05,
+        "Melbourne City": 2.15,
+        "Draw": 3.4
+      },
+      "GTbets": {
+        "Macarthur FC": 3.26,
+        "Melbourne City": 2.07,
+        "Draw": 3.7
+      },
+      "Pinnacle": {
+        "Macarthur FC": 3.4,
+        "Melbourne City": 2.15,
+        "Draw": 3.69
+      },
+      "888sport": {
+        "Macarthur FC": 3.25,
+        "Melbourne City": 2.05,
+        "Draw": 3.4
       },
       "William Hill": {
-        "Al-Faisaly KSA FC": 3.4,
-        "Diriyah Club": 1.83,
-        "Draw": 3.5
+        "Macarthur FC": 3.25,
+        "Melbourne City": 2.05,
+        "Draw": 3.4
       },
-      "Winamax (DE)": {
-        "Al-Faisaly KSA FC": 3.5,
-        "Diriyah Club": 1.82,
-        "Draw": 3.85
+      "Coolbet": {
+        "Macarthur FC": 3.4,
+        "Melbourne City": 2.1,
+        "Draw": 3.6
+      },
+      "Codere (IT)": {
+        "Macarthur FC": 3.25,
+        "Melbourne City": 2.09,
+        "Draw": 3.55
+      },
+      "BetOnline.ag": {
+        "Macarthur FC": 3.41,
+        "Melbourne City": 2.12,
+        "Draw": 3.7
+      },
+      "Matchbook": {
+        "Macarthur FC": 3.4,
+        "Melbourne City": 2.14,
+        "Draw": 3.75
+      },
+      "Betfair": {
+        "Macarthur FC": 3.4,
+        "Melbourne City": 2.14,
+        "Draw": 3.75
       }
     }
   },
@@ -2234,7 +2334,5 @@
     }
   ],
   "results_history": [],
-  "value_alerted": [
-    "1b5eb3275c0bdc0eb75a4446f869a309:h2h|Betfair|Abha Club"
-  ]
+  "value_alerted": []
 }
