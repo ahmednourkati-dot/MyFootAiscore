@@ -1,261 +1,194 @@
 {
   "snapshots": {
-    "62616fc8a07a92e905749968501d260d:h2h": {
-      "Matchbook": {
-        "América": 1.81,
-        "Monterrey": 7.0,
-        "Draw": 3.0
-      },
-      "Unibet (NL)": {
-        "América": 1.73,
-        "Monterrey": 7.0,
-        "Draw": 2.75
-      },
-      "Unibet (SE)": {
-        "América": 1.73,
-        "Monterrey": 7.0,
-        "Draw": 2.75
-      },
-      "LeoVegas (SE)": {
-        "América": 1.63,
-        "Monterrey": 6.5,
-        "Draw": 2.6
-      },
-      "888sport": {
-        "América": 1.7,
-        "Monterrey": 6.0,
-        "Draw": 2.5
-      },
-      "PMU (FR)": {
-        "América": 1.56,
-        "Monterrey": 6.25,
-        "Draw": 2.48
-      },
-      "Betclic (FR)": {
-        "América": 1.57,
-        "Monterrey": 6.25,
-        "Draw": 2.63
-      },
-      "Coolbet": {
-        "América": 1.8,
-        "Monterrey": 8.0,
-        "Draw": 2.8
-      },
-      "Pinnacle": {
-        "América": 1.75,
-        "Monterrey": 6.67,
-        "Draw": 2.91
-      },
-      "Betsson": {
-        "América": 1.78,
-        "Monterrey": 7.2,
-        "Draw": 2.55
-      },
-      "Nordic Bet": {
-        "América": 1.78,
-        "Monterrey": 7.2,
-        "Draw": 2.55
-      },
-      "Betfair": {
-        "América": 1.83,
-        "Monterrey": 7.0,
-        "Draw": 3.1
-      },
-      "Marathon Bet": {
-        "América": 1.71,
-        "Monterrey": 6.5,
-        "Draw": 2.74
-      }
-    },
     "69b4603433d0eed91383cbee4456157b:h2h": {
       "Pinnacle": {
-        "Al-Fateh": 2.26,
-        "Al-Riyadh": 2.94,
-        "Draw": 3.76
+        "Al-Fateh": 2.37,
+        "Al-Riyadh": 2.77,
+        "Draw": 3.78
       },
       "888sport": {
-        "Al-Fateh": 2.15,
-        "Al-Riyadh": 2.8,
+        "Al-Fateh": 2.25,
+        "Al-Riyadh": 2.62,
         "Draw": 3.3
       },
       "Betfair": {
-        "Al-Fateh": 2.34,
-        "Al-Riyadh": 3.0,
-        "Draw": 3.7
+        "Al-Fateh": 2.52,
+        "Al-Riyadh": 2.86,
+        "Draw": 3.75
       },
       "Tipico": {
-        "Al-Fateh": 2.05,
-        "Al-Riyadh": 3.0,
+        "Al-Fateh": 2.25,
+        "Al-Riyadh": 2.65,
         "Draw": 3.6
       },
       "PMU (FR)": {
-        "Al-Fateh": 2.02,
-        "Al-Riyadh": 2.75,
-        "Draw": 3.25
-      },
-      "Unibet (FR)": {
-        "Al-Fateh": 1.89,
-        "Al-Riyadh": 2.75,
+        "Al-Fateh": 2.15,
+        "Al-Riyadh": 2.6,
         "Draw": 3.15
       },
+      "Unibet (FR)": {
+        "Al-Fateh": 2.0,
+        "Al-Riyadh": 2.5,
+        "Draw": 3.2
+      },
       "Unibet (SE)": {
-        "Al-Fateh": 2.15,
-        "Al-Riyadh": 2.9,
-        "Draw": 3.45
+        "Al-Fateh": 2.28,
+        "Al-Riyadh": 2.75,
+        "Draw": 3.35
       },
       "Unibet (NL)": {
-        "Al-Fateh": 2.15,
-        "Al-Riyadh": 2.9,
-        "Draw": 3.45
+        "Al-Fateh": 2.28,
+        "Al-Riyadh": 2.75,
+        "Draw": 3.35
       },
       "William Hill": {
-        "Al-Fateh": 2.15,
-        "Al-Riyadh": 2.8,
+        "Al-Fateh": 2.25,
+        "Al-Riyadh": 2.62,
         "Draw": 3.3
       },
       "LeoVegas (SE)": {
-        "Al-Fateh": 2.1,
-        "Al-Riyadh": 2.85,
-        "Draw": 3.35
+        "Al-Fateh": 2.23,
+        "Al-Riyadh": 2.65,
+        "Draw": 3.25
       },
       "Winamax (DE)": {
-        "Al-Fateh": 2.1,
-        "Al-Riyadh": 2.9,
-        "Draw": 3.55
+        "Al-Fateh": 2.25,
+        "Al-Riyadh": 2.65,
+        "Draw": 3.6
       },
       "1xBet": {
-        "Al-Fateh": 2.22,
-        "Al-Riyadh": 2.97,
-        "Draw": 3.55
+        "Al-Fateh": 2.29,
+        "Al-Riyadh": 2.81,
+        "Draw": 3.6
       },
       "Winamax (FR)": {
-        "Al-Fateh": 2.0,
-        "Al-Riyadh": 2.75,
-        "Draw": 3.4
+        "Al-Fateh": 2.2,
+        "Al-Riyadh": 2.6,
+        "Draw": 3.55
       },
       "Betclic (FR)": {
-        "Al-Fateh": 2.05,
-        "Al-Riyadh": 2.97,
-        "Draw": 3.47
+        "Al-Fateh": 2.2,
+        "Al-Riyadh": 2.7,
+        "Draw": 3.5
       }
     },
     "1b5eb3275c0bdc0eb75a4446f869a309:h2h": {
       "888sport": {
-        "Abha Club": 3.5,
-        "Al-Shabab": 1.8,
+        "Abha Club": 3.8,
+        "Al-Shabab": 1.75,
         "Draw": 3.4
       },
       "PMU (FR)": {
-        "Abha Club": 3.45,
-        "Al-Shabab": 1.72,
-        "Draw": 3.4
+        "Abha Club": 3.75,
+        "Al-Shabab": 1.63,
+        "Draw": 3.5
       },
       "Unibet (SE)": {
-        "Abha Club": 3.65,
-        "Al-Shabab": 1.83,
-        "Draw": 3.6
+        "Abha Club": 4.0,
+        "Al-Shabab": 1.73,
+        "Draw": 3.75
       },
       "Unibet (FR)": {
-        "Abha Club": 3.45,
-        "Al-Shabab": 1.61,
-        "Draw": 3.35
+        "Abha Club": 3.55,
+        "Al-Shabab": 1.58,
+        "Draw": 3.4
       },
       "Betfair": {
-        "Abha Club": 4.2,
-        "Al-Shabab": 1.88,
-        "Draw": 3.9
+        "Abha Club": 4.6,
+        "Al-Shabab": 1.86,
+        "Draw": 3.85
       },
       "Unibet (NL)": {
-        "Abha Club": 3.65,
-        "Al-Shabab": 1.83,
-        "Draw": 3.6
+        "Abha Club": 4.0,
+        "Al-Shabab": 1.73,
+        "Draw": 3.75
       },
       "Tipico": {
-        "Abha Club": 4.1,
-        "Al-Shabab": 1.72,
+        "Abha Club": 4.4,
+        "Al-Shabab": 1.67,
         "Draw": 3.7
       },
       "Pinnacle": {
-        "Abha Club": 3.9,
-        "Al-Shabab": 1.87,
-        "Draw": 3.88
+        "Abha Club": 4.12,
+        "Al-Shabab": 1.86,
+        "Draw": 3.71
       },
       "Winamax (DE)": {
-        "Abha Club": 3.65,
-        "Al-Shabab": 1.76,
-        "Draw": 3.8
+        "Abha Club": 3.8,
+        "Al-Shabab": 1.74,
+        "Draw": 3.85
       },
       "LeoVegas (SE)": {
-        "Abha Club": 3.55,
-        "Al-Shabab": 1.78,
-        "Draw": 3.5
+        "Abha Club": 3.85,
+        "Al-Shabab": 1.68,
+        "Draw": 3.65
       },
       "1xBet": {
-        "Abha Club": 3.84,
+        "Abha Club": 4.0,
         "Al-Shabab": 1.82,
-        "Draw": 3.86
-      },
-      "Winamax (FR)": {
-        "Abha Club": 3.5,
-        "Al-Shabab": 1.72,
-        "Draw": 3.6
-      },
-      "Betclic (FR)": {
-        "Abha Club": 3.8,
-        "Al-Shabab": 1.73,
         "Draw": 3.7
       },
+      "Winamax (FR)": {
+        "Abha Club": 3.75,
+        "Al-Shabab": 1.72,
+        "Draw": 3.75
+      },
+      "Betclic (FR)": {
+        "Abha Club": 3.93,
+        "Al-Shabab": 1.7,
+        "Draw": 3.73
+      },
       "William Hill": {
-        "Abha Club": 3.5,
-        "Al-Shabab": 1.8,
+        "Abha Club": 3.8,
+        "Al-Shabab": 1.75,
         "Draw": 3.4
       }
     },
     "b11e430b1d8052d0c718bcee69145f7a:h2h": {
       "1xBet": {
-        "FC Kairat": 2.21,
+        "FC Kairat": 2.23,
         "Mjällby AIF": 3.38,
-        "Draw": 3.46
+        "Draw": 3.42
       },
       "Unibet (FR)": {
-        "FC Kairat": 1.98,
-        "Mjällby AIF": 3.2,
+        "FC Kairat": 2.05,
+        "Mjällby AIF": 3.1,
         "Draw": 3.2
       },
       "Nordic Bet": {
-        "FC Kairat": 2.2,
+        "FC Kairat": 2.25,
         "Mjällby AIF": 3.3,
-        "Draw": 3.45
+        "Draw": 3.3
       },
       "Betclic (FR)": {
-        "FC Kairat": 2.12,
-        "Mjällby AIF": 2.95,
-        "Draw": 3.38
-      },
-      "Betsson": {
-        "FC Kairat": 2.18,
-        "Mjällby AIF": 3.25,
+        "FC Kairat": 2.13,
+        "Mjällby AIF": 3.15,
         "Draw": 3.4
       },
+      "Betsson": {
+        "FC Kairat": 2.22,
+        "Mjällby AIF": 3.25,
+        "Draw": 3.3
+      },
       "Marathon Bet": {
-        "FC Kairat": 2.13,
+        "FC Kairat": 2.15,
         "Mjällby AIF": 3.26,
-        "Draw": 3.34
+        "Draw": 3.3
       },
       "Betfair": {
-        "FC Kairat": 2.2,
-        "Mjällby AIF": 3.55,
-        "Draw": 3.6
+        "FC Kairat": 2.28,
+        "Mjällby AIF": 3.5,
+        "Draw": 3.5
       },
       "LeoVegas (SE)": {
-        "FC Kairat": 2.14,
-        "Mjällby AIF": 3.0,
+        "FC Kairat": 2.08,
+        "Mjällby AIF": 3.1,
         "Draw": 3.3
       },
       "Unibet (NL)": {
-        "FC Kairat": 2.25,
-        "Mjällby AIF": 3.2,
-        "Draw": 3.6
+        "FC Kairat": 2.2,
+        "Mjällby AIF": 3.35,
+        "Draw": 3.55
       },
       "888sport": {
         "FC Kairat": 2.1,
@@ -264,23 +197,100 @@
       },
       "William Hill": {
         "FC Kairat": 2.1,
-        "Mjällby AIF": 3.2,
-        "Draw": 3.2
+        "Mjällby AIF": 3.25,
+        "Draw": 3.25
       },
       "Pinnacle": {
-        "FC Kairat": 2.2,
-        "Mjällby AIF": 3.38,
-        "Draw": 3.49
+        "FC Kairat": 2.23,
+        "Mjällby AIF": 3.41,
+        "Draw": 3.41
+      },
+      "Coolbet": {
+        "FC Kairat": 2.23,
+        "Mjällby AIF": 3.4,
+        "Draw": 3.45
       },
       "BetOnline.ag": {
         "FC Kairat": 2.16,
-        "Mjällby AIF": 3.35,
+        "Mjällby AIF": 3.36,
         "Draw": 3.46
       },
       "Matchbook": {
-        "FC Kairat": 2.2,
-        "Mjällby AIF": 3.55,
+        "FC Kairat": 2.28,
+        "Mjällby AIF": 3.5,
+        "Draw": 3.5
+      }
+    },
+    "d5a117bed84a37bc36e3f68a7396ec4e:h2h": {
+      "Pinnacle": {
+        "Al-Faisaly KSA FC": 3.75,
+        "Diriyah Club": 1.88,
+        "Draw": 3.96
+      },
+      "888sport": {
+        "Al-Faisaly KSA FC": 3.4,
+        "Diriyah Club": 1.83,
+        "Draw": 3.5
+      },
+      "Betfair": {
+        "Al-Faisaly KSA FC": 4.0,
+        "Diriyah Club": 1.95,
+        "Draw": 3.95
+      },
+      "PMU (FR)": {
+        "Al-Faisaly KSA FC": 3.35,
+        "Diriyah Club": 1.75,
+        "Draw": 3.4
+      },
+      "Unibet (SE)": {
+        "Al-Faisaly KSA FC": 3.55,
+        "Diriyah Club": 1.85,
         "Draw": 3.6
+      },
+      "Tipico": {
+        "Al-Faisaly KSA FC": 3.8,
+        "Diriyah Club": 1.75,
+        "Draw": 3.8
+      },
+      "Unibet (NL)": {
+        "Al-Faisaly KSA FC": 3.55,
+        "Diriyah Club": 1.85,
+        "Draw": 3.6
+      },
+      "Unibet (FR)": {
+        "Al-Faisaly KSA FC": 3.15,
+        "Diriyah Club": 1.69,
+        "Draw": 3.35
+      },
+      "Betclic (FR)": {
+        "Al-Faisaly KSA FC": 3.45,
+        "Diriyah Club": 1.82,
+        "Draw": 3.7
+      },
+      "LeoVegas (SE)": {
+        "Al-Faisaly KSA FC": 3.5,
+        "Diriyah Club": 1.81,
+        "Draw": 3.5
+      },
+      "1xBet": {
+        "Al-Faisaly KSA FC": 3.71,
+        "Diriyah Club": 1.85,
+        "Draw": 3.85
+      },
+      "Winamax (FR)": {
+        "Al-Faisaly KSA FC": 3.45,
+        "Diriyah Club": 1.78,
+        "Draw": 3.75
+      },
+      "William Hill": {
+        "Al-Faisaly KSA FC": 3.4,
+        "Diriyah Club": 1.83,
+        "Draw": 3.5
+      },
+      "Winamax (DE)": {
+        "Al-Faisaly KSA FC": 3.5,
+        "Diriyah Club": 1.82,
+        "Draw": 3.85
       }
     }
   },
@@ -2205,10 +2215,26 @@
       "confidence": 13,
       "alert_type": "value",
       "alerted_at": "2026-11-26T04:06:00.477172+00:00"
+    },
+    {
+      "state_key": "1b5eb3275c0bdc0eb75a4446f869a309:h2h",
+      "event_id": "1b5eb3275c0bdc0eb75a4446f869a309",
+      "sport_key": "soccer",
+      "competition": "Saudi Pro League",
+      "home_team": "Abha Club",
+      "away_team": "Al-Shabab",
+      "commence_time": "2026-11-26T15:05:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Abha Club",
+      "odds_at_alert": 4.6,
+      "stake_pct": 2.0,
+      "confidence": 6,
+      "alert_type": "value",
+      "alerted_at": "2026-11-26T13:50:11.309544+00:00"
     }
   ],
   "results_history": [],
   "value_alerted": [
-    "62616fc8a07a92e905749968501d260d:h2h|Coolbet|Monterrey"
+    "1b5eb3275c0bdc0eb75a4446f869a309:h2h|Betfair|Abha Club"
   ]
 }
