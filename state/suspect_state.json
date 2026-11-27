@@ -1,351 +1,171 @@
 {
   "snapshots": {
-    "acbf7c0545986cd60dd4e4cb0152bd41:h2h": {
-      "Marathon Bet": {
-        "Macarthur FC": 2.88,
-        "Melbourne City": 2.28,
-        "Draw": 3.46
+    "5fe10ce7b664c9c5fc68912989745d8d:h2h": {
+      "Nordic Bet": {
+        "1. FC Heidenheim": 1.0,
+        "1. FC Nürnberg": 29.0,
+        "Draw": 26.0
       },
       "Betsson": {
-        "Macarthur FC": 2.8,
-        "Melbourne City": 2.32,
-        "Draw": 3.4
-      },
-      "Winamax (DE)": {
-        "Macarthur FC": 2.75,
-        "Melbourne City": 2.2,
-        "Draw": 3.6
-      },
-      "Unibet (FR)": {
-        "Macarthur FC": 2.55,
-        "Melbourne City": 1.98,
-        "Draw": 3.2
-      },
-      "Nordic Bet": {
-        "Macarthur FC": 2.8,
-        "Melbourne City": 2.32,
-        "Draw": 3.4
-      },
-      "Winamax (FR)": {
-        "Macarthur FC": 2.6,
-        "Melbourne City": 2.1,
-        "Draw": 3.4
-      },
-      "Unibet (SE)": {
-        "Macarthur FC": 2.88,
-        "Melbourne City": 2.25,
-        "Draw": 3.45
-      },
-      "PMU (FR)": {
-        "Macarthur FC": 2.75,
-        "Melbourne City": 2.16,
-        "Draw": 3.3
-      },
-      "LeoVegas (SE)": {
-        "Macarthur FC": 2.85,
-        "Melbourne City": 2.23,
-        "Draw": 3.45
-      },
-      "Unibet (NL)": {
-        "Macarthur FC": 2.88,
-        "Melbourne City": 2.25,
-        "Draw": 3.45
-      },
-      "GTbets": {
-        "Macarthur FC": 2.96,
-        "Melbourne City": 2.32,
-        "Draw": 3.7
-      },
-      "Pinnacle": {
-        "Macarthur FC": 3.05,
-        "Melbourne City": 2.39,
-        "Draw": 3.53
-      },
-      "888sport": {
-        "Macarthur FC": 2.8,
-        "Melbourne City": 2.3,
-        "Draw": 3.3
-      },
-      "William Hill": {
-        "Macarthur FC": 2.8,
-        "Melbourne City": 2.3,
-        "Draw": 3.3
-      },
-      "Coolbet": {
-        "Macarthur FC": 2.95,
-        "Melbourne City": 2.35,
-        "Draw": 3.5
-      },
-      "Codere (IT)": {
-        "Macarthur FC": 2.85,
-        "Melbourne City": 2.3,
-        "Draw": 3.5
-      },
-      "BetOnline.ag": {
-        "Macarthur FC": 3.0,
-        "Melbourne City": 2.41,
-        "Draw": 3.48
-      },
-      "Matchbook": {
-        "Macarthur FC": 3.1,
-        "Melbourne City": 2.48,
-        "Draw": 3.55
-      },
-      "Betfair": {
-        "Macarthur FC": 3.15,
-        "Melbourne City": 2.46,
-        "Draw": 3.55
-      }
-    },
-    "0e9d20640e5fb6d772ef9c7d8bd7b233:h2h": {
-      "Pinnacle": {
-        "Al-Khaleej": 2.91,
-        "Al-Kholood": 2.35,
-        "Draw": 3.61
-      },
-      "888sport": {
-        "Al-Khaleej": 2.8,
-        "Al-Kholood": 2.15,
-        "Draw": 3.25
-      },
-      "Winamax (FR)": {
-        "Al-Khaleej": 2.7,
-        "Al-Kholood": 2.15,
-        "Draw": 3.5
-      },
-      "LeoVegas (SE)": {
-        "Al-Khaleej": 3.0,
-        "Al-Kholood": 2.04,
-        "Draw": 3.25
-      },
-      "William Hill": {
-        "Al-Khaleej": 2.8,
-        "Al-Kholood": 2.15,
-        "Draw": 3.25
+        "1. FC Heidenheim": 1.0,
+        "1. FC Nürnberg": 41.0,
+        "Draw": 19.0
       },
       "Betclic (FR)": {
-        "Al-Khaleej": 2.8,
-        "Al-Kholood": 2.13,
-        "Draw": 3.5
+        "1. FC Heidenheim": 1.0,
+        "1. FC Nürnberg": 100.0,
+        "Draw": 40.0
+      },
+      "Winamax (FR)": {
+        "1. FC Heidenheim": 1.0,
+        "1. FC Nürnberg": 110.0,
+        "Draw": 30.0
       },
       "Winamax (DE)": {
-        "Al-Khaleej": 2.75,
-        "Al-Kholood": 2.2,
-        "Draw": 3.6
-      },
-      "PMU (FR)": {
-        "Al-Khaleej": 2.9,
-        "Al-Kholood": 1.96,
-        "Draw": 3.15
-      },
-      "Unibet (NL)": {
-        "Al-Khaleej": 3.1,
-        "Al-Kholood": 2.1,
-        "Draw": 3.35
-      },
-      "Unibet (SE)": {
-        "Al-Khaleej": 3.1,
-        "Al-Kholood": 2.1,
-        "Draw": 3.35
-      },
-      "Tipico": {
-        "Al-Khaleej": 3.0,
-        "Al-Kholood": 2.05,
-        "Draw": 3.6
-      },
-      "Unibet (FR)": {
-        "Al-Khaleej": 2.6,
-        "Al-Kholood": 1.96,
-        "Draw": 3.2
-      },
-      "1xBet": {
-        "Al-Khaleej": 2.95,
-        "Al-Kholood": 2.22,
-        "Draw": 3.58
-      },
-      "Betfair": {
-        "Al-Khaleej": 3.05,
-        "Al-Kholood": 2.42,
-        "Draw": 3.7
-      }
-    },
-    "f776e28e9659a71f10168cc9e792965b:h2h": {
-      "Winamax (FR)": {
-        "Al-Fayha": 9.5,
-        "Al-Qadsiah": 1.15,
-        "Draw": 7.25
-      },
-      "PMU (FR)": {
-        "Al-Fayha": 11.5,
-        "Al-Qadsiah": 1.08,
-        "Draw": 6.75
-      },
-      "Unibet (NL)": {
-        "Al-Fayha": 12.5,
-        "Al-Qadsiah": 1.15,
-        "Draw": 7.0
-      },
-      "Unibet (FR)": {
-        "Al-Fayha": 8.4,
-        "Al-Qadsiah": 1.1,
-        "Draw": 5.5
-      },
-      "Betfair": {
-        "Al-Fayha": 16.0,
-        "Al-Qadsiah": 1.2,
-        "Draw": 8.6
-      },
-      "Tipico": {
-        "Al-Fayha": 12.0,
-        "Al-Qadsiah": 1.13,
-        "Draw": 7.8
-      },
-      "Pinnacle": {
-        "Al-Fayha": 12.04,
-        "Al-Qadsiah": 1.19,
-        "Draw": 8.31
+        "1. FC Heidenheim": 1.01,
+        "1. FC Nürnberg": 100.0,
+        "Draw": 29.0
       },
       "888sport": {
-        "Al-Fayha": 11.0,
-        "Al-Qadsiah": 1.15,
-        "Draw": 7.0
+        "1. FC Heidenheim": 1.0,
+        "1. FC Nürnberg": 151.0,
+        "Draw": 51.0
       },
-      "William Hill": {
-        "Al-Fayha": 11.0,
-        "Al-Qadsiah": 1.15,
-        "Draw": 7.0
-      },
-      "LeoVegas (SE)": {
-        "Al-Fayha": 12.0,
-        "Al-Qadsiah": 1.12,
-        "Draw": 7.0
-      },
-      "Unibet (SE)": {
-        "Al-Fayha": 12.5,
-        "Al-Qadsiah": 1.15,
-        "Draw": 7.0
-      },
-      "Winamax (DE)": {
-        "Al-Fayha": 9.5,
-        "Al-Qadsiah": 1.16,
-        "Draw": 7.75
-      },
-      "1xBet": {
-        "Al-Fayha": 13.5,
-        "Al-Qadsiah": 1.14,
-        "Draw": 8.65
-      },
-      "Betclic (FR)": {
-        "Al-Fayha": 10.75,
-        "Al-Qadsiah": 1.15,
-        "Draw": 6.9
+      "Betfair": {
+        "1. FC Heidenheim": 1.01,
+        "1. FC Nürnberg": 1000.0,
+        "Draw": 70.0
       }
     },
-    "ffcd87d9e41dbce42bd91952669b2e47:h2h": {
-      "LeoVegas (SE)": {
-        "Alanyaspor": 2.45,
-        "Torku Konyaspor": 2.7,
-        "Draw": 3.0
-      },
-      "PMU (FR)": {
-        "Alanyaspor": 2.38,
-        "Torku Konyaspor": 2.65,
-        "Draw": 2.95
-      },
+    "0800ec70d1a06b551a14ef9737580294:h2h": {
       "Nordic Bet": {
-        "Alanyaspor": 2.67,
-        "Torku Konyaspor": 2.67,
-        "Draw": 3.02
+        "SV Darmstadt 98": 150.0,
+        "VfL Bochum": 1.01,
+        "Draw": 13.0
       },
-      "Unibet (SE)": {
-        "Alanyaspor": 2.55,
-        "Torku Konyaspor": 2.8,
-        "Draw": 3.15
+      "Tipico": {
+        "SV Darmstadt 98": 400.0,
+        "VfL Bochum": 1.01,
+        "Draw": 20.0
       },
       "Unibet (FR)": {
-        "Alanyaspor": 2.45,
-        "Torku Konyaspor": 2.3,
-        "Draw": 2.75
-      },
-      "Unibet (NL)": {
-        "Alanyaspor": 2.55,
-        "Torku Konyaspor": 2.8,
-        "Draw": 3.15
+        "SV Darmstadt 98": 100.0,
+        "VfL Bochum": 1.01,
+        "Draw": 4.65
       },
       "Betsson": {
-        "Alanyaspor": 2.68,
-        "Torku Konyaspor": 2.68,
-        "Draw": 3.05
+        "SV Darmstadt 98": 80.0,
+        "VfL Bochum": 1.04,
+        "Draw": 10.0
       },
       "Betclic (FR)": {
-        "Alanyaspor": 2.62,
-        "Torku Konyaspor": 2.52,
-        "Draw": 2.92
-      },
-      "Coolbet": {
-        "Alanyaspor": 2.7,
-        "Torku Konyaspor": 2.75,
-        "Draw": 3.0
-      },
-      "1xBet": {
-        "Alanyaspor": 2.86,
-        "Torku Konyaspor": 2.79,
-        "Draw": 3.1
-      },
-      "Marathon Bet": {
-        "Alanyaspor": 2.74,
-        "Torku Konyaspor": 2.68,
-        "Draw": 2.97
-      },
-      "Winamax (DE)": {
-        "Alanyaspor": 2.6,
-        "Torku Konyaspor": 2.6,
-        "Draw": 3.05
+        "SV Darmstadt 98": 100.0,
+        "VfL Bochum": 1.0,
+        "Draw": 40.0
       },
       "Winamax (FR)": {
-        "Alanyaspor": 2.55,
-        "Torku Konyaspor": 2.55,
-        "Draw": 3.0
+        "SV Darmstadt 98": 150.0,
+        "VfL Bochum": 1.01,
+        "Draw": 13.5
       },
-      "GTbets": {
-        "Alanyaspor": 2.64,
-        "Torku Konyaspor": 2.65,
-        "Draw": 3.2
+      "Winamax (DE)": {
+        "SV Darmstadt 98": 150.0,
+        "VfL Bochum": 1.03,
+        "Draw": 14.0
+      },
+      "Coolbet": {
+        "SV Darmstadt 98": 750.0,
+        "VfL Bochum": 1.02,
+        "Draw": 17.0
       },
       "Betfair": {
-        "Alanyaspor": 2.86,
-        "Torku Konyaspor": 2.96,
-        "Draw": 3.1
+        "SV Darmstadt 98": 1000.0,
+        "VfL Bochum": 1.05,
+        "Draw": 17.5
       },
       "888sport": {
-        "Alanyaspor": 2.62,
-        "Torku Konyaspor": 2.75,
-        "Draw": 2.88
+        "SV Darmstadt 98": 126.0,
+        "VfL Bochum": 1.04,
+        "Draw": 12.0
+      }
+    },
+    "e4ab54e9a3cd7a1c8ba0a74571e366be:h2h": {
+      "Winamax (FR)": {
+        "Al-Ittihad": 1.03,
+        "Neom": 450.0,
+        "Draw": 14.0
       },
-      "Pinnacle": {
-        "Alanyaspor": 2.83,
-        "Torku Konyaspor": 2.88,
-        "Draw": 3.04
+      "Betfair": {
+        "Al-Ittihad": 1.13,
+        "Neom": 70.0,
+        "Draw": 8.0
       },
       "Tipico": {
-        "Alanyaspor": 2.7,
-        "Torku Konyaspor": 2.85,
-        "Draw": 2.85
+        "Al-Ittihad": 1.01,
+        "Neom": 120.0,
+        "Draw": 9.0
       },
-      "BetOnline.ag": {
-        "Alanyaspor": 2.79,
-        "Torku Konyaspor": 2.79,
-        "Draw": 3.0
+      "Unibet (FR)": {
+        "Al-Ittihad": 1.03,
+        "Neom": 95.0,
+        "Draw": 4.4
       },
-      "Codere (IT)": {
-        "Alanyaspor": 2.75,
-        "Torku Konyaspor": 2.7,
-        "Draw": 2.95
+      "888sport": {
+        "Al-Ittihad": 1.05,
+        "Neom": 91.0,
+        "Draw": 9.0
       },
-      "Matchbook": {
-        "Alanyaspor": 2.86,
-        "Torku Konyaspor": 2.96,
-        "Draw": 3.1
+      "Unibet (SE)": {
+        "Al-Ittihad": 1.03,
+        "Neom": 226.0,
+        "Draw": 14.0
+      },
+      "William Hill": {
+        "Al-Ittihad": 1.06,
+        "Neom": 71.0,
+        "Draw": 8.0
+      },
+      "Winamax (DE)": {
+        "Al-Ittihad": 1.02,
+        "Neom": 225.0,
+        "Draw": 14.0
+      },
+      "Betclic (FR)": {
+        "Al-Ittihad": 1.03,
+        "Neom": 45.0,
+        "Draw": 8.5
+      }
+    },
+    "89dce0169387acdb7487c0c8e87c8eb2:h2h": {
+      "Nordic Bet": {
+        "Hansa Rostock": 1.0,
+        "TSV Havelse": 34.0,
+        "Draw": 15.0
+      },
+      "Betsson": {
+        "Hansa Rostock": 1.0,
+        "TSV Havelse": 34.0,
+        "Draw": 15.0
+      },
+      "888sport": {
+        "Hansa Rostock": 1.0,
+        "TSV Havelse": 126.0,
+        "Draw": 41.0
+      },
+      "Winamax (DE)": {
+        "Hansa Rostock": 1.01,
+        "TSV Havelse": 100.0,
+        "Draw": 32.0
+      },
+      "Coolbet": {
+        "Hansa Rostock": 1.0,
+        "TSV Havelse": 35.0,
+        "Draw": 16.0
+      },
+      "Betfair": {
+        "Hansa Rostock": 1.01,
+        "TSV Havelse": 60.0,
+        "Draw": 65.0
       }
     }
   },
@@ -1505,8 +1325,5 @@
     }
   ],
   "results_history": [],
-  "value_alerted": [
-    "f776e28e9659a71f10168cc9e792965b:h2h|1xBet|Al-Fayha",
-    "f776e28e9659a71f10168cc9e792965b:h2h|Betfair|Al-Fayha"
-  ]
+  "value_alerted": []
 }
