@@ -1,171 +1,411 @@
 {
   "snapshots": {
-    "5fe10ce7b664c9c5fc68912989745d8d:h2h": {
-      "Nordic Bet": {
-        "1. FC Heidenheim": 1.0,
-        "1. FC Nürnberg": 29.0,
-        "Draw": 26.0
+    "d4043fc3300abf156c6ace6e58e0cef7:h2h": {
+      "Unibet (NL)": {
+        "Columbus Crew SC": 2.88,
+        "Inter Miami CF": 3.45,
+        "Draw": 2.23
       },
-      "Betsson": {
-        "1. FC Heidenheim": 1.0,
-        "1. FC Nürnberg": 41.0,
-        "Draw": 19.0
+      "PMU (FR)": {
+        "Columbus Crew SC": 2.7,
+        "Inter Miami CF": 3.2,
+        "Draw": 2.07
       },
-      "Betclic (FR)": {
-        "1. FC Heidenheim": 1.0,
-        "1. FC Nürnberg": 100.0,
-        "Draw": 40.0
-      },
-      "Winamax (FR)": {
-        "1. FC Heidenheim": 1.0,
-        "1. FC Nürnberg": 110.0,
-        "Draw": 30.0
-      },
-      "Winamax (DE)": {
-        "1. FC Heidenheim": 1.01,
-        "1. FC Nürnberg": 100.0,
-        "Draw": 29.0
-      },
-      "888sport": {
-        "1. FC Heidenheim": 1.0,
-        "1. FC Nürnberg": 151.0,
-        "Draw": 51.0
-      },
-      "Betfair": {
-        "1. FC Heidenheim": 1.01,
-        "1. FC Nürnberg": 1000.0,
-        "Draw": 70.0
-      }
-    },
-    "0800ec70d1a06b551a14ef9737580294:h2h": {
-      "Nordic Bet": {
-        "SV Darmstadt 98": 150.0,
-        "VfL Bochum": 1.01,
-        "Draw": 13.0
-      },
-      "Tipico": {
-        "SV Darmstadt 98": 400.0,
-        "VfL Bochum": 1.01,
-        "Draw": 20.0
-      },
-      "Unibet (FR)": {
-        "SV Darmstadt 98": 100.0,
-        "VfL Bochum": 1.01,
-        "Draw": 4.65
-      },
-      "Betsson": {
-        "SV Darmstadt 98": 80.0,
-        "VfL Bochum": 1.04,
-        "Draw": 10.0
-      },
-      "Betclic (FR)": {
-        "SV Darmstadt 98": 100.0,
-        "VfL Bochum": 1.0,
-        "Draw": 40.0
-      },
-      "Winamax (FR)": {
-        "SV Darmstadt 98": 150.0,
-        "VfL Bochum": 1.01,
-        "Draw": 13.5
-      },
-      "Winamax (DE)": {
-        "SV Darmstadt 98": 150.0,
-        "VfL Bochum": 1.03,
-        "Draw": 14.0
-      },
-      "Coolbet": {
-        "SV Darmstadt 98": 750.0,
-        "VfL Bochum": 1.02,
-        "Draw": 17.0
-      },
-      "Betfair": {
-        "SV Darmstadt 98": 1000.0,
-        "VfL Bochum": 1.05,
-        "Draw": 17.5
-      },
-      "888sport": {
-        "SV Darmstadt 98": 126.0,
-        "VfL Bochum": 1.04,
-        "Draw": 12.0
-      }
-    },
-    "e4ab54e9a3cd7a1c8ba0a74571e366be:h2h": {
-      "Winamax (FR)": {
-        "Al-Ittihad": 1.03,
-        "Neom": 450.0,
-        "Draw": 14.0
-      },
-      "Betfair": {
-        "Al-Ittihad": 1.13,
-        "Neom": 70.0,
-        "Draw": 8.0
-      },
-      "Tipico": {
-        "Al-Ittihad": 1.01,
-        "Neom": 120.0,
-        "Draw": 9.0
-      },
-      "Unibet (FR)": {
-        "Al-Ittihad": 1.03,
-        "Neom": 95.0,
-        "Draw": 4.4
-      },
-      "888sport": {
-        "Al-Ittihad": 1.05,
-        "Neom": 91.0,
-        "Draw": 9.0
+      "LeoVegas (SE)": {
+        "Columbus Crew SC": 2.88,
+        "Inter Miami CF": 3.45,
+        "Draw": 2.23
       },
       "Unibet (SE)": {
-        "Al-Ittihad": 1.03,
-        "Neom": 226.0,
-        "Draw": 14.0
+        "Columbus Crew SC": 2.8,
+        "Inter Miami CF": 3.4,
+        "Draw": 2.33
       },
-      "William Hill": {
-        "Al-Ittihad": 1.06,
-        "Neom": 71.0,
-        "Draw": 8.0
-      },
-      "Winamax (DE)": {
-        "Al-Ittihad": 1.02,
-        "Neom": 225.0,
-        "Draw": 14.0
-      },
-      "Betclic (FR)": {
-        "Al-Ittihad": 1.03,
-        "Neom": 45.0,
-        "Draw": 8.5
-      }
-    },
-    "89dce0169387acdb7487c0c8e87c8eb2:h2h": {
-      "Nordic Bet": {
-        "Hansa Rostock": 1.0,
-        "TSV Havelse": 34.0,
-        "Draw": 15.0
-      },
-      "Betsson": {
-        "Hansa Rostock": 1.0,
-        "TSV Havelse": 34.0,
-        "Draw": 15.0
-      },
-      "888sport": {
-        "Hansa Rostock": 1.0,
-        "TSV Havelse": 126.0,
-        "Draw": 41.0
-      },
-      "Winamax (DE)": {
-        "Hansa Rostock": 1.01,
-        "TSV Havelse": 100.0,
-        "Draw": 32.0
+      "Unibet (FR)": {
+        "Columbus Crew SC": 2.8,
+        "Inter Miami CF": 2.9,
+        "Draw": 1.95
       },
       "Coolbet": {
-        "Hansa Rostock": 1.0,
-        "TSV Havelse": 35.0,
-        "Draw": 16.0
+        "Columbus Crew SC": 3.25,
+        "Inter Miami CF": 3.5,
+        "Draw": 2.1
+      },
+      "Betclic (FR)": {
+        "Columbus Crew SC": 2.9,
+        "Inter Miami CF": 2.87,
+        "Draw": 2.08
       },
       "Betfair": {
-        "Hansa Rostock": 1.01,
-        "TSV Havelse": 60.0,
-        "Draw": 65.0
+        "Columbus Crew SC": 3.4,
+        "Inter Miami CF": 3.55,
+        "Draw": 2.32
+      },
+      "Pinnacle": {
+        "Columbus Crew SC": 3.19,
+        "Inter Miami CF": 3.18,
+        "Draw": 2.32
+      },
+      "Winamax (FR)": {
+        "Columbus Crew SC": 2.75,
+        "Inter Miami CF": 2.85,
+        "Draw": 1.96
+      },
+      "Winamax (DE)": {
+        "Columbus Crew SC": 2.85,
+        "Inter Miami CF": 3.0,
+        "Draw": 2.0
+      },
+      "888sport": {
+        "Columbus Crew SC": 3.0,
+        "Inter Miami CF": 3.1,
+        "Draw": 2.2
+      },
+      "Betsson": {
+        "Columbus Crew SC": 3.3,
+        "Inter Miami CF": 3.2,
+        "Draw": 2.05
+      },
+      "Nordic Bet": {
+        "Columbus Crew SC": 3.2,
+        "Inter Miami CF": 3.4,
+        "Draw": 2.05
+      },
+      "MyBookie.ag": {
+        "Columbus Crew SC": 3.0,
+        "Inter Miami CF": 2.95,
+        "Draw": 2.3
+      },
+      "Marathon Bet": {
+        "Columbus Crew SC": 3.26,
+        "Inter Miami CF": 3.18,
+        "Draw": 2.19
+      },
+      "Matchbook": {
+        "Columbus Crew SC": 3.4,
+        "Inter Miami CF": 3.5,
+        "Draw": 2.3
+      }
+    },
+    "72191f41ab50634823aaf7225bc9655d:h2h": {
+      "Unibet (SE)": {
+        "Real Salt Lake": 2.7,
+        "Vancouver Whitecaps FC": 2.35,
+        "Draw": 3.6
+      },
+      "PMU (FR)": {
+        "Real Salt Lake": 2.55,
+        "Vancouver Whitecaps FC": 2.23,
+        "Draw": 3.35
+      },
+      "Unibet (NL)": {
+        "Real Salt Lake": 2.7,
+        "Vancouver Whitecaps FC": 2.35,
+        "Draw": 3.6
+      },
+      "LeoVegas (SE)": {
+        "Real Salt Lake": 2.8,
+        "Vancouver Whitecaps FC": 2.43,
+        "Draw": 3.8
+      },
+      "Unibet (FR)": {
+        "Real Salt Lake": 2.45,
+        "Vancouver Whitecaps FC": 2.05,
+        "Draw": 3.2
+      },
+      "Betclic (FR)": {
+        "Real Salt Lake": 2.57,
+        "Vancouver Whitecaps FC": 2.2,
+        "Draw": 3.37
+      },
+      "Coolbet": {
+        "Real Salt Lake": 2.85,
+        "Vancouver Whitecaps FC": 2.3,
+        "Draw": 3.6
+      },
+      "Codere (IT)": {
+        "Real Salt Lake": 2.75,
+        "Vancouver Whitecaps FC": 2.39,
+        "Draw": 3.5
+      },
+      "Pinnacle": {
+        "Real Salt Lake": 2.9,
+        "Vancouver Whitecaps FC": 2.45,
+        "Draw": 3.6
+      },
+      "Winamax (DE)": {
+        "Real Salt Lake": 2.6,
+        "Vancouver Whitecaps FC": 2.3,
+        "Draw": 3.6
+      },
+      "Winamax (FR)": {
+        "Real Salt Lake": 2.5,
+        "Vancouver Whitecaps FC": 2.2,
+        "Draw": 3.4
+      },
+      "Betfair": {
+        "Real Salt Lake": 2.98,
+        "Vancouver Whitecaps FC": 2.46,
+        "Draw": 3.75
+      },
+      "888sport": {
+        "Real Salt Lake": 2.8,
+        "Vancouver Whitecaps FC": 2.3,
+        "Draw": 3.3
+      },
+      "William Hill": {
+        "Real Salt Lake": 2.8,
+        "Vancouver Whitecaps FC": 2.3,
+        "Draw": 3.25
+      },
+      "1xBet": {
+        "Real Salt Lake": 2.95,
+        "Vancouver Whitecaps FC": 2.42,
+        "Draw": 3.58
+      },
+      "GTbets": {
+        "Real Salt Lake": 2.87,
+        "Vancouver Whitecaps FC": 2.38,
+        "Draw": 3.74
+      },
+      "Marathon Bet": {
+        "Real Salt Lake": 2.83,
+        "Vancouver Whitecaps FC": 2.32,
+        "Draw": 3.44
+      },
+      "MyBookie.ag": {
+        "Real Salt Lake": 2.74,
+        "Vancouver Whitecaps FC": 2.39,
+        "Draw": 3.6
+      },
+      "BetOnline.ag": {
+        "Real Salt Lake": 2.95,
+        "Vancouver Whitecaps FC": 2.42,
+        "Draw": 3.54
+      },
+      "Nordic Bet": {
+        "Real Salt Lake": 2.82,
+        "Vancouver Whitecaps FC": 2.42,
+        "Draw": 3.45
+      },
+      "Betsson": {
+        "Real Salt Lake": 2.82,
+        "Vancouver Whitecaps FC": 2.42,
+        "Draw": 3.45
+      },
+      "BetAnything": {
+        "Real Salt Lake": 2.95,
+        "Vancouver Whitecaps FC": 2.42,
+        "Draw": 3.54
+      },
+      "Matchbook": {
+        "Real Salt Lake": 2.98,
+        "Vancouver Whitecaps FC": 2.46,
+        "Draw": 3.75
+      }
+    },
+    "ce41cacfcb660dfe5d77395a990eb725:h2h": {
+      "Unibet (SE)": {
+        "Cerezo Osaka": 2.5,
+        "Kyoto Purple Sanga": 2.5,
+        "Draw": 3.45
+      },
+      "Unibet (NL)": {
+        "Cerezo Osaka": 2.5,
+        "Kyoto Purple Sanga": 2.5,
+        "Draw": 3.45
+      },
+      "LeoVegas (SE)": {
+        "Cerezo Osaka": 2.5,
+        "Kyoto Purple Sanga": 2.55,
+        "Draw": 3.45
+      },
+      "PMU (FR)": {
+        "Cerezo Osaka": 2.4,
+        "Kyoto Purple Sanga": 2.4,
+        "Draw": 3.3
+      },
+      "Coolbet": {
+        "Cerezo Osaka": 2.75,
+        "Kyoto Purple Sanga": 2.45,
+        "Draw": 3.5
+      },
+      "BetOnline.ag": {
+        "Cerezo Osaka": 2.88,
+        "Kyoto Purple Sanga": 2.42,
+        "Draw": 3.5
+      },
+      "Unibet (FR)": {
+        "Cerezo Osaka": 2.45,
+        "Kyoto Purple Sanga": 2.05,
+        "Draw": 3.1
+      },
+      "Betsson": {
+        "Cerezo Osaka": 2.72,
+        "Kyoto Purple Sanga": 2.38,
+        "Draw": 3.35
+      },
+      "Betclic (FR)": {
+        "Cerezo Osaka": 2.65,
+        "Kyoto Purple Sanga": 2.27,
+        "Draw": 3.33
+      },
+      "Nordic Bet": {
+        "Cerezo Osaka": 2.72,
+        "Kyoto Purple Sanga": 2.38,
+        "Draw": 3.35
+      },
+      "Winamax (FR)": {
+        "Cerezo Osaka": 2.5,
+        "Kyoto Purple Sanga": 2.25,
+        "Draw": 3.3
+      },
+      "Winamax (DE)": {
+        "Cerezo Osaka": 2.6,
+        "Kyoto Purple Sanga": 2.3,
+        "Draw": 3.45
+      },
+      "Betfair": {
+        "Cerezo Osaka": 2.94,
+        "Kyoto Purple Sanga": 2.48,
+        "Draw": 3.75
+      },
+      "1xBet": {
+        "Cerezo Osaka": 2.77,
+        "Kyoto Purple Sanga": 2.48,
+        "Draw": 3.52
+      },
+      "Pinnacle": {
+        "Cerezo Osaka": 2.92,
+        "Kyoto Purple Sanga": 2.44,
+        "Draw": 3.61
+      },
+      "Marathon Bet": {
+        "Cerezo Osaka": 2.7,
+        "Kyoto Purple Sanga": 2.42,
+        "Draw": 3.44
+      },
+      "Tipico": {
+        "Cerezo Osaka": 2.85,
+        "Kyoto Purple Sanga": 2.2,
+        "Draw": 3.4
+      },
+      "888sport": {
+        "Cerezo Osaka": 2.75,
+        "Kyoto Purple Sanga": 2.3,
+        "Draw": 3.3
+      },
+      "William Hill": {
+        "Cerezo Osaka": 2.75,
+        "Kyoto Purple Sanga": 2.3,
+        "Draw": 3.3
+      },
+      "BetAnything": {
+        "Cerezo Osaka": 2.88,
+        "Kyoto Purple Sanga": 2.42,
+        "Draw": 3.5
+      },
+      "Matchbook": {
+        "Cerezo Osaka": 2.94,
+        "Kyoto Purple Sanga": 2.46,
+        "Draw": 3.65
+      }
+    },
+    "457a2a9c7ea2501d26eeecd467e7c5c7:h2h": {
+      "LeoVegas (SE)": {
+        "Daejeon Citizen": 2.75,
+        "FC Seoul": 2.17,
+        "Draw": 3.3
+      },
+      "Unibet (SE)": {
+        "Daejeon Citizen": 2.75,
+        "FC Seoul": 2.18,
+        "Draw": 3.3
+      },
+      "Unibet (NL)": {
+        "Daejeon Citizen": 2.75,
+        "FC Seoul": 2.18,
+        "Draw": 3.3
+      },
+      "PMU (FR)": {
+        "Daejeon Citizen": 2.65,
+        "FC Seoul": 2.1,
+        "Draw": 3.15
+      },
+      "Unibet (FR)": {
+        "Daejeon Citizen": 2.35,
+        "FC Seoul": 2.15,
+        "Draw": 3.1
+      },
+      "Betclic (FR)": {
+        "Daejeon Citizen": 2.5,
+        "FC Seoul": 2.4,
+        "Draw": 3.32
+      },
+      "Betsson": {
+        "Daejeon Citizen": 2.52,
+        "FC Seoul": 2.45,
+        "Draw": 3.3
+      },
+      "Nordic Bet": {
+        "Daejeon Citizen": 2.52,
+        "FC Seoul": 2.45,
+        "Draw": 3.3
+      },
+      "BetOnline.ag": {
+        "Daejeon Citizen": 2.56,
+        "FC Seoul": 2.64,
+        "Draw": 3.5
+      },
+      "Winamax (DE)": {
+        "Daejeon Citizen": 2.5,
+        "FC Seoul": 2.45,
+        "Draw": 3.45
+      },
+      "Pinnacle": {
+        "Daejeon Citizen": 2.61,
+        "FC Seoul": 2.67,
+        "Draw": 3.67
+      },
+      "Winamax (FR)": {
+        "Daejeon Citizen": 2.4,
+        "FC Seoul": 2.35,
+        "Draw": 3.3
+      },
+      "Codere (IT)": {
+        "Daejeon Citizen": 2.5,
+        "FC Seoul": 2.47,
+        "Draw": 3.35
+      },
+      "1xBet": {
+        "Daejeon Citizen": 2.61,
+        "FC Seoul": 2.48,
+        "Draw": 3.46
+      },
+      "Marathon Bet": {
+        "Daejeon Citizen": 2.61,
+        "FC Seoul": 2.48,
+        "Draw": 3.46
+      },
+      "William Hill": {
+        "Daejeon Citizen": 2.5,
+        "FC Seoul": 2.5,
+        "Draw": 3.4
+      },
+      "Betfair": {
+        "Daejeon Citizen": 2.66,
+        "FC Seoul": 2.68,
+        "Draw": 3.7
+      },
+      "Coolbet": {
+        "Daejeon Citizen": 2.6,
+        "FC Seoul": 2.55,
+        "Draw": 3.5
+      },
+      "Matchbook": {
+        "Daejeon Citizen": 2.66,
+        "FC Seoul": 2.68,
+        "Draw": 3.65
       }
     }
   },
@@ -1322,8 +1562,26 @@
       "confidence": 7,
       "alert_type": "value",
       "alerted_at": "2026-11-27T08:14:04.883405+00:00"
+    },
+    {
+      "state_key": "d4043fc3300abf156c6ace6e58e0cef7:h2h",
+      "event_id": "d4043fc3300abf156c6ace6e58e0cef7",
+      "sport_key": "soccer",
+      "competition": "MLS",
+      "home_team": "Columbus Crew SC",
+      "away_team": "Inter Miami CF",
+      "commence_time": "2026-11-28T01:16:00Z",
+      "market_label": "Cotes 1X2",
+      "selection": "Inter Miami CF",
+      "odds_at_alert": 3.55,
+      "stake_pct": 2.0,
+      "confidence": 5,
+      "alert_type": "value",
+      "alerted_at": "2026-11-28T02:37:36.266722+00:00"
     }
   ],
   "results_history": [],
-  "value_alerted": []
+  "value_alerted": [
+    "d4043fc3300abf156c6ace6e58e0cef7:h2h|Betfair|Inter Miami CF"
+  ]
 }
